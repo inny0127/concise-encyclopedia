@@ -78,7 +78,8 @@ entries are one paragraph.
 - Abbreviations: `U.S.`, `U.K.`, `U.S.S.R.`, `UN`, `c.`; spell out others on first use.
 - Foreign terms, binomials (*Homo sapiens*), and titles of books, films, paintings,
   ships, newspapers: italic with `*…*`.
-- Quotation marks only for direct quotes, short works (songs, poems, articles).
+- Quotation marks only for direct quotes, short works (songs, poems, articles). Use double quotes
+  ("…"); single quotes only for a quote inside a quote.
 - Formulas: plain text with Unicode sub/superscripts (`H₂O`, `CO₂`, `E = mc²`,
   `10⁻⁹ m`), no LaTeX.
 
