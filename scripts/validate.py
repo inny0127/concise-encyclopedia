@@ -18,7 +18,7 @@ FORBIDDEN = [(re.compile(p, re.I), why) for p, why in [
     (r"wikipedia|grokipedia", "mentions source"),
     (r"\[\d+\]", "citation marker"),
     (r"^\s*[#\-•]", "markdown heading/bullet"),
-    (r"this article|\bwe\b|\byou\b", "first/second person"),
+    (r"this article", "first/second person"),
     (r"\*\*", "bold markup"),
     (r"it is (important|worth) (to note|noting)", "filler"),
 ]]
@@ -27,6 +27,22 @@ FORBIDDEN = [(re.compile(p, re.I), why) for p, why in [
 def words(entry):
     plain = LINK.sub(lambda m: m.group(2) or m.group(1), entry).replace("*", "")
     return len(plain.split())
+
+
+def italics_balanced(text):
+    """Pair each opening * (not after a letter/digit) with the next *. A leftover * right after a
+    letter or digit is part of a name (Sagittarius A*, M87*); any other leftover is unbalanced."""
+    text = re.sub(r"\[\[[^\]]*\]\]", "", text)
+    i = 0
+    while (i := text.find("*", i)) != -1:
+        if i and text[i - 1].isalnum():
+            i += 1  # name asterisk
+            continue
+        j = text.find("*", i + 1)
+        if j == -1:
+            return False
+        i = j + 1
+    return True
 
 
 def check(e, inp):
@@ -48,10 +64,14 @@ def check(e, inp):
     for rx, why in FORBIDDEN:
         if rx.search(unquoted):
             problems.append(why)
+    # Pronouns: lowercase only, outside *titles* and [[links]], so "I Love You" or "Zhong You" pass.
+    prose = re.sub(r"\*[^*]*\*|\[\[[^\]]*\]\]", "", unquoted)
+    if re.search(r"\b(we|you|your|our|us)\b", prose) and "first/second person" not in problems:
+        problems.append("first/second person")
     first = e["entry"].split(". ")[0]
     if inp["is_person"] and re.search(r"\((b|d)\.\s|\((born|died)\s+\w+\s+\d", first):
         problems.append("life dates in opening")
-    if e["entry"].count("*") % 2:
+    if not italics_balanced(e["entry"]):
         problems.append("unbalanced italics")
     return problems
 
