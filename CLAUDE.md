@@ -47,7 +47,11 @@ very long JSON lines. Keep lines ≤160 chars.
 > Only facts from the supplied sources; word targets by level; definitional fragment first;
 > no birth/death dates for people; cross-references only as [[Exact Candidate Title|text]]
 > from that entry's CROSSREF_CANDIDATES, first mention only, max 8; neutral on contested topics.
-> Reply only with the count written.
+> Copy numbers exactly as the sources give them; do not round or reword figures.
+> Do not use shared scratch files outside data/condensed. Reply only with the count written.
+
+For Sonnet groups, write "word targets by level (Level 3: stay within 200–280 words)". Wave 1 Level 3
+entries ran to a median of 286 words. Wave 1 also had one agent re-run another agent's scratch script.
 
 Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in parallel per wave.
 
@@ -68,6 +72,9 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
+- Wave 1 condensed (`sonnet_000`–`002`, `haiku_000`–`006`, 205 entries): all pass `validate.py`.
+  Cost was ~12.6k tokens per Sonnet entry and ~7.7k per Haiku entry, so ~120M tokens for the book.
+  The old pilot output is in `data/condensed_pilot_v1/`; pilot titles are re-condensed in their normal groups.
 - `data/selection.json` done: 10,012 Level 1–4 + 4,988 Level 5 = 15,000.
 - Sources fetched for all 15,000 (248 have no Grokipedia page). Condenser inputs built.
   `pack_groups.py` gives 99 Sonnet groups (`sonnet_002`–`sonnet_100`, 984 entries) and
