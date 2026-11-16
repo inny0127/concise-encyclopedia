@@ -59,7 +59,10 @@ def main():
     flagged, total = 0, 0
     for f in sorted(DONE.glob("*.json")):
         for e in json.loads(f.read_text(encoding="utf-8")):
-            inp = inputs[e["key"]]
+            inp = inputs.get(e["key"])
+            if inp is None:
+                print(f"{f.stem:12} UNKNOWN KEY {e['key']}")
+                continue
             have = source_numbers(inp)
             text = re.sub(r"\[\[[^\]|]+\|?", "", e["entry"])
             missing = sorted({norm(n) for n in NUM.findall(text)} - have,

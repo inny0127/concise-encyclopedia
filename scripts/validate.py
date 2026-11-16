@@ -100,6 +100,8 @@ def main():
     print(f"{len(entries)} entries written / {len(inputs)} inputs; {len(failed)} failing")
     for f in broken_files:
         print("BROKEN FILE", f)
+    for key in sorted(set(entries) - set(inputs)):
+        print(f"UNKNOWN KEY {key} in {entries[key]['_file']} (headword {entries[key].get('headword')!r})")
     for lvl in sorted(lengths):
         xs = sorted(lengths[lvl])
         print(f"level {lvl}: n={len(xs)} words median={xs[len(xs) // 2]} min={xs[0]} max={xs[-1]}")
