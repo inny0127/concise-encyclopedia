@@ -1,0 +1,33 @@
+{
+ "key": "Kepler_452b_5a5344",
+ "title": "Kepler-452b",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Super-Earth exoplanet orbiting Kepler-452",
+ "is_person": false,
+ "wiki_lead": "Kepler-452b (sometimes quoted to be an Earth 2.0 or Earth's Cousin based on its characteristics; also known by its Kepler object of interest designation KOI-7016.01) is a disputed super-Earth exoplanet candidate. Initial reports claim it is orbiting within the inner edge of the habitable zone of the sun-like star Kepler-452 and is the only planet in the system discovered by the Kepler space telescope. It is located about 1,800 light-years (550 pc) from Earth in the constellation of Cygnus. Two subsequent reports refuted the claim but additional work has reestablished the claim.\nKepler-452b orbits its star at a distance of 1.04 AU (156 million km; 97 million mi) from its host star (nearly the same distance as Earth from the Sun), with an orbital period of roughly 385 days, has a mass at least three times that of Earth, and has a radius of around 1.63 times that of Earth, or around 63% larger than earth in size. It is the first potentially rocky super-Earth planet discovered orbiting within the habitable zone of a very Sun-like star. However, it is unknown if it is entirely habitable, as it is receiving slightly more energy from its star than Earth and could be subjected to a runaway greenhouse effect.\nThe Kepler space telescope identified the exoplanet, and its discovery was announced by NASA on 23 July 2015. The planet is about 1,800 light-years (550 pc) away from the Solar System. At the speed of the New Horizons spacecraft, at about 59,000 km/h (16,000 m/s; 37,000 mph), it would take approximately 30 million years to get there.",
+ "wiki_excerpt": "Kepler-452b (sometimes quoted to be an Earth 2.0 or Earth's Cousin based on its characteristics; also known by its Kepler object of interest designation KOI-7016.01) is a disputed super-Earth exoplanet candidate. Initial reports claim it is orbiting within the inner edge of the habitable zone of the sun-like star Kepler-452 and is the only planet in the system discovered by the Kepler space telescope. It is located about 1,800 light-years (550 pc) from Earth in the constellation of Cygnus. Two subsequent reports refuted the claim but additional work has reestablished the claim.\nKepler-452b orbits its star at a distance of 1.04 AU (156 million km; 97 million mi) from its host star (nearly the same distance as Earth from the Sun), with an orbital period of roughly 385 days, has a mass at least three times that of Earth, and has a radius of around 1.63 times that of Earth, or around 63% larger than earth in size. It is the first potentially rocky super-Earth planet discovered orbiting within the habitable zone of a very Sun-like star. However, it is unknown if it is entirely habitable, as it is receiving slightly more energy from its star than Earth and could be subjected to a runaway greenhouse effect.\nThe Kepler space telescope identified the exoplanet, and its discovery was announced by NASA on 23 July 2015. The planet is about 1,800 light-years (550 pc) away from the Solar System. At the speed of the New Horizons spacecraft, at about 59,000 km/h (16,000 m/s; 37,000 mph), it would take approximately 30 million years to get there.\n\n\nPhysical characteristics\n\n\nMass, radius and temperature\n\nKepler-452b has a probable mass five times that of Earth, and its surface gravity is nearly twice as much as Earth's, though calculations of mass for exoplanets are only rough estimates. If it is a terrestrial planet, it is most likely a super-Earth with many active volcanoes due to its higher mass and density. The clouds on the planet would be thick and misty, covering much of the surface as viewed from space.\nThe planet takes 385 Earth days to orbit its star. Its radius is 60% larger than Earth's and lies within the conservative habitable zone of its parent star. It has an equilibrium temperature of 265 K (−8 °C; 17 °F), a little warmer than Earth.\n\n\nHost star\n\nThe host star, Kepler-452, is a G-type and has about the same mass as the sun, only 3.7% more massive and 11% larger. It has a surface temperature of 5757 K, nearly the same as the Sun, which has a surface temperature of 5778 K. The star's age is estimated to be about 6 billion years old, about 1.5 billion years older than the Sun, which is estimated to have existed for 4.6 billion years. Kepler-452b has been in Kepler-452's habitable zone for most of its existence, a duration just over six billion years.\nFrom the surface of Kepler-452b, its star would look almost identical to the Sun as viewed from the Earth. The star's apparent magnitude, or how bright it appears from Earth's perspective, is 13.426; th",
+ "grok_lead": "Kepler-452b is a super-Earth exoplanet orbiting the Sun-like star Kepler-452, located about 1,800 light-years away in the constellation Cygnus. Discovered in 2015 by NASA's Kepler space telescope using the transit method, it has a radius of 1.63 Â± 0.22 times that of Earth and completes one orbit every 384.8 days at a semi-major axis of 1.046 AU, positioning it within the habitable zone of its host star where liquid water might exist under suitable conditions. The host star Kepler-452 is a G2-type star with an effective temperature of 5432 Â± 45 K, a radius 1.16 Â± 0.02 times that of the Sun, a mass 1.02 Â± 0.13 times solar, and an age of approximately 6 billion yearsâ1.5 billion years older than the Sun. This star is approximately 16% larger and 5% brighter than the Sun, delivering an insolation flux to Kepler-452b that is 1.10 times Earth's, resulting in an equilibrium temperature of 265 Â± 14 K assuming a Bond albedo of 0.3. Although the planet's mass remains undetermined due to the absence of radial velocity data, statistical models indicate a probable rocky composition with a mass estimated at approximately 3.3 Earth masses, making it a potential candidate for habitability studies. Dubbed Earth 's \"older cousin\" by NASA, Kepler-452b represents a milestone as the first near- Earth -sized world found in the habitable zone of a G-type star similar to the Sun, advancing the search for potentially life-bearing exoplanets.",
+ "crossref_candidates": [
+  "Apparent magnitude",
+  "Cygnus (constellation)",
+  "Day",
+  "Earth",
+  "Earth mass",
+  "Exoplanet",
+  "Habitable zone",
+  "Kepler space telescope",
+  "Mass",
+  "NASA",
+  "New Horizons",
+  "Orbital period",
+  "Planet",
+  "Solar System",
+  "Space telescope",
+  "Spacecraft",
+  "Sun",
+  "Super-Earth",
+  "Temperature",
+  "Terrestrial planet"
+ ]
+}

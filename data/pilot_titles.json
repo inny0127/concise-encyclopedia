@@ -1,0 +1,982 @@
+[
+ {
+  "title": "Printing",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Cult of personality",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Alice's Adventures in Wonderland",
+  "level": 4,
+  "category": "Arts"
+ },
+ {
+  "title": "Cannes Film Festival",
+  "level": 4,
+  "category": "Arts"
+ },
+ {
+  "title": "Stochastic process",
+  "level": 4,
+  "category": "Mathematics"
+ },
+ {
+  "title": "Theatre of ancient Greece",
+  "level": 4,
+  "category": "Arts"
+ },
+ {
+  "title": "Gustavus Adolphus",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Cambodia",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Holocene",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Anna Akhmatova",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Common quail",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "German literature",
+  "level": 4,
+  "category": "Arts"
+ },
+ {
+  "title": "American Museum of Natural History",
+  "level": 4,
+  "category": "Arts"
+ },
+ {
+  "title": "Djibouti",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Gwanggaeto the Great",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Quentin Tarantino",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Adult",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Conifer",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Cast iron",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Nuclear chemistry",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "History of Australia",
+  "level": 4,
+  "category": "History"
+ },
+ {
+  "title": "Suryavarman II",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Bow and arrow",
+  "level": 4,
+  "category": "Technology"
+ },
+ {
+  "title": "Wang Wei",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Chemical compound",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Fritz Lang",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Zaha Hadid",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Sand",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Brazilian Highlands",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Extended family",
+  "level": 4,
+  "category": "Everyday life"
+ },
+ {
+  "title": "Kara Sea",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Whisky",
+  "level": 4,
+  "category": "Everyday life"
+ },
+ {
+  "title": "Rajinikanth",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Ernest Shackleton",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Emperor Taizu of Song",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Lamprey",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Bustard",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Privacy",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Isadora Duncan",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Padmasambhava",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "History of geography",
+  "level": 4,
+  "category": "History"
+ },
+ {
+  "title": "Spirited Away",
+  "level": 4,
+  "category": "Arts"
+ },
+ {
+  "title": "Sundial",
+  "level": 4,
+  "category": "Technology"
+ },
+ {
+  "title": "Hanoi",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Social control",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Capitalism",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Telecommunications",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Dung beetle",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Celebrity",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Alexander Dubček",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Personifications of death",
+  "level": 4,
+  "category": "Philosophy and religion"
+ },
+ {
+  "title": "Łódź",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Oak",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "El Niño–Southern Oscillation",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Cleveland",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Adrenaline",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Liberty",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Steve Jobs",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Canadian Shield",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Ancient Egyptian architecture",
+  "level": 4,
+  "category": "Arts"
+ },
+ {
+  "title": "Euclidean algorithm",
+  "level": 4,
+  "category": "Mathematics"
+ },
+ {
+  "title": "Substance dependence",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Kazan",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Brown rat",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Communism",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Parking",
+  "level": 4,
+  "category": "Technology"
+ },
+ {
+  "title": "Magellan expedition",
+  "level": 4,
+  "category": "History"
+ },
+ {
+  "title": "Medusa",
+  "level": 4,
+  "category": "Philosophy and religion"
+ },
+ {
+  "title": "Abraham Lincoln",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Nuclear fission",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Sapphire",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Airplane",
+  "level": 4,
+  "category": "Technology"
+ },
+ {
+  "title": "Pasteurization",
+  "level": 4,
+  "category": "Technology"
+ },
+ {
+  "title": "Wedge",
+  "level": 4,
+  "category": "Technology"
+ },
+ {
+  "title": "Melanin",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Masaccio",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Screw",
+  "level": 4,
+  "category": "Technology"
+ },
+ {
+  "title": "Pandemic",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "The Starry Night",
+  "level": 4,
+  "category": "Arts"
+ },
+ {
+  "title": "Pacific Coast Ranges",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Poznań",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Map projection",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Role-playing game",
+  "level": 4,
+  "category": "Everyday life"
+ },
+ {
+  "title": "Syria",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Odysseus",
+  "level": 4,
+  "category": "Philosophy and religion"
+ },
+ {
+  "title": "Sleep disorder",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Dielectric",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Civil liberties",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Porto Alegre",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Hilbert space",
+  "level": 4,
+  "category": "Mathematics"
+ },
+ {
+  "title": "Gneiss",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Ground tissue",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Guernica (Picasso)",
+  "level": 4,
+  "category": "Arts"
+ },
+ {
+  "title": "French and Indian War",
+  "level": 4,
+  "category": "History"
+ },
+ {
+  "title": "Bandung",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Mark Rothko",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Elizabeth II",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Poetic Edda",
+  "level": 4,
+  "category": "Arts"
+ },
+ {
+  "title": "Friedrich Nietzsche",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "High-speed rail",
+  "level": 4,
+  "category": "Technology"
+ },
+ {
+  "title": "James Cameron",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Pre-Columbian era",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Indium",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Umberto Eco",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Ella Fitzgerald",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Nutrition",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Late Bronze Age collapse",
+  "level": 4,
+  "category": "History"
+ },
+ {
+  "title": "Swastika",
+  "level": 4,
+  "category": "Philosophy and religion"
+ },
+ {
+  "title": "Ancient Egypt",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Estrogen",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Wikipedia",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Rothschild family",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Petrarch",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Halal",
+  "level": 4,
+  "category": "Philosophy and religion"
+ },
+ {
+  "title": "Heterosexuality",
+  "level": 4,
+  "category": "Everyday life"
+ },
+ {
+  "title": "Sun",
+  "level": 2,
+  "category": "General"
+ },
+ {
+  "title": "Climate",
+  "level": 2,
+  "category": "General"
+ },
+ {
+  "title": "Malta",
+  "level": 4,
+  "category": "Geography"
+ },
+ {
+  "title": "Conscription",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Assassination",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "McDonald's",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Michelson–Morley experiment",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Tower",
+  "level": 4,
+  "category": "Technology"
+ },
+ {
+  "title": "Electron configuration",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Antônio Carlos Jobim",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Vapor",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Lydia",
+  "level": 4,
+  "category": "History"
+ },
+ {
+  "title": "Camel",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Thomas Young (scientist)",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Epidemiology",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Backgammon",
+  "level": 4,
+  "category": "Everyday life"
+ },
+ {
+  "title": "Courage",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Euler's formula",
+  "level": 4,
+  "category": "Mathematics"
+ },
+ {
+  "title": "Watermelon",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Organization of American States",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Hopscotch",
+  "level": 4,
+  "category": "Everyday life"
+ },
+ {
+  "title": "Pedagogy",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "History of sport",
+  "level": 4,
+  "category": "History"
+ },
+ {
+  "title": "Mumbai",
+  "level": 3,
+  "category": "General"
+ },
+ {
+  "title": "Natural science",
+  "level": 4,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Koi",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "David",
+  "level": 4,
+  "category": "Philosophy and religion"
+ },
+ {
+  "title": "Cambodian genocide",
+  "level": 4,
+  "category": "History"
+ },
+ {
+  "title": "Sea urchin",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Hans Krebs (biochemist)",
+  "level": 4,
+  "category": "People"
+ },
+ {
+  "title": "Persepolis",
+  "level": 4,
+  "category": "History"
+ },
+ {
+  "title": "Teacher",
+  "level": 4,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Nucleic acid",
+  "level": 4,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Mentorship",
+  "level": 5,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Anton Pannekoek",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Panthalassa",
+  "level": 5,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Berengar I of Italy",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Butter chicken",
+  "level": 5,
+  "category": "Everyday life"
+ },
+ {
+  "title": "Convertible bond",
+  "level": 5,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Asuka period",
+  "level": 5,
+  "category": "History"
+ },
+ {
+  "title": "Bauchi State",
+  "level": 5,
+  "category": "Geography"
+ },
+ {
+  "title": "Francis Ponge",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Barry Fitzgerald",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Judas Priest",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Rockefeller Center",
+  "level": 5,
+  "category": "Arts"
+ },
+ {
+  "title": "Manu Chao",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Parliament-Funkadelic",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Zhao Tuo",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Sistine Madonna",
+  "level": 5,
+  "category": "Arts"
+ },
+ {
+  "title": "Sea level rise",
+  "level": 5,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Illuminati",
+  "level": 5,
+  "category": "Philosophy and religion"
+ },
+ {
+  "title": "Mahotella Queens",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Joanne Woodward",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Bali Kingdom",
+  "level": 5,
+  "category": "History"
+ },
+ {
+  "title": "Changde",
+  "level": 5,
+  "category": "Geography"
+ },
+ {
+  "title": "Pinus halepensis",
+  "level": 5,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Hawaiian pizza",
+  "level": 5,
+  "category": "Everyday life"
+ },
+ {
+  "title": "Patricia Arquette",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Silesauridae",
+  "level": 5,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Death Note",
+  "level": 5,
+  "category": "Arts"
+ },
+ {
+  "title": "Mount Jiuhua",
+  "level": 5,
+  "category": "Geography"
+ },
+ {
+  "title": "Igor Girkin",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Kepler-452b",
+  "level": 5,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Google Search",
+  "level": 5,
+  "category": "Technology"
+ },
+ {
+  "title": "Antenna array",
+  "level": 5,
+  "category": "Technology"
+ },
+ {
+  "title": "Mudrock",
+  "level": 5,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "Parrotfish",
+  "level": 5,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Cygnus (constellation)",
+  "level": 5,
+  "category": "Physical sciences"
+ },
+ {
+  "title": "All in the Family",
+  "level": 5,
+  "category": "Arts"
+ },
+ {
+  "title": "Tracheal intubation",
+  "level": 5,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Legal proceeding",
+  "level": 5,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Bernardo Rezende",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Neighbourhood (mathematics)",
+  "level": 5,
+  "category": "Mathematics"
+ },
+ {
+  "title": "Population bottleneck",
+  "level": 5,
+  "category": "Biology and health sciences"
+ },
+ {
+  "title": "Baba Farid",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "History of cryptography",
+  "level": 5,
+  "category": "History"
+ },
+ {
+  "title": "Caraga",
+  "level": 5,
+  "category": "Geography"
+ },
+ {
+  "title": "Powhatan (Native American leader)",
+  "level": 5,
+  "category": "People"
+ },
+ {
+  "title": "Light metro",
+  "level": 5,
+  "category": "Technology"
+ },
+ {
+  "title": "Public inquiry",
+  "level": 5,
+  "category": "Society and social sciences"
+ },
+ {
+  "title": "Lake Taymyr",
+  "level": 5,
+  "category": "Geography"
+ }
+]

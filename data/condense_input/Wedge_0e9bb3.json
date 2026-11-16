@@ -1,0 +1,33 @@
+{
+ "key": "Wedge_0e9bb3",
+ "title": "Wedge",
+ "level": 4,
+ "category": "Technology",
+ "description": "Triangular shaped tool",
+ "is_person": false,
+ "wiki_lead": "A wedge is a triangular shaped tool, a portable inclined plane, and one of the six simple machines. It can be used to separate two objects or portions of an object, lift up an object, or hold an object in place. It functions by converting a force applied to its blunt end into forces perpendicular (normal) to its inclined surfaces.  The mechanical advantage of a wedge is given by the ratio of the length of its slope to its width. \n\n",
+ "wiki_excerpt": "A wedge is a triangular shaped tool, a portable inclined plane, and one of the six simple machines. It can be used to separate two objects or portions of an object, lift up an object, or hold an object in place. It functions by converting a force applied to its blunt end into forces perpendicular (normal) to its inclined surfaces.  The mechanical advantage of a wedge is given by the ratio of the length of its slope to its width. \n\n\nHistory\n\nWedges have existed for thousands of years. They were first made of simple stone. Perhaps the first example of a wedge is the hand axe (see also Olorgesailie), which is made by chipping stone, generally flint, to form a bifacial edge, or wedge. A wedge is a simple machine that transforms lateral force and movement of the tool into a transverse splitting force and movement of the workpiece. The available power is limited by the effort of the person using the tool, but because power is the product of force and movement, the wedge amplifies the force by reducing the movement. This amplification, or mechanical advantage is the ratio of the input speed to output speed. For a wedge, this is given by 1/tanα, where α is the tip angle. The faces of a wedge are modeled as straight lines to form a sliding or prismatic joint.\nThe origin of the wedge is unknown. In ancient Egyptian quarries, bronze wedges were used to break away blocks of stone used in construction. Wooden wedges that swelled after being saturated with water were also used. Some indigenous peoples of the Americas used antler wedges for splitting and working wood to make canoes, dwellings and other objects. The wedge was first used by early humans in different parts of the world, so we don't  know where the exact place it came from.\n\n\nUses of a wedge\nWedges are used to lift heavy objects, separating them from the surface upon which they rest.\nConsider a block that is to be lifted by a wedge.  As the wedge slides under the block, the block slides up the sloped side of a wedge.  This lifts the weight FB of the block.  The horizontal force FA needed to lift the block is obtained by considering the velocity of the wedge vA and the velocity of the block vB.  If we assume the wedge does not dissipate or store energy, then the power into the wedge equals the power out.\nOr\n\nFBFA=vAvB.\nThe velocity of the block is related to the velocity of the wedge by the slope of the side of the wedge.  If the angle of the wedge is α then\n\nvB=vAtan⁡α,\nwhich means that the mechanical advantage\nMA=FBFA=1tan⁡α.\nThus, the smaller the angle α the greater the ratio of the lifting force to the applied force on the wedge.  This is the mechanical advantage of the wedge.  This formula for mechanical advantage applies to cutting edges and splitting operations, as well as to lifting.\nNote that since wedge explicitly relies on force of resistance on both sides of the wedge to deliver the force multiplier and achieve an equilibrium, the situations when one of the sides of the wedge is limited in the amount of force of resistance it can deliver is no longer a classical wedge and should be considered separately.\nThey can also be used to separate objects, such as blocks of cut stone. Splitting mauls and splitting wedges are used to split wood along the grain. \nA narrow wedge with a relatively long taper, used to finely adjust the distance between objects is called a gib, and is commonly used in machine tool adjustment.\nThe tips of forks and nails are also wedges, as they split and separate the material into which they are pushed or driven; the shafts may then hold fast due to friction.\n\n\nBlades and wedges\n\nThe blade is a compound inclined plane, consisting of two inclined planes placed so that the planes meet at one edge. When the edge where the two planes meet is pushed into a solid or fluid substance, it overcomes the resistance of materials to separate by transferring the force exerted against the material into two opposing forces normal to the faces of the blade.\nThe blade",
+ "grok_lead": "A wedge is a simple machine characterized by a triangular shape with two inclined planes joined at a sharp edge, thick at one end and tapering to a thin point at the other, designed to split, lift, or secure objects by directing force along its sloping surfaces. It functions by transforming an input force applied to its broader base into a greater output force at the tip, thereby multiplying mechanical advantage and making tasks like cutting or separating materials more efficient with less effort. The wedge has been one of the six classical simple machines recognized since ancient times, alongside the lever, wheel and axle, pulley, inclined plane, and screw, and it operates on the principle of converting linear motion into a splitting or holding action. Archaeological evidence indicates its use dates back to prehistoric eras, when early humans employed naturally jagged stones as rudimentary wedges for skinning animals and processing food, evolving into more refined tools by around 3000 BC in ancient Egypt, where wooden wedges were utilized to fracture large stone blocks for pyramid construction. In modern applications, wedges appear in everyday tools such as axes for chopping wood, knives for slicing, chisels for carving, doorstops for securing doors, and even nails or pins that hold materials together by embedding their tapered forms. These devices not only reduce the force required for separationâoften achieving mechanical advantages greater than 5 depending on the angle of the inclineâbut also play critical roles in engineering, from splitting logs in forestry to stabilizing structures in construction.",
+ "crossref_candidates": [
+  "Ancient Egypt",
+  "Antler",
+  "Axe",
+  "Blade",
+  "Bronze",
+  "Door",
+  "Flint",
+  "Force",
+  "Hand axe",
+  "Inclined plane",
+  "Indigenous peoples of the Americas",
+  "Lever",
+  "Mechanical advantage",
+  "Nail (fastener)",
+  "Plane (tool)",
+  "Pulley",
+  "Simple machine",
+  "Tool",
+  "Wheel and axle",
+  "Wood"
+ ]
+}

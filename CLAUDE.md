@@ -1,0 +1,80 @@
+# Concise Encyclopedia
+
+A personal, print-it-yourself encyclopedia modeled on the *Britannica Concise*: short, dense,
+neutral entries in a two-column B5 book. The owner prints it for their own reading.
+
+## Decisions (made with the owner, 2026-11-16)
+
+- **Language:** English.
+- **Size:** 15,000 entries. All of Wikipedia Vital Articles Levels 1–4 (~10,000) plus the
+  ~5,000 most important Level 5 articles, balanced by category (rank within category by
+  pageviews). Expected ~1,930 pages of text plus images, about 3 volumes.
+- **Sources:** Wikipedia is the base. Grokipedia is used as a cross-check (the owner's explicit
+  choice; they find it more reliable on politically contested topics). Wikidata supplies life
+  dates for people. Where the two sources frame a contested topic differently, entries give the
+  neutral version with attributed positions (see `style_guide.md`).
+- **Condensing:** LLM-condensed. Haiku for Level 4–5, Sonnet for Level 1–3, run as Claude Code
+  subagents **split across several sessions** (the owner prefers using plan quota over the
+  paid API). An API Batch run was estimated at about $25–40 for 25k entries, should the owner change their mind.
+- **Images:** included. Policy in `build_book.py::show_image` (core levels always; Level 4
+  people/geography/biology/arts/technology). Cap at roughly 2,000 images for the full book.
+- **Quality bar:** "really consistent and well made". `style_guide.md` is the single source of
+  rules. Don't change conventions without updating it.
+
+## Pipeline (`scripts/`)
+
+| Step | Script | Output |
+|---|---|---|
+| 1. Candidate list | `select_articles.py` | `data/vital.json` (~49.8k titles with level and category) |
+| 2. Pick the book's titles | *(todo)* see Next steps | `data/selection.json` |
+| 3. Fetch sources | `fetch_sources.py <list.json>` | `data/sources/*.json`, `data/images/*` (resumable) |
+| 4. Condenser inputs | `prepare_inputs.py <selection.json> [--rebuild]` | `data/condense_input/*.json` |
+| 5. Pack work groups | `pack_groups.py` | `data/groups/{sonnet,haiku}_NNN.{json,txt}` (skips finished keys) |
+| 6. Condense | subagents read `style_guide.md` + a group `.txt`, write `data/condensed/<group>.json` | |
+| 7. Check | `validate.py` (mechanical rules), `fact_check.py` (numbers absent from sources) | `data/failed.json` |
+| 8. Build | `build_book.py [--light] [--out book/x.pdf]` | `book/entries.json` → Typst `book/main.typ` → PDF |
+
+Python env: `uv venv .venv --python 3.12 && uv pip install requests beautifulsoup4 lxml typst pillow keyring`.
+Set `PYTHONUTF8=1` on Windows. Group `.txt` files exist because agent file readers truncate
+very long JSON lines. Keep lines ≤160 chars.
+
+### Subagent prompt used in the pilot (worked well)
+
+> Read the style guide `style_guide.md` and follow it exactly. Read the source file
+> `data/groups/<group>.txt` (entries separated by "=== KEY:" lines). Write ONE file
+> `data/condensed/<group>.json`: a JSON array of {"key","headword","sort_key","entry"}.
+> Only facts from the supplied sources; word targets by level; definitional fragment first;
+> no birth/death dates for people; cross-references only as [[Exact Candidate Title|text]]
+> from that entry's CROSSREF_CANDIDATES, first mention only, max 8; neutral on contested topics.
+> Reply only with the count written.
+
+Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in parallel per wave.
+
+## Status
+
+- Pilot done: 196 entries (`data/pilot_titles.json`), all pass `validate.py`. `fact_check.py`
+  found no unsupported numbers. `book/pilot.pdf` is 40 pages.
+- Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
+- `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
+  entries still have flat "H2O".
+
+## Next steps
+
+1. Write `scripts/select_final.py`: all Level 1–4 + top ~5,000 Level 5 by pageviews within each
+   category, proportional to category size → `data/selection.json`. Pageviews: the action API's
+   `prop=pageviews` takes 50 titles per request.
+2. `fetch_sources.py data/selection.json` (cached pilot sources are reused), then
+   `prepare_inputs.py data/selection.json --rebuild`, then `pack_groups.py`.
+3. Condense in waves across sessions. After each wave run `validate.py`, re-run failures with Sonnet,
+   and run `fact_check.py`.
+4. Image cap (~2,000), split into volumes (A–F / G–P / Q–Z or by page count), add an index,
+   and build print PDFs.
+
+## Notes
+
+- Wikipedia's Vital Articles pages live at `Wikipedia:Vital articles/Level N/...` (with a space). The
+  old `Level/N` titles are redirects.
+- Grokipedia lead text sits between the `<h1>` and the first `<h2>` in `<article>`. Strip script and
+  style tags and HTML comments (see `grokipedia_lead`).
+- `send_mail.py` (Naver SMTP) reads its password from Windows Credential Manager. It works only on
+  the owner's PC and has never sent successfully (535 auth error; Naver SMTP and app password not set up).
