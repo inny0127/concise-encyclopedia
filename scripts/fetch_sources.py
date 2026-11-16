@@ -193,7 +193,7 @@ def image_info(files):
 # ---------- Grokipedia ----------
 
 def grokipedia_lead(title):
-    r = get("https://grokipedia.com/page/" + quote(title.replace(" ", "_")), as_json=False)
+    r = get("https://grokipedia.com/page/" + quote(title.replace(" ", "_"), safe=""), as_json=False)
     if r is None:
         return ""
     soup = BeautifulSoup(r.text, "lxml")
