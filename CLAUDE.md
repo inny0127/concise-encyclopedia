@@ -73,8 +73,8 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
-- Waves 1–14 condensed (`sonnet_000`–`041`, `haiku_000`–`097`; 2,870 of 15,000 entries). All pass
-  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `sonnet_042`+, `haiku_098`+.
+- Waves 1–19 condensed (`sonnet_000`–`056`, `haiku_000`–`132`; 3,895 of 15,000 entries). All pass
+  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `sonnet_057`+, `haiku_133`+.
   Cost is ~13k subagent tokens per Sonnet entry and ~8k per Haiku entry, about 120M for the book.
   Old pilot output is in `data/condensed_pilot_v1/`. Pilot titles are re-condensed in their normal groups.
   Per wave: launch 3 Sonnet + 7 Haiku agents in parallel. When they finish, run both checks. Hand flags to ONE
@@ -127,3 +127,10 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - More reviewed `fact_check.py` flags, all fine: Biosphere/Brazilian Highlands (dotted thousands, now read), Galaxy 2×10¹¹
   (flattened superscript in the source), Genghis Khan 1219 (source: 1218, "the following year"). Ordinals
   ("twelfth") are now read correctly.
+
+- A scheduled task ("Encyclopedia: condense 5 waves", every 5 h) fires into the main session and runs 5 waves
+  per firing (see its prompt). Run `validate.py` yourself after every wave: agents sometimes report "no flags"
+  while their own file still has over-length entries (`sonnet_055` had 6) or a mangled key
+  (`Democratic-Republican_Party_535fd0` for `Democratic_Republican_Party_535fd0`). Fix keys mechanically.
+- `validate.py` no longer treats [[links]] as source mentions (Creative Commons links to Wikipedia). `fact_check.py`
+  also reads "2.5 × 106" as 2.5 × 10⁶ and ordinals up to ninety-ninth.
