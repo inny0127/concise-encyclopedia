@@ -19,7 +19,6 @@ FORBIDDEN = [(re.compile(p, re.I), why) for p, why in [
     (r"\[\d+\]", "citation marker"),
     (r"^\s*[#\-•]", "markdown heading/bullet"),
     (r"this article", "first/second person"),
-    (r"\*\*", "bold markup"),
     (r"it is (important|worth) (to note|noting)", "filler"),
 ]]
 
@@ -70,6 +69,8 @@ def check(e, inp):
     prose = re.sub(r"\*[^*]*\*|\[\[[^\]]*\]\]", "", unquoted)
     if re.search(r"\b(we|you|your|our|us)\b", prose) and "first/second person" not in problems:
         problems.append("first/second person")
+    if "**" in e["entry"]:  # checked on the raw text: *"Heroes"* is an italic title in quotes, not bold
+        problems.append("bold markup")
     first = e["entry"].split(". ")[0]
     if inp["is_person"] and re.search(r"\((b|d)\.\s|\((born|died)\s+\w+\s+\d", first):
         problems.append("life dates in opening")
