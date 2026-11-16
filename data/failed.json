@@ -3839,9 +3839,6 @@
  "Marcel_Duchamp_fc2ca0": [
   "not written"
  ],
- "Mountain_ec9903": [
-  "not written"
- ],
  "Inception_25bfef": [
   "not written"
  ],
@@ -4107,9 +4104,6 @@
   "not written"
  ],
  "Mount_Rainier_c20c1d": [
-  "not written"
- ],
- "Morocco_4d4a17": [
   "not written"
  ],
  "Jean_Froissart_10228d": [
@@ -5871,9 +5865,6 @@
   "not written"
  ],
  "Mashhad_de1c37": [
-  "not written"
- ],
- "Motion_822658": [
   "not written"
  ],
  "Tucson_Arizona_67fa56": [
@@ -8609,9 +8600,6 @@
  "Great_Wall_of_China_a40279": [
   "not written"
  ],
- "Mongol_Empire_47dbea": [
-  "not written"
- ],
  "Simo_H_yh_774cea": [
   "not written"
  ],
@@ -9864,9 +9852,6 @@
   "not written"
  ],
  "Jeanne_Moreau_fff363": [
-  "not written"
- ],
- "Mughal_Empire_fb6e95": [
   "not written"
  ],
  "Mercedes_Benz_be956e": [
@@ -13149,7 +13134,7 @@
   "not written"
  ],
  "Moses_a68197": [
-  "not written"
+  "too long (348 > 330)"
  ],
  "Qatar_7cc7ef": [
   "not written"
@@ -13920,9 +13905,6 @@
   "not written"
  ],
  "Lion_60d28e": [
-  "not written"
- ],
- "Morality_a84f47": [
   "not written"
  ],
  "Shawarma_dd8c19": [
@@ -17943,7 +17925,7 @@
   "not written"
  ],
  "Money_a93312": [
-  "not written"
+  "more than 8 crossrefs"
  ],
  "MS_Dhoni_db8faf": [
   "not written"
@@ -19326,7 +19308,7 @@
   "not written"
  ],
  "Moscow_7e35e7": [
-  "not written"
+  "more than 8 crossrefs"
  ],
  "Potter_s_wheel_b33206": [
   "not written"
@@ -29481,7 +29463,7 @@
   "not written"
  ],
  "Moon_d502a5": [
-  "not written"
+  "invalid crossrefs ['Artemis program']"
  ],
  "Greenhouse_gas_edbec2": [
   "not written"
