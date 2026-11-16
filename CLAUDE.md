@@ -50,6 +50,16 @@ very long JSON lines. Keep lines ≤160 chars.
 
 Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in parallel per wave.
 
+### Token budget rules (the owner is cost-sensitive)
+
+- **Always set the subagent model explicitly:** `model: "haiku"` for `haiku_*` groups, `model: "sonnet"`
+  for `sonnet_*` groups. Never let condensing agents inherit the main session's model.
+- **Never condense entries in the main session.** The main session only runs scripts, launches
+  agents and reviews validator output.
+- Keep the main session's own context small. Don't read source or condensed files in bulk;
+  rely on `validate.py` and `fact_check.py` summaries, and spot-check only flagged entries.
+- Run agents in the background and don't poll them.
+
 ## Status
 
 - Pilot done: 196 entries (`data/pilot_titles.json`), all pass `validate.py`. `fact_check.py`
