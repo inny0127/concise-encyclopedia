@@ -45,7 +45,10 @@ def spelled_numbers(text):
 
 def source_numbers(inp):
     text = " ".join([inp["wiki_lead"], inp["wiki_excerpt"], inp["grok_lead"]])
-    nums = {norm(n) for n in NUM.findall(text)} | spelled_numbers(text)
+    raw = NUM.findall(text)
+    nums = {norm(n) for n in raw} | spelled_numbers(text)
+    # "203.062.512" (dots as thousands separators, as in Portuguese or German sources)
+    nums |= {n.replace(".", "") for n in raw if re.fullmatch(r"\d{1,3}(\.\d{3}){2,}", n)}
     # "4.325 million" / "6.3 million" -> 4325000 / 6300000
     for m in re.finditer(r"(\d+(?:\.\d+)?)\s*(thousand|million|billion)", text):
         nums.add(str(round(float(m.group(1)) * {"thousand": 1e3, "million": 1e6, "billion": 1e9}[m.group(2)])))
