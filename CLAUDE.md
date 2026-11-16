@@ -47,7 +47,8 @@ very long JSON lines. Keep lines ≤160 chars.
 > Only facts from the supplied sources; word targets by level; definitional fragment first;
 > no birth/death dates for people; cross-references only as [[Exact Candidate Title|text]]
 > from that entry's CROSSREF_CANDIDATES, first mention only, max 8; neutral on contested topics.
-> Copy numbers exactly as the sources give them; do not round or reword figures.
+> Copy numbers exactly as the sources give them; do not round or reword figures, and do not add dates or
+> numbers the sources don't state.
 > Do not use shared scratch files outside data/condensed. Reply only with the count written.
 
 For Sonnet groups, write "word targets by level (Level 3: stay within 200–280 words)". Wave 1 Level 3
@@ -109,3 +110,8 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - In cloud sessions, detached processes (`nohup … &`) die about 20 minutes after the session goes idle. Run long
   jobs such as `fetch_sources.py` as a harness-tracked background Bash task (max 2 h), commit `data/sources`, and
   restart it when it exits.
+- `validate.py` counts every `*` as an italic marker, so names like "Sagittarius A*" or "M87*" can trip
+  "unbalanced italics". (Wave 4's Black hole fix wrote "Sagittarius A-star" in the text as a workaround.) Fix
+  the validator to ignore `*` inside `[[...]]` or right after a letter or digit, then revert that wording.
+- `fact_check.py` false positives so far are all format changes: spelled-out numbers ("seventeen"),
+  "6.3 million" vs 6,300,000, flattened superscripts ("1040" for 10⁴⁰), and simple arithmetic ("a year later").
