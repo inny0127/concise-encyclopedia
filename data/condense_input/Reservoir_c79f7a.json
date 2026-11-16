@@ -1,0 +1,32 @@
+{
+ "key": "Reservoir_c79f7a",
+ "title": "Reservoir",
+ "level": 4,
+ "category": "Technology",
+ "description": "Storage space for water",
+ "is_person": false,
+ "wiki_lead": "A reservoir (; from French  réservoir [ʁezɛʁvwaʁ]) is an enlarged lake behind a dam, usually built to store fresh water, often doubling for hydroelectric power generation.\nReservoirs are created by controlling a watercourse that drains an existing body of water, interrupting a watercourse to form an embayment within it, excavating, or building any number of retaining walls or levees to enclose any area to store water.\n\n",
+ "wiki_excerpt": "A reservoir (; from French  réservoir [ʁezɛʁvwaʁ]) is an enlarged lake behind a dam, usually built to store fresh water, often doubling for hydroelectric power generation.\nReservoirs are created by controlling a watercourse that drains an existing body of water, interrupting a watercourse to form an embayment within it, excavating, or building any number of retaining walls or levees to enclose any area to store water.\n\n\nTypes\n\n\nDammed valleys\n\nDammed reservoirs are artificial lakes created and controlled by a dam constructed across a valley and rely on the natural topography to provide most of the basin of the reservoir. These reservoirs can either be on-stream reservoirs, which are located on the original streambed of the downstream river and are filled by creeks, rivers or rainwater that runs off the surrounding forested catchments, or off-stream reservoirs, which receive diverted water from a nearby stream or aqueduct or pipeline water from other on-stream reservoirs.\nDams are typically located at a narrow part of a downstream of a natural basin. The valley sides act as natural walls, with the dam located at the narrowest practical point to provide strength and the lowest cost of construction. In many reservoir construction projects, people have to be moved and re-housed, historical artifacts moved or rare environments relocated. Examples include the temples of Abu Simbel (which were moved before the construction of the Aswan Dam to create Lake Nasser from the Nile in Egypt), the relocation of the village of Capel Celyn during the construction of Llyn Celyn, and the relocation of Borgo San Pietro of Petrella Salto during the construction of Lago del Salto.\nConstruction of a dammed reservoir will usually require the river to be diverted during part of the build, often through a temporary tunnel or by-pass channel.\nIn hilly regions, reservoirs are often constructed by enlarging existing lakes. Sometimes in such reservoirs, the new top water level exceeds the watershed height on one or more of the feeder streams such as at the Clywedog Reservoir in Mid Wales. In such cases additional side dams are required to contain the reservoir.\nWhere the topography is poorly suited to forming a single large reservoir, a number of smaller reservoirs may be constructed in a chain, as in the River Taff valley where the Llwyn-onn, Cantref and Beacons Reservoirs form a chain up the valley.\n\n\nCoastal\n\nCoastal reservoirs are fresh water storage reservoirs located on the sea coast near a river mouth to store the flood water of a river. As the land-based reservoir construction is fraught with substantial land submergence, coastal reservoirs are preferred economically and technically since they do not use scarce land area. Many coastal reservoirs were constructed in Asia and Europe. Saemanguem in South Korea, Marina Barrage in Singapore, Qingcaosha in China, and Plover Cove in Hong Kong are a few such coastal reservoirs.\n\n\nBank-side\n\nWhere water is pumped or siphoned from a river of variable quality or size, bank-side reservoirs may be built to store the water. Such reservoirs are usually formed partly by excavation and partly by building a complete encircling bund or embankment, which may exceed 6 km (4 miles) in circumference. Both the floor of the reservoir and the bund must have an impermeable lining or core: initially these were often made of puddled clay, but this has generally been superseded by the modern use of rolled clay. The water stored in such reservoirs may stay there for several months, during which time normal biological processes may substantially reduce many contaminants and reduce turbidity. The use of bank-side reservoirs also allows water abstraction to be stopped for some time, for instance when the river is unacceptably polluted or when flow conditions are very low due to drought. The London water supply system exhibits one example of the use of bank-side storage: here water is taken from the River Thames and River Lea into s",
+ "grok_lead": "A reservoir is a man-made lake formed by constructing a dam or embankment to impound river or stream water, enabling controlled storage for subsequent release and use. Reservoirs primarily function to provide reliable water supplies for municipal, agricultural, and industrial needs; generate hydroelectric power through controlled water flow; mitigate downstream flooding by attenuating peak river discharges; and support recreational activities such as boating and fishing. Common types include valley-dammed reservoirs, which flood narrow valleys for maximum storage efficiency, and off-stream reservoirs, which divert water from rivers without directly impounding the main channel. While reservoirs have enabled large-scale water resource management and economic development, they often entail significant environmental trade-offs, including habitat fragmentation, increased sedimentation that reduces storage capacity over time, and altered hydrologic regimes that affect downstream ecosystems and species migration.",
+ "crossref_candidates": [
+  "Aqueduct (water supply)",
+  "Bay",
+  "Coast",
+  "Dam",
+  "Drought",
+  "Ecosystem",
+  "Egypt",
+  "Fishing",
+  "Lake",
+  "Levee",
+  "Nile",
+  "Pipeline",
+  "Rain",
+  "Recreation",
+  "River",
+  "River Thames",
+  "Siphon",
+  "Valley",
+  "Wales"
+ ]
+}

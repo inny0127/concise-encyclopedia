@@ -1,0 +1,25 @@
+{
+ "key": "Strychnine_8af10d",
+ "title": "Strychnine",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Poisonous substance used as pesticide",
+ "is_person": false,
+ "wiki_lead": "Strychnine (, STRIK-neen, -⁠nin, US chiefly  -⁠nyne) is a highly toxic, colorless, bitter, crystalline alkaloid used as a pesticide, particularly for killing small vertebrates such as birds and rodents. Strychnine, when inhaled, swallowed, or absorbed through the eyes or mouth, causes poisoning which results in muscular convulsions and eventually death through asphyxia. While it is no longer used medicinally, it was used historically in small doses to strengthen muscle contractions, such as a heart and bowel stimulant and performance-enhancing drug. The most common source is from the seeds of the Strychnos nux-vomica tree.\n\n",
+ "wiki_excerpt": "Strychnine (, STRIK-neen, -⁠nin, US chiefly  -⁠nyne) is a highly toxic, colorless, bitter, crystalline alkaloid used as a pesticide, particularly for killing small vertebrates such as birds and rodents. Strychnine, when inhaled, swallowed, or absorbed through the eyes or mouth, causes poisoning which results in muscular convulsions and eventually death through asphyxia. While it is no longer used medicinally, it was used historically in small doses to strengthen muscle contractions, such as a heart and bowel stimulant and performance-enhancing drug. The most common source is from the seeds of the Strychnos nux-vomica tree.\n\n\nBiosynthesis\n\nStrychnine is a terpene indole alkaloid belonging to the Strychnos family of Corynanthe alkaloids, and it is derived from tryptamine and secologanin. The biosynthesis of strychnine was solved in 2022. The enzyme, strictosidine synthase, catalyzes the condensation of tryptamine and secologanin, followed by a Pictet-Spengler reaction to form strictosidine. Many steps have been inferred by isolation of intermediates from Strychnos nux-vomica. The next step is hydrolysis of the acetal, which opens the ring by elimination of glucose (O-Glu) and provides a reactive aldehyde. The nascent aldehyde is then attacked by a secondary amine to afford geissoschizine, a common intermediate of many related compounds in the Strychnos family.\nA reverse Pictet-Spengler reaction cleaves the C2–C3 bond, while subsequently forming the C3–C7 bond via a 1,2-alkyl migration, an oxidation from a Cytochrome P450 enzyme to a spiro-oxindole, nucleophilic attack from the enol at C16, and elimination of oxygen forms the C2–C16 bond to provide dehydropreakuammicine. Hydrolysis of the methyl ester and decarboxylation leads to norfluorocurarine. Stereospecific reduction of the endocyclic double bond by NADPH and hydroxylation provides the Wieland-Gumlich aldehyde, which was first isolated by Heimberger and Scott in 1973, although previously synthesized by Wieland and Gumlich in 1932. To elongate the appendage by two carbons, acetyl-CoA is added to the aldehyde in an aldol reaction to afford prestrychnine. Strychnine is then formed by a facile addition of the amine with the carboxylic acid or its activated CoA thioester, followed by ring-closure via displacement of an activated alcohol.\n\n\nChemical synthesis\n\nAs early researchers noted, the strychnine molecular structure, with its specific array of rings, stereocenters, and nitrogen functional groups, is a complex synthetic target, and has stimulated interest for that reason and for interest in the structure–activity relationships underlying its pharmacologic activities. An early synthetic chemist targeting strychnine, Robert Burns Woodward, quoted the chemist who determined its structure through chemical decomposition and related physical studies as saying that \"for its molecular size it is the most complex organic substance known\" (attributed to Sir Robert Robinson).\nThe first total synthesis of ",
+ "grok_lead": "Strychnine is a highly toxic indole alkaloid with the molecular formula CââHââNâOâ, extracted from the seeds of the Strychnos nux-vomica tree. Characterized as a colorless, bitter-tasting crystalline powder, it functions as a potent competitive antagonist of glycine receptors in the spinal cord, blocking inhibitory neurotransmission and thereby inducing severe muscle spasms, rigidity, and convulsions that can lead to respiratory arrest and death even in minute doses. For centuries, strychnine was administered in trace amounts as a central nervous system stimulant to treat conditions such as digestive disorders and lethargy in traditional and early modern medicine, though its narrow therapeutic index rendered it hazardous and prompted replacement by safer agents. Today, its primary application is as a restricted rodenticide, valued for rapidly incapacitating target pests through neurotoxic overload, despite regulatory bans in many regions owing to risks of secondary poisoning in non-target wildlife and humans.",
+ "crossref_candidates": [
+  "Alkaloid",
+  "Asphyxia",
+  "Bird",
+  "Carboxylic acid",
+  "Central nervous system",
+  "Crystal",
+  "Glucose",
+  "Pesticide",
+  "Robert Burns Woodward",
+  "Rodent",
+  "Stimulant",
+  "Vertebrate"
+ ]
+}

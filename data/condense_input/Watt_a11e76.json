@@ -1,0 +1,34 @@
+{
+ "key": "Watt_a11e76",
+ "title": "Watt",
+ "level": 4,
+ "category": "Physical sciences",
+ "description": "SI derived unit of power",
+ "is_person": false,
+ "wiki_lead": "The watt (symbol: W) is the unit of power or radiant flux in the International System of Units (SI), equal to 1 joule per second or 1 kg⋅m2⋅s−3. It is used to quantify the rate of energy transfer. The watt is named in honor of James Watt (1736–1819), an 18th-century Scottish inventor, mechanical engineer, and chemist who in 1776 improved the Newcomen engine with his own steam engine, which became fundamental for the Industrial Revolution.\n\n",
+ "wiki_excerpt": "The watt (symbol: W) is the unit of power or radiant flux in the International System of Units (SI), equal to 1 joule per second or 1 kg⋅m2⋅s−3. It is used to quantify the rate of energy transfer. The watt is named in honor of James Watt (1736–1819), an 18th-century Scottish inventor, mechanical engineer, and chemist who in 1776 improved the Newcomen engine with his own steam engine, which became fundamental for the Industrial Revolution.\n\n\nOverview\nWhen an object's velocity is held constant at one meter per second against a constant opposing force of one newton, the rate at which work is done is one watt.\n1 W=1 J/s=1 N⋅m/s=1 kg⋅m2⋅s−3.\nIn terms of electromagnetism, one watt is the rate at which electrical work is performed when a current of one ampere (A) flows across an electrical potential difference of one volt (V), meaning the watt is equivalent to the volt-ampere (the latter unit, however, is used for a different quantity from the real power of an electrical circuit).\n1 W=1 V⋅A.\nTwo additional unit conversions for watt can be found using the above equation and Ohm's law.\n1 W=1 V2/Ω=1 A2⋅Ω,\nwhere ohm (Ω) is the SI derived unit of electrical resistance.\n\n\nExamples\nA person having a mass of 100 kg who climbs a 3-meter-high ladder in 5 seconds is doing work at a rate of about 600 watts. Mass times acceleration due to gravity times height divided by the time it takes to lift the object to the given height gives the rate of doing work or power.\nA laborer over the course of an eight-hour day can sustain an average output of about 75 watts; higher power levels can be achieved for short intervals and by athletes.\n\n\nHistory\nThe watt is named after the Scottish inventor James Watt. The unit name was proposed by C. William Siemens in August 1882 in his President's Address to the Fifty-Second Congress of the British Association for the Advancement of Science. Noting that units in the practical system of units were named after leading physicists, Siemens proposed that watt might be an appropriate name for a unit of power. Siemens defined the unit within the existing system of practical units as \"the power conveyed by a current of an Ampère through the difference of potential of a Volt\".\nIn October 1908, at the International Conference on Electric Units and Standards in London, so-called international definitions were established for practical electrical units. Siemens' definition was adopted as the international watt. (Also used: 1 A2 × 1 Ω.) The watt was defined as equal to 107 units of power in the practical system of units. The \"international units\" were dominant from 1909 until 1948. After the 9th General Conference on Weights and Measures in 1948, the international watt was redefined from practical units to absolute units (i.e., using only length, mass, and time). Concretely, this meant that 1 watt was defined as the quantity of energy transferred in a unit of time, namely 1 J/s. In this new definition, 1 absolute watt = 1.00019 international watts. Texts written before 1948 are likely to be using the international watt, which implies caution when comparing numerical values from this period with the post-1948 watt. In 1960, the 11th General Conference on Weights and Measures adopted the absolute watt into the International System of Units (SI) as the unit of power. \n\n\nMultiples\n\nAttowatt\nThe sound intensity in water corresponding to the international standard reference sound pressure of 1 μPa is approximately 0.65 aW/m2.\nFemtowatt\nPowers measured in femtowatts are typically found in references to radio and radar receivers. For example, meaningful FM tuner performance figures for sensitivity, quieting and signal-to-noise require that the RF energy applied to the antenna input be specified. These input levels are often stated in dBf (decibels referenced to 1 femtowatt). This is 0.2739 microvolts across a 75-ohm load or 0.5477 microvolt across a 300-ohm load; the specification takes into account the RF input impedance of the tuner.\n",
+ "grok_lead": "The watt (symbol: W) is the derived unit of power and radiant flux in the International System of Units (SI). It is defined as the power that gives rise to energy of one joule in one second. The watt is named in honor of James Watt (1736â1819), a Scottish inventor, mechanical engineer, and chemist renowned for his improvements to the steam engine, which significantly advanced the efficiency of early industrial machinery and contributed to powering the Industrial Revolution. Dimensionally, the watt is equivalent to one joule per second (1 W = 1 J/s), or in terms of SI base units, 1 kgâmÂ²âsâ»Â³. In electrical systems, it represents the rate of work when a current of one ampere flows under a potential difference of one volt (P = V Ã I). The unit is widely used to quantify the power consumption or output of electrical devices, engines, and light sources, with common multiples such as the kilowatt (1 kW = 1,000 W) applied to larger scales like household appliances and power plants.",
+ "crossref_candidates": [
+  "Ampere",
+  "Decibel",
+  "Electromagnetism",
+  "Energy",
+  "Engine",
+  "Gravity",
+  "Industrial Revolution",
+  "International System of Units",
+  "James Watt",
+  "Joule",
+  "Newton (unit)",
+  "Ohm",
+  "Ohm's law",
+  "Power (physics)",
+  "Radar",
+  "Radio",
+  "Science (journal)",
+  "Second",
+  "Velocity",
+  "Volt",
+  "Work (physics)"
+ ]
+}

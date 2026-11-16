@@ -1,0 +1,32 @@
+{
+ "key": "Salicylic_acid_0e6402",
+ "title": "Salicylic acid",
+ "level": 5,
+ "category": "Biology and health sciences",
+ "description": "Chemical compound used in medicines and industry",
+ "is_person": false,
+ "wiki_lead": "Salicylic acid is an organic compound with the formula C7H6O3. A colorless (or white), bitter-tasting solid, it is a precursor to and a metabolite of acetylsalicylic acid (aspirin). It is a plant hormone, and the name is from Latin salix for willow tree, from which it was initially identified and derived. It is used as an ingredient in dermatologic cosmetics (e.g. anti-acne products). Salts and esters of salicylic acid are known as salicylates.\nIn the USA, it has been listed by the EPA Toxic Substances Control Act (TSCA) Chemical Substance Inventory as an experimental teratogen.\n\n",
+ "wiki_excerpt": "Salicylic acid is an organic compound with the formula C7H6O3. A colorless (or white), bitter-tasting solid, it is a precursor to and a metabolite of acetylsalicylic acid (aspirin). It is a plant hormone, and the name is from Latin salix for willow tree, from which it was initially identified and derived. It is used as an ingredient in dermatologic cosmetics (e.g. anti-acne products). Salts and esters of salicylic acid are known as salicylates.\nIn the USA, it has been listed by the EPA Toxic Substances Control Act (TSCA) Chemical Substance Inventory as an experimental teratogen.\n\n\nUses\n\n\nMedicine\n\nSalicylic acid as a medication is commonly used to remove the outermost layer of the skin. As such, it is used to treat warts, psoriasis, acne vulgaris, ringworm, dandruff, and ichthyosis.\nSimilar to other hydroxy acids, salicylic acid is an ingredient in many skincare products for the treatment of seborrhoeic dermatitis, acne, psoriasis, calluses, corns, keratosis pilaris, acanthosis nigricans, ichthyosis, and warts. In the European Union, salicylic acid is regulated as a cosmetic ingredient under Annex III (entry 98) of the Cosmetics Regulation (EC) No 1223/2009. For uses other than as a preservative it is permitted at concentrations up to 3.0% in rinse-off hair products and 2.0% in other products, with a lower limit of 0.5% in certain leave-on products such as body lotion and eye and lip cosmetics; it is separately permitted as a preservative at up to 0.5%. Reflecting its classification as toxic to reproduction (CMR category 2), it may not be used in products intended for children under three years of age (other than shampoos), in oral products, or in applications that could be inhaled.\n\n\nUses in manufacturing\nSalicylic acid is used as a food preservative, a bactericide, and an antiseptic.\nSalicylic acid is used in the production of other pharmaceuticals, including 4-aminosalicylic acid, sandulpiride, and landetimide (via salethamide). It is also used in picric acid production.\nSalicylic acid has long been a key starting material for making acetylsalicylic acid (ASA or aspirin). ASA is prepared by the acetylation of salicylic acid with the acetyl group from acetic anhydride or acetyl chloride. ASA is the standard to which all the other non-steroidal anti-inflammatory drugs (NSAIDs) are compared. In veterinary medicine, this group of drugs is mainly used for treatment of inflammatory musculoskeletal disorders.\nBismuth subsalicylate, a salt of bismuth and salicylic acid, \"displays anti-inflammatory action (due to salicylic acid) and also acts as an antacid and mild antibiotic\". It is an active ingredient in stomach-relief aids such as Pepto-Bismol and some formulations of Kaopectate.\nOther derivatives include methyl salicylate, used as a liniment to soothe joint and muscle pain, and choline salicylate, which is used topically to relieve the pain of mouth ulcers. Aminosalicylic acid is used to induce remission in ulcerative colitis, and has been used as",
+ "grok_lead": "Salicylic acid, also known as 2-hydroxybenzoic acid, is a lipophilic monohydroxybenzoic acid and a type of beta hydroxy acid (BHA) with the molecular formula CâHâOâ. It is a white, crystalline solid that occurs naturally in the bark of willow trees ( Salix species) and leaves of wintergreen plants. Chemically, it features a benzene ring substituted with a hydroxyl group (-OH) and a carboxyl group (-COOH) in the ortho position, making it a key precursor in the synthesis of aspirin (acetylsalicylic acid). Historically, salicylic acid's medicinal properties trace back to ancient civilizations, where willow bark was used to alleviate pain and fever, as documented by Hippocrates around 400 BCE. The active compound, salicin, was isolated from willow bark in 1829 by French pharmacist Henri Leroux, and Italian chemist Raffaele Piria derived salicylic acid from it in 1838. In 1853, Charles FrÃ©dÃ©ric Gerhardt first synthesized acetylsalicylic acid, but it was German chemist Hermann Kolbe who developed an efficient industrial synthesis of salicylic acid in 1860, paving the way for its widespread use. By the late 19th century, Bayer patented aspirin in 1899, building on salicylic acid's anti-inflammatory, analgesic, and antipyretic effects, though salicylic acid itself causes gastric irritation that aspirin mitigates. Salicylic acid exhibits keratolytic, antifungal, and anti-inflammatory properties, primarily due to its ability to exfoliate the stratum corneum and penetrate lipid-rich skin layers. Physically, it has a melting point of 158â159 Â°C, sublimes at 76 Â°C, and shows moderate solubility in water (approximately 2.24 g/L at 25 Â°C) but better solubility in organic solvents like ethanol and ether. In medicine, it is widely used topically at concentrations of 0.5â6% to treat acne, psoriasis, dandruff, seborrheic dermatitis, warts, and fungal infections by promoting desquamation and reducing inflammation. These percentages are typically weight/volume (w/v), corresponding to grams of salicylic acid per 100 ml of product. Industrially, it serves as a raw material for producing aspirin, dyes, preservatives, and resins. However, it is classified as harmful if swallowed, causes severe eye irritation and can lead to chemical burns on eye contact, and may pose reproductive toxicity risks, necessitating careful handling.",
+ "crossref_candidates": [
+  "Acne",
+  "Aspirin",
+  "Benzene",
+  "Bismuth",
+  "Ester",
+  "Ethanol",
+  "Hippocrates",
+  "Ion",
+  "Latin",
+  "Organic compound",
+  "Plant hormone",
+  "Psoriasis",
+  "Salt (chemistry)",
+  "Skin",
+  "Stoma",
+  "Stomach",
+  "Ulcerative colitis",
+  "Wart",
+  "Willow"
+ ]
+}

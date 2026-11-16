@@ -1,0 +1,29 @@
+{
+ "key": "Sprite_lightning_83f7b9",
+ "title": "Sprite (lightning)",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Electrical discharges above thunderstorm clouds",
+ "is_person": false,
+ "wiki_lead": "Sprites or red sprites are large-scale electric discharges that occur in the mesosphere, high above thunderstorm clouds, or cumulonimbus, giving rise to a varied range of visual shapes flickering in the night sky. They are usually triggered by the discharges of positive lightning between an underlying thundercloud and the ground.",
+ "wiki_excerpt": "Sprites or red sprites are large-scale electric discharges that occur in the mesosphere, high above thunderstorm clouds, or cumulonimbus, giving rise to a varied range of visual shapes flickering in the night sky. They are usually triggered by the discharges of positive lightning between an underlying thundercloud and the ground.\n\n\nSummary\nSprites appear as luminous red-orange flashes. They often occur in clusters above the troposphere at an altitude range of 50–90 km (31–56 mi). Sporadic visual reports of sprites go back at least to 1886. They were first photographed on July 4, 1989, by scientists from the University of Minnesota and have subsequently been captured in video recordings thousands of times.\nSprites are sometimes inaccurately called upper-atmospheric lightning. However, they are cold plasma phenomena that lack the hot channel temperatures of tropospheric lightning, so they are more akin to fluorescent tube discharges than to lightning discharges. Sprites are associated with various other upper-atmospheric optical phenomena including blue jets and ELVES.\n\n\nHistory\nThe earliest known report is by Toynbee and Mackenzie in 1886. Nobel laureate C. T. R. Wilson had suggested in 1925, on theoretical grounds, that electrical breakdown could occur in the upper atmosphere, and in 1956 he witnessed what possibly could have been a sprite. They were first documented photographically on July 6, 1989, when scientists from the University of Minnesota, using a low-light video camera, accidentally captured the first image of what would subsequently become known as a sprite.\nSeveral years after their discovery they were named \"sprites\" (air spirits) after their namesake mythological entity based on their elusive nature. Since the 1989 video capture, images of sprites have been made from the ground, from aircraft, and from space, and have become the subject of intensive investigations. A high-speed video captured by Thomas Ashcraft, Jacob L Harley, Matthew G McHarg, and Hans Nielsen in 2019 at about 100,000 frames per second provided some observations on how sprites develop. However, according to the NASA APOD blog, despite being recorded in photographs and videos for more than 30 years, the \"root cause\" of sprite lightning remains unknown, \"apart from a general association with positive cloud-to-ground lightning\". NASA also notes that not all storms exhibit sprite lightning. \nIn 2016, sprites were observed during Hurricane Matthew's passage through the Caribbean. The role of sprites in the tropical cyclones is presently unknown.\nSince 2022 NASA operates a citizen science website and database called Spritacular collecting and studying images of sprites by citizens.\n\n\nCharacteristics\n\nSprites have been observed over North America, Central America, South America, Europe, Central Africa (Zaire), Australia, the Sea of Japan, and Asia and are believed to occur during most large thunderstorm systems.\nRodger (1999) categorized three types of sprites based on ",
+ "grok_lead": "A sprite is a type of transient luminous event (TLE) consisting of a large-scale electrical discharge that occurs in the mesosphere, approximately 50 to 90 kilometers above Earth's surface, typically above intense thunderstorms. These events appear as brief, red or orange optical emissions, often resembling jellyfish, carrots, or branching columns, and last for just a few milliseconds before fading. They are among the most commonly observed TLEs and are electrically induced by the interaction between thunderstorm-generated lightning and the upper atmosphere. Sprites form when a powerful positive cloud-to-ground lightning strike âcarrying a large charge moment changeâgenerates a transient electric field that exceeds the dielectric strength of the air in the mesosphere, causing ionization and luminous breakdown. The red coloration results from excited nitrogen molecules emitting light at specific wavelengths during this process. Unlike typical lightning, which occurs within or below clouds, sprites extend upward and can span tens of kilometers vertically and horizontally, sometimes producing secondary features like halos or beads. They are most frequently observed over landmasses with high thunderstorm activity, such as the Great Plains of the United States, but have been documented globally, including in Europe and South Asia. The phenomenon was first accidentally documented on July 6, 1989, by researchers from the University of Minnesota using low-light video cameras during a cross-calibration experiment between satellite and ground-based particle detectors, revealing unexpected upward discharges above a distant thunderstorm. This discovery, published the following year, sparked intensive study of upper-atmospheric lightning and related TLEs, including elves and blue jets. Ongoing observations, aided by citizen science projects like NASA's Spritacular, continue to reveal sprites' role in atmospheric electricity and potential links to climate-driven increases in thunderstorm intensity.",
+ "crossref_candidates": [
+  "Asia",
+  "Australia",
+  "Central Africa",
+  "Central America",
+  "Electric field",
+  "Europe",
+  "Halo (optical phenomenon)",
+  "Light",
+  "Lightning",
+  "NASA",
+  "North America",
+  "Plasma (physics)",
+  "Sea of Japan",
+  "South America",
+  "Thunderstorm",
+  "Zaire"
+ ]
+}

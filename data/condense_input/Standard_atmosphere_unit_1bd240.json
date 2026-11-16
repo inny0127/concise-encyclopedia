@@ -1,0 +1,22 @@
+{
+ "key": "Standard_atmosphere_unit_1bd240",
+ "title": "Standard atmosphere (unit)",
+ "level": 4,
+ "category": "Physical sciences",
+ "description": "Unit of pressure defined as 101325 Pa",
+ "is_person": false,
+ "wiki_lead": "The standard atmosphere (symbol: atm) is a unit of pressure defined as 101325 Pa. It is sometimes used as a reference pressure or standard pressure. It is approximately equal to Earth's average atmospheric pressure at sea level.\n\n",
+ "wiki_excerpt": "The standard atmosphere (symbol: atm) is a unit of pressure defined as 101325 Pa. It is sometimes used as a reference pressure or standard pressure. It is approximately equal to Earth's average atmospheric pressure at sea level.\n\n\nHistory\nThe standard atmosphere was originally defined as the pressure exerted by a 760 mm column of mercury at 0 °C (32.00 °F; 273.15 K) and standard gravity (gn = 9.80665 m/s2).  It was used as a reference condition for physical and chemical properties, and the definition of the Celsius temperature scale set 100 °C as the boiling point of water at this pressure. In 1954, the 10th General Conference on Weights and Measures (CGPM) adopted standard atmosphere for general use and affirmed its definition of being precisely equal to 1013250 dynes per square centimetre (101325 Pa). This defined pressure in a way that is independent of the properties of any particular substance. In addition, the CGPM noted that there had been some misapprehension that the previous definition (from the 9th CGPM) \"led some physicists to believe that this definition of the standard atmosphere was valid only for accurate work in thermometry.\"\nIn chemistry and in various industries, the reference pressure referred to in 'standard temperature and pressure' was commonly 1 atm (101.325 kPa) prior to 1982, but standards have since diverged; in 1982, the International Union of Pure and Applied Chemistry recommended that for the purposes of specifying the physical properties of substances, standard pressure should be precisely 100 kPa (1 bar).\n\n\nPressure units and equivalencies\n\nA pressure of 1 atm can also be stated as:\n\n≈ 1.033 kgf/cm2\n≈ 10.33 m H2O\n≈ 760 mmHg\n\n≈ 29.92 inHg\n≈ 406.782 in H2O\n≈ 2116.22 pounds-force per square foot (lbf/ft2)\nThe notation ata has been used to indicate an absolute pressure measured in either standard atmospheres (atm) or technical atmospheres (at).\n\n",
+ "grok_lead": "The standard atmosphere (symbol: atm) is a non-SI unit of pressure defined as exactly 101325 pascals (Pa), equivalent to 1.01325 Ã 10âµ Pa. This value was established by the 10th General Conference on Weights and Measures (CGPM) in 1954 to provide a fixed reference for general scientific and engineering applications, approximating the mean sea-level atmospheric pressure on Earth under standard conditions. Prior to this formal adoption, the unit was conventionally tied to the pressure exerted by a column of mercury 760 millimeters high at 0 Â°C under standard gravity, but the 1954 definition decoupled it from variable physical measurements to ensure precision and universality. The standard atmosphere remains widely used in fields such as aviation, meteorology, and chemistry as a benchmark for normalizing pressure data, despite the International System of Units (SI) favoring the pascal. It is exactly equivalent to 760 millimeters of mercury (mmHg) or torr at standard temperature and gravity, 14.69595 pounds per square inch (psi), and 1.01325 bars. This unit's adoption facilitated consistent international standards for pressure -related calculations, such as in gas laws and atmospheric modeling, where it serves as a convenient reference without implying a specific environmental model like the U.S. Standard Atmosphere profile.",
+ "crossref_candidates": [
+  "Atmospheric pressure",
+  "Celsius",
+  "Chemistry",
+  "Earth",
+  "Mercury (element)",
+  "Pascal (unit)",
+  "Pressure",
+  "Sea level",
+  "Standard temperature and pressure"
+ ]
+}

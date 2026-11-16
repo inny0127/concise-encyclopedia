@@ -1,0 +1,27 @@
+{
+ "key": "Epoch_d5d00a",
+ "title": "Epoch",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Reference point from which time is measured",
+ "is_person": false,
+ "wiki_lead": "In chronology and periodization, an epoch or reference epoch is an instant in time chosen as the origin of a particular calendar era. The \"epoch\" serves as a reference point from which time is measured.\nThe moment of epoch is usually decided by congruity, or by following conventions understood from the epoch in question. The epoch moment or date is usually defined from a specific, clear event of change, an epoch event. Where a historical shift is gradual, the epoch is defined as the precise moment a critical threshold is crossed.",
+ "wiki_excerpt": "In chronology and periodization, an epoch or reference epoch is an instant in time chosen as the origin of a particular calendar era. The \"epoch\" serves as a reference point from which time is measured.\nThe moment of epoch is usually decided by congruity, or by following conventions understood from the epoch in question. The epoch moment or date is usually defined from a specific, clear event of change, an epoch event. Where a historical shift is gradual, the epoch is defined as the precise moment a critical threshold is crossed.\n\n\nCalendar eras\n\n\nPre-modern eras\nAnno Mundi [lit. \"Year of the World\"] (years since the creation of the world) is used in\nthe Byzantine calendar (5509 BC).\nthe Hebrew calendar (3761 BC).\nThe Mesoamerican Long Count Calendar uses the creation of the fourth world in 3114 BC.\nOlympiads, the ancient Greek era of four-year periods between Olympic Games, beginning in 776 BC.\nAb urbe condita (\"from the foundation of the city\"), used to some extent by Roman calendars of the Roman imperial period (753 BC).\nBuddhist calendars tend to use the epoch of 544 BC (date of Buddha's parinirvana).\nThe term Hindu calendar may refer to a number of traditional Indian calendars. A notable example of a Hindu epoch is the Vikram Samvat (58 BC), also used in modern times as the national calendars of Nepal and Bangladesh.\nThe Julian and Gregorian calendars use as epoch the Incarnation of Jesus as calculated in the 6th century by Dionysius Exiguus. (Subsequent research has shown that this moment is about four years after the best estimate for the date of birth of Jesus.) This epoch was applied retrospectively to the Julian calendar, long after its original creation by Julius Caesar.\nThe epoch of the Islamic calendar is the Hijra (AD 622).  The year count in this calendar shifts relative to the solar year count, as the calendar is purely lunar: its year consists of 12 lunations and is thus ten or eleven days shorter than a solar year. This calendar denotes \"lunar years\" as Anno Hegiræ ([since] the year of the Hijra) or AH. This calendar is used in Sunni Islam and related sects.\nThe epoch of the official Iranian calendar is also the Hijra, but it is a solar calendar; each year begins at the Northern spring equinox. This calendar is used in Shia Islam and related sects.\n\n\nModern eras\nThe Bahá'í calendar is dated from the vernal equinox of the year the Báb proclaimed his religion (AD 1844). Years are grouped in Váḥids of 19 years, and Kull-i-Shay of 361 (19×19) years.\nIn Thailand in 1888 King Chulalongkorn decreed a National Thai Era dating from the founding of Bangkok on April 6, 1782. In 1912, New Year's Day was shifted to April 1. In 1941, Prime Minister Phibunsongkhram decided to count the years since 543 BC. This is the Thai solar calendar using the Thai Buddhist Era. Except for this era, it is the Gregorian calendar.\nIn the French Republican Calendar, a calendar used by the French government for about twelve years from late 1793, the epoch was t",
+ "grok_lead": "In chronology and periodization, an epoch or reference epoch is an instant in time chosen as the origin of a particular calendar era. More broadly, an epoch refers to a distinct and notable period of time in history, geology, or other fields, often characterized by significant events, developments, or conditions. The term has applications in diverse disciplines, including historical eras, geological time scales, astronomical references, computing timestamps, and cultural or fictional contexts.",
+ "crossref_candidates": [
+  "Bangkok",
+  "Bangladesh",
+  "Chronology",
+  "Chulalongkorn",
+  "Gregorian calendar",
+  "Hebrew calendar",
+  "Hindu calendar",
+  "Islamic calendar",
+  "Julian calendar",
+  "Julius Caesar",
+  "Nepal",
+  "Shia Islam",
+  "Sunni Islam",
+  "Thailand"
+ ]
+}

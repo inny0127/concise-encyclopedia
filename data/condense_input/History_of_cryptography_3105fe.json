@@ -10,18 +10,14 @@
  "grok_lead": "The history of cryptography documents the progression of techniques designed to safeguard messages and data from unauthorized disclosure, evolving from primitive symbolic obfuscation in ancient societies to mathematically rigorous systems underpinning digital infrastructure. This evolution has been inextricably linked to conflicts, statecraft, and technological advancement, with cryptanalysis often driving improvements in encryption strength. Earliest evidence appears around 1900 BC in Egypt, where irregular hieroglyphs in tomb chambers likely concealed incantations from profane eyes. Classical antiquity saw transposition methods like the Spartan scytale âa rod-wrapped leather strip rearranging lettersâand substitution ciphers such as the Roman Caesar shift, displacing letters by a fixed number to encode military directives. In the 9th century, Al-Kindi formalized frequency analysis, statistically decrypting substitution ciphers by matching ciphertext letter distributions to plaintext language norms, marking the dawn of systematic codebreaking. Renaissance innovations introduced polyalphabetic ciphers, cycling through multiple alphabets to evade frequency-based attacks, as in the VigenÃ¨re tableau. The 20th century heralded electromechanical rotors, exemplified by the German Enigma machine, whose daily settings encrypted Nazi commands during World War II. Allied efforts, initiated by Polish mathematicians and advanced by British teams using Turing's bombe devices at Bletchley Park, routinely deciphered Enigma, yielding Ultra intercepts that accelerated Axis defeat by years. The postwar era integrated computing, birthing public-key cryptography via Diffie and Hellman's 1976 framework for key agreement sans trusted channels, enabling asymmetric schemes like RSA and securing e-commerce. Contemporary cryptography grapples with quantum threats, spurring lattice-based and hash-resistant primitives.",
  "crossref_candidates": [
   "Al-Kindi",
-  "Cipher",
-  "Cryptanalysis",
   "Cryptography",
   "Encryption",
   "Enigma machine",
   "India",
   "Kama Sutra",
-  "Key (cryptography)",
   "Mesopotamia",
   "Nazi Germany",
   "Old Kingdom of Egypt",
-  "Pictogram",
   "Public-key cryptography",
   "Renaissance",
   "Sparta"

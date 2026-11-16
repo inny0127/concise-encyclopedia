@@ -1,0 +1,30 @@
+{
+ "key": "Caesium_137_3bc173",
+ "title": "Caesium-137",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Radioactive isotope of caesium",
+ "is_person": false,
+ "wiki_lead": "Caesium-137 (13755Cs), cesium-137 (US), or radiocaesium, is a radioactive isotope of caesium that is formed as one of the more common fission products by the nuclear fission of uranium-235 and other fissionable isotopes in nuclear reactors and nuclear weapons. Trace quantities also originate from spontaneous fission of uranium-238. It is among the most problematic of the short-to-medium-lifetime fission products. Caesium has a relatively low boiling point of 671 °C (1,240 °F) and easily becomes volatile when released suddenly at high temperature, as in the case of the Chernobyl nuclear accident and with nuclear explosions, and can travel very long distances in the air. After being deposited onto the soil as radioactive fallout, it moves and spreads easily in the environment because of the high water solubility of caesium's most common chemical compounds, which are salts. Caesium-137 was discovered by Glenn T. Seaborg and Margaret Melhase.\n\n",
+ "wiki_excerpt": "Caesium-137 (13755Cs), cesium-137 (US), or radiocaesium, is a radioactive isotope of caesium that is formed as one of the more common fission products by the nuclear fission of uranium-235 and other fissionable isotopes in nuclear reactors and nuclear weapons. Trace quantities also originate from spontaneous fission of uranium-238. It is among the most problematic of the short-to-medium-lifetime fission products. Caesium has a relatively low boiling point of 671 °C (1,240 °F) and easily becomes volatile when released suddenly at high temperature, as in the case of the Chernobyl nuclear accident and with nuclear explosions, and can travel very long distances in the air. After being deposited onto the soil as radioactive fallout, it moves and spreads easily in the environment because of the high water solubility of caesium's most common chemical compounds, which are salts. Caesium-137 was discovered by Glenn T. Seaborg and Margaret Melhase.\n\n\nDecay\n\nCaesium-137 has a half-life of about 30.04 years, decaying by beta emission to stable barium-137. About 94.6% of the decays go to a metastable nuclear isomer of barium: barium-137m (137mBa) and the remainder directly to the ground state. Barium-137m has a half-life of about 153 seconds, its dropping to the ground state usually (85.1% of all 137Cs decays) emitting photons having energy 0.6617 MeV. This is responsible for all of the gamma ray emissions in samples of 137Cs.\n\n\nUses\n\nCaesium-137 has a number of practical uses. In small amounts, it is used to calibrate radiation-detection equipment.‍ In medicine, it is used in radiation therapy.‍ In industry, it is used in flow meters, thickness gauges,‍ moisture-density gauges (for density readings, with americium-241/beryllium providing the moisture reading),‍ and in borehole logging devices.‍\nCaesium-137 is not widely used for industrial radiography because it is hard to obtain a very high specific activity material with a well defined (and small) shape, as caesium from used nuclear fuel contains stable caesium-133 and also long-lived caesium-135. Isotope separation is too costly compared to cheaper alternatives. Also, the higher specific activity caesium sources tend to be made from highly soluble caesium chloride (CsCl); as a result, if a radiography source were to be damaged, the risk of radioactive contamination is high. It is possible to make water-insoluble caesium sources (with ferrocyanides, for example) but their specific activity will be lower. Other chemically inert caesium compounds include caesium-aluminosilicate-glasses akin to the natural mineral pollucite. The latter has been used in demonstrations of chemically stable water-insoluble forms of nuclear waste for disposal in deep geological repositories. A large emitting volume will harm the image quality in radiography. The isotopes 192Ir and 60Co are preferred for radiography, since iridium and cobalt are chemically non-reactive metals and can be obtained with much higher specific activitie",
+ "grok_lead": "Caesium-137 is a radioactive isotope of the alkali metal caesium (atomic number 55) with mass number 137, artificially produced as a fission product during the splitting of uranium-235 nuclei in nuclear reactors and atomic weapons, yielding approximately 6% per fission event. It decays primarily by beta emission to metastable barium-137, which has a short half-life of about 2.6 minutes and emits a characteristic 662 keV gamma ray, with the overall half-life of caesium-137 measured at 30.17 years. Due to its intense gamma radiation and suitable half-life, caesium-137 is employed in sealed sources for calibrating radiation detectors, industrial thickness gauges, and formerly in brachytherapy for cancer treatment, as well as in food irradiation and sterilization processes. However, its high solubility in water and biological uptake mimicking potassium pose severe contamination risks, as evidenced by widespread environmental release during the 1986 Chernobyl nuclear disaster, where it contributed significantly to long-term radioactive fallout across Europe, and the 1987 GoiÃ¢nia accident in Brazil, involving a stolen medical source that exposed hundreds and caused four fatalities from acute radiation syndrome. These events underscore caesium-137's role as a persistent radiological hazard, necessitating stringent handling protocols and monitoring in nuclear operations.",
+ "crossref_candidates": [
+  "Acute radiation syndrome",
+  "Beryllium",
+  "Boiling point",
+  "Caesium",
+  "Chemical compound",
+  "Cyanide",
+  "Gamma ray",
+  "Half-life",
+  "Nuclear fission",
+  "Nuclear reactor",
+  "Nuclear weapon",
+  "Photon",
+  "Potassium",
+  "Radiation therapy",
+  "Salt (chemistry)",
+  "Uranium",
+  "Uranium-235"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "key": "Bedrock_3836cb",
+ "title": "Bedrock",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Solid rock under loose surface material",
+ "is_person": false,
+ "wiki_lead": "In geology, bedrock is the solid rock that lies under weathered rock and unconsolidated or loose superficial deposits (together known as regolith) in the near surface part of Earth's crust or the crust of another terrestrial planet. The top of the bedrock is known as rockhead .",
+ "wiki_excerpt": "In geology, bedrock is the solid rock that lies under weathered rock and unconsolidated or loose superficial deposits (together known as regolith) in the near surface part of Earth's crust or the crust of another terrestrial planet. The top of the bedrock is known as rockhead .\n\n\nDefinition\nBedrock is the solid rock that underlies looser surface material. An exposed portion of bedrock is often called an outcrop. The various kinds of broken and weathered rock material, such as soil and subsoil, that may overlie the bedrock are known as regolith. The area where bedrock and these overlying materials meet is called rockhead.\n\n\nEngineering geology\nThe surface of the bedrock beneath the soil cover (regolith) is also known as rockhead in engineering geology, and its identification by digging, drilling or geophysical methods is an important task in most civil engineering projects. Superficial deposits can be very thick, such that the bedrock lies hundreds of meters below the surface.\n\n\nWeathering of bedrock\nExposed bedrock experiences weathering, which may be physical or chemical, and which alters the structure of the rock to leave it susceptible to erosion. Bedrock may also experience subsurface weathering at its upper boundary, forming saprolite. Rock fragments can disconnect from the underlying bedrock, where they are found within a weathering or soil profile as floaters.\n\n\nGeological map\nA geological map of an area will usually show the distribution of differing bedrock types, rock that would be exposed at the surface if all soil or other superficial deposits were removed. Where superficial deposits are so thick that the underlying bedrock cannot be reliably mapped, the superficial deposits will be mapped instead (for example, as alluvium).\n\n",
+ "grok_lead": "Bedrock is the solid, consolidated rock that underlies soil, sediment, and other unconsolidated surface materials, serving as the foundational layer of the Earth's crust. It encompasses a variety of rock types, including igneous, metamorphic, and sedimentary formations, which are well-lithified through geological processes such as cementation and crystallization. These rocks form over vast timescales, often dating back hundreds of millions of years, and their composition and structure provide critical insights into the planet's tectonic history and mineral resources. In geological studies, bedrock is mapped to reveal the distribution and age of rock units beneath surficial deposits, aiding in understanding regional geology and natural hazards like landslides and erosion. For instance, igneous rocks such as granite and basalt, sedimentary layers like limestone and sandstone, and metamorphic types including gneiss and schist dominate different terrains worldwide. Bedrock influences landscape formation by controlling soil development, water flow, and vegetation patterns, as its geochemical properties regulate nutrient availability and hydrologic regimes. Beyond natural sciences, bedrock plays a pivotal role in civil engineering and infrastructure development, where its depth, strength, and stability are essential for siting foundations, tunnels, and roads to ensure structural integrity. Engineers assess bedrock propertiesâsuch as compressive strength âto mitigate risks from weathering or fracturing. Variations in bedrock type also affect environmental factors, including groundwater aquifers and seismic resilience, underscoring its interdisciplinary importance.",
+ "crossref_candidates": [
+  "Civil engineering",
+  "Earth's crust",
+  "Erosion",
+  "Geology",
+  "Rock (geology)",
+  "Soil",
+  "Terrestrial planet",
+  "Weathering"
+ ]
+}

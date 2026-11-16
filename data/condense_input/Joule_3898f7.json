@@ -1,0 +1,35 @@
+{
+ "key": "Joule_3898f7",
+ "title": "Joule",
+ "level": 4,
+ "category": "Physical sciences",
+ "description": "SI unit of energy",
+ "is_person": false,
+ "wiki_lead": "The joule ( JOOL, or  JOWL; symbol: J) is the unit of energy in the International System of Units (SI). In terms of SI base units, one joule corresponds to one kilogram-metre squared per second squared (1 J = 1 kg⋅m2⋅s−2). One joule is equal to the amount of work done when a force of one newton displaces a body through a distance of one metre in the direction of that force. It is also the energy dissipated as heat when an electric current of one ampere passes through a resistance of one ohm for one second. It is named after the English physicist James Prescott Joule (1818–1889).",
+ "wiki_excerpt": "The joule ( JOOL, or  JOWL; symbol: J) is the unit of energy in the International System of Units (SI). In terms of SI base units, one joule corresponds to one kilogram-metre squared per second squared (1 J = 1 kg⋅m2⋅s−2). One joule is equal to the amount of work done when a force of one newton displaces a body through a distance of one metre in the direction of that force. It is also the energy dissipated as heat when an electric current of one ampere passes through a resistance of one ohm for one second. It is named after the English physicist James Prescott Joule (1818–1889).\n\n\nDefinition\nAccording to the International Bureau of Weights and Measures the joule is defined as \"the work done when the point of application of 1 MKS unit of force [newton] moves a distance of 1 metre in the direction of the force.\"\nIn terms of SI base units and in terms of SI derived units with special names, the joule is defined as\n\nOne joule is also equivalent to any of the following:\n\nThe work required to move an electric charge of one coulomb through an electrical potential difference of one volt, or one coulomb-volt (C⋅V). This relationship can be used to define the volt.\nThe work required to produce one watt of power for one second, or one watt-second (W⋅s) (compare kilowatt-hour, which is 3.6 megajoules). This relationship can be used to define the watt.\nThe joule is named after James Prescott Joule. As with every SI unit named after a person, its symbol starts with an upper case letter (J), but when written in full, it follows the rules for capitalisation of a common noun; i.e., joule becomes capitalised at the beginning of a sentence and in titles but is otherwise in lower case.\n\n\nHistory\n\nThe CGS system had been declared official in 1881, at the first International Electrical Congress.\nThe erg was adopted as its unit of energy in 1882. Wilhelm Siemens, in his inauguration speech as chairman of the British Association for the Advancement of Science (23 August 1882) first proposed the joule as unit of heat, to be derived from the electromagnetic units ampere and ohm, in cgs units equivalent to 107 erg.\nThe naming of the unit in honour of James Prescott Joule (1818–1889), at the time retired and aged 63, followed the recommendation of Siemens:\n\nSuch a heat unit, if found acceptable, might with great propriety, I think, be called the Joule, after the man who has done so much to develop the dynamical theory of heat.\nAt the second International Electrical Congress, on 31 August 1889, the joule was officially adopted alongside the watt and the quadrant (later renamed to henry).\nJoule died in the same year, on 11 October 1889.\nAt the fourth congress (1893), the \"international ampere\" and \"international ohm\" were defined, with slight changes in the specifications for their measurement, with the \"international joule\" being the unit derived from them.\nIn 1935, the International Electrotechnical Commission (successor of the International Electrical Congress) adopted the \"Giorgi system\", which by virtue of assuming a defined value for the magnetic constant also implied a redefinition of the joule. The Giorgi system was approved by the International Committee for Weights and Measures in 1946. The joule was no longer defined based on electromagnetic unit, but instead as the unit of work performed by one unit of force (not yet named newton) over the distance of 1 metre. The joule was explicitly intended as the unit of energy to be used in both electromagnetic and mechanical contexts. The ratification of the definition at the ninth General Conference on Weights and Measures, in 1948, added the specification that the joule was also to be preferred as the unit of heat in the context of calorimetry, thereby officially deprecating the use of the calorie.  This is the definition declared in the modern International System of Units in 1960.\nThe definition of the joule as J = kg⋅m2⋅s−2 has remained unchanged since 1946, but the joule as a derived unit has inheri",
+ "grok_lead": "The joule (symbol: J) is the derived unit of energy, work, and heat in the International System of Units (SI). It is defined as the amount of work done when a force of one newton is applied over a distance of one metre in the direction of the force. In terms of SI base units, the joule is equivalent to one kilogram metre squared per second squared ( kgâmÂ²âsâ»Â²). Named in honour of the English physicist James Prescott Joule (1818â1889), who experimentally established the mechanical equivalent of heat through his pioneering work on the interconvertibility of mechanical work and thermal energy, the unit was adopted by the International Electrical Congress in 1889 and later formalized in the SI system. Joule's contributions, including precise measurements showing that heat is a form of energy rather than a separate fluid (caloric), laid foundational principles for the first law of thermodynamics. The joule is widely used across physics, engineering, and everyday applications to quantify energy transfers, such as in mechanical systems (e.g., kinetic or potential energy), electrical circuits (e.g., power consumption), and thermal processes (e.g., heat capacity). For context, one joule is approximately the energy required to lift an apple (about 100 grams) one metre against Earth's gravity, or the kinetic energy of a 1 kg mass moving at about 1.4 m/s. Common equivalents include: 1 joule â 0.239 calories (the energy to raise 1 gram of water by 1 Â°C), 1 joule â 9.48 Ã 10â»â´ British thermal units (Btu), and 1 kilowatt-hour (kWh) = 3.6 Ã 10â¶ joules. Larger multiples like the kilojoule (kJ), megajoule (MJ), and gigajoule (GJ) are employed for scales such as food nutrition, fuel combustion, and electrical billing.",
+ "crossref_candidates": [
+  "Ampere",
+  "Calorie",
+  "Coulomb",
+  "Earth",
+  "Electric charge",
+  "Electric current",
+  "Energy",
+  "Force",
+  "Heat",
+  "International System of Units",
+  "James Prescott Joule",
+  "Kilogram",
+  "Kinetic energy",
+  "Mass",
+  "Metre",
+  "Newton (unit)",
+  "Ohm",
+  "Power (physics)",
+  "Second",
+  "Volt",
+  "Watt",
+  "Work (physics)"
+ ]
+}

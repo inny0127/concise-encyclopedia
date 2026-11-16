@@ -1,0 +1,22 @@
+{
+ "key": "Hound_a6092d",
+ "title": "Hound",
+ "level": 4,
+ "category": "Biology and health sciences",
+ "description": "Type of hunting dog",
+ "is_person": false,
+ "wiki_lead": "A hound is a type of hunting dog used by hunters to track or chase prey. Hounds are a diverse group of dogs, but all of them have been bred specifically for hunting.",
+ "wiki_excerpt": "A hound is a type of hunting dog used by hunters to track or chase prey. Hounds are a diverse group of dogs, but all of them have been bred specifically for hunting.\n\n\nDescription\nHounds can be contrasted with gun dogs that assist hunters by identifying prey and/or recovering shot quarry. The hound breeds were the first hunting dogs. They have either a powerful sense of smell, great speed, or both. There are three types of hound, with several breeds within each type:\n\nSighthounds (also called gazehounds) follow prey predominantly by speed, keeping it in sight. These dogs are fast and assist hunters in catching game: fox, hare, deer, and elk.\nScenthounds follow prey or others (like missing people) by tracking its scent. These dogs have endurance, but are not fast runners.\nThe remaining breeds of hound follow their prey using both sight and scent. They are difficult to classify, as they are neither strictly sighthounds nor strictly scenthounds.\n\n\nList of hound breeds\n\n",
+ "grok_lead": "A hound is a type of dog belonging to any of numerous breeds developed primarily for hunting, encompassing both scent hounds âsuch as the Bloodhound and Beagle, which track prey using their acute sense of smellâand sighthounds âsuch as the Greyhound and Saluki, which pursue quarry by sight with explosive speed and keen vision. These dogs are typically athletic, independent, and vocal, with traits selected over centuries for endurance, stamina, and sociability in packs, making them versatile companions in field work and modern homes despite their sometimes stubborn nature. The history of hounds traces back to ancient civilizations, with evidence of sighthound-like dogs in Egypt as early as 3000 BCE, where they were depicted in tombs as swift hunters accompanying pharaohs, and scent hounds emerging in medieval Europe from monastic breeding programs, such as the St. Hubert Hound in the 8th century. By the 18th and 19th centuries, European nobility refined many breeds for foxhunting and game tracking, leading to formal classification into the Hound Group by kennel clubs like the American Kennel Club in 1930, which today includes over 30 diverse breeds ranging from the compact Dachshund to the massive Irish Wolfhound. In contemporary contexts, hounds excel in roles beyond hunting, such as search-and-rescue operations, where Bloodhounds' unparalleled tracking abilityâcapable of following scents days oldâhas earned them a reputation in law enforcement, and competitive sports like lure coursing for sighthounds. Their defining physical features include long ears and droopy jowls in scent hounds for scent retention, and slender, aerodynamic builds in sighthounds for speed up to 45 mph, though they often require patient training due to their strong prey drive and selective hearing. Overall, hounds represent a cornerstone of canine diversity, blending ancient utility with enduring loyalty.",
+ "crossref_candidates": [
+  "Beagle",
+  "Bloodhound",
+  "Breed",
+  "Deer",
+  "Elk",
+  "Fox",
+  "Greyhound",
+  "Gun dog",
+  "Hare"
+ ]
+}

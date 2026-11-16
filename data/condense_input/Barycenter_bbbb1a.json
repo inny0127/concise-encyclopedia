@@ -1,0 +1,32 @@
+{
+ "key": "Barycenter_bbbb1a",
+ "title": "Barycenter",
+ "level": 4,
+ "category": "Physical sciences",
+ "description": "Center of mass of multiple bodies orbiting each other",
+ "is_person": false,
+ "wiki_lead": "In astronomy, the barycenter (or barycentre; from Ancient Greek  βάρος (báros) 'weight' and  κέντρον (kéntron) 'center') is the  center of mass around which two or more bodies orbit. A barycenter is a dynamical point, not a physical object. It is an important concept in fields such as astronomy and astrophysics. The distance from a body's center of mass to the barycenter can be calculated as a two-body problem.\nIf one of the two orbiting bodies is much more massive than the other and the bodies are relatively close to one another, the barycenter will typically be located within the more massive object. In this case, rather than the two bodies appearing to orbit a point between them, the less massive body will appear to orbit about the more massive body, while the more massive body might be observed to wobble slightly. This is the case for the Earth–Moon system, whose barycenter is located on average 4,671 km (2,902 mi) from Earth's center, which is 74% of Earth's radius of 6,378 km (3,963 mi). When the two bodies are of similar masses, the barycenter will generally be located between them and both bodies will orbit around it. This is the case for Pluto and Charon, one of Pluto's natural satellites, as well as for many binary asteroids and binary stars. When the less massive object is far away, the barycenter can be located outside the more massive object. This is the case for Jupiter and the Sun; despite the Sun being a thousandfold more massive than Jupiter, their barycenter is slightly outside the Sun due to the relatively large distance between them.\nIn astronomy, barycentric coordinates are non-rotating coordinates with the origin at the barycenter of two or more bodies. The International Celestial Reference System (ICRS) is a barycentric coordinate system centered on the Solar System's barycenter.",
+ "wiki_excerpt": "In astronomy, the barycenter (or barycentre; from Ancient Greek  βάρος (báros) 'weight' and  κέντρον (kéntron) 'center') is the  center of mass around which two or more bodies orbit. A barycenter is a dynamical point, not a physical object. It is an important concept in fields such as astronomy and astrophysics. The distance from a body's center of mass to the barycenter can be calculated as a two-body problem.\nIf one of the two orbiting bodies is much more massive than the other and the bodies are relatively close to one another, the barycenter will typically be located within the more massive object. In this case, rather than the two bodies appearing to orbit a point between them, the less massive body will appear to orbit about the more massive body, while the more massive body might be observed to wobble slightly. This is the case for the Earth–Moon system, whose barycenter is located on average 4,671 km (2,902 mi) from Earth's center, which is 74% of Earth's radius of 6,378 km (3,963 mi). When the two bodies are of similar masses, the barycenter will generally be located between them and both bodies will orbit around it. This is the case for Pluto and Charon, one of Pluto's natural satellites, as well as for many binary asteroids and binary stars. When the less massive object is far away, the barycenter can be located outside the more massive object. This is the case for Jupiter and the Sun; despite the Sun being a thousandfold more massive than Jupiter, their barycenter is slightly outside the Sun due to the relatively large distance between them.\nIn astronomy, barycentric coordinates are non-rotating coordinates with the origin at the barycenter of two or more bodies. The International Celestial Reference System (ICRS) is a barycentric coordinate system centered on the Solar System's barycenter.\n\n\nTwo-body problem\n\nThe barycenter is one of the foci of the elliptical orbit of each body. This is an important concept in the fields of astronomy and astrophysics.  In a simple two-body case, the distance from the center of the primary to the barycenter, r1, is given by:\nr1=a⋅m2m1+m2=a1+m1m2\nwhere:\n\nr1 is the distance from body 1's center to the barycenter;\na is the distance between the centers of the two bodies; and\nm1 and m2 are the masses of the two bodies.\nThe semi-major axis of the secondary's orbit, r2, is given by r2 = a − r1.\nWhen the barycenter is located within the more massive body, that body will appear to \"wobble\" rather than to follow a discernible orbit.\n\n\nPrimary–secondary examples\nThe following table sets out some examples from the Solar System. Figures are given rounded to three significant figures. The terms \"primary\" and \"secondary\" are used to distinguish between involved participants, with the larger being the primary and the smaller being the secondary.\n\n\nExample with the Sun\n\nIf m1 ≫ m2 –  which is true for the Sun and any planet –  then the ratio ⁠r1/R1⁠ approximates to:\naR1⋅m2m1.\nHence, the barycenter of the Sun–planet system will lie outside the Sun only if:\naR⊙⋅mplanetM⊙>1⟹a⋅mplanet>R⊙⋅M⊙≈2.3×1011M⊕km≈1530M⊕AU;\nthat is, where the planet is massive and far from the Sun.\nIf Jupiter had Mercury's orbit (57,900,000 km, 0.387 AU), the Sun–Jupiter barycenter would be approximately 55,000 km from the center of the Sun (⁠r1/R1⁠ ≈ 0.08). But even if the Earth had Eris's orbit (1.02×1010 km, 68 AU), the Sun–Earth barycenter would still be within the Sun (just over 30,000 km from the center).\nTo calculate the actual motion of the Sun, only the motions of the four giant planets (Jupiter, Saturn, Uranus, Neptune) need to be considered. The contributions of all other planets, dwarf planets, etc. are negligible. If the four giant planets were on a straight line on the same side of the Sun, the combined center of mass would lie at about 1.17 solar radii, or just over 810,000 km, above the Sun's surface.\nThe calculations above are based on the mean distance between the bodies and yield the mean value r1. But all cel",
+ "grok_lead": "",
+ "crossref_candidates": [
+  "Astronomy",
+  "Astrophysics",
+  "Binary star",
+  "Charon (moon)",
+  "Distance",
+  "Earth",
+  "Eris (dwarf planet)",
+  "Jupiter",
+  "Mass",
+  "Mercury (planet)",
+  "Moon",
+  "Natural satellite",
+  "Orbit",
+  "Planet",
+  "Pluto",
+  "Saturn",
+  "Solar System",
+  "Star",
+  "Sun"
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "key": "Rust_f5e265",
+ "title": "Rust",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Type of iron oxide",
+ "is_person": false,
+ "wiki_lead": "Rust is a mixture of iron oxides formed by the reaction of iron and oxygen in the catalytic presence of water or air moisture, ranging in color from red-orange to reddish-brown. The chemical composition consists of iron(III) oxide (Fe2O3), various hydrous ferric oxides (Fe2O3·nH2O) and iron(III) oxide-hydroxide (FeO(OH). It is typically associated with the corrosion of refined iron.\nGiven sufficient time, any iron mass in the presence of water and oxygen will form rust and could eventually convert entirely to rust. Surface rust is commonly flaky and friable, and provides no passivational protection to the underlying iron unlike other metals such as aluminum, copper, and tin which form stable oxide layers. Rusting is the common term for corrosion of elemental iron and its alloys such as steel. Many other metals undergo similar corrosion, but the resulting oxides are not commonly called \"rust\".\nSeveral forms of rust are distinguishable both visually and by spectroscopy, and form under different circumstances. Other forms of rust include the result of reactions between iron and chloride in an environment deprived of oxygen. Rebar used in underwater concrete pillars, which generates green rust, is an example. Although rusting is generally a negative aspect of iron, a particular form of rusting, known as stable rust, causes the object to have a thin coating of rust over the top; this results from reaction with atmospheric oxygen. If kept free of moisture, it makes the \"stable\" layer protective to the iron below, albeit not to the extent of other oxides such as aluminium oxide on aluminium.",
+ "wiki_excerpt": "Rust is a mixture of iron oxides formed by the reaction of iron and oxygen in the catalytic presence of water or air moisture, ranging in color from red-orange to reddish-brown. The chemical composition consists of iron(III) oxide (Fe2O3), various hydrous ferric oxides (Fe2O3·nH2O) and iron(III) oxide-hydroxide (FeO(OH). It is typically associated with the corrosion of refined iron.\nGiven sufficient time, any iron mass in the presence of water and oxygen will form rust and could eventually convert entirely to rust. Surface rust is commonly flaky and friable, and provides no passivational protection to the underlying iron unlike other metals such as aluminum, copper, and tin which form stable oxide layers. Rusting is the common term for corrosion of elemental iron and its alloys such as steel. Many other metals undergo similar corrosion, but the resulting oxides are not commonly called \"rust\".\nSeveral forms of rust are distinguishable both visually and by spectroscopy, and form under different circumstances. Other forms of rust include the result of reactions between iron and chloride in an environment deprived of oxygen. Rebar used in underwater concrete pillars, which generates green rust, is an example. Although rusting is generally a negative aspect of iron, a particular form of rusting, known as stable rust, causes the object to have a thin coating of rust over the top; this results from reaction with atmospheric oxygen. If kept free of moisture, it makes the \"stable\" layer protective to the iron below, albeit not to the extent of other oxides such as aluminium oxide on aluminium.\n\n\nChemical reactions\n\nRust is a general name for a complex of oxides and hydroxides of iron, which occur when iron or some alloys that contain iron are exposed to oxygen and moisture for a long period of time. Over time, the oxygen combines with the metal, forming new compounds collectively called rust, in a process called rusting.  Rusting is an oxidation reaction specifically occurring with iron.  Other metals also corrode via similar oxidation, but such corrosion is not called rusting.\nThe main catalyst for the rusting process is water. Iron or steel structures might appear to be solid, but water molecules can penetrate the microscopic pits and cracks in any exposed metal. The hydrogen atoms present in water molecules can combine with other elements to form acids, which will eventually cause more metal to be exposed. If chloride ions are present, as is the case with saltwater, the corrosion is likely to occur more quickly. Meanwhile, the oxygen atoms combine with metallic atoms to form the destructive oxide compound. These iron compounds are brittle and crumbly and replace strong metallic iron, reducing the strength of the object.\n\n\nOxidation of iron\nWhen iron is in contact with water and oxygen, it rusts. If salt is present, for example in seawater or salt spray, the iron tends to rust more quickly, as a result of chemical reactions. Iron metal is relatively una",
+ "grok_lead": "Rust is the common name for the reddish-brown oxide coating, primarily hydrated iron(III) oxide (FeâOâÂ·nHâO), that forms on iron and steel surfaces through oxidation in the presence of oxygen and moisture. The process begins with the anodic dissolution of iron into ferrous ions (Fe â FeÂ²âº + 2eâ») and cathodic reduction of oxygen (Oâ + 2HâO + 4eâ» â 4OHâ»), facilitated by water acting as an electrolyte, leading to the eventual formation of ferric hydroxide that dehydrates into rust. This corrosion weakens metal structures by expanding the volume of the oxide layerâup to several times that of the original ironâcausing cracking, flaking, and loss of material integrity. Rust's prevalence in humid environments underscores its role in numerous structural failures, such as bridge collapses and pipeline ruptures, highlighting the economic and safety imperatives for preventive measures like coatings and cathodic protection.",
+ "crossref_candidates": [
+  "Acid",
+  "Aluminium",
+  "Aluminium oxide",
+  "Bridge",
+  "Chloride",
+  "Concrete",
+  "Copper",
+  "Corrosion",
+  "Ion",
+  "Iron",
+  "Lead",
+  "Metal",
+  "Oxide",
+  "Oxygen",
+  "PH",
+  "Salt",
+  "Spectroscopy",
+  "Steel",
+  "Tin",
+  "Water"
+ ]
+}

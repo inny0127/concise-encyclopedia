@@ -1,0 +1,28 @@
+{
+ "key": "Naphthalene_f4cc0c",
+ "title": "Naphthalene",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Chemical compound",
+ "is_person": false,
+ "wiki_lead": "Naphthalene is an organic compound with the chemical formula C10H8. It is a white crystalline solid with a characteristic odor that is detectable at concentrations as low as 0.08 ppm. As an aromatic hydrocarbon, naphthalene's structure consists of a fused pair of benzene rings, making it a simple and rather symmetrical polycyclic aromatic hydrocarbon (PAH). It is the main ingredient of traditional mothballs.",
+ "wiki_excerpt": "Naphthalene is an organic compound with the chemical formula C10H8. It is a white crystalline solid with a characteristic odor that is detectable at concentrations as low as 0.08 ppm. As an aromatic hydrocarbon, naphthalene's structure consists of a fused pair of benzene rings, making it a simple and rather symmetrical polycyclic aromatic hydrocarbon (PAH). It is the main ingredient of traditional mothballs.\n\n\nHistory\nAlexander Garden first reported he had crystalised from the distillate (of coal tar) \"a silvery solid that resembled Camphor and Benzoic Acid\" in 1819. Further sources credit Garden with the discovery. Two days after Garden's paper was submitted, William Thomas Brande submitted his paper, and John Kidd followed with \"a longer and more thorough examination of the same solid, finding that it was composed of carbon and a little hydrogen\". Garden and Brande's separate discoveries were both published in 1820. In 1821, John Kidd described many of this substance's properties and the means of its production. He proposed the name naphthaline as it had been derived from a kind of naphtha, a broad term for various volatile, flammable liquid hydrocarbon mixtures, including coal tar. Naphthalene's chemical formula was determined by Michael Faraday in 1826.\nThe structure of two fused benzene rings was proposed by Emil Erlenmeyer in 1866, and confirmed by Carl Gräbe three years later.\n\n\nStructure\nA naphthalene molecule can be viewed as the fusion of a pair of benzene rings. (In organic chemistry, rings are fused if they share two or more atoms.) The eight carbon atoms that are not shared by the two rings carry one hydrogen atom each. For purpose of the standard IUPAC nomenclature of derived compounds, those eight atoms are numbered 1 through 8 in sequence around the perimeter of the molecule, starting with a carbon atom adjacent to a shared one. The shared carbon atoms are labeled 4a (between 4 and 5) and 8a (between 8 and 1).\nThe molecule is planar, like benzene. Unlike benzene, the carbon–carbon bonds in naphthalene are not of the same length. The bonds C1−C2, C3−C4, C5−C6 and C7−C8 are about 1.37 Å (137 pm) in length, whereas the other carbon–carbon bonds are about 1.42 Å (142 pm) long. This difference, established by X-ray diffraction, is consistent with the valence bond model in naphthalene and in particular, with the theorem of cross-conjugation. This theorem would describe naphthalene as an aromatic benzene unit bonded to a diene but not extensively conjugated to it (at least in the ground state), which is consistent with two of its three resonance structures.\n\nBecause of this resonance, the molecule has bilateral symmetry across the plane of the shared carbon pair, as well as across the plane that bisects bonds C2-C3 and C6-C7, and across the plane of the carbon atoms. Thus there are two sets of equivalent hydrogen atoms: the alpha positions, numbered 1, 4, 5, and 8, and the beta positions, 2, 3, 6, and 7. Two isomers are then possible for",
+ "grok_lead": "Naphthalene is a polycyclic aromatic hydrocarbon with the molecular formula CââHâ, consisting of two fused benzene rings. It exists as a white crystalline volatile solid exhibiting a strong coal-tar odor, is denser than water, and demonstrates low solubility in water but sublimes at room temperature. Naphthalene is commercially produced primarily from coal tar distillation, where it constitutes about 10% of the fraction, or from petroleum via pyrolysis products and refining processes. It is a specific chemical compound distinct from petroleum, which is a complex mixture of hydrocarbons from which it is refined. Naphthalene serves as a key industrial feedstock for producing phthalic anhydride, dyes, resins, and naphthalene sulfonates used in dispersants and tanning agents. It is commonly used as the active ingredient in mothballs for insect repellency, though toxic and banned in many places, posing health risks including hemolytic anemia upon acute exposure and regarded by agencies such as the EPA as having potential carcinogenic effects based on animal studies.",
+ "crossref_candidates": [
+  "Acid",
+  "Base (chemistry)",
+  "Benzene",
+  "Camphor",
+  "Carcinogen",
+  "Crystal",
+  "Distillation",
+  "Dye",
+  "Insect",
+  "Michael Faraday",
+  "Moth",
+  "Naphtha",
+  "Organic chemistry",
+  "Organic compound",
+  "Petroleum"
+ ]
+}

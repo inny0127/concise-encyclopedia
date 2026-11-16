@@ -1,0 +1,30 @@
+{
+ "key": "Data_science_473a7b",
+ "title": "Data science",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Field of study to extract knowledge from data",
+ "is_person": false,
+ "wiki_lead": "Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms, coding (like Python, SQL, and R), and systems to extract or extrapolate knowledge from potentially noisy, structured, or unstructured data. A data scientist is a professional who creates programming code and combines it with statistical knowledge to summarize data.\n\n",
+ "wiki_excerpt": "Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms, coding (like Python, SQL, and R), and systems to extract or extrapolate knowledge from potentially noisy, structured, or unstructured data. A data scientist is a professional who creates programming code and combines it with statistical knowledge to summarize data.\n\n\nScope of data science\nData science plays a critical role in modern decision-making by enabling organizations to extract actionable insights from large and complex datasets.\nData science also integrates domain knowledge from the underlying application domain (e.g., natural sciences, information technology, and medicine). Data science is multifaceted and can be described as a science, a research paradigm, a research method, a discipline, a workflow, and a profession.\nData science is \"a concept to unify statistics, data analysis, informatics, and their related methods\" to \"understand and analyze actual phenomena\" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is distinct from computer science and information science. Turing Award winner Jim Gray imagined data science as a \"fourth paradigm\" of science (empirical, theoretical, computational, and now data-driven) and asserted that \"everything about science is changing because of the impact of information technology\" and the data deluge.\nData science is often described as a multidisciplinary and rapidly evolving field because it draws on techniques from diverse areas, such as computer science, statistics, information science, and other subject-specific disciplines. Some researchers argue that the combination of the different fields resembles how information science was decades ago. These similarities help clarify how data science gradually became its own field of study.\n\n\nFoundations\nData science is an interdisciplinary field focused on extracting knowledge from typically large data sets and applying the knowledge from that data to solve problems in other application domains. The field encompasses preparing data for analysis, formulating data science problems, analyzing data, and summarizing these findings. As such, it incorporates skills from computer science, mathematics, data visualization, graphic design, communication, and business.\nVasant Dhar writes that statistics emphasizes quantitative data and description. In contrast, data science deals with quantitative and qualitative data (e.g., from images, text, sensors, transactions, customer information, etc.) and emphasizes prediction and action. Andrew Gelman of Columbia University has described statistics as a non-essential part of data science. Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of compu",
+ "grok_lead": "Data science is an interdisciplinary field that employs scientific methods, algorithms, and systems to extract knowledge and insights from potentially large and complex datasets, integrating principles from statistics, computer science, and domain-specific expertise. Emerging from foundational work in data analysis by statisticians like John Tukey in the 1960s, who advocated for a shift toward empirical exploration of data beyond traditional hypothesis testing, the field gained prominence in the late 20th and early 21st centuries amid the explosion of digital data and computational power. Key processes include data acquisition, cleaning, exploratory analysis, modeling via techniques such as machine learning, and interpretation to inform decision-making across domains like healthcare, finance, and logistics. Notable achievements encompass predictive analytics enabling breakthroughs in drug discovery and personalized medicine, as well as operational optimizations that enhance efficiency in supply chains and resource allocation. However, the field grapples with challenges including reproducibility issues stemming from opaque methodologies and selective reporting, ethical concerns over algorithmic bias and privacy erosion in large-scale data usage, and debates on the reliability of insights amid data quality variability.",
+ "crossref_candidates": [
+  "Algorithm",
+  "Business",
+  "Columbia University",
+  "Communication",
+  "Computer science",
+  "Data",
+  "Data analysis",
+  "Graphic design",
+  "Information science",
+  "Information technology",
+  "Knowledge",
+  "Machine learning",
+  "Mathematics",
+  "Python (programming language)",
+  "R (programming language)",
+  "Scientific method",
+  "Statistics"
+ ]
+}

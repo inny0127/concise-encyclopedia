@@ -1,0 +1,29 @@
+{
+ "key": "Solar_mass_31255d",
+ "title": "Solar mass",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Standard unit of mass in astronomy",
+ "is_person": false,
+ "wiki_lead": "The solar mass (M☉) is a frequently used unit of mass in astronomy, equal to approximately 2×1030 kg. It is approximately equal to the mass of the Sun. It is often used to indicate the masses of other stars, as well as stellar clusters, nebulae, galaxies and black holes. More precisely, the mass of the Sun is as follows: \nThe solar mass is about 333000 times the mass of Earth (M🜨), or 1047 times the mass of Jupiter (MJ).",
+ "wiki_excerpt": "The solar mass (M☉) is a frequently used unit of mass in astronomy, equal to approximately 2×1030 kg. It is approximately equal to the mass of the Sun. It is often used to indicate the masses of other stars, as well as stellar clusters, nebulae, galaxies and black holes. More precisely, the mass of the Sun is as follows: \nThe solar mass is about 333000 times the mass of Earth (M🜨), or 1047 times the mass of Jupiter (MJ).\n\n\nHistory of measurement\nThe value of the gravitational constant was first derived from measurements that were made by Henry Cavendish in 1798 with a torsion balance. The value he obtained differs by only 1% from the modern value, but was not as precise. The diurnal parallax of the Sun was accurately measured during the transits of Venus in 1761 and 1769, yielding a value of 9″ (9 arcseconds, compared to the present value of 8.794148″). From the value of the diurnal parallax, one can determine the distance to the Sun from the geometry of Earth.\nThe first known estimate of the solar mass was by Isaac Newton. In his work Principia (1687), he estimated that the ratio of the mass of Earth to the Sun was about 1:28700. Later he determined that his value was based upon a faulty value for the solar parallax, which he had used to estimate the distance to the Sun. He corrected his estimated ratio to 1:169282 in the third edition of the Principia. The current value for the solar parallax is smaller still, yielding an estimated mass ratio of 1:332946.\nAs a unit of measurement, the solar mass came into use before the astronomical unit and the gravitational constant were precisely measured. This is because the relative mass of another planet in the Solar System or the combined mass of two binary stars can be calculated in units of Solar mass directly from the orbital radius and orbital period of the planet or stars using Kepler's third law.\n\n\nCalculation\nThe mass of the Sun cannot be measured directly and is instead calculated from other measurable factors, using the equation for the orbital period of a small body orbiting a central mass. Based on the length of the year, the distance from Earth to the Sun (an astronomical unit or au), and the gravitational constant (G), the mass of the Sun is given by solving Kepler's third law:\nM⊙=4π2×(1 au)3G×(1 yr)2.\nThe value of G is difficult to measure and is only known with limited accuracy (see Cavendish experiment). The value of G times the mass of an object, called the standard gravitational parameter, is known for the Sun and several planets to a much higher accuracy than G alone. As a result, the solar mass is used as the standard mass in the astronomical system of units.\n\n\nVariation\nThe Sun is losing mass because of fusion reactions occurring within its core, leading to the emission of electromagnetic energy and neutrinos, and by the ejection of matter with the solar wind. It is expelling about (2–3)×10−14 M☉/year. The mass loss rate will increase when the Sun enters the red giant stage, climbing",
+ "grok_lead": "The solar mass ( M_â) is a standard unit of mass in astronomy, defined as the mass of the Sun, which is approximately 1.989 Ã 10Â³â° kilograms or about 333,000 times the mass of Earth. This unit provides a convenient, scale-independent reference for expressing the masses of stars, planets, galaxies, and other celestial objects, as stellar masses typically range from fractions to hundreds of solar masses. The value of the solar mass is determined primarily through observations of planetary orbits in the Solar System, applying Newton's law of universal gravitation combined with Kepler's third law of planetary motion, which relates the orbital period and semi-major axis to the central body's mass. For instance, Earth's orbit (with a period of 1 year and semi-major axis of 1 astronomical unit) yields the solar mass directly in these units, while additional refinements come from spacecraft data, radar ranging, and helioseismology studies of solar oscillations. The accepted value as of 2023 is 1.98841 Ã 10Â³â° kg with an uncertainty of about 0.002%, reflecting high-precision measurements from missions like those contributing to CODATA and IAU standards. In astrophysics, the solar mass is crucial for understanding stellar evolution, as a star's mass dictates its lifecycle, luminosity, and eventual fateâfrom main-sequence stability to supernova explosions for massive stars exceeding roughly 8 M_â. It also underpins models of galactic dynamics and black hole formation, where supermassive black holes can reach billions of solar masses. Although the Sun gradually loses a tiny fraction of its mass (about 10^{-13} M_â per year) through solar wind and radiation, this does not significantly alter the unit's definition for practical astronomical use.",
+ "crossref_candidates": [
+  "Astronomical unit",
+  "Astronomy",
+  "Binary star",
+  "Black hole",
+  "Gravitational constant",
+  "Henry Cavendish",
+  "Isaac Newton",
+  "Jupiter",
+  "Mass",
+  "Nebula",
+  "Parallax",
+  "Red giant",
+  "Solar System",
+  "Solar wind",
+  "Star",
+  "Sun"
+ ]
+}

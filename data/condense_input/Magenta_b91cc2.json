@@ -1,0 +1,31 @@
+{
+ "key": "Magenta_b91cc2",
+ "title": "Magenta",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Color",
+ "is_person": false,
+ "wiki_lead": "Magenta is a purplish-pink color. On color wheels of the RGB and CMYK color models, it is located directly midway between blue and red. It is one of the four colors of subtractive ink used in color printing by most color printers, also known as CMYK along with yellow, cyan, and black to make all the other colors and hues. The tone of magenta used in printing, printer's magenta, is redder than the magenta of the RGB (additive) model, the former being closer to rose.\nMagenta took its name from an aniline dye made and patented in 1859 by the French chemist François-Emmanuel Verguin [fr], who originally called it fuchsine. \nIt was renamed to celebrate the French-Sardinian victory under French Emperor Napoleon III at the Battle of Magenta against the larger army of the Austrian Empire on 4 June 1859 near the Italian town of Magenta, at the time in Austria. This battle was decisive in liberating Italy from Austrian domination. \nA virtually identical color, called roseine, was created in 1860 by two British chemists, Edward Chambers Nicholson and George Maule. The web color magenta is sometimes also called fuchsia.",
+ "wiki_excerpt": "Magenta is a purplish-pink color. On color wheels of the RGB and CMYK color models, it is located directly midway between blue and red. It is one of the four colors of subtractive ink used in color printing by most color printers, also known as CMYK along with yellow, cyan, and black to make all the other colors and hues. The tone of magenta used in printing, printer's magenta, is redder than the magenta of the RGB (additive) model, the former being closer to rose.\nMagenta took its name from an aniline dye made and patented in 1859 by the French chemist François-Emmanuel Verguin [fr], who originally called it fuchsine. \nIt was renamed to celebrate the French-Sardinian victory under French Emperor Napoleon III at the Battle of Magenta against the larger army of the Austrian Empire on 4 June 1859 near the Italian town of Magenta, at the time in Austria. This battle was decisive in liberating Italy from Austrian domination. \nA virtually identical color, called roseine, was created in 1860 by two British chemists, Edward Chambers Nicholson and George Maule. The web color magenta is sometimes also called fuchsia.\n\n\nIn optics and color science\n\nMagenta is an extra-spectral color, meaning that no color of the visible spectrum has magenta's hue. Magenta is associated with perception of spectral power distributions concentrated mostly in two bands: longer wavelength reddish components and shorter wavelength blueish components.\nMagenta is the complementary color of green; thus, mixing one specific shade of magenta light and one specific shade of green light will result in white light. In the RGB color system, used to create all the colors on a television or computer display, magenta is a secondary color, made by combining equal amounts of red and blue light at a high intensity.\n\nIn the CMYK color model, used in color printing, it is one of the three primary colors, along with cyan and yellow, used to print all the rest of the colors. If magenta, cyan, and yellow are printed on top of each other on a page, they make black. If combined, magenta ink plus ink of its complementary color, green, will result in a dark brown or black.\nIn terms of physiology, the color is stimulated in the brain when the eye reports input from short wave blue cone cells along with a sub-sensitivity of the long wave cones which respond secondarily to that same deep blue color, but with little or no input from the middle wave cones.  The brain interprets that combination as some hue of magenta or purple, depending on the relative strengths of the cone responses. In the Munsell color system, magenta is called red-purple.\n\n\nFuchsia and magenta\nThe web colors fuchsia and magenta are identical, made by mixing the same proportions of blue and red light. In design and printing, there is more variation. The French version of fuchsia in the RGB color model and in printing contains a higher proportion of red than the American version of fuchsia.\n\n\nGallery\n\n\nHistory\n\n\nFuchsine and magenta dye ",
+ "grok_lead": "Magenta is an extra-spectral purplish-red color perceived by the human brain as the result of simultaneous stimulation of red-sensitive and blue-sensitive cone cells in the retina, without equivalent input from green-sensitive cones, corresponding to no single wavelength in the visible light spectrum. In additive color systems such as RGB used for digital displays, magenta emerges from the mixture of red and blue light components. Unlike spectral colors like red or violet, which occupy distinct positions in the linear visible spectrum, magenta requires a non-linear perceptual synthesis that bridges the spectrum's endpoints, highlighting the brain's role in constructing color experiences beyond pure physics. The term \"magenta\" originated in 1860 as a renaming of the aniline dye fuchsine, honoring the French victory at the Battle of Magenta in Italy, and it became a foundational hue in subtractive color printing via the CMYK process, where magenta ink absorbs green light to contribute to a wide gamut of reproduced colors. This dual role in perception and technology underscores magenta's significance in both biological vision and applied color science, though its absence from rainbows has sparked discussions on the constructed nature of certain hues.",
+ "crossref_candidates": [
+  "Austria",
+  "Austrian Empire",
+  "Black",
+  "Blue",
+  "CMYK color model",
+  "Cyan",
+  "Green",
+  "Napoleon III",
+  "Physiology",
+  "Pink",
+  "Primary color",
+  "Printing",
+  "RGB color model",
+  "Red",
+  "Rose",
+  "Violet (color)",
+  "Web colors",
+  "Yellow"
+ ]
+}

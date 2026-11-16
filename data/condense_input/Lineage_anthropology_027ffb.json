@@ -1,0 +1,29 @@
+{
+ "key": "Lineage_anthropology_027ffb",
+ "title": "Lineage (anthropology)",
+ "level": 4,
+ "category": "Everyday life",
+ "description": "Line of ancestors and descendants of a person",
+ "is_person": false,
+ "wiki_lead": "In anthropology, a lineage is a unilineal descent group that traces its ancestry to a demonstrably shared ancestor, known as the apical ancestor. Lineages are formed through relationships traced either exclusively through the maternal line (matrilineage), paternal line (patrilineage), or some combination of both (ambilineal). The cultural significance of matrilineal or patrilineal descent varies greatly, shaping social structures, inheritance patterns, and even rituals across societies and kinship groups.",
+ "wiki_excerpt": "In anthropology, a lineage is a unilineal descent group that traces its ancestry to a demonstrably shared ancestor, known as the apical ancestor. Lineages are formed through relationships traced either exclusively through the maternal line (matrilineage), paternal line (patrilineage), or some combination of both (ambilineal). The cultural significance of matrilineal or patrilineal descent varies greatly, shaping social structures, inheritance patterns, and even rituals across societies and kinship groups.\n\n\nEtymology\nFrom Middle English linage, from Old French linage, from ligne, from Latin linea (\"line\"); equivalent to line + -age.\n\n\nCharacteristics\nA lineage is a descent group characterized by unilineal descent. This means that lineage membership is determined by tracing ancestry through either a single line (unilineal), either maternal or paternal, or through a combination of both lines (ambilineal). This differentiates lineages from other descent groups like clans, which may have a shared ancestor but lack the demonstrably documented or traditionally accepted apical ancestor from whom all members descend. There are three forms of lineage: matrilineal, patrilineal, and ambilineal.\n\nIn matrilineage, descent is traced exclusively through the maternal line. Children inherit lineage membership from their mother, and the lineage consists of a mother, her children, and her children's children who are all matrilineally related. The Minangkabau people of Indonesia, being a Jew in the Jewish religion, and the Khasi people of India are well-known examples of societies with prominent matrilineal structures.\nIn patrilineage, descent is traced exclusively through the paternal line. Children inherit lineage membership from their father, and the lineage consists of a father, his children, and his children's children who are all patrilineally related. Patrilineages are more common globally, with examples found in many cultures, such as much of Southeast Asia.\n\nIn ambilineal lineage, descent is traced through either the maternal and/or the paternal lines, usually meaning that the individuals choose whether to affiliate with their mother or their father's group, or both. Ambilineal lineage can be bilineal or bilateral. Ambilineal lineages are relatively rare in more under-developed societies, such as Southeast Asia, and very common in modernized societies, such as the United States and Western Europe.\nIn bilineal lineage (also known as double descent), children are part of both their mother and their father's groups. This results in many more people in a lineage. Examples of bilineal lineage include the Yako people of Nigeria.\nLineages play a large role in social organization across cultures. They influence inheritance patterns, with property and titles often passed down within the lineage. In addition, lineages often have religious significance, with one's ancestorial history often determining one's religion and position in that religion. The structure of lineages also leads to stability, social obligations, and reciprocity among members, providing support networks and a sense of shared identity.\n\n",
+ "grok_lead": "In anthropology, a lineage is a unilineal descent group in which members trace their kinship through a single parental lineâeither patrilineal (via males) or matrilineal (via females)âto a known apical ancestor, establishing exclusive membership and corporate functions such as resource management and mutual obligations. These groups form the foundational units of social organization in numerous traditional societies, regulating inheritance, post-marital residence, exogamy, and conflict resolution through mechanisms like segmentary opposition, where lineages balance cooperation and rivalry based on genealogical proximity. Patrilineages predominate cross-culturally, appearing in the majority of societies with unilineal descent, while matrilineages occur in only about 14% of sampled cases, often correlating with uxorilocal residence patterns that emphasize maternal kin ties. Distinct from broader clans, which rely on putative or mythical founders and encompass multiple lineages, true lineages demand verifiable genealogical depth, typically spanning a few generations, and serve as adaptive structures for pooling labor and defending territory in kin-based economies. Lineage systems have been central to structural-functionalist analyses in mid-20th-century anthropology, though later critiques highlighted their variability and the influence of ecology, politics, and gender dynamics over rigid descent rules.",
+ "crossref_candidates": [
+  "Anthropology",
+  "Clan",
+  "Culture",
+  "India",
+  "Indonesia",
+  "Inheritance",
+  "Kinship",
+  "Latin",
+  "Middle English",
+  "Nigeria",
+  "Property",
+  "Religion",
+  "Ritual",
+  "Southeast Asia",
+  "United States",
+  "Western Europe"
+ ]
+}

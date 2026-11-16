@@ -1,0 +1,33 @@
+{
+ "key": "Astronomical_coordinate_systems_3eec84",
+ "title": "Astronomical coordinate systems",
+ "level": 4,
+ "category": "Physical sciences",
+ "description": "System for specifying positions of celestial objects",
+ "is_person": false,
+ "wiki_lead": "In astronomy, coordinate systems are used for specifying positions of celestial objects (satellites, planets, stars, galaxies, etc.) relative to a given reference frame, based on physical reference points available to a situated observer (e.g. the true horizon and north to an observer on Earth's surface). Coordinate systems in astronomy can specify an object's relative position in three-dimensional space or plot merely by its direction on a celestial sphere, if the object's distance is unknown or trivial.\nSpherical coordinates, projected on the celestial sphere, are analogous to the geographic coordinate system used on the surface of Earth. These differ in their choice of fundamental plane, which divides the celestial sphere into two equal hemispheres along a great circle. Rectangular coordinates, in appropriate units, have the same fundamental (x, y) plane and primary (x-axis) direction, such as an axis of rotation. Each coordinate system is named after its choice of fundamental plane.\n\n",
+ "wiki_excerpt": "In astronomy, coordinate systems are used for specifying positions of celestial objects (satellites, planets, stars, galaxies, etc.) relative to a given reference frame, based on physical reference points available to a situated observer (e.g. the true horizon and north to an observer on Earth's surface). Coordinate systems in astronomy can specify an object's relative position in three-dimensional space or plot merely by its direction on a celestial sphere, if the object's distance is unknown or trivial.\nSpherical coordinates, projected on the celestial sphere, are analogous to the geographic coordinate system used on the surface of Earth. These differ in their choice of fundamental plane, which divides the celestial sphere into two equal hemispheres along a great circle. Rectangular coordinates, in appropriate units, have the same fundamental (x, y) plane and primary (x-axis) direction, such as an axis of rotation. Each coordinate system is named after its choice of fundamental plane.\n\n\nCoordinate systems\nThe following table lists the common coordinate systems in use by the astronomical community. The fundamental plane divides the celestial sphere into two equal hemispheres and defines the baseline for the latitudinal coordinates, similar to the equator in the geographic coordinate system. The poles are located at ±90° from the fundamental plane. The primary direction is the starting point of the longitudinal coordinates. The origin is the zero distance point, the \"center of the celestial sphere\", although the definition of celestial sphere is ambiguous about the definition of its center point.\n\n\nHorizontal system\n\nThe horizontal, or altitude-azimuth, system is based on the position of the observer on Earth, which rotates around its own axis once per sidereal day (23 hours, 56 minutes and 4.091 seconds) in relation to the sidereal background. The positioning of a celestial object by the horizontal system varies with time, but is a useful coordinate system for locating and tracking objects for observers on Earth.  It is based on the position of stars relative to an observer's ideal horizon.\n\n\nEquatorial system\n\nThe equatorial coordinate system is centered at Earth's center, but fixed relative to the celestial poles and the March equinox. The coordinates are based on the location of stars relative to Earth's equator if it were projected out to an infinite distance.  The equatorial describes the sky as seen from the Solar System, and modern star maps almost exclusively use equatorial coordinates.\nThe equatorial system is the normal coordinate system for most professional and many amateur astronomers having an equatorial mount that follows the movement of the sky during the night. Celestial objects are found by adjusting the telescope's or other instrument's scales so that they match the equatorial coordinates of the selected object to observe.\nPopular choices of pole and equator are the older B1950 and the modern J2000 systems, but a pole and equator \"of date\" can also be used, meaning one appropriate to the date under consideration, such as when a measurement of the position of a planet or spacecraft is made. There are also subdivisions into \"mean of date\" coordinates, which average out or ignore nutation, and \"true of date,\" which include nutation.\n\n\nEcliptic system\n\nThe fundamental plane is the plane of the Earth's orbit, called the ecliptic plane. There are two principal variants of the ecliptic coordinate system: geocentric ecliptic coordinates centered on the Earth and heliocentric ecliptic coordinates centered on the center of mass of the Solar System.\nThe geocentric ecliptic system was the principal coordinate system for ancient astronomy and is still useful for computing the apparent motions of the Sun, Moon, and planets. It was used to define the twelve astrological signs of the zodiac, for instance.\nThe heliocentric ecliptic system describes the planets' orbital movement around the Sun, and centers on the barycenter ",
+ "grok_lead": "Astronomical coordinate systems are frameworks used to specify the positions of celestial objects, such as stars, planets, and galaxies, on the celestial sphereâan imaginary sphere of infinite radius centered on the observer or Earth. These systems employ angular coordinates, similar to latitude and longitude on Earth, to map three-dimensional space onto a two-dimensional surface. The most common include the horizontal system (altitude and azimuth, observer-dependent), the equatorial system (right ascension and declination, based on Earth's rotation), the ecliptic system (aligned with the Sun's apparent path), and extragalactic systems like galactic and supergalactic coordinates for mapping beyond the Milky Way.",
+ "crossref_candidates": [
+  "Astrological sign",
+  "Astronomy",
+  "Celestial sphere",
+  "Coordinate system",
+  "Earth",
+  "Ecliptic",
+  "Equator",
+  "Equatorial coordinate system",
+  "Geographic coordinate system",
+  "Horizon",
+  "Latitude",
+  "Longitude",
+  "Moon",
+  "Planet",
+  "Solar System",
+  "Sphere",
+  "Star",
+  "Sun",
+  "Three-dimensional space",
+  "Zodiac"
+ ]
+}

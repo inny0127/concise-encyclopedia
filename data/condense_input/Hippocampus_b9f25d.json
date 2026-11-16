@@ -1,0 +1,31 @@
+{
+ "key": "Hippocampus_b9f25d",
+ "title": "Hippocampus",
+ "level": 5,
+ "category": "Biology and health sciences",
+ "description": "Vertebrate brain region",
+ "is_person": false,
+ "wiki_lead": "The hippocampus (pl.: hippocampi), also  proper,  is a major component of the brain of humans and many other vertebrates. In the human brain the hippocampus, the dentate gyrus, and the subiculum are components of the hippocampal formation located in the limbic system. \nThe hippocampus plays important roles in the consolidation of information from short-term memory to long-term memory, and in spatial memory that enables navigation. In humans and other primates the hippocampus is located in the archicortex, one of the three regions of allocortex, in each hemisphere with direct neural projections to,  and reciprocal indirect projections from the neocortex. The hippocampus, as the medial pallium, is a structure found in all vertebrates.\nIn Alzheimer's disease (and other forms of dementia), the hippocampus is one of the first regions of the brain to be damaged; short-term memory loss and disorientation are included among the early symptoms. Damage to the hippocampus can also result from oxygen starvation (hypoxia), encephalitis, or medial temporal lobe epilepsy. People with extensive, bilateral hippocampal damage may experience anterograde amnesia: the inability to form and retain new memories.\nSince different neuronal cell types are neatly organized into layers in the hippocampus, it has frequently been used as a model system for studying neurophysiology. The form of neural plasticity known as long-term potentiation (LTP) was initially discovered to occur in the hippocampus and has often been studied in this structure. LTP is widely believed to be one of the main neural mechanisms by which memories are stored in the brain.\nUsing rodents as model organisms, the hippocampus has been studied extensively as part of a brain system responsible for spatial memory and navigation. Many neurons in the rat and mouse hippocampi respond as place cells: that is, they fire bursts of action potentials when the animal passes through a specific part of its environment. Hippocampal place cells interact extensively with head direction cells, whose activity acts as an inertial compass, and conjecturally with grid cells in the neighboring entorhinal cortex.",
+ "wiki_excerpt": "The hippocampus (pl.: hippocampi), also  proper,  is a major component of the brain of humans and many other vertebrates. In the human brain the hippocampus, the dentate gyrus, and the subiculum are components of the hippocampal formation located in the limbic system. \nThe hippocampus plays important roles in the consolidation of information from short-term memory to long-term memory, and in spatial memory that enables navigation. In humans and other primates the hippocampus is located in the archicortex, one of the three regions of allocortex, in each hemisphere with direct neural projections to,  and reciprocal indirect projections from the neocortex. The hippocampus, as the medial pallium, is a structure found in all vertebrates.\nIn Alzheimer's disease (and other forms of dementia), the hippocampus is one of the first regions of the brain to be damaged; short-term memory loss and disorientation are included among the early symptoms. Damage to the hippocampus can also result from oxygen starvation (hypoxia), encephalitis, or medial temporal lobe epilepsy. People with extensive, bilateral hippocampal damage may experience anterograde amnesia: the inability to form and retain new memories.\nSince different neuronal cell types are neatly organized into layers in the hippocampus, it has frequently been used as a model system for studying neurophysiology. The form of neural plasticity known as long-term potentiation (LTP) was initially discovered to occur in the hippocampus and has often been studied in this structure. LTP is widely believed to be one of the main neural mechanisms by which memories are stored in the brain.\nUsing rodents as model organisms, the hippocampus has been studied extensively as part of a brain system responsible for spatial memory and navigation. Many neurons in the rat and mouse hippocampi respond as place cells: that is, they fire bursts of action potentials when the animal passes through a specific part of its environment. Hippocampal place cells interact extensively with head direction cells, whose activity acts as an inertial compass, and conjecturally with grid cells in the neighboring entorhinal cortex.\n\n\nName\n\nThe earliest description of the ridge running along the floor of the inferior horn of the lateral ventricle comes from the Venetian anatomist Julius Caesar Aranzi (1587), who likened it first to a silkworm and then to a seahorse (Latin hippocampus, from Greek ἱππόκαμπος (latinised: ìppókampos) from ἵππος (ippos), 'horse' + κάμπος (kámpos), 'sea monster'). The German anatomist Johann Georg Duvernoy (1729), the first to illustrate the structure, also wavered between \"seahorse\" and \"silkworm\". \"Ram's horn\" was proposed by the Danish anatomist Jacob Winsløw in 1732; and a decade later his fellow Parisian, the surgeon de Garengeot, used cornu Ammonis – horn of Amun, after the ancient Egyptian god who was often represented as having a ram's head. Ammon is the Greek name for Amun.\nThe head region of the hippocampus is",
+ "grok_lead": "",
+ "crossref_candidates": [
+  "Alzheimer's disease",
+  "Amnesia",
+  "Amun",
+  "Brain",
+  "Dementia",
+  "Encephalitis",
+  "Human",
+  "Human brain",
+  "Hypoxia (medicine)",
+  "Latin",
+  "Memory",
+  "Model organism",
+  "Navigation",
+  "Neuron",
+  "Primate",
+  "Rodent",
+  "Seahorse",
+  "Vertebrate"
+ ]
+}

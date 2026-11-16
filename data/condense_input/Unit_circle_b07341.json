@@ -1,0 +1,33 @@
+{
+ "key": "Unit_circle_b07341",
+ "title": "Unit circle",
+ "level": 5,
+ "category": "Mathematics",
+ "description": "Circle with radius of one",
+ "is_person": false,
+ "wiki_lead": "In mathematics, a unit circle is a circle of unit radius—that is, a radius of 1.  Frequently, especially in trigonometry, the unit circle is the circle of radius 1 centered at the origin (0, 0) in the Cartesian coordinate system in the Euclidean plane. In topology, it is often denoted as S1 because it is a one-dimensional unit n-sphere.\nIf (x, y) is a point on the unit circle's circumference, then |x| and |y| are the lengths of the legs of a right triangle whose hypotenuse has length 1. Thus, by the Pythagorean theorem, x and y satisfy the equation x2+y2=1.\nSince x2 = (−x)2 for all x, and since the reflection of any point on the unit circle about the x- or y-axis is also on the unit circle, the above equation holds for all points (x, y) on the unit circle, not only those in the first quadrant.\nThe interior of the unit circle is called the open unit disk, while the interior of the unit circle combined with the unit circle itself is called the closed unit disk.\nOne may also use other notions of \"distance\" to define other \"unit circles\", such as the Riemannian circle; see the article on mathematical norms for additional examples.\n\n",
+ "wiki_excerpt": "In mathematics, a unit circle is a circle of unit radius—that is, a radius of 1.  Frequently, especially in trigonometry, the unit circle is the circle of radius 1 centered at the origin (0, 0) in the Cartesian coordinate system in the Euclidean plane. In topology, it is often denoted as S1 because it is a one-dimensional unit n-sphere.\nIf (x, y) is a point on the unit circle's circumference, then |x| and |y| are the lengths of the legs of a right triangle whose hypotenuse has length 1. Thus, by the Pythagorean theorem, x and y satisfy the equation x2+y2=1.\nSince x2 = (−x)2 for all x, and since the reflection of any point on the unit circle about the x- or y-axis is also on the unit circle, the above equation holds for all points (x, y) on the unit circle, not only those in the first quadrant.\nThe interior of the unit circle is called the open unit disk, while the interior of the unit circle combined with the unit circle itself is called the closed unit disk.\nOne may also use other notions of \"distance\" to define other \"unit circles\", such as the Riemannian circle; see the article on mathematical norms for additional examples.\n\n\nIn the complex plane\n\nIn the complex plane, numbers of magnitude one are called the unit complex numbers. This is the set of complex numbers z such that |z|=1. When broken into real and imaginary components z=x+iy, this condition is |z|2=zz¯=x2+y2=1.\nThe complex unit circle can be parametrized by angle measure θ from the positive real axis using the complex exponential function, z=eiθ=cos⁡θ+isin⁡θ. (See Euler's formula.)\nUnder the complex multiplication operation, the unit complex numbers form a group called the circle group, usually denoted 𝕋. In quantum mechanics, a unit complex number is called a phase factor.\n\n\nTrigonometric functions on the unit circle\n\nThe trigonometric functions cosine and sine of angle θ are defined using the unit circle.\nIn this geometric construction, the angle θ is formed by two rays: the initial arm, which remains fixed along the positive x-axis, and the terminal arm, a ray extending from the origin to a point (x, y) on the circumference of the unit circle. The value of θ represents the measure of rotation from the initial arm to the terminal arm, where counterclockwise rotation is designated as positive and clockwise rotation as negative. Consequently, the trigonometric functions are defined by the coordinates of the point where the terminal arm intersects the circle:\ncos⁡θ=xandsin⁡θ=y.\nThe equation x2 + y2 = 1 gives the relation\ncos2θ+sin2θ=1.\nThe unit circle also demonstrates that sine and cosine are periodic functions, with the identities\ncos⁡θ=cos⁡(2πk+θ)\nsin⁡θ=sin⁡(2πk+θ)\nfor any integer k.\nTriangles constructed on the unit circle can also be used to illustrate the periodicity of the trigonometric functions. First, construct a radius OP from the origin O to a point P(x1,y1) on the unit circle such that an angle t with 0 < t < ⁠π/2⁠ is formed with the positive arm of the x-axis. Now consi",
+ "grok_lead": "The unit circle is a circle in the Cartesian plane with a radius of 1 unit centered at the origin (0,0), defined by the equation x 2 + y 2 = 1 x^2 + y^2 = 1 x 2 + y 2 = 1. This geometric figure serves as a fundamental tool in trigonometry, where the coordinates of points on the circle directly correspond to the cosine and sine values of angles measured from the positive x-axis. For an angle Î¸ \\theta Î¸ in standard position, the point on the unit circle has coordinates ( cos â¡ Î¸, sin â¡ Î¸) (\\cos \\theta, \\sin \\theta) ( cos Î¸, sin Î¸), enabling the visualization and computation of trigonometric functions for any real number Î¸ \\theta Î¸, typically expressed in radians. The unit circle's significance extends beyond basic definitions, providing a unified framework for understanding periodic functions, rotations, and complex numbers in the plane. It facilitates the derivation of key trigonometric identities, such as the Pythagorean identity sin â¡ 2 Î¸ + cos â¡ 2 Î¸ = 1 \\sin^2 \\theta + \\cos^2 \\theta = 1 sin 2 Î¸ + cos 2 Î¸ = 1, which stems directly from the circle's equation. In parametric form, the circle is traced by the equations x = cos â¡ t x = \\cos t x = cos t and y = sin â¡ t y = \\sin t y = sin t as t t t varies, illustrating how angles relate to arc lengths equal to the radian measure itself. This approach is essential in fields like physics for modeling circular motion and waves, and in higher mathematics for topics including Fourier analysis and differential equations.",
+ "crossref_candidates": [
+  "1",
+  "Angle",
+  "Cartesian coordinate system",
+  "Circle",
+  "Complex number",
+  "Euclidean plane",
+  "Euler's formula",
+  "Exponential function",
+  "Group (mathematics)",
+  "Integer",
+  "Mathematics",
+  "Norm (mathematics)",
+  "Pythagorean theorem",
+  "Quantum mechanics",
+  "Radian",
+  "Real number",
+  "Sine and cosine",
+  "Topology",
+  "Trigonometric functions",
+  "Trigonometry"
+ ]
+}

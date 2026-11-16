@@ -1,0 +1,32 @@
+{
+ "key": "Chloroform_13c9f7",
+ "title": "Chloroform",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "CHCl3, historical anaesthetic and common solvent",
+ "is_person": false,
+ "wiki_lead": "Chloroform, or trichloromethane (often abbreviated as TCM), is an organochlorine compound and a trihalomethane with the formula CHCl3 and a common solvent. It is a volatile, colorless, sweet-smelling, dense liquid produced on a large scale as a precursor to refrigerants and polytetrafluoroethylene (PTFE). Chloroform was once used as an inhalational anesthetic between the 19th century and the first half of the 20th century. It is miscible with many solvents but it is only very slightly soluble in water (only 8 g/L at 20°C). \n\n",
+ "wiki_excerpt": "Chloroform, or trichloromethane (often abbreviated as TCM), is an organochlorine compound and a trihalomethane with the formula CHCl3 and a common solvent. It is a volatile, colorless, sweet-smelling, dense liquid produced on a large scale as a precursor to refrigerants and polytetrafluoroethylene (PTFE). Chloroform was once used as an inhalational anesthetic between the 19th century and the first half of the 20th century. It is miscible with many solvents but it is only very slightly soluble in water (only 8 g/L at 20°C). \n\n\nStructure and name\nThe molecule adopts a tetrahedral molecular geometry with C3v symmetry. The chloroform molecule can be viewed as a methane molecule with three hydrogen atoms replaced with three chlorine atoms, leaving a single hydrogen atom.\nThe name \"chloroform\" is a portmanteau of terchloride (tertiary chloride, a trichloride) and formyle, an obsolete name for the methylylidene radical (CH) derived from formic acid.\n\n\nNatural occurrence\nMany kinds of seaweed produce chloroform, and fungi are believed to produce chloroform in soil. Abiotic processes are also believed to contribute to natural chloroform productions in soils, although the mechanism is still unclear.\n\n\nHistory\nChloroform was synthesized independently by several investigators c. 1831:\n\nMoldenhawer, a German pharmacist from Frankfurt an der Oder, appears to have produced chloroform in 1830 by mixing chlorinated lime with ethanol; however, he mistook it for Chloräther (chloric ether, 1,2-dichloroethane).\nSamuel Guthrie, a U.S. physician from Sackets Harbor, New York, also appears to have produced chloroform in 1831 by reacting chlorinated lime with ethanol, and noted its anaesthetic properties; however, he also believed that he had prepared chloric ether.\nJustus von Liebig carried out the alkaline cleavage of chloral. Liebig incorrectly states that the empirical formula of chloroform was C2Cl5 and named it \"Chlorkohlenstoff\" (\"carbon chloride\").\nEugène Soubeiran obtained the compound by the action of chlorine bleach on both ethanol and acetone.\nIn 1834, French chemist Jean-Baptiste Dumas determined chloroform's empirical formula and named it: \"Es scheint mir also erweisen, dass die von mir analysirte Substanz, … zur Formel hat: C2H2Cl6.\" (Thus it seems to me to show that the substance I analyzed … has as [its empirical] formula: C2H2Cl6.). [Note: The coefficients of his empirical formula should be halved.] ... \"Diess hat mich veranlasst diese Substanz mit dem Namen 'Chloroform' zu belegen.\" (This had caused me to impose the name \"chloroform\" upon this substance [i.e., formyl chloride or chloride of formic acid].)\nIn 1835, Dumas prepared the substance by alkaline cleavage of trichloroacetic acid. \nIn 1842, Robert Mortimer Glover in London discovered the anaesthetic qualities of chloroform on laboratory animals.\nIn 1847, Scottish obstetrician James Y. Simpson was the first to demonstrate the anaesthetic properties of chloroform (provided by local pharmacist Will",
+ "grok_lead": "Chloroform (trichloromethane) is a colorless, volatile liquid organic compound with the chemical formula CHCl 3, known for its sweet odor and historical significance as an anesthetic. It has a molecular weight of 119.38 g/mol, a boiling point of 61.2 Â°C, a melting point of -63.5 Â°C, and a density of 1.489 g/cmÂ³ at 25 Â°C, making it denser than water and only slightly soluble (about 8 g/L at 20 Â°C). First synthesized in 1831 by German chemist Samuel Guthrie through the reaction of chloride of lime with alcohol, chloroform's anesthetic properties were discovered in 1847 by Scottish obstetrician James Young Simpson, who demonstrated its use during childbirth and surgery, revolutionizing medical practice despite early reports of toxicity. By the mid-19th century, it became a preferred alternative to ether due to its lack of flammability and unpleasant smell, though its use as an inhalational anesthetic was largely discontinued by the early 20th century following recognition of severe side effects, including liver and kidney damage, and it was banned for such purposes in many countries before World War II. Today, chloroform is primarily produced industrially (approximately 760,000 tonnes annually worldwide as of 2024) as an intermediate in the synthesis of refrigerants like HCFC-22 and pharmaceuticals, with limited applications as a solvent in laboratories (e.g., for NMR spectroscopy using deuterated forms), extraction agent in organic chemistry, and in the production of dyes, pesticides, and polymers; its direct use in consumer products is restricted due to health concerns. Chloroform is formed as a byproduct during water chlorination for disinfection, contributing to environmental exposure, and it readily volatilizes into air where it can persist for months. Toxicity arises from all exposure routesâinhalation, ingestion, and skin absorptionâwith acute effects including central nervous system depression, dizziness, and unconsciousness, while chronic exposure is linked to liver toxicity ( hepatitis, jaundice), kidney damage, and reproductive issues; it is classified as likely to be carcinogenic to humans (EPA).",
+ "crossref_candidates": [
+  "Acetone",
+  "Bleach",
+  "Carbon",
+  "Carcinogen",
+  "Central nervous system",
+  "Chemical formula",
+  "Chlorine",
+  "Ethanol",
+  "Formic acid",
+  "Hydrogen",
+  "Jaundice",
+  "Justus von Liebig",
+  "Methane",
+  "Oil",
+  "Polytetrafluoroethylene",
+  "Radical (chemistry)",
+  "Seaweed",
+  "Surgery",
+  "Tetrahedral molecular geometry"
+ ]
+}

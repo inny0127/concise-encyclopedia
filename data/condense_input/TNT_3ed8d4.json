@@ -1,0 +1,27 @@
+{
+ "key": "TNT_3ed8d4",
+ "title": "TNT",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Impact-resistant high explosive",
+ "is_person": false,
+ "wiki_lead": "Trinitrotoluene ( TRY-ny-troh-TOL-yoo-een, try-NY-), more commonly known as TNT (and more specifically 2,4,6-trinitrotoluene, and by its preferred IUPAC name 2-methyl-1,3,5-trinitrobenzene), is a chemical compound with the formula C6H2(NO2)3CH3. TNT is occasionally used as a reagent in chemical synthesis, but it is best known as an explosive material with convenient handling properties.  The explosive yield of TNT is a standard comparative convention of bombs and asteroid impacts. In chemistry, TNT is used to generate charge transfer salts. TNT has contaminated ecosystems, and been found in fish.",
+ "wiki_excerpt": "Trinitrotoluene ( TRY-ny-troh-TOL-yoo-een, try-NY-), more commonly known as TNT (and more specifically 2,4,6-trinitrotoluene, and by its preferred IUPAC name 2-methyl-1,3,5-trinitrobenzene), is a chemical compound with the formula C6H2(NO2)3CH3. TNT is occasionally used as a reagent in chemical synthesis, but it is best known as an explosive material with convenient handling properties.  The explosive yield of TNT is a standard comparative convention of bombs and asteroid impacts. In chemistry, TNT is used to generate charge transfer salts. TNT has contaminated ecosystems, and been found in fish.\n\n\nHistory\nTNT was first synthesized in 1863 by German chemist Julius Wilbrand and was originally used as a yellow dye. Its potential as an explosive was not recognized for three decades, mainly because it was so much less sensitive than other explosives known at the time. Its explosive properties were discovered in 1891 by another German chemist, Carl Häussermann. TNT can be safely poured when liquid into shell cases, and is so insensitive that in 1910 it was exempted from the UK's Explosives Act 1875 and was not considered an explosive for the purposes of manufacture and storage.\nThe German armed forces adopted it as a filling for artillery shells in 1902. TNT-filled armour-piercing shells would explode after they had penetrated the armour of British capital ships, whereas the British Lyddite-filled shells tended to explode upon striking armour, thus expending much of their energy outside the ship. The British started replacing Lyddite with TNT in 1907.\nThe United States Navy continued filling armour-piercing shells with explosive D after some other nations had switched to TNT, but began filling naval mines, bombs, depth charges, and torpedo warheads with burster charges of crude grade B TNT with the color of brown sugar and requiring an explosive booster charge of granular crystallized grade A TNT for detonation.  High-explosive shells were filled with grade A TNT, which became preferred for other uses as industrial chemical capacity became available for removing xylene and similar hydrocarbons from the toluene feedstock and other nitrotoluene isomer byproducts from the nitrating reactions.\n\n\nPreparation\nIn industry, TNT is produced in a three-step process. First, toluene is nitrated with a mixture of sulfuric and nitric acid to produce mononitrotoluene (MNT). The MNT is separated and then renitrated to dinitrotoluene (DNT). In the final step, the DNT is nitrated to trinitrotoluene (TNT) using an anhydrous mixture of nitric acid and fuming sulfuric acid (oleum). Nitric acid is consumed by the manufacturing process, but the diluted sulfuric acid can be reconcentrated and reused.\nAfter nitration, TNT can either be purified by crystallization from an organic solvent or stabilized by a process called sulfitation, where the crude TNT is treated with aqueous sodium sulfite solution to remove less stable isomers of TNT and other undesired reaction products.  ",
+ "grok_lead": "",
+ "crossref_candidates": [
+  "Artillery",
+  "Benzene",
+  "Bomb",
+  "Carbon",
+  "Chemical compound",
+  "Chemical synthesis",
+  "Chemistry",
+  "Explosive",
+  "Hydrocarbon",
+  "Naval mine",
+  "Nitric acid",
+  "Sulfuric acid",
+  "Toluene",
+  "Torpedo"
+ ]
+}

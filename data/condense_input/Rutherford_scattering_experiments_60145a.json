@@ -1,0 +1,31 @@
+{
+ "key": "Rutherford_scattering_experiments_60145a",
+ "title": "Rutherford scattering experiments",
+ "level": 4,
+ "category": "Physical sciences",
+ "description": "Experiments proving existence of atomic nuclei",
+ "is_person": false,
+ "wiki_lead": "The Rutherford scattering experiments were a landmark series of experiments by which scientists learned  that every atom has a nucleus where all of its positive charge and most of its mass is concentrated.  They deduced this after measuring how an alpha particle beam is scattered when it strikes a thin metal foil. The experiments were performed between 1906 and 1913 by Hans Geiger and Ernest Marsden under the direction of Ernest Rutherford at the Physical Laboratories of the University of Manchester.\nThe physical phenomenon was explained by Rutherford in a classic 1911 paper that eventually led to the widespread use of scattering in particle physics to study subatomic matter. Rutherford scattering or Coulomb scattering is the elastic scattering of charged particles by the Coulomb interaction.  The paper also initiated the development of the planetary Rutherford model of the atom and eventually the Bohr model.\n\n",
+ "wiki_excerpt": "The Rutherford scattering experiments were a landmark series of experiments by which scientists learned  that every atom has a nucleus where all of its positive charge and most of its mass is concentrated.  They deduced this after measuring how an alpha particle beam is scattered when it strikes a thin metal foil. The experiments were performed between 1906 and 1913 by Hans Geiger and Ernest Marsden under the direction of Ernest Rutherford at the Physical Laboratories of the University of Manchester.\nThe physical phenomenon was explained by Rutherford in a classic 1911 paper that eventually led to the widespread use of scattering in particle physics to study subatomic matter. Rutherford scattering or Coulomb scattering is the elastic scattering of charged particles by the Coulomb interaction.  The paper also initiated the development of the planetary Rutherford model of the atom and eventually the Bohr model.\n\n\nSummary\n\n\nThomson's model of the atom\n\nThe prevailing model of atomic structure before Rutherford's experiments was devised by J. J. Thomson. Thomson had discovered the electron through his work on cathode rays and proposed that they existed within atoms, and an electric current is electrons hopping from one atom to an adjacent one in a series. There logically had to be a commensurate amount of positive charge to balance the negative charge of the electrons and hold those electrons together. Having no idea what the source of this positive charge was, he tentatively proposed that the positive charge was everywhere in the atom, adopting a spherical shape for simplicity. Thomson imagined that the balance of electrostatic forces would distribute the electrons throughout this sphere in a more or less even manner. Thomson also believed the electrons could move around in this sphere, and in that regard, he likened the substance of the sphere to a liquid. The positive sphere was more of an abstraction than anything material. He did not propose a positively-charged subatomic particle; a counterpart to the electron.\nThomson was never able to develop a complete and stable model that could predict any of the other known properties of the atom, such as emission spectra and valencies. The Japanese scientist Hantaro Nagaoka rejected Thomson's model on the grounds that opposing charges cannot penetrate each other. He proposed instead that electrons orbit the positive charge like the rings around Saturn. However, this model was also known to be unstable.\n\n\nAlpha particles and the Thomson atom\nAn alpha particle is a positively charged particle of matter that is spontaneously emitted from certain radioactive elements. Alpha particles are so tiny as to be invisible, but they can be detected with the use of phosphorescent screens, photographic plates, or electrodes. Rutherford discovered them in 1899. In 1906, by studying how alpha particle beams are deflected by magnetic and electric fields, he deduced that they were essentially helium atoms stripped of two electrons. Thomson and Rutherford knew nothing about the internal structure of alpha particles. At the time, scientists did not know exactly how many electrons a helium atom had (nor atoms of other elements for that matter), so a helium atom stripped of two electrons might still have ten or so left for all they could tell.\nThomson's model was consistent with the experimental evidence available at the time. Thomson studied beta particle scattering, which showed small-angle deflections modelled as interactions of the particle with many atoms in succession. Each interaction of the particle with the electrons of the atom and the positive background sphere would lead to a tiny deflection, but many such collisions could add up. The scattering of alpha particles was expected to be similar. Rutherford's team would show that the multiple scattering model was not needed: single scattering from a compact charge at the centre of the atom would account for all of the scattering data.\n\n\nRutherford, G",
+ "grok_lead": "",
+ "crossref_candidates": [
+  "Alpha particle",
+  "Atom",
+  "Beta particle",
+  "Bohr model",
+  "Coulomb",
+  "E (mathematical constant)",
+  "Electric current",
+  "Electric field",
+  "Electron",
+  "Ernest Rutherford",
+  "Experiment",
+  "Helium",
+  "J. J. Thomson",
+  "Orbit",
+  "Particle physics",
+  "Saturn",
+  "Scattering",
+  "Subatomic particle"
+ ]
+}

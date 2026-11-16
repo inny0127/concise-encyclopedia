@@ -1,0 +1,28 @@
+{
+ "key": "Supercell_ca3386",
+ "title": "Supercell",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Thunderstorm that is characterized by the presence of a mesocyclone",
+ "is_person": false,
+ "wiki_lead": "A supercell is a thunderstorm characterized by the presence of a mesocyclone, a deep, persistently rotating updraft. Due to this, these storms are sometimes referred to as rotating thunderstorms. Of the four main classifications of thunderstorms—supercell, squall line, multi-cell, and single-cell—supercells are the least common overall and have the potential to be the most severe. Supercells are often isolated from other thunderstorms, and can dominate the local weather up to 32 kilometres (20 mi) away. They tend to last 2–4 hours, but under highly favorable conditions, can last longer, with some instances of tornadic supercells lasting 7+ hours.\nSupercells are often put into three classification types: \"classic\" (normal precipitation level), low-precipitation (LP), and high-precipitation (HP). Low-precipitation supercells are usually found in climates that are more arid, such as the high plains of the United States, and high-precipitation supercells are most often found in moist climates. Supercells can occur anywhere in the world under the right pre-existing weather conditions, but they are most common in the Great Plains of the United States in an area known as Tornado Alley. A high number of supercells are seen in many parts of Europe, as well as in the Tornado Corridor of Argentina, Uruguay, southern Brazil, and Paraguay.",
+ "wiki_excerpt": "A supercell is a thunderstorm characterized by the presence of a mesocyclone, a deep, persistently rotating updraft. Due to this, these storms are sometimes referred to as rotating thunderstorms. Of the four main classifications of thunderstorms—supercell, squall line, multi-cell, and single-cell—supercells are the least common overall and have the potential to be the most severe. Supercells are often isolated from other thunderstorms, and can dominate the local weather up to 32 kilometres (20 mi) away. They tend to last 2–4 hours, but under highly favorable conditions, can last longer, with some instances of tornadic supercells lasting 7+ hours.\nSupercells are often put into three classification types: \"classic\" (normal precipitation level), low-precipitation (LP), and high-precipitation (HP). Low-precipitation supercells are usually found in climates that are more arid, such as the high plains of the United States, and high-precipitation supercells are most often found in moist climates. Supercells can occur anywhere in the world under the right pre-existing weather conditions, but they are most common in the Great Plains of the United States in an area known as Tornado Alley. A high number of supercells are seen in many parts of Europe, as well as in the Tornado Corridor of Argentina, Uruguay, southern Brazil, and Paraguay.\n\n\nCharacteristics\n\nSupercells are usually found isolated from other thunderstorms, although they can sometimes be embedded in a squall line. In the Northern Hemisphere, supercells are typically found in the warm sector of a low pressure system propagating generally in a north easterly direction in line with the cold front of the low pressure system. Because they can last for hours, they are known as quasi-steady-state storms. Supercells have the capability to deviate from the mean wind. If they track to the right or left of the mean wind (relative to the vertical wind shear), they are said to be \"right-movers\" or \"left-movers,\" respectively. Supercells can sometimes develop two separate updrafts with opposing rotations, which splits the storm into two supercells: one left-mover and one right-mover.\nSupercells can be any size – large or small, low or high topped. They usually produce copious amounts of hail, torrential rainfall, strong winds, and substantial downbursts. Supercells are one of the few types of clouds that typically spawn tornadoes within the mesocyclone, although only 30% or fewer do so.\n\n\nGeography\nSupercells can occur anywhere in the world under the right weather conditions. The first storm to be identified as the supercell type was the Wokingham storm over England in 1959, which was studied by Keith Browning and Frank Ludlam later on in 1962. Browning did the initial work that was followed up by Lemon and Doswell to develop the modern conceptual model of the supercell. To the extent that records are available, supercells are most frequent in the Great Plains of the central United States and southern Canada ",
+ "grok_lead": "A supercell is a thunderstorm characterized by a mesocyclone: a deep, persistently rotating updraft. This rotation distinguishes supercells from other thunderstorms and enables them to persist for hours while producing severe weather. Supercells are the least common thunderstorm type but the most dangerous, often generating large hail, damaging winds, and violent tornadoes.",
+ "crossref_candidates": [
+  "Argentina",
+  "Brazil",
+  "Canada",
+  "England",
+  "Great Plains",
+  "Hail",
+  "Northern Hemisphere",
+  "Paraguay",
+  "Precipitation",
+  "Rain",
+  "Thunderstorm",
+  "Tornado",
+  "United States",
+  "Uruguay",
+  "Wind"
+ ]
+}

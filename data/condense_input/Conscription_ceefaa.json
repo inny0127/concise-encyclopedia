@@ -10,12 +10,11 @@
  "grok_lead": "Conscription, also known as the draft, is the compulsory enrollment of individuals into a nation's armed forces, typically enforced by law during periods of war, national emergency, or as a standing peacetime policy. This practice mandates that eligible citizens, often young males, serve a specified term in military service, with penalties for evasion, and has roots extending to ancient civilizations but crystallized in its modern form during the French Revolution's levÃ©e en masse in the 1790s, enabling mass mobilization for total war. Historically, conscription powered key conflicts such as the American Civil War, where the Union implemented the first federal draft in 1863, and both World Wars, where it supplied the bulk of manpower for belligerents despite widespread resistance and riots. In the contemporary era, conscription persists in diverse forms across more than 60 nations, predominantly requiring service from males aged 18 to 25, though countries like Norway and Denmark extended obligations to women as of 2025, reflecting debates over gender equity amid security threats. Nations such as Israel, Switzerland, and South Korea maintain robust systems for deterrence and readiness, while many Western states, including the United States since 1973, shifted to all-volunteer forces, citing higher motivation and effectiveness among self-selected personnel over coerced recruits. Empirical analyses indicate that volunteer armies often exhibit superior unit cohesion, training retention, and operational performance in professionalized warfare due to intrinsic motivation, though conscription can rapidly scale forces for existential threats at lower short-term costs. Conscription remains contentious for infringing on individual autonomy and liberty, akin to compelled labor that disregards personal choice and imposes disproportionate burdens on the young and less affluent, prompting evasion, black markets for substitutes, and moral objections framing it as a violation of free will even in defense of the state. Critics argue it erodes civil rights without commensurate gains in capability, as evidenced by draft riots and legal challenges throughout history, while proponents invoke collective security imperatives, though recent European reconsiderations amid geopolitical tensions highlight tensions between efficacy and ethical coercion.",
  "crossref_candidates": [
   "American English",
-  "Army",
   "Austria",
+  "Babylonia",
   "Civil service",
   "Code of Hammurabi",
   "Cold War",
-  "Combat",
   "Cyprus",
   "Denmark",
   "Eastern Bloc",
@@ -29,21 +28,15 @@
   "Israel",
   "Male",
   "Military",
-  "Military service",
   "Norway",
   "Police",
-  "Rescue",
   "Scandinavia",
-  "Singapore",
-  "Soldier",
+  "Sexism",
   "South Korea",
   "Sweden",
   "Switzerland",
-  "Total war",
   "Turkey",
   "United Kingdom",
-  "United States",
-  "War",
-  "World war"
+  "United States"
  ]
 }

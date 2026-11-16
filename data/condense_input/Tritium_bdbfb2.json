@@ -1,0 +1,32 @@
+{
+ "key": "Tritium_bdbfb2",
+ "title": "Tritium",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Isotope of hydrogen with two neutrons",
+ "is_person": false,
+ "wiki_lead": "Tritium (from Ancient Greek  τρίτος (trítos) 'third'), or hydrogen-3 (symbol T or 3H), is a rare and radioactive isotope of hydrogen with a half-life of 12.32 years. The tritium nucleus (t, sometimes called a triton) contains one proton and two neutrons, whereas the nucleus of the common isotope hydrogen-1 (protium) contains one proton and no neutrons, and that of non-radioactive hydrogen-2 (deuterium) contains one proton and one neutron. Tritium is the heaviest particle-bound isotope of hydrogen. It is one of the few nuclides with a distinct name. The use of the name hydrogen-3, though more systematic, is much less common.\nNaturally occurring tritium is extremely rare on Earth. The atmosphere has only trace amounts, formed by the interaction of its gases with cosmic rays. It can be produced artificially by irradiation of lithium or lithium-bearing ceramic pebbles in a nuclear reactor and is a low-abundance byproduct in normal operations of nuclear reactors.\nTritium is used as the energy source in radioluminescent lights for watches, night sights for firearms, numerous instruments and tools, and novelty items such as self-illuminating key chains. It is used in a medical and scientific setting as a radioactive tracer. Tritium is also used as a nuclear fusion fuel, along with more abundant deuterium, in tokamak reactors and is a vital component in hydrogen bombs. Tritium has also been used commercially in betavoltaic devices such as NanoTritium batteries.",
+ "wiki_excerpt": "Tritium (from Ancient Greek  τρίτος (trítos) 'third'), or hydrogen-3 (symbol T or 3H), is a rare and radioactive isotope of hydrogen with a half-life of 12.32 years. The tritium nucleus (t, sometimes called a triton) contains one proton and two neutrons, whereas the nucleus of the common isotope hydrogen-1 (protium) contains one proton and no neutrons, and that of non-radioactive hydrogen-2 (deuterium) contains one proton and one neutron. Tritium is the heaviest particle-bound isotope of hydrogen. It is one of the few nuclides with a distinct name. The use of the name hydrogen-3, though more systematic, is much less common.\nNaturally occurring tritium is extremely rare on Earth. The atmosphere has only trace amounts, formed by the interaction of its gases with cosmic rays. It can be produced artificially by irradiation of lithium or lithium-bearing ceramic pebbles in a nuclear reactor and is a low-abundance byproduct in normal operations of nuclear reactors.\nTritium is used as the energy source in radioluminescent lights for watches, night sights for firearms, numerous instruments and tools, and novelty items such as self-illuminating key chains. It is used in a medical and scientific setting as a radioactive tracer. Tritium is also used as a nuclear fusion fuel, along with more abundant deuterium, in tokamak reactors and is a vital component in hydrogen bombs. Tritium has also been used commercially in betavoltaic devices such as NanoTritium batteries.\n\n\nHistory\nTritium was first detected in 1934 by Ernest Rutherford, Mark Oliphant and Paul Harteck after bombarding deuterium with deuterons (deuterium nuclei). Deuterium is another isotope of hydrogen (of mass 2), which occurs naturally with an abundance of 0.015%. Their experiment could not isolate tritium, which was first accomplished in 1939 by Luis Alvarez and Robert Cornog, who also realized tritium's radioactivity. Willard Libby recognized in 1954 that tritium could be used for radiometric dating of water and wine.\n\n\nDecay\nTritium decays into helium-3 by beta-minus decay as shown in this nuclear equation:\n\nreleasing 18.6 keV of energy in the process. The electron's kinetic energy varies, with an average of 5.7 keV, while the remaining energy is carried off by the nearly undetectable electron antineutrino. Beta particles from tritium can penetrate only about 6 mm (0.24 in) of air, and they are incapable of passing through the dead outermost layer of human skin. Because of their low energy compared to other beta particles, the amount of bremsstrahlung generated is also lower. The unusually low energy released in the tritium beta decay makes the decay (along with that of rhenium-187) useful for attempts at absolute neutrino mass measurement, none of which has yet succeeded.\nThe low energy of tritium's radiation makes it difficult to detect tritium-labeled compounds except by using liquid scintillation counting.\n\n\nProduction\n\n\nLithium\nTritium is most often produced in nuclear reactors by neutron",
+ "grok_lead": "Tritium, with the symbol Â³H or T, is a rare radioactive isotope of hydrogen consisting of one proton and two neutrons in its nucleus. It decays by emitting low-energy beta particles to form helium-3, with a half-life of 12.32 years. The beta radiation has a maximum energy of 18.6 keV and a range of about 6 micrometers in tissue, rendering external exposure harmless while necessitating precautions against internal uptake via inhalation, ingestion, or skin absorption. Tritium occurs naturally in trace amounts from cosmic ray-induced reactions in the atmosphere but is primarily produced artificially in nuclear reactors through neutron irradiation of lithium-6 or deuterium. Key applications encompass deuterium-tritium fusion fuel in experimental reactors, where it enables high neutron yields, biological and chemical tracers due to its incorporation into water as tritiated water (HTO), and radioluminescent sources in devices like watches and instruments, exploiting beta-induced phosphorescence without requiring external power. Tritium's scarcity and production challenges pose supply constraints for fusion energy development, while environmental releases from nuclear facilities have prompted monitoring for bioaccumulation risks, though epidemiological data indicate low stochastic health effects at typical exposure levels.",
+ "crossref_candidates": [
+  "Atmosphere",
+  "Beta decay",
+  "Beta particle",
+  "Bremsstrahlung",
+  "Cosmic ray",
+  "Deuterium",
+  "Electron",
+  "Ernest Rutherford",
+  "Helium-3",
+  "Hydrogen",
+  "Ion",
+  "Lithium",
+  "Neutrino",
+  "Neutron",
+  "Nuclear fusion",
+  "Nuclear reactor",
+  "Proton",
+  "RNA",
+  "Wine"
+ ]
+}

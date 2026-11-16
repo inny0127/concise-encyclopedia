@@ -1,0 +1,27 @@
+{
+ "key": "Methylamine_b48da1",
+ "title": "Methylamine",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Organic ammonia derivative",
+ "is_person": false,
+ "wiki_lead": "Methylamine, also known as methanamine, is an organic compound with a formula of CH5N or CH3NH2. This colorless gas is a derivative of ammonia, but with one hydrogen atom being replaced by a methyl group. It is the simplest primary amine.\nMethylamine is sold dissolved in solution with methanol, ethanol, tetrahydrofuran, or water, or as the anhydrous gas in pressurized metal containers. Industrially, methylamine is transported in its anhydrous form in pressurized railcars and tank trailers. It has a strong odor similar to rotten fish. Methylamine is used as a building block for the synthesis of numerous other commercially available compounds.",
+ "wiki_excerpt": "Methylamine, also known as methanamine, is an organic compound with a formula of CH5N or CH3NH2. This colorless gas is a derivative of ammonia, but with one hydrogen atom being replaced by a methyl group. It is the simplest primary amine.\nMethylamine is sold dissolved in solution with methanol, ethanol, tetrahydrofuran, or water, or as the anhydrous gas in pressurized metal containers. Industrially, methylamine is transported in its anhydrous form in pressurized railcars and tank trailers. It has a strong odor similar to rotten fish. Methylamine is used as a building block for the synthesis of numerous other commercially available compounds.\n\n\nProduction\n\n\nIndustrial production\nMethylamine has been produced industrially since the 1920s (originally by Commercial Solvents Corporation for dehairing of animal skins). This was made possible by Kazimierz Smoleński and his wife Eugenia who discovered amination of alcohols, including methanol, on alumina or kaolin catalyst after WWI, filed two patent applications in 1919 and published an article in 1921.\nIt is now prepared commercially by the reaction of ammonia with methanol in the presence of an aluminosilicate catalyst. Dimethylamine and trimethylamine are co-produced; the reaction kinetics and reactant ratios determine the ratio of the three products. The product most favored by the reaction kinetics is trimethylamine.\n\nCH3OH + NH3 → CH3NH2 + H2O\nIn this way, an estimated 115,000 tons were produced in 2005.\n\n\nLaboratory methods\nMethylamine was first prepared in 1849 by Charles-Adolphe Wurtz via the hydrolysis of methyl isocyanate and related compounds. An example of this process includes the use of the Hofmann rearrangement, to yield methylamine from acetamide and bromine.\nIn the laboratory, methylamine hydrochloride is readily prepared by various other methods. One method entails treating formaldehyde with ammonium chloride.\n\n[NH4]Cl + CH2O → [CH2=NH2]Cl + H2O\n[CH2=NH2]Cl + CH2O + H2O → [CH3NH3]Cl + HCOOH\nThe colorless hydrochloride salt can be converted to an amine by the addition of a strong base, such as sodium hydroxide (NaOH):\n\n[CH3NH3]Cl + NaOH → CH3NH2 + NaCl + H2O\nAnother method entails reducing nitromethane with zinc and hydrochloric acid.\nAnother method of methylamine production is spontaneous decarboxylation of glycine with a strong base in water.\n\n\nBiosynthesis\nMethylamine arises as a result of putrefaction and is a substrate for methanogenesis.\nAdditionally, methylamine is produced during PADI4-dependent arginine demethylation.\n\n\nReactivity and applications\nMethylamine is a good nucleophile as it is an unhindered amine. As an amine it is considered a weak base. Its use in organic chemistry is pervasive. Some reactions involving simple reagents include: with phosgene to methyl isocyanate, with carbon disulfide and sodium hydroxide to the sodium methyldithiocarbamate, with chloroform and base to methyl isocyanide and with ethylene oxide to methylethanolamines. Liquid methylamine has solve",
+ "grok_lead": "Methylamine is the simplest primary aliphatic amine, an organic compound with the molecular formula CHâNHâ and a molecular weight of 31.06 g/mol. It appears as a colorless, flammable gas under standard conditions, with a boiling point of â6 Â°C, a melting point of â93 Â°C, and a pungent fishy odor similar to ammonia. Industrially produced by the catalytic reaction of methanol with ammonia, typically over an alumina or silica-alumina catalyst, it serves as a key intermediate in the synthesis of pharmaceuticals (such as ephedrine and theophylline), pesticides, herbicides, fungicides, solvents, dyes, and fuel additives. While essential for legitimate chemical manufacturing, methylamine has gained notoriety as a precursor in the illicit synthesis of methamphetamine, prompting strict regulatory controls on its distribution despite its broad industrial utility.",
+ "crossref_candidates": [
+  "Amine",
+  "Ammonia",
+  "Ammonium chloride",
+  "Bromine",
+  "Chloroform",
+  "Ethanol",
+  "Formaldehyde",
+  "Methamphetamine",
+  "Methanol",
+  "Organic chemistry",
+  "Organic compound",
+  "Sodium hydroxide",
+  "Water",
+  "Zinc"
+ ]
+}

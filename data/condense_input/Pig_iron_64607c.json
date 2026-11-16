@@ -1,0 +1,27 @@
+{
+ "key": "Pig_iron_64607c",
+ "title": "Pig iron",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Iron alloy",
+ "is_person": false,
+ "wiki_lead": "Pig iron is an intermediate good used by the iron industry in the production of steel. It is developed by smelting iron ore in a blast furnace. Pig iron has a high carbon content, typically 3.8–4.7%, along with silica and other dross, which makes it brittle and not useful directly as a material except for limited applications.\n\n",
+ "wiki_excerpt": "Pig iron is an intermediate good used by the iron industry in the production of steel. It is developed by smelting iron ore in a blast furnace. Pig iron has a high carbon content, typically 3.8–4.7%, along with silica and other dross, which makes it brittle and not useful directly as a material except for limited applications.\n\n\nEtymology\nThe traditional shape of the molds used for pig iron ingots is a branching structure formed in sand, with many individual ingots at right angles to a central channel or \"runner\", resembling a litter of piglets being nursed by a sow. When the metal had cooled and hardened, the smaller ingots (the \"pigs\") were simply broken from the runner (the \"sow\"), hence the name \"pig iron\". As pig iron is intended for remelting, the uneven size of the ingots and the inclusion of small amounts of sand are insignificant when compared to the ease of casting and handling.\n\n\nHistory\n\nPig iron was made in China by the later Zhou dynasty (ended 256 BC), with the earliest archaeologically confirmed Chinese blast furnaces dating to the Han dynasty. In Europe, blast furnaces producing pig iron appeared during the Middle Ages; Early European blast furnaces are known from Sweden, Germany, and Italy during the 12th and 13th centuries.\nSmelting and production of wrought iron were practiced in ancient Europe and the Middle East using direct-reduction bloomery furnaces. Such furnaces could also produce small amounts of high-carbon or molten iron unintentionally, but the intended product was a solid, malleable iron bloom. Pig iron could not be forged directly and instead had to be refined by decarburization before it could be worked.\n\n\nUses\nTraditionally, pig iron was worked into wrought iron in finery forges, later puddling furnaces, and more recently, it is worked into steel. In these processes, pig iron is melted and a strong current of air is directed over it while it is stirred or agitated. This causes the dissolved impurities (such as silicon) to be thoroughly oxidized. An intermediate product of puddling is known as refined pig iron, finers metal, or refined iron.\nPig iron can also be used to produce gray iron. This is achieved by remelting pig iron, often along with substantial quantities of steel and scrap iron, removing undesirable contaminants, adding alloys, and adjusting the carbon content. Ductile iron can also be produced using certain high purity grades of pig iron; depending on the grade of ductile iron being produced, the pig irons chosen may be low in the elements silicon, manganese, sulfur and phosphorus. High purity pig iron is used to dilute any elements in a ductile iron charge which may be harmful to the ductile iron process (except carbon).\n\n\nModern uses\nPig iron was historically poured directly out of the bottom of the blast furnace through a channel into a ladle car for transfer to the steel mill in mostly liquid form; in this state, the pig iron was referred to as hot metal. The hot metal was then poured into a ste",
+ "grok_lead": "Pig iron is a high-carbon intermediate product of iron smelting, obtained by reducing iron ore in a blast furnace, and is characterized by its brittle nature due to a carbon content typically ranging from 3 to 4.5%, along with impurities such as 0.5-4% silicon, 0.15-2.5% manganese, up to 0.2% sulfur, and 0.025-2.5% phosphorus. In the production process, iron ore âprimarily hematite or magnetite âis charged into a blast furnace along with coke as the reducing agent and fuel, and limestone as a flux to remove impurities as slag; preheated air is blasted through tuyeres to reach temperatures sufficient to melt the reduced iron, which is then tapped as molten metal and cast into molds. The name \"pig iron\" derives from the historical practice of casting the molten iron into sand molds arranged in a main channel (the \"sow\") with branching depressions (the \"pigs\") resembling a sow nursing her piglets. Due to its high carbon content and brittleness, pig iron is unsuitable for direct structural use but serves as the primary feedstock for steel production, where it is refined in basic oxygen converters or electric arc furnaces to lower carbon levels and add alloying elements like manganese and chromium. Portions of pig iron are also used in foundries to produce cast iron products, such as pipes and engine blocks, by adjusting its composition for improved castability. Globally, pig iron production is integral to the iron and steel industry, with blast furnaces operating continuously for campaigns typically lasting 15 to 20 years to supply hot metal for downstream processing.",
+ "crossref_candidates": [
+  "Alloy",
+  "Carbon",
+  "Han dynasty",
+  "Iron ore",
+  "Manganese",
+  "Middle Ages",
+  "Phosphorus",
+  "Pig",
+  "Sand",
+  "Smelting",
+  "Steel",
+  "Sulfur",
+  "Wrought iron",
+  "Zhou dynasty"
+ ]
+}

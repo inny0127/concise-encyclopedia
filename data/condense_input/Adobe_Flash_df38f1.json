@@ -1,0 +1,33 @@
+{
+ "key": "Adobe_Flash_df38f1",
+ "title": "Adobe Flash",
+ "level": 5,
+ "category": "Technology",
+ "description": "Discontinued multimedia platform used to add animation and interactivity to websites",
+ "is_person": false,
+ "wiki_lead": "Adobe Flash (formerly Macromedia Flash and FutureSplash) is a multimedia software platform used for production of animations, rich Internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players.  Although Adobe Inc. discontinued support for Flash Player, it is developed by Zhongcheng in the Chinese market and by Wipro for the international enterprise market.",
+ "wiki_excerpt": "Adobe Flash (formerly Macromedia Flash and FutureSplash) is a multimedia software platform used for production of animations, rich Internet applications, desktop applications, mobile apps, mobile games, and embedded web browser video players.  Although Adobe Inc. discontinued support for Flash Player, it is developed by Zhongcheng in the Chinese market and by Wipro for the international enterprise market.\n\n\nAbout\nFlash displays text, vector graphics, and raster graphics to provide animations, video games, and applications. It allows streaming of audio and video, and can capture mouse, keyboard, microphone, and camera input.\nAnimators may produce Flash graphics and animations using Adobe Animate (formerly known as Adobe Flash Professional). Software developers may produce applications and video games using Adobe Flash Builder, FlashDevelop, Flash Catalyst, or any text editor combined with the Apache Flex SDK. End users view Flash content via Flash Player (for web browsers), Adobe AIR (for desktop or mobile apps), or third-party players such as Scaleform (for video games). Adobe Flash Player (which is available on Microsoft Windows, macOS, and Linux) enables end users to view Flash content using web browsers. Adobe Flash Lite enabled viewing Flash content on older smartphones, but since has been discontinued and superseded by Adobe AIR.\nThe ActionScript programming language allows the development of interactive animations, video games, web applications, desktop applications, and mobile applications. Programmers can implement Flash software using an IDE such as Adobe Animate, Adobe Flash Builder, Adobe Director, FlashDevelop, and Powerflasher FDT. Adobe AIR enables full-featured desktop and mobile applications to be developed with Flash and published for Windows, macOS, Android, iOS, Xbox One, PlayStation 4, Wii U, and Nintendo Switch.\nFlash was initially used to create fully-interactive websites, but this approach was phased out with the introduction of HTML5. Instead, Flash found a niche as the dominant platform for online multimedia content, particularly for browser games. Following an open letter written by Steve Jobs in 2010 stating that he would not approve the use of Flash on Apple's iOS devices due to numerous security flaws, use of Flash gradually declined as Adobe transitioned to the Adobe AIR platform. The Flash Player was deprecated in 2017 and officially discontinued at the end of 2020 for all users outside mainland China as well as non-enterprise users, with many web browsers and operating systems scheduled to remove the Flash Player software around the same time. Adobe continues to develop Adobe Animate, which supports web standards such as HTML5 instead of the Flash format.\n\n\nApplications\n\n\nWebsites\nIn the early 2000s, the Flash Player was widely installed on desktop computers, and was often used to display interactive web pages and online games, and to play video and audio content. In 2005, YouTube was founded by former PayPal emplo",
+ "grok_lead": "Adobe Flash was a proprietary multimedia software platform for authoring and delivering vector-based animations, interactive content, games, and rich internet applications that required a dedicated plugin for web browsers. Originating as FutureSplash Animator developed by FutureWave Software, it was acquired and rebranded by Macromedia as Flash 1.0 in December 1996. Macromedia 's Flash enabled widespread adoption of dynamic web experiences in the late 1990s and 2000s, powering elements like embedded video streaming, casual browser games, and site navigation before native web standards matured. Adobe acquired Macromedia in 2005, integrating Flash into its ecosystem and extending it with tools like Flash Professional for development and ActionScript for programming. Despite its innovations in web interactivity, Flash faced escalating security vulnerabilitiesâover 1,000 documented since 2005âmaking it a frequent target for exploits due to its plugin architecture and unmanaged code base. Adobe announced the end of Flash Player support on December 31, 2020, with content blocking starting January 12, 2021, citing the platform's obsolescence amid HTML5's rise and ongoing security risks. The discontinuation marked the shift to open web standards, though legacy Flash content persists in emulated environments for archival purposes.",
+ "crossref_candidates": [
+  "Adobe Inc.",
+  "Android (operating system)",
+  "C (programming language)",
+  "China",
+  "HTML",
+  "IOS",
+  "Linux",
+  "MacOS",
+  "Microsoft Windows",
+  "Mobile app",
+  "Nintendo Switch",
+  "Operating system",
+  "PayPal",
+  "PlayStation 4",
+  "Smartphone",
+  "Steve Jobs",
+  "Video game",
+  "Web browser",
+  "Xbox One",
+  "YouTube"
+ ]
+}

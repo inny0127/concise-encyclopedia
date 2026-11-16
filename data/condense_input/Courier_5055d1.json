@@ -1,0 +1,24 @@
+{
+ "key": "Courier_5055d1",
+ "title": "Courier",
+ "level": 5,
+ "category": "Technology",
+ "description": "Person or company delivering items",
+ "is_person": false,
+ "wiki_lead": "A courier is a person or organization that delivers a message, package or letter from one place or person to another place or person. Typically, a courier provides their courier service on a commercial contract basis; however, some couriers are government or state agency employees (for example: a diplomatic courier).",
+ "wiki_excerpt": "A courier is a person or organization that delivers a message, package or letter from one place or person to another place or person. Typically, a courier provides their courier service on a commercial contract basis; however, some couriers are government or state agency employees (for example: a diplomatic courier).\n\n\nDuties and functions\nCouriers are distinguished from ordinary mail services by features such as speed, security, tracking, signature, specialization and individualization of express services, and swift delivery times, which are optional for most everyday mail services. As a premium service, couriers are usually more expensive than standard mail services, and their use is normally limited to packages where one or more of these features are considered important enough to warrant the cost.\nCourier services operate on all scales, from within specific towns or cities, to regional, national and global services. Large courier companies include DHL, DTDC, FedEx, EMS International, Purolator, TNT, UPS, India Post, Delhivery, J&T Express and Aramex. These offer services worldwide, typically via a hub and spoke model.\nCouriers services utilizing courier software provide electronic proof of delivery and electronic tracking details.\n\n\nBefore the industrial era\n\nIn ancient history, messages were hand-delivered using a variety of methods, including runners, homing pigeons and riders on horseback. Before the introduction of mechanized courier services, foot messengers physically ran miles to their destinations. Xenophon attributed the first use of couriers to the Persian prince Cyrus the Younger.\nFamously, the Ancient Greek courier Pheidippides is said to have run 26 miles from Marathon to Athens to bring the news of the Greek victory over the Persians in 490 BCE. The long-distance race known as a marathon is named for this run.\n\n\nHezekiah\nJudah's king, Hezekiah, dates between 200 and 400 BCE, where several couriers brought letters throughout the land of Judah and Israel (cf. 2 Chron 30 ESV).\n\n\nHemerodromi and Anabasii\nHemerodromoi (day-runners), Hemeroscopoi (day-watchers) and Dromokerykes (runner heralds) were specialized couriers in ancient Greece renowned for their exceptional endurance. These trained runners were employed to carry important news, often conveying information about significant events across the Greek world. They also performed a form of surveillance. In times of danger, they were often stationed on elevated positions such as hills to observe important events or military movements.\nStarting at the time of Augustus, the ancient Greeks and Romans made use of a class of horse and chariot-mounted couriers called anabasii to quickly bring messages and commands from long distances. The word anabasii comes from the Greek ἀνάβασις(anábasis, \"ascent, mounting\").\nIn Roman Britain, Rufinus made use of anabasii, as documented in Saint Jerome's memoirs (adv. Ruffinum, l. 3. c. 1.): \"Idcircone Cereales et Anabasii tui per diversas provincias ",
+ "grok_lead": "A courier is a person or organization that delivers messages, packages, or letters from one place or person to another, often providing faster or more secure service than standard postal systems. Couriers have existed since ancient times, using methods like runners, horses, and homing pigeons to transport urgent communications and goods across distances. In modern contexts, couriers handle a range of deliveries, from documents and parcels in urban areas to international shipments, typically by vehicle, bicycle, or foot, ensuring timely and reliable transport for businesses and individuals. This role remains essential in logistics, with services evolving alongside technology and e-commerce demands as of 2025.",
+ "crossref_candidates": [
+  "Ancient Greece",
+  "Athens",
+  "Augustus",
+  "Chariot",
+  "E-commerce",
+  "India",
+  "Jerome",
+  "Mail",
+  "Marathon",
+  "Organization",
+  "Xenophon"
+ ]
+}

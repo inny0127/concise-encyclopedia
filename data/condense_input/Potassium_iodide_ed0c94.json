@@ -1,0 +1,29 @@
+{
+ "key": "Potassium_iodide_ed0c94",
+ "title": "Potassium iodide",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Ionic compound (KI)",
+ "is_person": false,
+ "wiki_lead": "Potassium iodide (KI) is a chemical compound, medication, and dietary supplement. It is a medication used for treating hyperthyroidism, in radiation emergencies, and for protecting the thyroid gland when certain types of radiopharmaceuticals are used. It is also used for treating skin sporotrichosis and phycomycosis. It is a supplement used by people with low dietary intake of iodine. It is administered orally.\nCommon side effects include vomiting, diarrhea, abdominal pain, rash, and swelling of the salivary glands. Other side effects include allergic reactions, headache, goitre, and depression. While use during pregnancy may harm the baby, its use is still recommended in radiation emergencies. Potassium iodide has the chemical formula KI. Commercially it is made by mixing potassium hydroxide with iodine.\nPotassium iodide has been used medically since at least 1820. It is on the World Health Organization's List of Essential Medicines. Potassium iodide is available as a generic medication and over the counter. Potassium iodide is also used for the iodization of salt.\n\n",
+ "wiki_excerpt": "Potassium iodide (KI) is a chemical compound, medication, and dietary supplement. It is a medication used for treating hyperthyroidism, in radiation emergencies, and for protecting the thyroid gland when certain types of radiopharmaceuticals are used. It is also used for treating skin sporotrichosis and phycomycosis. It is a supplement used by people with low dietary intake of iodine. It is administered orally.\nCommon side effects include vomiting, diarrhea, abdominal pain, rash, and swelling of the salivary glands. Other side effects include allergic reactions, headache, goitre, and depression. While use during pregnancy may harm the baby, its use is still recommended in radiation emergencies. Potassium iodide has the chemical formula KI. Commercially it is made by mixing potassium hydroxide with iodine.\nPotassium iodide has been used medically since at least 1820. It is on the World Health Organization's List of Essential Medicines. Potassium iodide is available as a generic medication and over the counter. Potassium iodide is also used for the iodization of salt.\n\n\nMedical uses\n\n\nDietary supplement\nPotassium iodide is a nutritional supplement in animal feeds and also in the human diet. In humans it is the most common additive used for iodizing table salt (a public health measure to prevent iodine deficiency in populations that get little seafood). The oxidation of iodide causes slow loss of iodine content from iodised salts that are exposed to excess air. The alkali metal iodide salt, over time and exposure to excess oxygen and carbon dioxide, slowly oxidizes to metal carbonate and elemental iodine, which then evaporates. Potassium iodate (KIO3) is used to iodize some salts so that the iodine is not lost by oxidation. Dextrose or sodium thiosulfate are often added to iodized table salt to stabilize potassium iodide thus reducing loss of the volatile chemical.\n\n\nThyroid protection in nuclear accidents\n\nThyroid iodine uptake blockade with potassium iodide is used in nuclear medicine scintigraphy and therapy with some radioiodinated compounds that are not targeted to the thyroid, such as iobenguane (MIBG), which is used to image or treat neural tissue tumors, or iodinated fibrinogen, which is used in fibrinogen scans to investigate clotting. These compounds contain iodine, but not in the iodide form. Since they may be ultimately metabolized or break down to radioactive iodide, it is common to administer non-radioactive potassium iodide to ensure that iodide from these radiopharmaceuticals is not sequestered by the normal affinity of the thyroid for iodide.\nThe World Health Organization (WHO) provides guidelines for potassium iodide use following a nuclear accident. The dosage of potassium iodide is age-dependent: neonates (<1 month) require 16 mg/day; children aged 1 month to 3 years need 32  mg/day; those aged 3–12 years need 65 mg/day; and individuals over 12 years and adults require 130 mg/day. These dosages list mass of potassium iodide rathe",
+ "grok_lead": "Potassium iodide is an inorganic chemical compound with the formula KI, consisting of potassium cations and iodide anions in a 1:1 ionic lattice. It appears as a white, odorless, cubic crystalline solid that is highly soluble in water, forming a colorless solution. As a stable source of iodide ions, it functions as a dietary supplement to prevent iodine deficiency and is used medically as an expectorant to loosen mucus in respiratory conditions. Its most critical application involves thyroid protection during radiological emergencies, where administration saturates the thyroid gland with non-radioactive iodine, thereby blocking uptake of harmful radioactive iodine-131 isotopes released in nuclear accidents or detonations. Potassium iodide also finds use in analytical chemistry as a reagent and historically in photography for emulsion preparation.",
+ "crossref_candidates": [
+  "Chemical compound",
+  "Chemical formula",
+  "Depression (mood)",
+  "Diarrhea",
+  "Dietary supplement",
+  "Gland",
+  "Iodine",
+  "Ion",
+  "Medication",
+  "Oxygen",
+  "Potassium",
+  "Potassium hydroxide",
+  "Pregnancy",
+  "Salt (chemistry)",
+  "Thyroid",
+  "World Health Organization"
+ ]
+}

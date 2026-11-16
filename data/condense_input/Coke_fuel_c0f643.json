@@ -1,0 +1,33 @@
+{
+ "key": "Coke_fuel_c0f643",
+ "title": "Coke (fuel)",
+ "level": 5,
+ "category": "Technology",
+ "description": "Coal product used in the process of making steel",
+ "is_person": false,
+ "wiki_lead": "Coke is a grey, hard, and porous coal-based fuel with a high carbon content. It is made by heating coal or petroleum in the absence of air. Coke is an important industrial product, used mainly in the smelting of iron ore, but also as a fuel in stoves and forges.\nThe unqualified term \"coke\" usually refers to the product derived from low-ash and low-sulphur bituminous coal by a process called coking. A similar product called petroleum coke, or pet coke, is obtained from crude petroleum in petroleum refineries. Coke may also be formed naturally by geologic processes. It is the residue of a destructive distillation process.\n\n",
+ "wiki_excerpt": "Coke is a grey, hard, and porous coal-based fuel with a high carbon content. It is made by heating coal or petroleum in the absence of air. Coke is an important industrial product, used mainly in the smelting of iron ore, but also as a fuel in stoves and forges.\nThe unqualified term \"coke\" usually refers to the product derived from low-ash and low-sulphur bituminous coal by a process called coking. A similar product called petroleum coke, or pet coke, is obtained from crude petroleum in petroleum refineries. Coke may also be formed naturally by geologic processes. It is the residue of a destructive distillation process.\n\n\nProduction\n\n\nIndustrial coke furnaces\n\nThe industrial production of coke from coal is called coking. The coal is baked in an airless kiln, a coke furnace or coking oven, at temperatures as high as 2,000 °C (3,600 °F) but usually around 1,000–1,100 °C (1,800–2,000 °F). This process vaporises or decomposes organic substances in the coal, driving off water and other volatile and liquid products such as coal gas and coal tar. Coke is the non-volatile residue of the decomposition, the cemented-together carbon and mineral residue of the original coal particles in the form of a hard and somewhat glassy solid.\nAdditional byproducts of the coking are coal-tar pitch, ammonia (NH3), hydrogen sulphide (H2S), pyridine, hydrogen cyanide, and carbon-based material. Some facilities have \"by-product\" coking ovens in which the volatile decomposition products are collected, purified, and separated for use in other industries, as fuel or chemical feedstocks. Otherwise the volatile byproducts are burned to heat the coking ovens. This is an older method, but is still being used for new construction.\n\n\nSources\nBituminous coal must meet a set of criteria for use as coking coal, determined by particular coal assay techniques. These include moisture content, ash content, sulphur content, volatile content, tar, and plasticity. The goal is to achieve a blend of coal that when processed will produce a coke of appropriate strength (generally measured by coke strength after reaction), while losing an appropriate amount of mass. Other blending considerations include ensuring the coke will not swell too much during production and destroy the coke oven through excessive wall pressures.\nThe greater the volatile matter in coal, the more by-product can be produced. It is generally considered that levels of 26–29% of volatile matter in the coal blend are good for coking purposes. Thus, different types of coal are proportionally blended to reach acceptable levels of volatility before the coking process begins. If the range of coal types is too great, the resulting coke is of widely varying strength and ash content, and is usually unsaleable, although in some cases it may be sold as an ordinary heating fuel. As coke has already lost its volatile matter, it cannot be coked again.\nCoking coal is different from thermal coal, but arises from the same basic coal-forming pr",
+ "grok_lead": "Coke is a grey, hard, and porous high-carbon solid fuel produced by heating bituminous coal in coke ovens at temperatures exceeding 1,000Â°C in the absence of air, through a process of destructive distillation that removes volatile compounds and impurities. This results in a material with approximately 85-90% fixed carbon, low sulfur and ash content, and a heating value of about 24.8 million Btu per short ton, making it superior to raw coal for high-temperature applications. In industrial metallurgy, coke functions dually as a fuel to generate intense heat for melting iron ore and slag, and as a chemical reducing agent that converts iron oxides to metallic iron via carbon monoxide, while its structural strength supports the furnace burden and ensures gas permeability essential for efficient operation. Its development in the early 18th century, substituting for wood-derived charcoal, enabled scalable iron production and fueled the Industrial Revolution by leveraging abundant coal resources. Despite alternatives like pulverized coal injection, metallurgical coke remains indispensable for high-quality steelmaking due to its unique combination of reactivity, strength, and purity.",
+ "crossref_candidates": [
+  "Ammonia",
+  "Carbon",
+  "Carbon monoxide",
+  "Charcoal",
+  "Coal",
+  "Cyanide",
+  "Fuel",
+  "Hydrogen",
+  "Hydrogen cyanide",
+  "Industrial Revolution",
+  "Iron",
+  "Iron ore",
+  "Petroleum",
+  "Plasticity (physics)",
+  "Smelting",
+  "Steel",
+  "Stove",
+  "Sulfur",
+  "Tar",
+  "Water"
+ ]
+}

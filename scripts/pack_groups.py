@@ -20,6 +20,7 @@ for f in DONE.glob("*.json"):
 
 inputs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(INP.glob("*.json"))]
 inputs = [i for i in inputs if i["key"] not in done]
+GROUPS.mkdir(parents=True, exist_ok=True)
 for old in GROUPS.glob("*"):
     old.unlink()
 
@@ -41,8 +42,10 @@ def as_text(items):
 plan = {"sonnet": ([i for i in inputs if i["level"] <= 3], 10),
         "haiku": ([i for i in inputs if i["level"] >= 4], 25)}
 for model, (items, size) in plan.items():
+    # Number new groups after finished ones so data/condensed/<group>.json never gets overwritten.
+    start = 1 + max((int(f.stem.split("_")[1]) for f in DONE.glob(f"{model}_*.json")), default=-1)
     for n in range(0, len(items), size):
-        path = GROUPS / f"{model}_{n // size:03d}.json"
+        path = GROUPS / f"{model}_{start + n // size:03d}.json"
         path.write_text(json.dumps(items[n:n + size], ensure_ascii=False, indent=1), encoding="utf-8")
         path.with_suffix(".txt").write_text(as_text(items[n:n + size]), encoding="utf-8")
     print(model, len(items), "entries in", -(-len(items) // size), "groups")

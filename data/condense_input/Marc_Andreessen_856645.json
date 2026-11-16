@@ -1,0 +1,28 @@
+{
+ "key": "Marc_Andreessen_856645",
+ "title": "Marc Andreessen",
+ "level": 5,
+ "category": "People",
+ "description": "American businessman (born 1971)",
+ "is_person": true,
+ "wiki_lead": "Marc Lowell Andreessen ( an-DREE-sən; born July 9, 1971) is an American businessman, venture capitalist, and former software engineer. He is the co-author of Mosaic, the first web browser to display inline images; co-founder of Netscape; and co-founder and general partner of Silicon Valley venture capital firm Andreessen Horowitz. \nHe co-founded and later sold the software company Opsware to Hewlett-Packard; he also co-founded Ning, a company that provides a platform for social networking websites. In 2024, he became an advisor to Donald Trump. \nAs of November 2026, Forbes estimated Andreessen's net worth at US$18.5 billion.",
+ "wiki_excerpt": "Marc Lowell Andreessen ( an-DREE-sən; born July 9, 1971) is an American businessman, venture capitalist, and former software engineer. He is the co-author of Mosaic, the first web browser to display inline images; co-founder of Netscape; and co-founder and general partner of Silicon Valley venture capital firm Andreessen Horowitz. \nHe co-founded and later sold the software company Opsware to Hewlett-Packard; he also co-founded Ning, a company that provides a platform for social networking websites. In 2024, he became an advisor to Donald Trump. \nAs of November 2026, Forbes estimated Andreessen's net worth at US$18.5 billion.\n\n\nEarly life and education\n\nAndreessen was born in Cedar Falls, Iowa, and raised in New Lisbon, Wisconsin, which he considered \"the sticks\". He is the son of Patricia, customer service operator at Lands' End, and Lowell Andreessen, who worked as a sales manager for the seed producer Pioneer Hi-Bred International. He has a younger brother named Jeff. Andreessen has stated that he had problematic relationships with his parents and brother, and that he did not like to talk about them.\nAndreessen discovered programming at age 12. In December 1993, Andreessen received his bachelor's degree in computer science from the University of Illinois at Urbana–Champaign (UIUC).  As an undergraduate, he interned twice at IBM in Austin, Texas. He worked in the AIX graphics software development group responsible for the MIT X implementation and ports of the 3D language APIs:  SGI's Graphics Language (GL) and PHIGS.  He also worked as a programmer, earning $6.85 per hour (equivalent of $15.49/hr in 2026), at the National Center for Supercomputing Applications (NCSA) at the University of Illinois. At that time, he became familiar with Tim Berners-Lee's open standards for the World Wide Web, but the World Wide Web browser required advanced programming skills to use. \nAfter being shown the graphic web browser ViolaWWW in late 1992, Andreessen and full-time salaried co-worker Eric Bina worked on creating a browser with integrated graphics that could be ported to a wide range of computers, including Windows. The result was the Mosaic web browser released in 1993. The new web browser led to a 342,000 percent increase in web traffic in a year. Before Mosaic, there had only been 50 websites on the Web, but the number now increased to 10,000, while the percentage of internet users who surfed the Web increased from 1% to 25%.\n\nIn the Web's first generation, Tim Berners-Lee launched the Uniform Resource Locator (URL), Hypertext Transfer Protocol (HTTP), and HTML standards with prototype Unix-based servers and browsers. A few people noticed that the Web might be better than Gopher. In the second generation, Marc Andreessen and Eric Bina developed NCSA Mosaic at the University of Illinois. Several million then suddenly noticed that the Web might be better than sex.\nMosaic is often referred to as the first successful web browser. It was also the first browse",
+ "grok_lead": "Marc Lowell Andreessen (born July 9, 1971) is an American software engineer, entrepreneur, and venture capitalist renowned for co-developing the NCSA Mosaic web browser, the first widely used graphical browser that displayed inline images and spurred the commercialization of the World Wide Web. In 1994, at age 22, he co-founded Netscape Communications Corporation, which released the Netscape Navigator browser and achieved a landmark initial public offering in 1995, valuing the company at over $2 billion and igniting the dot-com boom despite generating minimal revenue at the time. Following Netscape's acquisition by AOL in 1999 and his subsequent success with Opsware, which he sold to Hewlett-Packard for $1.6 billion in 2007, Andreessen co-founded the venture capital firm Andreessen Horowitz (a16z) in 2009 with Ben Horowitz. The firm has managed billions in assets, investing in transformative technologies across sectors including social media (e.g., Facebook), hospitality (e.g., Airbnb), and blockchain (e.g., Coinbase), contributing to substantial returns and shaping Silicon Valley's investment landscape. Andreessen has emerged as a leading voice in technology policy, authoring the Techno-Optimist Manifesto in 2023 to champion market-driven innovation, critique regulatory stagnation, and refute claims that advanced technologies like artificial intelligence inevitably lead to societal decline, emphasizing instead their potential to expand human capabilities and economic abundance.",
+ "crossref_candidates": [
+  "AOL",
+  "Austin, Texas",
+  "Bachelor's degree",
+  "Computer science",
+  "Donald Trump",
+  "Facebook",
+  "Forbes",
+  "Hewlett-Packard",
+  "IBM",
+  "Silicon Valley",
+  "Tim Berners-Lee",
+  "Time (magazine)",
+  "Web browser",
+  "World Wide Web",
+  "X (social network)"
+ ]
+}

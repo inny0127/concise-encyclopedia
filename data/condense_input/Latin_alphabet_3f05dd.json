@@ -1,0 +1,27 @@
+{
+ "key": "Latin_alphabet_3f05dd",
+ "title": "Latin alphabet",
+ "level": 5,
+ "category": "Society and social sciences",
+ "description": "Alphabet of the Latin language",
+ "is_person": false,
+ "wiki_lead": "The Latin alphabet is the set of letters used by the ancient Romans to write Classical Latin, later augmented with lower-case letters to write Medieval Latin. Its expansion into the core 26-letter modern inventory (standardised today as the ISO basic Latin alphabet, which is utilized by Modern Latin), was motivated by vernacular languages.\nThis slightly expanded inventory resulted from the addition of ⟨W⟩ in the Middle Ages and the separation of ⟨J⟩ from ⟨I⟩ and ⟨U⟩ from ⟨V⟩ in the Early Modern era. This set of letters is the basis of the Latin script, the most widely used writing system in the world, but often with diacritics or additional letters. The Latin script is used to write over 3,000 languages, spoken by about 70% of the global population, principally in western and central Europe, sub-Saharan Africa, the Americas and Oceania.",
+ "wiki_excerpt": "The Latin alphabet is the set of letters used by the ancient Romans to write Classical Latin, later augmented with lower-case letters to write Medieval Latin. Its expansion into the core 26-letter modern inventory (standardised today as the ISO basic Latin alphabet, which is utilized by Modern Latin), was motivated by vernacular languages.\nThis slightly expanded inventory resulted from the addition of ⟨W⟩ in the Middle Ages and the separation of ⟨J⟩ from ⟨I⟩ and ⟨U⟩ from ⟨V⟩ in the Early Modern era. This set of letters is the basis of the Latin script, the most widely used writing system in the world, but often with diacritics or additional letters. The Latin script is used to write over 3,000 languages, spoken by about 70% of the global population, principally in western and central Europe, sub-Saharan Africa, the Americas and Oceania.\n\n\nEtymology\nThe phrase Latin alphabet may refer to either the alphabet used to write Latin (as described in this article) or to other alphabets based on the Latin script, such as the English alphabet, which uses the basic set of letters of the extended Latin alphabet. These Latin-script alphabets may discard letters, like the Italian alphabet, or add new letters, like the Vietnamese or Hungarian alphabets. Letter shapes have evolved over the centuries, including the development in Medieval Latin of lower-case, forms which did not exist in the Classical period alphabet.\n\n\nEvolution\n\nThe Latin alphabet evolved from the visually similar Etruscan alphabet, which evolved from the Cumaean Greek version of the Greek alphabet, which was itself descended from the Phoenician alphabet, which in turn derived from Egyptian hieroglyphs. The Etruscans ruled early Rome; their alphabet evolved in Rome over successive centuries to produce the Latin alphabet.\nDuring the Middle Ages, the Latin alphabet was used (sometimes with modifications) for writing Romance languages, which are direct descendants of Latin, as well as for writing Celtic, Germanic, Baltic, Turkic and some Slavic languages. With the age of colonialism and Christian evangelism, the Latin script spread beyond Europe, coming into use for writing indigenous American, Australian, Austronesian, Austroasiatic and African languages. More recently, linguists have also tended to prefer the Latin script or the International Phonetic Alphabet (itself largely based on the Latin script) when transcribing or creating written standards for non-European languages, such as the African reference alphabet.\n\n\nSigns and abbreviations\nAlthough Latin did not use diacritical marks, apart from the apex and sicilicus, signs of truncation of words (often placed above or at the end of the truncated word) were very common. Furthermore, abbreviations or smaller overlapping letters were often used. This meant that if the text was engraved on stone, the number of letters to be engraved was reduced, while if it was written on paper or parchment, it saved precious space. This custom continued in the ",
+ "grok_lead": "",
+ "crossref_candidates": [
+  "Alphabet",
+  "Americas",
+  "Egyptian hieroglyphs",
+  "English alphabet",
+  "Europe",
+  "Greek alphabet",
+  "International Phonetic Alphabet",
+  "Latin",
+  "Latin script",
+  "Letter (alphabet)",
+  "Middle Ages",
+  "Phoenician alphabet",
+  "Romance languages",
+  "Slavic languages"
+ ]
+}

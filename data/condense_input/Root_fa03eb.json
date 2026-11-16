@@ -1,0 +1,32 @@
+{
+ "key": "Root_fa03eb",
+ "title": "Root",
+ "level": 4,
+ "category": "Biology and health sciences",
+ "description": "Basal organ of a vascular plant",
+ "is_person": false,
+ "wiki_lead": "In vascular plants, the roots are the organs of a plant that are modified to provide anchorage for the plant and take in water and nutrients into the plant body, which allows plants to grow taller and faster. They are most often below the surface of the soil, but roots can also be aerial or aerating, that is, growing up above the ground or especially above water. \n\n",
+ "wiki_excerpt": "In vascular plants, the roots are the organs of a plant that are modified to provide anchorage for the plant and take in water and nutrients into the plant body, which allows plants to grow taller and faster. They are most often below the surface of the soil, but roots can also be aerial or aerating, that is, growing up above the ground or especially above water. \n\n\nFunction\nRoots perform several essential and specialized roles that support plant growth, development and survival. Their primary functions are anchorage, uptake (absorption) of water and dissolved minerals, and conduction of these resources to the shoot. Beyond these, roots carry out a range of important secondary and adaptive functions — storage of reserves, synthesis of growth regulators, gas exchange in waterlogged environments, facilitation of symbiotic nutrient acquisition, and vegetative propagation.\n\n\nPrimary functions\nAnchorage and mechanical support. Roots fix the plant in the substrate and resist mechanical forces (wind, waterflow); vigorous root systems are essential for crop stability and prevention of lodging.\nAbsorption of water and mineral nutrients. Root epidermal cells and root hairs take up soil water and dissolved ions; these are then conducted to the shoot via the xylem. Root architecture (depth, spread) determines access to water and nutrients in different soil horizons.\n\n\nSecondary and specialised functions\nStorage of reserve food and water. Many roots (fleshy taproots, tuberous roots) accumulate carbohydrates and water that support perennial growth or regrowth after dormancy. Examples include sweet potato and carrot.\nConduction. Roots conduct absorbed water, minerals and some synthesised compounds to the shoot via vascular tissues (xylem and phloem connections).\nSynthesis of growth regulators. Roots synthesise and modulate plant hormones (e.g., cytokinins, some auxin metabolism), influencing shoot development and whole-plant physiology.\nAeration and gas exchange (in aquatic/waterlogged soils). Specialised structures (pneumatophores, aerial roots) permit gas exchange where soil oxygen is limited, enabling respiration in mangroves and other hydrophytes.\nSymbiotic interactions and enhanced nutrient uptake. Roots form mutualisms (e.g., mycorrhizae, nitrogen-fixing nodules) that greatly increase nutrient acquisition and stress tolerance. These associations remodel root architecture and function.\nMechanical adaptations and additional support. Adventitious and brace/prop roots (e.g., maize, some mangroves, banyan) provide extra support, anchorage and stability in particular environments.\nVegetative propagation. Adventitious rooting on stems, nodes or cuttings allows many species to reproduce asexually and to regenerate after damage; this is widely exploited in horticulture.\n\n",
+ "grok_lead": "In botany, a root is the organ of a vascular plant that typically originates from the radicle of the seed embryo and grows downward into the soil, serving primarily to anchor the plant, absorb water and dissolved minerals, and store nutrients such as starch and sugars. While most roots are subterranean, exceptions exist, such as aerial roots in plants like orchids or mangroves that facilitate gas exchange or support in non-soil environments. Roots exhibit diverse structures adapted to their functions, featuring a protective root cap at the tip to shield the apical meristem during soil penetration, followed by zones of elongation where cells expand to push the root forward, and a maturation zone where root hairsâshort-lived epidermal extensionsâincrease surface area for absorption. Internally, roots consist of an epidermis, cortex for storage, and a central vascular stele with xylem and phloem for transport, lacking the nodal patterns found in stems. Two primary root systems predominate: the taproot system, characterized by a dominant primary root with branching laterals (common in dicots like carrots), which penetrates deeply for accessing water in dry conditions; and the fibrous root system, comprising numerous adventitious roots from the stem base (typical in monocots like grasses), which spreads shallowly to prevent erosion and capture surface nutrients. Beyond basic anchorage and uptake, roots play crucial ecological roles, including symbiotic associations with microorganisms such as Rhizobia bacteria in legumes for nitrogen fixation and mycorrhizal fungi for enhanced phosphorus and water acquisition, thereby contributing to soil fertility and plant resilience. In agriculture and horticulture, root health is foundational to overall plant vigor, as vigorous systems improve drought tolerance, nutrient efficiency, and resistance to pathogens, underscoring their importance in sustainable cultivation practices.",
+ "crossref_candidates": [
+  "Bacteria",
+  "Carrot",
+  "Epidermis (botany)",
+  "Horticulture",
+  "Ion",
+  "Iron",
+  "Legume",
+  "Maize",
+  "Mangrove",
+  "Meristem",
+  "Nitrogen",
+  "Orchid",
+  "Organ (biology)",
+  "Phosphorus",
+  "Potato",
+  "Soil",
+  "Sweet potato",
+  "Vascular tissue",
+  "Water"
+ ]
+}

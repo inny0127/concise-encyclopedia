@@ -1,0 +1,33 @@
+{
+ "key": "Mica_097ea7",
+ "title": "Mica",
+ "level": 4,
+ "category": "Physical sciences",
+ "description": "Group of phyllosilicate minerals",
+ "is_person": false,
+ "wiki_lead": "Micas () are a group of silicate minerals whose outstanding physical characteristic is that individual mica crystals can easily be split into fragile elastic plates. This characteristic is described as perfect basal cleavage. Mica is common in igneous and metamorphic rock and is occasionally found as small flakes in sedimentary rock. It is particularly prominent in many granites, pegmatites, and schists, and \"books\" (large individual crystals) of mica several feet across have been found in some pegmatites.\nMicas are used in products such as drywalls, paints, and fillers, especially in parts for automobiles, roofing, and in electronics. The mineral is used in cosmetics and food to add \"shimmer\" or \"frost\".\n\n",
+ "wiki_excerpt": "Micas () are a group of silicate minerals whose outstanding physical characteristic is that individual mica crystals can easily be split into fragile elastic plates. This characteristic is described as perfect basal cleavage. Mica is common in igneous and metamorphic rock and is occasionally found as small flakes in sedimentary rock. It is particularly prominent in many granites, pegmatites, and schists, and \"books\" (large individual crystals) of mica several feet across have been found in some pegmatites.\nMicas are used in products such as drywalls, paints, and fillers, especially in parts for automobiles, roofing, and in electronics. The mineral is used in cosmetics and food to add \"shimmer\" or \"frost\".\n\n\nProperties and structure\n\nThe mica group comprises 37 phyllosilicate minerals. All crystallize in the monoclinic system, with a tendency towards pseudohexagonal crystals, and are similar in structure but vary in chemical composition. Micas are translucent to opaque with a distinct vitreous or pearly luster, and different mica minerals display colors ranging from white to green or red to black. Deposits of mica tend to have a flaky or platy appearance.\nThe crystal structure of mica is described as TOT-c, meaning that it is composed of parallel TOT layers weakly bonded to each other by cations (c). The TOT layers in turn consist of two tetrahedral sheets (T) strongly bonded to the two faces of a single octahedral sheet (O). The relatively weak ionic bonding between TOT layers gives mica its perfect basal cleavage.\nThe tetrahedral sheets consist of silica tetrahedra, each silicon ion surrounded by four oxygen ions. In most micas, one in four silicon ions is replaced by an aluminium ion, while aluminium ions replace half the silicon ions in brittle micas. The tetrahedra share three of their four oxygen ions with neighbouring tetrahedra to produce a hexagonal sheet. The remaining oxygen ion (the apical oxygen ion) is available to bond with the octahedral sheet.\nThe octahedral sheet can be dioctahedral or trioctahedral. A trioctahedral sheet has the structure of a sheet of the mineral brucite, with magnesium or ferrous iron being the most common cation. A dioctahedral sheet has the structure and (typically) the composition of a gibbsite sheet, with aluminium being the cation. Apical oxygens take the place of some of the hydroxyl ions that would be present in a brucite or gibbsite sheet, bonding the tetrahedral sheets tightly to the octahedral sheet.\nTetrahedral sheets have a strong negative charge since their bulk composition is AlSi3O5−10. The octahedral sheet has a positive charge, since its bulk composition is Al(OH)2+ (for a dioctahedral sheet with the apical sites vacant) or M3(OH)4+2 (for a trioctahedral site with the apical sites vacant; M represents a divalent ion such as ferrous iron or magnesium) The combined TOT layer has a residual negative charge, since its bulk composition is Al2(AlSi3O10)(OH)−2 or M3(AlSi3O10)(OH)−2. The remaining negative charge of the TOT layer is neutralized by the interlayer cations (typically sodium, potassium, or calcium ions).\nBecause the hexagons in the T and O sheets are slightly different in size, the sheets are slightly distorted when they bond into a TOT layer. This breaks the hexagonal symmetry and reduces it to monoclinic symmetry. However, the original hexahedral symmetry is discernible in the pseudohexagonal character of mica crystals. The short-range order of K+ ions on cleaved muscovite mica has been resolved.\n\n\nClassification\nChemically, micas can be given the general formula\n\nX2Y4–6Z8O20(OH, F)4,\nin which\n\nX is K, Na, or Ca or less commonly Ba, Rb, or Cs;\nY is Al, Mg, or Fe or less commonly Mn, Cr, Ti, Li, etc.;\nZ is chiefly Si or Al, but also may include Fe3+ or Ti.\nStructurally, micas can be classed as dioctahedral (Y = 4) and trioctahedral (Y = 6). If the X ion is K or Na, the mica is a common mica, whereas if the X ion is Ca, the mica is classed as a brittle mica.\n\n\nDioctahe",
+ "grok_lead": "Mica is a group of approximately 37 phyllosilicate minerals characterized by a layered, platy crystal structure and perfect basal cleavage, enabling them to be readily split into thin, tough, flexible, and elastic transparent sheets. The most economically important members are muscovite, a dioctahedral potassium-aluminum silicate that appears colorless or light-toned, and phlogopite, a trioctahedral potassium-magnesium silicate typically exhibiting yellowish-brown hues. These minerals possess high dielectric strength, low thermal conductivity, and resistance to heat and chemicals, rendering them indispensable for electrical insulation in capacitors and commutators, as well as in paints, joint compounds, and oil-well drilling additives. Muscovite withstands temperatures up to about 700Â°C, while phlogopite endures higher heat nearing 1000Â°C, with the latter preferred in demanding thermal environments. Mica has been exploited since antiquity, notably in ancient India for medicinal and decorative purposes, and later in Europe as isinglass for stove windows and lantern panes.",
+ "crossref_candidates": [
+  "Aluminium",
+  "Calcium",
+  "Capacitor",
+  "Crystal",
+  "Dielectric",
+  "Granite",
+  "Ion",
+  "Iron",
+  "Magnesium",
+  "Metamorphic rock",
+  "Mineral",
+  "Oxygen",
+  "Paint",
+  "Potassium",
+  "Schist",
+  "Sedimentary rock",
+  "Silicate",
+  "Silicon",
+  "Sodium",
+  "Stove"
+ ]
+}

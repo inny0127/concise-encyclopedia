@@ -1,0 +1,34 @@
+{
+ "key": "Toluene_e65b4f",
+ "title": "Toluene",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Aromatic hydrocarbon",
+ "is_person": false,
+ "wiki_lead": "Toluene (), also known as toluol (), is a substituted aromatic hydrocarbon with the chemical formula C6H5CH3, often abbreviated as PhCH3, where Ph stands for the phenyl group. Toluene is a colorless, water-insoluble liquid with a sweet smell, and is partially responsible for the aroma of gasoline and paint fumes. It is a mono-substituted benzene derivative, consisting of a methyl group (CH3) attached to a phenyl group by a single bond. As such, its systematic IUPAC name is methylbenzene. Toluene is predominantly used as an industrial feedstock and a solvent.\nAs the solvent in some types of paint thinner, permanent markers, contact cement and certain types of glue, toluene is sometimes used as a recreational inhalant and has the potential of causing severe neurological harm.\n\n",
+ "wiki_excerpt": "Toluene (), also known as toluol (), is a substituted aromatic hydrocarbon with the chemical formula C6H5CH3, often abbreviated as PhCH3, where Ph stands for the phenyl group. Toluene is a colorless, water-insoluble liquid with a sweet smell, and is partially responsible for the aroma of gasoline and paint fumes. It is a mono-substituted benzene derivative, consisting of a methyl group (CH3) attached to a phenyl group by a single bond. As such, its systematic IUPAC name is methylbenzene. Toluene is predominantly used as an industrial feedstock and a solvent.\nAs the solvent in some types of paint thinner, permanent markers, contact cement and certain types of glue, toluene is sometimes used as a recreational inhalant and has the potential of causing severe neurological harm.\n\n\nHistory\nThe compound was first isolated and kept in 1837 through a distillation of pine oil by Pierre Joseph Pelletier and Filip Neriusz Walter, who named it rétinnaphte.  In 1841, Henri Étienne Sainte-Claire Deville isolated a hydrocarbon from balsam of Tolu (an aromatic extract from the tropical Colombian tree Myroxylon balsamum), which Deville recognized as similar to Walter's rétinnaphte and to benzene; hence he called the new hydrocarbon benzoène. In 1843, Jöns Jacob Berzelius recommended the alternative name for it which was toluin. In 1850, French chemist Auguste Cahours isolated from a distillate of wood a hydrocarbon which he recognized as similar to Deville's benzoène and which Cahours named toluène.\n\n\nChemical properties\nThe distance between carbon atoms in the toluene ring is 0.1399 nm. The C-CH3 bond is longer at 0.1524 nm, while the average C-H bond length is 0.111 nm.\n\n\nRing reactions\nToluene reacts as a normal aromatic hydrocarbon in electrophilic aromatic substitution. Because the methyl group has greater electron-releasing properties than a hydrogen atom in the same position, toluene is more reactive than benzene toward electrophiles. It undergoes sulfonation to give p-toluenesulfonic acid, and chlorination by Cl2 in the presence of FeCl3 to give ortho- and para- isomers of chlorotoluene.\nNitration of toluene gives mono-, di-, and trinitrotoluene, all of which are widely used. Dinitrotoluene is the precursor to toluene diisocyanate, a precursor to polyurethane foam. Trinitrotoluene (TNT) is an explosive.\nComplete hydrogenation of toluene gives methylcyclohexane. The reaction requires a high pressure of hydrogen and a catalyst.\n\n\nSide chain reactions\nThe C-H bonds of the methyl group in toluene are benzylic, therefore they are weaker than C-H bonds in simpler alkanes. Reflecting this weakness, the methyl group in toluene undergoes a variety of free radical reactions. For example, when heated with N-bromosuccinimide (NBS) in the presence of AIBN, toluene converts to benzyl bromide. The same conversion can be effected with elemental bromine in the presence of UV light or even sunlight.\nToluene may also be brominated by treating it with HBr and H2O2 in the pres",
+ "grok_lead": "Toluene, also known as methylbenzene or toluol, is a colorless, water-insoluble liquid aromatic hydrocarbon with the chemical formula CâHâCHâ and molecular weight of 92.14 g/mol. It has a characteristic sweet, pungent odor and is highly volatile, with a boiling point of 110.6 Â°C, melting point of -95 Â°C, and density of 0.867 g/mL at 20 Â°C. Toluene is slightly soluble in water (526 mg/L at 25 Â°C) but miscible with ethanol, diethyl ether, and chloroform, making it an effective solvent in various applications. As one of the most important industrial chemicals, toluene is primarily produced through the catalytic reforming of petroleum naphtha fractions, with additional sources from pyrolysis gasoline and as a by-product of styrene manufacturing. It also occurs naturally in crude oil, coal tar, and some plant resins, such as those from the tolu tree after which it is named. Toluene's major uses include its role as an octane booster in gasoline, a precursor for benzene production via hydrodealkylation, and the synthesis of toluene diisocyanate for polyurethane foams. It serves as a solvent in paints, coatings, adhesives, inks, and rubber manufacturing, and is essential for producing explosives like trinitrotoluene (TNT) and other derivatives such as benzoic acid and benzyl chloride. Despite its utility, toluene is highly flammable with a flash point of 4 Â°C and poses health risks, including central nervous system depression, irritation to eyes and skin, and potential reproductive toxicity upon prolonged exposure. Occupational exposure limits are set at 200 ppm (8-hour time-weighted average) by OSHA to mitigate these hazards.",
+ "crossref_candidates": [
+  "Adhesive",
+  "Benzene",
+  "Bromine",
+  "Carbon",
+  "Central nervous system",
+  "Chemical formula",
+  "Chloroform",
+  "Coal",
+  "Diethyl ether",
+  "Distillation",
+  "Ethanol",
+  "Gasoline",
+  "Hour",
+  "Hydrogen",
+  "Jöns Jacob Berzelius",
+  "Paint",
+  "Pine",
+  "Polyurethane",
+  "Radical (chemistry)",
+  "TNT",
+  "Water"
+ ]
+}

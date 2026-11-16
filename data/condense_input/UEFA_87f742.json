@@ -1,0 +1,33 @@
+{
+ "key": "UEFA_87f742",
+ "title": "UEFA",
+ "level": 5,
+ "category": "Everyday life",
+ "description": "International governing body for association football in Europe",
+ "is_person": false,
+ "wiki_lead": "The Union of European Football Associations (UEFA) is the governing body of football in Europe and one of FIFA's six continental confederations for association football consisting of 55 national associations. It runs national and club competitions for men and women, such as the Champions League, the Women's Champions League, the European Championship, the Women's European Championship, and the Nations League.\n\n",
+ "wiki_excerpt": "The Union of European Football Associations (UEFA) is the governing body of football in Europe and one of FIFA's six continental confederations for association football consisting of 55 national associations. It runs national and club competitions for men and women, such as the Champions League, the Women's Champions League, the European Championship, the Women's European Championship, and the Nations League.\n\n\nHistory and membership\nUEFA was officially inaugurated on 15 June 1954 in Basel, Switzerland, after consultation between the Italian, French, and Belgian associations. At the founding meeting, 25 members were present. However, six other associations which were not present were still recognised as founding members, bringing the total of founding associations to 31. UEFA grew to more than 50 members by the mid-1990s, as new associations were born out of the fragmentation of the Soviet Union, Yugoslavia and Czechoslovakia into their constituent states. UEFA's main headquarters after its foundation were located in Paris, but moved to Bern in 1960. Finally, they moved to Nyon, Switzerland, in 1995, opening the organisation's current headquarters in 1999.\n\n\nCurrent members\nUEFA membership coincides for the most part with recognition as a sovereign country in Europe (48 out of 55 members are sovereign UN member states), although there are some exceptions. One UN member state (Monaco) and one UN General Assembly non-member observer state (Vatican City) are not members. Some UEFA members are not sovereign states, but form part of a larger recognised sovereign state in the context of international law. These include England, Northern Ireland, Scotland, and Wales (UK constituent countries); Gibraltar (UK overseas territory); Faroe Islands (Danish Realm); and Kosovo (state with limited recognition). In the context of these countries, sports governance tends to be carried out at the territorial level coterminous with the UEFA member entity. However, UEFA has declined membership to other polities like Jersey.\nSome UEFA members are transcontinental states (Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey), and others are considered part of Europe both culturally and politically (Turkey, Cyprus, and Armenia). Countries which had been members of the Asian Football Confederation (AFC) were also admitted to the European Football Association, such as Israel (because it had been banned from the AFC group in 1974) and Kazakhstan. Involving clubs, some UEFA member associations allow teams from outside their association's main territory to take part in their \"domestic\" competition, for example, AS Monaco in the French League, various Welsh clubs are in the English leagues, English-based The New Saints in the Welsh League, or Derry City, situated in Northern Ireland, plays in the Ireland-based League of Ireland.\nOn 28 February 2022, due to the 2022 Russian invasion of Ukraine and in accordance with a recommendation by the International Olympic Committee (IOC), ",
+ "grok_lead": "The Union of European Football Associations (UEFA) is the administrative and controlling body for association football, futsal, and beach soccer in Europe, overseeing competitions, regulations, and development across the continent. Founded on 15 June 1954 in Basel, Switzerland, by representatives from 25 national associations, UEFA has expanded to include 55 member associations, encompassing geographically transcontinental entities such as Israel, Kazakhstan, and Turkey. Headquartered in Nyon, Switzerland, since 1995, the organization administers premier club tournaments like the UEFA Champions League âthe world's most prestigious and lucrative club competitionâand the UEFA Europa League, alongside national team events including the quadrennial UEFA European Championship and the biennial UEFA Nations League. UEFA's influence extends to enforcing financial fair play rules aimed at ensuring clubs' economic sustainability, though these have sparked debates over their effectiveness and equity in promoting competitive balance. The body has driven football's commercialization, distributing billions in revenues from media rights and sponsorships to members, fostering infrastructure growth and youth academies across associations. Notable achievements include standardizing refereeing through technologies like VAR and expanding women's and youth competitions, yet UEFA has encountered controversies, including high-profile corruption cases involving former president Michel Platini and payments linked to FIFA's Sepp Blatter, which led to bans and legal proceedings highlighting governance vulnerabilities.",
+ "crossref_candidates": [
+  "Armenia",
+  "Association football",
+  "Azerbaijan",
+  "Basel",
+  "Bern",
+  "Cyprus",
+  "Czechoslovakia",
+  "Danish Realm",
+  "Europe",
+  "FIFA",
+  "Georgia (country)",
+  "Israel",
+  "Jersey",
+  "Kazakhstan",
+  "Russia",
+  "Sovereign state",
+  "Soviet Union",
+  "Turkey",
+  "UEFA Champions League",
+  "UEFA European Championship"
+ ]
+}

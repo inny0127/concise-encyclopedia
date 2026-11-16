@@ -10,24 +10,20 @@
  "grok_lead": "A wedge is a simple machine characterized by a triangular shape with two inclined planes joined at a sharp edge, thick at one end and tapering to a thin point at the other, designed to split, lift, or secure objects by directing force along its sloping surfaces. It functions by transforming an input force applied to its broader base into a greater output force at the tip, thereby multiplying mechanical advantage and making tasks like cutting or separating materials more efficient with less effort. The wedge has been one of the six classical simple machines recognized since ancient times, alongside the lever, wheel and axle, pulley, inclined plane, and screw, and it operates on the principle of converting linear motion into a splitting or holding action. Archaeological evidence indicates its use dates back to prehistoric eras, when early humans employed naturally jagged stones as rudimentary wedges for skinning animals and processing food, evolving into more refined tools by around 3000 BC in ancient Egypt, where wooden wedges were utilized to fracture large stone blocks for pyramid construction. In modern applications, wedges appear in everyday tools such as axes for chopping wood, knives for slicing, chisels for carving, doorstops for securing doors, and even nails or pins that hold materials together by embedding their tapered forms. These devices not only reduce the force required for separationâoften achieving mechanical advantages greater than 5 depending on the angle of the inclineâbut also play critical roles in engineering, from splitting logs in forestry to stabilizing structures in construction.",
  "crossref_candidates": [
   "Ancient Egypt",
-  "Antler",
+  "Angle",
   "Axe",
-  "Blade",
   "Bronze",
+  "Canoe",
+  "Chisel",
   "Door",
   "Flint",
   "Force",
-  "Hand axe",
   "Inclined plane",
   "Indigenous peoples of the Americas",
-  "Lever",
-  "Mechanical advantage",
   "Nail (fastener)",
   "Plane (tool)",
-  "Pulley",
   "Simple machine",
   "Tool",
-  "Wheel and axle",
   "Wood"
  ]
 }

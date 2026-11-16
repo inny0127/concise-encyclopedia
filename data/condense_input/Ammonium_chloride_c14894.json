@@ -1,0 +1,32 @@
+{
+ "key": "Ammonium_chloride_c14894",
+ "title": "Ammonium chloride",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Chemical compound",
+ "is_person": false,
+ "wiki_lead": "Ammonium chloride is an inorganic chemical compound with the chemical formula NH4Cl, also written as [NH4]Cl. It is an ammonium salt of chloride. It consists of ammonium cations [NH4]+ and chloride anions Cl−. It is a white crystalline salt that is highly soluble in water. Solutions of ammonium chloride are mildly acidic. In its naturally occurring mineralogic form, it is known as salammoniac. The mineral is commonly formed on burning coal dumps from condensation of coal-derived gases. It is also found around some types of volcanic vents. It is mainly used as fertilizer and a food additive. It is a product of the reaction of hydrochloric acid and ammonia.\n\n",
+ "wiki_excerpt": "Ammonium chloride is an inorganic chemical compound with the chemical formula NH4Cl, also written as [NH4]Cl. It is an ammonium salt of chloride. It consists of ammonium cations [NH4]+ and chloride anions Cl−. It is a white crystalline salt that is highly soluble in water. Solutions of ammonium chloride are mildly acidic. In its naturally occurring mineralogic form, it is known as salammoniac. The mineral is commonly formed on burning coal dumps from condensation of coal-derived gases. It is also found around some types of volcanic vents. It is mainly used as fertilizer and a food additive. It is a product of the reaction of hydrochloric acid and ammonia.\n\n\nStructure\n\nAmmonium chloride is a salt that crystallizes in a motif akin those for the alkali metal chlorides.  At least three phases have been characterized.  According to X-ray crystallography, these phases include ordered and disordered variants of the sodium chloride and cesium chloride structures.  In the NaCl structure, which is found at room temperature and 1 atmosphere, tetrahedral ammonium cations hydrogen bond to four of the eight chloride anions that encase the cation.  \nAmmonium chloride melts reversibly in a normal way near 500 °C but only under pressure.\nWhen dissolved, the lattice disassembles into separate chloride and ammonium cations.  At neutral pH, the N-H bonds rapidly exchange with water.\n\n\nProduction\n\nIt is a product of the Solvay process used to produce sodium carbonate:\n\nCO2 + 2 NH3 + 2 NaCl + H2O → 2 NH4Cl + Na2CO3\nNot only is that method the principal one for the manufacture of ammonium chloride, but also it is used to minimize ammonia release in some industrial operations.\nAmmonium chloride is prepared commercially by combining ammonia (NH3) with either hydrogen chloride (gas) or hydrochloric acid:\n\nNH3 + HCl → NH4Cl\nAmmonium chloride occurs naturally in volcanic regions, appearing as a sublimate on rocks near fume-releasing vents (fumaroles). The crystals deposit directly from the gaseous state and tend to be short-lived, as they dissolve easily in water.\n\n\nReactions\n\nAmmonium chloride sublimes upon heating, reversibly decomposing into ammonia and hydrogen chloride gas:\n\nNH4Cl ⇌ NH3 + HCl\nAmmonium chloride reacts with a strong base, such as sodium hydroxide, to release ammonia:\n\nNH4Cl + NaOH → NH3 + NaCl + H2O\nSimilarly, ammonium chloride also reacts with alkali-metal carbonates at elevated temperatures, giving ammonia and alkali-metal chloride:\n\n2 NH4Cl + Na2CO3 → 2 NaCl + CO2 + H2O + 2 NH3\nA solution of 5% by mass of ammonium chloride in water has a pH in the range 4.6 to 6.0.\n\n\nApplications\n\n\nAgriculture\nThe dominant application of ammonium chloride is as a nitrogen source in fertilizers (corresponding to 90% of the world production of ammonium chloride) such as chloroammonium phosphate. The main crops fertilized this way are rice and wheat in Asia. When using ammonium chloride as a nitrogen fertilizer for plants, the appropriate concentration is applied to prov",
+ "grok_lead": "Ammonium chloride is an inorganic compound with the chemical formula NHâCl, consisting of ammonium cations and chloride anions, that appears as an odorless white crystalline solid or powder. It is highly soluble in water at approximately 37% by weight at 20 Â°C, producing mildly acidic solutions due to hydrolysis, and has a molecular weight of 53.49 g/mol. The compound sublimes upon heating, with a melting point around 338â350Â°C and a boiling point of 520Â°C. Commercially, ammonium chloride is primarily produced by the direct neutralization of ammonia ( NHâ) with hydrogen chloride ( HCl) gas or hydrochloric acid, or through processes like the dual-salt method that simultaneously yields ammonium chloride and sodium carbonate. It occurs naturally as the mineral sal ammoniac near volcanic vents or coal deposits but is mainly manufactured for industrial use. Ammonium chloride finds extensive applications across various sectors, including as a nitrogen source (25â26% N content) in fertilizers for chloride-responsive crops such as rice, oil palm, and coconut, though its high chlorine content limits broader agricultural use. In industry, it serves as an electrolyte in dry cell batteries, a soldering flux, and a pickling agent for metals. Medically, it acts as an expectorant by irritating the bronchial mucosa to promote respiratory secretions and as a systemic acidifier to treat metabolic alkalosis or hypochloremia. The compound is noncombustible but can release toxic gases like ammonia, hydrogen chloride, and nitrogen oxides when heated or in reactions with strong oxidizers.",
+ "crossref_candidates": [
+  "Ammonia",
+  "Asia",
+  "Chemical formula",
+  "Chloride",
+  "Coal",
+  "Crop",
+  "Fertilizer",
+  "Hydrochloric acid",
+  "Hydrogen bond",
+  "Inorganic compound",
+  "Ion",
+  "Nitrogen",
+  "PH",
+  "Rice",
+  "Salt (chemistry)",
+  "Sodium carbonate",
+  "Sodium chloride",
+  "Sodium hydroxide",
+  "Wheat"
+ ]
+}

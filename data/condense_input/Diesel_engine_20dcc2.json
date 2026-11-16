@@ -1,0 +1,32 @@
+{
+ "key": "Diesel_engine_20dcc2",
+ "title": "Diesel engine",
+ "level": 4,
+ "category": "Technology",
+ "description": "Type of internal combustion engine that uses compression to create combustion",
+ "is_person": false,
+ "wiki_lead": "A diesel engine is an internal combustion engine in which ignition of diesel fuel is caused by the elevated temperature of the air in the cylinder due to mechanical compression; thus, the diesel engine is also called a compression-ignition engine (or CI engine). This contrasts with engines using spark plug-ignition of the air-fuel mixture, such as a petrol engine (gasoline engine) or a gas engine (using a gaseous fuel like natural gas or liquefied petroleum gas). The diesel engine is named after its inventor, German engineer Rudolf Diesel.",
+ "wiki_excerpt": "A diesel engine is an internal combustion engine in which ignition of diesel fuel is caused by the elevated temperature of the air in the cylinder due to mechanical compression; thus, the diesel engine is also called a compression-ignition engine (or CI engine). This contrasts with engines using spark plug-ignition of the air-fuel mixture, such as a petrol engine (gasoline engine) or a gas engine (using a gaseous fuel like natural gas or liquefied petroleum gas). The diesel engine is named after its inventor, German engineer Rudolf Diesel.\n\n\nIntroduction\nDiesel engines work by compressing only air, or air combined with residual combustion gases from the exhaust (known as exhaust gas recirculation, \"EGR\"). Air is inducted into the chamber during the intake stroke, and compressed during the compression stroke. This increases air temperature inside the cylinder so that atomised diesel fuel injected into the combustion chamber ignites. The torque a diesel engine produces is controlled by manipulating the air-fuel ratio (λ); instead of throttling the intake air, the diesel engine relies on altering the amount of fuel that is injected, and thus the air-fuel ratio is usually high.\nThe diesel engine has the highest thermal efficiency (see engine efficiency) of any practical internal or external combustion engine due to its very high expansion ratio and inherent lean burn, which enables heat dissipation by excess air. A small efficiency loss is also avoided compared with non-direct-injection gasoline engines, as unburned fuel is not present during valve overlap, and therefore no fuel goes directly from the intake/injection to the exhaust. Low-speed diesel engines (as used in ships and other applications where overall engine weight is relatively unimportant) can reach effective efficiencies of up to 55%. The combined cycle gas turbine (Brayton and Rankine cycle) is a combustion engine that is more efficient than a diesel engine, but due to its mass and dimensions, is unsuitable for many vehicles, including aircraft and some watercraft. The world's largest diesel engines put in service are 14-cylinder, two-stroke marine diesel engines; they produce a peak power of almost 100 MW each.\nDiesel engines may be designed with either two-stroke or four-stroke combustion cycles. They were originally used as a more efficient replacement for stationary steam engines. Since the 1910s, they have been used in submarines and ships. Use in locomotives, buses, trucks, heavy equipment, agricultural equipment and electricity generation plants followed later. In the 1930s, they slowly began to be used in some automobiles. Since the 1970s energy crisis, demand for higher fuel efficiency has resulted in most major automakers, at some point, offering diesel-powered models, even in very small cars. According to Konrad Reif (2012), the EU average for diesel cars at the time accounted for half of newly registered cars. However, air pollution and overall emissions are more difficult to control in diesel engines compared to gasoline engines, so the use of diesel engines in the US is now largely relegated to larger on-road and off-road vehicles.\nThough aviation has traditionally avoided using diesel engines, aircraft diesel engines have become increasingly available in the 21st century. Since the late 1990s, for various reasons—including diesel's inherent advantages over gasoline engines, but also for recent issues peculiar to aviation—development and production of diesel engines for aircraft has surged, with over 5,000 such engines delivered worldwide between 2002 and 2018, particularly for light airplanes and unmanned aerial vehicles.\n\n\nHistory\n\n\nDiesel's idea\n\nIn 1878, Rudolf Diesel, who was a student at the \"Polytechnikum\" in Munich, attended the lectures of Carl von Linde. Linde explained that steam engines are capable of converting just 6–10% of the heat energy into work, but that the Carnot cycle allows conversion of much more of the heat energy into work by ",
+ "grok_lead": "The diesel engine is an internal combustion engine that ignites fuel through the heat of compressed air rather than a spark, enabling higher compression ratios and greater thermal efficiency compared to spark-ignition gasoline engines. German engineer Rudolf Diesel invented the engine in the 1890s, patenting its core compression-ignition principle in 1892 and demonstrating a working prototype in 1897. Operating on the Diesel cycle, it compresses air to ratios of 14:1 to 25:1, heating it sufficiently for fuel auto-ignition upon injection, which yields efficiencies of 30-50% in large units due to reduced heat loss and leaner air-fuel mixtures. This design excels in heavy-duty applications like trucks, ships, locomotives, and power generators, providing superior torque at low speeds, longer lifespan from robust construction, and better fuel economyâoften 20-35% higher than equivalent gasoline enginesâwhile utilizing denser, cheaper fuels. However, traditional diesel combustion generates elevated nitrogen oxides and particulate matter, prompting advancements in exhaust aftertreatment such as diesel particulate filters and urea-based selective catalytic reduction to meet stringent emissions standards.",
+ "crossref_candidates": [
+  "Air pollution",
+  "Aircraft",
+  "Bus",
+  "Car",
+  "Combustion",
+  "Diesel fuel",
+  "Gasoline",
+  "Internal combustion engine",
+  "Locomotive",
+  "Munich",
+  "Natural gas",
+  "Petroleum",
+  "Power (physics)",
+  "Rudolf Diesel",
+  "Ship",
+  "Steam engine",
+  "Submarine",
+  "Truck",
+  "Unmanned aerial vehicle"
+ ]
+}

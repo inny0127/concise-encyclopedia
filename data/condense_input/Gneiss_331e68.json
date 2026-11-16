@@ -9,14 +9,9 @@
  "wiki_excerpt": "Gneiss ( NYSE) is a common and widely distributed type of metamorphic rock. It is formed by high-temperature and high-pressure metamorphic processes acting on formations composed of igneous or sedimentary rocks. This rock is formed under pressures ranging from 2 to 15 kbar, sometimes even more, and temperatures over 300 °C (572 °F). Gneiss nearly always shows a banded texture characterized by alternating darker and lighter colored bands and without a distinct cleavage.\nGneisses are common in the ancient crust of continental shields. Some of the oldest rocks on Earth are gneisses, such as the Acasta Gneiss.\n\n\nDescription\n\nIn traditional English and North American usage, a gneiss is a coarse-grained metamorphic rock showing compositional banding (gneissic banding) but poorly developed schistosity and indistinct cleavage. In other words, it is a metamorphic rock composed of mineral grains easily seen with the unaided eye, which form obvious compositional layers, but which has only a weak tendency to fracture along these layers. In Europe, the term has been more widely applied to any coarse, mica-poor, high-grade metamorphic rock.\nThe British Geological Survey (BGS) and the International Union of Geological Sciences (IUGS) both use gneiss as a broad textural category for medium- to coarse-grained metamorphic rock that shows poorly developed schistosity, with compositional layering over 5 millimeters (0.20 in) thick and tending to split into plates over 1 centimeter (0.39 in) thick. Neither definition depends on composition or origin, though rocks poor in platy minerals are more likely to produce gneissose texture. Gneissose rocks thus are largely recrystallized but do not carry large quantities of micas, chlorite or other platy minerals. Metamorphic rock showing stronger schistosity is classified as schist, while metamorphic rock devoid of schistosity is called a granofels.\nGneisses that are metamorphosed igneous rocks or their equivalent are termed granite gneisses, diorite gneisses, and so forth. Gneiss rocks may also be named after a characteristic component such as garnet gneiss, biotite gneiss, albite gneiss, and so forth. Orthogneiss designates a gneiss derived from an igneous rock, and paragneiss is one from a sedimentary rock.\nBoth the BGS and the IUGS use gneissose to describe rocks with the texture of gneiss, though gneissic also remains in common use. For example, a gneissose metagranite or a gneissic metagranite both mean a granite that has been metamorphosed and thereby acquired gneissose texture.\n\n\nGneissic banding\n\nThe minerals in gneiss are arranged into layers that appear as bands in cross section. This is called gneissic banding. The darker bands have relatively more mafic minerals (those containing more magnesium and iron). The lighter bands contain relatively more felsic minerals (minerals such as feldspar or quartz, which contain more of the lighter elements, such as aluminium, sodium, and potassium).\nThe banding is developed at high temperature when the rock is more strongly compressed in one direction than in other directions (nonhydrostatic stress). The bands develop perpendicular to the direction of greatest compression, also called the shortening direction, as platy minerals are rotated or recrystallized into parallel layers.\nA common cause of nonhydrostatic stress is the subjection of the protolith (the original rock material that undergoes metamorphism) to extreme shearing force, a sliding force similar to the pushing of the top of a deck of cards in one direction, and the bottom of the deck in the other direction. These forces stretch out the rock like a plastic, and the original material is spread out into sheets. Per the polar decomposition theorem, the deformation produced by such shearing force is equivalent to rotation of the rock combined with shortening in one direction and extension in another.\nSome banding is formed from original rock material (protolith) that is subjected to extreme temperatu",
  "grok_lead": "Gneiss is a high-grade metamorphic rock characterized by its distinctive banded or foliated texture, featuring alternating layers of light and dark minerals that result from the segregation and recrystallization of components under intense heat and pressure. This foliation, known as gneissic banding, arises during regional metamorphism, typically in tectonic settings like mountain-building events, where temperatures exceed 320Â°C and significant compressional stresses are applied. Unlike lower-grade rocks such as schist, gneiss exhibits coarser grains and a more pronounced separation of mineral bands without the fine platy alignment typical of schistosity. Gneiss commonly forms from the metamorphism of pre-existing igneous, sedimentary, or lower-grade metamorphic rocks, such as granite, sandstone, or shale, through deep burial and tectonic deformation in the cores of fold-and-thrust mountain belts. Its mineral composition often includes abundant quartz, feldspar, and mica, resembling granite in makeup but altered by metamorphic processes, with additional minerals like hornblende or pyroxene in mafic varieties. The rock's phaneritic textureâvisible crystalsâfurther distinguishes it, and it can appear in various colors depending on the dominant minerals, ranging from gray and pink to green or black. Notable types include orthogneiss, derived from igneous protoliths like granite, and paragneiss, from sedimentary origins, both showcasing the gneissic fabric that reflects high-grade conditions. Gneiss is widespread in Precambrian shields and orogenic belts worldwide, serving as a key indicator of ancient tectonic activity. Due to its durability and aesthetic banding, it has practical applications as a building and paving stone, though it is harder to work with than lower-grade foliated rocks like slate.",
  "crossref_candidates": [
-  "Acasta Gneiss",
-  "Albite",
   "Aluminium",
-  "Biotite",
-  "Cleavage (geology)",
-  "Diorite",
+  "Bar (unit)",
   "Feldspar",
-  "Foliation (geology)",
   "Garnet",
   "Granite",
   "Igneous rock",
@@ -24,16 +19,13 @@
   "Magnesium",
   "Metamorphic rock",
   "Mica",
+  "Mineral",
   "Potassium",
   "Pyroxene",
   "Quartz",
-  "Recrystallization (geology)",
   "Sandstone",
-  "Schist",
   "Sedimentary rock",
   "Shale",
-  "Shield (geology)",
-  "Slate",
   "Sodium"
  ]
 }

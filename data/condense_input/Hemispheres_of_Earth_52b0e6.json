@@ -1,0 +1,23 @@
+{
+ "key": "Hemispheres_of_Earth_52b0e6",
+ "title": "Hemispheres of Earth",
+ "level": 4,
+ "category": "Geography",
+ "description": "Division of the globe into equal halves",
+ "is_person": false,
+ "wiki_lead": "In geography and cartography, hemispheres of Earth are any division of the globe into two equal halves (hemispheres), typically divided into northern and southern halves by the Equator and into western and eastern halves by the Prime meridian. Hemispheres can be divided geographically or culturally, or based on religion or prominent geographic features. Use of these divisions is applied when studying Earth's geographic distribution, cultural differences, and other geographic, demographic and socioeconomic features.",
+ "wiki_excerpt": "In geography and cartography, hemispheres of Earth are any division of the globe into two equal halves (hemispheres), typically divided into northern and southern halves by the Equator and into western and eastern halves by the Prime meridian. Hemispheres can be divided geographically or culturally, or based on religion or prominent geographic features. Use of these divisions is applied when studying Earth's geographic distribution, cultural differences, and other geographic, demographic and socioeconomic features.\n\n\nGeographical hemispheres\nGeographical hemispheres are primarily split by latitudinal (north-south) and longitudinal (east-west) markers: \n\n\nNorth-South\n\n\nEast-West\n\n\nAlternative hemispheres\nAlternative Earth hemispheres can divide the globe along cultural or religious lines, or be used to maximize the prominence of geographic features. For example:\n\n\nCultural and religious hemispheres\n\n\nGeographical feature-based hemispheres\n\n\nLand-water hemispheres\n\nAlternative hemisphere schemes can divide the planet in a way that maximizes the prominence of one geographic feature or another in each division, such as the land-water division:\n\nLand Hemisphere: Centered near 47°N, 1°E, near the city of Nantes, France, this hemisphere contains the largest possible area of land, including most of the world's continents and major landmasses.\nWater Hemisphere: Centered near 47°S, 179°W, in the South Pacific Ocean (southwest of the Chatham Islands, New Zealand), this hemisphere contains the largest possible area of water, including most of the Indian, Pacific, and Southern Oceans.\n\n\nContinents and oceans by predominant hemisphere\n\n",
+ "grok_lead": "The hemispheres of Earth refer to divisions of the globe into two equal parts along great circles passing through its center, most conventionally the Northern and Southern hemispheres separated by the Equator at 0Â° latitude, and the Eastern and Western hemispheres demarcated by the Prime Meridian at 0Â° longitude and the antimeridian at 180Â° longitude. These partitions intersect to form four quadrants, facilitating locational reference and analysis in geography and navigation. The Northern Hemisphere contains about 39% land area versus 19% in the Southern Hemisphere, influencing seasonal temperature extremes as land heats and cools more rapidly than ocean water. This land-ocean asymmetry contributes to the Northern Hemisphere 's annual average surface air temperature being 1Â° to 2Â°C higher than the Southern 's. Seasons are inverted between hemispheres, with solstices driving opposite summer-winter cycles due to Earth's 23.5Â° axial tilt. Alternative divisions include the Land Hemisphere, centered near France to enclose the maximum possible continental areaâencompassing nearly all of Eurasia, Africa, and the Americas âand its complementary Water Hemisphere, which is over 90% oceanic. Such constructs highlight Earth's asymmetric continental distribution, with implications for paleoclimatology and biogeography.",
+ "crossref_candidates": [
+  "Africa",
+  "Asia",
+  "Cartography",
+  "Earth",
+  "Equator",
+  "Geography",
+  "Northern Hemisphere",
+  "Pacific Ocean",
+  "Prime meridian",
+  "Southern Ocean"
+ ]
+}

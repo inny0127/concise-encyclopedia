@@ -10,17 +10,12 @@
  "grok_lead": "The Rothschild family is an Ashkenazi Jewish banking dynasty that originated in Frankfurt am Main, Holy Roman Empire, in the mid-18th century, founded by Mayer Amschel Rothschild (1744â1812), who transitioned from dealing in rare coins and antiques to serving as a court agent and building a foundational financial network. Mayer Amschel strategically positioned his five sons to establish interconnected banking houses in Frankfurt, London, Paris, Vienna, and Naples, enabling the family to exploit advantages in information speed via private couriers and family trust, which facilitated government loans, bond issuances, and commodity trading across Europe during the Napoleonic Wars and beyond. By the 19th century, the Rothschilds had amassed the largest private fortune in modern history through innovations in international arbitrage and financing major infrastructure projects like railways and mining ventures, while also engaging in philanthropy supporting arts, sciences, and Jewish welfare institutions. \\n\nThe family's elevation to nobility, including Austrian baronies, and their role in pivotal transactions such as aiding Britain's purchase of Suez Canal shares underscored their economic influence, though their centralized model later yielded to joint-stock banks, diminishing relative dominance. Despite verifiable successes rooted in entrepreneurial coordination and risk management, the Rothschilds have been persistently targeted by unsubstantiated conspiracy theories alleging shadowy global control, often amplified by antisemitic narratives that ignore empirical records of their operations. Today, Rothschild-affiliated firms continue in investment banking, wealth management, and viticulture, such as ChÃ¢teau Lafite Rothschild, maintaining a legacy of financial acumen amid diversified holdings.",
  "crossref_candidates": [
   "Agriculture",
-  "Baron",
   "Bond (finance)",
-  "Coat of arms",
-  "Financial services",
   "Frankfurt",
   "Ghetto",
-  "Hegemony",
   "Holy Roman Empire",
   "Latin",
   "London",
-  "Mayer Amschel Rothschild",
   "Mining",
   "Naples",
   "Napoleonic Wars",
@@ -30,7 +25,6 @@
   "Suez Canal",
   "United Kingdom",
   "Vienna",
-  "Wealth",
-  "Winemaking"
+  "Wealth"
  ]
 }

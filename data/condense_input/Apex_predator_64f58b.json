@@ -1,0 +1,32 @@
+{
+ "key": "Apex_predator_64f58b",
+ "title": "Apex predator",
+ "level": 5,
+ "category": "Biology and health sciences",
+ "description": "Predator at the top of a food chain",
+ "is_person": false,
+ "wiki_lead": "An apex predator, also known as a top predator, macropredator or superpredator, is a predator at the top of a food chain with few natural predators of their own, if any.\nApex predators are usually defined in terms of trophic dynamics, meaning that they occupy the highest trophic levels. Food chains are often far shorter on land, usually limited to being secondary consumers – for example, wolves prey mostly upon large herbivores (primary consumers), which eat plants (primary producers). The apex predator concept is applied in wildlife management, conservation, and ecotourism.\nApex predators have a long evolutionary history, dating at least to the Cambrian period when animals such as Anomalocaris and Timorebestia dominated the seas.\nHumans, themselves being apex predators, have for many centuries interacted with other apex predators including the wolf, birds of prey, and cormorants to hunt game animals, birds, and fish respectively. More recently, humans have started interacting with apex predators in new ways. These include interactions via ecotourism, such as with the tiger shark, and through rewilding efforts, such as the reintroduction of the Iberian lynx.",
+ "wiki_excerpt": "An apex predator, also known as a top predator, macropredator or superpredator, is a predator at the top of a food chain with few natural predators of their own, if any.\nApex predators are usually defined in terms of trophic dynamics, meaning that they occupy the highest trophic levels. Food chains are often far shorter on land, usually limited to being secondary consumers – for example, wolves prey mostly upon large herbivores (primary consumers), which eat plants (primary producers). The apex predator concept is applied in wildlife management, conservation, and ecotourism.\nApex predators have a long evolutionary history, dating at least to the Cambrian period when animals such as Anomalocaris and Timorebestia dominated the seas.\nHumans, themselves being apex predators, have for many centuries interacted with other apex predators including the wolf, birds of prey, and cormorants to hunt game animals, birds, and fish respectively. More recently, humans have started interacting with apex predators in new ways. These include interactions via ecotourism, such as with the tiger shark, and through rewilding efforts, such as the reintroduction of the Iberian lynx.\n\n\nEcological roles\n\n\nEffects on community\n\nApex predators affect prey species' population dynamics and populations of other predators, both in aquatic and terrestrial ecosystems. Non-native predatory fish, for instance, have sometimes devastated formerly dominant predators. A lake manipulation study found that when the non-native smallmouth bass was removed, lake trout, the suppressed native apex predator, diversified its prey selection and increased its trophic level. As a terrestrial example, the badger, an apex predator, preys upon and also competes with the hedgehog, a mesopredator, for food such as insects, small mammals, reptiles, amphibians, and the eggs of ground-nesting birds. Removal of badgers (in a trial investigating bovine tuberculosis) caused hedgehog densities to more than double. Predators that exert top-down control on organisms in their community are often considered keystone species. \n\n\nEffects on ecosystem\n\nApex predators can have profound effects on ecosystems, as the consequences of both controlling prey density and restricting smaller predators, and may be capable of self-regulation. They are central to the functioning of ecosystems, the regulation of disease, and the maintenance of biodiversity. When introduced to subarctic islands, for example, Arctic foxes' predation of seabirds has been shown to turn grassland into the tundra. Such wide-ranging effects on lower levels of an ecosystem are termed trophic cascades. The removal of top-level predators, often through human agency, can cause or disrupt trophic cascades. For example, a reduction in the population of sperm whales, apex predators with a fractional trophic level of 4.7, by hunting has caused an increase in the population of the large squid, with trophic level over 4 (carnivores that eat other carnivores). Thi",
+ "grok_lead": "An apex predator is a carnivorous species positioned at the highest trophic level in its ecosystem, exerting control over prey populations and intermediate predators while lacking natural predators of comparable threat within that habitat. These organisms typically exhibit traits such as large body size, specialized hunting strategies, and low population densities, enabling them to regulate ecosystem dynamics through direct predation and behavioral modifications in subordinate species. By suppressing herbivore numbers and mesopredator abundances, apex predators facilitate trophic cascades that enhance vegetation recovery, biodiversity, and overall structural stability in food webs. In diverse biomes, apex predators manifest as solitary hunters like tigers in Asian forests, pack-oriented mammals such as gray wolves in temperate woodlands, or ambush specialists including saltwater crocodiles in tropical wetlands, each adapted to dominate their respective niches without significant interspecific predation pressure. Their presence often correlates with resilient ecosystems, as empirical studies demonstrate cascading benefits from predator reintroductions, including reduced overbrowsing and altered prey behaviors that promote habitat heterogeneity. However, human-induced declines have revealed vulnerabilities, with losses triggering mesopredator release and biodiversity erosion, underscoring the predators' functional irreplaceability in unmodified systems. Debates persist on precise delineations, particularly whether multiple apex species can stably coexist or if status varies contextually, yet consensus affirms their pivotal role in preventing prey irruptions and sustaining trophic equilibrium.",
+ "crossref_candidates": [
+  "Amphibian",
+  "Anomalocaris",
+  "Arctic fox",
+  "Badger",
+  "Cambrian",
+  "Cormorant",
+  "Grassland",
+  "Habitat",
+  "Hedgehog",
+  "Herbivore",
+  "Human",
+  "Lynx",
+  "Predation",
+  "Saltwater crocodile",
+  "Seabird",
+  "Sperm whale",
+  "Tiger shark",
+  "Tundra",
+  "Wolf"
+ ]
+}

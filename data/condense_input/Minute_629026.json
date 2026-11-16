@@ -1,0 +1,21 @@
+{
+ "key": "Minute_629026",
+ "title": "Minute",
+ "level": 4,
+ "category": "Physical sciences",
+ "description": "Unit of time equal to 60 seconds",
+ "is_person": false,
+ "wiki_lead": "A minute (symbol: min) is a unit of time defined as equal to 60 seconds. The prime symbol ′ is also sometimes used informally to denote minutes.\nIn the UTC time standard, a minute on rare occasions has 61 seconds, a consequence of leap seconds; there is also a provision to insert a negative leap second, which would result in a 59-second minute, but this has never happened in more than 40 years under this system.",
+ "wiki_excerpt": "A minute (symbol: min) is a unit of time defined as equal to 60 seconds. The prime symbol ′ is also sometimes used informally to denote minutes.\nIn the UTC time standard, a minute on rare occasions has 61 seconds, a consequence of leap seconds; there is also a provision to insert a negative leap second, which would result in a 59-second minute, but this has never happened in more than 40 years under this system.\n\n\nHistory\nAl-Biruni first subdivided the hour sexagesimally into minutes, seconds, thirds and fourths in 1000 CE while discussing Jewish months.\nHistorically, the word \"minute\" comes from the Latin pars minuta prima, meaning \"first small part\".  This division of the hour can be further refined with a \"second small part\" (Latin: pars minuta secunda), and this is where the word \"second\" comes from.  For even further refinement, the term \"third\" (1⁄60 of a second) was once used, but most modern usage subdivides seconds by using decimals.  The symbol notation of the prime for minutes and double prime for seconds can be seen as indicating the first and second cut of the hour (similar to how the foot is the first cut of the yard or perhaps chain, with inches as the second cut).  In 1267, the medieval scientist Roger Bacon, writing in Latin, defined the division of time between full moons as a number of hours, minutes, seconds, thirds, and fourths (horae, minuta, secunda, tertia, and quarta) after noon on specified calendar dates. Jost Bürgi was the first clock maker to include a minute hand on a clock for astronomer Tycho Brahe in 1577. The introduction of the minute hand into watches was possible only after the invention of the hairspring by Thomas Tompion, an English watchmaker, in 1675.\n\n",
+ "grok_lead": "The minute is a unit of time equal to 60 seconds, representing one-sixtieth of an hour, and is accepted for use alongside the International System of Units (SI) despite the second being the SI base unit for time. It is also a unit of angle equal to one-sixtieth of a degree. This subdivision originates from the ancient Babylonian sexagesimal (base-60) numbering system, which influenced Greek astronomers like Ptolemy around 150 CE and persisted through medieval European timekeeping traditions. The term \"minute\" derives from the Medieval Latin minÅ«ta, short for pars minuta prima (\"first small part\"), reflecting its role as the initial subdivision of the hour into smaller portions. In modern contexts, the minute serves as a fundamental measure for short durations in daily life, scientific experiments, sports timing, and transportation schedules, with 1,440 minutes comprising a standard 24-hour day. The division into minutes was adopted with mechanical clocks beginning in the 14th century, with minute hands added in the 16th century, thereby standardizing time division and enabling precise coordination in navigation, industry, and global communication. While decimal time systems were briefly proposed during the French Revolution, the minute's sexagesimal structure remains dominant due to its mathematical convenience for fractions and compatibility with angular measurements in astronomy and geography, where degrees are divided into 60 arcminutes.",
+ "crossref_candidates": [
+  "Al-Biruni",
+  "Clock",
+  "Full moon",
+  "Hour",
+  "International System of Units",
+  "Leap second",
+  "Second",
+  "Time"
+ ]
+}

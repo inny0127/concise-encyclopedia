@@ -1,0 +1,31 @@
+{
+ "key": "Inverse_square_law_b92c16",
+ "title": "Inverse-square law",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Physical law",
+ "is_person": false,
+ "wiki_lead": "In physical science, an inverse-square law is any scientific law stating that the observed \"intensity\" of a specified physical quantity (being nothing more than the value of the physical quantity)  is inversely proportional to the square of the distance from the source of that physical quantity. The fundamental cause for this can be understood as geometric dilution corresponding to point-source radiation into three-dimensional space.\nRadar energy expands during both the signal transmission and the reflected return, so the inverse square for both paths means that the radar will receive energy according to the inverse fourth power of the range.\nTo prevent dilution of energy while propagating a signal, certain methods can be used such as a waveguide, which acts like a canal does for water, or how a gun barrel restricts hot gas expansion to one dimension in order to prevent loss of energy transfer to a bullet.",
+ "wiki_excerpt": "In physical science, an inverse-square law is any scientific law stating that the observed \"intensity\" of a specified physical quantity (being nothing more than the value of the physical quantity)  is inversely proportional to the square of the distance from the source of that physical quantity. The fundamental cause for this can be understood as geometric dilution corresponding to point-source radiation into three-dimensional space.\nRadar energy expands during both the signal transmission and the reflected return, so the inverse square for both paths means that the radar will receive energy according to the inverse fourth power of the range.\nTo prevent dilution of energy while propagating a signal, certain methods can be used such as a waveguide, which acts like a canal does for water, or how a gun barrel restricts hot gas expansion to one dimension in order to prevent loss of energy transfer to a bullet.\n\n\nFormula\nIn mathematical notation, the inverse square law can be expressed as an intensity (I) varying as a function of distance (d) from some centre. The intensity is proportional (see ∝) to the reciprocal of the square of the distance thus: \nintensity ∝ 1distance2\nIt can also be mathematically expressed as :\nintensity1intensity2=distance22distance12\nor as the formulation of a constant quantity:   \nintensity1×distance12=intensity2×distance22\nThe divergence of a vector field which is the resultant of radial inverse-square law fields with respect to one or more sources is proportional to the strength of the local sources, and hence zero outside sources. \n\nNewton's law of universal gravitation follows an inverse-square law, as do the effects of electricity, light, sound, and radiation.\n\n\nJustification\nThe inverse-square law generally applies when some force, energy, or other conserved quantity is evenly radiated outward from a point source in three-dimensional space.  Since the surface area of a sphere (which is 4πr2) is proportional to the square of the radius, as the emitted radiation gets farther from the source, it is spread out over an area that is increasing in proportion to the square of the distance from the source. Hence, the intensity of radiation passing through any unit area (directly facing the point source) is inversely proportional to the square of the distance from the point source. Gauss's law for gravity is similarly applicable, and can be used with any physical quantity that acts in accordance with the inverse-square relationship.\n\n\nOccurrences\n\n\nGravitation\nGravitation is the attraction between objects that have mass. Newton's law states:\n\nThe gravitational attraction force between two point masses is directly proportional to the product of their masses and inversely proportional to the square of their separation distance. The force is always attractive and acts along the line joining them.\nF=Gm1m2r2\nIf the distribution of matter in each body is spherically symmetric, then the objects can be treated as point masses without ap",
+ "grok_lead": "The inverse-square law is a fundamental principle in physics stating that the magnitude of a physical quantity, such as force or intensity, originating from a point source diminishes proportionally to the reciprocal of the square of the distance from that source. This law applies to phenomena involving point sources, including gravitational force, electric fields, light, sound, and radiation. Mathematically, the inverse-square law can be expressed as $ I \\propto \\frac{1}{d^2} $, where $ I $ represents the intensity or force strength and $ d $ is the distance from the source, with the constant of proportionality depending on the specific physical context. For instance, in Newton's law of universal gravitation, the force $ F $ between two masses $ m_1 $ and $ m_2 $ is given by $ F = G \\frac{m_1 m_2}{d^2} $, where $ G $ is the gravitational constant. Similarly, Coulomb's law for the electrostatic force between charges $ q_1 $ and $ q_2 $ follows $ F = k \\frac{q_1 q_2}{d^2} $, with $ k $ as the Coulomb constant. The law arises from the geometric spreading of effects over the surface of an expanding sphere centered on the point source, whose area is $ 4\\pi d^2 $; thus, the quantity per unit area decreases as $ 1/d^2 $. In optics and astronomy, this explains why the brightness of light from a distant star diminishes with the square of the distance, enabling distance measurements via apparent magnitude. For acoustics, sound intensity from a point source also obeys this relation, affecting perceived loudness over distance. In radiation protection and electromagnetism, the law governs exposure levels, such as from ionizing radiation or electromagnetic fields, emphasizing the rapid falloff beyond the source.",
+ "crossref_candidates": [
+  "Acoustics",
+  "Coulomb's law",
+  "Dimension",
+  "Distance",
+  "Electricity",
+  "Energy",
+  "Gravity",
+  "Light",
+  "Newton's law of universal gravitation",
+  "Power (physics)",
+  "Radar",
+  "Radiation",
+  "Scientific law",
+  "Sound",
+  "Sphere",
+  "Three-dimensional space",
+  "Wave",
+  "Waveguide"
+ ]
+}

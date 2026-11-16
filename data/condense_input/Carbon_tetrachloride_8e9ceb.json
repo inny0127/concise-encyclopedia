@@ -1,0 +1,33 @@
+{
+ "key": "Carbon_tetrachloride_8e9ceb",
+ "title": "Carbon tetrachloride",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Carbon compound",
+ "is_person": false,
+ "wiki_lead": "Carbon tetrachloride, also known by many other names (such as carbon tet for short and tetrachloromethane, also recognised by the IUPAC), is an organochlorine compound and a tetrahalomethane with the chemical formula CCl4. It is a volatile, non-flammable, dense, colourless liquid with a chloroform-like sweet odour that can be detected at low levels. It was formerly widely used in fire extinguishers, as a precursor to refrigerants, an anthelmintic and a cleaning agent, but has since been phased out because of environmental and safety concerns. Exposure to high concentrations of carbon tetrachloride can affect the central nervous system and degenerate the liver and kidneys. Prolonged exposure can be fatal.",
+ "wiki_excerpt": "Carbon tetrachloride, also known by many other names (such as carbon tet for short and tetrachloromethane, also recognised by the IUPAC), is an organochlorine compound and a tetrahalomethane with the chemical formula CCl4. It is a volatile, non-flammable, dense, colourless liquid with a chloroform-like sweet odour that can be detected at low levels. It was formerly widely used in fire extinguishers, as a precursor to refrigerants, an anthelmintic and a cleaning agent, but has since been phased out because of environmental and safety concerns. Exposure to high concentrations of carbon tetrachloride can affect the central nervous system and degenerate the liver and kidneys. Prolonged exposure can be fatal.\n\n\nProperties\nIn the carbon tetrachloride molecule, four chlorine atoms are positioned symmetrically as corners in a tetrahedral configuration joined to a central carbon atom by single covalent bonds. Because of this symmetric geometry, CCl4 is non-polar. Methane (CH4) has the same structure, making carbon tetrachloride a halomethane. As a solvent, it is well suited to dissolving other non-polar compounds such as fats and oils. It can also dissolve iodine. Carbon tetrachloride is miscible with organic solvents such as acetone, acetylacetone, aniline, benzaldehyde, benzene, benzyl alcohol, 1-butanol, butyl acetate, diethyl ether, ethanol, isoamyl alcohol, methyl isobutyl ketone, nitromethane, and pyridine; however, carbon tetrachloride is insoluble in diacetone alcohol, diethanolamine, ethylene glycol, formamide, glycerol, hydroxyethyl-ethylenediamine, and 1,3-propanediol. It is volatile, giving off vapors with an odor characteristic of other chlorinated solvents.\n\n \nSolid carbon tetrachloride has two polymorphs: crystalline II below −47.5°C (225.6 K) and crystalline I above −47.5°C. At −47.3°C it has monoclinic crystal structure with space group C2/c and lattice constants a = 20.3, b = 11.6, c = 19.9 (.10−1 nm), β = 111°.\nWith a specific gravity greater than 1, carbon tetrachloride will be present as a dense nonaqueous phase liquid if sufficient quantities are spilt in the environment.\n\n\nReactions\nDespite being generally inert, carbon tetrachloride can undergo various reactions. Hydrogen or an acid in the presence of an iron catalyst can reduce carbon tetrachloride to chloroform, dichloromethane, chloromethane and even methane. When its vapours are passed through a red-hot tube, carbon tetrachloride dechlorinates to tetrachloroethylene and hexachloroethane.\nCarbon tetrachloride, when treated with HF, gives various compounds such as trichlorofluoromethane (R-11), dichlorodifluoromethane (R-12), chlorotrifluoromethane (R-13) and carbon tetrafluoride with HCl as the by-product:\n\nCCl4 + HF  →  CCl3F + HCl\nCCl4 + 2 HF  →  CCl2F2 + 2 HCl\nCCl4 + 3 HF  →  CClF3 + 3 HCl\nCCl4 + 4 HF  →  CF4 + 4 HCl\nThis was once one of the main uses of carbon tetrachloride, as R-11 and R-12 were widely used as refrigerants.\nAn alcohol solution of potassium hydroxide decompo",
+ "grok_lead": "Carbon tetrachloride (CClâ) is a synthetic organochlorine compound featuring a tetrahedral molecule in which a single carbon atom forms four covalent bonds with chlorine atoms. It manifests as a clear, colorless, nonflammable liquid with a sweet odor detectable at low concentrations, exhibiting a molecular weight of 153.82 g/mol, a boiling point of 76.5 Â°C, a melting point of -23 Â°C, and a density of 1.59 g/mL, while being practically insoluble in water. Once extensively utilized as a solvent for fats, oils, and resins in industrial degreasing and extraction processes, in fire extinguishers for its nonconductive and nonflammable properties, as a grain fumigant, and even briefly as an anesthetic and hookworm treatment, carbon tetrachloride's applications were progressively abandoned from the mid-1960s onward upon empirical demonstration of its potent hepatotoxicity, nephrotoxicity, neurotoxicity, and carcinogenic potential in both animal models and human epidemiological data. Its persistence as a long-lived atmospheric trace gas, with a lifetime exceeding 25 years, further precipitated global regulatory action under the Montreal Protocol, mandating phase-out of production and consumption in developed nations by 1996âextended to 2010 for developing onesâdue to its role in catalyzing stratospheric ozone decomposition via chlorine radical chains, though ongoing low-level detections suggest incomplete compliance or legacy emissions.",
+ "crossref_candidates": [
+  "Acetone",
+  "Atom",
+  "Benzene",
+  "Carbon",
+  "Carcinogen",
+  "Central nervous system",
+  "Chemical formula",
+  "Chlorine",
+  "Chloroform",
+  "Covalent bond",
+  "Dichloromethane",
+  "Diethyl ether",
+  "Ethanol",
+  "Ethylene glycol",
+  "Glycerol",
+  "Iodine",
+  "Iron",
+  "Methane",
+  "Molecule",
+  "Vapor"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "key": "Silicon_dioxide_a6d776",
+ "title": "Silicon dioxide",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Oxide of silicon",
+ "is_person": false,
+ "wiki_lead": "Silicon dioxide, also known as silica, is the main dioxide of silicon. With the chemical formula SiO2, it is commonly found in nature as quartz. Silica is the major constituent of sand. Silica is one of the most complex and abundant families of materials, existing as several minerals and as a synthetic product. Examples include fused quartz, fumed silica, opal, and aerogels. It is used in structural materials, microelectronics, and as components in the food and pharmaceutical industries. All forms are white or colorless, although impure samples can be colored or opaque. Silicon dioxide is the main constituent of most glass.\n\n",
+ "wiki_excerpt": "Silicon dioxide, also known as silica, is the main dioxide of silicon. With the chemical formula SiO2, it is commonly found in nature as quartz. Silica is the major constituent of sand. Silica is one of the most complex and abundant families of materials, existing as several minerals and as a synthetic product. Examples include fused quartz, fumed silica, opal, and aerogels. It is used in structural materials, microelectronics, and as components in the food and pharmaceutical industries. All forms are white or colorless, although impure samples can be colored or opaque. Silicon dioxide is the main constituent of most glass.\n\n\nStructure\n\nIn the majority of silicon dioxides, the silicon atom shows tetrahedral coordination, with four oxygen atoms surrounding a central Si atom (see 3-D Unit Cell). Thus, SiO2 forms 3-dimensional network solids in which each silicon atom is covalently bonded in a tetrahedral manner to 4 oxygen atoms. In contrast, CO2 is a linear molecule. The starkly different structures of the dioxides of carbon and silicon are a manifestation of the double bond rule.\nBased on the crystal structural differences, silicon dioxide can be divided into two categories: crystalline and non-crystalline (amorphous). In crystalline form, this substance can be found naturally occurring as quartz, tridymite (high-temperature form), cristobalite (high-temperature form), stishovite (high-pressure form), and coesite (high-pressure form). On the other hand, amorphous silica can be found in nature as opal and diatomaceous earth. Quartz glass is a form of intermediate state between these structures.\nMany of these distinct crystalline forms  have the same local structure around Si and O. In α-quartz the Si–O bond length is 161 pm, whereas in α-tridymite it is in the range 154–171 pm. The Si–O–Si angle also varies between a low value of 140° in α-tridymite, up to 180° in β-tridymite. In α-quartz, the Si–O–Si angle is 144°.\n\n\nPolymorphism\nAlpha quartz is the most stable form of solid SiO2 at room temperature. The high-temperature minerals, cristobalite and tridymite, have both lower densities and refractive indices than quartz. The transformation from α-quartz to beta-quartz takes place abruptly at 573 °C. Since the transformation is accompanied by a significant change in volume, it can easily induce fracturing of ceramics or rocks passing through this temperature limit. The high-pressure minerals, seifertite, stishovite, and coesite, though, have higher densities and indices of refraction than quartz. Stishovite has a rutile-like structure where silicon is 6-coordinate. The density of stishovite is 4.287 g/cm3, which compares to α-quartz, the densest of the low-pressure forms, which has a density of 2.648 g/cm3. The difference in density is the less open structure.\nThe change in the coordination increases the ionicity of the Si–O bond.\nFaujasite silica, another polymorph, is obtained by the dealumination of a low-sodium, ultra-stable Y zeolite with combi",
+ "grok_lead": "Silicon dioxide, also known as silica, is a chemical compound with the formula SiOâ, characterized by a covalent network structure in which each silicon atom is bonded to four oxygen atoms in a tetrahedral configuration, and each oxygen atom bridges two silicon atoms. It constitutes the primary form in which silicon, the second most abundant element in the Earth's crust at approximately 28% by mass, occurs naturally, predominantly as minerals like quartz that together account for over half the crust's composition when considering oxide equivalents. Silicon dioxide manifests in crystalline polymorphs such as quartz, tridymite, and cristobalite, as well as amorphous variants like fused silica and opal, exhibiting properties including high melting point around 1710Â°C, density of 2.2â2.65 g/cmÂ³, and exceptional hardness in crystalline forms. These attributes enable its widespread industrial applications, from foundational roles in glass and cement production to critical uses in microelectronics as an insulator, optics, and even as an anti-caking agent in pharmaceuticals and food products owing to its chemical inertness.",
+ "crossref_candidates": [
+  "Cement",
+  "Chemical formula",
+  "Diatom",
+  "Glass",
+  "Mineral",
+  "Nature (journal)",
+  "Opal",
+  "Oxide",
+  "Oxygen",
+  "PH",
+  "Quartz",
+  "Sand",
+  "Silicon"
+ ]
+}

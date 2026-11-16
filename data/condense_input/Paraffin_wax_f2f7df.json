@@ -1,0 +1,30 @@
+{
+ "key": "Paraffin_wax_f2f7df",
+ "title": "Paraffin wax",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Soft colorless solid derived from petroleum, coal or shale oil",
+ "is_person": false,
+ "wiki_lead": "Paraffin wax (or petroleum wax) is a soft colorless solid derived from petroleum, coal, or oil shale that consists of a mixture of hydrocarbon molecules containing between 20 and 40 carbon atoms. It is solid at room temperature and begins to melt above approximately 37 °C (99 °F), and its boiling point is above 370 °C (698 °F). Common applications for paraffin wax include lubrication, electrical insulation, and candles; dyed paraffin wax can be made into crayons.\nUn-dyed, unscented paraffin candles are odorless and bluish-white. Paraffin wax was first created by Carl Reichenbach in Germany in 1830 and marked a major advancement in candlemaking technology, as it burned more cleanly and reliably than tallow candles and was cheaper to produce.\nIn chemistry, paraffin is used synonymously with alkane, indicating hydrocarbons with the general formula CnH2n+2. The name is derived from Latin parum (\"very little\") + affinis, meaning \"lacking affinity\" or \"lacking reactivity\", referring to paraffin's unreactive nature.",
+ "wiki_excerpt": "Paraffin wax (or petroleum wax) is a soft colorless solid derived from petroleum, coal, or oil shale that consists of a mixture of hydrocarbon molecules containing between 20 and 40 carbon atoms. It is solid at room temperature and begins to melt above approximately 37 °C (99 °F), and its boiling point is above 370 °C (698 °F). Common applications for paraffin wax include lubrication, electrical insulation, and candles; dyed paraffin wax can be made into crayons.\nUn-dyed, unscented paraffin candles are odorless and bluish-white. Paraffin wax was first created by Carl Reichenbach in Germany in 1830 and marked a major advancement in candlemaking technology, as it burned more cleanly and reliably than tallow candles and was cheaper to produce.\nIn chemistry, paraffin is used synonymously with alkane, indicating hydrocarbons with the general formula CnH2n+2. The name is derived from Latin parum (\"very little\") + affinis, meaning \"lacking affinity\" or \"lacking reactivity\", referring to paraffin's unreactive nature.\n\n\nProperties\nParaffin wax is mostly found as a white, odorless, flavourless, waxy solid, with a typical melting point between about 46 and 68 °C (115 and 154 °F), and a density of around 900 kg/m3. It is insoluble in water, but soluble in ether, benzene, and certain esters. Paraffin is unaffected by most common chemical reagents but burns readily. Its heat of combustion is 42 MJ/kg.\n\nParaffin wax is an excellent electrical insulator, with a resistivity of between 1013 and 1017 ohm-metre. This is better than nearly all other materials except some plastics (notably PTFE). It is an effective neutron moderator and was used in James Chadwick's 1932 experiments to identify the neutron.\nParaffin wax is an excellent material for storing heat, with a specific heat capacity of 2.14–2.9 J⋅g−1⋅K−1 (joules per gram per kelvin) and a heat of fusion of 200–220 J⋅g−1. Paraffin wax phase-change cooling coupled with retractable radiators was used to cool the electronics of the Lunar Roving Vehicle during the crewed missions to the Moon in the early 1970s. Wax expands considerably when it melts and so is used in wax element thermostats for industrial, domestic and, particularly, automobile purposes.\nIf pure paraffin wax is heated in a partially open glass vessel until it nears the flash point and then rapidly cooled, its vapors may autoignite as result of reaching boiling liquid pressure.\n\n\nHistory\nParaffin wax was first created in 1830 by German chemist Carl Reichenbach when he attempted to develop a method to efficiently separate and refine waxy substances naturally occurring in petroleum. Paraffin represented a major advance in the candle-making industry because it burned cleanly and was cheaper to manufacture than other candle fuels such as beeswax and tallow. Paraffin wax initially suffered from a low melting point. This was remedied by adding stearic acid. The production of paraffin wax enjoyed a boom in the early 20th century due to the growth of the oi",
+ "grok_lead": "Paraffin wax is a soft, white or colorless solid derived from petroleum, consisting primarily of a mixture of straight-chain (normal) alkanes with the general formula C n H 2 n + 2 C_nH_{2n+2} C n â H 2 n + 2 â, where n n n typically ranges from 20 to 40 carbon atoms. It is characterized by its low melting point, typically between 47Â°C and 65Â°C, heat capacity, and insolubility in water, making it a versatile material in various industrial applications. Produced as a byproduct of the petroleum refining process, paraffin wax is obtained through dewaxing operations on lubricating oil fractions, involving solvent extraction or chilling and filtering to separate the solid hydrocarbons from the liquid components. It can also be synthesized via the Fischer-Tropsch process from syngas, though petroleum-derived sources dominate commercial production. Chemically inert, paraffin wax exhibits a density of approximately 0.88â0.92 g/cmÂ³ and remains stable up to temperatures around 250Â°C, with a volumetric expansion of approximately 10â20% upon melting. The material's key applications include the manufacture of candles, where its clean-burning properties are valued; coatings for paper, cardboard, and food packaging to provide moisture resistance; and cosmetics, such as in lip balms and hand creams for its emollient effects. Additionally, it serves in electrical insulation, crayons, floor polishes, and emerging uses like phase-change materials for thermal energy storage in solar systems.",
+ "crossref_candidates": [
+  "Alkane",
+  "Benzene",
+  "Candle",
+  "Coal",
+  "Combustion",
+  "Cosmetics",
+  "Ester",
+  "Germany",
+  "Hydrocarbon",
+  "James Chadwick",
+  "Joule",
+  "Kelvin",
+  "Latin",
+  "Oil shale",
+  "Petroleum",
+  "Plastic",
+  "Specific heat capacity"
+ ]
+}

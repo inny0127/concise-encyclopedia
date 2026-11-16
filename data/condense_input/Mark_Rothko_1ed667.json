@@ -10,13 +10,13 @@
  "grok_lead": "Mark Rothko (born Markus Yakovlevich Rothkowitz; September 25, 1903 â February 25, 1903 â February 25, 1970) was an American abstract painter of Russian Jewish descent, best known for his pioneering color field works featuring expansive, hazy rectangles of color designed to immerse viewers in contemplative emotional states. Born in Dvinsk, Russian Empire (now Daugavpils, Latvia), to pharmacist Jacob Rothkowitz and Anna Goldin, Rothko immigrated with his family to the United States in 1913, settling in Portland, Oregon, after his father's death en route. He briefly attended Yale University from 1921 but dropped out after two years to pursue art in New York City, where he supported himself through various jobs while studying at the Art Students League. Initially influenced by urban scenes and mythological themes in the 1930s and 1940s, Rothko transitioned from surrealist-inspired figurative paintings to non-objective abstraction around 1947, developing his signature style of layered, luminous color fields that rejected narrative or symbolic content in favor of direct sensory and psychological impact. Rothko's mature works, produced primarily from the late 1940s until health issues curtailed his output in the 1960s, gained prominence within the New York School of abstract expressionism, though he distanced himself from gestural techniques associated with peers like Jackson Pollock, emphasizing instead the emotive power of color and scale. Key achievements include the Seagram Murals (1958â1959), a series of monumental canvases commissioned for a restaurant but ultimately rejected by Rothko due to concerns over their commercial context, and his contributions to the Rothko Chapel in Houston (1964â1967), an ecumenical space featuring his dark, meditative panels intended for spiritual reflection. His paintings, often exhibited in dimly lit rooms to enhance their atmospheric effect, fetched record prices at auction posthumously, underscoring his enduring influence on post-war American art. Rothko died by suicide in his New York studio at age 66, amid declining health and disputes over his estate.",
  "crossref_candidates": [
   "Abstract expressionism",
-  "Color field",
-  "Daugavpils",
   "Ellis Island",
+  "Expressionism",
   "Houston",
   "Jackson Pollock",
   "Jews",
   "Latvia",
+  "Myth",
   "New York City",
   "Orthodox Judaism",
   "Portland, Oregon",
@@ -25,6 +25,7 @@
   "Talmud",
   "Tragedy",
   "World War II",
+  "Yale University",
   "Yiddish"
  ]
 }

@@ -1,0 +1,33 @@
+{
+ "key": "1_c4ca42",
+ "title": "1",
+ "level": 4,
+ "category": "Mathematics",
+ "description": "Natural number",
+ "is_person": false,
+ "wiki_lead": "1 (one, unit, unity) is a number, numeral, and grapheme. It is the first and smallest positive integer of the infinite sequence of natural numbers. This fundamental property has led to its unique uses in other fields, ranging from science to sports, where it commonly denotes the first, leading, or top thing in a group. 1 is the unit of counting or measurement, and represents a single thing. The representation of 1 evolved from ancient Sumerian and Babylonian symbols to the modern Arabic numeral. Linguistically, in English, \"one\" is a determiner for singular nouns and a gender-neutral pronoun.\nIn mathematics, 1 is the multiplicative identity, meaning that any number multiplied by 1 equals the same number. 1 is by convention not considered a prime number. In digital technology, 1 represents the \"on\" state in binary code, the foundation of computing. Philosophically, 1 symbolizes the ultimate reality or source of existence in various traditions.",
+ "wiki_excerpt": "1 (one, unit, unity) is a number, numeral, and grapheme. It is the first and smallest positive integer of the infinite sequence of natural numbers. This fundamental property has led to its unique uses in other fields, ranging from science to sports, where it commonly denotes the first, leading, or top thing in a group. 1 is the unit of counting or measurement, and represents a single thing. The representation of 1 evolved from ancient Sumerian and Babylonian symbols to the modern Arabic numeral. Linguistically, in English, \"one\" is a determiner for singular nouns and a gender-neutral pronoun.\nIn mathematics, 1 is the multiplicative identity, meaning that any number multiplied by 1 equals the same number. 1 is by convention not considered a prime number. In digital technology, 1 represents the \"on\" state in binary code, the foundation of computing. Philosophically, 1 symbolizes the ultimate reality or source of existence in various traditions.\n\n\nIn mathematics\nThe number 1 is the first natural number after 0. Each natural number, including 1, is constructed by succession, that is, by adding 1 to the previous natural number. Although 1 meets the naïve definition of a prime number, being evenly divisible only by 1 and itself (also 1), by modern convention it is regarded as neither a prime nor a composite number. \nThe number 1 is the multiplicative identity of the integers, real numbers, and complex numbers, that is, any number n multiplied by 1 remains unchanged 1×n=n×1=n. As a result, the square 12=1, square root 1=1, and any other power of 1 is always equal to 1 itself. More generally, in algebra, it denotes the multiplicative identity in any unital ring or field. An element with a multiplicative inverse is called a unit, generalizing the role of 1. For any number a, the first power satisfies a1=a, so that 1 is also the identity for any power semigroup.\n1 is its own factorial 1!=1. Moreover, the empty product, that is the product of a set of zero numbers, is also 1. Thus any number raised to the zeroth power is one, and 0! is 1. \nDifferent mathematical constructions of the natural numbers represent 1 in various ways. In Giuseppe Peano's original formulation of the Peano axioms, a set of postulates to define the natural numbers in a precise and logical way, 1 was treated as the starting point of the sequence of natural numbers. Peano later revised his axioms to begin the sequence with 0. In the Von Neumann cardinal assignment of natural numbers, where each number is defined as a set that contains all numbers before it, 1 is represented as the singleton {0}, a set containing only the element 0.\nThe unary numeral system, as used in tallying, is an example of a \"base-1\" number system, since only one mark – the tally itself – is needed. While this is the simplest way to represent the natural numbers, base-1 is rarely used as a practical base for counting due to its difficult readability.\nIn many mathematical and engineering problems, numeric values are typically normalized to fall within the unit interval [0,1], where 1 represents the maximum possible value. For example, by definition 1 is the probability of an event that is absolutely or almost certain to occur. Likewise, vectors are often normalized into unit vectors (i.e., vectors of magnitude one), because these often have more desirable properties. Functions are often normalized by the condition that they have integral one, maximum value one, or square integral one, depending on the application.\n1 is the most common leading digit in many sets of real-world numerical data. This is a consequence of Benford’s law, which states that the probability for a specific leading digit d is log10(d+1d). The tendency for real-world numbers to grow exponentially or logarithmically biases the distribution towards smaller leading digits, with 1 occurring approximately 30% of the time.\n1 is the value of Legendre's constant, introduced in 1808 by Adrien-Marie Legendre to express the asymptotic be",
+ "grok_lead": "",
+ "crossref_candidates": [
+  "0",
+  "Adrien-Marie Legendre",
+  "Algebra",
+  "Babylonia",
+  "Complex number",
+  "Computing",
+  "Factorial",
+  "Field (mathematics)",
+  "Integer",
+  "Integral",
+  "Measurement",
+  "Natural number",
+  "Number",
+  "Prime number",
+  "Probability",
+  "Real number",
+  "Ring (mathematics)",
+  "Set (mathematics)",
+  "Square root",
+  "Sumer"
+ ]
+}

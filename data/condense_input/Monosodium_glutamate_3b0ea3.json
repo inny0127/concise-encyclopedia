@@ -1,0 +1,33 @@
+{
+ "key": "Monosodium_glutamate_3b0ea3",
+ "title": "Monosodium glutamate",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Flavor enhancer (621 or E621)",
+ "is_person": false,
+ "wiki_lead": "Monosodium glutamate (MSG), also known as sodium glutamate,  is a sodium salt of glutamic acid.  MSG is found naturally in some foods including tomatoes and cheese in this glutamic acid form, and is used in cooking as a flavor enhancer that intensifies the umami flavor of food, as naturally occurring glutamate does in foods such as stews and meat soups.\nMSG was first extracted in 1908 by Japanese biochemist Kikunae Ikeda, who tried to isolate and duplicate the savory taste of kombu, an edible seaweed used as a broth (dashi)  ingredient in Japanese cuisine. It also balances, blends, and rounds the perception of other tastes.  MSG, along with disodium ribonucleotides, is commonly used and found in stock (bouillon) cubes, soups, ramen, gravy, stews, condiments, savory snacks, etc.\nThe U.S. Food and Drug Administration has given MSG its generally recognized as safe (GRAS) designation. It is a popular misconception that MSG can cause headaches and other feelings of discomfort, known as \"Chinese restaurant syndrome\". Several blinded studies show no such effects when MSG is combined with food in normal concentrations, and are inconclusive when MSG is added to broth in large concentrations. The European Union classifies it as a food additive permitted in certain foods and subject to quantitative limits. MSG has the HS code 2922.42 and the E number E621.\n\n",
+ "wiki_excerpt": "Monosodium glutamate (MSG), also known as sodium glutamate,  is a sodium salt of glutamic acid.  MSG is found naturally in some foods including tomatoes and cheese in this glutamic acid form, and is used in cooking as a flavor enhancer that intensifies the umami flavor of food, as naturally occurring glutamate does in foods such as stews and meat soups.\nMSG was first extracted in 1908 by Japanese biochemist Kikunae Ikeda, who tried to isolate and duplicate the savory taste of kombu, an edible seaweed used as a broth (dashi)  ingredient in Japanese cuisine. It also balances, blends, and rounds the perception of other tastes.  MSG, along with disodium ribonucleotides, is commonly used and found in stock (bouillon) cubes, soups, ramen, gravy, stews, condiments, savory snacks, etc.\nThe U.S. Food and Drug Administration has given MSG its generally recognized as safe (GRAS) designation. It is a popular misconception that MSG can cause headaches and other feelings of discomfort, known as \"Chinese restaurant syndrome\". Several blinded studies show no such effects when MSG is combined with food in normal concentrations, and are inconclusive when MSG is added to broth in large concentrations. The European Union classifies it as a food additive permitted in certain foods and subject to quantitative limits. MSG has the HS code 2922.42 and the E number E621.\n\n\nUse\nPure MSG is reported to have a highly unpleasant taste until it is combined with a savory aroma. The basic sensory function of MSG is attributed to its ability to enhance savory taste-active compounds when added in the proper concentration. The optimal concentration varies by food; in clear soup, the \"pleasure score\" rapidly falls with the addition of more than one gram of MSG per 100 mL.\nThe sodium content (in mass percent) of MSG, 12.28%, is about one-third of that in sodium chloride (39.34%), due to the greater mass of the glutamate counterion, and the remainder, 87.72%, is glutamic acid. Although other salts of glutamate have been used in low-salt soups, they are less palatable than MSG. \nThe ribonucleotide food additives disodium inosinate (E631) and disodium guanylate (E627), as well as conventional salt, are usually used with monosodium glutamate-containing ingredients as they seem to have a synergistic effect. \"Super salt\" is a mixture of nine parts salt, to one part MSG and 0.1 parts disodium ribonucleotides (a mixture of disodium inosinate and disodium guanylate).\n\n\nSafety\nMSG is generally recognized as safe to eat. A popular belief is that MSG can cause headaches and other feelings of discomfort, but blinded tests have not provided strong evidence of this. International bodies governing food additives currently consider MSG safe for human consumption as a flavor enhancer. Under normal conditions, humans can metabolize relatively large quantities of glutamate, which is naturally produced in the gut in the course of protein hydrolysis. The median lethal dose (LD50) is between 15 and 18 g/kg",
+ "grok_lead": "Monosodium glutamate (MSG), the sodium salt of L-glutamic acid with molecular formula CâHâNNaOâ, is a white, odorless crystalline powder used primarily as a flavor enhancer in foods. First isolated in 1908 by Japanese chemist Kikunae Ikeda from extracts of kombu seaweed, MSG replicates the umami taste naturally present in ingredients like meat broths, tomatoes, and aged cheeses by providing free glutamate ions that stimulate specific taste receptors. Industrially produced via microbial fermentation of carbohydrates such as sugar cane or tapioca, it is added to processed items including soups, snacks, seasonings, and canned goods to intensify savory profiles without altering other sensory attributes. Classified as generally recognized as safe by bodies like the U.S. Food and Drug Administration based on extensive toxicological data, MSG's safety profile remains contested due to reports of acute symptoms in sensitive individualsâtermed \"Chinese Restaurant Syndrome\" since 1968âand preclinical evidence of excitotoxicity, obesity promotion, and reproductive impacts at supraphysiological doses. While double-blind human trials often attribute perceived reactions to nocebo effects rather than direct causation, emerging studies highlight potential correlations with metabolic disorders and neurodegeneration, underscoring the need for scrutiny beyond regulatory thresholds amid biases in industry-funded research.",
+ "crossref_candidates": [
+  "Carbohydrate",
+  "Cheese",
+  "Condiment",
+  "Cooking",
+  "European Union",
+  "Fermentation",
+  "Ion",
+  "Japanese cuisine",
+  "Obesity",
+  "Odor",
+  "Ramen",
+  "Salt",
+  "Seaweed",
+  "Snack",
+  "Sodium",
+  "Sodium chloride",
+  "Soup",
+  "Stew",
+  "Tomato",
+  "Umami"
+ ]
+}

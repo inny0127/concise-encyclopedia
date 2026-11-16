@@ -10,19 +10,14 @@
  "grok_lead": "Rockefeller Center is a complex of nineteen commercial buildings and public spaces spanning three city blocks in Midtown Manhattan, New York City, developed as a private real estate venture by John D. Rockefeller Jr. beginning in the early 1930s. Envisioned as a \"city within a city\" on land leased from Columbia University in October 1928, the project broke ground in March 1932 amid the Great Depression, with the first structuresâincluding 30 Rockefeller Plaza and Radio City Music Hallâopening in 1933. The complex, characterized by Art Deco architecture and integrated public art promoting themes of human progress, provided employment for tens of thousands during economic hardship and established enduring attractions such as the Channel Gardens, the ice skating rink, and the annual Christmas tree tradition, which began with a 20-foot fir in 1931 as a gesture of optimism. A defining early controversy arose in 1934 when Nelson Rockefeller ordered the destruction of Diego Rivera's mural Man at the Crossroads in the RCA Building lobby after the artist incorporated an unapproved image of Vladimir Lenin alongside other political figures, refusing requests to remove it despite prior agreements for non-propagandistic content; Rivera later recreated the work in Mexico City, adding a portrait of Rockefeller himself in mockery.",
  "crossref_candidates": [
   "Art Deco",
-  "Botanical garden",
   "Columbia University",
   "Diego Rivera",
   "Great Depression",
   "John D. Rockefeller",
   "John D. Rockefeller Jr.",
-  "Man at the Crossroads",
   "Manhattan",
-  "Metropolitan Opera",
   "NBC",
-  "Nelson Rockefeller",
   "New York City",
-  "Opera house",
   "Rockefeller family",
   "Vladimir Lenin"
  ]

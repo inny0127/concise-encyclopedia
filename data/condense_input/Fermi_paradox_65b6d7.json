@@ -1,0 +1,32 @@
+{
+ "key": "Fermi_paradox_65b6d7",
+ "title": "Fermi paradox",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Discrepancy of the lack of evidence for alien life despite its apparent likelihood",
+ "is_person": false,
+ "wiki_lead": "The Fermi paradox is the seeming inconsistency between the lack of  evidence of extraterrestrial civilizations and the apparently high likelihood of their existence.\nIn simple terms, the Fermi paradox asks why, given the vast number of stars and potentially habitable planets in our observable universe, there is no clear evidence of extraterrestrial civilizations.\nThe paradox is named after physicist Enrico Fermi who blurted out the question—remembered by Emil Konopinski as \"But where is everybody?\"—during lunchtime after the conversation had already moved on to other topics. This happened at Los Alamos in 1950 with colleagues Konopinski, Edward Teller, and Herbert York. The paradox first appeared in print in a 1963 paper by Carl Sagan, and the paradox has since been more fully described by scientists. Early formulations of the paradox have also been identified in writings by Bernard Le Bovier de Fontenelle (1686) and Jules Verne (1865), and by Soviet rocket scientist Konstantin Tsiolkovsky (1933).\nThere have been many attempts to resolve the Fermi paradox, such as suggesting that intelligent extraterrestrial beings are extremely rare, that the lifetime of such civilizations is short, or that they exist but (for various reasons) humans see no evidence.",
+ "wiki_excerpt": "The Fermi paradox is the seeming inconsistency between the lack of  evidence of extraterrestrial civilizations and the apparently high likelihood of their existence.\nIn simple terms, the Fermi paradox asks why, given the vast number of stars and potentially habitable planets in our observable universe, there is no clear evidence of extraterrestrial civilizations.\nThe paradox is named after physicist Enrico Fermi who blurted out the question—remembered by Emil Konopinski as \"But where is everybody?\"—during lunchtime after the conversation had already moved on to other topics. This happened at Los Alamos in 1950 with colleagues Konopinski, Edward Teller, and Herbert York. The paradox first appeared in print in a 1963 paper by Carl Sagan, and the paradox has since been more fully described by scientists. Early formulations of the paradox have also been identified in writings by Bernard Le Bovier de Fontenelle (1686) and Jules Verne (1865), and by Soviet rocket scientist Konstantin Tsiolkovsky (1933).\nThere have been many attempts to resolve the Fermi paradox, such as suggesting that intelligent extraterrestrial beings are extremely rare, that the lifetime of such civilizations is short, or that they exist but (for various reasons) humans see no evidence.\n\n\nChain of reasoning\nSome of the facts and hypotheses that together serve to highlight the apparent contradiction:\n\nThere are billions of stars in the Milky Way similar to the Sun.\nWith high probability, some of these stars have Earth-like planets orbiting in the habitable zone.\nMany of these stars are much older than the Sun. If Earth-like planets are typical, some may have developed intelligent life long ago.\nSome of these civilizations may have developed interstellar travel, a step that humans are investigating.\nEven at the slow pace of envisioned interstellar travel, the Milky Way galaxy could be completely traversed in a few million years.\nHowever, there is no convincing evidence that this has happened.\n\n\nHistory\n\n\nLos Alamos conversation\n\nEnrico Fermi was a Nobel Prize-winning physicist  who was known to pose simple but seemingly unanswerable questions—termed \"Fermi questions\"—such as, \"How many atoms of Caesar's last breath do you inhale with each lungful of air?\"\nIn 1950, Fermi visited Los Alamos National Laboratory in New Mexico and, while walking to the Fuller Lodge for lunch, casually talked with fellow physicists Emil Konopinski, Edward Teller, and Herbert York about reports of flying saucers and the feasibility of faster-than-light travel. After the conversation had moved on to other topics, Fermi blurted out his question which has been variously recalled as: \"Where is everybody?\" (Teller), \"Don't you ever wonder where everybody is?\" (York), or \"But where is everybody?\" (Konopinski). According to Teller, \"The result of his question was general laughter because of the strange fact that, in spite of Fermi's question coming out of the blue, everybody around the table seemed to understand a",
+ "grok_lead": "The Fermi paradox refers to the apparent contradiction between the high probability of the existence of extraterrestrial civilizationsâbased on the vast number of stars and planets in the observable universe âand the lack of any evidence for, or contact with, such civilizations. The paradox originated in a 1950 lunchtime conversation at Los Alamos National Laboratory in which Enrico Fermi asked \" Where is everybody \" after discussing interstellar travel with Edward Teller, Emil Konopinski, and Herbert York. Fermi did not publish on the topic; the term \"Fermi paradox\" was coined in 1977 by astronomer David G. Stephenson. The Drake equation, formulated by Frank Drake in 1961, estimates N, the number of active, communicative civilizations in the Milky Way: N = R â Ã f p Ã n e Ã f l Ã f i Ã f c Ã L N = R_* \\times f_p \\times n_e \\times f_l \\times f_i \\times f_c \\times L N = R â â Ã f p â Ã n e â Ã f l â Ã f i â Ã f c â Ã L Optimistic parameter values imply that N could be large, yet no evidence has been found. Proposed resolutions group into rarity of intelligent life, self-destruction of civilizations, and non-detection (including communication barriers and isolation policies). These explanations continue to drive research in astrobiology, SETI, and exoplanet studies.",
+ "crossref_candidates": [
+  "Carl Sagan",
+  "Civilization",
+  "Drake equation",
+  "Earth",
+  "Edward Teller",
+  "Enrico Fermi",
+  "Exoplanet",
+  "Faster-than-light",
+  "Human",
+  "Jules Verne",
+  "Life",
+  "Milky Way",
+  "New Mexico",
+  "Observable universe",
+  "Paradox",
+  "Planet",
+  "Probability",
+  "Star",
+  "Sun"
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "key": "Andrey_Kolmogorov_ed1a61",
+ "title": "Andrey Kolmogorov",
+ "level": 4,
+ "category": "People",
+ "description": "Soviet mathematician (1903–1987)",
+ "is_person": true,
+ "wiki_lead": "Andrey Nikolaevich Kolmogorov (Russian: Андре́й Никола́евич Колмого́ров, IPA: [ɐnˈdrʲej nʲɪkɐˈlajɪvʲɪtɕ kəlmɐˈɡorəf] , 25 April 1903 – 20 October 1987) was a Soviet mathematician who played a central role in the creation of modern probability theory. He also gave fundamental contributions to the mathematics of topology, intuitionistic logic, turbulence, classical mechanics, functional analysis, algorithmic information theory and computational complexity.\n\n",
+ "wiki_excerpt": "Andrey Nikolaevich Kolmogorov (Russian: Андре́й Никола́евич Колмого́ров, IPA: [ɐnˈdrʲej nʲɪkɐˈlajɪvʲɪtɕ kəlmɐˈɡorəf] , 25 April 1903 – 20 October 1987) was a Soviet mathematician who played a central role in the creation of modern probability theory. He also gave fundamental contributions to the mathematics of topology, intuitionistic logic, turbulence, classical mechanics, functional analysis, algorithmic information theory and computational complexity.\n\n\nBiography\n\n\nEarly life\nAndrey Kolmogorov was born in Tambov, about 500 kilometers southeast of Moscow, in 1903. His unmarried mother, Maria Yakovlevna Kolmogorova, died giving birth to him. Andrey was raised by two of his aunts in Tunoshna (near Yaroslavl) at the estate of his grandfather, a well-to-do nobleman.\nLittle is known about Andrey's father. He was supposedly named Nikolai Matveyevich Katayev and had been an agronomist. Katayev had been exiled from Saint Petersburg to the Yaroslavl province after his participation in the revolutionary movement against the tsars. He disappeared in 1919 and was presumed to have been killed in the Russian Civil War.\nAndrey Kolmogorov was educated in his aunt Vera's village school, and his earliest literary efforts and mathematical papers were printed in the school journal \"The Swallow of Spring\". Andrey (at the age of five) was the \"editor\" of the mathematical section of this journal. Kolmogorov's interest in mathematics was spurred when he noticed, at the age of six, the regularity in the sum of the series of odd numbers: 1=12;1+3=22;1+3+5=32, etc.\nIn 1910, his aunt adopted him, and they moved to Moscow, where he graduated from high school in 1920. Later that same year, Kolmogorov began to study at Moscow State University and at the same time Mendeleev Moscow Institute of Chemistry and Technology. Kolmogorov writes about this time: \"I arrived at Moscow University with a fair knowledge of mathematics. I knew in particular the beginning of set theory. I studied many questions in articles in the Encyclopedia of Brockhaus and Efron, filling out for myself what was presented too concisely in these articles.\"\nKolmogorov gained a reputation for his wide-ranging erudition. While an undergraduate student in college, he attended the seminars of the Russian historian S. V. Bakhrushin, and he published his first research paper on the fifteenth and sixteenth centuries' landholding practices in the Novgorod Republic. During the same period (1921–22), Kolmogorov worked out and proved several results in set theory and in the theory of Fourier series.\n\n\nAdulthood\nIn 1922, Kolmogorov gained international recognition for constructing a Fourier series that diverges almost everywhere. Around this time, he decided to devote his life to mathematics.\nIn 1925, Kolmogorov graduated from Moscow State University and began to study under the supervision of Nikolai Luzin. He formed a lifelong close friendship with Pavel Alexandrov, a fellow student of Luzin; indeed, several researchers have concluded that the two friends were sexually involved, although neither acknowledged this openly. Kolmogorov (together with Aleksandr Khinchin) became interested in probability theory. Also in 1925, he published his work in intuitionistic logic, \"On the principle of the excluded middle,\" in which he proved that under a certain interpretation, all statements of classical formal logic can be formulated as those of intuitionistic logic. In 1929, Kolmogorov earned his Doctor of Philosophy degree from Moscow State University. In 1929, Kolmogorov and Alexandrov during a long travel stayed about a month in an island in lake Sevan in Armenia.\nIn 1930, Kolmogorov went on his first long trip abroad, traveling to Göttingen and Munich and then to Paris. He had various scientific contacts in Göttingen, first with Richard Courant and his students working on limit theorems, where diffusion processes proved to be the limits of discrete random processes, then with Hermann Weyl in intuitionistic",
+ "grok_lead": "Andrey Nikolaevich Kolmogorov (25 April 1903 â 20 October 1987) was a Soviet mathematician whose rigorous axiomatization of probability theory in 1933 established its modern foundations, transforming it from empirical heuristics into a branch of measure theory. Born in Tambov to unmarried parents, with his mother dying shortly after his birth, Kolmogorov displayed prodigious talent early, entering Moscow State University at age 17 and rapidly advancing through topology, analysis, and logic before his pivotal work on probability. Kolmogorov's influence extended across mathematics and its applications: he developed key results in stochastic processes, including the modern theory of Markov chains, and contributed to the understanding of turbulence through his 1941 K41 theory, which posits energy cascades in fluid dynamics via dimensional analysis. In the 1960s, he co-initiated algorithmic information theory by defining Kolmogorov complexity as the length of the shortest program describing a string, providing a formal measure of randomness and compressibility independent of physical probabilities. His work in intuitionistic logic, classical mechanics, and topology further solidified his status as one of the 20th century's most versatile and profound mathematicians, with impacts spanning from theoretical physics to computer science.",
+ "crossref_candidates": [
+  "Classical mechanics",
+  "Doctor of Philosophy",
+  "Fourier series",
+  "Functional analysis",
+  "Hermann Weyl",
+  "Markov chain",
+  "Mathematics",
+  "Moscow",
+  "Moscow State University",
+  "Munich",
+  "Novgorod Republic",
+  "Paris",
+  "Probability",
+  "Probability theory",
+  "Russian Civil War",
+  "Saint Petersburg",
+  "Set theory",
+  "Stochastic process",
+  "Topology",
+  "Turbulence"
+ ]
+}

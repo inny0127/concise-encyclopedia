@@ -7,3 +7,4 @@ data/groups/
 book/*.pdf
 book/entries.json
 data/pageviews/
+data/redirects.json

@@ -1,0 +1,33 @@
+{
+ "key": "Potassium_chloride_2d50bb",
+ "title": "Potassium chloride",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Potassium compound and alternative to salt",
+ "is_person": false,
+ "wiki_lead": "Potassium chloride (KCl, or potassium salt) is a metal halide salt composed of potassium and chlorine. It is odorless and has a white or colorless vitreous crystal appearance. The solid dissolves readily in water, and its solutions have a salt-like taste. Potassium chloride can be obtained from ancient dried lake deposits. KCl is used as a salt substitute for table salt (NaCl), as a fertilizer, as a medication, in scientific applications, in domestic water softeners (as a substitute for sodium chloride salt), as a feedstock, and in food processing, where it may be known as E number additive E508.\nIt occurs naturally as the mineral sylvite, which is named after the salt's historical designations sal degistivum Sylvii and sal febrifugum Sylvii, and in combination with sodium chloride as sylvinite.",
+ "wiki_excerpt": "Potassium chloride (KCl, or potassium salt) is a metal halide salt composed of potassium and chlorine. It is odorless and has a white or colorless vitreous crystal appearance. The solid dissolves readily in water, and its solutions have a salt-like taste. Potassium chloride can be obtained from ancient dried lake deposits. KCl is used as a salt substitute for table salt (NaCl), as a fertilizer, as a medication, in scientific applications, in domestic water softeners (as a substitute for sodium chloride salt), as a feedstock, and in food processing, where it may be known as E number additive E508.\nIt occurs naturally as the mineral sylvite, which is named after the salt's historical designations sal degistivum Sylvii and sal febrifugum Sylvii, and in combination with sodium chloride as sylvinite.\n\n\nUses\n\n\nFertilizer\nThe majority of the potassium chloride produced is used for making fertilizer, called potash, since the growth of many plants is limited by potassium availability. The term \"potash\" refers to various mined and manufactured salts that contain potassium in water-soluble form. Potassium chloride sold as fertilizer is known as \"muriate of potash\"—it is the common name for potassium chloride (KCl) used in agriculture. The vast majority of potash fertilizer worldwide is sold as muriate of potash. The dominance of muriate of potash in the fertilizer market is due to its high potassium content (approximately 60% K2O equivalent) and relative affordability compared to other potassium sources like sulfate of potash (potassium sulfate). Potassium is one of the three primary macronutrients essential for plant growth, alongside nitrogen and phosphorus. Potassium is required for plant physiological processes including enzyme activation, photosynthesis, protein synthesis, and water regulation. For watering plants, a moderate concentration of potassium chloride (KCl) is used to avoid potential toxicity: 6 mM (millimolar) is generally effective and safe for most plants, which is approximately 0.4 grams (0.014 oz) per liter of water.\n\n\nMedical use\n\nPotassium is vital in the human body, and potassium chloride by mouth is the standard means to treat low blood potassium, although it can also be given intravenously. It is on the World Health Organization's List of Essential Medicines. It is also an ingredient in Oral Rehydration Therapy (ORT)/solution (ORS) to reduce hypokalemia caused by diarrhea , which is also on the WHO's List of Essential Medicines.\nPotassium chloride contains 52% of elemental potassium by mass.\nOverdose causes hyperkalemia which can disrupt cell signaling to the extent that the heart will stop, reversibly in the case of some open heart surgeries.\n\n\nScientific Research use\nPotassium chloride (KCl) is used to represent intracellular and/or extracellular fluid in biophysical experiments with model cell membranes. A higher concentration of potassium chloride is used as both an osmotic gradient and an ionic current for the same electrophysi",
+ "grok_lead": "Potassium chloride is an ionic chemical compound with the molecular formula KCl, consisting of potassium cations and chloride anions in a 1:1 ratio, manifesting as a white or colorless crystalline solid at room temperature. This highly water-soluble salt occurs naturally as the mineral sylvite, often extracted from underground deposits mixed with halite. Primarily, it serves as a key fertilizer ingredient, providing essential potassium for crop nutrition, which enhances plant resistance to stress, improves water use efficiency, and boosts yields, accounting for the majority of its global production. In medicine, potassium chloride is administered to correct hypokalemia, a condition of low blood potassium levels that can arise from diuretics, vomiting, or inadequate intake, thereby preventing cardiac arrhythmias and muscle weakness. Beyond agriculture and healthcare, it functions as a salt substitute in low-sodium diets due to its similar taste profile to sodium chloride, and in industrial contexts for buffer solutions and electrolyte replenishment.",
+ "crossref_candidates": [
+  "Chlorine",
+  "Color",
+  "Crystal",
+  "Fertilizer",
+  "Food",
+  "Human body",
+  "Medication",
+  "Mineral",
+  "Odor",
+  "Plant",
+  "Potash",
+  "Potassium",
+  "Salt",
+  "Salt (chemistry)",
+  "Sodium",
+  "Sodium chloride",
+  "Solution (chemistry)",
+  "Taste",
+  "Water",
+  "World Health Organization"
+ ]
+}

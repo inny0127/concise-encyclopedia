@@ -1,0 +1,31 @@
+{
+ "key": "Discord_8f5cc6",
+ "title": "Discord",
+ "level": 5,
+ "category": "Society and social sciences",
+ "description": "American online communication software",
+ "is_person": false,
+ "wiki_lead": "Discord is an American instant messaging and VoIP social platform that allows communication through voice calls, video calls, text messaging, and media. Communication can be private or in virtual communities called \"servers\". A server is a collection of persistent chat rooms and voice channels accessed by invitation links. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers.\nAs of 2025, Discord has 200 million monthly active users and as of 2024, 19 million weekly active servers. It is primarily used by gamers, but the share of users interested in other topics is growing. As of July 2026, Discord is the 46th most visited website in the world according to Similarweb.\n\n",
+ "wiki_excerpt": "Discord is an American instant messaging and VoIP social platform that allows communication through voice calls, video calls, text messaging, and media. Communication can be private or in virtual communities called \"servers\". A server is a collection of persistent chat rooms and voice channels accessed by invitation links. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers.\nAs of 2025, Discord has 200 million monthly active users and as of 2024, 19 million weekly active servers. It is primarily used by gamers, but the share of users interested in other topics is growing. As of July 2026, Discord is the 46th most visited website in the world according to Similarweb.\n\n\nHistory\n\nDiscord was conceived by Jason Citron and Stanislav Vishnevskiy. Citron founded the social gaming network OpenFeint, and later sold it to GREE in 2011 for $104 million, which he used to found Hammer & Chisel, a game development studio, in 2012. Its first product was Fates Forever, released in 2014, which Citron hoped would be the first multiplayer online battle arena (MOBA) game on mobile platforms, but it was not commercially successful.\nAccording to Citron, during the development process, he noticed how difficult it was for his team to work out tactics in games like Final Fantasy XIV and League of Legends using available voice over IP (VoIP) software. This led to the development of a chat service with a focus on user friendliness with minimal impact on performance. The name \"Discord\" was chosen because it \"sounds cool and has to do with talking\", was easy to say, spell, remember, and was available for trademark and website. In addition, \"Discord in the gaming community\" was the problem he wished to solve.\nTo develop Discord, Hammer & Chisel gained additional funding from YouWeb's 9+ business incubator, which had also funded the startup of Hammer & Chisel, and from Benchmark capital and Tencent.\n\n\nRelease\nDiscord was publicly released in May 2015 under the domain name discordapp.com. According to Citron, it made no moves to target a specific audience, but some gaming-related subreddits quickly began to replace their IRC links with Discord links. Discord became widely used by esports and LAN tournament gamers. The company benefited from relationships with Twitch streamers and subreddit communities for Diablo and World of Warcraft.\nIn January 2016, Discord raised an additional $20 million in funding, including an investment from WarnerMedia (then TimeWarner). WarnerMedia was acquired by AT&T in 2018 and WarnerMedia Investment Group shut down in 2019, selling its equity.\nIn April 2018, Microsoft announced that it would provide Discord support for Xbox Live users, allowing them to link their Discord and Xbox Live accounts so that they could connect with their Xbox Live friends list through Discord.\nIn December 2018, Discord announced it had raised $150 million in funding at a $2 billion valuation. The round was led by Greenoaks Capital with partici",
+ "grok_lead": "Discord is an American proprietary communication platform providing voice over Internet protocol (VoIP), video, and text messaging services, enabling users to create and join customizable communities known as servers, originally developed for video gamers to coordinate gameplay and socialize. Launched in May 2015 by Jason Citron and Stanislav Vishnevskiy through their studio Hammer & Chisel, the application quickly expanded from its gaming roots to support diverse online interactions, including streaming, file sharing, and integrations with third-party services. As of 2026, Discord reports more than 90 million daily active users (internal data as of Q4 2025), having previously disclosed over 200 million monthly active users. The platform sees significant adoption among younger demographics and communities for education, professional collaboration, and niche interest groups, alongside premium features like enhanced upload limits and custom emojis available through its Nitro subscription. Headquartered in San Francisco, California, co-founder Jason Citron stepped down as CEO in April 2025 and was succeeded by Humam Sakhnini; Discord confidentially filed for a U.S. initial public offering in January 2026. The platform has achieved notable technical milestones, such as introducing video chat in 2017 and in-game voice integrations for titles like Pax Dei. Despite its growth, Discord has encountered controversies related to content moderation, particularly in private servers where minimal oversight has facilitated extremist organizing, grooming of minors, and other illicit activities, prompting criticism over its privacy-focused design that complicates proactive enforcement.",
+ "crossref_candidates": [
+  "API",
+  "AT&T",
+  "Android (operating system)",
+  "Communication",
+  "Esports",
+  "IOS",
+  "League of Legends",
+  "Linux",
+  "MacOS",
+  "Microsoft",
+  "Reddit",
+  "San Francisco",
+  "Tencent",
+  "Text messaging",
+  "Twitch (service)",
+  "Web browser",
+  "World of Warcraft",
+  "X (social network)"
+ ]
+}

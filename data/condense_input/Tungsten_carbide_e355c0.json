@@ -1,0 +1,29 @@
+{
+ "key": "Tungsten_carbide_e355c0",
+ "title": "Tungsten carbide",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Hard, dense and stiff chemical compound",
+ "is_person": false,
+ "wiki_lead": "Tungsten carbide (chemical formula: WC) is a carbide containing equal parts of tungsten and carbon atoms. In its most basic form, tungsten carbide is a fine gray powder, but it can be pressed and formed into shapes through sintering for use in industrial machinery, engineering facilities, molding blocks, cutting tools, chisels, abrasives, armor-piercing bullets and jewelry.\nTungsten carbide is approximately three times as stiff as steel, with a Young's modulus of approximately 530–700 GPa, and is twice as dense as steel. It is comparable with corundum (α-Al2O3) in hardness, approaching that of diamond, and can be polished and finished only with abrasives of superior hardness such as cubic boron nitride and diamond. Tungsten carbide tools can be operated at cutting speeds much higher than high-speed steel (a special steel blend for cutting tools).\nTungsten carbide powder was first synthesized by Henri Moissan in 1893, and the industrial production of the cemented form started 20 to 25 years later (between 1913 and 1918).",
+ "wiki_excerpt": "Tungsten carbide (chemical formula: WC) is a carbide containing equal parts of tungsten and carbon atoms. In its most basic form, tungsten carbide is a fine gray powder, but it can be pressed and formed into shapes through sintering for use in industrial machinery, engineering facilities, molding blocks, cutting tools, chisels, abrasives, armor-piercing bullets and jewelry.\nTungsten carbide is approximately three times as stiff as steel, with a Young's modulus of approximately 530–700 GPa, and is twice as dense as steel. It is comparable with corundum (α-Al2O3) in hardness, approaching that of diamond, and can be polished and finished only with abrasives of superior hardness such as cubic boron nitride and diamond. Tungsten carbide tools can be operated at cutting speeds much higher than high-speed steel (a special steel blend for cutting tools).\nTungsten carbide powder was first synthesized by Henri Moissan in 1893, and the industrial production of the cemented form started 20 to 25 years later (between 1913 and 1918).\n\n\nNaming\nColloquially among workers in various industries (such as machining), tungsten carbide is often simply called carbide.\n\n\nSynthesis\n\n\nPowder\nTungsten carbide powder is prepared by reaction of tungsten metal (or powder) and carbon at 1,400–2,000 °C. Other methods include a lower temperature fluid bed process that reacts either tungsten metal (or powder) or blue WO3 with CO/CO2 gas mixture and H2 gas between 900 and 1,200 °C.\nWC can also be produced by heating WO3 with graphite, either directly at 900 °C or in hydrogen at 670 °C, followed by carburization in argon at 1,000 °C. Chemical vapor deposition methods that have been investigated include:\n\nreacting tungsten hexachloride with hydrogen (as a reducing agent) and methane (as the source of carbon) at 670 °C (943 K)\nWCl6 + H2 + CH4 → WC + 6 HCl\nreacting tungsten hexafluoride with hydrogen (as reducing agent) and methanol (as source of carbon) at 350 °C (623 K)\nWF6 + 2 H2 + CH3OH → WC + 6 HF + H2O\n\n\nCemented form\n\nSolid tungsten carbide is prepared using techniques from powder metallurgy developed in the 1920s. Powdered tungsten carbide is mixed with another powdered metal, usually cobalt (alternatives include nickel and iron) which acts as a binder. The mixture is pressed, then sintered by heating it to temperatures of 1,400 °C (2,550 °F) to 1,600 °C (2,910 °F); the binder melts, wets, and partially dissolves the tungsten grains, binding them together. Cobalt-tungsten composites specifically are known by a number of trade names, including Widia and Carboloy.\n\n\nChemical properties\nThere are two well-characterized compounds of tungsten and carbon: tungsten carbide, WC, and tungsten semicarbide, W2C. Both compounds may be present in coatings and the proportions can depend on the coating method.\nAnother meta-stable compound of tungsten and carbon can be created by heating the WC phase to high temperatures using plasma, then quenching in inert gas (plasma spheroidization). This",
+ "grok_lead": "Tungsten carbide (WC) is a ceramic-like chemical compound composed of equal atomic proportions of tungsten and carbon, forming a fine gray powder in its basic state that can be pressed and sintered into durable shapes. Renowned for its extreme hardness and resistance to wear, tungsten carbide ranks approximately 9 on the Mohs scale, making it one of the hardest materials known, surpassed only by diamond and a few other substances. With a density of 15.6 g/cmÂ³ and a melting point of 2,785 Â°C, it exhibits excellent thermal stability and chemical inertness, particularly against corrosion in harsh environments. This powder is often combined with a metallic binder, such as cobalt, and sintered at high temperatures to produce cemented carbides, enhancing toughness while retaining hardness. Due to these properties, tungsten carbide finds extensive applications in mechanical engineering, mining, and machine tools, including cutting inserts, drill bits, and wear-resistant coatings.",
+ "crossref_candidates": [
+  "Abrasive",
+  "Argon",
+  "Carbon",
+  "Chemical formula",
+  "Chisel",
+  "Cobalt",
+  "Corundum",
+  "Graphite",
+  "Iron",
+  "Methane",
+  "Methanol",
+  "Mohs scale",
+  "Nickel",
+  "Steel",
+  "Tungsten",
+  "Young's modulus"
+ ]
+}

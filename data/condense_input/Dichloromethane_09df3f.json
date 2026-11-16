@@ -1,0 +1,30 @@
+{
+ "key": "Dichloromethane_09df3f",
+ "title": "Dichloromethane",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Chemical compound",
+ "is_person": false,
+ "wiki_lead": "Dichloromethane (DCM, methylene chloride, or methylene bichloride) is an organochlorine compound and a dihalomethane with the formula CH2Cl2. This colorless, volatile liquid with a chloroform-like, sweet odor is widely used as a solvent. Although it is not miscible with water, it is slightly polar and miscible with many organic solvents.",
+ "wiki_excerpt": "Dichloromethane (DCM, methylene chloride, or methylene bichloride) is an organochlorine compound and a dihalomethane with the formula CH2Cl2. This colorless, volatile liquid with a chloroform-like, sweet odor is widely used as a solvent. Although it is not miscible with water, it is slightly polar and miscible with many organic solvents.\n\n\nOccurrence\nNatural sources of dichloromethane include oceanic sources, macroalgae, wetlands, and volcanoes.  However, the majority of dichloromethane in the environment is the result of industrial emissions.\n\n\nProduction\nDCM is produced by treating either chloromethane or methane with chlorine gas at 400–500 °C. At these temperatures, both methane and chloromethane undergo a series of reactions producing progressively more chlorinated products.  In this way, an estimated 400,000 tons were produced in the US, Europe, and Japan in 1993.\n\nCH4 + Cl2 → CH3Cl + HCl\nCH3Cl + Cl2 → CH2Cl2 + HCl\nCH2Cl2 + Cl2 → CHCl3 + HCl\nCHCl3 + Cl2 → CCl4 + HCl\nThe output of these processes is a mixture of chloromethane, dichloromethane, chloroform, and carbon tetrachloride as well as hydrogen chloride as a byproduct. These compounds are separated by distillation.\nDCM was first prepared in 1839 by the French chemist Henri Victor Regnault (1810–1878), who isolated it from a mixture of chloromethane and chlorine that had been exposed to sunlight.\n\n\nUses\nDCM's volatility and ability to dissolve a wide range of organic compounds makes it a useful solvent for many chemical processes. In the past it was used to decaffeinate coffee and tea, though it has mostly been replaced by extraction using supercritical CO2, as well as to prepare extracts of hops and other flavourings. Its volatility has led to its use as an aerosol spray propellant and as a blowing agent for polyurethane foams.\n\n\nSpecialized uses\n\nThe chemical compound's low boiling point allows the chemical to function in a heat engine that can extract mechanical energy from small temperature differences. An example of a DCM heat engine is the drinking bird. The toy works at room temperature. It is also used as the fluid in jukebox displays and holiday bubble lights that have a colored bubbling tube above a lamp as a source of heat and a small amount of rock salt to provide thermal mass and a nucleation site for the phase changing solvent.\nDCM (as R-30) was historically utilized as a low flammability, and non-ozone depleting refrigerant in low-pressure centrifugal chillers. It began gaining prominence as a refrigerant after Willis Carrier began experimenting with compact radial turbo compressors around 1919.\nDCM chemically welds certain plastics. For example, it is used to seal the casing of electric meters. Often sold as a main component of plastic welding adhesives, it is also used extensively by model building hobbyists for joining plastic components together. It is commonly referred to as \"Di-clo\".\nIt is used in the garment printing industry for removal of heat-sealed garment trans",
+ "grok_lead": "Dichloromethane (DCM), also known as methylene chloride, is a colorless, volatile liquid organic compound with the chemical formula CHâClâ and a molecular weight of 84.93 g/mol. It possesses a sweet, ethereal odor and boils at approximately 40 Â°C, rendering it useful as a low-boiling solvent in industrial applications such as paint and coating removal, metal degreasing, and extraction processes in pharmaceuticals and chemical manufacturing. First synthesized in 1840 by French chemist Henri Victor Regnault through chlorination of chloromethane, it is now primarily produced industrially via direct chlorination of methane or hydrochlorination of methanol, with global production historically reaching hundreds of thousands of tons annually, though usage has declined due to regulatory scrutiny. Despite its efficacy, dichloromethane is classified as a probable human carcinogen by agencies including the EPA and IARC, with acute exposure risks including neurotoxicity, dizziness, and cardiac sensitization from its metabolism to carbon monoxide, prompting restrictions like the 2019 EPA ban on its use in consumer paint strippers.",
+ "crossref_candidates": [
+  "Boiling point",
+  "Carbon",
+  "Carbon monoxide",
+  "Carbon tetrachloride",
+  "Carcinogen",
+  "Chemical formula",
+  "Chlorine",
+  "Chloroform",
+  "Coffee",
+  "Distillation",
+  "Ethanol",
+  "Hops",
+  "Hydrogen",
+  "Methane",
+  "Sunlight",
+  "Tea",
+  "Toxicity"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "key": "Slash_punctuation_b79f39",
+ "title": "Slash (punctuation)",
+ "level": 5,
+ "category": "Society and social sciences",
+ "description": "Slanting line punctuation mark (/)",
+ "is_person": false,
+ "wiki_lead": "The slash is a slanting line punctuation mark, /. It is also known as a stroke or solidus, a forward slash and several other historical or technical names. Once used as the equivalent of the modern period and comma, the slash is now used to represent division and fractions, as a date separator, in between multiple alternative or related terms, and to indicate abbreviation.",
+ "wiki_excerpt": "The slash is a slanting line punctuation mark, /. It is also known as a stroke or solidus, a forward slash and several other historical or technical names. Once used as the equivalent of the modern period and comma, the slash is now used to represent division and fractions, as a date separator, in between multiple alternative or related terms, and to indicate abbreviation.\n\n\nHistory\n\nSlashes may be found in early writing as a variant form of dashes, vertical strokes, etc. The present use of a slash distinguished from such other marks derives from the medieval European virgule (Latin: virgula, lit. \"twig\"), which was used as a full stop (also known as a period), scratch comma, and caesura mark. These historical usages were lost over time, with its role as a full stop eventually being lost to the low dot (.), and the other two usages developing separately into distinct marks, the comma (,) and the caesura mark (||). Its use as a comma became especially widespread in France, where it was also used to mark the continuation of a word onto the next line of a page, a sense later taken on by the hyphen -. The Fraktur script used throughout Central Europe in the early modern period used a single slash as a scratch comma and a double slash // as a dash. The double slash developed into the double oblique hyphen ⸗ and double hyphen ⹀ before being usually simplified into various single dashes.\nIn the 18th century, the mark was generally known in English as the \"oblique\", particularly the less-vertical fraction slash. The variant \"oblique stroke\" was increasingly shortened to \"stroke\", which became the common British name for the character, although printers and publishing professionals often instead referred to it as an \"oblique\". In the 19th and early 20th century, it was also widely known as the \"shilling mark\" or \"solidus\", from its use as a notation or abbreviation for the shilling. The name \"slash\" is a recent development, not appearing in Webster's Dictionary until the Third Edition (1961) but has gained wide currency through its use in computing, a context where it is sometimes used in British English in preference to \"stroke\". Clarifying terms such as \"forward slash\" were coined because MS-DOS and Windows use the backslash extensively.\n\n\nUsage\n\n\nDisjunction and conjunction\n\n\nConnecting alternatives\n\nThe slash is commonly used in many languages as a shorter substitute for the conjunction \"or\", typically with the sense of exclusive or (e.g., Y/N permits yes or no but not both). Its use in this sense is somewhat informal, although it is used in philology to note variants (e.g., virgula/uirgula) and etymologies (e.g., F. virgule/LL. virgula/L. virga/PIE. *wirgā).\nSuch slashes may be used to avoid taking a position in naming disputes. One example is the Assyrian naming dispute, which prompted the US and Swedish censuses to use the respective official designations \"Assyrian/Chaldean/Syriac\" and \"Assyrier/Syrianer\" for the ethnic group.\nIn particular, since ",
+ "grok_lead": "The slash (/) is an oblique punctuation mark, also termed the solidus, virgule, or stroke, that functions primarily to separate alternatives (as in and/or), denote fractions or ratios (as in 3/4), indicate line breaks in quoted poetry, and divide components in dates, times, or URLs. Its etymological roots lie in the Latin virgula, a diminutive of virga meaning \"twig\" or \"rod,\" which entered medieval European scripts as a virgule for marking pauses equivalent to commas or periods before evolving into the modern slanted form by the 15th century. In the 20th century, the designation \"slash\" gained currency, particularly with its adoption in abbreviations like c/o (care of) and its expansion into technical domains such as computing, where it delineates file paths (e.g., dir/subdir), regular expressions, and programming division operators. Formal style guides, including the Chicago Manual of Style, advise restraint in proseâeschewing it for conjunctions in favor of words like \"or\" or \"per,\" and requiring spaces around it only for poetic line breaksâowing to its potential to clutter text or imply undue informality. Despite such recommendations, the slash persists in informal, technical, and mathematical notation for its conciseness, as seen in quotients like m a t h b b Z / n m a t h b b Z \\\\mathbb{Z}/n\\\\mathbb{Z} ma t hbb Z / n ma t hbb Z representing quotient groups or rings.",
+ "crossref_candidates": [
+  "C (programming language)",
+  "Central Europe",
+  "Coin",
+  "Computing",
+  "Conjunction (grammar)",
+  "Division (mathematics)",
+  "Early modern period",
+  "Fraction",
+  "Full stop",
+  "Latin",
+  "MS-DOS",
+  "Poetry",
+  "Prose",
+  "Regular expression",
+  "Ring (mathematics)",
+  "URL",
+  "Word"
+ ]
+}

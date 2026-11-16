@@ -1,0 +1,28 @@
+{
+ "key": "Thread_textiles_0c146d",
+ "title": "Thread (textiles)",
+ "level": 4,
+ "category": "Technology",
+ "description": "Type of yarn used for sewing",
+ "is_person": false,
+ "wiki_lead": "A thread is a long strand of material, often composed of several filaments or fibres, used for joining, creating or decorating textiles. Ancient Egyptians were known for creating thread using plant fibers, wool and hair. Today, thread can also be made of many different materials including but not limited to cotton, wool, flax, nylon, silk, polyester etc. There are also metal threads (sometimes used in decorative textiles), which can be made of fine wire. \nThread is similar to yarn, cord, twine, or string, and there is some overlap between the way these terms are used. However, thread is most often used to mean materials fine and smooth enough for sewing, embroidery, weaving, or making lace or net. Yarn is often used to mean a thicker and softer material, suitable for knitting and crochet. Cords, twines or strings are usually stronger materials, suitable for tying and fastening.",
+ "wiki_excerpt": "A thread is a long strand of material, often composed of several filaments or fibres, used for joining, creating or decorating textiles. Ancient Egyptians were known for creating thread using plant fibers, wool and hair. Today, thread can also be made of many different materials including but not limited to cotton, wool, flax, nylon, silk, polyester etc. There are also metal threads (sometimes used in decorative textiles), which can be made of fine wire. \nThread is similar to yarn, cord, twine, or string, and there is some overlap between the way these terms are used. However, thread is most often used to mean materials fine and smooth enough for sewing, embroidery, weaving, or making lace or net. Yarn is often used to mean a thicker and softer material, suitable for knitting and crochet. Cords, twines or strings are usually stronger materials, suitable for tying and fastening.\n\n\nMaterials\nThread is made from a wide variety of materials. Where a thread is stronger than the material that it is being used to join, if seams are placed under strain the material may tear before the thread breaks. Garments are usually sewn with threads of lesser strength than the fabric so that if stressed the seam will break before the garment. Heavy goods that must withstand considerable stresses such as upholstery, car seating, tarpaulins, tents, and saddlery require very strong threads. Attempting repairs with light weight thread will usually result in rapid failure, though again, using a thread that is stronger than the material being sewn can end up causing rips in that material before the thread itself gives way.\n\nPolyester/polyester core spun thread is made by wrapping staple polyester around a continuous polyester filament during spinning and plying these yarns into a sewing thread.\n\n\nMeasurement types and labeling\n\n\nThread gauges\nYarns are measured by the density of the yarn, which is described by various units of textile measurement relating to a standardized length per weight. These units do not directly correspond to thread diameter.\n\n\nWeight (Wt.) and Gunze count\nThe most common weight system for thread specifies the length of the thread in kilometres required to weigh 1 kilogram. Therefore, a greater weight number (indicated in the American standard by the abbreviation wt) indicates a thinner, finer thread. The American standard of thread weight was adopted from the Gunze Count standard of Japan, which uses two numbers separated by a forward slash. The first number corresponds to the wt number of the thread and the second number indicates how many strands of fiber were used to compose the finished thread. It is common to wrap three strands of the same weight to make one thread, though this is not a formal requirement in the US standard (which is therefore less informative).\n\n\nDenier\nA denier weight specification states how many grams 9,000 metres of the thread weighs. Unlike the common thread weight system, the greater the denier number, the thicker the thread. The denier weight system, like the common weight system, also specifies the number of strands of the specified weight which are wrapped together to make the finished thread.  Only embroidery threads have their weights given in denier.\n\n\nTex\nTex is the mass in grams of 1,000 metres of thread. If 1,000 m weighs 25 g, it is a tex 25. Larger tex numbers are heavier threads. Tex is used throughout North America and Europe.\n\n\nSilk machine twist\nManufacturers producing fine silk threads, apply their own scales of thread measurement using \"aughts\" or zeroes at the finest end and FFF at the other, thus scaling 000, 00, 0, A, B, C, D, E, F, FF, FFF.  The three finest threads are described as having \"three aughts\", \"two aughts\", and \"one aught\" respectively, and as having different \"aught counts\".  Within a given manufacturer's spectrum, a higher \"aught count\" indicates a finer thread: this may be given as a single digit followed by a forward slash and a zero— for example, 3/0 indicates a",
+ "grok_lead": "",
+ "crossref_candidates": [
+  "Ancient Egypt",
+  "Cotton",
+  "Embroidery",
+  "Flax",
+  "Hair",
+  "Lace",
+  "Nylon",
+  "Polyester",
+  "Sewing",
+  "Silk",
+  "Tent",
+  "Weaving",
+  "Wire",
+  "Wool",
+  "Yarn"
+ ]
+}

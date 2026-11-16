@@ -1,0 +1,36 @@
+{
+ "key": "Volt_e991c9",
+ "title": "Volt",
+ "level": 4,
+ "category": "Physical sciences",
+ "description": "SI derived unit of voltage",
+ "is_person": false,
+ "wiki_lead": "The volt (symbol: V), named after Alessandro Volta, is the unit of measurement of electric potential, electric potential difference (voltage), and electromotive force in the International System of Units (SI).",
+ "wiki_excerpt": "The volt (symbol: V), named after Alessandro Volta, is the unit of measurement of electric potential, electric potential difference (voltage), and electromotive force in the International System of Units (SI).\n\n\nDefinition\nOne volt is defined as the electric potential between two points of a conducting wire when an electric current of one ampere dissipates one watt of power between those points. It can be expressed in terms of SI base units (m, kg, s, and A) as\nV=powerelectric current=WA=kg⋅m2⋅s−3A=kg⋅m2⋅s−3⋅A−1.\nEquivalently, it is the potential difference between two points that will impart one joule of energy per coulomb of charge that passes through it. It can be expressed in terms of SI base units (m, kg, s, and A) as\nV=potential energycharge=JC=kg⋅m2⋅s−2A⋅s=kg⋅m2⋅s−3⋅A−1.\nIt can also be expressed as amperes times ohms (current times resistance, Ohm's law), webers per second (magnetic flux per time), watts per ampere (power per current), or joules per coulomb (energy per charge), which is also equivalent to electronvolts per elementary charge:\nV=A⋅Ω=Wbs=WA=JC=eVe.\nThe volt is named after Alessandro Volta. As with every SI unit named after a person, its symbol starts with an upper case letter (V), but when written in full, it follows the rules for capitalisation of a common noun; i.e., volt becomes capitalised at the beginning of a sentence and in titles but is otherwise in lower case.\n\n\nJosephson junction definition\n\nHistorically the \"conventional\" volt, V90, defined in 1987 by the 18th General Conference on Weights and Measures and in use from 1990 to 2019, was implemented using the Josephson effect for exact frequency-to-voltage conversion, combined with the caesium frequency standard. Though the Josephson effect is still used to realize a volt, the constant used has changed slightly.\nFor the Josephson constant, KJ = 2e/h (where e is the elementary charge and h is the Planck constant), a \"conventional\" value KJ-90 = 0.4835979 GHz/μV was used for the purpose of defining the volt. As a consequence of the 2019 revision of the SI, as of 2019 the Josephson constant has an exact value of KJ = 483597.84841698... GHz/V, which replaced the conventional value KJ-90.\nThis standard is typically realized using a series-connected array of several thousand or tens of thousands of junctions, excited by microwave signals between 10 and 80 GHz (depending on the array design). Empirically, several experiments have shown that the method is independent of device design, material, measurement setup, etc., and no correction terms are required in a practical implementation.\n\n\nWater-flow analogy\nIn the water-flow analogy, sometimes used to explain electric circuits by comparing them with water-filled pipes, voltage (difference in electric potential) is likened to difference in water pressure, while current is proportional to the amount of water flowing. A resistor would be a reduced diameter somewhere in the piping or something akin to a radiator offering resistance to flow.\nThe relationship between voltage and current is defined (in ohmic devices like resistors) by Ohm's law. Ohm's law is analogous to the Hagen–Poiseuille equation, as both are linear models relating flux and potential in their respective systems.\n\n\nCommon voltages\n\nThe voltage produced by each electrochemical cell in a battery is determined by the chemistry of that cell (see Galvanic cell § Cell voltage). Cells can be combined in series for multiples of that voltage, or additional circuitry added to adjust the voltage to a different level. Mechanical generators can usually be constructed to any voltage in a range of feasibility.\nNominal voltages of familiar sources:\n\nNerve cell resting potential: ~ 75 mV\nSingle-cell, rechargeable NiMH or NiCd battery: 1.2 V; lead-acid rechargeable cell: 2.1V\nSingle-cell, non-rechargeable (e.g., AAA, AA, C and D cells): alkaline battery: 1.5 V; zinc–carbon battery: 1.56 V if fresh and unused; Lithium coin cell: 3V\nLogic voltage levels: 1.2 V, 1",
+ "grok_lead": "The volt (symbol: V) is the derived unit in the International System of Units ( SI) for measuring electric potential difference, also known as voltage, as well as electromotive force. It is named after the Italian physicist Alessandro Volta (1745â1827), who invented the voltaic pile in 1800, the first device capable of producing a steady electric current through chemical reactions. One volt represents the electric potential difference between two points in a conducting wire carrying a constant current of one ampere when the power dissipated between those points is one watt. Equivalently, it is the amount of energy, one joule, required to move one coulomb of electric charge between the points. In terms of SI base units, the volt is expressed as kilogram meter squared per second cubed per ampere, or kgâmÂ²âsâ»Â³âAâ»Â¹. This unit was formally adopted as part of the SI in 1960 through CGPM Resolution 12, building on earlier definitions established in 1948. The volt plays a central role in electrical engineering, physics, and everyday technology, quantifying the \"push\" that drives electric current through circuits and devices ranging from household appliances to advanced electronics. Since the 2019 SI revision, which fixed the values of fundamental constants like the elementary charge and speed of light, the volt's realization has become more precise through quantum standards such as the Josephson effect, enabling highly accurate voltage measurements independent of material artifacts. Common multiples include the kilovolt ( kV) for high-voltage transmission lines and the millivolt ( mV) for low-level signals in sensors.",
+ "crossref_candidates": [
+  "Alessandro Volta",
+  "Ampere",
+  "Coulomb",
+  "Electric current",
+  "Electric potential",
+  "Electromotive force",
+  "Electronvolt",
+  "Elementary charge",
+  "Energy",
+  "Flux",
+  "International System of Units",
+  "Joule",
+  "Kilogram",
+  "Ohm",
+  "Ohm's law",
+  "Planck constant",
+  "Power (physics)",
+  "Resistor",
+  "Second",
+  "Unit of measurement",
+  "Voltage",
+  "Watt",
+  "Zinc"
+ ]
+}

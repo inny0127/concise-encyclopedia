@@ -1,0 +1,32 @@
+{
+ "key": "Elementary_charge_8a761a",
+ "title": "Elementary charge",
+ "level": 5,
+ "category": "Physical sciences",
+ "description": "Charge carried by one electron",
+ "is_person": false,
+ "wiki_lead": "The elementary charge, usually denoted by e, is the magnitude of the charge on an electron and a fundamental physical constant defined to be exactly e = 1.602176634×10−19 C. The elementary charge is a measure of the coupling strength of the electromagnetic force and one of the seven defining constants of the International System of Units (SI).\nBefore being set to a fixed value as part of the 2019 revision of the SI, the elementary charge was viewed as a quantity to be determined experimentally.\nRobert A. Millikan and Harvey Fletcher's oil drop experiment first directly measured the magnitude of the elementary charge in 1909, differing from the modern accepted value by just 0.6%.  Under assumptions of the then-disputed atomic theory, the elementary charge had also been indirectly inferred to ~3% accuracy from blackbody spectra by Max Planck in 1901 and (through the Faraday constant) at order-of-magnitude accuracy by  Johann Loschmidt's measurement of the Avogadro constant in 1865.",
+ "wiki_excerpt": "The elementary charge, usually denoted by e, is the magnitude of the charge on an electron and a fundamental physical constant defined to be exactly e = 1.602176634×10−19 C. The elementary charge is a measure of the coupling strength of the electromagnetic force and one of the seven defining constants of the International System of Units (SI).\nBefore being set to a fixed value as part of the 2019 revision of the SI, the elementary charge was viewed as a quantity to be determined experimentally.\nRobert A. Millikan and Harvey Fletcher's oil drop experiment first directly measured the magnitude of the elementary charge in 1909, differing from the modern accepted value by just 0.6%.  Under assumptions of the then-disputed atomic theory, the elementary charge had also been indirectly inferred to ~3% accuracy from blackbody spectra by Max Planck in 1901 and (through the Faraday constant) at order-of-magnitude accuracy by  Johann Loschmidt's measurement of the Avogadro constant in 1865.\n\n\nAs a unit\n\nIn some natural unit systems, such as the system of atomic units, e functions as the unit of electric charge. The use of elementary charge as a unit was promoted by George Johnstone Stoney in 1874 for the first system of natural units, called Stoney units. Later, he proposed the name electron for this unit. At the time, the particle we now call the electron was not yet discovered and the conceptual distinction between the particle electron and the unit of charge electron was still blurred. Later, the name electron was assigned to the particle and the unit of charge e lost its name. However, the unit of energy electronvolt (eV) is a remnant of the fact that the elementary charge was once called electron.\nIn other natural unit systems, the unit of charge is defined as ε0ℏc, with the result that \ne=4παε0ℏc≈0.30282212088ε0ℏc,\nwhere α is the fine-structure constant, c is the speed of light, ε0 is the electric constant, and ħ is the reduced Planck constant.\n\n\nQuantization\n\nAll known elementary particles have charges that are integer multiples of the charge on the down quark, an observation known as charge quantization. Thus the charge on the down quark, ⁠1/3⁠ e can be considered the fundamental quantum of charge. However down quarks cannot be isolated: they exist only in combination with other quarks to create particles with a single elementary charge, like protons and neutrons.\nThe physical cause of charge quantization is not known and it has no explanation in the Standard Model of elementary particles. Grand unification theories predict charge quantization, but they fail in other ways.\n\n\nFractional elementary charge\nThere are two known types of exception to the indivisibility of the elementary charge: quarks and quasiparticles.\nQuarks, first posited in the 1960s, have quantized charge in multiples of e/3. However, quarks cannot be isolated; they exist only in groupings, and stable groupings of quarks (such as a proton, which consists of three quarks) all have ch",
+ "grok_lead": "The elementary charge, denoted by the symbol e, is a fundamental physical constant in physics that represents the magnitude of the electric charge carried by a proton or an electron, serving as the basic unit of electric charge in nature. Its exact value, fixed by international convention, is 1.602176634 Ã 10^{-19} coulombs (C). Since the 2019 revision of the International System of Units (SI), the elementary charge has been one of the seven defining constants of the SI, with the ampere âthe SI base unit of electric current âdefined by fixing e at this precise value, such that the flow of one ampere corresponds to exactly 1 / (1.602176634 Ã 10^{-19}) elementary charges per second. This redefinition eliminated previous uncertainties in measurements of e, enhancing the precision of electrical standards worldwide. The elementary charge is central to understanding charge quantization, the principle that all observable electric charges in the universe are integer multiples of e, a property first experimentally confirmed in the early 20th century through studies of oil droplets and electron behavior. In atomic and particle physics, e appears in key equations, such as those governing electromagnetic interactions and the fine-structure constant Î± = e Â² / (4ÏÎµââc) â 1/137, which characterizes the strength of the electromagnetic force between charged particles. This constant underpins phenomena from the stability of atoms to the behavior of quarks and leptons in the Standard Model of particle physics.",
+ "crossref_candidates": [
+  "Avogadro constant",
+  "Coulomb",
+  "Electric charge",
+  "Electric current",
+  "Electron",
+  "Electronvolt",
+  "Elementary particle",
+  "Fine-structure constant",
+  "International System of Units",
+  "Max Planck",
+  "Natural units",
+  "Neutron",
+  "Oil drop experiment",
+  "Planck constant",
+  "Proton",
+  "Quantum",
+  "Quark",
+  "Speed of light",
+  "Standard Model"
+ ]
+}
