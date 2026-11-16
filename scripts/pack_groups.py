@@ -1,12 +1,16 @@
 """Pack condenser inputs into per-model group files for agents.
 
 Level 1-3 -> sonnet groups of 10; level 4-5 -> haiku groups of 25.
-Skips articles that already have a valid condensed entry.
+Packs only titles in data/selection.json and skips articles that already have a condensed entry.
 Writes data/groups/<model>_<n>.json (a JSON array of inputs).
 """
 import json
+import sys
 import textwrap
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from fetch_sources import key_for  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 INP = ROOT / "data" / "condense_input"
@@ -19,7 +23,8 @@ for f in DONE.glob("*.json"):
         done.add(e["key"])
 
 inputs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(INP.glob("*.json"))]
-inputs = [i for i in inputs if i["key"] not in done]
+book = {key_for(it["title"]) for it in json.loads((ROOT / "data" / "selection.json").read_text(encoding="utf-8"))}
+inputs = [i for i in inputs if i["key"] in book and i["key"] not in done]
 GROUPS.mkdir(parents=True, exist_ok=True)
 for old in GROUPS.glob("*"):
     old.unlink()
