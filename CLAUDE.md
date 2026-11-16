@@ -96,3 +96,6 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Wikidata life dates come from item JSON, not SPARQL (SPARQL converts Julian dates to Gregorian).
   SPARQL is used only to find which items are people.
 - Scripts never hard-code a contact email. Set `CE_CONTACT` to add one to the User-Agent.
+- In cloud sessions, detached processes (`nohup … &`) die about 20 minutes after the session goes idle. Run long
+  jobs such as `fetch_sources.py` as a harness-tracked background Bash task (max 2 h), commit `data/sources`, and
+  restart it when it exits.
