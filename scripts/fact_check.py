@@ -28,7 +28,9 @@ ORDINALS = ("first second third fourth fifth sixth seventh eighth ninth tenth el
             "fourteenth fifteenth sixteenth seventeenth eighteenth nineteenth twentieth").split()
 ORDINAL_CENTURY = {w: str(i + 1) for i, w in enumerate(ORDINALS)}
 ORDINAL_CENTURY |= {"twenty-" + w: str(20 + i + 1) for i, w in enumerate(ORDINALS[:9])}
-ORDINAL_CENTURY |= {"thirtieth": "30", "fortieth": "40", "fiftieth": "50", "sixtieth": "60"}
+for _i, _t in enumerate(TENS[1:], start=3):  # thirty .. ninety: "thirty-second", "forty-fifth"
+    ORDINAL_CENTURY |= {f"{_t}-{w}": str(_i * 10 + k + 1) for k, w in enumerate(ORDINALS[:9])}
+    ORDINAL_CENTURY[_t[:-1] + "ieth"] = str(_i * 10)
 
 
 def spelled_numbers(text):
