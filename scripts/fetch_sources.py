@@ -7,6 +7,7 @@ import json
 import os
 import re
 import sys
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -17,14 +18,14 @@ from bs4 import BeautifulSoup, Comment
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = ROOT / "data" / "sources"
-IMAGES = ROOT / "data" / "images"
 WP_API = "https://en.wikipedia.org/w/api.php"
 WD_API = "https://www.wikidata.org/w/api.php"
+WD_SPARQL = "https://query.wikidata.org/sparql"
 # Wikimedia asks for a contact in the User-Agent; set CE_CONTACT to add one.
 _contact = os.environ.get("CE_CONTACT")
 UA = "ConciseEncyclopedia/0.1 (personal print project" + (f"; {_contact})" if _contact else ")")
 FULLTEXT_CHARS = 12000
-IMAGE_WIDTH = 900
+IMAGE_WIDTH = 960  # a standard Wikimedia thumbnail step; odd widths get rendered on demand and throttled
 
 session = requests.Session()
 session.headers.update({"User-Agent": UA})
@@ -49,7 +50,15 @@ def get(url, params=None, as_json=True):
     raise RuntimeError(f"request kept failing: {url} {params or ''}"[:300])
 
 
+_wp_lock, _wp_next = threading.Lock(), [0.0]
+WP_INTERVAL = 0.8  # seconds between Wikipedia API calls: ~4,500/hour, under the 5,000/hour token limit
+
+
 def wp(**params):
+    with _wp_lock:
+        now = time.monotonic()
+        time.sleep(max(0.0, _wp_next[0] - now))
+        _wp_next[0] = max(now, _wp_next[0]) + WP_INTERVAL
     return get(WP_API, params | {"format": "json", "formatversion": 2})
 
 
@@ -124,9 +133,21 @@ def wd_item(claims, prop):
     return None
 
 
-def wikidata_people(qids):
-    people, place_ids = {}, set()
+def humans(qids):
+    """The subset of qids that are people (P31 = Q5). One tiny SPARQL query instead of
+    downloading every item's full claims, which runs to megabytes for countries and gets throttled."""
+    found = set()
     for batch in chunks(qids, 50):
+        q = "SELECT ?i WHERE { VALUES ?i { %s } ?i wdt:P31 wd:Q5 }" % " ".join("wd:" + x for x in batch)
+        data = get(WD_SPARQL, {"query": q, "format": "json"})
+        found |= {b["i"]["value"].rsplit("/", 1)[1] for b in (data or {}).get("results", {}).get("bindings", [])}
+    return [q for q in qids if q in found]
+
+
+def wikidata_people(qids):
+    """Life dates and places from item JSON (not SPARQL, which converts Julian dates to Gregorian)."""
+    people, place_ids = {}, set()
+    for batch in chunks(humans(qids), 10):
         data = get(WD_API, {"action": "wbgetentities", "ids": "|".join(batch), "props": "claims", "format": "json"})
         for qid, ent in (data or {}).get("entities", {}).items():
             claims = ent.get("claims", {})
@@ -169,17 +190,6 @@ def image_info(files):
     return info
 
 
-def download_image(url, key):
-    ext = ".png" if url.lower().endswith(".png") else ".jpg"
-    path = IMAGES / f"{key}{ext}"
-    if not path.exists():
-        r = get(url, as_json=False)
-        if r is None:
-            return None
-        path.write_bytes(r.content)
-    return path.name
-
-
 # ---------- Grokipedia ----------
 
 def grokipedia_lead(title):
@@ -211,12 +221,11 @@ def grokipedia_lead(title):
 
 def main(list_path):
     SOURCES.mkdir(parents=True, exist_ok=True)
-    IMAGES.mkdir(parents=True, exist_ok=True)
     items = json.loads(Path(list_path).read_text(encoding="utf-8"))
     todo = [it for it in items if not (SOURCES / f"{key_for(it['title'])}.json").exists()]
     print(f"{len(items)} articles, {len(todo)} to fetch", flush=True)
 
-    for batch in chunks(todo, 20):
+    for batch in chunks(todo, 100):
         wiki = {}
         for sub in chunks([it["title"] for it in batch], 20):
             wiki |= wiki_batch(sub)
@@ -242,7 +251,7 @@ def main(list_path):
             rec["grok_lead"] = grokipedia_lead(w["wiki_title"])
             img = imgs.get((w.get("image_file") or "").replace(" ", "_"))
             if img and img["url"]:
-                rec["image"] = img | {"path": download_image(img["url"], key)}
+                rec["image"] = img | {"path": None}  # downloaded later by fetch_images.py
             (SOURCES / f"{key}.json").write_text(json.dumps(rec, ensure_ascii=False, indent=1), encoding="utf-8")
             return it["title"], "ok"
 

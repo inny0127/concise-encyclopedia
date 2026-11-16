@@ -26,8 +26,9 @@ neutral entries in a two-column B5 book. The owner prints it for their own readi
 | Step | Script | Output |
 |---|---|---|
 | 1. Candidate list | `select_articles.py` | `data/vital.json` (~49.8k titles with level and category) |
-| 2. Pick the book's titles | *(todo)* see Next steps | `data/selection.json` |
-| 3. Fetch sources | `fetch_sources.py <list.json>` | `data/sources/*.json`, `data/images/*` (resumable) |
+| 2. Pick the book's titles | `select_final.py` | `data/selection.json` (15,000; pageviews from dump files) |
+| 3. Fetch sources | `fetch_sources.py <list.json>` | `data/sources/*.json` (resumable; image metadata only) |
+| 3b. Fetch images | `fetch_images.py` | `data/images/*`, only for entries `show_image` keeps |
 | 4. Condenser inputs | `prepare_inputs.py <selection.json> [--rebuild]` | `data/condense_input/*.json` |
 | 5. Pack work groups | `pack_groups.py` | `data/groups/{sonnet,haiku}_NNN.{json,txt}` (skips finished keys) |
 | 6. Condense | subagents read `style_guide.md` + a group `.txt`, write `data/condensed/<group>.json` | |
@@ -67,18 +68,17 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
+- `data/selection.json` done: 10,012 Level 1–4 + 4,988 Level 5 = 15,000.
 
 ## Next steps
 
-1. Write `scripts/select_final.py`: all Level 1–4 + top ~5,000 Level 5 by pageviews within each
-   category, proportional to category size → `data/selection.json`. Pageviews: the action API's
-   `prop=pageviews` takes 50 titles per request.
-2. `fetch_sources.py data/selection.json` (cached pilot sources are reused), then
-   `prepare_inputs.py data/selection.json --rebuild`, then `pack_groups.py`.
-3. Condense in waves across sessions. After each wave run `validate.py`, re-run failures with Sonnet,
+1. Finish `fetch_sources.py data/selection.json` (started 2026-11-16, ~5 h, resumable: just rerun).
+   Then `prepare_inputs.py data/selection.json --rebuild` and `pack_groups.py`.
+2. Condense in waves across sessions. After each wave run `validate.py`, re-run failures with Sonnet,
    and run `fact_check.py`.
-4. Image cap (~2,000), split into volumes (A–F / G–P / Q–Z or by page count), add an index,
-   and build print PDFs.
+3. Apply the image cap (~2,000) in `show_image`, then run `fetch_images.py`. The current policy alone
+   would pick ~5,000. `data/images/` is gitignored, so a fresh clone must rerun it (pilot images too).
+4. Split into volumes (A–F / G–P / Q–Z or by page count), add an index, and build print PDFs.
 
 ## Notes
 
@@ -88,3 +88,11 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
   style tags and HTML comments (see `grokipedia_lead`).
 - `send_mail.py` (Naver SMTP) reads its password from Windows Credential Manager. It works only on
   the owner's PC and has never sent successfully (535 auth error; Naver SMTP and app password not set up).
+- Cloud sessions share an IP that Wikimedia throttles for anonymous API calls (429 everywhere). The
+  owner's OAuth access token (owner-only consumer on meta, 5,000 requests/hour) is saved as a network
+  secret for `en.wikipedia.org` on the "Enclyclopedia" environment; `fetch_sources.py` paces itself under it.
+  Wikidata and Grokipedia need no token. Pageview dumps on dumps.wikimedia.org are never throttled.
+- Wikimedia thumbnails must use standard widths (960 px here). Odd widths get Retry-After: 600.
+- Wikidata life dates come from item JSON, not SPARQL (SPARQL converts Julian dates to Gregorian).
+  SPARQL is used only to find which items are people.
+- Scripts never hard-code a contact email. Set `CE_CONTACT` to add one to the User-Agent.
