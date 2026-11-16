@@ -114,5 +114,7 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
   *titles*, [[links]] or capitalized names (Zhong You) no longer count as errors. Before this fix, agents
   had mangled 3 entries to get past it; those were restored from git. When a flag looks like a false
   positive, fix the validator, not the entry.
-- `fact_check.py` false positives so far are all format changes: spelled-out numbers ("seventeen"),
-  "6.3 million" vs 6,300,000, flattened superscripts ("1040" for 10⁴⁰), and simple arithmetic ("a year later").
+- `fact_check.py` now reads spelled-out numbers ("forty-six", "eight hundred", "nineteenth") and "4.3 million".
+  The 7 flags left in waves 1–6 were all reviewed: derived figures (Einstein 1901, Guinness 1936, Kumar 1992,
+  ASEAN 2020s), formatting (Aconcagua 22,858; Angular momentum 10⁴⁰), and the LA riots' "over 2,380", a
+  rounded version of the source's 2,383. Only new flags need review.

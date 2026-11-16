@@ -20,9 +20,35 @@ def norm(n):
     return n.replace(",", "").rstrip(".")
 
 
+UNITS = "zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen".split()
+TENS = "twenty thirty forty fifty sixty seventy eighty ninety".split()
+WORDNUM = re.compile(r"\b(?:(%s)(?:[- ](%s))?|(%s))(?:[- ](hundred|thousand|million))?\b" % (
+    "|".join(TENS), "|".join(UNITS[1:10]), "|".join(UNITS)), re.I)
+ORDINAL_CENTURY = {w + "th": str(i) for i, w in enumerate(UNITS) if i >= 4} | {
+    "first": "1", "second": "2", "third": "3", "twentieth": "20", "twenty-first": "21"}
+
+
+def spelled_numbers(text):
+    """Digits for spelled-out numbers ("forty-six" -> 46, "eight hundred" -> 800, "nineteenth" -> 19)."""
+    out = set()
+    for m in WORDNUM.finditer(text):
+        tens, unit, small, scale = (g.lower() if g else None for g in m.groups())
+        n = (TENS.index(tens) + 2) * 10 + (UNITS.index(unit) if unit else 0) if tens else UNITS.index(small)
+        out.add(str(n))
+        if scale:
+            out.add(str(n * {"hundred": 100, "thousand": 1000, "million": 1000000}[scale]))
+    for w, n in ORDINAL_CENTURY.items():
+        if re.search(r"\b" + w + r"\b", text, re.I):
+            out.add(n)
+    return out
+
+
 def source_numbers(inp):
     text = " ".join([inp["wiki_lead"], inp["wiki_excerpt"], inp["grok_lead"]])
-    nums = {norm(n) for n in NUM.findall(text)}
+    nums = {norm(n) for n in NUM.findall(text)} | spelled_numbers(text)
+    # "4.325 million" / "6.3 million" -> 4325000 / 6300000
+    for m in re.finditer(r"(\d+(?:\.\d+)?)\s*(million|billion)", text):
+        nums.add(str(round(float(m.group(1)) * (1e6 if m.group(2) == "million" else 1e9))))
     # ranges like 1914–18 abbreviate the second year
     nums |= {n[-2:] for n in nums if len(n) == 4}
     return nums
