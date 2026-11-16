@@ -1451,9 +1451,6 @@
  "Hominini_20ebd7": [
   "not written"
  ],
- "Myth_5e920a": [
-  "not written"
- ],
  "Populism_fb76f0": [
   "not written"
  ],
@@ -3399,7 +3396,7 @@
   "not written"
  ],
  "Musical_instrument_69a981": [
-  "not written"
+  "too long (336 > 330)"
  ],
  "Thyroid_f69e59": [
   "not written"
@@ -4293,9 +4290,6 @@
   "not written"
  ],
  "Lock_water_navigation_69ff87": [
-  "not written"
- ],
- "Modern_era_a4b512": [
   "not written"
  ],
  "Sexual_intercourse_1717f0": [
@@ -6560,9 +6554,6 @@
  "Polyamory_ff0aaf": [
   "not written"
  ],
- "Muhammad_0b2531": [
-  "not written"
- ],
  "Vitruvian_Man_74cf11": [
   "not written"
  ],
@@ -7077,7 +7068,7 @@
   "not written"
  ],
  "Mobile_phone_41c2ff": [
-  "not written"
+  "too long (372 > 330)"
  ],
  "Thulium_940e09": [
   "not written"
@@ -8298,7 +8289,7 @@
   "not written"
  ],
  "Mining_efdd60": [
-  "not written"
+  "too long (334 > 330)"
  ],
  "Esophagus_839fff": [
   "not written"
@@ -9696,7 +9687,8 @@
   "not written"
  ],
  "Modernism_524ac6": [
-  "not written"
+  "too long (367 > 330)",
+  "first/second person"
  ],
  "United_States_Bill_of_Rights_99fcfb": [
   "not written"
@@ -10574,9 +10566,6 @@
  "Surat_e10212": [
   "not written"
  ],
- "Mumbai_8ebaad": [
-  "not written"
- ],
  "Shrike_7762b7": [
   "not written"
  ],
@@ -11271,7 +11260,7 @@
   "not written"
  ],
  "Mollusca_3928a0": [
-  "not written"
+  "too long (340 > 330)"
  ],
  "Xi_Jinping_0c303e": [
   "not written"
@@ -12860,9 +12849,6 @@
  "Toledo_Ohio_4d72ae": [
   "not written"
  ],
- "Museum_68d282": [
-  "not written"
- ],
  "The_Elder_Scrolls_V_Skyrim_462eec": [
   "not written"
  ],
@@ -13059,7 +13045,7 @@
   "not written"
  ],
  "Monarchy_dfbb07": [
-  "not written"
+  "too long (370 > 330)"
  ],
  "Johannes_Kepler_cf659a": [
   "not written"
@@ -13132,9 +13118,6 @@
  ],
  "Kirchhoff_s_circuit_laws_eb6d03": [
   "not written"
- ],
- "Moses_a68197": [
-  "too long (348 > 330)"
  ],
  "Qatar_7cc7ef": [
   "not written"
@@ -14600,9 +14583,6 @@
  "German_Empire_2d0466": [
   "not written"
  ],
- "Myanmar_217fa5": [
-  "not written"
- ],
  "Economic_inequality_09a125": [
   "not written"
  ],
@@ -15663,9 +15643,6 @@
   "not written"
  ],
  "Gaza_Strip_b9d2a1": [
-  "not written"
- ],
- "Music_47dcbd": [
   "not written"
  ],
  "War_of_the_Fourth_Coalition_d39d0a": [
@@ -17924,9 +17901,6 @@
  "Western_philosophy_766dfc": [
   "not written"
  ],
- "Money_a93312": [
-  "more than 8 crossrefs"
- ],
  "MS_Dhoni_db8faf": [
   "not written"
  ],
@@ -18054,9 +18028,6 @@
   "not written"
  ],
  "Elizabeth_Cady_Stanton_73fc5d": [
-  "not written"
- ],
- "Murasaki_Shikibu_4549a2": [
   "not written"
  ],
  "Sewing_5f74cc": [
@@ -19307,9 +19278,6 @@
  "Northeast_India_4607bf": [
   "not written"
  ],
- "Moscow_7e35e7": [
-  "more than 8 crossrefs"
- ],
  "Potter_s_wheel_b33206": [
   "not written"
  ],
@@ -20285,9 +20253,6 @@
  "Oncology_50b74a": [
   "not written"
  ],
- "Mineral_9637bb": [
-  "not written"
- ],
  "Ernest_Shackleton_aeacab": [
   "not written"
  ],
@@ -21135,7 +21100,7 @@
   "not written"
  ],
  "Molecule_1003cf": [
-  "not written"
+  "too long (359 > 330)"
  ],
  "Only_Fools_and_Horses_2e7acf": [
   "not written"
@@ -22038,9 +22003,6 @@
   "not written"
  ],
  "Science_fiction_0e1852": [
-  "not written"
- ],
- "Mind_d721fb": [
   "not written"
  ],
  "Microphone_2cc918": [
@@ -23508,7 +23470,7 @@
   "not written"
  ],
  "Mississippi_River_575ce5": [
-  "not written"
+  "too long (368 > 330)"
  ],
  "Squid_Game_ba4280": [
   "not written"
@@ -29462,9 +29424,6 @@
  "Paper_money_4a857d": [
   "not written"
  ],
- "Moon_d502a5": [
-  "invalid crossrefs ['Artemis program']"
- ],
  "Greenhouse_gas_edbec2": [
   "not written"
  ],
@@ -29997,9 +29956,6 @@
   "not written"
  ],
  "Lord_s_Prayer_5dd513": [
-  "not written"
- ],
- "Muscle_36143f": [
   "not written"
  ],
  "Heinrich_Hertz_ef0f0e": [
@@ -31566,9 +31522,6 @@
   "not written"
  ],
  "Linda_Ronstadt_ae3d92": [
-  "not written"
- ],
- "Myocardial_infarction_e33bb1": [
   "not written"
  ],
  "Toulouse_66d73a": [
