@@ -47,8 +47,8 @@ def source_numbers(inp):
     text = " ".join([inp["wiki_lead"], inp["wiki_excerpt"], inp["grok_lead"]])
     nums = {norm(n) for n in NUM.findall(text)} | spelled_numbers(text)
     # "4.325 million" / "6.3 million" -> 4325000 / 6300000
-    for m in re.finditer(r"(\d+(?:\.\d+)?)\s*(million|billion)", text):
-        nums.add(str(round(float(m.group(1)) * (1e6 if m.group(2) == "million" else 1e9))))
+    for m in re.finditer(r"(\d+(?:\.\d+)?)\s*(thousand|million|billion)", text):
+        nums.add(str(round(float(m.group(1)) * {"thousand": 1e3, "million": 1e6, "billion": 1e9}[m.group(2)])))
     # ranges like 1914–18 abbreviate the second year
     nums |= {n[-2:] for n in nums if len(n) == 4}
     return nums

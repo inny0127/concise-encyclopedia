@@ -73,10 +73,14 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
-- Waves 1–2 condensed (`sonnet_000`–`005`, `haiku_000`–`013`, 410 entries): all pass `validate.py`.
-  Wave 3 onward: `sonnet_006`+, `haiku_014`+.
-  Cost was ~12.6k tokens per Sonnet entry and ~7.7k per Haiku entry, so ~120M tokens for the book.
-  The old pilot output is in `data/condensed_pilot_v1/`; pilot titles are re-condensed in their normal groups.
+- Waves 1–9 condensed (`sonnet_000`–`026`, `haiku_000`–`062`; 1,845 of 15,000 entries). All pass
+  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `sonnet_027`+, `haiku_063`+.
+  Cost is ~13k subagent tokens per Sonnet entry and ~8k per Haiku entry, about 120M for the book.
+  Old pilot output is in `data/condensed_pilot_v1/`. Pilot titles are re-condensed in their normal groups.
+  Per wave: launch 3 Sonnet + 7 Haiku agents in parallel. When they finish, run both checks. Hand flags to ONE
+  Sonnet fix agent with explicit headwords, telling it to report rather than mangle checker false positives.
+  Then launch the next wave. Agents sometimes shorten keys (`ABC_1141e2`). `validate.py` now reports
+  UNKNOWN KEY; fix those mechanically.
 - `data/selection.json` done: 10,012 Level 1–4 + 4,988 Level 5 = 15,000.
 - Sources fetched for all 15,000 (248 have no Grokipedia page). Condenser inputs built.
   Groups: 100 Sonnet (`sonnet_000`–`099`) and 561 Haiku (`haiku_000`–`560`), 15,000 entries. Waves run
