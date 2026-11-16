@@ -124,3 +124,6 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
   The 7 flags left in waves 1–6 were all reviewed: derived figures (Einstein 1901, Guinness 1936, Kumar 1992,
   ASEAN 2020s), formatting (Aconcagua 22,858; Angular momentum 10⁴⁰), and the LA riots' "over 2,380", a
   rounded version of the source's 2,383. Only new flags need review.
+- More reviewed `fact_check.py` flags, all fine: Biosphere/Brazilian Highlands (dotted thousands, now read), Galaxy 2×10¹¹
+  (flattened superscript in the source), Genghis Khan 1219 (source: 1218, "the following year"). Ordinals
+  ("twelfth") are now read correctly.

@@ -24,8 +24,11 @@ UNITS = "zero one two three four five six seven eight nine ten eleven twelve thi
 TENS = "twenty thirty forty fifty sixty seventy eighty ninety".split()
 WORDNUM = re.compile(r"\b(?:(%s)(?:[- ](%s))?|(%s))(?:[- ](hundred|thousand|million))?\b" % (
     "|".join(TENS), "|".join(UNITS[1:10]), "|".join(UNITS)), re.I)
-ORDINAL_CENTURY = {w + "th": str(i) for i, w in enumerate(UNITS) if i >= 4} | {
-    "first": "1", "second": "2", "third": "3", "twentieth": "20", "twenty-first": "21"}
+ORDINALS = ("first second third fourth fifth sixth seventh eighth ninth tenth eleventh twelfth thirteenth "
+            "fourteenth fifteenth sixteenth seventeenth eighteenth nineteenth twentieth").split()
+ORDINAL_CENTURY = {w: str(i + 1) for i, w in enumerate(ORDINALS)}
+ORDINAL_CENTURY |= {"twenty-" + w: str(20 + i + 1) for i, w in enumerate(ORDINALS[:9])}
+ORDINAL_CENTURY |= {"thirtieth": "30", "fortieth": "40", "fiftieth": "50", "sixtieth": "60"}
 
 
 def spelled_numbers(text):
