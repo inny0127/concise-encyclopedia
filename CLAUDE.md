@@ -72,13 +72,14 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
-- Wave 1 condensed (`sonnet_000`–`002`, `haiku_000`–`006`, 205 entries): all pass `validate.py`.
+- Waves 1–2 condensed (`sonnet_000`–`005`, `haiku_000`–`013`, 410 entries): all pass `validate.py`.
+  Wave 3 onward: `sonnet_006`+, `haiku_014`+.
   Cost was ~12.6k tokens per Sonnet entry and ~7.7k per Haiku entry, so ~120M tokens for the book.
   The old pilot output is in `data/condensed_pilot_v1/`; pilot titles are re-condensed in their normal groups.
 - `data/selection.json` done: 10,012 Level 1–4 + 4,988 Level 5 = 15,000.
 - Sources fetched for all 15,000 (248 have no Grokipedia page). Condenser inputs built.
-  `pack_groups.py` gives 99 Sonnet groups (`sonnet_002`–`sonnet_100`, 984 entries) and
-  555 Haiku groups (`haiku_008`–`haiku_562`, 13,859 entries). `data/groups/` is gitignored: rerun
+  Groups: 100 Sonnet (`sonnet_000`–`099`) and 561 Haiku (`haiku_000`–`560`), 15,000 entries. Waves run
+  3 Sonnet + 7 Haiku groups in order. `data/groups/` is gitignored: rerun
   `pack_groups.py` in a fresh clone (it skips finished keys).
 
 ## Next steps
