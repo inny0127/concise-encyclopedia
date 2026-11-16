@@ -3,13 +3,17 @@
 Writes data/vital.json: [{title, level, category}], lowest (most vital) level wins.
 """
 import json
+import os
 import time
 from pathlib import Path
 
 import requests
 
 API = "https://en.wikipedia.org/w/api.php"
-HEADERS = {"User-Agent": "ConciseEncyclopedia/0.1 (personal print project; inny050127@gmail.com)"}
+# Wikimedia asks for a contact in the User-Agent; set CE_CONTACT to add one.
+_contact = os.environ.get("CE_CONTACT")
+HEADERS = {"User-Agent": "ConciseEncyclopedia/0.1 (personal print project"
+           + (f"; {_contact})" if _contact else ")")}
 OUT = Path(__file__).resolve().parent.parent / "data" / "vital.json"
 
 session = requests.Session()

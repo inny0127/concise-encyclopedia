@@ -4,6 +4,7 @@ Usage: python fetch_sources.py data/pilot_titles.json
 """
 import hashlib
 import json
+import os
 import re
 import sys
 import time
@@ -19,7 +20,9 @@ SOURCES = ROOT / "data" / "sources"
 IMAGES = ROOT / "data" / "images"
 WP_API = "https://en.wikipedia.org/w/api.php"
 WD_API = "https://www.wikidata.org/w/api.php"
-UA = "ConciseEncyclopedia/0.1 (personal print project; inny050127@gmail.com)"
+# Wikimedia asks for a contact in the User-Agent; set CE_CONTACT to add one.
+_contact = os.environ.get("CE_CONTACT")
+UA = "ConciseEncyclopedia/0.1 (personal print project" + (f"; {_contact})" if _contact else ")")
 FULLTEXT_CHARS = 12000
 IMAGE_WIDTH = 900
 
@@ -28,17 +31,22 @@ session.headers.update({"User-Agent": UA})
 
 
 def get(url, params=None, as_json=True):
-    for attempt in range(6):
+    """GET with retries. None only for a real 404; persistent failure raises, so a throttled
+    request never gets cached as an empty field."""
+    for attempt in range(10):
+        wait = 2 ** min(attempt, 6)
         try:
             r = session.get(url, params=params, timeout=60)
             if r.status_code == 200:
                 return r.json() if as_json else r
             if r.status_code == 404:
                 return None
+            if r.headers.get("retry-after", "").isdigit():
+                wait = int(r.headers["retry-after"]) + 1
         except requests.RequestException:
             pass
-        time.sleep(2 ** attempt)
-    return None
+        time.sleep(wait)
+    raise RuntimeError(f"request kept failing: {url} {params or ''}"[:300])
 
 
 def wp(**params):
@@ -217,6 +225,12 @@ def main(list_path):
         imgs = image_info([w["image_file"] for w in wiki.values() if w.get("image_file")])
 
         def one(it):
+            try:
+                return fetch_one(it)
+            except RuntimeError as e:  # leave uncached; the next run retries it
+                return it["title"], f"error ({e})"
+
+        def fetch_one(it):
             w = wiki.get(it["title"])
             if not w:
                 return it["title"], "missing"
