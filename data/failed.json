@@ -1385,9 +1385,6 @@
  "Monte_Carlo_method_670a37": [
   "not written"
  ],
- "Human_evolution_ed4f71": [
-  "not written"
- ],
  "Terence_Tao_6f1c91": [
   "not written"
  ],
@@ -5837,9 +5834,6 @@
  "Julio_Iglesias_b4ca61": [
   "not written"
  ],
- "Hospital_cc2ab6": [
-  "not written"
- ],
  "Sharmila_Tagore_12e75f": [
   "not written"
  ],
@@ -6261,9 +6255,6 @@
   "not written"
  ],
  "Noodles_785b95": [
-  "not written"
- ],
- "History_of_literature_2735f1": [
   "not written"
  ],
  "Playboy_3660ef": [
@@ -8274,7 +8265,7 @@
   "not written"
  ],
  "History_of_religion_6e63a6": [
-  "not written"
+  "invalid crossrefs ['animism']"
  ],
  "Four_Horsemen_of_the_Apocalypse_555f3c": [
   "not written"
@@ -8448,9 +8439,6 @@
   "not written"
  ],
  "Surveying_7c2c20": [
-  "not written"
- ],
- "Horse_38069b": [
   "not written"
  ],
  "Partnership_5e4c2b": [
@@ -9272,9 +9260,6 @@
  "North_Macedonia_e0b0ca": [
   "not written"
  ],
- "History_of_agriculture_d07257": [
-  "not written"
- ],
  "Francis_Galton_7998cc": [
   "not written"
  ],
@@ -9363,7 +9348,7 @@
   "not written"
  ],
  "History_of_medicine_3a0563": [
-  "not written"
+  "invalid crossrefs ['humorism', 'microscope', 'antibiotics']"
  ],
  "Emile_Berliner_7674e8": [
   "not written"
@@ -10728,7 +10713,7 @@
   "not written"
  ],
  "History_of_technology_e60f14": [
-  "not written"
+  "invalid crossrefs ['cuneiform']"
  ],
  "Gmail_7d53cb": [
   "not written"
@@ -11729,9 +11714,6 @@
  "Hans_Krebs_biochemist_2e32de": [
   "not written"
  ],
- "History_of_Earth_5f53f3": [
-  "not written"
- ],
  "Chinese_Communist_Party_87bd76": [
   "not written"
  ],
@@ -12099,7 +12081,7 @@
   "not written"
  ],
  "Hokusai_a4ea20": [
-  "not written"
+  "invalid crossrefs ['ukiyo-e', 'kabuki']"
  ],
  "Smoking_cessation_7a08af": [
   "not written"
@@ -12282,9 +12264,6 @@
   "not written"
  ],
  "Empathy_34d880": [
-  "not written"
- ],
- "History_of_Asia_099fc9": [
   "not written"
  ],
  "Middle_East_158b06": [
@@ -14228,9 +14207,6 @@
  "Memphis_Tennessee_e9128e": [
   "not written"
  ],
- "History_of_Europe_381dfa": [
-  "not written"
- ],
  "Fast_Fourier_transform_e14165": [
   "not written"
  ],
@@ -14918,9 +14894,6 @@
  "Sam_Walton_e4b0fb": [
   "not written"
  ],
- "Human_body_b4bb53": [
-  "not written"
- ],
  "Vanderbilt_family_900176": [
   "not written"
  ],
@@ -15534,9 +15507,6 @@
   "not written"
  ],
  "Speech_synthesis_6eea02": [
-  "not written"
- ],
- "History_of_architecture_636495": [
   "not written"
  ],
  "Pancreatic_cancer_344723": [
@@ -17922,7 +17892,7 @@
   "not written"
  ],
  "History_of_music_9ca84c": [
-  "not written"
+  "invalid crossrefs ['medieval music']"
  ],
  "Inclined_plane_59453a": [
   "not written"
@@ -20930,9 +20900,6 @@
  "Hezbollah_b0d1c2": [
   "not written"
  ],
- "History_of_North_America_34ea0a": [
-  "not written"
- ],
  "Zanzibar_11c313": [
   "not written"
  ],
@@ -22509,9 +22476,6 @@
   "not written"
  ],
  "Indra_2b3275": [
-  "not written"
- ],
- "History_of_life_25b19c": [
   "not written"
  ],
  "Demeter_28f968": [
@@ -26732,9 +26696,6 @@
  "Tajikistan_b5a972": [
   "not written"
  ],
- "History_of_South_America_d70687": [
-  "not written"
- ],
  "Social_network_381609": [
   "not written"
  ],
@@ -27714,9 +27675,6 @@
   "not written"
  ],
  "John_Belushi_f4daba": [
-  "not written"
- ],
- "History_of_mathematics_c99943": [
   "not written"
  ],
  "Michael_Faraday_173c69": [
@@ -28937,9 +28895,6 @@
  "Grand_Slam_tennis_515640": [
   "not written"
  ],
- "Homicide_a9f24b": [
-  "not written"
- ],
  "Sock_19d649": [
   "not written"
  ],
@@ -28974,9 +28929,6 @@
   "not written"
  ],
  "Pollen_164f5d": [
-  "not written"
- ],
- "History_of_art_e3ba79": [
   "not written"
  ],
  "Scientific_Revolution_70305a": [
@@ -30264,7 +30216,7 @@
   "not written"
  ],
  "History_of_science_75eaa3": [
-  "not written"
+  "invalid crossrefs ['molecular biology']"
  ],
  "Prague_Spring_80fd71": [
   "not written"
@@ -30542,9 +30494,6 @@
  "Prejudice_044666": [
   "not written"
  ],
- "Human_c1bb19": [
-  "not written"
- ],
  "Nebular_hypothesis_1ad5b0": [
   "not written"
  ],
@@ -30720,7 +30669,7 @@
   "not written"
  ],
  "Holy_Roman_Empire_c3d433": [
-  "not written"
+  "too long (354 > 330)"
  ],
  "Friedrich_Nietzsche_4292c3": [
   "not written"
@@ -31421,9 +31370,6 @@
  "Lobster_5fd207": [
   "not written"
  ],
- "Hong_Kong_8b476f": [
-  "not written"
- ],
  "Medgar_Evers_158588": [
   "not written"
  ],
@@ -31671,9 +31617,6 @@
   "not written"
  ],
  "Chandragupta_Maurya_a70b58": [
-  "not written"
- ],
- "Homer_680848": [
   "not written"
  ],
  "Syngas_d075ca": [
@@ -32091,9 +32034,6 @@
   "not written"
  ],
  "Evel_Knievel_5c6ce8": [
-  "not written"
- ],
- "Hormone_2b23df": [
   "not written"
  ],
  "Polyurethane_61541f": [
@@ -34067,9 +34007,6 @@
  "Siege_of_Yorktown_350b30": [
   "not written"
  ],
- "History_of_philosophy_8ceea9": [
-  "not written"
- ],
  "Hamster_0c0a10": [
   "not written"
  ],
@@ -34455,9 +34392,6 @@
   "not written"
  ],
  "Portuguese_Empire_ca24ba": [
-  "not written"
- ],
- "Home_8cf04a": [
   "not written"
  ],
  "Mesoamerican_architecture_b061fa": [
@@ -37077,9 +37011,6 @@
   "not written"
  ],
  "Materialism_3c6158": [
-  "not written"
- ],
- "Human_behavior_a39846": [
   "not written"
  ],
  "Maritime_transport_f5884c": [
