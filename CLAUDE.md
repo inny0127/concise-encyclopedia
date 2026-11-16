@@ -73,8 +73,8 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
-- Waves 1–19 condensed (`sonnet_000`–`056`, `haiku_000`–`132`; 3,895 of 15,000 entries). All pass
-  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `sonnet_057`+, `haiku_133`+.
+- Waves 1–24 condensed (`sonnet_000`–`071`, `haiku_000`–`167`; 4,920 of 15,000 entries). All pass
+  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `sonnet_072`+, `haiku_168`+.
   Cost is ~13k subagent tokens per Sonnet entry and ~8k per Haiku entry, about 120M for the book.
   Old pilot output is in `data/condensed_pilot_v1/`. Pilot titles are re-condensed in their normal groups.
   Per wave: launch 3 Sonnet + 7 Haiku agents in parallel. When they finish, run both checks. Hand flags to ONE
@@ -134,3 +134,8 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
   (`Democratic-Republican_Party_535fd0` for `Democratic_Republican_Party_535fd0`). Fix keys mechanically.
 - `validate.py` no longer treats [[links]] as source mentions (Creative Commons links to Wikipedia). `fact_check.py`
   also reads "2.5 × 106" as 2.5 × 10⁶ and ordinals up to ninety-ninth.
+- `validate.py` now has `NAMES_WITH_PRONOUNS` (e.g. "Umkhonto we Sizwe"): add proper names with a lowercase
+  we/you/us there instead of editing entries. Agents also kept exceeding 8 cross-references (wave 22, 8 entries):
+  the wave prompt now says "AT MOST 8 LINKS PER ENTRY (count them)".
+- Subagents occasionally make stray calls to session tools (create_session, send_message, interrupt_session);
+  they are denied and harmless.
