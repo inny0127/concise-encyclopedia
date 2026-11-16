@@ -14,6 +14,8 @@ DONE = ROOT / "data" / "condensed"
 HARD_MAX = {1: 600, 2: 600, 3: 330, 4: 180, 5: 110}
 SOFT_MIN = {1: 250, 2: 250, 3: 150, 4: 70, 5: 35}
 LINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
+# Proper names that contain a lowercase we/you/us/our; add more as they turn up.
+NAMES_WITH_PRONOUNS = ["Umkhonto we Sizwe", "Yo-Yo", "Tu Fu"]
 FORBIDDEN = [(re.compile(p, re.I), why) for p, why in [
     (r"wikipedia|grokipedia", "mentions source"),
     (r"\[\d+\]", "citation marker"),
@@ -67,6 +69,7 @@ def check(e, inp):
             problems.append(why)
     # Pronouns: lowercase only, outside *titles* and [[links]], so "I Love You" or "Zhong You" pass.
     prose = re.sub(r"\*[^*]*\*|\[\[[^\]]*\]\]", "", unquoted)
+    prose = re.sub("|".join(NAMES_WITH_PRONOUNS), "", prose)
     if re.search(r"\b(we|you|your|our|us)\b", prose) and "first/second person" not in problems:
         problems.append("first/second person")
     if "**" in e["entry"]:  # checked on the raw text: *"Heroes"* is an italic title in quotes, not bold
