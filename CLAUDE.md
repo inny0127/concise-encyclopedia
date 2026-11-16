@@ -89,7 +89,9 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
    and run `fact_check.py`.
 2. Apply the image cap (~2,000) in `show_image`, then run `fetch_images.py`. The current policy alone
    would pick ~5,000. `data/images/` is gitignored, so a fresh clone must rerun it (pilot images too).
-3. Split into volumes (A–F / G–P / Q–Z or by page count), add an index, and build print PDFs.
+3. In `build_book.py`, number homographs (same headword, e.g. Bar¹/Bar²) in a stable order such as by level
+   and then key, per `style_guide.md`.
+4. Split into volumes (A–F / G–P / Q–Z or by page count), add an index, and build print PDFs.
 
 ## Notes
 

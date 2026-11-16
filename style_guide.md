@@ -18,6 +18,8 @@ Return one JSON object per entry:
   - Titles of nobility or rulers keep their regnal form: `Louis XIV`, `Charlemagne`.
   - Strip Wikipedia disambiguators: `Mercury (planet)` → `Mercury`; the
     definitional opening makes the sense clear.
+    Always strip, even if another entry has the same headword: `Bar (unit)` → `Bar`. The build
+    numbers homographs (Bar¹, Bar²), so condensers never need to coordinate.
   - Works (books, films, paintings) are italicized in `entry` but not in `headword`.
 - `sort_key`: lowercase ASCII letter-by-letter sort form, e.g. `einstein albert`,
   `louis 14`, `mercury planet`. Ignore leading "The"/"A".
