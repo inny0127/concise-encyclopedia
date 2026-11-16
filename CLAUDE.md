@@ -69,16 +69,18 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
 - `data/selection.json` done: 10,012 Level 1–4 + 4,988 Level 5 = 15,000.
+- Sources fetched for all 15,000 (248 have no Grokipedia page). Condenser inputs built.
+  `pack_groups.py` gives 99 Sonnet groups (`sonnet_002`–`sonnet_100`, 984 entries) and
+  555 Haiku groups (`haiku_008`–`haiku_562`, 13,859 entries). `data/groups/` is gitignored: rerun
+  `pack_groups.py` in a fresh clone (it skips finished keys).
 
 ## Next steps
 
-1. Finish `fetch_sources.py data/selection.json` (started 2026-11-16, ~5 h, resumable: just rerun).
-   Then `prepare_inputs.py data/selection.json --rebuild` and `pack_groups.py`.
-2. Condense in waves across sessions. After each wave run `validate.py`, re-run failures with Sonnet,
+1. Condense in waves across sessions. After each wave run `validate.py`, re-run failures with Sonnet,
    and run `fact_check.py`.
-3. Apply the image cap (~2,000) in `show_image`, then run `fetch_images.py`. The current policy alone
+2. Apply the image cap (~2,000) in `show_image`, then run `fetch_images.py`. The current policy alone
    would pick ~5,000. `data/images/` is gitignored, so a fresh clone must rerun it (pilot images too).
-4. Split into volumes (A–F / G–P / Q–Z or by page count), add an index, and build print PDFs.
+3. Split into volumes (A–F / G–P / Q–Z or by page count), add an index, and build print PDFs.
 
 ## Notes
 
