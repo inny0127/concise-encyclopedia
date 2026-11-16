@@ -52,6 +52,9 @@ def source_numbers(inp):
     text = " ".join([inp["wiki_lead"], inp["wiki_excerpt"], inp["grok_lead"]])
     raw = NUM.findall(text)
     nums = {norm(n) for n in raw} | spelled_numbers(text)
+    # "2.5 × 106" is 2.5 × 10⁶ with the superscript flattened: accept the base 10
+    if re.search(r"[×x]\s*10\d", text):
+        nums.add("10")
     # "203.062.512" (dots as thousands separators, as in Portuguese or German sources)
     nums |= {n.replace(".", "") for n in raw if re.fullmatch(r"\d{1,3}(\.\d{3}){2,}", n)}
     # "4.325 million" / "6.3 million" -> 4325000 / 6300000

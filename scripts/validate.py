@@ -60,7 +60,9 @@ def check(e, inp):
         problems.append(f"invalid crossrefs {bad[:3]}")
     if len(LINK.findall(e["entry"])) > 8:
         problems.append("more than 8 crossrefs")
-    unquoted = re.sub(r"[\"“][^\"”]*[\"”]", "", e["entry"])
+    # Quoted text and [[links]] are exempt: "Wikipedia" as a topic (a cross-reference, or a quoted
+    # name) is fine; only prose that cites the sources is a problem.
+    unquoted = re.sub(r"\[\[[^\]]*\]\]", "LINK", re.sub(r"[\"“][^\"”]*[\"”]", "", e["entry"]))
     for rx, why in FORBIDDEN:
         if rx.search(unquoted):
             problems.append(why)
