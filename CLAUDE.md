@@ -73,8 +73,8 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
-- Waves 1–34 condensed (all Sonnet groups `sonnet_000`–`099` are done, so Level 1–3 is complete; `haiku_000`–`239`; 6,999 of 15,000 entries). All pass
-  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `haiku_240`+ only (10 Haiku groups per wave, no Sonnet groups left).
+- Waves 1–39 condensed (all Sonnet groups `sonnet_000`–`099` are done, so Level 1–3 is complete; `haiku_000`–`289`; 8,249 of 15,000 entries). All pass
+  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `haiku_290`+ only (10 Haiku groups per wave, no Sonnet groups left).
   Cost is ~13k subagent tokens per Sonnet entry and ~8k per Haiku entry, about 120M for the book.
   Old pilot output is in `data/condensed_pilot_v1/`. Pilot titles are re-condensed in their normal groups.
   Per wave: launch 3 Sonnet + 7 Haiku agents in parallel. When they finish, run both checks. Hand flags to ONE
@@ -140,5 +140,10 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Wave prompt additions that cut flags (waves 30+): "check each link target against that list", "never use we/you/our", "a century or decade not
   named by the sources counts as a new date". `fact_check.py` does not read "one hundred and sixty" (Davy, reviewed, fine) or "11th century"
   derived from 1071 (History of Turkey, fine).
+- Haiku-only waves (35+): 10 Haiku agents per wave, prompt says "write the file once, when it is complete" (otherwise the commit loop
+  commits half-written files) and "American spelling in headwords and text". Proper names keep their official spelling (Labour Party, not
+  "Labor Party": fixed by hand in wave 39; Israel Defense Forces and Kennedy Space Center are official American forms). Add "except proper
+  names such as Labour Party" to the wave prompt. Waves 1–34 may still contain British spellings (Industrialisation was fixed by hand); a
+  consistency pass for British vs American spelling is still to do before the build. Validate only after every agent has reported.
 - Subagents occasionally make stray calls to session tools (create_session, send_message, interrupt_session);
   they are denied and harmless.
