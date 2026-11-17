@@ -73,8 +73,8 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
-- Waves 1–39 condensed (all Sonnet groups `sonnet_000`–`099` are done, so Level 1–3 is complete; `haiku_000`–`289`; 8,249 of 15,000 entries). All pass
-  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `haiku_290`+ only (10 Haiku groups per wave, no Sonnet groups left).
+- Waves 1–44 condensed (all Sonnet groups `sonnet_000`–`099` are done, so Level 1–3 is complete; `haiku_000`–`339`; 9,499 of 15,000 entries). All pass
+  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `haiku_340`+ only (10 Haiku groups per wave, no Sonnet groups left).
   Cost is ~13k subagent tokens per Sonnet entry and ~8k per Haiku entry, about 120M for the book.
   Old pilot output is in `data/condensed_pilot_v1/`. Pilot titles are re-condensed in their normal groups.
   Per wave: launch 3 Sonnet + 7 Haiku agents in parallel. When they finish, run both checks. Hand flags to ONE
@@ -145,5 +145,9 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
   "Labor Party": fixed by hand in wave 39; Israel Defense Forces and Kennedy Space Center are official American forms). Add "except proper
   names such as Labour Party" to the wave prompt. Waves 1–34 may still contain British spellings (Industrialisation was fixed by hand); a
   consistency pass for British vs American spelling is still to do before the build. Validate only after every agent has reported.
+- `fact_check.py` now takes 5+ minutes: run it as a background Bash task (`run_in_background`, big timeout) and read its output file when
+  notified. Run `validate.py` and `fact_check.py` only after the LAST agent of the wave has reported (an agent may still be writing its file).
+  Prompt addition (wave 41+): "do not round, e.g. keep 372.15, not 372". Derived flags reviewed as fine: Kurds 1923 (1920 + three years),
+  Foucault 1858 ("succeeding year"), Lock 250 ("two hundred and fifty"), Malawi 1966 (1964 + "two years later").
 - Subagents occasionally make stray calls to session tools (create_session, send_message, interrupt_session);
   they are denied and harmless.
