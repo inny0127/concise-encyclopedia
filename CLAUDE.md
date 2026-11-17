@@ -73,8 +73,8 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
-- Waves 1–44 condensed (all Sonnet groups `sonnet_000`–`099` are done, so Level 1–3 is complete; `haiku_000`–`339`; 9,499 of 15,000 entries). All pass
-  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `haiku_340`+ only (10 Haiku groups per wave, no Sonnet groups left).
+- Waves 1–49 condensed (all Sonnet groups `sonnet_000`–`099` are done, so Level 1–3 is complete; `haiku_000`–`389`; 10,749 of 15,000 entries). All pass
+  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `haiku_390`+ only (10 Haiku groups per wave, no Sonnet groups left).
   Cost is ~13k subagent tokens per Sonnet entry and ~8k per Haiku entry, about 120M for the book.
   Old pilot output is in `data/condensed_pilot_v1/`. Pilot titles are re-condensed in their normal groups.
   Per wave: launch 3 Sonnet + 7 Haiku agents in parallel. When they finish, run both checks. Hand flags to ONE
@@ -149,5 +149,9 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
   notified. Run `validate.py` and `fact_check.py` only after the LAST agent of the wave has reported (an agent may still be writing its file).
   Prompt addition (wave 41+): "do not round, e.g. keep 372.15, not 372". Derived flags reviewed as fine: Kurds 1923 (1920 + three years),
   Foucault 1858 ("succeeding year"), Lock 250 ("two hundred and fifty"), Malawi 1966 (1964 + "two years later").
+- Waves 45–49: Level 5 target is now "at most 100 words (hard limit 105)"; prompt also says "do not convert units, do not expand a range
+  like 1904–08 into a new date" (wave 47 had real misses: North Pole 13,000 ft vs source 13,100 feet, Olmecs "650 BC" not in source; fixed by
+  hand). Mwene we Mutapa was added to `NAMES_WITH_PRONOUNS`. Reviewed flags, all fine: Namibia 1908 ("1904–08"), Pagan Kingdom 846/1297
+  (input `description` field), Pandanus 6.5 ("6+1⁄2 ft"), Odrysian 479 ("480–79"), Nuclide 10 (flattened 10¹⁷), Numerical digit 100 (4/100).
 - Subagents occasionally make stray calls to session tools (create_session, send_message, interrupt_session);
   they are denied and harmless.
