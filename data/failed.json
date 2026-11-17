@@ -264,7 +264,7 @@
   "not written"
  ],
  "Steel_466811": [
-  "not written"
+  "too long (352 > 330)"
  ],
  "The_Strokes_f2cfae": [
   "not written"
@@ -680,9 +680,6 @@
  "Lucifer_9bfbb6": [
   "not written"
  ],
- "State_polity_cc58a5": [
-  "not written"
- ],
  "Wernher_von_Braun_ebcf6b": [
   "not written"
  ],
@@ -872,11 +869,8 @@
  "Juan_Per_n_29f99c": [
   "not written"
  ],
- "Statistics_c33e40": [
-  "not written"
- ],
  "Tang_dynasty_f72ec3": [
-  "not written"
+  "too long (349 > 330)"
  ],
  "Seychelles_d2e444": [
   "not written"
@@ -1785,7 +1779,7 @@
   "not written"
  ],
  "Tax_4b78ac": [
-  "not written"
+  "too long (338 > 330)"
  ],
  "Sociality_cc7fea": [
   "not written"
@@ -2373,9 +2367,6 @@
   "not written"
  ],
  "History_of_Algeria_b46d64": [
-  "not written"
- ],
- "Swahili_9af95f": [
   "not written"
  ],
  "Hillary_Clinton_8714c0": [
@@ -3446,9 +3437,6 @@
  "Nonlinear_programming_d8fa93": [
   "not written"
  ],
- "Storm_fdcf3c": [
-  "not written"
- ],
  "Mu_awiya_I_03e1c0": [
   "not written"
  ],
@@ -3977,9 +3965,6 @@
  "SpongeBob_SquarePants_ada825": [
   "not written"
  ],
- "Strong_interaction_5f11ab": [
-  "not written"
- ],
  "Orlando_Florida_ba41f5": [
   "not written"
  ],
@@ -4452,9 +4437,6 @@
   "not written"
  ],
  "Raleigh_North_Carolina_44b716": [
-  "not written"
- ],
- "State_of_matter_d6c219": [
   "not written"
  ],
  "Peptide_7b3aaf": [
@@ -5987,9 +5969,6 @@
  "Tucker_Carlson_436cbd": [
   "not written"
  ],
- "Sumer_0f47b8": [
-  "not written"
- ],
  "Solomon_Islands_a573f4": [
   "not written"
  ],
@@ -6150,9 +6129,6 @@
   "not written"
  ],
  "Inheritance_e40489": [
-  "not written"
- ],
- "Sport_96faa3": [
   "not written"
  ],
  "Portland_Maine_d93108": [
@@ -6705,7 +6681,7 @@
   "not written"
  ],
  "Stone_Age_7c3801": [
-  "not written"
+  "too long (369 > 330)"
  ],
  "PNG_55505b": [
   "not written"
@@ -6998,9 +6974,6 @@
  "Militarism_122699": [
   "not written"
  ],
- "Sub_Saharan_Africa_0a82ae": [
-  "not written"
- ],
  "Las_Vegas_05c27b": [
   "not written"
  ],
@@ -7209,9 +7182,6 @@
   "not written"
  ],
  "Namibia_69f428": [
-  "not written"
- ],
- "Stroke_8e763d": [
   "not written"
  ],
  "Spooning_3ba247": [
@@ -7566,7 +7536,7 @@
   "not written"
  ],
  "Sun_ef6572": [
-  "not written"
+  "invalid crossrefs ['nuclear fusion', 'astronomical unit', 'solar wind']"
  ],
  "Social_reality_2ffcb3": [
   "not written"
@@ -8184,9 +8154,6 @@
   "not written"
  ],
  "Sewage_treatment_228125": [
-  "not written"
- ],
- "Substance_chemistry_6cf1f1": [
   "not written"
  ],
  "Turritopsis_dohrnii_071608": [
@@ -9057,7 +9024,7 @@
   "not written"
  ],
  "Swimming_7b7a04": [
-  "not written"
+  "invalid crossrefs ['buoyancy', 'viscosity']"
  ],
  "Rubaiyat_of_Omar_Khayyam_eba4af": [
   "not written"
@@ -10178,16 +10145,10 @@
  "Polytetrafluoroethylene_2ed8ce": [
   "not written"
  ],
- "Suicide_a704d9": [
-  "not written"
- ],
  "S_o_Francisco_River_718d1a": [
   "not written"
  ],
  "History_of_atheism_172f21": [
-  "not written"
- ],
- "Surgery_4cc2ab": [
   "not written"
  ],
  "Ur_32814f": [
@@ -11403,7 +11364,8 @@
   "not written"
  ],
  "Supernova_8776b7": [
-  "not written"
+  "too long (333 > 330)",
+  "invalid crossrefs ['white dwarf', 'neutron star', 'black hole']"
  ],
  "Human_penis_4a9957": [
   "not written"
@@ -12254,16 +12216,10 @@
  "Voynich_manuscript_8815d2": [
   "not written"
  ],
- "Steam_engine_5e1f28": [
-  "not written"
- ],
  "Rose_McGowan_8ae78d": [
   "not written"
  ],
  "Trust_sentiment_379eaf": [
-  "not written"
- ],
- "Sport_of_athletics_15af10": [
   "not written"
  ],
  "Protozoa_abf409": [
@@ -12285,9 +12241,6 @@
   "not written"
  ],
  "War_and_Peace_73f5a0": [
-  "not written"
- ],
- "Subatomic_particle_fb7bae": [
   "not written"
  ],
  "Lena_River_dc9c71": [
@@ -14100,9 +14053,6 @@
   "not written"
  ],
  "Spanish_conquest_of_the_Inca_Empire_4e3a94": [
-  "not written"
- ],
- "Tanzania_c03b11": [
   "not written"
  ],
  "PDF_bcd1b6": [
@@ -17171,9 +17121,6 @@
  "Rudolf_H_ss_726253": [
   "not written"
  ],
- "Taoism_31ae79": [
-  "not written"
- ],
  "Kardashian_family_cd13c7": [
   "not written"
  ],
@@ -18168,9 +18115,6 @@
   "not written"
  ],
  "Santorini_863b84": [
-  "not written"
- ],
- "Suleiman_the_Magnificent_d6bab3": [
   "not written"
  ],
  "Ring_Nebula_f8def2": [
@@ -21635,9 +21579,6 @@
  "Venezuela_e95294": [
   "not written"
  ],
- "Star_26f93e": [
-  "not written"
- ],
  "Noun_c284a2": [
   "not written"
  ],
@@ -22158,9 +22099,6 @@
   "not written"
  ],
  "Interpol_87419b": [
-  "not written"
- ],
- "Standard_Model_18bbbd": [
   "not written"
  ],
  "Shah_Jahan_a190c2": [
@@ -23481,7 +23419,7 @@
   "not written"
  ],
  "Sunni_Islam_8ede20": [
-  "not written"
+  "invalid crossrefs ['hadith']"
  ],
  "QWERTY_c3981f": [
   "not written"
@@ -24411,9 +24349,6 @@
   "not written"
  ],
  "Savanna_dcff87": [
-  "not written"
- ],
- "Sugar_f0dc7a": [
   "not written"
  ],
  "Least_squares_19fc02": [
