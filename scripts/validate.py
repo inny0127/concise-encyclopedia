@@ -15,7 +15,7 @@ HARD_MAX = {1: 600, 2: 600, 3: 330, 4: 180, 5: 110}
 SOFT_MIN = {1: 250, 2: 250, 3: 150, 4: 70, 5: 35}
 LINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
 # Proper names that contain a lowercase we/you/us/our; add more as they turn up.
-NAMES_WITH_PRONOUNS = ["Umkhonto we Sizwe", "Yo-Yo", "Tu Fu"]
+NAMES_WITH_PRONOUNS = ["Umkhonto we Sizwe", "Yo-Yo", "Tu Fu", "Mwene we Mutapa"]
 FORBIDDEN = [(re.compile(p, re.I), why) for p, why in [
     (r"wikipedia|grokipedia", "mentions source"),
     (r"\[\d+\]", "citation marker"),
