@@ -73,8 +73,8 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
-- Waves 1–49 condensed (all Sonnet groups `sonnet_000`–`099` are done, so Level 1–3 is complete; `haiku_000`–`389`; 10,749 of 15,000 entries). All pass
-  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `haiku_390`+ only (10 Haiku groups per wave, no Sonnet groups left).
+- Waves 1–54 condensed (all Sonnet groups `sonnet_000`–`099` are done, so Level 1–3 is complete; `haiku_000`–`439`; 11,999 of 15,000 entries). All pass
+  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `haiku_440`+ only (10 Haiku groups per wave, no Sonnet groups left).
   Cost is ~13k subagent tokens per Sonnet entry and ~8k per Haiku entry, about 120M for the book.
   Old pilot output is in `data/condensed_pilot_v1/`. Pilot titles are re-condensed in their normal groups.
   Per wave: launch 3 Sonnet + 7 Haiku agents in parallel. When they finish, run both checks. Hand flags to ONE
