@@ -1,0 +1,4 @@
+Dementia_488369 (t_087): English source fixed after translation; add the sentence 'Modifiable risk factors include smoking, obesity, hypertension, and diabetes.'
+Democracy_2bc694: English source fixed after translation: "...individual rights such as [[Freedom of speech]], freedom of association, political freedom, and the rule of law." Make the Korean match.
+Desert_000c01: English source fixed: stray fragment "solar energy]]" removed after "taken north." Remove it from the Korean if present.
+Avant_garde_d50fbc: English link [[Literature|literature]] was missing a bracket; make sure the Korean has a well-formed [[Literature|...]] link.
