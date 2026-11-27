@@ -1,0 +1,82 @@
+=== KEY: Mao_Zedong_882876
+HEADWORD: Mao Zedong
+PERSON: yes
+LINK TARGETS: 1911 Revolution | Chinese Communist Party | Cultural Revolution | Deng Xiaoping | Great Leap Forward | Kuomintang | Long March | Maoism
+ENTRY:
+Chinese revolutionary and political theorist, founder of the People's Republic of China (PRC) and its paramount leader from 1949 to 1976. Born to a peasant family in Shaoshan, Hunan, Mao was influenced by the [[1911 Revolution]] and in 1921 became a founding member of the [[Chinese Communist Party]] (CCP). In 1935 he became leader of the CCP during the [[Long March]], a retreat to the Yan'an Soviet in Shaanxi. The party allied with the [[Kuomintang]] in 1937, but civil war resumed after Japan's surrender in 1945. Mao defeated the Nationalist government, which withdrew to Taiwan in 1949, and on October 1, 1949, proclaimed the PRC from Tiananmen Square in Beijing.
+
+His government carried out land redistribution and industrialization campaigns, suppressed political opponents. From 1958 to 1962 he oversaw the [[Great Leap Forward]], which aimed to collectivize agriculture and industrialize the country and was followed by the Great Chinese Famine. In 1966 he launched the [[Cultural Revolution]], marked by violent class struggle and a cult of personality. Mao died in 1976 and was succeeded first by Hua Guofeng, then in 1978 by [[Deng Xiaoping]].
+
+His adaptation of Marxism–Leninism, known as Mao Zedong Thought or [[Maoism]], emphasized protracted people's war and peasant mobilization and has influenced communist movements worldwide.
+
+Assessments differ sharply. Critics describe his rule as a totalitarian regime responsible for tens of millions of deaths, mainly through famine, as well as political persecution. Supporters credit him with ending imperialism, consolidating the Chinese state, and promoting literacy, women's rights, basic healthcare, education, and life expectancy. Under his leadership the PRC replaced the Republic of China as a permanent member of the UN Security Council and became the fifth state to possess nuclear weapons.
+
+=== KEY: Maoism_a2ad75
+HEADWORD: Maoism
+PERSON: no
+LINK TARGETS: Chinese Communist Party | Communist Party of the Soviet Union | Cultural Revolution | Deng Xiaoping | Great Leap Forward | Joseph Stalin | Mao Zedong | Marxism–Leninism
+ENTRY:
+Variety of [[Marxism–Leninism]] developed by [[Mao Zedong]] for China, officially called Mao Zedong Thought. It stressed a united front of progressive forces leading revolution in pre-industrial societies and a mobilized peasant base. From the 1950s until [[Deng Xiaoping]]'s reform and opening up in the late 1970s, it was the ideology of the [[Chinese Communist Party]]. The [[Great Leap Forward]] led to famine in 1959–62, and the [[Cultural Revolution]] brought factional strife and persecution. After the Sino-Soviet split, the Chinese Communist Party and the [[Communist Party of the Soviet Union]] each claimed to be the sole heir of [[Joseph Stalin]].
+
+=== KEY: Map_46f3ea
+HEADWORD: Map
+PERSON: no
+LINK TARGETS: Age of Discovery | Akkadian Empire | Cartography | Geographic information system | Map projection | Mercator projection
+ENTRY:
+Representation or abstraction of geographic reality, the product of [[Cartography|cartography]]. Maps serve navigation, scientific research, governance, and warfare. Scientists use maps to organize spatial data in geology, meteorology, seismology, and demographics; governments use them for census work, electoral districts, taxation, and disaster relief; militaries use them for mission planning, logistics, and intelligence analysis.
+
+One of the earliest preserved maps, from the [[Akkadian Empire]] in modern Iraq, is inscribed on a clay tablet and dated to 2300 BCE. Ptolemy's *Geographia* offered systematic projections in the second century. Maps were important tools in the [[Age of Discovery]], when mariners used them to explore new lands. In the late 17th century thematic maps appeared, portraying data such as rainfall or population density rather than rivers, mountains, and cities. Computer cartography and [[Geographic information system|geographic information systems]], developed in the mid-20th century, allowed vast amounts of geographic data to be stored and dynamically displayed.
+
+Designing a map involves selecting and arranging graphical elements so that it is informative, useful, and uncluttered. Because available data often exceeds what can be shown, designers apply generalization to decide what to display and what to omit. Detail depends on map scale, the ratio between a distance on the map and the corresponding ground distance. Every [[Map projection|map projection]] introduces characteristic distortions; the [[Mercator projection]], developed in 1569 for sailing along lines of constant bearing, preserves direction but inflates high-latitude landmasses.
+
+Definitions of a map have widened over time. The cartographer Erwin Raisz in 1938 defined it as "a conventionalized picture of the Earth's pattern as seen from above, to which lettering is added for identification"; later definitions include digital and tactile media and depictions of things other than the Earth.
+
+=== KEY: Map_projection_c9fa64
+HEADWORD: Map projection
+PERSON: no
+LINK TARGETS: Globe | Mercator projection | United Nations | United States
+ENTRY:
+Systematic method of representing the curved surface of a [[Globe|globe]] on a flat plane. Every projection of a sphere onto a plane distorts the surface in some way, so each one preserves some properties, such as area, shape, direction or distance, at the expense of others. The purpose of the map determines which projection suits it, and the study of projections centers on characterizing their distortions. The best-known is the [[Mercator projection]], which preserves angles but enlarges regions far from the equator; it was criticized through the 20th century and revived in the 21st for online mapping. Equal-area projections, such as the Gall–Peters projection, show the correct sizes of countries relative to one another but distort angles. In September 2026 the [[United Nations]] resolved to promote equal-area projections, notably the Equal Earth projection; 164 countries voted in favor, the [[United States]] voted against, and six abstained.
+
+=== KEY: Maple_400450
+HEADWORD: Maple
+PERSON: no
+LINK TARGETS: Autumn | East Asia | Fruit | Leaf | North America
+ENTRY:
+Genus of trees and shrubs in the soapberry family Sapindaceae, commonly known as maples. It contains approximately 132 species, most native to [[East Asia]], with others in Europe, northern Africa and [[North America]]. Most species are trees growing 10 to 45 m (33 to 148 ft) tall, while others are shrubs less than 10 m tall. Most species have palmate [[Leaf|leaves]], though a few exceptions exist, and all share distinctive winged [[Fruit|fruits]]. Maples are distinguished by their opposite leaf arrangement, and most species are deciduous. Many are grown in gardens for their [[Autumn|autumn]] color and decorative foliage. Maple syrup is made from the sap of some species. The closest relative of the maples is the small east Asian genus Dipteronia.
+
+=== KEY: Mapuche_031c67
+HEADWORD: Mapuche
+PERSON: no
+LINK TARGETS: Argentina | Chile | Patagonia | Textile
+ENTRY:
+Indigenous people of south-central [[Chile]] and southwestern [[Argentina]], including parts of [[Patagonia]]. Also known as Araucanians, they share a common social, religious and economic structure and the Mapudungun language. Traditional life centered on agriculture, and their material culture is known for [[Textile|textiles]] and silverwork. Mapuche society in Araucanía and Patagonia remained independent until the late 19th century, when Chile occupied Araucanía and Argentina conquered the Puelmapu. Today the Mapuche make up 77.16% of Chile's Indigenous peoples, and many communities are engaged in the Mapuche conflict over land and Indigenous rights.
+
+=== KEY: Maputo_0218a7
+HEADWORD: Maputo
+PERSON: no
+LINK TARGETS: Art Deco | Bauhaus | Indian Ocean | Mozambique | Port | South Africa
+ENTRY:
+Capital and largest city of [[Mozambique]] (pop., 2017: 1,088,449). It lies on a large natural bay of the [[Indian Ocean]], within 120 kilometers of the borders with Eswatini and [[South Africa]]. It is a [[Port|port]] city with an economy centered on commerce, and its chief exports include cotton, sugar, chromite, sisal, copra and hardwood. The area was first settled by ancestral Tsonga people as a fishing village and was named Lourenço Marques, after a navigator who explored it in 1544; the name was used until 1976. Known as the City of Acacias and the Pearl of the Indian Ocean, Maputo has architecture that mixes Portuguese colonial styles with [[Art Deco|art deco]], [[Bauhaus]] and Brutalist buildings. Eduardo Mondlane University, the oldest in the country, is located there.
+
+=== KEY: Maracaibo_3980f7
+HEADWORD: Maracaibo
+PERSON: no
+LINK TARGETS: Caracas | Lake Maracaibo | Petroleum | Venezuela
+ENTRY:
+City and municipality in northwestern [[Venezuela]], capital of Zulia state (pop., 2019: 1,752,602). It is the second-largest city proper in Venezuela, after [[Caracas]], and is considered the economic center of western Venezuela because of the [[Petroleum|petroleum]] industry along the shores of [[Lake Maracaibo]]. The city was founded in 1574 as Nueva Zamora de la Laguna de Maracaibo, after two earlier attempts. It became a key transshipment point for inland settlements after pirates destroyed Gibraltar, at the head of the lake, in 1669. The discovery of petroleum in 1917 led to rapid population growth. It is sometimes called the First City of Venezuela for being the first to adopt various public services, including electricity.
+
+=== KEY: Maraj_e11972
+HEADWORD: Marajó
+PERSON: no
+LINK TARGETS: Amazon River | South America | Surfing | Switzerland | Water buffalo
+ENTRY:
+Large coastal island in the Brazilian state of Pará, at the mouth of the [[Amazon River|Amazon]]. It is the main island of the Marajó Archipelago, the second-largest island in [[South America]] and the 35th largest in the world. Its land area of 40,100 square kilometers (15,500 mi2) is comparable to [[Switzerland]]. The island was the site of the Marajoara culture, which lasted from about 400 BC to 1600 AD and may have numbered more than 100,000 people at its peak. It is known today for its [[Water buffalo|water buffalo]], which number about 450,000, and for the pororoca, a tidal bore whose waves reach 4 m (13 ft) and attract [[Surfing|surfers]]. Much of the island floods in the rainy season, and its rivers are the principal means of transport.
+
+=== KEY: Maratha_Empire_1b52ce
+HEADWORD: Maratha Empire
+PERSON: no
+LINK TARGETS: East India Company | Mughal Empire | Pune | Shivaji
+ENTRY:
+Early modern confederacy in the Indian subcontinent, founded in 1674 under [[Shivaji]] and largely destroyed by 1818. For most of its existence it comprised the realms of the Peshwa, the hereditary prime minister based at Poona (now [[Pune]]), and four major Maratha states: the Scindia, Gaekwad, Holkar and Bhonsle families. Shivaji revolted against the Bijapur Sultanate and the [[Mughal Empire]], and under Peshwa Bajirao I the Maratha realm expanded into northern and central India. Defeat at Panipat in 1761 halted the expansion, though most lost territory was regained under Peshwa Madhavrao I. The confederacy was broken after the Second and Third Anglo-Maratha Wars, in which the [[East India Company|British East India Company]] intervened. Historians debate whether empire or confederacy is the right term, since power among its leaders often shifted.
+
