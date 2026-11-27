@@ -1,6 +1,14 @@
-"""Assemble condensed entries + metadata into book/entries.json and compile the PDF.
+"""Assemble condensed entries + metadata and compile the book as print PDFs.
 
-Usage: python build_book.py [--out book/pilot.pdf]
+The book is split into volumes at letter boundaries of roughly equal length (book/vol1.pdf ...).
+Homographs (same headword) are numbered Bar¹, Bar² in a stable order: level, then key.
+The last volume ends with an index of every headword with its volume and page; page numbers
+come from a first compile of each volume (Typst query on <idx> metadata).
+
+Usage: python build_book.py [--volumes 3] [--light] [--only 2]
+  --volumes N   number of volumes (1 builds a single book)
+  --light       small images for phone/email viewing (writes book/vol*_light.pdf)
+  --only K      rebuild only volume K (the index is skipped unless K is the last volume)
 """
 import json
 import re
@@ -23,14 +31,37 @@ MONTHS = "January February March April May June July August September October No
 TOKEN = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]|\*([^*]+)\*")
 
 
+IMAGE_CAP = 2000  # roughly one image per page; the policy alone would pick about 6,000
+IMAGE_CATEGORIES = {"Geography", "Biology and health sciences", "Arts", "Technology"}
+_IMAGE_KEYS = None
+
+
+def image_eligible(src):
+    """Policy: core topics (Level 1-3) always; Level 4 people and visual subjects compete for the rest."""
+    if not (src.get("image") and src["image"].get("url")):
+        return False
+    return src["level"] <= 3 or (src["level"] == 4 and (src.get("person") or src["category"] in IMAGE_CATEGORIES))
+
+
+def image_keys():
+    """Keys of the entries that get an image: all eligible Level 1-3, then Level 4 by pageviews, up to IMAGE_CAP."""
+    global _IMAGE_KEYS
+    if _IMAGE_KEYS is None:
+        views = {}
+        for f in (ROOT / "data" / "pageviews").glob("*.json"):
+            for title, n in json.loads(f.read_text(encoding="utf-8")).items():
+                views[title] = views.get(title, 0) + n
+        cands = []
+        for f in SOURCES.glob("*.json"):
+            src = json.loads(f.read_text(encoding="utf-8"))
+            if image_eligible(src):
+                cands.append((src["level"] > 3, -views.get(src["title"], 0), src["key"]))
+        _IMAGE_KEYS = {k for _, _, k in sorted(cands)[:IMAGE_CAP]}
+    return _IMAGE_KEYS
+
+
 def show_image(src):
-    """Image policy: core topics always, people and level-4 visual subjects when available."""
-    if src["level"] <= 3:
-        return True
-    if src["level"] == 4 and (src.get("person") or src["category"] in
-                              {"Geography", "Biology and health sciences", "Arts", "Technology"}):
-        return True
-    return False
+    return src["key"] in image_keys()
 
 
 def fmt_date(d):
@@ -110,38 +141,109 @@ def sort_letter(sort_key):
     return c if c.isalpha() else "#"
 
 
-def main():
-    out_pdf = BOOK / "pilot.pdf"
-    if "--out" in sys.argv:
-        out_pdf = ROOT / sys.argv[sys.argv.index("--out") + 1]
-    IMG_OUT.mkdir(parents=True, exist_ok=True)
-    sources = {json.loads(p.read_text(encoding="utf-8"))["key"]: json.loads(p.read_text(encoding="utf-8"))
-               for p in SOURCES.glob("*.json")}
-    entries, credits = [], []
+ROMAN = ["", "I", "II", "III", "IV", "V", "VI"]
+
+
+def arg(name, default):
+    return sys.argv[sys.argv.index(name) + 1] if name in sys.argv else default
+
+
+def collect():
+    sources = {}
+    for p in SOURCES.glob("*.json"):
+        src = json.loads(p.read_text(encoding="utf-8"))
+        sources[src["key"]] = src
+    entries = []
     for f in DONE.glob("*.json"):
         for e in json.loads(f.read_text(encoding="utf-8")):
             src = sources.get(e["key"])
             if not src:
                 continue
             paras = [segments(p.strip()) for p in e["entry"].split("\n\n") if p.strip()]
-            item = {"head": e["headword"].strip(), "sort": e["sort_key"].lower().strip(),
-                    "dates": life_dates(src.get("person")), "paras": paras, "image": None}
+            item = {"head": e["headword"].strip(), "sort": e["sort_key"].lower().strip(), "hom": 0,
+                    "level": src["level"], "key": e["key"], "words": len(e["entry"].split()),
+                    "dates": life_dates(src.get("person")), "paras": paras, "image": None, "credit": None}
             img = src.get("image")
-            if img and img.get("path") and show_image(src):
+            if img and img.get("path") and (IMG_IN / img["path"]).exists() and show_image(src):
                 item["image"] = prep_image(img["path"], e["key"])
                 if item["image"]:
-                    credits.append({"head": item["head"], "artist": img.get("artist") or "Unknown",
-                                    "license": img.get("license") or "see Wikimedia Commons"})
+                    item["credit"] = {"artist": img.get("artist") or "Unknown",
+                                      "license": img.get("license") or "see Wikimedia Commons"}
             entries.append(item)
-    entries.sort(key=lambda x: (x["sort"], x["head"]))
+    return entries
+
+
+def number_homographs(entries):
+    groups = {}
+    for e in entries:
+        groups.setdefault(e["head"], []).append(e)
+    for same in groups.values():
+        if len(same) > 1:
+            for i, e in enumerate(sorted(same, key=lambda x: (x["level"], x["key"])), 1):
+                e["hom"] = i
+
+
+def split_volumes(entries, n):
+    """Cut at letter boundaries so each volume has about the same amount of text and images."""
+    weight = [e["words"] + (90 if e["image"] else 0) for e in entries]
+    total, cuts, run = sum(weight), [], 0
+    starts = [i for i, e in enumerate(entries) if i == 0 or e["letter"] != entries[i - 1]["letter"]]
+    for k in range(1, n):
+        target = total * k / n
+        best = min(starts, key=lambda i: abs(sum(weight[:i]) - target))
+        cuts.append(best)
+    bounds = [0] + sorted(set(cuts)) + [len(entries)]
+    return [entries[a:b] for a, b in zip(bounds, bounds[1:])]
+
+
+def compile_volume(name, data, out_pdf):
+    (BOOK / f"{name}.json").write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+    inputs = {"data": f"{name}.json"}
+    typst.compile(str(BOOK / "main.typ"), output=str(out_pdf), root=str(ROOT), sys_inputs=inputs)
+    found = json.loads(typst.query(str(BOOK / "main.typ"), "<idx>", field="value", root=str(ROOT), sys_inputs=inputs))
+    print("wrote", out_pdf.relative_to(ROOT), flush=True)
+    return found
+
+
+def main():
+    n_vol = int(arg("--volumes", 3))
+    only = int(arg("--only", 0))
+    IMG_OUT.mkdir(parents=True, exist_ok=True)
+    entries = collect()
+    entries.sort(key=lambda x: (x["sort"], x["head"], x["level"], x["key"]))
     for e in entries:
         e["letter"] = sort_letter(e["sort"])
-    credits.sort(key=lambda c: c["head"])
-    (BOOK / "entries.json").write_text(json.dumps({"entries": entries, "credits": credits},
-                                                  ensure_ascii=False), encoding="utf-8")
-    print(f"{len(entries)} entries, {sum(1 for e in entries if e['image'])} images")
-    typst.compile(str(BOOK / "main.typ"), output=str(out_pdf), root=str(ROOT))
-    print("wrote", out_pdf)
+    number_homographs(entries)
+    vols = split_volumes(entries, n_vol)
+    print(f"{len(entries)} entries, {sum(1 for e in entries if e['image'])} images, "
+          f"{sum(1 for e in entries if e['hom'])} numbered homographs", flush=True)
+    suffix = "_light" if LIGHT else ""
+    pages = []  # (head, hom, sort, volume, page)
+    for i, vol in enumerate(vols, 1):
+        first, last = (e["letter"] for e in (vol[0], vol[-1]))
+        first = "A" if first == "#" else first  # entries starting with a digit (100 meters) open volume I
+        span = first if first == last else f"{first}\u2013{last}"
+        credits = sorted(({"head": e["head"], "hom": e["hom"], **e["credit"]} for e in vol if e["credit"]),
+                         key=lambda c: c["head"])
+        data = {"title": "A Concise Encyclopedia",
+                "volume": f"Volume {ROMAN[i]}" if n_vol > 1 else "",
+                "span": span if n_vol > 1 else "", "entries": vol, "credits": credits, "index": []}
+        name = f"vol{i}{suffix}" if n_vol > 1 else f"book{suffix}"
+        print(f"{data['volume'] or 'Book'} {span}: {len(vol)} entries", flush=True)
+        last_vol = i == n_vol
+        if only and i != only and not (only == n_vol and not last_vol):
+            continue
+        if only and i != only:  # rebuilding the last volume: earlier volumes are only queried for page numbers
+            (BOOK / f"{name}.json").write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+            found = json.loads(typst.query(str(BOOK / "main.typ"), "<idx>", field="value", root=str(ROOT),
+                                           sys_inputs={"data": f"{name}.json"}))
+        else:
+            found = compile_volume(name, data, BOOK / f"{name}.pdf")
+        pages += [(f["h"], f["n"], f["s"], ROMAN[i] if n_vol > 1 else "", f["p"]) for f in found]
+        if last_vol:
+            data["index"] = [{"h": h, "n": hn, "v": v, "p": p}
+                             for h, hn, srt, v, p in sorted(pages, key=lambda x: (x[2], x[0], x[1]))]
+            compile_volume(name, data, BOOK / f"{name}.pdf")
 
 
 if __name__ == "__main__":

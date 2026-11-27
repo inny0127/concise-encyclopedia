@@ -1,5 +1,5 @@
 // Concise Encyclopedia: B5 two-column layout.
-#let data = json("entries.json")
+#let data = json(sys.inputs.at("data", default: "entries.json"))
 #let col-width = (176mm - 18mm - 14mm - 5mm) / 2
 #let max-img-height = 40mm
 
@@ -19,9 +19,13 @@
     #v(10mm)
     #line(length: 40%, stroke: 0.6pt)
     #v(6mm)
+    #if data.at("volume", default: "") != "" [
+      #text(size: 14pt, weight: "bold")[#data.volume]\
+      #v(2mm)
+      #text(size: 13pt)[#data.span]
+      #v(6mm)
+    ]
     #text(size: 11pt, style: "italic")[#data.entries.len() entries]
-    #v(70mm)
-    #text(size: 9pt)[Pilot edition]
   ]
 ]
 
@@ -87,7 +91,8 @@
   #for (i, p) in e.paras.enumerate() {
     if i == 0 {
       par(first-line-indent: 0pt)[
-        #text(weight: "bold", size: 9.2pt)[#e.head]#metadata(e.head)<entry>
+        #let hom = e.at("hom", default: 0)
+        #text(weight: "bold", size: 9.2pt)[#e.head#if hom > 0 { super(str(hom)) }]#metadata(e.head)<entry>#context [#metadata((h: e.head, n: hom, s: e.sort, p: counter(page).get().first()))<idx>]
         #if e.dates != "" [ #e.dates]
         #h(0.25em)#run(p)
       ]
@@ -104,11 +109,29 @@
   entry(e)
 }
 
+// ---------- Index (last volume) ----------
+#let index = data.at("index", default: ())
+#if index.len() > 0 {
+  pagebreak()
+  set page(columns: 4, header: none)
+  set columns(gutter: 3.5mm)
+  place(top, float: true, scope: "parent", block(width: 100%, below: 4mm)[
+    #text(size: 12pt, weight: "bold")[Index of entries]
+    #h(1fr) #text(size: 7pt, style: "italic")[Volume and page]
+  ])
+  set text(size: 6pt)
+  set par(justify: false, spacing: 0.2em, hanging-indent: 0.8em)
+  for x in index [
+    #x.h#if x.n > 0 { super(str(x.n)) } #h(1fr) #x.v~#x.p\
+  ]
+}
+
 // ---------- Image credits ----------
 #pagebreak()
+#set page(columns: 1)
 #block(width: 100%)[#text(size: 12pt, weight: "bold")[Image credits]]
 #set text(size: 6.5pt)
 #set par(justify: false, spacing: 0.35em)
 #for c in data.credits [
-  #text(weight: "bold")[#c.head]: #c.artist (#c.license)\
+  #text(weight: "bold")[#c.head#if c.at("hom", default: 0) > 0 { super(str(c.hom)) }]: #c.artist (#c.license)\
 ]

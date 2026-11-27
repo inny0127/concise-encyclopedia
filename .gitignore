@@ -8,3 +8,5 @@ book/*.pdf
 book/entries.json
 data/pageviews/
 data/redirects.json
+book/vol*.json
+book/book*.json
