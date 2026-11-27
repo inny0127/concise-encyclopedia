@@ -104,6 +104,19 @@ All four original steps are done (2026-11-27):
 Possible follow-ups: proofread a sample of pages; decide whether the headword index is worth its ~45 pages;
 cover/title design; rotate the Wikimedia OAuth token (no longer needed).
 
+## Korean edition (pilot, 2026-11-27)
+
+- `style_guide_ko.md` (rules), `data/ko/glossary.json` (845 pilot terms from one Sonnet agent), `data/ko/PROMPT_ko.md`
+  (translator prompt), `scripts/check_ko.py` (numbers incl. 만/억 and ranges, links, italics, polite endings),
+  `scripts/build_book_ko.py` + `book/main_ko.typ` (가나다 order, ㄱㄴㄷ dividers, Noto Serif KR in `fonts/`, gitignored:
+  download from github.com/notofonts/noto-cjk Serif/SubsetOTF/KR).
+- Pilot: 157 entries, Haiku (all) and Sonnet (pilot_0, 49) -> `book/ko_pilot_haiku.pdf` (28 pp.), `ko_pilot_sonnet.pdf`.
+  Both pass check_ko.py. Sonnet reads more naturally; tokens per entry: Sonnet ~2.7k, Haiku ~5.2k (Haiku agents wrote
+  helper scripts and reread the whole glossary).
+- Lessons for a full run: give each group only its own glossary subset; glossary must also cover proper nouns inside
+  the text (e.g. "palace examination" = 전시, not 궁정 시험) and senses (Monopoly economics vs game, Chalk stick vs rock);
+  link display text should translate the English display text, the glossary fixes only name spellings.
+
 ## Notes
 
 - Wikipedia's Vital Articles pages live at `Wikipedia:Vital articles/Level N/...` (with a space). The
