@@ -80,6 +80,8 @@ def fix_text(text, changes):
 def fix_plain(s, changes):
     def rep(m):
         w = m.group(0)
+        if re.search(r"British spelling (is|was)\s*$", s[:m.start()]):  # "The British spelling is armour."
+            return w
         if w in WORDS:
             changes.append(f"{w}->{WORDS[w]}")
             return WORDS[w]
