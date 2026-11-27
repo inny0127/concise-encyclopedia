@@ -49,7 +49,8 @@ def image_keys():
     global _IMAGE_KEYS
     if _IMAGE_KEYS is None:
         views = {}
-        for f in (ROOT / "data" / "pageviews").glob("*.json"):
+        # Level 1-4 views come from pageviews_core.py (select_final.py fetched Level 5 only)
+        for f in [*(ROOT / "data" / "pageviews_core").glob("*.json"), *(ROOT / "data" / "pageviews").glob("*.json")]:
             for title, n in json.loads(f.read_text(encoding="utf-8")).items():
                 views[title] = views.get(title, 0) + n
         cands = []
