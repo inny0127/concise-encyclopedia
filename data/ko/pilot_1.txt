@@ -1,0 +1,302 @@
+=== KEY: Estrogen_a9ece1
+LEVEL: 4  PERSON: no
+HEADWORD: Estrogen
+ENTRY:
+Category of steroid sex hormones that regulate the female reproductive system and secondary sex characteristics. The three major endogenous estrogens are estrone (E1), estradiol (E2) and estriol (E3); estradiol is the most potent and prevalent. Estetrol (E4) is produced only during pregnancy. Estrogens bind to estrogen receptors inside cells, which modulate the expression of many genes, and also activate membrane receptors such as GPER. They are synthesized from [[Testosterone|testosterone]] and other androgens by the [[Enzyme|enzyme]] aromatase. Estrogens are used as medications in [[Menopause|menopausal]] hormone therapy and hormonal birth control. Synthetic and natural estrogens found in the environment, known as xenoestrogens, are among the endocrine-disrupting compounds that can cause reproductive dysfunction in wildlife and humans. In both sexes, circulating levels of estrogen are lower than those of androgens.
+
+=== KEY: Euclidean_algorithm_bea54b
+LEVEL: 4  PERSON: no
+HEADWORD: Euclidean algorithm
+ENTRY:
+Efficient [[Algorithm|algorithm]] for computing the greatest common divisor of two [[Integer|integers]]. Named after the ancient Greek mathematician [[Euclid]], who described it in his *Elements* (c. 300 BC), it is one of the oldest algorithms in common use. It rests on the principle that the greatest common divisor does not change if the larger number is replaced by its remainder when divided by the smaller. Repeating this produces smaller pairs until the remainder is zero. The number of steps never exceeds five times the number of base-10 digits of the smaller integer, a result proven by Gabriel Lamé in 1844 that marks the beginning of [[Computational complexity theory|computational complexity theory]]. The algorithm reduces fractions, performs division in [[Modular arithmetic|modular arithmetic]], helps solve [[Diophantine equation|Diophantine equations]] and forms part of the cryptographic protocols that secure the [[Internet]].
+
+=== KEY: Euler_s_formula_01a543
+LEVEL: 4  PERSON: no
+HEADWORD: Euler's formula
+ENTRY:
+Mathematical formula in [[Complex analysis|complex analysis]] linking the trigonometric functions with the complex exponential function. For any real number x, eⁱˣ = cos x + i sin x, where e is the base of the natural logarithm and i is the [[Imaginary unit|imaginary unit]]. [[Leonhard Euler]] presented it in his 1748 treatise *Introductio in analysin infinitorum*. The formula remains valid when x is complex, and it is used throughout mathematics, physics, chemistry and engineering. Physicist [[Richard Feynman]] called it "our jewel" and "the most remarkable formula in mathematics". Setting x = π yields [[Euler's identity]].
+
+=== KEY: Extended_family_bc9d75
+LEVEL: 4  PERSON: no
+HEADWORD: Extended family
+ENTRY:
+Family that extends beyond the [[Nuclear family|nuclear family]] to include aunts, uncles, grandparents, cousins and other relatives, living nearby or in the same household. A stem family, first discussed by Frédéric Le Play, has parents living with one child, that child's spouse and their children, while other children leave or remain unmarried. Stem families are associated with unequal inheritance in [[Japan|Japan]] and [[Korea|Korea]], while in traditional [[Romania|Romania]] and northeastern [[Thailand|Thailand]] the child who cares for the parents usually receives the house. Extended families often form support networks even when living apart, and [[Facebook|Facebook]] is commonly used to maintain these ties. An estimated 49 million Americans, or 16.1 percent of the total population, live in homes with three or more generations, up from 42 million in 2000.
+
+=== KEY: French_and_Indian_War_d8c27e
+LEVEL: 4  PERSON: no
+HEADWORD: French and Indian War
+ENTRY:
+North American theater of the [[Seven Years' War]], fought from 1754 to 1763 between Great Britain and France with their Indigenous allies. Historians generally treat it as part of the global Seven Years' War, but in the United States it is often viewed as a distinct conflict. It began in May 1754 at the Battle of Jumonville Glen, when Virginia militia led by [[George Washington]] ambushed a French patrol. Edward Braddock's expedition was defeated at the Battle of the Monongahela in 1755, and Britain captured [[Quebec]] in 1759 and Montreal the following year. The Treaty of Paris in 1763 transferred France's Canadian possessions and its claims east of the [[Mississippi River]] to Britain. Spain received French Louisiana west of the river, and France retained only [[Saint Pierre and Miquelon]].
+
+=== KEY: Friedrich_Nietzsche_4292c3
+LEVEL: 4  PERSON: yes
+HEADWORD: Nietzsche, Friedrich
+ENTRY:
+German philosopher and classical philologist. In 1869, at age 24, he became professor of classical philology at the University of [[Basel]], but ill health forced him to resign in 1879. He then worked as an independent writer, moving between Switzerland, Italy and southern France. His mature works include *Thus Spoke Zarathustra*, *Beyond Good and Evil* and *On the Genealogy of Morality*. He critiqued objective truth in favor of perspectivism, attacked Christian morality as a slave morality, and developed the concepts of the *Übermensch*, the will to power and eternal return. After a neurological collapse in 1889 he was cared for by his mother and then his sister. Elisabeth Förster-Nietzsche edited his unpublished writings to fit her ultranationalist ideology, and his work became associated with fascism and [[Nazism]]. Twentieth-century scholars such as Walter Kaufmann defended his original views, and his influence spans [[Existentialism|existentialism]] and [[Postmodernism|postmodernism]].
+
+=== KEY: Fritz_Lang_349840
+LEVEL: 4  PERSON: yes
+HEADWORD: Lang, Fritz
+ENTRY:
+Austrian-born film director. Lang worked in Germany and later in the United States. His science-fiction film *Metropolis* (1927) and the early film noir *M* (1931) are among his best-known works. His 1929 film *Woman in the Moon* showcased a multi-stage [[Rocket|rocket]] and pioneered the rocket-launch countdown clock. Born in [[Vienna]], he served in the Austrian army in [[World War I]]. Lang fled Nazi Germany in 1933 after a meeting with Propaganda Minister [[Joseph Goebbels|Joseph Goebbels]], who had offered him a position in the state film industry. In Hollywood he directed *Fury* (1936) and *The Big Heat* (1953). He became a naturalized United States citizen in 1939 and returned to Germany in the late 1950s.
+
+=== KEY: German_literature_62fc8a
+LEVEL: 4  PERSON: no
+HEADWORD: German literature
+ENTRY:
+Literary works written in the German language. Medieval works include the *Hildebrandslied*, the heroic epic *Heliand*, and courtly epics such as the *Nibelungenlied*. [[Martin Luther]]'s Bible translation, published between 1522 and 1534, helped standardize Modern High German. Modern German literature began with Enlightenment authors such as Herder, and Goethe's best-selling *The Sorrows of Young Werther* (1774) ended the Sensibility movement. [[Johann Wolfgang von Goethe|Goethe]] and [[Friedrich Schiller|Schiller]] led the Sturm und Drang and Weimar Classicism movements, and [[Romanticism|German Romanticism]] dominated the late 18th and early 19th centuries. Under the Nazi regime, some authors went into exile and others practiced "internal emigration". German-language authors have won the Nobel Prize in Literature 14 times, including [[Thomas Mann]] and [[Hermann Hesse]].
+
+=== KEY: Gneiss_331e68
+LEVEL: 4  PERSON: no
+HEADWORD: Gneiss
+ENTRY:
+Common high-grade [[Metamorphic rock|metamorphic rock]] with a banded texture. It forms when [[Igneous rock|igneous]] or [[Sedimentary rock|sedimentary rocks]] are subjected to high temperature and pressure, ranging from 2 to 15 kbar, sometimes more, and temperatures over 300 °C. Gneiss nearly always shows alternating darker and lighter bands and lacks a distinct cleavage. The darker bands contain more mafic minerals, rich in magnesium and iron, while the lighter bands contain more felsic minerals such as [[Feldspar|feldspar]] and [[Quartz|quartz]]. Gneisses are common in the ancient crust of continental shields, and some of the oldest rocks on Earth are gneisses, such as the Acasta Gneiss.
+
+=== KEY: Google_Search_6741a0
+LEVEL: 5  PERSON: no
+HEADWORD: Google Search
+ENTRY:
+[[Search engine]] operated by [[Google]]. Launched in 1998 as the company's first product, it was mostly developed by [[Larry Page]] and [[Sergey Brin]]. Users enter keywords into a search box, and results are indexed by PageRank and other proprietary [[Algorithm|algorithms]]. Since the 2020s it has been integrated with [[Generative AI|generative AI]] features such as AI Overviews and AI Mode. Google.com is the most-visited [[Website|website]] in the world, with an estimated 90% share of the global search-engine market as of 2026. In 2024 a U.S. federal court ruled in *United States v. Google LLC* that the company held an illegal [[Monopoly|monopoly]] over internet search and search advertising.
+
+=== KEY: Ground_tissue_432dbb
+LEVEL: 4  PERSON: no
+HEADWORD: Ground tissue
+ENTRY:
+Category of plant tissues that are neither dermal nor [[Vascular tissue|vascular]], forming the bulk of the plant body. Ground tissue is one of three main tissue systems, alongside the protective and vascular systems, and it provides structural support, storage, metabolic activity and [[Photosynthesis|photosynthesis]]. Its cells are classified by their [[Cell wall|cell walls]]. Parenchyma cells have thin primary walls, usually remain alive at maturity and form the filler tissue of soft parts; they store starch in roots, [[Potato|tubers]] and [[Cereal|cereal]] seed endosperm, and their large central [[Vacuole|vacuoles]] store water and ions. Collenchyma cells provide extra support in regions of new growth. Sclerenchyma cells have thick lignified walls, often die at maturity and provide the main structural support. Aerenchyma, with large air cavities, helps aquatic plants float.
+
+=== KEY: Guernica_Picasso_8ca2c1
+LEVEL: 4  PERSON: no
+HEADWORD: Guernica
+ENTRY:
+Large 1937 anti-war [[Oil painting|oil painting]] by Spanish artist [[Pablo Picasso|Pablo Picasso]]. Picasso painted *Guernica* in Paris in response to the April 26, 1937, bombing of the Basque town of Guernica by aircraft of [[Nazi Germany|Nazi Germany]]'s Condor Legion and the fascist government of Italy, during the [[Spanish Civil War|Spanish Civil War]]. The gray, black and white canvas, 3.49 m by 7.76 m, shows grieving women, a gored horse, a bull, a dead dove, a dead baby and flames. Many art critics regard it as the most moving and powerful anti-war painting in history. It was shown at the Spanish pavilion of the 1937 Paris International Exposition and then toured to raise funds for Spanish war relief. It is now housed in the Museo Reina Sofía in [[Madrid|Madrid]].
+
+=== KEY: Gustavus_Adolphus_de0c7b
+LEVEL: 4  PERSON: yes
+HEADWORD: Gustavus Adolphus
+ENTRY:
+[[Sweden|King of Sweden]] (1611–1632), credited with raising Sweden to the rank of a great European power. Born in [[Stockholm]], he came to the throne at age 16, inheriting wars with Russia and Denmark–Norway and a dynastic struggle with his cousin [[Sigismund III Vasa]] of Poland. He is regarded as one of the greatest military commanders in modern history. He employed mobile artillery and aggressive tactics, and he is often called the father of modern warfare. He was the main figure in Swedish success in the [[Thirty Years' War]], winning the Battle of Breitenfeld in 1631, and he was killed at the Battle of Lützen the following year. He reformed administration, including parish registration, so that the government could tax and conscript more efficiently.
+
+=== KEY: Gwanggaeto_the_Great_3ef2eb
+LEVEL: 4  PERSON: yes
+HEADWORD: Gwanggaeto the Great
+ENTRY:
+Nineteenth monarch of Goguryeo. He took the title Taewang, equivalent to "emperor", placing Goguryeo on equal standing with the imperial dynasties of China. Under him Goguryeo became one of the great powers of [[East Asia]]. In 396 he defeated Baekje, then the most powerful of the [[Three Kingdoms of Korea]], and captured its capital, Wiryeseong, in present-day [[Seoul]]. In 399 he dispatched 50,000 troops to aid Silla, which became a de facto protectorate. His western campaigns defeated the Xianbei of the Later Yan empire and conquered the Liaodong peninsula, and his conquests extended into [[Manchuria]] and [[Inner Mongolia]]. His achievements are recorded on the Gwanggaeto Stele, erected in 414 by his son Jangsu near the supposed site of his tomb in Ji'an, on the China–North Korea border. It is the largest engraved stele in the world.
+
+=== KEY: Halal_145343
+LEVEL: 4  PERSON: no
+HEADWORD: Halal
+ENTRY:
+Arabic term for what is permissible under [[Sharia|Islamic law]]. Although the term is often associated with dietary laws, particularly the slaughter of meat, halal also governs business and finance, such as the prohibition of usury (riba), and daily living. In the [[Quran|Quran]], halal is contrasted with [[Haram|haram]], meaning forbidden. Islam generally considers all food halal unless it is specifically prohibited in the Quran or [[Hadith|hadith]], and pork is the only meat that is categorically forbidden. Halal has grown into a global industry, with certification bodies serving the food, pharmaceutical, [[Cosmetics|cosmetic]] and financial sectors. The halal economy has grown especially in countries with large Muslim populations, such as Malaysia, Indonesia and the [[Middle East|Middle East]].
+
+=== KEY: Hanoi_4187c4
+LEVEL: 4  PERSON: no
+HEADWORD: Hanoi
+ENTRY:
+[[Capital city|Capital]] and second-most populous city of [[Vietnam]] (pop., 2023: 8,587,141). Hanoi covers 3,358.6 sq km and houses the National Assembly and the presidential palace. Founded in 1010 by the Lý dynasty emperor Lý Thái Tổ as Thăng Long, it was renamed Đông Kinh in 1428 and became Hanoi in 1831. It was the capital of [[French Indochina]] from 1902 to 1945 and became the capital of the unified Socialist Republic of Vietnam in 1976. Sites include the Imperial Citadel of Thăng Long, the [[Ho Chi Minh]] Mausoleum and Hoàn Kiếm Lake. [[UNESCO]] designated Hanoi a City of Peace in 1999.
+
+=== KEY: Hans_Krebs_biochemist_2e32de
+LEVEL: 4  PERSON: yes
+HEADWORD: Krebs, Hans
+ENTRY:
+German-born British biochemist. Krebs was a pioneer in the study of [[Cellular respiration|cellular respiration]], the process by which cells extract energy from food and oxygen. With Kurt Henseleit, he discovered the urea cycle, the metabolic pathway for urea formation, while at Freiburg in 1932. He is best known for the [[Citric acid cycle|citric acid cycle]], often called the Krebs cycle, which lets oxygen-respiring cells obtain far more ATP from food than [[Glycolysis|glycolysis]] can supply. That work earned him the 1953 Nobel Prize in Physiology or Medicine. Nazi racial laws ended his career in Germany, and he settled in England, working at [[Oxford]] from 1954 until his retirement in 1967. He was knighted in 1958.
+
+=== KEY: Heterosexuality_addb0d
+LEVEL: 4  PERSON: no
+HEADWORD: Heterosexuality
+ENTRY:
+Romantic attraction, sexual attraction or sexual behavior between people of the opposite sex or gender. As a [[Sexual orientation|sexual orientation]], it is one of three main categories along with [[Bisexuality]] and [[Homosexuality]], and the term also refers to a sense of identity based on those attractions. Across cultures most people are heterosexual, and heterosexual activity is by far the most common type of sexual activity. It has mostly been viewed as the normative and most socially dominant form of sexual orientation. Scientists do not know the exact cause of sexual orientation, but they theorize that it results from a complex interplay of genetic, hormonal and environmental influences, and they favor biologically based theories. The term was coined alongside homosexual by Karl Maria Kertbeny in 1869.
+
+=== KEY: High_speed_rail_5e297e
+LEVEL: 4  PERSON: no
+HEADWORD: High-speed rail
+ENTRY:
+Rail transport network using trains that run significantly faster than conventional trains on dedicated tracks. Lines are generally considered high-speed when built for at least 250 km/h (155 mph), or when upgraded lines run at least 200 km/h (125 mph). The first dedicated system, the Tōkaidō [[Shinkansen]] in [[Japan]], opened in October 1964; its streamlined nose gave the trains the nickname bullet train. European countries followed, starting with [[Italy]]'s Direttissima line and then [[France]], Germany and Spain. As of 2023, [[China]]'s network accounted for over two-thirds of the world's total. High-speed trains mostly run on standard gauge track. High-speed rail is the fastest and most efficient ground-based method of commercial transport, but its construction costs more than conventional rail and does not always offer an economic advantage.
+
+=== KEY: Hilbert_space_e3e511
+LEVEL: 4  PERSON: no
+HEADWORD: Hilbert space
+ENTRY:
+Type of vector space that generalizes Euclidean space to any finite or infinite dimension. A Hilbert space has an inner product that allows length and angle to be measured, and it is complete, so that enough limits exist for the techniques of calculus. It was studied from the first decade of the 20th century by [[David Hilbert]], Erhard Schmidt and Frigyes Riesz, and it is indispensable in [[Partial differential equation|partial differential equations]], [[Quantum mechanics|quantum mechanics]], Fourier analysis and ergodic theory. [[John von Neumann]] coined the term for the abstract concept. Examples include spaces of square-integrable functions and of sequences. Exact analogs of the [[Pythagorean theorem]] hold, and perpendicular projection onto a subspace is central to optimization. These methods helped establish [[Functional analysis|functional analysis]] as a fruitful field.
+
+=== KEY: History_of_Australia_8a1879
+LEVEL: 4  PERSON: no
+HEADWORD: History of Australia
+ENTRY:
+Human history of the Australian continent, from Aboriginal settlement to a multicultural federal democracy. The first ancestors of [[Aboriginal Australians]] arrived from Maritime Southeast Asia between 50,000 and 65,000 years ago, and their artistic and spiritual traditions are among the longest surviving in human history. Dutch navigators named the continent New Holland in the 17th century. In 1770 [[James Cook]] charted the east coast and claimed it for Great Britain. The First Fleet arrived at Sydney Cove in January 1788 and established a penal colony. Disease, violence and dispossession reduced the Aboriginal population. Gold rushes and agriculture brought prosperity, and the six colonies voted to federate in 1901 as the Commonwealth of Australia. Australia fought in both world wars as part of the [[British Empire]] and became a long-standing ally of the United States through the [[Cold War]]. Post-war immigration from almost every country brought the population to more than 25.5 million by 2021, with 30 percent born overseas.
+
+=== KEY: History_of_geography_269587
+LEVEL: 4  PERSON: no
+HEADWORD: History of geography
+ENTRY:
+Development of the study and mapping of the Earth, from ancient Mesopotamian maps to an academic discipline. The word geography, from the Greek for Earth-writing, was first used by [[Eratosthenes]], but recognizable practices such as [[Cartography|cartography]] existed earlier. The oldest known world maps date to ancient [[Babylon]], and the best-known Babylonian map, the Imago Mundi of 600 BC, shows Babylon on the Euphrates surrounded by a circular landmass. The Greeks viewed [[Homer]] as the founder of geography, since the *Iliad* and *Odyssey* contain much geographical information. [[Thales of Miletus]] laid down astronomical and mathematical rules that allowed geography to be studied scientifically, and his successor Anaximander attempted the first scale map of the known world. [[Herodotus]]' *Histories* describes much of the known world, including Egypt, Scythia and Persia. Geography later became a distinct academic discipline.
+
+=== KEY: History_of_sport_bef902
+LEVEL: 4  PERSON: no
+HEADWORD: History of sport
+ENTRY:
+Development of organized physical competition from prehistoric activity to modern professional sport. Sport had early links with warfare and entertainment, and competition was used to determine whether individuals were fit for military service. Cave paintings in France appear to depict sprinting in the Upper Paleolithic, and rock art in Egypt shows swimming and archery. Wrestlers are depicted on Sumerian stone slabs dated to around 3000 BC, and the [[Epic of Gilgamesh]] describes belt wrestling. Monuments at Beni Hasan dating to around 2000 BC show that wrestling, weightlifting, long jump, swimming and archery were well developed in [[Ancient Egypt]]. The first Olympic Games were recorded in 776 BC at Olympia, where they were held every four years until 393 AD. [[Pierre de Coubertin]]'s 1896 Olympic revival transformed sport into a global arena. In the 19th century [[Cricket]] and [[Association football]] gained standardized rules, enabling mass participation and commercialization.
+
+=== KEY: Holocene_917504
+LEVEL: 4  PERSON: no
+HEADWORD: Holocene
+ENTRY:
+Current geological epoch, beginning approximately 11,700 years ago. It follows the [[Last Glacial Period]] and, with the preceding [[Pleistocene]], forms the [[Quaternary]] period. The Holocene is an interglacial period equivalent to Marine Isotope Stage 1. Because it corresponds with the rapid growth and impact of the human species, it is often called the Age of Humans. Its ecosystems continue to be affected by the [[Holocene extinction]], largely of human causation. In July 2018 the International Union of Geological Sciences divided the epoch into three ages: the Greenlandian (11,700 to 8,200 years ago), the Northgrippian (8,200 to 4,200 years ago) and the Meghalayan (4,200 years ago to the present).
+
+=== KEY: Hopscotch_a82742
+LEVEL: 4  PERSON: no
+HEADWORD: Hopscotch
+ENTRY:
+Playground game in which players toss a small marker into numbered squares and hop through the course. It is popular in many countries and can be played with several players or alone. The court is drawn in [[Chalk|chalk]] on pavement or scratched in dirt, usually as a series of linear [[Square|squares]] interspersed with pairs of side-by-side squares. Single squares are hopped on one foot and paired squares are straddled, and a turn ends if a player steps on a line, misses a square, or loses balance. The first player to complete one course for every numbered square wins. The origin of the game is unknown, and there is no evidence that it existed before the 16th century. The earliest English references date to the late 17th century, under names such as "scotch-hop". It is both a physical and cognitive [[Exercise|workout]].
+
+=== KEY: Illuminati_b4991e
+LEVEL: 5  PERSON: no
+HEADWORD: Illuminati
+ENTRY:
+Name given to several real and fictitious groups, most often the Bavarian Illuminati, an Enlightenment-era [[Secret society|secret society]]. Founded on 1 May 1776 in the Electorate of [[Bavaria]], it aimed to oppose superstition, religious influence over public life and abuses of state power by monarchs. Charles Theodore, Elector of Bavaria, outlawed it in 1784, 1785, 1787 and 1790, with the encouragement of the [[Catholic Church]]. Conservative critics later claimed that it continued underground and was responsible for the [[French Revolution]], though these links have not been substantiated. Later organizations alleged to continue it have been accused of conspiring to control world affairs.
+
+=== KEY: Indium_95f2b4
+LEVEL: 4  PERSON: no
+HEADWORD: Indium
+ENTRY:
+Silvery-white post-transition metal; chemical element with symbol In and atomic number 49. It is one of the softest elements, so soft that it can be cut with a knife, and its properties are intermediate between those of [[Gallium]] and thallium. Ferdinand Reich and Hieronymus Theodor Richter discovered it in 1863 by spectroscopic methods and named it for the indigo-blue line in its spectrum. Indium is used mainly in [[Flat-panel display|flat-panel displays]] as indium tin oxide (ITO), a transparent conductive coating on glass, and in [[Semiconductor|semiconductors]], low-melting solders and blue and white LEDs. It is produced as a by-product of processing other metal ores, chiefly zinc sulfide ores. Indium has no biological role, and its compounds are toxic when inhaled or injected.
+
+=== KEY: Isadora_Duncan_d667e8
+LEVEL: 4  PERSON: yes
+HEADWORD: Duncan, Isadora
+ENTRY:
+American-born dancer and choreographer, a pioneer of [[Modern dance|modern dance]]. Born and raised in California, she lived and danced in Western Europe, the United States, and Soviet Russia from the age of 22. Her natural, free movement contrasted with the rigidity of [[Ballet|ballet]], and she drew inspiration from Greek vase paintings and bas-reliefs in the [[British Museum]]. After working in Augustin Daly's company in [[New York City]], she grew disillusioned with the form and moved to London in 1898, performing in the drawing rooms of the wealthy. In 1902 Loie Fuller invited her to tour Europe. Despite mixed reactions from critics, she inspired visual artists, including [[Auguste Rodin]], to create works based on her. In 1910 she met the occultist [[Aleister Crowley]] at a party. She died in [[Nice]], France, when her scarf became entangled in the wheel and axle of the car in which she was traveling.
+
+=== KEY: James_Cameron_0c1f04
+LEVEL: 4  PERSON: yes
+HEADWORD: Cameron, James
+ENTRY:
+Canadian and New Zealand filmmaker and explorer. His films combine cutting-edge technology with classical filmmaking techniques and have grossed over $10 billion worldwide, making him the second-highest-grossing film director of all time. He has received three Academy Awards, for Best Picture, Best Director, and Best Film Editing for *Titanic* (1997). His earlier films include *The Terminator* (1984), *Aliens* (1986), and *Terminator 2: Judgment Day* (1991). In 2012 he became the first person to make a solo descent to the bottom of the [[Mariana Trench]], the deepest part of Earth's ocean, in the submersible *Deepsea Challenger*. A [[National Geographic]] explorer-in-residence, he has produced documentaries on deep-ocean exploration, and in 2010 [[Time (magazine)|Time]] named him one of the 100 most influential people in the world.
+
+=== KEY: Joanne_Woodward_2082fd
+LEVEL: 5  PERSON: yes
+HEADWORD: Woodward, Joanne
+ENTRY:
+American actress. Woodward won the Academy Award for Best Actress for *The Three Faces of Eve* (1957), playing a woman with [[Dissociative identity disorder|dissociative identity disorder]]. She was married to [[Paul Newman]] for 50 years, until his death, and the two often worked together. Her mother named her after [[Joan Crawford]]. Woodward has won three Primetime Emmy Awards, a British Academy Film Award and three Golden Globe Awards. In 1990 she earned a bachelor's degree from Sarah Lawrence College at age 60, graduating alongside her daughter Clea. She is the oldest living Best Actress Oscar winner.
+
+=== KEY: Judas_Priest_1dd46b
+LEVEL: 5  PERSON: no
+HEADWORD: Judas Priest
+ENTRY:
+English heavy metal band formed in [[Birmingham]] in 1969. The band was a pioneer of the new wave of British heavy metal and an influence on speed, thrash and power metal. It struggled commercially until *British Steel* (1980) brought mainstream attention. [[The Guardian]] called *British Steel* the record that defines heavy metal. Rob Halford, who joined as vocalist in 1973, left in 1992 and returned in 2003. The band has sold over 50 million albums and was inducted into the [[Rock and Roll Hall of Fame]] in 2022.
+
+=== KEY: Kara_Sea_9b8f68
+LEVEL: 4  PERSON: no
+HEADWORD: Kara Sea
+ENTRY:
+Marginal sea of the [[Arctic Ocean]] north of Siberia. It lies between the [[Barents Sea]] to the west, separated by the Kara Strait and [[Novaya Zemlya]], and the Laptev Sea to the east, separated by the Severnaya Zemlya archipelago. Roughly 1,450 km (900 mi) long and 970 km (600 mi) wide, it covers about 880,000 sq km (339,770 sq mi) and has a mean depth of 110 m (360 ft). The sea is ice-bound for all but two months of the year. Its main ports are Novy Port and Dikson, and it is an important [[Fishing|fishing]] ground. The East-Prinovozemelsky field, an extension of the West Siberian Oil Basin, contains significant undeveloped [[Petroleum|petroleum]] and natural gas. The name comes from the Kara River; *kara* may derive from a Nenets word meaning "hummocked ice" or a Turkic word meaning "black."
+
+=== KEY: Kazan_8a3752
+LEVEL: 4  PERSON: no
+HEADWORD: Kazan
+ENTRY:
+Capital and largest city of [[Tatarstan]], Russia. Kazan lies at the confluence of the [[Volga]] and Kazanka rivers and has a population of over 1.3 million. It was the capital of the [[Khanate of Kazan]], which [[Ivan the Terrible]] conquered in the 16th century, after which the city became part of the [[Tsardom of Russia]]. Pugachev's Rebellion (1773–75) seized and largely destroyed the city, which was rebuilt under [[Catherine the Great]]. In 1920 Kazan became capital of the Tatar Autonomous Soviet Socialist Republic, and after the Soviet Union dissolved it remained capital of Tatarstan. The Kazan Kremlin is a [[UNESCO]] World Heritage Site, and the city hosted the 2013 Summer Universiade and the BRICS Games in 2024.
+
+=== KEY: Kepler_452b_5a5344
+LEVEL: 5  PERSON: no
+HEADWORD: Kepler-452b
+ENTRY:
+Disputed super-Earth exoplanet candidate orbiting the Sun-like star Kepler-452. Initial reports claimed it orbits within the inner edge of the habitable zone, and it is the only planet in its system discovered by the Kepler space telescope. Two later reports refuted the claim, but further work reestablished it. It lies about 1,800 light-years from Earth in the constellation [[Cygnus (constellation)|Cygnus]]. Its radius is around 1.63 times that of Earth, and it orbits at 1.04 AU with a period of roughly 385 days. It receives slightly more energy from its star than Earth and could experience a runaway greenhouse effect.
+
+=== KEY: Koi_8c8909
+LEVEL: 4  PERSON: no
+HEADWORD: Koi
+ENTRY:
+Colored ornamental variety of [[Carp|carp]], also called *nishikigoi* (brocaded carp). They are kept in outdoor ponds and water gardens. Systematic breeding for color and pattern began in Niigata, [[Japan]], in the early 19th century. Varieties are distinguished by coloration, patterning and scalation, with colors including white, black, red, orange, yellow, blue, brown and cream, and metallic gold and silver-white. The most popular category is the Gosanke, made up of the Kōhaku, Taishō Sanshoku and Shōwa Sanshoku varieties. Over 100 varieties exist today, and koi can live over 70 years under optimal conditions. When released into non-native waterways, koi become an [[Invasive species|invasive species]]; their bottom-feeding increases turbidity and displaces native fish.
+
+=== KEY: Lamprey_fc954a
+LEVEL: 4  PERSON: no
+HEADWORD: Lamprey
+ENTRY:
+Jawless fish of the order Petromyzontiformes, with about 38 extant species. Adults have a toothed, funnel-like sucking mouth, an elongated scaleless body and no paired fins. Most of a lamprey's life is spent as a juvenile ammocoete, burrowing into sediment and filter-feeding. Only 18 species are carnivorous, boring into other fish to feed on flesh and blood. Genetic evidence links lampreys to [[Hagfish|hagfish]], the other living group of jawless fish. The sea lamprey, an introduced pest in the [[Great Lakes]], has harmed native fish stocks, and control programs use lampricides and barriers.
+
+=== KEY: Late_Bronze_Age_collapse_884db6
+LEVEL: 4  PERSON: no
+HEADWORD: Late Bronze Age collapse
+ENTRY:
+Societal collapse in the eastern Mediterranean and Near East, from the late 13th to early 12th century BC. It affected [[Anatolia]], Egypt, the Aegean, eastern [[Libya]] and the [[Balkans]], and it sharply reduced the material wealth of the region's powers. The palace economy of [[Mycenaean Greece]] broke apart into small, isolated village cultures, which were followed by the Greek Dark Ages (c. 1200 to c. 800 BC). The Hittite Empire collapsed, while the [[New Kingdom of Egypt]] survived in weakened form and [[Phoenicia|Phoenicians]] enjoyed increased autonomy. Causes proposed since the 19th century include climate change, droughts, disease, invasions by the [[Sea Peoples]], and changes in military technology that ended chariot warfare. Later research found that many destructions once attributed to the period were misdated or never occurred, so the collapse was more limited than once thought.
+
+=== KEY: Liberty_84e1da
+LEVEL: 3  PERSON: no
+HEADWORD: Liberty
+ENTRY:
+State of being free within society from restrictions imposed by authority on one's way of life, behavior, or political views. In U.S. constitutional law, ordered liberty means a balanced society in which individuals can act without unnecessary interference (negative liberty) and have access to opportunities and resources to pursue their goals (positive liberty). Some writers distinguish liberty from freedom, using "freedom" for the ability to do as one wills and "liberty" for the absence of arbitrary restraints, subject to the rights of others. The word comes from [[Latin]] *liber*.
+
+The concept has long occupied philosophers. [[Thomas Hobbes]] held that a free man is one not hindered from doing what he has the will to do. [[John Locke]] rejected that definition: in political society, liberty consists of being under no lawmaking power except that established by consent, and freedom is constrained by laws in both the state of nature and political society. [[John Stuart Mill]]'s *On Liberty* (1859) was the first to recognize the difference between liberty as freedom to act and liberty as absence of coercion. [[Isaiah Berlin]] framed this as the distinction between negative liberty, protection from tyranny and arbitrary authority, and positive liberty, self-mastery over inner compulsions such as weakness and fear. Critics argue that positive liberty can justify coercion in the name of collective goals.
+
+The political concept originates in Greek ideas of freedom and slavery: to be free was not to have a master. [[Aristotle]] linked this to democracy, though it applied only to free men. In the [[Maurya Empire]], citizens of all religions and ethnic groups had some rights to freedom and tolerance. The phrase "Life, Liberty and the pursuit of Happiness" appears in the [[United States Declaration of Independence]], and France's motto is "Liberté, égalité, fraternité."
+
+=== KEY: Lydia_5ed2ce
+LEVEL: 4  PERSON: no
+HEADWORD: Lydia
+ENTRY:
+Iron Age kingdom in western [[Anatolia|Anatolia]], with Sardis as its capital and only city, prominent in the 8th to 6th centuries BC. Lydia was known for its wealth in gold and for the world's first coinage; Lydian [[Coin|coins]] made of electrum date to around the 7th century BC and are among the oldest in existence. At its greatest extent in the 7th century BC, it covered all of western Anatolia. In 546 BC it became a satrapy of the [[Achaemenid Empire|Achaemenid Empire]], and in 133 BC it became part of the Roman province of Asia. The Lydian language was an [[Indo-European languages|Indo-European]] language related to Luwian and Hittite, written in an alphabet related to Greek. Sardis's terracing method influenced the planning of other multi-level cities.
+
+=== KEY: Magellan_expedition_30950d
+LEVEL: 4  PERSON: no
+HEADWORD: Magellan expedition
+ENTRY:
+16th-century Spanish maritime expedition that was the first to circumnavigate the Earth. It was planned by Portuguese explorer [[Ferdinand Magellan]] to find a western route to the Moluccas, or Spice Islands, because Portugal controlled the eastern route under the 1494 [[Treaty of Tordesillas]]. The five-ship fleet left Spain on September 20, 1519, with about 270 men. It passed through the [[Strait of Magellan]] into the Pacific, which Magellan named Mar Pacifico. Magellan was killed in battle in the Philippines in April 1521, and the Spanish navigator Juan Sebastián Elcano completed the voyage. Only 18 men and one ship, the *Victoria*, returned to Spain in September 1522. Hardships included [[Scurvy|scurvy]], starvation and mutinies.
+
+=== KEY: Malta_92468e
+LEVEL: 4  PERSON: no
+HEADWORD: Malta
+ENTRY:
+Island country in the central [[Mediterranean Sea]] (pop., 2024: 574,250), consisting of Malta, Gozo and Comino. Its capital is [[Valletta]]. Inhabited since at least 6500 BC, Malta was ruled by Phoenicians, Carthaginians, Romans, Arabs, Normans and the [[Knights Hospitaller]], who held the islands for 268 years from 1530. It came under British rule as a crown colony in the early 19th century and endured Axis bombing in [[World War II]], for which it was awarded the George Cross. Malta gained independence in 1964 and became a republic in 1974. It joined the [[European Union]] in 2004 and adopted the [[Euro]] in 2008. It is a member of the [[Commonwealth of Nations]] and the United Nations. Catholicism is the [[State religion|state religion]], and the economy is now high-income, driven by tourism, financial services and manufacturing.
+
+=== KEY: Map_projection_c9fa64
+LEVEL: 4  PERSON: no
+HEADWORD: Map projection
+ENTRY:
+Systematic method of representing the curved surface of a [[Globe|globe]] on a flat plane. Every projection of a sphere onto a plane distorts the surface in some way, so each one preserves some properties, such as area, shape, direction or distance, at the expense of others. The purpose of the map determines which projection suits it, and the study of projections centers on characterizing their distortions. The best-known is the [[Mercator projection]], which preserves angles but enlarges regions far from the equator; it was criticized through the 20th century and revived in the 21st for online mapping. Equal-area projections, such as the Gall–Peters projection, show the correct sizes of countries relative to one another but distort angles. In September 2026 the [[United Nations]] resolved to promote equal-area projections, notably the Equal Earth projection; 164 countries voted in favor, the [[United States]] voted against, and six abstained.
+
+=== KEY: Mark_Rothko_1ed667
+LEVEL: 4  PERSON: yes
+HEADWORD: Rothko, Mark
+ENTRY:
+Latvian-born American abstract painter. He is best known for color field paintings of irregular, painterly rectangles of color, which he produced from 1949 to 1970. Rothko did not subscribe to any one school, though he is associated with the American [[Abstract expressionism|abstract expressionism]] movement. Born into a Jewish family in Daugavpils, Latvia, then part of the [[Russian Empire]], he emigrated to the United States with his family, arriving at [[Ellis Island]] in late 1913 and settling first in [[Portland, Oregon]]. He moved to New York City in 1923. He refunded the Seagram murals commission rather than see the paintings used as decor for wealthy diners, and the Harvard Mural series faded because of the pigment lithol red and sunlight exposure. He contributed 14 canvases to the Rothko Chapel in [[Houston]], Texas. His painting *No. 6 (Violet, Green and Red)* sold in 2014 for $186 million.
+
+=== KEY: Masaccio_854993
+LEVEL: 4  PERSON: yes
+HEADWORD: Masaccio
+ENTRY:
+Florentine painter regarded as the first great Italian painter of the Quattrocento. He joined the Florentine painters' guild in 1422 and was one of the first artists to use linear [[Perspective (graphical)|perspective]] and vanishing points. He moved away from the elaborate ornamentation of the International Gothic style toward a more naturalistic mode, using perspective and chiaroscuro for greater realism. His works include the San Giovenale Triptych and the fresco cycle in the Brancacci Chapel, executed with Masolino in [[Florence]]. Despite a brief career, he influenced many artists, and [[Michelangelo]] studied his frescoes. On hearing of his death, [[Filippo Brunelleschi]] called it a great loss.
+
+=== KEY: McDonald_s_700dd1
+LEVEL: 4  PERSON: no
+HEADWORD: McDonald's
+ENTRY:
+American multinational fast-food restaurant chain. Founded in 1940 as a restaurant in San Bernardino, California, by brothers Richard and Maurice McDonald, the company grew under [[Ray Kroc]], a franchise agent who opened a restaurant in Des Plaines, Illinois, in 1955 and bought the brothers' stake in 1961. At the end of 2025 the system comprised 45,356 restaurants in more than 100 countries, approximately 95% of them operated by franchisees. Its menu centers on [[Hamburger|hamburgers]] and [[French fries]], including the Big Mac. It directly employed more than 150,000 people, and more than two million others worked at franchised restaurants. The chain has faced criticism over nutrition, treatment of animals, environmental impact and employee wages.
+
+=== KEY: Medusa_68e064
+LEVEL: 4  PERSON: no
+HEADWORD: Medusa
+ENTRY:
+Female monster in [[Greek mythology]], one of the three Gorgons. Medusa was usually described as having living snakes for hair, and anyone who looked at her was turned to stone. Unlike her immortal sisters Stheno and Euryale, she was mortal. The hero Perseus beheaded her with help from [[Athena]], using a mirrored shield to avoid her gaze, and gave the head to Athena, who placed it on her shield. The Gorgons were described by [[Hesiod]] as daughters of the sea gods Phorcys and Ceto, and [[Herodotus]] associated them with Libya. In classical antiquity the image of her head, the Gorgoneion, served as an evil-averting device. Medusa was pregnant by Poseidon when she was beheaded, and the winged horse Pegasus and the giant Chrysaor sprang from her body.
+
+=== KEY: Melanin_448e72
+LEVEL: 4  PERSON: no
+HEADWORD: Melanin
+ENTRY:
+Family of biomolecules organized as oligomers or polymers, forming the pigments of many organisms. Melanin is produced by melanocytes in a process called melanogenesis, in which the [[Amino acid]] tyrosine is oxidized and then polymerized. There are five basic types: eumelanin, pheomelanin, neuromelanin, allomelanin and pyomelanin. Eumelanin is more abundant in tissues requiring photoprotection, such as the epidermis, and can dissipate over 99.9% of absorbed [[Ultraviolet|UV]] radiation. In human skin, melanogenesis is initiated by UV exposure, which is associated with increased risk of [[Melanoma]]. Pheomelanin is largely responsible for the red or yellow tint of some skin and hair. Neuromelanin, found in the brain, has been studied for possible treatment of neurodegenerative disorders such as Parkinson's.
+
+=== KEY: Michelson_Morley_experiment_67a471
+LEVEL: 4  PERSON: no
+HEADWORD: Michelson–Morley experiment
+ENTRY:
+Experiment in 1887 to detect Earth's motion through the luminiferous aether, a medium thought to carry light waves. [[Albert A. Michelson]] and Edward W. Morley compared the speed of light in perpendicular directions at what is now Case Western Reserve University in [[Cleveland]], Ohio. They found no significant difference, a negative result generally considered the first strong evidence against some aether theories. The experiment initiated research that led to [[Special relativity]], which rules out motion against an aether. Later experiments with greater sensitivity found no aether wind; in 2009 optical resonator experiments confirmed its absence at the 10⁻¹⁷ level. Michelson–Morley type experiments were repeated many times with steadily increasing sensitivity and, together with the Ives–Stilwell and Kennedy–Thorndike experiments, form one of the fundamental tests of special relativity.
+
+=== KEY: Mumbai_8ebaad
+LEVEL: 3  PERSON: no
+HEADWORD: Mumbai
+ENTRY:
+City (pop., 2011: almost 12.5 million), capital of [[Maharashtra]] state and financial capital of India. Also known as Bombay, it has a deep natural harbor and is the most populous city proper in India; the Mumbai Metropolitan Region has over 20 million people. The Brihanmumbai Municipal Corporation, established in 1888, administers the city.
+
+Originally an archipelago of seven islands on the [[Arabian Sea]], it has evidence of human occupation. The [[Maurya Empire]] ruled the islands from the 3rd century BC, and Ptolemy referred to them in AD 150. They were inhabited by the Marathi-speaking Koli people, whose deity Mumbā is believed to have given the city its name. Later the [[Delhi Sultanate]] and the Gujarat Sultanate ruled them. The islands were ceded to the Portuguese in 1535, transferred to the British Crown in 1661 as part of Catherine of Braganza's dowry, and leased to the [[East India Company]] in 1668. The Hornby Vellard land-reclamation project, begun in 1782 and completed in 1845, unified the islands; with new roads and railways and the 19th-century [[Cotton|cotton]] boom, it made Bombay a major seaport and commercial center. The city played a major role in the [[Indian independence movement]] and became capital of Maharashtra in 1960.
+
+The Government of India officially changed the English name to Mumbai in November 1995, at the insistence of the Shiv Sena party, which argued that "Bombay" echoed British colonial rule. Some residents still use the older name. In the early 2010s the city contributed nearly five percent of India's GDP, one-fourth of its industrial output, and one-third of its tax revenues. It is the center of Bollywood and Marathi cinema.
+
