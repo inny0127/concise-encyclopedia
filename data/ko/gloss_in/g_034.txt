@@ -1,0 +1,719 @@
+=== KEY: Darwin_Northern_Territory_89177e
+HEADWORD: Darwin
+PERSON: no
+LINK TARGETS: Charles Darwin | Northern Territory | Southeast Asia | Timor-Leste
+ENTRY:
+Capital and largest city of the [[Northern Territory]], Australia. With 139,902 residents at the 2021 census, it holds nearly 63% of the territory's population and is the smallest, wettest and most northerly of Australia's capital cities. Darwin is a link to [[Southeast Asia]], including Indonesia and [[Timor-Leste]]. The Larrakia people are its traditional owners. John Clements Wickham named the region Port Darwin in honor of [[Charles Darwin]]. The settlement was renamed Darwin in 1911. The city has been almost entirely rebuilt four times, after cyclones in 1897 and 1937, Japanese air raids in World War II, and Cyclone Tracy in 1974.
+
+=== KEY: Das_Kapital_8e8f83
+HEADWORD: Das Kapital
+PERSON: no
+LINK TARGETS: Adam Smith | Capital (economics) | David Ricardo | Friedrich Engels | Georg Wilhelm Friedrich Hegel | Interest (economics) | Karl Marx | Profit (economics)
+ENTRY:
+Three-volume work of political economy by [[Karl Marx]], foundational to Marxist theory. Its full title is *Capital: A Critique of Political Economy*. Only the first volume appeared in Marx's lifetime, in 1867; [[Friedrich Engels]] published the second and third from Marx's manuscripts in 1885 and 1894. Its central argument is that capitalism depends on the exploitation of labor, whose unpaid work is the source of surplus value and [[Profit (economics)|profit]]. Marx held a labor theory of value and argued that the rate of profit tends to fall, leading to economic crises. Volume I covers production, Volume II the circulation of [[Capital (economics)|capital]], and Volume III the distribution of surplus value into profit, [[Interest (economics)|interest]] and rent. The work drew on [[Adam Smith]], [[David Ricardo]] and [[Georg Wilhelm Friedrich Hegel|Hegel]]. Its association with 20th-century communist states has made it a subject of continuing debate.
+
+=== KEY: Dashavatara_55f9a5
+HEADWORD: Dashavatara
+PERSON: no
+LINK TARGETS: Avatar | Dharma | Kali Yuga | Kalki | Krishna | The Buddha | Vishnu
+ENTRY:
+Ten principal [[Avatar|avatars]] of the Hindu god [[Vishnu]], who is said to descend in these forms to restore cosmic order ([[Dharma|dharma]]). The most accepted list, found in the Puranas, names Matsya, Kurma, Varaha, Narasimha, Vamana, Parashurama, Rama, [[Krishna]] and [[The Buddha|Buddha]] as the eighth and ninth, though some traditions substitute Balarama for Krishna. All have appeared except [[Kalki]], who will come at the end of the [[Kali Yuga]]. Versions vary by region and sect.
+
+=== KEY: Dassault_Rafale_b2ca1f
+HEADWORD: Dassault Rafale
+PERSON: no
+LINK TARGETS: Croatia | Eurofighter Typhoon | Fighter aircraft | France | United Arab Emirates
+ENTRY:
+[[France|French]] twin-engine, canard delta-wing multirole [[Fighter aircraft|fighter]] aircraft built by Dassault Aviation. Dassault markets it as an "omnirole" fighter able to perform several mission roles in a single sortie, including air supremacy, strike and nuclear deterrence. Disagreements over workshare in a joint European project, which became the [[Eurofighter Typhoon]], led France to pursue its own program; a demonstrator first flew in July 1986. Introduced in 2001, the Rafale serves the French Air Force and Navy and has been selected by air forces including those of [[Croatia]], Egypt, India and the [[United Arab Emirates]]. It has seen combat over Afghanistan, Libya, Mali, Iraq and Syria.
+
+=== KEY: Dasyuromorphia_20a8d9
+HEADWORD: Dasyuromorphia
+PERSON: no
+LINK TARGETS: Arthropod | Marsupial | Tasmanian devil | Thylacine
+ENTRY:
+Order of mostly Australian carnivorous [[Marsupial|marsupials]]. It contains four families: Myrmecobiidae, with a single living species, the numbat (*Myrmecobius fasciatus*); Thylacinidae, with the recently extinct [[Thylacine|thylacine]] (*Thylacinus cynocephalus*) and several fossil species; Dasyuridae, with 73 extant species, including quolls, dunnarts and the [[Tasmanian devil]]; and the extinct fossil family Malleodectidae, with six genera. Body sizes range from 4 grams in the long-tailed planigale, the smallest living marsupial, to 35 kilograms in the thylacine. Most species feed on vertebrates or [[Arthropod|arthropods]] such as insects. Their lower molars have a carnassial-like form, and each erupting molar works as a carnassial until the next pushes it forward in the jaw.
+
+=== KEY: Data_analysis_6ae36c
+HEADWORD: Data analysis
+PERSON: no
+LINK TARGETS: Data | Information
+ENTRY:
+Process of inspecting, cleansing, transforming and modeling [[Data|raw facts and figures]] to discover useful [[Information|information]], inform conclusions and support decision-making. Varieties include descriptive statistics, exploratory data analysis, which seeks new features in data, and confirmatory data analysis, which tests existing hypotheses. Data mining emphasizes predictive modeling, business intelligence relies on aggregation, and text analytics extracts information from unstructured text. Data analysis is iterative, with feedback from later phases prompting earlier work.
+
+=== KEY: Data_and_information_visualization_7e5f50
+HEADWORD: Data and information visualization
+PERSON: no
+LINK TARGETS: Data | Data analysis | Flowchart | Graphic design | Information | Information Age | Statistics
+ENTRY:
+Practice of creating graphic representations of quantitative and qualitative [[Data|data]] and [[Information|information]] using static, dynamic or interactive visual items. Data visualization presents mainly quantitative data in schematic form, using charts, graphs, geospatial maps, correlation matrices and percentage gauges. Information visualization handles large, complex datasets, including abstract information, with tools such as Sankey diagrams, [[Flowchart|flowcharts]] and timelines. Narrative visualization combines [[Data analysis|data analysis]], storytelling and visualization to reveal trends and relationships. Effective displays are well-sourced, uncluttered and accurate, and suit the expertise of their audience. The field draws on [[Statistics|statistics]], [[Graphic design|graphic design]], cognitive science and human-computer interaction. Because misleading graphics can spread misinformation, visualization literacy has become part of information literacy in the [[Information Age|information age]].
+
+=== KEY: Data_center_70b8a6
+HEADWORD: Data center
+PERSON: no
+LINK TARGETS: AI boom | Amazon Web Services | Artificial intelligence | Cloud computing | ENIAC | Microsoft | Parallel computing
+ENTRY:
+Building or room dedicated to housing computer equipment that stores, processes and transmits digital information. Uses include enterprise computing, [[Parallel computing|parallel computing]] for science and the military, web hosting, and training or running [[Artificial intelligence|artificial intelligence]] models. The early [[ENIAC]], completed in 1945, occupied entire rooms. Hyperscale [[Cloud computing|cloud]] facilities run by providers such as [[Amazon Web Services]] and [[Microsoft]] Azure can hold thousands of servers. In 2024, data centers used about 1.5% of global electricity, according to the International Energy Agency, and concerns over energy and water use have led to opposition to new facilities during the [[AI boom]].
+
+=== KEY: Data_communication_65d1e8
+HEADWORD: Data communication
+PERSON: no
+LINK TARGETS: Coding theory | Information theory | Infrared | Microwave | Optical fiber | Radio wave
+ENTRY:
+Transfer of messages over a point-to-point or point-to-multipoint communication channel. It comprises transmission and reception and is classified as analog or digital. Analog systems convey voice, images or video as a continuous signal that varies in amplitude or phase, while digital transmission carries a digitized analog signal or a born-digital bitstream. Channels include copper wire, [[Optical fiber|optical fibers]], [[Radio wave|radio]] and [[Microwave|microwave]] links, [[Infrared|infrared]] signals and computer buses. Electrical telegraphy (1809) and teletypewriters (1906) were early digital applications. The theory is covered by [[Information theory|information theory]] and [[Coding theory|coding theory]], while courses address modulation and error-correcting codes at the physical layer and media access and error detection at the data link layer.
+
+=== KEY: Data_compression_7f0140
+HEADWORD: Data compression
+PERSON: no
+LINK TARGETS: Bit | Claude Shannon | Entropy (information theory) | GIF | Information | JPEG | MP3
+ENTRY:
+Encoding of [[Information|information]] using fewer [[Bit|bits]] than the original representation, to reduce file size. Lossless compression removes statistical redundancy so the original can be reconstructed exactly, with typical ratios of 2:1 to 4:1. Lossy compression discards less perceptible detail for higher ratios and is used for images, audio and video, as in [[JPEG]] and [[MP3]]. Techniques include run-length encoding, Huffman coding (David Huffman, 1952) and dictionary methods such as LZW, developed by Jacob Ziv and Abraham Lempel in 1977–1978 and used in ZIP and [[GIF]] files. The theory traces to [[Claude Shannon]], who established [[Entropy (information theory)|entropy]] as the theoretical minimum for lossless encoding.
+
+=== KEY: Data_f6068d
+HEADWORD: Data
+PERSON: no
+LINK TARGETS: Census | Data science | Information | Knowledge | Literacy | Machine learning | Observation | Unemployment
+ENTRY:
+Collection of discrete or continuous values that conveys quantity, quality, facts or statistics. A datum, or data point, is one individual value. Data is typically represented as numbers or characters and collected by measurement, [[Observation|observation]] or query. Raw data is usually cleaned before analysis by removing outliers and correcting errors. Examples include price indices, [[Unemployment|unemployment]] rates, [[Literacy|literacy]] rates and [[Census|census]] data. Thematically connected data in context can be viewed as [[Information|information]], and accumulated insight becomes [[Knowledge|knowledge]]. Big data, typically at the petabyte scale, is analyzed with [[Machine learning|machine learning]] methods in [[Data science|data science]]. Data has been described as "the new oil of the digital economy."
+
+=== KEY: Data_science_473a7b
+HEADWORD: Data science
+PERSON: no
+LINK TARGETS: Algorithm | Python (programming language) | R (programming language) | Scientific method | Statistics
+ENTRY:
+Interdisciplinary academic field that uses [[Statistics|statistics]], scientific computing, [[Scientific method|scientific methods]] and [[Algorithm|algorithms]] to extract knowledge from potentially noisy, structured or unstructured data. Data scientists write code in languages such as [[Python (programming language)|Python]], SQL and [[R (programming language)|R]], combining it with statistical knowledge to summarize data. The field is applied to decision-making in domains such as healthcare, finance and logistics, where its methods include data acquisition, cleaning, modeling and interpretation.
+
+=== KEY: Data_storage_dc21b0
+HEADWORD: Data storage
+PERSON: no
+LINK TARGETS: Barcode | Computer | DNA | Energy | Information | Magnetic tape | Optical disc | RNA
+ENTRY:
+Recording of [[Information|information]] on a storage medium, such as handwriting, [[Magnetic tape|magnetic tape]] or [[Optical disc|optical discs]]. Recording may use virtually any form of [[Energy|energy]]. Biological molecules such as [[DNA]] and [[RNA]] are considered by some to be data storage. Data stored in a digital, machine-readable form is called digital data, and electronic storage requires electrical power. Computer storage is a core function of a general-purpose [[Computer|computer]]. Primary storage such as random access memory is volatile, while secondary storage, including hard disk drives, solid-state drives and optical media, retains data without power. [[Barcode|Barcodes]] and magnetic ink character recognition record machine-readable data on paper.
+
+=== KEY: Data_structure_37e19e
+HEADWORD: Data structure
+PERSON: no
+LINK TARGETS: Algebraic structure | Computer | Computer science
+ENTRY:
+Way of organizing and storing data in a [[Computer|computer]] that is usually chosen for efficient access. In [[Computer science|computer science]], a data structure is the physical implementation of a data type, specifying data organization, storage format and the operations performed on it. Data structures are closely related to abstract data types, which describe the logical form or [[Algebraic structure|algebraic structure]] of a type without specifying how its operations are implemented. Linear structures such as arrays and linked lists arrange elements sequentially, while nonlinear structures such as trees and graphs support hierarchical or interconnected relationships. Choice involves trade-offs between storage space and speed, analyzed with measures such as Big-O notation.
+
+=== KEY: Database_e307db
+HEADWORD: Database
+PERSON: no
+LINK TARGETS: Computing | Data | File system | SQL
+ENTRY:
+Organized collection of [[Data|data]] in [[Computing|computing]], usually managed by a database management system (DBMS). The DBMS is the software that interacts with users, applications and the database to capture and analyze data, and it provides facilities to administer the database. The term is often used loosely for the DBMS, the wider database system or an associated application. Small databases may be kept on a [[File system|file system]], while large ones run on computer clusters or cloud storage. Relational databases, which store data in tables of rows and columns, became dominant in the 1980s, and most use [[SQL]] for writing and querying data. Non-relational databases, collectively called NoSQL, became popular in the 2000s and use different query languages.
+
+=== KEY: Date_palm_c1811f
+HEADWORD: Date palm
+PERSON: no
+LINK TARGETS: Arecaceae | Iraq | Middle East | North Africa | Oasis | Southern California
+ENTRY:
+Flowering palm (*Phoenix dactylifera*) of the family [[Arecaceae]], cultivated for its sweet fruit, the date. Native to a region from the Gulf states and [[Iraq]] to Pakistan and India, it is widely cultivated in [[North Africa]], the [[Middle East|Middle East]], Australia, South and Southeast Asia and [[Southern California]]. Date palms reach up to 30 m (98 ft) in height and can live more than 100 years. Dried dates contain 63–64% sugar by mass. Archaeological evidence of date cultivation in Arabia dates to the 6th millennium BCE, and the palm is described as emblematic of [[Oasis|oasis]] agriculture. It is also symbolic in Christian and Jewish religions.
+
+=== KEY: Dating_c3fec3
+HEADWORD: Dating
+PERSON: no
+LINK TARGETS: Courtship | Intimate relationship | Marriage
+ENTRY:
+Planned social encounters in which individuals get to know each other, often with a romantic or intimate purpose. Dating can lead to friendship, an [[Intimate relationship|intimate relationship]], [[Marriage|marriage]] or no relationship at all. Psychological studies find that it can foster personal growth through shared experiences and emotional exchange. It evolved from [[Courtship|courtship]] rituals aimed at family-vetted alliances, while contemporary forms emphasize individual choice and casual exploration. Online platforms have changed how people meet: about 10% of partnered U.S. adults met their current partner through a dating site or app as of 2023. Many encounters yield short-term outcomes rather than lasting partnerships.
+
+=== KEY: Davao_City_2211ef
+HEADWORD: Davao City
+PERSON: no
+LINK TARGETS: Manila | Metro Manila | Mindanao | Philippines | Quezon City
+ENTRY:
+Highly urbanized city (pop., 2024: 1,848,947), regional center of Davao Region, [[Philippines]]. At 2,443.61 sq km (943.48 sq mi), it is the largest city in the Philippines by land area. It is the third-most-populous city in the country after [[Quezon City]] and [[Manila]], and the most populous city in [[Mindanao]] and outside [[Metro Manila|Metro Manila]]. It is the center of Metro Davao, the second-most-populous metropolitan area in the country, and the main trade, commerce and industry hub of Mindanao. Mount Apo, the highest mountain in the Philippines, is highly visible from much of the city. The city is administered independently of Davao del Sur, the province in which it is geographically situated. It is nicknamed the Durian Capital of the Philippines.
+
+=== KEY: Dave_Chappelle_08b39d
+HEADWORD: Chappelle, Dave
+PERSON: yes
+LINK TARGETS: Grammy Awards | Netflix | Saturday Night Live | Stand-up comedy
+ENTRY:
+American stand-up comedian, actor and former sketch comedian. He co-created and starred in the sketch series *Chappelle's Show* on Comedy Central, quitting midway through its third season. After returning to [[Stand-up comedy|stand-up]], he signed a $20-million-per-release comedy deal with [[Netflix]] in 2016. He has won six [[Grammy Awards|Grammy Awards]] for Best Comedy Album and twice won the Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series for hosting [[Saturday Night Live]].
+
+=== KEY: David_464e07
+HEADWORD: David
+PERSON: no
+LINK TARGETS: Goliath | Hadith | Hebrew Bible | Jerusalem | Messiah | New Testament | Quran | Solomon
+ENTRY:
+Israelite king and second monarch of the united Kingdom of Israel, according to the [[Hebrew Bible]]. In the biblical narrative, David is a shepherd and harpist who kills the Philistine [[Goliath]] and later rules first Judah and then all Israel. He conquers [[Jerusalem]] and makes it his capital. His reign includes adultery with Bathsheba, the death of her husband, and a rebellion led by his son Absalom. Denied permission to build God's temple, he names [[Solomon]] as his successor. He is portrayed as an ideal king and ancestor of the future [[Messiah|Messiah]], and is referenced in the [[New Testament]]. The [[Quran|Quran]] and [[Hadith|hadith]] describe him as an Israelite king and a prophet. Most knowledge of David comes from biblical literature, whose historicity has been extensively challenged, and his reign may have occurred around the 9th century BC.
+
+=== KEY: David_Attenborough_b01b28
+HEADWORD: Attenborough, David
+PERSON: yes
+LINK TARGETS: BBC | Biodiversity | Climate change | Renewable energy
+ENTRY:
+English broadcaster, naturalist and writer. His presenting career began with *Zoo Quest* in 1954 and spans seven decades, including *Planet Earth*, *The Blue Planet* and *Frozen Planet*. He held senior posts at the [[BBC]], including controller of BBC Two and director of programming for BBC Television, in the 1960s and 1970s. He is the only person to have won BAFTA Awards in black-and-white, color, high-definition, 3D and 4K, and he has won three Primetime Emmy Awards for Outstanding Narrator. His later work has been increasingly vocal on environmental issues; he has advocated restoring [[Biodiversity|biodiversity]], limiting population growth, adopting [[Renewable energy|renewable energy]], mitigating [[Climate change|climate change]] and reducing meat consumption. NPR praised his "patented semi-whisper way of narrating."
+
+=== KEY: David_Beckham_fe0b53
+HEADWORD: Beckham, David
+PERSON: yes
+LINK TARGETS: AC Milan | FIFA World Cup | Major League Soccer | Manchester | Premier League | UEFA Champions League | UNICEF
+ENTRY:
+English former footballer, primarily a right midfielder. Known for passing, crossing and set-piece taking, he won 19 major trophies and is the only English player to have won league titles in four countries. With [[Manchester|Manchester]] United he won six [[Premier League|Premier League]] titles and the [[UEFA Champions League]] in 1999. After four seasons at Real Madrid he moved to [[Major League Soccer|MLS]] LA Galaxy, with loan spells at [[AC Milan]] along the way. He captained England for six years and appeared at three [[FIFA World Cup|World Cups]]. He has been a [[UNICEF]] ambassador since 2005.
+
+=== KEY: David_Ben_Gurion_605988
+HEADWORD: Ben-Gurion, David
+PERSON: yes
+LINK TARGETS: 1948 Arab–Israeli War | Egypt | Israel | Israel Defense Forces | Kibbutz | Mandatory Palestine | Time (magazine) | West Germany
+ENTRY:
+Primary national founder and first prime minister of [[Israel]], serving 1948–1963 apart from a break in 1954–55. As head of the Jewish Agency he led the movement for an independent Jewish state in [[Mandatory Palestine]]. On May 14, 1948, he proclaimed the establishment of Israel. Under his leadership Jewish militias were united into the [[Israel Defense Forces]] during the [[1948 Arab–Israeli War]], a war that also brought the flight or expulsion of most of the Palestinian Arab population. He improved relations with [[West Germany]] through a reparations agreement for Jewish property confiscated by the Nazis. He backed Israel's invasion of [[Egypt]] during the Suez Crisis in 1956. He retired in 1970 to Sde Boker, a [[Kibbutz|kibbutz]] in the Negev. [[Time (magazine)|Time]] magazine later named him one of the 100 most important people of the 20th century.
+
+=== KEY: David_Berkowitz_1e8f34
+HEADWORD: Berkowitz, David
+PERSON: yes
+LINK TARGETS: New York City | Serial killer
+ENTRY:
+American [[Serial killer|serial killer]] and former U.S. Army soldier, also known as the Son of Sam. Between 1975 and 1977 he carried out a stabbing and a series of shootings in [[New York City]], killing six people and wounding 11. Arrested in August 1977 after a parking ticket proved a vital clue, he pleaded guilty to second-degree murder and received six concurrent life sentences. His crimes led to the Son of Sam laws in New York, which bar criminals from profiting from publicity about their crimes.
+
+=== KEY: David_Bowie_d1059f
+HEADWORD: Bowie, David
+PERSON: yes
+LINK TARGETS: Grammy Awards | Internet | Rock and Roll Hall of Fame
+ENTRY:
+English singer, songwriter and actor, known for frequent reinvention. Regarded as one of the most influential musicians of the 20th century, he was often called the "chameleon of rock." His commercial breakthrough came in 1972 with the Ziggy Stardust persona and album during the glam rock era. The Berlin Trilogy, *Low*, *"Heroes"* and *Lodger*, moved him toward art rock, electronica and ambient music. His greatest commercial success came with *Let's Dance* (1983). Record sales were estimated at over 100 million, and he received six [[Grammy Awards|Grammy Awards]] and was inducted into the [[Rock and Roll Hall of Fame]] in 1996. He was among the first artists to engage fans directly on the [[Internet|Internet]], through his BowieNet website. His last album, *Blackstar*, was released two days before his death.
+
+=== KEY: David_Cameron_b1779d
+HEADWORD: Cameron, David
+PERSON: yes
+LINK TARGETS: 2008 financial crisis | Brexit | Conservative Party (UK) | Great Recession | Same-sex marriage
+ENTRY:
+British [[Conservative Party (UK)|Conservative]] politician, prime minister of the United Kingdom (2010–2016). He led the party from 2005 to 2016 and headed a coalition with the Liberal Democrats after 2010. His premiership was shaped by the [[2008 financial crisis|2008 financial crisis]] and the [[Great Recession|Great Recession]]; critics have faulted its austerity measures, while supporters credit him with modernizing the party and reducing the deficit. His government legalized [[Same-sex marriage|same-sex marriage]] in England and Wales. He introduced the [[Brexit|Brexit referendum]] in 2016 and resigned as prime minister after the Vote Leave campaign won.
+
+=== KEY: David_Carradine_1a35cf
+HEADWORD: Carradine, David
+PERSON: yes
+LINK TARGETS: Bangkok | Hollywood Walk of Fame | Martin Scorsese | Quentin Tarantino | Woody Guthrie
+ENTRY:
+American actor and director, known for the television series *Kung Fu* (1972–1975). He played Kwai Chang Caine, a Shaolin monk, in the series, and portrayed [[Woody Guthrie]] in *Bound for Glory* (1976). He appeared in [[Martin Scorsese]]'s *Boxcar Bertha* (1972). His career resurged as Bill in [[Quentin Tarantino]]'s *Kill Bill* films (2003–2004), which won him a Saturn Award. He received a star on the [[Hollywood Walk of Fame|Hollywood Walk of Fame]] in 1997. He was found dead in a [[Bangkok|Bangkok]] hotel room; the cause was ruled accidental.
+
+=== KEY: David_Cronenberg_3a6fe2
+HEADWORD: Cronenberg, David
+PERSON: yes
+LINK TARGETS: Cannes Film Festival | Science fiction
+ENTRY:
+Canadian film director, screenwriter and producer, a principal originator of body horror. Dubbed "Canada's King of Horror," he makes [[Science fiction|science fiction]] horror films that explore bodily transformation, infectious disease and the intertwining of psychological and technological themes, including *Shivers* (1975), *Videodrome* (1983) and *The Fly* (1986). *Crash* won the Special Jury Prize at the [[Cannes Film Festival|Cannes Film Festival]] in 1996. Seven of his films have competed for the Palme d'Or, and he collaborated with Viggo Mortensen on *A History of Violence* (2005) and *Eastern Promises* (2007).
+
+=== KEY: David_E_Kelley_0b6906
+HEADWORD: Kelley, David E.
+PERSON: yes
+LINK TARGETS: CBS | HBO | NBC
+ENTRY:
+American television writer, producer and former attorney. He created or produced series including *Doogie Howser, M.D.*, *Picket Fences*, *Chicago Hope*, *The Practice*, *Boston Legal*, *Ally McBeal*, *Boston Public*, *Goliath* and *Big Little Lies*. His shows have aired on ABC, [[CBS]], Fox, [[NBC]] and [[HBO]]. Kelley practiced law in Boston, mostly in real estate and minor criminal cases, before joining *L.A. Law* as a writer in 1986. In 1999 *Ally McBeal* and *The Practice* won Primetime Emmy Awards for outstanding comedy and drama series.
+
+=== KEY: David_Fincher_db2e10
+HEADWORD: Fincher, David
+PERSON: yes
+LINK TARGETS: Academy Awards | Madonna
+ENTRY:
+American filmmaker. He co-founded the production company Propaganda Films in 1986 and directed music videos for [[Madonna]], including "Express Yourself" and "Vogue", both of which won an MTV Video Music Award for Best Direction. His features include *Alien 3* (1992), *Seven* (1995) and *The Social Network* (2010). He received [[Academy Awards|Academy Award]] nominations for Best Director for *The Curious Case of Benjamin Button*, *The Social Network* and *Mank*. His films have collectively grossed over $2.1 billion worldwide.
+
+=== KEY: David_Foster_Wallace_c4dc97
+HEADWORD: Wallace, David Foster
+PERSON: yes
+LINK TARGETS: Pulitzer Prize | Set theory | Tennis
+ENTRY:
+American novelist, essayist and professor. He is best known for *Infinite Jest* (1996), a long novel with numerous endnotes, partly set in a [[Tennis|tennis]] academy. His debut novel, *The Broom of the System* (1987), was followed by story collections such as *Brief Interviews with Hideous Men* (1999) and essays including *Consider the Lobster* (2005). *Everything and More* (2003) examines the history of infinity in [[Set theory|set theory]]. His unfinished novel *The Pale King* (2011) was a finalist for the 2012 [[Pulitzer Prize]] for Fiction.
+
+=== KEY: David_Foster_cc715d
+HEADWORD: Foster, David
+PERSON: yes
+LINK TARGETS: Grammy Awards
+ENTRY:
+Canadian and American record producer, composer and songwriter. He has won 16 [[Grammy Awards]] from 45 nominations. Since the 1970s he has composed or produced songs including "I Will Always Love You", "I Have Nothing" and "Hard to Say I'm Sorry", with multiple songs reaching the top spot on the *Billboard* Hot 100. He was nominated three times for the Academy Award for Best Original Song. Foster was senior vice president of Warner Music Group from 1997 and chaired Verve Records from 2012 to 2016. His musical *Boop! The Musical* premiered in Chicago in 2023.
+
+=== KEY: David_Geffen_1f4593
+HEADWORD: Geffen, David
+PERSON: yes
+LINK TARGETS: Forbes | Steven Spielberg
+ENTRY:
+American record executive, film producer and media proprietor. He co-founded Asylum Records with Elliot Roberts in 1971 and founded Geffen Records in 1980. He founded the Geffen Film Company in 1982, and in 1994 he co-founded DreamWorks SKG with [[Steven Spielberg]] and Jeffrey Katzenberg. According to [[Forbes]], Geffen is the wealthiest person in the global entertainment industry, with an estimated net worth of US$9 billion as of 2024.
+
+=== KEY: David_Hasselhoff_33cc7c
+HEADWORD: Hasselhoff, David
+PERSON: yes
+LINK TARGETS: Switzerland
+ENTRY:
+American actor, singer and television personality. He first gained recognition on the soap opera *The Young and the Restless* (1975–1982), then starred as Michael Knight in *Knight Rider* (1982–1986) and as lifeguard Mitch Buchannon in *Baywatch* (1989–2000), which he also executive produced. His single "Looking for Freedom" reached number one in Germany and [[Switzerland]], and his fifteen studio albums found success mostly in German-speaking Europe. He was a judge on *America's Got Talent* (2006–2009) and *Britain's Got Talent* (2011).
+
+=== KEY: David_Hilbert_d2798a
+HEADWORD: Hilbert, David
+PERSON: yes
+LINK TARGETS: Euclidean geometry | Georg Cantor | Hermann Weyl | John von Neumann | Mathematical logic | University of Göttingen
+ENTRY:
+German mathematician and philosopher of mathematics. Hilbert worked on invariant theory, the calculus of variations, commutative algebra, algebraic number theory, the foundations of geometry, spectral theory and mathematical physics, and he co-founded proof theory and [[Mathematical logic|mathematical logic]]. He defended the set theory of [[Georg Cantor]]. His *Grundlagen der Geometrie* (1899) axiomatized [[Euclidean geometry]]. In 1900 he presented 23 problems that set a course for mathematical research in the 20th century. From 1895 he was professor of mathematics at the [[University of Göttingen]], where his students included [[Hermann Weyl]] and Ernst Zermelo and where [[John von Neumann]] served as his assistant.
+
+=== KEY: David_Hume_488ced
+HEADWORD: Hume, David
+PERSON: yes
+LINK TARGETS: Empiricism | Immanuel Kant
+ENTRY:
+Scottish philosopher, historian, economist and essayist. Hume's [[Empiricism|empiricism]] and philosophical skepticism were central to his work. In *A Treatise of Human Nature* (1739–40) he argued that all ideas derive from impressions and that causal inference rests on custom and mental habit, since people perceive only the "constant conjunction" of events. Historians usually credit him with first clearly stating the is–ought problem, and he held that ethics rests on sentiment rather than abstract principle. His *History of England* became a bestseller, while his philosophy of religion, including his rejection of miracles, was controversial and his supposed atheism cost him university chairs. [[Immanuel Kant]] said Hume had awakened him from his "dogmatic slumbers".
+
+=== KEY: David_Koresh_741346
+HEADWORD: Koresh, David
+PERSON: yes
+LINK TARGETS: Polygamy | Texas | Waco siege
+ENTRY:
+American preacher and leader of the Branch Davidians, a religious sect. Koresh claimed to be the sect's final prophet. In 1987 he and his followers took over the group's Mount Carmel Center near Waco, [[Texas]]. He faced allegations of [[Polygamy|polygamy]] and child sexual abuse from former associates. A February 1993 raid by the Bureau of Alcohol, Tobacco, and Firearms led to a 51-day standoff, the [[Waco siege]], which ended in a fire. Koresh died of a gunshot wound in unclear circumstances.
+
+=== KEY: David_Lean_cd165f
+HEADWORD: Lean, David
+PERSON: yes
+LINK TARGETS: Academy Awards | Charles Dickens
+ENTRY:
+English filmmaker and editor, widely considered one of the most important figures of British cinema. Lean began as a film editor in the 1930s before his directorial debut with *In Which We Serve* (1942), the first of four collaborations with Noël Coward. He then directed intimate films such as *Brief Encounter* (1945) and adaptations of [[Charles Dickens]], *Great Expectations* (1946) and *Oliver Twist* (1948). His large-scale epics include *The Bridge on the River Kwai* (1957), *Lawrence of Arabia* (1962), *Doctor Zhivago* (1965) and *A Passage to India* (1984), which was his last film. Lean won the [[Academy Awards|Academy Award]] for Best Director for *The Bridge on the River Kwai* and *Lawrence of Arabia*. After the critical failure of *Ryan's Daughter* (1970), he took a fourteen-year break from filmmaking.
+
+=== KEY: David_Letterman_1d7f4f
+HEADWORD: Letterman, David
+PERSON: yes
+LINK TARGETS: CBS | Conan O'Brien | Johnny Carson | NBC
+ENTRY:
+American comedian, television host and producer. He hosted late-night talk shows for 33 years, first *Late Night with David Letterman* on [[NBC]] from 1982 and then *Late Show with David Letterman* on [[CBS]] until 2015. He hosted 6,080 episodes in total, surpassing his mentor [[Johnny Carson]] as the longest-serving late-night talk show host in American television history. His company, Worldwide Pants, produced *Everybody Loves Raymond*. Late-night hosts including [[Conan O'Brien]] and Stephen Colbert have cited his influence.
+
+=== KEY: David_Livingstone_2203f9
+HEADWORD: Livingstone, David
+PERSON: yes
+LINK TARGETS: Nile | Scramble for Africa | Victoria Falls | Westminster Abbey | Zambia
+ENTRY:
+Scottish doctor, missionary and explorer of Africa. Working with the London Missionary Society, Livingstone explored the African interior and mapped much of central Africa. He sought the sources of the [[Nile]] in the belief that fame from the discovery would give him influence to end the East African slave trade. His travels included the identification of [[Victoria Falls]]. He documented Arab and Portuguese slaving networks and advocated their suppression. He died of dysentery and malaria in what is now [[Zambia]], and his body was returned to Britain for burial in [[Westminster Abbey]]. His death made him a national hero and helped inspire missionary initiatives in central Africa during the [[Scramble for Africa]].
+
+=== KEY: David_Lloyd_George_c90a96
+HEADWORD: Lloyd George, David
+PERSON: yes
+LINK TARGETS: House of Lords | U-boat | Welfare state
+ENTRY:
+Welsh Liberal politician, prime minister of the United Kingdom, 1916–22. As chancellor of the exchequer from 1908 to 1915 he introduced the 1909 People's Budget, whose taxes on land and high incomes led to the Parliament Act 1911 curtailing the veto of the [[House of Lords]]. His National Insurance Act 1911 helped establish the modern [[Welfare state|welfare state]]. As minister of munitions from 1915 he expanded shell production, and in December 1916 he replaced H. H. Asquith as prime minister. He centralized authority in a smaller war cabinet and introduced the convoy system against [[U-boat|U-boats]]. He was a leading participant at the 1919 Paris Peace Conference and negotiated independence for the Irish Free State in 1921, though his government was dogged by a scandal over the sale of honors. The Conservatives ended the coalition in 1922, and he resigned.
+
+=== KEY: David_Lynch_1da2bb
+HEADWORD: Lynch, David
+PERSON: yes
+LINK TARGETS: Academy Awards | Cannes Film Festival
+ENTRY:
+American filmmaker and artist. His films are characterized by a surrealist sensibility that gave rise to the adjective "Lynchian". His feature debut, the body-horror film *Eraserhead* (1977), was followed by *The Elephant Man* (1980), *Blue Velvet* (1986) and *Mulholland Drive* (2001), each of which earned him an [[Academy Awards|Academy Award]] nomination for Best Director. *Wild at Heart* (1990) won the Palme d'Or at the [[Cannes Film Festival]]. With Mark Frost he co-created the ABC series *Twin Peaks* (1990–1991; 2017), which is often listed among the greatest television series. He also directed *Dune* (1984), which he later disowned after studio interference, and *Inland Empire* (2006), his last feature film. A longtime practitioner of Transcendental Meditation, he founded the David Lynch Foundation.
+
+=== KEY: David_Mamet_f89f12
+HEADWORD: Mamet, David
+PERSON: yes
+LINK TARGETS: CBS | Pulitzer Prize
+ENTRY:
+American playwright, author and filmmaker. He won a [[Pulitzer Prize]] for *Glengarry Glen Ross* (1983). His other plays include *American Buffalo* and *Speed-the-Plow* (1988), and he wrote and directed films including *House of Games* (1987), *The Spanish Prisoner* (1997) and *Heist* (2001). He wrote the screenplays for *The Postman Always Rings Twice* (1981) and *The Verdict* (1982). He created and produced the [[CBS]] series *The Unit* (2006–2009). His 2011 book *The Secret Knowledge: On the Dismantling of American Culture* is a commentary on cultural and political issues.
+
+=== KEY: David_Michelangelo_0b0e0c
+HEADWORD: David
+PERSON: no
+LINK TARGETS: Classical antiquity | Florence Cathedral | Michelangelo
+ENTRY:
+Renaissance marble statue in Florence, Italy, by [[Michelangelo]]. Michelangelo carved the statue, 5.17 m high, from a very large block of marble between 1501 and 1504. Earlier sculptors had begun work on the block, which was originally intended for a series of prophets on the roofline of the [[Florence Cathedral|cathedral]]. The statue was instead unveiled in the Piazza della Signoria on September 8, 1504. It became a symbol of the civil liberties of the Florentine republic, which faced threats from more powerful rivals and from the Medici family. It was the first colossal marble statue of the High Renaissance and the first since [[Classical antiquity|classical antiquity]]. The statue was moved to the Galleria dell'Accademia in 1873, and a replica stands on its original site.
+
+=== KEY: David_Niven_aa2a23
+HEADWORD: Niven, David
+PERSON: yes
+LINK TARGETS: World War II
+ENTRY:
+English actor, memoirist and novelist. He won the Academy Award for Best Actor for *Separate Tables* (1958), a record for the shortest winning performance in the category, at 23 minutes and 39 seconds. He rejoined the army in the [[World War II|Second World War]] and co-starred in *The First of the Few* (1942). His other films include *Around the World in 80 Days* (1956), *The Pink Panther* (1963), in which he played Sir Charles Lytton, and *Casino Royale* (1967), in which he played James Bond. His memoir *The Moon's a Balloon* (1971) was a bestseller.
+
+=== KEY: David_Ricardo_e4fc46
+HEADWORD: Ricardo, David
+PERSON: yes
+LINK TARGETS: Adam Smith | Protectionism
+ENTRY:
+British economist and politician. A leading classical economist, Ricardo worked alongside [[Adam Smith]] and others in shaping the field. He introduced the concept of comparative advantage, holding that nations should concentrate resources in the industries where they are most efficient relative to their alternative uses. He argued that international trade is always beneficial, even when one country is more competitive in every area. He opposed the Corn Laws and [[Protectionism|protectionism]]. He revised Adam Smith's labor theory of value and developed theories of rent, wages and profits. Elected to Parliament for Portarlington in 1819, he advocated parliamentary reform and free trade. His *On the Principles of Political Economy and Taxation* (1817) set out these ideas.
+
+=== KEY: David_Tennant_db6277
+HEADWORD: Tennant, David
+PERSON: yes
+LINK TARGETS: 
+ENTRY:
+Scottish actor known for playing the Tenth Doctor in *Doctor Who*. He starred in the role from 2005 to 2010 and returned as the Fourteenth Doctor in 2023. His other television roles include DI Alec Hardy in *Broadchurch* (2013–2017) and Kilgrave in *Jessica Jones* (2015–2019). On stage he has worked extensively with the Royal Shakespeare Company, including *Hamlet* (2008–2009) and *Richard II* (2013, 2016). His accolades include two BAFTA Scotland Awards and two Emmy Awards.
+
+=== KEY: Davy_Crockett_4df972
+HEADWORD: Crockett, Davy
+PERSON: yes
+LINK TARGETS: Andrew Jackson | Battle of the Alamo | Texas | United States House of Representatives
+ENTRY:
+American politician and frontiersman. He represented Tennessee in the [[United States House of Representatives]] from 1827 to 1831 and from 1833 to 1835, opposing President [[Andrew Jackson]]'s Indian Removal Act. After losing his seat in 1835 he went to [[Texas]] and fought in the Texas Revolution. He died at the [[Battle of the Alamo]], and accounts differ on whether he was killed in combat or executed after capture. Stories of his larger-than-life exploits, popularized by stage plays and almanacs, made him one of the best-known American folk heroes.
+
+=== KEY: Dawood_Ibrahim_b63027
+HEADWORD: Ibrahim, Dawood
+PERSON: yes
+LINK TARGETS: Dubai | Karachi | Mumbai | United Nations Security Council
+ENTRY:
+Indian-born Pakistani gangster and crime boss. He founded the criminal syndicate D-Company in [[Mumbai]] in the 1970s and fled to [[Dubai]] in 1986. He is wanted on charges including murder, extortion and terrorism. He is widely believed to have masterminded the 1993 Bombay bombings, and in 2003 the [[United Nations Security Council]] and the United States designated him a global terrorist. The United States has a bounty of US$25 million on him. He is reported to live in [[Karachi]], Pakistan, a claim the Pakistani government denies.
+
+=== KEY: Day_03727a
+HEADWORD: Day
+PERSON: no
+LINK TARGETS: Calendar | Circadian rhythm | Coordinated Universal Time | Earth | Jupiter | Mercury (planet) | Time zone | Venus
+ENTRY:
+Unit of time equal to one full rotation of the [[Earth]] with respect to the Sun, averaging 24 hours (86,400 seconds). The daily cycle drives [[Circadian rhythm|circadian rhythms]] in many organisms.
+
+Days are organized into [[Calendar|calendars]], grouped into weeks, months, and years. In common usage a day starts at midnight. Because the time of midnight varies between locations, [[Time zone|time zones]] provide a uniform standard time; they began to be adopted in the middle of the 19th century with railroads, and as of 2015, 40 were in use, all defined as offsets from [[Coordinated Universal Time]]. The Jewish religious calendar counts days from sunset, and in astronomy a day begins at noon.
+
+Several definitions serve specific purposes. The SI day is exactly 86,400 seconds. A fictitious mean Sun moving at constant speed defines the mean solar day, removing the yearly variation caused by Earth's orbit and axial tilt. A sidereal day, measured against the celestial background, lasts 23 hours, 56 minutes, and 4 seconds. Tidal interactions with the Moon are lengthening Earth's day by about 2.3 milliseconds per century.
+
+On other bodies a day is a full rotation with respect to the star. The solar day on [[Mercury (planet)|Mercury]] is 176 Earth days, longer than its year of 88 days; on [[Venus]] it is 117 Earth days, shorter than its year of 225 days. [[Jupiter]] has a day of approximately 10 hours, and a solar day on Mars is about 24 hours and 37 minutes.
+
+=== KEY: Day_of_the_Dead_5391f4
+HEADWORD: Day of the Dead
+PERSON: no
+LINK TARGETS: Altar | UNESCO
+ENTRY:
+Mexican holiday honoring deceased family and friends. Traditionally held on November 1 and 2, the multi-day holiday involves visiting graves and building home [[Altar|altars]] called *ofrendas*, stocked with the favorite foods and drinks of the dead. Marigolds and sugar skulls (*calaveras*) are common, and celebrants share humorous anecdotes about the departed. Scholars disagree on its origins: some argue for Indigenous Mexican or Aztec influences, while others see a local form of the Spanish Allhallowtide season. In 2008 [[UNESCO]] added the festival to its Intangible Cultural Heritage list.
+
+=== KEY: Daylight_saving_time_4ce67f
+HEADWORD: Daylight saving time
+PERSON: no
+LINK TARGETS: Benjamin Franklin | Canada | United States
+ENTRY:
+Practice of advancing clocks by one hour in spring and setting them back in autumn. Daylight saving time (DST) makes better use of summer daylight by moving darkness to a later clock time, hence the mnemonic "spring forward, fall back". The first local implementation was in Port Arthur and Fort William, Ontario, [[Canada]], in 1908, and the first nationwide ones were by the German and Austro-Hungarian Empires, starting April 30, 1916. As of 2023 around 34 percent of the world's countries used DST, mainly in Europe and North America. The [[United States|U.S.]] and Russia both tried permanent DST only briefly, and the U.S. then returned to seasonal DST while Russia switched to permanent standard time. In a satirical 1784 letter, [[Benjamin Franklin]] suggested that Parisians wake earlier in summer to save candles, but he did not propose changing clocks.
+
+=== KEY: Days_of_Our_Lives_fbd071
+HEADWORD: Days of Our Lives
+PERSON: no
+LINK TARGETS: Illinois | NBC | Soap opera
+ENTRY:
+American daytime television [[Soap opera|soap opera]]. Created by husband-and-wife team Ted Corday and Betty Corday, the show premiered on [[NBC]] on November 8, 1965, and is set in the fictional town of Salem, [[Illinois]]. It centers on the Brady and Horton families. Daily episodes were expanded from 30 to 60 minutes in 1975. The soap moved exclusively to the Peacock streaming service in September 2022, after 57 years on NBC. It celebrated its 15,000th episode on December 2, 2024, and has been renewed through 2028.
+
+=== KEY: Dayton_Ohio_6cf4ed
+HEADWORD: Dayton, Ohio
+PERSON: no
+LINK TARGETS: Manhattan Project | Wright brothers
+ENTRY:
+City and county seat of Montgomery County, Ohio, United States. Founded in 1796 on the Great Miami River and named for Jonathan Dayton, a signer of the U.S. Constitution, it grew in the 19th century as a canal town. It was home to many inventors, notably the [[Wright brothers]], who developed the first successful motor-operated airplane. Later the city hosted the Dayton Project, a branch of the [[Manhattan Project]] that developed polonium triggers for early atomic bombs. The city had 137,644 residents at the 2020 census and is a logistics hub near Wright-Patterson Air Force Base.
+
+=== KEY: De_Havilland_Canada_Dash_8_34a81c
+HEADWORD: De Havilland Canada Dash 8
+PERSON: no
+LINK TARGETS: Boeing
+ENTRY:
+Canadian turboprop regional airliner. Introduced in 1984, the Dash 8 was developed from the Dash 7 with two more powerful Pratt & Whitney Canada PW100-series engines and improved cruise performance. Its four sizes included the Series 200, with 37–40 seats, and the Series 400, with 68–90. [[Boeing]] bought the manufacturer in 1986, followed by Bombardier in 1992 and Longview Aviation Capital in 2019, which revived the De Havilland Canada brand.
+
+=== KEY: De_Havilland_Comet_0d5cec
+HEADWORD: De Havilland Comet
+PERSON: no
+LINK TARGETS: Fatigue (material) | Jet engine
+ENTRY:
+Four-engined British jet airliner, the world's first commercial jet. The Comet 1 prototype first flew in 1949, and the airliner entered service in 1952 with four [[Jet engine|turbojet engines]] in the wing roots. Within a year three Comets were lost in mid-flight accidents: two from structural failure caused by [[Fatigue (material)|metal fatigue]], and one from overstressing in severe weather. Design flaws led to extensive redesign. The redesigned Comet 4 debuted in 1958. The most extensive modification produced the Hawker Siddeley Nimrod maritime patrol aircraft, which remained in Royal Air Force service until 2011.
+
+=== KEY: De_Morgan_s_laws_941a1f
+HEADWORD: De Morgan's laws
+PERSON: no
+LINK TARGETS: Boolean algebra | Computer program | Intersection (set theory) | Propositional logic
+ENTRY:
+Pair of transformation rules in [[Propositional logic|propositional logic]] and [[Boolean algebra]]. Named after the 19th-century British mathematician Augustus De Morgan, they state that the negation of A and B equals not A or not B, and the negation of A or B equals not A and not B. In set theory, the complement of a union equals the [[Intersection (set theory)|intersection]] of the complements, and the reverse also holds. The laws allow conjunctions and disjunctions to be rewritten in terms of each other, which simplifies logic in [[Computer program|computer programs]] and digital circuits.
+
+=== KEY: De_revolutionibus_orbium_coelestium_a86d5f
+HEADWORD: De revolutionibus orbium coelestium
+PERSON: no
+LINK TARGETS: Nicolaus Copernicus | Nuremberg | Planet | Ptolemy | Scientific Revolution | Trigonometry
+ENTRY:
+Astronomical treatise by [[Nicolaus Copernicus]] setting out a heliocentric model of the universe. Printed in [[Nuremberg]] in 1543, shortly before Copernicus's death, it offered an alternative to [[Ptolemy|Ptolemy's]] geocentric system, which had been widely accepted since ancient times. Copernicus placed the Sun at the center, with Earth and the other [[Planet|planets]] orbiting it. He had first outlined the system in an untitled manuscript, the *Commentariolus*, circulated among friends. Under strong pressure from the mathematician Georg Joachim Rheticus, he agreed to publication, and in 1542 a [[Trigonometry|trigonometry]] treatise drawn from the work's second book appeared under his name. The book is often linked to the start of the [[Scientific Revolution]].
+
+=== KEY: Dead_Sea_Scrolls_85d173
+HEADWORD: Dead Sea Scrolls
+PERSON: no
+LINK TARGETS: Aramaic | Dead Sea | Hebrew Bible | Jerusalem | Papyrus | Parchment | Radiocarbon dating | West Bank
+ENTRY:
+Ancient Jewish biblical manuscripts, mostly from the Second Temple period. Discovered between 1946 and 1956 in the Qumran Caves near the [[Dead Sea]] in the [[West Bank]], they date from the 3rd century BCE to the 1st century CE and include the oldest surviving copies of books later included in Jewish and Christian biblical canons. Researchers have assembled 981 different manuscripts from 11 caves, and most of the roughly 15,000 scrolls and fragments are held in [[Jerusalem]]. The texts are mainly in Hebrew, with some in [[Aramaic]] and a few in Greek, written on [[Parchment|parchment]] and [[Papyrus|papyrus]]. About 40% copy the [[Hebrew Bible|Hebrew scriptures]], about 30% are Second Temple texts outside the Hebrew Bible, and the rest are sectarian works. [[Radiocarbon dating|Radiocarbon dating]] supports the dating.
+
+=== KEY: Dead_Sea_bb7fda
+HEADWORD: Dead Sea
+PERSON: no
+LINK TARGETS: Bitumen | Israel | Jordan | Jordan River | Potash | Sea level | West Bank
+ENTRY:
+Landlocked salt lake in the Jordan Rift Valley, bordered by [[Jordan]] to the east and [[Israel]] and the [[West Bank]] to the west. Its main tributary is the [[Jordan River]], and it has no outlet; at 304 m deep, it is the deepest hypersaline lake in the world. As of 2025 its surface lies 439.78 m below [[Sea level|sea level]], making its shores the lowest land-based elevation on Earth. With a salinity of 34.2% (2011), the water is about 9.6 times as salty as the ocean, so swimmers float, and few plants or animals survive. It was one of the world's first health resorts and has supplied products from [[Bitumen|bitumen]] for Egyptian mummification to [[Potash|potash]] for fertilizer. Its surface has shrunk from 1,050 sq km in 1930 to 605 sq km today.
+
+=== KEY: Dean_Martin_955bdb
+HEADWORD: Martin, Dean
+PERSON: yes
+LINK TARGETS: Frank Sinatra | Jerry Lewis | Las Vegas | Sammy Davis Jr.
+ENTRY:
+American singer, actor and comedian, born Dino Paul Crocetti. Nicknamed "The King of Cool," he formed a nightclub act with comedian [[Jerry Lewis]] in 1946, billed as Martin and Lewis, which ended acrimoniously in 1956. As a solo performer he became one of the most popular acts in [[Las Vegas]] and a member of the Rat Pack with [[Frank Sinatra]] and [[Sammy Davis Jr.]] He hosted the television variety program *The Dean Martin Show* from 1965, and sold over 50 million records worldwide.
+
+=== KEY: Death_6097f8
+HEADWORD: Death
+PERSON: no
+LINK TARGETS: Afterlife | Brain death | Cardiovascular disease | Funeral | Natural selection | Suicide
+ENTRY:
+Irreversible cessation of the biological functions that sustain a living organism. After death, organisms stop exhibiting behavior and generally begin to decompose. Death can occur at any stage of development, and entropy, the tendency toward disorder, can contribute to the breakdown of living systems. Clinical death, the stopping of breathing and heartbeat, may in some cases be reversed, sometimes producing a near-death experience.
+
+Defining death is difficult, partly because there is little consensus on how to define life and because life functions do not cease simultaneously across organ systems. Death was originally defined as the end of breathing and heartbeat, but cardiopulmonary resuscitation (CPR) meant that this state was no longer strictly irreversible. For organisms with a brain, death can instead be focused on that organ. Some hold that all brain functions must cease; others hold that a person whose personality and identity are irretrievably lost should be considered dead even if the brainstem is alive. [[Brain death]] is sometimes used as a legal definition. It is diagnosed through clinical examination, apnea testing, and exclusion of confounding factors such as hypothermia or drug effects. Controversies include the rare reports of recovery and the ethics of withdrawing life support.
+
+In the natural world, organisms die through predation, parasitism, competition, starvation, dehydration, natural disasters, disease, or old age. Some organisms, such as the immortal jellyfish, are biologically immortal yet can still die from other causes. Selective pressures cause organisms with unfavorable traits to die off, and [[Natural selection]] drives living things to avoid death. When all members of a clade have died, it is extinct; extinction events are periods of mass death in many species worldwide that cause a global loss of biodiversity.
+
+As of the early 21st century, 56 million people die per year. As of 2022, an estimated almost 110 billion humans had died, roughly 94% of all humans to have ever lived. The most common reason is aging, and the most common cause is [[Cardiovascular disease|cardiovascular disease]]. An autopsy can be done to determine cause of death. Biogerontology seeks ways to eliminate death by natural aging, and humans attempt to reach their maximum lifespan through lifestyle changes such as calorie reduction, diet, and exercise. Humans also die through [[Suicide|suicide]], homicide, punishment for crimes, and war.
+
+Because humans are aware of death, it is a central part of the human condition and universal to human culture. It has motivated religious, spiritual, ethical, and legal responses. Many cultures hold that individuals survive death in an [[Afterlife|afterlife]], as spirits, or through reincarnation, while monist forms of thought such as materialism and physicalism take other views. Customs for honoring the body include the [[Funeral|funeral]], cremation, and sky burial, and family and friends usually go through a process of grieving. The study of death is known as thanatology.
+
+=== KEY: Death_Note_83ebc5
+HEADWORD: Death Note
+PERSON: no
+LINK TARGETS: Anime | Manga | Netflix
+ENTRY:
+Japanese [[Manga|manga]] series by Tsugumi Ohba and Takeshi Obata. Serialized in *Weekly Shōnen Jump* from December 2003 to May 2006, it follows a high school student who finds a notebook in which writing a name causes that person's death. Light Yagami pursues a crime-free world under the alias Kira, while an elite police task force led by the detective L hunts him. A 37-episode [[Anime|anime]] series aired in 2006–07, and an American film was released on [[Netflix]] in 2017.
+
+=== KEY: Death_Valley_824014
+HEADWORD: Death Valley
+PERSON: no
+LINK TARGETS: California | Mojave Desert | Nevada
+ENTRY:
+Desert valley in eastern [[California]], in the northern [[Mojave Desert]]. Lying mostly in Inyo County, near the [[Nevada]] border, it covers about 3,000 sq mi (7,800 sq km) and forms much of Death Valley National Park. A reading of 134 °F (56.7 °C) at Furnace Creek in 1913 is disputed, but the highest reliable temperature on Earth, 130 °F (54.4 °C), was recorded there in 2020 and 2021. The name dates from 1849–1850, when pioneers on their way to the California gold rush became lost in the valley; one member of the group died before they escaped.
+
+=== KEY: Death_metal_band_ccdd92
+HEADWORD: Death
+PERSON: no
+LINK TARGETS: Pneumonia
+ENTRY:
+American death metal band, formed in Altamonte Springs, Florida, in 1983. Guitarist Chuck Schuldiner founded the group, originally as Mantas, with Rick Rozz and Kam Lee. The lineup fluctuated, with Schuldiner its only consistent member. Regarded as a pioneering death metal band, Death released *Scream Bloody Gore* in 1987, among the first death metal records. The band disbanded after Schuldiner died of glioma and [[Pneumonia|pneumonia]] in December 2001.
+
+=== KEY: Death_of_a_Salesman_feebcd
+HEADWORD: Death of a Salesman
+PERSON: no
+LINK TARGETS: Arthur Miller | Pulitzer Prize | Tragedy
+ENTRY:
+Two-act [[Tragedy|tragedy]] by American playwright [[Arthur Miller]]. Set in late-1940s Brooklyn, it follows Willy Loman, a traveling salesman whose life is unraveling and who seems to be slipping into senility, through a montage of memories, dreams and arguments. Its themes include the American Dream, the nature of truth and infidelity. The play opened on Broadway on February 10, 1949, ran for 742 performances and won the [[Pulitzer Prize]] for Drama and the Tony Award for Best Play. It has been revived on Broadway five times, winning four Tony Awards for Best Revival. In 1999 critic John Lahr said that, with 11 million copies sold, it was "probably the most successful modern play ever published."
+
+=== KEY: Debbie_Reynolds_f2dc89
+HEADWORD: Reynolds, Debbie
+PERSON: yes
+LINK TARGETS: Carrie Fisher | Gene Kelly | Las Vegas | Stroke
+ENTRY:
+American actress, singer and dancer. Her breakout role was in *Singin' in the Rain* (1952), opposite [[Gene Kelly]]. She had a hit with the song "Tammy" from *Tammy and the Bachelor* (1957) and received an Academy Award nomination for Best Actress in *The Unsinkable Molly Brown* (1964). She voiced Charlotte in *Charlotte's Web* (1973), opened a dance studio, and pursued business ventures including a [[Las Vegas]] hotel and casino. Her daughter was actress [[Carrie Fisher]]. Reynolds died of a hemorrhagic [[Stroke|stroke]].
+
+=== KEY: Debian_6fe8b9
+HEADWORD: Debian
+PERSON: no
+LINK TARGETS: Operating system | Toy Story
+ENTRY:
+Free, general-purpose [[Operating system|operating system]], a Linux distribution. The volunteer Debian Project was founded by Ian Murdock on August 16, 1993. Debian is the second-oldest Linux distribution still in development, after Slackware, and forms the base of many others. Among Linux distributions it ranks second only to Ubuntu, a Debian derivative, with 16% of the overall market. Its emphasis on stability and long-term support has made it common on servers and embedded devices. Releases are named after characters in [[Toy Story]]. The current stable release, Trixie, appeared on August 9, 2025.
+
+=== KEY: Debit_card_87aed5
+HEADWORD: Debit card
+PERSON: no
+LINK TARGETS: Bank | Cheque | Credit card
+ENTRY:
+Payment card drawing funds directly from a linked [[Bank|bank]] account. Unlike a [[Credit card|credit card]], the money for a purchase must already be in the account and moves immediately to the merchant. Most debit cards relay a message to the bank to withdraw funds, although some hold stored value (prepaid) and others exist only as virtual card numbers for internet use. Debit cards usually also allow cash withdrawal from automated teller machines, and many new cards carry a chip for contactless use or PIN entry. In many countries debit cards have overtaken [[Cheque|checks]] in volume or replaced them, though national systems often remain incompatible. The five major debit card networks are UnionPay, American Express, Discover, Mastercard and Visa.
+
+=== KEY: Debt_41da4c
+HEADWORD: Debt
+PERSON: no
+LINK TARGETS: Bankruptcy | Bond (finance) | Income tax | Loan | Mortgage | Sovereign state
+ENTRY:
+Obligation to repay money borrowed or otherwise withheld from a creditor. A debtor may be a [[Sovereign state|sovereign state]], local government, company or individual, and commercial debt is generally governed by contract terms for repaying principal and interest. [[Loan|Loans]], [[Bond (finance)|bonds]], notes and [[Mortgage|mortgages]] are all types of debt. Repayment may fall due in full at maturity, be amortized over the term, or leave a final balloon payment. If a debt is secured by collateral, the creditor may repossess it, and serious defaults can lead to [[Bankruptcy|bankruptcy]]. Individuals commonly owe mortgages, car loans, credit card debt and [[Income tax|income taxes]]. The term entered English in the late 13th century from Old French, which took it from Latin *debere*, meaning to owe.
+
+=== KEY: Decapitation_4f67ce
+HEADWORD: Decapitation
+PERSON: no
+LINK TARGETS: French Revolution | Guillotine | Nigeria | Saudi Arabia | Sharia | Terrorism | Yemen
+ENTRY:
+Complete separation of the head from the body. It is invariably fatal to humans and vertebrate animals, because it cuts off the brain's oxygenated blood supply. Beheading, the deliberate decapitation of a person, may be carried out with an ax, sword or knife, or by a [[Guillotine|guillotine]]. [[Saudi Arabia]] and [[Yemen]] permit beheading under national law, and under [[Sharia]], which applies only to Muslims, it is a legal punishment in Zamfara State, [[Nigeria]]. In France the [[French Revolution]] made beheading the only legal method of execution for all criminals. The practice has also become associated with [[Terrorism|terrorism]].
+
+=== KEY: Decapod_30d3b7
+HEADWORD: Decapod
+PERSON: no
+LINK TARGETS: Crab | Crayfish | Devonian | Lobster | Malacostraca | Scavenger | Shrimp
+ENTRY:
+Crustacean in the large order Decapoda, within the class [[Malacostraca]]. Decapods include [[Crab|crabs]], [[Lobster|lobsters]], [[Crayfish|crayfish]] and [[Shrimp|shrimp]], and most are [[Scavenger|scavengers]]. The name, from Greek for ten and foot, refers to ten legs, called pereiopods, on the last five thoracic segments. The order contains nearly 15,000 living species in about 2,700 genera, and nearly half are crabs. Decapods can have as many as 38 appendages, and the order is divided into two suborders, Dendrobranchiata (prawns) and Pleocyemata, according to the structure of gills and legs and the way larvae develop. The earliest fossils date to the [[Devonian]].
+
+=== KEY: Decathlon_0a0c34
+HEADWORD: Decathlon
+PERSON: no
+LINK TARGETS: Discus throw | High jump | Javelin throw | Jim Thorpe | Long jump | Pole vault | Shot put | Track and field
+ENTRY:
+Combined athletics event of ten [[Track and field]] events, contested over two consecutive days. Winners are decided by points scored in each event rather than by place. The events include the 100 meters, [[Long jump]], [[Shot put]], [[High jump]], 400 meters, 110 meters hurdles, [[Discus throw]], [[Pole vault]], [[Javelin throw]] and 1500 meters. The name is formed on the analogy of pentathlon, a contest at the ancient Greek Olympics. The modern decathlon first appeared at the 1912 Stockholm Olympics, where [[Jim Thorpe]] won and was told by Gustav V of Sweden, "Sir, you are the world's greatest athlete." The men's world record is 9,126 points, set by Kevin Mayer of France in 2018. Women typically compete in the heptathlon.
+
+=== KEY: Deccan_Plateau_2de0f3
+HEADWORD: Deccan Plateau
+PERSON: no
+LINK TARGETS: Bay of Bengal | British Raj | Deccan Traps | Deccan sultanates | Vijayanagara Empire | Western Ghats
+ENTRY:
+Plateau forming the bulk of the Deccan Peninsula in western, central and southern India. It covers about 422,000 sq km (163,000 sq mi) and is bounded by the Eastern and [[Western Ghats]], which block rain-bearing winds, leaving the region drier than the coast. Its average elevation is about 600 m, and it slopes gently east toward the [[Bay of Bengal]], so major rivers such as the Godavari, Krishna and Kaveri flow that way. The northwestern [[Deccan Traps]] are layers of basalt from a massive volcanic eruption at the end of the Cretaceous period. In the later Middle Ages the [[Vijayanagara Empire]] held the lower plateau and the [[Deccan sultanates]] the upper. The area was under [[British Raj]] control for nearly two centuries before Indian independence in 1947.
+
+=== KEY: Deccan_Traps_b5645f
+HEADWORD: Deccan Traps
+PERSON: no
+LINK TARGETS: Cretaceous–Paleogene boundary | Réunion
+ENTRY:
+Large igneous province of west-central India, among the largest volcanic features on Earth. Its many layers of flood basalt are more than 2 km thick, cover about 500,000 sq km and have a volume of about 1 million cubic km. The eruptions occurred over 600,000 to 800,000 years, between about 66.3 and 65.6 million years ago, spanning the [[Cretaceous–Paleogene boundary]]. The eruptions are now generally considered to have played a minor role at most in the Cretaceous–Paleogene mass extinction, with the Chicxulub impact regarded as the primary cause. The province is thought to have been produced largely by the [[Réunion]] hotspot, which created the Mascarene Islands.
+
+=== KEY: Deccan_sultanates_35b59a
+HEADWORD: Deccan sultanates
+PERSON: no
+LINK TARGETS: Aurangzeb | Deccan Plateau | Mughal Empire | Vijayanagara Empire
+ENTRY:
+Historiographical term for five medieval Persianate Muslim kingdoms of the [[Deccan Plateau]]: Ahmadnagar, Berar, Bidar, Bijapur and Golconda. They emerged after the Bahmani Sultanate disintegrated; Ahmadnagar declared independence in 1490, followed by Bijapur and Berar that year, Bidar around 1492 and Golconda in 1512. Their founders were of diverse origins: Bidar's by a Georgian slave and Golconda's by a slave of Iranian Turkmen origin. All based their legitimacy on succeeding the Bahmani Sultanate and used its coins. Although often rivals, the sultanates allied against the [[Vijayanagara Empire]] at the Battle of Talikota in 1565, which destroyed the city of Vijayanagara. The [[Mughal Empire]] took Berar in 1596 and Ahmadnagar between 1616 and 1636, and [[Aurangzeb]] conquered Golconda and Bijapur in 1686–87.
+
+=== KEY: Decebalus_d10719
+HEADWORD: Decebalus
+PERSON: yes
+LINK TARGETS: Dacians | Danube | Domitian | Roman Empire | Suicide | Trajan
+ENTRY:
+Last [[Dacians|Dacian]] king (r. 87–106). He fought three wars against the [[Roman Empire]] under two emperors. After raiding south across the [[Danube]], he defeated a Roman invasion under [[Domitian]], killing its commander Cornelius Fuscus, and secured a period of independence. He was crowned king after the aging Duras abdicated, and the Roman historian Cassius Dio called him a shrewd commander and a worthy antagonist of the Romans for a long time. [[Trajan]] invaded Dacia and defeated Decebalus in 102, after which he remained a client king. A final Roman invasion in 105 was followed by the destruction of the Dacian capital Sarmizegetusa in 106, and Decebalus died by [[Suicide|suicide]] to avoid capture.
+
+=== KEY: December_823315
+HEADWORD: December
+PERSON: no
+LINK TARGETS: Winter solstice
+ENTRY:
+Twelfth and final month of the year in the Julian and Gregorian calendars, with 31 days. Its name derives from Latin *decem*, meaning ten, because it was the tenth month of Romulus's calendar, c. 750 BC, which began in March. It is the first month of winter in the Northern Hemisphere, when the [[Winter solstice]] falls, and the first month of summer in the Southern Hemisphere. Its birth flower is the narcissus, and its birthstones are turquoise, zircon and tanzanite.
+
+=== KEY: Decentralization_f792e7
+HEADWORD: Decentralization
+PERSON: no
+LINK TARGETS: Blockchain | Pierre-Joseph Proudhon | Public administration
+ENTRY:
+Distribution of planning and decision-making away from a central authority, applied to organizations, politics, law, [[Public administration|public administration]], technology, economics and money. The word *centralisation* came into use in France in 1794, and *décentralisation* in the 1820s. In the early 20th century, a decentralist movement in the United States opposed the concentration of economic wealth and political power in large-scale industry. In government, decentralization usually means devolving administrative or fiscal authority to subnational governments. In technology it appears in distributed systems such as [[Blockchain|blockchain]]. The anarchist theorist [[Pierre-Joseph Proudhon]] summed up his political ideas as federation or decentralization. Leopold Kohr's 1957 book *The Breakdown of Nations* influenced E. F. Schumacher's *Small Is Beautiful* (1973).
+
+=== KEY: Decibel_27e6a8
+HEADWORD: Decibel
+PERSON: no
+LINK TARGETS: Acoustics | Alexander Graham Bell | Amplifier | Electronics | Signal-to-noise ratio
+ENTRY:
+Logarithmic unit equal to one tenth of a bel, expressing the ratio of two power or root-power quantities. A tenfold change in power is 10 dB, and a tenfold change in amplitude is 20 dB. Two signals whose levels differ by one decibel have a power ratio of about 1.26. The unit originated in early 20th-century telephone measurement at the Bell System, and the bel is named after [[Alexander Graham Bell]]. The decibel is most widely used for sound in [[Acoustics]], and for [[Amplifier|amplifier]] gains, signal losses and [[Signal-to-noise ratio|signal-to-noise ratios]] in [[Electronics]].
+
+=== KEY: Decimal_937504
+HEADWORD: Decimal
+PERSON: no
+LINK TARGETS: Hindu–Arabic numeral system | Rational number | Roman numerals
+ENTRY:
+Numeral system using ten as its base (radix). Its most common form is the [[Hindu–Arabic numeral system]], a positional system with ten digits, 0 to 9, which made very large numbers far easier to write and calculate with and was later extended to represent decimal fractions. A decimal separator, usually "." in English-speaking countries and "," in many others, marks the fractional part, as in 25.9703 or 3.1415. Non-positional base-ten systems include [[Roman numerals]] and Chinese numerals. Many ancient civilizations used ten and its powers, possibly because people counted on their fingers. A decimal fraction is a number of the form a/10ⁿ, where a is an integer and n is a non-negative integer. An infinite decimal represents a [[Rational number|rational number]] if and only if it repeats or has finitely many nonzero digits.
+
+=== KEY: Declaration_of_the_Rights_of_Man_and_of_the_Citizen_b1c6d0
+HEADWORD: Declaration of the Rights of Man and of the Citizen
+PERSON: no
+LINK TARGETS: French Revolution | Jean-Jacques Rousseau | Marquis de Lafayette | Montesquieu | Thomas Jefferson
+ENTRY:
+Human and civil rights document of the [[French Revolution]]. Its last article was adopted by the National Constituent Assembly on August 26, 1789, as the first step toward a constitution for the Kingdom of France. [[Marquis de Lafayette]] prepared the initial drafts with assistance from [[Thomas Jefferson]], but most of the final text came from Abbé Sieyès. Drawing on Enlightenment thinkers such as [[Montesquieu]] and [[Jean-Jacques Rousseau]], it declares that "men are born and remain free and equal in rights" and treats liberty, property, security and resistance to oppression as natural rights. Its principles excluded women, slaves and non-property owners from full citizenship. The declaration was placed at the beginning of the constitutions of the French Fourth Republic (1946) and Fifth Republic (1958).
+
+=== KEY: Decolonization_63b3a9
+HEADWORD: Decolonization
+PERSON: no
+LINK TARGETS: Algerian War | American Revolution | British Empire | Cold War | Frantz Fanon | Haitian Revolution | Spanish American wars of independence | United Nations
+ENTRY:
+Process by which colonized territories gain independence or self-determination from imperial powers. Its meanings and applications are disputed; some scholars focus on independence movements and the collapse of global colonial empires.
+
+Decolonization began in 1775 with the [[American Revolution]] against the [[British Empire]]. During the Napoleonic Wars the French colonial empire, the Spanish Empire, and Portugal faced the [[Haitian Revolution]], the [[Spanish American wars of independence]], and the independence of Brazil. A further wave followed World War I, another followed World War II, and a last came after the [[Cold War]] with the collapse of the Soviet Union, the independence of Palau, and the handovers of Hong Kong and Macau. Over 80 new states emerged after World War II through negotiated handovers, armed struggles such as the [[Algerian War]], and swift independences such as that of 17 African nations in 1960. Seventeen territories remain on the [[United Nations]] list of non-self-governing territories.
+
+The UN holds that the right to self-determination is the core requirement and can be exercised with or without political independence; a 1960 General Assembly resolution characterized colonial foreign rule as a violation of human rights. Many scholars trace the ideological roots of independence movements to the Age of Enlightenment, though decolonial scholars have criticized its failure to extend liberty and dignity to Indigenous and subaltern peoples.
+
+Early studies appeared in the 1960s and 1970s, notably *The Wretched of the Earth* (1961) by [[Frantz Fanon]]. Decolonization often left arbitrary borders, resource-reliant economies, and weak institutions, which contributed to conflicts and uneven development.
+
+=== KEY: Decomposition_b8204a
+HEADWORD: Decomposition
+PERSON: no
+LINK TARGETS: Biosphere | Carbon dioxide | Earthworm | Microorganism | Odor
+ENTRY:
+Process by which dead organic matter is broken down into simpler organic or inorganic substances, such as [[Carbon dioxide|carbon dioxide]], water, simple sugars and mineral salts. It is part of the nutrient cycle and recycles finite matter within the [[Biosphere]]. Abiotic decomposition involves chemical or physical processes such as hydrolysis, while biotic decomposition, or biodegradation, is the metabolic breakdown of materials by living organisms, typically [[Microorganism|microorganisms]]. Decomposers, or detritivores, include bacteria, fungi and animals such as [[Earthworm|earthworms]]. In animals, decay begins at death through autolysis, the breakdown of tissues by the body's own enzymes, and putrefaction by bacteria, which releases cadaverine and putrescine, the chief source of the [[Odor|odor]] of decaying tissue. Rates depend on temperature, moisture, oxygen and soil pH.
+
+=== KEY: Decorative_arts_ebab5f
+HEADWORD: Decorative arts
+PERSON: no
+LINK TARGETS: Architecture | Ceramic art | Chinese art | Furniture | Islamic art | Jewellery | Painting | Sculpture
+ENTRY:
+Arts of designing and making objects that are both beautiful and functional. The field covers most objects used to furnish building interiors, along with interior design, but typically excludes [[Architecture]]. Major groupings include [[Ceramic art|ceramics]], metalwork, [[Furniture]], [[Jewellery]], fashion, textile arts and glassware. Decorative arts are often contrasted with the fine arts of [[Painting]], drawing, photography and large-scale [[Sculpture]], which produce objects solely for their aesthetic quality. The distinction is much less meaningful for [[Islamic art]] and [[Chinese art]], where many valued works were decorative. In the 1970s, writers including Amy Goldin and Anne Swartz formally challenged the view of decoration as a lesser art. Applied arts largely overlap with decorative arts, and both are now often placed under the umbrella of design.
+
+=== KEY: Deductive_reasoning_535676
+HEADWORD: Deductive reasoning
+PERSON: no
+LINK TARGETS: Inductive reasoning | Psychology
+ENTRY:
+Form of reasoning in which a conclusion follows logically from its premises. An inference is valid if the premises cannot be true while the conclusion is false, and an argument is sound if it is valid and all its premises are true. A classic example infers "Socrates is mortal" from the premises "all men are mortal" and "Socrates is a man." Deductive logic studies when an argument is valid, using rules of inference such as modus ponens and modus tollens; invalid deductive arguments are called formal fallacies. Unlike [[Inductive reasoning|inductive]] reasoning, deduction gives certainty within its premises but adds no information beyond them. Research in the [[Psychology|psychology]] of reasoning finds that people draw valid inferences more successfully from modus ponens than from modus tollens, and that concrete cases are easier than abstract ones. Natural deduction is a proof system built on self-evident rules of inference.
+
+=== KEY: Deep_Purple_f04f4f
+HEADWORD: Deep Purple
+PERSON: no
+LINK TARGETS: Black Sabbath | Led Zeppelin | Rock and Roll Hall of Fame
+ENTRY:
+British rock band formed in 1968. Considered among the pioneers of heavy metal and hard rock, the band moved from psychedelic and progressive rock to a heavier sound with *Deep Purple in Rock* (1970). It is referred to as part of the "unholy trinity" of British hard rock with [[Led Zeppelin]] and [[Black Sabbath]]. Listed in the 1975 Guinness Book of World Records as "the globe's loudest band," it has sold over 100 million records and was inducted into the [[Rock and Roll Hall of Fame]] in 2016.
+
+=== KEY: Deep_South_995c37
+HEADWORD: Deep South
+PERSON: no
+LINK TARGETS: Bible Belt | Republican Party (United States)
+ENTRY:
+Cultural and geographic subregion of the Southern United States. The term generally denotes Louisiana, Mississippi, Alabama, Georgia and South Carolina, the states most economically dependent on plantation agriculture and slavery. During Reconstruction, emancipated people asserted their rights, which incited the growth of the Ku Klux Klan. After the federal government withdrew following the Compromise of 1877, Jim Crow laws suppressed African Americans' civil rights for almost a century, until the civil rights movement of the 1950s and 1960s. The region is part of the [[Bible Belt]] and a stronghold of the [[Republican Party (United States)|Republican Party]].
+
+=== KEY: Deep_Throat_film_a28586
+HEADWORD: Deep Throat
+PERSON: no
+LINK TARGETS: Linda Lovelace
+ENTRY:
+1972 American pornographic film written and directed by Gerard Damiano. It starred [[Linda Lovelace]] and is considered the forefront of the Golden Age of Porn (1969–1984). One of the first pornographic films with a plot, character development and relatively high production values, it earned mainstream attention and launched the "porno chic" trend, although it was the subject of obscenity trials and banned in some jurisdictions. Lovelace later claimed that she was coerced and sexually assaulted during production.
+
+=== KEY: Deep_learning_03d3e1
+HEADWORD: Deep learning
+PERSON: no
+LINK TARGETS: Human brain | Machine learning | Neural network (machine learning)
+ENTRY:
+Branch of [[Machine learning|machine learning]] that uses multilayered [[Neural network (machine learning)|neural networks]]. The "deep" refers to the use of multiple layers, ranging from three to several hundred or thousands, through which data are transformed into increasingly abstract representations. Common architectures include convolutional neural networks, recurrent neural networks and transformers. Applied to computer vision, speech recognition, natural language processing and drug design, deep learning has produced results comparable to, and sometimes surpassing, human expert performance. Current networks are not intended to model the functioning of the [[Human brain|human brain]].
+
+=== KEY: Deep_sea_fish_288cab
+HEADWORD: Deep-sea fish
+PERSON: no
+LINK TARGETS: Anglerfish | Camouflage | Italy
+ENTRY:
+Fish inhabiting the dark ocean below the sunlit surface waters. The lanternfish is by far the most common, and others include the flashlight fish, cookiecutter shark, bristlemouths, [[Anglerfish|anglerfish]] and viperfish. The deep sea makes up about 90% of ocean volume and is in darkness, with temperatures that rarely exceed 3 °C and pressures between 20 and 1,000 atm. Adaptations include bioluminescent organs for predation, counter-illumination [[Camouflage|camouflage]], enlarged hinged jaws and stomachs that allow prolonged fasting. The earliest known records of deep-sea fish are trace fossils of feeding and swimming behavior from the 130-million-year-old Early Cretaceous Palombini Shale of [[Italy]].
+
+=== KEY: Deep_web_cd972d
+HEADWORD: Deep web
+PERSON: no
+LINK TARGETS: Dark web | Search engine | World Wide Web
+ENTRY:
+Parts of the [[World Wide Web]] whose contents are not indexed by standard [[Search engine|search engines]]. Computer scientist Michael K. Bergman is credited with inventing the term in 2001. The deep web includes web mail, online banking, cloud storage, restricted social-media pages, forums that require registration, and paywalled services such as video on demand. Many media outlets have used "deep web" synonymously with the [[Dark web|dark web]], a usage some reject; the dark web is the part of the deep web hidden intentionally and inaccessible to standard browsers. Estimates put the deep web at about 90% or more of the internet's content volume.
+
+=== KEY: Deepika_Padukone_eab2b1
+HEADWORD: Padukone, Deepika
+PERSON: yes
+LINK TARGETS: Shah Rukh Khan | Time (magazine)
+ENTRY:
+Indian actress known mainly for Hindi-language films. One of India's highest-paid actresses, she has won three Filmfare Awards and was named one of the 100 most influential people in the world by [[Time (magazine)|Time]] in 2018. She made her Bollywood debut opposite [[Shah Rukh Khan]] in *Om Shanti Om* (2007) and later won two Filmfare Awards for Best Actress, for *Goliyon Ki Raasleela Ram-Leela* and *Piku*. She founded The Live Love Laugh Foundation, which works to raise awareness of mental health in India.
+
+=== KEY: Deer_529ab9
+HEADWORD: Deer
+PERSON: no
+LINK TARGETS: Heraldry | Moose | Reindeer | Ruminant
+ENTRY:
+Hoofed [[Ruminant|ruminant]] ungulate of the family Cervidae. Male deer of almost all species, except the water deer, and female [[Reindeer]] grow and shed bony antlers each year, which are often used in combat between males. The family divides into the subfamilies Cervinae, including muntjac, elk, red deer and fallow deer, and Capreolinae, including reindeer, white-tailed deer, roe deer and [[Moose]]. Deer appear in art from Paleolithic cave paintings onward and have figured in mythology, religion, literature and [[Heraldry]]. Their meat is eaten as venison, their skins make soft buckskin, and their antlers serve as knife handles. Deer live in biomes from tundra to tropical rainforest and are indigenous to every continent except Antarctica and Australia.
+
+=== KEY: Def_Leppard_c0532d
+HEADWORD: Def Leppard
+PERSON: no
+LINK TARGETS: Rock and Roll Hall of Fame | Sheffield
+ENTRY:
+English rock band formed in [[Sheffield]]. It was part of the new wave of British heavy metal in the early 1980s. Its album *Hysteria* (1987) topped the UK, US, Canadian and Australian charts and has sold over 15 million copies worldwide. The earlier album *Pyromania* (1983) was certified Diamond in the United States. The band has sold more than 100 million records and was inducted into the [[Rock and Roll Hall of Fame]] in 2019.
+
+=== KEY: Defecation_f967c2
+HEADWORD: Defecation
+PERSON: no
+LINK TARGETS: Anus | Cloaca | Diarrhea | Feces | Sewage treatment
+ENTRY:
+Biological process by which organisms eliminate solid, semisolid or liquid waste, known as [[Feces|feces]], from the digestive tract through the [[Anus|anus]] or [[Cloaca|cloaca]]. It follows digestion, and waves of muscular contraction called peristalsis move waste through the colon toward the rectum. Humans defecate from a few times daily to a few times weekly. In infants, defecation occurs by reflex, while in adults the external anal sphincter is under voluntary control, learned through toilet training. Conditions such as [[Diarrhea|diarrhea]] and constipation are associated with it, and feces can spread disease, most often through contaminated food. Open defecation, the practice of defecating outside without any toilet, remains widespread in some developing countries, while well-developed countries use [[Sewage treatment|sewage treatment]] plants.
+
+=== KEY: Defensive_wall_fd58d3
+HEADWORD: Defensive wall
+PERSON: no
+LINK TARGETS: Babylon | Constantinople | Great Wall of China | Hadrian's Wall | Masonry | Sumer | Uruk
+ENTRY:
+Fortification built to protect a city, town or other settlement from attackers. Walls range from palisades and earthworks to extensive curtain walls with towers, bastions and gates. Some, such as the [[Great Wall of China]] and [[Hadrian's Wall]], extended far beyond city borders to enclose regions or mark territorial boundaries. Most surviving ancient walls are [[Masonry|masonry]] structures. [[Uruk]] in [[Sumer]] is among the world's oldest known walled cities, and the proto-city of Jericho had a wall by the 8th millennium BC. [[Babylon]] was expanded by Nebuchadnezzar, who also built its Ishtar Gate, and the Assyrians deployed large labor forces to build defensive walls. Gunpowder artillery later rendered high, thin walls vulnerable, and the Theodosian Walls of [[Constantinople]] were breached by Ottoman cannons in 1453.
+
+=== KEY: Deflation_03b2ca
+HEADWORD: Deflation
+PERSON: no
+LINK TARGETS: Debt | Great Depression | Inflation
+ENTRY:
+Decline in the general price level of goods and services, measured by broad price indices. Deflation is a monetary phenomenon, explained by changes in the money supply and velocity relative to spending on output. It is distinct from [[Inflation|disinflation]], a slowdown in inflation that remains positive. Because deflation increases the real value of [[Debt|debt]], a large unexpected deflationary shock is generally considered a problem in a modern economy. When prices are falling, consumers may delay purchases, which idles productive capacity and reduces investment in a deflationary spiral. Deflation also results when rising productivity lowers prices. Some analyses of 17 countries from 1870 to 1999 find no strong causal link between deflation and depressions, while during the [[Great Depression]] prices in the United States fell by about 25%.
+
+=== KEY: Deforestation_3103c9
+HEADWORD: Deforestation
+PERSON: no
+LINK TARGETS: Agriculture | Biodiversity | Wildfire
+ENTRY:
+Removal and destruction of forest for conversion to non-forest use, such as farms, ranches or urban development. Forests cover about 31% of Earth's land surface, one-third less than before the expansion of [[Agriculture|agriculture]]. Agriculture directly causes nearly 90% of global deforestation as of 2025, mainly through cropland expansion and pasture creation, and plantations of coffee, palm oil and rubber also drive clearing. Livestock grazing, logging, urbanization, mining and [[Wildfire|wildfires]] contribute. Deforestation causes habitat destruction and [[Biodiversity|biodiversity]] loss, extinction, and displacement of indigenous people, and it reduces the uptake of carbon dioxide from the atmosphere. Since 1990, about 420 million hectares of forest have been lost, although the estimated rate fell from 16 million hectares per year in the 1990s to 10 million hectares per year in 2015–2020.
+
+=== KEY: Deforestation_of_the_Amazon_rainforest_24d477
+HEADWORD: Deforestation of the Amazon rainforest
+PERSON: no
+LINK TARGETS: Amazon rainforest | Soybean
+ENTRY:
+Clearing of tree cover across the [[Amazon rainforest]], largely for cattle ranching and [[Soybean|soybean]] farming. The Amazon covers about 3,000,000 sq km, and Brazil contains about 60% of it. Cattle ranching is identified as the primary cause of deforestation in the Brazilian Amazon, accounting for about 80% of clearing in the region. Soybean expansion also destroys forest directly as "soy frontiers" advance. Satellite data from 2018 revealed a decade-high rate, with about 7,900 sq km destroyed between August 2017 and July 2018.

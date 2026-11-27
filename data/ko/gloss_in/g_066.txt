@@ -1,0 +1,839 @@
+=== KEY: Inductive_reasoning_59b655
+HEADWORD: Inductive reasoning
+PERSON: no
+LINK TARGETS: Aristotle | Bayesian inference | David Hume | Deductive reasoning | Francis Bacon | John Stuart Mill
+ENTRY:
+Method of logical reasoning in which the conclusion of an argument is supported with some degree of probability but not deductive certainty. Unlike [[Deductive reasoning|deductive reasoning]], where the conclusion is certain if the premises are correct, inductive conclusions are at best probable. Types include generalization, prediction, statistical syllogism, argument from analogy and causal inference. A statistical generalization infers a conclusion about a population from a random sample, and is reliable within a margin of error when the sample is genuinely random and large. Hasty generalization and the biased sample are fallacies of generalization. Probabilities can be estimated with techniques such as [[Bayesian inference]]. [[Aristotle]] distinguished induction as a move from particulars to universals, [[Francis Bacon]] advocated empirical induction for science, and [[David Hume]] questioned why past patterns justify future expectations. [[John Stuart Mill]] later refined inductive methods such as agreement and difference.
+
+=== KEY: Inductor_38cfc0
+HEADWORD: Inductor
+PERSON: no
+LINK TARGETS: Alternating current | Capacitor | Inductance | Radio | Resistor | Wire
+ENTRY:
+Passive two-terminal electrical component that stores energy in a magnetic field, also called a coil, choke or reactor. It typically consists of an insulated [[Wire|wire]] wound into a coil. When the current through it changes, the changing magnetic field induces a voltage that opposes the change, so inductors resist changes in current. Its [[Inductance|inductance]] is measured in henries (H), named after American scientist Joseph Henry. Many inductors have a core of iron or ferrite, which increases the magnetic field and inductance. Along with [[Capacitor|capacitors]] and [[Resistor|resistors]], inductors are one of the three passive linear circuit elements. They are widely used in [[Alternating current|alternating-current]] equipment, particularly [[Radio|radio]] equipment, where chokes block alternating current while allowing direct current to pass. Values typically range from 1 μH (10⁻⁶ H) to 20 H.
+
+=== KEY: Indus_River_bf8863
+HEADWORD: Indus River
+PERSON: no
+LINK TARGETS: Arabian Sea | Indus Valley Civilisation | Karachi | Kashmir | Pakistan | Tibet Autonomous Region
+ENTRY:
+Transboundary river of South and Central Asia, 3,180 km (1,980 mi) long. It rises in the [[Tibet Autonomous Region]] of China, flows northwest through the disputed [[Kashmir]] region, then turns south through [[Pakistan]] and empties into the [[Arabian Sea]] near [[Karachi]]. The river drains about 1,120,000 sq km (430,000 sq mi) and carries an estimated 175 km³ a year (5,500 m³/s), making it one of the 50 largest rivers in the world by average annual flow. The [[Indus Valley Civilisation]] rose along its banks in the 3rd millennium BC, and the *Rigveda* and the *Avesta* both name the Punjab region with terms meaning "seven rivers." The river entered Western knowledge when King Darius of Persia sent his Greek subject Scylax of Caryanda to explore it, c. 515 BC.
+
+=== KEY: Indus_Valley_Civilisation_4e9d33
+HEADWORD: Indus Valley Civilisation
+PERSON: no
+LINK TARGETS: Indus River | Metallurgy | Mohenjo-daro | UNESCO
+ENTRY:
+Bronze Age urban civilization of northwestern South Asia, c. 3300–1300 BC.
+
+The civilization, also called the Indus Civilisation or Harappan civilization, lasted from 3300 BC to 1300 BC, and in its mature form from 2600 BC to 1900 BC. With ancient Egypt, Mesopotamia, and China, it was one of the four centers of the ancient world, and it was geographically larger than ancient Egypt and Mesopotamia combined. It spanned much of Pakistan, northwestern India, and northeast Afghanistan on the alluvial plain of the [[Indus River]] and along monsoon-fed rivers. The name Harappan comes from Harappa, the type site, first excavated early in the 20th century.
+
+Its cities were noted for urban planning, baked brick houses, elaborate drainage and water supply systems, clusters of large non-residential buildings, and techniques of handicraft and [[Metallurgy|metallurgy]]. [[Mohenjo-daro]] and Harappa very likely held between 30,000 and 60,000 people, and the civilization may have had between one and five million. Over a thousand Mature Harappan sites have been reported, but only five are major urban centers: Mohenjo-daro, Harappa, Ganeriwala, Dholavira, and Rakhigarhi. Trade in goods such as carnelian beads and lapis lazuli reached Mesopotamia,. The Indus script remains undeciphered, and the language's affiliations are uncertain; some scholars favor a relationship with the Dravidian or Elamo-Dravidian family.
+
+A gradual drying of the region during the 3rd millennium BC may have stimulated urbanization, and further drying reduced the water supply enough to cause the civilization's decline and disperse its population to the east. Mohenjo-daro was declared a [[UNESCO]] World Heritage Site in 1980 and Dholavira in 2021.
+
+=== KEY: Industrial_Revolution_d5a252
+HEADWORD: Industrial Revolution
+PERSON: no
+LINK TARGETS: James Watt | Second Industrial Revolution | Steam engine
+ENTRY:
+Transition of the global economy, beginning in Great Britain around 1760, from hand production to machine manufacturing and the factory system.
+
+Sometimes called the First Industrial Revolution to distinguish it from the later [[Second Industrial Revolution]], it had spread to continental Europe and the United States by about 1840. It involved the move from hand methods to machines, new chemical and iron production processes, the increasing use of water and steam power, the development of machine tools, and the rise of the mechanised factory system. Textiles were the first industry to use modern production methods; by the 1830s mechanised cotton spinning had increased output per worker by a factor of around 500.
+
+Several factors enabled industrialization: high agricultural productivity, managerial and entrepreneurial skills, ports, rivers, canals, and roads, natural resources such as coal and iron, political stability, and available financial capital. Britain was the leading commercial nation by the mid-18th century. The improved [[Steam engine|steam engine]] of [[James Watt]] was patented in 1769.
+
+Historians debate the precise start and end of the revolution and the pace of its changes; some, including John Clapham and Nicholas Crafts, argue that change was gradual and that "revolution" is a misnomer. Average income and population showed unprecedented sustained growth, and the standard of living improved for most people in the Western world, although others say it did not improve meaningfully until the 20th century. Before the revolution most manufacturing occurred in China and India; afterward it took place mainly in North America and Western Europe.
+
+=== KEY: Industrial_design_ca55a7
+HEADWORD: Industrial design
+PERSON: no
+LINK TARGETS: Industrial Revolution | Louis XIV | Middle class | Paris | Urbanization
+ENTRY:
+Process of identifying problems and creating products, systems and experiences that make everyday activities more efficient or meaningful. As an applied art, industrial design combines aesthetics and user-focused considerations with form, function, ergonomics, marketing, brand development, sustainability and sales. The designer determines a product's form and features before manufacture, whereas in craft-based design the maker determines form largely during production. The discipline is linked to the [[Industrial Revolution]] in Great Britain in the mid-18th century, which changed how objects were made, while [[Urbanization|urbanization]] and a wider [[Middle class|middle class]] created demand for fashionable styles. Earlier, the Gobelins Manufactory, opened in [[Paris]] in 1667 by [[Louis XIV]], produced sumptuously decorated products under royal patronage. In the 20th century Walter Dorwin Teague founded the firm TEAGUE in 1926, and Henry Dreyfuss became the first president of the Industrial Designers Society of America when it was established in 1965.
+
+=== KEY: Industrial_engineering_9e6187
+HEADWORD: Industrial engineering
+PERSON: no
+LINK TARGETS: Finance | Logistics | Manufacturing | Mathematics | Operations research | Productivity | System
+ENTRY:
+Branch of engineering concerned with the optimization of complex processes, systems and organizations. It designs, improves and installs integrated [[System|systems]] of people, materials, information, equipment and energy, drawing on the [[Mathematics|mathematical]], physical and social sciences. Industrial engineers work to reduce waste and raise [[Productivity|productivity]] and quality, using principles such as lean manufacturing and Six Sigma. They are employed in [[Manufacturing|manufacturing]], healthcare, [[Logistics|logistics]], [[Finance|finance]] and education. The field grew out of factory systems and mass production. Frederick Taylor, often called the "father of industrial engineering", emphasized time studies and standardized work methods in principles published in 1911. Frank and Lillian Gilbreth developed motion studies, and the American Institute of Industrial Engineering was founded in 1948. The discipline overlaps with [[Operations research]], systems engineering and ergonomics.
+
+=== KEY: Industrial_robot_4e8cd3
+HEADWORD: Industrial robot
+PERSON: no
+LINK TARGETS: Arm | General Motors | Manufacturing | Patent | Printed circuit board | Welding
+ENTRY:
+Robot used for [[Manufacturing|manufacturing]], automated, programmable and capable of movement on three or more axes. Typical applications include [[Welding|welding]], painting, assembly, pick and place for [[Printed circuit board|printed circuit boards]], packaging, palletizing and inspection, all with high endurance, speed and precision. The most common type is the articulated robot, which resembles a human [[Arm|arm]] and has several degrees of freedom. Other types include Cartesian, cylindrical, spherical, SCARA and delta robots. The foundational [[Patent|patent]] was filed by George Devol in 1954, and the first Unimate was installed in 1961 at a [[General Motors]] die-casting plant in New Jersey. In 2024, an estimated 4,663,698 industrial robots were in operation worldwide, according to the International Federation of Robotics.
+
+=== KEY: Industrialisation_bceae5
+HEADWORD: Industrialization
+PERSON: no
+LINK TARGETS: Child labour | East Asia | Fossil fuel | Industrial Revolution | Second Industrial Revolution | Steam engine | Talcott Parsons
+ENTRY:
+Period of social and economic change that transforms an agrarian and feudal society into an industrial one. It involves an extensive reorganization of an economy for manufacturing, and is associated with polluting industries dependent on [[Fossil fuel|fossil fuels]]. With the focus on sustainable development, it increasingly includes technological leapfrogging. The first phase, the [[Industrial Revolution]], began in Great Britain in the mid-18th century and spread to Belgium, Switzerland, Germany and France. The [[Second Industrial Revolution]] followed the refinement of the [[Steam engine|steam engine]], the internal combustion engine and electricity, and the assembly line gave it a boost. Industrialization changed family structures as extended families stopped living together, though historians widely contest the theory of [[Talcott Parsons]] that it created the nuclear family. Workers moved to cities, increasing urbanization and the spread of disease, and industrialization contributed to [[Child labour|child labor]]. By the end of the 20th century, [[East Asia]] had become one of the most recently industrialized regions.
+
+=== KEY: Inequality_mathematics_11017a
+HEADWORD: Inequality
+PERSON: no
+LINK TARGETS: Addition | Division (mathematics) | Subtraction
+ENTRY:
+Mathematical relation making a non-equal comparison between two numbers or other expressions. Inequalities most often compare two numbers by their size on the number line. The main types are less than (<) and greater than (>), which exclude equality, and the non-strict less than or equal to (≤) and greater than or equal to (≥). The notation a ≠ b means that a is not equal to b. In engineering, a ≪ b means that a is much less than b, normally by several orders of magnitude. An inequality is preserved under [[Addition|addition]] and [[Subtraction|subtraction]] of a common constant, and under multiplication or [[Division (mathematics)|division]] by a positive number, but multiplying or dividing by a negative number reverses it. Reversing the two quantities while flipping the symbol gives an equivalent statement.
+
+=== KEY: Inertia_b19a24
+HEADWORD: Inertia
+PERSON: no
+LINK TARGETS: Aristotle | Friction | Galileo Galilei | Gravity | Isaac Newton | Lucretius | Mass
+ENTRY:
+Fundamental principle of classical physics, the tendency of an object to stay at rest or in uniform motion unless a force changes its velocity. Inertia is one of the primary manifestations of [[Mass|mass]], and [[Isaac Newton]] described it as his first law of motion. In his 1687 work *Philosophiæ Naturalis Principia Mathematica*, Newton defined inertia as the innate power of matter to resist changes in its state. On Earth, [[Friction|friction]] and [[Gravity|gravity]] often mask inertia, which led [[Aristotle]] to conclude that moving objects come to rest unless a force keeps them moving. [[Lucretius]] argued that motion, not stasis, was the default state of matter. The principle was first articulated by [[Galileo Galilei]] in the early 17th century through thought experiments on objects that continue indefinitely without friction.
+
+=== KEY: Infant_50d7fd
+HEADWORD: Infant
+PERSON: no
+LINK TARGETS: Fetus
+ENTRY:
+Very young human being, typically a child under one year of age.
+
+The word comes from Latin *īnfāns*, "unspeaking." Baby is an alternative term, and definitions of infant vary, sometimes extending to children up to two years of age. A child who has learned to walk is called a toddler. A newborn is, in mainstream use, an infant only hours, days, or weeks old; in medical contexts a newborn or neonate is an infant in the first 28 days after birth. Infants born before 37 weeks of gestation are called premature, those born between 39 and 40 weeks full term, those born through 41 weeks late term, and those beyond 42 weeks post term. Before birth the offspring is a [[Fetus|fetus]].
+
+A newborn's head is large in proportion to the body; the skull is about one quarter of total body length, against about one seventh in adults. Soft spots called fontanels remain where the skull bones have not yet fused. In developed countries the average length of a newborn is 35.6–50.8 cm and the average birth weight of a full-term newborn is about 3.4 kg, typically within 2.7–4.6 kg. Body weight falls by 3–7% over the first 5–7 days. Some newborns have fine body hair called lanugo, which disappears within a few weeks.
+
+Infants are altricial and fully dependent on their mothers or other caretakers. They cry as basic communication, expressing hunger, discomfort, overstimulation, boredom, or loneliness. Breastfeeding is the method recommended by all major infant health organizations.
+
+=== KEY: Infantry_2d4d10
+HEADWORD: Infantry
+PERSON: no
+LINK TARGETS: Axe | Cavalry | Firearm | Sling (weapon) | Spear | Sword
+ENTRY:
+Type of soldier who specializes in ground combat, typically fighting dismounted. Historically the term described foot soldiers who marched and fought on foot. Modern usage covers light, heavy, mountain, motorized, mechanized and airborne infantry, among other subtypes. Infantry were the first military forces in history, armed with a [[Spear|spear]], [[Axe|axe]], [[Sword|sword]], javelin, [[Sling (weapon)|sling]] or bow. Dragoons were created as mounted infantry, and from about the mid-19th century, as [[Firearm|firearms]] grew more effective, [[Cavalry|cavalry]] increasingly fought dismounted and most transitioned to mounted infantry. Mechanized infantry ride in armored personnel carriers and, in some forces, infantry fighting vehicles approaching light tanks. The term infantryman was not coined until 1837. Infantry remain indispensable for tasks such as urban clearance and holding key objectives.
+
+=== KEY: Infection_f0ddc0
+HEADWORD: Infection
+PERSON: no
+LINK TARGETS: Bacteria | Malaria
+ENTRY:
+Invasion of an organism's tissues by pathogens, their multiplication, and the host's reaction to them and the toxins they produce.
+
+An infectious disease is an illness resulting from an infection, and some are also communicable. Not every infection causes illness: many are asymptomatic, and an infection is not synonymous with an infectious disease. Pathogens include [[Bacteria|bacteria]], viruses and subviral agents such as viroids and prions, fungi, and parasites. The yeast *Candida* causes the most common fungal infection. Parasites include unicellular organisms such as the cause of [[Malaria|malaria]], and macroparasites such as nematodes, tapeworms, and flukes.
+
+Infection begins when an organism enters the body, grows, and multiplies. Entry generally occurs through the mucosa of orifices such as the mouth, nose, eyes, and genitalia, or through open wounds. Many pathogens migrate to cause systemic infection in different organs. People with weakened immune systems are more susceptible to chronic or persistent infections and to opportunistic infections. Colonization by microorganisms is distinct from infection, and the difference is often a matter of circumstance, since non-pathogenic organisms can become pathogenic under specific conditions.
+
+Hosts fight infection with the immune system. Mammals respond with an innate response, often involving inflammation, followed by an adaptive response. Bacterial and viral infections can cause the same symptoms, which makes the cause hard to distinguish; antibiotics cure bacterial but not viral infections. Treatment depends on the pathogen: antibiotics, antivirals, antifungals, antiprotozoals, or antihelminthics. Communicable, maternal, neonatal, and nutritional diseases together accounted for an estimated 18.6% of global deaths in 2017.
+
+=== KEY: Infectious_mononucleosis_512475
+HEADWORD: Infectious mononucleosis
+PERSON: no
+LINK TARGETS: Epstein–Barr virus | Ibuprofen | Paracetamol | Spleen | Vaccine
+ENTRY:
+Common viral infection, also called glandular fever, usually caused by the [[Epstein–Barr virus]]. Most people are infected as children, when it causes few or no symptoms. In young adults it often causes fever, sore throat, swollen neck lymph nodes and fatigue, and most people recover within two to four weeks, although fatigue may last months. The [[Spleen|spleen]] may swell, and splenic rupture occurs in less than one percent of cases. It spreads mainly through saliva. There is no [[Vaccine|vaccine]], and treatment is supportive, with fluids, rest and pain relievers such as [[Paracetamol|paracetamol]] and [[Ibuprofen]].
+
+=== KEY: Inference_bfc764
+HEADWORD: Inference
+PERSON: no
+LINK TARGETS: Aristotle | Artificial intelligence | Charles Sanders Peirce | Inductive reasoning | Logic
+ENTRY:
+Step in logical reasoning, moving from premises to logical consequences. Inference is traditionally divided into deduction and induction, a distinction that dates at least to [[Aristotle]] (300s BC). Deduction draws conclusions that follow from premises assumed to be true, and the laws of valid inference are studied in [[Logic|logic]]. [[Inductive reasoning|Induction]] moves from particular evidence to a universal conclusion, which is probable but not certain. A third type, abduction, proposed notably by [[Charles Sanders Peirce]], seeks a best explanation based on likelihood. Statistical inference draws conclusions under uncertainty from quantitative or categorical data subject to random variation. In [[Artificial intelligence|artificial intelligence]], inference means applying a trained model to new data to generate outputs. An argument can be valid even if its parts are false, and invalid even if some parts are true.
+
+=== KEY: Inferno_Dante_5a2b0c
+HEADWORD: Inferno
+PERSON: no
+LINK TARGETS: Dante Alighieri | God | Hell | Virgil
+ENTRY:
+First part of the 14th-century *Divine Comedy* by [[Dante Alighieri]]. It describes a fictionalized Dante's journey through [[Hell]], guided by the Roman poet [[Virgil]]. Hell is depicted as nine concentric circles of torment within the Earth, reserved for those who yield to bestial appetites or violence, or who pervert their intellect to fraud or malice. As an allegory, the *Divine Comedy* represents the soul's journey toward [[God]], with the *Inferno* describing the recognition and rejection of sin. Many but not all scholars agree that it was begun in 1306–1307 and completed in 1309–1310, though revisions continued for years.
+
+=== KEY: Infertility_50e4ff
+HEADWORD: Infertility
+PERSON: no
+LINK TARGETS: Endometriosis | Estrogen | Semen | Sexual intercourse | World Health Organization
+ENTRY:
+Inability of a male or female organism to reproduce. In humans, infertility is defined as the inability to become pregnant after at least one year of regular unprotected [[Sexual intercourse|sexual intercourse]]. Estimates from 1997 suggested that about five percent of heterosexual couples worldwide had an unresolved problem with infertility, and the [[World Health Organization]] reported in 2023 that about 17.5% of people experience infertility during their lifetime. Male infertility accounts for 20–30% of cases, female infertility for 20–35%, and combined problems in both partners for 25–40%; no cause is found in 10–20%. The most common causes of female infertility are hormonal, including low [[Estrogen|estrogen]]. Fertility declines with age as ovarian follicles and oocytes decline, and [[Endometriosis]] accounts for 25–40% of female infertility. Male infertility is most commonly due to deficiencies in [[Semen|semen]] quality.
+
+=== KEY: Infidelity_865541
+HEADWORD: Infidelity
+PERSON: no
+LINK TARGETS: Anger | Divorce | Jealousy | Marriage | Post-traumatic stress disorder | University of Chicago
+ENTRY:
+Violation of a couple's emotional or sexual exclusivity, also called adultery, cheating or having an affair. What constitutes infidelity depends on the expectations within a relationship; in [[Marriage|marriage]], exclusivity is commonly assumed. It often provokes [[Anger|anger]] and sexual [[Jealousy|jealousy]], and can cause psychological harm including betrayal, depression, low confidence and even [[Post-traumatic stress disorder|post-traumatic stress disorder]]. The Kinsey Reports of the early 1950s found that around half of men and a quarter of women studied had committed adultery. Data from the [[University of Chicago]]'s General Social Survey, taken since 1972, indicate that about 12% of men and 7% of women admit to an extramarital relationship. Infidelity frequently leads to [[Divorce|divorce]], and over half of affected marriages end that way.
+
+=== KEY: Infinite_Jest_daf1f4
+HEADWORD: Infinite Jest
+PERSON: no
+LINK TARGETS: David Foster Wallace | Tennis
+ENTRY:
+Novel by American writer [[David Foster Wallace]], published in 1996. Often considered Wallace's magnum opus, the book is an encyclopedic novel with an unconventional structure and hundreds of endnotes. It is set in a near-future North America, where the United States, Canada and Mexico form the Organization of North American Nations. Its plot follows students at a [[Tennis|tennis]] academy and a substance-abuse recovery facility, and centers on a lethally entertaining film cartridge. The title comes from *Hamlet*. The novel sold 44,000 hardcover copies in its first year and has since sold more than a million copies worldwide.
+
+=== KEY: Infinity_eb2ac5
+HEADWORD: Infinity
+PERSON: no
+LINK TARGETS: Aristotle | Augustin-Louis Cauchy | Bertrand Russell | Georg Cantor | Zermelo–Fraenkel set theory
+ENTRY:
+Boundless, limitless, or endless quantity, denoted by the symbol ∞.
+
+Infinity has been debated philosophically since the ancient Greeks. The earliest recorded Greek idea may be that of Anaximander, who used the word *apeiron*, "unbounded." [[Aristotle]] distinguished potential infinity from actual infinity, which he regarded as impossible because of the paradoxes it seemed to produce. The paradoxes of Zeno of Elea, especially Achilles and the Tortoise, exposed the inadequacy of popular conceptions; [[Bertrand Russell]] described them as "immeasurably subtle and profound." In 1821 [[Augustin-Louis Cauchy]] gave a satisfactory definition of a limit and a proof for the sum of the geometric series, which showed that Achilles does overtake the tortoise.
+
+In the 17th century the infinity symbol and infinitesimal calculus were introduced, and mathematicians began to work with infinite series, though infinity remained associated with endless processes and its status as a number stayed unclear. At the end of the 19th century [[Georg Cantor]] studied infinite sets and infinite numbers, showing that they can be of various sizes. For example, the infinite number of points on a line, its cardinality, is larger than the number of integers.
+
+The axiom of infinity, among the axioms of [[Zermelo–Fraenkel set theory]], on which most of modern mathematics can be developed, guarantees the existence of infinite sets. In physics and cosmology, whether the universe is spatially infinite is an open question.
+
+=== KEY: Inflammation_fd4d5d
+HEADWORD: Inflammation
+PERSON: no
+LINK TARGETS: Atherosclerosis | Immune system | Osteoarthritis | Pathogen
+ENTRY:
+Biological defense response of body tissues to harmful stimuli. Triggers include physical trauma, [[Pathogen|pathogens]], irritants, toxins, overuse, autoimmunity, allergens and foreign bodies. The five cardinal signs of acute inflammation are heat, pain, redness, swelling and loss of function (Latin *calor*, *dolor*, *rubor*, *tumor* and *functio laesa*). It is a generic response and is considered a mechanism of [[Immune system|innate immunity]]. Its function is to eliminate the initial cause of cell injury, clear damaged cells and tissues, and initiate repair. Acute inflammation is a short-term process that usually appears within minutes or hours and ceases when the injurious stimulus is removed. Chronic inflammation is prolonged and involves simultaneous destruction and healing of tissue. Too much chronic inflammation is associated with diseases such as hay fever, periodontal disease, [[Atherosclerosis]] and [[Osteoarthritis]].
+
+=== KEY: Inflation_d68d75
+HEADWORD: Inflation
+PERSON: no
+LINK TARGETS: American Civil War | Deflation | Unemployment
+ENTRY:
+General increase in the average price of goods and services in terms of money. Inflation reduces the purchasing power of money and is usually measured as the annualized percentage change in a price index, typically the consumer price index (CPI). Changes are attributed to increases in the money supply, demand shocks, supply shocks such as energy crises, and falls in interest rates set by the central bank. After private banknote currency proliferated during the [[American Civil War]], the term came to refer directly to currency depreciation. Moderate inflation has drawbacks, including uncertainty that may discourage investment and savings, and benefits, such as reducing [[Unemployment|unemployment]] through nominal wage rigidity. Most economists favor a low, steady rate, which central banks pursue mainly by setting interest rates. The opposite of inflation is [[Deflation]].
+
+=== KEY: Influenza_5dc103
+HEADWORD: Influenza
+PERSON: no
+LINK TARGETS: Pneumonia | Spanish flu
+ENTRY:
+Infectious disease of the respiratory tract caused by influenza viruses, commonly called the flu.
+
+Symptoms range from mild to severe and often include fever, runny nose, sore throat, muscle pain, headache, coughing, and fatigue. They begin one to four days after exposure and last about two to eight days. The disease may progress to [[Pneumonia|pneumonia]] from the virus or a later bacterial infection, and other complications include meningitis and encephalitis.
+
+There are four types of influenza virus: A, B, C, and D. Aquatic birds are the primary source of influenza A, which also infects mammals including humans and pigs. Types A and B circulate in humans and cause seasonal epidemics; type C causes mild infection, mainly in children. Transmission is primarily through respiratory droplets from coughing and sneezing, and also through aerosols and contaminated surfaces. Influenza viruses, particularly type A, evolve quickly, so vaccines are updated regularly; they protect against influenza A subtypes H1N1 and H3N2 and one or two influenza B subtypes. Treatment is supportive and, in severe cases, includes antivirals such as oseltamivir.
+
+In a typical year five to 15 percent of the population contracts influenza, with 3 to 5 million severe cases and up to 650,000 respiratory-related deaths globally. Cases peak in winter in temperate regions and occur year-round in the tropics. Since the late 1800s, pandemics of novel strains have occurred every 10 to 50 years. Five have occurred since 1900: the [[Spanish flu]] of 1918–20, the most severe, and those of 1957, 1968, 1977, and 2009.
+
+=== KEY: Information_Age_bcb1cf
+HEADWORD: Information Age
+PERSON: no
+LINK TARGETS: Bell Labs | Claude Shannon | Konrad Zuse | Transistor
+ENTRY:
+Historical period, beginning in the mid-20th century, marked by a shift from traditional industry to an economy centered on information technology.
+
+The onset of the Information Age has been linked to the development of the [[Transistor|transistor]] in 1947. According to the United Nations Public Administration Network, it was formed by advances in computer miniaturization that led to modernized information systems and internet communications. It is also called the Digital Age or Third Industrial Revolution. The digital revolution converted technology from analog to digital format, which made identical copies possible and let information move easily between media.
+
+Charles Babbage proposed a mechanical general-purpose computer, the Analytical Engine, which was never successfully built. In 1941 [[Konrad Zuse]] completed the Z3, the world's first working programmable, fully automatic digital computer.
+
+In 1947 John Bardeen and Walter Houser Brattain, working under William Shockley at [[Bell Labs]], invented the first working transistor, a germanium-based point-contact device. [[Claude Shannon]], a Bell Labs mathematician, is generally credited with laying the foundations of digitalization in his 1948 article *A Mathematical Theory of Communication*. Jack Kilby achieved the first integrated circuit milestone in 1958. The personal computer arrived in the 1970s and made digital communication economical for widespread adoption.
+
+Historians and commentators debate whether the Third Industrial Revolution has ended and whether breakthroughs in artificial intelligence and biotechnology have begun a Fourth Industrial Revolution, theorized to bring the Imagination Age, the Internet of things, and rapid advances in machine learning.
+
+=== KEY: Information_a82be0
+HEADWORD: Information
+PERSON: no
+LINK TARGETS: Bit | Claude Shannon
+ENTRY:
+Abstract concept referring to something that has the power to inform.
+
+At the most fundamental level, information pertains to the interpretation of that which may be sensed, or its abstractions. Any natural process that is not completely random, and any observable pattern in any medium, can be said to convey some information. Information is not knowledge itself but the meaning that may be derived from a representation through interpretation. It can be transmitted in time through data storage and in space through communication, and it can be encoded or encrypted.
+
+The English word comes from Middle French *informacion*, "a criminal investigation," and Latin *informatiō*, "conception, teaching, creation." References to the formation of the mind or character, training, and instruction date from the 14th century.
+
+In information theory, founded by [[Claude Shannon]] in 1948, the uncertainty of an event is measured by its probability of occurrence and is proportional to the negative logarithm of that probability. More uncertain events require more information to resolve. The [[Bit|bit]] is the standard unit of information, described as that which reduces uncertainty by half; one fair coin flip encodes 1 bit and two encode 2 bits. In physics, erasing a bit requires a minimum energy, according to Landauer's principle, and DNA sequences store biological information. Whether information is fundamental, like mass and energy, or emergent remains debated.
+
+=== KEY: Information_science_6d3f62
+HEADWORD: Information science
+PERSON: no
+LINK TARGETS: Cognitive psychology | Computer science | Information theory | Statistics
+ENTRY:
+Academic field concerned with the analysis, collection, classification, storage, retrieval and protection of information. Practitioners study how knowledge is applied and used in organizations, and how people, organizations and information systems interact. The field is transdisciplinary, drawing on [[Computer science]], [[Statistics]], [[Information theory]] and [[Cognitive psychology]], as well as library science and human-computer interaction. It focuses on understanding problems from the perspective of stakeholders before applying information and other technologies. Its objective is to create, replace, improve or understand information systems. Applied areas include health informatics, digital humanities, knowledge management, cybersecurity and information policy. The first known use of the term was in 1955.
+
+=== KEY: Information_technology_3dd7c4
+HEADWORD: Information technology
+PERSON: no
+LINK TARGETS: Alan Turing | Antikythera mechanism | Computer network | Telephone | Television
+ENTRY:
+Study or use of computers, telecommunication systems and other devices to create, process, store, retrieve and transmit information. The term is commonly used for computers and [[Computer network|computer networks]], but it also covers technologies such as [[Television]] and [[Telephone|telephones]]. An IT system includes all hardware, software and peripheral equipment operated by a limited group of users. The term in its modern sense first appeared in a 1958 *Harvard Business Review* article by Harold J. Leavitt and Thomas L. Whisler. The [[Antikythera mechanism]], dating from about the beginning of the first century BC, is generally considered the earliest known mechanical analog computer. Electronic computers using relays or thermionic valves appeared in the early 1940s, and the Zuse Z3, completed in 1941, was the world's first programmable computer. In the mid-1900s, [[Alan Turing]], J. Presper Eckert and John Mauchly were pioneers of early computer technology.
+
+=== KEY: Information_theory_32eb51
+HEADWORD: Information theory
+PERSON: no
+LINK TARGETS: Claude Shannon | Compact disc | Entropy (information theory) | Internet
+ENTRY:
+Mathematical study of the quantification, storage and communication of information. The field was established and formalized by [[Claude Shannon]] in the 1940s, although Harry Nyquist and Ralph Hartley made early contributions in the 1920s. Its key concept is [[Entropy (information theory)|entropy]], which Shannon defined as the lack of information about an event; a fair coin flip carries 1 bit of entropy until its outcome is observed. In *A Mathematical Theory of Communication* (1948), Shannon showed that the achievable rate of reliable communication over a noisy channel approaches the channel capacity. Applications include data compression, as in ZIP files, error correction in DSL, the invention of the [[Compact disc|compact disc]], and the development of the [[Internet]] and artificial intelligence. The theory also reaches into cryptography, linguistics, neurobiology and black holes.
+
+=== KEY: Infrared_de1c31
+HEADWORD: Infrared
+PERSON: no
+LINK TARGETS: Electromagnetic radiation | Microwave | Spectroscopy | Sun | Surveillance | Weather forecasting | William Herschel
+ENTRY:
+Form of [[Electromagnetic radiation|electromagnetic radiation]] with wavelengths longer than visible light but shorter than [[Microwave|microwaves]]. Infrared begins just beyond red light and is therefore invisible to the human eye. It is generally understood to range from about 780 nm to 30 μm. The astronomer Sir [[William Herschel]] discovered it in 1800 through its effect on a thermometer. Slightly more than half of the energy from the [[Sun]] reaches Earth as infrared, and the balance between absorbed and emitted infrared affects the planet's climate. Humans at normal body temperature radiate chiefly at wavelengths around 10 μm. Uses include night-vision devices, thermal-imaging cameras that detect heat loss and assist firefighting, [[Spectroscopy|spectroscopy]], [[Weather forecasting|weather forecasting]], and military applications such as target acquisition and [[Surveillance|surveillance]].
+
+=== KEY: Infrastructure_cba4f4
+HEADWORD: Infrastructure
+PERSON: no
+LINK TARGETS: 
+ENTRY:
+Set of facilities and systems serving a country, city, or other area, necessary for its economy, households, and firms to function.
+
+Infrastructure comprises public and private physical structures such as roads, railways, bridges, airports, public transit systems, tunnels, water supply, sewers, electrical grids, and telecommunications, including Internet connectivity and broadband access. It has been defined as "the physical components of interrelated systems providing commodities and services essential to enable, sustain, or enhance societal living conditions." Hard infrastructure is the physical plant and networks needed by a modern industrial society, including utilities, waste management, transport facilities, and telecom networks. Soft infrastructure comprises the institutions that maintain the economic, health, social, environmental, and cultural standards of a place, such as educational programs, official statistics, parks, law enforcement, and emergency services.
+
+A 1987 U.S. National Research Council panel adopted the term public works infrastructure, covering transport, water supply, wastewater and waste management, electric power, and telecommunications, together with the operating procedures and management practices surrounding them. Public infrastructure is owned by or available to the public, represented by the government.
+
+Studies cited in support of investment estimate that infrastructure boosts the productivity of private capital and labor. The American Society of Civil Engineers publishes an Infrastructure Report Card every 2–4 years; as of 2017 it graded 16 categories and gave the United States a "D+," attributing the aging infrastructure to governmental neglect and inadequate funding. Political debates concern balancing public spending against private partnerships. Contemporary discussion focuses on sustainable development and green infrastructure, and the United Nations Sustainable Development Goals include Goal 8, "Industry, Innovation and Infrastructure."
+
+=== KEY: Ingmar_Bergman_8cfa7f
+HEADWORD: Bergman, Ingmar
+PERSON: yes
+LINK TARGETS: Max von Sydow | Munich
+ENTRY:
+Swedish filmmaker and theater director. He is considered one of the greatest and most important filmmakers in the history of cinema. Bergman directed more than 60 films and documentaries, most of which he also wrote, and most of his films were set in Sweden. Many of his films from 1961 onward were filmed on the island of Fårö. His acclaimed works include *The Seventh Seal* (1957), *Wild Strawberries* (1957), *Persona* (1966) and *Fanny and Alexander* (1982), which were included in the 2012 edition of *Sight & Sound's* Greatest Films of All Time. He directed more than 170 plays, including periods as leading director of Sweden's Royal Dramatic Theatre in Stockholm and of Germany's Residenztheater in [[Munich]]. His films earned Academy Award wins and nominations, and he received his personal Irving G. Thalberg Memorial Award. His actors included [[Max von Sydow]].
+
+=== KEY: Ingrid_Bergman_7ce3f2
+HEADWORD: Bergman, Ingrid
+PERSON: yes
+LINK TARGETS: Academy Awards | Alfred Hitchcock | Stockholm
+ENTRY:
+Swedish actress. Born in [[Stockholm]] to a Swedish father and a German mother, she began her career in Swedish and German films before American audiences knew her from the English-language remake of *Intermezzo* (1939). She starred as Ilsa Lund in *Casablanca* (1942) and won the [[Academy Awards|Academy Award]] for Best Actress for *Gaslight* (1944). She made three films with [[Alfred Hitchcock]]: *Spellbound* (1945), *Notorious* (1946) and *Under Capricorn* (1949). The revelation of her affair with Roberto Rossellini in 1950 caused a scandal in the United States, and she remained in Europe for several years. She later returned to Hollywood and won two more Academy Awards, for *Anastasia* (1956) and *Murder on the Orient Express* (1974). She also won a Tony Award and two Primetime Emmy Awards, and spoke five languages.
+
+=== KEY: Inheritance_e40489
+HEADWORD: Inheritance
+PERSON: no
+LINK TARGETS: Civil law (legal system) | Common law | Louisiana | Quebec
+ENTRY:
+Practice of receiving property, titles, debts, rights and obligations upon the death of an individual. Succession is the legal process by which a deceased person's rights and property pass to heirs, and inheritance is what the heirs receive. Succession occurs either under statutory intestacy rules or according to a valid will, which often must be attested by a notary. [[Common law]] jurisdictions typically require formal probate, while [[Civil law (legal system)|civil law]] systems often let heirs acquire ownership automatically, a principle known as saisine in [[Quebec]]. Historically, patrimonial inheritance passed property only to male descendants, while some societies used matrilineal succession; most modern states use egalitarian inheritance regardless of gender or birth order. A will may disinherit an heir completely, although [[Louisiana]] permits disinheritance only in enumerated circumstances. Inheritance has been compared to nepotism.
+
+=== KEY: Injunction_904b82
+HEADWORD: Injunction
+PERSON: no
+LINK TARGETS: Equity (law) | New South Wales
+ENTRY:
+Equitable remedy in the form of a court order compelling a party to do or refrain from certain acts. Developed by the English courts of [[Equity (law)|equity]], injunctions trace their origins to the Roman *interdict*. They are generally granted when a wrong cannot be remedied adequately by money damages, and courts also consider the public interest and give special attention to fairness and good faith. An injunction may be prohibitory, forbidding an act such as using an illegally obtained trade secret, or mandatory, requiring action such as cleaning up an oil spill; many combine both. A party that fails to comply faces criminal or civil penalties, including monetary sanctions and possible imprisonment, and may be charged with contempt of court. In [[New South Wales]], Australia, a court may grant an apprehended violence order to a person who fears violence, harassment or stalking.
+
+=== KEY: Injury_47deba
+HEADWORD: Injury
+PERSON: no
+LINK TARGETS: Adenosine triphosphate | Burn | Cell membrane | Cnidaria | Herbivore | Post-traumatic stress disorder | World Health Organization | Wound
+ENTRY:
+Physiological damage to an organism caused by mechanical trauma, toxins, interactions with other organisms, or abiotic environmental factors.
+
+In animals, injury is sometimes defined as mechanical damage to an anatomical structure, but the wider sense covers damage from any cause, including drowning, [[Burn|burns]], and poisoning. In many phyla, injury triggers an inflammatory response that prompts coagulation of blood or body fluid, followed by [[Wound|wound]] healing, which may be rapid, as in [[Cnidaria|cnidarians]]. Annelids, arthropods, cnidarians, molluscs, nematodes, and vertebrates produce antimicrobial peptides to fight infection afterward.
+
+Much of medical practice, including emergency medicine and pain management, treats human injuries. The [[World Health Organization]] classifies them by mechanism, objects or substances producing injury, place of occurrence, activity when injured, and the role of human intent. Injuries can also cause psychological harm, including [[Post-traumatic stress disorder|post-traumatic stress disorder]].
+
+In plants, injuries result from consumption by [[Herbivore|herbivores]], damage by pathogens such as bacteria and fungi, and abiotic factors such as heat, freezing, flooding, lightning, and ozone. Plants signal damage, seal the area, produce antimicrobial chemicals, and, in woody species, regrow over wounds. In fungi with septate hyphae, an injured hypha can block its septal pores; some fungi regenerate damaged hyphae, and others produce reproductive conidia.
+
+Plants, animals, fungi, and single-celled eukaryotes such as choanoflagellates share mechanisms including calcium-ion signalling, reactive oxygen species, and extracellular [[Adenosine triphosphate|adenosine triphosphate]] detected by P2X receptors, implying that these are ancient. Thibaut Brunet and Detlev Arendt propose that the last eukaryotic common ancestor healed openings in the [[Cell membrane|cell membrane]] through a calcium-triggered response ending in exocytosis.
+
+=== KEY: Ink_2bf007
+HEADWORD: Ink
+PERSON: no
+LINK TARGETS: Dye | Papyrus | Parchment | Pigment | Soot
+ENTRY:
+Gel, sol or solution containing at least one colorant, such as a [[Dye]] or [[Pigment]], used to color a surface to produce an image, text or design. Ink is used for drawing or writing with a pen, brush or quill, and thicker paste inks are used in letterpress and lithographic printing. Modern inks may contain solvents, resins, lubricants and surfactants alongside their colorants. The earliest inks of all civilizations were probably made from lampblack, a [[Soot|soot]] collected as a by-product of fire. Ink was used in ancient Egypt on [[Papyrus]] from at least the 26th century BC, and the earliest Chinese inks may date to four millennia ago. India ink was invented in China. About 1,600 years ago, a popular recipe mixed iron salts with tannin from gallnuts; the ink was bluish-black when first applied and faded to dull brown. Medieval European scribes wrote mainly on [[Parchment]].
+
+=== KEY: Inland_Empire_5addd1
+HEADWORD: Inland Empire
+PERSON: no
+LINK TARGETS: Southern California | West Virginia
+ENTRY:
+Metropolitan region inland from coastal [[Southern California]], centered on Riverside and San Bernardino. Its most comprehensive definition includes all of both counties, an area larger than [[West Virginia]]. The Riverside–San Bernardino–Ontario metropolitan area, as defined by the U.S. Census Bureau, covers more than 27,000 sq mi (70,000 km²) and had a population of about 4.6 million in 2020. At the end of the 19th century, the region was a major center of citrus, dairy and winemaking. Agriculture declined through the 20th century as the population grew, and residential, industrial and commercial development has increased since the 1970s.
+
+=== KEY: Inland_taipan_4b16af
+HEADWORD: Inland taipan
+PERSON: no
+LINK TARGETS: Australia | Mammal
+ENTRY:
+Extremely venomous snake of semiarid central-eastern [[Australia]]. First described in 1879, it remained poorly known for nearly 90 years before it was rediscovered in 1972. Based on the median lethal dose of its venom in laboratory mice, it is widely regarded as the most venomous snake in the world. A single bite is estimated to contain enough venom to kill more than 100 adult humans. It preys on [[Mammal|mammals]] and is usually shy and reclusive, rarely encountering people because it lives in remote areas. The word "fierce" in its common names refers to venom strength rather than temperament.
+
+=== KEY: Inner_Mongolia_132cd5
+HEADWORD: Inner Mongolia
+PERSON: no
+LINK TARGETS: China | Han Chinese | Mongolia | Mongols | Xiongnu
+ENTRY:
+Autonomous region of northern [[China]], whose border includes two-thirds of China's border with [[Mongolia]]. Officially the Inner Mongolia Autonomous Region, it was established in 1947 and is China's third-largest administrative subdivision, covering about 1,200,000 km² (12% of China's total land area). Its capital is Hohhot, and other major cities include Baotou, Chifeng, Tongliao and Ordos. It recorded a population of 24,706,321 in the 2010 census. [[Han Chinese]] make up the majority, while [[Mongols]] number over 4 million, the largest Mongol population in the world. Annual GDP per capita was US$14,343 (2022), ranked 8th in China. Before the rise of the Mongols in the 13th century, the Hetao region alternated in control between Chinese farming communities and nomadic peoples such as the [[Xiongnu]].
+
+=== KEY: Inner_product_space_7af23a
+HEADWORD: Inner product space
+PERSON: no
+LINK TARGETS: Dot product | Functional analysis | Hilbert space
+ENTRY:
+Vector space equipped with an inner product, a generalization of the [[Dot product|dot product]]. The inner product defines lengths, angles and orthogonality, and it induces a norm, so every inner product space is a normed vector space. If the space is also complete, it is a [[Hilbert space]]. Spaces over the complex numbers are sometimes called unitary spaces. Infinite-dimensional inner product spaces are widely used in [[Functional analysis]]. The concept was first used by Giuseppe Peano in 1898.
+
+=== KEY: Inorganic_chemistry_22110c
+HEADWORD: Inorganic chemistry
+PERSON: no
+LINK TARGETS: Fritz Haber | Haber process | Hemoglobin | Organic chemistry | Organometallic chemistry | Pyrite | Sodium chloride | Sulfuric acid
+ENTRY:
+Branch of chemistry that studies the preparation, properties, and behavior of inorganic and organometallic compounds, mainly those not based on carbon.
+
+Unlike [[Organic chemistry]], it deals chiefly with non-carbon compounds, though the fields overlap, especially in [[Organometallic chemistry|organometallic chemistry]]. Its products are used in catalysts, materials, paints and pigments, coatings, medicines, fuels, and agriculture. Many inorganic compounds occur as minerals, such as iron sulfide as [[Pyrite|pyrite]]; others serve as biomolecules, such as the electrolyte [[Sodium chloride|sodium chloride]], ATP, and the polyphosphate backbone of DNA.
+
+Compounds may be ionic, as in magnesium chloride (MgCl₂), which contains Mg²⁺ and Cl⁻ ions; covalent; or polar covalent, common in oxides, carbonates, and halides. Many have high melting points, and some ionic compounds, such as NaCl, dissolve easily in water. Subdivisions include organometallic, cluster, bioinorganic, materials, and solid-state chemistry.
+
+Classical coordination compounds feature metals bound to lone pairs on ligands such as H₂O, NH₃, Cl⁻, and CN⁻. Structures range from tetrahedral for titanium to square planar for some nickel complexes and octahedral for cobalt complexes. Iron in [[Hemoglobin|hemoglobin]] is one biologically important example. Alfred Werner's coordination theory earned him the 1913 Nobel Prize in Chemistry.
+
+The field is highly practical. Traditionally, a nation's economic scale could be gauged by its output of [[Sulfuric acid|sulfuric acid]]. Ammonium nitrate fertilizer depends on ammonia from the [[Haber process]], whose practical synthesis with iron catalysts was achieved by Carl Bosch and [[Fritz Haber]] in the early 1900s. Portland cement is another large-scale inorganic material, and vanadium(V) oxide and titanium(III) chloride serve as industrial catalysts.
+
+=== KEY: Inorganic_compound_2f1e3c
+HEADWORD: Inorganic compound
+PERSON: no
+LINK TARGETS: Carbon dioxide | Earth's crust | Inorganic chemistry | Urea
+ENTRY:
+Chemical compound that lacks carbon–hydrogen bonds. The study of inorganic compounds is a subfield known as [[Inorganic chemistry]]. Inorganic compounds comprise most of the [[Earth's crust|Earth's crust]], and all allotropes of carbon, such as graphite and diamond, are often considered inorganic. Simple carbon compounds such as [[Carbon dioxide]], carbon monoxide, carbonates and cyanides are also often considered inorganic. Many of these compounds occur normally within organisms, and describing a chemical as inorganic does not mean it cannot occur in living things. In 1828 Friedrich Wöhler converted ammonium cyanate into [[Urea]], an event often cited as the starting point of modern organic chemistry. IUPAC does not offer a definition of the term.
+
+=== KEY: Inquisition_96d107
+HEADWORD: Inquisition
+PERSON: no
+LINK TARGETS: Counter-Reformation | Jews | Muslims | Papal States | Reformation | Spanish Inquisition | Witchcraft
+ENTRY:
+Catholic judicial procedure, and the tribunals that used it, to combat heresy and related offenses. The name came to denote medieval and Reformation-era state-organized tribunals targeting heresy, apostasy, blasphemy, [[Witchcraft]] and customs considered deviant. Inquisitions began in 12th-century France against the Cathars and Waldensians. From the 1250s, inquisitors were generally chosen from the Dominican Order rather than local clergy. The [[Spanish Inquisition|Spanish]] and Portuguese inquisitions often focused on conversos, former [[Jews|Jews]] who had converted to Christianity, and moriscos, [[Muslims|Muslims]] who had been forced to convert. Inquisitions used violence, isolation and torture, or the threat of torture, to extract confessions. After the [[Reformation]], the [[Counter-Reformation]] expanded the inquisitions. Apart from the [[Papal States]], inquisition courts were abolished in the early 19th century.
+
+=== KEY: Insect_960c08
+HEADWORD: Insect
+PERSON: no
+LINK TARGETS: Flowering plant | Honey bee | Metamorphosis | Paleozoic | Pheromone | Pliny the Elder | Termite
+ENTRY:
+Invertebrate class (Insecta) of the phylum Arthropoda, the most diverse group of animals.
+
+Insects have an exoskeleton, a body of head, thorax, and abdomen, three pairs of jointed legs, compound eyes, and a pair of antennae. More than a million species have been described, over half of all animal species; about 5.5 million may exist. The orders Hemiptera, Lepidoptera, Diptera, Hymenoptera, and Coleoptera each have more than 100,000 described species. The name comes from Latin *insectum*, "cut up", introduced by [[Pliny the Elder]] as a translation of Aristotle's Greek term.
+
+The nervous system consists of a brain and a ventral nerve cord. Insects breathe through paired openings along their sides connected to small tubes, so the blood does not carry oxygen. Most lay eggs, and growth involves a series of molts. Four-stage [[Metamorphosis|metamorphosis]] includes a nearly immobile pupa; three-stage metamorphosis lacks one, and young develop through nymphal stages. Insects are the only invertebrates capable of sustained powered flight, which evolved just once. Bees, ants, and [[Termite|termites]] live in large colonies. Male moths sense the [[Pheromone|pheromones]] of females over great distances, and crickets stridulate to attract mates.
+
+Fossil insects from the [[Paleozoic]] include dragonfly-like forms with wingspans of 55 to 70 cm. The most diverse groups appear to have coevolved with [[Flowering plant|flowering plants]]. Many insects are crop pests, parasites, or disease vectors, but pollinators are essential to many plants' reproduction, and many insects prey on pests. Silkworms and the [[Honey bee|honey bee]] were domesticated for silk and honey. Insects are eaten in 80% of the world's nations, by roughly 3,000 ethnic groups. Human activities are seriously affecting insect biodiversity.
+
+=== KEY: Insomnia_866d81
+HEADWORD: Insomnia
+PERSON: no
+LINK TARGETS: Caffeine | Heart failure | Nicotine | Pain | Sleep disorder
+ENTRY:
+[[Sleep disorder]] causing difficulty falling asleep or staying asleep for as long as desired. It is typically followed by daytime sleepiness, low energy, irritability and depressed mood. Chronic insomnia involves at least three episodes per week for at least three months. It can result from [[Pain|chronic pain]], [[Heart failure]], psychological stress, or the use of [[Caffeine]], [[Nicotine]] and alcohol. Cognitive behavioral therapy is considered the first-line treatment, and sleeping pills are usually not recommended for more than four or five weeks. Between 10% and 30% of adults have insomnia at any given point in time. Women and people over 65 are affected more often.
+
+=== KEY: Instagram_55f015
+HEADWORD: Instagram
+PERSON: no
+LINK TARGETS: Facebook | San Francisco
+ENTRY:
+Photo and short-form video sharing social networking service owned by Meta Platforms. Development began in [[San Francisco]] as Burbn, a check-in app, before it was refocused on photo sharing and renamed Instagram, a blend of "instant camera" and "telegram." It launched for iOS in October 2010, and [[Facebook]] acquired it in April 2012 for approximately US$1 billion in cash and stock. Early posts were limited to a square format, a restriction raised to 1080 pixels in 2015. As of January 2019, Stories was used by 500 million people daily. The service supports 33 languages.
+
+=== KEY: Instinct_b9df69
+HEADWORD: Instinct
+PERSON: no
+LINK TARGETS: Marsupial | Reflex | Sea turtle
+ENTRY:
+Inherent inclination of a living organism toward a particular complex behavior, containing innate elements. Any behavior performed without prior experience is instinctive, and every animal has instincts, including humans. Examples include newly hatched [[Sea turtle|sea turtles]] moving toward the ocean, a [[Marsupial]] climbing into its mother's pouch at birth, animal courtship, and nest building. The simplest instinctive behavior is a fixed action pattern, a short sequence of actions carried out without variation in response to a clearly defined stimulus. Instincts differ from [[Reflex|reflexes]], which are simple responses to a specific stimulus. Although their innate characteristics are invariant, experience can change the details of their performance. Jean Henri Fabre regarded instincts as fixed patterns that do not change in novel situations.
+
+=== KEY: Institution_d47ce2
+HEADWORD: Institution
+PERSON: no
+LINK TARGETS: Anthropology | Family | Money | Political science | Sociology | Émile Durkheim
+ENTRY:
+Humanly devised structure of rules and norms that shape and constrain social behavior. All definitions entail a level of persistence and continuity, and institutions range from formal laws and rules to informal social conventions. Primary or meta-institutions, such as the [[Family]] or [[Money]], are broad enough to encompass sets of related institutions. Institutions are a principal object of study in [[Political science]], [[Anthropology]], economics and [[Sociology]], which [[Émile Durkheim]] described as the "science of institutions, their genesis and their functioning." Definitions vary in formality: broad ones include informal practices such as handshakes, while narrow ones require formal laws and complex organizational structures. Institutions have been described as the social science equivalent of theories in the natural sciences.
+
+=== KEY: Instrumentation_d72da0
+HEADWORD: Instrumentation
+PERSON: no
+LINK TARGETS: Automation | Control theory | Metrology | Thermometer
+ENTRY:
+Collective term for measuring instruments used to indicate, measure and record physical quantities. It is also the field of making such instruments, which involves [[Metrology]], [[Automation]] and [[Control theory]]. Instruments range from simple direct-reading [[Thermometer|thermometers]] to multi-sensor components of industrial control systems, and are found in laboratories, refineries, factories, vehicles and homes. They measure parameters including pressure, flow, temperature, humidity, density, viscosity, frequency, voltage and position. Pneumatic transmitters and automatic 3-term (PID) controllers were introduced in the early 1930s, with a signal of 3 to 15 psi as the typical standard. Transistor electronics later allowed wiring to replace pipes, and the 4–20 mA signal was eventually standardized as ANSI/ISA S50.
+
+=== KEY: Insulin_38ef85
+HEADWORD: Insulin
+PERSON: no
+LINK TARGETS: Diabetes | Frederick Sanger | Glucose | Pancreas | University of Toronto
+ENTRY:
+Peptide hormone produced by beta cells of the [[Pancreas|pancreatic]] islets. It is the main anabolic hormone of the body, regulating the metabolism of carbohydrates, fats and protein. It promotes the absorption of [[Glucose]] from the blood into the liver, fat and skeletal muscle, where glucose is converted into glycogen or fat, and it lowers blood sugar. Glucagon from neighboring alpha cells opposes it. Decreased or absent insulin activity causes [[Diabetes]]. In type 1 diabetes, beta cells are destroyed by an autoimmune reaction, while type 2 diabetes involves reduced beta-cell function and insulin resistance in peripheral tissues. Frederick Banting and Charles Best isolated insulin from dog pancreas at the [[University of Toronto]] in 1921. [[Frederick Sanger]] sequenced it in 1951, making insulin the first protein to be fully sequenced.
+
+=== KEY: Insurance_eaff1b
+HEADWORD: Insurance
+PERSON: no
+LINK TARGETS: Belgium | Genoa | Great Fire of London | Justinian I | Law of large numbers | London | Rhodes
+ENTRY:
+Means of protection from financial loss in which, for a fee, one party agrees to compensate another for a certain loss, damage, or injury.
+
+A form of risk management, it protects against contingent or uncertain loss. The insurer issues a policy detailing when it will compensate the insured or a designated beneficiary. The policyholder pays a premium, accepting a small known loss for the promise of compensation, usually for something in which the insured has an insurable interest. After a loss, the insured submits a claim, processed by a claims adjuster. Insurers rely on the [[Law of large numbers|law of large numbers]] to forecast aggregate losses.
+
+The Lex Rhodia, the general average principle of marine insurance, was established on [[Rhodes]] in approximately 1000 to 800 BC and preserved in the *Digesta* ordered by [[Justinian I]] in 533. Direct insurance of sea risks for a premium began in [[Belgium]] about 1300 AD, and separate insurance contracts were invented in [[Genoa]] in the 14th century; the first known dates from 1347. The earliest known life insurance policy was made at the Royal Exchange, [[London]], on June 18, 1583, for £383, 6s. 8d. on the life of William Gibbons.
+
+Property insurance can be traced to the [[Great Fire of London]] in 1666, which destroyed more than 13,000 houses. In 1681 Nicholas Barbon and eleven associates established the first fire insurance company, the "Insurance Office for Houses". Insurance faces moral hazard, in which insured parties may take more risks, and insurer insolvency during correlated losses; regulation enforces solvency, transparency, and fair practices.
+
+=== KEY: Insurgency_7649d8
+HEADWORD: Insurgency
+PERSON: no
+LINK TARGETS: American Civil War | Angolan Civil War | Rural area | Terrorism
+ENTRY:
+Violent armed rebellion by small, lightly armed bands practicing guerrilla warfare against a larger authority. The conflict is asymmetric: insurgents avoid large-scale direct battles and blend into the civilian population, often in [[Rural area|rural areas]], to gradually expand territorial control. Because of this blending, insurgencies tend to involve considerable violence against civilians by both the state and the insurgents. An insurgency aims for political control rather than indiscriminate violence, which distinguishes it from [[Terrorism]], although it may incorporate terrorist tactics. Insurgencies can be multipolar: during the [[Angolan Civil War]] the main sides were the MPLA and UNITA, while the separatist FLEC movement sought independence for Cabinda. The Confederate States of America was not recognized as a sovereign state during the [[American Civil War]], but it was recognized as a belligerent power, so its revolt may not be viewed as an insurgency.
+
+=== KEY: Integer_a0faef
+HEADWORD: Integer
+PERSON: no
+LINK TARGETS: Abelian group | David Hilbert | Field (mathematics) | Georg Cantor | Leonhard Euler | Natural number | Rational number | Ring (mathematics)
+ENTRY:
+Number that is zero, a positive natural number, or the negation of a positive natural number.
+
+The negations of the positive natural numbers (−1, −2, −3, ...) are the negative integers. The set of integers is denoted Z or ℤ, from the German *Zahlen*, "numbers", a usage attributed to [[David Hilbert]]. It contains the [[Natural number|natural numbers]] and lies within the [[Rational number|rational numbers]]. Like the natural numbers, it is countably infinite. The numbers 21, 4, 0, and −2048 are integers; 9.75, 5/4, and the square root of 2 are not.
+
+The word is Latin for "whole" or "untouched". Historically only positive integers were considered, and the definition widened as negative numbers proved useful. Negative numbers first appear in Chinese mathematics between 200 BC and 200 AD, and Indian texts of about the 7th century AD set rules for operating with them. [[Leonhard Euler]] defined integers to include negatives in his 1765 *Elements of Algebra*. The phrase "the set of the integers" was not used before the end of the 19th century, when [[Georg Cantor]] introduced set theory. The earliest known textbook use of Z is in Nicolas Bourbaki's *Algèbre* (1947). Whether "whole numbers" includes negatives remains ambiguous.
+
+The integers are closed under addition, multiplication, and subtraction, but not under division or exponentiation. Under addition they form an [[Abelian group]], the only infinite cyclic group up to isomorphism. With multiplication they form a commutative [[Ring (mathematics)|ring]] with unity, the smallest ring containing the natural numbers, and an integral domain because they lack zero divisors. They are not a [[Field (mathematics)|field]], since not every integer has a multiplicative inverse; the smallest field containing them is the rational numbers.
+
+=== KEY: Integral_4ea945
+HEADWORD: Integral
+PERSON: no
+LINK TARGETS: Bernhard Riemann | Derivative | Fundamental theorem of calculus | Gottfried Wilhelm Leibniz | Isaac Newton
+ENTRY:
+Continuous analog of a sum, used to calculate areas, volumes and their generalizations. Integration, the process of computing an integral, is one of the two fundamental operations of calculus, along with [[Derivative|differentiation]]. A definite integral computes the signed area of the region bounded by a function's graph between two points, while an indefinite integral is an antiderivative. The [[Fundamental theorem of calculus|fundamental theorem of calculus]] relates the two operations and allows a definite integral to be computed from a known antiderivative. Integration was initially used to find areas under curves and displacement from velocity. [[Isaac Newton]] and [[Gottfried Wilhelm Leibniz]] formulated its principles independently in the late 17th century, and [[Bernhard Riemann]] later gave a rigorous definition. Henri Lebesgue generalized it in the early 20th century.
+
+=== KEY: Integrated_circuit_305ad8
+HEADWORD: Integrated circuit
+PERSON: no
+LINK TARGETS: Computer | Jack Kilby | Moore's law | Semiconductor | Silicon | Smartphone | Transistor
+ENTRY:
+Compact assembly of electronic circuits, also called a microchip or chip, fabricated on a thin, flat piece of [[Semiconductor|semiconductor]] material, usually [[Silicon|silicon]]. Integrated circuits perform functions such as data processing, control, memory and power management in [[Computer|computers]], [[Smartphone|smartphones]] and televisions. Compared with circuits built from discrete components, they are smaller, faster, cheaper and more energy-efficient, because whole circuits are printed as a unit by photolithography. Their main disadvantage is the high initial cost of design and factory construction, so they are commercially viable only when high production volumes are anticipated. Progress has roughly followed [[Moore's law]]: a modern chip may hold many billions of [[Transistor|transistors]] in an area the size of a human fingernail. [[Jack Kilby]] conceived the idea in 1958, and Robert Noyce developed a silicon-based version in 1959.
+
+=== KEY: Integration_by_parts_ffc029
+HEADWORD: Integration by parts
+PERSON: no
+LINK TARGETS: Calculus | Sequence
+ENTRY:
+Technique of [[Calculus|calculus]] for integrating a product of two functions. It is derived from the product rule of differentiation and states that the integral of u dv equals uv minus the integral of v du. It is frequently used to transform an integral that is hard to evaluate into one that is easier to solve. Brook Taylor published the idea in 1715. The discrete analogue for [[Sequence|sequences]] is called summation by parts.
+
+=== KEY: Integumentary_system_02b0c2
+HEADWORD: Integumentary system
+PERSON: no
+LINK TARGETS: Feather | Hair | Nail (anatomy) | Skin | Temperature | Vitamin D
+ENTRY:
+Set of organs forming the outermost layer of an animal's body, including the [[Skin|skin]], [[Hair|hair]], scales, [[Feather|feathers]], hooves, claws and [[Nail (anatomy)|nails]]. It acts as a protective barrier between the external and internal environment, maintains water balance, excretes waste and regulates [[Temperature|body temperature]]. Its sensory receptors detect pain, sensation, pressure and temperature. The skin has two major layers, the outermost epidermis and the inner dermis, separated by a basement membrane. The epidermis has four to five layers, and the dermis contains connective tissues, blood vessels, glands, hair roots and nerve endings. In humans the skin accounts for about 12 to 15 percent of total body weight and covers 1.5 to 2 m² of surface area. The skin also synthesizes [[Vitamin D|vitamin D]] in the epidermis upon exposure to UVB radiation.
+
+=== KEY: Intel_ff97a9
+HEADWORD: Intel
+PERSON: no
+LINK TARGETS: AMD | Central processing unit | Microsoft Windows | Personal computer | X86
+ENTRY:
+American multinational technology company headquartered in Santa Clara, California. It designs and sells [[Central processing unit|central processing units]] and related products, and it is one of the developers of the [[X86|x86]] instruction set found in most [[Personal computer|personal computers]]. Founded in 1968 by Gordon Moore, Robert Noyce and Arthur Rock, it released the Intel 4004 in 1971, the world's first commercial microprocessor chip. During the 1990s its partnership with [[Microsoft Windows|Microsoft Windows]] shaped the PC market, and competition from [[AMD|AMD]] has since reduced its dominance.
+
+=== KEY: Intellectual_disability_c8e450
+HEADWORD: Intellectual disability
+PERSON: no
+LINK TARGETS: Alzheimer's disease | Autism | Down syndrome | Intelligence quotient
+ENTRY:
+Neurodevelopmental disorder marked by significant impairment in intellectual and adaptive functioning.
+
+Also called disorder of intellectual development, and known as learning difficulty in the United Kingdom, it usually becomes apparent in infancy, early childhood, or school age. Affected children typically have an [[Intelligence quotient|intelligence quotient]] (IQ) below 70 and deficits in at least two adaptive behaviors affecting everyday living. Under the DSM-5, deficits in reasoning, problem solving, planning, abstract thinking, judgment, and learning must be confirmed by clinical evaluation and standardized IQ testing. Age-related decline in memory and cognition, as in [[Alzheimer's disease]], can also cause it.
+
+It is subdivided into syndromic forms, accompanied by other medical and behavioral signs, as in [[Down syndrome]] and fragile X syndrome, and non-syndromic forms. Prevalence estimates range from about 1% of the global population to 2–3%. About a quarter of cases are caused by a genetic disorder, and about 5% are inherited. Other causes include fetal alcohol exposure, perinatal complications, and postnatal infections or trauma; the cause is unidentified in up to half of cases.
+
+Severity ranges from mild to profound. About 85% of people with the condition have mild forms and about 10% moderate; severe accounts for 3.5% and profound for 1.5%. People with mild disability can learn reading and mathematics to about the level of a typical child aged nine to twelve, and many live independently and work as adults. Those with moderate disability need considerable support in school, at home, and in the community; those with severe or profound disability need intensive support throughout life.
+
+It often co-occurs with [[Autism|autism]]: roughly 30% of those with autism spectrum disorder also have intellectual disability, which can complicate diagnosis.
+
+=== KEY: Intellectual_property_cc6f79
+HEADWORD: Intellectual property
+PERSON: no
+LINK TARGETS: Copyright | Patent | Republic of Venice
+ENTRY:
+Category of property that includes intangible creations of the human intellect. Intellectual property rights give creators or owners the right to use an asset and to prevent others from doing so. The best-known types are [[Patent|patents]], [[Copyright|copyrights]], trademarks and trade secrets. Supporters argue that these protections give creators economic incentives to produce and innovate. Because intellectual goods can be consumed by an unlimited number of people without being depleted, balancing rights strong enough to encourage creation against rights that limit wide use is the primary focus of modern law. The Venetian Patent Statute of March 19, 1474, established by the [[Republic of Venice|Republic of Venice]], is usually considered the earliest codified patent system. Britain's Statute of Anne (1710) is seen as the origin of copyright.
+
+=== KEY: Intelligence_8f7ba5
+HEADWORD: Intelligence
+PERSON: no
+LINK TARGETS: David Hume | Francis Bacon | Intellectual disability | Intelligence quotient | John Locke | Middle Ages | Thomas Hobbes
+ENTRY:
+Capacity to perceive or infer information and retain it as knowledge to be applied to adaptive behavior within an environment or context.
+
+It has been defined in many ways, including capacity for abstraction, logic, learning, reasoning, planning, creativity, and problem-solving. A 1995 American Psychological Association report noted that two dozen prominent theorists asked to define it gave two dozen somewhat different definitions. The term rose to prominence in the early 1900s, and most psychologists believe intelligence divides into various domains. It has also been observed in non-human animals.
+
+The word derives from Latin *intelligentia* or *intellectus*. In the [[Middle Ages]], *intellectus* became the scholarly term for understanding and a translation of the Greek *nous*. [[Francis Bacon]], [[Thomas Hobbes]], [[John Locke]], and [[David Hume]] rejected the scholastic theories attached to it and preferred "understanding".
+
+Human intelligence includes abilities to learn, form concepts, reason, plan, solve problems, and use language, organized in frameworks such as fluid versus crystallized intelligence. It is distinct from learning, the retention of facts and abilities.
+
+[[Intelligence quotient|IQ]] tests were first developed in the early 20th century to screen children for [[Intellectual disability|intellectual disability]] and later used to screen immigrants, military recruits, and applicants. The *g* factor summarizes correlations among scores on cognitive tests; Charles Spearman identified it in 1904. Most psychologists agree IQ measures some aspects of intelligence, particularly academic performance, while many question its validity as a whole measure. Twin and adoption studies estimate heritability at about 20–40% in childhood and 50–80% in adulthood, though the balance of genetic and environmental influences is debated. Researchers also disagree about average group differences in scores: one view holds that genetics does not explain average differences between racial groups, while others argue they are partly heritable.
+
+=== KEY: Intelligence_quotient_d05a3d
+HEADWORD: Intelligence quotient
+PERSON: no
+LINK TARGETS: Normal distribution | Standard deviation
+ENTRY:
+Total score from standardized tests designed to assess human intelligence. Modern IQ tests transform raw scores to a [[Normal distribution|normal distribution]] with a mean of 100 and a [[Standard deviation|standard deviation]] of 15, so about two-thirds of people score between 85 and 115. IQ scores are estimates of intelligence, which, unlike distance or mass, cannot be measured directly. They have been associated with factors such as nutrition and parental socioeconomic status, and they are used for educational placement and for evaluating job applicants. Raw scores have risen by an average of three points per decade since the early 20th century, a phenomenon called the Flynn effect.
+
+=== KEY: Intensive_farming_17f9ab
+HEADWORD: Intensive farming
+PERSON: no
+LINK TARGETS: Agriculture | Biodiversity | Fertilizer | Green Revolution | Greenhouse gas | Pesticide
+ENTRY:
+Form of [[Agriculture|agriculture]], of crops and animals, with high levels of input and output per unit of land area. It is characterized by a low fallow ratio, heavy use of capital, labor, [[Fertilizer|fertilizers]], [[Pesticide|pesticides]] and water, and higher crop yields. Modern methods often use antibiotics for livestock, and intensive farms are widespread in developed nations. Intensive animal farming raises large numbers of animals on a relatively small area, either through rotational grazing or in concentrated animal feeding operations. The [[Green Revolution|Green Revolution]] of the 1960s expanded yields through high-yielding crop varieties, irrigation and chemical inputs. Critics cite water and soil contamination, [[Greenhouse gas|greenhouse gas]] emissions, reduced [[Biodiversity|biodiversity]] and antimicrobial resistance. Some intensive farms use sustainable methods, although these typically require more labor or lower yields.
+
+=== KEY: Inter_Milan_8c5830
+HEADWORD: Inter Milan
+PERSON: no
+LINK TARGETS: AC Milan | Milan | Serie A | UEFA Champions League
+ENTRY:
+Football club, formally Football Club Internazionale Milano, based in [[Milan|Milan]], Lombardy. Founded on March 9, 1908, after a split within the Milan Foot-Ball and Cricket Club (now [[AC Milan|AC Milan]]), it is the only team to have an unbroken presence in [[Serie A|Serie A]] since its 1909 debut. It has won 21 league titles and three [[UEFA Champions League|Champions League]] titles, and it shared the San Siro stadium with AC Milan from 1947. In 2010 it completed an unprecedented Italian treble. Oaktree Capital Management has owned the club since May 2024.
+
+=== KEY: Interchangeable_parts_6335af
+HEADWORD: Interchangeable parts
+PERSON: no
+LINK TARGETS: Assembly line | Carthage
+ENTRY:
+Components made to specifications so nearly identical that any one can replace another without custom fitting. This interchangeability allows easy assembly of new devices and repair of existing ones, minimizing the time and skill required. It made the [[Assembly line|assembly line]] possible at the beginning of the 20th century. Evidence of the practice dates back over two thousand years to [[Carthage|Carthage]] in the First Punic War, when ships had standardized parts marked for assembly. In the late 18th century, French General Jean-Baptiste Vaquette de Gribeauval promoted standardized weapons, and by around 1778 Honoré Blanc was producing firearms with interchangeable flintlock mechanisms. Industrial production developed in the United States in the 19th century, where it was called the American system of manufacturing. Advances in machine tools, jigs, fixtures and gauges made it practical.
+
+=== KEY: Intercontinental_ballistic_missile_cee835
+HEADWORD: Intercontinental ballistic missile
+PERSON: no
+LINK TARGETS: China | North Korea | Nuclear weapon | Russia | United Kingdom | United States
+ENTRY:
+Ballistic missile with a range greater than 5,500 km (3,400 mi), primarily designed to deliver [[Nuclear weapon|nuclear weapons]]. Many carry multiple independently targetable reentry vehicles (MIRVs), allowing one missile to strike several targets. The [[United States|United States]], [[Russia|Russia]], [[China|China]], France, India, the [[United Kingdom|United Kingdom]], Israel and [[North Korea|North Korea]] are the only countries known to have operational ICBMs. The first, the R-7 Semyorka, was tested in 1957. Early designs used liquid propellants that required fueling before launch, while solid-propellant designs need no fueling and respond far faster.
+
+=== KEY: Interest_economics_348c05
+HEADWORD: Interest
+PERSON: no
+LINK TARGETS: E (mathematical constant) | First Council of Nicaea | Profit (economics) | Thomas Aquinas
+ENTRY:
+Payment above the principal sum of a loan or deposit, made at a particular rate. A borrower pays interest to a lender, and a saver may earn it from a bank. Interest differs from [[Profit (economics)|profit]], which goes to the owner of an asset or enterprise, and from a dividend, which a company pays from profit without a fixed rate. The rate of interest is the amount paid or received over a period divided by the principal, usually expressed as a percentage. Compound interest is earned on prior interest as well as principal, so debt grows exponentially, and its mathematical study led to the discovery of the number [[E (mathematical constant)|e]]. The [[First Council of Nicaea|First Council of Nicaea]] in 325 forbade clergy from usury, defined as lending on interest above 1 percent per month. [[Thomas Aquinas|St. Thomas Aquinas]] argued that charging interest was "double charging", charging for both the thing and its use.
+
+=== KEY: Interferometry_9927ad
+HEADWORD: Interferometry
+PERSON: no
+LINK TARGETS: Albert A. Michelson | Astronomy | Quantum mechanics | Radiology | Seismology | Spectroscopy
+ENTRY:
+Technique that uses the interference of superimposed waves to extract information. Interferometers usually split light from a single source into two beams that travel different optical paths and then recombine them, so the resulting fringes reveal the difference in path lengths. They are widely used to measure microscopic displacements, refractive index changes and surface irregularities. In analytical science they measure lengths and the shape of optical components with nanometer precision, making them the highest-precision length measuring instruments in existence. Interferometry is important in [[Astronomy|astronomy]], [[Seismology|seismology]], [[Spectroscopy|spectroscopy]], [[Quantum mechanics|quantum mechanics]] and [[Radiology|radiology]]. An astronomical interferometer combines two or more separate dishes, offering a resolution equal to that of a single telescope whose diameter equals the largest separation between them. [[Albert A. Michelson|Albert A. Michelson]] developed the Michelson interferometer for precise length measurements in the late 1800s.
+
+=== KEY: Interior_design_1ccd06
+HEADWORD: Interior design
+PERSON: no
+LINK TARGETS: Middle class | Mosaic | Visual arts
+ENTRY:
+Art and science of enhancing the interior of a building to create a healthier and more aesthetically pleasing environment. An interior designer plans, researches, coordinates and manages such projects, which may include space planning, site inspections, programming, construction management and execution of the design. The profession draws on fundamental principles from the [[Visual arts|visual arts]]. It is separate from interior decoration, a term more common in the U.S.; in the U.K., interior design is still unregulated. Painting interior walls has existed for at least 5,000 years, and the Greeks and later Romans added decorative [[Mosaic|mosaic]] floors. In the mid-to-late 19th century, a growing [[Middle class|middle class]] created demand for furnished interiors, and the modern profession emerged in the mid-20th century.
+
+=== KEY: Interjection_357f0f
+HEADWORD: Interjection
+PERSON: no
+LINK TARGETS: Adverb | Greeting
+ENTRY:
+Word or expression that occurs on its own and expresses a spontaneous feeling, situation or reaction. Interjections include exclamations such as ouch and wow, curses, [[Greeting|greetings]], response particles such as okay, and hesitation markers such as uh and um. Most express feeling rather than representing an idea. Volitive interjections make requests, as in shh, emotive ones express emotions such as disgust, and cognitive ones express thought or confusion. Greek grammarians classed interjections as [[Adverb|adverbs]] that modified verbs, but many Latin scholars treated them as an independent part of speech. Primary interjections, such as oops and ouch, are interjections first; secondary ones, such as damn, come from other word classes.
+
+=== KEY: Intermolecular_force_3ff45f
+HEADWORD: Intermolecular force
+PERSON: no
+LINK TARGETS: Covalent bond | Hydrogen bond | Van der Waals force | Viscosity
+ENTRY:
+Force of attraction or repulsion between molecules and neighboring particles such as atoms or ions. Intermolecular forces are weak relative to the intramolecular forces, such as [[Covalent bond|covalent bonds]], that hold a molecule together. They hold particles together in liquids and solids and determine properties such as melting and boiling points, [[Viscosity|viscosity]] and solubility. Attractive types include [[Hydrogen bond|hydrogen bonding]], ion–dipole forces, cation–π bonding and [[Van der Waals force|van der Waals forces]], which include the London dispersion force. A hydrogen bond links a hydrogen atom, bonded to a highly electronegative atom such as nitrogen, oxygen or fluorine, to another such atom. It is directional and stronger than a van der Waals interaction. Information on these forces comes from macroscopic measurements of properties such as pressure, volume and temperature.
+
+=== KEY: Internal_combustion_engine_93bfe9
+HEADWORD: Internal combustion engine
+PERSON: no
+LINK TARGETS: Combustion | Napoleon | Nicolaus Otto | Rudolf Diesel | Steam engine | Stirling engine | Wankel engine
+ENTRY:
+Heat engine in which fuel burns with an oxidizer, usually air, in a combustion chamber that is part of the working fluid flow circuit.
+
+The expansion of high-temperature, high-pressure gases from [[Combustion|combustion]] applies force to pistons, turbine blades, a rotor, or a nozzle, converting chemical energy into kinetic energy. The term usually means engines with intermittent combustion, such as two-stroke and four-stroke piston engines and the [[Wankel engine]]. A second class, with continuous combustion, includes gas turbines, jet engines, and most rocket engines. In external combustion engines, such as the [[Steam engine|steam]] and [[Stirling engine|Stirling]] engines, energy goes to a working fluid not mixed with combustion products.
+
+Most are used in mobile applications, as the primary power for cars, aircraft, and boats. They run on hydrocarbon fuels such as natural gas, gasoline, diesel fuel, or ethanol; biodiesel and bioethanol are renewable alternatives.
+
+In 1807 French engineers Nicéphore Niépce and Claude Niépce ran the Pyréolophore, patented by [[Napoleon]], on a boat on the Saône, and François Isaac de Rivaz built a hydrogen-fueled engine, fitted to a primitive vehicle in 1808. In 1876 [[Nicolaus Otto]] patented the compressed-charge, four-cycle engine, the first modern internal combustion engine. Karl Benz patented a two-stroke gasoline engine in 1879 and began commercial production of motor vehicles in 1886. In 1892 [[Rudolf Diesel]] developed the first compression-ignition engine. Robert Goddard launched the first liquid-fueled rocket in 1926, and the Heinkel He 178 became the first jet aircraft in 1939.
+
+Exhaust includes carbon dioxide, nitrogen oxides, particulate matter, and unburnt hydrocarbons, contributing to air pollution. Catalytic converters, fuel standards, and engine controls have sharply reduced some pollutants, while carbon dioxide emissions have prompted a shift toward electrification.
+
+=== KEY: Internal_energy_a79947
+HEADWORD: Internal energy
+PERSON: no
+LINK TARGETS: Chemical bond | First law of thermodynamics | Heat | Joule
+ENTRY:
+Energy that defines the state of a thermodynamic system, excluding the kinetic energy of its overall motion and the effects of external fields. It is a state variable: it depends only on the internal state of the system, not on the process by which energy enters or leaves. The total internal energy cannot practically be measured, so thermodynamics concerns changes in it. These changes arise from energy transferred as [[Heat|heat]] or thermodynamic work, or from transfers of matter. Without a process, the internal energy of an isolated system does not change, a principle that underlies the [[First law of thermodynamics|first law of thermodynamics]], as formulated by Rudolf Clausius. In statistical mechanics it is analyzed through the kinetic energies of microscopic motion and the potential energies of microscopic forces, including [[Chemical bond|chemical bonds]]. The [[Joule|joule]] is the SI unit of energy.
+
+=== KEY: Internal_structure_of_Earth_8434ca
+HEADWORD: Internal structure of Earth
+PERSON: no
+LINK TARGETS: Basalt | Convection | Crust (geology) | Earth's magnetic field | Earth's mantle | Lithosphere
+ENTRY:
+Layered variation of chemical and physical properties within the solid Earth.
+
+Mechanically, it consists of a rigid lithosphere, a semi-fluid asthenosphere, a semi-fluid mesosphere, a liquid outer core, and a solid inner core. Chemically, it consists of a silicate crust, a ferromagnesian mantle, and an iron-nickel core whose flowing upper portion generates the [[Earth's magnetic field]]. Knowledge rests on topography, rock outcrops, samples brought up by volcanoes, seismic waves, gravitational and magnetic measurements, and high-pressure experiments; the layered model was deduced in the early 20th century chiefly from seismic waves. Earth's mass is about 6×10²⁴ kg and its average density 5.515 g/cm³.
+
+The [[Crust (geology)|crust]] ranges from 5 to 70 km thick. Oceanic crust, 5–10 km thick, is dense and mafic; continental crust is thicker, less dense, and felsic. The [[Lithosphere|lithosphere]] comprises the crust and uppermost mantle. At the Mohorovičić discontinuity, primary seismic waves speed up from 6.7–7.2 km/s, consistent with [[Basalt|basalt]], to 7.6–8.6 km/s. The oldest known mineral grains are about 4.4 billion years old.
+
+The [[Earth's mantle|mantle]] extends to a depth of 2,890 km, the thickest layer, at 83.7% of Earth's volume. A transition zone separates upper and lower mantle, and pressure at the base is about 140 GPa. Though solid, its hot silicate rock flows over long timescales, and [[Convection|convection]] drives the motion of tectonic plates. Viscosity rises with depth from 10²¹ to 10²⁴ pascal-second.
+
+The outer core, liquid iron and nickel alloy roughly 2,200–2,300 km thick, generates the magnetic field through convective motion. The solid inner core has a radius of about 1,220–1,250 km and temperatures up to 5,400°C.
+
+=== KEY: International_Atomic_Energy_Agency_ce7fd0
+HEADWORD: International Atomic Energy Agency
+PERSON: no
+LINK TARGETS: Dwight D. Eisenhower | Nuclear weapon | Soviet Union | United Nations | Vienna
+ENTRY:
+Intergovernmental organization that promotes the peaceful use of nuclear energy and inhibits its use for military purposes, including [[Nuclear weapon|nuclear weapons]]. It was established in 1957 as an autonomous organization within the [[United Nations|United Nations]] system and is headquartered at the UN Office at [[Vienna|Vienna]], Austria. It was created amid rising tensions between the United States and the [[Soviet Union|Soviet Union]], and U.S. president [[Dwight D. Eisenhower|Dwight D. Eisenhower]]'s "Atoms for Peace" speech is credited with catalyzing its formation. The agency verifies through safeguards that nuclear energy is not used for military purposes, promotes nuclear safety and security standards, and provides technical training, particularly in the developing world. Following ratification of the Treaty on the Non-Proliferation of Nuclear Weapons in 1968, non-nuclear powers were required to negotiate safeguards agreements with it. In 2005, the agency and its director general, Mohamed ElBaradei, were awarded the Nobel Peace Prize.
+
+=== KEY: International_Court_of_Justice_b3bd89
+HEADWORD: International Court of Justice
+PERSON: no
+LINK TARGETS: International law | League of Nations | The Hague | United Nations
+ENTRY:
+Principal judicial organ of the [[United Nations|United Nations]], seated at the Peace Palace in [[The Hague|The Hague]], Netherlands. Established in June 1945 by the UN Charter, it began work in April 1946 as the successor to the Permanent Court of International Justice, which the [[League of Nations|League of Nations]] had set up in 1920. It settles legal disputes submitted by states and gives advisory opinions on legal questions, and its rulings serve as primary sources of [[International law|international law]]. Its 15 judges are elected for nine-year terms, and no two may be nationals of the same country. Its judgments are binding and final, but the court has no formal enforcement mechanism, so enforcement is a political matter for the UN Security Council, where the five permanent members hold veto power.
+
+=== KEY: International_Covenant_on_Civil_and_Political_Rights_690d3c
+HEADWORD: International Covenant on Civil and Political Rights
+PERSON: no
+LINK TARGETS: China | Cuba | Freedom of religion | Freedom of speech | International Covenant on Economic, Social and Cultural Rights | Universal Declaration of Human Rights
+ENTRY:
+Multilateral treaty that commits nations to respect individuals' civil and political rights, including the right to life, [[Freedom of religion|freedom of religion]], [[Freedom of speech|freedom of speech]], freedom of assembly, electoral rights and the right to due process and a fair trial. The United Nations General Assembly adopted it on December 16, 1966, and it entered into force on March 23, 1976. It forms part of the International Bill of Human Rights, along with the [[Universal Declaration of Human Rights|Universal Declaration of Human Rights]] and the [[International Covenant on Economic, Social and Cultural Rights|International Covenant on Economic, Social and Cultural Rights]]. As of December 2025 the treaty had 175 parties, and six more signatories had not ratified it, including [[China|China]] and [[Cuba|Cuba]]. The Human Rights Committee reviews reports from states parties, which usually report every four years when the committee requests them.
+
+=== KEY: International_Covenant_on_Economic_Social_and_Cultural_Right_f61e72
+HEADWORD: International Covenant on Economic, Social and Cultural Rights
+PERSON: no
+LINK TARGETS: International Covenant on Civil and Political Rights | Self-determination | Trade union | Universal Declaration of Human Rights
+ENTRY:
+Multilateral treaty adopted by the United Nations General Assembly on December 16, 1966, committing its parties to work toward economic, social and cultural rights for all individuals. The rights include labor rights, the right to form and join [[Trade union|trade unions]], the right to health, the right to education and the right to an adequate standard of living. Its first article recognizes the right of all peoples to [[Self-determination|self-determination]]. Parties implement the rights progressively, and the rights may be limited only by law for the purpose of promoting the general welfare in a democratic society. The covenant entered into force on January 3, 1976. Four more signatories, including the United States, have not ratified it. It is part of the International Bill of Human Rights, together with the [[Universal Declaration of Human Rights|Universal Declaration of Human Rights]] and the [[International Covenant on Civil and Political Rights|International Covenant on Civil and Political Rights]].
+
+=== KEY: International_Criminal_Court_742b93
+HEADWORD: International Criminal Court
+PERSON: no
+LINK TARGETS: China | India | Russia | The Hague | United States
+ENTRY:
+Intergovernmental organization and international tribunal seated in [[The Hague|The Hague]], Netherlands. Established in 2002 under the Rome Statute, it is the first and only permanent international court with jurisdiction to prosecute individuals for genocide, crimes against humanity, war crimes and aggression. It acts only when national courts are unwilling or unable to prosecute. As of October 2024, 125 states were parties to the Rome Statute, while [[China|China]], [[India|India]], [[Russia|Russia]] and the [[United States|United States]] do not recognize its jurisdiction. Critics question its legitimacy, its reliance on state cooperation for arrests and the high cost of its proceedings.
+
+=== KEY: International_Date_Line_774ee7
+HEADWORD: International Date Line
+PERSON: no
+LINK TARGETS: Howland Island | Kiribati | Pacific Ocean
+ENTRY:
+Line that marks the boundary between one calendar day and the next, extending between the North and South Poles. It roughly follows the 180° meridian through the [[Pacific Ocean|Pacific Ocean]], deviating to pass around some territories and island groups. Crossing it eastbound decreases the date by one day, and crossing it westbound increases the date. The line is a cartographic convention that international law does not define, so countries through whose waters it passes have at times moved it for convenience. The line swings far east around [[Kiribati|Kiribati]], whose easternmost islands have the latest time on Earth, UTC+14:00. [[Howland Island|Howland Island]] and Baker Island, just north of the equator, have the earliest time, UTC−12:00.
+
+=== KEY: International_Monetary_Fund_7f6a3f
+HEADWORD: International Monetary Fund
+PERSON: no
+LINK TARGETS: John Maynard Keynes | Washington, D.C.
+ENTRY:
+International financial institution and specialized agency of the United Nations, headquartered in [[Washington, D.C.|Washington, D.C.]] It has 191 member countries and aims to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and reduce poverty. Established at the Bretton Woods Conference in July 1944, on ideas from Harry Dexter White and [[John Maynard Keynes|John Maynard Keynes]], it came into formal existence in 1945 with 29 member countries. The IMF acts as a lender of last resort to members experiencing balance-of-payments crises. A quota system determines both each member's contribution and its voting power. Loans often require borrowing countries to adopt policy reforms, known as structural adjustment. Critics argue that these conditions impose austerity that can harm the most vulnerable and limit economic sovereignty, and that Western countries dominate its governance.
+
+=== KEY: International_Phonetic_Alphabet_c88cc6
+HEADWORD: International Phonetic Alphabet
+PERSON: no
+LINK TARGETS: Latin script | Linguistics | Speech | Syllable
+ENTRY:
+Alphabetic system of phonetic notation, based primarily on the [[Latin script|Latin script]]. It was devised by the International Phonetic Association, which a group of French and English language teachers led by the French linguist Paul Passy formed in 1886 and which was known by that name from 1897. The alphabet is a standard written representation of [[Speech|speech]] sounds used by [[Linguistics|linguists]], lexicographers, language teachers, speech–language pathologists, singers and translators. It represents qualities of speech such as phones, intonation and the separation of [[Syllable|syllables]]. Segments are transcribed with letters and diacritics, and slashes signal phonemic transcription. Since its most recent addition in 2005, the alphabet has 107 segmental letters, augmented by tone letters and diacritics.
+
+=== KEY: International_Red_Cross_and_Red_Crescent_Movement_248ff6
+HEADWORD: International Red Cross and Red Crescent Movement
+PERSON: no
+LINK TARGETS: Geneva | Geneva Conventions | Henry Dunant | Napoleon III | World War I | World War II
+ENTRY:
+Humanitarian movement with approximately 17 million volunteers, members, and staff worldwide.
+
+It was founded to protect human life and health, ensure respect for all human beings, and prevent and alleviate suffering. Its seven fundamental principles are humanity, impartiality, neutrality, independence, voluntary service, unity, and universality. It comprises the International Committee of the Red Cross (ICRC), the International Federation of Red Cross and Red Crescent Societies (IFRC), and approximately 192 national societies. The ICRC supplies aid to war-affected areas and monitors compliance with the [[Geneva Conventions]]; the IFRC supports areas hit by famine, disease, and disasters and coordinates aid among national societies.
+
+In June 1859 the Swiss businessman [[Henry Dunant|Jean-Henri Dunant]] traveled to Italy to meet French emperor [[Napoleon III]]. He reached Solferino on June 24, after a battle in which about 40,000 soldiers died or were wounded in a single day, and spent several days caring for the wounded. Back in [[Geneva]], he published *A Memory of Solferino* in 1862, advocating national voluntary relief societies and an international treaty protecting medics and field hospitals.
+
+In 1863 Gustave Moynier brought the book to the Geneva Society for Public Welfare, which formed a commission of five that became the International Committee for Relief to the Wounded. A Geneva conference on October 26–29, 1863, attended by 36 individuals, proposed national relief societies, neutrality for wounded soldiers, and a white armlet bearing a red cross. On August 22, 1864, a diplomatic conference of sixteen countries adopted the First Geneva Convention. The ICRC documented over 12 million prisoner-of-war cases in [[World War I]]. Critics have charged that its neutrality, and its cautious reports on atrocities to preserve access, limited its response during [[World War II]].
+
+=== KEY: International_Space_Station_709979
+HEADWORD: International Space Station
+PERSON: no
+LINK TARGETS: Low Earth orbit | NASA | Roscosmos
+ENTRY:
+Modular space station in [[Low Earth orbit|low Earth orbit]], operated by five partner agencies: [[NASA|NASA]] of the United States, [[Roscosmos|Roscosmos]] of Russia, ESA, JAXA and CSA. It is the first space station built, maintained and crewed through international cooperation, and the largest human spacecraft ever constructed. It orbits between 51.64° north and south at about 400 km (250 miles) above Earth, circling roughly every 93 minutes. Its modules support scientific research in microgravity, crew habitation, storage and spacecraft control, and its eight docking ports serve visiting spacecraft. Continuous human occupancy began on November 2, 2000, the longest continuous human presence in space. As of August 2025, 290 individuals from 26 countries had visited it. Alongside China's Tiangong, it is one of two operational space stations.
+
+=== KEY: International_System_of_Units_78d662
+HEADWORD: International System of Units
+PERSON: no
+LINK TARGETS: Ampere | Candela | Kelvin | Kilogram | Metre | Mole (unit) | Second
+ENTRY:
+Modern form of the metric system and the world's most widely used system of measurement, abbreviated SI (from French *Système international d'unités*). It is the only system with official status in nearly every country and is used in science, technology, industry, and commerce. The International Bureau of Weights and Measures (BIPM) coordinates it.
+
+The SI comprises seven base units: the [[Second]] (s, time), [[Metre]] (m, length), [[Kilogram]] (kg, mass), [[Ampere]] (A, electric current), [[Kelvin]] (K, thermodynamic temperature), [[Mole (unit)|mole]] (mol, amount of substance), and [[Candela]] (cd, luminous intensity). Twenty-two coherent derived units, always expressible as products of powers of the base units, have special names and symbols, and 24 prefixes, such as kilo- for 10³ and nano- for 10⁻⁹, produce decimal multiples and sub-multiples.
+
+The base units are defined through seven defining constants with exact values: the speed of light, the hyperfine transition frequency of caesium, the Planck constant, the elementary charge, the Boltzmann constant, the Avogadro constant, and the luminous efficacy Kcd. The kilogram, for example, rests on the Planck constant h being 6.62607015×10⁻³⁴ J⋅s. A revision adopted by the 26th General Conference on Weights and Measures (CGPM) in 2018, effective May 20, 2019, redefined the kilogram, ampere, kelvin, and mole this way, completing a move away from physical artifacts, which can be lost, damaged, or changed.
+
+The system arose from the diversity of units in the centimeter–gram–second (CGS) systems and a lack of coordination among disciplines. The CGPM, established by the Metre Convention of 1875, set the definitions and rules. An initiative begun in 1948 led to publication of the system in 1960.
+
+=== KEY: International_law_374cfa
+HEADWORD: International law
+PERSON: no
+LINK TARGETS: Consent | Diplomacy | Geneva Conventions | Jeremy Bentham | Sovereign state | Treaty | War
+ENTRY:
+Set of rules, norms and standards governing relations among states and other international actors. Also called public international law or the law of nations, it operates largely through [[Consent|consent]], because no universally accepted authority enforces it against [[Sovereign state|sovereign states]]. Its sources are international custom (general state practice accepted as law), [[Treaty|treaties]], and general principles of law recognized by most national legal systems. Violations, particularly of peremptory norms, can draw disapproval or coercive responses, including [[Diplomacy|diplomacy]], economic sanctions and [[War|war]]. The term was coined by [[Jeremy Bentham]] in his 1789 book *Introduction to the Principles of Morals and Legislation*, replacing the older law of nations. Lassa Oppenheim defined it as "a law between sovereign and equal states based on the common consent of these states." Treaties such as the [[Geneva Conventions]] require national law to conform to treaty provisions.
+
+=== KEY: International_relations_b72c71
+HEADWORD: International relations
+PERSON: no
+LINK TARGETS: Cold War | Globalization | Political science | Soviet Union | United Kingdom | Western Europe
+ENTRY:
+Academic discipline that studies interactions among states and other international actors. Also called international studies or international politics, it is generally classified as a major multidiscipline of [[Political science|political science]] and draws heavily on anthropology, economics, geography, history, law, philosophy and sociology. The most prominent schools of thought within it are realism, liberalism and constructivism. Analysis of international politics dates to antiquity, but the field became a distinct area of study in 1919, when Aberystwyth University in the [[United Kingdom]] first offered it as an undergraduate major. Interest grew after the Second World War, particularly in North America and [[Western Europe]], where the [[Cold War]] shaped the field. The collapse of the [[Soviet Union]] and the rise of [[Globalization]] in the late 20th century prompted new theories and evaluations. Its broader scope includes war, diplomacy, trade, and relations with intergovernmental organizations and multinational corporations.
+
+=== KEY: International_trade_bc0d2d
+HEADWORD: International trade
+PERSON: no
+LINK TARGETS: Capital (economics) | Goods | Natural resource | Tourism | World Trade Organization
+ENTRY:
+Exchange of [[Capital (economics)|capital]], goods and services across international borders. Trade occurs because of demand for [[Goods|goods]] or services, and it links local, regional and national economies with the global economy. It moves commodities such as [[Natural resource|natural resources]] and manufactured goods, along with services such as banking, [[Tourism|tourism]], consulting and transportation. A product sold from one country to a party in another is an export from the first and an import to the second. Cross-border trade is typically more costly than domestic trade because of tariffs, non-tariff barriers such as border delays, and differences in language, product safety and legal systems. In 2024, global trade in goods and commercial services reached $32.2 trillion, a 4% expansion from the previous year. Post-World War II institutions, including the General Agreement on Tariffs and Trade and its successor, the [[World Trade Organization]] (1995), have significantly reduced average tariffs.
+
+=== KEY: Internet_Archive_b94841
+HEADWORD: Internet Archive
+PERSON: no
+LINK TARGETS: BitTorrent | Website
+ENTRY:
+American non-profit digital library founded in 1996 by Brewster Kahle. Through archive.org, it provides free access to digitized [[Website|websites]], software, music, audiovisual and print materials, and it advocates a free and open Internet with the mission of "universal access to all knowledge." Its Wayback Machine contains more than 1 trillion web captures, mostly gathered by automated crawlers. The Archive began adding [[BitTorrent]] to its download options in August 2012. In 2023 a federal court ruled that its National Emergency Library and controlled digital lending of scanned books violated publishers' rights; the decision was affirmed on appeal in 2024, and approximately 500,000 titles were removed.
+
+=== KEY: Internet_Explorer_ebe4f4
+HEADWORD: Internet Explorer
+PERSON: no
+LINK TARGETS: Firefox | Google Chrome | Microsoft | Web browser | Windows 10
+ENTRY:
+Retired series of graphical [[Web browser|web browsers]] developed by [[Microsoft]] for Windows. First released in 1995 as part of the Plus! add-on package for Windows 95, it was later bundled with Windows, and Microsoft spent over US$100 million per year on it in the late 1990s. Its usage share peaked at 95% by 2003, after bundling helped Microsoft win the first browser war against Netscape. Share declined with the launches of [[Firefox]] (2004) and [[Google Chrome]] (2008). Support ended on June 15, 2022, for [[Windows 10]] Semi-Annual Channel editions. Microsoft Edge succeeded it in 2015, and its core continues as IE Mode until at least 2029.
+
+=== KEY: Internet_Protocol_6e0543
+HEADWORD: Internet Protocol
+PERSON: no
+LINK TARGETS: IP address | IPv4 | IPv6 | Internet | Internet protocol suite
+ENTRY:
+Network-layer communications protocol in the [[Internet protocol suite]] for relaying datagrams across network boundaries. Its routing function enables internetworking and essentially establishes the [[Internet]]. IP delivers packets from source host to destination host based solely on the [[IP address|IP addresses]] in their headers. Vint Cerf and Bob Kahn introduced it in 1974 as the connectionless datagram service of the original Transmission Control Program. The first major version, [[IPv4]], is the dominant protocol of the Internet; its successor, [[IPv6]], has been increasingly deployed since around 2006.
+
+=== KEY: Internet_c8205c
+HEADWORD: Internet
+PERSON: no
+LINK TARGETS: ARPANET | Email | IP address | Internet protocol suite | United States Department of Defense | University of California, Los Angeles | World Wide Web
+ENTRY:
+Global system of interconnected computer networks using the [[Internet protocol suite]] (TCP/IP) to communicate between networks and devices. A network of networks, it links private, public, academic, business, and government networks by electronic, wireless, and optical technologies.
+
+The internet carries services such as the hypertext documents of the [[World Wide Web]], [[Email|electronic mail]], internet telephony, streaming media, and file sharing. It has transformed telephone, radio, television, paper mail, and newspapers, and has enabled instant messaging, social networking, and online shopping. The web is only one of many internet services. About 5.5 billion people, 68% of the world's population, used the internet by 2024, with use correlating strongly with economic development.
+
+Its origins lie in time-sharing of computer resources, packet switching, and computer networks. Paul Baran at RAND in the early 1960s and, independently, Donald Davies at the United Kingdom's National Physical Laboratory in 1965 pioneered packet switching. The [[ARPANET]], proposed by the Advanced Research Projects Agency of the [[United States Department of Defense]], first linked two nodes, at the [[University of California, Los Angeles]] and the Stanford Research Institute, on October 29, 1969. By the end of 1971, 15 sites were connected. Protocols for internetworking came from research commissioned in the 1970s by the Defense Advanced Research Projects Agency (DARPA) with universities and researchers in the United States, the United Kingdom, and France. The NSFNET backbone in the 1980s and privatization in the 1990s turned a research network into commercial infrastructure.
+
+The internet has no single centralized governance, and each constituent network sets its own policies. The Internet Corporation for Assigned Names and Numbers (ICANN) directs the [[IP address]] space and the Domain Name System, while the non-profit Internet Engineering Task Force standardizes the core protocols.
+
+=== KEY: Internet_meme_08a9ff
+HEADWORD: Internet meme
+PERSON: no
+LINK TARGETS: Copyright | Gangnam Style | Mitt Romney | Richard Dawkins | Social media | Usenet | YouTube
+ENTRY:
+Cultural item, such as an idea, behavior or style, that spreads across the internet, now mainly through [[Social media|social media]] platforms. The term "meme" was introduced by [[Richard Dawkins]] in his 1976 book *The Selfish Gene* for a conceptual unit of cultural transmission, analogous to a gene. Mike Godwin coined "internet meme" in 1993 for the way memes proliferated through early online communities, including message boards, [[Usenet]] groups and email. The emergence of social media platforms such as [[YouTube]] further diversified memes and accelerated their spread. Internet memes often represent fleeting trends, and their defining traits are creative reproduction, through mimicry or remix, and intertextuality. For example, the phrase "binders full of women" from the 2012 US presidential debate of US politician [[Mitt Romney]] was superimposed on a scene from the Korean pop song "[[Gangnam Style]]". Memes are also the subject of academic research and can raise [[Copyright|copyright]] disputes.
+
+=== KEY: Internet_of_things_c4c3e5
+HEADWORD: Internet of things
+PERSON: no
+LINK TARGETS: Internet | Machine learning | Sensor
+ENTRY:
+Network of physical objects embedded with [[Sensor|sensors]], processing ability and software that exchange data over the [[Internet]] or other networks. The field draws on embedded systems and [[Machine learning]], and smart home products are the most familiar applications, but the largest are in business and industrial sectors. Commercial asset tracking and fleet management account for 22% of the total market, and trailer and intermodal container tracking reached 5.8 million and 5.3 million active devices globally at the end of 2024. Because connected devices are vulnerable to security breaches and privacy concerns, industry and government have moved to develop standards and regulatory frameworks.
+
+=== KEY: Internet_pornography_e7f66c
+HEADWORD: Internet pornography
+PERSON: no
+LINK TARGETS: Internet | Monopoly | Pornhub | Website | World Wide Web
+ENTRY:
+Pornography accessible over the [[Internet]], mainly via [[Website|websites]], FTP connections, peer-to-peer file sharing and Usenet newsgroups. Growth accelerated with the [[World Wide Web]] from the late 1990s. Danni's Hard Drive, started in 1995 by Danni Ashe, is considered one of the earliest such sites. Estimates in 2020 put the number of pornography websites at nearly 30 million, about 12% of all websites. The four most accessed are [[Pornhub]], xHamster, XVideos and XNXX. As of 2025, the company Aylo owns and operates most of the popular streaming sites, including Pornhub and RedTube; some have alleged that it is a [[Monopoly|monopoly]].
+
+=== KEY: Internet_protocol_suite_2ee65d
+HEADWORD: Internet protocol suite
+PERSON: no
+LINK TARGETS: ARPANET | HTTP | Internet | Internet Protocol | Transmission Control Protocol | United States Department of Defense
+ENTRY:
+Framework organizing the communication protocols used in the [[Internet]] and similar computer networks. Commonly known as TCP/IP, the suite is built on the [[Transmission Control Protocol]] (TCP), the User Datagram Protocol (UDP) and the [[Internet Protocol]] (IP). Its four layers run from lowest to highest: the link layer, for data within a single network segment; the internet layer, for internetworking between independent networks; the transport layer, for host-to-host communication; and the application layer, for process-to-process exchange, which supports protocols such as [[HTTP]]. Its roots lie in research sponsored by the Defense Advanced Research Projects Agency (DARPA) of the [[United States Department of Defense]] in the late 1960s, which included the [[ARPANET]]. Early versions were called the Department of Defense Internet Architecture Model. The Internet Engineering Task Force maintains its standards, and the suite predates the OSI model.
+
+=== KEY: Internment_of_Japanese_Americans_bd936a
+HEADWORD: Internment of Japanese Americans
+PERSON: no
+LINK TARGETS: Attack on Pearl Harbor | Franklin D. Roosevelt | Jimmy Carter | Ronald Reagan | World War II
+ENTRY:
+Wartime policy under which the U.S. government forcibly relocated and incarcerated about 120,000 people of Japanese descent during [[World War II]]. Executive Order 9066, issued by President [[Franklin D. Roosevelt]] on February 19, 1942, followed the [[Attack on Pearl Harbor|attack on Pearl Harbor]]. In 1944 the Supreme Court upheld the exclusion orders in Korematsu v. United States on grounds of military necessity, a decision later repudiated. A commission appointed under President [[Jimmy Carter]] reported in 1983 that internment reflected racism rather than Japanese disloyalty. The Civil Liberties Act of 1988, signed by President [[Ronald Reagan]], officially apologized and authorized a payment of $20,000 to each surviving detainee.
+
+=== KEY: Interpersonal_relationship_cc4c54
+HEADWORD: Interpersonal relationship
+PERSON: no
+LINK TARGETS: Employment | Friendship | Kinship | Love | Marriage | Social group | Solidarity
+ENTRY:
+Social association, connection or affiliation between two or more people. Relations vary in intimacy, self-disclosure, duration, reciprocity and power distribution, and they form the basis of [[Social group|social groups]] and societies. Major themes include family, [[Kinship|kinship]], [[Friendship|friendship]], [[Love|love]], [[Marriage|marriage]], business, [[Employment|employment]], clubs, neighborhoods, ethical values, support and [[Solidarity|solidarity]]. Relations may be regulated by law, custom or mutual agreement. Friendships are non-sexual and non-romantic, whereas intimate relationships involve emotional or physical closeness, mutual influence and, for romantic ones, love. Analysis draws on anthropology, communication, economics, linguistics, political science, social work and sociology. In the 1990s the field took shape as relationship science, through the work of Ellen Berscheid and Elaine Hatfield.
+
+=== KEY: Interplanetary_medium_9b0d9d
+HEADWORD: Interplanetary medium
+PERSON: no
+LINK TARGETS: Cosmic ray | Heliosphere | Interstellar medium | Plasma (physics) | Solar System | Solar wind | Vacuum
+ENTRY:
+Mass and energy that fill the [[Solar System]], through which planets, asteroids and comets move. It ends at the [[Heliosphere|heliopause]], beyond which the [[Interstellar medium]] begins. Before 1950 it was widely considered either an empty [[Vacuum|vacuum]] or filled with "aether." It includes interplanetary dust and gas, [[Cosmic ray|cosmic rays]] and hot [[Plasma (physics)|plasma]] from the [[Solar wind|solar wind]], whose density falls in inverse proportion to the square of distance from the Sun. Near Earth the medium contains about 5 particles/cm³, though values as high as 100 particles/cm³ have been observed, compared with about 2.9 × 10¹⁹ particles per cm³ for air at sea level. Its plasma makes the Sun's magnetic field at Earth's orbit over 100 times greater than originally anticipated, at around 7 nT.

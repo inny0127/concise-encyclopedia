@@ -50,7 +50,10 @@ def main():
     for d in sys.argv[1:]:
         flags, n = [], 0
         for f in sorted((ROOT / d).glob("*.json")):
-            group = (ROOT / "data" / "ko" / f"{f.stem}.txt").read_text(encoding="utf-8")
+            gpath = ROOT / "data" / "ko" / "tr_in" / f"{f.stem}.txt"
+            if not gpath.exists():
+                gpath = ROOT / "data" / "ko" / f"{f.stem}.txt"
+            group = gpath.read_text(encoding="utf-8")
             want = re.findall(r"^=== KEY: (\S+)", group, re.M)
             got = json.loads(f.read_text(encoding="utf-8"))
             have = {e["key"] for e in got}

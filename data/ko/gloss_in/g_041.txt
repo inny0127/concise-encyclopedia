@@ -1,0 +1,747 @@
+=== KEY: Electrical_resistance_and_conductance_3293c9
+HEADWORD: Electrical resistance and conductance
+PERSON: no
+LINK TARGETS: Copper | Diode | Incandescent light bulb | Ohm | Ohm's law | Siemens (unit) | Transformer
+ENTRY:
+Measure of an object's opposition to electric current, and its reciprocal, conductance. Resistance R is the ratio of the voltage across an object to the current through it, and conductance G is the reciprocal, G = 1/R. The SI unit of resistance is the [[Ohm|ohm]] (Ω), and conductance is measured in [[Siemens (unit)|siemens]] (S). Resistance depends largely on material: insulators such as rubber have very high resistance, while metals such as [[Copper|copper]] have very low resistance. It also depends on shape, since a long, thin wire has higher resistance than a short, thick one. Superconductors have zero resistance. For ohmic materials, voltage and current are directly proportional, a relation known as [[Ohm's law]]. In devices such as a [[Diode|diode]], [[Transformer|transformer]] or [[Incandescent light bulb|incandescent light bulb]], they are not proportional, so the ratio V/I (chordal or static resistance) or the derivative dV/dI (differential resistance) may be more useful. In metals, resistance typically rises linearly with temperature; in semiconductors it often falls.
+
+=== KEY: Electrical_resistivity_and_conductivity_667d51
+HEADWORD: Electrical resistivity and conductivity
+PERSON: no
+LINK TARGETS: Copper | Electrical resistance and conductance
+ENTRY:
+Intrinsic properties of a material that measure its ability to resist or conduct electric current; each is the reciprocal of the other. Resistivity, commonly denoted ρ (rho), is measured in ohm-meters (Ω⋅m). Conductivity, commonly denoted σ (sigma), is measured in siemens per meter (S/m). Unlike [[Electrical resistance and conductance|resistance]], resistivity does not depend on an object's size or shape. [[Copper|Copper]] has a resistivity of about 1.68 × 10⁻⁸ Ω⋅m at 20 °C, while glass has a resistivity on the order of 10¹⁰ to 10¹⁴ Ω⋅m.
+
+=== KEY: Electrical_wiring_4f4da8
+HEADWORD: Electrical wiring
+PERSON: no
+LINK TARGETS: Switch
+ENTRY:
+Installation of cabling and associated devices, such as [[Switch|switches]], distribution boards, outlets and light fittings, in a building or other structure. Wire and cable types and sizes are specified by circuit voltage and current capacity, and by environmental conditions such as temperature, moisture, sunlight and chemicals. The International Electrotechnical Commission (IEC) sets international wire sizes in IEC 60228, while North America uses the American Wire Gauge. Common conductors are copper or aluminum. Non-metallic sheathed cable is widely used in homes, while armored cable and rigid metal conduit protect wiring in commercial and industrial settings. In the United States, installation is governed by the National Electrical Code (NFPA 70). Wiring codes, including wire colors, vary by country, and the IEC is working to harmonize them. Insulation prevents short circuits.
+
+=== KEY: Electricity_656e43
+HEADWORD: Electricity
+PERSON: no
+LINK TARGETS: Alessandro Volta | Benjamin Franklin | Electric charge | Electric current | Electromagnetism | Maxwell's equations | Michael Faraday | Nikola Tesla
+ENTRY:
+Set of physical phenomena associated with the presence and motion of matter possessing an electric charge. Electricity is related to magnetism, both being parts of [[Electromagnetism|electromagnetism]], as described by [[Maxwell's equations]]. Common phenomena include lightning, static electricity, electric heating, and electric discharges.
+
+A positive or negative [[Electric charge|electric charge]] produces an electric field. The motion of charge carriers is an [[Electric current|electric current]] and produces a magnetic field. In most applications, Coulomb's law determines the force on a charged particle. Electric potential is the work done to move a charge within an electric field, typically measured in volts. Electricity serves in electric power and in electronics, which deals with circuits involving active components such as vacuum tubes, transistors, diodes, and integrated circuits. It is integral to transport, heating and cooling, lighting, communications, and computation.
+
+People were aware of shocks from electric fish long before any knowledge of electricity. Ancient Egyptian texts dating from 2750 BC described them as the "protectors" of all other fish. Thales of Miletus made observations on static electricity around 600 BC, noting that rubbed amber attracts light objects. In 1600 the English scientist William Gilbert wrote *De Magnete*, distinguishing the lodestone effect from static electricity produced by rubbing amber, and coined the Neo-Latin word *electricus*, from the Greek *elektron*, "amber." The words "electric" and "electricity" first appeared in print in Thomas Browne's *Pseudodoxia Epidemica* of 1646.
+
+[[Benjamin Franklin]] conducted extensive research in the 18th century; in June 1752 he is reputed to have flown a kite in a storm-threatened sky, and sparks jumping from a metal key showed that lightning was electrical. In 1791 Luigi Galvani published his discovery that electricity was the medium by which neurons passed signals to muscles. [[Alessandro Volta]]'s voltaic pile of 1800 gave scientists a more reliable source of electrical energy than electrostatic machines. Hans Christian Ørsted and André-Marie Ampère recognized the unity of electric and magnetic phenomena in 1819–1820. [[Michael Faraday]] invented the electric motor in 1821, and Georg Ohm mathematically analyzed the electrical circuit in 1827. James Clerk Maxwell definitively linked electricity, magnetism, and light in 1861 and 1862.
+
+The late 19th century brought the greatest progress in electrical engineering, through figures including Alexander Graham Bell, Thomas Edison, [[Nikola Tesla]], and George Westinghouse. This expansion drove the Second Industrial Revolution. In 1905 Albert Einstein explained the photoelectric effect as light energy carried in discrete quantized packets. John Bardeen and Walter Houser Brattain invented the first working transistor, a germanium-based point-contact device, at Bell Labs in 1947.
+
+=== KEY: Electricity_generation_510c26
+HEADWORD: Electricity generation
+PERSON: no
+LINK TARGETS: Alternating current | Coal | Michael Faraday | Steam engine
+ENTRY:
+Process of generating electric power from primary energy sources, usually at a power station. Most electricity is produced by electromechanical generators driven by heat engines fueled by combustion or nuclear fission, or by the kinetic energy of flowing water and wind. The basic principles were discovered in the 1820s and early 1830s by [[Michael Faraday]], who showed that a loop of wire moving between the poles of a magnet generates electricity. Commercial production began when dynamos were coupled to hydraulic turbines, and central stations became practical with [[Alternating current|alternating current]] transmission. In 1882 a [[Steam engine|steam engine]] driving a dynamo at Pearl Street Station in New York began supplying direct current for public lighting. Global output exceeded 30,000 terawatt-hours in 2024, with fossil fuels such as [[Coal|coal]] and natural gas still comprising around 60% of generation. Low-carbon sources accounted for 80% of the 1,200 terawatt-hour growth in 2024.
+
+=== KEY: Electrocardiography_e46796
+HEADWORD: Electrocardiography
+PERSON: no
+LINK TARGETS: Arrhythmia | Atrial fibrillation | Heart | Myocardial infarction
+ENTRY:
+Recording of the [[Heart|heart]]'s electrical activity using electrodes placed on the skin, producing a graph of voltage over time called an electrocardiogram (ECG or EKG). Each heartbeat produces a P wave, representing atrial depolarization; a QRS complex, representing ventricular depolarization; and a T wave, representing ventricular repolarization. A conventional 12-lead ECG uses ten electrodes and records the heart's electrical potential from twelve angles, usually over ten seconds, with the patient lying down. Augustus Waller recorded the first human ECG in 1887, and Willem Einthoven introduced the modern ECG in 1902. The standardized 12-lead system was in use by 1954. An ECG can reveal [[Arrhythmia|arrhythmias]] such as [[Atrial fibrillation|atrial fibrillation]], [[Myocardial infarction|myocardial infarction]] and electrolyte disturbances, and it is used to monitor pacemaker function and assess risk before surgery.
+
+=== KEY: Electrochemistry_cf93d1
+HEADWORD: Electrochemistry
+PERSON: no
+LINK TARGETS: Alessandro Volta | Electric battery | Electrolysis | Luigi Galvani | Michael Faraday | Redox
+ENTRY:
+Branch of physical chemistry concerned with the relationship between electrical potential difference and chemical change. Electrochemical reactions involve electrons moving through an external circuit between electrodes separated by an ionically conducting electrolyte, rather than transferring directly between atoms or molecules. Electrolytic cells use external electrical energy to drive non-spontaneous reactions, as in [[Electrolysis|electrolysis]], while galvanic cells, such as [[Electric battery|batteries]], harness spontaneous [[Redox|redox]] reactions to generate electricity. The field began in the late 18th century with the work of [[Luigi Galvani]] on muscle contraction. [[Alessandro Volta]] developed the voltaic pile in 1800, the first device to produce a steady current from chemical reactions. [[Michael Faraday]] formulated the laws of electrolysis in the 1830s. Applications include rechargeable lithium-ion batteries, corrosion prevention, electroplating and fuel cells.
+
+=== KEY: Electrolysis_c26a21
+HEADWORD: Electrolysis
+PERSON: no
+LINK TARGETS: Alessandro Volta | Chlorine | Copper | Humphry Davy | Hydrogen | Michael Faraday | Oxygen | Sodium hydroxide
+ENTRY:
+Technique that uses direct electric current to drive a non-spontaneous chemical reaction, typically decomposing an electrolyte into simpler substances. The reaction takes place in an electrolytic cell, with oxidation at the anode and reduction at the cathode. Its discovery followed the invention of the voltaic pile by [[Alessandro Volta]] in 1800, when William Nicholson and Anthony Carlisle decomposed water into [[Hydrogen|hydrogen]] and [[Oxygen|oxygen]] gases. [[Michael Faraday]] introduced the term in 1834 and formulated the quantitative laws of electrolysis in 1833. [[Humphry Davy]] isolated several alkali and alkaline earth metals by electrolyzing molten salts. Industrial uses include the chlor-alkali process, which produces [[Chlorine|chlorine]] and [[Sodium hydroxide|sodium hydroxide]]; the Hall-Héroult process for aluminum extraction from bauxite; and electrorefining of [[Copper|copper]]. Water electrolysis is increasingly used to produce hydrogen for steelmaking and transportation, though cost-effective efficiency at scale remains a challenge.
+
+=== KEY: Electromagnet_0c1692
+HEADWORD: Electromagnet
+PERSON: no
+LINK TARGETS: Copper | Electric motor | Hans Christian Ørsted | Iron | Loudspeaker | Magnet | Relay
+ENTRY:
+Magnet in which the magnetic field is produced by an electric current, usually flowing through a coil of [[Copper|copper]] wire. The coil is often wound around a ferromagnetic core such as [[Iron|iron]], which concentrates the magnetic flux and strengthens the field by a factor equal to the core's relative permeability, often 200–5,000 for soft iron. Unlike a [[Magnet|permanent magnet]], an electromagnet's field can be changed quickly by adjusting the current and switched off entirely, but it requires a continuous current to maintain it. [[Hans Christian Ørsted]] showed in 1820 that electric currents produce magnetic fields. In the early 1830s Joseph Henry built practical electromagnets with insulated wire that allowed multiple coil layers around an iron core; one design lifted over 2,000 pounds. Electromagnets are used in [[Electric motor|motors]], [[Relay|relays]], [[Loudspeaker|loudspeakers]] and MRI machines, and in industry to lift scrap iron.
+
+=== KEY: Electromagnetic_field_958ded
+HEADWORD: Electromagnetic field
+PERSON: no
+LINK TARGETS: Electromagnetic radiation | James Clerk Maxwell | Lorentz force | Maxwell's equations | Photoelectric effect | Quantum electrodynamics
+ENTRY:
+Physical field, varying in space and time, made up of electric and magnetic fields produced by, and acting on, electric charges. A disturbance in one field can create a disturbance in the other, producing an oscillation that propagates through space as an [[Electromagnetic radiation|electromagnetic wave]]. [[Maxwell's equations]] describe how charges and currents produce the fields, and the [[Lorentz force]] gives the force on a moving charge. Classical electrodynamics describes the field and many macroscopic phenomena, but it cannot explain the [[Photoelectric effect|photoelectric effect]]. Explaining such atomic-scale effects required quantization of the field and [[Quantum electrodynamics|quantum electrodynamics]]. [[James Clerk Maxwell]] unified the theory in 1865, showing that electromagnetic waves travel at the speed of light.
+
+=== KEY: Electromagnetic_induction_6966c8
+HEADWORD: Electromagnetic induction
+PERSON: no
+LINK TARGETS: Electric generator | Electric motor | Faraday's law of induction | Inductor | James Clerk Maxwell | Michael Faraday | Transformer
+ENTRY:
+Production of an electromotive force (emf) across an electrical conductor in a changing magnetic field, which can drive an electric current in a closed circuit. [[Michael Faraday]] demonstrated it in 1831 at the Royal Institution in London, first by winding a copper coil on an iron ring, and then by rotating a copper disc between the poles of a horseshoe magnet, the precursor of the [[Electric generator|electric generator]]. Joseph Henry discovered similar effects around 1832. [[James Clerk Maxwell]] described the process mathematically as [[Faraday's law of induction|Faraday's law]], and Lenz's law gives the direction of the induced field. The effect underlies [[Inductor|inductors]], [[Transformer|transformers]], [[Electric motor|motors]] and generators.
+
+=== KEY: Electromagnetic_radiation_76dfda
+HEADWORD: Electromagnetic radiation
+PERSON: no
+LINK TARGETS: Maxwell's equations | Wave–particle duality
+ENTRY:
+Self-propagating wave of the electromagnetic field that carries momentum and radiant energy through space. It is classified by frequency, which is inversely proportional to wavelength, in a spectrum running from radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, to gamma rays. All forms travel at the speed of light in a vacuum and exhibit [[Wave–particle duality|wave–particle duality]], behaving both as waves and as discrete particles called photons.
+
+The radiation is produced by accelerating charged particles and may be emitted naturally, as by the Sun, or generated artificially. Its energy needs no propagating medium. Its interaction with matter depends on wavelength, which shapes its uses. Radio waves enable broadcasting and wireless communication, infrared is used in thermal imaging, and visible light is essential for vision. X-rays and gamma rays are applied in medical imaging, cancer treatment, and industrial inspection, and radiation in the ultraviolet and above has been associated with negative health effects.
+
+Electric and magnetic fields obey superposition, so light waves can interfere constructively or destructively. In homogeneous, isotropic media the radiation is a transverse wave: the electric and magnetic fields are perpendicular to each other and to the direction of travel, as [[Maxwell's equations]] require. The waves can be polarized, reflected, refracted, or diffracted. Composite light disperses into a visible spectrum when passing through a prism, because the refractive index depends on wavelength.
+
+In quantum mechanics, the radiation consists of photons, uncharged elementary particles with zero rest mass that are the quanta of the electromagnetic field. Wave characteristics are more apparent over large timescales and distances, particle characteristics over small ones; the self-interference of a single photon displays both. Quantum electrodynamics is the theory of how the radiation interacts with matter on an atomic level; further sources include electron transitions to lower energy levels and black-body radiation.
+
+=== KEY: Electromagnetic_spectrum_062afd
+HEADWORD: Electromagnetic spectrum
+PERSON: no
+LINK TARGETS: Gamma ray | Infrared | Light | Microwave | Radio wave | Ultraviolet | X-ray
+ENTRY:
+Full range of electromagnetic radiation, organized by frequency or wavelength. From low to high frequency, the bands are [[Radio wave|radio waves]], [[Microwave|microwaves]], [[Infrared|infrared]], [[Light|visible light]], [[Ultraviolet|ultraviolet]], [[X-ray|X-rays]] and [[Gamma ray|gamma rays]]. Radio waves have the longest wavelengths, thousands of kilometers or more, and are used for communication and broadcasting. Microwaves penetrate clouds and are used in radar and satellite transmissions. Infrared radiation is associated with thermal emission and is detected as heat. Gamma rays, X-rays and extreme ultraviolet are ionizing, because their photons can ionize atoms, whereas visible light is non-ionizing. All electromagnetic waves travel at the speed of light in a vacuum. Spectroscopy, which measures intensity as a function of frequency, is used to study the interaction of electromagnetic waves with matter.
+
+=== KEY: Electromagnetism_5290ab
+HEADWORD: Electromagnetism
+PERSON: no
+LINK TARGETS: Electric charge | Electricity | Electromagnetic radiation | Maxwell's equations
+ENTRY:
+Interaction between particles with [[Electric charge|electric charge]], mediated by electromagnetic fields. The electromagnetic force is one of the four fundamental forces of nature and the dominant force in the interactions of atoms and molecules. It relates [[Electricity|electricity]], magnetism, and optics, studied in the subdisciplines of electrostatics, magnetostatics, and electrodynamics. It is the second strongest of the four known fundamental forces and has unlimited range; at high energy it unifies with the weak force as the electroweak interaction.
+
+The electrostatic attraction between atomic nuclei and their electrons holds atoms together, and electric forces allow atoms to combine into molecules. The force underlies electrical energy production and distribution, fiber optic and wireless communication, sensors, computation, electrolysis, electroplating, and mechanical motors and actuators.
+
+It has been studied since ancient times to explain lightning, static electricity, and the attraction between magnetized pieces of iron ore and compasses. In the 18th and 19th centuries scientists developed mathematical relationships between these phenomena and electric charges and currents, and showed that they could create self-sustaining electromagnetic waves, which form visible light and other [[Electromagnetic radiation|electromagnetic radiation]].
+
+Mathematically, the phenomenon is described by electromagnetic fields. A disturbance in the electric field can create one in the magnetic field, which in turn affects the electric field, producing an oscillation that propagates through space as an electromagnetic wave. [[Maxwell's equations]] encapsulate these relations.
+
+The requirement that observations stay consistent across moving frames of reference, and the fixing of the speed of light by the permeability and permittivity of the medium, helped inspire Einstein's theory of special relativity in 1905. Quantum electrodynamics modifies Maxwell's equations to be consistent with the quantized nature of matter, expressing changes in the field as discrete excitations called photons.
+
+=== KEY: Electromotive_force_473be5
+HEADWORD: Electromotive force
+PERSON: no
+LINK TARGETS: Electromagnetic induction | Solar cell | Volt
+ENTRY:
+Energy transferred to an electric circuit per unit of electric charge, measured in [[Volt|volts]] and denoted ℰ. Devices that convert other forms of energy into electrical energy produce an emf, including batteries, which convert chemical energy, generators, which convert mechanical energy, and [[Solar cell|solar cells]]. Despite the name, emf is not a physical force, and ISO/IEC standards have deprecated the term in favor of source voltage. The emf of a two-terminal device can be measured as its open-circuit voltage. Real sources have internal resistance, so their terminal voltage falls below the ideal emf as current flows. In [[Electromagnetic induction|electromagnetic induction]], the emf around a closed loop is the work done on a unit charge traveling once around the loop.
+
+=== KEY: Electron_0df2da
+HEADWORD: Electron
+PERSON: no
+LINK TARGETS: Pauli exclusion principle | Positron | Robert Millikan | Subatomic particle
+ENTRY:
+[[Subatomic particle]] whose electric charge is negative one elementary charge. It is an elementary particle contained in the matter that makes up the universe. Its charge is −1.602 × 10⁻¹⁹ coulombs and its rest mass approximately 9.109 × 10⁻³¹ kg, about 1/1836 that of a proton. In atoms, an electron's matter wave occupies orbitals around the positively charged nucleus, and the configuration of an atom's electrons determines its chemical properties. The outermost, or valence, electrons are the least tightly bound and form chemical bonds between atoms.
+
+Electrons belong to the first generation of the lepton family, elementary particles that do not interact with the strong nuclear force, and have no known substructure. Their intrinsic angular momentum (spin) is ħ/2. As fermions, no two electrons can occupy the same quantum state, according to the [[Pauli exclusion principle]]. They show properties of both particles and waves, and can be diffracted like light. Their antiparticle, the [[Positron|positron]], is identical except for opposite charge; when the two collide they can annihilate, producing gamma ray photons.
+
+In metals the outermost electrons are delocalized and move freely, accounting for high electrical and thermal conductivity. In semiconductors the number of mobile charge carriers, electrons and holes, can be tuned by doping, temperature, voltage, and radiation, the basis of modern electronics. Free electron beams in a vacuum are used in cathode ray tubes, electron microscopes, electron beam welding, lithography, and particle accelerators.
+
+The ancient Greeks noticed that amber attracted small objects when rubbed with fur. In 1600 William Gilbert coined the Neo-Latin term *electrica* for such substances, from the Greek *ēlektron*, "amber." The British physicist J. J. Thomson discovered the electron in 1897 through experiments with cathode rays, showing that they consist of negatively charged particles much smaller than atoms. [[Robert Millikan]] measured its charge in 1909.
+
+=== KEY: Electron_configuration_d9e95a
+HEADWORD: Electron configuration
+PERSON: no
+LINK TARGETS: Chemical bond | Pauli exclusion principle | Periodic table
+ENTRY:
+Distribution of electrons among the atomic or molecular orbitals of an atom or molecule. For example, the configuration of neon is 1s² 2s² 2p⁶, meaning that the 1s, 2s and 2p subshells hold two, two and six electrons. Each electron is described by four quantum numbers, and the [[Pauli exclusion principle]] states that no two electrons can share the same set of four. The Aufbau principle dictates that electrons fill orbitals from the lowest energy level upward, producing the ground state, the lowest-energy configuration. An electron can move to a different configuration by emitting or absorbing a photon. Electron configuration explains the structure of the [[Periodic table|periodic table]], the nature of [[Chemical bond|chemical bonds]] and molecular geometry, and the behavior of lasers and semiconductors.
+
+=== KEY: Electron_microscope_803de8
+HEADWORD: Electron microscope
+PERSON: no
+LINK TARGETS: Electron | Vacuum
+ENTRY:
+Microscope that uses a beam of accelerated [[Electron|electrons]], rather than light, to produce magnified images of specimens. Electron optics, using electromagnetic lenses, focus the beam. Because the wavelength of an electron can be more than 100,000 times smaller than that of visible light, electron microscopes resolve detail to about 0.1 nm, compared with about 200 nm for light microscopes. In a transmission electron microscope (TEM), electrons pass through a specimen less than 0.5 μm thick, revealing internal atomic structure at magnifications exceeding 1 million times. A scanning electron microscope (SEM) scans a focused beam over a surface and detects secondary or backscattered electrons, producing three-dimensional images at resolutions around 1 nm. The instrument operates in a [[Vacuum|vacuum]], with electrons generated by a tungsten filament and accelerated at 20 to 120 kV.
+
+=== KEY: Electron_shell_bdd743
+HEADWORD: Electron shell
+PERSON: no
+LINK TARGETS: Bohr model | Periodic table
+ENTRY:
+Group of atomic orbitals that share the same principal quantum number, n, and therefore the same energy level and average distance from the nucleus. Shells are labeled 1, 2, 3 and so on, or K, L, M in X-ray notation, starting from the innermost. A shell can hold up to 2n² electrons: two in the first shell, eight in the second and 18 in the third. Each shell consists of one or more subshells, and each subshell consists of one or more atomic orbitals. The concept originated in the [[Bohr model]] of the atom, which is now understood through quantum mechanics as discrete energy states rather than fixed circular orbits. Each period of the conventional [[Periodic table|periodic table]] represents an electron shell.
+
+=== KEY: Electronegativity_fed0d7
+HEADWORD: Electronegativity
+PERSON: no
+LINK TARGETS: Caesium | Fluorine | Jöns Jacob Berzelius | Linus Pauling
+ENTRY:
+Tendency of an atom to attract the shared electrons of a chemical bond, symbolized χ. It depends on nuclear charge and on the distance of the valence electrons from the nucleus. The term was introduced by [[Jöns Jacob Berzelius]] in 1811. [[Linus Pauling]] proposed the Pauling scale in 1932, running from 0.79 for [[Caesium|caesium]] to 3.98 for [[Fluorine|fluorine]], with hydrogen at 2.20. The difference in electronegativity between bonded atoms indicates bond polarity, from nonpolar covalent to ionic.
+
+=== KEY: Electronic_Arts_e853db
+HEADWORD: Electronic Arts
+PERSON: no
+LINK TARGETS: Apple Inc. | Need for Speed
+ENTRY:
+American video game developer and publisher headquartered in Redwood City, California. Founded in May 1982 by former [[Apple Inc.|Apple]] employee Trip Hawkins, it initially published games by independent developers before building in-house studios, often through acquisitions. Its franchises include The Sims, Battlefield, Madden NFL, EA Sports FC (formerly FIFA), Mass Effect and [[Need for Speed|Need for Speed]]. Since 2022 its desktop titles have also been sold on the EA App. In 2025 EA announced a buyout by Saudi Arabia's Public Investment Fund, Silver Lake and Affinity Partners valued at $55 billion, completed on August 4, 2026.
+
+=== KEY: Electronic_cigarette_80d19e
+HEADWORD: Electronic cigarette
+PERSON: no
+LINK TARGETS: Aerosol | Asthma | Nicotine | Smoking cessation
+ENTRY:
+Battery-powered device that heats a nicotine solution, called e-liquid, into an [[Aerosol|aerosol]] for inhalation, simulating tobacco smoking; also called an e-cigarette or vape. Its vapor mainly comprises propylene glycol or glycerin, usually with [[Nicotine|nicotine]] and flavorings. Invented in 2003 by Chinese pharmacist Hon Lik, who sought an alternative to combustible tobacco. Vaping is less harmful than smoking but still carries health risks, particularly for people with [[Asthma|asthma]]. Nicotine e-cigarettes have been found more effective than nicotine replacement therapy for [[Smoking cessation|smoking cessation]], though they have not been tested as rigorously.
+
+=== KEY: Electronic_dance_music_984950
+HEADWORD: Electronic dance music
+PERSON: no
+LINK TARGETS: Disco | Europe | Japan | Kraftwerk | United States
+ENTRY:
+Broad category of percussive electronic music genres, also called dance music or club music, made to be played by DJs and performed live in clubs, raves and festivals. Emerging in the late 1970s and early 1980s from post-[[Disco|disco]] scenes in Chicago and Detroit, it drew on the synthesized sound of [[Kraftwerk|Kraftwerk]] and the Roland TR-808 drum machine, released in 1980. Tracks typically run at 120 to 160 beats per minute in 4/4 time, emphasizing build-ups, drops and bass. Rave culture brought EDM to mainstream popularity in [[Europe|Europe]] and [[Japan|Japan]] in the late 1980s and early 1990s, but it was less popular in the [[United States|United States]]. In the early 2010s the American music industry promoted the term EDM, which now serves as an umbrella for genres such as house, techno, trance and electro, all of which predate it.
+
+=== KEY: Electronic_music_83a941
+HEADWORD: Electronic music
+PERSON: no
+LINK TARGETS: Disco | Electronic dance music | Hip-hop | Karlheinz Stockhausen | Personal computer | Synthesizer
+ENTRY:
+Group of music genres that employ electronic musical instruments, circuitry-based music technology or general-purpose electronics such as [[Personal computer|personal computers]] in their creation. The first electronic musical devices were developed at the end of the 19th century. *Musique concrète*, based on editing recorded natural and industrial sounds, was created in Paris in 1948, and music produced solely from electronic generators was first produced in Germany in 1953 by [[Karlheinz Stockhausen]]. In the early 1970s Moog [[Synthesizer|synthesizers]] and drum machines helped popularize the form, which influenced [[Disco|disco]], [[Hip-hop|hip-hop]] and [[Electronic dance music|electronic dance music]]. Mass-produced digital synthesizers such as the Yamaha DX7 became popular in the early 1980s, alongside the development of MIDI. The Love Parade in Berlin, starting in 1989, became the largest street party, with over 1 million visitors.
+
+=== KEY: Electronic_musical_instrument_ff4b4f
+HEADWORD: Electronic musical instrument
+PERSON: no
+LINK TARGETS: Loudspeaker | Piano
+ENTRY:
+Instrument that produces sound using electronic circuitry, outputting an electrical or digital audio signal that is amplified to drive a [[Loudspeaker|loudspeaker]]. Electronic keyboards resemble an acoustic [[Piano|piano]] in layout, but the keys are linked to a synthesizer or other sound generator rather than to mechanical hammers. Increasingly, the user interface is separated from the sound generator, with the two communicating through protocols such as MIDI or Open Sound Control. The telharmonium, patented by Thaddeus Cahill in 1897, was an early large-scale electrically generated instrument. Léon Theremin's theremin, introduced in 1920, was the first instrument played without physical contact. Electronic instruments are now used in most styles of music; in electronic dance music, almost all instrument sounds are electronic.
+
+=== KEY: Electronics_ee3c6e
+HEADWORD: Electronics
+PERSON: no
+LINK TARGETS: Electrical engineering | Integrated circuit | Jack Kilby | John Bardeen | Lee de Forest | Transistor
+ENTRY:
+Scientific and engineering discipline that applies the principles of physics to design, create, and operate devices that manipulate electrons and other electrically charged particles. A subfield of physics and [[Electrical engineering|electrical engineering]], it uses active devices such as [[Transistor|transistors]], diodes, and [[Integrated circuit|integrated circuits]] to control and amplify electric current and to convert it from one form to another, such as alternating to direct current or analog to digital signals. The semiconductor industry is the main driving force behind its advance and had annual revenues exceeding $481 billion in 2018.
+
+Karl Ferdinand Braun's crystal detector in 1874, the first semiconductor device, and the identification of the electron in 1897 by Joseph John Thomson, followed by the vacuum tube, inaugurated the field. Ambrose Fleming's diode and [[Lee de Forest]]'s triode of the early 1900s made small voltages, such as radio signals, detectable. Vacuum tubes, the first active components, enabled radio, television, radar, and long-distance telephony. [[John Bardeen]] and Walter Houser Brattain invented the first working point-contact transistor at Bell Labs in 1947. Vacuum tubes remained important in microwave and high-power transmission and television receivers until the middle of the 1980s.
+
+In April 1955 the IBM 608, with more than 3,000 germanium transistors, became the first all-transistorized calculator made for the commercial market. The MOSFET, invented at Bell Labs between 1955 and 1960, was the first truly compact transistor that could be miniaturized and mass-produced. The integrated circuit of [[Jack Kilby]] and Robert Noyce placed all components on one block of semiconductor material, leading to small-scale integration in the early 1960s. In 2008 billion-transistor processors became commercially available.
+
+Components are active, such as transistors and thyristors, or passive: capacitors, inductors, and resistors. Circuits are analog, using a continuous range of voltage or current, or digital, using discrete levels.
+
+=== KEY: Electronvolt_f152f2
+HEADWORD: Electronvolt
+PERSON: no
+LINK TARGETS: Electron | Joule | Particle accelerator | Volt
+ENTRY:
+Unit of energy equal to the kinetic energy gained by a single [[Electron|electron]] accelerating through a potential difference of one [[Volt|volt]] in a vacuum, symbol eV. It equals exactly 1.602176634 × 10⁻¹⁹ [[Joule|joules]]. The unit suits energies in particle physics, quantum mechanics and spectroscopy, where joules would be impractically small. Multiples include keV (10³ eV), MeV (10⁶ eV), GeV (10⁹ eV) and TeV (10¹² eV), the last relevant to high-energy [[Particle accelerator|particle accelerators]]. The unit also describes photon energies and binding energies in atoms and molecules. It was devised for electrostatic accelerator science, because a particle with charge q gains energy E = qV after passing through a voltage V.
+
+=== KEY: Electrostatics_380ded
+HEADWORD: Electrostatics
+PERSON: no
+LINK TARGETS: Amber | Classical antiquity | Coulomb's law | Electric charge | Photocopier | Static electricity
+ENTRY:
+Branch of physics that studies stationary [[Electric charge|electric charges]] and the electric fields they produce, in cases where quantum and magnetic effects can be neglected. Since [[Classical antiquity]] it has been known that rubbed [[Amber|amber]] attracts light particles, the observation behind the word electricity, from the Greek for amber. [[Coulomb's law]] gives the force between two point charges as proportional to the product of their charges and inversely proportional to the square of the distance between them. Electric charge is quantized in units of the elementary charge, about 1.602 × 10⁻¹⁹ coulombs, and the total charge of an isolated system is conserved. Gauss's law relates the electric flux through a closed surface to the enclosed charge, which simplifies calculations for symmetric charge distributions. Familiar effects include [[Static electricity|static electricity]] and the operation of [[Photocopier|photocopiers]].
+
+=== KEY: Electrum_e039ab
+HEADWORD: Electrum
+PERSON: no
+LINK TARGETS: Ancient Egypt | Copper | Lydia
+ENTRY:
+Naturally occurring alloy of gold and silver, with trace amounts of [[Copper|copper]] and other metals, often containing 20% to 75% gold by weight. Its color ranges from pale to bright yellow, and it is sometimes called green gold, though it is more yellow than green. [[Ancient Egypt|Egypt]] used electrum as early as the third millennium BC, sometimes as a coating for the tips of pyramids and obelisks. The first known metal coins were made of electrum, around the end of the 7th century or the beginning of the 6th century BC, in the [[Lydia|Lydian]] kingdom.
+
+=== KEY: Elementary_algebra_a988b1
+HEADWORD: Elementary algebra
+PERSON: no
+LINK TARGETS: Abstract algebra | Arithmetic | Linear equation | Polynomial | Quadratic equation
+ENTRY:
+Branch of mathematics that generalizes [[Arithmetic|arithmetic]] by using letters, called variables, to stand for numbers. Arithmetic operates only on specified numbers, whereas elementary algebra applies operations to numbers, variables and terms. By convention, multiplication signs are omitted (3 × x² is written 3x²), and terms with the highest power come first. Variables allow general relationships to be stated concisely and unknown quantities to be solved for; many relationships in science and mathematics are expressed as algebraic equations. Elementary algebra is typically taught in secondary school and introductory college courses in the United States. Unlike [[Abstract algebra|abstract algebra]], it is concerned only with real and complex numbers. Core topics include [[Linear equation|linear equations]], [[Polynomial|polynomials]] and [[Quadratic equation|quadratic equations]].
+
+=== KEY: Elementary_charge_8a761a
+HEADWORD: Elementary charge
+PERSON: no
+LINK TARGETS: International System of Units | Oil drop experiment | Quark
+ENTRY:
+Fundamental physical constant equal to the magnitude of the electric charge on an electron. Its value is defined as exactly 1.602176634×10⁻¹⁹ C, and it is one of the seven defining constants of the [[International System of Units|International System of Units (SI)]]. Before the 2019 revision of the SI it was determined experimentally. Robert A. Millikan and Harvey Fletcher's [[Oil drop experiment|oil drop experiment]] first measured it directly, in 1909, within 0.6% of the modern value. All known elementary particles carry charges that are integer multiples of the charge on the [[Quark|down quark]], which is one-third of the elementary charge; down quarks cannot be isolated.
+
+=== KEY: Elementary_particle_1a85fa
+HEADWORD: Elementary particle
+PERSON: no
+LINK TARGETS: Boson | Electron | Fermion | Gravity | Lepton | Standard Model
+ENTRY:
+Subatomic particle that is not composed of other particles. The [[Standard Model|Standard Model]] of particle physics recognizes 17 distinct elementary particles: 12 [[Fermion|fermions]] and five [[Boson|bosons]]. Counting flavor, color and antimatter variants, there are 61. Fermions, which include [[Lepton|leptons]] such as the [[Electron|electron]] and the quarks that make up protons and neutrons, have half-integer spin. Bosons, which carry forces, have integer spin. The Standard Model omits [[Gravity|gravity]], and some of its parameters are unexplained.
+
+=== KEY: Elephant_bird_d1e7c2
+HEADWORD: Elephant bird
+PERSON: no
+LINK TARGETS: Gondwana | Herbivore | Kiwi (bird) | Madagascar | New Zealand
+ENTRY:
+Extinct flightless bird of the order Aepyornithiformes, native to [[Madagascar|Madagascar]]. Elephant birds were [[Herbivore|herbivores]] and major components of the island's ecosystems before humans arrived. *Aepyornis maximus* was possibly the largest bird to have lived, and its eggs were the largest known from any amniote. The birds probably died out around 1000 AD, likely because of human activity. Their closest living relatives are the [[Kiwi (bird)|kiwi]] of [[New Zealand|New Zealand]], which suggests that flightlessness in these ratites evolved independently rather than through the breakup of [[Gondwana|Gondwana]].
+
+=== KEY: Elephant_f6cf83
+HEADWORD: Elephant
+PERSON: no
+LINK TARGETS: African bush elephant | Asian elephant | Ivory | Mammoth | Mastodon | Proboscidea | Savanna
+ENTRY:
+Largest living land animal, a herbivorous mammal of the family Elephantidae. Three species are recognized: the [[African bush elephant|African bush elephant]], the African forest elephant and the [[Asian elephant|Asian elephant]]. They are the only surviving members of the order [[Proboscidea|Proboscidea]], whose extinct relatives include [[Mammoth|mammoths]] and [[Mastodon|mastodons]]. Features include a prehensile trunk, tusks derived from incisor teeth, and large ears that help regulate body temperature. Elephants live in sub-Saharan Africa and South and Southeast Asia, in habitats from [[Savanna|savannas]] to forests and marshes, and as keystone species they shape their environments. Females live in family groups led by a matriarch, while males leave at puberty. Elephants can live up to 70 years in the wild. The African bush and Asian elephants are listed as endangered and the African forest elephant as critically endangered, with the [[Ivory|ivory]] trade among the biggest threats.
+
+=== KEY: Elevation_10e773
+HEADWORD: Elevation
+PERSON: no
+LINK TARGETS: Geographic information system | Geoid | Mount Everest
+ENTRY:
+Height of a geographic location above or below a fixed reference point, most commonly a reference [[Geoid|geoid]], a model of mean sea level. The term is used for points on the Earth's surface, while altitude describes points above it, such as aircraft, and depth describes points below it. Elevation differs from distance from the Earth's center: because of the equatorial bulge, [[Mount Everest|Mount Everest]] has the largest elevation, while Chimborazo has the largest distance from the center. Topographic maps show elevation with contour lines. In [[Geographic information system|geographic information systems]], digital elevation models represent terrain as grids of elevation values.
+
+=== KEY: Elevator_963695
+HEADWORD: Elevator
+PERSON: no
+LINK TARGETS: Colosseum | Skyscraper
+ENTRY:
+Machine that transports people or freight vertically between levels. Most elevators are powered by electric motors that drive traction cables and counterweights, though some use hydraulic fluid to raise a piston. Early devices were hoists worked by people, animals or water power; the Roman [[Colosseum|Colosseum]] had roughly 25 elevators for raising animals to the arena floor. A screw-drive elevator built by Ivan Kulibin was installed in the Winter Palace in 1793, a step that led toward modern passenger elevators. In 1857 the first commercial passenger elevator, equipped with Elisha Graves Otis's safety brake, was installed in a New York City department store. Elevators make [[Skyscraper|skyscrapers]] practical, and high-speed models are common in tall buildings.
+
+=== KEY: Elia_Kazan_c3777a
+HEADWORD: Kazan, Elia
+PERSON: yes
+LINK TARGETS: Academy Awards | Antisemitism | Gregory Peck | Marlon Brando
+ENTRY:
+Greek-American film and theater director, producer and screenwriter. Born in Constantinople to Cappadocian Greek parents, he moved to the United States as a child. In 1947 he co-founded the Actors Studio, where, with Robert Lewis and Cheryl Crawford, he introduced method acting under Lee Strasberg. His films often addressed social issues, beginning with *Gentleman's Agreement*, with [[Gregory Peck|Gregory Peck]], which dealt with [[Antisemitism|antisemitism]]. *Gentleman's Agreement* and *On the Waterfront* won him [[Academy Awards|Academy Awards]] for Best Director, and he directed [[Marlon Brando|Marlon Brando]] in *A Streetcar Named Desire* and *On the Waterfront*. In 1952 he testified as a "friendly witness" before the House Un-American Activities Committee and named former associates as past Communist Party members. Critics said his testimony damaged the careers of former colleagues; Kazan said he had taken "only the more tolerable of two alternatives."
+
+=== KEY: Elie_Wiesel_d6e36c
+HEADWORD: Wiesel, Elie
+PERSON: yes
+LINK TARGETS: Apartheid | Auschwitz concentration camp | Genocide | Jerusalem | The Holocaust
+ENTRY:
+Romanian-born American writer, professor and [[The Holocaust|Holocaust]] survivor. Born in Sighet, he was deported with his family to [[Auschwitz concentration camp|Auschwitz]] in 1944, at age 15. His mother and younger sister died there, and he and his father were moved to Buchenwald. His memoir *Night* describes his experiences in the camps. He wrote 57 books, mostly in French and English, and taught humanities at Boston University. As an activist he spoke on the Holocaust and against [[Apartheid|apartheid]] and [[Genocide|genocide]], including in Rwanda and Cambodia. He received the Nobel Peace Prize in 1986 and was a main figure in establishing the United States Holocaust Memorial Museum. He was an outspoken advocate for Israel and said that [[Jerusalem|Jerusalem]] "belongs to the Jewish people."
+
+=== KEY: Elijah_01c301
+HEADWORD: Elijah
+PERSON: no
+LINK TARGETS: Baal | Bosnia and Herzegovina | Hebrew Bible | Judaism | Quran | Yahweh
+ENTRY:
+Prophet and miracle worker of the northern Kingdom of Israel. According to the Books of Kings in the [[Hebrew Bible|Hebrew Bible]], Elijah lived during the reign of King Ahab in the 9th century BC. In 1 Kings 18 he defended the worship of [[Yahweh|Yahweh]] against that of the Canaanite deity [[Baal|Baal]]. He is credited with miracles including resurrection and an ascent to heaven, and his disciple Elisha succeeded him. Scholars generally agree that a historical figure named Elijah existed, although the biblical accounts are considered more legendary than historically accurate. In [[Judaism|Judaism]], his name is invoked at the weekly Havdalah rite that ends Shabbat, and some Jewish interpretations expect him to return at the end of times. The New Testament identifies John the Baptist as the Elijah promised in Malachi. The [[Quran|Quran]] presents him as a prophet, and he is venerated as the patron saint of [[Bosnia and Herzegovina|Bosnia and Herzegovina]].
+
+=== KEY: Elijah_Muhammad_9f844e
+HEADWORD: Muhammad, Elijah
+PERSON: yes
+LINK TARGETS: Civil rights movement | Detroit | Louis Farrakhan | Nation of Islam
+ENTRY:
+American religious leader who led the [[Nation of Islam|Nation of Islam]] from 1933 until his death. Under his leadership the movement grew from a small [[Detroit|Detroit]]-based group into a nationwide organization with tens of thousands of members during the [[Civil rights movement|civil rights movement]]. He promoted black nationalism and a theology teaching that white people were "devils" created by a black scientist named Yakub. He has been described as both a black nationalist and a black supremacist. His son Wallace Muhammad transformed the group into a mainstream Islamic movement, and [[Louis Farrakhan|Louis Farrakhan]] later revived the Nation of Islam.
+
+=== KEY: Elizabeth_B_thory_d664ba
+HEADWORD: Báthory, Elizabeth
+PERSON: yes
+LINK TARGETS: Serial killer | Slovakia
+ENTRY:
+Hungarian noblewoman and alleged [[Serial killer|serial killer]]. Wife of Count Ferenc Nádasdy and a member of the powerful House of Báthory, she and four servants were accused of torturing and killing hundreds of girls and women between 1590 and 1610. The servants were tried and executed; Báthory was confined to her castle at Csejte, in present-day [[Slovakia|Slovakia]], until her death. Some scholars cite testimony from more than 300 witnesses, while others argue that the charges were a politically motivated effort to destroy her family's influence. Later legends of vampirism, including the tale that she bathed in the blood of virgins, are considered unreliable by modern historians.
+
+=== KEY: Elizabeth_Cady_Stanton_73fc5d
+HEADWORD: Stanton, Elizabeth Cady
+PERSON: yes
+LINK TARGETS: American Civil War | Frederick Douglass | Susan B. Anthony | Women's rights
+ENTRY:
+American writer and activist, a leader of the [[Women's rights|women's rights movement]] in the mid- to late 19th century. She was the main force behind the 1848 Seneca Falls Convention, the first convention devoted solely to women's rights, and primary author of its Declaration of Sentiments. In 1851 she began a decades-long partnership with [[Susan B. Anthony|Susan B. Anthony]]; together they campaigned against slavery during the [[American Civil War|American Civil War]]. They opposed the Fifteenth Amendment, which would extend suffrage to Black men only, and the dispute split the movement. Some of Stanton's remarks in it were racially condescending, and [[Frederick Douglass|Frederick Douglass]] reproached her for them. Stanton was the first president of the National Woman Suffrage Association and, after the split healed, of the National American Woman Suffrage Association. She also wrote *The Woman's Bible*, which argued that the Bible's attitude toward women reflected prejudice.
+
+=== KEY: Elizabeth_Holmes_4059f4
+HEADWORD: Holmes, Elizabeth
+PERSON: yes
+LINK TARGETS: Blood test | Forbes | Fraud | Trial
+ENTRY:
+American businesswoman convicted of [[Fraud|fraud]] in connection with the health technology company Theranos. Holmes founded Theranos in 2003, claiming to have developed [[Blood test|blood tests]] that needed only a fingerprick of blood. In 2015 [[Forbes|Forbes]] named her the youngest and wealthiest self-made female billionaire on the basis of a $9 billion valuation of the company; the following year it revised her net worth to zero as fraud allegations surfaced. Her [[Trial|trial]] ended in January 2022 with a conviction for defrauding investors and an acquittal on charges of defrauding patients. She was sentenced to 11¼ years in prison and, with Ramesh Balwani, ordered to pay $452 million in restitution.
+
+=== KEY: Elizabeth_II_eabc97
+HEADWORD: Elizabeth II
+PERSON: yes
+LINK TARGETS: Charles III | George VI | The Troubles | Westminster Abbey
+ENTRY:
+Queen of the United Kingdom and other Commonwealth realms (r. 1952–2022). She succeeded her father, [[George VI|George VI]], in February 1952 and was crowned in [[Westminster Abbey|Westminster Abbey]] in 1953. Her reign of 70 years and 214 days was the longest of any British monarch. As a constitutional monarch she reigned through the decolonization of Africa, the [[The Troubles|Troubles]] in Northern Ireland, and the United Kingdom's accession to and withdrawal from the European Communities. She was advised by more than 170 prime ministers and met five popes and fourteen U.S. presidents. She died aged 96 at Balmoral Castle and was succeeded by her eldest son, [[Charles III|Charles III]].
+
+=== KEY: Elizabeth_I_39f350
+HEADWORD: Elizabeth I
+PERSON: yes
+LINK TARGETS: Christopher Marlowe | Church of England | Edward VI | Francis Drake | Henry VIII | House of Tudor | Mary I | William Shakespeare
+ENTRY:
+Queen of England and Ireland (r. 1558–1603), the last and longest-reigning monarch of the [[House of Tudor]]. Her reign gave its name to the Elizabethan era.
+
+Elizabeth was the only surviving child of [[Henry VIII]] and his second wife, Anne Boleyn. When she was two years old her parents' marriage was annulled, her mother was executed, and she was declared illegitimate; Henry restored her to the line of succession when she was 10. Her half-brother [[Edward VI]] ruled from 1547 until 1553, and the Catholic [[Mary I|Mary]] then became queen. During Mary's reign Elizabeth was imprisoned for nearly a year on suspicion of supporting Protestant rebels.
+
+On Mary's death in 1558 Elizabeth set out to rule by good counsel, relying on advisers led by William Cecil, whom she created Baron Burghley. She established an English church, of which she became supreme governor; this Elizabethan Religious Settlement would evolve into the [[Church of England]]. She never married despite numerous courtships and was sometimes called the "Virgin Queen." She was succeeded by James VI of Scotland.
+
+Elizabeth was more moderate in government than her father and siblings, and relatively tolerant in religion. After the pope declared her illegitimate in 1570, several conspiracies threatened her life; all were defeated with the help of the secret service run by Francis Walsingham. She was cautious in foreign affairs, maneuvering between France and Spain, but by the mid-1580s England could no longer avoid war with Spain.
+
+A cult of personality grew around her. The Elizabethan era is known for English drama, led by [[William Shakespeare]] and [[Christopher Marlowe]], for maritime adventurers such as [[Francis Drake]], and for the defeat of the Spanish Armada. Some historians depict her as short-tempered and sometimes indecisive, and economic and military problems weakened her popularity late in her reign. Her 44 years on the throne provided stability after the short reigns of her half-siblings and helped forge a sense of national identity.
+
+=== KEY: Elizabeth_Montgomery_2386ee
+HEADWORD: Montgomery, Elizabeth
+PERSON: yes
+LINK TARGETS: Lizzie Borden
+ENTRY:
+American actress in film, stage and television, whose career spanned five decades. She played the witch Samantha Stephens in the sitcom *Bewitched*, a role that earned her five Primetime Emmy Award nominations and four Golden Globe nominations. The daughter of actor Robert Montgomery, she won a Theater World Award for her Broadway debut in *Late Love*. After *Bewitched* ended in 1972, she starred in television films including *The Legend of Lizzie Borden* (1975), playing [[Lizzie Borden|Lizzie Borden]]. She was also active in political causes and charity work.
+
+=== KEY: Elizabeth_Taylor_e61768
+HEADWORD: Taylor, Elizabeth
+PERSON: yes
+LINK TARGETS: Academy Awards | Richard Burton
+ENTRY:
+British and American film actress, one of the most popular stars of classical Hollywood in the 1950s. She began as a child actress and became the world's highest-paid movie star in the 1960s. She won [[Academy Awards|Academy Awards]] for *Butterfield 8* (1960) and *Who's Afraid of Virginia Woolf?* (1966). Her best-known role was in *Cleopatra* (1963), and she married co-star [[Richard Burton|Richard Burton]] in 1964; they appeared together in 11 films. Her private life, including two marriages to Burton, drew intense media scrutiny. In the 1980s she became one of the first celebrities to take part in HIV/AIDS activism. She co-founded the American Foundation for AIDS Research in 1985 and the Elizabeth Taylor AIDS Foundation in 1991.
+
+=== KEY: Elizabeth_of_Russia_2315e8
+HEADWORD: Elizabeth of Russia
+PERSON: yes
+LINK TARGETS: Berlin | Capital punishment | House of Romanov | Mikhail Lomonosov | Moscow State University | Peter the Great | Seven Years' War
+ENTRY:
+Empress of Russia (r. 1741–1762) and daughter of [[Peter the Great|Peter the Great]]. She seized the throne in 1741 with military support, displacing the infant Ivan VI, and declared her nephew, the future Peter III, her heir. She is notable for deciding not to [[Capital punishment|execute]] anyone during her reign and for numerous construction projects. [[Moscow State University|Moscow State University]] was founded in 1755 through the efforts of [[Mikhail Lomonosov|Mikhail Lomonosov]] and Ivan Shuvalov, with Elizabeth signing its founding decree. Russia fought the [[Seven Years' War|Seven Years' War]], in which Russian troops briefly occupied [[Berlin|Berlin]]. She was the last member of the [[House of Romanov|House of Romanov]] on the male line to reign over Russia.
+
+=== KEY: Elk_a58a0d
+HEADWORD: Elk
+PERSON: no
+LINK TARGETS: Argentina | Deer | Moose | New Zealand | Red deer
+ENTRY:
+Large deer (*Cervus canadensis*), the second-largest member of the [[Deer|deer]] family, also called wapiti. Native to North America and parts of Central and East Asia, elk graze on grasses and browse leaves, twigs and bark in open forests. Males grow large antlers that they shed each year, and during the mating season they spar with antlers and bugle to establish dominance. The word elk originally referred to the European [[Moose|moose]], which North American colonists transferred to this animal. Mitochondrial DNA studies, beginning in 1998, showed that elk are a distinct species from the [[Red deer|European red deer]]. Elk have been introduced to [[Argentina|Argentina]] and [[New Zealand|New Zealand]], where they may threaten native ecosystems. As game, elk meat is lean and higher in protein than beef or chicken.
+
+=== KEY: Ella_Fitzgerald_4b22e0
+HEADWORD: Fitzgerald, Ella
+PERSON: yes
+LINK TARGETS: Duke Ellington | Grammy Awards | Jazz | Louis Armstrong
+ENTRY:
+American [[Jazz|jazz]] singer and songwriter, known for her purity of tone, diction and scat singing. She rose to national fame with the Chick Webb Orchestra, whose recording of the nursery rhyme "A-Tisket, A-Tasket" made her and Webb famous. After Webb died she took over the band, and in 1942 she began a solo career. With Verve Records she recorded influential interpretations of the Great American Songbook. Her partnerships with [[Louis Armstrong|Louis Armstrong]] and [[Duke Ellington|Duke Ellington]] produced songs including "Cheek to Cheek" and "Dream a Little Dream of Me." Her last public performance was in 1993. Her honors include the Presidential Medal of Freedom and multiple [[Grammy Awards|Grammy Awards]].
+
+=== KEY: Elle_Macpherson_33184f
+HEADWORD: Macpherson, Elle
+PERSON: yes
+LINK TARGETS: Time (magazine)
+ENTRY:
+Australian model, businesswoman and actress. She appeared a record five times on the cover of the *Sports Illustrated* Swimsuit Issue, earning the nickname "The Body," coined by [[Time (magazine)|Time]] in 1989. She founded the lingerie line Elle Macpherson Intimates and the skin care line The Body. She hosted and was executive producer of *Britain & Ireland's Next Top Model* (2010–2013), had a recurring role on *Friends*, and hosted an episode of *Saturday Night Live*.
+
+=== KEY: Ellen_Burstyn_f6f5b4
+HEADWORD: Burstyn, Ellen
+PERSON: yes
+LINK TARGETS: Martin Scorsese
+ENTRY:
+American actress known for portraying complex women in dramas. She won the Academy Award for Best Actress for *Alice Doesn't Live Here Anymore* (1974), directed by [[Martin Scorsese|Martin Scorsese]], and a Tony Award for *Same Time, Next Year* (1975). Her other Oscar-nominated roles include *The Exorcist* (1973). Burstyn is one of the few performers to achieve the "Triple Crown of Acting" and has won two Primetime Emmy Awards. Since 2000 she has been co-president of the Actors Studio.
+
+=== KEY: Ellen_DeGeneres_156dac
+HEADWORD: DeGeneres, Ellen
+PERSON: yes
+LINK TARGETS: 
+ENTRY:
+American comedian, actress and television host. Her sitcom *Ellen* (1994–1998) ran through her public coming out as a lesbian in 1997, and her character became the first openly gay lead on an American network television show. She hosted *The Ellen DeGeneres Show* from 2003 to 2022, which earned her 33 Daytime Emmy Awards. She voiced Dory in *Finding Nemo* (2003). In 2021 she announced the end of her talk show, following a Warner Bros. investigation into allegations of bullying, racism and misconduct by senior producers.
+
+=== KEY: Ellen_Johnson_Sirleaf_c70408
+HEADWORD: Sirleaf, Ellen Johnson
+PERSON: yes
+LINK TARGETS: Harvard University | Liberia | Monrovia
+ENTRY:
+Liberian economist and politician, 24th president of [[Liberia|Liberia]] (2006–2018). Born in [[Monrovia|Monrovia]], she was educated in the United States, including at [[Harvard University|Harvard University]], and is a Harvard-trained economist. She served as Liberia's deputy minister of finance in the 1970s and as minister of finance from 1979 to 1980. After Samuel Doe seized power in 1980, she fled to the United States. She was sentenced to ten years' imprisonment in 1985 for criticizing the military government, but was later released. She finished second in the 1997 presidential election. She was the first woman in Africa elected as a head of state, and in 2011 she won the Nobel Peace Prize for efforts to bring women into the peacekeeping process. In 2016 she became the first woman to chair the Economic Community of West African States.
+
+=== KEY: Ellesmere_Island_f37227
+HEADWORD: Ellesmere Island
+PERSON: no
+LINK TARGETS: Arctic Archipelago | Great Britain | Muskox
+ENTRY:
+Island in the [[Arctic Archipelago|Arctic Archipelago]], Nunavut, Canada (pop., 2021: 144). Canada's northernmost and third-largest island, and the tenth largest in the world, it is slightly smaller than [[Great Britain|Great Britain]]. It is considered part of the Queen Elizabeth Islands. The Arctic Cordillera covers much of the island, making it the most mountainous in the archipelago, and more than one-fifth of the island is protected as Quttinirpaaq National Park. Cape Columbia, Canada's northernmost point of land, lies on the island. Paleo-Eskimo hunters, who mostly hunted [[Muskox|muskoxen]], left archaeological sites across it.
+
+=== KEY: Elliott_Smith_7fc9af
+HEADWORD: Smith, Elliott
+PERSON: yes
+LINK TARGETS: Los Angeles | Portland, Oregon | Texas
+ENTRY:
+American musician and singer-songwriter. Raised mainly in [[Texas]], he lived much of his life in [[Portland, Oregon]]. After several years in the rock band Heatmiser, he began a solo career in 1994. His songs explore addiction and depression; "Miss Misery" was nominated for the 1998 Academy Award for Best Original Song. He died at his [[Los Angeles]] home at age 34, and the autopsy did not determine whether his two stab wounds were self-inflicted. His posthumous album *From a Basement on the Hill* was released in 2004.
+
+=== KEY: Ellipse_119518
+HEADWORD: Ellipse
+PERSON: no
+LINK TARGETS: Apollonius of Perga | Circle | Conic section | Parabola | Solar System
+ENTRY:
+Closed plane curve around two focal points, with a constant sum of distances to them. It generalizes a [[Circle|circle]], which is the case in which the two foci coincide. An ellipse's elongation is measured by its eccentricity, which ranges from 0 for a circle to 1 for the limiting case of a [[Parabola|parabola]]. Its area has a simple algebraic formula, but its exact perimeter requires integration. Ellipses are the closed type of [[Conic section|conic section]] and are common in physics and astronomy: the orbit of each planet in the [[Solar System]] is approximately an ellipse with the Sun at one focus. The name, from a Greek word meaning "omission," was given by [[Apollonius of Perga]].
+
+=== KEY: Elliptical_galaxy_2a04d0
+HEADWORD: Elliptical galaxy
+PERSON: no
+LINK TARGETS: Edwin Hubble | Galaxy | Interstellar medium | Lenticular galaxy | Star | Supermassive black hole | Virgo Supercluster
+ENTRY:
+Type of [[Galaxy|galaxy]] with a smooth, nearly featureless, ellipsoidal shape. [[Edwin Hubble]] classed it, with spiral and [[Lenticular galaxy|lenticular]] galaxies, as one of the three main classes of galaxy in his Hubble sequence. Most ellipticals are composed of older, low-mass [[Star|stars]], with a sparse [[Interstellar medium|interstellar medium]], so star formation is typically minimal. They make up about 10–15% of galaxies in the [[Virgo Supercluster]] and are preferentially found near the centers of galaxy clusters. Sizes range from dwarf ellipticals with tens of millions of stars to supergiants of over one hundred trillion. Every massive elliptical contains a [[Supermassive black hole|supermassive black hole]] at its center. Hubble had hypothesized that ellipticals evolved into spirals, a view later found to be false.
+
+=== KEY: Ellis_Island_2f25ae
+HEADWORD: Ellis Island
+PERSON: no
+LINK TARGETS: New Jersey | Statue of Liberty | World War I | World War II
+ENTRY:
+Island in New York Harbor, within the U.S. states of [[New Jersey]] and New York. It was the busiest immigrant inspection and processing station in the United States, where about 12 million immigrants were processed from 1892 to 1954. Its facilities were also used to detain prisoners of war in [[World War I]] and [[World War II]]. A 1998 Supreme Court ruling placed most of the island in New Jersey, and it has been part of the [[Statue of Liberty]] National Monument since 1965.
+
+=== KEY: Elm_3ea724
+HEADWORD: Elm
+PERSON: no
+LINK TARGETS: Australasia | Beetle | Chlorophyll | Cultivar | Europe | Forest | Species
+ENTRY:
+Deciduous and semi-deciduous tree of the genus *Ulmus*, in the family Ulmaceae. Elms are distributed over most of the Northern Hemisphere and are components of many natural [[Forest|forests]]. In the 19th and early 20th centuries, many [[Species|species]] and [[Cultivar|cultivars]] were planted as ornamental street and park trees in [[Europe]], North America and [[Australasia]]. Most mature elms of European or North American origin have since died from Dutch elm disease, a microfungus spread by [[Beetle|bark beetles]]. Disease-resistant cultivars have been developed to restore elms to forestry and landscaping. There are about 30 to 40 species, a number that is uncertain because of frequent hybridization, and the greatest diversity is in Asia. The American elm can exceed 30 meters (98 feet) in height. The fruit is a winged samara flushed with [[Chlorophyll|chlorophyll]], which allows photosynthesis before the leaves emerge.
+
+=== KEY: Elo_rating_system_7edb10
+HEADWORD: Elo rating system
+PERSON: no
+LINK TARGETS: Association football | Baseball | Basketball | Tennis | Zero-sum game
+ENTRY:
+Method for calculating the relative skill levels of players, originally devised for rating chess players. A player rated 100 points above an opponent is expected to score 64%, and rating points transfer from loser to winner after each game, making the system self-correcting. Ratings are comparative only and valid within their own pool. The system, created by Hungarian-American chess master Arpad Elo, has been adapted for [[Tennis|tennis]], [[Association football|association football]], [[Baseball|baseball]], [[Basketball|basketball]] and other [[Zero-sum game|zero-sum games]].
+
+=== KEY: Elon_Musk_98dd6e
+HEADWORD: Musk, Elon
+PERSON: yes
+LINK TARGETS: Donald Trump | PayPal | Pretoria | SpaceX | X (social network)
+ENTRY:
+South African-born Canadian-American industrialist. Born in [[Pretoria]], South Africa, Musk emigrated to Canada in 1989 and became a U.S. citizen in 2002. He co-founded the web software company Zip2 in 1995, and X.com, which merged with Confinity to form [[PayPal]]. He founded [[SpaceX]] in 2002 and later became chief executive of Tesla. He also co-founded Neuralink and founded The Boring Company, and in 2022 he acquired Twitter, which he renamed [[X (social network)|X]]. Musk is a polarizing figure. Critics cite false or misleading statements and promotion of conspiracy theories, while supporters credit his companies with substantial reductions in launch costs and scaled electric-vehicle production. He was the largest donor in the 2024 U.S. presidential election, supporting [[Donald Trump]], and served as a senior adviser to Trump from January to May 2025.
+
+=== KEY: Elton_John_0de86b
+HEADWORD: John, Elton
+PERSON: yes
+LINK TARGETS: Academy Awards | Diana, Princess of Wales | Grammy Awards | HIV/AIDS
+ENTRY:
+British singer, songwriter and pianist. Known for his songwriting partnership with lyricist Bernie Taupin, he has sold over 300 million records. He has won five [[Grammy Awards]] and two [[Academy Awards]], and was knighted in 1998. He established the Elton John [[HIV/AIDS|AIDS]] Foundation in 1992. His tribute single to [[Diana, Princess of Wales]], "Candle in the Wind 1997," is the best-selling chart single of all time.
+
+=== KEY: Elvis_Presley_5e3427
+HEADWORD: Presley, Elvis
+PERSON: yes
+LINK TARGETS: Country music | Las Vegas | Memphis, Tennessee | NBC | Rhythm and blues | Rolling Stone
+ENTRY:
+American singer and actor known as the "King of Rock and Roll." Born in Tupelo, Mississippi, Presley moved with his family to [[Memphis, Tennessee]] when he was 13. He began recording for Sun Records in 1954, and his blend of [[Country music|country]] music and [[Rhythm and blues|rhythm and blues]] made him the leading figure of rock and roll. Many at the time considered his performances a threat to the moral well-being of white American youth. RCA Victor sold ten million of his singles within a year. After devoting much of the 1960s to Hollywood films, he returned to the stage in 1968 with an [[NBC]] television special, followed by a long [[Las Vegas]] residency. Presley is among the best-selling music artists in history, with an estimated 500 million records sold, and [[Rolling Stone]] ranked him third among its 100 Greatest Artists. Years of substance abuse and unhealthy eating compromised his health.
+
+=== KEY: Email_ce8ae9
+HEADWORD: Email
+PERSON: no
+LINK TARGETS: ARPANET | ASCII | Computer network | Internet | Malware | Phishing
+ENTRY:
+Method of transmitting and receiving digital messages using electronic devices over a [[Computer network|computer network]]. Email uses a store-and-forward model, so neither sender nor recipient must be online at the same time. It operates primarily over the [[Internet]] and also over local area networks. Originally a text-only [[ASCII]] medium, Internet email was extended by MIME to carry other character sets and images. The first [[ARPANET]] network mail was sent in 1971, introducing the "@" symbol in addresses. Email is also a vector for [[Phishing|phishing]] and [[Malware|malware]], which has necessitated ongoing protocol enhancements.
+
+=== KEY: Embarrassment_3bdcb1
+HEADWORD: Embarrassment
+PERSON: no
+LINK TARGETS: Anger | Dignity | Emotion | Guilt (emotion) | Shame
+ENTRY:
+Self-conscious [[Emotion|emotion]] of mild to severe discomfort, usually involving a perceived loss of [[Dignity|dignity]]. It is typically felt when someone commits, or thinks of committing, a socially unacceptable act that is witnessed by or revealed to others. Frequently grouped with [[Shame|shame]] and [[Guilt (emotion)|guilt]], embarrassment can have a profoundly negative effect on thoughts and behavior. Causes include being caught in a lie, unwanted attention to private matters, and being made the focus of attention. Embarrassment is usually accompanied by blushing, sweating, nervousness and fidgeting, and may bring feelings of [[Anger|anger]]. The idea that embarrassment serves an appeasing function originated with Goffman, who argued that the embarrassed person shows he or she is disturbed by the act. Adolescent boys who displayed more embarrassment were less likely to engage in aggressive or delinquent behavior.
+
+=== KEY: Embraer_E_Jet_family_4c5e11
+HEADWORD: Embraer E-Jet family
+PERSON: no
+LINK TARGETS: Aerospace manufacturer | General Electric | Turbofan
+ENTRY:
+Series of narrow-body, twin-engined regional jet airliners built by Brazilian [[Aerospace manufacturer|aerospace manufacturer]] Embraer. Designed to complement the earlier ERJ family, the E-Jets carry 66 to 124 passengers. The first E170 was delivered to LOT Polish Airlines in 2004, followed by larger E190 and E195 variants later that year. The first generation is powered by [[General Electric]] CF34 [[Turbofan|turbofan]] engines. The second-generation E2 family, introduced in the 2010s, uses more fuel-efficient engines.
+
+=== KEY: Embroidery_3f294e
+HEADWORD: Embroidery
+PERSON: no
+LINK TARGETS: China | Pearl | Sewing | Thread (textiles) | Warring States period | Yarn
+ENTRY:
+Art of decorating fabric or other materials by using a needle to stitch [[Thread (textiles)|thread]] or [[Yarn|yarn]]. One of the oldest forms of needlework, embroidery developed from [[Sewing|sewing]] techniques used to mend and reinforce cloth. The earliest surviving embroidered cloth comes from Egypt, and works in [[China]] date to the [[Warring States period]] (5th–3rd century BC). Embroidery is used to embellish garments, quilts and accessories, and may incorporate [[Pearl|pearls]], beads or sequins. It is classified as free or surface work, counted-thread work such as cross-stitch, or canvas work. Today it serves decorative, functional and cultural purposes.
+
+=== KEY: Embryo_4cc6d7
+HEADWORD: Embryo
+PERSON: no
+LINK TARGETS: Egg cell | Fetus | Mammal | Nervous system | Organism | Seed | Sperm
+ENTRY:
+Initial stage of development of a multicellular [[Organism|organism]], beginning after fertilization. In sexually reproducing organisms, embryonic development begins when an [[Egg cell|egg cell]] is fertilized by a [[Sperm|sperm]] cell to form a single-celled zygote. The zygote divides into a blastula, which in [[Mammal|mammals]] is called a blastocyst and hatches before implanting in the womb. Gastrulation forms the three germ layers, neurulation forms the [[Nervous system|nervous system]], and organogenesis forms the tissues and organs. Plant embryos develop within a [[Seed|seed]]. A human embryo becomes a [[Fetus|fetus]] at the ninth week after conception.
+
+=== KEY: Emerald_0b6e98
+HEADWORD: Emerald
+PERSON: no
+LINK TARGETS: Beryl | Chromium | Colombia | Diamond | Gemstone | Mohs scale | Sapphire | Zambia
+ENTRY:
+Green [[Gemstone|gemstone]], a variety of the mineral [[Beryl|beryl]]. Trace amounts of [[Chromium|chromium]] or sometimes vanadium give it color, and it has a hardness of 7.5–8 on the [[Mohs scale]]. Most emeralds have many inclusions, so their toughness is classified as poor. Emerald is one of the traditional "big four" precious gems, along with [[Diamond|diamonds]], rubies and [[Sapphire|sapphires]]. Most emeralds are oiled to fill surface-reaching cracks, which improves clarity and stability. The finest stones have a vivid green hue and a medium to dark tone. Major sources include the mines of [[Colombia]] and [[Zambia]]. The name derives from the Greek *smaragdos*, meaning "green stone."
+
+=== KEY: Emergency_department_9ab901
+HEADWORD: Emergency department
+PERSON: no
+LINK TARGETS: Ambulance | Hospital | Louisville, Kentucky | United Kingdom | United States
+ENTRY:
+Medical treatment facility, usually within a [[Hospital|hospital]], specializing in emergency medicine. Known as an emergency room (ER) in the [[United States]] and accident and emergency (A&E) in the [[United Kingdom]], it treats patients who arrive without appointments, either by their own means or by [[Ambulance|ambulance]]. Because it must treat a broad range of illnesses and injuries, some life-threatening, staffing levels may vary with patient volume, although most departments operate 24 hours a day. Patients are prioritized through triage, a brief assessment that includes vital signs and a chief complaint. Those with evidently serious conditions, such as cardiac arrest, bypass triage. The world's first specialized trauma care center opened in 1911 at the University of Louisville Hospital in [[Louisville, Kentucky]].
+
+=== KEY: Emergency_management_c40752
+HEADWORD: Emergency management
+PERSON: no
+LINK TARGETS: Flood | Hypothermia | Non-governmental organization | Pandemic | Personal protective equipment | Terrorism
+ENTRY:
+Systematic reduction of a community's vulnerability to natural and human-made hazards, with coordinated response to disasters. Emergency management focuses on destructive events that overwhelm a community's own capacity, such as hurricanes, [[Pandemic|pandemics]] and [[Terrorism|terrorism]]. Its activities are generally grouped into preparedness, response, mitigation and recovery, and it requires collaboration among individuals, households, [[Non-governmental organization|non-governmental organizations]] and local, provincial and federal governments. Professional work includes search and rescue, providing for basic needs, and issuing evacuation alerts. Cleanup after [[Flood|floods]] exposes workers to hidden debris and a risk of [[Hypothermia|hypothermia]], so employers must minimize exposure, including through [[Personal protective equipment|personal protective equipment]].
+
+=== KEY: Emergency_medical_services_a25a55
+HEADWORD: Emergency medical services
+PERSON: no
+LINK TARGETS: Ambulance | Emergency department | Knights Hospitaller | Napoleon
+ENTRY:
+Services providing urgent pre-hospital treatment and transport to definitive care for serious illness and injury. Also known as ambulance services, EMS is typically summoned by telephone to a dispatch center, which sends [[Ambulance|ambulances]], squad cars, motorcycles, boats or aircraft. Crews begin care on arrival at the scene and transport patients to the next point of care, usually a hospital's [[Emergency department|emergency department]]. Training varies widely; in English-speaking countries, staff are known as emergency medical technicians (EMTs) or paramedics. The first specialized battlefield ambulances were designed by Dominique Jean Larrey, chief surgeon to [[Napoleon|Napoleon Bonaparte]], whose horse-drawn wagons evacuated wounded soldiers. During the Middle Ages, the [[Knights Hospitaller]] also assisted wounded soldiers on the battlefield.
+
+=== KEY: Emigration_b2bda2
+HEADWORD: Emigration
+PERSON: no
+LINK TARGETS: Diaspora | Famine | Immigration | Refugee
+ENTRY:
+Act of permanently leaving one's country to settle elsewhere, the counterpart of [[Immigration|immigration]]. A migrant emigrates from one country and immigrates to another. Demographers distinguish push factors, such as poor living conditions, lack of employment, persecution and [[Famine|famine]], from pull factors, such as higher wages, educational opportunity and political freedom. Forced displacement, including through ethnic cleansing, makes [[Refugee|refugees]] and asylum seekers among the most marginalized migrants. Millions fled poverty and political turmoil in Europe for the Americas and Oceania in the 18th to 20th centuries, and millions left South China in the [[Diaspora|Chinese diaspora]] during the 19th and early 20th centuries. Some scholars criticize the push-pull approach, noting that similar lists could be compiled for places where no migration took place.
+
+=== KEY: Emile_Berliner_7674e8
+HEADWORD: Berliner, Emile
+PERSON: yes
+LINK TARGETS: Helicopter | Microphone | Thomas Edison | Washington, D.C.
+ENTRY:
+German-born American inventor and businessman. He invented the lateral-cut flat disc record, known as the gramophone record, and founded the United States Gramophone Company. An improved telephone transmitter he developed was one of the first [[Microphone|microphones]]; [[Thomas Edison|Edison]] contested the patent, and a 1901 appeals court declared it void and awarded Edison full rights. After 1883 he worked as a private researcher in [[Washington, D.C.]] He also developed a rotary engine and an early [[Helicopter|helicopter]], which he and his son Henry demonstrated for the U.S. Navy in 1922.
+
+=== KEY: Emilia_Clarke_b70de1
+HEADWORD: Clarke, Emilia
+PERSON: yes
+LINK TARGETS: Aneurysm | Game of Thrones | HBO
+ENTRY:
+English actress. Known for playing Daenerys Targaryen in the [[HBO]] fantasy series [[Game of Thrones]], for which she received four Primetime Emmy Award nominations. She has also starred in films including *Me Before You* (2016) and *Solo: A Star Wars Story* (2018). She survived two subarachnoid hemorrhages caused by brain [[Aneurysm|aneurysms]] in 2011 and 2013, and later co-founded the charity SameYou to support neurorehabilitation for brain-injury survivors.
+
+=== KEY: Emilia_Romagna_46bc56
+HEADWORD: Emilia-Romagna
+PERSON: no
+LINK TARGETS: Bologna | Ferrari | Italy | Ravenna | UNESCO | University of Bologna
+ENTRY:
+Administrative region of northern [[Italy]], with its capital at [[Bologna]]. One of the wealthiest and most developed regions in Europe, with the third highest gross domestic product per capita in Italy. It is home to the [[University of Bologna]], the oldest university in the world, and several [[UNESCO]] World Heritage cities, including [[Ravenna]]. It is a center of food and automobile production, including [[Ferrari]]. The region's name derives from the Via Aemilia, a Roman road completed in 187 BC.
+
+=== KEY: Emiliano_Zapata_5ff2a1
+HEADWORD: Zapata, Emiliano
+PERSON: yes
+LINK TARGETS: Mexican Revolution | Mexico City | Pancho Villa | Porfirio Díaz | Sugarcane
+ENTRY:
+Mexican revolutionary and guerrilla leader. A leading figure in the [[Mexican Revolution]] and the main leader of the people's revolution in the state of Morelos, he inspired the agrarian movement known as Zapatismo. Under dictator [[Porfirio Díaz]], landowners monopolized land and water in Morelos for [[Sugarcane|sugarcane]] production, and peasant communities faced increasing repression. His Plan of Ayala, issued in November 1911, called for land reform and the redistribution of land to peasants. Zapata's forces helped bring about the fall of Díaz, and in 1914 they briefly occupied [[Mexico City]] alongside [[Pancho Villa]]. Zapata refused to recognize the authority of Venustiano Carranza and was killed in an ambush. Zapatista generals later helped drive Carranza from power, and Article 27 of the 1917 Mexican Constitution was drafted in response to his agrarian demands.
+
+=== KEY: Emily_Bront_78b38d
+HEADWORD: Brontë, Emily
+PERSON: yes
+LINK TARGETS: Charlotte Brontë
+ENTRY:
+English novelist and poet. Her only novel, *Wuthering Heights* (1847), was published under the pseudonym Ellis Bell and was criticized by many reviewers as coarse and immoral. It is now considered a classic of English literature. She co-wrote a book of poetry with her sisters [[Charlotte Brontë|Charlotte]] and Anne, and spent most of her life at home in Haworth, Yorkshire.
+
+=== KEY: Emily_Dickinson_3d7a47
+HEADWORD: Dickinson, Emily
+PERSON: yes
+LINK TARGETS: 
+ENTRY:
+American poet. Born in Amherst, Massachusetts, into a prominent family, Dickinson wrote nearly 1,800 poems, of which only 10 were published during her lifetime. Her verse uses short, acerbic lines and slant rhyme, and deals primarily with nature and mortality. Few in her circle knew of her writing until after her death, when her sister Lavinia found the poems. The first selection, published in 1890 and edited by Thomas Wentworth Higginson and Mabel Loomis Todd, was significantly altered to fit the poetic conventions of the time. Not until 1955 did Thomas H. Johnson compile a complete collection that restored the poems closer to her intentions. Some scholars believe censorship obscured the nature of her relationship with her sister-in-law Susan Huntington Gilbert Dickinson, which has been interpreted as romantic.
+
+=== KEY: Eminem_effbbb
+HEADWORD: Eminem
+PERSON: yes
+LINK TARGETS: Hip-hop | Rock and Roll Hall of Fame
+ENTRY:
+American rapper, songwriter, record producer and record executive. Known for his rap flow and conscious rap, which includes political criticism and social commentary, he is often credited with popularizing [[Hip-hop|hip-hop]] in Middle America. His album *The Eminem Show* (2002) was the best-selling album worldwide in 2002. He is the best-selling rapper, with estimated sales of over 220 million records, and has 11 number-one albums on the Billboard 200. He was inducted into the [[Rock and Roll Hall of Fame]] in his first year of eligibility.
+
+=== KEY: Emir_Abdelkader_66097a
+HEADWORD: Emir Abdelkader
+PERSON: yes
+LINK TARGETS: Algiers | Bursa | Damascus | France | Napoleon III
+ENTRY:
+Algerian religious and military leader. As an Islamic scholar and Sufi, he led a struggle against the French colonial invasion of [[Algiers]] from 1831 to 1847, assembling a coalition of Algerian tribes that resisted one of the most powerful armies in Europe for 17 years. He was appointed emir in 1832. His treatment of prisoners and civilians has often been cited as an early example of humanitarian conduct in warfare, particularly by his Christian opponents. After his surrender in 1847 he was held in [[France]] for almost five years before being released by [[Napoleon III]] and taken to [[Bursa]]. He settled in [[Damascus]] in 1855, and in 1860 his intervention halted the massacre of the Christian community there, earning him honors and awards from several countries. In Damascus he wrote his major work, *Kitab al-Mawaqif* (the "Book of Halts").
+
+=== KEY: Emirates_airline_259106
+HEADWORD: Emirates
+PERSON: no
+LINK TARGETS: Airbus A380 | Boeing 777 | Dubai International Airport | Middle East | United Arab Emirates
+ENTRY:
+Flag carrier airline of the [[United Arab Emirates]], based in Dubai. Founded in 1985 with backing from Dubai's royal family, it is the world's largest long-haul airline and the largest in the [[Middle East]], operating more than 3,600 flights per week from its hub at [[Dubai International Airport]]. As of January 2026 it was the world's largest [[Airbus A380]] operator, with 116 aircraft in service, and the largest [[Boeing 777]] operator, with 133.
+
+=== KEY: Emma_Goldman_3bd171
+HEADWORD: Goldman, Emma
+PERSON: yes
+LINK TARGETS: Anarchism | Assassination | Birth control | Chicago | Russian Empire | Soviet Union | Spanish Civil War | Toronto
+ENTRY:
+Anarchist revolutionary, political activist and writer. Born in Kaunas, then in the [[Russian Empire]], she immigrated to the United States in 1885 and was drawn to [[Anarchism|anarchism]] after the Haymarket affair in [[Chicago]]. With Alexander Berkman she planned to [[Assassination|assassinate]] Henry Clay Frick in 1892; the attempt failed. Imprisoned several times, including for "inciting to riot" and for distributing information about [[Birth control|birth control]], she founded the journal *Mother Earth* in 1906. Deported to Russia in 1919, she denounced the [[Soviet Union]] for its violent repression of independent voices. After the outbreak of the [[Spanish Civil War]] she went to Spain to support the anarchist revolution, and she died in [[Toronto]]. Admirers called her a freethinking "rebel woman," while detractors denounced her as an advocate of politically motivated murder and violent revolution.
+
+=== KEY: Emma_Stone_3be714
+HEADWORD: Stone, Emma
+PERSON: yes
+LINK TARGETS: Academy Awards | Spider-Man
+ENTRY:
+American actress and film producer. She won two [[Academy Awards]] for Best Actress, for *La La Land* (2016) and *Poor Things* (2023). She gained wider recognition as Gwen Stacy in the [[Spider-Man]] films (2012–2014) and was the world's highest-paid actress in 2017. With her husband, Dave McCary, she founded the production company Fruit Tree in 2020.
+
+=== KEY: Emma_Thompson_23d153
+HEADWORD: Thompson, Emma
+PERSON: yes
+LINK TARGETS: Academy Awards | Elizabeth II
+ENTRY:
+English actress and screenwriter. She won two [[Academy Awards]]: Best Actress for *Howards End* (1992) and Best Adapted Screenplay for *Sense and Sensibility* (1995), which she wrote, making her the only person to win Oscars for both acting and writing. She was made a dame by [[Elizabeth II|Queen Elizabeth II]] in 2018 for her contributions to drama.
+
+=== KEY: Emma_Watson_c0efd9
+HEADWORD: Watson, Emma
+PERSON: yes
+LINK TARGETS: Brown University | Gender equality | Harry Potter (film series)
+ENTRY:
+English actress. She first gained fame as Hermione Granger in the [[Harry Potter (film series)|Harry Potter]] films and later starred in *The Perks of Being a Wallflower* (2012) and *Little Women* (2019). She graduated from [[Brown University]] in 2014 with a bachelor's degree in English literature. That year she was appointed a UN Women Goodwill Ambassador and helped launch the HeForShe campaign for [[Gender equality|gender equality]].
+
+=== KEY: Emmanuel_Macron_9d19d1
+HEADWORD: Macron, Emmanuel
+PERSON: yes
+LINK TARGETS: COVID-19 pandemic | Marine Le Pen | Ukraine | Yellow vests protests
+ENTRY:
+French politician, president of France since 2017. Elected in 2017 with 66% of the second-round vote, defeating [[Marine Le Pen]], he became the youngest president in French history. Protests against his reforms culminated in the [[Yellow vests protests|yellow vests protests]] of 2018–2020. He led France's response to the [[COVID-19 pandemic]] from 2020. Re-elected in 2022, he joined the international condemnation of the Russian invasion of [[Ukraine]].
+
+=== KEY: Emmeline_Pankhurst_f1ce62
+HEADWORD: Pankhurst, Emmeline
+PERSON: yes
+LINK TARGETS: Conservative Party (UK) | Manchester | Women's suffrage | World War I
+ENTRY:
+British suffragette and political activist. Born in the Moss Side district of [[Manchester]], she founded the all-women Women's Social and Political Union (WSPU) in 1903, dedicated to "deeds, not words." Under her leadership the group turned to physical confrontations and eventually to bombings and arson, and Pankhurst and her daughters were repeatedly imprisoned, often after hunger strikes. During the [[World War I|First World War]] she halted militancy and organized a procession to illustrate women's contribution to the war effort. The Representation of the People Act 1918 granted votes to women over 30. Though widely criticized for her militant tactics, she is recognized as a crucial element in achieving [[Women's suffrage|women's suffrage]] in the United Kingdom. She later joined the [[Conservative Party (UK)|Conservative Party]].
+
+=== KEY: Emmett_Till_5dda89
+HEADWORD: Till, Emmett
+PERSON: yes
+LINK TARGETS: Chicago | Civil rights movement | Mississippi
+ENTRY:
+African American victim of lynching in [[Mississippi]]. Born and raised in [[Chicago]], Till was visiting relatives in 1955 when he was accused of flirting with, touching or whistling at a white woman, and was then abducted, beaten and shot by two men. His mother insisted on an open-casket funeral, and published photographs of his body drew national attention. An all-white jury acquitted the two men, who in a 1956 Look magazine interview confessed to the killing. Till became an icon of the [[Civil rights movement|civil rights movement]].
+
+=== KEY: Emmitt_Smith_8fb6a9
+HEADWORD: Smith, Emmitt
+PERSON: yes
+LINK TARGETS: Dallas Cowboys | National Football League | Super Bowl
+ENTRY:
+American football running back. He played 15 seasons in the [[National Football League|NFL]], 13 of them with the [[Dallas Cowboys]]. He holds the league's career records for rushing yards, with 18,355, and rushing touchdowns, with 164. He won three [[Super Bowl|Super Bowls]] with the Cowboys in the 1990s and was inducted into the Pro Football Hall of Fame in 2010.
+
+=== KEY: Emmy_Noether_24ba10
+HEADWORD: Noether, Emmy
+PERSON: yes
+LINK TARGETS: Albert Einstein | David Hilbert | University of Göttingen
+ENTRY:
+German mathematician who made important contributions to abstract algebra and mathematical physics. She proved Noether's first and second theorems, which explain the connection between symmetry and conservation laws and play a fundamental role in mathematical physics. Born to a Jewish family in Erlangen, she worked without pay for seven years after her doctorate in 1907, as women were largely excluded from academic posts. In 1915 [[David Hilbert]] and Felix Klein invited her to the [[University of Göttingen]], where she developed theories of rings, fields and algebras. Her 1921 paper on ideals in commutative rings made elegant use of the ascending chain condition, and objects satisfying it are called Noetherian. In 1933 Germany's Nazi government dismissed Jews from university positions, and she moved to the United States, teaching at Bryn Mawr College in Pennsylvania. [[Albert Einstein]] and others described her as the most important woman in the history of mathematics.
+
+=== KEY: Emo_3335a5
+HEADWORD: Emo
+PERSON: no
+LINK TARGETS: Fall Out Boy | My Chemical Romance | Self-harm
+ENTRY:
+Genre of rock music combining hardcore punk with emotional, often confessional lyrics. It emerged from the mid-1980s Washington, D.C., hardcore scene, reached mainstream audiences in the early 2000s and remained popular into the mid-to-late 2000s through bands such as [[Fall Out Boy]] and [[My Chemical Romance]]. Purported links to depression and [[Self-harm|self-harm]] fueled a backlash, and some bands rejected the label.
+
+=== KEY: Emoji_68305e
+HEADWORD: Emoji
+PERSON: no
+LINK TARGETS: Unicode
+ENTRY:
+Pictogram, logogram or ideogram embedded in text and used in electronic messages. Its primary function is to supply emotional cues missing from typed conversation. The first emoji sets were created by Japanese companies in the late 1980s and 1990s, and emoji became popular worldwide in the 2010s after [[Unicode]] began encoding them. In 2015 Oxford Dictionaries named the face with tears of joy emoji its word of the year.
+
+=== KEY: Emotion_a3eb8a
+HEADWORD: Emotion
+PERSON: no
+LINK TARGETS: Age of Enlightenment | Aristotle | Charles Darwin | David Hume | William James
+ENTRY:
+Complex physical and mental state arising from neurophysiological and neuropsychological changes and variously associated with subjective experience, behavioral response, and a degree of pleasure or displeasure. There is no scientific consensus on a definition. Emotions are often intertwined with mood, temperament, personality, disposition, and creativity.
+
+Emotions are generally treated as multicomponential, involving subjective experience, cognitive processes, expressive behavior, psychophysiological changes, and instrumental behavior. At one time academics tried to identify emotion with a single component: [[William James]] with subjective experience, behaviorists with instrumental behavior, psychophysiologists with physiological changes. Later work has described emotion as consisting of all the components. The sociologist Peggy Thoits described emotions as involving physiological components, cultural or emotional labels (anger, surprise), expressive body actions, and the appraisal of situations. In Scherer's Component Process Model, five crucial elements must become coordinated and synchronized for a short period, driven by appraisal. Cognitive processes such as reasoning are often regarded as separate from emotional ones, a division between "thinking" and "feeling", though not all theories accept it. Emotions may be occurrences (panic) or dispositions (hostility), and short-lived (anger) or long-lived (grief).
+
+Major theories differ on how the components relate. The James-Lange theory holds that physiological arousal precedes and causes the emotional experience; the Cannon-Bard theory holds that experience and physiological response occur simultaneously; the Schachter-Singer two-factor theory adds cognitive labeling of arousal. Appraisal theories, such as those of Richard Lazarus, stress ongoing evaluation of an event's relevance, while constructionist theories treat emotions as predictions assembled from core affect and conceptual knowledge. Paul Ekman identified six basic emotions (anger, disgust, fear, happiness, sadness, surprise) as universal on the basis of consistent facial expressions, a view contested by constructionists who emphasize cultural variability. Some cross-cultural studies indicate that categories such as "anger" and "sadness" are not universal; others argue for universal bases.
+
+The word was coined in 1543 by the French humanist Étienne Dolet, in his translation of Cicero's *Tusculanae Disputationes*, and entered English in 1579. It became a theoretical term in the early 1800s, and the modern concept emerged around the 1830s. Earlier thinkers including [[Aristotle]], Plato, Descartes, Aquinas, and Hobbes proposed competing theories of passions and motivation. In the [[Age of Enlightenment]], [[David Hume]] argued that actions are motivated by "fears, desires, and passions". Theorizing about the evolutionary origin of emotion dates to [[Charles Darwin]]. Current research uses positron emission tomography and functional magnetic resonance imaging to study emotion in the brain, and clinical research examines the dynamics of emotions in daily life. An inability to express or perceive emotion is sometimes called alexithymia.
+
+=== KEY: Empathy_34d880
+HEADWORD: Empathy
+PERSON: no
+LINK TARGETS: Ancient Greek | Neuroscience
+ENTRY:
+Ability to perceive another person's perspective and respond to their experience. Empathy is a broad term that can be divided into cognitive, emotional (affective), somatic and spiritual empathy. Research covers its development, [[Neuroscience|neuroscience]] and genetics, cross-species empathy, and impairment, and some researchers quantify it with questionnaires. The basic capacity to recognize emotions in others may be innate and unconscious, whereas imagining oneself as another person is more sophisticated. Empathy exists on a spectrum, and research supports interventions that improve it. The English word derives from the [[Ancient Greek]] *empatheia* ("physical affection or passion").
+
+=== KEY: Emperor_Gaozu_of_Han_610155
+HEADWORD: Gaozu of Han
+PERSON: yes
+LINK TARGETS: Arranged marriage | Confucianism | Han dynasty | Qin Shi Huang | Qin dynasty | Xiongnu
+ENTRY:
+Founder and first emperor of the [[Han dynasty]] (r. 202–195 BC). Personal name Liu Bang. Born into a peasant family, he entered the [[Qin dynasty]] bureaucracy as a minor law enforcement officer, then became a rebel leader after the death of [[Qin Shi Huang]]. He forced the surrender of the Qin ruler Ziying in 206 BC. After Xiang Yu divided the former Qin Empire, Liu was forced to accept the poor, remote region of Bashu, present-day Sichuan and Chongqing; he later won the Battle of Gaixia in 202 BC and established the Han dynasty. He reduced taxes and corvée labor, promoted [[Confucianism]], and suppressed revolts by vassal rulers outside his clan. He initiated *heqin*, a system of [[Arranged marriage|arranged marriages]] with the [[Xiongnu]] to keep peace after the Han defeat at the Battle of Baideng in 200 BC.
+
+=== KEY: Emperor_Meiji_703c74
+HEADWORD: Meiji
+PERSON: yes
+LINK TARGETS: Boshin War | Empire of Japan | First Sino-Japanese War | Meiji Restoration | Russo-Japanese War | Samurai | Tokugawa shogunate
+ENTRY:
+Emperor of Japan (r. 1867–1912). Personal name Mutsuhito. His reign saw Japan transform from a feudal state under the [[Tokugawa shogunate]] into a major imperial power. His accession triggered the [[Boshin War]], in which [[Samurai|samurai]] defeated the shogunate and restored power in his name. The [[Meiji Restoration]] proclaimed the [[Empire of Japan]] in 1868, beginning the Meiji era. Documents of his reign include the Meiji Constitution of 1889 and the Imperial Rescript on Education of 1890. Military victories over China in the [[First Sino-Japanese War]] and over Russia in the [[Russo-Japanese War]] followed, and Taiwan and Korea were annexed in 1895 and 1910, respectively.
+
+=== KEY: Emperor_Taizong_of_Tang_87be2d
+HEADWORD: Taizong of Tang
+PERSON: yes
+LINK TARGETS: Corruption | Han dynasty | Sui dynasty | Tang dynasty
+ENTRY:
+Second emperor of the [[Tang dynasty]] of China (r. 626–649). Personal name Li Shimin. He is traditionally regarded as a co-founder of the dynasty for encouraging his father to rebel against the [[Sui dynasty]] in 617. His Reign of Zhenguan is considered a golden age, and his reign became the model by which later emperors were measured. He asked officials to be loyal to policies rather than people, to eliminate [[Corruption|corruption]]. In 630 his general Li Jing defeated the Eastern Turks, and Taizong took the title Khan of Heaven. Tang armies annexed Karakhoja in 640, Karasahr in 644 and Kucha in 648. The empire covered most territory once held by the [[Han dynasty]], as well as parts of modern-day Korea, Vietnam, Russia, Mongolia, Xinjiang and Central Asia.
+
+=== KEY: Emperor_Taizu_of_Song_009425
+HEADWORD: Taizu of Song
+PERSON: yes
+LINK TARGETS: Coup d'état | Song dynasty
+ENTRY:
+Founding emperor of the [[Song dynasty]] of China (r. 960–976). Personal name Zhao Kuangyin. A distinguished general of the Later Zhou dynasty, he came to power after staging a [[Coup d'état|coup]] and forcing the last Later Zhou ruler to abdicate. He conquered Southern Tang, Later Shu, Southern Han and Jingnan, reunifying most of China proper. To strengthen his control he reduced the power of military generals and relied on civilian officials. He was succeeded by his younger brother, Zhao Kuangyi (Emperor Taizong).

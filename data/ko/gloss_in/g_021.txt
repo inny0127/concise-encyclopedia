@@ -1,0 +1,755 @@
+=== KEY: Caesar_cipher_cbf372
+HEADWORD: Caesar cipher
+PERSON: no
+LINK TARGETS: Cryptography | Encryption | Julius Caesar
+ENTRY:
+One of the simplest and most widely known [[Encryption|encryption]] techniques in [[Cryptography|cryptography]], in which each letter is replaced by a letter a fixed number of positions along the alphabet. With a shift of three, A becomes D. The method is named after [[Julius Caesar]], who used it in his private correspondence. Shifts wrap around from Z to A, and the shift serves as the key. As a single-alphabet substitution, it is easily broken and offers essentially no communications security. Its ROT13 variant, a shift of 13, remains in use for mild obfuscation.
+
+=== KEY: Caesar_salad_2a4683
+HEADWORD: Caesar salad
+PERSON: no
+LINK TARGETS: Julia Child | Julius Caesar | Lemon | Salad | Tijuana
+ENTRY:
+Green [[Salad|salad]] of romaine lettuce and croutons, commonly dressed with [[Lemon|lemon]] juice, olive oil, eggs, Worcestershire sauce, anchovies, garlic, Parmesan and black pepper. The Italian immigrant restaurateur Caesar Cardini created it on July 4, 1924, at his restaurant Caesar's in [[Tijuana]], Mexico, when a holiday rush left the kitchen short of ingredients. It was prepared tableside and is still prepared that way at the original restaurant. A popular myth credits [[Julius Caesar]], but the salad is generally attributed to Cardini. [[Julia Child]] said she ate one at Cardini's in the 1920s, made with whole romaine leaves.
+
+=== KEY: Caesarean_section_5eabfe
+HEADWORD: Caesarean section
+PERSON: no
+LINK TARGETS: Anesthesia | Julius Caesar | Surgery | World Health Organization
+ENTRY:
+Surgical delivery of one or more babies through an incision in the mother's abdomen, also called C-section. It is often performed when vaginal delivery would risk injury or death, for reasons including obstructed labor, twin pregnancy, breech birth and placental problems. The [[Surgery|operation]] typically takes 45 minutes to an hour, under a spinal block or [[Anesthesia|general anesthesia]]. The [[World Health Organization|WHO]] recommends it only when medically necessary. About 23 million were performed globally in 2012. The claim that [[Julius Caesar]] was born this way is probably a misconception, since his mother survived his birth.
+
+=== KEY: Caesium_137_3bc173
+HEADWORD: Caesium-137
+PERSON: no
+LINK TARGETS: Half-life | Nuclear fission | Radiation therapy | Uranium-235
+ENTRY:
+Radioactive isotope of caesium that forms as one of the more common [[Nuclear fission|fission]] products of [[Uranium-235|uranium-235]] in nuclear reactors and weapons. Its [[Half-life|half-life]] is about 30.04 years, and it decays by beta emission to stable barium-137. Its gamma rays, at 0.6617 MeV, come from the metastable barium-137m. Because its compounds are water-soluble salts and the element becomes volatile at high temperature, it spreads widely after release, as in the Chernobyl accident. Caesium-137 is used to calibrate radiation detectors, in [[Radiation therapy|radiation therapy]], and in industrial gauges and flow meters.
+
+=== KEY: Caesium_67e4fa
+HEADWORD: Caesium
+PERSON: no
+LINK TARGETS: Alkali metal | Atomic clock | Caesium-137 | Chemical element | Gustav Kirchhoff | Spectroscopy
+ENTRY:
+[[Chemical element]] with symbol Cs and atomic number 55, a soft, silvery-golden [[Alkali metal|alkali metal]] with a melting point of 28.5 °C. It is one of only five elemental metals that are liquid at or near room temperature, and it is pyrophoric, reacting with water even at −116 °C. Discovered in 1860 by Robert Bunsen and [[Gustav Kirchhoff]] through [[Spectroscopy|flame spectroscopy]], it was first used as a getter in vacuum tubes and in photoelectric cells. Since 1967 the second has been defined by a hyperfine transition of caesium-133 atoms, and caesium is widely used in highly accurate [[Atomic clock|atomic clocks]]. Its largest modern application is as caesium formate in drilling fluids. The radioactive isotope [[Caesium-137]] is used in medical applications, industrial gauges and hydrology. The name comes from the Latin *caesius*, meaning bluish gray.
+
+=== KEY: Caffeine_17e78a
+HEADWORD: Caffeine
+PERSON: no
+LINK TARGETS: Africa | Alkaloid | Camellia sinensis | Coffee | East Asia | Stimulant | Tea
+ENTRY:
+Central nervous system [[Stimulant|stimulant]] of the methylxanthine class, and the most commonly consumed psychoactive drug globally. It is a bitter, white crystalline purine [[Alkaloid|alkaloid]] related to the adenine and guanine bases of DNA and RNA. It occurs in the seeds, leaves and fruits of plants native to [[Africa]], [[East Asia]] and South America, where it deters herbivores. Its main human sources are the leaves of [[Camellia sinensis]] ([[Tea|tea]]) and [[Coffee|coffee]] beans, and it works largely by blocking adenosine receptors. Some people experience sleep disruption or anxiety from caffeine, and regular use can produce mild dependence, with withdrawal symptoms such as sleepiness, headache and irritability. The European Food Safety Authority considers up to 400 mg a day unlikely to raise safety concerns for non-pregnant adults.
+
+=== KEY: Cahokia_2a67d0
+HEADWORD: Cahokia
+PERSON: no
+LINK TARGETS: Mexico | Mississippi River | St. Louis | UNESCO | World Heritage Site
+ENTRY:
+Archaeological site of a pre-Columbian city in southwestern Illinois, directly across the [[Mississippi River]] from present-day [[St. Louis]]. The city existed from c. 1050 to c. 1350 and was the largest and most influential urban settlement of the Mississippian culture, which developed societies across much of the central and southeastern United States from around 1000. At its apex, around 1100, it covered about 6 square miles (16 km²) and had a population of between 15,000 and 20,000 people. Its original name is unknown; the mounds were later named after the Cahokia tribe, a historic Illiniwek people living there when French explorers arrived in the 17th century. The park covers 2,200 acres and contains about 80 manmade mounds, the largest pre-Columbian earthen construction in the Americas north of [[Mexico]]. It is one of 26 [[UNESCO]] [[World Heritage Site|World Heritage Sites]] in the United States and a National Historic Landmark.
+
+=== KEY: Cai_Lun_5af87f
+HEADWORD: Cai Lun
+PERSON: yes
+LINK TARGETS: Bamboo | Eunuch | Han dynasty | Luoyang | Paper
+ENTRY:
+Chinese [[Eunuch|eunuch]] court official of the [[Han dynasty|Eastern Han dynasty]], traditionally credited with improving [[Paper|papermaking]].
+
+In AD 105 he substantially improved the process by using tree bark, hemp waste, old rags and fishnets. The new paper quickly displaced [[Bamboo]] and wooden slips for writing, and Cai received wealth and fame throughout the empire. Earlier paper had existed since the 3rd century BC, so his contribution is usually described as an innovation rather than an invention. He served at the imperial court in [[Luoyang]] and was made a marquis in AD 114. After his ally, Empress Dowager Deng, died, he was ordered to the Ministry of Justice over his role in the death of Consort Song. Expecting a death sentence, he took his own life. He is revered in ancestor worship and deified as the god of papermaking, and he is the only early figure among China's Four Great Inventions whose name is known.
+
+=== KEY: Caiman_b5be19
+HEADWORD: Caiman
+PERSON: no
+LINK TARGETS: Alligator | Central America | Mangrove | Marsh | South America | Swamp
+ENTRY:
+Crocodilian reptile of the subfamily Caimaninae, native to [[Central America]] and [[South America]]. Caimans inhabit [[Marsh|marshes]], [[Swamp|swamps]], lakes and [[Mangrove|mangrove]] rivers and are fairly nocturnal. Most species have an average maximum weight of 6 to 40 kg (13 to 88 lb), but the black caiman (*Melanosuchus niger*) can grow more than 4 m (13 ft) long and weigh more than 450 kg (990 lb), making it the largest caiman species. Caimans differ from their closest relatives, the [[Alligator|alligators]], in lacking a bony septum between the nostrils and in having longer, sharper teeth. Their diet largely consists of fish, and humans are their main predators because of hunting for meat and skin. Females build a large nest and lay between 10 and 50 eggs, which hatch within about six weeks.
+
+=== KEY: Cain_and_Abel_75d7e0
+HEADWORD: Cain and Abel
+PERSON: no
+LINK TARGETS: Adam and Eve | Book of Genesis | Sacrifice
+ENTRY:
+Brothers, the first two sons of [[Adam and Eve]] in the [[Book of Genesis]]. Cain, the firstborn, was a farmer, and Abel was a shepherd. Both made [[Sacrifice|sacrifices]] to God, but God favored Abel's offering over Cain's. Cain killed Abel, and when God asked where his brother was, he replied, "Am I my brother's keeper?" God judged it murder and cursed Cain to a life of wandering, but gave him a mark to protect him. Cain settled in the land of Nod, where he built a city. Jewish, Muslim and Christian traditions regard Cain as the first murderer and liar and Abel as the first victim. The brothers have become enduring symbols of fratricide and sibling conflict in art, literature, theater, music and film.
+
+=== KEY: Cairo_b181c4
+HEADWORD: Cairo
+PERSON: no
+LINK TARGETS: Al-Azhar University | Arab League | Egypt | Fatimid Caliphate | Mamluk | Mars | Nile | World Heritage Site
+ENTRY:
+City (pop. more than 9.8 million), capital and largest city of [[Egypt]], near the head of the [[Nile]] Delta.
+
+Greater Cairo has over 22 million people and is the largest urban agglomeration in Africa, the Arab world, and the Middle East. The area has been inhabited for c. 6000 years, and the Giza pyramid complex and the ancient cities of Memphis and Heliopolis lie within the modern city. The predecessor city was Fustat. Cairo was founded in 969 by the Fatimid caliph al-Mu'izz and became the seat of the [[Fatimid Caliphate]] in 973. Its Arabic name, al-Qāhirah, means 'the Vanquisher' or 'the Conqueror'; it is also said to refer to the planet [[Mars]], called 'the Conquering Star' in Arabic, rising at the city's founding. During the Ayyubid and [[Mamluk]] periods (12th–16th centuries) it superseded Fustat as the main urban center.
+
+Called 'the city of a thousand minarets' for its Islamic architecture, Cairo has a historic center that was designated a [[World Heritage Site]] in 1979. Landmarks include the 12th-century Citadel of Saladin. The city is Egypt's center of finance, commerce, academics, and the arts. It is home to [[Al-Azhar University]], Egypt's oldest university and one of the oldest in the world, and to the oldest and largest film and music industry in Africa and the Arab world. The [[Arab League]] has its headquarters there, and the World Health Organization and several other UN agencies maintain regional offices.
+
+Cairo suffers from high levels of pollution and traffic. Its metro, opened in 1987, is the oldest in Africa and carries over 1 billion passenger rides a year. The International Monetary Fund ranked its economy first in Africa in 2025.
+
+=== KEY: Caitlyn_Jenner_cd5b03
+HEADWORD: Jenner, Caitlyn
+PERSON: yes
+LINK TARGETS: Decathlon | Montreal | Olympic Games | Republican Party (United States) | Transgender
+ENTRY:
+American media personality and retired [[Decathlon|decathlete]]. Jenner won the men's decathlon at the 1976 Summer [[Olympic Games|Olympics]] in [[Montreal]]. Jenner later established a career in television, including the reality series *Keeping Up with the Kardashians*. Jenner publicly came out as transgender in April 2015 and is a transgender rights activist, although other LGBTQ+ activists have criticized Jenner's views on [[Transgender|transgender]] issues. Jenner ran as a [[Republican Party (United States)|Republican]] in the 2021 California gubernatorial recall election, finishing 13th with one percent of the vote.
+
+=== KEY: Cake_41a7f9
+HEADWORD: Cake
+PERSON: no
+LINK TARGETS: Baking powder | Dessert | Flour | Great Depression | Molasses | Renaissance | Spain
+ENTRY:
+Baked [[Dessert|dessert]] made by combining [[Flour|flour]] with a liquid, a fat or both, usually with a leavening agent. The word *cake* is of Viking origin, from Old Norse *kaka*. The oldest cakes were essentially sweetened breads. The most common ingredients include flour, sugar, eggs, fat such as butter or oil, and a leavening agent such as baking soda or [[Baking powder]]. Sponge cakes, leavened with beaten eggs, originated during the [[Renaissance]], possibly in [[Spain]]. Cakes became fashionable in the United States in the 1920s as women entered the labor force. During the [[Great Depression]], a surplus of [[Molasses]] led one company to patent a cake-bread mix, establishing the first line of boxed cake. When mix sales fell in the 1950s, marketers shifted the creative task to frosting and decorating.
+
+=== KEY: Calabash_0bafc2
+HEADWORD: Calabash
+PERSON: no
+LINK TARGETS: Cucurbitaceae | Vegetable
+ENTRY:
+Gourd vine (*Lagenaria siceraria*) of the family [[Cucurbitaceae]], native to tropical Africa and grown for its fruit. Also called bottle gourd, it is cultivated across the tropics. Young fruits are eaten as a [[Vegetable|vegetable]], while mature fruits are dried and used as ladles, bowls, beverage containers or musical instruments. It was one of the world's first cultivated plants grown not primarily for food but for use as containers. Calabash gourds can grow to great size; one grown in Kentucky in 2001 weighed 111.5 kg (246 lb). The name is sometimes confused with that of the unrelated calabash tree.
+
+=== KEY: Calabria_cb09c7
+HEADWORD: Calabria
+PERSON: no
+LINK TARGETS: Byzantine Empire | Ionian Sea | Italy | Silk
+ENTRY:
+Region of southern [[Italy]], a peninsula between the [[Ionian Sea]] and the Tyrrhenian Sea. It has a population of 1,827,571 across 15,221.90 sq km, and Catanzaro is its capital. Greek colonies were founded on its coast from the 8th century BC, and the region was the heart of *Magna Graecia*. After the Gothic War it was a [[Byzantine Empire|Byzantine]] dominion for five centuries, and the Byzantines made it the main [[Silk|silk]] production area in Europe. Three historical ethnolinguistic minorities remain, speaking Calabrian Greek, Albanian and Occitan. It has three national parks, including Pollino, the largest in Italy.
+
+=== KEY: Calcite_f9c093
+HEADWORD: Calcite
+PERSON: no
+LINK TARGETS: Calcium carbonate | Limestone | Mohs scale
+ENTRY:
+Carbonate mineral and the most stable form of [[Calcium carbonate]] (CaCO₃). It is very common, particularly as a component of [[Limestone|limestone]], and defines hardness 3 on the [[Mohs scale]]. Calcite is usually white or colorless, though impurities can tint it gray, red, orange or other colors. Large calcite crystals are used in optical equipment. Its specific gravity is 2.71. The related mineral aragonite changes to calcite over days or less at temperatures above 300 °C.
+
+=== KEY: Calcium_a9640c
+HEADWORD: Calcium
+PERSON: no
+LINK TARGETS: Alkaline earth metal | Aluminium | Calcium carbonate | Humphry Davy | Iron | Limestone | Neurotransmitter | Steelmaking
+ENTRY:
+Reactive [[Alkaline earth metal|alkaline earth metal]], chemical element of atomic number 20 (symbol Ca). Calcium is the fifth most abundant element in Earth's crust and the third most abundant metal, after [[Iron]] and [[Aluminium]]. Its name comes from the Latin *calx* ("lime"), obtained from heating [[Limestone]]. Its most common compound on Earth is [[Calcium carbonate]], found in limestone and the fossils of early sea life. [[Humphry Davy]] isolated pure calcium in 1808 by electrolysis of its oxide and named the element. The metal melts at 842 °C. Calcium compounds are used in cement, paper, soaps and food supplements, and small amounts of the metal serve as an alloy in [[Steelmaking|steelmaking]]. Calcium is the most abundant metal in the human body, where its ions play a vital role in signal transduction, [[Neurotransmitter|neurotransmitter]] release, muscle contraction and bone formation.
+
+=== KEY: Calcium_carbonate_35da40
+HEADWORD: Calcium carbonate
+PERSON: no
+LINK TARGETS: Calcite | Calcium oxide | Chalk | Limestone | Paper | Pearl
+ENTRY:
+Common compound (CaCO₃) found in rocks as the minerals [[Calcite|calcite]] and aragonite. It occurs in [[Chalk|chalk]] and [[Limestone|limestone]], eggshells, shells, skeletons and [[Pearl|pearls]]. Limescale, produced when calcium ions in hard water react with carbonate ions, is also calcium carbonate. In the carbon cycle it sequesters large amounts of carbon in geological formations, and acidic water entering a deposit can form caves with stalactites and stalagmites. Heating calcium carbonate releases carbon dioxide and leaves [[Calcium oxide|calcium oxide]]. It is used as agricultural lime to correct soil chemistry, as a calcium supplement or antacid, and as a filler in [[Paper|paper]] and plastic. Excess intake can cause hypercalcemia and digestive problems.
+
+=== KEY: Calcium_chloride_4b8771
+HEADWORD: Calcium chloride
+PERSON: no
+LINK TARGETS: Calcium hydroxide | Hydrochloric acid | Tofu
+ENTRY:
+Inorganic salt (CaCl₂), a white crystalline solid that is highly soluble in water. It is made by neutralizing [[Hydrochloric acid]] with [[Calcium hydroxide]]. Its hydrates are used mainly for de-icing and dust control, and solutions can prevent freezing at temperatures as low as −52 °C (−62 °F). On dirt roads, a concentrated solution keeps a liquid layer that suppresses dust, reducing the need for grading by as much as 50% and fill-in materials by as much as 80%. The anhydrous salt is hygroscopic and deliquescent, so it serves as a desiccant. In food, it is used as a firming agent in canned vegetables, such as tomatoes and cucumber pickles, and in firming soybean curds into [[Tofu]]. It was apparently discovered in the 15th century but was not studied properly until the 18th.
+
+=== KEY: Calcium_hydroxide_2e9a22
+HEADWORD: Calcium hydroxide
+PERSON: no
+LINK TARGETS: Calcium oxide | Sewage treatment
+ENTRY:
+Inorganic compound, Ca(OH)₂, traditionally called slaked lime. It is produced when [[Calcium oxide|quicklime]] is mixed with water and forms a colorless crystal or white powder. Approximately 125 million tons are produced worldwide each year. Its saturated solution is called limewater, which turns milky when carbon dioxide is passed through it. Calcium hydroxide is used to prepare lime mortar, as a flocculant in water and [[Sewage treatment|sewage treatment]], and as a neutralizing agent in municipal wastewater treatment.
+
+=== KEY: Calcium_oxide_ff552e
+HEADWORD: Calcium oxide
+PERSON: no
+LINK TARGETS: Calcium hydroxide | Cement | Limestone
+ENTRY:
+Quicklime, a white, caustic, alkaline solid of formula CaO. Also called burnt lime, it is made by heating [[Limestone|limestone]] or seashells above 825 °C in a lime kiln to drive off carbon dioxide. It is a key ingredient in [[Cement|cement]] and releases heat when it hydrates to [[Calcium hydroxide|calcium hydroxide]], a property used in self-heating food cans. When heated to 2,400 °C it emits an intense glow, called limelight, which was used in theatrical productions before electric lighting. Annual worldwide production is around 283 million tonnes, with China producing around 170 million.
+
+=== KEY: Calculator_cc84fa
+HEADWORD: Calculator
+PERSON: no
+LINK TARGETS: Smartphone | Trigonometry
+ENTRY:
+Portable electronic device for performing calculations, from basic arithmetic to complex mathematics. The first solid-state electronic calculator was created in the early 1960s, and pocket-sized devices appeared in the 1970s after the introduction of the first "calculator on a chip." Integrated circuits reduced their size and cost, and by the end of that decade basic calculators were affordable and common in schools. Scientific calculators perform [[Trigonometry|trigonometric]] and statistical calculations, and graphing calculators plot functions. Calculator functions are now included in most [[Smartphone|smartphones]], making dedicated hardware calculators less common than they once were. In 1986 calculators represented an estimated 41% of the world's general-purpose hardware capacity to compute information; by 2007 this had fallen to less than 0.05%.
+
+=== KEY: Calculus_0349a5
+HEADWORD: Calculus
+PERSON: no
+LINK TARGETS: Archimedes | Differential calculus | Fundamental theorem of calculus | Gottfried Wilhelm Leibniz | Integral | Isaac Newton | Limit (mathematics) | Mathematics
+ENTRY:
+Branch of [[Mathematics|mathematics]] that studies continuous change.
+
+Originally called infinitesimal calculus, it has two major branches. [[Differential calculus]] studies instantaneous rates of change and the slopes of curves, through the derivative of a function; [[Integral|integral calculus]] studies the accumulation of quantities and the areas under or between curves. The two are related by the [[Fundamental theorem of calculus]], which shows that differentiation and integration are inverse processes. Calculus relies on the convergence of infinite sequences and series to a well-defined [[Limit (mathematics)|limit]]. It generalizes elementary geometry and algebra: instead of the slope of a straight line it can describe the changing slope of a complicated curve, and it can find the distance traveled by an object whose velocity varies. For f(x) = x², the derivative is f′(x) = 2x.
+
+The method of exhaustion, used by Eudoxus and [[Archimedes]] to approximate areas and volumes, is counted among its origins. In the late 17th century [[Isaac Newton]] and [[Gottfried Wilhelm Leibniz]] each independently formulated infinitesimal calculus. The infinitesimal approach fell out of favor in the 19th century because the notion was difficult to make precise; the epsilon-delta approach to limits replaced it and became the standard approach during the 20th century, though infinitesimals were revived by non-standard analysis and smooth infinitesimal analysis.
+
+The Latin word *calculus* means 'pebble', recalling the counters used on Roman counting boards. The term is also used for other systems of computation, such as the calculus of variations and the lambda calculus.
+
+Calculus is used throughout physics and engineering, including classical mechanics and electromagnetism, and in chemistry, biology, medicine, and economics, wherever variable quantities change with time.
+
+=== KEY: Calculus_of_variations_254c43
+HEADWORD: Calculus of variations
+PERSON: no
+LINK TARGETS: Isaac Newton | Johann Bernoulli | Joseph-Louis Lagrange | Leonhard Euler | Mathematical analysis
+ENTRY:
+Field of [[Mathematical analysis|mathematical analysis]] that uses variations, or small changes in functions, to find the maxima and minima of functionals. Solutions are often found with the Euler–Lagrange equation. A classic problem is the shortest curve between two points on a surface, called a geodesic. Fermat's principle, that light follows the path of shortest optical length, is a related problem. The field began with [[Isaac Newton]]'s minimal resistance problem, solved in 1685 and published in his *Principia* in 1687, and with the brachistochrone problem posed by [[Johann Bernoulli]] in 1696. [[Leonhard Euler]] first elaborated the subject from 1733, and [[Joseph-Louis Lagrange]] contributed greatly to its theory. Euler renamed the subject the calculus of variations in 1756.
+
+=== KEY: Caldera_a31dbc
+HEADWORD: Caldera
+PERSON: no
+LINK TARGETS: Magma chamber | Sinkhole
+ENTRY:
+Large, cauldron-like volcanic depression formed when a [[Magma chamber|magma chamber]] empties and the ground above collapses into it. The depression may be dozens of kilometers across. Although often called a crater, a caldera is a type of [[Sinkhole|sinkhole]], formed by subsidence rather than explosion or impact. Caldera-forming collapses are rare, with nine known between 1911 and 2022; the most recent were at Kīlauea, Hawaii, in 2018 and Hunga Tonga–Hunga Haʻapai in 2022. The term comes from Spanish *caldera*, meaning cooking pot.
+
+=== KEY: Calendar_8ff922
+HEADWORD: Calendar
+PERSON: no
+LINK TARGETS: Bronze Age | Gregorian calendar | Islamic calendar | Julian calendar | Julius Caesar | Muhammad | Unix time
+ENTRY:
+System of organizing time by naming periods, typically days, weeks, months, and years. Periods are usually, though not necessarily, synchronized with the cycle of the Sun or the Moon.
+
+The word comes from *kalendae*, the first day of the month in the Roman calendar, related to the Latin verb *calare*, 'to call out', for the 'calling' of the new moon when first seen. The first recorded physical calendars were the [[Bronze Age]] Egyptian and Sumerian calendars. Most pre-modern calendars were lunisolar, adding an intercalary month occasionally to stay aligned with the solar year.
+
+[[Julius Caesar]] reformed the Roman calendar in 46 BC. His [[Julian calendar]] followed an algorithm of a leap day every four years rather than observation of the new moon. The [[Gregorian calendar]], introduced in 1582, corrected most of the remaining difference between the Julian calendar and the solar year, and became the international civil standard. The [[Islamic calendar]] rests on the prohibition of intercalation by [[Muhammad]], producing an observation-based lunar calendar that shifts relative to the seasons.
+
+Calendars fall into three main types: lunar (the Islamic calendar), solar (the Persian calendar), and lunisolar (the traditional Chinese calendar, the Hindu calendar, and the Hebrew calendar). The simplest systems count time from a reference date, or epoch, as in [[Unix time]]; most others combine year, month, and day. Proposals for reform, such as the World Calendar and the International Fixed Calendar, have failed to gain traction because of the loss of continuity and the upheaval they would involve.
+
+=== KEY: Calgary_1e4eb0
+HEADWORD: Calgary
+PERSON: no
+LINK TARGETS: Alberta | Edmonton | Rodeo | Scotland
+ENTRY:
+City (pop., 2021: 1,306,784) in southern [[Alberta]], Canada, the province's largest city. Calgary lies at the confluence of the Bow and Elbow rivers, where the Rocky Mountain foothills meet the Canadian Prairies. Its metropolitan population is 1,481,806, and the city lies 280 km (170 mi) south of the provincial capital, [[Edmonton]]. It was named after Calgary Castle on the Isle of Mull in [[Scotland]]. Its economy spans energy, financial services, technology and tourism, and it hosted the 1988 Winter Olympics, the first Canadian city to do so. The annual Calgary Stampede, a ten-day event since 1912, features [[Rodeo|rodeo]] competitions and parades.
+
+=== KEY: Cali_e3bed2
+HEADWORD: Cali
+PERSON: no
+LINK TARGETS: Colombia | Inca Empire
+ENTRY:
+City (pop., 2026: 2.3 million), capital of Valle del Cauca department, southwestern [[Colombia]]. Cali is the main urban and economic center of southern Colombia and spans 560.3 sq km. Its name derives from the Calima, local Amerindians. Spanish explorer Sebastián de Belalcázar founded the city on July 25, 1536, and moved it to its present location in 1537. Because Cali lay outside the [[Inca Empire]], Belalcázar claimed it as his own territory. The city hosted the 1971 Pan American Games and the 2013 edition of the World Games, and the 2022 World Athletics U20 Championships. It has one of Colombia's fastest-growing economies.
+
+=== KEY: California_356779
+HEADWORD: California
+PERSON: no
+LINK TARGETS: Arizona | Baja California | Los Angeles | Nevada | Oregon | Silicon Valley
+ENTRY:
+Most populous U.S. state, on the Pacific coast of the western United States. It is bordered by [[Oregon]] to the north, [[Nevada]] to the east, [[Arizona]] to the southeast and the Mexican state of [[Baja California]] to the south. With a population of over 39 million across 163,696 square miles (423,970 sq km), Spanish colonization began in the 16th and 17th centuries, and the area became part of Mexico in 1821. After the U.S. conquest of California in the Mexican-American War, it was ceded to the United States in 1848, the year the gold rush began. It was admitted as the 31st state in 1850 as a free state. [[Los Angeles]] is its largest city. With an estimated 2025 gross state product of $4.296 trillion, its economy is the largest of any U.S. state. [[Silicon Valley]], in the San Francisco Bay Area, is the center of the global technology industry.
+
+=== KEY: Californium_a5ae5d
+HEADWORD: Californium
+PERSON: no
+LINK TARGETS: Actinide | California | Half-life
+ENTRY:
+Synthetic [[Actinide|actinide]] element, symbol Cf, atomic number 98. First synthesized in 1950 at what was then the University of California Radiation Laboratory, it was named after the university and the U.S. state of [[California]]. Its most stable isotope, californium-251, has a [[Half-life|half-life]] of 898 years, while ²⁵²Cf, the most commonly used, has a half-life of about 2.645 years. Certain isotopes emit neutrons, so californium is used to help start up nuclear reactors and as a neutron source in materials studies. Users must account for radiological concerns, because the element bioaccumulates in skeletal tissue and can disrupt the formation of red blood cells.
+
+=== KEY: Caligula_be66cd
+HEADWORD: Caligula
+PERSON: yes
+LINK TARGETS: Julio-Claudian dynasty | Roman emperor | Tiberius
+ENTRY:
+[[Roman emperor]] (r. AD 37–41). Gaius Julius Caesar Augustus Germanicus, the son of the general Germanicus and Agrippina the Elder, was the third emperor of the [[Julio-Claudian dynasty]]. He succeeded [[Tiberius]] and was assassinated in a conspiracy of Praetorian officers, senators and courtiers. Most surviving sources were written by senators and nobles long after his reign, portraying him as cruel and extravagant, and some historians dismiss many of the allegations as exaggeration or mockery. He pursued public works, including the Aqua Claudia and Anio Novus aqueducts, and annexed Mauretania as a province.
+
+=== KEY: Calipers_03f377
+HEADWORD: Calipers
+PERSON: no
+LINK TARGETS: Forestry | Length | Mechanical engineering | Medicine | Metalworking | Woodworking
+ENTRY:
+Instrument for measuring the linear dimensions of an object or hole, such as its [[Length|length]], width, thickness, diameter or depth. Calipers may read out on a scale, a dial or a digital display, or may be simple compass-like tools with no scale, whose span is transferred to another measuring device. Types include inside calipers for internal size, outside calipers for external size, and divider calipers, which mark out locations in [[Metalworking|metalworking]]. The word derives from a corrupt form of *caliber*. The earliest known caliper, with a fixed and a movable jaw, was found in the Greek Giglio wreck dating to the 6th century BC. The modern vernier caliper was invented by Pierre Vernier, as an improvement on the nonius of Pedro Nunes. Calipers are used in [[Mechanical engineering|mechanical engineering]], [[Woodworking|woodworking]], [[Forestry|forestry]], science and [[Medicine|medicine]].
+
+=== KEY: Caliphate_1be0e0
+HEADWORD: Caliphate
+PERSON: no
+LINK TARGETS: Abbasid Caliphate | Abu Bakr al-Baghdadi | Islamic State | Muhammad | Ottoman Empire | Rashidun Caliphate | Umayyad Caliphate
+ENTRY:
+Islamic form of government under a caliph, a political-religious successor to the Prophet [[Muhammad]]. Three major medieval caliphates succeeded one another: the [[Rashidun Caliphate]] (632–661), the [[Umayyad Caliphate]] (661–750) and the [[Abbasid Caliphate]]. The [[Ottoman Empire|Ottoman]] rulers claimed caliphal authority from 1517 until the caliphate was formally abolished in 1924 as part of Turkey's secularization. Sunni Islam holds that a caliph should be elected, while Shia Muslims believe a caliph should be an imam chosen by God from the Ahl al-Bayt. In 2014 the [[Islamic State]], led by [[Abu Bakr al-Baghdadi]], declared a caliphate in Iraq and Syria; such claims have been widely rejected among Muslims.
+
+=== KEY: Calisthenics_0bfc7f
+HEADWORD: Calisthenics
+PERSON: no
+LINK TARGETS: Alexander the Great | Ancient Greece | Han dynasty
+ENTRY:
+Form of strength training that uses body weight as resistance for multi-joint movements, requiring little or no equipment. Also called bodyweight exercises. It can enhance strength, power, endurance, speed, flexibility, coordination and balance, using simple movements such as pushing, pulling, squatting and balancing. Common exercises include push-ups, pull-ups and sit-ups. The word comes from the Greek *kállos* ("beauty") and *sthénos* ("strength"). The practice was recorded in [[Ancient Greece]], including by the armies of [[Alexander the Great]] and the Spartans, and in ancient China, where [[Han dynasty]] physicians prescribed it for health.
+
+=== KEY: Call_of_Duty_4_Modern_Warfare_030c3d
+HEADWORD: Call of Duty 4: Modern Warfare
+PERSON: no
+LINK TARGETS: Call of Duty | Microsoft Windows | PlayStation 3 | World War II | Xbox 360
+ENTRY:
+2007 first-person shooter video game. Developed by Infinity Ward and published by Activision, it is the fourth main installment in the [[Call of Duty|Call of Duty series]] and breaks away from the [[World War II]] setting of earlier entries to a modern military setting. Released in November 2007 for [[PlayStation 3]], [[Xbox 360]] and [[Microsoft Windows]], it was critically acclaimed and was the top-selling game worldwide in 2007, selling around seven million copies by January 2008.
+
+=== KEY: Call_of_Duty_b8aa65
+HEADWORD: Call of Duty
+PERSON: no
+LINK TARGETS: Call of Duty 4: Modern Warfare | Guinness World Records | World War II
+ENTRY:
+First-person shooter video game series and media franchise, published by Activision from 2003. Developed first by Infinity Ward and later by Treyarch, Sledgehammer Games and Raven Software, the series originally focused on [[World War II]] settings. [[Call of Duty 4: Modern Warfare]] (2007), which introduced a modern setting, became its breakthrough. As of October 2023 it had sold over 500 million copies and generated $30 billion in revenue by 2022. [[Guinness World Records]] has verified it as the best-selling first-person shooter series.
+
+=== KEY: Calligraphy_d2e863
+HEADWORD: Calligraphy
+PERSON: no
+LINK TARGETS: Book of Kells | Brush | Li Si | Pen | Qin Shi Huang | Shang dynasty | Wang Xizhi
+ENTRY:
+Fine handwriting as a visual art, in which lettering or characters are designed and executed with a [[Pen|pen]], [[Brush|ink brush]], or other writing instrument. The word comes from Ancient Greek *kalligraphía*, 'beautiful writing'. It is a prominent art in East Asia and the Islamic world, where its form is often influenced by the meaning of the text.
+
+In China the oldest known characters, oracle bone script, were carved on ox scapulae and tortoise plastrons under the [[Shang dynasty]] for divination. Bronzeware and large seal scripts followed. Around 220 BC the emperor [[Qin Shi Huang]] imposed reforms including [[Li Si]]'s unification of characters into a set of 3300 standardized small seal characters; clerical script was also authorized under him. The traditional regular script (*kǎi shū*), largely finalized by Zhong You, remains in use today, and printing encouraged the stabilization of character shapes. Masters such as [[Wang Xizhi]] exemplified spontaneous expression in running and cursive scripts. Chinese calligraphy is called *shūfǎ*, Japanese *shodō*, and Korean *seoye*; each remains highly regarded. Traditional East Asian writing uses the Four Treasures of the Study: ink brush, inkstick, paper, and inkstone.
+
+In the Islamic world calligraphy flourished under Ottoman patronage from the 16th century, with scripts such as naskh and nasta'liq used for copying the Qur'an, devotional panels, and diplomas, and in mosques and homes. Western calligraphy, rooted in Roman capitals, developed through the insular majuscule of illuminated manuscripts such as the [[Book of Kells]] (c. 800) and the humanist italic of the Renaissance.
+
+Western tools include quills, dip pens, fountain pens, reed pens, and brushes, with water-based ink.
+
+=== KEY: Calliphoridae_4a1c0d
+HEADWORD: Calliphoridae
+PERSON: no
+LINK TARGETS: Fly | Larva | Odor
+ENTRY:
+Family of [[Fly|flies]] in the order Diptera, commonly called blowflies or carrion flies. Adults are often shiny, with blue, green or black thoraces and abdomens. Most [[Larva|larvae]] are scavengers of carrion and dung; the maggots, known as gentles, are often used as fishing bait. A female typically lays 150–200 eggs per batch, and the larvae use enzymes to break down the proteins they feed on. Their predictable development on corpses aids in estimating postmortem intervals. Adults are occasional pollinators, attracted to flowers with [[Odor|odors]] resembling rotting meat. Some species, such as *Chrysomya bezziana*, cause myiasis, while *Lucilia sericata* is used in maggot debridement therapy for wound healing. Its monophyly is disputed: some studies describe the family as polyphyletic, while recent phylogenomic analyses support monophyly.
+
+=== KEY: Callisto_moon_703af0
+HEADWORD: Callisto
+PERSON: no
+LINK TARGETS: Galileo Galilei | Ganymede (moon) | Jupiter | Mercury (planet) | Solar System
+ENTRY:
+Second-largest moon of [[Jupiter]], after [[Ganymede (moon)|Ganymede]], and the third-largest in the [[Solar System]]. At 4,821 km in diameter, it is nearly as large as the planet [[Mercury (planet)|Mercury]], though with only about a third of that planet's mass. It is the outermost of Jupiter's four large Galilean moons, discovered in 1610 by Simon Marius and [[Galileo Galilei]]. Its surface is the oldest and most heavily cratered in the Solar System, with no sign of plate tectonics or volcanism. Composed of roughly equal parts rock and ice, Callisto has a density of about 1.83 g/cm³, the lowest of Jupiter's major moons. Investigation by the Galileo spacecraft suggested a small silicate core and possibly a subsurface ocean of liquid water.
+
+=== KEY: Calorie_5bbf7d
+HEADWORD: Calorie
+PERSON: no
+LINK TARGETS: Energy | International System of Units | Joule
+ENTRY:
+Unit of [[Energy|energy]] used in nutrition and food science, originating in the caloric theory of heat. The small calorie is the amount of heat needed to raise the temperature of one gram of water by one degree Celsius. The large calorie, or kilocalorie, equals 1,000 small calories and is normally the unit used for the energy values of foods; some authors write Calorie with a capital C for it. The calorie is not part of the [[International System of Units|SI]] and is regarded as obsolete, having been replaced by the [[Joule|joule]]. The thermochemical calorie is now taken as exactly 4.184 J, so one kilocalorie is 4184 J, or 4.184 kJ.
+
+=== KEY: Calvin_Coolidge_9ae91b
+HEADWORD: Coolidge, Calvin
+PERSON: yes
+LINK TARGETS: Massachusetts | President of the United States | Republican Party (United States) | Roaring Twenties
+ENTRY:
+30th [[President of the United States|president of the United States]] (1923–29). A [[Republican Party (United States)|Republican]] lawyer from [[Massachusetts]], he was governor of that state from 1919 to 1921 and vice president under Warren G. Harding until Harding's death in 1923. Known as "Silent Cal" for his taciturn manner, he signed the Indian Citizenship Act of 1924, which granted U.S. citizenship to all Native Americans. Advocates of smaller government praise his hands-off, pro-business approach, while critics argue that he failed to use the economic boom of the [[Roaring Twenties]] to help struggling farmers and workers.
+
+=== KEY: Calvin_Harris_8febe0
+HEADWORD: Harris, Calvin
+PERSON: yes
+LINK TARGETS: Forbes | Michael Jackson | Spotify
+ENTRY:
+Scottish DJ, record producer, singer and songwriter, known professionally as Calvin Harris (real name Adam Richard Wiles). His album *18 Months* (2012) topped the UK Albums Chart, and in 2013 he surpassed the record of [[Michael Jackson]] for most top ten singles from one album, with nine from *18 Months* against Jackson's seven. He was the first UK solo artist to reach more than one billion streams on [[Spotify]]. He won British Producer of the Year and British Single of the Year at the 2019 Brit Awards, and topped [[Forbes]]' list of the world's highest-paid DJs for six consecutive years, from 2013 to 2018.
+
+=== KEY: Calvin_Klein_ba56fe
+HEADWORD: Klein, Calvin
+PERSON: yes
+LINK TARGETS: Fashion design | Jewellery | Perfume | Watch | Yves Saint Laurent (designer)
+ENTRY:
+American [[Fashion design|fashion]] designer. In 1968 he launched, with childhood friend Barry K. Schwartz, the company that later became Calvin Klein. He was hailed as the new [[Yves Saint Laurent (designer)|Yves Saint Laurent]] for his clean lines, and his tight-fitting signature jeans of 1974 went on to gross $200,000 in their first week of sales. His name also appears on a range of [[Perfume|perfumes]], [[Watch|watches]] and [[Jewellery|jewelry]]. In 2003 he sold his majority stake in the company to Phillips-Van Heusen Corporation for $430 million.
+
+=== KEY: Cambodia_06c7a3
+HEADWORD: Cambodia
+PERSON: no
+LINK TARGETS: Angkor Wat | Cambodian genocide | Constitutional monarchy | Khmer Empire | Khmer Rouge | Phnom Penh
+ENTRY:
+Country in Southeast Asia, officially the Kingdom of Cambodia, with a population of about 17.6 million as of 2024, predominantly ethnic Khmer. Its capital and largest city is [[Phnom Penh]]. The [[Khmer Empire]] (9th to 15th centuries) built [[Angkor Wat]], and Cambodia was a French protectorate from 1863 until independence in 1953. The [[Khmer Rouge]] regime carried out the [[Cambodian genocide]] from 1975 to 1979, and a later Vietnamese invasion ousted it. UN-supervised elections in 1993 restored a [[Constitutional monarchy|constitutional monarchy]]. The Cambodian People's Party has dominated politics, and agriculture remains the largest economic sector, with growth in garments, tourism and construction.
+
+=== KEY: Cambodian_Vietnamese_War_3ce347
+HEADWORD: Cambodian–Vietnamese War
+PERSON: no
+LINK TARGETS: China | Khmer Rouge | Soviet Union | Vietnam
+ENTRY:
+Armed conflict (1978–89) between Democratic Kampuchea and [[Vietnam]]. Vietnamese forces launched a full-scale invasion on December 25, 1978, toppling the [[Khmer Rouge]] regime and occupying Cambodia. Vietnam was backed by the [[Soviet Union]], while the Khmer Rouge had the support of [[China]]. Khmer Rouge remnants and other factions fought the occupation until Vietnam withdrew its troops in September 1989. The Paris Peace Agreements of 1991 led to a UN-led transition and the restoration of a constitutional monarchy in 1993.
+
+=== KEY: Cambodian_genocide_e63f33
+HEADWORD: Cambodian genocide
+PERSON: no
+LINK TARGETS: Chinese Communist Party | Khmer Rouge | Mao Zedong | Pol Pot
+ENTRY:
+Systematic persecution and killing of Cambodian citizens by the [[Khmer Rouge]] regime, 1975–79. Led by [[Pol Pot]], the Communist Party of Kampuchea emptied the cities and forced people into labor camps, where mass executions, forced labor, starvation and disease were rampant. Approximately 1.5 to 2 million people died, or 20% to 25% of the 1975 population, including ethnic minorities such as the Cham. China supplied at least 90% of the Khmer Rouge's foreign aid, and the [[Chinese Communist Party]] led by [[Mao Zedong]] supported the movement. A Vietnamese invasion toppled the regime in 1978. In 2019 the Extraordinary Chambers in the Courts of Cambodia found Nuon Chea and Khieu Samphan guilty of crimes against humanity and genocide, and both were sentenced to life imprisonment.
+
+=== KEY: Cambrian_6b96e8
+HEADWORD: Cambrian
+PERSON: no
+LINK TARGETS: Cambrian explosion | Ediacaran | Gondwana | Ordovician | Paleozoic | Phanerozoic | Trilobite
+ENTRY:
+First geological period of the [[Paleozoic]] Era and the [[Phanerozoic]] Eon. It lasted 51.95 million years, from 538.8 to 486.85 million years ago, following the [[Ediacaran|Ediacaran Period]] and preceding the [[Ordovician]]. Most continents lay in the Southern Hemisphere, and the assembly of [[Gondwana]] helped drive up global temperatures. The period saw the [[Cambrian explosion]], a rapid increase in fossil diversity that produced the first representatives of most modern animal phyla. No land animals or plants had yet evolved, and [[Trilobite|trilobites]] were among the prominent animals. The Cambrian also has an unusually high proportion of lagerstätte deposits, sites where soft body parts are exceptionally preserved.
+
+=== KEY: Cambrian_explosion_7294f9
+HEADWORD: Cambrian explosion
+PERSON: no
+LINK TARGETS: Animal | Cambrian | Ediacaran | Fossil | Predation | Sponge
+ENTRY:
+Major evolutionary radiation of [[Animal|animal]] life beginning about 538.8 million years ago in the early [[Cambrian]] period. Fossils from the period include representatives of all five modern animal phyla except [[Sponge|sponges]], which appeared earlier. Many Cambrian animals were more mobile and had more complex body plans than the [[Ediacaran|Ediacaran biota]] that preceded them. The radiation lasted between 13 million and 25 million years, ending at the Sinsk Event, and resulted in the divergence of most extant eumetazoan phyla. It coincided with the evolution of mineralized skeletons, which fossilize readily and contributed to the abundance of early Cambrian [[Fossil|fossils]]. Proposed causes include a rise in oxygen levels and ecological factors such as [[Predation|predation]].
+
+=== KEY: Cambridge_909442
+HEADWORD: Cambridge
+PERSON: no
+LINK TARGETS: Association football | London | University of Cambridge
+ENTRY:
+City (pop., 2021: 145,700), county town of Cambridgeshire, England, on the River Cam, 55 miles (89 km) north of [[London]]. It is home to the [[University of Cambridge]], founded in 1209, whose buildings include King's College Chapel and the Cavendish Laboratory. The city is at the heart of the Silicon Fen high-technology cluster, where software and bioscience firms have grown out of the university. Over 40 percent of its workforce holds a higher education qualification. The city produced the first Laws of the Game for [[Association football|association football]].
+
+=== KEY: Cambridge_Massachusetts_b4962d
+HEADWORD: Cambridge
+PERSON: no
+LINK TARGETS: Boston | George Washington | Harvard University | Massachusetts Institute of Technology | University of Cambridge
+ENTRY:
+City (pop., 2020: 118,403) in Middlesex County, Massachusetts, across the Charles River from [[Boston]]. It was named for the [[University of Cambridge]] in England and founded in December 1630. Cambridge Common, celebrated as the birthplace of the Continental Army, is where [[George Washington]] took command of the Patriot soldiers in July 1775. [[Harvard University]], founded in 1636, is the oldest institution of higher learning in the United States. The [[Massachusetts Institute of Technology|Massachusetts Institute of Technology]] (MIT) has a 168-acre campus here, and in 2022 the city was home to over 250 biotech companies.
+
+=== KEY: Camel_1690f3
+HEADWORD: Camel
+PERSON: no
+LINK TARGETS: Alpaca | Bactrian camel | Dromedary | Eocene | Llama | Miocene
+ENTRY:
+Even-toed ungulate in the genus *Camelus*, with fatty humps on its back, long domesticated for transport, milk, meat and fiber. There are three surviving species: the one-humped [[Dromedary]] and the two-humped [[Bactrian camel]], as well as the wild Bactrian camel, a distinct species that is endangered with around 1,000 individuals. Camels are adapted to desert habitats and are vital working animals that carry passengers and cargo. The wider family Camelidae includes the [[Llama|llama]], [[Alpaca|alpaca]], guanaco and vicuña. Camelids originated in North America during the [[Eocene]]; the ancestor of modern camels crossed into Asia during the late [[Miocene]], about 6 million years ago.
+
+=== KEY: Camellia_7bf560
+HEADWORD: Camellia
+PERSON: no
+LINK TARGETS: Camellia sinensis | Cultivar | Tea
+ENTRY:
+Genus of flowering plants in the tea family, Theaceae, native to tropical and subtropical areas of eastern and southern Asia. It has more than 220 described species, almost all found in southern China and Indochina. Camellias have been cultivated for centuries as ornamental, tea and oil plants, and over 26,000 [[Cultivar|cultivars]] have been registered. The leaves of [[Camellia sinensis|*C. sinensis*]] are processed into [[Tea|tea]], which is of particular economic importance in East Asia, Southeast Asia and the Indian subcontinent. The ornamental *C. japonica* and *C. sasanqua* and their hybrids are the source of hundreds of garden cultivars, and *C. oleifera* produces tea seed oil used in cooking and cosmetics.
+
+=== KEY: Camellia_sinensis_ebd637
+HEADWORD: Camellia sinensis
+PERSON: no
+LINK TARGETS: Shrub | Tea
+ENTRY:
+Evergreen [[Shrub|shrub]] in the family Theaceae, also called the tea plant. Its leaves, buds and stems are harvested to make [[Tea|tea]]; the leaves are processed to different degrees of oxidation to produce white, yellow, green, oolong, dark and black teas. The species is native to the highlands between southwestern China, northern Myanmar and northeastern India, and is now cultivated as a cash crop in many other parts of the world. China, India and Kenya are the three largest tea-producing countries.
+
+=== KEY: Camera_967d35
+HEADWORD: Camera
+PERSON: no
+LINK TARGETS: Camera obscura | Charge-coupled device | Daguerreotype | Nicéphore Niépce | Photographic film | Smartphone
+ENTRY:
+Instrument for capturing and storing images and video, either digitally with an electronic image sensor or chemically on a light-sensitive material such as [[Photographic film|photographic film]]. Cameras have shaped the visual arts, media, entertainment, surveillance, and scientific research.
+
+All cameras share a basic design: light enters an enclosed box through a converging lens, and the image is recorded on a light-sensitive medium. A shutter controls how long light enters, an aperture adjusts the amount of light, and a viewfinder shows the scene. Most cameras record visible light; specialized ones capture other parts of the spectrum, such as infrared. Types include single-lens reflex (SLR), large-format and medium-format, compact, rangefinder, motion picture, and digital cameras.
+
+The principle derives from the [[Camera obscura|camera obscura]]. [[Nicéphore Niépce]] produced the first permanent photograph in 1826, an exposure of eight hours on a bitumen-coated pewter plate. The [[Daguerreotype|daguerreotype]] of 1839 enabled commercial camera manufacture, and by the 1850s designs and sizes were standardized. Dry plates and roll film led to smaller, cheaper cameras, epitomized by the original Kodak, first produced in 1888.
+
+After World War I Germany led camera development, with the Leica and the Contax. In the second half of the 20th century Japanese manufacturers advanced the technology: the Ricohflex III arrived in 1952 and the Olympus AutoEye, the first 35mm SLR with automatic exposure, in 1960. Electronics became integral in the 1970s, in models such as Polaroid's SX-70 and Canon's AE-1. Digital camera sales surpassed film cameras in the United States by 2003, using sensors such as the [[Charge-coupled device|charge-coupled device]]. Cameras built into [[Smartphone|smartphones]] have since blurred the line between dedicated cameras and multifunctional devices, and computational photography uses algorithms to enhance image quality.
+
+=== KEY: Camera_obscura_ed9462
+HEADWORD: Camera obscura
+PERSON: no
+LINK TARGETS: Camera | Lens | Perspective (graphical) | Solar eclipse
+ENTRY:
+Darkened chamber or box that projects an inverted, reversed image of the outside view through a small hole or [[Lens|lens]]. Versions with lenses, used since the second half of the 16th century, became popular drawing aids because they gave accurate [[Perspective (graphical)|perspective]]. The device was also used to study [[Solar eclipse|solar eclipses]] without looking directly at the Sun. In the first half of the 19th century it was developed into the [[Camera|photographic camera]], with light-sensitive materials exposed to the projected image. The term was first used in 1604.
+
+=== KEY: Cameron_Diaz_6f47b2
+HEADWORD: Diaz, Cameron
+PERSON: yes
+LINK TARGETS: Sex symbol | Shrek
+ENTRY:
+American actress and author. Her films have grossed over $3 billion at the U.S. box office, and her romantic comedies of the late 1990s and early 2000s, including *There's Something About Mary* (1998), made her a prominent [[Sex symbol|sex symbol]]. She has voiced Princess Fiona in the [[Shrek]] franchise since 2001. After retiring from acting in 2014 to focus on family, she returned with *Back in Action* (2025). Her health book *The Body Book* (2013) was a *New York Times* bestseller. In 2015 she married the Good Charlotte guitarist Benji Madden, and the couple have had children through surrogacy.
+
+=== KEY: Cameroon_4be25f
+HEADWORD: Cameroon
+PERSON: no
+LINK TARGETS: Central Africa | France | Gulf of Guinea | Paul Biya | Yaoundé
+ENTRY:
+Country in [[Central Africa]] (pop., 2024: 30.97 million), officially the Republic of Cameroon. Its capital is [[Yaoundé]], and its coastline lies on the [[Gulf of Guinea]]. Its population speaks 250 native languages, and English and French are official languages. Portuguese explorers reached the coast in the 15th century. Cameroon gained independence from [[France]] on January 1, 1960. [[Paul Biya]] has held power since November 6, 1982; critics argue that elections have been manipulated and political opposition suppressed.
+
+=== KEY: Camille_Pissarro_5c4ab7
+HEADWORD: Pissarro, Camille
+PERSON: yes
+LINK TARGETS: Georges Seurat | Impressionism | Paul Cézanne | Paul Gauguin | United States Virgin Islands
+ENTRY:
+Danish-French Impressionist and Neo-Impressionist painter, born on Saint Thomas in the Danish West Indies, now the [[United States Virgin Islands]]. He is the only artist to have exhibited at all eight [[Impressionism|Impressionist]] exhibitions in Paris, held from 1874 to 1886. In 1873 he helped found a collective of 15 artists. Art historian John Rewald called him the "dean of the Impressionist painters". At the age of 54 he took up Neo-Impressionism, working with [[Georges Seurat]]. He acted as a father figure to [[Paul Cézanne|Cézanne]], Seurat, [[Paul Gauguin|Gauguin]] and Van Gogh.
+
+=== KEY: Camillo_Benso_Count_of_Cavour_00e632
+HEADWORD: Cavour, Camillo Benso, Count of
+PERSON: yes
+LINK TARGETS: Crimean War | Giuseppe Garibaldi | Kingdom of Italy | Piedmont
+ENTRY:
+Italian statesman and leader of the movement for Italian unification. He was Prime Minister of the Kingdom of Sardinia from 1852 until his death, apart from a six-month resignation, and the first Prime Minister of the [[Kingdom of Italy]] in 1861. As prime minister he steered [[Piedmont]] through the [[Crimean War]] and the Second Italian War of Independence, and backed the campaigns of [[Giuseppe Garibaldi]], maneuvering Piedmont into a new great power and controlling a nearly united Italy five times as large as Piedmont had been before he came to power. He pushed economic reforms in Piedmont and founded the newspaper *Il Risorgimento*. Historian Denis Mack Smith called him the most successful parliamentarian in Italian history but not especially democratic, saying he was often dictatorial and interfered in parliamentary elections.
+
+=== KEY: Camino_de_Santiago_13b4ef
+HEADWORD: Camino de Santiago
+PERSON: no
+LINK TARGETS: Galicia (Spain) | Pilgrimage | Pope Alexander VI | UNESCO
+ENTRY:
+Network of pilgrim routes leading to the shrine of the apostle James in the cathedral of Santiago de Compostela, in [[Galicia (Spain)|Galicia]], northwestern Spain. Established in the early 9th century after the discovery of the relics of Saint James, it became a major medieval [[Pilgrimage|pilgrimage]] route from the 10th century. After the Granada War ended in 1492, [[Pope Alexander VI]] declared it one of the "three great pilgrimages of Christendom". The Council of Europe named it the first Cultural Route in 1987. Its French Way and northern routes in Spain are on the [[UNESCO]] World Heritage List.
+
+=== KEY: Camouflage_4bd800
+HEADWORD: Camouflage
+PERSON: no
+LINK TARGETS: Cephalopod | Chameleon | Fashion | Octopus | Radar | Squid | World War I
+ENTRY:
+Concealment of animals or objects by coloration, pattern, materials or illumination, either by making them hard to see or by disguising them as something else. Most camouflage aims at crypsis, through background matching, disruptive coloration and countershading. A third approach, motion dazzle, uses a conspicuous pattern to make an object momentarily harder to locate. Some animals, such as [[Chameleon|chameleons]] and [[Octopus|octopuses]], can actively change their skin patterns and colors, while [[Cephalopod|cephalopods]] such as [[Squid|squid]] use light for counter-illumination. Military camouflage developed rapidly during [[World War I]], when merchant ships were painted in dazzle patterns to confuse enemy submarines about a target's speed and heading. Since the mid-20th century, [[Radar|radar]] has largely made camouflage obsolete for fixed-wing military aircraft. Camouflage patterns are also widely used in [[Fashion|fashion]] clothing.
+
+=== KEY: Campania_cc8179
+HEADWORD: Campania
+PERSON: no
+LINK TARGETS: Italy | Mount Vesuvius | Naples | Pompeii
+ENTRY:
+Region of southern [[Italy]] (pop., 2026: 5,568,703), capital [[Naples]]. Its area is 13,670.95 sq km (5,278 sq mi), and it is the most economically productive region in southern Italy by GDP. The region has 10 of the 58 UNESCO sites in Italy, including [[Pompeii]] and Herculaneum, and [[Mount Vesuvius]] is part of the UNESCO World Network of Biosphere Reserves. The Romans knew it as *Campania felix* ("fertile countryside").
+
+=== KEY: Campanulaceae_19c8a2
+HEADWORD: Campanulaceae
+PERSON: no
+LINK TARGETS: Antarctica | Arctic | Flowering plant | Hawaii
+ENTRY:
+Family of [[Flowering plant|flowering plants]] in the order *Asterales*, also called the bellflower family. It contains nearly 2,400 species in 84 genera, mostly herbaceous plants with some shrubs and rarely small trees, often with milky sap. Familiar garden plants include *Campanula* (bellflower), *Lobelia* and *Platycodon* (balloonflower). Most current classifications place the family *Lobeliaceae* within it as subfamily Lobelioideae. The family is almost cosmopolitan, occurring on all continents except [[Antarctica]], and [[Hawaii]] is particularly rich, with well over 100 endemic species of Hawaiian lobelioids. Habitats range from extreme deserts to rainforests, and from the tropics to the high [[Arctic]].
+
+=== KEY: Campbell_s_Soup_Cans_b52735
+HEADWORD: Campbell's Soup Cans
+PERSON: no
+LINK TARGETS: Andy Warhol | Museum of Modern Art | Pop art
+ENTRY:
+[[Pop art]] series of 32 paintings by American artist [[Andy Warhol]]. Each painting depicts a different variety of Campbell's soup cans in a uniform 20-by-16-inch format, and the series was produced between 1961 and 1962. First exhibited in July 1962 at the Ferus Gallery in Los Angeles, the works challenged traditional distinctions between fine art and commercial imagery. Warhol focused on commercial packaging rather than the everyday items themselves, which prompted initial controversy but eventual acclaim, and the series catapulted him to fame. The original 32 canvases were preserved by art dealer Irving Blum and acquired by the [[Museum of Modern Art]] in 1996. Two editions of 250 10-print screen print portfolios, issued in 1968 and 1969, are sometimes confused with the original series.
+
+=== KEY: Campeonato_Brasileiro_S_rie_A_463a3f
+HEADWORD: Campeonato Brasileiro Série A
+PERSON: no
+LINK TARGETS: Association football | Brazil
+ENTRY:
+Top professional [[Association football|association football]] league in [[Brazil]], also called the *Brasileirão*. Contested by 20 clubs, it operates promotion and relegation with the Série B. The *Confederação Brasileira de Futebol* (CBF) organized the first national championship in 1971. Since 1959, 156 clubs have played in it, and Palmeiras has won the title 12 times. In 2021 the IFFHS named it the strongest national league in the world.
+
+=== KEY: Camphor_59486b
+HEADWORD: Camphor
+PERSON: no
+LINK TARGETS: Ketone | Turpentine
+ENTRY:
+Waxy, colorless solid with a strong aroma, classified as a terpenoid and [[Ketone|cyclic ketone]]. It is derived from the wood of the camphor laurel (*Cinnamomum camphora*) and from the kapur tree of Southeast Asia. Natural camphor is extracted from wood by steam distillation, and it can also be produced synthetically from [[Turpentine|oil of turpentine]]. Camphor is chiral; the common natural form is (+)-camphor, while the (−)-form is very rare in nature. Doses exceeding 50 mg/kg can be lethal in adults.
+
+=== KEY: Camping_c497c3
+HEADWORD: Camping
+PERSON: no
+LINK TARGETS: National park | Recreation | Scouting | Tent
+ENTRY:
+Form of [[Recreation|outdoor recreation]] or education involving overnight stays in a basic temporary shelter, such as a [[Tent|tent]]. Campers may also use a recreational vehicle, a cabin, a hammock or no shelter at all. Recreational camping became popular among elites in the early 20th century and later among other socioeconomic classes. Modern campers frequent publicly owned land such as [[National park|national parks]] and state parks, as well as commercial campgrounds. [[Scouting]] and other youth organizations use camping to teach self-reliance and teamwork. The history of recreational camping is often traced to Thomas Hiram Holding, a British traveling tailor. The first commercial camping ground may have been Cunningham's camp near Douglas, Isle of Man, which opened in 1894.
+
+=== KEY: Canaan_79f875
+HEADWORD: Canaan
+PERSON: no
+LINK TARGETS: Ancient Egypt | Assyria | Levant | Mitanni
+ENTRY:
+Ancient Semitic-speaking civilization and region of the southern [[Levant]] during the late 2nd millennium BC. In the Late Bronze Age Amarna period (14th century BC), Canaan was an area where the spheres of interest of the [[Ancient Egypt|Egyptian]], Hittite, [[Mitanni]] and [[Assyria|Assyrian]] empires converged or overlapped. The demonym "Canaanites" is a catch-all ethnic term for the indigenous populations of the region, both settled and nomadic-pastoral. Biblical scholar Mark Smith suggests that Israelite culture largely overlapped with and derived from Canaanite culture.
+
+=== KEY: Canada_445d33
+HEADWORD: Canada
+PERSON: no
+LINK TARGETS: Constitutional monarchy | Jacques Cartier | Montreal | North America | Ottawa | Toronto | United States | Vancouver
+ENTRY:
+Country (pop. over 41 million) in [[North America]], with its capital at [[Ottawa]].
+
+Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and north into the Arctic Ocean. Covering 9,984,670 sq km, it is the second-largest country by total area, with the longest coastline of any country, and shares the longest international land border with the [[United States]]. The three largest metropolitan areas are [[Toronto]], [[Montreal]], and [[Vancouver]].
+
+Indigenous peoples have inhabited the land for thousands of years. British and French expeditions explored and settled the Atlantic coast from the 16th century. The name derives from the St. Lawrence Iroquoian word *kanata*, 'village' or 'settlement', which [[Jacques Cartier]] recorded in 1535. France ceded nearly all its North American colonies in 1763. In 1867 Confederation united three British North American colonies as a federal dominion of four provinces, beginning an expansion of provinces and territories that displaced Indigenous populations. Autonomy from the United Kingdom grew through the Statute of Westminster, 1931, and the Canada Act 1982, which ended the vestiges of legal dependence on the British Parliament.
+
+Canada is a parliamentary democracy and a [[Constitutional monarchy|constitutional monarchy]] in the Westminster tradition. The prime minister is head of government and must command the confidence of the elected House of Commons; the monarch, represented by the governor general, is ceremonial head of state. It is a Commonwealth realm and is officially bilingual (English and French) at the federal level.
+
+A developed country with a high per capita GDP, Canada relies chiefly on abundant natural resources and international trade. Large-scale immigration has made it among the most ethnically diverse nations.
+
+=== KEY: Canada_goose_2e400a
+HEADWORD: Canada goose
+PERSON: no
+LINK TARGETS: France | Goose | North America
+ENTRY:
+Large [[Goose|goose]] species (*Branta canadensis*) native to the Arctic and temperate regions of [[North America]]. It has a black head and neck, white cheeks and a brown body. It has been introduced to [[France]], the United Kingdom, Ireland, Scandinavia, New Zealand and other regions. Adept at living in human-altered areas, it has established breeding colonies in urban and cultivated habitats, where it is often considered a pest because of its excrement, crop depredation, noise and aggressive territorial behavior.
+
+=== KEY: Canadian_Broadcasting_Corporation_608754
+HEADWORD: Canadian Broadcasting Corporation
+PERSON: no
+LINK TARGETS: Radio | Television
+ENTRY:
+Canadian public broadcaster and Crown corporation, offering [[Radio|radio]] and [[Television|television]] in English and French as CBC/Radio-Canada. It was established on November 2, 1936, and is the oldest continually existing broadcasting network in Canada. Its funding is supplemented by commercial advertising on its television broadcasts. Its primary radio networks have been commercial-free since 1974. Budget cuts in the early 2010s reduced its service on the airwaves.
+
+=== KEY: Canadian_Football_League_597ce4
+HEADWORD: Canadian Football League
+PERSON: no
+LINK TARGETS: Canada | Toronto
+ENTRY:
+Professional [[Canada|Canadian]] football league, the highest professional level of the sport, headquartered in [[Toronto]]. It has nine teams in two divisions. The league was established on January 19, 1958, through the merger of the Interprovincial Rugby Football Union (founded 1907) and the Western Interprovincial Football Union (1936). Its playoffs culminate in the Grey Cup, one of Canada's largest annual sports and television events.
+
+=== KEY: Canadian_Shield_dd3724
+HEADWORD: Canadian Shield
+PERSON: no
+LINK TARGETS: Canada | Hudson Bay | North America
+ENTRY:
+Geologic shield of exposed Precambrian igneous and high-grade metamorphic rock, centered on [[Hudson Bay]] in eastern and central [[Canada]]. It forms the [[North America|North American]] craton, the ancient geologic core of the continent, and its exposed area covers about 8,000,000 sq km (3,100,000 sq mi). Mountains once rose about 12,000 m (39,000 ft) before erosion reduced the region to low relief over some 500 million years. Its rocks date from 2.5 to 4.2 billion years. Glaciation has left a thin layer of soil, and many of Canada's major ore deposits are associated with greenstone belts. The shield also extends south into the northern United States.
+
+=== KEY: Canal_a2ebca
+HEADWORD: Canal
+PERSON: no
+LINK TARGETS: Grand Canal (China) | Industrial Revolution | Lock (water navigation) | Mars | Panama Canal | Rail transport | Roman Empire
+ENTRY:
+Artificial waterway built for navigation, irrigation, drainage, or water supply.
+
+Canals originated in ancient Mesopotamia more than 6,000 years ago, chiefly for irrigation. Most navigation canals use a series of dams and [[Lock (water navigation)|locks]] that create slack-water levels. A navigation runs roughly parallel to the valley of an existing river and shares its drainage basin, whereas a true canal cuts across a drainage divide to connect two basins. This is harder to construct and needs an external water source, as in the [[Panama Canal]], the best-known example. Where the channel must change elevation, locks, lifts, or elevators raise and lower vessels.
+
+Canals fall into two broad types: waterways carrying vessels, either linking lakes, rivers, and seas or forming city networks such as those of Venice, Amsterdam, and Bangkok; and aqueducts, which convey water for drinking, hydropower, and irrigation. The [[Roman Empire]]'s aqueducts were water supply canals.
+
+Canals once held immense importance for commerce. Bulk raw materials such as coal and ores were difficult and costly to move without water transport, and canals, including Britain's Bridgewater Canal, helped fuel the [[Industrial Revolution]]. Replacement began in the United Kingdom in the 1840s, when [[Rail transport|railways]] began to supersede canal shipping. By the early 1880s many canals could not compete and were abandoned, and after World War I motor trucks and expanding road networks further reduced canal freight. Today most ship canals serve bulk cargo and large vessels. The longest existing canal is the [[Grand Canal (China)|Grand Canal]] of northern China, stretching 1,794 km from Beijing to Hangzhou.
+
+The term was once also applied to linear features seen on [[Mars]], which modern imaging showed to be a misnomer.
+
+=== KEY: Canary_Islands_bbf048
+HEADWORD: Canary Islands
+PERSON: no
+LINK TARGETS: Africa | Atlantic Ocean | Las Palmas | Spain | Tenerife | World Heritage Site
+ENTRY:
+[[Spain|Spanish]] archipelago and autonomous community in the [[Atlantic Ocean]], about 100 km (60 mi) off the northwest coast of [[Africa]] (pop., 2025: 2,258,866). The seven main islands are [[Tenerife]], Fuerteventura, Gran Canaria, Lanzarote, La Palma, La Gomera and El Hierro. The capitals are Santa Cruz de Tenerife and [[Las Palmas|Las Palmas de Gran Canaria]]. Tourism is a major industry, with over 14.1 million visitors in 2023, drawn by beaches and a subtropical climate. Mount Teide, a [[World Heritage Site]] on Tenerife, is the highest peak in Spain. During the Age of Sail, the islands were the main stopover for Spanish galleons during the colonization of the Americas.
+
+=== KEY: Canberra_85b171
+HEADWORD: Canberra
+PERSON: no
+LINK TARGETS: Aboriginal Australians | Australia | Melbourne | Sydney
+ENTRY:
+Capital city of [[Australia]] (pop., 2025: 484,630), the country's largest inland city. It was established as a compromise between [[Sydney]] and [[Melbourne]], Australia's two largest cities. The area had been inhabited by [[Aboriginal Australians]] for up to 21,000 years. Canberra was founded and named in 1913, and unusually for an Australian city it was entirely planned to a design by American architects Walter Burley Griffin and Marion Mahony Griffin. It is the seat of the federal government, with Parliament House and the High Court.
+
+=== KEY: Canc_n_ae158e
+HEADWORD: Cancún
+PERSON: no
+LINK TARGETS: Caribbean Sea | Mexico | Yucatán Peninsula
+ENTRY:
+Resort city in Quintana Roo, southeast [[Mexico]], on the northeast coast of the [[Yucatán Peninsula]]. It lies on the [[Caribbean Sea]] and includes the Hotel Zone, the main tourist area. Cancún was created to foster tourism, and development began on January 23, 1970, when Isla Cancún had only three residents. The Mexican federal government financed the first nine hotels. By 2024 the metropolitan population had reached 1,045,000.
+
+=== KEY: Cancer_746354
+HEADWORD: Cancer
+PERSON: no
+LINK TARGETS: Biopsy | Chemotherapy | Helicobacter pylori | Lung cancer | Palliative care | Radiation therapy | Tobacco
+ENTRY:
+Group of diseases involving uncontrolled cell growth, typically resulting in tumors with the potential to invade or spread to other parts of the body. Malignant tumors contrast with benign tumors, which do not spread. Over 100 types affect humans.
+
+Cancer arises when genetic changes, usually many, disrupt normal cell regulation. About 33% of cancer deaths are attributed to [[Tobacco|tobacco]] and alcohol, obesity, a diet lacking fruit and vegetables, and lack of exercise. Infections cause approximately 16–18% of cancers worldwide, including those linked to [[Helicobacter pylori]], hepatitis B, hepatitis C, and human papillomavirus (HPV). Exposure to ionizing radiation and environmental pollutants also contributes, and approximately 5–10% of cancers are due to inherited genetic defects. Cancer is detected by symptoms or screening, investigated by medical imaging, and confirmed by [[Biopsy|biopsy]].
+
+Treatment combines surgery, [[Radiation therapy|radiation therapy]], [[Chemotherapy|chemotherapy]], and targeted therapy; immunotherapy is emerging. [[Palliative care]] helps manage pain and symptoms in advanced disease. Survival depends on the type and extent of disease at the start of treatment. The average five-year survival rate is 80% for children under 15 in the developed world and 66% for all ages in the United States. Risk can be reduced by not smoking, maintaining a healthy weight, limiting alcohol, and vaccination against hepatitis B and HPV, which has been shown to nearly eliminate the risk of cancers caused by these viruses.
+
+An estimated 20 million new cases were diagnosed in 2022, with 9.7 million deaths. The most common cancers in males are [[Lung cancer|lung]], prostate, colorectal, and stomach cancer; in females, breast, colorectal, lung, and cervical cancer. Global economic costs were estimated at US$1.16 trillion per year as of 2010.
+
+=== KEY: Candela_608c15
+HEADWORD: Candela
+PERSON: no
+LINK TARGETS: Candle | International System of Units
+ENTRY:
+[[International System of Units|SI]] base unit of luminous intensity, symbol cd. It measures the luminous power per unit solid angle emitted in a particular direction. A common wax [[Candle|candle]] gives roughly 1 cd, and the word is Latin for candle. Before 1948, countries used different standards, such as the English candlepower. The 2018 redefinition, effective from May 20, 2019, fixes the luminous efficacy of monochromatic radiation of frequency 540×10¹² Hz at 683 lm W⁻¹, a frequency in the visible spectrum near green, corresponding to about 555 nm.
+
+=== KEY: Candice_Bergen_291054
+HEADWORD: Bergen, Candice
+PERSON: yes
+LINK TARGETS: CBS | HBO
+ENTRY:
+American actress and former fashion model. She won five Primetime Emmy Awards and two Golden Globe Awards as the title character in the [[CBS]] sitcom *Murphy Brown* (1988–1998, 2018). Her films include *The Group* (1966) and *Starting Over* (1979), for which she was nominated for the Academy Award for Best Supporting Actress. She appeared in three episodes of the [[HBO]] series *Sex and the City* (2002–04) and starred in *Boston Legal* (2005–2008) on ABC.
+
+=== KEY: Candide_970eed
+HEADWORD: Candide
+PERSON: no
+LINK TARGETS: 1755 Lisbon earthquake | Gottfried Wilhelm Leibniz | Paradise | Satire | Voltaire
+ENTRY:
+French [[Satire|satirical]] novella by [[Voltaire]], first published in 1759. Its title character, a young man, lives a sheltered life in an Edenic [[Paradise|paradise]] and is taught [[Gottfried Wilhelm Leibniz|Leibnizian]] optimism by his mentor, Professor Pangloss. After this life ends, Candide becomes painfully disillusioned as he experiences great hardships. The novella closes with the practical precept "we must cultivate our garden" rather than Pangloss's "all is for the best". Its erratic, fast-moving picaresque plot parodies adventure and romance clichés, and it ridicules religion, governments and philosophers. Many events draw on history, including the [[1755 Lisbon earthquake]]. After its publication the book was widely banned for blasphemy and sedition, but it is now considered Voltaire's *magnum opus*.
+
+=== KEY: Candle_e966b2
+HEADWORD: Candle
+PERSON: no
+LINK TARGETS: Electric light | Oxygen | Paraffin wax
+ENTRY:
+Ignitable wick embedded in wax or another flammable solid, such as tallow, that provides light and sometimes fragrance. The word comes from Latin *candēla*, from *candēre* ("to shine"). Candles have been used for over two millennia and were a major indoor light source until other sources were invented. [[Electric light]] has made them largely nonessential for illumination, but they remain common for functional, symbolic and aesthetic purposes. Early beeswax candles were expensive and limited to the elite and churches, and tallow was a cheaper alternative. [[Paraffin wax|Paraffin wax]] made candles affordable for the general public. As the wick burns, heat melts the wax, which vaporizes and combines with [[Oxygen]] to form the flame.
+
+=== KEY: Candy_d8290f
+HEADWORD: Candy
+PERSON: no
+LINK TARGETS: Chocolate | Honey | Industrial Revolution | Medicine | Sugar
+ENTRY:
+Sweet confection in which sugar is the principal ingredient, also called sweets or lollies. Sugar confectionery includes [[Chocolate]] and chewing gum, and sugar-glazed vegetables, fruit or nuts are considered candied. Before [[Sugar]] was readily available, candy was based on [[Honey]], which was used to coat fruits and flowers. Before the [[Industrial Revolution]], candy was often considered a form of [[Medicine|medicine]], and in the Middle Ages spiced sugar confections were served at banquets as an aid to digestion. From the 1830s technological advances made candy available to working-class people and children, and penny candy became the first good that children bought with their own money. In 1847 the candy press made it possible to produce multiple shapes and sizes at once. High sugar content is associated with obesity, type 2 diabetes and dental caries.
+
+=== KEY: Cane_toad_08a24b
+HEADWORD: Cane toad
+PERSON: no
+LINK TARGETS: Australia | Caribbean | Central America | Invasive species | Oceania | South America | Sugarcane | True toad
+ENTRY:
+Large terrestrial [[True toad|true toad]] (*Rhinella marina*) native to [[South America]] and mainland [[Central America]]. Adults average 10–15 cm (4–6 in) in length. It was introduced to islands of [[Oceania]] and the [[Caribbean]], and to northern [[Australia]], as a means of pest control against the cane beetle, which damages [[Sugarcane|sugar cane]]. Its toxic skin and tadpoles can kill many animals, and it is particularly dangerous to dogs. It is now considered a pest and an [[Invasive species|invasive species]] in many introduced regions.
+
+=== KEY: Canidae_f359b9
+HEADWORD: Canidae
+PERSON: no
+LINK TARGETS: Antarctica | Carnivore | Coyote | Dog | Fennec fox | Fox | Jackal | Wolf
+ENTRY:
+Biological family of [[Carnivore|carnivoran]] mammals, from Latin *canis* ("dog"). The family includes the Caninae, the living canids such as [[Wolf|wolves]], [[Coyote|coyotes]], [[Fox|foxes]] and [[Jackal|jackals]], as well as the extinct Borophaginae and Hesperocyoninae. Canids are found on all continents except [[Antarctica]], and range from the 2 m (6.6 ft) gray wolf to the 24 cm (9.4 in) [[Fennec fox|fennec fox]]. Most are social, and typically only the breeding pair in a group breeds, rearing one litter a year in an underground den. The [[Dog|domestic dog]] descends from a symbiotic relationship with Upper Paleolithic humans.
+
+=== KEY: Canis_Major_683f32
+HEADWORD: Canis Major
+PERSON: no
+LINK TARGETS: Constellation | Mesopotamia | Ptolemy | Sirius | Solar System
+ENTRY:
+Southern-hemisphere [[Constellation|constellation]], one of the 88 modern constellations. Its name is Latin for "greater dog", and it was included among [[Ptolemy]]'s 48 constellations in the 2nd century. It contains [[Sirius]], the brightest star in the night sky, which appears bright because of its proximity to the [[Solar System]]. In ancient [[Mesopotamia]], Sirius was seen as an arrow aimed at Orion, while the Greeks later depicted it as a dog. The Milky Way passes through the constellation, and the open cluster M41 lies within its borders. The red hypergiant VY CMa is one of the largest stars known.
+
+=== KEY: Canna_plant_4c5dd1
+HEADWORD: Canna
+PERSON: no
+LINK TARGETS: Bee | Flowering plant | Hummingbird | Starch | Sunbird
+ENTRY:
+Genus of 10 species of [[Flowering plant|flowering plants]] native to the American tropics, known as cannas or canna lilies. Cannas are not true lilies; they belong to the order Zingiberales, together with gingers and bananas. Their large foliage has led horticulturists to develop selected forms as large-flowered garden plants. The flowers are red, orange or yellow and are pollinated by [[Bee|bees]], [[Hummingbird|hummingbirds]], [[Sunbird|sunbirds]] and bats. The rhizomes store starch, having the largest starch grains of all plant life, and cannas are used in agriculture as a source of [[Starch|starch]]. The name Canna comes from the Latin word for a cane or reed.
+
+=== KEY: Cannabis_0b2bc2
+HEADWORD: Cannabis
+PERSON: no
+LINK TARGETS: Cannabis (drug) | Flowering plant | Hemp
+ENTRY:
+Genus of [[Flowering plant|flowering plants]] in the family Cannabaceae, widely accepted as indigenous to Asia. The number of species is disputed, with as many as three recognized: *Cannabis sativa*, *C. indica* and *C. ruderalis*. It is an annual, dioecious herb, with male and female flowers usually on separate plants. The term [[Hemp|hemp]] usually refers to varieties cultivated for non-drug uses such as fiber, seed oil and textiles. The plant has long been used for medicine and as a [[Cannabis (drug)|recreational drug]], and strains have been bred for high or low levels of tetrahydrocannabinol (THC).
+
+=== KEY: Cannabis_drug_5ea4fd
+HEADWORD: Cannabis
+PERSON: no
+LINK TARGETS: Canada | Cannabis | Psychosis
+ENTRY:
+Psychoactive drug from the [[Cannabis|cannabis]] plant, also called marijuana, weed, pot or ganja. It is used recreationally and as a medicinal drug, and sometimes for spiritual purposes. Tetrahydrocannabinol (THC) is its main psychoactive component, and effects include euphoria, altered sense of time, impaired short-term memory and increased appetite. There is a strong relation between cannabis use and the risk of [[Psychosis|psychosis]]. Long-term adverse effects may include addiction, heart disease and chronic coughing. In 2013, between 128 and 232 million people used cannabis, making it the most commonly used largely illegal drug in the world. Uruguay became the first country to legalize recreational use, in 2013, and other countries include [[Canada]], Germany and Thailand.
+
+=== KEY: Cannes_Film_Festival_565579
+HEADWORD: Cannes Film Festival
+PERSON: no
+LINK TARGETS: Adolf Hitler | Benito Mussolini | Documentary film | World War II
+ENTRY:
+Annual film festival in Cannes, France, considered the most prestigious in the world. The festival was conceived in 1938 as a rival to the Venice Film Festival, after [[Benito Mussolini]] and [[Adolf Hitler]] overruled jury decisions there. The first edition, postponed by [[World War II]], ran from September 20 to October 5, 1946, with films from 21 countries. Usually held in May at the Palais des Festivals et des Congrès, the invitation-only festival previews new films of all genres, including [[Documentary film|documentaries]]. It was accredited by the FIAPF in 1951, the year it moved to spring to avoid competing with Venice. The top prize, the Palme d'Or, was introduced in 1955 and goes to the best feature film in official competition.
+
+=== KEY: Canning_7d7f85
+HEADWORD: Canning
+PERSON: no
+LINK TARGETS: Louis Pasteur | Steel
+ENTRY:
+Method of food preservation in which food is processed and sealed in airtight containers, such as glass jars or [[Steel|steel]] cans. Canning gives a shelf life of typically one to five years, and freeze-dried canned lentils could last as long as 30 years in an edible state. In 1974, canned food from the steamboat *Bertrand*, which sank in the Missouri River in 1865, was tested and found still safe to eat after 109 years, although its vitamin content had deteriorated. Nicolas Appert, a French confectioner, developed a method of sealing food in glass jars in 1809 and won a 12,000-franc prize from the French government in 1810 for preserving military rations. The reason it worked was not understood until [[Louis Pasteur]] demonstrated the role of microbes about 50 years later. The tin can, allegedly developed by Philippe de Girard, was patented in Britain in 1810 through the merchant Peter Durand.
+
+=== KEY: Cannon_22ef5d
+HEADWORD: Cannon
+PERSON: no
+LINK TARGETS: Artillery | Gunpowder | Ottoman Empire | Yuan dynasty
+ENTRY:
+Large-caliber gun classified as a type of [[Artillery|artillery]], usually launching a projectile with explosive chemical propellant. [[Gunpowder]] was the primary propellant until smokeless powder was invented in the late 19th century. Troops of the [[Yuan dynasty]] are recorded using hand cannons in combat in 1288. Cannons were used mainly against infantry until about 1374, when large cannons first breached walls in Europe. In 1464 a 16,000 kg (35,000 lb) cannon known as the Great Turkish Bombard was created in the [[Ottoman Empire]]. Cannons became more important as field artillery after 1453, when they broke down the walls of the Eastern Roman Empire's capital. European cannons reached a "classic form" around 1480 that changed little until the 1750s. In the modern era the term has largely given way to guns, howitzers and mortars, except for automatic weapons called autocannons.
+
+=== KEY: Canoe_8d3241
+HEADWORD: Canoe
+PERSON: no
+LINK TARGETS: Camping | Kevlar
+ENTRY:
+Lightweight, narrow watercraft, typically pointed at both ends and open on top, propelled by seated or kneeling paddlers. Canoes were developed in cultures around the world, some designed for sails or outriggers. Until the mid-19th century they were an important means of transport for exploration and trade. Dugouts, carved from a single log or trunk, go back to ancient times. Later hulls were bark on a wood frame, then canvas on wood, then aluminum. Most modern canoes are molded plastic or composites such as fiberglass, [[Kevlar]] or graphite. Canoeing has been part of the Olympics since 1936, and canoes are also used for racing, whitewater, touring and [[Camping|camping]].
+
+=== KEY: Canopus_5d468a
+HEADWORD: Canopus
+PERSON: no
+LINK TARGETS: Sirius | Sparta
+ENTRY:
+Brightest star in the southern constellation Carina and the second-brightest in the night sky. Designated α Carinae, it has an apparent magnitude of −0.74 and is outshone only by [[Sirius]]. It lies about 310 light-years from the Sun and has nine to ten times the Sun's mass. Having exhausted the hydrogen in its core, it has expanded to 71 times the Sun's radius and has an effective temperature of around 7400 K. Its name is believed to derive from a navigator for Menelaus, king of [[Sparta]]. In ancient India it was named Agastya, and Chinese astronomers knew it as the Old Man of the South Pole. In 2016 the International Astronomical Union approved the name Canopus, which is now in its catalog of star names.
+
+=== KEY: Cantonese_8bfd00
+HEADWORD: Cantonese
+PERSON: no
+LINK TARGETS: Guangdong | Guangzhou | Hong Kong | Macau | Malaysia | Mandarin Chinese | Vietnam
+ENTRY:
+Prestige variety of Yue Chinese, a Sinitic language originating in [[Guangzhou]] and the Pearl River Delta. With about 80 million total speakers as of 2023, it is the lingua franca of [[Guangdong]] province and the dominant co-official language of [[Hong Kong]] and [[Macau]]. It is also widely spoken among overseas Chinese, notably in [[Vietnam]] and [[Malaysia]]. Cantonese and [[Mandarin Chinese]] have very limited to no mutual intelligibility, largely because of phonological differences.
+
+=== KEY: Canvas_6ea535
+HEADWORD: Canvas
+PERSON: no
+LINK TARGETS: Cotton | Hemp | Linen | Oil painting | Sail | Tent
+ENTRY:
+Durable plain-woven fabric used for [[Sail|sails]], [[Tent|tents]] and backpacks, and as a support for [[Oil painting|oil painting]]. Historically made from [[Hemp]], modern canvas is usually made of [[Cotton]], [[Linen]] or polyvinyl chloride (PVC). Unlike twill-woven denim, it is plain woven. Duck canvas has more tightly woven threads, and the term duck comes from the Dutch word for cloth, doek. The word derives from Anglo-French canevaz, traced to Vulgar Latin *cannapaceus*, "made of hemp". Canvas is usually stretched over a wooden frame called a stretcher and coated with gesso. Panel painting remained more common than canvas until the 16th century in Italy and the 17th century in Northern Europe.
+
+=== KEY: Canyon_92544d
+HEADWORD: Canyon
+PERSON: no
+LINK TARGETS: Granite | Plateau | Sandstone | Weathering
+ENTRY:
+Deep cleft between escarpments or cliffs, also called a gorge or chasm, usually carved by a river over geologic time. Rivers cut downward through rock layers, and canyons form where softer strata erode while harder layers resist [[Weathering|weathering]]. Most canyons were formed by long erosion from a [[Plateau]] or table-land level. Canyons are much more common in arid areas, where physical weathering has a more localized effect. Canyon walls are often formed of resistant [[Sandstone]] or [[Granite]]. A box canyon has steep walls on three sides and was used as a corral in the western United States. Submarine canyons on continental slopes are formed by turbidity currents and landslides. The word derives from Spanish cañón and is generally used in North America, while gorge and ravine are used in Europe and Oceania.
+
+=== KEY: Cao_Cao_684177
+HEADWORD: Cao Cao
+PERSON: yes
+LINK TARGETS: Han dynasty | Three Kingdoms
+ENTRY:
+Chinese warlord, statesman and poet who rose to power at the end of the [[Han dynasty]]. In the 190s he recruited his own followers and formed his own army. In AD 196 he received Emperor Xian, who had been held by rival warlords, and as Imperial Chancellor from AD 208 he controlled the central government. He defeated Yuan Shao at the Battle of Guandu in AD 200 and went on to unify much of northern China. His defeat at the Battle of Red Cliffs in AD 208 halted his attempts to gain a foothold in southern China. His son Cao Pi founded the state of Cao Wei in AD 220, inaugurating the [[Three Kingdoms]] period. Opinions of Cao Cao have remained divided since the Jin dynasty, with some praising his achievements and poetry and others condemning his cruelty and cunning.
+
+=== KEY: Capacitance_22bef5
+HEADWORD: Capacitance
+PERSON: no
+LINK TARGETS: Capacitor | Coulomb | Dielectric | Farad | Michael Faraday | Volt
+ENTRY:
+Ability of an object to store electric charge, expressed as the ratio of the change in charge to the change in electric potential. Two closely related notions are commonly recognized: self-capacitance, measured between an object and ground, and mutual capacitance, measured between two components, as in a [[Capacitor]]. The capacitance between two conductors depends on their opposing surface area, the distance between them and the permittivity of any [[Dielectric]] between them. The SI unit is the [[Farad]], named after the English physicist [[Michael Faraday]]. A 1 farad capacitor charged with 1 [[Coulomb|coulomb]] has a potential difference of 1 [[Volt|volt]] between its plates. The self-capacitance of the planet Earth is about 710 μF.
+
+=== KEY: Capacitor_f2b00b
+HEADWORD: Capacitor
+PERSON: no
+LINK TARGETS: Dielectric | Resistor
+ENTRY:
+Passive electronic component with two terminals that stores electrical energy by accumulating charge on two closely spaced, insulated surfaces. Most capacitors have two conductors, often metal plates or foils, separated by a [[Dielectric|dielectric]] such as glass, ceramic, plastic film, paper, mica or air. The component was originally called a condenser, a term still found in names such as condenser microphone. Capacitors block direct current while passing alternating current, smooth power-supply output and tune radios to particular frequencies. Unlike a [[Resistor]], an ideal capacitor does not dissipate energy. In October 1745 Ewald Georg von Kleist found that charge could be stored in a water-filled glass jar, and the following year Pieter van Musschenbroek invented a similar device, the Leyden jar.

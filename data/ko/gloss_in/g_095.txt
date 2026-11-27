@@ -1,0 +1,721 @@
+=== KEY: Neural_network_machine_learning_e974f3
+HEADWORD: Neural network
+PERSON: no
+LINK TARGETS: Graphics processing unit | Large language model | Machine learning | Neuron
+ENTRY:
+Computational model used in [[Machine learning|machine learning]], loosely inspired by biological neural networks. It consists of connected units called artificial [[Neuron|neurons]], which pass real-number signals along weighted connections. Networks with at least two hidden layers are typically called deep neural networks. Training is compute-intensive and is often accelerated by [[Graphics processing unit|graphics processing units]] (GPUs). Convolutional neural networks improved computer vision, while transformer architectures, which introduced attention mechanisms, have been the basis of [[Large language model|large language models]]. Neural networks are used for chatbots, text, image and video generation, and robotics.
+
+=== KEY: Neurology_3505fe
+HEADWORD: Neurology
+PERSON: no
+LINK TARGETS: Epilepsy | Migraine | Multiple sclerosis | Neuroscience | Parkinson's disease | Stroke
+ENTRY:
+Branch of medicine concerned with diagnosing and treating disorders of the nervous system, which comprises the brain, spinal cord and peripheral nerves. Neurologists treat conditions including [[Stroke|stroke]], [[Epilepsy|epilepsy]], [[Parkinson's disease]], [[Multiple sclerosis]], [[Migraine|migraine]] and dementias such as Alzheimer's disease. Neurology is a nonsurgical specialty; its surgical counterpart is neurosurgery. Clinical practice relies heavily on [[Neuroscience|neuroscience]], the scientific study of the nervous system. In the United States and Canada, neurologists typically complete residency training after medical school, and total training takes eight to ten years. Neurologists may also take part in clinical research and trials. The academic discipline began between the 17th and 18th centuries.
+
+=== KEY: Neuromancer_6029bf
+HEADWORD: Neuromancer
+PERSON: no
+LINK TARGETS: Artificial intelligence | Cyberpunk | Hacker
+ENTRY:
+1984 science fiction novel by William Gibson. Set in the near future, it follows Case, a [[Hacker|hacker]] recruited by a powerful [[Artificial intelligence|artificial intelligence]] for a heist. It was Gibson's debut and the first book of the Sprawl trilogy. The novel popularized the concept of cyberspace and defined major conventions of [[Cyberpunk|cyberpunk]]. Critics differ on whether it ignited the genre or was carried by it. It became an underground hit and is the first and only novel to win the Hugo Award, the Nebula Award for Best Novel and the Philip K. Dick Award. In 2005 *Time* named it one of its All-Time 100 Novels.
+
+=== KEY: Neuron_26d4a0
+HEADWORD: Neuron
+PERSON: no
+LINK TARGETS: Nervous system | Neurotransmitter
+ENTRY:
+Electrically excitable nerve cell, the primary cell of the [[Nervous system|nervous system]]. Neurons are the main components of nervous tissue in all animals except sponges and placozoans. Most receive signals through dendrites and the cell body, then send signals down a long axon, usually releasing [[Neurotransmitter|neurotransmitters]] at synapses. When voltage changes enough, the neuron generates an all-or-nothing electrochemical pulse called an action potential. Neurons are typically classified by function as sensory, motor or interneurons. Most are generated during brain development and childhood, and neurogenesis largely ceases in adulthood in most brain areas. The ability to generate electric signals first appeared some 700 to 800 million years ago.
+
+=== KEY: Neuroscience_993c8c
+HEADWORD: Neuroscience
+PERSON: no
+LINK TARGETS: Computer science | Galen | Hippocrates | Luigi Galvani | Medicine | Neuron | Psychology | Santiago Ramón y Cajal
+ENTRY:
+Scientific study of the nervous system, its functions and its disorders. The field is multidisciplinary, combining physiology, anatomy, molecular biology, [[Psychology|psychology]], physics, [[Computer science|computer science]], chemistry, [[Medicine|medicine]] and statistics to study [[Neuron|neurons]], glia and neural circuits. Eric Kandel called the biological basis of learning, memory, behavior, perception and consciousness the "epic challenge" of the biological sciences. The study of the nervous system dates to ancient Egypt, and [[Hippocrates]] argued that the brain was the seat of intelligence. [[Galen]] later observed that brain damage impaired mental faculties. [[Luigi Galvani]]'s work in the late 1700s set the stage for studying electrical excitability. Camillo Golgi's staining method, developed in the late 1890s, was used by [[Santiago Ramón y Cajal]] to reveal individual neurons.
+
+=== KEY: Neurotransmitter_299478
+HEADWORD: Neurotransmitter
+PERSON: no
+LINK TARGETS: Amino acid | Carbon monoxide | Depression (mood) | Dopamine | Neuron | Nitric oxide | Parkinson's disease | Serotonin
+ENTRY:
+Signaling molecule released by a [[Neuron|neuron]] to affect another cell across a synapse. The target cell may be another neuron, a gland or a muscle cell. Neurotransmitters are usually stored in synaptic vesicles and released into the synaptic cleft, where they bind to receptors. The receptor determines whether the effect is excitation, inhibition or modulation. Many are synthesized from simple precursors such as [[Amino acid|amino acids]], and monoamines such as [[Dopamine|dopamine]] and [[Serotonin|serotonin]] are formed by altering a single amino acid. Metabolic gases such as [[Nitric oxide|nitric oxide]] and [[Carbon monoxide|carbon monoxide]] also act like neurotransmitters. More than 100 have been identified, and common ones include glutamate, GABA, acetylcholine, glycine and norepinephrine. They are therapeutic targets for disorders such as [[Parkinson's disease]] and [[Depression (mood)|depression]].
+
+=== KEY: Neuschwanstein_Castle_f481a0
+HEADWORD: Neuschwanstein Castle
+PERSON: no
+LINK TARGETS: Alps | Bavaria | Richard Wagner | World Heritage Site
+ENTRY:
+19th-century historicist palace on a rugged hill in the foothills of the [[Alps]], near the Austrian border in [[Bavaria]], Germany. King Ludwig II commissioned it as a retreat and in honor of composer [[Richard Wagner]]. Built from 1869 to 1892 in the Neo-Romanesque style, it drew on the design of medieval knights' castles. Ludwig financed it largely with his own fortune and borrowing, and he died in 1886. The castle opened to the public shortly afterward and attracts more than 1.3 million visitors a year. It has been part of the [[World Heritage Site|UNESCO World Heritage Site]] since 2025.
+
+=== KEY: Neutrino_fc3cec
+HEADWORD: Neutrino
+PERSON: no
+LINK TARGETS: Beta decay | Sun | Weak interaction | Wolfgang Pauli
+ENTRY:
+Electrically neutral elementary particle with an extremely small mass. It interacts with other matter only through the [[Weak interaction|weak interaction]] and gravity, so it usually passes through matter undetected. Neutrinos are created in weak decays such as [[Beta decay|beta decay]], and most of those detected on Earth come from nuclear reactions inside the [[Sun]]. [[Wolfgang Pauli]] postulated the particle in 1930 to explain how beta decay conserved energy, momentum and angular momentum. Neutrinos come in three flavors (electron, muon and tau) and oscillate between them in flight, which shows that they have mass. Their individual masses are not yet known, but their sum is less than 0.120 eV/c².
+
+=== KEY: Neutron_88fac4
+HEADWORD: Neutron
+PERSON: no
+LINK TARGETS: Atomic nucleus | Ernest Rutherford | Isotope | James Chadwick | Neutron star | Nuclear fission | Proton | Quark
+ENTRY:
+Subatomic particle, symbol n or n⁰, with no electric charge and a mass slightly greater than that of a [[Proton|proton]]. Neutrons are found, with a similar number of protons, in the [[Atomic nucleus|nuclei]] of atoms, and atoms of an element differing only in neutron number are called [[Isotope|isotopes]]. A neutron is not an elementary particle but a baryon composed of three [[Quark|quarks]], one up and two down. A free neutron decays into a proton, an electron, and an antineutrino, with a mean lifetime of about 15 minutes.
+
+In 1920 [[Ernest Rutherford]] suggested that the nucleus contained neutral particles, then imagined as a proton and electron bound together, and in 1921 W. D. Harkins named the hypothetical particle a neutron. This model proved inconsistent with quantum theory and observed nuclear spins. In 1931 Walther Bothe and Herbert Becker found that alpha particles from polonium striking beryllium, boron, or lithium produced an unusually penetrating radiation, which they took to be gamma rays. [[James Chadwick]] then demonstrated that it consisted of uncharged particles with about the proton's mass. The discovery, made in 1932, won him the 1935 Nobel Prize in Physics. Werner Heisenberg and others then developed a proton–neutron model of the nucleus.
+
+The discovery led to rapid developments: [[Nuclear fission]] was discovered in 1938, the first self-sustaining nuclear reactor, Chicago Pile-1, followed in 1942, and the first nuclear weapon, the Trinity test, in 1945. Neutrons are essential to nuclear power and contribute to the nucleosynthesis of elements in stars. [[Neutron star]]s consist of neutrons at nuclear density. Free neutrons do not directly ionize atoms but indirectly cause ionizing radiation, so they can be a biological hazard.
+
+=== KEY: Neutron_star_88a479
+HEADWORD: Neutron star
+PERSON: no
+LINK TARGETS: Black hole | Gamma-ray burst | Gravitational wave | Milky Way | Pulsar | Solar mass
+ENTRY:
+Collapsed core of a massive star, left after a supernova. Neutron stars are the second-smallest and second-densest known class of stellar objects, surpassed only by [[Black hole|black holes]]. They have a radius on the order of 10 km (6 miles) and a mass of about 1.4 [[Solar mass|solar masses]]. Estimates put the number in the [[Milky Way]] at around one billion, and at a minimum several hundred million, although many have cooled considerably. Most detected neutron stars are [[Pulsar|pulsars]] or part of a binary system. In 2017 the LIGO and Virgo observatories detected [[Gravitational wave|gravitational waves]] from the merger of two neutron stars, GW170817, the first direct detection of such waves from that kind of event. The merger is associated with kilonovae and short [[Gamma-ray burst|gamma-ray bursts]].
+
+=== KEY: Neva_0b5a7b
+HEADWORD: Neva
+PERSON: no
+LINK TARGETS: Alexander Nevsky | Danube | Lake Ladoga | Rhine | Saint Petersburg | Siege of Leningrad | Volga | World War II
+ENTRY:
+River in northwestern Russia, flowing from [[Lake Ladoga]] to the Gulf of Finland. Despite a length of 74 km (46 mi), it is the fourth-largest river in Europe by average discharge, after the [[Volga]], [[Danube]] and [[Rhine]]. It is the only river flowing from Lake Ladoga and flows through [[Saint Petersburg]]. The river is navigable throughout and forms part of the Volga–Baltic Waterway and White Sea–Baltic Canal. Historical events include the Battle of the Neva in 1240, which gave [[Alexander Nevsky]] his name, the founding of Saint Petersburg in 1703, and the [[Siege of Leningrad]] during [[World War II]]. A catastrophic flood in 1824 inundated much of the city.
+
+=== KEY: Nevada_8fcebe
+HEADWORD: Nevada
+PERSON: no
+LINK TARGETS: Desert | Gambling | Las Vegas | Silver
+ENTRY:
+Landlocked state in the Western United States, bordering Oregon, Idaho, Utah, Arizona and California. Its capital is Carson City, and [[Las Vegas]] is the largest city. Statehood came on October 31, 1864, during the Civil War, after a population boom that followed the discovery of [[Silver|silver]] at the Comstock Lode in 1859. Tourism, built partly on legalized [[Gambling|gambling]], remains the largest employer. Nevada is the driest U.S. state, and most of it is [[Desert|desert]] or semi-arid. The federal government manages 80.1% of its land. Nevada is the only U.S. state where prostitution is legal, though not in its most populous counties.
+
+=== KEY: Never_Let_Me_Go_novel_1fceae
+HEADWORD: Never Let Me Go
+PERSON: no
+LINK TARGETS: Kazuo Ishiguro
+ENTRY:
+2005 science fiction novel by British author [[Kazuo Ishiguro]]. It is Ishiguro's sixth novel, set in an alternative 1990s England, and follows students at Hailsham, an elite boarding school. They are clones raised to donate their organs, and the narrator, Kathy, reflects on her friendships with Ruth and Tommy as the students learn the truth about their futures. The novel explores friendship, memory and what it means to be human. It was shortlisted for the Man Booker Prize and named the best novel of 2005 by *Time* magazine. A film adaptation directed by Mark Romanek was released in 2010.
+
+=== KEY: Nevermind_17f956
+HEADWORD: Nevermind
+PERSON: no
+LINK TARGETS: Alternative rock | Kurt Cobain | Nirvana (band)
+ENTRY:
+Second studio album by the American rock band [[Nirvana (band)|Nirvana]], released on September 24, 1991. Produced by Butch Vig, it blends [[Alternative rock|alternative rock]] and grunge with punk-inspired hard rock. Its lead single, "Smells Like Teen Spirit", reached the Top 10 of the Billboard Hot 100. The album topped the Billboard 200 in January 1992 and is generally credited with bringing grunge to a mainstream audience. Its lyrics address social alienation and frustration, and [[Kurt Cobain]] was dubbed the "voice of his generation". It has sold more than 30 million copies worldwide.
+
+=== KEY: Neville_Chamberlain_f84475
+HEADWORD: Chamberlain, Neville
+PERSON: yes
+LINK TARGETS: Czechoslovakia | Invasion of Poland | Munich | Nazi Germany | Winston Churchill
+ENTRY:
+British Conservative politician; prime minister of the United Kingdom, 1937–40. Chamberlain is known for his policy of appeasement toward [[Nazi Germany]], especially the [[Munich|Munich Agreement]] of 1938, which ceded the German-speaking Sudetenland of [[Czechoslovakia]] to Germany. He declared war on Germany after its [[Invasion of Poland|invasion of Poland]] in 1939. He resigned in May 1940 when Labour and Liberal leaders would not serve under him, and [[Winston Churchill]] succeeded him. Critics, notably in *Guilty Men* (1940), blamed him for failing to prepare for war, while some later historians argue that war in 1938 would have been disastrous.
+
+=== KEY: New_Age_810e35
+HEADWORD: New Age
+PERSON: no
+LINK TARGETS: Alternative medicine | Astrology | Meditation | Western esotericism
+ENTRY:
+Eclectic range of spiritual and religious beliefs and practices that grew rapidly in Western society in the early 1970s. It drew on [[Western esotericism|Western esoteric]] traditions, including Spiritualism and Theosophy, and on the 1960s counterculture and the Human Potential Movement. Common beliefs include a holistic divinity that pervades the universe and the spiritual authority of the self. Practices include [[Meditation|meditation]], [[Astrology|astrology]] and channeling, and adherents often seek healing through [[Alternative medicine|alternative medicine]]. The name refers to the expected Age of Aquarius. Criticism has come from Christians as well as modern Pagan and Indigenous communities. Scholars of religious studies have researched the movement since the 1990s, and adherents increasingly rejected the term by the early 21st century.
+
+=== KEY: New_Britain_19c8f6
+HEADWORD: New Britain
+PERSON: no
+LINK TARGETS: League of Nations | New Guinea | Papua New Guinea | Taiwan
+ENTRY:
+Largest island in the Bismarck Archipelago, part of [[Papua New Guinea]] and roughly the size of [[Taiwan]]. Its main towns are Rabaul, Kokopo and Kimbe. Formed largely by volcanic processes, it has active volcanoes including Ulawun, its highest point at 2,334 m (7,657 ft). A major eruption of Tavurvur in 1994 destroyed much of Rabaul, the East New Britain provincial capital, and the capital moved to Kokopo. William Dampier became the first known British visitor in 1700 and named it Nova Britannia. As part of [[New Guinea|German New Guinea]] from 1884, the island was called Neupommern. Australian forces captured it in 1914, and it was later administered as a [[League of Nations]] mandate.
+
+=== KEY: New_Brunswick_2dbd2b
+HEADWORD: New Brunswick
+PERSON: no
+LINK TARGETS: Acadia | Canada
+ENTRY:
+Province of eastern [[Canada]], one of the three Maritime provinces, about 83% forested. Its population of 775,610 (2021 census) is about two-thirds English-speaking and one-third French-speaking. The province is home to most of the cultural region of [[Acadia]] and most Acadians, whose variety of French is called Acadian French. British authorities deported Acadians en masse from 1755 to 1764 in the Great Upheaval. The colony was created in 1784, after many loyalists arrived following the American Revolution, and the province joined Confederation in 1867. The Official Languages Act of 1969 recognized French alongside English. Tourism accounts for 9% of the labor force.
+
+=== KEY: New_Caledonia_53a952
+HEADWORD: New Caledonia
+PERSON: no
+LINK TARGETS: Australia | James Cook | Melanesia | Nickel | Scotland | World Heritage Site
+ENTRY:
+French collectivity of islands in the southwest Pacific Ocean, about 1,210 km (750 mi) east of [[Australia]]. Its main island is Grande Terre, and it has a unique legal status set out in a dedicated chapter of the French Constitution. The population of 264,596 (April 2025 census) includes Kanak people, who make up 41%, and the capital is Nouméa. The territory forms part of [[Melanesia]]. [[James Cook]] sighted it in 1774 and named it after [[Scotland]]. Blackbirding, the kidnapping and forced labor of islanders on plantations, was practiced by French and Australian traders. [[Nickel]] mining accounts for about 90% of exports. Referendums on independence held in 2018, 2020 and 2021 rejected separation from France, though boycotts by Kanak groups lowered turnout in the last vote. The Lagoons of New Caledonia have been a [[World Heritage Site|UNESCO World Heritage Site]] since 2008.
+
+=== KEY: New_Deal_ee9b19
+HEADWORD: New Deal
+PERSON: no
+LINK TARGETS: Franklin D. Roosevelt | Great Depression | Trade union | United States | World War II
+ENTRY:
+Series of economic, social and political reforms introduced in the [[United States]] by President [[Franklin D. Roosevelt]] in response to the [[Great Depression]]. The First New Deal (1933–35) aimed at relief, recovery and reform of the financial system. Its measures included the Federal Deposit Insurance Corporation, the Securities and Exchange Commission and the Civilian Conservation Corps, which employed young men on government land. The Second New Deal (1935–38) created the National Labor Relations Act, which guaranteed the right to organize [[Trade union|trade unions]], and the Social Security Act. Historians still debate its effectiveness, though most accept that full employment was not achieved until the United States entered [[World War II]] in 1941. Some econometric studies argue that its cartel-style policies prolonged the Depression.
+
+=== KEY: New_Delhi_44d20c
+HEADWORD: New Delhi
+PERSON: no
+LINK TARGETS: Delhi | George V | Government of India
+ENTRY:
+Capital city of India, part of the National Capital Territory of [[Delhi]]. It seats the three branches of the [[Government of India]], including the Rashtrapati Bhavan presidential palace, Parliament House and the Supreme Court. British architects Edwin Lutyens and Herbert Baker designed the city. [[George V]] announced the shift of the capital from Calcutta at the 1911 Delhi Durbar and laid the foundation stone. The city was inaugurated on February 13, 1931. The municipality, administered by the New Delhi Municipal Council, mostly covers Lutyens' Delhi.
+
+=== KEY: New_England_97ac5f
+HEADWORD: New England
+PERSON: no
+LINK TARGETS: American Revolutionary War | Appalachian Mountains | Boston | Industrial Revolution | New Brunswick | New York (state) | Quebec
+ENTRY:
+Region of six states in the northeastern United States: Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont. It borders [[New York (state)|New York]] to the west and the Canadian provinces of [[New Brunswick]] and [[Quebec]]. [[Boston]] is the largest city, and Greater Boston houses more than half of the region's population. The Pilgrims established Plymouth Colony in 1620, and Puritans later founded Massachusetts Bay Colony. Residents of Boston threw British tea into the harbor, and British punitive laws led to the first battles of the [[American Revolutionary War]] in 1775. The region was the first in the United States transformed by the [[Industrial Revolution]]. Its physical geography includes a narrow coastal plain and the northern end of the [[Appalachian Mountains]].
+
+=== KEY: New_England_Patriots_08fb37
+HEADWORD: New England Patriots
+PERSON: no
+LINK TARGETS: Bill Belichick | National Football League | Pittsburgh Steelers | Super Bowl | Tom Brady
+ENTRY:
+Professional American football team in the [[National Football League]], based in the Greater Boston area. Founded in 1959 as the Boston Patriots, the team was a charter member of the American Football League before joining the NFL in 1970. It moved to Foxborough, Massachusetts, in 1971 and plays at Gillette Stadium. Under coach [[Bill Belichick]] and quarterback [[Tom Brady]], the team dominated from 2001 to the 2019 season, and it holds the record for the most [[Super Bowl]] appearances (12). The franchise has won six Super Bowls, tied with the [[Pittsburgh Steelers]] for the most. Owner Robert Kraft bought the team in 1994.
+
+=== KEY: New_France_36c4d2
+HEADWORD: New France
+PERSON: no
+LINK TARGETS: Fur trade | Louisiana Purchase | Quebec | Seven Years' War | United States
+ENTRY:
+French colonial territory in mainland North America, 1534–1763. At its 1712 peak, New France comprised five colonies, from Newfoundland to the Canadian Prairies and from Hudson Bay to the Gulf of Mexico. Early activity centered on the [[Fur trade|fur trade]]; successful settlements began in Acadia and [[Quebec]] in the 17th century. The Treaty of Utrecht (1713) ceded French claims in Acadia, Hudson Bay and Newfoundland to Britain. After the [[Seven Years' War]], the 1763 Treaty of Paris ceded the rest of New France to Britain and Spain. Napoleon Bonaparte sold Louisiana to the [[United States]] in the [[Louisiana Purchase]] of 1803.
+
+=== KEY: New_Guinea_e79e21
+HEADWORD: New Guinea
+PERSON: no
+LINK TARGETS: Australia | Continental shelf | Melanesia | Papua New Guinea | Pleistocene | Port Moresby | Rainforest
+ENTRY:
+Second-largest island in the world, in the southwestern Pacific Ocean. The island lies in [[Melanesia]], separated from [[Australia]] by the 150 km Torres Strait; both landmasses sit on the same [[Continental shelf|continental shelf]] and were joined as the landmass of Sahul during low sea levels in the [[Pleistocene]] glaciations. It has the third-largest remaining [[Rainforest|rainforest]] in the world and the highest plant biodiversity of any island. The eastern half is the main landmass of [[Papua New Guinea]], while the western half forms part of Indonesia. The two major cities are [[Port Moresby]] and Jayapura. The Spanish explorer Yñigo Ortiz de Retez named it in 1545, perceiving a resemblance between its peoples and those of the African region of Guinea. Indonesia took control of the west under the 1962 New York Agreement, and a 1969 Act of Free Choice integrated the territory, a process critics have called manipulated.
+
+=== KEY: New_Hampshire_493551
+HEADWORD: New Hampshire
+PERSON: no
+LINK TARGETS: Income tax | Sales tax | United States Declaration of Independence
+ENTRY:
+State in the New England region of the northeastern United States (pop., 2020: 1,377,529). Concord is the capital, and Manchester is the largest city. In 1776 it became the first of the British North American colonies to establish an independent government and state constitution, and its delegates signed the [[United States Declaration of Independence]]. Textile manufacturing and shoemaking drove industrialization after the U.S. Civil War. The state has no [[Income tax|income tax]] or [[Sales tax|sales tax]], relying instead on local property taxes. It is known for holding the first U.S. presidential primary.
+
+=== KEY: New_Haven_Connecticut_53ad8c
+HEADWORD: New Haven
+PERSON: no
+LINK TARGETS: Connecticut | Puritans | Yale University
+ENTRY:
+City in the U.S. state of [[Connecticut]], on the northern shore of Long Island Sound (pop., 2020: 134,023). [[Yale University]] is the city's biggest employer and taxpayer. New Haven was founded by English [[Puritans]] in 1638, and within a year it was laid out in the Nine Square Plan, one of the first planned cities in the United States. The city was co-capital of Connecticut from 1701 to 1873. It is nicknamed the Elm City after its public tree-planting program, the first in the U.S.
+
+=== KEY: New_Hollywood_20ab02
+HEADWORD: New Hollywood
+PERSON: no
+LINK TARGETS: Francis Ford Coppola | Martin Scorsese | Studio system
+ENTRY:
+American film movement of the mid-1960s to early 1980s, also called the Hollywood Renaissance. It arose as the [[Studio system|studio system]] weakened after the Paramount Case and the rise of television, and directors such as [[Francis Ford Coppola]] and [[Martin Scorsese]] took a key authorial role. Their narratives often departed from classical norms. Early hits included *Bonnie and Clyde* and *The Graduate* (both 1967), and landmarks included *The Godfather* (1972) and *Taxi Driver* (1976). The movement declined after costly flops such as *Heaven's Gate* (1980), and Hollywood shifted to blockbusters such as *Jaws* and *Star Wars*.
+
+=== KEY: New_Horizons_bd0909
+HEADWORD: New Horizons
+PERSON: no
+LINK TARGETS: Johns Hopkins University | Jupiter | Kuiper belt | Pluto | Sun
+ENTRY:
+NASA interplanetary probe, launched January 19, 2006. It was the first spacecraft to explore [[Pluto]], flying 12,500 km (7,800 mi) above its surface on July 14, 2015. Built by the [[Johns Hopkins University]] Applied Physics Laboratory, it also flew past [[Jupiter]] in 2007 for a gravity assist and the [[Kuiper belt]] object Arrokoth in 2019. It was the fastest human-made object ever launched from Earth, measured by average speed relative to Earth. As of April 2026 it was 64.45 AU from the [[Sun]]; NASA plans to operate it until it leaves the Kuiper belt, expected in 2028 or 2029.
+
+=== KEY: New_Imperialism_d5435b
+HEADWORD: New Imperialism
+PERSON: no
+LINK TARGETS: Africa | Asia | Decolonization | Scramble for Africa | United States | World War II
+ENTRY:
+Period of colonial expansion by the major Western powers and Japan in the late 19th and early 20th centuries. The participants included the United Kingdom, France, Germany, Italy, the Netherlands, Belgium, Portugal, Russia, the [[United States]] and Japan. The European powers and Japan conquered almost all of [[Africa]] and parts of [[Asia]], motivated by rivalry among the great powers, the economic desire for new resources and markets, and a civilizing mission. The Long Depression of 1873–1896 pressed governments to promote home industry, and Europe's powers abandoned free trade (Germany from 1879, France from 1881). The [[Scramble for Africa]] was formalized at the Berlin Conference of 1884–1885, which defined effective occupation as the basis for recognizing territorial claims, requiring routine armed force against indigenous states. Many colonies gained independence during the era of [[Decolonization|decolonization]] that followed [[World War II]].
+
+=== KEY: New_Jersey_25095a
+HEADWORD: New Jersey
+PERSON: no
+LINK TARGETS: American Civil War | American Revolution | Filmmaking | Finance | Logistics | Manufacturing | Thirteen Colonies
+ENTRY:
+U.S. state in the Mid-Atlantic and Northeastern regions, the most densely populated in the nation (pop., 2025: over 9.5 million). Its capital is Trenton and its largest city is Newark. Dutch and Swedish colonists made the first European settlements. It was among the [[Thirteen Colonies]], and it hosted several pivotal battles of the [[American Revolution]]. After the [[American Civil War]], it became a major [[Manufacturing|manufacturing]] center and a destination for immigrants. It is known as the Medicine Chest of the World for its biopharmaceutical industry, and strong sectors include [[Finance|finance]], [[Logistics|logistics]] and [[Filmmaking|filmmaking]].
+
+=== KEY: New_Kids_on_the_Block_7cce86
+HEADWORD: New Kids on the Block
+PERSON: no
+LINK TARGETS: Backstreet Boys | Columbia Records | Hollywood Walk of Fame | NSYNC
+ENTRY:
+American vocal group from Dorchester, Massachusetts, formed in 1984. Initially conceived as a boy band, it signed with [[Columbia Records]] and sold more than 80 million records worldwide. The members are Donnie Wahlberg, Jordan Knight, Jonathan Knight, Joey McIntyre and Danny Wood. The group won two American Music Awards in 1990 and is often credited with paving the way for later boy bands such as [[Backstreet Boys]] and [[NSYNC]]. It disbanded in 1994 and reunited in 2007 to record an album, then toured in 2008. In 2014 the group received a star on the [[Hollywood Walk of Fame]].
+
+=== KEY: New_Kingdom_of_Egypt_879d3d
+HEADWORD: New Kingdom of Egypt
+PERSON: no
+LINK TARGETS: Akhenaten | Hatshepsut | Land of Punt | Levant | Nubia | Ramesses II | Thutmose III
+ENTRY:
+Period of ancient Egyptian history, 16th–11th century BC, covering the 18th, 19th and 20th dynasties. Egypt reached its greatest territorial extent in this era, after expelling the Hyksos, with campaigns into the [[Levant]] and [[Nubia]]. [[Hatshepsut]] funded a mission to the [[Land of Punt]] and re-established trade networks, and [[Thutmose III]] is recorded as having captured 350 cities. Thutmose I was the first pharaoh to cross the Euphrates. Later reigns included [[Akhenaten]], who attempted a monotheistic reform centered on the Aten, and [[Ramesses II]], whose long reign saw monumental construction. The period weakened under foreign pressure and resource strains, leading to the Third Intermediate Period.
+
+=== KEY: New_Mexico_8c669d
+HEADWORD: New Mexico
+PERSON: no
+LINK TARGETS: Manhattan Project | Mexican–American War | New Spain | Trinity (nuclear test)
+ENTRY:
+Landlocked state in the Southwestern United States, admitted to the Union on January 6, 1912, as the 47th state. Its capital, Santa Fe, is the oldest state capital in the U.S., founded in 1610 as a seat of government in [[New Spain]]. The 1680 Pueblo Revolt was the first successful revolution against colonial rule in the Americas. After the [[Mexican–American War]], the United States annexed it as part of New Mexico Territory. During World War II, New Mexico hosted key facilities of the [[Manhattan Project]], and the first nuclear test, [[Trinity (nuclear test)|Trinity]], took place there in 1945.
+
+=== KEY: New_Order_band_bb9c88
+HEADWORD: New Order
+PERSON: no
+LINK TARGETS: Electronic dance music | Joy Division | Manchester | Rock and Roll Hall of Fame
+ENTRY:
+English rock band formed in [[Manchester]] in 1980. Its founders, Bernard Sumner, Peter Hook and Stephen Morris, had been members of [[Joy Division]], which disbanded in 1980 after the suicide of lead singer Ian Curtis. They fused post-punk with [[Electronic dance music|electronic dance music]], and their 1983 single "Blue Monday" became the best-selling 12-inch single of all time. The band was the flagship act of Factory Records and pioneered alternative dance. Hook left in 2007 after personal disputes with the other members. In 2026, the band and Joy Division were inducted as one act into the [[Rock and Roll Hall of Fame]].
+
+=== KEY: New_Orleans_ac69cb
+HEADWORD: New Orleans
+PERSON: no
+LINK TARGETS: Architecture | Hurricane Katrina | Levee | Louisiana | Louisiana Purchase | Mardi Gras | Mississippi River | World War II
+ENTRY:
+Consolidated city-parish on the [[Mississippi River]] in [[Louisiana]] (pop., 2020: 383,997). The city is a major port and commercial hub for the Gulf Coast and is known for its music, Creole cuisine and [[Mardi Gras]]. Founded in 1718 by French colonists, it was the territorial capital of French Louisiana before passing to the United States in the [[Louisiana Purchase]] of 1803. It was the largest city in the American South from the Antebellum era until after [[World War II]]. Its historic French Quarter is known for French and Spanish Creole [[Architecture|architecture]]. [[Levee|Levees]] and drainage pumps are meant to protect the city from flooding, but [[Hurricane Katrina]] in 2005 flooded more than 80% of it, killed more than 1,300 people and caused a population decline of over 50%.
+
+=== KEY: New_South_Wales_51927f
+HEADWORD: New South Wales
+PERSON: no
+LINK TARGETS: Australia | James Cook | Sydney | Sydney Harbour Bridge | Sydney Opera House
+ENTRY:
+State on the east coast of [[Australia]] (pop., 2025: over 8.6 million). Its capital, [[Sydney]], is also the country's largest city, and almost two-thirds of residents live in Greater Sydney. [[James Cook]] claimed the east coast in 1770, and Britain founded a penal colony at Sydney Cove on January 26, 1788. Originally covering more than half of mainland Australia, the colony was divided during the 19th century into what became other states and territories. [[Sydney Harbour Bridge]] (completed 1932) and the [[Sydney Opera House]] (opened 1973) are notable landmarks. Lord Howe Island remains part of the state.
+
+=== KEY: New_Spain_918522
+HEADWORD: New Spain
+PERSON: no
+LINK TARGETS: Aztec Empire | Hernán Cortés | Manila | Mexican War of Independence | Mexico City | Spanish Empire | Tenochtitlan
+ENTRY:
+Viceroyalty of the [[Spanish Empire]], 1521–1821, with its capital at [[Mexico City]]. [[Hernán Cortés]] conquered the [[Aztec Empire]] in 1521 and established the capital on the site of [[Tenochtitlan]]. Established as a viceroyalty in 1535, it covered Mexico, Central America, the Caribbean and much of the southwestern United States, including California, Texas and Florida, as well as the Philippines and Guam. Silver mining in Zacatecas from the 1540s made it vital to the Spanish crown, and Acapulco was the New World terminus of the trade with [[Manila]]. The [[Mexican War of Independence]] (1810–1821) ended the viceroyalty in 1821.
+
+=== KEY: New_Testament_c49a0e
+HEADWORD: New Testament
+PERSON: no
+LINK TARGETS: Book of Revelation | Catholic Church | Hebrew Bible | Jesus | Old Testament
+ENTRY:
+Second division of the Christian Bible, a collection of 27 texts written in Koine Greek by various authors. It includes four gospels, the Acts of the Apostles, epistles attributed to Paul and other authors, and the [[Book of Revelation]]. Together with the [[Old Testament]], based primarily on the [[Hebrew Bible]], it forms the sacred scripture of Christianity. Its texts recount the teachings and person of [[Jesus]] and events of first-century Christianity. Many texts were written in the mid-to-late first century, though scholars lack consensus on the date of the latest. The canon developed over the first few centuries and was formalized as 27 books by the late fourth century. The earliest manuscripts date from the late second to early third centuries AD, except possibly Papyrus 52. The [[Catholic Church]] and Eastern Orthodoxy regard it as inspired scripture, as do evangelicals and many other Protestants.
+
+=== KEY: New_World_6b9b6d
+HEADWORD: New World
+PERSON: no
+LINK TARGETS: Africa | Age of Discovery | Amerigo Vespucci | Asia | Columbian exchange
+ENTRY:
+Early modern term for most lands in the Western Hemisphere, particularly the Americas and sometimes Oceania. It was introduced in the early 16th century during the [[Age of Discovery]], when Italian explorer [[Amerigo Vespucci]] argued that lands west of the Atlantic were new continents. Before this, European geographers thought the world included only [[Africa]], [[Asia]] and Europe, which were known as the Old World. The [[Columbian exchange]] carried maize, potatoes, tomatoes and tobacco from the Americas to the Old World, and wheat, horses, cattle and pigs in the opposite direction.
+
+=== KEY: New_World_Order_conspiracy_theory_606014
+HEADWORD: New World Order conspiracy theory
+PERSON: no
+LINK TARGETS: Antichrist | League of Nations | United Nations
+ENTRY:
+Conspiracy theory holding that a secretive power elite plans a totalitarian world government. Adherents allege that a cabal uses front organizations and crises to pursue a globalist agenda that would replace sovereign nation-states. Before the early 1990s it was largely confined to the militantly anti-government right in the United States and to fundamentalist Christians concerned with the [[Antichrist]]. Scholars Michael Barkun and Chip Berlet have warned that it has fueled survivalism and paramilitarism. Woodrow Wilson and Winston Churchill used the phrase in the 20th century for international cooperation, such as the [[League of Nations]] and the [[United Nations]].
+
+=== KEY: New_World_monkey_652675
+HEADWORD: New World monkey
+PERSON: no
+LINK TARGETS: Eocene | Mexico | Old World monkey | Spider monkey
+ENTRY:
+Five primate families native to the tropics of [[Mexico]], Central America and South America. Their broad, flat noses, with sideways-facing nostrils, give the parvorder Platyrrhini its name, meaning broad-nosed. Families include marmosets and tamarins, capuchins and squirrel monkeys, night monkeys, titis and sakis, and howler and [[Spider monkey|spider monkeys]]. Monkeys of the family Atelidae, such as the spider monkey, are the only primates with prehensile tails. New World monkeys are thought to descend from African simians that crossed the Atlantic on rafts of vegetation during the [[Eocene]], and the lineage split from other simians about 40 million years ago. Their closest relatives are the [[Old World monkey|Old World monkeys]] and apes. Many species are now threatened by habitat destruction and hunting.
+
+=== KEY: New_World_vulture_d8c1ec
+HEADWORD: New World vulture
+PERSON: no
+LINK TARGETS: Americas | Andean condor | Old World vulture | Scavenger | Sense of smell
+ENTRY:
+Family of seven living species of vultures and condors, found in the [[Americas]]. They are called New World vultures to distinguish them from [[Old World vulture|Old World vultures]], with which they are not closely related despite similar appearance and behavior. Like other vultures, they are [[Scavenger|scavengers]] with an extremely disease-resistant digestive system and a bald head that helps prevent rotting matter from accumulating while feeding. Some species have a good [[Sense of smell|sense of smell]], whereas Old World vultures find carcasses by sight alone. The family includes the [[Andean condor]] and the California condor, which is critically endangered, with about 560 individuals, including captive birds, as of 2024. The black vulture and turkey vulture are of least concern and expanding northward.
+
+=== KEY: New_World_warbler_113009
+HEADWORD: New World warbler
+PERSON: no
+LINK TARGETS: Central America | New World | South America
+ENTRY:
+Family of small, often colorful passerine birds restricted to the [[New World]]. They are not closely related to Old World warblers, and most are arboreal insectivores, though the ovenbird and the two waterthrushes are primarily terrestrial. The family likely originated in northern [[Central America]], where the greatest number of species is found, and spread north during interglacial periods, mainly as migrants that returned to the ancestral region in winter. Two genera, Myioborus and Basileuterus, appear to have colonized [[South America]] early, perhaps before the two continents were linked, and together constitute most warbler species there. The family name Parulidae derives from the genus Parula, whose name evolved from the tit genus Parus used by Linnaeus in 1758.
+
+=== KEY: New_Year_s_Eve_e376be
+HEADWORD: New Year's Eve
+PERSON: no
+LINK TARGETS: American Samoa | Gregorian calendar | International Date Line | Kiribati | Rwanda | Samoa | Tonga
+ENTRY:
+Last day of the [[Gregorian calendar|Gregorian]] year, 31 December, and the evening that marks its end. In many countries it is celebrated with dancing, eating, drinking and fireworks, and many Christians attend a watchnight service. Celebrations generally continue past midnight into New Year's Day, 1 January. The local time zone determines when the new year arrives; the first places to welcome it are the Line Islands (part of [[Kiribati]]), [[Samoa]] and [[Tonga]], west of the [[International Date Line]]. In contrast, [[American Samoa]], Baker Island and Howland Island are among the last to welcome it. In Ghana, fireworks are displayed at midnight across various cities, especially in Accra and Tema. In [[Rwanda]] the president delivers a live end-of-year address at midnight.
+
+=== KEY: New_York_City_Subway_9b78d2
+HEADWORD: New York City Subway
+PERSON: no
+LINK TARGETS: Manhattan | New York City | Rapid transit
+ENTRY:
+[[Rapid transit]] system in [[New York City]], serving [[Manhattan]], Brooklyn, Queens and the Bronx. Opened on October 27, 1904, it is one of the world's oldest public transit systems. It has the most stations of any system, with 423 in operation (472 if stations linked by transfers are counted multiple times). It has 665 miles (1,070 km) of revenue track, and 40% of the track is above ground. It is the busiest rapid transit system in the Western Hemisphere by annual ridership, with 2,314,388,000 unlinked passenger trips in 2025. Of its 25 services, 22 pass through Manhattan. It has run 24 hours a day, every day, for most of its history.
+
+=== KEY: New_York_City_d97e02
+HEADWORD: New York City
+PERSON: no
+LINK TARGETS: Dutch East India Company | Ellis Island | James II of England | Manhattan | Nasdaq | New York Stock Exchange | United Nations | Wall Street
+ENTRY:
+City (pop., 2026 est.: 8,586,038), largest in the United States, at the southern tip of New York State on New York Harbor. It comprises five boroughs, Manhattan, Brooklyn, Queens, the Bronx, and Staten Island, each coextensive with its county. Covering 778.2 sq km, it is the most densely populated major city in the country, with more than double the population of Los Angeles. Its metropolitan area has more than 20.1 million residents, the largest in the U.S.
+
+The area was home to Munsee-speaking Lenape. Henry Hudson visited the harbor in 1609 while searching for the Northwest Passage for the [[Dutch East India Company]]. Dutch colonists established Fort Amsterdam on [[Manhattan]] around 1624; the settlement was named New Amsterdam in 1626 and chartered as a city in 1653. England took control in 1664 and renamed it for the Duke of York, later [[James II of England|James II]]; the name was made permanent in 1674. New York was the national capital from 1785 until 1790, and the modern city was formed by the 1898 consolidation of its boroughs. Between 1892 and 1954 more than 12 million immigrants entered the United States through [[Ellis Island]].
+
+Anchored by [[Wall Street]] in the Financial District, the city is a global center of finance, commerce, technology, media, culture, and fashion. The metropolitan area had a gross metropolitan product of over US$2.44 trillion in 2024. The [[New York Stock Exchange]] and [[Nasdaq]] are the world's two largest stock exchanges by market capitalization of listed companies. The city is the headquarters of the [[United Nations]]. It leads the world in urban automobile traffic congestion despite its 24/7 rapid transit system.
+
+=== KEY: New_York_Post_f35f2e
+HEADWORD: New York Post
+PERSON: no
+LINK TARGETS: Alexander Hamilton | Federalist Party | New York City | Newspaper | Rupert Murdoch
+ENTRY:
+American conservative daily tabloid [[Newspaper|newspaper]] published in [[New York City]]. Founded in 1801 by [[Alexander Hamilton]] as the *New-York Evening Post*, a broadsheet. Hamilton's co-investors were [[Federalist Party|Federalists]] dismayed by Thomas Jefferson's election as president. Its best-known 19th-century editor was William Cullen Bryant, under whom it was widely respected. Dorothy Schiff owned it in the mid-20th century; in 1976 [[Rupert Murdoch]]'s News Corp bought it for US$30.5 million. Its coverage has drawn frequent criticism for controversial headlines and accusations of political bias. As of 2026 it is the third-largest U.S. newspaper by print circulation.
+
+=== KEY: New_York_Stock_Exchange_9fdd6c
+HEADWORD: New York Stock Exchange
+PERSON: no
+LINK TARGETS: Bond (finance) | Great Depression | Stock exchange
+ENTRY:
+American [[Stock exchange|stock exchange]], nicknamed the Big Board, in the Financial District of Lower Manhattan. It is owned by Intercontinental Exchange, an American holding company. Its origins trace to the Buttonwood Agreement, signed on May 17, 1792, by 24 brokers who agreed to give preference to one another in securities sales. The earliest securities traded were mostly government [[Bond (finance)|bonds]], including Revolutionary War bonds. The Civil War greatly stimulated speculative trading, and membership was capped by 1869. Government regulation followed, with the most dramatic changes in the 1930s after a major stock market crash near the beginning of the [[Great Depression]]. It lists more than 2,000 companies, predominantly large firms. In 2012 it imposed rules restricting brokers from voting uninstructed shares.
+
+=== KEY: New_York_University_3712da
+HEADWORD: New York University
+PERSON: no
+LINK TARGETS: Abu Dhabi | Brooklyn | Manhattan | New York City | Pulitzer Prize | Shanghai
+ENTRY:
+Private research university in [[New York City]], chartered in 1831 as the University of the City of New York, with Albert Gallatin as its first president. The main campus is in Greenwich Village around Washington Square Park, with an engineering school in [[Brooklyn]] and graduate schools throughout [[Manhattan]]. NYU enrolled 61,890 students in 2023. Its global system includes degree-granting portal campuses in [[Abu Dhabi]] and [[Shanghai]]. Past and present faculty and alumni include 39 Nobel laureates and 26 [[Pulitzer Prize]] winners.
+
+=== KEY: New_York_Yankees_bece47
+HEADWORD: New York Yankees
+PERSON: no
+LINK TARGETS: Babe Ruth | Boston Red Sox | Forbes | Lou Gehrig | Major League Baseball | New York City | World Series
+ENTRY:
+[[Major League Baseball]] franchise based in the Bronx, [[New York City]]. Founded in 1903 as the New York Highlanders, the team was renamed the Yankees in 1913. The Yankees have won 27 [[World Series]] championships, a Major League Baseball record, and 52 players and 11 managers have been inducted into the National Baseball Hall of Fame, including [[Babe Ruth]] and [[Lou Gehrig]]. According to [[Forbes]], the Yankees are the most valuable Major League Baseball franchise. Their rivalry with the [[Boston Red Sox]] is one of the best known in North American sports.
+
+=== KEY: New_York_state_4692a7
+HEADWORD: New York
+PERSON: no
+LINK TARGETS: Columbia University | Cornell University | Erie Canal | New England | New York City | Thirteen Colonies
+ENTRY:
+U.S. state in the Northeastern United States and one of the original [[Thirteen Colonies]]. It has over 20 million residents and a total area of 141,300 sq km (54,556 sq mi). New York borders [[New England]], Pennsylvania, New Jersey and Canada, and extends into the Atlantic Ocean and the Great Lakes. Downstate, including [[New York City]] and Long Island, holds about two-thirds of the population. The Dutch established the colony of New Netherland in 1621, and England seized it in 1664. The state ratified the U.S. Constitution in 1788. Development of its interior, beginning with the [[Erie Canal]] in the early 19th century, earned it the nickname "Empire State". About 200 colleges and universities include [[Columbia University]] and [[Cornell University]], both Ivy League members.
+
+=== KEY: New_Zealand_c51ed5
+HEADWORD: New Zealand
+PERSON: no
+LINK TARGETS: Abel Tasman | Australia | James Cook | North Island | Pacific Ocean | South Island | Wellington
+ENTRY:
+Island country in the southwestern [[Pacific Ocean]], east of [[Australia]] across the Tasman Sea. It consists of the [[North Island]], the [[South Island]] and many smaller islands. The capital is [[Wellington]], and the largest city is Auckland. Polynesians settled the islands between about 1280 and 1350 and developed a distinctive Māori culture. The Dutch explorer [[Abel Tasman]] was the first European to record the islands, in 1642, and [[James Cook]] was the first to map them, in 1769. After the Treaty of Waitangi was signed with Māori chiefs in 1840, Britain declared sovereignty and the Colony of New Zealand was established in 1841. New Zealand became a dominion in 1907 and gained full statutory independence in 1947. It was the first country to introduce a minimum wage and to give women the right to vote. Its population is around 5.3 million.
+
+=== KEY: New_Zealand_national_rugby_union_team_c3088c
+HEADWORD: New Zealand national rugby union team
+PERSON: no
+LINK TARGETS: New Zealand | Rugby World Cup | Rugby union | Sydney
+ENTRY:
+Men's [[Rugby union]] team of [[New Zealand]], known as the All Blacks. The team won the [[Rugby World Cup]] in 1987, 2011 and 2015, and was the first country to retain the title. Its first international test was against Australia in [[Sydney]] in 1903. The name "All Blacks" dates from its 1905 tour, when the team wore all black. Traditionally, the All Blacks perform the haka Ka Mate before matches.
+
+=== KEY: New_religious_movement_2b80e4
+HEADWORD: New religious movement
+PERSON: no
+LINK TARGETS: Baháʼí Faith | Christian Science | Joseph Smith
+ENTRY:
+Religious or spiritual group of modern origin that is peripheral to its society's dominant religious culture. Such groups, also called new religions, number in the tens of thousands worldwide, and most have only a few members. Scholars differ on the starting point, from the 1950s or 1945 to 1830, when [[Joseph Smith]] founded the Latter Day Saint movement. The 1893 Parliament of the World's Religions in Chicago included movements such as [[Christian Science]] and the [[Baháʼí Faith]]. Established religions and secular institutions have often opposed new religions, and Western anti-cult and Christian countercult movements emerged in the 1970s and 1980s. Scholars often explain their rise through secularization, globalization and individualization.
+
+=== KEY: Newark_New_Jersey_b60d9f
+HEADWORD: Newark
+PERSON: no
+LINK TARGETS: New Jersey | Panasonic | Puritans
+ENTRY:
+Most populous city in [[New Jersey]] and county seat of Essex County (pop., 2020: 311,549). Settled in 1666 by [[Puritans]] from New Haven Colony, it is one of the oldest cities in the United States and a principal city of the New York metropolitan area. Its port, Port Newark–Elizabeth, is the primary container terminal of the busiest seaport on the U.S. East Coast. Newark Liberty International Airport was the first municipal commercial airport in the United States. Companies headquartered in Newark include Prudential, PSEG and [[Panasonic|Panasonic Corporation of North America]].
+
+=== KEY: Newcastle_upon_Tyne_cf73ea
+HEADWORD: Newcastle upon Tyne
+PERSON: no
+LINK TARGETS: Hadrian | Hadrian's Wall | Industrial Revolution | Shipbuilding | William the Conqueror
+ENTRY:
+City and metropolitan borough in Tyne and Wear, England's northernmost city (pop., 2025 est.: 320,838). It developed around the Roman fort and bridge of Pons Aelius, named for the family name of the Roman emperor [[Hadrian]], and fragments of [[Hadrian's Wall]] are visible in parts of the city. In 1080 Robert Curthose, son of [[William the Conqueror]], built a wooden castle there, and the town became known as New Castle. It was one of the world's largest [[Shipbuilding|shipbuilding]] and ship repair centers during the [[Industrial Revolution]].
+
+=== KEY: Newfoundland_and_Labrador_daa7c9
+HEADWORD: Newfoundland and Labrador
+PERSON: no
+LINK TARGETS: British Empire | Canada | Great Depression | Newfoundland (island) | Quebec
+ENTRY:
+Easternmost province of [[Canada]], in the Atlantic region (pop., 2026: 552,462). It comprises the island of [[Newfoundland (island)|Newfoundland]] and the mainland region of Labrador, which has a land border with [[Quebec]]. In 2021, 99.4% of residents reported English as their native language, making it Canada's most linguistically homogeneous province. Until 1949 it was the separate Dominion of Newfoundland within the [[British Empire]]. After the [[Great Depression]], the House of Assembly voted in 1933 to dissolve itself in favor of a British-appointed Commission of Government. The province joined Canada on March 31, 1949, as its tenth province.
+
+=== KEY: Newfoundland_island_dffc0a
+HEADWORD: Newfoundland
+PERSON: no
+LINK TARGETS: British Empire | Elizabeth I | Newfoundland and Labrador | St. Lawrence River
+ENTRY:
+Large island off the eastern coast of North America, part of the Canadian province of [[Newfoundland and Labrador]]. At 108,878.06 sq km, it is Canada's fourth-largest island and the world's fifteenth-largest. The island is separated from Labrador by the Strait of Belle Isle and from Cape Breton Island by the Cabot Strait, and it blocks the mouth of the [[St. Lawrence River]]. It had 510,550 residents in the 2021 census. Norse explorers built a temporary base at L'Anse aux Meadows, dated to about 1000 years ago. On August 5, 1583, Humphrey Gilbert claimed the island for England under a royal charter of [[Elizabeth I]], making it Britain's oldest colony, a forerunner of the [[British Empire]].
+
+=== KEY: News_dd1ba1
+HEADWORD: News
+PERSON: no
+LINK TARGETS: Internet | Radio | Television
+ENTRY:
+Information about current events, distributed through word of mouth, printing, broadcasting, electronic communication or witnesses. Subjects include war, government, politics, health, economy, business, sport and entertainment, as well as unusual events. Government proclamations about royal ceremonies, laws, taxes and public health have been called news since ancient times. Newspapers developed in China over centuries and became established in Europe during the early modern period. In the 20th century, [[Radio]] and [[Television]] became important means of transmitting news, and in the 21st century the [[Internet]] has begun to play a similar role. Most news organizations value impartiality, neutrality and objectivity, despite the difficulty of reporting without political bias. The phrase "current events" was coined by Jessica Garretson Finch while teaching at Barnard College in the 1890s.
+
+=== KEY: News_media_14a519
+HEADWORD: News media
+PERSON: no
+LINK TARGETS: Benjamin Franklin | Johannes Gutenberg | Mass media | United States
+ENTRY:
+Forms of [[Mass media]] that focus on delivering news to the general public, including news agencies, newspapers, news magazines and news channels. Some of the first news circulated in Renaissance Europe in handwritten newsletters among merchants. After the printing press was invented by [[Johannes Gutenberg]] in 1440, newspapers could be mass-produced cheaply. The first newspaper written in English, The Weekly News, was published in London in 1621. In 1729, [[Benjamin Franklin]] began writing a more satirical kind of newspaper in the [[United States]]. In the 1830s, newspapers turned toward commercial success and reportage, beginning with the New York Sun in 1833. In the early 1920s, radio allowed large audiences to hear breaking news simultaneously. The Communications Act of 1934 licensed broadcasters on the condition that they serve "the public interest, convenience, and necessity".
+
+=== KEY: Newspaper_13c402
+HEADWORD: Newspaper
+PERSON: no
+LINK TARGETS: Advertising | Crossword | Sudoku | Website
+ENTRY:
+Periodical publication of written information about current events, typically issued daily or weekly. Newspapers cover politics, business, sport, art, science and religion, and often include opinion columns, weather forecasts, obituaries, [[Crossword|crossword]] and [[Sudoku|sudoku]] puzzles, editorial cartoons and comic strips. Most are businesses that pay their expenses with subscriptions, newsstand sales and [[Advertising|advertising]]. Newspapers developed in the 17th century as information sheets for merchants, and by the early 19th century many cities in Europe and the Americas published them. Traditionally printed on cheap newsprint, most are now also published on [[Website|websites]], and some have abandoned their print versions entirely. Papers with high editorial independence and large circulation are viewed as newspapers of record.
+
+=== KEY: Newt_9e896f
+HEADWORD: Newt
+PERSON: no
+LINK TARGETS: Habitat | Larva | Metamorphosis | Pollution | Salamander
+ENTRY:
+Semiaquatic [[Salamander|salamander]] in the subfamily Pleurodelinae. Unlike other members of the family Salamandridae, newts alternate between aquatic and terrestrial habitats. They [[Metamorphosis|metamorphose]] through three life stages: aquatic [[Larva|larvae]], a terrestrial juvenile called an eft, and an adult. Adults have lizard-like bodies and return to water each year to breed. Newts are found in North America, Europe, North Africa and Asia. They are threatened by [[Habitat|habitat]] loss, fragmentation and [[Pollution|pollution]], and at least one species, the Yunnan lake newt, has been considered extinct since 1979.
+
+=== KEY: Newt_Gingrich_3d33b4
+HEADWORD: Gingrich, Newt
+PERSON: yes
+LINK TARGETS: Bill Clinton | Donald Trump | Georgia (U.S. state) | Mitt Romney | Time (magazine) | United States House of Representatives
+ENTRY:
+American Republican politician and speaker of the [[United States House of Representatives]] (1995–99). Representing [[Georgia (U.S. state)|Georgia]]'s 6th district from 1979, he co-wrote the "Contract with America" and led the Republican victory in the 1994 congressional elections. [[Time (magazine)|Time]] named him "Man of the Year" in 1995. As speaker he oversaw welfare reform in 1996, and the House impeached President [[Bill Clinton]] on a party-line vote. He withdrew from the 2012 Republican presidential race and endorsed [[Mitt Romney]]. Since 2020 he has supported [[Donald Trump]]'s claims of election fraud.
+
+=== KEY: Newton_s_law_of_universal_gravitation_04b8b9
+HEADWORD: Newton's law of universal gravitation
+PERSON: no
+LINK TARGETS: Coulomb's law | General relativity | Henry Cavendish | Isaac Newton | Mercury (planet) | Sun
+ENTRY:
+Law of physics stating that any two particles attract each other with a force proportional to the product of their masses and inversely proportional to the square of the distance between them. [[Isaac Newton]] published it in *Philosophiæ Naturalis Principia Mathematica* on July 5, 1687. In the equation F = Gm₁m₂/r², F is the force, m₁ and m₂ are the masses, r is the distance between their centers, and G is the gravitational constant, 6.674×10⁻¹¹ m³⋅kg⁻¹⋅s⁻². The law resembles [[Coulomb's law]] for electric forces, and both are inverse-square laws. [[Henry Cavendish]] first tested it in a laboratory in 1798. The law was superseded by [[General relativity|general relativity]], but it remains an excellent approximation in most applications. Relativity is needed for extreme accuracy, very strong gravitational fields or small distances, such as [[Mercury (planet)|Mercury]]'s orbit around the [[Sun]].
+
+=== KEY: Newton_s_laws_of_motion_d47e8c
+HEADWORD: Newton's laws of motion
+PERSON: no
+LINK TARGETS: Acceleration | Classical mechanics | Inertia | Isaac Newton | Momentum | Philosophiæ Naturalis Principia Mathematica | Quantum mechanics | Theory of relativity
+ENTRY:
+Three physical laws describing the relationship between the motion of a body and the forces acting on it, forming the basis of Newtonian mechanics. They were first stated by [[Isaac Newton]] in *[[Philosophiæ Naturalis Principia Mathematica]]* (Mathematical Principles of Natural Philosophy), published in 1687, and he used them to investigate and explain the motion of many physical objects and systems.
+
+The first law, often called the law of [[Inertia|inertia]], states that a body remains at rest, or in motion at constant speed in a straight line, unless acted upon by a force. The second law states that at any instant the net force on a body equals its mass multiplied by its acceleration, F = ma, or, equivalently, the rate at which its [[Momentum|momentum]] changes with time. The third law states that when two bodies exert forces on each other, the forces have the same magnitude and opposite directions. No force therefore exists in isolation.
+
+The laws are usually stated for point masses, bodies whose volume is negligible, a reasonable approximation when the separation between bodies is much larger than their size. Their mathematical description rests on calculus. Velocity is the derivative of position with respect to time, and [[Acceleration|acceleration]] is the derivative of velocity. Position, velocity, acceleration, and force are vector quantities, having both magnitude and direction.
+
+They hold for speeds much less than the speed of light and for scales larger than the atomic. Their limitations led to new theories, namely [[Quantum mechanics|quantum mechanics]] and the [[Theory of relativity|theory of relativity]], which address extreme cases. New insights, especially around energy, built the field of [[Classical mechanics|classical mechanics]] on Newton's foundations.
+
+=== KEY: Newton_s_method_99d026
+HEADWORD: Newton's method
+PERSON: no
+LINK TARGETS: Derivative | Hero of Alexandria | Isaac Newton
+ENTRY:
+Root-finding algorithm for real-valued functions, also called the Newton–Raphson method after [[Isaac Newton]] and Joseph Raphson. Starting from an initial guess near a root, it uses the tangent line of the function's graph to find a better approximation: xₙ₊₁ = xₙ − f(xₙ)/f′(xₙ). The method requires the [[Derivative|derivative]] of the function, and the number of correct digits roughly doubles with each step. An equivalent method appears in [[Hero of Alexandria]]'s *Metrica* (1st–2nd century CE), and it is often called Heron's method.
+
+=== KEY: Newton_unit_0b29bb
+HEADWORD: Newton
+PERSON: no
+LINK TARGETS: International System of Units | Isaac Newton | Kilogram | Metre
+ENTRY:
+Unit of force in the [[International System of Units]] (SI), symbol N. One newton is the force that accelerates a mass of one [[Kilogram|kilogram]] by one [[Metre|meter]] per second squared, or 1 kg⋅m/s². The unit is named after [[Isaac Newton]] in recognition of his second law of motion, F = ma. In 1948 the 9th General Conference on Weights and Measures adopted the name newton. At average gravity on Earth, a kilogram mass exerts about 9.81 N. Large forces are expressed in kilonewtons, where 1 kN = 1000 N.
+
+=== KEY: Neymar_0b4b53
+HEADWORD: Neymar
+PERSON: yes
+LINK TARGETS: Copa Libertadores | FC Barcelona | Ligue 1 | Lionel Messi | Luis Suárez (Uruguayan footballer)
+ENTRY:
+Brazilian footballer, a forward and attacking midfielder for Santos, which he also captains. He led Santos to the [[Copa Libertadores]] title in 2011. He joined [[FC Barcelona]] in 2013, forming the MSN attacking trio with [[Lionel Messi]] and [[Luis Suárez (Uruguayan footballer)|Luis Suárez]]. In 2017 he moved to Paris Saint-Germain in a world-record €222 million transfer, and he won several [[Ligue 1]] titles. He is Brazil's all-time top goalscorer and won Olympic gold in 2016, the nation's first. He retired from international football in 2026.
+
+=== KEY: Nezha_230923
+HEADWORD: Nezha
+PERSON: no
+LINK TARGETS: Buddhism | Confucianism | Investiture of the Gods | Shang dynasty | Taoism
+ENTRY:
+Protection deity in [[Taoism]], [[Buddhism]], [[Confucianism]] and Chinese folk religion, sometimes called Nezha the Crown Prince. He developed as a localization of Nalakuvara, a Hindu yaksha, as Buddhist Jataka tales spread into China. In the novel [[Investiture of the Gods]] (Fengshen Yanyi), Nezha is born during the [[Shang dynasty]] as the son of the military commander Li Jing. After he kills the son of the Dragon King of the East Sea, a dispute that reaches the Jade Emperor, he is reconciled with his father. He is known as the Third Lotus Prince, and in folk religion he is revered as a protector of children.
+
+=== KEY: Ng_g_wa_Thiong_o_be1ce5
+HEADWORD: Ngũgĩ wa Thiong'o
+PERSON: yes
+LINK TARGETS: New York University | Yale University
+ENTRY:
+Kenyan author and academic, described as East Africa's leading novelist. He first wrote in English, with novels including *The River Between* and *Weep Not, Child*, before switching mainly to Gikuyu and becoming a strong advocate for literature in African languages. He founded the Gikuyu-language journal *Mũtĩiri*. In 1977 his play *Ngaahika Ndeenda*, co-written with Ngũgĩ wa Mirii, was shut down by the Kenyan government six weeks after opening, and he was imprisoned. He later fled Kenya and taught at [[Yale University]] and [[New York University]] before becoming a distinguished professor at the University of California, Irvine. He was frequently regarded as a likely candidate for the Nobel Prize in Literature.
+
+=== KEY: Ngorongoro_Conservation_Area_ebe679
+HEADWORD: Ngorongoro Conservation Area
+PERSON: no
+LINK TARGETS: Caldera | Maasai people | Serengeti National Park | Tanzania | UNESCO | Wildebeest | World Heritage Site
+ENTRY:
+Protected area and [[World Heritage Site]] in northeastern [[Tanzania]], named after the Ngorongoro Crater, a large volcanic [[Caldera|caldera]]. The area is home to the Great Migration of millions of [[Wildebeest|wildebeest]], zebras and gazelles, and its western portion abuts [[Serengeti National Park]]. It also contains Olduvai Gorge, one of the world's most important paleoanthropological sites. [[Maasai people|Maasai]] pastoralists live in the area, and the 2009 Ngorongoro Wildlife Conservation Act restricted settlement and farming in the crater, displacing many of them. The Ngorongoro Conservation Area Authority, an arm of the Tanzanian government, manages the area. It became a [[UNESCO]] World Heritage Site in 1979, and it drew 752,232 tourists in 2023.
+
+=== KEY: Nguy_n_dynasty_4bfd44
+HEADWORD: Nguyễn dynasty
+PERSON: no
+LINK TARGETS: Cambodia | French Indochina | Huế | Surrender of Japan | World War II
+ENTRY:
+Last Vietnamese dynasty, which ruled independently from 1802 until the French protectorate began in 1883, and nominally until 1945. Its rule extended into modern Southern Vietnam, [[Cambodia]] and Laos. Gia Long took the throne in 1802 after ending the Tây Sơn dynasty. From 1858 France gradually absorbed the dynasty's territory: Cochinchina became a French colony in 1862, and in 1887 Cochinchina, Annam, Tonkin and Cambodia were grouped as [[French Indochina]]. The dynasty remained the formal emperors of Annam and Tonkin until [[World War II]]. In 1945 Japan overthrew the French administration, and the dynasty ended with the abdication of Emperor Bảo Đại after the [[Surrender of Japan|surrender of Japan]] and the August Revolution, ending its 143-year rule. Its emperors built the Citadel of [[Huế]].
+
+=== KEY: Niagara_Falls_9ca87d
+HEADWORD: Niagara Falls
+PERSON: no
+LINK TARGETS: Buffalo, New York | Great Lakes | Lake Erie | Lake Ontario | New York (state) | Ontario
+ENTRY:
+Group of three waterfalls at the southern end of the Niagara Gorge, spanning the border between [[Ontario]] and [[New York (state)|New York]]. The largest, Horseshoe Falls, straddles the international border and stands about 57 m (187 ft) high. The American Falls and Bridal Veil Falls lie in the United States. Formed by the Niagara River, which drains [[Lake Erie]] into [[Lake Ontario]], the falls have the highest flow rate of any waterfall in North America. At peak daytime tourist hours, more than 168,000 m³ (5.9 million ft³) of water goes over the crest every minute. The falls are about 27 km (17 miles) northwest of [[Buffalo, New York|Buffalo]] and are a valuable source of hydroelectric power. They formed when glaciers receded at the end of the Wisconsin glaciation and water from the newly formed [[Great Lakes]] carved a path over the Niagara Escarpment.
+
+=== KEY: Niamey_39ef60
+HEADWORD: Niamey
+PERSON: no
+LINK TARGETS: Lingua franca | Niger | Niger River | Water supply
+ENTRY:
+Capital and largest city of [[Niger]], on the left bank of the [[Niger River]]. Settled by Fula, Zarma, Maouri and Songhai peoples, it was the site of a French military post established by Captain Henri Salaman in 1901, and it has been the capital since the colonial era. Zarma and Hausa, both widely spoken, serve as [[Lingua franca|lingua francas]]. Most residents follow Islam, with a Christian minority. Commerce dominates the economy, largely in the informal sector. Niamey is one of the hottest major cities in the world and is prone to drought and flooding. The Niger River is the city's only permanent river and its sole source of [[Water supply|municipal water]]. Abdou Moumouni University is Niger's most important university.
+
+=== KEY: Nibelungenlied_7bc90e
+HEADWORD: Nibelungenlied
+PERSON: no
+LINK TARGETS: Huns | Richard Wagner
+ENTRY:
+Middle High German epic poem from around 1200, written by an anonymous poet probably from the Passau region. It draws on oral Germanic heroic legend. The first part tells how the hero Siegfried seeks the hand of the Burgundian princess Kriemhild and is murdered by the vassal Hagen. The second part recounts Kriemhild's revenge through her marriage to Etzel, king of the [[Huns]], which ends in the destruction of the Burgundians and of Etzel's kingdom. It was the first heroic epic written down in the German vernacular. A sequel, the *Nibelungenklage*, was composed soon afterward to soften its tragedy. Forgotten after about 1500, it was rediscovered in 1755 and became a German national epic, though Nazi propaganda later exploited it. Its best-known legacy is [[Richard Wagner]]'s operatic cycle *Der Ring des Nibelungen*, which draws mostly on Old Norse sources. In 2009 its three main manuscripts were inscribed in UNESCO's Memory of the World Register.
+
+=== KEY: Nic_phore_Ni_pce_9abf04
+HEADWORD: Niépce, Nicéphore
+PERSON: yes
+LINK TARGETS: Camera obscura | Internal combustion engine | Napoleon
+ENTRY:
+French inventor and pioneer of photography. Niépce developed heliography, a technique that produced the world's oldest surviving products of a photographic process. In the mid-1820s he used a primitive camera to make the oldest surviving photograph of a real-world scene. Inspired by the [[Camera obscura|camera obscura]], he sought a way to fix its images permanently. Niépce served as a staff officer in the French army under [[Napoleon]] before turning to scientific research. With his older brother Claude, he conceived and developed the Pyréolophore, one of the world's first [[Internal combustion engine|internal combustion engines]]. Financially ruined, he died of a stroke, and his grave was financed by the municipality.
+
+=== KEY: Nicaragua_3bfe17
+HEADWORD: Nicaragua
+PERSON: no
+LINK TARGETS: Dictatorship | Managua | Rainforest | Spain | Spanish Empire | United Nations
+ENTRY:
+Country in Central America (pop., 2026: 7,097,329), the largest in the region by area. [[Managua]] is the capital and largest city. The [[Spanish Empire]] conquered the region in the 16th century, and Nicaragua gained independence from [[Spain]] in 1821. The Caribbean region of Mosquitia was an independent kingdom under British protection until 1860, when the Treaty of Managua brought it into union with Nicaragua. Since independence the country has experienced [[Dictatorship|dictatorship]], American occupation, a revolution and the Contra War. Under Daniel Ortega, president since 2007, democratic backsliding led to a crackdown after large protests in 2018, and after the 2021 election the country was widely described as an authoritarian dictatorship. Nicaragua is known for its fertile soil and for the Bosawás Biosphere Reserve, the second-largest [[Rainforest|tropical rainforest]] of the Americas. It is a founding member of the [[United Nations]].
+
+=== KEY: Niccol_Machiavelli_48d837
+HEADWORD: Machiavelli, Niccolò
+PERSON: yes
+LINK TARGETS: Cesare Borgia | Florence | Jean-Jacques Rousseau | Political philosophy | Political science | The Prince
+ENTRY:
+Florentine statesman, diplomat, and political theorist of the Italian Renaissance. Born in [[Florence]], he served the Florentine Republic as secretary to the second chancery from 1498 to 1512, with responsibilities in diplomatic and military affairs. He rose in importance under the gonfaloniere Piero Soderini and represented Florence at the courts of powerful rulers. When the Medici retook power in 1512, he was expelled from his duties, soon afterward mistakenly suspected of treason, and sent into exile. A year later he took up the life of a political writer.
+
+His most famous work is [[The Prince]], written around 1513 but not published until 1532, five years after his death. It advises rulers on acquiring and keeping power, drawing on observations of figures such as [[Cesare Borgia]], and argues that rulers must sometimes adopt unsavory policies when political necessity requires, in contradiction to classical political thought. His *Discourses on Livy* (composed c. 1517) favors republican government modeled on ancient Rome and has been said to have paved the way for modern republicanism.
+
+The Prince has been controversial since its publication. Many commentators read it as a manual for would-be tyrants, and scholars such as Leo Strauss restated the traditional view of Machiavelli as a "teacher of evil"; others stress his empirical analysis of power, built on the concepts of *virtù* and *fortuna*. His name came to evoke unscrupulous acts. He is often called the father of modern [[Political philosophy|political philosophy]] and [[Political science|political science]], and influenced Enlightenment authors such as [[Jean-Jacques Rousseau]] and James Harrington.
+
+=== KEY: Niccol_Paganini_5b19ca
+HEADWORD: Paganini, Niccolò
+PERSON: yes
+LINK TARGETS: Franz Liszt | Napoleon | Nice
+ENTRY:
+Italian violinist, guitarist and composer. Regarded as the most celebrated violin virtuoso of his time, Paganini was one of the pillars of modern violin technique. His 24 Caprices for Solo Violin, Op. 1 are among his best-known compositions. The son of a ship chandler from Genoa, he studied with Alessandro Rolla, Ferdinando Paer and Gasparo Ghiretti. In 1805 he entered the service of [[Napoleon]]'s sister, Elisa Bonaparte, at Lucca. From 1809 he toured Europe, building a reputation for technical brilliance and showmanship. He ended his concert career in 1834 amid declining health, and the failure of a Paris casino left him in financial ruin. He died in [[Nice]], then part of the Kingdom of Sardinia. His influence on composers such as [[Franz Liszt]] was considerable.
+
+=== KEY: Nice_914d0a
+HEADWORD: Nice
+PERSON: no
+LINK TARGETS: Friedrich Nietzsche | Henri Matisse | Marc Chagall
+ENTRY:
+City and port on the French Riviera (pop., 2025: 353,701), prefecture of the Alpes-Maritimes department in southeastern France. Nice lies on the Mediterranean at the foot of the French Alps and was the capital of the historical County of Nice. The Terra Amata site contains evidence of early use of fire about 380,000 years ago. Greeks from Marseille founded a settlement called Nikaia around 350 BC. The town was a dominion of Savoy from 1388 and was annexed by France in 1860. In the 18th century aristocratic families began wintering there, and the Promenade des Anglais, inaugurated in 1931, is named for these visitors. Painters including [[Henri Matisse]] and [[Marc Chagall]] were drawn to its light, and [[Friedrich Nietzsche]] wrote *Thus Spoke Zarathustra* there. UNESCO designated Nice a World Heritage Site in 2021.
+
+=== KEY: Nicene_Creed_0b489c
+HEADWORD: Nicene Creed
+PERSON: no
+LINK TARGETS: Arianism | Catholic Church | Eastern Orthodox Church | First Council of Nicaea
+ENTRY:
+Statement of Christian belief adopted at the [[First Council of Nicaea]] in 325. It affirms that Jesus is divine and "begotten of the Father", a position opposed to [[Arianism]]. According to the traditional view, the First Council of Constantinople amended the creed in 381, and the amended version is known as the Niceno-Constantinopolitan Creed. It forms part of the profession of faith in the [[Eastern Orthodox Church]], the [[Catholic Church]], Lutheran, Anglican and many Protestant traditions. In liturgical churches it is usually recited on Sundays and major festivals.
+
+=== KEY: Nichelle_Nichols_e92aa7
+HEADWORD: Nichols, Nichelle
+PERSON: yes
+LINK TARGETS: Duke Ellington | NASA
+ENTRY:
+American actress, singer and dancer, best known for playing Lieutenant Uhura in *Star Trek* and its film sequels. Her portrayal was groundbreaking for African American actresses on American television. Nichols began her career as a singer and dancer, touring with the bands of [[Duke Ellington]] and Lionel Hampton, and she appeared as the principal dancer in the 1959 film *Porgy and Bess*. From 1977 to 2015 she volunteered to promote [[NASA]]'s programs and recruit diverse astronauts, including some of the first female and ethnic minority astronauts.
+
+=== KEY: Nicholas_II_f1683f
+HEADWORD: Nicholas II
+PERSON: yes
+LINK TARGETS: Bolsheviks | Russian Civil War | Russian Orthodox Church | Russo-Japanese War | World War I | Yekaterinburg
+ENTRY:
+Last Emperor of Russia (r. 1894–1917), a member of the Romanov dynasty. Nicholas II oversaw the Russian Empire's role in the [[Russo-Japanese War]] and in [[World War I]]. Although he ostensibly presided over a constitutional monarchy after the Duma was established, he resisted political reform and retained autocratic control. Defeat in the Russo-Japanese War and the 1905 revolution weakened his standing, and military losses and economic hardship in World War I eroded public confidence in his rule. He abdicated in March 1917 during the February Revolution, ending 304 years of Romanov rule. He and his family were imprisoned and later executed by the [[Bolsheviks]] at [[Yekaterinburg]] during the [[Russian Civil War]]. Most historians regard him as a well-intentioned but poor ruler. The [[Russian Orthodox Church]] canonized him and his family as passion-bearers in 2000.
+
+=== KEY: Nicholas_I_of_Russia_8700c7
+HEADWORD: Nicholas I
+PERSON: yes
+LINK TARGETS: Caucasus | Crimean War | Finland | Russian Empire
+ENTRY:
+Emperor of Russia, king of Poland and grand duke of [[Finland]] (r. 1825–1855). His reign began with the failed Decembrist revolt and is remembered as reactionary and repressive. It saw territorial expansion, including territory seized from Qajar Iran in the Russo-Persian War of 1826–1828 and the resumed conquest of the [[Caucasus]]. He crushed the November Uprising in Poland in 1831 and aided Austria during the Hungarian Revolution of 1848. His reign ended in the [[Crimean War]] (1853–1856), which went disastrously for Russia. Several historians have concluded that his reign was "a catastrophic failure in both domestic and foreign policy". At his death the [[Russian Empire]] spanned over 20 million square kilometers, but it was in urgent need of reform.
+
+=== KEY: Nicholas_Winton_2d9c81
+HEADWORD: Winton, Nicholas
+PERSON: yes
+LINK TARGETS: Czechoslovakia
+ENTRY:
+British stockbroker and humanitarian. Nicholas Winton helped rescue 669 children, mostly Jewish, from [[Czechoslovakia]] on the eve of the Second World War. The operation became known as the Czech Kindertransport. In Britain he arranged the legal requirements for the children's entry and found them homes and sponsors. His role remained largely unknown for nearly 50 years, until he appeared on the BBC program *That's Life!* in 1988 and was reunited with children he had helped. He was knighted in 2003 for services to humanity, and in 2014 the Czech Republic awarded him the Order of the White Lion.
+
+=== KEY: Nick_Drake_851e82
+HEADWORD: Drake, Nick
+PERSON: yes
+LINK TARGETS: University of Cambridge
+ENTRY:
+British singer-songwriter and guitarist. Drake signed to Island Records while still a student at the [[University of Cambridge]] and released three albums: *Five Leaves Left* (1969), *Bryter Layter* (1971) and *Pink Moon* (1972). He did not reach a wide audience during his lifetime. Suffering from depression, he withdrew from performing and recording after *Pink Moon* and died of an overdose of antidepressants at his parents' home in Warwickshire. His music was reassessed after the 1979 release of the retrospective collection *Fruit Tree*, and he has influenced many later artists.
+
+=== KEY: Nick_Saban_6d13fd
+HEADWORD: Saban, Nick
+PERSON: yes
+LINK TARGETS: ESPN | National Football League
+ENTRY:
+American football coach and sportscaster. Saban coached Michigan State, Louisiana State University and the University of Alabama, and he served as head coach of the Miami Dolphins of the [[National Football League]]. At Alabama, from 2007 to 2023, his teams won six claimed national championships and one unclaimed title. Across his college career he won seven claimed national titles, the most in college football history. He was the first coach to win a national championship with two different Football Bowl Subdivision schools. Saban later became an analyst for [[ESPN]]'s College GameDay.
+
+=== KEY: Nickel_c38c94
+HEADWORD: Nickel
+PERSON: no
+LINK TARGETS: Coin | Ferromagnetism | Stainless steel
+ENTRY:
+Silvery-white transition metal, chemical element with symbol Ni and atomic number 28. Nickel is hard, ductile and resistant to corrosion, because a thin layer of nickel oxide forms on its surface. It is one of only four elements that are [[Ferromagnetism|ferromagnetic]] at about room temperature. Axel Fredrik Cronstedt first isolated and classified the element in 1751, initially mistaking its ore for a copper mineral. Its name comes from a mischievous sprite of German miner folklore. Economically important ores are sulfides, especially pentlandite. About 68% of world production is used in [[Stainless steel|stainless steel]], and further amounts go into alloys, plating, [[Coin|coins]] and rechargeable batteries, including those in electric vehicles.
+
+=== KEY: Nickelodeon_b11cc9
+HEADWORD: Nickelodeon
+PERSON: no
+LINK TARGETS: Columbus, Ohio | SpongeBob SquarePants
+ENTRY:
+American children's pay television channel, launched on April 1, 1979, as the first cable channel for children. Its name comes from early five-cent movie theaters called nickelodeons. The channel began as a test broadcast in December 1977 on QUBE, an interactive cable system in [[Columbus, Ohio]]. It was commercial-free until advertising was introduced in January 1984. Its sister channels include Nick Jr. and Nicktoons, and its best-known shows include *[[SpongeBob SquarePants]]*. As of December 2023 it was available in about 70 million pay television households in the United States, down from a peak of 101 million in 2011.
+
+=== KEY: Nicki_Minaj_206852
+HEADWORD: Minaj, Nicki
+PERSON: yes
+LINK TARGETS: American Idol
+ENTRY:
+Trinidadian rapper and singer-songwriter, regarded as the "Queen of Rap" and as one of the most influential rappers of all time. Raised in New York City, she gained recognition with mixtapes before her debut studio album, *Pink Friday* (2010), topped the US Billboard 200. Her 2023 album *Pink Friday 2* gave her three US number-one albums, the most of any female rapper. She has sold over 100 million records, and in 2023 Billboard and Vibe ranked her the greatest female rapper of all time. She has also acted, voiced animated films, and served as a judge on [[American Idol]] in 2013.
+
+=== KEY: Nicol_s_Maduro_4978ed
+HEADWORD: Maduro, Nicolás
+PERSON: yes
+LINK TARGETS: Hugo Chávez | United Nations | Venezuela
+ENTRY:
+Venezuelan politician and former union leader who served as president of [[Venezuela]] from 2013 to 2026. He was foreign minister and vice president under [[Hugo Chávez]], and succeeded him on his death, winning the 2013 special election. Political analysts classified his government as a dictatorship from 2017, and he was accused of electoral fraud, censorship and human rights abuses. The [[United Nations]] and Human Rights Watch have alleged thousands of extrajudicial killings. In 2026 he was seized in a U.S. military raid and taken to the United States on drug trafficking charges, to which he pleaded not guilty.
+
+=== KEY: Nicolae_Ceau_escu_75cdc0
+HEADWORD: Ceaușescu, Nicolae
+PERSON: yes
+LINK TARGETS: Abortion | Cult of personality | Warsaw Pact
+ENTRY:
+Romanian communist leader and general secretary of the Romanian Communist Party from 1965 to 1989. He was also head of state from 1967 until 1989. Initially he eased press censorship and condemned the [[Warsaw Pact]] invasion of Czechoslovakia in 1968, which gained him popularity. His regime soon became more repressive, and the Securitate secret police conducted mass surveillance. His population policies led to illegal [[Abortion|abortions]] and more orphans in state institutions. Austerity to repay foreign debt was effective but unpopular, and a [[Cult of personality|cult of personality]] grew around him. Protests in Timișoara in December 1989 led to the Romanian revolution. After Ceaușescu ordered the army to fire on demonstrators, he and his wife Elena were captured, tried and executed by firing squad.
+
+=== KEY: Nicolas_Cage_58d28d
+HEADWORD: Cage, Nicolas
+PERSON: yes
+LINK TARGETS: Francis Ford Coppola
+ENTRY:
+American actor and film producer, born Nicolas Kim Coppola, known for his versatility across film genres. Cage won the Academy Award for Best Actor for *Leaving Las Vegas* (1995). He then became an action star in films such as *The Rock* (1996), *Con Air* (1997), *Face/Off* (1997) and the *National Treasure* series. After a period of straight-to-video productions, he gained renewed critical recognition for *Mandy* (2018), *Pig* (2021) and *Dream Scenario* (2023). He is the nephew of director [[Francis Ford Coppola]]. His production company, Saturn Films, has produced films including *Shadow of the Vampire* (2000).
+
+=== KEY: Nicolas_L_onard_Sadi_Carnot_6af5fd
+HEADWORD: Carnot, Sadi
+PERSON: yes
+LINK TARGETS: Entropy | Lord Kelvin | Second law of thermodynamics
+ENTRY:
+French military engineer and physicist. A graduate of the École polytechnique, Carnot published his only work, *Reflections on the Motive Power of Fire* (1824), in which he developed the first successful theory of the maximum efficiency of heat engines. The essay attracted little notice during his lifetime, and he died in relative obscurity. In 1834 the French engineer Émile Clapeyron explained and extended it, and [[Lord Kelvin|William Thomson]] used Carnot's analysis to develop an absolute thermodynamic temperature scale. Rudolf Clausius used it to define [[Entropy|entropy]] and to formalize the [[Second law of thermodynamics|second law of thermodynamics]]. Carnot is often called the "father of thermodynamics".
+
+=== KEY: Nicolas_Poussin_02ecb8
+HEADWORD: Poussin, Nicolas
+PERSON: yes
+LINK TARGETS: Jacques-Louis David | Jean-Auguste-Dominique Ingres | Louis XIII | Paul Cézanne | Raphael | Rome
+ENTRY:
+French painter of the classical Baroque style, who worked mostly in [[Rome]]. Poussin trained in Paris around 1612 and went to Rome in 1624, where he studied [[Raphael]] and befriended artists who shared his classicizing tendencies. His paintings, mostly of religious and mythological subjects, are marked by clarity, logic and order, and they favor line over color. He returned to France in 1640 to serve as First Painter to [[Louis XIII]], but soon went back to Rome. In his later years he gave growing prominence to landscape, as in *The Seasons*. Until the 20th century he remained an inspiration for classically oriented artists, including [[Jacques-Louis David]], [[Jean-Auguste-Dominique Ingres|Ingres]] and [[Paul Cézanne|Cézanne]].
+
+=== KEY: Nicolas_Sarkozy_ec8083
+HEADWORD: Sarkozy, Nicolas
+PERSON: yes
+LINK TARGETS: 2008 financial crisis | Arab Spring | Russo-Georgian War
+ENTRY:
+French politician who served as president of France from 2007 to 2012. He won the 2007 presidential election against the Socialist candidate Ségolène Royal. His term included the [[2008 financial crisis]], the [[Russo-Georgian War]], for which he negotiated a ceasefire, and the [[Arab Spring]]. He lost the 2012 election to François Hollande. He has been convicted in several cases, including corruption in 2021 and criminal conspiracy in 2025 over alleged Libyan financing of his 2007 campaign. He maintains his innocence and was released after about three weeks of a five-year sentence in 2025.
+
+=== KEY: Nicolaus_Copernicus_533ee4
+HEADWORD: Copernicus, Nicolaus
+PERSON: yes
+LINK TARGETS: Ancient Greek | De revolutionibus orbium coelestium | Kraków | Nuremberg | Scientific Revolution | Sun | University of Bologna
+ENTRY:
+Renaissance polymath and astronomer from Royal Prussia who formulated a model of the universe placing the [[Sun]] rather than Earth at its center. He was born in Thorn (Toruń), in Royal Prussia, a semi-autonomous, multilingual region of the Crown of the Kingdom of Poland, to German-speaking parents. His father was a merchant from [[Kraków]].
+
+Copernicus studied mathematics and astronomy at the University of Kraków from 1491 to 1495, then canon law at the [[University of Bologna]], medicine at Padua, and took a doctorate in canon law at Ferrara. He was a mathematician, astronomer, physician, classics scholar, translator, governor, diplomat, and economist. From 1497 he was a canon of the Warmian cathedral chapter, managing church estates at Frombork. In 1517 he derived a quantity theory of money, and in 1519 he formulated an economic principle later called Gresham's law.
+
+His heliocentric model held that Earth and the other planets revolve around a stationary Sun, with Earth also rotating daily on its axis. A similar model had been developed eighteen centuries earlier by Aristarchus of Samos, an [[Ancient Greek|ancient Greek]] astronomer, but Copernicus likely arrived at his independently. He set it out in [[De revolutionibus orbium coelestium]] (*On the Revolutions of the Celestial Spheres*), published in [[Nuremberg]] in 1543, just before his death and dedicated to Pope Paul III. The book triggered the Copernican Revolution and made a pioneering contribution to the [[Scientific Revolution]].
+
+=== KEY: Nicolaus_Otto_b7fb3e
+HEADWORD: Otto, Nicolaus
+PERSON: yes
+LINK TARGETS: Cologne | Internal combustion engine
+ENTRY:
+German engineer and inventor of the four-stroke [[Internal combustion engine|internal combustion engine]]. In 1864 Otto partnered with Eugen Langen to found N.A. Otto & Cie in [[Cologne]], which was the first company devoted entirely to designing and producing internal combustion engines. Their early free-piston engine was a commercial success but reached a technical dead end. Otto then turned to the four-stroke cycle, which he had failed to develop in 1862. The resulting Otto Silent Engine, not the Otto and Langen engine, is the basis of the "Otto cycle". A DIN standard defines an Otto engine as one in which the compressed fuel-air mixture is ignited by a timed spark.
+
+=== KEY: Nicole_Kidman_cfd6ab
+HEADWORD: Kidman, Nicole
+PERSON: yes
+LINK TARGETS: UNICEF
+ENTRY:
+Australian and American actress and producer, known for blockbusters and independent films. Kidman won the Academy Award for Best Actress for her role as Virginia Woolf in *The Hours* (2002). Her other films include *Dead Calm* (1989), *Moulin Rouge!* (2001) and *Eyes Wide Shut* (1999). She produced and starred in the HBO series *Big Little Lies*, for which she won Primetime Emmy Awards. She has been a goodwill ambassador for [[UNICEF]] since 1994. She has consistently ranked among the world's highest-paid actresses since the late 1990s.

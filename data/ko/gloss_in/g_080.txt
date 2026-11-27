@@ -1,0 +1,763 @@
+=== KEY: Linda_Evangelista_52fe0e
+HEADWORD: Evangelista, Linda
+PERSON: yes
+LINK TARGETS: Cindy Crawford | Kate Moss | Naomi Campbell
+ENTRY:
+Canadian fashion model. She signed with Elite Model Management in 1984 and became the longtime muse of photographer Steven Meisel. Evangelista was one of the "Big 6" supermodels of the late 1980s and 1990s, alongside [[Naomi Campbell]], [[Kate Moss]] and [[Cindy Crawford]]. Described as the "chameleon" of the fashion industry, she is known for the remark "We don't wake up for less than $10,000 a day." She retired in 1998 and returned three years later, working only sporadically. In 2008, viewers of the television show *Fashion File* voted her "The Greatest Supermodel of All Time."
+
+=== KEY: Linda_Hunt_6bb6ec
+HEADWORD: Hunt, Linda
+PERSON: yes
+LINK TARGETS: Bertolt Brecht | God of War (franchise)
+ENTRY:
+American actress. Before entering film, she was a stage actress praised for the title role in [[Bertolt Brecht|Brecht]]'s *Mother Courage and Her Children*. She made her film debut as Mrs. Oxheart in *Popeye* (1980). She won the Academy Award for Best Supporting Actress for playing the male character Billy Kwan in *The Year of Living Dangerously*, making her the first person to win an Oscar for playing a character of the opposite sex. From 2009 to 2023 she played Henrietta "Hetty" Lange on the CBS series *NCIS: Los Angeles*. She also provided the narrator's voice for the [[God of War (franchise)|God of War]] video games.
+
+=== KEY: Linda_Lovelace_5949f1
+HEADWORD: Lovelace, Linda
+PERSON: yes
+LINK TARGETS: Deep Throat (film) | Pornography
+ENTRY:
+American actress, star of the 1972 hardcore film [[Deep Throat (film)|Deep Throat]]. She later accused her husband, Chuck Traynor, of coercing her into making the film, an account she gave in her 1980 autobiography *Ordeal*. Some people involved in her films later described her as a willing participant. She became a born-again Christian and a spokeswoman for the feminist [[Pornography|anti-pornography]] movement. By 2001 she had distanced herself from anti-pornography activists, saying she had felt used for political purposes and had moderated her views on pornography.
+
+=== KEY: Linda_Ronstadt_ae3d92
+HEADWORD: Ronstadt, Linda
+PERSON: yes
+LINK TARGETS: Dolly Parton | Frank Zappa | Grammy Awards | Johnny Cash | Neil Young | Parkinson's disease | Rock and Roll Hall of Fame
+ENTRY:
+American singer of rock, folk, pop, country and soul. She has earned 11 [[Grammy Awards]] and was inducted into the [[Rock and Roll Hall of Fame]] in 2014. Her single "You're No Good" reached number one on the U.S. Billboard Hot 100, and she charted 38 singles on that chart in all. She lent her voice to over 120 albums, collaborating with [[Dolly Parton]], [[Frank Zappa]], [[Neil Young]] and [[Johnny Cash]]. She retired in 2011 and soon revealed that a degenerative condition, first diagnosed as [[Parkinson's disease]] and later identified as progressive supranuclear palsy, had left her unable to sing.
+
+=== KEY: Lindsay_Lohan_cd0c42
+HEADWORD: Lohan, Lindsay
+PERSON: yes
+LINK TARGETS: Netflix | Soap opera
+ENTRY:
+American actress and singer. As a child she appeared on [[Soap opera|soap operas]], and she became a teen star in the Walt Disney comedy *The Parent Trap* (1998), playing reunited identical twins. Her role as Cady Heron in *Mean Girls* (2004) affirmed her status as a teen idol. Her album *Speak* (2004) was certified platinum. Personal struggles, including legal issues and rehabilitation stints, plagued her career for nearly a decade from 2006. Later she starred in [[Netflix]] romantic comedies, including *Falling for Christmas* (2022).
+
+=== KEY: Line_geometry_2354d2
+HEADWORD: Line
+PERSON: no
+LINK TARGETS: Axiom | Curve | Determinant | Euclid's Elements | Euclidean plane
+ENTRY:
+In geometry, an infinitely long straight object with no width, depth, or curvature, and a special case of a [[Curve|curve]]. It idealizes physical objects such as a straightedge, a taut string, or a ray of light. Lines are spaces of dimension one, which may be embedded in spaces of dimension two, three, or higher.
+
+[[Euclid's Elements]] defines a straight line as a "breadthless length" that "lies evenly with respect to the points on itself" and introduces postulates as unprovable properties on which the rest of geometry rests. In modern geometry a line is usually either a primitive notion with properties given by [[Axiom|axioms]] or a set of points obeying a linear relationship. In an axiomatic formulation such as Hilbert's, any two distinct points lie on a unique line, and two distinct lines intersect at most at one point. In the [[Euclidean plane]], lines that do not intersect are parallel; in higher dimensions they are parallel if contained in a plane, and skew if not. In the plane a line may be written y = mx + b, where m is the slope and b the y-intercept.
+
+Three or more points are collinear if they lie on the same line. Three points in a plane are collinear if and only if the [[Determinant|determinant]] of the matrix of their coordinates is zero, or equivalently if the slope between one pair equals the slope between another.
+
+With respect to a conic (circle, ellipse, parabola, or hyperbola), lines may be tangent, touching it at a single point; secant, crossing it at two points; or exterior, not meeting it. A transversal intersects two other lines.
+
+=== KEY: Lineage_anthropology_027ffb
+HEADWORD: Lineage
+PERSON: no
+LINK TARGETS: Clan | India | Indonesia | Inheritance | Nigeria | Southeast Asia | United States | Western Europe
+ENTRY:
+Unilineal descent group tracing its ancestry to a demonstrably shared ancestor, known as the apical ancestor. The word derives from Middle English *linage*, from Latin *linea* ("line"). Lineages differ from [[Clan|clans]], which may lack a documented apical ancestor. Three forms are recognized: matrilineal, in which descent runs through the mother, as among the Minangkabau of [[Indonesia]] and the Khasi of [[India]]; patrilineal, which is more common globally and is found across much of [[Southeast Asia]]; and ambilineal, in which individuals choose their mother's or father's group, common in modern societies such as the [[United States]] and [[Western Europe]]. In bilineal, or double, descent, members belong to both lines, as among the Yako of [[Nigeria]]. Lineages shape [[Inheritance|inheritance]] of property and titles, often have religious significance, and provide stability and reciprocal obligations.
+
+=== KEY: Linear_algebra_311c11
+HEADWORD: Linear algebra
+PERSON: no
+LINK TARGETS: Arthur Cayley | Functional analysis | Gaussian elimination | Matrix (mathematics) | Quaternion | René Descartes | Vector space
+ENTRY:
+Branch of mathematics concerning linear equations such as a₁x₁ + ⋯ + aₙxₙ = b, linear maps, and their representations in [[Vector space|vector spaces]] and through [[Matrix (mathematics)|matrices]]. It is central to almost all areas of mathematics and is fundamental in modern presentations of geometry, including defining lines, planes, and rotations. [[Functional analysis]] may be viewed as the application of linear algebra to function spaces. It is also used in most sciences and fields of engineering, because linear structures are natural models for many physical phenomena, and in computing, including computer graphics and machine learning.
+
+The procedure now called [[Gaussian elimination]] appears in the ancient Chinese text *The Nine Chapters on the Mathematical Art*. Systems of linear equations arose in Europe with the introduction of coordinates in geometry by [[René Descartes]] in 1637. The first systematic methods used determinants, first considered by Leibniz in 1693; in 1750 Gabriel Cramer used them to give explicit solutions, now called Cramer's rule. W. R. Hamilton discovered the [[Quaternion|quaternions]] in 1843, and Hermann Grassmann published his "Theory of Extension" in 1844. In 1848 James Joseph Sylvester introduced the term matrix. [[Arthur Cayley]] introduced matrix multiplication and the inverse matrix in 1856. Peano gave the first modern definition of a vector space in 1888. Linear algebra took its modern form in the first half of the 20th century, as earlier ideas were generalized into abstract algebra, and computers spurred research into efficient algorithms for elimination and matrix decompositions.
+
+A vector space over a field F, often the real or complex numbers, is a set V with two operations: vector addition and scalar multiplication by elements of F. Under addition, V is an abelian group.
+
+=== KEY: Linear_equation_b2b2e9
+HEADWORD: Linear equation
+PERSON: no
+LINK TARGETS: Engineering | Euclidean plane | Euclidean space | Field (mathematics) | Line (geometry) | Physics | Real number
+ENTRY:
+Equation in the form a₁x₁ + … + aₙxₙ + b = 0, with unknowns x₁,…,xₙ and coefficients that are not all zero. With one variable, it has exactly one solution. With two variables, its solutions form a [[Line (geometry)|line]] in the [[Euclidean plane]], which is the origin of the term "linear"; with n variables they form a hyperplane in [[Euclidean space]]. Linear equations are central to mathematics, [[Physics|physics]] and [[Engineering|engineering]], partly because nonlinear systems are often well approximated by linear ones. Coefficients are usually [[Real number|real numbers]], but the theory applies to any [[Field (mathematics)|field]].
+
+=== KEY: Linear_programming_b712d9
+HEADWORD: Linear programming
+PERSON: no
+LINK TARGETS: Algorithm | Economics | Mathematical optimization
+ENTRY:
+Method for optimizing a linear objective function subject to linear equality and inequality constraints. The feasible region is a convex polytope, and a linear programming [[Algorithm|algorithm]] finds the point in it where the objective function is largest or smallest. It is a special case of [[Mathematical optimization|mathematical optimization]]. It is widely used in mathematics and, to a lesser extent, in business, [[Economics|economics]] and engineering, with applications in transportation, energy, telecommunications and manufacturing. Systems of linear inequalities were studied by Fourier, who published a solution method in 1827. Leonid Kantorovich and Wassily Leontief explored its applications in the late 1930s, and it became prominent during World War II. From 1946 to 1947, George B. Dantzig independently developed the general formulation for U.S. Air Force planning. Kantorovich and T. C. Koopmans shared the 1975 Nobel Memorial Prize in Economic Sciences.
+
+=== KEY: Linear_regression_49d69d
+HEADWORD: Linear regression
+PERSON: no
+LINK TARGETS: Adrien-Marie Legendre | Carl Friedrich Gauss | Least squares | Machine learning
+ENTRY:
+Statistical method for modeling the relationship between a scalar response (dependent variable) and one or more explanatory variables as a linear combination. Simple linear regression has one explanatory variable; multiple linear regression has two or more. It is usually fitted by [[Least squares|least squares]], which [[Adrien-Marie Legendre]] published in 1805, although [[Carl Friedrich Gauss]] claimed to have invented it earlier. Because squared errors give outliers excessive weight, robust cost functions are preferred for datasets with many outliers. Linear regression is also a supervised [[Machine learning|machine learning]] algorithm.
+
+=== KEY: Linen_5ab518
+HEADWORD: Linen
+PERSON: no
+LINK TARGETS: Ancient Egypt | Bible | Cotton | Flax | Georgia (country) | Line (geometry) | Mesopotamia
+ENTRY:
+Textile made from the bast fibers of the [[Flax|flax]] plant. Linen is strong and absorbent and dries faster than [[Cotton|cotton]], which makes it comfortable in hot weather. It tends to wrinkle and takes longer to harvest and process than cotton. Dyed flax fibers found in a cave in present-day [[Georgia (country)|Georgia]] suggest that woven fabric from wild flax may date back over 30,000 years. In ancient [[Mesopotamia]], linen was used mainly by wealthy people, such as priests, and in [[Ancient Egypt|ancient Egypt]] it was used for mummy wrappings, burial shrouds and daily clothing. Linen is mentioned in the [[Bible]]. The word is related to Latin *linum*, the name of the flax plant, and the word [[Line (geometry)|line]] comes from the use of linen thread to determine a straight line.
+
+=== KEY: Lingua_franca_1858db
+HEADWORD: Lingua franca
+PERSON: no
+LINK TARGETS: Arabic | Aramaic | Aviation | Creole language | Levant
+ENTRY:
+Language used for communication between groups that do not share a native language. The term derives from the medieval Mediterranean *Lingua Franca*, a Romance-based pidgin used by traders from the 11th to the 19th centuries; Western Europeans were called "Franks" by [[Levant|Levantine]] peoples. Lingua francas have arisen for commercial, religious, diplomatic and administrative purposes. Some are established languages, such as [[Aramaic]] in the ancient empires or [[Arabic]] in the caliphates, while others are pidgins or [[Creole language|creoles]]. English is now the preeminent international lingua franca, underpinning [[Aviation|aviation]] protocols and science.
+
+=== KEY: Linguistic_anthropology_daa0c0
+HEADWORD: Linguistic anthropology
+PERSON: no
+LINK TARGETS: Anthropology | Communication | Endangered language | Identity (social science) | Noam Chomsky
+ENTRY:
+Branch of [[Anthropology|anthropology]] concerned with how language influences social life. It originated in efforts to document [[Endangered language|endangered languages]], especially indigenous languages of North America, and it examines how language shapes [[Communication|communication]], [[Identity (social science)|social identity]] and group membership, and large-scale cultural beliefs and ideologies. It emerged from three paradigms. The first, anthropological linguistics, documents languages and their structure. The second, which Dell Hymes preferred to call linguistic anthropology, studies language use in context, with the speech event as its unit of analysis; Hymes also criticized the cognitive emphasis of [[Noam Chomsky]], arguing for an ethnographic focus on language in use. The third, begun in the late 1980s, uses linguistic tools to study anthropological questions such as identity, shared ideologies and narrative.
+
+=== KEY: Linguistic_typology_f2004d
+HEADWORD: Linguistic typology
+PERSON: no
+LINK TARGETS: Latin | Linguistics
+ENTRY:
+Branch of [[Linguistics|linguistics]] concerned with classifying languages by their structural features so that they can be compared. Its aim is to describe and explain the structural diversity and common properties of the world's languages. Subdisciplines include phonological typology (sound features), syntactic typology (word order and form), lexical typology (vocabulary) and theoretical typology (universal tendencies). Unlike genealogical linguistics, typology groups languages by formal similarity rather than historical descent, and modern samples are drawn evenly from different language families. In the Middle Ages, [[Latin]] was the model language of linguistics. In 1818 August Wilhelm Schlegel classified languages as lacking grammatical structure, agglutinative or inflectional. Modern typology emerged in the 1960s: at a 1961 conference on language universals at Dobbs Ferry, Joseph Greenberg proposed 45 linguistic universals based on data from 30 languages.
+
+=== KEY: Linguistics_60965a
+HEADWORD: Linguistics
+PERSON: no
+LINK TARGETS: Comparative linguistics | Ferdinand de Saussure | Historical linguistics | Indo-European languages | Language | Phonetics | Phonology | Syntax
+ENTRY:
+Scientific study of [[Language|language]] and its structure, meaning, and use. Its core areas are [[Syntax|syntax]] (rules governing the structure of sentences), semantics (meaning), morphology (structure of words), [[Phonetics|phonetics]] (speech sounds and equivalent manual gestures in sign languages), [[Phonology|phonology]] (the abstract sound system of a particular language), and pragmatics (how the context of use contributes to meaning). Subdisciplines such as biolinguistics and psycholinguistics bridge many of these divisions.
+
+Theoretical linguistics seeks to explain the universal nature of language, while applied linguistics uses findings about language for practical purposes, such as improving language education and literacy. Mathematical and computational linguistics apply mathematics and computational modeling to language.
+
+[[Historical linguistics]] studies how languages change. Western work in the field dates to roughly the late 18th century, when it grew out of philology, and it was most widely practiced in the late 19th century. It was long the cornerstone of [[Comparative linguistics|comparative linguistics]], which sorts languages into families and reconstructs prehistoric proto-languages, beginning with the [[Indo-European languages]]. Attempts to link families into super-families such as a hypothetical Nostratic group are still not widely accepted.
+
+Modern linguistics is associated with [[Ferdinand de Saussure]]'s structuralist view of language as a system of signs and with Noam Chomsky's generative grammar, which posits innate linguistic capacities underlying universal grammar. A continuing debate divides generative approaches, which stress formal rules and biological innateness, from functionalist and usage-based approaches, which stress language use, social context, and learning.
+
+=== KEY: LinkedIn_e884c5
+HEADWORD: LinkedIn
+PERSON: no
+LINK TARGETS: China | Kazakhstan | Microsoft | Russia | Social networking service
+ENTRY:
+American business and employment-oriented [[Social networking service|social networking service]] owned by [[Microsoft]]. It was launched on May 5, 2003, by Reid Hoffman and Eric Ly, and is used mainly for professional networking, job listings and career development. By early 2026 it had more than 1.3 billion registered members in over 200 countries and territories. Microsoft bought LinkedIn in December 2016 for $26.2 billion, its largest acquisition at the time. [[Russia]] banned it in 2016, [[Kazakhstan]] in 2021 and [[China]] in 2023.
+
+=== KEY: Linkin_Park_c11dea
+HEADWORD: Linkin Park
+PERSON: no
+LINK TARGETS: Alternative rock | Grammy Awards | Nu metal
+ENTRY:
+American rock band formed in Agoura Hills, California, in 1996. Categorized as [[Alternative rock|alternative rock]] and [[Nu metal|nu metal]], its early music fused heavy metal and hip-hop. The debut album *Hybrid Theory* (2000) was certified Diamond by the Recording Industry Association of America, and its singles included "In the End" and "Crawling". The band has sold over 100 million records worldwide and won two [[Grammy Awards]]. After the suicide of lead vocalist Chester Bennington in July 2017, the band went on hiatus; it reformed in 2024 with vocalist Emily Armstrong and released the album *From Zero*.
+
+=== KEY: Linus_Pauling_0bd07f
+HEADWORD: Pauling, Linus
+PERSON: yes
+LINK TARGETS: Francis Crick | James Watson | Molecular biology | Nobel Prize | Quantum chemistry | Vitamin C
+ENTRY:
+American chemist and peace activist. He won the [[Nobel Prize]] in Chemistry in 1954 for his work on the chemical bond, and the Nobel Peace Prize in 1962 for his campaign against nuclear weapons testing. He is the only person to have won two unshared Nobel Prizes. He helped found [[Quantum chemistry|quantum chemistry]] and [[Molecular biology|molecular biology]], introducing orbital hybridization and the first accurate scale of electronegativities. He showed the importance of the alpha helix and beta sheet in protein structure, and his work inspired the work of [[James Watson]] and [[Francis Crick]] on the structure of DNA. In later years he promoted nuclear disarmament, orthomolecular medicine and dietary supplements, especially [[Vitamin C|vitamin C]]; none of his ideas on large vitamin doses has gained much acceptance in mainstream science.
+
+=== KEY: Linus_Torvalds_760d4d
+HEADWORD: Torvalds, Linus
+PERSON: yes
+LINK TARGETS: Linus Pauling | Linux
+ENTRY:
+Finnish-American software engineer, creator and lead developer of the [[Linux]] kernel since 1991. He also created the distributed version control system Git. The first Linux prototypes were publicly released in late 1991, and Version 1.0 followed on March 14, 1994. He switched the kernel's license from one that forbade commercial use to the GNU General Public License version 2. Torvalds worked for Transmeta in California from 1997 to 2003. He was named equally for [[Linus Pauling|the chemist Linus Pauling]] and the Peanuts cartoon character Linus, he has said. He received the 2012 Millennium Technology Prize.
+
+=== KEY: Linux_edc9f0
+HEADWORD: Linux
+PERSON: no
+LINK TARGETS: Android (operating system) | Debian | Kernel (operating system) | Linus Torvalds | Open source | Operating system | Personal computer | Unix
+ENTRY:
+Family of free and [[Open source|open-source]] [[Unix]]-like [[Operating system|operating systems]] built on the [[Kernel (operating system)|Linux kernel]]. The kernel was first released on September 17, 1991, by [[Linus Torvalds]]. Distributions such as [[Debian]], Fedora Linux, Linux Mint, Arch Linux and Ubuntu combine the kernel with GNU and other third-party software to form complete systems; commercial distributions include Red Hat Enterprise Linux. Linux was originally designed as a clone of Unix and is distributed under the GNU General Public License. Originally developed for x86-based [[Personal computer|personal computers]], it has been ported to more platforms than any other operating system. Together with [[Android (operating system)|Android]], which uses a Linux-based kernel, it has the largest installed base of general-purpose operating systems. As of March 2024 it was used by around 4 percent of desktop computers.
+
+=== KEY: Lion_60d28e
+HEADWORD: Lion
+PERSON: no
+LINK TARGETS: Apex predator | Eurasia | Grassland | India | Neolithic | Sub-Saharan Africa | Ungulate
+ENTRY:
+Large cat (*Panthera leo*) of the genus *Panthera*, now native only to [[Sub-Saharan Africa|sub-Saharan Africa]] and [[India]]. Adult males are larger than females and have a prominent mane extending from the head to the shoulders and chest. Lions are a social species, forming groups called prides of related females, their cubs and one or a few unrelated adult males. The lion is an [[Apex predator|apex]] and keystone predator, preying mostly on medium-sized and large [[Ungulate|hoofed mammals]] in [[Grassland|grasslands]], savannas and shrublands. During the [[Neolithic]] period it ranged across Africa and [[Eurasia]], from southeastern Europe to India. Populations in African countries declined by about 43% since the early 1990s, and the species has been listed as Vulnerable on the Red List of the International Union for Conservation of Nature since 1996. Habitat loss and conflict with humans are the main concerns. Lions have long been depicted as symbols of power and royalty.
+
+=== KEY: Lionel_Messi_ec7974
+HEADWORD: Messi, Lionel
+PERSON: yes
+LINK TARGETS: Argentina national football team | Copa América | FC Barcelona | La Liga | Major League Soccer | UEFA Champions League
+ENTRY:
+Argentine footballer and forward for Inter Miami in [[Major League Soccer]]. Messi played for [[FC Barcelona|Barcelona]] from 2004 to 2021, becoming the club's all-time top scorer and winning 10 [[La Liga]] titles and four [[UEFA Champions League]] trophies. He then won two Ligue 1 titles with Paris Saint-Germain and joined Inter Miami in 2023, leading it to its first MLS Cup in 2025 and winning the league MVP award in 2024 and 2025. He is the most decorated player in professional football history, with 47 team trophies across more than 1,200 career appearances, With the [[Argentina national football team|Argentina national team]], he is the all-time leading goalscorer (126) and most-capped player (208). He won the gold medal at the 2008 Summer Olympics and led the team to victory at the 2021 [[Copa América]], the 2022 FIFA World Cup and the 2024 Copa América. He retired from international football again in October 2026.
+
+=== KEY: Lionel_Richie_2ca44e
+HEADWORD: Richie, Lionel
+PERSON: yes
+LINK TARGETS: American Idol | Grammy Awards | Michael Jackson | Motown | We Are the World
+ENTRY:
+American singer, songwriter and record producer. Richie rose to fame as co-lead singer and songwriter of the [[Motown]] group the Commodores before launching a solo career in 1982. His album *Can't Slow Down* (1983) reached number one on the U.S. Billboard 200 and sold over 20 million copies. He co-wrote the charity single "[[We Are the World]]" (1985) with [[Michael Jackson]], which sold over 20 million copies and won a [[Grammy Awards|Grammy]] for Song of the Year. He has sold over 90 million records and has been a judge on [[American Idol]] since 2018.
+
+=== KEY: Lionfish_46f1f8
+HEADWORD: Lionfish
+PERSON: no
+LINK TARGETS: Caribbean Sea | Coral reef | Invasive species | Mediterranean Sea
+ENTRY:
+Genus (*Pterois*) of venomous marine fish native to Indo-Pacific [[Coral reef|coral reefs]]. Lionfish have conspicuous red or black bands and dorsal fins tipped with venomous spines, which are their main defense against predators. Five species are recognized, and *Pterois radiata*, *P. volitans* and *P. miles* are the most studied; several are popular aquarium fish. *P. volitans* and *P. miles* are [[Invasive species|invasive]] in the western Atlantic, the [[Caribbean Sea|Caribbean]] and the [[Mediterranean Sea]]. Females can lay about 2 million eggs per year. Lionfish prey mostly on small fish, invertebrates and mollusks.
+
+=== KEY: Lipid_9241f2
+HEADWORD: Lipid
+PERSON: no
+LINK TARGETS: Carboxylic acid | Cardiovascular disease | Cell membrane | Cholesterol | Fat
+ENTRY:
+Broad group of organic compounds that are hydrophobic or amphiphilic and soluble in nonpolar organic solvents. Lipids include [[Fat|fats]], waxes, sterols, fat-soluble vitamins (A, D, E, and K), monoglycerides, diglycerides, and phospholipids. They store energy, act in signaling, and serve as structural components of [[Cell membrane|cell membranes]]. The amphiphilic nature of some lipids lets them form vesicles, liposomes, or membranes in an aqueous environment. Lipids have applications in the cosmetic and food industries and in nanotechnology.
+
+Biological lipids originate entirely or in part from two types of building blocks, ketoacyl and isoprene groups. On this basis the Lipid MAPS consortium divides them into eight categories: fatty acyls, glycerolipids, glycerophospholipids, sphingolipids, saccharolipids, and polyketides (from ketoacyl subunits), and sterol lipids and prenol lipids (from isoprene subunits). Fatty acyls are built on a hydrocarbon chain, typically 4 to 24 carbons long, that ends in a [[Carboxylic acid|carboxylic acid]] group. Fats are a subgroup of lipids called triglycerides, and [[Cholesterol|cholesterol]] is a sterol-containing lipid. Elevated low-density lipoprotein cholesterol is a major risk factor for [[Cardiovascular disease|cardiovascular disease]]. Humans and other mammals synthesize and break down many lipids but must obtain some essential ones from the diet.
+
+In 1815 Henri Braconnot classified lipids into solid suifs and fluid huiles. In 1827 William Prout recognized fat, along with protein and carbohydrate, as an important nutrient. Théophile-Jules Pelouze reported the first synthetic triglyceride, tributyrin, in 1844, and Theodore Gobley discovered phospholipids in 1847. The French pharmacologist Gabriel Bertrand introduced the word *lipide*, from Greek *lipos*, "fat," in 1923.
+
+=== KEY: Liquid_5635bf
+HEADWORD: Liquid
+PERSON: no
+LINK TARGETS: Boiling point | Crystallization | Gas | Intermolecular force | Mercury (element) | Water
+ENTRY:
+State of matter with a definite volume but no fixed shape. A liquid adapts to the shape of its container in the direction of a force such as gravity. Liquids are nearly incompressible, and their density is usually close to that of a solid and much higher than that of a [[Gas|gas]].
+
+A liquid consists of atoms or molecules held together by [[Intermolecular force|intermolecular]] bonds of intermediate strength, which let particles move around one another while remaining closely packed. As temperature rises, molecules vibrate more intensely and move farther apart; at the [[Boiling point|boiling point]], cohesive forces no longer hold them together and the liquid becomes a gas. On cooling to the freezing point, molecules typically arrange into an ordered structure by [[Crystallization|crystallization]]. Liquid is the least common state of matter in the known universe, because liquids need a narrow range of temperature and pressure; most known matter is gas or plasma.
+
+Only two elements are liquid at standard temperature and pressure, [[Mercury (element)|mercury]] and bromine. Francium, caesium, gallium, and rubidium melt slightly above room temperature. Other liquids include [[Water|water]], ethanol, gasoline, mayonnaise, paint, and milk. Liquid helium does not solidify even at absolute zero under standard pressure, owing to its quantum properties.
+
+Liquids generally expand when heated; water between 0 °C and 4 °C is a notable exception. Water compresses by only 46.4 parts per million per bar. This incompressibility makes liquids suitable for transmitting hydraulic power but also causes water hammer and cavitation. Pressure in a liquid at rest increases with depth.
+
+=== KEY: Liquid_crystal_display_d3bf2b
+HEADWORD: Liquid-crystal display
+PERSON: no
+LINK TARGETS: Calculator | Computer monitor | Pixel | Polarizer | Smartphone | Watch
+ENTRY:
+Flat-panel display that uses the light-modulating properties of liquid crystals combined with [[Polarizer|polarizers]]. Liquid crystals do not emit light, so a liquid-crystal display (LCD) relies on a backlight or reflector to produce images in color or monochrome. Arbitrary images are formed from a matrix of small [[Pixel|pixels]], while simpler devices such as digital clocks show preset digits or words. LCDs appear in [[Computer monitor|computer monitors]], televisions, instrument panels, aircraft cockpit displays and signage, as well as in [[Calculator|calculators]], [[Watch|watches]] and [[Smartphone|smartphones]]. They replaced bulky cathode-ray tube displays in nearly all applications from the late 2000s to the early 2010s. LCDs are not subject to screen burn-in, but they are susceptible to image persistence.
+
+=== KEY: Liquid_nitrogen_45256f
+HEADWORD: Liquid nitrogen
+PERSON: no
+LINK TARGETS: Acetone | Boiling point | Distillation | Sperm | Viscosity | Wart
+ENTRY:
+Nitrogen in liquid form, with a [[Boiling point|boiling point]] of about −196 °C (77 K). It is produced industrially by [[Distillation|fractional distillation]] of liquid air. The colorless liquid has a [[Viscosity|viscosity]] about half that of [[Acetone]], and it is widely used as a coolant. It boils immediately on contact with warmer objects, enveloping them in insulating gas bubbles. Its low boiling point results from weak intermolecular attraction. Applications include cryotherapy to remove [[Wart|warts]] and other skin lesions, cryopreservation of blood and [[Sperm|sperm]] and egg cells, and the freezing of food. Because it rapidly freezes living tissue, it must be stored in vacuum flasks.
+
+=== KEY: Liquor_86045f
+HEADWORD: Liquor
+PERSON: no
+LINK TARGETS: Beer | Brandy | Cocktail | Distillation
+ENTRY:
+Alcoholic drink produced by [[Distillation|distilling]] fermented grains, fruits, vegetables or sugar. The word usually refers to distilled spirits, which contain much more alcohol than [[Beer]] and wine; those typically reach at most about 15% alcohol by volume. Liquor without added sugar is called a spirit and is usually 35–40% alcohol by volume, while sweetened, flavored versions are liqueurs. Many liquors are aged in barrels, as [[Brandy]], tequila and whiskey are, and others, such as absinthe, are infused with flavorings. Liquor is often drunk neat, in servings of about 50 milliliters, or mixed into [[Cocktail|cocktails]]. Rapid consumption of large amounts can cause alcohol poisoning, and all alcohol is classed as a Group 1 carcinogen by the International Agency for Research on Cancer.
+
+=== KEY: Liquorice_e8b52d
+HEADWORD: Licorice
+PERSON: no
+LINK TARGETS: Dietary supplement | Fabaceae | Hypertension | Tobacco | Traditional medicine | West Asia
+ENTRY:
+Sweet, aromatic flavoring extracted from the root of *Glycyrrhiza glabra*, a [[Fabaceae|bean family]] plant. The herbaceous perennial is native to [[West Asia]], tropical Asia, North Africa and southern Europe. Its root contains glycyrrhizin, which has 30–50 times the sweetness of sugar. Licorice is used as a flavoring in confectionery, [[Tobacco|tobacco]], beverages and pharmaceuticals, and is marketed as a [[Dietary supplement|dietary supplement]]. Extracts have been used in [[Traditional medicine|traditional medicine]]. Excessive consumption of more than 2 mg/kg [0.91 mg/lb] per day of pure glycyrrhizinic acid can lead to [[Hypertension|hypertension]], low blood potassium and muscle weakness, and licorice root extract should be avoided during pregnancy.
+
+=== KEY: Lisa_Kudrow_d3069c
+HEADWORD: Kudrow, Lisa
+PERSON: yes
+LINK TARGETS: HBO | NBC
+ENTRY:
+American actress, writer and producer. Kudrow is best known for playing Phoebe Buffay in the [[NBC]] sitcom *Friends* (1994–2004). She began in improv comedy with The Groundlings in Los Angeles and played Ursula Buffay in *Mad About You*. She starred as Valerie Cherish in the [[HBO]] mockumentary *The Comeback* (2005–2026). Her films include *Romy and Michele's High School Reunion* (1997) and *The Opposite of Sex* (1998). Her accolades include a Primetime Emmy Award and two Actor Awards.
+
+=== KEY: Lisa_Su_6bb90e
+HEADWORD: Su, Lisa
+PERSON: yes
+LINK TARGETS: AMD | IBM | Massachusetts Institute of Technology | Time (magazine)
+ENTRY:
+Taiwanese and American business executive, computer scientist and electrical engineer. Su has been president and chief executive officer of [[AMD]] since 2014. Born in Taiwan, she immigrated to the United States as a young child and earned three degrees from the [[Massachusetts Institute of Technology]]. She then held engineering and management posts at Texas Instruments, [[IBM]] and Freescale Semiconductor. At IBM she helped develop silicon-on-insulator manufacturing technologies. During her tenure at AMD, the company's market capitalization grew from roughly $3 billion to more than $1 trillion. She was the first woman named [[Time (magazine)|Time]] CEO of the Year, in 2014, and was named again in 2024.
+
+=== KEY: Lisbon_260b4e
+HEADWORD: Lisbon
+PERSON: no
+LINK TARGETS: Athens | Iberian Peninsula | Julius Caesar | Moors | Portugal | Visigoths
+ENTRY:
+Capital and most populous city of [[Portugal]] (pop., 2025: 658,236). Lisbon lies on the northern shore of the River Tagus and is the second-oldest European capital, after [[Athens]]. Founded by the Phoenicians, it was made a municipium by [[Julius Caesar]], was ruled by the [[Visigoths]], and was captured by the [[Moors]] in the 8th century. Afonso Henriques conquered it in 1147, and in 1255 it replaced Coimbra as Portugal's capital. The city hosts the government, the Assembly of the Republic, the Supreme Court of Justice and the residence of the head of state. Its metropolitan area has 3,353,000 people, the third largest in the [[Iberian Peninsula]] after Madrid and Barcelona.
+
+=== KEY: Lise_Meitner_83838a
+HEADWORD: Meitner, Lise
+PERSON: yes
+LINK TARGETS: Nazi Germany | Otto Hahn | University of Vienna | Uranium
+ENTRY:
+Austrian and Swedish nuclear physicist. Meitner earned a doctorate in physics from the [[University of Vienna]] in 1906, becoming the second woman to do so there. She lost her positions in Berlin in 1935 under the anti-Jewish Nuremberg Laws of [[Nazi Germany]] and fled to the Netherlands in 1938. In late December 1938 she worked with her nephew Otto Robert Frisch to interpret experiments by [[Otto Hahn]] and Fritz Strassmann showing that neutron bombardment of [[Uranium]] produced barium. They named the process fission in 1939. Hahn received the 1944 Nobel Prize in Chemistry for the discovery, and Meitner did not share it. She had been nominated 19 times for the chemistry prize (1924–1948) and 30 times for physics (1937–1967). Several scientists and journalists have called her exclusion "unjust". Element 109, meitnerium, was named for her in 1997.
+
+=== KEY: Lisp_programming_language_73afeb
+HEADWORD: Lisp
+PERSON: no
+LINK TARGETS: Artificial intelligence | Fortran | Massachusetts Institute of Technology | Recursion
+ENTRY:
+Family of programming languages distinguished by a fully parenthesized prefix notation. Originally specified in the late 1950s, Lisp is the second-oldest high-level programming language still in common use, after [[Fortran]]. John McCarthy began developing it in 1958 at the [[Massachusetts Institute of Technology]]. Lisp programs can manipulate source code as data, which enables macros. It pioneered tree data structures, automatic storage management, dynamic typing and [[Recursion|recursion]], and it became a favored language for [[Artificial intelligence|artificial intelligence]] research. The best-known general-purpose dialects are Common Lisp, Scheme, Racket and Clojure.
+
+=== KEY: List_of_unsolved_problems_in_physics_31ca29
+HEADWORD: List of unsolved problems in physics
+PERSON: no
+LINK TARGETS: Big Bang | Black hole | Dark energy | Dark matter | General relativity | Lord Kelvin | Millennium Prize Problems | Standard Model
+ENTRY:
+Overview of major open questions in physics.Open questions beyond the [[Standard Model]] include the strong CP problem, the absolute mass of neutrinos, matter–antimatter asymmetry, and the nature of [[Dark matter]] and [[Dark energy]]. The Standard Model is also inconsistent with [[General relativity]], and the two theories break down under extreme conditions, such as at the [[Big Bang]] and at the centers of [[Black hole|black holes]]. In 1900, [[Lord Kelvin]] identified two "clouds" over physics; both were resolved within a decade by special relativity and quantum mechanics. The Navier–Stokes existence and smoothness problem, one of the [[Millennium Prize Problems]], remains unsolved.
+
+=== KEY: Literacy_4296cd
+HEADWORD: Literacy
+PERSON: no
+LINK TARGETS: Dyslexia | Mesopotamia | South Asia | Sub-Saharan Africa
+ENTRY:
+Ability to read and write, understood more broadly as the capacity to understand, use, and communicate information. Traditionally the term meant reading and writing; today it also covers understanding information, using numbers, communicating ideas, and working with digital technology. According to UNESCO, literacy is a lifelong learning process that goes beyond basic reading and writing skills. In 2015 the United Nations Statistics Division defined the youth literacy rate as the percentage of people aged 15 to 24 who can read and write a short, simple statement about everyday life with understanding.
+
+Some researchers treat literacy as the varied ways people use reading and writing in specific situations. Since the 1940s the word has also denoted skill in a particular field, as in computer, scientific, financial, health, media, and visual literacy. Functional illiteracy, which concerns adults, has been defined in several ways, such as the inability to read well enough to manage daily living and employment tasks. It is distinguished from primary illiteracy and from learning difficulties such as [[Dyslexia|dyslexia]], though these categories have been contested.
+
+Script is thought to have developed independently at least five times: in [[Mesopotamia]], Egypt, the Indus civilization, lowland Mesoamerica, and China. Between 3500 BC and 3000 BC the Sumerians of southern Mesopotamia invented writing, initially for managing trade and production. Literacy long remained largely confined to elites. One account puts global adult literacy at below 20% around 1800 and approximately 87% by the early 21st century, with remaining gaps concentrated in [[South Asia]] and [[Sub-Saharan Africa]], where over 750 million adults are affected, disproportionately women. Critics note that self-reported or minimum-threshold measures may overstate functional literacy.
+
+=== KEY: Literary_criticism_a9fb4f
+HEADWORD: Literary criticism
+PERSON: no
+LINK TARGETS: Aristotle | Classical antiquity | Literature
+ENTRY:
+Study, evaluation and interpretation of [[Literature|literature]]. It is often closely tied to literary theory, the philosophical analysis of literature's goals and methods, although critics are not always theorists. Critics publish essays and books, teach in academic departments, or write reviews for periodicals such as *The New York Review of Books* and *The New Yorker*. Literary criticism is thought to have existed as far back as the [[Classical antiquity|classical period]]. In the 4th century BC, [[Aristotle]] wrote the *Poetics*, which developed the concepts of mimesis and catharsis. Aristotle's work was the most important influence on literary criticism until the late eighteenth century. In 1498, Giorgio Valla published a Latin translation of the *Poetics*, marking the birth of Renaissance criticism.
+
+=== KEY: Literature_f1506b
+HEADWORD: Literature
+PERSON: no
+LINK TARGETS: Homer | Mesopotamia | Rhetoric | Writing
+ENTRY:
+Body of written work, and more narrowly writing regarded as an art form, especially novels, plays, and poems. The term covers both print and digital writing, and in recent centuries it has expanded to include oral literature, much of which has been transcribed. Literature records, preserves, and transmits knowledge and entertainment, and it can also have a social, psychological, spiritual, or political role.
+
+Definitions have varied over time. In Western Europe before the 18th century, literature denoted all books and writing. The word derives from Latin *literatura* or *litteratura*, "learning, writing, grammar," from *littera*, "letter." A value-judgment definition limits literature to high-quality writing in the *belles-lettres* ("fine writing") tradition; the 1910–1911 *Encyclopædia Britannica* called it "the best expression of the best thought reduced to writing." "Literature" is sometimes used synonymously with literary fiction, written with the goal of artistic merit, but it can also include non-fiction genres such as biography, diaries, memoirs, letters, and essays. Literary criticism, one of the oldest academic disciplines, concerns the literary merit or intellectual significance of specific texts, while textual criticism and the history of the book treat texts as artifacts or traditions.
+
+Oral literature is an ancient tradition found in all parts of the world. The earliest poetry is believed to have been recited or sung to remember history, genealogy, and law. Scholars describe the Vedic texts and early Buddhist texts as transmitted orally, though Goody argued that the vast and consistent Vedic literature likely involved both written and oral traditions. All ancient Greek literature was to some degree oral, and the earliest was entirely so; according to Michael Gagarin, [[Homer]]'s epic poetry was largely composed, performed, and transmitted orally. Native North American peoples north of Mesoamerica had no known writing systems before contact with Europeans, and their storytelling traditions served largely as practical moral and social lessons. Gunditjmara oral histories in south-western Victoria, Australia, tell of volcanic eruptions that a 2020 study dated to between 34,000 and 40,000 years ago.
+
+Oratory was long considered a literary art; from ancient Greece to the late 19th century, [[Rhetoric|rhetoric]] was central to Western education. Around the 4th millennium BC the complexity of trade and administration in [[Mesopotamia]] outgrew human memory, and [[Writing|writing]] became a more dependable way to record transactions. In ancient Egypt and Mesoamerica, writing may instead have arisen from the need to record historical and environmental events. Print technology has since allowed ever wider distribution of written works, and the digital era has blurred the lines between electronic literature and other modern media.
+
+=== KEY: Lithium_a0a569
+HEADWORD: Lithium
+PERSON: no
+LINK TARGETS: Alkali metal | Bipolar disorder | Helium | Kerosene
+ENTRY:
+Chemical element with symbol Li and atomic number 3, a soft, silvery-white [[Alkali metal|alkali metal]]. It is the least dense metal and solid element under standard conditions and is highly reactive, so it is stored in inert liquids such as purified [[Kerosene|kerosene]] or mineral oil. Lithium occurs mainly in pegmatitic minerals and in brines. Its name derives from the Ancient Greek word for stone. In 1932 the transmutation of lithium atoms to [[Helium]] was the first fully human-made nuclear reaction, and lithium deuteride serves as a fusion fuel in thermonuclear weapons. Batteries consume more than three-quarters of lithium production. Lithium-based drugs are used as a mood stabilizer and antidepressant in treating [[Bipolar disorder|bipolar disorder]].
+
+=== KEY: Lithium_ion_battery_1c45df
+HEADWORD: Lithium-ion battery
+PERSON: no
+LINK TARGETS: Lithium | Nobel Prize | Sony
+ENTRY:
+Rechargeable battery that stores energy through the reversible intercalation of [[Lithium|lithium]] ions into solids. It has higher energy density and longer cycle life than other rechargeable types. Commercialized by a [[Sony]] and Asahi Kasei team in 1991, it powers portable electronics, laptops, phones and electric cars, and is used for grid-scale storage. In three decades its volumetric energy density increased threefold while its cost dropped tenfold. John Goodenough, M. Stanley Whittingham and Akira Yoshino received the 2019 [[Nobel Prize]] in Chemistry for its development. Its flammable electrolyte poses fire risks, and solid-state designs are in development.
+
+=== KEY: Lithosphere_61cf2f
+HEADWORD: Lithosphere
+PERSON: no
+LINK TARGETS: Mid-ocean ridge | Natural satellite | Olivine | Plate tectonics | Terrestrial planet
+ENTRY:
+Rigid outermost rocky shell of a [[Terrestrial planet|terrestrial planet]] or [[Natural satellite|natural satellite]]. On Earth it consists of the crust and the lithospheric mantle, the uppermost part of the mantle, which behaves elastically over time scales of up to thousands of years or more. It lies above the weaker, hotter asthenosphere, and their boundary is set by the temperature at which [[Olivine|olivine]] becomes ductile, about 1,000 °C (1,830 °F). Earth's lithosphere is divided into [[Plate tectonics|tectonic plates]]. The term was introduced by the American geologist Joseph Barrell. Oceanic lithosphere thickens as it ages and moves away from [[Mid-ocean ridge|mid-ocean ridges]], and the oldest is typically about 140 kilometers thick.
+
+=== KEY: Lithuania_d9051e
+HEADWORD: Lithuania
+PERSON: no
+LINK TARGETS: Baltic Sea | European Union | Grand Duchy of Lithuania | NATO | Nazi Germany | Soviet Union | Vilnius | World War II
+ENTRY:
+Country on the eastern shore of the [[Baltic Sea]] in northern Europe. Its capital and largest city is [[Vilnius]], and it covers 65,300 sq km. Mindaugas united Lithuanian lands and formed the Kingdom of Lithuania on 6 July 1253. By the 14th century the [[Grand Duchy of Lithuania]] was the largest country in Europe. In 1569 it united with Poland as the Polish-Lithuanian Commonwealth, which lasted more than two centuries until neighboring countries dismantled it between 1772 and 1795. Lithuania declared independence in 1918. It was occupied by the [[Soviet Union]] and then [[Nazi Germany]] in [[World War II]], and was reoccupied by the Soviets in 1944. On 11 March 1990 it became the first Soviet republic to proclaim the restoration of its independence. Lithuania is a high-income economy and a member of the [[European Union]] and [[NATO]].
+
+=== KEY: Litre_1daa71
+HEADWORD: Liter
+PERSON: no
+LINK TARGETS: International System of Units | Kilogram | Water
+ENTRY:
+Metric unit of volume equal to one cubic decimeter, or 1,000 cubic centimeters. The liter is not an [[International System of Units|SI]] unit, which uses the cubic meter; one liter equals 0.001 cubic meter. The spelling "liter" is used by the International Bureau of Weights and Measures and most English-speaking countries, while "liter" predominates in American English. From 1901 to 1964 the liter was defined as the volume of one kilogram of pure [[Water|water]] at maximum density (+3.98 °C). Water still has a mass of almost exactly one [[Kilogram|kilogram]] per liter, because the kilogram was defined in 1795 as the mass of one cubic decimeter of water at 0 °C. Liters are most commonly used for fluids and other items measured by container capacity.
+
+=== KEY: Little_House_on_the_Prairie_3f8bc2
+HEADWORD: Little House on the Prairie
+PERSON: no
+LINK TARGETS: Laura Ingalls Wilder
+ENTRY:
+Series of American children's novels by [[Laura Ingalls Wilder]], and its media franchise. The books draw on Wilder's childhood in the Midwest between 1872 and 1894. The first, *Little House in the Big Woods*, appeared in 1932 from Harper & Brothers. Eight novels were completed in Wilder's lifetime, and the third is also titled *Little House on the Prairie*. A ninth draft was published posthumously in 1971, and the diary *On the Way Home* (1962) covers the years after 1894. The books have sold around 60 million copies. The American television series *Little House on the Prairie* ran from 1974 to 1983.
+
+=== KEY: Little_Ice_Age_785efe
+HEADWORD: Little Ice Age
+PERSON: no
+LINK TARGETS: Black Death | Greenland
+ENTRY:
+Period of regional cooling, most pronounced in the North Atlantic region, conventionally dated from the 16th to the 19th centuries. It was not a true ice age of global extent, and the term was introduced by François E. Matthes in 1939. Some experts prefer a span from about 1300 to about 1850. The Intergovernmental Panel on Climate Change's Third Assessment Report described the Northern Hemisphere as modestly cooled, by less than 1°C relative to late twentieth-century levels. Proposed causes include lows in solar radiation, heightened volcanic activity, changes in ocean circulation, variations in Earth's orbit and axial tilt, and population declines from events such as the [[Black Death]]. In the 13th century, pack ice advanced southward in the North Atlantic, as did glaciers in [[Greenland]].
+
+=== KEY: Little_Red_Riding_Hood_7c3804
+HEADWORD: Little Red Riding Hood
+PERSON: no
+LINK TARGETS: Brothers Grimm | Charles Perrault
+ENTRY:
+European fairy tale about a young girl and a Big Bad Wolf. Its origins lie in several folk tales from before the 17th century. It was first recorded in literary form in French by [[Charles Perrault]], whose version ends with the wolf eating the girl. Later versions, including those of the [[Brothers Grimm]], add a woodcutter or hunter who rescues the girl and her grandmother. In the Grimms' version, the wolf tries to drink from a well, falls in because of the stones in its stomach, and drowns. The tale is number 333 in the Aarne–Thompson classification of folktales.
+
+=== KEY: Little_Richard_ee93c7
+HEADWORD: Little Richard
+PERSON: yes
+LINK TARGETS: Rhythm and blues | Rock and Roll Hall of Fame | Rock and roll | The Beatles
+ENTRY:
+American singer, pianist and songwriter, called the "Architect of Rock and Roll." Born Richard Wayne Penniman in Macon, Georgia, he was an influential figure in popular music for seven decades. His frenetic piano playing, pounding backbeat and raspy vocals in the mid-1950s laid the foundation for [[Rock and roll|rock and roll]]. "Tutti Frutti" (1955) crossed over to the pop charts, and "Long Tall Sally" (1956) reached number one on the Billboard Rhythm and Blues chart. He influenced [[Rhythm and blues|rhythm and blues]], soul and funk. After a five-year period in which he abandoned rock and roll for born-again Christianity, he returned in 1962 to tour Europe, where [[The Beatles|the Beatles]] opened for him on some dates. He was inducted into the [[Rock and Roll Hall of Fame]] in 1986 as one of its first inductees.
+
+=== KEY: Little_Rock_Arkansas_c7e86d
+HEADWORD: Little Rock, Arkansas
+PERSON: no
+LINK TARGETS: Arkansas | Civil rights movement
+ENTRY:
+Capital and most populous city of the U.S. state of [[Arkansas]] (pop., 2020: 202,591) and county seat of Pulaski County. The city lies on the south bank of the Arkansas River. It was founded in 1821 as the capital of the Arkansas Territory and is named for a rock formation on the river that the French explorer Jean-Baptiste Bénard de la Harpe named in 1722. The 1957 desegregation of Little Rock Central High School was a key event in the [[Civil rights movement|Civil Rights movement]]. The metropolitan area has an estimated 770,000 residents. Dillard's and Windstream Holdings are headquartered in the city.
+
+=== KEY: Little_Women_5e86b2
+HEADWORD: Little Women
+PERSON: no
+LINK TARGETS: 
+ENTRY:
+Coming-of-age novel by American author Louisa May Alcott, published in two volumes in 1868 and 1869. It follows the four March sisters, Meg, Jo, Beth, and Amy, as they pass from childhood to womanhood. Loosely based on the author and her three sisters, it is classified as autobiographical or semi-autobiographical. The book was an immediate commercial and critical success. Alcott wrote two sequels featuring the March sisters, *Little Men* (1871) and *Jo's Boys* (1886), and the two volumes were issued as a single novel in 1880. Scholar Sarah Elbert argues that Alcott combined elements of romantic children's fiction and sentimental novels into a new genre. The novel has been said to address domesticity, work, and true love, and it has been translated into numerous languages and adapted frequently for stage and screen.
+
+=== KEY: Liturgy_2fd2b0
+HEADWORD: Liturgy
+PERSON: no
+LINK TARGETS: Christianity | Ritual
+ENTRY:
+Customary public [[Ritual|ritual]] of worship performed by a religious group. Liturgy is a communal response to the sacred, expressing praise, thanksgiving, remembrance, supplication, or repentance, and it forms a basis for establishing a relationship with God or the divine. The word derives from the ancient Greek *leitourgia*, meaning "work or service for the people." In classical Athens, liturgies were costly public duties that wealthy citizens performed to finance festivals and civic amenities. Buddhist liturgy is a formalized service of chanting sutras, mantras, or gathas before objects of veneration, accompanied by offerings of light, incense, water, and food. In [[Christianity]], the term usually refers to a standardized order of events in a sacramental service or service of public prayer. Critics of the distinction between "liturgical" and "non-liturgical" churches argue that even unscripted worship, such as Quaker waiting worship, is liturgical.
+
+=== KEY: Liu_Wen_model_5cd6b9
+HEADWORD: Liu Wen
+PERSON: yes
+LINK TARGETS: Beijing | Hunan | Vogue (magazine)
+ENTRY:
+Chinese fashion model, described as China's first supermodel. Born in [[Hunan]] Province, she moved to [[Beijing]] at 17 to start her career. In the Fall 2009 season she walked 74 shows, a record for a model of Asian descent in a single season. She was the first Chinese model to walk the Victoria's Secret Fashion Show and the first East Asian spokesmodel for Estée Lauder. In 2017 she became the second Chinese model on the cover of American [[Vogue (magazine)|Vogue]]. In 2024 she became the first model of Asian descent featured solo on the cover of French Vogue.
+
+=== KEY: Live_Aid_e5d59b
+HEADWORD: Live Aid
+PERSON: no
+LINK TARGETS: London | Philadelphia
+ENTRY:
+Benefit concert held simultaneously in [[London]] and [[Philadelphia]] on July 13, 1985. Organized by Bob Geldof and Midge Ure to raise funds for relief of the 1983–1985 famine in Ethiopia, it grew out of the charity single "Do They Know It's Christmas?" released in December 1984. An estimated 1.9 billion people in 150 nations watched the satellite broadcast, nearly 40 percent of the world population. The BBC World Service program *Assignment* reported in March 2010 that funds had been diverted, but the BBC Editorial Complaints Unit later found "no evidence to support such statements."
+
+=== KEY: Liver_f1a3cb
+HEADWORD: Liver
+PERSON: no
+LINK TARGETS: Glucose | Glycogen | Hepatitis
+ENTRY:
+Vertebrate organ, the largest internal organ and gland, central to metabolism, digestion, and detoxification. It is found only in vertebrates and has a similar structure in all of them. In humans it lies in the right upper quadrant of the abdomen, below the diaphragm and mostly shielded by the lower right rib cage. Estimates of its functions vary but are generally cited as around 500, so it is sometimes called the body's chemical factory.
+
+The liver detoxifies the body, synthesizes proteins and other biochemicals needed for digestion and growth, and carries out carbohydrate metabolism. It produces hormones, converts and stores nutrients such as [[Glucose|glucose]] and [[Glycogen|glycogen]], and breaks down red blood cells. As an accessory digestive organ it produces bile, which emulsifies dietary fat; the gallbladder stores and concentrates the bile. The Greek root *hepat-* gives terms such as hepatology and [[Hepatitis|hepatitis]].
+
+A human liver is a dark reddish-brown, wedge-shaped organ that normally weighs about 1.5 kg and is about 15 cm wide. It has two lobes when viewed from above and four (left, right, caudate, and quadrate) from below, and is functionally divided into eight segments. Its dual blood supply comes from the hepatic artery, carrying oxygen-rich blood, and the portal vein, carrying blood rich in digested nutrients from the gastrointestinal tract, spleen, and pancreas. These vessels lead through sinusoids to hepatic lobules, the functional units, each made up of millions of hepatocytes, the basic metabolic cells.
+
+How to compensate for the absence of liver function in the long term is not known. Liver dialysis can be used in the short term, no artificial liver has been developed for long-term replacement, and as of 2018 liver transplantation is the only option for complete liver failure.
+
+=== KEY: Liverpool_F_C_2d9741
+HEADWORD: Liverpool F.C.
+PERSON: no
+LINK TARGETS: Brussels | Liverpool | Premier League
+ENTRY:
+Association football club based in [[Liverpool]], England, founded in 1892. It competes in the [[Premier League]]. The club has won a joint-record 20 league titles, eight FA Cups, a record 10 League Cups, and six European Cups. Under Bob Paisley, Joe Fagan, and Kenny Dalglish, it won 11 league titles and four European Cups in the 1970s and 1980s. The 1985 Heysel Stadium disaster in [[Brussels]] killed 39 fans, and English clubs were then banned from European competition for five years. The 1989 Hillsborough disaster killed 97 supporters after grossly negligent policing led to a crowd crush.
+
+=== KEY: Liverpool_afce84
+HEADWORD: Liverpool
+PERSON: no
+LINK TARGETS: Atlantic slave trade | European Union | Industrial Revolution | The Beatles
+ENTRY:
+Port city and metropolitan borough in Merseyside, England (pop., 2025: 507,915). Established as a borough in Lancashire in 1207, Liverpool became significant in the late 17th century through its heavy involvement in the [[Atlantic slave trade]]. It was a major departure point for emigrants to North America and, at the forefront of the [[Industrial Revolution]], rose to global economic importance. It was granted city status in 1880 and moved to Merseyside in 1974. After decline in the mid-20th century, the [[European Union]] named it European Capital of Culture for 2008, reportedly generating over £800 million for the local economy within a year. The city produced musicians including the [[The Beatles|Beatles]], and it is home to Liverpool Lime Street, the world's oldest still-operating main line railway station. Residents are known as Scousers, and the city has the U.K.'s oldest Black community, Europe's oldest Chinese community, and the first mosque in England.
+
+=== KEY: Liverwort_53cd4d
+HEADWORD: Liverwort
+PERSON: no
+LINK TARGETS: Bryophyte | Desert | Gametophyte | Hornwort | Moss | Sporophyte
+ENTRY:
+Non-vascular land plant in the division Marchantiophyta. Liverworts, [[Moss|mosses]], and [[Hornwort|hornworts]] are collectively known as [[Bryophyte|bryophytes]]. Like mosses and hornworts, liverworts have a gametophyte-dominant life cycle in which the [[Sporophyte|sporophyte]] depends on the [[Gametophyte|gametophyte]]. Liverworts are haploid for most of their life cycle, and their sporophytes are short-lived, withering soon after releasing their spores. Some have a flat, branching thallus, while others are leafy. They are distinguished from mosses by single-celled rhizoids, the absence of a midrib in the leaves, and complex oil bodies bounded by membranes. An estimated 9,000 species occur in many terrestrial ecosystems, especially moist tropical regions, though some are adapted to [[Desert|deserts]]. Most liverworts are small, from 2 to 20 millimeters wide.
+
+=== KEY: Livestock_e0ba11
+HEADWORD: Livestock
+PERSON: no
+LINK TARGETS: Animal husbandry | Greenhouse gas
+ENTRY:
+Domesticated animals raised in an agricultural setting for labor and for products such as meat, eggs, milk, fur, leather, and wool. The term sometimes refers only to animals raised for consumption, or only to farmed ruminants such as cattle, sheep, and goats. The breeding and slaughter of livestock, called [[Animal husbandry|animal husbandry]], has been practiced since humanity's transition to farming. Dogs were domesticated early, appearing in Europe and the Far East about 15,000 years ago, while goats and sheep were domesticated between 11,000 and 5,000 years ago in Southwest Asia. Pigs were domesticated by 8,500 BC in the Near East, and cattle about 10,500 years ago. Modern farming has largely shifted to intensive animal farming, which increases yields but impairs animal welfare, the environment, and public health. Beef, dairy, and sheep are an outsized source of [[Greenhouse gas|greenhouse gas]] emissions from agriculture.
+
+=== KEY: Livonian_War_233ab4
+HEADWORD: Livonian War
+PERSON: no
+LINK TARGETS: Estonia | Grand Duchy of Lithuania | Latvia | Stephen Báthory | Sweden | Tsardom of Russia
+ENTRY:
+16th-century conflict over Old Livonia, present-day [[Estonia]] and [[Latvia]]. The war lasted from 1558 to 1583. The [[Tsardom of Russia]] faced a shifting coalition of the Dano-Norwegian Realm, the [[Sweden|Kingdom of Sweden]], and the Union of the [[Grand Duchy of Lithuania]] and the Kingdom of Poland. From 1558 to 1578, Russia dominated the region with early victories at Dorpat (Tartu) and Narva. After Russia dissolved the Livonian Confederation, Poland–Lithuania entered the conflict, and Sweden and Denmark-Norway intervened from 1559 to 1561. In 1576, [[Stephen Báthory]] became king of Poland and grand duke of Lithuania and turned the tide, winning the Battle of Wenden in 1578 before campaigning through Russia to the long Siege of Pskov. The 1582 Truce of Jam Zapolski ended the war between Russia and Poland–Lithuania, with Russia losing its Livonian holdings. The following year, the Truce of Plussa gave Sweden most of Ingria and northern Livonia.
+
+=== KEY: Livyatan_11cc54
+HEADWORD: Livyatan
+PERSON: no
+LINK TARGETS: Herman Melville | Megalodon | Miocene | Peru
+ENTRY:
+Extinct genus of macroraptorial sperm whale from the [[Miocene]] epoch, known mainly from [[Peru]]. Its single species, *Livyatan melvillei*, is named after [[Herman Melville]], author of *Moby-Dick*. The fossils date to about 8.9–9.9 million years ago. The holotype is estimated at 13.5–17.5 meters long, making it one of the largest predators known. Its teeth, up to 36.2 cm long, are the largest biting teeth of any known animal, excluding tusks. It may have competed with the giant shark [[Megalodon|megalodon]] for similar prey. Its extinction was probably caused by a cooling event at the end of the Miocene that reduced food populations.
+
+=== KEY: Liza_Minnelli_a71b7d
+HEADWORD: Minnelli, Liza
+PERSON: yes
+LINK TARGETS: Judy Garland
+ENTRY:
+American actress, singer, and dancer. The daughter of [[Judy Garland]] and director Vincente Minnelli, she is known for her powerful alto voice. She won four Tony Awards, including Best Actress in a Musical for *Flora the Red Menace* (1965) and *The Act* (1978). She received the Academy Award for Best Actress for playing Sally Bowles in the musical film *Cabaret* (1972). Her other honors include a BAFTA Award, an Emmy, and two Golden Globes, and she is one of the few performers to have won an EGOT, completed through an honorary Grammy. Her signature songs include "New York, New York" and "Cabaret."
+
+=== KEY: Lizard_2f7569
+HEADWORD: Lizard
+PERSON: no
+LINK TARGETS: Antarctica | Desert | Komodo dragon | Monitor lizard | Reptile | Snake | Venom | Wetland
+ENTRY:
+Informal name for the [[Reptile|reptiles]] known as squamates that are not snakes, encompassing over 7,000 species. Lizards inhabit every continent except [[Antarctica]], as well as most oceanic island chains. They range in size from the 13.5 mm nano-chameleon to the 3-meter-long [[Komodo dragon]]. Most are quadrupedal, and many are territorial, with males signaling in bright colors to attract mates and intimidate rivals. Most are carnivorous ambush predators, although larger [[Monitor lizard|monitor lizards]] can prey on animals as big as water buffalo. Lizards thrive in habitats from [[Wetland|wetlands]] to [[Desert|deserts]] and arctic tundra. Antipredator adaptations include [[Venom|venom]], camouflage, reflex bleeding, and self-amputation of the tail as a decoy. [[Snake|Snakes]] are descended from lizards, so cladistic classifications often treat "lizard" as a paraphyletic group.
+
+=== KEY: Lizzie_Borden_2ffee5
+HEADWORD: Borden, Lizzie
+PERSON: yes
+LINK TARGETS: New Hampshire | Pneumonia | Rhyme | Trial
+ENTRY:
+American woman acquitted in 1893 of the murders of her father and stepmother in Fall River, Massachusetts. No other individuals were charged. The murders and the 1893 [[Trial|trial]] attracted national publicity and have inspired films, plays, literary works, and [[Rhyme|folk rhymes]]. After the trial, she and her older sister Emma bought a house in the Highlands district of Fall River, where she lived for the rest of her life. Emma moved away after 12 years, to [[New Hampshire]]. Borden died of [[Pneumonia|pneumonia]] at age 66.
+
+=== KEY: Ljubljana_a606fe
+HEADWORD: Ljubljana
+PERSON: no
+LINK TARGETS: Adriatic Sea | Danube | Habsburg monarchy | Slovenia | World War II
+ENTRY:
+Capital and largest city of [[Slovenia]], on a trade route between the northern [[Adriatic Sea|Adriatic]] and the [[Danube]] region. The Roman city of Emona stood on the site, and Ljubljana was first mentioned in the first half of the 12th century. As the historical capital of Carniola, it was under [[Habsburg monarchy|Habsburg]] rule from the Middle Ages until 1918. After [[World War II]] it became the capital of the Socialist Republic of Slovenia within Yugoslavia, and it became the capital of independent Slovenia in 1991. Its symbol is the Ljubljana Dragon, shown on the castle tower and on the Dragon Bridge.
+
+=== KEY: Llama_9ef4f7
+HEADWORD: Llama
+PERSON: no
+LINK TARGETS: Great Plains | Guanaco | Pre-Columbian era | South America | Vicuña
+ENTRY:
+Domesticated South American camelid (*Lama glama*), widely used as a meat and pack animal by Andean cultures since the [[Pre-Columbian era|pre-Columbian era]]. Llamas are social herd animals whose soft wool contains little lanolin. They learn simple tasks after a few repetitions and can carry about 25 to 30% of their body weight for 8 to 13 km (5–8 miles). DNA analysis indicates that the [[Guanaco]] is the wild ancestor of the llama, while the [[Vicuña]] is the wild ancestor of the alpaca. The ancestors of llamas originated on the [[Great Plains]] of North America about 40 million years ago and migrated to [[South America]] about three million years ago. As of 2007, there were over seven million llamas and alpacas in South America. In Aymara mythology, the Heavenly Llama is said to drink water from the ocean and urinate as rain.
+
+=== KEY: Loam_542e09
+HEADWORD: Loam
+PERSON: no
+LINK TARGETS: Clay | Sand
+ENTRY:
+Soil composed mostly of [[Sand|sand]], silt, and a smaller amount of [[Clay|clay]], roughly 40–40–20% by weight. In the U.S. Department of Agriculture's textural classification, loam is the only class that is not predominantly sand, silt, or clay. Loam holds more nutrients, moisture, and humus than sandy soils, drains better than silt- or clay-rich soils, and is easier to till than clay. It is considered ideal for gardening and farming, though compaction or loss of organic matter can degrade it. Loam has been used in construction since ancient times, in traditional loam post-and-beam houses, rammed earth, and adobe bricks.
+
+=== KEY: Loan_9ad81a
+HEADWORD: Loan
+PERSON: no
+LINK TARGETS: Bank | Bond (finance) | Contract | Credit card | Interest (economics) | Mortgage
+ENTRY:
+Transfer of money or other assets from a lender to a borrower under an agreement to repay, usually with [[Interest (economics)|interest]]. The borrower incurs a debt, and interest gives the lender an incentive to lend. The promissory note evidencing the debt usually specifies the principal, the interest rate, and the repayment date, and the terms are enforced by [[Contract|contract]], which may also impose loan covenants. Lending is a main activity of [[Bank|banks]] and [[Credit card|credit card]] companies, while other institutions often raise funds by issuing [[Bond (finance)|bonds]]. A secured loan is backed by collateral: in a [[Mortgage|mortgage]], the lender holds a lien on the property until it is paid off and may repossess and sell it after a default. Interest rates on unsecured loans, such as personal loans, credit cards, and overdrafts, are nearly always higher, because the lender's recourse is limited to suing the borrower and enforcing a judgment against unencumbered assets.
+
+=== KEY: Lobotomy_2e148b
+HEADWORD: Lobotomy
+PERSON: no
+LINK TARGETS: Mental disorder | Soviet Union
+ENTRY:
+Discredited neurosurgical procedure, also called leucotomy, that severs nerve connections in the prefrontal cortex of the brain. Used from the 1930s until the 1970s to treat [[Mental disorder|psychiatric disorders]] in some countries, it was pioneered by Portuguese neurologist António Egas Moniz, who shared the 1949 Nobel Prize in Physiology or Medicine. Walter Freeman popularized it in the United States, where almost 20,000 lobotomies had been performed by 1951. The procedure reduced symptoms at the expense of personality and intellect. It was abandoned from the 1950s onward, first in the [[Soviet Union]], where it was banned in December 1950, and then in Europe.
+
+=== KEY: Lobster_5fd207
+HEADWORD: Lobster
+PERSON: no
+LINK TARGETS: Arthropod | Copper | Crustacean | Decapod | Hemoglobin | Seafood
+ENTRY:
+Marine [[Decapod|decapod]] [[Crustacean|crustacean]] of the family Nephropidae, with a long body, a muscular tail, and large claws. Lobsters live in crevices or burrows on the sea floor. Three of their five pairs of legs bear claws, and the first pair is usually much larger than the others. Highly prized as [[Seafood|seafood]], lobsters are among the most profitable commodities in the coastal areas they populate. Like other [[Arthropod|arthropods]], they must shed their hard exoskeletons to grow, and several species change color during molting. Their blue blood comes from [[Copper|copper]]-containing hemocyanin rather than the iron-rich [[Hemoglobin|hemoglobin]] of vertebrates. The unqualified term refers to clawed lobsters; spiny lobsters and squat lobsters are not closely related to them.
+
+=== KEY: Local_Group_095e9e
+HEADWORD: Local Group
+PERSON: no
+LINK TARGETS: Andromeda Galaxy | Earth | Laniakea Supercluster | Milky Way | Triangulum Galaxy | Virgo Supercluster
+ENTRY:
+Galaxy group containing the [[Milky Way]], where [[Earth]] is located. Its two main collections of galaxies form a "dumbbell" shape: the Milky Way and its satellites form one lobe, and the [[Andromeda Galaxy]] and its satellites form the other. The lobes are about 800 kiloparsecs apart and are moving toward one another at 123 km/s. The two largest members, both spiral galaxies, each have masses of about 10¹² solar masses. The [[Triangulum Galaxy]] (M33) is the third-largest member. Most of the 134 known members are dwarf galaxies, and the exact number is unknown because the Milky Way obscures some. The group is part of the Local Volume and the larger [[Virgo Supercluster]], which is part of the [[Laniakea Supercluster]].
+
+=== KEY: Loch_Ness_39af5c
+HEADWORD: Loch Ness
+PERSON: no
+LINK TARGETS: Loch Ness Monster | Scottish Highlands
+ENTRY:
+Large freshwater loch in the [[Scottish Highlands]]. It lies along the Great Glen Fault and forms part of the Caledonian Canal, which links the east and west coasts of Scotland. Stretching about 37 km (23 miles), it is the second-largest Scottish loch by surface area after Loch Lomond, but the largest by volume in the British Isles, with more water than all the lakes in England and Wales combined. Its deepest point is 754 feet (229.8 meters). Peat in the surrounding soil makes its water exceptionally murky. The loch is best known for claimed sightings of the [[Loch Ness Monster]].
+
+=== KEY: Loch_Ness_Monster_90f3b6
+HEADWORD: Loch Ness Monster
+PERSON: no
+LINK TARGETS: Loch Ness | Scottish Highlands
+ENTRY:
+Mythical creature in Scottish folklore, said to inhabit a [[Loch Ness|loch]] in the [[Scottish Highlands]]. Known affectionately as "Nessie," it is described as large and long-necked, with one or more humps above the water. It was brought to worldwide attention in 1933. The earliest account, in *Life of St. Columba* by Adomnán, written in the 7th century, describes a water beast attacking a man in the River Ness rather than the loch itself. Evidence is anecdotal, including disputed photographs and sonar readings, and scientists attribute the sightings to hoaxes, misidentified animals, and other natural phenomena.
+
+=== KEY: Lock_and_key_5b88a3
+HEADWORD: Lock and key
+PERSON: no
+LINK TARGETS: Assyria | Brass | Fingerprint | Nineveh | Password | Steel
+ENTRY:
+Fastening device released by a physical key, keycard, or [[Fingerprint|fingerprint]], or by secret information such as a [[Password|password]], and the key that operates it. A typical key is a small piece of metal with a bit that slides into the keyway and a bow that allows torque to be applied. Common metals include [[Brass|brass]], nickel silver, and [[Steel|steel]]. Locks have been in use for over 6,000 years, and an early example was found in the ruins of [[Nineveh]], the capital of ancient [[Assyria]]. The Egyptian wooden pin lock lifted pins out of drilled holes to release the bolt when a key was inserted. The Romans invented metal locks and keys. In 1778 Robert Barron invented the lever tumbler lock, which Jeremiah Chubb greatly improved in 1818. Opening a lock without a key is called lock picking.
+
+=== KEY: Lock_water_navigation_69ff87
+HEADWORD: Lock
+PERSON: no
+LINK TARGETS: Bruges | Canal | Song dynasty
+ENTRY:
+Chamber for raising and lowering boats between stretches of water at different levels on rivers and [[Canal|canals]]. Locks make a river more navigable or allow a canal to cross uneven land. The most common type is the pound lock, with a watertight chamber, a gate at each end, and gear to fill and empty the chamber. Pound locks first appeared in medieval China during the [[Song dynasty]] (960–1279). In 984, the tax administrator Qiao Weiyue installed a pair of sluice gates 250 feet apart, effectively creating a pound lock. The first true European pound lock was built in 1396 at Damme near [[Bruges]], Belgium. Passing through a lock usually takes 10 to 20 minutes, depending on the size of the lock and the water level on arrival.
+
+=== KEY: Lockheed_C_130_Hercules_f4bcb9
+HEADWORD: Lockheed C-130 Hercules
+PERSON: no
+LINK TARGETS: Aerial refueling | Australia | Lockheed Martin
+ENTRY:
+American four-engined turboprop military transport aircraft. Capable of using unprepared runways, it was designed as a troop, medical evacuation, and cargo aircraft. Variants serve as gunships (AC-130) and for [[Aerial refueling|aerial refueling]], search and rescue, weather reconnaissance, and aerial firefighting. Designed by Lockheed (now [[Lockheed Martin]]), it entered U.S. Air Force service in 1956 and was followed by [[Australia]] and many other nations. More than 40 variants operate in more than 60 nations. It is the longest continuously produced military aircraft, with 70 years of production as of 2024.
+
+=== KEY: Lockheed_Martin_514dfc
+HEADWORD: Lockheed Martin
+PERSON: no
+LINK TARGETS: Nuclear fusion | Renewable energy | United States Department of Defense
+ENTRY:
+American defense and aerospace manufacturer, headquartered in North Bethesda, Maryland. It was formed by the merger of the Lockheed Corporation and Martin Marietta on March 15, 1995. As of 2023, it was the top contractor of the U.S. federal government; in 2024, 73% of its revenue came from the federal government, including 65% from the [[United States Department of Defense|Department of Defense]]. The F-35 fighter accounted for 26% of revenue that year. The company also manufactures the MIM-104 Patriot air-defense system and invests in [[Nuclear fusion|compact nuclear fusion]] and [[Renewable energy|renewable energy]] systems.
+
+=== KEY: Lockheed_Martin_F_35_Lightning_II_252634
+HEADWORD: Lockheed Martin F-35 Lightning II
+PERSON: no
+LINK TARGETS: Boeing | Israel | Lockheed Martin | Northrop Grumman | Syria
+ENTRY:
+American family of single-seat, single-engine, supersonic stealth strike fighters. It is designed for air superiority and strike missions, with electronic warfare and reconnaissance capabilities. [[Lockheed Martin]] is the prime contractor, with [[Northrop Grumman]] and BAE Systems as partners. It descends from the X-35, which beat the [[Boeing]] X-32 in 2001 to win the Joint Strike Fighter program. As of 2025, 883 aircraft were in service, making it the world's fourth-most-numerous military aircraft. The first combat use came in 2018, in [[Israel|Israeli]] strikes in [[Syria]]. Critics cite ballooning costs and delayed deliveries; the program is expected to cost US$2 trillion through 2088.
+
+=== KEY: Lockheed_SR_71_Blackbird_d52141
+HEADWORD: Lockheed SR-71 Blackbird
+PERSON: no
+LINK TARGETS: NASA | Surface-to-air missile
+ENTRY:
+Long-range, high-altitude, Mach 3+ strategic reconnaissance aircraft. It was developed in the 1960s as a secret project and entered U.S. Air Force service in January 1966. Operating at Mach 3.2 and 85,000 feet (26,000 m), it could outrun a [[Surface-to-air missile|surface-to-air missile]] launch. Its missions from 1968 covered Laos, North Vietnam and later North Korea. Of 32 built, 12 were lost in accidents, none to enemy action. In 1974 it set a London–New York speed record, and in 1976 it became the fastest airbreathing manned aircraft; as of 2026 both records stand. [[NASA]] flew it for research until 1999.
+
+=== KEY: Locomotive_ed24a4
+HEADWORD: Locomotive
+PERSON: no
+LINK TARGETS: George Stephenson | Steam locomotive | World War II
+ENTRY:
+Self-propelled railway vehicle that provides the motive power for a train, also called the engine of a train. Locomotives traditionally pulled trains from the front, but push–pull operation is now common, and longer freight trains use distributed power, with locomotives at the front, rear and intermediate points under the control of the leading unit. Locomotives draw power from fuel such as wood, coal, petroleum or natural gas, or from an outside source of electricity. The first full-scale working [[Steam locomotive|steam locomotive]] was built by Richard Trevithick in 1802. In 1812 Matthew Murray's Salamanca first ran and is generally regarded as the first commercially successful locomotive. [[George Stephenson]] built Locomotion No. 1 for the Stockton & Darlington Railway, the first public steam railway. Steam locomotives remained the most common type until after [[World War II]], when they were less efficient than diesel and electric types and needed larger crews.
+
+=== KEY: Locust_ee9c4c
+HEADWORD: Locust
+PERSON: no
+LINK TARGETS: Famine | Nymph (biology) | Prehistory | Serotonin
+ENTRY:
+Any of various short-horned grasshopper species, in the family Acrididae, that have a swarming phase. Usually solitary and harmless, locusts change dramatically after drought is followed by rapid vegetation growth, when [[Serotonin|serotonin]] in their brains triggers breeding and gregarious behavior. They form bands of wingless [[Nymph (biology)|nymphs]] that later become winged swarms, which strip fields and damage crops. Locusts have plagued people since [[Prehistory|prehistory]], and ancient Egyptians carved them on tombs. Swarms have caused [[Famine|famines]] and human migrations. Traditional control uses insecticides applied from the ground or air, though biological methods are proving effective. Locusts are edible and are considered a delicacy in many countries.
+
+=== KEY: Logan_Paul_78adea
+HEADWORD: Paul, Logan
+PERSON: yes
+LINK TARGETS: Boxing | Forbes | WWE | YouTube
+ENTRY:
+American influencer and professional wrestler. His [[YouTube]] channel, Logan Paul Vlogs, has over 23 million subscribers. Paul co-founded the beverage company Prime and the snack brand Lunchly, and was ranked on the [[Forbes]] list of highest-paid YouTube creators in 2017, 2018 and 2021. He has been signed to [[WWE]] since June 2022 and won the WWE United States Championship in November 2023. In 2023 he won his first professional [[Boxing|boxing]] match. In 2017 he filmed himself finding the corpse of a suicide victim in Japan's Aokigahara forest and uploaded the footage. He also promoted CryptoZoo, which failed to compensate more than $1.5 million to investors.
+
+=== KEY: Logarithm_1e62c0
+HEADWORD: Logarithm
+PERSON: no
+LINK TARGETS: Leonhard Euler
+ENTRY:
+Mathematical function giving the exponent to which a fixed base must be raised to produce a given number. For example, the logarithm of 1000 to base 10 is 3, because 1000 = 10³; this is written log₁₀ 1000 = 3. More generally, if x = bʸ, then y = log_b x, so the logarithm to base b is the inverse of exponentiation with base b. Other examples are log₂ 16 = 4, since 2⁴ = 16, and log₁₀ 150 ≈ 2.176.
+
+The base-10 logarithm is the decimal or common logarithm, widely used in science and engineering. The natural logarithm has the number e ≈ 2.718 as its base and is widespread in mathematics and physics because of its simple derivative. The binary logarithm, base 2, is used in computer science, information theory, music theory, and photography. The logarithm of a product is the sum of the logarithms of the factors: log_b(xy) = log_b x + log_b y.
+
+John Napier introduced logarithms in 1614 to simplify calculation. Henry Briggs introduced base-10 logarithms and published extensive tables in *Arithmetica Logarithmica* (1624), and Adrian Vlacq extended them to numbers up to 100,000 by 1628. The slide rule, first described by William Oughtred in 1622, is also based on logarithms. The present-day notion comes from [[Leonhard Euler]], who connected logarithms to the exponential function in the 18th century and introduced the letter e for the base of natural logarithms.
+
+Logarithmic scales compress wide-ranging quantities: the decibel expresses ratios of signal power and amplitude, pH measures acidity, and the Richter scale measures earthquake intensity. In general settings the logarithm is multi-valued; the discrete logarithm, which inverts the exponential function in finite groups, is used in public-key cryptography.
+
+=== KEY: Logic_35ba12
+HEADWORD: Logic
+PERSON: no
+LINK TARGETS: Alfred North Whitehead | Argument | Aristotle | Bertrand Russell | First-order logic | George Boole | Gottlob Frege | Propositional logic
+ENTRY:
+Study of correct reasoning. Logic includes formal and informal branches. Formal logic studies deductively valid inferences and logical truths, examining how conclusions follow from premises by the structure of [[Argument|arguments]] alone, independent of topic and content. Informal logic is associated with informal fallacies, critical thinking, and argumentation theory, and examines arguments expressed in natural language. Used as a countable noun, "a logic" means a specific formal system. Logic plays a central role in philosophy, mathematics, computer science, and linguistics.
+
+Logic studies arguments, each consisting of premises that lead to a conclusion. An example runs from the premises "it's Sunday" and "if it's Sunday then I don't have to work" to the conclusion "I don't have to work." Premises and conclusions express propositions that can be true or false. An argument is correct if its premises support its conclusion. Deductive arguments give the strongest support: if their premises are true, the conclusion must be true. Ampliative arguments reach new information not found in the premises and divide into inductive arguments, which are statistical generalizations, and abductive arguments, which are inferences to the best explanation. Arguments that fall short of correct reasoning often embody fallacies. A rule of inference, such as modus ponens ("p; if p then q; therefore q"), is a pattern that guarantees validity regardless of what the terms stand for. Formal logic uses formal languages with a limited vocabulary and exact syntactic rules, so natural-language arguments must be translated before their validity can be assessed.
+
+The word comes from Greek *logos*, variously translated as "reason," "discourse," or "language." Logic has been studied since antiquity; early approaches include Aristotelian logic, Stoic logic, Nyaya, and Mohism. [[Aristotle]], in the 4th century BC, developed syllogistic reasoning in works later collected as the *Organon*, and his system was the main logic of the Western world for over two millennia. Modern formal logic has roots in the work of 19th-century mathematicians. [[George Boole]] introduced algebraic approaches in *The Mathematical Analysis of Logic* (1847). [[Gottlob Frege]]'s *Begriffsschrift* (1879) established modern quantificational logic. [[Bertrand Russell]] and [[Alfred North Whitehead]] wrote *Principia Mathematica* (1910–1913), which sought to ground mathematics in logic, and Kurt Gödel's incompleteness theorems (1931) revealed limits of formal systems.
+
+Today the most commonly used system is classical logic, which consists of [[Propositional logic|propositional logic]], concerned with relations between whole propositions, and [[First-order logic|first-order logic]], which also treats predicates and quantifiers. Extended logics apply classical intuitions to questions of necessity, what is or should be, and what is believed or known. Deviant logics, such as intuitionistic logic, which rejects the law of excluded middle, reject certain classical principles. Logic underpins set theory and proof theory, and in computer science it supports programming languages, artificial intelligence, and circuit design.
+
+=== KEY: Logic_gate_08ebe9
+HEADWORD: Logic gate
+PERSON: no
+LINK TARGETS: Boolean algebra | Claude Shannon | Gottfried Wilhelm Leibniz | Konrad Zuse | MOSFET | Relay | Vacuum tube
+ENTRY:
+Device that performs a Boolean function, a logical operation on one or more binary inputs that produces a single binary output. Most gates are built from [[MOSFET|MOSFETs]] (metal–oxide–semiconductor field-effect transistors) acting as electronic switches, though [[Vacuum tube|vacuum tubes]] and [[Relay|relays]] have also been used. The seven basic gates are NOT, OR, NOR, AND, NAND, XOR and XNOR. [[Gottfried Wilhelm Leibniz|Gottfried Wilhelm Leibniz]] refined the binary system in 1705, combining arithmetic and logic. From 1934 to 1936, Akira Nakashima, [[Claude Shannon]] and Victor Shestakov showed that two-valued [[Boolean algebra]] could describe switching circuits. [[Konrad Zuse]] built electromechanical logic gates for his Z1 computer from 1935 to 1938.
+
+=== KEY: Logistic_regression_72fc23
+HEADWORD: Logistic regression
+PERSON: no
+LINK TARGETS: Linear regression | Ordinary least squares
+ENTRY:
+Statistical model for a binary dependent variable, with log-odds modeled as a linear combination of independent variables. The logistic function converts log-odds into a probability between 0 and 1. Since about 1970 the logistic model has been the most commonly used model for binary regression. Its parameters are usually estimated by maximum likelihood, which has no closed-form solution, unlike [[Ordinary least squares|least squares]] in [[Linear regression|linear regression]]. Joseph Berkson developed and popularized the model, coining the term "logit" in 1944. The model does not classify by itself, but a cutoff value can turn it into a binary classifier.
+
+=== KEY: Logistics_68c16c
+HEADWORD: Logistics
+PERSON: no
+LINK TARGETS: 
+ENTRY:
+Part of supply chain management that deals with the efficient forward and reverse flow of goods, services and related information from the point of origin to the point of consumption. The word comes from the French *logistique*, which the Swiss military writer Antoine-Henri Jomini coined or popularized. It appears in English from 1846, and Jomini linked it to *logis* (lodgings). Military logistics maintains army supply lines with food, armaments, ammunition and spare parts, and also moves troops. Civil logistics covers acquiring, moving and storing raw materials, semi-finished goods and finished goods. It deals with movement between facilities, not with material flow within production plants. Logistics accounts for a significant share of the operating costs of an organization or country, and minimizing resource use is a common motivation in all its fields.
+
+=== KEY: Logogram_6539e2
+HEADWORD: Logogram
+PERSON: no
+LINK TARGETS: Chinese characters | Cuneiform
+ENTRY:
+Written character that represents a word or morpheme, a semantic component of a language. The term derives from Ancient Greek *logos*, "word," and *gramma*, "that which is drawn or written." [[Chinese characters]], Egyptian hieroglyphs, and characters of [[Cuneiform|cuneiform]] script are logograms, and a writing system that primarily uses them is called a logography. Non-logographic systems, such as alphabets and syllabaries, are phonemic: their symbols represent sounds directly and lack inherent meaning.
+
+Some of the earliest recorded writing systems are logographic; the first historical civilizations of Mesopotamia, Egypt, China, and Mesoamerica all used some form of logographic writing. All known logographies have a phonetic component, generally based on the rebus principle, in which a symbol stands for a sound-alike word. Adding a phonetic component to pure ideographs is considered a key innovation in enabling a script to encode human language adequately. In cuneiform as used for Akkadian, most glyphs carry sound values rather than word meanings.
+
+Logoconsonantal scripts extend graphemes according to the consonants of the words, ignoring vowels; the main examples are Egyptian hieroglyphic, hieratic, and demotic. Logosyllabic scripts have graphemes for morphemes that, when extended phonetically, represent single syllables; they include cuneiform, Linear B, Chinese characters, Maya script, and Aztec script. Egyptian and Chinese add determinatives or radicals that narrow a character's meaning. Most Chinese characters combine a radical indicating a nominal category with a phonetic element.
+
+Some logograms belong to no single language. The ampersand, a combination of the letters e and t, is a logogram in the Latin script representing "and" in many languages. Unicode, the generally accepted standard for computer character encoding, aims to include every character from every language.
+
+=== KEY: Loire_c5fb7b
+HEADWORD: Loire
+PERSON: no
+LINK TARGETS: Bay of Biscay | Julius Caesar | Nantes | UNESCO | World Heritage Site
+ENTRY:
+Longest river in France, at 1,006 km (625 mi). It rises at 1,350 m (4,430 ft) in the Cévennes of the Massif Central and flows north through Nevers and Orléans, then west through Tours and [[Nantes]] to the [[Bay of Biscay]] at Saint-Nazaire. The river drains 117,054 km² (45,195 sq mi), more than a fifth of France's land, but its average discharge is only half that of the Rhône. Its lower-central valley, often called the "Garden of France," was added to the [[UNESCO]] [[World Heritage Site|World Heritage]] list on December 2, 2000. The valley holds over a thousand châteaux, many of them former feudal strongholds, and is known for its vineyards. Gallic rule ended in the valley in 56 BC, when [[Julius Caesar]] conquered the adjacent provinces for Rome.
+
+=== KEY: Loki_65f608
+HEADWORD: Loki
+PERSON: no
+LINK TARGETS: Norse mythology | Poetic Edda | Snorri Sturluson
+ENTRY:
+God in [[Norse mythology]], described by some scholars as a trickster. He engineers the death of the beloved god Baldr and is bound by the gods; his wife Sigyn catches the serpent venom that drips onto him, and when he writhes, earthquakes follow. At Ragnarök he is foretold to break free and fight the gods alongside the jötnar, and he and Heimdallr are to kill each other. Loki is the son of the jötunn Fárbauti and the goddess Laufey. By the jötunn Angrboða he fathers Hel, the wolf Fenrir and the world serpent Jörmungandr. A shape-shifter, he appears as a mare, a salmon, a fly and possibly an elderly woman. He is attested in the [[Poetic Edda]], and in the Prose Edda and Heimskringla, both composed or compiled by [[Snorri Sturluson]] in the 13th century. Scholars have debated his origins, and he is unlikely to have received veneration.
+
+=== KEY: Lolita_d66d61
+HEADWORD: Lolita
+PERSON: no
+LINK TARGETS: Censorship | Stanley Kubrick | Vladimir Nabokov
+ENTRY:
+1955 novel by the Russian-American [[Vladimir Nabokov|Vladimir Nabokov]]. The novel was written in English. Its unreliable narrator, Humbert Humbert, is a French literature professor who describes his obsession with, and victimization of, a 12-year-old girl, Dolores Haze, whom he calls a "nymphet." Fear of [[Censorship|censorship]] in the U.S. and Britain led to its first publication in Paris by Olympia Press. It was initially banned in several countries, including the United Kingdom until 1959. The book received critical acclaim despite public controversy and has appeared on many best-book lists. It was adapted into films by [[Stanley Kubrick]] in 1962 and by Adrian Lyne in 1997.
+
+=== KEY: Lombards_761147
+HEADWORD: Lombards
+PERSON: no
+LINK TARGETS: Charlemagne | Danube | Germanic peoples | Lombardy | Normans
+ENTRY:
+[[Germanic peoples|Germanic]] people who conquered most of the Italian Peninsula between 568 and 774. Earlier they lived near present-day Hamburg and then along the [[Danube]], near what is now Austria, Slovenia and Hungary. Under King Alboin they invaded Italy in 568, and by late 569 they had conquered northern Italy except Pavia, which fell in 572. They established a kingdom in the north and center of the peninsula that reached its height under Liutprand in the 8th century. In 774 the Frankish king [[Charlemagne]] conquered it and integrated it into the Frankish Empire. Lombard nobles continued to rule southern Italy until the [[Normans]] conquered them in the 11th century. The region of [[Lombardy]] takes its name from them. Scholars generally accept that the name means "long beards."
+
+=== KEY: Lombardy_b0ea6e
+HEADWORD: Lombardy
+PERSON: no
+LINK TARGETS: Alps | Italy | Lombards | Milan | UNESCO | World Heritage Site
+ENTRY:
+Administrative region of northern [[Italy]], with about 10 million people, the most populous region in Italy. It covers 23,844 km² (9,206 sq mi) between the [[Alps]] and tributaries of the Po River. Its capital, [[Milan]], has the largest metropolitan area in Italy. The region produces about one-fifth of national gross domestic product and has 1,501 municipalities, more than any other Italian region. Of Italy's 58 [[UNESCO]] [[World Heritage Site|World Heritage Sites]], 11 are in Lombardy. The region takes its name from the [[Lombards]], who arrived in 568 and made Pavia their capital.
+
+=== KEY: London_59ead8
+HEADWORD: London
+PERSON: no
+LINK TARGETS: Boudica | City of London | Greater London | London Underground | Prime meridian | River Thames | Summer Olympic Games | Westminster Abbey
+ENTRY:
+Capital and largest city of England and the United Kingdom, on the [[River Thames]] in southeast England. Its metropolitan area (15.4 million) is the largest in Western Europe. London stands at the head of a 50-mile (80 km) tidal estuary leading to the North Sea and has been a major settlement for nearly 2,000 years. Since 1965 it has largely comprised the administrative area of [[Greater London]], governed by 33 local authorities and the Greater London Authority. The [[City of London]], its ancient core and financial center, was founded by the Romans as Londinium and retains its medieval boundaries; the City of Westminster, to its west, has been the site of national government for centuries.
+
+The Romans founded the first major settlement around AD 47, about four years after their invasion. It lasted until about AD 61, when the Iceni, led by Queen [[Boudica]], burned it. Londinium had about 60,000 inhabitants in the 2nd century. An Anglo-Saxon settlement, Lundenwic, developed slightly west of the old city from about 500. Viking assaults from the 820s brought decline, and Alfred refounded London in 886, according to the Anglo-Saxon Chronicle. By the 11th century London was the largest town in England, and [[Westminster Abbey]] had been rebuilt in Romanesque style under King Edward the Confessor. London grew rapidly in the 19th century, becoming the world's largest city at the time.
+
+London is a major global city and Europe's largest city economy, a leading financial center with the London Stock Exchange and the Bank of England. It has more than 50 universities and colleges. Landmarks include the Tower of London, Buckingham Palace, and the Palace of Westminster. The Royal Observatory at Greenwich defines the [[Prime meridian|Prime Meridian]] (0° longitude). The [[London Underground]] is the world's oldest rapid transit system, and in 2012 London became the first city to host three [[Summer Olympic Games|Summer Olympics]], after 1908 and 1948.
+
+=== KEY: London_Bridge_29cde6
+HEADWORD: London Bridge
+PERSON: no
+LINK TARGETS: City of London | Elizabeth II | River Thames | T. S. Eliot
+ENTRY:
+Series of crossings of the [[River Thames|Thames]] between the [[City of London]] and Southwark since Roman times. The first was a timber bridge built around AD 50 by the Roman founders of London. The medieval stone bridge was replaced in the 19th century by a stone-arched bridge. The current bridge, a concrete and steel box girder structure, was opened by [[Elizabeth II|Queen Elizabeth II]] on March 17, 1973. The 19th-century bridge was sold in 1968, and its granite facing was moved to Lake Havasu City, Arizona. London Bridge appears in the nursery rhyme "London Bridge Is Falling Down" and in *The Waste Land* by [[T. S. Eliot]].
+
+=== KEY: London_Ontario_422003
+HEADWORD: London, Ontario
+PERSON: no
+LINK TARGETS: Detroit | Education | Information technology | London | Manufacturing | Ontario | Toronto
+ENTRY:
+City in southwestern [[Ontario]], Canada (pop., 2021: 422,324), at the confluence of the Thames and North Thames rivers. John Graves Simcoe named it in 1793 after the [[London|English city]] and river, when he proposed the site as the capital of Upper Canada. It is the largest municipality in southwestern Ontario, and its metropolitan area of 543,551 makes it Canada's 11th-largest. The city is a regional center for health care and [[Education|education]], home to the University of Western Ontario and three major hospitals. Its economy also includes [[Manufacturing|manufacturing]], financial services and [[Information technology|information technology]]. London lies about 200 km (120 mi) from both [[Toronto]] and [[Detroit]].
+
+=== KEY: London_School_of_Economics_d8d636
+HEADWORD: London School of Economics
+PERSON: no
+LINK TARGETS: George Bernard Shaw | London
+ENTRY:
+Public research university in [[London|London]], England, specializing in the social sciences. It was founded in 1895 by Fabian Society members Sidney and Beatrice Webb, Graham Wallas and [[George Bernard Shaw]]. It joined the University of London in 1900 and became a university in its own right in 2022. It had under 13,000 students in 2023/24 and an income of £548.2 million in 2024/25. Its library is among the world's largest for the social sciences. Since 1990 the school has educated 24 prime ministers or presidents, and since its founding over 40 world leaders and 21 Nobel laureates have taught or studied there.
+
+=== KEY: London_Stock_Exchange_aef834
+HEADWORD: London Stock Exchange
+PERSON: no
+LINK TARGETS: Brexit | City of London | Elizabeth I | Great Fire of London
+ENTRY:
+Global stock exchange in the [[City of London]], one of the world's oldest continuously operating exchanges. Founded in 1801, it has been run since 2007 by the London Stock Exchange Group, a constituent of the FTSE 100 index. Its Main Market serves established companies, and the Alternative Investment Market serves smaller, high-growth firms; more than 1,900 companies from over 60 countries are listed. As of mid-2025, its total market capitalization was about US$5.9 trillion. Its origins lie in the Royal Exchange, opened by [[Elizabeth I|Queen Elizabeth I]] in 1571 and rebuilt after the [[Great Fire of London]] in 1669. Barred from the Royal Exchange, stockbrokers traded from coffee houses, where John Castaing began publishing prices in 1698. A 1697 Act of Parliament penalized unlicensed brokering. Despite challenges after [[Brexit]], the exchange regained its position as Europe's largest stock market by total value in 2024 and 2025. As of 2025, London also had the world's largest concentration of mining capital, about US$600 billion, roughly 13% of the global mining market.
+
+=== KEY: London_Underground_26b3d9
+HEADWORD: London Underground
+PERSON: no
+LINK TARGETS: Greater London | Rapid transit | Tunnel
+ENTRY:
+[[Rapid transit|Rapid transit]] system serving [[Greater London]] and parts of the adjacent home counties. Known as the Tube, it has 11 lines, 272 stations and about 250 miles (400 km) of track, managed by Transport for London. Only 45% of the network is underground; its nickname comes from its deep-level circular [[Tunnel|tunnels]]. The network began with the Metropolitan Railway, which opened on January 10, 1863, as the world's first underground passenger railway, using gas-lit carriages hauled by steam locomotives. The City and South London Railway pioneered underground electric traction when it opened in 1890. The lines were consolidated as London Transport in 1933. The network carried over 1.2 billion passenger journeys in 2024–25. Harry Beck's schematic Tube map, designed in 1931, became a global design icon.
+
+=== KEY: Loneliness_55aa9b
+HEADWORD: Loneliness
+PERSON: no
+LINK TARGETS: Cardiovascular disease | Emotion | Epic of Gilgamesh | Exercise | Internet | Pet | Substance use disorder
+ENTRY:
+Unpleasant [[Emotion|emotional]] response to perceived or actual social isolation. Transient loneliness is generally seen as an adaptive response that motivates people to seek connection, much as hunger motivates eating. Chronic loneliness is linked to obesity, [[Substance use disorder|substance use disorder]], depression, [[Cardiovascular disease|cardiovascular disease]], high blood pressure and high cholesterol. Causes include systemic issues, genetic inheritance, cultural factors, lack of meaningful relationships, significant loss and excessive reliance on passive technologies, particularly the [[Internet]]. About one in six people worldwide experiences significant long-term loneliness, and adolescents report the highest levels. Therapy and antidepressants are medical treatments; social approaches include [[Exercise|exercise]], group activities, reconnecting with friends and owning [[Pet|pets]]. Loneliness has been a theme since the [[Epic of Gilgamesh]], and some academics have called it an epidemic, including former U.S. Surgeon General Vivek Murthy.

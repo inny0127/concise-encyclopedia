@@ -1,0 +1,735 @@
+=== KEY: Organic_chemistry_f15c9d
+HEADWORD: Organic chemistry
+PERSON: no
+LINK TARGETS: Aspirin | Biochemistry | Carbon | Friedrich Wöhler | Hydrocarbon | Justus von Liebig | Organometallic chemistry
+ENTRY:
+Subdiscipline of chemistry concerned with the structure, properties, and reactions of organic compounds and organic materials, those containing [[Carbon|carbon]] atoms. It includes determining structural formulas, analyzing physical and chemical properties, evaluating reactivity, and the synthesis of natural products, drugs, and polymers.
+
+The field covers [[Hydrocarbon|hydrocarbons]] (compounds of only carbon and hydrogen) and compounds that also contain oxygen, nitrogen, sulfur, phosphorus, and the halogens. Carbon's valence of four, with single, double, and triple bonds and delocalized electrons, makes organic compounds structurally diverse. They form the basis of all known life and underlie pharmaceuticals, petrochemicals, agrichemicals, lubricants, solvents, plastics, fuels, and explosives. The field overlaps [[Organometallic chemistry|organometallic chemistry]], [[Biochemistry|biochemistry]], medicinal chemistry, polymer chemistry, and materials science.
+
+Before the 18th century, chemists generally believed that compounds from living organisms held a "vital force" (vitalism). Around 1816 Michel Chevreul showed that fats could be chemically changed into new compounds. In 1828 [[Friedrich Wöhler|Friedrich Wöhler]] produced urea from potassium cyanate and ammonium sulfate, a synthesis now generally accepted as disproving vitalism, though Wöhler himself was cautious. [[Justus von Liebig|Justus von Liebig]] is considered one of the field's principal founders. In 1856 William Henry Perkin accidentally produced the dye known as Perkin's mauve, and in 1858 Friedrich August Kekulé and Archibald Scott Couper independently developed the concept of chemical structure.
+
+Bayer first manufactured [[Aspirin|aspirin]] in the last decade of the 19th century. By 1910 Paul Ehrlich's group was developing the arsenic-based Salvarsan against syphilis, beginning chemotherapy. Natural indigo production fell from 19,000 tons in 1897 to 1,000 tons by 1914 thanks to Adolf von Baeyer's synthetic methods. Total synthesis later reached molecules as complex as vitamin B12.
+
+=== KEY: Organic_compound_c7669c
+HEADWORD: Organic compound
+PERSON: no
+LINK TARGETS: Alkane | Chemical compound | Cyanide | Ethane | Organic chemistry | Petrochemical
+ENTRY:
+Subclass of [[Chemical compound|chemical compounds]] containing carbon. Little consensus exists on the exact definition, and the only universally accepted one is that organic compounds are the subject matter of [[Organic chemistry|organic chemistry]]. Generally, any large compound containing a carbon-hydrogen or carbon-carbon bond counts as organic, so [[Alkane|alkanes]] such as [[Ethane|ethane]] and their derivatives are included. Small carbon-containing molecules such as carbon dioxide, [[Cyanide|cyanide]] and carbonates are generally excluded for historical and disciplinary reasons. Carbon's ability to form chains accounts for the millions of known organic compounds. Although they make up a small share of Earth's crust, all known life is based on them. Synthetic organic compounds are ultimately derived from [[Petrochemical|petrochemicals]], mainly hydrocarbons.
+
+=== KEY: Organic_farming_4b235d
+HEADWORD: Organic farming
+PERSON: no
+LINK TARGETS: Biodiversity | Climate change | European Union | Fertilizer | Genetically modified organism | Pesticide
+ENTRY:
+Agricultural system that emphasizes naturally occurring, non-synthetic inputs. Also called organic agriculture, ecological farming or biological farming, it uses compost, manure and green manure, and emphasizes crop rotation, companion planting and biological pest control. Organic standards allow some naturally occurring substances, such as pyrethrin, but prohibit most synthetic [[Pesticide|pesticides]] and [[Fertilizer|fertilizers]], [[Genetically modified organism|genetically modified organisms]], and growth hormones. The system originated early in the 20th century. Its standards are set largely by the International Federation of Organic Agriculture Movements (IFOAM), founded in 1972, and are legally enforced by the [[European Union]] and individual nations. About 96,000,000 hectares were farmed organically worldwide as of 2022, approximately 2 percent of world farmland. Organic farming can benefit local [[Biodiversity|biodiversity]], but its lower yields can increase pressure to convert other land, with negative effects on biodiversity and [[Climate change|climate]].
+
+=== KEY: Organism_e69d46
+HEADWORD: Organism
+PERSON: no
+LINK TARGETS: Anglerfish | Claude Shannon | Erwin Schrödinger | Immanuel Kant | Lichen | Metabolism | Richard Dawkins | Virus
+ENTRY:
+Living thing that functions as an individual, a definition that raises more problems than it solves because the concept of an individual is itself difficult. Several criteria have been proposed, few widely accepted. The most common is autonomous reproduction, growth, and [[Metabolism|metabolism]], which would exclude [[Virus|viruses]]: they cannot reproduce, grow, or metabolize on their own, and cannot synthesize the organic compounds of which they are formed.
+
+The English term appeared in the 1660s, from the Ancient Greek *organismos*, related to *organon* ("instrument, implement, tool"). In his 1790 *Critique of Judgment*, [[Immanuel Kant]] defined an organism as "both an organized and a self-organizing being". Other proposed criteria include noncompartmentability, stated by [[Richard Dawkins]] as "the quality of being sufficiently heterogeneous in form to be rendered non-functional if cut in half" (though many organisms can be cut into pieces that regrow); individuality; an immune response; "anti-entropy", the ability to maintain order, first proposed by [[Erwin Schrödinger]]; the capacity to maintain information content, as in [[Claude Shannon]]'s information theory; and having cells. Some scientists consider the concept inadequate for biology.
+
+Colonial organisms are problematic cases. A colony of eusocial insects shows adaptive organization and germ-soma specialization, and a siphonophore is composed of organism-like zooids. David Queller and Joan Strassmann propose cooperation as the defining trait, which would count a [[Lichen|lichen]], a partnership of fungi with algae or cyanobacteria, and the permanent sexual partnership of an [[Anglerfish|anglerfish]] as organisms. Others argue that autonomy, genetic homogeneity, and genetic uniqueness should be examined separately.
+
+Unicellular organisms (protists, bacteria, archaea) consist of a single cell; multicellular organisms (animals, plants, fungi, algae) of many. Organisms are commonly classified into three domains: Bacteria, Archaea, and Eukarya.
+
+=== KEY: Organization_d6b258
+HEADWORD: Organization
+PERSON: no
+LINK TARGETS: Company | Corporation | Government | Institution | Jury | Non-governmental organization
+ENTRY:
+Entity comprising one or more people with a particular purpose. Organizations include [[Company|companies]], [[Corporation|corporations]], [[Government|governments]], [[Institution|institutions]], associations and [[Non-governmental organization|non-governmental organizations]]. Some operate secretly, as with secret societies, or illegally, as with criminal organizations. Governments recognize an organization through incorporation, through societal pressure such as advocacy groups, or through its role as a negotiating spokesperson. Jack Knight writes that organizations are a narrow version of institutions, since they contain internal institutions that govern relations among members. Management science holds that most organizations fall into four types: [[Jury|juries]] or committees, ecologies, matrix organizations, and pyramids or hierarchies. Condorcet's jury theorem holds that adding members improves majority decisions only if the average member votes better than chance, so staffing is crucial.
+
+=== KEY: Organization_for_Security_and_Co_operation_in_Europe_a2d9fb
+HEADWORD: Organization for Security and Co-operation in Europe
+PERSON: no
+LINK TARGETS: Belgrade | Cold War | Eastern Bloc | Human rights | Madrid | Soviet Union | Vienna
+ENTRY:
+Security-oriented intergovernmental organization with 57 participating states in Europe, North America and Asia. It grew out of the 1975 Conference on Security and Co-operation in Europe, whose predecessors provided a forum between the Western Bloc and the [[Eastern Bloc|Eastern Bloc]] during the [[Cold War|Cold War]]. The Helsinki Final Act was signed by 35 participating states in 1975, and follow-up meetings were held in [[Belgrade|Belgrade]], [[Madrid|Madrid]] and [[Vienna|Vienna]]. After the fall of the [[Soviet Union|Soviet Union]], the CSCE was renamed the OSCE on January 1, 1995. Its mandate includes arms control, the promotion of [[Human rights|human rights]], freedom of the press, and free and fair elections. It employs around 3,460 people, mostly in field operations, and its secretariat is in Vienna. Its concerns include early warning, conflict prevention, crisis management and post-conflict rehabilitation. Critics argue that its consensus rules have hindered responses to aggression by a member state, pointing to Russian vetoes that ended the Special Monitoring Mission to Ukraine in 2022.
+
+=== KEY: Organization_of_American_States_85c9b5
+HEADWORD: Organization of American States
+PERSON: no
+LINK TARGETS: Americas | Gran Colombia | José de San Martín | Simón Bolívar | Washington, D.C.
+ENTRY:
+International organization promoting cooperation among states in the [[Americas|Americas]]. Founded on April 30, 1948, the Organization of American States is headquartered in [[Washington, D.C.|Washington, D.C.]] and had 32 member states as of November 2023. It is a voluntary body focused on human rights, electoral oversight, social and economic development, and security in the Western Hemisphere. Its origins lie in the First International Conference of American States in 1889-1890, when 18 nations resolved to found the International Union of American Republics. In 1826, [[Simón Bolívar|Simón Bolívar]] and [[José de San Martín|José de San Martín]] proposed a league of American republics at the Congress of Panama, but the resulting treaty was ratified only by [[Gran Colombia|Gran Colombia]]. Albert Ramdin of Suriname became secretary general in May 2025, replacing Luis Almagro of Uruguay.
+
+=== KEY: Organized_crime_1b5e74
+HEADWORD: Organized crime
+PERSON: no
+LINK TARGETS: American Mafia | Gang
+ENTRY:
+Structured criminal groups that profit from illegal activities. Centralized enterprises of this kind supply banned goods such as illegal drugs or firearms, or force people to do business with them, as when [[Gang|gangs]] extort protection money from shopkeepers. In the United States, the Organized Crime Control Act (1970) defines organized crime as the unlawful activities of a highly organized, disciplined association, and structured criminal activity is called racketeering. UK police estimate that organized crime involves up to 38,000 people in 6,000 groups. Historically the largest U.S. organized crime force has been Cosa Nostra, the [[American Mafia|Italian-American Mafia]], but transnational groups from Russia, China, Italy, Nigeria and Japan have grown more prominent since the end of the Cold War. The U.S. Drug Enforcement Administration's 2017 National Drug Threat Assessment classified Mexican transnational criminal organizations as the greatest criminal drug threat to the United States. UN Sustainable Development Goal 16 includes a target to combat all forms of organized crime as part of the 2030 Agenda.
+
+=== KEY: Organometallic_chemistry_f48e37
+HEADWORD: Organometallic chemistry
+PERSON: no
+LINK TARGETS: Carbon monoxide | Cyanide | Inorganic chemistry | Magnesium | Organic chemistry | Polymer | Transition metal | Vitamin B12
+ENTRY:
+Study of compounds with at least one carbon-metal bond. The field combines aspects of [[Inorganic chemistry|inorganic]] and [[Organic chemistry|organic chemistry]]. Organometallic compounds contain bonds between a carbon atom of an organic molecule and a metal, including alkali, alkaline earth and [[Transition metal|transition metals]], and sometimes metalloids such as boron, silicon and selenium. Bonds to inorganic carbon, as in [[Carbon monoxide|carbon monoxide]] or [[Cyanide|cyanide]], are generally considered organometallic too. Examples include Grignard reagents, which contain [[Magnesium|magnesium]], and Gilman reagents, which contain lithium and copper. Ferrocene and tetracarbonyl nickel are transition-metal examples. Methylcobalamin, a form of [[Vitamin B12|vitamin B12]], is a naturally occurring organometallic complex. Organometallic compounds are used in research and industrial reactions, and as catalysts that increase reaction rates, in producing [[Polymer|polymers]] and pharmaceuticals.
+
+=== KEY: Organon_394cbe
+HEADWORD: Organon
+PERSON: no
+LINK TARGETS: Aristotle | Averroes | Dialectic | Logic | Maimonides | Proposition | Thomas Aquinas
+ENTRY:
+Standard collection of six works by [[Aristotle]] on logic. The works are *Categories*, *On Interpretation*, *Prior Analytics*, *Posterior Analytics*, *Topics* and *On Sophistical Refutations*. The name is Greek for instrument or tool, reflecting the works' role as tools of philosophical inquiry. Their order is not chronological but was chosen to form a well-structured system. *Categories* classifies existence into ten types, from substance and quantity to action and passion. *On Interpretation* introduces the [[Proposition|proposition]], and *Prior Analytics* introduces Aristotle's syllogistic method. Only *Categories* and *On Interpretation* were widely available in the early Middle Ages, translated into Latin by Boethius. The rest reached Western Christendom in the 12th century. [[Averroes|Averroes]] and [[Maimonides|Maimonides]] studied the works in Arabic translations, and [[Thomas Aquinas|Aquinas]] and other scholastic philosophers wrote commentaries on the [[Dialectic|dialectic]] and [[Logic|logic]] they contain.
+
+=== KEY: Organophosphorus_chemistry_ce2b37
+HEADWORD: Organophosphorus chemistry
+PERSON: no
+LINK TARGETS: Nitrogen | Organic compound | Osteoporosis | Phosphate | Phosphorus
+ENTRY:
+Study of [[Organic compound|organic compounds]] containing [[Phosphorus|phosphorus]]. These compounds are used mainly in pest control as an alternative to chlorinated hydrocarbons that persist in the environment. Some are highly effective insecticides, but some are extremely toxic to humans, including the nerve agents sarin and VX. Like [[Nitrogen|nitrogen]], phosphorus is in group 15 of the periodic table, so the two form compounds with similar properties. In industrial and environmental chemistry the term is broad, and many pesticides, such as malathion, are included even without a direct phosphorus-carbon bond. [[Phosphate|Phosphate]] esters, which lack that bond, are used as flame retardants and plasticizers. Glyphosate, widely known as Roundup, is a phosphonate and one of the most widely used herbicides. Bisphosphonates treat [[Osteoporosis|osteoporosis]]. The Michaelis-Arbuzov reaction is the main method for synthesizing phosphonates and phosphinates.
+
+=== KEY: Organosilicon_chemistry_aec470
+HEADWORD: Organosilicon chemistry
+PERSON: no
+LINK TARGETS: Diatom | Silicon carbide | Silicone
+ENTRY:
+Study of organometallic compounds containing carbon-silicon bonds. Most organosilicon compounds resemble ordinary organic compounds: they are colorless, flammable, hydrophobic and stable to air, although [[Silicon carbide|silicon carbide]] is considered inorganic. Chemists Charles Friedel and James Crafts prepared the first organosilicon compound, tetraethylsilane, in 1863. Frederic S. Kipping pioneered the field in the early 20th century and coined the term [[Silicone|silicone]] in 1904. Eugene G. Rochow first described the Müller-Rochow process in 1945. Most organosilicon compounds derive from chlorides made by the direct process, which reacts methyl chloride with a silicon-copper alloy; about 1 million tons are produced annually this way. Silicones are common in antifoamers, sealants, adhesives and coatings. Carbon-silicon bonds are absent in biology, though silicates occur in [[Diatom|diatoms]].
+
+=== KEY: Organosulfur_chemistry_185d2b
+HEADWORD: Organosulfur chemistry
+PERSON: no
+LINK TARGETS: Amino acid | Coal | Fossil fuel | Penicillin | Petroleum | Sulfur | Thiol
+ENTRY:
+Study of organic compounds that contain [[Sulfur|sulfur]]. Organosulfur compounds are often associated with foul odors, but some of the sweetest known compounds, such as saccharin, are organosulfur derivatives. Sulfur is vital to life: two of the 20 common [[Amino acid|amino acids]], cysteine and methionine, are organosulfur compounds, and the antibiotic [[Penicillin|penicillin]] contains sulfur. Sulfur mustard is a deadly chemical warfare agent. [[Fossil fuel|Fossil fuels]] such as [[Coal|coal]] and [[Petroleum|petroleum]] necessarily contain organosulfur compounds, whose removal is a major focus of oil refineries. Sulfur shares the chalcogen group with oxygen, selenium and tellurium. Organosulfur compounds include sulfides, [[Thiol|thiols]], disulfides and polysulfides, and aromatic sulfur-containing heterocycles such as thiophene. Thiols are more nucleophilic, more acidic and more readily oxidized than alcohols.
+
+=== KEY: Orgasm_a2e508
+HEADWORD: Orgasm
+PERSON: no
+LINK TARGETS: Clitoris | Ejaculation | G-spot | Oxytocin | Penis | Vagina
+ENTRY:
+Peak of sexual excitement, marked by rhythmic involuntary contractions in the pelvic region. Also called sexual climax, an orgasm is the sudden release of accumulated sexual excitement during the sexual response cycle. It brings intense pleasure, a general euphoric sensation and often body movements and vocalizations, and it is controlled by the involuntary, or autonomic, nervous system. Human orgasms usually result from stimulation of the [[Penis|penis]] in males, typically accompanied by [[Ejaculation|ejaculation]], and of the [[Clitoris|clitoris]] and [[Vagina|vagina]] in females. Stimulation may come from masturbation or sexual activity with a partner, although psychological means can also trigger it. The resolution phase that follows is typically relaxing, owing to the release of [[Oxytocin|oxytocin]], prolactin and endorphins. Definitions vary: at least 26 are listed in a 2001 journal. Debate continues over whether sensations such as female orgasm from [[G-spot|G-spot]] stimulation alone should count. Anorgasmia is a sexual dysfunction involving orgasm.
+
+=== KEY: Orhan_Pamuk_b4d3a5
+HEADWORD: Pamuk, Orhan
+PERSON: yes
+LINK TARGETS: Armenian genocide | Columbia University | Istanbul | Ottoman Empire
+ENTRY:
+Turkish novelist, screenwriter, academic and recipient of the 2006 Nobel Prize in Literature. Born in [[Istanbul|Istanbul]], Pamuk is the first Turkish Nobel laureate and has sold over 13 million books in 63 languages. He grew up in a wealthy but declining upper-class family, studied architecture at Istanbul Technical University and then became a full-time writer. His first novel, *Cevdet Bey and His Sons* (1982), chronicles three generations of an Istanbul family. His other novels include *Silent House*, *The White Castle*, *The Black Book*, *The New Life*, *My Name Is Red* and *Snow*. He is Robert Yik-Fong Tam Professor in the Humanities at [[Columbia University|Columbia University]]. A 2005 statement about the [[Armenian genocide|Armenian genocide]] in the [[Ottoman Empire|Ottoman Empire]] led to a lawsuit, and in 2011 he was ordered to pay 6,000 liras in compensation for insulting the plaintiffs' honor.
+
+=== KEY: Orient_Express_108e0d
+HEADWORD: Orient Express
+PERSON: no
+LINK TARGETS: Athens | Brussels | Istanbul | London | Paris
+ENTRY:
+Luxury passenger train service in Europe. Created in 1883 by the Belgian company Compagnie Internationale des Wagons-Lits, it ran until 2009. Its main route linked [[Paris|Paris]] and [[Istanbul|Istanbul]], with branches to [[Athens|Athens]], [[Brussels|Brussels]] and [[London|London]]. The name became synonymous with intrigue and luxury rail travel. The route stopped serving Istanbul in 1977 and left Paris for the last time in 2007. The service ceased to operate entirely on December 14, 2009. A private revival, the Venice Simplon-Orient-Express, began in 1982.
+
+=== KEY: Oriental_Orthodox_Churches_ea89ec
+HEADWORD: Oriental Orthodox Churches
+PERSON: no
+LINK TARGETS: Armenia | Christianity | Coptic Orthodox Church | Eastern Orthodox Church | Egypt | Ethiopian Orthodox Tewahedo Church
+ENTRY:
+Communion of Eastern Christian churches adhering to Miaphysite Christology. Estimated at 72 million members in 2020, the Oriental Orthodox Churches are among the oldest branches of [[Christianity|Christianity]]. Their bishops are equal by virtue of episcopal ordination, and their doctrines recognize only the first three ecumenical councils. The communion comprises six autocephalous churches: the [[Coptic Orthodox Church|Coptic Orthodox Church]] of Alexandria, the Syriac Orthodox Church of Antioch, the Armenian Apostolic Church, the Malankara Orthodox Syrian Church, the [[Ethiopian Orthodox Tewahedo Church|Ethiopian Orthodox Tewahedo Church]] and the Eritrean Orthodox Tewahedo Church. They shared communion with the imperial Roman church before the Council of Chalcedon in AD 451 and separated primarily over differences in Christology. Most members live in [[Egypt|Egypt]], Ethiopia, Eritrea, India, Syria, Turkey and [[Armenia|Armenia]]. The name was formally adopted at the Conference of Addis Ababa in 1965. The churches are in full communion with one another but not with the [[Eastern Orthodox Church|Eastern Orthodox Church]].
+
+=== KEY: Origami_50f4f4
+HEADWORD: Origami
+PERSON: no
+LINK TARGETS: Edo period | Sengoku period | Square
+ENTRY:
+Art and technique of folding paper. Origami typically transforms a flat [[Square|square]] sheet, without cuts or glue, into figures such as the Japanese paper crane, the best-known model. The word combines *ori*, meaning to fold, and *kami*, meaning paper. Though the word has Japanese roots, the practice is universal, and paper-folding traditions arose separately in Europe, China and Japan. Ceremonial origami, called origata in Japan, is distinct from recreational origami. Play-made paper models existed in Japan by the [[Sengoku period|Sengoku period]] or the early [[Edo period|Edo period]]. *Hiden senbazuru orikata* (1797) is the oldest known technical book on origami for play. In the 20th century Akira Yoshizawa developed wet-folding techniques and standardized diagramming symbols. Origami principles are also used in stents, packaging and other engineering applications.
+
+=== KEY: Origen_ac6cb6
+HEADWORD: Origen
+PERSON: yes
+LINK TARGETS: Free will | Hebrew Bible | Justinian I | Logic | Soul | Trinity
+ENTRY:
+Early Christian theologian and ascetic. A prolific writer, he is said to have produced roughly 2,000 treatises on textual criticism, biblical exegesis, homiletics and spirituality. He founded the Christian School of Caesarea, where he taught [[Logic|logic]], cosmology, natural history and theology. He was tortured during the Decian persecution in 250 and died a few years later from his injuries. *On the First Principles* laid out Christian theology systematically, and *Contra Celsum* is one of the most influential works of early Christian apologetics. He produced the *Hexapla*, a critical edition of the [[Hebrew Bible|Hebrew Bible]] in parallel columns, and interpreted many passages allegorically. He was the first to propose the ransom theory of atonement in its fully developed form and contributed to the development of the [[Trinity|Trinity]]. He defended [[Free will|free will]] and advocated Christian pacifism. The Church rejected his teaching on the pre-existence of [[Soul|souls]], and in 543 Emperor [[Justinian I|Justinian I]] condemned him as a heretic.
+
+=== KEY: Origin_of_language_39b18a
+HEADWORD: Origin of language
+PERSON: no
+LINK TARGETS: Charles Darwin | Human evolution | Language acquisition | Noam Chomsky | Primate
+ENTRY:
+Relationship between language and [[Human evolution|human evolution]]. Researchers draw inferences from the fossil record, archaeological evidence, contemporary language diversity, [[Language acquisition|language acquisition]] and comparisons with the communication of other primates. Many argue that the origin of language is closely related to the origins of modern human behavior, but experts disagree about the facts. In 1866 the Linguistic Society of Paris banned debate on the subject, a prohibition influential in much of the Western world until the late 20th century. [[Charles Darwin|Charles Darwin]]'s theory of evolution by natural selection provoked a surge of speculation. Continuity theories hold that language evolved from [[Primate|primate]] precursors, while discontinuity theories hold that it appeared fairly suddenly. [[Noam Chomsky|Noam Chomsky]] argues that a single change in the human language faculty occurred approximately 100,000 years ago, before humans left Africa. Michael Tomasello, by contrast, considers language socially learned, developing from the mostly gestural aspects of primate communication.
+
+=== KEY: Orinoco_df0ccd
+HEADWORD: Orinoco
+PERSON: no
+LINK TARGETS: Alexander von Humboldt | Christopher Columbus | South America
+ENTRY:
+River of northern South America, flowing mainly through Venezuela and Colombia. At 2,140 km (1,330 mi), the Orinoco is one of the longest rivers in [[South America|South America]]. Its drainage basin covers approximately 1,000,000 km² (390,000 sq mi), with 65% in Venezuela and 35% in Colombia. It is the third-largest river in the world by discharge, at 39,000 m³/s (1,400,000 cu ft/s) at its delta. The river and its tributaries are the main transportation system for eastern and interior Venezuela and the Llanos plain of Colombia. [[Christopher Columbus|Christopher Columbus]] documented its mouth on August 1, 1498, and [[Alexander von Humboldt|Alexander von Humboldt]] explored stretches of it in 1800. The source was discovered in 1951 by a French-Venezuelan expedition.
+
+=== KEY: Orion_Nebula_ec9f5a
+HEADWORD: Orion Nebula
+PERSON: no
+LINK TARGETS: Brown dwarf | Earth | Orion (constellation) | Orion's Belt | Star formation | Sun
+ENTRY:
+Diffuse nebula in the [[Orion (constellation)|constellation Orion]]. Also known as Messier 42, M42 or NGC 1976, it lies south of [[Orion's Belt|Orion's Belt]] and is visible to the naked eye, with an apparent magnitude of 4.0. At 1,267.0 ± 5.4 light-years away, it is the closest region of massive [[Star formation|star formation]] to [[Earth|Earth]]. It is estimated to be 25 light-years across and to have a mass about 2,000 times that of the [[Sun|Sun]]. Astronomers have directly observed protoplanetary disks and [[Brown dwarf|brown dwarfs]] within it, which has revealed much about how stars and planetary systems form from collapsing clouds of gas and dust. Its red hue comes from hydrogen emission, while the blue-violet coloration is reflected light from massive O-class stars. The green hue, long a puzzle, was later traced to a forbidden transition in doubly ionized oxygen.
+
+=== KEY: Orion_constellation_7e60f6
+HEADWORD: Orion
+PERSON: no
+LINK TARGETS: Betelgeuse | Greek mythology | Halley's Comet | Meteor shower | Orion Nebula | Orion's Belt | Ptolemy | Rigel
+ENTRY:
+Prominent constellation of the Northern Hemisphere's winter sky, near the celestial equator. One of the 88 modern constellations, Orion was among the 48 listed by the 2nd-century AD astronomer [[Ptolemy|Ptolemy]]. It is named after a hunter in [[Greek mythology|Greek mythology]]. Its two brightest stars, [[Rigel|Rigel]] and [[Betelgeuse|Betelgeuse]], are both supergiants and among the brightest stars in the night sky. Three stars form [[Orion's Belt|Orion's Belt]], a short straight asterism. Orion is also the radiant of the Orionids, the strongest [[Meteor shower|meteor shower]] associated with [[Halley's Comet|Halley's Comet]], and it contains the [[Orion Nebula|Orion Nebula]]. Covering 594 square degrees, it ranks 26th of the 88 constellations in size. Its boundaries, set by Belgian astronomer Eugène Delporte in 1930, form a 26-sided polygon. It is most visible in the evening sky from January to April.
+
+=== KEY: Orion_s_Belt_e3e0a9
+HEADWORD: Orion's Belt
+PERSON: no
+LINK TARGETS: Orion (constellation)
+ENTRY:
+Asterism of three bright stars in the constellation [[Orion (constellation)|Orion]]. Alnitak, Alnilam and Mintaka appear nearly equally spaced in a line from Earth, but each is a star system: Alnilam is a single star, Alnitak is triple and Mintaka quintuple. Their intense blue-white light comes from blue supergiants, and the systems together have a combined luminosity about a million times that of the Sun. Known under many names, including the Three Kings, the asterism has played a central role in navigation in the Northern Hemisphere since prehistoric times.
+
+=== KEY: Orkney_db9223
+HEADWORD: Orkney
+PERSON: no
+LINK TARGETS: Neolithic | Scotland | Shetland
+ENTRY:
+Archipelago and council area off the northern coast of [[Scotland]]. Part of the Northern Isles with [[Shetland]], it has about 70 islands, of which about 20 are inhabited. The largest, the Mainland, covers 523 sq km, and Kirkwall is the administrative center. Norway annexed the islands in 875, and in 1472 Scotland absorbed the earldom. Orkney has some of Europe's oldest and best-preserved [[Neolithic]] sites, including the Heart of Neolithic Orkney, a UNESCO World Heritage Site. Agriculture is the main economic sector, and renewable energy generates more electricity than the islands need.
+
+=== KEY: Orlando_Florida_ba41f5
+HEADWORD: Orlando, Florida
+PERSON: no
+LINK TARGETS: Florida | Walt Disney World
+ENTRY:
+City, seat of Orange County, in central [[Florida]] (pop., 2020: 307,573). It is the state's fourth-most populous city and its most populous inland city. Tourism and conventions drive the economy. The [[Walt Disney World]] resort, opened in 1971, is one of the two largest tourist attractions in the area, and the Orange County Convention Center is the second-largest convention facility in the United States. Orlando International Airport is the 7th-busiest in the country.
+
+=== KEY: Ornithischia_f740b4
+HEADWORD: Ornithischia
+PERSON: no
+LINK TARGETS: Bird | Clade | Cretaceous | Dinosaur | Triassic | Triceratops
+ENTRY:
+Extinct [[Clade|clade]] of mainly herbivorous [[Dinosaur|dinosaurs]] with a pelvic structure superficially similar to that of [[Bird|birds]]. The name, meaning bird-hipped, is misleading, since birds are theropod dinosaurs and only distantly related to the group. Members include the ceratopsians, such as [[Triceratops]]; the armored thyreophorans, such as stegosaurs and ankylosaurs; the pachycephalosaurs; and the ornithopods. Early forms were small, bipedal and fast runners, and some groups lived in herds. Many were partly covered in filamentous pelts, and debate continues over whether these were primitive feathers. The clade ranged from the Late [[Triassic]] until the [[Cretaceous]]-Paleogene extinction about 66 million years ago, contributing significantly to Mesozoic biodiversity.
+
+=== KEY: Oromo_language_492a74
+HEADWORD: Oromo language
+PERSON: no
+LINK TARGETS: Ethiopia | Kenya | Latin script
+ENTRY:
+Afroasiatic language of the Cushitic branch, spoken mainly in [[Ethiopia]], where about 85 percent of its speakers live. It is the most widely spoken Cushitic language and one of the five African languages with the largest mother-tongue populations. Smaller numbers speak it in northern [[Kenya]] and in other African countries. Oromo is one of Ethiopia's official working languages and the working language of several regions. It is a language of primary education in Oromia, Harari, Dire Dawa, Benishangul-Gumuz and Addis Ababa.It is officially written in the [[Latin script|Latin script]], although traditional scripts are also used informally. Under Haile Selassie's government, Oromo was de facto banned in education, conversation and administration.
+
+=== KEY: Orphan_509691
+HEADWORD: Orphan
+PERSON: no
+LINK TARGETS: Afghanistan | UNICEF
+ENTRY:
+Child whose parents have died, are unknown or have permanently abandoned them. In common usage, only a child who has lost both parents through death is called an orphan. [[UNICEF]] and UNAIDS, however, count any child who has lost one parent as an orphan: a maternal orphan has lost a mother, a paternal orphan a father, and a double orphan both. Wars, epidemics and poverty have produced many orphans. After the Second World War, estimates for Europe ranged from 1,000,000 to 13,000,000. Orphans are relatively rare in developed countries but numerous in war-torn nations such as [[Afghanistan]]. In the United States, about 2 million children, or 2.7 percent, have a deceased mother or father.
+
+=== KEY: Orphanage_c3c786
+HEADWORD: Orphanage
+PERSON: no
+LINK TARGETS: Bucharest | Nicolae Ceaușescu | Orphan
+ENTRY:
+Residential institution, or group home, devoted to the care of [[Orphan|orphans]] and other children who cannot be raised by their families. Government-run orphanages were phased out in most developed countries in the latter half of the 20th century, as it became generally accepted that they harm children's emotional wellbeing. Government support now goes instead to the family unit. Some large international charities still fund orphanages, but most are founded by smaller charities and religious groups. In some developing countries, orphanages may recruit children to secure funding. Romanian orphanages, such as those in [[Bucharest]], were expanded after [[Nicolae Ceaușescu]] banned abortion and birth control to boost the population and workforce. Early charitable institutions included the Foundling Hospital, founded in London in 1741 by sea captain Thomas Coram.
+
+=== KEY: Orpheus_005d13
+HEADWORD: Orpheus
+PERSON: no
+LINK TARGETS: Aristotle | Dionysus | Greek mythology
+ENTRY:
+Thracian bard, musician and prophet in [[Greek mythology]]. His music could charm animals, trees and even stones, and he traveled with Jason and the Argonauts. He attempted to retrieve his wife, Eurydice, from the underworld, and was later killed by the maenads of [[Dionysus]]. Orpheus was regarded as the founder of the Orphic mysteries, and works including the Orphic Hymns were attributed to him. Most ancient writers believed he was a real person, though [[Aristotle]] reportedly denied it.
+
+=== KEY: Orson_Welles_efa924
+HEADWORD: Orson Welles
+PERSON: yes
+LINK TARGETS: H. G. Wells | Studio system
+ENTRY:
+American actor, director and filmmaker, remembered for innovative work in film, radio and theater. He co-founded the Mercury Theatre with John Houseman. His 1938 radio adaptation of [[H. G. Wells]]'s novel *The War of the Worlds* led some listeners to believe a Martian invasion was occurring, and it brought him Hollywood offers. His first film, *Citizen Kane* (1941), which he co-wrote, produced, directed and starred in, is consistently ranked among the greatest films ever made. He directed 12 other features, including *The Magnificent Ambersons* (1942), *Othello* (1951) and *Touch of Evil* (1958). Welles struggled for creative control within the [[Studio system|studio system]] and later often failed to secure financing as an independent filmmaker. A 2002 British Film Institute poll voted him the greatest film director ever.
+
+=== KEY: Orthodox_Judaism_565328
+HEADWORD: Orthodox Judaism
+PERSON: no
+LINK TARGETS: Jerusalem | Judaism | Torah
+ENTRY:
+Collective term for the traditionalist branches of contemporary [[Judaism]]. The movement regards the [[Torah]], both written and oral, as literally revealed by God on Mount Sinai and faithfully transmitted since. It advocates strict observance of Jewish law, or halakha, and observant members keep the Sabbath and kosher dietary laws, pray three times a day and study the Torah often. Doctrines include bodily resurrection and the future reign of a Messiah who will restore the Temple in [[Jerusalem]]. The movement is not a centralized denomination. Its Haredi branch is more conservative and reclusive, while Modern Orthodox Jews engage more with secular society. The earliest known use of the term dates from 1795. Orthodox Judaism is the largest Jewish religious group, with over 2 million practicing adherents.
+
+=== KEY: Orthodoxy_5fafae
+HEADWORD: Orthodoxy
+PERSON: no
+LINK TARGETS: Arius | Catholic Church | Eastern Orthodox Church | Sunni Islam | Theravada
+ENTRY:
+Adherence to a purported correct or mainstream creed, especially in religion. The word derives from Greek for correct opinion. In Christianity, orthodoxy refers to doctrines defined by the early creeds and ecumenical councils. The homoousian doctrine, which defined Jesus as both God and man, prevailed over the teaching of [[Arius]] and became orthodoxy in most Christian contexts. After the 1054 Great Schism, both the Western [[Catholic Church]] and the [[Eastern Orthodox Church]] considered themselves orthodox and catholic. Oriental Orthodox Churches separated from Chalcedonian Christianity after the Council of Chalcedon in AD 451. [[Sunni Islam]] is sometimes called Orthodox Islam, and the [[Theravada]] school is considered the most orthodox form of Buddhism.
+
+=== KEY: Orthography_5fa519
+HEADWORD: Orthography
+PERSON: no
+LINK TARGETS: Noah Webster
+ENTRY:
+Set of conventions for writing a language, including norms of spelling, punctuation, word boundaries, capitalization, hyphenation and emphasis. Most established languages have standardized writing systems that show less dialect variation than speech. Standardization can fossilize pronunciation patterns no longer routinely heard, as in would and should. Differences can also be deliberate: [[Noah Webster]] introduced visible differences between American and British spelling, such as honor and honor. Some nations have language academies, such as the Académie Française in France and the Royal Spanish Academy in Spain, but English has no such authority. Newspapers of record and academic journals often enforce a style guide. The English word is first attested in the 15th century, from Ancient Greek words meaning correct and to write.
+
+=== KEY: Orthoptera_3af1f8
+HEADWORD: Orthoptera
+PERSON: no
+LINK TARGETS: Cricket (insect) | Grasshopper | Insect | Locust
+ENTRY:
+Order of [[Insect|insects]] comprising [[Grasshopper|grasshoppers]], [[Locust|locusts]], [[Cricket (insect)|crickets]] and katydids, with more than 20,000 species worldwide. The order divides into two suborders: Caelifera, which includes grasshoppers and locusts, and Ensifera, which includes crickets and katydids. Insects produce sound, called stridulation, by rubbing wings or legs together, and they hear through a tympanum in the front tibia or on the first abdominal segment. The forewings are narrow and hardened at the base, folding over fan-like hindwings. Life cycles are incomplete metamorphosis: nymphs resemble adults but lack wings until their final molt. The name comes from Greek for straight and wing. The order evolved about 300 million years ago, and locust swarms can devastate crops.
+
+=== KEY: Oryza_sativa_0095a2
+HEADWORD: Oryza sativa
+PERSON: no
+LINK TARGETS: Model organism | Yangtze
+ENTRY:
+Asian cultivated rice, the more common of the two rice species grown as a cereal. The other is African rice, *O. glaberrima*. *Oryza sativa* was first domesticated in the [[Yangtze|Yangtze]] River basin in China. Its genome of 430 Mbp across 12 chromosomes makes it easy to genetically modify, and it is a [[Model organism|model organism]] for the study of cereals and monocots. Two major subspecies are recognized: the sticky, short-grained japonica and the nonsticky, long-grained indica. Japonica is grown mainly submerged in Japan and in temperate East Asia, while indica is grown mostly in lowlands throughout tropical Asia. Grain colors include white, brown, black and red.
+
+=== KEY: Osaka_0d70a3
+HEADWORD: Osaka
+PERSON: no
+LINK TARGETS: Edo period | Honshu | Meiji Restoration | Panasonic | Tokyo | Yokohama
+ENTRY:
+Designated city in the Kansai region of [[Honshu]], Japan, and capital of Osaka Prefecture (pop., 2025: 2.8 million). It is Japan's third-most populous city proper, after the special wards of [[Tokyo]] and [[Yokohama]], and the largest part of the Keihanshin metropolitan area, which has more than 19 million inhabitants. Osaka was traditionally Japan's economic hub. It briefly served as the imperial capital in the seventh and eighth centuries, and it flourished during the [[Edo period]] as a center of Japanese culture. After the [[Meiji Restoration]], it became the industrial hub of the Meiji and Taishō eras. It is now a major financial center, home to the Osaka Exchange and the headquarters of [[Panasonic]] and Sharp.
+
+=== KEY: Osama_bin_Laden_ff05b5
+HEADWORD: Osama bin Laden
+PERSON: yes
+LINK TARGETS: Al-Qaeda | Taliban | War on terror
+ENTRY:
+Saudi-born militant, founder and first leader of [[Al-Qaeda|al-Qaeda]]. In 1984 he co-founded Maktab al-Khidamat to recruit foreigners for the Afghan mujahideen resisting Soviet occupation, and in 1988 he founded al-Qaeda. Expelled from Saudi Arabia in 1991, he moved to Sudan and then returned to Afghanistan, which the [[Taliban|Taliban]] came to control. Al-Qaeda bombed U.S. embassies in East Africa in 1998. Its attacks of September 11, 2001, killed 2,977 victims and led to the U.S.-led [[War on terror|war on terror]]. He lived in a compound in Abbottabad, Pakistan, until U.S. Navy SEALs killed him in a raid codenamed Operation Neptune Spear. Polls show that Muslims at large have a negative view of him, while many Islamists consider him heroic.
+
+=== KEY: Osamu_Tezuka_04165b
+HEADWORD: Osamu Tezuka
+PERSON: yes
+LINK TARGETS: Manga | Walt Disney
+ENTRY:
+Japanese [[Manga|manga]] artist, cartoonist and animator, often called the father of manga. His *New Treasure Island* (1947) began what became known as the manga revolution. He went on to create some of Japan's most influential series, including *Astro Boy*, *Princess Knight* and *Kimba the White Lion* for children and *Black Jack* and *Phoenix* for adults. Inspired by Walt Disney films and the Chinese animated film *Princess Iron Fan*, he also worked extensively in animation and founded Mushi Productions. He produced over 700 manga series. Often considered the Japanese equivalent of [[Walt Disney]], he is commemorated by a museum in Takarazuka dedicated to his life and work.
+
+=== KEY: Oscar_Niemeyer_804882
+HEADWORD: Oscar Niemeyer
+PERSON: yes
+LINK TARGETS: Brasília | Le Corbusier | Modern architecture | São Paulo
+ENTRY:
+Brazilian architect and a key figure in [[Modern architecture|modern architecture]]. He is best known for the civic buildings he designed for [[Brasília]], a planned city that became Brazil's capital in 1960, including the National Congress, the Cathedral of Brasília and the Palácio do Planalto. He collaborated with [[Le Corbusier]] and others on the United Nations headquarters in New York. His exploration of reinforced concrete and his abstract forms and curves were highly influential. His other works include the Edifício Copan in [[São Paulo]] and the Niterói Contemporary Art Museum. Over a career of 78 years he designed approximately 600 projects. Because of his left-wing politics and involvement with the Brazilian Communist Party, he left Brazil after the 1964 military coup, opened an office in Paris and returned in 1985. He won the Pritzker Architecture Prize in 1988.
+
+=== KEY: Oscar_Pistorius_4f97ab
+HEADWORD: Oscar Pistorius
+PERSON: yes
+LINK TARGETS: Paralympic Games | Pretoria
+ENTRY:
+South African former [[Paralympic Games|Paralympic]] sprinter, double amputee and convicted murderer. Born without fibulas, he had both legs amputated below the knee in infancy. In 2011 he became the first amputee to win a nondisabled world track medal. In 2013 he shot and killed his girlfriend, Reeva Steenkamp, in his [[Pretoria]] home, claiming he had mistaken her for an intruder. The Supreme Court of Appeal convicted him of murder in 2015. He was released on parole in 2024 after serving 8.5 years in prison.
+
+=== KEY: Oscar_Wilde_44768e
+HEADWORD: Oscar Wilde
+PERSON: yes
+LINK TARGETS: 
+ENTRY:
+Irish author, poet and playwright and a key figure in the Aestheticism movement. His comedies, including *An Ideal Husband* and *The Importance of Being Earnest* (both 1895), made him one of the most successful playwrights of late-Victorian London. His Gothic novel, *The Picture of Dorian Gray* (1890), explored hedonism and moral decay, and his wit and flamboyant dress made him one of the best-known personalities of his day. In 1895 he was convicted of gross indecency with other men and sentenced to two years' hard labor, which broke his health and finances. In prison he wrote *De Profundis*, a long letter about his spiritual journey. After his release he moved to France and Italy, where he wrote *The Ballad of Reading Gaol* (1898), a poem about prison life.
+
+=== KEY: Oscillation_fde9c9
+HEADWORD: Oscillation
+PERSON: no
+LINK TARGETS: Alternating current | Hooke's law | Pendulum | Simple harmonic motion
+ENTRY:
+Repetitive or periodic variation, typically in time, of some measure about a central value or between two or more states. Familiar examples include a swinging [[Pendulum|pendulum]] and [[Alternating current|alternating current]]. Oscillations occur throughout science: the beating of the human heart, business cycles in economics, predator-prey population cycles in ecology, geothermal geysers and the vibration of guitar strings. In a simple mechanical system, a weight on a spring is pulled back toward equilibrium by a restoring force proportional to its displacement, as described by [[Hooke's law|Hooke's law]]. This produces [[Simple harmonic motion|simple harmonic motion]]. The term vibration is used for mechanical oscillation. In process control, unwanted rapid oscillation is called chattering or flapping.
+
+=== KEY: Oscilloscope_ad081a
+HEADWORD: Oscilloscope
+PERSON: no
+LINK TARGETS: Amplitude | Frequency | Voltage
+ENTRY:
+Electronic test instrument that graphically displays the varying [[Voltage|voltages]] of one or more signals as a function of time. Its main purpose is capturing information on electrical signals for debugging, analysis or characterization. Displayed waveforms reveal properties such as [[Amplitude|amplitude]] and [[Frequency|frequency]], rise time and distortion, and modern digital instruments calculate these directly. Oscilloscopes are used in science, engineering, biomedicine, automotive work and telecommunications. Early high-speed measurements used an electro-mechanical oscillograph invented by André Blondel in 1893, which was superseded by instruments using a cathode-ray tube. Probes usually have a resistor ten times the instrument's input impedance, giving a 0.1 (−10×) attenuation factor that helps isolate the probe cable's capacitive load from the signal.
+
+=== KEY: Osho_018333
+HEADWORD: Osho
+PERSON: yes
+LINK TARGETS: Meditation | New religious movement | Oregon | Pune
+ENTRY:
+Indian guru and founder of the Rajneesh movement, a [[New religious movement|new religious movement]]. He rejected institutional religion and taught a form of [[Meditation|meditation]] called dynamic meditation. In 1981 the movement shifted to the United States, where he established the commune Rajneeshpuram in [[Oregon]]. Legal battles curtailed its success, and in 1985 he was deported on immigration-related charges, after which 21 countries denied him entry. He returned to [[Pune]], where his ashram is now the Osho International Meditation Resort.
+
+=== KEY: Osiris_df5bb6
+HEADWORD: Osiris
+PERSON: no
+LINK TARGETS: Isis | Nile | Plutarch | Set (deity)
+ENTRY:
+Ancient Egyptian god of fertility, agriculture, the afterlife, the dead and resurrection. He is classically depicted with a pharaoh's beard, mummy-wrapped legs and a crook and flail. In myth, his brother [[Set (deity)|Set]] killed and dismembered him, and his sister-wife [[Isis]] gathered the pieces and wrapped his body so that he could return to life. He then became lord of the dead and the underworld, and pharaohs came to be associated with him in death. His cult linked him to the annual flooding of the [[Nile]] and the renewal of vegetation. Worship is first attested from the middle of the Fifth Dynasty (25th century BCE), though he was likely worshipped earlier. Most knowledge of the myth comes from the Pyramid Texts and from Greek writers such as [[Plutarch]].
+
+=== KEY: Oskar_Dirlewanger_5836d2
+HEADWORD: Oskar Dirlewanger
+PERSON: yes
+LINK TARGETS: Warsaw
+ENTRY:
+German military officer and war criminal who commanded a penal unit of the Waffen-SS, the Dirlewanger Brigade. Composed largely of convicts and other prisoners, the unit is considered among the most notorious Waffen-SS formations. He served mainly in Poland and Belarus, where he may have been responsible for around 120,000 killed in Belarus and up to 30,000 killed in [[Warsaw]], most of them non-combatants. His unit took part in the suppression of the Warsaw Uprising. He deserted in 1945, was captured by French authorities and died in Allied custody.
+
+=== KEY: Oskar_Schindler_55654a
+HEADWORD: Schindler, Oskar
+PERSON: yes
+LINK TARGETS: Auschwitz concentration camp | Black market | The Holocaust
+ENTRY:
+German industrialist and humanitarian. He is credited with saving about 1,200 Jews during the [[The Holocaust|Holocaust]] by employing them in his factories. He joined the Abwehr, Nazi Germany's military intelligence service, in 1936 and was arrested for espionage by Czechoslovakia in 1938 but released. In 1944 he moved his factory to Brünnlitz, sparing his workers from [[Auschwitz concentration camp|Auschwitz]]. He spent his fortune on bribes and [[Black market|black market]] supplies. After the war he failed in business and relied on support from the Jews he had saved. He is the subject of the 1982 novel *Schindler's Ark* and its 1993 film adaptation, *Schindler's List*.
+
+=== KEY: Oslo_Accords_f7ae32
+HEADWORD: Oslo Accords
+PERSON: no
+LINK TARGETS: Gaza Strip | Palestine Liberation Organization | West Bank | Yitzhak Rabin
+ENTRY:
+Pair of interim agreements (1993 and 1995) between Israel and the [[Palestine Liberation Organization|Palestine Liberation Organization (PLO)]]. They created the Palestinian Authority, which was given limited self-governance over parts of the [[West Bank|West Bank]] and the [[Gaza Strip|Gaza Strip]], and led to mutual recognition between Israel and the PLO. The accords did not create a Palestinian state and deferred core issues such as borders, Jerusalem and settlements. Palestinian militant groups and Israeli far-right groups opposed them, and Israeli prime minister [[Yitzhak Rabin|Yitzhak Rabin]] was assassinated in 1995 by a right-wing extremist for signing them.
+
+=== KEY: Oslo_f48304
+HEADWORD: Oslo
+PERSON: no
+LINK TARGETS: 
+ENTRY:
+Capital and largest city of Norway (pop., 2025: 724,290), constituting both a county and a municipality. The greater urban area had 1,110,887 residents in 2025. Founded as a city in 1040 under the name Ánslo, it became a capital under Haakon V around 1300. After a fire in 1624, a new city was built near Akershus Fortress and named Christiania. It was renamed Oslo in 1925, and in 1948 it merged with the surrounding municipality of Aker, creating the modern municipality. Oslo is Norway's primate city and a center of trade, banking and shipping, with many maritime companies. It was ranked a "Beta World City" by the Globalization and World Cities Research Network in 2008.
+
+=== KEY: Osman_I_c08fe8
+HEADWORD: Osman I
+PERSON: yes
+LINK TARGETS: Byzantine Empire | Ottoman Empire
+ENTRY:
+Eponymous founder of the [[Ottoman Empire|Ottoman Empire]], the ruler of a small Turkoman principality in Bithynia, northern Asia Minor. No written source from his reign survives, and the Ottomans did not record his life until the fifteenth century, more than a hundred years after his death. Historians find it difficult to separate fact from myth. Later Ottoman tradition traced his ancestors to the Kayı tribe of Oghuz Turks, but many scholars regard this as a later fabrication. The principality was well placed to attack the [[Byzantine Empire|Byzantine Empire]], which Osman's descendants eventually conquered. The state existed until 1922, when the sultanate was abolished.
+
+=== KEY: Osmium_8b9e99
+HEADWORD: Osmium
+PERSON: no
+LINK TARGETS: Transition metal
+ENTRY:
+Chemical element of the platinum group, atomic number 76, symbol Os. It is a hard, brittle, bluish-white [[Transition metal|transition metal]] discovered in 1803 by Smithson Tennant, who named it for the smell of its volatile oxide, from the Greek *osmḗ*, "smell." Osmium is the densest stable element, with a density of 22.587 g/cm³ at 20 °C, slightly greater than that of iridium (22.562 g/cm³). It occurs in trace amounts, mainly alongside other platinum-group metals and in copper and nickel ores. Alloys with platinum and iridium are used in fountain pen nibs and electrical contacts because of their hardness and durability. Osmium tetroxide, which is highly toxic, is used in electron microscopy.
+
+=== KEY: Osmosis_efa809
+HEADWORD: Osmosis
+PERSON: no
+LINK TARGETS: Cell membrane | Diffusion | Water purification
+ENTRY:
+Net movement of solvent through a selectively permeable membrane, tending to equalize solute concentrations on the two sides. Osmotic pressure is the external pressure required to prevent this movement, and it depends on the molar concentration of the solute rather than its identity. Osmosis is a specialized form of [[Diffusion|diffusion]]. Biological membranes are semipermeable, so osmosis provides the main means by which water enters and leaves cells, and cell turgor pressure is largely maintained by osmosis across the [[Cell membrane|cell membrane]]. Water crosses membranes through aquaporin channels. Jean-Antoine Nollet first documented osmosis in 1748. Reverse osmosis uses external pressure to separate solutes from solvents, as in [[Water purification|water purification]].
+
+=== KEY: Osprey_8ead66
+HEADWORD: Osprey
+PERSON: no
+LINK TARGETS: Bird of prey | Carl Linnaeus | DDT
+ENTRY:
+[[Bird of prey|Fish-eating bird of prey]] (*Pandion haliaetus*) with a nearly worldwide range. It is a large raptor, more than 60 cm (24 in) long, with a wingspan of 180 cm (71 in). The upperparts are brown, and the head and underparts are grayish. Ospreys occur on all continents except Antarctica, and in South America only as nonbreeding migrants. They nest near water and feed almost exclusively on fish, which they catch by diving feet first. [[Carl Linnaeus|Carl Linnaeus]] described the species in 1758. It is the only living member of the family Pandionidae, and four subspecies are generally recognized. Populations declined in the mid-20th century after pesticides such as [[DDT|DDT]] thinned eggshells, and they recovered after the 1972 U.S. ban on DDT.
+
+=== KEY: Osteichthyes_87573b
+HEADWORD: Osteichthyes
+PERSON: no
+LINK TARGETS: Actinopterygii | Sarcopterygii | Silurian | Tetrapod
+ENTRY:
+Diverse clade of vertebrates with endoskeletons primarily of bone, commonly called bony fishes. In a cladistic sense the group includes all [[Tetrapod|tetrapods]], among them mammals and reptiles. It contains most living fish, about 45 orders, over 435 families and 28,000 species. The group divides into the ray-finned fishes, [[Actinopterygii|Actinopterygii]], which make up most living fish, and the lobe-finned fishes, [[Sarcopterygii|Sarcopterygii]], which gave rise to all land vertebrates. The oldest known bony fish fossils are about 436 million years old, from the early [[Silurian|Silurian]] period. Early members had gas-filled foregut pouches that evolved into swim bladders in ray-finned fishes and into lungs in lobe-finned fishes.
+
+=== KEY: Osteoarthritis_1fc19d
+HEADWORD: Osteoarthritis
+PERSON: no
+LINK TARGETS: Paracetamol
+ENTRY:
+Most common form of arthritis, a degenerative joint disease that results from breakdown of joint cartilage and underlying bone. Its main symptoms are joint pain and stiffness, which usually progress slowly over years. Only the joints are affected, not internal organs. Risk is greater in people who are overweight or have had a prior joint injury. Treatment includes exercise, weight loss, pain relief with [[Paracetamol|paracetamol]] or NSAIDs, and joint replacement if disability persists. More than 90% of hip and knee replacements are due to osteoarthritis. Long-term opioid use is not recommended.
+
+=== KEY: Osteopathy_98225b
+HEADWORD: Osteopathy
+PERSON: no
+LINK TARGETS: Alternative medicine
+ENTRY:
+Pseudoscientific system of [[Alternative medicine|alternative medicine]] that emphasizes physical manipulation of muscles and bones. In most countries, its practitioners, called osteopaths, are not medically trained. It differs from osteopathic medicine, a branch of the medical profession in the United States. Founded in 1874 by Andrew Taylor Still, it is based on the idea of a "myofascial continuity" linking every part of the body. Osteopathic manipulative treatment is most commonly used for back pain. Quackwatch has described parts, including craniosacral therapy, as having no therapeutic value and as quackery.
+
+=== KEY: Osteoporosis_c9459d
+HEADWORD: Osteoporosis
+PERSON: no
+LINK TARGETS: Chemotherapy | Estrogen
+ENTRY:
+Systemic skeletal disorder marked by low bone mass and porous bone, which increases the risk of fracture. With age, bone resorption outpaces formation, so bones lose density. It is the most common reason for broken bones among the elderly, including the hip and spine. Bone loss accelerates after menopause, when [[Estrogen|estrogen]] declines. Risk factors include smoking, a sedentary lifestyle and medications such as [[Chemotherapy|chemotherapy]] and glucocorticosteroids. Osteoporosis is defined as a bone density 2.5 standard deviations below that of a young adult, measured by a DXA scan. Bisphosphonate medications reduce future fractures in people who have already broken bones.
+
+=== KEY: Ostracod_fe53a2
+HEADWORD: Ostracod
+PERSON: no
+LINK TARGETS: Crustacean
+ENTRY:
+Small [[Crustacean|crustacean]] of the class Ostracoda, sometimes called seed shrimp. About 33,000 species have been identified, of which about 13,000 are extant, grouped into seven valid orders. Typical size is around 1 mm (0.04 in), but sizes range from 0.2 to 32 mm (0.0079 to 1.3 in). The body is flattened from side to side and enclosed by a bivalve-like shell, or valve, made of chitin and often calcium carbonate. Ostracods are "by far the most common arthropods in the fossil record," known from the early Ordovician to the present. Because they are widespread, small and easily preserved, their valves are valuable indicators of ancient environments. Fossils from Queensland, Australia, about 100 million years old, preserved soft tissue and set a Guinness World Record for the oldest penis.
+
+=== KEY: Ostracoderm_5f8007
+HEADWORD: Ostracoderm
+PERSON: no
+LINK TARGETS: Devonian | Louis Agassiz
+ENTRY:
+Informal name for the armored jawless fishes of the early Paleozoic era. Their gills were specialized for respiration alone, with separate pharyngeal gill pouches open along the side of the head, and they fed by using a muscular pharynx to create suction. The group is paraphyletic, and the term survives mainly as an informal umbrella term. Ostracoderms first appeared in the Ordovician–Silurian and reached their greatest diversity in the Early [[Devonian|Devonian]] period. They declined in the Middle and Late Devonian, and their last species became extinct in the end-Devonian mass extinction. Their decline coincided with the diversification of jawed vertebrates. [[Louis Agassiz|Louis Agassiz]] first studied their fossils in the 1830s, and Edward Drinker Cope named the group Ostracodermi in 1889, meaning "shell-skinned."
+
+=== KEY: Ostrich_445048
+HEADWORD: Ostrich
+PERSON: no
+LINK TARGETS: 
+ENTRY:
+Large flightless bird of Africa, the heaviest and largest living bird. Two species are recognized, the common ostrich of Sub-Saharan Africa and the Somali ostrich of the Horn of Africa. Adult common ostriches weigh 63.5–145 kg (140–320 lb). They run at 70 km/h (43 mph), making them the fastest birds on land, and lay the largest eggs of any living land animal. Ostriches belong to the ratites, a group of flightless and weakly flying birds. They are farmed worldwide, with South Africa producing about 70% of global ostrich products. Ostrich leather is a lucrative commodity.
+
+=== KEY: Ostsiedlung_2ee980
+HEADWORD: Ostsiedlung
+PERSON: no
+LINK TARGETS: Poland
+ENTRY:
+Medieval migration of ethnic Germans into Slavic, Baltic and Uralic areas of Central and Eastern Europe, and the Germanization of those areas. The term means "East settlement" in German. Larger groups of settlers, including scholars, monks, craftsmen and artisans, began moving east in the mid-12th century, often at the invitation of local princes and lords. The movement covered Germany east of the Saale and Elbe rivers, parts of Austria, [[Poland|Poland]] and the Czech Republic, and other areas of Central and Eastern Europe. It ended at the beginning of the 14th century but shaped the region's legal, cultural and economic development until the 20th century. In the 20th century, German nationalists, most notoriously the Nazis, exploited accounts of it to press territorial claims. After World War II, the movement was reversed east of the Oder River as Germans were driven out.
+
+=== KEY: Oswald_Mosley_3e217c
+HEADWORD: Mosley, Oswald
+PERSON: yes
+LINK TARGETS: Adolf Hitler | Benito Mussolini | Labour Party (UK)
+ENTRY:
+British fascist politician and founder of the British Union of Fascists (BUF). A Conservative MP for Harrow from 1918, he later sat as an independent, then joined the [[Labour Party (UK)|Labour Party]], serving in its 1929–1931 government. He founded the BUF in 1932 and publicly espoused antisemitism, seeking alliances with [[Benito Mussolini|Benito Mussolini]] and [[Adolf Hitler|Adolf Hitler]]. Fascist violence culminated in the Battle of Cable Street in 1936, which stopped a BUF march through London's East End. He was imprisoned in 1940, when the BUF was made illegal, and after his release in 1943 he lived mostly abroad.
+
+=== KEY: Othello_f6203f
+HEADWORD: Othello
+PERSON: no
+LINK TARGETS: William Shakespeare
+ENTRY:
+Tragedy by [[William Shakespeare|William Shakespeare]], written c. 1603 and set in Venice and Cyprus. The play depicts the Moorish military commander Othello as he is manipulated by his ensign, Iago, into suspecting that his wife Desdemona is unfaithful. It is usually classed among Shakespeare's major tragedies, alongside *Macbeth*, *King Lear* and *Hamlet*. Shakespeare reworked the plot from a 1565 novella by Cinthio. The play survives in one quarto edition from 1622 and in the First Folio. Originally performed by white actors in dark makeup, the role of Othello began to be played by black actors in the 19th century. Critical attention has focused on its treatment of race and on the motivations of Iago.
+
+=== KEY: Otis_Redding_19d4d7
+HEADWORD: Redding, Otis
+PERSON: yes
+LINK TARGETS: Aretha Franklin
+ENTRY:
+American soul singer and songwriter, nicknamed the "King of Soul." Born in Dawson, Georgia, he grew up in Macon and performed in local talent shows. An unscheduled appearance at a Stax Records session led to a contract and his first hit, "These Arms of Mine" (1962). Shortly before his death in a plane crash, he recorded "(Sittin' On) The Dock of the Bay." Released in 1968, it was the first posthumous number-one on the Billboard Hot 100. His "Respect" (1965) became better known through [[Aretha Franklin|Aretha Franklin]]'s cover.
+
+=== KEY: Otorhinolaryngology_2a23c7
+HEADWORD: Otorhinolaryngology
+PERSON: no
+LINK TARGETS: 
+ENTRY:
+Surgical subspecialty of medicine concerned with the head and neck, also called otolaryngology or ear, nose, and throat (ENT) medicine. Its specialists, called otolaryngologists or ENT surgeons, treat conditions affecting hearing, balance, speaking, breathing, eating and swallowing. The field also manages cancers and benign tumors of the head and neck and performs reconstructive and plastic surgery of the face, scalp and neck. Subspecialties include head and neck surgical oncology, facial plastic surgery, rhinology and laryngology. In the United States, residency lasts at least five years after medical school, and total education and training typically takes 12–14 years. Laser-assisted surgery is used for tissue resection, coagulation and vaporization.
+
+=== KEY: Ottawa_aeee33
+HEADWORD: Ottawa
+PERSON: no
+LINK TARGETS: Canada | Capital city | Ontario
+ENTRY:
+[[Capital city|Capital city]] of [[Canada|Canada]] (pop., 2021: 1,017,449), in southeastern [[Ontario|Ontario]] at the confluence of the Ottawa and Rideau rivers. It borders Gatineau, Quebec, and forms the core of the Ottawa–Gatineau census metropolitan area. It is the second-largest city in Ontario and the fourth-largest in Canada. Ottawa is the political center of Canada, home to Parliament, the Supreme Court, the Office of the Prime Minister and numerous foreign embassies. Founded in 1826 as Bytown and renamed Ottawa in 1855, it has the highest share of university-educated residents among Canadian cities. In winter the UNESCO World Heritage-listed Rideau Canal becomes the world's longest maintained ice rink.
+
+=== KEY: Otter_886be8
+HEADWORD: Otter
+PERSON: no
+LINK TARGETS: Mustelidae | Norse mythology
+ENTRY:
+Semiaquatic carnivorous mammal of the subfamily Lutrinae. The 14 extant species live in freshwater and marine habitats and belong to the family [[Mustelidae|Mustelidae]], which also includes weasels, badgers, mink and wolverines. Most have long, slim bodies, webbed feet and dense fur that traps air to keep them warm and buoyant. Fish is the staple of most diets, supplemented by frogs, crayfish and crabs, and sea otters use stones to break open shellfish on their bellies. Gestation lasts about 60 to 86 days, and young stay with the family for about a year. Otters can live up to 16 years. They were hunted for their pelts and feature in mythology from [[Norse mythology|Norse mythology]] to Native American totems and Asian folklore.
+
+=== KEY: Otto_Hahn_cffca6
+HEADWORD: Hahn, Otto
+PERSON: yes
+LINK TARGETS: Lise Meitner | Nazism | Nuclear fission
+ENTRY:
+German chemist and pioneer of radiochemistry, called the father of nuclear chemistry. With [[Lise Meitner|Lise Meitner]], he discovered isotopes of the radioactive elements radium, thorium, protactinium and uranium. In 1938 he, Meitner, Otto Frisch and Fritz Strassmann discovered [[Nuclear fission|nuclear fission]], and Hahn alone received the 1944 Nobel Prize in Chemistry. He was an opponent of [[Nazism|Nazism]], but during World War II he worked on the German nuclear weapons program, cataloguing the fission products of uranium. Arrested by Allied forces at the end of the war, he was detained at Farm Hall with nine other German scientists. He was founding president of the Max Planck Society from 1948 to 1960 and co-founded the Federation of German Scientists in 1959.
+
+=== KEY: Otto_the_Great_f4d31c
+HEADWORD: Otto the Great
+PERSON: yes
+LINK TARGETS: Byzantine Empire | Charlemagne | Rome
+ENTRY:
+East Frankish king (r. 936–973) and Holy Roman Emperor (r. 962–973). He was the eldest son of Henry the Fowler. Otto placed members of his family in the kingdom's most important duchies and subjected the German church to his personal control. He defeated the Magyars at the Battle of Lechfeld in 955, ending Hungarian invasions of Western Europe, and conquered the Kingdom of Italy by 961. He was crowned emperor in [[Rome|Rome]] by Pope John XII in 962, following the example of [[Charlemagne|Charlemagne]]. His later years were marked by conflicts with the papacy and the [[Byzantine Empire|Byzantine Empire]], which he resolved through his son's marriage to the Byzantine princess Theophanu in 972. Historians regard him as a successful ruler, and his patronage fostered an "Ottonian Renaissance" of arts and architecture.
+
+=== KEY: Otto_von_Bismarck_288d9f
+HEADWORD: Bismarck, Otto von
+PERSON: yes
+LINK TARGETS: Welfare state | Wilhelm I
+ENTRY:
+German statesman and diplomat, first chancellor of Germany (1871–1890). Known as the "Iron Chancellor," he rose in Prussian politics under King [[Wilhelm I|Wilhelm I]] and was minister president and foreign minister of Prussia from 1862 to 1890. Prussia provoked three short wars against Denmark, Austria and France. After Austria's defeat in 1866, the German Confederation was replaced by the North German Confederation, and a unified German Empire was created under Prussian rule. He created the first [[Welfare state|welfare state]] to undercut socialists and fought the Catholic Church in the Kulturkampf before allying with the Centre Party. After Wilhelm II dismissed him, he retired to write his memoirs. Historians praise him for keeping Europe peaceful for nearly two decades, but critics point to his authoritarian rule and repressive domestic policies.
+
+=== KEY: Ottoman_Empire_699e55
+HEADWORD: Ottoman Empire
+PERSON: no
+LINK TARGETS: Abdul Hamid II | Constantinople | Mehmed II | Mustafa Kemal Atatürk | Osman I | Selim I | Suleiman the Magnificent | World War I
+ENTRY:
+State (c. 1299–1922) that spanned much of Southeastern Europe, West Asia, and North Africa, centered in modern-day Turkey. It also controlled parts of southeastern Central Europe between the early 16th and early 18th centuries.
+
+The empire emerged from a principality founded in northwestern Anatolia in c. 1299 by the Turkoman tribal leader [[Osman I]]. His successors conquered much of Anatolia and expanded into the Balkans by the mid-14th century. [[Mehmed II]] ended the Byzantine Empire with the conquest of [[Constantinople]] in 1453, and further conquests by [[Selim I]] led the sultans to adopt the title of caliph. Ruling diverse peoples, the empire granted its confessional communities, or millets, autonomy to manage their own affairs under Islamic law. Under [[Suleiman the Magnificent]] in the 16th century it became a global power.
+
+The empire reached its greatest extent in 1683, on the eve of the second Siege of Vienna. Modern academic consensus holds that decline began after that defeat, though a flexible economy, society, and military persisted into much of the 18th century. The 1876 revolution attempted constitutional monarchy before a reversion to absolute monarchy under [[Abdul Hamid II]]. The Young Turk Revolution of 1908 restored constitutional rule, but after the Balkan Wars the Committee of Union and Progress established a dictatorship in 1913.
+
+The empire joined [[World War I]] on the side of the Central Powers and engaged in genocide against Armenians, Assyrians, and Greeks. The Allies occupied and partitioned it afterward. The Turkish War of Independence, led by [[Mustafa Kemal Atatürk]], ended the sultanate in 1922; the Grand National Assembly of Turkey abolished it on November 1, 1922.
+
+=== KEY: Ottoman_wars_in_Europe_4dd15f
+HEADWORD: Ottoman wars in Europe
+PERSON: no
+LINK TARGETS: Balkans | Great Turkish War | Ottoman Empire | World War I
+ENTRY:
+Series of military conflicts between the [[Ottoman Empire|Ottoman Empire]] and European states from the Late Middle Ages to the early 20th century. The earliest conflicts began in Anatolia in the late 13th century and entered Europe in the mid-14th century. Ottoman expansion into the [[Balkans|Balkans]] was followed by inroads into Central Europe in the 15th and 16th centuries, reaching the peak of Ottoman territorial claims in Europe. The Ottoman–Venetian wars lasted from 1423 to 1718 and included the Ottoman defeat at the Battle of Lepanto in 1571. European powers formed the Holy League and reversed many Ottoman gains in the [[Great Turkish War|Great Turkish War]] of 1683–99. Insurrections by Serbian, Greek and Romanian subjects in the nineteenth century, along with Russo-Turkish wars, weakened the empire. The final retreat began with the First Balkan War (1912–1913), and the Treaty of Sèvres after [[World War I|World War I]] led to the partitioning of the empire.
+
+=== KEY: Ouagadougou_5f80d6
+HEADWORD: Ouagadougou
+PERSON: no
+LINK TARGETS: Abidjan | Burkina Faso | Ghana Empire | Ivory Coast
+ENTRY:
+City (pop., 2019: 2,415,266), capital of [[Burkina Faso]]. It is the country's largest city and its administrative, communications, cultural and economic center, with food processing and textiles as its main industries. Possibly founded as early as 1050 by the Soninke Wangara diaspora from the [[Ghana Empire]], it became the main center of the Mossi States when the Wagadugu Kingdom was founded in the 15th century. On 5 September 1896 French forces entered the city and burned it to the ground. In 1919 the colonial administration made it capital of Upper Volta. A railroad from [[Ivory Coast]] reached the city in 1954, and it remains linked by rail to [[Abidjan]]. Its market, one of West Africa's largest, burned in 2003 and reopened with better fire-prevention measures. On 15 January 2016 gunmen attacked central Ouagadougou, killing 28 people.
+
+=== KEY: Our_Lady_of_Guadalupe_24b649
+HEADWORD: Our Lady of Guadalupe
+PERSON: no
+LINK TARGETS: Mexico City | Spanish Empire
+ENTRY:
+Catholic title of the Virgin Mary, associated with four apparitions to Juan Diego and one to his uncle, Juan Bernardino, reported in December 1531, when the Mexican territories were part of the [[Spanish Empire]]. The venerated image on the cloak is enshrined in the Basilica of Our Lady of Guadalupe in [[Mexico City]]. Pope Leo XIII granted a decree of canonical coronation for the image in 1887, and Pope Paul VI raised the shrine to minor basilica status in 1976. Historian Stafford Poole argues that the apparition story coalesced in the 17th century without 16th-century evidence.
+
+=== KEY: Ouroboros_5214b9
+HEADWORD: Ouroboros
+PERSON: no
+LINK TARGETS: Alchemy | Gnosticism | Hermeticism | Osiris | Ra | Tutankhamun
+ENTRY:
+Ancient symbol of a serpent or dragon eating its own tail, used to represent the eternal cycle of life, renewal and rebirth. The name derives from Greek words meaning "tail" and "eating." One of its earliest known appearances is in the *Enigmatic Book of the Netherworld*, an Egyptian funerary text from the tomb of [[Tutankhamun]] in the 14th century BCE, where it encircles a figure that may represent the unified [[Ra]]-[[Osiris]]. The symbol was later adopted in [[Gnosticism]], [[Hermeticism]] and [[Alchemy]]. The alchemical *Chrysopoeia of Cleopatra* bears the inscription "hen to pan" ("the all is one").
+
+=== KEY: Ousmane_Semb_ne_8d91e9
+HEADWORD: Sembène, Ousmane
+PERSON: yes
+LINK TARGETS: Albert Camus | Dakar | Female genital mutilation | Marseille | World War II
+ENTRY:
+Senegalese film director, producer and writer, often called the father of African film. Born in Ziguinchor, in Casamance, to a fisherman, he worked at manual jobs in [[Dakar]] before serving in the French Army during [[World War II]]. In [[Marseille]] he worked on the docks and joined the communist-led CGT trade union. His debut novel, *Le Docker Noir* (1956), follows an African stevedore who is executed after accidentally killing a white woman who had stolen his novel, a story reminiscent of [[Albert Camus]]'s *The Stranger*. He turned to film in 1960, and his short *Borom Sarret* (1963) was the first fiction film by a sub-Saharan African. His features, largely in Wolof, include *Mandabi* (1968) and *Xala* (1975). *Ceddo* (1977) was banned in Senegal, and *Moolaadé* (2004) condemned [[Female genital mutilation]].
+
+=== KEY: Outback_bf641c
+HEADWORD: Outback
+PERSON: no
+LINK TARGETS: Aboriginal Australians | Adelaide | Australia
+ENTRY:
+Remote, vast, sparsely populated interior of [[Australia]], more remote than the area Australians call the bush. Its climates range from tropical and monsoonal in the north to arid in the red center and semi-arid and temperate in the south. Low population density, a largely intact natural environment and pastoralism (livestock grazing) unify the region. [[Aboriginal Australians|Aboriginal peoples]] have lived there for at least 50,000 years, and many hold Traditional Owner status over large parts of it under native title law. European exploration was sporadic. From 1858 to 1861 John McDouall Stuart led six expeditions north from [[Adelaide]] and reached the north coast without losing any of his party. The Overland Telegraph line followed his route in the 1870s. The Outback is recognized globally as one of the largest remaining intact natural areas on Earth.
+
+=== KEY: Outer_space_940b80
+HEADWORD: Outer space
+PERSON: no
+LINK TARGETS: Big Bang | Dark matter | International Space Station | Kármán line | Sputnik 1 | Vacuum | Yuri Gagarin
+ENTRY:
+Expanse beyond Earth's atmosphere and between celestial bodies. It is a near-perfect [[Vacuum|vacuum]] of predominantly hydrogen and helium plasma, permeated by electromagnetic radiation, cosmic rays, neutrinos, magnetic fields, and dust. Its baseline temperature, set by background radiation from the [[Big Bang]], is 2.7 kelvins (−270 °C). The plasma between galaxies is thought to account for about half of the ordinary matter in the observable universe, at fewer than one hydrogen atom per cubic meter. Most of the remaining mass-energy is made up of unknown forms called [[Dark matter|dark matter]] and dark energy.
+
+Space has no definite starting altitude. The [[Kármán line]], 100 km above sea level, is conventionally used as its start in space treaties and aerospace records. The Outer Space Treaty, in force since October 10, 1967, precludes claims of national sovereignty and permits all states to explore freely.
+
+According to Big Bang theory, the universe was extremely hot and dense about 13.8 billion years ago and rapidly expanded. About 380,000 years later it had cooled enough for protons and electrons to combine into hydrogen. Remaining matter collapsed into stars and galaxies, leaving the deep vacuum now called outer space.
+
+The term "outer space" was first applied in astronomy in 1845 by Alexander von Humboldt. Exploration began with high-altitude balloons, then rockets. The Soviet Union launched [[Sputnik 1]] on October 4, 1957, and [[Yuri Gagarin]] achieved crewed Earth orbit in 1961. Apollo 11 landed on the Moon in 1969, and the [[International Space Station]] has been continuously occupied since 2000. High cost limits human flight to low Earth orbit and the Moon, while uncrewed craft have reached all known planets. Vacuum, radiation, and microgravity, which causes muscle atrophy and bone loss, endanger humans.
+
+=== KEY: Outsider_art_433130
+HEADWORD: Outsider art
+PERSON: no
+LINK TARGETS: Max Ernst | Paul Klee | Psychiatric hospital | Wassily Kandinsky
+ENTRY:
+Art made by self-taught individuals who are untrained in the traditional arts and have little contact with the conventions of the art world. The term was coined in 1972 by critic Roger Cardinal as an English equivalent of *art brut* ("raw art"), a label that Jean Dubuffet created in the 1940s for art made outside official culture. Dubuffet focused on outsiders such as [[Psychiatric hospital|psychiatric hospital]] patients, hermits and spiritualists. Interest in the art of the mentally ill grew from the late 19th century, and members of Der Blaue Reiter group, including [[Wassily Kandinsky]], admired its expressive power. In 1922 Hans Prinzhorn published *Bildnerei der Geisteskranken* (*Artistry of the Mentally Ill*), which drew the attention of [[Paul Klee]] and [[Max Ernst]]. Adolf Wölfli, a psychiatric patient in Switzerland, produced an illustrated epic of 45 volumes narrating his imaginary life story, with 25,000 pages and 1,600 illustrations.
+
+=== KEY: Ouyang_Xiu_073fc2
+HEADWORD: Ouyang Xiu
+PERSON: yes
+LINK TARGETS: Han Yu | Sichuan | Song dynasty | Su Shi | Tang dynasty
+ENTRY:
+Chinese historian, essayist, poet and statesman of the [[Song dynasty]]. Born in [[Sichuan]], he was largely self-taught after his father died when he was three, and the writings of [[Han Yu]] strongly influenced him. He passed the jinshi examination in 1030 on his third attempt. As a historian he led the compilation of the *New Book of Tang*, completed in 1060, and privately wrote the *Historical Records of the Five Dynasties*. He revived the Classical Prose Movement begun by two [[Tang dynasty]] masters and promoted it in imperial examinations, paving the way for [[Su Shi]]. His prose, including *Zuiwengting Ji*, earned him his greatest acclaim. He supported the Qingli Reforms of the 1040s, and after reform leader Fan Zhongyan fell from power in 1045 he too was demoted. He retired in 1071 after vehemently opposing the New Policies of Wang Anshi, whose career he had helped.
+
+=== KEY: Ovary_29cb79
+HEADWORD: Ovary
+PERSON: no
+LINK TARGETS: Egg cell | Estrogen | Menopause | Puberty | Sex organ | Uterus
+ENTRY:
+Paired female [[Sex organ|sex organ]], or gonad, lying on either side of the [[Uterus|uterus]]. The ovaries produce oogonia, which develop into immature [[Egg cell|egg cells]] (oocytes) and release a mature egg cell at ovulation. Each oocyte is surrounded by granulosa cells, forming an ovarian follicle. The ovary is also an endocrine gland, producing [[Estrogen|estrogen]] and progesterone, which drive the development of the female reproductive organs and of secondary sex characteristics at [[Puberty]]. The ovaries connect to the uterus through the fallopian tubes and are held in place by ligaments. Each has an outer cortex containing follicles and an inner medulla of blood vessels, nerves and stroma, enclosed by a capsule of dense fibrous tissue. The ovary develops through many stages, from the prenatal period through [[Menopause]].
+
+=== KEY: Oven_482690
+HEADWORD: Oven
+PERSON: no
+LINK TARGETS: Cooking | Indus Valley Civilisation | Mesopotamia | Çatalhöyük
+ENTRY:
+Tool with a hollow chamber that exposes materials to a controlled hot environment. Ovens have been used since antiquity and differ by purpose and by how they generate heat. Most often they are used for [[Cooking|cooking]], usually baking and sometimes broiling. Ovens for ceramics and pottery are sometimes called kilns, metallurgical furnaces make metals, and glass furnaces make glass.
+
+Some ovens burn fuel such as wood, coal, or natural gas; many use electricity. Electric ovens and furnaces use resistive heating, while microwave ovens expose materials to microwave radiation, which excites water molecules in food. Some ovens use forced convection, the movement of gases inside the chamber, to speed heating.
+
+The earliest known ovens, in Central Europe, date to 29,000 BC: roasting and boiling pits inside yurts used to cook mammoth. In Ukraine from 20,000 BC, people used pits of hot coals covered in ashes. Clay ovens appeared in homes at [[Çatalhöyük]] by 6600 BC, in pre-dynastic Egypt c. 5000–4000 BC, and throughout [[Mesopotamia]] by 4000 BC, with examples at Ur, Nippur, and Eridu. By 3200 BC cultures of the [[Indus Valley Civilisation]] used ovens to cook food and make bricks. The tandır, a cylindrical oven that bakes unleavened flatbread stuck to its walls, was common in Anatolia and remains central to rural food culture there.
+
+In the Middle Ages, Europeans used fireplaces with large cauldrons. Cast-iron stoves came into use in the early 1700s, and the coal oven was developed in the early 19th century. James Sharp patented one of the first gas stoves in 1826, and Gustaf Dalén invented the AGA cooker in 1922. Percy Spencer discovered microwave cooking in 1946, leading to the microwave oven.
+
+=== KEY: Ovenbird_family_b69999
+HEADWORD: Ovenbird
+PERSON: no
+LINK TARGETS: Genus | Mexico | Passerine | South America
+ENTRY:
+Large family, *Furnariidae*, of small suboscine [[Passerine|passerine]] birds found from [[Mexico]] through Central America to southern [[South America]]. The family contains around 321 species in 71 [[Genus|genera]]. Its name comes from the elaborate clay nests built by horneros, which resemble ovens; most other ovenbirds build stick nests or nest in tunnels or rock clefts. Furnariid nests always have a cover, and up to six eggs are laid. Birds range from 9 to 35 cm long and occupy habitats from city parks to Amazonian lowlands and Andean highlands. Woodcreepers were merged into the family after analysis of DNA sequences, although some scientists keep them separate. The North American ovenbird (*Seiurus aurocapilla*) is a wood warbler, not a member of this family.
+
+=== KEY: Overseas_France_5b64e7
+HEADWORD: Overseas France
+PERSON: no
+LINK TARGETS: Europe | European Union | French colonial empire | South America
+ENTRY:
+Collective name for 13 French territories outside [[Europe]], mostly remnants of the [[French colonial empire]] that remained part of France after decolonization. Its five overseas regions have the same status as metropolitan regions. The territories lie in the Atlantic, Pacific and Indian oceans, and French Guiana is on the [[South America|South American]] continent. Their land area, excluding Adélie Land in Antarctica, is 120,396 sq km, or 18.0% of France's land territory. Residents, numbering 2,891,000 in January 2026, are mostly citizens of France and the [[European Union]], so they can vote in French and European elections.
+
+=== KEY: Ovid_e4468e
+HEADWORD: Ovid
+PERSON: yes
+LINK TARGETS: Augustus | Black Sea | Horace | Late antiquity | Middle Ages | Myth | Rome | Virgil
+ENTRY:
+Roman poet, a younger contemporary of [[Virgil]] and [[Horace]]. Full name Publius Ovidius Naso. Born in Sulmo, in an Apennine valley east of [[Rome]], to an equestrian family, he studied rhetoric in Rome before renouncing law to pursue poetry. His early work was elegiac poetry on erotic themes, including *Amores* and *Ars Amatoria* (*The Art of Love*). His most famous work, *Metamorphoses*, is a continuous mythological narrative in fifteen books of dactylic hexameter and remains one of the most important sources of classical [[Myth|mythology]]. Quintilian considered him the last of the Latin love elegists. [[Augustus]] exiled him to Tomis, on the [[Black Sea]], where he spent the last nine or 10 years of his life. Ovid attributed his banishment to *carmen et error* ("a poem and a mistake"), and scholars have speculated about the error. His poetry was much imitated in [[Late antiquity|Late Antiquity]] and the [[Middle Ages]].
+
+=== KEY: Owl_fee26b
+HEADWORD: Owl
+PERSON: no
+LINK TARGETS: Bird | Eurasian eagle-owl | Fish | Insect | Mammal
+ENTRY:
+Member of the order Strigiformes, comprising over 200 mostly solitary, nocturnal [[Bird|birds]] of prey. Owls have large, forward-facing eyes, a flat face and a facial disc of feathers that funnels sound to asymmetrically placed ears. Their feathers are adapted for silent flight. Their eyes are fixed in their sockets, so owls can rotate their heads as much as 270°; they have 14 neck vertebrae, while humans have seven. The smallest species, the elf owl, weighs as little as 31 g. The largest females of the [[Eurasian eagle-owl]] and Blakiston's fish owl reach 71 cm in length and a 190 cm wingspan. Most owls hunt small [[Mammal|mammals]], [[Insect|insects]] and other birds, though a few species specialize in [[Fish|fish]]. Owls are found in all regions of the Earth except the polar ice caps and some remote islands. A group of owls is called a parliament.
+
+=== KEY: Ox_091fec
+HEADWORD: Ox
+PERSON: no
+LINK TARGETS: Castration | Cattle | Indo-European languages | Testosterone
+ENTRY:
+Large bovine trained as a draft animal, usually a castrated adult male of [[Cattle|cattle]]. Oxen are commonly castrated because [[Castration|castration]] inhibits [[Testosterone|testosterone]] and aggression, which makes them docile and safer to work with. They are used for plowing, hauling carts and wagons, threshing grain, and powering grain mills or irrigation, and they are usually yoked in pairs. Oxen are thought to have first been harnessed around 4000 BC. The word derives from a reconstructed [[Indo-European languages|Proto-Indo-European]] root translated as "male animal."
+
+=== KEY: Oxalic_acid_faee1c
+HEADWORD: Oxalic acid
+PERSON: no
+LINK TARGETS: Acetic acid | Carboxylic acid | Friedrich Wöhler | Glucose | Rhubarb | Rust | Spinach
+ENTRY:
+Simplest [[Carboxylic acid|dicarboxylic acid]], (COOH)₂. Its name comes from early investigators who isolated it from wood-sorrels of the genus *Oxalis*. It is a white crystalline solid that occurs naturally in plants such as [[Rhubarb]] and [[Spinach]]. It is much stronger than [[Acetic acid|acetic acid]] and is used to remove [[Rust|rust]], because it forms a water-soluble iron complex. Industrially it is made by oxidizing [[Glucose|carbohydrates]] such as glucose with nitric acid or air, at about 120,000 metric tons a year. In 1824 [[Friedrich Wöhler]] obtained it by reacting cyanogen with ammonia. It can be toxic when ingested in significant quantities.
+
+=== KEY: Oxford_English_Dictionary_f4b75d
+HEADWORD: Oxford English Dictionary
+PERSON: no
+LINK TARGETS: English language | University of Oxford
+ENTRY:
+Principal historical dictionary of the [[English language]], published by Oxford University Press, a publishing house of the [[University of Oxford]]. Work began in 1857, and fascicles were published from 1884 under the title *A New English Dictionary on Historical Principles*. The title *The Oxford English Dictionary* was first used on the covers in 1895 and fully adopted in the 1933 reprint. The second edition of 1989 comprised 20 volumes and 21,728 pages. Entries present each sense in order of its earliest recorded use, followed by illustrative quotations in chronological order. As of January 2026 the dictionary contained 520,779 entries, 888,251 meanings and 3,927,862 quotations. A third edition has been compiled since 2000 and is expected to be electronic only. The online version has been available since 2000.
+
+=== KEY: Oxford_f0dddd
+HEADWORD: Oxford
+PERSON: no
+LINK TARGETS: Cambridge | England | English Civil War | London | River Thames | University of Oxford
+ENTRY:
+Cathedral city and county town of Oxfordshire, [[England]]. It is home to the [[University of Oxford]], the oldest university in the English-speaking world. Its industries include motor manufacturing, publishing and information technology. The population was 165,940 in 2025. Teaching began in the 11th century, and in 1209 a townsperson's hanging of two scholars led academics to flee and found [[Cambridge]] University. During the [[English Civil War]], Charles I made Oxford his de facto capital. The city lies 56 miles (90 km) northwest of [[London]], at the confluence of the [[River Thames|Thames]] and Cherwell rivers.
+
+=== KEY: Oxide_9b3f77
+HEADWORD: Oxide
+PERSON: no
+LINK TARGETS: Calcium oxide | Carbon monoxide | Earth's crust | Gold | Limestone | Platinum | Sulfuric acid
+ENTRY:
+Chemical compound containing at least one oxygen atom and one other element. Oxides are extraordinarily diverse, and most of the [[Earth's crust|Earth's crust]] consists of them. Even metals often develop an oxide coating: aluminum foil forms a thin layer of Al₂O₃ that protects it from further oxidation. Most elements form oxides of more than one stoichiometry, such as [[Carbon monoxide|carbon monoxide]] and carbon dioxide. Many metal oxides form when other compounds decompose; heating [[Limestone|limestone]] releases carbon dioxide and leaves [[Calcium oxide|calcium oxide]]: CaCO₃ → CaO + CO₂. Noble metals such as [[Gold]] and [[Platinum]] are prized because they resist combining with oxygen. The chemical produced on the largest scale, [[Sulfuric acid|sulfuric acid]], is made by oxidizing sulfur to sulfur dioxide and then to sulfur trioxide.
+
+=== KEY: Oxycodone_35d965
+HEADWORD: Oxycodone
+PERSON: no
+LINK TARGETS: Addiction | Germany | Morphine | Naloxone | Opioid
+ENTRY:
+Semi-synthetic [[Opioid|opioid]] for moderate to severe pain, sold as Roxicodone and OxyContin. It was first produced in 1916 in [[Germany]] from the opium poppy alkaloid thebaine, and first used medically there in 1917. It acts by activating the μ-opioid receptor, and taken by mouth it has roughly 1.5 times the effect of the same amount of [[Morphine]]. Common side effects include euphoria, constipation, nausea and drowsiness. It is highly [[Addiction|addictive]] and commonly abused. Abuse-deterrent versions combine it with [[Naloxone|naloxone]]. In 2023 it was the 49th most commonly prescribed medication in the United States, with more than 13 million prescriptions.
+
+=== KEY: Oxygen_990bf4
+HEADWORD: Oxygen
+PERSON: no
+LINK TARGETS: Antoine Lavoisier | Combustion | Earth's crust | Joseph Priestley | Ozone | Periodic table | Photosynthesis | Respiration (physiology)
+ENTRY:
+Chemical element, symbol O, atomic number 8, a nonmetal of the chalcogen group in the [[Periodic table|periodic table]]. It is highly reactive and a potent oxidizing agent, readily forming oxides with most elements. It is the most abundant element in [[Earth's crust]], making up almost half of it, chiefly as water, carbon dioxide, iron oxides, and silicates, and the third most abundant in the universe after hydrogen and helium.
+
+At standard temperature and pressure, two atoms bind covalently to form dioxygen (O₂), a colorless, odorless gas that is currently about 20.95% of Earth's atmosphere by molar fraction. The rarer allotrope [[Ozone|ozone]] (O₃) absorbs UVB and UVC radiation, forming a protective layer in the lower stratosphere, but at the surface it is a corrosive air pollutant. Oxygen is too reactive to remain free in air without continuous replenishment by [[Photosynthesis|photosynthesis]] in cyanobacteria, algae, and land plants.
+
+Aerobic [[Respiration (physiology)|respiration]] extracts energy by reacting oxygen with organic molecules from food, releasing carbon dioxide. Proteins, nucleic acids, carbohydrates, and fats contain oxygen, as do shells, teeth, and bone, and most of the mass of living organisms is oxygen in water.
+
+The modern concept developed over five centuries, and no one person discovered oxygen. Michael Sendivogius isolated the substance before 1604, calling it *cibus vitae* ("food of life"). John Mayow proposed in 1668 that part of the air is consumed in both respiration and [[Combustion|combustion]]. Carl Wilhelm Scheele in Uppsala (1773 or earlier) and [[Joseph Priestley]] in Wiltshire (1774) discovered it independently; Priestley called it "dephlogisticated air" and did not recognize it as an element. In 1777 [[Antoine Lavoisier]] first recognized it as a chemical element and correctly described its role in combustion.
+
+=== KEY: Oxytocin_87fbbd
+HEADWORD: Oxytocin
+PERSON: no
+LINK TARGETS: Autism | Childbirth | Nobel Prize | Peptide | Pituitary gland
+ENTRY:
+[[Peptide]] hormone and neuropeptide, produced in the hypothalamus and released by the posterior [[Pituitary gland|pituitary]]. Oxytocin stimulates uterine contractions during [[Childbirth|childbirth]] and milk ejection during lactation, and it plays roles in social bonding, love and reproduction. Its release is controlled by positive feedback: release during a contraction stimulates further release, intensifying labor until the stimulus ceases. Its name derives from Greek words meaning "sharp" and "childbirth," and it is colloquially called the "love hormone." In 1953 Vincent du Vigneaud synthesized it, the first polypeptide hormone to be synthesized, and he won the [[Nobel Prize]] in Chemistry in 1955. Intranasal oxytocin has shown mixed results in trials for [[Autism|autism]], and it is being studied for anxiety disorders.
+
+=== KEY: Oyo_Empire_8f09c7
+HEADWORD: Oyo Empire
+PERSON: no
+LINK TARGETS: Benin | Cavalry | Nigeria | Suicide | West Africa
+ENTRY:
+Former Yoruba empire in [[West Africa]], located in present-day western [[Nigeria]] and [[Benin]]. It grew into the largest Yoruba-speaking state through administrative organization, trade and the military use of [[Cavalry|cavalry]]. From the late 16th to the early 18th century it was among the most politically important states in West Africa, holding sway over most other Yoruba kingdoms and over the Fon Kingdom of Dahomey. According to legend, Ọranmiyan, a prince of Ile-Ife, founded Oyo where a snake disappeared into the ground. The Alaafin was a sacred king, and a council of nobles could compel him to commit [[Suicide|suicide]] if he was judged tyrannical. Around 1535 the Nupe occupied Oyo and drove the dynasty into exile in Borgu. It returned in the early 17th century as a more centralized state.
+
+=== KEY: Oyster_7da119
+HEADWORD: Oyster
+PERSON: no
+LINK TARGETS: Gill | Heart | Kidney | Pearl
+ENTRY:
+Common name for several families of saltwater bivalve mollusks that live in marine or brackish habitats. True oysters, family Ostreidae, include the edible oysters, such as the European flat oyster and the Pacific oyster, and they are a major aquaculture product, with global production exceeding 5 million metric tons a year. Oysters breathe mainly through [[Gill|gills]]. A small, three-chambered [[Heart|heart]] pumps colorless blood, and two [[Kidney|kidneys]] remove waste. There is no evidence that oysters have a brain. Pearl oysters belong to the family Pteriidae and are not closely related to true oysters. They make [[Pearl|pearls]] by covering an irritant with nacre. Cultured pearls have far outgrown natural pearls in the market since the early 20th century. The largest pearl-bearing oyster, *Pinctada maxima*, is roughly the size of a dinner plate.
+
+=== KEY: Ozarks_0d574c
+HEADWORD: Ozarks
+PERSON: no
+LINK TARGETS: Appalachia | Arkansas | Missouri | Rocky Mountains | Tourism
+ENTRY:
+Highland region of the central United States, covering most of southern [[Missouri]] and northern [[Arkansas]]. At nearly 47,000 square miles (120,000 sq km), it is the largest highland region between the [[Appalachia|Appalachians]] and the [[Rocky Mountains|Rockies]]. Its highest point, Wahzhazhe Summit, rises to 2,561 feet (781 m). Together with the Ouachita Mountains it forms the U.S. Interior Highlands. The name derives from the French *aux Arcs*, an abbreviation of *aux Arkansas*, which referred to the trading post at Arkansas Post. Branson, Missouri, just north of the Arkansas border, is a [[Tourism|tourist]] destination where Ozark culture is popularized.
+
+=== KEY: Ozone_486d0a
+HEADWORD: Ozone
+PERSON: no
+LINK TARGETS: Lightning | Oxygen | Stratosphere | Ultraviolet
+ENTRY:
+Triatomic [[Oxygen|oxygen]] molecule (O₃), a pale-blue gas with a pungent odor. It is much less stable than dioxygen (O₂) and is formed from it by ultraviolet light and electrical discharges. Christian Friedrich Schönbein noticed the smell after [[Lightning|lightning]] and named the gas in 1839 from the Greek for "to smell." Most ozone lies in the [[Stratosphere|stratosphere]], where it absorbs most of the Sun's [[Ultraviolet|ultraviolet]] radiation. At ground level, above about 0.1 ppm, it damages mucous and respiratory tissues. As a powerful oxidizing agent, ozone is used as a disinfectant and bleach, but concentrated gas and liquid can decompose explosively. Its O₃ structure was determined in 1865.

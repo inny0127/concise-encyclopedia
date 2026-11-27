@@ -1,0 +1,735 @@
+=== KEY: Standard_deviation_9f6063
+HEADWORD: Standard deviation
+PERSON: no
+LINK TARGETS: Average | Normal distribution | Square root | Standard error | Variance
+ENTRY:
+Measure of the variation of a set of values about their arithmetic [[Average|average]], used in statistics. A low standard deviation means the values cluster near the average; a high one means they are spread over a wider range. It is most often represented by the Greek letter σ (sigma) and equals the [[Square root|square root]] of the [[Variance|variance]], so it is expressed in the same unit as the data. For a [[Normal distribution|normal distribution]], about 68.3% of values fall within one standard deviation of the average, 95.4% within two and 99.7% within three. It can also be used to calculate the [[Standard error|standard error]] for a finite sample and to determine statistical significance.
+
+=== KEY: Standard_error_5c8480
+HEADWORD: Standard error
+PERSON: no
+LINK TARGETS: Confidence interval | Regression analysis
+ENTRY:
+Standard deviation of the sampling distribution of a statistic, equal to the square root of the variance of an estimator. The standard error of the mean equals the standard deviation divided by the square root of the sample size. Because the population standard deviation is seldom known, it is usually estimated by substituting the sample standard deviation. The standard error is often used in calculating [[Confidence interval|confidence intervals]] and also appears in [[Regression analysis|regression analysis]]. Small samples tend to underestimate the population standard deviation: with n = 2 the underestimate is about 25%, and with n = 6 only 5%. Reducing the error by a factor of two requires four times as many observations.
+
+=== KEY: Standard_temperature_and_pressure_4be635
+HEADWORD: Standard temperature and pressure
+PERSON: no
+LINK TARGETS: Bar (unit) | Standard atmosphere (unit)
+ENTRY:
+Reference conditions for temperature and pressure, used to compare experimental and industrial data, especially gas volumes. The most used standards are those of the International Union of Pure and Applied Chemistry (IUPAC) and the National Institute of Standards and Technology (NIST), though they are not universally accepted. Since 1982 IUPAC has defined STP as 273.15 K (0.00 °C) and an absolute pressure of exactly 1 [[Bar (unit)|bar]] (100,000.000 Pa); before that it used 1 [[Standard atmosphere (unit)|standard atmosphere]] (101,325.000 Pa). Many technical publications simply say "standard conditions" without specifying them.
+
+=== KEY: Standardization_91693e
+HEADWORD: Standardization
+PERSON: no
+LINK TARGETS: Economics | Industrial Revolution | Interchangeable parts | Mohenjo-daro
+ENTRY:
+Process of developing and implementing technical standards based on consensus among firms, users, interest groups, standards organizations and governments. Standardization can maximize compatibility, interoperability, safety, repeatability, efficiency and quality, and can normalize formerly custom processes. In [[Economics|economics]], it addresses coordination problems in which all parties gain only by making mutually consistent decisions; divergent national standards impose costs on consumers and can act as a non-tariff trade barrier. Standard weights and measures were developed in the Indus Valley, where towns such as [[Mohenjo-daro|Mohenjo-daro]] used uniform units of length. The [[Industrial Revolution|Industrial Revolution]] made standards highly important for machine tools and [[Interchangeable parts|interchangeable parts]]; in 1800 Henry Maudslay's screw-cutting lathe allowed screw-thread sizes to be standardized for the first time.
+
+=== KEY: Stanford_University_269fc6
+HEADWORD: Stanford University
+PERSON: no
+LINK TARGETS: Silicon Valley | World War II
+ENTRY:
+Private research university in Stanford, California, founded in 1885 by railroad magnate Leland Stanford and his wife, Jane, in memory of their only child, who died of typhoid at age 15. It admitted its first students in 1891 as a coeducational, nondenominational institution. After [[World War II|World War II]], provost Frederick Terman fostered an entrepreneurial culture that gave rise to [[Silicon Valley|Silicon Valley]]; Stanford Research Park, established in Palo Alto in 1951, was the world's first university research park. Organized into seven schools on an 8,180-acre (3,310-hectare) campus, the university houses the Hoover Institution, a public policy think tank. Students and alumni have won 302 Olympic medals, and the university has won 136 NCAA team championships. It is associated with 60 Nobel laureates.
+
+=== KEY: Stanford_prison_experiment_19cdde
+HEADWORD: Stanford prison experiment
+PERSON: no
+LINK TARGETS: Psychology | Stanford University
+ENTRY:
+Controversial 1971 psychological experiment at [[Stanford University|Stanford University]]. Run in August 1971 by [[Psychology|psychology]] professor Philip Zimbardo, it was designed as a two-week simulation of prison life. 24 male college students were randomly assigned as prisoners or guards and paid $15 per day. Guards wore uniforms designed to de-individuate them. Abuse of prisoners escalated, and Zimbardo ended the experiment on the sixth day. The study has been widely criticized as unethical and helped prompt stronger review of human research. Thibault Le Texier argued that Zimbardo guided the guards' behavior to confirm conclusions written in advance; Zimbardo disputed the claims.
+
+=== KEY: Stanley_Ho_9715de
+HEADWORD: Ho, Stanley
+PERSON: yes
+LINK TARGETS: Hong Kong | Macau
+ENTRY:
+[[Hong Kong|Hong Kong]] and [[Macau|Macau]] billionaire businessman, nicknamed the Godfather and King of Gambling. He founded SJM Holdings, which owns 19 casinos in Macau, including the Grand Lisboa. Ho held a government-granted monopoly on Macau's gambling industry for 40 years. His business interests spanned entertainment, tourism, shipping, real estate, banking and air transport. After a stroke in July 2009, he began devolving control of his empire to his wives and children from late 2010, including daughter Pansy Ho and son Lawrence Ho.
+
+=== KEY: Stanley_Kubrick_19ad70
+HEADWORD: Kubrick, Stanley
+PERSON: yes
+LINK TARGETS: Academy Awards | New Hollywood
+ENTRY:
+American filmmaker and photographer of the [[New Hollywood|New Hollywood]] era, regarded as one of the greatest and most influential filmmakers. Born in New York City, he worked as a photographer for *Look* magazine before making his first major Hollywood film, *The Killing* (1956). He settled in England in 1961. At Childwickbury Manor, his home and workplace from 1978, he centralized the writing, editing and management of his productions, giving him almost complete artistic control. His films include *Lolita* (1962), *Dr. Strangelove* (1964) and *A Clockwork Orange* (1971). *2001: A Space Odyssey* (1968) earned him his only [[Academy Awards|Academy Award]], for Best Visual Effects. Known for perfectionism, he often asked for several dozen retakes of a shot.
+
+=== KEY: Stanley_Matthews_cfcf9f
+HEADWORD: Matthews, Stanley
+PERSON: yes
+LINK TARGETS: Apartheid | FIFA World Cup
+ENTRY:
+English footballer who played as an outside right. Often regarded as one of England's greatest players, he was knighted while still playing. He won the inaugural Ballon d'Or in 1956. He spent 19 years at Stoke City and 14 years at Blackpool, where he helped win the 1953 FA Cup in the "Matthews final." He won 54 caps for England between 1934 and 1957, playing in the [[FIFA World Cup|World Cup]] in 1950 and 1954. In 1975 he established an all-black team in Soweto, South Africa, known as "Stan's Men," despite [[Apartheid|apartheid]] laws.
+
+=== KEY: Staphylococcus_aureus_55c3fe
+HEADWORD: Staphylococcus aureus
+PERSON: no
+LINK TARGETS: Meningitis | Pneumonia | Sepsis | Skin | Vaccine
+ENTRY:
+Gram-positive, spherical bacterium (*Staphylococcus aureus*) that is a usual member of the human microbiota, found in the nostrils and on the [[Skin|skin]]. Estimates suggest 21% to 30% of people are long-term carriers. Although usually a commensal, it is an opportunistic pathogen and a common cause of skin infections, abscesses and food poisoning, and it can cause life-threatening [[Pneumonia|pneumonia]], [[Meningitis|meningitis]] and [[Sepsis|sepsis]]. It is one of the five most common causes of hospital-acquired infections; around 500,000 hospital patients in the United States contract a staphylococcal infection each year, chiefly from *S. aureus*. Up to 50,000 deaths a year in the U.S. are linked to staphylococcal infection. Methicillin-resistant *S. aureus* (MRSA) is a leading pathogen in deaths associated with antimicrobial resistance, and no [[Vaccine|vaccine]] has been approved.
+
+=== KEY: Star_26f93e
+HEADWORD: Star
+PERSON: no
+LINK TARGETS: Black hole | Hipparchus | Milky Way | Neutron star | Nuclear fusion | Sun | Supernova | White dwarf
+ENTRY:
+Luminous spheroid of plasma held together by its own gravity. The nearest star to Earth is the [[Sun]]. Only about 4,000 stars are visible to the naked eye, all within the [[Milky Way]], and the observable universe is estimated to contain 10²² to 10²⁴ stars. Astronomers group prominent stars into constellations and asterisms and compile catalogs with standardized designations.
+
+A star forms when a gaseous nebula of mostly hydrogen and helium collapses under gravity, and its total mass largely determines its evolution and fate. Protostar cores reach about 15 million kelvin, igniting hydrogen fusion and beginning the main sequence, the longest stage of a star's life. A star shines for most of its active life through [[Nuclear fusion|thermonuclear fusion]] of hydrogen into helium. Low- to intermediate-mass stars (up to about 8 solar masses) expand into red giants and leave a [[White dwarf|white dwarf]]. Massive stars end as [[Supernova|supernovae]], leaving a [[Neutron star|neutron star]] or a [[Black hole|black hole]]. Stellar nucleosynthesis creates almost all naturally occurring elements heavier than lithium, and mass loss and supernovae return them to the interstellar medium to be recycled into new stars. Stars are classified by spectral type (O, B, A, F, G, K, M), from surface temperatures over 30,000 K to about 3,000 K.
+
+Stars have served civilizations for religious practice, divination, navigation, and calendars. The oldest accurately dated star chart is Egyptian, from 1534 BC, and Babylonian astronomers compiled the earliest known catalogs in the late 2nd millennium BC. The catalog of [[Hipparchus]] (2nd century BC) listed 1,020 stars. Chinese astronomers were first to record a supernova, in 185 AD, and SN 1006 was the brightest stellar event in recorded history.
+
+=== KEY: Star_Trek_69fa47
+HEADWORD: Star Trek
+PERSON: no
+LINK TARGETS: Gene Roddenberry | NBC | Science fiction
+ENTRY:
+American [[Science fiction|science fiction]] media franchise created by [[Gene Roddenberry|Gene Roddenberry]] and owned by Paramount. It began with the series *Star Trek*, which premiered on September 6, 1966, on Canada's CTV network and on [[NBC|NBC]] in the United States on September 8. The series follows the crew of the starship USS Enterprise on a mission "to explore strange new worlds, to seek out new life and new civilizations." The franchise has expanded into films, television series, video games, novels and comic books, and is among the highest-grossing media franchises of all time. Its original series included one of the first multiracial casts on American television, and the franchise is noted for progressive stances on civil rights. Fans are called "Trekkies" or "Trekkers," and the constructed language Klingon was created for it.
+
+=== KEY: Star_Trek_The_Next_Generation_d59d29
+HEADWORD: Star Trek: The Next Generation
+PERSON: no
+LINK TARGETS: Gene Roddenberry | Patrick Stewart | Science fiction | Star Trek
+ENTRY:
+American [[Science fiction|science fiction]] television series created by [[Gene Roddenberry|Gene Roddenberry]], the third series in the [[Star Trek|Star Trek]] franchise. Syndicated from September 28, 1987, to May 23, 1994, it ran 178 episodes over seven seasons. Set in the late 24th century, it follows the crew of the starship USS Enterprise (NCC-1701-D), with [[Patrick Stewart|Patrick Stewart]] as Captain Jean-Luc Picard. The show reached almost 12 million viewers in its fifth season. It received 19 Emmy Awards, two Hugo Awards and one Peabody Award, and a Lifetime Achievement Award for the entire cast in 2024.
+
+=== KEY: Star_Trek_The_Original_Series_d57844
+HEADWORD: Star Trek: The Original Series
+PERSON: no
+LINK TARGETS: Apollo 11 | Gene Roddenberry | NBC | Science fiction | William Shatner
+ENTRY:
+American [[Science fiction|science fiction]] television series created by [[Gene Roddenberry|Gene Roddenberry]]. It follows the starship USS Enterprise (NCC-1701) and its crew, led by Captain James T. Kirk ([[William Shatner|William Shatner]]), set in the Milky Way, c. 2266–2269. It aired on [[NBC|NBC]] from September 8, 1966, to June 3, 1969, and was canceled after three seasons and 79 episodes because of low ratings. Syndication later made it an international success and a cult classic. It was first shown in the United Kingdom on July 12, 1969, on BBC One, coinciding with the [[Apollo 11|Apollo 11]] Moon landing.
+
+=== KEY: Star_Wars_607cf4
+HEADWORD: Star Wars
+PERSON: no
+LINK TARGETS: George Lucas
+ENTRY:
+American media franchise created by [[George Lucas|George Lucas]], a space opera saga that began with the 1977 film *Star Wars*. It includes films, television series, video games, novels, comic books, theme park attractions and an all-encompassing fictional universe. A prequel trilogy written and directed by Lucas was followed by a sequel trilogy made after Lucas sold his production company to Disney in 2012. The Force, a mystical energy field, and the conflict between the Jedi peacekeepers and the dark-side Sith are central to the stories, which unfold in a galaxy of rebellions, republics and empires. The theatrical live-action films have grossed over $10 billion, making it the third-highest-grossing film franchise in cinematic history.
+
+=== KEY: Star_Wars_film_49f4e3
+HEADWORD: Star Wars
+PERSON: no
+LINK TARGETS: Academy Awards | Carrie Fisher | George Lucas | Harrison Ford | Mark Hamill | Tunisia
+ENTRY:
+1977 American space opera film written and directed by [[George Lucas|George Lucas]] and the first in the *Star Wars* franchise. It stars [[Mark Hamill|Mark Hamill]], [[Harrison Ford|Harrison Ford]] and [[Carrie Fisher|Carrie Fisher]] in a Rebel Alliance campaign against the Galactic Empire's Death Star. Filming began in March 1976 in [[Tunisia|Tunisia]] and at Elstree Studios in England. Released in a small number of U.S. theaters on May 25, 1977, it became a surprise blockbuster. Its total gross reached $775 million with reissues. It received six [[Academy Awards|Academy Awards]], and it entered the National Film Registry in 1989.
+
+=== KEY: Star_cluster_b5f907
+HEADWORD: Star cluster
+PERSON: no
+LINK TARGETS: Hyades (star cluster) | Infrared | Milky Way | Molecular cloud | Pleiades
+ENTRY:
+Group of stars that share an origin, formed at roughly the same time and held together by self-gravitation. Globular clusters are tight groups of ten thousand to millions of old stars that remain gravitationally bound for billions of years. Open clusters are looser groups, generally containing fewer than a few hundred members, that are young because [[Molecular cloud|giant molecular clouds]] disrupt them over time. Once no longer bound, they become stellar associations, or moving groups. Star clusters visible to the naked eye in the [[Milky Way|Milky Way]] include the [[Pleiades|Pleiades]] and [[Hyades (star cluster)|Hyades]] open clusters and the globular cluster 47 Tucanae. Clusters obscured in visible light but seen in [[Infrared|infrared]] light are classified as infrared clusters.
+
+=== KEY: Star_formation_e3dd1e
+HEADWORD: Star formation
+PERSON: no
+LINK TARGETS: Binary star | Interstellar medium | Molecular cloud | Solar mass | Star cluster
+ENTRY:
+Process by which dense regions within [[Molecular cloud|molecular clouds]] in interstellar space collapse to form stars, sometimes called stellar nurseries. As a branch of astronomy, it studies the [[Interstellar medium|interstellar medium]] and giant molecular clouds as precursors, and protostars and young stellar objects as products. Most stars form in groups called [[Star cluster|star clusters]] or stellar associations, and star formation theory must account for [[Binary star|binary stars]] and the initial mass function. Filaments in molecular clouds fragment into gravitationally bound cores, most of which evolve into stars. Giant molecular clouds, typically with densities of 100 particles per cm³, can have diameters of 100 light-years and masses of up to 6 million [[Solar mass|solar masses]]; the coldest clouds tend to form low-mass stars.
+
+=== KEY: Star_of_David_643a2f
+HEADWORD: Star of David
+PERSON: no
+LINK TARGETS: Jews | Judaism | Prague | World War I | Zionism
+ENTRY:
+Hexagram symbol generally recognized as representing Jewish identity and [[Judaism|Judaism]], formed by two equilateral triangles. Its use as a distinctive symbol of the [[Jews|Jewish people]] dates to 17th-century [[Prague|Prague]], and it spread through Jewish communities in Eastern Europe in the 19th century. It became representative of [[Zionism|Zionism]] when chosen as the central symbol of a Jewish national flag at the First Zionist Congress in 1897. By the end of [[World War I|World War I]] it was an internationally accepted symbol of the Jewish people, and it is the central symbol on the national flag of Israel.
+
+=== KEY: Star_system_1c0fd1
+HEADWORD: Star system
+PERSON: no
+LINK TARGETS: Binary star | Black hole | Cygnus X-1 | Milky Way | Procyon | Sirius | Star cluster
+ENTRY:
+Small number of stars that orbit each other, bound by gravitational attraction. A system of two stars is a [[Binary star|binary star]]; systems of three or four are called ternary or quaternary, and systems with four or more components are rare. Most multiple-star systems are hierarchical, with nested orbits that do not interact much, and each level can be treated as a two-body problem. Binary and multiple stars make up about a third of the star systems in the [[Milky Way|Milky Way]], with two-thirds of stars being single. Examples of binary systems include [[Sirius|Sirius]], [[Procyon|Procyon]] and [[Cygnus X-1|Cygnus X-1]], which consists of a star and a [[Black hole|black hole]]. Star systems are smaller than open [[Star cluster|star clusters]], which typically have 100 to 1,000 stars.
+
+=== KEY: Starbucks_e486ae
+HEADWORD: Starbucks
+PERSON: no
+LINK TARGETS: Seattle | Wi-Fi
+ENTRY:
+American multinational coffeehouse chain headquartered in [[Seattle|Seattle]], Washington. It was founded in 1971 by Jerry Baldwin, Zev Siegl and Gordon Bowker at Seattle's Pike Place Market, initially as a coffee bean wholesaler. Under Howard Schultz, chief executive from 1986 to 2000, it was converted into a coffee shop serving espresso-based drinks and expanded aggressively. As of November 2022 it had 35,711 stores in 80 countries, making it the world's largest coffeehouse chain. Depending on the country, most locations offer [[Wi-Fi|free Wi-Fi]]. The company has been subject to multiple controversies over its business practices.
+
+=== KEY: Starburst_galaxy_c7d805
+HEADWORD: Starburst galaxy
+PERSON: no
+LINK TARGETS: Milky Way | Solar mass
+ENTRY:
+Galaxy undergoing an exceptionally high rate of star formation, compared with its long-term average or with most other galaxies. The [[Milky Way|Milky Way]] forms about 3 [[Solar mass|solar masses]] of stars per year, while starburst galaxies can experience rates of 100 solar masses per year or more. Because the gas is consumed so quickly, a starburst is typically a brief phase in a galaxy's evolution. The majority of starbursts are in a merger or close encounter with another galaxy. Starbursts are defined by a birthrate parameter of 3 or more, and they make up about 1% of star-forming galaxies in the local universe. Examples include M82 and the Antennae Galaxies (NGC 4038/NGC 4039).
+
+=== KEY: Starch_02d6c5
+HEADWORD: Starch
+PERSON: no
+LINK TARGETS: Beer | Carbohydrate | Cassava | Glucose | Glycogen | Maize | Whisky
+ENTRY:
+Glucose polymer produced by most green plants for energy storage. It is a [[Carbohydrate|carbohydrate]] of numerous [[Glucose|glucose]] units joined by glycosidic bonds, and the most common carbohydrate in human diets. Major sources include staple foods such as wheat, potatoes, [[Maize|maize]] (corn), rice and [[Cassava|cassava]]. Starch is a white, tasteless, odorless powder insoluble in cold water or alcohol. It consists of two molecules: the linear, helical amylose, usually 20–25% of the starch, and the branched amylopectin. Animals store a more highly branched version, [[Glycogen|glycogen]]. Industrially, starch is converted into sugars that are fermented into ethanol for [[Beer|beer]], [[Whisky|whisky]] and biofuel. Mixed with warm water, most starches form a paste used as a thickening or gluing agent and as the main adhesive in papermaking.
+
+=== KEY: Stardew_Valley_161f44
+HEADWORD: Stardew Valley
+PERSON: no
+LINK TARGETS: Crop | Farm | Microsoft Windows
+ENTRY:
+2016 farm life simulation video game developed by Eric "ConcernedApe" Barone. Players inherit their late grandfather's run-down [[Farm|farm]] and restore it by clearing land, growing seasonal [[Crop|crops]] and raising animals, while building relationships with townspeople. Barone developed the game alone over five years, inspired by the Harvest Moon series. The British studio Chucklefish offered to publish it halfway through development. Released for [[Microsoft Windows|Windows]] in February 2016, it was later ported to consoles and mobile devices. It had sold 50 million copies by February 2026.
+
+=== KEY: Starfish_61687d
+HEADWORD: Starfish
+PERSON: no
+LINK TARGETS: Coral | Echinoderm | Ordovician
+ENTRY:
+Marine [[Echinoderm|echinoderm]] of the class Asteroidea, usually with five arms radiating from a central disc. Starfish, also called sea stars, are found in all the world's oceans. About 1,900 species live on the seabed, from intertidal zones to abyssal depths of 6,000 m (20,000 ft). They have tube feet operated by a hydraulic system and a mouth at the center of the lower surface. Starfish are opportunistic feeders, mostly predators of benthic invertebrates, and most can regenerate damaged parts or lost arms. Some species, such as the ochre sea star (*Pisaster ochraceus*), are keystone species with an outsize impact on their environment. The crown-of-thorns starfish (*Acanthaster planci*) is a voracious predator of [[Coral|coral]] across the Indo-Pacific. The fossil record reaches back to the [[Ordovician]] period, about 450 million years ago, but is sparse because starfish tend to disintegrate after death.
+
+=== KEY: Stargate_685896
+HEADWORD: Stargate
+PERSON: no
+LINK TARGETS: Metro-Goldwyn-Mayer | Wormhole
+ENTRY:
+American military science fiction franchise, owned by Amazon MGM Studios. It began with the 1994 film *Stargate*, directed by Roland Emmerich, which was released by [[Metro-Goldwyn-Mayer]]. Its premise is a ring-shaped device, the Stargate, that allows travel across vast distances via [[Wormhole|wormholes]]. The television series *Stargate SG-1* (1997) was joined by *Stargate Atlantis* (2004) and *Stargate Universe* (2009), which ended in 2011. Related books, video games, comics and direct-to-DVD films extend the story. The main story arc ran for more than 15 years, including 18 seasons (364 episodes).
+
+=== KEY: Starling_89ab81
+HEADWORD: Starling
+PERSON: no
+LINK TARGETS: Hawaii | Invasive species | New Zealand | North America | Passerine
+ENTRY:
+Family of small to medium-sized [[Passerine|passerine]] birds, noted for iridescent plumage, vocal mimicry and elaborate flock displays called murmurations. The family Sturnidae is named for the genus *Sturnus*, from the Latin word *sturnus* for starling, and contains 128 species in 36 genera. Many Asian species, particularly the larger ones, are called mynas, and many African species are known as glossy starlings. Starlings are native to Europe, Asia, Africa, northern Australia and the islands of the tropical Pacific. Several European and Asian species have been introduced to [[North America]], [[Hawaii]] and [[New Zealand]], where they compete with native birds and are considered [[Invasive species|invasive]]. Most species nest in holes and lay blue or white eggs. Starlings can embed sounds from their surroundings, including car alarms and human speech, into their calls.
+
+=== KEY: State_of_matter_d6c219
+HEADWORD: State of matter
+PERSON: no
+LINK TARGETS: Bose–Einstein condensate | Degenerate matter | Ferromagnetism | Gas | Ice | Liquid | Plasma (physics) | Solid
+ENTRY:
+Distinct form in which matter can exist, differing in how component particles are arranged and behave collectively. Four states are observable in everyday life: [[Solid|solid]], [[Liquid|liquid]], [[Gas|gas]], and [[Plasma (physics)|plasma]]. In a solid, particles are tightly packed and can only vibrate, giving a definite shape and volume. In a liquid, particles stay close but move past one another, so volume is fixed while shape follows the container. In a gas, particles move freely, filling the container. Plasma resembles a gas but contains ions and free electrons that move independently and respond to electric and magnetic fields; a gas becomes plasma through a large voltage difference or very high temperatures.
+
+Changes between states include melting, freezing, vaporization, condensation, sublimation (solid to gas), and deposition (gas to solid). A liquid's volume is usually greater than that of the corresponding solid, the best-known exception being water, H₂O. A supercritical fluid, above both critical temperature and pressure, has gas-like properties but high density; supercritical carbon dioxide extracts caffeine from coffee.
+
+The term phase is sometimes used as a synonym, but one state can include several phases. Iron has a body-centered cubic structure below 912 °C (1,674 °F) and a face-centered cubic structure between 912 and 1,394 °C (2,541 °F). [[Ice]] has fifteen known solid phases.
+
+Many further states exist. Liquid crystals show properties of both solids and liquids, and magnetic states such as [[Ferromagnetism|ferromagnetism]] depend on the alignment of spins rather than atomic positions. Extreme conditions produce [[Bose–Einstein condensate|Bose–Einstein condensates]] and fermionic condensates (extreme cold), [[Degenerate matter|neutron-degenerate matter]] (extreme density), and quark–gluon plasma (extremely high energy).
+
+=== KEY: State_polity_cc58a5
+HEADWORD: State
+PERSON: no
+LINK TARGETS: Federation | Government | Haudenosaunee | Louis XIV | Max Weber | Nation | Sovereign state | Unitary state
+ENTRY:
+Political entity that rules and governs a society and population within a definite territory. Governments act as the apparatus or instrument of states, and the term is often used as a metonym for them. A state is widely defined by its legitimate monopoly on the use of force. It may be a [[Unitary state|unitary state]] or a [[Federation|federal]] union; in the latter, the term "state" is sometimes applied to the federated polities, which may hold some attributes of a sovereign state but lack the same capacity to act internationally. A [[Sovereign state|sovereign state]] has sovereignty, though any group's claim to statehood is limited in practice by recognition from other states. Satellite states hold de facto sovereignty but are often indirectly controlled by another state.
+
+For most of prehistory people lived in stateless societies, and the earliest states arose about 5,500 years ago. Societies became more stratified and developed institutions leading to centralized governments, gaining state capacity alongside the growth of cities, often spurred by insecurity and territorial competition. States have rested on varied justifications, such as divine right and the social contract. Today the modern nation state is the predominant form. Charles Tilly saw states in the archaeological record as of 6000 BC, appearing in Europe around 990 and becoming prominent after 1490.
+
+The word derives from Latin *status*, "condition, circumstances", and entered Middle English c. 1200. Machiavelli's early 16th-century works helped popularize its near-modern sense. The expression "L'État, c'est moi", attributed to [[Louis XIV]] but probably apocryphal, is recorded in the late 18th century.
+
+There is no academic consensus on the definition. The most common is that of [[Max Weber]], who described the state as a compulsory political organization with a centralized government that claims a monopoly of the legitimate use of physical force within a territory (1919). Walter Scheidel identifies common elements in centralized institutions that impose rules by force over a territorially bounded population, a distinction between rulers and ruled, and some autonomy and stability. The 1933 Montevideo Convention lists a permanent population, defined territory, government, and capacity for foreign relations. Contractarian views hold that states form because cooperation benefits everyone; predatory views stress the mismatch between the interests of rulers and people, and Tilly likened states to organized extortion that sells protection from itself.
+
+A state is distinct from a [[Nation|nation]], defined by identity and cultural or historical factors; from a [[Government|government]], which is authorized to act on the state's behalf; and from society. Stateless societies, such as the [[Haudenosaunee]] Confederacy, can exist. The degree of governance determines whether a state is considered failed. Controversies concern the extent of state intervention in individual liberties.
+
+=== KEY: State_religion_1bcbd4
+HEADWORD: State religion
+PERSON: no
+LINK TARGETS: Church of England | Henry VIII | Iran | Saudi Arabia | Theocracy
+ENTRY:
+Religion or creed endorsed by a sovereign state. A state with an official religion, also called a confessional state, is not necessarily a [[Theocracy|theocracy]]. Official religions have existed in almost all cultures throughout human history, reaching into the Ancient Near East and prehistory. They generally enjoy more rights and fewer restrictions than other faiths. The degree of state backing varies, from mere endorsement with freedom for other faiths to prohibiting competing bodies and persecuting other sects. In England, [[Henry VIII]] broke with Rome in 1534 and was declared Supreme Head of the [[Church of England]]. In contemporary societies, the imposition of an official religion ranges from high in [[Saudi Arabia]] and [[Iran]] to none at all in Greenland, Denmark, England, Iceland and Greece.
+
+=== KEY: States_of_Germany_5b1bcc
+HEADWORD: States of Germany
+PERSON: no
+LINK TARGETS: Baden-Württemberg | Bavaria | Berlin | City-state | Hamburg | Saarland | Saxony | Thuringia
+ENTRY:
+First-level administrative subdivisions of Germany, known in German as *Länder*. The sixteen states are partly sovereign. Thirteen are area-states, in which counties and county-level cities have their own administration. [[Berlin]] and [[Hamburg]] are [[City-state|city-states]], and Bremen is a mixture of a city-state and an area-state. [[Bavaria]], [[Saxony]] and [[Thuringia]] call themselves *Freistaat* ("free state"), a stylistic title with no legal significance. In 1952, Baden, Württemberg-Baden and Württemberg-Hohenzollern merged into [[Baden-Württemberg]]. In 1957, the Saar Protectorate joined as [[Saarland]]. German reunification in 1990 added five eastern states, and East and West Berlin reunited as a city-state.
+
+=== KEY: Static_electricity_79ea30
+HEADWORD: Static electricity
+PERSON: no
+LINK TARGETS: Electric current
+ENTRY:
+Imbalance of electric charges within or on the surface of a material. The charge remains until it moves away as an [[Electric current|electric current]] or by electrical discharge. The word "static" distinguishes it from current electricity, in which charge flows through a conductor. Electrons may move between two materials on contact or sliding, leaving one positively charged and the other negatively charged; this triboelectric effect is the main cause of everyday static. A static shock is an electrostatic discharge, the neutralization of a charge when it reaches a conductor or an oppositely charged region.
+
+=== KEY: Statics_4a8111
+HEADWORD: Statics
+PERSON: no
+LINK TARGETS: Archimedes | Classical mechanics | Force | Torque
+ENTRY:
+Branch of [[Classical mechanics|classical mechanics]] concerned with [[Force|forces]] and [[Torque|torques]] acting on systems in equilibrium. Statics analyzes systems that do not accelerate: they are either at rest or their center of mass moves at constant velocity. Zero acceleration means the total force is zero, and the summation of moments, which equals the moment of inertia times angular acceleration, is also zero. Together, these two "conditions for equilibrium" can be used to solve for unknown quantities acting on a system. A force is either a push or a pull, with magnitude, direction and point of application. The moment of a force, also called torque, equals the force multiplied by the perpendicular distance from the axis to its line of action. [[Archimedes]] did pioneering work in statics.
+
+=== KEY: Station_wagon_758212
+HEADWORD: Station wagon
+PERSON: no
+LINK TARGETS: SUV | Sedan (automobile) | Train station
+ENTRY:
+Automobile body style, a variant of the [[Sedan (automobile)|sedan]] with its roof extended rearward over a shared passenger and cargo area. Access is at the back through a third or fifth door, or tailgate, instead of a trunk lid. Fold-down rear seats let the interior favor passengers or cargo. Early wagons carried people and luggage to and from a [[Train station|train station]]; the style is called a "wagon" in the United States and an "estate car" in the United Kingdom. Demand has faded since the 2010s in favor of [[SUV]] and crossover designs, especially in the United States and Canada.
+
+=== KEY: Statistical_hypothesis_test_d3b746
+HEADWORD: Statistical hypothesis test
+PERSON: no
+LINK TARGETS: P-value
+ENTRY:
+Method of statistical inference for deciding whether data provide sufficient evidence to reject a particular hypothesis. The test typically computes a test statistic, then decides by comparing it with a critical value or by evaluating the [[P-value|p-value]] computed from it. The null hypothesis (H₀), usually a statement of "no effect" or "no difference," is tested against the alternative hypothesis (H₁). If the p-value is less than or equal to the significance level (α), the null hypothesis is rejected, but the test does not conclude that it is false. Conclusions are never certain. A type I error rejects a true null hypothesis, with probability α, while a type II error accepts it when the alternative is true, with probability β. The power of a test, 1−β, measures its ability to detect a true alternative. Roughly 100 specialized statistical tests are in use.
+
+=== KEY: Statistical_mechanics_e68823
+HEADWORD: Statistical mechanics
+PERSON: no
+LINK TARGETS: James Clerk Maxwell | Josiah Willard Gibbs | Ludwig Boltzmann | Physics | Thermodynamics
+ENTRY:
+Branch of [[Physics|physics]] that applies statistical methods and probability theory to large assemblies of microscopic entities. Also called statistical physics or statistical thermodynamics, it aims to clarify the properties of matter in aggregate, in terms of physical laws governing atomic motion. It arose from classical [[Thermodynamics|thermodynamics]], explaining properties such as temperature, pressure and heat capacity in terms of microscopic parameters described by probability distributions. Its applications extend to chemical reactions, neuroscience, computer science, information theory and sociology. Non-equilibrium statistical mechanics models the speed of irreversible processes driven by imbalances, such as flows of particles and heat. The field is generally credited to [[Ludwig Boltzmann]], [[James Clerk Maxwell]] and [[Josiah Willard Gibbs]], and Gibbs coined the name in 1884.
+
+=== KEY: Statistical_population_1bbc88
+HEADWORD: Statistical population
+PERSON: no
+LINK TARGETS: Expected value | Law of large numbers | Milky Way | Probability distribution | Sampling (statistics)
+ENTRY:
+Set of similar items of interest for some question or experiment. A statistical population can be a group of existing objects, such as all stars within the [[Milky Way]], or a hypothetical, potentially infinite group, such as all possible hands in a game of poker. In statistical inference, the population is modeled by a [[Probability distribution|probability distribution]] with unknown parameters. By analyzing a [[Sampling (statistics)|sample]], these parameters can be estimated using appropriate sample statistics. The population mean is the arithmetic mean of a numerical property across the entire population, or the [[Expected value|expected value]] when the property is a random variable. Not every distribution has a well-defined mean; the Cauchy distribution is an example. The [[Law of large numbers|law of large numbers]] states that the larger the sample, the more likely its mean is to be close to the population mean.
+
+=== KEY: Statistics_c33e40
+HEADWORD: Statistics
+PERSON: no
+LINK TARGETS: Census | Karl Pearson | Observational study | Probability theory | Ronald Fisher | Sampling (statistics) | Standard deviation | Statistical population
+ENTRY:
+Discipline concerned with the collection, organization, analysis, interpretation, and presentation of data. A study usually begins with a [[Statistical population|statistical population]] or a statistical model, such as all people living in a country or every atom in a crystal. Statistics covers every aspect of data, including the design of surveys and experiments, and is closely related to mathematics, physics, chemistry, and geography.
+
+When [[Census|census]] data covering every member of a population cannot be collected, statisticians use experiment designs and survey samples. Random [[Sampling (statistics)|sampling]] allows conclusions to be extended from the sample to the whole population. An experimental study measures a system, manipulates it, and measures again, whereas an [[Observational study|observational study]] involves no manipulation.
+
+Two main methods are used. Descriptive statistics summarize a sample with indexes such as the mean or [[Standard deviation|standard deviation]], describing central tendency and dispersion. Inferential statistics draw conclusions from data subject to random variation, using the framework of [[Probability theory|probability theory]]. Probability deduces results for samples from a given theory, while statistics induces statements about a population from a data set. A standard procedure proposes a hypothesis against a null hypothesis of no relationship and applies tests to the data. Two kinds of error are recognized: Type I (rejecting a true null hypothesis, a false positive) and Type II (failing to reject a false one, a false negative). Measurement is also prone to random error (noise), systematic error (bias), and blunders, and missing data or censoring can bias estimates. In the Mathematics Subject Classification, statistics is class 62-XX.
+
+The English word comes from German *Statistik*, originally "description of a state, a country", ultimately from Latin *status*. Gottfried Achenwall coined the German term; it entered English in 1770 for the study of political arrangements and gained its modern meaning in the 1790s in the works of John Sinclair. Statistics emerged in the 17th century as "political arithmetic", with John Graunt analyzing demographic data in London. [[Karl Pearson]] advanced the study of correlation and [[Ronald Fisher]] experimental design and significance testing in the 20th century. Applications now span public health, business, government policy, and the analysis of large datasets, where concerns include bias in algorithms.
+
+=== KEY: Statue_of_Liberty_6d765e
+HEADWORD: Statue of Liberty
+PERSON: no
+LINK TARGETS: Copper | Grover Cleveland | Gustave Eiffel | Joseph Pulitzer
+ENTRY:
+Colossal neoclassical sculpture of a robed, crowned woman on Liberty Island in New York Harbor. Officially titled *Liberty Enlightening the World*, it depicts Libertas, the Roman goddess of liberty, holding a torch and a tablet inscribed with the date of the U.S. Declaration of Independence. Designed by French sculptor Frédéric Auguste Bartholdi, its metal framework was built by [[Gustave Eiffel]]. The [[Copper|copper]]-clad statue was a gift from the people of France to the United States and was dedicated on October 28, 1886, by President [[Grover Cleveland]]. Édouard de Laboulaye proposed the monument in 1865 to commemorate the centennial of U.S. independence. Fundraising in America was driven by publisher [[Joseph Pulitzer]] of the *New York World*. The statue became a symbol of welcome to immigrants arriving by sea. Since 1933 it has been maintained by the National Park Service.
+
+=== KEY: Statue_of_Unity_39c586
+HEADWORD: Statue of Unity
+PERSON: no
+LINK TARGETS: Narendra Modi | Richter scale | Vallabhbhai Patel
+ENTRY:
+World's tallest statue, 182 meters (597 feet) high, depicting Indian independence leader [[Vallabhbhai Patel|Sardar Patel]]. It stands near Kevadia, Gujarat, on the Narmada River, and was designed by sculptor Ram V. Sutar. Construction began in October 2013 and cost ₹27 billion (US$422 million). [[Narendra Modi]] inaugurated it on 31 October 2018, on what would have been Patel's 143rd birthday. The statue is built to withstand winds of up to 180 kilometers per hour and earthquakes measuring 6.5 on the [[Richter scale]].
+
+=== KEY: Statute_00df5e
+HEADWORD: Statute
+PERSON: no
+LINK TARGETS: Common law | Constitution | International Court of Justice | Legislature
+ENTRY:
+Law or formal written enactment of a [[Legislature|legislature]]. Statutes typically declare, command or prohibit something. They are distinguished from [[Common law|common law]], which is unwritten, and from secondary legislation, or regulations, issued by an executive body under authority granted by a statute. Depending on the legal system, a statute may be called an "act." The word appears in English as early as the 14th century, derived from Old French *statut*. Many countries organize statutes into topical codes, which are amended as new statutes add, amend or repeal sections. In many nations, statutory law is subordinate to [[Constitution|constitutional law]]. The term also covers treaties establishing institutions, such as the Statute of the [[International Court of Justice]]. In Spain, an autonomy statute resembles a constitution and has the rank of organic law.
+
+=== KEY: Statutory_interpretation_d22534
+HEADWORD: Statutory interpretation
+PERSON: no
+LINK TARGETS: Common law
+ENTRY:
+Process by which courts interpret and apply legislation. Some interpretation is often necessary, because a statute's ambiguous words must be resolved by the judge. Judges use traditional canons of construction, legislative history and purpose. In [[Common law|common law]] jurisdictions, the same rules may apply to delegated legislation such as administrative agency regulations. English courts developed three main rules, the mischief rule, the literal rule and the golden rule, all aimed at the "intention of Parliament." Courts also presume that statutes do not change the common law, remove individual liberty or property, or apply retrospectively. Textualism prioritizes the ordinary public meaning of words, while purposivism infers meaning from a statute's objectives. The two approaches remain contested, particularly over the use of legislative history.
+
+=== KEY: Statutory_rape_411cb7
+HEADWORD: Statutory rape
+PERSON: no
+LINK TARGETS: Age of consent
+ENTRY:
+Sexual activity with a person below the [[Age of consent|age of consent]]. The term usually refers to adults engaging in sexual contact with minors. Overt force or threat is usually absent, because the law presumes coercion: a minor or mentally disabled adult is incapable of consent. In many jurisdictions the age of consent means mental or functional age, so a victim may be of any chronological age. In Italy the age of consent is 14, with a "Romeo and Juliet" rule for a one-year age difference, rising to 16 where the older person has authority, such as a teacher or doctor.
+
+=== KEY: Stealth_technology_910866
+HEADWORD: Stealth technology
+PERSON: no
+LINK TARGETS: Camouflage | Radar | Sonar | Soviet Union | Sun Tzu
+ENTRY:
+Military techniques that make personnel, aircraft, ships and vehicles less detectable to [[Radar|radar]], infrared, [[Sonar|sonar]] and other sensors. Also termed low observable technology, stealth is a sub-discipline of military tactics that corresponds to multispectral [[Camouflage|camouflage]]. Development of modern stealth in the United States began in 1958, after attempts to prevent [[Soviet Union|Soviet]] radar tracking of U-2 spy planes had failed. Designers shaped aircraft to redirect radar waves and applied radiation-absorbent material, producing the Northrop Grumman B-2 Spirit "Stealth Bomber." Methods of visual concealment were documented by [[Sun Tzu]] in *The Art of War* in the 5th century BC. In 1916 the British modified an airship for night reconnaissance, but its silent, dark design produced little useful intelligence. The concept of stealth is to operate or hide from external observation, and the degree of stealth in a design is chosen according to the projected threats of detection.
+
+=== KEY: Steam_engine_5e1f28
+HEADWORD: Steam engine
+PERSON: no
+LINK TARGETS: Electric motor | Hero of Alexandria | Industrial Revolution | Internal combustion engine | James Watt | Steam locomotive | Steam turbine
+ENTRY:
+Heat engine that performs mechanical work using steam as its working fluid. Steam pressure pushes a piston back and forth inside a cylinder, and a connecting rod and crank convert this force into rotation. They are external combustion engines. The term normally means reciprocating engines, though some authorities also apply it to the [[Steam turbine|steam turbine]] and to devices such as the aeolipile of [[Hero of Alexandria]], known in the first century AD. It can also mean a whole plant, such as a [[Steam locomotive|steam locomotive]].
+
+In 1606 Jerónimo de Ayanz y Beaumont patented the first steam-powered water pump for draining mines. Thomas Savery built the first commercially used steam device, a pump, in 1698. The first commercially successful engine able to transmit continuous power to a machine was Thomas Newcomen's atmospheric engine, developed around 1712. In 1764 [[James Watt]] greatly improved fuel efficiency by removing spent steam to a separate vessel for condensation.
+
+By the 19th century stationary steam engines powered the factories of the [[Industrial Revolution]], paddle steamers replaced sailing ships, and steam locomotives ran on the railways. Reciprocating piston engines were the dominant source of power until the early 20th century. A Rankine cycle efficiency of 91% and a combined thermal efficiency of 31% were demonstrated and published in 1921 and 1928.
+
+Advances in the [[Electric motor|electric motor]] and the [[Internal combustion engine|internal combustion engine]] gradually replaced steam engines in commercial use, and steam turbines supplanted them in power generation. Large reciprocating piston steam engines are still manufactured in Germany.
+
+=== KEY: Steam_locomotive_b87ea4
+HEADWORD: Steam locomotive
+PERSON: no
+LINK TARGETS: Coal | Coke (fuel) | George Stephenson | Steam engine
+ENTRY:
+Locomotive that moves itself and other vehicles by the expansion of [[Steam engine|steam]], also called an iron horse. It burns [[Coal|coal]], [[Coke (fuel)|coke]], oil or, rarely, wood to heat water in its boiler, where the water's volume increases 1,600 to 1,700 times. Richard Trevithick built the first locomotive known to have hauled a load over a distance, at Pen-y-darren in 1804. *Locomotion No. 1*, built by [[George Stephenson]] and his son Robert, hauled passengers on a public railway, the Stockton and Darlington Railway, in 1825. Steam locomotives were superseded by electric and diesel locomotives from the early 1900s, and most were retired by the 1980s, though several continue on tourist and heritage lines. A British speed record of 126 miles per hour (203 kilometers per hour), still unbroken, was set by LNER Class A4 4468 *Mallard*.
+
+=== KEY: Steam_service_665d0c
+HEADWORD: Steam
+PERSON: no
+LINK TARGETS: API | Linux | MacOS | Valve Corporation
+ENTRY:
+Digital distribution platform for PC games, developed by [[Valve Corporation|Valve]]. Launched as a software client in September 2003 to update Valve's games automatically, it expanded to third-party titles in late 2005. Features include cloud storage, direct messaging and community forums. Steamworks, an [[API|application programming interface]] released in 2008, lets developers integrate Steam's functions, including digital rights management. The platform was ported to [[MacOS|macOS]] in 2010 and to [[Linux]] in 2013. As of 2013 it held an estimated 75% of the PC game distribution market; by 2021 it offered over 34,000 games and over 132 million monthly active users.
+
+=== KEY: Steam_turbine_671b83
+HEADWORD: Steam turbine
+PERSON: no
+LINK TARGETS: Electric generator | Power station
+ENTRY:
+Heat engine that extracts thermal energy from pressurized steam to do mechanical work through a rotating output shaft. Its modern form was invented by Sir Charles Parsons in 1884, and it revolutionized marine propulsion. Much of its efficiency comes from multiple stages in the expansion of steam. Because it generates rotary motion, it can drive an [[Electric generator|electric generator]], forming the core of thermal [[Power station|power stations]] fueled by fossil fuels, nuclear fuels, geothermal or solar energy. About 42% of all U.S. electricity generation in 2022 came from steam turbines. The largest ever built is the 1,770 MW Arabelle, two units of which will be installed at Hinkley Point C Nuclear Power Station. Technical challenges include rotor imbalance, vibration and bearing wear.
+
+=== KEY: Steaming_260e84
+HEADWORD: Steaming
+PERSON: no
+LINK TARGETS: Boiling | Vitamin C | Yellow River
+ENTRY:
+Cooking method in which food is fully immersed in steam with no air present, so that the steam condenses on the food. It is often done in a food steamer, or in a wok. Some of the world's earliest steam cookers, made of stoneware, have been found in China's [[Yellow River]] valley, dating back to as early as 5,000 BCE. Steaming is considered a healthy technique and can be far faster and more energy-efficient than full immersion in [[Boiling|boiling water]], because it heats much less water. A 2007 USDA comparison found that steaming reduces [[Vitamin C|vitamin C]] by 15%, and boiling reduces it by 25%. Bamboo steamers take longer to heat up but absorb excess moisture.
+
+=== KEY: Steamship_112b4a
+HEADWORD: Steamship
+PERSON: no
+LINK TARGETS: Globalization | Isambard Kingdom Brunel | Ocean liner
+ENTRY:
+Steam-powered vessel, typically ocean-faring, propelled by steam engines that turn propellers or paddlewheels. Steamships were preceded by smaller steamboats; the first working steamboat and paddle steamer, the *Pyroscaphe*, dates from 1783. Paddlewheels were standard on early vessels, but their performance fell when added weight submerged them. The change to the screw propeller made ocean-going steamers viable. The first steamship purpose-built for regular trans-Atlantic crossings, the side-wheel paddle steamer *Great Western*, was built by [[Isambard Kingdom Brunel]] in 1838 and inaugurated the era of the trans-Atlantic [[Ocean liner|ocean liner]]. In 1839, *Archimedes* became the first screw propeller-driven steamship for open-water seagoing. Because steamships depended less on wind patterns, new trade routes opened, and the steamship has been described as a major driver of the first wave of [[Globalization|trade globalization]] (1870–1913).
+
+=== KEY: Steel_466811
+HEADWORD: Steel
+PERSON: no
+LINK TARGETS: Alloy | Cast iron | China | Chromium | Iron | Pig iron | Stainless steel | Wrought iron
+ENTRY:
+Alloy of iron and carbon with improved mechanical properties compared with pure iron. Its high strength and low raw material cost make it one of the most commonly manufactured materials. It is used in construction, bridges, tools, ships, trains, cars, machines, appliances, and weapons.
+
+Steel is an [[Alloy|alloy]] of [[Iron|iron]] and carbon, and often other elements, with a carbon content up to 2.14% by weight. Plain iron–carbon alloys above about 2.1% carbon are [[Cast iron|cast iron]], which is not malleable even when hot but casts well. [[Wrought iron]], now largely obsolete, contains little carbon but large amounts of slag. Alloy steels contain deliberately added elements such as manganese, nickel, molybdenum, vanadium, and tungsten. [[Stainless steel|Stainless steels]] typically contain 18% [[Chromium|chromium]] for corrosion resistance, and galvanized steel is coated in zinc.
+
+When iron is smelted from ore with coke or charcoal, the result is [[Pig iron|pig iron]], rich in carbon. Refining injects oxygen into the molten iron to remove excess carbon. Bloomery furnaces produced steel for thousands of years, but large-scale industrial use began after the blast furnace and crucible steel were introduced in the 17th century. The Bessemer process in England in the mid-19th century began an era of mass-produced steel, followed by the open-hearth furnace and basic oxygen steelmaking. Mild steel replaced wrought iron. American production centered on Pittsburgh, Bethlehem, Pennsylvania, and Cleveland, Ohio until the late 20th century.
+
+More than 1.6 billion tons are produced annually, and [[China]] produced 54% of the world's steel in 2023. The industry contributes 8% of global emissions, but steel is one of the most recycled materials, with a global recycling rate of over 60%.
+
+=== KEY: Steelmaking_f007cc
+HEADWORD: Steelmaking
+PERSON: no
+LINK TARGETS: Pig iron | Steel
+ENTRY:
+Process of producing [[Steel|steel]] from iron ore and/or scrap. Steel is made from iron and carbon, with less than 1 percent carbon giving it strength. Impurities such as nitrogen, silicon, phosphorus and sulfur are removed, and alloying elements such as manganese, nickel, chromium and vanadium are added to produce different grades. Two major commercial processes are used. Basic oxygen steelmaking (BOS) uses liquid [[Pig iron|pig iron]] from a blast furnace and scrap steel as its main feed, while electric arc furnace (EAF) steelmaking uses scrap steel or direct reduced iron. Oxygen steelmaking has become more popular over time. Commercialized on a massive scale in the 1850s and 1860s by the Bessemer and Siemens-Martin processes, steelmaking is one of the most carbon-intensive industries. In 2020 it was responsible for 7% of energy sector greenhouse gas emissions.
+
+=== KEY: Steely_Dan_868616
+HEADWORD: Steely Dan
+PERSON: no
+LINK TARGETS: Blues | Jazz | Rock and Roll Hall of Fame
+ENTRY:
+American rock band formed in 1971 by Walter Becker and Donald Fagen in Annandale-on-Hudson, New York. Becker and Fagen stopped performing live by the end of 1974 and continued as a studio-only duo. Their music blended rock, [[Jazz|jazz]], Latin, R&B and [[Blues|blues]] with cryptic, irony-infused lyrics. Their top-selling album, *Aja*, came out in 1977. The band disbanded in 1981 and reunited in 1993. It was inducted into the [[Rock and Roll Hall of Fame]] in 2001 and has sold more than 40 million records. After Becker's death in 2017, Fagen remained the sole official member until 2024.
+
+=== KEY: Stefan_Banach_94043c
+HEADWORD: Banach, Stefan
+PERSON: yes
+LINK TARGETS: Functional analysis | Lviv
+ENTRY:
+Polish mathematician, one of the founders of modern [[Functional analysis|functional analysis]]. Banach was an original member of the [[Lviv|Lwów]] School of Mathematics. With Hugo Steinhaus, he established the Polish Mathematical Society in 1919 and later published the journal *Studia Mathematica*. His major work was the 1932 book *Théorie des opérations linéaires* (*Theory of Linear Operations*), the first monograph on the general theory of functional analysis. Concepts bearing his name include Banach spaces, Banach algebras, the Banach–Tarski paradox, the Hahn–Banach theorem and the Banach fixed-point theorem. He became a professor at the Lwów Polytechnic in 1922 and a member of the Polish Academy of Learning in 1924.
+
+=== KEY: Stefan_Boltzmann_law_a6642a
+HEADWORD: Stefan–Boltzmann law
+PERSON: no
+LINK TARGETS: Ludwig Boltzmann
+ENTRY:
+Physical law relating the thermal radiation of a black body to its temperature. States that the total energy radiated per unit surface area per unit time by a black body is directly proportional to the fourth power of its temperature. The constant of proportionality, σ, is the Stefan–Boltzmann constant. For other surfaces the radiant exitance is M = εσT⁴, where ε is the emissivity, generally between zero and one. Josef Stefan derived the relationship empirically, and [[Ludwig Boltzmann]] derived the law theoretically.
+
+=== KEY: Stefan_Du_an_a63833
+HEADWORD: Stefan Dušan
+PERSON: yes
+LINK TARGETS: Belgrade | Danube | Serbia | Skopje | UNESCO
+ENTRY:
+Serbian king (1331–1355) and emperor of the Serbs, Greeks, Bulgarians and Albanians (1346–1355). Also called Dušan the Mighty, he conquered a large part of Southeast Europe. Under him [[Serbia]] was the most powerful state in Southeast Europe, stretching from the [[Danube]] in the north to the Gulf of Corinth in the south, with its capital at [[Skopje]]. He enacted the constitution of the Serbian Empire, known as Dušan's Code, perhaps the most important literary work of medieval Serbia. He raised the Serbian Church from an archbishopric to a patriarchate and completed the Visoki Dečani Monastery, now a [[UNESCO]] site. He sought an alliance with Venice against the advancing Ottoman Turks, but after his death the Serbian Empire weakened and was divided into independent states. His remains were later moved to the Church of Saint Mark in [[Belgrade]].
+
+=== KEY: Steffi_Graf_216b2d
+HEADWORD: Graf, Steffi
+PERSON: yes
+LINK TARGETS: Andre Agassi | Grand Slam (tennis) | Monica Seles
+ENTRY:
+German former professional tennis player. She was ranked world No. 1 by the Women's Tennis Association for a record 377 weeks and won 22 major women's singles titles. She is the only player to have won each major singles tournament at least four times, a quadruple career [[Grand Slam (tennis)|Grand Slam]]. In 1988 she became the first tennis player to achieve the Golden Slam, winning all four major titles and the Olympic gold medal in the same calendar year. After injuries and the rise of rivals such as [[Monica Seles]], she won her 22nd and final major at the 1999 French Open and retired that year, aged 30. Her versatile game, built on a powerful forehand and baseline play, is credited with developing the style that dominates today's game. She has been married to [[Andre Agassi]] since 2001.
+
+=== KEY: Stegosaurus_56e331
+HEADWORD: Stegosaurus
+PERSON: no
+LINK TARGETS: Allosaurus | Diplodocus | Portugal
+ENTRY:
+Genus of extinct, four-legged, herbivorous armored dinosaurs from the Late Jurassic. Its name means "roof-lizard." It had kite-shaped upright plates along its back and spikes on its tail, and is one of the most recognizable kinds of dinosaurs. Fossils have been found in the western United States and in [[Portugal]], dating to between 155 and 145 million years ago, and fossils of over 80 individuals have been found. It lived alongside [[Diplodocus]] and [[Allosaurus]], which may have preyed on it. The spiked tail was most likely used for defense, while the plates may have been used mainly for display and secondarily for thermoregulation. The largest specimens of *Stegosaurus ungulatus* measured about 9 m (30 ft) long. Othniel Charles Marsh first identified its remains during the "Bone Wars."
+
+=== KEY: Stellar_black_hole_424c94
+HEADWORD: Stellar black hole
+PERSON: no
+LINK TARGETS: Angular momentum | Black hole | Gravitational wave | Solar mass | Supernova
+ENTRY:
+[[Black hole]] formed by the gravitational collapse of a star. Stellar black holes have masses ranging from about five to several tens of [[Solar mass|solar masses]]. They can be the remnants of [[Supernova|supernova]] explosions, although other formation mechanisms may operate. A black hole has only three fundamental properties: mass, electric charge and [[Angular momentum|angular momentum]], and the angular momentum of a stellar black hole comes from the star or objects that produced it. In close binary systems, matter transferred from a companion star heats up and radiates in X-rays, making the black hole observable. In September 2015 a rotating black hole of 62±4 solar masses was discovered through [[Gravitational wave|gravitational waves]] as it formed in the merger of two smaller black holes.
+
+=== KEY: Stellar_classification_d64fee
+HEADWORD: Stellar classification
+PERSON: no
+LINK TARGETS: Diffraction grating | Molecule | Prism (optics) | Roman numerals | Sun
+ENTRY:
+Scheme for grouping stars by the features of their spectra. Light from a star is split by a [[Prism (optics)|prism]] or [[Diffraction grating|diffraction grating]] into a spectrum whose lines show which chemical elements or [[Molecule|molecules]] are present; their strength mainly reflects the temperature of the photosphere. Most stars are classified by the Morgan–Keenan (MK) system, which uses the letters O, B, A, F, G, K and M from hottest to coolest, each subdivided by a digit from 0 (hottest) to 9 (coolest). Luminosity classes in [[Roman numerals]] distinguish giants from dwarfs, running from class 0 or Ia+ for hypergiants to class V for main-sequence stars. The [[Sun]] is classed G2V, indicating a main-sequence star with a surface temperature of about 5,800 K. The spectral class comes from the older Harvard system, which Annie Jump Cannon developed by simplifying an alphabetical scheme.
+
+=== KEY: Stellar_evolution_f58241
+HEADWORD: Stellar evolution
+PERSON: no
+LINK TARGETS: Black hole | Main sequence | Neutron star | Red giant | Sun | Supernova | White dwarf
+ENTRY:
+Process by which a star changes over the course of time. Depending on mass, a star's lifetime ranges from a few million years for the most massive to trillions of years for the least massive. Stars form from collapsing clouds of gas and dust, settle into a [[Main sequence|main-sequence]] state, and fuse hydrogen into helium in their cores. Stars like the [[Sun]] later swell into [[Red giant|red giants]], and when their fuel is exhausted their cores become [[White dwarf|white dwarfs]] while the outer layers are expelled as a planetary nebula. Stars with around ten or more times the mass of the Sun can explode as [[Supernova|supernovae]], leaving a [[Neutron star]] or a [[Black hole]]. Because most changes are too slow to observe in a single star, astrophysicists study many stars at different stages and simulate stellar structure with computer models.
+
+=== KEY: Stellar_kinematics_1c8c30
+HEADWORD: Stellar kinematics
+PERSON: no
+LINK TARGETS: Dark matter | Doppler effect | Galactic Center | Galaxy | Milky Way | Parallax | Supermassive black hole
+ENTRY:
+Study of the observed motions of stars through space. It measures stellar velocities in the [[Milky Way]] and its satellites, and the internal kinematics of more distant [[Galaxy|galaxies]]. The radial velocity of a star is measured from the shift of its spectrum caused by the [[Doppler effect]], while its proper motion must be found from a series of positional measurements against distant objects. Once distance is known, through means such as [[Parallax]], the space velocity can be computed relative to the local standard of rest. Measured velocities in the inner regions of galaxies provide evidence that many host [[Supermassive black hole|supermassive black holes]] at their centers, and velocities of globular clusters in galactic halos provide evidence for [[Dark matter]]. Hypervelocity stars escaping the Milky Way are interpreted as the result of encounters with the supermassive black hole at the [[Galactic Center]].
+
+=== KEY: Stellar_magnetic_field_26abe1
+HEADWORD: Stellar magnetic field
+PERSON: no
+LINK TARGETS: Plasma (physics) | Sun
+ENTRY:
+Magnetic field generated by the motion of conductive [[Plasma (physics)|plasma]] inside a star. Convection moves this plasma, and a localized field rises until it reaches the photosphere, creating starspots on the surface and related coronal loops. According to solar dynamo theory, the convective zone acts as a dynamo: circulation destroys the primordial field and generates a dipolar field, which differential rotation winds into toroidal flux ropes that emerge at the surface. The [[Sun]]'s major magnetic component reverses direction every 11 years, so the full period is about 22 years. Stellar fields are measured with the Zeeman effect, in which a magnetic field splits spectral lines into closely spaced lines and polarizes the light according to the field's orientation.
+
+=== KEY: Stellar_structure_0a6e07
+HEADWORD: Stellar structure
+PERSON: no
+LINK TARGETS: Convection | Hydrostatic equilibrium | Sun
+ENTRY:
+Model describing the internal structure of a star and predicting its luminosity, color and future evolution. Different classes and ages of stars have different internal structures, reflecting their composition and energy transport mechanisms. Heat moves outward mainly by [[Convection|convection]] and radiative transfer. Stars of 0.3–1.5 solar masses, including the [[Sun]], fuse hydrogen mainly through proton–proton chains, so their cores are radiative and their outer envelopes convective. In stars above about 1.5 solar masses the CNO cycle dominates, which makes the core convective and the envelope radiative. The lowest-mass main-sequence stars convect throughout. The simplest commonly used model assumes a steady, spherically symmetric star described by four first-order differential equations, including the condition of [[Hydrostatic equilibrium|hydrostatic equilibrium]].
+
+=== KEY: Steller_s_sea_cow_ab8d28
+HEADWORD: Steller's sea cow
+PERSON: no
+LINK TARGETS: Bering Sea | Kelp | Sirenia | Vitus Bering
+ENTRY:
+Extinct [[Sirenia|sirenian]] mammal (*Hydrodamalis gigas*). Described by Georg Wilhelm Steller in 1741, it was then found only around the Commander Islands in the [[Bering Sea]]. Steller first encountered it when shipwrecked on Bering Island during [[Vitus Bering]]'s Great Northern Expedition. This slow-moving, easily caught animal was hunted into extinction within 27 years of its discovery, for its meat, fat and hide. Adults are estimated to have weighed 8–10 t and reached lengths up to 9 m (30 ft). It fed mainly on [[Kelp|kelp]] and had no true teeth.
+
+=== KEY: Stem_cell_46076e
+HEADWORD: Stem cell
+PERSON: no
+LINK TARGETS: Cell (biology) | Embryo | Mammal
+ENTRY:
+Unspecialized [[Cell (biology)|cell]] that can change into various specialized cell types and proliferate. Stem cells can produce more of the same stem cell indefinitely, distinguishing them from progenitor cells, which cannot divide indefinitely. In [[Mammal|mammals]], the inner cell mass of the blastocyst, around days 5–14 of development, can differentiate into all of the body's cell types. Adult stem cells in niches such as bone marrow replenish rapidly lost cell types and are multipotent or unipotent. As of 2016, the only established medical therapy using stem cells was hematopoietic stem cell transplantation, first performed in 1958. Since 1998 human embryonic stem cells have been cultured, a process considered controversial because it typically destroys the [[Embryo]]. In 2006 a Japanese team led by Shinya Yamanaka converted mature body cells into induced pluripotent stem cells.
+
+=== KEY: Stendhal_16a55b
+HEADWORD: Stendhal
+PERSON: yes
+LINK TARGETS: Milan | Napoleon
+ENTRY:
+French writer, pen name of Marie-Henri Beyle. Best known for the novels *Le Rouge et le Noir* (1830) and *La Chartreuse de Parme* (1839), he is considered one of the early and foremost practitioners of realism, and was admired for his acute analysis of his characters' psychology. His work *De l'amour* on passionate love introduced the concept of crystallization; it was mostly ignored on publication but was later praised as one of the first modern attempts to understand love. He served as an assistant war commissioner in the administration of the Kingdom of Westphalia, a client state of [[Napoleon]], and took part in the 1812 invasion of Russia. He settled in [[Milan]] for several years, and in 1830 he was appointed French consul at Trieste and Civitavecchia.
+
+=== KEY: Stepfamily_8eb6a2
+HEADWORD: Stepfamily
+PERSON: no
+LINK TARGETS: Orphan
+ENTRY:
+Family in which at least one parent has children who are not biologically related to their spouse. Also called a bonus family, it is "simple" if only one partner has a prior child and the couple has none together, or "complex" or "blended" if both partners have children from other relationships. The prefix *step-* appears in Old English words for [[Orphan|orphan]] and first denoted a connection formed by a widowed parent's remarriage. A stepparent is the spouse of a child's parent who is not the biological parent. Stepparents often face significant difficulties with the biological parent of the same gender, who may fear being replaced in the child's mind. In most of the United States a stepparent is a "legal stranger" with no legal right to the child, however involved they are in the child's life.
+
+=== KEY: Stephen_B_thory_dd5fdd
+HEADWORD: Báthory, Stephen
+PERSON: yes
+LINK TARGETS: Gdańsk | Polish–Lithuanian Commonwealth | Transylvania
+ENTRY:
+Hungarian nobleman, king of Poland and grand duke of Lithuania (1576–1586). He was voivode of [[Transylvania]] from 1571 and defeated a rival, Gáspár Bekes, to establish his position there. In 1576 he married Queen Anna Jagiellon and was elected king of Poland, working closely with Chancellor Jan Zamoyski. His first years were devoted to establishing his power and quelling rebellions, most notably the [[Gdańsk]] rebellion. His signal achievement was a campaign in Livonia against Russia, which repulsed a Russian invasion of the [[Polish–Lithuanian Commonwealth]] borderlands and produced the favorable Peace of Jam Zapolski. He is considered one of the most successful kings in Polish and Lithuanian history, particularly in military affairs, although he reigned for only a decade.
+
+=== KEY: Stephen_Colbert_babb1d
+HEADWORD: Colbert, Stephen
+PERSON: yes
+LINK TARGETS: CBS | Grammy Awards
+ENTRY:
+American comedian, writer and television host. He hosted the Comedy Central news satire *The Colbert Report* from 2005 to 2014 and the [[CBS]] late-night show *The Late Show with Stephen Colbert* from 2015 to 2026. His satirical persona parodied conservative pundits and introduced the word truthiness, named Word of the Year by the American Dialect Society and Merriam-Webster. He has won eleven Primetime Emmy Awards, two [[Grammy Awards]] and three Peabody Awards. In 2011 he started the satirical Colbert Super PAC, which was credited with raising awareness of campaign finance issues.
+
+=== KEY: Stephen_Curry_487526
+HEADWORD: Curry, Stephen
+PERSON: yes
+LINK TARGETS: Basketball | National Basketball Association
+ENTRY:
+American basketball player for the Golden State Warriors. Widely regarded as the greatest shooter in [[Basketball|basketball]] history, he is credited with popularizing the three-point shot. He won four [[National Basketball Association|NBA]] championships and two league MVP awards, and in 2022 became the NBA's all-time leader in three-pointers made. He set the NCAA single-season record for three-pointers made (162) as a sophomore at Davidson College. He also won two FIBA World Cup gold medals and a gold medal at the 2024 Summer Olympics with the United States national team.
+
+=== KEY: Stephen_Fry_810b9c
+HEADWORD: Fry, Stephen
+PERSON: yes
+LINK TARGETS: Harry Potter | Hugh Laurie | Oscar Wilde
+ENTRY:
+English actor, comedian and writer. He began on the sketch series *Alfresco* and the sitcom *Blackadder* before forming the comedy duo Fry and Laurie with [[Hugh Laurie]]. He hosted the panel show *QI* from 2003 to 2016 and was nominated for a Golden Globe for playing [[Oscar Wilde]] in *Wilde* (1997). He has written four novels and three autobiographies, and narrated the audiobooks of all seven [[Harry Potter]] novels. He has been president of the mental health charity Mind since 2011 and was knighted in 2025 for services to mental health awareness, the environment and charity.
+
+=== KEY: Stephen_Hawking_4e43bb
+HEADWORD: Hawking, Stephen
+PERSON: yes
+LINK TARGETS: Black hole | General relativity | Hawking radiation | Quantum mechanics | University of Cambridge
+ENTRY:
+English theoretical physicist and cosmologist. He collaborated with Roger Penrose on singularity theorems in [[General relativity|general relativity]] and predicted that [[Black hole|black holes]] emit radiation, now called [[Hawking radiation]]. Initially controversial, the prediction was widely accepted as a major breakthrough by the late 1970s. He was the first to set out a theory of cosmology combining general relativity and [[Quantum mechanics|quantum mechanics]]. Diagnosed with motor neurone disease in 1963, he lost the use of his speech and later communicated through a speech-generating device, eventually using a single cheek muscle. He was Lucasian Professor of Mathematics at the [[University of Cambridge|University of Cambridge]] from 1979 to 2009. His book *A Brief History of Time* appeared on the *Sunday Times* bestseller list for a record 237 weeks.
+
+=== KEY: Stephen_I_of_Hungary_097f1e
+HEADWORD: Stephen I of Hungary
+PERSON: yes
+LINK TARGETS: Constantinople | Western Europe
+ENTRY:
+First king of Hungary (1000 or 1001–1038) and Catholic saint. Born Vajk, he succeeded his father as grand prince in 997 and defeated his relative Koppány, who had large numbers of pagan warriors behind him, with the help of foreign knights. He was crowned with a crown sent by Pope Sylvester II. In a series of wars he unified the Carpathian Basin, and he forced the invading troops of Conrad II, Holy Roman Emperor, to withdraw in 1030. He established at least one archbishopric and six bishoprics, and organized local government into counties run by royal officials. Hungary enjoyed lasting peace under his rule and became a preferred route for pilgrims and merchants between [[Western Europe]] and [[Constantinople]]. He was canonized in 1083, and his feast day, celebrated on 20 August, is a public holiday known as State Foundation Day.
+
+=== KEY: Stephen_Jay_Gould_5cab8f
+HEADWORD: Gould, Stephen Jay
+PERSON: yes
+LINK TARGETS: American Museum of Natural History | Evolutionary psychology | Harvard University | Natural selection | Paleontology
+ENTRY:
+American [[Paleontology|paleontologist]], evolutionary biologist and historian of science. With Niles Eldredge he developed the theory of punctuated equilibrium in 1972, holding that most evolution consists of long periods of stability interrupted by swift bursts of branching speciation, in contrast to phyletic gradualism. He taught mostly at [[Harvard University]] and worked at the [[American Museum of Natural History]] in New York. He opposed the overemphasis on [[Natural selection|natural selection]] and criticized biological determinism in sociobiology and [[Evolutionary psychology|evolutionary psychology]]. As a public advocate for science, he campaigned against creationism and argued that science and religion are distinct fields, or "non-overlapping magisteria." His essays in *Natural History* magazine made him widely known, and in 2000 the U.S. Library of Congress named him a "Living Legend."
+
+=== KEY: Stephen_King_9d0f1b
+HEADWORD: King, Stephen
+PERSON: yes
+LINK TARGETS: Fantasy | Horror fiction
+ENTRY:
+American author of [[Horror fiction|horror]], dubbed the "King of Horror." His debut, *Carrie* (1974), established him in horror, and *Different Seasons* (1982), a collection of four novellas, was his first major departure from the genre. He has written approximately 200 short stories and has also explored suspense, crime, science fiction, [[Fantasy|fantasy]] and mystery. Adaptations of his fiction include *The Shining* (1980), *Stand by Me* (1986), *Misery* (1990), *The Shawshank Redemption* (1994) and *The Green Mile* (1999). He has also published as Richard Bachman and co-written works with Peter Straub and his sons Joe Hill and Owen King. His nonfiction includes *Danse Macabre* (1981) and *On Writing: A Memoir of the Craft* (2000). He received the 2003 Medal for Distinguished Contribution to American Letters and the 2014 National Medal of Arts.
+
+=== KEY: Stephen_Sondheim_99ac03
+HEADWORD: Sondheim, Stephen
+PERSON: yes
+LINK TARGETS: Grammy Awards | Theatre | West Side Story
+ENTRY:
+American composer and lyricist of musical [[Theatre|theater]]. He is credited with reinventing the American musical. He wrote lyrics for [[West Side Story]] (1957) and *Gypsy* (1959) before writing both music and lyrics. Five of his works won the Tony Award for Best Musical, including *Company* (1970) and *Sweeney Todd: The Demon Barber of Fleet Street* (1979). *Sunday in the Park with George* (1984) won the Pulitzer Prize for Drama. He won eight Tony Awards and eight [[Grammy Awards]], and an Academy Award for Best Original Song for "Sooner or Later" from *Dick Tracy* (1990).
+
+=== KEY: Stephen_the_Great_694870
+HEADWORD: Stephen the Great
+PERSON: yes
+LINK TARGETS: Moldavia | Moldova | Ottoman Empire | Romania | Vlad the Impaler
+ENTRY:
+Voivode of [[Moldavia]] (1457–1504) and national hero of [[Romania]] and [[Moldova]]. He took the throne after his victory at the Battle of Orbic, with support from his cousin [[Vlad the Impaler]]. He stopped paying tribute to the [[Ottoman Empire|Ottomans]] in 1473 and defeated a large Ottoman army at the Battle of Vaslui in 1475, earning the title *Athleta Christi* ("Champion of Christ") from Pope Sixtus IV. The following year Mehmed II routed him at Valea Albă, and his efforts to recapture the ports of Chilia and Cetatea Albă ended in failure. From 1486 he again paid a yearly tribute to the Ottomans. He restored old fortresses and built new ones, and dozens of stone churches and monasteries were built during his reign, contributing to a distinct Moldavian architectural style. The Romanian Orthodox Church canonized him in 1992.
+
+=== KEY: Steppe_47e4ce
+HEADWORD: Steppe
+PERSON: no
+LINK TARGETS: Central Asia | Eastern Europe | Eurasian Steppe | Great Plains | Indo-European languages | Ukraine
+ENTRY:
+Ecoregion of plain grasslands without closed forests except near rivers and lakes. Steppes are usually covered with grass and shrubs, depending on season and latitude, and have a semi-arid or continental climate. Temperatures can reach 45 °C (115 °F) in summer and fall to −55 °C (−65 °F) in winter. Steppes average 250–500 mm (10–20 in) of precipitation a year. The world's largest steppe region, often called the Great Steppe, runs across [[Eastern Europe]] and [[Central Asia]] from [[Ukraine]] to the Altai and Tian Shan ranges. The [[Eurasian Steppe]] had a significant role in the spread of the horse, the wheel and [[Indo-European languages]]. In North America, the shortgrass prairie is the westernmost part of the [[Great Plains]].
+
+=== KEY: Stereotype_8e15ee
+HEADWORD: Stereotype
+PERSON: no
+LINK TARGETS: Prejudice | Racism | Social psychology
+ENTRY:
+Generalized belief about a category of people, studied in [[Social psychology|social psychology]]. Stereotypes concern a group's personality, preferences, appearance or abilities, and they simplify information processing by letting people rely on stored knowledge rather than new input. They are often faulty and resistant to new information. Research on their accuracy has yielded mixed results: studies of national-origin and astrological-sign stereotypes found them inaccurate, while studies of gender stereotypes found them more likely to reflect reality. Explicit stereotypes are conscious beliefs that people knowingly use to judge others, whereas implicit stereotypes are automatic, involuntary associations between a social group and a domain or attribute. Stereotypes are regarded as the most cognitive component of intergroup attitudes, often occurring without conscious awareness; [[Prejudice|prejudice]] is the affective component, and discrimination the behavioral one. Stereotypes, prejudice, [[Racism|racism]], and discrimination are related but distinct concepts.
+
+=== KEY: Sterilization_medicine_ab4ca0
+HEADWORD: Sterilization
+PERSON: no
+LINK TARGETS: Birth control | Pregnancy | Surgery | United States
+ENTRY:
+Medical procedure that intentionally and permanently leaves a person unable to reproduce. Sterilization comprises several methods of permanent [[Birth control|birth control]] available to both sexes, and reversal is generally difficult. The most common are tubal ligation (salpingectomy) for women and vasectomy for men. Tubal sterilization is highly effective, and surgical complications are low in the [[United States]], but it remains [[Surgery|surgery]] with risks, and women have a higher risk of serious side effects than men who have a vasectomy. Some studies estimate that 3% of women become [[Pregnancy|pregnant]] after tubal ligation; if this happens, the risk of ectopic gestation is high. Sterilization may be voluntary or promoted by governments, and some governments have historically or presently run compulsory or incentivized programs, while certain nations restrict or prohibit the practice.
+
+=== KEY: Steroid_6e1e1d
+HEADWORD: Steroid
+PERSON: no
+LINK TARGETS: Cell membrane | Cholesterol | Lipid | Organic compound | Testosterone
+ENTRY:
+[[Organic compound|Organic compound]] with four fused rings, designated A, B, C and D. Steroids have two principal biological functions: as components of [[Cell membrane|cell membranes]], where they alter membrane fluidity, and as signaling molecules. Examples include the [[Lipid|lipid]] [[Cholesterol|cholesterol]], the sex hormones estradiol and [[Testosterone|testosterone]], anabolic steroids, and the anti-inflammatory corticosteroid dexamethasone. Hundreds occur in fungi, plants and animals, and all are manufactured in cells from sterol precursors. The name derives from cholesterol, a sterol first described in gallstones, and the steroid nucleus typically has seventeen carbon atoms in four fused rings. Cutting ring B produces secosteroids, one of which is vitamin D3. Widely used trivial names of natural steroids with significant biologic activity include progesterone, testosterone and cortisol.
+
+=== KEY: Stethoscope_38d29f
+HEADWORD: Stethoscope
+PERSON: no
+LINK TARGETS: Blood pressure | France
+ENTRY:
+Medical device for listening to sounds inside the body, used in auscultation. A stethoscope has a small disc-shaped resonator placed against the skin, with one or two tubes leading to earpieces. It is used to listen to the heart, lungs and intestines and to blood flow in arteries and veins, and it is commonly used with a sphygmomanometer when measuring [[Blood pressure|blood pressure]]. René Laennec invented the first stethoscope in [[France]] in 1816, a wooden monaural tube that spared him from placing his ear directly on a woman's chest. Arthur Leared invented a binaural version in 1851, and George Philip Cammann perfected a binaural design for commercial production the following year. A design by Rappaport and Sprague in the 1940s became the standard by which other stethoscopes are measured.
+
+=== KEY: Steve_Ballmer_c8eb2d
+HEADWORD: Ballmer, Steve
+PERSON: yes
+LINK TARGETS: Bill Gates | Chief executive officer | Microsoft | National Basketball Association
+ENTRY:
+American businessman and investor. Ballmer was hired at [[Microsoft]] by [[Bill Gates]] in 1980 and served as [[Chief executive officer|chief executive officer]] of the company from 2000 to 2014. Under his leadership Microsoft tripled sales and doubled profits, but it lost its market dominance and missed the ascendance of smartphones. He owns the Los Angeles Clippers of the [[National Basketball Association]] and co-founded the Ballmer Group, a philanthropic investment company.
+
+=== KEY: Steve_Bannon_08c3eb
+HEADWORD: Bannon, Steve
+PERSON: yes
+LINK TARGETS: Chief executive officer | Donald Trump | Goldman Sachs
+ENTRY:
+American media executive and political strategist. Bannon ran the 2016 presidential campaign of [[Donald Trump]] as [[Chief executive officer|chief executive officer]] and then served as White House chief strategist until Trump fired him. A former investment banker at [[Goldman Sachs]], he co-founded Breitbart News and was its executive chairman. In 2022 he was convicted of contempt of Congress for refusing a subpoena from the January 6 House select committee, and in 2025 he pleaded guilty to New York state fraud charges linked to a border-wall fundraising campaign.
+
+=== KEY: Steve_Biko_ffa21d
+HEADWORD: Biko, Steve
+PERSON: yes
+LINK TARGETS: Apartheid | Frantz Fanon
+ENTRY:
+South African anti-apartheid activist and leader of the Black Consciousness Movement, which sought the psychological empowerment of black people. Biko helped found the South African Students' Organisation, which he believed black people had to lead independently of white liberals, and he was influenced by the Martinican philosopher [[Frantz Fanon]]. He popularized the slogan "black is beautiful" and helped found the Black People's Convention in 1972. The government placed him under a banning order in 1973, and he was detained several times. He died in police custody after his arrest; the official inquest attributed his injuries to a fall, though forensic evidence indicated assault. He is regarded as one of the earliest icons of the movement against [[Apartheid|apartheid]].
+
+=== KEY: Steve_Carell_7a9860
+HEADWORD: Carell, Steve
+PERSON: yes
+LINK TARGETS: NBC | Netflix
+ENTRY:
+American actor and comedian. Carell starred as Michael Scott in the [[NBC]] sitcom *The Office*, for which he won a Golden Globe Award. He was a correspondent on *The Daily Show with Jon Stewart* and later starred in films including *Anchorman: The Legend of Ron Burgundy* and *The 40-Year-Old Virgin*. His dramatic role as John du Pont in *Foxcatcher* earned him an Academy Award nomination for Best Actor. He also starred in the [[Netflix]] series *Space Force*.
+
+=== KEY: Steve_Harvey_ddf5dd
+HEADWORD: Harvey, Steve
+PERSON: yes
+LINK TARGETS: Family Feud | Miss Universe | Stand-up comedy
+ENTRY:
+American comedian, radio and television host. Harvey has hosted the game show [[Family Feud]] since 2010 and formerly hosted the [[Miss Universe]] competition. He began as a [[Stand-up comedy|stand-up comedian]] in the early 1980s and starred in the sitcom *The Steve Harvey Show*. His book *Act Like a Lady, Think Like a Man* (2009) was a bestseller, and he has won seven Daytime Emmy Awards.
+
+=== KEY: Steve_Irwin_586af0
+HEADWORD: Irwin, Steve
+PERSON: yes
+LINK TARGETS: Great Barrier Reef | Queensland
+ENTRY:
+Australian conservationist, zookeeper and television personality. Irwin achieved international fame through *The Crocodile Hunter*, a wildlife documentary series he co-hosted with his wife, Terri. The couple co-owned and operated Australia Zoo in [[Queensland]], which his parents founded. Irwin died from an injury caused by a stingray while filming an underwater documentary on the [[Great Barrier Reef]]. Numerous parks, zoos and streets, and a snail species, have been named in his honor.
+
+=== KEY: Steve_Jobs_7f76ff
+HEADWORD: Jobs, Steve
+PERSON: yes
+LINK TARGETS: Apple Inc. | Personal computer | Pixar | Steve Wozniak | User interface
+ENTRY:
+American businessman, inventor and investor, and a pioneer of the [[Personal computer|personal computer]] revolution. Jobs co-founded [[Apple Inc.|Apple]] with [[Steve Wozniak]] in 1976 and helped bring the Apple II, one of the first highly successful mass-produced microcomputers, to market. After the board fired him in 1985, he founded NeXT and bought the computer graphics division of Lucasfilm, which became [[Pixar]]. He returned to Apple as chief executive in 1997, when the company was on the verge of bankruptcy, and oversaw products including the iMac, iPod, iPhone and iPad. The Macintosh 128K of 1984 was the first mass-produced computer with a [[User interface|graphical user interface]].
+
+=== KEY: Steve_Martin_ce8586
+HEADWORD: Martin, Steve
+PERSON: yes
+LINK TARGETS: Academy Awards | Grammy Awards | Martin Short | Saturday Night Live | Selena Gomez | Stand-up comedy
+ENTRY:
+American comedian, actor, writer and musician. Martin became one of the most popular [[Stand-up comedy|stand-up comedians]] of the 1970s and was a frequent host of [[Saturday Night Live]]. He starred in films including *The Jerk* (1979), *Planes, Trains and Automobiles* (1987) and *Roxanne* (1987). He has won five [[Grammy Awards]], and in 2013 he received an honorary [[Academy Awards|Academy Award]]. With [[Martin Short]] he has toured since 2015, and the two co-starred with [[Selena Gomez]] in the Hulu series *Only Murders in the Building*.
+
+=== KEY: Steve_McQueen_cc61f8
+HEADWORD: McQueen, Steve
+PERSON: yes
+LINK TARGETS: Ciudad Juárez | Mexico
+ENTRY:
+American actor known as the "King of Cool." His antihero persona made him a top box-office draw from the late 1950s to the mid-1970s, in films including *The Magnificent Seven* (1960), *The Great Escape* (1963), *Bullitt* (1968) and *The Towering Inferno* (1974). He received an Academy Award nomination for *The Sand Pebbles* (1966) and became the world's highest-paid movie star in 1974. Diagnosed with terminal cancer, he went to [[Mexico]] for surgery against the advice of U.S. doctors. He checked into a hospital in [[Ciudad Juárez]] under a fake name and died of a heart attack a few hours after the operation.
+
+=== KEY: Steve_Nash_ccdb32
+HEADWORD: Nash, Steve
+PERSON: yes
+LINK TARGETS: Basketball | National Basketball Association
+ENTRY:
+Canadian former [[Basketball|basketball]] player and coach. Nash played 18 seasons in the [[National Basketball Association]], where he was an eight-time All-Star and a two-time Most Valuable Player (MVP). He ranks among the league's top players in career three-point shooting, free-throw shooting and assists. He was inducted into the Naismith Memorial Basketball Hall of Fame in 2018, and from 2012 to 2019 he was general manager of the Canadian men's national basketball team.
+
+=== KEY: Steve_Wozniak_51aba8
+HEADWORD: Wozniak, Steve
+PERSON: yes
+LINK TARGETS: Apple II | Apple Inc. | Mac (computer) | Soviet Union | Steve Jobs
+ENTRY:
+American technology entrepreneur, electrical engineer and inventor. Wozniak co-founded [[Apple Inc.|Apple]] with [[Steve Jobs]] in 1976 and was the primary designer of the [[Apple II]], introduced in 1977 and one of the first highly successful mass-produced microcomputers. He had a major influence on the early concepts of the [[Mac (computer)|Macintosh]] from 1979 to 1981. After leaving Apple in 1985 he founded CL 9, which created the first programmable universal remote, released in 1987. He later focused largely on technology in K–12 schools, including a 1990 initiative to place computers in schools in the [[Soviet Union]]. He was inducted into the National Inventors Hall of Fame in 2000.
+
+=== KEY: Steven_Seagal_524311
+HEADWORD: Seagal, Steven
+PERSON: yes
+LINK TARGETS: 14th Dalai Lama | Japan | Los Angeles | Sexual harassment | Vladimir Putin
+ENTRY:
+American actor, martial artist and producer. A 7th-dan black belt in aikido, Seagal began his adult life as a martial arts instructor in [[Japan]] and later taught aikido in [[Los Angeles]]. He starred in *Above the Law* (1988), regarded as the first American film to feature aikido in fight sequences, and in *Under Siege* (1992). Since 1991, multiple women have accused him of [[Sexual harassment|sexual harassment]] or assault. He is a supporter of the [[14th Dalai Lama]] and of [[Vladimir Putin]], backed the Russian annexation of Crimea in 2014, and was granted Russian citizenship in 2016.
+
+=== KEY: Steven_Soderbergh_3d24fa
+HEADWORD: Soderbergh, Steven
+PERSON: yes
+LINK TARGETS: Avant-garde | Cannes Film Festival
+ENTRY:
+American filmmaker, cinematographer and editor. A pioneer of modern independent cinema, Soderbergh made his breakthrough with *Sex, Lies, and Videotape* (1989), which won the Palme d'Or at the [[Cannes Film Festival]]. He won the Academy Award for Best Director for *Traffic* (2000), and his other films include *Erin Brockovich*, the *Ocean's* films and *Contagion*. Although his films often revolve around familiar concepts from big-budget Hollywood, he routinely employs an [[Avant-garde|avant-garde]] arthouse approach.
+
+=== KEY: Steven_Spielberg_d1d98f
+HEADWORD: Spielberg, Steven
+PERSON: yes
+LINK TARGETS: John Williams | New Hollywood
+ENTRY:
+American filmmaker and producer, a major figure of the [[New Hollywood]] era and a pioneer of the modern blockbuster. Spielberg is the highest-grossing film director of all time, with films earning almost $11 billion worldwide. His films include *Jaws* (1975), *E.T. the Extra-Terrestrial* (1982), *Jurassic Park* (1993) and *Saving Private Ryan* (1998); *Schindler's List* (1993) and *Saving Private Ryan* both won him the Academy Award for Best Director. He collaborated with composer [[John Williams]] for decades and co-founded Amblin Entertainment and DreamWorks Pictures. Seven of his films have been inducted into the National Film Registry, and he has received three Academy Awards and twelve Emmy Awards.
+
+=== KEY: Stevie_Nicks_af93f0
+HEADWORD: Nicks, Stevie
+PERSON: yes
+LINK TARGETS: Fleetwood Mac | Rock and Roll Hall of Fame
+ENTRY:
+American singer-songwriter, best known as a member of [[Fleetwood Mac]]. Nicks joined the band with Lindsey Buckingham in 1975, and its album *Rumours* won the Grammy Award for Album of the Year in 1978. She began her solo career in 1981 with *Bella Donna*, which topped the Billboard 200. Nicks is the first woman inducted twice into the [[Rock and Roll Hall of Fame]], as a member of Fleetwood Mac in 1998 and as a solo artist in 2019.
+
+=== KEY: Stevie_Ray_Vaughan_50aae4
+HEADWORD: Vaughan, Stevie Ray
+PERSON: yes
+LINK TARGETS: Blues | David Bowie | Rock and Roll Hall of Fame
+ENTRY:
+American [[Blues|blues]] guitarist and frontman of the trio Double Trouble. Vaughan became the leading figure of the 1980s blues revival with the debut album *Texas Flood*. He played guitar on [[David Bowie]]'s album *Let's Dance*. After struggling with alcoholism and drug addiction, he returned to touring in 1986 following rehabilitation. His album *In Step* included his only number-one hit, "Crossfire." He was killed in a helicopter crash in East Troy, Wisconsin, and an investigation concluded that pilot error caused the accident. He was inducted into the [[Rock and Roll Hall of Fame]] posthumously in 2015.
+
+=== KEY: Stevie_Wonder_c22fc4
+HEADWORD: Wonder, Stevie
+PERSON: yes
+LINK TARGETS: Ghana | Grammy Awards | Martin Luther King Jr. | Michael Jackson | Motown | Paul McCartney | Synthesizer
+ENTRY:
+American singer-songwriter, musician and record producer, blind since shortly after birth. Wonder signed with [[Motown]]'s Tamla label at age 11, and his single "Fingertips" topped the Billboard Hot 100 when he was 13, the youngest solo artist ever to top the chart. In the 1970s he made extensive use of [[Synthesizer|synthesizers]] on albums such as *Talking Book* (1972) and *Songs in the Key of Life* (1976), which helped reshape contemporary R&B. He has won 25 [[Grammy Awards]], the most by a male solo artist. In 1980 he campaigned to make [[Martin Luther King Jr.]]'s birthday a federal holiday, and he collaborated with [[Paul McCartney]] and [[Michael Jackson]] in the 1980s. He was conferred [[Ghana|Ghanaian]] citizenship in 2024.

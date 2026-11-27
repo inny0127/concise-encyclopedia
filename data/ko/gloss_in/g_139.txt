@@ -1,0 +1,721 @@
+=== KEY: Trigonometric_functions_f07b75
+HEADWORD: Trigonometric functions
+PERSON: no
+LINK TARGETS: Angle | Fourier analysis | Geodesy | Hyperbolic functions | Navigation | Unit circle
+ENTRY:
+Real-valued functions of an [[Angle|angle]], defined as ratios of two side lengths of a right triangle. The most common are sine, cosine and tangent, with reciprocals cosecant, secant and cotangent. Each has an inverse function and an analog among the [[Hyperbolic functions|hyperbolic functions]]. They are used in all sciences related to geometry, such as [[Navigation|navigation]], solid mechanics, celestial mechanics and [[Geodesy|geodesy]], and they are among the simplest periodic functions, widely used for studying periodic phenomena through [[Fourier analysis|Fourier analysis]]. Early definitions applied only to acute angles; the standard [[Unit circle|unit circle]] extends sine and cosine to the whole real line, and modern definitions use infinite series or differential equations to extend them to the complex plane. A superscript −1 denotes the inverse function, so sin⁻¹x means arcsin x, not a reciprocal.
+
+=== KEY: Trigonometry_be8958
+HEADWORD: Trigonometry
+PERSON: no
+LINK TARGETS: Aryabhata | Geodesy | Hipparchus | Navigation | Ptolemy | Trigonometric functions | Unit circle
+ENTRY:
+Branch of mathematics concerned with relationships between angles and side lengths of triangles. The name comes from Ancient Greek *trígōnon*, "triangle," and *métron*, "measure." The field emerged in the Hellenistic world during the 3rd century BC from applications of geometry to astronomical studies. The Greeks focused on calculating chords, while mathematicians in India created the earliest known tables of values for trigonometric ratios such as sine.
+
+[[Hipparchus|Hipparchus]] created the first known trigonometric tables, based on chord lengths in a circle. In the 2nd century, [[Ptolemy|Ptolemy]] compiled the *Almagest*, with a table of chords at half-degree intervals and proofs of identities such as the sum and difference formulas. [[Aryabhata|Aryabhata]], in the 5th century, introduced sine tables that influenced later development.
+
+The [[Trigonometric functions|trigonometric functions]] relate the angles of a right triangle to ratios of its sides. Sine is the ratio of the side opposite an angle to the hypotenuse, cosine the ratio of the adjacent side to the hypotenuse, and tangent the ratio of the opposite side to the adjacent side. Their reciprocals are cosecant, secant, and cotangent. The mnemonic SOH-CAH-TOA is a common memory aid. The law of sines and the law of cosines allow all unknown angles and sides of a triangle to be computed once two sides and their included angle, two angles and a side, or three sides are known. Defined on the [[Unit circle|unit circle]], the functions extend to all positive and negative arguments and model periodic phenomena.
+
+Applications include [[Geodesy|geodesy]], surveying, celestial mechanics, and [[Navigation|navigation]], and spherical trigonometry calculates the positions of stars and planets. Trigonometric functions describe waves and oscillations in physics, and they are used in engineering, computer graphics, and electronics.
+
+=== KEY: Trilobite_09f55d
+HEADWORD: Trilobite
+PERSON: no
+LINK TARGETS: Arthropod | Calcite | Cambrian | Devonian | Ordovician | Permian | Plankton | Plate tectonics
+ENTRY:
+Class of extinct marine [[Arthropod|arthropods]], named for their three-lobed body. Trilobites were among the most successful early animals, existing in oceans for almost 270 million years, with more than 22,000 species described. Their mineralized exoskeletons, made of [[Calcite|calcite]], left an extensive fossil record that contributed to biostratigraphy, paleontology and [[Plate tectonics|plate tectonics]]. They first appear about 521 million years ago, in the [[Cambrian|Early Cambrian]], and diversity peaked in the Late Cambrian and [[Ordovician]]. Several [[Devonian]] extinctions reduced them sharply, and the last trilobites disappeared in the end-[[Permian]] mass extinction about 251.9 million years ago. They filled many niches as predators, scavengers, filter feeders and swimmers that fed on [[Plankton|plankton]]; some crawled onto land. The largest exceeded 70 centimeters (28 in) in length.
+
+=== KEY: Trinidad_and_Tobago_63965a
+HEADWORD: Trinidad and Tobago
+PERSON: no
+LINK TARGETS: Caribbean | Christopher Columbus | Port of Spain | Venezuela
+ENTRY:
+Archipelagic republic and southernmost country in the [[Caribbean]], off the northeast coast of [[Venezuela]]. Its capital is [[Port of Spain]]. [[Christopher Columbus]] first sighted Trinidad in 1498, and Spain ruled it until a British fleet took it in 1797. Both islands were ceded to Britain in 1802, unified in 1889, and became independent in 1962, when Trinidad and Tobago became a republic in 1976. Unlike most Caribbean states, the economy is primarily industrial, based on large oil and gas reserves, and the islands see fewer hurricanes because they lie farther south. Their African and Indian cultures are reflected in Carnival, Diwali and Hosay celebrations, and the islands are the birthplace of the steelpan, the limbo, calypso and soca.
+
+=== KEY: Trinity_16d00e
+HEADWORD: Trinity
+PERSON: no
+LINK TARGETS: Christian denomination | Creed | First Council of Nicaea | Old Testament | Unitarianism
+ENTRY:
+Christian doctrine concerning the nature of God, holding that one God exists as three divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit. The persons are considered coeternal and consubstantial, sharing one essence. Early Christians developed the doctrine from the late 2nd century AD onward. It was firmly established by the 4th century through the [[First Council of Nicaea]] and became part of the [[Creed|creed]]. Most major [[Christian denomination|Christian denominations]] are Trinitarian. Nontrinitarian positions include [[Unitarianism]], binitarianism and modalism. Some [[Old Testament]] passages, such as the plural pronouns in Genesis 1:26–27, have been read as Trinitarian, though most Biblical scholars take them to refer to a heavenly court.
+
+=== KEY: Trinity_nuclear_test_8b8bda
+HEADWORD: Trinity
+PERSON: no
+LINK TARGETS: Edward Teller | Enrico Fermi | Hans Bethe | J. Robert Oppenheimer | John Donne | Manhattan Project | Nuclear weapon | Richard Feynman
+ENTRY:
+First detonation of a [[Nuclear weapon|nuclear weapon]], conducted by the U.S. Army on July 16, 1945, in the Jornada del Muerto desert about 35 miles (56 km) southeast of Socorro, New Mexico. Part of the [[Manhattan Project]], it tested a plutonium implosion bomb, the same design as the Fat Man bomb later dropped on Nagasaki. The code name was assigned by [[J. Robert Oppenheimer]], possibly after the poetry of [[John Donne]]. The yield was 25 kilotons of TNT (± 2 kilotons), and the test was conducted without evacuating nearby residents. Observers included [[Enrico Fermi]], [[Hans Bethe]], [[Richard Feynman]] and [[Edward Teller]].
+
+=== KEY: Triple_point_1b23bd
+HEADWORD: Triple point
+PERSON: no
+LINK TARGETS: International System of Units | Kelvin | Lord Kelvin | Mercury (element) | Phase diagram
+ENTRY:
+Temperature and pressure at which a substance's gas, liquid and solid phases coexist in thermodynamic equilibrium. It is where the sublimation, fusion and vaporization curves meet on a [[Phase diagram|phase diagram]]. The triple point of [[Mercury (element)|mercury]] is at −38.8 °C (−37.8 °F) and 0.165 mPa. Helium-4 has no sublimation curve and so no triple point where its solid meets its gas. The term was first used on August 3, 1871, by James Thomson, brother of [[Lord Kelvin]]. Triple points of several substances define points on the ITS-90 temperature scale, from hydrogen (13.8033 K) to water (273.16 K, 0.01 °C). Before 2019 the triple point of water defined the [[Kelvin|kelvin]]; under the [[International System of Units]] it is now an experimentally measured constant of about 273.16 K and a vapor pressure of 611.657 pascals.
+
+=== KEY: Tripoli_Libya_97d1aa
+HEADWORD: Tripoli
+PERSON: no
+LINK TARGETS: Libya | Marcus Aurelius | Mediterranean Sea | Phoenicia
+ENTRY:
+Capital and largest city of [[Libya]], on a rocky point projecting into the [[Mediterranean Sea]] on the northwest coast. Its population was about 3.246 million in 2021. [[Phoenicia|Phoenicians]] founded the city in the 7th century BC, naming it Oyat, and Greek rulers of Cyrenaica later held it as Oea. Under the Romans the region became Tripolitania, meaning "region of the three cities," named for Oea, Sabratha and Leptis Magna. Because the city has been continuously inhabited, many Roman remains lie buried, though the Arch of [[Marcus Aurelius]], from the 2nd century AD, is among the few visible. Tripoli is the country's largest commercial and manufacturing center and the site of the University of Tripoli.
+
+=== KEY: Tripura_0bad20
+HEADWORD: Tripura
+PERSON: no
+LINK TARGETS: Assam | Bangladesh | British Raj | India | Mizoram | Primate
+ENTRY:
+State in northeastern [[India|India]], bordered by [[Assam]] and [[Mizoram]] to the east and by [[Bangladesh]] to the north, south and west. The third-smallest state, it covers 10,491 sq km and has about 3.67 million people, with a Bengali majority alongside 19 tribal communities. Agartala is the capital. Forests cover more than half the area, and Tripura has the highest number of [[Primate|primate]] species of any Indian state. Once a princely state under the [[British Raj]], it acceded to India in 1947 and became a full state in 1972.
+
+=== KEY: Trisha_Krishnan_9eba92
+HEADWORD: Krishnan, Trisha
+PERSON: yes
+LINK TARGETS: Chennai
+ENTRY:
+Indian actress known for Tamil and Telugu cinema, and one of the highest-paid actresses in India. After winning the 1999 [[Chennai|Miss Chennai]] pageant she entered films, and she had her first lead in *Mounam Pesiyadhe* (2002). She rose to fame with *Saamy* (2003) and *Ghilli* (2004), and has been a leading actress in Tamil cinema for over two decades, often called the "Queen of South India." She has won five Filmfare Awards South, a Tamil Nadu State Film Award and a Nandi Award. Her highest-grossing release is the action thriller *Leo* (2023).
+
+=== KEY: Tristan_Tzara_5afd48
+HEADWORD: Tzara, Tristan
+PERSON: yes
+LINK TARGETS: Algerian War | Cubism | Dada | Futurism | Spanish Civil War | Surrealism | Zurich
+ENTRY:
+Romanian-French avant-garde poet, essayist and performance artist, and a founder of [[Dada]]. Born Samuel Rosenstock, he performed at the Cabaret Voltaire in [[Zurich]] during World War I, and his nihilistic poetry and manifestos became a main feature of early Dadaism. After moving to Paris in 1919 he joined the staff of the magazine *Littérature*, a step toward [[Surrealism]], and was involved in the polemics that split the movement. He later aligned himself with André Breton's Surrealism and wrote the utopian poem "The Approximate Man." Combining anti-fascism with communism, he joined the Republicans in the [[Spanish Civil War]], the French Resistance and protests against French actions in the [[Algerian War]]. He is credited with linking [[Cubism]] and [[Futurism]] to later movements, including Situationism and currents in rock music.
+
+=== KEY: Tristan_da_Cunha_1c1156
+HEADWORD: Tristan da Cunha
+PERSON: no
+LINK TARGETS: Cape Town | UNESCO | World Heritage Site
+ENTRY:
+Remote group of volcanic islands in the South Atlantic Ocean, part of the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha. The inhabited main island, roughly 11 kilometers across, had 222 permanent inhabitants as of September 2026, all of them British Overseas Territories citizens. It has no airstrip and is a six-day journey by ship from [[Cape Town]], South Africa, and is considered the most remote inhabited place in the world. The first undisputed landing was made in 1643 by the Dutch East India Company. Gough Island, a wildlife reserve, is a [[UNESCO|UNESCO]] [[World Heritage Site|World Heritage Site]].
+
+=== KEY: Tristan_und_Isolde_8cb763
+HEADWORD: Tristan und Isolde
+PERSON: no
+LINK TARGETS: Arthur Schopenhauer | Benjamin Britten | Gustav Mahler | Richard Strauss | Richard Wagner
+ENTRY:
+Music drama in three acts by [[Richard Wagner]], premiered in Munich on June 10, 1865, with Hans von Bülow conducting. Loosely based on Gottfried von Strassburg's medieval 12th-century romance *Tristan and Iseult*, it was composed from 1857 to 1859. Wagner preferred the term *Handlung* ("action") for its continuous flow, or "endless melody," in contrast to conventional opera of recitatives and showpiece arias. Its concern with striving and love beyond death was inspired in part by the philosophy of [[Arthur Schopenhauer]]. The prelude opens with the Tristan chord, whose unprecedented chromaticism and tonal ambiguity marked a turning point in the evolution of Western music. The harmony initially divided audiences, but the opera became enormously influential, directly inspiring [[Gustav Mahler]], [[Richard Strauss]] and [[Benjamin Britten]].
+
+=== KEY: Tritium_bdbfb2
+HEADWORD: Tritium
+PERSON: no
+LINK TARGETS: Beta decay | Deuterium | Ernest Rutherford | Helium-3 | Hydrogen | Lithium | Nuclear fusion
+ENTRY:
+Radioactive [[Hydrogen|hydrogen]] isotope with one proton and two neutrons, half-life 12.32 years. Also called hydrogen-3, it is rare on Earth, formed in the atmosphere by cosmic rays and produced in nuclear reactors by irradiating [[Lithium|lithium]]. It decays by [[Beta decay|beta]] emission into [[Helium-3]], releasing 18.6 keV. Tritium powers self-illuminating lights in watches and firearm night sights, serves as a tracer in medical and scientific work, and fuels [[Nuclear fusion|fusion]] reactors with [[Deuterium]]. It is a component of hydrogen bombs. [[Ernest Rutherford]] and colleagues first detected it in 1934.
+
+=== KEY: Triton_moon_fb8f9e
+HEADWORD: Triton
+PERSON: no
+LINK TARGETS: Dwarf planet | Kuiper belt | Neptune | Solar System | Voyager 2
+ENTRY:
+Largest moon of [[Neptune]]. Triton is the only moon of Neptune massive enough to be rounded under its own gravity. It has a thin, hazy atmosphere of mostly nitrogen, with minor amounts of methane and carbon monoxide. Triton orbits in a retrograde direction, opposite to Neptune's rotation, the only large moon in the [[Solar System]] to do so. It is thought to have once been a [[Dwarf planet|dwarf planet]] from the [[Kuiper belt]], captured by Neptune's gravity. At 2,706.8 kilometers (1,681.9 mi) in diameter, it is the seventh-largest moon in the Solar System. Its surface is covered by frozen nitrogen and has very few impact craters. William Lassell discovered Triton on October 10, 1846, just 17 days after Neptune itself was found. The 1989 flyby by [[Voyager 2]] remains the only up-close visit, and the probe studied only about 40% of the surface.
+
+=== KEY: Trogon_f367d3
+HEADWORD: Trogon
+PERSON: no
+LINK TARGETS: Eocene | Fruit | Insect | Owl
+ENTRY:
+Family of colorful birds that includes the quetzals. Trogons, residents of tropical forests worldwide, form the single family Trogonidae in the order Trogoniformes, with 49 species in seven genera. The word *trogon* is Greek for "nibbling," because the birds gnaw holes in trees to make their nests. They feed on [[Insect|insects]] and [[Fruit|fruit]], and their broad bills and weak legs reflect their diet and tree-dwelling habits. Trogons are generally not migratory, and males and females have distinctive plumage. They are the only type of animal with a heterodactyl toe arrangement. The fossil record dates back 49 million years to the [[Eocene|Early Eocene]]. Their relationships have long been a mystery, with suggested relatives including parrots, cuckoos and [[Owl|owls]].
+
+=== KEY: Trojan_Horse_ce5f4f
+HEADWORD: Trojan Horse
+PERSON: no
+LINK TARGETS: Aeneid | Trojan War | Virgil
+ENTRY:
+Wooden horse in Greek mythology. The Greeks built it during the [[Trojan War]] and hid warriors inside, then pretended to sail away. The Trojans pulled it into their city as a victory trophy, and that night the hidden force opened the gates for the returning army. The [[Aeneid|*Aeneid*]] of [[Virgil]] describes the episode at length, and Homer's *Odyssey* mentions it briefly. The term now means any trick that lures a foe into a protected place, and a malicious program that tricks users into running it is called a Trojan horse or Trojan.
+
+=== KEY: Trojan_War_b48f8f
+HEADWORD: Trojan War
+PERSON: no
+LINK TARGETS: Bronze Age | Eratosthenes | Heinrich Schliemann | Homer | Iliad | Odyssey | Troy
+ENTRY:
+Legendary war in Greek mythology, set around the thirteenth or early twelfth century BC. The Achaeans (Greeks) waged it against the city of [[Troy]] after Paris, prince of Troy, took Helen from her husband Menelaus, king of Sparta. [[Homer]]'s *[[Iliad]]* covers four days and two nights in the tenth year of the siege, and the *[[Odyssey]]* follows the homeward journey of Odysseus. In 1868, Frank Calvert convinced [[Heinrich Schliemann]] that Troy lay at what is now Hisarlık in Turkey, a claim most scholars now accept. Many scholars think the Homeric stories fuse sieges and expeditions by Mycenaean Greeks during the [[Bronze Age]]. Those who see a specific historical conflict usually date it to the twelfth or eleventh century BC, often preferring the dates of [[Eratosthenes]], 1194–1184 BC.
+
+=== KEY: Trombone_06ee32
+HEADWORD: Trombone
+PERSON: no
+LINK TARGETS: Baroque | Claudio Monteverdi | George Frideric Handel | Johann Sebastian Bach
+ENTRY:
+Brass instrument whose pitch is altered by a telescoping slide rather than valves. As with all brass instruments, sound is produced when the player's lips vibrate in a mouthpiece. The name comes from the Italian *tromba* (trumpet) and *-one* (large), meaning "large trumpet." The tenor, pitched in B♭, is the most common type, with a bass trombone also widely used. The alto, pitched in E♭, became less common as tenor technique improved but is regaining popularity for its lighter sound. Its Renaissance predecessor, the sackbut, appeared in the 15th century and was used across Europe, declining in most places by the mid to late 17th century. [[Claudio Monteverdi]] wrote for it, and [[Johann Sebastian Bach]] and [[George Frideric Handel]] used trombones on a few occasions in the [[Baroque]] period. A player is called a trombonist.
+
+=== KEY: Tropaeolum_d136d2
+HEADWORD: Tropaeolum
+PERSON: no
+LINK TARGETS: Carl Linnaeus | Chile | Flowering plant | Hybrid (biology)
+ENTRY:
+Genus of [[Flowering plant|flowering plants]], commonly known as nasturtium. It comprises roughly 80 species of annual and perennial herbaceous plants native to South and Central America. [[Carl Linnaeus]] named it in *Species Plantarum*, recalling the Roman custom of erecting a trophy pole: the round, shield-shaped leaves reminded him of shields and the flowers of blood-stained helmets. Common garden species include *T. majus*, *T. peregrinum* and *T. speciosum*, while *T. polyphyllum* from [[Chile]] survives winter underground at elevations of 3,300 meters (11,000 ft). The bisexual flowers have five petals and a funnel-shaped nectar spur. The most common cultivated nasturtium is a [[Hybrid (biology)|hybrid]] of *T. majus*, *T. minus* and *T. peltophorum*, usually grown from seed as a half-hardy annual that thrives in poor soil and dry conditions.
+
+=== KEY: Tropic_of_Cancer_6ecd6f
+HEADWORD: Tropic of Cancer
+PERSON: no
+LINK TARGETS: Axial tilt | Equator | NATO | Sahara
+ENTRY:
+Northernmost circle of latitude at which the Sun can be directly overhead. It lies at 23°26′08.9″ north of the [[Equator]], a position set by Earth's [[Axial tilt|axial tilt]] that currently drifts south by about 15 meters per year. The Sun reaches overhead here at the June solstice, when the Northern Hemisphere is tilted toward it to its maximum extent. At this latitude, at solar midnight on the December solstice, the Sun is 90 degrees below the horizon in all directions. The name, from the Latin for crab, dates to the last centuries BC, when the Sun was in the zodiacal constellation Cancer at the June solstice; precession has since moved that alignment. The line marks the southern limit of the mutual defense obligation of [[NATO]], since member states are not obligated to defend territory south of it. Much land on or near the line is part of the [[Sahara]], where summer temperatures often reach 45 °C (113 °F).
+
+=== KEY: Tropic_of_Capricorn_dcf9fd
+HEADWORD: Tropic of Capricorn
+PERSON: no
+LINK TARGETS: Axial tilt | Brazil | Chile | Equator | Madagascar | South Africa | Tropics
+ENTRY:
+Southernmost circle of latitude at which the Sun can be directly overhead. It is the southern of the two [[Tropics|tropics]], lying at 23°26′08.9″ south of the [[Equator]] and marking the dividing line between the Southern Temperate Zone and the tropics. The Sun is directly overhead here at the December solstice. The line is drifting northward by about 15 meters per year as [[Axial tilt|Earth's axial tilt]] changes. It passes through [[Chile]], Argentina, Paraguay, [[Brazil]], Namibia, Botswana, [[South Africa]], Mozambique, [[Madagascar]] and Australia. Daylight lasts about 13 hours and 35 minutes at the December solstice and about 10 hours and 41 minutes at the June solstice. The name recalls the zodiacal constellation Capricorn, where the Sun stood at the northern solstice when the line was named; precession has since moved that alignment.
+
+=== KEY: Tropical_climate_070a40
+HEADWORD: Tropical climate
+PERSON: no
+LINK TARGETS: Equator | Humidity | Köppen climate classification | Monsoon | Precipitation
+ENTRY:
+Major climate group in the [[Köppen climate classification|Köppen]] system, marked by the letter A. Tropical climates have a monthly average temperature of 18 °C (64 °F) or higher in the coolest month, with hot temperatures and high [[Humidity|humidity]] all year. [[Precipitation|Annual precipitation]] is often abundant, and there are normally only two seasons, a wet (rainy or [[Monsoon|monsoon]]) season and a dry season. The annual temperature range is very small, and sunlight is intense. The three subtypes are tropical rainforest (Af), tropical monsoon (Am) and tropical savanna (Aw or As), distinguished by the precipitation of the driest month. Tropical rainforest climates usually extend only 5–10 degrees north and south of the [[Equator]], with yearly average temperatures between 21 and 30 °C (70 and 86 °F).
+
+=== KEY: Tropical_cyclone_241ecd
+HEADWORD: Tropical cyclone
+PERSON: no
+LINK TARGETS: Atlantic Ocean | Climate change | Equator | Flood | Storm | Typhoon
+ENTRY:
+Rapidly rotating storm system with a low-pressure center, strong winds and a spiral arrangement of thunderstorms. Depending on location, it is called a hurricane in the [[Atlantic Ocean]] or northeastern Pacific, a [[Typhoon|typhoon]] in the northwestern Pacific, or a tropical cyclone in the Indian Ocean and South Pacific. About 80 to 90 named tropical cyclones form each year, and over half develop winds of 65 kn (120 km/h; 75 mph) or more. They form over large bodies of warm water and draw energy from evaporation, unlike mid-latitude storms powered by temperature contrasts. They rarely form within 5° of the [[Equator]]. Coastal damage comes from strong winds, high waves, [[Storm|storm surges]] and tornadoes. Extremely heavy rain can reach 40 km (25 mi) from the coastline, causing [[Flood|flooding]]. [[Climate change]] can increase the duration, occurrence and intensity of these storms.
+
+=== KEY: Tropical_rainforest_c5427d
+HEADWORD: Tropical rainforest
+PERSON: no
+LINK TARGETS: Deforestation | Equator
+ENTRY:
+Dense, warm forest with high rainfall, typically found within 10° north and south of the [[Equator]]. It is a type of tropical moist broadleaf forest, and true rainforests have no dry season, with at least 60 mm (2.4 in) of average precipitation in every month. Temperatures exceed 18 °C (64 °F) every month. Rainforests are home to 40–75% of all species globally, including half of the world's animal and plant species and two-thirds of flowering plant species. Described as the "world's largest pharmacy," they hold over a quarter of natural medicines discovered to date. Soils are typically nutrient-poor, and the forest is stratified into emergent, canopy, understory and forest-floor layers. Logging and agricultural expansion threaten rainforests through [[Deforestation|deforestation]] and habitat fragmentation, and REDD and REDD+ programs aim to curb forest loss.
+
+=== KEY: Tropical_savanna_climate_fd31a4
+HEADWORD: Tropical savanna climate
+PERSON: no
+LINK TARGETS: Australia | India | Köppen climate classification | Sahel | Savanna
+ENTRY:
+Tropical climate subtype with a pronounced dry season, corresponding to the [[Köppen climate classification|Köppen]] categories Aw (dry winter) and As (dry summer). Its driest month receives less than 60 mm (2.4 in) of precipitation, and it tends to have less overall rainfall than a tropical monsoon climate or a more pronounced dry season. Total annual rainfall cannot exceed 2,500 mm (98 in). Droughts often prevail, and the vegetation is typically tree-studded grassland, or [[Savanna|savanna]], rather than thick jungle. Such regions include parts of [[India]], northern [[Australia]], Brazil and the [[Sahel]] of Africa.
+
+=== KEY: Tropics_a46426
+HEADWORD: Tropics
+PERSON: no
+LINK TARGETS: Axial tilt | Equator | Rainforest | Savanna | Tropic of Cancer | Tropic of Capricorn
+ENTRY:
+Region of Earth surrounding the [[Equator]], where the Sun may shine directly overhead. The tropics receive the most solar energy over the year and have the highest temperatures on the planet, but the lowest seasonal temperature variation, so seasons are more often divided by precipitation than by temperature. Their width in latitude is twice Earth's [[Axial tilt|axial tilt]], bounded by the [[Tropic of Cancer]] and the [[Tropic of Capricorn]]. The tropics cover 39.8% of Earth's surface and contain 36% of its landmass. As of 2014 they were home to 40% of the world's population, a share projected to reach 50% by 2050. Climates within them include [[Rainforest|rain forests]], monsoons, [[Savanna|savannahs]], deserts and high-altitude mountains. Global warming is expanding tropical weather conditions into subtropical areas, with more heatwaves and intense storms.
+
+=== KEY: Trotskyism_aaf83f
+HEADWORD: Trotskyism
+PERSON: no
+LINK TARGETS: Great Purge | Leon Trotsky | Marxism | Mexico City | Soviet Union
+ENTRY:
+Branch of [[Marxism]] and Leninism developed by [[Leon Trotsky]]. Trotskyists advocate permanent revolution, the theory that a revolution in economically uneven countries must become socialist and spread internationally. They oppose Stalin's theory of socialism in one country and criticize the bureaucracy that developed in the [[Soviet Union]] under Stalin. Trotsky was removed from power by Stalin's order in 1927 and expelled from the USSR in 1929. He was assassinated in [[Mexico City]] in 1940, and almost all Trotskyists in the Soviet party were executed in the [[Great Purge|Great Purges]] of 1937–1938.
+
+=== KEY: Trousers_10daae
+HEADWORD: Trousers
+PERSON: no
+LINK TARGETS: Belt (clothing) | Clothing | Xinjiang
+ENTRY:
+[[Clothing|Garment]] covering each leg separately from the waist to the knees or ankles. Called pants in North America and Australia, trousers are distinguished from shorts by reaching below the knee. The oldest known trousers, dating from the 13th to 10th centuries BC, were found at the Yanghai cemetery in Turpan, [[Xinjiang]], in western China; they were made of wool and were likely used for horseback riding. Trousers became the most common lower-body clothing for adult men in the modern world. Breeches were worn instead by some upper-class men in early modern Europe. Since the mid-20th century, women have increasingly worn trousers. Jeans, a casual form made of denim, are worn worldwide. Trousers are usually held up by buttons, elastic, a [[Belt (clothing)|belt]] or suspenders.
+
+=== KEY: Trout_3c85f1
+HEADWORD: Trout
+PERSON: no
+LINK TARGETS: Brown bear | Osprey | Otter | Salmon
+ENTRY:
+Freshwater fish of the subfamily Salmoninae, closely related to [[Salmon|salmon]]. The name covers many species in the genera *Salmo*, *Oncorhynchus* and *Salvelinus*, though brook trout and three other North American "trout" are actually char. Most trout spend their lives in freshwater, spawning in the shallow gravel beds of headwater creeks, while steelhead and sea trout are anadromous and can spend up to three years at sea. As mid-level predators, trout feed on crustaceans, insects, worms and tadpoles, and they are prey for [[Brown bear|brown bears]], [[Otter|otters]], [[Osprey|ospreys]], gulls and kingfishers. Their discarded remains nourish scavengers and riparian plants, making trout keystone species. Trout are oily fish and have long been important food for humans.
+
+=== KEY: Troy_d26ad5
+HEADWORD: Troy
+PERSON: no
+LINK TARGETS: Bronze Age | Heinrich Schliemann | Homer | Iliad | Trojan War
+ENTRY:
+Ancient city in northwest Asia Minor, now the site of Hisarlık in Turkey. Known as Ilion or Ilium in Greek and Latin, it is the setting of the [[Trojan War]] in [[Homer]]'s *[[Iliad]]*. Settled around 3600 BC, it was rebuilt over nine layers, Troy I to Troy IX. In the [[Bronze Age|Late Bronze Age]] it was called Wilusa, a vassal of the Hittite Empire. [[Heinrich Schliemann]] and Frank Calvert began excavating the site in 1871. No definitive evidence confirms a Greek attack. The site has been a UNESCO World Heritage site since 1998.
+
+=== KEY: Truck_6f1385
+HEADWORD: Truck
+PERSON: no
+LINK TARGETS: Diesel engine | Gasoline | Internal combustion engine
+ENTRY:
+Commercial motor vehicle designed to transport freight or carry specialized payloads. Called a lorry in British English, a truck usually has body-on-frame construction, with a cabin independent of the payload. Most trucks use [[Diesel engine|diesel engines]], though small and medium trucks with [[Gasoline|gasoline]] engines exist in North America, and electric trucks are more popular in China and Europe. Karl Benz built the first [[Internal combustion engine|internal combustion]] truck in 1895, and Gottlieb Daimler built another in 1896. The first U.S. truck was built by Autocar in 1899. Diesel engines did not appear in production trucks until Benz introduced one in 1923, although the engine had been invented in 1897. In the European Union, vehicles up to 3.5 t gross combination mass are classed as light commercial vehicles.
+
+=== KEY: True_toad_b16e3e
+HEADWORD: True toad
+PERSON: no
+LINK TARGETS: Alkaloid | Cane toad | Eocene | South America | Tadpole
+ENTRY:
+Member of the family Bufonidae, the only anuran family whose members are all called toads. Bufonids are native to every continent except Australia and Antarctica, living in environments from arid areas to rainforest. The family is thought to have originated in [[South America]], and its members radiated out of South America during the [[Eocene]]. Most lay eggs in paired strings that hatch into [[Tadpole|tadpoles]], although in *Nectophrynoides* the eggs hatch directly into miniature toads. True toads are toothless and warty, with a pair of parotoid glands behind the head that contain an [[Alkaloid|alkaloid]] poison. The [[Cane toad]], *Rhinella marina*, is among the more toxic species, and some, such as the Colorado River toad, have been used recreationally for the effects of their bufotoxin.
+
+=== KEY: Truffle_5d76d0
+HEADWORD: Truffle
+PERSON: no
+LINK TARGETS: Dog | France | Hazelnut | Italy | Oak | Piedmont | Pig
+ENTRY:
+Fruiting body of a subterranean ascomycete fungus, usually of the genus *Tuber*. Truffles grow underground in close association with tree roots, usually [[Oak|oak]] or [[Hazelnut|hazelnut]], and animals that eat them disperse their spores. Some species are prized as food and used in Italian and French cuisine. The black Périgord truffle, *Tuber melanosporum*, named after the Périgord region of [[France]], is the second-most commercially valuable species and is harvested in late autumn and winter. The white truffle, *Tuber magnatum*, is found mainly in the [[Piedmont]] region of northern [[Italy]]. Truffles often sell for thousands of dollars per pound. Historically they were hunted with [[Pig|pigs]], though [[Dog|dogs]] are now preferred. China is the world's largest exporter of truffles.
+
+=== KEY: Truman_Capote_26a5a4
+HEADWORD: Capote, Truman
+PERSON: yes
+LINK TARGETS: Alabama | Audrey Hepburn | Hunter S. Thompson | Joan Didion | New Orleans | To Kill a Mockingbird
+ENTRY:
+American novelist, screenwriter and playwright, born in [[New Orleans]] and raised partly in [[Alabama|Monroeville, Alabama]]. He is regarded as one of the founders of New Journalism, with [[Hunter S. Thompson]] and [[Joan Didion]]. His novella *Breakfast at Tiffany's* was adapted into a 1961 film starring [[Audrey Hepburn]]. The true-crime novel *In Cold Blood* (1966) took six years to write, aided by his lifelong friend Harper Lee, author of [[To Kill a Mockingbird|*To Kill a Mockingbird*]].
+
+=== KEY: Trumpet_142e3a
+HEADWORD: Trumpet
+PERSON: no
+LINK TARGETS: Chamber music | Jazz | Orchestra
+ENTRY:
+Brass instrument with a cylindrical bore and, in modern forms, usually three valves. Sound is produced when the player's lips vibrate in a mouthpiece, starting a standing wave in the air column. The most common trumpet is pitched in B♭, a transposing instrument with about 1.48 m (4 ft 10 in) of tubing. The family ranges from the piccolo trumpet, the highest register in the brass family, to the bass trumpet. Trumpet-like instruments were used for signaling in battle or hunting from the 2nd millennium BC, and they became musical instruments only in the late 14th or early 15th century. Piston valves are most common, though rotary valves are more common in German and German-style orchestras. Trumpets appear in [[Orchestra|orchestras]], concert bands, [[Chamber music|chamber music]] groups and [[Jazz|jazz]] ensembles.
+
+=== KEY: Trunk_botany_2b72e7
+HEADWORD: Trunk
+PERSON: no
+LINK TARGETS: Bamboo | Flowering plant | Gymnosperm | Vascular cambium
+ENTRY:
+Stem of a woody plant, also called a bole, and the main structural element of a tree. Trunks connect the roots to the upper branches and canopy. The woody part consists of dead but structurally significant heartwood and living sapwood, which stores nutrients and transports water. The [[Vascular cambium|cambium]] separates wood from bark and drives growth in diameter, while the living inner bark carries sugars and the outer bark is a dead protective layer. Trunks resist wind through high strength and stiffness, along with oscillation damping. Only [[Gymnosperm|gymnosperms]] and woody [[Flowering plant|flowering plants]] with two initial leaves have trunks, and monocots such as [[Bamboo|bamboo]] do not form them. Most trees outside the tropics can be dated by counting their annual rings, a field called dendroclimatology.
+
+=== KEY: Trust_law_74dbb1
+HEADWORD: Trust
+PERSON: no
+LINK TARGETS: Common law | Tax
+ENTRY:
+Three-party fiduciary relationship in which property is held by one party for the benefit of another. The party who entrusts the property is the settlor, the trustee holds legal title, and the beneficiary holds the equitable interest; the property is called the corpus or trust property. Trustees owe fiduciary duties of loyalty, prudence and impartiality, must provide regular accountings of income and expenditures, and can be removed by a court for breach of duty. A testamentary trust is created by a will, while an inter vivos trust is created during the settlor's life. Trusts are used for [[Tax|tax]] purposes or to control property when the settlor is absent, incapacitated or deceased. Trusts developed within [[Common law|English common law]] and are now codified in some U.S. states through the Uniform Trust Code.
+
+=== KEY: Trust_sentiment_379eaf
+HEADWORD: Trust
+PERSON: no
+LINK TARGETS: Economics | Heuristic | Psychology | Sociology
+ENTRY:
+Belief that another party will act as expected, built through repeated consistency. The trustor becomes vulnerable to the trustee on the presumption that the trustee will act for the trustor's benefit, but cannot control the trustee's actions. Scholars distinguish generalized, or social, trust extended to unfamiliar others from particularized trust, which depends on a specific situation or relationship. In [[Sociology|sociology]] and [[Psychology|psychology]], trust measures belief in another's honesty, fairness or benevolence, while "confidence" refers to belief in competence. A failure is forgiven more easily when it is seen as one of competence. In [[Economics|economics]], trust is often conceptualized as reliability in transactions. Trust is a [[Heuristic|heuristic]] decision rule that lets people deal with complexities that would otherwise require unrealistic effort in rational reasoning.
+
+=== KEY: Truth_2a51e2
+HEADWORD: Truth
+PERSON: no
+LINK TARGETS: Aristotle | Belief | Deductive reasoning | Ethics | Journalism | Paradox | Proposition
+ENTRY:
+Conformity to reality or fact. Truth contrasts with falsity or misrepresentation and is typically treated as a property of sentences, [[Proposition|propositions]], or [[Belief|beliefs]] that describe things as they are. The word comes from Old English *trēowth*, "fidelity," and entered Modern English through Middle English *trewthe*.
+
+Its precise definition is contested. The correspondence theory holds that a statement is true if it corresponds to facts. According to the coherence theory, a belief is true if it is consistent with, and supported by, other beliefs. Deflationary theories hold that truth has no significant intrinsic nature and that understanding it means understanding the linguistic role of the word "true." Pluralists assert that the definition varies with the domain of analysis, while relativists maintain that a statement can be true from one perspective and false from another. Logical paradoxes, such as the liar [[Paradox|paradox]], challenge these theories.
+
+Entities that can be true or false are called truthbearers; sentences are public but depend on context and language, propositions are abstract meanings, and beliefs link truth to cognition but are private.
+
+Truth is a goal of inquiry in the sciences. The empirical sciences seek it through observation and experiment, the formal sciences through [[Deductive reasoning|deductive reasoning]] from fundamental principles. Many religious traditions regard truth as a virtue grounded in a divine source, and it acts as a guiding norm in [[Ethics|ethics]] and [[Journalism|journalism]]. Discussion arose in antiquity in Hindu, Jain, Buddhist, and Greek thought; [[Aristotle|Aristotle]] wrote in his *Metaphysics* that "to say of what is that it is, or of what is not that it is not, is true." Christian and Islamic philosophers in the medieval period explored the relation between truth and God.
+
+=== KEY: Tsar_Bomba_ef3148
+HEADWORD: Tsar Bomba
+PERSON: no
+LINK TARGETS: Andrei Sakharov | Nikita Khrushchev | Novaya Zemlya | Soviet Union | Thermonuclear weapon
+ENTRY:
+[[Soviet Union|Soviet]] [[Thermonuclear weapon|thermonuclear]] aerial bomb, the most powerful nuclear weapon ever constructed and tested. [[Nikita Khrushchev]] ordered the project in July 1961, and [[Andrei Sakharov]] oversaw it. It was tested over [[Novaya Zemlya]] on October 30, 1961, yielding the equivalent of 50 megatons of TNT. With a natural uranium tamper it would theoretically have exceeded 100 megatons, but lead replaced the tamper to reduce fallout. Dropped by parachute from a Tu-95V aircraft, it detonated automatically 4,000 meters (13,000 ft) above the surface. The design was too large for operational use, though it influenced the early development of the Proton rocket.
+
+=== KEY: Tsardom_of_Russia_763ab4
+HEADWORD: Tsardom of Russia
+PERSON: no
+LINK TARGETS: Great Northern War | Ottoman Empire | Peter the Great | Polish–Lithuanian Commonwealth | Serfdom | Siberia
+ENTRY:
+Centralized Russian state, also called the Tsardom of Moscow, existing from 1547 to 1721. Ivan IV was crowned tsar and grand prince of all Russia on January 16, 1547, and the state is generally regarded as the first phase of Tsarist Russia. From 1550 to 1700 Russia expanded by an average of 35,000 square kilometers (14,000 sq mi) per year, including through the conquest of [[Siberia]]. The period included wars with the [[Polish–Lithuanian Commonwealth]], Sweden and the [[Ottoman Empire]], and a dynastic transition from the Rurik to the Romanov dynasties. [[Peter the Great]] took power in 1689 and transformed the tsardom into an empire. After victory over Sweden in the [[Great Northern War]], he proclaimed the Russian Empire in 1721. [[Serfdom]] became entrenched during the period, binding peasants to land and lords.
+
+=== KEY: Tsetse_fly_259dc0
+HEADWORD: Tsetse fly
+PERSON: no
+LINK TARGETS: Paleogene | Sub-Saharan Africa | Vertebrate
+ENTRY:
+Genus of large biting flies (*Glossina*, family Glossinidae) that feed only on [[Vertebrate|vertebrate]] blood. Twenty-three living species are known from the African continent and the Arabian Peninsula. Adults are 0.5–1.5 centimeters (1⁄4–5⁄8 in) long and fold their wings completely over the abdomen when resting, which distinguishes them from other large flies. They have a long proboscis and can take a blood meal equal in weight to themselves. As biological vectors of trypanosomes, they cause human and animal trypanosomiasis, with major economic and public-health consequences in [[Sub-Saharan Africa]]. Fossil specimens have been recovered from [[Paleogene]] rocks in the United States and Germany.
+
+=== KEY: Tsinghua_University_a85c06
+HEADWORD: Tsinghua University
+PERSON: no
+LINK TARGETS: Chinese Communist Party | Hu Jintao | Peking University | Second Sino-Japanese War | Xi Jinping | Yang Chen-Ning
+ENTRY:
+Public research university in Haidian, Beijing, China, affiliated with and funded by the Ministry of Education. Founded in 1911 as Tsinghua College with funds from the Boxer indemnity, it prepared Chinese students for study in the United States. During the [[Second Sino-Japanese War]], it merged with [[Peking University]] and Nankai University, returning to Beijing after World War II. The university has 22 schools and 59 departments and is a member of the C9 League. Its alumni include political leaders [[Xi Jinping]] and [[Hu Jintao]], and [[Yang Chen-Ning]], a Nobel Prize in Physics laureate. In 1952 the [[Chinese Communist Party]] streamlined it into a polytechnic institute.
+
+=== KEY: Tsunami_174147
+HEADWORD: Tsunami
+PERSON: no
+LINK TARGETS: Earthquake | Indian Ocean | Landslide | Thucydides | Tide | Wavelength
+ENTRY:
+Series of water waves caused by the displacement of a large volume of water, generally in an ocean or large lake. [[Earthquake|Earthquakes]] cause about 80% of tsunamis, but volcanic eruptions, underwater explosions, [[Landslide|landslides]], glacier calvings and meteorite impacts can also generate them. Unlike wind-driven waves or [[Tide|tides]], tsunamis have a far longer [[Wavelength|wavelength]] and arrive as a series of waves with periods from minutes to hours. The name comes from Japanese, meaning "harbor wave," and the older term "tidal wave" is disfavored by scientists. The 2004 Indian Ocean tsunami killed or left missing at least 230,000 people in 14 countries bordering the [[Indian Ocean]]. In his 5th century BC history of the Peloponnesian War, the Greek historian [[Thucydides]] suggested that tsunamis were related to submarine earthquakes.
+
+=== KEY: Tu_i_Tonga_Empire_ebf68d
+HEADWORD: Tuʻi Tonga Empire
+PERSON: no
+LINK TARGETS: James Cook | Samoa | Tonga | Tuvalu
+ENTRY:
+Tongan maritime expansion and hegemony across Oceania, beginning about 950 and peaking between 1200 and 1500. It was centered on [[Tonga]] on the island of Tongatapu, with its capital at Muʻa, and its sacred kings, the Tuʻi Tonga, were regarded as descendants of the god Tangaloa. Subject chiefdoms brought annual tribute, called ʻinasi, to Muʻa after the harvest. Its power rested on a large navy of long-distance double-canoes, and voyaging extended as far as the [[Tuvalu|Tuvaluan archipelago]]. The Manuʻa islands of [[Samoa]] were considered sacred and remained under Tui Manuʻa rule. [[James Cook]] witnessed an ʻinasi ceremony in 1777 and recorded accounts of the Tuʻi Tonga kings. Historians rely heavily on oral traditions, supported by limited archaeology.
+
+=== KEY: Tuatara_cc590d
+HEADWORD: Tuatara
+PERSON: no
+LINK TARGETS: Jurassic | Lizard | Mesozoic
+ENTRY:
+Reptile endemic to New Zealand, the only living member of the order Rhynchocephalia. Although it closely resembles [[Lizard|lizards]], it is the sole survivor of a lineage that was highly diverse during the [[Mesozoic]] era. Its closest living relatives are squamates, including lizards and snakes. Rhynchocephalians first appeared in the fossil record during the Middle Triassic and reached peak diversity during the [[Jurassic]]. Tuatara grow up to 80 centimeters (31 in) long and weigh up to 1.3 kilograms (2.9 lb), with a spiny crest along the back. Extinct on the mainland, the species survived on 32 offshore islands until its first North Island release, into the Karori Wildlife Sanctuary, now named Zealandia, in 2005. Tuatara have been legally protected since 1895. The name is Māori for "peaks on the back."
+
+=== KEY: Tuba_67c481
+HEADWORD: Tuba
+PERSON: no
+LINK TARGETS: Brass instrument | Orchestra | Prussia | Ralph Vaughan Williams
+ENTRY:
+Large, low-pitched [[Brass instrument|brass instrument]] with a wide conical bore and valves. The tuba was invented in [[Prussia]] by Wilhelm Friedrich Wieprecht and Johann Gottfried Moritz and patented in 1835. Descended from the serpent and ophicleide, it usually has three or four valves, though some models have five or six. Adolphe Sax developed contrabass saxhorns in the 1850s, and contrabass tubas were built in the 1870s. John Philip Sousa adapted the circular helicon into the sousaphone in the late 1890s. The tuba forms the bass of the brass section in [[Orchestra|symphony orchestras]] and of brass, concert and military bands. Since the mid-20th century it has increasingly been used as a solo instrument, with concertos by [[Ralph Vaughan Williams]] and others. A player is called a tubist.
+
+=== KEY: Tuberculosis_432448
+HEADWORD: Tuberculosis
+PERSON: no
+LINK TARGETS: Antibiotic | HIV | Immune system | Lung | Robert Koch | Vaccine
+ENTRY:
+Contagious bacterial disease, historically called consumption, usually caused by *Mycobacterium tuberculosis*. It often infects the [[Lung|lungs]] first but can spread to the kidneys, spine, brain, and other organs. Most infections cause no symptoms and are termed latent, in which case they are not contagious. A small proportion progress to active disease, which can be fatal if untreated. Typical symptoms are chronic cough with blood-containing mucus, fever, night sweats, and weight loss.
+
+The disease spreads through the air when people with active TB in their lungs cough, spit, speak, or sneeze. Latent infection is more likely to become active in people with weakened [[Immune system|immune systems]]. An estimated 5% to 15% of untreated latent cases progress to active TB. Active disease involves the lungs in about 90% of cases; in 15–20% the infection spreads outside them, and in more than 50% of active cases in people with [[HIV]].
+
+Prevention involves screening those at high risk, early detection and treatment, and vaccination with the bacillus Calmette-Guérin (BCG) [[Vaccine|vaccine]]. Treatment requires multiple [[Antibiotic|antibiotics]] over a long period; drug-susceptible TB is typically treated with a six-month regimen including isoniazid and rifampicin. Since the 1980s, antibiotic resistance has produced more multidrug-resistant TB.
+
+Latent TB is estimated to affect one-quarter of the world's population, approximately 2 billion people. In 2024, an estimated 10.7 million new cases and 1.23 million deaths made it the leading cause of death from a single infectious agent. In the 1800s it caused an estimated quarter of all deaths in Europe. [[Robert Koch]] identified the bacterium in 1882.
+
+=== KEY: Tucker_Carlson_436cbd
+HEADWORD: Carlson, Tucker
+PERSON: yes
+LINK TARGETS: CNN | Fox News | Vladimir Putin
+ENTRY:
+American conservative political commentator and host of *The Tucker Carlson Show* since 2023. He was a [[CNN]] commentator and co-host of *Crossfire* from 2000 to 2005, then hosted *Tucker* on MSNBC until 2008. He joined [[Fox News]] in 2009 and hosted *Tucker Carlson Tonight* until its cancellation in 2023. Critics cite his false and misleading statements and his promotion of conspiracy theories. In February 2024 he became the first Western journalist to interview [[Vladimir Putin]] since the 2022 Russian invasion of Ukraine.
+
+=== KEY: Tucson_Arizona_67fa56
+HEADWORD: Tucson, Arizona
+PERSON: no
+LINK TARGETS: Arizona | Optics | UNESCO
+ENTRY:
+County seat of Pima County and second-most populous city in [[Arizona]] (pop., 2020: 542,630). Spanish colonists founded it as a military fort, Presidio San Agustín del Tucsón, in 1775. The city was the capital of the Arizona Territory from 1867 to 1877 and remained the state's largest city until Phoenix surpassed it in 1920. It is home to the University of Arizona and known for its [[Optics|optical science]] and telescopes. In 2015 it became the first American city designated a City of Gastronomy by [[UNESCO]].
+
+=== KEY: Tuesday_579231
+HEADWORD: Tuesday
+PERSON: no
+LINK TARGETS: John the Baptist | Mars | Monday | Sunday
+ENTRY:
+Day of the week between Monday and Wednesday. In ISO 8601 it is the second day of the week, after [[Monday]], but in calendars that begin with [[Sunday]] it is the third. The English name comes from Old English *Tiwesdæg*, meaning "Tīw's Day," after the Norse god Týr, who was equated with [[Mars]]. Most Romance languages name the day after Mars, from Latin *dies Martis*. In Japanese it is *kayōbi*, from the planet Mars. In the Eastern Orthodox Church, Tuesdays are dedicated to [[John the Baptist|Saint John the Baptist]].
+
+=== KEY: Tuff_9cf1de
+HEADWORD: Tuff
+PERSON: no
+LINK TARGETS: Easter Island | Igneous rock | Moai | Sedimentary rock
+ENTRY:
+Rock consolidated from volcanic ash ejected during an eruption. Rock containing more than 75% ash is classified as tuff, while rock with 25–75% ash is called tuffaceous. The ash lithifies into solid rock after deposition. Despite its softness, tuff has been used for construction since ancient times; the Romans used it often because it is common in Italy. The Rapa Nui people used it to make most of the [[Moai|moai]] statues on [[Easter Island]]. Tuff can be classified as either [[Igneous rock|igneous]] or [[Sedimentary rock|sedimentary]] rock, and it is usually studied in igneous petrology. Tuff is often erroneously called tufa in guidebooks and television programs, but tufa is a form of travertine.
+
+=== KEY: Tug_of_war_9f917c
+HEADWORD: Tug of war
+PERSON: no
+LINK TARGETS: Ancient Egypt | Ancient Greece | Emperor Xuanzong of Tang | Rope | Spring and Autumn period | Tang dynasty
+ENTRY:
+Sport in which two teams pull on opposite ends of a [[Rope|rope]], trying to drag the opposing team's marker across the center line. Teams typically have eight or more members. The sport was practiced in ancient [[Ancient Egypt|Egypt]], China, India and [[Ancient Greece|Greece]]. In China it was known as "hook pulling" and was used to train warriors in the State of Chu during the [[Spring and Autumn period]]. During the [[Tang dynasty]], [[Emperor Xuanzong of Tang]] promoted large-scale contests using ropes up to 167 meters (548 ft) long. It was an Olympic sport from 1900 to 1920 but is no longer on the Olympic program. The Tug of War International Federation governs the sport internationally and organizes World Championships. Ropes can break with a sudden release of energy, causing serious injuries, so safety protocols and engineered ropes reduce the hazards.
+
+=== KEY: Tughril_I_8a2509
+HEADWORD: Tughril I
+PERSON: yes
+LINK TARGETS: Abbasid Caliphate | Baghdad | Byzantine Empire | Fatimid Caliphate | Isfahan | Khorasan | Seljuk Empire
+ENTRY:
+Turkoman chieftain who founded the [[Seljuk Empire]] and ruled as its sultan from 1037 to 1063. He united Turkoman tribes of the Central Asian steppes into a confederacy and led them in conquest of [[Khorasan]] and eastern Persia. After the Seljuk victory over the Ghaznavids at Dandanqan in 1040, he made [[Isfahan]] his capital. In 1055 he took [[Baghdad]] from the Buyids and relegated the [[Abbasid Caliphate|Abbasid caliphs]] to state figureheads. He also led campaigns against the [[Byzantine Empire]] and the [[Fatimid Caliphate]]. He was known for his adherence to the Hanafi school of Islamic jurisprudence and commissioned many mosques and madrasas. He left no heir, leaving a vast empire at the end of his reign.
+
+=== KEY: Tukaram_d65fae
+HEADWORD: Tukaram
+PERSON: yes
+LINK TARGETS: Adi Shankara | Madhvacharya | Maharashtra | Ramanuja | Shivaji | Vishnu
+ENTRY:
+Hindu Marathi poet-saint of the Varkari tradition and devotee of the god Vithoba, a form of [[Vishnu]]. He is best known for devotional poems called *abhangas*, which are popular in [[Maharashtra]] and many of which address social reform. Through his *kirtans*, group prayers with singing, and his abhangas he criticized social injustice, caste hierarchy and the misconduct of some religious leaders, and he faced opposition as a result. He is believed to have met [[Shivaji]], founder of the Maratha Empire. Scholars debate whether his teachings followed the monistic Vedanta of [[Adi Shankara]] or the dualistic philosophy of [[Madhvacharya]] and [[Ramanuja]].
+
+=== KEY: Tulip_9a00f0
+HEADWORD: Tulip
+PERSON: no
+LINK TARGETS: Anatolia | Cultivar | Hybrid (biology) | Liliaceae | Netherlands | Ottoman Empire | Rembrandt
+ENTRY:
+Genus of spring-blooming perennial bulbous plants in the family [[Liliaceae]], with about 75 species. The name may derive from a Turkish word for turban. Tulips were originally found in a band from southern Europe to Central Asia, and Persian and Turkish peoples were the first to cultivate them, from the 10th century in Persia. Tulips probably spread into [[Anatolia]] with the Seljuks and became a symbol of the [[Ottoman Empire]] by the 15th century. Northern European diplomats to the Ottoman court brought them to attention in the 16th century, and they became the subject of the Dutch tulip mania of 1634–1637, a speculative investment bubble. Tulips were widely depicted in Dutch Golden Age paintings and became associated with the [[Netherlands]]. A tulip-breaking virus produced variegated flowers, and today's closest equivalents are the Rembrandts, named after [[Rembrandt]]'s paintings of admired breaks. Breeding has produced thousands of [[Hybrid (biology)|hybrids]] and [[Cultivar|cultivars]].
+
+=== KEY: Tulsa_Oklahoma_c90507
+HEADWORD: Tulsa, Oklahoma
+PERSON: no
+LINK TARGETS: Art Deco | Oklahoma
+ENTRY:
+City in northeastern [[Oklahoma]], the second-most populous city in the state (pop., 2026: about 419,000). It is the county seat of Tulsa County and the principal city of a metropolitan area of 1.06 million residents. Creek Native Americans settled the area between 1828 and 1836, and the city was incorporated in 1898. Oil discoveries made it the "Oil Capital of the World" for most of the 20th century. Leading sectors today include finance, aviation and telecommunications. Tulsa has one of the largest concentrations of [[Art Deco]] architecture in the United States.
+
+=== KEY: Tulsa_race_massacre_665fa4
+HEADWORD: Tulsa race massacre
+PERSON: no
+LINK TARGETS: Tulsa, Oklahoma
+ENTRY:
+Two-day massacre by white mobs of Black residents of the Greenwood district of [[Tulsa, Oklahoma|Tulsa]], on May 31 and June 1, 1921. The mobs burned and destroyed more than 35 square blocks of Greenwood, then one of the wealthiest Black communities in the United States. The Oklahoma Bureau of Vital Statistics recorded 36 deaths, while a 2001 commission reported estimates ranging from 39 to around 300. About 10,000 people were left homeless. A state commission, authorized in 1997, recommended reparations in its 2001 report, and a memorial park was dedicated in 2010. Oklahoma schools have been required to teach about the massacre since 2002.
+
+=== KEY: Tulsidas_bc206c
+HEADWORD: Tulsidas
+PERSON: yes
+LINK TARGETS: Ayodhya | Ganges | Hanuman | Hindustani classical music | Rama | Ramayana | Varanasi
+ENTRY:
+Hindu saint and poet, devoted to the deities [[Rama]] and [[Hanuman]], best known for the *Ramcharitmanas*. Born Rambola Dubey, he is popularly known as Goswami Tulsidas. The *Ramcharitmanas* is an epic retelling of the Sanskrit [[Ramayana]] in the vernacular Awadhi language, and he also wrote the *Hanuman Chalisa*. He spent most of his life in Banaras (modern [[Varanasi]]) and [[Ayodhya]]. The Tulsi Ghat on the [[Ganges]] in Varanasi is named after him, and he founded the Sankat Mochan Hanuman Temple there. He started the Ramlila plays, folk theater adaptations of the Ramayana. His influence is seen in Hindi literature, Ramlila performances, [[Hindustani classical music]] and popular music.
+
+=== KEY: Tumblr_0dfec3
+HEADWORD: Tumblr
+PERSON: no
+LINK TARGETS: Blog
+ENTRY:
+Microblogging and social networking website founded by David Karp in 2007. Users post multimedia content to short-form [[Blog|blogs]]. Yahoo acquired Tumblr for $1.1 billion in cash in 2013. Verizon announced in 2019 that it would sell Tumblr to Automattic, the operator of WordPress.com. Similarweb estimated that Tumblr had lost 30% of its user traffic after a stricter content policy was introduced in December 2018.
+
+=== KEY: Tumucumaque_Mountains_National_Park_e52468
+HEADWORD: Tumucumaque Mountains National Park
+PERSON: no
+LINK TARGETS: Amazon rainforest | Brazil | French Guiana | Harpy eagle | Jaguar | Primate
+ENTRY:
+National park in the [[Amazon rainforest]] in the [[Brazil|Brazilian]] states of Amapá and Pará, bordering [[French Guiana]] and Suriname. Declared a national park on August 23, 2002, with the collaboration of the WWF, it is part of the Amapá Biodiversity Corridor. It covers more than 38,800 square kilometers (14,980 sq mi), making it the world's largest tropical forest national park. Together with the adjacent Guiana Amazonian Park in French Guiana it reaches 59,000 square kilometers (22,780 sq mi). The uninhabited park is a habitat for [[Jaguar|jaguars]], [[Primate|primates]], aquatic turtles and [[Harpy eagle|harpy eagles]]. Its tropical monsoon climate has an average temperature of 25 °C (77 °F).
+
+=== KEY: Tuna_a8adf1
+HEADWORD: Tuna
+PERSON: no
+LINK TARGETS: Mackerel | Shark
+ENTRY:
+Saltwater fish of the tribe Thunnini, a subgrouping of the [[Mackerel|mackerel]] family. The tribe comprises 15 species in five genera. Sizes range from the bullet tuna, up to 50 cm (1.6 ft) long, to the Atlantic bluefin tuna, which reaches 4.6 m (15 ft) and 684 kg (1,508 lb). Tuna are among the fastest-swimming pelagic fish, and the yellowfin tuna can reach speeds of up to 75 km/h (47 mph). Tuna, opah and mackerel [[Shark|sharks]] are the only fish that can maintain a body temperature above that of the surrounding water. Commercially fished for food, tuna are overfished, and some species, such as the southern bluefin tuna, are endangered.
+
+=== KEY: Tundra_c63e2b
+HEADWORD: Tundra
+PERSON: no
+LINK TARGETS: Carbon dioxide | Climate change | Lichen | Methane | Moss | Permafrost
+ENTRY:
+Biome in which tree growth is hindered by frigid temperatures and short growing seasons. Arctic, alpine and Antarctic tundras exist. Vegetation is composed of dwarf shrubs, sedges, grasses, [[Moss|mosses]] and [[Lichen|lichens]]. In the Arctic, the soil is frozen 25 to 90 centimeters (10 to 35 in) down, and winter temperatures average about −28 °C (−18 °F). Arctic tundra is also a polar desert, receiving only 150–250 mm (6–10 in) of precipitation per year. The soil is rich in nitrogen and phosphorus and holds large amounts of carbon as [[Methane|methane]] and [[Carbon dioxide|carbon dioxide]] in [[Permafrost|permafrost]]. As warming thaws the soil, these gases are released into the atmosphere, creating a feedback cycle that contributes to [[Climate change|climate change]].
+
+=== KEY: Tungsten_77b7c4
+HEADWORD: Tungsten
+PERSON: no
+LINK TARGETS: Gold | Incandescent light bulb | Metalworking | Mining | Steel | Tungsten carbide | Uranium
+ENTRY:
+Chemical element with symbol W (from German *Wolfram*) and atomic number 74, a metal found in nature almost exclusively in compounds. It was identified as a distinct element in 1781 and first isolated as a metal in 1783. Its important ores include scheelite and wolframite. The free element has the highest melting point of all elements, 3,422 °C (6,192 °F), and the highest boiling point, 5,930 °C (10,706 °F). Its density of 19.254 g/cm³ is comparable with that of [[Uranium]] and [[Gold]]. About half of tungsten is used in [[Tungsten carbide|tungsten carbide]], a wear-resistant material for [[Metalworking|metalworking]], [[Mining|mining]] and construction. Tungsten also occurs in alloys, [[Incandescent light bulb|incandescent light bulb]] filaments, X-ray tubes and [[Steel|steel]].
+
+=== KEY: Tungsten_carbide_e355c0
+HEADWORD: Tungsten carbide
+PERSON: no
+LINK TARGETS: Cobalt | Corundum | Steel | Tungsten
+ENTRY:
+Hard, dense chemical compound of equal parts [[Tungsten|tungsten]] and carbon, with formula WC. It is about three times as stiff as [[Steel|steel]], with a Young's modulus of about 530–700 GPa, and twice as dense. Its hardness approaches that of diamond and is comparable with [[Corundum|corundum]]. Sintered with [[Cobalt|cobalt]] as a binder, it forms cemented carbide used in cutting tools, mining equipment, molding blocks and armor-piercing bullets. Henri Moissan first synthesized the powder in 1893, and industrial production of the cemented form began between 1913 and 1918.
+
+=== KEY: Tunguska_event_f6d19a
+HEADWORD: Tunguska event
+PERSON: no
+LINK TARGETS: Meteoroid | Richter scale | Siberia | Taiga
+ENTRY:
+Air burst explosion over remote [[Siberia]], Russia, in 1908. On the morning of June 30, 1908, a blast in the [[Taiga|taiga]] flattened nearly 2,150 km² (830 sq mi) of forest, knocked witnesses to the ground, and shattered windows within 200 km (120 mi). Seismic stations recorded a magnitude close to 5 on the [[Richter scale]]. The scientific consensus attributes it to a [[Meteoroid|meteoroid]] 50–60 m (160–200 ft) in diameter that exploded at an altitude of 5–10 km (3.1–6.2 mi), although no fragment has been identified. It is the most violent impact event on Earth recorded in modern times.
+
+=== KEY: Tunis_044c0f
+HEADWORD: Tunis
+PERSON: no
+LINK TARGETS: Arab world | Carthage | Maghreb | Tunisia | World Heritage Site
+ENTRY:
+Capital and largest city of [[Tunisia]], on the Gulf of Tunis in North Africa. As of 2020 it was the third-largest city in the [[Maghreb]] region, after Casablanca and Algiers, and the fifteenth-largest in the [[Arab world]]. The city extends along the coastal plain and surrounding hills, behind the Lake of Tunis and the port of La Goulette. At its core lies the Medina, a [[World Heritage Site]]. East of the Medina, through the Sea Gate, begins the modern Ville Nouvelle, traversed by the grand Avenue Habib Bourguiba, where colonial-era buildings contrast with older structures. Suburbs to the east by the sea include [[Carthage]], La Marsa and Sidi Bou Said. Settlements in the area are attested from the 4th century BC, and it was one of the first towns in the region to fall under Carthaginian control. Tunis is the focus of Tunisian political and administrative life.
+
+=== KEY: Tunisia_d6dacb
+HEADWORD: Tunisia
+PERSON: no
+LINK TARGETS: Algeria | Arab Spring | Carthage | Islam | Libya | Maghreb | Mediterranean Sea | Ottoman Empire
+ENTRY:
+Republic in the [[Maghreb]] region of North Africa, with Tunis as its capital. It is bordered by [[Algeria]] to the west and southwest, [[Libya]] to the southeast and the [[Mediterranean Sea]] to the north and east. [[Carthage]], the most powerful Phoenician settlement by the 7th century BC, was a mercantile empire and military rival to the Roman Republic until 146 BC, when Rome defeated it and occupied Tunisia for most of the next 800 years. Arab Muslims conquered the country in the 7th century AD, bringing [[Islam]] and Arab culture, and by about the 15th century the region was almost completely Arabized. The [[Ottoman Empire]] held control from 1546 until 1881, when France conquered Tunisia, and independence came in 1956. The 2011 Tunisian Revolution ended the 24-year rule of Zine El Abidine Ben Ali and sparked the broader [[Arab Spring]].
+
+=== KEY: Tunku_Abdul_Rahman_3cb398
+HEADWORD: Tunku Abdul Rahman
+PERSON: yes
+LINK TARGETS: Cambridge | Civil service | Lee Kuan Yew | Malaysia | Singapore
+ENTRY:
+Malaysian statesman, first prime minister of [[Malaysia]] (1957–70). A prince of the Kedah Sultanate, he graduated from St Catharine's College, [[Cambridge]], then joined the colonial [[Civil service|civil service]] and became a public prosecutor in 1949. He became president of UMNO in 1951 and formed the Alliance Party in 1952. After the Alliance won a landslide in the 1955 general election, he became chief minister of the Federation of Malaya. He secured independence for Malaya through the Treaty of London in 1956 and proclaimed it in 1957. In 1965, after mutual provocations with the People's Action Party led by [[Lee Kuan Yew]], he resolved to expel [[Singapore]] from the federation. He stepped down in 1970 after violent unrest during the 13 May incident, and was succeeded by Abdul Razak Hussein.
+
+=== KEY: Tunnel_eebee9
+HEADWORD: Tunnel
+PERSON: no
+LINK TARGETS: Aqueduct (water supply) | Babylon | Jerusalem | Military engineering | Mining | Rapid transit
+ENTRY:
+Underground or undersea passageway, dug through soil or rock or laid under water. It is usually enclosed except for a portal at each end, and may carry road or foot traffic, trains, or a canal. Some tunnels serve as sewers or [[Aqueduct (water supply)|aqueducts]], and utility tunnels carry steam, power or telecommunication cables. The central portions of a [[Rapid transit|rapid transit]] network are usually in tunnels. The first artificial tunnel is believed to have been built in [[Babylon]] around 2200 BC, joining a temple to a palace by the cut-and-cover technique. The Siloam Tunnel in [[Jerusalem]], built around the 8th century BC, was the earliest known tunnel excavated from both ends. Secret tunnels serve military purposes or smuggling of weapons, contraband, or people, and early tunneling evolved from [[Mining|mining]] and [[Military engineering|military engineering]].
+
+=== KEY: Tuol_Sleng_Genocide_Museum_955b81
+HEADWORD: Tuol Sleng Genocide Museum
+PERSON: no
+LINK TARGETS: Cambodian genocide | Khmer Rouge | Phnom Penh
+ENTRY:
+Museum in [[Phnom Penh]], Cambodia, documenting the [[Cambodian genocide]]. The former secondary school became Security Prison 21 (S-21), run by the [[Khmer Rouge]] from 1975 to 1979. It was one of between 150 and 196 torture and execution centers established by the Khmer Rouge and their secret police, and an estimated 20,000 people were imprisoned there from 1976 to 1979. Prisoners were repeatedly tortured. Vietnamese forces uncovered the prison in 1979. In 2010 the Extraordinary Chambers in the Courts of Cambodia convicted its chief, Kang Kek Iew, of crimes against humanity.
+
+=== KEY: Tupac_Shakur_9b6f11
+HEADWORD: Shakur, Tupac
+PERSON: yes
+LINK TARGETS: Black Panther Party | Hip-hop | New York City | Rolling Stone | San Francisco Bay Area
+ENTRY:
+American rapper and actor, also known as 2Pac and Makaveli. Born in [[New York City]] to parents who were members of the [[Black Panther Party]], he moved to the [[San Francisco Bay Area]] in 1988. His debut album, *2Pacalypse Now* (1991), established him as a central figure in West Coast [[Hip-hop|hip-hop]]. His Diamond-certified album *All Eyez on Me* (1996), the first hip-hop double album, yielded two Billboard Hot 100 number-one singles, "California Love" and "How Do U Want It". In 1994 he was shot five times in the lobby of a New York recording studio and served eight months in prison on sexual abuse charges. He was killed in a drive-by shooting in Paradise, Nevada, and in 2026 a Compton Crips member, Duane Davis, was convicted of orchestrating the killing. [[Rolling Stone]] ranked him among the 100 Greatest Artists of All Time.
+
+=== KEY: Tupolev_Tu_154_f5c66a
+HEADWORD: Tupolev Tu-154
+PERSON: no
+LINK TARGETS: Air force | Arctic
+ENTRY:
+Soviet and Russian medium-range trijet airliner, designed in the mid-1960s. Known to NATO as "Careless," it carried half of all Aeroflot passengers, about 137.5 million a year in 1990, and remained the standard domestic airliner of Russia and former Soviet states until the mid-2000s. It was exported to 17 non-Russian airlines and used as a head-of-state transport by several [[Air force|air forces]]. With a cruising speed of 850 km/h (460 kn; 530 mph) and a range of 5,280 km (3,280 mi), it operated from unpaved airfields in the [[Arctic]] regions of northern and eastern Russia, where other airliners could not fly.
+
+=== KEY: Turaco_c6c5a8
+HEADWORD: Turaco
+PERSON: no
+LINK TARGETS: Bird | Carotenoid | Cuckoo | Fig | Sub-Saharan Africa
+ENTRY:
+Family of medium-sized, brightly colored [[Bird|birds]] endemic to [[Sub-Saharan Africa|sub-Saharan Africa]]. The family, Musophagidae, also includes plantain-eaters and go-away-birds; the turacos are noted for pigments giving their feathers bright green and red colors. Turacoverdin is the only true green pigment in birds, and the red pigment turacin differs from the [[Carotenoid|carotenoid]] reds of other birds. Traditionally grouped with the [[Cuckoo|cuckoos]], turacos are now usually placed in their own order, Musophagiformes. All species are frugivorous, also eating leaves, buds and flowers, and [[Fig|figs]] are an important part of their diet. They are gregarious, non-migratory birds that move in family groups of up to 10. Many species are noisy, and the go-away-birds take their common name from their alarm calls. They build large stick nests in trees and lay 2 or 3 eggs.
+
+=== KEY: Turbine_8fa876
+HEADWORD: Turbine
+PERSON: no
+LINK TARGETS: Energy | Hero of Alexandria | Impulse (physics) | Steam turbine | Torque | Windmill | Work (physics)
+ENTRY:
+Rotary mechanical device that extracts [[Energy|energy]] from a fluid flow and converts it into useful [[Work (physics)|work]]. The work may drive a generator to produce electricity. A turbine is a turbomachine with at least one moving part. Its moving part, the rotor assembly, is a shaft or drum with attached blades; the fluid acts on the blades to impart rotational energy. Gas, steam and water turbines have a casing that contains and controls the working fluid. [[Impulse (physics)|Impulse]] turbines change the direction of a high-velocity fluid jet, while reaction turbines develop [[Torque|torque]] by reacting to pressure changes in the fluid. The word *turbine* was first applied to the device in 1822 by French mining engineer Claude Burdin, from Latin *turbo*, meaning vortex. [[Hero of Alexandria]] demonstrated the principle with an aeolipile in the first century AD, and early examples include [[Windmill|windmills]] and waterwheels. Modern [[Steam turbine|steam turbines]] often combine reaction and impulse designs.
+
+=== KEY: Turbofan_d4f579
+HEADWORD: Turbofan
+PERSON: no
+LINK TARGETS: Airbus A300 | Boeing 747 | Jet engine | Turbine
+ENTRY:
+Type of airbreathing [[Jet engine|jet engine]] in which a ducted fan, driven by a gas [[Turbine|turbine]], forces air rearward. Unlike a turbojet, part of the air entering the engine bypasses the core, combustion chamber and turbines. Most commercial airliners use high-bypass designs, which produce most of their thrust from a large mass of low-speed bypass air. Most modern fighter engines are low-bypass designs, which often use afterburners. Frank Whittle described the principle in a March 1936 patent. Turbofans power aircraft such as the [[Boeing 747]] and [[Airbus A300]].
+
+=== KEY: Turbot_d9970d
+HEADWORD: Turbot
+PERSON: no
+LINK TARGETS: Atlantic Ocean | Baltic Sea | Black Sea | Brackish water | Flatfish | Mediterranean Sea
+ENTRY:
+Large species of [[Flatfish|flatfish]], *Scophthalmus maximus*, in the family Scophthalmidae. It is a demersal fish native to marine or [[Brackish water|brackish]] waters of the northeast [[Atlantic Ocean|Atlantic]], the [[Baltic Sea]] and the [[Mediterranean Sea]]. It feeds on bottom-dwelling prey such as sand eels and gobies. It is an important food fish with bright white flesh that stays white when cooked, and it yields four fillets. Turbot is farmed in Bulgaria, Canada, France, Spain, Portugal, Romania, Turkey, Chile, Norway and China. [[Black Sea]] turbot, or kalkan, were once included in this species but are now regarded as separate. True turbot are not found in the Northwest Atlantic, where the name applies to the Greenland halibut.
+
+=== KEY: Turbulence_2e65f9
+HEADWORD: Turbulence
+PERSON: no
+LINK TARGETS: Atmospheric circulation | Drag (physics) | Kinetic energy | Pressure | Reynolds number | Richard Feynman | Viscosity
+ENTRY:
+Fluid motion characterized by chaotic changes in [[Pressure|pressure]] and flow velocity. It contrasts with laminar flow, in which fluid moves in parallel layers with no disruption between them. Most fluid flows in nature and engineering are turbulent, as with surf, fast-flowing rivers and chimney smoke. Turbulence arises when excess [[Kinetic energy|kinetic energy]] overcomes the damping effect of [[Viscosity|viscosity]], producing unsteady vortices that increase [[Drag (physics)|drag]] due to friction. The onset of turbulence can be predicted by the dimensionless [[Reynolds number]], the ratio of kinetic energy to viscous damping, yet turbulence has long resisted detailed physical analysis. Physicist [[Richard Feynman]] described turbulence as the most important unsolved problem in classical physics. Most of the terrestrial [[Atmospheric circulation|atmospheric circulation]] is turbulent. Its intensity affects fish ecology, air pollution, precipitation and climate change.
+
+=== KEY: Turin_42dc29
+HEADWORD: Turin
+PERSON: no
+LINK TARGETS: Art Nouveau | Association football | Camillo Benso, Count of Cavour | Kingdom of Italy | Piedmont | Shroud of Turin | Unification of Italy
+ENTRY:
+Capital and largest city of [[Piedmont]], northern Italy (pop., 2026: 855,654). It lies on the western bank of the Po River, near the western Alpine arch, and was the first capital of the [[Kingdom of Italy]] from 1861 to 1865. From 1563 it was capital of the Duchy of Savoy, and it was the political center of the Risorgimento that led to [[Unification of Italy]]. It was also the birthplace of [[Camillo Benso, Count of Cavour]]. Postwar Turin became a major industrial center, part of an industrial triangle with Milan and Genoa, and is home to much of Italy's automotive industry, including the headquarters of Fiat, Lancia and Alfa Romeo. The city is known for its Baroque, Rococo and [[Art Nouveau]] architecture, and for the Mole Antonelliana, which houses the National Museum of Cinema. It is also famous for the [[Shroud of Turin]] and the [[Association football|association football]] club Juventus.
+
+=== KEY: Turing_machine_0a3368
+HEADWORD: Turing machine
+PERSON: no
+LINK TARGETS: Abstract machine | Alan Turing | Algorithm | Programming language | Random-access memory
+ENTRY:
+Mathematical model of computation describing an [[Abstract machine|abstract machine]] that manipulates symbols on a strip of tape. Despite its simplicity, it can implement any [[Algorithm|algorithm]]. A head reads and writes symbols on an infinite tape, following a finite table of rules. [[Alan Turing]] invented it in 1936 and used it to prove the uncomputability of the Entscheidungsproblem, the decision problem of whether every mathematical statement is provable or disprovable. The machine's minimalist design makes it too slow for practical computation, so real computers use [[Random-access memory|random-access memory]]. Nearly all [[Programming language|programming languages]] are Turing complete if finite memory limits are ignored.
+
+=== KEY: Turing_test_6bf4a7
+HEADWORD: Turing test
+PERSON: no
+LINK TARGETS: Alan Turing | Consciousness
+ENTRY:
+Test of a machine's ability to imitate human intelligence, devised by [[Alan Turing]]. In the modern version, a human evaluator judges a text transcript of a conversation between a human and a machine, and the machine passes if the evaluator cannot reliably tell them apart. Turing introduced it in his 1950 paper "Computing Machinery and Intelligence" as the imitation game. The results depend on how closely the machine's answers resemble human ones, not on their correctness. Critics such as John Searle argue that the test cannot detect [[Consciousness|consciousness]].
+
+=== KEY: Turkey_221cdf
+HEADWORD: Turkey
+PERSON: no
+LINK TARGETS: Anatolia | Ankara | Istanbul | Kurds | Mustafa Kemal Atatürk | NATO | Ottoman Empire | Turkish War of Independence
+ENTRY:
+Country mainly in [[Anatolia]] in West Asia, with a smaller part, East Thrace, in Southeast Europe. Officially the Republic of Türkiye, it covers 783,562 sq km and has over 86 million people. It borders the Black Sea, Georgia, Armenia, Azerbaijan, Iran, Iraq, Syria, the Mediterranean and Aegean seas, Greece, and Bulgaria. Most inhabitants are ethnic Turks; [[Kurds]] are the largest minority. The state is officially secular; the population is Muslim-majority. [[Ankara]] is the capital; [[Istanbul]] is the largest city and economic center.
+
+Seljuk Turks began migrating into Anatolia in the 11th century, and the Seljuk Sultanate of Rum ruled until the Mongol invasion of 1243. From 1299 the Ottomans united the Turkish principalities, and Mehmed II conquered Constantinople in 1453. The [[Ottoman Empire]] became a global power under Selim I and Suleiman the Magnificent, then declined from 1789 onward. It entered World War I in 1914; during the war its government committed genocides against Armenian, Greek, and Assyrian subjects. After defeat, the [[Turkish War of Independence]] abolished the sultanate and led to the Treaty of Lausanne. The republic was proclaimed on October 29, 1923, under its founder and first president, [[Mustafa Kemal Atatürk]]. Turkey remained neutral during most of World War II, fought in the Korean War, and joined [[NATO]] in 1952.
+
+Turkey is a unitary presidential republic and an upper-middle-income emerging economy, ranked 16th by nominal and 11th by PPP-adjusted GDP. It is a founding member of the OECD and G20 and an EU candidate. Its terrain includes coastal plains, a high central plateau, and mountains rising eastward, and earthquakes are frequent.
+
+=== KEY: Turkey_bird_2bce95
+HEADWORD: Turkey
+PERSON: no
+LINK TARGETS: Americas | Columbian exchange | Domestic turkey | Galliformes | Wild turkey | Yucatán Peninsula
+ENTRY:
+Genus of large, heavyset birds in the order [[Galliformes]], native to the [[Americas]]. It includes the [[Wild turkey|wild turkey]] of Southern, Central and Eastern North America and the ocellated turkey of the [[Yucatán Peninsula]] in Mexico. Males of both species have a fleshy wattle called a snood. The wild turkey is the ancestor of the [[Domestic turkey|domestic turkey]], which indigenous peoples domesticated and later carried to Eurasia in the [[Columbian exchange]]. The name originally denoted the African guineafowl, imported to Europe via Turkey, and was transferred to this bird after English colonies were established in the New World.
+
+=== KEY: Turkic_languages_d1e876
+HEADWORD: Turkic languages
+PERSON: no
+LINK TARGETS: Balkans | Central Asia | East Asia | Language family | Siberia | Turkic peoples | UNESCO
+ENTRY:
+[[Language family]] of more than 35 documented languages spoken by the [[Turkic peoples]] of Eurasia. Spoken by some 200 million people, the languages range from the [[Balkans]] and Eastern Europe to [[Central Asia]], [[East Asia]], [[Siberia]] and West Asia. Turkish has the most speakers, with native speakers accounting for about 38% of the total, followed by Uzbek. Vowel harmony, agglutination, subject-object-verb order and the lack of grammatical gender are almost universal across the family. Most classifications divide it into two branches: Oghur, whose only surviving member is Chuvash, and Common Turkic, which includes all others. A proposed link to other families, the Altaic hypothesis, is widely rejected by historical linguists. On 15 December 1893 the Orkhon Inscriptions, among the first Turkic texts, were decrypted, and [[UNESCO]] declared December 15 "World Turkic Language Family Day".
+
+=== KEY: Turkic_peoples_7f011b
+HEADWORD: Turkic peoples
+PERSON: no
+LINK TARGETS: Adoption | Göktürks | Mongolia | Nomad | Religious conversion | Turkic languages | Uyghurs
+ENTRY:
+Diverse ethnic groups of West, Central, East and North Asia and parts of Europe, who speak [[Turkic languages]]. Proto-Turkic may have originated in Central-East Asia, potentially in the Altai-Sayan region, [[Mongolia]] or Tuva. Early speakers were possibly both hunter-gatherers and farmers, and later became nomadic [[Nomad|pastoralists]]. Many groups became Turkic through language shift, [[Adoption|adoption]], conquest and [[Religious conversion|religious conversion]]. Modern groups include the Azerbaijanis, Kazakhs, Kyrgyz, Turkmens, Turkish people, Tuvans, [[Uyghurs]], Uzbeks and Yakuts. The earliest known use of the name Turk, for the [[Göktürks]], dates to no later than 587 AD. Beyond language, they share to varying degrees cultural traits, ancestry from a common gene pool and historical experiences.
+
+=== KEY: Turkish_War_of_Independence_935a1b
+HEADWORD: Turkish War of Independence
+PERSON: no
+LINK TARGETS: Armenian genocide | Caliphate | Mustafa Kemal Atatürk | Ottoman Empire | Self-determination | World War I | İzmir
+ENTRY:
+Interwar conflict in Turkey, 1919–1923. A series of military campaigns and a revolution waged by the Turkish National Movement after the defeat of the [[Ottoman Empire]] in [[World War I]]. Turkish nationalists fought Allied and separatist forces over [[Self-determination|self-determination]] in Anatolia and eastern Thrace. [[Mustafa Kemal Atatürk]], sent by the sultan to restore order, became the leader of nationalist resistance and set up a counter-government in Ankara. The Allies agreed to send a Greek force to occupy Smyrna ([[İzmir]]), inflaming sectarian tensions. The Grand National Assembly signed the Treaty of Lausanne, more favorable to Turkey than Sèvres. The Grand National Assembly declared the Republic of Turkey on 29 October 1923, ending the Ottoman sultanate and [[Caliphate|caliphate]]. The Muslim share of the population rose from 80% to 98%, as the [[Armenian genocide]] and the Greek genocide largely destroyed the Christian presence in Anatolia.
+
+=== KEY: Turkish_language_5773b4
+HEADWORD: Turkish language
+PERSON: no
+LINK TARGETS: Arabic | Latin script | Phonology | Turkic languages | Vowel
+ENTRY:
+Most widely spoken [[Turkic languages|Turkic]] language, with around 90 million speakers. It is the national language of Turkey and one of two official languages of Cyprus. In 1928, as one of Atatürk's reforms, the Ottoman Turkish alphabet was replaced with the [[Latin script|Latin-script]] alphabet. Turkish grammar is generally very regular, with subject-object-verb word order and no noun classes or grammatical gender. Vowel harmony marks its [[Phonology|phonology]]: native words typically contain only front or only back [[Vowel|vowels]]. Over 80% of its vocabulary is native Turkic, though many [[Arabic]] loanwords were replaced by Turkish coinages during language reform. It has a strong T–V distinction that marks politeness, social distance and familiarity.
+
+=== KEY: Turkmenistan_f5d993
+HEADWORD: Turkmenistan
+PERSON: no
+LINK TARGETS: Caspian Sea | Central Asia | Dissolution of the Soviet Union | Karakum Desert | Natural gas | Russian Empire | Silk Road | United Nations
+ENTRY:
+Landlocked republic in [[Central Asia]], with Ashgabat as its capital. It is bordered by Kazakhstan and Uzbekistan to the north, Afghanistan to the southeast, Iran to the south and southwest, and the [[Caspian Sea]] to the west. Merv, one of the oldest oasis cities in Central Asia, was once among the largest cities in the world and an important stop on the [[Silk Road]]. Annexed by the [[Russian Empire]] in 1881, it became a Soviet republic in 1925 and gained independence after the [[Dissolution of the Soviet Union|dissolution of the Soviet Union]] in 1991. It holds the world's fifth-largest [[Natural gas|natural gas]] reserves, and most of the country is covered by the [[Karakum Desert]]. Since independence it has been ruled by repressive totalitarian regimes, most recently under Serdar Berdimuhamedow, who won a 2022 presidential election that observers judged neither free nor fair. It is a member of the [[United Nations]].
+
+=== KEY: Turks_and_Caicos_Islands_be741c
+HEADWORD: Turks and Caicos Islands
+PERSON: no
+LINK TARGETS: Bermuda | British Overseas Territories | Jamaica | Taíno
+ENTRY:
+[[British Overseas Territories|British Overseas Territory]] in the Lucayan Archipelago of the Atlantic Ocean, made up of the larger Caicos Islands and smaller Turks Islands. Known for tourism and as an offshore financial center, the islands were inhabited by Lucayan ([[Taíno|Taíno]]) people for centuries before the first recorded European sighting in 1512. The British Empire eventually gained control, and the islands were governed indirectly through [[Bermuda]], the Bahamas and [[Jamaica]]. When the Bahamas became independent in 1973, the islands received their own governor and have remained autonomous since. Cockburn Town on Grand Turk has been the capital since 1766.
+
+=== KEY: Turmeric_9c1bc6
+HEADWORD: Turmeric
+PERSON: no
+LINK TARGETS: Ayurveda | Curry | European Union | Flowering plant | Ginger | Indian subcontinent | World Health Organization
+ENTRY:
+[[Flowering plant|Flowering plant]] of the [[Ginger|ginger]] family, *Curcuma longa*. Native to the [[Indian subcontinent]] and Southeast Asia, it is used as a spice. Its rhizomes are dried and ground into a deep orange-yellow powder used as a coloring and flavoring agent in Asian cuisines, especially in [[Curry|curries]]. Although long used in [[Ayurveda|Ayurvedic]] medicine, there is no high-quality clinical evidence that turmeric or its principal constituent, curcumin, is effective for treating any disease. Curcumin is approved as a food additive by the [[World Health Organization]] and [[European Union]]. Turmeric is generally safe, though immune-mediated liver injury has rarely been linked to it.
+
+=== KEY: Turnip_043a46
+HEADWORD: Turnip
+PERSON: no
+LINK TARGETS: Central Asia | Livestock | Rutabaga | Talmud | Temperate climate
+ENTRY:
+Root vegetable, *Brassica rapa* subsp. *rapa*, commonly grown in [[Temperate climate|temperate climates]] for its white fleshy taproot. Small, tender varieties are eaten by people, while larger ones are grown as [[Livestock|livestock]] feed. The name is also used for [[Rutabaga|swede]], a different but related vegetable. Edible turnips were domesticated in [[Central Asia]] several thousand years ago, and Central Asian varieties are the most genetically diverse crops. The vegetable later spread to Europe and East Asia, and became an important food in the Hellenistic and Roman world. In antiquity, Jews regarded it as a food of the poor; the [[Talmud]] declares, "Woe to the house in which the turnip passes." It reached Japan by 700 CE.
+
+=== KEY: Turpentine_b30789
+HEADWORD: Turpentine
+PERSON: no
+LINK TARGETS: Distillation | Limonene | Petroleum | Pine | Resin
+ENTRY:
+Fluid [[Distillation|distilled]] from the [[Resin|resin]] of living trees, mainly [[Pine|pines]]. Principally used as a specialized solvent, it is also a source of material for organic syntheses. It is composed of terpenes, primarily α-pinene and β-pinene, with lesser amounts of carene, camphene, [[Limonene]] and terpinolene. Nowadays it is rarely distilled from pine resin; most is a byproduct of pulping. The sulfite process yields a cymene-rich product, the kraft process a pinene-rich one. Substitutes include white spirit and other [[Petroleum|petroleum]] distillates, though their chemicals differ.
+
+=== KEY: Turquoise_da3a4f
+HEADWORD: Turquoise
+PERSON: no
+LINK TARGETS: Ancient Egypt | Copper | Gemstone | Iran | Mineral | New Mexico
+ENTRY:
+Opaque blue-to-green [[Mineral|mineral]], a hydrous phosphate of [[Copper|copper]] and aluminum, prized as a [[Gemstone|gemstone]] for millennia. The finest grades reach a Mohs hardness just under 6. The sky-blue color of Persian turquoise, mined near Nishapur, [[Iran]], has long served as a reference for quality. Like most opaque gems, it has been devalued by treatments, imitations and synthetics. Pre-Columbian Native Americans mined it in [[New Mexico]], and [[Ancient Egypt|Ancient Egyptians]] used it, though not commonly. The name derives from Old French *turquois*, "Turkish", although the mineral is not found in Turkey.
+
+=== KEY: Turritopsis_dohrnii_071608
+HEADWORD: Turritopsis dohrnii
+PERSON: no
+LINK TARGETS: Jellyfish
+ENTRY:
+Species of small, biologically immortal [[Jellyfish|jellyfish]], also called the immortal jellyfish. Found worldwide in temperate to tropical waters, it is one of few known animals able to revert from the sexually mature medusa stage to a sedentary polyp colony. The reversal occurs through transdifferentiation, a process that changes existing cells into new types, and can be triggered by stress, injury or age. In theory it could repeat indefinitely, though in nature most individuals are likely to succumb to predation or disease first. Its capacity for biological immortality makes it an important target of research into aging and pharmaceuticals.
+
+=== KEY: Turtle_06deba
+HEADWORD: Turtle
+PERSON: no
+LINK TARGETS: Bone | Sea turtle | Tortoise
+ENTRY:
+Reptile of the order *Testudines*, characterized by a shell developed mainly from its ribs. Turtles fall into two major groups, *Pleurodira* (side-necked turtles) and *Cryptodira* (hidden-necked turtles), which differ in how the head retracts. About 360 living or extinct species are known, including land-dwelling [[Tortoise|tortoises]] and freshwater terrapins. The domed carapace and flatter plastron form a shell made mostly of [[Bone|bone]] and covered in keratin scales. Turtles are ectothermic and generally opportunistic omnivores. [[Sea turtle|Sea turtles]] are the only reptiles that migrate long distances to lay eggs on a favored beach. The leatherback, the largest living species, can exceed 2.7 m (8 ft 10 in) in length. Many species are extinct or threatened because of hunting, bycatch in fishing nets and habitat destruction.
+
+=== KEY: Tuscany_b6111b
+HEADWORD: Tuscany
+PERSON: no
+LINK TARGETS: Dante Alighieri | Etruscan civilization | Florence | Italy | Niccolò Machiavelli | Petrarch | Renaissance | Uffizi
+ENTRY:
+Region of central [[Italy]]. Its capital and largest city is [[Florence]]. Tuscany is regarded as the birthplace of the [[Renaissance|Italian Renaissance]] and of the foundations of the Italian language, which were shaped by the literature of [[Dante Alighieri]], [[Petrarch]], Giovanni Boccaccio, [[Niccolò Machiavelli]] and Francesco Guicciardini. Its museums include the [[Uffizi]] and the Palazzo Pitti, and its wines include Chianti and Brunello di Montalcino. The [[Etruscan civilization|Etruscans]] created the first major civilization in the region. Eight Tuscan localities are World Heritage Sites, including the historic centers of Florence, San Gimignano and Siena. The region has over 120 protected nature reserves. In 2018 Florence alone had over 5 million tourist arrivals.
+
+=== KEY: Tutankhamun_b7c710
+HEADWORD: Tutankhamun
+PERSON: yes
+LINK TARGETS: Akhenaten | Ancient Egyptian religion | Egyptian Museum | Mitanni | Nubia | Pharaoh | Valley of the Kings
+ENTRY:
+Egyptian [[Pharaoh|pharaoh]] of the Eighteenth Dynasty (r. c. 1332–1323 BC). Born Tutankhaten, he restored the traditional polytheistic [[Ancient Egyptian religion|religion]] of ancient Egypt, reversing the Atenism of [[Akhenaten]]'s reign, and changed his name to Tutankhamun. He moved the royal court back to Memphis and reestablished diplomatic relations with the [[Mitanni]]. His military campaigns reached [[Nubia]] and the Near East. He died at about 19 and was buried in a small tomb, because his royal tomb in the [[Valley of the Kings]] was unfinished. Excavators led by Howard Carter discovered the tomb in 1922, which had been robbed in antiquity but retained much of its contents, including over 5,000 artifacts and the king's undisturbed mummy. His mask, preserved at the [[Egyptian Museum]], remains a popular symbol.
+
+=== KEY: Tuva_1611e5
+HEADWORD: Tuva
+PERSON: no
+LINK TARGETS: Asia | Buddhism | Nicholas II | Qing dynasty | Russia | Shamanism | Siberia | Soviet Union
+ENTRY:
+Republic of [[Russia]] at the geographical center of [[Asia]], in southern [[Siberia]]. Its 336,651 people (2021 census) are 88.7% ethnic Tuvan and 10.1% ethnic Russian. Chinese dynasties and nomadic khanates controlled the area before the [[Qing dynasty]] incorporated it in 1758 as part of Outer Mongolia. A Russian protectorate followed in 1914, under [[Nicholas II]]. The nominally independent Tuvan People's Republic, recognized only by the [[Soviet Union]] and Mongolia, was annexed into the Russian Soviet Federative Socialist Republic in 1944. As of 2012, 61.8% adhered to [[Buddhism]] and 8% to [[Shamanism|Tuvan shamanism]].
+
+=== KEY: Tuvalu_4e18c1
+HEADWORD: Tuvalu
+PERSON: no
+LINK TARGETS: Charles III | Climate change | Commonwealth of Nations | International Date Line | Oceania | Polynesia | United Nations
+ENTRY:
+Archipelagic island country in the [[Polynesia|Polynesian]] subregion of [[Oceania]], midway between Hawaii and Australia. It is composed of three reef islands and six atolls, lying west of the [[International Date Line]]. The 2022 census recorded 10,643 people, making it the second least populated member of the [[United Nations]]. Its first inhabitants, Polynesians, arrived as part of a migration that began about three thousand years ago. A British protectorate was proclaimed in 1892, and Tuvalu became a separate colony in 1976. It became fully independent on 1 October 1978, as a constitutional monarchy within the [[Commonwealth of Nations|Commonwealth]] with [[Charles III]] as king. With little soil, the country relies on fishing licenses, remittances and aid. Being low-lying, it is extremely vulnerable to [[Climate change|sea level rise]].

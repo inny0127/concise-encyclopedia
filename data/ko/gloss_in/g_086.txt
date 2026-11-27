@@ -1,0 +1,759 @@
+=== KEY: Masturbation_427e96
+HEADWORD: Masturbation
+PERSON: no
+LINK TARGETS: Orgasm | Vibrator (sex toy)
+ENTRY:
+Form of autoeroticism in which a person sexually stimulates one's own genitals, usually to [[Orgasm|orgasm]]. It is frequent in both sexes, and clinicians consider it a healthy, normal part of sexual enjoyment. Techniques include touching by hand, using everyday objects or [[Vibrator (sex toy)|vibrators]], and it may also be performed with a partner, known as mutual masturbation. Religions vary in their views. In the 18th and 19th centuries, some European theologians and physicians described it in negative terms, but such taboos generally declined in the 20th century. The word was introduced in the 18th century, based on the Latin verb *masturbari*. Its legal status has varied, and masturbation in public is illegal in most countries. It has been observed in many non-human animals.
+
+=== KEY: Mata_Hari_430238
+HEADWORD: Mata Hari
+PERSON: yes
+LINK TARGETS: Dutch East Indies | Espionage | Java | World War I
+ENTRY:
+Dutch exotic dancer and courtesan. Born Margaretha Geertruida Zelle in Leeuwarden, the Netherlands, she married Dutch colonial army captain Rudolf MacLeod and lived with him on [[Java|Java]] in the [[Dutch East Indies|Dutch East Indies]]. Her stage name means "sun" in Indonesian. She was convicted of being a [[Espionage|spy]] for Germany during [[World War I|World War I]] and was executed by firing squad in France. Later biographers argue that the French Army needed a scapegoat and that the files used against her contained falsifications, and some argue that she could not have been a spy. Her story made her name synonymous with the femme fatale.
+
+=== KEY: Materialism_3c6158
+HEADWORD: Materialism
+PERSON: no
+LINK TARGETS: Consciousness | Democritus | Epicurus | Idealism | Monism | Naturalism (philosophy) | Thomas Hobbes
+ENTRY:
+Philosophical doctrine that matter is the fundamental substance of nature. Materialism is a form of [[Monism|monism]] holding that all things, including mind and [[Consciousness|consciousness]], arise from material interactions and depend on physical processes. It contrasts with [[Idealism|idealism]], which treats consciousness as fundamental, and it is closely related to [[Naturalism (philosophy)|naturalism]] and to physicalism, which extends matter to include energy, forces and spacetime. Ancient atomists such as [[Democritus|Democritus]] and [[Epicurus|Epicurus]] explained all change through the motion of atoms, and [[Thomas Hobbes|Thomas Hobbes]] advanced materialism in the modern era. A central controversy is the hard problem of consciousness: critics argue that material accounts fail to capture subjective experience, while proponents hold that it emerges from complex neural configurations.
+
+=== KEY: Materials_science_8fbb97
+HEADWORD: Materials science
+PERSON: no
+LINK TARGETS: Age of Enlightenment | Josiah Willard Gibbs | Metallurgy | Nanotechnology | Semiconductor | Space Race
+ENTRY:
+Interdisciplinary field concerned with the structure of materials, their properties, and how to design them for specific applications. The internal structure of a material, from atomic arrangements to microscopic features, strongly influences its mechanical, electrical, thermal and optical behavior. Practitioners use the processing–structure–properties–performance paradigm, in which processing determines structure, structure determines properties, and properties control performance in service. The field grew out of [[Metallurgy|metallurgy]] and ceramics, among the oldest forms of engineering, and drew on chemistry, physics and engineering from the [[Age of Enlightenment|Enlightenment]] onward. It was widely recognized as a distinct field only from the 1940s. In the late 19th century, [[Josiah Willard Gibbs|Josiah Willard Gibbs]] showed that the thermodynamic properties of atomic phases relate to the physical properties of materials. Work for the [[Space Race|Space Race]] advanced metal alloys and silica and carbon materials. The field has contributed to biomaterials, [[Nanotechnology|nanotechnology]] and [[Semiconductor|semiconductors]].
+
+=== KEY: Mathematical_analysis_5b0aaa
+HEADWORD: Mathematical analysis
+PERSON: no
+LINK TARGETS: Archimedes | Calculus | Complex analysis | Functional analysis | Galileo Galilei | Harmonic analysis | Johannes Kepler | Scientific Revolution
+ENTRY:
+Branch of mathematics that studies functions, spaces, and operators through methods of approximation and convergence. It grew out of [[Calculus|calculus]], especially the use of derivatives and integrals to study variable quantities, and in the 19th century its foundations were reformulated with greater rigor. Its basic objects include the real numbers, functions, sequences, series, and limits. Analysis connects closely with the sciences, providing methods for formulating mathematical models, constructing approximations, and estimating their errors.
+
+Typical questions concern how functions, sequences, and operators behave under limiting processes: convergence and continuity, regularity and stability, quantitative bounds, and the accuracy of approximations. Modern analysis studies these in many settings, including Euclidean, metric, topological, and measure spaces and function spaces. Major areas include [[Complex analysis|complex analysis]], [[Functional analysis|functional analysis]], measure theory, [[Harmonic analysis|harmonic analysis]], and the theory of ordinary and partial differential equations.
+
+Analysis formally developed in the 17th century during the [[Scientific Revolution]], but many of its ideas are older. An infinite geometric sum is implicit in Zeno's paradox of the dichotomy. Eudoxus and [[Archimedes]] used the method of exhaustion to compute areas and volumes, and Liu Hui used it in the 3rd century CE to find the area of a circle. In the medieval period, Ibn al-Haytham worked on sums of powers and area problems; the Oxford Calculators studied uniformly accelerated motion; Nicole Oresme proved the divergence of the harmonic series; Bhāskara II used infinitesimal reasoning; and the Kerala school, especially Madhava, developed infinite series for trigonometric functions. In the early 17th century, [[Johannes Kepler]] used infinitesimal arguments for area and volume, [[Galileo Galilei]] connected mathematics with motion, and Bonaventura Cavalieri developed the method of indivisibles. These were precursors rather than analysis in the modern sense. The differential and integral calculus of Newton and Leibniz became the starting point for much of later analysis.
+
+=== KEY: Mathematical_constant_1ab468
+HEADWORD: Mathematical constant
+PERSON: no
+LINK TARGETS: Calculus | Exponential function | Irrational number | Jacob Bernoulli | Pi
+ENTRY:
+Number whose value is fixed by an unambiguous definition and often given a special symbol or name. Constants such as [[Pi|π]] and e occur in geometry, number theory, statistics and [[Calculus|calculus]]. Some arise from a fundamental principle, as π does, while others are notable mainly for historical reasons. The square root of 2, known as Pythagoras' constant, is the length of a diagonal across a unit square and is an [[Irrational number|irrational number]]. π is irrational and transcendental, and it appears in many formulas in physics as well as in pure mathematics. Euler's number e, the base of the [[Exponential function|exponential function]], was discovered by [[Jacob Bernoulli|Jacob Bernoulli]] to arise in compound interest. All named mathematical constants are definable numbers, and usually computable.
+
+=== KEY: Mathematical_induction_975fda
+HEADWORD: Mathematical induction
+PERSON: no
+LINK TARGETS: Inductive reasoning | Pierre de Fermat | Recursion
+ENTRY:
+Method of proof showing that a statement holds for every natural number. The proof has two parts. The base case establishes the statement for the first case, usually n = 0 or n = 1, and the induction step shows that if it holds for n = k, it also holds for n = k + 1. The idea is often illustrated by falling dominoes or climbing a ladder. Mathematical induction is an inference rule in formal proofs and the foundation of most correctness proofs for computer programs. It extends to well-founded structures such as trees, a generalization known as structural induction that is closely related to [[Recursion|recursion]]. Despite its name, it differs from [[Inductive reasoning|inductive reasoning]] in philosophy, because it gives a rigorous proof by a finite chain of deductive reasoning rather than a probable conclusion. Al-Karaji used an implicit form of the argument around 1000, and [[Pierre de Fermat|Pierre de Fermat]] employed it in number theory in the 17th century.
+
+=== KEY: Mathematical_logic_70faae
+HEADWORD: Mathematical logic
+PERSON: no
+LINK TARGETS: Computability theory | David Hilbert | Kurt Gödel | Zermelo–Fraenkel set theory
+ENTRY:
+Subfield of mathematics that studies logic through formal systems defining rules of reasoning and their axioms. Its major subareas are model theory, proof theory, set theory and [[Computability theory|recursion theory]]. Research addresses the expressive and deductive power of formal systems and the foundations of mathematics. The field emerged in the mid-19th century, and in the early 20th century [[David Hilbert|David Hilbert]] proposed a program to prove the consistency of mathematics. Results of [[Kurt Gödel|Kurt Gödel]] and Gerhard Gentzen provided only partial resolution, but clarified the issues involved. Work in [[Zermelo–Fraenkel set theory|set theory]] showed that all mathematics can be formalized in terms of sets, and this led to proof assistants such as Lean, which can completely verify difficult theorems.
+
+=== KEY: Mathematical_optimization_3f9b51
+HEADWORD: Mathematical optimization
+PERSON: no
+LINK TARGETS: Economics | Gradient descent | Linear programming | Machine learning | Nonlinear programming | Operations research
+ENTRY:
+Study of algorithms for selecting the best element from a set of alternatives, usually by maximizing or minimizing a function. It is divided into discrete optimization, where the sought object is an integer, permutation or graph, and continuous optimization, where it is drawn from a continuous set. The function is called an objective, cost, loss or utility function, and optimal solutions are sought among feasible solutions that satisfy constraints. Because maximizing a function is equivalent to minimizing its negative, the field usually works with minimization. Key techniques include [[Linear programming|linear programming]], [[Nonlinear programming|nonlinear programming]] and [[Gradient descent|gradient descent]], and the field underlies [[Operations research|operations research]], [[Economics|economics]] and [[Machine learning|machine learning]].
+
+=== KEY: Mathematical_proof_8ccaa1
+HEADWORD: Mathematical proof
+PERSON: no
+LINK TARGETS: Axiom | Binomial theorem | Conjecture | Euclid | Formal language | Inductive reasoning | Non-Euclidean geometry | Pythagorean theorem
+ENTRY:
+Deductive argument for a mathematical statement, showing that the stated assumptions logically guarantee the conclusion. A proof may use previously established theorems, but every proof can in principle be built from basic assumptions called [[Axiom|axioms]] and accepted rules of inference. Proofs establish logical certainty, unlike empirical arguments or non-exhaustive [[Inductive reasoning|inductive reasoning]]; presenting many cases in which a statement holds is not enough, since a proof must show it true in all possible cases. A proposition believed true but not yet proved is a [[Conjecture|conjecture]].
+
+Proofs combine mathematical symbols with natural language, and most mathematical literature uses rigorous informal logic. Purely formal proofs, written entirely in a [[Formal language|formal language]], are the subject of proof theory: a formal proof is a sequence of formulas, each a logical consequence of the preceding ones. The standard of rigor is not absolute and has varied through history, and a proof must meet communal standards to be accepted.
+
+The word derives from the Latin *probare*, "to test". Plausibility arguments using pictures and analogies preceded strict proof, which is primarily the product of ancient Greek mathematics. Thales and Hippocrates of Chios gave some of the first known proofs of geometric theorems. [[Euclid]] revolutionized the field by introducing the axiomatic method still in use, which starts from undefined terms and axioms and proves theorems by deductive logic. His *Elements* includes the [[Pythagorean theorem|Pythagorean theorem]], and a proof that the square root of two is irrational. In medieval Islamic mathematics, Al-Hashimi proved algebraic propositions about numbers, including the existence of irrational numbers, and Al-Karaji used an inductive proof in the *Al-Fakhri* (1000) to prove the [[Binomial theorem|binomial theorem]] and properties of Pascal's triangle. Modern proof theory treats proofs as inductively defined data structures and does not require axioms to be true in any sense, allowing parallel theories such as axiomatic set theory and [[Non-Euclidean geometry|non-Euclidean geometry]].
+
+=== KEY: Mathematics_540b21
+HEADWORD: Mathematics
+PERSON: no
+LINK TARGETS: Axiom | Economics | Engineering | Euclid's Elements | Leonhard Euler | Number theory | Pierre de Fermat | René Descartes
+ENTRY:
+Field of knowledge concerned with abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities. It uses logical reasoning and proof to establish their properties, often expressed as theorems, formulas, and equations. Mathematics is widely used to model and solve problems in science, [[Engineering|engineering]], technology, [[Economics|economics]], and everyday life. Its objects are either abstractions from nature or purely abstract entities stipulated to have certain properties, called [[Axiom|axioms]]. Although it is used to model empirical phenomena, its results are established by deductive proof rather than by experiment, and the relationship between mathematical truth, logic, and reality is a subject of philosophical debate.
+
+Major areas include [[Number theory|number theory]] (the study of integers and their properties), algebra (the study of operations and the structures they form), geometry (the study of shapes and the spaces that contain them), analysis (the quantitative study of approximation and convergence), and set theory, presently used as a foundation for all mathematics. Some areas, such as game theory, develop in close correlation with applications and are grouped under applied mathematics; others develop independently but often find practical applications later. The 2020 Mathematics Subject Classification lists 63 first-level areas.
+
+Mathematical written records first appeared in ancient Egypt and Mesopotamia, but the concept of proof and its associated rigor began in ancient Greek mathematics, exemplified in [[Euclid's Elements|Euclid's *Elements*]]. Until the 16th and 17th centuries mathematics was primarily divided into geometry and arithmetic; during the Renaissance, modern algebra and calculus became new areas, and combinatorics became a separate branch in the 17th century. Before then, pseudosciences such as numerology and astrology were not clearly distinguished from it. At the end of the 19th century the foundational crisis of mathematics led to the systematic use of the axiomatic method, which greatly increased the number of areas and their applications.
+
+Number theory evolved from the manipulation of natural numbers, later extended to integers and rational numbers. Two prominent early number theorists were Euclid and Diophantus of Alexandria, and the modern abstract study is largely attributed to [[Pierre de Fermat]] and [[Leonhard Euler]]. Fermat's Last Theorem, stated in 1637, was proved only in 1994 by Andrew Wiles, using tools from algebraic geometry, category theory, and homological algebra. Goldbach's conjecture, stated in 1742, asserts that every even integer greater than 2 is the sum of two prime numbers and remains unproven.
+
+Geometry is one of the oldest branches, beginning with empirical recipes for surveying and architecture. The ancient Greeks introduced the requirement that every assertion be proved, systematized by Euclid around 300 BC. Euclidean geometry developed without change of methods until the 17th century, when [[René Descartes]] introduced Cartesian coordinates, allowing algebra and later calculus to be used to solve geometric problems.
+
+=== KEY: Matrix_mathematics_72c0f0
+HEADWORD: Matrix
+PERSON: no
+LINK TARGETS: Arthur Cayley | Determinant | Graph theory | Linear algebra | Matrix multiplication
+ENTRY:
+Rectangular array of numbers or other mathematical objects arranged in rows and columns. A matrix with m rows and n columns is an m × n matrix, and a matrix with the same number of rows and columns is called square. Matrices are used in [[Linear algebra|linear algebra]] as linear maps, in geometry for transformations such as rotations, and in numerical analysis, where many computational problems are reduced to matrix computations. A square matrix is invertible if and only if its [[Determinant|determinant]] is nonzero. Matrix theory began as a sub-branch of linear algebra but grew to include [[Graph theory|graph theory]], algebra, combinatorics and statistics. The term was coined by James Joseph Sylvester in 1850, and [[Arthur Cayley|Arthur Cayley]] formalized [[Matrix multiplication|matrix multiplication]] in the 1850s.
+
+=== KEY: Matrix_multiplication_af11dc
+HEADWORD: Matrix multiplication
+PERSON: no
+LINK TARGETS: Dot product | Linear algebra | Matrix (mathematics)
+ENTRY:
+Binary operation in [[Linear algebra|linear algebra]] that produces a [[Matrix (mathematics)|matrix]] from two matrices. The product of an m × n matrix and an n × p matrix is an m × p matrix, defined only when the number of columns in the first matrix equals the number of rows in the second. Each entry of the product is the [[Dot product|dot product]] of a row of the first matrix and a column of the second. Matrix multiplication is associative but not generally commutative, and it represents the composition of linear maps. It was first described by Jacques Philippe Marie Binet in 1812.
+
+=== KEY: Matsuo_Bash_641d4d
+HEADWORD: Bashō, Matsuo
+PERSON: yes
+LINK TARGETS: Edo period | Haiku
+ENTRY:
+Japanese poet of the [[Edo period|Edo period]], regarded as the greatest master of [[Haiku|haiku]]. Born Matsuo Kinsaku in Iga Province, he served as a page to Tōdō Yoshitada, with whom he shared a love of *haikai no renga*, a form of collaborative linked verse. He left that service after Yoshitada's death in 1666 and settled in Edo, where he taught and edited anthologies. Haiku was then called hokku, the opening verse of a renga sequence, and he refined it into a standalone form that emphasizes seasonal imagery and simple description. From the 1680s he traveled widely across Japan and recorded his journeys in travel essays, of which *Oku no Hosomichi* (*The Narrow Road to the Deep North*) is the best known. He died in Osaka during his final journey.
+
+=== KEY: Matt_Damon_8248e5
+HEADWORD: Damon, Matt
+PERSON: yes
+LINK TARGETS: Academy Awards | Ben Affleck | Mars
+ENTRY:
+American actor, screenwriter and producer. Damon co-wrote the screenplay for *Good Will Hunting* (1997) with [[Ben Affleck|Ben Affleck]], and the two won the [[Academy Awards|Academy Award]] for Best Original Screenplay. He became a leading man in the *Bourne* films and the *Ocean's* trilogy. He won a Golden Globe Award for Best Actor for playing an astronaut stranded on [[Mars|Mars]] in *The Martian* (2015). He was nominated for a Primetime Emmy Award for the HBO biopic *Behind the Candelabra* (2013). Damon co-founded the nonprofit Water.org in 2009 with engineer Gary White, which promotes market-based financing for safe water and sanitation.
+
+=== KEY: Matt_Groening_0ace5a
+HEADWORD: Groening, Matt
+PERSON: yes
+LINK TARGETS: Hollywood Walk of Fame | Netflix
+ENTRY:
+American cartoonist, creator of *The Simpsons* and *Futurama*. His comic strip *Life in Hell* (1977–2012) was carried in 250 weekly newspapers at its peak. Animated shorts he made for *The Tracey Ullman Show* became *The Simpsons*, the longest-running American primetime television series. He co-developed *Futurama* with David X. Cohen and created *Disenchantment* for [[Netflix|Netflix]]. He has won 14 Primetime Emmy Awards and received a star on the [[Hollywood Walk of Fame|Hollywood Walk of Fame]] in 2012.
+
+=== KEY: Matt_Stone_534e6b
+HEADWORD: Stone, Matt
+PERSON: yes
+LINK TARGETS: Trey Parker
+ENTRY:
+American animator, filmmaker, songwriter and actor. With [[Trey Parker]], whom he met at the University of Colorado Boulder, he created the animated satire *South Park* (since 1997) and the films *South Park: Bigger, Longer & Uncut* (1999) and *Team America: World Police* (2004). With Robert Lopez, Stone co-created the musical *The Book of Mormon* (2011). He has won five Primetime Emmy Awards and a Peabody for *South Park*, and three Tony Awards and a Grammy Award for *The Book of Mormon*. In 2026 he was inducted into the Television Hall of Fame.
+
+=== KEY: Matter_125795
+HEADWORD: Matter
+PERSON: no
+LINK TARGETS: Atom | Democritus | Kaṇāda
+ENTRY:
+In physical science, anything that has mass and occupies space by having volume. All everyday objects that can be touched are ultimately composed of [[Atom|atoms]], which are made up of interacting subatomic particles. Matter generally includes atoms and anything made up of them, and any particles that act as if they have both rest mass and volume. It does not include massless particles such as photons, or other energy phenomena or waves such as light or heat.
+
+Matter exists in various states, or phases. These include the everyday solid, liquid, and gas, as with water as ice, liquid, and steam, and also plasma, Bose–Einstein condensates, fermionic condensates, and quark–gluon plasma. An atom can be imagined as a nucleus of protons and neutrons surrounded by a cloud of orbiting electrons, but this is only somewhat correct, because subatomic particles are governed by quantum mechanics: they can act like waves as well as particles and lack well-defined sizes or positions. In the Standard Model of particle physics, matter is not a fundamental concept, because the elementary constituents of atoms have no inherent size or volume in the everyday sense. Because of the exclusion principle and other fundamental interactions, fermions (quarks and leptons) and many composites and atoms are effectively forced to keep a distance from other particles, which produces the property that matter takes up space.
+
+The idea that matter is built of discrete building blocks, the particulate theory of matter, appeared in both ancient Greece and ancient India. Early proponents include the Indian philosopher [[Kaṇāda]] (c. 6th century BCE) and the Greek philosophers Leucippus (c. 490 BCE) and [[Democritus]] (c. 470–380 BCE).
+
+Definitions vary by scale. One definition holds that matter is made of atoms, which also includes charged atoms and molecules and so covers plasmas and electrolytes. A finer definition counts anything made of protons, neutrons, and electrons, which includes electron beams in an old cathode ray tube television and white dwarf matter. At the level of elementary particles, ordinary matter is everything composed of quarks and leptons, excluding antiquarks and antileptons, which are antimatter. Ordinary matter is composed entirely of first-generation particles, the up and down quarks plus the electron and its neutrino. The W and Z bosons, which mediate the weak force, are not ordinary matter even though they have mass.
+
+Matter is distinct from mass. Mass is a well-defined, extensive property of matter and other substances or systems, not a substance itself. Most of the mass of everyday objects comes from the interaction energy of its elementary components: the three quarks in a nucleon sum to approximately 12.5 MeV/c², low compared to the nucleon's approximately 938 MeV/c², with most of the rest coming from the binding energy of quarks within protons and neutrons.
+
+=== KEY: Matterhorn_a07bff
+HEADWORD: Matterhorn
+PERSON: no
+LINK TARGETS: Alps | Europe | Switzerland
+ENTRY:
+Peak in the [[Alps]] on the border between [[Switzerland]] and Italy. Its summit, 4,478 m (14,692 ft) above sea level, is one of the highest in the Alps and [[Europe]]. It has been claimed to be the most photographed mountain in the world, and it is an emblem of Switzerland. The first ascent, in 1865, ended in a fall that killed four of the seven climbers. The north face was not climbed until 1931. Over 500 alpinists are estimated to have died on the mountain, one of the deadliest peaks in the world.
+
+=== KEY: Matthew_McConaughey_7f2678
+HEADWORD: McConaughey, Matthew
+PERSON: yes
+LINK TARGETS: HBO | Sex symbol
+ENTRY:
+American actor. He gained attention in the coming-of-age comedy *Dazed and Confused* (1993) and became a leading man with *A Time to Kill* (1996). Romantic comedies in the 2000s made him a [[Sex symbol|sex symbol]]. His portrayal of Ron Woodroof, a cowboy diagnosed with AIDS, in *Dallas Buyers Club* (2013) won him the Academy Award for Best Actor. He starred as Rust Cohle in the first season of [[HBO]]'s *True Detective* (2014), earning a Primetime Emmy nomination. Later films include *Interstellar* (2014) and *The Gentlemen* (2019).
+
+=== KEY: Matthew_Perry_fb8658
+HEADWORD: Perry, Matthew
+PERSON: yes
+LINK TARGETS: Ketamine | NBC | White House
+ENTRY:
+Canadian and American actor. He was best known for playing Chandler Bing on the [[NBC]] sitcom *Friends* (1994–2004), for which he received a Primetime Emmy nomination in 2002. He also starred in *Mr. Sunshine* (2011) and *Go On* (2012), and in films including *The Whole Nine Yards* (2000). He struggled with addiction to drugs and alcohol for most of his life. He became an advocate for addiction treatment and received the Champion of Recovery Award from the [[White House]] Office of National Drug Control Policy in 2013. He died from the acute effects of [[Ketamine|ketamine]], with accidental drowning as a contributing factor.
+
+=== KEY: Matthew_Shepard_af24b2
+HEADWORD: Shepard, Matthew
+PERSON: yes
+LINK TARGETS: Barack Obama
+ENTRY:
+Student at the University of Wyoming whose murder drew national attention to hate crime legislation. Shepard was beaten, tortured and left to die near Laramie, Wyoming, in October 1998, and died six days later. Aaron McKinney and Russell Henderson each received two consecutive life sentences. The prosecutor argued that the killing was premeditated and driven by greed. Media coverage focused on Shepard's sexual orientation as a possible motive, while some investigative reporting has attributed the attack to a failed drug robbery. The Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act, signed by [[Barack Obama]] in 2009, is named in part for him.
+
+=== KEY: Matthias_Corvinus_133594
+HEADWORD: Matthias Corvinus
+PERSON: yes
+LINK TARGETS: Bohemia | John Hunyadi | Kingdom of Hungary | Ottoman Empire | Renaissance
+ENTRY:
+King of [[Kingdom of Hungary|Hungary]] and Croatia (r. 1458–1490). Son of the regent [[John Hunyadi]], he was proclaimed king at age 14 after his uncle Michael Szilágyi persuaded the Estates to elect him; he took effective control within two weeks. He was elected King of [[Bohemia]] in 1469 and adopted the title Duke of Austria in 1487. He fought the Czech mercenaries who dominated Upper Hungary and the Holy Roman Emperor Frederick III, occupying Lower Austria between 1482 and 1487. He briefly attacked [[Ottoman Empire|Ottoman]]-held territory but gave up his anti-Ottoman policy after receiving no substantial aid from Christian powers. He established the Black Army of Hungary, one of the earliest professional standing armies of medieval Europe, reformed the administration of justice, and reduced the power of the barons. His royal library, the Bibliotheca Corviniana, was one of the largest book collections in Europe. With his patronage, Hungary became the first country to embrace the [[Renaissance]] from Italy. He remains a folk hero, Matthias the Just, in Hungarian and Slovak tales.
+
+=== KEY: Maudgalyayana_290c42
+HEADWORD: Maudgalyāyana
+PERSON: yes
+LINK TARGETS: Schism | Śāriputra
+ENTRY:
+Disciple of the Buddha, one of his two foremost male disciples. Born Kolita, Maudgalyāyana and [[Śāriputra]] became spiritual wanderers in their youth, encountered the Buddha's teaching and ordained as monks; Maudgalyāyana attained enlightenment shortly after. He is depicted in Buddhist art accompanying the Buddha, and he was known for the psychic powers he used in teaching. In many early Buddhist canons he helped reunite the monastic community after Devadatta caused a [[Schism|schism]]. He died at age 84, killed through the efforts of a rival sect; scriptures describe this as the karmic result of having killed his parents in a previous life. Post-canonical texts describe him transferring merit to his mother, a story behind the ghost festival observed in many Buddhist countries. He was traditionally associated with meditation and the Dharmaguptaka school. Relics attributed to him, found in the nineteenth century, are widely venerated.
+
+=== KEY: Maui_867f48
+HEADWORD: Maui
+PERSON: no
+LINK TARGETS: Hawaiian Islands
+ENTRY:
+Second-largest island in the [[Hawaiian Islands|Hawaiian archipelago]] (pop., 2020: 168,307). Maui covers 1,883 sq km (727.2 sq mi) and is one of Maui County's four sizable islands. Two volcanoes dominate it, Haleakalā in the southeast and the West Maui Mountains in the northwest, joined by an isthmus that gives the island its nickname, the Valley Isle. Tourism is central to the economy, with nearly three million visitors in 2022. In 2023 fire mostly destroyed the historic town of Lāhainā.
+
+=== KEY: Mauna_Kea_602773
+HEADWORD: Mauna Kea
+PERSON: no
+LINK TARGETS: Maunakea Observatories | Mount Everest | Shield volcano
+ENTRY:
+Dormant [[Shield volcano|shield volcano]] on the island of Hawaiʻi. Its summit, at 13,803 ft (4,207.3 m) above sea level, is the highest point in Hawaii. Measured from the ocean floor, its prominence of 30,610 ft (9,330 m) is rivaled only by [[Mount Everest]], and some authorities have called it the tallest mountain in the world. The volcano is about one million years old and last erupted 6,000 to 4,000 years ago. Since an access road was built in 1964, thirteen telescopes funded by eleven countries have been built at the summit, forming the [[Maunakea Observatories]], the largest such facility in the world.
+
+=== KEY: Mauna_Loa_a407b5
+HEADWORD: Mauna Loa
+PERSON: no
+LINK TARGETS: Mauna Kea | Shield volcano
+ENTRY:
+A [[Shield volcano|shield volcano]] with gentle slopes, one of five volcanoes that form the island of Hawaiʻi. It is Earth's largest active volcano by mass and volume, with an estimated volume of 18,000 cubic miles (75,000 km³). Its peak is about 125 ft (38 m) lower than that of its neighbor, [[Mauna Kea]]. Its silica-poor lava is very fluid, and its eruptions tend to be non-explosive. The volcano has likely been erupting for at least 700,000 years. Its most recent eruption, from November 27 to December 13, 2022, was the first since 1984. Eruptions in 1926 and 1950 destroyed villages, and part of Hilo is built on late-19th-century lava flows. Monitored by the Hawaiian Volcano Observatory since 1912, Mauna Loa is part of the Decade Volcanoes program, which studies the world's most dangerous volcanoes. The Mauna Loa Observatory, near the summit, measures atmospheric conditions.
+
+=== KEY: Maunakea_Observatories_819e8e
+HEADWORD: Maunakea Observatories
+PERSON: no
+LINK TARGETS: Canada | France | Humidity | Mauna Kea | NASA
+ENTRY:
+Group of astronomical observatories at the summit of [[Mauna Kea]] on Hawaiʻi. The facilities are independent research sites in a 525-acre (212 ha) special land use zone, the Astronomy Precinct, within the Mauna Kea Science Reserve. The precinct was established in 1967. The summit's dark skies, low [[Humidity|humidity]], low atmospheric turbulence and high elevation make it nearly ideal for astronomy. Gerard Kuiper, seeking an arid site for infrared studies, built a small telescope on Puʻu Poliʻahu, but the larger [[NASA]] project went to a University of Hawaii team led by John Jefferies. Construction of a 2.24-meter telescope began in 1967, and first light came in 1970. In 1973 [[Canada]] and [[France]] agreed to build the 3.6 m CFHT. The telescopes remain highly controversial, given the mountain's central place in Native Hawaiian religion and environmental concerns.
+
+=== KEY: Maurice_Ravel_fb78a2
+HEADWORD: Ravel, Maurice
+PERSON: yes
+LINK TARGETS: Claude Debussy | Jazz
+ENTRY:
+French composer, pianist and conductor. Often associated with Impressionism along with [[Claude Debussy]], though both composers rejected the term, Ravel was internationally regarded as France's greatest living composer in the 1920s and 1930s. His style combined clarity with modernism, baroque and neoclassical elements and, in later works, [[Jazz|jazz]]. He was renowned for orchestration; his 1922 orchestral version of Mussorgsky's *Pictures at an Exhibition* is the best known. His best-known work, *Boléro* (1928), uses repetition in place of development. A slow worker, he wrote no symphonies or church music. His works include two piano concertos, two operas and eight song cycles. He was among the first composers to recognize the potential of recording to reach a wider public.
+
+=== KEY: Mauritania_d7fe73
+HEADWORD: Mauritania
+PERSON: no
+LINK TARGETS: France | Islam | Nouakchott | Sahara
+ENTRY:
+Country in the Maghreb region of West Africa. It is bordered by the Atlantic Ocean, Western Sahara, Algeria, Mali and Senegal, and about 90% of its territory lies in the [[Sahara]]. Most of its 5.4 million people live in the south, and roughly a third live in the capital, [[Nouakchott]]. Berbers occupied the area by the 3rd century CE, and Arab tribes arriving in the late 7th century brought [[Islam]] and Arabic. [[France]] colonized the territory in the early 20th century as part of French West Africa; it became independent in 1960. Coups have recurred, including one in 2008, and the 2019 election brought what was considered the first peaceful transfer of power since independence. The economy relies mainly on agriculture and fishing. Arabic is the official language, and Islam is the state religion. The 2023 Global Slavery Index estimates that about 149,000 people are enslaved in the country.
+
+=== KEY: Mauritius_07f3ca
+HEADWORD: Mauritius
+PERSON: no
+LINK TARGETS: Dodo | Hinduism | International Court of Justice | Madagascar | United Kingdom
+ENTRY:
+Island country in the Indian Ocean, east of [[Madagascar]]. The republic includes the main island, Rodrigues, Agaléga and St. Brandon. Dutch settlers took possession in 1598, naming it after Maurice, Prince of Orange, and French colonization began in 1715. The [[United Kingdom]] seized the island in 1810 and held it until independence in 1968; the country became a republic in 1992 but kept the Privy Council of the United Kingdom as its highest court. Its economy long depended on sugar plantations, and the World Bank now classifies it as a high-income economy. Indo-Mauritians make up the bulk of the population, and [[Hinduism]] is the most practiced religion, the only such case in Africa. Its main island was the only known home of the [[Dodo]], which became extinct soon after human settlement. In 1965 the United Kingdom split the Chagos Archipelago away from Mauritius. The [[International Court of Justice]] has ordered its return, and a 2025 agreement recognized Mauritian sovereignty over the islands.
+
+=== KEY: Maurya_Empire_a821db
+HEADWORD: Maurya Empire
+PERSON: no
+LINK TARGETS: Ashoka | Buddhism | Chandragupta Maurya | Jawaharlal Nehru
+ENTRY:
+Iron Age empire of South Asia (c. 321–185 BCE), based in Magadha. Founded by [[Chandragupta Maurya]] around 320 BCE, it defeated the Nanda Empire and extended west to Afghanistan below the Hindu Kush and south to the northern Deccan. Its capital, Pataliputra (today Patna), lay in Magadha. Under [[Ashoka]] (c. 268–232 BCE) the empire briefly controlled most of the subcontinent except the deep south. After the Kalinga War, Ashoka embraced [[Buddhism]] and promoted its tenets in edicts across South Asia; he sponsored missionaries to Sri Lanka, northwest India and Central Asia. Roads, including the Uttarapath linking eastern Afghanistan to the capital, and coinage supported trade. The population of South Asia during the period is estimated at 15 to 30 million. In 1947 [[Jawaharlal Nehru]] proposed the Lion Capital of Ashoka at Sarnath as the State Emblem of India, and the proposal was accepted that December.
+
+=== KEY: Max_Born_4facca
+HEADWORD: Born, Max
+PERSON: yes
+LINK TARGETS: Nazi Party | Optics | Quantum mechanics | Solid-state physics | University of Göttingen | Werner Heisenberg
+ENTRY:
+German–British theoretical physicist. Born was instrumental in developing [[Quantum mechanics|quantum mechanics]]. In 1925 he and [[Werner Heisenberg]] formulated its matrix mechanics representation, and the following year he proposed the now-standard interpretation of the probability density of the wave function, for which he shared the 1954 Nobel Prize in Physics. He also contributed to [[Solid-state physics]] and [[Optics]]. At the [[University of Göttingen]], which he helped make one of the world's leading centers for physics, he supervised students including Max Delbrück, Robert Oppenheimer and Victor Weisskopf. After the [[Nazi Party]] came to power in 1933, he was suspended from his professorship because he was of Jewish descent. He emigrated to the United Kingdom, where he worked at the University of Edinburgh until 1952, and he became a British subject in 1939. His textbook *Atomic Physics* became a standard text.
+
+=== KEY: Max_Ernst_1e6684
+HEADWORD: Ernst, Max
+PERSON: yes
+LINK TARGETS: Dada | Surrealism | World War I
+ENTRY:
+German-born painter, sculptor, printmaker and poet. A pioneer of [[Dada]] and [[Surrealism]], Ernst had no formal artistic training. He invented frottage, which uses pencil rubbings of textured surfaces to create images, and grattage, in which paint is scraped across canvas to reveal the imprints of objects beneath. His collage novels repurposed engravings into surreal narratives. He served as a soldier for four years in [[World War I]], an experience that left him critical of the modern world. During World War II he was designated an "undesirable foreigner" while living in France. Ernst often included his alter ego, Loplop, a bird, in his work. He achieved financial success in the 1950s.
+
+=== KEY: Max_Planck_53e1a1
+HEADWORD: Planck, Max
+PERSON: yes
+LINK TARGETS: Black-body radiation | Photon | Planck constant | Planck units
+ENTRY:
+German theoretical physicist and originator of quantum theory. He introduced the concept of energy quanta to explain [[Black-body radiation|black-body radiation]]. The [[Planck constant]], h, is of foundational importance for quantum physics, and he used it to derive [[Planck units]], expressed in terms of physical constants. The Planck relation, E = hν, states that the energy of a [[Photon|photon]] is proportional to its frequency. He studied in Berlin with Hermann von Helmholtz and Gustav Kirchhoff, and received the 1918 Nobel Prize in Physics for his discovery of energy quanta. Twice president of the Kaiser Wilhelm Society, he saw it renamed the Max Planck Society in 1948; today it includes 83 institutions.
+
+=== KEY: Max_Stirner_878e92
+HEADWORD: Stirner, Max
+PERSON: yes
+LINK TARGETS: Existentialism | Georg Wilhelm Friedrich Hegel | Karl Marx | Nihilism
+ENTRY:
+German philosopher, pen name of Johann Caspar Schmidt. Stirner is best known for *The Ego and Its Own* (1844), which argues for egoism and the sovereignty of the unique individual, dismissing abstractions such as morality, religion and the state. He studied at the University of Berlin, attended the lectures of [[Georg Wilhelm Friedrich Hegel]] and joined the Young Hegelians. Unable to secure a permanent academic post, he supported himself as a teacher and spent his later years in relative obscurity. Stirner is often seen as a forerunner of [[Nihilism|nihilism]], [[Existentialism|existentialism]] and individualist anarchism. [[Karl Marx]] devoted much of *The German Ideology* to refuting him.
+
+=== KEY: Max_Verstappen_796457
+HEADWORD: Verstappen, Max
+PERSON: yes
+LINK TARGETS: Formula One | Lewis Hamilton
+ENTRY:
+Dutch and Belgian racing driver. He competes in [[Formula One]] for Red Bull Racing and won four consecutive World Drivers' Championships, from 2021 to 2024. In 2021 he overtook [[Lewis Hamilton]] on the final lap of the season's last race to take his first title. As of the 2026 São Paulo Grand Prix he had 74 race wins, 50 pole positions and 139 podiums. His records include the most wins in a season (19) and the most consecutive wins (10). At 18, he became the youngest driver to win a Formula One Grand Prix, at the 2016 Spanish Grand Prix.
+
+=== KEY: Max_Weber_52d6e2
+HEADWORD: Weber, Max
+PERSON: yes
+LINK TARGETS: Capitalism | Charisma | Sociology
+ENTRY:
+German sociologist, historian and jurist. One of the founders of [[Sociology|sociology]], Weber argued in *The Protestant Ethic and the Spirit of Capitalism* that the Protestant work ethic helped shape modern [[Capitalism|capitalism]]. He linked the processes of rationalization and disenchantment to the rise of capitalism and modernity. He defined the state by its monopoly on the legitimate use of force and distinguished three forms of authority: [[Charisma|charismatic]], traditional and rational-legal. He advocated interpretive, rather than purely empiricist, methods for studying social action. He taught in Berlin, Freiburg and Heidelberg. During World War I he became critical of Germany's war effort and supported democratization. After the war he co-founded the German Democratic Party and advised on the Weimar Constitution. His unfinished *Economy and Society* was published posthumously.
+
+=== KEY: Max_von_Sydow_fdc9c5
+HEADWORD: Sydow, Max von
+PERSON: yes
+LINK TARGETS: Academy Awards | Game of Thrones | HBO
+ENTRY:
+Swedish and French actor. He had a 70-year career in European and American film, television and theater, appearing in more than 150 films. In Ingmar Bergman's *The Seventh Seal* (1957) he played the knight Antonius Block, and he appeared in eleven Bergman films. He made his American film debut as Jesus Christ in *The Greatest Story Ever Told* (1965). He was nominated for two [[Academy Awards]], for Best Actor in *Pelle the Conqueror* (1987) and for Best Supporting Actor in *Extremely Loud & Incredibly Close* (2011). He played Bloodraven in the [[HBO]] series [[Game of Thrones]].
+
+=== KEY: Maxim_Gorky_90f9ca
+HEADWORD: Gorky, Maxim
+PERSON: yes
+LINK TARGETS: Bolsheviks | Joseph Stalin | Vladimir Lenin
+ENTRY:
+Russian and Soviet writer and proponent of socialism, pen name of Alexei Maximovich Peshkov. His early short stories of the 1890s, marked by romanticism, brought him fame. The play *The Lower Depths* (1902) and the novel *Mother* (1906) followed; Gorky considered the latter one of his biggest failures, though it remains among his best-known books. Active in the Marxist movement, he was associated with [[Vladimir Lenin]] and the [[Bolsheviks]], but he criticized them during the Russian Civil War and the 1920s. He returned to the USSR in 1928 on [[Joseph Stalin]]'s invitation and was declared the "founder of Socialist Realism". His unfinished novel *The Life of Klim Samgin* is considered by some critics his masterpiece. He was nominated five times for the Nobel Prize in Literature and spent his last days under unannounced house arrest.
+
+=== KEY: Maximilian_I_Holy_Roman_Emperor_d308e4
+HEADWORD: Maximilian I
+PERSON: yes
+LINK TARGETS: House of Habsburg | Pope Julius II | Spain | Switzerland | Venice
+ENTRY:
+King of the Romans (1486–1508) and Holy Roman Emperor (1508–1519). Son of Frederick III, he expanded the influence of the [[House of Habsburg]] through war and his 1477 marriage to Mary, Duchess of Burgundy. The journey to Rome was blocked by the [[Venice|Venetians]], so he was never crowned by the pope; he proclaimed himself emperor at Trento in 1508, and [[Pope Julius II]] later recognized it. His son Philip married Joanna of Castile in 1496, helping establish the Habsburg dynasty in [[Spain]]. He lost the family's lands in [[Switzerland]] to the Swiss Confederacy. Historians debate whether he was the "last knight" or a Renaissance prince. He carried out reforms and promoted an extensive image-building program, though his military expansion and financial costs weighed heavily on his subjects.
+
+=== KEY: Maximilian_I_of_Mexico_8c5896
+HEADWORD: Maximilian I
+PERSON: yes
+LINK TARGETS: Benito Juárez | Franz Joseph I | Monroe Doctrine | Napoleon III
+ENTRY:
+Austrian archduke and emperor of Mexico (1864–1867). Younger brother of Emperor [[Franz Joseph I]] of Austria, he was invited by [[Napoleon III]] and Mexican monarchists to rule Mexico. He accepted the crown in 1864 after a referendum that purportedly showed popular support. His liberal policies cost him conservative backing. The United States continued to recognize [[Benito Juárez]] and saw the French intervention as a violation of the [[Monroe Doctrine]]. French troops withdrew in 1866. Captured at Querétaro, he was executed by firing squad alongside two generals.
+
+=== KEY: Maximilien_Robespierre_ad0536
+HEADWORD: Robespierre, Maximilien
+PERSON: yes
+LINK TARGETS: Atlantic slave trade | French Revolution | Guillotine | Reign of Terror
+ENTRY:
+French lawyer and statesman, a radical Jacobin leader of the [[French Revolution]]. Elected a deputy to the National Convention in September 1792, Robespierre joined the Committee of Public Safety in July 1793 and became its leading figure. He campaigned for voting rights for all men, the right to petition and the abolition of the [[Atlantic slave trade]]. He defended the [[Reign of Terror]] as an instrument of justice, a period that saw at least 17,000 official executions by [[Guillotine|guillotine]]. Growing accusations of excess turned the Convention against him, and after his arrest on 9 Thermidor he was executed without trial. His legacy remains contested: critics stress his role in repressing the Revolution's opponents, while others note his progressive views for the time.
+
+=== KEY: Maxwell_Boltzmann_distribution_98c836
+HEADWORD: Maxwell–Boltzmann distribution
+PERSON: no
+LINK TARGETS: Diffusion | James Clerk Maxwell | Ludwig Boltzmann | Pressure | Probability distribution
+ENTRY:
+[[Probability distribution]] of particle speeds in an idealized gas at thermal equilibrium. Named after [[James Clerk Maxwell]] and [[Ludwig Boltzmann]], it was first derived by Maxwell in 1860 on heuristic grounds, and Boltzmann later investigated its physical origins in the 1870s. Mathematically, it is a chi distribution with three degrees of freedom, with a scale parameter proportional to the square root of T/m, the ratio of temperature to particle mass. The distribution underlies the kinetic theory of gases, which explains properties such as [[Pressure|pressure]] and [[Diffusion|diffusion]]. It is an excellent approximation for rarefied gases at ordinary temperatures and for ideal plasmas.
+
+=== KEY: Maxwell_s_demon_c5abc2
+HEADWORD: Maxwell's demon
+PERSON: no
+LINK TARGETS: Information theory | James Clerk Maxwell | Lord Kelvin | Second law of thermodynamics
+ENTRY:
+Thought experiment of 1867 devised by [[James Clerk Maxwell]]. A demon controls a door between two gas-filled chambers, letting only fast-moving molecules pass one way and slow-moving ones the other. One chamber warms and the other cools, decreasing entropy without any work and seemingly violating the [[Second law of thermodynamics|second law of thermodynamics]]. Maxwell called the agent a "finite being"; [[Lord Kelvin]] later named it a "demon." The idea stimulated work on the relationship between thermodynamics and [[Information theory]]. Most scientists argue that no device can violate the second law in this way, and experimental versions differ from the original; none has been shown to violate it.
+
+=== KEY: Maxwell_s_equations_a9640e
+HEADWORD: Maxwell's equations
+PERSON: no
+LINK TARGETS: Electric field | Electromagnetism | General relativity | Lorentz force | Magnetic field | Partial differential equation | Quantum electrodynamics | Special relativity
+ENTRY:
+Set of coupled [[Partial differential equation|partial differential equations]] describing [[Electromagnetism|classical electromagnetism]]. Together with the [[Lorentz force|Lorentz force law]], they describe how [[Electric field|electric]] and [[Magnetic field|magnetic fields]] are generated by electric charges and currents, and they form the foundation of classical optics and of electric and magnetic circuits. They underpin technologies from power generation and electric motors to wireless communication and radar. An early form was published by James Clerk Maxwell in 1861 and 1862, and the modern form is credited to Oliver Heaviside. Since the mid-20th century the equations have been understood as a classical limit of [[Quantum electrodynamics]]. Their covariant formulation makes compatibility with [[Special relativity]] apparent, and they are compatible with [[General relativity]] in curved spacetime.
+
+=== KEY: May_195fbb
+HEADWORD: May
+PERSON: no
+LINK TARGETS: Gregorian calendar | Julian calendar
+ENTRY:
+Fifth month of the year in the [[Julian calendar|Julian]] and [[Gregorian calendar|Gregorian]] calendars, with 31 days. It is a spring month in the Northern Hemisphere and an autumn month in the Southern Hemisphere. The name was taken from the Greek goddess Maia, who was identified with the Roman goddess of fertility, Bona Dea; the Roman poet Ovid gave a second etymology, from the maiores, Latin for "elders." The birthstone is the emerald. The zodiac signs are Taurus until May 20 and Gemini from May 21.
+
+=== KEY: May_68_e94428
+HEADWORD: May 68
+PERSON: no
+LINK TARGETS: Charles de Gaulle | France
+ENTRY:
+Period of protests, riots and strikes in [[France]] beginning in May 1968. Sparked by student demonstrations against university conditions and government repression, it escalated into the largest general strike in French history, involving about 10 million workers. Factories, transportation and public services shut down, and on May 27 the Grenelle agreements brought wage increases and concessions. [[Charles de Gaulle|President Charles de Gaulle]] briefly left for a French military base in West Germany on May 29, then dissolved the National Assembly. His party won a resounding victory in the June elections, and the movement lost momentum. De Gaulle resigned the following year.
+
+=== KEY: Maya_Angelou_910541
+HEADWORD: Angelou, Maya
+PERSON: yes
+LINK TARGETS: Bill Clinton | Civil rights movement | John F. Kennedy | Malcolm X | Martin Luther King Jr. | Robert Frost
+ENTRY:
+American memoirist, poet and civil rights activist. She published seven autobiographies, three books of essays and several poetry collections. Her memoir *I Know Why the Caged Bird Sings* (1969), covering her life to age 17, brought her international recognition. Born Marguerite Annie Johnson in St. Louis, Missouri, she worked with [[Martin Luther King Jr.]] and [[Malcolm X]] in the [[Civil rights movement]]. In 1993 she recited her poem *On the Pulse of Morning* at the first inauguration of [[Bill Clinton]], the first poet to give an inaugural recitation since [[Robert Frost]] at [[John F. Kennedy]]'s inauguration in 1961. Her works, which address racism, identity and family, are widely taught, though attempts have been made to ban them from some U.S. libraries.
+
+=== KEY: Maya_civilization_e73ec9
+HEADWORD: Maya civilization
+PERSON: no
+LINK TARGETS: Belize | Chichen Itza | Guatemala | Mesoamerica | Mexico | Teotihuacan | Tikal
+ENTRY:
+[[Mesoamerica|Mesoamerican]] civilization (c. 2000 BC–1697 AD), known for its temples, art, architecture, mathematics, calendar, and astronomical system. The Maya script is the most sophisticated and highly developed writing system in the pre-Columbian Americas. The civilization developed in an area comprising southeastern [[Mexico|Mexico]], all of [[Guatemala|Guatemala]] and [[Belize|Belize]], and the western portions of Honduras and El Salvador. Its descendants number well over 6 million and speak more than twenty-eight surviving Mayan languages. "Maya" is a modern collective term; Maya peoples had no common ethnic identity or political unity for most of their history.
+
+The Preclassic period (c. 2000 BC to 250 AD) saw the first complex societies and the cultivation of staples such as maize, beans, squashes, and chili peppers. The first cities developed around 750 BC, and hieroglyphic writing was in use by the 3rd century BC. The Classic period, from around 250 AD, is largely defined by sculpted monuments bearing Long Count dates. Many city-states were linked by trade, and the rival cities of [[Tikal]] and Calakmul became powerful; the central Mexican city of [[Teotihuacan]] intervened in Maya dynastic politics. In the 9th century a widespread political collapse in the central region brought civil wars, abandoned cities, and a northward shift of population. The Postclassic period saw the rise of [[Chichen Itza]] in the north and of the Kʼicheʼ kingdom in the Guatemalan Highlands. In the 16th century the Spanish Empire colonized the region, and Nojpetén, the last Maya city, fell in 1697.
+
+During the Classic period rule centered on the "divine king", thought to mediate between mortals and the supernatural realm. By the Late Classic the aristocracy had grown, reducing the king's exclusive power. The literate elite recorded history and ritual knowledge in screenfold books, of which only three uncontested examples remain, and on stelae and ceramics. They developed interlocking ritual calendars and mathematics that included one of the earliest known instances of the explicit zero. Their religion included human sacrifice.
+
+=== KEY: Maya_peoples_9cb009
+HEADWORD: Maya peoples
+PERSON: no
+LINK TARGETS: Chichen Itza | El Salvador | Guatemala | Honduras | Maya civilization | Mesoamerica | Mexico | Yucatán Peninsula
+ENTRY:
+Ethnolinguistic group of Indigenous peoples of [[Mesoamerica]], generally descended from the populations of the ancient [[Maya civilization]]. An estimated seven million Maya lived in the region at the start of the 21st century, mainly in [[Guatemala]], southeastern [[Mexico]], Belize, and western [[El Salvador]] and [[Honduras]]. "Maya" is a modern collective term that the peoples did not historically use themselves, and there was no common political identity among them. The largest group, the Yucatec Maya, lives on the [[Yucatán Peninsula]]. The Yucatán was first contacted by Europeans after Spanish shipwreck survivors came ashore in 1511, and [[Chichen Itza]] was conquered by 1570.
+
+=== KEY: Maya_religion_cb1d9c
+HEADWORD: Maya religion
+PERSON: no
+LINK TARGETS: Cenote | Maya peoples | Mesoamerica | Popol Vuh | Syncretism
+ENTRY:
+Traditional religion of the [[Maya peoples|Maya]] of Guatemala, Belize, western Honduras and parts of Mexico, part of the wider [[Mesoamerica|Mesoamerican]] religion. Including its pre-Hispanic antecedents, it has existed as a distinct phenomenon for more than two and a half millennia, spread across many indigenous kingdoms with their own local traditions. It resulted from centuries of symbiosis with Roman Catholicism and coexists with [[Syncretism|syncretism]] promoted by the Pan-Maya movement and with Christianity. Ritual is central: landmarks such as mountains, wells and caves are assigned to ancestors and deities, and [[Cenote|cenotes]] in Yucatán are sites of ritual activity. Key sources include the surviving codices of Dresden, Madrid and Paris and the early colonial [[Popol Vuh]].
+
+=== KEY: Maya_script_806c7e
+HEADWORD: Maya script
+PERSON: no
+LINK TARGETS: Egyptian hieroglyphs | Logogram | Maya civilization
+ENTRY:
+Writing system of the [[Maya civilization]], the only Mesoamerican script that has been substantially deciphered. The earliest identifiable Maya inscriptions date to the 3rd century BCE in late Preclassic sites such as San Bartolo in Guatemala. Writing continued until the Spanish conquest of the 16th and 17th centuries, though knowledge of it was reserved to the elite. Maya script combined [[Logogram|logograms]] with syllabic glyphs, somewhat like modern Japanese writing, and recorded Classic Maya and, in northern Yucatán, Yucatec Maya. Texts were written in blocks arranged in columns two blocks wide. Early European explorers called it hieroglyphics, though it is unrelated to [[Egyptian hieroglyphs]]. As of 2008, the sound of about 80% of the writing could be read and the meaning of about 60% understood with varying certainty.
+
+=== KEY: Mayon_0bac2f
+HEADWORD: Mayon
+PERSON: no
+LINK TARGETS: Luzon | Ring of Fire | Stratovolcano
+ENTRY:
+Active [[Stratovolcano|stratovolcano]] in Albay province on [[Luzon]], Philippines. Renowned for its symmetric "perfect cone" and regarded as sacred in Philippine mythology, it rises 2,463 m (8,081 ft) from the shores of Albay Gulf. It was declared a national park on July 20, 1938, the first in the nation, and is the centerpiece of the Albay Biosphere Reserve, declared by UNESCO in 2016. It is the most active volcano in the Philippines, monitored by the Philippine Institute of Volcanology and Seismology. At least 85 lava flows have been identified, and it forms part of the Pacific [[Ring of Fire]].
+
+=== KEY: Mayonnaise_d3f1c2
+HEADWORD: Mayonnaise
+PERSON: no
+LINK TARGETS: Emulsion | French fries | Hamburger | Salad | Sauce | Seven Years' War
+ENTRY:
+Thick, creamy [[Sauce|sauce]], an [[Emulsion|emulsion]] of oil, egg yolk and vinegar or lemon juice. It is commonly used on sandwiches, [[Hamburger|hamburgers]], [[Salad|salads]] and [[French fries]], and forms the base for tartar sauce, remoulade and ranch dressing. Its origin is debated, but most hypotheses place it in Mahón on Menorca, where French troops were stationed during the [[Seven Years' War]]; the Duke of Richelieu took the port on April 18, 1756. The term appeared in French in 1806, and Antonin Carême described a cold emulsified version with egg yolk in 1815. Commercial production emerged in the early 20th century, and eggless versions are available for those who avoid eggs.
+
+=== KEY: Mayotte_9c05c4
+HEADWORD: Mayotte
+PERSON: no
+LINK TARGETS: Comoros | Malagasy language | Mozambique Channel
+ENTRY:
+Overseas department and region of France (pop., 2024: 320,901) in the northern [[Mozambique Channel]], western Indian Ocean. Its land area is 374 sq km, and its largest city and prefecture, Mamoudzou, lies on the main island, Grande-Terre. French is the official language; the native languages are Shimaore and Kibushi, a [[Malagasy language]]. A sultanate was established in 1500, and most residents are Muslim. Sold to France in 1841, Mayotte chose to remain French when the nearby [[Comoros]] became independent in 1974. It became France's 101st department on March 31, 2011, and an outermost region of the European Union in 2014. Illegal immigration from the Comoros is a major political issue, and a 2018 INSEE report found that over 83% of the population lived below the poverty line by French standards.
+
+=== KEY: Mazda_ee3094
+HEADWORD: Mazda
+PERSON: no
+LINK TARGETS: 24 Hours of Le Mans | Ford Motor Company | Hiroshima | Wankel engine
+ENTRY:
+Japanese multinational automotive manufacturer, headquartered in Fuchū, [[Hiroshima]]. Founded in 1920 as Toyo Cork Kogyo, a cork factory, it began producing vehicles in 1931 with the Mazda-Go auto rickshaw. The company is known for the [[Wankel engine]], the SkyActiv platform and its Kodo design language, and it won the [[24 Hours of Le Mans]] in 1991 with the rotary-powered Mazda 787B. [[Ford Motor Company|Ford]] was a major shareholder from 1974 until the late 2000s. In 2023 it produced 1.1 million vehicles globally.
+
+=== KEY: Maze_ef6cbe
+HEADWORD: Maze
+PERSON: no
+LINK TARGETS: Graph theory | Leonhard Euler | Maize | Rat | Topology
+ENTRY:
+Path or collection of paths, typically from an entrance to a goal, used as a puzzle or as a garden feature. Mazes may be built from hedges, turf, walls or corn stalks, and [[Maize|maize]] mazes are often promoted as seasonal tourist attractions. Mazes without loops are called perfect mazes and are equivalent to a tree in [[Graph theory]]. [[Leonhard Euler]] was one of the first to analyze plane mazes mathematically, making early contributions to [[Topology]]. Psychologists use mazes such as the Morris water maze and the T-maze to study spatial navigation, usually with [[Rat|rats]] or mice. The term "labyrinth" is generally synonymous, though it can connote a unicursal pattern without branches.
+
+=== KEY: Mbuji_Mayi_0206e2
+HEADWORD: Mbuji-Mayi
+PERSON: no
+LINK TARGETS: Democratic Republic of the Congo | Diamond | Kinshasa
+ENTRY:
+City and capital of Kasai-Oriental Province in the south-central [[Democratic Republic of the Congo]], known until the end of 1962 as Bakwanga. It is thought to be the second-largest city in the country after [[Kinshasa]], though estimates of its population range from 1,480,000 (2010 CIA World Factbook) to 3,500,000 (UN, 2008). The name, from the Tshiluba language, means "Goat-Water." The city sits on one of the largest diamond deposits in the world and is the traditional center of industrial [[Diamond|diamond]] mining in Congo. Diamonds were discovered in the area as early as 1907, and in 1963 the local MIBA company was the source of 80 percent of the world's industrial diamonds.
+
+=== KEY: McCarthyism_56ee3c
+HEADWORD: McCarthyism
+PERSON: no
+LINK TARGETS: Cold War | J. Edgar Hoover | Joseph McCarthy
+ENTRY:
+Political practice of accusing left-wing Americans of communist and Soviet influence, prominent in the late 1940s and 1950s. Associated with Senator [[Joseph McCarthy]], it lost support after the mid-1950s, when several of his accusations proved false. Rulings of the Supreme Court under Chief Justice Earl Warren on civil and political rights helped end the Second Red Scare. Some historians since the 1980s argue that the term overstates McCarthy's role; Ellen Schrecker has suggested "Hooverism," after FBI head [[J. Edgar Hoover]]. Documents released after the [[Cold War]] revealed Soviet espionage in the United States, though many agents were never identified by McCarthy.
+
+=== KEY: McDonald_s_700dd1
+HEADWORD: McDonald's
+PERSON: no
+LINK TARGETS: French fries | Hamburger | Ray Kroc
+ENTRY:
+American multinational fast-food restaurant chain. Founded in 1940 as a restaurant in San Bernardino, California, by brothers Richard and Maurice McDonald, the company grew under [[Ray Kroc]], a franchise agent who opened a restaurant in Des Plaines, Illinois, in 1955 and bought the brothers' stake in 1961. At the end of 2025 the system comprised 45,356 restaurants in more than 100 countries, approximately 95% of them operated by franchisees. Its menu centers on [[Hamburger|hamburgers]] and [[French fries]], including the Big Mac. It directly employed more than 150,000 people, and more than two million others worked at franchised restaurants. The chain has faced criticism over nutrition, treatment of animals, environmental impact and employee wages.
+
+=== KEY: McDonnell_Douglas_DC_9_c18554
+HEADWORD: McDonnell Douglas DC-9
+PERSON: no
+LINK TARGETS: Boeing | Delta Air Lines | Turbofan
+ENTRY:
+Twin-engine, single-aisle jet airliner designed by the Douglas Aircraft Company. The DC-9-10 first flew on February 25, 1965, and entered service with [[Delta Air Lines|Delta]] in December of that year. Powered by two rear-mounted [[Turbofan|turbofan]] engines under a T-tail, it could use 5,000-foot runways to serve smaller airports. Deliveries ended in October 1982, with 976 built. The MD-80 and MD-90 followed, and after the 1997 merger with [[Boeing]] the final version became the Boeing 717. The family had 2,441 deliveries between 1965 and 2006.
+
+=== KEY: McDonnell_Douglas_F_15_Eagle_6b639a
+HEADWORD: McDonnell Douglas F-15 Eagle
+PERSON: no
+LINK TARGETS: Boeing | Gulf War | Saudi Arabia
+ENTRY:
+Twin-engine, all-weather fighter designed by McDonnell Douglas (now part of [[Boeing]]). The United States Air Force selected the design in 1969 as a dedicated air superiority fighter; it first flew in July 1972 and entered service in 1976. The Eagle is credited with over 104 victories and no losses in air-to-air combat. It was exported to Israel, Japan and [[Saudi Arabia]]. The Israeli Air Force first used it in combat in 1979, and it saw action in the [[Gulf War]] of 1991. Reduced procurement of the F-22 led the Air Force to keep F-15C/D fighters until 2030 and to supplement the F-22 with the F-15EX.
+
+=== KEY: McLaren_891b24
+HEADWORD: McLaren
+PERSON: no
+LINK TARGETS: 24 Hours of Le Mans | England | Formula One | Honda
+ENTRY:
+British motor racing team based in Woking, Surrey, [[England]]. Founded by Bruce McLaren in 1963, it is the second-oldest active [[Formula One]] team and the second-most successful after Ferrari, with 206 race wins, 13 Drivers' Championships and 10 Constructors' Championships. It is one of only three constructors, and the only team, to complete the Triple Crown of Motorsport, with wins at the Indianapolis 500, the [[24 Hours of Le Mans]] and the Monaco Grand Prix. A partnership with [[Honda]] from 1988 to 1991 produced four consecutive Constructors' Championships. The team's most recent titles were secured in 2025.
+
+=== KEY: McMurdo_Station_953c97
+HEADWORD: McMurdo Station
+PERSON: no
+LINK TARGETS: Antarctica | Polar night
+ENTRY:
+American Antarctic research station on the southern tip of Ross Island, the largest community on [[Antarctica]]. Run by the United States Antarctic Program, it supports up to 1,200 residents, fewer than 200 during the [[Polar night|polar night]]. It is one of three year-round United States Antarctic science facilities and the usual route to Amundsen–Scott South Pole Station. Sea ice can limit access to its seaport, Winter Quarters Bay, and its main airfields are built on ice. Established in the mid-1950s, it is powered by generators and wind power; it had a nuclear reactor in the 1960s. New Zealand's Scott Base is nearby.
+
+=== KEY: MeToo_movement_89b7ab
+HEADWORD: MeToo movement
+PERSON: no
+LINK TARGETS: Harvey Weinstein | Myspace
+ENTRY:
+Social movement against sexual abuse, sexual harassment and rape culture. The phrase "Me Too" was used on [[Myspace]] around 2006 by activist Tarana Burke. The hashtag #MeToo spread virally in October 2017 after allegations against film producer [[Harvey Weinstein]], and Facebook reported that almost half of its American users were friends with someone who said they had been sexually assaulted or harassed. Studies by the U.S. Department of Justice and the UK Home Office estimate that false reports make up only 2–10% of sexual assault claims, though some worry about false accusations. Critics argue that the movement overlooks police abuse and sex workers.
+
+=== KEY: Meadow_f34c07
+HEADWORD: Meadow
+PERSON: no
+LINK TARGETS: Habitat | Hay | Herb | Ireland | United Kingdom
+ENTRY:
+Open [[Habitat|habitat]] or field vegetated mainly by grasses, [[Herb|herbs]] and other non-woody plants. Meadows are usually semi-natural grasslands, often created by clearing shrub or woodland for [[Hay|hay]], fodder or livestock, and they support a wide range of wildlife, including pollinating insects. Intensive practices such as frequent mowing and mineral fertilizers reduce biodiversity. In the [[United Kingdom]] and [[Ireland]], "meadow" traditionally means a hay meadow mown in summer. Traditional hay meadows were once common in rural Britain, but England and Wales have lost about 97% of them over the past century. Deep-rooted grasses store substantial carbon in soil, making meadows potential carbon sinks.
+
+=== KEY: Meal_a64a8c
+HEADWORD: Meal
+PERSON: no
+LINK TARGETS: Birthday | Breakfast | Coffee | Snack | Wedding
+ENTRY:
+Occasion at a specific time that involves the consumption of food, larger, more varied and more filling than a [[Snack|snack]]. Regular meals occur daily, typically several times a day, and usually take place at home or in restaurants. Special meals mark occasions such as [[Birthday|birthdays]], [[Wedding|weddings]], funerals and holidays. Three main meals are common in most civilizations, in the morning, early afternoon and evening, though names vary by region and family. The word [[Breakfast|breakfast]] refers literally to breaking the fast of the night. A full breakfast, popular in the United Kingdom and Ireland, usually includes bacon, sausages and eggs with hot drinks such as [[Coffee|coffee]] or tea.
+
+=== KEY: Mean_value_theorem_dac589
+HEADWORD: Mean value theorem
+PERSON: no
+LINK TARGETS: Augustin-Louis Cauchy | Calculus | Continuous function | Derivative
+ENTRY:
+Result in [[Calculus|calculus]] relating a function's average rate of change over an interval to its instantaneous rate of change. If a real-valued function is [[Continuous function|continuous]] on a closed interval [a,b] and differentiable on (a,b), its [[Derivative|derivative]] equals the average rate of change at some point in (a,b). Geometrically, a tangent to the graph is parallel to the secant through the endpoints. [[Augustin-Louis Cauchy]] stated and proved it in modern form in 1823; it is used to prove other properties of differentiable functions.
+
+=== KEY: Meander_e18cd6
+HEADWORD: Meander
+PERSON: no
+LINK TARGETS: Civil engineering | Floodplain | River | Sediment
+ENTRY:
+One of a series of regular sinuous curves in the channel of a stream. It forms as the water erodes [[Sediment|sediment]] from the outer, concave bank and deposits it on the inner, convex bank, so that the channel migrates back and forth across the [[Floodplain|floodplain]]. Meanders migrate downstream over time, which can create [[Civil engineering|civil engineering]] challenges for maintaining roads and bridges. The degree of meandering is measured by sinuosity, the ratio of channel length to straight-line down-valley distance; a single-channel [[River|river]] with a sinuosity of 1.5 or more is defined as meandering. The term derives from the winding Menderes River in Asia Minor, which the Greeks called Maiandros.
+
+=== KEY: Meaning_of_life_82529d
+HEADWORD: Meaning of life
+PERSON: no
+LINK TARGETS: Albert Camus | Arthur Schopenhauer | Existentialism | Friedrich Nietzsche | Nihilism
+ENTRY:
+Philosophical question of whether an individual's life, human life or existence in general has inherent significance. There is no consensus on the answer, or on whether such significance exists in any objective sense. Proposed answers come from many cultures and ideologies, drawing on philosophy, religion and science. [[Arthur Schopenhauer]] was the first to ask the question explicitly, in an essay titled "Character." Supernaturalism locates meaning in divine or supernatural sources, naturalism in the natural world, and [[Nihilism|nihilism]] denies any inherent meaning. [[Existentialism|Existentialist]] thinkers such as [[Albert Camus]] and [[Friedrich Nietzsche]] explored the question, and psychological research links a sense of purpose to better mental health and resilience.
+
+=== KEY: Meaning_philosophy_cda85f
+HEADWORD: Meaning
+PERSON: no
+LINK TARGETS: Bertrand Russell | Gottlob Frege | John Locke | Map | Meaning of life | Philosophy of language | Philosophy of mind | Semiotics
+ENTRY:
+Sense or significance of an entity, expressing what it conveys or stands for. Meaning is a relational concept linking a sign to what it signifies; the word *dog*, for example, connects to a four-legged animal. Philosophers study linguistic meaning, including the relation between sense and reference and the difference between what an expression conventionally means and what a speaker intends. Theories of meaning include referential theories, associated with [[Gottlob Frege]] and [[Bertrand Russell]], and mental theories that explain meaning through ideas or communicative intentions; [[John Locke]] treated words as signs of ideas. Meaning is also attributed to pictures, [[Map|maps]] and actions. The study of meaning is central to [[Philosophy of language|philosophy of language]] and informs [[Semiotics|semiotics]] and [[Philosophy of mind|philosophy of mind]]. The [[Meaning of life|meaning of life]] is a related non-linguistic sense concerned with the significance of human existence as a whole.
+
+=== KEY: Measles_4f846d
+HEADWORD: Measles
+PERSON: no
+LINK TARGETS: COVID-19 pandemic | Conjunctivitis | Diarrhea | Encephalitis | Infection | Pneumonia | Vaccination
+ENTRY:
+Highly contagious viral [[Infection|infection]] caused by the measles virus, which is closely related to rinderpest and canine distemper. Initial symptoms of fever, cough, runny nose and [[Conjunctivitis|inflamed eyes]] appear 10–12 days after exposure, followed by a rash that starts on the face and spreads over the body. Complications include [[Diarrhea|diarrhea]], middle ear infection and [[Pneumonia|pneumonia]], and less commonly [[Encephalitis|brain inflammation]]. Measles spreads through the air, and immunity is lifelong after [[Vaccination|vaccination]] or recovery. No specific antiviral treatment exists; care focuses on preventing secondary infections, hydration and pain relief. Herd immunity requires more than 95% of a community to be vaccinated. Vaccination cut measles deaths by 80% from 2000 to 2017, but progress has stalled since the [[COVID-19 pandemic]]. Measles currently causes an estimated 95 thousand deaths a year, mainly in countries with low per capita income and poor health systems.
+
+=== KEY: Measurement_911842
+HEADWORD: Measurement
+PERSON: no
+LINK TARGETS: Charles Sanders Peirce | Michelson–Morley experiment
+ENTRY:
+Quantification of attributes of an object or event, determining how large or small a physical quantity is compared with a basic reference quantity of the same kind. Its scope depends on discipline. In natural science and engineering, measurement does not apply to nominal properties, but in statistics and the social and behavioral sciences it can occur at nominal, ordinal, interval, and ratio levels. Measurement is a cornerstone of trade, science, technology, and quantitative research, and the science of measurement is metrology.
+
+A measurement is characterized by its type, magnitude, unit, and uncertainty. The magnitude is the numerical value, usually obtained with a measuring instrument; the unit is a standard quantity assigned a weighting factor; the uncertainty represents the random and systematic errors of the procedure.
+
+Historically, many measurement systems existed, often set by local agreement between trading partners. Since the 18th century, developments moved toward unified standards, resulting in the modern International System of Units (SI), which reduces all physical measurements to a combination of seven base units: kilogram, meter, candela, second, ampere, kelvin, and mole. These are defined without reference to a physical object, instead fixing values to physical constants or invariable natural phenomena. [[Charles Sanders Peirce]] first proposed tying a base unit to an experimental standard, defining the meter by the wavelength of a spectral line, which directly influenced the [[Michelson–Morley experiment]].
+
+The General Conference on Weights and Measures (CGPM), established in 1875 by the Metre Convention, oversees the SI. The meter was redefined in 1983 in terms of the speed of light, and the kilogram in 2019 in terms of the Planck constant. The British systems of English units and later imperial units, known in the United States as U.S. customary units, remain in use there and in a few Caribbean countries.
+
+=== KEY: Meat_Loaf_356108
+HEADWORD: Meat Loaf
+PERSON: yes
+LINK TARGETS: Dallas | Texas
+ENTRY:
+American singer and actor. Born Marvin Lee Aday in [[Dallas]], [[Texas]]. His *Bat Out of Hell* album trilogy has sold more than 100 million records worldwide. He won a Grammy Award for Best Solo Rock Vocal Performance for "I'd Do Anything for Love." He had greater success in Europe, especially the United Kingdom and Ireland, than in the United States. He appeared in over 50 films and television shows, including Eddie in *The Rocky Horror Picture Show* (1975) and Robert "Bob" Paulsen in *Fight Club* (1999).
+
+=== KEY: Meat_e4b662
+HEADWORD: Meat
+PERSON: no
+LINK TARGETS: Neolithic Revolution
+ENTRY:
+Animal tissue, mostly muscle, eaten as food. Humans have hunted and farmed animals for meat since prehistory, and the [[Neolithic Revolution|Neolithic Revolution]] allowed the domestication of chickens, sheep, goats, pigs, horses, and cattle starting around 11,000 years ago. Meat is important to economies, cultures, and faiths around the world. It is mainly composed of water, protein, and fat, and its quality is affected by the genetics, health, and nutrition of the animal. Without preservation, bacteria and fungi spoil unprocessed meat within hours or days. It is edible raw but mostly eaten cooked, as by stewing or roasting, or processed, as by smoking or salting.
+
+The English word comes from Old English *mete*, meaning food in general. In modern usage it primarily means skeletal muscle with its associated fat and connective tissue. In the postwar period governments gave farmers guaranteed prices to raise output, and in 1966 the United States, United Kingdom, and other industrialized nations began factory farming of beef and dairy cattle and pigs. Intensive animal farming accounted for 30% of world meat production in 1990 and 40% by 2005.
+
+Selective breeding, accelerated by techniques such as progeny testing, lets producers obtain desired qualities. After health concerns about saturated fats in the 1980s, the fat content of U.K. beef, pork, and lamb fell from 20–26 percent to 4–8 percent within a few decades, through breeding for leanness and changed butchery. Animals not previously exploited for meat, including antelope, zebra, water buffalo, camel, crocodile, emu, and ostrich, are now farmed..
+
+Consumption of red and processed meat, as opposed to fish and poultry, increases the risk of certain negative health outcomes, including cancer, coronary heart disease, and diabetes. Meat production harms the environment by contributing to global warming, pollution, and biodiversity loss. Vegetarians and vegans choose not to eat meat for ethical, environmental, health, or religious reasons.
+
+=== KEY: Mecca_6be2de
+HEADWORD: Mecca
+PERSON: no
+LINK TARGETS: Hajj | Hejaz | Ibn Saud | Islam | Jeddah | Kaaba | Muhammad | Saudi Arabia
+ENTRY:
+City (metropolitan pop., 2022: 2.4 million), capital of Mecca Province, in the [[Hejaz]] region of western [[Saudi Arabia]], and the holiest city in [[Islam]]. It lies 70 km inland from [[Jeddah]] on the Red Sea, in a narrow valley 277 m above sea level, and is the country's third most populated city.
+
+Mecca is regarded as the birthplace of the Prophet [[Muhammad]]. The Cave of Hira on Jabal al-Nour, just outside the city, is where Muslims believe the Quran was first revealed to him. The Masjid al-Haram (Great Mosque) houses the [[Kaaba]], which Muslims believe was built by Abraham and Ishmael and which is the direction of prayer (qibla) for all Muslims. The [[Hajj]] pilgrimage, an obligation for every Muslim at least once in life, is observed in the twelfth Hijri month, and pilgrims more than triple the population each year. Mecca received over 19.3 million international visitors in 2024. Non-Muslims are prohibited from entering.
+
+The Saudi government adopted Makkah as the official spelling in the 1980s. Its etymology is obscure; a traditional derivation is from the Old South Arabian root M-K-R-B, "temple." Many Muslim rulers sought to control the city, which was most recently conquered by [[Ibn Saud]] and his allies in 1925. It has since expanded greatly, notably with The Clock Towers, described as the world's fourth-tallest building. The government has demolished several historical structures, such as the Ajyad Fortress, though many demolitions were officially part of expanding the Masjid al-Haram to accommodate pilgrims. A municipal council of 14 locally elected members, headed by an appointed mayor, governs the city.
+
+=== KEY: Mechanic_64eb66
+HEADWORD: Mechanic
+PERSON: no
+LINK TARGETS: Handicraft | Industrial Revolution | Machine | Tool | Vehicle
+ENTRY:
+Skilled tradesperson who uses [[Tool|tools]] to build, maintain, repair and improve [[Machine|machinery]], especially [[Vehicle|vehicles]]. The term once referred to any [[Handicraft|handicraft]] trade but has meant machinery work since the early 20th century. Mechanics work in automotive, aeronautical, maritime, mining, military and many other fields, inspecting equipment, diagnosing faults and replacing components. Training combines practical experience with apprenticeship, vocational education or certification. The profession grew rapidly during the [[Industrial Revolution]].
+
+=== KEY: Mechanical_engineering_8c7ebd
+HEADWORD: Mechanical engineering
+PERSON: no
+LINK TARGETS: Archimedes | Christiaan Huygens | Industrial Revolution | Isaac Newton | Materials science | Mechanics | Su Song | Thermodynamics
+ENTRY:
+Engineering discipline concerned with the design, analysis, manufacture, and operation of mechanical systems. It combines engineering physics and mathematics with [[Materials science|materials science]] to develop and improve machines, structures, manufacturing processes, and fluid, thermal, and energy systems. Core areas include [[Mechanics|mechanics]], dynamics, [[Thermodynamics|thermodynamics]], design, and structural analysis. Engineers use computer-aided design, manufacturing, and engineering (CAD, CAM, CAE) and product lifecycle management for industrial equipment, heating and cooling systems, motor vehicles, aircraft, robotics, and medical devices.
+
+The field emerged during the [[Industrial Revolution]] in Europe in the 18th century, but its development can be traced back several thousand years. The wedge and inclined plane were known since prehistoric times, the lever appeared around 5,000 years ago in the Near East, and the shadoof, the first crane, in Mesopotamia c. 3000 BC. Water wheels and watermills appeared in the Persian Empire by the early 4th century BC. [[Archimedes]] (287–212 BC) influenced mechanics in the Western tradition. [[Su Song]] (1020–1101 AD) incorporated an escapement into his astronomical clock tower two centuries before escapements appeared in European clocks. Al-Jazari wrote his book on ingenious mechanical devices in 1206.
+
+In the 17th century, [[Christiaan Huygens]] invented the pendulum clock in 1657, the first reliable timekeeper for almost 300 years, and [[Isaac Newton]] formulated his laws of motion and developed calculus. In the early 19th century, machine tools developed in England, Germany, and Scotland allowed mechanical engineering to become a separate field. It overlaps with aerospace, civil, electrical, chemical, and industrial engineering, and today's engineers pursue composites, mechatronics, and nanotechnology.
+
+=== KEY: Mechanics_b79f74
+HEADWORD: Mechanics
+PERSON: no
+LINK TARGETS: Classical mechanics | Galileo Galilei | Isaac Newton | Physics | Quantum mechanics | Relativistic mechanics
+ENTRY:
+Branch of [[Physics|physics]] concerned with the relationships between force, matter and motion among physical objects. Forces may cause displacements, which are changes in an object's position relative to its environment. Theoretical work on the subject began in ancient Greece, where philosophers were among the first to propose that abstract principles govern nature, and the main theory of mechanics in antiquity was Aristotelian mechanics. A parallel tradition used mathematics more extensively to analyze bodies statically or dynamically. Early modern scientists, including [[Galileo Galilei]], Johannes Kepler, Christiaan Huygens and [[Isaac Newton]], laid the foundation for [[Classical mechanics|classical mechanics]]. In the 20th century, new discoveries challenged these concepts and led to [[Relativistic mechanics|relativistic mechanics]] and [[Quantum mechanics|quantum mechanics]].
+
+=== KEY: Mechanization_c9ebaf
+HEADWORD: Mechanization
+PERSON: no
+LINK TARGETS: Automation | Gear | Machine | Pulley
+ENTRY:
+Process of changing from work done largely or exclusively by hand or with animals to work done with [[Machine|machinery]]. An early engineering text defined a machine as something interposed between a moving power and the work to be done, adapting one to the other. In modern usage, as in engineering or economics, mechanization implies machinery more complex than hand tools, and would not include simple devices such as an ungeared horse or donkey mill. Devices that change speed or convert reciprocating motion to rotary motion, using means such as [[Gear|gears]], [[Pulley|pulleys]], belts, cams and cranks, are usually considered machines. After electrification, when most small machinery was no longer hand powered, mechanization became synonymous with motorized machines. The extension of mechanization into production is termed [[Automation|automation]], controlled by a closed-loop system in which sensors provide feedback.
+
+=== KEY: Medan_002d58
+HEADWORD: Medan
+PERSON: no
+LINK TARGETS: Indonesia | Java | Strait of Malacca | Tobacco
+ENTRY:
+City (pop., 2020: 2,435,252), capital of the [[Indonesia|Indonesian]] province of North Sumatra. Its nearby [[Strait of Malacca]], Port of Belawan and Kualanamu International Airport make it a regional hub. About 60% of North Sumatra's economy is backed by trade, agriculture and processing industries. The city was founded at the confluence of the Deli and Babura rivers by a Karonese man, Guru Patimpus, and became part of the Deli Sultanate, established in 1632. Dutch colonists chose Medan and Deli as plantation hubs for the Deli Company in the late 19th century. The Dutch [[Tobacco|tobacco]] trade made it an economic hub, earning it the nickname *Het Land Dollar* ("the land of the money"). It is the most populous city in Indonesia outside [[Java]].
+
+=== KEY: Medea_3454d9
+HEADWORD: Medea
+PERSON: no
+LINK TARGETS: Euripides | Greek mythology | Herodotus | Hesiod | Medes
+ENTRY:
+Sorceress in [[Greek mythology]], daughter of King Aeëtes of Colchis. She first appears in [[Hesiod|Hesiod's]] *Theogony* around 700 BC and is best known from [[Euripides|Euripides's]] 5th-century BC tragedy *Medea*. In the myth of the Argonauts she helps Jason win the Golden Fleece, but in Euripides's version she murders her sons and Jason's new bride after Jason plans to abandon her. According to [[Herodotus]], she later settled on the Iranian plateau, where the Aryans became known as the [[Medes]].
+
+=== KEY: Medell_n_49837f
+HEADWORD: Medellín
+PERSON: no
+LINK TARGETS: Andes | Bogotá | Colombia
+ENTRY:
+City (pop., 2018: 2,427,129), capital of the department of Antioquia and the second-largest city in [[Colombia]] after [[Bogotá]]. It lies in the Aburrá Valley of the [[Andes]]. Founded as a town in 1675, it was a commercial center in the 19th century, first exporting gold and then coffee. Its metro area, with more than 4 million people, produces 67% of Antioquia's GDP. Construction of the Medellín Metro commuter rail, liberalized development policies, and better security and education revived industrial dynamism from the late 20th century. The Urban Land Institute named it the most innovative city in the world in 2013, and it won the Lee Kuan Yew World City Prize in 2016.
+
+=== KEY: Medell_n_Cartel_701769
+HEADWORD: Medellín Cartel
+PERSON: no
+LINK TARGETS: Cocaine | Medellín | Pablo Escobar
+ENTRY:
+Confederation of Colombian drug-trafficking organizations based mainly in [[Medellín]]. It played a central role in expanding the international [[Cocaine|cocaine]] trade in the late 1970s and 1980s. Rather than a single hierarchy, it was a network of semi-autonomous traffickers, including [[Pablo Escobar]]. Some members used assassinations, bombings and intimidation against judges, politicians and journalists to oppose extradition to the United States, a strategy described in Colombian scholarship as narcoterrorism. Key figures were killed or arrested as the network was dismantled in the late 1980s and early 1990s.
+
+=== KEY: Medes_13e9b8
+HEADWORD: Medes
+PERSON: no
+LINK TARGETS: Babylonia | Cyrus the Great | Herodotus | Iran | Lydia | Mesopotamia
+ENTRY:
+Iron Age [[Iran|Iranian]] people who spoke the Median language and inhabited Media, between western and northern Iran. Around the 11th century BC they occupied northwestern Iran and parts of [[Mesopotamia]], near Ecbatana (present-day Hamadan). Their consolidation in Iran is believed to have occurred in the 8th century BC. Accounts by [[Herodotus]] portray a powerful people who played a pivotal role in the fall of the Assyrian Empire and competed with [[Lydia]] and [[Babylonia]]. The Medes left no written records, and some specialists doubt there was ever a powerful Median kingdom. After the last Median king fell to [[Cyrus the Great]], Media became an important province prized by successive empires.
+
+=== KEY: Medgar_Evers_158588
+HEADWORD: Medgar Evers
+PERSON: yes
+LINK TARGETS: Civil rights movement | Jackson, Mississippi
+ENTRY:
+American [[Civil rights movement|civil rights]] activist and the first field secretary of the National Association for the Advancement of Colored People (NAACP) in Mississippi. He challenged segregation at the University of Mississippi by applying to its law school after the 1954 Brown v. Board of Education ruling. He was murdered at his home in [[Jackson, Mississippi|Jackson]] by Byron De La Beckwith, a member of the White Citizens' Council. De La Beckwith was convicted in 1994 on new evidence, after all-white juries failed to reach verdicts in trials during the 1960s. His widow, Myrlie Evers, later served as national chair of the NAACP.
+
+=== KEY: Median_66851a
+HEADWORD: Median
+PERSON: no
+LINK TARGETS: Average | Probability distribution
+ENTRY:
+Middle value of a data set, separating its higher half from its lower half. The median applies to a data sample, a population or a [[Probability distribution|probability distribution]]. Unlike the mean, or [[Average|average]], it is not skewed by a small proportion of extreme values, so it gives a better representation of the center. Median income, for example, may describe the center of the income distribution better than the mean. Increases in the largest incomes alone have no effect on the median. Because of this, the median is of central importance in robust statistics. As a 2-quantile, it partitions a set into two equal parts.
+
+=== KEY: Medical_diagnosis_f9d2fb
+HEADWORD: Medical diagnosis
+PERSON: no
+LINK TARGETS: Medical test | Physical examination
+ENTRY:
+Process of determining which disease or condition explains a person's symptoms and signs, abbreviated Dx. The information is typically collected from a history and [[Physical examination|physical examination]], often supplemented by [[Medical test|medical tests]]. Diagnosis is often difficult because many signs are nonspecific: redness of the skin (erythema), for example, is a sign of many disorders. Clinicians therefore compare possible explanations in a differential diagnosis, correlating information and recognizing patterns. Occasionally a pathognomonic sign or symptom makes the process easy. From a statistical view, diagnosis involves classification tests. Diagnosis is a major component of a doctor's visit, and studies of patient outcomes after diagnosis form the field of survival epidemiology.
+
+=== KEY: Medical_doctor_8aba2f
+HEADWORD: Medical doctor
+PERSON: no
+LINK TARGETS: Anatomy | Medical ethics | Medicine | Physiology
+ENTRY:
+Health professional who practices [[Medicine|medicine]], also called a physician (American and Canadian English) or medical practitioner (British English). Medicine aims to promote, maintain or restore health through the study, diagnosis, prognosis and treatment of disease, injury and other physical and mental conditions. Doctors may focus on particular disease categories, types of patients or methods of treatment, known as specialties, or work in general practice, providing continuing and comprehensive care to individuals and families. Practice requires thorough knowledge of [[Anatomy|anatomy]] and [[Physiology|physiology]], as well as the competence to apply it. [[Medical ethics|Medical ethics]] requires doctors to show consideration, compassion and benevolence toward patients, although the role and title vary around the world.
+
+=== KEY: Medical_ethics_3de0b5
+HEADWORD: Medical ethics
+PERSON: no
+LINK TARGETS: Abortion | Ethics | Euthanasia | Roe v. Wade
+ENTRY:
+Applied branch of [[Ethics|ethics]] that analyzes clinical medicine and related scientific research. It rests on respect for autonomy, non-maleficence, beneficence and justice, which are not ranked in order of importance, although conflicts may require some principles to outweigh others. Major codes include the Hippocratic Oath, which dates to the fifth century BCE, the Nuremberg Code (1947) and the Declaration of Helsinki (1964). Issues include [[Euthanasia|euthanasia]], patient confidentiality, informed consent and the treatment of patients who lack decision-making capacity. The overturning of [[Roe v. Wade]] by the Supreme Court in 2022 raised the question of whether doctors should be legally punished for providing an [[Abortion|abortion]] to save a patient's life. Because cultures apply ethical values differently, culturally sensitive physicians and ethics committees are increasingly needed.
+
+=== KEY: Medical_imaging_e71576
+HEADWORD: Medical imaging
+PERSON: no
+LINK TARGETS: Anatomy | Integrated circuit | Ionizing radiation | Pathology | Physiology
+ENTRY:
+Technique of imaging the interior of a body for clinical analysis, medical intervention and visual representation of organ function. Medical imaging reveals internal structures hidden by the skin and bones, helps diagnose and treat disease, and builds a database of normal [[Anatomy|anatomy]] and [[Physiology|physiology]] against which abnormalities can be identified. Imaging of removed organs is usually considered part of [[Pathology|pathology]]. As of 2010, 5 billion medical imaging studies had been conducted worldwide. In 2006, medical imaging accounted for about 50% of total [[Ionizing radiation|ionizing radiation]] exposure in the United States. The equipment uses semiconductor technology, including [[Integrated circuit|integrated circuit]] chips and sensors; annual shipments of imaging chips reached 46 million units and $1.1 billion in 2015. Most imaging techniques are noninvasive, meaning no instrument is introduced into the body.
+
+=== KEY: Medical_test_4a6a8b
+HEADWORD: Medical test
+PERSON: no
+LINK TARGETS: Blood test | Diabetes | Physical examination | X-ray
+ENTRY:
+Medical procedure performed to detect, diagnose or monitor diseases, disease processes or susceptibility, or to determine a course of treatment. Tests include [[Physical examination|physical]] and visual examinations, diagnostic imaging, genetic testing, and chemical and cellular analysis. They are typically performed in a medical setting. Tests are classified by purpose as diagnostic, screening or monitoring. A diagnostic test confirms or determines the presence of disease in a person suspected of having it, usually after symptoms are reported. For example, measuring blood sugar after periods of increased urination can test for [[Diabetes|diabetes]]. Screening tests, such as blood pressure measurements or cholesterol panels, detect preclinical conditions in healthy populations. Laboratory tests analyze [[Blood test|blood]], urine or tissue samples, while [[X-ray|X-rays]] visualize internal structures.
+
+=== KEY: Medical_ultrasound_b160c7
+HEADWORD: Medical ultrasound
+PERSON: no
+LINK TARGETS: Muscle | Tendon | Ultrasound
+ENTRY:
+Diagnostic and therapeutic use of [[Ultrasound|ultrasound]], mainly for imaging. It creates images of internal structures such as [[Tendon|tendons]], [[Muscle|muscles]], joints, blood vessels and organs, and can measure distances and velocities. The practice of examining pregnant women with ultrasound, called obstetric ultrasonography, was an early development of clinical ultrasonography. Ultrasound consists of sound waves with frequencies greater than 20,000 Hz, the approximate upper threshold of human hearing. A probe sends pulses of ultrasound into tissue, and the echoes that return are displayed as an image called a sonogram. Most examinations use a transducer on the body's surface, but special transducers placed inside the body, such as transvaginal and transesophageal ones, often give better views.
+
+=== KEY: Medication_353bd6
+HEADWORD: Medication
+PERSON: no
+LINK TARGETS: Drug | Encyclopædia Britannica | Pharmacology | Pharmacy | Placebo | Prescription drug | World Health Organization
+ENTRY:
+Substance used to diagnose, cure, treat, or prevent disease; also called medicine, medicament, pharmaceutical drug, or simply [[Drug|drug]]. Drug therapy (pharmacotherapy) relies on [[Pharmacology|pharmacology]] for continual advancement and on [[Pharmacy|pharmacy]] for management. [[Encyclopædia Britannica|Britannica]] defines it as "a substance used in treating a disease or relieving pain." Dosage forms include tablets, capsules, liquids, creams, and patches, and routes of administration include by mouth, by infusion into a vein, and by drops in the ear or eye. A medication with no active ingredient, used in research studies, is a [[Placebo|placebo]].
+
+Definitions vary by jurisdiction. In Europe the term is "medicinal product," defined by EU law as any substance presented as having properties for treating or preventing disease, or usable to restore, correct, or modify physiological functions or to make a medical diagnosis. In the U.S., a "drug" is a substance, other than food, intended to affect the structure or any function of the body or to diagnose, cure, mitigate, treat, or prevent disease.
+
+Drugs are classified in many ways. One key division is by level of control, separating [[Prescription drug|prescription drugs]], dispensed only on prescription, from over-the-counter drugs. Another is between small-molecule drugs, usually derived from chemical synthesis, and biological products such as recombinant proteins, vaccines, gene therapy, and cell therapy. A widely used scheme is the Anatomical Therapeutic Chemical (ATC) system. The [[World Health Organization]] keeps a list of essential medicines.
+
+Historically, drugs were found by isolating active ingredients from traditional remedies or by serendipity; since the sequencing of the human genome, high-throughput screening of large compound libraries has become common. Discovery and development are complex and expensive. Governments generally regulate which drugs can be marketed and how. Controversies have arisen over drug pricing and disposal of used medications.
+
+=== KEY: Medicinal_chemistry_009388
+HEADWORD: Medicinal chemistry
+PERSON: no
+LINK TARGETS: Atorvastatin | Chemistry | Lithium | Organic chemistry | Organic compound | Pharmacology | Pharmacy | Platinum
+ENTRY:
+Discipline at the intersection of [[Chemistry|chemistry]] and [[Pharmacy|pharmacy]] concerned with designing and developing drugs. It identifies, synthesizes and develops new chemical entities for therapeutic use, and studies the biological properties of existing drugs and their quantitative structure-activity relationships. Most medicines are [[Organic compound|organic compounds]], including small molecules such as [[Atorvastatin|atorvastatin]] and protein-based biologics such as insulin glargine. Metal-based agents include [[Platinum|platinum]], [[Lithium|lithium]] and gallium compounds, such as cisplatin, lithium carbonate and gallium nitrate. The field combines [[Organic chemistry|organic chemistry]] with biochemistry, computational chemistry, [[Pharmacology|pharmacology]], molecular biology, statistics and physical chemistry. Pharmaceutical chemistry focuses on the quality of medicines and their fitness for purpose.
+
+=== KEY: Medicine_4ff278
+HEADWORD: Medicine
+PERSON: no
+LINK TARGETS: Alexander Fleming | Edward Jenner | Hippocrates | Louis Pasteur | Quackery | Robert Koch | Surgery | Traditional medicine
+ENTRY:
+Science and practice of caring for patients, managing the diagnosis, prognosis, prevention, treatment, and palliation of injury or disease while promoting health. It encompasses health care practices that evolved to maintain and restore health through the prevention and treatment of illness and infection. Contemporary medicine applies biomedical sciences, biomedical research, genetics, and medical technology to diagnose, treat, and prevent injury and disease, typically through pharmaceuticals or [[Surgery|surgery]], but also through therapies such as psychotherapy, external splints and traction, medical devices, biologics, and ionizing radiation. The English word derives from Latin *medicus*, "a physician."
+
+Medicine has been practiced since prehistoric times, and for most of that time it was an art, frequently connected to the religious and philosophical beliefs of local culture. A medicine man would apply herbs and say prayers for healing; an ancient philosopher and physician would apply bloodletting according to the theory of humorism, or the four humors. Since the advent of modern science, most medicine has become a combination of art and science. [[Hippocrates]], around 460 BC, emphasized natural over supernatural causes and is associated with the Hippocratic Oath. In the 19th century, [[Louis Pasteur]]'s germ theory and [[Robert Koch]]'s postulates linking microbes to specific diseases shifted the paradigm from miasma to microbial causation. [[Alexander Fleming]] discovered penicillin in 1928, and vaccination, built on [[Edward Jenner]]'s smallpox inoculation, led to the disease's eradication by 1980.
+
+Prescientific forms, now known as [[Traditional medicine|traditional medicine]] or folk medicine, remain commonly used in the absence of scientific medicine and are thus called alternative medicine. Alternative treatments outside scientific medicine with ethical, safety, and efficacy concerns are termed [[Quackery|quackery]] or are described as based on fringe science. Modern scientific medicine is highly developed in the Western world, whereas populations in parts of Africa, Oceania, Southeast Asia, and Latin America often rely more heavily on traditional medicine. Even in the developed world, evidence-based medicine is not universally applied: a 2007 survey of literature reviews found that about 49% of medical interventions lacked sufficient evidence to support either benefit or harm.
+
+In clinical practice, physicians and mid-level practitioners such as physician assistants assess patients personally. An encounter typically begins with a review of the medical history and record, followed by a medical interview and a physical examination. The examination looks for objective signs of disease, as distinct from symptoms volunteered by the patient, and rests on four actions: inspection, palpation, percussion, and auscultation, generally in that order. The doctor may order medical tests, take a biopsy, prescribe drugs or other therapies, or refer the patient to a specialist. The encounter is documented in the medical record, a legal document in many jurisdictions. Medical practice is bound by the bioethical principle of non-maleficence, historically associated with the Hippocratic Oath and its duty to "first, do no harm."
+
+=== KEY: Medieval_music_37a01d
+HEADWORD: Medieval music
+PERSON: no
+LINK TARGETS: Classical music | Gregorian chant | Middle Ages | Musical notation | Renaissance music
+ENTRY:
+Sacred and secular music of Western Europe during the [[Middle Ages]], roughly the 6th to 15th centuries. It is the first and longest major era of [[Classical music|Western classical music]], followed by [[Renaissance music]]. Musicologists group these eras as early music, which precedes the common practice period. Medieval music is traditionally divided into Early (500–1150), High (1150–1300) and Late (1300–1400) periods. It includes liturgical music for the church, other sacred music and secular music. Much of it is purely vocal, such as [[Gregorian chant]], while other works used only instruments or combined voices and instruments. The period saw the creation of systems of [[Musical notation|notation]] that let composers document and transmit music, although notation coexisted with oral tradition.
+
+=== KEY: Medieval_philosophy_a66c3b
+HEADWORD: Medieval philosophy
+PERSON: no
+LINK TARGETS: Aachen | Charlemagne | Faith | Middle Ages | Reason
+ENTRY:
+Philosophy of the [[Middle Ages]], extending from the fall of the Western Roman Empire in the 5th century. Medieval philosophy as independent inquiry began in Baghdad in the mid-8th century, and in the court of [[Charlemagne]] at [[Aachen]] in the last quarter of that century. It was shaped by the rediscovery of ancient Greek and Roman thought and by the need to integrate sacred doctrine with secular learning. God was the central concern of Jewish, Christian and Muslim thinkers alike. Major problems included the relation of [[Faith|faith]] to [[Reason|reason]], the existence and simplicity of God, and universals. The 12th to 14th centuries in the Latin West were a "golden age", when the recovery of ancient philosophy culminated, aided by Arabic commentators. Renaissance humanists later dismissed the Scholastic period as a barbaric "middle period".
+
+=== KEY: Medina_a2579d
+HEADWORD: Medina
+PERSON: no
+LINK TARGETS: Mecca | Muhammad | Saudi Arabia
+ENTRY:
+City in western [[Saudi Arabia]], capital of Medina Province (pop., 2022: 1,477,023). Medina is the second holiest city in Islam after [[Mecca]] and was the base of [[Muhammad]]'s leadership after his migration from Mecca (the *Hijrah*) in 622. Originally called Yathrib, the city is home to *al-Masjid an-Nabawi* (the Prophet's Mosque), which houses Muhammad's tomb, and to the Quba Mosque, regarded as the oldest mosque in Islam. Successive powers ruled the region, among them the Mamluks, Ottomans and Hashemites, and it has been part of Saudi Arabia since 1925. Pilgrims and tourists visit its mosques, while the Saudi government has destroyed several historical structures in Medina and Mecca.

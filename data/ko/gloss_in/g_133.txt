@@ -1,0 +1,737 @@
+=== KEY: Telecommunications_ba075f
+HEADWORD: Telecommunications
+PERSON: no
+LINK TARGETS: Alexander Graham Bell | Guglielmo Marconi | Internet | Radio | Samuel Morse | Telephone | Television
+ENTRY:
+Transmission of information over a distance by electrical or electronic means, typically through cables, radio waves, or other technologies. Channels may be divided for multiplexing, letting one medium carry several concurrent sessions. Long-distance technologies of the 19th, 20th, and 21st centuries generally use electric power and include the electrical telegraph, [[Telephone|telephone]], [[Television|television]], and [[Radio|radio]]. The term was coined in 1904 by the French engineer and novelist Édouard Estaunié, who defined it as "remote transmission of thought through electricity". Slow methods such as postal mail are excluded from the definition.
+
+Earlier methods included smoke signals, beacons, and homing pigeons; in 1849 Paul Julius Reuter ran a pigeon service carrying stock prices between Aachen and Brussels until the telegraph gap closed. In 1792 Claude Chappe built the first fixed visual telegraph line, between Lille and Paris; the last commercial line was abandoned in 1880. On July 25, 1837, William Fothergill Cooke and Charles Wheatstone demonstrated the first commercial electrical telegraph. [[Samuel Morse]] independently developed a version and a code that was an important advance. Many inventors contributed to the telephone, including [[Alexander Graham Bell]]. [[Guglielmo Marconi]], who won the 1909 Nobel Prize in Physics, led a revolution in wireless communication in the first decade of the 20th century.
+
+Since the 1960s, digital technologies have supplemented voice with data, and the limits of metallic media prompted optical fiber. Mobile networks evolved from 1G analog to 5G. The [[Internet]] is independent of any given medium and has widened global access to services. In the United States, the AT&T monopoly was broken up in 1984; debates persist over natural monopoly in network deployment and the need for antitrust oversight.
+
+=== KEY: Telegram_software_0b7fed
+HEADWORD: Telegram
+PERSON: no
+LINK TARGETS: Android (operating system) | Dubai | IOS | Linux | Social media | Web browser
+ENTRY:
+Cloud-based, cross-platform [[Social media|social media]] and instant messaging service, founded in 2013 by brothers Pavel and Nikolai Durov. Its headquarters are in [[Dubai]], United Arab Emirates. Users exchange messages and media, and groups can hold up to 200,000 members. Channels allow one-way broadcasts to unlimited audiences. End-to-end encryption covers voice and video calls, and optionally private chats. Telegram runs on [[Android (operating system)|Android]], [[IOS|iOS]], [[Linux]] and [[Web browser|web browsers]]. As of March 2025 it had more than 1 billion monthly active users, most of them in India. Governments in Russia, Iran and Brazil have banned or restricted it.
+
+=== KEY: Telegraphy_5ca46b
+HEADWORD: Telegraphy
+PERSON: no
+LINK TARGETS: Samuel Morse | Telephone | World War II
+ENTRY:
+Long-distance transmission of messages using symbolic codes known to sender and recipient, rather than a physical exchange of objects. The earliest true telegraph in wide use was the optical Chappe telegraph, invented by Claude Chappe in the late 18th century and used extensively in France during the Napoleonic era. Electric telegraphs began replacing optical systems in the mid-19th century. The [[Samuel Morse|Morse]] system, developed in the United States, became the international standard in 1865, using a modified code developed in Germany. Heliographs, which used reflected sunlight, were standard military equipment as late as [[World War II]]. Telegrams became popular once prices fell, but the [[Telephone|telephone]] drove the telegraph into decline from 1920 onward.
+
+=== KEY: Telemetry_aa96a2
+HEADWORD: Telemetry
+PERSON: no
+LINK TARGETS: Radio | SMS | Spacecraft | V-2 rocket | World War II
+ENTRY:
+Automatic collection and transmission of measurements from remote points to receiving equipment for monitoring. The word derives from Greek roots meaning "far off" and "measure." Telemetry systems use [[Radio|radio]], infrared or wired links, and many send data by [[SMS]] over GSM networks. A telemeter consists of a sensor, a transmission path and a display, recording or control device. Radio telemetry became routine as space exploration began, and the German [[V-2 rocket|V-2 rocket]] program used it during [[World War II]]. Today telemetry monitors [[Spacecraft|spacecraft]], patients' vital signs and wildlife movements.
+
+=== KEY: Teleost_ba6478
+HEADWORD: Teleost
+PERSON: no
+LINK TARGETS: Actinopterygii | Anglerfish | Aquarium | Developmental biology | Fishing | Genetics | Oarfish
+ENTRY:
+Infraclass or division of ray-finned fishes ([[Actinopterygii|class Actinopterygii]]) that includes 96% of living fish species. Over 26,000 species range from giant [[Oarfish|oarfish]] of 7.6 m (25 ft) or more to the male [[Anglerfish|anglerfish]] *Photocorynus spiniceps*, 6.2 mm (0.24 in) long. A movable premaxilla lets them protrude their jaws to seize prey. Most use external fertilization, and some provide parental care. The [[Fishing|fishing]] industry harvests teleosts for food, some are farmed, and others are kept in [[Aquarium|aquariums]] or used in research on [[Genetics|genetics]] and [[Developmental biology|developmental biology]].
+
+=== KEY: Telephone_b2a1e8
+HEADWORD: Telephone
+PERSON: no
+LINK TARGETS: Alexander Graham Bell | Microphone | Mobile phone | Patent | Smartphone
+ENTRY:
+Telecommunications device that enables two or more users to converse when too far apart to be easily heard directly. A telephone converts sound, typically the human voice, into electronic signals that travel to another telephone, which reproduces the sound. Its essential elements are a [[Microphone|microphone]] (transmitter) and an earphone (receiver), usually built into a handset; transmission is possible in both directions simultaneously. Calls are placed by entering a telephone number on a keypad or dial. The word derives from Ancient Greek *tēle* ('far') and *phōnē* ('voice').
+
+Credit for the electric telephone is frequently disputed: Charles Bourseul, Antonio Meucci, Johann Philipp Reis, Elisha Gray, and [[Alexander Graham Bell]], among others, have all been credited. In 2002 the U.S. House of Representatives passed a resolution acknowledging Meucci's work. Bell received the first U.S. [[Patent|patent]] for the device on March 7, 1876, and made the first successful call to his assistant Thomas Watson three days later. His patent rested on the finding that a fluctuating current reproduced sound best.
+
+The first commercial line, in 1877, linked Boston and Somerville, Massachusetts, and nearly 600,000 telephones were in use across the Bell system by 1900. Direct connections between customers were impractical beyond a few, so manually operated switchboards replaced them; exchanges were eventually joined into an automated worldwide public switched telephone network. On April 3, 1973, Martin Cooper of Motorola made the first handheld [[Mobile phone|mobile phone]] call, and commercial cell phones followed in 1983. Convergence with computing produced the [[Smartphone|smartphone]], now the dominant type of telephone.
+
+=== KEY: Telescope_399bee
+HEADWORD: Telescope
+PERSON: no
+LINK TARGETS: Electromagnetic spectrum | Galileo Galilei | Hubble Space Telescope | Isaac Newton | James Webb Space Telescope | Optical telescope | Radio telescope
+ENTRY:
+Instrument for observing distant objects by detecting their emission, absorption, or reflection of electromagnetic radiation. The term originally meant an [[Optical telescope|optical telescope]], using lenses, curved mirrors, or both, but now covers instruments that detect many regions of the [[Electromagnetic spectrum|electromagnetic spectrum]]. The word was coined in 1611 by Giovanni Demisiani, from Ancient Greek *tēle* ('far') and *skopein* ('to look or see').
+
+The first practical telescopes were refractors with glass lenses, invented in the Netherlands at the beginning of the 17th century. The earliest record is a 1608 patent application by the spectacle maker Hans Lipperhey; the actual inventor is unknown. [[Galileo Galilei]] built his own version in 1609 and observed Jupiter's moons, the phases of Venus, and the Moon's surface. In 1668 [[Isaac Newton]] built the first practical reflecting telescope, which uses mirrors. Refractors are limited to about 1 meter (39 inches), so most large research telescopes built since the turn of the 20th century are reflectors; the largest have objectives over 10 meters, and 30–40 m designs are under development.
+
+The 20th century brought [[Radio telescope|radio telescopes]] in the 1930s (the first purpose-built one operated in 1937) and infrared telescopes in the 1960s. Because the atmosphere is opaque to most of the spectrum, X-ray and far-infrared observation requires orbit. The [[Hubble Space Telescope]] detects visible, ultraviolet, and near-infrared light, and the Kepler Space Telescope discovered thousands of exoplanets. The [[James Webb Space Telescope]], an infrared instrument, launched on an Ariane 5 from Kourou, French Guiana, on December 25, 2021, and orbits the L2 Lagrange point.
+
+=== KEY: Teletubbies_fc8d86
+HEADWORD: Teletubbies
+PERSON: no
+LINK TARGETS: Antenna (radio) | BBC | Netflix
+ENTRY:
+British children's television series created by Anne Wood and Andrew Davenport for the [[BBC]]. Four differently colored characters, named after the screens on their bellies, communicate mostly through gibberish. Designed to resemble toddlers, they are recognized in popular culture by their [[Antenna (radio)|antennae]]. The series won multiple BAFTA awards, and a single based on its theme song reached number 1 in the UK Singles Chart in December 1997. By October 2000, the franchise had generated over £1 billion ($1.6 billion) in merchandise sales. A rebooted series, green-lit in 2014, ran for 120 episodes, and a new version premiered on [[Netflix]] in 2022.
+
+=== KEY: Television_1bf5d9
+HEADWORD: Television
+PERSON: no
+LINK TARGETS: Cathode ray tube | John Logie Baird | World War II
+ENTRY:
+Telecommunication medium for transmitting moving images and sound; the term also denotes the receiving set. Television is a mass medium for advertising, entertainment, news, and sports. The word combines Ancient Greek *tēle* ('far') and Latin *visio* ('sight'); Constantin Perskyi used it in 1900 at the International Congress of Electricity in Paris.
+
+In 1884 Paul Nipkow patented in Berlin the Nipkow disk, a spinning disk with a spiral of holes that scanned an image line by line. Karl Ferdinand Braun developed the [[Cathode ray tube|cathode ray tube]] in 1897. In 1926 [[John Logie Baird]] gave the first public demonstration of a working television system in London, using mechanical scanning; the next year Philo Farnsworth transmitted the first fully electronic image in San Francisco. The BBC began regular electronic broadcasts in 1936.
+
+After [[World War II]], black-and-white broadcasting became popular in the United Kingdom and the United States, and in the 1950s television was the primary medium for influencing public opinion. Color broadcasting was introduced in the mid-1960s in the U.S. and most other developed countries. Signals were first sent by terrestrial transmitter, then also by cable, satellite, and, since the 2000s, the Internet, and transmission shifted from analog to digital. High-definition formats (1080p, 1080i, 720p) supplemented standard definition. In 2013, 79% of the world's households owned a television set. Flat-panel LCD, OLED, and plasma displays replaced CRT screens, and flat screens decisively overtook CRT in the early 2010s. Smart televisions with Internet functions became dominant by the late 2010s, and streaming services such as Netflix expanded access.
+
+=== KEY: Television_broadcaster_58ab8c
+HEADWORD: Television broadcaster
+PERSON: no
+LINK TARGETS: BBC | Cable television | NBC | PBS | Satellite television
+ENTRY:
+Telecommunications network that distributes television content from a central operation to many stations, pay television providers or, in the United States, multichannel video programming distributors. Until the mid-1980s, broadcast programming in most countries was dominated by a few terrestrial networks. Many early networks, such as the [[BBC]], [[PBS]] and [[NBC]], evolved from radio networks. Where networks broadcast identical central content, the terms "television network," "channel" and "station" are largely interchangeable in everyday use. Many North American networks are branded as "channels" because they have no affiliates and reach viewers through [[Cable television|cable]] or [[Satellite television|satellite]] providers. Networks may also rely on production companies for content, and many stations are self-owned.
+
+=== KEY: Television_show_ecf4d1
+HEADWORD: Television show
+PERSON: no
+LINK TARGETS: Film | Netflix
+ENTRY:
+Content produced for viewing on a television set, transmitted over the air, by satellite or cable, or distributed digitally on streaming platforms. Most programming is produced ahead of time, either in-house or by contract with [[Film|film]] production companies, and excludes breaking news and advertisements. An episodic show is a television series; its segments are episodes, and a show with a limited number of episodes is a miniseries. Early experimental broadcasts in the 1930s reached only a short distance from the tower, and World War II halted development. The first national live U.S. broadcast took place on September 4, 1951, and the first national color broadcast on January 1, 1954. Streaming services such as [[Netflix]] now let viewers watch programming at any time on a subscription basis.
+
+=== KEY: Tellurium_c989bf
+HEADWORD: Tellurium
+PERSON: no
+LINK TARGETS: Copper | Gold | Metalloid | Selenium | Steel | Sulfur | Transylvania
+ENTRY:
+Brittle, silver-white, mildly toxic [[Metalloid|metalloid]] with symbol Te and atomic number 52. It is chemically related to [[Selenium|selenium]] and [[Sulfur|sulfur]]. Its rarity in Earth's crust, comparable to that of platinum, is partly due to a volatile hydride that caused tellurium to be lost to space as a gas during Earth's formation. Tellurium-bearing compounds were first discovered in 1782 in a [[Gold|gold]] mine in [[Transylvania]] by Franz-Joseph Müller von Reichenstein. Martin Heinrich Klaproth named the element in 1798, after the Latin *tellus* ("earth"). It is usually recovered as a by-product of [[Copper|copper]] and lead production. Its main commercial uses are CdTe solar panels and thermoelectric devices, and [[Steel|steel]] and copper alloys, where it improves machinability.
+
+=== KEY: Telly_Savalas_e8caa4
+HEADWORD: Savalas, Telly
+PERSON: yes
+LINK TARGETS: CBS | Columbia University | James Bond
+ENTRY:
+American actor of Greek descent, noted for his bald head and deep, resonant voice. He is best known for playing Lt. Theo Kojak in the [[CBS]] crime drama *Kojak* (1973–1978) and the [[James Bond|James Bond]] villain Ernst Stavro Blofeld in *On Her Majesty's Secret Service* (1969). His films include *Birdman of Alcatraz* (1962), for which he was nominated for the Academy Award for Best Supporting Actor. A cover of Bread's "If" reached number one in the UK Singles Chart in 1975. He earned a psychology degree from [[Columbia University|Columbia University]] in 1946.
+
+=== KEY: Telugu_language_9366ac
+HEADWORD: Telugu language
+PERSON: no
+LINK TARGETS: Andhra Pradesh | Carnatic music | Dravidian languages | Karnataka | Tamil Nadu | Telangana
+ENTRY:
+[[Dravidian languages|Dravidian]] language native to the Indian states of [[Andhra Pradesh]] and [[Telangana]], where it is also the official language. Spoken by about 100 million people, it is the most widely spoken Dravidian language and one of India's 22 scheduled languages. It is also spoken in [[Karnataka]], [[Tamil Nadu]], Kerala and Maharashtra, and by diaspora communities abroad. Telugu is a classical language with a recorded history of at least 2,000 years, and its literary tradition spans over a thousand years. The earliest Telugu words appear in inscriptions dated to c. 4th century BCE. The language predominates in the evolution of [[Carnatic music]], one of two main subgenres of Indian classical music.
+
+=== KEY: Temperate_broadleaf_and_mixed_forests_ae4d14
+HEADWORD: Temperate broadleaf and mixed forests
+PERSON: no
+LINK TARGETS: Beech | Birch | China | Maple | North America | Oak | Pine
+ENTRY:
+Terrestrial habitat type in moderate climates, as defined by the World Wide Fund for Nature. Its richest and most distinctive forests occur in central [[China|China]] and eastern [[North America|North America]], with others in the Himalayas, Western and Central Europe, and Australasia. Typical structure includes a canopy of trees 30 to 61 m (100 to 200 ft) tall, a shade-tolerant understory, a shrub layer and ground cover. Northern Hemisphere broadleaves include [[Oak|oaks]], [[Beech|beeches]], [[Maple|maples]] and [[Birch|birches]], with conifers such as [[Pine|pines]], firs and spruces. Annual rainfall is typically over 600 mm (24 in), and annual average temperatures range from 3 to 23 °C (37 to 73 °F).
+
+=== KEY: Temperate_climate_32f0cf
+HEADWORD: Temperate climate
+PERSON: no
+LINK TARGETS: Humid subtropical climate | Köppen climate classification | Mediterranean climate | Ocean current | Tropical climate
+ENTRY:
+Main climate class in the middle latitudes, between the tropics and the polar regions. Temperate climates occur roughly 23.5° to 66.5° north and south of the Equator. They have wider temperature ranges and more distinct seasons than [[Tropical climate|tropical climates]], which usually differ mainly in precipitation. Latitude, [[Ocean current|ocean currents]], prevailing winds, continentality and altitude all shape them. The [[Köppen climate classification|Köppen classification]] defines a temperate (C) climate as having a mean temperature above −3 °C (26.6 °F) but below 18 °C (64.4 °F) in its coldest month. Subtypes include [[Humid subtropical climate|humid subtropical climates]], with long, hot, humid summers, and [[Mediterranean climate|Mediterranean]] climates, with dry summers and wet winters.
+
+=== KEY: Temperate_rainforest_053442
+HEADWORD: Temperate rainforest
+PERSON: no
+LINK TARGETS: Fern | Moss | North America | South America
+ENTRY:
+Coniferous or broadleaf forest in moist oceanic regions that receives heavy rain. Such forests occur in the Pacific Northwest of [[North America|North America]], the Appalachian region of the United States, southwestern [[South America|South America]], New Zealand, southeastern Australia, northwest Europe and Japan. Their understory is typically [[Moss|mosses]], [[Fern|ferns]] and some shrubs and berries. For North American wet forests, Alaback's definition requires annual precipitation over 140 cm (55 in) and a mean annual temperature between 4 and 12 °C (39 and 54 °F). Canopy conifers can stand 100 m or more tall, and their crowns collect most of the rain and moisture the forest takes in.
+
+=== KEY: Temperature_ee7a8e
+HEADWORD: Temperature
+PERSON: no
+LINK TARGETS: Absolute zero | Celsius | Fahrenheit | International System of Units | Kelvin | Kinetic energy | Thermometer
+ENTRY:
+Physical quantity expressing relative hotness or coldness, reflecting the average [[Kinetic energy|kinetic energy]] of the particles in a system in classical thermodynamics and kinetic theory. Temperature is important across natural science, including physics, chemistry, Earth science, astronomy, medicine, biology, and metallurgy. It affects the phase and density of materials, the rate of chemical reactions, thermal radiation, and the speed of sound, which in a gas is proportional to the square root of the absolute temperature.
+
+Temperature is measured with a [[Thermometer|thermometer]], calibrated in scales that historically relied on various reference points. The [[Celsius]] scale (°C), used in most of the world, sets 0 °C at the freezing point of water and 100 °C at its boiling point at sea-level atmospheric pressure. The [[Fahrenheit]] scale (°F) is in common use in the United States, with water freezing at 32 °F and boiling at 212 °F. The [[Kelvin]] scale (K) is an absolute scale used predominantly for science; an increment of one degree Celsius equals one kelvin, and the scales differ by an exact offset of 273.15. The kelvin is one of the seven base units of the [[International System of Units]], defined since May 2019 through particle kinetic theory and statistical mechanics.
+
+[[Absolute zero]], 0 K, equals −273.15 °C or −459.67 °F. Under the third law of thermodynamics it can be approached but never reached; the lowest temperature attained experimentally is 38 pK, or 38 trillionths of a kelvin. Matter there still has quantum-mechanical zero-point energy. Negative absolute temperatures exist and are hotter than any positive temperature.
+
+=== KEY: Temple_54026e
+HEADWORD: Temple
+PERSON: no
+LINK TARGETS: Ancient Egyptian religion | Ancient Rome | Christianity | Clergy | Deity | Islam | Judaism | Latin
+ENTRY:
+Structure reserved for worship, used for spiritual rituals such as prayer and sacrifice. The word derives from the [[Latin|Latin]] *templum*, a sacred precinct marked out by a priest, or augur, in [[Ancient Rome|Ancient Rome]]. Many extinct religions, including the [[Ancient Egyptian religion|Ancient Egyptian]] and Ancient Greek, had temples, as do active faiths such as Hinduism, Buddhism, Sikhism and Shinto, under names such as mandir, vihara and gurudwara. Temples usually house offerings to a [[Deity|deity]] and are maintained by [[Clergy|clergy]], with access often restricted to them. Hindu temples contain a garbhagriha (womb-chamber), an inner sanctum where the primary image of a deity is housed. [[Christianity|Christianity]] uses churches, [[Islam|Islam]] mosques and [[Judaism|Judaism]] synagogues.
+
+=== KEY: Temple_Grandin_c94b18
+HEADWORD: Grandin, Temple
+PERSON: yes
+LINK TARGETS: Autism | Livestock | Time (magazine)
+ENTRY:
+American academic, inventor and ethologist. A prominent advocate for the humane treatment of [[Livestock|livestock]] at slaughter, she consults for the livestock industry. One of the first autistic people to document insights from her own experience of [[Autism|autism]], she was not formally diagnosed until adulthood. She has written more than 60 scientific papers on animal behavior. In 2010, [[Time (magazine)|Time]] named her in its "Heroes" category. The biographical film *Temple Grandin* (2010) won a Primetime Emmy Award and a Golden Globe.
+
+=== KEY: Temple_Mount_373d58
+HEADWORD: Temple Mount
+PERSON: no
+LINK TARGETS: Herod the Great | Islam | Israeli–Palestinian conflict | Jerusalem | Judaism | Plateau | Roman Empire
+ENTRY:
+Elevated [[Plateau|plateau]] in the Old City of [[Jerusalem|Jerusalem]], holy to [[Judaism|Judaism]] and [[Islam|Islam]]. It was the site of two successive Jewish temples. Solomon's Temple, built by King Solomon in 957 BCE, was destroyed by the Neo-Babylonian Empire in 587 BCE, though no archaeological evidence has verified it. The Second Temple, built in 516 BCE, was renovated by [[Herod the Great|Herod the Great]] and destroyed by the [[Roman Empire|Roman Empire]] in 70 CE. The plaza is dominated by the Dome of the Rock, completed in 692, and the Qibli Mosque of al-Aqsa. Its courtyard can host more than 400,000 worshippers. Israel has enforced a ban on prayer by non-Muslims under the "status quo" arrangement. The site remains a focus of the [[Israeli–Palestinian conflict|Israeli–Palestinian conflict]].
+
+=== KEY: Ten_Commandments_21132f
+HEADWORD: Ten Commandments
+PERSON: no
+LINK TARGETS: Arkansas | Halakha | Hebrew Bible | Louisiana | Moses | Quran | Texas
+ENTRY:
+Religious and ethical directives, structured as a covenant document, that the [[Hebrew Bible|Hebrew Bible]] says God gave to [[Moses|Moses]]. The text appears in three distinct versions in the Hebrew Bible. Different traditions divide the text into ten commandments in different ways. The commandments are the foundational core of Jewish law ([[Halakha|Halakha]]), and most Christian traditions regard them as divinely authoritative. The [[Quran|Quran]] presents them as moral and legal guidance focused on monotheism, justice and righteousness. In the United States, laws passed in the 2020s in [[Texas|Texas]], [[Louisiana|Louisiana]] and [[Arkansas|Arkansas]] mandate their display, though these laws face legal challenges over church and state.
+
+=== KEY: Tencent_9414b9
+HEADWORD: Tencent
+PERSON: no
+LINK TARGETS: AOL | Conglomerate (company) | E-commerce | Shenzhen
+ENTRY:
+Chinese multinational technology [[Conglomerate (company)|conglomerate]] and holding company, founded in 1998 and headquartered in [[Shenzhen|Shenzhen]]. It is one of the highest-grossing multimedia companies in the world, and the world's largest video game vendor by equity investments. Its services include social networks, mobile games, [[E-commerce|e-commerce]], music, payment systems and multiplayer online games. It operates the instant messengers QQ and WeChat. Its first messenger, OICQ, was renamed QQ shortly after its 1999 release, reportedly due to a lawsuit threat from ICQ's owner [[AOL|AOL]]. The company surpassed a market value of US$500 billion in 2018, becoming the first Asian technology company to do so, and its valuation approached US$1 trillion in January 2021 before falling sharply.
+
+=== KEY: Tendon_3bed10
+HEADWORD: Tendon
+PERSON: no
+LINK TARGETS: Bone | Connective tissue | Ligament
+ENTRY:
+Tough band of dense fibrous [[Connective tissue|connective tissue]], also called a sinew, that connects muscle to [[Bone|bone]]. It transmits the mechanical forces of muscle contraction to the skeleton while withstanding tension. Tendons, like [[Ligament|ligaments]], are made of collagen, but ligaments connect bone to bone while tendons connect muscle to bone. The adult human body has about 4,000 tendons. Collagen makes up 60–85% of a normal tendon's dry mass, mostly type I, and its fibers run parallel and are grouped into fascicles. Tendon cells, called tenocytes, synthesize the extracellular matrix that surrounds them. The whole tendon is enclosed by a fascia, and the space between it and the tendon tissue is filled with the paratenon, a fatty loose connective tissue.
+
+=== KEY: Tenerife_c81266
+HEADWORD: Tenerife
+PERSON: no
+LINK TARGETS: Atlantic Ocean | Canary Islands | Island | Las Palmas | Santa Cruz de Tenerife | Spain | UNESCO
+ENTRY:
+Volcanic [[Island|island]], largest of the [[Canary Islands|Canary Islands]], off northwest Africa in the [[Atlantic Ocean|Atlantic Ocean]] (pop., 2026: 972,018). With an area of 2,034.38 sq km (785.48 sq mi), it is the largest island in Macaronesia. It is dominated by Teide, the highest mountain in [[Spain|Spain]]. Teide National Park is a [[UNESCO|UNESCO]] World Heritage Site, and the island supports many endemic species. Its capital, [[Santa Cruz de Tenerife|Santa Cruz de Tenerife]], shares capital status with [[Las Palmas|Las Palmas]] de Gran Canaria. Tourism is a major part of the economy.
+
+=== KEY: Tengri_846b02
+HEADWORD: Tengri
+PERSON: no
+LINK TARGETS: Animism | Göktürks | Shamanism | Turkic peoples | Xiongnu
+ENTRY:
+All-encompassing God of Heaven in the traditional religions of [[Turkic peoples|Turkic]], Mongolic and other nomadic peoples. Worship of Tengri, called Tengrism, involves ancestor worship, [[Shamanism|shamanism]], [[Animism|animism]] and totemism. Its core beings are the Sky Father and the Earth Mother. Tengri was the national god of the [[Göktürks|Göktürks]], whose khans based their power on a mandate from him. The name is recorded in Chinese annals from the 4th century BC, describing the beliefs of the [[Xiongnu|Xiongnu]]. It is generally assumed the term originally meant "sky." Tengri was the chief deity of the ruling class of Central Asian steppe peoples from the 6th to 9th centuries.
+
+=== KEY: Tennessee_Williams_467adc
+HEADWORD: Williams, Tennessee
+PERSON: yes
+LINK TARGETS: Arthur Miller
+ENTRY:
+American playwright and screenwriter, among the three foremost playwrights of 20th-century American drama with [[Arthur Miller|Arthur Miller]] and Eugene O'Neill. He wrote his first play in 1930, but his career took off with *The Glass Menagerie* (1944). *A Streetcar Named Desire* (1947), *Cat on a Hot Tin Roof* (1955), *Sweet Bird of Youth* (1959) and *The Night of the Iguana* (1961) were also successful and widely acclaimed. His later work, in a new style, appealed less widely to audiences. Much of his work was adapted to film, and he also wrote short stories, poetry, essays and a volume of memoirs. Critics agree he drew on his dysfunctional family in much of his writing. He was inducted into the American Theater Hall of Fame in 1979.
+
+=== KEY: Tennessee_a5c53b
+HEADWORD: Tennessee
+PERSON: no
+LINK TARGETS: American Civil War | Blues | Country music | Great Smoky Mountains National Park | Manhattan Project | Rock and roll | United States
+ENTRY:
+Landlocked southeastern [[United States|U.S.]] state, admitted to the Union as the 16th state on June 1, 1796 (pop., 2024: 7.22 million). Nashville is its capital and largest city. Tennessee was the last state to secede from the Union and join the Confederacy in the [[American Civil War|American Civil War]], and the first former Confederate state readmitted afterward. Federal investment in the Tennessee Valley Authority and in Oak Ridge, built for the [[Manhattan Project|Manhattan Project]], helped shift its economy from agriculture to a more diversified base. The state has been central to [[Country music|country]], [[Blues|blues]] and [[Rock and roll|rock and roll]] music. The [[Great Smoky Mountains National Park|Great Smoky Mountains]] lie in the east.
+
+=== KEY: Tennessine_7338de
+HEADWORD: Tennessine
+PERSON: no
+LINK TARGETS: Halogen | Island of stability | Synthetic element | Tennessee
+ENTRY:
+[[Synthetic element|Synthetic]] superheavy element with symbol Ts and atomic number 117. It is named after the U.S. state of [[Tennessee|Tennessee]], where key research institutions involved in its discovery are located. Its discovery was announced in Dubna, Russia, in April 2010 by a Russian–American collaboration, making it the most recently discovered element. The International Union of Pure and Applied Chemistry recognized it in 2015, and the name was adopted in November 2016. Tennessine may lie in the [[Island of stability|island of stability]], though its atoms have lasted only tens to hundreds of milliseconds. It is expected to be a member of the [[Halogen|halogens]] and may be a volatile metal.
+
+=== KEY: Tennis_0c493d
+HEADWORD: Tennis
+PERSON: no
+LINK TARGETS: Birmingham | Felt | Grand Slam (tennis) | Henry VIII | Summer Olympic Games
+ENTRY:
+Racket sport played as singles, between two opponents, or as doubles, between two teams of two players each. Players strike a hollow rubber ball covered with [[Felt|felt]] over a net into the opponent's court, aiming to make a valid return impossible. The original forms developed in France in the late Middle Ages, and the word probably comes from the French *tenez* ("receive!"), a server's call to the opponent. The modern game originated in [[Birmingham|Birmingham]], England, in the late 19th century as lawn tennis. [[Henry VIII|Henry VIII]] was a fan of its indoor precursor, now called real tennis. The four [[Grand Slam (tennis)|Grand Slam]] tournaments are the Australian Open, French Open, Wimbledon and US Open, and tennis has been part of the [[Summer Olympic Games|Summer Olympic Games]] since 1988.
+
+=== KEY: Tenochtitlan_18ed6d
+HEADWORD: Tenochtitlan
+PERSON: no
+LINK TARGETS: Aztec Empire | Levee | Mexico City | New Spain
+ENTRY:
+Mexica city-state on an island in Lake Texcoco, and capital of the expanding [[Aztec Empire|Aztec Empire]] in the 15th century. Its founding date is uncertain; 13 March 1325 was chosen in 1925 to mark the 600th anniversary. At its peak it was the largest city in the pre-Columbian Americas, covering an estimated 8 to 13.5 sq km (3.1 to 5.2 sq mi). Causeways and bridges linked it to the mainland, and canals allowed canoes to move throughout the city. A [[Levee|levee]], reputedly designed by Nezahualcoyotl, was completed c. 1453 and kept fresh spring water apart from the brackish lake. Tenochtitlan was captured by Tlaxcaltec and Spanish forces in 1521, after which it became a *cabecera* of the Viceroyalty of [[New Spain|New Spain]]. Its ruins lie in the historic center of [[Mexico City|Mexico City]].
+
+=== KEY: Tenpin_bowling_97b5ac
+HEADWORD: Tenpin bowling
+PERSON: no
+LINK TARGETS: Bowling
+ENTRY:
+Type of [[Bowling|bowling]] in which a bowler rolls a ball down a lane toward ten pins arranged in an equilateral triangle. The goal is to knock down all ten pins with the first delivery (a strike) or, failing that, the second (a spare). The lane is 60 feet (18 m) long and 41.5 inches (105 cm) wide, bordered by gutters. Oil on roughly the first two-thirds of the lane lets the ball skid before it hooks into the pins. The sport arose in the early 1800s as an alternative to nine-pin bowling, and standardized regulations were agreed only near the end of that century. After automated mechanical pinsetters, it enjoyed a "golden age" in the mid-20th century. Since the 1980s, declining television ratings and league participation have pushed centers to become entertainment venues.
+
+=== KEY: Tensor_f20fc3
+HEADWORD: Tensor
+PERSON: no
+LINK TARGETS: Bernhard Riemann | General relativity | Mechanics | Physics | Vector space
+ENTRY:
+Algebraic object describing a multilinear relationship between sets of objects associated with a [[Vector space|vector space]]. Tensors may map between vectors, scalars and other tensors, and include dual vectors and the dot product. They are important in [[Physics|physics]], in [[Mechanics|mechanics]] (stress, elasticity, fluid mechanics) and in [[General relativity|general relativity]] (stress–energy and curvature tensors). Tullio Levi-Civita and Gregorio Ricci-Curbastro popularized tensors in 1900, continuing earlier work by [[Bernhard Riemann|Bernhard Riemann]]. A tensor field is a tensor that varies across space, as the stress within an object may. Tensors can be represented as multidimensional arrays of components, and the number of indices gives the tensor's order or rank.
+
+=== KEY: Tent_c751af
+HEADWORD: Tent
+PERSON: no
+LINK TARGETS: Camping | Circus | Cotton | Nomad | Nylon | Polyester
+ENTRY:
+Temporary shelter consisting of sheets of fabric stretched over a frame of poles, designed to be easily dismantled and portable. Smaller tents may be free-standing or pegged to the ground, while large ones are usually anchored with guy ropes tied to stakes or tent pegs. Tents range from bivouac structures for one sleeper to huge [[Circus|circus]] tents. Recreational [[Camping|camping]] tents are either light enough to be carried by backpackers or transported in a vehicle, and most can be pitched or struck in 5 to 25 minutes. First used as portable homes by [[Nomad|nomads]], tents are now mainly used for recreational camping and as temporary shelter. [[Nylon]] and [[Polyester]] are common materials because they are light and absorb less water than [[Cotton]], though they are not necessarily waterproof. Tents have also been increasingly linked with homelessness in the United States, Canada and other regions.
+
+=== KEY: Tenzing_Norgay_87e670
+HEADWORD: Tenzing Norgay
+PERSON: yes
+LINK TARGETS: Darjeeling | Edmund Hillary | Mount Everest | Time (magazine)
+ENTRY:
+Nepalese-Indian Sherpa mountaineer. On May 29, 1953, Tenzing Norgay and [[Edmund Hillary]] were the first people confirmed to have reached the summit of [[Mount Everest]], during the 1953 British Mount Everest expedition. He had served as a high-altitude porter on British attempts on Everest in the 1930s and took part in an unsuccessful summit attempt in 1947. He settled in [[Darjeeling]], India, and acquired Indian citizenship. From 1954 to 1976 he was the inaugural Director of Field Training at the Himalayan Mountaineering Institute. He wrote the autobiography *Man of Everest*, received the British George Medal and India's Padma Bhushan, and was named by [[Time (magazine)|Time]] one of the 100 most influential people of the 20th century.
+
+=== KEY: Teotihuacan_4c96ba
+HEADWORD: Teotihuacan
+PERSON: no
+LINK TARGETS: Aztecs | Mesoamerica | Mexico City | Mural | Obsidian | UNESCO | World Heritage Site
+ENTRY:
+Ancient [[Mesoamerica|Mesoamerican]] city about 40 kilometers (25 mi) northeast of [[Mexico City]]. Established around 100 BCE, it became the largest city in the Americas at its zenith, perhaps in the first half of the first millennium CE, with an estimated population of at least 25,000 and likely around 100,000 at its height. Residents lived in multi-family apartment compounds along the Avenue of the Dead, and the city is known for the Pyramid of the Sun, the Pyramid of the Moon and well-preserved [[Mural|murals]]. Teotihuacan exported fine [[Obsidian|obsidian]] tools throughout Mesoamerica. Its major monuments were sacked and systematically burned around 550 CE, possibly related to extreme weather events of 535–536. The later [[Aztecs]] claimed a common ancestry with its inhabitants, although the city predates the Aztec Empire by many centuries. It was designated a [[UNESCO]] [[World Heritage Site]] in 1987.
+
+=== KEY: Terbium_eb5fe3
+HEADWORD: Terbium
+PERSON: no
+LINK TARGETS: Erbium | Fluorescence | Lanthanide | Sweden | Ytterbium
+ENTRY:
+Chemical element with symbol Tb and atomic number 65. A silvery-white, malleable and ductile rare-earth metal, it is the ninth member of the [[Lanthanide|lanthanide]] series. Terbium is never found free in nature, occurring instead in minerals such as monazite and xenotime. Swedish chemist Carl Gustaf Mosander discovered it in 1843 as an impurity in yttrium oxide, and it was not isolated in pure form until ion exchange techniques were developed. Yttrium, terbium, [[Erbium|erbium]] and [[Ytterbium|ytterbium]] are named after the village of Ytterby in [[Sweden]]. Its trivalent ion is brilliantly [[Fluorescence|fluorescent]], and most of the world's supply goes into green phosphors for fluorescent lamps and television and monitor cathode-ray tubes. Terbium is also part of Terfenol-D, an alloy that expands and contracts more than any other alloy in magnetic fields, used in actuators, naval sonar and sensors. It is considered non-hazardous, though its biological role and toxicity have not been researched in depth.
+
+=== KEY: Terence_2c46a0
+HEADWORD: Terence
+PERSON: yes
+LINK TARGETS: Carthage | Molière | Roman Republic | Western Roman Empire | William Shakespeare
+ENTRY:
+[[Roman Republic|Roman]] comic playwright of [[Carthage|Carthaginian]] birth. Publius Terentius Afer wrote six comedies based on Greek originals by Menander or Apollodorus of Carystus, all surviving complete and produced between 166 and 160 BC. According to ancient authors he was brought to Rome as a slave, where he gained an education and his freedom, and he then traveled east around the age of 25, dying either of disease in Greece or in a shipwreck. Ancient biographies are often considered speculative, since they were written long after his lifetime. His plays quickly became standard school texts, and he was one of four authors taught to all grammar pupils in the [[Western Roman Empire]]. He kept a central place in European school curricula until the 19th century and influenced [[William Shakespeare]] and [[Molière]].
+
+=== KEY: Terence_Tao_6f1c91
+HEADWORD: Terence Tao
+PERSON: yes
+LINK TARGETS: Adelaide | Combinatorics | Fields Medal | Harmonic analysis | Partial differential equation | Prime number | University of California, Los Angeles
+ENTRY:
+Australian-American mathematician known for work on [[Partial differential equation|partial differential equations]], [[Combinatorics]], [[Harmonic analysis]] and additive number theory. Born in [[Adelaide]] to Chinese immigrant parents, he won a gold medal at the International Mathematical Olympiad in 1988, aged 13, the youngest gold medallist in the competition's history. He was awarded the [[Fields Medal]] in 2006. With Ben Green he established the Green–Tao theorem, showing that the [[Prime number|primes]] contain arbitrarily long arithmetic progressions. He became the youngest full professor in the history of [[University of California, Los Angeles|UCLA]].
+
+=== KEY: Teresa_Teng_d9fc1d
+HEADWORD: Teresa Teng
+PERSON: yes
+LINK TARGETS: Asthma | Cantonese | Pop music | Taiwan | Thailand | Time (magazine)
+ENTRY:
+[[Taiwan|Taiwanese]] singer, television personality and musician, widely regarded as one of the most culturally significant figures in the Chinese-speaking world of the 20th century. She recorded more than 1,700 songs in Mandarin, [[Cantonese]], Hokkien, Japanese, English, Italian and other languages. Credited as the Far East's first pop superstar, she helped lay the foundation for modern Chinese [[Pop music|pop]]. She sold over 48 million albums, excluding sales in mainland China. Nicknamed "the soldiers' sweetheart" for entertaining Taiwan's armed forces, she was named by [[Time (magazine)|Time]] in 1986 as one of the seven greatest female singers in the world. She died of an [[Asthma]] attack in [[Thailand]].
+
+=== KEY: Teresa_of_vila_af3db9
+HEADWORD: Teresa of Ávila
+PERSON: yes
+LINK TARGETS: Counter-Reformation | Inquisition | John of the Cross | Spain
+ENTRY:
+[[Spain|Spanish]] Carmelite mystic and reformer. During the [[Counter-Reformation]], she became the central figure of a movement of spiritual and monastic renewal that reformed the Carmelite orders for women and men. With [[John of the Cross|Saint John of the Cross]] she established the Discalced Carmelites, a split formally adopted by papal decree in 1580. Her autobiography, *The Life of Teresa of Jesus*, and her books *The Interior Castle* and *The Way of Perfection* are prominent works of Christian mysticism and meditation. In the autobiography she discerns four stages in the soul's ascent to God. Her paternal grandfather was a converso, and the [[Inquisition]] scrutinized her visions. Canonized in 1622 by Pope Gregory XV, she was declared the first female Doctor of the Church by Pope Paul VI in 1970.
+
+=== KEY: Terminator_2_Judgment_Day_b39d36
+HEADWORD: Terminator 2: Judgment Day
+PERSON: no
+LINK TARGETS: Academy Awards | Arnold Schwarzenegger | James Cameron
+ENTRY:
+1991 American science fiction action film directed by [[James Cameron]], and a sequel to *The Terminator* (1984). A reprogrammed Terminator is sent back to 1995 to protect the young John Connor from a more advanced killing machine. Co-written by Cameron and William Wisher, it starred [[Arnold Schwarzenegger]], Linda Hamilton and Robert Patrick. With an estimated budget of $94–$102 million, it was the most expensive film made at the time. It grossed $519–$520.9 million, the highest-grossing film of 1991 worldwide, and won four [[Academy Awards]]. It was the first blockbuster to use a computer-generated main character.
+
+=== KEY: Termite_605f67
+HEADWORD: Termite
+PERSON: no
+LINK TARGETS: Ant | Cockroach | Venezuela | Wood
+ENTRY:
+Eusocial insect closely related to [[Cockroach|cockroaches]]. Termites consume decaying plant material, generally [[Wood|wood]], leaf litter and soil humus. They are not [[Ant|ants]] but highly derived cockroaches within the order Blattodea, and are often called white ants for their soft, unpigmented workers. About 3,014 extant species are described. Colonies range from a few hundred individuals to several million and are organized into workers, soldiers, and a king and queen. Termites are important decomposers in tropical and subtropical regions, and some species build large mounds that change soil properties. Many species are structural pests that infest timber, and 28 of the most invasive and damaging pest species belong to the genus Coptotermes. The Makiritare of the Alto Orinoco province in [[Venezuela]] eat termites as a delicacy, and they are used in some traditional medicines.
+
+=== KEY: Tern_78881c
+HEADWORD: Tern
+PERSON: no
+LINK TARGETS: Genus | Gull | Sea | Seabird | Wetland
+ENTRY:
+Slender [[Seabird|seabird]] in the subfamily Sterninae of the family Laridae, which also includes [[Gull|gulls]] and skimmers. Terns are lightly built, with long forked tails, narrow wings, long bills and relatively short legs. Most species are pale gray above and white below, with a black cap, though some marsh terns and noddies have dark plumage. They occur worldwide, normally near the [[Sea|sea]], rivers or [[Wetland|wetlands]], and are treated in eleven [[Genus|genera]]. Terns are long-lived and relatively free from natural predators, but most species are declining because of habitat loss, pollution, disturbance and predation by introduced mammals. The Chinese crested tern is critically endangered, and three other species are classed as endangered. The least tern is 23 cm (9 in) long, and the Caspian tern 48–56 cm (19–22 in).
+
+=== KEY: Terracotta_Army_e9764e
+HEADWORD: Terracotta Army
+PERSON: no
+LINK TARGETS: Cavalry | Qin Shi Huang | Sima Qian | Xi'an
+ENTRY:
+Collection of terracotta sculptures depicting the armies of [[Qin Shi Huang]], the first emperor of China. Buried with the emperor in 210–209 BCE in his mausoleum near [[Xi'an]] in Shaanxi province, it is funerary art meant to protect him in the afterlife. The figures vary in height according to rank, the tallest being the generals, and include warriors, chariots and horses. Estimates from 2007 put the three pits at more than 8,000 soldiers, 130 chariots with 520 horses, and 150 [[Cavalry|cavalry]] horses. Local farmers digging a well discovered the army on March 29, 1974. [[Sima Qian]] described the mausoleum in the Records of the Grand Historian, written about a century after its completion. Work on the tomb began in 246 BCE, soon after the future first emperor, then aged 13, became king of Qin.
+
+=== KEY: Terrestrial_planet_0713d0
+HEADWORD: Terrestrial planet
+PERSON: no
+LINK TARGETS: Earth | Gas giant | Iron | Mars | Mercury (planet) | Silicate | Solar System | Venus
+ENTRY:
+Planet composed primarily of [[Silicate|silicate]] rocks or metals, also called a rocky or telluric planet. Terrestrial planets have a solid surface, unlike [[Gas giant|gaseous]] giants, which are composed mostly of hydrogen, helium and water in various physical states. All terrestrial planets in the [[Solar System]] share a basic structure with a central metallic core, mostly [[Iron|iron]], surrounded by a silicate mantle. Their surfaces can show canyons, craters, mountains and volcanoes, depending on erosion and tectonic activity. Their atmospheres are secondary, generated by volcanic outgassing or comet impact debris, unlike the primary atmospheres of giant planets captured from the solar nebula. The International Astronomical Union recognizes four terrestrial planets in the Solar System: [[Mercury (planet)|Mercury]], [[Venus]], [[Earth]] and [[Mars]]. Astronomers using the geophysical definition may also count Earth's Moon, Io and sometimes Europa.
+
+=== KEY: Terrier_ba1a52
+HEADWORD: Terrier
+PERSON: no
+LINK TARGETS: Dog | Hound
+ENTRY:
+[[Dog]] of any of many breeds, originally bred to hunt vermin, typically small, wiry, game and fearless. The name derives from the Latin *terra*, meaning earth, through the Old French *chien terrier*, or "earth dog". Early terriers competed in events such as clearing a pit of rats, and in the 18th century some were crossed with [[Hound|hounds]] to improve their hunting. Other crosses with fighting dogs produced bull and terrier types used in dog-fighting. Today most terriers are kept as companion dogs, and they are divided into five groups. Hunting types such as the Jack Russell Terrier still track quarry underground. Terriers range from the English Toy Terrier, which weighs as little as 2.7 kg (6 lb), to the Airedale Terrier, up to 25 kg (56 lb) or more.
+
+=== KEY: Territories_of_the_United_States_4352ec
+HEADWORD: Territories of the United States
+PERSON: no
+LINK TARGETS: American Samoa | Atoll | Guam | Northern Mariana Islands | Puerto Rico
+ENTRY:
+Sub-national areas under U.S. sovereignty, governed as administrative divisions and dependent territories. Five permanently inhabited, unincorporated territories are [[American Samoa]], [[Guam]], the [[Northern Mariana Islands]], [[Puerto Rico]] and the United States Virgin Islands. The other nine, the United States Minor Outlying Islands, are small [[Atoll|atolls]], islands and reefs with no permanent population. Residents cannot vote in United States presidential elections and have only non-voting representation in Congress. Most territories were created to administer newly acquired land and most eventually became states, the most recent being Hawaii in 1959.
+
+=== KEY: Terrorism_848361
+HEADWORD: Terrorism
+PERSON: no
+LINK TARGETS: Edmund Burke | French Revolution | Maximilien Robespierre | Reign of Terror | September 11 attacks
+ENTRY:
+Use of violence against non-combatants to achieve political or ideological aims, generally intended to instill fear and to reach beyond the immediate victims. No definition has gained universal agreement, partly because the term is politically and emotionally charged. The law-of-war expert Richard Baxter wrote that "the term is imprecise; it is ambiguous; and above all, it serves no operative legal purpose." In 2006 over 109 different definitions were estimated to exist. Some definitions confine terrorism to non-state actors, while other scholars include state terrorism, which some contend is the deadlier form.
+
+The word originated in the [[French Revolution]], describing the Jacobin Club's [[Reign of Terror]]; [[Maximilien Robespierre]] declared that "Terror is nothing other than justice, prompt, severe, inflexible", and in 1795 [[Edmund Burke]] denounced the Jacobins for loosing "thousands of those hell-hounds called Terrorists" on France. The terms regained currency in the 1970s through the Palestine Liberation Organization, the Irish Republican Army, the Basque group ETA, and the Red Army Faction. Suicide attacks increased from the 1980s, typified by the [[September 11 attacks]] in 2001.
+
+Left-wing and right-wing organizations, nationalist and religious groups, revolutionaries, and ruling governments have all used terrorism. Attacks often target crowded public places such as airports, shopping centers, and nightlife venues, aiming to undermine confidence in security measures and prompt policy changes. The Global Terrorism Database, maintained by the University of Maryland, College Park, recorded more than 61,000 incidents of non-state terrorism, causing at least 140,000 deaths, between 2000 and 2014.
+
+=== KEY: Terry_Bradshaw_bcbf29
+HEADWORD: Terry Bradshaw
+PERSON: yes
+LINK TARGETS: Country music | National Football League | Pittsburgh Steelers | Super Bowl
+ENTRY:
+American former football quarterback and sports analyst. He played 14 seasons with the [[Pittsburgh Steelers]] in the [[National Football League]] (NFL), winning four [[Super Bowl|Super Bowls]] in a six-year period (1974, 1975, 1978 and 1979) and becoming the first quarterback to win three and four. He led the Steelers to eight AFC Central championships and was inducted into the Pro Football Hall of Fame in 1989, in his first year of eligibility. Since 1994 he has been a co-host and analyst on Fox NFL Sunday. He has also released several [[Country music|country music]] albums and appeared in films, including *Failure to Launch*.
+
+=== KEY: Terry_Gilliam_327b19
+HEADWORD: Terry Gilliam
+PERSON: yes
+LINK TARGETS: Authoritarianism | Imagination | Monty Python
+ENTRY:
+American-born British filmmaker, animator and comedian. He created animations for [[Monty Python|Monty Python]]'s Flying Circus, became a performer in the troupe, and was the only member not born in Britain; he became a naturalized British citizen in 1968. He co-directed *Monty Python and the Holy Grail* (1975) before becoming a solo filmmaker. His films, including *Time Bandits* (1981), *Brazil* (1985), *The Fisher King* (1991) and *12 Monkeys* (1995), often use dystopian settings and explore [[Imagination|imagination]] and opposition to bureaucracy and [[Authoritarianism|authoritarianism]]. He received a BAFTA Fellowship for lifetime achievement in 2009.
+
+=== KEY: Tertiary_education_6f92a3
+HEADWORD: Tertiary education
+PERSON: no
+LINK TARGETS: Academic degree | UNESCO | United Kingdom | United States
+ENTRY:
+Stage of education following compulsory education. Definitions vary: it may include all post-compulsory education, all post-secondary education, or be treated as a synonym for higher education. In the International Standard Classification of Education (ISCED), tertiary education refers to levels 5, 6, 7 and 8 of the 2011 version, covering academic education and degree-level technical and professional education. It may culminate in certificates, diplomas or [[Academic degree|academic degrees]], or may be lifelong learning without formal certification. Vocational education beyond secondary school is known as further education in the [[United Kingdom]] and as continuing education in the [[United States]]. [[UNESCO]] describes tertiary education as focused on learning in specialized fields, including academic and higher vocational education.
+
+=== KEY: Tertullian_431922
+HEADWORD: Tertullian
+PERSON: yes
+LINK TARGETS: Berbers | Carthage | Catholic Church | Gnosticism | Trinity
+ENTRY:
+Early Christian author and theologian from [[Carthage]], in the Roman province of Africa. He was the first Christian author to produce an extensive corpus of Latin Christian literature and is called the "father of Latin Christianity". He was the first Latin writer known to use the term [[Trinity|trinity]], and he wrote against heresies including [[Gnosticism]]. Some of his teachings, such as the subordination of the Son and Spirit to the Father and his condemnation of remarriage for widows, were rejected by the [[Catholic Church]]. Later he was attracted to the New Prophecy of Montanism, though most scholars reject the claim that he was excommunicated. Some sources describe him as [[Berbers|Berber]], while the linguist René Braun suggested Punic origin.
+
+=== KEY: Tesla_Inc_5714d9
+HEADWORD: Tesla, Inc.
+PERSON: no
+LINK TARGETS: Austin, Texas | Elon Musk | Nikola Tesla
+ENTRY:
+American multinational automotive and clean energy company headquartered in [[Austin, Texas]]. It designs, manufactures and sells battery electric vehicles, stationary battery storage and solar products. Incorporated in July 2003 as Tesla Motors by Martin Eberhard and Marc Tarpenning, the company takes its name from [[Nikola Tesla]]. [[Elon Musk]] led its first funding round in 2004 and was named chief executive officer in 2008. Its models include the Model S, Model X, Model 3, Model Y, Cybertruck and Semi. Since July 2020 it has been the world's most valuable automaker, and in 2024 it led the battery electric vehicle market with a 17.6% share.
+
+=== KEY: Tesla_unit_dd5c3a
+HEADWORD: Tesla
+PERSON: no
+LINK TARGETS: Coulomb | Magnetic resonance imaging | Newton (unit) | Nikola Tesla
+ENTRY:
+SI unit of magnetic flux density, equal to one weber per square meter. Named in honor of [[Nikola Tesla]], it was announced at the 1960 General Conference on Weights and Measures and has the symbol T. A particle carrying one [[Coulomb|coulomb]] and moving at one meter per second perpendicular to a field of one tesla experiences a force of one [[Newton (unit)|newton]], according to the Lorentz force law. One tesla corresponds to 10⁴ G. Earth's surface field is 25000–65000 nT, and a typical refrigerator magnet produces about 5 mT. [[Magnetic resonance imaging]] systems operate at 1.5 to 3 T, and the strongest field produced by a non-destructive magnet reaches 97.4 T.
+
+=== KEY: Tessellation_cdf92e
+HEADWORD: Tessellation
+PERSON: no
+LINK TARGETS: Alhambra | Hexagon | Johannes Kepler | M. C. Escher | Polygon | Square | Triangle
+ENTRY:
+Covering of a surface, usually a plane, by one or more geometric shapes called tiles, with no overlaps or gaps. Periodic tilings have a repeating pattern and can be classified into 17 wallpaper groups, while a tiling without a repeating pattern is called non-periodic. Only the [[Triangle|equilateral triangle]], [[Square|square]] and [[Hexagon|regular hexagon]] form regular tessellations of identical regular tiles. Sumerians used tessellated clay tiles for wall decorations by about 4000 BC, and tessellations appear in Roman mosaics and in Islamic art such as the [[Alhambra]]. In 1619 [[Johannes Kepler]] made an early documented study of regular and semiregular tessellations. In the 20th century [[M. C. Escher]] used them for artistic effect, and in computer graphics tessellation subdivides [[Polygon|polygon]] meshes into finer triangles to add geometric detail.
+
+=== KEY: Tesseract_f068c0
+HEADWORD: Tesseract
+PERSON: no
+LINK TARGETS: Cube | Salvador Dalí
+ENTRY:
+Four-dimensional analog of the [[Cube|cube]]. It is bounded by eight cubes, twenty-four squares, thirty-two edges and sixteen vertices, and is one of the six convex regular 4-polytopes. The term hypercube is often used as a synonym for this figure. Charles Howard Hinton introduced the word in his 1888 book *A New Era of Thought*, from Greek roots meaning four and ray. The tesseract has 261 distinct nets, and one unfolding, the Dali cross, appears in [[Salvador Dalí]]'s 1954 painting *Corpus Hypercubus*.
+
+=== KEY: Testicle_106793
+HEADWORD: Testicle
+PERSON: no
+LINK TARGETS: Ovary | Pituitary gland | Scrotum | Sperm | Testosterone
+ENTRY:
+Male gonad in gonochoric animals, including humans, homologous to the [[Ovary|ovary]]. Its primary functions are producing [[Sperm|sperm]] and secreting androgens, mainly [[Testosterone|testosterone]]. Sperm production is controlled by follicle-stimulating hormone (FSH) from the anterior [[Pituitary gland|pituitary gland]] and by testosterone produced within the gonads. Human males have two testicles of similar size within the [[Scrotum|scrotum]], and for 85% of men the right one hangs lower than the left. The testes are covered by a tough fibrous shell, the tunica albuginea, and contain seminiferous tubules where germ cells develop into sperm. Leydig cells between the tubules produce testosterone, while Sertoli cells support sperm development and secrete inhibin. An average adult testicle measures up to 5 cm × 2 cm × 3 cm, and normal volume is 15 to 25 cm³.
+
+=== KEY: Testosterone_33d748
+HEADWORD: Testosterone
+PERSON: no
+LINK TARGETS: Cholesterol | Ovary | Prostate | Steroid | Testicle
+ENTRY:
+Primary male sex hormone and androgen, a [[Steroid|steroid]] derived from [[Cholesterol|cholesterol]]. It drives development of male reproductive tissues such as the [[Testicle|testicles]] and [[Prostate|prostate]], and promotes secondary sexual characteristics such as increased muscle and bone mass and body hair. In both sexes it influences mood, cognition, metabolism and the prevention of osteoporosis. It is produced mainly by the testicles in males and, to a lesser extent, by the [[Ovary|ovaries]] in females, and adult males have about seven to eight times as much as adult females. It is used as a medication to treat hypogonadism and breast cancer, and older men are sometimes given it to counteract declining levels. It is also used illicitly to enhance physique and performance, and the World Anti-Doping Agency lists it as "prohibited at all times".
+
+=== KEY: Tet_Offensive_53ee4e
+HEADWORD: Tet Offensive
+PERSON: no
+LINK TARGETS: Lyndon B. Johnson | Richard Nixon | Viet Cong | Vietnam War
+ENTRY:
+Major North Vietnamese and [[Viet Cong]] offensive in the [[Vietnam War]], launched on January 30–31, 1968, against South Vietnamese, U.S., and allied forces. Its 77,000 troops struck more than 100 towns and cities, including Saigon. The offensive was a military defeat for North Vietnam, and no popular uprising followed. American public support for the war declined, and the [[Lyndon B. Johnson|Johnson]] administration sought negotiations. Shortly before the 1968 presidential election, [[Richard Nixon]] discouraged the South Vietnamese president from cooperating in the talks.
+
+=== KEY: Tetanus_a2af29
+HEADWORD: Tetanus
+PERSON: no
+LINK TARGETS: Vaccination
+ENTRY:
+Bacterial infection, also called lockjaw, caused by *Clostridium tetani* and characterized by muscle spasms. The spasms usually begin in the jaw and then spread through the body, lasting a few minutes each and recurring for three to four weeks; some are severe enough to fracture bones. Symptoms typically begin 3 to 21 days after infection, and recovery may take months. About 10% of cases prove fatal. The bacteria usually enter through a break in the skin and produce toxins that interfere with normal muscle contractions. The disease does not spread between people and can be prevented by [[Vaccination|vaccination]]. Globally there were about 59,000 deaths in 2015, down from 356,000 in 1990.
+
+=== KEY: Tethys_Ocean_14415c
+HEADWORD: Tethys Ocean
+PERSON: no
+LINK TARGETS: Cenozoic | Gondwana | Indian Ocean | Mediterranean Sea | Mesozoic | Ocean
+ENTRY:
+Prehistoric [[Ocean|ocean]] that existed through much of the [[Mesozoic]] Era and the early-to-mid [[Cenozoic]] Era, lying between the continents of [[Gondwana]] and Laurasia. It was the predecessor of the modern [[Indian Ocean]] and the [[Mediterranean Sea]], and of the Eurasian inland basins now represented by the Black and Caspian seas. Collisions of the Indian, African, Australian, and Arabian plates with Eurasia in the early-mid Cenozoic raised the Alps, Himalayas, Zagros, and Caucasus mountains, and fragmented the ocean.
+
+=== KEY: Tetraethyllead_b5be65
+HEADWORD: Tetraethyllead
+PERSON: no
+LINK TARGETS: Gasoline | General Motors | Octane rating
+ENTRY:
+Organolead compound, abbreviated TEL, widely used as an antiknock additive in [[Gasoline|gasoline]] for much of the 20th century. American chemical engineer Thomas Midgley Jr. of [[General Motors]] discovered its effectiveness as a knock inhibitor on December 9, 1921. Leaded gasoline raised [[Octane rating|octane ratings]], allowing higher engine compression and better fuel economy. By the mid-20th century scientists agreed that TEL contributed to lead poisoning and was highly neurotoxic, especially in children. Most countries had banned it from gasoline by the early 2000s, and in July 2021 leaded gasoline for cars was completely phased out worldwide. It remains in some aviation fuels.
+
+=== KEY: Tetrahedral_molecular_geometry_70384d
+HEADWORD: Tetrahedral molecular geometry
+PERSON: no
+LINK TARGETS: Atom | Methane | Tetrahedron
+ENTRY:
+Molecular shape in which a central [[Atom|atom]] has four substituents at the corners of a [[Tetrahedron|tetrahedron]]. For a symmetric case such as [[Methane]] (CH₄), the bond angle is arccos(−1/3) = 109.4712206...° ≈ 109.5°. Methane and other perfectly symmetrical tetrahedral molecules belong to point group Td, but most tetrahedral molecules have lower symmetry, and some are chiral. Virtually all saturated organic compounds are tetrahedral, as are most compounds of silicon, germanium, and tin.
+
+=== KEY: Tetrahedron_e029cf
+HEADWORD: Tetrahedron
+PERSON: no
+LINK TARGETS: Polyhedron
+ENTRY:
+[[Polyhedron]] with four triangular faces, six straight edges, and four vertices, also called a triangular pyramid. It is the simplest ordinary convex polyhedron and the three-dimensional case of a Euclidean simplex. Any of its faces can be considered the base. A regular tetrahedron has four equilateral triangular faces and is the simplest deltahedron. Every tetrahedron has a circumsphere through its four vertices and an insphere tangent to its faces. Like all convex polyhedra, it can be folded from a single sheet of paper.
+
+=== KEY: Tetraodontidae_da1fac
+HEADWORD: Tetraodontidae
+PERSON: no
+LINK TARGETS: China | Japan | Korea
+ENTRY:
+Family of marine and freshwater fish, known as pufferfish, in the order Tetraodontiformes. The name comes from the Greek *tetra*, meaning four, and *odous*, meaning tooth, for its four beak-like teeth. Pufferfish inflate their bodies with water, a defense linked to their lack of ribs, a pelvis, and pelvic fins. The family contains 193 to 206 species in 27 or 28 genera, most diverse in the tropics. Most species live in marine or brackish water, but about 35 species in several tropical genera spend their entire lives in fresh water. The majority are toxic: the liver and sometimes the skin contain tetrodotoxin, which is highly poisonous to most animals. Even so, the flesh of some species is a delicacy in [[Japan]], [[Korea]], and [[China]], when prepared by specially trained chefs.
+
+=== KEY: Tetrapod_c46c93
+HEADWORD: Tetrapod
+PERSON: no
+LINK TARGETS: Amphibian | Devonian | Mammal | Snake | Vertebrate
+ENTRY:
+Any [[Vertebrate|vertebrate]] of the clade Tetrapoda, comprising four-limbed animals and their descendants. The defining trait is four limbs attached to shoulder and pelvic girdles, although the group includes animals that lost their limbs, such as [[Snake|snakes]]. Tetrapods include all extant and extinct [[Amphibian|amphibians]] and amniotes. Amniotes divide into sauropsids, including reptiles, dinosaurs, and birds, and synapsids, including [[Mammal|mammals]] and their extinct relatives. Tetrapods evolved from lobe-finned fish around 390 million years ago in the Middle [[Devonian]] period, and body fossils became common around 370–360 million years ago. Amniotes include the only animals apart from insects to evolve powered flight: pterosaurs, birds, and bats.
+
+=== KEY: Tetris_c34082
+HEADWORD: Tetris
+PERSON: no
+LINK TARGETS: Game Boy | Moscow | Nintendo | Nintendo Entertainment System
+ENTRY:
+Puzzle video game of falling pieces made of four connected blocks, called tetrominoes. Completed horizontal lines disappear, and the aim is to score as many points as possible before the stack reaches the top. Soviet software engineer Alexey Pajitnov created it in the mid-1980s while working at a computing center in [[Moscow]]. Robert Stein secured commercial rights, and Mirrorsoft and Spectrum HoloByte released the game in 1988. Henk Rogers negotiated a license with [[Nintendo]] for the [[Game Boy]] and [[Nintendo Entertainment System]], both released in 1989. The Game Boy version, which helped popularize the game, is the best-selling version, with over 35 million sales. Tetris is the best-selling video game of all time, having sold 520 million copies as of 2022.
+
+=== KEY: Tettigoniidae_438bee
+HEADWORD: Tettigoniidae
+PERSON: no
+LINK TARGETS: Grasshopper | Insect
+ENTRY:
+Family of [[Insect|insects]], commonly called katydids or bush crickets. Part of the suborder Ensifera, it includes more than 8,000 known species, almost all of them in the tropics. Tettigoniids are found on every continent except Antarctica, and most are heard at night during summer and early fall. Many species are nocturnal, produce strident mating calls, and may mimic or camouflage themselves with leaflike shapes and colors. Tettigoniids range from 5 mm (1⁄4 in) to 130 mm (5 in) in length, and their filamentous antennae may exceed body length, which distinguishes them from [[Grasshopper|grasshoppers]]. Some nymphs mimic ants, spiders, or flowers until they are large enough to escape predation.
+
+=== KEY: Teutonic_Order_246418
+HEADWORD: Teutonic Order
+PERSON: no
+LINK TARGETS: Cumans | Hospital | Kingdom of Hungary | Kingdom of Jerusalem | Northern Crusades | Protestantism
+ENTRY:
+Catholic religious institution founded as a military society c. 1198 in Acre, in the [[Kingdom of Jerusalem]]. Formed to aid Christian pilgrims and establish [[Hospital|hospitals]] in the Holy Land, it also supported Catholic rule in the Holy Land and the [[Northern Crusades]]. In 1211 the order was invited to defend the [[Kingdom of Hungary]] against the [[Cumans]], but it was expelled in 1225. It then arrived in Prussia in 1230, pushed back the Prussian tribes, and created the independent State of the Teutonic Order, to which conquered territory was continuously added. Purely religious since 1810, it still confers limited honorary knighthoods, and a [[Protestantism|Protestant]] offshoot, the Bailiwick of Utrecht, also awards them.
+
+=== KEY: Tevatron_669eb0
+HEADWORD: Tevatron
+PERSON: no
+LINK TARGETS: CERN | Geneva | Higgs boson | Large Hadron Collider | Particle accelerator | Proton | Standard Model
+ENTRY:
+Defunct American [[Particle accelerator|particle accelerator]] at the Fermi National Accelerator Laboratory (Fermilab) near Batavia, Illinois, operated 1983–2011. A synchrotron, it accelerated [[Proton|protons]] and antiprotons in a 6.28 km (3.90 mi) ring to energies of up to 1 TeV, hence its name. Completed in 1983 at a cost of $120 million, it was the highest-energy collider until the [[Large Hadron Collider]] at [[CERN]] near [[Geneva]], Switzerland, was built. Its main achievement was the 1995 discovery of the top quark, the last fundamental fermion predicted by the [[Standard Model]]. In 2012, analysis of around 500 trillion collisions made the existence of the [[Higgs boson]] highly likely, at a confidence of 99.8%, later improved to over 99.9%. It ceased operations on September 30, 2011, because of budget cuts and the completion of the LHC.
+
+=== KEY: Tewodros_II_3afb88
+HEADWORD: Tewodros II
+PERSON: yes
+LINK TARGETS: Menelik II
+ENTRY:
+Ethiopian emperor (r. 1855–68). Baptized Kassa, he reunited the provinces that had fragmented during the *Zemene Mesafint*, or Era of the Princes, and is often regarded as the beginning of modern Ethiopia. He subdued Shewa and took its young prince, Sahle Maryam, into his household; the prince later became emperor as [[Menelik II]]. Tewodros established a professional standing army, salaried governors and judges, a library, tax codes, and a centralized administrative system. He sought to tax church lands, however, and his confiscation of them gained him enemies in the church and little support elsewhere. He committed suicide at the Battle of Magdala during the British Expedition to Abyssinia.
+
+=== KEY: Texas_86871c
+HEADWORD: Texas
+PERSON: no
+LINK TARGETS: American Civil War | Battle of the Alamo | Dallas–Fort Worth metroplex | Gulf of Mexico | Mexican–American War | Mexico | New Mexico | U.S. state
+ENTRY:
+South-central [[U.S. state|state]] of the United States, second-largest by area and population. It borders Louisiana, Arkansas, Oklahoma, and [[New Mexico]], shares the Rio Grande with [[Mexico]], and has a coastline on the [[Gulf of Mexico]]. Spain was the first European power to claim it, and it became part of Mexico after independence in 1821. Tensions with settlers led to the Texas Revolution, which included the [[Battle of the Alamo]], and to the independent Republic of Texas in 1836. Texas joined the United States in 1845 as the 28th state, helping to spark the [[Mexican–American War]]. It remained a slave state until the [[American Civil War]]. Its economy is highly diversified, with energy, agriculture, technology, manufacturing, and aerospace; the [[Dallas–Fort Worth metroplex]] and Houston are its largest metropolitan areas, and Austin is the capital.
+
+=== KEY: Texas_hold_em_af46f2
+HEADWORD: Texas hold 'em
+PERSON: no
+LINK TARGETS: Poker
+ENTRY:
+Popular variant of [[Poker|poker]] in which each player receives two hole cards and five community cards are dealt face up in three stages. Each player seeks the best five-card hand from any combination of the seven cards. Players may check, call, raise, or fold, and the best hand still in play wins the pot, which can be split on a tie. The Texas Legislature recognizes Robstown, Texas, as the birthplace of the game, dating it to the early 20th century. It was introduced to Las Vegas in 1963.
+
+=== KEY: Text_messaging_d95eea
+HEADWORD: Text messaging
+PERSON: no
+LINK TARGETS: E-commerce | Emoji | Mobile phone | SMS | WhatsApp
+ENTRY:
+Act of composing and sending short electronic messages, typically of alphanumeric characters, between users of [[Mobile phone|mobile phones]], computers, and other devices. The term originally referred to messages sent by [[SMS|Short Message Service]] (SMS). It now includes multimedia messages with images, video, and sound, [[Emoji|emoji]], and messages sent through instant messaging apps such as [[WhatsApp]]. Texting does not require sender and recipient to be available at the same moment, which makes it useful for busy people and for interacting with automated systems, such as ordering from [[E-commerce|e-commerce]] websites. Friedhelm Hillebrand conceptualized SMS in 1984 while working for Deutsche Telekom, and his experiments with typed sentences gave the basis for the 160-character limit. The first SMS was sent on December 3, 1992.
+
+=== KEY: Textile_922c88
+HEADWORD: Textile
+PERSON: no
+LINK TARGETS: Cotton | Industrial Revolution | Knitting | Polyester | Silk | Weaving | Wool
+ENTRY:
+Any of various fiber-based materials, including fibers, yarns, filaments, threads, and fabrics. The word comes from Latin *textilis* ('woven'). Textiles were originally woven, but other methods developed later, notably [[Knitting|knitting]] and non-woven processes such as felting. Fibers, which may be natural, synthetic, or both, are twisted or laid out into yarn, and yarns are made into fabric by [[Weaving|weaving]], knitting, crocheting, knotting, tatting, or braiding. Natural fibers include [[Cotton|cotton]], [[Wool|wool]], and [[Silk|silk]]; [[Polyester|polyester]] is synthetic. Consumer textiles, such as clothing and furnishings, prioritize aesthetics and comfort; technical textiles, such as geotextiles and medical textiles, prioritize function. Cotton or blend garments can last twenty years or more with regular use and care.
+
+Textiles rarely survive across millennia, so prehistoric evidence consists mostly of spinning and weaving tools. The earliest spinning tool was the spindle, to which a whorl was eventually added; the spinning wheel came later, though historians are unsure whether in China or India. The first clothes, probably animal skins, were worn at least 70,000 years ago. Dyed flax fibers found in a cave in the Republic of Georgia, dated to 34,000 BC, suggest that textile-like materials were made in the Paleolithic.
+
+The textile industry grew out of craft and was sustained by craft guilds. During the [[Industrial Revolution]] it became increasingly mechanized; with the spinning jenny, invented in the United Kingdom in 1765, textile production became the first economic activity to be industrialized. For plain weave, twill, and satin weave, ancient and modern methods differ little. Textile manufacture is the oldest industrial art.
+
+=== KEY: Textile_arts_f996bc
+HEADWORD: Textile arts
+PERSON: no
+LINK TARGETS: Art | Civilization | Industrial Revolution | International trade | Silk Road | Tyrian purple
+ENTRY:
+[[Art]] made from natural or synthetic fibers, fabric, or other textiles, also called fiber art. Techniques include felting, spinning, weaving, knitting, embroidery, lace-making, dyeing, and printing. Textiles may be wall-hung, sculptural, or functional, and they have been fundamental to human life since the beginning of [[Civilization]]. The history of textile arts is also the history of [[International trade|international trade]]: [[Tyrian purple]] dye was an important trade good in the ancient Mediterranean, and the [[Silk Road]] carried Chinese silk to India, Africa, and Europe. The [[Industrial Revolution]] was shaped largely by innovations such as the cotton gin, spinning jenny, and power loom. Today the term fiber art describes textile-based decorative objects not intended for practical use.
+
+=== KEY: Textile_manufacturing_31bba1
+HEADWORD: Textile manufacturing
+PERSON: no
+LINK TARGETS: Clothing | Cotton gin | Fiber | Yarn
+ENTRY:
+Industry that converts [[Fiber|fibers]] into [[Yarn|yarn]], yarn into fabric, and fabric into goods such as [[Clothing|clothing]], household items, upholstery, and industrial products. Textile manufacturing evolved from household work, which was mechanized in the 18th and 19th centuries. Cotton remains the most widely used natural fiber, making up 90% of all natural fibers used in the industry. Cotton grows best in long, hot, dry summers, and at the [[Cotton gin|cotton gin]] seeds and trash are removed from the fiber; only 33% of the crop is usable lint. Yarn is then spun, woven or knitted, dyed or printed, and finished. In 2007, the global cotton yield was 25 million tons.
+
+=== KEY: Th_r_se_of_Lisieux_d0963a
+HEADWORD: Thérèse of Lisieux
+PERSON: yes
+LINK TARGETS: Catholic Church | Normandy | Pope John Paul II | Saint | Tuberculosis
+ENTRY:
+French Discalced Carmelite nun and [[Saint|saint]], popularly known as the Little Flower of Jesus. She entered the cloistered Carmelite community in Lisieux, [[Normandy]], at age 15, and died of [[Tuberculosis|tuberculosis]] at 24. She is one of the most popular saints in the history of the [[Catholic Church]]. Her memoir, *The Story of a Soul*, explains her Little Way of holiness through ordinary duties performed with love. [[Pope John Paul II]] declared her a Doctor of the Church in 1997. The Basilica of Lisieux is the second most popular place of pilgrimage in France, after Lourdes.
+
+=== KEY: Thai_language_fbd31a
+HEADWORD: Thai language
+PERSON: no
+LINK TARGETS: Ayutthaya Kingdom | Orthography | Pali | Sanskrit | Thailand
+ENTRY:
+Tai language of the Kra–Dai family and sole official language of [[Thailand]]. Also called Central Thai, it is spoken by over 70 million people as of 2024 and is the most spoken of more than 60 languages in Thailand. Over half its vocabulary derives from or is borrowed from [[Pali]], [[Sanskrit]], Mon, and Old Khmer. Thai is tonal and analytic, with a complex [[Orthography|orthography]] and system of relational markers. Standard Thai, based on the dialect of the central Thai people, is the principal language of education and government and is written in the Thai script. [[Ayutthaya Kingdom|Ayutthaya]], the capital from 1351 to 1767, was bilingual in Thai and Khmer, a balance probably strengthened by Khmer captives relocated from Angkor Thom. Most minority groups are now bilingual, speaking Thai alongside their native languages.
+
+=== KEY: Thailand_103357
+HEADWORD: Thailand
+PERSON: no
+LINK TARGETS: Ayutthaya Kingdom | Bangkok | Cambodia | Chulalongkorn | Laos | Mainland Southeast Asia | Malaysia | Myanmar
+ENTRY:
+Constitutional monarchy (pop. nearly 66 million) in [[Mainland Southeast Asia]]; capital and largest city [[Bangkok]]. Officially the Kingdom of Thailand, it was known internationally as Siam until 1939. It covers approximately 513,115 sq km and borders [[Myanmar]], [[Laos]], [[Cambodia]], and [[Malaysia]], with coasts on the Gulf of Thailand and the Andaman Sea. King Vajiralongkorn is head of state, and the country is a unitary state with a parliamentary system.
+
+Humans have inhabited the area for at least 40,000 years. Of the classical kingdoms, the [[Ayutthaya Kingdom]], founded in 1350, replaced the Khmer Empire as a regional power and was destroyed by Burmese forces in 1767. King Taksin reunified the country, and Rama I, founder of the Chakri dynasty, moved the capital to Bangkok in 1782. Siam was the only Southeast Asian country to avoid European colonization, though it ceded territory, trade rights, and legal privileges through unequal treaties. Absolute monarchy was centralized under King [[Chulalongkorn]]. A revolution in 1932 established a parliamentary constitutional monarchy, and the country was renamed Thailand.
+
+Thailand allied with Japan in World War II and became a major non-NATO ally of the United States during the Cold War. It alternated between liberal democracy and military dictatorship from the 1970s through the 1990s. Conflict between supporters and opponents of Prime Minister Thaksin Shinawatra led to coups in 2006 and 2014; protesters have demanded democracy and monarchy reform, and the armed forces retain de facto political influence. A member of ASEAN and the UN, Thailand has a newly industrialized economy relying chiefly on manufacturing, agriculture, and tourism.
+
+=== KEY: Thales_of_Miletus_a8aad5
+HEADWORD: Thales of Miletus
+PERSON: yes
+LINK TARGETS: Ancient Greece | Lydia | Solar eclipse
+ENTRY:
+Pre-Socratic Greek philosopher from Miletus in Ionia, one of the Seven Sages of [[Ancient Greece]]. Many regard him as the first philosopher in the Greek tradition, explaining nature through natural philosophy rather than mythology. He held that all of nature rests on a single substance, water, and that the Earth floated on water. A theorem in geometry bears his name. He was said to have calculated the heights of pyramids and the distances of ships from shore. Herodotus reports that he predicted a [[Solar eclipse|solar eclipse]] in 585 BC. He was also an engineer who enabled the [[Lydia|Lydian]] army to cross the Halys River.
+
+=== KEY: Thallium_8cbe0e
+HEADWORD: Thallium
+PERSON: no
+LINK TARGETS: Alkali metal | Chemical element | Infrared
+ENTRY:
+Silvery-white post-transition metal, a [[Chemical element|chemical element]] with symbol Tl and atomic number 81. Thallium is not found free in nature. When isolated, it resembles tin but tarnishes in air. William Crookes and Claude-Auguste Lamy discovered it independently in 1861 by flame spectroscopy, in which thallium produces a notable green spectral line; the name comes from the Greek *thallos*, meaning green shoot. It forms +3 and +1 oxidation states, and the +1 state recalls the chemistry of [[Alkali metal|alkali metals]]. About 65% of production goes to electronics, with the rest used in pharmaceuticals and glassmaking, and it is also used in [[Infrared|infrared]] detectors. Soluble thallium salts are highly toxic and were historically used in rat poisons and insecticides, so thallium gained notoriety as the poisoner's poison.
+
+=== KEY: Thanksgiving_75c8b6
+HEADWORD: Thanksgiving
+PERSON: no
+LINK TARGETS: Abraham Lincoln | Canada | Liberia | Reformation | Saint Lucia | United States
+ENTRY:
+National holiday of thanks for the harvest and the preceding year, celebrated on various dates in October and November in the [[United States]], [[Canada]], [[Saint Lucia]], and [[Liberia]]. Its roots lie in English traditions dating from the Protestant [[Reformation]], when Puritans sought to replace Church holidays with special Days of Thanksgiving and Fasting. In the United States, [[Abraham Lincoln]] proclaimed a national day of thanksgiving on October 3, 1863, and Congress fixed the holiday on the fourth Thursday of November in 1941.
+
+=== KEY: The_120_Days_of_Sodom_f09058
+HEADWORD: The 120 Days of Sodom
+PERSON: no
+LINK TARGETS: Black Forest | Louis XIV | Marquis de Sade | Storming of the Bastille
+ENTRY:
+Unfinished 1785 erotic novel by the [[Marquis de Sade]], set near the end of the reign of [[Louis XIV]]. Four wealthy libertines seal themselves in a castle in the [[Black Forest]] with 20 designated victims, and escalating violence leads to torture and murder. Sade believed the manuscript lost when the [[Storming of the Bastille]] took place in 1789. It survives only in draft form and was first published in a restricted edition in 1904. The novel was banned as pornographic in France and English-speaking countries, and critical opinion remains divided.
+
+=== KEY: The_A_Team_967afd
+HEADWORD: The A-Team
+PERSON: no
+LINK TARGETS: Mr. T | NBC
+ENTRY:
+American action-adventure television series that aired on [[NBC]] from January 23, 1983, to March 8, 1987. Created by Stephen J. Cannell and Frank Lupo, *The A-Team* follows former U.S. Army Special Forces soldiers, falsely convicted of a crime, who escape military prison and become soldiers of fortune dedicated to helping those in need. The show is known for cartoonish violence, formulaic episodes, and improvised weaponry. It boosted the career of [[Mr. T]], who played B. A. Baracus. A feature film based on the series was released by 20th Century Fox in 2010.
+
+=== KEY: The_Act_of_Killing_8223b6
+HEADWORD: The Act of Killing
+PERSON: no
+LINK TARGETS: Documentary film | Medan
+ENTRY:
+2012 [[Documentary film|documentary]] directed by Joshua Oppenheimer, with Christine Cynn and an anonymous Indonesian co-director. It follows perpetrators of the Indonesian mass killings of 1965–66, who re-enact their murders in cinematic styles drawn from gangster films and westerns. Filmed mostly in [[Medan]], North Sumatra, it premiered at the Telluride Film Festival in 2012 and received widespread critical acclaim, including a British Academy Film Award. The Indonesian government has claimed that it is a misleading portrayal of the country's history. Its spiritual successor, *The Look of Silence* (2014), depicts a victim's family confronting the killers.
+
+=== KEY: The_Addams_Family_40be05
+HEADWORD: The Addams Family
+PERSON: no
+LINK TARGETS: Goth subculture
+ENTRY:
+Fictional family and franchise created by American cartoonist Charles Addams. Its eccentric, old-money clan first appeared in single-panel cartoons in *The New Yorker* in 1938. Adaptations include a live-action ABC television series from 1964, 1990s feature films, animated series, and a 2010 Broadway musical. Netflix's *Wednesday* (2022) centers on the family's daughter. The family has influenced American comics, cinema and television, as well as the [[Goth subculture]].
+
+=== KEY: The_Adventures_of_Tintin_7d6c13
+HEADWORD: The Adventures of Tintin
+PERSON: no
+LINK TARGETS: Hergé | Steven Spielberg
+ENTRY:
+Series of 24 comic albums by Belgian cartoonist [[Hergé]]. It debuted in 1929 in *Le Petit Vingtième*, a youth supplement to a Belgian newspaper, and follows Tintin, a young Belgian reporter and adventurer, and his dog Snowy. Their adventures mix fantasy, mystery, political thriller and science fiction, with slapstick humor and dashes of political or cultural commentary. Hergé drew the series in a precise, uniform outline style known as *ligne claire* ("clear line"). Early volumes, including *Tintin in the Congo*, have been criticized for colonial-era stereotypes, and Hergé revised some content in later editions. The series has been adapted for radio, television, theater and film, including [[Steven Spielberg]]'s 2011 motion-capture film.
+
+=== KEY: The_Alchemist_novel_0490ec
+HEADWORD: The Alchemist
+PERSON: no
+LINK TARGETS: Andalusia | Melchizedek
+ENTRY:
+Philosophical novel by Brazilian author Paulo Coelho, first published in 1988. It follows Santiago, an [[Andalusia|Andalusian]] shepherd boy who dreams of treasure at the Egyptian pyramids and travels across North Africa to find it. Along the way he meets [[Melchizedek]], the king of Salem, and an alchemist who teaches him to pursue his "Personal Legend." The plot builds on an international folktale about treasure found at home. Written in Portuguese, the novel became an international bestseller, with more than 150 million copies sold worldwide.
+
+=== KEY: The_Apu_Trilogy_7d176e
+HEADWORD: The Apu Trilogy
+PERSON: no
+LINK TARGETS: Cannes Film Festival | Jean Renoir | Ravi Shankar | Satyajit Ray
+ENTRY:
+Series of three Bengali-language films directed by [[Satyajit Ray]], released between 1955 and 1959: *Pather Panchali*, *Aparajito* and *The World of Apu*. Adapted from two novels by Bibhutibhushan Bandopadhyay, the films follow Apu, a young Bengali, from childhood to early maturity in the early 20th century. Made on a modest budget with an amateur cast, the trilogy won three National Film Awards and honors at the [[Cannes Film Festival|Cannes]], Berlin and Venice film festivals. Its score was composed by [[Ravi Shankar]]. Ray decided to go ahead with the first film after meeting [[Jean Renoir]] and watching the Italian neorealist film *Bicycle Thieves* (1948) in London. The trilogy is widely regarded as a cornerstone of Indian and world cinema.
+
+=== KEY: The_Art_of_War_547325
+HEADWORD: The Art of War
+PERSON: no
+LINK TARGETS: Douglas MacArthur | Mao Zedong | Sun Tzu | Võ Nguyên Giáp
+ENTRY:
+Ancient Chinese military treatise of 13 chapters, traditionally attributed to the general [[Sun Tzu]]. Its authorship is disputed, and its earliest parts probably date to at least a century after Sun Tzu is said to have lived. The treatise covers weapons, terrain, financial logistics, morale, rank and discipline. It portrays war as a costly, destructive last resort and stresses diplomacy, economic principles, and the value of intelligence operatives and espionage. The first European-language translation appeared in 1772, and the first annotated English translation in 1910. Leaders who have cited it include Chinese communist revolutionary [[Mao Zedong]], Vietnamese general [[Võ Nguyên Giáp]] and American general [[Douglas MacArthur]]. For almost 1,500 years it was the lead text in the anthology later formalized as the Seven Military Classics.
+
+=== KEY: The_Bacchae_1892c7
+HEADWORD: The Bacchae
+PERSON: no
+LINK TARGETS: Ancient Greek | Dionysus | Euripides | Tragedy
+ENTRY:
+[[Ancient Greek]] [[Tragedy|tragedy]] by [[Euripides]], written during the playwright's final years at the court of Archelaus I of Macedon. It premiered posthumously in 405 BC at the Theatre of Dionysus in Athens, where it won first prize at the City Dionysia. The play tells how the god [[Dionysus]] takes revenge on Thebes after its king, Pentheus, rejects his cult. Dionysus drives the women of the city into ecstatic frenzy, and Pentheus, lured to the mountains, is torn apart by them, including his own mother, Agave. Regarded as Euripides' masterpiece, it is distinctive for integrating the chorus into the plot and for making the god a central character.
+
+=== KEY: The_Bahamas_6e929f
+HEADWORD: The Bahamas
+PERSON: no
+LINK TARGETS: Christopher Columbus | Cuba | Florida | Hispaniola | Kingdom of Great Britain | Piracy | Taíno | Tourism
+ENTRY:
+Archipelagic country of more than 700 islands in the Atlantic Ocean, southeast of [[Florida]] and north of [[Cuba]], considered part of the wider Caribbean region. Its capital and largest city is Nassau, on New Providence Island. The islands were inhabited by the Lucayans, a branch of the [[Taíno]], until [[Christopher Columbus]] made the first European landfall in the New World in 1492. Spain shipped the Lucayans to [[Hispaniola]] and enslaved them, leaving the islands mostly deserted from 1513 until 1648. The Bahamas became a crown colony of the [[Kingdom of Great Britain]] in 1718, when the British clamped down on [[Piracy]]. Slavery was abolished in 1834, and African slaves and their descendants became the majority. The Bahamas became independent from the United Kingdom in 1973, keeping King Charles III as monarch. Its economy depends on [[Tourism]] and offshore finance.
+
+=== KEY: The_Beach_Boys_bedab9
+HEADWORD: The Beach Boys
+PERSON: no
+LINK TARGETS: Brian Wilson | Lung cancer | Rock and Roll Hall of Fame | Southern California | Surfing
+ENTRY:
+American rock band formed in Hawthorne, California, in 1961 by brothers [[Brian Wilson]], Dennis and Carl Wilson, their cousin Mike Love and Al Jardine. Known for vocal harmonies and songs about [[Surfing|surfing]] and youth culture in [[Southern California]], the group had 16 consecutive U.S. top 40 hit singles in a five-year streak. Under Brian Wilson's leadership it moved toward orchestral, studio-focused pop, producing the 1966 album *Pet Sounds* and the single "Good Vibrations," which are widely regarded as among the most influential works in popular music history. Dennis Wilson drowned in 1983, and Carl Wilson died of [[Lung cancer]] in 1998. The founding members were inducted into the [[Rock and Roll Hall of Fame]] in 1988. The band has sold more than 100 million records worldwide.
+
+=== KEY: The_Beatles_album_4136b2
+HEADWORD: The Beatles
+PERSON: no
+LINK TARGETS: Ringo Starr | The Beatles | Yoko Ono
+ENTRY:
+Ninth studio album and only double album by the English rock band [[The Beatles]], released in November 1968. Commonly called *The White Album* for its plain white sleeve, it has a fragmentary style and draws on folk, country rock, blues, ska and hard rock. 19 of its 30 songs were written in India in 1968, and the recording sessions were marked by tension, including the presence of [[Yoko Ono]] and the temporary departure of [[Ringo Starr]]. It topped the charts in Britain and the United States and has been certified 24× platinum by the Recording Industry Association of America.
+
+=== KEY: The_Beatles_c9e770
+HEADWORD: Beatles, The
+PERSON: no
+LINK TARGETS: Brian Epstein | George Harrison | Grammy Awards | John Lennon | Liverpool | Paul McCartney | Ringo Starr | Rock and Roll Hall of Fame
+ENTRY:
+English rock band formed in [[Liverpool]] in 1960, comprising [[John Lennon]], [[Paul McCartney]], [[George Harrison]], and [[Ringo Starr]]. Rooted in skiffle, beat, and 1950s rock 'n' roll, their sound incorporated classical music and traditional pop and later ranged from folk and Indian music to psychedelia and hard rock.
+
+The band evolved from Lennon's earlier group, the Quarrymen, and built its reputation playing clubs in Liverpool and Hamburg. Lennon, McCartney, and Harrison, together since 1958, went through a succession of drummers before Starr joined in 1962. Manager [[Brian Epstein]] shaped them into a professional act, and producer George Martin developed their recordings. After signing with EMI, they had their first hit, "Love Me Do", in late 1962. "Beatlemania" followed, and by early 1964 they were international stars leading the British Invasion of the U.S. pop market.
+
+They retired from live performance in 1966 to refine their studio work. Their later albums include *Rubber Soul* (1965), *Revolver* (1966), *Sgt. Pepper's Lonely Hearts Club Band* (1967), *The Beatles* ("the White Album", 1968), and *Abbey Road* (1969). In 1968 they founded Apple Corps, which oversees projects related to their legacy. After the break-up in 1970, all four enjoyed solo success; Lennon was murdered in 1980 and Harrison died of lung cancer in 2001.
+
+The Beatles are the best-selling music act of all time, with estimated sales of over 600 million units worldwide, and hold the records for most number-one singles (20) and albums (19) on the U.S. Billboard charts. Their accolades include nine [[Grammy Awards]], and they entered the [[Rock and Roll Hall of Fame]] in 1988, their first year of eligibility.
+
+=== KEY: The_Bell_Jar_23668f
+HEADWORD: The Bell Jar
+PERSON: no
+LINK TARGETS: Boston | New York City | Suicide | Sylvia Plath
+ENTRY:
+Only novel by American writer and poet [[Sylvia Plath]], first published in London in 1963 under the pseudonym Victoria Lucas. Semi-autobiographical, it follows Esther Greenwood, a student from the [[Boston]] suburbs whose summer internship at a [[New York City]] magazine is followed by a mental breakdown. Plath died by [[Suicide]] a month after the novel's first British publication. It was published under her name in 1966, and it was not published in the United States until 1971, in line with the wishes of her husband Ted Hughes and her mother. It has been translated into more than 40 languages.
+
+=== KEY: The_Big_Bang_Theory_369a26
+HEADWORD: The Big Bang Theory
+PERSON: no
+LINK TARGETS: CBS | Chuck Lorre | Quantum mechanics | Sitcom | String theory
+ENTRY:
+American [[Sitcom|sitcom]] created by [[Chuck Lorre]] and Bill Prady for [[CBS]], broadcast from 2007 to 2019 for 12 seasons and 279 episodes. Filmed before a live audience, it centers on Leonard Hofstadter, an experimental physicist, and his roommate Sheldon Cooper, a theoretical physicist who researches [[Quantum mechanics]] and [[String theory]] at the California Institute of Technology. Their neighbor Penny is a waitress and aspiring actress. Jim Parsons won four Emmy Awards for playing Sheldon. The show spawned the prequel *Young Sheldon* (2017–2024) and other spin-offs.
+
+=== KEY: The_Big_Lebowski_584853
+HEADWORD: The Big Lebowski
+PERSON: no
+LINK TARGETS: Coen brothers | Jeff Bridges | Library of Congress | Raymond Chandler
+ENTRY:
+1998 crime comedy film written and directed by the [[Coen brothers]], starring [[Jeff Bridges]] as Jeffrey Lebowski, known as The Dude, a Los Angeles slacker who is mistaken for a millionaire with the same name and drawn into a kidnapping scheme. Loosely inspired by [[Raymond Chandler]], the neo-noir film received mixed reviews on its release. Its eccentric characters, comedic dream sequences and eclectic soundtrack later earned it a cult following. In 2014 it was selected for preservation in the National Film Registry by the [[Library of Congress]].

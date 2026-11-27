@@ -1,0 +1,737 @@
+=== KEY: Special_effect_39dd24
+HEADWORD: Special effect
+PERSON: no
+LINK TARGETS: Amusement park | Film | Georges Méliès | Mary, Queen of Scots | Scale model | Television | Theatre | Video game
+ENTRY:
+Illusions or visual tricks used in the [[Theatre|theater]], [[Film|film]], [[Television]], [[Video game|video game]], [[Amusement park|amusement park]] and simulator industries to simulate fictional events. Special effects are traditionally divided into mechanical effects, also called practical effects, and optical effects, also called photographic effects. Mechanical effects, such as animatronics, pyrotechnics and [[Scale model|scale models]], are usually accomplished during live-action shooting. Optical effects use multiple exposure, mattes or an optical printer. In 1895 Alfred Clark created what is commonly accepted as the first motion picture special effect, replacing an actor with a dummy during a re-enactment of the beheading of [[Mary, Queen of Scots]]. [[Georges Méliès]] later made more than 500 short films between 1896 and 1914, developing techniques such as multiple exposures, time-lapse photography and dissolves. Since the 1990s, computer-generated imagery (CGI) has come to the forefront, and many optical and mechanical techniques have been superseded by CGI.
+
+=== KEY: Special_relativity_408a01
+HEADWORD: Special relativity
+PERSON: no
+LINK TARGETS: Albert Einstein | Galileo Galilei | General relativity | Mass–energy equivalence | Speed of light | Time dilation
+ENTRY:
+Scientific theory of the relationship between space and time, presented by [[Albert Einstein]] in his 1905 paper "On the Electrodynamics of Moving Bodies." It rests on two postulates: that the laws of physics are identical in all inertial frames of reference, a principle first formulated by [[Galileo Galilei]], and that the [[Speed of light|speed of light]] in vacuum is the same for all observers, regardless of the motion of the light source or observer. It replaces the idea of a single time flowing equally everywhere with the concept that time flows differently for each independent object. Consequences include [[Time dilation|time dilation]], length contraction and the relativity of simultaneity. Combined with other laws of physics, it predicts the [[Mass–energy equivalence|equivalence of mass and energy]], expressed as E = mc², where c is the speed of light in vacuum. The theory was extended to include gravity in 1916, in [[General relativity|general relativity]].
+
+=== KEY: Species_e1520b
+HEADWORD: Species
+PERSON: no
+LINK TARGETS: Aristotle | Biodiversity | Charles Darwin | Genus | Hybrid (biology) | Natural selection | Taxonomic rank
+ENTRY:
+Basic unit of biological classification, a [[Taxonomic rank|taxonomic rank]], and a unit of [[Biodiversity|biodiversity]]. The best-known definition, the biological species concept, describes a species as the largest group of organisms whose appropriate sexes or mating types can produce fertile offspring, usually by sexual reproduction. Ernst Mayr formalized it in 1942, emphasizing reproductive isolation. Every species receives a two-part binomial name: the [[Genus|genus]] followed by the specific epithet, as in *Boa constrictor*. The most recent rigorous estimate of the number of eukaryote species is 8 to 8.7 million, of which about 14% had been described by 2011.
+
+No definition is fully satisfactory. Species concepts also rest on karyotype, DNA sequence, morphology, behavior, or ecological niche; scholars have counted between about 24 and 26 distinct concepts. The morphological concept is useful for fossils but can mislead through convergent evolution. The phylogenetic concept defines species as the smallest monophyletic groups, and the ecological concept, proposed by Leigh Van Valen in 1976, views a species as a lineage adapted to a particular niche. Boundaries blur through [[Hybrid (biology)|hybridization]] and ring species, and among asexual organisms each clonal lineage is potentially a microspecies. Viruses are treated as quasispecies. Despite this "species problem," the concept remains a useful tool for scientists and conservationists, and legal protections such as the Endangered Species Act depend on it.
+
+From [[Aristotle]] until the 18th century, species and higher taxa were seen as fixed categories in a hierarchy, the great chain of being. In the 19th century biologists recognized that species evolve. [[Charles Darwin]]'s 1859 book *On the Origin of Species* explained how they arise by [[Natural selection|natural selection]], and 20th-century genetics and population ecology extended that understanding.
+
+=== KEY: Specific_heat_capacity_ed4246
+HEADWORD: Specific heat capacity
+PERSON: no
+LINK TARGETS: Iron | Phase transition | Temperature | Water
+ENTRY:
+Heat that must be added to one unit of mass of a substance to raise its temperature by one unit. Its SI unit is joule per kelvin per kilogram (J⋅kg⁻¹⋅K⁻¹). The specific heat of [[Water|water]] is 4184 J⋅kg⁻¹⋅K⁻¹ at 20 °C, while that of [[Iron|iron]] is about 449 J⋅kg⁻¹⋅K⁻¹ and that of hydrogen gas is 14300 J⋅kg⁻¹⋅K⁻¹. It varies with [[Temperature|temperature]], and it is technically undefined during a [[Phase transition|phase transition]] such as melting or boiling.
+
+=== KEY: Spectacled_bear_2571f5
+HEADWORD: Spectacled bear
+PERSON: no
+LINK TARGETS: Andes | Arctodus | Pleistocene | South America
+ENTRY:
+Bear species native to the [[Andes]] of northern and western [[South America]], also called the Andean bear. It is the only living bear native to South America and the last surviving short-faced bear, subfamily Tremarctinae, whose relatives included [[Arctodus]] and Arctotherium, which became extinct at the end of the [[Pleistocene]] around 12,000 years ago. Its diet is mostly herbivorous, unlike that of other omnivorous bears. Its name refers to the light markings on its chest, neck and face, which may resemble spectacles. The IUCN lists it as vulnerable because of habitat loss.
+
+=== KEY: Spectrometer_8a587a
+HEADWORD: Spectrometer
+PERSON: no
+LINK TARGETS: Astronomy | Chemistry | Diffraction grating | Ion | Metal | Particle physics | Prism (optics)
+ENTRY:
+Scientific instrument used to separate and measure the spectral components of a physical phenomenon. In visible light, a spectrometer separates white light into narrow bands of color, called a spectrum, using a [[Prism (optics)|prism]] or a [[Diffraction grating|diffraction grating]]. A mass spectrometer measures the spectrum of the masses of atoms or molecules in a gas, identifying the amount and type of chemicals in a sample by their mass-to-charge ratio and the abundance of gas-phase [[Ion|ions]]. Spectrometers are used in [[Astronomy|astronomy]] to analyze the chemical composition of stars and planets, and in [[Chemistry|chemistry]] and [[Particle physics|particle physics]] to separate particles, atoms and molecules by their mass, momentum or energy. Optical emission spectrometers evaluate [[Metal|metals]] to determine their chemical composition with very high accuracy.
+
+=== KEY: Spectroscopy_27d6bf
+HEADWORD: Spectroscopy
+PERSON: no
+LINK TARGETS: Astronomy | Chemistry | Isaac Newton | James Clerk Maxwell | Materials science | Physics | Prism (optics) | Quantum mechanics
+ENTRY:
+Field of study that measures and interprets electromagnetic spectra as they interact with matter. It is a fundamental exploratory tool in [[Astronomy|astronomy]], [[Chemistry|chemistry]], [[Materials science|materials science]] and [[Physics|physics]], allowing the composition and structure of matter to be investigated from the atomic scale to astronomical distances. Spectroscopy began when [[Isaac Newton]] split light with a [[Prism (optics)|prism]], and [[James Clerk Maxwell]] later extended the field to the entire electromagnetic spectrum. Spectroscopic studies were central to the development of [[Quantum mechanics|quantum mechanics]], as early atomic models, including the Bohr model and the Schrödinger equation, reproduced the spectral lines of hydrogen. Current applications include biomedical spectroscopy in tissue analysis and medical imaging.
+
+=== KEY: Speech_04a839
+HEADWORD: Speech
+PERSON: no
+LINK TARGETS: Aphasia | Consonant | Diglossia | Language | Lev Vygotsky | Phonetics | Speech act | Vowel
+ENTRY:
+Use of the human voice as a medium for [[Language|language]]. Spoken language combines [[Vowel|vowel]] and [[Consonant|consonant]] sounds into units of meaning such as words. Speakers perform many intentional [[Speech act|speech acts]], including informing, declaring, asking, persuading, and directing, varying enunciation, intonation, loudness, and tempo to convey meaning. Speech also unintentionally reveals traits such as age, origin, and education. Some psychologists, such as [[Lev Vygotsky]], hold that silent inner speech helps organize cognition.
+
+Normal speech is pulmonic: pressure from the lungs sets the glottis in the larynx vibrating, and the vocal tract and mouth shape the sound into vowels and consonants. Production is an unconscious, multistep process in which the speaker selects words from the lexicon, organizes them through syntax, retrieves their phonetic properties, and articulates them. Articulatory [[Phonetics|phonetics]] classifies sounds by place and manner of articulation. Speech errors are common, especially in children, and are used to build models of language production and acquisition. Children's over-regularizing of the English past tense ("singed" for "sang") suggests that regular forms are acquired first. Errors in [[Aphasia|aphasia]] have helped map components of speech onto the brain, including Broca's area and Wernicke's area.
+
+Speech is studied by linguistics, cognitive science, communication studies, psychology, computer science, speech pathology, otolaryngology, and acoustics. It differs from written language in vocabulary, syntax, and phonetics, a situation called [[Diglossia|diglossia]].
+
+The evolutionary origin of speech is debated. Although animals communicate by vocalization, and trained apes such as Washoe and Kanzi can use simple sign language, no animal's vocalizations are articulated phonemically and syntactically. No monkey or ape uses its tongue for sound production. The vocal tract does not fossilize, and indirect fossil evidence of changes to it has proved inconclusive.
+
+=== KEY: Speech_act_4e7ff4
+HEADWORD: Speech act
+PERSON: no
+LINK TARGETS: Linguistics | Philosophy of language
+ENTRY:
+Utterance that not only presents information but also performs an action, as in the phrase "I resign," where saying the words enacts the resignation. The contemporary term goes back to J. L. Austin's work on performative utterances and his distinction among locutionary, illocutionary and perlocutionary acts. Acts commonly classed as speech acts include apologizing, promising, ordering, requesting, complaining, warning, inviting, refusing and congratulating. Kent Bach argued that almost any speech act is the performance of several acts at once, distinguished by the speaker's intention. The theory draws on Wittgenstein's view that meaning lies in use, and it is studied in [[Philosophy of language|philosophy of language]] and [[Linguistics|linguistics]].
+
+=== KEY: Speech_synthesis_6eea02
+HEADWORD: Speech synthesis
+PERSON: no
+LINK TARGETS: Bell Labs | Database | Operating system | Phoneme | Unix | Visual impairment
+ENTRY:
+Artificial production of human speech, carried out by a speech synthesizer in software or hardware. A text-to-speech (TTS) system converts ordinary text into speech in two stages: a front-end that turns symbols such as numbers and abbreviations into written-out words and assigns [[Phoneme|phonetic]] transcriptions, and a back-end that converts the result into sound. Synthesized speech may be made by concatenating recorded speech units stored in a [[Database|database]], or by modeling the vocal tract. The earliest [[Operating system|operating system]] to include a synthesizer was [[Unix]] in 1974, through its speak utility. Intelligible text-to-speech lets people with [[Visual impairment|visual impairments]] or reading disabilities hear written words. In the 1930s [[Bell Labs]] developed the vocoder, and in 1939 Homer Dudley's keyboard-operated Voder was exhibited at the New York World's Fair.
+
+=== KEY: Speed_44877c
+HEADWORD: Speed
+PERSON: no
+LINK TARGETS: Galileo Galilei | Knot (unit) | Metre | Special relativity | Speed of light | Velocity
+ENTRY:
+Magnitude of [[Velocity|velocity]], the rate at which the distance traveled by an object changes with time. Average speed is the total distance divided by the time interval, while instantaneous speed is the limit of average speed as the interval approaches zero. Speed has the dimensions of distance divided by time. Its SI unit is the [[Metre|meter]] per second (m/s), and the kilometer per hour, mile per hour and [[Knot (unit)|knot]] are also used. [[Galileo Galilei]] is usually credited with first measuring speed as the distance covered per unit of time. According to [[Special relativity|special relativity]], the fastest possible speed at which energy or information can travel is the [[Speed of light|speed of light]] in vacuum, c = 299,792,458 meters per second, and matter cannot reach it.
+
+=== KEY: Speed_of_light_0f6c66
+HEADWORD: Speed of light
+PERSON: no
+LINK TARGETS: Albert Einstein | Electromagnetic radiation | Gravitational wave | James Clerk Maxwell | Mass–energy equivalence | Metre | Refractive index | Special relativity
+ENTRY:
+Speed at which electromagnetic waves travel; in a vacuum, a universal physical constant denoted *c*, exactly 299,792,458 m/s. The value is exact because, by international agreement, the [[Metre|meter]] is defined as the distance light travels in a vacuum in 1/299,792,458 of a second. Before 1983 the meter was defined separately and the speed of light was measured experimentally.
+
+All [[Electromagnetic radiation|electromagnetic radiation]], massless particles, and field perturbations such as [[Gravitational wave|gravitational waves]] travel at *c* in a vacuum, and the speed is the same for all observers regardless of the motion of the source. It is the upper limit for the speed of information, matter, or energy. Particles with mass can approach *c* but never reach it. Light travels more slowly in materials. The ratio of *c* to its speed in a medium is the [[Refractive index|refractive index]], about 1.5 for glass, so light in glass travels at roughly 200,000 km/s. Apparent faster-than-light recession of distant galaxies arises from the expansion of the universe, since only local velocity is uniquely defined.
+
+Ole Rømer first showed that light is not instantaneous, by studying delays in the eclipses of Jupiter's moon Io. In an 1865 paper [[James Clerk Maxwell]] proposed that light is an electromagnetic wave traveling at *c*. [[Albert Einstein]] postulated that *c* is constant in every inertial frame and independent of the source's motion; from this he derived [[Special relativity|special relativity]], in which *c* links space and time and appears in the [[Mass–energy equivalence|mass–energy equivalence]], E = mc². The origin of the symbol *c* is unclear; it may stand for "constant" or for the Latin *celeritas* ("swiftness").
+
+=== KEY: Speed_of_sound_e2e4d9
+HEADWORD: Speed of sound
+PERSON: no
+LINK TARGETS: Diamond | Iron | Isaac Newton | Mach number | Pierre-Simon Laplace | Water
+ENTRY:
+Distance a sound wave travels per unit of time through an elastic medium. At 20 °C (68 °F) it is about 343 m/s in air, and it depends strongly on temperature and on the medium. Sound travels most slowly in gases, faster in liquids and fastest in solids: about 1481 m/s in fresh [[Water|water]] at 20 °C, 5120 m/s in [[Iron|iron]] and 12,000 m/s in [[Diamond|diamond]]. The ratio of an object's speed to the speed of sound in the same medium is its [[Mach number]], and objects faster than the speed of sound travel at supersonic speeds. [[Isaac Newton]]'s 1687 calculation of the speed of sound in air was too low by about 15%, a discrepancy that [[Pierre-Simon Laplace]] later explained by treating sound waves as adiabatic.
+
+=== KEY: Speed_skating_1fd317
+HEADWORD: Speed skating
+PERSON: no
+LINK TARGETS: Ice skating | Netherlands | Norway | Olympic Games | South Korea
+ENTRY:
+Competitive form of [[Ice skating|ice skating]] in which skaters race a set distance. The main types are long-track, short-track and marathon speed skating, and at the [[Olympic Games]] long-track is usually called simply speed skating. Long-track races take place on a 400 m ice track and short-track races on a 111 m track. An international federation was founded in 1892, the first for any winter sport. The sport is especially popular in the [[Netherlands]], [[Norway]] and [[South Korea]], and has top rinks in Canada, the United States, Germany, Italy, Japan, Russia, Kazakhstan, China, Belarus and Poland. A World Cup circuit includes events in those countries and two in the Thialf ice hall in Heerenveen, Netherlands.
+
+=== KEY: Spencer_Tracy_c149fe
+HEADWORD: Tracy, Spencer
+PERSON: yes
+LINK TARGETS: Academy Awards | Cannes Film Festival | Katharine Hepburn | Metro-Goldwyn-Mayer
+ENTRY:
+American actor known for his natural performing style. He was the first actor to win two consecutive [[Academy Awards]] for Best Actor, for *Captains Courageous* and *Boys Town*, from nine nominations. He appeared in 75 films and was one of [[Metro-Goldwyn-Mayer|MGM's]] top stars. His professional and personal partnership with [[Katharine Hepburn]] produced nine films over 25 years. He won the Best Actor prize at the [[Cannes Film Festival]] in 1955 for *Bad Day at Black Rock*. His last film, *Guess Who's Coming to Dinner*, was completed just 17 days before he died.
+
+=== KEY: Sperm_87f982
+HEADWORD: Sperm
+PERSON: no
+LINK TARGETS: Ejaculation | Flagellum | Flowering plant | Mammal | Pollen | Reptile | Semen
+ENTRY:
+Male reproductive cell, or gamete, in the anisogamous forms of sexual reproduction, in which the male cell is smaller than the female. Sperm contribute approximately half of the nuclear genetic information to the diploid offspring, excluding in most cases mitochondrial DNA. Animal sperm are motile, with a [[Flagellum|flagellum]] tail, and are called spermatozoa, while [[Flowering plant|flowering plants]] contain non-motile sperm inside [[Pollen|pollen]]. In amniotes such as [[Reptile|reptiles]] and [[Mammal|mammals]], sperm form through spermatogenesis in the seminiferous tubules of the testicles, a process that takes around 3 months. A human sperm cell is haploid, carrying 23 chromosomes that join the 23 of the egg to form a diploid cell with 46. In mammals, sperm is stored in the epididymis and released through the penis in [[Semen|semen]] during [[Ejaculation|ejaculation]]. The word sperm derives from the Greek *sperma*, meaning "seed."
+
+=== KEY: Sperm_whale_c6efc7
+HEADWORD: Sperm whale
+PERSON: no
+LINK TARGETS: Mammal | Perfume | Whaling
+ENTRY:
+Largest of the toothed whales and the largest toothed predator, the only living member of the genus *Physeter*. It is a pelagic [[Mammal|mammal]] with a worldwide range, and mature males average 16 meters (52 ft) in length. It dives to 2,250 meters (7,380 ft), the third deepest of any diving mammal, and its sounds can reach a source level of 236 decibels, the loudest of any animal. It has the largest brain on Earth, more than five times heavier than a human's. The head holds spermaceti, a waxy substance that gave the whale its name and was a prime target of the [[Whaling|whaling]] industry. Ambergris, a waxy waste product from the digestive system, is still highly valued as a fixative in [[Perfume|perfumes]]. Sperm whaling was a major industry in the 19th century, depicted in the novel *Moby-Dick*. The species is protected by the International Whaling Commission moratorium and is listed as vulnerable by the International Union for Conservation of Nature.
+
+=== KEY: Sphagnum_39ff75
+HEADWORD: Sphagnum
+PERSON: no
+LINK TARGETS: Bog | Calcium | Gametophyte | Hydrogen | Magnesium | Peat
+ENTRY:
+Genus of approximately 380 species of mosses, also known as bog moss or sphagnum moss. Its plants can hold 16 to 26 times their dry weight in water. As it spreads into drier conditions it forms larger [[Bog|bogs]], both raised and blanket, and the peat accumulations provide habitat for sedges, orchids and carnivorous plants. Phenolic compounds in its cell walls make the moss and the [[Peat|peat]] it forms resistant to decay. By taking up [[Calcium|calcium]] and [[Magnesium|magnesium]] ions and releasing [[Hydrogen|hydrogen]] ions, it acidifies its surroundings. Peat can accumulate to a depth of many meters. Like all land plants, it alternates between generations, and its [[Gametophyte|gametophyte]] generation is dominant and long-lived.
+
+=== KEY: Sphere_b7095f
+HEADWORD: Sphere
+PERSON: no
+LINK TARGETS: Astronomy | Circle | Geography | Mathematics | Three-dimensional space
+ENTRY:
+Surface of points all lying at the same distance from a fixed center point. In solid geometry, a sphere is the set of points in [[Three-dimensional space|three-dimensional space]] that are all the same distance, the radius, from a given point. It is the three-dimensional analogue of a [[Circle]]. Spheres are fundamental in [[Mathematics]], and they occur in nature and industry: soap bubbles take a spherical shape in equilibrium, and pressure vessels and most curved mirrors and lenses are based on spheres. The Earth is often approximated as a sphere in [[Geography]], and the celestial sphere is central to [[Astronomy]]. Spheres roll smoothly in any direction, so most sports balls, toys and ball bearings are spherical. Mathematicians distinguish the sphere, a two-dimensional closed surface, from the solid ball it encloses.
+
+=== KEY: Spherical_coordinate_system_222f15
+HEADWORD: Spherical coordinate system
+PERSON: no
+LINK TARGETS: Radian | Sphere
+ENTRY:
+System that locates a point in three-dimensional space by a distance and two angles. The coordinates are the radial distance r from a fixed origin, the polar angle θ between the radial line and a given polar axis, and the azimuthal angle φ, the rotation of the radial line around that axis. Once the radius is fixed, the three coordinates provide a coordinate system on a [[Sphere|sphere]]. Naming order and symbols differ among disciplines, and mathematics texts often swap the two angles. Mathematical systems normally measure angles in [[Radian|radians]] rather than degrees.
+
+=== KEY: Spherical_harmonics_be0844
+HEADWORD: Spherical harmonics
+PERSON: no
+LINK TARGETS: Cosmic microwave background | Electron configuration | Fourier series | Laplace's equation | Partial differential equation | Pierre-Simon Laplace | Sphere
+ENTRY:
+Special functions defined on the surface of a [[Sphere|sphere]]. They are often used in solving [[Partial differential equation|partial differential equations]] in many scientific fields. Because they form a complete orthogonal set, a function on a sphere can be written as a sum of them, much as a periodic function can be expanded in [[Fourier series]]. They originate from solutions to [[Laplace's equation]], and [[Pierre-Simon Laplace|Pierre Simon de Laplace]] first introduced them in 1782. Their applications include electromagnetic fields, [[Electron configuration|electron configurations]], gravitational fields, geoids and the [[Cosmic microwave background]]. In 3D computer graphics they model indirect lighting.
+
+=== KEY: Sphinx_dcdfb5
+HEADWORD: Sphinx
+PERSON: no
+LINK TARGETS: Giza | Great Sphinx of Giza | Oedipus | Pharaoh | Renaissance
+ENTRY:
+Mythical creature with a lion's body and a human head, found in Egyptian and Greek tradition. In Greek tradition the sphinx is a treacherous being with a woman's head, a lion's haunches and a bird's wings. She challenges travelers with a riddle and kills those who fail to answer, a version that appears in the myth and drama of [[Oedipus]]. In Egyptian mythology the sphinx is typically depicted as a man, usually representing a [[Pharaoh|pharaoh]]'s strength and ferocity, and it was not winged. Both traditions cast sphinxes as guardians, and statues often flank the entrances to temples. The most famous is the [[Great Sphinx of Giza]], on the [[Giza]] Plateau near the Great Pyramids. Egyptologists consider its head to bear the likeness of the pharaoh Khafre, dating it to between 2600 and 2500 BC. The sphinx enjoyed a major revival in European decorative art during the [[Renaissance]].
+
+=== KEY: Sphynx_cat_0a3988
+HEADWORD: Sphynx cat
+PERSON: no
+LINK TARGETS: Cat | Ontario | Selective breeding | Toronto
+ENTRY:
+Hairless breed of [[Cat|cat]], also known as the Canadian Sphynx. Hairlessness in cats is a naturally occurring genetic mutation, and breeders developed the Sphynx through [[Selective breeding|selective breeding]] starting in the 1960s. Its skin has the texture of chamois leather and may bear fine hairs or none. Because these cats lose body heat more readily than coated cats, they are warm to the touch and seek out warm places. The breed began in 1966 in [[Toronto]], [[Ontario]], when a hairless male kitten was born to a domestic shorthair. Sphynx cats have wedge-shaped heads, large eyes and ears.
+
+=== KEY: Spice_69ad80
+HEADWORD: Spice
+PERSON: no
+LINK TARGETS: Black pepper | Cinnamon | Clove | Herb | Humorism | Maluku Islands | Monsoon | Vasco da Gama
+ENTRY:
+Seed, fruit, root, bark, or other plant substance used primarily for flavoring or coloring food. Spices are distinguished from [[Herb|herbs]], the leaves, flowers, or stems of plants used for flavoring or garnish; both are seasonings. Spices are sometimes used in medicine, religious rituals, cosmetics, and perfume, and plant sweeteners such as sugar are not counted among them. A whole dried spice keeps longest, while a fresh spice such as ginger is usually more flavorful but costlier and shorter-lived. A 2019 review found that most claimed health benefits were not supported by clinical evidence, though it noted that polyphenols in spices may be beneficial. India contributes 75% of global spice production.
+
+Defining spice is difficult. The *Oxford English Dictionary* places spices in the tropics, but caraway shows that they can come from temperate climates, and *The Oxford Companion to Food* notes that ambergris, of animal origin, is often called a spice.
+
+Spices were used in small quantities, leaving few archaeological remains. A spice trade across the Indian subcontinent and the Middle East existed by 2000 BC, in [[Black pepper|black pepper]] and [[Cinnamon|cinnamon]]; [[Clove|cloves]] were used in Mesopotamia by 1700 BC. Discovery of the [[Monsoon|monsoon]] winds enabled sea trade to replace overland caravan routes. Spices appear in the Old Testament, and Pliny the Elder wrote about cloves. In medieval Europe they were among the most demanded and expensive goods, valued for balancing the "humors" under [[Humorism|humorism]] and for their association with "paradise." European demand helped drive exploration in the early modern period. [[Vasco da Gama]] reached India by sea in 1498, and European powers established outposts in spice-producing regions such as the [[Maluku Islands]].
+
+=== KEY: Spice_Girls_d994db
+HEADWORD: Spice Girls
+PERSON: no
+LINK TARGETS: 
+ENTRY:
+English girl group formed in 1994. Its members were Mel B, Melanie C, Emma Bunton, Geri Halliwell and Victoria Beckham, known as Scary, Sporty, Baby, Ginger and Posh Spice. With the slogan "girl power," the group targeted a young female audience and led the teen pop resurgence of the 1990s. Its debut album, *Spice* (1996), sold more than 23 million copies, and the 1998 Spiceworld Tour was the highest-grossing concert tour by a female group. The group entered a hiatus in 2000 and has since reunited for tours. It has sold more than 110 million records worldwide.
+
+=== KEY: Spider_Man_f8582d
+HEADWORD: Spider-Man
+PERSON: no
+LINK TARGETS: Marvel Comics | New York City | Queens | Stan Lee | Superhero
+ENTRY:
+Fictional [[Superhero|superhero]] in American comic books published by [[Marvel Comics]]. Created by writer-editor [[Stan Lee]] and artist Steve Ditko, Spider-Man first appeared in *Amazing Fantasy* #15 in August 1962, during the Silver Age of comic books. Peter Benjamin Parker, raised by his aunt and uncle in [[Queens]], [[New York City]], gains spider-like powers after being bitten by a radioactive spider. After his uncle is killed by a burglar he could have helped capture, he learns that "with great power comes great responsibility" and fights crime as Spider-Man. The character has appeared in comic books, television, films and video games. Live-action films have featured Tobey Maguire, Andrew Garfield and Tom Holland, and Marvel has published alternate versions, including Miles Morales, the teenage hero of *Ultimate Comics: Spider-Man*.
+
+=== KEY: Spider_b4d686
+HEADWORD: Spider
+PERSON: no
+LINK TARGETS: Arachnid | Arthropod | Insect | Silk | Tarantula | Venom
+ENTRY:
+Order of air-breathing [[Arthropod|arthropods]] with eight limbs and silk-producing spinnerets. Spiders (order *Araneae*) are the largest order of [[Arachnid|arachnids]] and are found worldwide on every continent except Antarctica. As of January 2026, 53,680 spider species in 139 families had been recorded. Unlike [[Insect|insects]], spiders have no antennae, and their fanged chelicerae generally inject [[Venom|venom]]. Spider [[Silk|silk]] combines lightness, strength and elasticity superior to synthetic materials. Nearly all species are predators, mostly of insects and other spiders. Females of many species care for their young, and most spiders live for at most two years, while [[Tarantula|tarantulas]] can live for over 20 years. Scientists are studying spider venom for use in medicine and as non-polluting pesticides.
+
+=== KEY: Spider_monkey_dc460e
+HEADWORD: Spider monkey
+PERSON: no
+LINK TARGETS: Brazil | Mexico | New World monkey | Rainforest
+ENTRY:
+Genus of [[New World monkey|New World monkeys]] with long limbs and a prehensile tail. Spider monkeys, genus *Ateles*, live in the [[Rainforest|rainforests]] of Central and South America, from southern [[Mexico]] to [[Brazil]], where they forage in the high canopy. They lack thumbs and are among the largest New World monkeys. They are so called because they hang from branches by their tails, with their long limbs suspended like spiders dangling from a web. They mainly eat fruit and live in bands of up to 35 individuals. Meta-analyses of primate cognition studies from the 2000s indicated they are the most intelligent New World monkeys. All species are threatened, and the brown spider monkey is critically endangered.
+
+=== KEY: Spike_Lee_1650a2
+HEADWORD: Spike Lee
+PERSON: yes
+LINK TARGETS: HBO | New York University
+ENTRY:
+American filmmaker and actor. His films explore race relations, issues within the black community, the role of media in contemporary life, and urban crime and poverty. Lee studied at [[New York University]]'s Tisch School of the Arts and made his directing debut with *She's Gotta Have It* (1986). *Do the Right Thing* (1989) earned an Academy Award nomination for Best Original Screenplay, and *BlacKkKlansman* (2018) won the Academy Award for Best Adapted Screenplay. He directed the [[HBO]] series *When the Levees Broke* (2006), which won two Primetime Emmy Awards.
+
+=== KEY: Spin_physics_530c3c
+HEADWORD: Spin
+PERSON: no
+LINK TARGETS: Angular momentum | Pauli exclusion principle | Photon | Planck constant | Quantum field theory | Quantum mechanics
+ENTRY:
+Intrinsic form of [[Angular momentum|angular momentum]] carried by elementary particles, atomic nuclei and atoms. Spin is quantized, so it takes only discrete values, and accurate models of its interaction require relativistic [[Quantum mechanics|quantum mechanics]] or [[Quantum field theory|quantum field theory]]. The existence of electron spin was inferred from the Stern–Gerlach experiment, in which silver atoms showed two possible discrete angular momenta despite having no orbital angular momentum. The relativistic spin–statistics theorem connects spin to the [[Pauli exclusion principle|Pauli exclusion principle]]: particles that obey exclusion have half-integer spin, and half-integer spin implies exclusion. Spin is described mathematically as a vector for particles such as [[Photon|photons]] and as a spinor for particles such as electrons. In practice, spin is given as a dimensionless spin quantum number, found by dividing the spin angular momentum by the reduced [[Planck constant]] ħ.
+
+=== KEY: Spinach_4a112d
+HEADWORD: Spinach
+PERSON: no
+LINK TARGETS: Arabs | Canning | Flowering plant | Sicily | Vitamin C
+ENTRY:
+Annual leafy green [[Flowering plant|flowering plant]], *Spinacia oleracea*, native to Central and Western Asia. Its leaves are a common vegetable, eaten fresh, cooked or preserved by [[Canning|canning]], freezing or dehydration. Blanching may reduce its high oxalate content. Raw spinach is 91% water and a rich source of vitamin A, [[Vitamin C|vitamin C]], manganese and folate, with an especially high content of vitamin K. The [[Arabs]] introduced spinach to [[Sicily]] in 827 CE, and it first appeared in England and France in the 14th century. It is mentioned in the first known English cookbook, the *Forme of Cury* (1390). In 2024, world production was 31 million tonnes, with China accounting for 92% of the total.
+
+=== KEY: Spinal_column_c465b3
+HEADWORD: Spinal column
+PERSON: no
+LINK TARGETS: Lumbar puncture | Spinal cord | Vertebrate
+ENTRY:
+Segmented column of bone that forms the core of the axial skeleton in [[Vertebrate|vertebrates]]. Also called the vertebral column, spine or backbone, it surrounds and protects the [[Spinal cord|spinal cord]], and its vertebrae are separated by intervertebral discs. Around 50,000 species of animals have a vertebral column. In humans there are normally 33 vertebrae: seven cervical, twelve thoracic and five lumbar, with the lower nine fused in adults, five in the sacrum and four in the coccyx. The total ranges from 32 to 35. The atlas and axis support the head. Clinical landmarks on vertebrae guide [[Lumbar puncture|lumbar punctures]] and spinal anesthesia. Spina bifida is the most common birth defect affecting the spinal column.
+
+=== KEY: Spinal_cord_3b3d30
+HEADWORD: Spinal cord
+PERSON: no
+LINK TARGETS: Brain | Brainstem | Central nervous system | Neuron | Reflex
+ENTRY:
+Long, thin tubular structure of nervous tissue in the backbone of vertebrates. It extends from the medulla oblongata in the lower [[Brainstem|brainstem]] to the lumbar region of the vertebral column, and with the [[Brain|brain]] it makes up the [[Central nervous system|central nervous system]]. Its center is hollow and contains a central canal filled with cerebrospinal fluid. It is about 45 cm (18 in) long in adult men and 43 cm (17 in) in adult women. The cord carries nerve signals between the brain and the body, and it coordinates many [[Reflex|reflexes]]. Groups of [[Neuron|neurons]] form circuits that control rhythmic movements such as walking. Its diameter ranges from 13 mm (1⁄2 in) in the cervical and lumbar regions to 6.4 mm (1⁄4 in) in the thoracic area.
+
+=== KEY: Spinel_81bf71
+HEADWORD: Spinel
+PERSON: no
+LINK TARGETS: Gemstone | Limestone | Myanmar
+ENTRY:
+Magnesium aluminum oxide mineral, MgAl₂O₄, also used as a [[Gemstone|gemstone]]. Its name comes from the Latin *spinella*, a diminutive of *spine*, for its pointed crystals. It is found in metamorphosed [[Limestone|limestone]] and in some rare igneous rocks. Its hardness is 8, and it ranges from colorless to red, lavender, blue, green, brown, black and yellow. Chromium causes the red color of spinel from [[Myanmar]]. Some famous gemstones are spinels, including the Black Prince's Ruby and the Timur Ruby in the British Crown Jewels. The Samarian Spinel, the largest known spinel, weighs 500 carats (100 g).
+
+=== KEY: Spinning_top_ecd755
+HEADWORD: Spinning top
+PERSON: no
+LINK TARGETS: Ancient Greece | Ancient Rome | Hanukkah | Mesopotamia
+ENTRY:
+Toy with a squat round body that tapers to a point, designed to be spun on its vertical axis. A spinning top balances on its tip because of the gyroscopic effect, which stabilizes its rotation against gravity. Tops are made of wood, metal or plastic and include peg-tops and whip-tops. Once spinning, a top wobbles briefly, then spins upright for a time that depends on speed and friction, before tipping over. Tops are among the oldest known toys, found by archaeologists on every inhabited continent. Clay tops from [[Mesopotamia]] date back about 5,000 years, and tops were used as toys in [[Ancient Rome|ancient Rome]] and [[Ancient Greece|Greece]]. The teetotum, a four-sided gambling top, was later adapted into the dreidel, a Jewish toy played during [[Hanukkah]].
+
+=== KEY: Spinosaurus_06e419
+HEADWORD: Spinosaurus
+PERSON: no
+LINK TARGETS: Cretaceous | Theropoda | World War II
+ENTRY:
+Genus of large spinosaurid [[Theropoda|theropod]] dinosaurs It lived about 100 to 94 million years ago in the [[Cretaceous]] period. The first remains, from Egypt, were discovered in 1912 and described by Ernst Stromer in 1915. The originals were destroyed in [[World War II]], but later finds came from Morocco and Niger. Its long neural spines formed a sail-like structure, and its skull was long, low and narrow, similar to that of a modern crocodilian. A 2022 study suggests that *S. aegyptiacus* could have reached 14 m (46 ft) in length and 7.4 t (8.2 short tons) in body mass.
+
+=== KEY: Spiral_galaxy_edb790
+HEADWORD: Spiral galaxy
+PERSON: no
+LINK TARGETS: Edwin Hubble | Galaxy | Milky Way | Supermassive black hole
+ENTRY:
+Class of [[Galaxy|galaxy]] whose flat, rotating disk has spiral arms extending from its center. [[Edwin Hubble]] described the class in his 1936 work *The Realm of the Nebulae*, and spiral galaxies form part of the Hubble sequence. Most have a flat disk of stars, gas and dust, a central bulge of stars and a fainter halo, many of whose stars reside in globular clusters. The spiral arms are sites of ongoing star formation and appear brighter than the disk because of young, hot OB stars. Roughly two-thirds have a bar-like structure extending from the bulge. The [[Milky Way]] is a barred spiral. Many bulges host a [[Supermassive black hole|supermassive black hole]] at their center. Together with irregular galaxies, spiral galaxies make up approximately 60% of galaxies in today's universe.
+
+=== KEY: Spirited_Away_37995b
+HEADWORD: Spirited Away
+PERSON: no
+LINK TARGETS: Hayao Miyazaki | Shinto | Studio Ghibli | Toho
+ENTRY:
+2001 Japanese animated fantasy film by [[Hayao Miyazaki]], produced by [[Studio Ghibli]]. It follows ten-year-old Chihiro Ogino, who enters a world of kami, the spirits of Japanese [[Shinto]] folklore, after her parents are turned into pigs by the witch Yubaba. She takes a job in Yubaba's bathhouse to free her parents and return to the human world. Distributed in Japan by [[Toho]], the film was released on July 20, 2001, with a budget of US$19 million. It grossed ¥31.68 billion in Japan, the highest-grossing film in Japanese history until 2020, and US$396 million worldwide. It won the Academy Award for Best Animated Feature at the 75th Academy Awards, the first hand-drawn, non-English-language animated film to do so.
+
+=== KEY: Spirituality_4585a6
+HEADWORD: Spirituality
+PERSON: no
+LINK TARGETS: Buddhism | Christianity | Islam | Judaism | Mysticism | Religion | Western esotericism
+ENTRY:
+Personal pursuit of meaning, purpose, and connection to a sacred or transcendent dimension of existence, a term whose sense has shifted over time. Traditionally it denoted a [[Religion|religious]] process of re-formation that "aims to recover the original shape of man," oriented toward "the image of God." According to Kees Waaijman, the model is the Torah in [[Judaism]], Christ in [[Christianity]], the Buddha in [[Buddhism]], and the Prophet Muhammad in [[Islam]].
+
+The word derives from Latin *spiritus* ("breath," "soul," "courage"), which the Vulgate used to translate Greek *pneuma* and Hebrew *ruach*. Words translatable as "spirituality" appeared in the 5th century and entered common use late in the Middle Ages. In early Christianity it meant a life animated by the Holy Spirit. In the 11th century it came to denote the mental aspect of life against the material and sensual. In the 13th century it acquired social and psychological senses: the territory of the clergy as against secular authority, and the realm of the inner life. In the 17th and 18th centuries it was associated with [[Mysticism|mysticism]] and quietism and took on a negative meaning.
+
+Modern notions developed through the 19th and 20th centuries, mixing Christian ideas with [[Western esotericism]] and elements of Asian, especially Indian, religions. Modern usage stresses subjective experience and the "deepest values and meanings by which people live," often apart from organized religion. It may involve belief in a supernatural realm, personal growth, religious experience, or a search for one's "inner dimension". No single definition is agreed on; scholarly surveys find a broad range of definitions with limited overlap. Studies link spirituality with health benefits, but critics note that these associations are correlational and rely on self-reported data.
+
+=== KEY: Spitz_819641
+HEADWORD: Spitz
+PERSON: no
+LINK TARGETS: Arctic | Chow Chow | Siberia | Wolf
+ENTRY:
+Type of domestic dog including between 50 and 70 breeds. Most spitz breeds have pricked ears, almond-shaped eyes, a pointed muzzle, a double coat and a tail that curves over the back. The name derives from the German *Spitz(hund)*, meaning "pointed (dog)," after the muzzle. Most originate from the [[Arctic]] or [[Siberia]]. Thick undercoats and small upright ears help them survive harsh northern climates. Many breeds, such as the [[Chow Chow]] and the Japanese Akita, keep [[Wolf|wolf]]-like independence and need much socialization as puppies. Huskies were bred for one purpose only, while the tiny Pomeranian was bred down from a much larger dog into a companion.
+
+=== KEY: Spleen_0f3b8e
+HEADWORD: Spleen
+PERSON: no
+LINK TARGETS: Antibody | Immune system | Liver | Red blood cell | Vertebrate
+ENTRY:
+Organ found in almost all [[Vertebrate|vertebrates]] that acts primarily as a blood filter. Similar in structure to a large lymph node, it lies near the [[Liver|liver]]. It removes old [[Red blood cell|red blood cells]] and holds a reserve of blood that can be valuable in cases of hemorrhagic shock. It also recycles iron from hemoglobin, and its heme portion is metabolized to bilirubin, which is removed in the liver. The white pulp houses T and B lymphocytes that help produce [[Antibody|antibodies]], giving the spleen a role in the [[Immune system|immune system]]. The red pulp filters blood and stores monocytes that can travel to sites of tissue injury. In humans the spleen is purple and lies in the left upper abdomen. Surgical removal is called splenectomy.
+
+=== KEY: Split_Croatia_93aadc
+HEADWORD: Split
+PERSON: no
+LINK TARGETS: Adriatic Sea | Croatia | Diocletian | Republic of Venice | UNESCO | Yugoslavia
+ENTRY:
+Second-largest city in [[Croatia]], on the eastern shore of the [[Adriatic Sea]]. Founded as a Greek colony, it developed around the palace of the Roman emperor [[Diocletian]], which became a palace site in 305 CE. The city has a population of over 160,000. It later came under the [[Republic of Venice|Republic of Venice]], then the Austrian Empire, and then [[Yugoslavia]] after 1918. Its historic core is a [[UNESCO]] World Heritage Site, and the city attracts over one million visitors annually.
+
+=== KEY: Spock_5769c2
+HEADWORD: Spock
+PERSON: no
+LINK TARGETS: Leonard Nimoy | Star Trek | Star Trek: The Original Series
+ENTRY:
+Fictional science officer in the [[Star Trek]] media franchise. Spock served as first officer and science officer of the starship *Enterprise* in the original [[Star Trek: The Original Series|Star Trek series]] (1966–69), alongside Captain James T. Kirk and Dr. Leonard McCoy. [[Leonard Nimoy|Leonard Nimoy]] played him in the original series and eight Star Trek feature films, and his portrayal earned him three Emmy Award nominations. Spock's mixed human-Vulcan heritage is an important plot element. Ethan Peck has played an earlier Spock, and Zachary Quinto played an alternate-reality Spock in three films.
+
+=== KEY: Spokane_Washington_713981
+HEADWORD: Spokane
+PERSON: no
+LINK TARGETS: Jesuits | Seattle | Washington (state) | World's fair
+ENTRY:
+City (pop., 2020: 228,989), county seat of Spokane County in eastern [[Washington (state)|Washington]]. It lies along the Spokane River, about 280 miles (450 km) east of [[Seattle]]. The city was incorporated as Spokane Falls in 1881 and adopted its current name ten years later. Architect Kirtland Cutter designed many downtown buildings after the Great Spokane Fire of 1889. Gonzaga University was established by the [[Jesuits]] in 1887. The city hosted Expo '74, the first environmentally themed [[World's fair]]. It is known as the birthplace of Father's Day.
+
+=== KEY: SpongeBob_SquarePants_ada825
+HEADWORD: SpongeBob SquarePants
+PERSON: no
+LINK TARGETS: Generation Z | Internet meme | Millennials | Nickelodeon | Sponge
+ENTRY:
+American animated comedy television series for [[Nickelodeon]]. Created by marine science educator Stephen Hillenburg, it follows an anthropomorphic yellow [[Sponge|sea sponge]] and his aquatic friends in the underwater city of Bikini Bottom. It premiered on July 17, 1999, after a sneak peek on May 1, 1999. Critics have praised its surreal humor and writing, and it is often considered one of the greatest animated series of all time. It has won four Emmy Awards and a record 23 Kids' Choice Awards. The show is a cultural touchstone for [[Millennials]] and [[Generation Z]] and has spawned numerous [[Internet meme|internet memes]].
+
+=== KEY: Sponge_3f4027
+HEADWORD: Sponge
+PERSON: no
+LINK TARGETS: Phylum
+ENTRY:
+Aquatic invertebrate of the [[Phylum|phylum]] Porifera, most of them marine. Sponges are multicellular filter feeders that lack true tissues and organs, drawing water through pores and expelling it through an opening called the osculum. Flagellated choanocyte cells drive the water flow and capture most food. Sponges have no complex nervous, digestive or circulatory systems. Adult sponges are sessile, attached to a surface. Many have a mesh-like skeleton of spicules made of calcium carbonate or silicon dioxide, embedded in spongin, a modified collagen. Demosponges, the most numerous group, include all freshwater sponges. Fossil sponges such as Otavia date to as early as the Tonian period, around 800 Mya. Sponges may be the sister group to all other animals, though the evidence remains inconclusive.
+
+=== KEY: Spoon_eb395a
+HEADWORD: Spoon
+PERSON: no
+LINK TARGETS: Cutlery | Shang dynasty
+ENTRY:
+Utensil with a shallow bowl, oval or round, at the end of a handle. Spoons are a type of [[Cutlery|cutlery]], used mainly for transferring food to the mouth and also for measuring, mixing, stirring and serving. Present-day spoons are made of metal, wood, porcelain or plastic. Ancient Egyptians made spoons of ivory, flint, slate and wood, many carved with religious symbols, and in [[Shang dynasty]] China spoons were made of bone. In the early Muslim world, spoons were used for eating soup. The earliest English reference to a spoon appears to be in a will of 1259. The Coronation Spoon, used in the anointing of English and later British sovereigns, dates to the 12th century and is the oldest surviving item in the British royal regalia. A 2024 study identified 241 small, spoon-shaped objects at 116 archaeological sites in Scandinavia, Germany and Poland, dating to the Roman era, which the study proposes were used to administer drugs before battles.
+
+=== KEY: Spooning_3ba247
+HEADWORD: Spooning
+PERSON: no
+LINK TARGETS: Doggy style
+ENTRY:
+Sexual position and cuddling technique, named for spoons placed side by side with their bowls aligned. As a sex position it is a form of rear-entry position, another form being [[Doggy style|doggy style]], and it has been called one of the "basic four" sex positions. Both partners control the angle and depth of penetration, and the close contact allows cuddling. It may suit people who are pregnant, recovering from illness or surgery, or elderly, because it puts less strain on the muscles and does not press on the abdomen. Visual stimulation is limited because partners do not face each other.
+
+=== KEY: Spore_42e3ce
+HEADWORD: Spore
+PERSON: no
+LINK TARGETS: Algae | Gametophyte | Ordovician | Plant | Sporophyte
+ENTRY:
+Unit of sexual (in fungi) or asexual reproduction, adapted for dispersal and survival. Spores form part of the life cycles of many [[Plant|plants]], [[Algae|algae]], fungi and protozoa, and were thought to have appeared as early as the mid-late [[Ordovician]] period as an adaptation of early land plants. Bacterial spores are not part of a sexual cycle but are resistant structures that help bacteria survive unfavorable conditions. In plants, spores are usually haploid and unicellular and are produced by meiosis in the sporangium of a diploid [[Sporophyte|sporophyte]]. Under favorable conditions a spore develops by mitosis into a multicellular [[Gametophyte|gametophyte]], which produces gametes. Two gametes fuse to form a zygote that develops into a new sporophyte, a cycle known as alternation of generations. The spores of seed plants are produced internally and form the seeds and pollen grains.
+
+=== KEY: Sporophyte_2fa946
+HEADWORD: Sporophyte
+PERSON: no
+LINK TARGETS: Bryophyte | Devonian | Gametophyte | Gymnosperm
+ENTRY:
+Diploid multicellular phase of the life cycle of a plant or alga. The sporophyte develops from a zygote formed when a haploid egg is fertilized by a haploid sperm, so each of its cells has two sets of chromosomes, one from each parent. It produces spores by meiosis, and these develop into the haploid [[Gametophyte|gametophyte]] phase, which alternates with the sporophyte in all land plants and most multicellular algae. In [[Bryophyte|bryophytes]] such as mosses, liverworts and hornworts, the gametophyte is dominant and the small sporophyte depends on it for nutrition. In seed plants, including [[Gymnosperm|gymnosperms]] and angiosperms, the sporophyte is the more prominent phase and is the familiar plant with roots, stems, leaves and cones or flowers. During the [[Devonian]] period, several plant groups independently evolved heterospory, an early step in the evolution of seeds.
+
+=== KEY: Sport_96faa3
+HEADWORD: Sport
+PERSON: no
+LINK TARGETS: Association football | Cue sports | Esports | Running
+ENTRY:
+Physical activity or game, often competitive and organized, that maintains or improves physical ability and skills. Sport gives enjoyment to participants and entertainment to spectators, and the number of participants ranges from a single individual to hundreds of people. It is usually governed by rules or customs that ensure fair competition. Winners may be decided by physical events, such as scoring goals or crossing a line first, or by judges who score technical performance or artistic impression. Competitions may use team or single-person formats, may be open or restricted, and may allow ties or provide tie-breaking methods. Tournaments produce a champion, and many leagues name an annual champion through a regular season, sometimes followed by playoffs.
+
+The English word comes from the Old French *desport*, meaning "leisure". Definitions vary. The Global Association of International Sports Federations (GAISF) holds that a sport should involve competition, harm no living creature, not depend on equipment from a single supplier, and not rely on designed-in luck. It recognizes sports that are primarily physical, mind-based (chess, Go), motorised (Formula 1), coordination-based (snooker and other [[Cue sports|cue sports]]), or animal-supported (equestrian). The Council of Europe excludes activities with no physical element, while SportAccord recognizes five non-physical sports but limits further admissions. [[Esports]] are not widely recognized by mainstream sports organizations.
+
+[[Running]] is the most accessible and widely practiced sport, and [[Association football|association football]] the most popular spectator sport. Physical activity is associated with lower risk of all-cause mortality and with fewer symptoms of depression and anxiety. A.T. Kearney estimated the global sporting industry at up to $620 billion in 2013. Doping remains a persistent controversy.
+
+=== KEY: Sport_of_athletics_15af10
+HEADWORD: Athletics
+PERSON: no
+LINK TARGETS: Ancient Egypt | Ancient Olympic Games | Decathlon | Track and field | University of Cambridge | University of Oxford
+ENTRY:
+Group of sporting events involving competitive running, jumping, and throwing. The most common forms are [[Track and field|track and field]], road running, cross-country running, and race walking. Races are decided by finishing position or time, and jumps and throws by the highest or furthest measurement from a series of attempts. Needing little expensive equipment, it is one of the most widely practiced sports in the world.
+
+The word derives from the Ancient Greek *athlētēs*, "combatant in public games". In the 19th century it narrowed in Europe to running, walking, jumping, and throwing. In much of North America it refers to sports in general, and "track and field" is used instead.
+
+Athletic contests are prehistoric in origin. Tombs in [[Ancient Egypt|ancient Egypt]] depict running and high jumping from as early as 2250 BC, and the Tailteann Games in Ireland, founded c. 1800 BC, included running and stone-throwing. The only event at the first [[Ancient Olympic Games|Olympics]] in 776 BC was the *stadion*, a stadium-length race. The first modern clubs were founded at the [[University of Cambridge]] in 1857 and the [[University of Oxford]] in 1860, and the Amateur Athletic Association, established in England in 1880, was the first national governing body.
+
+World Athletics is the global governing body. The foremost international meeting is the World Athletics Championships. The Diamond League is the most prestigious season-long circuit for track and field. Combined events include the [[Decathlon|decathlon]].
+
+=== KEY: Sports_equipment_aed468
+HEADWORD: Sports equipment
+PERSON: no
+LINK TARGETS: Badminton | Han dynasty | Helmet | Tennis | Volleyball | Warring States period
+ENTRY:
+Tools, materials, apparel and gear used in sport, from balls and nets to rackets and protective items such as [[Helmet|helmets]]. Balls are usually spheres, though gridiron football and rugby balls are spheroid or ellipsoid, and in many ball sports they form part of the scoring mechanism. Nets are used in [[Tennis|tennis]], [[Badminton|badminton]] and [[Volleyball|volleyball]], where the ball is struck over a net supported by two posts. Rackets are netted tools for striking balls or shuttlecocks, while paddles are flat-faced tools used in sports such as pickleball and table tennis. Footwear includes cleats, cycling shoes and ski boots. Footballs date back to ancient China, between the [[Warring States period]] (476–221 BC) and the [[Han dynasty|Han Dynasty]] (220 AD), and have changed from animal skin to layers of polyester or cotton. Newer equipment is increasingly electronic and connected, delivering performance data.
+
+=== KEY: Spotify_fd539c
+HEADWORD: Spotify
+PERSON: no
+LINK TARGETS: New York Stock Exchange | Stockholm | United States
+ENTRY:
+Swedish freemium music streaming service, founded in April 2006 in [[Stockholm]] by Daniel Ek and Martin Lorentzon. It offers over 100 million songs, 8 million podcast titles and 800,000 audiobook titles. Basic features are free with advertisements, while offline and commercial-free listening require paid subscriptions. Spotify pays royalties based on each artist's streams as a proportion of total songs streamed, and distributes about 70% of its total revenue to rights holders, often record labels. Its users are based largely in the [[United States]] and Europe. Spotify is listed on the [[New York Stock Exchange]] in the form of American depositary receipts.
+
+=== KEY: Sprat_15dac3
+HEADWORD: Sprat
+PERSON: no
+LINK TARGETS: Baltic Sea | Sardine
+ENTRY:
+Common name for a group of small, oily forage fish of the genus *Sprattus* in the family Clupeidae. Sprats are highly active, schooling fish that swim continuously throughout the day, and they are rich in polyunsaturated fats, considered beneficial to the human diet. They are eaten in many places and are often classed as [[Sardine|sardines]], a broad category. Products sold as anchovies have sometimes been prepared from sprats, as authentic anchovies were once less accessible. The [[Baltic Sea]] is the most studied habitat, where *Sprattus sprattus* forages and reproduces. Sprat numbers there have fluctuated with the availability of zooplankton, and the population has increased dramatically in recent decades. The average time from fertilization to hatching is about 15 days.
+
+=== KEY: Spreadsheet_818bd8
+HEADWORD: Spreadsheet
+PERSON: no
+LINK TARGETS: Apple II | Microsoft Excel | Regression analysis | Standard deviation
+ENTRY:
+Computer application for computation, organization, analysis and storage of data in tabular form. Spreadsheets were developed as computerized analogs of paper accounting worksheets. Each cell may contain numeric or text data, or a formula that calculates a value from other cells, so changing one value updates the results. This makes spreadsheets useful for "what-if" analysis. Several sheets form a workbook. LANPAR, introduced in 1969, was the first electronic spreadsheet on mainframe and time-sharing computers, and VisiCalc (1979) was the first on a microcomputer, becoming the killer application for the [[Apple II]]. [[Microsoft Excel|Excel]] has the largest market share for Windows and Mac. Built-in functions cover [[Standard deviation|standard deviation]] and [[Regression analysis|regression analysis]], along with net present value. Spreadsheets have replaced paper-based systems throughout business.
+
+=== KEY: Spring_and_Autumn_period_e743eb
+HEADWORD: Spring and Autumn period
+PERSON: no
+LINK TARGETS: Confucius | Warring States period | Zhou dynasty
+ENTRY:
+Period of Chinese history, roughly the first half of the [[Zhou dynasty|Eastern Zhou]], marked by the erosion of royal power. Its name derives from the *Spring and Autumn Annals*, a chronicle of the state of Lu, which tradition associates with [[Confucius]]. Local lords nominally subject to the Zhou gained increasing autonomy, negotiated their own alliances and waged war on one another. In 771 BCE a Quanrong invasion, in coalition with the states of Zeng and Shen, destroyed the Western Zhou capital at Haojing and killed King You, and the Zhou court moved east to Luoyi, where it had real control over only a small royal demesne. Regular conferences of the most important states sometimes declared one vassal ruler hegemon. The partition of Jin by three elite families in 403 BCE is generally considered to mark the end of the period and the start of the [[Warring States period]].
+
+=== KEY: Spring_device_38283c
+HEADWORD: Spring
+PERSON: no
+LINK TARGETS: Hooke's law | Robert Hooke | Titanium | Torque
+ENTRY:
+Elastic object, typically of metal, bent or molded to return to shape after being compressed, extended or twisted. The spring constant, or rate, is the change in force divided by the change in deflection, and its inverse is compliance. In 1676 [[Robert Hooke]] postulated [[Hooke's law]], which states that the force a spring exerts is proportional to its extension. Coiled springs appeared early in the 15th century, in door locks, and spring-powered clocks followed. Common types include tension, compression and [[Torque|torsion]] springs, the last producing torque proportional to the angle of twist. Most are made from spring steel, while [[Titanium|titanium]] and phosphor bronze are used where corrosion resistance matters. Simple non-coiled springs, such as the bow, have been used throughout human history.
+
+=== KEY: Spring_hydrology_faf405
+HEADWORD: Spring
+PERSON: no
+LINK TARGETS: Aquifer | Geyser | Hot spring | Hydrosphere | Karst | Water cycle
+ENTRY:
+Natural point where groundwater emerges from an [[Aquifer|aquifer]] and flows across the ground surface as surface water. Springs are part of the [[Hydrosphere|hydrosphere]] and the [[Water cycle|water cycle]], and have long been an important source of fresh water, especially in arid regions. They are driven out by natural forces such as gravity and hydrostatic pressure. Springs form where groundwater reaches the surface, for example where the water table rises above it, or through [[Karst]] topography or volcanic activity. Yields vary from nearly zero to more than 14,000 liters per second (490 cu ft/s) for the largest springs. Artesian springs occur where pressure in a confined aquifer pushes water straight up out of the ground. A [[Hot spring|hot spring]] is fed by geothermally heated groundwater, and a [[Geyser|geyser]] is a hot spring in which trapped superheated groundwater produces recurring eruptions of hot water and steam.
+
+=== KEY: Spring_season_35b49f
+HEADWORD: Spring
+PERSON: no
+LINK TARGETS: Equinox | Summer solstice
+ENTRY:
+One of the four temperate seasons, between winter and summer. Spring is also known as springtime and denotes rebirth, renewal and regrowth. When it is spring in the Northern Hemisphere, it is autumn in the Southern Hemisphere. At the [[Equinox|spring equinox]], also called the vernal equinox, days and nights are approximately twelve hours long, and daytime length increases until the [[Summer solstice|summer solstice]]. The spring equinox falls in March in the Northern Hemisphere and in September in the Southern Hemisphere. Meteorologists define spring by monthly average temperatures: March, April and May in the United States and United Kingdom, and September, October and November in Australia, New Zealand, South Africa and Brazil. Subtropical and tropical areas are better described by wet and dry seasons. The word derives from the Middle English verb springen, meaning to rise up or burst forth.
+
+=== KEY: Springtail_6c32e7
+HEADWORD: Springtail
+PERSON: no
+LINK TARGETS: Decomposition | Moulting
+ENTRY:
+Class (Collembola) of small, wingless arthropods, the largest of the three lineages of hexapods that are no longer considered insects. Springtails are omnivorous, free-living organisms that prefer moist conditions, and there are more than 9,000 species worldwide. They contribute indirectly to [[Decomposition|decomposition]] by fragmenting organic matter and controlling soil microbial communities. Most species have a forked appendage, the furcula, folded beneath the body, which snaps against the surface to fling the springtail into the air. Members are normally less than 6 mm long, and some can reduce their body size by as much as 30% through [[Moulting|molting]] when temperatures rise. The name Collembola comes from Greek words for glue and peg, after a tube on the abdomen once thought to stick the creature to surfaces.
+
+=== KEY: Sprite_lightning_83f7b9
+HEADWORD: Sprite
+PERSON: no
+LINK TARGETS: Lightning | Thunderstorm
+ENTRY:
+Large-scale electrical discharge in the mesosphere, high above [[Thunderstorm|thunderstorm]] clouds. Sprites appear as luminous red-orange flashes, often occurring in clusters at altitudes of 50–90 km. They are usually triggered by positive [[Lightning|lightning]] discharges between an underlying thundercloud and the ground. Although sometimes called upper-atmospheric lightning, they are cold plasma phenomena, more akin to fluorescent tube discharges. The earliest known report dates from 1886, and they were first photographed in 1989 by scientists from the University of Minnesota. Their root cause remains unknown beyond a general association with positive cloud-to-ground lightning.
+
+=== KEY: Spruce_0d5079
+HEADWORD: Spruce
+PERSON: no
+LINK TARGETS: Conifer | Edvard Munch | Guitar
+ENTRY:
+[[Conifer|Coniferous]] evergreen tree of the genus *Picea* in the pine family, Pinaceae. The genus comprises some 37 species found in the northern temperate and boreal regions of the Northern Hemisphere. Spruce needles are four-sided and attached singly to small peg-like structures that remain on the twigs after the needles fall, a feature that distinguishes spruces from other Pinaceae. Spruce is a major source of construction timber and of pulp for paper, and it is the standard material for the soundboards of stringed instruments such as acoustic [[Guitar|guitars]]. The Norway spruce is widely used for Christmas trees. Spruces generally live 100 to 600 years; the oldest reported age for a single tree is 852 years, for a *Picea engelmannii*. [[Edvard Munch]] depicted spruces around 1900.
+
+=== KEY: Sputnik_1_10abb0
+HEADWORD: Sputnik 1
+PERSON: no
+LINK TARGETS: Amateur radio | Soviet Union | Space Race
+ENTRY:
+First artificial Earth satellite, launched by the [[Soviet Union]] on October 4, 1957. It was a polished metal sphere 58 cm (23 in) in diameter with four external radio antennas, and its radio signal was easily detected by [[Amateur radio|amateur radio]] operators. Its 65° orbital inclination meant its flight path covered virtually the entire inhabited Earth. The success was unanticipated by the United States, which precipitated the American Sputnik crisis and triggered the start of the [[Space Race]]. The transmitter batteries were depleted after 22 days. After 1,440 orbits, Sputnik 1 burned up on reentry on January 4, 1958. Tracking it provided data on the density of the upper atmosphere and on the ionosphere.
+
+=== KEY: Square_ceb46c
+HEADWORD: Square
+PERSON: no
+LINK TARGETS: Pixel | Rhombus
+ENTRY:
+Regular quadrilateral with four equal sides and four right angles. A square is a special case of a [[Rhombus|rhombus]] and of a rectangle, and its area is the side length multiplied by itself, which gives the term squaring in algebra. Equal squares tile the plane edge to edge, so square tilings appear in floors, graph paper and image [[Pixel|pixels]]. Squares are the only regular polygons whose internal, central and external angles are all equal, each being a right angle. The diagonals of a square are equal, bisect each other and meet at 90 degrees. Attempts to square the circle with compass and straightedge, which the area formula motivated, are now known to be impossible. Squares can be inscribed in any smooth or convex curve, but it remains unsolved whether a square can be inscribed in every simple closed curve.
+
+=== KEY: Square_root_921c8e
+HEADWORD: Square root
+PERSON: no
+LINK TARGETS: Complex number | Irrational number
+ENTRY:
+Number y whose square, y², equals a given number x. Every nonnegative real number has a unique nonnegative square root, called the principal square root and written √x. For example, 4 and −4 are square roots of 16. Every positive number has two square roots, one positive and one negative. Square roots of negative numbers are discussed within [[Complex number|complex numbers]]. A Babylonian clay tablet dated between 1800 and 1600 BC gives a base-60 value corresponding to 1.41421296 for √2. The Greeks knew that the square roots of positive integers that are not perfect squares are [[Irrational number|irrational]], a theorem almost certainly due to Theaetetus, dating to c. 380 BC.
+
+=== KEY: Squash_sport_6d251d
+HEADWORD: Squash
+PERSON: no
+LINK TARGETS: Los Angeles | Olympic Games
+ENTRY:
+Racket sport played in a four-walled court with a small, hollow rubber ball. It is played by two players in singles or four in doubles, and the players alternate striking the ball so the opponent cannot make a return. About 20 million people play squash regularly in over 185 countries. The sport derives from the older game of rackets, and a punctured ball that "squashed" against the wall was used at Harrow School around 1830. The first squash court in North America was built at St. Paul's School in Concord, New Hampshire, in 1884. The standard singles court measures 9.75 meters by 6.4 meters. The governing body, World Squash, is recognized by the International Olympic Committee, and squash will be included in the [[Olympic Games]] from the 2028 Summer Olympics in [[Los Angeles]].
+
+=== KEY: Squid_0cc5a9
+HEADWORD: Squid
+PERSON: no
+LINK TARGETS: Chitin | Jurassic | Sperm whale | Teleost
+ENTRY:
+Cephalopod mollusc with an elongated soft body, large eyes, eight arms and two long tentacles. Squid have a small internal skeleton, a rod-like gladius or pen, made of [[Chitin|chitin]]. They diverged from other cephalopods during the [[Jurassic]] and became prominent around 100 million years ago, at the boundary between the Early and Late Cretaceous. Squid occupy a role similar to [[Teleost|teleost]] fish as open-water predators, using their two long tentacles to grab prey and their eight arms to hold it. Many swim rapidly by jet propulsion and locate prey by sight. Squid can change color for camouflage and signaling, some species are bioluminescent, and many eject a cloud of ink to distract predators. Groups of Humboldt squid have been observed hunting cooperatively. Squid are preyed on by sharks, fish, seabirds, seals and [[Sperm whale|sperm whales]], and are used in cuisines around the world, often as calamari.
+
+=== KEY: Squid_Game_ba4280
+HEADWORD: Squid Game
+PERSON: no
+LINK TARGETS: Capitalism | Netflix
+ENTRY:
+South Korean dystopian survival thriller television series. Created, written and directed by Hwang Dong-hyuk for [[Netflix]], *Squid Game* follows 456 players in financial hardship who risk death in children's games for a prize of ₩45.6 billion (US$34.02 million). Hwang outlined the story in 2009, drawing on class disparity in South Korea and on [[Capitalism|capitalism]]. The first season, released on September 17, 2021, became Netflix's most-watched series and won six Primetime Emmy Awards and a Golden Globe. The second season was released on December 26, 2024, and the third and final season on June 27, 2025. The later seasons were considered inferior to the first.
+
+=== KEY: Squirrel_44314e
+HEADWORD: Squirrel
+PERSON: no
+LINK TARGETS: Chipmunk | Eocene | Prairie dog | Rainforest
+ENTRY:
+Member of the rodent family Sciuridae, including tree squirrels, ground squirrels such as [[Chipmunk|chipmunks]] and [[Prairie dog|prairie dogs]], and flying squirrels. Squirrels are indigenous to the Americas, Eurasia and Africa, and were introduced by humans to Australia. The earliest known fossil squirrels date from the [[Eocene]] epoch. They range from the African pygmy squirrel, 10–14 cm long and weighing 12–26 g, to the Bhutan giant flying squirrel, up to 1.27 m long. Most have slender bodies, long bushy tails and large eyes, and tree squirrels can descend a tree headfirst by rotating their ankles 180 degrees. Squirrels live in almost every habitat from tropical [[Rainforest|rainforest]] to semiarid desert. They are predominantly herbivorous, eating seeds and nuts, though many also eat insects. Adults can live 5 to 10 years in the wild. The name derives from Latin sciurus and Ancient Greek skiouros, from words meaning shade and tail.
+
+=== KEY: Srebrenica_massacre_0a1840
+HEADWORD: Srebrenica massacre
+PERSON: no
+LINK TARGETS: Bosnian War | International Court of Justice | Kofi Annan | Republika Srpska | United Nations
+ENTRY:
+Genocidal killing of more than 8,000 Bosniak men and boys in and around the town of Srebrenica in July 1995, during the [[Bosnian War]]. It was carried out mainly by units of the Bosnian Serb Army of [[Republika Srpska]] under Ratko Mladić. Although the [[United Nations|UN]] had declared Srebrenica a "safe area", a contingent of 370 lightly armed Dutch soldiers failed to deter its capture. The [[International Court of Justice]] ruled in 2007 that the massacre constituted genocide. In 2005 [[Kofi Annan]], then UN Secretary-General, called it "a terrible crime – the worst on European soil since the Second World War."
+
+=== KEY: Sri_Aurobindo_871cc5
+HEADWORD: Sri Aurobindo
+PERSON: yes
+LINK TARGETS: Indian National Congress | Pondicherry | Upanishads | Vedas
+ENTRY:
+Indian philosopher, yogi and nationalist. He took part in the movement for Indian independence from British rule, advocating complete autonomy through his writings and political activity, and was involved in the [[Indian National Congress]]. Arrested after bombings linked to a revolutionary group, he faced a public trial for treason in the Alipore Conspiracy and was then released. He withdrew to [[Pondicherry]] to devote himself to spiritual practice and formulated Integral Yoga, set out in *The Life Divine* and *The Synthesis of Yoga*. With Mirra Alfassa he founded the Sri Aurobindo Ashram in 1926. His literary output includes the epic poem *Savitri* and translations and commentaries on the [[Vedas]] and [[Upanishads]].
+
+=== KEY: Sri_Lanka_ef547e
+HEADWORD: Sri Lanka
+PERSON: no
+LINK TARGETS: Colombo | Commonwealth of Nations | India | Non-Aligned Movement | Pali Canon | Palk Strait | Portuguese Empire | Sinhala language
+ENTRY:
+Island country in South Asia, separated from [[India]] by the [[Palk Strait]]. Formerly known as Ceylon, it has a population of 22 million. About 74% of the population are Sinhalese, who speak the [[Sinhala language]], and about 15% are Tamils who speak the Tamil language. Its executive and judicial capital is [[Colombo]], also its largest city; Sri Jayawardenepura Kotte is the legislative capital. The earliest known Buddhist writings on the island, the [[Pali Canon]], date back to 29 BCE. The [[Portuguese Empire|Portuguese]] established a colony in the sixteenth century, and the British Empire ruled a colony on the island from the early 19th century until 1948, when it gained independence as the Dominion of Ceylon. Sri Lanka has the highest level of human development in South Asia and is a member of the [[Non-Aligned Movement]] and the [[Commonwealth of Nations]].
+
+=== KEY: Sri_Lankan_civil_war_a2564b
+HEADWORD: Sri Lankan civil war
+PERSON: no
+LINK TARGETS: Insurgency | Pogrom | Sri Lanka | War crime
+ENTRY:
+Internal conflict in [[Sri Lanka]], 1983–2009, between the government and Tamil separatists. Beginning on July 23, 1983, it was an intermittent [[Insurgency|insurgency]] by the Liberation Tigers of Tamil Eelam (LTTE), led by Velupillai Prabhakaran, to create an independent Tamil state in the north-east of the island. The LTTE fought in response to discrimination and violent persecution of Sri Lankan Tamils, including [[Pogrom|pogroms]] in 1956, 1958, 1977, 1981 and 1983 carried out by Sinhalese mobs, often with state support. After a 26-year military campaign, the Sri Lankan military defeated the LTTE in May 2009. The UN estimated 80,000–100,000 deaths immediately after the war. The Sri Lankan state has faced global criticism over alleged [[War crime|war crimes]], and the LTTE was notorious for attacks on civilians, including suicide bombings.
+
+=== KEY: Sridevi_086880
+HEADWORD: Sridevi
+PERSON: yes
+LINK TARGETS: Dubai | Hindi | Kannada | Malayalam
+ENTRY:
+Indian actress, cited as the first female superstar of Indian cinema. She worked in Telugu, Tamil, [[Hindi]], [[Malayalam]] and [[Kannada]] films over a career of over 50 years, often playing strong-willed women on screen while being reticent off screen. Her first starring Hindi role was in *Solva Sawan* (1979), followed by hits such as *Mr. India* (1987) and *Chandni* (1989). She returned to film with *English Vinglish* (2012). Her final film, *Mom* (2017), her 300th, earned her a posthumous National Film Award for Best Actress. She received the Padma Shri in 2013. Her death in a [[Dubai]] hotel was attributed to accidental drowning.
+
+=== KEY: Srinagar_ed2295
+HEADWORD: Srinagar
+PERSON: no
+LINK TARGETS: Kashmir | Mughal Empire
+ENTRY:
+Largest city and summer capital of Indian-administered Jammu and Kashmir, in the disputed [[Kashmir]] region. It lies on the Jhelum River in the Kashmir Valley, known for houseboats, gardens and traditional handicrafts such as the Kashmir shawl. Founded in the 6th century according to the Rajatarangini, it was the most important capital of the valley under Hindu dynasties and a major center of learning. In the late 16th century it became part of the [[Mughal Empire]], whose emperors used it as a summer resort; Shalimar and Nishat are among its best-known gardens. It became the summer capital of the Dogra kingdom in 1846. The city was a flashpoint of violence during the 1990s and early 2000s insurgency. In 2019 it became the summer capital of a union territory after the former state's reorganization.
+
+=== KEY: Srinivasa_Ramanujan_3c5cf8
+HEADWORD: Ramanujan, Srinivasa
+PERSON: yes
+LINK TARGETS: G. H. Hardy | Number theory | University of Cambridge
+ENTRY:
+Indian mathematician known for work in mathematical analysis, [[Number theory|number theory]], infinite series and continued fractions. He developed his research in isolation before a 1913 correspondence with [[G. H. Hardy]] of the [[University of Cambridge]], who recognized his work as extraordinary and arranged for him to travel to Cambridge. Ramanujan independently compiled nearly 3,900 results, mostly identities and equations, many of them completely novel. These included the Ramanujan prime and the Ramanujan theta function, which opened new areas of research. He became one of the youngest Fellows of the Royal Society, the second Indian member, and the first Indian Fellow of Trinity College, Cambridge. Ill health, now believed to have been hepatic amoebiasis, forced his return to India in 1919, and he died at the age of 32. The lost notebook, containing discoveries from his final year, was rediscovered in 1976.
+
+=== KEY: Srivijaya_b0a8ea
+HEADWORD: Srivijaya
+PERSON: no
+LINK TARGETS: Buddhism | China | Song dynasty | Southeast Asia | Sumatra | Tang dynasty
+ENTRY:
+Malay Buddhist thalassocratic empire based on the island of [[Sumatra]], in present-day Indonesia, that influenced much of [[Southeast Asia]]. It was an important center for the expansion of [[Buddhism]] from the 7th to 11th century and the first polity to dominate much of western Maritime Southeast Asia. Its economy depended on trade, and its main foreign interest was lucrative trade agreements with [[China]] that lasted from the [[Tang dynasty]] to the [[Song dynasty]]. The earliest reference is the account of a Chinese monk, Yijing, who visited for six months in 671. Recent research suggests it was primarily a land-based polity, with fleets serving as logistical support. The kingdom may have disintegrated after 1025 following Chola raids on its ports. It was largely forgotten until the French historian George Cœdès formally postulated its existence in 1918.
+
+=== KEY: St_Augustine_Florida_8af18b
+HEADWORD: St. Augustine
+PERSON: no
+LINK TARGETS: County (United States) | Florida
+ENTRY:
+City (pop., 2020: 14,329) and [[County (United States)|county]] seat of St. Johns County, on the Atlantic coast of northeastern [[Florida]]. Founded on September 8, 1565, by Spanish admiral Pedro Menéndez de Avilés, it is the oldest continuously inhabited European-established settlement in the contiguous United States. It was the capital of Spanish Florida for over 200 years and of British East Florida from 1763. The 17th-century Castillo de San Marcos and St. George Street, with over 30 historic houses and attractions, draw tourists. It has been a tourist attraction since the late 19th century.
+
+=== KEY: St_Bernard_dog_breed_a77889
+HEADWORD: St. Bernard
+PERSON: no
+LINK TARGETS: Bern | Switzerland
+ENTRY:
+Breed of very large working dog from the Western Alps, bred for rescue work by the hospice of the Great St Bernard Pass on the Italian-Swiss border. [[Switzerland]] is recognized as its country of origin. The hospice acquired its first dogs between 1660 and 1670. The most famous, Barry, reportedly saved somewhere between 40 and 100 lives, and his body is preserved in the Natural History Museum in [[Bern]]. Crossbreeding with Newfoundlands in the 1850s changed the breed's appearance, and its long fur froze in the Alpine snow, reducing its effectiveness as a rescue dog.
+
+=== KEY: St_Elmo_s_fire_7c4989
+HEADWORD: St. Elmo's fire
+PERSON: no
+LINK TARGETS: Benjamin Franklin | Lightning | Plasma (physics) | Thunderstorm
+ENTRY:
+Luminous weather phenomenon in which [[Plasma (physics)|plasma]] is created by a corona discharge from a rod-like object, such as a mast or spire, in an atmospheric electric field. The blue or violet glow, often with a hissing or buzzing sound, is most noticeable during [[Thunderstorm|thunderstorms]]. It is named after St. Erasmus of Formia (St. Elmo), patron saint of sailors, who regarded it with awe and sometimes as a good omen. It can warn of an imminent [[Lightning|lightning]] strike. In 1751, [[Benjamin Franklin]] hypothesized that a pointed iron rod would light up at its tip during a lightning storm.
+
+=== KEY: St_John_s_Newfoundland_and_Labrador_40b718
+HEADWORD: St. John's
+PERSON: no
+LINK TARGETS: American Revolutionary War | Guglielmo Marconi | Seven Years' War | War of 1812
+ENTRY:
+Capital and largest city of Newfoundland and Labrador, Canada, on the eastern tip of the Avalon Peninsula. It spans 446.04 sq km (172.22 sq mi) and is the easternmost city in North America, excluding Greenland. Its name is attributed to a belief that John Cabot sailed into the harbor on the Nativity of John the Baptist, though this is most likely a legend. A Portuguese map of 1519 shows it as São João. The city played a role in the [[Seven Years' War]], the [[American Revolutionary War]] and the [[War of 1812]]. [[Guglielmo Marconi]] received the first transatlantic wireless signal there.
+
+=== KEY: St_Lawrence_River_2f166c
+HEADWORD: St. Lawrence River
+PERSON: no
+LINK TARGETS: Atlantic Ocean | Estuary | Great Lakes | Lake Ontario | Mississippi River | Montreal | Quebec City
+ENTRY:
+Large international river in North America, connecting the [[Great Lakes]] with the [[Atlantic Ocean|North Atlantic]]. It flows northeast from [[Lake Ontario]] to the Gulf of St. Lawrence, through Ontario and Quebec in Canada and New York in the United States, and forms part of the Canada–United States border. As the primary outflow of the Great Lakes Basin, it has the second-highest discharge of any river in North America, after the [[Mississippi River]], and the 16th-highest in the world. Its [[Estuary|estuary]] is often cited by scientists as the largest in the world. The river has long been a transportation route for Indigenous peoples and played a key role in the development of [[Montreal]] and [[Quebec City]]. The name dates from 1604, when Samuel de Champlain recorded it on a map.
+
+=== KEY: St_Lawrence_Seaway_7268e4
+HEADWORD: St. Lawrence Seaway
+PERSON: no
+LINK TARGETS: Atlantic Ocean | Canada | Great Lakes | Lake Erie | Lock (water navigation) | Montreal | St. Lawrence River
+ENTRY:
+System of rivers, locks, canals and channels in eastern [[Canada]] and the northern United States that lets oceangoing vessels travel from the [[Atlantic Ocean|Atlantic]] to the [[Great Lakes]], as far inland as Duluth, Minnesota. It is named for the [[St. Lawrence River]] and legally extends from [[Montreal]] to [[Lake Erie]], including the Welland Canal. Proposals for a binational deep waterway were first made in the 1890s. Canada and the United States jointly built the seaway from 1954 to 1959, and it has since transported over 2.5 billion metric tons of cargo, mainly iron ore, coal, grain and petroleum products. It is administered by the St. Lawrence Seaway Management Corporation in Canada and the Great Lakes St. Lawrence Seaway Development Corporation in the United States. Its [[Lock (water navigation)|locks]] bypass several rapids and dams along the river.
+
+=== KEY: St_Louis_6d25b7
+HEADWORD: St. Louis
+PERSON: no
+LINK TARGETS: Louisiana Purchase | Missouri
+ENTRY:
+Independent city (pop., 2020: 301,578) in [[Missouri]], near the confluence of the Mississippi and Missouri rivers. Founded on February 14, 1764, by French fur traders Gilbert Antoine de St. Maxent, Pierre Laclède and Auguste Chouteau, it was named for King Louis IX of France and became the regional center of the French Illinois Country. The United States acquired it in 1804 as part of the [[Louisiana Purchase]]. A major port on the Mississippi River, it was the fourth-largest city in the country from 1870 until the 1920 census. It separated from St. Louis County in 1877, becoming an independent city. In 1904 it hosted the Louisiana Purchase Exposition, also known as the St. Louis World's Fair, and the Summer Olympics. Its metropolitan area, which extends into Illinois, had an estimated population of over 2.8 million. The 630-foot (192 m) Gateway Arch is among its main attractions.
+
+=== KEY: St_Peter_s_Basilica_cdebd5
+HEADWORD: St. Peter's Basilica
+PERSON: no
+LINK TARGETS: Constantine the Great | Gian Lorenzo Bernini | Michelangelo | Pope | Rome | Saint Peter | Vatican City
+ENTRY:
+Papal basilica of the Italian Renaissance in [[Vatican City]], an enclave within [[Rome]]. Construction of the present church began on April 18, 1506, and was completed on November 18, 1626, replacing an older basilica built in the fourth century by [[Constantine the Great]]. Designed principally by Donato Bramante, [[Michelangelo]] and Carlo Maderno, with the piazza and fittings by [[Gian Lorenzo Bernini]], it is the largest church in the world by interior measure. Catholic tradition holds that it is the burial site of [[Saint Peter]], the first bishop of Rome, and many popes, cardinals and bishops have been buried there since the early Christian period. The [[Pope|pope]] presides over liturgies that draw audiences of 15,000 to over 80,000 people. It is not a cathedral, because it is not the seat of a bishop.
+
+=== KEY: St_phane_Mallarm_4609b6
+HEADWORD: Mallarmé, Stéphane
+PERSON: yes
+LINK TARGETS: Charles Baudelaire | Claude Debussy | Cubism | Maurice Ravel | Rainer Maria Rilke | Surrealism | Symbolism (movement) | W. B. Yeats
+ENTRY:
+French poet and critic, a major figure of [[Symbolism (movement)|Symbolism]]. His work anticipated and inspired [[Cubism]], Futurism, Dadaism and [[Surrealism]]. His early verse owed much to [[Charles Baudelaire]], while his later work explored the relation between content and form, including the arrangement of words and spaces on the page, as in his last major poem, *Un coup de dés jamais n'abolira le hasard* (1897). Because the sound of the words matters as much as their meaning, his poetry is difficult to translate. [[Claude Debussy]]'s *Prélude à l'après-midi d'un faune* (1894) was a free interpretation of his poem *L'après-midi d'un faune* (1876), and [[Maurice Ravel]] set his poems to music in *Trois poèmes de Mallarmé* (1913). He hosted weekly gatherings on Tuesdays at his home on the rue de Rome, known as *les Mardistes*, that included [[W. B. Yeats]] and [[Rainer Maria Rilke]].
+
+=== KEY: Stable_fa3aff
+HEADWORD: Stable
+PERSON: no
+LINK TARGETS: Ancient Egypt | Barn | Horse | Ox | Ramesses II
+ENTRY:
+Building in which working animals, especially [[Horse|horses]] or [[Ox|oxen]], are kept, usually divided into stalls. Stables may also include storage for equipment and feed. The American-style stable, called a [[Barn|barn]], has a door at each end and individual stalls inside. The world's oldest known horse stables, at Pi-Ramesses in Qantir, [[Ancient Egypt]], were established by [[Ramesses II]] (c. 1304–1213 BC). They covered approximately 182,986 square feet and could contain about 480 horses. Free-standing stables began to be built from the 16th century, placed near the house as an indicator of an owner's position in the community. The word is also used for the horses a building contains and, metaphorically, for a group of people under one manager, such as the artists a gallery represents.
+
+=== KEY: Stadium_20eb09
+HEADWORD: Stadium
+PERSON: no
+LINK TARGETS: American football | Ancient Olympic Games | Association football | Baseball | Cricket | Sustainability | Victorian era
+ENTRY:
+Venue for mostly outdoor sports, concerts or other events, consisting of a field or stage surrounded by tiered seating. The word comes from the Greek *stadion*, a length of 600 human feet (180 m). The [[Ancient Olympic Games]] at Olympia originally consisted of a single sprint along one stadion. Greek stadia were built for foot races, while Romans built circuses for horse races and developed the amphitheater for gladiatorial contests. The oldest known stadium was probably built around 2000 BC by the Indus Valley Civilization at Dholavira. The first modern stadiums were built in the late [[Victorian era]], as [[Association football|association football]] and [[Baseball|baseball]] grew in popularity. Most stadiums with a capacity of at least 10,000 are used for association football. Other popular stadium sports include [[American football|gridiron football]], [[Cricket]] and rugby, and many large venues also host concerts. Modern designs increasingly incorporate [[Sustainability|sustainability]] features.
+
+=== KEY: Staff_military_43031e
+HEADWORD: Staff
+PERSON: no
+LINK TARGETS: Logistics | NATO | Napoleon
+ENTRY:
+Group of officers, enlisted personnel and civilians who serve the commander of a division or other large military unit in command and control. Also called a general staff, it plans and analyzes operations, gathers information, and relays, coordinates and supervises the execution of plans and orders, especially in complex, rapidly changing operations. Its functional groups include administration, [[Logistics|logistics]], operations, intelligence and training. A centralized staff gives tighter top-down control but requires a larger headquarters, while a decentralized staff improves situational focus and the speed of local action. Most [[NATO]] nations, including the United States, use the Continental Staff System, which originated with [[Napoleon]]'s military. The Commonwealth Staff System, used by most of the Commonwealth, has its origin in the British military.
+
+=== KEY: Stage_theatre_cfa072
+HEADWORD: Stage
+PERSON: no
+LINK TARGETS: Actor | Audience | Theatre
+ENTRY:
+Designated space for the performance of productions in [[Theatre|theater]] and the performing arts, serving as a space for [[Actor|actors]] and a focal point for the [[Audience|audience]]. The most common form in the West since the Italian Renaissance is the proscenium stage, in which the audience views one side through a large opening, the proscenium arch. A thrust stage extends into the audience on three sides, while in theater in the round the audience surrounds the stage on all four sides. Stages may be permanent features or temporary platforms, and may be constructed for a performance or adapted from another space. Stage floors were once raked upward to enhance perspective, but by the end of the 19th century most had level floors. Theaters with rope-operated flying systems, which were operated manually by stagehands, are known as hemp houses.
+
+=== KEY: Stagecraft_7d774c
+HEADWORD: Stagecraft
+PERSON: no
+LINK TARGETS: Christianity | Costume
+ENTRY:
+Technical skill in theatrical, film and video production, including constructing and rigging scenery, hanging and focusing lighting, fabricating [[Costume|costumes]], makeup, stage management, audio engineering and procuring props. Considered a technical rather than artistic field, it is primarily the practical implementation of a scenic designer's vision, and is distinct from the wider umbrella of scenography. One person may run a small production, but a modern Broadway show requires carpenters, painters, electricians, stagehands, stitchers and wigmakers. In ancient Greek theater, the mechane, a crane for lifting actors over the skene, supported the endings of plays in which a god suddenly resolved the storyline; it is the literal source of the phrase deus ex machina. By 1300, liturgical dramas in churches spread the message of [[Christianity]] using mansion stages, small wooden platforms representing places such as Heaven or Hell.
+
+=== KEY: Stainless_steel_649b56
+HEADWORD: Stainless steel
+PERSON: no
+LINK TARGETS: Aluminium | Chemical plant | Chromium | Corrosion | Cutlery | Molybdenum | Nickel | Rust
+ENTRY:
+Iron-based alloy containing at least 10.5% [[Chromium|chromium]], which makes it resistant to [[Rust|rust]] and [[Corrosion|corrosion]]. The chromium forms a passive film that protects the metal and can self-heal in the presence of oxygen. Other elements, such as [[Molybdenum]] and [[Nickel]], may be added to enhance specific properties. Stainless steel is used in [[Cutlery|cutlery]], cookware, surgical instruments, major appliances, vehicles, large buildings and [[Chemical plant|chemical plants]]. Its biological cleanability is superior to copper and [[Aluminium|aluminum]], and comparable to glass, which has led to its use in pharmaceutical and food processing plants. The most common type, 304, has a tensile yield strength of around 210 MPa when annealed, rising to 1,050 MPa when cold worked. Melting points range from 1,325 to 1,530 °C. Martensitic, duplex and ferritic grades are magnetic, while austenitic grades are usually not. Types are labeled with an AISI three-digit number.
+
+=== KEY: Stairs_0b01cc
+HEADWORD: Stairs
+PERSON: no
+LINK TARGETS: Elevator | Ladder
+ENTRY:
+Structure of diagonally arranged horizontal steps that bridges a large vertical distance by dividing it into smaller ones. Alternatives include [[Elevator|elevators]], stairlifts, inclined moving walkways, [[Ladder|ladders]] and ramps. Each step is composed of a tread, the part stepped on, and a riser, the near-vertical element between steps. Stairs may run straight, change direction through 90° landings, or return on themselves with 180° landings, a common arrangement in multistory buildings. The concept is believed to be about 8,000 years old, and the oldest known spiral stairs date to the 400s BC. Standards vary by jurisdiction; the International Building Code requires uniform riser heights of 4 to 7 inches (102–178 mm).
+
+=== KEY: Stalker_1979_film_e8c350
+HEADWORD: Stalker
+PERSON: no
+LINK TARGETS: Andrei Tarkovsky
+ENTRY:
+1979 Soviet post-apocalyptic drama film directed by [[Andrei Tarkovsky]], loosely based on the 1972 novel *Roadside Picnic* by Arkady and Boris Strugatsky. A guide known as the Stalker leads a writer and a professor through a hazardous wasteland, the Zone, to a Room said to grant the innermost desires of anyone who enters. The film was shot over a year on film stock later found to be unusable and was almost entirely reshot. Released in May 1979, it received praise in the Soviet and Warsaw Pact press but only mixed reviews in the West.
+
+=== KEY: Stan_Lee_f074ae
+HEADWORD: Lee, Stan
+PERSON: yes
+LINK TARGETS: Hulk | Iron Man | Jack Kirby | Marvel Comics | Spider-Man | X-Men
+ENTRY:
+American comic book writer, editor, publisher and producer, who was the primary creative leader of [[Marvel Comics]] for two decades. He rose through the ranks of Timely Comics, the family-run business that later became Marvel. With [[Jack Kirby]] and Steve Ditko, he co-created characters including [[Spider-Man]], the [[X-Men]], [[Iron Man]], Thor, the [[Hulk]], Ant-Man, the Fantastic Four, Black Panther and Doctor Strange. Introduced in the 1960s, these characters pioneered a more naturalistic approach in superhero comics. In the 1970s he challenged the restrictions of the Comics Code Authority. After retiring from Marvel in the 1990s, he remained its public figurehead, making cameo appearances in films based on Marvel properties. He received an executive producer credit on them, which made him the actor with the highest-grossing film total ever.
+
+=== KEY: Stand_up_comedy_ef84b3
+HEADWORD: Stand-up comedy
+PERSON: no
+LINK TARGETS: COVID-19 pandemic | Magic (illusion) | Mark Twain | Satire | Vaudeville
+ENTRY:
+Art form in which a comic delivers humorous and satirical monologues on stage to a live audience, often interacting with the crowd. Routines consist of one-liners, stories, observations and shticks, and may employ props, music, impressions or [[Magic (illusion)|magic tricks]]. Stand-up draws on popular entertainments including [[Vaudeville]], minstrel shows, dime museums and humorist monologues such as [[Mark Twain]]'s 1866 touring show *Our Fellow Savages of the Sandwich Islands*. Charles Farrar Browne, known as Artemus Ward, is considered America's first stand-up comedian. Common genres include observational, anecdotal, deadpan, topical and [[Satire|satire]]. Performances take place in comedy clubs, festivals, bars, colleges and theaters, and during the [[COVID-19 pandemic]] comics performed by video conferencing and on social media.
+
+=== KEY: Standard_Model_18bbbd
+HEADWORD: Standard Model
+PERSON: no
+LINK TARGETS: CERN | Dark matter | Elementary particle | Fermion | Gravity | Higgs boson | Lepton | Quark
+ENTRY:
+Theory of particle physics describing the electromagnetic, weak, and strong interactions and classifying all known [[Elementary particle|elementary particles]]. It excludes [[Gravity|gravity]], the fourth known fundamental force. The model was developed in stages during the latter half of the 20th century, and its current formulation was finalized in the mid-1970s when the existence of [[Quark|quarks]] was confirmed experimentally. The top quark (1995), the tau neutrino (2000), and the [[Higgs boson]] (2012) were confirmed later.
+
+Key steps included Paul Dirac's 1928 equation, which implied antimatter; the 1954 extension of gauge theory to nonabelian groups by Yang Chen-Ning and Robert Mills; Chien-Shiung Wu's 1957 demonstration that parity is not conserved in the weak interaction; the introduction of quarks by Murray Gell-Mann and George Zweig in 1964; and the incorporation of the Higgs mechanism into Sheldon Glashow's electroweak theory by Steven Weinberg and Abdus Salam in 1967. Neutral weak currents were discovered at [[CERN]] in 1973, and the W and Z bosons in 1983. Glashow, Salam, and Weinberg shared the 1979 Nobel Prize in Physics.
+
+The model includes 12 matter particles of spin 1/2, the [[Fermion|fermions]], divided into six quarks and six [[Lepton|leptons]] in three generations. Forces are carried by bosons: the photon, eight gluons, and the W and Z bosons. The Higgs boson was observed on July 4, 2012, by the ATLAS and CMS experiments at the Large Hadron Collider.
+
+The model remains incomplete. It does not incorporate gravitation as described by general relativity, explain the excess of matter over antimatter, or contain a viable [[Dark matter|dark matter]] particle. Without modification it also lacks neutrino masses and oscillation.
+
+=== KEY: Standard_Oil_ca8096
+HEADWORD: Standard Oil
+PERSON: no
+LINK TARGETS: John D. Rockefeller
+ENTRY:
+Petroleum trust (1882–1911) that held a near monopoly on the U.S. oil industry from 1899. Standard Oil Company (Ohio) was founded in 1870 by [[John D. Rockefeller]] and associates, and grew through acquisitions and discounted railroad freight rates. In 1882 its holdings were pooled into a trust of 40 companies valued at $70 million and managed by nine trustees. In 1899 Standard Oil Company of New Jersey became the holding company for the trust and the largest corporation in the United States. In *Standard Oil Co. of New Jersey v. United States* (1911), the Supreme Court found it guilty of anticompetitive practices and ordered it broken up. The severed companies had a net value of $375 million, 57 percent of Jersey Standard's value. Jersey Standard, renamed Exxon in 1973 and ExxonMobil in 1999, remained one of the largest public oil companies. Reporting by Ida Tarbell contributed to the charges.
+
+=== KEY: Standard_atmosphere_unit_1bd240
+HEADWORD: Standard atmosphere
+PERSON: no
+LINK TARGETS: Chemistry | Sea level
+ENTRY:
+Unit of pressure (symbol atm) defined as 101325 Pa, approximately equal to Earth's average atmospheric pressure at [[Sea level|sea level]]. Originally defined as the pressure exerted by a 760 mm column of mercury at 0 °C under standard gravity, it was adopted for general use by the 10th General Conference on Weights and Measures in 1954, defined independently of any particular substance. In [[Chemistry|chemistry]], the International Union of Pure and Applied Chemistry recommended in 1982 a standard pressure of exactly 100 kPa (1 bar) for specifying the physical properties of substances. One standard atmosphere equals 760 mmHg, 29.92 inHg and 2116.22 pounds-force per square foot.

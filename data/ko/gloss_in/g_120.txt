@@ -1,0 +1,755 @@
+=== KEY: Schleswig_Holstein_b20684
+HEADWORD: Schleswig-Holstein
+PERSON: no
+LINK TARGETS: Denmark | Hamburg | Kiel Canal
+ENTRY:
+Coastal state of northern Germany, the northernmost of its sixteen states, comprising most of the historical Duchy of Holstein and the southern part of the former Duchy of Schleswig. Its capital is Kiel, and it borders [[Denmark|Denmark]] and the city-state of [[Hamburg|Hamburg]]. The Danish king ruled both duchies from 1460, and the resulting dispute became known as the Schleswig-Holstein Question. Prussia and Austria won the Second Schleswig War in 1864, and Prussia absorbed the territory in 1867. Plebiscites in 1920 returned Danish-speaking North Schleswig to Denmark. Its economy includes shipbuilding and trade around the [[Kiel Canal|Kiel Canal]], fishing, and offshore wind energy.
+
+=== KEY: School_955cd8
+HEADWORD: School
+PERSON: no
+LINK TARGETS: Education | Latin | Middle Ages | University
+ENTRY:
+Institution designed to provide learning environments for the teaching of students, usually under the direction of teachers. Most countries have formal [[Education|education]] systems, sometimes compulsory, in which students progress through government or private schools. These generally include primary school for young children and secondary school for teenagers; higher education is commonly taught at a [[University|university]] or college. Private schools may be religious, such as the gurukula (Hindu), madrasa (Arabic), hawza (Shi'i Muslim), and yeshiva (Jewish). Homeschooling and distance education take place outside the school building.
+
+The word derives from Greek *scholē*, originally "leisure." Formal schools have existed at least since ancient Greece, Rome, India, and China. In Western Europe cathedral schools were founded in the early Middle Ages to teach future clergy and administrators; the oldest still operating include The King's School, Canterbury (established AD 597). Universities emerged in the 12th century. During the [[Middle Ages]] and much of the early modern period, the main purpose of schools was to teach [[Latin]], giving rise to the term "grammar school." The curriculum gradually broadened to include vernacular literacy and technical, artistic, and scientific subjects. In the Islamic world, mosques at first combined worship and learning, but by the 9th century the madrasa, independent of any mosque, had appeared. Denmark-Norway introduced obligatory attendance in 1739–41.
+
+Proponents regard schools as effective means of education. Critics argue that they fail to prepare students for adult life, prescribe what students do and when, and, through grades and homework, inhibit natural curiosity and creativity. Compulsory attendance now lasts from 9 to 13 years in nearly all countries, yet approximately 250 million children remain out of school.
+
+=== KEY: Schr_dinger_equation_a4388a
+HEADWORD: Schrödinger equation
+PERSON: no
+LINK TARGETS: Dirac equation | Erwin Schrödinger | Louis de Broglie | Paul Dirac | Richard Feynman | Special relativity | Wave function | Werner Heisenberg
+ENTRY:
+Partial differential equation governing the [[Wave function|wave function]] of a non-relativistic quantum-mechanical system. Austrian physicist [[Erwin Schrödinger]] postulated it in 1925 and published it in 1926. It is the quantum counterpart of Newton's second law in classical mechanics, giving the evolution over time of the wave function of an isolated system. Schrödinger built on [[Louis de Broglie]]'s proposal that all matter has an associated matter wave, and the equation predicted the bound states of the atom in agreement with experiment. Because it contains a first derivative in time and a second in space, it is non-relativistic. [[Paul Dirac]] later combined [[Special relativity|special relativity]] and quantum mechanics in the [[Dirac equation]]. Other formulations include matrix mechanics, introduced by [[Werner Heisenberg]], and the path integral formulation, developed chiefly by [[Richard Feynman]].
+
+=== KEY: Schr_dinger_s_cat_424d8b
+HEADWORD: Schrödinger's cat
+PERSON: no
+LINK TARGETS: Albert Einstein | Erwin Schrödinger | Niels Bohr | Quantum superposition | Werner Heisenberg
+ENTRY:
+Thought experiment in quantum mechanics devised by physicist [[Erwin Schrödinger]] in 1935, in discussion with [[Albert Einstein]]. A cat in a sealed box, linked to a random subatomic event, may be considered simultaneously alive and dead while unobserved. Schrödinger intended it to criticize the views of [[Niels Bohr]] and [[Werner Heisenberg]], which he saw as leading to absurd conclusions. It is often used to discuss the measurement problem, which asks when a [[Quantum superposition|superposition]] ends and reality resolves into one outcome. Superposition has been observed in very small objects, but a cat would pose considerable technical difficulties.
+
+=== KEY: Schutzstaffel_48a5a2
+HEADWORD: Schutzstaffel
+PERSON: no
+LINK TARGETS: Adolf Hitler | Heinrich Himmler | Nazi Party | Nuremberg trials | The Holocaust
+ENTRY:
+Paramilitary organization under [[Adolf Hitler]] and the [[Nazi Party]] in Nazi Germany and German-occupied Europe. It began as a small guard unit in Munich. [[Heinrich Himmler]] joined in 1925 and directed it from 1929 to 1945, when it became the foremost agency of security and terror. Its Allgemeine SS enforced racial policy, and the Waffen-SS was its combat arm. Its Death's Head units ran the concentration and extermination camps, and the SS was most responsible for the genocide of an estimated 6 million Jews during the [[The Holocaust|Holocaust]]. The [[Nuremberg trials|Nuremberg tribunal]] later judged the SS and the Nazi Party to be criminal organizations.
+
+=== KEY: Schwarzschild_radius_e31828
+HEADWORD: Schwarzschild radius
+PERSON: no
+LINK TARGETS: Black hole | Einstein field equations | Gravitational constant | Speed of light
+ENTRY:
+Parameter in the Schwarzschild solution to [[Einstein field equations|Einstein's field equations]] that corresponds to the radius of a black hole's event horizon, given by rₛ = 2GM/c², where G is the [[Gravitational constant|gravitational constant]], M the mass and c the [[Speed of light|speed of light]]. German astronomer Karl Schwarzschild calculated the solution in 1916. Every mass has a Schwarzschild radius, which is proportional to the mass. The Sun's is about 3.0 km (1.9 mi), Earth's about 9 mm (0.35 in) and the Moon's about 0.1 mm (0.004 in). An object whose radius is smaller than its Schwarzschild radius is a [[Black hole|black hole]].
+
+=== KEY: Sciatica_175018
+HEADWORD: Sciatica
+PERSON: no
+LINK TARGETS: Pregnancy | Surgery
+ENTRY:
+Pain going down the leg from the lower back. About 90% of cases are due to a spinal disc herniation pressing on a lumbar or sacral nerve root. Other causes include spondylolisthesis, spinal stenosis, piriformis syndrome, pelvic tumors and [[Pregnancy|pregnancy]]. Imaging is usually unnecessary unless bowel or bladder function is affected. In about 90% of cases, symptoms resolve in less than six weeks. Initial treatment is usually pain medication, although evidence for its effectiveness is lacking. If severe pain lasts more than six weeks, [[Surgery|surgery]] may be an option, but its long-term benefits are unclear.
+
+=== KEY: Science_35bf12
+HEADWORD: Science
+PERSON: no
+LINK TARGETS: Islamic Golden Age | Natural philosophy | Natural science | Nobel Prize | Scientific Revolution | Scientific method | Social science | Thales of Miletus
+ENTRY:
+Systematic discipline that builds and organizes knowledge in the form of testable explanations about nature and society. It is driven by the [[Scientific method|scientific method]], an empirical cycle that typically involves making observations, producing hypotheses, testing them with evidence, and drawing conclusions. Science encompasses both this process and the body of knowledge it produces, which the scientific community continuously challenges, validates, and organizes.
+
+Modern science is typically divided into two major branches: the [[Natural science|natural sciences]], which study the physical world, and the [[Social science|social sciences]], which study individuals and societies. Logic, mathematics, and theoretical computer science, sometimes called the formal sciences, are typically regarded as separate because they rely on deductive reasoning rather than the scientific method. Applied sciences, such as engineering and medicine, use scientific knowledge for practical purposes.
+
+The word has been used in English since the 14th century in the sense of "the state of knowing," borrowed from Anglo-Norman and ultimately from Latin *scientia*, 'knowledge, awareness, understanding.' Scientists were once called "natural philosophers"; in 1834 William Whewell introduced the term *scientist*, crediting it to "some ingenious gentleman," possibly himself.
+
+Science has no single origin; scientific thinking emerged gradually over tens of thousands of years. Direct evidence becomes clearer with the writing systems of the Bronze Age civilizations of Egypt and Mesopotamia (c. 3000–1200 BC), whose contributions to mathematics, astronomy, and medicine later entered Greek and medieval science. The Egyptians developed a non-positional decimal numbering system, used geometry, and devised a calendar. The Mesopotamians used knowledge of natural chemicals to manufacture pottery, glass, soap, and metals.
+
+In classical antiquity there was no real analogue of the modern scientist; educated, usually upper-class men investigated nature as time allowed. The Milesian school, founded by [[Thales of Miletus]], first attempted to explain natural phenomena without relying on the supernatural. Leucippus and his student Democritus developed the theory of atoms, and Hippocrates established the tradition of systematic medical science. Greek [[Natural philosophy|natural philosophy]] was later advanced during the [[Islamic Golden Age]], which, with the Golden Age of India, contributed the Hindu–Arabic numeral system.
+
+The recovery of Greek works and Islamic inquiries in Western Europe during the Renaissance revived natural philosophy, which the [[Scientific Revolution]], beginning in the 16th century, transformed. In the 19th century the institutional and professional features of science took shape, and "natural philosophy" gave way to "natural science." Contemporary research is often collaborative, carried out in universities, research institutions, government agencies, and companies, though major advances are also credited to individuals and recognized through awards such as the [[Nobel Prize]]. The replication crisis, in which results in fields such as psychology and biomedicine have repeatedly failed to reproduce, has prompted calls for preregistration and open data.
+
+=== KEY: Science_fiction_0e1852
+HEADWORD: Science fiction
+PERSON: no
+LINK TARGETS: Cyberpunk | H. G. Wells | Jules Verne | Mary Shelley | Space exploration | Technology
+ENTRY:
+Genre of speculative fiction that imagines advanced and futuristic changes in [[Technology|technology]], scientific knowledge or biological systems. Its common elements have grown from [[Space exploration|space exploration]], extraterrestrial life and time travel to parallel universes, dystopian societies, information technology and transhumanism. Subgenres include hard science fiction, which emphasizes scientific accuracy, space opera, and [[Cyberpunk|cyberpunk]], which explores the interface between technology and society. Precedents are claimed from antiquity, but the modern genre arose in the 19th and early 20th centuries. [[Mary Shelley]]'s *Frankenstein*, written in 1818, is often credited as the first true science fiction novel. [[Jules Verne]] and [[H. G. Wells]] were pivotal figures. The Golden Age of the 20th century added space operas, dystopian literature and pulp magazines. The genre has also influenced film and television, and it can criticize present-day society while inspiring a sense of wonder.
+
+=== KEY: Science_journal_f3071c
+HEADWORD: Science
+PERSON: no
+LINK TARGETS: Academic journal | Albert Einstein | Alexander Graham Bell | Edwin Hubble | Thomas Edison
+ENTRY:
+Weekly peer-reviewed [[Academic journal|academic journal]] of the American Association for the Advancement of Science (AAAS), first published in 1880. Based in the District of Columbia, with a second office in Cambridge, England, it has a subscriber base of around 130,000 and an estimated readership of over 400,000. Unlike most scientific journals, *Science* and its rival *Nature* cover the full range of scientific disciplines. Its 2024 impact factor was 45.8, and fewer than 7% of submitted articles are accepted. It was founded by John Michels with financial support from [[Thomas Edison]] and [[Alexander Graham Bell]], and ended publication in March 1882. It became the journal of the AAAS in 1900. Early papers included work by [[Albert Einstein]] on gravitational lensing and by [[Edwin Hubble]] on spiral nebulae.
+
+=== KEY: Scientific_American_cb1da7
+HEADWORD: Scientific American
+PERSON: no
+LINK TARGETS: Albert Einstein | Nikola Tesla | Nobel Prize
+ENTRY:
+American popular science magazine, the oldest continuously published magazine in the United States. It was founded in 1845 by inventor and publisher Rufus Porter as a four-page weekly newspaper, and its early issues reported on patents and inventions. Scientists including [[Albert Einstein]] and [[Nikola Tesla]] once contributed articles, and more than 150 [[Nobel Prize]] winners have been featured since its inception. It became a monthly in 1921. After World War II it was revived in 1948 by three partners who bought its assets. Under editor in chief Laura Helmuth, hired in 2020, it shifted toward politics. Owned by Springer Nature until June 2026, it was sold that month to LabX Media Group.
+
+=== KEY: Scientific_Revolution_70305a
+HEADWORD: Scientific Revolution
+PERSON: no
+LINK TARGETS: Andreas Vesalius | Francis Bacon | Galileo Galilei | Isaac Newton | Nicolaus Copernicus | Tycho Brahe
+ENTRY:
+Emergence of modern science in Europe during the 16th and 17th centuries. It was an irreversible break with the natural philosophy that preceded it. The "New Science" departed from Greek conceptions and traditions, was more mechanistic in its worldview and more integrated with mathematics, and focused on acquiring and interpreting new evidence.
+
+The period is frequently said to have begun in 1543 with the printing of *De humani corporis fabrica* by [[Andreas Vesalius]] and *De Revolutionibus* by [[Nicolaus Copernicus]]; other historians propose 1572, when [[Tycho Brahe]] observed a supernova. It is said to have culminated in 1687 with [[Isaac Newton]]'s *Philosophiæ Naturalis Principia Mathematica*. Johannes Kepler's laws of planetary motion, Robert Hooke's *Micrographia* (1665), the founding of the Royal Society of London (1660) and the French Academy of Sciences (1666), and the launch of *Philosophical Transactions* (1665), the first scientific journal, belong to the same period.
+
+Much of the change in attitude is credited to [[Galileo Galilei]], whose telescopic observations provided persuasive evidence for heliocentrism and who developed the science of motion, and to [[Francis Bacon]], whose announcement of scientific progress inspired societies such as the Royal Society.
+
+The revolution built on earlier learning: translations from Greek and Arabic into Latin, begun in the 10th century and accelerating in the 12th and 13th, together with the medieval university, supplied its foundation. Copernicus, Galileo, Kepler, and Newton all studied at universities founded in the High Middle Ages.
+
+The term was popularized by the historian Herbert Butterfield in *Origins of Modern Science*. David Wootton calls the period the most important transformation in human history since the Neolithic Revolution.
+
+=== KEY: Scientific_law_727bad
+HEADWORD: Scientific law
+PERSON: no
+LINK TARGETS: Hooke's law | Newton's law of universal gravitation | Ohm's law | Theory
+ENTRY:
+Statement based on repeated experiments or observations that describes or predicts a range of natural phenomena. Laws are developed from data, are often expressed mathematically, and are directly or indirectly based on empirical evidence. Unlike a [[Theory|scientific theory]], a law does not posit a mechanism; it summarizes results within a certain range of application. [[Ohm's law]] applies only to linear networks, [[Newton's law of universal gravitation|Newton's law of gravitation]] only in weak gravitational fields, and [[Hooke's law]] only to strain below the elastic limit. Many laws take equation form, such as the law of conservation of energy, written ΔE = 0. Laws may be contradicted, restricted or extended by future observations. They differ from hypotheses, which have not been verified to the same degree.
+
+=== KEY: Scientific_method_fb3b59
+HEADWORD: Scientific method
+PERSON: no
+LINK TARGETS: Empiricism | Experiment | Francis Bacon | Hypothesis | Ibn al-Haytham | René Descartes | Scientific Revolution
+ENTRY:
+Empirical method of acquiring knowledge through careful observation, skepticism, hypothesis testing, and experimental validation. Developed from ancient and medieval practices, it acknowledges that cognitive assumptions can distort the interpretation of observations. It has characterized science since at least the 17th century.
+
+Inquiry typically involves forming a testable [[Hypothesis|hypothesis]] through inductive reasoning, predicting its consequences, testing it through [[Experiment|experiments]] and statistical analysis, and adjusting or discarding it according to the results. A hypothesis must be falsifiable: some possible outcome must conflict with its predictions. Although often presented as a fixed sequence of steps, the method is better described as a set of general principles; not all steps occur in every inquiry or in the same order, and chance has played a role in some discoveries.
+
+Early expressions of [[Empiricism|empiricism]] appear with the ancient Stoics, Aristotle, Epicurus, [[Ibn al-Haytham|Alhazen]], Avicenna, Al-Biruni, Roger Bacon, and William of Ockham. During the [[Scientific Revolution]], [[Francis Bacon]] and Robert Hooke furthered empiricism, [[René Descartes]] described a rationalist approach, and inductivism rose to prominence through Isaac Newton and his followers. The term "scientific method" emerged in the 19th century, as institutional development of science and words such as "scientist" and "pseudoscience" drew boundaries between science and non-science.
+
+By the 1960s and 1970s, philosophers of science such as Thomas Kuhn and Paul Feyerabend had questioned its universality, favoring a view of science as a heterogeneous and local practice. In *Against Method* (1975), Feyerabend argued against any universal rules of science; Karl Popper and others disagreed. Lee Smolin's 2013 essay "There Is No Scientific Method" and Daniel Thurs's 2015 chapter, which called it a myth or at best an idealization, show that the debate continues.
+
+=== KEY: Scientific_modelling_20a8c7
+HEADWORD: Scientific modeling
+PERSON: no
+LINK TARGETS: Abstraction | John von Neumann
+ENTRY:
+Activity of producing models of empirical objects, phenomena and physical processes, to make part of the world easier to understand, quantify, visualize or simulate. It requires selecting the relevant features of a real situation and building a model that replicates them. Conceptual, operational, mathematical, computational and graphical models serve different purposes. Models are typically used when direct experimental measurement is impossible or impractical, although direct measurement under controlled conditions is more reliable. [[John von Neumann]] wrote that the sciences mainly make models, justified if they are expected to describe phenomena from a reasonably wide area. A model is task-driven, leaving out details unimportant to the task and [[Abstraction|abstracting]] others. Scientific debate often concerns which model is better for a given task, such as seasonal climate forecasting.
+
+=== KEY: Scientific_notation_81aa2e
+HEADWORD: Scientific notation
+PERSON: no
+LINK TARGETS: Calculator
+ENTRY:
+Way of expressing numbers too large or too small to write conveniently in decimal form, as a coefficient multiplied by a power of ten. In normalized form, the coefficient is usually between 1 and 10 in absolute value and the exponent is an integer, so 350 is written as 3.5 × 10². It is also called scientific form, or standard form in the United Kingdom. Scientists, mathematicians and engineers use it widely, partly because it simplifies arithmetic and comparison of magnitudes. Engineering notation restricts the exponent to multiples of three to match SI prefixes, so 12.5 × 10⁻⁹ m can be written as 12.5 nm. [[Calculator|Calculators]] and computer programs typically display it in E notation, and decimal floating point is closely related.
+
+=== KEY: Scientific_theory_a7e813
+HEADWORD: Scientific theory
+PERSON: no
+LINK TARGETS: Fact | Plate tectonics | Scientific law | Scientific method
+ENTRY:
+Explanation of an aspect of the natural world that has been repeatedly tested and corroborated in accordance with the [[Scientific method|scientific method]]. A theory connects and explains multiple observations, and it is expected to make predictions that further observations could confirm or refute. A [[Fact|fact]] is a single observation, while a theory differs from a [[Scientific law|law]], which describes a relationship without explaining it. In everyday speech a theory can mean an unsubstantiated guess, but in science it usually refers to a well-tested explanation. A theory's strength depends on the diversity of phenomena it explains and its simplicity, and it may be modified or rejected if it cannot fit new findings. Some, such as evolution, heliocentric theory and [[Plate tectonics|plate tectonics]], are so well established that they are unlikely to change fundamentally. Hypotheses are said to be supported rather than proven.
+
+=== KEY: Scientology_34154e
+HEADWORD: Scientology
+PERSON: no
+LINK TARGETS: Cult | L. Ron Hubbard | Religion
+ENTRY:
+Belief system and practices created by American author [[L. Ron Hubbard|L. Ron Hubbard]]. Hubbard presented his ideas in 1950 as a talk therapy called Dianetics, later reframed them as a religion, and in 1953 founded the Church of Scientology. A core belief is that traumatic events leave subconscious recordings that can be relieved only through auditing, for which fees are charged. Advancement through levels such as Clear and Operating Thetan is structured. By one 2014 estimate the church had around 30,000 members. It has been described variously as a [[Religion|religion]], a [[Cult|cult]], a business and a scam.
+
+=== KEY: Scipio_Africanus_c998c4
+HEADWORD: Scipio Africanus
+PERSON: yes
+LINK TARGETS: Battle of Cannae | Cato the Elder | Hannibal | Iberian Peninsula
+ENTRY:
+Roman general and statesman, one of the main architects of Rome's victory over Carthage in the Second Punic War. Born into a patrician family, he survived the Roman defeat at [[Battle of Cannae|Cannae]] in 216 BC. In 210 BC, although he had never held consular office, he was elected to command Rome's forces in [[Iberian Peninsula|Hispania]], where he won at Ilipa in 206 BC. Elected consul in 205 BC, he invaded Carthage's African homeland, compelling Carthage to recall [[Hannibal]]. His victory over Hannibal at Zama in 202 BC ended the war and earned him the epithet Africanus, meaning "the African". Despite his triumphs he had many political opponents, notably [[Cato the Elder]]. In 187 BC he and his brother faced trials for bribes allegedly received from the Seleucid king Antiochus III, after which he left Rome for his villa at Liternum.
+
+=== KEY: Scissors_282041
+HEADWORD: Scissors
+PERSON: no
+LINK TARGETS: Bone | Meat | Spring (device) | Tendon | Tissue (biology) | Tool
+ENTRY:
+Hand-operated cutting [[Tool|tool]] made of two pivoting blades whose sharpened edges slide past each other when the handles are squeezed. Scissors cut thin materials such as paper, cardboard, cloth, rope and wire. Heavy-duty scissors for tough materials are usually called shears, and larger two-handed implements are called trimmers. The right type matters: hair-cutting shears have blade angles suited to heaped bundles of hair, while kitchen shears are designed for tough foods such as [[Meat|meat]], [[Tendon|tendon]] and [[Bone|bone]]. Surgical scissors divide [[Tissue (biology)|tissue]] and trim implants. Most have ringed handles, and some have a [[Spring (device)|spring]] between the blades to assist opening. Pivoted scissors became common in northwest Europe during the 13th and 14th centuries, and the Hangzhou Zhang Xiaoquan Company has made them since 1663.
+
+=== KEY: Scoliosis_885ec0
+HEADWORD: Scoliosis
+PERSON: no
+LINK TARGETS: Cerebral palsy | Puberty | X-ray
+ENTRY:
+Medical condition in which the spine has an irregular, usually S- or C-shaped curve in the coronal plane, often with rotation. Mild curves rarely cause problems, but severe cases can affect breathing and movement. The cause is usually unknown, with genetic and environmental factors believed to contribute. It often appears during growth spurts before [[Puberty|puberty]] and can also result from [[Cerebral palsy|cerebral palsy]]. Diagnosis is confirmed with [[X-ray|X-rays]]. Minor curves are watched, while bracing, exercise or surgery may be used. It occurs in about 3% of people, most commonly between ages ten and twenty, and affects females more severely, at a ratio of 4:1.
+
+=== KEY: Scooby_Doo_627acf
+HEADWORD: Scooby-Doo
+PERSON: no
+LINK TARGETS: CBS | Cartoon Network | Hanna-Barbera | The CW
+ENTRY:
+American media franchise created in 1969 by Joe Ruby and Ken Spears for [[Hanna-Barbera]], with the animated series *Scooby-Doo, Where Are You!* It follows four teenagers and their talking Great Dane, who solve mysteries involving supposedly supernatural creatures while traveling in a van called the Mystery Machine. The original series aired on [[CBS|CBS]] from 1969 to 1976, then on ABC. Later reboots appeared on [[Cartoon Network|Cartoon Network]], and two aired on Kids' WB on The WB and its successor [[The CW|The CW]]. Hanna-Barbera was absorbed into Warner Bros. Animation in 2001. In 2013, TV Guide ranked the series the fifth-greatest TV cartoon of all time.
+
+=== KEY: Scopolamine_77013c
+HEADWORD: Scopolamine
+PERSON: no
+LINK TARGETS: Anesthesia | Glaucoma | Solanaceae | Surgery
+ENTRY:
+Tropane alkaloid and muscarinic antagonist, also known as hyoscine, used to treat motion sickness and postoperative nausea and vomiting. It is sometimes given before [[Surgery|surgery]] to reduce saliva. When injected, its effects begin after about 20 minutes and last up to eight hours. It is the main active component of certain [[Solanaceae|nightshade]] plants, which have been used as deliriants, since higher doses cause hallucinations. Scopolamine was first described in 1881 and came into use for [[Anesthesia|anesthesia]] around 1900. It is not recommended in people with angle-closure [[Glaucoma|glaucoma]] or bowel obstruction.
+
+=== KEY: Scorpaeniformes_da669c
+HEADWORD: Scorpaeniformes
+PERSON: no
+LINK TARGETS: Actinopterygii | Lionfish
+ENTRY:
+Diverse order of [[Actinopterygii|ray-finned fishes]], including the stonefish, [[Lionfish|lionfish]] and sculpins, with over 1,320 species, making it one of the five largest orders of bony fishes. They are known as mail-cheeked fishes because a bony suborbital stay extends across the cheek to the preoperculum. Most are carnivorous bottom-dwellers in shallow water that feed on crustaceans and smaller fish, although some live in deep or fresh water. Most species are under 30 cm (12 in) long, but the skilfish can reach 183 cm (6.00 ft). Classification is unsettled, with accounts ranging from 26 to 35 families. The suborder Scorpaenoidei includes the sea robins and the scorpionfishes, which, according to Minouri Ishida's 1994 work and recent studies, have twelve families.
+
+=== KEY: Scorpion_5d0f52
+HEADWORD: Scorpion
+PERSON: no
+LINK TARGETS: Antarctica | Arachnid | Insect | Invertebrate | Silurian | Ultraviolet
+ENTRY:
+Predatory [[Arachnid|arachnid]] order with eight legs, a pair of grasping pincers and a narrow, segmented tail ending in a stinger. Scorpions have existed since the [[Silurian|Silurian]] Period, about 430 million years ago, and live on every continent except [[Antarctica|Antarctica]]. Most inhabit deserts, although they have adapted to a wide range of environments. Over 2,500 species are described, in 22 living families. They mainly prey on [[Insect|insects]] and other [[Invertebrate|invertebrates]], restraining prey with their pincers and killing it with venom, though some species hunt vertebrates. All known species give live birth, and mothers carry their young on their backs. Their exoskeletons contain fluorescent chemicals that glow under [[Ultraviolet|ultraviolet]] light. About 25 species have venom capable of killing a human.
+
+=== KEY: Scorpions_band_28595b
+HEADWORD: Scorpions
+PERSON: no
+LINK TARGETS: Fall of the Berlin Wall | Hanover
+ENTRY:
+German hard rock and heavy metal band formed in [[Hanover]] in 1965 by guitarist Rudolf Schenker. Its best-known line-up, from 1978 to 1992, included vocalist Klaus Meine, lead guitarist Matthias Jabs, bassist Francis Buchholz and drummer Herman Rarebell. The band is estimated to have sold more than 100 million records. Its single "Wind of Change" became a symbol of the political changes in Eastern Europe and the [[Fall of the Berlin Wall|fall of the Berlin Wall]], and has sold over 14 million copies. The Scorpions became the first heavy metal band from a non-English-speaking country to achieve international success.
+
+=== KEY: Scorpius_cade02
+HEADWORD: Scorpius
+PERSON: no
+LINK TARGETS: Antares | Milky Way | Nova | Ptolemy | Sagittarius (constellation)
+ENTRY:
+Zodiac constellation in the southern celestial hemisphere, between Libra to the west and [[Sagittarius (constellation)|Sagittarius]] to the east. It sits near the center of the [[Milky Way|Milky Way]], and its recognition predates Greek culture. It is one of the 48 constellations identified by [[Ptolemy|Ptolemy]] in the second century. Its bright stars include [[Antares|Antares]], a reddish star known as "rival of Mars". Messier 4 and Messier 80 are among its globular clusters, and U Scorpii is the fastest known [[Nova|nova]]. In classical myth, the giant scorpion and its enemy Orion became constellations on opposite sides of the sky.
+
+=== KEY: Scotland_da5dd6
+HEADWORD: Scotland
+PERSON: no
+LINK TARGETS: Ben Nevis | Edinburgh | Kingdom of Great Britain | Scottish Gaelic | United Kingdom
+ENTRY:
+Northern constituent country of the [[United Kingdom]] (pop., 2022: 5,436,600). It occupies the northern part of the island of Great Britain and adjacent islands. Its capital is [[Edinburgh]], and Glasgow is the largest city. Scotland borders England to the south, with the Atlantic Ocean to the north and west and the North Sea to the east. The Highlands contain [[Ben Nevis]], at 4,413 feet (1,345 m) the highest peak in the British Isles. The Kingdom of Scotland emerged as a sovereign state in the 9th century and remained independent until 1707, when it united with England to form the [[Kingdom of Great Britain]]. A Scottish Parliament was re-established in 1999 and holds authority over many domestic policies. [[Scottish Gaelic]] is largely spoken in the Hebrides, and its speakers make up less than 2% of the population.
+
+=== KEY: Scots_language_49d52f
+HEADWORD: Scots language
+PERSON: no
+LINK TARGETS: English language | Modern English | Scotland | UNESCO | Ulster
+ENTRY:
+West Germanic language descended from Early Middle English and closely related to [[Modern English]]. It is an official language of [[Scotland]] and is listed by [[UNESCO]] as a vulnerable language. In the 2022 census, 1,508,540 people in Scotland aged three and over reported being able to speak Scots. It is spoken mainly in the Lowlands, the Northern Isles and northern [[Ulster]]. Scholars disagree whether Scots is a dialect of [[English language|English]] or a separate language.
+
+=== KEY: Scott_Joplin_3b88ee
+HEADWORD: Joplin, Scott
+PERSON: yes
+LINK TARGETS: Classical music | Missouri | Pulitzer Prize | Ragtime | Syphilis
+ENTRY:
+American composer and pianist, dubbed the "King of Ragtime." He composed more than 40 ragtime pieces, one ragtime ballet and two operas. His "Maple Leaf Rag" (1899) became the genre's first and most influential hit, selling nearly 500,000 copies over the following decade. Joplin considered [[Ragtime|ragtime]] a form of [[Classical music|classical music]] meant for concert halls. He moved to Sedalia, [[Missouri]], in 1894 and later to St. Louis and New York City. In 1916 he descended into dementia from [[Syphilis|neurosyphilis]]. His music revived in the early 1970s, helped by the Academy Award–winning film *The Sting* (1973), and in 1976 he was posthumously awarded a [[Pulitzer Prize]] for his opera *Treemonisha*.
+
+=== KEY: Scottish_Gaelic_349067
+HEADWORD: Scottish Gaelic
+PERSON: no
+LINK TARGETS: Canada | Irish language | Nova Scotia | Scotland | Scots language
+ENTRY:
+Celtic language native to the Gaels of [[Scotland]], developed from Old Irish and related to [[Irish language|Irish]] and Manx. It became a distinct spoken language in the 13th century. The 2022 census recorded 130,161 people with some skills in Gaelic, of whom 69,701 reported speaking it. A dialect known as Canadian Gaelic has been spoken in [[Canada]] since the 18th century, with a concentration of speakers in [[Nova Scotia]]. The Scottish Languages Act 2025 made Gaelic, alongside [[Scots language|Scots]], an official language of Scotland.
+
+=== KEY: Scottish_Highlands_7b1b77
+HEADWORD: Scottish Highlands
+PERSON: no
+LINK TARGETS: Ben Nevis | British Isles | Scotland | Scottish Gaelic
+ENTRY:
+Historical region of northern [[Scotland]] containing [[Ben Nevis]], the highest mountain in the [[British Isles]]. Its [[Scottish Gaelic]] name, a' Ghàidhealtachd, means "the place of the Gaels." The population density of the Highlands and Islands was 9.1 per sq km (24 per sq mi) in 2012. Emigration exceeded natural population increase for about 160 years from c. 1841. The region has the only boreal forest biome in the British Isles, with concentrated populations of Scots pine.
+
+=== KEY: Scouting_e272fa
+HEADWORD: Scouting
+PERSON: no
+LINK TARGETS: Camping | Fleur-de-lis | Hiking | Uniform
+ENTRY:
+Youth movement popularly established in the first decade of the 20th century, following the Scout method of informal education through outdoor activities such as [[Camping|camping]], woodcraft, aquatics, [[Hiking|hiking]] and sports. A widely recognized characteristic is the Scout [[Uniform|uniform]], which by intent hides differences of social standing and encourages equality. Distinctive insignia include the [[Fleur-de-lis]] and merit badges. Girls-only organizations, whose members are often called Guides, use a trefoil instead. The original program was for youths aged 11 to 17, and younger and older programs also exist. In 2019, over 55 million Scouts and Guides were in at least 155 countries. Robert Baden-Powell tested his ideas at an experimental camp on Brownsea Island in 1907 and published *Scouting for Boys* in 1908.
+
+=== KEY: Scrabble_779338
+HEADWORD: Scrabble
+PERSON: no
+LINK TARGETS: Board game | Dictionary
+ENTRY:
+Crossword-style [[Board game|board game]] for two to four players, who score points by placing letter tiles on a 15×15 grid to form words listed in a standard [[Dictionary|dictionary]]. American architect Alfred Mosher Butts invented it in 1931 as Criss-Crosswords. James Brunot bought the manufacturing rights in 1948, renamed the game Scrabble and licensed it to Selchow and Righter in 1952. About 150 million sets have been sold worldwide, and there are approximately 4,000 Scrabble clubs around the world. An English-language set contains 100 tiles, 98 of them lettered with point values from 1 to 10. Hasbro produces the game in the United States and Canada, and Mattel manufactures it elsewhere.
+
+=== KEY: Scramble_for_Africa_ec24c2
+HEADWORD: Scramble for Africa
+PERSON: no
+LINK TARGETS: Cold War | Ethiopia | Leopold II of Belgium | Liberia | New Imperialism | Otto von Bismarck | Quinine | Second Industrial Revolution
+ENTRY:
+European invasion, conquest, and colonization of most of Africa in the late 19th and early 20th centuries. Seven Western European powers (Belgium, France, Germany, Italy, Portugal, Spain, and the United Kingdom) contended for territory, driven by the [[Second Industrial Revolution]] and the era of "[[New Imperialism]]". The period saw a shift from "informal imperialism", meaning military influence and economic dominance, to direct rule.
+
+As late as the 1870s Europeans controlled approximately 10% of the continent, all of it near the coasts; the main holdings were Angola and Mozambique (Portugal), the Cape Colony (United Kingdom), and Algeria (France). Steamships, railways, and telegraphs aided expansion, and [[Quinine|quinine]] made much of the tropics more accessible. By 1914 only [[Ethiopia]], later occupied by Italy in 1936, and [[Liberia]], which had strong connections with the United States, remained outside European control.
+
+Motives were economic, strategic, and political. Africa offered open markets during the Long Depression (1873–1896) and raw materials such as ivory, rubber, palm oil, cocoa, diamonds, tea, and tin. Britain wanted stopover ports on the route to India. John A. Hobson tied the era to shrinking continental markets, while William Easterly disputes a close link between capitalism and imperialism.
+
+The Berlin Conference of 1884–1885, convened by [[Otto von Bismarck]] after claims in the Congo Basin by [[Leopold II of Belgium]], regulated colonization, requiring "effective occupation", and excluded African representatives. Most colonies gained independence during the [[Cold War]]; in 1964 the Organisation of African Unity chose to keep colonial borders, fearing civil wars and regional instability.
+
+=== KEY: Screw_5fd1a1
+HEADWORD: Screw
+PERSON: no
+LINK TARGETS: Fastener | Screw mechanism
+ENTRY:
+Externally threaded [[Fastener|fastener]] tightened or loosened by torque applied to its head. Most screws hold objects together, and the head usually has a slot or other feature that takes a tool such as a screwdriver. Most screws have a right-hand thread. Left-hand threads are used where counterclockwise torque would loosen a right-hand screw, as on the left pedal of a bicycle. The screw first appeared in Mesopotamia during the Neo-Assyrian period (911–609 BC), and Archytas of Tarentum (428–350 BC) described it in Greece. Metal screws were rare in Europe before the 15th century and became common only after machine tools for mass production developed toward the end of the 18th century. The [[Screw mechanism|screw mechanism]] is one of the six classical simple machines defined by Renaissance scientists.
+
+=== KEY: Screw_mechanism_2d52a1
+HEADWORD: Screw mechanism
+PERSON: no
+LINK TARGETS: Ancient Egypt | Archimedes | Archimedes' screw | Fastener | Galileo Galilei | Inclined plane | Simple machine
+ENTRY:
+Mechanism that converts rotational motion and torque into linear motion and force, one of the six classical [[Simple machine|simple machines]]. Geometrically, a screw is a narrow [[Inclined plane|inclined plane]] wrapped around a cylinder. A smaller pitch gives greater mechanical advantage. Screw mechanisms are used in threaded [[Fastener|fasteners]], screw jacks, vises and screw presses. The [[Archimedes' screw|Archimedes' screw]] is a water pump with a rotating helical chamber. The water screw was first used in [[Ancient Egypt]], before [[Archimedes]] described his pump around 234 BC. In 1600, [[Galileo Galilei]] worked out the complete dynamic theory of simple machines in *Le Meccaniche* ("On Mechanics").
+
+=== KEY: Scroll_105078
+HEADWORD: Scroll
+PERSON: no
+LINK TARGETS: Ancient Egypt | Bamboo | Codex | Israelites | Julius Caesar | Paper | Papyrus | Parchment
+ENTRY:
+Roll of [[Papyrus|papyrus]], [[Parchment|parchment]] or [[Paper|paper]] containing writing, also called a roll. Scrolls were the first form of editable record keeping, used in [[Ancient Egypt]]. Text was written in lines from top to bottom, and the scroll was unrolled one page at a time. Parchment scrolls were used by the [[Israelites]] before the [[Codex|codex]], a folded bound book, became popular around the 1st century AD. Scrolls were more highly regarded than codices until well into Roman times. A Chinese "whirlwind book" consisted of several sheets of paper bound at the top with [[Bamboo|bamboo]] and rolled up. A legend credits [[Julius Caesar]] with folding scrolls into codex form, but the surviving passage is unclear.
+
+=== KEY: Scrotum_cf2763
+HEADWORD: Scrotum
+PERSON: no
+LINK TARGETS: Mammal | Penis | Puberty | Pubic hair | Testicle | Testosterone
+ENTRY:
+External male genitalia of most terrestrial [[Mammal|mammals]], a sac of skin at the base of the [[Penis|penis]]. It contains the [[Testicle|testicles]], epididymides and vasa deferentia, and usually tightens in cold temperatures. The scrotum regulates the temperature of the testicles and maintains it at 35 °C (95 °F). [[Testosterone]] masculinizes the labioscrotal folds into the scrotum during development. At [[Puberty|puberty]], it darkens the scrotal skin and promotes [[Pubic hair|pubic hair]]. The scrotum is homologous to the labia majora in females.
+
+=== KEY: Scuderia_Ferrari_f16bf0
+HEADWORD: Scuderia Ferrari
+PERSON: no
+LINK TARGETS: Enzo Ferrari | Ferrari | Formula One | Michael Schumacher
+ENTRY:
+Racing division of the Italian automaker [[Ferrari]] and its [[Formula One]] team, known as the "Prancing Horse." Founded by [[Enzo Ferrari]] in 1929 to race Alfa Romeo cars, it is the oldest surviving Formula One team and has competed in every World Championship since 1950. It holds the records for 16 Constructors' Championships and 15 Drivers' Championships, the latter won by nine drivers. [[Michael Schumacher]] won five consecutive drivers' titles from 2000 to 2004. The Italian Grand Prix at Monza is regarded as the team's home race.
+
+=== KEY: Sculpture_817e89
+HEADWORD: Sculpture
+PERSON: no
+LINK TARGETS: Ancient Greece | Michelangelo | Middle Ages | Renaissance | Statue of Unity
+ENTRY:
+Branch of the visual arts that operates in three dimensions. Durable sculptural processes originally used carving, the removal of material, and modeling, the addition of material such as clay, in stone, metal, ceramics, wood, and other materials. Since Modernism there has been almost complete freedom of materials and process.
+
+A basic distinction separates sculpture "in the round", which is free-standing, from relief, which is at least partly attached to a background surface. Relief is the usual medium for large figure groups, narrative subjects, and architectural sculpture. The term covers small works such as coins, medals, and figurines (normally no more than 46 cm tall) as well as colossal statues; the largest on record, the Indian [[Statue of Unity]], is 182 m tall.
+
+Sculpture in stone survives far more often than work in perishable materials such as wood, and often forms the majority of surviving works, apart from pottery, of ancient cultures. Sculpture has been central to religious devotion in many cultures, and until recent centuries large sculptures were usually expressions of religion or politics. Public sculpture meant to impress with a ruler's power goes back at least to the Great Sphinx of some 4,500 years ago.
+
+The Western tradition began in [[Ancient Greece]]. During the [[Middle Ages]], Gothic sculpture represented the agonies and passions of the Christian faith. The [[Renaissance]] revived classical models, producing works such as [[Michelangelo]]'s *David*. Modernist sculpture moved away from traditional processes and from depiction of the human body, toward constructed sculpture and found objects presented as finished works.
+
+=== KEY: Scurvy_ffa887
+HEADWORD: Scurvy
+PERSON: no
+LINK TARGETS: Vitamin C | Wound
+ENTRY:
+Deficiency disease caused by a lack of [[Vitamin C]] (ascorbic acid). Early symptoms include weakness, fatigue and sore arms and legs. Untreated, it can cause gum disease, decreased red blood cells and poor [[Wound|wound]] healing. It takes at least a month of little or no vitamin C in the diet before symptoms appear. Humans and a few other species cannot make their own vitamin C. Historically, scurvy killed large numbers of sailors on long sea voyages. In 1747, Scottish physician James Lind showed that citrus fruits could treat it. Treatment is with vitamin C supplements, taken by mouth or given intravenously.
+
+=== KEY: Scutigera_coleoptrata_5547dc
+HEADWORD: Scutigera coleoptrata
+PERSON: no
+LINK TARGETS: Carl Linnaeus | Centipede | Insect | Jean-Baptiste Lamarck | Spider | Venom
+ENTRY:
+Fast-moving [[Centipede|centipede]] species, also known as the house centipede. It is typically yellowish-gray and has up to 15 pairs of long legs. Originating in the Mediterranean region, it has spread to many parts of the world and often lives in and around human homes. It preys on [[Insect|insects]] and [[Spider|spiders]] by envenomating them, and its mild [[Venom|venom]] and small organs of envenomation make it nearly incapable of harming humans. [[Carl Linnaeus]] described it in 1758 as *Scolopendra coleoptrata*, and [[Jean-Baptiste Lamarck]] placed it in the genus *Scutigera* in 1801.
+
+=== KEY: Scythians_d346b6
+HEADWORD: Scythians
+PERSON: no
+LINK TARGETS: Caucasus Mountains | Middle Ages | Nomad | Russia | Sarmatians | Ukraine | West Asia
+ENTRY:
+Ancient Eastern Iranic [[Nomad|nomadic]] equestrian people of the Pontic Steppe, in modern [[Ukraine]] and southern [[Russia]]. They migrated there from Central Asia in the 9th to 8th centuries BC and displaced the Agathyrsi and Cimmerians as the dominant power on the western Eurasian steppe. In the 7th century BC they crossed the [[Caucasus Mountains]] and raided [[West Asia]], until the Medes expelled them in the 6th century BC. Later conquered by the [[Sarmatians]] in the 3rd to 2nd centuries BC, the Scythians were absorbed by successive populations in the early [[Middle Ages]]. Later writers applied the name Scythians to many unrelated steppe peoples.
+
+=== KEY: Sea_Monkeys_bf09bb
+HEADWORD: Sea-Monkeys
+PERSON: no
+LINK TARGETS: Comic book | Genetics | Model organism | Toxicology
+ENTRY:
+Marketing name for brine shrimp (*Artemia*) sold as novelty aquarium pets. Harold von Braunhut developed the product in the United States in 1957 and sold it under the Sea-Monkeys name from 1962. The eggs are most often sold in a kit of three pouches, and the product was heavily advertised in [[Comic book|comic books]] in the 1960s and 1970s. Under ideal home conditions the animals may live up to five years, although they usually live two to three months. Because they are easy to breed, brine shrimp are also widely used as a [[Model organism|model organism]] in research on developmental biology, [[Genetics|genetics]] and [[Toxicology|toxicology]].
+
+=== KEY: Sea_Peoples_1202ad
+HEADWORD: Sea Peoples
+PERSON: no
+LINK TARGETS: Bronze Age | Egypt | Louvre | Ramesses III
+ENTRY:
+Group of tribes that raided [[Egypt]] and other eastern Mediterranean regions around 1200 BC, during the [[Bronze Age]]. The term "Sea Peoples" is a modern coinage and is often considered a misnomer, because most of the groups appear to have traveled by land. The concept originated with 19th-century Egyptologists Emmanuel de Rougé, curator of the [[Louvre]], and Gaston Maspero, who drew on reliefs at the temple of [[Ramesses III]] at Medinet Habu. Early scholars often regarded them as a primary cause of the Bronze Age Collapse, but more recent scholarship views them as refugees fleeing a crisis already under way.
+
+=== KEY: Sea_anemone_84a57f
+HEADWORD: Sea anemone
+PERSON: no
+LINK TARGETS: Clownfish | Cnidaria | Coral | Invertebrate | Jellyfish | Mouth
+ENTRY:
+Predatory marine [[Invertebrate|invertebrate]] of the order Actiniaria, related to [[Coral|corals]] and [[Jellyfish|jellyfish]] in the phylum [[Cnidaria]]. A typical sea anemone is a single polyp with a column topped by an oral disc, a ring of tentacles and a central [[Mouth|mouth]]. Its tentacles carry stinging cells and can be retracted or extended to catch prey. Many species host symbiotic dinoflagellates or algae, and some live alongside [[Clownfish|clownfish]]. Sea anemones release sperm and eggs through the mouth, and the larvae settle to develop into juvenile polyps. They can also reproduce asexually by breaking into pieces that regenerate.
+
+=== KEY: Sea_cucumber_27df5a
+HEADWORD: Sea cucumber
+PERSON: no
+LINK TARGETS: Aquaculture | Connective tissue | Cucumber | Echinoderm
+ENTRY:
+Class of [[Echinoderm|echinoderms]] (Holothuroidea) found on the sea floor worldwide, with about 1,786 known species, most in the Asia–Pacific region. Sea cucumbers are detritivores that break down organic matter and help recycle nutrients in the marine ecosystem. They have leathery skin and an elongated body, and are named for their resemblance to the fruit of the [[Cucumber|cucumber]] plant. Their calcified skeleton is usually reduced to microscopic ossicles joined by [[Connective tissue|connective tissue]]. Many species are harvested as food, and some are cultivated in [[Aquaculture|aquaculture]] systems. They are considered a delicacy in Asian cuisines, where they are called trepang, namako or bêche-de-mer.
+
+=== KEY: Sea_d2379e
+HEADWORD: Sea
+PERSON: no
+LINK TARGETS: Mediterranean Sea | Ocean | Oceanography | Sodium chloride | Tide | Tsunami
+ENTRY:
+Large body of salt water. The term has two meanings: the interconnected body of seawater spanning most of Earth, also called the [[Ocean|ocean]], and a named body of water, usually a marginal sea such as the [[Mediterranean Sea]] or a large, nearly landlocked body. There is no clear distinction between seas and oceans, though seas are generally smaller and often enclosed by land.
+
+Earth's 1,335,000,000 km³ of sea contain about 97.2 percent of its known water and cover approximately 71 percent of its surface. Another 2.15% of Earth's water is frozen. Salinity is lower near the surface and river mouths and higher in the depths, but the relative proportions of dissolved salts vary little. The most abundant is [[Sodium chloride|sodium chloride]].
+
+The sea moderates Earth's climate and plays important roles in the water, carbon, and nitrogen cycles. Deep-sea currents, together called the global conveyor belt, carry cold water from near the poles to every ocean. [[Tide|Tides]], the generally twice-daily rise and fall of sea level, are caused by Earth's rotation and the gravitational effects of the Moon and, to a lesser extent, the Sun. Submarine earthquakes, volcanoes, huge landslides, and large meteorite impacts can cause destructive [[Tsunami|tsunamis]].
+
+Bacteria, protists, algae, plants, fungi, and animals live in habitats from the sunlit surface to the cold, dark abyssal zone and from polar ice to tropical coral reefs. Life may have started in the sea. Humans draw food, mainly fish, from the sea and use it for trade, travel, and mineral extraction. Its scientific study is [[Oceanography|oceanography]].
+
+=== KEY: Sea_ice_2cd6b2
+HEADWORD: Sea ice
+PERSON: no
+LINK TARGETS: Albedo | Arctic Ocean | Carbon dioxide | Climate change | Iceberg | Microorganism | Southern Ocean
+ENTRY:
+Frozen seawater that floats on the ocean's surface, distinct from [[Iceberg|icebergs]], which are chunks of ice shelves or glaciers. Sea ice covers about 7% of the Earth's surface and about 12% of the world's oceans, much of it in the polar ice packs of the [[Arctic Ocean]] and the [[Southern Ocean]]. Brine channels within the ice support [[Microorganism|microorganisms]] that form the base of food webs. Its white surface reflects sunlight back into space, a process known as the [[Albedo|albedo]] effect, and it limits the exchange of heat and [[Carbon dioxide|carbon dioxide]] between the sea and the atmosphere. Satellite records show a marked decline in Arctic sea ice extent and thickness, a trend linked to [[Climate change|climate change]].
+
+=== KEY: Sea_level_a0f056
+HEADWORD: Sea level
+PERSON: no
+LINK TARGETS: Cartography | Geodetic datum | Geoid | Navigation | Tide | Wind
+ENTRY:
+Average surface level of Earth's coastal waters, used as a [[Geodetic datum|vertical datum]] for measuring heights. Mean sea level is the chart datum for [[Cartography|cartography]] and marine [[Navigation|navigation]], and in aviation it is the standard against which altitude is calibrated. A common standard is a long-term average of tide gauge readings at a given site, since the sea is affected by [[Tide|tides]], [[Wind|wind]] and air pressure. The [[Geoid|geoid]] dips as much as 106 m (348 ft) below global mean sea level in the Indian Ocean. A finding from 2026 holds that sea levels estimated with the geoid used in 90% of published work were about 25 cm lower than measured values on average, underestimating the effect of sea level rise.
+
+=== KEY: Sea_lion_828ba2
+HEADWORD: Sea lion
+PERSON: no
+LINK TARGETS: Atlantic Ocean | Eared seal | Genus | Pinniped
+ENTRY:
+[[Pinniped|Pinniped]] with external ear flaps, long foreflippers and the ability to walk on all fours. Sea lions form the family Otariidae with the fur seals, collectively known as [[Eared seal|eared seals]]. There are six extant species in five [[Genus|genera]], ranging from subarctic to tropical waters in both hemispheres, except the northern [[Atlantic Ocean]]. Sea lions live 20–30 years. The largest, the Steller sea lion, can weigh 1,000 kg (2,200 lb) and reach a length of 3.0 m (10 ft). Three species, the Australian, Galápagos and New Zealand sea lions, are endangered.
+
+=== KEY: Sea_of_Azov_e81d4c
+HEADWORD: Sea of Azov
+PERSON: no
+LINK TARGETS: Black Sea | Caspian Sea | Don (river) | Herodotus | Russia | Ukraine
+ENTRY:
+Shallow inland shelf sea in Eastern Europe, connected to the [[Black Sea]] by the Strait of Kerch. It is bounded by [[Russia]] to the east and [[Ukraine]] to the northwest and southwest, and Ukrainian parts of the coast have been under Russian occupation since 2022. The sea is the shallowest in the world, with depths between 0.9 and 14 meters (3 and 46 ft). Inflow from the [[Don (river)|Don]] and Kuban rivers keeps its water low in salinity and rich in plankton, supporting high fish productivity. Water constantly flows out of the sea into the Black Sea. The sea is an access route from the [[Caspian Sea]] via the Volga–Don Canal. In antiquity it was known as the Maeotis Swamp, and [[Herodotus]] judged it as large as the Black Sea.
+
+=== KEY: Sea_of_Japan_db44b9
+HEADWORD: Sea of Japan
+PERSON: no
+LINK TARGETS: Korea | Mediterranean Sea | North Korea | Pacific Ocean | Sakhalin | South Korea | Tide
+ENTRY:
+Marginal sea between the Japanese archipelago, [[Sakhalin]], the [[Korea|Korean]] Peninsula and the mainland of the Russian Far East. Its waters are almost enclosed from the [[Pacific Ocean]] and, like the [[Mediterranean Sea]], it has almost no [[Tide|tides]]. Dissolved oxygen is elevated, giving high biological productivity and making fishing the dominant economic activity. Japan calls it the Sea of Japan, a name it says has been used internationally since the early 19th century. [[South Korea]] seeks to use East Sea alongside it, and [[North Korea]] prefers East Sea of Korea. In April 2026 the International Hydrographic Organization adopted a standard that replaces sea names with numerical identifiers.
+
+=== KEY: Sea_of_Marmara_f00eb4
+HEADWORD: Sea of Marmara
+PERSON: no
+LINK TARGETS: Aegean Sea | Black Sea | Bosporus | Dardanelles | Marble | Tsunami | Turkey
+ENTRY:
+Small inland sea entirely within [[Turkey]], separating the country's European and Asian sides. It links the [[Black Sea]] and the [[Aegean Sea]] through the [[Bosporus]] and [[Dardanelles]] straits, and is considered the smallest sea in the world. It covers 11,350 km² (4,380 sq mi), roughly 280 km by 80 km. The sea is named after Marmara Island, which is rich in [[Marble|marble]]. The North Anatolian Fault runs under the sea and has triggered several major earthquakes, including the August 1999 Marmara Earthquake, which was followed by a [[Tsunami|tsunami]] along its shores.
+
+=== KEY: Sea_of_Okhotsk_bb988c
+HEADWORD: Sea of Okhotsk
+PERSON: no
+LINK TARGETS: Hokkaido | Kamchatka Peninsula | Kuril Islands | Pacific Ocean | Sakhalin | Siberia
+ENTRY:
+Marginal sea of the northwestern [[Pacific Ocean]], bounded by the [[Kamchatka Peninsula]] and [[Kuril Islands]] on the east, [[Hokkaido]] on the south, [[Sakhalin]] on the west, and the eastern coast of [[Siberia]] on the west and north. It covers 1,583,000 square kilometers (611,000 sq mi), with a mean depth of 859 meters (2,818 ft) and a maximum depth of 3,372 meters (11,063 ft). It is the coldest sea in East Asia and the southernmost sea in the Northern Hemisphere that freezes over seasonally. Sea ice forms in the northwest and expels salt into deeper layers; the resulting heavy water flows east, carrying oxygen and nutrients that support abundant sea life. Warming has driven fish populations north: the salmon catch on the northern Japanese coast has fallen 70% in 15 years. South Sakhalin and the Kurils were administered by Japan until 1945, and Japan still claims the southern Kurils.
+
+=== KEY: Sea_otter_fb3295
+HEADWORD: Sea otter
+PERSON: no
+LINK TARGETS: Endangered species | Kelp | Mustelidae | Sea urchin
+ENTRY:
+Marine mammal native to the coasts of the northern and eastern North Pacific, the heaviest member of the [[Mustelidae|weasel family]]. Adults weigh 14–45 kg (30–100 lb). Lacking a blubber layer, it relies on the densest fur of any animal for insulation. Sea otters dive to the sea floor for [[Sea urchin|sea urchins]], mollusks and crustaceans, and they are among the few mammals to use tools, using rocks to open shells. In most of their range they are a keystone species, since their predation keeps sea urchins from destroying [[Kelp]] forests. Hunted for their fur between 1741 and 1911, they fell to 1,000–2,000 individuals. Protection and reintroductions have restored them to about two-thirds of their former range, but the species remains [[Endangered species|endangered]], as populations in the Aleutian Islands, California and Russia have declined.
+
+=== KEY: Sea_snake_f7d00f
+HEADWORD: Sea snake
+PERSON: no
+LINK TARGETS: 
+ENTRY:
+Common name for two groups of venomous elapid snakes: the true sea snakes (subfamily Hydrophiinae), about 62 species that spend their lives in the ocean, and the sea kraits (genus *Laticauda*), about 8 semi-aquatic species that return to land to breed. True sea snakes give birth to live young in the water, while sea kraits lay eggs on land. Their streamlined bodies have paddle-like tails, and they absorb oxygen through the skin during long dives. Their neurotoxic venoms are among the most potent of any reptile, but they are generally docile and rarely bite unless provoked, such as when caught in fishing nets. About 10% of species are assessed as at elevated risk of extinction and lack international protection under treaties such as CITES.
+
+=== KEY: Sea_turtle_4a1d0b
+HEADWORD: Sea turtle
+PERSON: no
+LINK TARGETS: Reptile | Turtle
+ENTRY:
+Marine [[Reptile|reptile]] of the superfamily Chelonioidea, with seven living species. Five of the seven are listed as threatened with extinction on the IUCN Red List. The leatherback is the largest, reaching 1.4 to more than 1.8 m (4.6 to 5.9 ft) and weighing 300–640 kg (661 to 1,411 lb); the Kemp's ridley is the smallest, at 60 cm (2 ft). Unlike many other [[Turtle|turtles]], sea turtles cannot pull their heads and limbs into their shells, but their streamlined bodies let them swim swiftly. Adult males have long tails with the cloacal opening near the tip. Females return to natal beaches to excavate nests and lay clutches of leathery eggs. Sea turtles face fisheries bycatch, habitat loss and marine debris.
+
+=== KEY: Sea_urchin_a02689
+HEADWORD: Sea urchin
+PERSON: no
+LINK TARGETS: Echinoderm | Model organism | Sea otter
+ENTRY:
+Spiny, globular [[Echinoderm|echinoderm]] forming the class Echinoidea. Approximately 950 species live on the seabed in every ocean, from the intertidal zone to the deep sea. Typically 3 to 10 cm (1 to 4 in) across, they move on hundreds of tube feet and have a rigid test covered in movable spines. Most feed on algae, though they also eat slow-moving animals such as sponges and crinoids. Their predators include sharks, [[Sea otter|sea otters]] and humans. Unchecked by predators, urchins can create barrens devoid of large algae. The fossil record dates from the Ordovician period, some 450 million years ago. Because their embryos are transparent and easy to observe, sea urchins have been a [[Model organism|model organism]] in developmental biology since the 19th century.
+
+=== KEY: Seabed_a5d269
+HEADWORD: Seabed
+PERSON: no
+LINK TARGETS: Abyssal plain | Continental shelf | Mid-ocean ridge | Ocean | Plate tectonics
+ENTRY:
+Bottom of an [[Ocean|ocean]], also called the seafloor, sea floor or ocean floor. Its structure is governed by [[Plate tectonics|plate tectonics]]. Most of the ocean is very deep, and its floor there is the [[Abyssal plain|abyssal plain]]. [[Mid-ocean ridge|Mid-ocean ridges]] form along the centers of major ocean basins through seafloor spreading. The seabed slopes up from the abyssal plain through the continental rise and slope to the [[Continental shelf|continental shelf]]. Most of it is covered by marine sediments, classified by origin as terrigenous, biogenous, hydrogenous or cosmogenous, and by size from clay and silt to sand and boulders. Ships use acoustic technology to map its depths, but only 27.3 percent had been mapped at high resolution as of mid-2025. Human activity affects it through plastic pollution, mining and dredging.
+
+=== KEY: Seabird_8ddce5
+HEADWORD: Seabird
+PERSON: no
+LINK TARGETS: Albatross | Bird | Cretaceous | Gull | Paleogene | Penguin
+ENTRY:
+[[Bird|Bird]] adapted to life in the marine environment, including [[Albatross|albatrosses]], [[Penguin|penguins]] and [[Gull|gulls]]. Seabirds show convergent evolution, as similar environmental problems and feeding niches have produced similar adaptations. The first seabirds evolved in the [[Cretaceous]] period, and modern families emerged in the [[Paleogene]]. They generally live longer, breed later and have fewer young than other birds, but invest heavily in them. Most species nest in colonies ranging from a few dozen birds to millions. Many make long annual migrations, some circumnavigating the Earth. Supraorbital salt glands excrete the salt taken in with seawater. Longline fishing bycatch is the main cause of mortality for over 100 species, and oil spills, climate change and offshore development also threaten them. Conservation includes wildlife refuges and changes to fishing methods.
+
+=== KEY: Seabiscuit_32d017
+HEADWORD: Seabiscuit
+PERSON: no
+LINK TARGETS: Great Depression | Thoroughbred
+ENTRY:
+American champion [[Thoroughbred]] racehorse. Small and slow to start, he won only a quarter of his first 40 races, but became the top money-winning racehorse up to the 1940s and a symbol of hope during the [[Great Depression]]. He beat the 1937 Triple Crown winner War Admiral by four lengths in a two-horse special at Pimlico and was voted American Horse of the Year for 1938. The film *Seabiscuit* (2003) was nominated for the Academy Award for Best Picture.
+
+=== KEY: Seafood_d9b38b
+HEADWORD: Seafood
+PERSON: no
+LINK TARGETS: Cephalopod | Crustacean | Fish | Sea urchin
+ENTRY:
+Sea life regarded as food by humans, chiefly [[Fish|fish]] and shellfish. Shellfish include bivalve mollusks such as clams, oysters and mussels; [[Cephalopod|cephalopods]] such as octopus and squid; [[Crustacean|crustaceans]] such as shrimp, crabs and lobster; and echinoderms such as [[Sea urchin|sea urchins]]. Seafood is an important source of animal protein, especially in coastal areas, and the Dietary Guidelines for Americans recommend at least 8 ounces a week. Global production exceeds 200 million tonnes a year, and aquaculture now surpasses wild capture fisheries. Seafood has been eaten since the Paleolithic: *Homo sapiens* at Pinnacle Point in South Africa harvested marine life as early as 165,000 years ago. Mercury in some predatory species has prompted consumption advisories.
+
+=== KEY: Seahorse_e4bc08
+HEADWORD: Seahorse
+PERSON: no
+LINK TARGETS: Aquarium | Coral reef | Crustacean | Mangrove
+ENTRY:
+Genus (*Hippocampus*) of small marine bony fishes related to pipefish. Seahorses swim upright, with a horse-like head, a curled prehensile tail and bony plates in place of scales. They range from 1.5 to 35 cm (0.6 to 13.8 in) long and are poor swimmers, propelled by a dorsal fin and steered with tiny pectoral fins. They are ambush predators that suck up small [[Crustacean|crustaceans]]. Females deposit eggs into a brood pouch on the male, where he fertilizes and carries them until the young are born. Most live in shallow tropical and temperate waters, often among [[Coral reef|coral reefs]], [[Mangrove|mangrove]] roots and seagrass beds, where they camouflage themselves. They are threatened by coastal development and by harvesting for the [[Aquarium|aquarium]] trade and traditional Asian medicine. All species are listed under CITES Appendix II.
+
+=== KEY: Seamount_c89eb5
+HEADWORD: Seamount
+PERSON: no
+LINK TARGETS: Plankton | Tsunami | Volcano
+ENTRY:
+Underwater mountain that rises at least 1,000 m above the seafloor without reaching the surface. Seamounts are typically formed from extinct [[Volcano|volcanoes]] and usually rise 100–4,000 m (330–13,120 ft). If a summit reaches the surface, wave erosion can flatten it; once it subsides, it becomes a flat-topped guyot, or tablemount. More than 14,500 seamounts have been identified, most in the North Pacific. They attract [[Plankton|plankton]], corals, fish and marine mammals, making them among the most common marine ecosystems, and many support fisheries. Bottom trawling causes 95% of their ecological damage, and stocks such as orange roughy have declined. Flank collapses can cause landslides with the potential to generate [[Tsunami|tsunamis]].
+
+=== KEY: Sean_Combs_32977d
+HEADWORD: Combs, Sean
+PERSON: yes
+LINK TARGETS: Mary J. Blige | The Notorious B.I.G. | Usher (musician)
+ENTRY:
+American rapper, record producer and entrepreneur. Combs is credited with discovering or developing [[The Notorious B.I.G.]], [[Mary J. Blige]] and [[Usher (musician)|Usher]], and he founded Bad Boy Records in 1993. His debut album *No Way Out* (1997) topped the Billboard 200. He founded the clothing company Sean John in 1998 and co-founded the television network Revolt in 2013. In 2025 he was convicted of transportation to engage in prostitution and acquitted of racketeering and sex trafficking charges, and he was sentenced to 50 months in prison.
+
+=== KEY: Sean_Connery_016e98
+HEADWORD: Connery, Sean
+PERSON: yes
+LINK TARGETS: Academy Awards | Alfred Hitchcock | James Bond
+ENTRY:
+Scottish actor and producer who was the first actor to portray [[James Bond]] in films. He starred in seven Bond films between 1962 and 1983, beginning with *Dr. No*, and worked with directors such as [[Alfred Hitchcock]] and John Huston, including on *Marnie* and *The Man Who Would Be King*. For *The Untouchables* (1987) he won the [[Academy Awards|Academy Award]] for Best Supporting Actor, becoming the first Scottish actor to win a major Oscar. He also won a BAFTA for *The Name of the Rose*. He was knighted in 2000 for services to drama. He publicly supported Scottish independence and the Scottish National Party, and in later life he lived mainly in the Bahamas.
+
+=== KEY: Sean_Hannity_91ef64
+HEADWORD: Hannity, Sean
+PERSON: yes
+LINK TARGETS: Donald Trump | Fox News
+ENTRY:
+American conservative television host and political commentator. Hannity has hosted a self-titled program on [[Fox News]] since 2009, and he hosts *The Sean Hannity Show*, a nationally syndicated talk radio program. He co-hosted *Hannity & Colmes* on Fox from 1996 until 2009. He was inducted into the National Radio Hall of Fame in 2017 and has written four *New York Times* best-selling books. A strong supporter of [[Donald Trump]], he has drawn criticism for his commentary on the 2020 election.
+
+=== KEY: Sean_Parker_16a606
+HEADWORD: Parker, Sean
+PERSON: yes
+LINK TARGETS: Facebook
+ENTRY:
+American entrepreneur and philanthropist who co-founded the file-sharing service Napster with Shawn Fanning. He was the first president of [[Facebook]] and co-founded Plaxo and Brigade, an online platform for civic engagement. As a teenager he was sentenced to community service after hacking into a company network. He founded the Parker Foundation, which focuses on life sciences, global public health and civic engagement. In May 2025 Forbes estimated his net worth at US$3.0 billion.
+
+=== KEY: Sean_Penn_5bf27b
+HEADWORD: Penn, Sean
+PERSON: yes
+LINK TARGETS: Academy Awards | Hurricane Katrina | Volodymyr Zelenskyy
+ENTRY:
+American actor and filmmaker. Penn has won three [[Academy Awards|Academy Awards]]: Best Actor for *Mystic River* (2003) and *Milk* (2008), and Best Supporting Actor for *One Battle After Another* (2025). His other films include *Fast Times at Ridgemont High*, *Dead Man Walking* and *Into the Wild*, which he directed in 2007. He did humanitarian work after [[Hurricane Katrina]] and the 2010 Haiti earthquake, and he has supported Ukrainian president [[Volodymyr Zelenskyy]] during the Russian-Ukrainian war.
+
+=== KEY: Search_engine_14e69b
+HEADWORD: Search engine
+PERSON: no
+LINK TARGETS: Google Search | Montreal | World Wide Web
+ENTRY:
+Software system that returns links to [[World Wide Web|web]] pages and other information in response to a user's query. Search engines use automated crawlers to index content, then rank results by factors such as keyword relevance and link authority. Early tools included Archie, created in 1990 by Alan Emtage at McGill University in [[Montreal]] to index the file names on public FTP sites. [[Google Search|Google Search]] became the dominant engine in the 2000s. As of May 2025, Google held about 89–90% of worldwide search share, and that month marked the first time in over a decade that its share fell below 90%. Because of this dominance, search engine optimization has focused largely on Google.
+
+=== KEY: Search_for_extraterrestrial_intelligence_09125a
+HEADWORD: Search for extraterrestrial intelligence
+PERSON: no
+LINK TARGETS: Fermi paradox | Radio telescope | Stephen Hawking
+ENTRY:
+Scientific effort to detect signals or other evidence of intelligent life beyond Earth, usually shortened to SETI. Methods include monitoring electromagnetic radiation with [[Radio telescope|radio telescopes]], searching for optical signals and investigating possible artifacts. Modern searches began in the early 20th century after the advent of radio. Projects include Project Ozma, SETI@home and Breakthrough Listen, a $100 million, 10-year effort announced in 2015 by [[Stephen Hawking]] and Yuri Milner. Despite decades of searching, no confirmed evidence of alien intelligence has been found. Critics call SETI speculative and unfalsifiable, while supporters see it as a step toward addressing the [[Fermi paradox]].
+
+=== KEY: Sears_e9301d
+HEADWORD: Sears
+PERSON: no
+LINK TARGETS: Bankruptcy | Walmart
+ENTRY:
+American department store chain and online retailer, founded as a mail-order business by Richard Warren Sears and Alvah Curtis Roebuck. It opened its first retail stores in 1925 and was the largest retailer in the United States through the 1980s, until it was surpassed by [[Walmart]] in 1989. A 2005 merger with Kmart created Sears Holdings, which filed for Chapter 11 [[Bankruptcy|bankruptcy]] in October 2018. Its successor, Transformco, has focused on selling off remaining real estate. From 2,705 stores at its peak in 2011, only five were still open in the U.S. as of December 2025.
+
+=== KEY: Season_6c7a44
+HEADWORD: Season
+PERSON: no
+LINK TARGETS: Axial tilt | Dry season | Equinox | Gregorian calendar | Monsoon | Nile | Northern Hemisphere
+ENTRY:
+Division of the year based on changes in weather, ecology, and hours of daylight in a given region. On Earth, seasons result from the [[Axial tilt|tilt]] of the planet's rotational axis, about 23.4° from its orbital plane, together with the axis's approximately constant direction toward Polaris through the year. From around March 20 to around September 22 the Northern Hemisphere tips toward the Sun, with the maximum on about June 21; the Southern Hemisphere's maximum is around December 21. The two instants when the Sun is directly overhead at the Equator are the [[Equinox|equinoxes]]. The low angle of the Sun in winter spreads radiation over a larger area, and with shorter days this accounts for most seasonal climate variation. Because of seasonal lag, June, July, and August are the warmest months in the [[Northern Hemisphere]].
+
+Distance from the Sun is not the cause: Earth reaches perihelion in January and aphelion in July, and eccentricity produces a 7% variation in sunlight received.
+
+Definitions vary by culture and region. In temperate and sub-polar regions four seasons based on the [[Gregorian calendar]], spring, summer, autumn, and winter, are generally recognized. Ecologists often use a six-season model not tied to fixed dates: prevernal, vernal, estival, serotinal, autumnal, and hibernal. Many tropical regions have two seasons, a rainy or [[Monsoon|monsoon]] season and a [[Dry season|dry season]]. The ancient Egyptians recognized flood, growth, and low-water seasons, based on the annual flooding of the [[Nile]]; in India, six seasons, or *Ritu*, have been recognized from ancient times for agriculture and trade.
+
+Seasons hold special significance for agrarian societies, and their change is often attended by ritual.
+
+=== KEY: Seattle_4c54c1
+HEADWORD: Seattle
+PERSON: no
+LINK TARGETS: Amazon (company) | Boeing | Isthmus | Microsoft | Nirvana (band) | Pearl Jam | Starbucks | Washington (state)
+ENTRY:
+Most populous city in the U.S. state of [[Washington (state)|Washington]], on an [[Isthmus|isthmus]] between Puget Sound and Lake Washington. Its population was 784,777 in 2025, and the metropolitan area exceeds 4.15 million. Native peoples, including the Duwamish, had lived in the area for at least 4,000 years before European settlement. Settlers led by Arthur A. Denny arrived in 1851, and the settlement was named for Chief Seattle. Logging and shipbuilding were early industries, and after World War II [[Boeing]] made the city a center of aircraft manufacturing. From the 1980s, technology firms including [[Microsoft]] and [[Amazon (company)|Amazon]] expanded the economy. Seattle was also home to grunge, with [[Nirvana (band)|Nirvana]] and [[Pearl Jam]] among its bands, and the coffee chain [[Starbucks]] began there in 1971.
+
+=== KEY: Seaweed_ea8bd6
+HEADWORD: Seaweed
+PERSON: no
+LINK TARGETS: Algae | Brown algae | Carbon dioxide | East Asia | Green algae | Kelp | Red algae
+ENTRY:
+Macroscopic, multicellular marine [[Algae|algae]], comprising thousands of species. The term covers the [[Red algae|red]], [[Brown algae|brown]] and [[Green algae|green]] groups, which do not share a single common multicellular ancestor. Kelp and other seaweeds provide nursery habitat for fisheries, and planktonic algae produce at least 50% of Earth's oxygen. Mechanical dredging of [[Kelp]] destroys the resource and the fisheries it supports, and a wasting disease in predators of purple urchins led to urchin surges that destroyed large kelp forests off California. Seaweed farming, long practiced in [[East Asia]], supplies food, carrageenan and fertilizer. Cultivation is also studied as a way to absorb [[Carbon dioxide|carbon dioxide]], and the IPCC recommends further research into it.
+
+=== KEY: Sebasti_o_Jos_de_Carvalho_e_Melo_1st_Marquis_of_Pombal_f49d12
+HEADWORD: Pombal, Marquis of
+PERSON: yes
+LINK TARGETS: 1755 Lisbon earthquake | Jesuits
+ENTRY:
+Portuguese statesman and diplomat who was the leading minister of King Joseph I from 1750 to 1777. He secured his preeminence through his management of the [[1755 Lisbon earthquake|1755 Lisbon earthquake]], organizing relief and supervising the rebuilding of the capital. After the Távora affair of 1759 he suppressed the [[Jesuits|Society of Jesus]] and oversaw the execution of leading members of the aristocratic opposition. A strong advocate of absolutism influenced by the Enlightenment, he centralized government and introduced mercantilist reforms, including royal monopolies and chartered trading companies. His policies also promoted the Atlantic slave trade to Brazil, while banning the import of Black slaves into mainland Portugal. He fell from power in 1777 and was exiled, and his legacy remains highly controversial.
+
+=== KEY: Sebastian_Vettel_19b701
+HEADWORD: Vettel, Sebastian
+PERSON: yes
+LINK TARGETS: Formula One | Lewis Hamilton
+ENTRY:
+German former racing driver who competed in [[Formula One|Formula One]] from 2007 to 2022. He won four consecutive World Drivers' Championships with Red Bull from 2010 to 2013 and 53 Grands Prix overall, including nine in a row in 2013. At Ferrari he was the closest challenger to [[Lewis Hamilton]] and finished runner-up in 2017 and 2018. He retired after the 2022 season. Since 2023 he has been co-owner of the Germany SailGP Team, and he is an environmental and climate activist.
+
+=== KEY: Second_Boer_War_ba338b
+HEADWORD: Second Boer War
+PERSON: no
+LINK TARGETS: Bloemfontein | British Empire | Pretoria | South Africa
+ENTRY:
+Conflict fought between 1899 and 1902 between the [[British Empire]] and the Boer republics, the South African Republic and the Orange Free State, in [[South Africa]]. It was triggered by the discovery of gold in the Transvaal and a dispute over voting rights for British immigrants (Uitlanders). Boer forces initially won victories and besieged British garrisons, but British armies under Lord Roberts and Lord Kitchener occupied both republics and their capitals, [[Pretoria]] and [[Bloemfontein]], by 1900. Boer guerrillas fought on for two years, and Britain responded with scorched-earth tactics and concentration camps, where tens of thousands of civilians died. The Treaty of Vereeniging in May 1902 ended the war, and in 1910 the former republics joined the Union of South Africa within the British Empire.
+
+=== KEY: Second_Bulgarian_Empire_3bf661
+HEADWORD: Second Bulgarian Empire
+PERSON: no
+LINK TARGETS: Balkans | Byzantine Empire | First Bulgarian Empire | Ivan Asen II
+ENTRY:
+Medieval Bulgarian state in the [[Balkans|Balkans]] that existed from 1185 to 1396. It succeeded the [[First Bulgarian Empire]], and until 1256 it was the dominant power in the Balkans, defeating the [[Byzantine Empire]] in several major battles. Tsar Kaloyan defeated the Latin Empire at Adrianople in 1205, and his nephew [[Ivan Asen II]] extended Bulgaria from the Adriatic to the Black Sea. The empire declined in the late 13th century under invasions by Mongols, Byzantines, Hungarians and Serbs, and it was divided into three parts before the Ottoman invasion. Its capital, Tarnovo, was considered a "New Constantinople" and became the cultural hub of the Eastern Orthodox world in the 14th century.
+
+=== KEY: Second_Chechen_War_0034f2
+HEADWORD: Second Chechen War
+PERSON: no
+LINK TARGETS: Chechnya | Dagestan | Russia
+ENTRY:
+War between [[Russia]] and Chechen separatists, August 1999–April 2009, fought in [[Chechnya]] and the border regions of the North Caucasus. Islamists from Chechnya infiltrated [[Dagestan]] in August 1999, and apartment bombings in Russian cities later that year killed over 300 people. Russian authorities blamed Chechens, though no Chechen group claimed responsibility. Russian forces seized Grozny after a winter siege (December 1999–February 2000) and established direct rule in May 2000. The military phase ended in April 2002, and by 2009 Russia had disabled the separatist movement. Both sides attacked civilians. Total deaths, including combatants and non-combatants, are estimated at over 60,000.
+
+=== KEY: Second_Coming_a4ba85
+HEADWORD: Second Coming
+PERSON: no
+LINK TARGETS: Eschatology | Jesus | New Testament
+ENTRY:
+Christian and Islamic belief that [[Jesus]] will return to Earth after his Ascension to Heaven. Also called the Second Advent or the *parousia*, the idea rests on messianic prophecies and is part of most Christian [[Eschatology|eschatologies]]. The Greek word *parousia* means "arrival," "coming" or "presence," and the [[New Testament]] uses it 24 times, seventeen of them concerning Christ. In Islamic eschatology, Jesus (*ʿĪsā ibn Maryam*) is also expected to return at the end times, defeating the false messiah (*al-Masih ad-Dajjal*), restoring justice and reaffirming monotheism. Islam regards him as a revered prophet rather than as divine, and his return is a major sign of the Day of Judgment. Some minor religious movements have held that their founder was a later incarnation of Jesus Christ. A 2010 survey found that about 40% of Americans believed Jesus was likely to return by 2050.
+
+=== KEY: Second_Congo_War_e9e11f
+HEADWORD: Second Congo War
+PERSON: no
+LINK TARGETS: Democratic Republic of the Congo | Rwanda | Uganda | World War II
+ENTRY:
+War centered on the [[Democratic Republic of the Congo]] (DRC) from 1998 to 2003, also known as Africa's World War. It began on August 2, 1998, when Laurent-Désiré Kabila turned against his former allies from [[Rwanda]] and [[Uganda]], who had helped him seize power. The war drew in nine African nations and about 25 armed groups. Rwandan and rebel forces captured Kisangani in August 1998. The Lusaka Peace Agreement of July and August 1999 largely stopped movement on the front lines, but fighting continued. After Kabila's assassination in January 2001, his successor, Joseph Kabila, pursued peace, culminating in the Global and All-Inclusive Agreement of December 17, 2002. The war ended on July 18, 2003. The war and its aftermath caused an estimated 5.4 million deaths, mostly from disease, malnutrition and war crimes, making it the deadliest conflict since [[World War II]], according to a 2008 International Rescue Committee report.
+
+=== KEY: Second_Industrial_Revolution_7b1115
+HEADWORD: Second Industrial Revolution
+PERSON: no
+LINK TARGETS: Colonialism | Electricity | Globalization | Interchangeable parts | Internal combustion engine | Steel | Telephone | World War I
+ENTRY:
+Period of rapid scientific discovery, standardization, mass production and industrialization, generally dated 1870–1914 and ending with the start of [[World War I]]. Also called the Technological Revolution, it built on earlier advances such as [[Interchangeable parts|interchangeable parts]] and the Bessemer process for making [[Steel|steel]]. Its main developments included [[Electricity|electrical power]], the [[Telephone|telephone]], petroleum, the [[Internal combustion engine|internal combustion engine]] and synthetic chemicals such as dyes and fertilizers. Railroads and cheap steel reinforced each other, and the United States laid 75,000 miles of track in the 1880s, the largest amount in world history. Railroad and telegraph expansion allowed unprecedented movement of people and ideas, feeding a new wave of [[Colonialism|colonialism]] and [[Globalization|globalization]]. David Landes's 1966 essay and his 1972 book *The Unbound Prometheus* standardized scholarly use of the term.
+
+=== KEY: Second_Intifada_73ee8f
+HEADWORD: Second Intifada
+PERSON: no
+LINK TARGETS: Ariel Sharon | Gaza Strip | Israel | Temple Mount | West Bank
+ENTRY:
+Palestinian uprising against [[Israel]] and its occupation, 2000–2005, also known as the Al-Aqsa Intifada. It began with civilian protests by Arab residents of East Jerusalem and areas within Israel proper, then escalated into violence in Israel, the [[West Bank]] and the [[Gaza Strip]]. Violence increased from September 2000, after [[Ariel Sharon]] visited the [[Temple Mount]]. After March 2001, Palestinian militant groups carried out about 138 suicide bombings, mostly targeting Israeli civilians. About 1,000 Israelis were killed. The uprising ended with the Sharm el-Sheikh Summit of 2005, when Mahmoud Abbas and Sharon agreed to de-escalate.
+
+=== KEY: Second_Italo_Ethiopian_War_7df0bd
+HEADWORD: Second Italo-Ethiopian War
+PERSON: no
+LINK TARGETS: Addis Ababa | Benito Mussolini | Genocide | Haile Selassie | League of Nations | Nazi Germany
+ENTRY:
+War of aggression waged by Italy against Ethiopia from October 1935 to May 1936, regarded as the largest colonial campaign in history. Italian forces attacked from Eritrea and Somalia on October 3, 1935, without a declaration of war, and captured [[Addis Ababa]] on May 5, 1936. [[Benito Mussolini]] replaced General Emilio De Bono with Pietro Badoglio in November 1935. Italian aircraft dropped mustard gas, in violation of the 1925 Geneva Protocol. Emperor [[Haile Selassie]] fled into exile on May 2, 1936, and Mussolini announced the annexation of Ethiopia on May 9, forming Italian East Africa. The war ended Italy's Stresa Front alliance with the Western powers and led to rapprochement with [[Nazi Germany]]. The [[League of Nations]] could not prevent the invasion, which discredited it. Hundreds of thousands of Ethiopian civilians died, which some historians describe as [[Genocide|genocide]].
+
+=== KEY: Second_Opium_War_48571e
+HEADWORD: Second Opium War
+PERSON: no
+LINK TARGETS: Beijing | First Opium War | Guangzhou | Hong Kong | Opium | Qing dynasty | Tianjin
+ENTRY:
+War between the United Kingdom and France and the [[Qing dynasty]] of China, 1856–1860, also called the Second Anglo-Chinese War or Arrow War. It followed the [[First Opium War]] and ended in a second Qing defeat and the forced legalization of the [[Opium|opium]] trade. The war began on October 8, 1856, when Qing officials seized the *Arrow*, a British-registered ship. British and French forces captured [[Guangzhou]] (Canton) in December 1857, then took the Taku Forts and stormed [[Tianjin]] in May 1858. The Xianfeng Emperor refused to ratify the Treaty of Tientsin, and fighting resumed. Allied forces occupied [[Beijing]] in 1860, and Lord Elgin ordered the Old Summer Palace looted and burned. The Convention of Peking, signed October 24, 1860, ceded the Kowloon Peninsula to Britain as part of [[Hong Kong]]. Treaties with Russia ceded more than 1.5 million square kilometers (0.58 million square miles) in the north-east and north-west.
+
+=== KEY: Second_Sino_Japanese_War_8f9329
+HEADWORD: Second Sino-Japanese War
+PERSON: no
+LINK TARGETS: Chiang Kai-shek | Chinese Communist Party | Chongqing | Empire of Japan | Nanjing | World War II
+ENTRY:
+Conflict between the Republic of China and the [[Empire of Japan]] and its puppet states, 1937–1945, often regarded as the start of [[World War II]] in Asia. Japan's 1931 invasion of Manchuria established the puppet state of Manchukuo. Full-scale war began on July 7, 1937, after the Marco Polo Bridge incident near Beijing. Japanese forces captured [[Nanjing]] that year and carried out the Nanjing Massacre, and the Nationalist government relocated to [[Chongqing]]. The Nationalists under [[Chiang Kai-shek]] and the [[Chinese Communist Party]] had fought since 1927 but formed a United Front in 1936. The war reached a stalemate by 1939 and became part of the wider Allied war after Japan's attack on Pearl Harbor in December 1941. Japan surrendered on September 2, 1945, after the atomic bombings of Hiroshima and Nagasaki and the Soviet invasion of Manchuria. The war caused around 20 million deaths, mostly of Chinese civilians.
+
+=== KEY: Second_Vatican_Council_32e352
+HEADWORD: Second Vatican Council
+PERSON: no
+LINK TARGETS: Catholic Church | Pope John XXIII
+ENTRY:
+Twenty-first and most recent ecumenical council of the [[Catholic Church]], held in four sessions at St. Peter's Basilica in Vatican City from October 11, 1962, to December 8, 1965. [[Pope John XXIII]] convoked it, and Pope Paul VI presided over its final three sessions and promulgated its sixteen documents. Nearly 2,500 bishops and heads of male religious orders attended at some point. The council approved four constitutions, nine decrees and three declarations on the liturgy, revelation, ecumenism and religious freedom. Its decisions permitted vernacular languages in a liturgy long celebrated almost entirely in Latin.
+
+=== KEY: Second_c22cf8
+HEADWORD: Second
+PERSON: no
+LINK TARGETS: Caesium | Earth's rotation | Hertz | International System of Units | Leap second | Pendulum
+ENTRY:
+[[International System of Units|SI]] base unit of time, symbol s. It was originally defined as 1/86,400 of a day, since the day divides into 24 hours, 60 minutes and 60 seconds. That Earth-rotation definition is still used by the UT1 system. The current SI definition fixes the frequency of the ground-state hyperfine transition of the [[Caesium|cesium]]-133 atom at 9,192,631,770 [[Hertz|hertz]], equal to s⁻¹. The cesium-based definition was adopted in 1967, and a [[Leap second|leap second]] was added at irregular intervals to civil time between 1972 and 2016 to keep clocks in step with [[Earth's rotation|Earth's rotation]]. The first timekeepers able to count seconds accurately were 17th-century [[Pendulum|pendulum]] clocks. Prefixes form milliseconds, microseconds and nanoseconds, and a 1-gigahertz microprocessor has a cycle time of 1 nanosecond.
+
+=== KEY: Second_law_of_thermodynamics_ae632b
+HEADWORD: Second law of thermodynamics
+PERSON: no
+LINK TARGETS: Entropy | First law of thermodynamics | Statistical mechanics
+ENTRY:
+Physical law based on empirical observation that heat always flows spontaneously from hotter to colder regions. It establishes [[Entropy|entropy]] as a physical property of a thermodynamic system, and the entropy of an isolated system left to spontaneous evolution cannot decrease. The law forbids what the [[First law of thermodynamics|first law]] would allow, such as a broken cup reassembling and jumping back onto a table. Sadi Carnot showed in 1824 that the efficiency of a heat engine has an upper limit. Rudolf Clausius gave the first rigorous entropy-based definition in the 1850s. [[Statistical mechanics]] explains the law through probability distributions of atoms or molecules.
+
+=== KEY: Secondary_education_a9e07a
+HEADWORD: Secondary education
+PERSON: no
+LINK TARGETS: John Locke | Primary education | Reformation | Tertiary education
+ENTRY:
+Stage of formal education that follows [[Primary education|primary education]] and precedes higher education, usually for students aged 12 to 18. Lower secondary education is the final phase of basic education, and upper secondary education is the phase immediately before [[Tertiary education|tertiary education]]. In most countries it is compulsory at least until age 16. Since 1989, Article 28 of the Convention on the Rights of the Child has stated that secondary education, general and vocational, should be available and accessible to every child. In medieval times the church provided it for the sons of nobility and for boys preparing for universities and the priesthood. After the [[Reformation]], the state took control of learning, and [[John Locke|John Locke]] and Comenius shifted teaching toward building knowledge. The right to secondary education was codified after 1945.
+
+=== KEY: Secret_society_a9e52b
+HEADWORD: Secret society
+PERSON: no
+LINK TARGETS: Freemasonry | Italy | Poland | Yale University
+ENTRY:
+Organization whose activities, membership, inner functioning and sometimes existence are concealed from outsiders. The term usually excludes covert groups such as intelligence agencies or guerrilla insurgencies, which hide their activities but maintain a public presence. Definitions generally rely on the degree of secrecy, the transmission of secret knowledge, denial of membership, personal bonds among members, and secret rites. Historian Richard B. Spence defines a secret society as a group whose existence is usually public but whose beliefs or practices are concealed behind an oath, promising members superior status or knowledge. Historian Jasper Ridley called [[Freemasonry]] "the world's most powerful secret Society." [[Italy]] and [[Poland]] ban secret political parties in their constitutions. Many undergraduate societies at American universities, such as Skull and Bones at [[Yale University]], have been considered secret societies.
+
+=== KEY: Secretariat_horse_4df4ef
+HEADWORD: Secretariat
+PERSON: no
+LINK TARGETS: Thoroughbred
+ENTRY:
+American [[Thoroughbred|Thoroughbred racehorse]], nicknamed Big Red, and ninth winner of the American Triple Crown, in 1973. He was the first Triple Crown winner in 25 years and set speed records in all three races, including a 31-length victory in the Belmont Stakes that is often considered the greatest race ever run by a thoroughbred. He won five Eclipse Awards and Horse of the Year honors at ages two and three. Syndicated for a record $6.08 million, he became the leading broodmare sire in North America in 1992 through his daughters' offspring. He died of laminitis in 1989 at age 19.
+
+=== KEY: Secretary_General_of_the_United_Nations_4a5ad9
+HEADWORD: Secretary-General of the United Nations
+PERSON: no
+LINK TARGETS: 
+ENTRY:
+De facto head of the United Nations, overseeing its Secretariat. The secretary-general acts as the Security Council's executive officer, overseeing implementation of its decisions and mandates. The General Assembly appoints the secretary-general on the recommendation of the Security Council, where any of the five permanent members can veto a nomination. Chapter XV of the UN Charter (Articles 97 to 101) sets out the role, while qualifications and tenure rest on custom. Appointees have all been career diplomats. Since 1981 the Security Council has voted in secret straw polls, and no candidate has ever been rejected by the General Assembly.
+
+=== KEY: Secretarybird_1e5602
+HEADWORD: Secretarybird
+PERSON: no
+LINK TARGETS: Acacia | Bird of prey | Sub-Saharan Africa
+ENTRY:
+Large terrestrial [[Bird of prey|bird of prey]] (*Sagittarius serpentarius*) endemic to [[Sub-Saharan Africa|sub-Saharan Africa]], placed in its own family, Sagittariidae. It stands as much as 1.3 meters (4 feet 3 inches) tall on crane-like legs, with gray plumage, black flight feathers and thighs, and a flattened dark crest. It is usually found on open grasslands and savanna, where it hunts on foot, stomping prey such as insects and small vertebrates. The nest is built at the top of a thorny [[Acacia|acacia]] tree, and a clutch of one to three eggs is laid. John Frederick Miller described the species in 1779. Habitat destruction has caused a rapid population decline, and the species is classed as endangered. It appears on the coats of arms of South Africa and Sudan.
+
+=== KEY: Sect_325981
+HEADWORD: Sect
+PERSON: no
+LINK TARGETS: Cult | Heresy | Max Weber
+ENTRY:
+Subgroup of a religious, political or philosophical belief system, typically an offshoot of a larger organization. From Latin *secta*, "a way" or "road," the term originally referred to religious groups that had separated from a main body. It now applies to any group that diverges to follow distinct beliefs and practices, often from a perception of [[Heresy|heresy]]. [[Max Weber|Max Weber]] and Ernst Troeltsch were among the first to define sects within the church-sect typology, as voluntary associations whose membership comes from personal acceptance of doctrine rather than birth. Sects usually are more radical and ethically strict than mainstream churches. Roy Wallis described sects by "epistemological authoritarianism," whereas [[Cult|cults]] are marked by "epistemological individualism."
+
+=== KEY: Secularism_dcc4e7
+HEADWORD: Secularism
+PERSON: no
+LINK TARGETS: Agnosticism | Anti-clericalism | Atheism | Rule of law
+ENTRY:
+Principle of conducting human affairs on naturalistic considerations, uninvolved with religion. It is most commonly understood as the separation of religion from civil affairs and the state, and may be broadened to minimizing the role of religion in any public sphere. The term was coined in 1851 in Britain; "secular", like "religion", is a Western concept not universal across cultures, languages, or history. Secularism may encompass [[Anti-clericalism|anti-clericalism]], [[Atheism|atheism]], [[Agnosticism|agnosticism]], or neutrality on religion. It is concerned with minimizing religion's role rather than disproving it, and may be hostile, neutral, or hospitable toward religion.
+
+Distinct traditions exist, including the French, Turkish, American, and Indian models. Scholars distinguish a strict form, associated with French *laïcité*, in which the state is officially distanced from all religions and non-religious convictions; a "humanistic" form, which seeks policy based on evidence and human welfare; and a "liberal" or "pillarized" form, common in German-speaking and Benelux states, in which governments may fund religions so long as they treat all convictions equally. In Indian political discourse, "pseudo-secularism" is a pejorative term for states said to favor one religion while claiming impartiality.
+
+Principles associated with political secularism include legal equality regardless of belief, separation of church and state, supremacy of the [[Rule of law|rule of law]] over canon law, freedom of thought, and religious tolerance. Supporters argue variously that it is crucial to modernization or the only guarantor of free religious exercise. Critics charge that it carries bias against religion, citing state atheism under communist regimes, and that strict neutrality can clash with cultural religious practice.
+
+=== KEY: Security_2fae32
+HEADWORD: Security
+PERSON: no
+LINK TARGETS: Aircraft carrier | Armour | Firearm | Handgun | Radar
+ENTRY:
+Protection from, or resilience against, potential harm or unwanted coercion. Beneficiaries of security may be persons, social groups, objects, institutions or ecosystems. The term also describes the absence of harm, the presence of an essential good (food security), secrecy (a secure telephone line) and containment (a secure cell). Security is both a feeling and a state of reality, so a person may feel secure without being safe, or insecure despite being safe. Protective measures include locks, fences, walls, [[Armour|armor]] and antivirus software, along with warning systems such as alarms and [[Radar|radar]]. Coercive capabilities include [[Aircraft carrier|aircraft carriers]], [[Handgun|handguns]] and [[Firearm|firearms]]. Approaches are contested: some argue that security depends on protective and coercive power, others on equitable relationships and meeting fundamental needs.

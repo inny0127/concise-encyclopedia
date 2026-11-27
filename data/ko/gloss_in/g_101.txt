@@ -1,0 +1,729 @@
+=== KEY: Ozone_depletion_28ada6
+HEADWORD: Ozone depletion
+PERSON: no
+LINK TARGETS: Bromine | Chlorine | Ozone | Skin cancer | South Pole | Stratosphere
+ENTRY:
+Decline in the total amount of [[Ozone|ozone]] in Earth's [[Stratosphere|stratosphere]], including the seasonal Antarctic ozone hole. Since the late 1970s two related phenomena have been observed: a lowered total amount of ozone in the upper stratosphere, and a much larger springtime decrease over the [[South Pole]]. The main cause is ozone-depleting substances such as chlorofluorocarbons (CFCs), halons and HCFCs, used as refrigerants, solvents, propellants and foam-blowing agents. In the stratosphere they release halogen atoms, mainly [[Chlorine|chlorine]] and [[Bromine|bromine]], which catalyze the breakdown of ozone into oxygen. The ozone layer blocks harmful UVB light, whose increase is linked to [[Skin cancer|skin cancer]], sunburn and cataracts. The 1987 Montreal Protocol banned production of CFCs and halons, and its controls took effect in 1989. Ozone levels stabilized by the mid-1990s and began recovering in the 2000s. In 2019 NASA reported that the ozone hole was the smallest since its discovery in 1982.
+
+=== KEY: Ozymandias_31cb55
+HEADWORD: Ozymandias
+PERSON: no
+LINK TARGETS: Percy Bysshe Shelley | Pharaoh | Ramesses II
+ENTRY:
+Sonnet by the English Romantic poet [[Percy Bysshe Shelley|Percy Shelley]], first published on 11 January 1818 in *The Examiner*. Its subject is the Egyptian [[Pharaoh|pharaoh]] [[Ramesses II]], whose Greek name was Ozymandias. A traveler finds a shattered statue in the desert, its inscription boasting of the king's power, and "the lone and level sands stretch far away." Shelley began it in anticipation of the Younger Memnon, a statue fragment of Ramesses II that reached London in 1821. The poem grew out of a Christmas 1817 contest with Horace Smith, who wrote a sonnet of the same title.
+
+=== KEY: Ozzy_Osbourne_9ac8c5
+HEADWORD: Osbourne, Ozzy
+PERSON: yes
+LINK TARGETS: Black Sabbath | MTV | Rock and Roll Hall of Fame
+ENTRY:
+English singer, songwriter, and media personality, dubbed the "Prince of Darkness." He co-founded [[Black Sabbath]] in 1968 as its lead vocalist and was dismissed in 1979 over alcohol and drug problems. His solo career began in 1980 with *Blizzard of Ozz*. He sold more than 100 million albums and was inducted into the [[Rock and Roll Hall of Fame]] in 2006 and 2024. With his family he starred in the [[MTV]] reality series *The Osbournes* (2002–2005). He gave his final performance in 2025, after announcing it would be his last due to health issues.
+
+=== KEY: PBS_66e9d9
+HEADWORD: PBS
+PERSON: no
+LINK TARGETS: Nonprofit organization | Watergate scandal
+ENTRY:
+American public broadcaster and non-commercial television network, based in Arlington, Virginia. Founded in 1969 and operating since 1970, PBS is a [[Nonprofit organization|nonprofit organization]] and the most prominent provider of educational programming to public television stations in the United States. Its shows include *Nature*, *Nova*, *Frontline* and *Sesame Street*. It has more than 350 member stations, funded by member dues, pledge drives, corporate sponsorships and donations. In 1973 it broadcast the Senate [[Watergate scandal|Watergate]] proceedings nationwide. Until 2025 it also received funding from the Corporation for Public Broadcasting.
+
+=== KEY: PCI_Express_68d426
+HEADWORD: PCI Express
+PERSON: no
+LINK TARGETS: Ethernet | Hard disk drive | Solid-state drive | Wi-Fi
+ENTRY:
+High-speed standard for connecting hardware components inside computers. Developed and maintained by the PCI-SIG, PCI Express (PCIe) is designed to replace older expansion buses such as PCI, PCI-X and AGP. It connects graphics cards, sound cards, [[Wi-Fi]] and [[Ethernet]] adapters, and storage devices such as [[Solid-state drive|solid-state drives]] and [[Hard disk drive|hard disk drives]]. Unlike the shared parallel bus of PCI, PCIe uses point-to-point serial links, and each device uses one or more lanes depending on its data needs. Its bandwidth has roughly doubled about every three years, reaching 128 GT/s in version 7.0 (2025).
+
+=== KEY: PDF_bcd1b6
+HEADWORD: PDF
+PERSON: no
+LINK TARGETS: Application software | Encryption | Operating system
+ENTRY:
+File format for presenting documents in a manner independent of [[Application software|application software]], hardware and [[Operating system|operating systems]]. Based on the PostScript language, PDF encapsulates a complete description of a fixed-layout document, including text, fonts, vector graphics and raster images. Adobe developed it in 1993 and made the specification free of charge that year; it was standardized as ISO 32000 in 2008, when control passed to an ISO committee. PDF files may also include annotations, form fields, layers, multimedia, [[Encryption|encryption]] and digital signatures. The format grew out of the Camelot Project, begun by Adobe co-founder John Warnock in 1991.
+
+=== KEY: PFAS_059151
+HEADWORD: PFAS
+PERSON: no
+LINK TARGETS: Cancer | Carcinogen | Cosmetics | Polytetrafluoroethylene | Ulcerative colitis
+ENTRY:
+Per- and polyfluoroalkyl substances, a group of synthetic organofluorine compounds with multiple fluorine atoms attached to an alkyl chain. Their high chemical and thermal stability gives them long environmental lifetimes, earning them the nickname "forever chemicals." Widespread use began in 1938 with [[Polytetrafluoroethylene|Teflon]], and PFAS now appear in waterproof fabric, food packaging, firefighting foam and [[Cosmetics]]. Some are [[Carcinogen|carcinogens]] or endocrine disruptors linked to [[Cancer|cancers]], [[Ulcerative colitis]] and thyroid disease. PFOS and PFOA were listed under the Stockholm Convention in 2009 and 2019. Only a few of the thousands of PFAS compounds have undergone comprehensive biological testing.
+
+=== KEY: PHP_2fec39
+HEADWORD: PHP
+PERSON: no
+LINK TARGETS: HTML | HTTP
+ENTRY:
+General-purpose scripting language geared toward web development. Created by Danish-Canadian programmer Rasmus Lerdorf and released in 1995, PHP was originally an abbreviation of "Personal Home Page" and now stands for the recursive "PHP: Hypertext Preprocessor." It usually runs on a web server, where its output, such as generated [[HTML]], forms all or part of an [[HTTP]] response. It can also run from the command line. The standard interpreter, powered by the Zend Engine, is free software under the PHP License, and it has been ported to most web servers and operating systems.
+
+=== KEY: PH_a25496
+HEADWORD: pH
+PERSON: no
+LINK TARGETS: Acid | Agronomy | Base (chemistry) | Chemistry
+ENTRY:
+Logarithmic scale for specifying the [[Acid|acidity]] or [[Base (chemistry)|basicity]] of an aqueous solution. pH is the negative base-10 logarithm of hydrogen ion activity. At 25 °C, solutions with a pH below 7 are acidic, those above 7 are basic, and pure water is neutral at 7. The neutral value falls below 7 as temperature rises above 25 °C. The scale is conventionally given as 0 to 14, but very concentrated strong acids can have values below 0, and strong bases can exceed 14. The pH of a solution can be measured with a glass electrode and pH meter or with a color-changing indicator. The concept was introduced in 1909 by Danish chemist Søren Peter Lauritz Sørensen at the Carlsberg Laboratory; the exact original meaning of the letter "p" remains disputed. Measurements are important in [[Chemistry]], [[Agronomy]], medicine and water treatment.
+
+=== KEY: PNG_55505b
+HEADWORD: PNG
+PERSON: no
+LINK TARGETS: Color | Data compression | GIF | Internet | Usenet
+ENTRY:
+Raster-graphics file format that supports lossless [[Data compression|data compression]]. It was developed in the mid-1990s as a non-patented replacement for [[GIF]], whose LZW compression was patented by Unisys, requiring royalties. PNG supports palette-based images with 24-bit RGB or 32-bit RGBA [[Color|colors]], grayscale images with optional transparency, and full-color RGB or RGBA images. It was designed for transferring images on the [[Internet]], so CMYK color is not supported. The format was published as RFC 2083 in 1997 and as ISO/IEC 15948:2004. Its name was proposed on [[Usenet]] by Oliver Fromme, as a recursive acronym meaning "PING is not GIF."
+
+=== KEY: PUBG_Battlegrounds_8a4b89
+HEADWORD: PUBG: Battlegrounds
+PERSON: no
+LINK TARGETS: Guinness World Records | Microsoft Windows | Steam (service)
+ENTRY:
+Battle royale video game published by Krafton and first released for [[Microsoft Windows|Windows]] through [[Steam (service)|Steam]] in 2017. Up to one hundred players parachute onto an island, scavenge weapons and fight until one player or team remains, as a safe area shrinks over time. The game was based on mods by Brendan "PlayerUnknown" Greene and inspired by the Japanese film *Battle Royale* (2000). It has been free-to-play since 2022 and has sold more than 75 million copies on personal computers and consoles. Critics praised its approachability and replayability, and it popularized the battle royale genre. It set seven [[Guinness World Records]].
+
+=== KEY: P_T_Barnum_70c6bb
+HEADWORD: Barnum, P. T.
+PERSON: yes
+LINK TARGETS: Aquarium | Connecticut | New York City
+ENTRY:
+American showman, businessman, and politician known for promoting hoaxes and for founding a circus with James Anthony Bailey. In [[New York City]] he bought Scudder's American Museum, renamed it after himself, and displayed curiosities such as the Fiji mermaid. In 1850 he promoted the American tour of Jenny Lind, paying her $1,000 per night for 150 nights. His museum added America's first [[Aquarium]]. A Republican, he served two terms in the [[Connecticut]] legislature and was elected mayor of Bridgeport in 1875. The adage "there's a sucker born every minute" is attributed to him, but no evidence shows he coined it.
+
+=== KEY: P_ini_ddc58d
+HEADWORD: Pāṇini
+PERSON: yes
+LINK TARGETS: Brahmin | Ferdinand de Saussure
+ENTRY:
+Ancient Indian grammarian and linguist whose work codified Classical Sanskrit. His masterwork, the *Aṣṭādhyāyī*, is conventionally taken to mark the start of Classical Sanskrit and is the foundational text of *Vyākaraṇa*, one of the six Vedāṅgas, or auxiliary scholarly disciplines of ancient India. It uses a technical metalanguage of syntax, morphology and lexicon, organized according to a series of meta-rules. European scholars in the 19th century called him the "first descriptive linguist," and his approach influenced [[Ferdinand de Saussure]] and Leonard Bloomfield. He is dated variously to the 6th–5th and 4th centuries BCE, and numismatic evidence has been used to place him in the mid-4th century BCE. Some writers call him a [[Brahmin]], though this is uncertain.
+
+=== KEY: P_value_925c64
+HEADWORD: P-value
+PERSON: no
+LINK TARGETS: Probability
+ENTRY:
+[[Probability]], assuming the null hypothesis is true, of obtaining test results at least as extreme as those observed. The null hypothesis usually states that a parameter, such as a correlation or a difference between means, is zero. A small p-value means such an extreme result would be unlikely under that hypothesis. A result is statistically significant if it allows rejection of the null hypothesis, and smaller p-values are taken as stronger evidence against it. Ronald A. Fisher introduced the measure in the 1920s, and his 1925 book *Statistical Methods for Research Workers* formalized its use. Misinterpretation is widespread. In 2016 the American Statistical Association stated that p-values do not measure the probability that the hypothesis is true or the size of an effect, but a 2019 task force said that properly applied significance tests increase the rigor of conclusions.
+
+=== KEY: P_versus_NP_problem_b8207a
+HEADWORD: P versus NP problem
+PERSON: no
+LINK TARGETS: Artificial intelligence | Cryptography | John von Neumann | Kurt Gödel | Millennium Prize Problems | Theoretical computer science
+ENTRY:
+Unsolved problem in [[Theoretical computer science|theoretical computer science]]. It asks whether every decision problem whose positive answer can be verified quickly can also be solved quickly, where "quickly" means in polynomial time. The class of problems solvable in polynomial time is P, and the class whose answers can be verified in polynomial time is NP. Most researchers believe P ≠ NP, which would mean some problems are harder to solve than to verify. A proof either way would affect [[Cryptography|cryptography]], [[Artificial intelligence|artificial intelligence]], economics and many other fields. The problem was formally stated by Stephen Cook in 1971 and independently by Leonid Levin in 1973, after [[Kurt Gödel]] asked in a 1956 letter to [[John von Neumann]] whether theorem-proving could be done in quadratic or linear time. It is one of the seven [[Millennium Prize Problems]], each carrying a US$1,000,000 prize.
+
+=== KEY: Paavo_Nurmi_503e40
+HEADWORD: Nurmi, Paavo
+PERSON: yes
+LINK TARGETS: Finland | Helsinki | Olympic Games | Paris
+ENTRY:
+Finnish middle- and long-distance runner known as the "Flying Finn" for his dominance of distance running in the 1920s. Nurmi set 22 official world records at distances from 1,500 meters to 20 kilometers and won nine gold and three silver medals in the [[Olympic Games]]. In 1923 he became the first runner to hold simultaneous world records in the mile, the 5,000 m and the 10,000 m. At the 1924 [[Paris]] Olympics he won five gold medals. He was suspended before the 1932 Games over questions about his amateur status, and he retired in 1934. He later coached runners, worked in business and became one of the richest people in [[Finland]]. In 1952 he lit the Olympic flame at the [[Helsinki]] Games, and he is credited with popularizing the "even pace" strategy in running.
+
+=== KEY: Pablo_Casals_7124f0
+HEADWORD: Casals, Pablo
+PERSON: yes
+LINK TARGETS: Francisco Franco | Johann Sebastian Bach | John F. Kennedy
+ENTRY:
+Catalan cellist, conductor, and composer, best known for recordings of [[Johann Sebastian Bach|Bach]]'s Cello Suites. Born in El Vendrell, Spain, he found the suites at age 13 and practiced them for 13 years before performing them in public. After Republican Spain fell to the Nationalist forces of [[Francisco Franco]] in 1939, he went into self-exile and refused to return until democracy was restored. He lived in Prades, France, until 1956 and then in Ceiba, Puerto Rico. [[John F. Kennedy]] awarded him the Presidential Medal of Freedom in 1963. In 1971 he conducted his *Hymn to the United Nations* at the UN, where he received the U.N. Peace Medal.
+
+=== KEY: Pablo_Escobar_2d22da
+HEADWORD: Escobar, Pablo
+PERSON: yes
+LINK TARGETS: Cocaine | Medellín | Medellín Cartel | United States
+ENTRY:
+Colombian drug lord who founded the [[Medellín Cartel]], which controlled much of the [[Cocaine]] trade into the [[United States]] in the 1980s and early 1990s. Raised in [[Medellín]], Escobar moved from petty crime to working for smugglers in the early 1970s. He founded the cartel in 1976 and established smuggling routes from Peru, Bolivia and Ecuador through Colombia. At his peak he was estimated to have a net worth of US$30 billion, earning him the nickname "King of Cocaine." He was elected an alternate member of the Chamber of Representatives in 1982, but his political ambitions were thwarted by the Colombian and US governments. His cartel was linked to bombings and to murders of police officers, judges and politicians. He was killed by police in his hometown, and the cartel collapsed. Many Colombians regarded him as a "Robin Hood-like" figure, and over 25,000 people attended his funeral.
+
+=== KEY: Pablo_Neruda_5cbc1c
+HEADWORD: Neruda, Pablo
+PERSON: yes
+LINK TARGETS: Augusto Pinochet | Communism | Gabriel García Márquez | Nobel Prize | Salvador Allende
+ENTRY:
+Chilean poet, diplomat, and politician who won the 1971 [[Nobel Prize]] in Literature. His work ranged from the love poems of *Twenty Love Poems and a Song of Despair* (1924) to surrealist, historical, and political verse. He served as a senator for the Chilean Communist Party. After the government outlawed [[Communism|communism]] in 1948, he fled to Argentina and did not return to Chile for more than three years. He was a close adviser to President [[Salvador Allende]] and later served as ambassador to France. He died in Santiago after the coup led by [[Augusto Pinochet]] overthrew Allende's government. The official cause was prostate cancer, but a 2023 toxicology report found *Clostridium botulinum* in his teeth, and an official inquiry was reopened in 2024. [[Gabriel García Márquez]] called him "the greatest poet of the 20th century in any language."
+
+=== KEY: Pablo_Picasso_971671
+HEADWORD: Picasso, Pablo
+PERSON: yes
+LINK TARGETS: Barcelona | Collage | Cubism | Guernica (Picasso) | Henri Matisse | Les Demoiselles d'Avignon | Málaga | Spanish Civil War
+ENTRY:
+Spanish painter, sculptor, printmaker, and ceramicist who spent most of his adult life in France. He co-founded the [[Cubism|Cubist]] movement, invented constructed sculpture, co-invented [[Collage|collage]], and produced about 50,000 artworks in a career of more than 76 years. Among his best-known works are the proto-Cubist [[Les Demoiselles d'Avignon|*Les Demoiselles d'Avignon*]] (1907) and the anti-war painting [[Guernica (Picasso)|*Guernica*]] (1937), a portrayal of the bombing of Guernica during the [[Spanish Civil War]].
+
+Born in [[Málaga]], the first child of the painter José Ruiz y Blasco, he began formal training under his father at age seven. The family moved to A Coruña in 1891. After his seven-year-old sister Conchita died of diphtheria in 1895, they moved to [[Barcelona]], where Picasso, at 13, passed the entrance exam for the advanced class at the School of Fine Arts in a week. He settled in Paris in 1904.
+
+His style changed repeatedly in the first decade of the 20th century. After 1906, the Fauvist work of the older artist [[Henri Matisse]] pushed him toward more radical styles and began a rivalry in which critics often paired the two as leaders of modern art. The commonly accepted periods of his work are the Blue Period (1901–1904), the Rose Period (1904–1906), the African-influenced Period (1907–1909), Analytic Cubism (1909–1912), and Synthetic Cubism (1912–1919). His work of the late 1910s and early 1920s is often neoclassical, and that of the mid-1920s shows traits of Surrealism. Later work combines earlier styles. He achieved great renown and fortune. Accounts of his relationships with partners such as Fernande Olivier, Olga Khokhlova, Marie-Thérèse Walter, Dora Maar, and Françoise Gilot describe them as domineering and emotionally abusive, prompting posthumous criticism of misogyny.
+
+=== KEY: Pac_Man_7bbeca
+HEADWORD: Pac-Man
+PERSON: no
+LINK TARGETS: Artificial intelligence | Mascot
+ENTRY:
+Maze arcade video game released by Namco in 1980, originally titled Puck Man in Japan. The player eats dots in an enclosed maze while avoiding four colored ghosts, each with its own [[Artificial intelligence|artificial intelligence]]. Eating large "Power Pellets" makes the ghosts vulnerable for a time. Designer Toru Iwatani wanted a game that would appeal to women as well as men. The game spawned sequels, merchandise, two television series and the hit single "Pac-Man Fever." The character became Namco's official [[Mascot|mascot]]. The game has generated more than $14 billion in revenue (as of 2016) and sold 43 million units.
+
+=== KEY: Pachacuti_2a430a
+HEADWORD: Pachacuti
+PERSON: yes
+LINK TARGETS: Cusco | Inca Empire | Lake Titicaca | Machu Picchu | Quito
+ENTRY:
+Ninth Sapa Inca, who transformed the chiefdom of [[Cusco]] into the [[Inca Empire]] and reigned from about 1438 to 1471. He succeeded his father, Viracocha Inca, after the Chanka–Inca War. His conquests extended Inca rule from the Cusco valley to the [[Lake Titicaca]] basin, the eastern Andean slopes and the [[Quito]] basin. Most archaeologists believe that [[Machu Picchu]] was built as an estate for him. According to the chronicler Garcilaso de la Vega, he created the Inti Raymi festival to celebrate the new year. Some anthropologists regard him as one of the first historical Inca emperors; others see him as a mythological figure marking the start of imperial expansion.
+
+=== KEY: Pachinko_cf9bb2
+HEADWORD: Pachinko
+PERSON: no
+LINK TARGETS: Casino | Gambling | Slot machine | Yakuza
+ENTRY:
+Mechanical game originating in Japan, used as an arcade game and, far more often, for [[Gambling|gambling]]. It fills a niche similar to that of the [[Slot machine|slot machine]] in the Western world. Parlors look much like [[Casino|casinos]]. Gambling for cash is illegal in Japan, but players can exchange balls for prize tokens that can be sold for cash off the premises. In 1994 the market was valued at ¥30 trillion. [[Yakuza]] groups long infiltrated the industry, though police crackdowns reduced this from the 1990s. The number of parlors peaked at 18,244 in 1997 and had fallen to 7,665 by 2022.
+
+=== KEY: Pachisi_a4eb95
+HEADWORD: Pachisi
+PERSON: no
+LINK TARGETS: Akbar | Mahabharata
+ENTRY:
+Cross-and-circle board game from India. Its origins are disputed: some scholars link it to the "Pasha" game described in the [[Mahabharata]], though the descriptions do not clearly match, while others place its development in medieval India. The name derives from the Hindi *paccīs*, "twenty-five," the largest score from throws of cowrie shells. Two to four players move pieces around a cross-shaped board, and the team that moves all its pieces to the finish first wins. The Mughal emperor [[Akbar]] reportedly played it on courtyard boards using human pieces. In 1938 the American company Transogram introduced a board version, Pa-Chiz-Si. Related commercial games include Parcheesi and Ludo.
+
+=== KEY: Pacific_Coast_Ranges_2f15b8
+HEADWORD: Pacific Coast Ranges
+PERSON: no
+LINK TARGETS: Alaska | British Columbia | Fjord | Gulf of Alaska | North America | Vancouver Island
+ENTRY:
+Series of mountain ranges along the West Coast of [[North America]], from [[Alaska]] to northern and central Mexico. They are part of the North American Cordillera and include the Coast Mountains, Olympic Mountains, Cascade Range and California Coast Ranges. The Insular Mountains of [[Vancouver Island]] lie farther west. In Alaska the ranges contain record-setting tidewater glaciers, while along the coasts of [[British Columbia]] and Alaska the mountains meet the sea in [[Fjord|fjords]] and thousands of islands. In winter, cool air masses from the [[Gulf of Alaska]] bring heavy rain and snow to the ranges north of San Francisco Bay, especially to their western slopes. Plate tectonics shaped the ranges, and the San Andreas fault system in California produces ongoing earthquakes.
+
+=== KEY: Pacific_Northwest_0f1df8
+HEADWORD: Pacific Northwest
+PERSON: no
+LINK TARGETS: Alaska | British Columbia | Idaho | Oregon | Portland, Oregon | Seattle | Washington (state) | Yukon
+ENTRY:
+Bi-national geographic and cultural region of western North America, also called Cascadia. Its most common conception includes the U.S. states of [[Oregon]], [[Washington (state)|Washington]] and [[Idaho]], and the Canadian province of [[British Columbia]]. Broader definitions reach into [[Yukon]] and [[Alaska]]. Its largest metropolitan areas are Greater [[Seattle]] (4 million people), Metro Vancouver (3.4 million) and Greater [[Portland, Oregon|Portland]] (2.5 million). The culture is shaped by the Canada–United States border, which was established when most of the region's inhabitants were Indigenous peoples. Historian Ken Coates argued that "the region's history and character have been determined by the boundary."
+
+=== KEY: Pacific_Ocean_3e3b0e
+HEADWORD: Pacific Ocean
+PERSON: no
+LINK TARGETS: Austronesian peoples | Challenger Deep | Equator | Ferdinand Magellan | International Date Line | Mariana Trench | Ring of Fire | Southern Ocean
+ENTRY:
+Largest and deepest of Earth's five oceanic divisions, stretching from the Arctic Ocean in the north to the [[Southern Ocean]] or, by some definitions, Antarctica in the south, and bounded by Asia and Australia in the west and the Americas in the east.
+
+With an area of 165,250,000 sq km (defined with a southern Antarctic border), it covers about 46% of Earth's water surface and about 32% of the planet's total surface, more than all land combined. Circulation divides it into the North and South Pacific, which meet at the [[Equator|Equator]]; the [[International Date Line]] informally divides it into east and west. Mean depth is 4,000 m. [[Challenger Deep]], in the [[Mariana Trench]], is the deepest known point in the world at 10,928 m, and the Horizon Deep in the Tonga Trench, at 10,823 m, is the deepest point in the Southern Hemisphere. More than 25,000 islands rise above its surface, many of them the remains of volcanoes, and it is ringed by the [[Ring of Fire]], a belt of volcanoes and earthquake zones driven by subduction of the Pacific Plate.
+
+In 1513 the Spanish explorer Vasco Núñez de Balboa sighted what he named the Mar del Sur. The current name was coined during the Spanish circumnavigation of 1520 by [[Ferdinand Magellan]], who found favorable winds and called it *Mar Pacífico* ("peaceful sea").
+
+Modern humans first reached the western Pacific around 60,000 to 70,000 years ago, crossing at least 80 km of sea between Sundaland and Sahul to reach Australia. The later Neolithic expansion of the [[Austronesian peoples]], from Taiwan c. 3000–1500 BCE, brought outrigger and sailing technology to the first settlement of Remote Oceania, reaching the Marianas by 1500 BCE and Palau and Yap by 1000 BCE.
+
+=== KEY: Pacific_War_3c7d0d
+HEADWORD: Pacific War
+PERSON: no
+LINK TARGETS: Battle of Leyte Gulf | Battle of Midway | Empire of Japan | Hiroshima | Nagasaki | Second Sino-Japanese War | World War II
+ENTRY:
+Theater of [[World War II]] fought between the [[Empire of Japan]] and the Allies in East and Southeast Asia, the Pacific and Indian Oceans, and Oceania. Japan's war with China, the [[Second Sino-Japanese War]], began in 1937, but the Pacific War is more widely dated from 1941, when the United States and United Kingdom entered. On December 7–8, 1941, Japan attacked Pearl Harbor and launched campaigns against the Philippines, Guam, Malaya, Singapore and Hong Kong. The [[Battle of Midway]] in June 1942 is considered a key turning point, and Allied island-hopping campaigns followed, beginning with Guadalcanal and New Guinea. After heavy losses at the [[Battle of Leyte Gulf]], Japanese forces resorted to kamikaze attacks. After the atomic bombings of [[Hiroshima]] and [[Nagasaki]] and the Soviet invasion of Manchuria, Japan surrendered on August 15, 1945.
+
+=== KEY: Pacifism_d6c792
+HEADWORD: Pacifism
+PERSON: no
+LINK TARGETS: Buddhism | Glasgow | Hinduism | Jainism | Leo Tolstoy | Mahatma Gandhi | Martin Luther King Jr.
+ENTRY:
+Philosophy opposing war or violence. The word was coined by French peace campaigner Émile Arnaud and adopted at the Universal Peace Congress in [[Glasgow]] in 1901. A related term, *ahimsa* ("to do no harm"), is central to [[Hinduism]], [[Buddhism]] and [[Jainism]]. In modern times, interest was revived by [[Leo Tolstoy]] in his late works. [[Mahatma Gandhi]] practiced nonviolent resistance, which he called *satyagraha*, in the Indian independence movement, and its example inspired [[Martin Luther King Jr.]] and others in the civil rights movement. Principled pacifists hold that violence is morally wrong, while pragmatic pacifists argue that the costs of war must be avoided. Some pacifists accept force in self-defense. Critics argue that unilateral restraint can enable aggressors.
+
+=== KEY: Paco_de_Luc_a_b032a8
+HEADWORD: Paco de Lucía
+PERSON: yes
+LINK TARGETS: Flamenco | Madrid | Seville
+ENTRY:
+Spanish [[Flamenco|flamenco]] guitarist, composer and record producer. A leading proponent of the new flamenco style, he was among the first flamenco guitarists to branch into classical and jazz. He was noted for fast, fluent *picados* (fingerstyle runs) and for contrasting them with sensitive playing, and he added abstract chords and scale tones with jazz influences to his compositions. His 1970s recordings with singer Camarón de la Isla, ten albums considered among the most influential in flamenco history, brought him acclaim. Collaborations with John McLaughlin, Al Di Meola and Larry Coryell in the late 1970s gained him wider popularity outside Spain. He formed the Paco de Lucía Sextet in 1981, and performed at Expo '92 in [[Seville]] and on the Plaza Mayor in [[Madrid]]. After 2004 he greatly reduced his public performances.
+
+=== KEY: Padang_a7bf82
+HEADWORD: Padang
+PERSON: no
+LINK TARGETS: British Empire | Dutch East Indies | Netherlands | Palembang | Sukarno | Tsunami
+ENTRY:
+City (pop., 2020: 909,040), capital and largest city of West Sumatra province, Indonesia. Padang is known for its Minangkabau culture, cuisine and sunset beaches. Traders dealt in pepper and gold there before the [[Netherlands|Dutch]] arrived in the mid-17th century, built a fortress, and took control from the Pagaruyung Kingdom. Two periods of [[British Empire|British]] rule, from 1781 to 1784 and from 1795 to 1819, interrupted Dutch control. The city remained part of the [[Dutch East Indies]] until Indonesian independence. In 1906, Padang and [[Palembang]] became the first places in Sumatra to achieve city status (*gemeente*). [[Tsunami|Tsunamis]] inundated the city in 1797 and 1833. On March 17, 1942, as the Japanese army entered, the Dutch abandoned Padang, where [[Sukarno]] had been detained.
+
+=== KEY: Padmasambhava_a1603e
+HEADWORD: Padmasambhava
+PERSON: yes
+LINK TARGETS: Bhutan | Nepal | Tantra | Tibet | Vajrayana
+ENTRY:
+Semi-legendary Indian [[Tantra|tantric]] Buddhist master, also known as Guru Rinpoche ("Precious Guru"). Hagiographies credit him with fully revealing [[Vajrayana]] in [[Tibet]], c. 8th–9th centuries. Early Tibetan sources, including the *Testament of Ba*, say he came to Tibet in the 8th century and designed Samye Monastery, the first Buddhist monastery in Tibet, under King Trisong Detsen. With the king and Khenpo Shantarakshita, he is credited with translating the Buddha's teachings and their commentaries into Tibetan, creating the Tibetan Canon. Earlier Tibetologists questioned his historical authenticity, but it is now "cautiously accepted." The Nyingma school regards him as a founding figure. Tibetan Buddhists believe his hidden treasure texts (*termas*) are revealed by *tertöns* (treasure finders). He is widely venerated in Tibet, [[Nepal]], [[Bhutan]], the Himalayan states of India and abroad.
+
+=== KEY: Padre_Pio_ae1326
+HEADWORD: Padre Pio
+PERSON: yes
+LINK TARGETS: Catholic Church | Jesus | Pilgrimage | Pope John Paul II
+ENTRY:
+Italian Capuchin friar, priest and stigmatist, venerated as a saint in the [[Catholic Church]]. He bore stigmata, wounds like those of [[Jesus|Jesus Christ]], on his hands, feet and side, and spent most of his religious life at the monastery in San Giovanni Rotondo. Vatican investigations led to temporary sanctions on his ministry, yet his reputation for sanctity grew. He was beatified on May 2, 1999, and canonized on June 16, 2002, by [[Pope John Paul II]]. His relics lie in a sanctuary beside the monastery, a major [[Pilgrimage|pilgrimage]] site. His legacy includes the Casa Sollievo della Sofferenza hospital.
+
+=== KEY: Pagan_Kingdom_43d9ba
+HEADWORD: Pagan Kingdom
+PERSON: no
+LINK TARGETS: Anawrahta | Khmer Empire | Malay Peninsula | Mongols | Myanmar | Theravada
+ENTRY:
+Burmese kingdom (846–1297), the first to unify the regions that became modern [[Myanmar]]. The kingdom grew from a small 9th-century settlement at Pagan by the Mranma people, predecessors of the Bamar. King [[Anawrahta]] founded the Pagan Empire in the 1050s and 1060s, unifying the Irrawaddy valley and its periphery. By the late 12th century its influence reached the upper [[Malay Peninsula]] and east to the Salween River, and with the [[Khmer Empire]] it was one of two main empires in mainland Southeast Asia. Burmese language and culture became dominant, and [[Theravada]] Buddhism spread. Its rulers built over 10,000 Buddhist temples in the Bagan Archaeological Zone, of which over 2,000 remain. Growing tax-free religious wealth weakened the crown, and repeated [[Mongols|Mongol]] invasions (1277–1301) toppled the kingdom in 1287, followed by 250 years of fragmentation.
+
+=== KEY: Paganism_d219fa
+HEADWORD: Paganism
+PERSON: no
+LINK TARGETS: Christianity | Middle Ages | Modern paganism | Roman Empire | Sacrifice
+ENTRY:
+[[Christianity|Christian]] exonym for non-Abrahamic religious groups, especially polytheists. Derived from the Latin *paganus*, meaning "rustic" or "country dweller," the term was used by Christians in the [[Roman Empire]] to distinguish outsiders, and very few people self-identified with it. It broadly connoted the "religion of the peasantry," since traditional polytheism was thought to persist in rural areas. Participation in [[Sacrifice|ritual sacrifice]] was a strong indication of whether a person was pagan or Christian. In the [[Middle Ages]], Christians applied the term to any non-Christian group, implying belief in false gods. From the 15th to 19th centuries, Europeans used "pagan" or "heathen" for diverse non-Abrahamic beliefs encountered in the Americas, Asia, Africa and Australasia. In the 19th century artists adopted the label, and in the 20th century [[Modern paganism|modern pagan]] movements increasingly embraced it.
+
+=== KEY: Pagoda_8bebc8
+HEADWORD: Pagoda
+PERSON: no
+LINK TARGETS: Chinese architecture | Dravidian languages | Hebei | India | Sanskrit | Tower
+ENTRY:
+Usually religious, tiered [[Tower|tower]] with multiple eaves, common across Asia. Most pagodas were built for Buddhist worship, though some are Taoist or Hindu. The pagoda traces its origins to the stupa, a dome-shaped monument used to house relics, dating to the 3rd century BCE, while its design developed in ancient [[India]]. The earliest styles of [[Chinese architecture|Chinese]] pagodas had square or circular bases, and octagonal bases emerged in the 5th–10th centuries. Most have between three and 13 tiers, almost always an odd number. The oldest and tallest were wooden, but most surviving pagodas are brick or stone. The tallest pre-modern pagoda still standing is the Liaodi Pagoda of Kaiyuan Monastery in Dingxian, [[Hebei]], completed in 1055 AD, at 84 m (275 ft). The English word derives from 16th-century Portuguese *pagode*, from [[Dravidian languages|Dravidian]] terms ultimately derived from [[Sanskrit]] *bhagavatī*.
+
+=== KEY: Pain_19852c
+HEADWORD: Pain
+PERSON: no
+LINK TARGETS: Amputation | Feeling | Nervous system | Rheumatoid arthritis
+ENTRY:
+Distressing bodily [[Feeling|feeling]], often caused by intense or damaging stimuli. The International Association for the Study of Pain defines pain as "an unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage." It motivates animals to withdraw from damaging situations and protect a healing body part. Most pain resolves once the stimulus is removed and the body heals, but some persists for years, as with [[Rheumatoid arthritis|rheumatoid arthritis]]. Pain is the most common reason for physician consultation in most developed countries. Simple over-the-counter medications help in 20% to 70% of cases of common acute pain. Neuropathic pain arises from damage to the [[Nervous system|nervous system]]. Phantom pain, felt in a missing limb, affects nearly 82% of upper limb [[Amputation|amputees]] and 54% of lower limb amputees.
+
+=== KEY: Paint_4802a5
+HEADWORD: Paint
+PERSON: no
+LINK TARGETS: Cave painting | Charcoal | Ochre | Pigment
+ENTRY:
+[[Pigment|Pigmented]] liquid that, when applied to a solid material and allowed to dry, forms a film-like layer. Most paints are oil-based or water-based, and each has distinct characteristics. Clean-up solvents differ between the two, and curing depends on the ambient temperature of the painted object. Paint was used in some of the earliest known human artworks. [[Cave painting|Cave paintings]] drawn with red or yellow [[Ochre]], hematite, manganese oxide and [[Charcoal]] may have been made as long as 40,000 years ago. A 100,000-year-old ochre mixture that could have been used like paint was reported from Blombos Cave in South Africa. The oldest known oil paintings are Buddhist murals created c. 650 AD in Afghanistan's Bamiyan Valley. In the 14th century, Cennino Cennini described tempera covered with light layers of oil; tempera was made with egg yolk.
+
+=== KEY: Painted_turtle_4b1265
+HEADWORD: Painted turtle
+PERSON: no
+LINK TARGETS: Algae | Crustacean
+ENTRY:
+Pond turtle species (*Chrysemys picta*), North America's most widespread native turtle. It has three subspecies: the eastern, midland and western. It ranges from southern Canada to northern Mexico and prefers large wetlands with long periods of inundation and emergent vegetation. Adults are 13–25 cm (5.1–9.8 in) long, with a dark, smooth top shell and olive to black skin marked with red, orange or yellow stripes. It eats aquatic vegetation, [[Algae|algae]], insects, [[Crustacean|crustaceans]] and fish. Active only by day, it basks on logs or rocks. In winter it brumates in the mud at the bottom of water bodies, tolerating freezing temperatures thanks to an antifreeze-like substance in its blood. Adults can live for more than 55 years in the wild. Four U.S. states have named it their official reptile, and its conservation status is Least Concern.
+
+=== KEY: Painting_2875ec
+HEADWORD: Painting
+PERSON: no
+LINK TARGETS: Cave painting | Impressionism | Jackson Pollock | Oil painting | Photography | Piet Mondrian | Watercolor painting
+ENTRY:
+Visual art characterized by applying paint, pigment, color, or another medium to a solid surface. The medium is commonly applied with a brush, but palette knives, sponges, airbrushes, fingers, or dripping may also be used. The term describes both the act and the resulting work. Supports include walls, paper, canvas, wood, glass, lacquer, pottery, leaf, and copper, and paintings may incorporate sand, clay, plaster, gold leaf, or entire objects.
+
+Painting brings together drawing, composition, gesture, narration, and abstraction. It may be naturalistic and representational, as in portraits, still life, and landscape, or abstract, narrative, symbolist, emotive, or political. A significant share of its history in both Eastern and Western art has been dominated by religious subjects, from mythological figures on pottery to Biblical scenes on the Sistine Chapel ceiling and the life of Buddha.
+
+The oldest known paintings are more than 40,000–60,000 years old and occur in caves in Maros, Sulawesi, Indonesia. A study published in *Nature* on July 3, 2024, dated [[Cave painting|cave paintings]] at Leang Karampuang, showing human-like figures interacting with a pig and measuring 91 by 38 cm, to about 51,200 years ago, making them the oldest known. Western traditions favor [[Oil painting|oil]] and [[Watercolor painting|watercolor]], refined in 15th-century Europe, while ink long predominated in the East.
+
+After the first photograph was produced in 1829, [[Photography|photography]] deprived painting of much of its role in recording the visible world. [[Impressionism]], Post-Impressionism, Fauvism, Expressionism, Cubism, and Dadaism then challenged the Renaissance view of the world. Twentieth-century abstraction, as in [[Piet Mondrian]]'s geometries and [[Jackson Pollock]]'s drip methods, favored form, color, and gesture. Color, made up of hue, saturation, and value, is the essence of painting; black signifies mourning in the West and white in the East.
+
+=== KEY: Pakistan_b9698b
+HEADWORD: Pakistan
+PERSON: no
+LINK TARGETS: Bangladesh | British Raj | India | Indus Valley Civilisation | Islamabad | Karachi | Partition of India | South Asia
+ENTRY:
+Country in [[South Asia]] (pop., 2023: over 241.5 million), officially the Islamic Republic of Pakistan, a federal parliamentary republic of 796,095 sq km. It is the fifth-most populous country, with the second-largest Muslim population in the world. [[Islamabad]] is the capital and [[Karachi]] the largest city and financial center. Pakistan borders the Arabian Sea on the south and shares land borders with [[India]] to the east, Afghanistan to the west, Iran to the southwest, and China to the northeast.
+
+The area is the site of the 8,500-year-old Neolithic site of Mehrgarh, the [[Indus Valley Civilisation]] of the Bronze Age, and the Gandhara civilization. It was later ruled by the Achaemenid, Maurya, Kushan, Gupta, Ghaznavid, and Mughal empires and dynasties, among others, and finally by the [[British Raj]] from 1858 to 1947.
+
+Pakistan became independent in 1947 through the [[Partition of India]], which awarded separate statehood to British India's Muslim-majority regions and was accompanied by mass migration and loss of life. It adopted a republican constitution in 1956 and became an Islamic republic with two separate provinces, East and West Pakistan. East Pakistan seceded as [[Bangladesh]] in 1971 after a nine-month civil war. Governments since have alternated between civilian and military, democratic and authoritarian. Islam is the state religion, and over 96% of the population is Muslim.
+
+Pakistan is a declared nuclear-weapon state with the world's seventh-largest standing armed forces. Its economy is ranked among the world's emerging and growth-leading economies, but the country faces poverty, illiteracy, corruption, and terrorism. It belongs to the United Nations, the Commonwealth of Nations, and the Organisation of Islamic Cooperation.
+
+=== KEY: Palace_b1e7ef
+HEADWORD: Palace
+PERSON: no
+LINK TARGETS: Castle | Charlemagne | Crete | Head of state | Knossos | Nineveh | Persepolis | Rome
+ENTRY:
+Large residence, often royal or the home of a [[Head of state|head of state]] or other high-ranking dignitary. The word derives from Latin *palātium*, the name of the Palatine Hill in [[Rome]], where the imperial residences stood. A palace is typically distinguished from a [[Castle]], which is fortified. The earliest known palace in the architectural sense is the Palace of [[Knossos]] on [[Crete]], built by the Minoans around 2000 BC, though scholars generally doubt that Minoan palaces were royal residences. Assyrian palaces at [[Nineveh]] and Persian palaces at [[Persepolis]] followed. [[Charlemagne]], who traveled constantly, built fourteen palaces. Many historic palaces now serve as parliaments, museums or hotels.
+
+=== KEY: Palace_of_Versailles_184ec8
+HEADWORD: Palace of Versailles
+PERSON: no
+LINK TARGETS: French Revolution | Louis XIV | Louis XV | Louis XVI | Paris | Treaty of Versailles | UNESCO
+ENTRY:
+Château and former royal residence in Versailles, France, southwest of [[Paris]]. It was the principal residence of the French kings [[Louis XIV]], [[Louis XV]] and [[Louis XVI]]. The court and royal government lived there permanently from May 6, 1682, until October 6, 1789. Louis XIV conceived it to glorify the French monarchy, and it became the most important architectural project of his reign and a masterpiece of French classical architecture. The palace covers about 63,154 square meters and contains roughly 2,300 rooms, around 1,000 of which belong to the National Museum of the History of France. Its park covers 815 hectares, compared with more than 8,000 hectares before the [[French Revolution]]. It was designated a [[UNESCO]] World Heritage Site in 1979, and the [[Treaty of Versailles]] was signed there in 1919.
+
+=== KEY: Palace_of_Westminster_909270
+HEADWORD: Palace of Westminster
+PERSON: no
+LINK TARGETS: Big Ben | House of Lords | London | Parliament of the United Kingdom | World Heritage Site
+ENTRY:
+Meeting place of the [[Parliament of the United Kingdom|UK Parliament]] in [[London]], England. Its name is a metonym for the UK Parliament and government. Colloquially known as the Houses of Parliament after its two chambers, the [[House of Lords]] and the House of Commons, the palace has a Gothic Revival design by Charles Barry. The Elizabeth Tower houses the bell nicknamed [[Big Ben]]. Built in the 11th century as a royal palace, it was the principal residence of English monarchs until a fire in 1512 destroyed the royal apartments. The monarch moved to Whitehall, while Parliament, which had met there since the 13th century, stayed. A second, larger fire in 1834 destroyed most of the palace, but the 11th-century Westminster Hall survived. Construction of the replacement began in 1840 and lasted 30 years. The palace has been a [[World Heritage Site|UNESCO World Heritage Site]] since 1987.
+
+=== KEY: Palaeognathae_0ba7af
+HEADWORD: Paleognathae
+PERSON: no
+LINK TARGETS: Bird | Elephant bird | Emu | Kiwi (bird) | Moa | Ostrich | Tinamou
+ENTRY:
+Infraclass of [[Bird|birds]] comprising the flightless ratites and the flying [[Tinamou|tinamous]]. The infraclass contains five living orders. The four flightless lineages, termed ratites, include [[Ostrich|ostriches]], [[Kiwi (bird)|kiwis]] and [[Emu|emus]], while the tinamous are the single flying lineage. Recent research indicates that the group is monophyletic, but flightlessness evolved independently multiple times, since tinamous lie within the ratite radiation. The extinct [[Moa|moas]] and [[Elephant bird|elephant birds]] became extinct in the last 1250 years. The name means "old jaws," referring to a palate historically considered more primitive than those of other birds, though paleognath genomes have evolved at rates comparable to those of Neognathae.
+
+=== KEY: Palaeography_f7cfbc
+HEADWORD: Paleography
+PERSON: no
+LINK TARGETS: Epigraphy | Writing system
+ENTRY:
+Academic discipline concerned with historical [[Writing system|writing systems]], handwriting and manuscripts. It deals with deciphering, reading and dating manuscripts, and with the methods by which books, codices and tracts were produced. Paleography is one of the auxiliary sciences of history and is important for authenticating and dating texts, though script alone rarely pins down exact dates. Scholars must understand the abbreviations, letterforms and scribal conventions of a period, and determine a text's language, dialect and register. The discipline was founded by Jean Mabillon, whose *De re diplomatica* (1681) was the first textbook on the subject. Bernard de Montfaucon coined the term with his *Palaeographia Graeca* in 1708. It differs from [[Epigraphy]], which examines inscriptions.
+
+=== KEY: Palau_46096b
+HEADWORD: Palau
+PERSON: no
+LINK TARGETS: Federated States of Micronesia | League of Nations | Oceania | Pacific Ocean | Spanish–American War | United States | World War II
+ENTRY:
+Island country in the western [[Pacific Ocean]], in the Micronesia subregion of [[Oceania]]. Consisting of about 340 islands, Palau is the western part of the Caroline Islands. It has a total area of 466 square kilometers (180 sq mi). The capital, Ngerulmud, is on the largest island, Babeldaob. The islands were made part of the Spanish East Indies in 1885. After Spain's defeat in the [[Spanish–American War]], they were sold to Germany in 1899. After World War I they became part of the Japanese-ruled South Seas Mandate under the [[League of Nations]]. Fighting in [[World War II]] included the Battle of Peleliu. Palau voted against joining the [[Federated States of Micronesia]] in 1978 and gained full sovereignty in 1994 under a Compact of Free Association with the [[United States]]. It is a presidential republic, with an economy based on tourism, subsistence agriculture, fishing and foreign aid.
+
+=== KEY: Palembang_3bc184
+HEADWORD: Palembang
+PERSON: no
+LINK TARGETS: Dutch East Indies | Jakarta | Srivijaya | Strait of Malacca | Sumatra
+ENTRY:
+City (pop., 2020: 1,668,848), capital of the Indonesian province of South Sumatra. Palembang lies on both banks of the Musi River in the eastern lowlands of southern [[Sumatra]]. It was the capital of [[Srivijaya]], a Buddhist kingdom that controlled many maritime trade routes, including the [[Strait of Malacca]]. The Kedukan Bukit Inscription, dated 682 AD, is the oldest found in the city. Palembang was incorporated into the [[Dutch East Indies]] in 1825 after the Palembang Sultanate was abolished, and it was chartered as a city on April 1, 1906. It hosted the 2011 Southeast Asian Games and the 2018 Asian Games with [[Jakarta]], and the first light rail system in Indonesia began operating there in July 2018. The city of Neiva in Colombia is its antipode.
+
+=== KEY: Paleo_Indians_063dc3
+HEADWORD: Paleo-Indians
+PERSON: no
+LINK TARGETS: Americas | Bering Strait | Hunter-gatherer | Mastodon | Megafauna | Pleistocene
+ENTRY:
+Term for the first peoples to enter and inhabit the [[Americas]], toward the end of the Late [[Pleistocene]]. Traditional theories hold that big-animal hunters crossed the [[Bering Strait]] from northern Asia over the Beringia land bridge, which existed from 45,000 to 12,000 BCE. Small [[Hunter-gatherer|hunter-gatherer]] groups followed herds of large herbivores into Alaska. From c. 16,500 to c. 13,500 BCE, ice-free corridors opened along the Pacific coast and interior valleys, and people moved south. The dates and routes remain debated. Paleo-Indians hunted many now-extinct [[Megafauna|megafauna]], such as mammoths, [[Mastodon|mastodons]] and giant bison. Stone projectile points and scrapers are the primary evidence of early activity. The term was coined in 1940 by Frank H. H. Roberts for artifacts rather than peoples.
+
+=== KEY: Paleogene_5ac65c
+HEADWORD: Paleogene
+PERSON: no
+LINK TARGETS: Cenozoic | Cretaceous–Paleogene extinction event | Ecological niche | Epoch | Iridium | Mexico
+ENTRY:
+Geologic period and system, the first of the [[Cenozoic]] Era. Spanning 43 million years, from 66 Ma to 23.04 Ma (million years ago), it is divided into the Paleocene, Eocene and Oligocene [[Epoch|epochs]]. It began after the [[Cretaceous–Paleogene extinction event]], which removed non-avian dinosaurs, pterosaurs and marine reptiles. Survivors diversified rapidly into empty [[Ecological niche|ecological niches]]. Mammals radiated into many orders and colonized air and marine ecosystems by the Eocene, while birds quickly diversified from the surviving neognath and paleognath lineages. The base of the period is marked by an [[Iridium]] anomaly from an asteroid impact, with the crater at Chicxulub on the Yucatan Peninsula in [[Mexico]]. Climate changed from the Paleocene–Eocene thermal maximum to global cooling in the Eocene, and permanent Antarctic ice sheets appeared at the start of the Oligocene.
+
+=== KEY: Paleolithic_d98d41
+HEADWORD: Paleolithic
+PERSON: no
+LINK TARGETS: Arctic Circle | Pleistocene | Stone Age
+ENTRY:
+Prehistoric period, the first part of the [[Stone Age]], defined by the original development of stone tools. It extends from the earliest known stone tools made by hominins, c. 3.3 million years ago, to the end of the [[Pleistocene]], c. 11,650 cal BP. Hominins lived in small bands, gathering plants, fishing, and hunting or scavenging animals. Stone was the main material, though people also used wood, bone and leather. Around 50,000 years ago, artifacts became far more diverse, and bone artifacts and the first art appear in Africa. Humans reached Australia by c. 50,000–c. 40,000 BP, Japan by c. 30,000 BP, and Siberia above the [[Arctic Circle]] by c. 27,000 BP. By the end of the Upper Paleolithic, humans had crossed Beringia and spread through the Americas. The term was coined by John Lubbock in 1865.
+
+=== KEY: Paleontology_91d974
+HEADWORD: Paleontology
+PERSON: no
+LINK TARGETS: Biology | Charles Darwin | Evolution | Extinction | Fossil | Geology | Georges Cuvier
+ENTRY:
+Scientific study of the life of the past, mainly but not exclusively through [[Fossil|fossils]]. Paleontologists use fossils to classify organisms, measure geologic time, and assess the interactions between prehistoric organisms and their environment. Paleontological observations are known from at least the 6th century BC, but the science's foundation dates to the work of [[Georges Cuvier]] in 1796, who demonstrated evidence for [[Extinction|extinction]] and showed that the life of the past was not necessarily the same as that of the present. The French word *paléontologie* was introduced in 1822. [[Charles Darwin]] later popularized the concept of [[Evolution|evolution]]; evolution and extinction are understood as complementary processes that shaped the history of life.
+
+The field overlaps most with [[Geology|geology]] and [[Biology|biology]], and also with ecology, chemistry, physics, and mathematics. Invertebrate paleontology has traditionally been tied to geology and biostratigraphy, areas with both commercial and academic drivers, while vertebrate paleontology has been closer to biology. Fieldwork, laboratory preparation, and comparative anatomy remain core components. Other subfields include micropaleontology, paleobotany, paleobiology, and paleoecology. Methods include stratigraphy, radiometric dating, and cladistics, and biostratigraphy is used to reconstruct the geologic time scale. Theoretical analysis introduced in the 1950s and 1960s led to more focused fields studying changing geography and climate, phylogenetic relationships, and how fossilization occurs and what biases affect the fossil record.
+
+Paleontology draws attention in mass media comparable to that given to astrophysics and global health. Public interest can be traced to the mythologies of indigenous peoples and to the interpretation of fossils as the bones of dragons or giants. Prehistoric life inspires toys, television, film, computer games, and tourism, with budgets that often exceed funding within the field itself.
+
+=== KEY: Paleozoic_9f35b8
+HEADWORD: Paleozoic
+PERSON: no
+LINK TARGETS: Cambrian explosion | Permian–Triassic extinction event | Phanerozoic
+ENTRY:
+First era of the [[Phanerozoic]] Eon, from 538.8 Ma to 251.902 Ma. It is divided into the Cambrian, Ordovician, Silurian, Devonian, Carboniferous and Permian periods. The [[Cambrian explosion]] was the most rapid and widespread diversification of life in Earth's history, when most modern phyla first appeared. Arthropods, mollusks, fish, amphibians, reptiles and synapsids evolved during the era, and life moved from the oceans onto land. In the late Paleozoic, great forests formed coal beds in Europe and eastern North America. The era ended with the [[Permian–Triassic extinction event]], the largest extinction of the Phanerozoic. The name, from Greek for "old" and "life," was first used by Adam Sedgwick in 1838.
+
+=== KEY: Palermo_819169
+HEADWORD: Palermo
+PERSON: no
+LINK TARGETS: Carthage | Kingdom of Sicily | Phoenicia | Sicily | World Heritage Site
+ENTRY:
+Capital and largest city of [[Sicily]], Italy (pop., 2026: 626,273). Founded in 734 BC by the [[Phoenicia|Phoenicians]] as Sis, Palermo later became a possession of [[Carthage]], then part of the Roman Republic and Empire. From 831 to 1072 it was under Arab rule in the Emirate of Sicily, when it first became the capital of Sicily. After the Norman conquest it became the capital of the [[Kingdom of Sicily]], which lasted from 1130 to 1816. The city is noted for its history, culture, architecture and gastronomy, including Romanesque, Gothic, Baroque and Art Nouveau churches and palaces. It is the main seat of the [[World Heritage Site|UNESCO World Heritage Site]] Arab-Norman Palermo and the Cathedral Churches of Cefalù and Monreale. Roman Catholicism is important in its culture, and the patron saint, Santa Rosalia, is celebrated on July 15.
+
+=== KEY: Palestine_008ced
+HEADWORD: Palestine
+PERSON: no
+LINK TARGETS: Gaza Strip | Hamas | Jerusalem | Levant | Nakba | Six-Day War | United Nations | West Bank
+ENTRY:
+Country in the Southern [[Levant]] of West Asia, comprising the [[West Bank]] and the [[Gaza Strip]]. Its proclaimed capital is [[Jerusalem]], while Ramallah serves as its de facto administrative center. The Palestinian Authority governs parts of the West Bank, and [[Hamas]] has controlled Gaza since 2007. The Palestine Liberation Organization declared independence in 1988. Recognized as a sovereign state by 157 of the UN's 193 member states, Palestine is a permanent non-member observer state at the [[United Nations]]. The 1948 war saw the forcible displacement of a majority of the Arab population, which Palestinians call the [[Nakba]] ("catastrophe"). Israel occupied the West Bank and Gaza in the [[Six-Day War]] of 1967. The October 7 attacks by Hamas in 2023 killed 1195 people, and Israel's military operation in Gaza has killed over 72,000 Palestinians. A growing scholarly consensus has recognized these acts as genocide.
+
+=== KEY: Palestine_Liberation_Organization_48edbe
+HEADWORD: Palestine Liberation Organization
+PERSON: no
+LINK TARGETS: Israel | Mandatory Palestine | Oslo Accords | Second Intifada | United Nations Security Council | United States | Yasser Arafat
+ENTRY:
+Palestinian nationalist coalition, recognized internationally as the official representative of the Palestinian people. Founded in 1964, it initially sought an Arab state over all of former [[Mandatory Palestine]] and the elimination of [[Israel]]. Its militant wings earlier attacked Israeli military and civilian targets. Talks in 1993 produced the [[Oslo Accords|Oslo I Accord]], in which the PLO recognized Israel and accepted [[United Nations Security Council]] Resolution 242. [[Yasser Arafat]] renounced violence, but militant activity continued during the [[Second Intifada]]. The [[United States]] designated the PLO a terrorist group in 1987. It has held United Nations observer status since 1974.
+
+=== KEY: Palestine_region_f3e651
+HEADWORD: Palestine
+PERSON: no
+LINK TARGETS: Herodotus | League of Nations | Ottoman Empire | Six-Day War
+ENTRY:
+Geographic region of West Asia, generally encompassing modern Israel and the Palestinian territories. [[Herodotus]] used the Greek *Palaistine* in the 5th century BCE for the territory of Philistia. The Roman Empire conquered the region in 63 BCE and created the predominantly Jewish province of Judaea in 6 CE, renamed Syria Palaestina. The Muslim conquest of the 630s followed. From 1516 it was part of the [[Ottoman Empire]] for four centuries. Between 1919 and 1922 the [[League of Nations]] created the Mandate for Palestine. Israel occupied the West Bank and Gaza in the [[Six-Day War]] of 1967.
+
+=== KEY: Pali_5b6423
+HEADWORD: Pali
+PERSON: no
+LINK TARGETS: Bihar | Magadha | Theravada
+ENTRY:
+Middle Indo-Aryan language, studied as the sacred language of [[Theravada|Theravada Buddhism]] and the language of the Tipiṭaka, the canon of early Buddhist texts. The name does not appear in the canonical literature and seems to have arisen in commentaries, perhaps from a misunderstanding of the phrase *pāli-bhāsa*. Early commentaries identified Pali with Magadhi, the language of the kingdom of [[Magadha]] in what is now [[Bihar]]. Modern scholars instead regard Pali as a mix of several Prakrits from around the 3rd century BCE, partly Sanskritized, with no attested dialect that has all its features. It descends from dialects that differed from Ṛgvedic Sanskrit and probably originated in western India, though it retains some eastern features. It ceased to be a spoken vernacular by the early centuries CE. The Government of India designated Pali a classical language on 3 October 2024.
+
+=== KEY: Pali_Canon_24d824
+HEADWORD: Pali Canon
+PERSON: no
+LINK TARGETS: Pali | Pyu city-states | The Buddha
+ENTRY:
+Standard collection of Theravada Buddhist scriptures, preserved in [[Pali]]. Known as the Tipiṭaka, or three baskets, it is the most complete extant early Buddhist canon. It is divided into the Vinaya Piṭaka, on monastic discipline; the Sutta Piṭaka, the largest, containing discourses attributed to [[The Buddha|the Buddha]]; and the Abhidhamma Piṭaka, treatises elaborating doctrine, particularly about the mind. The Vinaya and Sutta Piṭakas closely resemble the texts of other early schools, while the Abhidhamma is distinctively Theravada. Tradition holds that the teachings were recited at a council after the Buddha's death and preserved orally before being written down. The earliest surviving canonical Pali fragments date only to the mid-5th to mid-6th century CE, in the [[Pyu city-states]] of Burma. Buddhaghosa, active in the 4th–5th century, wrote commentaries that summarize the traditional interpretation, most fully in his *Visuddhimagga*.
+
+=== KEY: Palk_Strait_d41b5a
+HEADWORD: Palk Strait
+PERSON: no
+LINK TARGETS: Adam's Bridge | Rama | Ramayana | Ravana | Sita
+ENTRY:
+Strait between southeastern India and northern Sri Lanka, linking the Bay of Bengal to the Laccadive Sea. It is about 137 km (85 mi) long and 64–137 km (40–85 mi) wide, and it is named after Robert Palk, governor of Madras from 1755 to 1763. Its southern boundary is a chain of low islands and shoals called Ram Setu or [[Adam's Bridge]]. In the Hindu epic [[Ramayana]], the shoals were said to be part of a bridge built by the army of [[Rama]] to rescue [[Sita]] from [[Ravana]]. The strait is shallow near the shoals, typically 1–3 m (3 ft 3 in–9 ft 10 in) deep, and reaches a maximum of 35 m (115 ft). Large ships find passage difficult, although fishing boats navigate it. A shipping channel was first proposed to the British government of India in 1860, and a 2005 canal project met opposition on religious grounds.
+
+=== KEY: Palladium_e9a1ae
+HEADWORD: Palladium
+PERSON: no
+LINK TARGETS: Aqua regia | Athena | Catalytic converter | Chemical element | Platinum | Rhodium
+ENTRY:
+Rare, lustrous silvery-white metal and [[Chemical element|chemical element]] with atomic number 46 and symbol Pd. English chemist William Hyde Wollaston discovered it and named it after the asteroid 2 Pallas, itself named for an epithet of the Greek goddess [[Athena]]. Palladium, [[Platinum]], [[Rhodium]], ruthenium, iridium and osmium form the platinum group metals, which have similar chemistry. Palladium has the lowest melting point and is the least dense of them. It is soft and ductile, does not tarnish in air, and dissolves readily in [[Aqua regia|aqua regia]]. More than half of supply goes into [[Catalytic converter|catalytic converters]], which convert as much as 90% of harmful exhaust gases into nontoxic substances. It is also used in electronics, dentistry, medicine, hydrogen purification and jewelry. Ore deposits are rare; the most extensive lie in South Africa, Montana, Ontario and Russia. Recycling, mostly of scrapped catalytic converters, is also a major source.
+
+=== KEY: Pallas_s_cat_3f4f8a
+HEADWORD: Pallas's cat
+PERSON: no
+LINK TARGETS: Lake Baikal
+ENTRY:
+Small wild cat of Central Asian mountains, also called the manul. Pallas's cat (*Otocolobus manul*) has long, dense, light gray fur and low-set rounded ears. Its head-and-body length is 46–65 cm (18–26 in), with a bushy tail of 21–31 cm (8.3–12.2 in). It inhabits rocky montane grasslands and shrublands from the Caucasus and Iran to Mongolia and Tibet, where it shelters in rock crevices and burrows and preys mainly on lagomorphs and rodents. Peter Simon Pallas first described it in 1776 near [[Lake Baikal]]. Listed as Least Concern on the IUCN Red List since 2020, it is threatened locally by poaching and habitat fragmentation.
+
+=== KEY: Palliative_care_aba216
+HEADWORD: Palliative care
+PERSON: no
+LINK TARGETS: Cancer | Chronic obstructive pulmonary disease | Heart failure | Multiple sclerosis | World Health Organization
+ENTRY:
+Interdisciplinary medical approach to relieving and preventing suffering in people with serious, complex and often terminal illnesses. The term comes from Latin *palliare*, to cloak. Palliative care aims to optimize quality of life and reduce suffering, and it can be given alongside curative treatment. Since the 2000s the [[World Health Organization]] (WHO) has advocated applying its principles early in any chronic, ultimately fatal illness, rather than only at the end of life. Care is ideally delivered by teams that may include physicians, nurses, therapists, psychologists, social workers, chaplains and dietitians, in hospitals, outpatient clinics or at home. Historically focused on incurable [[Cancer|cancer]], it is now also applied to severe [[Heart failure|heart failure]], [[Chronic obstructive pulmonary disease|chronic obstructive pulmonary disease]] and [[Multiple sclerosis|multiple sclerosis]]. An estimated 40 million people a year need palliative care, about 78% of them in low- and middle-income countries, but only 14% of that population can receive it.
+
+=== KEY: Palmyra_7fc023
+HEADWORD: Palmyra
+PERSON: no
+LINK TARGETS: Diocletian | Islamic State | Roman Empire | Silk Road | Zenobia
+ENTRY:
+Ancient oasis city in central Syria and a caravan center on the [[Silk Road]]. Archaeological finds date to the Neolithic period, and documents first mention the city in the early 2nd millennium BC. Its merchants, the Palmyrenes, grew wealthy from trade caravans and founded colonies across the [[Roman Empire]]; their wealth paid for the Great Colonnade, the Temple of Bel and distinctive tower tombs. Palmyra became a subject of Rome in the 1st century AD. It reached its height in the 260s under King Odaenathus, who defeated the Sasanian emperor Shapur I. His widow [[Zenobia]] rebelled against Rome and established the Palmyrene Empire. In 273 the Roman emperor Aurelian leveled the city, which [[Diocletian]] later restored at a reduced size. In 2015 the [[Islamic State]] captured Palmyra and destroyed large parts of the ancient city; the Syrian Army recaptured it on 2 March 2017.
+
+=== KEY: Pamela_Anderson_49a175
+HEADWORD: Anderson, Pamela
+PERSON: yes
+LINK TARGETS: Animal rights
+ENTRY:
+Canadian-American actress, model and media personality. She became known as a *Playboy* model, appearing as the magazine's February 1990 Playmate of the Month, and gained international fame as C.J. Parker on the drama series *Baywatch* (1992–1997). A 1995 sex tape, made from stolen home videos, led to a legal fight. Her later roles include Vallery Irons in *V.I.P.* (1998–2002) and the film *Scary Movie 3* (2003). In 2022 she made her Broadway debut as Roxie Hart in *Chicago*. She has supported [[Animal rights|animal rights]], particularly through People for the Ethical Treatment of Animals (PETA), and endorses plant-based cooking.
+
+=== KEY: Pampas_c240ce
+HEADWORD: Pampas
+PERSON: no
+LINK TARGETS: Agriculture | Argentina | Cattle
+ENTRY:
+Fertile low grasslands of southern South America, in [[Argentina]], Uruguay and southern Brazil. The name comes from Quechua *pampa*, meaning plain. The Argentine provinces of Buenos Aires, La Pampa, Santa Fe, Entre Ríos and Córdoba lie within the region, which is interrupted only by low hills such as the Ventana and Tandil hills. The climate is temperate, with 600 to 1,200 mm (23.6 to 47.2 in) of precipitation spread fairly evenly through the year, which makes the soils suited to [[Agriculture|agriculture]]. Humans have changed the ecoregion, especially since [[Cattle|cattle]], pigs and above all sheep were released onto the plains. Summer days generally reach 28 to 33 °C (82 to 91 °F), while frost is frequent and snow is rare. The highest point, Cerro Tres Picos, reaches 1,239 m (4,065 ft).
+
+=== KEY: Pan_Am_2c2855
+HEADWORD: Pan Am
+PERSON: no
+LINK TARGETS: Boeing 707 | Boeing 747 | John F. Kennedy International Airport
+ENTRY:
+United States airline (1927–1991). Pan American World Airways, founded in 1927, was the largest international air carrier for much of the 20th century and the first airline to fly worldwide. It introduced the first American jetliner, the [[Boeing 707]], in 1958, and later flew the [[Boeing 747]]. Its primary hub was the Worldport at [[John F. Kennedy International Airport]] in New York City. In 1970 it flew 11 million passengers to 86 countries. Pan Am faced rising competition after U.S. airline deregulation in 1978, failed restructuring attempts in the 1980s, and bankruptcy in 1991. It ceased operations on December 4, 1991.
+
+=== KEY: Pan_Am_Flight_103_5d2366
+HEADWORD: Pan Am Flight 103
+PERSON: no
+LINK TARGETS: Boeing 747 | Muammar Gaddafi
+ENTRY:
+Terrorist bombing of a Pan Am airliner over Lockerbie, Scotland. On 21 December 1988 a bomb destroyed the [[Boeing 747]] operating the flight from Frankfurt to Detroit via London and New York City, killing 243 passengers, 16 crew members and 11 residents of Lockerbie, 270 people in all. In 2001 Abdelbaset al-Megrahi, a Libyan, was found guilty of 270 counts of murder and sentenced to life imprisonment. He was released on compassionate grounds in 2009 and died in 2012. In 2003 Libyan leader [[Muammar Gaddafi]] paid more than US$2 billion in compensation to victims' families, although he maintained that he never personally ordered the attack.
+
+=== KEY: Pan_American_Highway_c2f794
+HEADWORD: Pan-American Highway
+PERSON: no
+LINK TARGETS: Canada | Colombia | Mexico | Mexico City | Panama
+ENTRY:
+Network of roads about 30,000 km (19,000 mi) long across the Americas. It runs from Prudhoe Bay, Alaska, to Ushuaia, Argentina, and connects 14 countries, including [[Canada]], [[Mexico]], [[Panama]] and [[Colombia]]. The highway is interrupted by the Darién Gap, a roadless rainforest 106 km (66 mi) wide between Panama and Colombia, so North and South America are not linked by road. Construction proceeded in stages, beginning with a highway from Laredo, Texas, to [[Mexico City]], followed by the Inter-American Highway to Panama City. Panama, Colombia and environmentalists oppose building a road through the gap.
+
+=== KEY: Pan_s_Labyrinth_3a1000
+HEADWORD: Pan's Labyrinth
+PERSON: no
+LINK TARGETS: Academy Awards | Francoist Spain | Guillermo del Toro
+ENTRY:
+Spanish-language dark fantasy film directed by [[Guillermo del Toro]] and released in 2006. Its original title is *El laberinto del fauno*. Set in [[Francoist Spain]] in 1944, the film follows Ofelia, whose stepfather, Captain Vidal, hunts Maquis guerrillas, as she is drawn into a mythical world centered on an abandoned labyrinth and a faun. It is a co-production of Spain and Mexico. It premiered at the Cannes Film Festival in May 2006, received a 22-minute standing ovation, and grossed $83 million worldwide. It won three [[Academy Awards]] and three BAFTA Awards.
+
+=== KEY: Panama_6bec34
+HEADWORD: Panama
+PERSON: no
+LINK TARGETS: Gran Colombia | Panama Canal | Panama City | United Nations
+ENTRY:
+Country at the southern end of Central America, on a narrow isthmus between the Caribbean Sea and the Pacific Ocean. Its capital and largest city is [[Panama City]], whose metropolitan area holds nearly half of the country's more than 4 million people. Spanish colonists arrived in the 16th century. Panama broke away from Spain in 1821, joined [[Gran Colombia]], and seceded from Colombia in 1903 with United States backing, which allowed the construction of the [[Panama Canal]]. Canal tolls remain a significant part of the economy, alongside commerce, banking and tourism. Panama ranked 57th on the Human Development Index in 2019. Jungles cover about 40 percent of its land area and shelter many plants and animals found nowhere else on Earth. Panama is a founding member of the [[United Nations]].
+
+=== KEY: Panama_Canal_118ef2
+HEADWORD: Panama Canal
+PERSON: no
+LINK TARGETS: Drake Passage
+ENTRY:
+Artificial waterway 82 km (51 mi) long across the Isthmus of Panama, linking the Atlantic and Pacific oceans. Locks lift ships to Gatun Lake, an artificial freshwater lake 26 m (85 ft) above sea level created by damming the Chagres River, and lower them on the far side. The original locks allow passage of Panamax ships. A third, wider set of locks was built between September 2007 and May 2016, and the expanded canal began commercial operation on 26 June 2016, accommodating larger Neopanamax ships. The canal avoids the long, hazardous route around South America via the [[Drake Passage]]. French work began in 1881 but stopped in 1889. The United States took over in 1904 and opened the canal on 15 August 1914, and Panama took full control in 1999. A single ship passage uses an average of 200,000,000 liters of fresh water, so droughts threaten the canal.
+
+=== KEY: Panama_City_770aee
+HEADWORD: Panama City
+PERSON: no
+LINK TARGETS: Inca Empire | Panama Canal | World Heritage Site
+ENTRY:
+Capital and largest city of Panama, at the Pacific entrance to the [[Panama Canal]]. Founded on 15 August 1519 by Spanish conquistador Pedro Arias Dávila, it was a launching point for the conquest of the [[Inca Empire]] and a transit point for gold and silver shipped to Spain across the isthmus. In 1671 the privateer Henry Morgan sacked and burned the original city. Its ruins, known as Panamá Viejo, are a [[World Heritage Site]]. The city was reestablished in 1673 about 8 km (5 miles) away, on the peninsula where the Casco Viejo historic quarter now stands. Panama City is the political and administrative center of the country and a hub for banking and commerce. Its metropolitan area has over 2,100,000 people.
+
+=== KEY: Panasonic_4db2eb
+HEADWORD: Panasonic
+PERSON: no
+LINK TARGETS: Philips
+ENTRY:
+Japanese multinational electronics manufacturer, headquartered in Kadoma, Osaka. Kōnosuke Matsushita founded the company in 1918 as Matsushita Electric Housewares Manufacturing Works. Its early products included radios, electric irons and bicycle lamps, sold under the National brand. The Panasonic brand was first adopted in 1955 for export markets. In the late 20th century the company overtook [[Philips]] to become the world's largest manufacturer of consumer electronics. It changed its name to Panasonic Corporation in 2008 and became Panasonic Holdings Corporation in 2022, when it reorganized as a holding company. Its products include rechargeable batteries, automotive and avionic systems, and home construction.
+
+=== KEY: Panavia_Tornado_d685a4
+HEADWORD: Panavia Tornado
+PERSON: no
+LINK TARGETS: Bosnian War | Gulf War | Iraq War | Kosovo War | NATO
+ENTRY:
+Family of twin-engine, variable-sweep-wing multirole combat aircraft. Developed by Panavia Aircraft GmbH, a consortium of British Aerospace, MBB of West Germany and Aeritalia of Italy. It first flew on 14 August 1974 and entered service in 1979–1980. Its main variants are the IDS (interdictor/strike) fighter-bomber, the ECR electronic combat and reconnaissance aircraft, and the ADV air defense interceptor. The Tornado served in the [[Gulf War]] of 1991 and in the [[Bosnian War]], [[Kosovo War]] and [[Iraq War]]. It is the only non-American-developed aircraft approved to carry United States nuclear weapons under [[NATO]]'s Nuclear Planning Group. A total of 990 aircraft were built.
+
+=== KEY: Panchatantra_68be66
+HEADWORD: Panchatantra
+PERSON: no
+LINK TARGETS: Indonesia | Laos | Thailand
+ENTRY:
+Ancient Indian collection of interrelated animal fables in Sanskrit verse and prose, arranged within a frame story. The title means *Five Treatises*. The author is unknown: some recensions name Vishnu Sharma and others Vasubhaga, both possibly fictitious. Scholars consider it a Hindu text based on older oral traditions. It is among the most frequently translated literary works from India, with about 200 versions in more than 50 languages. The earliest known non-Indian translation, into Middle Persian, was made by Burzoe around 550 CE. An Arabic version, *Kalīlah wa Dimnah*, followed in 750 CE. Most European versions derive from a 12th-century Hebrew version by Rabbi Joel. Versions are also found in [[Indonesia]], [[Laos]] and [[Thailand]].
+
+=== KEY: Pancho_Villa_3485cf
+HEADWORD: Villa, Pancho
+PERSON: yes
+LINK TARGETS: Emiliano Zapata | Mexican Revolution | Mexico City
+ENTRY:
+Mexican revolutionary, guerrilla leader and politician. Born José Doroteo Arango Arámbula, Villa was a key figure in the [[Mexican Revolution]], commanding the Division of the North in northern Mexico. A supporter of land reform, he was provisional governor of Chihuahua from 1913 to 1914. After breaking with Venustiano Carranza and allying with [[Emiliano Zapata]], he was defeated in 1915 by the Constitutionalist general Álvaro Obregón. In March 1916 he raided Columbus, New Mexico, prompting a U.S. expedition into Mexico that failed to capture him. In 1920 he negotiated an amnesty and a landed estate on condition that he retire from politics. He was assassinated in 1923. Mexicans often regard him as a hero who stood up to the United States, while some American media describe him as a villain. In 1976 his remains were reburied in the Monument to the Revolution in [[Mexico City]].
+
+=== KEY: Pancreas_6a8bd6
+HEADWORD: Pancreas
+PERSON: no
+LINK TARGETS: Diabetes | Insulin
+ENTRY:
+Organ of the digestive and endocrine systems of vertebrates, lying behind the stomach. Most of the pancreas is exocrine. It secretes pancreatic juice into the duodenum, where bicarbonate neutralizes stomach acid and digestive enzymes break down carbohydrates, proteins and fats. About 1 percent is endocrine, and its cells secrete the hormones [[Insulin|insulin]], glucagon, somatostatin and pancreatic polypeptide, which mainly regulate blood sugar. The human pancreas is about 12–15 cm (4.7–5.9 in) long and is divided into head, neck, body and tail. Inflammation of the pancreas, pancreatitis, is commonly caused by chronic alcohol use or gallstones. Because of its role in blood sugar regulation, the pancreas is central to [[Diabetes|diabetes]]. Its role in insulin production was identified in 1921.
+
+=== KEY: Pancreatic_cancer_344723
+HEADWORD: Pancreatic cancer
+PERSON: no
+LINK TARGETS: Palliative care | Tobacco smoking
+ENTRY:
+Cancer arising in the pancreas, most often an adenocarcinoma of the ductal cells. Pancreatic adenocarcinoma, which begins in the ducts that carry digestive enzymes, accounts for about 90% of cases. Neuroendocrine tumors, which arise from hormone-producing cells, make up 1–2%. Risk factors include [[Tobacco smoking|tobacco smoking]], obesity, diabetes and inherited genes. Surgery is the only treatment that can cure adenocarcinoma, and [[Palliative care|palliative care]] is recommended early even for patients receiving curative treatment. Nine percent of patients survive five years after diagnosis globally, and 14% in the United States. The disease caused 508,532 deaths worldwide in 2021.
+
+=== KEY: Pandanus_f7e621
+HEADWORD: Pandanus
+PERSON: no
+LINK TARGETS: Madagascar | Malaysia
+ENTRY:
+Genus of palm-like, dioecious monocot trees and shrubs, with about 578 accepted species. Native to the Old World tropics and subtropics, they are called pandan, screw palm or screw pine, though they are not closely related to palms. Most have stout trunks supported by thick stilt roots, and crowns of strap-shaped leaves that may be spiny, from 30 cm (12 in) to 2 m (6.5 ft) long. Male and female flowers grow on separate plants. The fruit is a cluster of drupes 10–20 cm (4–8 in) across that resembles a pineapple and turns from green to bright orange or red as it ripens. The oldest credible fossil, *Pandanus estellae*, is a silicified fruit from Queensland, Australia, dating to the Oligocene epoch around 32–28 million years ago. Species diversity is highest in [[Madagascar]] and [[Malaysia]].
+
+=== KEY: Pandemic_d5380d
+HEADWORD: Pandemic
+PERSON: no
+LINK TARGETS: Black Death | COVID-19 pandemic | World Health Organization
+ENTRY:
+Epidemic of an infectious disease that spreads across a large region, often worldwide. A pandemic involves a sudden increase in cases and affects a substantial portion of the human population. Widespread endemic diseases with stable case numbers, such as seasonal influenza, are generally excluded. The word comes from Greek *pan*, meaning all, and *demos*, meaning people. The [[Black Death]], caused by plague, killed up to half of Europe's population in the 14th century. The 1918 H1N1 influenza pandemic, known as the Spanish flu, is the deadliest in history. More recent pandemics include HIV/AIDS, the 2009 swine flu pandemic and the [[COVID-19 pandemic]]. In May 2025 the [[World Health Organization]] adopted a pandemic agreement, approved with 120 votes in favor and 70 abstentions, without the United States, which had withdrawn from the organization.
+
+=== KEY: Pando_tree_e6d8eb
+HEADWORD: Pando
+PERSON: no
+LINK TARGETS: Utah
+ENTRY:
+Quaking aspen clone in [[Utah]], the world's largest tree by weight and landmass. Pando is a male clone of *Populus tremuloides* in Sevier County, within Fishlake National Forest. Its estimated 47,000 stems are genetically identical parts of one root system spanning 42.8 ha (106 acres). The name is Latin for *I spread*. Pando was identified in 1976 by Jerry Kemperman and Burton V. Barnes, and in 1992 researchers from the University of Colorado described it as a single male clone. By single-stem volume, the General Sherman Tree is the largest.
+
+=== KEY: Panentheism_5818fc
+HEADWORD: Panentheism
+PERSON: no
+LINK TARGETS: Alfred North Whitehead | Baruch Spinoza | Georg Wilhelm Friedrich Hegel | Hinduism | Pantheism | Ralph Waldo Emerson
+ENTRY:
+Belief that the divine intersects every part of the universe and also extends beyond space and time. The term was coined in 1828 by German philosopher Karl Christian Friedrich Krause, who sought to distinguish the ideas of [[Georg Wilhelm Friedrich Hegel]] and Friedrich Wilhelm Joseph Schelling from the supposed pantheism of [[Baruch Spinoza]]. Unlike [[Pantheism|pantheism]], which identifies God with the universe, panentheism holds that God is greater than the universe, which some versions describe as a manifestation of God. Much of [[Hinduism|Hindu]] thought is characterized by panentheism. Process thinkers [[Alfred North Whitehead]] and Charles Hartshorne developed panentheistic frameworks, and the idea influenced New England transcendentalists such as [[Ralph Waldo Emerson]]. Critics argue that it blurs the boundary between creator and creation, while supporters see it as reconciling unity and plurality.
+
+=== KEY: Pangaea_923974
+HEADWORD: Pangaea
+PERSON: no
+LINK TARGETS: Alfred Wegener | Carboniferous | Centrifugal force | Gondwana | Jurassic | Plate tectonics | Siberia
+ENTRY:
+Supercontinent that existed during the late Paleozoic and early Mesozoic eras. It assembled from the continental units of [[Gondwana]], Euramerica and [[Siberia]] during the [[Carboniferous]] period, about 335 million years ago, and began to break apart about 175 million years ago, at the beginning of the [[Jurassic]]. It was C-shaped, stretching between Earth's northern and southern polar regions, and surrounded by the superocean Panthalassa. It is the most recent supercontinent to have existed and was the first to be reconstructed by geologists. [[Alfred Wegener]] proposed the concept in 1912 as part of his theory of continental drift. His proposed mechanism, [[Centrifugal force|centrifugal force]] from Earth's rotation, proved implausible, so Arthur Holmes's mantle convection and later seafloor mapping helped lead to [[Plate tectonics|plate tectonics]]. Evidence includes the matching coastlines of the Atlantic continents, glacial deposits of the same age on separate continents, and similar or identical fossil species now far apart.
+
+=== KEY: Pangolin_f76afc
+HEADWORD: Pangolin
+PERSON: no
+LINK TARGETS: Ant | Termite | Traditional medicine
+ENTRY:
+Mammal of the order Pholidota, also called a scaly anteater. The one extant family, Manidae, has three genera. *Manis* has five species in Asia, while *Phataginus* and *Smutsia* have two species each in sub-Saharan Africa. Pangolins range from 30 to 100 cm (12 to 39 in) in size and are covered in large keratin scales that harden as the animal matures. They are nocturnal and feed mainly on [[Ant|ants]] and [[Termite|termites]], which they catch with long tongues. Most species are solitary, and when threatened they curl into a ball. Poaching for meat and scales, used in [[Traditional medicine|traditional medicine]], and deforestation threaten them, and they are among the most trafficked mammals in the world. As of January 2020, eight species were listed as threatened by the International Union for Conservation of Nature (IUCN).
+
+=== KEY: Pannonian_Avars_3f26f2
+HEADWORD: Pannonian Avars
+PERSON: no
+LINK TARGETS: Balkans | Byzantine Empire | Caucasus | Charlemagne | Franks | Göktürks | Mongolia
+ENTRY:
+Confederation of Eurasian nomads that established the Avar Khaganate in the Carpathian Basin. The name Pannonian Avars, after Pannonia in the upper Danube basin, distinguishes them from the Avars of the [[Caucasus]]. Known in Byzantine sources as Pseudo-Avars, they entered history in the mid-6th century on the Pontic–Caspian steppe, having fled the rule of the [[Göktürks]]. Their khaganate lasted from the late 6th to the early 9th century CE, and they exerted influence over Central, Eastern and Southeastern Europe. They are best known for their wars with the [[Byzantine Empire]] from 568 to 626 and for their influence on the Slavic migrations to the [[Balkans]]. Archaeogenetic studies suggest that they originated in present-day [[Mongolia]] and may descend from remnants of the Rouran Khaganate. Campaigns by [[Charlemagne]] and the [[Franks]] dismantled Avar power by 803–811 CE.
+
+=== KEY: Pansexuality_d583eb
+HEADWORD: Pansexuality
+PERSON: no
+LINK TARGETS: Ancient Greek | Bisexuality | Sigmund Freud
+ENTRY:
+Sexual, romantic, or emotional attraction to people regardless of their sex or gender identity. Pansexual people may describe themselves as gender-blind. Pansexuality is sometimes treated as a sexual orientation in its own right and sometimes as a branch of [[Bisexuality]]. The prefix comes from [[Ancient Greek]] *pan*, meaning *all*. The forms *pansexual* and *pansexualism* were first attested in 1914, coined by opponents of [[Sigmund Freud]] for the idea that the sex instinct drives all human activity. Pansexuality is sometimes called omnisexuality.
+
+=== KEY: Pantera_96eac8
+HEADWORD: Pantera
+PERSON: no
+LINK TARGETS: Columbus, Ohio | Texas
+ENTRY:
+American heavy metal band formed in Arlington, [[Texas]], in 1981 by the Abbott brothers, guitarist Dimebag Darrell and drummer Vinnie Paul. The band popularized groove metal in the 1990s with *Cowboys from Hell* (1990) and *Vulgar Display of Power* (1992). *Far Beyond Driven* (1994) debuted at number one on the Billboard 200, and Pantera has sold around 20 million records worldwide. Internal conflict led to a breakup in 2003. On December 8, 2004, Dimebag Darrell was shot dead on stage in [[Columbus, Ohio]]. Phil Anselmo and Rex Brown began touring under the Pantera name in 2022.
+
+=== KEY: Pantheism_1ecefa
+HEADWORD: Pantheism
+PERSON: no
+LINK TARGETS: Baruch Spinoza | Giordano Bruno | Hindu philosophy | Inquisition | Joseon | Panentheism | Taoism
+ENTRY:
+Diverse family of philosophical and religious beliefs that equate reality with divinity. Pantheist beliefs hold that the totality of being, called Nature, the universe, or the cosmos, is a self-organizing unity that needs no distinct, supernatural creator. Pantheists do not recognize a personal god. One of the earliest uses of the term dates to a 1697 book by mathematician Joseph Raphson. The idea was popularized in Western culture by [[Baruch Spinoza]], especially in his book *Ethics*. In the 16th century, [[Giordano Bruno]] held pantheistic views and was burned at the stake by the [[Inquisition]]. In the East, Advaita Vedanta, a school of [[Hindu philosophy]], is thought similar to pantheism, and the early [[Taoism]] of Laozi and Zhuangzi is sometimes considered pantheistic. Cheondoism, which arose in the [[Joseon]] Dynasty of Korea, is also considered pantheistic. Pantheism is not the same as [[Panentheism|panentheism]], which holds that divinity is greater than the universe.
+
+=== KEY: Pantheon_Rome_d4cb7f
+HEADWORD: Pantheon
+PERSON: no
+LINK TARGETS: Augustus | Concrete | Dome | Granite | Hadrian | Rome
+ENTRY:
+Ancient temple in [[Rome]], Italy, later a Roman Catholic church. Originally built under Roman emperor [[Augustus]] (27 BC–AD 14) and reconstructed under [[Hadrian]] (117–138), it was probably dedicated c. AD 126. Hadrian re-inscribed the new temple with Agrippa's original date, so its construction date is uncertain. Since AD 609 it has served as a basilica of Saint Mary and the Holy Martyrs, and it is one of the best-preserved ancient Roman buildings because it has been in continuous use. Its round rotunda, behind a [[Granite|granite]] Corinthian portico, is covered by a coffered [[Concrete|concrete]] [[Dome|dome]] with an oculus open to the sky. The height to the oculus equals the interior diameter, 43 m (142 ft). The dome remains the world's largest unreinforced concrete dome, and the design became a model for later architects after classical styles were revived.
+
+=== KEY: Panthera_5ce7d2
+HEADWORD: Panthera
+PERSON: no
+LINK TARGETS: Felidae | Jaguar | Leopard | Lion | Snow leopard | Tanzania | Tiger
+ENTRY:
+Genus of big cats in the family [[Felidae]], containing the largest living members of the cat family. The five living species are the [[Jaguar]], [[Leopard]], [[Lion]], [[Snow leopard]] and [[Tiger]]. Only the snow leopard cannot roar, because its vocal folds, 9 mm (0.35 in) long, are shorter than those of other species. Panthera diverged from other cats about 11.3 million years ago. The earliest known definitive species, *Panthera principialis*, is from [[Tanzania]].
+
+=== KEY: Panzer_IV_24fb89
+HEADWORD: Panzer IV
+PERSON: no
+LINK TARGETS: Howitzer | Six-Day War | T-34 | World War II
+ENTRY:
+German medium tank used extensively in [[World War II]]. Developed in the late 1930s, it was designed for infantry support and armed with a short-barreled 75 mm [[Howitzer|howitzer]]. As the Germans faced the Soviet [[T-34]], it was upgraded with thicker armor and more powerful guns. It was the most numerous German tank of the war, with 8,553 built, and the only German tank in continuous production throughout the war. Its chassis was also used for other vehicles, including the Sturmgeschütz IV assault gun. Panzer IVs that Syria procured after the war saw combat in the 1967 [[Six-Day War]].
+
+=== KEY: Paolo_Maldini_dcd642
+HEADWORD: Maldini, Paolo
+PERSON: yes
+LINK TARGETS: AC Milan | FIFA World Cup | Serie A | UEFA Champions League
+ENTRY:
+Italian football executive and former defender. He spent all 25 seasons of his playing career with [[AC Milan]] in [[Serie A]], making a club record 902 appearances and winning 26 trophies, including five [[UEFA Champions League]] titles. Captain of Milan and Italy for many years, he was nicknamed "Il Capitano". He played 126 times for Italy and reached the final of the 1994 [[FIFA World Cup|World Cup]] and of Euro 2000. Maldini retired in 2009 and later worked as sporting director at Milan from 2018 to 2023.
+
+=== KEY: Pap_test_fe322d
+HEADWORD: Pap test
+PERSON: no
+LINK TARGETS: Cancer | Cervix | Microscope
+ENTRY:
+Cervical screening method that detects precancerous and cancerous changes in the [[Cervix|cervix]]. Also called a Pap smear, it was independently invented in the 1920s by the Greek physician Georgios Papanikolaou. A simplified version was introduced by the Canadian obstetrician Anna Marion Hilliard in 1957. Cells are collected from the transformation zone of the cervix with a spatula or cytobrush and examined under a [[Microscope|microscope]] for abnormalities. The test aims to detect changes caused by human papillomavirus (HPV), and it remains an effective, widely used method for early detection of precancer and cervical [[Cancer|cancer]]. Screening usually begins in adulthood and is typically recommended every three to five years if results are normal. Abnormal results may lead to repeat testing in six to twelve months or to colposcopy, which magnifies the view of the cervix, vagina and vulva.
+
+=== KEY: Papal_States_77cdd5
+HEADWORD: Papal States
+PERSON: no
+LINK TARGETS: Benito Mussolini | Early modern period | Franks | Holy See | Kingdom of Italy | Lombards | Vatican City
+ENTRY:
+Territories on the Italian Peninsula under the direct sovereign rule of the pope, from 756 to 1870. The state was established in the 8th century, when Pepin the Short, king of the [[Franks]], gave Pope Stephen II lands formerly held by the [[Lombards]]. Its territory expanded greatly during the [[Early modern period|early modern period]], and at its zenith it covered most of the modern regions of Lazio, including Rome, Marche, Umbria, Romagna and parts of Emilia. By 1860 much of the territory had been conquered by the Kingdom of Sardinia and incorporated into the [[Kingdom of Italy]] in 1861. Lazio, including Rome, was annexed in 1870. In 1929 [[Benito Mussolini]] negotiated the Lateran Treaty, which acknowledged the sovereignty of the [[Holy See]] over [[Vatican City]], a new city-state within Rome.
+
+=== KEY: Papaver_somniferum_8f2b41
+HEADWORD: Papaver somniferum
+PERSON: no
+LINK TARGETS: Alkaloid | Carl Linnaeus | Opium
+ENTRY:
+Species of flowering plant in the poppy family, also called the opium poppy or breadseed poppy. It is the source of both [[Opium|opium]] and poppy seeds, and it is also grown as an ornamental plant. Its native range is the western Mediterranean, but widespread introduction and cultivation since ancient times have obscured it. [[Carl Linnaeus]] gave it its accepted name in 1753. Grown as an agricultural crop, it is used to produce poppy seeds, opium for the pharmaceutical industry, and other [[Alkaloid|alkaloids]], mainly thebaine and oripavine. All parts of the plant exude white latex when wounded.
+
+=== KEY: Papaya_6098d1
+HEADWORD: Papaya
+PERSON: no
+LINK TARGETS: Carotenoid | Enzyme | Mesoamerica
+ENTRY:
+Tropical fruit plant of the genus *Carica*, in the family Caricaceae. It was first domesticated in [[Mesoamerica]], in present-day southern Mexico and Central America, and is now grown in tropical regions worldwide. In 2024 India was the leading producer, accounting for 36% of the world total. The plant usually has a single stem 5 to 10 m (16 to 33 ft) tall, topped by large leaves. Its fruit is a large berry that ripens to an amber to orange skin. Papaya skin, pulp, and seeds contain [[Carotenoid|carotenoids]] and polyphenols. The green fruit contains papain, a cysteine protease [[Enzyme|enzyme]] used to tenderize meat. Spaniards introduced the plant to the Old World in the 16th century.
+
+=== KEY: Paper_d0a662
+HEADWORD: Paper
+PERSON: no
+LINK TARGETS: Baghdad | Cai Lun | Cellulose | China | Deforestation | East Asia | Papyrus | Second Industrial Revolution
+ENTRY:
+Thin sheet of matted [[Cellulose|cellulose]] fibers, largely derived from lignocellulose, made from a pulp dissolved into a slurry that is drained and dried into sheets. The word derives from Latin *papyrus*, but [[Papyrus|papyrus]], a lamination of natural plant fiber, is a separate technology from paper, which is made from fibers changed by maceration.
+
+Papermaking developed in [[East Asia]] at least as early as AD 105 by the Han court eunuch [[Cai Lun]], although paper-like material from the 2nd century BC has been found in [[China]]. Papyrus was replaced because it was limited geographically to Egypt, more expensive and laborious to produce, and more fragile. Popular history credits the Battle of Talas in 751 with spreading papermaking to the Islamic world, but an archive of 76 paper writings found in Panjikent predates the city's capture by Arabs in 722, and paper was being made in [[Baghdad]] by the late 8th century. Knowledge of paper spread to Europe in the 13th century, where the first water-powered paper mills were built.
+
+Before industrialization the most common paper was rag paper. In the 19th century, industrialization greatly reduced costs; Charles Fenerty of Canada and Friedrich Gottlob Keller of Germany independently developed processes for pulping wood fibers, and with the [[Second Industrial Revolution]] pulpwood paper became dominant. Chemical pulping dissolves lignin; the kraft process, invented in the 1870s, is now the most common and recovers and reuses all inorganic reagents. Mechanical pulping yields more than 95%, but the remaining lignin turns paper yellow and brittle over time. Packaging accounts for about 65% of output, and manufacture contributes to [[Deforestation|deforestation]] if forests are unmanaged.
+
+=== KEY: Paper_money_4a857d
+HEADWORD: Paper money
+PERSON: no
+LINK TARGETS: Bank | China | French Revolution | Napoleon | Song dynasty | Sweden | Tang dynasty
+ENTRY:
+Negotiable promissory note payable to the bearer on demand, and a form of currency. The main types are government notes, issued directly by political authorities, and banknotes, issued by [[Bank|banks]] including central banks. Paper money is often, but not always, legal tender. Counterfeiting is an inherent challenge, and fighting it has been a principal driver of security printing methods in recent centuries. The first documented paper money appeared in [[China]] in the 7th century, during the [[Tang dynasty]], as merchants' deposit receipts called "flying money" that spared them the bulk of coinage. The [[Song dynasty]] issued the first generally circulating notes, called *jiaozi*, by the 11th century. In 1661 Stockholms Banco in [[Sweden]] made the first European attempt at issuing banknotes. The [[French Revolution]] brought mass issuance of government notes that collapsed in value, and [[Napoleon]] then established the Bank of France to issue banknotes in the early 1800s.
+
+=== KEY: Paprika_a66060
+HEADWORD: Paprika
+PERSON: no
+LINK TARGETS: Christopher Columbus | Ottoman Empire
+ENTRY:
+Spice made from dried and ground red peppers, *Capsicum annuum*. Sweet paprika is mainly the fruit with most seeds removed, while hotter varieties retain some seeds and stalks. Peppers reached Western Europe via Spain and Portugal in the 16th century, and [[Christopher Columbus]] probably came across them on his first voyage in 1492. Paprika was taken up in the [[Ottoman Empire]], which ruled central Hungary for much of the 16th and 17th centuries. Central European paprika was hot until the 1920s, when a Szeged breeder found a sweet-fruited plant. It is a major ingredient in Hungarian, Serbian and Spanish cooking.
