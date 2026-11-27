@@ -226,7 +226,6 @@ LEVEL: 4
 GLOSSARY:
   Great Britain = 그레이트브리튼
   Industrial Revolution = 산업 혁명
-  Today = 「투데이」
   United Kingdom = 영국
   deck barges = 데크 바지선
   hopper barges = 호퍼 바지선
@@ -250,7 +249,6 @@ GLOSSARY:
   Italy = 이탈리아
   Murat quarter = 무라트 지구
   Norman-Swabian Castle = 노르만-슈바벤 성
-  Port = 항구
   Roman Republic = 로마 공화정
   Saint = 성인
   Saint Nicholas = 성 니콜라오
@@ -264,7 +262,6 @@ GLOSSARY:
   Hormone = 호르몬
   Obesity = 비만
   Roux-en-Y bypass = 루앙와이 위우회술
-  Standard = 스탠더드
   all-cause mortality = 전체 원인 사망률
   biliopancreatic diversion with duodenal switch = 십이지장 전환을 동반한 담췌관 우회술
   meta-analysis = 메타 분석
@@ -280,7 +277,6 @@ HEADWORD: Barium = 바륨
 LEVEL: 4
 GLOSSARY:
   Alkaline earth metal = 알칼리 토금속
-  Barium = 바륨
   Chemical element = 화학 원소
   Electrolysis = 전기 분해
   Fireworks = 불꽃놀이
@@ -326,9 +322,7 @@ Products derived from bark include [[Tannin|tannin]], [[Resin|resin]], cork and 
 HEADWORD: Barley = 보리
 LEVEL: 4
 GLOSSARY:
-  Barley = 보리
   Bread = 빵
-  Cereal = 곡물
   Eurasia = 유라시아
   Fertile Crescent = 비옥한 초승달 지대
   John = 존
@@ -419,11 +413,9 @@ American children's television series starring Barney the Dinosaur. Created by S
 HEADWORD: Barometer = 기압계
 LEVEL: 4
 GLOSSARY:
-  Average = 평균
   Evangelista Torricelli = 에반젤리스타 토리첼리
   Lucien Vidie = 뤼시앵 비디
   Mercury (element) = 수은
-  Pressure = 압력
   Pressure tendency = 기압 경향
   Torricelli = 토리첼리
   W. E. Knowles Middleton = W. E. 놀스 미들턴
@@ -501,7 +493,6 @@ GLOSSARY:
   Antonio Vivaldi = 안토니오 비발디
   Bach = 바흐
   Classical period (music) = 고전주의 시대
-  Claudio = 클라우디오
   Claudio Monteverdi = 클라우디오 몬테베르디
   Concerto = 협주곡
   George Frideric Handel = 게오르크 프리드리히 헨델
@@ -565,7 +556,6 @@ HEADWORD: Barred spiral galaxy = 막대나선은하
 LEVEL: 4
 GLOSSARY:
   Edwin Hubble = 에드윈 허블
-  Hubble = 허블
   Lenticular galaxy = 렌즈형 은하
   Milky Way = 우리은하
   Spiral galaxy = 나선 은하
@@ -607,7 +597,6 @@ GLOSSARY:
   Hugh Scott = 휴 스콧
   John = 존
   John Jacob Rhodes = 존 제이컵 로즈
-  Johnson = 존슨
   Lyndon B. Johnson = 린든 B. 존슨
   Republican Party (United States) = 공화당
   Rhodes = 로도스섬
@@ -763,9 +752,7 @@ Group of subcortical nuclei found in the brains of [[Vertebrate|vertebrates]]. T
 HEADWORD: Basalt = 현무암
 LEVEL: 4
 GLOSSARY:
-  Basalt = 현무암
   Earth = 지구
-  Flood = 홍수
   Flood basalts = 범람 현무암
   Igneous rock = 화성암
   Iron = 철
@@ -854,7 +841,6 @@ GLOSSARY:
   Bank = 은행
   Bank for International Settlements = 국제 결제 은행
   Basel = 바젤
-  City = 도시
   Kunstmuseum = 바젤 미술관
   Rhine = 라인강
   River = 강

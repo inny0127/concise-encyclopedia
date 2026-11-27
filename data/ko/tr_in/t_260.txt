@@ -50,7 +50,6 @@ Hero of [[Greek mythology|Greek mythology]] and legendary founder of the Perseid
 HEADWORD: Persian Constitutional Revolution = 이란 입헌 혁명
 LEVEL: 4
 GLOSSARY:
-  Constitutionalist = 입헌파
   Iran = 이란
   Islamic Revolution = 이란 이슬람 혁명
   Majlis = 마즐레스
@@ -97,7 +96,6 @@ GLOSSARY:
   Calligraphy = 서예
   Iran = 이란
   Persia = 페르시아
-  Persian = 페르시아어
   Persian art = 페르시아 미술
   Qajar = 카자르 왕조
   Qajar dynasty = 카자르 왕조
@@ -174,7 +172,6 @@ GLOSSARY:
   Persian = 페르시아어
   Persian language = 페르시아어
   Persian literature = 페르시아 문학
-  Poetry = 시
   Rubaiyat = 『루바이야트』
   Rumi = 루미
   Saffarid = 사파르 왕조
@@ -192,7 +189,6 @@ GLOSSARY:
   Ahura Mazda = 아후라 마즈다
   Divs = 디브
   Ferdowsi = 피르다우시
-  Heroes = 「히어로즈」
   Iranian peoples = 이란계 민족
   Kaveh = 카베
   Mazda = 마쓰다
@@ -271,13 +267,11 @@ GLOSSARY:
   France = 프랑스
   Germany = 독일
   Guðmundsdóttir = 귀드뮌드스도티르
-  Iceland = 아이슬란드
   Japan = 일본
   Latin = 라틴어
   Pyotr Ilyich Tchaikovsky = 표트르 일리치 차이콥스키
   Rights = 인권
   Russia = 러시아
-  Spain = 스페인
   Surname = 성
   Tchaikovsky = 차이콥스키
   United Nations = 국제 연합
@@ -356,7 +350,6 @@ HEADWORD: Personality disorder = 성격 장애
 LEVEL: 4
 GLOSSARY:
   Borderline personality disorder = 경계성 성격 장애
-  DSM-5-TR = DSM-5-TR
   Diagnostic and Statistical Manual = 정신질환 진단 및 통계 편람
   ICD-11 = ICD-11
   Mental disorder = 정신 질환
@@ -372,7 +365,6 @@ Mental disorder characterized by an enduring, pervasive pattern of maladaptive b
 HEADWORD: Personality psychology = 성격 심리학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Extraversion and introversion = 외향성과 내향성
   Free will = 자유 의지
   Gordon Allport = 고든 올포트
@@ -396,7 +388,6 @@ GLOSSARY:
   Apocalypse = 종말
   Argentina = 아르헨티나
   Aztec = 아스테카
-  Death = 죽음
   Four Horsemen = 네 기사
   Four Horsemen of the Apocalypse = 요한 묵시록의 네 기사
   Grim Reaper = 그림 리퍼
@@ -404,7 +395,6 @@ GLOSSARY:
   Mictecacihuatl = 믹테카시와틀
   Mictlan = 믹틀란
   Paraguay = 파라과이
-  Queen = 퀸
   San La Muerte = 산 라 무에르테
   Santa Muerte = 산타 무에르테
   Skeleton = 골격
@@ -454,9 +444,7 @@ GLOSSARY:
   Indian Ocean = 인도양
   James = 야고보
   James Stirling = 제임스 스털링
-  Kings = 킹스
   Kings Park and Botanic Garden = 킹스 파크 식물원
-  Mining = 광업
   Noongar = 눙가르어
   Ocean = 대양
   Perth = 퍼스
@@ -507,7 +495,6 @@ GLOSSARY:
   Hearers = 청문자
   Manichaeism = 마니교
   Pythagoras = 피타고라스
-  Research = 연구
   Seafood = 해산물
   United Kingdom = 영국
   Vegetarianism = 채식주의
@@ -565,9 +552,7 @@ Substance or biological agent that controls pests, including insects, plant path
 HEADWORD: Pet = 반려동물
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Cat = 고양이
-  Chocolate = 초콜릿
   Dog = 개
   Easter = 부활절
   Easter lilies = 부활절 백합
@@ -576,7 +561,6 @@ GLOSSARY:
   Hamster = 햄스터
   Livestock = 가축
   Parrot = 앵무새
-  People = 『피플』
   United States = 미국
   philodendrons = 필로덴드론
   tarantulas = 타란툴라
@@ -669,7 +653,6 @@ LEVEL: 4
 GLOSSARY:
   Catholic = 가톨릭
   Ethics = 윤리학
-  French = 프랑스어
   History = 역사학
   Héloïse d'Argenteuil = 엘로이즈
   Nantes = 낭트
@@ -819,7 +802,6 @@ GLOSSARY:
   Function (mathematics) = 함수
   Gauss = 가우스
   Georg Ohm = 게오르크 옴
-  German = 독일어
   Göttingen = 괴팅겐
   Jesuit = 예수회
   Jesuit gymnasium = 예수회 김나지움
@@ -855,7 +837,6 @@ GLOSSARY:
   The Lord of the Rings (film series) = 「반지의 제왕」
   The Return of the King = 「반지의 제왕: 왕의 귀환」
   They Shall Not Grow Old = 「그들은 늙지 않는다」
-  Tolkien = 톨킨
   World = 세계
   World War I = 제1차 세계 대전
   Zealand = 셸란섬
@@ -973,7 +954,6 @@ GLOSSARY:
   Brøndby = 브뢴뷔
   Champions League = 챔피언스리그
   Copenhagen = 코펜하겐
-  Danish = 덴마크어
   Denmark = 덴마크
   European Championship = 유럽 축구 선수권 대회
   Gladsaxe = 글라삭세

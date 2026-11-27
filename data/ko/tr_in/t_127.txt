@@ -5,7 +5,6 @@ GLOSSARY:
   Distillation = 증류
   ETBE = ETBE
   Ethanol = 에탄올
-  Gasoline = 휘발유
   Internal combustion engine = 내연 기관
   MTBE = MTBE
   Octane rating = 옥탄가
@@ -59,12 +58,10 @@ GLOSSARY:
   Canada = 캐나다
   Cruise ship = 크루즈선
   Gastrointestinal tract = 위장관
-  Inflammation = 염증
   Influenza = 인플루엔자
   Norovirus = 노로바이러스
   Reactive arthritis = 반응성 관절염
   Rotavirus = 로타바이러스
-  Signs = 「싸인」
   United States = 미국
   Zinc = 아연
   gastrointestinal tract = 위장관
@@ -90,7 +87,6 @@ GLOSSARY:
   Australia = 오스트레일리아
   Barry = 배리
   Barry Marshall = 배리 마셜
-  Branch = 브랜치
   Crohn's disease = 크론병
   Galen = 갈레노스
   Gastrointestinal tract = 위장관
@@ -125,7 +121,6 @@ GLOSSARY:
   Cnidaria = 자포동물
   Esophagus = 식도
   Feces = 대변
-  Food = 음식
   Mouth = 입
   Sponge = 해면동물
   Stomach = 위
@@ -173,7 +168,6 @@ GLOSSARY:
   North Carolina = 노스캐롤라이나주
   Pennsylvania = 펜실베이니아주
   Pittsburgh = 피츠버그
-  Richard = 리처드
   Richard Jordan Gatling = 리처드 조던 개틀링
   San Juan Hill = 산후안 언덕
   Spanish–American War = 미국-스페인 전쟁
@@ -210,7 +204,6 @@ GLOSSARY:
   Fermion = 페르미온
   Gauge theory = 게이지 이론
   Graviton = 중력자
-  Gravity = 중력
   Hadron = 강입자
   Higgs boson = 힉스 보손
   Higgs mechanism = 힉스 메커니즘
@@ -245,7 +238,6 @@ GLOSSARY:
   Lagrangian = 라그랑지언
   Lie group = 리 군
   Ning = 닝
-  Physical = 「Physical」
   Quantum electrodynamics = 양자 전기역학
   Robert Mills = 로버트 밀스
   Standard = 스탠더드
@@ -299,7 +291,6 @@ Historical region of [[Western Europe]] inhabited by Celtic tribes. It roughly c
 HEADWORD: Gaur = 가우르
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Asia = 아시아
   Bangladesh = 방글라데시
   Bos gaurus = Bos gaurus
@@ -371,7 +362,6 @@ GLOSSARY:
   African National Congress = 아프리카 민족회의
   Democratic = 민주당
   Democratic Alliance = 민주 동맹
-  Gauteng = 하우텡주
   Gross domestic product = 국내 총생산
   Johannesburg = 요하네스버그
   PWV = PWV
@@ -391,7 +381,6 @@ GLOSSARY:
   Austria-Hungary = 오스트리아-헝가리
   Bosnia = 보스니아
   Bosniaks = 보스니아크인
-  Bosnian = 보스니아어
   Bosnian Serb = 보스니아 세르비아계
   Croats = 크로아티아인
   Ferdinand = 페르디난트
@@ -448,7 +437,6 @@ ENTRY:
 HEADWORD: Gaza City = 가자시
 LEVEL: 5
 GLOSSARY:
-  City = 도시
   Crusader states = 십자군 국가
   Crusaders = 십자군
   Gaza Governorate = 가자 주
@@ -574,7 +562,6 @@ GLOSSARY:
   Poland = 폴란드
   Pomeranian = 포메라니안
   Pomeranian Voivodeship = 포모제주
-  Port = 항구
   Prussia = 프로이센
   Solidarity = 연대
   Tricity = 트루이미아스토
@@ -696,7 +683,6 @@ GLOSSARY:
   Carbohydrate = 탄수화물
   DNA = DNA
   Electric field = 전기장
-  Laboratory = 실험실
   Polymerase chain reaction = 중합효소 연쇄 반응
   Protein = 단백질
   RNA = RNA
@@ -719,7 +705,6 @@ GLOSSARY:
   Peptide = 펩타이드
   Photographic film = 사진 필름
   Protein = 단백질
-  Research = 연구
   Yogurt = 요구르트
   collagen = 콜라겐
   hydrolysis = 가수 분해
@@ -760,7 +745,6 @@ GLOSSARY:
   Mineral = 광물
   Mohs scale = 모스 굳기계
   Obsidian = 흑요석
-  Ruby = 루비
   aluminum oxide = 산화 알루미늄
   emerald = 에메랄드
   ruby = 루비
@@ -785,7 +769,6 @@ GLOSSARY:
   Latin America = 라틴아메리카
   Nepal = 네팔
   Social media = 소셜 미디어
-  Wave = 파동
 ENTRY:
 Wave of political demonstrations and uprisings led mainly by [[Generation Z]], people born from the mid-1990s to the early 2010s. The July 2024 uprising in [[Bangladesh]] is widely cited as the first successful Gen Z revolution, and a successful revolution in [[Nepal]] followed. Causes vary by country but generally involve inequality, rising living costs, [[Corruption|corruption]] and [[Authoritarianism|authoritarianism]]. Gen Z has used [[Social media]] for organizing. By 2025 and 2026 the protests had spread to Asia, Africa, Europe and Latin America. The Carnegie Endowment counted at least 120 significant anti-government protests in at least 73 countries over the year to March 2026, the most since 2017.
 
@@ -825,7 +808,6 @@ GLOSSARY:
   France = 프랑스
   French = 프랑스어
   French Revolution = 프랑스 혁명
-  Military = 군대
   Napoleon = 나폴레옹
   Poland = 폴란드
   Romania = 루마니아

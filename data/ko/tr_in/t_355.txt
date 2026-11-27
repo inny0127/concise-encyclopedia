@@ -8,13 +8,11 @@ GLOSSARY:
   Atmospheric pressure = 기압
   Casimir effect = 카시미르 효과
   Evangelista Torricelli = 에반젤리스타 토리첼리
-  Following = 「미행」
   Hero of Alexandria = 알렉산드리아의 헤론
   Lucretius = 루크레티우스
   Outer space = 우주 공간
   Plato = 플라톤
   Quantum field theory = 양자장론
-  Space = 공간
   Torricelli = 토리첼리
   Vacuum cleaner = 진공청소기
   atomism = 원자론
@@ -58,7 +56,6 @@ GLOSSARY:
   Electric charge = 전하
   Electric field = 전기장
   Maxwell's equations = 맥스웰 방정식
-  Physical = 「Physical」
   Speed of light = 빛의 속도
   electric constant = 전기 상수
   electric field = 전기장
@@ -85,7 +82,6 @@ GLOSSARY:
   Semiconductor device = 반도체 소자
   Television = 텔레비전
   Transistor = 트랜지스터
-  Vacuum = 진공
   control grids = 제어 격자
   diode = 이극관
   electric guitar = 일렉트릭 기타
@@ -105,7 +101,6 @@ GLOSSARY:
   Ahmedabad = 아마다바드
   Akota = 아코타
   Baroda = 바로다
-  City = 도시
   Gaekwad = 가이크와드
   Gujarat = 구자라트주
   India = 인도
@@ -284,7 +279,6 @@ LEVEL: 4
 GLOSSARY:
   Alonso Díaz Moreno = 알론소 디아스 모레노
   Battle of Carabobo = 카라보보 전투
-  Captain = 선장
   Carabobo = 카라보보주
   Caracas = 카라카스
   Colombia = 콜롬비아
@@ -364,7 +358,6 @@ GLOSSARY:
   Italian Grand Prix = 이탈리아 그랑프리
   Italy = 이탈리아
   MotoGP = 모토GP
-  Seven = 「세븐」
   VR46 Racing Team = VR46 레이싱 팀
   World = 세계
   World Endurance Championship = FIA 세계 내구 선수권
@@ -525,7 +518,6 @@ GLOSSARY:
   San Francisco = 샌프란시스코
   Santiago = 산티아고
   Straits of Magellan = 마젤란 해협
-  Today = 「투데이」
   Valparaíso = 발파라이소
   Valparaíso Region = 발파라이소주
   World = 세계
@@ -543,7 +535,6 @@ GLOSSARY:
   France = 프랑스
   French = 프랑스어
   Georg Wilhelm von Siemens = 게오르크 빌헬름 폰 지멘스
-  German = 독일어
   Ivory = 상아
   Ivory Coast = 코트디부아르
   Maurice Lauré = 모리스 로레
@@ -639,7 +630,6 @@ GLOSSARY:
   Phyllostomidae = 잎코박쥐과
   Rabies = 광견병
   South America = 남아메리카
-  Vampire = 흡혈귀
   anticoagulants = 항응고제
   common vampire bat = 흡혈박쥐
   draculin = 드라큘린
@@ -710,7 +700,6 @@ LEVEL: 5
 GLOSSARY:
   Astral Weeks = 『Astral Weeks』
   Belfast = 벨파스트
-  Brown = 브라운
   Brown Eyed Girl = 「Brown Eyed Girl」
   Celtic = 켈트
   Girl = 소녀
@@ -754,7 +743,6 @@ GLOSSARY:
   Sulfuric acid = 황산
   Swedish = 스웨덴어
   Transition metal = 전이 금속
-  Vanadium = 바나듐
   Vanadium pentoxide = 오산화 바나듐
   Vanadís = 바나디스
   chromium = 크로뮴
@@ -861,7 +849,6 @@ GLOSSARY:
   César Award = 세자르상
   César Award for Most Promising Actress = 세자르상 신인 여우상
   France = 프랑스
-  French = 프랑스어
   Girl = 소녀
   Girl on the Bridge = 「걸 온 더 브릿지」
   Gérard Depardieu = 제라르 드파르디외

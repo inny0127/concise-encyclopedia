@@ -6,7 +6,6 @@ GLOSSARY:
   Fyodor Dostoevsky = 표도르 도스토옙스키
   Ivan Turgenev = 이반 투르게네프
   Leo Tolstoy = 레프 톨스토이
-  Novel = 소설
   Petersburg = 피터즈버그
   Rodion Raskolnikov = 로디온 라스콜니코프
   Russian = 러시아어
@@ -30,7 +29,6 @@ GLOSSARY:
   Latin = 라틴어
   Life imprisonment = 무기 징역
   Murder = 살인
-  Sentences = 『명제집』
   Tort = 불법 행위
   War crime = 전쟁 범죄
   actus reus = 범죄 행위
@@ -71,7 +69,6 @@ GLOSSARY:
   Joseph Stalin = 이오시프 스탈린
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
-  Peninsula = 반도
   Russia = 러시아
   Russian = 러시아어
   Russian Empire = 러시아 제국
@@ -215,7 +212,6 @@ LEVEL: 4
 GLOSSARY:
   Aurelian = 아우렐리아누스
   Carinus = 카리누스
-  Currency = 통화
   Diocletian = 디오클레티아누스
   Gallic = 갈리아
   Gallic Empire = 갈리아 제국
@@ -277,7 +273,6 @@ GLOSSARY:
   Fact = 사실
   John = 존
   John Dewey = 존 듀이
-  Paul = 바울로
   Plato = 플라톤
   Richard = 리처드
   Richard W. Paul = 리처드 W. 폴
@@ -292,7 +287,6 @@ Analysis of [[Fact|facts]], evidence and [[Argument|arguments]] to form a judgme
 HEADWORD: Critique of Pure Reason = 순수이성비판
 LEVEL: 4
 GLOSSARY:
-  Building = 건물
   David Hume = 데이비드 흄
   Descartes = 데카르트
   German = 독일어
@@ -328,7 +322,6 @@ GLOSSARY:
   Europe = 유럽
   France = 프랑스
   Gravettian = 그라베트 문화
-  Homo = 사람속
   Homo sapiens = 호모 사피엔스
   Les Eyzies = 레제지
   Neanderthal = 네안데르탈인
@@ -441,7 +434,6 @@ GLOSSARY:
   Egypt = 이집트
   Gavialidae = 가비알과
   Gharial = 가비알
-  Hunting = 사냥
   Late Cretaceous = 후기 백악기
   Nile = 나일강
   Nile crocodile = 나일악어
@@ -462,7 +454,6 @@ GLOSSARY:
   Diarrhea = 설사
   Gastrointestinal tract = 위장관
   Surgery = 외과
-  Tobacco = 담배
   Weight loss = 체중 감소
   gastrointestinal tract = 위장관
   inflammatory bowel disease = 염증성 장 질환
@@ -475,10 +466,8 @@ LEVEL: 4
 GLOSSARY:
   Cover crops = 피복 작물
   Maize = 옥수수
-  Plant = 식물
   Rice = 벼
   Sugarcane = 사탕수수
-  Today = 「투데이」
   Wheat = 밀
   crop rotation = 윤작
   monoculture = 단일 경작
@@ -490,7 +479,6 @@ HEADWORD: Cross product = 벡터곱
 LEVEL: 4
 GLOSSARY:
   Angular momentum = 각운동량
-  Binary = 이진법
   Computer programming = 컴퓨터 프로그래밍
   Dot product = 스칼라곱
   Euclidean vector = 유클리드 벡터
@@ -531,7 +519,6 @@ GLOSSARY:
   New York World = 『뉴욕 월드』
   Newspaper = 신문
   The New York Times = 『뉴욕 타임스』
-  Word = 단어
   World = 세계
   York = 요크
   cruciverbalist = 크루시버벌리스트
@@ -568,7 +555,6 @@ GLOSSARY:
   Carthage = 카르타고
   Crucifixion = 십자가형
   Crucifixion of Jesus = 예수의 십자가형
-  Death = 죽음
   Genocide = 제노사이드
   Greece = 그리스
   Jesus = 예수
@@ -689,7 +675,6 @@ GLOSSARY:
   Louis IX of France = 루이 9세
   Mamluk = 맘루크
   Northern Crusades = 북방 십자군
-  Pope = 교황
   Pope Urban II = 교황 우르바노 2세
   Principality of Antioch = 안티오키아 공국
   Saladin = 살라딘
@@ -703,7 +688,6 @@ GLOSSARY:
   Third Crusade = 제3차 십자군
   Tripoli = 트리폴리
   Tunis = 튀니스
-  Violence = 폭력
   crusade indulgences = 십자군 면벌부
   military orders = 기사 수도회
 ENTRY:
@@ -787,7 +771,6 @@ GLOSSARY:
   Cepheid variable = 세페이드 변광성
   Cepheid variables = 세페이드 변광성
   Coalsack Nebula = 석탄자루 성운
-  Constellation = 별자리
   Dark nebula = 암흑 성운
   Latin = 라틴어
   Milky Way = 우리은하
@@ -882,7 +865,6 @@ GLOSSARY:
   Glass = 유리
   Salt = 소금
   Snow = 눈
-  Solid = 고체
   crystal lattice = 결정 격자
   krustallos = 크뤼스탈로스
   lead crystal = 납유리
@@ -898,11 +880,9 @@ GLOSSARY:
   Atom = 원자
   Chemical engineering = 화학 공학
   Crystal = 결정
-  Crystallization = 결정화
   Liquid = 액체
   Molecule = 분자
   Solution (chemistry) = 용액
-  Titanium = 티타늄
   Titanium dioxide = 이산화 타이타늄
   anatase = 예추석
   crystal structure = 결정 구조

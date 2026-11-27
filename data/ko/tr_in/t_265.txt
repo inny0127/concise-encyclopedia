@@ -24,7 +24,6 @@ LEVEL: 5
 GLOSSARY:
   Cashew = 캐슈
   Iran = 이란
-  Pistachio = 피스타치오
   Tonne = 톤
   Turkey = 튀르키예
   United States = 미국
@@ -57,7 +56,6 @@ GLOSSARY:
   British Overseas Territory = 영국령 해외 영토
   HMS Bounty = 바운티호
   Henderson Island = 헨더슨섬
-  James = 야고보
   James Cook = 제임스 쿡
   Ocean = 대양
   Pacific = 태평양
@@ -85,7 +83,6 @@ GLOSSARY:
   Pittsburgh = 피츠버그
   Pittsburgh Steelers = 피츠버그 스틸러스
   River = 강
-  Steel = 강철
   Steel City = 철강 도시
   William = 윌리엄
   William Pitt = 윌리엄 피트
@@ -150,10 +147,8 @@ GLOSSARY:
   Best Animated Feature = 장편 애니메이션상
   California = 캘리포니아주
   Disney = 디즈니
-  Eleven = 일레븐
   Emeryville = 에머리빌
   Graphics Group = 그래픽스 그룹
-  Pixar = 픽사
   Steve Jobs = 스티브 잡스
   Story = 『스토리』
   Toy Story = 「토이 스토리」
@@ -168,7 +163,6 @@ LEVEL: 4
 GLOSSARY:
   ASCII = 아스키
   ASCII art = 아스키 아트
-  CMYK = CMYK
   Frederic C. Billingsley = 프레더릭 C. 빌링슬리
   German = 독일어
   JPL = 제트 추진 연구소
@@ -212,7 +206,6 @@ GLOSSARY:
   Lazio = 라치오주
   Naples = 나폴리
   Neapolitan pizza = 나폴리 피자
-  Pizza = 피자
   Raffaele Esposito = 라파엘레 에스포시토
   Tomato = 토마토
   UNESCO = 유네스코
@@ -358,7 +351,6 @@ Infectious disease caused by the bacterium *Yersinia pestis*. Symptoms, which us
 HEADWORD: Plaice = 가자미
 LEVEL: 4
 GLOSSARY:
-  Alaska = 알래스카주
   Alaska plaice = 알래스카가자미
   Alaskan = 알래스카가자미
   American plaice = 미국가자미
@@ -394,7 +386,6 @@ GLOSSARY:
   Latin = 라틴어
   Lava = 용암
   Mars = 화성
-  Plains = 대평원
   Prairie = 프레리
   Tundra = 툰드라
   coastal plains = 해안 평야
@@ -495,7 +486,6 @@ GLOSSARY:
   Bronze = 청동
   Cologne = 쾰른
   Germany = 독일
-  Hand = 손
   Leonard Bailey = 레너드 베일리
   Lumber = 목재
   Pompeii = 폼페이
@@ -572,7 +562,6 @@ GLOSSARY:
   Interstellar medium = 성간 물질
   Milky Way = 우리은하
   Nebula = 성운
-  Once = 『Once』
   Red giant = 적색 거성
   Ring = 『링』
   Ring Nebula = 고리 성운
@@ -635,7 +624,6 @@ GLOSSARY:
   Jellyfish = 해파리
   Oxygen = 산소
   Photosynthesis = 광합성
-  Plankton = 플랑크톤
   Pollen = 꽃가루
   Protozoa = 원생동물
   archaea = 고세균
@@ -661,14 +649,11 @@ GLOSSARY:
   Darwin = 다윈
   Devonian = 데본기
   Flowering plant = 속씨식물
-  Green = 초록색
   Jurassic = 쥐라기
   Late Triassic = 후기 트라이아스기
   Linnaeus = 린네
   Ordovician = 오르도비스기
-  People = 『피플』
   Photosynthesis = 광합성
-  Plant = 식물
   Plantae = 식물계
   Sequoia sempervirens = Sequoia sempervirens
   Silurian = 실루리아기
@@ -741,7 +726,6 @@ GLOSSARY:
   Green = 초록색
   Green Revolution = 녹색 혁명
   Gregor Mendel = 그레고어 멘델
-  Plant = 식물
   Plant breeding = 품종 개량
   Selective breeding = 선택 교배
   biotic and abiotic stress = 생물적·비생물적 스트레스
@@ -759,7 +743,6 @@ GLOSSARY:
   Flagella = 편모
   Meristem = 분열 조직
   Photosynthesis = 광합성
-  Plant = 식물
   Plastids = 색소체
   Vacuole = 액포
   archaea = 고세균
@@ -792,7 +775,6 @@ GLOSSARY:
   Carbohydrate = 탄수화물
   Ethylene = 에틸렌
   Peptide = 펩타이드
-  Plant = 식물
   Vascular tissue = 관다발 조직
   abscisic acid = 앱시스산
   amino acids = 아미노산
@@ -836,7 +818,6 @@ GLOSSARY:
   Pathogen = 병원체
   Rhizomes = 뿌리줄기
   Sexual reproduction = 유성 생식
-  Taraxacum = 민들레속
   Vegetative reproduction = 영양 생식
   asexual reproduction = 무성 생식
   budding = 출아
@@ -860,7 +841,6 @@ GLOSSARY:
   Christian Konrad Sprengel = 크리스티안 콘라트 슈프렝겔
   Darwin = 다윈
   Flowering plant = 속씨식물
-  Flowers = 「Flowers」
   Gametophyte = 배우체
   Pollen = 꽃가루
   Sporophyte = 포자체
@@ -915,7 +895,6 @@ GLOSSARY:
   Harold Mott-Smith = 해럴드 모트스미스
   Humphry Davy = 험프리 데이비
   Ionization = 이온화
-  Irving = 어빙
   Irving Langmuir = 어빙 랭뮤어
   Lewi Tonks = 루이 통크스
   Lightning = 번개

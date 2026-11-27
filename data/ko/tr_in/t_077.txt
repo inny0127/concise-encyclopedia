@@ -2,7 +2,6 @@
 HEADWORD: Cook Strait = 쿡 해협
 LEVEL: 4
 GLOSSARY:
-  Abel = 아벨
   Abel Tasman = 아벌 타스만
   James = 야고보
   James Cook = 제임스 쿡
@@ -17,7 +16,6 @@ GLOSSARY:
   Picton = 픽턴
   South Island = 남섬
   South Pacific Ocean = 남태평양
-  Strait = 해협
   TEV Wahine = 와히네호
   Tasman Sea = 태즈먼해
   Te Moana-o-Raukawa = 테 모아나오라우카와
@@ -32,7 +30,6 @@ LEVEL: 3
 GLOSSARY:
   Cave = 동굴
   Columbian exchange = 콜럼버스 교환
-  Cooking = 요리
   Fire = 불
   Homo = 사람속
   Homo habilis = 호모 하빌리스
@@ -42,7 +39,6 @@ GLOSSARY:
   Old World = 구세계
   Potato = 감자
   Pottery = 토기
-  Richard = 리처드
   Richard Wrangham = 리처드 랭엄
   South Africa = 남아프리카 공화국
   Wonderwerk Cave = 원더베르크 동굴
@@ -66,7 +62,6 @@ LEVEL: 4
 GLOSSARY:
   AAB group = AAB군
   Banana = 바나나
-  Cooking = 요리
   Musa = 파초속
   Musa acuminata = 무사 아쿠미나타
   Musa balbisiana = 무사 발비시아나
@@ -85,11 +80,9 @@ GLOSSARY:
   Baking = 제빵
   Butter = 버터
   Cardiovascular disease = 심혈관 질환
-  Coconut = 코코넛
   Fatty acid = 지방산
   LDL cholesterol = LDL 콜레스테롤
   Lard = 라드
-  Meta-analyses = 메타분석
   Plant = 식물
   Rapeseed = 유채
   Trans fats = 트랜스 지방
@@ -130,7 +123,6 @@ HEADWORD: Cooling tower = 냉각탑
 LEVEL: 4
 GLOSSARY:
   Chemical plant = 화학 공장
-  Dutch = 네덜란드어
   Evaporation = 증발
   Frederik = 프레데릭
   Frederik van Iterson = 프레데릭 판 이테르손
@@ -156,8 +148,6 @@ GLOSSARY:
   Animal = 동물
   Competition = 경쟁
   Emotion = 감정
-  Joint = 관절
-  Language = 언어
   Organism = 생물
   Plant = 식물
   Species = 종
@@ -226,7 +216,6 @@ GLOSSARY:
   Association football = 축구
   CONMEBOL = 남미 축구 연맹
   Ecuador = 에콰도르
-  Eight = 「에잇」
   Football = 축구
   South America = 남아메리카
   South American = 남아메리카
@@ -306,14 +295,12 @@ GLOSSARY:
   Copper = 구리
   Cyprus = 키프로스
   Earth's crust = 지각
-  Green = 초록색
   Keweenaw Peninsula = 키위노 반도
   Latin = 라틴어
   Liberty = 자유
   Malachite = 공작석
   Michigan = 미시간주
   Peninsula = 반도
-  Pure = 「퓨어」
   Smelting = 제련
   Statue of Liberty = 자유의 여신상
   aerobic organisms = 호기성 생물
@@ -422,7 +409,6 @@ GLOSSARY:
   Intellectual property = 지식 재산
   Printing press = 인쇄기
   Public domain = 퍼블릭 도메인
-  Rights = 인권
   Scotland = 스코틀랜드
   Statute = 제정법
   Statute of Anne = 앤 여왕법
@@ -519,7 +505,6 @@ GLOSSARY:
   Camouflage = 위장
   Coral = 산호
   Coral reef = 산호초
-  Habitat = 서식지
   Herbivore = 초식 동물
   Indo-Pacific = 인도태평양
   Surgeonfishes = 쥐돔과 어류
@@ -557,7 +542,6 @@ GLOSSARY:
   Ferdinand = 페르디난트
   Ferdinand Marcos = 페르디난드 마르코스
   Fifth Philippine Republic = 필리핀 제5공화국
-  Filipino = 필리핀어
   Mendiola Massacre = 멘디올라 학살
   Mindanao = 민다나오섬
   People = 『피플』
@@ -575,9 +559,7 @@ LEVEL: 5
 GLOSSARY:
   Arthropod = 절지동물
   Chinese medicine = 중의학
-  Cordyceps = 동충하초속
   Cordyceps militaris = 번데기동충하초
-  Genus = 속
   Insect = 곤충
   ascomycete = 자낭균
   cordycepin = 코르디세핀
@@ -670,7 +652,6 @@ GLOSSARY:
   Academy Awards = 아카데미상
   All the Pretty Horses = 『모두 다 예쁜 말들』
   Best Picture = 작품상
-  Blood = 혈액
   Blood Meridian = 『핏빛 자오선』
   Book = 책
   Fiction = 픽션
@@ -731,7 +712,6 @@ GLOSSARY:
   New York (state) = 뉴욕주
   New York City = 뉴욕
   Qatar = 카타르
-  Satellite = 인공위성
   United States = 미국
   White = 흰색
   York = 요크
@@ -749,7 +729,6 @@ GLOSSARY:
   Cornus florida = 꽃산딸나무
   Cornus kousa = 산딸나무
   Eurasia = 유라시아
-  Genus = 속
   Japan = 일본
   Kousa dogwood = 산딸나무
   North America = 북아메리카
@@ -799,7 +778,6 @@ GLOSSARY:
   Cardiovascular disease = 심혈관 질환
   Diabetes = 당뇨병
   Exercise = 운동
-  Heart = 심장
   Hypertension = 고혈압
   Obesity = 비만
   cardiac muscle = 심근

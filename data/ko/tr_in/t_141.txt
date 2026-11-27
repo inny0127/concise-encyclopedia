@@ -5,7 +5,6 @@ GLOSSARY:
   Berlin = 베를린
   Black-body radiation = 흑체 복사
   Caesium = 세슘
-  German = 독일어
   Kirchhoff's circuit laws = 키르히호프의 회로 법칙
   Robert Bunsen = 로베르트 분젠
   Rubidium = 루비듐
@@ -46,7 +45,6 @@ Austrian symbolist painter and a founding member of the [[Vienna]] Secession. Hi
 HEADWORD: Mahler, Gustav = 말러, 구스타프
 LEVEL: 4
 GLOSSARY:
-  Arnold = 아르놀트
   Arnold Schoenberg = 아르놀트 쇤베르크
   Austro-Bohemian = 오스트리아-보헤미아
   Benjamin Britten = 벤저민 브리튼
@@ -116,7 +114,6 @@ GLOSSARY:
   Bouvard et Pécuchet = 『부바르와 페퀴셰』
   Carthage = 카르타고
   Education = 교육
-  French = 프랑스어
   Guy de Maupassant = 기 드 모파상
   Madame Bovary = 『보바리 부인』
   Normandy = 노르망디
@@ -162,7 +159,6 @@ GLOSSARY:
   Germany = 독일
   Gutenberg = 구텐베르크
   Gutenberg Revolution = 구텐베르크 혁명
-  Jerome = 히에로니무스
   Johannes Gutenberg = 요하네스 구텐베르크
   Latin = 라틴어
   Mainz = 마인츠
@@ -259,7 +255,6 @@ LEVEL: 4
 GLOSSARY:
   Boule de Suif = 「비곗덩어리」
   Franco-Prussian War = 프로이센-프랑스 전쟁
-  French = 프랑스어
   Gustave Flaubert = 귀스타브 플로베르
   Navy = 해군
   Navy Department = 해군성
@@ -382,7 +377,6 @@ GLOSSARY:
   Electronic music = 전자 음악
   Hamburg = 함부르크
   Hochschule für Musik und Theater Hamburg = 함부르크 음악 연극 대학
-  Hungarian = 헝가리어
   Hungary = 헝가리
   Odyssey = 『오디세이아』
   Romania = 루마니아
@@ -409,7 +403,6 @@ GLOSSARY:
   Ludwig = 루트비히
   Olympic Games = 올림픽
   Sparta = 스파르타
-  World = 세계
   World Gymnastics = 세계체조연맹
   aerobic gymnastics = 에어로빅 체조
   balance beam = 평균대
@@ -431,7 +424,6 @@ HEADWORD: Gymnosperm = 겉씨식물
 LEVEL: 4
 GLOSSARY:
   Ancient Greek = 고대 그리스어
-  Clade = 분기군
   Conifer = 구과식물
   Cycad = 소철류
   Devonian = 데본기
@@ -456,7 +448,6 @@ GLOSSARY:
   Ancient Rome = 고대 로마
   Egypt = 이집트
   Fertilizer = 비료
-  Gypsum = 석고
   Mesopotamia = 메소포타미아
   Mohs hardness = 모스 굳기
   Mohs scale = 모스 굳기계
@@ -487,7 +478,6 @@ GLOSSARY:
   Gyrocompasses = 자이로컴퍼스
   Hubble = 허블
   Hubble Space Telescope = 허블 우주 망원경
-  MEMS = MEMS
   Smartphone = 스마트폰
   Space = 공간
   Telescope = 망원경
@@ -539,7 +529,6 @@ Proprietary digital interface for transmitting high-quality video and audio betw
 HEADWORD: HIV/AIDS = HIV/AIDS
 LEVEL: 3
 GLOSSARY:
-  AIDS = 에이즈
   Blood transfusion = 수혈
   Centers for Disease Control and Prevention = 질병통제예방센터
   Control = 「Control」
@@ -580,10 +569,8 @@ GLOSSARY:
   Genus = 속
   HIV-1 = HIV-1
   HIV-2 = HIV-2
-  Human = 인간
   Immune system = 면역계
   Lentivirus = 렌티바이러스
-  Research = 연구
   Sexual intercourse = 성교
   T cells = T세포
   Virus = 바이러스
@@ -645,7 +632,6 @@ GLOSSARY:
   CSS = CSS
   HTML = HTML
   JavaScript = 자바스크립트
-  Standard = 스탠더드
   Tim Berners-Lee = 팀 버너스리
   Web browser = 웹 브라우저
   World = 세계
@@ -662,12 +648,10 @@ GLOSSARY:
   Authentication = 인증
   Electronic Frontier Foundation = 전자 프런티어 재단
   HTTP = HTTP
-  HTTPS = HTTPS
   Hypertext Transfer Protocol = 하이퍼텍스트 전송 프로토콜
   IP address = IP 주소
   Secure Sockets Layer = 보안 소켓 계층
   Security = 보안
-  Traffic = 「트래픽」
   Transport = 교통
   Transport Layer Security = 전송 계층 보안
   digital certificates = 디지털 인증서
@@ -703,7 +687,6 @@ HEADWORD: Wells, H. G. = 웰스, H. G.
 LEVEL: 4
 GLOSSARY:
   Biology = 생물학
-  Diabetes = 당뇨병
   Eugenics = 우생학
   Literature = 문학
   Machine = 기계
@@ -731,7 +714,6 @@ GLOSSARY:
   Castle = 성
   Chicago = 시카고
   Columbian Exposition = 콜럼버스 기념 박람회
-  Murder = 살인
   Murder Castle = 살인의 성
   Serial killer = 연쇄 살인범
   World's Columbian Exposition = 시카고 만국 박람회
@@ -774,7 +756,6 @@ GLOSSARY:
   Retail = 소매
   Scandinavia = 스칸디나비아
   Stockholm = 스톡홀름
-  Swedish = 스웨덴어
   Västerås = 베스테로스
   York = 요크
   fast-fashion = 패스트 패션

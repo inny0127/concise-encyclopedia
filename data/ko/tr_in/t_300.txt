@@ -27,7 +27,6 @@ Coastal state of northern Germany, the northernmost of its sixteen states, compr
 HEADWORD: School = 학교
 LEVEL: 3
 GLOSSARY:
-  Arabic = 아랍어
   Canterbury = 캔터베리
   China = 중국
   Denmark-Norway = 덴마크-노르웨이
@@ -35,7 +34,6 @@ GLOSSARY:
   Europe = 유럽
   Greece = 그리스
   India = 인도
-  Institution = 제도
   Islamic world = 이슬람 세계
   Latin = 라틴어
   Middle Ages = 중세
@@ -70,7 +68,6 @@ GLOSSARY:
   Louis de Broglie = 루이 드브로이
   Newton's second law = 뉴턴의 운동 제2법칙
   Partial differential equation = 편미분 방정식
-  Paul = 바울로
   Paul Dirac = 폴 디랙
   Richard = 리처드
   Richard Feynman = 리처드 파인먼
@@ -141,7 +138,6 @@ LEVEL: 5
 GLOSSARY:
   Black hole = 블랙홀
   Einstein field equations = 아인슈타인 장 방정식
-  German = 독일어
   Gravitational constant = 중력 상수
   Karl Schwarzschild = 카를 슈바르츠실트
   Schwarzschild radius = 슈바르츠실트 반지름
@@ -158,7 +154,6 @@ Parameter in the Schwarzschild solution to [[Einstein field equations|Einstein's
 HEADWORD: Sciatica = 좌골 신경통
 LEVEL: 5
 GLOSSARY:
-  Pain = 통증
   Pregnancy = 임신
   Surgery = 수술
   piriformis syndrome = 이상근 증후군
@@ -188,7 +183,6 @@ GLOSSARY:
   Islamic Golden Age = 이슬람 황금기
   Latin = 라틴어
   Leucippus = 레우키포스
-  Logic = 논리학
   Mesopotamia = 메소포타미아
   Mesopotamians = 메소포타미아인
   Milesian school = 밀레토스학파
@@ -232,7 +226,6 @@ LEVEL: 4
 GLOSSARY:
   Cyberpunk = 사이버펑크
   Frankenstein = 『프랑켄슈타인』
-  Genre = 장르
   H. G. Wells = H. G. 웰스
   Jules Verne = 쥘 베른
   Mary Shelley = 메리 셸리
@@ -432,7 +425,6 @@ HEADWORD: Scientific modeling = 과학적 모델링
 LEVEL: 4
 GLOSSARY:
   Abstraction = 추상화
-  John = 존
   John von Neumann = 존 폰 노이만
 ENTRY:
 Activity of producing models of empirical objects, phenomena and physical processes, to make part of the world easier to understand, quantify, visualize or simulate. It requires selecting the relevant features of a real situation and building a model that replicates them. Conceptual, operational, mathematical, computational and graphical models serve different purposes. Models are typically used when direct experimental measurement is impossible or impractical, although direct measurement under controlled conditions is more reliable. [[John von Neumann]] wrote that the sciences mainly make models, justified if they are expected to describe phenomena from a reasonably wide area. A model is task-driven, leaving out details unimportant to the task and [[Abstraction|abstracting]] others. Scientific debate often concerns which model is better for a given task, such as seasonal climate forecasting.
@@ -443,7 +435,6 @@ LEVEL: 4
 GLOSSARY:
   Calculator = 계산기
   E notation = E 표기법
-  Engineering = 공학
   Engineering notation = 공학적 표기법
   SI = 국제단위계
   SI prefixes = SI 접두어
@@ -472,7 +463,6 @@ Explanation of an aspect of the natural world that has been repeatedly tested an
 HEADWORD: Scientology = 사이언톨로지
 LEVEL: 5
 GLOSSARY:
-  Belief = 믿음
   Church = 처치
   Church of Scientology = 사이언톨로지교
   Clear = 클리어
@@ -546,7 +536,6 @@ HEADWORD: Scooby-Doo = 스쿠비 두
 LEVEL: 5
 GLOSSARY:
   ABC = ABC
-  Animation = 애니메이션
   CBS = CBS
   Cartoon Network = 카툰 네트워크
   Great Dane = 그레이트데인
@@ -626,7 +615,6 @@ GLOSSARY:
   Fall of the Berlin Wall = 베를린 장벽 붕괴
   Francis = 프랑수아
   Francis Buchholz = 프랜시스 부흐홀츠
-  German = 독일어
   Hanover = 하노버
   Herman Rarebell = 헤르만 라레벨
   Klaus Meine = 클라우스 마이네
@@ -657,7 +645,6 @@ GLOSSARY:
   Sagittarius = 궁수자리
   Sagittarius (constellation) = 궁수자리
   U Scorpii = 전갈자리 U
-  Zodiac = 황도 12궁
   Zodiac constellation = 황도 별자리
   globular clusters = 구상 성단
 ENTRY:
@@ -719,7 +706,6 @@ GLOSSARY:
   Classical music = 클래식 음악
   King of Ragtime = 래그타임의 왕
   Leaf = 잎
-  Maple = 단풍나무
   Maple Leaf = 메이플 리프
   Maple Leaf Rag = 「메이플 리프 래그」
   Missouri = 미주리주
@@ -765,7 +751,6 @@ LEVEL: 5
 GLOSSARY:
   Ben Nevis = 벤네비스산
   British Isles = 브리튼 제도
-  Emigration = 이주
   Gaels = 게일족
   Highlands = 하일랜드
   Highlands and Islands = 하일랜드 앤드 아일랜즈
@@ -793,7 +778,6 @@ GLOSSARY:
   Scouting = 스카우트 운동
   Scouting for Boys = 『소년을 위한 스카우트 활동』
   Uniform = 제복
-  Youth = 『청년 시절』
   informal education = 무형식 교육
   merit badges = 기능장
   trefoil = 트레포일
@@ -812,7 +796,6 @@ GLOSSARY:
   Criss-Crosswords = 크리스크로스워즈
   Dictionary = 사전
   Hasbro = 해즈브로
-  James = 야고보
   James Brunot = 제임스 브루노
   Mattel = 마텔
   Selchow and Righter = 셀초 앤드 라이터
@@ -835,12 +818,10 @@ GLOSSARY:
   Ethiopia = 에티오피아
   France = 프랑스
   Germany = 독일
-  Hobson = 홉슨
   Imperialism = 제국주의
   India = 인도
   Industrial Revolution = 산업 혁명
   Italy = 이탈리아
-  John = 존
   John A. Hobson = 존 A. 홉슨
   Leopold = 레오폴트
   Leopold II of Belgium = 레오폴드 2세
@@ -854,7 +835,6 @@ GLOSSARY:
   Quinine = 퀴닌
   Second = 초
   Second Industrial Revolution = 제2차 산업 혁명
-  Seven = 「세븐」
   Spain = 스페인
   United Kingdom = 영국
   United States = 미국
@@ -885,7 +865,6 @@ GLOSSARY:
   Greece = 그리스
   Left-hand threads = 왼나사
   Mesopotamia = 메소포타미아
-  Metal = 금속
   Neo-Assyrian = 신아시리아
   Neo-Assyrian period = 신아시리아 시대
   Renaissance = 르네상스
@@ -913,7 +892,6 @@ GLOSSARY:
   Inclined plane = 빗면
   Le Meccaniche = 『기계학』
   Mechanics = 역학
-  Screw = 나사
   Simple machine = 단순 기계
   inclined plane = 빗면
   mechanical advantage = 기계적 이득

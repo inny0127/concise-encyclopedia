@@ -21,7 +21,6 @@ Finnish composer of the late Romantic and early modern periods. He is widely reg
 HEADWORD: Calment, Jeanne = 칼망, 잔
 LEVEL: 5
 GLOSSARY:
-  French = 프랑스어
   Longevity = 장수
   Supercentenarian = 초백세인
 ENTRY:
@@ -43,7 +42,6 @@ GLOSSARY:
   Festival = 축제
   Film = 영화
   François Truffaut = 프랑수아 트뤼포
-  French = 프랑스어
   Jules et Jim = 「쥘과 짐」
   Kazan = 카잔
   Luis Buñuel = 루이스 부뉴엘
@@ -145,7 +143,6 @@ HEADWORD: Buckley, Jeff = 버클리, 제프
 LEVEL: 5
 GLOSSARY:
   Grace = 『그레이스』
-  Hallelujah = 할렐루야
   Hallelujah (Leonard Cohen song) = 「할렐루야」
   Library = 도서관
   Library of Congress = 미국 의회 도서관
@@ -298,7 +295,6 @@ LEVEL: 4
 GLOSSARY:
   Cnidaria = 자포동물
   Desalination = 담수화
-  Jellyfish = 해파리
   Larva = 유생
   Molecular biology = 분자생물학
   desalination plants = 담수화 시설
@@ -365,7 +361,6 @@ GLOSSARY:
   Education = 교육
   Hulk = 「헐크」
   Human = 인간
-  Maverick = 「매버릭」
   Once = 『Once』
   Once Upon a Time in America = 「원스 어폰 어 타임 인 아메리카」
   Requiem for a Dream = 「레퀴엠」
@@ -391,7 +386,6 @@ GLOSSARY:
   Dreamgirls = 「드림걸스」
   EGOT = EGOT
   Effie White = 에피 화이트
-  Emmy = 에미상
   Grammy = 그래미상
   Grammy Awards = 그래미상
   Idol = 「아이돌」
@@ -468,7 +462,6 @@ GLOSSARY:
   Artificial intelligence = 인공지능
   Graphics processing unit = 그래픽 처리 장치
   Nvidia = 엔비디아
-  Time = 『타임』
   Time (magazine) = 『타임』
   chief executive = 집정
   high-performance computing = 고성능 컴퓨팅
@@ -485,7 +478,6 @@ GLOSSARY:
   Johan Jensen = 요한 옌센
   Probability theory = 확률론
   Random variable = 확률 변수
-  Theorem = 정리
   convex function = 볼록 함수
   probability theory = 확률론
   random variable = 확률 변수
@@ -635,7 +627,6 @@ LEVEL: 4
 GLOSSARY:
   Authority = 권위
   Bank = 은행
-  City = 도시
   Israel = 이스라엘
   Jericho = 예리코
   Jericho Governorate = 예리코주
@@ -798,8 +789,6 @@ GLOSSARY:
   England = 잉글랜드
   English Channel = 영국 해협
   France = 프랑스
-  German = 독일어
-  Jersey = 저지섬
   Kingdom of England = 잉글랜드 왕국
   Normandy = 노르망디
   Peninsula = 반도
@@ -818,7 +807,6 @@ GLOSSARY:
   Al-Aqsa Mosque = 알아크사 모스크
   Bible = 성경
   Christianity = 기독교
-  Christians = 기독교인
   Church = 처치
   Church of the Holy Sepulchre = 성묘 교회
   City = 도시

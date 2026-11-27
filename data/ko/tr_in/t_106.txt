@@ -82,10 +82,8 @@ GLOSSARY:
   Norman = 노르만
   Norman Conquest = 노르만 정복
   Old English = 고대 영어
-  Printing = 인쇄
   Scandinavia = 스칸디나비아
   The Canterbury Tales = 『캔터베리 이야기』
-  William = 윌리엄
   William Shakespeare = 윌리엄 셰익스피어
   national epic = 국민 서사시
 ENTRY:
@@ -95,7 +93,6 @@ Literature written in the [[English language|English language]]. The earliest fo
 HEADWORD: Engraving = 인그레이빙
 LEVEL: 4
 GLOSSARY:
-  Engraving = 인그레이빙
   Germany = 독일
   Italy = 이탈리아
   Printmaking = 판화
@@ -112,7 +109,6 @@ GLOSSARY:
   Akkad = 아카드
   Akkadian = 아카드어
   Akkadian Empire = 아카드 제국
-  Enheduanna = 엔헤두안나
   Exaltation of Inanna = 「이난나 찬가」
   Feminism = 페미니즘
   Giparu = 기파루
@@ -225,7 +221,6 @@ British politician and classical scholar. Powell was Conservative Member of Parl
 HEADWORD: Enola Gay = 에놀라 게이
 LEVEL: 5
 GLOSSARY:
-  Boeing = 보잉
   Boeing B-29 Superfortress = 보잉 B-29 슈퍼포트리스
   Hiroshima = 히로시마
   Institution = 제도
@@ -265,7 +260,6 @@ HEADWORD: Fermi, Enrico = 페르미, 엔리코
 LEVEL: 4
 GLOSSARY:
   Chicago Pile-1 = 시카고 파일 1호
-  Italian-American = 이탈리아계 미국인
   Italy = 이탈리아
   Laura Capon = 라우라 카폰
   Manhattan = 맨해튼
@@ -318,8 +312,6 @@ GLOSSARY:
   Dance = 춤
   Dictionary = 사전
   Drama = 연극
-  Entertainment = 오락
-  Fencing = 펜싱
   Film = 영화
   French = 프랑스어
   Galaxy = 은하
@@ -363,7 +355,6 @@ GLOSSARY:
   Bar (unit) = 바
   British thermal unit = 영국 열량 단위
   Calorie = 칼로리
-  Enthalpy = 엔탈피
   Heat = 열
   Internal energy = 내부 에너지
   Joule = 줄
@@ -385,12 +376,9 @@ GLOSSARY:
   Boltzmann constant = 볼츠만 상수
   Cosmology = 우주론
   Economics = 경제학
-  Entropy = 엔트로피
   Heat = 열
   Information theory = 정보 이론
-  Ludwig = 루트비히
   Ludwig Boltzmann = 루트비히 볼츠만
-  Rudolf = 루돌프
   Rudolf Clausius = 루돌프 클라우지우스
   Second law of thermodynamics = 열역학 제2법칙
   entropy = 엔트로피
@@ -463,7 +451,6 @@ GLOSSARY:
   Revolt = 리볼트
   Talaat = 탈라트
   Three Pashas = 세 파샤
-  Turkish = 튀르키예어
   World = 세계
   World War I = 제1차 세계 대전
   Young Turk Revolution = 청년 튀르크 혁명
@@ -494,11 +481,9 @@ LEVEL: 4
 GLOSSARY:
   Anti-environmentalism = 반환경주의
   Biodiversity = 생물 다양성
-  Broad = 브로드강
   Climate = 기후
   Earth = 지구
   Ecology = 생태학
-  Environmentalism = 환경주의
   John = 존
   John Muir = 존 뮤어
   National park = 국립공원
@@ -522,8 +507,6 @@ GLOSSARY:
   Grammy Awards = 그래미상
   Ireland = 아일랜드
   Irish = 아일랜드어
-  Orinoco = 오리노코강
-  Sail = 돛
   U2 = U2
   Watermark = 「워터마크」
 ENTRY:
@@ -576,11 +559,9 @@ GLOSSARY:
   Eocene = 에오세
   Extinction event = 대멸종
   Grande Coupure = 그랑드 쿠퓌르
-  Mammals = 포유류
   Oligocene = 올리고세
   Paleocene = 팔레오세
   Paleogene = 팔레오기
-  Second = 초
   Whale = 고래
   ocean acidification = 해양 산성화
   primates = 영장류
@@ -596,7 +577,6 @@ GLOSSARY:
   Attic = 아티카
   Book = 책
   Book of Revelation = 요한 계시록
-  Ephesus = 에페소스
   Ionia = 이오니아
   Ionian = 이오니아
   Küçükmenderes River = 퀴췩멘데레스강
@@ -730,7 +710,6 @@ GLOSSARY:
   Leaf = 잎
   Potato = 감자
   Stoma = 기공
-  Woody = 우디
   epidermis = 표피
   gas exchange = 기체 교환
   guard cells = 공변세포
@@ -765,7 +744,6 @@ GLOSSARY:
   Archaeology = 고고학
   Behistun inscription = 베히스툰 비문
   Corpus Inscriptionum Latinarum = 『라틴 비문 집성』
-  Epigraphy = 금석학
   Iran = 이란
   Theodor Mommsen = 테오도어 몸젠
   graphemes = 문자소
@@ -791,18 +769,14 @@ HEADWORD: Epistemology = 인식론
 LEVEL: 3
 GLOSSARY:
   Belief = 믿음
-  Branch = 브랜치
   Chinese philosophy = 중국 철학
   Coherentists = 정합론자
   Empiricism = 경험론
-  Empiricists = 경험론자
-  Epistemology = 인식론
   Gettier cases = 게티어 사례
   Internalists = 내재주의자
   Philosophy = 철학
   Plato = 플라톤
   Rationalism = 합리주의
-  Reason = 이성
   Skepticism = 회의주의
   Theaetetus = 『테아이테토스』
   Truth = 진리
@@ -832,7 +806,6 @@ HEADWORD: Epithelium = 상피
 LEVEL: 4
 GLOSSARY:
   Connective tissue = 결합 조직
-  Epithelium = 상피
   Gland = 샘
   Muscle = 근육
   Nervous tissue = 신경 조직
@@ -865,8 +838,6 @@ GLOSSARY:
   Acid = 산
   Adhesive = 접착제
   Amine = 아민
-  Epoxy = 에폭시
-  Family = 가족
   Phenol = 페놀
   Polymer = 중합체
   Thiol = 티올
@@ -890,7 +861,6 @@ GLOSSARY:
   Infectious mononucleosis = 전염성 단핵구증
   United States = 미국
   Vaccine = 백신
-  Virus = 바이러스
   autoimmune diseases = 자가 면역 질환
   human herpesvirus 4 = 인간 헤르페스바이러스 4형
   oncogenic virus = 종양 바이러스

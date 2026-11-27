@@ -3,7 +3,6 @@ HEADWORD: Kelp = 켈프
 LEVEL: 4
 GLOSSARY:
   Arctic = 북극
-  Kelp = 켈프
   Laminariales = 다시마목
   Macrocystis = 마크로키스티스속
   Nereocystis = 네레오키스티스속
@@ -142,7 +141,6 @@ GLOSSARY:
   Florida = 플로리다주
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   Merritt Island = 메리트섬
   NASA = 미국 항공 우주국
   NASA Launch Operations Center = NASA 발사 운영 센터
@@ -207,7 +205,6 @@ Zambian politician, first president of Zambia (1964–1991). Kaunda led the Unit
 HEADWORD: Rogers, Kenny = 로저스, 케니
 LEVEL: 5
 GLOSSARY:
-  Brown = 브라운
   Country Music Hall of Fame = 컨트리 음악 명예의 전당
   Dolly = 『돌리』
   Dolly Parton = 돌리 파턴
@@ -266,9 +263,7 @@ LEVEL: 5
 GLOSSARY:
   Cave = 동굴
   Frankfort = 프랭크퍼트
-  Kentucky = 켄터키주
   Kentucky bluegrass = 왕포아풀
-  Mammoth = 매머드
   Mammoth Cave National Park = 매머드 동굴 국립공원
   Ohio = 오하이오주
   Ohio River = 오하이오강
@@ -324,7 +319,6 @@ GLOSSARY:
   Uganda = 우간다
   United Nations = 국제 연합
   United Nations Environment Programme = 유엔 환경 계획
-  William = 윌리엄
   William Ruto = 윌리엄 루토
   national income = 국민 소득
 ENTRY:
@@ -367,7 +361,6 @@ GLOSSARY:
   Cygnus = 백조자리
   Cygnus (constellation) = 백조자리
   Earth = 지구
-  Exoplanet = 외계 행성
   Kepler = 케플러
   Kepler space telescope = 케플러 우주 망원경
   Kepler-22 = 케플러-22
@@ -401,7 +394,6 @@ LEVEL: 5
 GLOSSARY:
   Aristotelian = 아리스토텔레스적
   Aristotelian cosmology = 아리스토텔레스 우주론
-  Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   Johannes Kepler = 요하네스 케플러
   Kepler = 케플러
@@ -419,7 +411,6 @@ HEADWORD: Kepler's laws of planetary motion = 케플러의 행성 운동 법칙
 LEVEL: 4
 GLOSSARY:
   Ellipse = 타원
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Johannes Kepler = 요하네스 케플러
   Kepler = 케플러
@@ -442,7 +433,6 @@ Three laws describing planetary orbits around the Sun. Published by [[Johannes K
 HEADWORD: Kerala = 케랄라
 LEVEL: 5
 GLOSSARY:
-  Black = 검은색
   Black pepper = 후추
   Coast = 해안
   Coconut = 코코넛
@@ -451,7 +441,6 @@ GLOSSARY:
   Human Development Index = 인간 개발 지수
   India = 인도
   Karnataka = 카르나타카주
-  Kerala = 케랄라주
   Keralam = 케랄람
   Laccadive Sea = 래카다이브해
   Malabar = 말라바르
@@ -475,7 +464,6 @@ GLOSSARY:
   Arabs = 아랍인
   Bahram IV = 바흐람 4세
   Behistun Inscription = 베히스툰 비문
-  City = 도시
   Darius = 다리우스
   Darius I = 다리우스 1세
   Hulegu = 훌라구
@@ -525,7 +513,6 @@ GLOSSARY:
   Abraham Gesner = 에이브러햄 게스너
   Asia = 아시아
   Jet engine = 제트 엔진
-  Kerosene = 등유
   Nova Scotia = 노바스코샤주
   Pennsylvania = 펜실베이니아주
   Petroleum = 석유
@@ -572,7 +559,6 @@ GLOSSARY:
   Malay = 말레이어
   Mass production = 대량 생산
   Onion = 양파
-  Tomato = 토마토
   Vinegar = 식초
   catsup = 캣섭
   kicap = 키짭
@@ -688,7 +674,6 @@ Belgian professional footballer and midfielder. He made 422 appearances for Manc
 HEADWORD: Durant, Kevin = 듀랜트, 케빈
 LEVEL: 5
 GLOSSARY:
-  Durant = 듀런트
   Finals MVP = 파이널 MVP
   Golden State Warriors = 골든스테이트 워리어스
   Houston = 휴스턴
@@ -879,7 +864,6 @@ GLOSSARY:
   Mixed martial arts = 종합 격투기
   Nevada = 네바다주
   Nevada State Athletic Commission = 네바다주 체육 위원회
-  Russian = 러시아어
   UFC = UFC
   UFC 229 = UFC 229
   UFC Hall of Fame = UFC 명예의 전당
@@ -950,7 +934,6 @@ GLOSSARY:
   Ridda wars = 리다 전쟁
   Sasanian = 사산 왕조
   Sayf Allah = 사이프 알라
-  Sword = 검
   Syria = 시리아
   Umar = 우마르
   Yarmouk = 야르무크

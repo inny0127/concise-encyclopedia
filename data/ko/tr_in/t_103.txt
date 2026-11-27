@@ -45,7 +45,6 @@ Battery-powered device that heats a nicotine solution, called e-liquid, into an 
 HEADWORD: Electronic dance music = 일렉트로닉 댄스 뮤직
 LEVEL: 4
 GLOSSARY:
-  Broad = 브로드강
   Chicago = 시카고
   Detroit = 디트로이트
   Disco = 디스코
@@ -111,7 +110,6 @@ Instrument that produces sound using electronic circuitry, outputting an electri
 HEADWORD: Electronics = 전자공학
 LEVEL: 3
 GLOSSARY:
-  Ambrose = 암브로시우스
   Bell = 종
   Bell Labs = 벨 연구소
   Electrical engineering = 전기 공학
@@ -170,7 +168,6 @@ HEADWORD: Electrostatics = 정전기학
 LEVEL: 4
 GLOSSARY:
   Amber = 호박
-  Branch = 브랜치
   Classical antiquity = 고전 고대
   Coulomb's law = 쿨롱 법칙
   Electric charge = 전하
@@ -190,7 +187,6 @@ LEVEL: 5
 GLOSSARY:
   Ancient Egypt = 고대 이집트
   Copper = 구리
-  Egypt = 이집트
   Lydia = 리디아
   color = 색전하
   green gold = 녹금
@@ -204,8 +200,6 @@ LEVEL: 4
 GLOSSARY:
   Abstract algebra = 추상대수학
   Arithmetic = 산술
-  Branch = 브랜치
-  Elementary = 「엘리멘트리」
   Elementary algebra = 초등대수학
   Linear equation = 일차 방정식
   Polynomial = 다항식
@@ -224,7 +218,6 @@ LEVEL: 5
 GLOSSARY:
   Harvey = 하비
   International System of Units = 국제단위계
-  Millikan = 밀리컨
   Oil drop experiment = 기름방울 실험
   Quark = 쿼크
   Robert A. Millikan = 로버트 A. 밀리컨
@@ -241,7 +234,6 @@ HEADWORD: Elementary particle = 기본 입자
 LEVEL: 5
 GLOSSARY:
   Boson = 보손
-  Bosons = 보손
   Electron = 전자
   Fermion = 페르미온
   Gravity = 중력
@@ -265,7 +257,6 @@ LEVEL: 5
 GLOSSARY:
   Aepyornis maximus = 아에피오르니스 막시무스
   Aepyornithiformes = 코끼리새목
-  Elephant = 코끼리
   Gondwana = 곤드와나
   Herbivore = 초식 동물
   Kiwi (bird) = 키위
@@ -327,7 +318,6 @@ GLOSSARY:
   Colosseum = 콜로세움
   Elisha = 엘리사
   Ivan Kulibin = 이반 쿨리빈
-  Machine = 기계
   New York City = 뉴욕
   Palace = 궁전
   Skyscraper = 마천루
@@ -356,7 +346,6 @@ GLOSSARY:
   Gentleman's Agreement = 「신사협정」
   Gregory Peck = 그레고리 펙
   House Un-American Activities Committee = 하원 비미 활동 위원회
-  Kazan = 카잔
   Lee Strasberg = 리 스트라스버그
   Marlon = 말런
   Marlon Brando = 말런 브랜도
@@ -423,7 +412,6 @@ GLOSSARY:
   Kings = 킹스
   Malachi = 말라기
   New Testament = 신약 성경
-  Prophet = 예언자
   Quran = 쿠란
   Shabbat = 안식일
   Yahweh = 야훼
@@ -459,7 +447,6 @@ GLOSSARY:
   Csejte = 체이테
   Ferenc Nádasdy = 너다슈디 페렌츠
   House of Báthory = 바토리 가문
-  Hungarian = 헝가리어
   Serial killer = 연쇄 살인범
   Slovakia = 슬로바키아
   vampirism = 흡혈귀 전설
@@ -471,7 +458,6 @@ HEADWORD: Stanton, Elizabeth Cady = 스탠턴, 엘리자베스 케이디
 LEVEL: 4
 GLOSSARY:
   American Civil War = 남북 전쟁
-  Anthony = 앤서니
   Bible = 성경
   Black = 검은색
   Civil War = 남북 전쟁
@@ -520,7 +506,6 @@ GLOSSARY:
   George VI = 조지 6세
   Ireland = 아일랜드
   Northern Ireland = 북아일랜드
-  Queen = 퀸
   The Troubles = 북아일랜드 분쟁
   Troubles = 북아일랜드 분쟁
   United Kingdom = 영국
@@ -566,7 +551,6 @@ GLOSSARY:
   Spain = 스페인
   Spanish Armada = 스페인 무적함대
   Tudor = 튜더
-  Virgin = 『버진』
   Virgin Queen = 처녀 여왕
   William = 윌리엄
   William Cecil = 윌리엄 세실
@@ -638,7 +622,6 @@ GLOSSARY:
   Ivan Shuvalov = 이반 슈발로프
   Ivan VI = 이반 6세
   Mikhail Lomonosov = 미하일 로모노소프
-  Moscow = 모스크바
   Moscow State University = 모스크바 국립 대학교
   Peter = 베드로
   Peter III = 표트르 3세
@@ -701,7 +684,6 @@ American [[Jazz|jazz]] singer and songwriter, known for her purity of tone, dict
 HEADWORD: Macpherson, Elle = 맥퍼슨, 엘
 LEVEL: 5
 GLOSSARY:
-  Australian = 오스트레일리아
   Elle = 『엘르』
   Elle Macpherson Intimates = 엘 맥퍼슨 인티미츠
   Friends = 「프렌즈」
@@ -786,7 +768,6 @@ GLOSSARY:
   Arctic Archipelago = 북극 제도
   Arctic Cordillera = 북극 코르디예라
   Canada = 캐나다
-  Cape = 케이프
   Cape Columbia = 컬럼비아곶
   Columbia = 컬럼비아
   Cordillera = 코르디예라

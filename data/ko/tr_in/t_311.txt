@@ -7,7 +7,6 @@ GLOSSARY:
   Chemotherapy = 화학 요법
   Melanoma = 흑색종
   Radiation therapy = 방사선 치료
-  Skin = 피부
   Skin cancer = 피부암
   Sun = 태양
   Ultraviolet = 자외선
@@ -25,7 +24,6 @@ HEADWORD: Skin-walker = 스킨워커
 LEVEL: 5
 GLOSSARY:
   Adrienne Keene = 에이드리언 킨
-  Cherokee = 체로키족
   Cherokee Nation = 체로키 네이션
   Coyote (mythology) = 코요테
   J. K. Rowling = J. K. 롤링
@@ -186,7 +184,6 @@ GLOSSARY:
   Microsoft = 마이크로소프트
   Microsoft Teams = 마이크로소프트 팀즈
   Niklas Zennström = 니클라스 젠스트룀
-  Skype = 스카이프
   Windows = 윈도우
   Windows Live Messenger = 윈도우 라이브 메신저
   instant messaging = 인스턴트 메시징
@@ -202,7 +199,6 @@ GLOSSARY:
   Burj Khalifa = 부르즈 할리파
   Chicago = 시카고
   City = 도시
-  Construction = 건설
   Dubai = 두바이
   Great Depression = 대공황
   Hong Kong = 홍콩
@@ -233,7 +229,6 @@ GLOSSARY:
   Division (mathematics) = 나눗셈
   Fraction = 분수
   Full stop = 마침표
-  Once = 『Once』
   oblique = 오블리크
   solidus = 솔리더스
   virgule = 비르굴라
@@ -274,7 +269,6 @@ GLOSSARY:
   Roof = 지붕
   Schist = 편암
   Shale = 셰일
-  Slate = 점판암
   Spain = 스페인
   Wales = 웨일스
   chlorite = 녹니석
@@ -329,7 +323,6 @@ GLOSSARY:
   Human trafficking = 인신매매
   Napoleon = 나폴레옹
   Roman Empire = 로마 제국
-  Slavery = 노예제
   United States = 미국
   ancient Greece = 고대 그리스
   antebellum United States = 남북 전쟁 이전의 미국
@@ -357,7 +350,6 @@ GLOSSARY:
   East Africa = 동아프리카
   Ibn Battuta = 이븐 바투타
   Indian Ocean = 인도양
-  Indigenous = 원주민
   Mali = 말리
   Nile = 나일강
   North Africa = 북아프리카
@@ -365,7 +357,6 @@ GLOSSARY:
   Red Sea = 홍해
   Sahara = 사하라 사막
   Sahel = 사헬
-  Slavery = 노예제
   slave trade = 노예 무역
   trans-Saharan = 사하라 횡단
   transatlantic trade = 대서양 노예 무역
@@ -487,7 +478,6 @@ GLOSSARY:
   Moravia = 모라비아
   Muslims = 무슬림
   Poles = 폴란드인
-  Rus' = 루스
   Serbs = 세르비아인
   Slavic languages = 슬라브어파
   Slavs = 슬라브족
@@ -512,7 +502,6 @@ GLOSSARY:
   Metallica = 메탈리카
   Occult = 오컬트
   Serial killer = 연쇄 살인범
-  Slayer = 슬레이어
   big four = 빅 4
   thrash metal = 스래시 메탈
 ENTRY:
@@ -530,7 +519,6 @@ GLOSSARY:
   Russia = 러시아
   Siberia = 시베리아
   Sumer = 수메르
-  Vehicle = 차량
   sledge = 썰매
   vozok = 보족
 ENTRY:
@@ -546,7 +534,6 @@ GLOSSARY:
   Dream = 꿈
   Insomnia = 불면증
   Medicine = 의학
-  Muscle = 근육
   Narcolepsy = 기면증
   REM sleep = 렘수면
   REM sleep behavior disorder = 렘수면 행동 장애
@@ -612,7 +599,6 @@ GLOSSARY:
   Narcolepsy = 기면증
   Paranormal = 초자연 현상
   REM sleep = 렘수면
-  Sleep = 수면
   Sleep paralysis = 수면 마비
   alien abduction = 외계인 납치
 ENTRY:
@@ -629,7 +615,6 @@ GLOSSARY:
   Myxogastria = 변형균강
   Plasmodial slime molds = 변형균류
   Polyphyletic = 다계통
-  Slime = 슬라임
   Spore = 포자
   Thomas = 토머스
   Thomas Panckow = 토마스 판코프
@@ -704,12 +689,10 @@ HEADWORD: Sloth bear = 느림보곰
 LEVEL: 5
 GLOSSARY:
   Ant = 개미
-  Bear = 곰
   IUCN = 국제 자연 보전 연맹
   IUCN Red List = IUCN 적색 목록
   Indian subcontinent = 인도 아대륙
   Red List = 적색 목록
-  Sloth = 나무늘보
   Termite = 흰개미
   bacula = 음경골
 ENTRY:
@@ -727,8 +710,6 @@ GLOSSARY:
   Pilosa = 유모목
   Quaternary = 제4기
   Quaternary extinction = 제4기 멸종
-  Seven = 「세븐」
-  Tree = 나무
   Tropical rainforest = 열대 우림
   green algae = 녹조류
   xenarthran = 빈치류
@@ -754,7 +735,6 @@ GLOSSARY:
   Schengen Area = 솅겐 지역
   Slovak = 슬로바키아어
   Slovak Republic = 슬로바키아 공화국
-  Slovakia = 슬로바키아
   UNESCO = 유네스코
   UNESCO World Heritage Sites = 유네스코 세계유산
   Velvet Revolution = 벨벳 혁명
@@ -785,7 +765,6 @@ GLOSSARY:
   Slavs = 슬라브족
   Slovene = 슬로베니아어
   Slovenes = 슬로베니아인
-  Slovenia = 슬로베니아
   Socialist = 사회당
   Socialist Federal Republic = 사회주의 연방 공화국
   Socialist Federal Republic of Yugoslavia = 유고슬라비아 사회주의 연방 공화국
@@ -825,7 +804,6 @@ GLOSSARY:
   Orangi = 오랑기
   Pakistan = 파키스탄
   Poverty = 빈곤
-  Slum = 빈민가
   United Nations = 국제 연합
   United States = 미국
   public housing = 공공 주택

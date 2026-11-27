@@ -73,7 +73,6 @@ HEADWORD: Tropical cyclone = 열대 저기압
 LEVEL: 4
 GLOSSARY:
   Atlantic Ocean = 대서양
-  Climate = 기후
   Climate change = 기후 변화
   Equator = 적도
   Flood = 홍수
@@ -150,7 +149,6 @@ Region of Earth surrounding the [[Equator]], where the Sun may shine directly ov
 HEADWORD: Trotskyism = 트로츠키주의
 LEVEL: 5
 GLOSSARY:
-  Branch = 브랜치
   City = 도시
   Great Purge = 대숙청
   Leninism = 레닌주의
@@ -199,7 +197,6 @@ GLOSSARY:
   Salmo = Salmo
   Salmon = 연어
   Salmoninae = 연어아과
-  Trout = 송어
   anadromous = 소하성
   brook trout = 브룩송어
   char = 곤들매기
@@ -284,7 +281,6 @@ GLOSSARY:
   River = 강
   South America = 남아메리카
   Tadpole = 올챙이
-  True = 『True』
   anuran = 무미류
   bufotoxin = 부포톡신
   parotoid glands = 귀샘
@@ -295,7 +291,6 @@ Member of the family Bufonidae, the only anuran family whose members are all cal
 HEADWORD: Truffle = 송로버섯
 LEVEL: 4
 GLOSSARY:
-  China = 중국
   Dog = 개
   France = 프랑스
   French = 프랑스어
@@ -340,14 +335,12 @@ American novelist, screenwriter and playwright, born in [[New Orleans]] and rais
 HEADWORD: Trumpet = 트럼펫
 LEVEL: 4
 GLOSSARY:
-  Brass = 황동
   Brass instrument = 금관 악기
   Chamber music = 실내악
   German = 독일어
   Jazz = 재즈
   Orchestra = 관현악단
   Piston valves = 피스톤 밸브
-  Sound = 소리
   bass trumpet = 베이스 트럼펫
   chamber music = 실내악
   concert bands = 취주악단
@@ -426,7 +419,6 @@ GLOSSARY:
   Aristotle = 아리스토텔레스
   Belief = 믿음
   Buddhist = 불교
-  Conformity = 동조
   Deductive reasoning = 연역 추론
   Deflationary theories = 진리 축소론
   Ethics = 윤리학
@@ -439,7 +431,6 @@ GLOSSARY:
   Paradox = 역설
   Pluralists = 다원론자
   Proposition = 명제
-  Truth = 진리
   coherence theory = 정합설
   correspondence theory = 대응설
   empirical sciences = 경험 과학
@@ -486,7 +477,6 @@ GLOSSARY:
   Moscow = 모스크바
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
-  Peter = 베드로
   Peter the Great = 표트르 대제
   Polish–Lithuanian Commonwealth = 폴란드-리투아니아 연방
   Romanov = 로마노프 왕조
@@ -509,8 +499,6 @@ HEADWORD: Tsetse fly = 체체파리
 LEVEL: 4
 GLOSSARY:
   Arabian Peninsula = 아라비아반도
-  Fossil = 화석
-  Genus = 속
   Germany = 독일
   Glossina = 체체파리속
   Glossinidae = 체체파리과
@@ -584,7 +572,6 @@ Series of water waves caused by the displacement of a large volume of water, gen
 HEADWORD: Tuʻi Tonga Empire = 투이통가 제국
 LEVEL: 4
 GLOSSARY:
-  James = 야고보
   James Cook = 제임스 쿡
   Manuʻa = 마누아
   Muʻa = 무아
@@ -613,11 +600,9 @@ GLOSSARY:
   Māori = 마오리어
   New Zealand = 뉴질랜드
   North Island = 북섬
-  Reptile = 파충류
   Rhynchocephalia = 옛도마뱀목
   Sanctuary = 『성역』
   Triassic = 트라이아스기
-  Tuatara = 투아타라
   Zealand = 셸란섬
   Zealandia = 질랜디아
   fossil record = 화석 기록
@@ -632,7 +617,6 @@ GLOSSARY:
   Adolphe Sax = 아돌프 삭스
   Brass instrument = 금관 악기
   Johann Gottfried Moritz = 요한 고트프리트 모리츠
-  John = 존
   John Philip Sousa = 존 필립 수자
   Orchestra = 관현악단
   Prussia = 프로이센
@@ -762,7 +746,6 @@ GLOSSARY:
   Rapa Nui = 라파누이
   Romans = 로마인
   Sedimentary rock = 퇴적암
-  Tuff = 응회암
   igneous petrology = 화성 암석학
   sedimentary rock = 퇴적암
   travertine = 트래버틴
@@ -786,7 +769,6 @@ GLOSSARY:
   Greece = 그리스
   India = 인도
   Rope = 밧줄
-  Sport = 스포츠
   Spring and Autumn = 춘추 시대
   Spring and Autumn period = 춘추 시대
   State of Chu = 초나라
@@ -863,7 +845,6 @@ GLOSSARY:
   Dutch Golden Age = 네덜란드 황금시대
   Dutch tulip mania = 네덜란드 튤립 파동
   Europe = 유럽
-  Genus = 속
   Hybrid (biology) = 잡종
   Liliaceae = 백합과
   Netherlands = 네덜란드
@@ -884,7 +865,6 @@ HEADWORD: Tulsa, Oklahoma = 털사
 LEVEL: 5
 GLOSSARY:
   Art Deco = 아르 데코
-  City = 도시
   Creek = 크리크족
   Native Americans = 아메리카 원주민
   Oil Capital of the World = 세계의 석유 수도

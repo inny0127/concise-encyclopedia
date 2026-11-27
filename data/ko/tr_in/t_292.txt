@@ -3,7 +3,6 @@ HEADWORD: Atkinson, Rowan = 앳킨슨, 로언
 LEVEL: 5
 GLOSSARY:
   Again = 「어게인」
-  Bean = 콩
   Blackadder = 「블랙애더」
   Bond = 본드
   British Academy = 영국 학술원
@@ -53,7 +52,6 @@ GLOSSARY:
   FIFA World Cup = FIFA 월드컵
   Ipswich Town = 입스위치 타운
   Ireland = 아일랜드
-  Irish = 아일랜드어
   Manchester = 맨체스터
   Manchester United = 맨체스터 유나이티드
   Mick McCarthy = 믹 매카시
@@ -175,7 +173,6 @@ GLOSSARY:
   German = 독일어
   German measles = 독일 홍역
   Heart = 심장
-  Infection = 감염
   Latin = 라틴어
   MMR = MMR
   MMR vaccine = MMR 백신
@@ -197,7 +194,6 @@ GLOSSARY:
   Cinchona = 기나나무속
   Coffea = 커피나무속
   Coffee = 커피
-  Family = 가족
   Flowering plant = 속씨식물
   Gardenia = 치자나무속
   Ixora = 익소라속
@@ -227,14 +223,12 @@ GLOSSARY:
   Caesium = 세슘
   Chemical element = 화학 원소
   DNA = DNA
-  German = 독일어
   Gustav Kirchhoff = 구스타프 키르히호프
   Half-life = 반감기
   Isotope = 동위 원소
   Latin = 라틴어
   Potassium = 칼륨
   Robert Bunsen = 로베르트 분젠
-  Rubidium = 루비듐
   Rubidium chloride = 염화 루비듐
   emission spectrum = 방출 스펙트럼
   flame spectroscopy = 불꽃 분광법
@@ -357,7 +351,6 @@ GLOSSARY:
   Diesel fuel = 경유
   England = 잉글랜드
   Franco-Prussian War = 프로이센-프랑스 전쟁
-  German = 독일어
   Munich = 뮌헨
   Paris = 파리
   Royal Bavarian Polytechnic of Munich = 뮌헨 왕립 바이에른 공과 대학
@@ -375,7 +368,6 @@ GLOSSARY:
   Auschwitz concentration camp = 아우슈비츠 강제 수용소
   Autobiography = 자서전
   Final Solution = 최종 해결책
-  German = 독일어
   Rudolf = 루돌프
   SS = 친위대
   War crime = 전쟁 범죄
@@ -392,7 +384,6 @@ GLOSSARY:
   Adolf Hitler = 아돌프 히틀러
   Beer = 맥주
   Beer Hall Putsch = 뮌헨 폭동
-  German = 독일어
   Hitler = 히틀러
   Mein Kampf = 『나의 투쟁』
   Nazi = 나치
@@ -444,7 +435,6 @@ GLOSSARY:
   Autopsy = 부검
   Cellular Pathology = 『세포 병리학』
   Deutsche Fortschrittspartei = 독일 진보당
-  German = 독일어
   Germany = 독일
   Ignaz Semmelweis = 이그나즈 제멜바이스
   Kulturkampf = 문화 투쟁
@@ -552,7 +542,6 @@ GLOSSARY:
   Webb Ellis Cup = 웨브 엘리스 컵
   William = 윌리엄
   William Webb Ellis = 윌리엄 웨브 엘리스
-  World = 세계
   World Rugby = 월드 럭비
   Zealand = 셸란섬
 ENTRY:
@@ -567,7 +556,6 @@ GLOSSARY:
   British Empire = 대영 제국
   England = 잉글랜드
   English public schools = 잉글랜드 퍼블릭 스쿨
-  Family = 가족
   Football = 축구
   Melbourne = 멜버른
   Melbourne Football Club = 멜버른 풋볼 클럽
@@ -723,7 +711,6 @@ LEVEL: 4
 GLOSSARY:
   American Revolution = 미국 독립 혁명
   Caribbean = 카리브해 지역
-  Light = 빛
   Molasses = 당밀
   Navy = 해군
   Royal Navy = 영국 해군
@@ -757,7 +744,6 @@ GLOSSARY:
   Persian = 페르시아어
   Persian language = 페르시아어
   Persian literature = 페르시아 문학
-  Qur'an = 쿠란
   Quran = 쿠란
   Rum = 럼
   Rumi = 루미
@@ -836,7 +822,6 @@ GLOSSARY:
   Brothers Grimm = 그림 형제
   Children's and Household Tales = 『어린이와 가정을 위한 동화』
   Fairy tale = 동화
-  German = 독일어
   Gold = 금
   Household = 가구
   imp = 난쟁이 요정
@@ -894,7 +879,6 @@ LEVEL: 5
 GLOSSARY:
   Carl Runge = 카를 룽게
   Differential equation = 미분 방정식
-  Family = 가족
   German = 독일어
   Numerical analysis = 수치 해석
   Simpson's rule = 심프슨 공식

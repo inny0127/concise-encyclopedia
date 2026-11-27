@@ -11,7 +11,6 @@ GLOSSARY:
   Colorado = 콜로라도주
   Colorado River = 콜로라도강
   Concrete = 콘크리트
-  Construction = 건설
   Franklin D. Roosevelt = 프랭클린 D. 루스벨트
   Great Depression = 대공황
   Herbert Hoover = 허버트 후버
@@ -48,8 +47,6 @@ GLOSSARY:
   Beer = 맥주
   Dutch = 네덜란드어
   Dutch language = 네덜란드어
-  Green = 초록색
-  Hops = 홉
   Humulus lupulus = 홉
   Kent = 켄트
   seed cones = 구과
@@ -62,7 +59,6 @@ LEVEL: 4
 GLOSSARY:
   Chalk = 백악
   Exercise = 운동
-  Playground = 놀이터
   Square = 정사각형
   scotch-hop = 스카치홉
 ENTRY:
@@ -139,7 +135,6 @@ GLOSSARY:
   Copenhagen = 코펜하겐
   Corsica = 코르시카섬
   Danish = 덴마크어
-  England = 잉글랜드
   French = 프랑스어
   French Revolutionary Wars = 프랑스 혁명 전쟁
   French Revolutionary and Napoleonic Wars = 프랑스 혁명 전쟁과 나폴레옹 전쟁
@@ -226,9 +221,7 @@ GLOSSARY:
   Elephant = 코끼리
   Europe = 유럽
   Family = 가족
-  Hunting = 사냥
   Johann Sebastian Bach = 요한 제바스티안 바흐
-  Metal = 금속
   Scandinavia = 스칸디나비아
   Trumpet = 트럼펫
   Wind instrument = 관악기
@@ -292,7 +285,6 @@ HEADWORD: Horned lizard = 뿔도마뱀
 LEVEL: 4
 GLOSSARY:
   Camouflage = 위장
-  Genus = 속
   Lizard = 도마뱀
   Phrynosoma = 뿔도마뱀속
   Phrynosomatidae = 뿔도마뱀과
@@ -378,7 +370,6 @@ LEVEL: 5
 GLOSSARY:
   Dracula = 『드라큘라』
   Expressionism = 표현주의
-  Film = 영화
   Genre = 장르
   German = 독일어
   German Expressionism = 독일 표현주의
@@ -422,7 +413,6 @@ GLOSSARY:
   Equus ferus caballus = Equus ferus caballus
   Eurasia = 유라시아
   Herbivore = 초식 동물
-  Horses = 『Horses』
   Mammal = 포유류
   North America = 북아메리카
   Saddle = 안장
@@ -464,7 +454,6 @@ GLOSSARY:
   Kings = 킹스
   Newmarket = 뉴마켓
   Rome = 로마
-  Sport = 스포츠
   Sport of Kings = 왕들의 스포츠
   Thoroughbred = 서러브레드
   handicapping = 핸디캡
@@ -532,7 +521,6 @@ GLOSSARY:
   New Jersey = 뉴저지주
   North America = 북아메리카
   Perennial plant = 여러해살이 식물
-  Pliny = 플리니우스
   Pliny the Elder = 대플리니우스
   Scandinavia = 스칸디나비아
   Spice = 향신료
@@ -554,8 +542,6 @@ GLOSSARY:
   Chariot = 전차
   Eurasia = 유라시아
   Gunpowder = 화약
-  Horse = 말
-  Horses = 『Horses』
   Knight = 기사
   Middle Ages = 중세
   Near East = 근동
@@ -580,7 +566,6 @@ HEADWORD: Horseshoe crab = 투구게
 LEVEL: 5
 GLOSSARY:
   Arachnid = 거미강
-  Arthropod = 절지동물
   Blood = 혈액
   Chelicerata = 협각아문
   Limulidae = 투구게과
@@ -601,7 +586,6 @@ GLOSSARY:
   CRISPR = 크리스퍼
   Domestication = 가축화
   Gardening = 정원 가꾸기
-  Horticulture = 원예
   arboriculture = 수목 재배
   floriculture = 화훼원예
   plant propagation = 식물 번식
@@ -636,7 +620,6 @@ Ancient Egyptian god of kingship, healing, protection, the sun and the sky. Wors
 HEADWORD: Hospital = 병원
 LEVEL: 3
 GLOSSARY:
-  Basil = 바질
   Chelsea = 첼시
   Emergency = 비상사태
   Emergency department = 응급실
@@ -674,7 +657,6 @@ GLOSSARY:
   Buoyancy = 부력
   François Laurent d'Arlandes = 프랑수아 로랑 다를랑드
   Jean-François Pilâtre de Rozier = 장프랑수아 필라트르 드 로지에
-  Lighter-than-air = 경항공기
   Montgolfier brothers = 몽골피에 형제
   Nylon = 나일론
   Paris = 파리
@@ -719,7 +701,6 @@ GLOSSARY:
   Hot spring = 온천
   Magma = 마그마
   Mineral = 광물
-  People = 『피플』
   acid sulfate springs = 산성 황산염천
   alkaline chloride springs = 알칼리성 염화물천
   silica = 실리카
@@ -731,7 +712,6 @@ HEADWORD: Hotel = 호텔
 LEVEL: 4
 GLOSSARY:
   Chair = 의자
-  Establishment = 기득권층
   Europe = 유럽
   Exeter = 엑서터
   North America = 북아메리카
@@ -812,7 +792,6 @@ HEADWORD: Hour = 시간
 LEVEL: 4
 GLOSSARY:
   Anglo-Norman = 앵글로노르만어
-  Decimal = 십진법
   Decimal time = 십진 시간
   French = 프랑스어
   French Revolution = 프랑스 혁명

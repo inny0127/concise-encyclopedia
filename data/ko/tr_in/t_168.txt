@@ -7,7 +7,6 @@ GLOSSARY:
   Diversification = 분산 투자
   Gold = 금
   Hedge funds = 헤지 펀드
-  Investment = 투자
   Mortgage = 주택 담보 대출
   Natural gas = 천연가스
   Stock = 주식
@@ -56,10 +55,7 @@ GLOSSARY:
   Ancient Greek = 고대 그리스어
   Bernard Courtois = 베르나르 쿠르투아
   Chemical element = 화학 원소
-  Chile = 칠레
-  French = 프랑스어
   Halogen = 할로젠
-  Iodine = 아이오딘
   Japan = 일본
   Joseph Louis Gay-Lussac = 조제프 루이 게이뤼삭
   List of Essential Medicines = 필수 의약품 목록
@@ -106,7 +102,6 @@ Romanian military officer and dictator, 1940–44. A World War I veteran, Antone
 HEADWORD: Ion = 이온
 LEVEL: 4
 GLOSSARY:
-  Atom = 원자
   Chemical bond = 화학 결합
   Chemistry = 화학
   Chloride = 염화 이온
@@ -185,7 +180,6 @@ GLOSSARY:
   Electromagnetic radiation = 전자기 복사
   Electron = 전자
   Ion = 이온
-  Ionization = 이온화
   Mass spectrometry = 질량 분석법
   electromagnetic radiation = 전자기 복사
   heterolytic bond cleavage = 불균일 결합 분해
@@ -295,7 +289,6 @@ GLOSSARY:
   Islam = 이슬람교
   Islamic Republic of Iran = 이란 이슬람 공화국
   Islamic republic = 이슬람 공화국
-  Islamization = 이슬람화
   Israel = 이스라엘
   Medes = 메디아인
   Mohammad Mosaddegh = 모하마드 모사데크
@@ -340,7 +333,6 @@ HEADWORD: Iran–Contra affair = 이란-콘트라 사건
 LEVEL: 5
 GLOSSARY:
   Contras = 콘트라 반군
-  Eleven = 일레븐
   George H. W. Bush = 조지 H. W. 부시
   Hezbollah = 헤즈볼라
   Iran = 이란
@@ -413,7 +405,6 @@ Uprising against the monarchy of [[Mohammad Reza Pahlavi|Pahlavi]] in Iran, 1978
 HEADWORD: Iranian architecture = 이란 건축
 LEVEL: 4
 GLOSSARY:
-  Architecture = 건축
   Arthur Pope = 아서 포프
   Asia = 아시아
   Caucasus = 캅카스
@@ -439,7 +430,6 @@ GLOSSARY:
   Avesta = 『아베스타』
   Avestan = 아베스타어
   Bactrian = 박트리아어
-  Branch = 브랜치
   Hephthalite = 에프탈
   Indo-European = 인도유럽어족
   Indo-Iranian = 인도이란어파
@@ -569,7 +559,6 @@ GLOSSARY:
   United Kingdom = 영국
   Viking = 바이킹
   Vikings = 바이킹
-  Woodland = 우드랜드기
 ENTRY:
 Island in the North Atlantic Ocean, in northwestern Europe. It is divided between the [[Republic of Ireland]], a sovereign state covering five-sixths of the island, and [[Northern Ireland]], part of the [[United Kingdom]]. The island is separated from [[Great Britain]] by the North Channel, the [[Irish Sea]], and St George's Channel, and it is the second-largest of the British Isles. Its population is just over 7 million as of 2022. Woodland covers about 10% of the island, compared with a European average of over 33%, and most of it is non-native conifer plantations. [[Vikings]] raided and settled the island from the late 8th to the early 11th centuries, until the Battle of Clontarf on 23 April 1014 led to the decline of Viking power. The Acts of Union in 1801 made Ireland part of the United Kingdom. Partition followed a war of independence, and the Irish Free State declared a republic in 1949. Both the Republic and the United Kingdom joined the European Economic Community in 1973.
 
@@ -590,7 +579,6 @@ GLOSSARY:
   Father = 아버지
   Francis = 프랑수아
   Gnosticism = 영지주의
-  Irenaeus = 이레네우스
   John = 존
   John the Evangelist = 복음사가 요한
   Lugdunum = 루그두눔
@@ -619,7 +607,6 @@ GLOSSARY:
   Carl Linnaeus = 칼 폰 린네
   Crocoideae = 크로커스아과
   Crocus = 크로커스속
-  Family = 가족
   Freesia = 프리지어속
   Gladiolus = 글라디올러스
   Iris = 「아이리스」
@@ -647,7 +634,6 @@ GLOSSARY:
   Cretaceous = 백악기
   Cretaceous–Paleogene boundary = 백악기-팔레오기 경계
   Earth's crust = 지각
-  Iridium = 이리듐
   Osmium = 오스뮴
   Paleogene = 팔레오기
   Platinum = 백금
@@ -663,7 +649,6 @@ Chemical element with atomic number 77 and symbol Ir. This very hard, brittle, s
 HEADWORD: Iris = 붓꽃속
 LEVEL: 4
 GLOSSARY:
-  Genus = 속
   Iridaceae = 붓꽃과
   Iris = 「아이리스」
   Ronald Fisher = 로널드 피셔
@@ -779,7 +764,6 @@ GLOSSARY:
   Persian = 페르시아어
   Roman conquest = 로마의 정복
   Scandinavia = 스칸디나비아
-  Smelting = 제련
   South Asia = 남아시아
   Southeast = 남동부
   Southeast Europe = 남동유럽
@@ -856,7 +840,6 @@ GLOSSARY:
   Marvel Comics = 마블 코믹스
   Stan Lee = 스탠 리
   Stark Industries = 스타크 인더스트리
-  Tony = 토니상
   Universe = 우주
   Vietnam = 베트남
   Vietnam War = 베트남 전쟁
@@ -879,9 +862,7 @@ GLOSSARY:
   Latin = 라틴어
   Magnetite = 자철석
   Periodic table = 주기율표
-  Pure = 「퓨어」
   Rust = 녹
-  Solid = 고체
   Steel = 강철
   anemia = 빈혈
   body-centered cubic = 체심 입방
@@ -912,7 +893,6 @@ GLOSSARY:
   Brazil = 브라질
   Earth's crust = 지각
   Hematite = 적철석
-  Iron = 철
   Iron ore = 철광석
   Magnetite = 자철석
   Pig iron = 선철

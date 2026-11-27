@@ -48,7 +48,6 @@ GLOSSARY:
   Great Plains = 그레이트플레인스
   Hail = 우박
   Plains = 대평원
-  Thunderstorm = 뇌우
   Tornado = 토네이도
   Tornado Alley = 토네이도 앨리
   United States = 미국
@@ -142,8 +141,6 @@ GLOSSARY:
   Meissner effect = 마이스너 효과
   Mercury (element) = 수은
   Ochsenfeld = 옥센펠트
-  Property = 재산
-  Superconductivity = 초전도
   critical temperature = 임계 온도
   cuprate = 구리 산화물
   lanthanum = 란타넘
@@ -176,9 +173,7 @@ GLOSSARY:
   John F. Allen = 존 F. 앨런
   Lev Landau = 레프 란다우
   MIT = MIT
-  Property = 재산
   Pyotr Kapitsa = 표트르 카피차
-  Superfluidity = 초유동성
   Viscosity = 점성
   helium-3 = 헬륨-3
   helium-4 = 헬륨-4
@@ -324,7 +319,6 @@ GLOSSARY:
   Middle Ages = 중세
   Paranormal = 초자연 현상
   Superstition = 미신
-  Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
   extrasensory perception = 초감각적 지각
   levitation = 공중 부양
@@ -347,7 +341,6 @@ GLOSSARY:
   Neutron star = 중성자별
   SN 1987A = SN 1987A
   Supernova = 초신성
-  Supernovae = 초신성
   Tycho's Supernova = 티코 초신성
   White dwarf = 백색 왜성
   black hole = 블랙홀
@@ -394,7 +387,6 @@ HEADWORD: Superstition = 미신
 LEVEL: 4
 GLOSSARY:
   Astrology = 점성술
-  Belief = 믿음
   Cicero = 키케로
   Latin = 라틴어
   Magic (supernatural) = 마법
@@ -431,7 +423,6 @@ GLOSSARY:
   Horizon = 지평선
   Lava = 용암
   Oruanui eruption = 오루아누이 분화
-  Pressure = 압력
   Siberian = 시베리아
   Siberian Traps = 시베리아 트랩
   Taupō Volcano = 타우포 화산
@@ -449,7 +440,6 @@ ENTRY:
 HEADWORD: Supply and demand = 수요와 공급
 LEVEL: 4
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred Marshall = 앨프리드 마셜
   Economics = 경제학
   Macroeconomics = 거시경제학
@@ -556,7 +546,6 @@ LEVEL: 4
 GLOSSARY:
   Ahmedabad = 아마다바드
   Arabian Sea = 아라비아해
-  City = 도시
   Diamond = 다이아몬드
   Dutch = 네덜란드어
   Gujarat = 구자라트주
@@ -565,7 +554,6 @@ GLOSSARY:
   Mughal = 무굴
   Mughal Empire = 무굴 제국
   Narendra Modi = 나렌드라 모디
-  Once = 『Once』
   Prime = 프라임
   River = 강
   Smart Cities Mission = 스마트 시티 미션
@@ -582,7 +570,6 @@ LEVEL: 4
 GLOSSARY:
   Area = 넓이
   Detergent = 세제
-  Energy = 에너지
   Hydrogen bond = 수소 결합
   Mercury = 수은
   Newton (unit) = 뉴턴
@@ -635,9 +622,7 @@ GLOSSARY:
   Peru = 페루
   Portugal = 포르투갈
   Sebastian Steudtner = 제바스티안 슈토이트너
-  Sport = 스포츠
   Summer Olympics = 하계 올림픽
-  Surfing = 서핑
   World = 세계
   longboarding = 롱보딩
   shortboarding = 쇼트보딩
@@ -688,14 +673,12 @@ GLOSSARY:
   Dutch East Indies = 네덜란드령 동인도
   East Indies = 동인도
   India = 인도
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Lingua franca = 링구아 프랑카
   Paramaribo = 파라마리보
   Rainforest = 우림
   South America = 남아메리카
   Sranan Tongo = 스라난 통고
-  Suriname = 수리남
   creole = 크리올어
   lingua franca = 공통어
   slave trade = 노예 무역
@@ -746,10 +729,8 @@ GLOSSARY:
   Europe = 유럽
   Guillaume Apollinaire = 기욤 아폴리네르
   Paris = 파리
-  Surrealism = 초현실주의
   Surrealist = 초현실주의
   Surrealist Manifesto = 『초현실주의 선언』
-  Surrealists = 초현실주의자
   World = 세계
   World War I = 제1차 세계 대전
 ENTRY:
@@ -791,7 +772,6 @@ GLOSSARY:
   London = 런던
   North Downs = 노스다운스
   South East England = 사우스이스트잉글랜드
-  Surrey = 서리
   Woking = 워킹
   home counties = 홈 카운티
 ENTRY:
@@ -803,9 +783,7 @@ LEVEL: 5
 GLOSSARY:
   Embryo = 배아
   Infertility = 불임
-  People = 『피플』
   Pregnancy = 임신
-  Surrogacy = 대리모
   fertility tourism = 불임 치료 관광
   gestational carrier = 대리모
   in vitro = 시험관 내
@@ -858,7 +836,6 @@ GLOSSARY:
   Lidar = 라이다
   Nile = 나일강
   Pyramid = 피라미드
-  Surveying = 측량
   Theodolite = 경위의
   William = 윌리엄
   William the Conqueror = 정복왕 윌리엄

@@ -285,7 +285,6 @@ GLOSSARY:
   ARPANET = 아르파넷
   Advanced Research Projects Agency = 고등 연구 계획국
   California = 캘리포니아주
-  DARPA = 방위 고등 연구 계획국
   Defense Advanced Research Projects Agency = 방위 고등 연구 계획국
   Department of Defense = 국방부
   Domain Name System = 도메인 네임 시스템
@@ -303,7 +302,6 @@ GLOSSARY:
   NSFNET = NSFNET
   National Physical Laboratory = 국립 물리 연구소
   Numbers = 「민수기」
-  Paul = 바울로
   Paul Baran = 폴 배런
   Physical = 「Physical」
   RAND = 랜드 연구소
@@ -360,7 +358,6 @@ GLOSSARY:
   Internet = 인터넷
   Machine = 기계
   Machine learning = 기계 학습
-  Network = 「네트워크」
   Sensor = 센서
   asset tracking = 자산 추적
   embedded systems = 임베디드 시스템
@@ -381,7 +378,6 @@ GLOSSARY:
   Internet = 인터넷
   Monopoly = 독점
   Pornhub = 폰허브
-  Pornography = 포르노그래피
   RedTube = 레드튜브
   Usenet = 유즈넷
   Website = 웹사이트
@@ -402,7 +398,6 @@ GLOSSARY:
   Advanced Research Projects Agency = 고등 연구 계획국
   Architecture = 건축
   Control = 「Control」
-  DARPA = 방위 고등 연구 계획국
   Defense Advanced Research Projects Agency = 방위 고등 연구 계획국
   Department of Defense = 국방부
   Department of Defense Internet Architecture Model = 국방부 인터넷 아키텍처 모델
@@ -512,7 +507,6 @@ GLOSSARY:
   Police = 경찰
   Red Notices = 적색 수배
   Terrorism = 테러리즘
-  Today = 「투데이」
   Vienna = 빈
   cybercrime = 사이버 범죄
   the Commission = 위원회
@@ -547,7 +541,6 @@ GLOSSARY:
   Chromosome = 염색체
   Discrimination = 차별
   Human rights = 인권
-  Intersex = 간성
   Malta = 몰타
   congenital eunuchs = 선천성 고자
   genitals = 생식기
@@ -578,7 +571,6 @@ LEVEL: 4
 GLOSSARY:
   Earth = 지구
   Galaxy = 은하
-  Matter = 물질
   Milky Way = 우리은하
   Planetary nebula = 행성상 성운
   Star system = 항성계
@@ -630,8 +622,6 @@ GLOSSARY:
   Psychology = 심리학
   University = 대학
   University of Leipzig = 라이프치히 대학교
-  Watson = 왓슨
-  Wilhelm = 빌헬름
   Wilhelm Wundt = 빌헬름 분트
   experimental psychology = 실험 심리학
   retrospective bias = 회고 편향
@@ -681,10 +671,8 @@ GLOSSARY:
   Great Wall of China = 만리장성
   Hadrian's Wall = 하드리아누스 방벽
   Maginot Line = 마지노선
-  Military = 군대
   Napoleon = 나폴레옹
   Russia = 러시아
-  Today = 「투데이」
   Wall = 벽
   World = 세계
   World War II = 제2차 세계 대전
@@ -697,10 +685,8 @@ HEADWORD: Invasion of Poland = 폴란드 침공
 LEVEL: 5
 GLOSSARY:
   France = 프랑스
-  German = 독일어
   Germany = 독일
   Gleiwitz incident = 글라이비츠 사건
-  Joint = 관절
   Molotov–Ribbentrop Pact = 독소 불가침 조약
   Nazi = 나치
   Nazi Germany = 나치 독일
@@ -802,7 +788,6 @@ LEVEL: 5
 GLOSSARY:
   Light = 빛
   Newton's law of universal gravitation = 뉴턴의 만유인력 법칙
-  Physical = 「Physical」
   Radar = 레이더
   Sound = 소리
   Waveguide = 도파관
@@ -834,7 +819,6 @@ Inverses of the trigonometric functions, defined on restricted domains. They inc
 HEADWORD: Invertebrate = 무척추동물
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Annelid = 환형동물
   Arthropod = 절지동물
   Cnidaria = 자포동물

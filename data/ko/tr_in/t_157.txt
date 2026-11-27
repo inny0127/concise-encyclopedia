@@ -55,7 +55,6 @@ GLOSSARY:
   Castle = 성
   Charles II = 찰스 2세
   Charles V = 카를 5세
-  Dynasty = 「다이너스티」
   Emperor Charles V = 카를 5세 황제
   Europe = 유럽
   Habsburg = 합스부르크
@@ -300,7 +299,6 @@ ENTRY:
 HEADWORD: Household = 가구
 LEVEL: 4
 GLOSSARY:
-  Census = 인구 조사
   Divisions of Labour = 『노동의 분업』
   Economics = 경제학
   Family = 가족
@@ -455,7 +453,6 @@ GLOSSARY:
   America's Got Talent = 「아메리카 갓 탤런트」
   Bobby's World = 「바비의 세계」
   CNBC = CNBC
-  Canadian = 캐나다
   Deal or No Deal = 「딜 오어 노 딜」
   Fox = 폭스
   Gizmo = 기즈모
@@ -500,7 +497,6 @@ GLOSSARY:
   Amelia = 「아멜리아」
   Amelia Earhart = 어밀리아 에어하트
   Equator = 적도
-  Fish = 어류
   Fred Noonan = 프레드 누넌
   Guano = 구아노
   Ocean = 대양
@@ -674,7 +670,6 @@ GLOSSARY:
   Georges Lemaître = 조르주 르메트르
   Hubble = 허블
   Hubble constant = 허블 상수
-  Observation = 관찰
   Physical cosmology = 물리 우주론
   Redshift = 적색 편이
   Swan = 고니
@@ -695,7 +690,6 @@ GLOSSARY:
   Dongting Lake = 둥팅호
   Han = 한나라
   Henan = 허난성
-  Hubei = 후베이성
   Hunan = 후난성
   Jianghan Plain = 장한 평원
   Jiangxi = 장시성
@@ -849,7 +843,6 @@ GLOSSARY:
   Academy Award for Best Actor = 아카데미 남우주연상
   Academy Awards = 아카데미상
   Actor = 배우
-  Australian = 오스트레일리아
   Best Actor = 남우주연상
   Deadpool = 「데드풀」
   Globe = 지구본
@@ -962,7 +955,6 @@ GLOSSARY:
   French = 프랑스어
   French Wars of Religion = 위그노 전쟁
   Geneva = 제네바
-  Huguenots = 위그노
   Louis XIV = 루이 14세
   Lutheran = 루터교
   Nantes = 낭트

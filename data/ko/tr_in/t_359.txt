@@ -10,7 +10,6 @@ GLOSSARY:
   Baroque = 바로크
   China = 중국
   Cubism = 입체주의
-  Drawing = 인발
   Europe = 유럽
   Expressionism = 표현주의
   Gabarnmung = 가반뭉
@@ -216,7 +215,6 @@ GLOSSARY:
   Nobel Prize in Physiology or Medicine = 노벨 생리학·의학상
   Physiology = 생리학
   Physiology or Medicine = 생리학·의학
-  Vitamin = 비타민
   Vitamin C = 비타민 C
   ascorbate = 아스코르브산염
   collagen = 콜라겐
@@ -259,7 +257,6 @@ HEADWORD: Vitruvian Man = 비트루비우스적 인간
 LEVEL: 5
 GLOSSARY:
   Circle = 원
-  Drawing = 인발
   Gallerie dell'Accademia = 아카데미아 미술관
   Leonardo = 레오나르도
   Leonardo da Vinci = 레오나르도 다빈치
@@ -355,9 +352,7 @@ GLOSSARY:
   Africa = 아프리카
   Asia = 아시아
   Europe = 유럽
-  Family = 가족
   Felidae = 고양잇과
-  John = 존
   John Edward Gray = 존 에드워드 그레이
   Mammal = 포유류
   Southeast = 남동부
@@ -452,7 +447,6 @@ GLOSSARY:
   First World War = 제1차 세계 대전
   Gorki = 고르키
   Joseph Stalin = 이오시프 스탈린
-  Lenin = 레닌
   New Economic Policy = 신경제 정책
   October Revolution = 10월 혁명
   Polish–Soviet War = 폴란드-소련 전쟁
@@ -530,7 +524,6 @@ GLOSSARY:
   International Criminal Court = 국제 형사 재판소
   KGB = 국가 보안 위원회
   Russia = 러시아
-  Russian = 러시아어
   Ukraine = 우크라이나
   World = 세계
   war crimes = 전쟁 범죄
@@ -551,7 +544,6 @@ GLOSSARY:
   Nevsky = 넵스키
   Prince = 후작
   Rostov = 로스토프
-  Rus' = 루스
   Russian = 러시아어
   Suzdal = 수즈달
   Vladimir = 블라디미르
@@ -593,7 +585,6 @@ GLOSSARY:
   Orthodox Church = 정교회
   Prince = 후작
   Radimichi = 라디미치족
-  Rus' = 루스
   Slavic paganism = 슬라브 신화
   Sviatoslav I = 스뱌토슬라프 1세
   Vladimir = 블라디미르
@@ -629,7 +620,6 @@ GLOSSARY:
   Trans-Siberian = 시베리아 횡단 철도
   Trans-Siberian Railway = 시베리아 횡단 철도
   Union = 연방
-  White = 흰색
   White Russian = 백군
 ENTRY:
 Largest city and administrative center of Primorsky Krai, on the [[Sea of Japan]] (pop., 2021: 603,519). The city was founded in 1860 as a Russian military outpost, and in 1872 the main Russian naval base on the [[Pacific Ocean]] was transferred there. The name means "Lord of the East". In Mandarin Chinese it is known as Haishenwai, or "sea cucumber bay", for its historical abundance of [[Sea cucumber|sea cucumbers]]. White Russian and Allied forces occupied the city in 1918, Japanese forces remained until 1922, and the Red Army occupied it that same year. It became part of the Russian Federation after the [[Dissolution of the Soviet Union]]. As the terminus of the [[Trans-Siberian Railway]], it is the largest Russian port on the Pacific and home to the headquarters of the Pacific Fleet.
@@ -643,7 +633,6 @@ GLOSSARY:
   Linguistics = 언어학
   Psychology = 심리학
   Semiotics = 기호학
-  Vocabulary = 어휘
   active vocabulary = 능동 어휘
   collocations = 연어
   passive vocabulary = 수동 어휘
@@ -656,14 +645,12 @@ HEADWORD: Vodka = 보드카
 LEVEL: 4
 GLOSSARY:
   Alcoholic beverage = 주류
-  Clear = 클리어
   Ethanol = 에탄올
   European Union = 유럽 연합
   Maize = 옥수수
   Poland = 폴란드
   Russia = 러시아
   Russian = 러시아어
-  Standard = 스탠더드
   Sweden = 스웨덴
   Swedish = 스웨덴어
   Union = 연방
@@ -731,7 +718,6 @@ GLOSSARY:
   Serbia = 세르비아
   Serbian = 세르비아어
   Serbian Voivodeship = 세르비아 보이보디나
-  Serbs = 세르비아인
   Sirmium = 시르미움
   Slavs = 슬라브족
   Sremska Mitrovica = 스렘스카미트로비차
@@ -759,7 +745,6 @@ GLOSSARY:
   Plate tectonics = 판 구조론
   Ring = 『링』
   Ring of Fire = 환태평양 조산대
-  Venus = 금성
   Vulcan = 불카누스
   Vulcano = 불카노섬
   cinder cones = 분석구
@@ -816,9 +801,7 @@ GLOSSARY:
   Itil = 이틸
   Moscow = 모스크바
   Proto-Slavic = 슬라브 조어
-  River = 강
   Russia = 러시아
-  Russian = 러시아어
   Russian literature = 러시아 문학
   Turkic peoples = 튀르크족
   Volga = 볼가강
@@ -846,9 +829,7 @@ GLOSSARY:
   Khazaria = 하자르 칸국
   Khazars = 하자르족
   Kievan Rus' = 키예프 루스
-  Mongol = 몽골
   Oghuric = 오구르어파
-  Rus' = 루스
   Russia = 러시아
   Sviatoslav I = 스뱌토슬라프 1세
   Volga = 볼가강
@@ -865,7 +846,6 @@ GLOSSARY:
   2018 FIFA World Cup = 2018년 FIFA 월드컵
   Battle of Stalingrad = 스탈린그라드 전투
   Bolshevik = 볼셰비키
-  City = 도시
   Civil War = 남북 전쟁
   FIFA = 국제 축구 연맹
   FIFA World Cup = FIFA 월드컵
@@ -940,7 +920,6 @@ GLOSSARY:
   FIVB = 국제 배구 연맹
   Fédération Internationale de Volleyball = 국제 배구 연맹
   Massachusetts = 매사추세츠주
-  Morgan = 모건
   Olympic Games = 올림픽
   Paralympic = 패럴림픽
   Paralympic Games = 패럴림픽
@@ -948,7 +927,6 @@ GLOSSARY:
   Summer Olympic Games = 하계 올림픽
   Tokyo = 도쿄
   Volleyball = 배구
-  William = 윌리엄
   William G. Morgan = 윌리엄 G. 모건
   YMCA = YMCA
   mintonette = 민토넷

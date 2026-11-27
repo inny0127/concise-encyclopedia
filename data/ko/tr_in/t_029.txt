@@ -21,7 +21,6 @@ GLOSSARY:
   Book = 책
   Confessions = 『고백록』
   Enlightenment = 계몽주의
-  Forms = 이데아
   Saint = 성인
   The Autobiography of Benjamin Franklin = 『프랭클린 자서전』
   The Book of Margery Kempe = 『마저리 켐프의 서』
@@ -33,7 +32,6 @@ Self-written account of one's own life, narrated from the author's perspective. 
 HEADWORD: Autocracy = 전제 정치
 LEVEL: 4
 GLOSSARY:
-  Autocracy = 독재 정치
   Democracy = 민주주의
   Dictatorship = 독재
   Latin = 라틴어
@@ -58,11 +56,9 @@ Form of government in which absolute power is held by one person, known as an au
 HEADWORD: Autoimmune disease = 자가 면역 질환
 LEVEL: 4
 GLOSSARY:
-  Disease = 질병
   Immune system = 면역계
   Lupus = 루푸스
   Multiple sclerosis = 다발성 경화증
-  NSAIDs = 비스테로이드 항염증제
   Pancreas = 이자
   Psoriasis = 건선
   Rheumatoid arthritis = 류마티스 관절염
@@ -81,7 +77,6 @@ Disease resulting from an anomalous response of the adaptive [[Immune system|imm
 HEADWORD: Automation = 자동화
 LEVEL: 4
 GLOSSARY:
-  Automation = 자동화
   Bank = 은행
   Computer = 컴퓨터
   Ford = 포드
@@ -219,7 +214,6 @@ American actress of Hollywood’s Golden Age, known for films including *The Kil
 HEADWORD: Avalanche = 눈사태
 LEVEL: 4
 GLOSSARY:
-  Asphyxia = 질식
   Earthquake = 지진
   Hypothermia = 저체온증
   Slab avalanches = 판상 눈사태
@@ -243,7 +237,6 @@ GLOSSARY:
   Avalokiteśvara = 관세음보살
   Buddha = 붓다
   Buddhism = 불교
-  Buddhist = 불교
   Chenrezig = 첸레지그
   Chinese folk religion = 중국 민간 신앙
   East Asia = 동아시아
@@ -275,7 +268,6 @@ GLOSSARY:
   France = 프랑스
   French = 프랑스어
   Literature = 문학
-  Marcel = 마르셀
   Marcel Duchamp = 마르셀 뒤샹
   Peter = 베드로
   Peter Bürger = 페터 뷔르거
@@ -291,7 +283,6 @@ LEVEL: 5
 GLOSSARY:
   Academy Awards = 아카데미상
   Avatar = 아바타
-  Fire = 불
   James = 야고보
   James Cameron = 제임스 캐머런
   Na’vi = 나비족
@@ -360,7 +351,6 @@ GLOSSARY:
   Expected value = 기댓값
   Median = 중앙값
   Mode (statistics) = 최빈값
-  Number = 수
   arithmetic mean = 산술 평균
   central tendency = 중심 경향
   harmonic mean = 조화 평균
@@ -426,7 +416,6 @@ LEVEL: 4
 GLOSSARY:
   Aircraft = 항공기
   Airship = 비행선
-  Aviation = 항공
   Clément Ader = 클레망 아데르
   Flight = 비행
   German = 독일어
@@ -455,7 +444,6 @@ GLOSSARY:
   Aquinas = 아퀴나스
   Arabic = 아랍어
   Aristotelianism = 아리스토텔레스주의
-  Avicenna = 이븐 시나
   Bactria = 박트리아
   Balkh = 발흐
   Book = 책
@@ -505,7 +493,6 @@ GLOSSARY:
   Oman = 오만
   Opioid = 오피오이드
   Spotify = 스포티파이
-  Swedish = 스웨덴어
   Tim Bergling = 팀 베릴링
   True = 『True』
   Wake Me Up = 「Wake Me Up」
@@ -557,7 +544,6 @@ Conversion constant between an [[Amount of substance|amount of substance]] and t
 HEADWORD: Avoidant personality disorder = 회피성 인격 장애
 LEVEL: 5
 GLOSSARY:
-  Personality = 성격
   Personality disorder = 인격 장애
   Psychotherapy = 심리 치료
   anxious personality disorder = 불안성 인격 장애
@@ -601,7 +587,6 @@ GLOSSARY:
   Lever = 지레
   Neolithic = 신석기 시대
   Steel = 강철
-  Tool = 도구
   Trade = 교역
   Wedge = 쐐기
   axe factories = 도끼 제작소
@@ -616,7 +601,6 @@ Tool with a sharpened blade attached to a handle, used to shape, split and cut w
 HEADWORD: Axial tilt = 자전축 기울기
 LEVEL: 5
 GLOSSARY:
-  Angle = 각
   Earth = 지구
   IAU = 국제 천문 연맹
   Mars = 화성
@@ -650,8 +634,6 @@ Statement accepted as true to serve as a premise for further reasoning. The word
 HEADWORD: Axiom of choice = 선택 공리
 LEVEL: 4
 GLOSSARY:
-  Axiom = 공리
-  Bertrand = 버트런드호
   Bertrand Russell = 버트런드 러셀
   Ernst Zermelo = 에른스트 체르멜로
   Real number = 실수
@@ -720,7 +702,6 @@ GLOSSARY:
   Mexico = 멕시코
   Model organism = 모델 생물
   Nature = 『네이처』
-  Salamander = 도롱뇽
   Tilapia = 틸라피아
   Valley of Mexico = 멕시코 계곡
   critically endangered = 위급
@@ -739,7 +720,6 @@ GLOSSARY:
   Brazil = 브라질
   DMT = DMT
   Europe = 유럽
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   North America = 북아메리카
   Orinoco = 오리노코강
@@ -806,12 +786,10 @@ GLOSSARY:
   Babur = 바부르
   Buddha = 붓다
   Buddhist = 불교
-  City = 도시
   Court = 법원
   Gautama Buddha = 고타마 붓다
   Gupta = 굽타
   Gupta period = 굽타 시대
-  Hindus = 힌두교도
   India = 인도
   Jain = 자이나교
   Mahavira = 마하비라

@@ -2,7 +2,6 @@
 HEADWORD: Body louse = 몸니
 LEVEL: 4
 GLOSSARY:
-  Control = 「Control」
   Louse = 이
   World = 세계
   World Wars = 세계 대전
@@ -19,7 +18,6 @@ HEADWORD: Body mass index = 체질량 지수
 LEVEL: 4
 GLOSSARY:
   Adolphe Quetelet = 아돌프 케틀레
-  Adult = 성인
   Kilogram = 킬로그램
   Obesity = 비만
   Quetelet Index = 케틀레 지수
@@ -47,7 +45,6 @@ Deliberate alteration of the human anatomy or physical appearance. In its broade
 HEADWORD: Body of water = 수역
 LEVEL: 4
 GLOSSARY:
-  Climate = 기후
   Climate change = 기후 변화
   Dam = 댐
   Lake = 호수
@@ -68,7 +65,6 @@ GLOSSARY:
   Body modification = 신체 개조
   India = 인도
   Infection = 감염
-  Nipple = 젖꼭지
   Rome = 로마
   World = 세계
   World War II = 제2차 세계 대전
@@ -321,7 +317,6 @@ GLOSSARY:
   Tsardom = 차르국
   Tsardom of Russia = 러시아 차르국
   Ukraine = 우크라이나
-  Ukrainians = 우크라이나인
   Western Europe = 서유럽
   Zaporozhian Host = 자포로제 코사크
   hetman = 헤트만
@@ -398,7 +393,6 @@ HEADWORD: Bohr model = 보어 모형
 LEVEL: 4
 GLOSSARY:
   Atomic nucleus = 원자핵
-  Building = 건물
   Electron = 전자
   Ernest Rutherford = 어니스트 러더퍼드
   J. J. Thomson = J. J. 톰슨
@@ -422,7 +416,6 @@ GLOSSARY:
   Asia = 아시아
   Asphyxia = 질식
   Europe = 유럽
-  Family = 가족
   Pacific = 태평양
   Snake = 뱀
   South America = 남아메리카
@@ -440,7 +433,6 @@ Family of nonvenomous [[Snake|snakes]], commonly known as boas or boids. Found m
 HEADWORD: Boiling = 끓음
 LEVEL: 4
 GLOSSARY:
-  Boiling = 끓음
   Boiling point = 끓는점
   Condensation = 응결
   Evaporation = 증발
@@ -448,7 +440,6 @@ GLOSSARY:
   Liquid = 액체
   Steaming = 찜
   Virus = 바이러스
-  Water = 물
   blanching = 데치기
   critical heat flux = 임계 열유속
   nucleate boiling = 핵비등
@@ -509,7 +500,6 @@ GLOSSARY:
   China = 중국
   Chinese cabbage = 배추
   East Asia = 동아시아
-  Leaf = 잎
   Linnaeus = 린네
   Southeast = 남동부
   Southeast Asia = 동남아시아
@@ -539,7 +529,6 @@ GLOSSARY:
   Mohammed Yusuf = 무함마드 유수프
   Niger = 니제르
   Nigeria = 나이지리아
-  Sunni = 수니파
   Sunni Islam = 수니파
 ENTRY:
 Jihadist militant organization based in northeastern [[Nigeria]], also active in [[Chad]], [[Niger]], Cameroon, and Mali. Founded by Mohammed Yusuf in 2002, its initial goal was to "purify" Sunni Islam in northern Nigeria. Since its insurgency began in 2009, it has killed tens of thousands of people and displaced 2.3 million, and the conflict has contributed to regional food crises and famines. In April 2014 it kidnapped 276 schoolgirls in Chibok, Borno State. In March 2015 the group pledged allegiance to the [[Islamic State|Islamic State of Iraq and the Levant]]. Its longtime leader Abubakar Shekau was confirmed dead in May 2021, and the group revived under Bakura Doro.
@@ -575,7 +564,6 @@ GLOSSARY:
   Basidiomycete = 담자균류
   Carbohydrate = 탄수화물
   Conifer = 구과식물
-  French = 프랑스어
   Genus = 속
   Northern Hemisphere = 북반구
   Pierre Bulliard = 피에르 뷜리아르
@@ -669,7 +657,6 @@ GLOSSARY:
   Kelvin = 켈빈
   Ludwig = 루트비히
   Ludwig Boltzmann = 루트비히 볼츠만
-  Physical = 「Physical」
   Planck's law = 플랑크 법칙
   Resistor = 저항기
   black-body radiation = 흑체 복사
@@ -708,7 +695,6 @@ GLOSSARY:
   Cold War = 냉전
   Giulio Gavotti = 줄리오 가보티
   Italo-Turkish War = 이탈리아-튀르크 전쟁
-  Military = 군대
   Nuclear weapon = 핵무기
   Second = 초
   Stealth technology = 스텔스 기술

@@ -286,7 +286,6 @@ GLOSSARY:
   Hampshire = 햄프셔
   London = 런던
   Ocean liner = 원양 정기선
-  Port = 항구
   RMS Titanic = 타이타닉호
   Southampton = 사우샘프턴
   Titanic = 「타이타닉」
@@ -390,7 +389,6 @@ Southernmost region of [[Africa]], defined differently by different bodies. The 
 HEADWORD: Southern Alps = 서던알프스산맥
 LEVEL: 4
 GLOSSARY:
-  Abel = 아벨
   Abel Tasman = 아벌 타스만
   Coast = 해안
   Divide = 『디바이드』
@@ -401,7 +399,6 @@ GLOSSARY:
   Kā Tiritiri o te Moana = 카티리티리오테모아나
   Main Divide = 메인디바이드
   Moana = 「모아나」
-  Mountain = 산
   Mountain range = 산맥
   New Zealand = 뉴질랜드
   Ocean = 대양
@@ -477,10 +474,8 @@ GLOSSARY:
   Antarctica = 남극 대륙
   Arctic = 북극
   Arctic Ocean = 북극해
-  Climate = 기후
   Climate change = 기후 변화
   Five Deeps Expedition = 파이브 딥스 탐사
-  James = 야고보
   James Cook = 제임스 쿡
   Krill = 크릴
   Ocean = 대양
@@ -497,7 +492,6 @@ LEVEL: 4
 GLOSSARY:
   Bible = 성경
   Bible Belt = 바이블 벨트
-  Census = 인구 조사
   Deep South = 디프사우스
   Dixie = 딕시
   Houston = 휴스턴
@@ -545,7 +539,6 @@ HEADWORD: Sovereign Military Order of Malta = 몰타 기사단
 LEVEL: 5
 GLOSSARY:
   Assembly = 민회
-  Catholic = 가톨릭
   International law = 국제법
   Jerusalem = 예루살렘
   Kingdom of Jerusalem = 예루살렘 왕국
@@ -585,7 +578,6 @@ GLOSSARY:
   Peace of Westphalia = 베스트팔렌 조약
   Sovereignty = 주권
   Stephen D. Krasner = 스티븐 D. 크래스너
-  Thomas = 토머스
   Thomas Hobbes = 토머스 홉스
   Westphalian sovereignty = 베스트팔렌 주권
   de facto = 사실상
@@ -706,7 +698,6 @@ GLOSSARY:
   Afrikaans = 아프리칸스어
   Afrikaans Medium Decree = 아프리칸스어 교육 법령
   Apartheid = 아파르트헤이트
-  Police = 경찰
   South Africa = 남아프리카 공화국
   Soweto = 소웨토
   Youth = 『청년 시절』
@@ -740,8 +731,6 @@ HEADWORD: Soy sauce = 간장
 LEVEL: 4
 GLOSSARY:
   Aspergillus = 아스페르길루스속
-  Brewing = 양조
-  Buddhist = 불교
   China = 중국
   Dutch = 네덜란드어
   Dutch East India Company = 네덜란드 동인도 회사
@@ -750,7 +739,6 @@ GLOSSARY:
   India = 인도
   Japan = 일본
   Korea = 한국
-  Liquid = 액체
   Salt = 소금
   Southeast = 남동부
   Soy sauce = 간장
@@ -844,7 +832,6 @@ GLOSSARY:
   International Space Station = 국제 우주 정거장
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   Mir = 미르
   Moon = 달
   N1 = N1 로켓
@@ -908,7 +895,6 @@ GLOSSARY:
   Ronald Reagan = 로널드 레이건
   Space = 공간
   Space Shuttle = 우주 왕복선
-  Test = 테스트 매치
   orbiter = 궤도선
 ENTRY:
 Fatal failure of the [[Space Shuttle]] Challenger, which broke apart 73 seconds after launch on January 28, 1986. The orbiter disintegrated about 46,000 feet above the Atlantic Ocean, killing all seven crew members, including schoolteacher Christa McAuliffe. The cause was the failure of O-ring seals in a joint of the right solid rocket booster, which had stiffened in record-low launch-morning temperatures. Test data since 1977 had shown the flaw, and [[NASA]] managers disregarded engineers' warnings. President [[Ronald Reagan]] created the Rogers Commission, which criticized NASA's decision-making. The disaster caused a 32-month hiatus in the Space Shuttle program.
@@ -941,13 +927,11 @@ GLOSSARY:
   Aristotle = 아리스토텔레스
   Cartesian = 직교 좌표
   Critique of Pure Reason = 『순수이성비판』
-  Descartes = 데카르트
   Euclidean = 유클리드
   Euclidean space = 유클리드 공간
   Gottfried Leibniz = 고트프리트 라이프니츠
   Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
   Immanuel Kant = 이마누엘 칸트
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Kant = 칸트
   Leibniz = 라이프니츠
@@ -989,7 +973,6 @@ GLOSSARY:
   Apollo 11 = 아폴로 11호
   Artemis = 아르테미스
   Artemis program = 아르테미스 계획
-  Astronomy = 천문학
   China = 중국
   Earth = 지구
   European Union = 유럽 연합
@@ -1004,7 +987,6 @@ GLOSSARY:
   Luna 9 = 루나 9호
   Moon = 달
   Outer space = 우주 공간
-  Physical = 「Physical」
   Research = 연구
   Salyut = 살류트
   Salyut 1 = 살류트 1호
@@ -1035,7 +1017,6 @@ In the 1970s, focus shifted from one-off flights to reusable hardware such as th
 HEADWORD: Space station = 우주 정거장
 LEVEL: 4
 GLOSSARY:
-  Human = 인간
   International Space Station = 국제 우주 정거장
   Mir = 미르
   Salyut = 살류트
@@ -1064,11 +1045,9 @@ GLOSSARY:
   Space = 공간
   Space Shuttle = 우주 왕복선
   SpaceX = 스페이스X
-  Spacecraft = 우주선
   Sputnik = 스푸트니크
   Sputnik 1 = 스푸트니크 1호
   United States = 미국
-  Vehicle = 차량
   Vostok 1 = 보스토크 1호
   Yuri Gagarin = 유리 가가린
   artificial satellite = 인공위성

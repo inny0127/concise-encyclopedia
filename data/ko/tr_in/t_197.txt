@@ -6,7 +6,6 @@ GLOSSARY:
   Euclidean = 유클리드
   Euclidean geometry = 유클리드 기하학
   International System of Units = 국제단위계
-  Length = 길이
   Metre = 미터
   Polygon = 다각형
   Special relativity = 특수 상대성 이론
@@ -22,8 +21,6 @@ LEVEL: 4
 GLOSSARY:
   Adolf Hitler = 아돌프 히틀러
   Berlin = 베를린
-  German = 독일어
-  Hitler = 히틀러
   Holocaust = 홀로코스트
   Light = 빛
   Nazi = 나치
@@ -70,7 +67,6 @@ LEVEL: 5
 GLOSSARY:
   Beijing = 베이징
   Data storage = 데이터 저장 장치
-  Lenovo = 레노버
   Morrisville = 모리스빌
   North Carolina = 노스캐롤라이나주
   Personal computer = 개인용 컴퓨터
@@ -299,7 +295,6 @@ GLOSSARY:
   Research = 연구
   Research Center for Group Dynamics = 집단 역학 연구소
   Sigmund Freud = 지크문트 프로이트
-  Skinner = 스키너
   Social network = 사회 연결망
   Social psychology = 사회 심리학
   Technology = 기술
@@ -376,9 +371,7 @@ HEADWORD: Cohen, Leonard = 코언, 레너드
 LEVEL: 5
 GLOSSARY:
   Canada = 캐나다
-  Canadian = 캐나다
   Companion of the Order of Canada = 캐나다 훈장 컴패니언
-  Hallelujah = 할렐루야
   Hallelujah (Leonard Cohen song) = 「할렐루야」
   Order of Canada = 캐나다 훈장
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
@@ -393,7 +386,6 @@ LEVEL: 5
 GLOSSARY:
   4864 Nimoy = 4864 니모이
   Asteroid = 소행성
-  COPD = 만성 폐쇄성 폐질환
   Spock = 스폭
   Star = 항성
   Star Trek = 「스타 트렉」
@@ -625,7 +617,6 @@ GLOSSARY:
   Free State = 프리스테이트주
   Ivory = 상아
   King of the Belgians = 벨기에 국왕
-  Leopold = 레오폴트
 ENTRY:
 King of the Belgians, 1865–1909, and sole owner of the [[Congo Free State]]. Leopold was born in [[Brussels]] and is popularly called the Builder King in Belgium for the buildings, urban projects and public works he commissioned. He reigned for 44 years. As founder of the Congo Free State, a private colonial project, he never visited the territory and ran it through the mercenary Force Publique. He extracted a fortune first from [[Ivory|ivory]] and then, after rubber prices rose in the 1890s, from rubber harvested by forced labor. His administration was marked by systematic brutality, including the amputation of hands and sometimes feet when rubber quotas were not met. Estimates of the population decline under his rule range from 1 million to 15 million. Under international pressure, Belgium annexed the territory as the Belgian Congo in 1908.
 
@@ -739,7 +730,6 @@ GLOSSARY:
   Hansen's disease = 한센병
   India = 인도
   Indonesia = 인도네시아
-  Infection = 감염
   Mycobacterium leprae = Mycobacterium leprae
   World = 세계
   World Health Organization = 세계 보건 기구
@@ -757,12 +747,10 @@ GLOSSARY:
   Cretaceous = 백악기
   Eleutherodactylidae = 엘레우테로닥틸루스과
   Eleutherodactylinae = 엘레우테로닥틸루스아과
-  Family = 가족
   India = 인도
   Maastrichtian = 마스트리흐트절
   Metamorphosis = 변태
   Mexico = 멕시코
-  Recent = 현세
   South America = 남아메리카
   Tadpole = 올챙이
   hyloids = 청개구리상과
@@ -925,7 +913,6 @@ GLOSSARY:
   Commonwealth = 영연방
   Commonwealth of Nations = 영연방
   Constitutional monarchy = 입헌 군주제
-  Lesotho = 레소토
   Letsie III = 레치에 3세
   Maseru = 마세루
   Moshoeshoe I = 모슈슈 1세
@@ -944,7 +931,6 @@ HEADWORD: Lesser Antilles = 소앤틸리스 제도
 LEVEL: 4
 GLOSSARY:
   Antilles = 앤틸리스 제도
-  Archipelago = 제도
   British Empire = 대영 제국
   Caribbean = 카리브해 지역
   Caribbean Sea = 카리브해
@@ -971,7 +957,6 @@ Archipelago at the eastern edge of the [[Caribbean Sea]], forming part of the We
 HEADWORD: Lesser Sunda Islands = 소순다 열도
 LEVEL: 4
 GLOSSARY:
-  Archipelago = 제도
   Australasian = 오스트랄라시아
   Australian = 오스트레일리아
   Bali = 발리섬

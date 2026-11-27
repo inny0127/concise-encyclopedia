@@ -16,7 +16,6 @@ GLOSSARY:
   Kazakhstan = 카자흐스탄
   Mongolia = 몽골
   Mongols = 몽골족
-  Mountain = 산
   Mountain range = 산맥
   Ob = 오비강
   Russia = 러시아
@@ -78,10 +77,8 @@ GLOSSARY:
   Alternating current = 교류
   Direct current = 직류
   Electric current = 전류
-  Niagara = 「나이아가라」
   Niagara Falls = 나이아가라 폭포
   Transformer = 변압기
-  Transformers = 「트랜스포머」
   direct current = 직류
 ENTRY:
 Electric current alternating in direction, unlike [[Direct current|direct current]] (DC). It is the form in which electric power is delivered to homes and businesses, and its usual waveform is a sine wave. Power is transmitted at high voltage because the power lost in a wire equals the square of the current multiplied by the wire's resistance (P = I²R); halving the current by doubling the voltage cuts the loss by a factor of four. [[Transformer|Transformers]] step voltage up for transmission and down for use, typically to 100 V–240 V for domestic supply. Alternating current prevailed over direct current in the late 19th century; Niagara Falls was electrified with AC transmission lines in 1895.
@@ -92,7 +89,6 @@ LEVEL: 4
 GLOSSARY:
   Flowering plant = 속씨식물
   Gametophyte = 배우체
-  Life = 『라이프』
   Meiosis = 감수 분열
   Mitosis = 유사 분열
   Sporophyte = 포자체
@@ -175,12 +171,9 @@ GLOSSARY:
   Earth = 지구
   Inca = 잉카
   Inca Empire = 잉카 제국
-  Lake = 호수
   Lake Poopó = 포오포호
   Lake Titicaca = 티티카카호
-  Mining = 광업
   Peru = 페루
-  Plateau = 고원
   South America = 남아메리카
   Spain = 스페인
   Tibet = 티베트
@@ -192,7 +185,6 @@ Plateau in west-central South America, the most extensive high plateau on Earth 
 HEADWORD: Altruism = 이타주의
 LEVEL: 4
 GLOSSARY:
-  Altruism = 이타주의
   Auguste Comte = 오귀스트 콩트
   Comte = 콩트
   Effective altruism = 효과적 이타주의
@@ -209,8 +201,6 @@ LEVEL: 4
 GLOSSARY:
   Aluminium = 알루미늄
   Chromium = 크로뮴
-  Family = 가족
-  Potassium = 칼륨
   Potassium alum = 칼륨 백반
   adjuvant = 보조제
   aluminum hydroxide = 수산화 알루미늄
@@ -269,7 +259,6 @@ GLOSSARY:
   Classicism = 고전주의
   Finlandia = 「핀란디아」
   Finlandia Hall = 핀란디아 홀
-  Finnish = 핀란드어
   George Nelson = 조지 넬슨
   Gesamtkunstwerk = 총체 예술
   Helsinki = 헬싱키
@@ -349,7 +338,6 @@ ENTRY:
 HEADWORD: Amalgam = 아말감
 LEVEL: 4
 GLOSSARY:
-  Alloy = 합금
   Clemmensen reduction = 클레멘슨 환원
   Gold = 금
   Mercury (element) = 수은
@@ -428,10 +416,8 @@ Deadly poisonous basidiomycete mushroom, known as the death cap. It is native to
 HEADWORD: Amaranth = 아마란스
 LEVEL: 4
 GLOSSARY:
-  Amaranth = 비름과
   Amaranthus = 비름속
   Aztecs = 아스테카족
-  Genus = 속
   Incas = 잉카인
   Protein = 단백질
   South America = 남아메리카
@@ -448,7 +434,6 @@ GLOSSARY:
   Amaryllis belladonna = 아마릴리스 벨라돈나
   Cape = 케이프
   Carl Linnaeus = 칼 폰 린네
-  Genus = 속
   Hippeastrum = 히페아스트룸
   Jersey = 저지섬
   Jersey lily = 저지 릴리
@@ -528,7 +513,6 @@ GLOSSARY:
   Andes = 안데스산맥
   Apurímac = 아푸리막강
   Atlantic Ocean = 대서양
-  Average = 평균
   Brazil = 브라질
   Francisco de Orellana = 프란시스코 데 오레야나
   Greek mythology = 그리스 신화
@@ -615,7 +599,6 @@ GLOSSARY:
   Colombia = 콜롬비아
   Deforestation = 삼림 벌채
   Francisco de Orellana = 프란시스코 데 오레야나
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Peru = 페루
   River = 강
@@ -659,7 +642,6 @@ GLOSSARY:
   Black = 검은색
   Black Sea = 흑해
   Eurasian Steppe = 유라시아 스텝
-  Female = 암컷
   Greek mythology = 그리스 신화
   Heracles = 헤라클레스
   Herodotus = 헤로도토스
@@ -721,7 +703,6 @@ GLOSSARY:
   Latin = 라틴어
   Málaga = 말라가
   Van = 밴
-  Vehicle = 차량
   ambulare = ambulare
   paramedics = 응급 구조사
   siege of Málaga = 말라가 공방전
@@ -778,7 +759,6 @@ American aviation pioneer. In 1928 she became the first woman to cross the Atlan
 HEADWORD: American Airlines = 아메리칸 항공
 LEVEL: 5
 GLOSSARY:
-  Airline = 항공사
   Airport = 공항
   American Eagle = 아메리칸 이글
   Dallas = 댈러스

@@ -81,7 +81,6 @@ Generalization of the vector space in which scalars come from a ring, not necess
 HEADWORD: Modulo = 모듈로 연산
 LEVEL: 5
 GLOSSARY:
-  Binary = 이진법
   Euclidean = 유클리드
   Euclidean division = 유클리드 나눗셈
   Integer = 정수
@@ -140,7 +139,6 @@ GLOSSARY:
   Liverpool = 리버풀
   People = 『피플』
   Premier League = 프리미어리그
-  Time = 『타임』
   Time (magazine) = 『타임』
   UEFA = 유럽 축구 연맹
   UEFA Champions League = UEFA 챔피언스리그
@@ -155,7 +153,6 @@ GLOSSARY:
   Abraham Accords = 아브라함 협정
   Abu Dhabi = 아부다비
   Accords = 협약
-  Human = 인간
   Human rights = 인권
   Iran = 이란
   Israel = 이스라엘
@@ -283,7 +280,6 @@ HEADWORD: Mohammed bin Salman = 무함마드 빈 살만
 LEVEL: 5
 GLOSSARY:
   Arabia = 아라비아
-  Crown = 영국 왕실
   Jamal Khashoggi = 자말 카슈끄지
   King Salman = 살만 국왕
   Salman = 살만
@@ -325,7 +321,6 @@ GLOSSARY:
   Ancient Egypt = 고대 이집트
   Asia = 아시아
   Egypt = 이집트
-  Erosion = 침식
   Indus = 인더스강
   Indus Valley = 인더스강 유역
   Indus Valley Civilisation = 인더스 문명
@@ -384,7 +379,6 @@ GLOSSARY:
   Badwater Basin = 배드워터 분지
   California = 캘리포니아주
   Chihuahuan = 치와와 사막
-  Desert = 사막
   Great Basin = 그레이트베이슨 사막
   Mojave = 모하비 사막
   Nevada = 네바다주
@@ -410,7 +404,6 @@ LEVEL: 5
 GLOSSARY:
   Americas = 아메리카
   Iron = 철
-  Molasses = 당밀
   Rum = 럼
   Sugar beet = 사탕무
   Sugarcane = 사탕수수
@@ -460,7 +453,6 @@ GLOSSARY:
   Eastern Europe = 동유럽
   Europe = 유럽
   European Union = 유럽 연합
-  Maia = 마이아
   Maia Sandu = 마이아 산두
   Moldavia = 몰다비아
   Moldavian SSR = 몰다비아 소비에트 사회주의 공화국
@@ -493,7 +485,6 @@ GLOSSARY:
   North America = 북아메리카
   Oxygen = 산소
   Talpidae = 두더지과
-  True = 『True』
   golden moles = 황금두더지
   prepollex = 전엄지
 ENTRY:
@@ -551,7 +542,6 @@ LEVEL: 4
 GLOSSARY:
   Biochemistry = 생화학
   Biology = 생물학
-  Branch = 브랜치
   DNA = DNA
   Francis = 프랑수아
   Francis Crick = 프랜시스 크릭
@@ -712,7 +702,6 @@ GLOSSARY:
   Giant squid = 대왕오징어
   Latin = 라틴어
   Pearl = 진주
-  Phylum = 문
   Schistosomiasis = 주혈흡충증
   Tyrian purple = 티리언 퍼플
   abalone = 전복

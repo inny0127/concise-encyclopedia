@@ -82,7 +82,6 @@ GLOSSARY:
   Alfred = 앨프레드 대왕
   Alfred Dreyfus = 알프레드 드레퓌스
   Antisemitism = 반유대주의
-  Captain = 선장
   Catholic = 가톨릭
   Devil's Island = 악마의 섬
   Dreyfusards = 드레퓌스파
@@ -113,7 +112,6 @@ LEVEL: 4
 GLOSSARY:
   Corrosion = 부식
   Cutting fluid = 절삭유
-  Drilling = 시추
   Rock (geology) = 암석
   Spot drilling = 스폿 드릴링
 ENTRY:
@@ -125,14 +123,12 @@ LEVEL: 3
 GLOSSARY:
   Beer = 맥주
   China = 중국
-  Coffee = 커피
   Dionysus = 디오니소스
   Drinking water = 식수
   Ethanol = 에탄올
   Europe = 유럽
   Greece = 그리스
   Iran = 이란
-  Liquid = 액체
   Milk = 우유
   Neolithic = 신석기 시대
   Ottoman = 오스만
@@ -140,7 +136,6 @@ GLOSSARY:
   Shang dynasty = 상나라
   Tea = 차
   Turkey = 튀르키예
-  Water = 물
   Wine = 포도주
   World = 세계
   World Health Organization = 세계 보건 기구
@@ -160,7 +155,6 @@ LEVEL: 4
 GLOSSARY:
   Amphibian = 양서류
   Cat = 고양이
-  Cats = 「캣츠」
   Elephant = 코끼리
   Esophagus = 식도
   Mouth = 입
@@ -188,7 +182,6 @@ GLOSSARY:
   Safety = 안전
   Spring (hydrology) = 샘
   United States = 미국
-  Water = 물
   Water intoxication = 물 중독
   Water pollution = 수질 오염
 ENTRY:
@@ -209,7 +202,6 @@ GLOSSARY:
   Germany = 독일
   Mannheim = 만하임
   Pforzheim = 포르츠하임
-  Safety = 안전
   Taxi = 택시
   Truck = 트럭
   World = 세계
@@ -222,7 +214,6 @@ HEADWORD: Driving under the influence = 음주 운전
 LEVEL: 4
 GLOSSARY:
   Alcohol (drug) = 알코올
-  Crime = 범죄
   Drug = 약물
   George Smith = 조지 스미스
   Taxi = 택시
@@ -236,7 +227,6 @@ Crime of driving or operating a vehicle while impaired by [[Alcohol (drug)|alcoh
 HEADWORD: Dromedary = 단봉낙타
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Arabian Peninsula = 아라비아반도
   Australia = 오스트레일리아
   Camel = 낙타
@@ -260,7 +250,6 @@ GLOSSARY:
   Model organism = 모델 생물
   Nobel Prize = 노벨상
   Nobel Prizes = 노벨상
-  Species = 종
   fruit fly = 초파리
   model organism = 모델 생물
   vinegar fly = 초파리
@@ -277,9 +266,7 @@ GLOSSARY:
   Australia = 오스트레일리아
   Climate = 기후
   Climate change = 기후 변화
-  Drought = 가뭄
   Ecosystem = 생태계
-  Heat = 열
   Hydropower = 수력 발전
   India = 인도
   Sahel = 사헬
@@ -411,7 +398,6 @@ HEADWORD: Dry season = 건기
 LEVEL: 4
 GLOSSARY:
   Elephant = 코끼리
-  Humidity = 습도
   Köppen = 쾨펜
   Köppen climate classification = 쾨펜의 기후 구분
   Measles = 홍역
@@ -431,7 +417,6 @@ GLOSSARY:
   Civil War = 남북 전쟁
   Delaware = 델라웨어주
   Dow Chemical Company = 다우 케미컬
-  DuPont = 듀폰
   Dynamite = 다이너마이트
   Kevlar = 케블라
   Nylon = 나일론
@@ -505,7 +490,6 @@ GLOSSARY:
   British Empire = 대영 제국
   Dublin = 더블린
   Dublin Bay = 더블린만
-  Following = 「미행」
   Free State = 프리스테이트주
   Gaelic = 게일족
   Google = 구글
@@ -677,7 +661,6 @@ HEADWORD: Dumpling = 만두
 LEVEL: 4
 GLOSSARY:
   Bajan = 바베이도스
-  Broad = 브로드강
   China = 중국
   Shu Xi = 속석
   Tofu = 두부
@@ -771,8 +754,6 @@ GLOSSARY:
   Dave = 「데이브」
   Dave Arneson = 데이브 안슨
   Dungeon Master = 던전 마스터
-  Fantasy = 판타지
-  Gary = 게리
   Gary Gygax = 게리 가이객스
   Master = 조폐국장
   Satanism = 사탄주의

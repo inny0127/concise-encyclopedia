@@ -80,7 +80,6 @@ GLOSSARY:
   Hurrian = 후르리어
   Indo-Aryan = 인도아리아
   Indra = 인드라
-  Mitanni = 미탄니
   Naharin = 나하린
   Old Babylonian = 고바빌로니아
   Pharaoh = 파라오
@@ -121,7 +120,6 @@ GLOSSARY:
   Crimea = 크림반도
   First Mithridatic War = 제1차 미트리다테스 전쟁
   Greece = 그리스
-  Hellenistic = 헬레니즘
   Laodice VI = 라오디케 6세
   Mithridatic War = 미트리다테스 전쟁
   Pharnaces = 파르나케스
@@ -141,8 +139,6 @@ LEVEL: 4
 GLOSSARY:
   Adenosine triphosphate = 아데노신 삼인산
   Heart failure = 심부전
-  Mitochondria = 미토콘드리아
-  Organelle = 세포 소기관
   Symbiogenesis = 세포 내 공생설
   aerobic respiration = 유산소 호흡
   cell cycle = 세포 주기
@@ -159,13 +155,10 @@ Organelle found in most eukaryotic cells, where it carries out aerobic respirati
 HEADWORD: Mitosis = 유사 분열
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Cancer = 암
   Cell cycle = 세포 주기
   Chromosome = 염색체
   DNA = DNA
-  Mitosis = 유사 분열
-  Prokaryotes = 원핵생물
   S phase = S기
   anaphase = 후기
   apoptosis = 세포 자멸사
@@ -217,7 +210,6 @@ GLOSSARY:
   Muhammad = 무함마드
   Muhammad Ali = 무하마드 알리
   Professional wrestling = 프로레슬링
-  Safety = 안전
   Thai = 태국어
   UFC = UFC
   UFC 1 = UFC 1
@@ -256,7 +248,6 @@ GLOSSARY:
   Dokkōdō = 『독행도』
   Go Rin No Sho = 『고린노쇼』
   Katana = 가타나
-  Musashi = 무사시
   Niten Ichi-ryū = 니텐이치류
   Osaka = 오사카
   Shimabara Rebellion = 시마바라의 난
@@ -294,7 +285,6 @@ LEVEL: 4
 GLOSSARY:
   Dinornithiformes = 모아목
   Extinction = 멸종
-  Fossil = 화석
   Haast's eagle = 하스트수리
   Herbivore = 초식 동물
   Māori = 마오리족
@@ -356,7 +346,6 @@ GLOSSARY:
   Carnival = 카니발
   Civil War = 남북 전쟁
   Coast = 해안
-  French = 프랑스어
   Gulf Coast = 멕시코만 연안
   Mardi Gras = 마르디 그라
   Mobile Bay = 모빌만
@@ -379,7 +368,6 @@ GLOSSARY:
   Android (operating system) = 안드로이드
   IOS = iOS
   Native apps = 네이티브 앱
-  Software = 소프트웨어
   Web apps = 웹 앱
   Web browser = 웹 브라우저
   digital distribution = 디지털 배포
@@ -392,7 +380,6 @@ HEADWORD: Mobile device = 모바일 기기
 LEVEL: 4
 GLOSSARY:
   Bluetooth = 블루투스
-  Computer = 컴퓨터
   Internet = 인터넷
   Touchscreen = 터치스크린
   Wi-Fi = 와이파이
@@ -417,7 +404,6 @@ GLOSSARY:
   Eric Tigerstedt = 에릭 티게르스테트
   Finland = 핀란드
   Finnish = 핀란드어
-  Food = 음식
   Food and Drug Administration = 식품의약국
   GSM = GSM
   Japan = 일본
@@ -491,7 +477,6 @@ GLOSSARY:
   Pequod = 피쿼드호
   Sperm whale = 향유고래
   Whaling = 포경
-  William = 윌리엄
   William Faulkner = 윌리엄 포크너
   sperm whale = 향유고래
 ENTRY:
@@ -520,7 +505,6 @@ HEADWORD: Mockingbird = 흉내지빠귀
 LEVEL: 4
 GLOSSARY:
   Arkansas = 아칸소주
-  Family = 가족
   Florida = 플로리다주
   Mississippi = 미시시피주
   New World = 신대륙
@@ -599,7 +583,6 @@ Value that occurs most often in a data set or probability distribution. The mode
 HEADWORD: Model organism = 모델 생물
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Caenorhabditis elegans = 예쁜꼬마선충
   Drosophila = 초파리
   Drosophila melanogaster = 노랑초파리
@@ -607,7 +590,6 @@ GLOSSARY:
   Escherichia coli = 대장균
   Insulin = 인슐린
   Polio = 소아마비
-  Thomas = 토머스
   Yeast = 효모
   baker's yeast = 제빵 효모
   common descent = 공통 조상
@@ -633,7 +615,6 @@ GLOSSARY:
   England = 잉글랜드
   Gromit = 그로밋
   Gypsum = 석고
-  Paper = 종이
   Plasticine = 플라스티신
   Polymer = 중합체
   Polymer clays = 폴리머 점토
@@ -742,7 +723,6 @@ GLOSSARY:
   Central Modern period = 중기 모던 시기
   Doris Humphrey = 도리스 험프리
   Europe = 유럽
-  Genre = 장르
   Horton = 호턴
   Isadora Duncan = 이사도라 덩컨
   Late Modern period = 후기 모던 시기
@@ -777,12 +757,10 @@ GLOSSARY:
   Europe = 유럽
   French = 프랑스어
   French Revolution = 프랑스 혁명
-  Galileo = 갈릴레오
   Glorious Revolution = 명예혁명
   India = 인도
   Industrial Revolution = 산업 혁명
   Industrial Revolutions = 산업 혁명
-  Isaac = 이삭
   Islamic world = 이슬람 세계
   Italy = 이탈리아
   Middle Ages = 중세
@@ -838,7 +816,6 @@ GLOSSARY:
   New Age = 뉴에이지
   New religious movement = 신종교 운동
   North Africa = 북아프리카
-  Pagan = 버강
   Pagan studies = 이교 연구
   Pantheism = 범신론
   Polytheism = 다신교
@@ -853,7 +830,6 @@ HEADWORD: Modern philosophy = 근대 철학
 LEVEL: 4
 GLOSSARY:
   Baruch Spinoza = 바뤼흐 스피노자
-  Bertrand = 버트런드호
   Bertrand Russell = 버트런드 러셀
   David Hume = 데이비드 흄
   Descartes = 데카르트
@@ -899,7 +875,6 @@ GLOSSARY:
   Griffin = 그리핀
   Hume = 흄
   International Style = 국제주의 양식
-  Modernism = 모더니즘
   Philosophy = 철학
   Postmodernism = 포스트모더니즘
   Roger Griffin = 로저 그리핀
@@ -953,11 +928,9 @@ GLOSSARY:
   Earthquake = 지진
   Frank = 프랭크
   Frank Neumann = 프랭크 노이만
-  Harry = 해리
   Harry O. Wood = 해리 O. 우드
   Sedimentary basin = 퇴적 분지
   U.S. Geological Survey = 미국 지질 조사국
-  Wood = 목재
   magnitude = 규모
   sedimentary basins = 퇴적 분지
 ENTRY:

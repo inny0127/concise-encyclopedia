@@ -39,8 +39,6 @@ GLOSSARY:
   Beryl = 녹주석
   Beryllium = 베릴륨
   Emerald = 에메랄드
-  Mineral = 광물
-  Pure = 「퓨어」
   aquamarine = 아콰마린
 ENTRY:
 Mineral composed of [[Beryllium|beryllium]] aluminum silicate, Be₃Al₂(SiO₃)₆. Well-known varieties include [[Emerald|emerald]] and aquamarine. Pure beryl is colorless, but impurities tint it green, blue, yellow, pink or red, with red the rarest. Its hexagonal crystals can reach several m in size. Beryl is an ore source of beryllium.
@@ -76,7 +74,6 @@ GLOSSARY:
   North Ossetia = 북오세티야
   Number = 수
   Russia = 러시아
-  Russian = 러시아어
   School = 학교
   School Number One = 제1학교
   Shamil Basayev = 샤밀 바사예프
@@ -87,7 +84,6 @@ Hostage siege at School Number One in Beslan, North Ossetia, [[Russia]], Septemb
 HEADWORD: Bessel function = 베셀 함수
 LEVEL: 5
 GLOSSARY:
-  Family = 가족
   Friedrich Bessel = 프리드리히 베셀
   German = 독일어
   Laplace's equation = 라플라스 방정식
@@ -124,7 +120,6 @@ GLOSSARY:
   Bernoulli distribution = 베르누이 분포
   Binomial distribution = 이항 분포
   Dirichlet distribution = 디리클레 분포
-  Family = 가족
   Geometric distribution = 기하 분포
   conjugate prior = 켤레 사전 분포
   negative binomial = 음이항
@@ -185,7 +180,6 @@ GLOSSARY:
   Betelgeuse = 베텔게우스
   Betelgeuse B = 베텔게우스 B
   Earth = 지구
-  Infrared = 적외선
   Mars = 화성
   Orion = 오리온
   Orion (constellation) = 오리온자리
@@ -214,11 +208,9 @@ GLOSSARY:
   Christmas = 크리스마스
   Church = 처치
   Church of the Nativity = 예수 탄생 교회
-  City = 도시
   David = 다윗
   Hebrew = 히브리어
   Hebrew Bible = 히브리어 성경
-  Israel = 이스라엘
   Jerusalem = 예루살렘
   Jesus = 예수
   Mandatory Palestine = 영국령 팔레스타인
@@ -276,7 +268,6 @@ GLOSSARY:
   The Rose = 「더 로즈」
   Tony = 토니상
   Tony Award = 토니상
-  Wind = 바람
   Wind Beneath My Wings = 「Wind Beneath My Wings」
   Wings = 윙스
   Year = 해
@@ -418,7 +409,6 @@ GLOSSARY:
   Brahmagupta = 브라마굽타
   Bījagaṇita = 『비자가니타』
   Caṅgadeva = 창가데바
-  Crown = 영국 왕실
   Crown of Treatises = 논서의 왕관
   Golādhyāya = 『골라디야야』
   Grahagaṇita = 『그라하가니타』
@@ -625,7 +615,6 @@ GLOSSARY:
   Biathlon = 바이애슬론
   Chamonix = 샤모니
   International Biathlon Union = 국제 바이애슬론 연맹
-  Military = 군대
   Norway = 노르웨이
   Rifle = 소총
   Scandinavia = 스칸디나비아
@@ -662,7 +651,6 @@ GLOSSARY:
   Orthodox = 정교회
   Protestant = 개신교
   Tanakh = 타나크
-  Teaching = 교수
   Torah = 토라
   biblical canons = 성경 정경
   biblion = 비블리온
@@ -707,7 +695,6 @@ GLOSSARY:
   Aquarium = 수족관
   Cretaceous = 백악기
   Erpetoichthys = 에르페토익티스속
-  Family = 가족
   Late Cretaceous = 후기 백악기
   Nile = 나일강
   Polypteridae = 폴립테루스과
@@ -785,7 +772,6 @@ GLOSSARY:
   G-Dragon = 지드래곤
   Japan = 일본
   K-pop = 케이팝
-  Kings = 킹스
   Korean Wave = 한류
   MTV Europe Music Awards = MTV 유럽 뮤직 어워드
   Music = 음악
@@ -813,7 +799,6 @@ GLOSSARY:
   Hubble = 허블
   Hubble's law = 허블 법칙
   Hydrogen = 수소
-  Physical = 「Physical」
   Primordial elements = 원시 원소
   Redshift = 적색 편이
   accelerated expansion = 가속 팽창
@@ -876,7 +861,6 @@ GLOSSARY:
   Alexander Friedmann = 알렉산드르 프리드만
   Big Bang = 빅뱅
   Big Chill = 빅 칠
-  Gravity = 중력
   Russian = 러시아어
 ENTRY:
 Hypothetical scenario for the ultimate fate of the universe, in which expansion reverses and the universe recollapses. The idea dates to 1922, when Russian physicist Alexander Friedmann showed in his equations that the universe could either expand or contract, depending on its density. Gravity would reverse the expansion, and the universe would end in a fireball of near-infinite temperature, possibly followed by a new [[Big Bang]]. Most available evidence, however, indicates that the hypothesis is incorrect. Observations show that the expansion of the universe is accelerating, which makes a Big Chill more likely.

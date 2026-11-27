@@ -26,7 +26,6 @@ GLOSSARY:
   Kochi = 코치
   Kochi Metro = 코치 메트로
   North America = 북아메리카
-  Teal = 틸
   Web colors = 웹 색상
 ENTRY:
 Dark [[Cyan|cyan]] color named after the Eurasian teal duck. It can be made by mixing cyan with black or gray, and it is one of the first 16 HTML/CSS [[Web colors|web colors]]. On screens, teal is cyan with about half its brightness. The first recorded use of teal as an English color name was in 1917. In [[North America]] it became a fad color in the 1990s, and many sports teams adopted it. Teal is the official color of the [[Kochi]] Metro in India, and the jersey color of the [[Belfast]] Giants ice hockey team.
@@ -82,7 +81,6 @@ HEADWORD: Technical drawing = 기술 도면
 LEVEL: 4
 GLOSSARY:
   CAD = 컴퓨터 지원 설계
-  Discipline = 「디시플린」
   Engineering = 공학
   French = 프랑스어
   French curves = 운형자
@@ -102,7 +100,6 @@ Discipline of making drawings that visually communicate how something functions 
 HEADWORD: Technical geography = 기술 지리학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Cartography = 지도학
   Geographic information system = 지리 정보 시스템
   Geography = 지리학
@@ -128,7 +125,6 @@ LEVEL: 5
 GLOSSARY:
   Artificial intelligence = 인공지능
   Gordon Moore = 고든 무어
-  John = 존
   John von Neumann = 존 폰 노이만
   Paul = 바울로
   Paul Allen = 폴 앨런
@@ -155,9 +151,6 @@ GLOSSARY:
   Darwin = 다윈
   Euphrates = 유프라테스강
   Europe = 유럽
-  Fire = 불
-  French = 프랑스어
-  German = 독일어
   Hominids = 사람과
   Industrial Revolution = 산업 혁명
   Internet = 인터넷
@@ -176,7 +169,6 @@ GLOSSARY:
   Technology = 기술
   Tigris = 티그리스강
   Uruk = 우루크
-  Writing = 문자
   cooking hypothesis = 요리 가설
   knowledge economy = 지식 경제
   pressure flaking = 눌러떼기
@@ -242,7 +234,6 @@ GLOSSARY:
   American Oceans Campaign = 미국 해양 캠페인
   CBS = CBS
   Cheers = 「치어스」
-  Crime = 범죄
   Curb Your Enthusiasm = 「커브 유어 엔수지애즘」
   Emmy = 에미상
   Emmy Awards = 에미상
@@ -291,7 +282,6 @@ GLOSSARY:
   Jimmy Carter = 지미 카터
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   Mary Jo Kopechne = 메리 조 코페크니
   Massachusetts = 매사추세츠주
   Robert F. Kennedy = 로버트 F. 케네디
@@ -373,7 +363,6 @@ GLOSSARY:
   Comayagua = 코마야과
   Comayagüela = 코마야궬라
   Commerce = 상업
-  Gang = 갱단
   Honduras = 온두라스
   Marco Aurelio Soto = 마르코 아우렐리오 소토
   Organized crime = 조직범죄
@@ -403,7 +392,6 @@ GLOSSARY:
   Qajar dynasty = 카자르 왕조
   Reza Shah = 레자 샤
   Shah = 샤
-  Tehran = 테헤란
   Tower = 탑
   West Asia = 서아시아
   World = 세계
@@ -426,7 +414,6 @@ GLOSSARY:
   International Style = 국제주의 양식
   Israel = 이스라엘
   Jaffa = 야파
-  Mediterranean = 지중해
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
   Tel Aviv = 텔아비브
@@ -530,7 +517,6 @@ GLOSSARY:
   Pavel and Nikolai Durov = 파벨 두로프와 니콜라이 두로프
   Russia = 러시아
   Social media = 소셜 미디어
-  Telegram = 텔레그램
   United Arab Emirates = 아랍에미리트
   Web browser = 웹 브라우저
   instant messaging = 인스턴트 메시징
@@ -568,8 +554,6 @@ GLOSSARY:
   Radio = 라디오
   SMS = SMS
   Spacecraft = 우주선
-  Telemetry = 원격 측정
-  Today = 「투데이」
   V-2 rocket = V-2 로켓
   World = 세계
   World War II = 제2차 세계 대전
@@ -621,7 +605,6 @@ GLOSSARY:
   Motorola = 모토로라
   Patent = 특허
   Smartphone = 스마트폰
-  Telecommunications = 전기 통신
   Thomas = 토머스
   Thomas Watson = 토머스 왓슨
   U.S. House of Representatives = 미국 하원
@@ -644,7 +627,6 @@ GLOSSARY:
   Electromagnetic spectrum = 전자기 스펙트럼
   French = 프랑스어
   French Guiana = 프랑스령 기아나
-  Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   Giovanni = 조반니
   Giovanni Demisiani = 조반니 데미시아니
@@ -705,7 +687,6 @@ GLOSSARY:
   Ancient Greek = 고대 그리스어
   BBC = BBC
   Cathode ray tube = 음극선관
-  Color = 색
   Congress = 의회
   Constantin Perskyi = 콘스탄틴 페르스키
   Electricity = 전기
@@ -749,7 +730,6 @@ GLOSSARY:
   NBC = NBC
   PBS = PBS
   Satellite television = 위성 텔레비전
-  Telecommunications = 전기 통신
   United States = 미국
   affiliates = 가맹국
   multichannel video programming distributors = 다채널 영상 프로그램 배급사
@@ -811,7 +791,6 @@ GLOSSARY:
   James Bond = 제임스 본드
   Kojak = 「코작」
   On Her Majesty's Secret Service = 「007 여왕 폐하 대작전」
-  Theo = 테오
   Theo Kojak = 테오 코작
   UK Singles Chart = UK 싱글 차트
   University = 대학
@@ -876,7 +855,6 @@ GLOSSARY:
   Köppen = 쾨펜
   Köppen classification = 쾨펜 기후 구분
   Köppen climate classification = 쾨펜의 기후 구분
-  Latitude = 위도
   Mediterranean = 지중해
   Mediterranean climate = 지중해성 기후
   Ocean current = 해류
@@ -922,9 +900,7 @@ GLOSSARY:
   Kelvin = 켈빈
   Kelvin scale = 켈빈 온도 눈금
   Kinetic energy = 운동 에너지
-  Matter = 물질
   Negative absolute temperatures = 음의 절대 온도
-  Physical = 「Physical」
   Thermometer = 온도계
   United States = 미국
   base units = 기본 단위
@@ -981,7 +957,6 @@ GLOSSARY:
   Emmy Award = 에미상
   Globe = 지구본
   Golden Globe = 골든글로브상
-  Heroes = 「히어로즈」
   Livestock = 가축
   Primetime Emmy = 프라임타임 에미상
   Primetime Emmy Award = 프라임타임 에미상

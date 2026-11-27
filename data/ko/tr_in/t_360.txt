@@ -33,7 +33,6 @@ GLOSSARY:
   Electric field = 전기장
   Electromotive force = 기전력
   Europe = 유럽
-  Household = 가구
   North America = 북아메리카
   Volt = 볼트
   electric field = 전기장
@@ -58,7 +57,6 @@ GLOSSARY:
   François-Marie Arouet = 프랑수아마리 아루에
   Freedom of religion = 종교의 자유
   Freedom of speech = 표현의 자유
-  French = 프랑스어
   Gottfried Leibniz = 고트프리트 라이프니츠
   Jean Calas = 장 칼라스
   Leibniz = 라이프니츠
@@ -100,7 +98,6 @@ GLOSSARY:
   Pierre de Fermat = 피에르 드 페르마
   SI = 국제단위계
   U.S. customary units = 미국 단위계
-  Volume = 부피
   Weights and Measures Act 1985 = 1985년 도량형법
   Wilhelm = 빌헬름
   bushel = 부셸
@@ -150,7 +147,6 @@ GLOSSARY:
   Soviet Union = 소련
   Space = 공간
   Space Race = 우주 경쟁
-  Spaceflight = 우주 비행
   United States = 미국
   Vostok 3KA = 보스토크 3KA
   Vostok programme = 보스토크 계획
@@ -187,7 +183,6 @@ GLOSSARY:
   Estonia = 에스토니아
   Referendum = 국민 투표
   Republic = 공화국
-  Voting = 투표
   polling stations = 투표소
   secret ballots = 비밀 투표
   super-majority = 가중 다수결
@@ -204,7 +199,6 @@ GLOSSARY:
   Latin = 라틴어
   Prosody (linguistics) = 운율
   Syllable = 음절
-  Vowel = 모음
   intonation = 억양
   nucleus = 핵
   stress = 강세
@@ -226,7 +220,6 @@ GLOSSARY:
   Saturn = 토성
   Solar System = 태양계
   Titan (moon) = 타이탄
-  Voyager = 보이저
   Voyager 1 = 보이저 1호
   heliopause = 태양권계면
   interstellar space = 성간 공간
@@ -329,7 +322,6 @@ Four transatlantic expeditions to the Americas led by the Genoese navigator [[Ch
 HEADWORD: Voynich manuscript = 보이니치 필사본
 LEVEL: 5
 GLOSSARY:
-  Carbon = 탄소
   Codex = 코덱스
   Cryptography = 암호학
   Germany = 독일
@@ -359,7 +351,6 @@ GLOSSARY:
   Latin = 라틴어
   Latina = 라틴계
   Nova Vulgata = 노바 불가타
-  Pope = 교황
   Pope Damasus I = 교황 다마소 1세
   Roman Rite = 로마 전례
   Vetus Latina = 베투스 라티나
@@ -397,7 +388,6 @@ GLOSSARY:
   Accipitridae = 수리과
   Americas = 아메리카
   Asia = 아시아
-  Bird = 조류
   Bird of prey = 맹금류
   Cathartidae = 콘도르과
   Eagle = 수리
@@ -419,7 +409,6 @@ HEADWORD: Vulva = 외음부
 LEVEL: 5
 GLOSSARY:
   Bartholin's = 바르톨린샘
-  Blood = 혈액
   Clitoris = 음핵
   Labia = 음순
   Sexual arousal = 성적 흥분
@@ -569,7 +558,6 @@ GLOSSARY:
   Oxford = 옥스퍼드
   Oxford University = 옥스퍼드 대학교
   Research = 연구
-  Richard = 리처드
   Richard Dawkins = 리처드 도킨스
   Royal Society = 왕립 학회
   Royal Society Research Professor = 왕립 학회 연구 교수
@@ -632,7 +620,6 @@ GLOSSARY:
   England = 잉글랜드
   Gloucestershire = 글로스터셔
   Golf = 골프
-  Grace = 『그레이스』
   MCC = MCC
   Marylebone Cricket Club = 메릴본 크리켓 클럽
   Test = 테스트 매치
@@ -709,7 +696,6 @@ GLOSSARY:
   City = 도시
   David Koresh = 데이비드 코레시
   Federal Bureau of Investigation = 연방 수사국
-  Justice = 정의
   Justice Department = 법무부
   Oklahoma = 오클라호마주
   Oklahoma City = 오클라호마시티
@@ -734,7 +720,6 @@ GLOSSARY:
   Price = 가격
   Rome = 로마
   Supply and demand = 수요와 공급
-  Wage = 임금
   Wage labor = 임금 노동
   ancient Greece = 고대 그리스
   ancient Rome = 고대 로마
@@ -806,9 +791,7 @@ GLOSSARY:
   Air Force = 항공 및 반항공군
   Boeing = 보잉
   Boeing 747 = 보잉 747
-  Coral = 산호
   Force = 힘
-  Japan = 일본
   Micronesia = 미크로네시아
   Ocean = 대양
   Pacific = 태평양
@@ -829,7 +812,6 @@ GLOSSARY:
   Britons = 브리튼인
   Cardiff = 카디프
   Celtic Britons = 켈트계 브리튼인
-  Coal = 석탄
   Edward I = 에드워드 1세
   England = 잉글랜드
   Great Britain = 그레이트브리튼섬
@@ -885,7 +867,6 @@ GLOSSARY:
   Republic of Ireland = 아일랜드 공화국
   Running = 달리기
   United Kingdom = 영국
-  Walking = 걷기
   arthropods = 절지동물
   gait = 보행 방식
   inverted pendulum = 역진자
@@ -927,7 +908,6 @@ GLOSSARY:
   40 Wall Street = 월스트리트 40번지
   Bank = 은행
   City = 도시
-  Dutch = 네덜란드어
   East River = 이스트강
   Federal Reserve = 연방준비제도
   Federal Reserve Bank of New York = 뉴욕 연방 준비 은행
@@ -950,7 +930,6 @@ HEADWORD: Wall Street crash of 1929 = 1929년 월스트리트 대폭락
 LEVEL: 4
 GLOSSARY:
   Banking Act of 1933 = 1933년 은행법
-  Black = 검은색
   Black Thursday = 검은 목요일
   Black Tuesday = 검은 화요일
   Commission = 위원회

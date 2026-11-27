@@ -13,7 +13,6 @@ GLOSSARY:
   Emmy Awards = 에미상
   Film = 영화
   Howard Beale = 하워드 빌
-  Johnson = 존슨
   Lead = 납
   Lyndon B. Johnson = 린든 B. 존슨
   Malcolm in the Middle = 「말콤네 좀 말려줘」
@@ -38,7 +37,6 @@ GLOSSARY:
   Liverwort = 우산이끼류
   Moss = 이끼
   Seed = 씨앗
-  Sperm = 정자
   Spore = 포자
   Sporophyte = 포자체
   Vascular tissue = 관다발 조직
@@ -62,7 +60,6 @@ GLOSSARY:
   Membranipora membranacea = Membranipora membranacea
   Metamorphosis = 변태
   Oceanic trench = 해구
-  Phylum = 문
   Starfish = 불가사리
   brackish water = 기수
   kelp forests = 켈프 숲
@@ -99,12 +96,10 @@ Form of plague caused by the bacterium *Yersinia pestis* and usually spread by i
 HEADWORD: Bucharest = 부쿠레슈티
 LEVEL: 4
 GLOSSARY:
-  Bucharest = 부쿠레슈티
   Budapest = 부다페스트
   Europe = 유럽
   Ilfov County = 일포브주
   Nicolae Ceaușescu = 니콜라에 차우셰스쿠
-  Paris = 파리
   Paris of the East = 동방의 파리
   River = 강
   River Dâmbovița = 덤보비차강
@@ -128,7 +123,6 @@ GLOSSARY:
   Edward Blore = 에드워드 블로어
   George III = 조지 3세
   German = 독일어
-  John = 존
   John Nash = 존 내시
   London = 런던
   Queen = 퀸
@@ -385,7 +379,6 @@ GLOSSARY:
   Lubbock = 러벅
   Norman = 노르만
   Norman Petty = 노먼 페티
-  Peggy = 페기
   Peggy Sue = 「Peggy Sue」
   Ritchie Valens = 리치 밸런스
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
@@ -439,7 +432,6 @@ GLOSSARY:
   Canada = 캐나다
   Canal = 운하
   Chicago = 시카고
-  City = 도시
   Erie Canal = 이리 운하
   Lake = 호수
   Lake Erie = 이리호
@@ -548,7 +540,6 @@ GLOSSARY:
   Americas = 아메리카
   Asia = 아시아
   Australia = 오스트레일리아
-  Family = 가족
   Genus = 속
   Hawaii = 하와이
   Middle East = 중동
@@ -603,7 +594,6 @@ HEADWORD: Bulimia = 신경성 폭식증
 LEVEL: 5
 GLOSSARY:
   Anorexia = 신경성 식욕 부진증
-  Bulimia = 신경성 폭식증
   Cardiac arrest = 심정지
   Eating disorder = 섭식 장애
   Obesity = 비만
@@ -618,13 +608,11 @@ ENTRY:
 HEADWORD: Bull Terrier = 불테리어
 LEVEL: 5
 GLOSSARY:
-  Breed = 품종
   England = 잉글랜드
   James = 야고보
   James Hinks = 제임스 힝크스
   Lethal acrodermatitis = 치명적 지단피부염
   Terrier = 테리어
-  White = 흰색
   bloodsports = 블러드 스포츠
 ENTRY:
 Breed of dog in the [[Terrier|terrier]] family, originating in [[England]]. Originally bred for vermin control and bloodsports, the modern breed was developed by James Hinks in the mid-19th century. The Bull Terrier has a distinctive egg-shaped head and small, triangular eyes. White bull terriers have a strong tendency toward deafness: it occurs in 20.4% of pure white Bull Terriers and 1.3% of colored ones. Lethal acrodermatitis, a rare inherited disease, is found only in white Bull Terriers and is usually fatal, appearing within the first few weeks of life.
@@ -633,7 +621,6 @@ Breed of dog in the [[Terrier|terrier]] family, originating in [[England]]. Orig
 HEADWORD: Bull shark = 황소상어
 LEVEL: 5
 GLOSSARY:
-  Adult = 성인
   Alton = 올턴
   Carcharhinus leucas = Carcharhinus leucas
   IUCN = 국제 자연 보전 연맹
@@ -641,7 +628,6 @@ GLOSSARY:
   Mississippi River = 미시시피강
   River = 강
   Shark = 상어
-  Species = 종
   Zambezi = 잠베지강
   Zambezi shark = 잠베지 상어
   requiem = 흉상어류
@@ -698,7 +684,6 @@ GLOSSARY:
   Mediterranean region = 지중해 지역
   Mesopotamia = 메소포타미아
   Philippines = 필리핀
-  Physical = 「Physical」
   Portugal = 포르투갈
   Spain = 스페인
   animal welfare = 동물 복지
@@ -731,7 +716,6 @@ GLOSSARY:
   Asia = 아시아
   Bee = 벌
   Bombus = 뒤영벌속
-  Cuckoo = 뻐꾸기
   Cuckoo bumblebees = 뻐꾸기뒤영벌
   Europe = 유럽
   Honey bee = 꿀벌
@@ -792,7 +776,6 @@ GLOSSARY:
   2. Bundesliga = 2. 분데스리가
   Association football = 축구
   Bayern Munich = 바이에른 뮌헨
-  Bundesliga = 분데스리가
   Champions League = 챔피언스리그
   German = 독일어
   Munich = 뮌헨
@@ -807,7 +790,6 @@ HEADWORD: Buoyancy = 부력
 LEVEL: 4
 GLOSSARY:
   Archimedes' principle = 아르키메데스의 원리
-  Buoyancy = 부력
   Convection = 대류
   Density = 밀도
   Pressure = 압력
@@ -875,7 +857,6 @@ Purplish, dark-red color. The name comes from the Burgundy wine of [[France]], a
 HEADWORD: Burial = 매장
 LEVEL: 4
 GLOSSARY:
-  Burial = 매장
   Cave = 동굴
   Cremation = 화장
   Croatia = 크로아티아
@@ -885,7 +866,6 @@ GLOSSARY:
   Kebara Cave = 케바라 동굴
   Krapina = 크라피나
   Neanderthal = 네안데르탈인
-  Neanderthals = 네안데르탈인
   Shanidar = 샤니다르
   burial at sea = 수장
   cryopreservation = 냉동 보존

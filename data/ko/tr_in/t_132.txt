@@ -6,7 +6,6 @@ GLOSSARY:
   Ejnar Hertzsprung = 아이나르 헤르츠스프룽
   Hertzsprung–Russell diagram = 헤르츠스프룽-러셀 도표
   Main sequence = 주계열
-  Star = 항성
   Sun = 태양
   Supergiant = 초거성
   dwarf = 왜성
@@ -25,7 +24,6 @@ GLOSSARY:
   Diarrhea = 설사
   Giardia = 지아르디아
   Giardia duodenalis = Giardia duodenalis
-  Infection = 감염
   Lactose = 젖당
   World = 세계
   World Health Organization = 세계 보건 기구
@@ -114,7 +112,6 @@ GLOSSARY:
   Argentina = 아르헨티나
   Candeleros Formation = 칸델레로스층
   Cretaceous = 백악기
-  Genus = 속
   Giganotosaurus = 기가노토사우루스
   Giganotosaurus carolinii = Giganotosaurus carolinii
   Patagonia = 파타고니아
@@ -136,7 +133,6 @@ GLOSSARY:
   China = 중국
   Gigantopithecus blacki = Gigantopithecus blacki
   Hong Kong = 홍콩
-  Once = 『Once』
   Orangutan = 오랑우탄
   Yeti = 예티
   cryptozoology = 미확인 동물학
@@ -198,7 +194,6 @@ LEVEL: 4
 GLOSSARY:
   Arthur Sullivan = 아서 설리번
   D'Oyly Carte Opera Company = 도일리 카트 오페라단
-  Gilbert = 길버트 제도
   H.M.S. Pinafore = 「군함 피나포어」
   Musical theatre = 뮤지컬
   Opera = 오페라
@@ -209,7 +204,6 @@ GLOSSARY:
   The Mikado = 「미카도」
   The Pirates of Penzance = 「펜잰스의 해적」
   Theatre = 연극
-  Victorian-era = 빅토리아 시대
   W. S. Gilbert = W. S. 길버트
   comic operas = 코믹 오페라
   libretti = 대본
@@ -320,7 +314,6 @@ GLOSSARY:
   Gilligan = 길리건
   Honolulu = 호놀룰루
   Pacific = 태평양
-  Seven = 「세븐」
   Sherwood Schwartz = 셔우드 슈워츠
   Sitcom = 시트콤
   syndication = 신디케이션
@@ -337,7 +330,6 @@ GLOSSARY:
   China = 중국
   Europe = 유럽
   Flowering plant = 속씨식물
-  Ginger = 생강
   Hawaii = 하와이
   India = 인도
   Indo-Pacific = 인도태평양
@@ -422,7 +414,6 @@ GLOSSARY:
   Hiroshima = 히로시마
   Jurassic = 쥐라기
   Middle Jurassic = 중기 쥐라기
-  Species = 종
   gymnosperm = 겉씨식물
   living fossil = 살아 있는 화석
   maidenhair tree = 공손수
@@ -437,7 +428,6 @@ GLOSSARY:
   Appalachian Mountains = 애팔래치아산맥
   China = 중국
   Dietary supplement = 건강 보조 식품
-  Food = 음식
   Food and Drug Administration = 식품의약국
   Korea = 한국
   Korean ginseng = 고려인삼
@@ -446,10 +436,8 @@ GLOSSARY:
   Panax notoginseng = Panax notoginseng
   Panax quinquefolius = Panax quinquefolius
   Prescription drug = 처방약
-  Root = 뿌리
   South China = 화난
   South China ginseng = 삼칠
-  Species = 종
   Traditional medicine = 전통 의학
   U.S. Food and Drug Administration = 미국 식품의약국
   ginsenosides = 진세노사이드
@@ -557,7 +545,6 @@ GLOSSARY:
   Padua = 파도바
   Renaissance = 르네상스
   Taddeo Gaddi = 타데오 가디
-  Vasari = 바사리
   Virgin = 『버진』
   campanile = 종탑
 ENTRY:
@@ -569,7 +556,6 @@ LEVEL: 4
 GLOSSARY:
   Black = 검은색
   Black Death = 흑사병
-  Boccaccio = 보카치오
   Cervantes = 세르반테스
   Chaucer = 초서
   Crowns = 관근
@@ -688,7 +674,6 @@ GLOSSARY:
   United Nations Environment Programme = 유엔 환경 계획
   Victoria's Secret = 빅토리아 시크릿
   Victoria's Secret Angel = 빅토리아 시크릿 엔젤
-  Vogue = 『보그』
   Vogue (magazine) = 보그
   heroin chic = 헤로인 시크
 ENTRY:
@@ -790,7 +775,6 @@ HEADWORD: Giza = 기자
 LEVEL: 4
 GLOSSARY:
   Cairo = 카이로
-  City = 도시
   Egypt = 이집트
   Giza = 기자
   Giza Plateau = 기자 고원
@@ -821,10 +805,8 @@ GLOSSARY:
   Fjord = 피오르
   Glacier = 빙하
   Ice sheet = 빙상
-  Landform = 지형
   Quaternary = 제4기
   Quaternary glaciations = 제4기 빙하기
-  Rare = 「Rare」
   Sahara = 사하라 사막
   Striations = 빙하 조선
   U-shaped valleys = U자곡
@@ -878,7 +860,6 @@ GLOSSARY:
   Carl Linnaeus = 칼 폰 린네
   Eurasia = 유라시아
   Europe = 유럽
-  Genus = 속
   Iridaceae = 붓꽃과
   Latin = 라틴어
   Lepidoptera = 나비목

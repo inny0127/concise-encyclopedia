@@ -122,7 +122,6 @@ GLOSSARY:
   Arawak = 아라와크족
   Cassava = 카사바
   Maranta arundinacea = Maranta arundinacea
-  Saint = 성인
   Saint Vincent = 세인트빈센트섬
   Starch = 녹말
   Tapioca = 타피오카
@@ -158,7 +157,6 @@ GLOSSARY:
   Champions League = 챔피언스리그
   FA Cup = FA컵
   FIFA = 국제 축구 연맹
-  French = 프랑스어
   Le Professeur = 르 프로페쇠르
   Premier League = 프리미어리그
   UEFA = 유럽 축구 연맹
@@ -193,7 +191,6 @@ Professional association football club based in Islington, North London, competi
 HEADWORD: Arsenic = 비소
 LEVEL: 4
 GLOSSARY:
-  Arsenic = 비소
   Carcinogen = 발암 물질
   Chemical element = 화학 원소
   Environmental Protection Agency = 미국 환경 보호청
@@ -373,7 +370,6 @@ HEADWORD: Artery = 동맥
 LEVEL: 4
 GLOSSARY:
   Arterioles = 세동맥
-  Blood = 혈액
   Blood pressure = 혈압
   Circulatory system = 순환계
   Heart = 심장
@@ -452,7 +448,6 @@ About 15% of people in Australia and more than 20% in the United States have a t
 HEADWORD: Arthropod = 절지동물
 LEVEL: 3
 GLOSSARY:
-  Arthropod = 절지동물
   Arthropoda = 절지동물문
   Cambrian = 캄브리아기
   Chelicerata = 협각아문
@@ -462,7 +457,6 @@ GLOSSARY:
   Hemolymph = 혈림프
   Hexapoda = 육각아문
   Insect = 곤충
-  Invertebrate = 무척추동물
   Moulting = 탈피
   Myriapoda = 다지아문
   aphids = 진딧물
@@ -506,7 +500,6 @@ GLOSSARY:
   Lanka = 랑카
   Nebula = 네뷸러상
   Odyssey = 『오디세이아』
-  Prophet = 예언자
   Prophet of the Space Age = 우주 시대의 예언자
   Royal Air Force = 영국 공군
   Satellite = 인공위성
@@ -625,7 +618,6 @@ GLOSSARY:
   Cancer = 암
   Charleville = 샤를빌
   Franco-Prussian War = 프로이센-프랑스 전쟁
-  French = 프랑스어
   Hell = 지옥
   Illuminations = 『일뤼미나시옹』
   Modernism = 모더니즘
@@ -680,7 +672,6 @@ HEADWORD: Schopenhauer, Arthur = 쇼펜하우어, 아르투어
 LEVEL: 4
 GLOSSARY:
   Asceticism = 금욕주의
-  Building = 건물
   Frankfurt = 프랑크푸르트
   German = 독일어
   German idealism = 독일 관념론
@@ -709,7 +700,6 @@ GLOSSARY:
   Confederacy = 남부 연합
   Dublin = 더블린
   Duke of Wellington = 웰링턴 공작
-  Following = 「미행」
   Fourth Anglo-Mysore War = 제4차 영국-마이소르 전쟁
   France = 프랑스
   Gebhard von Blücher = 게프하르트 폰 블뤼허
@@ -795,7 +785,6 @@ GLOSSARY:
   Neural network (machine learning) = 인공 신경망
   OpenAI = 오픈AI
   Reasoning models = 추론 모델
-  Safety = 안전
   artificial neural networks = 인공 신경망
   chains of thought = 사고 사슬
   deep learning = 딥 러닝
@@ -916,7 +905,6 @@ GLOSSARY:
   Aristotle = 아리스토텔레스
   Bohemia = 보헤미아
   Code of Points = 채점 규정
-  Discipline = 「디시플린」
   Germany = 독일
   Gymnastics = 체조
   Homer = 호메로스
@@ -927,7 +915,6 @@ GLOSSARY:
   Summer Olympic Games = 하계 올림픽
   Summer Olympics = 하계 올림픽
   Union = 연방
-  World = 세계
   World Gymnastics = 세계체조연맹
 ENTRY:
 Discipline of gymnastics in which athletes perform short routines on different types of apparatus. World Gymnastics governs the sport and assigns the Code of Points used to score elite international competition. The gymnastic system was mentioned in writings by [[Homer]], [[Aristotle]], and [[Plato]], and it evolved in Bohemia and Germany at the beginning of the 19th century. Gymnastics was included in the 1896 [[Summer Olympic Games|Summer Olympics]], but women were not allowed to compete until 1928. Women’s and men’s branches have since developed different techniques and apparatus. [[Larisa Latynina]] won 18 Olympic medals for the Soviet Union, and [[Simone Biles]] won 11 Olympic medals as a U.S. gymnast.

@@ -42,7 +42,6 @@ GLOSSARY:
   Balkan peninsula = 발칸반도
   Europe = 유럽
   European Union = 유럽 연합
-  Greece = 그리스
   Hellenic = 헬레니즘어파
   Hellenic Republic = 그리스 공화국
   Macedon = 마케도니아
@@ -86,7 +85,6 @@ GLOSSARY:
   Filiki Eteria = 필리키 에테리아
   France = 프랑스
   Freedom or death = 자유가 아니면 죽음을
-  Greece = 그리스
   Ibrahim = 이브라힘
   Ibrahim Pasha = 이브라힘 파샤
   Ionian = 이오니아 방언
@@ -217,7 +215,6 @@ GLOSSARY:
   Hellenistic = 헬레니즘
   Hera = 헤라
   Heracles = 헤라클레스
-  Heroes = 「히어로즈」
   Hesiod = 헤시오도스
   Homer = 호메로스
   Homeric Hymns = 『호메로스 찬가』
@@ -282,7 +279,6 @@ GLOSSARY:
   Irrigation = 관개
   Mexico = 멕시코
   Nobel Peace Prize = 노벨 평화상
-  Norman = 노르만
   Norman Borlaug = 노먼 볼로그
   Peace = 평화
   Pesticide = 농약
@@ -291,7 +287,6 @@ GLOSSARY:
   Wheat = 밀
   William = 윌리엄
   William S. Gaud = 윌리엄 S. 고드
-  Yuan = 원나라
   infant mortality = 영아 사망률
 ENTRY:
 Agricultural movement in which technology transfer significantly increased crop yields. It emerged in developed countries in the early 20th century and spread globally until the late 1980s. Its high-yielding varieties of [[Wheat|wheat]] and [[Rice|rice]] required chemical [[Fertilizer|fertilizers]], [[Pesticide|pesticides]], and controlled [[Irrigation|irrigation]]. The term was first used by William S. Gaud of the U.S. Agency for International Development in a speech on March 8, 1968. The Ford and Rockefeller foundations were heavily involved in its initial development in Mexico. [[Norman Borlaug]], known as the Father of the Green Revolution, received the Nobel Peace Prize in 1970 and is credited with saving over a billion people from starvation. Yuan Longping's work on hybrid rice is credited with saving at least as many lives. Studies show that the movement contributed to the widespread eradication of poverty, averted hunger for millions, and declines in infant mortality.
@@ -305,7 +300,6 @@ GLOSSARY:
   Chlorophyceae = 녹조강
   Chloroplast = 엽록체
   Flagellate = 편모충
-  Green = 초록색
   Green algae = 녹조류
   Lichen = 지의류
   Mitosis = 유사 분열
@@ -338,7 +332,6 @@ GLOSSARY:
   Calvin Keeney = 캘빈 키니
   Carbohydrate = 탄수화물
   German = 독일어
-  Green = 초록색
   Green bean casserole = 그린빈 캐서롤
   Phaseolus vulgaris = 강낭콩(Phaseolus vulgaris)
   Protein (nutrient) = 단백질
@@ -362,7 +355,6 @@ LEVEL: 4
 GLOSSARY:
   Chlorophyll = 엽록소
   Chromium = 크로뮴
-  Color = 색
   Europe = 유럽
   Ireland = 아일랜드
   Muhammad = 무함마드
@@ -408,7 +400,6 @@ GLOSSARY:
   Environmentalism = 환경주의
   Feminism = 페미니즘
   German = 독일어
-  Green = 초록색
   Ideology = 이데올로기
   Indigenous peoples = 원주민
   Political spectrum = 정치적 스펙트럼
@@ -432,7 +423,6 @@ GLOSSARY:
   Camellia = 동백나무속
   Camellia sinensis = 차나무
   China = 중국
-  Green = 초록색
   Green tea = 녹차
   Prescription drug = 처방약
   Tea = 차
@@ -457,7 +447,6 @@ GLOSSARY:
   Methane = 메탄
   Nils Gustaf Ekholm = 닐스 구스타프 에크홀름
   Sun = 태양
-  Surface = 서피스
   fossil fuels = 화석 연료
   global warming = 지구 온난화
   longwave radiation = 장파 복사
@@ -526,7 +515,6 @@ GLOSSARY:
   Norwegian = 노르웨이어
   Norwegian Sea = 노르웨이해
   Ocean = 대양
-  Russian = 러시아어
   Svalbard = 스발바르 제도
   V. Chichagov = V. 치차고프
   West Ice = 웨스트아이스
@@ -638,7 +626,6 @@ GLOSSARY:
   Orthodox = 정교회
   Pope = 교황
   Pope Gregory XIII = 교황 그레고리오 13세
-  Protestant = 개신교
   Thursday = 목요일
   papal bull = 교황 칙서
 ENTRY:
@@ -655,7 +642,6 @@ GLOSSARY:
   Choir = 합창단
   Church = 처치
   Europe = 유럽
-  Gregorian = 그레고리력
   Latin = 라틴어
   Mass = 미사
   Milan = 밀라노
@@ -693,7 +679,6 @@ GLOSSARY:
   Holiday = 명절
   Hollywood = 할리우드
   House Un-American Activities Committee = 하원 비미 활동 위원회
-  Johnson = 존슨
   Lyndon B. Johnson = 린든 B. 존슨
   Medal of Freedom = 자유 훈장
   Mockingbird = 흉내지빠귀
@@ -782,7 +767,6 @@ GLOSSARY:
   Government = 정부
   Grenada = 그레나다
   Grenadines = 그레나딘 제도
-  Independence = 인디펜던스
   King Charles III = 국왕 찰스 3세
   Martinique = 마르티니크
   Maurice Bishop = 모리스 비숍
@@ -814,7 +798,6 @@ GLOSSARY:
   Joseon = 조선
   Korea = 한국
   Latin = 라틴어
-  Once = 『Once』
   Pomegranate = 석류
   Stick grenades = 막대형 수류탄
   World = 세계
@@ -962,7 +945,6 @@ GLOSSARY:
   Isidore of Seville = 세비야의 이시도루스
   Lion = 사자
   Middle Ages = 중세
-  Pliny = 플리니우스
   Pliny the Elder = 대플리니우스
   Seville = 세비야
 ENTRY:
@@ -980,7 +962,6 @@ GLOSSARY:
   Pilgrimage = 순례
   Pokrovskoye = 포크롭스코예
   Romanov = 로마노프 왕조
-  Russian = 러시아어
   Saint = 성인
   Saint Petersburg = 상트페테르부르크
   Siberia = 시베리아

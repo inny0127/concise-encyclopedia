@@ -26,7 +26,6 @@ GLOSSARY:
   Dijkstra's algorithm = 데이크스트라 알고리즘
   Heuristic = 휴리스틱
   Nils Nilsson = 닐스 닐슨
-  Peter = 베드로
   Peter Hart = 피터 하트
   Raphael = 라파엘로
   Shakey = 셰이키
@@ -45,7 +44,6 @@ GLOSSARY:
   Belgium = 벨기에
   Carolingian = 카롤링거
   Charlemagne = 샤를마뉴
-  City = 도시
   Frankfurt = 프랑크푸르트
   Frankish = 프랑크
   Frankish Empire = 프랑크 왕국
@@ -69,7 +67,6 @@ GLOSSARY:
   Detroit = 디트로이트
   Elliott = 엘리엇
   Hip-hop = 힙합
-  Kelly = 켈리
   Missy Elliott = 미시 엘리엇
   Number = 수
   One in a Million = 『One in a Million』
@@ -132,7 +129,6 @@ LEVEL: 5
 GLOSSARY:
   Alabama = 앨라배마주
   Alexander Hamilton = 알렉산더 해밀턴
-  Burr = 『버』
   City = 도시
   Democratic-Republican Party = 민주공화당
   Duel = 결투
@@ -225,7 +221,6 @@ Hand-operated calculating device in which beads slide on rods or in grooves with
 HEADWORD: Abalone = 전복
 LEVEL: 5
 GLOSSARY:
-  Abalone = 전복
   Aquaculture = 양식업
   Cuisine = 요리
   Haliotidae = 전복과
@@ -254,7 +249,6 @@ GLOSSARY:
   Koker trilogy = 코케르 3부작
   New Wave = 누벨바그
   Palme d'Or = 황금종려상
-  Taste = 미각
   Taste of Cherry = 「체리 향기」
   Tehran = 테헤란
   The Bread and Alley = 「빵과 골목길」
@@ -281,7 +275,6 @@ GLOSSARY:
   Safavid = 사파비 왕조
   Safavid Iran = 사파비 왕조
   Safavid dynasty = 사파비 왕조
-  Shah = 샤
   South Caucasus = 남캅카스
   Uzbeks = 우즈베크족
 ENTRY:
@@ -306,7 +299,6 @@ GLOSSARY:
   Muhammad = 무함마드
   Seljuk = 셀주크
   Seljuk Turks = 셀주크 튀르크
-  Third = 교향곡 제3번
   Turks = 튀르크인
   Umayyad = 우마이야 왕조
   Umayyad Caliphate = 우마이야 칼리파국
@@ -366,7 +358,6 @@ GLOSSARY:
   Abu Abdallah al-Shi'i = 아부 압달라 알시이
   Aghlabid = 아글라브 왕조
   Aghlabid dynasty = 아글라브 왕조
-  Bedouin = 베두인
   Berbers = 베르베르인
   Byzantine = 비잔티움
   Byzantine Empire = 비잔티움 제국
@@ -481,8 +472,6 @@ GLOSSARY:
   Human Rights Watch = 휴먼 라이츠 워치
   Mohamed Morsi = 무함마드 무르시
   Rights = 인권
-  Security = 보안
-  Sisi = 시시
   Suez Canal = 수에즈 운하
   Watch = 손목시계
   crimes against humanity = 인도에 반한 죄
@@ -612,7 +601,6 @@ GLOSSARY:
   King's College = 킹스 칼리지
   Mica = 운모
   North Sea = 북해
-  Port = 항구
   Scotland = 스코틀랜드
   University = 대학
   University of Aberdeen = 애버딘 대학교
@@ -625,7 +613,6 @@ Port city (pop., 2020: 198,590) in northeastern [[Scotland]], the country's thir
 HEADWORD: Abidjan = 아비장
 LEVEL: 4
 GLOSSARY:
-  Abidjan = 아비장
   Africa = 아프리카
   Canal = 운하
   Coast = 해안
@@ -650,7 +637,6 @@ GLOSSARY:
   John Quincy Adams = 존 퀸시 애덤스
   Philadelphia = 필라델피아
   Revolutionary War = 독립 전쟁
-  Siena = 시에나
   Siena College = 시에나 칼리지
   United States = 미국
   first lady = 영부인
@@ -670,7 +656,6 @@ GLOSSARY:
   Hydrothermal vent = 열수 분출공
   LUCA = LUCA
   Last universal common ancestor = 모든 생물의 공통 조상
-  Life = 『라이프』
   Organic compound = 유기 화합물
   RNA = RNA
   RNA world = RNA 세계
@@ -704,13 +689,11 @@ GLOSSARY:
   Abkhazia = 압하지야
   Black = 검은색
   Black Sea = 흑해
-  Following = 「미행」
   Georgia (country) = 조지아
   Georgian Soviet Socialist Republic = 그루지야 소비에트 사회주의 공화국
   Georgians = 조지아인
   Nicaragua = 니카라과
   Russia = 러시아
-  Russian = 러시아어
   Russo-Georgian War = 러시아-조지아 전쟁
   Socialist = 사회당
   Soviet Union = 소련
@@ -727,7 +710,6 @@ Partially recognized state on the eastern coast of the [[Black Sea]], internatio
 HEADWORD: Ableism = 비장애중심주의
 LEVEL: 4
 GLOSSARY:
-  Ableism = 비장애 중심주의
   Discrimination = 차별
   Eugenics = 우생학
   Mental disorder = 정신 질환
@@ -783,7 +765,6 @@ Indigenous peoples of the Australian mainland and many of its islands, excluding
 HEADWORD: Abortion = 낙태
 LEVEL: 3
 GLOSSARY:
-  Abortion = 임신 중절
   Ancient Egypt = 고대 이집트
   Angkor = 앙코르
   Angkor Wat = 앙코르 와트
@@ -827,7 +808,6 @@ GLOSSARY:
   Confederate = 남부 연합
   Confederate States = 아메리카 연합국
   Confederate forces = 남부 연합군
-  Douglas = 더글러스
   Emancipation Proclamation = 노예 해방 선언
   Ex parte Merryman = 「메리먼 사건」
   Ford's Theatre = 포드 극장
@@ -923,7 +903,6 @@ GLOSSARY:
   Lot = 롯
   Mecca = 메카
   Muhammad = 무함마드
-  Patriarch = 총대주교
   Persian = 페르시아어
   Persian period = 페르시아 시대
   Quran = 쿠란

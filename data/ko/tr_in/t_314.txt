@@ -57,7 +57,6 @@ GLOSSARY:
   Cloud = 구름
   Cloud computing = 클라우드 컴퓨팅
   Compiler = 컴파일러
-  Computer = 컴퓨터
   Fortran = 포트란
   Internet = 인터넷
   John = 존
@@ -76,7 +75,6 @@ Computer programs and related design documents and specifications. Software is g
 HEADWORD: Software engineering = 소프트웨어 공학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Carnegie Mellon University = 카네기 멜런 대학교
   Computer science = 컴퓨터 과학
   Engineering = 공학
@@ -103,7 +101,6 @@ GLOSSARY:
   Göttingen = 괴팅겐
   Mechanics = 역학
   Partial differential equation = 편미분 방정식
-  Russian = 러시아어
   Stockholm = 스톡홀름
   University = 대학
   University of Göttingen = 괴팅겐 대학교
@@ -233,7 +230,6 @@ GLOSSARY:
   Greenhouse gas = 온실가스
   Natural resource = 천연자원
   Remote sensing = 원격 탐사
-  Research = 연구
   Soil = 토양
   Soil fertility = 토양 비옥도
   Soil formation = 토양 생성
@@ -293,7 +289,6 @@ GLOSSARY:
   Niger = 니제르
   Nigeria = 나이지리아
   Sultanate of Sokoto = 소코토 술탄국
-  Sunni = 수니파
   Sunni Muslim = 수니파 무슬림
   Usman dan Fodio = 우스만 단 포디오
   West Africa = 서아프리카
@@ -309,7 +304,6 @@ GLOSSARY:
   Antarctica = 남극 대륙
   Capsaicin = 캡사이신
   Capsicum = 고추속
-  Family = 가족
   Nicotine = 니코틴
   Solanales = 가지목
   Solanoideae = 가지아과
@@ -578,12 +572,9 @@ LEVEL: 4
 GLOSSARY:
   Alloy = 합금
   Brass = 황동
-  Copper = 구리
   Mesopotamia = 메소포타미아
-  PCBs = 폴리염화바이페닐(PCB)
   Plumbing = 배관
   Printed circuit board = 인쇄 회로 기판
-  Soldering = 납땜
   Stainless steel = 스테인리스강
   lead-free solder = 무연 땜납
   solder = 땜납
@@ -678,13 +669,11 @@ HEADWORD: Solid mechanics = 고체 역학
 LEVEL: 4
 GLOSSARY:
   Aerospace engineering = 항공우주공학
-  Branch = 브랜치
   Composite material = 복합 재료
   Continuum mechanics = 연속체 역학
   Euler = 오일러
   Force = 힘
   Materials science = 재료 과학
-  Solid = 고체
   Tensor = 텐서
   continuum mechanics = 연속체 역학
   finite element method = 유한 요소법
@@ -699,7 +688,6 @@ HEADWORD: Solid-state drive = 솔리드 스테이트 드라이브
 LEVEL: 4
 GLOSSARY:
   Bit = 비트
-  Computer = 컴퓨터
   Hard disk drive = 하드 디스크 드라이브
   Integrated circuit = 집적 회로
   Mobile device = 모바일 기기
@@ -722,7 +710,6 @@ HEADWORD: Solid-state physics = 고체 물리학
 LEVEL: 4
 GLOSSARY:
   American Physical Society = 미국 물리학회
-  Branch = 브랜치
   Condensed matter physics = 응집 물질 물리학
   Covalent bond = 공유 결합
   Crystal = 결정
@@ -758,7 +745,6 @@ GLOSSARY:
   Eurasia = 유라시아
   Europe = 유럽
   Flowering plant = 속씨식물
-  Genus = 속
   Mexico = 멕시코
   North America = 북아메리카
   Seed = 씨앗
@@ -821,7 +807,6 @@ GLOSSARY:
   Cartesian skepticism = 데카르트적 회의주의
   Descartes = 데카르트
   Epistemological solipsism = 인식론적 유아론
-  Knowledge = 지식
   Metaphysical solipsism = 형이상학적 유아론
   Methodological solipsism = 방법론적 유아론
   Mind = 마음
@@ -928,10 +913,8 @@ GLOSSARY:
   Alloy = 합금
   Bronze = 청동
   Ethanol = 에탄올
-  Hydrogen = 수소
   IUPAC = 국제 순수·응용 화학 연합
   Mixture = 혼합물
-  Solid = 고체
   Steel = 강철
   Water = 물
   miscible = 혼화성

@@ -86,9 +86,7 @@ GLOSSARY:
   Daic = 다이어족
   Ethnologue = 에스놀로그
   India = 인도
-  James = 야고보
   James R. Chamberlain = 제임스 R. 체임벌린
-  Language = 언어
   Language family = 어족
   Lao = 라오어
   Laos = 라오스
@@ -110,11 +108,9 @@ GLOSSARY:
   Computer World = 『컴퓨터 월드』
   Düsseldorf = 뒤셀도르프
   Florian Schneider = 플로리안 슈나이더
-  German = 독일어
   Grammy = 그래미상
   Grammy Lifetime Achievement Award = 그래미 평생 공로상
   Hip-hop = 힙합
-  Kraftwerk = 크라프트베르크
   Lifetime Achievement Award = 평생공로상
   Ralf Hütter = 랄프 휘터
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
@@ -137,7 +133,6 @@ HEADWORD: Kraków = 크라쿠프
 LEVEL: 4
 GLOSSARY:
   Auschwitz = 아우슈비츠
-  City = 도시
   Commonwealth = 영연방
   General Government = 폴란드 총독부
   Ghetto = 게토
@@ -174,7 +169,6 @@ GLOSSARY:
   Alice Springs = 앨리스스프링스
   Anak Krakatau = 아낙크라카타우
   Australia = 오스트레일리아
-  Child = 어린이
   Indonesia = 인도네시아
   Java = 자와섬
   Krakatoa = 크라카타우
@@ -275,7 +269,6 @@ GLOSSARY:
   Russia = 러시아
   Russian = 러시아어
   Russian Federation = 러시아 연방
-  Saint = 성인
   Saint Basil's Cathedral = 성 바실리 대성당
   Soviet Union = 소련
   Square = 정사각형
@@ -295,7 +288,6 @@ GLOSSARY:
   Blue whale = 대왕고래
   Crustacean = 갑각류
   Euphausiacea = 난바다곤쟁이목
-  Krill = 크릴
   Norwegian = 노르웨이어
   Penguin = 펭귄
   Seabird = 바닷새
@@ -322,7 +314,6 @@ GLOSSARY:
   Pat Garrett = 팻 개릿
   Pat Garrett and Billy the Kid = 「관계의 종말」
   Sam Peckinpah = 샘 페킨파
-  Sunday = 일요일
   Sunday Mornin' Comin' Down = 「Sunday Mornin' Comin' Down」
   Texas = 텍사스주
   The Last Movie = 「라스트 무비」
@@ -349,7 +340,6 @@ GLOSSARY:
   Mahabaleshwar = 마하발레슈와르
   Maharashtra = 마하라슈트라주
   Malaprabha = 말라프라바강
-  River = 강
   Telangana = 텔랑가나주
   Tungabhadra = 퉁가바드라강
   Western Ghats = 서고츠산맥
@@ -486,7 +476,6 @@ GLOSSARY:
   Morris Travers = 모리스 트래버스
   Noble gas = 비활성 기체
   Ramsay = 램지
-  Scottish = 스코틀랜드
   William = 윌리엄
   William Ramsay = 윌리엄 램지
   fluorescent lamps = 형광등
@@ -563,8 +552,6 @@ GLOSSARY:
   Java = 자와섬
   Khagan = 카간
   Korea = 한국
-  Kublai = 쿠빌라이
-  Mongol = 몽골
   Mongolia = 몽골
   Möngke = 뭉케
   Siberia = 시베리아
@@ -708,7 +695,6 @@ HEADWORD: Kumbh Mela = 쿰브 멜라
 LEVEL: 4
 GLOSSARY:
   Haridwar = 하리드와르
-  Hindus = 힌두교도
   India = 인도
   Intangible Cultural Heritage = 무형 문화유산
   Intangible Cultural Heritage of Humanity = 인류무형문화유산
@@ -717,7 +703,6 @@ GLOSSARY:
   Moon = 달
   Nashik = 나시크
   Pilgrimage = 순례
-  Pilgrims = 필그림
   Prayag = 프라야그
   Prayagraj = 프라야그라지
   Representative List = 인류무형문화유산 대표목록
@@ -744,7 +729,6 @@ GLOSSARY:
   Citrus japonica = Citrus japonica
   Fortunella = 금감속
   Japan = 일본
-  Recent = 현세
   Southeast = 남동부
   Southeast Asia = 동남아시아
   Vitamin C = 비타민 C
@@ -763,7 +747,6 @@ GLOSSARY:
   Kunlun = 곤륜산
   Kunlun Goddess Peak = 쿤룬 여신봉
   Kunlun Volcanic Group = 쿤룬 화산군
-  Mountain = 산
   Mountain range = 산맥
   Pamir = 파미르
   Plateau = 고원
@@ -790,7 +773,6 @@ GLOSSARY:
   Burma = 버마
   Burma Road = 버마 공로
   China = 중국
-  City = 도시
   City of Eternal Spring = 춘성
   Flying Tigers = 플라잉 타이거스
   French = 프랑스어
@@ -824,7 +806,6 @@ GLOSSARY:
   Honolulu = 호놀룰루
   Legislative Yuan = 입법원
   Ma Ying-jeou = 마잉주
-  Martial = 마르티알리스
   Martial law = 계엄령
   Pan-Blue Coalition = 범람 연맹
   Party = 파티

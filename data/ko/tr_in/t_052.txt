@@ -67,7 +67,6 @@ GLOSSARY:
   Space Trilogy = 『우주 3부작』
   The Chronicles of Narnia = 『나니아 연대기』
   The Screwtape Letters = 『스크루테이프의 편지』
-  Tolkien = 톨킨
   University of Oxford = 옥스퍼드 대학교
   Westminster = 웨스트민스터
   Westminster Abbey = 웨스트민스터 사원
@@ -187,7 +186,6 @@ LEVEL: 4
 GLOSSARY:
   Argentina = 아르헨티나
   Buenos Aires = 부에노스아이레스
-  City = 도시
   Colegio Máximo = 콜레히오 막시모
   Cordobazo = 코르도바소
   Córdoba = 코르도바
@@ -241,7 +239,6 @@ GLOSSARY:
   Brassica oleracea = Brassica oleracea
   Brassicaceae = 십자화과
   Broccoli = 브로콜리
-  Cabbage = 양배추
   Cauliflower = 콜리플라워
   China = 중국
   Europe = 유럽
@@ -336,7 +333,6 @@ GLOSSARY:
   Pachycereus pringlei = Pachycereus pringlei
   Patagonia = 파타고니아
   Photosynthesis = 광합성
-  Plant = 식물
   Sri Lanka = 스리랑카
   Transpiration = 증산 작용
   areoles = 가시자리
@@ -368,7 +364,6 @@ British multinational confectionery company, headquartered in [[Buckinghamshire]
 HEADWORD: Cadmium = 카드뮴
 LEVEL: 4
 GLOSSARY:
-  Cadmium = 카드뮴
   Chemical element = 화학 원소
   Earth's crust = 지각
   Germany = 독일
@@ -406,7 +401,6 @@ GLOSSARY:
   Nematode = 선충
   Neuron = 뉴런
   Nobel Prizes = 노벨상
-  Sydney = 시드니
   Sydney Brenner = 시드니 브레너
   connectome = 커넥톰
   developmental biology = 발생생물학
@@ -434,7 +428,6 @@ LEVEL: 5
 GLOSSARY:
   Caesar Cardini = 시저 카르디니
   Child = 어린이
-  Green = 초록색
   Julia Child = 줄리아 차일드
   Julius Caesar = 율리우스 카이사르
   Lemon = 레몬
@@ -634,7 +627,6 @@ GLOSSARY:
   Caliphate = 칼리파국
   Citadel = 아르빌 성채
   Citadel of Saladin = 살라딘 성채
-  City = 도시
   Egypt = 이집트
   Fatimid = 파티마 왕조
   Fatimid Caliphate = 파티마 칼리파국
@@ -756,7 +748,6 @@ GLOSSARY:
   Calcite = 방해석
   Calcium = 칼슘
   Calcium carbonate = 탄산 칼슘
-  Carbonate = 탄산염
   Limestone = 석회암
   Mohs scale = 모스 굳기계
   aragonite = 아라고나이트
@@ -828,7 +819,6 @@ Inorganic salt (CaCl₂), a white crystalline solid that is highly soluble in wa
 HEADWORD: Calcium hydroxide = 수산화 칼슘
 LEVEL: 5
 GLOSSARY:
-  Calcium = 칼슘
   Calcium hydroxide = 수산화 칼슘
   Calcium oxide = 산화 칼슘
   Inorganic compound = 무기 화합물

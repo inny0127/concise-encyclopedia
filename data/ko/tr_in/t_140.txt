@@ -48,7 +48,6 @@ GLOSSARY:
   Guinea-Conakry = 기니코나크리
   Liberia = 라이베리아
   Mali = 말리
-  Muslims = 무슬림
   Ocean = 대양
   Republic of Guinea = 기니 공화국
   West Africa = 서아프리카
@@ -67,7 +66,6 @@ GLOSSARY:
   Guinea-Bissau = 기니비사우
   Guinea-Bissau Creole = 기니비사우 크리올어
   Horta Inta-A Na Man = 오르타 인타아 나 만
-  Independence = 인디펜던스
   Islam = 이슬람교
   Kaabu = 카부 왕국
   Mali = 말리
@@ -85,7 +83,6 @@ HEADWORD: Guinea fowl = 뿔닭
 LEVEL: 4
 GLOSSARY:
   Cracidae = 봉관조과
-  Family = 가족
   Fly = 파리
   Galliformes = 닭목
   Guinea = 기니
@@ -106,7 +103,6 @@ HEADWORD: Guinea pig = 기니피그
 LEVEL: 4
 GLOSSARY:
   Andes = 안데스산맥
-  Animal = 동물
   Cavia porcellus = Cavia porcellus
   Europe = 유럽
   Laboratory = 실험실
@@ -134,7 +130,6 @@ GLOSSARY:
   London = 런던
   Norris and Ross McWhirter = 노리스 맥허터와 로스 맥허터
   The Guinness Book of Records = 『기네스북』
-  Twin = 쌍둥이
 ENTRY:
 British reference book listing world records of human achievements and the extremes of the natural world. Launched in 1955 as *The Guinness Book of Records*, it was conceived by Sir Hugh Beaver to settle pub debates. Twin brothers Norris and Ross McWhirter co-founded it in London. It is published annually in 100 countries and 40 languages and maintains over 53,000 records. Owned by the Jim Pattison Group since 2008, the franchise has shifted its business away from selling books and toward creating records as publicity for individuals and organizations, a practice that has attracted criticism.
 
@@ -148,7 +143,6 @@ GLOSSARY:
   Dublin = 더블린
   Guinness = 기네스
   Ireland = 아일랜드
-  Irish = 아일랜드어
   Nitrogen = 질소
   St. James's Gate Brewery = 세인트제임스 게이트 양조장
   Trinity = 삼위일체
@@ -171,7 +165,6 @@ GLOSSARY:
   Punk rock = 펑크 록
   Renaissance = 르네상스
   Rock music = 록 음악
-  Steel = 강철
   United States = 미국
   World = 세계
   World War II = 제2차 세계 대전
@@ -249,11 +242,9 @@ Indo-Aryan language native to the Indian state of [[Gujarat]]. It evolved from [
 HEADWORD: Gujranwala = 구지란왈라
 LEVEL: 4
 GLOSSARY:
-  City = 도시
   Faisalabad = 파이살라바드
   Golden Triangle = 황금 삼각지대
   Gujjars = 구자르족
-  Gujranwala = 구즈란왈라
   Gujrat = 구지라트
   Karachi = 카라치
   Lahore = 라호르
@@ -587,7 +578,6 @@ GLOSSARY:
   European herring gull = 유럽재갈매기
   Goldfish = 금붕어
   Larinae = 갈매기아과
-  Seabird = 바닷새
   Tern = 제비갈매기
   herring gull = 재갈매기
   kleptoparasitism = 절취 기생
@@ -658,7 +648,6 @@ GLOSSARY:
   Gunpowder = 화약
   Hunting = 사냥
   Military = 군대
-  Solid = 고체
   Tasers = 테이저건
   Windsor = 윈저
   Windsor Castle = 윈저성
@@ -693,7 +682,6 @@ Hunting dog developed to find and retrieve game, typically fowl shot in flight. 
 HEADWORD: Gundam = 건담
 LEVEL: 5
 GLOSSARY:
-  Bandai = 반다이
   Bandai Namco Holdings = 반다이 남코 홀딩스
   Film = 영화
   Gunpla = 건프라
@@ -739,11 +727,9 @@ GLOSSARY:
   Artillery = 포병
   Charcoal = 숯
   China = 중국
-  Combustion = 연소
   Dynamite = 다이너마이트
   Firearm = 화기
   Gunpowder = 화약
-  Mixture = 혼합물
   Potassium nitrate = 질산 칼륨
   Song dynasty = 송나라
   Sulfur = 황
@@ -776,7 +762,6 @@ HEADWORD: Gunpowder Plot = 화약 음모 사건
 LEVEL: 5
 GLOSSARY:
   Bonfire Night = 본파이어 나이트
-  Eight = 「에잇」
   England = 잉글랜드
   Gunpowder = 화약
   Guy Fawkes = 가이 포크스
@@ -853,7 +838,6 @@ GLOSSARY:
   Alchon Huns = 알콘 훈족
   Allahabad = 알라하바드
   Allahabad Pillar = 알라하바드 석주
-  Architecture = 건축
   Aryabhata = 아리아바타
   Asia = 아시아
   Bengal = 벵골
@@ -940,7 +924,6 @@ GLOSSARY:
   Punjabi = 펀자브어
   Sikhism = 시크교
   Sikhs = 시크교도
-  Warrior = 『워리어』
   articles of faith = 신앙 조항
 ENTRY:
 Tenth and last human [[Sikhism|Sikh]] guru (1675–1708). Warrior, poet, and philosopher. In 1675, at the age of nine, he was made leader of the Sikhs after his father, Guru Tegh Bahadur, was executed by the emperor [[Aurangzeb]]. Born Gobind Das in [[Patna]], [[Bihar]], he founded the Khalsa, a Sikh warrior community, in 1699, and introduced the Five Ks, the articles of faith worn by Khalsa Sikhs. He is credited with the Dasam Granth, and he finalized the [[Guru Granth Sahib]] as the eternal Guru. He wrote the Chandi di Var in Punjabi in 1684 and founded Paonta Sahib in 1685 and Damdama Sahib in 1705. Two of his four sons died in battle, and two were executed by a Mughal administrator.

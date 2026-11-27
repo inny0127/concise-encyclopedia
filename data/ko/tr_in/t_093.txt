@@ -9,7 +9,6 @@ GLOSSARY:
   Fancy diving = 팬시 다이빙
   Germany = 독일
   Olympic Games = 올림픽
-  Sport = 스포츠
   Sweden = 스웨덴
   Swimming = 수영
   highboard diving = 하이보드 다이빙
@@ -50,7 +49,6 @@ LEVEL: 4
 GLOSSARY:
   Australia = 오스트레일리아
   City = 도시
-  Divorce = 이혼
   Finland = 핀란드
   Marriage = 혼인
   Monogamy = 일부일처제
@@ -79,14 +77,11 @@ GLOSSARY:
   Ashvin = 아슈빈
   Bandi Chhor Divas = 반디 초르 디바스
   Dharma = 다르마
-  Diwali = 디왈리
   Fiji = 피지
   Guru Hargobind = 구루 하르고빈드
   Guyana = 가이아나
-  Hindus = 힌두교도
   India = 인도
   Jainism = 자이나교
-  Jains = 자이나교도
   Kartika = 카르티카
   Lakshmi = 락슈미
   Lakshmi Puja = 락슈미 푸자
@@ -159,7 +154,6 @@ GLOSSARY:
   Eritrea = 에리트레아
   Ethiopia = 에티오피아
   France = 프랑스
-  French = 프랑스어
   Gulf of Aden = 아덴만
   Horn of Africa = 아프리카의 뿔
   IGAD = IGAD
@@ -303,7 +297,6 @@ LEVEL: 4
 GLOSSARY:
   Catherine = 예카테리나 1세
   Catherine the Great = 예카테리나 2세
-  City = 도시
   Cossack = 코사크
   Dnipro River = 드니프로강
   Dnipropetrovsk = 드니프로페트로우시크
@@ -477,7 +470,6 @@ GLOSSARY:
   Golden ratio = 황금비
   Plato = 플라톤
   Platonic solid = 정다면체
-  Polyhedron = 다면체
   Pyrite = 황철석
   dual = 쌍대
   pentagonal = 오각형
@@ -492,9 +484,7 @@ HEADWORD: Dodo = 도도
 LEVEL: 4
 GLOSSARY:
   Alice's Adventures in Wonderland = 『이상한 나라의 앨리스』
-  Dutch = 네덜란드어
   Extinction = 멸종
-  Hunting = 사냥
   Invasive species = 침입종
   Mauritius = 모리셔스
   Nicobar pigeon = 니코바비둘기
@@ -544,7 +534,6 @@ GLOSSARY:
   Bank = 은행
   Dogger Bank = 도거뱅크
   Europe = 유럽
-  Fishing = 어업
   Great Britain = 그레이트브리튼섬
   Holocene = 홀로세
   Mesolithic = 중석기 시대
@@ -631,7 +620,6 @@ GLOSSARY:
   Library = 도서관
   Literacy = 문해력
   Love = 사랑
-  Queen = 퀸
   Queen of Country = 컨트리의 여왕
   Steel = 강철
   Steel Magnolias = 「철목련」
@@ -644,7 +632,6 @@ LEVEL: 5
 GLOSSARY:
   Dolly = 『돌리』
   Dolly Parton = 돌리 파턴
-  Female = 암컷
   Finn-Dorset = 핀도싯
   Museum = 박물관
   National Museum of Scotland = 스코틀랜드 국립 박물관
@@ -668,7 +655,6 @@ GLOSSARY:
   Italy = 이탈리아
   Limestone = 석회암
   Marmolada = 마르몰라다산
-  Mountain = 산
   Mountain range = 산맥
   Mountaineering = 등산
   Skiing = 스키
@@ -765,7 +751,6 @@ GLOSSARY:
   Byzantine = 비잔티움
   Byzantine architecture = 비잔틴 건축
   Chinese architecture = 중국 건축
-  Dome = 돔
   Europe = 유럽
   Filippo Brunelleschi = 필리포 브루넬레스키
   Florence = 피렌체
@@ -819,7 +804,6 @@ LEVEL: 4
 GLOSSARY:
   Aztecs = 아스테카
   Canada = 캐나다
-  Domestication = 가축화
   England = 잉글랜드
   Europe = 유럽
   Intensive farming = 집약 농업
@@ -852,7 +836,6 @@ GLOSSARY:
   Intimate relationship = 친밀한 관계
   Office = 성무일도
   Post-traumatic stress disorder = 외상 후 스트레스 장애
-  Violence = 폭력
   World = 세계
   World Health Organization = 세계 보건 기구
   coercive control = 강압적 통제
@@ -890,7 +873,6 @@ GLOSSARY:
   Barley = 보리
   China = 중국
   Dog = 개
-  Domestication = 가축화
   Domestication syndrome = 가축화 증후군
   Indigenous = 원주민
   Indigenous peoples = 원주민
@@ -898,7 +880,6 @@ GLOSSARY:
   Maize = 옥수수
   Melinda A. Zeder = 멀린다 A. 제더
   Middle East = 중동
-  Plant = 식물
   Rice = 벼
   Western honey bee = 양봉꿀벌
   Wheat = 밀
@@ -923,7 +904,6 @@ HEADWORD: Dominance and submission = 지배와 복종
 LEVEL: 5
 GLOSSARY:
   BDSM = BDSM
-  Physical = 「Physical」
   Sadomasochism = 사도마조히즘
   dominants = 지배자
   submissives = 복종자
@@ -938,7 +918,6 @@ GLOSSARY:
   BDSM = BDSM
   Erotic humiliation = 성적 굴욕
   Latin = 라틴어
-  Woman = 여성
   domina = 도미나
   femdom = 펨돔
   sexual orientation = 성적 지향

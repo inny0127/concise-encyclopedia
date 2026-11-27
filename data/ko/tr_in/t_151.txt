@@ -25,7 +25,6 @@ GLOSSARY:
   Indo-Aryan language = 인도아리아어
   Khalji = 할지 왕조
   Khariboli = 카리볼리 방언
-  Mahatma = 마하트마
   Mahatma Gandhi = 마하트마 간디
   Mandarin = 표준 중국어
   Meerut = 메러트
@@ -61,9 +60,7 @@ GLOSSARY:
   Bronx = 브롱크스
   City = 도시
   Disco = 디스코
-  Genre = 장르
   Houston = 휴스턴
-  Internet = 인터넷
   New York City = 뉴욕
   Rapping = 랩
   The Bronx = 브롱크스
@@ -159,7 +156,6 @@ GLOSSARY:
   Aristotle = 아리스토텔레스
   Democritus = 데모크리토스
   Ephesus = 에페소스
-  Father = 아버지
   Father of Medicine = 의학의 아버지
   Gorgias = 고르기아스
   Heraclides = 헤라클레이데스
@@ -196,7 +192,6 @@ The Hippocratic Corpus, a collection of about 60 treatises, summarized earlier m
 HEADWORD: Hippopotamus = 하마
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Cetacean = 고래류
   Hippopotamidae = 하마과
   Hippopotamus = 하마
@@ -211,7 +206,6 @@ Large semiaquatic mammal, *Hippopotamus amphibius*, native to [[Sub-Saharan Afri
 HEADWORD: Hiragana = 히라가나
 LEVEL: 5
 GLOSSARY:
-  Hiragana = 히라가나
   Japanese writing system = 일본어 표기 체계
   Kanji = 한자
   Katakana = 가타카나
@@ -265,7 +259,6 @@ GLOSSARY:
   Restoration = 왕정복고
   The Fifty-three Stations of the Tōkaidō = 「도카이도 53역참」
   Thirty-six Views of Mount Fuji = 「후가쿠 36경」
-  Ukiyo-e = 우키요에
   Views = 『뷰스』
   Vincent van Gogh = 빈센트 반 고흐
   bokashi = 보카시
@@ -347,7 +340,6 @@ HEADWORD: Historical fiction = 역사 소설
 LEVEL: 4
 GLOSSARY:
   Film = 영화
-  Genre = 장르
   Honoré de Balzac = 오노레 드 발자크
   Latin = 라틴어
   Latin literature = 라틴 문학
@@ -368,7 +360,6 @@ Genre of fiction in which an invented plot unfolds against real historical event
 HEADWORD: Historical linguistics = 역사 언어학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Comparative linguistics = 비교 언어학
   Etymology = 어원학
   Grimm's Law = 그림의 법칙
@@ -449,7 +440,6 @@ GLOSSARY:
   E. H. Carr = E. H. 카
   French = 프랑스어
   Greece = 그리스
-  History = 역사학
   History of Africa = 아프리카의 역사
   Holocaust = 홀로코스트
   Holocaust denial = 홀로코스트 부정
@@ -463,7 +453,6 @@ GLOSSARY:
   Postmodernism = 포스트모더니즘
   Pseudohistory = 유사역사학
   Source criticism = 사료 비판
-  Views = 『뷰스』
   Whig = 휘그당
   Whig historians = 휘그 사관 역사가
   histoire = 이스투아르
@@ -498,7 +487,6 @@ GLOSSARY:
   Game = 게임
   Great Game = 그레이트 게임
   Herat = 헤라트
-  Human = 인간
   India = 인도
   Kabul = 카불
   Kandahar = 칸다하르
@@ -536,7 +524,6 @@ GLOSSARY:
   East Africa = 동아프리카
   Egypt = 이집트
   Great Zimbabwe = 그레이트짐바브웨
-  Homo = 사람속
   Homo sapiens = 호모 사피엔스
   Horn of Africa = 아프리카의 뿔
   Indian Ocean = 인도양
@@ -546,7 +533,6 @@ GLOSSARY:
   Kongo = 콩고
   Kush = 쿠시
   Mali = 말리
-  Nationalism = 민족주의
   North Africa = 북아프리카
   Ocean = 대양
   Oral tradition = 구전
@@ -650,7 +636,6 @@ LEVEL: 4
 GLOSSARY:
   Argentina = 아르헨티나
   Argentine Republic = 아르헨티나 공화국
-  Human = 인간
   Human settlement = 취락
   Javier Milei = 하비에르 밀레이
   Juan Díaz de Solís = 후안 디아스 데 솔리스
@@ -686,10 +671,8 @@ GLOSSARY:
   Europe = 유럽
   Genghis Khan = 칭기즈 칸
   Greece = 그리스
-  Gunpowder = 화약
   Göbekli Tepe = 괴베클리 테페
   Harappa = 하라파
-  Hinduism = 힌두교
   India = 인도
   Indian religions = 인도계 종교
   Indus = 인더스강
@@ -746,13 +729,9 @@ GLOSSARY:
   Cold War = 냉전
   Commonwealth = 영연방
   Commonwealth of Australia = 오스트레일리아 연방
-  Disease = 질병
-  Dutch = 네덜란드어
   First Fleet = 제1함대
-  Gold = 금
   Gold rushes = 골드러시
   Holland = 홀란트
-  Human = 인간
   James = 야고보
   James Cook = 제임스 쿡
   Maritime Southeast Asia = 해양부 동남아시아
@@ -788,7 +767,6 @@ GLOSSARY:
   Industrial Revolution = 산업 혁명
   Islam = 이슬람교
   Khalji = 할지 왕조
-  Military = 군대
   Mughal = 무굴
   Mughal Empire = 무굴 제국
   Muhammad = 무함마드
@@ -811,11 +789,9 @@ GLOSSARY:
   Americas = 아메리카
   Brazil = 브라질
   Brazilian Miracle = 브라질의 기적
-  Democracy = 민주주의
   Empire of Brazil = 브라질 제국
   Emílio Garrastazu Médici = 에밀리우 가하스타주 메디시
   Getúlio Vargas = 제툴리우 바르가스
-  Indigenous = 원주민
   Miracle = 기적
   Pedro Álvares Cabral = 페드루 알바르스 카브랄
   Portugal = 포르투갈
@@ -869,9 +845,7 @@ GLOSSARY:
   Constitution = 헌법
   France = 프랑스
   French = 프랑스어
-  Indigenous = 원주민
   Indigenous peoples = 원주민
-  Jacques = 자크 퀴리
   Jacques Cartier = 자크 카르티에
   Labrador = 래브라도
   New Brunswick = 뉴브런즈윅주
@@ -914,7 +888,6 @@ GLOSSARY:
   Russian Revolution = 러시아 혁명
   Russian Revolution of 1917 = 1917년 러시아 혁명
   Soviet Union = 소련
-  Steppe = 스텝
   Tajikistan = 타지키스탄
   Turkmenistan = 투르크메니스탄
   Uzbekistan = 우즈베키스탄
@@ -1007,7 +980,6 @@ GLOSSARY:
   Gran Colombia = 그란콜롬비아
   Granada = 그라나다
   Incas = 잉카인
-  Independence = 인디펜던스
   Muisca = 무이스카족
   New Granada = 누에바그라나다
   Panama = 파나마
@@ -1030,7 +1002,6 @@ GLOSSARY:
   Cambrian = 캄브리아기
   Cambrian explosion = 캄브리아기 대폭발
   Cenozoic = 신생대
-  Earth = 지구
   Great Oxidation Event = 대산소화 사건
   Hadean = 명왕누대
   Mesozoic = 중생대
@@ -1127,7 +1098,6 @@ GLOSSARY:
   Christianity = 기독교
   Derg = 데르그
   Ezana = 에자나
-  Fascist = 파시스트
   Fascist Italy = 파시스트 이탈리아
   Haile Selassie = 하일레 셀라시에
   Horn of Africa = 아프리카의 뿔
@@ -1166,7 +1136,6 @@ GLOSSARY:
   Eastern Orthodox churches = 동방 정교회
   Eastern bloc = 동구권
   Emperor of the Romans = 로마인의 황제
-  Europe = 유럽
   European Union = 유럽 연합
   France = 프랑스
   Frankish = 프랑크
@@ -1199,7 +1168,6 @@ GLOSSARY:
   Umayyad conquest of Hispania = 우마이야 왕조의 히스파니아 정복
   Western Roman Emperor = 서로마 황제
   Western bloc = 서방 진영
-  World = 세계
   World War I = 제1차 세계 대전
   World War II = 제2차 세계 대전
   ancient Greece = 고대 그리스
@@ -1223,7 +1191,6 @@ GLOSSARY:
   Central Powers = 동맹국
   Charlemagne = 샤를마뉴
   Charles de Gaulle = 샤를 드골
-  Clovis = 클로비스
   Clovis I = 클로비스 1세
   Fifth Republic = 제5공화국
   Fourth Republic = 제4공화국

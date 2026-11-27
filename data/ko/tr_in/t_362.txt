@@ -41,7 +41,6 @@ GLOSSARY:
   Qin = 진나라
   Qin dynasty = 진나라
   Record of the Warring States = 『전국책』
-  Seven = 「세븐」
   Siege = 공성전
   Warring States = 전국 시대
   Zhou dynasty = 주나라
@@ -95,7 +94,6 @@ GLOSSARY:
   German = 독일어
   German reunification = 독일 재통일
   Germany = 독일
-  Military = 군대
   NATO = 북대서양 조약 기구
   Revolutions of 1989 = 1989년 혁명
   Romania = 루마니아
@@ -189,7 +187,6 @@ GLOSSARY:
   Peninsula = 반도
   Russian = 러시아어
   Russian Far East = 러시아 극동
-  Species = 종
   Sushi = 초밥
   chili peppers = 고추
   rhizome = 뿌리줄기
@@ -203,7 +200,6 @@ GLOSSARY:
   Detergent = 세제
   Hans Rosling = 한스 로슬링
   Industrial Revolution = 산업 혁명
-  Irish = 아일랜드어
   Mary Frances McDonald = 메리 프랜시스 맥도널드
   Swedish = 스웨덴어
   spin = 스핀
@@ -268,7 +264,6 @@ GLOSSARY:
   Bee = 벌
   Classical times = 고전 시대
   Horticulture = 원예
-  Insect = 곤충
   Jurassic = 쥐라기
   The Wasps = 『말벌』
   Whitefly = 가루이
@@ -419,7 +414,6 @@ GLOSSARY:
   Proto-Indo-European = 인도유럽조어
   Thermohaline circulation = 열염 순환
   Triple point = 삼중점
-  Water = 물
   Water cycle = 물의 순환
   deposition = 증착
   diamagnetic = 반자성
@@ -513,7 +507,6 @@ GLOSSARY:
   Protein = 단백질
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Water = 물
   Yangtze = 양쯔강
   Yangtze Valley = 양쯔강 유역
   river buffalo = 강물소
@@ -533,11 +526,9 @@ GLOSSARY:
   Deforestation = 삼림 벌채
   Earth = 지구
   Evaporation = 증발
-  Human = 인간
   Ocean = 대양
   Precipitation = 강수
   Urbanization = 도시화
-  Water = 물
   deposition = 증착
   erosion = 침식
   infiltration = 침투
@@ -555,14 +546,12 @@ Biogeochemical cycle of water movement on, above and below Earth's surface. Wate
 HEADWORD: Water pollution = 수질 오염
 LEVEL: 4
 GLOSSARY:
-  Control = 「Control」
   Drinking water = 식수
   Ecosystem = 생태계
   Irrigation = 관개
   Pathogen = 병원체
   Pesticide = 농약
   Point sources = 점오염원
-  Pollution = 오염
   Sewage treatment = 하수 처리
   non-point sources = 비점오염원
   stormwater = 빗물
@@ -600,7 +589,6 @@ GLOSSARY:
   Lake = 호수
   River = 강
   United States = 미국
-  Water = 물
   Water supply = 상수도
   chlorination = 염소 소독
 ENTRY:
@@ -615,7 +603,6 @@ GLOSSARY:
   Reservoir = 저수지
   Steam locomotive = 증기 기관차
   Steel = 강철
-  Water = 물
   hydrostatic pressure = 정수압
   prestressed concrete = 프리스트레스트 콘크리트
   service reservoirs = 배수지
@@ -635,8 +622,6 @@ GLOSSARY:
   Industrial Revolution = 산업 혁명
   Methane = 메탄
   Solar System = 태양계
-  Steam = 스팀
-  Water = 물
   Water vapor = 수증기
   convection currents = 대류
   greenhouse effect = 온실 효과
@@ -655,7 +640,6 @@ GLOSSARY:
   England = 잉글랜드
   Europe = 유럽
   Leather = 가죽
-  Painting = 회화
   Paleolithic = 구석기 시대
   Paper = 종이
   Papyrus = 파피루스
@@ -675,7 +659,6 @@ GLOSSARY:
   Ice shelf = 빙붕
   Iceberg = 빙산
   Species = 종
-  Waterfalls = 「Waterfalls」
   hanging valley = 현곡
   tabular iceberg = 탁상 빙산
 ENTRY:
@@ -708,7 +691,6 @@ GLOSSARY:
   China = 중국
   Cucurbitaceae = 박과
   Cultivar = 재배 품종
-  Dessert = 디저트
   Egypt = 이집트
   Flowering plant = 속씨식물
   Linnaeus = 린네
@@ -729,7 +711,6 @@ GLOSSARY:
   Philo of Byzantium = 비잔티움의 필론
   River = 강
   Textile = 직물
-  Tide = 조석
   Tide mills = 조력 방앗간
   Vitruvius = 비트루비우스
   breastshot = 흉사식
@@ -778,7 +759,6 @@ GLOSSARY:
   Siemens = 지멘스
   Volt = 볼트
   Watt = 와트
-  William = 윌리엄
   joule = 줄
   potential difference = 전위차
   steam engine = 증기 기관
@@ -797,7 +777,6 @@ GLOSSARY:
   Polarization (waves) = 편광
   Simple harmonic motion = 단순 조화 운동
   Sound = 소리
-  Wave = 파동
   X-rays = 엑스선
   classical physics = 고전 물리학
   electromagnetic wave = 전자기파
@@ -833,7 +812,6 @@ GLOSSARY:
   Laplacian = 라플라스 연산자
   Light = 빛
   Partial differential equation = 편미분 방정식
-  Physical = 「Physical」
   Superposition principle = 중첩 원리
   electromagnetic waves = 전자기파
   fluid dynamics = 유체 역학
@@ -897,7 +875,6 @@ GLOSSARY:
   Albert Einstein = 알베르트 아인슈타인
   Christiaan Huygens = 크리스티안 하위헌스
   Electron = 전자
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   J. J. Thomson = J. J. 톰슨
   Light = 빛

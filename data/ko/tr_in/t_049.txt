@@ -24,14 +24,12 @@ GLOSSARY:
   Breton people = 브르타뉴인
   Britannia = 브리타니아
   Britons = 브리튼인
-  Brittany = 브르타뉴
   Cairn of Barnenez = 바르네네즈 케른
   Celtic nations = 켈트 민족
   Cornish Britons = 콘월의 브리튼인
   France = 프랑스
   Kingdom of France = 프랑스 왕국
   Latin = 라틴어
-  Peninsula = 반도
   Roman Empire = 로마 제국
   Western Roman Empire = 서로마 제국
   duchy = 공국
@@ -46,7 +44,6 @@ GLOSSARY:
   Earth = 지구
   K2 = K2
   Karakoram = 카라코람산맥
-  Mountain = 산
   Pakistan = 파키스탄
   eight-thousanders = 8천 미터급 고봉
 ENTRY:
@@ -61,20 +58,17 @@ GLOSSARY:
   Broadcasting = 방송
   Cable television = 케이블 텔레비전
   Guglielmo Marconi = 굴리엘모 마르코니
-  John = 존
   John Logie Baird = 존 로지 베어드
   London = 런던
   Over-the-air = 무선
   Philo Farnsworth = 파일로 판즈워스
   Radio wave = 전파
-  Satellite = 인공위성
   Satellite broadcasting = 위성 방송
   Selfridges = 셀프리지스 백화점
   Stereo FM broadcasting = 스테레오 FM 방송
   United Kingdom = 영국
   United States = 미국
   Vacuum tube = 진공관
-  World = 세계
   World War I = 제1차 세계 대전
   amateur = 아마추어 무선
   cathode-ray tube = 음극선관
@@ -136,7 +130,6 @@ LEVEL: 4
 GLOSSARY:
   Brassica oleracea = Brassica oleracea
   Brassicaceae = 십자화과
-  Broccoli = 브로콜리
   Cauliflower = 콜리플라워
   Europe = 유럽
   Italica = 이탈리카
@@ -173,7 +166,6 @@ GLOSSARY:
   Jake = 제이크
   Jake Gyllenhaal = 제이크 질런홀
   Lion = 사자
-  Romantic = 낭만주의
   Venice = 베네치아
   Venice International Film Festival = 베네치아 국제 영화제
 ENTRY:
@@ -184,7 +176,6 @@ HEADWORD: Bromeliaceae = 파인애플과
 LEVEL: 4
 GLOSSARY:
   Americas = 아메리카
-  Family = 가족
   Guiana Shield = 기아나 순상지
   Pineapple = 파인애플
   Puya raimondii = 푸야 라이몬디
@@ -209,7 +200,6 @@ HEADWORD: Bromine = 브로민
 LEVEL: 4
 GLOSSARY:
   Antoine Jérôme Balard = 앙투안 제롬 발라르
-  Bromine = 브롬
   Carl Jacob Löwig = 카를 야코프 뢰비히
   Chemical element = 화학 원소
   Chlorine = 염소
@@ -237,9 +227,7 @@ GLOSSARY:
   COPD = 만성 폐쇄성 폐질환
   Chronic bronchitis = 만성 기관지염
   Chronic obstructive pulmonary disease = 만성 폐쇄성 폐질환
-  Inflammation = 염증
   Paracetamol = 파라세타몰
-  Tobacco = 담배
   Tobacco smoking = 흡연
   bronchi = 기관지
   bronchodilators = 기관지 확장제
@@ -406,7 +394,6 @@ GLOSSARY:
   Brooklyn Bridge = 브루클린 다리
   City = 도시
   Dutch = 네덜란드어
-  Jews = 유대인
   Kings = 킹스
   Kings County = 킹스 카운티
   Long Island = 롱아일랜드
@@ -426,11 +413,9 @@ LEVEL: 4
 GLOSSARY:
   Brooklyn = 브루클린
   City = 도시
-  Construction = 건설
   East River = 이스트강
   Emily = 에밀리
   Emily Warren Roebling = 에밀리 워런 로블링
-  John = 존
   John A. Roebling = 존 A. 로블링
   Manhattan = 맨해튼
   New York City = 뉴욕
@@ -449,7 +434,6 @@ LEVEL: 5
 GLOSSARY:
   Amsterdam = 암스테르담
   Cologne = 쾰른
-  Establishment = 기득권층
   Europe = 유럽
   Germany = 독일
   Netherlands = 네덜란드
@@ -528,12 +512,10 @@ HEADWORD: Brown algae = 갈조류
 LEVEL: 4
 GLOSSARY:
   Algae = 조류
-  Brown = 브라운
   Brown algae = 갈조류
   Carbon = 탄소
   Green algae = 녹조류
   Kelp = 켈프
-  Macrocystis = 마크로키스티스속
   Macrocystis pyrifera = Macrocystis pyrifera
   Northern Hemisphere = 북반구
   Phaeophyceae = 갈조강
@@ -599,11 +581,9 @@ Substellar object of 13 to 80 times the mass of [[Jupiter]], heavier than the la
 HEADWORD: Brown = 갈색
 LEVEL: 4
 GLOSSARY:
-  Brown = 브라운
   CMYK = CMYK
   Camouflage = 위장
   Color = 색
-  Leonardo = 레오나르도
   Leonardo da Vinci = 레오나르도 다빈치
   Magenta = 마젠타
   Orange (colour) = 주황색
@@ -661,7 +641,6 @@ Recluse spider with [[Venom|necrotic venom]], native to the central United State
 HEADWORD: Brownian motion = 브라운 운동
 LEVEL: 5
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Atom = 원자
   Brown = 브라운
@@ -686,7 +665,6 @@ GLOSSARY:
   Brown = 브라운
   Cameron County = 캐머런 카운티
   Charles Stillman = 찰스 스틸먼
-  City = 도시
   Civil War = 남북 전쟁
   Coast = 해안
   Fort Brown = 브라운 요새
@@ -727,7 +705,6 @@ GLOSSARY:
   Sharon Tate = 샤론 테이트
   Taoist = 도교
   The Big Boss = 「당산대형」
-  Time = 『타임』
   Time (magazine) = 『타임』
   Zen = 선
   brain edema = 뇌부종
@@ -783,12 +760,9 @@ LEVEL: 5
 GLOSSARY:
   Amsterdam = 암스테르담
   Belgium = 벨기에
-  Bruges = 브뤼허
-  City = 도시
   College of Europe = 유럽 대학
   Europe = 유럽
   Flanders = 플랑드르
-  Once = 『Once』
   Petersburg = 피터즈버그
   Saint = 성인
   Saint Petersburg = 상트페테르부르크
@@ -828,13 +802,11 @@ GLOSSARY:
   Asia = 아시아
   Borneo = 보르네오섬
   British protectorate = 영국 보호령
-  Brunei = 브루나이
   English common law = 영국 보통법
   Hassanal Bolkiah = 하사날 볼키아
   Islam = 이슬람교
   Islamic jurisprudence = 이슬람 법학
   Malay = 말레이어
-  Petroleum = 석유
   Sharia = 샤리아
   Southeast = 남동부
   Southeast Asia = 동남아시아
@@ -880,11 +852,9 @@ GLOSSARY:
   Cosmetics = 화장품
   Egypt = 이집트
   Hair = 털
-  Metal = 금속
   Nylon = 나일론
   Painting = 회화
   Polypropylene = 폴리프로필렌
-  Tool = 도구
   York = 요크
   ancient Egypt = 고대 이집트
   bristles = 솔털
@@ -933,7 +903,6 @@ GLOSSARY:
   Broccoli = 브로콜리
   Brussels = 브뤼셀
   Cabbage = 양배추
-  Cultivar = 재배 품종
   Cultivar group = 품종군
   Kale = 케일
   Vitamin C = 비타민 C

@@ -51,7 +51,6 @@ HEADWORD: King, Rodney = 킹, 로드니
 LEVEL: 5
 GLOSSARY:
   1992 Los Angeles riots = 1992년 로스앤젤레스 폭동
-  African-American = 아프리카계 미국인
   California = 캘리포니아주
   Los Angeles = 로스앤젤레스
   police brutality = 경찰 폭력
@@ -91,7 +90,6 @@ GLOSSARY:
   Dobbs v. Jackson Women's Health Organization = 「돕스 대 잭슨 여성 보건 기구 사건」
   Due Process Clause = 적법 절차 조항
   Fourteenth Amendment = 수정 헌법 제14조
-  Jane = 제인
   Jane Roe = 제인 로
   Norma McCorvey = 노마 매코비
   Texas = 텍사스주
@@ -222,7 +220,6 @@ LEVEL: 5
 GLOSSARY:
   Brown dwarf = 갈색 왜성
   Cassidy Ward = 캐시디 워드
-  Interstellar = 「인터스텔라」
   Milky Way = 우리은하
   Orion = 오리온
   Orion Nebula = 오리온성운
@@ -236,7 +233,6 @@ Interstellar object of planetary mass that is not gravitationally bound to any [
 HEADWORD: Rogue wave = 괴물파
 LEVEL: 5
 GLOSSARY:
-  Rogue = 로그
   Tsunami = 쓰나미
   freak wave = 기괴파
   significant wave height = 유의 파고
@@ -250,7 +246,6 @@ GLOSSARY:
   ADHD = 주의력 결핍 과잉 행동 장애
   Autism = 자폐증
   Dyslexia = 난독증
-  Game = 게임
   action role-playing = 액션 롤플레잉
   game master = 게임 마스터
   live action = 실사
@@ -302,7 +297,6 @@ GLOSSARY:
   Belgium = 벨기에
   England = 잉글랜드
   Henry Cort = 헨리 코트
-  Steam = 스팀
   Steel = 강철
   cold rolling = 냉간 압연
   hot rolling = 열간 압연
@@ -461,7 +455,6 @@ GLOSSARY:
   Roman art = 로마 미술
   Romans = 로마인
   Rome = 로마
-  Sculpture = 조각
 ENTRY:
 Art made in Ancient Rome and the territories of its Republic and Empire, including architecture, painting, sculpture and [[Mosaic|mosaic]] work. Sculpture was perhaps considered the highest form of art by Romans, and figure painting was also highly regarded. A very large body of sculpture survives from about the 1st century BC onward, but very little painting remains. Roman art is a creative pastiche that relied heavily on Greek models and also drew on Etruscan, native Italic and Egyptian visual culture. Many Roman sculptures known today are marble copies of Greek originals. Roman coins were an important means of propaganda and survive in enormous numbers.
 
@@ -495,7 +488,6 @@ GLOSSARY:
   Italic = 이탈리아계
   Metamorphoses = 『변신 이야기』
   Ovid = 오비디우스
-  Ritual = 의례
   Romans = 로마인
   Romanticism = 낭만주의
   Rome = 로마
@@ -534,7 +526,6 @@ GLOSSARY:
   Dictionary = 사전
   Latin = 라틴어
   Middle Ages = 중세
-  People = 『피플』
   Psychology = 심리학
   Romanus = Romanus
   aromantic = 무로맨틱
@@ -581,7 +572,6 @@ GLOSSARY:
   Moth = 나방
   North America = 북아메리카
   Pamela = 『파멜라』
-  Romance = 로망스어
   The Black Moth = 『검은 나방』
   The Flame and the Flower = 『불꽃과 꽃』
   United States = 미국
@@ -597,7 +587,6 @@ GLOSSARY:
   Asia = 아시아
   China = 중국
   Chinese literature = 중국 문학
-  Drawing = 인발
   East Asia = 동아시아
   English literature = 영문학
   Four Great Classic Novels = 4대 기서
@@ -644,7 +633,6 @@ GLOSSARY:
   Gothic = 고딕
   Insular art = 인슐러 미술
   Last Judgment = 최후의 심판
-  Romanesque = 로마네스크
   Romanesque art = 로마네스크 미술
   Scandinavia = 스칸디나비아
   Sicily = 시칠리아
@@ -781,7 +769,6 @@ GLOSSARY:
   Romanticism = 낭만주의
   Samuel Taylor Coleridge = 새뮤얼 테일러 콜리지
   Species = 종
-  Storm = 폭풍
   Sturm und Drang = 질풍노도
   The Sorrows of Young Werther = 『젊은 베르테르의 슬픔』
   William = 윌리엄
@@ -852,7 +839,6 @@ GLOSSARY:
   Arthur Brooke = 아서 브룩
   Hamlet = 『햄릿』
   History = 역사학
-  John = 존
   John Gielgud = 존 길구드
   Matteo Bandello = 마테오 반델로
   Mercutio = 머큐쇼
@@ -860,7 +846,6 @@ GLOSSARY:
   Paris = 파리
   Shakespeare = 셰익스피어
   Sonnet = 소네트
-  Tragedy = 비극
   William = 윌리엄
   William Shakespeare = 윌리엄 셰익스피어
   quarto = 4절판
@@ -876,7 +861,6 @@ GLOSSARY:
   Rome = 로마
   Romulus = 로물루스
   Tiber = 테베레강
-  Twin = 쌍둥이
   augury = 조점술
   she-wolf = 암늑대
 ENTRY:

@@ -107,7 +107,6 @@ GLOSSARY:
   Hearing = 청각
   Hearing loss = 난청
   Human = 인간
-  Infection = 감염
   Sound = 소리
   Tinnitus = 이명
   Vertebrate = 척추동물
@@ -168,7 +167,6 @@ LEVEL: 4
 GLOSSARY:
   Baikal seal = 바이칼물범
   Carnivora = 식육목
-  Family = 가족
   Italy = 이탈리아
   Mammal = 포유류
   Monachinae = 몽크물범아과
@@ -219,7 +217,6 @@ HEADWORD: Early childhood education = 유아 교육
 LEVEL: 4
 GLOSSARY:
   Africa = 아프리카
-  Branch = 브랜치
   Developmental Interaction Approach = 발달 상호작용 접근법
   Enlightenment = 계몽주의
   Erik Erikson = 에릭 에릭슨
@@ -297,7 +294,6 @@ GLOSSARY:
   American Revolution = 미국 독립 혁명
   Americas = 아메리카
   Atlantic slave trade = 대서양 노예 무역
-  Bentley = 벤틀리
   Catholic = 가톨릭
   Catholic Church = 가톨릭교회
   China = 중국
@@ -373,7 +369,6 @@ GLOSSARY:
   Germanic language = 게르만어
   Great Oxidation Event = 대산소화 사건
   Latin = 라틴어
-  Life = 『라이프』
   Middle English = 중세 영어
   Modern English = 현대 영어
   Moon = 달
@@ -384,8 +379,6 @@ GLOSSARY:
   Sun = 태양
   Terra = 테라
   Theia = 테이아
-  Third = 교향곡 제3번
-  Water = 물
   Water vapor = 수증기
   atmosphere = 대기권
   biosphere = 생물권
@@ -481,7 +474,6 @@ Magnetic field extending from [[Earth|Earth's]] interior into space, also called
 HEADWORD: Earth's mantle = 맨틀
 LEVEL: 4
 GLOSSARY:
-  Convection = 대류
   Crust (geology) = 지각
   Earth's crust = 지각
   Mid-ocean ridge = 중앙 해령
@@ -519,7 +511,6 @@ Path of [[Earth]] around the [[Sun]], an ellipse with the Earth–Sun barycenter
 HEADWORD: Earth's outer core = 외핵
 LEVEL: 4
 GLOSSARY:
-  Convection = 대류
   Earth's magnetic field = 지구 자기장
   Iron = 철
   Nickel = 니켈
@@ -557,7 +548,6 @@ GLOSSARY:
   Oceanography = 해양학
   Plate tectonics = 판 구조론
   Volcano = 화산
-  Water = 물
   Water vapor = 수증기
   acid rain = 산성비
   atmosphere = 대기권
@@ -724,7 +714,6 @@ GLOSSARY:
   Christianity = 기독교
   Classical Chinese = 한문
   Confucianism = 유교
-  Density = 밀도
   Earth = 지구
   East Asia = 동아시아
   Emperor Wu = 무제
@@ -1106,7 +1095,6 @@ GLOSSARY:
   Eastern Mediterranean = 동지중해
   Eastern Orthodox = 동방 정교회
   Eastern Orthodox Church = 동방 정교회
-  Family = 가족
   Hellenistic = 헬레니즘
   Latin = 라틴어
   Latin Church = 라틴 교회

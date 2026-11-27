@@ -103,7 +103,6 @@ GLOSSARY:
   North Africa = 북아프리카
   Oceania = 오세아니아
   Pig = 돼지
-  Species = 종
   Sus scrofa = Sus scrofa
   Wolf = 늑대
   least concern = 최소관심
@@ -118,7 +117,6 @@ Species of suid (*Sus scrofa*), also known as the wild swine. It is native to mu
 HEADWORD: Wild turkey = 야생칠면조
 LEVEL: 5
 GLOSSARY:
-  Adult = 성인
   Alaska = 알래스카주
   Domestic turkey = 칠면조
   Galliformes = 닭목
@@ -141,7 +139,6 @@ GLOSSARY:
   Connochaetes = Connochaetes
   East Africa = 동아프리카
   IUCN = 국제 자연 보전 연맹
-  Wildebeest = 누
   Zebra = 얼룩말
   big-game = 대형 수렵 동물
   black wildebeest = 흰꼬리누
@@ -161,11 +158,8 @@ GLOSSARY:
   Carbon dioxide = 이산화 탄소
   Climate change = 기후 변화
   Drought = 가뭄
-  Forest = 숲
-  Human = 인간
   Lightning = 번개
   United States = 미국
-  Wildfire = 산불
   climate feedback = 기후 되먹임
   controlled burns = 계획 연소
   greenhouse effect = 온실 효과
@@ -282,7 +276,6 @@ LEVEL: 4
 GLOSSARY:
   Consciousness = 의식
   Freud = 프로이트
-  German = 독일어
   James = 야고보
   Leipzig = 라이프치히
   Principles of Physiological Psychology = 『생리학적 심리학 원리』
@@ -398,7 +391,6 @@ GLOSSARY:
   Bear = 곰
   Bear Island = 베어섬
   China = 중국
-  Dutch = 네덜란드어
   Kara Sea = 카라해
   Mediterranean = 지중해
   Northeast = 북동부
@@ -560,7 +552,6 @@ GLOSSARY:
   De Magnete = 『자석에 대하여』
   Earth = 지구
   Elizabeth I = 엘리자베스 1세
-  Gilbert = 길버트 제도
   Magnetism = 자기
   Neo-Latin = 신라틴어
   Royal College of Physicians = 왕립 내과의사회
@@ -581,7 +572,6 @@ GLOSSARY:
   Blood = 혈액
   Cambridge = 케임브리지
   Colombo = 콜롬보
-  Harvey = 하비
   Heart = 심장
   Hospital = 병원
   Michael Servetus = 미겔 세르베투스
@@ -810,7 +800,6 @@ GLOSSARY:
   Experience = 「경험」
   Harvard = 하버드
   Harvard University = 하버드 대학교
-  James = 야고보
   John = 존
   John Dewey = 존 듀이
   Ludwig = 루트비히

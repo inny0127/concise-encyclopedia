@@ -23,16 +23,13 @@ GLOSSARY:
   Marko Marulić = 마르코 마룰리치
   Neuroscience = 신경과학
   Open Science Collaboration = 오픈 사이언스 협력단
-  Others = 아더
   Persia = 페르시아
   Psychologia Empirica = 『경험 심리학』
   Psychologia Rationalis = 『이성 심리학』
   Psychotherapy = 심리 치료
-  Research = 연구
   Steven Blankaart = 스테번 블랑카르트
   University = 대학
   University of Leipzig = 라이프치히 대학교
-  Watson = 왓슨
   Wilhelm = 빌헬름
   Wilhelm Wundt = 빌헬름 분트
   William = 윌리엄
@@ -56,12 +53,9 @@ The ancient civilizations of Egypt, Greece, China, India, and Persia all engaged
 HEADWORD: Psychopathy = 사이코패시
 LEVEL: 4
 GLOSSARY:
-  Canadian = 캐나다
   Criminology = 범죄학
   Diagnostic and Statistical Manual = 정신질환 진단 및 통계 편람
-  Hare = 산토끼
   Hervey M. Cleckley = 허비 M. 클레클리
-  Personality = 성격
   Psychopathy = 사이코패시
   Psychopathy Checklist = 사이코패시 체크리스트
   Psychosis = 정신증
@@ -134,7 +128,6 @@ LEVEL: 5
 GLOSSARY:
   Bavaria = 바이에른
   Cretaceous = 백악기
-  Genus = 속
   Germany = 독일
   Jurassic = 쥐라기
   Late Cretaceous = 후기 백악기
@@ -158,7 +151,6 @@ GLOSSARY:
   Australian bat lyssavirus = 오스트레일리아 박쥐 리사바이러스
   Crop = 작물
   East Africa = 동아프리카
-  Genus = 속
   Hendra virus = 헨드라 바이러스
   Megabat = 큰박쥐
   Nipah virus = 니파 바이러스
@@ -322,7 +314,6 @@ HEADWORD: Public = 공중
 LEVEL: 4
 GLOSSARY:
   Community = 공동체
-  James = 야고보
   John = 존
   John Dewey = 존 듀이
   Latin = 라틴어
@@ -361,7 +352,6 @@ GLOSSARY:
   Ludwig van Beethoven = 루트비히 판 베토벤
   Miguel de Cervantes = 미겔 데 세르반테스
   Newtonian physics = 뉴턴 역학
-  Rights = 인권
   Shakespeare = 셰익스피어
   United States = 미국
   William = 윌리엄
@@ -444,7 +434,6 @@ GLOSSARY:
   Japan = 일본
   North America = 북아메리카
   Train = 열차
-  Transport = 교통
   ancient Egypt = 고대 이집트
   cataract = 폭포
   rapid transit = 도시 철도
@@ -456,7 +445,6 @@ Transport made available for use by the general public, typically operating on f
 HEADWORD: Publishing = 출판
 LEVEL: 3
 GLOSSARY:
-  Book = 책
   Comic book = 만화책
   E-commerce = 전자 상거래
   Gutenberg = 구텐베르크
@@ -551,7 +539,6 @@ GLOSSARY:
   Congress = 의회
   Indigenous = 원주민
   Indigenous peoples = 원주민
-  Manufacturing = 제조업
   Miami = 마이애미
   Puerto Rico = 푸에르토리코
   Spain = 스페인
@@ -569,7 +556,6 @@ GLOSSARY:
   Atlantic puffin = 코뿔바다오리
   Auk = 바다오리과
   Fratercula = 코뿔바다오리속
-  Genus = 속
   Manx = 맨어
   Manx shearwaters = 맹크스슴새
   North Atlantic = 북대서양
@@ -612,7 +598,6 @@ GLOSSARY:
   Plutarch = 플루타르코스
   Rope = 밧줄
   Twelfth Dynasty = 제12왕조
-  Wheel = 바퀴
   ancient Egypt = 고대 이집트
   block and tackle = 복합 도르래
   compound pulleys = 복합 도르래
@@ -706,7 +691,6 @@ GLOSSARY:
   Galen = 갈레노스
   Heart = 심장
   Hemoglobin = 헤모글로빈
-  Pulse = 맥박
   Pulse oximeters = 맥박 산소 측정기
   Shock (circulatory) = 쇼크
   atrial fibrillation = 심방세동
@@ -729,7 +713,6 @@ GLOSSARY:
   Mexico = 멕시코
   New Mexico = 뉴멕시코주
   Oregon = 오리건주
-  Pumice = 부석
   Volcano = 화산
   aggregate = 골재
   pumicite = 부석 가루
@@ -769,7 +752,6 @@ GLOSSARY:
   Indigenous societies = 원주민 사회
   Maize = 옥수수
   Mesoamerica = 메소아메리카
-  Pumpkin = 호박
   Pumpkin pie = 호박 파이
   Thanksgiving = 추수감사절
   Three Sisters = 세 자매
@@ -797,7 +779,6 @@ GLOSSARY:
   Indonesia = 인도네시아
   Jan Carstenszoon = 얀 카르스텐스존
   Miocene = 마이오세
-  Mountain = 산
   New Guinea = 뉴기니섬
   Oceania = 오세아니아
   Pacific = 태평양
@@ -835,7 +816,6 @@ LEVEL: 4
 GLOSSARY:
   British East India Company = 영국 동인도 회사
   British Raj = 영국령 인도
-  City = 도시
   Company = 회사
   Deccan = 데칸
   Deccan Plateau = 데칸고원
@@ -872,7 +852,6 @@ GLOSSARY:
   Roman province = 로마 속주
   Roman province of Africa = 로마의 아프리카 속주
   Romans = 로마인
-  Rome = 로마
   Second = 초
   Second Punic War = 제2차 포에니 전쟁
   Sicily = 시칠리아

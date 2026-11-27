@@ -31,7 +31,6 @@ GLOSSARY:
   Aristotle = 아리스토텔레스
   Athenian = 아테네의
   Athenian democracy = 아테네 민주정
-  Genre = 장르
   Greece = 그리스
   Middle Ages = 중세
   Parody = 패러디
@@ -285,7 +284,6 @@ HEADWORD: Commodus = 콤모두스
 LEVEL: 5
 GLOSSARY:
   Colosseum = 콜로세움
-  Commodus = 콤모두스
   Five Emperors = 오제
   Gladiator = 검투사
   Marcus Aurelius = 마르쿠스 아우렐리우스
@@ -309,7 +307,6 @@ LEVEL: 5
 GLOSSARY:
   Anno Domini = 서기
   Bede = 베다
-  Calendar = 달력
   Dominus = 도미누스
   England = 잉글랜드
   Jesus = 예수
@@ -330,11 +327,9 @@ GLOSSARY:
   Coronavirus = 코로나바이러스
   Ibuprofen = 이부프로펜
   Influenza = 인플루엔자
-  People = 『피플』
   Pneumonia = 폐렴
   Rhinoviruses = 리노바이러스
   Vaccine = 백신
-  Well = 우물
   Zinc = 아연
   adenoviruses = 아데노바이러스
   larynx = 후두
@@ -357,7 +352,6 @@ HEADWORD: Common law = 보통법
 LEVEL: 4
 GLOSSARY:
   British Empire = 대영 제국
-  Commentaries = 『주해』
   Commentaries on the Laws of England = 『영국법 주해』
   Conquest = 정복
   England = 잉글랜드
@@ -460,7 +454,6 @@ GLOSSARY:
   China = 중국
   Colchis = 콜키스
   Dakota = 다코타족
-  Game = 게임
   Georgia = 조지아
   Georgia (country) = 조지아
   Japan = 일본
@@ -535,7 +528,6 @@ GLOSSARY:
   Epistemology = 인식론
   French = 프랑스어
   Latin = 라틴어
-  Thomas = 토머스
   Thomas Paine = 토머스 페인
   communis = 코무니스
   sensus communis = 공통 감각
@@ -620,7 +612,6 @@ LEVEL: 4
 GLOSSARY:
   Aegilops tauschii = Aegilops tauschii
   Barley = 보리
-  Bread = 빵
   Caspian = 카스피해
   Caucasus = 캅카스
   Cereal = 곡물
@@ -657,7 +648,6 @@ GLOSSARY:
   CIS Free Trade Area = 독립 국가 연합 자유 무역 지대
   Crimea = 크림반도
   Dissolution of the Soviet Union = 소련 해체
-  Eight = 「에잇」
   Eurasian = 유라시아판
   Eurasian Economic Union = 유라시아 경제 연합
   Georgia = 조지아
@@ -713,9 +703,7 @@ LEVEL: 2
 GLOSSARY:
   Body language = 몸짓 언어
   Broad = 브로드강
-  Claude = 클로드
   Claude Shannon = 클로드 섀넌
-  Communication = 의사소통
   Communicative competence = 의사소통 능력
   Human = 인간
   Latin = 라틴어
@@ -780,7 +768,6 @@ GLOSSARY:
   Asia = 아시아
   China = 중국
   Communist Manifesto = 『공산당 선언』
-  Communists = 공산당
   Cuba = 쿠바
   Dissolution of the Soviet Union = 소련 해체
   Eastern Europe = 동유럽
@@ -889,7 +876,6 @@ LEVEL: 4
 GLOSSARY:
   Algebraic geometry = 대수기하학
   Algebraic number theory = 대수적 수론
-  Branch = 브랜치
   Commutative ring = 가환환
   David Hilbert = 다비트 힐베르트
   Emmy = 에미상
@@ -926,7 +912,6 @@ Branch of algebra that studies [[Commutative ring|commutative rings]], their ide
 HEADWORD: Commutative property = 교환 법칙
 LEVEL: 4
 GLOSSARY:
-  Addition = 덧셈
   Complex number = 복소수
   Division (mathematics) = 나눗셈
   Elements = 『원론』
@@ -934,10 +919,8 @@ GLOSSARY:
   Field (mathematics) = 체
   Integer = 정수
   Matrix multiplication = 행렬 곱셈
-  Property = 재산
   Quaternion = 사원수
   Real number = 실수
-  Subtraction = 뺄셈
   binary operation = 이항 연산
   complex numbers = 복소수
   intersection = 교집합
@@ -956,7 +939,6 @@ GLOSSARY:
   Commutative algebra = 가환대수학
   Field (mathematics) = 체
   German = 독일어
-  Ring = 『링』
   Ring (mathematics) = 환
   Zahlen = Zahlen
   commutative ring = 가환환
@@ -984,7 +966,6 @@ GLOSSARY:
   Arab League = 아랍 연맹
   Arabic = 아랍어
   Comorian = 코모로어
-  Comoros = 코모로
   France = 프랑스
   French = 프랑스어
   Grande Comore = 그랑드코모르섬
@@ -1016,7 +997,6 @@ GLOSSARY:
   Optical disc = 광디스크
   Philips = 필립스
   Sony = 소니
-  Standard = 스탠더드
   phonograph record = 음반
 ENTRY:
 Digital [[Optical disc|optical disc]] format for audio and computer data. Co-developed by [[Philips]] and [[Sony]], the CD was first released in [[Japan]] in October 1982 and stores uncompressed stereo audio. Standard discs are 120 mm (4.7 in) across and hold up to 74 minutes of audio or about 650 MiB of data, later extended to 80 minutes or 700 MiB. By 1991 CDs had surpassed the phonograph record and [[Cassette tape|cassette tape]] in U.S. sales. By 2000 they held 92.3% of the U.S. music market. The rise of [[MP3]] files and streaming led to its decline from the mid-2000s.

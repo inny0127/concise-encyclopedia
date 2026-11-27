@@ -29,10 +29,8 @@ HEADWORD: Jinan = 지난
 LEVEL: 4
 GLOSSARY:
   China = 중국
-  City = 도시
   City of Springs = 샘의 도시
   Ji River = 제수
-  Jinan = 지난
   Longshan culture = 룽산 문화
   Nature = 『네이처』
   Nature Index = 네이처 인덱스
@@ -57,7 +55,6 @@ GLOSSARY:
   Scorpion = 전갈
   Semitic = 셈어
   Snake = 뱀
-  Supernatural = 초자연
   exorcism = 구마
   idolatry = 우상 숭배
   pre-Islamic Arabian religion = 이슬람 이전 아라비아 종교
@@ -98,7 +95,6 @@ GLOSSARY:
   20th Century Fox = 20세기 폭스
   Alexis Colby = 알렉시스 콜비
   American Horror Story = 「아메리칸 호러 스토리」
-  Apocalypse = 종말
   Best Actress = 여우주연상
   Dame = 데임
   Dynasty = 「다이너스티」
@@ -264,7 +260,6 @@ GLOSSARY:
   Charles VII = 샤를 7세
   Domrémy = 동레미
   France = 프랑스
-  French = 프랑스어
   Hundred Years' War = 백년 전쟁
   Michael (archangel) = 미카엘
   Orléans = 오를레앙
@@ -398,7 +393,6 @@ GLOSSARY:
   Martin Scorsese = 마틴 스코세이지
   Money = 화폐
   Money Monster = 「머니 몬스터」
-  Night = 『밤』
   Primetime Emmy = 프라임타임 에미상
   Primetime Emmy Award = 프라임타임 에미상
   Taxi = 「뉴욕 택시」
@@ -569,7 +563,6 @@ GLOSSARY:
   Ajax = 아약스
   Ballon d'Or = 발롱도르
   Barcelona = 바르셀로나
-  Dutch = 네덜란드어
   Eredivisie = 에레디비시
   European Cup = 유러피언컵
   European Cups = 유러피언컵
@@ -691,7 +684,6 @@ GLOSSARY:
   The Art of Fugue = 「푸가의 기법」
   The Musical Offering = 「음악의 헌정」
   The Well-Tempered Clavier = 「평균율 클라비어곡집」
-  Thomas = 토머스
   Thomaskantor = 토마스칸토르
   Thuringia = 튀링겐
   Toccata and Fugue in D minor = 「토카타와 푸가 D단조」
@@ -774,15 +766,12 @@ German polymath regarded as the most influential writer in the German language. 
 HEADWORD: Brahms, Johannes = 브람스, 요하네스
 LEVEL: 4
 GLOSSARY:
-  Arnold = 아르놀트
   Arnold Schoenberg = 아르놀트 쇤베르크
-  Brahms = 브람스
   Central Europe = 중부 유럽
   Chamber music = 실내악
   Clara Schumann = 클라라 슈만
   Europe = 유럽
   Franz Liszt = 프란츠 리스트
-  German = 독일어
   Gesellschaft der Musikfreunde = 빈 악우협회
   Hamburg = 함부르크
   Joseph Joachim = 요제프 요아힘
@@ -805,7 +794,6 @@ HEADWORD: Waals, Johannes Diderik van der = 판데르발스, 요하너스 디데
 LEVEL: 4
 GLOSSARY:
   Amsterdam = 암스테르담
-  Dutch = 네덜란드어
   Heike Kamerlingh Onnes = 헤이커 카메를링 오너스
   Molecule = 분자
   Nobel Prize = 노벨상
@@ -833,7 +821,6 @@ GLOSSARY:
   Bible = 성경
   East Asia = 동아시아
   Europe = 유럽
-  German = 독일어
   Gutenberg = 구텐베르크
   Gutenberg Bible = 구텐베르크 성경
   Gutenberg Museum = 구텐베르크 박물관
@@ -877,9 +864,7 @@ LEVEL: 4
 GLOSSARY:
   Astronomia nova = 『신천문학』
   Astronomiae Pars Optica = 『천문학의 광학』
-  German = 독일어
   Harmonices Mundi = 『우주의 조화』
-  Kepler = 케플러
   Mars = 화성
   Prague = 프라하
   Scientific Revolution = 과학 혁명
@@ -924,8 +909,6 @@ GLOSSARY:
   Court = 법원
   Desmond Tutu = 데즈먼드 투투
   Gauteng = 하우텡주
-  Johannesburg = 요하네스버그
-  Nelson = 넬슨
   Nelson Mandela = 넬슨 만델라
   Sandton = 샌턴
   South Africa = 남아프리카 공화국
@@ -1014,12 +997,10 @@ GLOSSARY:
   Little Albert = 꼬마 앨버트
   Little Albert experiment = 어린 앨버트 실험
   Psychological Review = 『사이콜로지컬 리뷰』
-  Psychology = 심리학
   Psychology as the Behaviorist Views It = 「행동주의자가 본 심리학」
   Rosalie Rayner = 로절리 레이너
   University = 대학
   Views = 『뷰스』
-  Watson = 왓슨
   conditioned = 조건 형성
 ENTRY:
 American psychologist who popularized the scientific theory of [[Behaviorism|behaviorism]] and established it as a psychological school. Watson advanced the discipline through his 1913 address at [[Columbia University]], "Psychology as the Behaviorist Views It." His behaviorist approach encompassed research on animal behavior, child rearing and advertising. He is known for the controversial "Little Albert" experiment, in which an infant was conditioned to fear a white rat. He edited the *Psychological Review* from 1910 to 1915. A 2002 survey ranked him the 17th most cited psychologist of the 20th century. Watson taught at [[Johns Hopkins University]] until he resigned in 1920 following a public scandal over his affair with his research assistant, Rosalie Rayner, whom he later married. He then worked in advertising and wrote child-rearing advice.

@@ -5,7 +5,6 @@ GLOSSARY:
   Alcohol (drug) = 알코올
   BRCA mutations = BRCA 돌연변이
   Biopsy = 생검
-  Cancer = 암
   Chemotherapy = 화학 요법
   Ionizing radiation = 전리 방사선
   Menopause = 폐경
@@ -29,7 +28,6 @@ HEADWORD: Breast = 유방
 LEVEL: 4
 GLOSSARY:
   Estrogen = 에스트로겐
-  Female = 암컷
   Mammal = 포유류
   Nipple = 젖꼭지
   Primate = 영장류
@@ -46,7 +44,6 @@ HEADWORD: Breastfeeding = 모유 수유
 LEVEL: 4
 GLOSSARY:
   Breast cancer = 유방암
-  Breastfeeding = 모유 수유
   Cardiovascular disease = 심혈관 질환
   Diarrhea = 설사
   Infant = 영아
@@ -71,7 +68,6 @@ Feeding of an [[Infant|infant]] with breast milk, directly from the breast or wi
 HEADWORD: Breathing = 호흡
 LEVEL: 4
 GLOSSARY:
-  Breathing = 호흡
   Cellular respiration = 세포 호흡
   Circulatory system = 순환계
   Diffusion = 확산
@@ -145,7 +141,6 @@ GLOSSARY:
   Cultivar = 재배 품종
   Hybrid (biology) = 잡종
   Inbreeding = 근친 교배
-  Plant = 식물
   Selective breeding = 선택 교배
   Species = 종
   breed standard = 품종 표준
@@ -200,7 +195,6 @@ American novelist and screenwriter, a member of the Literary Brat Pack. His debu
 HEADWORD: Hart, Bret = 하트, 브렛
 LEVEL: 5
 GLOSSARY:
-  Canadian = 캐나다
   Cancer = 암
   Hart Foundation = 하트 파운데이션
   Hart wrestling family = 하트 레슬링 가문
@@ -250,7 +244,6 @@ GLOSSARY:
   Ancient Egypt = 고대 이집트
   Barley = 보리
   Beer = 맥주
-  Brewing = 양조
   Cave = 동굴
   Cereal = 곡물
   China = 중국
@@ -292,7 +285,6 @@ GLOSSARY:
   Scotland = 스코틀랜드
   United Kingdom = 영국
   Wales = 웨일스
-  Withdrawal = 금단
   transition period = 전환 기간
 ENTRY:
 Withdrawal of the [[United Kingdom|United Kingdom]] (UK) from the [[European Union|European Union]] (EU), effective January 31, 2020. The UK was the only EU member state to leave. In a June 23, 2016, [[Referendum|referendum]], 51.9% of voters chose to leave. All regions of England and Wales except Greater London voted to leave, while Scotland and Northern Ireland voted to remain. Leave campaigners emphasized democratic accountability, and Remain campaigners warned of trade disruption and diminished global influence. The result led to the resignation of Prime Minister [[David Cameron|David Cameron]]. A transition period ended on December 31, 2020, and a trade agreement signed on December 30, 2020, set the future relationship.
@@ -428,7 +420,6 @@ LEVEL: 4
 GLOSSARY:
   Clay = 점토
   Fired bricks = 구운 벽돌
-  Indus = 인더스강
   Indus Valley = 인더스강 유역
   Jericho = 예리코
   Masonry = 조적
@@ -564,7 +555,6 @@ GLOSSARY:
   Brigitte Bardot = 브리지트 바르도
   Brigitte Bardot Foundation = 브리지트 바르도 재단
   France = 프랑스
-  French = 프랑스어
   Honour = 명예
   Jean-Luc Godard = 장뤼크 고다르
   Le Mépris = 「경멸」
@@ -582,9 +572,7 @@ French actress, singer, model and [[Animal rights|animal rights]] activist. She 
 HEADWORD: Brine = 염수
 LEVEL: 5
 GLOSSARY:
-  Brine = 소금물
   Desalination = 담수화
-  Iodine = 아이오딘
   Pickling = 절임
   Sodium chloride = 염화 나트륨
   de-icing = 제빙
@@ -631,7 +619,6 @@ GLOSSARY:
   Americas = 아메리카
   Atlantic slave trade = 대서양 노예 무역
   Bristol = 브리스틀
-  City = 도시
   England = 잉글랜드
   New World = 신대륙
   Slavery = 노예제
@@ -655,7 +642,6 @@ GLOSSARY:
   British European Airways = 영국 유럽 항공
   British Overseas Airways Corporation = 영국 해외 항공
   COVID-19 = 코로나19
-  Flag = 깃발
   Flag carrier = 국책 항공사
   Heathrow Airport = 히스로 공항
   Iberia = 이베리아 항공
@@ -681,7 +667,6 @@ GLOSSARY:
   Forestry = 임업
   Fraser Canyon Gold Rush = 프레이저 협곡 골드러시
   Gold = 금
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Ocean = 대양
   Pacific = 태평양
@@ -792,7 +777,6 @@ British Overseas Territory in the Indian Ocean, comprising seven [[Atoll|atolls]
 HEADWORD: British Isles = 브리튼 제도
 LEVEL: 4
 GLOSSARY:
-  Archipelago = 제도
   Atlantic Ocean = 대서양
   Ben Nevis = 벤네비스산
   Doggerland = 도거랜드
@@ -888,7 +872,6 @@ GLOSSARY:
   Indian subcontinent = 인도 아대륙
   Myanmar = 미얀마
   Pakistan = 파키스탄
-  Queen = 퀸
   Queen Victoria = 빅토리아 여왕
   Union of India = 인도 연방
   drain of wealth = 부의 유출

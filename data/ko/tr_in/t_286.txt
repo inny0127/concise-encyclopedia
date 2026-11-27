@@ -31,7 +31,6 @@ GLOSSARY:
   Catalytic converter = 촉매 변환기
   Palladium = 팔라듐
   Platinum = 백금
-  Rhodium = 로듐
   Transition metal = 전이 금속
   William = 윌리엄
   William Hyde Wollaston = 윌리엄 하이드 울러스턴
@@ -54,7 +53,6 @@ GLOSSARY:
   Himalayan = 히말라야
   Himalayan region = 히말라야 지역
   Nepal = 네팔
-  Species = 종
   Washington = 워싱턴주
   grayanotoxins = 그레이아노톡신
   heath family = 진달래과
@@ -101,7 +99,6 @@ GLOSSARY:
   Old French = 고대 프랑스어
   Phoneme = 음소
   Shakespeare = 셰익스피어
-  William = 윌리엄
   William Shakespeare = 윌리엄 셰익스피어
   dactylic = 강약약운
   feminine = 여성운
@@ -124,7 +121,6 @@ GLOSSARY:
   Music = 음악
   Oxford = 옥스퍼드
   Oxford English Dictionary = 『옥스퍼드 영어 사전』
-  Rhythm = 리듬
   Sub-Saharan Africa = 사하라 이남 아프리카
   The Oxford English Dictionary = 『옥스퍼드 영어 사전』
   cross-rhythms = 크로스리듬
@@ -237,7 +233,6 @@ GLOSSARY:
   Anthocyanin = 안토시아닌
   Asia = 아시아
   Asian rice = 아시아벼
-  Black = 검은색
   Black rice = 흑미
   Cereal = 곡물
   China = 중국
@@ -250,7 +245,6 @@ GLOSSARY:
   Maize = 옥수수
   Oryza glaberrima = Oryza glaberrima
   Oryza sativa = Oryza sativa
-  Starch = 녹말
   Sugarcane = 사탕수수
   West Africa = 서아프리카
   amino acids = 아미노산
@@ -278,7 +272,6 @@ LEVEL: 5
 GLOSSARY:
   Academy Awards = 아카데미상
   Agatha Christie = 애거사 크리스티
-  BAFTA = 영국 아카데미 영화상
   Best Director = 감독상
   Best Picture = 작품상
   Brighton = 브라이턴
@@ -403,7 +396,6 @@ GLOSSARY:
   Carl Friedrich Gauss = 카를 프리드리히 가우스
   Dedekind cut = 데데킨트 절단
   Gauss = 가우스
-  German = 독일어
   Göttingen = 괴팅겐
   Philosophy of mathematics = 수리 철학
   Polytechnic school = 취리히 연방 공과대학교
@@ -506,7 +498,6 @@ GLOSSARY:
   Film = 영화
   Harry = 해리
   Harry Potter (film series) = 「해리 포터」 영화 시리즈
-  Irish = 아일랜드어
   Jamaica = 자메이카
   Jesuits = 예수회
   King Arthur = 아서왕
@@ -598,7 +589,6 @@ GLOSSARY:
   California = 캘리포니아주
   China = 중국
   Dwight D. Eisenhower = 드와이트 D. 아이젠하워
-  Eisenhower = 아이젠하워
   Environmental Protection Agency = 미국 환경 보호청
   Ford = 포드
   Gerald Ford = 제럴드 포드
@@ -684,7 +674,6 @@ GLOSSARY:
   Ein Heldenleben = 「영웅의 생애」
   Elektra = 「엘렉트라」
   Festival = 축제
-  German = 독일어
   Germany = 독일
   Liszt = 리스트
   Mozart = 모차르트
@@ -714,7 +703,6 @@ GLOSSARY:
   Antisemitism = 반유대주의
   Bayreuth Festspielhaus = 바이로이트 축제 극장
   Der Ring des Nibelungen = 「니벨룽의 반지」
-  German = 독일어
   Gesamtkunstwerk = 총체 예술
   Opera = 오페라
   Parsifal = 「파르지팔」
@@ -737,7 +725,6 @@ GLOSSARY:
   Confederate = 남부 연합
   Confederate States = 아메리카 연합국
   Confederate States of America = 아메리카 연합국
-  Court = 법원
   Court of Appeals = 항소 법원
   Federal Reserve = 연방준비제도
   James = 야고보
@@ -809,7 +796,6 @@ GLOSSARY:
   James = 야고보
   Smokey Robinson = 스모키 로빈슨
   Street Songs = 『Street Songs』
-  Super = 「슈퍼」
   Super Freak = 「Super Freak」
   Teena Marie = 티나 마리
   U Can't Touch This = 「U Can't Touch This」
@@ -867,7 +853,6 @@ GLOSSARY:
   April Fools' Day = 만우절
   Grand Theft Auto = 「그랜드 테프트 오토」
   Grand Theft Auto IV = 「그랜드 테프트 오토 IV」
-  Internet = 인터넷
   Internet meme = 인터넷 밈
   Nancy Pelosi = 낸시 펠로시
   Never Gonna Give You Up = 「Never Gonna Give You Up」
@@ -969,7 +954,6 @@ GLOSSARY:
   Billboard Hot 100 = 빌보드 핫 100
   Dean Martin = 딘 마틴
   Fool = 바보
-  Garden = 정원
   Garden Party = 「Garden Party」
   John = 존
   John Wayne = 존 웨인

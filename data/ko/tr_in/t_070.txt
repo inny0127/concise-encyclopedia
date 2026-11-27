@@ -4,7 +4,6 @@ LEVEL: 4
 GLOSSARY:
   Atmospheric science = 대기과학
   Climate = 기후
-  Climatology = 기후학
   ENSO = ENSO
   El Niño = 엘니뇨
   El Niño–Southern Oscillation = 엘니뇨-남방진동
@@ -27,7 +26,6 @@ Scientific study of Earth's climate, regarded as part of the [[Atmospheric scien
 HEADWORD: Climbing = 등반
 LEVEL: 4
 GLOSSARY:
-  Climbing = 등반
   Mountaineering = 등산
   Rock climbing = 암벽 등반
   Tokyo = 도쿄
@@ -42,7 +40,6 @@ Activity of ascending steep objects using the hands, feet and other parts of the
 HEADWORD: Clinical psychology = 임상심리학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Lightner Witmer = 라이트너 위트머
   Mental disorder = 정신 질환
   Pennsylvania = 펜실베이니아주
@@ -86,7 +83,6 @@ LEVEL: 4
 GLOSSARY:
   Female genital mutilation = 여성 할례
   G-spot = G스폿
-  Knowledge = 지식
   Penis = 음경
   Urethra = 요도
   Vagina = 질
@@ -147,7 +143,6 @@ Loose outer garment, almost always sleeveless, that fastens at the neck or over 
 HEADWORD: Clock = 시계
 LEVEL: 3
 GLOSSARY:
-  Analog = 『아날로그』
   Atomic clock = 원자시계
   Babylon = 바빌론
   Christiaan Huygens = 크리스티안 하위헌스
@@ -210,7 +205,6 @@ GLOSSARY:
   Dolly (sheep) = 복제양 돌리
   Egg cell = 난자
   Embryo = 배아
-  Human = 인간
   Parthenogenesis = 단위 생식
   Stem cell = 줄기세포
   asexual reproduction = 무성 생식
@@ -250,7 +244,6 @@ HEADWORD: Clothes dryer = 의류 건조기
 LEVEL: 4
 GLOSSARY:
   Condenser dryers = 응축식 건조기
-  Heat = 열
   Heat pump = 열펌프
   Lint = 보풀
   Spin dryers = 탈수기
@@ -268,10 +261,8 @@ LEVEL: 2
 GLOSSARY:
   Arctic = 북극
   Arctic Circle = 북극권
-  Bone = 뼈
   Cave = 동굴
   Circle = 원
-  Clothing = 의복
   Denisova Cave = 데니소바 동굴
   Denisovan = 데니소바인
   Denisovans = 데니소바인
@@ -280,7 +271,6 @@ GLOSSARY:
   Industrial Revolution = 산업 혁명
   Kostenki = 코스텐키
   Morocco = 모로코
-  Others = 아더
   Russia = 러시아
   Scottish = 스코틀랜드
   Sewing machine = 재봉틀
@@ -337,8 +327,6 @@ GLOSSARY:
   Anish Kapoor = 애니시 커푸어
   Bean = 콩
   Chicago = 시카고
-  Cloud = 구름
-  Constructed = 구축전
   Mercury (element) = 수은
   Millennium = 『Millennium』
   Millennium Park = 밀레니엄 공원
@@ -400,14 +388,12 @@ GLOSSARY:
   Beta particle = 베타 입자
   Carl Anderson = 칼 앤더슨
   Charles Thomson Rees Wilson = 찰스 톰슨 리스 윌슨
-  Cloud = 구름
   Ionizing radiation = 전리 방사선
   Nobel Prize = 노벨상
   Nobel Prize in Physics = 노벨 물리학상
   Particle detector = 입자 검출기
   Physics = 물리학
   Positron = 양전자
-  Scottish = 스코틀랜드
   Water = 물
   Wilson chamber = 윌슨 상자
   bubble chambers = 거품 상자
@@ -462,9 +448,7 @@ American technology company based in [[San Francisco]]. Founded in 2009 by Matth
 HEADWORD: Clove = 정향
 LEVEL: 4
 GLOSSARY:
-  Clove = 정향
   Flower = 꽃
-  Food = 음식
   Food and Drug Administration = 식품의약국
   Indonesia = 인도네시아
   Maluku Islands = 말루쿠 제도
@@ -492,7 +476,6 @@ GLOSSARY:
   Charles de Gaulle = 샤를 드골
   Childeric I = 킬데리크 1세
   Clotilde = 클로틸드
-  Clovis = 클로비스
   France = 프랑스
   Frankish = 프랑크
   Franks = 프랑크족
@@ -563,7 +546,6 @@ HEADWORD: Clownfish = 흰동가리
 LEVEL: 5
 GLOSSARY:
   Amphiprion = Amphiprion
-  Clownfish = 흰동가리
   Coral reef = 산호초
   Finding Nemo = 「니모를 찾아서」
   Indo-Pacific = 인도태평양
@@ -623,7 +605,6 @@ GLOSSARY:
   Convention = 비상 의회
   Convention on Cluster Munitions = 집속탄 금지 협약
   Dublin = 더블린
-  Explosive = 폭발물
   German = 독일어
   Ireland = 아일랜드
   Kyushu = 규슈
@@ -667,7 +648,6 @@ GLOSSARY:
   Ediacaran = 에디아카라기
   Hydrozoa = 히드로충강
   Jellyfish = 해파리
-  Phylum = 문
   Scyphozoa = 해파리강
   Sea anemone = 말미잘
   box jellies = 상자해파리
@@ -689,7 +669,6 @@ GLOSSARY:
   Cantor = 칸토어
   Canute the Great = 크누트 대왕
   Christianity = 기독교
-  Cnut = 크누트
   Danish = 덴마크어
   Denmark = 덴마크
   England = 잉글랜드
@@ -712,7 +691,6 @@ LEVEL: 3
 GLOSSARY:
   Australia = 오스트레일리아
   Carboniferous = 석탄기
-  China = 중국
   Climate = 기후
   Climate change = 기후 변화
   Coal = 석탄
@@ -720,7 +698,6 @@ GLOSSARY:
   India = 인도
   Indonesia = 인도네시아
   Industrial Revolution = 산업 혁명
-  Oxygen = 산소
   Peat = 이탄
   Permian = 페름기
   anthracite = 무연탄
@@ -813,7 +790,6 @@ LEVEL: 4
 GLOSSARY:
   Alloy = 합금
   Chemical element = 화학 원소
-  Cobalt = 코발트
   Copper = 구리
   Democratic = 민주당
   Democratic Republic of the Congo = 콩고 민주 공화국
@@ -821,7 +797,6 @@ GLOSSARY:
   Lithium-ion battery = 리튬 이온 전지
   Nickel = 니켈
   Republic of the Congo = 콩고 공화국
-  Today = 「투데이」
   Vitamin B12 = 비타민 B₁₂
   chemical element = 화학 원소
   cobalamins = 코발라민
@@ -860,7 +835,6 @@ GLOSSARY:
   Coca-Cola = 코카콜라
   John = 존
   John Stith Pemberton = 존 스티스 펨버턴
-  Pharmacist = 약사
   Soft drink = 청량음료
   The Coca-Cola Company = 코카콜라 컴퍼니
   bottlers = 보틀러
@@ -905,7 +879,6 @@ GLOSSARY:
   Beetle = 딱정벌레
   Climate = 기후
   Climate change = 기후 변화
-  Family = 가족
   Harmonia axyridis = Harmonia axyridis
   Invasive species = 침입종
   Larva = 애벌레

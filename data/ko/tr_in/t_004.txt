@@ -45,7 +45,6 @@ GLOSSARY:
   Neo-Babylonian Empire = 신바빌로니아 제국
   Parthian = 파르티아
   Parthian Empire = 파르티아 제국
-  Persian = 페르시아어
   Persians = 페르시아인
   Ptolemaic = 프톨레마이오스 왕조
   Ptolemaic Kingdom = 프톨레마이오스 왕조
@@ -131,7 +130,6 @@ GLOSSARY:
   Johannes Brønsted = 요하네스 브뢴스테드
   Latin = 라틴어
   Lewis acid = 루이스 산
-  Molecule = 분자
   PH = pH
   Proton = 양성자
   Sulfuric acid = 황산
@@ -162,14 +160,12 @@ Common examples are [[Hydrochloric acid]], found in gastric acid in the stomach,
 HEADWORD: Acid rain = 산성비
 LEVEL: 4
 GLOSSARY:
-  Acid = 산
   Acid rain = 산성비
   Clean Air Act = 대기 오염 방지법
   England = 잉글랜드
   Europe = 유럽
   Manchester = 맨체스터
   North America = 북아메리카
-  Precipitation = 강수
   Robert Angus Smith = 로버트 앵거스 스미스
   nitric acids = 질산
   nitrogen oxides = 질소 산화물
@@ -210,7 +206,6 @@ GLOSSARY:
   Matthias Zurbriggen = 마티아스 주르브리겐
   Mendoza Province = 멘도사주
   Miocene = 마이오세
-  Mountain = 산
   Nazca = 나스카
   Nazca Plate = 나스카판
   Principal Cordillera = 주산맥
@@ -228,7 +223,6 @@ HEADWORD: Acoustics = 음향학
 LEVEL: 4
 GLOSSARY:
   Aristotle = 아리스토텔레스
-  Branch = 브랜치
   Pythagoras = 피타고라스
   Sonar = 소나
   Vitruvius = 비트루비우스
@@ -264,7 +258,6 @@ HEADWORD: Acrobatics = 곡예
 LEVEL: 4
 GLOSSARY:
   Acrobatic gymnastics = 아크로바틱 체조
-  Acrobatics = 곡예
   China = 중국
   Greece = 그리스
   Gymnastics = 체조
@@ -290,7 +283,6 @@ Performance of human feats of balance, agility and motor coordination. Acrobatic
 HEADWORD: Acromegaly = 말단비대증
 LEVEL: 5
 GLOSSARY:
-  Joint = 관절
   growth hormone = 성장 호르몬
   growth plates = 성장판
   sleep apnea = 수면 무호흡증
@@ -345,7 +337,6 @@ GLOSSARY:
   Earth = 지구
   Nuclear reactor = 원자로
   Nuclear weapon = 핵무기
-  Uranium = 우라늄
   f-block = f-구역
   ionization chambers = 전리함
   lanthanides = 란타넘족
@@ -396,7 +387,6 @@ Class of bony fishes, also called ray-finned fishes. The class makes up nearly 9
 HEADWORD: Action figure = 액션 피규어
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   G.I. Joe = G.I. 조
   Hasbro = 해즈브로
   Star = 항성
@@ -411,7 +401,6 @@ HEADWORD: Action film = 액션 영화
 LEVEL: 4
 GLOSSARY:
   David Bordwell = 데이비드 보드웰
-  Film = 영화
   Geoff King = 제프 킹
   Hollywood = 할리우드
   Hong Kong = 홍콩
@@ -456,10 +445,7 @@ Movement of molecules or ions across a cell membrane from lower to higher concen
 HEADWORD: Activism = 행동주의
 LEVEL: 4
 GLOSSARY:
-  Activism = 행동주의
-  Forms = 이데아
   Political campaign = 선거 운동
-  Research = 연구
   Social movement = 사회 운동
   Terrorism = 테러리즘
   United States = 미국
@@ -493,7 +479,6 @@ Person who portrays a character in a production, in the flesh on the stage or in
 HEADWORD: Acupuncture = 침술
 LEVEL: 4
 GLOSSARY:
-  Acupuncture = 침술
   China = 중국
   Chinese medicine = 중의학
   Europe = 유럽
@@ -516,7 +501,6 @@ GLOSSARY:
   Antibiotic = 항생제
   Atomic bombings of Hiroshima and Nagasaki = 히로시마·나가사키 원자 폭탄 투하
   Blood transfusion = 수혈
-  Bone = 뼈
   Bone marrow syndrome = 골수 증후군
   Chernobyl = 체르노빌
   Chernobyl nuclear power plant disaster = 체르노빌 원자력 발전소 사고
@@ -704,7 +688,6 @@ First man and woman in the Abrahamic creation account. Their story underlies the
 HEADWORD: Adam's Bridge = 아담의 다리
 LEVEL: 5
 GLOSSARY:
-  Chain = 사슬
   Gulf of Mannar = 만나르만
   India = 인도
   Lanka = 랑카
@@ -729,7 +712,6 @@ GLOSSARY:
   Adana Province = 아다나주
   Caliphate = 칼리파국
   Cilicia = 킬리키아
-  City = 도시
   Crusaders = 십자군
   Hittites = 히타이트인
   Mamluks = 맘루크 왕조
@@ -757,7 +739,6 @@ GLOSSARY:
   Australia = 오스트레일리아
   Barbados = 바베이도스
   French = 프랑스어
-  Genus = 속
   Madagascar = 마다가스카르
   Malvaceae = 아욱과
   Michel Adanson = 미셸 아당송
@@ -775,7 +756,6 @@ Genus of medium-to-large deciduous trees known as baobabs. Its eight species are
 HEADWORD: Adaptation = 적응
 LEVEL: 4
 GLOSSARY:
-  Adaptation = 적응
   Alfred = 앨프레드 대왕
   Alfred Russel Wallace = 앨프리드 러셀 월리스
   Aristotle = 아리스토텔레스
@@ -784,7 +764,6 @@ GLOSSARY:
   Feather = 깃털
   Flowering plant = 속씨식물
   Natural selection = 자연 선택
-  Species = 종
   Wallace = 월리스
   biological fitness = 적합도
   co-adapt = 공적응
@@ -815,7 +794,6 @@ Venomous viper species, *Vipera berus*, widespread across [[Europe]] and as far 
 HEADWORD: Addiction = 중독
 LEVEL: 3
 GLOSSARY:
-  Addiction = 중독
   Alcoholism = 알코올 의존증
   Amphetamine = 암페타민
   Cannabis = 대마
@@ -852,7 +830,6 @@ GLOSSARY:
   Africa = 아프리카
   African Union = 아프리카 연합
   Amharic = 암하라어
-  City = 도시
   Commission = 위원회
   Ethiopia = 에티오피아
   French = 프랑스어
@@ -869,7 +846,6 @@ City (pop., 2025: 6,287,000), capital and largest city of [[Ethiopia]]. Menelik 
 HEADWORD: Addition = 덧셈
 LEVEL: 4
 GLOSSARY:
-  Addition = 덧셈
   Arithmetic = 산술
   Complex number = 복소수
   German = 독일어

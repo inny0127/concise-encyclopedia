@@ -22,7 +22,6 @@ HEADWORD: Makassar = 마카사르
 LEVEL: 4
 GLOSSARY:
   B. J. Habibie = B. J. 하비비
-  City = 도시
   Dutch = 네덜란드어
   Dutch East India Company = 네덜란드 동인도 회사
   Dutch East Indies = 네덜란드령 동인도
@@ -47,7 +46,6 @@ City (pop., mid-2025: 1,485,000), capital of South Sulawesi, Indonesia. Located 
 HEADWORD: Makemake = 마케마케
 LEVEL: 5
 GLOSSARY:
-  Brown = 브라운
   Chad = 차드
   Chad Trujillo = 채드 트루히요
   David Rabinowitz = 데이비드 라비노위츠
@@ -114,7 +112,6 @@ HEADWORD: Malacostraca = 연갑강
 LEVEL: 4
 GLOSSARY:
   Decapod = 십각목
-  French = 프랑스어
   Krill = 크릴
   Mantis shrimp = 갯가재
   Pierre André Latreille = 피에르 앙드레 라트레유
@@ -205,7 +202,6 @@ GLOSSARY:
   Cerebral malaria = 뇌말라리아
   Equator = 적도
   Liver = 간
-  Malaria = 말라리아
   P. falciparum = 열대열원충
   P. knowlesi = 원숭이열원충
   P. malariae = 사일열원충
@@ -267,7 +263,6 @@ Landlocked country in southeastern Africa, bordered by Zambia, Tanzania and Moza
 HEADWORD: Malay Archipelago = 말레이 제도
 LEVEL: 4
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred Russel Wallace = 앨프리드 러셀 월리스
   Archipelago = 제도
   Asia = 아시아
@@ -320,7 +315,6 @@ GLOSSARY:
   Malaya = 말라야
   Malaysia = 말레이시아
   Myanmar = 미얀마
-  Peninsula = 반도
   Peninsular Malaysia = 말레이반도 말레이시아
   Singapore = 싱가포르
   Southeast = 남동부
@@ -530,7 +524,6 @@ GLOSSARY:
   Metallo = 메탈로
   Mick Travis = 믹 트래비스
   Orange = 오렌지 카운티
-  Stanley = 스탠리
   Stanley Kubrick = 스탠리 큐브릭
   Star = 항성
   Star Trek Generations = 「스타 트렉: 넥스트 제너레이션」
@@ -687,14 +680,11 @@ LEVEL: 4
 GLOSSARY:
   Assimi Goita = 아시미 고이타
   Bamako = 바마코
-  France = 프랑스
   Ghana = 가나
   Ghana Empire = 가나 제국
-  Gold = 금
   Mali = 말리
   Mali Empire = 말리 제국
   Mansa Musa = 만사 무사
-  Military = 군대
   Musa = 파초속
   Niger = 니제르
   Sahara = 사하라 사막
@@ -772,7 +762,6 @@ GLOSSARY:
   Palma = 팔마
   Palma de Mallorca Airport = 팔마 데 마요르카 공항
   Phoenicia = 페니키아
-  Phoenician = 페니키아
   Rome = 로마
   Spain = 스페인
   Talaiotic culture = 탈라이오트 문화
@@ -787,7 +776,6 @@ LEVEL: 4
 GLOSSARY:
   Anemia = 빈혈
   Iodine = 아이오딘
-  Malnutrition = 영양실조
   Micronutrient = 미량 영양소
   Obesity = 비만
   Vitamin = 비타민
@@ -870,7 +858,6 @@ GLOSSARY:
   Bombacaceae = 봄박스과
   Cotton = 목화
   Durian = 두리안
-  Family = 가족
   Flowering plant = 속씨식물
   Hibiscus = 무궁화속
   Malva = 아욱속
@@ -903,7 +890,6 @@ GLOSSARY:
   Fred Cohen = 프레드 코언
   IBM = IBM
   IBM PC = IBM PC
-  John = 존
   John von Neumann = 존 폰 노이만
   Morris worm = 모리스 웜
   Trojan = 트로이아인
@@ -928,7 +914,6 @@ GLOSSARY:
   Black mamba = 블랙맘바
   Dendroaspis = 맘바속
   Elapidae = 코브라과
-  Genus = 속
   Jameson's mamba = 제임슨맘바
   Sub-Saharan Africa = 사하라 이남 아프리카
   Venom = 독
@@ -1003,12 +988,10 @@ GLOSSARY:
   Carnivora = 식육목
   Cenozoic = 신생대
   Cenozoic era = 신생대
-  Domestication = 가축화
   Early Jurassic = 전기 쥐라기
   Jurassic = 쥐라기
   Late Triassic = 후기 트라이아스기
   Mammalia = 포유강
-  Mammals = 포유류
   Neogene = 네오기
   Neolithic = 신석기 시대
   Neolithic Revolution = 신석기 혁명
@@ -1017,7 +1000,6 @@ GLOSSARY:
   Rodent = 설치류
   Synapsida = 단궁류
   Triassic = 트라이아스기
-  Vertebrate = 척추동물
   bumblebee bat = 뒤영벌박쥐
   cynodonts = 키노돈트류
   echolocation = 반향 정위

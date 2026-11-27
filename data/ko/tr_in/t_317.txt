@@ -10,11 +10,9 @@ GLOSSARY:
   Falcon 9 = 팰컨 9
   Gemini = 제미니
   Germany = 독일
-  Human = 인간
   International Space Station = 국제 우주 정거장
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   Kessler syndrome = 케슬러 증후군
   Mars = 화성
   Mars colonization = 화성 이주
@@ -22,7 +20,6 @@ GLOSSARY:
   Moon landings = 달 착륙
   Nazi = 나치
   Nazi Germany = 나치 독일
-  Once = 『Once』
   Outer space = 우주 공간
   R-7 = R-7
   Robert H. Goddard = 로버트 H. 고더드
@@ -287,7 +284,6 @@ GLOSSARY:
   Potosí = 포토시
   Puerto Rico = 푸에르토리코
   Sahara = 사하라 사막
-  Silver = 은
   South America = 남아메리카
   Spain = 스페인
   Spanish–American War = 미국-스페인 전쟁
@@ -357,7 +353,6 @@ GLOSSARY:
   Philippines = 필리핀
   Puerto Rico = 푸에르토리코
   Queen = 퀸
-  Religion = 종교
   Spanish America = 스페인령 아메리카
   Spanish American wars of independence = 스페인령 아메리카 독립 전쟁
   Spanish conquest = 에스파냐의 정복
@@ -516,7 +511,6 @@ GLOSSARY:
   Iberian Peninsula = 이베리아반도
   Latin = 라틴어
   Lazarillo de Tormes = 『라사리요 데 토르메스』
-  Literature = 문학
   Miguel de Cervantes = 미겔 데 세르반테스
   Modernism = 모더니즘
   Novel = 소설
@@ -577,7 +571,6 @@ GLOSSARY:
   Peloponnesian War = 펠로폰네소스 전쟁
   Persian = 페르시아어
   Plataea = 플라타이아
-  Sparta = 스파르타
   Spartiates = 스파르티아타이
   Thermopylae = 테르모필레
   Visigothic = 서고트
@@ -606,7 +599,6 @@ GLOSSARY:
   Third = 교향곡 제3번
   Third Servile War = 제3차 노예 전쟁
   Thrace = 트라키아
-  Thracian = 트라키아
 ENTRY:
 Thracian gladiator and escaped slave leader of the Third Servile War, a major slave uprising against the [[Roman Republic]]. The main accounts of his life, by [[Plutarch]] and Appian, were written more than a century later and are contradictory. He came from near the Strymon River in Thrace, possibly of the Maedi tribe, and had served as a Roman soldier before being enslaved as a [[Gladiator|gladiator]]. In 73 BC he and about 70 other gladiators escaped a gladiatorial school near Capua, and his forces swelled to an estimated 70,000 enslaved people and others. After initial successes and attempts to negotiate and to escape to [[Sicily]], his army was defeated in 71 BC by [[Marcus Licinius Crassus]], who had been tasked with suppressing the revolt. Spartacus was presumed killed, though his body was never found, and about 6,000 captured rebels were crucified along the Appian Way.
 
@@ -620,7 +612,6 @@ GLOSSARY:
   Film = 영화
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   Kirk Douglas = 커크 더글러스
   National Film Registry = 국립 영화 등기부
   Rome = 로마
@@ -649,7 +640,6 @@ GLOSSARY:
   Iron = 철
   Knife = 칼
   Modern era = 근대
-  People = 『피플』
   Polearm = 장병기
   Schöningen = 쇠닝겐
   Senegal = 세네갈
@@ -763,7 +753,6 @@ From [[Aristotle]] until the 18th century, species and higher taxa were seen as 
 HEADWORD: Specific heat capacity = 비열
 LEVEL: 5
 GLOSSARY:
-  Heat = 열
   Iron = 철
   Phase transition = 상전이
   SI unit = SI 단위
@@ -783,7 +772,6 @@ GLOSSARY:
   Andes = 안데스산맥
   Arctodus = 아르크토두스
   Arctotherium = 아르크토테리움
-  Bear = 곰
   IUCN = 국제 자연 보전 연맹
   Pleistocene = 플라이스토세
   South America = 남아메리카
@@ -827,7 +815,6 @@ GLOSSARY:
   Prism (optics) = 프리즘
   Quantum mechanics = 양자역학
   Schrödinger equation = 슈뢰딩거 방정식
-  Spectroscopy = 분광학
   electromagnetic spectrum = 전자기 스펙트럼
   materials science = 재료과학
   medical imaging = 의료 영상
@@ -882,7 +869,6 @@ HEADWORD: Speech act = 화행
 LEVEL: 4
 GLOSSARY:
   Bach = 바흐
-  Kent = 켄트
   Kent Bach = 켄트 바크
   Linguistics = 언어학
   Philosophy of language = 언어철학
@@ -921,9 +907,7 @@ Artificial production of human speech, carried out by a speech synthesizer in so
 HEADWORD: Speed = 속력
 LEVEL: 4
 GLOSSARY:
-  Average = 평균
   Average speed = 평균 속력
-  Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   Knot (unit) = 노트
   Metre = 미터
@@ -940,7 +924,6 @@ Magnitude of [[Velocity|velocity]], the rate at which the distance traveled by a
 HEADWORD: Speed of light = 빛의 속력
 LEVEL: 3
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Einstein = 아인슈타인
   Electromagnetic radiation = 전자기 복사
@@ -949,7 +932,6 @@ GLOSSARY:
   James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
   Latin = 라틴어
-  Light = 빛
   Mass–energy equivalence = 질량-에너지 등가성
   Metre = 미터
   Ole Rømer = 올레 뢰머
@@ -975,14 +957,11 @@ HEADWORD: Speed of sound = 음속
 LEVEL: 4
 GLOSSARY:
   Diamond = 다이아몬드
-  Distance = 거리
   Iron = 철
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Mach = 마하
   Mach number = 마하수
   Pierre-Simon Laplace = 피에르시몽 라플라스
-  Sound = 소리
   Water = 물
   adiabatic = 단열
   speed of sound = 음속
@@ -1048,7 +1027,6 @@ American actor known for his natural performing style. He was the first actor to
 HEADWORD: Sperm = 정자
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Ejaculation = 사정
   Flagellum = 편모
   Flowering plant = 속씨식물
@@ -1056,7 +1034,6 @@ GLOSSARY:
   Pollen = 꽃가루
   Reptile = 파충류
   Semen = 정액
-  Sperm = 정자
   amniotes = 양막류
   anisogamous = 이형배우자
   diploid = 이배체
@@ -1086,7 +1063,6 @@ GLOSSARY:
   Nature = 『네이처』
   Perfume = 향수
   Physeter = 향유고래속
-  Sperm = 정자
   Whaling = 포경
   pelagic = 원양성
   spermaceti = 경랍
@@ -1124,7 +1100,6 @@ GLOSSARY:
   Earth = 지구
   Geography = 지리학
   Mathematics = 수학
-  Surface = 서피스
   Three-dimensional space = 3차원 공간
   ball = 공
   ball bearings = 볼 베어링
@@ -1137,7 +1112,6 @@ Surface of points all lying at the same distance from a fixed center point. In s
 HEADWORD: Spherical coordinate system = 구면 좌표계
 LEVEL: 5
 GLOSSARY:
-  Once = 『Once』
   Radian = 라디안
   Sphere = 구
   axis = 중쇠뼈

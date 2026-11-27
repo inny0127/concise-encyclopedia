@@ -66,8 +66,6 @@ Ray-finned fish of the order *Anguilliformes*, which comprises eight suborders, 
 HEADWORD: Egg cell = 난자
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
-  Female = 암컷
   Harvey = 하비
   Latin = 라틴어
   Ovary = 난소
@@ -93,7 +91,6 @@ GLOSSARY:
   Fish = 어류
   Monotreme = 단공류
   Ostrich = 타조
-  Reptile = 파충류
   Whale shark = 고래상어
   amniotes = 양막류
   amniotic membrane = 양막
@@ -129,7 +126,6 @@ GLOSSARY:
   Canada = 캐나다
   Christmas = 크리스마스
   Dairy = 유제품
-  Eggnog = 에그노그
   Milk = 우유
   Rum = 럼
   Thanksgiving = 추수감사절
@@ -148,7 +144,6 @@ GLOSSARY:
   China = 중국
   Culinary arts = 요리
   East Asia = 동아시아
-  Eggplant = 가지
   Eurasia = 유라시아
   India = 인도
   Potato = 감자
@@ -372,8 +367,6 @@ GLOSSARY:
   Ishmael = 이스마엘
   Islam = 이슬람교
   Islamic calendar = 이슬람력
-  Pilgrims = 필그림
-  Sacrifice = 희생 제의
   Sacrifice of God = 하느님의 희생 제물
   Tashreeq days = 타슈리크의 날
   sa'i = 사이
@@ -389,7 +382,6 @@ LEVEL: 4
 GLOSSARY:
   Eid al-Adha = 이드 알아드하
   Eid prayer = 이드 예배
-  Fasting = 단식
   Gregorian = 그레고리력
   Gregorian calendar = 그레고리력
   Islam = 이슬람교
@@ -400,7 +392,6 @@ GLOSSARY:
   Prayer = 기도
   Ramadan = 라마단
   Shawwal = 샤우왈
-  Sugar = 설탕
   Sugar Feast = 설탕 축제
   Sweet Eid = 달콤한 이드
   zakat al-Fitr = 자카트 알피트르
@@ -468,7 +459,6 @@ GLOSSARY:
   Dutch Republic = 네덜란드 공화국
   Dutch Revolt = 네덜란드 독립 전쟁
   England = 잉글랜드
-  France = 프랑스
   Habsburg = 합스부르크
   Münster = 뮌스터
   Netherlands = 네덜란드
@@ -496,7 +486,6 @@ LEVEL: 5
 GLOSSARY:
   Albert Einstein = 알베르트 아인슈타인
   Black hole = 블랙홀
-  Einstein = 아인슈타인
   General relativity = 일반 상대성 이론
   Gravitational wave = 중력파
   Spacetime = 시공간
@@ -694,7 +683,6 @@ HEADWORD: El Paso = 엘패소
 LEVEL: 5
 GLOSSARY:
   Borderplex = 보더플렉스
-  City = 도시
   Ciudad Juárez = 시우다드후아레스
   El Paso = 엘패소
   El Paso County = 엘패소 카운티
@@ -788,7 +776,6 @@ Ancient civilization centered in southwestern [[Iran]]. Elamite states were amon
 HEADWORD: Elastic modulus = 탄성 계수
 LEVEL: 4
 GLOSSARY:
-  Steel = 강철
   Stiffness = 강성
   Stress (mechanics) = 응력
   Viscosity = 점성
@@ -811,7 +798,6 @@ GLOSSARY:
   Hooke's law = 훅 법칙
   Materials science = 재료 과학
   Metal = 금속
-  Physical = 「Physical」
   Plasticity (physics) = 소성
   Polymer = 중합체
   Stress (mechanics) = 응력
@@ -859,12 +845,10 @@ GLOSSARY:
   First Lady of the United States = 미국의 영부인
   First Lady of the World = 세계의 영부인
   Franklin D. Roosevelt = 프랭클린 D. 루스벨트
-  Harry = 해리
   Harry S. Truman = 해리 S. 트루먼
   Human = 인간
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   Rights = 인권
   UN Commission on Human Rights = 국제 연합 인권 위원회
   United Nations = 국제 연합
@@ -883,7 +867,6 @@ HEADWORD: Eleanor of Aquitaine = 아키텐의 엘레오노르
 LEVEL: 4
 GLOSSARY:
   Aquitaine = 아키텐
-  Black = 검은색
   Black Legend = 검은 전설
   Consanguinity = 혈족 관계
   Duke of Normandy = 노르망디 공작

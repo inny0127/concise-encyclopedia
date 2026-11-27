@@ -2,7 +2,6 @@
 HEADWORD: Religious architecture = 종교 건축
 LEVEL: 4
 GLOSSARY:
-  Architecture = 건축
   Egypt = 이집트
   Hera = 헤라
   Karnak = 카르나크
@@ -27,7 +26,6 @@ GLOSSARY:
   Asia = 아시아
   Buddhist = 불교
   Catholic = 가톨릭
-  Cave = 동굴
   Central Asia = 중앙아시아
   Dunhuang = 둔황
   Iconoclasm = 성상 파괴 운동
@@ -43,7 +41,6 @@ GLOSSARY:
   Silk Road = 실크로드
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Tibetan = 티베트어
   Tibetan Buddhist art = 티베트 불교 미술
   Vajrayana = 금강승
   Virgin = 『버진』
@@ -61,7 +58,6 @@ Visual representation of religious ideologies and their relationship with humans
 HEADWORD: Religious conversion = 개종
 LEVEL: 4
 GLOSSARY:
-  Adoption = 입양
   Apostasy = 배교
   Buddhism = 불교
   Christianity = 기독교
@@ -69,7 +65,6 @@ GLOSSARY:
   Islam = 이슬람교
   Judaism = 유대교
   Max Müller = 막스 뮐러
-  People = 『피플』
   Proselytism = 개종 권유
   Shi'a = 시아파
   Sunni = 수니파
@@ -114,7 +109,6 @@ GLOSSARY:
   Cornelis Petrus Tiele = 코르넬리스 페트뤼스 틸러
   Europe = 유럽
   Friedrich Max Müller = 프리드리히 막스 뮐러
-  History = 역사학
   Max Müller = 막스 뮐러
   Religious studies = 종교학
   Sociology = 사회학
@@ -137,7 +131,6 @@ GLOSSARY:
   Encyclopedia of Wars = 『전쟁 백과사전』
   Jeffrey Burton Russell = 제프리 버턴 러셀
   Konrad Repgen = 콘라트 레프겐
-  Latin = 라틴어
   Religion = 종교
   War = 전쟁
   holy war = 성전
@@ -218,7 +211,6 @@ LEVEL: 4
 GLOSSARY:
   Drag (physics) = 항력
   Echeneidae = 빨판상어과
-  Family = 가족
   Manta ray = 쥐가오리
   Shark = 상어
   Swordfish = 황새치
@@ -251,7 +243,6 @@ GLOSSARY:
   Tesla = 테슬라
   Torpedo = 어뢰
   Wi-Fi = 와이파이
-  Wired = 『와이어드』
   York = 요크
   universal remotes = 만능 리모컨
 ENTRY:
@@ -298,7 +289,6 @@ GLOSSARY:
   Dutch States Army = 네덜란드 국가군
   Epistemology = 인식론
   Francine = 프랑신
-  French = 프랑스어
   Inquisition = 종교 재판
   Jesuit = 예수회
   Jesuit College of La Flèche = 라플레슈 예수회 학교
@@ -426,7 +416,6 @@ GLOSSARY:
   Masaccio = 마사초
   Medici = 메디치가
   Medici Bank = 메디치 은행
-  Painting = 회화
   Printing = 인쇄
   Renaissance = 르네상스
   Uccello = 우첼로
@@ -449,7 +438,6 @@ GLOSSARY:
   Leonardo da Vinci = 레오나르도 다빈치
   Medici = 메디치가
   Medici family = 메디치 가문
-  Metal = 금속
   Michelangelo = 미켈란젤로
   Middle Ages = 중세
   Panofsky = 파노프스키
@@ -491,7 +479,6 @@ GLOSSARY:
   Guillaume Du Fay = 기욤 뒤페
   Josquin des Prez = 조스캥 데프레
   Lute = 류트
-  Music = 음악
   Palestrina = 팔레스트리나
   Trombone = 트롬본
   cantilena = 칸틸레나
@@ -539,7 +526,6 @@ GLOSSARY:
   Fernand = 페르낭
   Formula E = 포뮬러 E
   Formula One = 포뮬러 원
-  French = 프랑스어
   Louis Renault = 루이 르노
   Marcel = 마르셀
   Nissan = 닛산
@@ -566,7 +552,6 @@ GLOSSARY:
   Greenhouse gas = 온실가스
   Hydropower = 수력 발전
   International Energy Agency = 국제 에너지 기구
-  Mining = 광업
   Nuclear power = 원자력
   Solar energy = 태양 에너지
   United Nations = 국제 연합
@@ -626,7 +611,6 @@ GLOSSARY:
   Civil War = 남북 전쟁
   Jesse L. Reno = 제시 L. 리노
   Nevada = 네바다주
-  Today = 「투데이」
   Union = 북군
   University = 대학
   University of Nevada at Reno = 네바다 대학교 리노
@@ -668,8 +652,6 @@ HEADWORD: Representation theory = 표현론
 LEVEL: 4
 GLOSSARY:
   Abstract algebra = 추상대수학
-  Branch = 브랜치
-  Elements = 『원론』
   Fourier = 푸리에
   Fourier analysis = 푸리에 해석
   Group (mathematics) = 군
@@ -695,12 +677,10 @@ HEADWORD: Reproduction = 생식
 LEVEL: 2
 GLOSSARY:
   Asexual reproduction = 무성 생식
-  Bacteria = 세균
   Bryophyte = 선태식물
   Chlamydomonas reinhardtii = Chlamydomonas reinhardtii
   Cloning = 복제
   Meiosis = 감수 분열
-  Mitosis = 유사 분열
   Muller's ratchet = 멀러의 톱니바퀴
   Mycocepurus smithii = Mycocepurus smithii
   Paramecium = 짚신벌레
@@ -1038,7 +1018,6 @@ Country on the western coast of Central Africa, west of the [[Congo River]]. It 
 HEADWORD: Republican Party = 공화당
 LEVEL: 5
 GLOSSARY:
-  Abraham = 아브라함
   Abraham Lincoln = 에이브러햄 링컨
   American Civil War = 남북 전쟁
   Civil War = 남북 전쟁
@@ -1088,13 +1067,11 @@ GLOSSARY:
   Academic journal = 학술지
   Basic research = 기초 연구
   Bias = 편향
-  Forms = 이데아
   French = 프랑스어
   Humanities = 인문학
   Hypothesis = 가설
   Middle French = 중세 프랑스어
   Peer review = 동료 평가
-  Research = 연구
   applied research = 응용 연구
   hermeneutics = 해석학
   meta-research = 메타 연구

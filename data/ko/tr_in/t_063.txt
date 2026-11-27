@@ -9,7 +9,6 @@ GLOSSARY:
   ELIZA = 일라이자
   Gemini = 제미나이
   Grok = 그록
-  Software = 소프트웨어
   Turing = 튜링
   Turing test = 튜링 테스트
   chatterbot = 채터봇
@@ -81,7 +80,6 @@ GLOSSARY:
   North Caucasus = 북캅카스
   Ramzan Kadyrov = 람잔 카디로프
   Russia = 러시아
-  Russian = 러시아어
   Second = 초
   Second Chechen War = 제2차 체첸 전쟁
   Soviet Union = 소련
@@ -138,7 +136,6 @@ GLOSSARY:
   Brie = 브리
   Central Asia = 중앙아시아
   Cheddar = 체더
-  Cheese = 치즈
   China = 중국
   Dairy = 유제품
   Dumuzi = 두무지
@@ -208,7 +205,6 @@ GLOSSARY:
   Mandibulata = 대악류
   Mite = 진드기
   Spider = 거미
-  Subphylum = 아문
   Venom = 독
   arachnids = 거미류
   book lungs = 책허파
@@ -291,7 +287,6 @@ HEADWORD: Chemical bond = 화학 결합
 LEVEL: 3
 GLOSSARY:
   Atom = 원자
-  Bonds = 쌓기법
   Covalent bond = 공유 결합
   Electron = 전자
   Hydrogen bond = 수소 결합
@@ -339,7 +334,6 @@ GLOSSARY:
   Non-stoichiometric compounds = 비화학량론적 화합물
   Robert Boyle = 로버트 보일
   The Sceptical Chymist = 『회의적 화학자』
-  Water = 물
   chemical element = 화학 원소
   coordinate covalent bonds = 배위 공유 결합
   coordination complexes = 배위 화합물
@@ -371,17 +365,12 @@ GLOSSARY:
   Chemistry = 화학
   Dmitri Mendeleev = 드미트리 멘델레예프
   Earth = 지구
-  Elements = 『원론』
-  Hydrogen = 수소
-  IUPAC = 국제 순수·응용 화학 연합
   Isotope = 동위 원소
   Noble gas = 비활성 기체
   Periodic table = 주기율표
   Pure = 「퓨어」
   Russian = 러시아어
-  Species = 종
   Synthetic element = 합성 원소
-  Water = 물
   astatine = 아스타틴
   atomic weight = 원자량
   baryonic matter = 바리온 물질
@@ -428,13 +417,11 @@ GLOSSARY:
   Bhopal = 보팔
   Bhopal disaster = 보팔 참사
   Chemical plant = 화학 공장
-  Engineering = 공학
   Flixborough disaster = 플릭스버러 참사
   George E. Davis = 조지 E. 데이비스
   India = 인도
   Nanotechnology = 나노기술
   Penicillin = 페니실린
-  Safety = 안전
   United Kingdom = 영국
   biochemical engineering = 생화학 공학
   nanomaterials = 나노 물질
@@ -454,7 +441,6 @@ GLOSSARY:
   Coefficients = 계수
   Hydrochloric acid = 염산
   Jean Beguin = 장 베갱
-  Physical = 「Physical」
   Reactants = 반응물
   Sodium = 나트륨
   aqueous solution = 수용액
@@ -505,7 +491,6 @@ Notation for the composition and structure of chemical compounds. Formulas use e
 HEADWORD: Chemical industry = 화학 공업
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Fertilizer = 비료
   Glasgow = 글래스고
   Industrial Revolution = 산업 혁명
@@ -535,11 +520,9 @@ LEVEL: 4
 GLOSSARY:
   Activation energy = 활성화 에너지
   Arrhenius equation = 아레니우스 식
-  Branch = 브랜치
   Cato Guldberg = 카토 굴베르그
   Chemical reaction = 화학 반응
   Chemistry = 화학
-  Ludwig = 루트비히
   Ludwig Wilhelmy = 루트비히 빌헬미
   Nobel Prize = 노벨상
   Nobel Prize in Chemistry = 노벨 화학상
@@ -644,7 +627,6 @@ GLOSSARY:
   Iraq = 이라크
   Iraq War = 이라크 전쟁
   Jews = 유대인
-  Nazi = 나치
   Nazi Germany = 나치 독일
   Orange = 오렌지 카운티
   Prohibition = 금주법 시대
@@ -685,9 +667,6 @@ GLOSSARY:
   Chemical reaction = 화학 반응
   Chemistry = 화학
   Egypt = 이집트
-  Elements = 『원론』
-  Energy = 에너지
-  IUPAC = 국제 순수·응용 화학 연합
   Kemet = 케메트
   Periodic table = 주기율표
   Pure = 「퓨어」
@@ -730,7 +709,6 @@ HEADWORD: Chemotherapy = 화학 요법
 LEVEL: 4
 GLOSSARY:
   Cancer = 암
-  Chemotherapy = 화학 요법
   Lupus = 루푸스
   Mitosis = 유사 분열
   Multiple sclerosis = 다발성 경화증
@@ -755,7 +733,6 @@ LEVEL: 4
 GLOSSARY:
   Chengdu = 청두
   China = 중국
-  City = 도시
   Dujiangyan = 두장옌
   Han Empire = 한나라
   Information technology = 정보 기술
@@ -816,7 +793,6 @@ GLOSSARY:
   Bank = 은행
   Credit card = 신용 카드
   Debit card = 직불 카드
-  Forms = 이데아
   India = 인도
   Maurya = 마우리아
   Maurya Empire = 마우리아 제국
@@ -896,7 +872,6 @@ GLOSSARY:
   Eastern Band of Cherokee Indians = 이스턴 밴드 오브 체로키 인디언스
   Georgia = 조지아
   Indian Removal Act = 인디언 이주법
-  Indigenous = 원주민
   Iroquoian = 이로쿼이어족
   Kentucky = 켄터키주
   Nation = 민족
@@ -907,7 +882,6 @@ GLOSSARY:
   South Carolina = 사우스캐롤라이나주
   Southeastern Woodlands = 남동부 삼림 지대
   Tennessee = 테네시주
-  Today = 「투데이」
   Trail of Tears = 눈물의 길
   United Keetoowah Band = 유나이티드 키투와 밴드
   United States = 미국
@@ -927,7 +901,6 @@ GLOSSARY:
   Europe = 유럽
   Flanders = 플랑드르
   Henry VIII = 헨리 8세
-  Irrigation = 관개
   Kent = 켄트
   Prunus = 벚나무속
   Prunus avium = 프루누스 아비움
@@ -978,7 +951,6 @@ GLOSSARY:
   Cherry = 체리
   Cultivar = 재배 품종
   Europe = 유럽
-  Flower = 꽃
   Heian period = 헤이안 시대
   Japan = 일본
   Prunus = 벚나무속
@@ -1044,7 +1016,6 @@ GLOSSARY:
   Chess = 체스
   Deep Blue = 딥 블루
   Europe = 유럽
-  FIDE = 국제 체스 연맹
   Garry Kasparov = 가리 카스파로프
   India = 인도
   International Chess Federation = 국제 체스 연맹

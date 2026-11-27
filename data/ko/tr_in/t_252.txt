@@ -79,7 +79,6 @@ GLOSSARY:
   AGA cooker = 아가 쿠커
   Anatolia = 아나톨리아
   Central Europe = 중부 유럽
-  Clay = 점토
   Cooking = 요리
   Egypt = 이집트
   Eridu = 에리두
@@ -88,7 +87,6 @@ GLOSSARY:
   Indus = 인더스강
   Indus Valley = 인더스강 유역
   Indus Valley Civilisation = 인더스 문명
-  James = 야고보
   James Sharp = 제임스 샤프
   Mesopotamia = 메소포타미아
   Middle Ages = 중세
@@ -96,7 +94,6 @@ GLOSSARY:
   Percy Spencer = 퍼시 스펜서
   Sharp = 샤프
   Spencer = 「스펜서」
-  Tool = 도구
   Ukraine = 우크라이나
   Ur = 우르
   forced convection = 강제 대류
@@ -174,7 +171,6 @@ GLOSSARY:
   Metamorphoses = 『변신 이야기』
   Middle Ages = 중세
   Myth = 신화
-  Ovid = 오비디우스
   Publius Ovidius Naso = 푸블리우스 오비디우스 나소
   Quintilian = 퀸틸리아누스
   Rome = 로마
@@ -272,7 +268,6 @@ GLOSSARY:
   Oxford = 옥스퍼드
   Oxfordshire = 옥스퍼드셔
   River Thames = 템스강
-  Teaching = 교수
   Thames = 템스강
   University = 대학
   University of Oxford = 옥스퍼드 대학교
@@ -333,7 +328,6 @@ GLOSSARY:
   Chemical element = 화학 원소
   Combustion = 연소
   Earth's crust = 지각
-  John = 존
   John Mayow = 존 메이오
   Joseph Priestley = 조지프 프리스틀리
   Michael Sendivogius = 미하우 세지보이
@@ -424,7 +418,6 @@ GLOSSARY:
   Pearl = 진주
   Pinctada maxima = Pinctada maxima
   Pteriidae = 진주조개과
-  True = 『True』
   bivalve = 이매패류
   bivalve mollusks = 이매패류
   metric tons = 미터톤
@@ -507,7 +500,6 @@ GLOSSARY:
   Pharaoh = 파라오
   Ramesses II = 람세스 2세
   Romantic = 낭만주의
-  Sonnet = 소네트
   The Examiner = 『이그재미너』
   Younger Memnon = 영거 멤논
 ENTRY:
@@ -521,7 +513,6 @@ GLOSSARY:
   Black Sabbath = 블랙 사바스
   Blizzard of Ozz = 「블리자드 오브 오즈」
   MTV = MTV
-  Prince = 후작
   Prince of Darkness = 어둠의 왕자
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
   Sabbath = 안식일
@@ -759,7 +750,6 @@ LEVEL: 4
 GLOSSARY:
   Finland = 핀란드
   Finn = 핀
-  Finnish = 핀란드어
   Flying Finn = 날아다니는 핀란드인
   Helsinki = 헬싱키
   Olympic Games = 올림픽
@@ -781,13 +771,10 @@ GLOSSARY:
   Franco = 프랑코
   Hymn to the United Nations = 「유엔 찬가」
   Johann Sebastian Bach = 요한 제바스티안 바흐
-  John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   Medal of Freedom = 자유 훈장
   Nationalist = 국민파
   Nationalist forces = 국민혁명군
-  Peace = 평화
   Prades = 프라드
   Presidential Medal of Freedom = 대통령 자유 훈장
   Puerto Rico = 푸에르토리코
@@ -810,7 +797,6 @@ GLOSSARY:
   Medellín = 메데인
   Medellín Cartel = 메데인 카르텔
   Peru = 페루
-  Robin = 로빈
   United States = 미국
   alternate member = 후보위원
   net worth = 순자산
@@ -829,7 +815,6 @@ GLOSSARY:
   Communism = 공산주의
   Communist Party = 공산당
   France = 프랑스
-  Gabriel = 가브리엘
   Gabriel García Márquez = 가브리엘 가르시아 마르케스
   García Márquez = 가르시아 마르케스
   Literature = 문학

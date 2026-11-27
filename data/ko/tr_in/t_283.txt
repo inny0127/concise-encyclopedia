@@ -47,7 +47,6 @@ GLOSSARY:
   Ore = 광석
   Oxide = 산화물
   Photosynthesis = 광합성
-  Redox = 산화 환원 반응
   Rust = 녹
   Smelting = 제련
   cellular respiration = 세포 호흡
@@ -63,7 +62,6 @@ LEVEL: 4
 GLOSSARY:
   Andromeda = 안드로메다
   Andromeda Galaxy = 안드로메다은하
-  Astronomy = 천문학
   Big Bang = 빅뱅
   Christian Doppler = 크리스티안 도플러
   Cosmic microwave background = 우주 마이크로파 배경
@@ -72,7 +70,6 @@ GLOSSARY:
   Earth = 지구
   Expansion of the universe = 우주 팽창
   Galaxy = 은하
-  Redshift = 적색 편이
   Vesto Slipher = 베스토 슬라이퍼
   X-ray = 엑스선
   blueshift = 청색 편이
@@ -116,7 +113,6 @@ GLOSSARY:
   Oxford Companion to Philosophy = 『옥스퍼드 철학 안내서』
   Philosophy = 철학
   Physics = 물리학
-  Reductionism = 환원주의
   emergent phenomena = 창발 현상
   holism = 전체론
   kinetic energy = 운동 에너지
@@ -392,7 +388,6 @@ GLOSSARY:
   Light = 빛
   Prism (optics) = 프리즘
   Rainbow = 무지개
-  Refraction = 굴절
   Refractive index = 굴절률
   Snell's law = 스넬의 법칙
   angles of incidence = 입사각
@@ -411,7 +406,6 @@ GLOSSARY:
   Glasses = 안경
   Lens = 렌즈
   Myopia = 근시
-  Presbyopia = 노안
   Surgery = 수술
   contact lenses = 콘택트렌즈
   cornea = 각막
@@ -429,7 +423,6 @@ GLOSSARY:
   Prism (optics) = 프리즘
   Rainbow = 무지개
   Snell's law = 스넬의 법칙
-  Thomas = 토머스
   Thomas Young = 토머스 영
   Thomas Young (scientist) = 토머스 영
   Water = 물
@@ -446,7 +439,6 @@ GLOSSARY:
   Houston = 휴스턴
   Las Vegas = 라스베이거스
   Nevada = 네바다주
-  Refrigeration = 냉장
   Refrigerator = 냉장고
   Texas = 텍사스주
   chlorofluorocarbon = 염화 플루오린화 탄소
@@ -497,10 +489,8 @@ GLOSSARY:
   Do the Reggay = 「Do the Reggay」
   Jamaica = 자메이카
   Jamaican Patois = 자메이카 파토아
-  Music = 음악
   Rastafari = 라스타파리 운동
   Rastafarian = 라스타파리안
-  Reggae = 레게
   Toots and the Maytals = 투츠 앤드 더 메이털스
   Zimbabwe = 짐바브웨
   rocksteady = 록스테디
@@ -528,7 +518,6 @@ GLOSSARY:
   Super = 「슈퍼」
   Super Bowl = 슈퍼볼
   Super Bowl XXXI = 제31회 슈퍼볼
-  White = 흰색
   Year = 해
   defensive end = 디펜시브 엔드
   free agency = 자유 계약 제도
@@ -568,7 +557,6 @@ LEVEL: 5
 GLOSSARY:
   CCF = 협동연방연합
   Canada = 캐나다
-  City = 도시
   Cyclone = 사이클론
   NDP = 신민주당
   Queen = 퀸
@@ -590,10 +578,8 @@ GLOSSARY:
   Continent = 대륙
   Drainage basin = 유역
   Ecosystem = 생태계
-  Human = 인간
   Mountain range = 산맥
   Ocean = 대양
-  Physical = 「Physical」
   Regional geography = 지역 지리학
   ethnography = 민족지
   formal regions = 등질 지역
@@ -636,7 +622,6 @@ GLOSSARY:
   Ken Thompson = 켄 톰프슨
   QED = QED
   Search engine = 검색 엔진
-  Sequence = 수열
   Stephen Cole Kleene = 스티븐 콜 클리니
   Unix = 유닉스
   Word processor = 워드 프로세서
@@ -696,7 +681,6 @@ GLOSSARY:
   Aboriginal Australians = 오스트레일리아 원주민
   Abrahamic = 아브라함계
   Americas = 아메리카
-  Belief = 믿음
   Buddhism = 불교
   Druze = 드루즈파
   Hasidic Judaism = 하시디즘
@@ -732,10 +716,8 @@ GLOSSARY:
   Osborn's caribou = 오즈번카리부
   Rangifer = 순록속
   Rangifer tarandus = Rangifer tarandus
-  Reindeer = 순록
   Santa Claus = 산타클로스
   Siberia = 시베리아
-  Species = 종
   Svalbard = 스발바르 제도
   Svalbard reindeer = 스발바르순록
   boreal = 아한대
@@ -748,10 +730,8 @@ Species of deer (*Rangifer tarandus*), known as caribou in North America. Reinde
 HEADWORD: Heydrich, Reinhard = 하이드리히, 라인하르트
 LEVEL: 5
 GLOSSARY:
-  Czech = 체코어
   Einsatzgruppen = 아인자츠그루펜
   Final Solution = 최종 해결책
-  German = 독일어
   Germany = 독일
   Gestapo = 게슈타포
   Holocaust = 홀로코스트
@@ -805,7 +785,6 @@ GLOSSARY:
   Alethic relativism = 진리 상대주의
   Epistemic relativism = 인식론적 상대주의
   Ethnocentrism = 자민족 중심주의
-  Family = 가족
   Moral relativism = 도덕적 상대주의
   Truth = 진리
   descriptive relativism = 기술적 상대주의
@@ -819,14 +798,11 @@ Family of philosophical views that deny absolute objectivity within a domain, ho
 HEADWORD: Relativistic mechanics = 상대론적 역학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
-  Force = 힘
   Galilean relativity = 갈릴레이 상대성
   General relativity = 일반 상대성 이론
   Lorentz factor = 로런츠 인자
   Quantum gravity = 양자 중력
   Quantum mechanics = 양자역학
-  Relativistic = 상대론적
   Relativistic mechanics = 상대론적 역학
   Special relativity = 특수 상대성 이론
   classical mechanics = 고전 역학
@@ -891,7 +867,6 @@ GLOSSARY:
   Abrahamic religions = 아브라함계 종교
   Age of Exploration = 대항해 시대
   Anglo-Norman = 앵글로노르만어
-  Augustine = 아우구스티누스
   Baháʼí Faith = 바하이교
   Bible = 성경
   Buddhism = 불교
@@ -899,7 +874,6 @@ GLOSSARY:
   Christianity = 기독교
   Cicero = 키케로
   French = 프랑스어
-  Hebrew = 히브리어
   Hinduism = 힌두교
   Islam = 이슬람교
   Judaism = 유대교
@@ -939,12 +913,9 @@ GLOSSARY:
   Apollo = 아폴론
   Christianity = 기독교
   Etruscan religion = 에트루리아 종교
-  Household = 가구
   Julius Caesar = 율리우스 카이사르
   Jupiter = 목성
   Jupiter (god) = 유피테르
-  Polytheistic = 다신교
-  Romans = 로마인
   Rome = 로마
   Vestals = 베스타 신녀
   ancient Rome = 고대 로마
@@ -976,7 +947,6 @@ GLOSSARY:
   Peninsula = 반도
   Persian = 페르시아어
   Sacrifice = 희생 제의
-  Worship = 예배
   Zoroastrianism = 조로아스터교
   al-Lāt = 알라트
   al-ʿUzzā = 알웃자

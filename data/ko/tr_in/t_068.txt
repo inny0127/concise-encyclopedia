@@ -19,7 +19,6 @@ HEADWORD: Cinnabar = 진사
 LEVEL: 5
 GLOSSARY:
   China = 중국
-  Cinnabar = 진사
   Mercury (element) = 수은
   Mohs hardness = 모스 굳기
   Near East = 근동
@@ -45,7 +44,6 @@ GLOSSARY:
   Cinnamomum = Cinnamomum
   Cinnamomum verum = Cinnamomum verum
   Lanka = 랑카
-  Spice = 향신료
   Sri Lanka = 스리랑카
   cassia = 카시아
   cinnamaldehyde = 신남알데히드
@@ -89,7 +87,6 @@ GLOSSARY:
   Russo-Circassian War = 러시아-체르케스 전쟁
   Sunni = 수니파
   Sunni Islam = 수니파
-  Today = 「투데이」
   Turkey = 튀르키예
   ethnic group = 민족 집단
   genocide = 집단 학살
@@ -101,7 +98,6 @@ HEADWORD: Circle = 원
 LEVEL: 3
 GLOSSARY:
   Archimedes = 아르키메데스
-  Book = 책
   Elements = 『원론』
   Euclid's Elements = 『원론』
   Ferdinand = 페르디난트
@@ -144,7 +140,6 @@ GLOSSARY:
   Edison = 에디슨
   Fuse (electrical) = 퓨즈
   MVA = MVA
-  Thomas = 토머스
   Thomas Edison = 토머스 에디슨
   miniature circuit breaker = 소형 회로 차단기
   overcurrent = 과전류
@@ -157,7 +152,6 @@ HEADWORD: Circuit design = 회로 설계
 LEVEL: 4
 GLOSSARY:
   Computer simulation = 컴퓨터 시뮬레이션
-  Engineering = 공학
   Integrated circuit = 집적 회로
   Transistor = 트랜지스터
   breadboard = 브레드보드
@@ -278,7 +272,6 @@ GLOSSARY:
   Jaundice = 황달
   Liver = 간
   MASH = MASH
-  Scar = 스카
   alcohol-related liver disease = 알코올성 간질환
   fibrosis = 섬유화
   hepatitis B = B형 간염
@@ -295,9 +288,7 @@ Chronic disease of the [[Liver|liver]] characterized by fibrosis. Scar tissue an
 HEADWORD: Cirrus cloud = 권운
 LEVEL: 4
 GLOSSARY:
-  Genus = 속
   Halo (optical phenomenon) = 무리
-  Light = 빛
   Mars = 화성
   Saturn = 토성
   Sun dog = 환일
@@ -321,7 +312,6 @@ GLOSSARY:
   Cirsium vulgare = Cirsium vulgare
   Eurasia = 유라시아
   Europe = 유럽
-  Genus = 속
   India = 인도
   Japan = 일본
   Korea = 한국
@@ -488,7 +478,6 @@ GLOSSARY:
   Citrus = 감귤류
   East Asia = 동아시아
   Europe = 유럽
-  Genus = 속
   Grapefruit = 자몽
   Himalayas = 히말라야산맥
   Hybrid (biology) = 잡종
@@ -518,7 +507,6 @@ HEADWORD: City = 도시
 LEVEL: 3
 GLOSSARY:
   Climate change = 기후 변화
-  Following = 「미행」
   French = 프랑스어
   Goal = 『골』
   Indus = 인더스강
@@ -553,7 +541,6 @@ GLOSSARY:
   Chaplin = 「채플린」
   Charlie Chaplin = 찰리 채플린
   Film = 영화
-  Harry = 해리
   Harry Myers = 해리 마이어스
   James = 야고보
   James Agee = 제임스 에이지
@@ -575,7 +562,6 @@ HEADWORD: City block = 블록(도시)
 LEVEL: 4
 GLOSSARY:
   Chicago = 시카고
-  City = 도시
   Frankfurt = 프랑크푸르트
   Manhattan = 맨해튼
   Melbourne = 멜버른
@@ -688,7 +674,6 @@ GLOSSARY:
   Texas = 텍사스주
   Treaty = 조약
   Treaty of Guadalupe Hidalgo = 과달루페이달고 조약
-  Violence = 폭력
   drug cartels = 마약 카르텔
   maquiladoras = 마킬라도라
 ENTRY:
@@ -716,7 +701,6 @@ GLOSSARY:
   Discrimination = 차별
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Johnson = 존슨
   Kennedy = 케네디
   Lyndon B. Johnson = 린든 B. 존슨
   Senate = 원로원
@@ -767,7 +751,6 @@ GLOSSARY:
   Indus Valley = 인더스강 유역
   Institution = 제도
   Institution of Civil Engineers = 토목 학회
-  John = 존
   John Smeaton = 존 스미턴
   Lighthouse = 등대
   Mesopotamia = 메소포타미아
@@ -807,7 +790,6 @@ GLOSSARY:
   Napoleonic Code = 나폴레옹 법전
   Precedent = 판례
   Roman Empire = 로마 제국
-  Today = 「투데이」
   canonical = 교회법
   case law = 판례법
   civil law = 민법
@@ -826,7 +808,6 @@ GLOSSARY:
   Communist Party = 공산당
   Freedom of religion = 종교의 자유
   Friedrich Hayek = 프리드리히 하이에크
-  John = 존
   John Stuart Mill = 존 스튜어트 밀
   Libertarians = 자유지상주의자
   Liberty = 자유
@@ -894,7 +875,6 @@ GLOSSARY:
   Provisional Irish Republican Army = 아일랜드 공화국군 임시파
   The Troubles = 북아일랜드 분쟁
   Troubles = 북아일랜드 분쟁
-  Violence = 폭력
   Women's rights = 여성의 권리
   civil resistance = 시민 저항
   civil rights = 민권

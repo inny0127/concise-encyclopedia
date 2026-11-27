@@ -29,12 +29,9 @@ GLOSSARY:
   Gaotai Ruins = 가오타이 유적
   Ice = 얼음
   Ice hockey = 아이스하키
-  Metal = 금속
   Netherlands = 네덜란드
-  People = 『피플』
   Restoration = 왕정복고
   Speed skating = 스피드 스케이팅
-  True = 『True』
   bandy = 밴디
   ringette = 링게트
   synchronized skating = 싱크로나이즈드 스케이팅
@@ -74,7 +71,6 @@ GLOSSARY:
   Danish = 덴마크어
   Europe = 유럽
   Geyser = 간헐천
-  Iceland = 아이슬란드
   Icelandic = 아이슬란드어
   NATO = 북대서양 조약 기구
   Nordic = 북유럽
@@ -150,7 +146,6 @@ LEVEL: 4
 GLOSSARY:
   Colombia = 콜롬비아
   Cuckoo = 뻐꾸기
-  Family = 가족
   Icteridae = 찌르레기사촌과
   Mexico = 멕시코
   New World = 신대륙
@@ -217,8 +212,6 @@ HEADWORD: Idaho = 아이다호주
 LEVEL: 5
 GLOSSARY:
   Boise = 보이시
-  Forest = 숲
-  Idaho = 아이다호주
   Mountain = 산
   Mountain West = 산악 서부
   Pacific = 태평양
@@ -242,7 +235,6 @@ GLOSSARY:
   Charles's law = 샤를의 법칙
   Dmitry = 드미트리
   Dmitry Mendeleev = 드미트리 멘델레예프
-  Equation = 방정식
   Gay-Lussac's law = 게이뤼삭의 법칙
   Kelvin = 켈빈
   Mole (unit) = 몰
@@ -267,7 +259,6 @@ GLOSSARY:
   Bertrand Russell = 버트런드 러셀
   G. E. Moore = G. E. 무어
   George Berkeley = 조지 버클리
-  Idealism = 관념론
   Immanuel Kant = 이마누엘 칸트
   Indian philosophy = 인도 철학
   Mahayana = 대승 불교
@@ -310,7 +301,6 @@ GLOSSARY:
   Espionage = 첩보
   Federal Trade Commission = 연방 거래 위원회
   Fingerprint = 지문
-  Government = 정부
   Government Accountability Office = 미국 회계 감사원
   Identity theft = 신원 도용
   Office = 성무일도
@@ -332,7 +322,6 @@ HEADWORD: Ideology = 이데올로기
 LEVEL: 3
 GLOSSARY:
   Antoine Destutt de Tracy = 앙투안 데스튀트 드 트라시
-  Belief = 믿음
   Cognition = 인지
   Elements = 『원론』
   Elements of Ideology = 『이데올로기 요론』
@@ -344,7 +333,6 @@ GLOSSARY:
   Marx = 마르크스
   Myth = 신화
   Napoleon = 나폴레옹
-  Others = 아더
   Paul = 바울로
   Paul James = 폴 제임스
   Reign of Terror = 공포 정치
@@ -396,7 +384,6 @@ GLOSSARY:
   Elphaba = 엘파바
   Elsa = 엘사
   Frozen = 「겨울왕국」
-  Holiday = 명절
   Holiday Wishes = 『Holiday Wishes』
   Let It Go = 「Let It Go」
   Rent (musical) = 「렌트」
@@ -431,7 +418,6 @@ GLOSSARY:
   Ten Commandments = 십계명
   Virgin = 『버진』
   Virgin Mary = 성모 마리아
-  Worship = 예배
   aniconism = 아니코니즘
   bhakti = 박티
   eidololatria = 에이돌롤라트리아
@@ -524,7 +510,6 @@ GLOSSARY:
   Arctic = 북극
   Central Arctic = 중앙 북극권
   Greenland = 그린란드
-  Igloo = 이글루
   Inuit = 이누이트
   Qaanaaq = 카낙
   Snow = 눈
@@ -562,7 +547,6 @@ GLOSSARY:
   General Hospital = 「제너럴 호스피털」
   German = 독일어
   Hospital = 병원
-  Hungarian = 헝가리어
   Joseph Lister = 조지프 리스터
   Louis Pasteur = 루이 파스퇴르
   Pasteur = 파스퇴르
@@ -640,7 +624,6 @@ GLOSSARY:
   Dinosaur = 공룡
   Early Cretaceous = 전기 백악기
   England = 잉글랜드
-  Genus = 속
   Germany = 독일
   Gideon Mantell = 기디언 맨텔
   I. bernissartensis = I. 베르니사르텐시스
@@ -769,8 +752,6 @@ GLOSSARY:
   Chicago = 시카고
   France = 프랑스
   French = 프랑스어
-  Illinois = 일리노이주
-  Indigenous = 원주민
   Lake = 호수
   Lake Michigan = 미시간호
   Michigan = 미시간주
@@ -798,7 +779,6 @@ GLOSSARY:
   Catholic = 가톨릭
   Catholic Church = 가톨릭교회
   Church = 처치
-  Conservative = 보수당
   Elector = 선제후
   Electorate of Bavaria = 바이에른 선제후국
   French = 프랑스어
@@ -816,7 +796,6 @@ GLOSSARY:
   Japan = 일본
   Norman = 노르만
   Norman Rockwell = 노먼 록웰
-  Once = 『Once』
   Printing = 인쇄
   Sotheby's = 소더비
   Ukiyo-e = 우키요에
@@ -868,7 +847,6 @@ GLOSSARY:
   China = 중국
   Force = 힘
   Ilyushin = 일류신
-  Military = 군대
   Russian = 러시아어
   Russian Air Force = 러시아 공군
   Soviet Union = 소련

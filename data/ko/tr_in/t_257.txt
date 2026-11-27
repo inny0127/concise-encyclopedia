@@ -28,11 +28,9 @@ LEVEL: 4
 GLOSSARY:
   Bacteria = 세균
   Fungus = 균류
-  Infection = 감염
   Lupus = 루푸스
   Mosquito = 모기
   Mycobacterium tuberculosis = 결핵균
-  Organism = 생물
   Pathogenicity = 병원성
   Protozoa = 원생동물
   Tick = 진드기
@@ -80,7 +78,6 @@ GLOSSARY:
   Bihar and Orissa Province = 비하르오리사주
   Chanakya = 차나키아
   Court = 법원
-  Following = 「미행」
   Gandak = 간다크강
   Ganges = 갠지스강
   Gupta = 굽타
@@ -120,7 +117,6 @@ GLOSSARY:
   Raskol = 라스콜
   Romanov = 로마노프 왕조
   Romanov dynasty = 로마노프 왕조
-  Rus' = 루스
   Russian = 러시아어
   Russian Orthodox Church = 러시아 정교회
   Tsar = 차르
@@ -156,7 +152,6 @@ GLOSSARY:
   Apple TV = 애플 TV
   Best Supporting Actress = 여우조연상
   Boyhood = 「보이후드」
-  Dream = 꿈
   Emmy = 에미상
   Emmy Award = 에미상
   Medium = 「미디엄」
@@ -422,7 +417,6 @@ GLOSSARY:
   Buddy Holly = 버디 홀리
   Canadian = 캐나다
   Diana = 「Diana」
-  Frank = 프랭크
   Frank Sinatra = 프랭크 시나트라
   Johnny Carson = 조니 카슨
   Michael Jackson = 마이클 잭슨
@@ -442,7 +436,6 @@ LEVEL: 4
 GLOSSARY:
   Ahidjo = 아히조
   Ahmadou Ahidjo = 아마두 아히조
-  Biya = 비야강
   Cameroon = 카메룬
   Cameroon People's Democratic Movement = 카메룬 인민민주연합
   Democratic = 민주당
@@ -465,7 +458,6 @@ GLOSSARY:
   Camille Pissarro = 카미유 피사로
   Cubism = 입체주의
   Cézanne = 세잔
-  French = 프랑스어
   Henri Matisse = 앙리 마티스
   Impressionism = 인상주의
   Impressionist = 인상주의
@@ -539,7 +531,6 @@ LEVEL: 4
 GLOSSARY:
   Democratic = 민주당
   Democratic Republic of the Congo = 콩고 민주 공화국
-  Human = 인간
   Human rights = 인권
   Laurent-Désiré Kabila = 로랑데지레 카빌라
   Republic of the Congo = 콩고 공화국
@@ -665,7 +656,6 @@ GLOSSARY:
   Henry Wadsworth Longfellow = 헨리 워즈워스 롱펠로
   Lexington = 렉싱턴
   Patriot = 애국파
-  Paul = 바울로
   Paul Revere's Ride = 「폴 리비어의 질주」
   Penobscot Expedition = 페놉스콧 원정
   minutemen = 민병대
@@ -681,8 +671,6 @@ GLOSSARY:
   Foundations of Economic Analysis = 『경제 분석의 기초』
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Johnson = 존슨
-  Kennedy = 케네디
   Keynesian economics = 케인스 경제학
   Keynesianism = 케인스주의
   Lyndon B. Johnson = 린든 B. 존슨
@@ -741,7 +729,6 @@ LEVEL: 4
 GLOSSARY:
   Asia = 아시아
   Asia Minor = 소아시아
-  Christians = 기독교인
   Damascus = 다마스쿠스
   Europe = 유럽
   Gentiles = 이방인
@@ -839,7 +826,6 @@ GLOSSARY:
   EBay = 이베이
   Elon Musk = 일론 머스크
   Fortune 500 = 포춘 500
-  PayPal = 페이팔
   X.com = X.com
   eBay = 이베이
 ENTRY:

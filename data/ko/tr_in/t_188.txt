@@ -213,7 +213,6 @@ GLOSSARY:
   Huguenots = 위그노
   Hundred Years' War = 백년 전쟁
   Louis XIV = 루이 14세
-  Monarchy = 군주제
   Philip II = 필리프 2세
   Plantagenet = 플랜태저넷
   Religion = 종교
@@ -256,7 +255,6 @@ GLOSSARY:
   Prince = 후작
   Roman the Great = 로만 대공
   Romania = 루마니아
-  Rus' = 루스
   Ruthenia = 루테니아
   Ukraine = 우크라이나
   Volhynia = 볼히니아
@@ -343,7 +341,6 @@ GLOSSARY:
   John Hunyadi = 후녀디 야노시
   Matthias Corvinus = 마차시 1세
   Mohács = 모하치
-  Ottoman = 오스만
   Ottomans = 오스만 제국
   Stephen I = 이슈트반 1세
   The House = 하원
@@ -466,7 +463,6 @@ GLOSSARY:
   Egypt = 이집트
   Kashta = 카슈타
   Kerma = 케르마
-  Kush = 쿠시
   Makuria = 마쿠리아
   Meroë = 메로에
   New Kingdom = 신왕국
@@ -490,7 +486,6 @@ GLOSSARY:
   Austro-Prussian War = 프로이센-오스트리아 전쟁
   Berlin = 베를린
   Brandenburg = 브란덴부르크
-  Following = 「미행」
   France = 프랑스
   Franco-Prussian War = 프로이센-프랑스 전쟁
   Frederick = 프리드리히
@@ -527,7 +522,6 @@ GLOSSARY:
   Crown = 영국 왕실
   Crown of Aragon = 아라곤 연합 왕국
   Duchy of Apulia = 풀리아 공국
-  Following = 「미행」
   Italy = 이탈리아
   Kingdom of Italy = 이탈리아 왕국
   Kingdom of the Two Sicilies = 양시칠리아 왕국
@@ -603,8 +597,6 @@ GLOSSARY:
   Coraciiformes = 파랑새목
   Eocene = 에오세
   Europe = 유럽
-  Family = 가족
-  Fossil = 화석
   Lower Eocene = 전기 에오세
   Oceania = 오세아니아
   Wyoming = 와이오밍주
@@ -665,7 +657,6 @@ GLOSSARY:
   Appendix III = 부속서 III
   CITES = 멸종 위기에 처한 야생 동식물종의 국제 거래에 관한 협약
   Coati = 긴코너구리
-  Honduras = 온두라스
   Mammal = 포유류
   Mexico = 멕시코
   Potos = 포토스속
@@ -709,7 +700,6 @@ LEVEL: 5
 GLOSSARY:
   China = 중국
   Fujian = 푸젠성
-  Kinmen = 진먼섬
   People's Liberation Army = 중국 인민해방군
   Quemoy = 진먼
   Republic of China = 중화민국
@@ -718,7 +708,6 @@ GLOSSARY:
   Strait = 해협
   Taiwan = 타이완
   Taiwan Strait = 타이완 해협
-  Travel = 여행
   Xiamen = 샤먼
 ENTRY:
 Group of islands and county of the Republic of China ([[Taiwan]]), 10 km (6 mi) east of [[Xiamen]] in Fujian, China. Kinmen, also called Quemoy, lies 187 km (116 mi) west of the main island of Taiwan across the [[Taiwan Strait]]. Its strategic location has caused repeated confrontations. In August 1958 the [[People's Liberation Army]] heavily bombarded the islands during the Second Taiwan Strait Crisis. Travel restrictions to the main island of Taiwan were lifted in 1994, and a ferry route to Xiamen opened in January 2001.
@@ -733,7 +722,6 @@ GLOSSARY:
   Democratic = 민주당
   Democratic Republic of the Congo = 콩고 민주 공화국
   Francophone = 프랑스어권
-  French = 프랑스어
   Henry Morton Stanley = 헨리 모턴 스탠리
   Kinshasa = 킨샤사
   Leopold = 레오폴트
@@ -758,7 +746,6 @@ GLOSSARY:
   Affinity (law) = 인척
   Confucian filial piety = 유교의 효
   Genealogy = 계보
-  Kinship = 친족
   Robin = 로빈
   Robin Fox = 로빈 폭스
   Socialization = 사회화
@@ -891,7 +878,6 @@ LEVEL: 4
 GLOSSARY:
   Mesopotamia = 메소포타미아
   Oxytocin = 옥시토신
-  Romantic = 낭만주의
 ENTRY:
 Touching or pressing of the lips against another person, animal or object. Kissing can express love, passion, affection, respect, a wish for peace or good luck, and other meanings that vary widely between cultures. In some situations it serves as a greeting, a ritual or a symbolic gesture of religious devotion or institutional respect. Biologically, kissing triggers the release of hormones such as [[Oxytocin|oxytocin]], which foster bonding and attachment. Romantic or sexual kissing is not universal: a cross-cultural study found it in only about 46% of 168 societies surveyed. Kissing is recorded in texts from [[Mesopotamia]] dating back at least to 2500 BCE, where it appeared in both ritual and intimate contexts.
 
@@ -914,7 +900,6 @@ HEADWORD: Kite = 연
 LEVEL: 4
 GLOSSARY:
   Aircraft = 항공기
-  Kites = 연꼴
   Man-lifting kites = 유인 연
   Power kites = 파워 카이트
   biplane = 복엽기
@@ -956,7 +941,6 @@ GLOSSARY:
   Malagasy = 마다가스카르
   Moa = 모아
   New Zealand = 뉴질랜드
-  Predation = 포식
   Zealand = 셸란섬
   near threatened = 준위협
   ratites = 평흉류

@@ -55,7 +55,6 @@ LEVEL: 4
 GLOSSARY:
   Airline = 항공사
   Bank = 은행
-  Costume = 의상
   Latin = 라틴어
   Military = 군대
   Police = 경찰
@@ -180,7 +179,6 @@ HEADWORD: Unit 731 = 731부대
 LEVEL: 5
 GLOSSARY:
   Harbin = 하얼빈
-  Human = 인간
   Imperial Japanese Army = 일본 제국 육군
   Japan = 일본
   Manchukuo = 만주국
@@ -200,7 +198,6 @@ LEVEL: 5
 GLOSSARY:
   Cartesian = 직교 좌표
   Cartesian plane = 데카르트 평면
-  Circle = 원
   Complex number = 복소수
   Pythagorean = 피타고라스학파
   Pythagorean theorem = 피타고라스 정리
@@ -242,7 +239,6 @@ GLOSSARY:
   Buddhism = 불교
   Christianity = 기독교
   Church = 처치
-  Liberal = 자유당
   Public Religion Research Institute = 공공종교연구소
   Religion = 종교
   Research = 연구
@@ -281,7 +277,6 @@ GLOSSARY:
   Trinity = 삼위일체
   Unitarian = 유니테리언
   Unitarian Church of Transylvania = 트란실바니아 유니테리언 교회
-  Unitarianism = 유니테리언주의
   Unitarians = 유니테리언
   ecumenical councils = 공의회
 ENTRY:
@@ -327,7 +322,6 @@ GLOSSARY:
   United Express = 유나이티드 익스프레스
   United States = 미국
   Victoria = 빅토리아
-  William = 윌리엄
   William E. Boeing = 윌리엄 E. 보잉
   air service = 항공대
 ENTRY:
@@ -344,7 +338,6 @@ GLOSSARY:
   British protectorate = 영국 보호령
   Dubai = 두바이
   Emiratis = 에미리트인
-  Human = 인간
   Human rights = 인권
   Islam = 이슬람교
   Peninsula = 반도
@@ -601,7 +594,6 @@ GLOSSARY:
   Capitol Hill = 캐피톨 힐
   Civil War = 남북 전쟁
   National Mall = 내셔널 몰
-  Neoclassical = 신고전주의
   Philadelphia = 필라델피아
   U.S. Congress = 미국 의회
   United States = 미국
@@ -637,7 +629,6 @@ Bicameral [[Legislature|legislature]] of the federal government of the United St
 HEADWORD: United States Declaration of Independence = 미국 독립 선언
 LEVEL: 4
 GLOSSARY:
-  Abraham = 아브라함
   Abraham Lincoln = 에이브러햄 링컨
   Continental Congress = 대륙 회의
   Crown = 영국 왕실
@@ -744,7 +735,6 @@ GLOSSARY:
   Civil engineering = 토목 공학
   Confederate = 남부 연합
   Dwight D. Eisenhower = 드와이트 D. 아이젠하워
-  Eisenhower = 아이젠하워
   Revolutionary War = 독립 전쟁
   Robert E. Lee = 로버트 E. 리
   U.S. Army = 미국 육군
@@ -791,7 +781,6 @@ GLOSSARY:
   Saint Thomas = 세인트토머스섬
   Sugarcane = 사탕수수
   Thomas = 토머스
-  Tourism = 관광
   Treaty = 조약
   Treaty of the Danish West Indies = 덴마크령 서인도 제도 조약
   United States = 미국

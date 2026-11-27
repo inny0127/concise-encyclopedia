@@ -38,7 +38,6 @@ GLOSSARY:
   Moscow Metro = 모스크바 지하철
   Moskva = 『모스크바』
   Moskva River = 모스크바강
-  Peter = 베드로
   Peter the Great = 표트르 대제
   Petersburg = 피터즈버그
   Principality of Moscow = 모스크바 공국
@@ -171,7 +170,6 @@ GLOSSARY:
   Cretaceous = 백악기
   Culicidae = 모기과
   Dengue fever = 뎅기열
-  Family = 가족
   Fly = 파리
   Malaria = 말라리아
   Yellow fever = 황열
@@ -208,7 +206,6 @@ GLOSSARY:
   Intelligence = 지능
   Israel = 이스라엘
   Knesset = 크네세트
-  Mossad = 모사드
   Ronen Bergman = 로넨 베르그만
   covert operations = 비밀 공작
   deep state = 딥 스테이트
@@ -220,11 +217,9 @@ HEADWORD: Mosul = 모술
 LEVEL: 4
 GLOSSARY:
   Arab world = 아랍 세계
-  Arabs = 아랍인
   Assyrians = 아시리아인
   Baghdad = 바그다드
   Christians = 기독교인
-  City = 도시
   Iraq = 이라크
   Islam = 이슬람교
   Islamic State = 이슬람 국가
@@ -233,7 +228,6 @@ GLOSSARY:
   Nineveh = 니네베
   Nineveh Governorate = 니나와주
   Shabaks = 샤바크인
-  Sunni = 수니파
   Sunni Islam = 수니파
   Tigris = 티그리스강
   Turkmens = 투르크멘인
@@ -315,7 +309,6 @@ HEADWORD: Mother = 어머니
 LEVEL: 4
 GLOSSARY:
   Adoption = 입양
-  Female = 암컷
   Fertilisation = 수정
   Immune system = 면역계
   Sexual intercourse = 성교
@@ -336,7 +329,6 @@ GLOSSARY:
   Bird = 조류
   Bridge = 다리
   Heron = 왜가리
-  John = 존
   Paranormal = 초자연 현상
   Point Pleasant = 포인트플레전트
   Richard = 리처드
@@ -366,7 +358,6 @@ GLOSSARY:
   Isaac Newton = 아이작 뉴턴
   Kinematics = 운동학
   Lorentz transformations = 로런츠 변환
-  Motion = 운동
   Newton's laws of motion = 뉴턴의 운동 법칙
   Philosophiæ Naturalis Principia Mathematica = 『자연철학의 수학적 원리』
   Principia = 『프린키피아』
@@ -400,7 +391,6 @@ GLOSSARY:
   Curiosity = 호기심
   Intrinsic motivation = 내재적 동기
   Latin = 라틴어
-  Motivation = 동기
   Neuroscience = 신경과학
   Philosophy = 철학
   Psychology = 심리학
@@ -498,7 +488,6 @@ GLOSSARY:
   Ecumenical Patriarch = 세계 총대주교
   Ecumenical Patriarch of Constantinople = 콘스탄티노폴리스 세계 총대주교
   Greece = 그리스
-  Mountain = 산
   Orthodox = 정교회
   Patriarch = 총대주교
   UNESCO = 유네스코
@@ -658,7 +647,6 @@ GLOSSARY:
   Johannes Rebmann = 요하네스 레프만
   Julius Nyerere = 줄리어스 니에레레
   Kilimanjaro National Park = 킬리만자로 국립공원
-  Seven = 「세븐」
   Stratovolcano = 성층 화산
   Tanzania = 탄자니아
   Uhuru Peak = 우후루봉
@@ -682,7 +670,6 @@ GLOSSARY:
   Main Range = 메인산맥
   Mount Townsend = 타운센드산
   New South Wales = 뉴사우스웨일스주
-  Paul = 바울로
   Poland = 폴란드
   Snowy = 밀루
   Snowy Mountains = 스노이산맥
@@ -788,7 +775,6 @@ GLOSSARY:
   George Washington = 조지 워싱턴
   Gutzon Borglum = 거천 보글럼
   Jefferson = 제퍼슨
-  Mountain = 산
   Nation = 민족
   Sioux = 수족
   Sioux Nation = 수족
@@ -875,7 +861,6 @@ GLOSSARY:
   John Muir = 존 뮤어
   John Muir Trail = 존 뮤어 트레일
   Mount Whitney = 휘트니산
-  Mountain = 산
   Nevada = 네바다주
   Sierra Nevada = 시에라네바다산맥
   Tulare = 툴레어 카운티
@@ -903,7 +888,6 @@ GLOSSARY:
   Mount Fuji = 후지산
   Mount Pinatubo = 피나투보산
   Olympus Mons = 올림푸스산
-  Once = 『Once』
   Philippines = 필리핀
   Plate tectonics = 판 구조론
   Solar System = 태양계

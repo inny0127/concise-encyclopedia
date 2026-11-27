@@ -137,7 +137,6 @@ HEADWORD: Degas, Edgar = 드가, 에드가르
 LEVEL: 4
 GLOSSARY:
   Ballet = 발레
-  French = 프랑스어
   Impressionism = 인상주의
   Italy = 이탈리아
   Louvre = 루브르 박물관
@@ -163,7 +162,6 @@ GLOSSARY:
   Reg Sprigg = 레그 스프리그
   Snowball Earth = 눈덩이 지구
   South Australia = 사우스오스트레일리아주
-  Third = 교향곡 제3번
   trace fossils = 생흔 화석
 ENTRY:
 Third and last period of the Neoproterozoic Era, from 635 to 538.8 million years ago. It is named after the Ediacara Hills of South Australia, where geologist Reg Sprigg discovered trace fossils of the Ediacaran biota in 1946. The period marks the first widespread appearance of complex multicellular life after the [[Snowball Earth]] glaciation, and it ends at the beginning of the [[Cambrian]] Period, when recognizable [[Fossil|fossil]] evidence of life becomes common.
@@ -172,7 +170,6 @@ Third and last period of the Neoproterozoic Era, from 635 to 538.8 million years
 HEADWORD: Edinburgh = 에든버러
 LEVEL: 4
 GLOSSARY:
-  City = 도시
   Edinburgh = 에든버러
   Edinburgh International Festival = 에든버러 국제 페스티벌
   Festival = 축제
@@ -404,7 +401,6 @@ GLOSSARY:
   Burroughs Corporation = 버로스사
   Corporation = 기업
   Dijkstra's algorithm = 데이크스트라 알고리즘
-  Dutch = 네덜란드어
   Eindhoven = 에인트호번
   J. A. Zonneveld = J. A. 존네펠트
   Mathematical Centre = 수학 센터
@@ -433,7 +429,6 @@ GLOSSARY:
   Dialectic = 변증법
   Evolutionary Socialism = 『진화적 사회주의』
   Friedrich Engels = 프리드리히 엥겔스
-  German = 독일어
   Hegelian = 헤겔
   Independent Social Democratic Party = 독립사회민주당
   Karl Marx = 카를 마르크스
@@ -490,11 +485,9 @@ GLOSSARY:
   Critical thinking = 비판적 사고
   Early childhood education = 유아 교육
   Economic growth = 경제 성장
-  Education = 교육
   Formal education = 형식 교육
   Latin = 라틴어
   Non-formal education = 비형식 교육
-  Others = 아더
   Primary education = 초등 교육
   Printing press = 인쇄기
   R. S. Peters = R. S. 피터스
@@ -532,7 +525,6 @@ GLOSSARY:
   Henri de Toulouse-Lautrec = 앙리 드 툴루즈로트레크
   Kristiania = 크리스티아니아
   Life = 『라이프』
-  Norwegian = 노르웨이어
   Oslo = 오슬로
   Paris = 파리
   Paul = 바울로
@@ -657,7 +649,6 @@ GLOSSARY:
   Roger Mortimer = 로저 모티머
   Treaty = 조약
   Treaty of Brétigny = 브레티니 조약
-  Whig = 휘그당
   Whig historians = 휘그 사관 역사가
   de facto = 사실상
 ENTRY:
@@ -922,7 +913,6 @@ GLOSSARY:
   Mary I = 메리 1세
   Northumberland = 노섬벌랜드
   Protestant = 개신교
-  Protestantism = 개신교
   Somerset = 서머싯
   clerical celibacy = 성직자 독신제
   regency council = 섭정 위원회

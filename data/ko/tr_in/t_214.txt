@@ -4,21 +4,17 @@ LEVEL: 4
 GLOSSARY:
   Antilles = 앤틸리스 제도
   Area = 넓이
-  Bananas = 『바나나스』
   Caribbean Sea = 카리브해
   Euro = 유로
   European Union = 유럽 연합
   France = 프랑스
-  French = 프랑스어
   Lesser Antilles = 소앤틸리스 제도
   Louis XIII = 루이 13세
-  Martinique = 마르티니크
   Mount Pelée = 펠레산
   Pierre Belain d'Esnambuc = 피에르 블랭 데남뷔크
   Saint-Pierre = 생피에르
   Schengen = 솅겐
   Schengen Area = 솅겐 지역
-  Spain = 스페인
   Union = 연방
   outermost region = 최외곽 지역
 ENTRY:
@@ -234,7 +230,6 @@ GLOSSARY:
   Lady Jane Grey = 제인 그레이
   Parliament = 의회
   Philip II = 펠리페 2세
-  Queen = 퀸
   Reformation = 종교 개혁
   Spain = 스페인
   queen consort = 왕비
@@ -248,7 +243,6 @@ LEVEL: 5
 GLOSSARY:
   Academy Award = 아카데미상
   Billboard Hot 100 = 빌보드 핫 100
-  Family = 가족
   Family Affair = 「패밀리 어페어」
   Grammy = 그래미상
   Grammy Awards = 그래미상
@@ -306,9 +300,7 @@ GLOSSARY:
   Douglas = 더글러스
   Douglas Fairbanks = 더글러스 페어뱅크스
   Gladys Louise Smith = 글래디스 루이즈 스미스
-  Griffith = 그리피스
   Motion = 운동
-  Queen = 퀸
   Queen of the Movies = 영화의 여왕
   Silent film = 무성 영화
   Toronto = 토론토
@@ -349,7 +341,6 @@ GLOSSARY:
   John = 존
   John Knox = 존 녹스
   Lord Darnley = 단리 경
-  Queen = 퀸
   Scotland = 스코틀랜드
   Scottish = 스코틀랜드
   dauphin = 도팽
@@ -393,7 +384,6 @@ GLOSSARY:
   Choice = 초이스
   Critics' Choice Movie Award = 크리틱스 초이스 영화상
   Future = 미래
-  Glasgow = 글래스고
   Globe = 지구본
   Goin' South = 「고잉 사우스」
   Golden Globe = 골든글로브상
@@ -556,7 +546,6 @@ GLOSSARY:
   Crimson = 크림슨
   Crimson Tide = 크림슨 타이드
   French = 프랑스어
-  Human = 인간
   Jim Henson = 짐 헨슨
   Native American = 아메리카 원주민
   Tide = 조석
@@ -571,7 +560,6 @@ LEVEL: 4
 GLOSSARY:
   Abbasid = 아바스 왕조
   Afsharid Iran = 아프샤르 왕조
-  City = 도시
   Ferdowsi = 피르다우시
   Harun al-Rashid = 하룬 알라시드
   Imam = 이맘
@@ -579,7 +567,6 @@ GLOSSARY:
   Iran = 이란
   Islam = 이슬람교
   Khorasan = 호라산
-  Mashhad = 마슈하드
   Nader Shah = 나디르 샤
   Razavi Khorasan = 라자비호라산
   Shah = 샤
@@ -638,7 +625,6 @@ GLOSSARY:
   Husam al-Din Chalabi = 후삼 알딘 찰라비
   Islamic literature = 이슬람 문학
   Muslims = 무슬림
-  Persian = 페르시아어
   Quran = 쿠란
   Rumi = 루미
   Sufi = 수피
@@ -656,13 +642,11 @@ GLOSSARY:
   Concrete = 콘크리트
   Construction = 건설
   English bond = 영국식 쌓기
-  Flemish = 플랑드르
   Flemish bond = 플랑드르식 쌓기
   Friction = 마찰
   Granite = 화강암
   Limestone = 석회암
   Marble = 대리석
-  Masonry = 조적
   Roman aqueducts = 로마 수도교
   Steel = 강철
   adobe = 어도비
@@ -693,10 +677,8 @@ HEADWORD: Mass–energy equivalence = 질량-에너지 등가
 LEVEL: 4
 GLOSSARY:
   Albert Einstein = 알베르트 아인슈타인
-  Einstein = 아인슈타인
   French = 프랑스어
   Henri Poincaré = 앙리 푸앵카레
-  Physical = 「Physical」
   Poincaré = 푸앵카레
   Special relativity = 특수 상대성 이론
   Speed of light = 빛의 속도
@@ -783,8 +765,6 @@ GLOSSARY:
   Diamond = 다이아몬드
   Diamond Sutra = 『금강경』
   England = 잉글랜드
-  Forms = 이데아
-  Gutenberg = 구텐베르크
   Internet = 인터넷
   Johannes Gutenberg = 요하네스 구텐베르크
   John = 존
@@ -794,7 +774,6 @@ GLOSSARY:
   Latin = 라틴어
   London = 런던
   Mass media = 대중 매체
-  Media = 메디아
   Media consolidation = 미디어 통합
   Propaganda = 선전
   Sutra = 경장
@@ -831,7 +810,6 @@ GLOSSARY:
   Ford Motor Company = 포드 모터 컴퍼니
   Industrial Revolution = 산업 혁명
   Interchangeable parts = 호환 부품
-  Manufacturing = 제조업
   assembly lines = 조립 라인
   batch production = 배치 생산
   job production = 개별 생산
@@ -936,12 +914,9 @@ GLOSSARY:
   Dutch = 네덜란드어
   Dutch Top 40 = 네덜란드 톱 40
   Human rights = 인권
-  Marshall = 마셜 제도
   Mezzanine = 『메자닌』
-  Mushroom = 버섯
   Top 40 = 톱 40
   UK Albums Chart = UK 앨범 차트
-  Unfinished = 『언피니시드』
   Unfinished Sympathy = 「언피니시드 심퍼시」
   trip hop = 트립 합
 ENTRY:
@@ -983,7 +958,6 @@ Large, powerful type of [[Dog|dog]]. Mastiffs are among the largest dogs, with a
 HEADWORD: Mastodon = 마스토돈
 LEVEL: 5
 GLOSSARY:
-  Clovis = 클로비스
   Clovis culture = 클로비스 문화
   Elephant = 코끼리
   Holocene = 홀로세

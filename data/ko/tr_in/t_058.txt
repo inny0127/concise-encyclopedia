@@ -32,7 +32,6 @@ GLOSSARY:
   Dracula = 드라큘라
   Famicom = 패밀리 컴퓨터
   Famicom Disk System = 패미컴 디스크 시스템
-  Gothic = 고딕
   Gothic horror = 고딕 호러
   Japan = 일본
   Konami = 코나미
@@ -43,7 +42,6 @@ GLOSSARY:
   Personal computer = 개인용 컴퓨터
   Super = 「슈퍼」
   Super Metroid = 『슈퍼 메트로이드』
-  Symphony = 교향곡
   Symphony of the Night = 『월하의 야상곡』
 ENTRY:
 Gothic horror action-adventure video game series and media franchise created by Konami. The series is largely set in the castle of [[Count Dracula]], arch-enemy of the Belmont clan of vampire hunters. The first game appeared in 1986 on the Famicom Disk System (known in [[Japan]] as *Akumajō Dracula*), and the early entries were side-scrolling platformers. *[[Castlevania: Symphony of the Night|Symphony of the Night]]* (1997) returned to nonlinear exploration and role-playing elements, and many later entries adopted its gameplay model. Together with [[Metroid|Super Metroid]], it popularized the Metroidvania genre. Spanning four decades, the franchise has appeared on consoles, [[Personal computer|personal computers]] and [[Mobile phone|mobile phones]], and includes comic books and a critically acclaimed animated television series.
@@ -52,7 +50,6 @@ Gothic horror action-adventure video game series and media franchise created by 
 HEADWORD: Castration = 거세
 LEVEL: 5
 GLOSSARY:
-  Castration = 거세
   Eunuch = 환관
   Jefferson = 제퍼슨
   Ottoman = 오스만
@@ -63,7 +60,6 @@ GLOSSARY:
   Testosterone = 테스토스테론
   Thomas = 토머스
   Thomas Jefferson = 토머스 제퍼슨
-  Today = 「투데이」
   United States = 미국
   Zhou dynasty = 주나라
   bilateral orchiectomy = 양측 고환 절제술
@@ -95,7 +91,6 @@ GLOSSARY:
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
   Salman = 살만
   Salman Rushdie = 살만 루슈디
-  Stevens = 스티븐스
   Tea for the Tillerman = 「티 포 더 틸러맨」
   Teaser and the Firecat = 「티저 앤드 더 파이어캣」
   Yusuf Islam = 유수프 이슬람
@@ -126,7 +121,6 @@ GLOSSARY:
   Linnaeus = 린네
   Neolithic = 신석기 시대
   Shillourokambos = 실루로캄보스
-  Today = 「투데이」
   United States = 미국
   chromosome pairs = 염색체 쌍
   crepuscular = 박명박모성
@@ -193,9 +187,7 @@ Autonomous community in northeastern Spain, designated a nationality by its Stat
 HEADWORD: Catalysis = 촉매 작용
 LEVEL: 3
 GLOSSARY:
-  Acceleration = 가속도
   Berzelius = 베르셀리우스
-  Catalysis = 촉매 작용
   Catalytic converter = 촉매 변환기
   Chemical equilibrium = 화학 평형
   Chemical reaction = 화학 반응
@@ -340,7 +332,6 @@ LEVEL: 4
 GLOSSARY:
   Aquarium = 수족관
   Asia = 아시아
-  Catfish = 메기
   Corydoras = 코리도라스
   Eurasia = 유라시아
   Mekong = 메콩강
@@ -428,7 +419,6 @@ GLOSSARY:
   Lorenzo de' Medici = 로렌초 데 메디치
   Medici = 메디치가
   Palace = 궁전
-  Queen = 퀸
   Religion = 종교
   Renaissance = 르네상스
   St. Bartholomew's Day massacre = 성 바르톨로메오 축일의 학살
@@ -460,7 +450,6 @@ GLOSSARY:
   Isabella I of Castile = 이사벨 1세
   Kimbolton Castle = 킴볼턴성
   Mary I = 메리 1세
-  Queen = 퀸
   queen regnant = 여왕
 ENTRY:
 Queen of England (1509–33) as the first wife of [[Henry VIII]]. The youngest child of [[Isabella I of Castile|Isabella I of Castile]] and [[Ferdinand II of Aragon|Ferdinand II of Aragon]], she was first married to Henry's elder brother Arthur, who died five months after their 1501 wedding. She served as regent of England in 1513 while Henry was in France. When Henry sought an annulment to marry Anne Boleyn, Catherine refused to accept it or his supremacy over the Church in England. She died in banishment at Kimbolton Castle. Her daughter [[Mary I]] became the first undisputed English queen regnant in 1553.
@@ -518,8 +507,6 @@ Absolute monarchy persisted, and conscription and the economy continued to depen
 HEADWORD: Cathode ray tube = 음극선관
 LEVEL: 4
 GLOSSARY:
-  Color = 색
-  Electron = 전자
   J. J. Thomson = J. J. 톰슨
   Liquid-crystal display = 액정 디스플레이
   OLED = 유기 발광 다이오드
@@ -658,12 +645,10 @@ GLOSSARY:
   Australia = 오스트레일리아
   Bacteria = 세균
   Bos = 소속
-  Cattle = 소
   Cellulose = 셀룰로스
   Chianina = 키아니나
   Enzyme = 효소
   Europe = 유럽
-  Food = 음식
   Hereford = 헤리퍼드
   Hinduism = 힌두교
   India = 인도
@@ -753,7 +738,6 @@ GLOSSARY:
   Lesser Caucasus = 소캅카스산맥
   Likhi Range = 리히산맥
   Mount Elbrus = 엘브루스산
-  Mountain = 산
   Mountain range = 산맥
   Silk = 비단
   Silk Road = 실크로드
@@ -819,7 +803,6 @@ GLOSSARY:
   Cauchy = 코시
   Complex analysis = 복소해석학
   Holomorphic function = 정칙 함수
-  Theorem = 정리
   analytic = 해석적
   complex analysis = 복소해석학
   contour = 경로
@@ -838,7 +821,6 @@ GLOSSARY:
   Brussels = 브뤼셀
   Brussels sprouts = 방울양배추
   Cabbage = 양배추
-  Cauliflower = 콜리플라워
   China = 중국
   Fractal = 프랙털
   India = 인도
@@ -846,7 +828,6 @@ GLOSSARY:
   Mediterranean region = 지중해 지역
   Romanesco = 로마네스코
   Selective breeding = 선택 교배
-  Vegetable = 채소
   cabbage family = 배추과
   curd = 커드
   kale = 케일
@@ -861,7 +842,6 @@ GLOSSARY:
   Bell's theorem = 벨 정리
   Fundamental interaction = 기본 상호 작용
   General relativity = 일반 상대성 이론
-  Physics = 물리학
   Quantum entanglement = 양자 얽힘
   Quantum mechanics = 양자역학
   Special relativity = 특수 상대성 이론
@@ -885,7 +865,6 @@ GLOSSARY:
   Armour = 갑옷
   Attila = 아틸라
   Byzantine = 비잔티움
-  Cavalry = 기병
   Cossack = 코사크
   Heavy cavalry = 중기병
   Huns = 훈족
@@ -993,7 +972,6 @@ GLOSSARY:
   Capsicum = 고추속
   Capsicum annuum = Capsicum annuum
   Carotenoid = 카로티노이드
-  Cayenne = 카옌
   Jalapeño = 할라페뇨
   Scoville units = 스코빌 단위
   Vitamin C = 비타민 C

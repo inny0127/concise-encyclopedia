@@ -7,7 +7,6 @@ GLOSSARY:
   Dopamine = 도파민
   Levodopa = 레보도파
   Lewy bodies = 루이 소체
-  Life = 『라이프』
   Life expectancy = 기대 수명
   MAO-B inhibitors = MAO-B 억제제
   Medical imaging = 의료 영상
@@ -76,7 +75,6 @@ GLOSSARY:
   John Gross = 존 그로스
   Literature = 문학
   Lucian = 루키아노스
-  Parody = 패러디
   Samosata = 사모사타
   True = 『True』
   True History = 『진실한 이야기』
@@ -96,7 +94,6 @@ GLOSSARY:
   Bird = 조류
   Gondwana = 곤드와나
   Hunting = 사냥
-  IUCN = 국제 자연 보전 연맹
   IUCN Red List = IUCN 적색 목록
   IUCN Red List Index = IUCN 적색 목록 지수
   Invasive species = 침입종
@@ -141,7 +138,6 @@ GLOSSARY:
   Iranis = 이라니
   Jamsetji Tata = 잠셋지 타타
   Parsi = 파르시
-  Parsis = 파르시
   Persian = 페르시아어
   Qissa-i Sanjan = 『키사이 산잔』
   Rajput = 라지푸트
@@ -162,13 +158,11 @@ GLOSSARY:
   England = 잉글랜드
   Europe = 유럽
   Flowering plant = 속씨식물
-  Garden = 정원
   Greece = 그리스
   Middle Ages = 중세
   Morocco = 모로코
   Parsley = 파슬리
   Petroselinum crispum = Petroselinum crispum
-  Root = 뿌리
   Root parsley = 뿌리 파슬리
   Sardinia = 사르데냐
   parsley sauce = 파슬리 소스
@@ -191,7 +185,6 @@ GLOSSARY:
   Parsley = 파슬리
   Pastinaca sativa = Pastinaca sativa
   Romans = 로마인
-  Root = 뿌리
   Species = 종
   Species Plantarum = 『식물의 종』
   Sugar = 설탕
@@ -233,7 +226,6 @@ GLOSSARY:
   Athenian = 아테네의
   Athenian Acropolis = 아테네 아크로폴리스
   Callicrates = 칼리크라테스
-  Construction = 건설
   Delian League = 델로스 동맹
   Elgin Marbles = 엘긴 마블스
   Greco-Persian Wars = 페르시아 전쟁
@@ -243,7 +235,6 @@ GLOSSARY:
   Ottoman conquest = 오스만 제국의 정복
   Persian = 페르시아어
   Phidias = 페이디아스
-  Restoration = 왕정복고
   Venetian = 베네치아
 ENTRY:
 Former temple on the [[Acropolis of Athens|Athenian Acropolis]], Greece, dedicated to [[Athena]]. Its sculptures are considered among the high points of classical Greek art. It was built in the 5th century BC in thanksgiving for the Greek victory over the Persian invaders in the [[Greco-Persian Wars]]. Construction began in 447 BC, when the [[Delian League]] was at its peak, and was completed in 438 BC. The architects were Iktinos and Callicrates, and [[Phidias]] oversaw the sculpture. In the final decade of the 6th century AD it became a Christian church, and after the Ottoman conquest in the mid-15th century a mosque. A Venetian bomb hit the Ottoman munitions store inside it during the 1687 siege of the Acropolis, and the explosion severely damaged it. From 1800 to 1803 the 7th Earl of Elgin removed many of the surviving sculptures, now known as the Elgin Marbles. Restoration projects have been undertaken since 1975.
@@ -295,7 +286,6 @@ GLOSSARY:
   C1 function = C¹ 함수
   Carl Gustav Jacob Jacobi = 카를 구스타프 야코프 야코비
   Clairaut's theorem = 클레로 정리
-  Derivative = 도함수
   Differential geometry = 미분기하학
   Legendre = 르장드르
   Marquis de Condorcet = 콩도르세 후작
@@ -310,7 +300,6 @@ Derivative of a function of several variables with respect to one variable, with
 HEADWORD: Partial differential equation = 편미분 방정식
 LEVEL: 4
 GLOSSARY:
-  Equation = 방정식
   Fluid dynamics = 유체 역학
   Heat = 열
   Laplace's equation = 라플라스 방정식
@@ -318,7 +307,6 @@ GLOSSARY:
   Partial derivative = 편미분
   Poincaré = 푸앵카레
   Poincaré conjecture = 푸앵카레 추측
-  Pure = 「퓨어」
   Pure mathematics = 순수 수학
   Quantum mechanics = 양자역학
   differential equations = 미분 방정식
@@ -338,7 +326,6 @@ GLOSSARY:
   Electron = 전자
   Molecule = 분자
   Photon = 광자
-  Physics = 물리학
   Proton = 양성자
   Quantum mechanics = 양자역학
   physical sciences = 물리과학
@@ -358,7 +345,6 @@ GLOSSARY:
   Hadron = 강입자
   Large Hadron Collider = 대형 강입자 충돌기
   Leó Szilárd = 레오 실라르드
-  Machine = 기계
   Max Steenbeck = 막스 슈테엔베크
   Particle physics = 입자 물리학
   Rolf Widerøe = 롤프 비데뢰
@@ -412,7 +398,6 @@ HEADWORD: Particle physics = 입자 물리학
 LEVEL: 3
 GLOSSARY:
   Antimatter = 반물질
-  Branch = 브랜치
   CERN = 유럽 입자 물리 연구소
   Hadron = 강입자
   Hans Bethe = 한스 베테
@@ -598,7 +583,6 @@ GLOSSARY:
   Heaven = 천국
   Hell = 지옥
   Pensées = 『팡세』
-  Reason = 이성
   decision theory = 결정 이론
 ENTRY:
 Philosophical argument for believing in [[God]], advanced by [[Blaise Pascal]]. A rational person should wager on God's existence. If God does not exist, the believer loses only certain pleasures. If God exists, the believer gains an eternity in [[Heaven]] and avoids an eternity in [[Hell]]. Reason cannot settle the question, so a wager is unavoidable. The argument appears in the posthumous *Pensées* ("Thoughts") and is regarded as the first formal application of decision theory. Critics question whether God's existence can be proven, note conflicting religious claims to revelation, and contend that belief motivated by gain is not genuine.
@@ -687,7 +671,6 @@ GLOSSARY:
   Martha = 마사
   Native Americans = 아메리카 원주민
   North America = 북아메리카
-  Once = 『Once』
   anthropogenic extinction = 인위적 멸종
 ENTRY:
 Extinct migratory pigeon of eastern and central [[North America]], *Ectopistes migratorius*. Its name comes from the French *passager*, "passing by," reflecting its migrations. The birds moved in enormous flocks through deciduous forests and bred mainly around the [[Great Lakes]]. Once the most abundant bird in North America, it numbered around 3 billion, possibly up to 5 billion. It could fly at 100 km/h (62 mph). Native Americans hunted it, but [[Hunting|hunting]] intensified after European arrival, and the meat was sold as cheap food on a massive scale. [[Deforestation|Deforestation]] destroyed its habitat, and the population fell slowly from about 1800 to 1870, then rapidly until 1890. A plaque in Indiana states that the last confirmed wild bird was shot in Laurel in 1902. Martha, thought to be the last of the species, died at the Cincinnati Zoo on September 1, 1914. Its loss is a notable example of [[Extinction|anthropogenic extinction]].
@@ -749,7 +732,6 @@ GLOSSARY:
   Hebrew month = 히브리력 달
   Israel = 이스라엘
   Israelites = 이스라엘인
-  Jews = 유대인
   Moses = 모세
   Nisan = 니산월
   Passover = 유월절
@@ -780,7 +762,6 @@ Government-issued travel document certifying the holder's identity and nationali
 HEADWORD: Password = 비밀번호
 LEVEL: 5
 GLOSSARY:
-  Computer = 컴퓨터
   Massachusetts = 매사추세츠주
   Massachusetts Institute of Technology = 매사추세츠 공과대학교
   Multi-factor authentication = 다중 인증
@@ -815,14 +796,12 @@ LEVEL: 4
 GLOSSARY:
   Etruscan = 에트루리아
   Extrusion = 압출
-  Food = 음식
   Italian cuisine = 이탈리아 요리
   Italy = 이탈리아
   Legume = 콩과 식물
   Lentil = 렌즈콩
   Mediterranean = 지중해
   Middle Ages = 중세
-  Pasta = 파스타
   Sicily = 시칠리아
   Trade = 교역
   durum wheat = 듀럼밀
@@ -860,7 +839,6 @@ GLOSSARY:
   Pie = 파이
   Puff pastry = 퍼프 페이스트리
   Shortcrust pastry = 쇼트크러스트 페이스트리
-  Solid = 고체
   Wellington = 웰링턴
   börek = 뵈레크
   gluten = 글루텐
@@ -888,7 +866,6 @@ GLOSSARY:
   Steppe = 스텝
   Strait = 해협
   Strait of Magellan = 마젤란 해협
-  Today = 「투데이」
   fjords = 피오르
   indigenous people = 원주민
   patagón = 파타곤

@@ -13,7 +13,6 @@ GLOSSARY:
   Crown = 영국 왕실
   Crown Colony = 직할 식민지
   Crown colony = 직할 식민지
-  England = 잉글랜드
   George Town = 조지타운
   Grand Cayman = 그랜드케이맨섬
   Jamaica = 자메이카
@@ -35,7 +34,6 @@ GLOSSARY:
   Central Visayas = 중부 비사야
   City = 도시
   Eastern Visayas = 동비사야
-  Ferdinand = 페르디난트
   Ferdinand Magellan = 페르디난드 마젤란
   Highly urbanized city = 고도 도시화 시
   Metro Cebu = 메트로 세부
@@ -137,7 +135,6 @@ LEVEL: 4
 GLOSSARY:
   Atlas = 지도책
   Atlas Mountains = 아틀라스산맥
-  Genus = 속
   Himalayas = 히말라야산맥
   Juniper = 향나무속
   Latin = 라틴어
@@ -156,7 +153,6 @@ HEADWORD: Cefalexin = 세팔렉신
 LEVEL: 5
 GLOSSARY:
   Antibiotic = 항생제
-  Cefalexin = 세팔렉신
   Cell wall = 세포벽
   Common cold = 감기
   Keflex = 케플렉스
@@ -198,7 +194,6 @@ HEADWORD: Celebrity = 유명인
 LEVEL: 4
 GLOSSARY:
   Ancient Greece = 고대 그리스
-  Celebrity = 유명인
   Charles Dickens = 찰스 디킨스
   Childe Harold's Pilgrimage = 『차일드 해럴드의 순례』
   Dickens = 디킨스
@@ -225,7 +220,6 @@ GLOSSARY:
   Apiaceae = 미나리과
   Apium graveolens = 아피움 그라베올렌스
   Carl Linnaeus = 칼 폰 린네
-  Celery = 셀러리
   England = 잉글랜드
   Greece = 그리스
   Linnaeus = 린네
@@ -243,11 +237,9 @@ Cultivated plant of the species *Apium graveolens*. Celery belongs to the [[Apia
 HEADWORD: Celestial mechanics = 천체 역학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Classical mechanics = 고전 역학
   Coordinate system = 좌표계
   Euler = 오일러
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Joseph-Louis Lagrange = 조제프루이 라그랑주
   Kepler's laws = 케플러 법칙
@@ -340,7 +332,6 @@ GLOSSARY:
   Asexuality = 무성애
   Buddhism = 불교
   Catholic = 가톨릭
-  Celibacy = 독신
   Christianity = 기독교
   Essenes = 에세네파
   Hadith = 하디스
@@ -356,7 +347,6 @@ State of voluntarily being unmarried and sexually abstinent. The term is often a
 HEADWORD: Dion, Celine = 디옹, 셀린
 LEVEL: 5
 GLOSSARY:
-  Canadian = 캐나다
   Eurovision Song Contest = 유로비전 송 콘테스트
   Eurovision Song Contest 1988 = 1988년 유로비전 송 콘테스트
   Go On = 「고 온」
@@ -364,7 +354,6 @@ GLOSSARY:
   Grammy Awards = 그래미상
   Heart = 심장
   My Heart Will Go On = 「My Heart Will Go On」
-  Queen = 퀸
   Queen of Power Ballads = 파워 발라드의 여왕
   Switzerland = 스위스
   Titanic = 「타이타닉」
@@ -387,7 +376,6 @@ GLOSSARY:
   Matthias Jakob Schleiden = 마티아스 야코프 슐라이덴
   Microscope = 현미경
   Plant = 식물
-  Prokaryotes = 원핵생물
   Red blood cell = 적혈구
   Robert Hooke = 로버트 훅
   Schleiden = 슐라이덴
@@ -442,9 +430,7 @@ GLOSSARY:
   Matthias Schleiden = 마티아스 슐라이덴
   Microbiology = 미생물학
   Molecular biology = 분자생물학
-  Research = 연구
   Robert Hooke = 로버트 훅
-  Rudolf = 루돌프
   Rudolf Virchow = 루돌프 피르호
   Schleiden = 슐라이덴
   Schwann = 슈반
@@ -545,7 +531,6 @@ GLOSSARY:
   Ion = 이온
   Lipid = 지질
   Peptide = 펩타이드
-  Second = 초
   Second messenger = 2차 전령
   autocrine = 자가 분비
   autoimmunity = 자가 면역
@@ -713,7 +698,6 @@ HEADWORD: Cement = 시멘트
 LEVEL: 4
 GLOSSARY:
   Carbon dioxide = 이산화 탄소
-  Cement = 시멘트
   China = 중국
   Concrete = 콘크리트
   Gravel = 자갈
@@ -722,7 +706,6 @@ GLOSSARY:
   Portland cement = 포틀랜드 시멘트
   Romans = 로마인
   Sand = 모래
-  World = 세계
   carbonation = 탄산화
   lime = 석회
   mortar = 모르타르
@@ -820,7 +803,6 @@ Current geological era of Earth's history, covering the last 66 million years an
 HEADWORD: Censorship = 검열
 LEVEL: 4
 GLOSSARY:
-  Censorship = 검열
   Germany = 독일
   Internet = 인터넷
   National security = 국가 안보
@@ -905,7 +887,6 @@ GLOSSARY:
   New South Wales = 뉴사우스웨일스주
   Parramatta = 패러매타
   Radio galaxy = 전파 은하
-  Scottish = 스코틀랜드
   South Wales = 사우스웨일스
   Star formation = 별 형성
   Supermassive black hole = 초대질량 블랙홀

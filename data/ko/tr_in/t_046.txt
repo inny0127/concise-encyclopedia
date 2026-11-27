@@ -3,7 +3,6 @@ HEADWORD: Bose–Einstein condensate = 보스-아인슈타인 응축
 LEVEL: 4
 GLOSSARY:
   Absolute zero = 절대 영도
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Boson = 보손
   Carl Wieman = 칼 위먼
@@ -101,7 +100,6 @@ GLOSSARY:
   Bosnia = 보스니아
   Bosnia and Herzegovina = 보스니아 헤르체고비나
   Bosniak = 보스니아인
-  Bosnian = 보스니아어
   Bosnian Serb = 보스니아 세르비아계
   Breakup of Yugoslavia = 유고슬라비아 해체
   Dayton Accords = 데이턴 협정
@@ -109,7 +107,6 @@ GLOSSARY:
   Europe = 유럽
   Genocide = 제노사이드
   Ohio = 오하이오주
-  Peace = 평화
   Sarajevo = 사라예보
   Serbia = 세르비아
   Srebrenica = 스레브레니차
@@ -129,7 +126,6 @@ GLOSSARY:
   Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Bose–Einstein condensate = 보스-아인슈타인 응축
-  Composite = 콤퍼지트
   Einstein = 아인슈타인
   Fermion = 페르미온
   Higgs boson = 힉스 보손
@@ -255,7 +251,6 @@ GLOSSARY:
   Liberty = 자유
   Massachusetts = 매사추세츠주
   Parliament = 의회
-  Protest = 시위
   Revolutionary War = 독립 전쟁
   Sons of Liberty = 자유의 아들들
   Tea = 차
@@ -274,7 +269,6 @@ GLOSSARY:
   Boston Common = 보스턴 커먼
   Boston Massacre = 보스턴 학살
   Boston Tea Party = 보스턴 차 사건
-  City = 도시
   England = 잉글랜드
   Greater Boston = 보스턴 광역권
   Harvard = 하버드
@@ -303,7 +297,6 @@ GLOSSARY:
   Ancient Greek = 고대 그리스어
   Aristotle = 아리스토텔레스
   Botany = 식물학
-  Branch = 브랜치
   Carl Linnaeus = 칼 폰 린네
   Enquiry into Plants = 『식물지』
   Father = 아버지
@@ -342,7 +335,6 @@ Botanical research supplies staple foods, timber, oil, rubber, fiber, and drugs,
 HEADWORD: Botfly = 쇠파리
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Cattle = 소
   Fly = 파리
   Larva = 유충
@@ -377,9 +369,7 @@ GLOSSARY:
   Party = 파티
   Russia = 러시아
   Southern Africa = 남아프리카
-  Tourism = 관광
   Umbrella for Democratic Change = 민주변화우산
-  Unemployment = 실업
   protectorate = 보호령
   southern Africa = 남아프리카
 ENTRY:
@@ -424,10 +414,8 @@ GLOSSARY:
   Antibiotic = 항생제
   Botulinum toxin = 보툴리눔 독소
   Clostridium botulinum = 보툴리누스균
-  Death = 죽음
   Honey = 꿀
   Latin = 라틴어
-  Rare = 「Rare」
   antitoxin = 항독소
   botulus = 보툴루스
   spores = 포자
@@ -448,7 +436,6 @@ GLOSSARY:
   London = 런던
   Nero = 네로
   Prasutagus = 프라수타구스
-  Queen = 퀸
   Renaissance = 르네상스
   Roman Empire = 로마 제국
   Romans = 로마인
@@ -467,7 +454,6 @@ LEVEL: 5
 GLOSSARY:
   Autonomous Region of Bougainville = 부건빌 자치구
   Bougainville crisis = 부건빌 분쟁
-  Copper = 구리
   Guinea = 기니
   Mount Balbi = 발비산
   New Guinea = 뉴기니섬
@@ -488,7 +474,6 @@ GLOSSARY:
   Bolivia = 볼리비아
   Brazil = 브라질
   Colombia = 콜롬비아
-  Genus = 속
   Louis Antoine de Bougainville = 루이 앙투안 드 부갱빌
   Nyctaginaceae = 분꽃과
   Paraguay = 파라과이
@@ -556,7 +541,6 @@ HEADWORD: Bovidae = 소과
 LEVEL: 4
 GLOSSARY:
   Cattle = 소
-  Family = 가족
   Miocene = 마이오세
   Ruminant = 반추동물
   Sheep = 양
@@ -620,7 +604,6 @@ Baleen whale of [[Arctic]] and subarctic waters, the only living member of the g
 HEADWORD: Bowling = 볼링
 LEVEL: 4
 GLOSSARY:
-  Bowling = 볼링
   Commonwealth = 영연방
   Tenpin bowling = 텐핀 볼링
   United Kingdom = 영국
@@ -646,7 +629,6 @@ Class of [[Cnidaria|cnidarian]] animals with cube-shaped medusae. Some species p
 HEADWORD: Box plot = 상자 그림
 LEVEL: 5
 GLOSSARY:
-  John = 존
   John Tukey = 존 튜키
   Whiskers = 수염
   box-and-whisker plot = 상자 수염 그림
@@ -670,7 +652,6 @@ GLOSSARY:
   Eight-Nation Alliance = 8개국 연합군
   Empress Dowager Cixi = 서태후
   First Sino-Japanese War = 청일 전쟁
-  Following = 「미행」
   Legation Quarter = 공사관 구역
   North China = 화베이
   North China Plain = 화베이 평원
@@ -693,9 +674,7 @@ LEVEL: 4
 GLOSSARY:
   Ancient Greece = 고대 그리스
   Boxers = 의화단
-  Boxing = 권투
   Chronic traumatic encephalopathy = 만성 외상성 뇌병증
-  Combat = 『콩바』
   Egypt = 이집트
   Ethiopia = 에티오피아
   Great Britain = 그레이트브리튼
@@ -722,7 +701,6 @@ GLOSSARY:
   Christmas boxes = 크리스마스 박스
   Commonwealth = 영연방
   Europe = 유럽
-  Holiday = 명절
   Middle Ages = 중세
   St. Stephen's Day = 성 스테파노 축일
   United Kingdom = 영국
@@ -760,7 +738,6 @@ GLOSSARY:
   Mongol = 몽골
   Mongol invasion = 몽골의 침입
   Romania = 루마니아
-  Rus' = 루스
   Russia = 러시아
   Wallachia = 왈라키아
   duma = 두마
@@ -810,7 +787,6 @@ GLOSSARY:
   Mechanics = 역학
   Oxford = 옥스퍼드
   Oxford University = 옥스퍼드 대학교
-  Paul = 바울로
   Paul Dirac = 폴 디랙
   Quantum mechanics = 양자역학
   The Principles of Quantum Mechanics = 『양자역학의 원리』
@@ -833,7 +809,6 @@ GLOSSARY:
   Colorado = 콜로라도주
   Colorado River = 콜로라도강
   Elmer S. Riggs = 엘머 S. 릭스
-  Genus = 속
   Giraffatitan = 기라파티탄
   Jurassic = 쥐라기
   Jurassic Park = 「쥬라기 공원」
@@ -853,7 +828,6 @@ GLOSSARY:
   Cretaceous = 백악기
   Jurassic = 쥐라기
   Jurassic period = 쥐라기
-  True = 『True』
   chelae = 집게발
   crustaceans = 갑각류
   decapod crustaceans = 십각목 갑각류

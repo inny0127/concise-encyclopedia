@@ -94,7 +94,6 @@ GLOSSARY:
   Canada = 캐나다
   Carrizal seedeater = 카리살참새
   Chile = 칠레
-  Family = 가족
   IUCN = 국제 자연 보전 연맹
   IUCN Red List = IUCN 적색 목록
   New World = 신대륙
@@ -121,7 +120,6 @@ GLOSSARY:
   Cantor = 칸토어
   Georg Cantor = 게오르크 칸토어
   Natural number = 자연수
-  Property = 재산
   Real number = 실수
   Set (mathematics) = 집합
   Zermelo = 체르멜로
@@ -140,7 +138,6 @@ Property of sets in mathematics that measures their size, roughly the number of 
 HEADWORD: Cardiology = 심장학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Cardiovascular disease = 심혈관 질환
   Coronary artery disease = 관상 동맥 질환
   Heart = 심장
@@ -171,7 +168,6 @@ GLOSSARY:
   Aspirin = 아스피린
   Atherosclerosis = 죽상 경화증
   Coronary artery disease = 관상 동맥 질환
-  Death = 죽음
   Diabetes = 당뇨병
   Heart failure = 심부전
   Hypertension = 고혈압
@@ -201,11 +197,9 @@ CVD is the leading cause of death worldwide except Africa. It caused 17.9 millio
 HEADWORD: Cargo = 화물
 LEVEL: 4
 GLOSSARY:
-  Aircraft = 항공기
   Boeing = 보잉
   Boeing 747 = 보잉 747
   Bulk cargo = 벌크 화물
-  Goods = 재화
   Gypsum = 석고
   Oil = 석유
   Port = 항구
@@ -220,7 +214,6 @@ HEADWORD: Cargo ship = 화물선
 LEVEL: 4
 GLOSSARY:
   Bulk carriers = 벌크선
-  Cargo = 화물
   Container ships = 컨테이너선
   Feeder vessels = 피더선
   Merchant ship = 상선
@@ -260,7 +253,6 @@ GLOSSARY:
   Lesser Antilles = 소앤틸리스 제도
   Lucayan = 루카얀족
   Lucayan Archipelago = 루카얀 제도
-  Mainland = 메인랜드섬
   Netherlands = 네덜란드
   North Atlantic = 북대서양
   North Atlantic Ocean = 북대서양
@@ -362,7 +354,6 @@ GLOSSARY:
   Car = 자동차
   Daimler Motoren Gesellschaft = 다임러 모토렌 게젤샤프트
   Daimler-Benz = 다임러벤츠
-  German = 독일어
   Karlsruhe polytechnical school = 카를스루에 공과 대학
   Mannheim = 만하임
   Mercedes-Benz = 메르세데스벤츠
@@ -391,7 +382,6 @@ GLOSSARY:
   Fundamental theorem of algebra = 대수학의 기본 정리
   Gaussian curvature = 가우스 곡률
   Gaussian distribution = 가우스 분포
-  German = 독일어
   Göttingen = 괴팅겐
   Göttingen Observatory = 괴팅겐 천문대
   Hanover = 하노버
@@ -462,7 +452,6 @@ GLOSSARY:
   Determinant = 행렬식
   Differential equation = 미분 방정식
   Doctor of Philosophy = 박사 학위
-  German = 독일어
   Jacobian matrix = 야코비 행렬
   Königsberg = 쾨니히스베르크
   Moon = 달
@@ -529,14 +518,12 @@ GLOSSARY:
   Binomial nomenclature = 이명법
   Carl von Linné = 카를 폰 린네
   Ecology = 생태학
-  Linnaeus = 린네
   Netherlands = 네덜란드
   Primate = 영장류
   Primates = 영장목
   Råshult = 로스훌트
   Småland = 스몰란드
   Sweden = 스웨덴
-  Swedish = 스웨덴어
   Systema Naturae = 『자연의 체계』
   Taxonomy = 분류학
   University = 대학
@@ -575,7 +562,6 @@ GLOSSARY:
   Project MK-Ultra = MK울트라 계획
   Psychology = 심리학
   Psychotherapy = 심리 치료
-  Rogers = 로저스
   nondirective counseling = 비지시적 상담
   person-centered = 인간 중심
 ENTRY:
@@ -620,7 +606,6 @@ HEADWORD: Dreyer, Carl Theodor = 드레이어, 칼 테오도르
 LEVEL: 4
 GLOSSARY:
   Cinematography = 영화 촬영술
-  Danish = 덴마크어
   Day of Wrath = 「분노의 날」
   Gertrud = 「게르트루드」
   Joan of Arc = 잔 다르크
@@ -786,7 +771,6 @@ GLOSSARY:
   Brazil = 브라질
   Bronze = 청동
   Bronze Age = 청동기 시대
-  Carnelian = 홍옥수
   Chalcedony = 옥수
   Egypt = 이집트
   Germany = 독일
@@ -803,7 +787,6 @@ Reddish-brown [[Chalcedony|chalcedony]] used as a semiprecious stone. Its color 
 HEADWORD: Carnival = 카니발
 LEVEL: 4
 GLOSSARY:
-  Carnival = 카니발
   Catholic = 가톨릭
   Greece = 그리스
   Latin = 라틴어
@@ -861,7 +844,6 @@ GLOSSARY:
   Latin = 라틴어
   Mesocarnivores = 중육식 동물
   Obligate carnivores = 절대 육식 동물
-  Organism = 생물
   carnivorans = 식육류
   caro = caro
   cetaceans = 고래류
@@ -882,8 +864,6 @@ GLOSSARY:
   Darwin = 다윈
   Insectivorous Plants = 『식충 식물』
   Pacific = 태평양
-  True = 『True』
-  Venus = 금성
   Venus flytrap = 파리지옥
   bladderworts = 통발
   flowering plants = 속씨식물
@@ -905,7 +885,6 @@ GLOSSARY:
   Mediterranean region = 지중해 지역
   Middle East = 중동
   Morocco = 모로코
-  Spain = 스페인
   kharrūb = kharrūb
   locust bean gum = 로커스트콩검
 ENTRY:
@@ -956,7 +935,6 @@ GLOSSARY:
   Capsicum = 고추속
   Capsicum chinense = Capsicum chinense
   Ed Currie = 에드 커리
-  Guinness = 기네스
   Guinness World Records = 기네스 세계 기록
   Pepper X = 페퍼 X
   Scoville heat units = 스코빌 지수

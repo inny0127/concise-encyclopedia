@@ -66,8 +66,6 @@ HEADWORD: Game show = 게임 쇼
 LEVEL: 4
 GLOSSARY:
   American Idol = 「아메리칸 아이돌」
-  Game = 게임
-  Genre = 장르
   Idol = 「아이돌」
   Jeopardy! = 「제퍼디!」
   Reality television = 리얼리티 텔레비전
@@ -80,10 +78,8 @@ HEADWORD: Game theory = 게임 이론
 LEVEL: 4
 GLOSSARY:
   Biology = 생물학
-  Branch = 브랜치
   Computer science = 컴퓨터 과학
   Economics = 경제학
-  Game = 게임
   Game theory = 게임 이론
   John = 존
   John Harsanyi = 존 하사니
@@ -105,7 +101,6 @@ LEVEL: 4
 GLOSSARY:
   Balinese = 발리족
   Bamboo = 대나무
-  Gamelan = 가믈란
   Indonesia = 인도네시아
   Intangible Cultural Heritage = 무형 문화유산
   Intangible Cultural Heritage of Humanity = 인류무형문화유산
@@ -246,7 +241,6 @@ HEADWORD: Ganesha = 가네샤
 LEVEL: 4
 GLOSSARY:
   Ashtavinayak = 아슈타비나야크
-  Eight = 「에잇」
   Ganesha = 가네샤
   Jains = 자이나교도
   Maharashtra = 마하라슈트라주
@@ -382,7 +376,6 @@ GLOSSARY:
   AIDS = 에이즈
   Amputation = 절단술
   Diabetes = 당뇨병
-  Infection = 감염
   Sepsis = 패혈증
   Smoking = 흡연
   angioplasty = 혈관 성형술
@@ -498,9 +491,7 @@ GLOSSARY:
   Carl Linnaeus = 칼 폰 린네
   Chinese medicine = 중의학
   Garden = 정원
-  Gardenia = 치자나무속
   Gardenia jasminoides = 치자나무
-  Genus = 속
   John = 존
   John Ellis = 존 엘리스
   Linnaeus = 린네
@@ -523,8 +514,6 @@ HEADWORD: Gardening = 원예
 LEVEL: 4
 GLOSSARY:
   Agriculture = 농업
-  Gardening = 정원 가꾸기
-  People = 『피플』
   Versailles = 베르사유
   World = 세계
   World War II = 제2차 세계 대전
@@ -567,13 +556,10 @@ GLOSSARY:
   China = 중국
   Europe = 유럽
   FAOSTAT = FAOSTAT
-  Garlic = 마늘
   Iran = 이란
   Leek = 리크
   Mediterranean = 지중해
   Onion = 양파
-  Species = 종
-  Sulfur = 황
   United Nations = 국제 연합
   allicin = 알리신
   chives = 차이브
@@ -588,7 +574,6 @@ LEVEL: 5
 GLOSSARY:
   Bronze = 청동
   Bronze Age = 청동기 시대
-  Garnet = 석류석
   Metamorphic rock = 변성암
   Mohs hardness = 모스 굳기
   Mohs scale = 모스 굳기계
@@ -615,7 +600,6 @@ GLOSSARY:
   Magnus Carlsen = 망누스 칼센
   Rights = 인권
   Russia = 러시아
-  Russian = 러시아어
   Vladimir = 블라디미르
   Vladimir Putin = 블라디미르 푸틴
   World = 세계

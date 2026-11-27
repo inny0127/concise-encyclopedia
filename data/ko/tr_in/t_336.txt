@@ -2,7 +2,6 @@
 HEADWORD: The General Theory of Employment, Interest and Money = 고용, 이자 및 화폐의 일반 이론
 LEVEL: 4
 GLOSSARY:
-  Book = 책
   John = 존
   John Maynard Keynes = 존 메이너드 케인스
   Keynesian Revolution = 케인스 혁명
@@ -358,7 +357,6 @@ GLOSSARY:
   Genghis Khan = 칭기즈 칸
   Gibbon = 긴팔원숭이
   Roman Empire = 로마 제국
-  Volume = 부피
   Western Roman Empire = 서로마 제국
   civic virtue = 시민적 덕성
   state religion = 국교
@@ -410,7 +408,6 @@ GLOSSARY:
   Eastern Europe = 동유럽
   Europe = 유럽
   Final Solution = 최종 해결책
-  Genocide = 제노사이드
   Germany = 독일
   Holocaust = 홀로코스트
   Jews = 유대인
@@ -574,7 +571,6 @@ ENTRY:
 HEADWORD: The Killers = 킬러스
 LEVEL: 5
 GLOSSARY:
-  Brandon = 브랜던
   Brandon Flowers = 브랜던 플라워스
   Crystal = 결정
   Dave = 「데이브」
@@ -605,7 +601,6 @@ LEVEL: 5
 GLOSSARY:
   E. F. Bleiler = E. F. 블라일러
   H. P. Lovecraft = H. P. 러브크래프트
-  Klein = 클라인
   Lin Carter = 린 카터
   Paris = 파리
   Robert W. Chambers = 로버트 W. 체임버스
@@ -666,7 +661,6 @@ GLOSSARY:
   Dmitri Gurov = 드미트리 구로프
   Moscow = 모스크바
   Short story = 단편 소설
-  Vladimir = 블라디미르
   Vladimir Nabokov = 블라디미르 나보코프
   Yalta = 얄타
 ENTRY:
@@ -801,7 +795,6 @@ GLOSSARY:
   Takashi Tezuka = 데즈카 다카시
   The Legend of Zelda = 「젤다의 전설」
   The Legend of Zelda (video game) = 「젤다의 전설」
-  Video = 비디오
   Video game = 비디오 게임
   manga = 만화
 ENTRY:
@@ -899,7 +892,6 @@ GLOSSARY:
   Sauron = 사우론
   The Hobbit = 『호빗』
   The Lord of the Rings (film series) = 「반지의 제왕」
-  Tolkien = 톨킨
   War = 전쟁
   World = 세계
   World War I = 제1차 세계 대전
@@ -928,7 +920,6 @@ GLOSSARY:
   Ring = 『링』
   The Fellowship of the Ring = 「반지의 제왕: 반지 원정대」
   The Return of the King = 「반지의 제왕: 왕의 귀환」
-  Tolkien = 톨킨
   United States = 미국
   United States National Film Registry = 미국 국립 영화 등기부
   Zealand = 셸란섬

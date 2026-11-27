@@ -24,7 +24,6 @@ GLOSSARY:
   American Civil War = 남북 전쟁
   Appalachian Mountains = 애팔래치아산맥
   Atlanta Beltline = 애틀랜타 벨트라인
-  City = 도시
   Civil War = 남북 전쟁
   Civil rights movement = 민권 운동
   Gentrification = 젠트리피케이션
@@ -78,7 +77,6 @@ GLOSSARY:
   Oceanus = 오케아노스
   Pacific = 태평양
   Pacific Ocean = 태평양
-  Second = 초
   South Atlantic = 남부 대서양 연안
   Southern Ocean = 남극해
   Stesichorus = 스테시코로스
@@ -123,7 +121,6 @@ GLOSSARY:
   Central Africa = 중앙아프리카
   Europe = 유럽
   New World = 신대륙
-  Trade = 교역
   West Africa = 서아프리카
   World = 세계
   barracoons = 노예 수용소
@@ -181,7 +178,6 @@ GLOSSARY:
   Mediterranean Sea = 지중해
   Middle Atlas = 모와얭아틀라스산맥
   Morocco = 모로코
-  Mountain = 산
   Mountain range = 산맥
   Neogene = 네오기
   North Africa = 북아프리카
@@ -284,12 +280,10 @@ GLOSSARY:
   Archean eon = 시생누대
   Atmospheric escape = 대기 탈출
   Atmospheric science = 대기과학
-  Average = 평균
   Climate change = 기후 변화
   Cyanobacteria = 남세균
   Great Oxygenation Event = 대산소 사건
   Greenhouse effect = 온실 효과
-  Human = 인간
   Kármán line = 카르만 선
   Léon Teisserenc de Bort = 레옹 테스랑 드 보르
   Ozone depletion = 오존층 파괴
@@ -298,7 +292,6 @@ GLOSSARY:
   Richard = 리처드
   Richard Assmann = 리하르트 아스만
   Stratosphere = 성층권
-  Water = 물
   Water vapor = 수증기
   acid deposition = 산성 침착
   aerosols = 에어로졸
@@ -332,7 +325,6 @@ GLOSSARY:
   Hadley cell = 해들리 순환
   Jet stream = 제트 기류
   Ocean current = 해류
-  Surface = 서피스
   Trade = 교역
   Trade winds = 무역풍
   large-scale structure = 거대 구조
@@ -346,7 +338,6 @@ HEADWORD: Atmospheric pressure = 기압
 LEVEL: 4
 GLOSSARY:
   Barometer = 기압계
-  Pressure = 압력
   Siberia = 시베리아
   Siberian = 시베리아
   Siberian High = 시베리아 고기압
@@ -459,7 +450,6 @@ HEADWORD: Atomic clock = 원자시계
 LEVEL: 4
 GLOSSARY:
   Caesium = 세슘
-  Clock = 시계
   Coordinated Universal Time = 협정 세계시
   Earth's rotation = 지구의 자전
   Global Positioning System = 위성 위치 확인 시스템
@@ -524,7 +514,6 @@ GLOSSARY:
   German = 독일어
   Hydrogen = 수소
   Isotope = 동위 원소
-  Number = 수
   Periodic table = 주기율표
   Rutherford = 러더퍼드
   Uranium = 우라늄
@@ -603,7 +592,6 @@ LEVEL: 5
 GLOSSARY:
   Anticoagulants = 항응고제
   Dementia = 치매
-  Episodes = 에피소드
   Heart = 심장
   Heart failure = 심부전
   High blood pressure = 고혈압
@@ -628,7 +616,6 @@ GLOSSARY:
   Linnaeus = 린네
   North Africa = 북아프리카
   Solanaceae = 가지과
-  Toxic = 「Toxic」
   Turkey = 튀르키예
   United States = 미국
   Western Asia = 서아시아
@@ -739,7 +726,6 @@ Japanese [[Manga|manga]] series written and illustrated by Hajime Isayama. Set i
 HEADWORD: Attention = 주의
 LEVEL: 4
 GLOSSARY:
-  Attention = 주의
   Cognitive psychology = 인지 심리학
   Consciousness = 의식
   Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
@@ -781,7 +767,6 @@ LEVEL: 4
 GLOSSARY:
   Alans = 알란족
   Ardaric = 아르다리크
-  Attila = 아틸라
   Balkans = 발칸반도
   Battle of the Catalaunian Plains = 카탈라우눔 전투
   Bleda = 블레다
@@ -826,7 +811,6 @@ HEADWORD: Auckland = 오클랜드
 LEVEL: 4
 GLOSSARY:
   Auckland = 오클랜드
-  City = 도시
   Hobson = 홉슨
   Isthmus = 지협
   New Zealand = 뉴질랜드
@@ -849,7 +833,6 @@ GLOSSARY:
   Audi F103 = 아우디 F103
   Auto Union = 아우토 우니온
   Bavaria = 바이에른
-  German = 독일어
   Horch = 호르히
   Ingolstadt = 잉골슈타트
   Latin = 라틴어
@@ -881,7 +864,6 @@ LEVEL: 4
 GLOSSARY:
   Internet = 인터넷
   Mass media = 대중 매체
-  Media = 메디아
   Rhetoric = 수사학
   Video game = 비디오 게임
 ENTRY:

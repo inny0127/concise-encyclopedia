@@ -80,7 +80,6 @@ GLOSSARY:
   Eastern Europe = 동유럽
   Ethanol = 에탄올
   Eurasia = 유라시아
-  Eurasian = 유라시아판
   Europe = 유럽
   Glycogen = 글리코겐
   Goldfish = 금붕어
@@ -110,7 +109,6 @@ GLOSSARY:
   Eastern Carpathians = 동카르파티아산맥
   Europe = 유럽
   Hungary = 헝가리
-  Mountain = 산
   Mountain range = 산맥
   Poland = 폴란드
   Romania = 루마니아
@@ -140,7 +138,6 @@ GLOSSARY:
   Aphid = 진딧물
   Camponotus = 왕개미속
   Decomposition = 분해
-  Genus = 속
   honeydew = 감로
   satellite colonies = 위성 군체
 ENTRY:
@@ -179,7 +176,6 @@ GLOSSARY:
   Polypropylene = 폴리프로필렌
   Scythian = 스키타이
   Siberia = 시베리아
-  Textile = 직물
   Tufting = 터프팅
   United States = 미국
   needle felting = 니들 펠팅
@@ -273,7 +269,6 @@ GLOSSARY:
   Colombia = 콜롬비아
   Port = 항구
   Spain = 스페인
-  Today = 「투데이」
   UNESCO = 유네스코
   War of Jenkins' Ear = 젱킨스의 귀 전쟁
   World = 세계
@@ -307,7 +302,6 @@ HEADWORD: Carthage = 카르타고
 LEVEL: 4
 GLOSSARY:
   Africa = 아프리카
-  Carthage = 카르타고
   Dido = 디도
   Lake = 호수
   Lake of Tunis = 튀니스호
@@ -358,7 +352,6 @@ HEADWORD: Cartography = 지도학
 LEVEL: 4
 GLOSSARY:
   Babylonia = 바빌로니아
-  Cartography = 지도학
   Geographia = 『지리학』
   Geographic information system = 지리 정보 시스템
   Map projection = 지도 투영법
@@ -509,7 +502,6 @@ GLOSSARY:
   Paul = 바울로
   Paul Henreid = 폴 헨리드
   Rick Blaine = 릭 블레인
-  Romantic = 낭만주의
   Victor Laszlo = 빅터 라즐로
   Warner Bros. Studios = 워너 브라더스 스튜디오
   World = 세계
@@ -610,7 +602,6 @@ LEVEL: 5
 GLOSSARY:
   Dutch = 네덜란드어
   Field (physics) = 장
-  Force = 힘
   Hendrik Casimir = 헨드릭 카시미르
   Nanotechnology = 나노기술
   Steven K. Lamoreaux = 스티븐 K. 라모로
@@ -681,7 +672,6 @@ GLOSSARY:
   Late Miocene = 후기 마이오세
   Miocene = 마이오세
   Paratethys Sea = 파라테티스해
-  Pollution = 오염
   Russia = 러시아
   South Caspian Basin = 남카스피 분지
   Sturgeon = 철갑상어
@@ -711,7 +701,6 @@ GLOSSARY:
   Central Asia = 중앙아시아
   China = 중국
   Iran = 이란
-  Panthera = 표범속
   Panthera tigris = Panthera tigris
   Panthera tigris tigris = Panthera tigris tigris
   Siberian = 시베리아
@@ -728,19 +717,16 @@ Extinct population of [[Tiger|tiger]] (*Panthera tigris tigris*) native to Centr
 HEADWORD: Cassava = 카사바
 LEVEL: 4
 GLOSSARY:
-  Cassava = 카사바
   Cyanide = 시안화물
   Euphorbiaceae = 대극과
   French = 프랑스어
   Maize = 옥수수
-  Nigeria = 나이지리아
   Rice = 벼
   Shrub = 관목
   South America = 남아메리카
   Starch = 녹말
   Taíno = 타이노족
   Thailand = 태국
-  Woody = 우디
   spurge family = 대극과
   tapioca = 타피오카
 ENTRY:
@@ -750,7 +736,6 @@ Woody [[Shrub|shrub]] of the spurge family, [[Euphorbiaceae]] (*Manihot esculent
 HEADWORD: Cassette tape = 카세트테이프
 LEVEL: 5
 GLOSSARY:
-  Analog = 『아날로그』
   Compact Cassette = 콤팩트 카세트
   Dolby B = 돌비 B
   Dutch = 네덜란드어
@@ -786,13 +771,11 @@ Northern [[Constellation|constellation]] and asterism named after the vain queen
 HEADWORD: Cassowary = 화식조
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Africa = 아프리카
   Australia = 오스트레일리아
   Bird = 조류
   Casuarius = 화식조속
   Common ostrich = 타조
-  Genus = 속
   Guinea = 기니
   Moluccas = 몰루카 제도
   New Guinea = 뉴기니섬
@@ -814,7 +797,6 @@ GLOSSARY:
   Automotive industry = 자동차 산업
   Bridge = 다리
   Burgundy = 부르고뉴
-  Carbon = 탄소
   Cast iron = 주철
   China = 중국
   England = 잉글랜드
@@ -824,7 +806,6 @@ GLOSSARY:
   Iron Bridge = 아이언브리지
   Jiangsu = 장쑤성
   Shropshire = 슈롭셔
-  White = 흰색
   White cast iron = 백주철
   cementite = 시멘타이트
   ductile cast iron = 구상 흑연 주철
@@ -859,7 +840,6 @@ LEVEL: 4
 GLOSSARY:
   Adivasi = 아디바시
   Brahmin = 브라만
-  Brahmins = 브라만
   British Raj = 영국령 인도
   Caste = 카스트
   Dalit = 달리트

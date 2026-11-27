@@ -63,8 +63,6 @@ HEADWORD: Lace = 레이스
 LEVEL: 4
 GLOSSARY:
   Italy = 이탈리아
-  Lace = 레이스
-  Machine = 기계
   Silk = 비단
   Textile = 직물
   couture = 쿠튀르
@@ -77,7 +75,6 @@ Decorative openwork [[Textile|textile]] consisting of a pattern of holes, made b
 HEADWORD: Lacrosse = 라크로스
 LEVEL: 4
 GLOSSARY:
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Indigenous peoples of North America = 북아메리카 원주민
   Lacrosse = 라크로스
@@ -102,7 +99,6 @@ GLOSSARY:
   Glucose = 포도당
   Lactic acid = 젖산
   Milk = 우유
-  Swedish = 스웨덴어
   Tooth decay = 충치
   Wilhelm = 빌헬름
   alpha-hydroxy acid = 알파 하이드록시산
@@ -182,7 +178,6 @@ LEVEL: 4
 GLOSSARY:
   Ancient Greek = 고대 그리스어
   Antarctica = 남극 대륙
-  Fossil = 화석
   Johann Friedrich von Brandt = 요한 프리드리히 폰 브란트
   Leporidae = 토끼과
   Mammal = 포유류
@@ -238,7 +233,6 @@ GLOSSARY:
   Nigerian Exchange Group = 나이지리아 거래소 그룹
   Nollywood = 놀리우드
   Ocean = 대양
-  Port = 항구
   Tin = 주석
   Tin Can Island = 틴캔섬
   West Africa = 서아프리카
@@ -393,7 +387,6 @@ American retired boxer and television personality, the daughter of [[Muhammad Al
 HEADWORD: Laissez-faire = 자유방임주의
 LEVEL: 5
 GLOSSARY:
-  Adam = 아담
   Adam Smith = 애덤 스미스
   French = 프랑스어
   Jean-Baptiste Colbert = 장바티스트 콜베르
@@ -444,7 +437,6 @@ GLOSSARY:
   Earth's crust = 지각
   Eurasia = 유라시아
   Great Lakes = 오대호
-  Lake = 호수
   Lake Baikal = 바이칼호
   North American Great Lakes = 북아메리카 오대호
   Rift lake = 열곡호
@@ -469,7 +461,6 @@ GLOSSARY:
   Balkhash = 발하시
   Ili = 일리강
   Kazakhstan = 카자흐스탄
-  Lake = 호수
   Soviet Union = 소련
   Xinjiang = 신장
   dissolution of the Soviet Union = 소련 해체
@@ -580,7 +571,6 @@ GLOSSARY:
   St. Marys River = 세인트메리스강
   Straits of Mackinac = 매키노 해협
   U.S. state = 미국의 주
-  Water = 물
   retention time = 체류 시간
   surface area = 겉넓이
   zebra and quagga mussels = 얼룩말홍합과 콰가홍합
@@ -847,7 +837,6 @@ GLOSSARY:
   Oregon = 오리건주
   Sierra Nevada = 시에라네바다산맥
   United States = 미국
-  Winter = 겨울
 ENTRY:
 Freshwater alpine lake in the [[Sierra Nevada]], straddling the border of [[California]] and [[Nevada]]. At 1,897 m above sea level, it is the largest alpine lake in North America. By volume it trails only the five [[Great Lakes]] among U.S. lakes. At 501 m deep, it is the second-deepest lake in the United States, after Crater Lake in Oregon. The lake is known for its clarity and mountain panorama. Winter sports and summer recreation draw visitors, and the Nevada side has several lakeside casino resorts.
 

@@ -124,7 +124,6 @@ GLOSSARY:
   London = 런던
   Pop music = 팝 음악
   Stockholm = 스톡홀름
-  Swedish = 스웨덴어
   Voyage = 『Voyage』
   Waterloo = 워털루
 ENTRY:
@@ -160,7 +159,6 @@ HEADWORD: AC/DC = AC/DC
 LEVEL: 5
 GLOSSARY:
   Angus and Malcolm Young = 앵거스 영과 맬컴 영
-  Australian = 오스트레일리아
   Back in Black = 『Back in Black』
   Black = 검은색
   Bon Scott = 본 스콧
@@ -205,7 +203,6 @@ LEVEL: 5
 GLOSSARY:
   Amsterdam = 암스테르담
   Association football = 축구
-  Dutch = 네덜란드어
   Eredivisie = 에레디비시
   European Cup = 유러피언컵
   KNVB Cup = KNVB 컵
@@ -255,10 +252,7 @@ ENTRY:
 HEADWORD: ALS = 근위축성 측삭 경화증
 LEVEL: 5
 GLOSSARY:
-  Average = 평균
   C9orf72 = C9orf72
-  Death = 죽음
-  Rare = 「Rare」
   Respiratory failure = 호흡 부전
   Riluzole = 릴루졸
   edaravone = 에다라본
@@ -327,7 +321,6 @@ HEADWORD: ARM architecture family = ARM 아키텍처
 LEVEL: 5
 GLOSSARY:
   Arm Holdings = ARM 홀딩스
-  Family = 가족
   Fugaku = 후가쿠
   RISC = RISC
   Smartphone = 스마트폰
@@ -342,7 +335,6 @@ Family of RISC instruction set architectures for computer processors. Arm Holdin
 HEADWORD: ARPANET = 아파넷
 LEVEL: 5
 GLOSSARY:
-  ARPANET = 아르파넷
   Advanced Research Projects Agency = 고등 연구 계획국
   Bob Taylor = 밥 테일러
   Computer network = 컴퓨터 네트워크
@@ -362,7 +354,6 @@ LEVEL: 5
 GLOSSARY:
   ASCII = 아스키
   Authority = 권위
-  Character = 「성격」
   Character encoding = 문자 인코딩
   Internet = 인터넷
   Internet Assigned Numbers Authority = 인터넷 할당 번호 관리 기관
@@ -407,7 +398,6 @@ GLOSSARY:
   ASM International = ASM 인터내셔널
   ASML = ASML
   China = 중국
-  Dutch = 네덜란드어
   EUV = EUV
   Integrated circuit = 집적 회로
   Intel = 인텔
@@ -683,7 +673,6 @@ GLOSSARY:
   Impressionist exhibition = 인상파 전시회
   La Grande Jatte = 그랑드자트섬
   Neo-Impressionism = 신인상주의
-  Painting = 회화
   Paris = 파리
   Parisians = 파리 시민
   Seine = 센강
@@ -778,7 +767,6 @@ GLOSSARY:
   Immanuel Kant = 이마누엘 칸트
   Kant = 칸트
   London = 런던
-  Mathematics = 수학
   Pure = 「퓨어」
   Reason = 이성
   W. V. O. Quine = W. V. O. 콰인

@@ -154,7 +154,6 @@ GLOSSARY:
   Champions League = 챔피언스리그
   FIFA = 국제 축구 연맹
   FIFA World Cup = FIFA 월드컵
-  German = 독일어
   Germany = 독일
   IFFHS = 국제 축구 역사 통계 연맹
   IFFHS World's Best Goalkeeper = IFFHS 세계 최우수 골키퍼
@@ -178,7 +177,6 @@ GLOSSARY:
   Bronze Age = 청동기 시대
   COVID-19 = 코로나19
   COVID-19 pandemic = 코로나19 범유행
-  China = 중국
   Ethiopia = 에티오피아
   Europe = 유럽
   Ford = 포드
@@ -188,12 +186,10 @@ GLOSSARY:
   Henry Ford = 헨리 포드
   Homo = 사람속
   Homo sapiens = 호모 사피엔스
-  Human = 인간
   Industrial Revolution = 산업 혁명
   Iron = 철
   Iron Age = 철기 시대
   Latin = 라틴어
-  Manufacturing = 제조업
   Manufacturing engineering = 생산 공학
   Mass production = 대량 생산
   Mediterranean = 지중해
@@ -246,7 +242,6 @@ HEADWORD: Manx cat = 맹크스 고양이
 LEVEL: 5
 GLOSSARY:
   Arthritis = 관절염
-  Breed = 품종
   Cat = 고양이
   Gene = 유전자
   Isle of Man = 맨섬
@@ -366,7 +361,6 @@ GLOSSARY:
   Akkadian = 아카드어
   Akkadian Empire = 아카드 제국
   Cartography = 지도학
-  Computer = 컴퓨터
   Computer cartography = 컴퓨터 지도학
   Earth = 지구
   Erwin Raisz = 에르윈 라이즈
@@ -374,7 +368,6 @@ GLOSSARY:
   Geographic information system = 지리 정보 시스템
   Iraq = 이라크
   Map projection = 지도 투영법
-  Maps = 지도
   Mercator projection = 메르카토르 도법
   generalization = 일반화
   geographic information systems = 지리 정보 시스템
@@ -414,9 +407,7 @@ GLOSSARY:
   East Asia = 동아시아
   Europe = 유럽
   Fruit = 열매
-  Genus = 속
   Leaf = 잎
-  Maple = 단풍나무
   Maple syrup = 메이플 시럽
   North America = 북아메리카
   Sapindaceae = 무환자나무과
@@ -444,7 +435,6 @@ GLOSSARY:
   Patagonia = 파타고니아
   Puelmapu = 푸엘마푸
   Textile = 직물
-  Today = 「투데이」
   material culture = 물질문화
 ENTRY:
 Indigenous people of south-central [[Chile]] and southwestern [[Argentina]], including parts of [[Patagonia]]. Also known as Araucanians, they share a common social, religious and economic structure and the Mapudungun language. Traditional life centered on agriculture, and their material culture is known for [[Textile|textiles]] and silverwork. Mapuche society in Araucanía and Patagonia remained independent until the late 19th century, when Chile occupied Araucanía and Argentina conquered the Puelmapu. Today the Mapuche make up 77.16% of Chile's Indigenous peoples, and many communities are engaged in the Mapuche conflict over land and Indigenous rights.
@@ -561,7 +551,6 @@ GLOSSARY:
   Indo-Aryan languages = 인도아리아어파
   Maharashtra = 마하라슈트라주
   Maharashtri Prakrit = 마하라슈트리 프라크리트어
-  Marathi = 마라티어
   Prakrit = 프라크리트어
   Satara = 사타라
   classical language = 고전어
@@ -601,9 +590,7 @@ GLOSSARY:
   India = 인도
   Italy = 이탈리아
   Limestone = 석회암
-  Marble = 대리석
   Metamorphic rock = 변성암
-  Pure = 「퓨어」
   Quarry = 채석장
   Spain = 스페인
   acid rain = 산성비
@@ -620,7 +607,6 @@ LEVEL: 4
 GLOSSARY:
   Agate = 마노
   British and World Marbles Championship = 영국 및 세계 구슬치기 선수권 대회
-  Ceramic = 세라믹
   Civilization = 문명
   Egypt = 이집트
   Green = 초록색
@@ -708,7 +694,6 @@ GLOSSARY:
   Paris Opéra = 파리 오페라 극장
   Reims = 랭스
   Robert Hughes = 로버트 휴스
-  Russian = 러시아어
   Symbolism = 상징주의
   United Nations = 국제 연합
   United States = 미국
@@ -829,7 +814,6 @@ GLOSSARY:
   Asthma = 천식
   Bourgeoisie = 부르주아지
   Cholera = 콜레라
-  French = 프랑스어
   In Search of Lost Time = 『잃어버린 시간을 찾아서』
   Lost = 「로스트」
   Paris = 파리
@@ -942,7 +926,6 @@ GLOSSARY:
   AC Milan = AC 밀란
   Ajax = 아약스
   Ballon d'Or = 발롱도르
-  Dutch = 네덜란드어
   Euro = 유로
   FIFA = 국제 축구 연맹
   FIFA World Player of the Year = FIFA 올해의 선수
@@ -1018,7 +1001,6 @@ LEVEL: 4
 GLOSSARY:
   Battle of Carrhae = 카레 전투
   Carrhae = 카레
-  Crassus = 크라수스
   First Triumvirate = 제1차 삼두 정치
   Julius Caesar = 율리우스 카이사르
   Parthia = 파르티아

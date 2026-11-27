@@ -3,7 +3,6 @@ HEADWORD: Sculpture = 조각
 LEVEL: 3
 GLOSSARY:
   Ancient Greece = 고대 그리스
-  Branch = 브랜치
   David = 「다비드」
   Gothic = 고딕
   Gothic sculpture = 고딕 조각
@@ -13,7 +12,6 @@ GLOSSARY:
   Middle Ages = 중세
   Modernism = 모더니즘
   Renaissance = 르네상스
-  Sculpture = 조각
   Sphinx = 스핑크스
   Statue of Unity = 통일의 상
   Unity = 유니티
@@ -101,7 +99,6 @@ GLOSSARY:
   Comic book = 만화책
   Genetics = 유전학
   Harold von Braunhut = 해럴드 폰 브라운허트
-  Marketing = 마케팅
   Model organism = 모델 생물
   Toxicology = 독성학
   United States = 미국
@@ -172,17 +169,14 @@ Class of [[Echinoderm|echinoderms]] (Holothuroidea) found on the sea floor world
 HEADWORD: Sea = 바다
 LEVEL: 3
 GLOSSARY:
-  Bacteria = 세균
   Earth = 지구
   Earth's rotation = 지구의 자전
-  Life = 『라이프』
   Mediterranean = 지중해
   Mediterranean Sea = 지중해
   Moon = 달
   Ocean = 대양
   Oceanography = 해양학
   Sodium chloride = 염화 나트륨
-  Submarine = 잠수함
   Tide = 조석
   Tsunami = 쓰나미
   abyssal zone = 심해저대
@@ -205,15 +199,12 @@ GLOSSARY:
   Albedo = 알베도
   Arctic = 북극
   Arctic Ocean = 북극해
-  Brine = 소금물
   Brine channels = 염수 통로
   Carbon dioxide = 이산화 탄소
   Climate change = 기후 변화
-  Frozen = 「겨울왕국」
   Iceberg = 빙산
   Microorganism = 미생물
   Ocean = 대양
-  Satellite = 인공위성
   Sea ice = 해빙
   Southern Ocean = 남극해
   ice packs = 총빙
@@ -226,7 +217,6 @@ Frozen seawater that floats on the ocean's surface, distinct from [[Iceberg|iceb
 HEADWORD: Sea level = 해수면
 LEVEL: 4
 GLOSSARY:
-  Average = 평균
   Cartography = 지도학
   Geodetic datum = 측지 기준계
   Geoid = 지오이드
@@ -287,7 +277,6 @@ GLOSSARY:
   Swamp = 늪
   Ukraine = 우크라이나
   Volga = 볼가강
-  Water = 물
 ENTRY:
 Shallow inland shelf sea in Eastern Europe, connected to the [[Black Sea]] by the Strait of Kerch. It is bounded by [[Russia]] to the east and [[Ukraine]] to the northwest and southwest, and Ukrainian parts of the coast have been under Russian occupation since 2022. The sea is the shallowest in the world, with depths between 0.9 and 14 meters (3 and 46 ft). Inflow from the [[Don (river)|Don]] and Kuban rivers keeps its water low in salinity and rich in plankton, supporting high fish productivity. Water constantly flows out of the sea into the Black Sea. The sea is an access route from the [[Caspian Sea]] via the Volga–Don Canal. In antiquity it was known as the Maeotis Swamp, and [[Herodotus]] judged it as large as the Black Sea.
 
@@ -394,7 +383,6 @@ GLOSSARY:
   CITES = 멸종 위기에 처한 야생 동식물종의 국제 거래에 관한 협약
   Hydrophiinae = 바다뱀아과
   Laticauda = 큰바다뱀속
-  True = 『True』
   elapid = 코브라과
   elapid snakes = 코브라과 뱀
   sea kraits = 큰바다뱀류
@@ -406,7 +394,6 @@ Common name for two groups of venomous elapid snakes: the true sea snakes (subfa
 HEADWORD: Sea turtle = 바다거북
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Chelonioidea = 바다거북상과
   IUCN = 국제 자연 보전 연맹
   IUCN Red List = IUCN 적색 목록
@@ -446,7 +433,6 @@ LEVEL: 4
 GLOSSARY:
   Abyssal plain = 심해 평원
   Continental shelf = 대륙붕
-  Human = 인간
   Mid-ocean ridge = 중앙 해령
   Mid-ocean ridges = 중앙 해령
   Ocean = 대양
@@ -512,12 +498,10 @@ GLOSSARY:
   Crustacean = 갑각류
   Dietary Guidelines for Americans = 미국인을 위한 식생활 지침
   Fish = 어류
-  Homo = 사람속
   Homo sapiens = 호모 사피엔스
   Paleolithic = 구석기 시대
   Pinnacle Point = 피너클 포인트
   Sea urchin = 성게
-  Seafood = 해산물
   South Africa = 남아프리카 공화국
   bivalve mollusks = 이매패류
   sea urchins = 성게
@@ -680,7 +664,6 @@ GLOSSARY:
   Google Search = 구글 검색
   McGill University = 맥길 대학교
   Montreal = 몬트리올
-  Software = 소프트웨어
   University = 대학
   World Wide Web = 월드 와이드 웹
   crawlers = 크롤러
@@ -728,7 +711,6 @@ HEADWORD: Season = 계절
 LEVEL: 3
 GLOSSARY:
   Axial tilt = 자전축 기울기
-  Distance = 거리
   Dry season = 건기
   Earth = 지구
   Equator = 적도
@@ -806,7 +788,6 @@ GLOSSARY:
   IPCC = 기후 변화에 관한 정부 간 협의체
   Kelp = 켈프
   Red algae = 홍조류
-  Seaweed = 해조류
   carrageenan = 카라기난
   dredging = 준설
   kelp forests = 켈프 숲
@@ -845,7 +826,6 @@ GLOSSARY:
   Drivers' Championships = 드라이버 챔피언십
   Ferrari = 페라리
   Formula One = 포뮬러 원
-  German = 독일어
   Germany = 독일
   Germany SailGP Team = 독일 세일GP 팀
   Grands Prix = 그랑프리

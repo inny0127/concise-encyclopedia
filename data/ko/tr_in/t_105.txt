@@ -76,7 +76,6 @@ LEVEL: 5
 GLOSSARY:
   COPD = 만성 폐쇄성 폐질환
   Chronic obstructive pulmonary disease = 만성 폐쇄성 폐질환
-  Emphysema = 폐기종
   Lung = 폐
   Middle age = 중년
   Tobacco smoking = 흡연
@@ -141,7 +140,6 @@ GLOSSARY:
   Portuguese court = 포르투갈 왕실
   Prince = 후작
   Rio de Janeiro = 리우데자네이루
-  Slavery = 노예제
   South America = 남아메리카
   Uruguay = 우루과이
   Uruguayan War = 우루과이 전쟁
@@ -195,7 +193,6 @@ GLOSSARY:
   France = 프랑스
   French = 프랑스어
   French Empire = 프랑스 제국
-  Furniture = 가구
   Greece = 그리스
   Mahogany = 마호가니
   Napoleon = 나폴레옹
@@ -215,7 +212,6 @@ HEADWORD: Empiricism = 경험론
 LEVEL: 4
 GLOSSARY:
   David Hume = 데이비드 흄
-  Empiricists = 경험론자
   George Berkeley = 조지 버클리
   Hume = 흄
   John = 존
@@ -364,14 +360,12 @@ GLOSSARY:
   Earth = 지구
   Methane = 메탄
   NASA = 미국 항공 우주국
-  Research = 연구
   Saturn = 토성
   Sodium chloride = 염화 나트륨
   Solar System = 태양계
   Voyager = 보이저
   Voyager 1 = 보이저 1호
   Voyager 2 = 보이저 2호
-  William = 윌리엄
   William Herschel = 윌리엄 허셜
   hydrothermal = 열수
   sodium chloride = 염화 나트륨
@@ -385,7 +379,6 @@ GLOSSARY:
   Aphasia = 실어증
   Autoimmune disease = 자가 면역 질환
   Herpes = 헤르페스
-  Inflammation = 염증
   Medical imaging = 의료 영상
   Rabies = 광견병
   Vaccine = 백신
@@ -408,7 +401,6 @@ GLOSSARY:
   Black = 검은색
   Black Death = 흑사병
   Death = 죽음
-  Enclosure = 인클로저
   England = 잉글랜드
   Essex = 에식스
   Inflation = 인플레이션
@@ -506,7 +498,6 @@ LEVEL: 4
 GLOSSARY:
   Dialect = 방언
   Globalization = 세계화
-  Language = 언어
   Language death = 언어 소멸
   Language shift = 언어 교체
   Revitalization = 언어 부흥
@@ -528,7 +519,6 @@ GLOSSARY:
   Invasive species = 침입종
   Nature = 『네이처』
   Red List = 적색 목록
-  Species = 종
   captive breeding = 인공 번식
   monoculture = 단일 경작
 ENTRY:
@@ -578,7 +568,6 @@ Hormone-producing glands releasing their products directly into the [[Circulator
 HEADWORD: Endometriosis = 자궁내막증
 LEVEL: 5
 GLOSSARY:
-  Disease = 질병
   Infertility = 불임
   Menopause = 폐경
   Naproxen = 나프록센
@@ -618,7 +607,6 @@ GLOSSARY:
   Caspian Sea = 카스피해
   Desert = 사막
   Evaporation = 증발
-  Water = 물
   base levels = 침식 기준면
   drainage basin = 유역
 ENTRY:
@@ -630,7 +618,6 @@ LEVEL: 4
 GLOSSARY:
   Biopsy = 생검
   Charles Chevalier = 샤를 슈발리에
-  Endoscopy = 내시경 검사
   Esophagus = 식도
   Gastrointestinal tract = 위장관
   Glasgow = 글래스고
@@ -649,15 +636,12 @@ Medical procedure for examining the interior of a hollow organ or body cavity wi
 HEADWORD: Energy = 에너지
 LEVEL: 2
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Ancient Greek = 고대 그리스어
   Aristotle = 아리스토텔레스
   BTU = BTU
   Conservation of energy = 에너지 보존 법칙
-  Energy = 에너지
   Erwin Schrödinger = 에르빈 슈뢰딩거
-  Forms = 이데아
   French = 프랑스어
   Gottfried Leibniz = 고트프리트 라이프니츠
   Gustave-Gaspard Coriolis = 귀스타브가스파르 코리올리
@@ -673,7 +657,6 @@ GLOSSARY:
   Potential energy = 퍼텐셜 에너지
   Principia = 『프린키피아』
   Principia Mathematica = 『프린키피아』
-  Rudolf = 루돌프
   Rudolf Clausius = 루돌프 클라우지우스
   SI unit = SI 단위
   Sun = 태양
@@ -727,7 +710,6 @@ LEVEL: 4
 GLOSSARY:
   Coal = 석탄
   Electricity generation = 발전
-  Fossil = 화석
   Fossil fuel = 화석 연료
   Industrial Revolution = 산업 혁명
   Natural gas = 천연가스
@@ -749,7 +731,6 @@ GLOSSARY:
   Danish = 덴마크어
   Electric field = 전기장
   Electron shell = 전자 껍질
-  Measurement = 측정
   Molecule = 분자
   Niels Bohr = 닐스 보어
   Quantum mechanics = 양자역학
@@ -775,10 +756,8 @@ GLOSSARY:
   Internal combustion engine = 내연 기관
   Jet engine = 제트 엔진
   Latin = 라틴어
-  Machine = 기계
   Newton's third law = 뉴턴의 제3법칙
   Old French = 고대 프랑스어
-  Siege = 공성전
   Steam engine = 증기 기관
   Thomas = 토머스
   clockwork motors = 태엽 모터
@@ -825,13 +804,11 @@ GLOSSARY:
   Civil engineering = 토목 공학
   Djoser = 조세르
   Electrical engineering = 전기 공학
-  Engineering = 공학
   Europe = 유럽
   Imhotep = 임호테프
   Industrial Revolution = 산업 혁명
   Mechanical engineering = 기계 공학
   Mesopotamia = 메소포타미아
-  Military = 군대
   Military engineering = 군사 공학
   Near East = 근동
   Neo-Assyrian = 신아시리아
@@ -843,7 +820,6 @@ GLOSSARY:
   Step Pyramid = 계단식 피라미드
   U.S. Army = 미국 육군
   U.S. Army Corps of Engineers = 미국 육군 공병대
-  Water = 물
   Water wheels = 수차
   analog computer = 아날로그 컴퓨터
   civil engineer = 토목 기사
@@ -943,7 +919,6 @@ GLOSSARY:
   New Model Army = 신형군
   Oliver Cromwell = 올리버 크롬웰
   Parliament = 의회
-  Parliamentarian = 의회파
   Parliamentarians = 의회파
   Roundhead = 원두당
   Royalist = 왕당파

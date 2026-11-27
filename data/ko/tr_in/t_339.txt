@@ -95,11 +95,9 @@ GLOSSARY:
   Congress = 의회
   Dorothy Gale = 도로시 게일
   Film = 영화
-  Frank = 프랭크
   Gone with the Wind = 「바람과 함께 사라지다」
   Judy = 「주디」
   Judy Garland = 주디 갈런드
-  Library = 도서관
   Library of Congress = 미국 의회 도서관
   Memory = 기억
   Memory of the World = 세계 기록 유산
@@ -123,7 +121,6 @@ LEVEL: 5
 GLOSSARY:
   Broadway = 브로드웨이
   Congress = 의회
-  Frank = 프랭크
   George M. Hill Company = 조지 M. 힐 출판사
   Kansas = 캔자스주
   L. Frank Baum = L. 프랭크 바움
@@ -160,14 +157,11 @@ HEADWORD: Arts, The = 예술
 LEVEL: 2
 GLOSSARY:
   Architecture = 건축
-  Broad = 브로드강
   Byzantine = 비잔티움
-  Ceramic = 세라믹
   Ceramic art = 도예
   Conceptual art = 개념 미술
   Cubist = 입체파
   Fountain = 「샘」
-  Francophone = 프랑스어권
   Gothic = 고딕
   Gothic art = 고딕 미술
   Greece = 그리스
@@ -211,7 +205,6 @@ GLOSSARY:
   Camellia sinensis = 차나무
   China = 중국
   East Asia = 동아시아
-  Family = 가족
   Flowering plant = 속씨식물
   Franklinia = 프랭클리니아속
   Genus = 속
@@ -234,7 +227,6 @@ GLOSSARY:
   Aeschylus = 아이스킬로스
   Aristophanes = 아리스토파네스
   Aristotle = 아리스토텔레스
-  Athenian = 아테네의
   Athens = 아테네
   Chinese opera = 중국 전통극
   City = 도시
@@ -297,7 +289,6 @@ HEADWORD: Thebes = 테베
 LEVEL: 4
 GLOSSARY:
   Amun = 아문
-  City = 도시
   Egypt = 이집트
   Karnak = 카르나크
   Luxor = 룩소르
@@ -343,7 +334,6 @@ GLOSSARY:
   Sharia = 샤리아
   South Australia = 사우스오스트레일리아주
   Ten Commandments = 십계명
-  Theft = 절도
   Wales = 웨일스
   actus reus = 범죄 행위
   blackmail = 공갈
@@ -390,7 +380,6 @@ GLOSSARY:
   Abrahamic = 아브라함계
   Abrahamic religions = 아브라함계 종교
   Atheism = 무신론
-  Belief = 믿음
   Classical theism = 고전 유신론
   Deism = 이신론
   God = 신
@@ -398,7 +387,6 @@ GLOSSARY:
   Monotheism = 일신교
   Pantheism = 범신론
   Sikhism = 시크교
-  Theism = 유신론
   agnosticism = 불가지론
   arguments from evil = 악으로부터의 논증
   cosmological = 우주론적 논증
@@ -486,7 +474,6 @@ HEADWORD: Theodolite = 경위의
 LEVEL: 4
 GLOSSARY:
   Angle = 각
-  Angles = 앵글족
   Meteorology = 기상학
   Rocket = 로켓
   Surveying = 측량
@@ -512,7 +499,6 @@ GLOSSARY:
   First Zionist Congress = 제1차 시온주의자 대회
   German = 독일어
   German emperor = 독일 황제
-  Hungarian = 헝가리어
   Israel = 이스라엘
   Jews = 유대인
   Mount Herzl = 헤르츨산
@@ -573,7 +559,6 @@ GLOSSARY:
   Fascism = 파시즘
   Frankfurt = 프랑크푸르트
   Frankfurt School = 프랑크푸르트학파
-  German = 독일어
   Karl Popper = 카를 포퍼
   Martin Heidegger = 마르틴 하이데거
   Minima Moralia = 『미니마 모랄리아』
@@ -634,7 +619,6 @@ GLOSSARY:
   Republican Party = 공화당
   Republican Party (United States) = 공화당
   Russo-Japanese War = 러일 전쟁
-  Square = 정사각형
   Square Deal = 스퀘어 딜
   Trust Buster = 트러스트 버스터
   United States = 미국
@@ -731,7 +715,6 @@ GLOSSARY:
   Religion = 종교
   Tertullian = 테르툴리아누스
   The Republic = 『국가』
-  Theology = 신학
   Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
   Varro = 바로
@@ -805,10 +788,8 @@ Subfield of [[Computer science|computer science]] and mathematics that focuses o
 HEADWORD: Theoretical physics = 이론물리학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Elementary particle = 기본 입자
   General relativity = 일반 상대성 이론
-  James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
   Karl Popper = 카를 포퍼
   Occam's razor = 오컴의 면도날
@@ -839,7 +820,6 @@ HEADWORD: Theory of computation = 계산 이론
 LEVEL: 4
 GLOSSARY:
   Alan Turing = 앨런 튜링
-  Branch = 브랜치
   Claude = 클로드
   Claude Shannon = 클로드 섀넌
   Computability theory = 계산 가능성 이론
@@ -956,7 +936,6 @@ GLOSSARY:
   Medicine = 의학
   Mental health = 정신 건강
   Psychotherapy = 심리 치료
-  Therapy = 치료
   Urgent care = 긴급 진료
   adverse effects = 부작용
   alternative medicine = 대체 의학

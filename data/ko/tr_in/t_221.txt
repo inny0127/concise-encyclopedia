@@ -56,7 +56,6 @@ LEVEL: 5
 GLOSSARY:
   Andromeda = 안드로메다
   ER = 「ER」
-  Environmentalism = 환경주의
   Environmentalism as Religion = 「종교로서의 환경주의」
   Fear = 공포
   Harvard = 하버드
@@ -141,7 +140,6 @@ GLOSSARY:
   Haswell = 해즈웰
   Humphry Davy = 험프리 데이비
   Institution = 제도
-  James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
   Newington Butts = 뉴잉턴 버츠
   Royal Institution = 왕립 연구소
@@ -186,7 +184,6 @@ GLOSSARY:
   Bobby Sands = 보비 샌즈
   Erik Lehnsherr = 에릭 렌셔
   European Le Mans Series = 유러피언 르망 시리즈
-  German = 독일어
   Hunger = 『굶주림』
   Irish = 아일랜드어
   Le Mans = 르망
@@ -263,12 +260,10 @@ LEVEL: 3
 GLOSSARY:
   American Music Awards = 아메리칸 뮤직 어워드
   Bad (album) = 『배드』
-  Beat = 「비트」
   Beat It = 「비트 잇」
   Billboard Hot 100 = 빌보드 핫 100
   Billie Jean = 「빌리 진」
   Conrad Murray = 콘래드 머리
-  Dangerous = 「데인저러스」
   Grammy = 그래미상
   Grammy Awards = 그래미상
   HIStory = 『히스토리』
@@ -401,7 +396,6 @@ GLOSSARY:
   Champion for Sport = 스포츠 챔피언
   Ferrari = 페라리
   Formula One = 포뮬러 원
-  German = 독일어
   Lewis Hamilton = 루이스 해밀턴
   Sport = 스포츠
   UNESCO = 유네스코
@@ -445,7 +439,6 @@ GLOSSARY:
   Discipline = 「디시플린」
   Discipline and Punish = 『감시와 처벌』
   France = 프랑스
-  French = 프랑스어
   HIV/AIDS = HIV/AIDS
   History = 역사학
   Paris = 파리
@@ -462,7 +455,6 @@ HEADWORD: Temer, Michel = 테메르, 미셰우
 LEVEL: 5
 GLOSSARY:
   Brazil = 브라질
-  Corruption = 부패
   Dilma Rousseff = 지우마 호세프
   Jair Bolsonaro = 자이르 보우소나루
   Lava = 용암
@@ -478,7 +470,6 @@ LEVEL: 4
 GLOSSARY:
   Bordeaux = 보르도
   Essais = 『수상록』
-  French = 프랑스어
   Renaissance = 르네상스
   Skepticism = 회의주의
 ENTRY:
@@ -502,7 +493,6 @@ GLOSSARY:
   Life = 『라이프』
   Mannerism = 매너리즘
   Medici = 메디치가
-  Michelangelo = 미켈란젤로
   Pietà = 「피에타」
   Pietà (Michelangelo) = 「피에타」
   Platonic Academy = 플라톤 아카데미
@@ -559,7 +549,6 @@ GLOSSARY:
   Green = 초록색
   Green Guides = 그린 가이드
   Guides = 가이드
-  Hotel = 호텔
   Michelin = 미쉐린
   Michelin stars = 미슐랭 스타
 ENTRY:
@@ -613,15 +602,12 @@ Malaysian actress. She performed her own stunts in Hong Kong action films of the
 HEADWORD: Michelson–Morley experiment = 마이컬슨-몰리 실험
 LEVEL: 4
 GLOSSARY:
-  Albert = 앨버트
   Albert A. Michelson = 앨버트 A. 마이컬슨
   Case = 케이스
   Case Western Reserve University = 케이스 웨스턴 리저브 대학교
   Cleveland = 클리블랜드
   Edward W. Morley = 에드워드 W. 몰리
-  Experiment = 실험
   Kennedy = 케네디
-  Michelson = 마이컬슨
   Ohio = 오하이오주
   Special relativity = 특수 상대성 이론
   Thorndike = 손다이크
@@ -838,7 +824,6 @@ LEVEL: 3
 GLOSSARY:
   Alfred = 앨프레드 대왕
   Alfred Marshall = 앨프리드 마셜
-  Branch = 브랜치
   Economics = 경제학
   Elements = 『원론』
   Elements of Pure Economics = 『순수 경제학 요론』
@@ -849,12 +834,10 @@ GLOSSARY:
   Macroeconomics = 거시경제학
   Market failure = 시장 실패
   Marshall = 마셜 제도
-  Microeconomics = 미시경제학
   Principles of Economics = 『경제학 원리』
   Pure = 「퓨어」
   Supply and demand = 수요와 공급
   Tax = 세금
-  Theory = 이론
   Unemployment = 실업
   Walrasian demand function = 발라스 수요 함수
   budget constraint = 예산 제약
@@ -973,12 +956,10 @@ GLOSSARY:
   Electron microscope = 전자 현미경
   Ernst Ruska = 에른스트 루스카
   Europe = 유럽
-  Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   Giovanni = 조반니
   Giovanni Faber = 조반니 파베르
   Köhler illumination = 쾰러 조명
-  Laboratory = 실험실
   Lens = 렌즈
   Light = 빛
   Max Knoll = 막스 크놀

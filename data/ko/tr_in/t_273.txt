@@ -65,7 +65,6 @@ HEADWORD: Probability density function = 확률 밀도 함수
 LEVEL: 4
 GLOSSARY:
   Integral = 적분
-  Probability = 확률
   Random variable = 확률 변수
   probability mass function = 확률 질량 함수
   random variable = 확률 변수
@@ -92,10 +91,8 @@ Mathematical function assigning probabilities to the possible outcomes of a rand
 HEADWORD: Probability theory = 확률론
 LEVEL: 4
 GLOSSARY:
-  Andrey = 안드레이 보골륩스키
   Andrey Kolmogorov = 안드레이 콜모고로프
   Blaise Pascal = 블레즈 파스칼
-  Branch = 브랜치
   Central limit theorem = 중심 극한 정리
   Gerolamo Cardano = 지롤라모 카르다노
   Law of large numbers = 큰 수의 법칙
@@ -136,7 +133,6 @@ LEVEL: 4
 GLOSSARY:
   Albatross = 앨버트로스
   New Zealand = 뉴질랜드
-  Procellariiformes = 슴새목
   Wisdom = 위즈덤
   Zealand = 셸란섬
   bycatch = 혼획
@@ -226,7 +222,6 @@ GLOSSARY:
   GDP = GDP
   Gross domestic product = 국내 총생산
   Leisure = 여가
-  Productivity = 생산성
   labor productivity = 노동 생산성
 ENTRY:
 Efficiency of production of goods or services, usually measured as output per unit of input over a period of time. Measures are often ratios of aggregate output to a single input or to an aggregate of inputs, and the choice among them depends on the purpose and on data availability. The most common is labor productivity, such as [[Gross domestic product|GDP]] per worker, which relates output volume to hours worked or total employment. Partial productivity measures use one class of inputs, such as worker hours or materials per unit of production. Productivity is crucial for firms and nations: raising national productivity can raise living standards, because wage growth lets people buy goods and services, enjoy [[Leisure|leisure]], and improve housing and education. It can also make businesses more profitable.
@@ -236,7 +231,6 @@ HEADWORD: Profanity = 욕설
 LEVEL: 4
 GLOSSARY:
   Latin = 라틴어
-  Profanity = 비속어
   Sin = 죄
   profanus = 프로파누스
   slurs = 비하 표현
@@ -285,7 +279,6 @@ GLOSSARY:
   Animal = 동물
   Cell (biology) = 세포
   DNA = DNA
-  Death = 죽음
   Insect = 곤충
   Lockshin = 록신
   Necroptosis = 네크롭토시스
@@ -306,8 +299,6 @@ GLOSSARY:
   Formal language = 형식 언어
   Fortran = 포트란
   High-level languages = 고급 언어
-  Language = 언어
-  Machine = 기계
   Machine language = 기계어
   just-in-time compilation = JIT 컴파일
   machine code = 기계어
@@ -377,7 +368,6 @@ GLOSSARY:
   Great Depression = 대공황
   Organized crime = 조직범죄
   Protestant = 개신교
-  Research = 연구
   Twenty-first Amendment = 수정 헌법 제21조
   drys = 금주파
   infant mortality = 영아 사망률
@@ -394,7 +384,6 @@ GLOSSARY:
   Earth = 지구
   Fission (biology) = 분열
   Mitochondria = 미토콘드리아
-  Prokaryotes = 원핵생물
   binary fission = 이분법
   domains of life = 생물의 역
   endosymbionts = 내공생체
@@ -456,7 +445,6 @@ Synthetic, radioactive chemical element with atomic number 61 (symbol Pm). All o
 HEADWORD: Promiscuity = 성적 문란
 LEVEL: 4
 GLOSSARY:
-  Promiscuity = 난혼
   Sexually transmitted infection = 성매개 감염병
   double standard = 이중 잣대
   extra-pair copulation = 쌍외 교미
@@ -482,7 +470,6 @@ GLOSSARY:
   North America = 북아메리카
   Okapi = 오카피
   Old World = 구세계
-  Once = 『Once』
   William = 윌리엄
   William Clark = 윌리엄 클라크
   World = 세계
@@ -500,7 +487,6 @@ GLOSSARY:
   Linguistics = 언어학
   Middle French = 중세 프랑스어
   Noun = 명사
-  Word = 단어
   antecedent = 선행사
   noun phrase = 명사구
   parts of speech = 품사
@@ -524,7 +510,6 @@ GLOSSARY:
   Propaganda = 선전
   Social media = 소셜 미디어
   Soviet Union = 소련
-  World = 세계
   World War I = 제1차 세계 대전
   personality cults = 개인 숭배
   propagare = 프로파가레
@@ -557,8 +542,6 @@ GLOSSARY:
   Ammonia = 암모니아
   Critical point (thermodynamics) = 임계점
   Hydrogen bond = 수소 결합
-  Physical = 「Physical」
-  Water = 물
   amphoteric = 양쪽성
   critical point = 임계점
   heat capacity = 열용량
@@ -574,17 +557,13 @@ Physical and chemical characteristics of pure water. Water is a polar inorganic 
 HEADWORD: Property = 재산
 LEVEL: 3
 GLOSSARY:
-  Adam = 아담
   Adam Smith = 애덤 스미스
   Capitalism = 자본주의
   Conservatism = 보수주의
-  Economics = 경제학
   Intellectual property = 지식 재산
-  John = 존
   John Locke = 존 로크
   Judiciary = 사법부
   Locke = 로크
-  Property = 재산
   bundle of rights = 권리의 다발
   classical liberalism = 고전적 자유주의
   intellectual property = 지식 재산
@@ -606,7 +585,6 @@ GLOSSARY:
   Civil law (legal system) = 대륙법
   English law = 잉글랜드법
   Intellectual property = 지식 재산
-  Property = 재산
   Property law = 재산법
   Roman law = 로마법
   Trust (law) = 신탁
@@ -663,7 +641,6 @@ GLOSSARY:
   John B. Glen = 존 B. 글렌
   List of Essential Medicines = 필수 의약품 목록
   New Zealand = 뉴질랜드
-  Propofol = 프로포폴
   United Kingdom = 영국
   World = 세계
   World Health Organization = 세계 보건 기구
@@ -705,7 +682,6 @@ GLOSSARY:
   Ockham = 오컴
   Realists = 실재론자
   Stoics = 스토아학파
-  True = 『True』
   William = 윌리엄
   William of Ockham = 오컴의 윌리엄
   anti-realists = 반실재론자
@@ -718,7 +694,6 @@ Meaning of a declarative sentence, and bearer of truth value. Propositions are t
 HEADWORD: Propositional logic = 명제 논리
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Chrysippus = 크리시포스
   First-order logic = 1차 논리
   Gerhard Gentzen = 게르하르트 겐첸
@@ -773,7 +748,6 @@ GLOSSARY:
   Phenol = 페놀
   Polypropylene = 폴리프로필렌
   Propane = 프로판
-  Propylene = 프로필렌
   Williams = 윌리엄스
   acrylonitrile = 아크릴로나이트릴
   amyl alcohol = 아밀 알코올
@@ -799,7 +773,6 @@ GLOSSARY:
   French = 프랑스어
   Latin = 라틴어
   Old French = 고대 프랑스어
-  Prose = 산문
   Spinoza = 스피노자
   T. S. Eliot = T. S. 엘리엇
   Vita Nuova = 『신생』

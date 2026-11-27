@@ -76,7 +76,6 @@ GLOSSARY:
   OS X = OS X
   Outlook = 아웃룩
   Personal information manager = 개인 정보 관리자
-  Privacy = 사생활
   SharePoint = 셰어포인트
 ENTRY:
 Personal information manager and [[Email|email]] client from [[Microsoft]], available as part of the Microsoft 365 suite. Primarily popular with businesses, Outlook also provides calendaring, task and contact management, note-taking, journal logging and RSS news aggregation. Organizations can deploy it as multi-user software through Microsoft Exchange Server or SharePoint, for shared mailboxes, calendars and folders. Outlook replaced Microsoft's earlier Schedule+ and Exchange Client. Microsoft Entourage served Macintosh users until Outlook for Mac 2011, the first native version of Outlook for Mac OS X. Privacy concerns have been raised about the new Outlook, which sends passwords, mail and other data to Microsoft.
@@ -104,7 +103,6 @@ LEVEL: 4
 GLOSSARY:
   Android = 안드로이드
   Android (operating system) = 안드로이드
-  Family = 가족
   MS-DOS = MS-DOS
   Microsoft = 마이크로소프트
   Windows = 윈도우
@@ -205,7 +203,6 @@ GLOSSARY:
   North America = 북아메리카
   Ocean = 대양
   Plate tectonics = 판 구조론
-  Research = 연구
   Romanche Trench = 로망슈 해구
   South America = 남아메리카
   South Atlantic = 남부 대서양 연안
@@ -226,7 +223,6 @@ GLOSSARY:
   Lava = 용암
   Lithosphere = 암석권
   Magma = 마그마
-  Mantle = 맨틀
   Mid-Atlantic = 중부 대서양 연안
   Mid-Atlantic Ridge = 대서양 중앙 해령
   Plate tectonics = 판 구조론
@@ -289,7 +285,6 @@ GLOSSARY:
   Petrarch = 페트라르카
   Roman Empire = 로마 제국
   Saracens = 사라센
-  Society = 사회
   Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
   Umayyad = 우마이야 왕조
@@ -518,7 +513,6 @@ GLOSSARY:
   Erik Erikson = 에릭 에릭슨
   Hypertension = 고혈압
   Menopause = 폐경
-  Physical = 「Physical」
   generativity versus stagnation = 생산성 대 침체
   midlife crisis = 중년의 위기
   psychosocial development = 심리사회적 발달
@@ -567,7 +561,6 @@ GLOSSARY:
   Diptera = 파리목
   Fly = 파리
   Hemoglobin = 헤모글로빈
-  Others = 아더
   Swallow = 제비
   bloodworms = 붉은 장구벌레
   bluetongue = 블루텅
@@ -642,7 +635,6 @@ GLOSSARY:
   Sand = 모래
   Sand Island = 샌드섬
   Spit Island = 스핏섬
-  Today = 「투데이」
   War = 전쟁
   World = 세계
   World War II = 제2차 세계 대전
@@ -850,7 +842,6 @@ GLOSSARY:
   Guayaquil = 과야킬
   HBO = HBO
   Idiocracy = 「이디오크러시」
-  Judge = 판사
   King of the Hill = 「킹 오브 더 힐」
   MTV = MTV
   Office = 성무일도
@@ -925,7 +916,6 @@ GLOSSARY:
   Douglas = 더글러스
   Evander Holyfield = 에반더 홀리필드
   IBF = IBF
-  Iron = 철
   Iron Mike = 아이언 마이크
   WBA = WBA
   WBC = WBC
@@ -974,7 +964,6 @@ GLOSSARY:
   City = 도시
   George Balanchine = 조지 발란신
   Kirov Ballet = 키로프 발레단
-  Latvia = 라트비아
   Modern dance = 현대 무용
   New York City = 뉴욕
   New York City Ballet = 뉴욕 시티 발레단

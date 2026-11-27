@@ -22,12 +22,10 @@ HEADWORD: Bayonet = 총검
 LEVEL: 4
 GLOSSARY:
   Binglu = 『병록』
-  French = 프랑스어
   Infantry = 보병
   Musket = 머스킷
   Napoleonic Wars = 나폴레옹 전쟁
   Rifle = 소총
-  Today = 「투데이」
   plug bayonets = 플러그 총검
   socket bayonet = 소켓 총검
 ENTRY:
@@ -77,7 +75,6 @@ GLOSSARY:
   Climate change = 기후 변화
   Dune = 사구
   Human = 인간
-  Landform = 지형
   Sand = 모래
   Sea turtle = 바다거북
   Sediment = 퇴적물
@@ -97,7 +94,6 @@ GLOSSARY:
   Great Depression = 대공황
   Hawaii = 하와이
   Johnson = 존슨
-  Morgan = 모건
   Paul = 바울로
   Paul Johnson = 폴 존슨
   Sand = 모래
@@ -119,7 +115,6 @@ GLOSSARY:
   Edward II = 에드워드 2세
   Elizabeth I = 엘리자베스 1세
   Hound = 하운드
-  Miniature = 미니어처
   North Country Beagle = 노스컨트리 비글
   Southern Hound = 서던 하운드
   St. Hubert = 세인트 허버트
@@ -152,9 +147,7 @@ GLOSSARY:
   Maize = 옥수수
   Peru = 페루
   Phaseolus vulgaris = 강낭콩(Phaseolus vulgaris)
-  Plant = 식물
   Plant breeding = 품종 개량
-  Pre-Columbian = 콜럼버스 이전
   Seed = 씨앗
   Svalbard = 스발바르 제도
   Svalbard Global Seed Vault = 스발바르 국제 종자 저장고
@@ -228,7 +221,6 @@ A former trooper in the Special Air Service, he holds several world records in h
 HEADWORD: Beard = 수염
 LEVEL: 4
 GLOSSARY:
-  Beard = 턱수염
   Charles Darwin = 찰스 다윈
   Darwin = 다윈
   Elamites = 엘람인
@@ -286,9 +278,7 @@ GLOSSARY:
   John Harrison = 존 해리슨
   Lake = 호수
   Lake Nemi = 네미호
-  Leonardo = 레오나르도
   Leonardo da Vinci = 레오나르도 다빈치
-  Machine = 기계
   Nemi ships = 네미 선박
   Vinci = 빈치
   ball and roller bearings = 볼 베어링과 롤러 베어링
@@ -343,7 +333,6 @@ GLOSSARY:
   Marginal sea = 연해
   Northwest Territories = 노스웨스트 준주
   Ocean = 대양
-  Petroleum = 석유
   Polar bear = 북극곰
   River = 강
   Sir Francis Beaufort = 프랜시스 보퍼트 경
@@ -362,7 +351,6 @@ Canada and the United States dispute a wedge-shaped slice of maritime boundary b
 HEADWORD: Beaufort scale = 보퍼트 풍력 계급
 LEVEL: 5
 GLOSSARY:
-  Francis = 프랑수아
   Francis Beaufort = 프랜시스 보퍼트
   HMS Woolwich = 울리치호
   Hydrographer = 수로 측량관
@@ -390,7 +378,6 @@ GLOSSARY:
   John Locke = 존 로크
   Kant = 칸트
   Objectivists = 객관주의자
-  Others = 아더
   Plato = 플라톤
   Truth = 진리
   adherent beauty = 부수미
@@ -466,7 +453,6 @@ Ancient Greek contests included the Callisteia, and one notable example on [[Les
 HEADWORD: Beaver = 비버
 LEVEL: 4
 GLOSSARY:
-  Castor = 카스토르
   Eurasian = 유라시아판
   Eurasian beaver = 유럽비버
   Fur trade = 모피 무역
@@ -614,7 +600,6 @@ GLOSSARY:
   Civil engineering = 토목 공학
   Earth's crust = 지각
   Erosion = 침식
-  Solid = 고체
   Weathering = 풍화
   outcrop = 노두
   regolith = 표토
@@ -706,7 +691,6 @@ Bees are best known as [[Pollination|pollinators]] and, in the case of the weste
 HEADWORD: Beech = 너도밤나무속
 LEVEL: 4
 GLOSSARY:
-  Beech = 너도밤나무
   Chestnut = 밤나무
   Cretaceous = 백악기
   Eurasia = 유라시아
@@ -745,7 +729,6 @@ GLOSSARY:
   Hamburger = 햄버거
   Hinduism = 힌두교
   Indian religions = 인도계 종교
-  Meat = 고기
   United States = 미국
   cardiovascular disease = 심혈관 질환
   greenhouse gas = 온실가스
@@ -797,7 +780,6 @@ GLOSSARY:
   Munich = 뮌헨
   Nazi = 나치
   Nazi Party = 나치당
-  Police = 경찰
   Prison = 교도소
   Rome = 로마
   Weimar = 바이마르
@@ -813,7 +795,6 @@ LEVEL: 5
 GLOSSARY:
   August Beer = 아우구스트 베어
   Beer = 맥주
-  Forms = 이데아
   Johann Heinrich Lambert = 요한 하인리히 람베르트
   Light = 빛
   Scientific law = 과학 법칙
@@ -829,8 +810,6 @@ HEADWORD: Beer = 맥주
 LEVEL: 4
 GLOSSARY:
   Barley = 보리
-  Beer = 맥주
-  Brewing = 양조
   Cancer = 암
   Cave = 동굴
   Cereal = 곡물
@@ -845,7 +824,6 @@ GLOSSARY:
   Israel = 이스라엘
   Raqefet Cave = 라케페트 동굴
   Research = 연구
-  Wheat = 밀
   Yeast = 효모
   wort = 맥아즙
 ENTRY:
@@ -885,7 +863,6 @@ GLOSSARY:
   Ancient Egyptians = 고대 이집트인
   Australia = 오스트레일리아
   Azores = 아조레스 제도
-  Beetroot = 비트
   Beta vulgaris = Beta vulgaris
   Borscht = 보르시
   Eastern Europe = 동유럽
@@ -938,7 +915,6 @@ GLOSSARY:
   Applied behavior analysis = 응용 행동 분석
   Autism = 자폐증
   B. F. Skinner = B. F. 스키너
-  Behaviorism = 행동주의
   Cognitive psychology = 인지 심리학
   Edward Thorndike = 에드워드 손다이크
   Ivan Pavlov = 이반 파블로프
@@ -947,9 +923,7 @@ GLOSSARY:
   PTSD = 외상 후 스트레스 장애
   Pavlov = 파블로프
   Phobia = 공포증
-  Skinner = 스키너
   Thorndike = 손다이크
-  Watson = 왓슨
   cognitive psychology = 인지 심리학
   cognitive revolution = 인지 혁명
   cognitive-behavioral therapies = 인지 행동 치료
@@ -968,7 +942,6 @@ Systematic approach to the study of behavior in humans and other animals. It ass
 HEADWORD: Behemoth = 베헤모스
 LEVEL: 5
 GLOSSARY:
-  Beast = 비스트
   Book = 책
   Book of Job = 『욥기』
   Garden = 정원

@@ -6,7 +6,6 @@ GLOSSARY:
   Edmund Landau = 에드문트 란다우
   Function (mathematics) = 함수
   Ordnung = 오르드눙
-  Paul = 바울로
   Paul Bachmann = 파울 바흐만
   upper bound = 상계
 ENTRY:
@@ -61,11 +60,8 @@ GLOSSARY:
   Bikini = 비키니
   Bikini Atoll = 비키니 환초
   Brigitte Bardot = 브리지트 바르도
-  Film = 영화
   France = 프랑스
-  French = 프랑스어
   Louis Réard = 루이 레아르
-  Once = 『Once』
   Swimsuit = 수영복
 ENTRY:
 Two-piece women's [[Swimsuit|swimsuit]], with a top that covers the breasts and a bottom that covers the pelvis and some or all of the buttocks. French designer Louis Réard introduced the modern bikini in July 1946 and named it after the [[Bikini Atoll]], where a nuclear bomb had been tested four days earlier. Once considered controversial, it was banned from beaches in several countries, including France in 1949. Film stars such as [[Brigitte Bardot]] helped gain acceptance, and by the mid-1960s the minimalist design was common in most Western countries.
@@ -75,7 +71,6 @@ HEADWORD: Bikini Atoll = 비키니 환초
 LEVEL: 5
 GLOSSARY:
   Cold War = 냉전
-  Coral = 산호
   Marshall = 마셜 제도
   Marshall Islands = 마셜 제도
   Second = 초
@@ -359,7 +354,6 @@ GLOSSARY:
   Grammy = 그래미상
   Grammy Awards = 그래미상
   No Time to Die = 「007 노 타임 투 다이」
-  Ocean = 대양
   Ocean Eyes = 「Ocean Eyes」
   Time = 『타임』
 ENTRY:
@@ -433,7 +427,6 @@ GLOSSARY:
   Big Yin = 빅 인
   Folk music = 민속 음악
   Humblebums = 험블범스
-  Scottish = 스코틀랜드
   Stand-up comedy = 스탠드업 코미디
   UK Singles Chart = UK 싱글 차트
   knighted = 기사 작위를 받았다
@@ -474,10 +467,8 @@ HEADWORD: Graham, Billy = 그레이엄, 빌리
 LEVEL: 4
 GLOSSARY:
   Dwight D. Eisenhower = 드와이트 D. 아이젠하워
-  Eisenhower = 아이젠하워
   Hour = 시간
   Hour of Decision = 「결단의 시간」
-  Johnson = 존슨
   Lyndon B. Johnson = 린든 B. 존슨
   Martin Luther = 마르틴 루터
   Martin Luther King Jr. = 마틴 루서 킹 주니어
@@ -505,7 +496,6 @@ GLOSSARY:
   Garden = 정원
   Grammy = 그래미상
   Grammy Awards = 그래미상
-  Joel = 조엘
   Madison = 매디슨
   Madison Square = 매디슨 스퀘어
   Madison Square Garden = 매디슨 스퀘어 가든
@@ -564,7 +554,6 @@ GLOSSARY:
   Old West = 서부 개척 시대
   Pat Garrett = 팻 개릿
   Sheriff = 「셰리프」
-  Stories = 스토리
   Western (genre) = 서부극
   William = 윌리엄
   William H. Bonney = 윌리엄 H. 보니
@@ -583,7 +572,6 @@ GLOSSARY:
   I Ching = 『주역』
   Leibniz = 라이프니츠
   Logic gate = 논리 게이트
-  Number = 수
   Rational number = 유리수
   Thomas = 토머스
   Thomas Harriot = 토머스 해리엇
@@ -598,11 +586,9 @@ HEADWORD: Binary star = 쌍성
 LEVEL: 4
 GLOSSARY:
   Astrometry = 위치 천문학
-  Binary = 이진법
   Close binaries = 근접 쌍성
   Félix Savary = 펠릭스 사바리
   Nova = 신성
-  Others = 아더
   Spectroscopy = 분광학
   Star = 항성
   Supernova = 초신성
@@ -690,7 +676,6 @@ HEADWORD: Binomial coefficient = 이항 계수
 LEVEL: 5
 GLOSSARY:
   Integer = 정수
-  Number = 수
   Pascal's triangle = 파스칼의 삼각형
 ENTRY:
 Number of ways to choose an unordered subset of k elements from a set of n elements. Written C(n, k) or read as n choose k, it is the coefficient of the xᵏ term in the expansion of (1 + x)ⁿ, and it equals n!/(k!(n−k)!). Binomial coefficients are [[Integer|integers]] that appear in the successive rows of [[Pascal's triangle]]. For example, there are six ways to choose two elements from {1, 2, 3, 4}.
@@ -758,7 +743,6 @@ LEVEL: 5
 GLOSSARY:
   Arctictis = 아르크틱티스속
   Asia = 아시아
-  Habitat = 서식지
   IUCN = 국제 자연 보전 연맹
   IUCN Red List = IUCN 적색 목록
   Popcorn = 팝콘
@@ -807,7 +791,6 @@ GLOSSARY:
   Animal = 동물
   Animal Chemistry = 『동물 화학』
   Biotechnology = 생명 공학
-  Branch = 브랜치
   Carl Neuberg = 카를 노이베르크
   Chemistry = 화학
   Compendium der Biochemie = 『생화학 개요』
@@ -859,7 +842,6 @@ GLOSSARY:
   Cambrian = 캄브리아기
   Cambrian explosion = 캄브리아기 대폭발
   Earth = 지구
-  Habitat = 서식지
   Holocene = 홀로세
   Holocene extinction = 홀로세 대멸종
   Human = 인간

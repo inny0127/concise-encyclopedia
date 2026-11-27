@@ -3,7 +3,6 @@ HEADWORD: China = 중국
 LEVEL: 3
 GLOSSARY:
   1911 Revolution = 신해혁명
-  Area = 넓이
   Asia = 아시아
   Beijing = 베이징
   Buddhism = 불교
@@ -42,7 +41,6 @@ GLOSSARY:
   UN Security Council = 국제 연합 안전 보장 이사회
   Uyghurs = 위구르족
   Wall = 벽
-  World = 세계
   World Heritage = 세계 유산
   World Heritage Sites = 세계유산
   Xi Jinping = 시진핑
@@ -98,7 +96,6 @@ GLOSSARY:
   Chile = 칠레
   Chinchilla chinchilla = 짧은꼬리친칠라
   Fur = 모피
-  Genus = 속
   Herd = 무리
   Rodent = 설치류
   South America = 남아메리카
@@ -274,7 +271,6 @@ GLOSSARY:
   Standard = 스탠더드
   Taiwan = 타이완
   Unicode = 유니코드
-  Writing = 문자
   oracle bone inscriptions = 갑골문
   traditional characters = 번체자
 ENTRY:
@@ -287,7 +283,6 @@ GLOSSARY:
   Anhui = 안후이성
   China = 중국
   Chinese medicine = 중의학
-  Cuisine = 요리
   Eight = 「에잇」
   Eight Cuisines of China = 중국 8대 요리
   Fujian = 푸젠성
@@ -326,9 +321,7 @@ GLOSSARY:
   Qi = 기
   Qing = 청나라
   Qing dynasty = 청나라
-  Revival = 「Revival」
   Song dynasty = 송나라
-  Stories = 스토리
   Taiwan = 타이완
   Taoism = 도교
   Tian = 천
@@ -378,7 +371,6 @@ GLOSSARY:
   Sinitic = 중국어파
   Sino-Tibetan = 중국티베트어족
   Sino-Tibetan languages = 중국티베트어족
-  Standard = 스탠더드
   Standard Chinese = 표준 중국어
   Taiwan = 타이완
   Tibetan = 티베트어
@@ -412,7 +404,6 @@ GLOSSARY:
   Han = 한족
   Li Bai = 이백
   Lu Xun = 루쉰
-  Ming = 명나라
   People's Republic = 중화인민공화국
   Qing = 청나라
   Tang = 당나라
@@ -449,8 +440,6 @@ LEVEL: 4
 GLOSSARY:
   China = 중국
   Chinese folk religion = 중국 민간 신앙
-  Creation = 천지 창조
-  Culture = 문화
   Greater China = 중화권
   Journey to the West = 『서유기』
   Nuwa = 여와
@@ -487,7 +476,6 @@ GLOSSARY:
   Mohism = 묵가
   Neo-Confucianism = 성리학
   New Confucianism = 신유학
-  Philosophy = 철학
   Spring and Autumn = 춘추 시대
   Taoism = 도교
   Warring States = 전국 시대
@@ -517,7 +505,6 @@ GLOSSARY:
   Rabbit = 토끼
   Rat = 쥐
   Rooster = 닭
-  Scheme = 스킴
   Snake = 뱀
   Southeast = 남동부
   Southeast Asia = 동남아시아
@@ -637,7 +624,6 @@ LEVEL: 4
 GLOSSARY:
   Cold chisels = 정
   Hammer = 망치
-  Hand = 손
   Metalworking = 금속 가공
   Sculpture = 조각
   Woodworking = 목공
@@ -659,7 +645,6 @@ GLOSSARY:
   Calcium carbonate = 탄산 칼슘
   Cell wall = 세포벽
   Cellulose = 셀룰로스
-  Chitin = 키틴
   Chitosan = 키토산
   Crustacean = 갑각류
   Insect = 곤충
@@ -794,7 +779,6 @@ Chemical element with atomic number 17 and symbol Cl, a yellow-green gas at room
 HEADWORD: Chloroform = 클로로폼
 LEVEL: 5
 GLOSSARY:
-  Chloroform = 클로로포름
   inhalational anesthetic = 흡입 마취제
   organochlorine = 유기 염소 화합물
   polytetrafluoroethylene = 폴리테트라플루오로에틸렌
@@ -836,7 +820,6 @@ GLOSSARY:
   Charophyta = 윤조식물
   Chlorophyceae = 녹조강
   Chlorophyll = 엽록소
-  Chlorophytes = 녹조식물
   Chloroplast = 엽록체
   Flagellate = 편모충
   Starch = 녹말
@@ -895,12 +878,10 @@ Phenothiazine antipsychotic medication, marketed as Thorazine and Largactil amon
 HEADWORD: Chocolate = 초콜릿
 LEVEL: 4
 GLOSSARY:
-  Chocolate = 초콜릿
   Coast = 해안
   Cocoa bean = 카카오콩
   Ecuador = 에콰도르
   Europe = 유럽
-  Food = 음식
   Ghana = 가나
   Ivory = 상아
   Ivory Coast = 코트디부아르
@@ -925,7 +906,6 @@ GLOSSARY:
   Piano = 피아노
   Pipe organ = 파이프 오르간
   Spem in alium = 「스템 인 알리움」
-  Thomas = 토머스
   Thomas Tallis = 토머스 탤리스
   chorale = 합창단
   chorus = 합창단
@@ -969,12 +949,10 @@ GLOSSARY:
   England = 잉글랜드
   Epidemiology = 역학
   Feces = 대변
-  Infection = 감염
   John = 존
   John Snow = 존 스노
   Pandemic = 팬데믹
   Sanitation = 위생
-  Seven = 「세븐」
   Vibrio cholerae = 비브리오 콜레라
   Zinc = 아연
   oral rehydration salts = 경구 수액염
@@ -988,7 +966,6 @@ LEVEL: 4
 GLOSSARY:
   Brain = 뇌
   Cardiovascular disease = 심혈관 질환
-  Cholesterol = 콜레스테롤
   Mycoplasma = 마이코플라스마
   Prokaryote = 원핵생물
   Spinal cord = 척수

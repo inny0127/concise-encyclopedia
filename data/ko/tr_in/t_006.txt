@@ -4,7 +4,6 @@ LEVEL: 4
 GLOSSARY:
   Aerodynamics = 공기역학
   Aircraft = 항공기
-  Branch = 브랜치
   Materials science = 재료 과학
   Spacecraft = 우주선
   Sputnik = 스푸트니크
@@ -80,10 +79,8 @@ HEADWORD: Aesthetics = 미학
 LEVEL: 3
 GLOSSARY:
   Aesthetic properties = 미적 속성
-  Aesthetics = 미학
   Alexander Baumgarten = 알렉산더 바움가르텐
   Aristotle = 아리스토텔레스
-  Branch = 브랜치
   Comparative aesthetics = 비교 미학
   Dada = 다다이즘
   David Hume = 데이비드 흄
@@ -93,7 +90,6 @@ GLOSSARY:
   Kant = 칸트
   Latin = 라틴어
   Plato = 플라톤
-  Taste = 미각
   aesthetica = 에스테티카
   aisthesis = 아이스테시스
   catharsis = 카타르시스
@@ -115,7 +111,6 @@ GLOSSARY:
   Consanguinity = 혈족 관계
   Hawaii = 하와이주
   Incest = 근친상간
-  Kinship = 친족
   South Africa = 남아프리카 공화국
   affines = 인척
   in-laws = 인척
@@ -129,7 +124,6 @@ GLOSSARY:
   Abbottabad = 아보타바드
   Afghanistan = 아프가니스탄
   Arabia = 아라비아
-  Following = 「미행」
   Islamic Emirate = 이슬람 토후국
   Kabul = 카불
   Mohammad Zahir Shah = 모하마드 자히르 샤
@@ -260,7 +254,6 @@ GLOSSARY:
   Carthage = 카르타고
   Climate = 기후
   Cold War = 냉전
-  Continent = 대륙
   Eastern Africa = 동아프리카
   Egypt = 이집트
   Ethiopia = 에티오피아
@@ -290,7 +283,6 @@ GLOSSARY:
   Pleistocene extinctions = 플라이스토세 멸종
   Red Sea = 홍해
   Rome = 로마
-  Slave = 슬레이브강
   Sub-Saharan Africa = 사하라 이남 아프리카
   Third = 교향곡 제3번
   Third Punic War = 제3차 포에니 전쟁
@@ -478,7 +470,6 @@ HEADWORD: African bush elephant = 아프리카덤불코끼리
 LEVEL: 5
 GLOSSARY:
   Africa = 아프리카
-  Elephant = 코끼리
   Endangered = 위기
   IUCN = 국제 자연 보전 연맹
   IUCN Red List = IUCN 적색 목록
@@ -496,7 +487,6 @@ GLOSSARY:
   Africa = 아프리카
   Afro-Asiatic = 아프리카아시아어족
   Afro-Asiatic languages = 아프리카아시아어족
-  Book = 책
   Book of Kings = 『왕서』
   Chinua Achebe = 치누아 아체베
   French = 프랑스어
@@ -629,7 +619,6 @@ GLOSSARY:
   Hebrew = 히브리어
   Horn of Africa = 아프리카의 뿔
   Indo-European = 인도유럽어족
-  Language = 언어
   Language family = 어족
   Levant = 레반트
   Niger = 니제르
@@ -640,7 +629,6 @@ GLOSSARY:
   Semitic languages = 셈어파
   Sino-Tibetan = 중국티베트어족
   West Asia = 서아시아
-  Writing = 문자
 ENTRY:
 Language family of about 400 languages spoken mainly in West Asia, North Africa and the Horn of Africa. Over 600 million people are native speakers, making it the fourth-largest family after Indo-European, Sino-Tibetan and Niger–Congo. Most linguists divide it into six branches: [[Berber languages|Berber]], Chadic, Cushitic, Egyptian, Omotic and [[Semitic languages|Semitic]]. [[Arabic]] is by far the most widely spoken, with an estimated 300 to 411 million native speakers. Extinct ancient members include Egyptian and the Semitic languages Akkadian and Biblical Hebrew. Scholars disagree on the homeland of Proto-Afroasiatic, the common ancestor; most place it in eastern North Africa or northern East Africa, while a significant minority argue for the Levant. Writing in its Semitic and Egyptian branches dates to the fourth millennium BC.
 
@@ -651,7 +639,6 @@ GLOSSARY:
   Abrahamic = 아브라함계
   Asia = 아시아
   Australia = 오스트레일리아
-  Belief = 믿음
   Buddhism = 불교
   Cathars = 카타리파
   Christianity = 기독교
@@ -667,7 +654,6 @@ GLOSSARY:
   Kabbalah = 카발라
   Plato = 플라톤
   Pythagoras = 피타고라스
-  Reincarnation = 윤회
   Siberia = 시베리아
   Sikhism = 시크교
   South America = 남아메리카
@@ -728,7 +714,6 @@ Genus of [[Mushroom|mushroom]]-forming fungi containing both edible and poisonou
 HEADWORD: Agate = 마노
 LEVEL: 5
 GLOSSARY:
-  Agate = 마노
   Chalcedony = 옥수
   Quartz = 석영
   microcrystalline = 미정질
@@ -765,7 +750,6 @@ English writer of mystery and detective fiction, known as the Queen of Crime. Sh
 HEADWORD: Agave = 용설란
 LEVEL: 4
 GLOSSARY:
-  Agave = 아가우에
   Americas = 아메리카
   Genus = 속
   Mexico = 멕시코
@@ -822,7 +806,6 @@ GLOSSARY:
   Pacific = 태평양
   Peru = 페루
   Sail = 돛
-  Spain = 스페인
   Vasco da Gama = 바스쿠 다가마
   West Africa = 서아프리카
   World = 세계
@@ -843,7 +826,6 @@ HEADWORD: Age of Earth = 지구의 나이
 LEVEL: 5
 GLOSSARY:
   Australia = 오스트레일리아
-  Calcium = 칼슘
   Earth = 지구
   Jack Hills = 잭힐스
   Meteorite = 운석
@@ -1017,7 +999,6 @@ Chemical herbicide and defoliant used by the United States and South Vietnam in 
 HEADWORD: Aggression = 공격성
 LEVEL: 4
 GLOSSARY:
-  Aggression = 공격성
   Direct aggression = 직접 공격성
   Evolution = 진화
   assertiveness = 자기주장

@@ -53,7 +53,6 @@ GLOSSARY:
   Arabs = 아랍인
   Asia = 아시아
   Asia Minor = 소아시아
-  Byzantine = 비잔티움
   Byzantine emperor = 비잔티움 황제
   Caliphate = 칼리파국
   Egypt = 이집트
@@ -62,7 +61,6 @@ GLOSSARY:
   Khosrow II = 호스로 2세
   Latin = 라틴어
   Nineveh = 니네베
-  Persian = 페르시아어
   Phocas = 포카스
   Rashidun = 정통 칼리파
   Rashidun Caliphate = 정통 칼리파국
@@ -78,9 +76,7 @@ Byzantine emperor (r. 610–641). He rose to power in 608, when he and his fathe
 HEADWORD: Heraldry = 문장학
 LEVEL: 4
 GLOSSARY:
-  Discipline = 「디시플린」
   Genealogy = 계보학
-  Heraldry = 문장학
   High Middle Ages = 중세 성기
   Horus = 호루스
   Middle Ages = 중세
@@ -98,7 +94,6 @@ HEADWORD: Herat = 헤라트
 LEVEL: 4
 GLOSSARY:
   Afghanistan = 아프가니스탄
-  City = 도시
   Hari = 하리
   Hari River = 하리강
   Herat = 헤라트
@@ -249,14 +244,12 @@ Austrian conductor, principal conductor of the Berlin Philharmonic for 34 years.
 HEADWORD: Herbivore = 초식동물
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Carnivore = 육식동물
   Cattle = 소
   Cellulose = 셀룰로스
   Charles Lyell = 찰스 라이엘
   Enzyme = 효소
   Geology = 지질학
-  Grazing = 풀 뜯기
   Horse = 말
   Latin = 라틴어
   Principles of Geology = 『지질학 원리』
@@ -293,7 +286,6 @@ GLOSSARY:
   Europe = 유럽
   Iran = 이란
   Iraq = 이라크
-  Joint = 관절
   Livestock = 가축
   Peru = 페루
   Sheep = 양
@@ -316,8 +308,6 @@ GLOSSARY:
   Gene = 유전자
   Genetics = 유전학
   Gregor Mendel = 그레고어 멘델
-  Heredity = 유전
-  Inheritance = 상속
   Natural selection = 자연 선택
   RNA interference = RNA 간섭
   alleles = 대립 유전자
@@ -370,12 +360,10 @@ GLOSSARY:
   Against Heresies = 『이단 반박』
   Apostasy = 배교
   Arius = 아리우스
-  Belief = 믿음
   Christianity = 기독교
   Constantine the Great = 콘스탄티누스 1세
   Edict of Thessalonica = 테살로니카 칙령
   Gnosticism = 영지주의
-  Heresy = 이단
   Irenaeus = 이레네우스
   Islam = 이슬람교
   Judaism = 유대교
@@ -450,7 +438,6 @@ GLOSSARY:
   Beer = 맥주
   Beer Hall Putsch = 뮌헨 폭동
   Four Year Plan = 4개년 계획
-  German = 독일어
   Germany = 독일
   Gestapo = 게슈타포
   Heinrich Himmler = 하인리히 힘러
@@ -513,7 +500,6 @@ GLOSSARY:
   David Hilbert = 다비트 힐베르트
   Einstein = 아인슈타인
   Gauge theory = 게이지 이론
-  German = 독일어
   Group theory = 군론
   Göttingen = 괴팅겐
   Hilbert = 힐베르트
@@ -575,7 +561,6 @@ GLOSSARY:
   Mercury = 메르쿠리우스
   Mycenaean = 미케네
   Mycenaean Greek = 미케네 그리스어
-  Olympian = 올림포스
   Romans = 로마인
   Zeus = 제우스
   caduceus = 카두케우스
@@ -775,7 +760,6 @@ GLOSSARY:
   Calabria = 칼라브리아
   Cicero = 키케로
   Cyrus the Great = 키루스 대왕
-  Father = 아버지
   Father of History = 역사의 아버지
   Greco-Persian Wars = 페르시아 전쟁
   Halicarnassus = 할리카르나소스
@@ -801,9 +785,7 @@ HEADWORD: Heroin = 헤로인
 LEVEL: 5
 GLOSSARY:
   Addiction = 중독
-  Alder = 오리나무
   C. R. Alder Wright = C. R. 올더 라이트
-  Heroin = 헤로인
   Methadone = 메타돈
   Naloxone = 날록손
   Opioid = 오피오이드
@@ -866,11 +848,9 @@ GLOSSARY:
   Clupea = 청어속
   Clupeidae = 청어과
   Clupeiformes = 청어목
-  Herring = 청어
   North Atlantic = 북대서양
   North Pacific = 북태평양
   Pacific = 태평양
-  Species = 종
   United Kingdom = 영국
   fisheries science = 수산학
   oily fish = 등푸른생선

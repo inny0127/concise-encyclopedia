@@ -12,8 +12,6 @@ GLOSSARY:
   Pasha = 파샤
   Roman Empire = 로마 제국
   Sylejman Pasha Bargjini = 슐레이만 파샤 바르지니
-  Tirana = 티라나
-  Today = 「투데이」
 ENTRY:
 Capital and largest city of [[Albania]], located in the center of the country. The site has been inhabited since the [[Iron Age]] and was annexed by the [[Roman Empire]] after the Illyrian Wars. Tirana was founded in 1614 by the Ottoman Albanian nobleman Sylejman Pasha Bargjini. It remained unimportant until the 20th century, when the Congress of Lushnjë made it the capital. Today it is the country's economic, financial and political center, and it hosts the government and parliament. It is among the wettest and sunniest cities in [[Europe]].
 
@@ -43,7 +41,6 @@ Ring-shaped component surrounding a [[Wheel|wheel's]] rim, spelled tire in Commo
 HEADWORD: Tissue = 조직
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Connective tissue = 결합 조직
   Epidermis (botany) = 표피
   French = 프랑스어
@@ -66,7 +63,6 @@ Group of similar cells and their extracellular matrix, from the same embryonic o
 HEADWORD: Tit = 박새
 LEVEL: 4
 GLOSSARY:
-  Eurasian = 유라시아판
   North America = 북아메리카
   Northern Hemisphere = 북반구
   Old English = 고대 영어
@@ -233,7 +229,6 @@ GLOSSARY:
   Atlas = 지도책
   Atlas (mythology) = 아틀라스
   Cronus = 크로노스
-  Earth = 지구
   Gaia = 가이아
   Greek mythology = 그리스 신화
   Helios = 헬리오스
@@ -415,10 +410,8 @@ GLOSSARY:
   Adolescence = 청소년기
   Dopamine = 도파민
   Eurasia = 유라시아
-  German = 독일어
   Mesoamerica = 메소아메리카
   Nicotine = 니코틴
-  Smoking = 흡연
   South America = 남아메리카
   Tobacco = 담배
   World = 세계
@@ -489,7 +482,6 @@ GLOSSARY:
   Burkina Faso = 부르키나파소
   Faure Gnassingbé = 포르 냐싱베
   France = 프랑스
-  French = 프랑스어
   Germany = 독일
   Ghana = 가나
   Gnassingbé Eyadéma = 냐싱베 에야데마
@@ -620,17 +612,14 @@ GLOSSARY:
   Battle of Sekigahara = 세키가하라 전투
   Boshin War = 보신 전쟁
   Castle = 성
-  Daimyo = 다이묘
   Edo = 에도
   Edo Castle = 에도성
   Edo period = 에도 시대
   Japan = 일본
   Meiji = 메이지
   Meiji Restoration = 메이지 유신
-  Military = 군대
   Restoration = 왕정복고
   Sengoku period = 센고쿠 시대
-  Society = 사회
   Tokugawa Ieyasu = 도쿠가와 이에야스
   Tokyo = 도쿄
   daimyo = 다이묘
@@ -711,7 +700,6 @@ LEVEL: 5
 GLOSSARY:
   Aum Shinrikyo = 옴진리교
   Japan = 일본
-  Police = 경찰
   Shoko Asahara = 아사하라 쇼코
   Tokyo = 도쿄
   Tokyo Metro = 도쿄 메트로
@@ -757,7 +745,6 @@ LEVEL: 5
 GLOSSARY:
   Carpetanian = 카르페타니족
   Christendom = 그리스도교 세계
-  City = 도시
   Gothic = 고딕
   Gothic cathedral = 고딕 양식 대성당
   Islamic world = 이슬람 세계
@@ -803,7 +790,6 @@ HEADWORD: Brady, Tom = 브레이디, 톰
 LEVEL: 4
 GLOSSARY:
   American football = 미식축구
-  Brady = 브래디
   England = 잉글랜드
   Football = 축구
   Football League = 풋볼 리그
@@ -875,7 +861,6 @@ GLOSSARY:
   A Single Man = 「싱글맨」
   Council of Fashion Designers of America = 미국 패션 디자이너 협회
   Disco = 디스코
-  Ford = 포드
   Gucci = 구찌
   Nocturnal Animals = 「녹터널 애니멀스」
   Saint = 성인
@@ -935,7 +920,6 @@ GLOSSARY:
   Eddie = 에디
   Eddie Brock = 에디 브록
   Frankie Pulitzer = 프랭키 퓰리처
-  Fury = 「분노」
   Fury Road = 「분노의 도로」
   Hip-hop = 힙합
   Inception = 「인셉션」

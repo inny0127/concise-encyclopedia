@@ -144,6 +144,15 @@ def merge():
         print(f"{i + 1} resolution groups in data/ko/resolve_in (one Opus agent each, prompt data/ko/PROMPT_resolve.md)")
 
 
+def midsentence(word, text):
+    """True if a capitalized word also occurs inside a sentence (a name), not only as a sentence's first word."""
+    for m in re.finditer(r"\b" + re.escape(word) + r"\b", text):
+        before = text[:m.start()].rstrip()
+        if before and before[-1] not in ".!?:;\n\"“(":
+            return True
+    return False
+
+
 def terms_for(e, full, local):
     """Glossary terms that occur in this entry: link targets plus any term found in the text (1-6 word n-grams)."""
     plain = LINK.sub(lambda m: m.group(2) or m.group(1), e["entry"]).replace("*", "")
@@ -158,7 +167,7 @@ def terms_for(e, full, local):
     for t in found:
         # a global term from other groups matches only if it is unlikely to be an everyday word in another sense
         # ("It" = a novel, "value" = 명도 in color theory): link targets, own-group terms, multiword terms, longer names
-        if not (t in links or t in own or " " in t or (t[:1].isupper() and len(t) >= 4)):
+        if not (t in links or t in own or " " in t or (t[:1].isupper() and len(t) >= 4 and midsentence(t, plain))):
             continue
         rec = full.get(t)
         if rec == "context":

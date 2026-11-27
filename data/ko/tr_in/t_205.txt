@@ -88,14 +88,12 @@ GLOSSARY:
   Cornelis Corneliszoon = 코르넬리스 코르넬리스존
   Dutch = 네덜란드어
   Fir = 전나무
-  Lumber = 목재
   Madeira = 마데이라
   Pine = 소나무
   Portuguese Empire = 포르투갈 제국
   Spruce = 가문비나무
   United States = 미국
   Window = 창문
-  Wood = 목재
   sawmill = 제재소
   softwood = 연재
   timber = 원목
@@ -129,7 +127,6 @@ GLOSSARY:
   Cinématographe = 시네마토그라프
   Factory = 공장
   Film = 영화
-  French = 프랑스어
   Lumière = 「뤼미에르」
   Lumière Autochrome = 뤼미에르 오토크롬
   Lyon = 리옹
@@ -202,7 +199,6 @@ GLOSSARY:
   Dictionary = 사전
   Dinner = 저녁 식사
   England = 잉글랜드
-  Meal = 식사
   Oxford = 옥스퍼드
   Oxford English Dictionary = 『옥스퍼드 영어 사전』
   Salad = 샐러드
@@ -283,7 +279,6 @@ GLOSSARY:
   Australia = 오스트레일리아
   Devonian = 데본기
   Early Devonian = 전기 데본기
-  Lungfish = 폐어
   Sarcopterygii = 육기어강
   South America = 남아메리카
   Tetrapod = 사지동물
@@ -402,7 +397,6 @@ LEVEL: 4
 GLOSSARY:
   Aristotle = 아리스토텔레스
   Judaism = 유대교
-  Lust = 욕정
   Money = 화폐
   New Testament = 신약 성경
   Power (political science) = 권력
@@ -468,7 +462,6 @@ GLOSSARY:
   Bette Midler = 베트 미들러
   Beyoncé = 비욘세
   Closer = 「클로저」
-  Dance = 춤
   Dance with My Father = 「Dance with My Father」
   David Bowie = 데이비드 보위
   Diana Ross = 다이애나 로스
@@ -500,8 +493,6 @@ GLOSSARY:
   Eucharist = 성찬례
   Europe = 유럽
   German = 독일어
-  Lutheran = 루터교
-  Lutheranism = 루터교
   Martin Luther = 마르틴 루터
   Northern Europe = 북유럽
   Protestantism = 개신교
@@ -563,7 +554,6 @@ LEVEL: 4
 GLOSSARY:
   Amun = 아문
   Bank = 은행
-  City = 도시
   Egypt = 이집트
   Karnak = 카르나크
   Kings = 킹스
@@ -596,7 +586,6 @@ GLOSSARY:
   Homo luzonensis = 호모 루소넨시스
   Kapampangan = 캄팜팡안
   Laguna Copperplate Inscription = 라구나 동판 비문
-  Luzon = 루손섬
   Manila = 마닐라
   Manila Bay = 마닐라만
   Maynila = 마이닐라
@@ -657,7 +646,6 @@ GLOSSARY:
   Hypoglycemia = 저혈당증
   India = 인도
   Litchi chinensis = Litchi chinensis
-  Lychee = 리치
   Madagascar = 마다가스카르
   Malaysia = 말레이시아
   Sapindaceae = 무환자나무과
@@ -678,7 +666,6 @@ HEADWORD: Lycophyte = 석송류
 LEVEL: 4
 GLOSSARY:
   Carboniferous = 석탄기
-  Clade = 분기군
   Coal = 석탄
   Fern = 양치식물
   Flowering plant = 속씨식물
@@ -720,10 +707,8 @@ GLOSSARY:
   Hittite = 히타이트어
   Indo-European = 인도유럽어족
   Indo-European languages = 인도유럽어족
-  Iron = 철
   Iron Age = 철기 시대
   Luwian = 루위어
-  Lydia = 리디아
   Lydian language = 리디아어
   Roman province = 로마 속주
   Roman province of Asia = 로마의 아시아 속주
@@ -779,7 +764,6 @@ GLOSSARY:
   Bacteria = 세균
   Circulatory system = 순환계
   Immune system = 면역계
-  Network = 「네트워크」
   Olaus Rudbeck = 올라우스 루드베크
   Spleen = 비장
   Thomas = 토머스
@@ -826,7 +810,6 @@ GLOSSARY:
   1848 Revolutions = 1848년 혁명
   African Americans = 아프리카계 미국인
   American Revolution = 미국 독립 혁명
-  Black = 검은색
   Europe = 유럽
   French = 프랑스어
   French Revolution = 프랑스 혁명
@@ -920,7 +903,6 @@ LEVEL: 4
 GLOSSARY:
   Auguste and Louis Lumière = 오귀스트 뤼미에르와 루이 뤼미에르
   Biotechnology = 생명 공학
-  City = 도시
   Croix-Rousse = 크루아루스
   Euronews = 유로뉴스
   Fourvière = 푸르비에르

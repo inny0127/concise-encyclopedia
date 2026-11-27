@@ -9,7 +9,6 @@ GLOSSARY:
   City = 도시
   Cold War = 냉전
   First Lady of the United States = 미국의 영부인
-  Jackie = 재키
   Jackie Look = 재키 룩
   John = 존
   John F. Kennedy = 존 F. 케네디
@@ -40,7 +39,6 @@ GLOSSARY:
   City = 도시
   Francis = 프랑수아
   Francis I = 프랑수아 1세
-  French = 프랑스어
   Gaspé = 가스페
   Great auk = 큰바다쇠오리
   Gulf of St. Lawrence = 세인트로렌스만
@@ -77,7 +75,6 @@ GLOSSARY:
   Cousteau Society = 쿠스토 협회
   Festival = 축제
   Film = 영화
-  French = 프랑스어
   It = 『그것』
   Jacques = 자크 퀴리
   Louis Malle = 루이 말
@@ -150,7 +147,6 @@ GLOSSARY:
   Asia = 아시아
   Calcium = 칼슘
   East Asia = 동아시아
-  Jade = 옥
   Kidney = 콩팥
   Magnesium = 마그네슘
   Pyroxene = 휘석
@@ -174,7 +170,6 @@ GLOSSARY:
   Chinese folk religion = 중국 민간 신앙
   Chinese mythology = 중국 신화
   Chinese zodiac = 십이지
-  Deity = 신
   Heavenly Grandfather = 천공
   Pure = 「퓨어」
   Taiwan = 타이완
@@ -250,7 +245,6 @@ GLOSSARY:
   Jain = 자이나교
   Jain Dharma = 자인 다르마
   Jain philosophy = 자이나 철학
-  Jainism = 자이나교
   Jains = 자이나교도
   Karma = 업
   Magadha = 마가다
@@ -426,7 +420,6 @@ GLOSSARY:
   Emperor Charles V = 카를 5세 황제
   Europe = 유럽
   Fuggerei = 푸거라이
-  German = 독일어
   Greg Steinmetz = 그레그 스타인메츠
   Habsburg = 합스부르크
   Holy Roman Emperor = 신성 로마 황제
@@ -556,7 +549,6 @@ GLOSSARY:
   British Secret Service = 영국 비밀정보부
   Dr. No = 「007 살인번호」
   Eon Productions = 이온 프로덕션
-  Film = 영화
   Ian Fleming = 이언 플레밍
   James = 야고보
   James Bond = 제임스 본드
@@ -590,11 +582,9 @@ HEADWORD: Brown, James = 브라운, 제임스
 LEVEL: 4
 GLOSSARY:
   Black = 검은색
-  Brown = 브라운
   Famous Flames = 페이머스 플레임스
   Funk = 펑크
   Georgia (U.S. state) = 조지아주
-  Godfather = 대부
   Godfather of Soul = 솔의 대부
   Hip-hop = 힙합
   Machine = 기계
@@ -669,7 +659,6 @@ GLOSSARY:
   Best Director = 감독상
   Best Film Editing = 편집상
   Best Picture = 작품상
-  Canadian = 캐나다
   Challenger = 챌린저호
   Deepsea Challenger = 딥시 챌린저
   Film = 영화
@@ -742,7 +731,6 @@ GLOSSARY:
   Quantum mechanics = 양자역학
   Radio wave = 전파
   Saturn = 토성
-  Scottish = 스코틀랜드
   Smith's Prize = 스미스상
   Statistical mechanics = 통계 역학
   Theory = 이론
@@ -1016,13 +1004,11 @@ GLOSSARY:
   Berwickshire = 버릭셔
   Earth = 지구
   Earth's crust = 지각
-  Father = 아버지
   Father of Modern Geology = 근대 지질학의 아버지
   Geology = 지질학
   Leiden = 레이던
   Leiden University = 레이던 대학교
   Salisbury Crags = 솔즈베리 크래그스
-  Scottish = 스코틀랜드
   Siccar Point = 시카 포인트
   Soot = 그을음
   University = 대학
@@ -1062,7 +1048,6 @@ GLOSSARY:
   Dubliners = 『더블린 사람들』
   Finnegans Wake = 『피네간의 경야』
   Homer = 호메로스
-  Irish = 아일랜드어
   Joyce = 조이스
   Odyssey = 『오디세이아』
   Paris = 파리

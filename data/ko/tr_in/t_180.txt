@@ -53,7 +53,6 @@ Private research university in [[Baltimore]], Maryland, named for the Quaker phi
 HEADWORD: Johor Bahru = 조호르바루
 LEVEL: 4
 GLOSSARY:
-  City = 도시
   Iskandar Malaysia = 이스칸다르 말레이시아
   Istana Besar = 이스타나 브사르
   Johor = 조호르
@@ -297,7 +296,6 @@ American revivalist preacher, philosopher and Congregationalist theologian. Scho
 HEADWORD: Larson, Jonathan = 라슨, 조너선
 LEVEL: 5
 GLOSSARY:
-  Boom = 「붐」
   Broadway = 브로드웨이
   Multiculturalism = 다문화주의
   Pulitzer Prize = 퓰리처상
@@ -416,7 +414,6 @@ LEVEL: 4
 GLOSSARY:
   500 Greatest Albums of All Time = 역대 최고의 앨범 500
   Blue = 「블루」
-  Canadian = 캐나다
   Court = 법원
   Court and Spark = 「코트 앤드 스파크」
   Grammy = 그래미상
@@ -444,7 +441,6 @@ GLOSSARY:
   Asia = 아시아
   Bank = 은행
   British protectorate = 영국 보호령
-  Hashemite = 하심 왕가
   Hashemite kingdom = 하심 왕국
   Human = 인간
   Human Development Index = 인간 개발 지수
@@ -489,7 +485,6 @@ HEADWORD: Peterson, Jordan = 피터슨, 조던
 LEVEL: 5
 GLOSSARY:
   Bill C-16 = C-16 법안
-  Canadian = 캐나다
   Chaos = 카오스
   Climate change = 기후 변화
   Life = 『라이프』
@@ -526,7 +521,6 @@ GLOSSARY:
   Levant = 레반트
   Promised Land = 약속의 땅
   Rameses II = 람세스 2세
-  River = 강
   Sea of Galilee = 갈릴리호
   Semitic = 셈어
   West Bank = 요르단강 서안 지구
@@ -650,7 +644,6 @@ GLOSSARY:
   Bracken = 고사리
   Cuba = 쿠바
   El filibusterismo = 『엘 필리부스테리스모』
-  Filipino = 필리핀어
   Josephine Bracken = 조세핀 브래컨
   La Liga = 라리가
   La Liga Filipina = 라 리가 필리피나
@@ -754,7 +747,6 @@ GLOSSARY:
   Bertioga = 베르치오가
   Brazil = 브라질
   Death = 죽음
-  German = 독일어
   Germany = 독일
   Holocaust = 홀로코스트
   Israel = 이스라엘
@@ -865,7 +857,6 @@ GLOSSARY:
   Lord Jim = 『로드 짐』
   Russian = 러시아어
   Russian Empire = 러시아 제국
-  Writing = 문자
   early modernist = 초기 모더니스트
   literary impressionist = 문학적 인상주의자
 ENTRY:
@@ -907,7 +898,6 @@ GLOSSARY:
   Fourier analysis = 푸리에 해석
   Fourier series = 푸리에 급수
   Fourier transform = 푸리에 변환
-  French = 프랑스어
   Greenhouse effect = 온실 효과
   Grenoble = 그르노블
   Heat transfer = 열전달

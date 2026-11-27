@@ -18,8 +18,6 @@ Fluid with [[Viscosity|viscosity]] dependent on stress. Non-Newtonian fluids do 
 HEADWORD: Non-binary = 논바이너리
 LEVEL: 5
 GLOSSARY:
-  Gender = 젠더
-  Non-binary = 논바이너리
   Transgender = 트랜스젠더
   gender binary = 성별 이분법
   gender dysphoria = 성별 불쾌감
@@ -39,7 +37,6 @@ GLOSSARY:
   Atlas = 지도책
   Biography = 전기
   Fiction = 픽션
-  Non-fiction = 논픽션
   User guide = 사용 설명서
   Virginia Woolf = 버지니아 울프
   creative nonfiction = 창작 논픽션
@@ -62,7 +59,6 @@ GLOSSARY:
   Government = 정부
   Health = 보건
   Human rights = 인권
-  Russia = 러시아
   UN Department of Global Communications = 국제 연합 글로벌 커뮤니케이션국
   United Nations = 국제 연합
   United Nations Charter = 국제 연합 헌장
@@ -81,7 +77,6 @@ GLOSSARY:
   HPV = 인유두종 바이러스
   Herpes = 헤르페스
   Oral sex = 구강성교
-  People = 『피플』
   Sexually transmitted infection = 성매개 감염병
   Virginity = 처녀성
   frottage = 프로타주
@@ -159,7 +154,6 @@ GLOSSARY:
   Jesus Christ = 예수 그리스도
   Latter-day Saints = 후기 성도
   Nicaea = 니케아
-  Nontrinitarian = 비삼위일체론
   Oneness Pentecostal = 단일성 오순절
   Pentecostal = 오순절파
   Protestant = 개신교
@@ -189,7 +183,6 @@ GLOSSARY:
   Charles Darwin = 찰스 다윈
   Darwin = 다윈
   Nonverbal communication = 비언어적 의사소통
-  Research = 연구
   haptics = 접촉학
   kinesics = 동작학
   oculesics = 시선학
@@ -346,7 +339,6 @@ HEADWORD: Macdonald, Norm = 맥도널드, 놈
 LEVEL: 5
 GLOSSARY:
   Billy Madison = 「빌리 매디슨」
-  Canadian = 캐나다
   Dirty Work = 「더티 워크」
   Family = 가족
   Family Guy = 「패밀리 가이」
@@ -387,7 +379,6 @@ GLOSSARY:
   Central limit theorem = 중심 극한 정리
   Gaussian distribution = 가우스 분포
   Mode (statistics) = 최빈값
-  Physical = 「Physical」
   Probability distribution = 확률 분포
   Random variable = 확률 변수
   Standard deviation = 표준 편차
@@ -496,7 +487,6 @@ GLOSSARY:
   Europe = 유럽
   France = 프랑스
   King Charles III = 국왕 찰스 3세
-  Mainland = 메인랜드섬
   Norman = 노르만
   Norman Conquest = 노르만 정복
   Norman conquest = 노르만 정복
@@ -519,7 +509,6 @@ GLOSSARY:
   Eisenhower = 아이젠하워
   Erwin Rommel = 에르빈 로멜
   Europe = 유럽
-  Following = 「미행」
   France = 프랑스
   German = 독일어
   Hitler = 히틀러
@@ -578,12 +567,9 @@ LEVEL: 5
 GLOSSARY:
   Diarrhea = 설사
   Gastroenteritis = 위장염
-  Infection = 감염
-  Norovirus = 노로바이러스
   Norwalk virus = 노워크 바이러스
   United States = 미국
   Vaccine = 백신
-  Virus = 바이러스
   dehydration = 탈수
   foodborne disease = 식중독
   stomach flu = 장염
@@ -667,9 +653,7 @@ GLOSSARY:
   Caribbean Sea = 카리브해
   Central America = 중앙아메리카
   Christopher Columbus = 크리스토퍼 콜럼버스
-  Colonization = 식민지화
   Columbus = 콜럼버스
-  Continent = 대륙
   Francophone = 프랑스어권
   French = 프랑스어
   Greenland = 그린란드
@@ -689,7 +673,6 @@ GLOSSARY:
   Pacific = 태평양
   Pacific Ocean = 태평양
   Paleo-Indian period = 고인디언기
-  People = 『피플』
   Quebec = 퀘벡
   Saint = 성인
   Saint Pierre and Miquelon = 생피에르 미클롱
@@ -736,7 +719,6 @@ GLOSSARY:
   Confederate = 남부 연합
   Confederate States = 아메리카 연합국
   Confederate States of America = 아메리카 연합국
-  Constitution = 헌법
   Great Britain = 그레이트브리튼섬
   Halifax = 핼리팩스
   Halifax Resolves = 핼리팩스 결의
@@ -803,7 +785,6 @@ GLOSSARY:
   Sioux = 수족
   U.S. state = 미국의 주
   Upper Midwest = 중서부 북부
-  Wheat = 밀
   the Union = 연방
 ENTRY:
 Landlocked U.S. state in the Upper Midwest, part of the [[Great Plains]] (pop., 2025: 799,358). Bismarck is the capital, and Fargo is the largest city. The Mandan, Hidatsa and Arikara lived along the [[Missouri River]], while [[Ojibwe]], Cree and [[Sioux]] peoples lived elsewhere. It was admitted to the Union on November 2, 1889, as the 39th state. Wheat farming replaced the fur trade. Since the early 2000s, oil from the Bakken formation has driven much of the state's prosperity. The Bank of North Dakota is the nation's only state-run bank.

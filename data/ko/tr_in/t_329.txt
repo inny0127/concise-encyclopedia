@@ -14,7 +14,6 @@ GLOSSARY:
   Poland = 폴란드
   Pomeranian = 포메라니안
   Pomeranian Voivodeship = 포모제주
-  Port = 항구
   Potsdam Agreement = 포츠담 협정
   Prussian = 프로이센
   River = 강
@@ -41,7 +40,6 @@ GLOSSARY:
   Grammy Awards = 그래미상
   Lisa = 리사
   RIAA = 미국 음반 산업 협회
-  Thomas = 토머스
   Waterfalls = 「Waterfalls」
   certified diamond = 다이아몬드 인증
 ENTRY:
@@ -71,7 +69,6 @@ HEADWORD: TNT equivalent = TNT 당량
 LEVEL: 5
 GLOSSARY:
   Atomic bombings of Hiroshima and Nagasaki = 히로시마·나가사키 원자 폭탄 투하
-  Convention = 비상 의회
   Energy = 에너지
   Hiroshima = 히로시마
   Hiroshima and Nagasaki = 히로시마와 나가사키
@@ -197,7 +194,6 @@ British Army officer, archaeologist, diplomat and writer known for his role in t
 HEADWORD: Eliot, T. S. = 엘리엇, T. S.
 LEVEL: 4
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Anglicanism = 성공회
   Ash Wednesday = 『재의 수요일』
   Boston = 보스턴
@@ -252,7 +248,6 @@ GLOSSARY:
   Black = 검은색
   Cusco = 쿠스코
   Inca = 잉카
-  Indigenous = 원주민
   Juan Velasco Alvarado = 후안 벨라스코 알바라도
   Pampamarca = 팜파마르카
   Peru = 페루
@@ -282,7 +277,6 @@ GLOSSARY:
   Dominican = 도미니코회
   Dominican Republic = 도미니카 공화국
   Hispanic = 히스패닉
-  Indigenous = 원주민
   Puerto Rico = 푸에르토리코
   Taíno = 타이노족
   West Indies = 서인도 제도
@@ -317,7 +311,6 @@ GLOSSARY:
   Aeschylus = 아이스킬로스
   Bound = 「바운드」
   Diptera = 파리목
-  Family = 가족
   Insect = 곤충
   Io = 이오
   Prometheus = 프로메테우스
@@ -402,7 +395,6 @@ GLOSSARY:
   International Table Tennis Federation = 국제 탁구 연맹
   Onomatopoeia = 의성어
   Parker Brothers = 파커 브라더스
-  Racket = 래킷
   Tennis = 테니스
   United States = 미국
   Victorian = 빅토리아 시대
@@ -473,7 +465,6 @@ GLOSSARY:
   Bazaar = 바자르
   Carpet = 카펫
   Caucasus = 캅카스
-  City = 도시
   East Azerbaijan province = 동아제르바이잔주
   Eastern Anatolia = 동아나톨리아
   Ilkhanid = 일 칸국
@@ -525,7 +516,6 @@ GLOSSARY:
   Atrial fibrillation = 심방세동
   Electrocardiography = 심전도 검사
   Exercise = 운동
-  Heart = 심장
   atrial fibrillation = 심방세동
   narrow complex = 좁은 QRS 빈맥
   tachyarrhythmia = 빈맥성 부정맥
@@ -595,7 +585,6 @@ HEADWORD: Tacoma = 타코마
 LEVEL: 5
 GLOSSARY:
   Bridge = 다리
-  Downtown = 다운타운
   Galloping Gertie = 갤로핑 거티
   International trade = 국제 무역
   Mount Rainier = 레이니어산
@@ -620,7 +609,6 @@ LEVEL: 4
 GLOSSARY:
   Amphibian = 양서류
   Caecilian = 무족영원류
-  Frog = 개구리
   Gill = 아가미
   Jurassic = 쥐라기
   Lung = 폐
@@ -712,7 +700,6 @@ GLOSSARY:
   India = 인도
   Kabaddi = 카바디
   Mahabharata = 『마하바라타』
-  Playground = 놀이터
   Pro Kabaddi League = 프로 카바디 리그
   Scotland = 스코틀랜드
   Ultimate Kho Kho = 얼티밋 코코
@@ -760,7 +747,6 @@ GLOSSARY:
   Carl Linnaeus = 칼 폰 린네
   Carotenoid = 카로티노이드
   European Union = 유럽 연합
-  Genus = 속
   Latin = 라틴어
   Latin America = 라틴아메리카
   Linnaeus = 린네
@@ -781,7 +767,6 @@ Genus of about 50 species of annual or perennial, mostly herbaceous plants in th
 HEADWORD: Tahiti = 타히티섬
 LEVEL: 5
 GLOSSARY:
-  France = 프랑스
   French = 프랑스어
   French Polynesia = 프랑스령 폴리네시아
   Isthmus = 지협
@@ -829,9 +814,7 @@ HEADWORD: Taiga = 타이가
 LEVEL: 4
 GLOSSARY:
   Alaska = 알래스카주
-  Biome = 생물군계
   Canada = 캐나다
-  Climate = 기후
   Climate change = 기후 변화
   Conifer = 구과식물
   Eurasia = 유라시아
@@ -869,7 +852,6 @@ GLOSSARY:
   Rabbit = 토끼
   Reservation Dogs = 「리저베이션 독스」
   Shadows = 「그림자들」
-  Time = 『타임』
   Time (magazine) = 『타임』
   Universe = 우주
   What We Do in the Shadows = 「뱀파이어에 관한 아주 특별한 다큐멘터리」

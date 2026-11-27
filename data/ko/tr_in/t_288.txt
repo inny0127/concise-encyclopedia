@@ -4,7 +4,6 @@ LEVEL: 4
 GLOSSARY:
   Athens = 아테네
   Cycle sport = 사이클 경기
-  Cycling = 자전거 타기
   Europe = 유럽
   France = 프랑스
   Italy = 이탈리아
@@ -73,8 +72,6 @@ GLOSSARY:
   Persians = 페르시아인
   Roman Empire = 로마 제국
   Romans = 로마인
-  Standard = 스탠더드
-  Transport = 교통
   United States = 미국
   World = 세계
   World War II = 제2차 세계 대전
@@ -87,7 +84,6 @@ LEVEL: 5
 GLOSSARY:
   Cactus = 선인장
   Central America = 중앙아메리카
-  Genus = 속
   Lizard = 도마뱀
   Mexico = 멕시코
   Rattlesnake = 방울뱀
@@ -111,7 +107,6 @@ GLOSSARY:
   Norge = 노르게호
   North Pole = 북극점
   Northwest Passage = 북서 항로
-  Norwegian = 노르웨이어
   South Pole = 남극점
 ENTRY:
 Norwegian polar explorer and key figure of the Heroic Age of Antarctic Exploration. From 1903 to 1906 he led the first expedition to traverse the [[Northwest Passage]], in the small sloop *Gjøa*. He then led the first party to reach the [[South Pole]], on December 14, 1911, after establishing a base at the Bay of Whales. In 1926 he and 15 other men flew in the airship *Norge* and became the first explorers verified to have reached the [[North Pole]]. Amundsen disappeared while flying on a rescue mission for the airship *Italia* in the [[Arctic]], and his remains were never found.
@@ -154,7 +149,6 @@ GLOSSARY:
   England = 잉글랜드
   John = 존
   John White = 존 화이트
-  Lost = 「로스트」
   Lost Colony = 잃어버린 식민지
   North Carolina = 노스캐롤라이나주
   Ralph Lane = 랠프 레인
@@ -217,7 +211,6 @@ GLOSSARY:
   Criminal Code = 형법전
   England = 잉글랜드
   England and Wales = 잉글랜드 웨일스
-  Robbery = 강도
   Theft = 절도
   Theft Act 1968 = 1968년 절도법
   Wales = 웨일스
@@ -356,7 +349,6 @@ GLOSSARY:
   Pickpocket = 「소매치기」
   Prisoner of war = 전쟁 포로
   Russian = 러시아어
-  Seven = 「세븐」
   Sight and Sound = 『사이트 앤드 사운드』
   Sound = 소리
   prisoner of war = 전쟁 포로
@@ -562,7 +554,6 @@ GLOSSARY:
   Democratic Party (United States) = 민주당
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   Organized crime = 조직범죄
   Poverty = 빈곤
   Sirhan Sirhan = 시르한 시르한
@@ -601,7 +592,6 @@ GLOSSARY:
   Gold = 금
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   Massachusetts = 매사추세츠주
   Mending Wall = 「담장 고치기」
   New England = 뉴잉글랜드
@@ -754,7 +744,6 @@ LEVEL: 4
 GLOSSARY:
   Anthrax = 탄저병
   Cholera = 콜레라
-  German = 독일어
   Julius Richard Petri = 율리우스 리하르트 페트리
   Koch's postulates = 코흐의 원칙
   Louis Pasteur = 루이 파스퇴르
@@ -807,7 +796,6 @@ GLOSSARY:
   London = 런던
   Long John Silver = 롱 존 실버
   Samoa = 사모아
-  Scottish = 스코틀랜드
   Silver = 은
   Treasure Island = 『보물섬』
   W. E. Henley = W. E. 헨리
@@ -827,7 +815,6 @@ GLOSSARY:
   Electron = 전자
   Elementary charge = 기본 전하
   Executive Council = 행정 위원회
-  Millikan = 밀리컨
   National Research Council = 국가 연구 위원회
   Nobel Prize = 노벨상
   Nobel Prize in Physics = 노벨 물리학상
@@ -906,7 +893,6 @@ GLOSSARY:
   Tenet = 「테넷」
   The Batman = 「더 배트맨」
   The Twilight Saga = 「트와일라잇」 시리즈
-  Time = 『타임』
   Time (magazine) = 『타임』
   Twilight = 박명
 ENTRY:

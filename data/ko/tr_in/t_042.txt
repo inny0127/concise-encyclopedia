@@ -115,7 +115,6 @@ GLOSSARY:
   Joshua = 여호수아
   Joshua Bloom = 조슈아 블룸
   Marxist = 마르크스주의
-  Newton = 뉴턴
   Oakland = 오클랜드
   Oakland, California = 오클랜드
   Waldo Martin = 월도 마틴
@@ -183,7 +182,6 @@ GLOSSARY:
   Sevastopol = 세바스토폴
   Turkey = 튀르키예
   Ukraine = 우크라이나
-  Water = 물
   anoxic = 무산소
   drainage basin = 유역
   endorheic basin = 내륙 유역
@@ -232,7 +230,6 @@ HEADWORD: Black = 검은색
 LEVEL: 4
 GLOSSARY:
   Achromatic color = 무채색
-  Black = 검은색
   Carbon nanotube = 탄소 나노튜브
   Color = 색
   Ink = 잉크
@@ -252,7 +249,6 @@ GLOSSARY:
   Africa = 아프리카
   Americas = 아메리카
   Bird = 조류
-  Black = 검은색
   Larva = 유충
   Mammal = 포유류
   Simuliidae = 먹파리과
@@ -267,9 +263,7 @@ Fly of the family Simuliidae, sometimes called buffalo gnats or turkey gnats. Mo
 HEADWORD: Black hole = 블랙홀
 LEVEL: 3
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
-  Black = 검은색
   Cygnus X-1 = 백조자리 X-1
   Event Horizon Telescope = 사건의 지평선 망원경
   Event horizon = 사건의 지평선
@@ -332,7 +326,6 @@ Highly venomous snake of the family Elapidae, native to [[Sub-Saharan Africa|sub
 HEADWORD: Black market = 암시장
 LEVEL: 4
 GLOSSARY:
-  Black = 검은색
   Black money = 검은돈
   Human trafficking = 인신매매
   Illegal drug trade = 불법 마약 거래
@@ -354,7 +347,6 @@ Clandestine market or series of transactions that has some aspect of illegality.
 HEADWORD: Black pepper = 후추
 LEVEL: 4
 GLOSSARY:
-  Black = 검은색
   Black pepper = 후추
   Brazil = 브라질
   Capsaicin = 캡사이신
@@ -366,7 +358,6 @@ GLOSSARY:
   Piper nigrum = 피페르 니그룸
   Spice = 향신료
   Vietnam = 베트남
-  White = 흰색
   White pepper = 백후추
   chili peppers = 고추
   metric tons = 미터톤
@@ -379,7 +370,6 @@ ENTRY:
 HEADWORD: Black tea = 홍차
 LEVEL: 4
 GLOSSARY:
-  Black = 검은색
   Black tea = 홍차
   Camellia = 동백나무속
   Camellia sinensis = 차나무
@@ -392,7 +382,6 @@ GLOSSARY:
   Siberia = 시베리아
   Sri Lanka = 스리랑카
   Tibet = 티베트
-  Today = 「투데이」
   Turkey = 튀르키예
   black tea = 홍차
   de facto = 사실상
@@ -437,7 +426,6 @@ HEADWORD: Blackberry = 블랙베리
 LEVEL: 4
 GLOSSARY:
   Berry (botany) = 장과
-  Blackberry = 블랙베리
   Canada = 캐나다
   Himalayan = 히말라야
   Himalayan or Armenian blackberry = 히말라야블랙베리
@@ -469,7 +457,6 @@ GLOSSARY:
   Carl Linnaeus = 칼 폰 린네
   Deforestation = 삼림 벌채
   Hinduism = 힌두교
-  Hunting = 사냥
   India = 인도
   Linnaeus = 린네
   Nepal = 네팔
@@ -483,7 +470,6 @@ HEADWORD: Blackcurrant = 블랙커런트
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Deciduous = 낙엽성
   Drought = 가뭄
   Europe = 유럽
   Frost = 서리
@@ -520,7 +506,6 @@ HEADWORD: Blackpink = 블랙핑크
 LEVEL: 5
 GLOSSARY:
   Album = 앨범
-  Blackpink = 블랙핑크
   Born Pink = 『BORN PINK』
   Coachella = 코첼라
   Entertainment = 오락
@@ -563,7 +548,6 @@ GLOSSARY:
   Harrison Ford = 해리슨 포드
   Philip K. Dick = 필립 K. 딕
   Ridley Scott = 리들리 스콧
-  Seven = 「세븐」
   Sheep = 양
   The Final Cut = 「파이널 컷」
   cult classic = 컬트 고전
@@ -577,8 +561,6 @@ HEADWORD: Pascal, Blaise = 파스칼, 블레즈
 LEVEL: 4
 GLOSSARY:
   Catholic = 가톨릭
-  Following = 「미행」
-  French = 프랑스어
   Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   Lettres provinciales = 『시골 친구에게 보내는 편지』
@@ -656,7 +638,6 @@ Chemical product used to remove color from fabric, fiber or food, or to disinfec
 HEADWORD: Bleeding = 출혈
 LEVEL: 4
 GLOSSARY:
-  Bleeding = 출혈
   Blood = 혈액
   Blood transfusion = 수혈
   Circulatory system = 순환계
@@ -748,7 +729,6 @@ LEVEL: 5
 GLOSSARY:
   Appeal = 항소
   Cheetah = 치타
-  City = 도시
   City of Roses = 장미의 도시
   Constitutional Court = 헌법재판소
   Court = 법원
@@ -787,7 +767,6 @@ GLOSSARY:
   Debbie Harry = 데비 해리
   Glass = 유리
   Harry = 해리
-  Heart = 심장
   Heart of Glass = 「Heart of Glass」
   New York City = 뉴욕
   Parallel Lines = 『Parallel Lines』
@@ -805,12 +784,10 @@ GLOSSARY:
   ABO groups = ABO식 혈액형
   Blood = 혈액
   Hemoglobin = 헤모글로빈
-  Human = 인간
   Immune system = 면역계
   Lung = 폐
   Platelets = 혈소판
   Rh factor = Rh 인자
-  White = 흰색
   White blood cells = 백혈구
   connective tissue = 결합 조직
   erythrocytes = 적혈구
@@ -840,7 +817,6 @@ GLOSSARY:
   Cormac McCarthy = 코맥 매카시
   Glanton gang = 글랜턴 갱단
   Great American Novel = 위대한 미국 소설
-  Judge = 판사
   Judge Holden = 홀든 판사
   Mexico = 멕시코
   Novel = 소설
@@ -859,7 +835,6 @@ GLOSSARY:
   Centrifuge = 원심 분리기
   Fresh frozen plasma = 신선 동결 혈장
   Glucose = 포도당
-  Light = 빛
   List of Essential Medicines = 필수 의약품 목록
   Model List of Essential Medicines = 필수 의약품 목록
   Oxygen = 산소

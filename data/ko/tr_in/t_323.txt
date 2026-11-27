@@ -7,7 +7,6 @@ GLOSSARY:
   Ireland = 아일랜드
   Kilogram = 킬로그램
   Pound (mass) = 파운드
-  Today = 「투데이」
   United Kingdom = 영국
   Weights and Measures Act 1835 = 1835년 도량형법
   avoirdupois = 상형
@@ -201,7 +200,6 @@ GLOSSARY:
   Ocean = 대양
   Rock of Gibraltar = 지브롤터 바위
   Spain = 스페인
-  Strait = 해협
   Zanclean flood = 잔클레절 대홍수
   nautical miles = 해리
   territorial waters = 영해
@@ -249,7 +247,6 @@ GLOSSARY:
   Estrecho de Todos los Santos = 모든 성인의 해협
   Ferdinand = 페르디난트
   Ferdinand Magellan = 페르디난드 마젤란
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Kawésqar = 카웨스카르족
   Pacific = 태평양
@@ -259,7 +256,6 @@ GLOSSARY:
   Selkʼnam = 셀크남족
   South America = 남아메리카
   Spain = 스페인
-  Strait = 해협
   Tehuelche = 테우엘체족
   Tierra del Fuego = 티에라델푸에고
   Yaghan = 야간족
@@ -299,7 +295,6 @@ LEVEL: 4
 GLOSSARY:
   Alveolata = 알베올라타
   Brown algae = 갈조류
-  Clade = 분기군
   D. J. Patterson = D. J. 패터슨
   Diatom = 규조류
   Eukaryote = 진핵생물
@@ -411,14 +406,11 @@ ENTRY:
 HEADWORD: Stratigraphy = 층서학
 LEVEL: 4
 GLOSSARY:
-  Biostratigraphy = 생층서학
-  Branch = 브랜치
   England = 잉글랜드
   Evolution = 진화
   Geologic time scale = 지질 시대
   Geology = 지질학
   Nicholas Steno = 니콜라우스 스테노
-  William = 윌리엄
   William Smith = 윌리엄 스미스
   biostratigraphy = 생층서학
   chronostratigraphy = 연대층서학
@@ -492,7 +484,6 @@ GLOSSARY:
   Virgil = 베르길리우스
   Virginia = 버지니아주
   Virginia strawberry = 버지니아딸기
-  World = 세계
   accessory fruit = 헛열매
   achenes = 수과
   aggregate accessory fruit = 집합 헛열매
@@ -537,12 +528,10 @@ Fighting video game by Capcom, released for arcades in 1991 as the second *Stree
 HEADWORD: Strength of materials = 재료 역학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Deformation (engineering) = 변형
   Poisson's ratio = 푸아송 비
   Stephen Timoshenko = 스테판 티모셴코
   Stress (mechanics) = 응력
-  Yield = 수득률
   Yield stress = 항복 응력
   Young's modulus = 영률
   engineering mechanics = 공학 역학
@@ -612,7 +601,6 @@ GLOSSARY:
   Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   Pascal (unit) = 파스칼
-  Physical = 「Physical」
   René Descartes = 르네 데카르트
   compressive stress = 압축 응력
   continuum mechanics = 연속체 역학
@@ -678,8 +666,6 @@ GLOSSARY:
   CT scan = 컴퓨터 단층 촬영
   Diabetes = 당뇨병
   High blood pressure = 고혈압
-  Others = 아더
-  Signs = 「싸인」
   Smoking = 흡연
   anticoagulant = 항응고제
   atrial fibrillation = 심방세동
@@ -787,7 +773,6 @@ GLOSSARY:
   Mineral = 광물
   Scotland = 스코틀랜드
   Strontian = 스트론티안
-  Strontium = 스트론튬
   Sugar beet = 사탕무
   alkaline earth = 알칼리 토금속
   celestine = 천청석
@@ -803,7 +788,6 @@ LEVEL: 5
 GLOSSARY:
   Alkaloid = 알칼로이드
   Asphyxia = 질식
-  Once = 『Once』
   Pesticide = 농약
   Robert Burns = 로버트 번스
   Robert Burns Woodward = 로버트 번스 우드워드
@@ -822,7 +806,6 @@ GLOSSARY:
   Brunei = 브루나이
   Cambodia = 캄보디아
   Commonwealth = 영연방
-  Education = 교육
   Nigeria = 나이지리아
   Primary education = 초등 교육
   School = 학교
@@ -844,7 +827,6 @@ GLOSSARY:
   Normal distribution = 정규 분포
   Probability distribution = 확률 분포
   Regression analysis = 회귀 분석
-  Student = 학생
   Student's t-test = 스튜던트 t 검정
   William = 윌리엄
   William Sealy Gosset = 윌리엄 실리 고셋

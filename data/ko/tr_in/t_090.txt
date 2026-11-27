@@ -56,7 +56,6 @@ LEVEL: 3
 GLOSSARY:
   Amputation = 절단술
   Cardiovascular disease = 심혈관 질환
-  Diabetes = 당뇨병
   Diabetic nephropathy = 당뇨병성 신증
   Diabetic retinopathy = 당뇨망막병증
   Gestational diabetes = 임신성 당뇨병
@@ -111,7 +110,6 @@ GLOSSARY:
   Aristotle = 아리스토텔레스
   Contradiction = 모순
   Georg Wilhelm Friedrich Hegel = 게오르크 빌헬름 프리드리히 헤겔
-  Hegel = 헤겔
   Immanuel Kant = 이마누엘 칸트
   Kant = 칸트
   Karl Marx = 카를 마르크스
@@ -136,7 +134,6 @@ GLOSSARY:
   Earth's mantle = 맨틀
   Graphite = 흑연
   Igneous rock = 화성암
-  Mineral = 광물
   crystal structure = 결정 구조
   kimberlites = 킴벌라이트
   lamproites = 램프로아이트
@@ -313,7 +310,6 @@ Undergarment that absorbs or contains urine and feces, worn mainly by [[Infant|i
 HEADWORD: Diarrhea = 설사
 LEVEL: 4
 GLOSSARY:
-  Diarrhea = 설사
   Drinking water = 식수
   Gastroenteritis = 위장염
   Irritable bowel syndrome = 과민 대장 증후군
@@ -396,7 +392,6 @@ LEVEL: 5
 GLOSSARY:
   Anxiety disorder = 불안 장애
   Benzodiazepine = 벤조디아제핀
-  GABA = GABA
   Insomnia = 불면증
   Neurotransmitter = 신경 전달 물질
   Pregnancy = 임신
@@ -585,7 +580,6 @@ GLOSSARY:
   Bayern Munich = 바이에른 뮌헨
   Champions League = 챔피언스리그
   Coast = 해안
-  Ivorian = 코트디부아르
   Ivory = 상아
   Ivory Coast = 코트디부아르
   Munich = 뮌헨
@@ -626,7 +620,6 @@ GLOSSARY:
   Copper = 구리
   Linotype = 라이노타이프
   Magnesium = 마그네슘
-  Metal = 금속
   Printing = 인쇄
   Zinc = 아연
   movable type = 활자
@@ -643,7 +636,6 @@ GLOSSARY:
   Atoll = 환초
   British Indian Ocean Territory = 영국령 인도양 지역
   Chagos Archipelago = 차고스 제도
-  Coral = 산호
   Court = 법원
   Court of Justice = 정의의 법정
   Diego Garcia = 디에고가르시아
@@ -669,7 +661,6 @@ GLOSSARY:
   Goal = 『골』
   Goal of the Century = 세기의 골
   Golden Ball = 골든볼
-  Hand = 손
   Hand of God = 신의 손
   Naples = 나폴리
   Napoli = SSC 나폴리
@@ -729,7 +720,6 @@ HEADWORD: Dielectric = 유전체
 LEVEL: 4
 GLOSSARY:
   Capacitor = 축전기
-  Dielectric = 유전체
   Electrical insulator = 절연체
   Michael Faraday = 마이클 패러데이
   William = 윌리엄
@@ -769,7 +759,6 @@ GLOSSARY:
   Diesel engine = 디젤 엔진
   Diesel fuel = 경유
   Europe = 유럽
-  Liquid = 액체
   North America = 북아메리카
   Petroleum = 석유
   Rudolf = 루돌프

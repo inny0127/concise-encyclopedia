@@ -3,7 +3,6 @@ HEADWORD: Evangelista, Linda = 에반젤리스타, 린다
 LEVEL: 5
 GLOSSARY:
   Big 6 = 빅 식스
-  Canadian = 캐나다
   Cindy Crawford = 신디 크로퍼드
   Elite Model Management = 엘리트 모델 매니지먼트
   Fashion File = 「패션 파일」
@@ -166,7 +165,6 @@ HEADWORD: Linear algebra = 선형대수학
 LEVEL: 3
 GLOSSARY:
   Arthur Cayley = 아서 케일리
-  Branch = 브랜치
   Cramer's rule = 크라메르 공식
   Descartes = 데카르트
   Europe = 유럽
@@ -184,7 +182,6 @@ GLOSSARY:
   Peano = 페아노
   Quaternion = 사원수
   René Descartes = 르네 데카르트
-  Theory = 이론
   Theory of Extension = 『확대론』
   Vector space = 벡터 공간
   W. R. Hamilton = W. R. 해밀턴
@@ -212,9 +209,7 @@ A vector space over a field F, often the real or complex numbers, is a set V wit
 HEADWORD: Linear equation = 일차 방정식
 LEVEL: 4
 GLOSSARY:
-  Coefficients = 계수
   Engineering = 공학
-  Equation = 방정식
   Euclidean = 유클리드
   Euclidean plane = 유클리드 평면
   Euclidean space = 유클리드 공간
@@ -291,9 +286,7 @@ GLOSSARY:
   Georgia (country) = 조지아
   Latin = 라틴어
   Line (geometry) = 직선
-  Linen = 리넨
   Mesopotamia = 메소포타미아
-  Textile = 직물
   ancient Egypt = 고대 이집트
   bast fibers = 인피 섬유
   linum = 리눔
@@ -325,7 +318,6 @@ HEADWORD: Linguistic anthropology = 언어인류학
 LEVEL: 4
 GLOSSARY:
   Anthropology = 인류학
-  Branch = 브랜치
   Communication = 의사소통
   Dell = 델
   Dell Hymes = 델 하임스
@@ -343,7 +335,6 @@ HEADWORD: Linguistic typology = 언어 유형론
 LEVEL: 4
 GLOSSARY:
   August Wilhelm Schlegel = 아우구스트 빌헬름 슐레겔
-  Branch = 브랜치
   Dobbs Ferry = 돕스페리
   Ferry = 페리
   Joseph Greenberg = 조지프 그린버그
@@ -510,7 +501,6 @@ GLOSSARY:
   Arch Linux = 아치 리눅스
   Debian = 데비안
   Enterprise = 엔터프라이즈호
-  Family = 가족
   Fedora Linux = 페도라 리눅스
   GNU = GNU
   GNU General Public License = GNU 일반 공중 사용 허가서
@@ -535,12 +525,10 @@ Family of free and [[Open source|open-source]] [[Unix]]-like [[Operating system|
 HEADWORD: Lion = 사자
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Apex predator = 최상위 포식자
   Eurasia = 유라시아
   Europe = 유럽
   Grassland = 초원
-  Habitat = 서식지
   India = 인도
   International Union for Conservation of Nature = 국제 자연 보전 연맹
   Nature = 『네이처』
@@ -580,7 +568,6 @@ GLOSSARY:
   Ligue 1 = 리그 1
   MLS Cup = MLS컵
   Major League Soccer = 메이저 리그 사커
-  Messi = 메시
   Miami = 마이애미
   Paris = 파리
   Paris Saint-Germain = 파리 생제르맹
@@ -618,10 +605,8 @@ LEVEL: 5
 GLOSSARY:
   Caribbean Sea = 카리브해
   Coral reef = 산호초
-  Genus = 속
   Indo-Pacific = 인도태평양
   Invasive species = 침입종
-  Lionfish = 쏠배감펭
   Mediterranean = 지중해
   Mediterranean Sea = 지중해
   Pterois = 쏠배감펭속
@@ -634,7 +619,6 @@ HEADWORD: Lipid = 지질
 LEVEL: 3
 GLOSSARY:
   Bertrand = 버트런드호
-  Broad = 브로드강
   Carboxylic acid = 카르복실산
   Cardiovascular disease = 심혈관 질환
   Cell membrane = 세포막
@@ -700,10 +684,8 @@ GLOSSARY:
   Francium = 프랑슘
   Gas = 기체
   Intermolecular force = 분자 간 힘
-  Liquid = 액체
   Liquid helium = 액체 헬륨
   Mercury (element) = 수은
-  Pressure = 압력
   State of matter = 물질의 상태
   Water = 물
   absolute zero = 절대 영도
@@ -734,7 +716,6 @@ GLOSSARY:
   Calculator = 계산기
   Computer monitor = 컴퓨터 모니터
   Flat-panel display = 평판 디스플레이
-  Liquid = 액체
   Liquid crystals = 액정
   Pixel = 화소
   Polarizer = 편광판
@@ -755,7 +736,6 @@ GLOSSARY:
   Acetone = 아세톤
   Boiling point = 끓는점
   Distillation = 증류
-  Nitrogen = 질소
   Sperm = 정자
   Viscosity = 점성
   Wart = 사마귀
@@ -880,7 +860,6 @@ GLOSSARY:
   Iberian Peninsula = 이베리아반도
   Julius Caesar = 율리우스 카이사르
   Justice = 정의
-  Lisbon = 리스본
   Madrid = 마드리드
   Moors = 무어인
   Peninsula = 반도
@@ -931,9 +910,7 @@ GLOSSARY:
   Artificial intelligence = 인공지능
   Clojure = 클로저
   Common Lisp = 커먼 리스프
-  Family = 가족
   Fortran = 포트란
-  John = 존
   John McCarthy = 존 매카시
   Massachusetts = 매사추세츠주
   Massachusetts Institute of Technology = 매사추세츠 공과대학교
@@ -988,7 +965,6 @@ GLOSSARY:
   Functional illiteracy = 기능적 문맹
   Indus = 인더스강
   Indus civilization = 인더스 문명
-  Literacy = 문해력
   Mesoamerica = 메소아메리카
   Mesopotamia = 메소포타미아
   South Asia = 남아시아

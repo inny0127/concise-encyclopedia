@@ -16,7 +16,6 @@ GLOSSARY:
   Kalinago = 칼리나고족
   Lake = 호수
   Lesser Antilles = 소앤틸리스 제도
-  Nature = 『네이처』
   Nature Island of the Caribbean = 카리브해의 자연 섬
   Seven = 「세븐」
   Seven Years' War = 7년 전쟁
@@ -38,12 +37,10 @@ GLOSSARY:
   Castile = 카스티야
   Christopher Columbus = 크리스토퍼 콜럼버스
   Columbus = 콜럼버스
-  Construction = 건설
   Cuba = 쿠바
   Democracy = 민주주의
   Haiti = 아이티
   Hispaniola = 히스파니올라섬
-  Independence = 인디펜던스
   Rafael Trujillo = 라파엘 트루히요
   Santo Domingo = 산토도밍고
   Spain = 스페인
@@ -62,8 +59,6 @@ GLOSSARY:
   China = 중국
   Dice = 주사위
   Domino Whist = 도미노 휘스트
-  Dominoes = 도미노
-  Family = 가족
   Fives and Threes = 파이브스 앤드 스리스
   Former Events in Wulin = 『무림구사』
   France = 프랑스
@@ -176,7 +171,6 @@ GLOSSARY:
   Hollywood = 할리우드
   Hollywood Walk of Fame = 할리우드 명예의 거리
   James = 야고보
-  Johnson = 존슨
   Knives Out = 「나이브스 아웃」
   Miami = 마이애미
   Miami Vice = 「마이애미 바이스」
@@ -213,7 +207,6 @@ HEADWORD: Knotts, Don = 노츠, 돈
 LEVEL: 5
 GLOSSARY:
   Barney Fife = 바니 파이프
-  Chicken = 닭
   Emmy = 에미상
   Emmy Awards = 에미상
   Fife = 파이프
@@ -248,7 +241,6 @@ GLOSSARY:
   La Mancha = 라만차
   Mark Twain = 마크 트웨인
   Miguel de Cervantes = 미겔 데 세르반테스
-  Novel = 소설
   Sancho Panza = 산초 판사
   The Three Musketeers = 『삼총사』
   chivalric romances = 기사 로맨스
@@ -273,7 +265,6 @@ GLOSSARY:
   Las Vegas = 라스베이거스
   Late Show with David Letterman = 「레이트 쇼 위드 데이비드 레터먼」
   Mr. Potato Head = 미스터 포테이토 헤드
-  Potato = 감자
   Primetime Emmy = 프라임타임 에미상
   Primetime Emmy Award = 프라임타임 에미상
   Story = 『스토리』
@@ -439,7 +430,6 @@ LEVEL: 5
 GLOSSARY:
   Academy Award = 아카데미상
   Academy Honorary Award = 아카데미 명예상
-  Canadian = 캐나다
   Citizen X = 「시티즌 X」
   Don't Look Now = 「쳐다보지 마라」
   Emmy = 에미상
@@ -549,7 +539,6 @@ Turkish dish of meat cooked on a vertical rotisserie. Seasoned meat stacked in a
 HEADWORD: Donetsk = 도네츠크
 LEVEL: 4
 GLOSSARY:
-  City = 도시
   Donbas = 돈바스
   Donetsk = 도네츠크
   Donetsk Oblast = 도네츠크주
@@ -597,7 +586,6 @@ GLOSSARY:
   Love to Love You Baby = 「Love to Love You Baby」
   Money = 화폐
   Pete Bellotte = 피트 벨로트
-  Queen = 퀸
   Queen of Disco = 디스코의 여왕
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
   She Works Hard for the Money = 「She Works Hard for the Money」
@@ -636,7 +624,6 @@ GLOSSARY:
   John = 존
   John Lennon = 존 레넌
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
-  Scottish = 스코틀랜드
   Sunshine Superman = 「Sunshine Superman」
   finger-picking = 핑거 피킹
   psychedelia = 사이키델리아
@@ -667,7 +654,6 @@ GLOSSARY:
   Artificial intelligence = 인공지능
   Bulletin of the Atomic Scientists = 『원자 과학자 회보』
   Climate change = 기후 변화
-  Symbol = 기호
   nuclear warfare = 핵전쟁
 ENTRY:
 Symbol of the estimated likelihood of a human-made global catastrophe, which is represented by midnight. Maintained since 1947 by the nonprofit *Bulletin of the Atomic Scientists*, the clock is reassessed each January. Its main factors are nuclear warfare, [[Climate change|climate change]] and [[Artificial intelligence|artificial intelligence]]. The clock was first set at seven minutes to midnight. Its farthest setting was 17 minutes in 1991, and its closest was 85 seconds in 2026.
@@ -754,7 +740,6 @@ GLOSSARY:
   Ghost = 유령
   Norse = 노르드인
   Norse mythology = 북유럽 신화
-  Supernatural = 초자연
   evil twin = 사악한 쌍둥이
   ka = 카
   karin = 카린

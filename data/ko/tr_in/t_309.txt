@@ -102,7 +102,6 @@ GLOSSARY:
   Cardiovascular disease = 심혈관 질환
   Medication = 약물
   Pfizer = 화이자
-  Rare = 「Rare」
   Viagra = 비아그라
   angina = 협심증
   erectile dysfunction = 발기 부전
@@ -123,7 +122,6 @@ GLOSSARY:
   Great Depression = 대공황
   Greatest Generation = 위대한 세대
   Korean War = 한국 전쟁
-  Time = 『타임』
   Time (magazine) = 『타임』
   United States = 미국
   World = 세계
@@ -175,10 +173,8 @@ GLOSSARY:
   City Lights = 「시티 라이트」
   Edison = 에디슨
   Jazz = 재즈
-  Motion = 운동
   Orchestra = 관현악단
   The Jazz Singer = 「재즈 싱어」
-  Thomas = 토머스
   Thomas Edison = 토머스 에디슨
   Vitaphone = 바이타폰
   intertitles = 자막 화면
@@ -261,7 +257,6 @@ GLOSSARY:
   Santa Clara = 샌타클래라
   Santa Clara County = 샌타클래라 카운티
   Stanford University = 스탠퍼드 대학교
-  Today = 「투데이」
   Zurich = 취리히
   integrated circuit = 집적 회로
   microcomputer = 마이크로컴퓨터
@@ -294,7 +289,6 @@ GLOSSARY:
   Alpha quartz = 알파 석영
   Glass = 유리
   Opal = 단백석
-  Oxide = 산화물
   Quartz = 석영
   Sand = 모래
   beta-quartz = 베타 석영
@@ -365,10 +359,8 @@ LEVEL: 4
 GLOSSARY:
   Acetic acid = 아세트산
   F. S. Kipping = F. S. 키핑
-  Father = 아버지
   James = 야고보
   James Franklin Hyde = 제임스 프랭클린 하이드
-  Polymer = 중합체
   Silicon = 규소
   Vinegar = 식초
   benzophenone = 벤조페논
@@ -404,7 +396,6 @@ GLOSSARY:
   Mediterranean = 지중해
   Mongol = 몽골
   Mongol Empire = 몽골 제국
-  Network = 「네트워크」
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
   Parthian = 파르티아
@@ -442,7 +433,6 @@ GLOSSARY:
   Silk Road = 실크로드
   Spider = 거미
   Textile = 직물
-  Today = 「투데이」
   arachnids = 거미류
   fibroin = 피브로인
   mulberry silkworm = 누에
@@ -507,7 +497,6 @@ GLOSSARY:
   Mexico = 멕시코
   Peru = 페루
   Poland = 폴란드
-  Silver = 은
   Silver halides = 할로젠화 은
   World = 세계
   World War II = 제2차 세계 대전
@@ -610,7 +599,6 @@ GLOSSARY:
   Augustin-Jean Fresnel = 오귀스탱장 프레넬
   Bureau des Longitudes = 경도국
   Fourier = 푸리에
-  French = 프랑스어
   Joseph Fourier = 조제프 푸리에
   Pierre-Simon Laplace = 피에르시몽 라플라스
   Poisson = 푸아송
@@ -647,7 +635,6 @@ LEVEL: 5
 GLOSSARY:
   Death = 죽음
   Finland = 핀란드
-  Finnish = 핀란드어
   Manga = 만화
   Soviet Union = 소련
   Union = 북부 연방군
@@ -676,7 +663,6 @@ GLOSSARY:
   Susan Boyle = 수전 보일
   Syco Entertainment = 사이코 엔터테인먼트
   The X Factor = 「엑스 팩터」
-  Time = 『타임』
   Time (magazine) = 『타임』
 ENTRY:
 English television personality, record executive and producer. He judged Pop Idol, The X Factor, Britain's Got Talent and [[American Idol]], and founded Syco Entertainment. Known for blunt, critical comments, he came to wide attention in 2001 on Pop Idol after a career as a record producer and talent agent in the [[Music industry|music industry]]. He helped launch the careers of Little Mix, Susan Boyle, Leona Lewis and [[One Direction]]. [[Time (magazine)|Time]] named him one of the 100 most influential people in the world in 2004 and 2010.
@@ -687,7 +673,6 @@ LEVEL: 5
 GLOSSARY:
   Art Garfunkel = 아트 가펑클
   Billboard Hot 100 = 빌보드 핫 100
-  Bridge = 다리
   Bridge over Troubled Water = 「브리지 오버 트러블드 워터」
   Central Park = 센트럴 파크
   Grammy = 그래미상
@@ -733,7 +718,6 @@ LEVEL: 4
 GLOSSARY:
   Existentialism = 실존주의
   Feminism = 페미니즘
-  French = 프랑스어
   Jean-Paul Sartre = 장폴 사르트르
   Jerusalem = 예루살렘
   Jerusalem Prize = 예루살렘상
@@ -846,13 +830,11 @@ GLOSSARY:
   Mediterranean Sea = 지중해
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
-  Peninsula = 반도
   Red Sea = 홍해
   Sea = 바다
   Six-Day War = 6일 전쟁
   Suez Crisis = 수에즈 위기
   Taba = 타바
-  Today = 「투데이」
   United Kingdom = 영국
   West Asia = 서아시아
   Yom Kippur = 욤 키푸르
@@ -994,7 +976,6 @@ GLOSSARY:
   Party = 파티
   Peninsula = 반도
   People's Action Party = 인민행동당
-  Singapore = 싱가포르
   Southeast = 남동부
   Southeast Asia = 동남아시아
   Stamford = 스탬퍼드
@@ -1025,7 +1006,6 @@ GLOSSARY:
   Boeing = 보잉
   Changi Airport = 창이 공항
   Engineering = 공학
-  Flag = 깃발
   Flag carrier = 국책 항공사
   Girl = 소녀
   SIA Engineering Company = SIA 엔지니어링 컴퍼니

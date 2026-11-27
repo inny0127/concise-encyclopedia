@@ -46,7 +46,6 @@ GLOSSARY:
   Blues = 블루스
   Bob Dylan = 밥 딜런
   Country music = 컨트리 음악
-  Elvis = 엘비스
   Elvis Presley = 엘비스 프레슬리
   Grand Ole Opry = 그랜드 올 오프리
   Heart = 심장
@@ -68,7 +67,6 @@ American country singer and songwriter. Born Hiram Williams in Alabama, he learn
 HEADWORD: Hanna-Barbera = 해나바베라
 LEVEL: 5
 GLOSSARY:
-  Animation = 애니메이션
   Bear = 곰
   Broadcasting = 방송
   Cartoon Network = 카툰 네트워크
@@ -150,7 +148,6 @@ GLOSSARY:
   Academy Award for Best Actor = 아카데미 남우주연상
   Actor = 배우
   American Film Institute = 미국 영화 연구소
-  Anthony = 앤서니
   Anthony Hopkins = 앤서니 홉킨스
   Best Actor = 남우주연상
   Dragon = 용
@@ -323,7 +320,6 @@ GLOSSARY:
   Ellis Waterhouse = 엘리스 워터하우스
   England = 잉글랜드
   Erasmus = 에라스뮈스
-  German = 독일어
   Henry VIII = 헨리 8세
   King's Painter = 국왕 전속 화가
   Northern Renaissance = 북유럽 르네상스
@@ -349,7 +345,6 @@ GLOSSARY:
   Kurt = 쿠르트
   Kurt Henseleit = 쿠르트 헨젤라이트
   Medicine = 의학
-  Nazi = 나치
   Nobel Prize = 노벨상
   Nobel Prize in Physiology or Medicine = 노벨 생리학·의학상
   Oxford = 옥스퍼드
@@ -375,7 +370,6 @@ GLOSSARY:
   DreamWorks = 드림웍스
   Dune = 「듄」
   Dunkirk = 「덩케르크」
-  German = 독일어
   Gladiator = 「글래디에이터」
   Inception = 「인셉션」
   Lion = 사자
@@ -416,7 +410,6 @@ GLOSSARY:
   Brothers Grimm = 그림 형제
   Fairy = 요정
   Fairy tale = 동화
-  German = 독일어
   Grimms = 그림 형제
   Grimms' Fairy Tales = 『그림 동화』
   Hesse = 헤센
@@ -450,8 +443,6 @@ HEADWORD: Hanuman = 하누만
 LEVEL: 5
 GLOSSARY:
   Bajrangabali = 바지랑발리
-  Deity = 신
-  Hanuman = 하누만
   Hinduism = 힌두교
   Maruti = 마루티
   Rama = 라마
@@ -480,8 +471,6 @@ GLOSSARY:
   South American = 남아메리카
   Subjective Happiness Scale = 주관적 행복 척도
   Subjective well-being = 주관적 안녕감
-  Today = 「투데이」
-  Twin = 쌍둥이
   World = 세계
   World Happiness Report = 세계 행복 보고서
   cognitive biases = 인지 편향
@@ -523,7 +512,6 @@ GLOSSARY:
   Aquaculture = 양식업
   Chalk = 백악
   Chloroplast = 엽록체
-  Clade = 분기군
   Flagellum = 편모
   Haptophyta = 착편모조류
   Oyster = 굴
@@ -542,7 +530,6 @@ Clade of mostly unicellular marine [[Algae|algae]], also called Haptophyta or Pr
 HEADWORD: Haram = 하람
 LEVEL: 4
 GLOSSARY:
-  Arabic = 아랍어
   Gambling = 도박
   Hadith = 하디스
   Haram = 하람
@@ -552,7 +539,6 @@ GLOSSARY:
   Murder = 살인
   Quran = 쿠란
   Sin = 죄
-  Something = 「섬싱」
   Theft = 절도
   sunnah = 순나
   ḥarām = 하람
@@ -577,7 +563,6 @@ GLOSSARY:
   Rhodesia = 로디지아
   South Africa = 남아프리카 공화국
   Southern Rhodesia = 남로디지아
-  Today = 「투데이」
   United Kingdom = 영국
   World = 세계
   World Cup = 월드컵
@@ -661,7 +646,6 @@ LEVEL: 5
 GLOSSARY:
   Court = 법원
   Jacobellis v. Ohio = 제이코벨리스 대 오하이오주 사건
-  Ohio = 오하이오주
   Pornography = 포르노그래피
   Softcore pornography = 소프트코어 포르노그래피
   U.S. Supreme Court = 미국 연방 대법원
@@ -730,7 +714,6 @@ American exhibition [[Basketball|basketball]] team that combines athleticism, th
 HEADWORD: Harmonic analysis = 조화해석학
 LEVEL: 4
 GLOSSARY:
-  Area = 넓이
   Fourier = 푸리에
   Fourier analysis = 푸리에 해석
   Fourier series = 푸리에 급수
@@ -756,8 +739,6 @@ HEADWORD: Harmonic oscillator = 조화 진동자
 LEVEL: 4
 GLOSSARY:
   Clock = 시계
-  Friction = 마찰
-  Physical = 「Physical」
   Potential energy = 퍼텐셜 에너지
   Quantum harmonic oscillator = 양자 조화 진동자
   critically damped = 임계 감쇠
@@ -800,7 +781,6 @@ GLOSSARY:
   Chord (music) = 화음
   Consonance = 협화
   Counterpoint = 대위법
-  Harmony = 화성
   Melody = 선율
   Music = 음악
   dissonant = 불협화
@@ -824,7 +804,6 @@ GLOSSARY:
   Decolonization = 탈식민지화
   Ghana = 가나
   Party = 파티
-  Prime = 프라임
   Prime Minister of the United Kingdom = 영국 총리
   Profumo affair = 프러퓨모 사건
   Suez Crisis = 수에즈 위기
@@ -895,7 +874,6 @@ GLOSSARY:
   Labour Party (UK) = 노동당
   Northern Ireland = 북아일랜드
   Party = 파티
-  Prime = 프라임
   Prime Minister of the United Kingdom = 영국 총리
   The Troubles = 북아일랜드 분쟁
   Troubles = 북아일랜드 분쟁

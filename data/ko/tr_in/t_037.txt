@@ -17,7 +17,6 @@ GLOSSARY:
   Forbidden City = 자금성
   Heaven = 천국
   Hebei = 허베이성
-  Homo = 사람속
   Homo erectus = 호모 에렉투스
   Human = 인간
   Jin dynasty = 금나라
@@ -108,7 +107,6 @@ LEVEL: 4
 GLOSSARY:
   Amazon River = 아마존강
   Atlantic Ocean = 대서양
-  Belém = 벨렝
   Bethlehem = 베들레헴
   Brazil = 브라질
   Cidade das Mangueiras = 시다지 다스 망게이라스
@@ -223,7 +221,6 @@ Parliamentary constitutional monarchy in northwestern Europe. It covers 30,689 s
 HEADWORD: Belgrade = 베오그라드
 LEVEL: 4
 GLOSSARY:
-  Belgrade = 베오그라드
   Danube = 도나우강
   Europe = 유럽
   Eurovision Song Contest = 유로비전 송 콘테스트
@@ -240,7 +237,6 @@ Capital and largest city of [[Serbia]], at the confluence of the Sava and [[Danu
 HEADWORD: Belief = 믿음
 LEVEL: 3
 GLOSSARY:
-  Belief = 믿음
   Daniel Dennett = 대니얼 데닛
   Donald Davidson = 도널드 데이비드슨
   Eliminativists = 제거주의자
@@ -323,7 +319,6 @@ GLOSSARY:
   C (programming language) = C
   C++ = C++
   Charge-coupled device = 전하 결합 소자
-  Eleven = 일레븐
   Engineering = 공학
   Finnish = 핀란드어
   Jersey = 저지섬
@@ -333,7 +328,6 @@ GLOSSARY:
   Nobel Prize = 노벨상
   Nobel Prizes = 노벨상
   Nokia = 노키아
-  Research = 연구
   Telephone = 전화
   Transistor = 트랜지스터
   Turing = 튜링
@@ -351,7 +345,6 @@ HEADWORD: Bell pepper = 피망
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Bell = 종
   Capsicum = 고추속
   Capsicum annuum = Capsicum annuum
   Central America = 중앙아메리카
@@ -395,7 +388,6 @@ GLOSSARY:
   John = 존
   John Clauser = 존 클라우저
   John Stewart Bell = 존 스튜어트 벨
-  Physics = 물리학
   Quantum entanglement = 양자 얽힘
   Quantum mechanics = 양자역학
   Stuart Freedman = 스튜어트 프리드먼
@@ -539,7 +531,6 @@ GLOSSARY:
   Cetacean = 고래류
   Cook Inlet = 쿡만
   Delphinapterus = 흰고래속
-  Endangered = 위기
   Endangered Species Act = 멸종 위기종 보호법
   Species = 종
   dorsal fin = 등지느러미
@@ -752,7 +743,6 @@ GLOSSARY:
   Oxford Union = 옥스퍼드 유니언
   Pakistan = 파키스탄
   Pakistan People's Party = 파키스탄 인민당
-  Pakistani = 파키스탄
   Party = 파티
   People's Party = 인민당
   Rawalpindi = 라왈핀디
@@ -953,13 +943,11 @@ LEVEL: 4
 GLOSSARY:
   Anglo-Mysore Wars = 영국-마이소르 전쟁
   Bangalore = 방갈로르
-  Bengaluru = 벵갈루루
   British East India Company = 영국 동인도 회사
   City = 도시
   Deccan = 데칸
   Deccan Plateau = 데칸고원
   East India Company = 동인도 회사
-  Garden = 정원
   Garden City = 정원 도시
   India = 인도
   Information technology = 정보 기술

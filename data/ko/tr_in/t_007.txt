@@ -79,7 +79,6 @@ HEADWORD: Agnosticism = 불가지론
 LEVEL: 4
 GLOSSARY:
   Agnostic theists = 불가지론적 유신론자
-  Agnosticism = 불가지론
   Atheism = 무신론
   Strong agnosticism = 강한 불가지론
   Theism = 유신론
@@ -123,7 +122,6 @@ GLOSSARY:
   Agra Fort = 아그라 요새
   Akbar = 아크바르
   Babur = 바부르
-  City = 도시
   Delhi = 델리
   East India Company = 동인도 회사
   Golden Triangle = 골든 트라이앵글
@@ -161,7 +159,6 @@ GLOSSARY:
   Climate change = 기후 변화
   Hatch Act of 1887 = 1887년 해치법
   Pesticide = 농약
-  Recent = 현세
   United States = 미국
   agriculturists = 농학자
   climate-smart = 기후 스마트
@@ -174,7 +171,6 @@ Multidisciplinary field of biology that applies exact, natural, economic and soc
 HEADWORD: Agriculture = 농업
 LEVEL: 2
 GLOSSARY:
-  Agriculture = 농업
   Andes = 안데스산맥
   Aurochs = 오록스
   Aztecs = 아스테카
@@ -196,10 +192,8 @@ GLOSSARY:
   Mesoamerica = 메소아메리카
   New Guinea = 뉴기니섬
   Pakistan = 파키스탄
-  Plant = 식물
   Plant breeding = 품종 개량
   Sahel = 사헬
-  Sheep = 양
   Steppe = 스텝
   Sumerians = 수메르인
   Tigris = 티그리스강
@@ -238,7 +232,6 @@ GLOSSARY:
   Genetics = 유전학
   Nitrogen = 질소
   Phosphorus = 인
-  Plant = 식물
   Plant breeding = 품종 개량
   Potassium = 칼륨
   Wheat = 밀
@@ -296,7 +289,6 @@ GLOSSARY:
   Saadi dynasty = 사디 왕조
   Songhai Empire = 송가이 제국
   Spain = 스페인
-  Sultan = 술탄
   calligraphy = 서예
   trans-Saharan trade = 사하라 횡단 무역
 ENTRY:
@@ -475,7 +467,6 @@ LEVEL: 4
 GLOSSARY:
   Academy of Gondishapur = 군디샤푸르 학원
   Achaemenid period = 아케메네스 왕조 시대
-  Ahvaz = 아흐바즈
   Arabs = 아랍인
   Ardashir I = 아르다시르 1세
   City = 도시
@@ -521,7 +512,6 @@ GLOSSARY:
   Diet = 국회
   Hokkaido = 홋카이도
   Hokkaido Ainu language = 홋카이도 아이누어
-  Indigenous = 원주민
   Japan = 일본
   Meiji = 메이지
   Meiji period = 메이지 시대
@@ -537,8 +527,6 @@ GLOSSARY:
   Air India Limited = 에어 인디아 리미티드
   Boeing = 보잉
   Boeing 707 = 보잉 707
-  Control = 「Control」
-  Flag = 깃발
   Flag carrier = 국책 항공사
   Gurugram = 구루그람
   Haryana = 하리아나주
@@ -558,7 +546,6 @@ GLOSSARY:
   Ancient Egypt = 고대 이집트
   Brooklyn = 브루클린
   Energy = 에너지
-  Heat = 열
   Heat pump = 열펌프
   International Energy Agency = 국제 에너지 기구
   Willis H. Carrier = 윌리스 H. 캐리어
@@ -600,7 +587,6 @@ GLOSSARY:
   Bergeron = 베르예론 분류
   Bergeron classification = 베르게론 분류
   Humidity = 습도
-  Weather = 날씨
   air masses = 기단
   continental = 대륙성
   continental polar = 대륙성 한대
@@ -689,7 +675,6 @@ GLOSSARY:
   Boeing = 보잉
   E-2 Hawkeye = E-2 호크아이
   E-3 Sentry = E-3 센트리
-  Navy = 해군
   Northrop = 노스럽
   Northrop Grumman = 노스럽 그러먼
   Surface-to-air missile = 지대공 미사일
@@ -718,7 +703,6 @@ GLOSSARY:
   A320neo = A320neo
   Air France = 에어프랑스
   Airbus = 에어버스
-  Family = 가족
   France = 프랑스
   Lufthansa = 루프트한자
   fly-by-wire = 플라이 바이 와이어
@@ -763,19 +747,16 @@ European aerospace corporation that became the world’s largest airliner manufa
 HEADWORD: Aircraft = 항공기
 LEVEL: 3
 GLOSSARY:
-  Aircraft = 항공기
   China = 중국
   Devil = 악마
   Ferdinand = 페르디난트
   Ferdinand von Zeppelin = 페르디난트 폰 체펠린
-  France = 프랑스
   French = 프랑스어
   French Revolution = 프랑스 혁명
   George Cayley = 조지 케일리
   Heavier-than-air = 중항공기
   Helicopter = 헬리콥터
   Kill Devil Hills = 킬데블힐스
-  Kites = 연꼴
   Leonardo = 레오나르도
   Leonardo da Vinci = 레오나르도 다빈치
   Lighter-than-air = 경항공기
@@ -784,7 +765,6 @@ GLOSSARY:
   North Carolina = 노스캐롤라이나주
   Rigid airships = 경식 비행선
   Unmanned aerial vehicle = 무인 항공기
-  Vehicle = 차량
   Vinci = 빈치
   World = 세계
   World War II = 제2차 세계 대전
@@ -821,7 +801,6 @@ GLOSSARY:
   Battleship = 전함
   Henry Kissinger = 헨리 키신저
   United States = 미국
-  Warship = 군함
   World = 세계
   World War II = 제2차 세계 대전
   capital ship = 주력함
@@ -854,7 +833,6 @@ GLOSSARY:
   DELAG = 델라크
   Florida = 플로리다주
   Oneworld = 원월드
-  Petersburg = 피터즈버그
   SkyTeam = 스카이팀
   St. Petersburg = 상트페테르부르크
   Star = 항성

@@ -42,7 +42,6 @@ GLOSSARY:
   Columbus = 콜럼버스
   Dugong = 듀공
   Europe = 유럽
-  Fiji = 피지
   Fiji mermaids = 피지 인어
   Greek mythology = 그리스 신화
   Latin = 라틴어
@@ -177,7 +176,6 @@ GLOSSARY:
   5-HT2A receptors = 5-HT2A 수용체
   Aldous Huxley = 올더스 헉슬리
   Cactus = 선인장
-  Mescaline = 메스칼린
   San Pedro cactus = 산페드로 선인장
   Serotonin = 세로토닌
   first psychedelic = 최초의 환각제
@@ -242,7 +240,6 @@ LEVEL: 4
 GLOSSARY:
   Ancient Egypt = 고대 이집트
   Aztec = 아스테카
-  Building = 건물
   Cardinal direction = 방위
   Egypt = 이집트
   Lake = 호수
@@ -270,7 +267,6 @@ Building traditions of pre-Columbian [[Mesoamerica]], best known from public, ce
 HEADWORD: Mesolithic = 중석기 시대
 LEVEL: 4
 GLOSSARY:
-  Agriculture = 농업
   Europe = 유럽
   Hunter-gatherer = 수렵채집인
   Last Glacial Maximum = 최종 빙기 최성기
@@ -330,7 +326,6 @@ GLOSSARY:
   Iran = 이란
   Iraq = 이라크
   Kuwait = 쿠웨이트
-  Mesopotamia = 메소포타미아
   Mesopotamian = 메소포타미아
   Muslim conquest = 이슬람의 정복
   Near East = 근동
@@ -368,7 +363,6 @@ LEVEL: 5
 GLOSSARY:
   Asbestos = 석면
   Biopsy = 생검
-  Cancer = 암
   Chemotherapy = 화학 요법
   United States = 미국
   mesothelium = 중피
@@ -475,7 +469,6 @@ GLOSSARY:
   Horizon = 지평선
   Milky Way = 우리은하
   NGC 4486 = NGC 4486
-  Supergiant = 초거성
   Supermassive black hole = 초대질량 블랙홀
   Telescope = 망원경
   Virgo = 처녀자리
@@ -533,8 +526,6 @@ GLOSSARY:
   Bias = 편향
   Gene = 유전자
   Gene V. Glass = 진 V. 글래스
-  Glass = 유리
-  Meta-analyses = 메타분석
   effect size = 효과 크기
   forest plots = 숲 그림
   publication bias = 출판 편향
@@ -586,7 +577,6 @@ An organism's metabolic system determines which substances it finds nutritious a
 HEADWORD: Metal Gear Solid = 메탈 기어 솔리드
 LEVEL: 5
 GLOSSARY:
-  Action-adventure = 액션 어드벤처
   FOXHOUND = 폭스하운드
   GameCube = 게임큐브
   Gear = 기어
@@ -637,11 +627,9 @@ GLOSSARY:
   Fermi level = 페르미 준위
   Gold = 금
   Hooke's law = 훅 법칙
-  Magnesium = 마그네슘
   Materials science = 재료 과학
   Metallurgy = 야금학
   Pauli exclusion principle = 파울리 배타 원리
-  Precious = 「프레셔스」
   Precious metals = 귀금속
   Sodium = 나트륨
   World = 세계
@@ -686,7 +674,6 @@ GLOSSARY:
   Covalent bond = 공유 결합
   Gallium = 갈륨
   Ion = 이온
-  Metal = 금속
   Metallic bonding = 금속 결합
   Quantum mechanics = 양자역학
   chemical bond = 화학 결합
@@ -706,7 +693,6 @@ HEADWORD: Metallic hydrogen = 금속 수소
 LEVEL: 5
 GLOSSARY:
   Bell = 종
-  Eugene = 오이겐
   Eugene Wigner = 유진 위그너
   Exoplanet = 외계 행성
   Hillard Bell Huntington = 힐러드 벨 헌팅턴
@@ -732,7 +718,6 @@ GLOSSARY:
   Master = 조폐국장
   Master of Puppets = 『Master of Puppets』
   Megadeth = 메가데스
-  Metallica = 메탈리카
   Napster = 냅스터
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
   San Francisco = 샌프란시스코
@@ -765,7 +750,6 @@ GLOSSARY:
   Antimony = 안티모니
   Arsenic = 비소
   Boron = 붕소
-  Carbon = 탄소
   Germanium = 저마늄
   Latin = 라틴어
   Semiconductor = 반도체
@@ -797,7 +781,6 @@ GLOSSARY:
   Iran = 이란
   Iraq = 이라크
   Materials science = 재료 과학
-  Metal = 금속
   Metalworking = 금속 가공
   Nanotechnology = 나노기술
   Near East = 근동
@@ -829,7 +812,6 @@ GLOSSARY:
   Gold = 금
   Iraq = 이라크
   Iron = 철
-  Machine = 기계
   Metalworking = 금속 가공
   Smelting = 제련
   Trade = 교역
@@ -890,7 +872,6 @@ GLOSSARY:
   Giovanni = 조반니
   Giovanni Boccaccio = 조반니 보카치오
   Julius Caesar = 율리우스 카이사르
-  Latin = 라틴어
   Metamorphoses = 『변신 이야기』
   Ovid = 오비디우스
   Renaissance = 르네상스
@@ -932,7 +913,6 @@ LEVEL: 3
 GLOSSARY:
   Andronicus of Rhodes = 로도스의 안드로니코스
   Aristotle = 아리스토텔레스
-  Branch = 브랜치
   China = 중국
   Free will = 자유 의지
   Greece = 그리스
@@ -971,7 +951,6 @@ LEVEL: 4
 GLOSSARY:
   Andronicus of Rhodes = 로도스의 안드로니코스
   Aristotle = 아리스토텔레스
-  Book = 책
   Book Alpha = 알파 권
   Book Lambda = 람다 권
   Ionian monists = 이오니아 일원론자
@@ -989,7 +968,6 @@ Collection of texts by [[Aristotle]] on substance, causation, and first philosop
 HEADWORD: Metastasis = 전이
 LEVEL: 5
 GLOSSARY:
-  Breast = 유방
   Breast cancer = 유방암
   Cancer = 암
   TNM staging system = TNM 병기 분류

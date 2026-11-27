@@ -42,7 +42,6 @@ GLOSSARY:
   First Mexican Empire = 제1차 멕시코 제국
   Guatemala = 과테말라
   Honduras = 온두라스
-  Independence = 인디펜던스
   Isthmo-Colombian = 지협-콜롬비아 문화권
   Maya = 마야족
   Maya kingdoms = 마야 왕국들
@@ -143,7 +142,6 @@ LEVEL: 5
 GLOSSARY:
   Bureau of Investigation = 수사국
   Federal Bureau of Investigation = 연방 수사국
-  Intelligence = 지능
   National Security Act = 국가안보법
   Security = 보안
   U.S. Intelligence Community = 미국 정보 공동체
@@ -161,8 +159,6 @@ GLOSSARY:
   Central Park = 센트럴 파크
   Central Park Conservancy = 센트럴 파크 관리위원회
   City = 도시
-  Construction = 건설
-  Frederick = 프리드리히
   Frederick Law Olmsted = 프레더릭 로 옴스테드
   Greensward Plan = 그린스워드 계획
   Manhattan = 맨해튼
@@ -192,9 +188,7 @@ GLOSSARY:
   German = 독일어
   German Empire = 독일 제국
   Germany = 독일
-  Italy = 이탈리아
   Kingdom of Bulgaria = 불가리아 왕국
-  Military = 군대
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
   Quadruple Alliance = 4국 동맹
@@ -225,8 +219,6 @@ Commercial and business center of a city, often described in larger cities as a 
 HEADWORD: Central heating = 중앙난방
 LEVEL: 4
 GLOSSARY:
-  HVAC = 냉난방 공조
-  Heat = 열
   Heating, ventilation, and air conditioning = 냉난방 공조
   William = 윌리엄
   William Strutt = 윌리엄 스트럿
@@ -244,7 +236,6 @@ GLOSSARY:
   Binomial distribution = 이항 분포
   Normal distribution = 정규 분포
   Probability theory = 확률론
-  Theorem = 정리
   confidence intervals = 신뢰 구간
   independent and identically distributed = 독립 동일 분포
   probability theory = 확률론
@@ -262,7 +253,6 @@ GLOSSARY:
   Cephalopod = 두족류
   Microglia = 미세아교세포
   Vertebrate = 척추동물
-  White = 흰색
   White matter = 백색질
   axons = 축삭
   gray matter = 회색질
@@ -342,7 +332,6 @@ GLOSSARY:
   Drosophila melanogaster = 노랑초파리
   Eukaryote = 진핵생물
   G1 = G1기
-  Sperm = 정자
   acentriolar = 중심소체가 없는
   aster = 성상체
   centrosome = 중심체
@@ -367,8 +356,6 @@ LEVEL: 4
 GLOSSARY:
   Centrifugal force = 원심력
   Christiaan Huygens = 크리스티안 하위헌스
-  Force = 힘
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Latin = 라틴어
   Newton = 뉴턴
@@ -440,7 +427,6 @@ HEADWORD: Ceramic art = 도예
 LEVEL: 4
 GLOSSARY:
   Arts and Crafts movement = 미술 공예 운동
-  Ceramic = 세라믹
   Ceramic art = 도예
   China = 중국
   Cretan = 크레타
@@ -483,7 +469,6 @@ HEADWORD: Cereal = 곡류
 LEVEL: 3
 GLOSSARY:
   Asia = 아시아
-  Cereal = 곡물
   East Asia = 동아시아
   Fertile Crescent = 비옥한 초승달 지대
   Green = 초록색
@@ -637,7 +622,6 @@ LEVEL: 4
 GLOSSARY:
   Berzelius = 베르셀리우스
   Catalytic converter = 촉매 변환기
-  Cerium = 세륨
   Germany = 독일
   Jöns Jakob Berzelius = 옌스 야코브 베르셀리우스
   Lanthanide = 란타넘족
@@ -686,7 +670,6 @@ GLOSSARY:
   Cervical cytology = 자궁경부 세포진 검사
   Female reproductive system = 여성 생식계
   HPV vaccines = HPV 백신
-  Human = 인간
   Human papillomavirus = 인유두종 바이러스
   Vagina = 질
   cervical cancer = 자궁경부암
@@ -818,7 +801,6 @@ LEVEL: 5
 GLOSSARY:
   Area = 넓이
   Atlantic Ocean = 대서양
-  Ceuta = 세우타
   Hispanic = 히스패닉
   Hispanic Monarchy = 에스파냐 왕국
   Mediterranean = 지중해
@@ -827,7 +809,6 @@ GLOSSARY:
   Morocco = 모로코
   Ocean = 대양
   Phoenicia = 페니키아
-  Phoenicians = 페니키아인
   Portugal = 포르투갈
   Schengen = 솅겐
   Schengen Area = 솅겐 지역
@@ -866,7 +847,6 @@ GLOSSARY:
   Chad = 차드
   Christianity = 기독교
   France = 프랑스
-  French = 프랑스어
   Hissène Habré = 이센 아브레
   Human = 인간
   Human Development Index = 인간 개발 지수
@@ -884,7 +864,6 @@ Landlocked country in [[Central Africa]]. Its capital and largest city is [[N'Dj
 HEADWORD: Chain = 사슬
 LEVEL: 4
 GLOSSARY:
-  Bicycle = 자전거
   Chain = 사슬
   Chain mail = 사슬 갑옷
   Chainsaw = 체인톱

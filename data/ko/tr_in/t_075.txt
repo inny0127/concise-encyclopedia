@@ -33,7 +33,6 @@ GLOSSARY:
   Aviation = 항공
   British Aircraft Corporation = 영국 항공기 회사
   British Airways = 영국항공
-  Concorde = 콩코드
   France = 프랑스
   Sonic boom = 소닉 붐
   Sud Aviation = 쉬드 아비아시옹
@@ -49,9 +48,7 @@ GLOSSARY:
   Bitumen = 역청
   Cement = 시멘트
   Colosseum = 콜로세움
-  Composite = 콤퍼지트
   Composite material = 복합 재료
-  Concrete = 콘크리트
   Greece = 그리스
   Jerwan Aqueduct = 제르완 수로
   Latin = 라틴어
@@ -117,7 +114,6 @@ HEADWORD: Condensation = 응결
 LEVEL: 4
 GLOSSARY:
   Cloud chamber = 안개상자
-  Condensation = 응결
   Distillation = 증류
   Water cycle = 물의 순환
   air wells = 공기 우물
@@ -135,7 +131,6 @@ LEVEL: 4
 GLOSSARY:
   Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
-  Branch = 브랜치
   Crystallography = 결정학
   Einstein = 아인슈타인
   Magnetism = 자기
@@ -203,7 +198,6 @@ Sheath-shaped barrier device worn during sexual intercourse to reduce the risk o
 HEADWORD: Cone snail = 청자고둥
 LEVEL: 5
 GLOSSARY:
-  Family = 가족
   Gastropod = 복족류
   Indo-Pacific = 인도태평양
   Peptide = 펩타이드
@@ -220,7 +214,6 @@ GLOSSARY:
   Abraham = 아브라함
   Abraham Lincoln = 에이브러햄 링컨
   American Civil War = 남북 전쟁
-  Breakaway = 『브레이크어웨이』
   Civil War = 남북 전쟁
   Confederacy = 남부 연합
   Jim Crow = 짐 크로
@@ -228,7 +221,6 @@ GLOSSARY:
   Lost = 「로스트」
   Lost Cause = 잃어버린 대의
   Robert E. Lee = 로버트 E. 리
-  Seven = 「세븐」
   Slavery = 노예제
   Southern United States = 미국 남부
   Union = 연방
@@ -243,7 +235,6 @@ HEADWORD: Confederation = 국가 연합
 LEVEL: 4
 GLOSSARY:
   Articles of Confederation = 연합 규약
-  Constitution = 헌법
   Federalism = 연방주의
   German = 독일어
   Sovereign state = 주권 국가
@@ -267,7 +258,6 @@ Range of values likely to contain an unknown statistical parameter, such as a po
 HEADWORD: Conformity = 동조
 LEVEL: 4
 GLOSSARY:
-  Conformity = 동조
   Culture = 문화
   Herbert Kelman = 허버트 켈먼
   Psychology = 심리학
@@ -295,7 +285,6 @@ GLOSSARY:
   Confucius = 공자
   Five Classics = 오경
   Han dynasty = 한나라
-  Heaven = 천국
   Hundred Schools of Thought = 제자백가
   Japan = 일본
   Korea = 한국
@@ -547,7 +536,6 @@ GLOSSARY:
   Apollonius = 아폴로니오스
   Apollonius of Perga = 페르가의 아폴로니오스
   Circle = 원
-  Curve = 곡선
   Ellipse = 타원
   Hyperbola = 쌍곡선
   Orbit = 궤도
@@ -742,7 +730,6 @@ GLOSSARY:
   Catholic = 가톨릭
   Catholic Church = 가톨릭교회
   Church = 처치
-  Consanguinity = 혈족 관계
   Incest = 근친상간
   Knot = 매듭
   Knot System = 매듭 체계
@@ -785,7 +772,6 @@ GLOSSARY:
   Mind = 마음
   Neuroscience = 신경과학
   René Descartes = 르네 데카르트
-  Thomas = 토머스
   Thomas Hobbes = 토머스 홉스
   access consciousness = 접근 의식
   conscientia = 콘스키엔티아
@@ -809,7 +795,6 @@ Philosophers frame the central question as the hard problem: why and how physica
 HEADWORD: Conscription = 징병제
 LEVEL: 4
 GLOSSARY:
-  Conscription = 징병제
   Denmark = 덴마크
   French = 프랑스어
   French Revolution = 프랑스 혁명
@@ -828,7 +813,6 @@ HEADWORD: Consent = 동의
 LEVEL: 4
 GLOSSARY:
   Advance consent = 사전 동의
-  Consent = 동의
   General Data Protection Regulation = 일반 개인정보 보호법
   International law = 국제법
   Medicine = 의학
@@ -846,7 +830,6 @@ Voluntary agreement to the proposal or desires of another. Consent has specific 
 HEADWORD: Consequentialism = 결과주의
 LEVEL: 4
 GLOSSARY:
-  Consequentialism = 결과주의
   Deontology = 의무론
   Derek Parfit = 데릭 파핏
   G. E. M. Anscombe = G. E. M. 앤스컴
@@ -866,7 +849,6 @@ Class of normative ethical theories that judge conduct by its consequences. An a
 HEADWORD: Conservation of energy = 에너지 보존 법칙
 LEVEL: 4
 GLOSSARY:
-  Energy = 에너지
   General relativity = 일반 상대성 이론
   Kinetic energy = 운동 에너지
   Mass–energy equivalence = 질량-에너지 등가성

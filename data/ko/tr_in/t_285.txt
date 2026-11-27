@@ -27,7 +27,6 @@ GLOSSARY:
   Game = 게임
   Game of the Year = 올해의 게임
   GameCube = 게임큐브
-  Kennedy = 케네디
   Leon S. Kennedy = 레온 S. 케네디
   Resident Evil = 레지던트 이블
   Spain = 스페인
@@ -46,7 +45,6 @@ GLOSSARY:
   Fossil = 화석
   Incense = 향
   Perfume = 향수
-  Plant = 식물
   Polymer = 중합체
   copal = 코펄
   frankincense = 유향
@@ -99,7 +97,6 @@ GLOSSARY:
   Culture = 문화
   Feeling = 감정
   Indian subcontinent = 인도 아대륙
-  Respect = 「Respect」
   honor cultures = 명예 문화
   namaste = 나마스테
 ENTRY:
@@ -145,7 +142,6 @@ GLOSSARY:
   Common cold = 감기
   Food = 음식
   Food and Drug Administration = 식품의약국
-  Infection = 감염
   Pneumonia = 폐렴
   RNA = RNA
   U.S. Food and Drug Administration = 미국 식품의약국
@@ -194,7 +190,6 @@ GLOSSARY:
   Guatemala = 과테말라
   Guatemalan = 과테말라
   Guatemalan quetzal = 과테말라 케찰
-  IUCN = 국제 자연 보전 연맹
   IUCN Red List = IUCN 적색 목록
   International Union for Conservation of Nature = 국제 자연 보전 연맹
   Lauraceae = 녹나무과
@@ -265,7 +260,6 @@ LEVEL: 3
 GLOSSARY:
   Goods = 재화
   Market (economics) = 시장
-  Retail = 소매
   United States = 미국
   bundling = 묶음 판매
   direct selling = 직접 판매
@@ -292,7 +286,6 @@ HEADWORD: Reticulated python = 그물무늬비단뱀
 LEVEL: 5
 GLOSSARY:
   Asia = 아시아
-  IUCN = 국제 자연 보전 연맹
   IUCN Red List = IUCN 적색 목록
   Indonesia = 인도네시아
   International Union for Conservation of Nature = 국제 자연 보전 연맹
@@ -318,8 +311,6 @@ GLOSSARY:
   Life expectancy = 기대 수명
   Otto von Bismarck = 오토 폰 비스마르크
   Pension = 연금
-  Retirement = 은퇴
-  Withdrawal = 금단
   defined-benefit pension plan = 확정 급여형 연금
   social security = 사회 보장
 ENTRY:
@@ -349,7 +340,6 @@ GLOSSARY:
   Albania = 알바니아
   Bacon = 베이컨
   Feuds = 피의 복수
-  Francis = 프랑수아
   Francis Bacon = 프랜시스 베이컨
   Guinea = 기니
   Honour = 명예
@@ -376,9 +366,7 @@ GLOSSARY:
   Desalination = 담수화
   Israel = 이스라엘
   Osmosis = 삼투
-  Pressure = 압력
   Sorek = 소렉
-  Water = 물
   Water purification = 정수
   osmotic pressure = 삼투압
   semi-permeable membrane = 반투막
@@ -463,7 +451,6 @@ GLOSSARY:
   Solidarity = 연대
   Soviet Union = 소련
   Wall = 벽
-  Wave = 파동
   chain reaction = 연쇄 반응
   dissolution of the Soviet Union = 소련 해체
 ENTRY:
@@ -481,7 +468,6 @@ GLOSSARY:
   Grammy Award for Best Album Cover = 그래미상 최우수 앨범 커버상
   Hindustani classical music = 힌두스탄 고전 음악
   Klaus Voormann = 클라우스 포어만
-  Love = 사랑
   Love You To = 「Love You To」
   Pop music = 팝 음악
   Record Retailer = 레코드 리테일러
@@ -523,7 +509,6 @@ Capital and largest city of [[Iceland]]. It lies on the southern shore of Faxafl
 HEADWORD: Reynolds number = 레이놀즈 수
 LEVEL: 4
 GLOSSARY:
-  Arnold = 아르놀트
   Arnold Sommerfeld = 아르놀트 조머펠트
   Fluid dynamics = 유체 역학
   George Stokes = 조지 스토크스
@@ -567,7 +552,6 @@ LEVEL: 4
 GLOSSARY:
   Australia = 오스트레일리아
   Emu = 에뮤
-  Genus = 속
   Germany = 독일
   International Union for Conservation of Nature = 국제 자연 보전 연맹
   Nature = 『네이처』
@@ -598,7 +582,6 @@ GLOSSARY:
   Molybdenum = 몰리브데넘
   Otto Berg = 오토 베르크
   Periodic table = 주기율표
-  Rare = 「Rare」
   Rhine = 라인강
   Walter Noddack = 발터 노다크
   jet engines = 제트 엔진
@@ -630,7 +613,6 @@ GLOSSARY:
   South Central = 남중부
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Species = 종
   World = 세계
   antiretroviral = 항레트로바이러스
   matrilineal = 모계
@@ -732,7 +714,6 @@ GLOSSARY:
   Black market = 암시장
   China = 중국
   Chinese medicine = 중의학
-  Family = 가족
   Rhinocerotidae = 코뿔소과
   Southeast = 남동부
   Southeast Asia = 동남아시아
@@ -806,7 +787,6 @@ GLOSSARY:
   Saint = 성인
   Seven = 「세븐」
   Seven Wonders of the Ancient World = 고대 세계의 7대 불가사의
-  Tourism = 관광
   Town = 소도시
   World = 세계
   World Heritage = 세계 유산

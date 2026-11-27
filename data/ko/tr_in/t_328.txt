@@ -45,7 +45,6 @@ GLOSSARY:
   Port = 항구
   Port Mann Bridge = 포트만교
   South Wales = 사우스웨일스
-  Steel = 강철
   Sydney = 시드니
   Sydney Harbour = 시드니항
   Vancouver = 밴쿠버
@@ -71,7 +70,6 @@ GLOSSARY:
   Orchestra = 관현악단
   Peter = 베드로
   Peter Hall = 피터 홀
-  Queen = 퀸
   Queen Elizabeth II = 엘리자베스 2세 여왕
   South Wales = 사우스웨일스
   Sydney = 시드니
@@ -244,7 +242,6 @@ GLOSSARY:
   Mitochondria = 미토콘드리아
   Pollination = 수분
   Symbiogenesis = 세포 내 공생설
-  Symbiosis = 공생
   commensalism = 편리 공생
   endosymbiosis = 세포 내 공생
   facultative = 조건 공생
@@ -351,7 +348,6 @@ GLOSSARY:
   Electromagnetism = 전자기학
   General relativity = 일반 상대성 이론
   Group theory = 군론
-  Physical = 「Physical」
   Poincaré = 푸앵카레
   Poincaré group = 푸앵카레 군
   Reflection (physics) = 반사
@@ -405,7 +401,6 @@ GLOSSARY:
   Prince = 후작
   Romantic = 낭만주의
   Romantic era = 낭만주의 시대
-  Symphony = 교향곡
   Vienna = 빈
 ENTRY:
 Symphony in E♭ major, Op. 55, by [[Ludwig van Beethoven]], known as the *Eroica*. Composed mainly in 1803–1804, it has four movements and typically lasts 45 to 55 minutes. It broke with earlier symphonic conventions in form, length, harmony and emotional content, and is widely considered a landmark in the transition from the Classical to the Romantic era. It is often considered the first Romantic symphony. Beethoven first conducted a private performance on 9 June 1804, and the first public performance followed on 7 April 1805 in [[Vienna]]. The work was originally dedicated to [[Napoleon]], but Beethoven removed the dedication after Napoleon proclaimed himself emperor, and it was rededicated to Prince Franz Joseph von Lobkowitz. Its second movement is a [[Funeral|funeral march]].
@@ -422,7 +417,6 @@ GLOSSARY:
   Library = 도서관
   Mozart = 모차르트
   Peter = 베드로
-  Symphony = 교향곡
   Wolfgang Amadeus Mozart = 볼프강 아마데우스 모차르트
   autograph manuscript = 자필 악보
 ENTRY:
@@ -440,7 +434,6 @@ GLOSSARY:
   Ludwig van Beethoven = 루트비히 판 베토벤
   Napoleonic Wars = 나폴레옹 전쟁
   Prince = 후작
-  Symphony = 교향곡
   Trombone = 트롬본
   Vienna = 빈
 ENTRY:
@@ -550,7 +543,6 @@ GLOSSARY:
   Carboniferous = 석탄기
   Carboniferous period = 석탄기
   Cenozoic = 신생대
-  Clade = 분기군
   Cretaceous = 백악기
   Cretaceous–Paleogene extinction event = 백악기-팔레오기 대멸종
   Dimetrodon = 디메트로돈
@@ -559,7 +551,6 @@ GLOSSARY:
   Permian = 페름기
   Permian–Triassic extinction event = 페름기-트라이아스기 대멸종
   Sauropsida = 석형류
-  Synapsids = 단궁류
   Triassic = 트라이아스기
   amniotes = 양막류
   apex predators = 최상위 포식자
@@ -576,7 +567,6 @@ HEADWORD: Syncretism = 혼합주의
 LEVEL: 4
 GLOSSARY:
   Abrahamic religions = 아브라함계 종교
-  Cretan = 크레타
   Cretan federation = 크레타 연합
   Hellenistic = 헬레니즘
   Latin = 라틴어
@@ -632,10 +622,8 @@ GLOSSARY:
   Hydrogen = 수소
   Iron ore = 철광석
   Methanol = 메탄올
-  Mixture = 혼합물
   Natural gas = 천연가스
   Sunfire = 선파이어
-  Syngas = 합성 가스
   carbon monoxide = 일산화 탄소
   coal gasification = 석탄 가스화
   e-diesel = e-디젤
@@ -680,7 +668,6 @@ LEVEL: 4
 GLOSSARY:
   Ancient Greek = 고대 그리스어
   Aṣṭādhyāyī = 『아슈타디아이』
-  Branch = 브랜치
   Formal language = 형식 언어
   Latin = 라틴어
   Pāṇini = 파니니
@@ -726,7 +713,6 @@ LEVEL: 4
 GLOSSARY:
   Chemical element = 화학 원소
   Earth = 지구
-  Elements = 『원론』
   Nuclear reactor = 원자로
   Particle accelerator = 입자 가속기
   Plutonium = 플루토늄
@@ -749,7 +735,6 @@ GLOSSARY:
   Penicillin = 페니실린
   Pregnancy = 임신
   Sexually transmitted infection = 성매개 감염병
-  Syphilis = 매독
   Treponema pallidum = 트레포네마 팔리둠
   chancre = 경성 하감
   gummas = 고무종
@@ -772,7 +757,6 @@ GLOSSARY:
   Jaxartes = 약사르테스강
   Kazakhstan = 카자흐스탄
   Kyrgyzstan = 키르기스스탄
-  River = 강
   Saka = 사카족
   Tajikistan = 타지키스탄
   Tian = 천
@@ -851,9 +835,7 @@ GLOSSARY:
   Damascus = 다마스쿠스
   French = 프랑스어
   French mandate = 프랑스 위임 통치령
-  Hafez = 하페즈
   Hafez al-Assad = 하페즈 알아사드
-  Levantine = 레반트
   Levantine Arabs = 레반트 아랍인
   Mediterranean = 지중해
   Muslims = 무슬림

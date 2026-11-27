@@ -69,7 +69,6 @@ GLOSSARY:
   Cotonou = 코토누
   Cotton = 목화
   Dahomey = 다호메이
-  France = 프랑스
   French = 프랑스어
   French West Africa = 프랑스령 서아프리카
   Guinea = 기니
@@ -192,7 +191,6 @@ GLOSSARY:
   House of Commons = 하원
   Judaism = 유대교
   Party = 파티
-  Prime = 프라임
   Prime Minister of the United Kingdom = 영국 총리
   Queen = 퀸
   Queen Victoria = 빅토리아 여왕
@@ -271,8 +269,6 @@ GLOSSARY:
   Bordeaux = 보르도
   Carmen = 「카르멘」
   City = 도시
-  Dance = 춤
-  French = 프랑스어
   L.A. Dance Project = L.A. 댄스 프로젝트
   Natalie Portman = 내털리 포트먼
   New York City = 뉴욕
@@ -340,7 +336,6 @@ Polish-born French-American mathematician and a leading figure in fractal geomet
 HEADWORD: Benzene = 벤젠
 LEVEL: 4
 GLOSSARY:
-  Benzene = 벤젠
   Carcinogen = 발암 물질
   Friedrich August Kekulé = 프리드리히 아우구스트 케쿨레
   Hydrocarbon = 탄화수소
@@ -368,7 +363,6 @@ GLOSSARY:
   Anxiety disorder = 불안 장애
   Cancer = 암
   Dementia = 치매
-  GABA = GABA
   GABAA receptor = GABAA 수용체
   Insomnia = 불면증
   Leo Sternbach = 레오 슈테른바흐
@@ -404,7 +398,6 @@ GLOSSARY:
   Nowell Codex = 노웰 코덱스
   Old English = 고대 영어
   Scandinavia = 스칸디나비아
-  Tolkien = 톨킨
   alliterative = 두운
   mead hall = 벌꿀술 연회장
 ENTRY:
@@ -422,7 +415,6 @@ GLOSSARY:
   Arabic = 아랍어
   Arabic script = 아랍 문자
   Berber Latin alphabet = 베르베르 라틴 문자
-  Branch = 브랜치
   Burkina Faso = 부르키나파소
   Latin = 라틴어
   Latin alphabet = 라틴 문자
@@ -543,7 +535,6 @@ GLOSSARY:
   Peninsula = 반도
   Russia = 러시아
   Seward Peninsula = 수어드반도
-  Strait = 해협
   United States = 미국
   Vitus Bering = 비투스 베링
   land bridge = 육교
@@ -566,7 +557,6 @@ GLOSSARY:
   Norman Conquest = 노르만 정복
   Reading = 레딩
   South East England = 사우스이스트잉글랜드
-  Windsor = 윈저
   Windsor Castle = 윈저성
   chalk downland = 백악 구릉지
   county town = 주도
@@ -598,7 +588,6 @@ GLOSSARY:
   German = 독일어
   German reunification = 독일 재통일
   Shame = 수치심
-  Wall = 벽
   Wall of Shame = 수치의 벽
   West Berlin = 서베를린
   Willy Brandt = 빌리 브란트
@@ -613,7 +602,6 @@ GLOSSARY:
   Berlin Wall = 베를린 장벽
   East Berlin = 동베를린
   East Germany = 동독
-  Following = 「미행」
   German = 독일어
   German Empire = 독일 제국
   German reunification = 독일 재통일
@@ -663,7 +651,6 @@ HEADWORD: Bermuda Triangle = 버뮤다 삼각지대
 LEVEL: 5
 GLOSSARY:
   Bermuda = 버뮤다
-  Coast = 해안
   Coast Guard = 해안 경비대
   Florida = 플로리다주
   Gulf Stream = 멕시코 만류
@@ -706,7 +693,6 @@ GLOSSARY:
   Christian Dior = 크리스티앙 디오르
   Civil engineering = 토목 공학
   Forbes = 『포브스』
-  French = 프랑스어
   LVMH = LVMH
   Louis Vuitton = 루이 비통
   Moët Hennessy = 모에 헤네시
@@ -757,7 +743,6 @@ GLOSSARY:
   Fourier = 푸리에
   Fourier series = 푸리에 급수
   General relativity = 일반 상대성 이론
-  German = 독일어
   Riemann = 리만
   Riemann hypothesis = 리만 가설
   Riemann integral = 리만 적분
@@ -818,7 +803,6 @@ GLOSSARY:
   Green New Deal = 그린 뉴딜
   New Deal = 뉴딜
   Party = 파티
-  Sanders = 샌더스
   Vermont = 버몬트주
   caucused = 교섭 단체 활동
   democratic socialist = 민주 사회주의자
@@ -878,7 +862,6 @@ GLOSSARY:
   I Want You Back = 「I Want You Back」
   Jackson 5 = 잭슨 파이브
   Marvin Gaye = 마빈 게이
-  Money = 화폐
   Motown = 모타운
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
   Stevie Wonder = 스티비 원더
@@ -938,7 +921,6 @@ GLOSSARY:
   Dialectic = 변증법
   East Berlin = 동베를린
   FBI = 연방 수사국
-  German = 독일어
   Germany = 독일
   Helene Weigel = 헬레네 바이겔
   House Un-American Activities Committee = 하원 비미 활동 위원회

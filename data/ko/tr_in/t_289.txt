@@ -48,7 +48,6 @@ GLOSSARY:
   Rhine = 라인강
   Romantic = 낭만주의
   Romantic era = 낭만주의 시대
-  Schumann = 슈만
   song cycles = 연가곡
 ENTRY:
 German composer, pianist and critic of the early Romantic era. His works typify the spirit of the Romantic era in German music. Schumann studied law at [[Leipzig]] before turning to music, and in 1834 he co-founded the *Neue Zeitschrift für Musik*, which he edited for ten years. His early piano pieces include *Carnaval* and *Kinderszenen* (1834–1838), and his song cycles include *Dichterliebe*. He married pianist Clara Wieck in 1840 despite her father's bitter opposition. From 1850 he was music director in [[Düsseldorf]], but he had to resign after three years. In 1853 he met the young [[Johannes Brahms]], whom he praised in print. His mental health declined, and in 1854 he threw himself into the [[Rhine]] before spending his last years in a sanatorium near [[Bonn]]. Composers inspired by his music include [[Gustav Mahler]], [[Claude Debussy]] and [[Maurice Ravel]].
@@ -215,7 +214,6 @@ GLOSSARY:
   Maid Marian = 메이드 매리언
   Merry Men = 메리 멘
   Nottingham = 노팅엄
-  Robin = 로빈
   Robin Hood = 로빈 후드
   Sheriff = 「셰리프」
   Sheriff of Nottingham = 노팅엄의 주장관
@@ -318,12 +316,10 @@ GLOSSARY:
   Hephaestus = 헤파이스토스
   Hero of Alexandria = 알렉산드리아의 헤론
   Jersey = 저지섬
-  Machine = 기계
   New Jersey = 뉴저지주
   Predator = 「프레데터」
   Robotics = 로봇공학
   Rossum's Universal Robots = 『로숨의 유니버설 로봇』
-  Software = 소프트웨어
   Talos = 탈로스
   Unimate = 유니메이트
   William = 윌리엄
@@ -367,7 +363,6 @@ LEVEL: 5
 GLOSSARY:
   Comet = 혜성
   Density = 밀도
-  Distance = 거리
   French = 프랑스어
   Ring system = 고리계
   Édouard Roche = 에두아르 로슈
@@ -379,7 +374,6 @@ HEADWORD: Rochester = 로체스터
 LEVEL: 5
 GLOSSARY:
   Abolitionism = 노예제 폐지 운동
-  City = 도시
   Eastman Kodak = 이스트먼 코닥
   Genesee River = 제네시강
   Kodak = 코닥
@@ -387,7 +381,6 @@ GLOSSARY:
   Monroe County = 먼로 카운티
   New York (state) = 뉴욕주
   River = 강
-  Rochester = 로체스터
   Rust = 녹
   Rust Belt = 러스트 벨트
   Xerox = 제록스
@@ -429,7 +422,6 @@ GLOSSARY:
   I. M. Pei = 이오 밍 페이
   Lake = 호수
   Lake Erie = 이리호
-  Music = 음악
   Ohio = 오하이오주
   Rock music = 록 음악
 ENTRY:
@@ -443,8 +435,6 @@ GLOSSARY:
   Civil rights movement = 민권 운동
   Electric guitar = 일렉트릭 기타
   G. C. Altschuler = G. C. 알트슐러
-  Genre = 장르
-  Piano = 피아노
   Rhythm = 리듬
   Rhythm and blues = 리듬 앤드 블루스
   Rock music = 록 음악
@@ -472,7 +462,6 @@ GLOSSARY:
   Cave painting = 동굴 벽화
   Europe = 유럽
   Francophone = 프랑스어권
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Paleolithic = 구석기 시대
   Upper Paleolithic = 후기 구석기 시대
@@ -490,14 +479,12 @@ Human-made markings placed on natural rock surfaces, typically vertical stone fa
 HEADWORD: Rock climbing = 암벽 등반
 LEVEL: 4
 GLOSSARY:
-  Climbing = 등반
   Dolomites = 돌로미티산맥
   Europe = 유럽
   Fontainebleau = 퐁텐블로
   Granite = 화강암
   Lake = 호수
   Lake District = 레이크 디스트릭트
-  Lead = 납
   Lead climbers = 선등자
   Limestone = 석회암
   Saxony = 작센
@@ -550,7 +537,6 @@ GLOSSARY:
   Plate tectonics = 판 구조론
   Plutonic = 심성
   Sedimentary rock = 퇴적암
-  Silicate = 규산염
   Silicate minerals = 규산염 광물
   Stone Age = 석기 시대
   asthenosphere = 연약권
@@ -587,7 +573,6 @@ GLOSSARY:
   Beatles = 비틀스
   Blues = 블루스
   Electric guitar = 일렉트릭 기타
-  Genre = 장르
   Hip-hop = 힙합
   Protest song = 저항 가요
   Punk rock = 펑크 록
@@ -648,7 +633,6 @@ GLOSSARY:
   Escape velocity = 탈출 속도
   Europe = 유럽
   German = 독일어
-  Gunpowder = 화약
   Hyder Ali = 하이데르 알리
   Jet engine = 제트 엔진
   Middle East = 중동
@@ -687,7 +671,6 @@ Modern rocketry rests on Konstantin Tsiolkovsky's 1903 theory of liquid-propella
 HEADWORD: Rocket engine = 로켓 엔진
 LEVEL: 4
 GLOSSARY:
-  Black = 검은색
   Black powder = 흑색 화약
   Combustion = 연소
   Hall-effect thrusters = 홀 효과 추력기
@@ -751,7 +734,6 @@ GLOSSARY:
   Mexico = 멕시코
   Mount Elbert = 엘버트산
   Mount Robson = 롭슨산
-  Mountain = 산
   Mountain range = 산맥
   Nevada = 네바다주
   New Mexico = 뉴멕시코주
@@ -861,7 +843,6 @@ GLOSSARY:
   Faces = 페이시스
   Jeff Beck = 제프 벡
   Jeff Beck Group = 제프 벡 그룹
-  Maggie = 매기
   Maggie May = 「매기 메이」
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
   Story = 『스토리』
@@ -903,7 +884,6 @@ HEADWORD: Piper, Roddy = 파이퍼, 로디
 LEVEL: 5
 GLOSSARY:
   Bagpipes = 백파이프
-  Canadian = 캐나다
   Glasgow = 글래스고
   Piper's Pit = 파이퍼스 피트
   Professional wrestling = 프로레슬링
@@ -939,7 +919,6 @@ GLOSSARY:
   Lagomorpha = 토끼목
   Latin = 라틴어
   Madagascar = 마다가스카르
-  Mammals = 포유류
   Paleocene = 팔레오세
   Rodentia = 쥐목
   South America = 남아메리카
@@ -966,7 +945,6 @@ Humans use rodents for food, clothing, pets, and laboratory research. The [[Brow
 HEADWORD: Rodeo = 로데오
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Animal rights = 동물권
   Canada = 캐나다
   Cattle = 소

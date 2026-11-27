@@ -109,7 +109,6 @@ GLOSSARY:
   Neo-Assyrian = 신아시리아
   Neo-Assyrian Empire = 신아시리아 제국
   Phoenicia = 페니키아
-  Phoenician = 페니키아
   Punic Wars = 포에니 전쟁
   Rome = 로마
   Sardinia = 사르데냐
@@ -141,7 +140,6 @@ GLOSSARY:
   Lugus = 루구스
   Neo-Druidry = 신드루이드교
   New Age = 뉴에이지
-  Polytheistic = 다신교
   Reconstructionists = 재건주의자
   Taranis = 타라니스
   Three Mothers = 세 어머니 여신
@@ -158,7 +156,6 @@ LEVEL: 3
 GLOSSARY:
   Alexander the Great = 알렉산드로스 대왕
   Assyrians = 아시리아인
-  Bronze = 청동
   Bronze Age = 청동기 시대
   Egypt = 이집트
   Egyptologists = 이집트학자
@@ -181,7 +178,6 @@ GLOSSARY:
   Pharaoh = 파라오
   Ptolemaic = 프톨레마이오스 왕조
   Ptolemaic Kingdom = 프톨레마이오스 왕조
-  Religion = 종교
   Rhind Mathematical Papyrus = 린드 수학 파피루스
   Romans = 로마인
   Rome = 로마
@@ -239,7 +235,6 @@ GLOSSARY:
   The Eloquent Peasant = 『웅변하는 농부』
   The Instructions of Amenemhat = 『아메넴헤트의 교훈』
   The Story of Sinuhe = 『시누헤 이야기』
-  Writing = 문자
   ostraca = 오스트라카
 ENTRY:
 Body of writing in the Egyptian language from the pharaonic period to the end of Roman domination. Writing appeared in the late 4th millennium BC, and the literature is the oldest corpus of Egyptian writing; with Sumerian literature, it is considered the world’s earliest. Old Kingdom works included funerary texts, letters, hymns, poems and autobiographies of administrative officials. A narrative literature emerged only in the early Middle Kingdom, reflecting a rising class of scribes and unprecedented literacy. Writing was an elite exercise, monopolized by scribes attached to government offices and the royal court. Popular tales included *The Story of Sinuhe* and *The Eloquent Peasant*, and teaching texts such as *The Instructions of Amenemhat* were often pseudonymous, attributed to famous figures. Texts survive on [[Papyrus|papyrus]], ostraca, wooden boards, monuments and coffins. The moist Nile floodplain destroyed most papyri, so much of the literature is lost.
@@ -259,7 +254,6 @@ GLOSSARY:
   Islam = 이슬람교
   Ma’at = 마아트
   Pharaoh = 파라오
-  Polytheistic = 다신교
   Ra = 라
   Roman conquest = 로마의 정복
   ancient Egypt = 고대 이집트
@@ -284,7 +278,6 @@ GLOSSARY:
   Bronze Age = 청동기 시대
   Bronze Age collapse = 청동기 시대 붕괴
   City-state = 도시 국가
-  Civilization = 문명
   Classical Greece = 고전기 그리스
   Classical period = 고전기
   Dark Ages = 암흑시대
@@ -342,7 +335,6 @@ GLOSSARY:
   Classical period = 고전기
   Dark Ages = 암흑시대
   Doric = 도리스 방언
-  Forms = 이데아
   Greece = 그리스
   Greek language = 그리스어
   Hellenistic = 헬레니즘
@@ -362,12 +354,10 @@ Forms of the Greek language used in ancient Greece and the ancient world from ab
 HEADWORD: Ancient Greek architecture = 고대 그리스 건축
 LEVEL: 4
 GLOSSARY:
-  Architecture = 건축
   Athens = 아테네
   Classicism = 고전주의
   Corinthian = 코린트 양식
   Doric = 도리스 방언
-  Greece = 그리스
   Ionic = 이오니아 방언
   Marble = 대리석
   Naxos = 낙소스섬
@@ -395,7 +385,6 @@ GLOSSARY:
   Hellenistic period = 헬레니즘 시대
   Iron = 철
   Iron Age = 철기 시대
-  Painting = 회화
   applied arts = 응용 미술
   black-figure = 흑화식
 ENTRY:
@@ -453,7 +442,6 @@ Writings in the Ancient Greek language, from the earliest texts until the Byzant
 HEADWORD: Ancient Greek philosophy = 고대 그리스 철학
 LEVEL: 4
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred North Whitehead = 앨프리드 노스 화이트헤드
   Aristotle = 아리스토텔레스
   Athenian = 아테네의
@@ -500,7 +488,6 @@ GLOSSARY:
   Olympian = 올림포스
   Olympian gods = 올림포스 신
   Platonism = 플라톤주의
-  Polytheistic = 다신교
   Poseidon = 포세이돈
   Sicily = 시칠리아
   Stoicism = 스토아학파
@@ -570,7 +557,6 @@ GLOSSARY:
   Sumerians = 수메르인
   Ur = 우르
   Uruk = 우루크
-  Worship = 예배
 ENTRY:
 Religious beliefs and practices of the civilizations of Sumer, Akkad, Assyria and Babylonia, from about 6000 BC to 500 AD. It was a consistent tradition that adapted to the needs of its adherents over millennia. Worship of natural forces as providers of sustenance is evident from the mid-4th millennium BC, when writing was invented. The [[Sumer|Sumerians]] created the first city-states, such as [[Uruk]] and [[Ur]], and developed writing, early mathematics, wheeled chariots, astronomy, a written code of law and the calendar. In the 3rd millennium BC, objects of worship became an expansive cast of deities. Later, the gods were structured into a hierarchy with the national god of each state at its head. [[Enlil]] and [[Inanna]] were among the most important figures. Worship centered on temples, daily offerings and festivals, and [[Divination|divination]] sought divine intentions. Under [[Sargon of Akkad]], the Akkadian Empire united Mesopotamia around 2335 BC. The religion declined with Christianization between the 1st and 5th centuries AD.
 
@@ -606,20 +592,17 @@ LEVEL: 4
 GLOSSARY:
   Ancient Greek architecture = 고대 그리스 건축
   Arch = 아치
-  Architecture = 건축
   Colosseum = 콜로세움
   Composite = 콤퍼지트
   Composite orders = 콤포지트 양식
   Dome = 돔
   Empire = 「엠파이어」
-  Engineering = 공학
   Ostia = 오스티아
   Pantheon = 판테온
   Pompeii = 폼페이
   Roman concrete = 로마 콘크리트
   Romanesque = 로마네스크
   Romanesque architecture = 로마네스크 건축
-  Romans = 로마인
   Rome = 로마
   Tuscan = 토스카나 양식
   ancient Rome = 고대 로마
@@ -643,7 +626,6 @@ GLOSSARY:
   Italic = 이탈리아계
   Mars = 화성
   Mediterranean = 지중해
-  Myth = 신화
   Roman Empire = 로마 제국
   Roman Kingdom = 로마 왕국
   Roman Republic = 로마 공화정
@@ -690,7 +672,6 @@ GLOSSARY:
   Bronze Age = 청동기 시대
   China = 중국
   Chinese characters = 한자
-  Copper = 구리
   Copper smelting = 구리 제련
   Cuneiform = 쐐기 문자
   Egypt = 이집트
@@ -711,7 +692,6 @@ GLOSSARY:
   Indus script = 인더스 문자
   Iron = 철
   Iron Age = 철기 시대
-  Knowledge = 지식
   Mesoamerica = 메소아메리카
   Mesopotamia = 메소포타미아
   Middle East = 중동
@@ -731,7 +711,6 @@ GLOSSARY:
   Uruk = 우루크
   Uruk period = 우루크 시대
   West Africa = 서아프리카
-  Writing = 문자
   ancient Near East = 고대 근동
   cradle of civilization = 문명의 요람
   late antiquity = 고대 후기
@@ -764,7 +743,6 @@ Mystery novel by [[Agatha Christie]], first published in 1939. It is the world�
 HEADWORD: Andalusia = 안달루시아
 LEVEL: 4
 GLOSSARY:
-  Agriculture = 농업
   Al-Andalus = 알안달루스
   Almería = 알메리아
   Castile = 카스티야
@@ -956,7 +934,6 @@ GLOSSARY:
   Labour = 노동당
   Labour Party = 노동당
   Norway = 노르웨이
-  Norwegian = 노르웨이어
   Oslo = 오슬로
   Party = 파티
   Progress = 『프로그레스』
@@ -1064,7 +1041,6 @@ The Andes are an orogenic belt along the Pacific [[Ring of Fire]], raised during
 HEADWORD: Andhra Pradesh = 안드라프라데시주
 LEVEL: 4
 GLOSSARY:
-  Agriculture = 농업
   Amaravati = 아마라바티
   Andhra Pradesh = 안드라프라데시주
   Andhra State = 안드라주
@@ -1109,7 +1085,6 @@ GLOSSARY:
   Principality of Catalonia = 카탈루냐 공국
   Pyrenees = 피레네산맥
   Spain = 스페인
-  Tourism = 관광
   United Nations = 국제 연합
   co-princes = 공동 대공
   count of Urgell = 우르젤 백작
@@ -1147,7 +1122,6 @@ LEVEL: 5
 GLOSSARY:
   Eighth Wonder of the World = 세계 8대 불가사의
   Fezzik = 페직
-  French = 프랑스어
   Hulk Hogan = 헐크 호건
   North America = 북아메리카
   The Princess Bride = 「프린세스 브라이드」

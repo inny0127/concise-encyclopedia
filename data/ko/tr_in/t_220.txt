@@ -21,7 +21,6 @@ LEVEL: 4
 GLOSSARY:
   Asteroid belt = 소행성대
   Earth = 지구
-  Iron = 철
   Mars = 화성
   Moon = 달
   Tunguska event = 퉁구스카 대폭발
@@ -97,9 +96,7 @@ GLOSSARY:
   Germany = 독일
   Opioid = 오피오이드
   QT interval = QT 간격
-  Taken = 「테이큰」
   United States = 미국
-  Withdrawal = 금단
   opioid use disorder = 오피오이드 사용 장애
   respiratory depression = 호흡 억제
   synthetic opioid = 합성 오피오이드
@@ -114,7 +111,6 @@ GLOSSARY:
   Attention deficit hyperactivity disorder = 주의력 결핍 과잉행동 장애
   Brain injury = 뇌 손상
   Central nervous system = 중추 신경계
-  Methamphetamine = 메스암페타민
   Psychosis = 정신증
   attention deficit hyperactivity disorder = 주의력 결핍 과잉 행동 장애
   dextro form = 우선성 이성질체
@@ -132,7 +128,6 @@ GLOSSARY:
   Combustion = 연소
   Greenhouse gas = 온실가스
   Mars = 화성
-  Methane = 메탄
   Natural gas = 천연가스
   Syngas = 합성 가스
   greenhouse gas = 온실가스
@@ -182,11 +177,9 @@ GLOSSARY:
   Methodism = 감리교
   Methodist = 감리교
   Predestination = 예정설
-  Protestant = 개신교
   Wesleyan theology = 웨슬리 신학
   World = 세계
   World Methodist Council = 세계 감리교 협의회
-  Worship = 예배
   high to low church = 고교회에서 저교회까지
   sanctification = 성화
   soup kitchens = 무료 급식소
@@ -248,7 +241,6 @@ HEADWORD: Methylene blue = 메틸렌 블루
 LEVEL: 5
 GLOSSARY:
   Caro = 캐로
-  Chloride = 염화 이온
   Dye = 염료
   Heinrich Caro = 하인리히 카로
   Hemoglobin = 헤모글로빈
@@ -364,7 +356,6 @@ GLOSSARY:
   Newton (unit) = 뉴턴
   SI = 국제단위계
   Second = 초
-  Today = 「투데이」
   United States = 미국
   ampere = 암페어
   base units = 기본 단위
@@ -680,7 +671,6 @@ GLOSSARY:
   Congress of the Union = 연방 의회
   Constitution = 헌법
   Guatemala = 과테말라
-  Human = 인간
   Independence = 인디펜던스
   Latin = 라틴어
   Latin America = 라틴아메리카
@@ -697,7 +687,6 @@ GLOSSARY:
   North American Free Trade Agreement = 북미 자유 무역 협정
   Olmecs = 올멕인
   Porfirio Díaz = 포르피리오 디아스
-  Poverty = 빈곤
   Purépecha = 푸레페차인
   Second = 초
   Second Mexican Empire = 멕시코 제2제국
@@ -787,8 +776,6 @@ GLOSSARY:
   Gambling = 도박
   Havana = 아바나
   Italian-American = 이탈리아계 미국인
-  Luciano = 루치아노
-  Lucky = 럭키
   Lucky Luciano = 러키 루치아노
   National Crime Syndicate = 전국 범죄 신디케이트
   Organized crime = 조직범죄
@@ -863,7 +850,6 @@ GLOSSARY:
   Testarossa = 테스타로사
   Theft = 절도
   Thomas = 토머스
-  Vice = 「바이스」
   Vice City = 바이스 시티
   police procedurals = 경찰 수사물
 ENTRY:
@@ -875,9 +861,7 @@ LEVEL: 4
 GLOSSARY:
   Calcium = 칼슘
   Granite = 화강암
-  Mica = 운모
   Mineral = 광물
-  Muscovite = 모스크바 대공국
   Potassium = 칼륨
   Schist = 편암
   Sedimentary rock = 퇴적암

@@ -9,7 +9,6 @@ GLOSSARY:
   Foundation sires = 기초 종마
   Godolphin = 고돌핀
   Godolphin Arabian = 고돌핀 아라비안
-  Horse = 말
   Selective breeding = 선택 교배
   Thoroughbred = 서러브레드
   West Asia = 서아시아
@@ -69,7 +68,6 @@ During the Middle Ages, Arabic was a major vehicle of culture and learning, espe
 HEADWORD: Arabic alphabet = 아랍 문자
 LEVEL: 5
 GLOSSARY:
-  Abjad = 아브자드
   Arabic = 아랍어
   abjad = 아브자드
   consonantal alphabet = 자음 문자
@@ -88,10 +86,8 @@ GLOSSARY:
   Arabic = 아랍어
   Islamic Golden Age = 이슬람 황금기
   Islamic literature = 이슬람 문학
-  Literature = 문학
   Naguib Mahfouz = 나기브 마푸즈
   Pre-Islamic poetry = 이슬람 이전 시
-  Prose = 산문
   Quran = 쿠란
   adab = 아다브
 ENTRY:
@@ -112,7 +108,6 @@ GLOSSARY:
   Iberia = 이베리아
   Islamic Iberia = 이슬람 이베리아
   Lute = 류트
-  Music = 음악
   Musical instrument = 악기
   Pre-Islamic Arabia = 이슬람 이전 아라비아
   Safi al-Din = 사피 알딘
@@ -201,7 +196,6 @@ GLOSSARY:
   Somali = 소말리어
   Urdu = 우르두어
   Uyghur = 위구르어
-  Writing = 문자
   Writing system = 문자 체계
 ENTRY:
 Writing system used for Arabic and several other languages of Asia and Africa. It was first used for Arabic texts, including the [[Quran]], and spread with Islam to languages such as Persian, [[Urdu]], [[Pashto]], Uyghur, Kurdish, Malay, Indonesian and Somali. It is the second most widely used alphabetic writing system in the world, after the [[Latin script]]. Written from right to left in a cursive style, it has no capital letters, and most letters take different shapes depending on their position in a word. Most letters transcribe consonants, so many Arabic-script alphabets are abjads. The script descends from the [[Aramaic]] alphabet through the Nabataean script, whose cursive form gradually became the Arabic alphabet. It is the basis of Arabic calligraphy.
@@ -265,8 +259,6 @@ LEVEL: 4
 GLOSSARY:
   Anthurium = 안투리움
   Beetle = 딱정벌레
-  Family = 가족
-  Flowers = 「Flowers」
   Monocotyledon = 외떡잎식물
   New World = 신대륙
   Old World = 구세계
@@ -446,10 +438,8 @@ Curved vertical structure spanning an open space underneath it. Arches may suppo
 HEADWORD: Archaea = 고균
 LEVEL: 3
 GLOSSARY:
-  Archaea = 고균
   Bacteria = 세균
   Carl Woese = 칼 우즈
-  Energy = 에너지
   Eukarya = 진핵생물역
   Eukaryote = 진핵생물
   Extremophile = 극한 생물
@@ -498,7 +488,6 @@ GLOSSARY:
   Burial = 매장
   Nabonidus = 나보니두스
   Remote sensing = 원격 탐사
-  Research = 연구
   Stratigraphy = 층서학
   archaeological context = 고고학적 맥락
   development-led excavation = 구제 발굴
@@ -515,7 +504,6 @@ HEADWORD: Archaeology = 고고학
 LEVEL: 3
 GLOSSARY:
   Anthropology = 인류학
-  Archaeology = 고고학
   Babylon = 바빌론
   Chinese epigraphy = 중국 금석학
   Cyriacus of Ancona = 안코나의 치리아코
@@ -567,7 +555,6 @@ GLOSSARY:
   Late Jurassic = 후기 쥐라기
   Limestone = 석회암
   On the Origin of Species = 『종의 기원』
-  Recent = 현세
   Solnhofen = 졸른호펜
   Species = 종
   dromaeosaurid = 드로마이오사우루스과
@@ -637,7 +624,6 @@ GLOSSARY:
   Hadean = 명왕누대
   Photosynthesis = 광합성
   Proterozoic = 원생누대
-  Second = 초
   continental crust = 대륙 지각
   geologic eons = 누대
   microbial mats = 미생물 매트
@@ -661,7 +647,6 @@ GLOSSARY:
   Gunpowder = 화약
   Latin = 라틴어
   Sibudu Cave = 시부두 동굴
-  Sport = 스포츠
   Welsh longbow = 웨일스 장궁
   composite bow = 합성궁
   spear-thrower = 투창기
@@ -750,9 +735,7 @@ GLOSSARY:
   Arctic Archipelago = 북극 제도
   Canadian = 캐나다
   Canadian Arctic Archipelago = 캐나다 북극 제도
-  Chain = 사슬
   Continental shelf = 대륙붕
-  Coral = 산호
   Coral cay = 산호섬
   Finland = 핀란드
   Hawaiian = 하와이어
@@ -782,7 +765,6 @@ ENTRY:
 HEADWORD: Architectural engineering = 건축공학
 LEVEL: 4
 GLOSSARY:
-  Discipline = 「디시플린」
   Interior design = 실내 디자인
   Lighting = 조명
   Plumbing = 배관
@@ -826,7 +808,6 @@ GLOSSARY:
   Gothic = 고딕
   Gothic architecture = 고딕 건축
   Göbekli Tepe = 괴베클리 테페
-  John = 존
   John Ruskin = 존 러스킨
   Latin = 라틴어
   Le Corbusier = 르코르뷔지에
@@ -905,7 +886,6 @@ GLOSSARY:
   Assyrians = 아시리아인
   Babylon = 바빌론
   Babylonians = 바빌로니아인
-  Brick = 벽돌
   Euphrates = 유프라테스강
   Lebanon = 레바논
   Sumer = 수메르
@@ -941,8 +921,6 @@ GLOSSARY:
   Arctic Circle = 북극권
   Arctic Ocean = 북극해
   Arctic fox = 북극여우
-  Average = 평균
-  Canada = 캐나다
   Circle = 원
   Danish = 덴마크어
   Danish Realm = 덴마크 왕국
@@ -959,8 +937,6 @@ GLOSSARY:
   Nunavut = 누나부트
   Ocean = 대양
   Permafrost = 영구 동토층
-  Precipitation = 강수
-  Russia = 러시아
   Sea ice = 해빙
   Svalbard = 스발바르 제도
   Sweden = 스웨덴

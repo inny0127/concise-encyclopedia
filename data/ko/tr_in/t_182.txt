@@ -67,11 +67,9 @@ LEVEL: 4
 GLOSSARY:
   Dr. Welch's Unfermented Wine = 웰치 박사의 무발효 와인
   Fermentation = 발효
-  Grape = 포도
   Italy = 이탈리아
   James = 야고보
   James Lind = 제임스 린드
-  Juice = 주스
   Merchant Shipping Act 1867 = 1867년 상선법
   Pasteurization = 저온 살균
   Scurvy = 괴혈병
@@ -120,7 +118,6 @@ GLOSSARY:
   Chinese date = 중국 대추
   Indian jujube = 인도대추
   Linnaeus = 린네
-  Tree = 나무
   buckthorn family = 갈매나무과
   red date = 홍조
 ENTRY:
@@ -155,7 +152,6 @@ GLOSSARY:
   Earth = 지구
   Europe = 유럽
   France = 프랑스
-  French = 프랑스어
   Nantes = 낭트
   Pierre-Jules Hetzel = 피에르쥘 에첼
   Science fiction = 과학 소설
@@ -247,7 +243,6 @@ HEADWORD: Assange, Julian = 어산지, 줄리언
 LEVEL: 5
 GLOSSARY:
   Afghanistan = 아프가니스탄
-  Australian = 오스트레일리아
   Chelsea = 첼시
   Chelsea Manning = 첼시 매닝
   Ecuadorian embassy = 에콰도르 대사관
@@ -443,7 +438,6 @@ GLOSSARY:
   African socialism = 아프리카 사회주의
   Arusha Declaration = 아루샤 선언
   China = 중국
-  Father = 아버지
   Father of the Nation = 국부
   Gandhi = 「간디」
   Idi Amin = 이디 아민
@@ -500,7 +494,6 @@ GLOSSARY:
   Monarchy = 군주제
   Orléans = 오를레앙
   Revolution of 1848 = 1848년 혁명
-  Second = 초
   cadet branch = 분가
   les Trois Glorieuses = 영광의 3일
   popular sovereignty = 국민 주권
@@ -531,9 +524,7 @@ GLOSSARY:
   Arthropod = 절지동물
   Hyllus giganteus = 힐루스 기간테우스
   Salticidae = 깡충거미과
-  Silk = 비단
   Species = 종
-  Spider = 거미
   anterior median pair = 전중안
 ENTRY:
 Spider of the family Salticidae, the largest spider family, with almost 700 genera and around 7,000 described [[Species|species]]. Jumping spiders have some of the best vision among [[Arthropod|arthropods]] and use sight in courtship, hunting and navigation. Most species move unobtrusively but can make agile jumps, especially when hunting or escaping sudden threats. All have four pairs of eyes, and the large anterior median pair provides detailed vision that helps the spider aim its leaps. They are generally recognized by their eye pattern. Silk safety lines anchor them while they jump, and they build silken "pup tents" for shelter, where they molt and store egg cases. Body length generally ranges from 1 to 25 mm (0.04–0.98 in), and the largest species is *Hyllus giganteus*.
@@ -562,11 +553,9 @@ GLOSSARY:
   Antarctica = 남극 대륙
   Carl Linnaeus = 칼 폰 린네
   Flowering plant = 속씨식물
-  Genus = 속
   Juncaceae = 골풀과
   Linnaeus = 린네
   Monocotyledon = 외떡잎식물
-  Research = 연구
   Species = 종
   Species Plantarum = 『식물의 종』
   flowering plants = 속씨식물
@@ -602,7 +591,6 @@ GLOSSARY:
   Hindustani = 힌두스탄어
   Jungle = 정글
   Mangrove = 맹그로브
-  Monsoon = 계절풍
   Monsoon forests = 몬순림
   Rainforest = 우림
   Sanskrit = 산스크리트어
@@ -617,7 +605,6 @@ Land covered with dense forest and tangled vegetation, usually in [[Tropical cli
 HEADWORD: Juniper = 향나무속
 LEVEL: 4
 GLOSSARY:
-  Genus = 속
   Gymnosperm = 겉씨식물
   Himalayas = 히말라야산맥
   Northern Hemisphere = 북반구
@@ -740,7 +727,6 @@ GLOSSARY:
   H. L. A. Hart = H. L. A. 하트
   Hans Kelsen = 한스 켈젠
   Law = 법
-  Philosophy = 철학
   case law = 판례법
   civil law = 대륙법
   legal positivism = 법실증주의
@@ -819,7 +805,6 @@ GLOSSARY:
   Billboard = 『빌보드』
   Billboard 200 = 빌보드 200
   Billboard Hot 100 = 빌보드 핫 100
-  Canadian = 캐나다
   Grammy = 그래미상
   Grammy Awards = 그래미상
   My World = 『마이 월드』
@@ -850,7 +835,6 @@ GLOSSARY:
   Mouse = 생쥐
   My Love = 「마이 러브」
   NSYNC = 엔싱크
-  Prince = 후작
   Prince of Pop = 팝의 왕자
   SexyBack = 「섹시백」
   Star = 항성
@@ -865,7 +849,6 @@ HEADWORD: Trudeau, Justin = 트뤼도, 쥐스탱
 LEVEL: 5
 GLOSSARY:
   Canada = 캐나다
-  Canadian = 캐나다
   Liberal = 자유당
   Liberal Party = 자유당
   Paris = 파리
@@ -919,7 +902,6 @@ HEADWORD: Liebig, Justus von = 리비히, 유스투스 폰
 LEVEL: 4
 GLOSSARY:
   Fertilizer = 비료
-  German = 독일어
   Liebig Extract of Meat Company = 리비히 육즙 회사
   Liebig condenser = 리비히 냉각기
   Meat = 고기

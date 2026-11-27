@@ -47,7 +47,6 @@ First worldwide intergovernmental organization, founded in 1920 to maintain worl
 HEADWORD: Leaning Tower of Pisa = 피사의 사탑
 LEVEL: 4
 GLOSSARY:
-  Construction = 건설
   Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   Italy = 이탈리아
@@ -83,7 +82,6 @@ HEADWORD: Leap year = 윤년
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Calendar = 달력
   Gregorian = 그레고리력
   Gregorian calendar = 그레고리력
   Julian = 율리우스력
@@ -111,19 +109,15 @@ GLOSSARY:
   B. F. Skinner = B. F. 스키너
   Behaviorism = 행동주의
   Habituation = 습관화
-  Human = 인간
   Ivan Pavlov = 이반 파블로프
   John = 존
   John B. Watson = 존 B. 왓슨
-  Learning = 학습
   Lev Vygotsky = 레프 비고츠키
   Memory = 기억
   Non-associative learning = 비연합 학습
   Pavlov = 파블로프
   Pedagogy = 교육학
   Play (activity) = 놀이
-  Skinner = 스키너
-  Watson = 왓슨
   classical conditioning = 고전적 조건 형성
   cognitive science = 인지 과학
   educational psychology = 교육 심리학
@@ -146,12 +140,10 @@ Researchers distinguish several kinds. Non-associative learning is a relatively 
 HEADWORD: Learning disability = 학습 장애
 LEVEL: 4
 GLOSSARY:
-  Brain = 뇌
   DSM-5 = DSM-5
   Dyscalculia = 난산증
   Dyslexia = 난독증
   Intellectual disability = 지적 장애
-  Learning = 학습
   United Kingdom = 영국
   dysgraphia = 난서증
   intellectual disability = 지적 장애
@@ -187,7 +179,6 @@ GLOSSARY:
   Leather = 가죽
   Pickling = 절임
   Tannin = 타닌
-  Vegetable = 채소
   Vegetable tanning = 식물성 무두질
   collagen = 콜라겐
   crusting = 크러스팅
@@ -203,7 +194,6 @@ LEVEL: 4
 GLOSSARY:
   Abraham = 아브라함
   Abraham Lincoln = 에이브러햄 링컨
-  Poetry = 시
   Ralph Waldo Emerson = 랠프 월도 에머슨
   The Poet = 「시인」
   Walt Whitman = 월트 휘트먼
@@ -416,7 +406,6 @@ GLOSSARY:
   Hirudo medicinalis = 의료용 거머리
   Medicine = 의학
   Osteoarthritis = 골관절염
-  Today = 「투데이」
   anticoagulant = 항응고제
   epicondylitis = 상과염
   hematophagous = 흡혈성
@@ -543,7 +532,6 @@ GLOSSARY:
   Han Fei = 한비
   Han dynasty = 한나라
   Legalist = 법가
-  Legalists = 법가
   Mohists = 묵가
   Qin dynasty = 진나라
   Shang Yang = 상앙
@@ -560,7 +548,6 @@ GLOSSARY:
   Brothers Grimm = 그림 형제
   Folklore = 민속
   French = 프랑스어
-  Genre = 장르
   Latin = 라틴어
   Medieval Latin = 중세 라틴어
   Miracle = 기적
@@ -581,8 +568,6 @@ GLOSSARY:
   Folklore = 민속
   Griffin = 그리핀
   Minotaur = 미노타우로스
-  Others = 아더
-  Supernatural = 초자연
   Tartary = 타타리
   Unicorn = 유니콘
   Vegetable = 채소
@@ -598,7 +583,6 @@ GLOSSARY:
   American Legion = 미국 재향 군인회
   Antibiotic = 항생제
   Cooling tower = 냉각탑
-  Infection = 감염
   Legionella = 레지오넬라균
   Legionella pneumophila = 레지오넬라 뉴모필라
   Philadelphia = 필라델피아
@@ -653,7 +637,6 @@ GLOSSARY:
   Fabaceae = 콩과
   Lentil = 렌즈콩
   Pea = 완두
-  Plant = 식물
   crop rotation = 윤작
   green manure = 녹비
   pulses = 콩류
@@ -668,7 +651,6 @@ LEVEL: 5
 GLOSSARY:
   Anglo-Saxons = 앵글로색슨족
   Battle of Bosworth = 보즈워스 전투
-  City = 도시
   East Midlands = 이스트미들랜즈
   England = 잉글랜드
   House of Lancaster = 랭커스터 왕가
@@ -678,7 +660,6 @@ GLOSSARY:
   Leicestershire = 레스터셔
   Midlands = 미들랜즈
   Ratae Corieltauvorum = 라타이 코리엘타우보룸
-  Richard = 리처드
   Richard III = 리처드 3세
   Simon de Montfort = 시몽 드 몽포르
   Victorian = 빅토리아 시대
@@ -715,9 +696,7 @@ Norse explorer, thought to have been the first European to set foot on continent
 HEADWORD: Leipzig = 라이프치히
 LEVEL: 5
 GLOSSARY:
-  Bach = 바흐
   Church = 처치
-  City = 도시
   Europe = 유럽
   Felix Mendelssohn = 펠릭스 멘델스존
   Germany = 독일
@@ -742,7 +721,6 @@ LEVEL: 4
 GLOSSARY:
   Great Britain = 그레이트브리튼
   Human = 인간
-  Leisure = 여가
   Recreation = 레크리에이션
   Rights = 인권
   Thorstein Veblen = 소스타인 베블런
@@ -781,11 +759,9 @@ GLOSSARY:
   Italy = 이탈리아
   James = 야고보
   James Lind = 제임스 린드
-  Lemon = 레몬
   Mexico = 멕시코
   Rutaceae = 운향과
   Scurvy = 괴혈병
-  World = 세계
   bitter orange = 광귤
   lemonade = 레모네이드
   vitamin C = 비타민 C
@@ -816,13 +792,11 @@ GLOSSARY:
   Arctic = 북극
   Arctic Ocean = 북극해
   Far East = 극동
-  Gold = 금
   Laptev = 랍테프
   Laptev Sea = 랍테프해
   Lena = 레나강
   Ocean = 대양
   Permafrost = 영구 동토층
-  River = 강
   Russia = 러시아
   Russian = 러시아어
   Russian Far East = 러시아 극동

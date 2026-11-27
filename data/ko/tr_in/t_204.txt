@@ -14,7 +14,6 @@ GLOSSARY:
   Mississippi River = 미시시피강
   New Orleans = 뉴올리언스
   River = 강
-  Sediment = 퇴적물
   Spain = 스페인
   U.S. state = 미국의 주
   United States = 미국
@@ -36,7 +35,6 @@ GLOSSARY:
   New Orleans = 뉴올리언스
   Robert R. Livingston = 로버트 R. 리빙스턴
   Saint-Domingue = 생도맹그
-  Thomas = 토머스
   Thomas Jefferson = 토머스 제퍼슨
   United States = 미국
 ENTRY:
@@ -127,12 +125,10 @@ GLOSSARY:
   Bertrand Russell = 버트런드 러셀
   Dopamine = 도파민
   Europe = 유럽
-  Love = 사랑
   Lust = 욕정
   Mania = 조증
   Middle Ages = 중세
   Oxytocin = 옥시토신
-  Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
   agape = 아가페
   codependency = 공동 의존
@@ -379,7 +375,6 @@ GLOSSARY:
   César Award for Best Director = 세자르상 감독상
   Dogman = 「도그맨」
   EuropaCorp = 유로파코프
-  French = 프랑스어
   La Femme Nikita = 「니키타」
   Lucy = 「루시」
   Pierre-Ange Le Pogam = 피에르앙주 르포감
@@ -499,10 +494,8 @@ GLOSSARY:
   Hinduism = 힌두교
   Lakshmi = 락슈미
   Philosophical naturalism = 철학적 자연주의
-  Polytheistic = 다신교
   Rome = 로마
   Sacrifice = 희생 제의
-  Supernatural = 초자연
   Superstition = 미신
   ancient Rome = 고대 로마
 ENTRY:
@@ -580,7 +573,6 @@ GLOSSARY:
   On the Nature of Things = 『사물의 본성에 관하여』
   Pierre Gassendi = 피에르 가상디
   Poggio Bracciolini = 포조 브라촐리니
-  Titus = 티투스
   Titus Lucretius Carus = 티투스 루크레티우스 카루스
   Virgil = 베르길리우스
   atomism = 원자론
@@ -610,7 +602,6 @@ GLOSSARY:
   Rosemead = 「로즈미드」
   Sherlock = 「셜록」
   Sherlock Holmes = 셜록 홈스
-  Volume = 부피
   Walk of Fame = 명예의 거리
   Watson = 왓슨
 ENTRY:
@@ -635,7 +626,6 @@ GLOSSARY:
   Lucy in the Sky with Diamonds = 「루시 인 더 스카이 위드 다이아몬즈」
   Museum = 박물관
   Natural History = 『박물지』
-  Pamela = 『파멜라』
   Pamela Alderman = 패멀라 올더먼
   The Beatles = 비틀스
   hominin = 호미닌
@@ -660,7 +650,6 @@ HEADWORD: Ludhiana = 루디아나
 LEVEL: 4
 GLOSSARY:
   BBC = BBC
-  City = 도시
   Delhi = 델리
   Delhi Sultanate = 델리 술탄국
   India = 인도
@@ -670,7 +659,6 @@ GLOSSARY:
   Lodi = 로디 왕조
   Lodi dynasty = 로디 왕조
   Lodi-ana = 로디아나
-  Ludhiana = 루디아나
   Manchester = 맨체스터
   Mughal = 무굴
   Punjab = 펀자브
@@ -766,7 +754,6 @@ GLOSSARY:
   Fidelio = 「피델리오」
   Fifth Symphonies = 교향곡 제5번
   First Symphony = 교향곡 제1번
-  German = 독일어
   Große Fuge = 「대푸가」
   Hammerklavier = 「함머클라비어」
   Haydn = 하이든
@@ -914,7 +901,6 @@ GLOSSARY:
   Palme d'Or = 황금종려상
   Salvador = 사우바도르
   Salvador Dalí = 살바도르 달리
-  Seven = 「세븐」
   Surrealism = 초현실주의
   The Discreet Charm of the Bourgeoisie = 「부르주아의 은밀한 매력」
   Un Chien Andalou = 「안달루시아의 개」

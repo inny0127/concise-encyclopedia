@@ -78,7 +78,6 @@ GLOSSARY:
   Saint Petersburg = 상트페테르부르크
   Swedish = 스웨덴어
   Table of Ranks = 관등표
-  Tsar = 차르
   tsardom = 차르국
 ENTRY:
 Tsar of Russia (1682–1721) and first emperor of Russia (1721–25). He reigned jointly with his brother, Ivan V, until Ivan's death in 1696. Much of his reign was consumed by wars against the Ottoman and Swedish empires. After victory in the [[Great Northern War]], Russia annexed a significant part of the eastern Baltic coastline and was officially raised from a tsardom to an empire. He introduced the [[Julian calendar]] in December 1699 and the first Russian newspaper in 1703. On the shores of the [[Neva|Neva River]] he founded [[Saint Petersburg]], which replaced [[Moscow]] as the capital in 1712 and retained that status until 1918. His administrative reforms, including the Governing Senate (1711), the Collegium (1717) and the Table of Ranks (1722), had a lasting impact. He is primarily credited with modernizing the country, though his reforms were largely imposed from above.
@@ -100,7 +99,6 @@ GLOSSARY:
   Nabataean Kingdom = 나바테아 왕국
   Nabataeans = 나바테아인
   Romans = 로마인
-  Rose = 장미
   Rose City = 장미 도시
   Sandstone = 사암
   UNESCO = 유네스코
@@ -225,13 +223,11 @@ Quasi-solid mixture of [[Hydrocarbon|hydrocarbons]], also called petrolatum, use
 HEADWORD: Petrology = 암석학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Geology = 지질학
   Granite = 화강암
   Magma = 마그마
   Marble = 대리석
   Mineralogy = 광물학
-  Petrology = 암석학
   Stratigraphy = 층서학
   basalt = 현무암
   gneiss = 편마암
@@ -254,7 +250,6 @@ GLOSSARY:
   Armand Peugeot = 아르망 푸조
   Automobiles Peugeot = 오토모빌 푸조
   European Car of the Year = 유럽 올해의 차
-  French = 프랑스어
   Indianapolis = 인디애나폴리스
   Indianapolis 500 = 인디애나폴리스 500
   Le Mans = 르망
@@ -276,10 +271,8 @@ GLOSSARY:
   Europe = 유럽
   Lead = 납
   Middle Ages = 중세
-  Pewter = 백랍
   Porcelain = 자기
   Tin = 주석
-  Today = 「투데이」
   bismuth = 비스무트
 ENTRY:
 Malleable metal [[Alloy|alloy]] traditionally of [[Tin|tin]] and as much as 40% [[Lead|lead]]. Modern pewter replaces lead with [[Antimony|antimony]] (approximately 5–10%), copper (2%), bismuth and sometimes silver, and it melts at around 170–230 °C. The earliest known piece was found in an Egyptian tomb, dated to c. 1450 BC. Pewter was a leading material for plates, cups and bowls in Europe from the Middle Ages until the wide adoption of [[Porcelain|porcelain]] and glass. Today it is used mainly for decorative objects, collectible statuettes, replica coins and jewelry.
@@ -376,10 +369,8 @@ HEADWORD: Pharmacokinetics = 약동학
 LEVEL: 4
 GLOSSARY:
   ADME = ADME
-  Branch = 브랜치
   Cosmetics = 화장품
   Liver = 간
-  Metabolism = 물질대사
   Pesticide = 농약
   Pharmacokinetics = 약동학
   Pharmacology = 약리학
@@ -498,7 +489,6 @@ GLOSSARY:
   Allotropy = 동소체
   Boiling point = 끓는점
   Curie point = 퀴리점
-  Physical = 「Physical」
   crystal structure = 결정 구조
   ferromagnetic = 강자성
   paramagnetic = 상자성
@@ -570,7 +560,6 @@ GLOSSARY:
   Epoxy = 에폭시
   Explosive = 폭발물
   Nylon = 나일론
-  Phenol = 페놀
   Polycarbonate = 폴리카보네이트
   carbolic acid = 석탄산
   coal tar = 콜타르
@@ -667,7 +656,6 @@ LEVEL: 5
 GLOSSARY:
   Bill Bowerman = 빌 바워먼
   Forbes = 『포브스』
-  Knight = 기사
   Laika = 라이카
   Nike, Inc. = 나이키
   Oregon = 오리건주
@@ -708,7 +696,6 @@ HEADWORD: Philadelphia = 필라델피아
 LEVEL: 4
 GLOSSARY:
   American Revolution = 미국 독립 혁명
-  City = 도시
   Continental Army = 대륙군
   Continental Congresses = 대륙 회의
   Declaration of Independence = 독립 선언

@@ -181,7 +181,6 @@ LEVEL: 4
 GLOSSARY:
   DNA = DNA
   Down syndrome = 다운 증후군
-  Human = 인간
   Meiosis = 감수 분열
   Microscope = 현미경
   Recombination = 재조합
@@ -231,7 +230,6 @@ LEVEL: 4
 GLOSSARY:
   Bede = 베다
   Christian era = 서력기원
-  Chronology = 연대학
   Dionysius Exiguus = 디오니시우스 엑시구스
   Earth = 지구
   Geologic time scale = 지질 시대
@@ -257,9 +255,7 @@ GLOSSARY:
   Big Bang = 빅뱅
   Cosmic inflation = 우주 급팽창
   Cosmic microwave background = 우주 마이크로파 배경
-  Gravity = 중력
   Helium = 헬륨
-  History = 역사학
   Hydrogen = 수소
   Lithium = 리튬
   Physical cosmology = 물리 우주론
@@ -282,7 +278,6 @@ GLOSSARY:
   East Asia = 동아시아
   Edo period = 에도 시대
   Europe = 유럽
-  Genus = 속
   Heian periods = 헤이안 시대
   Japan = 일본
   Nara = 나라 시대
@@ -321,7 +316,6 @@ HEADWORD: Berry, Chuck = 베리, 척
 LEVEL: 4
 GLOSSARY:
   Beethoven = 베토벤
-  Father = 아버지
   Father of Rock and Roll = 로큰롤의 아버지
   Johnny B. Goode = 「조니 비 굿」
   Mann Act = 맨법
@@ -364,7 +358,6 @@ GLOSSARY:
   Brazilian jiu-jitsu = 브라질리언 주짓수
   Bruce Lee = 이소룡
   CBS = CBS
-  Cannon = 대포
   Cannon Films = 캐넌 필름스
   Chuck Norris = 척 노리스
   Chuck Norris facts = 척 노리스 팩트
@@ -467,7 +460,6 @@ LEVEL: 4
 GLOSSARY:
   Altar = 제단
   Ancient Greek = 고대 그리스어
-  Building = 건물
   Constantine the Great = 콘스탄티누스 1세
   Dura-Europos house church = 두라에우로포스 가정 교회
   Europe = 유럽
@@ -509,7 +501,6 @@ GLOSSARY:
   Prayer = 기도
   Reformation = 종교 개혁
   Supreme Governor = 최고 수장
-  Thomas = 토머스
   Thomas Cranmer = 토머스 크랜머
   United Kingdom = 영국
   via media = 중도(via media)
@@ -527,7 +518,6 @@ GLOSSARY:
   Church of the Anastasis = 아나스타시스 교회
   City = 도시
   Constantine the Great = 콘스탄티누스 1세
-  Control = 「Control」
   Crucifixion of Jesus = 예수의 십자가형
   Crusaders = 십자군
   Greek Orthodox = 그리스 정교회
@@ -568,7 +558,6 @@ GLOSSARY:
   China = 중국
   Cicadoidea = 매미상과
   Hemiptera = 노린재목
-  Insect = 곤충
   Magicicada = Magicicada
   Malaysia = 말레이시아
   Mexico = 멕시코
@@ -656,13 +645,11 @@ GLOSSARY:
   Alcoholic beverage = 주류
   Apple = 사과
   Britain = 브리타니아
-  Cider = 사과주
   England = 잉글랜드
   Ireland = 아일랜드
   New England = 뉴잉글랜드
   North America = 북아메리카
   Prohibition = 금주법 시대
-  Sugar = 설탕
   Temperance Movement = 금주 운동
   United States = 미국
   Virginia = 버지니아
@@ -678,10 +665,8 @@ LEVEL: 4
 GLOSSARY:
   Cancer = 암
   Chronic obstructive pulmonary disease = 만성 폐쇄성 폐질환
-  Cigarette = 궐련
   Electronic cigarette = 전자 담배
   Nicotine = 니코틴
-  Smoking = 흡연
   carcinogens = 발암 물질
   chronic obstructive pulmonary disease = 만성 폐쇄성 폐질환
   psychoactive drug = 향정신성 약물
@@ -696,7 +681,6 @@ GLOSSARY:
   Balantidium coli = Balantidium coli
   Ciliophora = 섬모충문
   Protist = 원생생물
-  Reproduction = 생식
   binary fission = 이분법
   cilia = 섬모
   commensal = 편리공생
@@ -715,7 +699,6 @@ GLOSSARY:
   Bengals = 벵골스
   Cincinnati = 신시내티
   Cincinnati Reds = 신시내티 레즈
-  City = 도시
   Court = 법원
   Court of Appeals = 항소 법원
   Hamilton County = 해밀턴 카운티
@@ -724,7 +707,6 @@ GLOSSARY:
   National Football League = 내셔널 풋볼 리그
   Ohio = 오하이오주
   Ohio River = 오하이오강
-  Paris = 파리
   Paris of America = 미국의 파리
   River = 강
   Underground = 『언더그라운드』
@@ -780,7 +762,6 @@ GLOSSARY:
   Cultural Revolution = 문화 대혁명
   Dingjun Mountain = 「정군산」
   Fifth Generation = 제5세대
-  Film = 영화
   Hong Kong = 홍콩
   Mountain = 산
   National Radio and Television Administration = 국가광파전시총국
@@ -840,7 +821,6 @@ GLOSSARY:
   Kannada = 칸나다어
   Kolkata = 콜카타
   Malayalam = 말라얄람어
-  Motion = 운동
   Mumbai = 뭄바이
   Raja = 라자
   Raja Harishchandra = 「라자 하리시찬드라」
@@ -923,7 +903,6 @@ GLOSSARY:
   Jazz = 재즈
   MGM = MGM
   Martin Scorsese = 마틴 스코세이지
-  Motion = 운동
   New Hollywood = 뉴 할리우드
   New York City = 뉴욕
   Orson Welles = 오슨 웰스

@@ -6,7 +6,6 @@ GLOSSARY:
   Central nervous system = 중추 신경계
   French = 프랑스어
   Jean-Martin Charcot = 장마르탱 샤르코
-  Life = 『라이프』
   Life expectancy = 기대 수명
   Lumbar puncture = 요추 천자
   Magnetic resonance imaging = 자기 공명 영상
@@ -26,13 +25,11 @@ GLOSSARY:
   Ancient Egypt = 고대 이집트
   Ancient Egyptians = 고대 이집트인
   Arabic = 아랍어
-  Arithmetic = 산술
   Brahmagupta = 브라마굽타
   Commutative property = 교환 법칙
   Division (mathematics) = 나눗셈
   Integer = 정수
   Matrix (mathematics) = 행렬
-  Multiplication = 곱셈
   Rational number = 유리수
   Real number = 실수
   factors = 인수
@@ -67,7 +64,6 @@ LEVEL: 5
 GLOSSARY:
   Central limit theorem = 중심 극한 정리
   Normal distribution = 정규 분포
-  Probability = 확률
   Probability distribution = 확률 분포
   Random variable = 확률 변수
   covariance matrix = 공분산 행렬
@@ -101,7 +97,6 @@ GLOSSARY:
   Bombay = 봄베이
   Brihanmumbai Municipal Corporation = 브리한뭄바이 시 당국
   Catherine = 예카테리나 1세
-  City = 도시
   Cotton = 목화
   Crown = 영국 왕실
   Delhi = 델리
@@ -136,7 +131,6 @@ HEADWORD: Mumbai Metro = 뭄바이 메트로
 LEVEL: 5
 GLOSSARY:
   Blue Line = 블루 라인
-  Construction = 건설
   India = 인도
   Maharashtra = 마하라슈트라주
   Mumbai = 뭄바이
@@ -237,11 +231,9 @@ GLOSSARY:
   1972 Summer Olympics = 1972년 하계 올림픽
   Black = 검은색
   Black September = 검은 9월단
-  Eight = 「에잇」
   Fürstenfeldbruck Air Base = 퓌르스텐펠트브루크 공군 기지
   German = 독일어
   Germany = 독일
-  Israel = 이스라엘
   Lufthansa = 루프트한자
   Lufthansa Flight 615 = 루프트한자 615편
   Mossad = 모사드
@@ -296,7 +288,6 @@ GLOSSARY:
   Electron = 전자
   Lepton = 렙톤
   Meson = 중간자
-  Muon = 뮤온
   Neutrino = 중성미자
   Seth Neddermeyer = 세스 네더마이어
   Weak interaction = 약한 상호작용
@@ -314,7 +305,6 @@ HEADWORD: Muqaddimah = 역사서설
 LEVEL: 4
 GLOSSARY:
   Arabic = 아랍어
-  Book = 책
   Demography = 인구학
   Historiography = 사학사
   Ibn Khaldun = 이븐 할둔
@@ -340,7 +330,6 @@ GLOSSARY:
   Latin = 라틴어
   Mexican muralism = 멕시코 벽화 운동
   Mosaic = 모자이크
-  Mural = 벽화
   Paleolithic = 구석기 시대
   Pompeii = 폼페이
   Upper Paleolithic = 후기 구석기 시대
@@ -432,7 +421,6 @@ GLOSSARY:
   Murmansk Oblast = 무르만스크주
   North Atlantic = 북대서양
   North Atlantic Current = 북대서양 해류
-  Port = 항구
   Russia = 러시아
   World = 세계
   World War I = 제1차 세계 대전
@@ -485,7 +473,6 @@ GLOSSARY:
   Murray Mouth = 머리강 하구
   New South Wales = 뉴사우스웨일스주
   Ocean = 대양
-  River = 강
   South Australia = 사우스오스트레일리아주
   South Wales = 사우스웨일스
   Southern Ocean = 남극해
@@ -709,7 +696,6 @@ GLOSSARY:
   Ancient Greek = 고대 그리스어
   French = 프랑스어
   French Revolution = 프랑스 혁명
-  Institution = 제도
   Latin = 라틴어
   Louvre = 루브르 박물관
   Musaeum = 무세이온
@@ -856,8 +842,6 @@ GLOSSARY:
   Country music = 컨트리 음악
   Franco = 프랑코
   Franco Fabbri = 프랑코 파브리
-  Fusion = 퓨전
-  Genre = 장르
   Jazz = 재즈
   Music = 음악
   art music = 예술 음악
@@ -919,7 +903,6 @@ HEADWORD: Music of China = 중국 음악
 LEVEL: 4
 GLOSSARY:
   Against Music = 『비악』
-  Bone = 뼈
   China = 중국
   Confucius = 공자
   Flute = 피리
@@ -950,7 +933,6 @@ GLOSSARY:
   Music theory = 음악 이론
   Musicology = 음악학
   Scale (music) = 음계
-  Teaching = 교수
   United States = 미국
   consonance and dissonance = 협화음과 불협화음
   key signatures = 조표

@@ -11,7 +11,6 @@ GLOSSARY:
   North America = 북아메리카
   Samuel Taylor Coleridge = 새뮤얼 테일러 콜리지
   Scotland = 스코틀랜드
-  Scottish = 스코틀랜드
   South America = 남아메리카
   Tam Lin = 「탬 린」
   Thomas = 토머스
@@ -29,7 +28,6 @@ LEVEL: 4
 GLOSSARY:
   Académie Royale de Danse = 왕립 무용 아카데미
   Anna Pavlova = 안나 파블로바
-  Ballet = 발레
   Ballets Russes = 발레 뤼스
   Catherine = 예카테리나 1세
   Catherine de' Medici = 카트린 드 메디시스
@@ -79,7 +77,6 @@ Ancient projectile weapon, sometimes called a bolt thrower. It developed from ea
 HEADWORD: Ballistics = 탄도학
 LEVEL: 4
 GLOSSARY:
-  Ballistics = 탄도학
   Galileo = 갈릴레오
   Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
@@ -151,7 +148,6 @@ GLOSSARY:
   Baloch Liberation Army = 발루치스탄 해방군
   Baloch insurgency = 발루치 반군
   Baloch people = 발루치족
-  Balochistan = 발루치스탄
   Iran = 이란
   Pakistan = 파키스탄
 ENTRY:
@@ -251,7 +247,6 @@ GLOSSARY:
   Museum = 박물관
   Natural History = 『박물지』
   Nome = 놈
-  Siberian = 시베리아
   Siberian husky = 시베리안 허스키
   Vaudeville = 보드빌
   serum run to Nome = 놈 혈청 수송
@@ -314,7 +309,6 @@ HEADWORD: Bamboo = 대나무
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Bamboo = 대나무
   Bambusa tulda = Bambusa tulda
   Bangladesh = 방글라데시
   Composite material = 복합 재료
@@ -339,7 +333,6 @@ HEADWORD: Banana = 바나나
 LEVEL: 4
 GLOSSARY:
   Australia = 오스트레일리아
-  Bananas = 『바나나스』
   Berry (botany) = 장과
   Cavendish = 캐번디시
   China = 중국
@@ -353,7 +346,6 @@ GLOSSARY:
   Musa acuminata = 무사 아쿠미나타
   Musa balbisiana = 무사 발비시아나
   New Guinea = 뉴기니섬
-  Panama = 파나마
   Panama disease = 파나마병
   Western world = 서양
   black sigatoka = 흑색 시가토카병
@@ -393,7 +385,6 @@ National park and [[World Heritage Site|World Heritage Site]] on the west coast 
 HEADWORD: Bandage = 붕대
 LEVEL: 4
 GLOSSARY:
-  Adhesive = 접착제
   Scouting = 스카우트 운동
   Scouting movement = 스카우트 운동
   cravat bandage = 크라바트 붕대
@@ -445,11 +436,9 @@ GLOSSARY:
   Canadian Pacific Railway = 캐나다 태평양 철도
   Columbia = 컬럼비아
   Columbia Icefield = 컬럼비아 대빙원
-  Construction = 건설
   Glacier = 빙하
   Indigenous = 원주민
   Indigenous peoples = 원주민
-  Mammals = 포유류
   Pacific = 태평양
   Parks Canada = 캐나다 국립공원청
   Rockies = 로키산맥
@@ -486,7 +475,6 @@ GLOSSARY:
   Mongkut = 몽꿋
   Palace = 궁전
   Phutthayotfa Chulalok = 풋타욧파 쭐라록
-  Rama = 라마
   Rama I = 라마 1세
   Rattanakosin Island = 라따나꼬신섬
   Red-light district = 홍등가
@@ -597,7 +585,6 @@ GLOSSARY:
   Brazzaville = 브라자빌
   Catholic = 가톨릭
   Central African Republic = 중앙아프리카 공화국
-  City = 도시
   Congo = 콩고
   Democratic = 민주당
   Democratic Republic of the Congo = 콩고 민주 공화국
@@ -758,7 +745,6 @@ Pseudonymous England-based street artist, political activist and film director. 
 HEADWORD: Banshee = 밴시
 LEVEL: 5
 GLOSSARY:
-  Female = 암컷
   Gaelic = 게일
   Ireland = 아일랜드
   Irish = 아일랜드어
@@ -797,7 +783,6 @@ GLOSSARY:
   Democratic = 민주당
   Democratic Republic of the Congo = 콩고 민주 공화국
   East African Community = 동아프리카 공동체
-  Language = 언어
   Language family = 어족
   Niger-Congo = 니제르콩고어족
   Republic of the Congo = 콩고 공화국
@@ -899,7 +884,6 @@ GLOSSARY:
   Cocktail = 칵테일
   Europe = 유럽
   Prohibition = 금주법 시대
-  Retail = 소매
   United States = 미국
   liquor = 증류주
   pub = 펍
@@ -961,7 +945,6 @@ LEVEL: 4
 GLOSSARY:
   Antilles = 앤틸리스 제도
   Atlantic Ocean = 대서양
-  Barbados = 바베이도스
   Bridgetown = 브리지타운
   British Empire = 대영 제국
   Caribbean = 카리브 지역
@@ -973,7 +956,6 @@ GLOSSARY:
   Slavery = 노예제
   Slavery Abolition Act = 노예제 폐지법
   Slavery Abolition Act 1833 = 1833년 노예제 폐지법
-  Tourism = 관광
   West Indies = 서인도 제도
 ENTRY:
 Island nation in the [[Lesser Antilles]] of the West Indies, in the [[Atlantic Ocean]] (pop., 2024: 304,139). It is the southernmost and easternmost island of the [[Caribbean]] region, and its capital and largest city is Bridgetown. Spanish navigators claimed the island in the late 15th century, and English settlers arrived in 1627, after which it became an English and later British colony with a plantation economy. Slavery continued until it was phased out through most of the [[British Empire]] by the Slavery Abolition Act 1833; the descendants of enslaved Africans now account for over 90% of the population. Barbados became independent on 30 November 1966 as a monarchy within the [[Commonwealth of Nations]], with [[Elizabeth II]] as queen. On 30 November 2021 it became a parliamentary republic. Tourism and international financial services drive its economy, which has diversified from sugar production.

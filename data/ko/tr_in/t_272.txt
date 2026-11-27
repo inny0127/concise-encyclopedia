@@ -28,10 +28,8 @@ GLOSSARY:
   Atmosphere = 기압
   Atmospheric pressure = 기압
   Bar (unit) = 바
-  Force = 힘
   Newton (unit) = 뉴턴
   Pascal (unit) = 파스칼
-  Pressure = 압력
   SI unit = SI 단위
   gauge pressure = 계기 압력
   hydrostatic pressure = 정수압
@@ -58,7 +56,6 @@ GLOSSARY:
   Rights = 인권
   Talmudic = 탈무드
   Universal Declaration of Human Rights = 세계 인권 선언
-  William = 윌리엄
   William Blackstone = 윌리엄 블랙스톤
   beyond a reasonable doubt = 합리적 의심의 여지가 없는
   burden of proof = 입증 책임
@@ -119,10 +116,8 @@ Application of healthcare measures to prevent the occurrence of disease, also ca
 HEADWORD: Price = 가격
 LEVEL: 4
 GLOSSARY:
-  Adam = 아담
   Adam Smith = 애덤 스미스
   Currency = 통화
-  Milton = 밀턴
   Milton Friedman = 밀턴 프리드먼
   air miles = 항공 마일리지
   diamond-water paradox = 다이아몬드-물의 역설
@@ -145,10 +140,8 @@ GLOSSARY:
   Jane Austen = 제인 오스틴
   Longbourn = 롱번
   Mr. Darcy = 다아시
-  Novel = 소설
   Novel of manners = 풍속 소설
   Prejudice = 편견
-  Pride = 프라이드
   Pride and Prejudice = 『오만과 편견』
   entailed = 한사 상속
   to = 도(都)
@@ -224,8 +217,6 @@ GLOSSARY:
   Linnaeus = 린네
   Madame Berthe's mouse lemur = 베르테쥐여우원숭이
   Mammal = 포유류
-  Primates = 영장목
-  Reliance = 릴라이언스
   Sense of smell = 후각
   apes = 유인원
   eastern gorilla = 동부고릴라
@@ -299,7 +290,6 @@ GLOSSARY:
   Prime number theorem = 소수 정리
   Public-key cryptography = 공개 키 암호 방식
   Sieve of Eratosthenes = 에라토스테네스의 체
-  Trial = 재판
   composite = 합성수
   natural numbers = 자연수
   number theory = 수론
@@ -328,14 +318,11 @@ GLOSSARY:
   Charles Jean de la Vallée Poussin = 샤를 장 드 라 발레 푸생
   Gauss = 가우스
   Hadamard = 아다마르
-  Jacques = 자크 퀴리
   Jacques Hadamard = 자크 아다마르
-  Legendre = 르장드르
   Peter Gustav Lejeune Dirichlet = 페터 구스타프 르죈 디리클레
   Prime number = 소수
   Riemann = 리만
   Riemann zeta function = 리만 제타 함수
-  Theorem = 정리
   positive integers = 양의 정수
   prime-counting function = 소수 계량 함수
   to = 도(都)
@@ -348,9 +335,7 @@ LEVEL: 4
 GLOSSARY:
   Angiosperm Phylogeny Group = 속씨식물 계통 분류 그룹
   Ericales = 진달래목
-  Family = 가족
   Flowering plant = 속씨식물
-  Flowers = 「Flowers」
   Leaf = 잎
   Primulales = 앵초목
   Primuloideae = 앵초아과
@@ -522,7 +507,6 @@ GLOSSARY:
   Fields Medalists = 필즈상 수상자
   Ivy League = 아이비리그
   Jersey = 저지섬
-  Nassau = 나소
   Nassau Hall = 나소 홀
   New Jersey = 뉴저지주
   Nobel laureates = 노벨상 수상자
@@ -554,11 +538,9 @@ GLOSSARY:
   Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Einstein = 아인슈타인
-  Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   General relativity = 일반 상대성 이론
   Maxwell's equations = 맥스웰 방정식
-  Physics = 물리학
   Special relativity = 특수 상대성 이론
   classical mechanics = 고전 역학
   general relativity = 일반 상대성 이론
@@ -578,7 +560,6 @@ GLOSSARY:
   Copper = 구리
   England = 잉글랜드
   Epoxy = 에폭시
-  German = 독일어
   PCBs = 폴리염화바이페닐(PCB)
   Paul = 바울로
   Paul Eisler = 파울 아이슬러
@@ -595,7 +576,6 @@ LEVEL: 4
 GLOSSARY:
   3D printing = 3D 프린팅
   Charles Babbage = 찰스 배비지
-  Computer = 컴퓨터
   Difference Engine = 차분 기관
   Engine = 기관
   IBM = IBM
@@ -631,11 +611,9 @@ GLOSSARY:
   Islamic world = 이슬람 세계
   Jikji = 『직지』
   Johannes Gutenberg = 요하네스 구텐베르크
-  Korea = 한국
   Library = 도서관
   Movable type = 활자
   Northern Song = 북송
-  Printing = 인쇄
   Renaissance = 르네상스
   Scientific Revolution = 과학 혁명
   Sutra = 경장
@@ -666,11 +644,9 @@ HEADWORD: Printing press = 인쇄기
 LEVEL: 4
 GLOSSARY:
   Europe = 유럽
-  German = 독일어
   Gutenberg = 구텐베르크
   Johannes Gutenberg = 요하네스 구텐베르크
   Latin = 라틴어
-  Machine = 기계
   Martin Luther = 마르틴 루터
   Reformation = 종교 개혁
   Scientific Revolution = 과학 혁명
@@ -716,9 +692,7 @@ GLOSSARY:
   Nobel Prize in Physiology or Medicine = 노벨 생리학·의학상
   Physiology = 생리학
   Physiology or Medicine = 생리학·의학
-  Prion = 프라이온
   RNA = RNA
-  Stanley = 스탠리
   Stanley Prusiner = 스탠리 프루시너
   Virus = 바이러스
   bovine spongiform encephalopathy = 소해면상뇌증
@@ -788,7 +762,6 @@ Person held captive by a belligerent power during or immediately after an armed 
 HEADWORD: Prisoner's dilemma = 죄수의 딜레마
 LEVEL: 5
 GLOSSARY:
-  Albert = 앨버트
   Albert W. Tucker = 앨버트 W. 터커
   Cooperation = 협력
   Flood = 홍수
@@ -801,7 +774,6 @@ GLOSSARY:
   RAND = 랜드 연구소
   RAND Corporation = 랜드 연구소
   Thought experiment = 사고 실험
-  Tucker = 「터커」
 ENTRY:
 Thought experiment in [[Game theory]] in which two rational agents may cooperate for mutual benefit or defect for individual gain. Defecting is rational for each agent, yet mutual [[Cooperation|cooperation]] yields a higher payoff for each. The puzzle was designed by Merrill Flood and Melvin Dresher in 1950 at the RAND Corporation. Albert W. Tucker later framed the rewards as prison sentences and named the game. Cooperation can emerge in repeated interactions, an insight John Nash anticipated. The label is applied to any situation in which coordination is difficult but both sides would gain from it.
 
@@ -906,7 +878,6 @@ Privacy overlaps with but differs from [[Security|security]]: information securi
 HEADWORD: Private network = 사설 네트워크
 LEVEL: 5
 GLOSSARY:
-  Computer = 컴퓨터
   Computer network = 컴퓨터 네트워크
   IP address = IP 주소
   IPv4 = IPv4

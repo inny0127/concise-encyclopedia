@@ -62,18 +62,14 @@ Artisan-like figure in [[Plato|Platonic]] and Neoplatonic philosophy, responsibl
 HEADWORD: Democracy = 민주주의
 LEVEL: 3
 GLOSSARY:
-  Abraham = 아브라함
   Abraham Lincoln = 에이브러햄 링컨
   Athens = 아테네
-  Citizenship = 시민권
   Civil liberties = 시민적 자유
   Classical Athens = 고전기 아테네
   Constitution = 헌법
   Democracy = 민주주의
   Democracy Index = 민주주의 지수
-  Democratic = 민주당
   Freedom of speech = 표현의 자유
-  Government = 정부
   Human rights = 인권
   Rule of law = 법치주의
   Suffrage = 참정권
@@ -102,7 +98,6 @@ GLOSSARY:
   Climate change = 기후 변화
   Franklin D. Roosevelt = 프랭클린 D. 루스벨트
   Great Depression = 대공황
-  Liberal = 자유당
   New Deal = 뉴딜
   Party = 파티
   Republican Party = 공화당
@@ -128,12 +123,10 @@ GLOSSARY:
   Félix Tshisekedi = 펠릭스 치세케디
   Human = 인간
   Human Development Index = 인간 개발 지수
-  Independence = 인디펜던스
   Joseph Kabila = 조제프 카빌라
   Kingdom of Kongo = 콩고 왕국
   Kinshasa = 킨샤사
   Laurent-Désiré Kabila = 로랑데지레 카빌라
-  Leopold = 레오폴트
   Leopold II of Belgium = 레오폴드 2세
   Mobutu Sese Seko = 모부투 세세 세코
   Patrice Lumumba = 파트리스 루뭄바
@@ -185,7 +178,6 @@ HEADWORD: Democratic socialism = 민주 사회주의
 LEVEL: 5
 GLOSSARY:
   Capitalism = 자본주의
-  Democratic = 민주당
   Social democracy = 사회 민주주의
   Socialism = 사회주의
   Soviet Union = 소련
@@ -235,9 +227,7 @@ LEVEL: 4
 GLOSSARY:
   Abrahamic = 아브라함계
   Abrahamic religions = 아브라함계 종교
-  Belief = 믿음
   Christianity = 기독교
-  Demons = 『악령』
   Devil = 악마
   Folklore = 민속
   Paleolithic = 구석기 시대
@@ -317,7 +307,6 @@ LEVEL: 4
 GLOSSARY:
   China = 중국
   Cultural Revolution = 문화 대혁명
-  Following = 「미행」
   Hong Kong = 홍콩
   Macau = 마카오
   Mao Zedong = 마오쩌둥
@@ -349,7 +338,6 @@ GLOSSARY:
   Climate change = 기후 변화
   Iberian = 이베리아
   Iberian Peninsula = 이베리아반도
-  Infection = 감염
   Peninsula = 반도
   United States = 미국
   antibody-dependent enhancement = 항체 의존성 증강
@@ -379,7 +367,6 @@ GLOSSARY:
   Catholic = 가톨릭
   Catholic Church = 가톨릭교회
   Church = 처치
-  Diderot = 디드로
   Encyclopédie = 『백과전서』
   Enlightenment = 계몽주의
   French = 프랑스어
@@ -401,7 +388,6 @@ GLOSSARY:
   Cave = 동굴
   Denisova Cave = 데니소바 동굴
   Denisovan = 데니소바인
-  Denisovans = 데니소바인
   Filipino = 필리핀어
   Filipino Negritos = 필리핀 네그리토
   Harbin = 하얼빈
@@ -536,7 +522,6 @@ GLOSSARY:
   Alloy = 합금
   Archimedes = 아르키메데스
   Buoyancy = 부력
-  Density = 밀도
   Osmium = 오스뮴
   Relative density = 상대 밀도
   intensive property = 세기 성질
@@ -569,7 +554,6 @@ HEADWORD: Dentistry = 치의학
 LEVEL: 4
 GLOSSARY:
   AIDS = 에이즈
-  Branch = 브랜치
   Cancer = 암
   Dentures = 의치
   Diabetes = 당뇨병
@@ -592,7 +576,6 @@ GLOSSARY:
   Candida albicans = 칸디다 알비칸스
   Denture stomatitis = 의치성 구내염
   Dentures = 의치
-  Mouth = 입
   Self-esteem = 자존감
   Tooth = 치아
   Tooth decay = 충치
@@ -610,7 +593,6 @@ GLOSSARY:
   City = 도시
   Colorado = 콜로라도주
   Creek = 크리크족
-  Denver = 덴버
   Fortune 500 = 포춘 500
   Front Range = 프런트산맥
   Front Range Urban Corridor = 프런트산맥 도시 회랑
@@ -618,7 +600,6 @@ GLOSSARY:
   James = 야고보
   James W. Denver = 제임스 W. 덴버
   Kansas = 캔자스주
-  Mile = 마일
   Mile High City = 마일 하이 시티
   River = 강
   Rocky Mountains = 로키산맥
@@ -656,12 +637,10 @@ American actor and film producer. He first came to prominence in the [[NBC]] med
 HEADWORD: Deontology = 의무론
 LEVEL: 4
 GLOSSARY:
-  Broad = 브로드강
   C. D. Broad = C. D. 브로드
   Ethics = 윤리학
   Five Types of Ethical Theory = 『윤리학의 다섯 가지 유형』
   Immanuel Kant = 이마누엘 칸트
-  Kant = 칸트
   Theory = 이론
   Utilitarianism = 공리주의
   categorical imperative = 정언 명령
@@ -724,7 +703,6 @@ GLOSSARY:
   Richard = 리처드
   Richard Wagner = 리하르트 바그너
   Siegfried = 「지크프리트」
-  Twilight = 박명
   Valkyrie = 발키리
   Wagner = 바그너
 ENTRY:

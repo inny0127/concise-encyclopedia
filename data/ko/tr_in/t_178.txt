@@ -77,7 +77,6 @@ GLOSSARY:
   Harpers Ferry = 하퍼스페리
   Kansas = 캔자스주
   Pottawatomie massacre = 포타와토미 학살
-  Seven = 「세븐」
   Virginia = 버지니아주
   abolitionist = 노예제 폐지론자
   evangelical = 복음주의
@@ -116,7 +115,6 @@ GLOSSARY:
   Catholic Church = 가톨릭교회
   Church = 처치
   France = 프랑스
-  French = 프랑스어
   Geneva = 제네바
   Institutes = 『법학제요』
   Institutes of the Christian Religion = 『기독교 강요』
@@ -149,7 +147,6 @@ GLOSSARY:
   Canadian = 캐나다
   Canadian Bacon = 「캐나디안 베이컨」
   Canadian Football League = 캐나디안 풋볼 리그
-  Candy = 사탕
   City = 도시
   Football = 축구
   Football League = 풋볼 리그
@@ -239,7 +236,6 @@ GLOSSARY:
   Basil of Caesarea = 카이사레아의 바실리오스
   Catholic = 가톨릭
   Christianity = 기독교
-  Church = 처치
   Church Father = 교부
   Constantinople = 콘스탄티노폴리스
   Diodorus of Tarsus = 타르수스의 디오도로스
@@ -413,7 +409,6 @@ LEVEL: 4
 GLOSSARY:
   A New System of Chemical Philosophy = 『화학철학의 새로운 체계』
   Atom = 원자
-  Building = 건물
   Color blindness = 색맹
   Dalton's law = 돌턴의 법칙
   Daltonism = 돌터니즘
@@ -587,7 +582,6 @@ GLOSSARY:
   JetBlue = 제트블루
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   New York City = 뉴욕
   New York International Airport = 뉴욕 국제공항
   New York metropolitan area = 뉴욕 대도시권
@@ -614,7 +608,6 @@ GLOSSARY:
   German = 독일어
   Harvey = 하비
   Invasion = 침략
-  Kennedy = 케네디
   Lee Harvey Oswald = 리 하비 오즈월드
   Massachusetts = 매사추세츠주
   Missile = 미사일
@@ -669,7 +662,6 @@ GLOSSARY:
   Academy Awards = 아카데미상
   Akira Kurosawa = 구로사와 아키라
   Best Director = 감독상
-  Ford = 포드
   Frank = 프랭크
   Frank Capra = 프랭크 캐프라
   Golden Age of Hollywood = 할리우드 황금기
@@ -734,7 +726,6 @@ GLOSSARY:
   Paul Castellano = 폴 카스텔라노
   Salvatore Gravano = 살바토레 그라바노
   Springfield = 스프링필드
-  Teflon = 테플론
   Teflon Don = 테플론 돈
   United States = 미국
   crime syndicate = 범죄 조직
@@ -883,7 +874,6 @@ GLOSSARY:
   Khmelnytsky Uprising = 흐멜니츠키 봉기
   King of Poland = 폴란드 국왕
   Kraków = 크라쿠프
-  Lion = 사자
   Lion of Lechistan = 레히스탄의 사자
   Lithuania = 리투아니아
   Lithuanian = 리투아니아
@@ -894,7 +884,6 @@ GLOSSARY:
   Poland = 폴란드
   Polish–Lithuanian Commonwealth = 폴란드-리투아니아 연방
   Russo-Polish War = 러시아-폴란드 전쟁
-  Suffering = 고통
   Swedish = 스웨덴어
   Vienna = 빈
   Wawel Cathedral = 바벨 대성당
@@ -911,21 +900,17 @@ GLOSSARY:
   AEF = 미국 원정군
   American Expeditionary Forces = 미국 원정군
   Argonne = 아르곤
-  Black = 검은색
   Black Jack = 블랙 잭
   Douglas = 더글러스
   Douglas MacArthur = 더글러스 맥아더
   Dwight D. Eisenhower = 드와이트 D. 아이젠하워
-  Eisenhower = 아이젠하워
   Ferdinand = 페르디난트
   Ferdinand Foch = 페르디낭 포슈
   French = 프랑스어
   General of the Armies = 대원수
   George C. Marshall = 조지 C. 마셜
   George S. Patton = 조지 S. 패튼
-  Marshall = 마셜 제도
   Meuse-Argonne Offensive = 뫼즈-아르곤 공세
-  Patton = 「패튼 대전차 군단」
   U.S. Army = 미국 육군
   United States = 미국
   United States Army = 미국 육군
@@ -972,9 +957,7 @@ GLOSSARY:
   Pre-Raphaelite movement = 라파엘전파 운동
   Romantic = 낭만주의
   Rome = 로마
-  Today = 「투데이」
   Tuberculosis = 결핵
-  Writing = 문자
   canon = 카논
   odes = 송가
 ENTRY:
@@ -997,7 +980,6 @@ GLOSSARY:
   John = 존
   John F. Kennedy = 존 F. 케네디
   John Maynard Keynes = 존 메이너드 케인스
-  Johnson = 존슨
   Kennedy = 케네디
   Lyndon B. Johnson = 린든 B. 존슨
   Medal of Freedom = 자유 훈장

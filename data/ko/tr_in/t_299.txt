@@ -11,7 +11,6 @@ GLOSSARY:
   Georges Auguste Escoffier = 조르주 오귀스트 에스코피에
   Latin = 라틴어
   Le Guide Culinaire = 『요리 안내서』
-  Liquid = 액체
   Mayonnaise = 마요네즈
   Romans = 로마인
   Soy sauce = 간장
@@ -98,7 +97,6 @@ HEADWORD: Bellow, Saul = 벨로, 솔
 LEVEL: 4
 GLOSSARY:
   Book = 책
-  Canadian = 캐나다
   Chicago = 시카고
   Christopher Hitchens = 크리스토퍼 히친스
   Fiction = 픽션
@@ -178,12 +176,10 @@ GLOSSARY:
   Food preservation = 식품 보존
   Homer = 호메로스
   Latin = 라틴어
-  Meat = 고기
   Odyssey = 『오디세이아』
   Pork = 돼지고기
   Poultry = 가금
   Romans = 로마인
-  Sausage = 소시지
   Vulgar = 속(俗)
   Vulgar Latin = 속라틴어
   blood sausage = 블러드 소시지
@@ -227,7 +223,6 @@ GLOSSARY:
   American Revolution = 미국 독립 혁명
   Atlanta = 애틀랜타
   Chatham County = 채텀 카운티
-  City = 도시
   Civil War = 남북 전쟁
   Georgia (U.S. state) = 조지아주
   James = 야고보
@@ -286,7 +281,6 @@ LEVEL: 4
 GLOSSARY:
   Australia = 오스트레일리아
   Endangered species = 멸종 위기종
-  Family = 가족
   Florida = 플로리다주
   Northern Australia = 북오스트레일리아
   Saw = 톱
@@ -339,7 +333,6 @@ GLOSSARY:
   Dresden = 드레스덴
   East Germany = 동독
   Electorate and Kingdom of Saxony = 작센 선제후국과 작센 왕국
-  Following = 「미행」
   German = 독일어
   German reunification = 독일 재통일
   Germany = 독일
@@ -393,7 +386,6 @@ GLOSSARY:
   Jazz = 재즈
   Rock and roll = 로큰롤
   Single-reed = 싱글 리드
-  Sound = 소리
   Woodwind instrument = 목관 악기
   alto = 알토 색소폰
   baritone = 바리톤
@@ -436,7 +428,6 @@ GLOSSARY:
   Mite = 진드기
   Public health = 공중 보건
   Sarcoptes scabiei var. hominis = 사람옴진드기
-  Scabies = 옴
   Tropical climate = 열대 기후
   permethrin = 퍼메트린
 ENTRY:
@@ -469,7 +460,6 @@ Temporary structure used to support workers and materials during the constructio
 HEADWORD: Scale insect = 깍지벌레
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Amber = 호박
   Ant = 개미
   Citrus = 감귤류
@@ -496,7 +486,6 @@ LEVEL: 4
 GLOSSARY:
   Cub Scouts = 컵 스카우트
   Engineering = 공학
-  Physical = 「Physical」
   Pine = 소나무
   Pinewood Derby = 파인우드 더비
   Rail transport = 철도 운송
@@ -530,11 +519,9 @@ HEADWORD: Scale = 비늘
 LEVEL: 4
 GLOSSARY:
   Chitin = 키틴
-  Fish = 어류
   Lepidoptera = 나비목
   Leptoid scales = 박판비늘
   Placoid scales = 방패비늘
-  Reptile = 파충류
   Shark = 상어
   Skin = 피부
   Stingray = 노랑가오리
@@ -584,7 +571,6 @@ GLOSSARY:
   Scandinavian = 스칸디나비아
   Scandinavian Peninsula = 스칸디나비아반도
   Sweden = 스웨덴
-  Today = 「투데이」
   Viking = 바이킹
   Viking Age = 바이킹 시대
 ENTRY:
@@ -603,7 +589,6 @@ GLOSSARY:
   Galdhøpiggen = 갈회피겐산
   Halti = 할티산
   Kebnekaise = 케브네카이세산
-  Mountain = 산
   Mountain range = 산맥
   North Sea = 북해
   Northern Europe = 북유럽
@@ -624,7 +609,6 @@ HEADWORD: Scandinavian literature = 스칸디나비아 문학
 LEVEL: 4
 GLOSSARY:
   A Doll's House = 『인형의 집』
-  Danish = 덴마크어
   Duck = 오리
   Eddic poems = 에다 시
   Europe = 유럽
@@ -665,7 +649,6 @@ GLOSSARY:
   Periodic table = 주기율표
   Rare-earth element = 희토류 원소
   Scandinavia = 스칸디나비아
-  Scandium = 스칸듐
   Yttrium = 이트륨
   chemical element = 화학 원소
   d-block = d-구역
@@ -683,7 +666,6 @@ LEVEL: 4
 GLOSSARY:
   Ancient Egypt = 고대 이집트
   Ancient Rome = 고대 로마
-  Croatian = 크로아티아어
   Egypt = 이집트
   Empress Josephine = 조제핀 황후
   France = 프랑스
@@ -761,10 +743,8 @@ GLOSSARY:
   Radar = 레이더
   Rutherford = 러더퍼드
   S-matrix = S 행렬
-  Scattering = 산란
   Scattering theory = 산란 이론
   Werner Heisenberg = 베르너 하이젠베르크
-  William = 윌리엄
   William Herschel = 윌리엄 허셜
   X-ray = 엑스선
   X-rays = 엑스선
@@ -779,7 +759,6 @@ Range of physical processes in which moving particles or radiation are deflected
 HEADWORD: Scavenger = 청소동물
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Burying beetles = 송장벌레
   Hyena = 하이에나
   Jackal = 자칼
@@ -868,7 +847,6 @@ GLOSSARY:
   Metamorphic rock = 변성암
   Mica = 운모
   Quartz = 석영
-  Schist = 편암
   Shale = 셰일
   Tuff = 응회암
   chlorite = 녹니석
@@ -896,7 +874,6 @@ Condition marked by extreme asociality, emotional coldness and detachment, along
 HEADWORD: Schizophrenia = 조현병
 LEVEL: 4
 GLOSSARY:
-  Average = 평균
   Cannabis (drug) = 대마
   Clozapine = 클로자핀
   Delusion = 망상
@@ -912,7 +889,6 @@ HEADWORD: Schizotypal personality disorder = 조현형 성격장애
 LEVEL: 5
 GLOSSARY:
   Anxiety = 불안
-  DSM-5 = DSM-5
   Diagnostic and Statistical Manual = 정신질환 진단 및 통계 편람
   ICD-11 = ICD-11
   Mental disorder = 정신 질환

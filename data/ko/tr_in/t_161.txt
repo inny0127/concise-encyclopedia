@@ -177,7 +177,6 @@ GLOSSARY:
   Ohio = 오하이오주
   Streamy Awards = 스트리미 어워드
   Warner Records = 워너 레코드
-  World = 세계
   World Cup = 월드컵
   Year = 해
   YouTube = 유튜브
@@ -192,7 +191,6 @@ GLOSSARY:
   IPad = 아이패드
   IPhone = 아이폰
   IPod = 아이팟
-  Media = 메디아
   Music = 음악
   Windows = 윈도우
   iTunes Store = 아이튠즈 스토어
@@ -228,7 +226,6 @@ GLOSSARY:
   Book of Changes = 『역경』
   Buddhism = 불교
   Confucianism = 유교
-  Divination = 점술
   Far East = 극동
   Five Classics = 오경
   Taoism = 도교
@@ -297,7 +294,6 @@ GLOSSARY:
   John = 존
   John F. Kennedy = 존 F. 케네디
   John F. Kennedy Library = 존 F. 케네디 도서관
-  Kennedy = 케네디
   Laboratory = 실험실
   Library = 도서관
   Louvre = 루브르 박물관
@@ -395,7 +391,6 @@ English actor known for Shakespearean stage roles and fantasy films. Widely cons
 HEADWORD: Ibadan = 이바단
 LEVEL: 4
 GLOSSARY:
-  City = 도시
   Global Network of Learning Cities = 학습 도시 국제 네트워크
   Ibadan = 이바단
   Ibadan Republic = 이바단 공화국
@@ -403,7 +398,6 @@ GLOSSARY:
   Network = 「네트워크」
   Nigeria = 나이지리아
   Oyo State = 오요주
-  Today = 「투데이」
   UNESCO = 유네스코
   UNESCO Global Network of Learning Cities = 유네스코 학습 도시 국제 네트워크
   University = 대학
@@ -470,7 +464,6 @@ GLOSSARY:
   Formentera = 포르멘테라섬
   Iberian = 이베리아
   Iberian Peninsula = 이베리아반도
-  Ibiza = 이비사섬
   Mediterranean = 지중해
   Mediterranean Sea = 지중해
   Peninsula = 반도
@@ -689,7 +682,6 @@ GLOSSARY:
   List of Essential Medicines = 필수 의약품 목록
   Liver = 간
   Myocardial infarction = 심근 경색
-  NSAID = NSAID
   Nonsteroidal anti-inflammatory drug = 비스테로이드 항염증제
   Nottingham = 노팅엄
   Pregnancy = 임신
@@ -734,7 +726,6 @@ GLOSSARY:
   Ice sheet = 빙상
   Mineral = 광물
   Precipitation = 강수
-  Solid = 고체
   crystal structure = 결정 구조
   grounded ice = 착저빙
   hail = 우박

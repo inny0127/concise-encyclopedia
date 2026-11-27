@@ -47,7 +47,6 @@ GLOSSARY:
   Lao Dan = 노담
   Lao Tzu = 노자
   Laojun = 노군
-  Laozi = 노자
   Li Er = 이이
   Shiji = 『사기』
   Sima Qian = 사마천
@@ -107,7 +106,6 @@ GLOSSARY:
   Mariana Islands = 마리아나 제도
   Melanesia = 멜라네시아
   Nagsabaran = 나그사바란
-  Neolithic = 신석기 시대
   New Caledonia = 누벨칼레도니
   Pacific = 태평양
   Papuan = 파푸아인
@@ -166,7 +164,6 @@ GLOSSARY:
   Differential equation = 미분 방정식
   Fourier = 푸리에
   Fourier transform = 푸리에 변환
-  Integral = 적분
   Integral transform = 적분 변환
   Pierre-Simon Laplace = 피에르시몽 라플라스
   differential equations = 미분 방정식
@@ -186,8 +183,6 @@ GLOSSARY:
   China = 중국
   Europe = 유럽
   Germany = 독일
-  Lard = 라드
-  Leaf = 잎
   Leaf lard = 리프 라드
   North America = 북아메리카
   Pastry = 페이스트리
@@ -255,7 +250,6 @@ GLOSSARY:
   Small intestine = 소장
   Tetrapod = 사지동물
   Vitamin = 비타민
-  Water = 물
   anal canal = 항문관
   bacteria = 세균
   cecum = 맹장
@@ -327,7 +321,6 @@ LEVEL: 5
 GLOSSARY:
   All-Star = 올스타
   Basketball = 농구
-  Bird = 조류
   Boston = 보스턴
   Boston Celtics = 보스턴 셀틱스
   Dream = 꿈
@@ -389,7 +382,6 @@ GLOSSARY:
   Dallas = 댈러스
   Dallas (TV series) = 「댈러스」
   Dream = 꿈
-  Ewing = 유잉
   Fail-Safe = 「페일 세이프」
   Fort Worth = 포트워스
   Fort Worth, Texas = 텍사스주 포트워스
@@ -498,7 +490,6 @@ GLOSSARY:
   Canarian Ministry of Presidency = 카나리아 제도 대통령부
   Canary Islands = 카나리아 제도
   Christopher Columbus = 크리스토퍼 콜럼버스
-  City = 도시
   Columbus = 콜럼버스
   Gran Canaria = 그란카나리아섬
   Juan Rejón = 후안 레혼
@@ -515,7 +506,6 @@ City (pop., 2024: 383,516), capital of the [[Canary Islands]], Spain. The city l
 HEADWORD: Las Vegas = 라스베이거스
 LEVEL: 4
 GLOSSARY:
-  City = 도시
   Clark County = 클라크 카운티
   Dam = 댐
   Desert = 사막
@@ -545,7 +535,6 @@ GLOSSARY:
   Nevada = 네바다주
   Organized crime = 조직범죄
   Paradise = 패러다이스
-  Stretch = 스트레치
   Strip = 스트립
   Winchester = 윈체스터
 ENTRY:
@@ -555,7 +544,6 @@ Stretch of Las Vegas Boulevard in Clark County, Nevada, lined with resort hotels
 HEADWORD: LaserDisc = 레이저디스크
 LEVEL: 5
 GLOSSARY:
-  Analog = 『아날로그』
   Compact disc = 콤팩트디스크
   DVD = DVD
   DiscoVision = 디스코비전
@@ -577,7 +565,6 @@ LEVEL: 4
 GLOSSARY:
   ABS = ABS
   CO₂ lasers = CO₂ 레이저
-  Computer = 컴퓨터
   Laser = 레이저
   Laser cutting = 레이저 절단
   PVC = PVC
@@ -640,7 +627,6 @@ HEADWORD: Last Glacial Maximum = 최종 빙기 극대기
 LEVEL: 5
 GLOSSARY:
   Asia = 아시아
-  Average = 평균
   East Asia = 동아시아
   Europe = 유럽
   Last Glacial Period = 최종 빙기
@@ -712,7 +698,6 @@ GLOSSARY:
   Marathi = 마라티어
   Melody = 선율
   Millennium = 『Millennium』
-  Queen = 퀸
   Queen of Melody = 멜로디의 여왕
   Royal Albert Hall = 로열 앨버트 홀
   Voice of the Millennium = 천년의 목소리
@@ -798,7 +783,6 @@ GLOSSARY:
   Americas = 아메리카
   Asia = 아시아
   Australia = 오스트레일리아
-  Extinction = 멸종
   Guinea = 기니
   Human = 인간
   Megafauna = 거대 동물
@@ -828,7 +812,6 @@ GLOSSARY:
   Gibbon = 긴팔원숭이
   Islam = 이슬람교
   Judaism = 유대교
-  Justinian = 유스티니아누스
   Justinian I = 유스티니아누스 1세
   Middle Ages = 중세
   Milan = 밀라노
@@ -875,7 +858,6 @@ GLOSSARY:
   China = 중국
   Egypt = 이집트
   Industrial Revolution = 산업 혁명
-  Machine = 기계
   Petosiris = 페토시리스
   Potter's wheel = 물레
   Warring States = 전국 시대
@@ -926,7 +908,6 @@ GLOSSARY:
   Romance languages = 로망스어군
   Rome = 로마
   Terence = 테렌티우스
-  Vulgar = 속(俗)
   Vulgar Latin = 속라틴어
   Western Roman Empire = 서로마 제국
   fusional = 굴절어

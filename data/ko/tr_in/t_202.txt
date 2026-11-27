@@ -42,7 +42,6 @@ GLOSSARY:
   Arithmetica Logarithmica = 『아리트메티카 로가리트미카』
   Euler = 오일러
   Henry Briggs = 헨리 브리그스
-  John = 존
   John Napier = 존 네이피어
   Leonhard Euler = 레온하르트 오일러
   Logarithmic scales = 로그 척도
@@ -86,7 +85,6 @@ GLOSSARY:
   Aristotelian logic = 아리스토텔레스 논리학
   Aristotle = 아리스토텔레스
   Begriffsschrift = 『개념 표기법』
-  Bertrand = 버트런드호
   Bertrand Russell = 버트런드 러셀
   Deductive arguments = 연역 논증
   Deviant logics = 일탈 논리
@@ -109,7 +107,6 @@ GLOSSARY:
   Stoic logic = 스토아 논리학
   Sunday = 일요일
   The Mathematical Analysis of Logic = 『논리의 수학적 분석』
-  Today = 「투데이」
   Western world = 서양
   abductive arguments = 귀추 논증
   argumentation theory = 논증 이론
@@ -206,7 +203,6 @@ GLOSSARY:
   Civil logistics = 민간 물류
   French = 프랑스어
   Jomini = 조미니
-  Military = 군대
   Military logistics = 군사 병참
   logis = 로지
   logistique = 로지스티크
@@ -275,7 +271,6 @@ GLOSSARY:
   Cévennes = 세벤산맥
   France = 프랑스
   Gallic = 갈리아
-  Garden = 정원
   Garden of France = 프랑스의 정원
   Julius Caesar = 율리우스 카이사르
   Massif Central = 마시프상트랄
@@ -308,7 +303,6 @@ GLOSSARY:
   Hel = 헬
   Jörmungandr = 요르문간드
   Laufey = 라우페위
-  Loki = 로키
   Norse = 노르드인
   Norse mythology = 북유럽 신화
   Poetic Edda = 『운문 에다』
@@ -331,7 +325,6 @@ GLOSSARY:
   Britain = 영국
   Censorship = 검열
   Dolores Haze = 돌로레스 헤이즈
-  Fear = 공포
   French = 프랑스어
   French literature = 프랑스 문학
   Humbert Humbert = 험버트 험버트
@@ -365,7 +358,6 @@ GLOSSARY:
   Italian Peninsula = 이탈리아반도
   Italy = 이탈리아
   Liutprand = 리우트프란드
-  Lombard = 랑고바르드
   Lombardy = 롬바르디아
   Normans = 노르만인
   Pavia = 파비아
@@ -497,7 +489,6 @@ GLOSSARY:
   Detroit = 디트로이트
   Education = 교육
   Information technology = 정보 기술
-  John = 존
   John Graves Simcoe = 존 그레이브스 심코
   London = 런던
   Manufacturing = 제조업
@@ -564,7 +555,6 @@ GLOSSARY:
   City = 도시
   City and South London Railway = 시티 앤드 사우스 런던 철도
   Greater London = 그레이터런던
-  Harry = 해리
   London = 런던
   London Transport = 런던 트랜스포트
   Metropolitan Railway = 메트로폴리탄 철도
@@ -590,11 +580,9 @@ GLOSSARY:
   Exercise = 운동
   Gilgamesh = 길가메시
   Internet = 인터넷
-  Loneliness = 외로움
   Pet = 반려동물
   Substance use disorder = 물질 사용 장애
   Surgeon General = 공중보건국장
-  Therapy = 치료
   U.S. Surgeon General = 미국 공중보건국장
   Vivek Murthy = 비벡 머시
   adaptive response = 적응 면역 반응
@@ -678,7 +666,6 @@ GLOSSARY:
   Jiangxi Soviet = 장시 소비에트
   Kuomintang = 중국 국민당
   Mao Zedong = 마오쩌둥
-  Military = 군대
   Party = 파티
   Red Army = 붉은 군대
   Shaanxi = 산시성
@@ -713,12 +700,9 @@ GLOSSARY:
   Health care = 보건 의료
   Jeanne Calment = 잔 칼망
   Jiroemon Kimura = 기무라 지로에몬
-  Length = 길이
-  Life = 『라이프』
   Life expectancy = 기대 수명
   Research = 연구
   Supercentenarian = 초백세인
-  Twin = 쌍둥이
 ENTRY:
 Length of an organism's life, especially exceptional longevity in humans. [[Life expectancy]], the average number of years remaining at a given age, is a statistical measure distinct from longevity, which refers to especially long-lived members of a population. In developed countries life expectancy ranges from 77–90 years; in developing countries, from 32–80 years. Canada's was 81.29 years (2010 est.) and Mozambique's 41.37 years. Significant factors in life expectancy include gender, [[Genetics|genetics]], access to [[Health care|health care]], hygiene, diet and nutrition, exercise, and crime rates. Twin studies estimate that 20–30% of the variation in human lifespan relates to genetics. The oldest person whose age has been verified by modern documentation was [[Jeanne Calment]], who lived 122 years and 164 days. Jiroemon Kimura, who lived 116 years and 54 days, is the oldest man so verified. The Gerontology Research Group validates records and maintains a list of [[Supercentenarian|supercentenarians]].
 
@@ -733,7 +717,6 @@ GLOSSARY:
   Hipparchus = 히파르코스
   John = 존
   Latitude = 위도
-  Longitude = 경도
   Lunar eclipse = 월식
   Prime = 프라임
   Prime meridian = 본초 자오선
@@ -823,7 +806,6 @@ GLOSSARY:
   Chuck Jones = 척 존스
   Daffy Duck = 대피 덕
   Duck = 오리
-  Entertainment = 오락
   Hollywood = 할리우드
   Hollywood Walk of Fame = 할리우드 명예의 거리
   Mel Blanc = 멜 블랭크
@@ -848,7 +830,6 @@ GLOSSARY:
   Hague Conventions = 헤이그 협약
   Hurricane Katrina = 허리케인 카트리나
   Katrina = 카트리나
-  Looting = 약탈
   Napoleonic Wars = 나폴레옹 전쟁
   Natural disaster = 자연재해
   Riot = 폭동
@@ -983,7 +964,6 @@ GLOSSARY:
   Navy = 해군
   Normandy = 노르망디
   Normandy landings = 노르망디 상륙 작전
-  Novel = 소설
   Royal Navy = 영국 해군
   William = 윌리엄
   William Golding = 윌리엄 골딩

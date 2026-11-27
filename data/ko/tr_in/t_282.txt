@@ -38,7 +38,6 @@ Spanish professional [[Association football|football]] club based in [[Madrid]] 
 HEADWORD: Real analysis = 실해석학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Calculus = 미적분학
   Completeness = 완비성
   Euclidean = 유클리드
@@ -71,7 +70,6 @@ GLOSSARY:
   Louisiana Purchase = 루이지애나 매입
   Louisiana Territory = 루이지애나 영토
   National Association of Realtors = 전미 부동산 중개인 협회
-  Property = 재산
   United States = 미국
   personal property = 동산
 ENTRY:
@@ -91,8 +89,6 @@ GLOSSARY:
   Imaginary number = 허수
   Irrational number = 무리수
   Isomorphism = 동형
-  Number = 수
-  Others = 아더
   Pi = 원주율
   Rational number = 유리수
   Real analysis = 실해석학
@@ -136,10 +132,8 @@ GLOSSARY:
   Jan van Eyck = 얀 반에이크
   Jules-Antoine Castagnary = 쥘앙투안 카스타냐리
   Leon Battista Alberti = 레온 바티스타 알베르티
-  Leonardo = 레오나르도
   Leonardo da Vinci = 레오나르도 다빈치
   Michelangelo = 미켈란젤로
-  Naturalism = 자연주의
   Perspective (graphical) = 원근법
   Realism = 사실주의
   Renaissance = 르네상스
@@ -206,7 +200,6 @@ GLOSSARY:
   Game show = 게임 쇼
   Genre = 장르
   Idol = 「아이돌」
-  Others = 아더
   Survivor = 「서바이버」
   Talk show = 토크쇼
   The Real World = 「리얼 월드」
@@ -229,7 +222,6 @@ GLOSSARY:
   Logic = 논리학
   Philosophy = 철학
   Plato = 플라톤
-  Reason = 이성
   Self-determination = 자기 결정
   Western philosophy = 서양 철학
   abductive = 귀추법
@@ -286,7 +278,6 @@ GLOSSARY:
   Best Picture = 작품상
   Cornwall = 콘월
   Daphne du Maurier = 대프니 듀 모리에
-  Gothic = 고딕
   Gothic novel = 고딕 소설
   Manderley = 맨덜리
   Maxim = 맥심
@@ -315,7 +306,6 @@ GLOSSARY:
   Russia = 러시아
   Sweden = 스웨덴
   Turkey = 튀르키예
-  Turkish = 튀르키예어
   Ukraine = 우크라이나
   democratic backsliding = 민주주의 후퇴
   lira = 리라
@@ -414,7 +404,6 @@ GLOSSARY:
   Bach = 바흐
   Baroque = 바로크
   Europe = 유럽
-  Family = 가족
   French = 프랑스어
   George Frideric Handel = 게오르크 프리드리히 헨델
   Handel = 헨델
@@ -442,7 +431,6 @@ GLOSSARY:
   Latin = 라틴어
   Leisure = 여가
   Play (activity) = 놀이
-  Recreation = 레크리에이션
   Rights = 인권
   Universal Declaration of Human Rights = 세계 인권 선언
   human biology = 인간생물학
@@ -498,8 +486,6 @@ LEVEL: 4
 GLOSSARY:
   Air pollution = 대기 오염
   Greenhouse gas = 온실가스
-  Metal = 금속
-  Paper = 종이
   Plastic = 플라스틱
   Printed circuit board = 인쇄 회로 기판
   Tire = 타이어
@@ -676,7 +662,6 @@ GLOSSARY:
   Dulse = 덜스
   Green algae = 녹조류
   Palmaria palmata = Palmaria palmata
-  Phylum = 문
   Porphyra = Porphyra
   Red algae = 홍조류
   agar = 한천
@@ -732,7 +717,6 @@ GLOSSARY:
   New Zealand = 뉴질랜드
   Portugal = 포르투갈
   Ruminant = 반추동물
-  Species = 종
   United Kingdom = 영국
   United States = 미국
   Zealand = 셸란섬
@@ -788,7 +772,6 @@ GLOSSARY:
   CMYK = CMYK
   CMYK color model = CMYK 색 모형
   China = 중국
-  Color = 색
   Cyan = 청록색
   India = 인도
   Ochre = 황토
@@ -863,7 +846,6 @@ GLOSSARY:
   South Asia = 남아시아
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Species = 종
   galliform = 닭목
   hackle feathers = 목깃
 ENTRY:
@@ -922,7 +904,6 @@ GLOSSARY:
   Sciurus = Sciurus
   Scotland = 스코틀랜드
   Siberia = 시베리아
-  Species = 종
   United Kingdom = 영국
   gray squirrels = 회색다람쥐
   squirrelpox virus = 다람쥐폭스바이러스
@@ -961,7 +942,6 @@ LEVEL: 5
 GLOSSARY:
   Coyote = 코요테
   Endangered species = 멸종 위기종
-  Fish = 어류
   U.S. Fish and Wildlife Service = 미국 어류·야생동물관리국
   United States = 미국
   coywolf = 코이울프

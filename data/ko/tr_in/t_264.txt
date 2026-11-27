@@ -10,7 +10,6 @@ GLOSSARY:
   Claude Monet = 클로드 모네
   First Impressionist Exhibition = 제1회 인상파 전시회
   France = 프랑스
-  French = 프랑스어
   Henri Matisse = 앙리 마티스
   Impressionism = 인상주의
   Impressionist = 인상주의
@@ -38,7 +37,6 @@ GLOSSARY:
   Conservatoire de Paris = 파리 음악원
   Contemporary classical music = 현대 음악
   Domaine musical = 도멘 뮈지칼
-  French = 프랑스어
   IRCAM = 이르캄
   Le Marteau sans maître = 「주인 없는 망치」
   New York Philharmonic = 뉴욕 필하모닉
@@ -59,8 +57,6 @@ HEADWORD: Bourdieu, Pierre = 부르디외, 피에르
 LEVEL: 4
 GLOSSARY:
   Algerian War = 알제리 전쟁
-  Building = 건물
-  French = 프랑스어
   Freud = 프로이트
   Karl Marx = 카를 마르크스
   Marx = 마르크스
@@ -83,7 +79,6 @@ GLOSSARY:
   Curie temperature = 퀴리 온도
   Curie's law = 퀴리 법칙
   Ferromagnetism = 강자성
-  French = 프랑스어
   Jacques = 자크 퀴리
   Marie Curie = 마리 퀴리
   Nobel Prize = 노벨상
@@ -133,7 +128,6 @@ LEVEL: 4
 GLOSSARY:
   Black hole = 블랙홀
   Calculus = 미적분학
-  French = 프랑스어
   Isaac Newton = 아이작 뉴턴
   Laplace transform = 라플라스 변환
   Laplace's demon = 라플라스의 악마
@@ -210,7 +204,6 @@ GLOSSARY:
   Calculus = 미적분학
   Descartes = 데카르트
   Fermat's Last Theorem = 페르마의 마지막 정리
-  French = 프랑스어
   Hellenist = 그리스어 학자
   Latinist = 라틴어 학자
   Number theory = 수론
@@ -257,7 +250,6 @@ GLOSSARY:
   French = 프랑스어
   Italian Renaissance = 이탈리아 르네상스
   Jesus = 예수
-  Marble = 대리석
   Mary = 마리아
   Michelangelo = 미켈란젤로
   Renaissance = 르네상스
@@ -292,7 +284,6 @@ HEADWORD: Bruegel, Pieter the Elder = 브뤼헐, 피터르(대)
 LEVEL: 4
 GLOSSARY:
   Antwerp = 안트베르펜
-  Dutch = 네덜란드어
   Flemish = 플랑드르
   Icarus = 이카로스
   Italy = 이탈리아
@@ -313,7 +304,6 @@ GLOSSARY:
   Ceramic = 세라믹
   Crystal = 결정
   Electric charge = 전하
-  French = 프랑스어
   Jacques = 자크 퀴리
   Pierre Curie = 피에르 퀴리
   Ultrasound = 초음파
@@ -420,7 +410,6 @@ GLOSSARY:
   Game = 게임
   Game Boy = 게임보이
   Ken Sugimori = 스기모리 겐
-  Pikachu = 피카츄
   Pokémon = 포켓몬스터
   Pokémon (TV series) = 「포켓몬스터」
   Pokémon Red and Blue = 「포켓몬스터 레드·블루」
@@ -490,7 +479,6 @@ HEADWORD: Pilot whale = 들쇠고래
 LEVEL: 5
 GLOSSARY:
   G. macrorhynchus = 들쇠고래
-  Genus = 속
   Globicephala melas = 참거두고래
   Menopause = 폐경
   Orca = 범고래
@@ -511,7 +499,6 @@ LEVEL: 4
 GLOSSARY:
   Arcade game = 아케이드 게임
   Chicago = 시카고
-  Family = 가족
   French = 프랑스어
   Humpty Dumpty = 「험프티 덤프티」
   Jersey = 저지섬
@@ -520,7 +507,6 @@ GLOSSARY:
   Louis XIV = 루이 14세
   Pinball = 핀볼
   Stern Pinball = 스턴 핀볼
-  Today = 「투데이」
   York = 요크
   bagatelle = 바가텔
   flippers = 플리퍼
@@ -532,13 +518,11 @@ Family of games in which a ball bounces off obstacles on a specially designed ta
 HEADWORD: Pine = 소나무
 LEVEL: 4
 GLOSSARY:
-  Genus = 속
   Great Basin bristlecone pine = 그레이트베이슨브리슬콘소나무
   Mediterranean = 지중해
   Methuselah = 므두셀라
   Northern Hemisphere = 북반구
   Pinaceae = 소나무과
-  Pine = 소나무
   Pine nut = 잣
   Pinus longaeva = Pinus longaeva
   Taiga = 타이가
@@ -563,7 +547,6 @@ GLOSSARY:
   Korean pine = 잣나무
   North Korea = 북한
   Pakistan = 파키스탄
-  Pine = 소나무
   Pinus koraiensis = Pinus koraiensis
   Pinus pinea = Pinus pinea
   Russia = 러시아
@@ -614,7 +597,6 @@ Pale tint of red, named after pinks, flowering plants of the genus *Dianthus*. T
 HEADWORD: Pink Floyd = 핑크 플로이드
 LEVEL: 4
 GLOSSARY:
-  Arnold = 아르놀트
   Arnold Layne = 「Arnold Layne」
   David Gilmour = 데이비드 길모어
   Emily = 에밀리
@@ -666,7 +648,6 @@ LEVEL: 4
 GLOSSARY:
   Caribbean monk seal = 카리브몽크물범
   Carnivora = 식육목
-  Clade = 분기군
   Hawaiian = 하와이어
   Japanese sea lion = 강치
   Mediterranean = 지중해
@@ -855,7 +836,6 @@ GLOSSARY:
   International Maritime Bureau = 국제 해사국
   Malacca = 믈라카
   Mediterranean = 지중해
-  Robbery = 강도
   Sea Peoples = 바다 민족
   Somali = 소말리아
   Strait = 해협

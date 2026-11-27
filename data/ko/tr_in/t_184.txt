@@ -150,7 +150,6 @@ Dravidian language spoken predominantly in [[Karnataka]], southwestern [[India]]
 HEADWORD: Kano = 카노
 LEVEL: 4
 GLOSSARY:
-  City = 도시
   Dabo dynasty = 다보 왕조
   Fulani = 풀라니족
   Hausa = 하우사족
@@ -184,7 +183,6 @@ GLOSSARY:
   India = 인도
   Indian Rebellion of 1857 = 1857년 인도 항쟁
   Kalpi = 칼피
-  Kanpur = 칸푸르
   Lucknow = 러크나우
   Nana Sahib = 나나 사히브
   Rajput = 라지푸트
@@ -292,8 +290,6 @@ GLOSSARY:
   Clay = 점토
   Cosmetics = 화장품
   Feldspar = 장석
-  Iron = 철
-  Kaolinite = 고령석
   Paper = 종이
   Phyllosilicate = 층상 규산염
   Weathering = 풍화
@@ -423,7 +419,6 @@ GLOSSARY:
   Karakoram Pass = 카라코람 고개
   Kush = 쿠시
   Ladakh = 라다크
-  Mountain = 산
   Mountain range = 산맥
   Muztagh Pass = 무즈타그 고개
   Pakistan = 파키스탄
@@ -447,8 +442,6 @@ GLOSSARY:
   Central Asia = 중앙아시아
   Cotton = 목화
   Darvaza gas crater = 다르바자 가스 분화구
-  Desert = 사막
-  Door = 문
   Door to Hell = 지옥의 문
   Hell = 지옥
   Karakum = 카라쿰 사막
@@ -514,7 +507,6 @@ GLOSSARY:
   Japan = 일본
   Judo = 유도
   Karate = 가라테
-  Martial = 마르티알리스
   Martial arts = 무술
   Militarism = 군국주의
   Motobu Chōki = 모토부 조키
@@ -661,7 +653,6 @@ GLOSSARY:
   Raja = 라자
   Raja Hindustani = 「라자 힌두스타니」
   Sanjay Kapur = 산제이 카푸르
-  Sister = 자매
   Zubeidaa = 「주베이다」
 ENTRY:
 Indian actress who primarily appears in Hindi films. One of the leading and highest-paid actresses of the 1990s, she debuted in *Prem Qaidi* (1991). Her hits included *Raja Hindustani* (1996), which won her a Filmfare Award for Best Actress, and *Dil To Pagal Hai* (1997), for which she won the National Film Award for Best Supporting Actress. She won Filmfare Awards for *Fiza* (2000) and *Zubeidaa* (2001). Sister of [[Kareena Kapoor]], she was married to businessman Sanjay Kapur from 2003 to 2016. She has appeared only sporadically since taking a sabbatical in 2004.
@@ -702,7 +693,6 @@ GLOSSARY:
   Allies = 연합국
   Battle of the Atlantic = 대서양 전투
   Flensburg Government = 플렌스부르크 정부
-  German = 독일어
   Government = 정부
   Grand Admiral = 해군 원수
   Hitler = 히틀러
@@ -751,7 +741,6 @@ GLOSSARY:
   Das Kapital = 『자본론』
   Friedrich Engels = 프리드리히 엥겔스
   Georg Wilhelm Friedrich Hegel = 게오르크 빌헬름 프리드리히 헤겔
-  German = 독일어
   Germany = 독일
   Grundrisse = 『정치경제학 비판 요강』
   Hegel = 헤겔
@@ -868,7 +857,6 @@ GLOSSARY:
   Continuous function = 연속 함수
   Felix Klein = 펠릭스 클라인
   Georg Cantor = 게오르크 칸토어
-  German = 독일어
   Gewerbeinstitut = 베를린 공업학교
   Gymnastics = 체조
   Heidelberg = 하이델베르크
@@ -895,7 +883,6 @@ GLOSSARY:
   Cologne = 쾰른
   Darmstadt School = 다름슈타트 악파
   Electronic music = 전자 음악
-  German = 독일어
   Gesang der Jünglinge = 「청년들의 노래」
   Licht = 『빛』
   School = 학교

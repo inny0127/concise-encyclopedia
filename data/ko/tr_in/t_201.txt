@@ -28,14 +28,12 @@ GLOSSARY:
   Akira Yoshino = 요시노 아키라
   Asahi Kasei = 아사히카세이
   Chemistry = 화학
-  John = 존
   John Goodenough = 존 구디너프
   Lithium = 리튬
   M. Stanley Whittingham = M. 스탠리 위팅엄
   Nobel Prize = 노벨상
   Nobel Prize in Chemistry = 노벨 화학상
   Sony = 소니
-  Stanley = 스탠리
   cycle life = 수명 주기
   electrolyte = 전해질
   grid-scale storage = 전력망 규모 저장
@@ -118,7 +116,6 @@ HEADWORD: Little House on the Prairie = 초원의 집
 LEVEL: 5
 GLOSSARY:
   Big Woods = 빅우즈
-  Eight = 「에잇」
   Laura Ingalls Wilder = 로라 잉걸스 와일더
   Little House in the Big Woods = 『큰 숲 속의 작은 집』
   Little House on the Prairie = 『초원의 집』
@@ -236,9 +233,7 @@ HEADWORD: Liturgy = 전례
 LEVEL: 4
 GLOSSARY:
   Athens = 아테네
-  Buddhist = 불교
   Christianity = 기독교
-  Liturgy = 전례
   Quaker = 퀘이커교도
   Quaker waiting worship = 퀘이커교의 침묵 예배
   Ritual = 의례
@@ -290,9 +285,7 @@ GLOSSARY:
   Glucose = 포도당
   Glycogen = 글리코겐
   Hepatitis = 간염
-  Liver = 간
   Liver dialysis = 간 투석
-  Vertebrate = 척추동물
   accessory digestive organ = 부속 소화 기관
   artificial liver = 인공 간
   bile = 담즙
@@ -362,7 +355,6 @@ GLOSSARY:
   Liverpool Lime Street = 리버풀 라임 스트리트역
   Merseyside = 머지사이드
   North America = 북아메리카
-  Port = 항구
   Scousers = 스카우저
   The Beatles = 비틀스
   city status = 시티 지위
@@ -594,9 +586,7 @@ HEADWORD: Loam = 양토
 LEVEL: 5
 GLOSSARY:
   Clay = 점토
-  Loam = 양토
   Sand = 모래
-  Soil = 토양
   adobe bricks = 어도비 벽돌
   humus = 부식질
   post-and-beam houses = 기둥-보 구조 주택
@@ -876,7 +866,6 @@ GLOSSARY:
   Richard = 리처드
   Richard Trevithick = 리처드 트레비식
   Salamanca = 살라망카호
-  Steam = 스팀
   Steam locomotive = 증기 기관차
   World = 세계
   World War II = 제2차 세계 대전

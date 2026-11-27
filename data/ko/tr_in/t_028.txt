@@ -83,7 +83,6 @@ LEVEL: 4
 GLOSSARY:
   Altruism = 이타주의
   Cours de philosophie positive = 『실증 철학 강의』
-  French = 프랑스어
   George Eliot = 조지 엘리엇
   Herbert Spencer = 허버트 스펜서
   John = 존
@@ -107,7 +106,6 @@ GLOSSARY:
   Calais = 칼레
   Charles Despiau = 샤를 데스피오
   Constantin Brâncuși = 콘스탄틴 브란쿠시
-  French = 프랑스어
   Hell = 지옥
   Kiss = 입맞춤
   Monument to Balzac = 「발자크 기념상」
@@ -128,7 +126,6 @@ HEADWORD: Fresnel, Augustin-Jean = 프레넬, 오귀스탱장
 LEVEL: 4
 GLOSSARY:
   Diffraction = 회절
-  French = 프랑스어
   Isaac Newton = 아이작 뉴턴
   Lens = 렌즈
   Lighthouse = 등대
@@ -154,7 +151,6 @@ GLOSSARY:
   Cauchy = 코시
   Complex analysis = 복소해석학
   Continuum mechanics = 연속체 역학
-  French = 프랑스어
   Hans Freudenthal = 한스 프로이덴탈
   July Monarchy = 7월 왕정
   Monarchy = 군주제
@@ -230,7 +226,6 @@ GLOSSARY:
   Catholicism = 가톨릭
   Commonwealth = 영연방
   Dresden = 드레스덴
-  Elector = 선제후
   Elector of Saxony = 작센 선제후
   Europe = 유럽
   Great Northern War = 대북방 전쟁
@@ -300,7 +295,6 @@ LEVEL: 4
 GLOSSARY:
   Alcidae = 바다오리과
   Charadriiformes = 도요목
-  Family = 가족
   Great auk = 큰바다쇠오리
   Northern Hemisphere = 북반구
   Penguin = 펭귄
@@ -402,7 +396,6 @@ GLOSSARY:
   Mughal = 무굴
   Mughal Empire = 무굴 제국
   Muslims = 무슬림
-  Others = 아더
   Shah = 샤
   Shah Jahan = 샤 자한
   Shia = 시아파
@@ -417,7 +410,6 @@ LEVEL: 4
 GLOSSARY:
   Asia = 아시아
   Bos primigenius = Bos primigenius
-  Domestication = 가축화
   East Asia = 동아시아
   Europe = 유럽
   Fertile Crescent = 비옥한 초승달 지대
@@ -483,7 +475,6 @@ HEADWORD: Austin, Texas = 오스틴
 LEVEL: 5
 GLOSSARY:
   Austin = 오스틴
-  City = 도시
   Dell = 델
   Fortune 500 = 포춘 500
   IBM = IBM
@@ -506,7 +497,6 @@ HEADWORD: Australasia = 오스트랄라시아
 LEVEL: 5
 GLOSSARY:
   Archipelago = 제도
-  Australasia = 오스트랄라시아
   Australasie = 오스트랄라지
   Australia = 오스트레일리아
   Charles de Brosses = 샤를 드 브로스
@@ -626,7 +616,6 @@ LEVEL: 5
 GLOSSARY:
   Atrax = Atrax
   Australia = 오스트레일리아
-  Family = 가족
   Hadronyche = Hadronyche
   Illawarra = Illawarra
   New South Wales = 뉴사우스웨일스주
@@ -685,7 +674,6 @@ GLOSSARY:
   Pleistocene = 플라이스토세
   Pliocene = 플라이오세
   South Africa = 남아프리카 공화국
-  Species = 종
   Taung Child = 타웅 아이
   hominins = 호미닌
   type specimen = 기준 표본
@@ -761,7 +749,6 @@ GLOSSARY:
   Compromise of 1867 = 1867년 대타협
   Congress of Vienna = 빈 회의
   First French Empire = 프랑스 제1제국
-  Francis = 프랑수아
   Francis II = 프란츠 2세
   French = 프랑스어
   French Empire = 프랑스 제국
@@ -862,7 +849,6 @@ LEVEL: 4
 GLOSSARY:
   Asia = 아시아
   Austronesian languages = 오스트로네시아어족
-  Austronesians = 오스트로네시아인
   Batanes Islands = 바타네스 제도
   Dioscorea = 마속
   Dioscorea yams = 마속 얌
@@ -906,7 +892,6 @@ Act of proving that something, such as an identity, document, work of art or fin
 HEADWORD: Authoritarianism = 권위주의
 LEVEL: 3
 GLOSSARY:
-  Adam = 아담
   Adam Przeworski = 아담 프셰보르스키
   Civil liberties = 시민적 자유
   Democracy = 민주주의
@@ -936,7 +921,6 @@ HEADWORD: Autism = 자폐증
 LEVEL: 4
 GLOSSARY:
   Anxiety = 불안
-  Autism = 자폐증
   Depression (mood) = 우울
   Epilepsy = 뇌전증
   World = 세계

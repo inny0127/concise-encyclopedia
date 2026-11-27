@@ -5,7 +5,6 @@ GLOSSARY:
   A Hero of Our Time = 『우리 시대의 영웅』
   Alexander Pushkin = 알렉산드르 푸시킨
   Caucasus = 캅카스
-  Death = 죽음
   Death of the Poet = 「시인의 죽음」
   Duel = 결투
   Life-Guard Hussar regiment = 근위 경기병 연대
@@ -92,7 +91,6 @@ HEADWORD: Mil Mi-24 = 밀 Mi-24
 LEVEL: 5
 GLOSSARY:
   Air Force = 항공 및 반항공군
-  Crocodile = 악어
   Force = 힘
   Glass = 유리
   Helicopter = 헬리콥터
@@ -113,7 +111,6 @@ LEVEL: 5
 GLOSSARY:
   Air Force = 항공 및 반항공군
   Central Aerohydrodynamic Institute = 중앙 공기 유체 역학 연구소
-  Family = 가족
   Force = 힘
   Helicopter = 헬리콥터
   Hip = 힙
@@ -131,7 +128,6 @@ LEVEL: 4
 GLOSSARY:
   AC Milan = AC 밀란
   Borsa Italiana = 보르사 이탈리아나
-  City = 도시
   Duchy of Milan = 밀라노 공국
   European Union = 유럽 연합
   Inter Milan = 인테르 밀란
@@ -242,7 +238,6 @@ GLOSSARY:
   Holocaust = 홀로코스트
   Jerusalem = 예루살렘
   Social psychology = 사회 심리학
-  Stanley = 스탠리
   Stanley Milgram = 스탠리 밀그램
   The Holocaust = 홀로코스트
   University = 대학
@@ -258,7 +253,6 @@ LEVEL: 4
 GLOSSARY:
   Allies = 연합국
   Europe = 유럽
-  Frederick = 프리드리히
   Frederick William I = 프리드리히 빌헬름 1세
   Frederick William I of Prussia = 프리드리히 빌헬름 1세
   German = 독일어
@@ -271,7 +265,6 @@ GLOSSARY:
   Treaty of Versailles = 베르사유 조약
   Versailles = 베르사유
   War = 전쟁
-  Wilhelm = 빌헬름
   Wilhelm II = 빌헬름 2세
   William = 윌리엄
   World = 세계
@@ -318,7 +311,6 @@ GLOSSARY:
   Battle of Fleurus = 플뢰뤼스 전투
   Bomber = 폭격기
   Cold War = 냉전
-  Combat = 『콩바』
   Fighter aircraft = 전투기
   French = 프랑스어
   French Aerostatic Corps = 프랑스 기구 부대
@@ -390,8 +382,6 @@ GLOSSARY:
   2022 Russian invasion = 2022년 러시아의 우크라이나 침공
   2022 Russian invasion of Ukraine = 2022년 러시아의 우크라이나 침공
   Czechoslovakia = 체코슬로바키아
-  Employment = 고용
-  Joint = 관절
   Joint exercises = 합동 훈련
   Russian = 러시아어
   Russian invasion of Ukraine = 러시아의 우크라이나 침공
@@ -440,7 +430,6 @@ HEADWORD: Military–industrial complex = 군산 복합체
 LEVEL: 4
 GLOSSARY:
   Dwight D. Eisenhower = 드와이트 D. 아이젠하워
-  Eisenhower = 아이젠하워
   Russia = 러시아
   Russo-Ukrainian war = 러시아-우크라이나 전쟁
   United States = 미국
@@ -479,7 +468,6 @@ GLOSSARY:
   Marathon = 마라톤
   Red Army = 붉은 군대
   Soviet Red Army = 소련 붉은 군대
-  Uniform = 제복
   chain of command = 지휘 계통
   operational = 작전적
   strategoi = 스트라테고이
@@ -547,7 +535,6 @@ GLOSSARY:
   Civil War = 남북 전쟁
   Crimean War = 크림 전쟁
   Machine gun = 기관총
-  Tanks = 전차
   War = 전쟁
   World = 세계
   World War I = 제1차 세계 대전
@@ -596,7 +583,6 @@ Military or paramilitary force of civilian members rather than a professional st
 HEADWORD: Milk = 젖
 LEVEL: 3
 GLOSSARY:
-  Adult = 성인
   Calcium = 칼슘
   Cattle = 소
   Colorectal cancer = 대장암
@@ -642,7 +628,6 @@ GLOSSARY:
   Philippines = 필리핀
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Species = 종
   bangús = 방우스
   continental shelves = 대륙붕
   ray-finned fish = 조기어류
@@ -661,7 +646,6 @@ GLOSSARY:
   Edwin Hubble = 에드윈 허블
   Galactic Center = 은하 중심
   Galaxy = 은하
-  Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   Great Debate = 대논쟁
   Harlow = 할로
@@ -713,7 +697,6 @@ GLOSSARY:
   Information = 정보
   Information Age = 정보화 시대
   Internet = 인터넷
-  Millennials = 밀레니얼 세대
   Myspace = 마이스페이스
   United States = 미국
   social media = 소셜 미디어
@@ -738,7 +721,6 @@ GLOSSARY:
   Poincaré conjecture = 푸앵카레 추측
   Riemann = 리만
   Riemann hypothesis = 리만 가설
-  Seven = 「세븐」
 ENTRY:
 Seven unsolved mathematical problems, each with a prize of one million US dollars for a correct solution. Selected by the Clay Mathematics Institute in 2000, they were inspired by [[David Hilbert]]'s 1900 problems and include the [[Riemann hypothesis]], [[P versus NP problem|P versus NP]] and the [[Poincaré conjecture]]. As of 2026, only the Poincaré conjecture has been officially declared solved; the institute awarded its prize to Grigori Perelman in 2010, but he declined it. In September 2026, OpenAI presented a proposed counterexample to the Navier–Stokes problem, but the claim has yet to be verified by the independent mathematical community.
 
@@ -754,7 +736,6 @@ GLOSSARY:
   Niger = 니제르
   Nigeria = 나이지리아
   Paniceae = 기장족
-  Pearl = 진주
   Pearl millet = 진주조
   Poaceae = 벼과
   Sorghum = 수수
@@ -765,13 +746,11 @@ Highly varied group of small-seeded grasses grown as a staple [[Cereal|cereal]] 
 HEADWORD: Millipede = 노래기
 LEVEL: 4
 GLOSSARY:
-  Arthropod = 절지동물
   Centipede = 지네
   Diplopoda = 배각강
   Eumillipes persephone = Eumillipes persephone
   Latin = 라틴어
   Myriapoda = 다지아문
-  Reproduction = 생식
   Silurian = 실루리아기
   detritivores = 데트리터스 섭식자
   gonopods = 생식지
@@ -809,7 +788,6 @@ HEADWORD: Milton Keynes = 밀턴킨스
 LEVEL: 5
 GLOSSARY:
   Buckinghamshire = 버킹엄셔
-  City = 도시
   England = 잉글랜드
   London = 런던
   Tower block = 고층 아파트

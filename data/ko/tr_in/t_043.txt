@@ -12,7 +12,6 @@ GLOSSARY:
   Hypertension = 고혈압
   Kidney = 콩팥
   Nervous system = 신경계
-  Pressure = 압력
   Stroke = 뇌졸중
   brachial artery = 위팔동맥
   diastolic pressure = 확장기 혈압
@@ -51,7 +50,6 @@ GLOSSARY:
   Disease = 질병
   Glucose = 포도당
   Health care = 보건 의료
-  Laboratory = 실험실
   Vein = 정맥
   basic metabolic panel = 기초 대사 패널
   blood panel = 혈액 검사 패널
@@ -66,9 +64,7 @@ Laboratory analysis performed on a blood sample, usually drawn from a [[Vein|vei
 HEADWORD: Blood transfusion = 수혈
 LEVEL: 4
 GLOSSARY:
-  Anticoagulants = 항응고제
   Red blood cell = 적혈구
-  White = 흰색
   White blood cell = 백혈구
   White blood cells = 백혈구
   World = 세계
@@ -112,7 +108,6 @@ GLOSSARY:
   Deer = 사슴
   Hound = 하운드
   Middle Ages = 중세
-  Police = 경찰
   Sense of smell = 후각
   Wild boar = 멧돼지
   scent hound = 센트하운드
@@ -162,8 +157,6 @@ Digital [[Optical disc|optical disc]] format designed to supersede the [[DVD]], 
 HEADWORD: Blue = 파란색
 LEVEL: 4
 GLOSSARY:
-  Clear = 클리어
-  Color = 색
   Egypt = 이집트
   Europe = 유럽
   European Union = 유럽 연합
@@ -298,7 +291,6 @@ GLOSSARY:
   Deep South = 디프사우스
   Electric blues = 일렉트릭 블루스
   Jazz = 재즈
-  Music = 음악
   Rhythm and blues = 리듬 앤드 블루스
   Rock and roll = 로큰롤
   United States = 미국
@@ -360,7 +352,6 @@ GLOSSARY:
   Bone fracture = 골절
   Bruise = 타박상
   Concussion = 뇌진탕
-  Physical = 「Physical」
   Traffic collision = 교통사고
   penetrating trauma = 관통상
 ENTRY:
@@ -372,9 +363,7 @@ LEVEL: 5
 GLOSSARY:
   Ballad = 발라드
   Battle of Britpop = 브릿팝 전쟁
-  Blur = 블러
   Britpop = 브릿팝
-  Following = 「미행」
   Leisure = 여가
   Life = 『라이프』
   Madchester = 매드체스터
@@ -450,7 +439,6 @@ GLOSSARY:
   Margaret Hofer = 마거릿 호퍼
   Mesopotamia = 메소포타미아
   Middle East = 중동
-  Monopoly = 독점
   Monopoly (game) = 모노폴리
   Neolithic = 신석기 시대
   Renaissance = 르네상스
@@ -534,7 +522,6 @@ GLOSSARY:
   Pulitzer Prize = 퓰리처상
   Robert Allen Zimmerman = 로버트 앨런 지머먼
   Rolling Stone = 『롤링 스톤』
-  Time = 『타임』
   Time Out of Mind = 『Time Out of Mind』
   Wind = 바람
   Year = 해
@@ -685,13 +672,11 @@ LEVEL: 5
 GLOSSARY:
   Best New Artist = 최우수 신인상
   Come September = 「9월이 오면」
-  Dream = 꿈
   Dream Lover = 「Dream Lover」
   Globe = 지구본
   Golden Globe = 골든글로브상
   Grammy = 그래미상
   Grammy Awards = 그래미상
-  Kennedy = 케네디
   Knife = 칼
   Los Angeles = 로스앤젤레스
   Mack the Knife = 「Mack the Knife」
@@ -801,7 +786,6 @@ LEVEL: 5
 GLOSSARY:
   DSM-5 = DSM-5
   Mental disorder = 정신 질환
-  Muscle = 근육
   Muscle dysmorphia = 근육 이형증
   Obsessive–compulsive disorder = 강박 장애
   dysmorphophobia = 추형 공포증

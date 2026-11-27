@@ -123,7 +123,6 @@ LEVEL: 4
 GLOSSARY:
   Bengal = 벵골
   Bihar = 비하르주
-  Crop = 작물
   East India Company = 동인도 회사
   Famine = 기근
   India = 인도
@@ -168,7 +167,6 @@ GLOSSARY:
   China = 중국
   Chinese Communist Party = 중국 공산당
   Communist Party = 공산당
-  Death = 죽음
   Famine = 기근
   Great Leap Forward = 대약진 운동
   Liu Shaoqi = 류사오치
@@ -195,7 +193,6 @@ GLOSSARY:
   Nazi = 나치
   Nazi Party = 나치당
   New Deal = 뉴딜
-  Others = 아더
   Party = 파티
   Roaring Twenties = 광란의 20년대
   United States = 미국
@@ -257,7 +254,6 @@ GLOSSARY:
   London = 런던
   Miss Havisham = 미스 해비셤
   Pip = 핍
-  Thomas = 토머스
   Thomas Carlyle = 토머스 칼라일
   Year = 해
 ENTRY:
@@ -267,7 +263,6 @@ Bildungsroman by [[Charles Dickens]], serialized weekly in *All the Year Round* 
 HEADWORD: Great Famine = 아일랜드 대기근
 LEVEL: 4
 GLOSSARY:
-  Black = 검은색
   Black '47 = 검은 47년
   Europe = 유럽
   Ireland = 아일랜드
@@ -303,7 +298,6 @@ GLOSSARY:
   City = 도시
   City of London = 시티 오브 런던
   Dutch = 네덜란드어
-  Fire = 불
   French = 프랑스어
   Gunpowder = 화약
   London = 런던
@@ -340,7 +334,6 @@ GLOSSARY:
   Kim = 『킴』
   Persia = 페르시아
   Rudyard Kipling = 러디어드 키플링
-  Russia = 러시아
   Russian = 러시아어
   Russian Empire = 러시아 제국
   Tibet = 티베트
@@ -470,7 +463,6 @@ GLOSSARY:
   Oxygen = 산소
   Paleoproterozoic = 고원생대
   Proterozoic = 원생누대
-  Symbiosis = 공생
   aerobic proteobacteria = 호기성 프로테오박테리아
   anaerobic = 혐기성
   eukaryotic = 진핵
@@ -486,7 +478,6 @@ LEVEL: 4
 GLOSSARY:
   Alberta = 앨버타주
   American bison = 아메리카들소
-  Broad = 브로드강
   Canada = 캐나다
   Canadian = 캐나다
   Canadian Prairies = 캐나다 프레리
@@ -550,7 +541,6 @@ GLOSSARY:
   Fourth Dynasty = 제4왕조
   Giza = 기자
   Giza Plateau = 기자 고원
-  Granite = 화강암
   Hemiunu = 헤미우누
   Khufu = 쿠푸
   King's Chamber = 왕의 방
@@ -647,7 +637,6 @@ GLOSSARY:
   Canada = 캐나다
   Cree = 크리족
   Dene = 데네족
-  Gold = 금
   Great Bear = 큰곰
   Great Bear Lake = 그레이트베어호
   Hay = 건초
@@ -678,7 +667,6 @@ GLOSSARY:
   Kuwohi = 쿠워히산
   North Carolina = 노스캐롤라이나주
   Tennessee = 테네시주
-  Tourism = 관광
   United States = 미국
   World = 세계
   World Heritage = 세계 유산
@@ -695,7 +683,6 @@ GLOSSARY:
   Giza Plateau = 기자 고원
   Khafre = 카프레
   Khufu = 쿠푸
-  Limestone = 석회암
   Lion = 사자
   Napoleon = 나폴레옹
   Nile = 나일강
@@ -770,7 +757,6 @@ HEADWORD: Great Victoria Desert = 그레이트빅토리아 사막
 LEVEL: 4
 GLOSSARY:
   Australia = 오스트레일리아
-  Average = 평균
   Eastern Goldfields = 이스턴골드필즈
   Emu = 에뮤
   Ernest Giles = 어니스트 자일스
@@ -883,7 +869,6 @@ GLOSSARY:
   Lucayan Archipelago = 루카얀 제도
   Navassa Island = 나배사섬
   Puerto Rico = 푸에르토리코
-  Spain = 스페인
   United States = 미국
   West Indies = 서인도 제도
   unincorporated territories = 미편입 영토

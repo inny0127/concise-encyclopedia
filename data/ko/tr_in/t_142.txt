@@ -5,9 +5,7 @@ GLOSSARY:
   Deforestation = 삼림 벌채
   Ecological niche = 생태적 지위
   Forest = 숲
-  Habitat = 서식지
   Habitat generalists = 서식지 일반종
-  Physical = 「Physical」
   Steppe = 스텝
   specialists = 특수종
 ENTRY:
@@ -20,7 +18,6 @@ GLOSSARY:
   Austria = 오스트리아
   Austria-Hungary = 오스트리아-헝가리
   Austrian Empire = 오스트리아 제국
-  Composite = 콤퍼지트
   Duchy of Austria = 오스트리아 공국
   Habsburg = 합스부르크
   Holy Roman Empire = 신성 로마 제국
@@ -106,7 +103,6 @@ GLOSSARY:
   Finnan haddie = 피넌 해디
   Gadidae = 대구과
   Grand Banks of Newfoundland = 그랜드뱅크스
-  Haddock = 해덕
   Iceland = 아이슬란드
   Melanogrammus = Melanogrammus
   Newfoundland = 뉴펀들랜드
@@ -126,7 +122,6 @@ GLOSSARY:
   Archean = 시생누대
   Australia = 오스트레일리아
   Earth = 지구
-  Hadean = 명왕누대
   Hades = 하데스
   Jack Hills = 잭힐스
   Moon = 달
@@ -160,7 +155,6 @@ HEADWORD: Hadith = 하디스
 LEVEL: 4
 GLOSSARY:
   Arabic = 아랍어
-  Hadith = 하디스
   Kharijites = 하와리즈파
   Mu'tazila = 무타질라파
   Muhammad = 무함마드
@@ -168,7 +162,6 @@ GLOSSARY:
   Quranists = 꾸란주의자
   Sharia = 샤리아
   Shia = 시아파
-  Sunni = 수니파
   Sunni Islam = 수니파
   da'if = 다이프
   hasan = 하산
@@ -245,7 +238,6 @@ HEADWORD: Hadron = 강입자
 LEVEL: 4
 GLOSSARY:
   Baryon = 중입자
-  Composite = 콤퍼지트
   Exotic hadrons = 이색 강입자
   Meson = 중간자
   Neutron = 중성자
@@ -295,7 +287,6 @@ GLOSSARY:
   Latin = 라틴어
   Neutron = 중성자
   Nuclear reactor = 원자로
-  Pure = 「퓨어」
   Zirconium = 지르코늄
   control rods = 제어봉
   neutron capture = 중성자 포획
@@ -311,7 +302,6 @@ HEADWORD: Hagfish = 먹장어
 LEVEL: 4
 GLOSSARY:
   Carboniferous = 석탄기
-  Hagfish = 먹장어
   Lamprey = 칠성장어
   Late Carboniferous = 후기 석탄기
   Myxini = 먹장어강
@@ -339,7 +329,6 @@ GLOSSARY:
   Istanbul = 이스탄불
   Justinian = 유스티니아누스
   Justinian I = 유스티니아누스 1세
-  Mosque = 모스크
   Orthodox = 정교회
   Ottoman = 오스만
   Ottoman conquest = 오스만 제국의 정복
@@ -365,7 +354,6 @@ GLOSSARY:
   Ottomans = 오스만 제국
   Petroleum = 석유
   Phoenicians = 페니키아인
-  Port = 항구
   Romans = 로마인
   Tel Aviv = 텔아비브
   UNESCO = 유네스코
@@ -381,7 +369,6 @@ Port city in northern [[Israel|Israel]] on the slopes of Mount Carmel. It is the
 HEADWORD: Haiku = 하이쿠
 LEVEL: 4
 GLOSSARY:
-  Haiku = 하이쿠
   Masaoka Shiki = 마사오카 시키
   Matsuo Bashō = 마쓰오 바쇼
   Poetry = 시
@@ -401,7 +388,6 @@ LEVEL: 4
 GLOSSARY:
   Crop = 작물
   Cumulonimbus cloud = 적란운
-  Hail = 우박
   National Weather Service = 국립기상청
   United States = 미국
   Weather = 날씨
@@ -505,7 +491,6 @@ GLOSSARY:
   Kunming = 쿤밍
   Mainland = 메인랜드섬
   Mainland Southeast Asia = 동남아시아 대륙부
-  Navy = 해군
   Southeast = 남동부
   Southeast Asia = 동남아시아
   Thomas = 토머스
@@ -525,9 +510,7 @@ GLOSSARY:
   Camouflage = 위장
   Cuticle = 모표피
   Eumelanin = 유멜라닌
-  Hair = 털
   Hairstyle = 헤어스타일
-  Human = 인간
   Keratin = 케라틴
   Mammal = 포유류
   Melanin = 멜라닌
@@ -585,7 +568,6 @@ GLOSSARY:
   Columbus = 콜럼버스
   Duvalier = 뒤발리에
   French = 프랑스어
-  Gang = 갱단
   Haiti = 아이티
   Haitian Revolution = 아이티 혁명
   Hispaniola = 히스파니올라섬
@@ -602,12 +584,10 @@ Country in the Caribbean, on the western side of the island of Hispaniola. The c
 HEADWORD: Haitian Revolution = 아이티 혁명
 LEVEL: 4
 GLOSSARY:
-  France = 프랑스
   French = 프랑스어
   Haiti = 아이티
   Roman Republic = 로마 공화정
   Saint-Domingue = 생도맹그
-  Slave = 슬레이브강
   Spartacus = 스파르타쿠스
   Toussaint Louverture = 투생 루베르튀르
 ENTRY:
@@ -653,7 +633,6 @@ GLOSSARY:
   Mecca = 메카
   Mount Arafat = 아라파트산
   Muslims = 무슬림
-  Pilgrims = 필그림
   Safa and Marwah = 사파와 마르와
   Saudi Arabia = 사우디아라비아
   ihram = 이흐람
@@ -690,7 +669,6 @@ GLOSSARY:
   Hakka = 객가
   Hakka people = 객가인
   Indonesia = 인도네시아
-  Language = 언어
   Malaysia = 말레이시아
   Mandarin = 관화
   Meixian dialect = 메이셴 방언
@@ -727,10 +705,8 @@ Collective body of Jewish religious law, derived from the [[Torah|Written and Or
 HEADWORD: Halal = 할랄
 LEVEL: 4
 GLOSSARY:
-  Arabic = 아랍어
   Cosmetics = 화장품
   Hadith = 하디스
-  Halal = 할랄
   Haram = 하람
   Indonesia = 인도네시아
   Islam = 이슬람교
@@ -805,7 +781,6 @@ GLOSSARY:
   Radioactive decay = 방사성 붕괴
   Radium = 라듐
   Rutherford = 러더퍼드
-  Time = 『타임』
   biological half-life = 생물학적 반감기
   exponential decay = 지수 감쇠
   lead-206 = 납-206

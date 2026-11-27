@@ -14,11 +14,9 @@ GLOSSARY:
   Karl Marx = 카를 마르크스
   Marx = 마르크스
   Non-governmental organization = 비정부 기구
-  Others = 아더
   Scottish = 스코틀랜드
   Scottish Enlightenment = 스코틀랜드 계몽주의
   Sidney Verba = 시드니 버바
-  Third = 교향곡 제3번
   Third sector = 제3섹터
   Tocqueville = 토크빌
   Václav Havel = 바츨라프 하벨
@@ -54,7 +52,6 @@ GLOSSARY:
   Asia = 아시아
   Caral = 카랄
   China = 중국
-  Civilization = 문명
   Economy = 경제
   Egypt = 이집트
   Enlightenment = 계몽주의
@@ -62,7 +59,6 @@ GLOSSARY:
   German = 독일어
   Herder = 헤르더
   Hunter-gatherer = 수렵채집인
-  Huntington = 헌팅턴
   Indus = 인더스강
   Indus Valley = 인더스강 유역
   Journal of Political Economy = 『정치경제학 저널』
@@ -148,7 +144,6 @@ GLOSSARY:
   Dr. Hoch's Konservatorium = 호흐 음악원
   Frankfurt = 프랑크푸르트
   Friedrich Wieck = 프리드리히 비크
-  German = 독일어
   Johannes Brahms = 요하네스 브람스
   Leipzig = 라이프치히
   Robert Schumann = 로베르트 슈만
@@ -169,7 +164,6 @@ GLOSSARY:
   Clarinet = 클라리넷
   Classical music = 클래식 음악
   Concerto = 협주곡
-  German = 독일어
   Iwan Müller = 이반 뮐러
   Jazz = 재즈
   Johann Christoph = 요한 크리스토프
@@ -177,7 +171,6 @@ GLOSSARY:
   Mozart = 모차르트
   Orchestra = 관현악단
   Single-reed = 싱글 리드
-  Today = 「투데이」
   Wolfgang Amadeus Mozart = 볼프강 아마데우스 모차르트
   Woodwind instrument = 목관 악기
   basset clarinet = 바셋 클라리넷
@@ -247,7 +240,6 @@ GLOSSARY:
   Algebraic number theory = 대수적 수론
   Artin = 에밀 아르틴
   Artin reciprocity = 아르틴 상호 법칙
-  Branch = 브랜치
   Chebotarev's theorem = 체보타료프 정리
   David Hilbert = 다비트 힐베르트
   Explicit class field theory = 명시적 유체론
@@ -305,7 +297,6 @@ HEADWORD: Classical Athens = 고전기 아테네
 LEVEL: 4
 GLOSSARY:
   Assembly = 민회
-  Athenian = 아테네의
   Athenian democracy = 아테네 민주정
   Athens = 아테네
   Attica = 아티카
@@ -394,7 +385,6 @@ Greco-Roman culture has been immensely influential on the language, politics, la
 HEADWORD: Classical mechanics = 고전 역학
 LEVEL: 3
 GLOSSARY:
-  Branch = 브랜치
   Chaos = 카오스
   Chaos theory = 혼돈 이론
   Euler = 오일러
@@ -465,7 +455,6 @@ GLOSSARY:
   Gregorian = 그레고리력
   Gregorian chant = 그레고리오 성가
   Haydn = 하이든
-  Italy = 이탈리아
   Johann Sebastian Bach = 요한 제바스티안 바흐
   Joseph Haydn = 요제프 하이든
   Latin = 라틴어
@@ -475,7 +464,6 @@ GLOSSARY:
   Notre-Dame school = 노트르담 악파
   Richard = 리처드
   Richard Wagner = 리하르트 바그너
-  Romantic = 낭만주의
   Romantic music = 낭만주의 음악
   School = 학교
   Staff notation = 오선 기보법
@@ -552,7 +540,6 @@ GLOSSARY:
   Ancient Greece = 고대 그리스
   Byzantium = 비잔티움
   Carolingian = 카롤링거
-  Classicism = 고전주의
   Column = 기둥
   Enlightenment = 계몽주의
   Greece = 그리스
@@ -578,12 +565,10 @@ GLOSSARY:
   Diabetes = 당뇨병
   Ether = 에테르
   France = 프랑스
-  French = 프랑스어
   Harvard = 하버드
   Harvard University = 하버드 대학교
   I. Bernard Cohen = I. 버나드 코언
   Liver = 간
-  Napoleon = 나폴레옹
   Napoleon III = 나폴레옹 3세
   Pancreas = 이자
   Physiology = 생리학
@@ -604,7 +589,6 @@ GLOSSARY:
   Béla Bartók = 버르토크 벨러
   Conservatoire = 음악원
   Conservatoire de Paris = 파리 음악원
-  French = 프랑스어
   George Gershwin = 조지 거슈윈
   German = 독일어
   Igor Stravinsky = 이고리 스트라빈스키
@@ -634,7 +618,6 @@ GLOSSARY:
   Collège de France = 콜레주 드 프랑스
   Ethnology = 민족학
   France = 프랑스
-  French = 프랑스어
   Indigenous = 원주민
   International Nonino Prize = 노니노 국제상
   Kinship = 친족
@@ -651,7 +634,6 @@ HEADWORD: Monet, Claude = 모네, 클로드
 LEVEL: 4
 GLOSSARY:
   First Impressionist Exhibition = 제1회 인상파 전시회
-  French = 프랑스어
   Giverny = 지베르니
   Haystacks = 「건초 더미」
   Impressionism = 인상주의
@@ -737,7 +719,6 @@ LEVEL: 4
 GLOSSARY:
   Finite clauses = 정형절
   Sentence (linguistics) = 문장
-  Standard = 스탠더드
   declarative = 평서문
   dependent clause = 종속절
   dependent clauses = 종속절
@@ -777,7 +758,6 @@ GLOSSARY:
   Cement = 시멘트
   Ceramic = 세라믹
   Civil engineering = 토목 공학
-  Clay = 점토
   Expansive clays = 팽창성 점토
   Paper = 종이
   Pottery = 토기
@@ -798,7 +778,6 @@ HEADWORD: Attlee, Clement = 애틀리, 클레먼트
 LEVEL: 4
 GLOSSARY:
   1945 general election = 1945년 총선거
-  Attlee = 애틀리
   Decolonization = 탈식민지화
   India = 인도
   Insurance = 보험
@@ -909,7 +888,6 @@ GLOSSARY:
   Ptolemy XII Auletes = 프톨레마이오스 12세 아울레테스
   Ptolemy XIII = 프톨레마이오스 13세
   Ptolemy XIV = 프톨레마이오스 14세
-  Queen = 퀸
   Renaissance = 르네상스
   Roman province = 로마 속주
   Second = 초
@@ -957,7 +935,6 @@ HEADWORD: Cleveland = 클리블랜드
 LEVEL: 4
 GLOSSARY:
   Atlantic Ocean = 대서양
-  City = 도시
   Cleveland = 클리블랜드
   Cleveland Museum of Art = 클리블랜드 미술관
   Cleveland Orchestra = 클리블랜드 오케스트라
@@ -1043,14 +1020,12 @@ GLOSSARY:
   Atmosphere = 대기
   Bergeron = 베르예론 분류
   Carbon dioxide = 이산화 탄소
-  Climate = 기후
   Climate models = 기후 모형
   Greece = 그리스
   Köppen = 쾨펜
   Köppen climate classification = 쾨펜의 기후 구분
   Methane = 메탄
   Ocean = 대양
-  Others = 아더
   Paleoclimatology = 고기후학
   Plate tectonics = 판 구조론
   Spatial Synoptic = 공간 종관 분류
@@ -1092,10 +1067,8 @@ LEVEL: 3
 GLOSSARY:
   Arctic = 북극
   Earth = 지구
-  Fossil = 화석
   Fossil fuel = 화석 연료
   Greenhouse gas = 온실가스
-  Heat = 열
   Industrial Revolution = 산업 혁명
   Paris = 파리
   Paris Agreement = 파리 협정
@@ -1124,7 +1097,6 @@ HEADWORD: Climate variability and change = 기후 변동
 LEVEL: 4
 GLOSSARY:
   Atlantic multidecadal oscillation = 대서양 수십 년 주기 진동
-  Climate = 기후
   Climate change = 기후 변화
   Industrial Revolution = 산업 혁명
   Internal variability = 내부 변동성

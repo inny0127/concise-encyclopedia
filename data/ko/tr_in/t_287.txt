@@ -32,7 +32,6 @@ GLOSSARY:
   Elizabeth II = 엘리자베스 2세
   Knight = 기사
   Knight Grand Cross = 대십자 기사
-  Queen = 퀸
   Queen Elizabeth II = 엘리자베스 2세 여왕
   Rome = 로마
   The Duellists = 「결투자들」
@@ -45,7 +44,6 @@ HEADWORD: Riemann hypothesis = 리만 가설
 LEVEL: 4
 GLOSSARY:
   Bernhard Riemann = 베른하르트 리만
-  Conjecture = 추측
   David Hilbert = 다비트 힐베르트
   Hilbert's = 힐베르트의
   Hilbert's 23 unsolved problems = 힐베르트의 23개 문제
@@ -114,7 +112,6 @@ HEADWORD: Riemannian geometry = 리만 기하학
 LEVEL: 4
 GLOSSARY:
   Bernhard Riemann = 베른하르트 리만
-  Branch = 브랜치
   General relativity = 일반 상대성 이론
   Geometry = 기하학
   Riemann = 리만
@@ -141,7 +138,6 @@ GLOSSARY:
   Euclidean = 유클리드
   Euclidean space = 유클리드 공간
   General relativity = 일반 상대성 이론
-  John = 존
   John Nash = 존 내시
   Riemann = 리만
   Riemannian manifold = 리만 다양체
@@ -251,7 +247,6 @@ LEVEL: 5
 GLOSSARY:
   Cross product = 벡터곱
   Gibbs = 기브스
-  John = 존
   John Fleming = 존 플레밍
   Josiah Willard Gibbs = 조사이아 윌러드 기브스
   Magnetic field = 자기장
@@ -310,12 +305,9 @@ HEADWORD: Rights = 권리
 LEVEL: 4
 GLOSSARY:
   Aquinas = 아퀴나스
-  Citizenship = 시민권
   Jeremy Bentham = 제러미 벤담
   Justice = 정의
   Natural rights = 자연권
-  Rights = 인권
-  Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
   legal rights = 법적 권리
   natural law = 자연법
@@ -394,10 +386,8 @@ GLOSSARY:
   Emmy = 에미상
   Emmy Noether = 에미 뇌터
   Hilbert = 힐베르트
-  Multiplication = 곱셈
   Richard = 리처드
   Richard Dedekind = 리하르트 데데킨트
-  Ring = 『링』
   abelian group = 아벨 군
   algebraic geometry = 대수기하학
   algebraic number theory = 대수적 수론
@@ -443,7 +433,6 @@ GLOSSARY:
   Neptune = 해왕성
   Ordovician = 오르도비스기
   Phobos = 포보스
-  Ring = 『링』
   Roche limit = 로슈 한계
   Saturn = 토성
   Uranus = 천왕성
@@ -463,16 +452,13 @@ LEVEL: 4
 GLOSSARY:
   Algebraic geometry = 대수기하학
   Algebraic number theory = 대수적 수론
-  Branch = 브랜치
   Commutative algebra = 가환대수학
   Commutative ring = 가환환
   Fermat's Last Theorem = 페르마의 마지막 정리
-  Hilbert's = 힐베르트의
   Hilbert's Nullstellensatz = 힐베르트 영점 정리
   Module (mathematics) = 가군
   Noetherian = 뇌터
   Noetherian rings = 뇌터 환
-  Ring = 『링』
   Theorem = 정리
   algebraic geometry = 대수기하학
   algebraic number theory = 대수적 수론
@@ -509,10 +495,8 @@ LEVEL: 5
 GLOSSARY:
   Cassini = 카시니호
   Christiaan Huygens = 크리스티안 하위헌스
-  Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   Moons of Saturn = 토성의 위성
-  Ring = 『링』
   Ring system = 고리계
   Saturn = 토성
   Solar System = 태양계
@@ -635,7 +619,6 @@ GLOSSARY:
   CS gas = CS 가스
   Conscription = 징병제
   Ethnicity = 민족
-  Food = 음식
   Harvest = 수확
   Locust = 메뚜기
   Pogrom = 포그롬
@@ -731,7 +714,6 @@ LEVEL: 3
 GLOSSARY:
   Bell = 종
   British monarchy = 영국 군주제
-  Catherine = 예카테리나 1세
   Catherine Bell = 캐서린 벨
   Cult = 컬트
   Eric Hobsbawm = 에릭 홉스봄
@@ -767,7 +749,6 @@ GLOSSARY:
   Drainage basin = 유역
   Erosion = 침식
   Meander = 곡류
-  People = 『피플』
   Water cycle = 물의 순환
   alluvium = 충적층
   confluences = 합류점
@@ -852,7 +833,6 @@ GLOSSARY:
   Bronze = 청동
   Bronze Age = 청동기 시대
   Naqada culture = 나카다 문화
-  Solid = 고체
   Steel = 강철
   buck-tail = 벅테일
   pneumatic hammers = 공기 해머

@@ -67,7 +67,6 @@ GLOSSARY:
   Qatar = 카타르
   Roman Republic = 로마 공화정
   Thailand = 태국
-  Today = 「투데이」
   World = 세계
   World War I = 제1차 세계 대전
   World War II = 제2차 세계 대전
@@ -90,8 +89,6 @@ HEADWORD: Monastery = 수도원
 LEVEL: 4
 GLOSSARY:
   Buddhism = 불교
-  Buddhist = 불교
-  Building = 건물
   Christianity = 기독교
   Church (building) = 교회
   Dissolution of the Monasteries = 수도원 해산
@@ -188,8 +185,6 @@ GLOSSARY:
   Lydians = 리디아인
   Marco Polo = 마르코 폴로
   Mesopotamian = 메소포타미아
-  Money = 화폐
-  Paper = 종이
   Paper money = 지폐
   Polo = 폴로
   Song dynasty = 송나라
@@ -310,7 +305,6 @@ GLOSSARY:
   East Asia = 동아시아
   Genghis Khan = 칭기즈 칸
   Kazakhstan = 카자흐스탄
-  Mahayana = 대승 불교
   Mahayana Buddhism = 대승 불교
   Mongol = 몽골
   Mongol Empire = 몽골 제국
@@ -394,7 +388,6 @@ LEVEL: 4
 GLOSSARY:
   Baruch Spinoza = 바뤼흐 스피노자
   Christian von Wolff = 크리스티안 볼프
-  Existence = 존재
   Existence monism = 존재 일원론
   God or Nature = 신 또는 자연
   Logic = 논리학
@@ -418,7 +411,6 @@ GLOSSARY:
   Asia = 아시아
   Komodo = 코모도섬
   Komodo dragon = 코모도왕도마뱀
-  Lizard = 도마뱀
   Oceania = 오세아니아
   United States = 미국
   Varanidae = 왕도마뱀과
@@ -474,7 +466,6 @@ HEADWORD: Monocotyledon = 외떡잎식물
 LEVEL: 4
 GLOSSARY:
   APG IV system = APG IV 분류 체계
-  Clade = 분기군
   Flowering plant = 속씨식물
   Maize = 옥수수
   Orchid = 난초
@@ -497,8 +488,6 @@ HEADWORD: Monogamy = 일부일처제
 LEVEL: 4
 GLOSSARY:
   Agriculture = 농업
-  Human = 인간
-  Monogamy = 일부일처제
   Polyamory = 폴리아모리
   Polygamy = 복혼
   extrapair paternity = 쌍외 부성
@@ -561,11 +550,9 @@ GLOSSARY:
   Cheese = 치즈
   Chinese restaurant syndrome = 중국 음식점 증후군
   European Union = 유럽 연합
-  Food = 음식
   Food and Drug Administration = 식품의약국
   Kikunae Ikeda = 이케다 기쿠나에
   Seaweed = 해조류
-  Sodium = 나트륨
   U.S. Food and Drug Administration = 미국 식품의약국
   Umami = 감칠맛
   generally recognized as safe = 일반적으로 안전하다고 인정되는 물질
@@ -579,16 +566,13 @@ HEADWORD: Monotheism = 유일신교
 LEVEL: 4
 GLOSSARY:
   Atenism = 아텐 신앙
-  Belief = 믿음
   Christianity = 기독교
   Deism = 이신론
   Druze = 드루즈파
   Egypt = 이집트
-  Elements = 『원론』
   Islam = 이슬람교
   Judaism = 유대교
   Manichaeism = 마니교
-  Monotheism = 일신교
   Samaritanism = 사마리아교
   Sikhism = 시크교
   Tengrism = 텡그리 신앙
@@ -608,7 +592,6 @@ GLOSSARY:
   Cloaca = 총배설강
   Cretaceous = 백악기
   Echidna = 가시두더지
-  Female = 암컷
   Guinea = 기니
   Late Cretaceous = 후기 백악기
   Mammal = 포유류
@@ -682,14 +665,12 @@ Seasonal change in atmospheric circulation and precipitation. Traditionally a se
 HEADWORD: Monster = 괴물
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Demon = 악마
   Dracula = 드라큘라
   Frankenstein's monster = 프랑켄슈타인의 괴물
   Gorgon = 고르곤
   Medusa = 메두사
   Minotaur = 미노타우로스
-  Monsters = 「몬스터」
   Poseidon = 포세이돈
   Vampire = 흡혈귀
   Zombie = 좀비
@@ -754,7 +735,6 @@ GLOSSARY:
   Mining = 광업
   Mountain = 산
   Mountain West = 산악 서부
-  Tourism = 관광
   United States = 미국
   Western United States = 미국 서부
   Wyoming = 와이오밍주
@@ -888,7 +868,6 @@ GLOSSARY:
   Latin America = 라틴아메리카
   Mercer = 머서
   Mercosur = 메르코수르
-  Montevideo = 몬테비데오
   Río de la Plata = 라플라타강
   Uruguay = 우루과이
   World = 세계

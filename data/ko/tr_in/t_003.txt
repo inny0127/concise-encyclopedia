@@ -137,7 +137,6 @@ GLOSSARY:
   Algebraic structure = 대수 구조
   Arthur Cayley = 아서 케일리
   Babylonians = 바빌로니아인
-  Branch = 브랜치
   Category theory = 범주론
   Elementary = 「엘리멘트리」
   Elementary algebra = 초등대수학
@@ -188,7 +187,6 @@ GLOSSARY:
   Black Square = 「검은 사각형」
   Cubism = 입체주의
   Expressionism = 표현주의
-  Fauvism = 야수파
   František Kupka = 프란티셰크 쿠프카
   Fugue = 푸가
   Georges Gurdjieff = 게오르기 구르지예프
@@ -198,13 +196,10 @@ GLOSSARY:
   Henri Matisse = 앙리 마티스
   Hilma af Klint = 힐마 아프 클린트
   Impressionism = 인상주의
-  James = 야고보
   Kazimir Malevich = 카지미르 말레비치
-  Mysticism = 신비주의
   Orphism = 오르피즘
   P. D. Ouspensky = P. D. 우스펜스키
   Pablo Picasso = 파블로 피카소
-  Paul = 바울로
   Paul Cézanne = 폴 세잔
   Piet Mondrian = 피트 몬드리안
   Renaissance = 르네상스
@@ -343,7 +338,6 @@ GLOSSARY:
   Islamic Golden Age = 이슬람 황금기
   Latin = 라틴어
   Pediatrics = 소아과학
-  Persian = 페르시아어
   Ray = 레이
   Tehran = 테헤란
   Thābit ibn Qurra = 사비트 이븐 쿠라
@@ -384,7 +378,6 @@ GLOSSARY:
   Amnesty International = 국제 앰네스티
   CBS News = CBS 뉴스
   Central Intelligence Agency = 중앙 정보국
-  Eleven = 일레븐
   George W. Bush = 조지 W. 부시
   Human = 인간
   Human Rights Watch = 휴먼 라이츠 워치
@@ -448,7 +441,6 @@ GLOSSARY:
   Khorasan = 호라산
   Levant = 레반트
   Merv = 메르브
-  Persian = 페르시아어
   Umayyad = 우마이야 왕조
   Umayyad Caliphate = 우마이야 칼리파국
   al-Mansur = 알만수르
@@ -514,7 +506,6 @@ GLOSSARY:
   Metallic nodules = 금속 단괴
   Mid-ocean ridge = 중앙 해령
   Ocean = 대양
-  Oxygen = 산소
   Plate tectonics = 판 구조론
   Turbidity currents = 저탁류
   continental margins = 대륙 주변부
@@ -530,7 +521,6 @@ LEVEL: 5
 GLOSSARY:
   Abyssinia = 아비시니아
   Asia = 아시아
-  Breed = 품종
   Ethiopia = 에티오피아
   Europe = 유럽
   Governing Council of the Cat Fancy = 고양이 애호 관리 협의회
@@ -553,7 +543,6 @@ GLOSSARY:
   Asia = 아시아
   Australia = 오스트레일리아
   Fabaceae = 콩과
-  Genus = 속
   Guinea = 기니
   Gum arabic = 아라비아고무
   New Guinea = 뉴기니섬
@@ -581,7 +570,6 @@ GLOSSARY:
   Napoleonic Wars = 나폴레옹 전쟁
   Neoclassicism = 신고전주의
   Orientalist = 오리엔탈리즘
-  Realism = 사실주의
   Realism (arts) = 사실주의
   Romanticism = 낭만주의
   Vasari = 바사리
@@ -624,7 +612,6 @@ GLOSSARY:
   Peer review = 동료 평가
   Philosophical Transactions = 『철학 회보』
   Philosophical Transactions of the Royal Society = 『왕립 학회 철학 회보』
-  Research = 연구
   Royal Society = 왕립 학회
   Science (journal) = 『사이언스』
   Society = 사회
@@ -699,8 +686,6 @@ Extinct paraphyletic class of jawed fishes, often called spiny sharks. Acanthodi
 HEADWORD: Acceleration = 가속도
 LEVEL: 4
 GLOSSARY:
-  Acceleration = 가속도
-  Average = 평균
   Force = 힘
   Mass = 질량
   Newton's second law = 뉴턴의 운동 제2법칙
@@ -733,7 +718,6 @@ GLOSSARY:
   Accipitridae = 수리과
   Eurasian = 유라시아판
   Eurasian sparrowhawk = 새매
-  Genus = 속
   Jacques = 자크 퀴리
   Latin = 라틴어
   Mathurin Jacques Brisson = 마튀랭 자크 브리송
@@ -857,7 +841,6 @@ GLOSSARY:
   Aldehyde = 알데히드
   Cancer = 암
   Ethanol = 에탄올
-  Human = 인간
   International Agency for Research on Cancer = 국제 암 연구소
   Research = 연구
   alcohol dehydrogenase = 알코올 탈수소 효소

@@ -48,7 +48,6 @@ Type of financial [[Fraud|fraud]], named after Italian con artist Charles Ponzi.
 HEADWORD: Poodle = 푸들
 LEVEL: 5
 GLOSSARY:
-  Breed = 품종
   France = 프랑스
   Fédération Cynologique Internationale = 세계 애견 연맹
   Germany = 독일
@@ -70,7 +69,6 @@ GLOSSARY:
   Dictionary = 사전
   Eight-ball = 에이트볼
   English billiards = 잉글리시 빌리어즈
-  Family = 가족
   French = 프랑스어
   Kaisa = 카이사
   Oxford = 옥스퍼드
@@ -125,7 +123,6 @@ GLOSSARY:
   Blues = 블루스
   Dictionary = 사전
   England = 잉글랜드
-  Genre = 장르
   Grove Dictionary of Music and Musicians = 『그로브 음악 사전』
   Hip-hop = 힙합
   Latin = 라틴어
@@ -160,7 +157,6 @@ LEVEL: 4
 GLOSSARY:
   Americas = 아메리카
   Butter = 버터
-  Popcorn = 팝콘
   Salt = 소금
   Zea mays = Zea mays
   dent = 마치종
@@ -467,7 +463,6 @@ GLOSSARY:
   Catholic = 가톨릭
   Catholic Church = 가톨릭교회
   Church = 처치
-  Erasmus = 에라스뮈스
   Erasmus of Rotterdam = 로테르담의 에라스뮈스
   France = 프랑스
   French = 프랑스어
@@ -537,7 +532,6 @@ GLOSSARY:
   Kingdom of Italy = 이탈리아 왕국
   Mortara case = 모르타라 사건
   Paul = 바울로
-  Pope = 교황
   Pope John Paul II = 교황 요한 바오로 2세
   Republic = 『국가』
   Revolutions of 1848 = 1848년 혁명
@@ -611,7 +605,6 @@ Cartoon sailor created by Elzie Crisler Segar. Popeye the Sailor Man first appea
 HEADWORD: Popol Vuh = 포폴 부
 LEVEL: 4
 GLOSSARY:
-  Book = 책
   Book of Counsel = “조언의 책”
   Book of the Community = “공동체의 책”
   Chicago = 시카고
@@ -713,7 +706,6 @@ GLOSSARY:
   Genocide = 제노사이드
   Inbreeding = 근친 교배
   Population (biology) = 개체군
-  Sharp = 샤프
   alleles = 대립 유전자
   conservation biology = 보전생물학
   culling = 도태
@@ -770,12 +762,10 @@ HEADWORD: Porcelain = 자기
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Ceramic = 세라믹
   China = 중국
   Europe = 유럽
   Kaolinite = 고령석
   Meissen = 마이센
-  Porcelain = 자기
   Saxony = 작센
   Tableware = 식기
   bone china = 본차이나
@@ -804,7 +794,6 @@ GLOSSARY:
   North America = 북아메리카
   Old World = 구세계
   Old World porcupines = 구세계호저
-  Quills = 「퀼스」
   Rodent = 설치류
   South America = 남아메리카
   South Asia = 남아시아
@@ -854,7 +843,6 @@ GLOSSARY:
   Judaism = 유대교
   Mesopotamia = 메소포타미아
   Pig = 돼지
-  Pork = 돼지고기
   Sausage = 소시지
   Western world = 서양
   bacon = 베이컨
@@ -873,7 +861,6 @@ GLOSSARY:
   Manwin = 맨윈
   Mastercard = 마스터카드
   New York Times = 『뉴욕 타임스』
-  Pornhub = 폰허브
   Pornography = 포르노그래피
   Trade = 교역
   Utah = 유타주
@@ -902,7 +889,6 @@ GLOSSARY:
   Brothel = 성매매 업소
   Censorship = 검열
   Deep Throat = 「목구멍 깊숙이」
-  Film = 영화
   Golden Age of Porn = 포르노 황금기
   Hardcore pornography = 하드코어 포르노그래피
   Internet = 인터넷
@@ -923,7 +909,6 @@ GLOSSARY:
   Kama Sutra = 『카마수트라』
   Meta-analyses = 메타분석
   Paleolithic = 구석기 시대
-  Research = 연구
   Sexual arousal = 성적 흥분
   Sutra = 경장
   Upper Paleolithic = 후기 구석기 시대

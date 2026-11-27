@@ -53,7 +53,6 @@ GLOSSARY:
   Eocene = 에오세
   Eurasia = 유라시아
   Europe = 유럽
-  Family = 가족
   Frog = 개구리
   India = 인도
   Madagascar = 마다가스카르
@@ -100,7 +99,6 @@ GLOSSARY:
   Federal Bureau of Investigation = 연방 수사국
   Genocide = 제노사이드
   Post-traumatic stress disorder = 외상 후 스트레스 장애
-  Rape = 강간
   Sexual assault = 성폭행
   Sexually transmitted infection = 성매개 감염병
   Statutory rape = 의제 강간
@@ -128,7 +126,6 @@ GLOSSARY:
   India = 인도
   Japan = 일본
   Protein = 단백질
-  Rapeseed = 유채
   Vegetable oil = 식물성 기름
   biodiesel = 바이오디젤
   canola = 카놀라
@@ -191,7 +188,6 @@ LEVEL: 4
 GLOSSARY:
   Class I = 1급
   Erosion = 침식
-  Rapids = 여울
   Rock (geology) = 암석
   Turbulence = 난류
   Velocity = 속도
@@ -210,7 +206,6 @@ GLOSSARY:
   French = 프랑스어
   Italy = 이탈리아
   Nobility = 귀족
-  Rapier = 레이피어
   Society = 사회
   Society of American Fight Directors = 미국 무대 격투 감독 협회
   Spain = 스페인
@@ -275,7 +270,6 @@ American actress and model who became an international [[Sex symbol|sex symbol]]
 HEADWORD: Rare-earth element = 희토류 원소
 LEVEL: 5
 GLOSSARY:
-  China = 중국
   Earth's crust = 지각
   Lanthanide = 란타넘족
   Laser = 레이저
@@ -299,7 +293,6 @@ GLOSSARY:
   Daniel Bomberg = 다니엘 봄베르크
   Five Books of Moses = 모세 오경
   France = 프랑스
-  French = 프랑스어
   Middle Ages = 중세
   Moses = 모세
   Rabbi = 랍비
@@ -331,7 +324,6 @@ GLOSSARY:
   Rightly Guided = 정통 칼리파
   Sasanian Empire = 사산 제국
   Shi'as = 시아파
-  Sunni = 수니파
   Sunni Islam = 수니파
   Umar = 우마르
   Umayyad = 우마이야 왕조
@@ -390,7 +382,6 @@ Series of low-cost single-board computers originally developed in the [[United K
 HEADWORD: Raspberry = 라즈베리
 LEVEL: 4
 GLOSSARY:
-  Black = 검은색
   Blackberry = 블랙베리
   Irrigation = 관개
   North America = 북아메리카
@@ -400,7 +391,6 @@ GLOSSARY:
   Rubus idaeus = Rubus idaeus
   Rubus occidentalis = Rubus occidentalis
   Russia = 러시아
-  World = 세계
   aggregate fruit = 집합과
   drupelets = 소핵과
   rose family = 장미과
@@ -412,7 +402,6 @@ Edible fruit of several *Rubus* species in the [[Rosaceae|rose family]]. Raspber
 HEADWORD: Rastafari = 라스타파리
 LEVEL: 4
 GLOSSARY:
-  Abrahamic = 아브라함계
   African diaspora = 아프리카 디아스포라
   Afrocentric = 아프리카 중심주의
   Babylon = 바빌론
@@ -428,7 +417,6 @@ GLOSSARY:
   Jesus = 예수
   Marcus Garvey = 마커스 가비
   New religious movement = 신종교 운동
-  Rastafari = 라스타파리 운동
   Second = 초
   Second Coming = 재림
   Zion = 시온
@@ -471,7 +459,6 @@ GLOSSARY:
   Integer = 정수
   Irrational number = 무리수
   Multiplication = 곱셈
-  Number = 수
   Pi = 원주율
   Subtraction = 뺄셈
   coprime = 서로소
@@ -488,7 +475,6 @@ GLOSSARY:
   Continental rationalism = 대륙 합리론
   Descartes = 데카르트
   Empiricism = 경험론
-  Empiricists = 경험론자
   Enlightenment = 계몽주의
   Enlightenment rationalism = 계몽주의 합리주의
   Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
@@ -497,7 +483,6 @@ GLOSSARY:
   Leibniz = 라이프니츠
   Locke = 로크
   Mathematics = 수학
-  Rationalists = 합리론자
   René Descartes = 르네 데카르트
   Spinoza = 스피노자
   innatism = 생득설
@@ -591,9 +576,7 @@ GLOSSARY:
   Byzantine = 비잔티움
   Byzantine Empire = 비잔티움 제국
   Byzantines = 비잔티움인
-  City = 도시
   Early Christian Monuments of Ravenna = 라벤나의 초기 그리스도교 기념물
-  Eight = 「에잇」
   Emilia-Romagna = 에밀리아로마냐주
   Honorius = 호노리우스
   Italy = 이탈리아
@@ -656,7 +639,6 @@ LEVEL: 4
 GLOSSARY:
   Ayub Khan = 아유브 칸
   Buddhist = 불교
-  City = 도시
   East India Company = 동인도 회사
   Gakhar = 가카르
   Gandhara = 간다라
@@ -667,7 +649,6 @@ GLOSSARY:
   Pakistan = 파키스탄
   Pakistan Army = 파키스탄 육군
   Punjab = 펀자브
-  Rawalpindi = 라왈핀디
   Taxila = 탁실라
   World = 세계
   World Heritage = 세계 유산
@@ -718,7 +699,6 @@ GLOSSARY:
   Billboard 200 = 빌보드 200
   Billboard Hot 100 = 빌보드 핫 100
   Country music = 컨트리 음악
-  Frank = 프랭크
   Frank Sinatra = 프랭크 시나트라
   Georgia on My Mind = 「조지아 온 마이 마인드」
   Glaucoma = 녹내장
@@ -781,13 +761,11 @@ LEVEL: 5
 GLOSSARY:
   Blue = 파란색
   Electromagnetic radiation = 전자기 복사
-  John = 존
   John William Strutt = 존 윌리엄 스트럿
   Leonardo = 레오나르도
   Leonardo da Vinci = 레오나르도 다빈치
   Lord Rayleigh = 레일리 경
   Red = 빨간색
-  Scattering = 산란
   Sun = 태양
   Vinci = 빈치
   Wavelength = 파장
@@ -804,7 +782,6 @@ HEADWORD: Burr, Raymond = 버, 레이먼드
 LEVEL: 5
 GLOSSARY:
   Alfred = 앨프레드 대왕
-  Canadian = 캐나다
   Emmy = 에미상
   Emmy Awards = 에미상
   Globe = 지구본
@@ -879,7 +856,6 @@ LEVEL: 5
 GLOSSARY:
   Auguste Gabriel Maurice Raynaud = 오귀스트 가브리엘 모리스 레이노
   Climate = 기후
-  Episodes = 에피소드
   Gabriel = 가브리엘
   Lupus = 루푸스
   Stimulant = 각성제
@@ -901,11 +877,9 @@ GLOSSARY:
   Cotton = 면
   Edward John Bevan = 에드워드 존 베번
   Frederick = 프리드리히
-  French = 프랑스어
   Hilaire de Chardonnet = 일레르 드 샤르도네
   John = 존
   Lyocell = 라이오셀
-  Rayon = 레이온
   Silk = 비단
   Textile = 직물
   Wood = 목재

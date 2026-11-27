@@ -36,7 +36,6 @@ GLOSSARY:
   Ethnic conflict = 민족 분쟁
   European Union = 유럽 연합
   Extreme poverty = 극빈
-  Gender = 젠더
   Goal = 『골』
   Non-governmental organization = 비정부 기구
   Poverty = 빈곤
@@ -76,7 +75,6 @@ American media franchise centered on a [[Superhero|superhero]] television series
 HEADWORD: Power = 일률
 LEVEL: 4
 GLOSSARY:
-  Average = 평균
   Coal = 석탄
   Horsepower = 마력
   International System of Units = 국제단위계
@@ -99,7 +97,6 @@ GLOSSARY:
   Authority = 권위
   Bertram Raven = 버트럼 레이븐
   D. Keltner = D. 켈트너
-  French = 프랑스어
   Government = 정부
   Hannah Arendt = 한나 아렌트
   Institution = 제도
@@ -200,7 +197,6 @@ GLOSSARY:
   Jiangxi = 장시성
   Jiangxi Province = 장시성
   River = 강
-  Sand = 모래
   Siberian = 시베리아
   Siberian crane = 시베리아흰두루미
   Three Gorges Dam = 싼샤 댐
@@ -224,7 +220,6 @@ GLOSSARY:
   Adam Mickiewicz University = 아담 미츠키에비치 대학교
   Baptism = 세례
   Cegielski = 체기엘스키
-  City = 도시
   Greater Poland Voivodeship = 비엘코폴스카주
   Mieszko I = 미에슈코 1세
   Ostrów Tumski = 오스트루프툼스키
@@ -265,7 +260,6 @@ GLOSSARY:
   BRICS = 브릭스
   Danantara = 다난타라
   Indonesia = 인도네시아
-  Indonesian = 인도네시아어
   Kopassus = 코파수스
   Kostrad = 코스트라드
   Special Forces = 특수 부대
@@ -281,8 +275,6 @@ Indonesian politician and retired military officer, eighth president of Indonesi
 HEADWORD: Pragmatics = 화용론
 LEVEL: 4
 GLOSSARY:
-  Austin = 오스틴
-  Branch = 브랜치
   Charles Morris = 찰스 모리스
   J. L. Austin = J. L. 오스틴
   John = 존
@@ -290,7 +282,6 @@ GLOSSARY:
   Linguistics = 언어학
   Paul = 바울로
   Paul Grice = 폴 그라이스
-  Pragmatics = 화용론
   Semantics = 의미론
   Semiotics = 기호학
   Syntax = 통사론
@@ -394,7 +385,6 @@ GLOSSARY:
   Bison = 들소
   Brazil = 브라질
   Canada = 캐나다
-  Fire = 불
   Grassland = 초원
   Great Plains = 그레이트플레인스
   Interior Plains = 내륙 평원
@@ -423,10 +413,8 @@ GLOSSARY:
   Communication = 의사소통
   Coyote = 코요테
   Disease = 질병
-  Genus = 속
   Grassland = 초원
   North America = 북아메리카
-  Prairie = 프레리
   Squirrel = 다람쥐
   black-footed ferrets = 검은발족제비
   golden eagles = 검독수리
@@ -465,7 +453,6 @@ GLOSSARY:
   Jahangir = 자한기르
   Kumbh Mela = 쿰브 멜라
   Mughal = 무굴
-  Prayagraj = 프라야그라지
   Sarasvati = 사라스바티
   Triveni Sangam = 트리베니 상감
   Uttar Pradesh = 우타르프라데시주
@@ -490,7 +477,6 @@ GLOSSARY:
   Mecca = 메카
   Medieval Latin = 중세 라틴어
   Meditation = 명상
-  Prayer = 기도
   Sufis = 수피
   animist = 애니미즘
   comparative religion = 비교 종교학
@@ -627,7 +613,6 @@ GLOSSARY:
   Convection = 대류
   Köppen = 쾨펜
   Köppen climate classification = 쾨펜의 기후 구분
-  Precipitation = 강수
   Tropics = 열대
   Water vapor = 수증기
   drizzle = 이슬비
@@ -648,7 +633,6 @@ GLOSSARY:
   Evolution = 진화
   Hyena = 하이에나
   Jackal = 자칼
-  Predation = 포식
   Pursuit predators = 추적 포식자
   Scavenger = 청소동물
   aggressive mimicry = 공격 의태
@@ -664,9 +648,7 @@ HEADWORD: Predestination = 예정설
 LEVEL: 4
 GLOSSARY:
   Arminianism = 아르미니우스주의
-  Augustine = 아우구스티누스
   Augustine of Hippo = 히포의 아우구스티누스
-  Calvin = 칼뱅
   Catholicism = 가톨릭
   Determinism = 결정론
   Free will = 자유 의지
@@ -711,16 +693,12 @@ HEADWORD: Pregnancy = 임신
 LEVEL: 3
 GLOSSARY:
   Abortion = 임신 중절
-  Birth = 출산
   Childbirth = 출산
   Embryo = 배아
   Fetus = 태아
   Korea = 한국
   Niger = 니제르
-  Pregnancy = 임신
-  Prenatal = 출생 전
   South Korea = 대한민국
-  Time = 『타임』
   Uterus = 자궁
   fertility rate = 출산율
   first trimester = 임신 초기(제1삼분기)
@@ -800,7 +778,6 @@ LEVEL: 4
 GLOSSARY:
   British Isles = 브리튼 제도
   Brittany = 브르타뉴
-  Bronze = 청동
   Bronze Age = 청동기 시대
   Chalcolithic = 동석기 시대
   Iron = 철
@@ -809,10 +786,8 @@ GLOSSARY:
   Neolithic = 신석기 시대
   Neolithic Revolution = 신석기 혁명
   Paleolithic = 구석기 시대
-  Prehistory = 선사 시대
   Proto-Indo-European = 인도유럽조어
   Proto-Indo-European mythology = 인도유럽 조어 신화
-  Religion = 종교
   Stone circles = 환상 열석
   Stonehenge = 스톤헨지
   Upper Paleolithic = 후기 구석기 시대
@@ -850,7 +825,6 @@ GLOSSARY:
   Oceania = 오세아니아
   Pre-Columbian = 콜럼버스 이전
   Pre-Columbian era = 콜럼버스 이전 시대
-  Prehistory = 선사 시대
   Radiocarbon dating = 방사성 탄소 연대 측정
   Stone Age = 석기 시대
   Sumer = 수메르
@@ -965,7 +939,6 @@ HEADWORD: Presbyterianism = 장로교
 LEVEL: 4
 GLOSSARY:
   Australia = 오스트레일리아
-  Branch = 브랜치
   Calvin = 칼뱅
   Canada = 캐나다
   Christianity = 기독교

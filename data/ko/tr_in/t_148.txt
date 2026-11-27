@@ -52,7 +52,6 @@ GLOSSARY:
   Cabinet = 내각
   Cooperation = 협력
   Dielectric = 유전체
-  Dutch = 네덜란드어
   ETH Zurich = 취리히 연방 공과대학교
   Einstein = 아인슈타인
   Haarlem = 하를럼
@@ -117,7 +116,6 @@ GLOSSARY:
   Beta particle = 베타 입자
   Electron = 전자
   Ernest Rutherford = 어니스트 러더퍼드
-  French = 프랑스어
   Marie Curie = 마리 퀴리
   Nobel Prize = 노벨상
   Nobel Prize in Physics = 노벨 물리학상
@@ -145,7 +143,6 @@ GLOSSARY:
   Creative Evolution = 『창조적 진화』
   Evolution = 진화
   France = 프랑스
-  French = 프랑스어
   Grand-Croix of the Légion d'honneur = 레지옹 도뇌르 대십자 훈장
   Literature = 문학
   Matter = 물질
@@ -234,7 +231,6 @@ GLOSSARY:
   Antelope = 영양
   Avant-garde = 아방가르드
   Fauves = 야수파
-  French = 프랑스어
   Henri Matisse = 앙리 마티스
   Jungle = 정글
   Le Douanier = 르 두아니에
@@ -252,7 +248,6 @@ LEVEL: 4
 GLOSSARY:
   Brothel = 성매매 업소
   Cézanne = 세잔
-  French = 프랑스어
   Georges Seurat = 조르주 쇠라
   Inbreeding = 근친 교배
   Montmartre = 몽마르트르
@@ -269,7 +264,6 @@ French painter, printmaker, draftsman, caricaturist and illustrator. Born into a
 HEADWORD: Lacks, Henrietta = 랙스, 헨리에타
 LEVEL: 5
 GLOSSARY:
-  African-American = 아프리카계 미국인
   Baltimore = 볼티모어
   Cancer = 암
   Consent = 동의
@@ -301,7 +295,6 @@ GLOSSARY:
   Italy = 이탈리아
   Munich = 뮌헨
   Norway = 노르웨이
-  Norwegian = 노르웨이어
   Oslo = 오슬로
   Peer Gynt = 『페르 귄트』
   Rome = 로마
@@ -823,7 +816,6 @@ GLOSSARY:
   Maine = 메인주
   Massachusetts = 매사추세츠주
   New England = 뉴잉글랜드
-  Paul = 바울로
   Paul Revere's Ride = 「폴 리비어의 질주」
   Portland = 포틀랜드
   Portland, Maine = 메인주 포틀랜드

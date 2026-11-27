@@ -34,7 +34,6 @@ GLOSSARY:
   Ecology = 생태학
   Eugenics = 우생학
   Forms = 이데아
-  German = 독일어
   Germany = 독일
   Jena = 예나
   Kunstformen der Natur = 『자연의 예술적 형상』
@@ -117,11 +116,8 @@ GLOSSARY:
   Badlands = 악지
   Deforestation = 삼림 벌채
   Earth's crust = 지각
-  Erosion = 침식
   Landslide = 산사태
-  Physical = 「Physical」
   Sediment = 퇴적물
-  Water = 물
   Weathering = 풍화
   clastic = 쇄설성
   desertification = 사막화
@@ -176,7 +172,6 @@ Art, literature or photography that deals substantively with erotic subject matt
 HEADWORD: Flynn, Errol = 플린, 에롤
 LEVEL: 5
 GLOSSARY:
-  Australian = 오스트레일리아
   Blood = 혈액
   Captain = 선장
   Captain Blood = 「캡틴 블러드」
@@ -208,7 +203,6 @@ GLOSSARY:
   Hebrew Bible = 히브리어 성경
   Information theory = 정보 이론
   Numerical Masorah = 수치 마소라
-  Richard = 리처드
   Richard Hamming = 리처드 해밍
   cyclic redundancy checks = 순환 중복 검사
   error correction = 오류 정정
@@ -301,7 +295,6 @@ GLOSSARY:
   Normandy = 노르망디
   North Africa = 북아프리카
   Pour le Mérite = 푸르 르 메리트 훈장
-  Rommel = 로멜
   Rommel myth = 로멜 신화
   Wehrmacht = 독일 국방군
   World = 세계
@@ -348,7 +341,6 @@ GLOSSARY:
   Grammy Awards = 그래미상
   Holiday = 명절
   Mama's Gun = 『마마스 건』
-  Queen = 퀸
   Queen of Neo Soul = 네오 소울의 여왕
   Recording Industry Association of America = 미국 음반 산업 협회
   Soul = 영혼
@@ -390,7 +382,6 @@ GLOSSARY:
   Abrahamic = 아브라함계
   Abrahamic religions = 아브라함계 종교
   Antichrist = 적그리스도
-  Belief = 믿음
   Big Crunch = 대함몰
   Big Freeze = 대동결
   Christianity = 기독교
@@ -489,7 +480,6 @@ HEADWORD: Esperanto = 에스페란토
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Constructed = 구축전
   Doktoro Esperanto = 독토로 에스페란토
   East Asia = 동아시아
   Esperantists = 에스페란티스토
@@ -510,7 +500,6 @@ HEADWORD: Espionage = 첩보
 LEVEL: 4
 GLOSSARY:
   Counterespionage = 방첩
-  Espionage = 첩보
   Hammurabi = 함무라비
   Industrial espionage = 산업 스파이
   Military = 군대
@@ -815,7 +804,6 @@ GLOSSARY:
   Data = 『자료론』
   Ethernet = 이더넷
   FDDI = FDDI
-  Family = 가족
   IEEE = IEEE
   IEEE 802.11 = IEEE 802.11
   IEEE 802.3 = IEEE 802.3
@@ -846,7 +834,6 @@ GLOSSARY:
   Deontology = 의무론
   Descriptive ethics = 기술 윤리학
   Egypt = 이집트
-  Ethics = 윤리학
   French = 프랑스어
   G. E. M. Anscombe = G. E. M. 앤스컴
   Greece = 그리스
@@ -857,7 +844,6 @@ GLOSSARY:
   Old French = 고대 프랑스어
   Socrates = 소크라테스
   Utilitarianism = 공리주의
-  Virtue = 덕
   applied ethics = 응용 윤리학
   business ethics = 기업 윤리
   metaethics = 메타윤리학

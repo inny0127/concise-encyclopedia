@@ -27,7 +27,6 @@ GLOSSARY:
   Aboriginal Australians = 오스트레일리아 원주민
   Anishinaabe = 아니시나베족
   Australian = 오스트레일리아
-  Belief = 믿음
   Clan = 씨족
   New Age = 뉴에이지
   Ojibwe = 오지브와족
@@ -36,7 +35,6 @@ GLOSSARY:
   Strait = 해협
   Torres Strait = 토레스 해협
   Torres Strait Islander = 토러스 해협 제도민
-  Totem = 토템
   Totem poles = 토템폴
   doodem = 도뎀
   lineage = 리니지
@@ -74,7 +72,6 @@ GLOSSARY:
   E.A. Johnson = E. A. 존슨
   Elographics = 엘로그래픽스
   Establishment = 기득권층
-  Johnson = 존슨
   LCD = 액정 디스플레이
   Malvern = 맬번
   OLED = 유기 발광 다이오드
@@ -152,7 +149,6 @@ GLOSSARY:
   Mon = 몬족
   Myanmar = 미얀마
   Nyaungyan Min = 냐웅얀 왕
-  Palace = 궁전
   Tabinshwehti = 따빈슈웨티
   Taungoo = 타웅우
   Toungoo Empire = 따웅우 왕조
@@ -168,7 +164,6 @@ GLOSSARY:
   Amphetamine = 암페타민
   Champs-Élysées = 샹젤리제
   Cycling = 자전거 타기
-  Doping = 도핑
   Eddy Merckx = 에디 메르크스
   France = 프랑스
   Giro d'Italia = 지로 디탈리아
@@ -192,7 +187,6 @@ Annual men's multiple-stage [[Cycling|road cycling]] race, held primarily in [[F
 HEADWORD: Tourette syndrome = 투렛 증후군
 LEVEL: 5
 GLOSSARY:
-  ADHD = 주의력 결핍 과잉 행동 장애
   Attention deficit hyperactivity disorder = 주의력 결핍 과잉행동 장애
   Basal ganglia = 기저핵
   Neurodevelopmental disorder = 신경 발달 장애
@@ -215,7 +209,6 @@ GLOSSARY:
   H1N1 influenza = H1N1 인플루엔자
   Latin = 라틴어
   League of Nations = 국제 연맹
-  Numbers = 「민수기」
   Old French = 고대 프랑스어
   Sustainability = 지속 가능성
   Tourism = 관광
@@ -245,7 +238,6 @@ GLOSSARY:
   Elbaite = 리티아전기석
   Madagascar = 마다가스카르
   Sinhalese = 싱할라어
-  Tourmaline = 전기석
   United States = 미국
   piezoelectric = 압전
   pyroelectric = 초전
@@ -341,7 +333,6 @@ HEADWORD: Tower block = 고층 건물
 LEVEL: 4
 GLOSSARY:
   Ancient Rome = 고대 로마
-  Apartment = 아파트
   Augustus = 아우구스투스
   Concrete = 콘크리트
   Elevator = 엘리베이터
@@ -371,7 +362,6 @@ GLOSSARY:
   Marduk = 마르두크
   Mesopotamia = 메소포타미아
   Shinar = 시날
-  Tower = 탑
   Yahweh = 야훼
 ENTRY:
 Origin myth in the [[Book of Genesis]] explaining the existence of different languages. In the story, a united humanity speaking one language migrates to Shinar in lower [[Mesopotamia]] and builds a city with a tower meant to reach the sky. [[Yahweh]] confuses their speech and scatters them across the earth.Modern scholars often link the tale to Etemenanki, a ziggurat dedicated to the god Marduk in [[Babylon|Babylon]], which was called Babel in Hebrew. The name Babel is linked to a Hebrew verb meaning "to confuse", and the phrase "Tower of Babel" does not appear in the Bible.
@@ -451,8 +441,6 @@ GLOSSARY:
   Cell (biology) = 세포
   Liver = 간
   Pathogen = 병원체
-  Physical = 「Physical」
-  Toxicity = 독성
   Venom = 독
   asbestos = 석면
   intoxication = 중독
@@ -489,7 +477,6 @@ GLOSSARY:
   Cat = 고양이
   Feces = 대변
   Immune system = 면역계
-  Infection = 감염
   Pregnancy = 임신
   Protozoa = 원생동물
   Toxoplasma gondii = 톡소플라스마 곤디
@@ -520,7 +507,6 @@ GLOSSARY:
   Middle class = 중산층
   Ostomachion = 오스토마키온
   Puzzle = 퍼즐
-  Research = 연구
   Rome = 로마
   ancient Greece = 고대 그리스
   ancient Rome = 고대 로마
@@ -734,7 +720,6 @@ GLOSSARY:
   High jump = 높이뛰기
   Long jump = 멀리뛰기
   Olympic Games = 올림픽
-  Sport = 스포츠
   Track and field = 육상 경기
   United States = 미국
   World = 세계
@@ -756,7 +741,6 @@ HEADWORD: Tractor = 트랙터
 LEVEL: 4
 GLOSSARY:
   Agriculture = 농업
-  Engineering = 공학
   Fordson = 포드슨
   Henry Ford = 헨리 포드
   Illinois = 일리노이주
@@ -836,7 +820,6 @@ GLOSSARY:
   Southeast Asia = 동남아시아
   Sumerians = 수메르인
   Taiwan = 타이완
-  Trade = 교역
   Western Europe = 서유럽
   comparative advantage = 비교 우위
   division of labor = 분업
@@ -922,7 +905,6 @@ GLOSSARY:
   Southeast = 남동부
   Southeast Asia = 동남아시아
   Southern Hemisphere = 남반구
-  Trade = 교역
   Trade winds = 무역풍
   prevailing winds = 탁월풍
   tropical storms = 열대 폭풍
@@ -947,7 +929,6 @@ GLOSSARY:
   Modernist = 모더니스트
   Oral tradition = 구전
   Roman law = 로마법
-  Views = 『뷰스』
   alliteration = 두운
   modernity = 근대성
   oral tradition = 구전
@@ -987,10 +968,8 @@ Alternative medical practice drawn from [[Traditional medicine|traditional medic
 HEADWORD: Traditional animation = 전통 애니메이션
 LEVEL: 4
 GLOSSARY:
-  Animation = 애니메이션
   Computer animation = 컴퓨터 애니메이션
   Layout artists = 레이아웃 아티스트
-  Today = 「투데이」
   United States = 미국
   cel = 셀 애니메이션
   classical = 고전적 카이퍼대 천체
@@ -1008,7 +987,6 @@ GLOSSARY:
   Ayurveda = 아유르베다
   Chinese medicine = 중의학
   Indigenous = 원주민
-  Knowledge = 지식
   Sumerians = 수메르인
   Traditional Chinese medicine = 중국 전통 의학
   Unani = 우나니 의학

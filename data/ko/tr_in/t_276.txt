@@ -9,8 +9,6 @@ GLOSSARY:
   Criminal law = 형법
   Pedagogy = 교육학
   Prison = 교도소
-  Punishment = 형벌
-  Skinner = 스키너
 ENTRY:
 Imposition of an undesirable or unpleasant outcome on an individual or group in response to breaking a norm or rule. The term is used in [[Criminal law|criminal justice]] and elsewhere, as in [[Child|child]] discipline. Philosophers have justified punishment as a means of deterring wrongdoing, rehabilitating offenders, incapacitating the dangerous or giving justice to those who deserve it. Penalties range from reprimands, removal of privileges and fines to [[Prison|imprisonment]], [[Amputation|amputation]] and the death penalty. [[Aristotle]] wrote extensively on the ethics of imposing pain. In psychology, following B.F. Skinner, punishment reduces a behavior through an unpleasant stimulus or the removal of a pleasant one, and is identified only when the behavior decreases. Punishment can also be part of [[Pedagogy|pedagogy]], alongside rewards.
 
@@ -18,7 +16,6 @@ Imposition of an undesirable or unpleasant outcome on an individual or group in 
 HEADWORD: Punjab = 펀자브
 LEVEL: 4
 GLOSSARY:
-  Agriculture = 농업
   Asia = 아시아
   Beas = 베아스강
   Chenab = 체나브강
@@ -78,8 +75,6 @@ GLOSSARY:
   Multan = 물탄
   Muslims = 무슬림
   Pakistan = 파키스탄
-  Punjab = 펀자브
-  Punjabi = 펀자브어
   Punjabi Muslims = 펀자브 무슬림
   Rawalpindi = 라왈핀디
   Shalimar = 샬리마르
@@ -122,7 +117,6 @@ GLOSSARY:
   Punjabi people = 펀자브인
   Sanskrit = 산스크리트어
   Shahmukhi = 샤흐무키 문자
-  Standard = 스탠더드
   United Kingdom = 영국
   United States = 미국
   tonal language = 성조 언어
@@ -136,7 +130,6 @@ GLOSSARY:
   Alternative rock = 얼터너티브 록
   City = 도시
   England = 잉글랜드
-  Genre = 장르
   New York City = 뉴욕
   Nirvana = 열반
   Nirvana (band) = 너바나
@@ -190,7 +183,6 @@ HEADWORD: Pupa = 번데기
 LEVEL: 4
 GLOSSARY:
   Imago = 성충
-  Life = 『라이프』
   Metamorphosis = 변태
   Mosquito = 모기
   Tropics = 열대
@@ -212,12 +204,10 @@ LEVEL: 4
 GLOSSARY:
   Ancient Greece = 고대 그리스
   Greece = 그리스
-  Hand = 손
   Judy = 「주디」
   Marionettes = 마리오네트
   Punch = 『펀치』
   Punch and Judy = 펀치와 주디
-  Puppetry = 인형극
   ancient Greece = 고대 그리스
   bunraku = 분라쿠
   puppeteer = 인형 조종사
@@ -247,13 +237,10 @@ GLOSSARY:
   Conic section = 원뿔 곡선
   Greece = 그리스
   Integer = 정수
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Newton = 뉴턴
   RSA cryptosystem = RSA 암호
-  Research = 연구
   Russell's paradox = 러셀의 역설
-  Today = 「투데이」
   ancient Greece = 고대 그리스
   axiomatic methods = 공리적 방법
   conic sections = 원뿔 곡선
@@ -301,7 +288,6 @@ GLOSSARY:
   Protestantism = 개신교
   Protestants = 개신교도
   Puritan = 청교도
-  Puritans = 청교도
   congregational = 회중제
   covenant theology = 언약 신학
   episcopal = 주교제
@@ -318,7 +304,6 @@ GLOSSARY:
   Byzantine Empire = 비잔티움 제국
   CMYK = CMYK
   CMYK color model = CMYK 색 모형
-  Color = 색
   Color theory = 색채 이론
   Europe = 유럽
   Holy Roman Empire = 신성 로마 제국
@@ -345,7 +330,6 @@ GLOSSARY:
   Bromeliaceae = 파인애플과
   Central America = 중앙아메리카
   Chile = 칠레
-  Genus = 속
   Indigenous = 원주민
   Mapuche = 마푸체족
   Puya raimondii = 푸야 라이몬디
@@ -392,7 +376,6 @@ GLOSSARY:
   BODMAS = BODMAS
   Crossword = 십자말풀이
   Cube = 정육면체
-  Game = 게임
   Jigsaw puzzle = 직소 퍼즐
   Königsberg = 쾨니히스베르크
   Multiplication = 곱셈
@@ -495,7 +478,6 @@ GLOSSARY:
   Imhotep = 임호테프
   Khufu = 쿠푸
   Mesopotamia = 메소포타미아
-  Mesopotamians = 메소포타미아인
   Mexico = 멕시코
   Pharaoh = 파라오
   Pyramid = 피라미드
@@ -526,7 +508,6 @@ GLOSSARY:
   Kingdom of Navarre = 나바라 왕국
   Mediterranean = 지중해
   Mediterranean Sea = 지중해
-  Mountain = 산
   Mountain range = 산맥
   Navarre = 나바라
   Pyrene = 피레네
@@ -540,10 +521,8 @@ LEVEL: 5
 GLOSSARY:
   Flint = 부싯돌
   Gold = 금
-  Iron = 철
   Iron sulfide = 황화철
   Neanderthal = 네안데르탈인
-  Pyrite = 황철석
   copperas = 녹반
   ferrous sulfate = 황산철(II)
   fool's gold = 바보의 금
@@ -557,7 +536,6 @@ Iron sulfide mineral with the formula FeS₂, the most abundant sulfide mineral 
 HEADWORD: Pyroclastic flow = 화쇄류
 LEVEL: 5
 GLOSSARY:
-  French = 프랑스어
   Martinique = 마르티니크
   Mount Pelée = 펠레산
   Volcano = 화산
@@ -703,7 +681,6 @@ GLOSSARY:
   Pyu script = 퓨 문자
   River = 강
   Sri Ksetra = 스리크세트라
-  Trade = 교역
   UNESCO = 유네스코
   UNESCO World Heritage Sites = 유네스코 세계유산
   Upper Myanmar = 미얀마 북부
@@ -742,7 +719,6 @@ GLOSSARY:
   Kenosha = 커노샤
   Newspaper = 신문
   Patent = 특허
-  QWERTY = 쿼티
   Remington No. 2 = 레밍턴 2호
   Sholes and Glidden typewriter = 숄스 앤드 글리든 타자기
   Typewriter = 타자기
@@ -762,11 +738,9 @@ GLOSSARY:
   Atlas = 지도책
   Atlas Mountains = 아틀라스산맥
   Evaporation = 증발
-  Gravity = 중력
   Iran = 이란
   Oman = 오만
   Pakistan = 파키스탄
-  Underground = 『언더그라운드』
   Xinjiang = 신장
   foggāra = 포가라
   khettāra = 케타라
@@ -781,7 +755,6 @@ GLOSSARY:
   Airport = 공항
   Australia = 오스트레일리아
   Australian = 오스트레일리아
-  Flag = 깃발
   Flag carrier = 국책 항공사
   Mascot = 마스코트
   Northern Territory = 노던 준주

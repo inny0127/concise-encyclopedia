@@ -16,7 +16,6 @@ GLOSSARY:
   Nile = 나일강
   Nile Delta = 나일강 삼각주
   Pharos = 파로스
-  Port = 항구
   Ptolemaic = 프톨레마이오스 왕조
   Ptolemaic Kingdom = 프톨레마이오스 왕조
   Seven = 「세븐」
@@ -36,7 +35,6 @@ GLOSSARY:
   Novichok = 노비촉
   Poison dart frog = 독화살개구리
   Russia = 러시아
-  Russian = 러시아어
   South American = 남아메리카
   Vladimir = 블라디미르
   Vladimir Putin = 블라디미르 푸틴
@@ -112,7 +110,6 @@ GLOSSARY:
   Sweden = 스웨덴
   Treaty = 조약
   Treaty of Pereyaslavl = 페레야슬라프 조약
-  Tsar = 차르
   Ukraine = 우크라이나
   boyar = 보야르
   left-bank Ukraine = 좌안 우크라이나
@@ -310,13 +307,11 @@ HEADWORD: Wegener, Alfred = 베게너, 알프레트
 LEVEL: 4
 GLOSSARY:
   Air mass = 기단
-  German = 독일어
   Greenland = 그린란드
   Kurt = 쿠르트
   Pangaea = 판게아
   Plate tectonics = 판 구조론
   The Origin of Continents and Oceans = 『대륙과 해양의 기원』
-  Today = 「투데이」
   air masses = 기단
   continental drift = 대륙 이동설
   palaeomagnetism = 고지자기
@@ -397,7 +392,6 @@ Paraguayan army general and military dictator, president of Paraguay (1954–198
 HEADWORD: Algae = 조류
 LEVEL: 3
 GLOSSARY:
-  Algae = 조류
   Charophyta = 윤조식물
   Chlorophytes = 녹조식물
   Cyanobacteria = 남세균
@@ -441,14 +435,11 @@ LEVEL: 2
 GLOSSARY:
   Abstract algebra = 추상대수학
   Al-Khwarizmi = 알콰리즈미
-  Algebra = 대수학
   Algebraic structure = 대수 구조
   Arabic = 아랍어
   Arithmetic = 산술
   Book = 책
   Brahmagupta = 브라마굽타
-  Branch = 브랜치
-  Elementary = 「엘리멘트리」
   Elementary algebra = 초등대수학
   Identity equations = 항등식
   Linear algebra = 선형대수학
@@ -488,7 +479,6 @@ Algebraic methods were first studied in the ancient period to solve specific pro
 HEADWORD: Algebraic geometry = 대수기하학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Commutative algebra = 가환대수학
   Complex analysis = 복소해석학
   Fermat's Last Theorem = 페르마의 마지막 정리
@@ -540,7 +530,6 @@ HEADWORD: Algebraic number theory = 대수적 수론
 LEVEL: 4
 GLOSSARY:
   Abstract algebra = 추상대수학
-  Branch = 브랜치
   Carl Friedrich Gauss = 카를 프리드리히 가우스
   Diophantine equation = 디오판토스 방정식
   Diophantus = 디오판토스
@@ -594,7 +583,6 @@ LEVEL: 4
 GLOSSARY:
   Abstract algebra = 추상대수학
   Algebraic topology = 대수적 위상수학
-  Branch = 브랜치
   Circle = 원
   Euclidean = 유클리드
   Euclidean space = 유클리드 공간
@@ -623,7 +611,6 @@ GLOSSARY:
   Algebraic geometry = 대수기하학
   Complex number = 복소수
   Fundamental theorem of algebra = 대수학의 기본 정리
-  Hilbert's = 힐베르트의
   Hilbert's Nullstellensatz = 힐베르트 영점 정리
   Zariski topology = 자리스키 위상
   algebraic curves = 대수 곡선
@@ -662,8 +649,6 @@ GLOSSARY:
   France = 프랑스
   Human = 인간
   Human Development Index = 인간 개발 지수
-  Hydrocarbons = 탄화수소
-  Indigenous = 원주민
   Islam = 이슬람교
   Libya = 리비아
   Maghreb = 마그레브
@@ -724,7 +709,6 @@ GLOSSARY:
   California = 캘리포니아주
   Canada = 캐나다
   Edward Sapir = 에드워드 사피어
-  Indigenous = 원주민
   Michelson = 마이컬슨
   North America = 북아메리카
   Proto-Algic = 원시 알직어
@@ -781,7 +765,6 @@ GLOSSARY:
   Arabic = 아랍어
   Arithmetic = 산술
   Babylonian mathematics = 바빌로니아 수학
-  Chaucer = 초서
   Computer = 컴퓨터
   Computer science = 컴퓨터 과학
   Dixit Algoritmi = 딕시트 알고리트미
@@ -837,7 +820,6 @@ GLOSSARY:
   Muhammad I ibn al-Ahmar = 무함마드 1세 이븐 알아흐마르
   Napoleon = 나폴레옹
   Nasrid = 나스르 왕조
-  Palace = 궁전
   Reconquista = 레콩키스타
   Renaissance = 르네상스
   Sabika hill = 사비카 언덕
@@ -845,7 +827,6 @@ GLOSSARY:
   Tales of the Alhambra = 『알람브라 이야기』
   UNESCO = 유네스코
   UNESCO World Heritage Site = 유네스코 세계유산
-  Washington = 워싱턴주
   World = 세계
   World Heritage = 세계 유산
   World Heritage Site = 세계유산
@@ -1039,7 +1020,6 @@ GLOSSARY:
   Alice = 알리사
   Alice Cooper = 앨리스 쿠퍼
   Detroit = 디트로이트
-  Godfather = 대부
   Godfather of Shock Rock = 쇼크 록의 대부
   I'm Eighteen = 「아임 에이틴」
   Phoenix = 피닉스
@@ -1069,7 +1049,6 @@ GLOSSARY:
   River = 강
   The Alice = 디 앨리스
   Todd River = 토드강
-  Town = 소도시
 ENTRY:
 Town in the [[Northern Territory|Northern Territory]], Australia. Locally called The Alice, it is the third-largest settlement in the territory and is roughly equidistant from [[Adelaide|Adelaide]] and Darwin. It was named after Alice, Lady Todd, wife of the telegraph pioneer Charles Todd. The town straddles the usually dry Todd River, north of the MacDonnell Ranges, in the arid Red Centre. Its population was 34,783 as of June 2025. The Arrernte people have lived in the area for at least 30,000 years.
 

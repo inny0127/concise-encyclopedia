@@ -5,7 +5,6 @@ GLOSSARY:
   Antonio Vivaldi = 안토니오 비발디
   Baroque = 바로크
   Battle of Lepanto = 레판토 해전
-  City = 도시
   Crusades = 십자군
   Italy = 이탈리아
   Kingdom of Italy = 이탈리아 왕국
@@ -60,7 +59,6 @@ GLOSSARY:
   Cancer = 암
   Invertebrate = 무척추동물
   Poison = 독
-  Venom = 독
   Vertebrate = 척추동물
   Wound = 상처
   cytotoxins = 세포 독소
@@ -87,7 +85,6 @@ GLOSSARY:
   Mariner 10 = 매리너 10호
   Mariner 2 = 매리너 2호
   Mercury (planet) = 수성
-  Second = 초
   Solar System = 태양계
   Solar wind = 태양풍
   Sulfuric acid = 황산
@@ -167,7 +164,6 @@ GLOSSARY:
   Roman mythology = 로마 신화
   Romans = 로마인
   Troy = 트로이
-  Venus = 금성
   venus = 베누스
 ENTRY:
 Roman goddess whose functions encompassed love, beauty, desire, sex, [[Fertility|fertility]], prosperity and victory. In [[Roman mythology|Roman mythology]], she was the ancestor of the Roman people through her son Aeneas, who survived the fall of Troy and fled to Italy, and [[Julius Caesar|Julius Caesar]] claimed her as his own ancestor. Venus was central to many religious festivals and was revered under numerous cult titles. The Romans adapted the myths and iconography of the Greek [[Aphrodite|Aphrodite]] for [[Roman art|Roman art]] and [[Latin literature|Latin literature]]. In the later classical tradition of the West, she became one of the most widely referenced deities of Greco-Roman mythology as the embodiment of love and sexuality, and she is usually depicted nude. Her name is related to the Latin word *venus*, meaning 'love' or 'charm'.
@@ -188,9 +184,7 @@ GLOSSARY:
   Natural History = 『박물지』
   Natural History Museum = 자연사 박물관
   Ochre = 황토
-  Others = 아더
   Paleolithic = 구석기 시대
-  Research = 연구
   Venus = 금성
   Venus (mythology) = 베누스
   Vienna = 빈
@@ -207,16 +201,12 @@ GLOSSARY:
   Afro-Caribbean = 아프리카계 카리브
   City = 도시
   Fort San Juan de Ulúa = 산후안데울루아 요새
-  France = 프랑스
   Good Friday = 성금요일
   Gulf of Mexico = 멕시코만
   Hernán Cortés = 에르난 코르테스
   Mexico = 멕시코
   Mexico City = 멕시코시티
-  Petroleum = 석유
-  Port = 항구
   Tampico Affair = 탐피코 사건
-  True = 『True』
   United States = 미국
   Veracruz = 베라크루스주
   Villa Rica de la Vera Cruz = 비야리카데라베라크루스
@@ -314,8 +304,6 @@ GLOSSARY:
   Jabir ibn Hayyan = 자비르 이븐 하이얀
   Persian = 페르시아어
   Pigment = 안료
-  Toxic = 「Toxic」
-  Vermilion = 주홍색
   mercury sulfide = 황화 수은
 ENTRY:
 Toxic red [[Pigment|pigment]] made by grinding the mineral [[Cinnabar|cinnabar]], a form of mercury sulfide. Vermilion is synonymous with red-orange, but it is not one hue: particle size produces shades from bright orange-red to a duller reddish purple. The Chinese probably made a synthetic version as early as the 4th century BC, and the Persian alchemist [[Jabir ibn Hayyan|Jabir ibn Hayyan]] described the process in the 9th century. A 17th-century Dutch method is still used today with essentially the same process. The pigment tends to darken, and like most mercury compounds it is toxic.
@@ -357,7 +345,6 @@ GLOSSARY:
   Hagfish = 먹장어
   Jurassic = 쥐라기
   Lamprey = 칠성장어
-  Mammals = 포유류
   Ordovician = 오르도비스기
   Silurian = 실루리아기
   Spinal cord = 척수
@@ -411,7 +398,6 @@ LEVEL: 4
 GLOSSARY:
   Animal = 동물
   Ashoka = 아소카
-  Branch = 브랜치
   Claude = 클로드
   Claude Bourgelat = 클로드 부르즐라
   Dynasty = 「다이너스티」
@@ -454,7 +440,6 @@ GLOSSARY:
   Antisemitism = 반유대주의
   Battle of France = 프랑스 전투
   France = 프랑스
-  French = 프랑스어
   German = 독일어
   Germany = 독일
   Jews = 유대인
@@ -485,7 +470,6 @@ GLOSSARY:
   Loam = 양토
   Lower Galilee = 하갈릴리
   Neolithic = 신석기 시대
-  Species = 종
   broad bean = 잠두
   cover crop = 피복 작물
   diploid = 이배체
@@ -554,13 +538,11 @@ LEVEL: 4
 GLOSSARY:
   Basalt = 현무암
   David Livingstone = 데이비드 리빙스턴
-  Flood = 홍수
   Livingstone = 리빙스턴
   Mosi-oa-Tunya = 모시오아툰야
   Queen = 퀸
   Queen Victoria = 빅토리아 여왕
   River = 강
-  Scottish = 스코틀랜드
   World = 세계
   World Heritage = 세계 유산
   World Heritage List = 세계유산 목록
@@ -628,7 +610,6 @@ GLOSSARY:
   Queen Victoria = 빅토리아 여왕
   Slum = 빈민가
   United Kingdom = 영국
-  Victorian = 빅토리아 시대
   hegemonic superpower = 패권적 초강대국
 ENTRY:
 Period of [[Queen Victoria|Queen Victoria]]'s reign over the United Kingdom, from 1837 to 1901, when the British Empire was the world's hegemonic superpower. Victorian society valued high standards of personal conduct, which gave impetus to social reform but also restricted some groups. Prosperity rose, and literacy and childhood education became nearly universal in Great Britain, but [[Slum|slum]] housing and disease remained severe. Britain was advanced in industry and engineering. Great Britain's population grew rapidly, while Ireland's fell sharply after the [[Great Famine (Ireland)|Great Famine]] of the mid-1840s.
@@ -724,7 +705,6 @@ GLOSSARY:
   OXO = 「OXO」
   Odyssey = 『오디세이아』
   Oscilloscope = 오실로스코프
-  Others = 아더
   Pong = 「퐁」
   Sega = 세가
   Sony = 소니
@@ -844,7 +824,6 @@ GLOSSARY:
   Setthathirath = 세타티랏
   Thailand = 태국
   Viangchan = 위앙짠
-  Vientiane = 비엔티안
   War = 전쟁
   World = 세계
   World War II = 제2차 세계 대전
@@ -931,7 +910,6 @@ GLOSSARY:
   Red River = 「붉은 강」
   Red River Delta = 홍강 삼각주
   River = 강
-  Socialist = 사회당
   South China = 화난
   South China Sea = 남중국해
   South Vietnam = 남베트남
@@ -961,7 +939,6 @@ GLOSSARY:
   Chinese characters = 한자
   French = 프랑스어
   Middle Chinese = 중고 중국어
-  Sino-Vietnamese = 한월어
   Sino-Vietnamese vocabulary = 한월어
   Vietic = 비엣어파
   Vietnam = 베트남
@@ -1024,7 +1001,6 @@ GLOSSARY:
   Icelandic = 아이슬란드어
   Ireland = 아일랜드
   Kievan Rus' = 키예프 루스
-  Knowledge = 지식
   Lindisfarne = 린디스판
   Middle Ages = 중세
   Newfoundland = 뉴펀들랜드
@@ -1037,7 +1013,6 @@ GLOSSARY:
   Northumberland = 노섬벌랜드
   Norway = 노르웨이
   Norwegian = 노르웨이어
-  Rus' = 루스
   Saga = 사가
   Scandinavia = 스칸디나비아
   Stamford = 스탬퍼드

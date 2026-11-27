@@ -28,7 +28,6 @@ GLOSSARY:
   Flute = 피리
   Germany = 독일
   Ivan Turk = 이반 투르크
-  Mammoth = 매머드
   Mesopotamia = 메소포타미아
   Neanderthal = 네안데르탈인
   North Africa = 북아프리카
@@ -87,7 +86,6 @@ HEADWORD: Musical theater = 뮤지컬
 LEVEL: 4
 GLOSSARY:
   Broadway = 브로드웨이
-  Edwardian = 에드워드 시대
   Edwardian musical comedies = 에드워드 시대 뮤지컬 코미디
   France = 프랑스
   Gilbert = 길버트 제도
@@ -163,7 +161,6 @@ GLOSSARY:
   Minié ball = 미니에탄
   Plate armour = 판금 갑옷
   Rifled muskets = 강선 머스킷
-  Smoothbore = 활강
   Winchester = 윈체스터
   Winchester rifle = 윈체스터 소총
   black powder = 흑색 화약
@@ -291,7 +288,6 @@ GLOSSARY:
   K.S. Lal = K. S. 랄
   Khalji = 할지 왕조
   Mahmud of Ghazni = 가즈니의 마흐무드
-  Military = 군대
   Mughal = 무굴
   Mughal Empire = 무굴 제국
   Muhammad = 무함마드
@@ -363,7 +359,6 @@ LEVEL: 4
 GLOSSARY:
   Abdul Hamid II = 압뒬하미트 2세
   Atatürk = 아타튀르크
-  Father = 아버지
   Gallipoli = 갈리폴리
   Gallipoli campaign = 갈리폴리 전역
   Independence = 인디펜던스
@@ -427,7 +422,6 @@ LEVEL: 4
 GLOSSARY:
   Badger = 오소리
   Caniformia = 개아목
-  Family = 가족
   Ferret = 페럿
   Otter = 수달
   Sea otter = 해달
@@ -574,7 +568,6 @@ American rock band from New Jersey, formed in September 2001. The band is consid
 HEADWORD: My Lai massacre = 미라이 학살
 LEVEL: 5
 GLOSSARY:
-  Female = 암컷
   Ronald Ridenhour = 로널드 라이든아워
   Seymour Hersh = 시모어 허시
   South Vietnam = 남베트남
@@ -591,10 +584,8 @@ War crime in which U.S. Army soldiers killed between 347 and 504 civilians, almo
 HEADWORD: My Little Pony = 마이 리틀 포니
 LEVEL: 5
 GLOSSARY:
-  Friendship = 우정
   Hasbro = 해즈브로
   Pony = 조랑말
-  Retail = 소매
   Toy = 장난감
   United States = 미국
   cult following = 컬트 팬층
@@ -648,7 +639,6 @@ GLOSSARY:
   Democracy = 민주주의
   High Commissioner = 고등판무관
   High Commissioner for Refugees = 난민 고등판무관
-  Independence = 인디펜던스
   Irrawaddy = 이라와디강
   Irrawaddy valley = 이라와디강 유역
   Konbaung dynasty = 꼰바웅 왕조
@@ -710,10 +700,8 @@ LEVEL: 4
 GLOSSARY:
   Armillaria = 뽕나무버섯속
   Carbon dioxide = 이산화 탄소
-  Fungi = 균계
   Fungus = 균류
   Hypha = 균사
-  Mycelium = 균사체
   Mycorrhizal = 균근
   Petroleum = 석유
   Polystyrene = 폴리스티렌
@@ -759,10 +747,7 @@ HEADWORD: Mycology = 균학
 LEVEL: 4
 GLOSSARY:
   Antibiotic = 항생제
-  Branch = 브랜치
-  Fungi = 균계
   Fungus = 균류
-  Mycology = 균학
   Pathogen = 병원체
   Penicillin = 페니실린
   Traditional medicine = 전통 의학
@@ -786,7 +771,6 @@ GLOSSARY:
   Cardiac arrest = 심정지
   Coronary artery bypass surgery = 관상 동맥 우회술
   Coronary artery disease = 관상 동맥 질환
-  Death = 죽음
   Electrocardiography = 심전도 검사
   Heart failure = 심부전
   ST elevation myocardial infarction = ST분절 상승 심근경색
@@ -820,7 +804,6 @@ LEVEL: 5
 GLOSSARY:
   Glasses = 안경
   Glaucoma = 녹내장
-  Myopia = 근시
   Surgery = 수술
   cataracts = 백내장
   contact lenses = 콘택트렌즈
@@ -877,7 +860,6 @@ GLOSSARY:
   Guava = 구아바
   Myrtales = 도금양목
   Plant = 식물
-  Pollen = 꽃가루
   allspice = 올스파이스
   dicotyledonous = 쌍떡잎
   essential oils = 정유
@@ -915,7 +897,6 @@ GLOSSARY:
   Facebook = 페이스북
   Justin Timberlake = 저스틴 팀버레이크
   Media = 메디아
-  News = 뉴스
   News Corporation = 뉴스 코퍼레이션
   Social networking service = 소셜 네트워크 서비스
   Specific Media = 스페시픽 미디어
@@ -929,10 +910,8 @@ GLOSSARY:
   Aldous Huxley = 올더스 헉슬리
   Experience = 「경험」
   James = 야고보
-  Rudolf = 루돌프
   Rudolf Otto = 루돌프 오토
   The Varieties of Religious Experience = 『종교적 경험의 다양성』
-  William = 윌리엄
   William James = 윌리엄 제임스
   constructionist = 구성주의적
   ineffability = 형언 불가능성

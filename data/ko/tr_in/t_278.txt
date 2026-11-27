@@ -47,7 +47,6 @@ GLOSSARY:
   Prince = 후작
   Prince Albert = 앨버트 공
   Prince Albert of Saxe-Coburg and Gotha = 작센코부르크고타의 앨버트 공
-  Queen = 퀸
   United Kingdom = 영국
   United Kingdom of Great Britain and Ireland = 그레이트브리튼 아일랜드 연합 왕국
   Victorian = 빅토리아 시대
@@ -71,7 +70,6 @@ GLOSSARY:
   Live Aid = 라이브 에이드
   Night = 『밤』
   Opera = 오페라
-  Queen = 퀸
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
   Roger Taylor = 로저 테일러
   UK singles chart = 영국 싱글 차트
@@ -119,7 +117,6 @@ GLOSSARY:
   John = 존
   John F. Kennedy = 존 F. 케네디
   John F. Kennedy International Airport = 존 F. 케네디 국제공항
-  Kennedy = 케네디
   LaGuardia = 라과디아
   Long Island = 롱아일랜드
   New York City = 뉴욕
@@ -178,7 +175,6 @@ GLOSSARY:
   Reservoir = 저수지
   Reservoir Dogs = 「저수지의 개들」
   The Hateful Eight = 「헤이트풀 8」
-  Volume = 부피
   Volume 2 = 「2부」
 ENTRY:
 American filmmaker, actor and author. His works are characterized by graphic violence, extended dialogue, [[Profanity|profanity]] and references to [[Popular culture|popular culture]]. His debut feature, the independent crime film *Reservoir Dogs* (1992), was an immediate hit. *Pulp Fiction* (1994) won the Palme d'Or at the [[Cannes Film Festival]] and his first [[Academy Awards|Academy Award]], for Best Original Screenplay, and it was inducted into the National Film Registry of the [[Library of Congress]]. *Kill Bill: Volume 1* (2003) and *Kill Bill: Volume 2* (2004) are regarded as a single film. *Django Unchained* (2012) won him a second Academy Award for Best Original Screenplay, and his later films include *Inglourious Basterds* (2009) and *The Hateful Eight* (2015). His films have grossed more than $1.9 billion worldwide.
@@ -214,14 +210,12 @@ GLOSSARY:
   Aztecs = 아스테카족
   Ce Acatl Topiltzin = 세 아카틀 토필친
   Classic period = 고전기
-  Deity = 신
   Feathered Serpent = 깃털 달린 뱀
   Hernán Cortés = 에르난 코르테스
   Huitzilopochtli = 우이칠로포치틀리
   Late Classic period = 후기 고전기
   Mesoamerica = 메소아메리카
   Nahuatl = 나우아틀어
-  Precious = 「프레셔스」
   Spanish conquest = 에스파냐의 정복
   Teotihuacan = 테오티우아칸
   Tezcatlipoca = 테스카틀리포카
@@ -241,7 +235,6 @@ GLOSSARY:
   Cretaceous = 백악기
   Douglas = 더글러스
   Douglas Lawson = 더글러스 로슨
-  Genus = 속
   Jack Northrop = 잭 노스럽
   Javelina Formation = 하벨리나층
   Late Cretaceous = 후기 백악기
@@ -262,7 +255,6 @@ HEADWORD: Quezon City = 케손시티
 LEVEL: 4
 GLOSSARY:
   Batasang Pambansa Complex = 바타상 팜반사 콤플렉스
-  City = 도시
   City of Stars = 별들의 도시
   House of Representatives = 하원
   La Mesa Watershed Reservation = 라메사 유역 보호구역
@@ -299,7 +291,6 @@ GLOSSARY:
   Caspian = 카스피해
   Caspian Sea = 카스피해
   Cydonia oblonga = Cydonia oblonga
-  Deciduous = 낙엽성
   Hydrogen cyanide = 시안화수소
   Hyrcanian forests = 히르카니아 숲
   Iran = 이란
@@ -357,14 +348,11 @@ American record producer, musician and composer. Over a seven-decade career, he 
 HEADWORD: Quinine = 퀴닌
 LEVEL: 4
 GLOSSARY:
-  Alkaloid = 알칼로이드
   India = 인도
-  Jesuit = 예수회
   Jesuits = 예수회
   List of Essential Medicines = 필수 의약품 목록
   Malaria = 말라리아
   Peru = 페루
-  Quinine = 퀴닌
   Spain = 스페인
   Tinnitus = 이명
   World = 세계
@@ -502,7 +490,6 @@ GLOSSARY:
   Abu Bakr = 아부 바크르
   Allāh = 알라
   Arabic = 아랍어
-  Caliph = 칼리프
   Gabriel = 가브리엘
   Hadith = 하디스
   Islam = 이슬람교
@@ -533,7 +520,6 @@ LEVEL: 4
 GLOSSARY:
   CMYK = CMYK
   CMYK color model = CMYK 색 모형
-  Color = 색
   color management = 색 관리
   sRGB = sRGB
 ENTRY:
@@ -582,14 +568,12 @@ LEVEL: 5
 GLOSSARY:
   Adi Shamir = 아디 샤미르
   Clifford Cocks = 클리퍼드 콕스
-  Family = 가족
   GCHQ = 정부통신본부
   Leonard Adleman = 레너드 애들먼
   Massachusetts = 매사추세츠주
   Massachusetts Institute of Technology = 매사추세츠 공과대학교
   Prime number = 소수
   Ron Rivest = 론 리베스트
-  Security = 보안
   Technology = 기술
   public-key cryptosystems = 공개 키 암호 방식
   signals intelligence = 신호 정보
@@ -653,12 +637,10 @@ LEVEL: 4
 GLOSSARY:
   Argentina = 아르헨티나
   Buenos Aires = 부에노스아이레스
-  Estuary = 하구
   Montevideo = 몬테비데오
   Paraná River = 파라나강
   Punta Gorda = 푼타고르다
   Rioplatense Spanish = 리오플라텐세 스페인어
-  River = 강
   Silver = 은
   South America = 남아메리카
   Tango = 탱고
@@ -712,7 +694,6 @@ GLOSSARY:
   Mauritius = 모리셔스
   Metropolitan France = 프랑스 본토
   Ocean = 대양
-  Réunion = 레위니옹
   Réunion Creole = 레위니옹 크리올어
   Slavery = 노예제
   Sugarcane = 사탕수수
@@ -778,7 +759,6 @@ GLOSSARY:
   French = 프랑스어
   Maghreb = 마그레브
   Morocco = 모로코
-  Rabat = 라바트
   Salé = 살레
   UNESCO = 유네스코
   World = 세계
@@ -829,7 +809,6 @@ GLOSSARY:
   Halakha = 할라카
   Hebrew = 히브리어
   Judaism = 유대교
-  Master = 조폐국장
   Midrash = 미드라시
   Mishnah = 미슈나
   Mishnaic Hebrew = 미슈나 히브리어
@@ -877,7 +856,6 @@ GLOSSARY:
   Asia = 아시아
   Dog = 개
   Mammal = 포유류
-  Once = 『Once』
   lyssaviruses = 리사바이러스
   rabies immunoglobulin = 광견병 면역 글로불린
   rabies vaccine = 광견병 백신

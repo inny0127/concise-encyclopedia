@@ -2,7 +2,6 @@
 HEADWORD: Dermatology = 피부과학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Burn = 화상
   Hôpital Saint-Louis = 생루이 병원
   Integumentary system = 외피계
@@ -74,14 +73,12 @@ LEVEL: 3
 GLOSSARY:
   Antarctica = 남극 대륙
   Aquifer = 대수층
-  Camel = 낙타
   Dune = 사구
   Flash flood = 돌발 홍수
   Imperial Valley = 임피리얼밸리
   Irrigation = 관개
   Latin = 라틴어
   Sahara = 사하라 사막
-  Sand = 모래
   Weathering = 풍화
   desert pavement = 사막 포도
   desertification = 사막화
@@ -173,10 +170,8 @@ GLOSSARY:
   Gerhard Pahl = 게르하르트 팔
   Herbert A. Simon = 허버트 A. 사이먼
   Industrial Revolution = 산업 혁명
-  John = 존
   John Heskett = 존 헤스켓
   Nigel Cross = 나이절 크로스
-  People = 『피플』
   Positivism = 실증주의
   Wolfgang Beitz = 볼프강 바이츠
   constructionism = 구성주의
@@ -197,7 +192,6 @@ GLOSSARY:
   Abraham = 아브라함
   Abraham Wald = 에이브러햄 왈드
   Analysis of variance = 분산 분석
-  Construction = 건설
   Experiment = 실험
   Randomization = 무작위화
   blocking = 블록화
@@ -274,7 +268,6 @@ GLOSSARY:
   Ice cream = 아이스크림
   Ireland = 아일랜드
   New Zealand = 뉴질랜드
-  Sugar = 설탕
   United Kingdom = 영국
   United States = 미국
   Zealand = 셸란섬
@@ -362,10 +355,8 @@ GLOSSARY:
   Enzyme = 효소
   Germany = 독일
   Latin = 라틴어
-  Phosphate = 인산염
   Soap = 비누
   Surface tension = 표면 장력
-  Surfactants = 계면 활성제
   World = 세계
   World War I = 제1차 세계 대전
   builders = 빌더
@@ -398,7 +389,6 @@ LEVEL: 4
 GLOSSARY:
   Causal determinism = 인과적 결정론
   Chaos theory = 혼돈 이론
-  Determinism = 결정론
   Eastern philosophy = 동양 철학
   Free will = 자유 의지
   Karma = 업
@@ -415,7 +405,6 @@ HEADWORD: Detroit = 디트로이트
 LEVEL: 4
 GLOSSARY:
   Automotive industry = 자동차 산업
-  City = 도시
   City of Design = 디자인 도시
   Detroit = 디트로이트
   Ford = 포드
@@ -436,13 +425,11 @@ HEADWORD: Deuterium = 중수소
 LEVEL: 5
 GLOSSARY:
   Big Bang = 빅뱅
-  Deuterium = 중수소
   Harold Urey = 해럴드 유리
   Heavy water = 중수
   Hydrogen = 수소
   NMR spectroscopy = 핵자기 공명 분광법
   Nobel Prize = 노벨상
-  Stable = 마구간
   Thermonuclear weapon = 열핵무기
   biogeochemistry = 생물지구화학
   heavy hydrogen = 중수소
@@ -460,7 +447,6 @@ GLOSSARY:
   Arabic = 아랍어
   Berlin = 베를린
   Bonn = 본
-  Chancellor = 총리
   Deutsche Welle Act = 도이체 벨레법
   German = 독일어
   Konrad Adenauer = 콘라트 아데나워
@@ -562,7 +548,6 @@ GLOSSARY:
   Lev Vygotsky = 레프 비고츠키
   Rousseau = 루소
   Sigmund Freud = 지크문트 프로이트
-  Watson = 왓슨
   cognitive development = 인지 발달
   psychosexual stages = 심리 성적 발달 단계
   psychosocial development = 심리사회적 발달
@@ -636,7 +621,6 @@ GLOSSARY:
   Devils Tower National Monument = 데빌스 타워 국가 기념물
   Epoch = 세
   Laccolithic = 병반
-  Magma = 마그마
   Ogden Driskill = 오그던 드리스킬
   Paleocene = 팔레오세
   Paleocene Epoch = 팔레오세

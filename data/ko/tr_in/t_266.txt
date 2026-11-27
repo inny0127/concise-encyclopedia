@@ -8,7 +8,6 @@ GLOSSARY:
   Cloning = 클로닝
   EcoRI = EcoRI
   Insulin = 인슐린
-  Joshua = 여호수아
   Joshua Lederberg = 조슈아 레더버그
   Virus = 바이러스
   antibiotic resistance = 항생제 내성
@@ -79,7 +78,6 @@ GLOSSARY:
   Concrete = 콘크리트
   Foam = 폼
   Metal = 금속
-  Plastic = 플라스틱
   Rock (geology) = 암석
   cold forming = 냉간 성형
   dislocations = 전위
@@ -127,7 +125,6 @@ Membrane-bound organelle found in the cells of plants, algae and some other euka
 HEADWORD: Platanus = 버즘나무속
 LEVEL: 4
 GLOSSARY:
-  Genus = 속
   Hybrid (biology) = 잡종
   Latin = 라틴어
   London = 런던
@@ -167,8 +164,6 @@ Historical type of personal body armor made of bronze, iron or steel plates. Ful
 HEADWORD: Plate = 접시
 LEVEL: 4
 GLOSSARY:
-  Broad = 브로드강
-  Dinner = 저녁 식사
   Francis = 프랑수아
   Francis I = 프랑수아 1세
   Francis I of France = 프랑수아 1세
@@ -189,7 +184,6 @@ GLOSSARY:
   Alfred = 앨프레드 대왕
   Alfred Wegener = 알프레트 베게너
   Convection = 대류
-  Density = 밀도
   Earth = 지구
   Earthquake = 지진
   Europa (moon) = 유로파
@@ -238,7 +232,6 @@ GLOSSARY:
   Antarctic Plateau = 남극고원
   Antarctica = 남극 대륙
   Appalachian Mountains = 애팔래치아산맥
-  Area = 넓이
   Atlantic Plain = 대서양 평야
   Columbia = 컬럼비아
   Columbia Plateau = 컬럼비아고원
@@ -280,7 +273,6 @@ GLOSSARY:
   Nickel = 니켈
   Nobel Prize = 노벨상
   Nobel Prize in Chemistry = 노벨 화학상
-  Platinum = 백금
   Pre-Columbian = 콜럼버스 이전
   South American = 남아메리카
   Transition metal = 전이 금속
@@ -299,7 +291,6 @@ HEADWORD: Plato = 플라톤
 LEVEL: 3
 GLOSSARY:
   Academy = 아카데메이아
-  Alfred = 앨프레드 대왕
   Alfred North Whitehead = 앨프리드 노스 화이트헤드
   Ancient Greek = 고대 그리스어
   Anytus = 아니토스
@@ -381,7 +372,6 @@ GLOSSARY:
   Old Latin = 고대 라틴어
   Plautus = 플라우투스
   Sarsina = 사르시나
-  Titus = 티투스
   Titus Maccius Plautus = 티투스 마키우스 플라우투스
 ENTRY:
 Roman comic playwright of the Old Latin period. Titus Maccius Plautus is believed to have been born in Sarsina, in what is now [[Emilia-Romagna|Emilia-Romagna]], and he reportedly worked as a stage carpenter before becoming an actor. Little is known of his early life, and later biographies blend fact and legend. His comedies, written between about 205 and 184 BC, are the earliest complete surviving works of [[Latin literature|Latin literature]]. They adapt Greek New Comedy, especially the work of Menander, reworking it for Roman audiences. Surviving plays include *Amphitruo*, *Asinaria* and *Menaechmi*. Shakespeare's *The Comedy of Errors* derives from *Menaechmi*, and [[Molière|Molière]]'s *The Miser* is partly modeled on *Aulularia*.
@@ -416,7 +406,6 @@ GLOSSARY:
   IBM = IBM
   Japan = 일본
   North America = 북아메리카
-  Seventh-generation = 7세대
   Sony = 소니
   Toshiba = 도시바
   Xbox = 엑스박스
@@ -442,7 +431,6 @@ GLOSSARY:
   PlayStation Studios = 플레이스테이션 스튜디오
   Sony = 소니
   Sony Interactive Entertainment = 소니 인터랙티브 엔터테인먼트
-  Video = 비디오
 ENTRY:
 Video gaming brand of [[Sony|Sony]] Interactive Entertainment, a Sony subsidiary. It began with the first PlayStation console, released in Japan in 1994 and worldwide the following year, conceived by Sony executive Ken Kutaragi. The original console was the first console of any type to ship over 100 million units. The brand includes handheld consoles, the PlayStation Network and PlayStation Store, the subscription service PlayStation Plus, and first-party games from PlayStation Studios. Its controllers are the DualShock line. The series includes the [[PlayStation 5|PlayStation 5]], released in 2020.
 
@@ -511,7 +499,6 @@ GLOSSARY:
   Computer = 컴퓨터
   Entertainment = 오락
   Europe = 유럽
-  Fifth-generation = 제5세대
   Japan = 일본
   Ken Kutaragi = 구타라기 겐
   Nintendo = 닌텐도
@@ -566,7 +553,6 @@ GLOSSARY:
   George Bernard Shaw = 조지 버나드 쇼
   Shakespeare = 셰익스피어
   West End = 웨스트엔드
-  William = 윌리엄
   William Shakespeare = 윌리엄 셰익스피어
   tragedy = 비극
 ENTRY:
@@ -620,13 +606,10 @@ HEADWORD: Pleasure = 쾌락
 LEVEL: 4
 GLOSSARY:
   Epicurus = 에피쿠로스
-  Experience = 「경험」
   Happiness = 행복
   Jeremy Bentham = 제러미 벤담
   Music = 음악
-  Neuroscience = 신경과학
   Pain = 통증
-  Pleasure = 쾌락
   Suffering = 고통
   Sunset = 일몰
   dopamine = 도파민
@@ -742,11 +725,9 @@ GLOSSARY:
   Camel = 낙타
   Charles Lyell = 찰스 라이엘
   Deer = 사슴
-  Grazing = 풀 뜯기
   Miocene = 마이오세
   Neogene = 네오기
   Pleistocene = 플라이스토세
-  Second = 초
   hominins = 호미닌
 ENTRY:
 Second epoch of the [[Neogene]] Period, from 5.33 to 2.58 million years ago. It followed the [[Miocene]] and preceded the [[Pleistocene]]. [[Charles Lyell]] named it in 1833, meaning roughly "continuation of the recent," for its largely modern marine mollusc fauna. The climate became cooler, drier and more seasonal, and grasslands spread across continents. Grazing herbivores such as [[Deer]] and [[Camel|camels]] became common, and coral reefs expanded. Early hominins emerged in [[Africa]] toward the epoch's end.
@@ -757,7 +738,6 @@ LEVEL: 4
 GLOSSARY:
   Africa = 아프리카
   Asia = 아시아
-  Family = 가족
   Miocene = 마이오세
   Old World = 구세계
   Passerine = 참새목
@@ -803,7 +783,6 @@ HEADWORD: Plow = 쟁기
 LEVEL: 4
 GLOSSARY:
   Erosion = 침식
-  Farm = 농장
   Hoe (tool) = 괭이
   Industrial Revolution = 산업 혁명
   Ox = 소
@@ -846,9 +825,7 @@ GLOSSARY:
   Epidemic = 전염병
   Galvanized iron = 아연 도금 철
   Latin = 라틴어
-  Lead = 납
   Mesopotamians = 메소포타미아인
-  Plumbing = 배관
   Roman Empire = 로마 제국
   Rome = 로마
   United States = 미국

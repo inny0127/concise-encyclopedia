@@ -55,13 +55,11 @@ HEADWORD: Thermodynamics = 열역학
 LEVEL: 3
 GLOSSARY:
   Boyle's law = 보일의 법칙
-  Branch = 브랜치
   Constantin Carathéodory = 콘스탄티노스 카라테오도리
   Energy = 에너지
   Entropy = 엔트로피
   Force = 힘
   Heat = 열
-  James = 야고보
   Kelvin = 켈빈
   Laws of thermodynamics = 열역학 법칙
   Lord Kelvin = 켈빈 경
@@ -70,11 +68,9 @@ GLOSSARY:
   Physics = 물리학
   Robert Boyle = 로버트 보일
   Robert Hooke = 로버트 훅
-  Rudolf = 루돌프
   Rudolf Clausius = 루돌프 클라우지우스
   Statistical mechanics = 통계 역학
   Steam engine = 증기 기관
-  Thermodynamics = 열역학
   Thomas = 토머스
   Thomas Newcomen = 토머스 뉴커먼
   Thomas Savery = 토머스 세이버리
@@ -130,7 +126,6 @@ GLOSSARY:
   Alexandria = 알렉산드리아
   Fahrenheit = 화씨
   Fahrenheit scale = 화씨 온도 눈금
-  Gabriel = 가브리엘
   Galen = 갈레노스
   Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
@@ -164,7 +159,6 @@ GLOSSARY:
   Tsar Bomba = 차르 봄바
   United Kingdom = 영국
   United States = 미국
-  X-rays = 엑스선
   arms race = 군비 경쟁
   fission primary = 핵분열 1차 단계
   hydrogen bomb = 수소 폭탄
@@ -249,7 +243,6 @@ GLOSSARY:
   FIFA = 국제 축구 연맹
   FIFA World Cup = FIFA 월드컵
   France = 프랑스
-  French = 프랑스어
   Golden Boot = 골든 부트
   La Liga = 라리가
   Monaco = 모나코
@@ -911,7 +904,6 @@ GLOSSARY:
   Arabian = 아라비아말
   Barb = 바브
   England = 잉글랜드
-  Horse = 말
   Horse racing = 경마
   North America = 북아메리카
   Polo = 폴로
@@ -936,7 +928,6 @@ GLOSSARY:
   Ma'at = 마아트
   Moon = 달
   Ra = 라
-  Thoth = 토트
   hieroglyphs = 상형 문자
   solar barque = 태양의 배
 ENTRY:
@@ -952,10 +943,8 @@ GLOSSARY:
   Cognitive psychology = 인지 심리학
   Computationalism = 계산주의
   Inner speech = 내적 언어
-  Memory = 기억
   Mentalese = 정신어
   Mind = 마음
-  Neuroscience = 신경과학
   Old English = 고대 영어
   Perception = 지각
   Phenomenology (philosophy) = 현상학

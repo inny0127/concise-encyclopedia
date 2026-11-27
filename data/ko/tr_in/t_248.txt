@@ -72,7 +72,6 @@ HEADWORD: Oncology = 종양학
 LEVEL: 4
 GLOSSARY:
   Biopsy = 생검
-  Branch = 브랜치
   CT scanning = CT 촬영
   Cancer = 암
   Chemotherapy = 화학 요법
@@ -82,7 +81,6 @@ GLOSSARY:
   Galen = 갈레노스
   MRI = MRI
   Medical imaging = 의료 영상
-  Oncology = 종양학
   Radiation therapy = 방사선 치료
   Surgery = 외과 수술
   X-rays = 엑스선
@@ -274,10 +272,8 @@ GLOSSARY:
   Nicholas Lyndhurst = 니컬러스 린드허스트
   Peckham = 페컴
   Rodney = 로드니
-  Seven = 「세븐」
   Sitcom = 시트콤
   The Green Green Grass = 「더 그린 그린 그래스」
-  Time = 『타임』
   Time on Our Hands = 「Time on Our Hands」
 ENTRY:
 British television [[Sitcom|sitcom]] (1981–2003). Created and written by John Sullivan, it follows the get-rich-quick schemes of market trader Derek "Del Boy" Trotter, played by David Jason, and his younger half-brother Rodney, played by Nicholas Lyndhurst, in working-class Peckham, London. Seven series and sixteen Christmas specials aired on BBC One from 1981 to 1996. The 1996 episode "Time on Our Hands" drew 24.3 million viewers, the largest UK audience for a sitcom episode. The series added several phrases to English and was voted Britain's Best Sitcom in a 2004 BBC poll. A spin-off, *The Green Green Grass*, followed.
@@ -333,7 +329,6 @@ GLOSSARY:
   Evolution = 진화
   Genetics = 유전학
   German = 독일어
-  Ontogeny = 개체 발생
   Walter Garstang = 월터 가스탱
   developmental biology = 발생생물학
   differentiation = 분화
@@ -348,15 +343,12 @@ Origination and development of an organism, usually from fertilization of the eg
 HEADWORD: Ontology = 존재론
 LEVEL: 3
 GLOSSARY:
-  Branch = 브랜치
-  Concrete = 콘크리트
   Concrete objects = 구체적 대상
   Database = 데이터베이스
   Formal ontology = 형식 존재론
   George Berkeley = 조지 버클리
   Materialism = 유물론
   Metaphysics = 형이상학
-  Ontology = 존재론
   Platonic realism = 플라톤적 실재론
   Socrates = 소크라테스
   Thought experiment = 사고 실험
@@ -391,7 +383,6 @@ GLOSSARY:
   Computer science = 컴퓨터 과학
   Epistemology = 인식론
   Metaphysics = 형이상학
-  Ontology = 존재론
   Philosophy = 철학
   Protégé = 프로테제
   Tom Gruber = 톰 그루버
@@ -410,7 +401,6 @@ GLOSSARY:
   India = 인도
   Madagascar = 마다가스카르
   Mexico = 멕시코
-  Pliny = 플리니우스
   Pliny the Elder = 대플리니우스
   Quartz = 석영
   Sardonyx = 홍줄마노
@@ -447,7 +437,6 @@ LEVEL: 4
 GLOSSARY:
   Astronomical unit = 천문단위
   Comet = 혜성
-  Dutch = 네덜란드어
   Ecliptic = 황도
   Giant planet = 거대 행성
   Jan Oort = 얀 오르트
@@ -465,13 +454,9 @@ Hypothesized cloud of icy planetesimals surrounding the [[Sun]] at distances of 
 HEADWORD: Opal = 오팔
 LEVEL: 5
 GLOSSARY:
-  Australia = 오스트레일리아
   Basalt = 현무암
-  Black = 검은색
   Black opal = 블랙 오팔
   Mineral = 광물
-  Opal = 단백석
-  Precious = 「프레셔스」
   Precious opal = 귀단백석
   Sandstone = 사암
   Sanskrit = 산스크리트어
@@ -508,7 +493,6 @@ Basic subset of a [[Topological space|topological space]], generalizing an open 
 HEADWORD: Open source = 오픈 소스
 LEVEL: 4
 GLOSSARY:
-  Access = 액세스
   CERN = 유럽 입자 물리 연구소
   CERN Open Hardware Licence = CERN 오픈 하드웨어 라이선스
   Copyright = 저작권
@@ -531,7 +515,6 @@ HEADWORD: Open-source software = 오픈 소스 소프트웨어
 LEVEL: 5
 GLOSSARY:
   Bitcoin = 비트코인
-  Computer = 컴퓨터
   Firefox = 파이어폭스
   Linux = 리눅스
   Linux kernel = 리눅스 커널
@@ -560,7 +543,6 @@ GLOSSARY:
   L'Orfeo = 「오르페오」
   Maria Callas = 마리아 칼라스
   Mozart = 모차르트
-  Opera = 오페라
   Richard = 리처드
   Richard Wagner = 리하르트 바그너
   Verdi = 베르디
@@ -632,7 +614,6 @@ GLOSSARY:
   Prime = 프라임
   Punjab = 펀자브
   Sikhism = 시크교
-  Sikhs = 시크교도
   Tank = 전차
   anti-Sikh riots = 반시크 폭동
   extrajudicial killings = 초법적 살해
@@ -733,7 +714,6 @@ GLOSSARY:
   Casablanca = 카사블랑카
   Dwight D. Eisenhower = 드와이트 D. 아이젠하워
   Egypt = 이집트
-  Eisenhower = 아이젠하워
   François Darlan = 프랑수아 다를랑
   French = 프랑스어
   French North Africa = 프랑스령 북아프리카
@@ -757,7 +737,6 @@ LEVEL: 4
 GLOSSARY:
   Applied mathematics = 응용 수학
   Blaise Pascal = 블레즈 파스칼
-  Branch = 브랜치
   Charles Babbage = 찰스 배비지
   Christiaan Huygens = 크리스티안 하위헌스
   Expected value = 기댓값
@@ -826,7 +805,6 @@ Large constellation straddling the celestial equator, with most of its area in t
 HEADWORD: Ophthalmology = 안과학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   DO = 정골의학 박사(DO)
   Glaucoma = 녹내장
   MD = 의학 박사(MD)
@@ -867,7 +845,6 @@ GLOSSARY:
   Argument = 논증
   Fact = 사실
   Jury = 배심원단
-  People = 『피플』
   Political science = 정치학
   Psychology = 심리학
   Public opinion = 여론

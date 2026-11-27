@@ -7,7 +7,6 @@ GLOSSARY:
   Botticelli = 보티첼리
   Florence = 피렌체
   Hora = 호라
-  Painting = 회화
   Sandro Botticelli = 산드로 보티첼리
   Scallop = 가리비
   Uffizi = 우피치 미술관
@@ -27,10 +26,8 @@ GLOSSARY:
   Abraham Lincoln = 에이브러햄 링컨
   African Americans = 아프리카계 미국인
   American Civil War = 남북 전쟁
-  Black = 검은색
   Civil War = 남북 전쟁
   D. W. Griffith = D. W. 그리피스
-  Griffith = 그리피스
   John = 존
   John Wilkes Booth = 존 윌크스 부스
   Ku Klux Klan = 쿠 클럭스 클랜
@@ -63,7 +60,6 @@ GLOSSARY:
   Rolling Stone = 『롤링 스톤』
   Romance = 로망스어
   The Patient = 더 페이션트
-  Third = 교향곡 제3번
   United Kingdom = 영국
   Welcome to the Black Parade = 「웰컴 투 더 블랙 퍼레이드」
   concept album = 콘셉트 앨범
@@ -133,7 +129,6 @@ GLOSSARY:
   NASA = 미국 항공 우주국
   Ocean = 대양
   Peninsula = 반도
-  Taken = 「테이큰」
 ENTRY:
 Photograph of [[Earth]] taken on December 7, 1972, by one of the astronauts aboard the [[NASA]] Apollo 17 spacecraft on its way to the [[Moon]]. Taken from about 29,400 kilometers (18,300 mi) away, the image shows Earth from the [[Mediterranean Sea]] to Antarctica. It was the first time that the Apollo trajectory and seasonal timing made it possible to photograph the south polar ice cap. Africa, Madagascar, the Arabian Peninsula and most of the Indian Ocean are visible. A cropped, rotated and processed version has become one of the most reproduced images in history. NASA has also applied the name to a 2012 series of composite images covering the entire globe.
 
@@ -345,7 +340,6 @@ GLOSSARY:
   Saint Thomas Becket = 성 토머스 베킷
   Thomas = 토머스
   Thomas Becket = 토머스 베킷
-  William = 윌리엄
   incunabula = 인큐내뷸러
   magnum opus = 대표작
 ENTRY:
@@ -451,7 +445,6 @@ HEADWORD: The Clash = 더 클래시
 LEVEL: 5
 GLOSSARY:
   Casbah = 카스바
-  Combat = 『콩바』
   Combat Rock = 「Combat Rock」
   London = 런던
   London Calling = 「London Calling」
@@ -670,7 +663,6 @@ GLOSSARY:
   The Doors of Perception = 『지각의 문』
   William = 윌리엄
   William Blake = 윌리엄 블레이크
-  Woman = 여성
 ENTRY:
 American rock band formed in [[Los Angeles]] in 1965. It took its name from [[Aldous Huxley]]'s book *The Doors of Perception*, itself a reference to a quote by [[William Blake]]. Vocalist [[Jim Morrison]] and the band recorded six studio albums in five years, including *The Doors* (1967) and *L.A. Woman* (1971). Morrison died in 1971 in uncertain circumstances, and the band continued as a trio, releasing two more albums until disbanding in 1973. The band was inducted into the [[Rock and Roll Hall of Fame]] in 1993 and has sold over 100 million records worldwide.
 
@@ -729,7 +721,6 @@ GLOSSARY:
   Gandhi = 「간디」
   India = 인도
   Indira Gandhi = 인디라 간디
-  Prime = 프라임
   Sanjay Gandhi = 산자이 간디
   internal disturbance = 내란
 ENTRY:

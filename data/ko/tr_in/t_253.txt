@@ -144,7 +144,6 @@ GLOSSARY:
   Asia = 아시아
   Australia = 오스트레일리아
   Austronesian peoples = 오스트로네시아인
-  Challenger = 챌린저호
   Challenger Deep = 챌린저 해연
   Equator = 적도
   Ferdinand = 페르디난트
@@ -244,12 +243,10 @@ GLOSSARY:
   Indian independence movement = 인도 독립운동
   Jainism = 자이나교
   Leo Tolstoy = 레프 톨스토이
-  Mahatma = 마하트마
   Mahatma Gandhi = 마하트마 간디
   Martin Luther = 마르틴 루터
   Martin Luther King Jr. = 마틴 루서 킹 주니어
   Peace = 평화
-  Philosophy = 철학
   Tolstoy = 톨스토이
   Universal Peace Congress = 만국 평화 회의
   ahimsa = 아힘사
@@ -285,7 +282,6 @@ HEADWORD: Padang = 파당
 LEVEL: 4
 GLOSSARY:
   British Empire = 대영 제국
-  City = 도시
   Dutch = 네덜란드어
   Dutch East Indies = 네덜란드령 동인도
   East Indies = 동인도
@@ -312,13 +308,11 @@ GLOSSARY:
   Buddhist = 불교
   Canon = 『의학정전』
   Guru Rinpoche = 구루 린포체
-  Hagiographies = 성인전
   Himalayan = 히말라야
   India = 인도
   Monastery = 수도원
   Nepal = 네팔
   Nyingma = 닝마파
-  Precious = 「프레셔스」
   Samye Monastery = 삼예사
   Shantarakshita = 샨타라크시타
   Tantra = 탄트라
@@ -458,7 +452,6 @@ GLOSSARY:
   Cennino Cennini = 첸니노 첸니니
   Charcoal = 숯
   Ochre = 황토
-  Paint = 페인트
   Pigment = 안료
   South Africa = 남아프리카 공화국
   hematite = 적철석
@@ -477,7 +470,6 @@ GLOSSARY:
   Crustacean = 갑각류
   Least Concern = 최소 관심
   Mexico = 멕시코
-  Pond = 연못
   U.S. states = 미국의 주
   brumates = 동면한다
   emergent vegetation = 정수 식물
@@ -503,7 +495,6 @@ GLOSSARY:
   Maros = 마로스
   Nature = 『네이처』
   Oil painting = 유화
-  Painting = 회화
   Photography = 사진
   Piet Mondrian = 피트 몬드리안
   Post-Impressionism = 후기 인상주의
@@ -547,7 +538,6 @@ GLOSSARY:
   Indus Valley = 인더스강 유역
   Indus Valley Civilisation = 인더스 문명
   Iran = 이란
-  Islam = 이슬람교
   Islamabad = 이슬라마바드
   Islamic Republic of Pakistan = 파키스탄 이슬람 공화국
   Islamic republic = 이슬람 공화국
@@ -629,7 +619,6 @@ GLOSSARY:
   Barry = 배리
   Big Ben = 빅벤
   Charles Barry = 찰스 배리
-  Construction = 건설
   Elizabeth Tower = 엘리자베스 타워
   England = 잉글랜드
   Gothic = 고딕
@@ -659,12 +648,10 @@ GLOSSARY:
   Bird = 조류
   Elephant bird = 코끼리새
   Emu = 에뮤
-  Infraclass = 하강
   Kiwi (bird) = 키위
   Moa = 모아
   Neognathae = 신악류
   Ostrich = 타조
-  Recent = 현세
   Tinamou = 티나무
   monophyletic = 단계통
   ratites = 평흉류
@@ -721,7 +708,6 @@ LEVEL: 4
 GLOSSARY:
   Asian Games = 아시안 게임
   Buddhist = 불교
-  City = 도시
   Colombia = 콜롬비아
   Dutch = 네덜란드어
   Dutch East Indies = 네덜란드령 동인도
@@ -764,7 +750,6 @@ GLOSSARY:
   Mastodon = 마스토돈
   Megafauna = 거대 동물
   Pacific = 태평양
-  Paleo-Indians = 고인디언
   Pleistocene = 플라이스토세
   Strait = 해협
   land bridge = 육교
@@ -779,14 +764,12 @@ GLOSSARY:
   Cenozoic = 신생대
   Cenozoic Era = 신생대
   Chicxulub = 칙술루브
-  Climate = 기후
   Cretaceous = 백악기
   Cretaceous–Paleogene extinction event = 백악기-팔레오기 대멸종
   Ecological niche = 생태적 지위
   Eocene = 에오세
   Epoch = 세
   Iridium = 이리듐
-  Mammals = 포유류
   Mexico = 멕시코
   Oligocene = 올리고세
   Paleocene = 팔레오세
@@ -808,7 +791,6 @@ GLOSSARY:
   Australia = 오스트레일리아
   Beringia = 베링기아
   Circle = 원
-  Hominins = 사람족
   Japan = 일본
   John = 존
   John Lubbock = 존 러벅
@@ -835,8 +817,6 @@ GLOSSARY:
   French = 프랑스어
   Geology = 지질학
   Georges Cuvier = 조르주 퀴비에
-  Invertebrate = 무척추동물
-  Paleontology = 고생물학
   biostratigraphy = 생층서학
   cladistics = 분기학
   comparative anatomy = 비교해부학
@@ -1026,7 +1006,6 @@ GLOSSARY:
   Burma = 버마
   Pali = 팔리어
   Pyu city-states = 쀼 도시 국가
-  Standard = 스탠더드
   Sutta Piṭaka = 경장
   The Buddha = 붓다
   Theravada = 상좌부 불교
@@ -1057,6 +1036,5 @@ GLOSSARY:
   Robert Palk = 로버트 포크
   Sita = 시타
   Sri Lanka = 스리랑카
-  Strait = 해협
 ENTRY:
 Strait between southeastern India and northern Sri Lanka, linking the Bay of Bengal to the Laccadive Sea. It is about 137 km (85 mi) long and 64–137 km (40–85 mi) wide, and it is named after Robert Palk, governor of Madras from 1755 to 1763. Its southern boundary is a chain of low islands and shoals called Ram Setu or [[Adam's Bridge]]. In the Hindu epic [[Ramayana]], the shoals were said to be part of a bridge built by the army of [[Rama]] to rescue [[Sita]] from [[Ravana]]. The strait is shallow near the shoals, typically 1–3 m (3 ft 3 in–9 ft 10 in) deep, and reaches a maximum of 35 m (115 ft). Large ships find passage difficult, although fishing boats navigate it. A shipping channel was first proposed to the British government of India in 1860, and a 2005 canal project met opposition on religious grounds.

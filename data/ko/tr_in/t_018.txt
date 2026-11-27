@@ -29,7 +29,6 @@ GLOSSARY:
   Filmfare Awards = 필름페어상
   Hindi = 힌디어
   Hindi cinema = 힌디어 영화
-  India = 인도
   Mr. India = 「미스터 인디아」
   National Film Awards = 인도 국립 영화상
   Night = 『밤』
@@ -166,14 +165,11 @@ LEVEL: 3
 GLOSSARY:
   Agricultural Revolution = 농업 혁명
   Agriculture = 농업
-  Animal = 동물
   BC = 기원전
-  Branch = 브랜치
   British Agricultural Revolution = 영국 농업 혁명
   Climate change = 기후 변화
   Columbian exchange = 콜럼버스 교환
   Horse = 말
-  Horses = 『Horses』
   Intensive farming = 집약 농업
   Livestock = 가축
   Neolithic = 신석기 시대
@@ -240,7 +236,6 @@ HEADWORD: Animal rights = 동물권
 LEVEL: 4
 GLOSSARY:
   Argentina = 아르헨티나
-  Philosophy = 철학
   Roger Scruton = 로저 스크루턴
   Suffering = 고통
   great apes = 대형 유인원
@@ -267,12 +262,9 @@ Sexual behavior of non-human animals, which takes many forms, including within t
 HEADWORD: Animation = 애니메이션
 LEVEL: 3
 GLOSSARY:
-  Animation = 애니메이션
-  Computer = 컴퓨터
   Computer animation = 컴퓨터 애니메이션
   El Apóstol = 「엘 아포스톨」
   Fantasmagorie = 「팡타스마고리」
-  Filmmaking = 영화 제작
   Latin = 라틴어
   Rabbit = 토끼
   Roger Rabbit = 로저 래빗
@@ -344,7 +336,6 @@ GLOSSARY:
   Indigenous peoples = 원주민
   Primitive Culture = 『원시 문화』
   Religion = 종교
-  Worldview = 세계관
 ENTRY:
 Worldview holding that natural phenomena, including non-human organisms, landforms and inanimate objects, possess spiritual essences, souls or personhood. It assumes that animals, plants, rivers, weather systems and other natural entities have some degree of agency, life and will. The term is used in the anthropology of [[Religion|religion]] for the beliefs of many [[Indigenous peoples]], in contrast to later organized religions. The term is an anthropological construct, and many indigenous peoples have no word for animism or even for religion. Edward Tylor defined it in his 1871 book *Primitive Culture* as 'the general doctrine of souls and other spiritual beings in general'. Scholars disagree on whether animism describes an ancestral mode of experience shared by indigenous peoples or a religion in its own right. A 2016 comparative study found that animism was the oldest religious belief, present in the most recent common ancestor of hunter-gatherer groups.
 
@@ -352,7 +343,6 @@ Worldview holding that natural phenomena, including non-human organisms, landfor
 HEADWORD: Anise = 아니스
 LEVEL: 4
 GLOSSARY:
-  Anise = 아니스
   Apiaceae = 미나리과
   Asia = 아시아
   China = 중국
@@ -438,7 +428,6 @@ GLOSSARY:
   Cretaceous = 백악기
   Dinosaur = 공룡
   Fossil = 화석
-  Genus = 속
   Hell = 지옥
   Hell Creek Formation = 헬크리크층
   Montana = 몬태나주
@@ -506,7 +495,6 @@ GLOSSARY:
   Cavalry = 기병
   Italy = 이탈리아
   Leo Tolstoy = 레프 톨스토이
-  Novel = 소설
   Petersburg = 피터즈버그
   Russia = 러시아
   Russian = 러시아어
@@ -602,7 +590,6 @@ Russian prima ballerina. Born in [[Saint Petersburg]], she was accepted into the
 HEADWORD: Wintour, Anna = 윈투어, 애나
 LEVEL: 5
 GLOSSARY:
-  Animal = 동물
   Animal rights = 동물권
   British Vogue = 영국판 『보그』
   Condé Nast = 콩데 나스트
@@ -629,7 +616,6 @@ GLOSSARY:
   Guinness World Records = 기네스 세계 기록
   Herzog = 『허조그』
   Maurice Herzog = 모리스 에르조그
-  Mountain = 산
   Nepal = 네팔
   World = 세계
   eight-thousander = 8000미터급 봉우리
@@ -684,7 +670,6 @@ LEVEL: 4
 GLOSSARY:
   Adolf Hitler = 아돌프 히틀러
   Amsterdam = 암스테르담
-  Anne = 앤
   Bergen-Belsen concentration camp = 베르겐벨젠 강제 수용소
   Diary = 일기
   Frank = 프랭크
@@ -765,7 +750,6 @@ HEADWORD: Anne = 앤
 LEVEL: 5
 GLOSSARY:
   Act of Settlement 1701 = 1701년 왕위 계승법
-  Anne = 앤
   England = 잉글랜드
   George I = 조지 1세
   Glorious Revolution = 명예혁명
@@ -775,7 +759,6 @@ GLOSSARY:
   House of Stuart = 스튜어트 왕가
   Ireland = 아일랜드
   James = 야고보
-  Queen = 퀸
   Scotland = 스코틀랜드
   Tory = 토리당
   War of the Spanish Succession = 스페인 왕위 계승 전쟁
@@ -792,7 +775,6 @@ GLOSSARY:
   Catholicism = 가톨릭
   Chronicles = 『연대기』
   Egypt = 이집트
-  Following = 「미행」
   Gothic = 고딕
   Gothic fiction = 고딕 소설
   Interview = 『인터뷰』
@@ -821,7 +803,6 @@ GLOSSARY:
   Marilla Cuthbert = 마릴라 커스버트
   Matthew = 매슈
   Montgomery = 몽고메리
-  Novel = 소설
   Prince = 후작
   Prince Edward = 프린스에드워드섬
   Prince Edward Island = 프린스에드워드아일랜드주
@@ -832,13 +813,11 @@ Novel by the Canadian author Lucy Maud Montgomery, published in 1908. Written fo
 HEADWORD: Annelid = 환형동물
 LEVEL: 4
 GLOSSARY:
-  Annelids = 환형동물
   Bloodletting = 사혈
   Cambrian = 캄브리아기
   Earthworm = 지렁이
   Hydrothermal vent = 열수 분출공
   Leech = 거머리
-  Phylum = 문
   Polychaete = 다모류
   Soil fertility = 토양 비옥도
   annelids = 환형동물
@@ -879,7 +858,6 @@ GLOSSARY:
   BC = 기원전
   BCE = 기원전
   CE = 서기
-  Calendar = 달력
   Common Era = 서력기원
   Dionysius Exiguus = 디오니시우스 엑시구스
   Gregorian = 그레고리력

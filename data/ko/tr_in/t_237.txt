@@ -18,7 +18,6 @@ GLOSSARY:
   Panama = 파나마
   Pliocene = 플라이오세
   Quaternary = 제4기
-  Second = 초
   South America = 남아메리카
 ENTRY:
 Second geologic period of the [[Cenozoic]], spanning 20.46 million years, from 23.04 to 2.58 million years ago. It is divided into two epochs, the earlier [[Miocene]] and the later [[Pliocene]]. The term was coined in 1853 by the Austrian paleontologist Moritz Hörnes. During this period mammals and birds evolved into modern forms, while other groups remained relatively unchanged. The first humans, *Homo habilis*, appeared in [[Africa]] near the end of the period. The most significant continental movement was the connection of North and South America at the Isthmus of Panama, late in the Pliocene. This cut off warm Pacific currents from the Atlantic, leaving only the [[Gulf Stream]] to transfer heat to the Arctic Ocean. The global climate cooled considerably throughout the period, culminating in continental glaciations in the [[Quaternary]] Period that followed.
@@ -50,7 +49,6 @@ LEVEL: 3
 GLOSSARY:
   Afro-Eurasia = 아프로유라시아
   Agricultural Revolution = 농업 혁명
-  Agriculture = 농업
   Bronze = 청동
   Bronze Age = 청동기 시대
   Fertile Crescent = 비옥한 초승달 지대
@@ -59,7 +57,6 @@ GLOSSARY:
   Holocene = 홀로세
   Hunter-gatherer = 수렵채집인
   Ice Age = 빙하기
-  Irrigation = 관개
   Kuk Early Agricultural Site = 쿡 초기 농업 유적
   Maize = 옥수수
   Man Makes Himself = 『인류사의 사건들』
@@ -68,7 +65,6 @@ GLOSSARY:
   New Guinea = 뉴기니섬
   Papua = 파푸아
   Papua New Guinea = 파푸아뉴기니
-  Reliance = 릴라이언스
   Sumer = 수메르
   V. Gordon Childe = V. 고든 차일드
   amino acids = 아미노산
@@ -268,7 +264,6 @@ GLOSSARY:
   Triton (moon) = 트리톤
   Uranus = 천왕성
   Urbain Le Verrier = 위르뱅 르베리에
-  Voyager = 보이저
   Voyager 2 = 보이저 2호
   adaptive optics = 적응 광학
   astronomical units = 천문단위
@@ -339,7 +334,6 @@ GLOSSARY:
   Antoninus Pius = 안토니누스 피우스
   Commodus = 콤모두스
   Discourses on Livy = 『로마사 논고』
-  Dynasty = 「다이너스티」
   Five Emperors = 오제
   Five Good Emperors = 오현제
   Hadrian = 하드리아누스
@@ -507,7 +501,6 @@ HEADWORD: Neural network = 신경망
 LEVEL: 5
 GLOSSARY:
   Convolutional neural networks = 합성곱 신경망
-  GPUs = GPU
   Graphics processing unit = 그래픽 처리 장치
   Large language model = 대규모 언어 모델
   Machine learning = 기계 학습
@@ -527,12 +520,10 @@ HEADWORD: Neurology = 신경학
 LEVEL: 4
 GLOSSARY:
   Alzheimer's disease = 알츠하이머병
-  Branch = 브랜치
   Canada = 캐나다
   Epilepsy = 뇌전증
   Migraine = 편두통
   Multiple sclerosis = 다발성 경화증
-  Neurology = 신경학
   Neuroscience = 신경과학
   Parkinson's = 파킨슨병
   Parkinson's disease = 파킨슨병
@@ -593,7 +584,6 @@ GLOSSARY:
   Eric Kandel = 에릭 캔들
   Galen = 갈레노스
   Hippocrates = 히포크라테스
-  Luigi = 루이지
   Luigi Galvani = 루이지 갈바니
   Medicine = 의학
   Neuron = 뉴런
@@ -663,7 +653,6 @@ LEVEL: 4
 GLOSSARY:
   Beta decay = 베타 붕괴
   Earth = 지구
-  Neutrinos = 중성미자
   Sun = 태양
   Weak interaction = 약한 상호작용
   Wolfgang Pauli = 볼프강 파울리
@@ -687,9 +676,7 @@ GLOSSARY:
   Ernest Rutherford = 어니스트 러더퍼드
   Herbert Becker = 헤르베르트 베커
   Isotope = 동위 원소
-  James = 야고보
   James Chadwick = 제임스 채드윅
-  Neutron = 중성자
   Neutron star = 중성자별
   Nobel Prize = 노벨상
   Nobel Prize in Physics = 노벨 물리학상
@@ -734,7 +721,6 @@ GLOSSARY:
   Gravitational wave = 중력파
   LIGO = LIGO
   Milky Way = 우리은하
-  Neutron = 중성자
   Pulsar = 펄서
   Solar mass = 태양 질량
   Virgo = 처녀자리
@@ -765,7 +751,6 @@ GLOSSARY:
   Nevsky = 넵스키
   Petersburg = 피터즈버그
   Rhine = 라인강
-  River = 강
   Russia = 러시아
   Saint = 성인
   Saint Petersburg = 상트페테르부르크
@@ -793,10 +778,8 @@ GLOSSARY:
   Gambling = 도박
   Idaho = 아이다호주
   Las Vegas = 라스베이거스
-  Nevada = 네바다주
   Oregon = 오리건주
   Silver = 은
-  Tourism = 관광
   U.S. state = 미국의 주
   United States = 미국
   Utah = 유타주
@@ -836,7 +819,6 @@ GLOSSARY:
   Kurt Cobain = 커트 코베인
   Nirvana = 열반
   Nirvana (band) = 너바나
-  Second = 초
   Smells Like Teen Spirit = 「Smells Like Teen Spirit」
   alternative rock = 얼터너티브 록
   grunge = 그런지
@@ -896,7 +878,6 @@ HEADWORD: New Britain = 뉴브리튼섬
 LEVEL: 4
 GLOSSARY:
   Archipelago = 제도
-  Australian = 오스트레일리아
   Bismarck Archipelago = 비스마르크 제도
   Britannia = 브리타니아
   East New Britain = 이스트뉴브리튼주
@@ -915,7 +896,6 @@ GLOSSARY:
   Taiwan = 타이완
   Tavurvur = 타부르부르산
   Ulawun = 울라운산
-  William = 윌리엄
   William Dampier = 윌리엄 댐피어
 ENTRY:
 Largest island in the Bismarck Archipelago, part of [[Papua New Guinea]] and roughly the size of [[Taiwan]]. Its main towns are Rabaul, Kokopo and Kimbe. Formed largely by volcanic processes, it has active volcanoes including Ulawun, its highest point at 2,334 m (7,657 ft). A major eruption of Tavurvur in 1994 destroyed much of Rabaul, the East New Britain provincial capital, and the capital moved to Kokopo. William Dampier became the first known British visitor in 1700 and named it Nova Britannia. As part of [[New Guinea|German New Guinea]] from 1884, the island was called Neupommern. Australian forces captured it in 1914, and it was later administered as a [[League of Nations]] mandate.
@@ -934,7 +914,6 @@ GLOSSARY:
   Great Upheaval = 대추방
   Maritime provinces = 해양 주
   Official Languages Act = 공용어법
-  Tourism = 관광
   loyalists = 왕당파
 ENTRY:
 Province of eastern [[Canada]], one of the three Maritime provinces, about 83% forested. Its population of 775,610 (2021 census) is about two-thirds English-speaking and one-third French-speaking. The province is home to most of the cultural region of [[Acadia]] and most Acadians, whose variety of French is called Acadian French. British authorities deported Acadians en masse from 1755 to 1764 in the Great Upheaval. The colony was created in 1784, after many loyalists arrived following the American Revolution, and the province joined Confederation in 1867. The Official Languages Act of 1969 recognized French alongside English. Tourism accounts for 9% of the labor force.
@@ -951,7 +930,6 @@ GLOSSARY:
   France = 프랑스
   French = 프랑스어
   Grande Terre = 그랑드테르섬
-  James = 야고보
   James Cook = 제임스 쿡
   Kanak = 카나크인
   Lagoons of New Caledonia = 뉴칼레도니아의 석호

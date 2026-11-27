@@ -23,7 +23,6 @@ GLOSSARY:
   Arab League = 아랍 연맹
   Bir Lehlou = 비르랄루
   Maghreb = 마그레브
-  Morocco = 모로코
   Polisario Front = 폴리사리오 전선
   Sahara = 사하라 사막
   Sahrawi people = 사하라위인
@@ -118,7 +117,6 @@ GLOSSARY:
   Sailing (sport) = 요트 경기
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Steam = 스팀
   hull = 선체
   keel = 용골
   rudder = 방향타
@@ -328,7 +326,6 @@ GLOSSARY:
   Castries = 캐스트리스
   Commonwealth = 영연방
   Commonwealth realm = 영연방 왕국
-  England = 잉글랜드
   France = 프랑스
   French = 프랑스어
   Helen = 헬레네
@@ -339,7 +336,6 @@ GLOSSARY:
   Napoleon = 나폴레옹
   Napoleon I = 나폴레옹 1세
   Organization of American States = 미주 기구
-  Saint = 성인
   Saint Lucia = 세인트루시아
   Trade = 교역
   Troy = 트로이
@@ -426,7 +422,6 @@ GLOSSARY:
   Andrew = 안드레아
   Antioch = 안티오키아
   Aramaic = 아람어
-  Catholic = 가톨릭
   Cephas = 게바
   Church = 처치
   Church Fathers = 교부
@@ -516,11 +511,8 @@ GLOSSARY:
   North Side = 노스사이드
   North Side Gang = 노스사이드 갱
   Organized crime = 조직범죄
-  Police = 경찰
   Saint = 성인
-  Suspicion = 「서스피션」
   Thompson submachine guns = 톰슨 기관단총
-  Violence = 폭력
   gun control = 총기 규제
   submachine guns = 기관단총
 ENTRY:
@@ -567,7 +559,6 @@ GLOSSARY:
   Pacific Ocean = 태평양
   Saipan = 사이판
   Spanish–American War = 미국-스페인 전쟁
-  Today = 「투데이」
   Trust Territory of the Pacific Islands = 태평양 제도 신탁 통치령
   United States = 미국
   World = 세계
@@ -641,12 +632,10 @@ GLOSSARY:
   Caesar Cardini = 시저 카르디니
   Caesar salad = 시저 샐러드
   Cucumber = 오이
-  Garden = 정원
   Latin = 라틴어
   Lettuce = 상추
   Mexico = 멕시코
   Romans = 로마인
-  Salad = 샐러드
   Tijuana = 티후아나
   Vegetable = 채소
   salad bar = 샐러드 바
@@ -868,7 +857,6 @@ GLOSSARY:
   Marvel Cinematic Universe = 마블 시네마틱 유니버스
   Mexico = 멕시코
   Primetime Emmy = 프라임타임 에미상
-  Time = 『타임』
   Time (magazine) = 『타임』
   Ugly Betty = 「어글리 베티」
   Universe = 우주
@@ -906,7 +894,6 @@ GLOSSARY:
   Muhammad = 무함마드
   Ruhollah Khomeini = 루홀라 호메이니
   The Satanic Verses = 『악마의 시』
-  Time = 『타임』
   Time (magazine) = 『타임』
   University = 대학
   University of Cambridge = 케임브리지 대학교

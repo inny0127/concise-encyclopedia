@@ -16,7 +16,6 @@ Quicklime, a white, caustic, alkaline solid of formula CaO. Also called burnt li
 HEADWORD: Calculator = 계산기
 LEVEL: 4
 GLOSSARY:
-  Calculator = 계산기
   Integrated circuits = 집적 회로
   Scientific calculators = 공학용 계산기
   Smartphone = 스마트폰
@@ -31,8 +30,6 @@ HEADWORD: Calculus = 미적분학
 LEVEL: 3
 GLOSSARY:
   Archimedes = 아르키메데스
-  Branch = 브랜치
-  Calculus = 미적분학
   Differential calculus = 미분학
   Eudoxus = 에우독소스
   Fundamental theorem of calculus = 미적분학의 기본 정리
@@ -163,7 +160,6 @@ GLOSSARY:
   Canadian = 캐나다
   Canadian Prairies = 캐나다 프레리
   Castle = 성
-  City = 도시
   Edmonton = 에드먼턴
   Isle of Mull = 멀섬
   Mountain = 산
@@ -181,7 +177,6 @@ LEVEL: 4
 GLOSSARY:
   Cali = 칼리
   Calima = 칼리마족
-  City = 도시
   Colombia = 콜롬비아
   Inca = 잉카
   Inca Empire = 잉카 제국
@@ -213,7 +208,6 @@ GLOSSARY:
   San Francisco = 샌프란시스코
   San Francisco Bay = 샌프란시스코만
   San Francisco Bay Area = 샌프란시스코만 지역
-  Silicon = 규소
   Silicon Valley = 실리콘밸리
   U.S. state = 미국의 주
   United States = 미국
@@ -308,7 +302,6 @@ GLOSSARY:
   Rashidun Caliphate = 정통 칼리파국
   Shia = 시아파
   Shia Muslims = 시아파 무슬림
-  Sunni = 수니파
   Sunni Islam = 수니파
   Syria = 시리아
   Umayyad = 우마이야 왕조
@@ -361,7 +354,6 @@ GLOSSARY:
   Activision = 액티비전
   Call of Duty = 콜 오브 듀티
   Call of Duty 4: Modern Warfare = 「콜 오브 듀티 4: 모던 워페어」
-  Guinness = 기네스
   Guinness World Records = 기네스 세계 기록
   Infinity Ward = 인피니티 워드
   Raven = 까마귀
@@ -391,7 +383,6 @@ GLOSSARY:
   Four Treasures of the Study = 문방사우
   Islamic world = 이슬람 세계
   Li Si = 이사
-  Masters = 마스터스 토너먼트
   Ottoman = 오스만
   Pen = 펜
   Qin Shi Huang = 진시황
@@ -438,7 +429,6 @@ LEVEL: 4
 GLOSSARY:
   Chrysomya bezziana = 크리소미아 베지아나
   Diptera = 파리목
-  Family = 가족
   Fly = 파리
   Larva = 애벌레
   Lucilia sericata = 구리금파리
@@ -525,7 +515,6 @@ GLOSSARY:
   Forbes = 『포브스』
   Michael Jackson = 마이클 잭슨
   Richard = 리처드
-  Scottish = 스코틀랜드
   Spotify = 스포티파이
   UK Albums Chart = UK 앨범 차트
   Wiles = 와일스
@@ -667,7 +656,6 @@ GLOSSARY:
   Cambridgeshire = 케임브리지셔주
   Cavendish = 캐번디시
   Cavendish Laboratory = 캐번디시 연구소
-  City = 도시
   England = 잉글랜드
   Game = 게임
   King's College = 킹스 칼리지
@@ -694,11 +682,9 @@ GLOSSARY:
   Cambridge = 케임브리지
   Cambridge Common = 케임브리지 커먼
   Charles River = 찰스강
-  City = 도시
   Continental Army = 대륙군
   England = 잉글랜드
   George Washington = 조지 워싱턴
-  Harvard = 하버드
   Harvard University = 하버드 대학교
   MIT = MIT
   Massachusetts = 매사추세츠주
@@ -747,7 +733,6 @@ GLOSSARY:
   China = 중국
   Cultivar = 재배 품종
   East Asia = 동아시아
-  Genus = 속
   Indian subcontinent = 인도 아대륙
   Indochina = 인도차이나
   Southeast = 남동부
@@ -854,7 +839,6 @@ GLOSSARY:
   French = 프랑스어
   Guinea = 기니
   Gulf of Guinea = 기니만
-  Paul = 바울로
   Paul Biya = 폴 비야
   Republic of Cameroon = 카메룬 공화국
   Yaoundé = 야운데
@@ -926,7 +910,6 @@ GLOSSARY:
   Granada = 그라나다
   Granada War = 그라나다 전쟁
   James = 야고보
-  Network = 「네트워크」
   Pilgrimage = 순례
   Pope = 교황
   Pope Alexander VI = 교황 알렉산데르 6세

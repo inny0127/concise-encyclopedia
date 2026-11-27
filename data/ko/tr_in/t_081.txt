@@ -3,12 +3,10 @@ HEADWORD: Crystallography = 결정학
 LEVEL: 4
 GLOSSARY:
   Ancient Greek = 고대 그리스어
-  Branch = 브랜치
   Crystallography = 결정학
   DNA = DNA
   International Year of Crystallography = 세계 결정학의 해
   Max von Laue = 막스 폰 라우에
-  Neutron = 중성자
   Neutron diffraction = 중성자 회절
   Nucleic acid = 핵산
   Protein = 단백질
@@ -72,7 +70,6 @@ GLOSSARY:
   Communist Party = 공산당
   Cuba = 쿠바
   Fidel Castro = 피델 카스트로
-  Following = 「미행」
   Fulgencio Batista = 풀헨시오 바티스타
   Havana = 아바나
   Party = 파티
@@ -97,7 +94,6 @@ GLOSSARY:
   Italy = 이탈리아
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   Khrushchev = 흐루쇼프
   Moscow = 모스크바
   Nikita Khrushchev = 니키타 흐루쇼프
@@ -131,7 +127,6 @@ GLOSSARY:
   Latin America = 라틴아메리카
   Marxist = 마르크스주의
   Mexico = 멕시코
-  Military = 군대
   Moncada Barracks = 몬카다 병영
   Party = 파티
   Raúl = 라울
@@ -180,7 +175,6 @@ GLOSSARY:
   Avant-garde = 아방가르드
   Collage = 콜라주
   Cubism = 입체주의
-  Cubist = 입체파
   Cézanne = 세잔
   Dada = 다다이즘
   Futurism = 미래주의
@@ -217,7 +211,6 @@ GLOSSARY:
   Cuckoo = 뻐꾸기
   Shakespeare = 셰익스피어
   The Owl and the Nightingale = 『올빼미와 나이팅게일』
-  William = 윌리엄
   William Shakespeare = 윌리엄 셰익스피어
   brood parasitism = 탁란
   cuckquean = 오쟁이 진 아내
@@ -232,7 +225,6 @@ GLOSSARY:
   Cuckold = 오쟁이 진 남편
   Cuculiformes = 두견이목
   Eurasian = 유라시아판
-  Family = 가족
   Greek mythology = 그리스 신화
   Hera = 헤라
   India = 인도
@@ -287,7 +279,6 @@ GLOSSARY:
   India = 인도
   Iran = 이란
   Levant = 레반트
-  Plant = 식물
   Pumpkin = 호박
   Watermelon = 수박
   cantaloupe = 캔털루프
@@ -302,7 +293,6 @@ LEVEL: 4
 GLOSSARY:
   Andes = 안데스산맥
   Cucurbitaceae = 박과
-  Genus = 속
   Honey bee = 꿀벌
   Mesoamerica = 메소아메리카
   Pumpkin = 호박
@@ -323,7 +313,6 @@ GLOSSARY:
   Cucurbitaciphyllum lobatum = 쿠쿠르비타키필룸 로바툼
   Montana = 몬태나주
   Paleocene = 팔레오세
-  Plant = 식물
   Watermelon = 수박
   lianas = 덩굴식물
   loofah = 수세미
@@ -435,7 +424,6 @@ GLOSSARY:
   Azalea = 진달래
   Camellia = 동백나무속
   Crop = 작물
-  Cultivar = 재배 품종
   Genetic engineering = 유전 공학
   Latin = 라틴어
   Rhododendron = 진달래속
@@ -451,7 +439,6 @@ GLOSSARY:
   Arthur Clifford Howard = 아서 클리퍼드 하워드
   Australia = 오스트레일리아
   Crop = 작물
-  Farm = 농장
   Harrow (tool) = 써레
   New South Wales = 뉴사우스웨일스주
   South Wales = 사우스웨일스
@@ -494,7 +481,6 @@ HEADWORD: Cultural anthropology = 문화인류학
 LEVEL: 4
 GLOSSARY:
   Anthropology = 인류학
-  Branch = 브랜치
   Franz Boas = 프란츠 보아스
   Methodology = 방법론
   Social anthropology = 사회인류학
@@ -510,7 +496,6 @@ Branch of [[Anthropology|anthropology]] focused on the study of cultural variati
 HEADWORD: Cultural assimilation = 문화 동화
 LEVEL: 4
 GLOSSARY:
-  Adoption = 입양
   Assimilationism = 동화주의
   Culture = 문화
   Discrimination = 차별
@@ -606,7 +591,6 @@ GLOSSARY:
   Mongol invasion of Kievan Rus' = 몽골의 키예프 루스 침공
   Polovtsians = 폴로베츠인
   River = 강
-  Rus' = 루스
   Second = 초
   Second Bulgarian Empire = 제2차 불가리아 제국
   Turkic languages = 튀르크어족
@@ -622,7 +606,6 @@ GLOSSARY:
   Carlisle = 칼라일
   Ceremonial county = 의례 카운티
   Cumberland = 컴벌랜드
-  Cumbria = 컴브리아
   England = 잉글랜드
   Furness = 퍼니스
   Hadrian's Wall = 하드리아누스 방벽
@@ -664,7 +647,6 @@ GLOSSARY:
   North Africa = 북아프리카
   Rome = 로마
   Spice = 향신료
-  Today = 「투데이」
   Traditional medicine = 전통 의학
   traditional medicine = 전통 의학
 ENTRY:
@@ -711,7 +693,6 @@ GLOSSARY:
   Cloud = 구름
   Cumulonimbus = 적란운
   Cumulus cloud = 적운
-  Genus = 속
   Hail = 우박
   Lightning = 번개
   Supercell = 슈퍼셀
@@ -735,7 +716,6 @@ GLOSSARY:
   Convection = 대류
   Cumulonimbus cloud = 적란운
   Earth = 지구
-  Genus = 속
   Humidity = 습도
   Latin = 라틴어
   cumulus congestus = 웅대적운
@@ -765,7 +745,6 @@ GLOSSARY:
   Sumerian language = 수메르어
   Urartian = 우라르투어
   Uruk = 우루크
-  Writing = 문자
   Writing system = 문자 체계
   ancient Near East = 고대 근동
   cuneus = 쿠네우스
@@ -777,7 +756,6 @@ HEADWORD: Cunnilingus = 커닐링구스
 LEVEL: 5
 GLOSSARY:
   Clitoris = 음핵
-  Cunnilingus = 커닐링구스
   Foreplay = 전희
   HIV = HIV
   Oral sex = 구강성교
@@ -818,7 +796,6 @@ GLOSSARY:
   Conifer = 구과식물
   Cupressaceae = 측백나무과
   Cupressus austrotibetica = 쿠프레수스 아우스트로티베티카
-  Genus = 속
   Hellenic = 헬레니즘어파
   Himalayas = 히말라야산맥
   Kupárissos = 키파리소스

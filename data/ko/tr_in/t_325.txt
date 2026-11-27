@@ -156,7 +156,6 @@ GLOSSARY:
   Natural gas = 천연가스
   Petroleum = 석유
   Sulfate = 황산염
-  Sulfur = 황
   Sulfuric acid = 황산
   allotrope = 동소체
   amino acids = 아미노산
@@ -206,7 +205,6 @@ LEVEL: 4
 GLOSSARY:
   Abbott's booby = 애벗얼가니새
   Drag (physics) = 항력
-  Family = 가족
   Procellariiformes = 슴새목
   Seabird = 바닷새
   Sula = 『술라』
@@ -251,7 +249,6 @@ GLOSSARY:
   National Hero of Indonesia = 인도네시아 국가 영웅
   Sultan = 술탄
   Surabaya = 수라바야
-  Third = 교향곡 제3번
   Tuban = 투반
   Wirasaba = 위라사바
 ENTRY:
@@ -285,7 +282,6 @@ GLOSSARY:
   Suleiman ibn Qutalmish = 술레이만 이븐 쿠탈미시
   Sunni = 수니파
   Sunni Muslim = 수니파 무슬림
-  Turco-Persian = 튀르크-페르시아
   Turkish = 튀르키예어
   beyliks = 베일리크
 ENTRY:
@@ -328,7 +324,6 @@ GLOSSARY:
   Southeast Asia = 동남아시아
   Srivijaya = 스리위자야
   Srivijaya Empire = 스리위자야 왕국
-  Sumatra = 수마트라섬
   industrial agriculture = 산업적 농업
 ENTRY:
 Island in western [[Indonesia]], the largest island fully within Indonesian territory and the sixth-largest in the world, at 482,286.55 sq km including adjacent islands and archipelagos. Its elongated landmass spans a northwest–southeast axis, with the [[Equator|equator]] crossing near its center. The Bukit Barisan mountains form its backbone, and the island is seismically active, the site of several of the largest volcanic eruptions and earthquakes in history. Deforestation and industrial agriculture have degraded its rain forest ecosystems and caused severe seasonal haze. Sumatra was the center of major regional powers, including the [[Srivijaya|Srivijaya Empire]] and the Aceh Sultanate, and its trading ports helped spread [[Islam]] across Southeast Asia. Its population of around 62 million includes many Indigenous and other ethnic groups who speak more than 52 languages.
@@ -423,7 +418,6 @@ GLOSSARY:
   Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
   Thomistic philosophy = 토마스주의 철학
-  Unfinished = 『언피니시드』
 ENTRY:
 Unfinished theological treatise by Thomas Aquinas, a compendium of the main teachings of the [[Catholic Church]]. Its topics follow a cycle of God, creation, man, Christ, the sacraments and back to God, and it is divided into three parts with 614 questions and 3,125 articles. Aquinas aims to reconcile [[Aristotle]]'s philosophy with Catholic theology, calling him "the philosopher" and drawing broadly on the [[Bible]]. A more structured expansion of his earlier *Summa contra Gentiles*, it was one of the main inspirations for Thomistic philosophy. Its influence on [[Dante Alighieri]]'s *Divine Comedy* led the poem to be called "the Summa in verse." It remains a major reference in the Western and Eastern Catholic Churches and in mainline Protestant denominations, including Anglicanism and Lutheranism.
 
@@ -431,7 +425,6 @@ Unfinished theological treatise by Thomas Aquinas, a compendium of the main teac
 HEADWORD: Summation = 합
 LEVEL: 5
 GLOSSARY:
-  Addition = 덧셈
   Function (mathematics) = 함수
   Limit (mathematics) = 극한
   Series (mathematics) = 급수
@@ -574,7 +567,6 @@ GLOSSARY:
   China = 중국
   Chinese Communist Party = 중국 공산당
   Communist Party = 공산당
-  Father = 아버지
   Father of the Nation = 국부
   First United Front = 제1차 국공 합작
   Forerunner of the Revolution = 혁명의 선구자
@@ -682,7 +674,6 @@ GLOSSARY:
   Asia = 아시아
   Australia = 오스트레일리아
   China = 중국
-  Family = 가족
   Guinea = 기니
   Honeyeater = 꿀빨이새
   Hummingbird = 벌새
@@ -746,7 +737,6 @@ GLOSSARY:
   Ganges Delta = 갠지스 삼각주
   India = 인도
   Khulna Division = 쿨나주
-  Mangrove = 맹그로브
   Meghna = 메그나강
   Rampal Power Station = 람팔 발전소
   Sundarbans = 순다르반스
@@ -785,7 +775,6 @@ HEADWORD: Sundial = 해시계
 LEVEL: 4
 GLOSSARY:
   Egypt = 이집트
-  Forms = 이데아
   Latitude = 위도
   Longitude = 경도
   Sun = 태양
@@ -807,7 +796,6 @@ GLOSSARY:
   Infrared = 적외선
   Photosynthesis = 광합성
   Sun = 태양
-  Sunlight = 햇빛
   Ultraviolet = 자외선
   electromagnetic radiation = 전자기 복사
   square meter = 제곱미터
@@ -836,7 +824,6 @@ GLOSSARY:
   Maturidi = 마투리디파
   Muhammad = 무함마드
   Muhammad Rashid Rida = 무함마드 라시드 리다
-  Orthodox = 정교회
   Quran = 쿠란
   Rashid = 라시드
   Rashid Rida = 라시드 리다
@@ -848,7 +835,6 @@ GLOSSARY:
   Six Books = 6서
   Sunni = 수니파
   Sunni Islam = 수니파
-  Sunnis = 수니파
   Umar = 우마르
   Uthman = 우스만
   ijma = 이즈마
@@ -919,7 +905,6 @@ GLOSSARY:
   Earth = 지구
   Equinox = 분점
   Sun = 태양
-  Sunset = 일몰
   Twilight = 박명
   atmospheric refraction = 대기 굴절
   polar day = 극주

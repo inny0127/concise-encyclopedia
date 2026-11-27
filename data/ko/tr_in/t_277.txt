@@ -87,7 +87,6 @@ LEVEL: 4
 GLOSSARY:
   China = 중국
   Endorheic basin = 내륙 유역
-  Green = 초록색
   Koko Nor = 쿠쿠노르
   Plateau = 고원
   Qinghai = 칭하이성
@@ -108,7 +107,6 @@ GLOSSARY:
   Airport = 공항
   Fatima = 파티마
   Fatima Masumeh Shrine = 파티마 마수메 성묘
-  Imam = 이맘
   Imam Khomeini International Airport = 이맘 호메이니 국제공항
   Iran = 이란
   Islam = 이슬람교
@@ -238,7 +236,6 @@ GLOSSARY:
   Nobel Peace Prize = 노벨 평화상
   Peace = 평화
   Protestant = 개신교
-  Quaker = 퀘이커교도
   Quakers = 퀘이커교도
   Religious Society of Friends = 종교친우회
   Society = 사회
@@ -261,7 +258,6 @@ GLOSSARY:
   Irwin Jacobs = 어윈 제이컵스
   Linkabit = 링커빗
   North America = 북아메리카
-  Qualcomm = 퀄컴
   San Diego = 샌디에이고
   Snapdragon = 스냅드래곤
   United States = 미국
@@ -303,7 +299,6 @@ GLOSSARY:
   Nôm script = 쯔놈
   Qing = 청나라
   Qing dynasty = 청나라
-  Second = 초
   Trịnh = 찐 씨
   Trịnh lords = 찐 씨
   Tây Sơn = 떠이선
@@ -322,7 +317,6 @@ GLOSSARY:
   Positivism = 실증주의
   Psychology = 심리학
   Qualitative research = 질적 연구
-  Research = 연구
   Scientific method = 과학적 방법
   Sociology = 사회학
   empiricist = 경험론
@@ -354,7 +348,6 @@ Minimum amount of any physical property involved in an interaction. A quantized 
 HEADWORD: Quantum chemistry = 양자 화학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Fritz London = 프리츠 런던
   Gilbert = 길버트 제도
   Gilbert N. Lewis = 길버트 N. 루이스
@@ -383,7 +376,6 @@ LEVEL: 4
 GLOSSARY:
   Asymptotic freedom = 점근적 자유성
   Chiral symmetry breaking = 카이랄 대칭 깨짐
-  Color = 색
   Color confinement = 색가둠
   David Gross = 데이비드 그로스
   David Politzer = 데이비드 폴리처
@@ -434,14 +426,11 @@ GLOSSARY:
   Lamb shift = 램 이동
   Nobel Prize = 노벨상
   Nobel Prize in Physics = 노벨 물리학상
-  Paul = 바울로
   Paul Dirac = 폴 디랙
   Photon = 광자
   Physics = 물리학
   QED = QED
   Quantum chromodynamics = 양자 색역학
-  Relativistic = 상대론적
-  Richard = 리처드
   Richard Feynman = 리처드 파인먼
   Schwinger = 줄리언 슈윙거
   Tomonaga = 도모나가 신이치로
@@ -505,7 +494,6 @@ GLOSSARY:
   Big Bang = 빅뱅
   Black hole = 블랙홀
   General relativity = 일반 상대성 이론
-  Gravity = 중력
   M-theory = M이론
   Phenomenological quantum gravity = 현상론적 양자 중력
   Planck = 플랑크 위성
@@ -544,7 +532,6 @@ GLOSSARY:
   Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Born rule = 보른 규칙
-  Bound = 「바운드」
   Classical mechanics = 고전 역학
   Double-slit experiment = 이중 슬릿 실험
   Max Born = 막스 보른
@@ -620,7 +607,6 @@ GLOSSARY:
   Marco Polo = 마르코 폴로
   Ming = 명나라
   Mongol = 몽골
-  Piracy = 해적 행위
   Polo = 폴로
   Qing = 청나라
   Strait = 해협
@@ -662,7 +648,6 @@ LEVEL: 4
 GLOSSARY:
   Atomic nucleus = 원자핵
   Cosmic ray = 우주선
-  Elementary = 「엘리멘트리」
   Elementary particle = 기본 입자
   Finnegans Wake = 『피네간의 경야』
   Gell-Mann = 겔만
@@ -697,9 +682,7 @@ GLOSSARY:
   Coquina quarry = 코키나 채석장
   Drainage = 배수
   Egypt = 이집트
-  Granite = 화강암
   Greece = 그리스
-  Quarry = 채석장
   Rome = 로마
   ancient Greece = 고대 그리스
 ENTRY:
@@ -716,7 +699,6 @@ GLOSSARY:
   Lithosphere = 암석권
   Mohs scale = 모스 굳기계
   Nicolas Steno = 니콜라우스 스테노
-  Quartz = 석영
   Silicon dioxide = 이산화 규소
   hardstone carvings = 경석 조각
 ENTRY:
@@ -728,11 +710,9 @@ LEVEL: 4
 GLOSSARY:
   Active galactic nucleus = 활동은하핵
   Earth = 지구
-  Hubble = 허블
   Hubble Space Telescope = 허블 우주 망원경
   Light-year = 광년
   Milky Way = 우리은하
-  Quasar = 퀘이사
   Solar mass = 태양 질량
   Supermassive black hole = 초대질량 블랙홀
   black hole = 블랙홀
@@ -775,7 +755,6 @@ LEVEL: 5
 GLOSSARY:
   Complex number = 복소수
   Computer graphics = 컴퓨터 그래픽스
-  Irish = 아일랜드어
   Robotics = 로봇공학
   Three-dimensional space = 3차원 공간
   William = 윌리엄
@@ -887,12 +866,10 @@ GLOSSARY:
   Inca = 잉카
   Inca Empire = 잉카 제국
   Incas = 잉카인
-  Indigenous = 원주민
   Kichwa = 키치와어
   Peru = 페루
   Proto-Quechua = 원시 케추아어
   Quechua = 케추아어
-  Today = 「투데이」
   Túpac Amaru = 투팍 아마루
   Túpac Amaru II = 투팍 아마루 2세
 ENTRY:

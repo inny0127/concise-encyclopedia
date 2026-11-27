@@ -53,14 +53,12 @@ GLOSSARY:
   Blue Origin = 블루 오리진
   Boston = 보스턴
   Boston Legal = 「보스턴 리걸」
-  Canadian = 캐나다
   Captain = 선장
   Denny Crane = 데니 크레인
   Emmy = 에미상
   Emmy Awards = 에미상
   James = 야고보
   James T. Kirk = 제임스 T. 커크
-  Lucy = 「루시」
   Lucy in the Sky with Diamonds = 「루시 인 더 스카이 위드 다이아몬즈」
   Star = 항성
   Star Trek = 「스타 트렉」
@@ -257,7 +255,6 @@ GLOSSARY:
   Delft = 델프트
   Dutch = 네덜란드어
   Eighty Years' War = 80년 전쟁
-  Father = 아버지
   Father of the Fatherland = 국부
   Habsburg = 합스부르크
   Habsburgs = 합스부르크 가문
@@ -303,7 +300,6 @@ GLOSSARY:
   Sears = 시어스
   Sears Tower = 시어스 타워
   Skydeck = 스카이데크
-  Skyscraper = 마천루
   Tower = 탑
   United Airlines = 유나이티드 항공
   United States = 미국
@@ -320,7 +316,6 @@ HEADWORD: Willow = 버드나무
 LEVEL: 4
 GLOSSARY:
   Carl Linnaeus = 칼 폰 린네
-  Genus = 속
   Latin = 라틴어
   Linnaeus = 린네
   Old English = 고대 영어
@@ -389,7 +384,6 @@ GLOSSARY:
   Olympic Games = 올림픽
   Polio = 소아마비
   Rome = 로마
-  Rudolph = 루돌프
   Summer Olympics = 하계 올림픽
   Track and field = 육상 경기
   civil rights = 민권
@@ -428,8 +422,6 @@ GLOSSARY:
   Saturn = 토성
   Solar System = 태양계
   Solar wind = 태양풍
-  Weather = 날씨
-  Wind = 바람
   Wind power = 풍력 발전
   aeolian processes = 풍성 작용
   anemology = 풍학
@@ -465,7 +457,6 @@ GLOSSARY:
   Trumpet = 트럼펫
   Tuba = 튜바
   Valve = 밸브
-  Wind = 바람
   Woodwind instrument = 목관 악기
   mouthpiece = 마우스피스
   oboe = 오보에
@@ -486,7 +477,6 @@ GLOSSARY:
   Solar power = 태양광 발전
   Transformer = 변압기
   United States = 미국
-  Wind = 바람
   Wind turbine = 풍력 터빈
   dispatchable generation = 급전 가능 발전
   energy storage = 에너지 저장
@@ -519,7 +509,6 @@ GLOSSARY:
   Kinetic energy = 운동 에너지
   Renewable energy = 재생 에너지
   Savonius = 사보니우스형
-  Wind = 바람
   carbon fiber = 탄소 섬유
   energy storage = 에너지 저장
   glass-fiber composites = 유리 섬유 복합재
@@ -546,7 +535,6 @@ GLOSSARY:
   Namibian = 나미비아의
   Orlam = 오를람족
   South Africa = 남아프리카 공화국
-  Windhoek = 빈트후크
   World = 세계
   World War I = 제1차 세계 대전
 ENTRY:
@@ -565,7 +553,6 @@ GLOSSARY:
   France = 프랑스
   Hammurabi = 함무라비
   Iran = 이란
-  Machine = 기계
   Mesopotamia = 메소포타미아
   Middle East = 중동
   Persia = 페르시아
@@ -655,7 +642,6 @@ Major release of the [[Windows NT]] operating system from [[Microsoft]], release
 HEADWORD: Windows NT = 윈도우 NT
 LEVEL: 5
 GLOSSARY:
-  Family = 가족
   Microsoft = 마이크로소프트
   Microsoft Windows = 마이크로소프트 윈도우
   Windows = 윈도우
@@ -673,7 +659,6 @@ LEVEL: 5
 GLOSSARY:
   MS-DOS = MS-DOS
   Microsoft = 마이크로소프트
-  Security = 보안
   Windows = 윈도우
   Windows 2000 = 윈도우 2000
   Windows 95 = 윈도우 95
@@ -744,8 +729,6 @@ GLOSSARY:
   Norse = 노르드인
   Old Norse = 고대 노르드어
   Submarine = 잠수함
-  Wing = 날개
-  Wings = 윙스
   aerobatic aircraft = 곡예 비행기
   airfoil = 에어포일
   angle of attack = 받음각
@@ -792,12 +775,10 @@ Fictional anthropomorphic teddy bear created by English author A. A. Milne and i
 HEADWORD: Winnipeg = 위니펙
 LEVEL: 5
 GLOSSARY:
-  Average = 평균
   Canada = 캐나다
   Canadian = 캐나다
   Cree = 크리족
   Fort Rouge = 루즈 요새
-  French = 프랑스어
   Gateway to the West = 서부로 가는 관문
   Ice hockey = 아이스하키
   Jets = 제츠
@@ -845,7 +826,6 @@ GLOSSARY:
   Gertie the Dinosaur = 「공룡 거티」
   Little Nemo in Slumberland = 「잠의 나라의 리틀 니모」
   Lusitania = 루시타니아
-  Newspaper = 신문
   Perspective (graphical) = 원근법
   The Sinking of the Lusitania = 「루시타니아호의 침몰」
   Vaudeville = 보드빌
@@ -902,7 +882,6 @@ GLOSSARY:
   France = 프랑스
   Ice hockey = 아이스하키
   Northern Hemisphere = 북반구
-  Norway = 노르웨이
   Speed skating = 스피드 스케이팅
   Summer Olympic Games = 하계 올림픽
   United States = 미국
@@ -948,7 +927,6 @@ GLOSSARY:
   Sun = 태양
   Vancouver = 밴쿠버
   Winnipeg = 위니펙
-  Winter = 겨울
   Winter solstice = 동지
 ENTRY:
 Coldest and darkest season of the year in temperate and polar climates, between [[Autumn|autumn]] and [[Spring (season)|spring]]. Winter occurs when a hemisphere is tilted away from the [[Sun]] because of the [[Axial tilt|tilt of Earth's axis]]. When it is winter in the [[Northern Hemisphere]], it is summer in the Southern Hemisphere. Winter typically brings precipitation that is mainly rain or snow, depending on climate. The shortest day and longest night fall at the [[Winter solstice|winter solstice]]. The severity of winter varies with elevation, exposure to marine winds and precipitation. [[Winnipeg]], on the landlocked Great Plains, has a January high of −11.3 °C (11.7 °F), while [[Vancouver]], on Canada's Pacific coast, has a January low of 1.4 °C (34.5 °F). Meteorologists define winter as the three calendar months with the lowest average temperatures.

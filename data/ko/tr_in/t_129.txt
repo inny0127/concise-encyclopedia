@@ -48,7 +48,6 @@ GLOSSARY:
   Equator = 적도
   Eratosthenes = 에라토스테네스
   Eratosthenes of Cyrene = 키레네의 에라토스테네스
-  France = 프랑스
   Geodetic datum = 측지 기준계
   Geography = 『지리학』
   Greenwich = 그리니치
@@ -109,7 +108,6 @@ GLOSSARY:
   Eratosthenes = 에라토스테네스
   Eratosthenes of Cyrene = 키레네의 에라토스테네스
   Geography = 『지리학』
-  Human = 인간
   Human geography = 인문지리학
   Middle Ages = 중세
   Muhammad = 무함마드
@@ -120,9 +118,7 @@ GLOSSARY:
   Physical geography = 자연지리학
   Ptolemy = 프톨레마이오스
   Remote sensing = 원격 탐사
-  Space = 공간
   Technical geography = 기술 지리학
-  Time = 『타임』
   World = 세계
   five themes of geography = 지리의 5대 주제
   geographic information science = 지리 정보 과학
@@ -146,7 +142,6 @@ GLOSSARY:
   Gauss = 가우스
   Gladys West = 글래디스 웨스트
   Global Positioning System = 위성 위치 확인 시스템
-  Iceland = 아이슬란드
   India = 인도
   reference ellipsoid = 기준 타원체
   satellite geodesy = 위성 측지학
@@ -191,7 +186,6 @@ GLOSSARY:
   Pangaea = 판게아
   Pannotia = 파노티아
   Rodinia = 로디니아
-  Sequence = 수열
   Sun = 태양
   Supercontinent = 초대륙
   geologic time scale = 지질 시대표
@@ -207,7 +201,6 @@ GLOSSARY:
   Alfred = 앨프레드 대왕
   Alfred Wegener = 알프레트 베게너
   Ancient Greek = 고대 그리스어
-  Branch = 브랜치
   Earth = 지구
   Earth science = 지구과학
   Earth system science = 지구 시스템 과학
@@ -307,7 +300,6 @@ GLOSSARY:
   Archimedes = 아르키메데스
   Aryabhatiya = 『아리아바티야』
   Brahmagupta = 브라마굽타
-  Branch = 브랜치
   Descartes = 데카르트
   Egypt = 이집트
   Elements = 『원론』
@@ -380,7 +372,6 @@ GLOSSARY:
   Glacier = 빙하
   Moraine = 빙퇴석
   Sediment = 퇴적물
-  Surface = 서피스
   bathymetric = 해저 지형의
   fluvial geomorphology = 하천 지형학
   sedimentary basins = 퇴적 분지
@@ -394,7 +385,6 @@ GLOSSARY:
   Cryosphere = 빙권
   Earth = 지구
   Moon = 달
-  Physical = 「Physical」
   Plate tectonics = 판 구조론
   Tide = 조석
   ionosphere = 전리층
@@ -413,7 +403,6 @@ LEVEL: 4
 GLOSSARY:
   Cantor = 칸토어
   David Hilbert = 다비트 힐베르트
-  German = 독일어
   God = 신
   Henri Poincaré = 앙리 푸앵카레
   Hilbert = 힐베르트
@@ -449,7 +438,6 @@ GLOSSARY:
   Alessandro Volta = 알레산드로 볼타
   Cologne = 쾰른
   Copley Medal = 코플리 메달
-  German = 독일어
   Jesuit = 예수회
   Jesuit Gymnasium = 예수회 김나지움
   Munich = 뮌헨
@@ -590,7 +578,6 @@ GLOSSARY:
   Eugenics = 우생학
   First World War = 제1차 세계 대전
   Henrik Ibsen = 헨리크 입센
-  Irish = 아일랜드어
   Joseph Stalin = 이오시프 스탈린
   Literature = 문학
   London = 런던
@@ -1017,7 +1004,6 @@ GLOSSARY:
   George III = 조지 3세
   Hanover = 하노버
   Ireland = 아일랜드
-  Parliament = 의회
   War of the Austrian Succession = 오스트리아 왕위 계승 전쟁
 ENTRY:
 King of Great Britain and Ireland, 1727–1760, and Elector of [[Hanover]]. Born in Hanover, he was the most recent British monarch born outside Britain. Parliament largely controlled domestic policy, but later scholarship concludes that he influenced foreign policy and military appointments more than earlier historians believed. He took part in the Battle of Dettingen during the [[War of the Austrian Succession]], becoming the most recent British monarch to lead an army in battle. He was succeeded by his grandson, [[George III]].

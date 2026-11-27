@@ -11,7 +11,6 @@ GLOSSARY:
   Gloria SMH = 글로리아 SMH
   Godot = 고도
   International Prix = 국제 출판인상
-  Irish = 아일랜드어
   James = 야고보
   James Joyce = 제임스 조이스
   Jorge Luis Borges = 호르헤 루이스 보르헤스
@@ -26,7 +25,6 @@ GLOSSARY:
   Second = 초
   Second World = 제2세계
   Second World War = 제2차 세계 대전
-  Theatre = 연극
   Theatre of the Absurd = 부조리극
   Waiting for Godot = 『고도를 기다리며』
   World = 세계
@@ -197,7 +195,6 @@ GLOSSARY:
   Meiji = 메이지
   Meiji Restoration = 메이지 유신
   Restoration = 왕정복고
-  Samurai = 사무라이
   Tokugawa shogunate = 도쿠가와 막부
   abolition of the domains = 폐번치현
   ronin = 로닌
@@ -230,7 +227,6 @@ LEVEL: 4
 GLOSSARY:
   Anthony = 앤서니
   Bexar County = 벡사 카운티
-  City = 도시
   Fort Sam Houston = 포트 샘 휴스턴
   Hispanic = 히스패닉
   Houston = 휴스턴
@@ -259,12 +255,10 @@ LEVEL: 4
 GLOSSARY:
   Asia = 아시아
   California = 캘리포니아주
-  City = 도시
   Juan Rodríguez Cabrillo = 후안 로드리게스 카브리요
   Mediterranean = 지중해
   Mediterranean climate = 지중해성 기후
   Mission San Diego de Alcalá = 산디에고데알칼라 선교회
-  Navy = 해군
   Pacific = 태평양
   Port = 항구
   San Diego = 샌디에이고
@@ -312,7 +306,6 @@ GLOSSARY:
   Bridge = 다리
   California = 캘리포니아주
   California gold rush = 캘리포니아 골드러시
-  City = 도시
   Francis = 프랑수아
   Francis of Assisi = 아시시의 프란치스코
   Golden Gate Bridge = 금문교
@@ -370,7 +363,6 @@ GLOSSARY:
   Californias = 칼리포르니아스
   Capital of Silicon Valley = 실리콘 밸리의 수도
   Cisco = 시스코
-  City = 도시
   EBay = 이베이
   India = 인도
   Northern California = 북부 캘리포니아
@@ -403,7 +395,6 @@ GLOSSARY:
   Pan American Games = 팬아메리칸 게임
   Puerto Rico = 푸에르토리코
   Santo Domingo = 산토도밍고
-  Today = 「투데이」
   UNESCO = 유네스코
   United States = 미국
   World = 세계
@@ -459,7 +450,6 @@ GLOSSARY:
   Basque Country = 바스크 지방
   Bay of Biscay = 비스케이만
   Biscay = 비스카야
-  City = 도시
   Culture = 문화
   Donostia = 도노스티아
   European Capital of Culture = 유럽 문화 수도
@@ -486,7 +476,6 @@ GLOSSARY:
   Botswana = 보츠와나
   Bushmen = 부시먼
   Hunter-gatherer = 수렵채집인
-  Indigenous = 원주민
   Khoe = 코에
   Khoekhoe = 코이코이어
   Kxʼa = 크샤
@@ -530,12 +519,10 @@ Capital and largest city of [[Yemen]], at an elevation of 2,300 m (7,500 ft), th
 HEADWORD: Sand = 모래
 LEVEL: 4
 GLOSSARY:
-  Calcium = 칼슘
   Calcium carbonate = 탄산 칼슘
   Caribbean = 카리브해
   Concrete = 콘크리트
   Quartz = 석영
-  Sand = 모래
   gravel = 자갈
   silica = 실리카
   silt = 실트
@@ -645,7 +632,6 @@ LEVEL: 5
 GLOSSARY:
   Adam = 아담
   Adam Lanza = 애덤 랜자
-  Alex = 알렉스
   Alex Jones = 알렉스 존스
   Connecticut = 코네티컷주
   Moms Demand Action = 맘스 디맨드 액션
@@ -665,7 +651,6 @@ GLOSSARY:
   Joseph Bazalgette = 조지프 배절제트
   Manholes = 맨홀
   Sewage treatment = 하수 처리
-  Underground = 『언더그라운드』
   combined sewer overflows = 합류식 하수 월류수
   combined sewers = 합류식 하수관
   force mains = 압송관
@@ -685,7 +670,6 @@ GLOSSARY:
   Goal = 『골』
   Joint = 관절
   Public health = 공중 보건
-  Sanitation = 위생
   Sustainable Development Goal 6 = 지속가능발전목표 6
   United Nations = 국제 연합
   United Nations General Assembly = 국제 연합 총회
@@ -804,7 +788,6 @@ GLOSSARY:
   Auditorio de Tenerife = 테네리페 오디토리움
   Canary Islands = 카나리아 제도
   Carnival = 카니발
-  City = 도시
   Europe = 유럽
   Parliament = 의회
   Parliament of the Canary Islands = 카나리아 제도 의회

@@ -95,7 +95,6 @@ HEADWORD: Biko, Steve = 비코, 스티브
 LEVEL: 4
 GLOSSARY:
   Apartheid = 아파르트헤이트
-  Biko = 「Biko」
   Black = 검은색
   Black Consciousness Movement = 흑인 의식 운동
   Black People's Convention = 흑인 회의
@@ -167,7 +166,6 @@ LEVEL: 5
 GLOSSARY:
   Australia = 오스트레일리아
   Australia Zoo = 오스트레일리아 동물원
-  Australian = 오스트레일리아
   Crocodile = 악어
   Great Barrier Reef = 그레이트배리어리프
   Hunter = 헌터
@@ -346,7 +344,6 @@ GLOSSARY:
   New Hollywood = 뉴 할리우드
   Saving Private Ryan = 「라이언 일병 구하기」
   Schindler's List = 「쉰들러 리스트」
-  Seven = 「세븐」
   Williams = 윌리엄스
 ENTRY:
 American filmmaker and producer, a major figure of the [[New Hollywood]] era and a pioneer of the modern blockbuster. Spielberg is the highest-grossing film director of all time, with films earning almost $11 billion worldwide. His films include *Jaws* (1975), *E.T. the Extra-Terrestrial* (1982), *Jurassic Park* (1993) and *Saving Private Ryan* (1998); *Schindler's List* (1993) and *Saving Private Ryan* both won him the Academy Award for Best Director. He collaborated with composer [[John Williams]] for decades and co-founded Amblin Entertainment and DreamWorks Pictures. Seven of his films have been inducted into the National Film Registry, and he has received three Academy Awards and twelve Emmy Awards.
@@ -462,7 +459,6 @@ LEVEL: 4
 GLOSSARY:
   Asia = 아시아
   Europe = 유럽
-  Family = 가족
   Holarctic = 전북구
   Ice Age = 빙하기
   North America = 북아메리카
@@ -487,7 +483,6 @@ GLOSSARY:
   Radian = 라디안
   SI units = SI 단위
   Shear = 전단
-  Stiffness = 강성
   compliance = 컴플라이언스
   degree of freedom = 자유도
   quasi-static = 준정적
@@ -500,7 +495,6 @@ Resistance of an object to deformation in response to an applied [[Force|force]]
 HEADWORD: Stimulant = 각성제
 LEVEL: 4
 GLOSSARY:
-  ADHD = 주의력 결핍 과잉 행동 장애
   Addiction = 중독
   Amphetamine = 암페타민
   Attention deficit hyperactivity disorder = 주의력 결핍 과잉행동 장애
@@ -531,7 +525,6 @@ GLOSSARY:
   Grammy = 그래미상
   Grammy Awards = 그래미상
   Police = 경찰
-  Queen = 퀸
   Queen Elizabeth II = 엘리자베스 2세 여왕
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
   The Police = 폴리스
@@ -548,9 +541,7 @@ GLOSSARY:
   IUCN = 국제 자연 보전 연맹
   Myliobatoidei = 색가오리아목
   Ocean = 대양
-  River = 강
   River stingrays = 민물가오리류
-  Stingray = 노랑가오리
   Venom = 독
   cartilaginous fish = 연골어류
   demersal = 저서성
@@ -567,7 +558,6 @@ HEADWORD: Stirling engine = 스털링 기관
 LEVEL: 5
 GLOSSARY:
   Heat pump = 열펌프
-  Investment = 투자
   Robert Stirling = 로버트 스털링
   Scottish = 스코틀랜드
   Steam engine = 증기 기관
@@ -625,7 +615,6 @@ GLOSSARY:
   A. K. Erlang = 아그너 크라루프 얼랑
   Brownian motion = 브라운 운동
   Calculus = 미적분학
-  Erlang = 얼랭
   Gaussian processes = 가우스 과정
   Linear algebra = 선형대수학
   Louis Bachelier = 루이 바슐리에
@@ -670,7 +659,6 @@ GLOSSARY:
   Bond (finance) = 채권
   Derivative (finance) = 파생 상품
   Electronic communication networks = 전자 통신 네트워크
-  Marketplace = 시장
   Rome = 로마
   Stock = 주식
   Venetian = 베네치아
@@ -740,8 +728,6 @@ GLOSSARY:
   Renaissance = 르네상스
   Roman Empire = 로마 제국
   Stoic = 스토아학파
-  Stoicism = 스토아학파
-  Stoics = 스토아학파
   Virtue = 덕
   Zeno = 제논
   Zeno of Citium = 키티온의 제논
@@ -756,7 +742,6 @@ Hellenistic philosophy and practical guide to living, founded by Zeno of Citium 
 HEADWORD: Stoma = 기공
 LEVEL: 4
 GLOSSARY:
-  Carbon = 탄소
   Carbon dioxide = 이산화 탄소
   Liverwort = 우산이끼류
   Monocotyledon = 외떡잎식물
@@ -803,12 +788,10 @@ GLOSSARY:
   Africa = 아프리카
   Asia = 아시아
   Australopithecus = 오스트랄로피테쿠스
-  Broad = 브로드강
   Bronze = 청동
   Bronze Age = 청동기 시대
   Chalcolithic = 동석기 시대
   China = 중국
-  Copper = 구리
   East African Rift = 동아프리카 지구대
   East African Rift System = 동아프리카 지구대
   Ethiopia = 에티오피아

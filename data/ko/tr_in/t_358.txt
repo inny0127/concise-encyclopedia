@@ -20,8 +20,6 @@ GLOSSARY:
   North Africa = 북아프리카
   North America = 북아메리카
   Rus = 루스
-  Rus' = 루스
-  Scandinavian = 스칸디나비아
   Varangians = 바랑인
   Vikings = 바이킹
   Vinland = 빈란드
@@ -37,7 +35,6 @@ GLOSSARY:
   European Commission = 유럽 연합 집행위원회
   Fidesz = 피데스
   Freedom House = 프리덤 하우스
-  Hungarian = 헝가리어
   Hungary = 헝가리
   NATO = 북대서양 조약 기구
   Party = 파티
@@ -77,12 +74,10 @@ LEVEL: 3
 GLOSSARY:
   Asia = 아시아
   China = 중국
-  Human = 인간
   Human settlement = 취락
   India = 인도
   Indonesia = 인도네시아
   Industrial Revolution = 산업 혁명
-  Japan = 일본
   Kazakhstan = 카자흐스탄
   Levant = 레반트
   Natufians = 나투프인
@@ -271,7 +266,6 @@ GLOSSARY:
   Auvers-sur-Oise = 오베르쉬르우아즈
   Avant-garde = 아방가르드
   Belgium = 벨기에
-  Dutch = 네덜란드어
   Expressionism = 표현주의
   Expressionists = 표현주의자
   Fauves = 야수파
@@ -317,7 +311,6 @@ GLOSSARY:
   Middle Ages = 중세
   Orléans = 오를레앙
   Pickling = 절임
-  Vinegar = 식초
   Yeast = 효모
   Zhou dynasty = 주나라
   malt vinegar = 맥아 식초
@@ -361,8 +354,6 @@ GLOSSARY:
   Georgia (U.S. state) = 조지아주
   Late Cambrian = 후기 캄브리아기
   Mount Vinson = 빈슨산
-  Mountain = 산
-  Navy = 해군
   Nicholas Clinch = 니컬러스 클린치
   Ronne Ice Shelf = 론 빙붕
   Sentinel Range = 센티널산맥
@@ -437,7 +428,6 @@ GLOSSARY:
   Australasia = 오스트랄라시아
   Carl Linnaeus = 칼 폰 린네
   Flowering plant = 속씨식물
-  Genus = 속
   Hawaii = 하와이
   Ketone = 케톤
   Linnaeus = 린네
@@ -461,7 +451,6 @@ GLOSSARY:
   Intimate partner violence = 친밀한 파트너 폭력
   Self-harm = 자해
   Structural violence = 구조적 폭력
-  Violence = 폭력
   WHO = 세계 보건 기구
   War = 전쟁
   World = 세계
@@ -481,7 +470,6 @@ Intentional [[Homicide|homicide]], armed conflict, and terrorism together caused
 HEADWORD: Violet = 보라색
 LEVEL: 5
 GLOSSARY:
-  Color = 색
   Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Newton = 뉴턴
@@ -522,7 +510,6 @@ Wooden chordophone, the smallest and highest-pitched instrument in regular use i
 HEADWORD: Viral video = 바이럴 영상
 LEVEL: 5
 GLOSSARY:
-  Chocolate = 초콜릿
   Chocolate Rain = 「초콜릿 레인」
   Comedy = 코미디
   Despacito = 「데스파시토」
@@ -697,7 +684,6 @@ GLOSSARY:
   Celibacy = 독신
   Middle English = 중세 영어
   Sexual intercourse = 성교
-  Virginity = 처녀성
   born-again virgins = 재생 처녀
   manual sex = 손을 이용한 성행위
   social construct = 사회적 구성물
@@ -779,7 +765,6 @@ Trait of excellence, which may be moral, social or intellectual. In human ethics
 HEADWORD: Virus = 바이러스
 LEVEL: 3
 GLOSSARY:
-  Animal = 동물
   DNA = DNA
   Earth = 지구
   HIV = HIV
@@ -814,7 +799,6 @@ GLOSSARY:
   Bay of Bengal = 벵골만
   Bengal = 벵골
   Chennai = 첸나이
-  City = 도시
   East India Company = 동인도 회사
   Eastern Ghats = 동고츠산맥
   Eastern Naval Command = 동부 해군 사령부
@@ -822,7 +806,6 @@ GLOSSARY:
   Middle East = 중동
   Port = 항구
   Rome = 로마
-  Visakhapatnam = 비샤카파트남
   Visakhapatnam Port = 비샤카파트남항
 ENTRY:
 City in the Indian state of [[Andhra Pradesh]], between the Eastern Ghats and the coast of the [[Bay of Bengal]]. It is the largest and most populous city in Andhra Pradesh and the second-largest on India's east coast after [[Chennai]]. Known as the shipbuilding capital of India, it has the oldest shipyard in India and the only natural harbor on the east coast. Visakhapatnam Port is the fifth-busiest cargo port in India. The city hosts the headquarters of the Indian Navy's Eastern Naval Command. Historically a trading port with the [[Middle East]] and Rome, it came under [[East India Company]] control in 1804 and remained under British rule until Indian independence in 1947.
@@ -831,7 +814,6 @@ City in the Indian state of [[Andhra Pradesh]], between the Eastern Ghats and th
 HEADWORD: Visayas = 비사야 제도
 LEVEL: 4
 GLOSSARY:
-  Archipelago = 제도
   Bohol = 보홀섬
   Cebu = 세부섬
   Central Visayas = 중부 비사야
@@ -861,11 +843,9 @@ LEVEL: 4
 GLOSSARY:
   Latin = 라틴어
   Newtonian fluid = 뉴턴 유체
-  Property = 재산
   SI units = SI 단위
   Second law of thermodynamics = 열역학 제2법칙
   Superfluidity = 초유동성
-  Viscosity = 점성
   Water = 물
   mistletoe = 겨우살이
   pascal-seconds = 파스칼초
@@ -948,7 +928,6 @@ GLOSSARY:
   Christianity = 기독교
   Franks = 프랑크족
   Gaul = 갈리아
-  Gothic = 고딕
   Goths = 고트족
   Middle Ages = 중세
   Nicene Christianity = 니케아 그리스도교

@@ -9,7 +9,6 @@ GLOSSARY:
   Cyclone Tracy = 사이클론 트레이시
   Darwin = 다윈
   Indonesia = 인도네시아
-  John = 존
   John Clements = 존 클레먼츠
   John Clements Wickham = 존 클레먼츠 위컴
   Larrakia = 라라키아족
@@ -175,7 +174,6 @@ GLOSSARY:
   Amazon Web Services = 아마존 웹 서비스
   Artificial intelligence = 인공지능
   Azure = 애저
-  Building = 건물
   Cloud computing = 클라우드 컴퓨팅
   ENIAC = 에니악
   Energy = 에너지
@@ -192,7 +190,6 @@ Building or room dedicated to housing computer equipment that stores, processes 
 HEADWORD: Data communication = 데이터 통신
 LEVEL: 4
 GLOSSARY:
-  Analog = 『아날로그』
   Coding theory = 부호 이론
   Electrical telegraphy = 전신
   Information theory = 정보 이론
@@ -302,7 +299,6 @@ LEVEL: 4
 GLOSSARY:
   Algebraic structure = 대수 구조
   Big-O notation = 점근 표기법
-  Choice = 초이스
   Computer = 컴퓨터
   Computer science = 컴퓨터 과학
   Data = 데이터
@@ -344,7 +340,6 @@ GLOSSARY:
   North Africa = 북아프리카
   Oasis = 오아시스
   Pakistan = 파키스탄
-  Phoenix = 피닉스
   Phoenix dactylifera = Phoenix dactylifera
   Southeast = 남동부
   Southeast Asia = 동남아시아
@@ -502,7 +497,6 @@ GLOSSARY:
   Palestinian Arab = 팔레스타인 아랍인
   Sde Boker = 스데보케르
   Suez Crisis = 수에즈 위기
-  Time = 『타임』
   Time (magazine) = 『타임』
   West Germany = 서독
 ENTRY:
@@ -533,7 +527,6 @@ GLOSSARY:
   Dance = 춤
   Grammy = 그래미상
   Grammy Awards = 그래미상
-  Heroes = 「히어로즈」
   Internet = 인터넷
   Let's Dance = 「Let's Dance」
   Lodger = 「로저」
@@ -598,7 +591,6 @@ HEADWORD: Cronenberg, David = 크로넨버그, 데이비드
 LEVEL: 5
 GLOSSARY:
   A History of Violence = 「폭력의 역사」
-  Canadian = 캐나다
   Cannes = 칸
   Cannes Film Festival = 칸 영화제
   Crash = 「크래시」
@@ -705,7 +697,6 @@ GLOSSARY:
   Best Original Song = 주제가상
   Billboard = 『빌보드』
   Billboard Hot 100 = 빌보드 핫 100
-  Canadian = 캐나다
   Grammy = 그래미상
   Grammy Awards = 그래미상
   Hard to Say I'm Sorry = 「Hard to Say I'm Sorry」
@@ -767,11 +758,9 @@ GLOSSARY:
   Euclidean = 유클리드
   Euclidean geometry = 유클리드 기하학
   Georg Cantor = 게오르크 칸토어
-  German = 독일어
   Grundlagen der Geometrie = 『기하학의 기초』
   Göttingen = 괴팅겐
   Hermann Weyl = 헤르만 바일
-  Hilbert = 힐베르트
   John = 존
   John von Neumann = 존 폰 노이만
   Mathematical logic = 수리 논리학
@@ -805,7 +794,6 @@ GLOSSARY:
   Immanuel Kant = 이마누엘 칸트
   Kant = 칸트
   Nature = 『네이처』
-  Scottish = 스코틀랜드
   causal inference = 인과 추론
   constant conjunction = 항상적 결합
   dogmatic slumbers = 독단의 잠
@@ -849,7 +837,6 @@ GLOSSARY:
   In Which We Serve = 「인 위치 위 서브」
   India = 인도
   Lawrence of Arabia = 「아라비아의 로렌스」
-  Lean = 린
   Noël Coward = 노엘 카워드
   Oliver Twist = 「올리버 트위스트」
   River = 강
@@ -886,7 +873,6 @@ GLOSSARY:
   Livingstone = 리빙스턴
   London Missionary Society = 런던 선교회
   Nile = 나일강
-  Scottish = 스코틀랜드
   Scramble for Africa = 아프리카 분할
   Society = 사회
   Victoria Falls = 빅토리아 폭포

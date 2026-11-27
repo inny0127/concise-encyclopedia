@@ -148,7 +148,6 @@ GLOSSARY:
   Flatus = 방귀
   Irritable bowel syndrome = 과민 대장 증후군
   Methane = 메탄
-  Odor = 냄새
   celiac disease = 셀리악병
   lactose intolerance = 젖당 불내증
 ENTRY:
@@ -210,7 +209,6 @@ GLOSSARY:
   Dzudzuana Cave = 주주아나 동굴
   Egypt = 이집트
   Fertile Crescent = 비옥한 초승달 지대
-  Flax = 아마
   Georgia = 조지아
   India = 인도
   Linen = 리넨
@@ -288,9 +286,7 @@ HEADWORD: Flight = 비행
 LEVEL: 4
 GLOSSARY:
   Aerospace engineering = 항공우주공학
-  Human = 인간
   Insect = 곤충
-  Motion = 운동
   Pterosaur = 익룡
   Wright brothers = 라이트 형제
   aeronautics = 항공학
@@ -316,7 +312,6 @@ HEADWORD: Flint = 부싯돌
 LEVEL: 5
 GLOSSARY:
   Chert = 처트
-  Flint = 부싯돌
   Flint Ridge = 플린트 리지
   Ohio = 오하이오주
   Quartz = 석영
@@ -333,13 +328,11 @@ LEVEL: 3
 GLOSSARY:
   1931 China floods = 1931년 중국 대홍수
   China = 중국
-  Climate = 기후
   Climate change = 기후 변화
   Dakota = 다코타족
   Deforestation = 삼림 벌채
   Flash flood = 돌발 홍수
   Floodplain = 범람원
-  Human = 인간
   Hurricane Katrina = 허리케인 카트리나
   Hydrology = 수문학
   Katrina = 카트리나
@@ -371,7 +364,6 @@ HEADWORD: Flood management = 홍수 관리
 LEVEL: 4
 GLOSSARY:
   Climate change = 기후 변화
-  Flood = 홍수
   Levee = 제방
   Reservoir = 저수지
   Zoning = 용도 지역제
@@ -398,7 +390,6 @@ HEADWORD: Floor = 바닥
 LEVEL: 4
 GLOSSARY:
   American English = 미국 영어
-  Building = 건물
   Cave = 동굴
   Glass = 유리
   Room = 방
@@ -510,7 +501,6 @@ She was also an innovator in [[Statistics|statistics]], presenting analyses in g
 HEADWORD: Florence = 피렌체
 LEVEL: 4
 GLOSSARY:
-  City = 도시
   Dante = 단테
   Dante Alighieri = 단테 알리기에리
   Europe = 유럽
@@ -536,10 +526,8 @@ HEADWORD: Florida = 플로리다주
 LEVEL: 4
 GLOSSARY:
   Atlantic Ocean = 대서양
-  Augustine = 아우구스티누스
   Disney = 디즈니
   Disney World = 디즈니 월드
-  Florida = 플로리다주
   Gulf of Mexico = 멕시코만
   Juan Ponce de León = 후안 폰세 데 레온
   Kennedy = 케네디
@@ -566,7 +554,6 @@ GLOSSARY:
   Bean = 콩
   Bread = 빵
   Cassava = 카사바
-  Cereal = 곡물
   Chickpea = 병아리콩
   Indian cuisine = 인도 요리
   Mediterranean = 지중해
@@ -585,7 +572,6 @@ HEADWORD: Flowchart = 순서도
 LEVEL: 5
 GLOSSARY:
   Algorithm = 알고리즘
-  Frank = 프랭크
   Frank and Lillian Gilbreth = 프랭크 길브레스와 릴리언 길브레스
   Herman Goldstine = 허먼 골드스타인
   ISO = 국제 표준화 기구
@@ -600,7 +586,6 @@ LEVEL: 3
 GLOSSARY:
   Fertilisation = 수정
   Flowering plant = 속씨식물
-  Flowers = 「Flowers」
   French = 프랑스어
   Fruit = 열매
   Latin = 라틴어
@@ -710,7 +695,6 @@ GLOSSARY:
   Ancient Greece = 고대 그리스
   Archimedes = 아르키메데스
   Astrophysics = 천체 물리학
-  Branch = 브랜치
   Continuum mechanics = 연속체 역학
   Daniel Bernoulli = 다니엘 베르누이
   Fluid dynamics = 유체 역학
@@ -732,7 +716,6 @@ LEVEL: 4
 GLOSSARY:
   Color = 색
   Electromagnetic radiation = 전자기 복사
-  Fluorescence = 형광
   Medicine = 의학
   Mineralogy = 광물학
   Ultraviolet = 자외선
@@ -778,10 +761,8 @@ GLOSSARY:
   Glass = 유리
   Hydrofluoric acid = 플루오린화 수소산
   Latin = 라틴어
-  Mineral = 광물
   Mohs hardness = 모스 굳기
   Mohs scale = 모스 굳기계
-  Pure = 「퓨어」
   Smelting = 제련
   apochromatic lenses = 아포크로매틱 렌즈
   calcium fluoride = 플루오린화 칼슘
@@ -797,7 +778,6 @@ GLOSSARY:
   Hammett acidity function = 해밋 산도 함수
   Hydrocarbon = 탄화수소
   Hydrogen fluoride = 플루오린화 수소
-  Mixture = 혼합물
   Sulfuric acid = 황산
   Teflon = 테플론
   antimony pentafluoride = 오플루오린화 안티모니

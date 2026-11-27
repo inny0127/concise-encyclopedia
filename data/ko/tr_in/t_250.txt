@@ -100,7 +100,6 @@ GLOSSARY:
   Kant = 칸트
   Lichen = 지의류
   Metabolism = 물질대사
-  Others = 아더
   Richard = 리처드
   Richard Dawkins = 리처드 도킨스
   Virus = 바이러스
@@ -138,7 +137,6 @@ GLOSSARY:
   Jack Knight = 잭 나이트
   Jury = 배심원단
   Knight = 기사
-  Management = 경영학
   Management science = 경영과학
   Non-governmental organization = 비정부 기구
   matrix organizations = 매트릭스 조직
@@ -176,7 +174,6 @@ Security-oriented intergovernmental organization with 57 participating states in
 HEADWORD: Organization of American States = 미주 기구
 LEVEL: 4
 GLOSSARY:
-  Albert = 앨버트
   Albert Ramdin = 알베르트 람딘
   Americas = 아메리카
   Colombia = 콜롬비아
@@ -231,7 +228,6 @@ Structured criminal groups that profit from illegal activities. Centralized ente
 HEADWORD: Organometallic chemistry = 유기금속화학
 LEVEL: 4
 GLOSSARY:
-  Bonds = 쌓기법
   Carbon monoxide = 일산화 탄소
   Cyanide = 시안화물
   Ferrocene = 페로센
@@ -276,7 +272,6 @@ GLOSSARY:
   Posterior Analytics = 『분석론 후서』
   Prior Analytics = 『분석론 전서』
   Proposition = 명제
-  Standard = 스탠더드
   Thomas Aquinas = 토마스 아퀴나스
   Topics = 『토피카』
   Western Christendom = 서방 그리스도교 세계
@@ -319,7 +314,6 @@ LEVEL: 4
 GLOSSARY:
   Charles Friedel = 샤를 프리델
   Diatom = 규조류
-  Eugene = 오이겐
   Eugene G. Rochow = 유진 G. 로코
   Frederic S. Kipping = 프레더릭 S. 키핑
   James = 야고보
@@ -342,7 +336,6 @@ LEVEL: 4
 GLOSSARY:
   Amino acid = 아미노산
   Coal = 석탄
-  Fossil = 화석
   Fossil fuel = 화석 연료
   Penicillin = 페니실린
   Petroleum = 석유
@@ -374,7 +367,6 @@ GLOSSARY:
   Clitoris = 음핵
   Ejaculation = 사정
   G-spot = G스폿
-  Human = 인간
   Oxytocin = 옥시토신
   Penis = 음경
   Vagina = 질
@@ -562,7 +554,6 @@ GLOSSARY:
   Columbus = 콜럼버스
   Llanos = 야노스
   Orinoco = 오리노코강
-  River = 강
   South America = 남아메리카
   Venezuela = 베네수엘라
   drainage basin = 유역
@@ -622,7 +613,6 @@ LEVEL: 5
 GLOSSARY:
   Alnilam = 알닐람
   Alnitak = 알니탁
-  Asterism = 성군
   Earth = 지구
   Kings = 킹스
   Mintaka = 민타카
@@ -642,15 +632,12 @@ Asterism of three bright stars in the constellation [[Orion (constellation)|Orio
 HEADWORD: Orkney = 오크니 제도
 LEVEL: 5
 GLOSSARY:
-  Agriculture = 농업
-  Archipelago = 제도
   Heart = 심장
   Heart of Neolithic Orkney = 오크니 신석기 유적 중심지
   Kirkwall = 커크월
   Mainland = 메인랜드섬
   Neolithic = 신석기 시대
   Northern Isles = 노던 제도
-  Norway = 노르웨이
   Orkney = 오크니 제도
   Scotland = 스코틀랜드
   Shetland = 셰틀랜드 제도
@@ -668,7 +655,6 @@ HEADWORD: Orlando, Florida = 올랜도
 LEVEL: 5
 GLOSSARY:
   Airport = 공항
-  City = 도시
   Convention = 비상 의회
   Disney = 디즈니
   Disney World = 디즈니 월드
@@ -731,7 +717,6 @@ HEADWORD: Orphan = 고아
 LEVEL: 4
 GLOSSARY:
   Afghanistan = 아프가니스탄
-  Child = 어린이
   Europe = 유럽
   Second = 초
   Second World = 제2세계
@@ -845,7 +830,6 @@ GLOSSARY:
   Oriental Orthodox Churches = 오리엔트 정교회
   Orthodox = 정교회
   Orthodox Church = 정교회
-  Sunni = 수니파
   Sunni Islam = 수니파
   Theravada = 상좌부 불교
   ecumenical councils = 공의회
@@ -861,7 +845,6 @@ GLOSSARY:
   Ancient Greek = 고대 그리스어
   France = 프랑스
   Newspapers of record = 권위지
-  Noah = 노아
   Noah Webster = 노아 웹스터
   Royal Spanish Academy = 스페인 왕립 학술원
   Spain = 스페인
@@ -877,7 +860,6 @@ GLOSSARY:
   Ensifera = 여치아목
   Grasshopper = 메뚜기
   Insect = 곤충
-  Life = 『라이프』
   Locust = 풀무치
   incomplete metamorphosis = 불완전 변태
   katydids = 여치
@@ -897,7 +879,6 @@ GLOSSARY:
   China = 중국
   East Asia = 동아시아
   Japan = 일본
-  Japonica = 자포니카
   Model organism = 모델 생물
   O. glaberrima = O. glaberrima
   Oryza sativa = Oryza sativa
@@ -949,7 +930,6 @@ GLOSSARY:
   Islamists = 이슬람주의자
   Maktab al-Khidamat = 마크타브 알히다마트
   Muslims = 무슬림
-  Navy = 해군
   Navy SEALs = 네이비 실
   Neptune = 해왕성
   Operation Neptune = 넵튠 작전

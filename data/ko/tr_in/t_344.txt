@@ -182,7 +182,6 @@ GLOSSARY:
   Solanum = 가지속
   Solanum lycopersicum = Solanum lycopersicum
   South America = 남아메리카
-  Today = 「투데이」
   chili peppers = 고추
   cultivars = 재배 품종
   nightshade family = 가지과
@@ -229,7 +228,6 @@ HEADWORD: Tonga = 통가
 LEVEL: 4
 GLOSSARY:
   British protected state = 영국 보호국
-  Captain = 선장
   Captain James Cook = 제임스 쿡 선장
   Commonwealth = 영연방
   Commonwealth of Nations = 영연방
@@ -366,7 +364,6 @@ GLOSSARY:
   Best Actor = 남우주연상
   Marilyn Monroe = 메릴린 먼로
   Monroe = 먼로
-  Navy = 해군
   Sidney Poitier = 시드니 포이티어
   Some Like It Hot = 「뜨거운 것이 좋아」
   The Defiant Ones = 「흑과 백」
@@ -429,7 +426,6 @@ GLOSSARY:
   Greece = 그리스
   Industrial Revolution = 산업 혁명
   Interchangeable parts = 호환 부품
-  Machine = 기계
   Machine tools = 공작 기계
   Mesopotamia = 메소포타미아
   Metalworking = 금속 가공
@@ -437,7 +433,6 @@ GLOSSARY:
   Neo-Assyrian period = 신아시리아 시대
   Rome = 로마
   Simple machine = 단순 기계
-  Water = 물
   Water wheels = 수차
   ancient Greece = 고대 그리스
   hand axe = 주먹도끼
@@ -470,7 +465,6 @@ GLOSSARY:
   Human = 인간
   Mammal = 포유류
   Manatee = 매너티
-  Rodent = 설치류
   Snake = 뱀
   Vertebrate = 척추동물
   deciduous teeth = 젖니
@@ -492,7 +486,6 @@ HEADWORD: Tooth decay = 충치
 LEVEL: 4
 GLOSSARY:
   Bacteria = 세균
-  Caries = 치아 우식증
   Diabetes = 당뇨병
   Ibuprofen = 이부프로펜
   Paracetamol = 파라세타몰
@@ -558,7 +551,6 @@ LEVEL: 5
 GLOSSARY:
   Brown = 브라운
   Brown v. Board of Education = 브라운 대 교육위원회 사건
-  City = 도시
   Court = 법원
   Education = 교육
   Ferry = 페리
@@ -642,7 +634,6 @@ HEADWORD: Topology = 위상수학
 LEVEL: 3
 GLOSSARY:
   Analysis Situs = 「위치 해석」
-  Branch = 브랜치
   Euclidean = 유클리드
   Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
   Graph theory = 그래프 이론
@@ -687,7 +678,6 @@ GLOSSARY:
   Internet = 인터넷
   Laboratory = 실험실
   Massachusetts = 매사추세츠주
-  Onion = 양파
   Research = 연구
   Tor Project = 토르 프로젝트
   U.S. Naval Research Laboratory = 미국 해군 연구소
@@ -710,7 +700,6 @@ GLOSSARY:
   Judaism = 유대교
   Leviticus = 「레위기」
   Moses = 모세
-  Muslims = 무슬림
   Numbers = 「민수기」
   Old Testament = 구약 성경
   Oral Torah = 구전 토라
@@ -733,7 +722,6 @@ GLOSSARY:
   Earth = 지구
   Enhanced Fujita Scale = 개량 후지타 등급
   Fujita scale = 후지타 등급
-  Tornado = 토네이도
   Tornado Alley = 토네이도 앨리
   United States = 미국
   Waterspout = 용오름
@@ -749,7 +737,6 @@ GLOSSARY:
   Canada = 캐나다
   City = 도시
   Greater Toronto Area = 광역 토론토
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Lake = 호수
   Lake Ontario = 온타리오호
@@ -820,7 +807,6 @@ GLOSSARY:
   Right-hand rule = 오른손 법칙
   SI unit = SI 단위
   Siméon Denis Poisson = 시메옹 드니 푸아송
-  Torque = 돌림힘
   angular acceleration = 각가속도
   cross product = 벡터곱
   lever arm = 지레팔
@@ -848,7 +834,6 @@ GLOSSARY:
   Philippines = 필리핀
   Roman law = 로마법
   Thailand = 태국
-  Tort = 불법 행위
   assault and battery = 폭행 구타
   claimant = 원고
   injunction = 금지 명령
@@ -869,7 +854,6 @@ GLOSSARY:
   Russian = 러시아어
   Russian tortoises = 러시아거북
   Testudinidae = 땅거북과
-  Tortoise = 육지거북
   Turtle = 거북
   Zond 5 = 「존드 5호」
 ENTRY:
@@ -883,7 +867,6 @@ GLOSSARY:
   International law = 국제법
   Post-traumatic stress disorder = 외상 후 스트레스 장애
   State (polity) = 국가
-  Torture = 고문
   World = 세계
   World War II = 제2차 세계 대전
   judicial torture = 사법 고문

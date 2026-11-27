@@ -11,7 +11,6 @@ GLOSSARY:
   Lorentz force = 로런츠 힘
   Maryland = 메릴랜드주
   University = 대학
-  Voltage = 전압
   electric field = 전기장
   magnetic field = 자기장
 ENTRY:
@@ -113,7 +112,6 @@ GLOSSARY:
   Celtic = 켈트족의
   Celts = 켈트족
   Christians = 기독교인
-  Holiday = 명절
   Ireland = 아일랜드
   Irish = 아일랜드어
   Jack-o'-lantern = 잭오랜턴
@@ -150,7 +148,6 @@ GLOSSARY:
   343 Industries = 343 인더스트리
   Activision = 액티비전
   Bungie = 번지
-  Combat = 『콩바』
   Halo Studios = 헤일로 스튜디오
   Microsoft = 마이크로소프트
   Xbox = 엑스박스
@@ -256,7 +253,6 @@ GLOSSARY:
   Gaza Strip = 가자 지구
   Hamas = 하마스
   Islamist = 이슬람주의
-  Israel = 이스라엘
   October 7 attacks = 10월 7일 공격
   Strip = 스트립
   Sunni = 수니파
@@ -273,7 +269,6 @@ GLOSSARY:
   Antwerp = 안트베르펜
   Berlin = 베를린
   Charlemagne = 샤를마뉴
-  City-state = 도시 국가
   Elbe = 엘베강
   Elbphilharmonie = 엘프필하모니
   Fire = 불
@@ -315,7 +310,6 @@ GLOSSARY:
   Ketchup = 케첩
   Louis Lassen = 루이스 라센
   McDonald's = 맥도날드
-  Sandwich = 샌드위치
   Whopper = 와퍼
 ENTRY:
 Sandwich of a patty of panfried or grilled ground meat, typically [[Beef|beef]], in a sliced bun. Burgers are commonly topped with lettuce, tomato, onion, pickles and condiments such as [[Ketchup|ketchup]] or mustard, and served with [[French fries|French fries]]. The name probably derives from the German city of [[Hamburg|Hamburg]], although the connection is disputed. A recipe for "Hamburgh sausage" appeared in a 1758 cookbook, and the *Chicago Daily Tribune* described a "hamburger sandwich" in 1896. Several people, including Charlie Nagreen and Louis Lassen, have been credited with inventing it, and its origin remains unclear. [[Fast food|Fast-food]] chains made the hamburger a staple, and McDonald's Big Mac and Burger King's Whopper are global icons of American culture.
@@ -404,13 +398,11 @@ GLOSSARY:
   First Quarto = 제1사절판
   Folio = 퍼스트 폴리오
   Gertrude = 거트루드
-  Prince = 후작
   Second = 초
   Second Quarto = 제2사절판
   Shakespeare = 셰익스피어
   Thomas = 토머스
   Thomas Kyd = 토머스 키드
-  Tragedy = 비극
   Ur-Hamlet = 『원햄릿』
   William = 윌리엄
   William Shakespeare = 윌리엄 셰익스피어
@@ -422,7 +414,6 @@ HEADWORD: Hammer = 망치
 LEVEL: 4
 GLOSSARY:
   Carpentry = 목공
-  Hand = 손
   Kenya = 케냐
   Lake = 호수
   Lake Turkana = 투르카나호
@@ -446,7 +437,6 @@ GLOSSARY:
   Endangered species = 멸종 위기종
   Eocene = 에오세
   Fossil = 화석
-  Shark = 상어
   Sphyrnidae = 귀상어과
   binocular vision = 양안시
   bonnethead = 보닛헤드귀상어
@@ -710,7 +700,6 @@ GLOSSARY:
   Coxsackievirus A16 = 콕사키바이러스 A16
   Encephalitis = 뇌염
   Ibuprofen = 이부프로펜
-  Infection = 감염
   Meningitis = 수막염
   Vaccine = 백신
   aspirin = 아스피린
@@ -725,7 +714,6 @@ LEVEL: 4
 GLOSSARY:
   Europe = 유럽
   Flax = 아마
-  Hand = 손
   Handicraft = 수공예
   Industrial Revolution = 산업 혁명
   Neolithic = 신석기 시대
@@ -856,7 +844,6 @@ HEADWORD: Hanging = 교수형
 LEVEL: 5
 GLOSSARY:
   Capital punishment = 사형
-  Hanging = 교수형
   Homer = 호메로스
   Irish = 아일랜드어
   Middle Ages = 중세

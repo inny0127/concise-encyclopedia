@@ -139,7 +139,6 @@ GLOSSARY:
   Romans = 로마인
   Standard = 스탠더드
   Unicode = 유니코드
-  Writing = 문자
   Writing system = 문자 체계
   sub-Saharan Africa = 사하라 이남 아프리카
 ENTRY:
@@ -152,7 +151,6 @@ GLOSSARY:
   Earth = 지구
   Equator = 적도
   Geodesy = 측지학
-  Latitude = 위도
   Longitude = 경도
   North Pole = 북극점
   South Pole = 남극점
@@ -171,7 +169,6 @@ LEVEL: 5
 GLOSSARY:
   Australia = 오스트레일리아
   European black widow = 유럽검은과부거미
-  Genus = 속
   New Zealand = 뉴질랜드
   Redback spider = 붉은등과부거미
   United States = 미국
@@ -195,7 +192,6 @@ GLOSSARY:
   Europe = 유럽
   European Union = 유럽 연합
   German = 독일어
-  Independence = 인디펜던스
   Latvia = 라트비아
   Lithuania = 리투아니아
   NATO = 북대서양 조약 기구
@@ -246,7 +242,6 @@ GLOSSARY:
   Clothing = 의복
   Europe = 유럽
   Industrial Revolution = 산업 혁명
-  Laundry = 세탁
   Washing machine = 세탁기
   launderette = 론드렛
   laundromat = 론드로맷
@@ -356,7 +351,6 @@ GLOSSARY:
   Michael Redgrave = 마이클 레드그레이브
   National Theatre = 국립 극장
   Old Vic = 올드 빅
-  Olivier = 올리비에
   Private Lives = 「사생활」
   Ralph Richardson = 랠프 리처드슨
   Romeo and Juliet = 「로미오와 줄리엣」
@@ -418,7 +412,6 @@ HEADWORD: Lava = 용암
 LEVEL: 4
 GLOSSARY:
   Ketchup = 케첩
-  Lava = 용암
   Viscosity = 점성
   Volcano = 화산
   effusive eruption = 분출성 분화
@@ -435,7 +428,6 @@ HEADWORD: Lavandula = 라벤더속
 LEVEL: 4
 GLOSSARY:
   Carl Linnaeus = 칼 폰 린네
-  Genus = 속
   Iberian = 이베리아
   Iberian Peninsula = 이베리아반도
   Indian subcontinent = 인도 아대륙
@@ -490,7 +482,6 @@ GLOSSARY:
   Hugo = 휴고상
   Hugo Grotius = 후고 그로티우스
   Jeremy Bentham = 제러미 벤담
-  John = 존
   John Austin = 존 오스틴
   Joseph Raz = 조지프 라즈
   Justice = 정의
@@ -630,7 +621,6 @@ GLOSSARY:
   National Film Registry = 국립 영화 등기부
   Oscars = 아카데미상
   Ottoman = 오스만
-  Peter = 베드로
   Peter O'Toole = 피터 오툴
   Prince = 후작
   Prince Faisal = 파이살 왕자
@@ -685,8 +675,6 @@ LEVEL: 4
 GLOSSARY:
   Barrister = 법정 변호사
   Court = 법원
-  Education = 교육
-  England = 잉글랜드
   Greece = 그리스
   India = 인도
   Rome = 로마
@@ -724,7 +712,6 @@ GLOSSARY:
   Italy = 이탈리아
   Kingdom of Italy = 이탈리아 왕국
   Latium = 라티움
-  Lazio = 라치오주
   Lombardy = 롬바르디아
   Papal States = 교황령
   Renaissance = 르네상스
@@ -829,7 +816,6 @@ LEVEL: 4
 GLOSSARY:
   Charles de Gaulle = 샤를 드골
   France = 프랑스
-  French = 프랑스어
   Hubert Beuve-Méry = 위베르 뵈브메리
   Ifop = 프랑스 여론 연구소
   Le Monde = 『르 몽드』
@@ -846,7 +832,6 @@ LEVEL: 4
 GLOSSARY:
   Bajío = 바히오
   Champion = 「챔피언」
-  City = 도시
   City Water Champion = 시티 워터 챔피언
   Guanajuato = 과나후아토주
   Jesuits = 예수회
@@ -869,7 +854,6 @@ GLOSSARY:
   Europe = 유럽
   Galena = 방연석
   Industrial Revolution = 산업 혁명
-  Lead = 납
   Nervous system = 신경계
   Printing press = 인쇄기
   Rome = 로마
@@ -888,7 +872,6 @@ Chemical element with atomic number 82 and symbol Pb. Lead is a dense, soft, mal
 HEADWORD: Leaf = 잎
 LEVEL: 4
 GLOSSARY:
-  Broad = 브로드강
   Carnivorous plant = 식충 식물
   Cellulose = 셀룰로스
   Chlorophyll = 엽록소

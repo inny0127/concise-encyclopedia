@@ -9,7 +9,6 @@ GLOSSARY:
   Indigenous peoples = 원주민
   Indigenous peoples of the Americas = 아메리카 원주민
   Japan = 일본
-  Life = 『라이프』
   Life expectancy = 기대 수명
   North America = 북아메리카
   Procyonidae = 미국너구리과
@@ -85,7 +84,6 @@ GLOSSARY:
   Academy Award for Best Supporting Actress = 아카데미 여우조연상
   Best Supporting Actress = 여우조연상
   Broadway = 브로드웨이
-  Canadian = 캐나다
   Doctor Strange = 「닥터 스트레인지」
   HBO = HBO
   Jane = 제인
@@ -142,7 +140,6 @@ LEVEL: 3
 GLOSSARY:
   Apartheid = 아파르트헤이트
   Atlantic slave trade = 대서양 노예 무역
-  Belief = 믿음
   Convention = 비상 의회
   Discrimination = 차별
   Ethnicity = 민족
@@ -151,7 +148,6 @@ GLOSSARY:
   Human = 인간
   Human genome = 인간 유전체
   Imperialism = 제국주의
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Racism = 인종주의
   Rwandan genocide = 르완다 집단 학살
@@ -192,7 +188,6 @@ GLOSSARY:
   Heinrich Hertz = 하인리히 헤르츠
   Hertz = 헤르츠
   Lidar = 라이다
-  Navy = 해군
   Robert Watson-Watt = 로버트 왓슨와트
   Rotterdam = 로테르담
   U.S. Navy = 미국 해군
@@ -305,7 +300,6 @@ GLOSSARY:
   Ether = 에테르
   Ion = 이온
   Molecule = 분자
-  Radicals = 급진파
   Redox = 산화 환원 반응
   amines = 아민
   atmospheric chemistry = 대기화학
@@ -334,7 +328,6 @@ GLOSSARY:
   Hertz = 헤르츠
   Information = 정보
   International Telecommunication Union = 국제 전기 통신 연합
-  James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
   KDKA = KDKA
   Latin = 라틴어
@@ -344,7 +337,6 @@ GLOSSARY:
   Pittsburgh = 피츠버그
   Radar = 레이더
   Reginald Fessenden = 레지널드 페센든
-  Technology = 기술
   Westinghouse = 웨스팅하우스
   Wi-Fi = 와이파이
   amplitude-modulation = 진폭 변조
@@ -371,7 +363,6 @@ GLOSSARY:
   Federal Radio Commission = 연방 라디오 위원회
   HD Radio = HD 라디오
   KDKA = KDKA
-  Navy = 해군
   Pittsburgh = 피츠버그
   Radio wave = 전파
   Satellite = 인공위성
@@ -389,7 +380,6 @@ HEADWORD: Radio galaxy = 전파 은하
 LEVEL: 4
 GLOSSARY:
   Active galactic nucleus = 활동은하핵
-  Galaxy = 은하
   Parsec = 파섹
   black hole = 블랙홀
   elliptical galaxies = 타원 은하
@@ -432,7 +422,6 @@ GLOSSARY:
   Heinrich Hertz = 하인리히 헤르츠
   Hertz = 헤르츠
   International Telecommunication Union = 국제 전기 통신 연합
-  James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
   Lightning = 번개
   Speed of light = 빛의 속도
@@ -519,7 +508,6 @@ GLOSSARY:
   England = 잉글랜드
   John = 존
   John Hall-Edwards = 존 홀에드워즈
-  Wilhelm = 빌헬름
   Wilhelm Conrad Röntgen = 빌헬름 콘라트 뢴트겐
   X-ray = 엑스선
   X-rays = 엑스선
@@ -555,7 +543,6 @@ GLOSSARY:
   Cambrian = 캄브리아기
   Fossil = 화석
   Mineral = 광물
-  Radiolaria = 방산충
   Skeleton = 골격
   ectoplasm = 외질
   endoplasm = 내질
@@ -630,7 +617,6 @@ GLOSSARY:
   Marie Curie = 마리 퀴리
   Nuclear reactor = 원자로
   Pierre Curie = 피에르 퀴리
-  Pure = 「퓨어」
   Radium = 라듐
   alkaline earth = 알칼리 토금속
   chemical element = 화학 원소
@@ -702,7 +688,6 @@ GLOSSARY:
   Parsley = 파슬리
   Parsley massacre = 파슬리 학살
   SIM = SIM(군사정보국)
-  Trujillo = 트루히요
   de facto = 사실상
   generalissimo = 대원수
   personality cult = 개인숭배
@@ -714,7 +699,6 @@ HEADWORD: Ragdoll = 랙돌
 LEVEL: 5
 GLOSSARY:
   Ann Baker = 앤 베이커
-  Breed = 품종
   United Kingdom = 영국
   United States = 미국
   colorpoint = 컬러포인트
@@ -889,7 +873,6 @@ GLOSSARY:
   Earth = 지구
   Intertropical Convergence Zone = 열대 수렴대
   Precipitation = 강수
-  Rain = 비
   Water = 물
   Water cycle = 물의 순환
   Water vapor = 수증기

@@ -4,7 +4,6 @@ LEVEL: 4
 GLOSSARY:
   Aluminium = 알루미늄
   Carl Wilhelm Scheele = 카를 빌헬름 셸레
-  Clear = 클리어
   Hydrogen fluoride = 플루오린화 수소
   Semiconductor = 반도체
   Wilhelm = 빌헬름
@@ -23,7 +22,6 @@ HEADWORD: Hydrogen bond = 수소 결합
 LEVEL: 4
 GLOSSARY:
   Electronegativity = 전기 음성도
-  Hydrogen = 수소
   Ice = 얼음
   Water = 물
   base pairing = 염기쌍 형성
@@ -43,7 +41,6 @@ HEADWORD: Hydrogen cyanide = 시안화 수소
 LEVEL: 5
 GLOSSARY:
   Chemical compound = 화합물
-  French = 프랑스어
   Pierre Macquer = 피에르 마케
   Plastic = 플라스틱
   Polymer = 중합체
@@ -67,7 +64,6 @@ GLOSSARY:
   Electrolysis = 전기 분해
   Fertilizer = 비료
   Henry Cavendish = 헨리 캐번디시
-  Hydrogen = 수소
   Isotope = 동위 원소
   Quantum mechanics = 양자역학
   Tritium = 삼중수소
@@ -146,7 +142,6 @@ LEVEL: 4
 GLOSSARY:
   Admiralty = 해군성
   Alexander Dalrymple = 알렉산더 댈림플
-  Branch = 브랜치
   Brittany = 브르타뉴
   Hydrographer = 수로 측량관
   Lake = 호수
@@ -169,7 +164,6 @@ GLOSSARY:
   Drought = 가뭄
   Earth = 지구
   Flood = 홍수
-  Hydrology = 수문학
   Mesopotamian = 메소포타미아
   Romans = 로마인
   aqueducts = 수도교
@@ -186,7 +180,6 @@ GLOSSARY:
   Dam = 댐
   Fossil fuel = 화석 연료
   Hydroelectricity = 수력 발전
-  Hydropower = 수력 발전
   Methane = 메탄
   Reservoir = 저수지
   Watermill = 물레방아
@@ -290,7 +283,6 @@ GLOSSARY:
   Carnivora = 식육목
   Eurasia = 유라시아
   Feliform = 고양이아목
-  Folklore = 민속
   Hyaenidae = 하이에나과
   Miocene = 마이오세
   Traditional medicine = 전통 의학
@@ -307,7 +299,6 @@ HEADWORD: Hygiene = 위생
 LEVEL: 3
 GLOSSARY:
   Cholera = 콜레라
-  Hygiene = 위생
   Ignaz Semmelweis = 이그나즈 제멜바이스
   Louis Pasteur = 루이 파스퇴르
   Pasteur = 파스퇴르
@@ -482,18 +473,15 @@ HEADWORD: Hypericum = 물레나물속
 LEVEL: 4
 GLOSSARY:
   Flowering plant = 속씨식물
-  Genus = 속
   History = 역사학
   Hypericaceae = 물레나물과
   Hypericum perforatum = 서양고추나물
   Invasive species = 침입종
   Johannes-blut = 요하네스의 피
-  John = 존
   Museum = 박물관
   Natural History = 『박물지』
   Natural History Museum = 자연사 박물관
   Natural History Museum, London = 런던 자연사 박물관
-  Norman = 노르만
   Norman Robson = 노먼 롭슨
   Paracelsus = 파라켈수스
   St. John = 성 요한
@@ -515,7 +503,6 @@ GLOSSARY:
   High blood pressure = 고혈압
   Salt = 소금
   Stroke = 뇌졸중
-  Weight = 무게
   Weight loss = 체중 감소
   atrial fibrillation = 심방세동
   coronary artery disease = 관상 동맥 질환
@@ -527,7 +514,6 @@ HEADWORD: Hypertensive heart disease = 고혈압성 심장병
 LEVEL: 5
 GLOSSARY:
   Atherosclerosis = 죽상 경화증
-  Heart = 심장
   Heart failure = 심부전
   International Classification of Diseases = 국제 질병 분류
 ENTRY:
@@ -556,11 +542,9 @@ HEADWORD: Hypnosis = 최면
 LEVEL: 4
 GLOSSARY:
   Attention = 주의
-  Human = 인간
   Placebo = 위약
   Pseudoscience = 유사 과학
   Quackery = 돌팔이 의술
-  Research = 연구
   false memories = 거짓 기억
   hypnotherapy = 최면 요법
   hypnotic induction = 최면 유도
@@ -577,7 +561,6 @@ GLOSSARY:
   Antoine Jérôme Balard = 앙투안 제롬 발라르
   Bleach = 표백제
   Chlorine = 염소
-  Food = 음식
   Food and Drug Administration = 식품의약국
   French = 프랑스어
   Inorganic compound = 무기 화합물
@@ -606,7 +589,6 @@ LEVEL: 4
 GLOSSARY:
   Alcohol intoxication = 알코올 중독
   Anorexia = 식욕 부진
-  Hypothermia = 저체온증
   United States = 미국
   cardiopulmonary bypass = 심폐 우회술
   extracorporeal membrane oxygenation = 체외막 산소 공급
@@ -649,7 +631,6 @@ LEVEL: 4
 GLOSSARY:
   Lung = 폐
   Oxygen = 산소
-  People = 『피플』
   anoxemia = 무산소혈증
   continuous positive airway pressure = 지속 기도 양압술
   high-altitude cerebral edema = 고지대 뇌부종
@@ -746,7 +727,6 @@ GLOSSARY:
   Ingvar Kamprad = 잉바르 캄프라드
   Netherlands = 네덜란드
   Sweden = 스웨덴
-  Swedish = 스웨덴어
   fiscal year = 회계 연도
   Älmhult = 엘름훌트
 ENTRY:

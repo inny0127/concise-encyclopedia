@@ -43,7 +43,6 @@ GLOSSARY:
   Euler = 오일러
   Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
   Introductio in analysin infinitorum = 『무한 해석 입문』
-  Leibniz = 라이프니츠
   Leonhard Euler = 레온하르트 오일러
   Real number = 실수
   Set theory = 집합론
@@ -71,11 +70,9 @@ HEADWORD: Functional analysis = 함수해석학
 LEVEL: 4
 GLOSSARY:
   Banach spaces = 바나흐 공간
-  Branch = 브랜치
   Calculus of variations = 변분법
   Fourier = 푸리에
   Fourier transform = 푸리에 변환
-  Hilbert = 힐베르트
   Hilbert space = 힐베르트 공간
   Mathematical analysis = 해석학
   Partial differential equation = 편미분 방정식
@@ -135,7 +132,6 @@ LEVEL: 4
 GLOSSARY:
   Electromagnetism = 전자기학
   Gluon = 글루온
-  Gravity = 중력
   Hadron = 강입자
   Photon = 광자
   Quark = 쿼크
@@ -160,9 +156,7 @@ GLOSSARY:
   Carl Friedrich Gauss = 카를 프리드리히 가우스
   Complex number = 복소수
   Field (mathematics) = 체
-  Gauss = 가우스
   Polynomial = 다항식
-  Theorem = 정리
   algebraically closed = 대수적으로 닫힌
   complex numbers = 복소수
   d'Alembert's theorem = 달랑베르 정리
@@ -200,11 +194,9 @@ GLOSSARY:
   Isaac = 이삭
   Isaac Barrow = 아이작 배로
   Isaac Newton = 아이작 뉴턴
-  James = 야고보
   James Gregory = 제임스 그레고리
   Leibniz = 라이프니츠
   Newton = 뉴턴
-  Theorem = 정리
   antiderivative = 역도함수
   continuous function = 연속 함수
   upper bound = 상계
@@ -216,7 +208,6 @@ HEADWORD: Fundamentalism = 근본주의
 LEVEL: 4
 GLOSSARY:
   Buddhism = 불교
-  Buddhist = 불교
   Christianity = 기독교
   Lanka = 랑카
   Mahayana = 대승 불교
@@ -236,7 +227,6 @@ GLOSSARY:
   Afterlife = 내세
   Burial = 매장
   Cremation = 화장
-  Funeral = 장례
   Homo = 사람속
   Homo sapiens = 호모 사피엔스
   Neanderthal = 네안데르탈인
@@ -257,7 +247,6 @@ GLOSSARY:
   Disease = 질병
   HIV/AIDS = HIV/AIDS
   Immune system = 면역계
-  Infection = 감염
   Spore = 포자
   Yeast = 효모
   aspergillosis = 아스페르길루스증
@@ -347,7 +336,6 @@ GLOSSARY:
   Electronic dance music = 일렉트로닉 댄스 뮤직
   Family = 가족
   Fire = 불
-  Funk = 펑크
   G-funk = 지펑크
   Gang = 갱단
   Hip-hop = 힙합
@@ -355,7 +343,6 @@ GLOSSARY:
   James Brown = 제임스 브라운
   Jazz = 재즈
   Kool and the Gang = 쿨 앤드 더 갱
-  Music = 음악
   Parliament-Funkadelic = 팔리아먼트-펑카델릭
   Sly and the Family Stone = 슬라이 앤드 더 패밀리 스톤
   Washington = 워싱턴주
@@ -375,9 +362,7 @@ GLOSSARY:
   Arctic = 북극
   Arctic fox = 북극여우
   Camouflage = 위장
-  Desert = 사막
   Mammal = 포유류
-  Mammals = 포유류
   Muskox = 사향소
   Naked mole-rat = 벌거숭이두더지쥐
   Stoat = 북방족제비
@@ -402,7 +387,6 @@ GLOSSARY:
   Siberia = 시베리아
   South Sandwich Islands = 사우스샌드위치 제도
   South Shetland = 사우스셰틀랜드 제도
-  Today = 「투데이」
   Western Europe = 서유럽
   early modern = 근세
   early modern period = 근세
@@ -420,7 +404,6 @@ GLOSSARY:
   Baroque = 바로크
   Egypt = 이집트
   French = 프랑스어
-  Furniture = 가구
   German = 독일어
   Greece = 그리스
   Italian Renaissance = 이탈리아 르네상스
@@ -429,7 +412,6 @@ GLOSSARY:
   Modernism = 모더니즘
   Neolithic = 신석기 시대
   Orkney = 오크니 제도
-  People = 『피플』
   Renaissance = 르네상스
   Romance = 로망스어
   Romance languages = 로망스어군
@@ -460,8 +442,6 @@ LEVEL: 5
 GLOSSARY:
   DeviantArt = 디비언트아트
   Science fiction = 과학 소설
-  Stigma = 낙인
-  Subculture = 하위문화
   fursonas = 퍼소나
   fursuits = 퍼슈트
   science fiction = 과학 소설
@@ -486,16 +466,13 @@ LEVEL: 5
 GLOSSARY:
   Deuterium = 중수소
   Earth = 지구
-  Electricity = 전기
   Electricity generation = 발전
-  Fusion = 퓨전
   Half-life = 반감기
   Magnetic confinement = 자기 가둠
   Magnetic field = 자기장
   National Ignition Facility = 국립 점화 시설
   Nuclear fusion = 핵융합
   Plasma (physics) = 플라스마
-  Research = 연구
   Tritium = 삼중수소
   United States = 미국
   fusion energy = 핵융합 에너지
@@ -533,7 +510,6 @@ American animated science fiction [[Sitcom|sitcom]] created by [[Matt Groening]]
 HEADWORD: Future = 미래
 LEVEL: 4
 GLOSSARY:
-  Future = 미래
   Karma = 업
   Predeterminism = 예정론
   Presentism = 현재주의
@@ -555,7 +531,6 @@ LEVEL: 5
 GLOSSARY:
   C3 photosynthesis = C₃ 광합성
   Earth = 지구
-  Human = 인간
   Plate tectonics = 판 구조론
   Red giant = 적색 거성
   Sun = 태양
@@ -596,7 +571,6 @@ HEADWORD: Fuzhou = 푸저우
 LEVEL: 4
 GLOSSARY:
   China = 중국
-  City = 도시
   Emperor Duanzong = 단종
   Fu'an Prefecture = 푸안부
   Fujian = 푸젠성
@@ -653,12 +627,10 @@ GLOSSARY:
   Existentialism = 실존주의
   Friedrich Nietzsche = 프리드리히 니체
   Jean-Paul Sartre = 장폴 사르트르
-  Nietzsche = 니체
   Notes from Underground = 『지하로부터의 수기』
   Petrashevsky Circle = 페트라셰프스키 서클
   Punishment = 형벌
   Russia = 러시아
-  Russian = 러시아어
   Sartre = 사르트르
   Siberia = 시베리아
   Siberian = 시베리아
@@ -690,7 +662,6 @@ Intergovernmental forum of 19 countries, the European Union and the African Unio
 HEADWORD: G7 = G7
 LEVEL: 5
 GLOSSARY:
-  Canada = 캐나다
   Climate change = 기후 변화
   European Union = 유럽 연합
   France = 프랑스
@@ -710,7 +681,6 @@ HEADWORD: GHS hazard pictograms = GHS 그림문자
 LEVEL: 5
 GLOSSARY:
   Carcinogen = 발암 물질
-  Standard = 스탠더드
   United Nations = 국제 연합
 ENTRY:
 Standard warning symbols of the Globally Harmonized System of Classification and Labelling of Chemicals (GHS), a [[United Nations]] framework. Two sets exist: one for container labels and workplace warnings, and one for transporting dangerous goods. Both use the same symbols for the same hazards, though transport versions come in more colors and may carry extra information. Non-transport pictograms are black symbols on a white background within a red-bordered diamond. They cover physical, health and environmental hazards, from flammability to [[Carcinogen|carcinogenicity]].
@@ -722,7 +692,6 @@ GLOSSARY:
   Animation = 애니메이션
   CompuServe = 컴퓨서브
   MP4 = MP4
-  Once = 『Once』
   PNG = PNG
   RGB = RGB
   World = 세계
@@ -743,7 +712,6 @@ GLOSSARY:
   Minister of Defence = 국방 장관
   Napoleonic Wars = 나폴레옹 전쟁
   Red Army = 붉은 군대
-  Russian = 러시아어
   human intelligence = 인간 정보(휴민트)
   special forces = 특수 부대
 ENTRY:
@@ -774,7 +742,6 @@ English mathematician known for work in [[Number theory|number theory]] and [[Ma
 HEADWORD: Göbekli Tepe = 괴베클리 테페
 LEVEL: 4
 GLOSSARY:
-  German = 독일어
   Klaus Schmidt = 클라우스 슈미트
   Megalith = 거석
   Mesopotamia = 메소포타미아

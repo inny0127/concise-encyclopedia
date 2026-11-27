@@ -2,7 +2,6 @@
 HEADWORD: October Revolution = 10월 혁명
 LEVEL: 5
 GLOSSARY:
-  Bolshevik = 볼셰비키
   Bolsheviks = 볼셰비키
   Civil War = 남북 전쟁
   February Revolution = 2월 혁명
@@ -19,7 +18,6 @@ GLOSSARY:
   Russian Civil War = 러시아 내전
   Saint = 성인
   Saint Petersburg = 상트페테르부르크
-  Second = 초
   Soviet Union = 소련
   Vladimir Lenin = 블라디미르 레닌
   Winter = 겨울
@@ -116,7 +114,6 @@ GLOSSARY:
   Lyre = 리라
   Ode on Intimations of Immortality = 「영생불멸의 송가」
   Ode to a Nightingale = 「나이팅게일에게 부치는 노래」
-  Odes = 『송가』
   Pindar = 핀다로스
   Pindaric odes = 핀다로스풍 송가
   William Wordsworth = 윌리엄 워즈워스
@@ -135,7 +132,6 @@ GLOSSARY:
   Black Sea = 흑해
   Catherine = 예카테리나 1세
   Catherine II = 예카테리나 2세
-  City = 도시
   French = 프랑스어
   Khadjibey = 하지베이
   List of World Heritage in Danger = 위험에 처한 세계유산 목록
@@ -254,7 +250,6 @@ HEADWORD: Odor = 냄새
 LEVEL: 4
 GLOSSARY:
   Ammonia = 암모니아
-  Commonwealth = 영연방
   Commonwealth English = 영연방 영어
   Hydrogen = 수소
   Hydrogen sulfide = 황화 수소
@@ -368,7 +363,6 @@ LEVEL: 4
 GLOSSARY:
   Antigone = 『안티고네』
   Aristotle = 아리스토텔레스
-  Athenian = 아테네의
   Athenian tragedy = 아테네 비극
   Jocasta = 이오카스테
   Laius = 라이오스
@@ -426,7 +420,6 @@ GLOSSARY:
   Billboard Hot 100 = 빌보드 핫 100
   David Foster = 데이비드 포스터
   Don't Stop 'Til You Get Enough = 「Don't Stop 'Til You Get Enough」
-  Drawing = 인발
   Epic Records = 에픽 레코드
   Grammy = 그래미상
   Grammy Awards = 그래미상
@@ -453,7 +446,6 @@ GLOSSARY:
   Latin = 라틴어
   Middle Ages = 중세
   Modern Efficiency Desk = 모던 이피션시 데스크
-  Space = 공간
   Telegraphy = 전신
   chancery = 상서국
   classical antiquity = 고전 고대
@@ -540,7 +532,6 @@ GLOSSARY:
   Pennsylvania = 펜실베이니아주
   Pittsburgh = 피츠버그
   Portland = 포틀랜드
-  Rapids = 여울
   River = 강
   Seneca = 세네카어
   Southern United States = 미국 남부
@@ -617,7 +608,6 @@ GLOSSARY:
   Judaism = 유대교
   Lipid = 지질
   Petrochemical = 석유 화학 제품
-  Plant = 식물
   Soap = 비누
   crude oil = 원유
   drying oils = 건성유
@@ -636,7 +626,6 @@ LEVEL: 4
 GLOSSARY:
   Capacitor = 축전기
   Electron = 전자
-  Experiment = 실험
   Gravity = 중력
   Harvey = 하비
   Harvey Fletcher = 하비 플레처
@@ -667,8 +656,6 @@ GLOSSARY:
   Icon = 이콘
   Orthodox = 정교회
   Orthodox icons = 정교회 이콘
-  Paint = 페인트
-  Painting = 회화
   Pigment = 안료
   Renaissance = 르네상스
   Turpentine = 테레빈유
@@ -714,9 +701,7 @@ GLOSSARY:
   Estonia = 에스토니아
   Greenhouse gas = 온실가스
   Hydrocarbon = 탄화수소
-  Mining = 광업
   Sedimentary rock = 퇴적암
-  Shale = 셰일
   crude oil = 원유
   district heating = 지역 난방
   kerogen = 케로젠

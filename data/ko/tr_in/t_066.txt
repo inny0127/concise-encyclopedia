@@ -3,7 +3,6 @@ HEADWORD: Chondrichthyes = 연골어류
 LEVEL: 4
 GLOSSARY:
   Cartilage = 연골
-  Chondrichthyes = 연골어강
   Elasmobranchii = 판새아강
   Gill = 아가미
   Holocephali = 전두아강
@@ -34,7 +33,6 @@ GLOSSARY:
   Big Four = 4대
   Changan Automobile = 창안 자동차
   China = 중국
-  Chongqing = 충칭
   Monorail = 모노레일
   Republic of China = 중화민국
   Republic of China (1912–1949) = 중화민국
@@ -105,7 +103,6 @@ GLOSSARY:
   Cambrian explosion = 캄브리아기 대폭발
   Cephalochordata = 두삭동물아문
   Chordata = 척삭동물문
-  Chordate = 척삭동물
   Mollusca = 연체동물
   Tetrapod = 사지동물
   Tunicata = 피낭동물아문
@@ -165,7 +162,6 @@ GLOSSARY:
   Eleanor of Aquitaine = 아키텐의 알리에노르
   Erec and Enide = 『에렉과 에니드』
   France = 프랑스
-  French = 프랑스어
   King Arthur = 아서왕
   Knight = 기사
   Lancelot = 랜슬롯
@@ -187,7 +183,6 @@ French poet and trouvère (fl. c. 1160–1191). Chrétien wrote on [[King Arthur
 HEADWORD: Benoit, Chris = 벤와, 크리스
 LEVEL: 5
 GLOSSARY:
-  Canadian = 캐나다
   Chronic traumatic encephalopathy = 만성 외상성 뇌병증
   Japan = 일본
   New Japan Pro-Wrestling = 신일본 프로레슬링
@@ -342,7 +337,6 @@ GLOSSARY:
   Linwood Islamic Centre = 린우드 이슬람 센터
   Mosque = 모스크
   New Zealand = 뉴질랜드
-  Prime = 프라임
   White supremacy = 백인 우월주의
   Zealand = 셸란섬
   life imprisonment = 종신형
@@ -356,7 +350,6 @@ LEVEL: 4
 GLOSSARY:
   Augustin-Jean Fresnel = 오귀스탱장 프레넬
   Centrifugal force = 원심력
-  Dutch = 네덜란드어
   Huygens's principle = 하위헌스 원리
   Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
@@ -452,7 +445,6 @@ GLOSSARY:
   Europe = 유럽
   European Union = 유럽 연합
   Germany = 독일
-  Ideology = 이데올로기
   Lutherans = 루터교인
   Pentecostals = 오순절파
   Same-sex marriage = 동성 결혼
@@ -498,10 +490,8 @@ GLOSSARY:
   Church = 처치
   Origen = 오리게네스
   Patristic period = 교부 시대
-  Philosophy = 철학
   Scholasticism = 스콜라 철학
   Tertullian = 테르툴리아누스
-  Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
 ENTRY:
 Philosophy developed by Christians or in direct relation to Christianity. It emerged to reconcile science, reason, and faith. [[Origen]] and [[Augustine of Hippo]] saw a harmonious relationship between faith and science, while [[Tertullian]] claimed contradiction. It developed in the Patristic period from about the 3rd century, and Scholasticism was its main form from the 11th century. The [[Catholic Church]] endorses no single official Catholic philosophy but holds that human reason can attain truths about God and morality. [[Thomas Aquinas]] is often cited as an exemplar of synthesizing philosophy and theology. Some scholars question whether a distinct Christian philosophy exists, arguing that its ideas are inherited from Greek thought.
@@ -535,7 +525,6 @@ GLOSSARY:
   Catholic Church = 가톨릭교회
   Catholicism = 가톨릭
   Christianity = 기독교
-  Christians = 기독교인
   Christology = 그리스도론
   Church = 처치
   Church of the East = 동방 교회
@@ -623,7 +612,6 @@ GLOSSARY:
   Hollywood Walk of Fame = 할리우드 명예의 거리
   Latin = 라틴어
   Latin Grammy Awards = 라틴 그래미상
-  Time = 『타임』
   Time (magazine) = 『타임』
   Walk of Fame = 명예의 거리
 ENTRY:
@@ -633,14 +621,12 @@ American singer and songwriter. Her self-titled debut album (1999) topped the US
 HEADWORD: Christina = 크리스티나
 LEVEL: 4
 GLOSSARY:
-  Athens = 아테네
   Athens of the North = 북방의 아테네
   Baroque = 바로크
   Battle of Lützen = 뤼첸 전투
   Catholicism = 가톨릭
   Gustavus Adolphus = 구스타브 2세 아돌프
   House of Vasa = 바사 왕가
-  Queen = 퀸
   Rome = 로마
   Stockholm = 스톡홀름
   Sweden = 스웨덴
@@ -714,13 +700,11 @@ HEADWORD: Christmas Island = 크리스마스섬
 LEVEL: 5
 GLOSSARY:
   Australia = 오스트레일리아
-  Australian = 오스트레일리아
   Christmas = 크리스마스
   Christmas Island = 크리스마스섬
   Christmas Island National Park = 크리스마스섬 국립공원
   Guano = 구아노
   Indian Ocean = 인도양
-  Japan = 일본
   Java = 자와섬
   Ocean = 대양
   Phosphate = 인산염
@@ -782,7 +766,6 @@ GLOSSARY:
   Quentin Tarantino = 쿠엔틴 타란티노
   Spectre = 「007 스펙터」
   Time = 『타임』
-  Waltz = 왈츠
 ENTRY:
 Austrian, German, and American actor. Waltz had a substantial career in German television and theater before his international breakthrough. He won two [[Academy Awards]] for Best Supporting Actor, for playing Hans Landa in [[Quentin Tarantino]]'s *Inglourious Basterds* (2009) and for Dr. King Schultz in *Django Unchained* (2012). He also played Ernst Stavro Blofeld in the [[James Bond]] films *Spectre* (2015) and *No Time to Die* (2021).
 

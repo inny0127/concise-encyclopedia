@@ -105,7 +105,6 @@ GLOSSARY:
   Catholic Church = 가톨릭교회
   Church = 처치
   Ignatius of Loyola = 로욜라의 이냐시오
-  Jesuit = 예수회
   Jesuits = 예수회
   Jesus = 예수
   Pope = 교황
@@ -142,7 +141,6 @@ LEVEL: 3
 GLOSSARY:
   Bethlehem = 베들레헴
   Christianity = 기독교
-  Christians = 기독교인
   Christmas = 크리스마스
   Church = 처치
   Easter = 부활절
@@ -193,7 +191,6 @@ GLOSSARY:
   Hollywood = 할리우드
   Jackie = 재키
   Jackie Chan = 성룡
-  Martial = 마르티알리스
   Once = 『Once』
   Once Upon a Time in China = 「황비홍」
   One Foundation = 원 재단
@@ -332,7 +329,6 @@ GLOSSARY:
   Ashkenazim = 아슈케나지
   Assyrian and Babylonian captivities = 아시리아 유수와 바빌론 유수
   David Ben-Gurion = 다비드 벤구리온
-  History = 역사학
   Holocaust = 홀로코스트
   Iron = 철
   Iron Age = 철기 시대
@@ -390,7 +386,6 @@ GLOSSARY:
   Ashkenazim = 아슈케나지
   Asia = 아시아
   Central and Eastern Europe = 중동부 유럽
-  Diaspora = 디아스포라
   Eastern Europe = 동유럽
   Ethnoreligious group = 민족 종교 집단
   Europe = 유럽
@@ -420,7 +415,6 @@ LEVEL: 5
 GLOSSARY:
   Bihar = 비하르주
   India = 인도
-  Jharkhand = 자르칸드주
   Munda = 문다족
   Oraon = 오라온족
   Ranchi = 란치
@@ -528,7 +522,6 @@ GLOSSARY:
   Grand Canal = 대운하
   Grand Canal (China) = 대운하
   Guangdong = 광둥성
-  Jiangsu = 장쑤성
   Nanjing = 난징
   Sui and Tang dynasties = 수당 시대
   Tang = 당나라
@@ -545,7 +538,6 @@ LEVEL: 4
 GLOSSARY:
   Castle = 성
   Great Depression = 대공황
-  John = 존
   John Spilsbury = 존 스필즈베리
   London = 런던
   Map = 지도
@@ -687,7 +679,6 @@ LEVEL: 5
 GLOSSARY:
   California = 캘리포니아주
   Fire = 불
-  Light = 빛
   Light My Fire = 「라이트 마이 파이어」
   Miami = 마이애미
   New Haven = 뉴헤이븐

@@ -11,7 +11,6 @@ GLOSSARY:
   Francis Bacon = 프랜시스 베이컨
   Hasty generalization = 성급한 일반화
   Hume = 흄
-  John = 존
   John Stuart Mill = 존 스튜어트 밀
   argument from analogy = 유비 논증
   biased sample = 편향된 표본
@@ -75,7 +74,6 @@ LEVEL: 3
 GLOSSARY:
   Afghanistan = 아프가니스탄
   Asia = 아시아
-  Bronze = 청동
   Bronze Age = 청동기 시대
   China = 중국
   Dholavira = 돌라비라
@@ -97,7 +95,6 @@ GLOSSARY:
   Rakhigarhi = 라키가리
   River = 강
   South Asia = 남아시아
-  Trade = 교역
   UNESCO = 유네스코
   UNESCO World Heritage Site = 유네스코 세계유산
   World = 세계
@@ -121,7 +118,6 @@ A gradual drying of the region during the 3rd millennium BC may have stimulated 
 HEADWORD: Industrial Revolution = 산업 혁명
 LEVEL: 3
 GLOSSARY:
-  Average = 평균
   China = 중국
   Europe = 유럽
   First Industrial Revolution = 제1차 산업 혁명
@@ -178,12 +174,9 @@ HEADWORD: Industrial engineering = 산업 공학
 LEVEL: 4
 GLOSSARY:
   American Institute of Industrial Engineering = 미국 산업공학회
-  Branch = 브랜치
   Engineering = 공학
   Finance = 금융
-  Frank = 프랭크
   Frank and Lillian Gilbreth = 프랭크 길브레스와 릴리언 길브레스
-  Frederick = 프리드리히
   Frederick Taylor = 프레더릭 테일러
   Logistics = 물류
   Manufacturing = 제조업
@@ -214,7 +207,6 @@ GLOSSARY:
   New Jersey = 뉴저지주
   Patent = 특허
   Printed circuit board = 인쇄 회로 기판
-  Robot = 로봇
   Robotics = 로봇공학
   SCARA = 스카라
   Unimate = 유니메이트
@@ -276,7 +268,6 @@ GLOSSARY:
   Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   Gravity = 중력
-  Inertia = 관성
   Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Lucretius = 루크레티우스
@@ -295,7 +286,6 @@ Fundamental principle of classical physics, the tendency of an object to stay at
 HEADWORD: Infant = 영아
 LEVEL: 3
 GLOSSARY:
-  Breastfeeding = 모유 수유
   Fetus = 태아
   Latin = 라틴어
   altricial = 만성성
@@ -323,7 +313,6 @@ GLOSSARY:
   Cavalry = 기병
   Dragoons = 용기병
   Firearm = 화기
-  Infantry = 보병
   Mechanized infantry = 기계화 보병
   Sling (weapon) = 투석구
   Spear = 창
@@ -343,12 +332,7 @@ LEVEL: 3
 GLOSSARY:
   Bacteria = 세균
   Candida = 칸디다
-  Colonization = 식민지화
-  Infection = 감염
-  Invasion = 침략
   Malaria = 말라리아
-  Mammals = 포유류
-  People = 『피플』
   adaptive response = 적응 면역 반응
   antihelminthics = 구충제
   antiprotozoals = 항원충제
@@ -393,7 +377,6 @@ GLOSSARY:
   Artificial intelligence = 인공지능
   Charles Sanders Peirce = 찰스 샌더스 퍼스
   Inductive reasoning = 귀납적 추론
-  Inference = 추론
   Logic = 논리학
   Sanders = 샌더스
   Statistical inference = 통계적 추론
@@ -458,7 +441,6 @@ GLOSSARY:
   Hamlet = 『햄릿』
   Mexico = 멕시코
   North America = 북아메리카
-  Novel = 소설
   Organization of North American Nations = 북아메리카 국가 기구
   Tennis = 테니스
   United States = 미국
@@ -477,7 +459,6 @@ GLOSSARY:
   Anaximander = 아낙시만드로스
   Aristotle = 아리스토텔레스
   Augustin-Louis Cauchy = 오귀스탱 루이 코시
-  Bertrand = 버트런드호
   Bertrand Russell = 버트런드 러셀
   Cantor = 칸토어
   Cauchy = 코시
@@ -512,7 +493,6 @@ LEVEL: 4
 GLOSSARY:
   Atherosclerosis = 죽상 경화증
   Immune system = 면역계
-  Latin = 라틴어
   Osteoarthritis = 골관절염
   Pathogen = 병원체
   hay fever = 꽃가루 알레르기
@@ -529,7 +509,6 @@ GLOSSARY:
   American Civil War = 남북 전쟁
   Civil War = 남북 전쟁
   Deflation = 디플레이션
-  Inflation = 인플레이션
   Unemployment = 실업
   War = 전쟁
   central banks = 중앙은행
@@ -546,7 +525,6 @@ HEADWORD: Influenza = 인플루엔자
 LEVEL: 3
 GLOSSARY:
   H1N1 = H1N1
-  Influenza = 인플루엔자
   Pneumonia = 폐렴
   Spanish flu = 스페인 독감
   encephalitis = 뇌염
@@ -571,7 +549,6 @@ GLOSSARY:
   Bell = 종
   Bell Labs = 벨 연구소
   Charles Babbage = 찰스 배비지
-  Claude = 클로드
   Claude Shannon = 클로드 섀넌
   Communication = 의사소통
   Digital Age = 디지털 시대
@@ -624,7 +601,6 @@ GLOSSARY:
   Claude = 클로드
   Claude Shannon = 클로드 섀넌
   French = 프랑스어
-  Information = 정보
   Landauer's principle = 란다우어 원리
   Latin = 라틴어
   Middle French = 중세 프랑스어
@@ -709,7 +685,6 @@ LEVEL: 4
 GLOSSARY:
   Earth = 지구
   Electromagnetic radiation = 전자기 복사
-  Infrared = 적외선
   Microwave = 마이크로파
   Spectroscopy = 분광학
   Sun = 태양
@@ -768,7 +743,6 @@ GLOSSARY:
   Royal Dramatic Theatre = 왕립 드라마 극장
   Stockholm = 스톡홀름
   Sweden = 스웨덴
-  Swedish = 스웨덴어
   The Seventh Seal = 「제7의 봉인」
   Theatre = 연극
   Time = 『타임』
@@ -819,7 +793,6 @@ LEVEL: 4
 GLOSSARY:
   Civil law (legal system) = 대륙법
   Common law = 보통법
-  Inheritance = 상속
   Louisiana = 루이지애나주
   Quebec = 퀘벡주
   Succession = 상속
@@ -914,7 +887,6 @@ LEVEL: 5
 GLOSSARY:
   Agriculture = 농업
   California = 캘리포니아주
-  Census = 인구 조사
   Ontario = 온타리오주
   Riverside = 리버사이드
   San Bernardino = 샌버나디노

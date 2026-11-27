@@ -170,7 +170,6 @@ GLOSSARY:
   Richard II = 「리처드 2세」
   Royal Shakespeare Company = 로열 셰익스피어 컴퍼니
   Scotland = 스코틀랜드
-  Scottish = 스코틀랜드
   Shakespeare = 셰익스피어
   Tenth Doctor = 10대 닥터
 ENTRY:
@@ -184,7 +183,6 @@ GLOSSARY:
   Battle of the Alamo = 알라모 전투
   House of Representatives = 하원
   Indian Removal Act = 인디언 이주법
-  Stories = 스토리
   Tennessee = 테네시주
   Texas = 텍사스주
   Texas Revolution = 텍사스 혁명
@@ -304,8 +302,6 @@ HEADWORD: Dayton, Ohio = 데이턴
 LEVEL: 5
 GLOSSARY:
   Air Force = 항공 및 반항공군
-  City = 도시
-  Constitution = 헌법
   Dayton Project = 데이턴 프로젝트
   Force = 힘
   Great Miami River = 그레이트마이애미강
@@ -334,7 +330,6 @@ GLOSSARY:
   Boeing = 보잉
   Bombardier = 봉바르디에
   Canada = 캐나다
-  Canadian = 캐나다
   Dash 7 = 대시 7
   De Havilland Canada = 드 해빌랜드 캐나다
   Longview Aviation Capital = 롱뷰 애비에이션 캐피털
@@ -472,11 +467,9 @@ LEVEL: 2
 GLOSSARY:
   Afterlife = 내세
   Biogerontology = 생물노년학
-  Brain = 뇌
   Brain death = 뇌사
   Cardiovascular disease = 심혈관 질환
   Clinical death = 임상적 사망
-  Death = 죽음
   Funeral = 장례
   Natural selection = 자연 선택
   Suicide = 자살
@@ -517,7 +510,6 @@ GLOSSARY:
   Jump = 「Jump」
   Kira = 키라
   L = L
-  Light = 빛
   Light Yagami = 야가미 라이토
   Manga = 만화
   Netflix = 넷플릭스
@@ -694,7 +686,6 @@ LEVEL: 4
 GLOSSARY:
   Crab = 게
   Crayfish = 가재
-  Crustacean = 갑각류
   Decapoda = 십각목
   Dendrobranchiata = 수지상새아목
   Devonian = 데본기
@@ -750,7 +741,6 @@ GLOSSARY:
   Krishna = 크리슈나
   Middle Ages = 중세
   Peninsula = 반도
-  Plateau = 고원
   Vijayanagara = 비자야나가르
   Vijayanagara Empire = 비자야나가라 제국
   Western Ghats = 서고츠산맥
@@ -852,7 +842,6 @@ LEVEL: 4
 GLOSSARY:
   Blockchain = 블록체인
   France = 프랑스
-  Leopold = 레오폴트
   Pierre-Joseph Proudhon = 피에르조제프 프루동
   Public administration = 행정학
   Small Is Beautiful = 『작은 것이 아름답다』

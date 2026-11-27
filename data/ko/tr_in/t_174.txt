@@ -127,7 +127,6 @@ LEVEL: 5
 GLOSSARY:
   Chalcedony = 옥수
   Crete = 크레타섬
-  Jasper = 벽옥
   Minoan Crete = 미노스 문명의 크레타
   Quartz = 석영
   iaspis = iaspis
@@ -532,7 +531,6 @@ GLOSSARY:
   Los Angeles = 로스앤젤레스
   Los Angeles Times = 『로스앤젤레스 타임스』
   Louisiana = 루이지애나주
-  Music = 음악
   New Orleans = 뉴올리언스
   New Orleans jazz = 뉴올리언스 재즈
   Ragtime = 래그타임
@@ -595,10 +593,8 @@ LEVEL: 4
 GLOSSARY:
   Anger = 분노
   Disgust = 혐오
-  Emotion = 감정
   English language = 영어
   Fear = 공포
-  Jealousy = 질투
   Shakespeare = 셰익스피어
   William = 윌리엄
   William Shakespeare = 윌리엄 셰익스피어
@@ -616,7 +612,6 @@ GLOSSARY:
   French = 프랑스어
   French Academy in Rome = 로마 프랑스 아카데미
   Henri Matisse = 앙리 마티스
-  Ingres = 앵그르
   Jacques-Louis David = 자크루이 다비드
   Louis XIII = 루이 13세
   Neoclassical = 신고전주의
@@ -641,7 +636,6 @@ GLOSSARY:
   Botany = 식물학
   Evolution = 진화
   Flore française = 『프랑스 식물지』
-  French = 프랑스어
   Invertebrate = 무척추동물
   Lamarckism = 라마르크설
   Philosophie zoologique = 『동물 철학』
@@ -685,7 +679,6 @@ GLOSSARY:
   Avant-garde = 아방가르드
   Blood = 혈액
   Dada = 다다이즘
-  French = 프랑스어
   La Machine infernale = 『지옥의 기계』
   Les Enfants terribles = 『무서운 아이들』
   Machine = 기계
@@ -818,7 +811,6 @@ GLOSSARY:
   Neo-expressionist = 신표현주의
   SAMO = SAMO
   Untitled = 「무제」
-  Writing = 문자
 ENTRY:
 American artist of the Neo-expressionist movement. He rose to success in the 1980s, after gaining notoriety in the late 1970s as part of the [[Graffiti]] duo SAMO with Al Diaz. Writing enigmatic epigrams in [[Manhattan]], he drew on the emerging [[Hip-hop]] culture of the Lower East Side. At 21 he became the youngest artist to take part in Documenta in Kassel, Germany. His paintings combined poetry, drawing and text with social commentary on race and power. In 2017 his *Untitled* (1982) sold for a record-breaking $110.5 million.
 
@@ -876,7 +868,6 @@ GLOSSARY:
   Epistemology = 인식론
   Geneva = 제네바
   International Center for Genetic Epistemology = 국제 발생적 인식론 센터
-  Skinner = 스키너
   cognitive development = 인지 발달
   genetic epistemology = 발생적 인식론
 ENTRY:

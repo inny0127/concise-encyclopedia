@@ -54,7 +54,6 @@ GLOSSARY:
   France = 프랑스
   Gothic = 고딕
   Gothic novel = 고딕 소설
-  Irish = 아일랜드어
   Italy = 이탈리아
   London = 런던
   The Ballad of Reading Gaol = 『레딩 감옥의 노래』
@@ -127,7 +126,6 @@ GLOSSARY:
   Pyramid = 피라미드
   Pyramid Texts = 피라미드 텍스트
   Set (deity) = 세트
-  Worship = 예배
   crook and flail = 갈고리 지팡이와 도리깨
 ENTRY:
 Ancient Egyptian god of fertility, agriculture, the afterlife, the dead and resurrection. He is classically depicted with a pharaoh's beard, mummy-wrapped legs and a crook and flail. In myth, his brother [[Set (deity)|Set]] killed and dismembered him, and his sister-wife [[Isis]] gathered the pieces and wrapped his body so that he could return to life. He then became lord of the dead and the underworld, and pharaohs came to be associated with him in death. His cult linked him to the annual flooding of the [[Nile]] and the renewal of vegetation. Worship is first attested from the middle of the Fifth Dynasty (25th century BCE), though he was likely worshipped earlier. Most knowledge of the myth comes from the Pyramid Texts and from Greek writers such as [[Plutarch]].
@@ -140,7 +138,6 @@ GLOSSARY:
   Brigade = 브리게이드
   Dirlewanger Brigade = 디를레방거 여단
   French = 프랑스어
-  German = 독일어
   Poland = 폴란드
   Waffen-SS = 무장친위대
   Warsaw = 바르샤바
@@ -158,7 +155,6 @@ GLOSSARY:
   Black market = 암시장
   Brünnlitz = 브륀리츠
   Czechoslovakia = 체코슬로바키아
-  German = 독일어
   Holocaust = 홀로코스트
   Jews = 유대인
   Nazi = 나치
@@ -236,7 +232,6 @@ HEADWORD: Osmium = 오스뮴
 LEVEL: 4
 GLOSSARY:
   Chemical element = 화학 원소
-  Osmium = 오스뮴
   Osmium tetroxide = 사산화 오스뮴
   Smithson Tennant = 스미슨 테넌트
   Transition metal = 전이 금속
@@ -255,10 +250,8 @@ GLOSSARY:
   Cell membrane = 세포막
   Diffusion = 확산
   Jean-Antoine Nollet = 장앙투안 놀레
-  Osmosis = 삼투
   Osmotic pressure = 삼투압
   Reverse osmosis = 역삼투
-  Water = 물
   Water purification = 정수
   aquaporin = 아쿠아포린
   selectively permeable membrane = 선택적 투과막
@@ -328,7 +321,6 @@ HEADWORD: Osteoporosis = 골다공증
 LEVEL: 5
 GLOSSARY:
   Bisphosphonate = 비스포스포네이트
-  Bone = 뼈
   Chemotherapy = 화학 요법
   DXA scan = 이중 에너지 X선 흡수 계측법
   Estrogen = 에스트로겐
@@ -388,9 +380,7 @@ Informal name for the armored jawless fishes of the early Paleozoic era. Their g
 HEADWORD: Ostrich = 타조
 LEVEL: 5
 GLOSSARY:
-  Adult = 성인
   Horn of Africa = 아프리카의 뿔
-  Ostrich = 타조
   Somali ostrich = 소말리타조
   South Africa = 남아프리카 공화국
   Sub-Saharan Africa = 사하라 이남 아프리카
@@ -435,7 +425,6 @@ GLOSSARY:
   British Union of Fascists = 영국 파시스트 연합
   Conservative = 보수당
   East End = 이스트엔드
-  Fascist = 파시스트
   Harrow = 해로
   Hitler = 히틀러
   Labour = 노동당
@@ -461,7 +450,6 @@ GLOSSARY:
   Moorish = 무어인
   Othello = 「오셀로」
   Shakespeare = 셰익스피어
-  Tragedy = 비극
   Venice = 베네치아
   William = 윌리엄
   William Shakespeare = 윌리엄 셰익스피어
@@ -624,7 +612,6 @@ GLOSSARY:
   German Confederation = 독일 연방
   German Empire = 독일 제국
   Germany = 독일
-  Iron = 철
   Iron Chancellor = 철혈 재상
   Kulturkampf = 문화 투쟁
   North German Confederation = 북독일 연방
@@ -734,7 +721,6 @@ LEVEL: 4
 GLOSSARY:
   Abidjan = 아비장
   Burkina Faso = 부르키나파소
-  City = 도시
   Coast = 해안
   French = 프랑스어
   Ghana = 가나
@@ -757,7 +743,6 @@ HEADWORD: Our Lady of Guadalupe = 과달루페의 성모
 LEVEL: 5
 GLOSSARY:
   Basilica of Our Lady of Guadalupe = 과달루페의 성모 대성당
-  Catholic = 가톨릭
   City = 도시
   Juan Bernardino = 후안 베르나르디노
   Juan Diego = 후안 디에고

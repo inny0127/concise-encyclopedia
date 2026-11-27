@@ -25,7 +25,6 @@ GLOSSARY:
   Chancellor = 총리
   Chancellor of Germany = 독일 총리
   Gauleiter = 나치 대관구장
-  German = 독일어
   Germany = 독일
   Heidelberg = 하이델베르크
   Hitler = 히틀러
@@ -59,7 +58,6 @@ GLOSSARY:
   Creation = 천지 창조
   Esterházy family = 에스테르하지 가문
   Eszterháza = 에스테르하자
-  Father = 아버지
   Haydn = 하이든
   Hungary = 헝가리
   Michael Haydn = 미하엘 하이든
@@ -107,7 +105,6 @@ HEADWORD: Lister, Joseph = 리스터, 조지프
 LEVEL: 4
 GLOSSARY:
   Baron Lister = 리스터 남작
-  Drawing = 인발
   Glasgow = 글래스고
   Glasgow Royal Infirmary = 글래스고 왕립 병원
   Infection = 감염
@@ -130,7 +127,6 @@ GLOSSARY:
   Antoine François Fourcroy = 앙투안 프랑수아 푸르크루아
   Boron = 붕소
   Charles's law = 샤를의 법칙
-  French = 프랑스어
   Iodine = 아이오딘
   degrees Gay-Lussac = 게이뤼삭 도
   École Polytechnique = 에콜 폴리테크니크
@@ -225,7 +221,6 @@ GLOSSARY:
   Columbia = 컬럼비아
   Columbia School of Journalism = 컬럼비아 대학교 언론대학원
   Columbia University = 컬럼비아 대학교
-  Democratic = 민주당
   Democratic Party = 민주당
   Journalism = 저널리즘
   New York Journal = 『뉴욕 저널』
@@ -290,7 +285,6 @@ GLOSSARY:
   Eastern Bloc = 동구권
   Eastern Europe = 동유럽
   Europe = 유럽
-  Following = 「미행」
   General Secretary = 서기장
   General Secretary of the Communist Party = 공산당 서기장
   Germany = 독일
@@ -315,7 +309,6 @@ GLOSSARY:
   Revolution of 1917 = 1917년 혁명
   Russia = 러시아
   Siberia = 시베리아
-  Socialism = 사회주의
   Socialism in One Country = 일국 사회주의
   Soviet Union = 소련
   Tiflis = 티플리스
@@ -362,7 +355,6 @@ GLOSSARY:
   Legion of Honour = 레지옹 도뇌르 훈장
   Lion = 사자
   Paris = 파리
-  Rainbow = 무지개
   Rainbow Tribe = 무지개 부족
   Roaring Twenties = 광란의 20년대
   Siren of the Tropics = 「열대의 사이렌」
@@ -425,7 +417,6 @@ English potter, entrepreneur and abolitionist, founder of the Wedgwood company i
 HEADWORD: Gibbs, Josiah Willard = 기브스, 조사이아 윌러드
 LEVEL: 4
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Copley Medal = 코플리 메달
   Einstein = 아인슈타인
@@ -535,7 +526,6 @@ GLOSSARY:
   SI base units = SI 기본 단위
   Siemens = 지멘스
   Volt = 볼트
-  Wilhelm = 빌헬름
   Wilhelm Siemens = 빌헬름 지멘스
   ampere = 암페어
   base units = 기본 단위
@@ -551,10 +541,8 @@ Unit of energy in the [[International System of Units|International System of Un
 HEADWORD: Journalism = 저널리즘
 LEVEL: 3
 GLOSSARY:
-  Forms = 이데아
   Freedom of speech = 표현의 자유
   Internet = 인터넷
-  Journalism = 저널리즘
   News = 뉴스
   Smartphone = 스마트폰
   Society = 사회
@@ -585,7 +573,6 @@ GLOSSARY:
   Billboard 200 = 빌보드 200
   Don't Stop Believin' = 「돈트 스톱 빌리빈」
   Escape = 「이스케이프」
-  Filipino = 필리핀어
   Infinity = 「인피니티」
   RIAA = 미국 음반 산업 협회
   San Francisco = 샌프란시스코
@@ -627,7 +614,6 @@ GLOSSARY:
   Factory Records = 팩토리 레코드
   Ian Curtis = 이언 커티스
   Joy Division = 조이 디비전
-  Love = 사랑
   Love Will Tear Us Apart = 「러브 윌 티어 어스 어파트」
   Martin Hannett = 마틴 해닛
   New Order = 신질서
@@ -741,7 +727,6 @@ Mexican Hieronymite nun and Baroque writer, philosopher, composer and poet. Born
 HEADWORD: Juche = 주체사상
 LEVEL: 5
 GLOSSARY:
-  Juche = 주체사상
   Kim Il Sung = 김일성
   Kim Jong Il = 김정일
   Korea = 한국
@@ -758,7 +743,6 @@ HEADWORD: Loew ben Bezalel, Judah = 뢰브 벤 베잘렐, 유다
 LEVEL: 4
 GLOSSARY:
   Bohemia = 보헤미아
-  Czech = 체코어
   Golem = 골렘
   Gur Aryeh = 『구르 아리예』
   Landesrabbiner = 지방 수석 랍비
@@ -779,7 +763,6 @@ GLOSSARY:
   2 Maccabees = 『마카베오기 하권』
   Abrahamic = 아브라함계
   Aggadah = 아가다
-  Authority = 권위
   Bible = 성경
   Christianity = 기독교
   Conservative = 보수당
@@ -814,7 +797,6 @@ GLOSSARY:
   State of Israel = 이스라엘국
   Talmud = 탈무드
   Tanakh = 타나크
-  Teaching = 교수
   Torah = 토라
   Yahweh = 야훼
   Yahwism = 야훼 신앙

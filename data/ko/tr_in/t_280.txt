@@ -28,7 +28,6 @@ GLOSSARY:
   Deforestation = 삼림 벌채
   Earth = 지구
   Equator = 적도
-  Forest = 숲
   Photosynthesis = 광합성
   Temperate rainforest = 온대 우림
   Tropical rainforest = 열대 우림
@@ -150,7 +149,6 @@ GLOSSARY:
   Land of Kings = 왕들의 땅
   Madhya Pradesh = 마디아프라데시주
   Pakistan = 파키스탄
-  Rajasthan = 라자스탄주
   Rajputana Agency = 라지푸타나 관구
   Sanskrit = 산스크리트어
   Thar Desert = 타르 사막
@@ -243,7 +241,6 @@ GLOSSARY:
   German = 독일어
   Hay = 건초
   Journey to the West = 『서유기』
-  Leaf = 잎
   Old English = 고대 영어
   Plastic = 플라스틱
   Rechen = Rechen
@@ -280,11 +277,9 @@ LEVEL: 5
 GLOSSARY:
   American Civil War = 남북 전쟁
   Charlotte = 샬럿
-  City = 도시
   Civil War = 남북 전쟁
   North Carolina = 노스캐롤라이나주
   Raleigh = 롤리
-  Research = 연구
   Research Triangle Park = 리서치 트라이앵글 파크
   Roanoke Colony = 로어노크 식민지
   Sir Walter Raleigh = 월터 롤리 경
@@ -487,7 +482,6 @@ GLOSSARY:
   Authority = 권위
   Bank = 은행
   Christians = 기독교인
-  City = 도시
   Israel = 이스라엘
   Jerusalem = 예루살렘
   Judaean Mountains = 유대 산지
@@ -498,7 +492,6 @@ GLOSSARY:
   Oslo Accords = 오슬로 협정
   Palestinian Authority = 팔레스타인 자치 정부
   Palestinian Legislative Council = 팔레스타인 입법 위원회
-  Ramallah = 라말라
   Six-Day War = 6일 전쟁
   Transjordan = 트란스요르단
   West Bank = 요르단강 서안 지구
@@ -552,7 +545,6 @@ GLOSSARY:
   Chennai = 첸나이
   Hinduism = 힌두교
   Madhvacharya = 마드바차리아
-  Ramanuja = 라마누자
   Shankara = 샹카라
   Sri Vaishnavism = 슈리 바이슈나바파
   Sriperumbudur = 스리페룸부두르
@@ -631,7 +623,6 @@ GLOSSARY:
   Japan = 일본
   Kyushu = 규슈
   Momofuku Ando = 안도 모모후쿠
-  Ramen = 라멘
   World = 세계
   World War II = 제2차 세계 대전
   Yokohama = 요코하마
@@ -701,7 +692,6 @@ GLOSSARY:
   Sed festivals = 세드 축제
   Seti I = 세티 1세
   Syria = 시리아
-  Third = 교향곡 제3번
   Usermaatre Setepenre = 우세르마아트레 세테펜레
   Valley of the Kings = 왕가의 계곡
 ENTRY:
@@ -727,7 +717,6 @@ GLOSSARY:
   Pali = 팔리어
   Phra Ruang dynasty = 프라루앙 왕조
   Phrae = 프래
-  Ramkhamhaeng = 람캄행
   Sangkhalok ceramic ware = 상칼록 도자기
   Sanskrit = 산스크리트어
   Sukhothai = 수코타이
@@ -817,7 +806,6 @@ GLOSSARY:
   Madagascar = 마다가스카르
   Malagasy = 말라가시
   Merina = 메리나
-  Queen = 퀸
   Queen regnant = 여왕
   Radama I = 라다마 1세
   Slavery = 노예제
@@ -891,7 +879,6 @@ GLOSSARY:
   SDRAM = SDRAM
   SRAM = SRAM
   Samsung = 삼성
-  Semiconductor = 반도체
   dynamic RAM = 동적 램
   integrated circuit = 집적 회로
   machine code = 기계어

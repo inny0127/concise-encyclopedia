@@ -3,7 +3,6 @@ HEADWORD: Fatigue = 피로
 LEVEL: 4
 GLOSSARY:
   Ceramic = 세라믹
-  Once = 『Once』
   Plastic = 플라스틱
   Stress (mechanics) = 응력
   coupons = 시험편
@@ -105,7 +104,6 @@ GLOSSARY:
   Crust (geology) = 지각
   Earth's crust = 지각
   Earthquake = 지진
-  Friction = 마찰
   Plate tectonics = 판 구조론
   aseismic creep = 비지진성 크리프
   fault zone = 단층대
@@ -228,7 +226,6 @@ GLOSSARY:
   Cortisol = 코르티솔
   Emotion = 감정
   Evolutionary psychology = 진화 심리학
-  Fear = 공포
   Fear conditioning = 공포 조건화
   John = 존
   Little Albert = 꼬마 앨버트
@@ -261,8 +258,6 @@ LEVEL: 4
 GLOSSARY:
   Bird = 조류
   Dinosaur = 공룡
-  Goose = 기러기
-  Hunting = 사냥
   Vaned feathers = 깃가지 깃털
   down feathers = 솜털깃
   eider = 솜털오리
@@ -282,9 +277,7 @@ HEADWORD: Feces = 대변
 LEVEL: 5
 GLOSSARY:
   Dung beetle = 쇠똥구리
-  Feces = 대변
   Large intestine = 대장
-  Solid = 고체
   cloaca = 총배설강
   defecation = 배변
   fecal transplants = 분변 이식
@@ -335,11 +328,8 @@ GLOSSARY:
   Constitution = 헌법
   Constitution of the United States = 미국 헌법
   Court = 법원
-  Indigenous = 원주민
   Supreme Court of the United States = 미국 연방 대법원
   United States = 미국
-  Washington = 워싱턴주
-  White = 흰색
   White House = 백악관
 ENTRY:
 National government of the United States, with legislative, executive and judicial branches defined by the [[Constitution of the United States|Constitution]], in effect since 1789. It shares sovereignty with each of the 50 states in a federal division of power. Its branches are Congress, the presidency and federal agencies, and the [[Supreme Court of the United States|Supreme Court]] and subordinate federal courts. Indigenous tribes are recognized as having sovereign powers while remaining subject to federal jurisdiction. "Washington" and "White House" are sometimes used as metonyms for the government.
@@ -354,10 +344,8 @@ GLOSSARY:
   Canada = 캐나다
   Confederacy = 남부 연합
   Constitution = 헌법
-  Federalism = 연방주의
   Germany = 독일
   India = 인도
-  James = 야고보
   James Madison = 제임스 매디슨
   Johannes Althusius = 요하네스 알투지우스
   Madison = 매디슨
@@ -381,7 +369,6 @@ HEADWORD: Federalist Party = 연방당
 LEVEL: 5
 GLOSSARY:
   Alexander Hamilton = 알렉산더 해밀턴
-  Conservative = 보수당
   Democratic-Republican Party = 민주공화당
   England = 잉글랜드
   Great Britain = 그레이트브리튼
@@ -423,7 +410,6 @@ HEADWORD: Federation = 연방
 LEVEL: 4
 GLOSSARY:
   Federated States of Micronesia = 미크로네시아 연방
-  France = 프랑스
   Germany = 독일
   India = 인도
   Japan = 일본
@@ -474,7 +460,6 @@ GLOSSARY:
   City = 도시
   Civil War = 남북 전쟁
   Generation of '27 = 27세대
-  Gypsy = 「집시」
   Gypsy Ballads = 『집시 민요집』
   Nationalist = 국민파
   Nationalist forces = 국민혁명군
@@ -501,7 +486,6 @@ GLOSSARY:
   Emotion = 감정
   James = 야고보
   Phenomenology (philosophy) = 현상학
-  William = 윌리엄
   William James = 윌리엄 제임스
   mood = 기분
 ENTRY:
@@ -556,8 +540,6 @@ HEADWORD: Felidae = 고양잇과
 LEVEL: 4
 GLOSSARY:
   Carnivora = 식육목
-  Cats = 「캣츠」
-  Family = 가족
   Felinae = 고양이아과
   Felis catus = Felis catus
   Mammal = 포유류
@@ -598,7 +580,6 @@ GLOSSARY:
   Dream = 꿈
   Elijah = 「엘리야」
   Franz Liszt = 프란츠 리스트
-  German = 독일어
   Johann Sebastian Bach = 요한 제바스티안 바흐
   Leipzig = 라이프치히
   Leipzig Conservatory = 라이프치히 음악원
@@ -614,7 +595,6 @@ GLOSSARY:
   Romantic era = 낭만주의 시대
   St. Matthew Passion = 「마태 수난곡」
   Wagner = 바그너
-  Wedding = 결혼식
   Wedding March = 「결혼 행진곡」
 ENTRY:
 German composer, pianist, organist and conductor of the early Romantic era. His best-known works include the overture and incidental music for *A Midsummer Night's Dream*, including the "Wedding March," the oratorio *Elijah*, and the melody used in the Christmas carol "Hark! The Herald Angels Sing." His performance of the *St. Matthew Passion* in 1829 revived interest in the music of [[Johann Sebastian Bach]]. Although his grandfather was the Jewish philosopher Moses Mendelssohn, he was baptized into the Reformed Christian church at age seven. His essentially conservative tastes set him apart from [[Franz Liszt]] and [[Richard Wagner]], and the [[Leipzig]] Conservatory he founded became a bastion of this outlook. After a long decline in his reputation, partly due to [[Antisemitism|antisemitism]] in the late 19th and early 20th centuries, his creative originality has been re-evaluated.
@@ -623,7 +603,6 @@ German composer, pianist, organist and conductor of the early Romantic era. His 
 HEADWORD: Fellatio = 펠라티오
 LEVEL: 5
 GLOSSARY:
-  Fellatio = 펠라티오
   Foreplay = 전희
   HIV = HIV
   Oral sex = 구강성교
@@ -643,10 +622,8 @@ GLOSSARY:
   Central Asia = 중앙아시아
   Contemporary art = 현대 미술
   East Asia = 동아시아
-  Felt = 펠트
   Rayon = 레이온
   Tent = 텐트
-  Textile = 직물
   Turkic-Mongolian = 튀르크-몽골계
   Western world = 서양
   acrylic = 아크릴
@@ -674,7 +651,6 @@ LEVEL: 5
 GLOSSARY:
   Bladder = 방광
   Orgasm = 오르가슴
-  Research = 연구
   Skene's gland = 스킨샘
   squirting = 스쿼팅
 ENTRY:
@@ -686,7 +662,6 @@ LEVEL: 4
 GLOSSARY:
   Anesthesia = 마취
   Asia = 아시아
-  Progress = 『프로그레스』
   UNICEF = 유니세프
   Vulva = 외음부
   infibulation = 음부 봉쇄
@@ -739,9 +714,7 @@ GLOSSARY:
   Abortion = 임신 중절
   Dictionary = 사전
   Europe = 유럽
-  Feminism = 페미니즘
   France = 프랑스
-  Liberal = 자유당
   Mary Wollstonecraft = 메리 울스턴크래프트
   Oxford = 옥스퍼드
   Oxford English Dictionary = 『옥스퍼드 영어 사전』
@@ -765,7 +738,6 @@ Many scholars consider feminist campaigns a main force behind historical changes
 HEADWORD: Fence = 울타리
 LEVEL: 4
 GLOSSARY:
-  Fences = 「펜스」
   Livestock = 가축
   Mesopotamia = 메소포타미아
   Moat = 해자
@@ -781,7 +753,6 @@ Freestanding structure that encloses an area, usually built from posts joined by
 HEADWORD: Fencing = 펜싱
 LEVEL: 4
 GLOSSARY:
-  Combat = 『콩바』
   French = 프랑스어
   Fédération Internationale d'Escrime = 국제 펜싱 연맹
   Lausanne = 로잔
@@ -801,7 +772,6 @@ GLOSSARY:
   Extinction = 멸종
   Insect = 곤충
   North Africa = 북아프리카
-  Vulpes = 여우속
   Vulpes zerda = Vulpes zerda
 ENTRY:
 Smallest fox species (*Vulpes zerda*), native to the [[Desert|deserts]] of North Africa. Its unusually large ears dissipate heat and help it listen for underground prey. The fennec mainly eats [[Insect|insects]], small mammals and birds. Families dig sand burrows as large as 120 sq m (1,300 sq ft). Population figures are not precisely known, but sightings suggest the species is not threatened with [[Extinction|extinction]]. It is commonly trapped for exhibition or sale in North Africa and is considered an exotic pet in some parts of the world.
@@ -814,8 +784,6 @@ GLOSSARY:
   Anise = 아니스
   Apiaceae = 미나리과
   Cultivar = 재배 품종
-  Fennel = 회향
-  Florence = 피렌체
   Florence fennel = 플로렌스 회향
   Foeniculum vulgare = Foeniculum vulgare
   Mediterranean = 지중해

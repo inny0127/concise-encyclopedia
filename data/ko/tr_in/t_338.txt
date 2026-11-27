@@ -24,7 +24,6 @@ LEVEL: 5
 GLOSSARY:
   Crown = 영국 왕실
   Mr. Apple = 「미스터 애플」
-  Norman = 노르만
   Norman Rockwell = 노먼 록웰
   René Magritte = 르네 마그리트
   The Thomas Crown Affair = 「토머스 크라운 어페어」
@@ -50,7 +49,6 @@ GLOSSARY:
   James Gandolfini = 제임스 갠돌피니
   Jersey = 저지섬
   Mafia = 마피아
-  Media = 메디아
   New Jersey = 뉴저지주
   New York City = 뉴욕
   Organized crime = 조직범죄
@@ -79,7 +77,6 @@ GLOSSARY:
   Mississippi = 미시시피주
   Nobel Prize = 노벨상
   Nobel Prize in Literature = 노벨 문학상
-  Novel = 소설
   Quentin = 퀜틴
   Sanctuary = 『성역』
   William = 윌리엄
@@ -127,7 +124,6 @@ GLOSSARY:
   Rolling Stone = 『롤링 스톤』
   Stephen King = 스티븐 킹
   The Lord of the Rings = 『반지의 제왕』
-  Time = 『타임』
   Time (magazine) = 『타임』
   dark fantasy = 다크 판타지
 ENTRY:
@@ -313,7 +309,6 @@ HEADWORD: The Terminator = 터미네이터
 LEVEL: 5
 GLOSSARY:
   Anne = 앤
-  Arnold = 아르놀트
   Arnold Schwarzenegger = 아널드 슈워제네거
   Artificial intelligence = 인공지능
   Film = 영화
@@ -354,7 +349,6 @@ GLOSSARY:
   Film = 영화
   John = 존
   John Carpenter = 존 카펜터
-  Kurt = 쿠르트
   Kurt Russell = 커트 러셀
   National Film Registry = 국립 영화 등기부
   Universal Pictures = 유니버설 픽처스
@@ -368,7 +362,6 @@ HEADWORD: The Thinker = 생각하는 사람
 LEVEL: 4
 GLOSSARY:
   Auguste Rodin = 오귀스트 로댕
-  Bronze = 청동
   Dante = 단테
   Dante Alighieri = 단테 알리기에리
   Divine Comedy = 『신곡』
@@ -432,7 +425,6 @@ GLOSSARY:
   Curly Howard = 컬리 하워드
   Larry Fine = 래리 파인
   Moe Howard = 모 하워드
-  Television = 텔레비전
   Vaudeville = 보드빌
   comedy = 희극
 ENTRY:
@@ -518,7 +510,6 @@ GLOSSARY:
   Peter = 베드로
   Peter Weir = 피터 위어
   Privacy = 사생활
-  Reality = 실재
   Reality television = 리얼리티 텔레비전
   Surveillance = 감시
   Truman Burbank = 트루먼 버뱅크
@@ -573,7 +564,6 @@ GLOSSARY:
   Pennsylvania = 펜실베이니아주
   Philadelphia = 필라델피아
   State Street = 스테이트 스트리트
-  Vanguard = 뱅가드
   exchange-traded funds = 상장지수펀드
   iShares = 아이셰어즈
   index fund = 인덱스 펀드
@@ -843,7 +833,6 @@ GLOSSARY:
   Billboard 200 = 빌보드 200
   Billboard Hot 100 = 빌보드 핫 100
   Blinding Lights = 「Blinding Lights」
-  Canadian = 캐나다
   Grammy = 그래미상
   Grammy Awards = 그래미상
   HBO = HBO

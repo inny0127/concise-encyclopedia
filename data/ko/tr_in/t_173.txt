@@ -211,7 +211,6 @@ HEADWORD: Taylor, James = 테일러, 제임스
 LEVEL: 5
 GLOSSARY:
   Carole King = 캐럴 킹
-  Fire = 불
   Fire and Rain = 「Fire and Rain」
   Grammy = 그래미상
   Grammy Awards = 그래미상
@@ -308,7 +307,6 @@ GLOSSARY:
   Industrial Revolution = 산업 혁명
   Matthew Boulton = 매슈 볼턴
   SI unit = SI 단위
-  Scottish = 스코틀랜드
   Steam engine = 증기 기관
   Thomas = 토머스
   Thomas Newcomen = 토머스 뉴커먼
@@ -333,7 +331,6 @@ GLOSSARY:
   French Guiana = 프랑스령 기아나
   Hubble = 허블
   Hubble Space Telescope = 허블 우주 망원경
-  Infrared = 적외선
   James = 야고보
   James E. Webb = 제임스 E. 웹
   L2 Lagrange point = L2 라그랑주점
@@ -359,13 +356,11 @@ GLOSSARY:
   Colony of Virginia = 버지니아 식민지
   James = 야고보
   James Fort = 제임스 요새
-  Jamestown = 제임스타운
   New World = 신대륙
   Roanoke Colony = 로어노크 식민지
   Starving Time = 굶주림의 시기
   Time = 『타임』
   Tobacco = 담배
-  Today = 「투데이」
   Virginia Company of London = 런던 버지니아 회사
   West Indies = 서인도 제도
   Williamsburg = 윌리엄스버그
@@ -383,7 +378,6 @@ GLOSSARY:
   Herat = 헤라트
   Layla wa Majnun = 『라일라와 마즈눈』
   Naqshbandi = 낙슈반디
-  Persian = 페르시아어
   Samarkand = 사마르칸트
   Sufi = 수피
   Sufis = 수피
@@ -430,7 +424,6 @@ GLOSSARY:
   Billboard Hot 100 = 빌보드 핫 100
   Color = 색
   Fox = 폭스
-  Gold = 금
   Gold Digger = 「Gold Digger」
   In Living Color = 「인 리빙 컬러」
   Kanye West = 카녜이 웨스트
@@ -539,7 +532,6 @@ GLOSSARY:
   Charles University = 카렐 대학교
   Church = 처치
   Council of Constance = 콘스탄츠 공의회
-  Czech = 체코어
   Hussite Wars = 후스 전쟁
   Hussites = 후스파
   John = 존
@@ -655,7 +647,6 @@ GLOSSARY:
   Feminism = 페미니즘
   Gateshead Hall = 게이츠헤드 저택
   Lowood School = 로우드 학교
-  Novel = 소설
   Prejudice = 편견
   Pride = 프라이드
   Pride and Prejudice = 『오만과 편견』
@@ -930,7 +921,6 @@ GLOSSARY:
   Manga = 만화
   Meiji = 메이지
   Meiji period = 메이지 시대
-  Sculpture = 조각
   Ukiyo-e = 우키요에
   lacquerware = 칠기
   maki-e = 마키에
@@ -950,7 +940,6 @@ GLOSSARY:
   Japanese cuisine = 일본 요리
   Michelin = 미쉐린
   Ramen = 라멘
-  Seafood = 해산물
   Sushi = 초밥
   Tokyo = 도쿄
   UNESCO = 유네스코
@@ -981,13 +970,11 @@ GLOSSARY:
   Korean peninsula = 한반도
   Koreanic = 한국어족
   Late Middle Japanese = 후기 중고 일본어
-  Latin = 라틴어
   Latin script = 라틴 문자
   Old Japanese = 상대 일본어
   Proto-Japonic = 일본조어
   Sino-Japanese vocabulary = 한어(漢語)
   Tokyo = 도쿄
-  Word = 단어
   Yayoi period = 야요이 시대
   agglutinative = 교착어
   early modern = 근세

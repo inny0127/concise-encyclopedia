@@ -7,7 +7,6 @@ GLOSSARY:
   France = 프랑스
   French = 프랑스어
   French Resistance = 프랑스 레지스탕스
-  German = 독일어
   Gestapo = 게슈타포
   Jews = 유대인
   Lyon = 리옹
@@ -25,7 +24,6 @@ HEADWORD: Kinski, Klaus = 킨스키, 클라우스
 LEVEL: 5
 GLOSSARY:
   Fitzcarraldo = 「피츠카랄도」
-  German = 독일어
   Herzog = 『허조그』
   Horror film = 공포 영화
   Jesus = 예수
@@ -64,9 +62,7 @@ Austrian statesman and diplomat who stood at the center of the European balance 
 HEADWORD: Knife = 칼
 LEVEL: 3
 GLOSSARY:
-  Blade = 「블레이드」
   Bronze = 청동
-  Carbon = 탄소
   Carbon steel = 탄소강
   Ceramic = 세라믹
   Dagger = 단검
@@ -77,7 +73,6 @@ GLOSSARY:
   Stainless steel = 스테인리스강
   Steel = 강철
   Titanium = 티타늄
-  Tool = 도구
   bolster = 볼스터
   chef's knife = 셰프 나이프
   cleaver = 중식도
@@ -123,7 +118,6 @@ LEVEL: 5
 GLOSSARY:
   Acre = 아크레
   Amalfi = 아말피
-  Catholic = 가톨릭
   Crusades = 십자군
   Hospital = 병원
   Hospitallers = 구호 기사단
@@ -167,9 +161,6 @@ Catholic military order founded in 1118 to defend pilgrims on their way to [[Jer
 HEADWORD: Knitting = 뜨개질
 LEVEL: 4
 GLOSSARY:
-  Hand = 손
-  Knitting = 뜨개질
-  Machine = 기계
   Weaving = 직조
   Yarn = 실
   gauge = 게이지
@@ -220,7 +211,6 @@ Intentional complication in cordage, which may be practical, decorative or both.
 HEADWORD: Knot theory = 매듭 이론
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Euclidean = 유클리드
   Euclidean space = 유클리드 공간
   Lord Kelvin = 켈빈 경
@@ -256,14 +246,12 @@ GLOSSARY:
   Epistemology = 인식론
   Inference = 추론
   Introspection = 내성
-  Knowledge = 지식
   Memory = 기억
   Old English = 고대 영어
   Perception = 지각
   Plato = 플라톤
   Scientific method = 과학적 방법
   Sociology = 사회학
-  Truth = 진리
   anthropology = 인류학
   anthropology of knowledge = 지식 인류학
   cnawan = 크나완
@@ -307,7 +295,6 @@ GLOSSARY:
   1982 World's Fair = 1982년 세계 박람회
   American Civil War = 남북 전쟁
   Appalachian Mountains = 애팔래치아산맥
-  City = 도시
   Civil War = 남북 전쟁
   Great Depression = 대공황
   Great Smoky Mountains = 그레이트스모키산맥
@@ -346,7 +333,6 @@ GLOSSARY:
   Nobel Prize in Literature = 노벨 문학상
   Nordland = 노를란
   Norway = 노르웨이
-  Norwegian = 노르웨이어
   On Overgrown Paths = 『풀이 무성한 오솔길에서』
   Soil = 토양
   Thomas = 토머스
@@ -384,7 +370,6 @@ HEADWORD: Kobe = 고베
 LEVEL: 4
 GLOSSARY:
   ASICS = 아식스
-  City = 도시
   Great Hanshin earthquake = 한신·아와지 대지진
   Hyōgo Prefecture = 효고현
   Japan = 일본
@@ -447,7 +432,6 @@ GLOSSARY:
   Alaska = 알래스카주
   Alaska Department of Fish and Game = 알래스카주 어류·야생 동물국
   Archipelago = 제도
-  Brown = 브라운
   Brown bear = 불곰
   Fish = 어류
   Game = 게임
@@ -551,7 +535,6 @@ GLOSSARY:
   Bengali Renaissance = 벵골 르네상스
   British Empire = 대영 제국
   Calcutta = 캘커타
-  City = 도시
   Durga = 두르가
   Durga Puja = 두르가 푸자
   East India Company = 동인도 회사
@@ -603,7 +586,6 @@ GLOSSARY:
   Mammal = 포유류
   Monitor lizard = 왕도마뱀
   Rinca = 린차섬
-  Varanus = 왕도마뱀속
   Varanus komodoensis = Varanus komodoensis
   feral pigs = 야생화된 돼지
 ENTRY:
@@ -699,7 +681,6 @@ HEADWORD: Zuse, Konrad = 추제, 콘라트
 LEVEL: 4
 GLOSSARY:
   Berlin = 베를린
-  German = 독일어
   Germany = 독일
   IBM = IBM
   Nazi = 나치
@@ -752,7 +733,6 @@ GLOSSARY:
   Aru Islands = 아루 제도
   Australia = 오스트레일리아
   Australian = 오스트레일리아
-  Genus = 속
   Guinea = 기니
   Kingfisher = 물총새
   New Guinea = 뉴기니섬

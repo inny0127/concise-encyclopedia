@@ -6,7 +6,6 @@ GLOSSARY:
   Carnival = 카니발
   Fat Tuesday = 기름진 화요일
   French = 프랑스어
-  Holiday = 명절
   Lent = 사순절
   Lenten = 사순절
   Lenten fast = 사순절 금식
@@ -82,7 +81,6 @@ GLOSSARY:
   Lady King = 여성 왕
   Norway = 노르웨이
   Norwegian = 노르웨이어
-  Queen = 퀸
   Queen regnant = 여왕
   Scandinavia = 스칸디나비아
   Scandinavian = 스칸디나비아
@@ -105,7 +103,6 @@ GLOSSARY:
   Franz Boas = 프란츠 보아스
   Guinea = 기니
   History = 역사학
-  Mead = 미드
   Museum = 박물관
   Natural History = 『박물지』
   New Guinea = 뉴기니섬
@@ -130,8 +127,6 @@ HEADWORD: Sanger, Margaret = 생어, 마거릿
 LEVEL: 4
 GLOSSARY:
   Birth control = 피임
-  Connecticut = 코네티컷주
-  Court = 법원
   Eugenics = 우생학
   Griswold v. Connecticut = 그리스월드 대 코네티컷 사건
   Planned Parenthood = 미국 가족계획 연맹
@@ -221,7 +216,6 @@ LEVEL: 5
 GLOSSARY:
   Academy Award = 아카데미상
   Academy Awards = 아카데미상
-  Australian = 오스트레일리아
   Barbie = 「바비」
   Best Actress = 여우주연상
   Best Picture = 작품상
@@ -342,14 +336,12 @@ American singer-songwriter and record producer, known for her five-octave range 
 HEADWORD: Mariana Islands = 마리아나 제도
 LEVEL: 5
 GLOSSARY:
-  Archipelago = 제도
   Austria = 오스트리아
   Chamorro people = 차모로족
   Commonwealth = 영연방
   Commonwealth of the Northern Mariana Islands = 북마리아나 제도 연방
   Ferdinand = 페르디난트
   Ferdinand Magellan = 페르디난드 마젤란
-  Germany = 독일
   Guam = 괌
   Japan = 일본
   Mariana = 마리아나 제도
@@ -361,7 +353,6 @@ GLOSSARY:
   Pacific Ocean = 태평양
   Queen = 퀸
   Queen Mariana of Austria = 오스트리아의 마리아나 왕비
-  Spain = 스페인
   Tourism = 관광
   U.S. military = 미군
 ENTRY:
@@ -410,7 +401,6 @@ GLOSSARY:
   Louis-Auguste = 루이오귀스트
   Madame Déficit = 적자 부인
   Maria Theresa = 마리아 테레지아
-  Queen = 퀸
   Vienna = 빈
   dauphin = 도팽
   high treason = 대역죄
@@ -500,7 +490,6 @@ GLOSSARY:
   Marina Abramović Institute = 마리나 아브라모비치 연구소
   Museum = 박물관
   Museum of Modern Art = 뉴욕 현대 미술관
-  Serbian = 세르비아어
   The Artist Is Present = 「예술가가 여기 있다」
   Ulay = 울라이
   Wall = 벽
@@ -680,7 +669,6 @@ GLOSSARY:
   Great Lakes = 오대호
   Hydrography = 수로학
   Oceanography = 해양학
-  Recent = 현세
   Traditionalists = 전통주의자
   Utilitarians = 실용주의자
   maritime law = 해사법
@@ -699,9 +687,7 @@ GLOSSARY:
   Maritime transport = 해상 운송
   Ore = 광석
   Port = 항구
-  Transport = 교통
   UNCTAD = 유엔 무역 개발 회의
-  Water = 물
   World = 세계
   gross register tons = 총등록톤
 ENTRY:
@@ -717,7 +703,6 @@ GLOSSARY:
   Brussels = 브뤼셀
   Don Quixote = 「돈키호테」
   France = 프랑스
-  French = 프랑스어
   Giselle = 「지젤」
   Imperial Ballet = 황실 발레단
   Imperial Theatres = 황실 극장
@@ -729,7 +714,6 @@ GLOSSARY:
   Mariinsky Ballet = 마린스키 발레단
   Marseille = 마르세유
   Paris = 파리
-  Petersburg = 피터즈버그
   Raymonda = 「라이몬다」
   Russian = 러시아어
   Sleeping Beauty = 「잠자는 숲속의 공주」

@@ -57,7 +57,6 @@ GLOSSARY:
   Buoyancy = 부력
   Drag (physics) = 항력
   Fixed-wing aircraft = 고정익 항공기
-  Force = 힘
   Sail = 돛
   Wing = 날개
   aerodynamic force = 공기역학적 힘
@@ -109,7 +108,6 @@ Fibrous [[Connective tissue|connective tissue]] joining one [[Bone|bone]] to ano
 HEADWORD: Light = 빛
 LEVEL: 3
 GLOSSARY:
-  Albert = 앨버트
   Albert A. Michelson = 앨버트 A. 마이컬슨
   Earth = 지구
   Electromagnetic radiation = 전자기 복사
@@ -117,7 +115,6 @@ GLOSSARY:
   Infrared = 적외선
   Io = 이오
   Léon Foucault = 레옹 푸코
-  Michelson = 마이컬슨
   Ole Rømer = 올레 뢰머
   Photon = 광자
   SI units = SI 단위
@@ -159,7 +156,6 @@ GLOSSARY:
   Semiconductor = 반도체
   Shuji Nakamura = 나카무라 슈지
   Ultraviolet = 자외선
-  White = 흰색
   band gap = 띠틈
   electron holes = 양공
   incandescent bulbs = 백열전구
@@ -200,11 +196,9 @@ GLOSSARY:
   Fresnel lens = 프레넬 렌즈
   Harbor = 항구
   Henry Winstanley = 헨리 윈스턴리
-  John = 존
   Pharos = 파로스
   Pharos of Alexandria = 알렉산드리아의 파로스 등대
   Shoal = 여울
-  Tower = 탑
 ENTRY:
 Tower or other structure fitted with lamps and lenses to serve as a navigational beacon. Lighthouses mark dangerous coastlines, [[Shoal|shoals]], reefs and rocks, and safe entries to [[Harbor|harbors]]. The ancient Pharos of [[Alexandria]], Egypt, collapsed after a series of earthquakes between 956 and 1323. Modern lighthouses developed from about the turn of the 18th century, as trade grew and their function shifted from marking ports to warning of hazards. Henry Winstanley built the first lighthouse fully exposed to the open sea, on the Eddystone Rocks in the [[English Channel]], from 1696 to 1698. John Smeaton's rebuilding of 1756 to 1759 set the prototype for later designs, using a form of [[Concrete|concrete]] that sets underwater. The Fresnel lens, invented in the 1820s by [[Augustin-Jean Fresnel]], uses prisms to concentrate light into stronger beams. The number of operational lighthouses has since declined because of maintenance costs and cheaper electronic navigation.
 
@@ -237,7 +231,6 @@ GLOSSARY:
   Electric charge = 전하
   Electromagnetic radiation = 전자기 복사
   Essential Climate Variable = 필수 기후 변수
-  Lightning = 번개
   Positive lightning = 양극성 번개
   Thunder = 천둥
   Thunderstorm = 뇌우
@@ -272,7 +265,6 @@ GLOSSARY:
   France = 프랑스
   Ligue 2 = 리그 2
   National = 나시오날
-  Paris = 파리
   Paris Saint-Germain = 파리 생제르맹
   UEFA = 유럽 축구 연맹
   UEFA Champions League = UEFA 챔피언스리그
@@ -288,7 +280,6 @@ GLOSSARY:
   Al Kooper = 알 쿠퍼
   Billboard = 빌보드
   Bob Dylan = 밥 딜런
-  Columbia = 컬럼비아
   Columbia Records = 컬럼비아 레코드
   England = 잉글랜드
   Hammond organ = 해먼드 오르간
@@ -324,7 +315,6 @@ GLOSSARY:
   Grammy Award = 그래미상
   Hip-hop = 힙합
   Recording Industry Association of America = 미국 음반 산업 협회
-  Salt = 소금
   Salt Shaker = 「솔트 셰이커」
   Snake = 뱀
   Turn Down for What = 「턴 다운 포 왓」
@@ -390,7 +380,6 @@ GLOSSARY:
   Dead Sea = 사해
   Dead Sea Scrolls = 사해 문서
   Demon = 악마
-  Female = 암컷
   Garden = 정원
   Garden of Eden = 에덴동산
   Hebrew = 히브리어
@@ -415,12 +404,10 @@ LEVEL: 4
 GLOSSARY:
   Cat = 고양이
   Cultivar = 재배 품종
-  Genus = 속
   Hybrid (biology) = 잡종
   Latin = 라틴어
   Lilium = 백합속
   Northern Hemisphere = 북반구
-  True = 『True』
   flowering plants = 속씨식물
   leírion = 레이리온
   tepals = 화피편
@@ -433,7 +420,6 @@ HEADWORD: Lille = 릴
 LEVEL: 5
 GLOSSARY:
   Belgium = 벨기에
-  City = 도시
   Culture = 문화
   Deûle River = 되르강
   European Capital of Culture = 유럽 문화 수도
@@ -489,7 +475,6 @@ American actress of the [[Silent film|silent]] era. Gish acted on stage as a chi
 HEADWORD: Lilongwe = 릴롱궤
 LEVEL: 4
 GLOSSARY:
-  City = 도시
   Hastings = 헤이스팅스
   Hastings Kamuzu Banda = 헤이스팅스 카무주 반다
   Lilongwe = 릴롱웨
@@ -542,7 +527,6 @@ GLOSSARY:
   Carl Linnaeus = 칼 폰 린네
   Convallaria majalis = Convallaria majalis
   Eurasia = 유라시아
-  Eurasian = 유라시아판
   Liliaceae = 백합과
   Linnaeus = 린네
   Song of Songs = 「아가」
@@ -633,13 +617,11 @@ LEVEL: 4
 GLOSSARY:
   Calcite = 방해석
   Calcium carbonate = 탄산 칼슘
-  Carbonate = 탄산염
   Cave = 동굴
   Cement = 시멘트
   Concrete = 콘크리트
   Coral = 산호
   Karst = 카르스트
-  Limestone = 석회암
   Sedimentary rock = 퇴적암
   aragonite = 아라고나이트
   calcium carbonate = 탄산 칼슘
@@ -665,7 +647,6 @@ GLOSSARY:
   G. H. Hardy = G. H. 하디
   Grégoire de Saint-Vincent = 그레구아르 드 생뱅상
   Hankel = 한켈
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   John = 존
   John Gaston Leathem = 존 개스턴 리섬
@@ -764,11 +745,9 @@ GLOSSARY:
   Abbey of Saint-Martial = 생마르시알 수도원
   Augustoritum = 아우구스토리툼
   Augustus = 아우구스투스
-  City = 도시
   Creative Cities Network = 창의 도시 네트워크
   France = 프랑스
   Haute-Vienne = 오트비엔주
-  Limoges = 리모주
   Limousin = 리무쟁
   Middle Ages = 중세
   Network = 「네트워크」
@@ -785,7 +764,6 @@ LEVEL: 5
 GLOSSARY:
   Bergamot orange = 베르가모트
   Citrus = 감귤류
-  Limonene = 리모넨
   Turpentine = 테레빈유
   caraway = 캐러웨이
   carvone = 카르본
@@ -820,7 +798,6 @@ GLOSSARY:
   2000 Mozambique flood = 2000년 모잠비크 홍수
   Australopithecus = 오스트랄로피테쿠스
   Botswana = 보츠와나
-  Fossil = 화석
   Indian Ocean = 인도양
   Just So Stories = 『그래서 그렇게 된 이야기』
   Limpopo River = 림포포강
@@ -844,7 +821,6 @@ LEVEL: 5
 GLOSSARY:
   Academy Award = 아카데미상
   Academy Awards = 아카데미상
-  Boom = 「붐」
   Broadway = 브로드웨이
   Broadway musicals = 브로드웨이 뮤지컬
   Encanto = 「엔칸토」
@@ -853,7 +829,6 @@ GLOSSARY:
   Hamilton = 「해밀턴」
   Hurricane Maria = 허리케인 마리아
   In the Heights = 「인 더 하이츠」
-  Miranda = 미란다
   Moana = 「모아나」
   Puerto Rico = 푸에르토리코
   Pulitzer Prize = 퓰리처상
@@ -883,7 +858,6 @@ LEVEL: 5
 GLOSSARY:
   Abraham = 아브라함
   Abraham Lincoln = 에이브러햄 링컨
-  City = 도시
   Karen = 카렌족
   Lancaster = 랭커스터
   Nebraska = 네브래스카주

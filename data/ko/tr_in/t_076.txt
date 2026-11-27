@@ -25,7 +25,6 @@ GLOSSARY:
   Andrew Heywood = 앤드루 헤이우드
   Bourbon = 부르봉
   Bourbon Restoration = 부르봉 왕정복고
-  Conservatism = 보수주의
   Conservative = 보수당
   Corey Robin = 코리 로빈
   Edmund Burke = 에드먼드 버크
@@ -33,7 +32,6 @@ GLOSSARY:
   French = 프랑스어
   French Revolution = 프랑스 혁명
   Hungary = 헝가리
-  Huntington = 헌팅턴
   India = 인도
   Iran = 이란
   Israel = 이스라엘
@@ -128,7 +126,6 @@ GLOSSARY:
   AIDS = 에이즈
   AIDS denialism = 에이즈 부정론
   Belief = 믿음
-  Conspiracy = 「컨스피러시」
   Genocide = 제노사이드
   Propaganda = 선전
   South Africa = 남아프리카 공화국
@@ -251,7 +248,6 @@ HEADWORD: Constellation = 별자리
 LEVEL: 4
 GLOSSARY:
   Almagest = 『알마게스트』
-  Area = 넓이
   Asterisms = 성군
   Babylonian astronomy = 바빌로니아 천문학
   Big Dipper = 북두칠성
@@ -281,7 +277,6 @@ GLOSSARY:
   Treaty = 조약
   United Kingdom = 영국
   United States = 미국
-  William = 윌리엄
   William Blackstone = 윌리엄 블랙스톤
   canon law = 교회법
   codified = 성문화된
@@ -383,13 +378,10 @@ LEVEL: 3
 GLOSSARY:
   Bronze = 청동
   Bronze Age = 청동기 시대
-  Building = 건물
   Civil engineering = 토목 공학
-  Construction = 건설
   Crane (machine) = 기중기
   GDP = GDP
   Gross domestic product = 국내 총생산
-  Infrastructure = 사회 기반 시설
   Latin = 라틴어
   Middle Ages = 중세
   Mining = 광업
@@ -424,7 +416,6 @@ GLOSSARY:
   Telephone = 전화
   Television = 텔레비전
   VCRs = VCR
-  Video = 비디오
   Video game console = 비디오 게임기
   black goods = 블랙 가전
   brown goods = 브라운 가전
@@ -500,7 +491,6 @@ GLOSSARY:
   Southeast = 남동부
   Southeast Asia = 동남아시아
   Soviet Union = 소련
-  Subset = 부분집합
   Union = 연방
   United Nations = 국제 연합
   United States = 미국
@@ -621,7 +611,6 @@ Mathematical function with no abrupt changes in value. A function is continuous 
 HEADWORD: Continuous uniform distribution = 연속 균등 분포
 LEVEL: 5
 GLOSSARY:
-  Family = 가족
   Probability density function = 확률 밀도 함수
   Random variable = 확률 변수
   maximum entropy distribution = 최대 엔트로피 분포
@@ -635,11 +624,9 @@ Family of symmetric probability distributions on a bounded interval. Also called
 HEADWORD: Continuum mechanics = 연속체 역학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Differential equation = 미분 방정식
   Elasticity (physics) = 탄성
   Fluid mechanics = 유체역학
-  Physical = 「Physical」
   Plasticity (physics) = 소성
   Tensor = 텐서
   conservation of mass = 질량 보존
@@ -674,7 +661,6 @@ GLOSSARY:
   Civil law = 대륙법
   Civil law (legal system) = 대륙법
   Common law = 보통법
-  Contract = 계약
   Damages = 손해 배상
   Goods = 재화
   Money = 화폐
@@ -722,7 +708,6 @@ GLOSSARY:
   Golan Heights = 골란고원
   Homo = 사람속
   Homo erectus = 호모 에렉투스
-  Human = 인간
   Neanderthal = 네안데르탈인
   South Africa = 남아프리카 공화국
   Wonderwerk Cave = 원더베르크 동굴
@@ -736,8 +721,6 @@ HEADWORD: Control theory = 제어 이론
 LEVEL: 4
 GLOSSARY:
   Adolf Hurwitz = 아돌프 후르비츠
-  Branch = 브랜치
-  Control = 「Control」
   Control theory = 제어 이론
   Dynamical system = 동역학계
   Economics = 경제학
@@ -769,7 +752,6 @@ GLOSSARY:
   City = 도시
   Cologne = 쾰른
   Germany = 독일
-  Highway = 고속도로
   Italy = 이탈리아
   Milan = 밀라노
   New = 신세계
@@ -793,7 +775,6 @@ HEADWORD: Convection = 대류
 LEVEL: 4
 GLOSSARY:
   Buoyancy = 부력
-  Convection = 대류
   Density = 밀도
   Earth's mantle = 맨틀
   Heat transfer = 열전달
@@ -813,7 +794,6 @@ HEADWORD: Conversation = 대화
 LEVEL: 4
 GLOSSARY:
   Communication = 의사소통
-  Conversation = 대화
   Conversation analysis = 대화 분석
   Etiquette = 예절
   Greeting = 인사
@@ -829,14 +809,12 @@ HEADWORD: Convex set = 볼록 집합
 LEVEL: 4
 GLOSSARY:
   Convex minimization = 볼록 최적화
-  Geometric = 기하학 양식기
   Kepler = 케플러
   Mathematical optimization = 수학적 최적화
   Platonic solid = 정다면체
   Platonic solids = 플라톤 입체
   Polygon = 다각형
   Real number = 실수
-  Solid = 고체
   Triangle = 삼각형
   convex analysis = 볼록 해석학
   convex function = 볼록 함수
@@ -850,11 +828,8 @@ Geometric set containing every line segment between any two of its points. A sol
 HEADWORD: Convolution = 합성곱
 LEVEL: 5
 GLOSSARY:
-  Computing = 컴퓨팅
-  Convolution = 합성곱
   Fourier = 푸리에
   Fourier transform = 푸리에 변환
-  Integral = 적분
   Signal processing = 신호 처리
   deconvolution = 역합성곱
   image processing = 영상 처리
@@ -897,7 +872,6 @@ GLOSSARY:
   Rarotonga = 라로통가섬
   South Pacific Ocean = 남태평양
   Tahiti = 타히티섬
-  Tourism = 관광
   Zealand = 셸란섬
   exclusive economic zone = 배타적 경제 수역
   free association = 자유 연합

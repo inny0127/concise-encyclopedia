@@ -4,7 +4,6 @@ LEVEL: 3
 GLOSSARY:
   China = 중국
   Eurasia = 유라시아
-  Firearm = 화기
   Gunpowder = 화약
   Rifle = 소총
   Small Arms Survey = 소형무기조사
@@ -70,7 +69,6 @@ LEVEL: 4
 GLOSSARY:
   Beetle = 딱정벌레
   Lampyridae = 반딧불이과
-  Light = 빛
   Pesticide = 농약
   Photinus = 포티누스속
   Photuris = 포투리스속
@@ -124,8 +122,6 @@ HEADWORD: Fireworks = 불꽃놀이
 LEVEL: 4
 GLOSSARY:
   China = 중국
-  Fireworks = 불꽃놀이
-  Metal = 금속
   Mortar (weapon) = 박격포
   Song dynasty = 송나라
   aerial shells = 타상 연화
@@ -145,7 +141,6 @@ GLOSSARY:
   Asparuh = 아스파루흐
   Basil = 바질
   Basil II = 바실레이오스 2세
-  Bulgaria = 불가리아
   Bulgarian = 불가리아어
   Bulgarian Empire = 불가리아 제국
   Bulgars = 불가르족
@@ -227,8 +222,6 @@ GLOSSARY:
   Holy Land = 성지
   Jerusalem = 예루살렘
   Kingdom of Jerusalem = 예루살렘 왕국
-  Military = 군대
-  Pope = 교황
   Pope Urban II = 교황 우르바노 2세
   Raymond IV of Toulouse = 툴루즈 백작 레몽 4세
   Seljuk = 셀주크
@@ -326,7 +319,6 @@ GLOSSARY:
   Lüshunkou = 뤼순커우
   Meiji = 메이지
   Meiji Restoration = 메이지 유신
-  Port = 항구
   Port Arthur = 뤼순항
   Qing = 청나라
   Qing dynasty = 청나라
@@ -368,7 +360,6 @@ HEADWORD: First law of thermodynamics = 열역학 제1법칙
 LEVEL: 5
 GLOSSARY:
   Conservation of energy = 에너지 보존 법칙
-  Energy = 에너지
   Heat = 열
   Internal energy = 내부 에너지
   Work (physics) = 일
@@ -392,7 +383,6 @@ GLOSSARY:
   Peano arithmetic = 페아노 산술
   Propositional logic = 명제 논리
   Sanders = 샌더스
-  Zermelo = 체르멜로
   Zermelo–Fraenkel set theory = 체르멜로-프렝켈 집합론
   axiomatizations = 공리화
   deductive systems = 연역 체계
@@ -419,7 +409,6 @@ GLOSSARY:
   Cambrian explosion = 캄브리아기 대폭발
   Carboniferous = 석탄기
   Devonian = 데본기
-  Fish = 어류
   Haikouichthys = 하이커우익티스
   Pisces = 어강
   Placoderm = 판피류
@@ -461,7 +450,6 @@ HEADWORD: Fish as food = 식용 어류
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Fish = 어류
   Grilling = 구이
   Pickling = 절임
   Protein (nutrient) = 단백질
@@ -482,8 +470,6 @@ GLOSSARY:
   Brixham = 브릭섬
   David Allen = 데이비드 앨런
   Dock = 부두
-  Fish = 어류
-  Fishing = 어업
   Food = 음식
   Food and Agriculture Organization = 국제 연합 식량 농업 기구
   Grimsby = 그림즈비
@@ -548,7 +534,6 @@ GLOSSARY:
   Khufu ship = 쿠푸왕의 배
   Neolithic = 신석기 시대
   Pyramid = 피라미드
-  Scandinavian = 스칸디나비아
   Shrimp = 새우
   Steel = 강철
   Viking = 바이킹
@@ -639,9 +624,7 @@ GLOSSARY:
   Fédération Aéronautique Internationale = 국제 항공 연맹
   George Cayley = 조지 케일리
   Glider (aircraft) = 글라이더
-  Heavier-than-air = 중항공기
   Kite = 연
-  Kites = 연꼴
   Lift (force) = 양력
   Sir George Cayley = 조지 케일리 경
   Wright Flyer = 라이트 플라이어
@@ -720,7 +703,6 @@ GLOSSARY:
   National Flag of Canada Day = 캐나다 국기의 날
   National flag = 국기
   Parliament = 의회
-  Pearson = 피어슨
   Prime = 프라임
   Union Jack = 유니언 잭
 ENTRY:
@@ -870,7 +852,6 @@ GLOSSARY:
   National flag = 국기
   Nicholas II = 니콜라이 2세
   October Revolution = 10월 혁명
-  Peter = 베드로
   Peter the Great = 표트르 대제
   Revolution of 1917 = 1917년 혁명
   Russia = 러시아
@@ -906,7 +887,6 @@ National flag of the [[United States]], with 13 horizontal stripes alternating r
 HEADWORD: Flagellate = 편모충
 LEVEL: 4
 GLOSSARY:
-  Flagella = 편모
   Flagellum = 편모
   Naegleria = 네글레리아
   Plasmodium = 말라리아원충
@@ -927,7 +907,6 @@ GLOSSARY:
   Archaea = 고균
   Bacteria = 세균
   Eukaryota = 진핵생물
-  Flagella = 편모
   Helicobacter pylori = 헬리코박터 파일로리
   Latin = 라틴어
   Microorganism = 미생물

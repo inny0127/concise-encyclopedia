@@ -55,7 +55,6 @@ Correlation is not the same as dependence: independent variables are uncorrelate
 HEADWORD: Corrosion = 부식
 LEVEL: 4
 GLOSSARY:
-  Corrosion = 부식
   Diffusion = 확산
   Iron = 철
   Metal = 금속
@@ -115,7 +114,6 @@ GLOSSARY:
   Republic of Genoa = 제노바 공화국
   Sardinia = 사르데냐섬
   The Republic = 『국가』
-  Violence = 폭력
   Yvan Colonna = 이방 콜로나
   territorial collectivity = 지방 자치 단체
 ENTRY:
@@ -126,7 +124,6 @@ HEADWORD: Cortisol = 코르티솔
 LEVEL: 5
 GLOSSARY:
   Adrenal gland = 부신
-  Cortisol = 코르티솔
   Glucocorticoid = 글루코코르티코이드
   Glucose = 포도당
   Immune system = 면역계
@@ -147,13 +144,11 @@ HEADWORD: Corundum = 강옥
 LEVEL: 5
 GLOSSARY:
   Abrasive = 연마재
-  Corundum = 강옥
   Emery = 에머리
   Hematite = 적철석
   Magnetite = 자철석
   Mineral = 광물
   Mohs scale = 모스 굳기계
-  Pure = 「퓨어」
   Ruby = 루비
   Sapphire = 사파이어
   aluminum oxide = 산화 알루미늄
@@ -185,7 +180,6 @@ GLOSSARY:
   Cetacean = 고래류
   Common raven = 큰까마귀
   Corvus = 까마귀속
-  Eurasian = 유라시아판
   Eurasian magpie = 까치
   Family = 가족
   Passerine = 참새목
@@ -213,7 +207,6 @@ GLOSSARY:
   Asia = 아시아
   Corvidae = 까마귀과
   Europe = 유럽
-  Genus = 속
   Latin = 라틴어
   Passerine = 참새목
   South America = 남아메리카
@@ -253,7 +246,6 @@ HEADWORD: Cosmetics = 화장품
 LEVEL: 4
 GLOSSARY:
   Chemical compound = 화합물
-  Cosmetics = 화장품
   Egypt = 이집트
   European Union = 유럽 연합
   Food = 음식
@@ -263,7 +255,6 @@ GLOSSARY:
   Mesopotamia = 메소포타미아
   Mixture = 혼합물
   PFAS = 과불화화합물
-  People = 『피플』
   Perfume = 향수
   Pigment = 안료
   United States = 미국
@@ -303,11 +294,9 @@ GLOSSARY:
   Andrei Linde = 안드레이 린데
   COBE = COBE
   Field (physics) = 장
-  Inflation = 인플레이션
   Kavli Prize = 카블리상
   Particle physics = 입자 물리학
   Quantum fluctuations = 양자 요동
-  Theory = 이론
   Universe = 우주
   magnetic monopoles = 자기 홀극
   particle physics = 입자 물리학
@@ -376,7 +365,6 @@ High-energy [[Proton|proton]] or atomic nucleus moving at nearly the speed of li
 HEADWORD: Cosmological constant = 우주 상수
 LEVEL: 4
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Dark energy = 암흑 에너지
   Edwin Hubble = 에드윈 허블
@@ -408,7 +396,6 @@ GLOSSARY:
   Dark matter = 암흑 물질
   Eschatology = 종말론
   Metaphysics = 형이상학
-  Physical = 「Physical」
   Physical cosmology = 물리 우주론
   dark energy = 암흑 에너지
   dark matter = 암흑 물질
@@ -423,7 +410,6 @@ LEVEL: 4
 GLOSSARY:
   Belarus = 벨라루스
   Bohdan Khmelnytsky = 보흐단 흐멜니츠키
-  Catherine = 예카테리나 1세
   Catherine II = 예카테리나 2세
   Commonwealth = 영연방
   Cossack = 코사크
@@ -490,7 +476,6 @@ GLOSSARY:
   Caribbean Sea = 카리브해
   Central America = 중앙아메리카
   Costa Rica = 코스타리카
-  Education = 교육
   Federal Republic = 독일 연방 공화국
   Federal Republic of Central America = 중앙아메리카 연방 공화국
   Human = 인간
@@ -590,7 +575,6 @@ GLOSSARY:
   Indus Valley Civilisation = 인더스 문명
   Industrial Revolution = 산업 혁명
   Khotan = 호탄
-  Levant = 레반트
   Levant cotton = 레반트면
   Malvaceae = 아욱과
   Marco Polo = 마르코 폴로
@@ -602,7 +586,6 @@ GLOSSARY:
   Peru = 페루
   Polo = 폴로
   United States = 미국
-  World = 세계
   Xinjiang = 신장
   bales = 베일
   boll = 다래
@@ -629,7 +612,6 @@ GLOSSARY:
   Cotton = 목화
   Eli Whitney = 일라이 휘트니
   Indian subcontinent = 인도 아대륙
-  Machine = 기계
   Patent = 특허
   Roller gins = 롤러 조면기
   boom = 붐
@@ -677,7 +659,6 @@ GLOSSARY:
   Least Concern = 최소 관심
   North America = 북아메리카
   Patagonia = 파타고니아
-  Puma = 푸마
   Puma concolor = 퓨마
   Red List = 적색 목록
   Ungulate = 유제류
@@ -808,10 +789,8 @@ LEVEL: 4
 GLOSSARY:
   Algeria = 알제리
   Assassination = 암살
-  French = 프랑스어
   Indochina = 인도차이나
   Insurgency = 반란
-  Military = 군대
   Propaganda = 선전
   decolonization = 탈식민지화
   enemy-centric = 적 중심

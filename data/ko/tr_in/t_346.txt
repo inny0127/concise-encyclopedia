@@ -28,7 +28,6 @@ GLOSSARY:
   Aristotle = 아리스토텔레스
   Arthur Miller = 아서 밀러
   Euripides = 에우리피데스
-  Genre = 장르
   Greece = 그리스
   Hamlet = 『햄릿』
   Henrik Ibsen = 헨리크 입센
@@ -49,7 +48,6 @@ LEVEL: 5
 GLOSSARY:
   Aristotle = 아리스토텔레스
   Economics = 경제학
-  Elinor = 엘리너
   Elinor Ostrom = 엘리너 오스트롬
   Garrett Hardin = 개릿 하딘
   Nobel Prize = 노벨상
@@ -88,7 +86,6 @@ GLOSSARY:
   Chickasaw = 치카소족
   Choctaw = 촉토족
   Dahlonega = 달로니가
-  Disease = 질병
   Five Civilized Tribes = 문명화된 다섯 부족
   Genocide = 제노사이드
   Georgia = 조지아주
@@ -110,7 +107,6 @@ HEADWORD: Train = 열차
 LEVEL: 3
 GLOSSARY:
   Babylon = 바빌론
-  Cars = 「카」
   French = 프랑스어
   George Stephenson = 조지 스티븐슨
   Greenhouse gas = 온실가스
@@ -286,7 +282,6 @@ LEVEL: 4
 GLOSSARY:
   Arabic = 아랍어
   Berbers = 베르베르인
-  Gold = 금
   Ibn Battuta = 이븐 바투타
   Mediterranean = 지중해
   Niger = 니제르
@@ -294,7 +289,6 @@ GLOSSARY:
   North Africa = 북아프리카
   River = 강
   Sahara = 사하라 사막
-  Trade = 교역
   West African = 서아프리카
   caravans = 대상
   kola nuts = 콜라나무 열매
@@ -308,10 +302,8 @@ GLOSSARY:
   Alexander III = 알렉산드르 3세
   Amur = 아무르강
   Beijing = 베이징
-  Branch = 브랜치
   European Russia = 유럽 러시아
   Far East = 극동
-  Government = 정부
   Lake = 호수
   Lake Baikal = 바이칼호
   Manchuria = 만주
@@ -321,7 +313,6 @@ GLOSSARY:
   Russia = 러시아
   Russian = 러시아어
   Russian Far East = 러시아 극동
-  Today = 「투데이」
   Ulaanbaatar = 울란바토르
   Vladivostok = 블라디보스토크
 ENTRY:
@@ -336,7 +327,6 @@ GLOSSARY:
   Social transition = 사회적 전환
   Transgender = 트랜스젠더
   United States = 미국
-  Woman = 여성
   assigned male at birth = 출생 시 남성으로 지정된
   feminizing hormone therapy = 여성화 호르몬 요법
   gender dysphoria = 성별 불쾌감
@@ -361,7 +351,6 @@ GLOSSARY:
   Gondwana = 곤드와나
   McMurdo Dry Valleys = 맥머도 드라이밸리
   Mount Kirkpatrick = 커크패트릭산
-  Mountain = 산
   Mountain range = 산맥
   West Antarctic Rift System = 서남극 열곡계
   gneisses = 편마암
@@ -473,7 +462,6 @@ GLOSSARY:
   American Medical Association = 미국 의사 협회
   Endocrine Society = 내분비학회
   Finland = 핀란드
-  Gender = 젠더
   Non-binary = 논바이너리
   Norway = 노르웨이
   Psychotherapy = 심리 치료
@@ -527,7 +515,6 @@ GLOSSARY:
   Nobel Prize = 노벨상
   Nobel Prize in Physics = 노벨 물리학상
   Physics = 물리학
-  Semiconductor = 반도체
   Semiconductor device = 반도체 소자
   Vacuum tube = 진공관
   Walter Brattain = 월터 브래튼
@@ -573,7 +560,6 @@ GLOSSARY:
   Ancient Greek = 고대 그리스어
   Ancient Greeks = 고대 그리스인
   Cicero = 키케로
-  Communication = 의사소통
   Horace = 호라티우스
   Internet = 인터넷
   John = 존
@@ -625,13 +611,11 @@ HEADWORD: Transliteration = 전자
 LEVEL: 4
 GLOSSARY:
   Alphabet = 알파벳
-  Angle = 각
   Angle brackets = 꺾쇠괄호
   Burmese = 버마어
   International Phonetic Alphabet = 국제 음성 기호
   Latin = 라틴어
   Latin script = 라틴 문자
-  Standard = 스탠더드
   Translation = 번역
   Writing system = 문자 체계
   conventions = 협약
@@ -685,7 +669,6 @@ GLOSSARY:
   South Ossetia = 남오세티야
   Soviet Union = 소련
   Tiraspol = 티라스폴
-  Transnistria = 트란스니스트리아
   Ukraine = 우크라이나
   de facto = 사실상
   frozen conflict = 동결된 분쟁
@@ -701,7 +684,6 @@ GLOSSARY:
   Camouflage = 위장
   Glass = 유리
   Jellyfish = 해파리
-  Physical = 「Physical」
   Plate glass = 판유리
   Refractive index = 굴절률
   Scattering = 산란
@@ -721,7 +703,6 @@ GLOSSARY:
   Photosynthesis = 광합성
   Plant = 식물
   Stoma = 기공
-  Transpiration = 증산 작용
   guttation = 일액 현상
   mass flow = 집단류
   osmotic pressure = 삼투압
@@ -777,7 +758,6 @@ HEADWORD: Transport = 운송
 LEVEL: 2
 GLOSSARY:
   Air pollution = 대기 오염
-  Aircraft = 항공기
   Airport = 공항
   American English = 미국 영어
   Animal-powered transport = 축력 운송
@@ -790,9 +770,7 @@ GLOSSARY:
   Globalization = 세계화
   Human-powered transport = 인력 운송
   Industrial Revolution = 산업 혁명
-  Infrastructure = 사회 기반 시설
   Intergovernmental Panel on Climate Change = 기후 변화에 관한 정부 간 협의체
-  Transport = 교통
   Unmanned aerial vehicle = 무인 항공기
   bulk transport = 벌크 운송
   containerization = 컨테이너화

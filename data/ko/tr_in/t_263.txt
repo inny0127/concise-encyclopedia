@@ -4,12 +4,10 @@ LEVEL: 4
 GLOSSARY:
   Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
-  Branch = 브랜치
   Chemistry = 화학
   DNA = DNA
   Einstein = 아인슈타인
   Fluorescence = 형광
-  Photochemistry = 광화학
   Photosynthesis = 광합성
   Ultraviolet = 자외선
   Vitamin D = 비타민 D
@@ -33,11 +31,9 @@ GLOSSARY:
   Government = 정부
   Haloid = 할로이드
   IBM = IBM
-  Machine = 기계
   Model A = 모델 A
   Ohio = 오하이오주
   Paper = 종이
-  Patent = 특허
   Xerox = 제록스
   Xerox Corporation = 제록스
   carbon paper = 먹지
@@ -81,12 +77,10 @@ Emission of [[Electron|electrons]] from a material when [[Electromagnetic radiat
 HEADWORD: Photographic film = 사진 필름
 LEVEL: 4
 GLOSSARY:
-  Color = 색
   Dye = 염료
   Gelatin = 젤라틴
   Infrared = 적외선
   Kodacolor II = 코다컬러 II
-  Strip = 스트립
   Visible spectrum = 가시 스펙트럼
   color couplers = 발색제
   infrared light = 적외선
@@ -152,7 +146,6 @@ GLOSSARY:
   Daily Graphic = 『데일리 그래픽』
   Great Depression = 대공황
   Illustrated London News = 『일러스트레이티드 런던 뉴스』
-  John = 존
   Journalism = 저널리즘
   Life = 『라이프』
   News = 뉴스
@@ -196,7 +189,6 @@ GLOSSARY:
   Flux = 선속
   Nebula = 성운
   Photometer = 광도계
-  Surface = 서피스
   Surface photometry = 표면 측광
   Telescope = 망원경
   UBV system = UBV 측광계
@@ -217,14 +209,12 @@ GLOSSARY:
   Boson = 보손
   C. V. Raman = C. V. 라만
   Einstein = 아인슈타인
-  Elementary = 「엘리멘트리」
   Elementary particle = 기본 입자
   Gilbert = 길버트 제도
   Gilbert N. Lewis = 길버트 N. 루이스
   Laser = 레이저
   Max Planck = 막스 플랑크
   Photon = 광자
-  Photons = 광자
   Planck = 플랑크 위성
   Planck constant = 플랑크 상수
   Suri = 수리
@@ -331,7 +321,6 @@ GLOSSARY:
   Midas = 미다스
   Pergamon = 페르가몬
   Persia = 페르시아
-  Phrygia = 프리기아
   River = 강
   Roman Empire = 로마 제국
   Sangarios River = 상가리오스강
@@ -392,7 +381,6 @@ LEVEL: 5
 GLOSSARY:
   Animal = 동물
   Annelid = 환형동물
-  Botany = 식물학
   Ernst Haeckel = 에른스트 헤켈
   Fungus = 균류
   Kingdom (taxonomy) = 계
@@ -409,7 +397,6 @@ LEVEL: 3
 GLOSSARY:
   A Course in True Physical Chemistry = 『진정한 물리화학 강의』
   Avogadro constant = 아보가드로 상수
-  Branch = 브랜치
   Chemical equilibrium = 화학 평형
   Chemical kinetics = 화학 반응 속도론
   Chemical thermodynamics = 화학 열역학
@@ -449,7 +436,6 @@ GLOSSARY:
   Albert Einstein = 알베르트 아인슈타인
   Alexander Friedmann = 알렉산드르 프리드만
   Big Bang = 빅뱅
-  Branch = 브랜치
   Catholic = 가톨릭
   Cepheid variable = 세페이드 변광성
   Cepheid variable stars = 세페이드 변광성
@@ -495,7 +481,6 @@ GLOSSARY:
   Epilepsy = 뇌전증
   Hearing loss = 난청
   Injury = 부상
-  Management = 경영학
   Mobility impairment = 이동 장애
   Perinatal = 주산기
   Post-natal = 출생 후
@@ -539,7 +524,6 @@ GLOSSARY:
   Exercise = 운동
   Industrial Revolution = 산업 혁명
   Nutrition = 영양
-  Research = 연구
   Well-being = 웰빙
   World = 세계
   World Health Organization = 세계 보건 기구
@@ -555,7 +539,6 @@ LEVEL: 4
 GLOSSARY:
   Alfred = 앨프레드 대왕
   Alfred Russel Wallace = 앨프리드 러셀 월리스
-  Branch = 브랜치
   Climatology = 기후학
   Geography = 지리학
   Geomorphology = 지형학
@@ -636,7 +619,6 @@ GLOSSARY:
   Optics = 광학
   Physics = 물리학
   Plato = 플라톤
-  Research = 연구
   Roman Empire = 로마 제국
   Scientific Revolution = 과학 혁명
   Sumerians = 수메르인
@@ -702,7 +684,6 @@ GLOSSARY:
   Disease = 질병
   Genetics = 유전학
   Homeostasis = 항상성
-  Human = 인간
   Medicine = 의학
   Nobel Prize = 노벨상
   Nobel Prize in Physiology or Medicine = 노벨 생리학·의학상
@@ -809,7 +790,6 @@ HEADWORD: Pickleball = 피클볼
 LEVEL: 5
 GLOSSARY:
   Bainbridge Island = 베인브리지섬
-  Racket = 래킷
   Sports and Fitness Industry Association = 스포츠 피트니스 산업 협회
   Tennis = 테니스
   United States = 미국
@@ -850,8 +830,6 @@ GLOSSARY:
   Leuconostoc mesenteroides = 류코노스톡 메센테로이데스
   Mesopotamia = 메소포타미아
   Persia = 페르시아
-  Pickling = 절임
-  Salt = 소금
   Vinegar = 식초
   lactic acid = 젖산
 ENTRY:
@@ -880,9 +858,7 @@ HEADWORD: Pied Piper of Hamelin = 하멜른의 피리 부는 사나이
 LEVEL: 5
 GLOSSARY:
   Europe = 유럽
-  German = 독일어
   Hamelin = 하멜른
-  John = 존
   Middle Ages = 중세
   Rat = 쥐
   River = 강
@@ -912,7 +888,6 @@ GLOSSARY:
   Liguria = 리구리아주
   Lombardy = 롬바르디아
   Medieval Latin = 중세 라틴어
-  Piedmont = 피에몬테
   Sicily = 시칠리아
   Switzerland = 스위스
   Turin = 토리노
@@ -950,7 +925,6 @@ GLOSSARY:
   Italy = 이탈리아
   Marxist = 마르크스주의
   Ostia = 오스티아
-  Recent = 현세
   Rome = 로마
   Taboo = 금기
   The Gospel According to St. Matthew = 「마태복음」
@@ -984,7 +958,6 @@ HEADWORD: Pieris brassicae = 큰배추흰나비
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Butterfly = 나비
   Europe = 유럽
   Himalayas = 히말라야산맥
   Larva = 애벌레

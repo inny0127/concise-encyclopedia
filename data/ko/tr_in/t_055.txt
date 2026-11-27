@@ -11,7 +11,6 @@ GLOSSARY:
   Cape Cod Canal = 케이프코드 운하
   Massachusetts = 매사추세츠주
   Ocean = 대양
-  Peninsula = 반도
   United States = 미국
 ENTRY:
 Peninsula extending into the Atlantic Ocean from southeastern [[Massachusetts]], in the northeastern United States. Coextensive with Barnstable County, it is divided into fifteen towns. Since 1914 most of the Cape has been separated from the mainland by the Cape Cod Canal. The name was coined in 1602 by Bartholomew Gosnold and is the ninth-oldest English place-name in the U.S. Its historic, maritime character and beaches attract heavy tourism in the summer months.
@@ -21,11 +20,9 @@ HEADWORD: Cape Horn = 혼곶
 LEVEL: 4
 GLOSSARY:
   Canal = 운하
-  Cape = 케이프
   Cape Horn = 혼곶
   Chile = 칠레
   Drake Passage = 드레이크 해협
-  Dutch = 네덜란드어
   Hoorn = 호른
   Hornos Island = 오르노스섬
   Jacob Le Maire = 야코프 르메르
@@ -195,7 +192,6 @@ Royal house of [[Franks|Frankish]] origin, also called the House of France, foun
 HEADWORD: Capillary = 모세 혈관
 LEVEL: 4
 GLOSSARY:
-  Blood = 혈액
   Carbon = 탄소
   Carbon dioxide = 이산화 탄소
   Glucose = 포도당
@@ -226,7 +222,6 @@ GLOSSARY:
   Latin = 라틴어
   Montreal = 몬트리올
   Nanjing = 난징
-  Nigeria = 나이지리아
   Paris = 파리
   Quebec City = 퀘벡시티
   Shanghai = 상하이
@@ -285,7 +280,6 @@ State-sanctioned killing of a person as punishment for actual or supposed miscon
 HEADWORD: Capitalism = 자본주의
 LEVEL: 3
 GLOSSARY:
-  Adam = 아담
   Adam Smith = 애덤 스미스
   Das Kapital = 『자본론』
   England = 잉글랜드
@@ -335,7 +329,6 @@ GLOSSARY:
   Angola = 앙골라
   Bantu = 반투
   Black = 검은색
-  Capoeira = 카포에이라
   Mestre Bimba = 메스트리 빔바
   UNESCO = 유네스코
   berimbau = 베림바우
@@ -382,7 +375,6 @@ GLOSSARY:
   Capra aegagrus aegagrus = Capra aegagrus aegagrus
   Capra hircus = Capra hircus
   Domestication = 가축화
-  Genus = 속
   Iran = 이란
   Middle Ages = 중세
   Parchment = 양피지
@@ -398,7 +390,6 @@ LEVEL: 5
 GLOSSARY:
   Analgesic = 진통제
   Chili pepper = 고추
-  Pure = 「퓨어」
   TRPV1 receptor = TRPV1 수용체
   chili peppers = 고추
   neuropathic pain = 신경병증성 통증
@@ -418,7 +409,6 @@ GLOSSARY:
   Captain America Comics = 『캡틴 아메리카 코믹스』
   Chris Evans = 크리스 에번스
   Comics = 만화
-  Frozen = 「겨울왕국」
   Jack Kirby = 잭 커비
   Joe Simon = 조 사이먼
   Marvel = 마블
@@ -483,7 +473,6 @@ GLOSSARY:
   Benz Patent-Motorwagen = 벤츠 파텐트모토르바겐
   Carbon dioxide = 이산화 탄소
   Carl Benz = 카를 벤츠
-  Cars = 「카」
   China = 중국
   Climate change = 기후 변화
   Electric cars = 전기 자동차
@@ -582,7 +571,6 @@ GLOSSARY:
   Norte Chico = 노르테치코
   Pativilca = 파티빌카
   Peru = 페루
-  Pre-Columbian = 콜럼버스 이전
   Pre-Columbian era = 콜럼버스 이전 시대
   Pyramid = 피라미드
   Sumer = 수메르
@@ -636,7 +624,6 @@ GLOSSARY:
   RNA = RNA
   Starch = 녹말
   Sucrose = 수크로스
-  Sugar = 설탕
   amino acids = 아미노산
   coenzymes = 조효소
   degree of polymerization = 중합도
@@ -672,7 +659,6 @@ GLOSSARY:
   Greenhouse gas = 온실가스
   Infrared = 적외선
   Photosynthesis = 광합성
-  Solid = 고체
   Welding = 용접
   aerobic organisms = 호기성 생물
   bicarbonate = 탄산수소염
@@ -700,7 +686,6 @@ Nearly all CO₂ produced by humans goes into the atmosphere. Less than 1% of an
 HEADWORD: Carbon = 탄소
 LEVEL: 3
 GLOSSARY:
-  Carbon = 탄소
   Carbon nanotube = 탄소 나노튜브
   Diamond = 다이아몬드
   Earth = 지구
@@ -823,8 +808,6 @@ GLOSSARY:
   Limestone = 석회암
   Portland = 포틀랜드
   Portland cement = 포틀랜드 시멘트
-  Salt = 소금
-  Sodium = 나트륨
   Sodium carbonate = 탄산 나트륨
   bicarbonate = 탄산수소염
   carbonate ion = 탄산 이온
@@ -906,7 +889,6 @@ GLOSSARY:
   Catalan = 카탈루냐어
   China = 중국
   Egypt = 이집트
-  Game = 게임
   Karnöffel = 카르뇌펠
   Magic: The Gathering = 매직: 더 개더링
   Mamluk = 맘루크
@@ -945,7 +927,6 @@ GLOSSARY:
   Amomum = Amomum
   Ayurveda = 아유르베다
   Elettaria = Elettaria
-  Green = 초록색
   Green cardamom = 녹색 카다멈
   Guatemala = 과테말라
   India = 인도

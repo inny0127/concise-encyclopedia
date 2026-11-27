@@ -95,8 +95,6 @@ LEVEL: 4
 GLOSSARY:
   Bilateria = 좌우대칭동물
   Brain = 뇌
-  Insect = 곤충
-  Vertebrate = 척추동물
   antennae = 더듬이
   cephalization = 두부화
   cervical vertebrae = 목뼈
@@ -159,7 +157,6 @@ GLOSSARY:
   Sleepy Hollow = 「슬리피 할로우」
   The Legend of Sleepy Hollow = 「슬리피 할로의 전설」
   Tim Burton = 팀 버턴
-  Washington = 워싱턴주
   dullahan = 듈라한
 ENTRY:
 Mythical archetype of a rider on horseback who is missing his head. Such figures have appeared in [[Folklore|folklore]] across [[Europe|Europe]] since the [[Middle Ages|Middle Ages]]. In Irish folklore the dullahan is a demonic fairy who carries his head under his arm, and a name he calls signals that person's death. Washington Irving's 1820 short story *The Legend of Sleepy Hollow* made the figure a famous American character. It was later adapted in the 1999 film *Sleepy Hollow*, directed by [[Tim Burton|Tim Burton]].
@@ -191,7 +188,6 @@ Public health measures such as vaccination, sanitation, and antibiotics have con
 HEADWORD: Health care = 보건 의료
 LEVEL: 3
 GLOSSARY:
-  Access = 액세스
   Dentistry = 치의학
   Interview = 『인터뷰』
   Medicine = 의학
@@ -228,7 +224,6 @@ HEADWORD: Heard Island and McDonald Islands = 허드 맥도널드 제도
 LEVEL: 5
 GLOSSARY:
   Antarctic fur seals = 남극물개
-  Australian = 오스트레일리아
   Big Ben = 빅벤
   Heard Island = 허드섬
   Indian Ocean = 인도양
@@ -254,7 +249,6 @@ GLOSSARY:
   Auditory system = 청각계
   Brain = 뇌
   Hearing loss = 난청
-  Sound = 소리
   are = 아르
   basilar membrane = 기저막
   cochlea = 달팽이관
@@ -275,7 +269,6 @@ LEVEL: 4
 GLOSSARY:
   Decibel = 데시벨
   Genetics = 유전학
-  Hearing = 청각
   Hearing aids = 보청기
   Hearing loss = 난청
   Rubella = 풍진
@@ -390,7 +383,6 @@ GLOSSARY:
   Calorie = 칼로리
   Calorimetry = 열량 측정법
   Electromagnetic radiation = 전자기 복사
-  Energy = 에너지
   Francis = 프랑수아
   Francis Bacon = 프랜시스 베이컨
   Friction = 마찰
@@ -429,7 +421,6 @@ LEVEL: 4
 GLOSSARY:
   Joule = 줄
   Phase transition = 상전이
-  Property = 재산
   SI unit = SI 단위
   Specific heat capacity = 비열 용량
   amount of substance = 물질량
@@ -447,7 +438,6 @@ GLOSSARY:
   Big Chill = 빅 칠
   Big Freeze = 대동결
   Dark energy = 암흑 에너지
-  Hypothesis = 가설
   Kelvin = 켈빈
   Lord Kelvin = 켈빈 경
   Second = 초
@@ -494,7 +484,6 @@ Device that uses mechanical or thermal energy to transfer [[Heat]] from one spac
 HEADWORD: Heat transfer = 열전달
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Buoyancy = 부력
   Heat = 열
   Heat transfer = 열전달
@@ -609,7 +598,6 @@ GLOSSARY:
   Heat pump = 열펌프
   New York Stock Exchange = 뉴욕 증권 거래소
   Stock = 주식
-  Technology = 기술
   York = 요크
   ductwork = 덕트
 ENTRY:
@@ -648,7 +636,6 @@ GLOSSARY:
   Black = 검은색
   Black Sabbath = 블랙 사바스
   Deep Purple = 딥 퍼플
-  Genre = 장르
   Judas Priest = 주다스 프리스트
   Kiss = 입맞춤
   Led Zeppelin = 레드 제플린
@@ -701,7 +688,6 @@ GLOSSARY:
   Great Wall = 만리장성
   Great Wall of China = 만리장성
   Han Chinese = 한족
-  Hebei = 허베이성
   Maize = 옥수수
   Mountain = 산
   North China = 화베이
@@ -780,7 +766,6 @@ GLOSSARY:
   Gregorian calendar = 그레고리력
   Israel = 이스라엘
   Lunisolar calendar = 태음태양력
-  Month = 월
   Passover = 유월절
   are = 아르
   leap month = 윤달
@@ -872,7 +857,6 @@ LEVEL: 4
 GLOSSARY:
   Benvenuto Cellini = 「벤베누토 첼리니」
   Béatrice et Bénédict = 「베아트리스와 베네딕트」
-  French = 프랑스어
   Harriet Smithson = 해리엇 스미스슨
   La Damnation de Faust = 「파우스트의 겁벌」
   Les Troyens = 「트로이 사람들」
@@ -897,7 +881,6 @@ GLOSSARY:
   Asia = 아시아
   Australia = 오스트레일리아
   Europe = 유럽
-  Genus = 속
   Hedera helix = Hedera helix
   Masonry = 조적
   North America = 북아메리카

@@ -2,7 +2,6 @@
 HEADWORD: Magma chamber = 마그마 방
 LEVEL: 5
 GLOSSARY:
-  Magma = 마그마
   Supervolcano = 초화산
   Volcano = 화산
 ENTRY:
@@ -46,7 +45,6 @@ GLOSSARY:
   Chemical element = 화학 원소
   Earth's crust = 지각
   Enzyme = 효소
-  Magnesium = 마그네슘
   alkaline earth = 알칼리 토금속
   antacids = 제산제
   brine = 염수
@@ -65,7 +63,6 @@ GLOSSARY:
   Asthma = 천식
   Chlorophyll = 엽록소
   Epsom salt = 엡섬염
-  White = 흰색
   bronchodilator = 기관지 확장제
   eclampsia = 자간증
   heptahydrate = 칠수화물
@@ -121,7 +118,6 @@ GLOSSARY:
   Electric motor = 전동기
   Hall effect = 홀 효과
   Iron = 철
-  Physical = 「Physical」
   Solar wind = 태양풍
   charge carriers = 전하 운반자
   generators = 발전기
@@ -190,7 +186,6 @@ GLOSSARY:
   Iron = 철
   Magnesian stone = 마그네시아의 돌
   Magnetic field = 자기장
-  Magnetism = 자기
   Miletus = 밀레투스
   Paramagnetic = 상자성
   Shen = 신나라
@@ -219,7 +214,6 @@ Magnetism was first noticed in the ancient world when lodestones, naturally magn
 HEADWORD: Magnetite = 자철석
 LEVEL: 5
 GLOSSARY:
-  Black = 검은색
   Igneous rock = 화성암
   Iron ore = 철광석
   Metamorphic rock = 변성암
@@ -257,7 +251,6 @@ Fictional mutant character in [[Marvel Comics]], associated with the [[X-Men]]. 
 HEADWORD: Magnetostatics = 정자기학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Electrostatics = 정전기학
   Magnetization = 자기화
   Maxwell's equations = 맥스웰 방정식
@@ -289,11 +282,9 @@ LEVEL: 4
 GLOSSARY:
   Avocado = 아보카도
   Black pepper = 후추
-  Clade = 분기군
   Conifer = 구과식물
   Eudicots = 진정쌍떡잎식물
   Gymnosperm = 겉씨식물
-  Magnoliids = 목련군
   Molecular clock = 분자시계
   angiosperms = 속씨식물
   bay laurel = 월계수
@@ -315,7 +306,6 @@ GLOSSARY:
   Chess = 체스
   FIDE = 국제 체스 연맹
   Garry Kasparov = 가리 카스파로프
-  Norwegian = 노르웨이어
   World = 세계
   World Blitz = 세계 블리츠 체스 선수권
   World Chess Champion = 세계 체스 챔피언
@@ -408,7 +398,6 @@ GLOSSARY:
   Delhi = 델리
   Father = 아버지
   Father of the Nation = 국부
-  Gandhi = 「간디」
   Gujarat = 구자라트주
   Hindu nationalist = 힌두 민족주의
   India = 인도
@@ -602,7 +591,6 @@ GLOSSARY:
   Mustafa IV = 무스타파 4세
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
-  Peter = 베드로
   Peter the Great = 표트르 대제
   Russia = 러시아
   Selim III = 셀림 3세
@@ -660,7 +648,6 @@ GLOSSARY:
   Borno State = 보르노주
   Bornu Empire = 보르누 제국
   Chad = 차드
-  City = 도시
   Haram = 하람
   Kanem–Bornu Empire = 카넴-보르누 제국
   Lake = 호수
@@ -754,7 +741,6 @@ GLOSSARY:
   Halakha = 할라카
   Iraq = 이라크
   Jerusalem = 예루살렘
-  Jews = 유대인
   Judaism = 유대교
   Mishneh Torah = 『미슈네 토라』
   Rabbi = 랍비
@@ -796,7 +782,6 @@ GLOSSARY:
   Atlantic Ocean = 대서양
   Augusta = 오거스타
   England = 잉글랜드
-  Indigenous = 원주민
   Maine = 메인주
   Massachusetts = 매사추세츠주
   Missouri = 미주리주
@@ -844,7 +829,6 @@ GLOSSARY:
   Mainland Southeast Asia = 동남아시아 대륙부
   Malaysia = 말레이시아
   Mekong = 메콩강
-  Mountain = 산
   Myanmar = 미얀마
   Peninsular Malaysia = 말레이반도 말레이시아
   Plateau = 고원
@@ -871,7 +855,6 @@ GLOSSARY:
   Biofuel = 바이오 연료
   Columbian exchange = 콜럼버스 교환
   European corn borer = 조명나방
-  Maize = 옥수수
   Medicine = 의학
   Mexico = 멕시코
   Model organism = 모델 생물

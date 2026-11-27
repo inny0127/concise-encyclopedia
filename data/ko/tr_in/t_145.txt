@@ -78,7 +78,6 @@ GLOSSARY:
   Blade = 「블레이드」
   Blade Runner = 「블레이드 러너」
   Conservation International = 국제보존협회
-  Ford = 포드
   Han Solo = 한 솔로
   Indiana = 인디애나주
   Indiana Jones = 「인디아나 존스」
@@ -268,11 +267,8 @@ HEADWORD: Hartford, Connecticut = 하트퍼드
 LEVEL: 5
 GLOSSARY:
   American Civil War = 남북 전쟁
-  City = 도시
   Civil War = 남북 전쟁
   Connecticut = 코네티컷주
-  Hartford = 하트퍼드
-  Insurance = 보험
   Insurance Capital of the World = 세계의 보험 수도
   Mark Twain = 마크 트웨인
   Mark Twain House = 마크 트웨인 하우스
@@ -360,7 +356,6 @@ GLOSSARY:
   Harvard = 하버드
   Harvard College = 하버드 칼리지
   Ivy League = 아이비리그
-  James = 야고보
   James B. Conant = 제임스 B. 코넌트
   John = 존
   John Adams = 존 애덤스
@@ -381,7 +376,6 @@ HEADWORD: Harvest = 수확
 LEVEL: 4
 GLOSSARY:
   Combine harvester = 콤바인
-  Crop = 작물
   Famine = 기근
   Harvest festival = 수확제
   Human migration = 인구 이동
@@ -432,8 +426,6 @@ GLOSSARY:
   LGBTQ = LGBTQ
   Long Island = 롱아일랜드
   Medal of Freedom = 자유 훈장
-  Milk = 우유
-  Navy = 해군
   Presidential Medal of Freedom = 대통령 자유 훈장
   San Francisco = 샌프란시스코
   San Francisco Board of Supervisors = 샌프란시스코 시 감독위원회
@@ -564,7 +556,6 @@ GLOSSARY:
   Monarchy = 군주제
   Muslims = 무슬림
   Sharia = 샤리아
-  Sultan = 술탄
   Victoria Institution = 빅토리아 인스티튜션
   absolute monarchs = 절대 군주
 ENTRY:
@@ -697,7 +688,6 @@ GLOSSARY:
   British Canada = 영국령 캐나다
   Canada = 캐나다
   Cayuga = 카유가족
-  Confederacy = 남부 연합
   French = 프랑스어
   French and Indian War = 프렌치 인디언 전쟁
   Great Law of Peace = 위대한 평화의 법
@@ -723,7 +713,6 @@ GLOSSARY:
   Quebec = 퀘벡
   Seneca = 세니카족
   Six Nations = 6개 부족 연맹
-  Today = 「투데이」
   Tuscarora = 터스커로라족
   Virginia = 버지니아
   York = 요크
@@ -833,7 +822,6 @@ HEADWORD: Hawaii = 하와이
 LEVEL: 4
 GLOSSARY:
   Honolulu = 호놀룰루
-  James = 야고보
   James Cook = 제임스 쿡
   Ocean = 대양
   Oceania = 오세아니아
@@ -841,7 +829,6 @@ GLOSSARY:
   Pacific = 태평양
   Pacific Ocean = 태평양
   Polynesians = 폴리네시아인
-  Tourism = 관광
   U.S. state = 미국의 주
   United States = 미국
   are = 아르
@@ -898,7 +885,6 @@ HEADWORD: Hay = 건초
 LEVEL: 4
 GLOSSARY:
   Cattle = 소
-  Drought = 가뭄
   Goat = 염소
   Horse = 말
   Sheep = 양

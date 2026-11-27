@@ -5,7 +5,6 @@ GLOSSARY:
   Chromosome = 염색체
   Down syndrome = 다운 증후군
   Fertilisation = 수정
-  Meiosis = 감수 분열
   aneuploidy = 이수성
   developmental disabilities = 발달 장애
   fertilization = 수정
@@ -30,7 +29,6 @@ GLOSSARY:
   Mae Nam Khong = 매남콩
   Myanmar = 미얀마
   Plateau = 고원
-  Rapids = 여울
   River = 강
   Southeast = 남동부
   Southeast Asia = 동남아시아
@@ -202,8 +200,6 @@ HEADWORD: Melanin = 멜라닌
 LEVEL: 4
 GLOSSARY:
   Amino acid = 아미노산
-  Eumelanin = 유멜라닌
-  Family = 가족
   Melanin = 멜라닌
   Melanoma = 흑색종
   Parkinson's = 파킨슨병
@@ -234,7 +230,6 @@ GLOSSARY:
   Immunotherapy = 면역 요법
   Melanin = 멜라닌
   Melanoma = 흑색종
-  Skin = 피부
   Skin cancer = 피부암
   Ultraviolet = 자외선
   United States = 미국
@@ -267,7 +262,6 @@ GLOSSARY:
   Melbourne Cricket Ground = 멜버른 크리켓 그라운드
   National Gallery = 내셔널 갤러리
   National Gallery of Victoria = 빅토리아 국립 미술관
-  Queen = 퀸
   Queen Victoria = 빅토리아 여왕
   Summer Olympics = 하계 올림픽
   Tasmania = 태즈메이니아
@@ -342,7 +336,6 @@ GLOSSARY:
   Phase transition = 상전이
   Solid = 고체
   Viscosity = 점성
-  Water = 물
   enthalpy = 엔탈피
   enthalpy of fusion = 융해 엔탈피
   entropy = 엔트로피
@@ -380,7 +373,6 @@ GLOSSARY:
   Classical antiquity = 고전 고대
   Death = 죽음
   Latin = 라틴어
-  Look = 『룩』
   Roman triumphs = 로마의 개선식
   Tertullian = 테르툴리아누스
   danse macabre = 죽음의 무도
@@ -398,8 +390,6 @@ GLOSSARY:
   Brain = 뇌
   George Sperling = 조지 스펄링
   Hippocampus = 해마
-  Memory = 기억
-  Pain = 통증
   Sensory memory = 감각 기억
   decay = 쇠퇴
   episodic memory = 일화 기억
@@ -429,7 +419,6 @@ HEADWORD: Memory card = 메모리 카드
 LEVEL: 4
 GLOSSARY:
   CompactFlash = 콤팩트플래시
-  Flash = 플래시
   Floppy disk = 플로피 디스크
   Fujio Masuoka = 마스오카 후지오
   Memory = 기억
@@ -460,7 +449,6 @@ GLOSSARY:
   Giza = 기자
   Giza Governorate = 기자주
   Hut-ka-Ptah = 후트카프타
-  Memphis = 멤피스
   Menes = 메네스
   Middle Ages = 중세
   Mit Rahina = 미트라히나
@@ -484,7 +472,6 @@ GLOSSARY:
   American Civil War = 남북 전쟁
   Andrew Jackson = 앤드루 잭슨
   Blues = 블루스
-  City = 도시
   Civil War = 남북 전쟁
   FedEx = 페덱스
   James = 야고보
@@ -531,7 +518,6 @@ GLOSSARY:
   Indo-Greek = 인도그리스
   Kabul = 카불
   Kabul River = 카불강
-  Menander = 메난드로스
   Milinda Panha = 『밀린다팡하』
   Nagasena = 나가세나
   Plutarch = 플루타르코스
@@ -678,7 +664,6 @@ GLOSSARY:
   Gabapentin = 가바펜틴
   Menopausal hormone therapy = 폐경 호르몬 요법
   Osteoporosis = 골다공증
-  Physical = 「Physical」
   cognitive-behavioral therapy = 인지 행동 치료
   hormone therapy = 호르몬 요법
   hot flashes = 안면 홍조
@@ -718,7 +703,6 @@ Recurring series of hormonal and structural changes in the [[Female reproductive
 HEADWORD: Menstruation = 월경
 LEVEL: 5
 GLOSSARY:
-  Bleeding = 출혈
   Breastfeeding = 모유 수유
   Menopause = 폐경
   Pregnancy = 임신
@@ -777,9 +761,7 @@ HEADWORD: Mental health = 정신 건강
 LEVEL: 3
 GLOSSARY:
   A Mind That Found Itself = 『자신을 찾은 마음』
-  Access = 액세스
   Clifford Beers = 클리퍼드 비어스
-  Diet = 국회
   Dorothea Dix = 도러시아 딕스
   Emil Kraepelin = 에밀 크레펠린
   Eugenics = 우생학
@@ -840,7 +822,6 @@ HEADWORD: Mentha = 박하속
 LEVEL: 4
 GLOSSARY:
   Cultivar = 재배 품종
-  Genus = 속
   Hybrid (biology) = 잡종
   Lamiaceae = 꿀풀과
   M. aquatica = M. aquatica
@@ -879,7 +860,6 @@ LEVEL: 5
 GLOSSARY:
   Alkaloid = 알칼로이드
   Dye = 염료
-  Food = 음식
   Food and Drug Administration = 식품의약국
   Hospital = 병원
   Hugh H. Young = 휴 H. 영
@@ -927,10 +907,8 @@ GLOSSARY:
   Benz Patent-Motorwagen = 벤츠 파텐트모토르바겐
   Carl Benz = 카를 벤츠
   Daimler-Motoren-Gesellschaft = 다임러 모토렌 게젤샤프트
-  German = 독일어
   Internal combustion engine = 내연 기관
   Mercedes = 메르세데스
-  Mercedes-Benz = 메르세데스벤츠
   Mercedes-Benz AG = 메르세데스벤츠 AG
   Stuttgart = 슈투트가르트
   internal combustion engine = 내연 기관
@@ -942,7 +920,6 @@ German luxury automotive brand, founded in 1926 and commonly called Mercedes. Me
 HEADWORD: Merchant ship = 상선
 LEVEL: 4
 GLOSSARY:
-  Cargo = 화물
   Cargo ship = 화물선
   Liberia = 라이베리아
   Panama = 파나마
@@ -983,7 +960,6 @@ GLOSSARY:
   Caloris Planitia = 칼로리스 분지
   Earth = 지구
   MESSENGER = 메신저
-  Mariner = 매리너
   Mariner 10 = 매리너 10호
   Mars = 화성
   Solar System = 태양계
@@ -1013,9 +989,7 @@ GLOSSARY:
   Australia = 오스트레일리아
   Australian = 오스트레일리아
   Australian Poll Merino = 오스트레일리아 폴 메리노
-  Breed = 품종
   Capital punishment = 사형
-  Fiber = 섬유
   France = 프랑스
   High Middle Ages = 중세 성기
   Hungary = 헝가리

@@ -78,7 +78,6 @@ GLOSSARY:
   Ludwig = 루트비히
   Ludwig Boltzmann = 루트비히 볼츠만
   Pressure = 압력
-  Probability = 확률
   Probability distribution = 확률 분포
   chi distribution = 카이 분포
   degrees of freedom = 자유도
@@ -215,7 +214,6 @@ GLOSSARY:
   Maya script = 마야 문자
   Mayan languages = 마야어족
   Mesoamerica = 메소아메리카
-  Mesoamerican = 메소아메리카
   Mexico = 멕시코
   Nojpetén = 노흐페텐
   Postclassic = 후고전기
@@ -279,7 +277,6 @@ GLOSSARY:
   Pan-Maya movement = 범마야 운동
   Paris = 파리
   Popol Vuh = 『포폴 부』
-  Ritual = 의례
   Roman Catholicism = 로마 가톨릭
   Syncretism = 혼합주의
   Yucatán = 유카탄주
@@ -300,7 +297,6 @@ GLOSSARY:
   Mesoamerican = 메소아메리카
   San Bartolo = 산바르톨로
   Spanish conquest = 에스파냐의 정복
-  Writing = 문자
   Writing system = 문자 체계
   Yucatec Maya = 유카텍 마야인
   Yucatán = 유카탄주
@@ -423,7 +419,6 @@ LEVEL: 4
 GLOSSARY:
   Bakwanga = 바콴가
   CIA World Factbook = 『CIA 월드 팩트북』
-  City = 도시
   Democratic = 민주당
   Democratic Republic of the Congo = 콩고 민주 공화국
   Diamond = 다이아몬드
@@ -444,7 +439,6 @@ GLOSSARY:
   Cold War = 냉전
   Court = 법원
   Earl Warren = 얼 워런
-  Ellen = 「엘런」
   Ellen Schrecker = 엘런 슈레커
   FBI = 연방 수사국
   Hooverism = 후버리즘
@@ -668,7 +662,6 @@ GLOSSARY:
   Bertrand = 버트런드호
   Bertrand Russell = 버트런드 러셀
   Gottlob Frege = 고틀로프 프레게
-  John = 존
   John Locke = 존 로크
   Locke = 로크
   Map = 지도
@@ -693,10 +686,8 @@ GLOSSARY:
   Conjunctivitis = 결막염
   Diarrhea = 설사
   Encephalitis = 뇌염
-  Herd = 무리
   Herd immunity = 집단 면역
   Infection = 감염
-  Measles = 홍역
   Pneumonia = 폐렴
   Vaccination = 예방 접종
   canine distemper = 개 디스템퍼
@@ -715,7 +706,6 @@ GLOSSARY:
   English units = 잉글랜드 단위계
   General Conference on Weights and Measures = 국제 도량형 총회
   International System of Units = 국제단위계
-  Measurement = 측정
   Metre = 미터
   Metre Convention = 미터 협약
   Michelson = 마이컬슨
@@ -769,9 +759,7 @@ American singer and actor. Born Marvin Lee Aday in [[Dallas]], [[Texas]]. His *B
 HEADWORD: Meat = 고기
 LEVEL: 3
 GLOSSARY:
-  Animal = 동물
   Intensive animal farming = 집약적 축산
-  Meat = 고기
   Neolithic = 신석기 시대
   Neolithic Revolution = 신석기 혁명
   Old English = 고대 영어
@@ -807,7 +795,6 @@ GLOSSARY:
   Arabia = 아라비아
   Cave = 동굴
   Cave of Hira = 히라 동굴
-  City = 도시
   Clock = 시계
   Great Mosque = 대모스크
   Hajj = 하지
@@ -879,7 +866,6 @@ GLOSSARY:
   Scotland = 스코틀랜드
   Su Song = 소송
   Thermodynamics = 열역학
-  Water = 물
   Water wheels = 수차
   analysis = 해석학
   astronomical clock = 천문 시계
@@ -911,7 +897,6 @@ LEVEL: 4
 GLOSSARY:
   Aristotelian = 아리스토텔레스적
   Aristotelian mechanics = 아리스토텔레스 역학
-  Branch = 브랜치
   Christiaan Huygens = 크리스티안 하위헌스
   Classical mechanics = 고전 역학
   Galileo = 갈릴레오

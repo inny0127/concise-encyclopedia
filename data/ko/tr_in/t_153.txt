@@ -19,7 +19,6 @@ HEADWORD: History of astronomy = 천문학의 역사
 LEVEL: 4
 GLOSSARY:
   Almagest = 『알마게스트』
-  Astronomy = 천문학
   Babylonia = 바빌로니아
   Big Bang = 빅뱅
   Big Bang cosmology = 빅뱅 우주론
@@ -82,7 +81,6 @@ GLOSSARY:
   John = 존
   John Dalton = 존 돌턴
   Matter = 물질
-  Richard = 리처드
   Richard Feynman = 리처드 파인먼
   Robert Boyle = 로버트 보일
   atomic hypothesis = 원자 가설
@@ -106,7 +104,6 @@ GLOSSARY:
   France = 프랑스
   French = 프랑스어
   French Revolution = 프랑스 혁명
-  Kite = 연
   Leonardo = 레오나르도
   Leonardo da Vinci = 레오나르도 다빈치
   Montgolfier brothers = 몽골피에 형제
@@ -157,7 +154,6 @@ GLOSSARY:
   Antoine Lavoisier = 앙투안 라부아지에
   Bronze = 청동
   Bronze Age = 청동기 시대
-  Gold = 금
   Robert Boyle = 로버트 보일
   conservation of mass = 질량 보존
   glazes = 유약
@@ -177,13 +173,11 @@ GLOSSARY:
   Chauvet Cave = 쇼베 동굴
   Cuneiform = 쐐기 문자
   Gutenberg = 구텐베르크
-  Human = 인간
   Johannes Gutenberg = 요하네스 구텐베르크
   Mesopotamia = 메소포타미아
   Samuel Morse = 새뮤얼 모스
   World = 세계
   World Wide Web = 월드 와이드 웹
-  Writing = 문자
   clay tablets = 점토판
   hypertext = 하이퍼텍스트
   movable-type printing = 활자 인쇄
@@ -213,7 +207,6 @@ GLOSSARY:
   Personal computer = 개인용 컴퓨터
   Steve Wozniak = 스티브 워즈니악
   Transistor = 트랜지스터
-  Vacuum = 진공
   Vacuum tube = 진공관
   Z3 = Z3
   central processing unit = 중앙 처리 장치
@@ -229,7 +222,6 @@ GLOSSARY:
   Ballet = 발레
   Bhimbetka = 빔베트카
   Brazil = 브라질
-  Dance = 춤
   Desert = 사막
   France = 프랑스
   India = 인도
@@ -244,7 +236,6 @@ Development of dance from prehistoric ritual and social activity to theatrical a
 HEADWORD: History of economic thought = 경제 사상사
 LEVEL: 4
 GLOSSARY:
-  Adam = 아담
   Adam Smith = 애덤 스미스
   Aquinas = 아퀴나스
   Aristotle = 아리스토텔레스
@@ -258,7 +249,6 @@ GLOSSARY:
   John Maynard Keynes = 존 메이너드 케인스
   Maurya = 마우리아
   Maurya Empire = 마우리아 제국
-  Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
   Wealth = 부
   Wealth of Nations = 『국부론』
@@ -277,7 +267,6 @@ GLOSSARY:
   Camera obscura = 카메라 옵스큐라
   Computer animation = 컴퓨터 애니메이션
   Fantascope = 판타스코프
-  Film = 영화
   Joseph Plateau = 조제프 플라토
   Lumière = 「뤼미에르」
   Lumière brothers = 뤼미에르 형제
@@ -285,7 +274,6 @@ GLOSSARY:
   Paris = 파리
   Plateau = 고원
   Simon Stampfer = 지몬 슈탐퍼
-  Television = 텔레비전
   magic lantern = 환등기
   phenakistiscope = 페나키스토스코프
   shadow puppetry = 그림자 인형극
@@ -335,7 +323,6 @@ GLOSSARY:
   Odyssey = 『오디세이아』
   Persia = 페르시아
   Scythia = 스키타이
-  Thales = 탈레스
   Thales of Miletus = 밀레토스의 탈레스
 ENTRY:
 Development of the study and mapping of the Earth, from ancient Mesopotamian maps to an academic discipline. The word geography, from the Greek for Earth-writing, was first used by [[Eratosthenes]], but recognizable practices such as [[Cartography|cartography]] existed earlier. The oldest known world maps date to ancient [[Babylon]], and the best-known Babylonian map, the Imago Mundi of 600 BC, shows Babylon on the Euphrates surrounded by a circular landmass. The Greeks viewed [[Homer]] as the founder of geography, since the *Iliad* and *Odyssey* contain much geographical information. [[Thales of Miletus]] laid down astronomical and mathematical rules that allowed geography to be studied scientifically, and his successor Anaximander attempted the first scale map of the known world. [[Herodotus]]' *Histories* describes much of the known world, including Egypt, Scythia and Persia. Geography later became a distinct academic discipline.
@@ -359,9 +346,7 @@ GLOSSARY:
   Pacific = 태평양
   Pacific Ocean = 태평양
   Plate tectonics = 판 구조론
-  Pliny = 플리니우스
   Pliny the Elder = 대플리니우스
-  Shen = 신나라
   Shen Kuo = 심괄
   Theophrastus = 테오프라스토스
   continental drift = 대륙 이동설
@@ -420,7 +405,6 @@ GLOSSARY:
   Paleogene = 팔레오기
   Permian = 페름기
   Permian–Triassic extinction event = 페름기-트라이아스기 대멸종
-  Photosynthesis = 광합성
   Synapsids = 단궁류
   Triassic = 트라이아스기
   Western Australia = 웨스턴오스트레일리아주
@@ -450,7 +434,6 @@ GLOSSARY:
   Ferdinand = 페르디난트
   Ferdinand de Saussure = 페르디낭 드 소쉬르
   India = 인도
-  Language = 언어
   Mesopotamia = 메소포타미아
   Mesopotamian = 메소포타미아
   Noam Chomsky = 놈 촘스키
@@ -458,7 +441,6 @@ GLOSSARY:
   Sanskrit = 산스크리트어
   Sociolinguistics = 사회 언어학
   Sumerian = 수메르어
-  Today = 「투데이」
   generative grammar = 생성 문법
   lexical lists = 어휘 목록
   morphology = 형태론
@@ -476,7 +458,6 @@ HEADWORD: History of literature = 문학의 역사
 LEVEL: 3
 GLOSSARY:
   Aeneid = 『아이네이스』
-  Akkadian = 아카드어
   Akkadian literature = 아카드 문학
   Analects = 『논어』
   China = 중국
@@ -495,7 +476,6 @@ GLOSSARY:
   Iliad = 『일리아스』
   India = 인도
   Instructions = 교훈서
-  Literature = 문학
   Mesoamerica = 메소아메리카
   Mesopotamia = 메소포타미아
   Odyssey = 『오디세이아』
@@ -518,7 +498,6 @@ GLOSSARY:
   Virgil = 베르길리우스
   Warring States = 전국 시대
   Warring States period = 전국 시대
-  Writing = 문자
   Zhuangzi = 『장자』
   classical antiquity = 고전 고대
   humanism = 인문주의
@@ -556,7 +535,6 @@ GLOSSARY:
   Hilbert = 힐베르트
   Hindu–Arabic numeral system = 인도-아라비아 숫자 체계
   India = 인도
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Islamic mathematics = 이슬람 수학
   Italy = 이탈리아
@@ -564,7 +542,6 @@ GLOSSARY:
   Latin = 라틴어
   Leibniz = 라이프니츠
   Levantine = 레반트
-  Mathematics = 수학
   Maya = 마야족
   Maya civilization = 마야 문명
   Mesopotamian = 메소포타미아
@@ -613,7 +590,6 @@ GLOSSARY:
   India = 인도
   Italy = 이탈리아
   Koch = 코흐
-  Medicine = 의학
   Mehrgarh = 메르가르
   Mesopotamia = 메소포타미아
   Microscope = 현미경
@@ -625,7 +601,6 @@ GLOSSARY:
   Patrick Hunt = 패트릭 헌트
   Public health = 공중 보건
   Renaissance = 르네상스
-  Research = 연구
   Riparo Fredian = 리파로 프레디안
   Sahara = 사하라 사막
   Vesalius = 베살리우스
@@ -634,7 +609,6 @@ GLOSSARY:
   psilocybin = 실로시빈
   sloe berries = 슬로베리
   sphagnum moss = 물이끼
-  Ötzi = 외치
   Ötzi the Iceman = 아이스맨 외치
 ENTRY:
 Study of the development of medical treatments, practices, and knowledge from prehistory to the present.
@@ -670,7 +644,6 @@ GLOSSARY:
   Medieval music = 중세 음악
   Mesopotamian = 메소포타미아
   Mozart = 모차르트
-  Music = 음악
   Paleolithic = 구석기 시대
   Persia = 페르시아
   Persian = 페르시아어
@@ -683,7 +656,6 @@ GLOSSARY:
   Silk = 비단
   Silk Road = 실크로드
   Spencer = 「스펜서」
-  Tang = 당나라
   Tang dynasty = 당나라
   The Descent of Man = 『인간의 유래』
   Upper Paleolithic = 후기 구석기 시대
@@ -727,7 +699,6 @@ GLOSSARY:
   Nature = 『네이처』
   Paleolithic = 구석기 시대
   Renaissance = 르네상스
-  Romantic = 낭만주의
   Sulawesi = 술라웨시섬
   art for art's sake = 예술을 위한 예술
   chiaroscuro = 키아로스쿠로
@@ -744,7 +715,6 @@ LEVEL: 3
 GLOSSARY:
   Al-Ghazali = 가잘리
   Ancient Greece = 고대 그리스
-  Arabic = 아랍어
   Aristotle = 아리스토텔레스
   Avicenna = 이븐 시나
   Buddhism = 불교
@@ -804,7 +774,6 @@ GLOSSARY:
   Archimedes = 아르키메데스
   Democritus = 데모크리토스
   Ibn al-Haytham = 이븐 알하이삼
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
@@ -816,7 +785,6 @@ GLOSSARY:
   Principia Mathematica = 『프린키피아』
   Quantum mechanics = 양자역학
   Scientific Revolution = 과학 혁명
-  Thales = 탈레스
   Thales of Miletus = 밀레토스의 탈레스
   atomic theory = 원자론
   atomism = 원자론
@@ -887,9 +855,7 @@ GLOSSARY:
   Leipzig = 라이프치히
   Rogers = 로저스
   Sigmund Freud = 지크문트 프로이트
-  Skinner = 스키너
   Vienna = 빈
-  Watson = 왓슨
   Wilhelm = 빌헬름
   Wilhelm Wundt = 빌헬름 분트
   behaviorism = 행동주의
@@ -960,7 +926,6 @@ GLOSSARY:
   Egypt = 이집트
   Europe = 유럽
   Greece = 그리스
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Islamic Golden Age = 이슬람 황금기
   John = 존
@@ -1004,7 +969,6 @@ The relationship between science and religion has been characterized as "conflic
 HEADWORD: History of slavery = 노예제의 역사
 LEVEL: 4
 GLOSSARY:
-  Agriculture = 농업
   Americas = 아메리카
   Asia = 아시아
   Atlantic slave trade = 대서양 노예 무역
@@ -1021,7 +985,6 @@ GLOSSARY:
   Neolithic = 신석기 시대
   Neolithic Revolution = 신석기 혁명
   Portugal = 포르투갈
-  Slavery = 노예제
   West Africa = 서아프리카
   chattel slavery = 동산 노예제
   slave trade = 노예 무역
@@ -1046,7 +1009,6 @@ GLOSSARY:
   Marx = 마르크스
   Max Weber = 막스 베버
   Plato = 플라톤
-  Sociology = 사회학
   Spencer = 「스펜서」
   Thucydides = 투키디데스
   University = 대학
@@ -1071,7 +1033,6 @@ GLOSSARY:
   Soviet Union = 소련
   Space = 공간
   SpaceX = 스페이스X
-  Spaceflight = 우주 비행
   Sputnik = 스푸트니크
   Sputnik 1 = 스푸트니크 1호
   Union = 북부 연방
@@ -1097,7 +1058,6 @@ GLOSSARY:
   France = 프랑스
   Gilgamesh = 길가메시
   Hasan = 하산
-  Monuments = 모뉴먼트
   Olympia = 올림피아
   Olympic Games = 올림픽
   Paleolithic = 구석기 시대
@@ -1122,7 +1082,6 @@ GLOSSARY:
   Gerhard Lenski = 게르하르트 렌스키
   Great Rift = 대균열
   Great Rift Valley = 대지구대
-  Human = 인간
   Industrial Revolution = 산업 혁명
   Information = 정보
   Information Age = 정보화 시대
@@ -1132,7 +1091,6 @@ GLOSSARY:
   Kardashev scale = 카르다쇼프 척도
   Leslie White = 레슬리 화이트
   Lewis H. Morgan = 루이스 H. 모건
-  Morgan = 모건
   Neolithic = 신석기 시대
   Neolithic Revolution = 신석기 혁명
   Nikolai Kardashev = 니콜라이 카르다쇼프
@@ -1140,7 +1098,6 @@ GLOSSARY:
   Post-industrial = 탈산업
   Rift Valley = 리프트 밸리
   Sumerians = 수메르인
-  Technology = 기술
   White = 흰색
   base-60 numerical system = 60진법
   gunpowder = 화약
@@ -1169,10 +1126,8 @@ GLOSSARY:
   Great Britain = 그레이트브리튼섬
   Happisburgh = 헤이즈브러
   Head of state = 국가 원수
-  Human = 인간
   Ireland = 아일랜드
   Neanderthal = 네안데르탈인
-  Neanderthals = 네안데르탈인
   Neolithic = 신석기 시대
   Neolithic Revolution = 신석기 혁명
   Norfolk = 노퍽
@@ -1316,7 +1271,6 @@ GLOSSARY:
   Ernst Badian = 에른스트 바디안
   Herodotus = 헤로도토스
   J. B. Bury = J. B. 베리
-  Others = 아더
   Peloponnesian War = 펠로폰네소스 전쟁
   Pericles = 페리클레스
   Thucydides = 투키디데스

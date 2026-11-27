@@ -216,7 +216,6 @@ GLOSSARY:
   Nanjing = 난징
   Old Chinese = 상고 중국어
   Plateau = 고원
-  Pollution = 오염
   River = 강
   Shanghai = 상하이
   Tanggula Mountains = 탕구라산맥
@@ -285,7 +284,6 @@ GLOSSARY:
   Dairy = 유제품
   Douala = 두알라
   France = 프랑스
-  German = 독일어
   League of Nations = 국제 연맹
   Tobacco = 담배
   World = 세계
@@ -308,7 +306,6 @@ GLOSSARY:
   Stone Age = 석기 시대
   Weaving = 직조
   Wool = 양모
-  Yarn = 실
   linen = 리넨
 ENTRY:
 Long continuous length of interlocked fibers used in sewing, [[Knitting|knitting]], [[Weaving|weaving]], embroidery and rope-making. Yarn can be spun from natural fibers such as [[Cotton]], [[Silk]], linen and [[Wool]], or from synthetics such as [[Nylon]] and [[Polyester]]. Cotton is the most common plant fiber, and wool the most common spun animal fiber. Yarn production dates to the Stone Age, and silk thread was well established in China by the [[Shang dynasty]]. Thread is a yarn intended for sewing by hand or machine, and modern sewing thread is often finished with wax to withstand the stresses of sewing. Yarn comes in many colors and thicknesses, called weights, and most yarns are solid colored.
@@ -379,7 +376,6 @@ GLOSSARY:
   Palestine = 팔레스타인
   Palestine Liberation Organization = 팔레스타인 해방 기구
   Palestinian Authority = 팔레스타인 자치 정부
-  Palestinians = 팔레스타인인
   Peace = 평화
   Shimon Peres = 시몬 페레스
   Tunisia = 튀니지
@@ -443,7 +439,6 @@ LEVEL: 5
 GLOSSARY:
   Apocalypse = 종말
   Bill Clinton = 빌 클린턴
-  Software = 소프트웨어
   Y2K = Y2K
 ENTRY:
 Software flaw, known as Y2K, arising from storing calendar years as two digits, which risked reading the year 2000 as 1900. Individual companies predicted that repairs would cost between $400 billion and $600 billion worldwide, and fears of a computer-induced [[Apocalypse|apocalypse]] led some people to stockpile food and cash. Few major errors occurred. Supporters credited the preemptive work of programmers, and U.S. President [[Bill Clinton]] called Y2K "the first challenge of the 21st century successfully met". Critics argued that problems were minimal even in countries that had done little to prepare.
@@ -503,7 +498,6 @@ GLOSSARY:
   Model organism = 모델 생물
   Pathogen = 병원체
   Saccharomyces cerevisiae = 사카로미세스 세레비시아
-  Yeast = 효모
   budding = 출아
   cell biology = 세포생물학
   eukaryotic = 진핵
@@ -539,7 +533,6 @@ GLOSSARY:
   Volga-Ural region = 볼가-우랄 지역
   World = 세계
   World Cup = 월드컵
-  Yekaterinburg = 예카테린부르크
   constructivist architecture = 구성주의 건축
 ENTRY:
 Administrative center and largest city of Sverdlovsk Oblast, Russia. Located on the Iset River between the Volga-Ural region and [[Siberia]], it has roughly 1.5 million residents and is the fourth most populous city in Russia. Founded in 1723 and named after Catherine, wife of [[Peter the Great]], it became the mining capital of the Russian Empire. It was the site of the murder of the Romanov family, including Tsar [[Nicholas II]], during the [[Russian Civil War]]. Renamed Sverdlovsk in 1924, it regained its historical name in 1991. Yekaterinburg is known for its constructivist architecture and was one of the host cities of the 2018 FIFA World Cup.
@@ -552,7 +545,6 @@ GLOSSARY:
   CMYK color model = CMYK 색 모형
   Canada = 캐나다
   Carotenoid = 카로티노이드
-  Color = 색
   Europe = 유럽
   Green = 초록색
   Judas Iscariot = 가룟 유다
@@ -684,7 +676,6 @@ GLOSSARY:
   Bison = 들소
   Caldera = 칼데라
   Ecosystem = 생태계
-  Forest = 숲
   Geyser = 간헐천
   Greater Yellowstone Ecosystem = 광역 옐로스톤 생태계
   Grizzly bear = 회색곰
@@ -694,7 +685,6 @@ GLOSSARY:
   Ulysses = 『율리시스』
   Ulysses S. Grant = 율리시스 S. 그랜트
   United States = 미국
-  Well = 우물
   World = 세계
   World Heritage = 세계 유산
   World Heritage Site = 세계유산
@@ -795,7 +785,6 @@ GLOSSARY:
   Ocean = 대양
   Plain = 평야
   Plateau = 고원
-  River = 강
   Siberia = 시베리아
   Siberian = 시베리아
   Tang = 당나라

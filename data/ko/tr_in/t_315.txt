@@ -57,7 +57,6 @@ GLOSSARY:
   Sensory nervous system = 감각 신경계
   Skin = 피부
   Spinal cord = 척수
-  Subset = 부분집합
   cutaneous receptors = 피부 수용기
   mechanosensory = 기계 감각
   nociception = 통각
@@ -106,7 +105,6 @@ GLOSSARY:
   Leonardo da Vinci = 레오나르도 다빈치
   Passive sonar = 수동 소나
   Reflection (physics) = 반사
-  Sonar = 소나
   Submarine = 잠수함
   Vinci = 빈치
   World = 세계
@@ -144,7 +142,6 @@ GLOSSARY:
   Asteraceae = 국화과
   Canary Islands = 카나리아 제도
   Eurasia = 유라시아
-  Genus = 속
   Madeira = 마데이라 제도
   Plants of the World Online = Plants of the World Online
   Sonchus arvensis = 사데풀아재비
@@ -189,7 +186,6 @@ GLOSSARY:
   Hangzhou = 항저우
   Jin dynasty (1115–1234) = 금나라
   Kaifeng = 카이펑
-  Kublai = 쿠빌라이
   Kublai Khan = 쿠빌라이 칸
   Later Zhou = 후주
   Lin'an = 임안
@@ -241,7 +237,6 @@ GLOSSARY:
   Lyrebird = 금조
   Mockingbird = 흉내지빠귀
   Passeri = 명금아목
-  Recent = 현세
   Tyranni = 타이란새아목
   Vocal mimicry = 소리 흉내
   bronchial tubes = 기관지
@@ -265,7 +260,6 @@ GLOSSARY:
   Mali = 말리
   Mali Empire = 말리 제국
   Morocco = 모로코
-  Muhammad = 무함마드
   Muhammad Ture = 무함마드 투레
   Pasha = 파샤
   Sahel = 사헬
@@ -322,9 +316,7 @@ Italian-born Indian politician and longest-serving president of the [[Indian Nat
 HEADWORD: Sonic boom = 소닉 붐
 LEVEL: 5
 GLOSSARY:
-  Mach = 마하
   Mach number = 마하수
-  Sound = 소리
   Speed of sound = 음속
   Thunder = 천둥
   shock waves = 충격파
@@ -341,7 +333,6 @@ GLOSSARY:
   Sega = 세가
   Sega Genesis = 세가 제네시스
   Sonic Team = 소닉 팀
-  Video = 비디오
   Video game = 비디오 게임
   fan art = 팬 아트
   fan games = 팬 게임
@@ -356,7 +347,6 @@ GLOSSARY:
   Figure skating = 피겨 스케이팅
   Hollywood = 할리우드
   Katarina Witt = 카타리나 비트
-  Norwegian = 노르웨이어
   Sun Valley Serenade = 「선 밸리 세레나데」
   Thin Ice = 「얇은 얼음」
   women's singles = 여자 싱글
@@ -461,10 +451,8 @@ Chinese politician and activist, the wife of [[Sun Yat-sen]] and known as the "M
 HEADWORD: Soot = 그을음
 LEVEL: 5
 GLOSSARY:
-  Black = 검은색
   Black carbon = 블랙 카본
   Cancer = 암
-  Carbon = 탄소
   Carbon black = 카본 블랙
   Carcinogen = 발암 물질
   Coal = 석탄
@@ -515,8 +503,6 @@ GLOSSARY:
   Plato = 플라톤
   Protagoras = 프로타고라스
   Rhetoric = 수사학
-  Sophists = 소피스트
-  Today = 「투데이」
 ENTRY:
 Professional itinerant teacher in [[Ancient Greece]] during the fifth and fourth centuries BC. Sophists taught subjects such as [[Philosophy|philosophy]], [[Rhetoric|rhetoric]], music, athletics and mathematics, and sold their tutoring mainly to young statesmen and nobility. The first credited sophist, Protagoras, argued that "man is the measure of all things" and openly strove to "make the weaker argument the stronger". Critics among the philosophers of [[Classical Athens]], notably [[Plato]] and [[Aristotle]], faulted sophists for valuing clever speech over the pursuit of truth, and their name later became a term of disparagement. Today a sophist is a person who reasons with clever but deceptive or intellectually dishonest arguments.
 
@@ -581,8 +567,6 @@ GLOSSARY:
   Indian subcontinent = 인도 아대륙
   Maize = 옥수수
   Millet = 기장
-  People = 『피플』
-  Sorghum = 수수
   Sorghum bicolor = Sorghum bicolor
   Sudan = 수단
   durra = 두라
@@ -595,7 +579,6 @@ Grass species (*Sorghum bicolor*) grown for grain and forage. It is typically an
 HEADWORD: Sorting algorithm = 정렬 알고리즘
 LEVEL: 5
 GLOSSARY:
-  Algorithm = 알고리즘
   Betty Holberton = 베티 홀버턴
   Bubble sort = 거품 정렬
   ENIAC = 에니악
@@ -628,7 +611,6 @@ GLOSSARY:
   Plato = 플라톤
   Socrates = 소크라테스
   Taoism = 도교
-  Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
   anattā = 무아
   epiphenomenalism = 부수 현상론
@@ -669,7 +651,6 @@ GLOSSARY:
   Rhythm and blues = 리듬 앤드 블루스
   Rock music = 록 음악
   Sam Cooke = 샘 쿡
-  Soul = 영혼
   Stax = 스택스 레코드
   United States = 미국
   call-and-response = 콜 앤드 리스폰스
@@ -690,8 +671,6 @@ GLOSSARY:
   Hearing = 청각
   Medical imaging = 의료 영상
   Music = 음악
-  Pressure = 압력
-  Sound = 소리
   Speed of sound = 음속
   Vacuum = 진공
   Viscosity = 점성
@@ -760,7 +739,6 @@ GLOSSARY:
   California = 캘리포니아주
   California Gold Rush = 캘리포니아 골드러시
   Fermentation = 발효
-  French = 프랑스어
   Gold = 금
   Klondike = 클론다이크
   Klondike Gold Rush = 클론다이크 골드러시
@@ -768,7 +746,6 @@ GLOSSARY:
   Middle Ages = 중세
   Northern California = 북부 캘리포니아
   San Francisco = 샌프란시스코
-  Sourdough = 사워도
   Yukon = 유콘준주
   barm = 맥주 효모 거품
   lactic acid = 젖산
@@ -809,10 +786,8 @@ GLOSSARY:
   Commonwealth = 영연방
   Commonwealth of Nations = 영연방
   Cradle of Humankind = 인류의 요람
-  Crime = 범죄
   Cyril Ramaphosa = 시릴 라마포사
   Dutch = 네덜란드어
-  Following = 「미행」
   G20 = 주요 20개국
   Gauteng = 하우텡주
   Gini coefficient = 지니 계수
@@ -876,13 +851,11 @@ GLOSSARY:
   Cape = 케이프
   Cape Verde = 카보베르데
   Cape Verde Islands = 카보베르데 제도
-  Caral = 카랄
   Caribbean = 카리브
   Caribbean Sea = 카리브해
   Chavín = 차빈
   Chile = 칠레
   Colombia = 콜롬비아
-  Continent = 대륙
   Curaçao = 퀴라소
   Cusco = 쿠스코
   Drake Passage = 드레이크 해협
@@ -1040,7 +1013,6 @@ GLOSSARY:
   Revolutionary War = 독립 전쟁
   Southeastern United States = 미국 남동부
   Thirteen Colonies = 13개 식민지
-  Today = 「투데이」
   United States = 미국
   civil rights = 민권
   civil rights movement = 민권 운동

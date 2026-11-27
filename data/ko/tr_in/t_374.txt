@@ -62,7 +62,6 @@ GLOSSARY:
   Paint = 페인트
   Peru = 페루
   Transition metal = 전이 금속
-  Zinc = 아연
   Zinc sulfide = 황화 아연
   cofactor = 보조 인자
   periodic table = 주기율표
@@ -88,7 +87,6 @@ GLOSSARY:
   FIFA World Player of the Year = FIFA 올해의 선수
   France = 프랑스
   France national team = 프랑스 국가대표팀
-  French = 프랑스어
   Juventus = 유벤투스
   Juventus FC = 유벤투스 FC
   Madrid = 마드리드
@@ -192,7 +190,6 @@ GLOSSARY:
   Paris = 파리
   Paris Saint-Germain = 파리 생제르맹
   Sweden = 스웨덴
-  Swedish = 스웨덴어
 ENTRY:
 Swedish former striker known for acrobatic strikes and volleys, regarded as one of the greatest strikers of all time. He won 34 trophies, including four consecutive [[Ligue 1|Ligue 1]] titles with Paris Saint-Germain, and scored more than 500 club goals. He also played for Ajax, Juventus, [[Inter Milan|Inter Milan]], [[AC Milan|AC Milan]] and Manchester United. His 35-yard bicycle kick for Sweden against England won the FIFA Puskás Award in 2013. He was Sweden's record goalscorer with 62 goals and scored in four consecutive decades, from the 1990s to the 2020s.
 
@@ -263,14 +260,12 @@ GLOSSARY:
   Age of Enlightenment = 계몽주의 시대
   Australia = 오스트레일리아
   Enlightenment = 계몽주의
-  Government = 정부
   Houston = 휴스턴
   Industrial Revolution = 산업 혁명
   South Australia = 사우스오스트레일리아주
   Texas = 텍사스주
   United Kingdom = 영국
   Urban planning = 도시 계획
-  Zoning = 용도 지역제
   form-based zoning = 형태 기반 용도지역제
   minimum lot sizes = 최소 대지 면적
   variances = 예외 허가
@@ -281,7 +276,6 @@ Government policy dividing a jurisdiction into zones, each with its own rules fo
 HEADWORD: Zoo = 동물원
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Carl Hagenbeck = 카를 하겐베크
   Enclosure = 인클로저
   Germany = 독일
@@ -380,7 +374,6 @@ GLOSSARY:
   Avesta = 『아베스타』
   Avestan period = 아베스타 시대
   Behdin = 베흐딘
-  Fire = 불
   Gathas = 가타
   India = 인도
   Indian subcontinent = 인도 아대륙
@@ -441,7 +434,6 @@ GLOSSARY:
   Mesoamerica = 메소아메리카
   Milan = 밀라노
   United States = 미국
-  Zucchini = 애호박
   courgette = 쿠르제트
   cucurbitacins = 쿠쿠르비타신
   pepo = 박과 열매
@@ -462,7 +454,6 @@ GLOSSARY:
   Shaka = 샤카
   South Africa = 남아프리카 공화국
   Southern Africa = 남아프리카
-  Today = 「투데이」
   Umhlanga = 움랑가
   ethnic group = 민족 집단
   southern Africa = 남아프리카
@@ -547,7 +538,6 @@ GLOSSARY:
   Cambridge = 케임브리지
   Chalcolithic = 동석기 시대
   Ian Hodder = 이언 호더
-  James = 야고보
   James Mellaart = 제임스 멜라트
   Konya = 코냐
   Konya Plain = 코냐 평원
@@ -604,7 +594,6 @@ LEVEL: 4
 GLOSSARY:
   Europe = 유럽
   France = 프랑스
-  French = 프랑스어
   Hymne à l'amour = 「사랑의 찬가」
   L'Homme de Berlin = 「베를린의 남자」
   La Vie en rose = 「라 비 앙 로즈」
@@ -626,7 +615,6 @@ GLOSSARY:
   Academy = 아카데미
   Courbet = 쿠르베
   Diego Velázquez = 디에고 벨라스케스
-  French = 프랑스어
   Gustave Courbet = 귀스타브 쿠르베
   Impressionism = 인상주의
   Louvre = 루브르 박물관
@@ -666,7 +654,6 @@ GLOSSARY:
   Mongol invasions = 몽골의 침입
   Mongol invasions of Korea = 몽골의 고려 침입
   Poland = 폴란드
-  Second = 초
   Subutai = 수부타이
   ortogh = 오르탁
 ENTRY:
@@ -716,7 +703,6 @@ GLOSSARY:
   Comte = 콩트
   Elementary = 「엘리멘트리」
   Forms = 이데아
-  French = 프랑스어
   Karl Marx = 카를 마르크스
   L'Année sociologique = 『사회학 연보』
   Labor = 노동당
@@ -746,7 +732,6 @@ GLOSSARY:
   Alfred Dreyfus = 알프레드 드레퓌스
   Cézanne = 세잔
   Dreyfus affair = 드레퓌스 사건
-  French = 프랑스어
   Literature = 문학
   Napoleon = 나폴레옹
   Napoleon III = 나폴레옹 3세
@@ -887,7 +872,6 @@ GLOSSARY:
   Augustin-Louis Cauchy = 오귀스탱 루이 코시
   Cauchy = 코시
   Duel = 결투
-  French = 프랑스어
   Galois = 갈루아
   Galois theory = 갈루아 이론
   Group theory = 군론
@@ -912,9 +896,7 @@ GLOSSARY:
   Mediterranean = 지중해
   Mediterranean climate = 지중해성 기후
   Neolithic = 신석기 시대
-  Port = 항구
   Smyrna = 스미르나
-  Today = 「투데이」
   Turkish = 튀르키예어
   classical antiquity = 고전 고대
   İzmir = 이즈미르

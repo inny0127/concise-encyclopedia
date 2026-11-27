@@ -15,7 +15,6 @@ GLOSSARY:
   India = 인도
   Mediterranean = 지중해
   Mediterranean Sea = 지중해
-  Okra = 오크라
   Southern United States = 미국 남부
   Sudan = 수단
   United States = 미국
@@ -164,11 +163,9 @@ LEVEL: 4
 GLOSSARY:
   Christianity = 기독교
   Christianization = 기독교화
-  Cosmology = 우주론
   Germanic paganism = 게르만 이교
   Germanic peoples = 게르만족
   Germanic religion = 게르만 종교
-  Knowledge = 지식
   Midgard = 미드가르드
   Norse = 노르드인
   Norse mythology = 북유럽 신화
@@ -195,7 +192,6 @@ GLOSSARY:
   Aramaic = 아람어
   Bible = 성경
   Catholic = 가톨릭
-  Christians = 기독교인
   Eastern and Oriental Orthodox churches = 동방 정교회와 오리엔트 정교회
   Exodus = 출애굽
   Hebrew = 히브리어
@@ -220,8 +216,6 @@ HEADWORD: Old World flycatcher = 솔딱새과
 LEVEL: 4
 GLOSSARY:
   American Ornithologists' Union = 미국 조류학회
-  Broad = 브로드강
-  Family = 가족
   John = 존
   John Fleming = 존 플레밍
   Latin = 라틴어
@@ -272,7 +266,6 @@ GLOSSARY:
   Estrildidae = 납부리새과
   Eurasian = 유라시아판
   Eurasian tree sparrow = 참새
-  Family = 가족
   French = 프랑스어
   House sparrow = 집참새
   Montifringilla = Montifringilla
@@ -382,7 +375,6 @@ GLOSSARY:
   Africa = 아프리카
   Asia = 아시아
   Australia = 오스트레일리아
-  Family = 가족
   Flowering plant = 속씨식물
   Fraxinus = 물푸레나무속
   Genus = 속
@@ -487,7 +479,6 @@ GLOSSARY:
   Oleaceae = 물푸레나뭇과
   Olive = 올리브
   Peach = 복숭아
-  Spain = 스페인
   Strait = 해협
   Strait of Gibraltar = 지브롤터 해협
   drupe = 핵과
@@ -504,7 +495,6 @@ GLOSSARY:
   Civil War = 남북 전쟁
   Commonwealth = 영연방
   Commonwealth of England = 잉글랜드 공화국
-  Cromwell = 「크롬웰」
   England = 잉글랜드
   English Civil War = 잉글랜드 내전
   Ireland = 아일랜드
@@ -632,8 +622,6 @@ HEADWORD: Olivine = 감람석
 LEVEL: 5
 GLOSSARY:
   Igneous rock = 화성암
-  Magnesium = 마그네슘
-  Olivine = 감람석
   Peridot = 페리도트
   Red Sea = 홍해
   Zabargad Island = 자바르가드섬
@@ -763,7 +751,6 @@ GLOSSARY:
   Mons = 몬족
   Mount Everest = 에베레스트산
   Olympus Mons = 올림푸스산
-  Shield = 방패
   Shield volcano = 순상 화산
   Tharsis = 타르시스
   hotspot = 열점
@@ -843,7 +830,6 @@ GLOSSARY:
   Peninsula = 반도
   Qaboos bin Said = 카부스 빈 사이드
   Renaissance = 르네상스
-  Sultan = 술탄
   United Nations = 국제 연합
   West Asia = 서아시아
   Zanzibar = 잔지바르
@@ -912,7 +898,6 @@ GLOSSARY:
   César Award for Best Actor = 세자르상 남우주연상
   France = 프랑스
   Fred Testot = 프레드 테스토
-  French = 프랑스어
   Future = 미래
   Jurassic = 쥐라기
   Jurassic World = 「쥬라기 월드」
@@ -929,7 +914,6 @@ HEADWORD: Omdurman = 옴두르만
 LEVEL: 4
 GLOSSARY:
   Battle of Omdurman = 옴두르만 전투
-  City = 도시
   Horatio Herbert Kitchener = 허레이쇼 허버트 키치너
   Khartoum = 하르툼
   Kitchener = 키치너
@@ -982,7 +966,6 @@ HEADWORD: Omsk = 옴스크
 LEVEL: 4
 GLOSSARY:
   China = 중국
-  City = 도시
   Civil War = 남북 전쟁
   Irtysh = 이르티시강
   Krasnoyarsk = 크라스노야르스크

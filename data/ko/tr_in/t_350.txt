@@ -68,7 +68,6 @@ GLOSSARY:
   David Lynch = 데이비드 린치
   Detective fiction = 추리 소설
   FBI = 연방 수사국
-  Fire = 불
   Frost = 서리
   Laura Palmer = 로라 파머
   Mark Frost = 마크 프로스트
@@ -97,7 +96,6 @@ GLOSSARY:
   South Asia = 남아시아
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Twin = 쌍둥이
   Yoruba people = 요루바족
   chromosomal sex = 염색체 성
   dizygotic = 이란성
@@ -151,7 +149,6 @@ HEADWORD: Brahe, Tycho = 브라헤, 티코
 LEVEL: 4
 GLOSSARY:
   Christian IV = 크리스티안 4세
-  Danish = 덴마크어
   Denmark = 덴마크
   Earth = 지구
   Europe = 유럽
@@ -295,7 +292,6 @@ GLOSSARY:
   Asia = 아시아
   Australia = 오스트레일리아
   Doxycycline = 독시사이클린
-  Epidemic = 전염병
   Epidemic typhus = 발진티푸스
   Flea = 벼룩
   Japan = 일본
@@ -329,7 +325,6 @@ GLOSSARY:
   Personal computer = 개인용 컴퓨터
   Song dynasty = 송나라
   Type design = 서체 디자인
-  Typography = 타이포그래피
   metal movable type = 금속 활자
   movable type = 활자
   point sizes = 포인트 크기
@@ -391,7 +386,6 @@ LEVEL: 4
 GLOSSARY:
   Americas = 아메리카
   Canada = 캐나다
-  Family = 가족
   Myiornis = 미이오르니스속
   Old World = 구세계
   Old World flycatchers = 솔딱새과
@@ -414,7 +408,6 @@ GLOSSARY:
   Alexander the Great = 알렉산드로스 대왕
   Baalbek = 바알베크
   Beirut = 베이루트
-  City = 도시
   Europa = 에우로페
   Lebanon = 레바논
   Palestinian refugee camps = 팔레스타인 난민촌
@@ -497,7 +490,6 @@ HEADWORD: Tyto = 가면올빼미속
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Barn = 헛간
   Genus = 속
   Himalayas = 히말라야산맥
   International Ornithological Committee = 국제 조류학 위원회
@@ -520,7 +512,6 @@ GLOSSARY:
   Edge = 엣지
   Grammy = 그래미상
   Grammy Awards = 그래미상
-  Irish = 아일랜드어
   Joshua = 여호수아
   Live Aid = 라이브 에이드
   The Joshua Tree = 「더 조슈아 트리」
@@ -647,7 +638,6 @@ GLOSSARY:
   Nobel Peace Prize = 노벨 평화상
   Peace = 평화
   Sanitation = 위생
-  UNICEF = 유니세프
   United Nations = 국제 연합
   United Nations Children's Fund = 국제 연합 아동 기금
   United Nations International Children's Emergency Fund = 국제 연합 국제 아동 긴급 기금
@@ -713,7 +703,6 @@ LEVEL: 5
 GLOSSARY:
   Arizona = 애리조나주
   Attack on Pearl Harbor = 진주만 공격
-  Battleship = 전함
   Harbor = 항구
   Navy = 해군
   Paris = 파리
@@ -764,7 +753,6 @@ LEVEL: 5
 GLOSSARY:
   Arlington = 알링턴
   Arlington National Cemetery = 알링턴 국립묘지
-  Battleship = 전함
   Cuban War of Independence = 쿠바 독립 전쟁
   Harbor = 항구
   Havana = 아바나
@@ -819,7 +807,6 @@ GLOSSARY:
   National Scenic Byway = 국립 경관 도로
   Santa Monica = 샌타모니카
   The Grapes of Wrath = 『분노의 포도』
-  Traffic = 「트래픽」
   U.S. Highway = 미국 국도
   U.S. Highway System = 미국 국도망
   U.S. Highways = 미국 국도
@@ -839,7 +826,6 @@ GLOSSARY:
   Texas v. White = 텍사스 대 화이트 사건
   United States = 미국
   United States Congress = 미국 의회
-  White = 흰색
   county equivalents = 카운티급 행정 구역
 ENTRY:
 Constituent political entity of the United States, of which there are 50. Each state holds jurisdiction over a defined territory and shares sovereignty with the federal government, so Americans are citizens of both the federal republic and their state. States are divided into [[County (United States)|counties]] or county equivalents. States are represented in the [[United States Congress]] and select electors for the Electoral College. Congress admits new states, each on an equal footing with the others. The Supreme Court held in *Texas v. White* (1869) that the Constitution does not permit unilateral secession. The balance of state and federal power remains debated.
@@ -849,10 +835,8 @@ HEADWORD: U-boat = U보트
 LEVEL: 5
 GLOSSARY:
   Battle of the Atlantic = 대서양 전투
-  German = 독일어
   Karl Dönitz = 카를 되니츠
   U-boat = U보트
-  U-boats = U보트
   United Kingdom = 영국
   United States = 미국
   Unterseeboot = 운터제보트

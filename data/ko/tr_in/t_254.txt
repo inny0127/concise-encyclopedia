@@ -9,11 +9,8 @@ GLOSSARY:
   Chemical element = 화학 원소
   Montana = 몬태나주
   Ontario = 온타리오주
-  Palladium = 팔라듐
   Pallas = 팔라스
   Platinum = 백금
-  Rare = 「Rare」
-  Recycling = 재활용
   Rhodium = 로듐
   Russia = 러시아
   South Africa = 남아프리카 공화국
@@ -45,7 +42,6 @@ GLOSSARY:
   Mongolia = 몽골
   Otocolobus manul = Otocolobus manul
   Pallas = 팔라스
-  Peter = 베드로
   Peter Simon Pallas = 페터 지몬 팔라스
   Red List = 적색 목록
   Tibet = 티베트
@@ -111,7 +107,6 @@ GLOSSARY:
   C.J. Parker = C. J. 파커
   Chicago = 「시카고」
   Month = 월
-  PETA = PETA
   People = 『피플』
   Playboy = 『플레이보이』
   Playmate = 플레이메이트
@@ -156,7 +151,6 @@ GLOSSARY:
   John = 존
   John F. Kennedy = 존 F. 케네디
   John F. Kennedy International Airport = 존 F. 케네디 국제공항
-  Kennedy = 케네디
   New York City = 뉴욕
   Pan Am = 팬 아메리칸 항공
   Pan American World Airways = 팬아메리칸 월드 항공
@@ -199,14 +193,12 @@ GLOSSARY:
   Canada = 캐나다
   City = 도시
   Colombia = 콜롬비아
-  Construction = 건설
   Darién Gap = 다리엔 갭
   Highway = 고속도로
   Inter-American Highway = 미주 간 고속도로
   Laredo = 러레이도
   Mexico = 멕시코
   Mexico City = 멕시코시티
-  Network = 「네트워크」
   Panama = 파나마
   Panama City = 파나마시티
   Prudhoe Bay = 프루도베이
@@ -273,7 +265,6 @@ LEVEL: 4
 GLOSSARY:
   Chagres River = 차그레스강
   Drake Passage = 드레이크 해협
-  French = 프랑스어
   Gatun Lake = 가툰호
   Isthmus = 지협
   Isthmus of Panama = 파나마 지협
@@ -341,7 +332,6 @@ GLOSSARY:
   Bosnian = 보스니아어
   Bosnian War = 보스니아 전쟁
   British Aerospace = 브리티시 에어로스페이스
-  Family = 가족
   Germany = 독일
   Gulf War = 걸프 전쟁
   Iraq = 이라크
@@ -415,7 +405,6 @@ HEADWORD: Pancreas = 이자
 LEVEL: 4
 GLOSSARY:
   Diabetes = 당뇨병
-  Inflammation = 염증
   Insulin = 인슐린
   duodenum = 십이지장
   endocrine = 내분비
@@ -447,14 +436,12 @@ HEADWORD: Pandanus = 판다누스
 LEVEL: 4
 GLOSSARY:
   Australia = 오스트레일리아
-  Genus = 속
   Madagascar = 마다가스카르
   Malaysia = 말레이시아
   Old World = 구세계
   Oligocene = 올리고세
   Pandanus estellae = Pandanus estellae
   Queensland = 퀸즐랜드주
-  Species = 종
   World = 세계
   dioecious = 암수딴그루
   drupes = 핵과
@@ -474,7 +461,6 @@ GLOSSARY:
   COVID-19 = 코로나19
   COVID-19 pandemic = 코로나19 범유행
   Death = 죽음
-  Epidemic = 전염병
   H1N1 = H1N1
   H1N1 influenza = H1N1 인플루엔자
   Spanish flu = 스페인 독감
@@ -516,7 +502,6 @@ GLOSSARY:
   Alfred = 앨프레드 대왕
   Alfred North Whitehead = 앨프리드 노스 화이트헤드
   Baruch Spinoza = 바뤼흐 스피노자
-  Belief = 믿음
   Charles Hartshorne = 찰스 하츠혼
   England = 잉글랜드
   Friedrich Wilhelm Joseph Schelling = 프리드리히 빌헬름 요제프 셸링
@@ -539,7 +524,6 @@ Belief that the divine intersects every part of the universe and also extends be
 HEADWORD: Pangaea = 판게아
 LEVEL: 4
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred Wegener = 알프레트 베게너
   Carboniferous = 석탄기
   Carboniferous period = 석탄기
@@ -553,7 +537,6 @@ GLOSSARY:
   Panthalassa = 판탈라사
   Plate tectonics = 판 구조론
   Siberia = 시베리아
-  Supercontinent = 초대륙
   centrifugal force = 원심력
   continental drift = 대륙 이동설
   mantle convection = 맨틀 대류
@@ -567,9 +550,7 @@ LEVEL: 4
 GLOSSARY:
   Ant = 개미
   Asia = 아시아
-  IUCN = 국제 자연 보전 연맹
   International Union for Conservation of Nature = 국제 자연 보전 연맹
-  Mammal = 포유류
   Manidae = 천산갑과
   Manis = 천산갑속
   Nature = 『네이처』
@@ -709,7 +690,6 @@ HEADWORD: Panthera = 표범속
 LEVEL: 5
 GLOSSARY:
   Felidae = 고양잇과
-  Genus = 속
   Jaguar = 재규어
   Leopard = 표범
   Lion = 사자
@@ -744,7 +724,6 @@ HEADWORD: Maldini, Paolo = 말디니, 파올로
 LEVEL: 5
 GLOSSARY:
   AC Milan = AC 밀란
-  Captain = 선장
   Champions League = 챔피언스리그
   Euro = 유로
   Euro 2000 = 유로 2000
@@ -821,7 +800,6 @@ GLOSSARY:
   Linnaeus = 린네
   Mediterranean = 지중해
   Opium = 아편
-  Species = 종
   breadseed poppy = 빵씨양귀비
   latex = 유액
   opium poppy = 양귀비
@@ -872,7 +850,6 @@ GLOSSARY:
   Han = 한나라
   Industrial Revolution = 산업 혁명
   Islamic world = 이슬람 세계
-  Knowledge = 지식
   Latin = 라틴어
   Panjikent = 판자켄트
   Papyrus = 파피루스
@@ -902,7 +879,6 @@ GLOSSARY:
   French = 프랑스어
   French Revolution = 프랑스 혁명
   Napoleon = 나폴레옹
-  Paper = 종이
   Paper money = 지폐
   Song dynasty = 송나라
   Stockholms Banco = 스톡홀름 은행
@@ -932,11 +908,9 @@ GLOSSARY:
   Hungary = 헝가리
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
-  Paprika = 파프리카
   Portugal = 포르투갈
   Serbian = 세르비아어
   Spain = 스페인
-  Spice = 향신료
   Szeged = 세게드
   Western Europe = 서유럽
 ENTRY:

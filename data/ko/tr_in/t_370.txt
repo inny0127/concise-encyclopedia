@@ -22,7 +22,6 @@ GLOSSARY:
   COVID-19 = 코로나19
   COVID-19 pandemic = 코로나19 범유행
   China = 중국
-  City = 도시
   Han rivers = 한수이강
   Hankou = 한커우
   Hanyang = 한양
@@ -49,7 +48,6 @@ HEADWORD: Wuthering Heights = 폭풍의 언덕
 LEVEL: 4
 GLOSSARY:
   Bell = 종
-  Charlotte = 샬럿
   Charlotte Brontë = 샬럿 브론테
   Earnshaws = 언쇼 가
   Ellis Bell = 엘리스 벨
@@ -59,7 +57,6 @@ GLOSSARY:
   Gothic fiction = 고딕 소설
   Heathcliff = 히스클리프
   Lintons = 린턴 가
-  Novel = 소설
   Romanticism = 낭만주의
   Victorian = 빅토리아 시대
   West Yorkshire = 웨스트요크셔
@@ -73,11 +70,8 @@ LEVEL: 5
 GLOSSARY:
   China = 중국
   Chivalry = 기사도
-  Genre = 장르
-  Heroes = 「히어로즈」
   Jin Yong = 진융
   Sima Qian = 사마천
-  Stories = 스토리
   Tang = 당나라
   Tang dynasty = 당나라
   Warring States = 전국 시대
@@ -147,7 +141,6 @@ LEVEL: 5
 GLOSSARY:
   8086 = 8086
   ARM = ARM
-  Family = 가족
   IBM PC = IBM PC
   Intel = 인텔
   Smartphone = 스마트폰
@@ -172,7 +165,6 @@ GLOSSARY:
   Marvel = 마블
   Marvel Comics = 마블 코믹스
   Stan Lee = 스탠 리
-  Stories = 스토리
   Superhero = 슈퍼히어로
   The X-Men = 『엑스맨』
   X-gene = 엑스 유전자
@@ -184,11 +176,9 @@ HEADWORD: X-ray = 엑스선
 LEVEL: 4
 GLOSSARY:
   Radiography = 방사선 촬영
-  Wilhelm = 빌헬름
   Wilhelm Conrad Röntgen = 빌헬름 콘라트 뢴트겐
   X-radiation = X선
   X-ray = 엑스선
-  X-rays = 엑스선
   electromagnetic radiation = 전자기 복사
   gamma rays = 감마선
   ionizing radiation = 전리 방사선
@@ -223,7 +213,6 @@ GLOSSARY:
   Microsoft Studios = 마이크로소프트 스튜디오
   Series S = 시리즈 S
   United States = 미국
-  Video = 비디오
   Xbox = 엑스박스
   Xbox (console) = 엑스박스
   Xbox 360 = 엑스박스 360
@@ -657,7 +646,6 @@ LEVEL: 5
 GLOSSARY:
   Dog = 개
   European Union = 유럽 연합
-  Sugar = 설탕
   Sugar alcohol = 당알코올
   United States = 미국
   birch sugar = 자작나무 설탕
@@ -672,7 +660,6 @@ HEADWORD: Xylophone = 실로폰
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Camille = 「춘희」
   Camille Saint-Saëns = 카미유 생상스
   Danse Macabre = 「죽음의 무도」
   Orchestra = 관현악단
@@ -772,7 +759,6 @@ GLOSSARY:
   Iron = 철
   Iron Age = 철기 시대
   Israel-Samaria = 이스라엘(사마리아)
-  Israelite = 이스라엘인
   Israelite religion = 고대 이스라엘 종교
   Jews = 유대인
   Judah = 유다
@@ -823,7 +809,6 @@ GLOSSARY:
   River = 강
   Russia = 러시아
   Sakha Republic = 사하 공화국
-  Yakutsk = 야쿠츠크
 ENTRY:
 Capital and largest city of the [[Sakha Republic]], Russia, about 450 km (280 mi) south of the [[Arctic Circle]]. Fueled by mining, it had a population of 355,443 at the 2021 census. Its average annual temperature is −8.0 °C (17.6 °F), and a record low of −64.4 °C (−83.9 °F) has been recorded. It is the coldest city of more than 200,000 people in the world, though some smaller towns in the region are colder. Yakutsk is the largest city built on continuous [[Permafrost|permafrost]], and it is a major port on the [[Lena River]].
 

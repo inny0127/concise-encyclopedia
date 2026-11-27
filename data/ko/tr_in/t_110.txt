@@ -30,7 +30,6 @@ GLOSSARY:
   Atatürk Dam = 아타튀르크 댐
   Hydropower = 수력 발전
   Iraq = 이라크
-  Irrigation = 관개
   Mesopotamia = 메소포타미아
   Persian = 페르시아어
   Persian Gulf = 페르시아만
@@ -79,7 +78,6 @@ GLOSSARY:
   Eurasian = 유라시아판
   Eurasian Land Bridge = 유라시아 대륙교
   Europe = 유럽
-  Grassland = 초원
   Great Steppe = 대초원
   Hungary = 헝가리
   Kazakhstan = 카자흐스탄
@@ -237,7 +235,6 @@ GLOSSARY:
   Galilean moons = 갈릴레이 위성
   Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
-  Hubble = 허블
   Hubble Space Telescope = 허블 우주 망원경
   Juno = 유노
   Jupiter = 목성
@@ -275,7 +272,6 @@ GLOSSARY:
   Caspian Sea = 카스피해
   Caucasus = 캅카스
   Cold War = 냉전
-  Continent = 대륙
   Council of Europe = 유럽 평의회
   Eastern Hemisphere = 동반구
   Eurasia = 유라시아
@@ -413,7 +409,6 @@ GLOSSARY:
   Maastricht Treaty = 마스트리흐트 조약
   Netherlands = 네덜란드
   Nobel Peace Prize = 노벨 평화상
-  Passport = 여권
   Peace = 평화
   Schengen = 솅겐
   Schengen Area = 솅겐 지역
@@ -448,7 +443,6 @@ HEADWORD: European badger = 유럽오소리
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Badger = 오소리
   Carnivora = 식육목
   Central Asia = 중앙아시아
   Earthworm = 지렁이
@@ -476,7 +470,6 @@ GLOSSARY:
   Aurochs = 오록스
   Belarus = 벨라루스
   Białowieża = 비아워비에자
-  Bison = 들소
   Carl Linnaeus = 칼 폰 린네
   Caucasian wisent = 캅카스들소
   Europe = 유럽
@@ -622,7 +615,6 @@ GLOSSARY:
   Chemical element = 화학 원소
   Eugène-Anatole Demarçay = 외젠아나톨 드마르세
   Europe = 유럽
-  Europium = 유로퓸
   Feldspar = 장석
   Lanthanide = 란타넘족
   Light-emitting diode = 발광 다이오드
@@ -713,7 +705,6 @@ GLOSSARY:
   Constantine the Great = 콘스탄티누스 1세
   Demonstrations of the Gospel = 『복음의 증명』
   Ecclesiastical History = 『교회사』
-  Father = 아버지
   Father of Church history = 교회사의 아버지
   Gospel = 복음서
   Gospels = 복음서
@@ -740,7 +731,6 @@ GLOSSARY:
   Belgium = 벨기에
   Canada = 캐나다
   Coma = 혼수
-  Euthanasia = 안락사
   Murder = 살인
   Pain = 통증
   Passive euthanasia = 소극적 안락사
@@ -764,7 +754,6 @@ GLOSSARY:
   Berlin = 베를린
   Cyanide = 시안화물
   Führerbunker = 총통 벙커
-  German = 독일어
   Heinrich Hoffmann = 하인리히 호프만
   Hitler = 히틀러
   Munich = 뮌헨
@@ -886,7 +875,6 @@ GLOSSARY:
   Bible = 성경
   Christianity = 기독교
   Christians = 기독교인
-  Evangelicalism = 복음주의
   First Great Awakening = 제1차 대각성 운동
   George Whitefield = 조지 휫필드
   John = 존
@@ -909,7 +897,6 @@ LEVEL: 5
 GLOSSARY:
   ABC = ABC
   Best Actress = 여우주연상
-  Canadian = 캐나다
   Hope van Dyne = 호프 반 다인
   Kate Austen = 케이트 오스틴
   Lost = 「로스트」
@@ -934,7 +921,6 @@ Canadian actress and author. She gained popularity as Kate Austen in the ABC dra
 HEADWORD: Evaporation = 증발
 LEVEL: 4
 GLOSSARY:
-  Evaporation = 증발
   Hydrology = 수문학
   Kinetic energy = 운동 에너지
   Liquid = 액체

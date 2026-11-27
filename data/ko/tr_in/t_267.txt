@@ -35,7 +35,6 @@ GLOSSARY:
   Chronic obstructive pulmonary disease = 만성 폐쇄성 폐질환
   Influenza = 인플루엔자
   Lung = 폐
-  Pneumonia = 폐렴
   Respiratory syncytial virus = 호흡기 세포융합 바이러스
   Sickle = 낫
   Sickle cell disease = 낫적혈구병
@@ -110,7 +109,6 @@ GLOSSARY:
   Ben Hammersley = 벤 해머슬리
   Bloomberg = 블룸버그
   Computer = 컴퓨터
-  Episodes = 에피소드
   Internet = 인터넷
   Microphone = 마이크로폰
   RSS feeds = RSS 피드
@@ -139,7 +137,6 @@ GLOSSARY:
   Pacific = 태평양
   Podocarpaceae = 나한송과
   South America = 남아메리카
-  Species = 종
   conifers = 침엽수
   receptacle = 꽃턱
 ENTRY:
@@ -254,7 +251,6 @@ GLOSSARY:
   Ricci flow = 리치 흐름
   Richard = 리처드
   Science (journal) = 『사이언스』
-  Theorem = 정리
   Year = 해
   arXiv = 아카이브
   geometric topology = 기하학적 위상수학
@@ -278,7 +274,6 @@ GLOSSARY:
   Mexico = 멕시코
   Paul = 바울로
   Paul Ecke Ranch = 폴 에크 랜치
-  Species = 종
   United States = 미국
   bracts = 포엽
   petals = 꽃잎
@@ -324,13 +319,11 @@ LEVEL: 5
 GLOSSARY:
   Alkaloid = 알칼로이드
   Ant = 개미
-  Family = 가족
   Frog = 개구리
   Mite = 진드기
   Phyllobates = 필로바테스속
   South America = 남아메리카
   Termite = 흰개미
-  Toxicity = 독성
   aposematism = 경계색
   cryptically colored = 은폐색
   human development = 인간 개발
@@ -407,16 +400,12 @@ GLOSSARY:
   As-Nas = 아스나스
   Card game = 카드 게임
   Expected value = 기댓값
-  Family = 가족
   French = 프랑스어
   Game = 게임
   Game theory = 게임 이론
   Mississippi = 미시시피강
-  Money = 화폐
-  Poker = 포커
   Probability = 확률
   Psychology = 심리학
-  Texas = 텍사스주
   Texas hold 'em = 텍사스 홀덤
   ante = 앤티
   blind = 블라인드
@@ -445,8 +434,6 @@ GLOSSARY:
   Party = 파티
   Pol Pot = 폴 포트
   Ta Mok = 타 목
-  Vietnam = 베트남
-  Year = 해
   Year Zero = 0년
   house arrest = 가택 연금
   one-party state = 일당제 국가
@@ -529,7 +516,6 @@ Poland is a republic with a bicameral legislature of the Sejm and the Senate. It
 HEADWORD: Polar bear = 북극곰
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Arctic = 북극
   Bear = 곰
   Brown = 브라운
@@ -583,7 +569,6 @@ GLOSSARY:
   Polar night = 극야
   Sirius = 시리우스
   Sun = 태양
-  Twilight = 박명
   Venus = 금성
   civil twilight = 시민 박명
   polar circles = 극권
@@ -599,7 +584,6 @@ GLOSSARY:
   Arctic = 북극
   Canada = 캐나다
   Jet stream = 제트 기류
-  Ozone = 오존
   Ozone depletion = 오존층 파괴
   Polar night = 극야
   Southern Hemisphere = 남반구
@@ -643,7 +627,6 @@ GLOSSARY:
   Light = 빛
   Longitudinal waves = 종파
   Polarizer = 편광판
-  Property = 재산
   Radar = 레이더
   Sun = 태양
   circular = 원편광
@@ -715,7 +698,6 @@ GLOSSARY:
   Johann Christoph Friedrich GutsMuths = 요한 크리스토프 프리드리히 구츠무츠
   Long jump = 멀리뛰기
   Olympic Games = 올림픽
-  Poles = 폴란드인
   Track and field = 육상 경기
   ash = 물푸레나무
   glass fiber = 유리 섬유
@@ -787,7 +769,6 @@ GLOSSARY:
   List of Essential Medicines = 필수 의약품 목록
   Polio = 소아마비
   United States = 미국
-  Vaccine = 백신
   World = 세계
   World Health Organization = 세계 보건 기구
   inactivated poliovirus = 불활성화 폴리오바이러스
@@ -803,7 +784,6 @@ HEADWORD: Polish–Lithuanian Commonwealth = 폴란드-리투아니아 연방
 LEVEL: 4
 GLOSSARY:
   3 May Constitution = 5월 3일 헌법
-  Austria = 오스트리아
   Catholicism = 가톨릭
   Constitution = 헌법
   Constitutional monarchy = 입헌 군주제
@@ -847,7 +827,6 @@ GLOSSARY:
   Teutonic Knights = 튜턴 기사단
   Teutonic Order = 튜턴 기사단
   Thorn = 토룬
-  Wenceslaus = 바츨라프
   Wenceslaus IV of Bohemia = 보헤미아의 바츨라프 4세
   balance of power = 세력 균형
 ENTRY:
@@ -901,7 +880,6 @@ GLOSSARY:
   Józef Piłsudski = 유제프 피우수트스키
   Kyiv = 키이우
   Lenin = 레닌
-  Miracle = 기적
   Miracle on the Vistula = 비스와강의 기적
   Peace = 평화
   Poland = 폴란드
@@ -916,7 +894,6 @@ GLOSSARY:
   Soviet Russia = 소비에트 러시아
   Ukrainian = 우크라이나 소비에트 사회주의 공화국
   Vistula = 비스와강
-  Vladimir = 블라디미르
   Vladimir Lenin = 블라디미르 레닌
   Warsaw = 바르샤바
   World = 세계
@@ -987,7 +964,6 @@ GLOSSARY:
   Friedrich Hayek = 프리드리히 하이에크
   Human rights = 인권
   Michel Foucault = 미셸 푸코
-  Milton = 밀턴
   Milton Friedman = 밀턴 프리드먼
   Robin = 로빈
   Robin Hahnel = 로빈 해넬
@@ -1015,7 +991,6 @@ GLOSSARY:
   James Madison = 제임스 매디슨
   Madison = 매디슨
   Optimates = 옵티마테스
-  Others = 아더
   Party = 파티
   Populares = 포풀라레스
   Populism = 포퓰리즘

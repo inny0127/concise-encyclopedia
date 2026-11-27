@@ -7,7 +7,6 @@ GLOSSARY:
   Children's literature = 아동 문학
   Fantasy = 판타지
   Henry Liddell = 헨리 리들
-  John = 존
   John Tenniel = 존 테니얼
   Lewis Carroll = 루이스 캐럴
   Library = 도서관
@@ -100,8 +99,6 @@ GLOSSARY:
   Group 1 = 1군
   Lithium = 리튬
   Periodic table = 주기율표
-  Rubidium = 루비듐
-  Sodium = 나트륨
   Sodium chloride = 염화 나트륨
   Table salt = 식염
   cesium = 세슘
@@ -139,7 +136,6 @@ LEVEL: 4
 GLOSSARY:
   Amine = 아민
   Analgesic = 진통제
-  Broad = 브로드강
   Caffeine = 카페인
   Carl Friedrich Wilhelm Meissner = 카를 프리드리히 빌헬름 마이스너
   Cocaine = 코카인
@@ -150,7 +146,6 @@ GLOSSARY:
   Morphine = 모르핀
   Nicotine = 니코틴
   Opium = 아편
-  Stimulant = 각성제
   Wilhelm = 빌헬름
   amino acid = 아미노산
   atropine = 아트로핀
@@ -273,7 +268,6 @@ GLOSSARY:
   Education = 교육
   Glaucon = 글라우콘
   Plato = 플라톤
-  Prisoners = 「프리즈너스」
   Republic = 『국가』
   Socrates = 소크라테스
 ENTRY:
@@ -311,10 +305,8 @@ GLOSSARY:
   Asthma = 천식
   Atopic dermatitis = 아토피 피부염
   Clemens von Pirquet = 클레멘스 폰 피르케
-  Insect = 곤충
   Penicillin = 페니실린
   Pollen = 꽃가루
-  Skin = 피부
   allergic conjunctivitis = 알레르기 결막염
   allergic rhinitis = 알레르기 비염
   anaphylaxis = 아나필락시스
@@ -346,7 +338,6 @@ GLOSSARY:
   Declaration by United Nations = 연합국 공동 선언
   German = 독일어
   Harbor = 항구
-  Military = 군대
   Pearl = 진주
   Pearl Harbor = 진주만
   Republic = 『국가』
@@ -370,11 +361,9 @@ GLOSSARY:
   Empire of Japan = 일본 제국
   Entente = 협상국
   France = 프랑스
-  Germany = 독일
   Italy = 이탈리아
   Japan = 일본
   Kingdom of Italy = 이탈리아 왕국
-  Military = 군대
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
   Russian = 러시아어
@@ -389,7 +378,6 @@ Military coalition, also called the Entente, that opposed the [[Central Powers]]
 HEADWORD: Alligator = 앨리게이터
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Alligator = 앨리게이터
   American alligator = 아메리카앨리게이터
   China = 중국
@@ -455,10 +443,8 @@ HEADWORD: Allosaurus = 알로사우루스
 LEVEL: 4
 GLOSSARY:
   Antrodemus = 안트로데무스
-  Genus = 속
   Jurassic = 쥐라기
   Jurassic period = 쥐라기
-  Marsh = 소택지
   Morrison Formation = 모리슨층
   North America = 북아메리카
   Othniel C. Marsh = 오스니얼 C. 마시
@@ -482,7 +468,6 @@ GLOSSARY:
   Oxygen = 산소
   Ozone = 오존
   Phosphorus = 인
-  Property = 재산
   allotrope = 동소체
   body-centered cubic = 체심 입방
   dioxygen = 이산소
@@ -500,7 +485,6 @@ GLOSSARY:
   Bronze = 청동
   Electrum = 호박금
   Metallic bonding = 금속 결합
-  Mixture = 혼합물
   Stainless steel = 스테인리스강
   Steel = 강철
   brass = 황동
@@ -601,7 +585,6 @@ GLOSSARY:
   Middle East = 중동
   Nut (fruit) = 견과
   Prunus = 벚나무속
-  Species = 종
   drupe = 핵과
   marzipan = 마지판
 ENTRY:
@@ -614,7 +597,6 @@ GLOSSARY:
   Abdallah ibn Yasin = 압둘라 이븐 야신
   Al-Andalus = 알안달루스
   Almohads = 무와히드 왕조
-  Almoravid = 무라비트 왕조
   Arabic = 아랍어
   Berbers = 베르베르인
   Iberia = 이베리아반도
@@ -641,7 +623,6 @@ GLOSSARY:
   Alternative medicine = 대체 의학
   Arabian Peninsula = 아라비아반도
   Asphodelaceae = 아스포델루스과
-  Genus = 속
   India = 인도
   Indian Ocean = 인도양
   Liliaceae = 백합과
@@ -732,12 +713,9 @@ HEADWORD: Alpha particle = 알파 입자
 LEVEL: 4
 GLOSSARY:
   Ernest Rutherford = 어니스트 러더퍼드
-  Helium = 헬륨
   Ionization = 이온화
-  Once = 『Once』
   Radioactive decay = 방사성 붕괴
   Rutherford = 러더퍼드
-  Standard = 스탠더드
   alpha decay = 알파 붕괴
   alpha particles = 알파 입자
   cosmic rays = 우주선
@@ -764,7 +742,6 @@ GLOSSARY:
   Late Latin = 후기 라틴어
   Latin = 라틴어
   Peninsula = 반도
-  Peter = 베드로
   Peter T. Daniels = 피터 T. 대니얼스
   Phoenician = 페니키아
   Phoenician alphabet = 페니키아 문자
@@ -775,7 +752,6 @@ GLOSSARY:
   Ugarit = 우가리트
   Ugaritic = 우가리트 문자
   Wadi el-Hol = 와디 엘홀
-  Writing = 문자
   Writing system = 문자 체계
   abjads = 아브자드
   abugidas = 아부기다
@@ -853,7 +829,6 @@ GLOSSARY:
   Paleolithic = 구석기 시대
   Slovenia = 슬로베니아
   Switzerland = 스위스
-  Tourism = 관광
   Winter = 겨울
   Winter Olympic = 동계 올림픽
   Winter Olympic Games = 동계 올림픽
@@ -896,7 +871,6 @@ GLOSSARY:
   Carl Linnaeus = 칼 폰 린네
   Chile = 칠레
   Clas Alströmer = 클라스 알스트뢰메르
-  Genus = 속
   Incas = 잉카인
   Linnaeus = 린네
   Patagonian = 파타고니아

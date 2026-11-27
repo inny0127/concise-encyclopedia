@@ -17,7 +17,6 @@ GLOSSARY:
   Montenegro = 몬테네그로
   Serbia = 세르비아
   Serbian = 세르비아어
-  Serbo-Croatian = 세르보크로아트어
   Socialist = 사회당
   Socialist Federal Republic = 사회주의 연방 공화국
   South Slavic = 남슬라브어
@@ -46,7 +45,6 @@ GLOSSARY:
   US Open = US 오픈
   Venus = 금성
   WTA Tour = WTA 투어
-  Williams = 윌리엄스
 ENTRY:
 American professional [[Tennis|tennis]] player. Williams turned professional in 1995 and won her first major singles title at the 1999 US Open. She won 73 WTA Tour singles titles, including 23 major singles titles, the most in the Open Era. She was ranked world No. 1 for 319 weeks and finished the year at No. 1 five times. From the 2002 French Open to the 2003 Australian Open she won four consecutive major singles titles, a non-calendar year [[Grand Slam (tennis)|Grand Slam]] nicknamed the "Serena Slam", and she achieved a second Serena Slam in 2014–2015. With her sister Venus she won 14 major women's doubles championships and was undefeated in major doubles finals. Williams won four Olympic gold medals, three in women's doubles. In 2020 the Tennis Channel ranked her the greatest women's tennis player of all time.
 
@@ -85,7 +83,6 @@ GLOSSARY:
   Middle Ages = 중세
   Prussia = 프로이센
   Russia = 러시아
-  Serfdom = 농노제
   Slavery = 노예제
   United Nations = 국제 연합
   Western Europe = 서유럽
@@ -181,7 +178,6 @@ GLOSSARY:
   Peter and the Wolf = 「피터와 늑대」
   Revolution of 1917 = 1917년 혁명
   Romeo and Juliet = 「로미오와 줄리엣」
-  Russian = 러시아어
   Soviet Union = 소련
   Symphony = 교향곡
   The Love for Three Oranges = 「세 개의 오렌지에 대한 사랑」
@@ -366,7 +362,6 @@ LEVEL: 4
 GLOSSARY:
   Anthiadinae = Anthiadinae
   Epinephelinae = 능성어아과
-  Family = 가족
   Grammistini = Grammistini
   Grouper = 능성어
   Perciformes = 농어목
@@ -412,7 +407,6 @@ LEVEL: 5
 GLOSSARY:
   Cat = 고양이
   Grassland = 초원
-  Hunting = 사냥
   Rodent = 설치류
   moorlands = 황야
   sub-Saharan Africa = 사하라 이남 아프리카
@@ -482,7 +476,6 @@ GLOSSARY:
   Sub-Saharan Africa = 사하라 이남 아프리카
   Sudan = 수단
   Urartu = 우라르투
-  World = 세계
   oilseed crops = 유지 작물
   short tons = 쇼트톤
   sub-Saharan Africa = 사하라 이남 아프리카
@@ -562,7 +555,6 @@ HEADWORD: Set theory = 집합론
 LEVEL: 4
 GLOSSARY:
   Axiom of choice = 선택 공리
-  Branch = 브랜치
   Cantor = 칸토어
   Computer science = 컴퓨터 과학
   Georg Cantor = 게오르크 칸토어
@@ -616,7 +608,6 @@ LEVEL: 5
 GLOSSARY:
   AMC = AMC
   Apple TV = 애플 TV
-  Canadian = 캐나다
   Cannabis (drug) = 대마
   Emmy = 에미상
   Emmy Awards = 에미상
@@ -894,7 +885,6 @@ GLOSSARY:
   Seville = 세비야
   Spain = 스페인
   Spanish Empire = 스페인 제국
-  Trade = 교역
   UNESCO = 유네스코
   UNESCO World Heritage Site = 유네스코 세계유산
   Western Europe = 서유럽
@@ -914,7 +904,6 @@ GLOSSARY:
   Sanitation = 위생
   Secondary treatment = 2차 처리
   Sweden = 스웨덴
-  Tertiary = 제3기
   Tertiary treatment = 3차 처리
   Water pollution = 수질 오염
   aerobic or anaerobic = 호기성 또는 혐기성
@@ -931,7 +920,6 @@ GLOSSARY:
   Asia = 아시아
   Embroidery = 자수
   Europe = 유럽
-  Hand = 손
   Paleolithic = 구석기 시대
   Sewing machine = 재봉틀
   Silk = 비단
@@ -952,7 +940,6 @@ GLOSSARY:
   Elias Howe = 일라이어스 하우
   French = 프랑스어
   Industrial Revolution = 산업 혁명
-  Machine = 기계
   Saint = 성인
   Thomas = 토머스
   Thomas Saint = 토머스 세인트

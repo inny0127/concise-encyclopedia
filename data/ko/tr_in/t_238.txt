@@ -158,7 +158,6 @@ GLOSSARY:
   Manchester = 맨체스터
   New England = 뉴잉글랜드
   Sales tax = 판매세
-  Textile = 직물
   U.S. Civil War = 미국 남북 전쟁
   United States = 미국
   United States Declaration of Independence = 미국 독립 선언서
@@ -272,7 +271,6 @@ GLOSSARY:
   American Civil War = 남북 전쟁
   American Revolution = 미국 독립 혁명
   Civil War = 남북 전쟁
-  Dutch = 네덜란드어
   Filmmaking = 영화 제작
   Finance = 금융
   Logistics = 물류
@@ -323,7 +321,6 @@ LEVEL: 4
 GLOSSARY:
   Akhenaten = 아케나텐
   Aten = 아텐
-  Egypt = 이집트
   Euphrates = 유프라테스강
   Hatshepsut = 하트셉수트
   Hyksos = 힉소스
@@ -425,7 +422,6 @@ GLOSSARY:
   Australia = 오스트레일리아
   Bridge = 다리
   Greater Sydney = 시드니 광역권
-  James = 야고보
   James Cook = 제임스 쿡
   Lord Howe Island = 로드하우섬
   Opera = 오페라
@@ -494,7 +490,6 @@ GLOSSARY:
   Papyrus 52 = 파피루스 52
   Paul = 바울로
   Protestants = 개신교도
-  Second = 초
   canon = 정경
   epistles = 서신
   evangelicals = 복음주의자
@@ -527,7 +522,6 @@ GLOSSARY:
   Antichrist = 적그리스도
   Chip Berlet = 칩 벌릿
   Christians = 기독교인
-  Conspiracy = 「컨스피러시」
   Conspiracy theory = 음모론
   League of Nations = 국제 연맹
   Michael Barkun = 마이클 바컨
@@ -582,7 +576,6 @@ GLOSSARY:
   Andean condor = 안데스콘도르
   California = 캘리포니아주
   California condor = 캘리포니아콘도르
-  Family = 가족
   New World = 신대륙
   New World vultures = 신대륙독수리
   Old World = 구세계
@@ -604,7 +597,6 @@ LEVEL: 4
 GLOSSARY:
   Basileuterus = 바실레우테루스속
   Central America = 중앙아메리카
-  Family = 가족
   Linnaeus = 린네
   Myioborus = 미오보루스속
   New World = 신대륙
@@ -673,13 +665,11 @@ GLOSSARY:
   Amsterdam = 암스테르담
   Bronx = 브롱크스
   Brooklyn = 브루클린
-  City = 도시
   Duke of York = 요크 공작
   Dutch = 네덜란드어
   Dutch East India Company = 네덜란드 동인도 회사
   East India Company = 동인도 회사
   Ellis Island = 엘리스섬
-  England = 잉글랜드
   Financial District = 금융가
   Fort Amsterdam = 암스테르담 요새
   Harbor = 항구
@@ -751,7 +741,6 @@ GLOSSARY:
   Buttonwood Agreement = 버튼우드 협약
   Civil War = 남북 전쟁
   Financial District = 금융가
-  Government = 정부
   Great Depression = 대공황
   Intercontinental Exchange = 인터콘티넨털 익스체인지
   Lower Manhattan = 로어맨해튼
@@ -823,7 +812,6 @@ GLOSSARY:
   City = 도시
   Columbia = 컬럼비아
   Columbia University = 컬럼비아 대학교
-  Constitution = 헌법
   Cornell = 코넬
   Cornell University = 코넬 대학교
   Dutch = 네덜란드어
@@ -952,7 +940,6 @@ HEADWORD: Newcastle upon Tyne = 뉴캐슬어폰타인
 LEVEL: 5
 GLOSSARY:
   Castle = 성
-  City = 도시
   Hadrian = 하드리아누스
   Hadrian's Wall = 하드리아누스 방벽
   Industrial Revolution = 산업 혁명
@@ -1027,8 +1014,6 @@ GLOSSARY:
   Barnard College = 바너드 칼리지
   China = 중국
   Europe = 유럽
-  Government = 정부
-  Information = 정보
   Internet = 인터넷
   Jessica Garretson Finch = 제시카 개릿슨 핀치
   Radio = 라디오

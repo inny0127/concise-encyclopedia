@@ -63,7 +63,6 @@ GLOSSARY:
   Germany = 독일
   Gupta = 굽타
   Gupta Empire = 굽타 제국
-  Institution = 제도
   Kumaragupta I = 쿠마라굽타 1세
   Latin = 라틴어
   Magna Charta Universitatum = 대학 대헌장
@@ -116,7 +115,6 @@ GLOSSARY:
   Renaissance = 르네상스
   Rimini = 리미니
   Shanghai = 상하이
-  Teaching = 교수
   York = 요크
   universitates scholarium = 우니베르시타테스 스콜라리움
 ENTRY:
@@ -304,7 +302,6 @@ HEADWORD: University of Pennsylvania = 펜실베이니아 대학교
 LEVEL: 5
 GLOSSARY:
   Benjamin Franklin = 벤저민 프랭클린
-  Constitution = 헌법
   Independence = 인디펜던스
   Ivy League = 아이비리그
   James = 야고보
@@ -405,7 +402,6 @@ GLOSSARY:
   California = 캘리포니아주
   Dennis = 데니스
   Dennis Ritchie = 데니스 리치
-  Family = 가족
   GNU = GNU
   IBM = IBM
   IBM AIX = IBM AIX
@@ -481,7 +477,6 @@ GLOSSARY:
   Joint Institute for Nuclear Research = 합동 원자핵 연구소
   Potassium = 칼륨
   RIKEN = 이화학연구소
-  Relativistic = 상대론적
   Relativistic effects = 상대론적 효과
   Research = 연구
   Rubidium = 루비듐
@@ -519,9 +514,7 @@ GLOSSARY:
   Cro-Magnon = 크로마뇽인
   Europe = 유럽
   Holocene = 홀로세
-  Homo = 사람속
   Homo sapiens = 호모 사피엔스
-  Hunting = 사냥
   Last Glacial Maximum = 최종 빙기 최성기
   Mesolithic = 중석기 시대
   Mousterian = 무스테리안
@@ -531,7 +524,6 @@ GLOSSARY:
   Paleolithic = 구석기 시대
   Peopling of the Americas = 아메리카 대륙의 인류 정착
   Stone Age = 석기 시대
-  Third = 교향곡 제3번
 ENTRY:
 Third and last subdivision of the [[Paleolithic]], or Old Stone Age, dating roughly from 50,000 to 12,000 years ago. It ends with the start of the [[Holocene]] and is followed by the [[Mesolithic]]. *Homo sapiens* emerged in Africa around 300,000 years ago, but marked increases in artifact diversity came after about 50,000 years ago. The period has the earliest known evidence of organized settlements, and its artists produced [[Cave painting|cave paintings]], carvings and engravings on bone or ivory. [[Cro-Magnon|Cro-Magnons]] in Europe left sophisticated stone tools, while [[Neanderthal|Neanderthals]] kept using Mousterian technology. Hunting was important, and caribou or wild reindeer may be the species of greatest importance to studies of hunting. The [[Last Glacial Maximum]] divides the period, and the [[Peopling of the Americas|peopling of the Americas]] occurred during it.
 
@@ -591,7 +583,6 @@ GLOSSARY:
   European Russia = 유럽 러시아
   Kazakhstan = 카자흐스탄
   Mount Narodnaya = 나로드나야산
-  Mountain = 산
   Mountain range = 산맥
   Ocean = 대양
   Primary Chronicle = 『원초 연대기』
@@ -623,7 +614,6 @@ GLOSSARY:
   Magnitogorsk = 마그니토고르스크
   Orenburg = 오렌부르크
   Orsk = 오르스크
-  River = 강
   Russia = 러시아
   Saray-Jük = 사라이주크
   Silk = 비단
@@ -652,7 +642,6 @@ GLOSSARY:
   Karelian = 카렐야어
   Khanty = 한티어
   Komi = 코미어
-  Language = 언어
   Language family = 어족
   Mansi = 만시어
   Mari = 마리어
@@ -682,7 +671,6 @@ GLOSSARY:
   Cadmium = 카드뮴
   Hafnium = 하프늄
   Half-life = 반감기
-  Isotope = 동위 원소
   Neutron = 중성자
   Nuclear reactor = 원자로
   Nuclear weapon = 핵무기
@@ -711,7 +699,6 @@ GLOSSARY:
   Martin Heinrich Klaproth = 마르틴 하인리히 클라프로트
   Nuclear reactor = 원자로
   Nuclear weapon = 핵무기
-  Uranium = 우라늄
   Uranium-235 = 우라늄-235
   Uranus = 천왕성
   arms race = 군비 경쟁
@@ -746,9 +733,7 @@ GLOSSARY:
   Titania = 티타니아
   Umbriel = 움브리엘
   Uranus = 천왕성
-  Voyager = 보이저
   Voyager 2 = 보이저 2호
-  William = 윌리엄
   William Herschel = 윌리엄 허셜
   axial tilt = 자전축 기울기
   giant planets = 거대 행성
@@ -777,7 +762,6 @@ GLOSSARY:
   Hurro-Urartian language family = 후르리·우라르투어족
   Iran = 이란
   Iraq = 이라크
-  Iron = 철
   Iron Age = 철기 시대
   Lake = 호수
   Lake Sevan = 세반호
@@ -797,7 +781,6 @@ HEADWORD: Urban area = 도시 지역
 LEVEL: 4
 GLOSSARY:
   City = 도시
-  Human = 인간
   Human settlement = 취락
   Metropolitan area = 대도시권
   Rural area = 농촌
@@ -864,7 +847,6 @@ GLOSSARY:
   France = 프랑스
   Industrial Revolution = 산업 혁명
   Manchester = 맨체스터
-  Mechanization = 기계화
   Public transport = 대중교통
   Rural area = 농촌
   United Nations = 국제 연합
@@ -937,7 +919,6 @@ GLOSSARY:
   Ejaculation = 사정
   Penis = 음경
   Semen = 정액
-  Tube = 튜브
   Vulva = 외음부
   placental mammals = 태반류
   urethral meatus = 요도구
@@ -967,13 +948,10 @@ Part of the excretory system of vertebrates, comprising the [[Kidney|kidneys]], 
 HEADWORD: Urination = 배뇨
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Bladder = 방광
-  Brain = 뇌
   Cerebral cortex = 대뇌 피질
   Cloaca = 총배설강
   Excretion = 배설
-  Release = 『Release』
   Urethra = 요도
   autonomic = 자율
   cerebral cortex = 대뇌 피질
@@ -1005,7 +983,6 @@ HEADWORD: Urology = 비뇨의학
 LEVEL: 4
 GLOSSARY:
   Adrenal gland = 부신
-  Branch = 브랜치
   Kidney = 콩팥
   Prostate = 전립선
   Prostate cancer = 전립샘암

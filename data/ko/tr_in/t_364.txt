@@ -42,7 +42,6 @@ LEVEL: 4
 GLOSSARY:
   Ancient Greek = 고대 그리스어
   Arcadia = 아르카디아
-  Belief = 믿음
   Europe = 유럽
   Full moon = 보름달
   Lycaon = 리카온
@@ -63,7 +62,6 @@ LEVEL: 4
 GLOSSARY:
   Atomic nucleus = 원자핵
   Cosmic ray = 우주선
-  German = 독일어
   Jordan = 요르단
   Kaiser = 카이저
   Kaiser Wilhelm Institute for Physics = 카이저 빌헬름 물리학 연구소
@@ -205,9 +203,7 @@ American filmmaker, best known for horror and especially [[Slasher film|slasher 
 HEADWORD: Wessex = 웨식스
 LEVEL: 5
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred the Great = 앨프레드 대왕
-  Anglo-Saxon = 앵글로색슨
   Anglo-Saxons = 앵글로색슨족
   Cenwalh = 센월
   Cnut = 크누트
@@ -301,7 +297,6 @@ GLOSSARY:
   Justice = 정의
   Oslo = 오슬로
   Oslo Accords = 오슬로 협정
-  Palestinians = 팔레스타인인
   River = 강
   Six-Day War = 6일 전쟁
   Strip = 스트립
@@ -405,7 +400,6 @@ HEADWORD: West Nile fever = 웨스트나일열
 LEVEL: 4
 GLOSSARY:
   Encephalitis = 뇌염
-  Human = 인간
   Meningitis = 수막염
   Mosquito = 모기
   Nile = 나일강
@@ -518,7 +512,6 @@ HEADWORD: Western Australia = 웨스턴오스트레일리아주
 LEVEL: 5
 GLOSSARY:
   Australia = 오스트레일리아
-  Iron = 철
   Iron ore = 철광석
   Kimberley = 킴벌리
   Mediterranean = 지중해
@@ -638,11 +631,9 @@ GLOSSARY:
   Late Jurassic = 후기 쥐라기
   Maharashtra = 마하라슈트라주
   Monsoon = 계절풍
-  Mountain = 산
   Mountain range = 산맥
   Plateau = 고원
   River = 강
-  Running = 달리기
   Sahyadri = 사히아드리
   Tamil = 타밀어
   Tamil Nadu = 타밀나두주
@@ -748,7 +739,6 @@ GLOSSARY:
   Alaska = 알래스카주
   American West = 미국 서부
   Appalachian = 애팔래치아
-  Census = 인구 조사
   Coast = 해안
   Great Basin = 그레이트베이슨 사막
   Hawaii = 하와이주
@@ -839,7 +829,6 @@ GLOSSARY:
   California = 캘리포니아주
   California Gold Rush = 캘리포니아 골드러시
   Duel = 결투
-  Genre = 장르
   Gold = 금
   Hollywood = 할리우드
   John = 존
@@ -848,7 +837,6 @@ GLOSSARY:
   Manifest destiny = 명백한 운명
   Native Americans = 아메리카 원주민
   Old West = 서부 개척 시대
-  Stock = 주식
   Western wear = 웨스턴 웨어
   Westerns = 서부극
   Wild West = 와일드 웨스트
@@ -874,7 +862,6 @@ GLOSSARY:
   Pheromone = 페로몬
   Pollination = 수분
   Red List = 적색 목록
-  Varroa = 바로아응애
   Varroa mites = 바로아 응애
   colony collapse disorder = 군집 붕괴 현상
   drones = 수벌
@@ -940,7 +927,6 @@ GLOSSARY:
   Socrates = 소크라테스
   Socratic method = 소크라테스식 문답법
   Sophists = 소피스트
-  Thales = 탈레스
   Thales of Miletus = 밀레토스의 탈레스
   Western philosophy = 서양 철학
   Western world = 서양
@@ -972,7 +958,6 @@ GLOSSARY:
   Americas = 아메리카
   Ancient Greece = 고대 그리스
   Australasia = 오스트랄라시아
-  Australia = 오스트레일리아
   Christendom = 그리스도교 세계
   Constantine = 콘스탄티누스 1세
   Crusades = 십자군
@@ -1007,7 +992,6 @@ GLOSSARY:
   Church of England = 잉글랜드 국교회
   City = 도시
   City of Westminster = 시티 오브 웨스트민스터
-  Construction = 건설
   Elizabeth I = 엘리자베스 1세
   Gothic = 고딕
   Henry III = 헨리 3세
@@ -1030,7 +1014,6 @@ HEADWORD: Wet season = 우기
 LEVEL: 4
 GLOSSARY:
   Cassava = 카사바
-  Food = 음식
   Intertropical Convergence Zone = 열대 수렴대
   Köppen = 쾨펜
   Köppen classification = 쾨펜 기후 구분

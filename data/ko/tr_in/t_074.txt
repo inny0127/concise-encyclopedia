@@ -2,8 +2,6 @@
 HEADWORD: Comparative linguistics = 비교 언어학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
-  Ferdinand = 페르디난트
   Ferdinand de Saussure = 페르디낭 드 소쉬르
   Historical linguistics = 역사 언어학
   Hittite = 히타이트어
@@ -47,7 +45,6 @@ GLOSSARY:
   Abrahamic religions = 아브라함계 종교
   African American = 아프리카계 미국인
   Al-Biruni = 알비루니
-  Branch = 브랜치
   Buddhism = 불교
   Hellenistic = 헬레니즘
   Hinduism = 힌두교
@@ -149,7 +146,6 @@ GLOSSARY:
   Country = 국가
   Market (economics) = 시장
   Monopoly = 독점
-  Neoclassical = 신고전주의
   Neoclassical theory = 신고전파 이론
   Productivity = 생산성
   barriers to entry = 진입 장벽
@@ -218,7 +214,6 @@ HEADWORD: Complex analysis = 복소해석학
 LEVEL: 4
 GLOSSARY:
   Augustin-Louis Cauchy = 오귀스탱 루이 코시
-  Branch = 브랜치
   Cauchy = 코시
   Complex analysis = 복소해석학
   Euler = 오일러
@@ -247,7 +242,6 @@ Branch of mathematical analysis studying functions of a complex variable. Comple
 HEADWORD: Complex number = 복소수
 LEVEL: 3
 GLOSSARY:
-  Addition = 덧셈
   Argand = 아르강
   Argand diagram = 아르강 도표
   Carl Friedrich Gauss = 카를 프리드리히 가우스
@@ -259,7 +253,6 @@ GLOSSARY:
   Gerolamo Cardano = 지롤라모 카르다노
   Imaginary unit = 허수 단위
   Leonhard Euler = 레온하르트 오일러
-  Number = 수
   Real number = 실수
   alternating-current circuits = 교류 회로
   associative = 결합
@@ -379,7 +372,6 @@ GLOSSARY:
   Alan Turing = 앨런 튜링
   Algorithm = 알고리즘
   Alonzo Church = 앨런조 처치
-  Branch = 브랜치
   Church = 처치
   Computer = 컴퓨터
   Computer science = 컴퓨터 과학
@@ -430,7 +422,6 @@ HEADWORD: Computational complexity theory = 계산 복잡도 이론
 LEVEL: 4
 GLOSSARY:
   Analysis of algorithms = 알고리즘 분석
-  Branch = 브랜치
   Computability theory = 계산 가능성 이론
   Millennium = 『Millennium』
   Millennium Prize Problems = 밀레니엄 문제
@@ -459,7 +450,6 @@ GLOSSARY:
   Dictionary = 사전
   Integrated circuit = 집적 회로
   Internet = 인터넷
-  Machine = 기계
   Moore's law = 무어의 법칙
   Oxford = 옥스퍼드
   Oxford English Dictionary = 『옥스퍼드 영어 사전』
@@ -490,7 +480,6 @@ The word first meant a person who performed calculations; the *Oxford English Di
 HEADWORD: Computer animation = 컴퓨터 애니메이션
 LEVEL: 4
 GLOSSARY:
-  Computer = 컴퓨터
   Computer animation = 컴퓨터 애니메이션
   Traditional animation = 전통 애니메이션
   computer-generated imagery = 컴퓨터 생성 이미지
@@ -542,7 +531,6 @@ LEVEL: 4
 GLOSSARY:
   Boeing = 보잉
   CAD = 컴퓨터 지원 설계
-  Computer = 컴퓨터
   Computer graphics = 컴퓨터 그래픽스
   GPU = GPU
   Sketchpad = 스케치패드
@@ -566,7 +554,6 @@ GLOSSARY:
   Charles Babbage = 찰스 배비지
   John = 존
   John von Neumann = 존 폰 노이만
-  Physical = 「Physical」
   Random-access memory = 랜덤 액세스 메모리
   Software = 소프트웨어
   central processing unit = 중앙 처리 장치
@@ -645,7 +632,6 @@ GLOSSARY:
   George Stibitz = 조지 스티비츠
   Internet = 인터넷
   Optical fiber = 광섬유
-  Paul = 바울로
   Paul Baran = 폴 배런
   World = 세계
   World Wide Web = 월드 와이드 웹
@@ -674,7 +660,6 @@ GLOSSARY:
   ENIAC = 에니악
   Engine = 기관
   Programming language = 프로그래밍 언어
-  Sequence = 수열
   central processing unit = 중앙 처리 장치
   executable file = 실행 파일
   interpreter = 인터프리터
@@ -734,7 +719,6 @@ GLOSSARY:
   Turing = 튜링
   Turing Award = 튜링상
   Turing machine = 튜링 기계
-  Wilhelm = 빌헬름
   Wilhelm Schickard = 빌헬름 시카르트
   data structures = 자료 구조
   information theory = 정보 이론
@@ -756,7 +740,6 @@ GLOSSARY:
   Internet = 인터넷
   Malware = 악성 소프트웨어
   Phishing = 피싱
-  Reliance = 릴라이언스
   Smartphone = 스마트폰
   United Kingdom = 영국
   cybersecurity = 사이버 보안
@@ -771,7 +754,6 @@ Subdiscipline of information security concerned with protecting computer softwar
 HEADWORD: Computer simulation = 컴퓨터 시뮬레이션
 LEVEL: 4
 GLOSSARY:
-  Computer = 컴퓨터
   Kuwait = 쿠웨이트
   Manhattan = 맨해튼
   Manhattan Project = 맨해튼 계획
@@ -781,7 +763,6 @@ GLOSSARY:
   Mycoplasma = 마이코플라스마
   Mycoplasma genitalium = Mycoplasma genitalium
   Physics = 물리학
-  Running = 달리기
   World = 세계
   World War II = 제2차 세계 대전
   astrophysics = 천체 물리학
@@ -817,10 +798,8 @@ GLOSSARY:
   Bell = 종
   Bell Labs = 벨 연구소
   Boolean algebraic operations = 불 대수 연산
-  Claude = 클로드
   Claude Shannon = 클로드 섀넌
   Computer science = 컴퓨터 과학
-  Computing = 컴퓨팅
   Integrated circuit = 집적 회로
   MOSFET = MOSFET
   Software engineering = 소프트웨어 공학
@@ -837,7 +816,6 @@ Goal-oriented activity that requires, benefits from or creates computing machine
 HEADWORD: Conakry = 코나크리
 LEVEL: 4
 GLOSSARY:
-  Conakry = 코나크리
   France = 프랑스
   French = 프랑스어
   French Guinea = 프랑스령 기니
@@ -845,7 +823,6 @@ GLOSSARY:
   Kaloum Peninsula = 칼룸반도
   Kankan = 캉캉
   Peninsula = 반도
-  Port = 항구
   Tombo Island = 통보섬
   bauxite = 보크사이트
   capital = 주두
@@ -912,7 +889,6 @@ GLOSSARY:
   Contemporary art = 현대 미술
   Fountain = 「샘」
   Language = 언어
-  Marcel = 마르셀
   Marcel Duchamp = 마르셀 뒤샹
   Philosophy = 철학
   Sol LeWitt = 솔 르윗

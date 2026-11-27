@@ -51,7 +51,6 @@ GLOSSARY:
   Bisexuality = 양성애
   Homosexuality = 동성애
   Karl Maria Kertbeny = 카를 마리아 케르트베니
-  Romantic = 낭만주의
   Sexual orientation = 성적 지향
   sexual orientation = 성적 지향
 ENTRY:
@@ -63,7 +62,6 @@ LEVEL: 5
 GLOSSARY:
   Artificial intelligence = 인공지능
   Cognitive psychology = 인지 심리학
-  Trial = 재판
   Trial and error = 시행착오
   cognitive psychology = 인지 심리학
   rule of thumb = 경험 법칙
@@ -129,9 +127,7 @@ GLOSSARY:
   Insecta = 곤충강
   Pancrustacea = 범갑각류
   Protura = 낫발이목
-  Recent = 현세
   Scavenger = 청소동물
-  Subphylum = 아문
   micropredators = 미소포식자
   springtails = 톡토기
 ENTRY:
@@ -142,7 +138,6 @@ HEADWORD: Hezbollah = 헤즈볼라
 LEVEL: 5
 GLOSSARY:
   Bashar al-Assad = 바샤르 알아사드
-  Hezbollah = 헤즈볼라
   Iran = 이란
   Islamist = 이슬람주의
   Israel = 이스라엘
@@ -159,7 +154,6 @@ HEADWORD: Hibernation = 동면
 LEVEL: 4
 GLOSSARY:
   Bear = 곰
-  Hibernation = 겨울잠
   Mammal = 포유류
   Rodent = 설치류
   Winter = 겨울
@@ -178,7 +172,6 @@ GLOSSARY:
   China = 중국
   East Africa = 동아프리카
   Flower = 꽃
-  Genus = 속
   Hawaii = 하와이
   Linnaeus = 린네
   Malvaceae = 아욱과
@@ -282,7 +275,6 @@ GLOSSARY:
   's-Hertogenbosch = 스헤르토헨보스
   Aachen = 아헨
   Duchy of Brabant = 브라반트 공국
-  Dutch = 네덜란드어
   Early Netherlandish = 초기 네덜란드 회화
   Garden = 정원
   Hell = 지옥
@@ -444,7 +436,6 @@ LEVEL: 4
 GLOSSARY:
   Canada = 캐나다
   Europe = 유럽
-  Hiking = 하이킹
   Machete = 마체테
   Mont Ventoux = 방투산
   Petrarch = 페트라르카
@@ -452,7 +443,6 @@ GLOSSARY:
   Trail = 산길
   United Kingdom = 영국
   United States = 미국
-  Walking = 걷기
   backpacking = 백패킹
   bushwhacking = 덤불 헤치기
   trekking = 트레킹
@@ -480,7 +470,6 @@ GLOSSARY:
   Iron Jawed Angels = 「아이언 엔젤스」
   Million Dollar Baby = 「밀리언 달러 베이비」
   Paul = 바울로
-  Time = 『타임』
   Time (magazine) = 『타임』
 ENTRY:
 American actress and film producer. Swank won two Academy Awards for Best Actress, for her portrayal of Brandon Teena in *Boys Don't Cry* (1999) and for playing a female boxer in *Million Dollar Baby* (2004), directed by [[Clint Eastwood]]. Her other films include *Freedom Writers* (2007) and *Amelia* (2009). On television she played Alice Paul in the [[HBO]] film *Iron Jawed Angels* (2004). [[Time (magazine)|Time]] named her one of the 100 most influential people in the world in 2005.
@@ -518,7 +507,6 @@ GLOSSARY:
   Functional analysis = 함수해석학
   Hilbert = 힐베르트
   Hilbert space = 힐베르트 공간
-  John = 존
   John von Neumann = 존 폰 노이만
   Partial differential equation = 편미분 방정식
   Pythagorean = 피타고라스학파
@@ -546,7 +534,6 @@ GLOSSARY:
   Disibodenberg = 디지보덴베르크
   Doctor of the Church = 교회 학자
   Eibingen = 아이빙겐
-  German = 독일어
   Germany = 독일
   Hymn = 찬가
   Middle Ages = 중세
@@ -571,7 +558,6 @@ LEVEL: 4
 GLOSSARY:
   Ancient Rome = 고대 로마
   Erosion = 침식
-  Landform = 지형
   Moraine = 빙퇴석
   Mountain = 산
   Rome = 로마
@@ -609,7 +595,6 @@ American politician, lawyer and diplomat. She was first lady of the United State
 HEADWORD: Himachal Pradesh = 히마찰프라데시주
 LEVEL: 5
 GLOSSARY:
-  Agriculture = 농업
   China = 중국
   Dharamshala = 다람살라
   Himalayas = 히말라야산맥
@@ -669,7 +654,6 @@ GLOSSARY:
   Shishapangma = 시샤팡마
   Sivalik Hills = 시왈리크 구릉
   South Asia = 남아시아
-  Sovereignty = 주권
   Tibet = 티베트
   Tibetan = 티베트어
   Tibetan Himalayas = 티베트 히말라야
@@ -690,7 +674,6 @@ HEADWORD: Hindenburg disaster = 힌덴부르크호 참사
 LEVEL: 5
 GLOSSARY:
   Airship = 비행선
-  Fire = 불
   German = 독일어
   Hindenburg = 힌덴부르크호
   Hydrogen = 수소
@@ -901,7 +884,6 @@ GLOSSARY:
   Carnatic = 카르나타카 음악
   Carnatic music = 카르나타카 음악
   Classical music = 클래식 음악
-  Hindi-Urdu = 힌디어-우르두어
   India = 인도
   Indian subcontinent = 인도 아대륙
   Kannada = 칸나다어

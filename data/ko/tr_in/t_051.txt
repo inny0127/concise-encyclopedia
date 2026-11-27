@@ -3,7 +3,6 @@ HEADWORD: Burj Khalifa = 부르즈 할리파
 LEVEL: 4
 GLOSSARY:
   Al Nahyan = 알나하얀
-  Construction = 건설
   Dubai = 두바이
   Elevator = 엘리베이터
   Emaar Properties = 에마르 프로퍼티스
@@ -91,7 +90,6 @@ GLOSSARY:
   First-degree burns = 1도 화상
   Fourth-degree burns = 4도 화상
   Infection = 감염
-  Injury = 부상
   Ionizing radiation = 전리 방사선
   Second-degree burns = 2도 화상
   Skin = 피부
@@ -118,7 +116,6 @@ GLOSSARY:
   Grammy = 그래미상
   Grammy Awards = 그래미상
   L.I.F.E = 『L.I.F.E』
-  Love = 사랑
   Music = 음악
   Shakira = 샤키라
   Twice as Tall = 『Twice as Tall』
@@ -151,7 +148,6 @@ GLOSSARY:
   Bursa = 부르사
   Bursa Province = 부르사주
   Byzantines = 비잔티움 제국
-  City = 도시
   LGBTQ = LGBTQ
   LGBTQ people = LGBTQ
   Mount Uludağ = 울루다으산
@@ -217,7 +213,6 @@ LEVEL: 4
 GLOSSARY:
   Arusha Agreement = 아루샤 협정
   Bujumbura = 부줌부라
-  Burundi = 부룬디
   East Africa = 동아프리카
   GDP per capita = 1인당 국내 총생산
   Gitega = 기테가
@@ -240,7 +235,6 @@ GLOSSARY:
   Nantes = 낭트
   Public transport = 대중교통
   Rail transport = 철도 운송
-  Steam = 스팀
   Van = 밴
   omnibus = 옴니버스
   trolleybuses = 트롤리버스
@@ -253,7 +247,6 @@ LEVEL: 4
 GLOSSARY:
   APEC = APEC
   Asian Games = 아시안 게임
-  Busan = 부산
   City = 도시
   City of Film = 영화 창의 도시
   Creative Cities Network = 창의 도시 네트워크
@@ -262,7 +255,6 @@ GLOSSARY:
   Film = 영화
   Korea = 한국
   Network = 「네트워크」
-  Second = 초
   Seoul = 서울
   Shinsegae Centum City = 신세계 센텀시티
   South Korea = 대한민국
@@ -279,9 +271,7 @@ HEADWORD: Business = 기업
 LEVEL: 3
 GLOSSARY:
   Corporation = 주식회사
-  Forms = 이데아
   Industrial Revolution = 산업 혁명
-  Marketing = 마케팅
   Partnership = 파트너십
   Peter = 베드로
   Peter Drucker = 피터 드러커
@@ -306,7 +296,6 @@ HEADWORD: Bustard = 느시과
 LEVEL: 4
 GLOSSARY:
   Bird = 조류
-  Bustards = 느시
   Invertebrate = 무척추동물
   Otididae = 느시과
   Otis tarda = Otis tarda
@@ -343,7 +332,6 @@ HEADWORD: Butane = 부탄
 LEVEL: 4
 GLOSSARY:
   Alkane = 알칸
-  Butane = 부탄
   Carbon dioxide = 이산화 탄소
   Carbon monoxide = 일산화 탄소
   Ethylene = 에틸렌
@@ -365,11 +353,9 @@ Flammable [[Alkane|alkane]] hydrocarbon with the formula C₄H₁₀. Butane has
 HEADWORD: Butter = 버터
 LEVEL: 4
 GLOSSARY:
-  Butter = 버터
   Clarified butter = 정제 버터
   Emulsion = 에멀션
   Milk = 우유
-  Salt = 소금
   United States = 미국
   butterfat = 유지방
   ghee = 기
@@ -417,7 +403,6 @@ GLOSSARY:
   Australia = 오스트레일리아
   Berry (botany) = 장과
   Charles Leggett = 찰스 레깃
-  Cucurbita = 호박속
   Cucurbita moschata = Cucurbita moschata
   Massachusetts = 매사추세츠주
   New Zealand = 뉴질랜드
@@ -615,7 +600,6 @@ GLOSSARY:
   Entertainment = 오락
   Great Depression = 대공황
   New York City = 뉴욕
-  Paramount = 파라마운트
   Paramount Pictures = 파라마운트 픽처스
   Skydance = 스카이댄스
   William = 윌리엄
@@ -653,7 +637,6 @@ GLOSSARY:
   International Commission on Illumination = 국제 조명 위원회
   John = 존
   John Guild = 존 길드
-  Standard = 스탠더드
   William = 윌리엄
   William David Wright = 윌리엄 데이비드 라이트
   color models = 색 모형
@@ -665,7 +648,6 @@ Standard color space defined by the International Commission on Illumination (CI
 HEADWORD: CMYK color model = CMYK 색 모형
 LEVEL: 4
 GLOSSARY:
-  Black = 검은색
   CMYK = CMYK
   Cyan = 청록색
   Halftoning = 하프톤
@@ -685,7 +667,6 @@ HEADWORD: CNN = CNN
 LEVEL: 5
 GLOSSARY:
   Atlanta = 애틀랜타
-  Conservative = 보수당
   Georgia = 조지아주
   News media = 뉴스 미디어
   Nielsen = 닐슨
@@ -699,7 +680,6 @@ American [[News media|news media]] company and cable news channel, headquartered
 HEADWORD: COBOL = 코볼
 LEVEL: 5
 GLOSSARY:
-  COBOL = 코볼
   CODASYL = CODASYL
   FLOW-MATIC = FLOW-MATIC
   Grace = 『그레이스』
@@ -777,7 +757,6 @@ GLOSSARY:
   DNA = DNA
   Emmanuelle Charpentier = 에마뉘엘 샤르팡티에
   Enzyme = 효소
-  Family = 가족
   Jennifer Doudna = 제니퍼 다우드나
   Nobel Prize = 노벨상
   Nobel Prize in Chemistry = 노벨 화학상

@@ -51,7 +51,6 @@ GLOSSARY:
   Erich Honecker = 에리히 호네커
   German = 독일어
   German reunification = 독일 재통일
-  Hungary = 헝가리
   Politburo = 정치국
   Revolutions of 1989 = 1989년 혁명
   Wall = 벽
@@ -250,7 +249,6 @@ GLOSSARY:
   China = 중국
   Control = 「Control」
   Disease = 질병
-  Family = 가족
   Family planning = 가족계획
   India = 인도
   Infertility = 불임
@@ -274,7 +272,6 @@ GLOSSARY:
   Democracy = 민주주의
   England = 잉글랜드
   Europe = 유럽
-  Famine = 기근
   Food = 음식
   Gaza = 가자 지구
   Haiti = 아이티
@@ -336,7 +333,6 @@ GLOSSARY:
   Jane = 제인
   Jane Austen = 제인 오스틴
   Janeites = 제인 숭배자
-  Media = 메디아
   Merriam-Webster = 메리엄웹스터
   New York Comic Con = 뉴욕 코믹콘
   San Diego = 샌디에이고
@@ -358,7 +354,6 @@ GLOSSARY:
   Athlete of the Century = 세기의 선수
   Berlin = 베를린
   Dutch = 네덜란드어
-  Female = 암컷
   Female Athlete of the Century = 세기의 여자 선수
   International Association of Athletics Federations = 국제 육상 경기 연맹
   London = 런던
@@ -398,12 +393,9 @@ ENTRY:
 HEADWORD: Fantasy = 판타지
 LEVEL: 4
 GLOSSARY:
-  Anglophone = 영어권
   Animation = 애니메이션
   Aristophanes = 아리스토파네스
   Epic of Gilgamesh = 『길가메시 서사시』
-  Fantasy = 판타지
-  Genre = 장르
   Gilgamesh = 길가메시
   Manga = 만화
   Ovid = 오비디우스
@@ -488,7 +480,6 @@ HEADWORD: Faraday cage = 패러데이 새장
 LEVEL: 5
 GLOSSARY:
   Earth's magnetic field = 지구 자기장
-  Enclosure = 인클로저
   HF RFID = HF RFID
   Michael Faraday = 마이클 패러데이
   magnetic field = 자기장
@@ -543,7 +534,6 @@ HEADWORD: Farm = 농장
 LEVEL: 4
 GLOSSARY:
   Agricultural Revolution = 농업 혁명
-  Area = 넓이
   British Agricultural Revolution = 영국 농업 혁명
   Europe = 유럽
   Green = 초록색
@@ -586,14 +576,12 @@ GLOSSARY:
   Denmark = 덴마크
   European Union = 유럽 연합
   Faroese = 페로어
-  Fishing = 어업
   Fjord = 피오르
   Gulf Stream = 멕시코 만류
   Hebrides = 헤브리디스 제도
   Iceland = 아이슬란드
   Icelandic = 아이슬란드어
   Kiel = 킬
-  Norse = 노르드인
   North Atlantic = 북대서양
   North Atlantic Ocean = 북대서양
   Norway = 노르웨이
@@ -654,7 +642,6 @@ GLOSSARY:
   Militarism = 군국주의
   National Fascist Party = 국가 파시스트당
   Nazism = 나치즘
-  Others = 아더
   Party = 파티
   Rome = 로마
   World = 세계
@@ -681,7 +668,6 @@ GLOSSARY:
   City = 도시
   Clothing = 의복
   Costume = 의상
-  Creation = 천지 창조
   France = 프랑스
   Latin = 라틴어
   London = 런던
@@ -722,7 +708,6 @@ Art of applying design, aesthetics, clothing construction and natural beauty to 
 HEADWORD: Fast Fourier transform = 고속 푸리에 변환
 LEVEL: 5
 GLOSSARY:
-  Algorithm = 알고리즘
   Carl Friedrich Gauss = 카를 프리드리히 가우스
   Fourier = 푸리에
   Fourier transform = 푸리에 변환
@@ -760,10 +745,8 @@ Mass-produced food designed for commercial resale, with a strong priority on spe
 HEADWORD: Fastener = 체결구
 LEVEL: 4
 GLOSSARY:
-  Metal = 금속
   Nut (hardware) = 너트
   United States = 미국
-  Welding = 용접
   hot-dip galvanizing = 용융 아연 도금
   washers = 와셔
 ENTRY:
@@ -794,7 +777,6 @@ LEVEL: 4
 GLOSSARY:
   Alternate-day fasting = 격일 단식
   Angus Barbieri = 앵거스 바비에리
-  Fasting = 단식
   Intermittent fasting = 간헐적 단식
   Ketone = 케톤
   Scottish = 스코틀랜드

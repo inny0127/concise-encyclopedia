@@ -3,10 +3,8 @@ HEADWORD: Apicomplexa = 정단복합체문
 LEVEL: 4
 GLOSSARY:
   Alveolate = 알베올라타
-  Apicomplexa = 정단복합체문
   Cryptosporidium parvum = 크립토스포리디움 파르붐
   Latin = 라틴어
-  Life = 『라이프』
   Malaria = 말라리아
   Nephromyces = 네프로미케스
   Organelle = 세포 소기관
@@ -37,7 +35,6 @@ GLOSSARY:
   Cambodia = 캄보디아
   Cannes = 칸
   Cannes Film Festival = 칸 영화제
-  Captain = 선장
   Captain Willard = 윌러드 대위
   Cinematography = 영화 촬영술
   Colonel Kurtz = 커츠 대령
@@ -147,7 +144,6 @@ GLOSSARY:
   Helios = 헬리오스
   Leto = 레토
   Lyre = 리라
-  Medicine = 의학
   Muses = 무사이
   Olympian = 올림포스
   Plague (disease) = 페스트
@@ -292,7 +288,6 @@ GLOSSARY:
   Black = 검은색
   Black Mountains = 블랙산맥
   Blue Ridge Mountains = 블루리지산맥
-  Erosion = 침식
   Georgia (U.S. state) = 조지아주
   Maine = 메인주
   Mount Katahdin = 커타딘산
@@ -332,7 +327,6 @@ GLOSSARY:
   Appellate courts = 상소 법원
   Babylon = 바빌론
   Common law = 보통법
-  England = 잉글랜드
   Hammurabi = 함무라비
   Judicial review = 사법 심사
   Law = 법
@@ -350,7 +344,6 @@ HEADWORD: Appendix = 충수
 LEVEL: 5
 GLOSSARY:
   Duke University = 듀크 대학교
-  Inflammation = 염증
   Large intestine = 대장
   Randy Bollinger = 랜디 볼린저
   University = 대학
@@ -431,7 +424,6 @@ LEVEL: 4
 GLOSSARY:
   App Store = 앱 스토어
   Apple II = 애플 II
-  Computer = 컴퓨터
   LibreOffice = 리브레오피스
   Mac App Store = 맥 앱 스토어
   Microsoft = 마이크로소프트
@@ -478,7 +470,6 @@ Use of mathematical methods in fields such as [[Physics|physics]], engineering, 
 HEADWORD: Approximation theory = 근사 이론
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Fourier = 푸리에
   Fourier series = 푸리에 급수
   Polynomial = 다항식
@@ -492,7 +483,6 @@ Branch of mathematics concerned with how functions can best be approximated by s
 HEADWORD: Apricot = 살구
 LEVEL: 4
 GLOSSARY:
-  Apricot = 살구
   Asia = 아시아
   Cake = 케이크
   Central Asia = 중앙아시아
@@ -505,7 +495,6 @@ GLOSSARY:
   Prunus armeniaca = 프루누스 아르메니아카
   Tonne = 톤
   Turkey = 튀르키예
-  World = 세계
   amygdalin = 아미그달린
   chilling units = 저온 단위
 ENTRY:
@@ -571,7 +560,6 @@ GLOSSARY:
   Qara Qoyunlu = 카라코윤루
   Qara Yuluk Uthman Beg = 카라 율루크 오스만 베그
   Safavids = 사파비 왕조
-  Shah = 샤
   Shah Ismail I = 샤 이스마일 1세
   Sunni = 수니파
   Sunni Muslim = 수니파 무슬림
@@ -659,7 +647,6 @@ GLOSSARY:
   Pipeline = 파이프라인
   Romans = 로마인
   Sacramento-San Joaquin Delta = 새크라멘토-샌와킨 삼각주
-  Underground = 『언더그라운드』
   ancient Greece = 고대 그리스
   falaj = 팔라즈
   pre-Columbian = 콜럼버스 이전
@@ -677,7 +664,6 @@ GLOSSARY:
   North America = 북아메리카
   Overdrafting = 지하수 과잉 양수
   South Africa = 남아프리카 공화국
-  Underground = 『언더그라운드』
   Well = 우물
   continental shelves = 대륙붕
   land subsidence = 지반 침하
@@ -761,7 +747,6 @@ GLOSSARY:
   Palestine = 팔레스타인
   Palestinians = 팔레스타인인
   Partition Plan for Palestine = 팔레스타인 분할안
-  Peace = 평화
   United Nations = 국제 연합
   Zionism = 시오니즘
   Zionists = 시온주의자
@@ -871,7 +856,6 @@ GLOSSARY:
   Sahara = 사하라 사막
   Sahara Desert = 사하라 사막
   Saudi Arabia = 사우디아라비아
-  Species = 종
   West Asia = 서아시아
   habitat destruction = 서식지 파괴
   oryx = 오릭스
@@ -896,7 +880,6 @@ GLOSSARY:
   Kuwait = 쿠웨이트
   Muhammad = 무함마드
   Oman = 오만
-  Peninsula = 반도
   Persian = 페르시아어
   Persian Gulf = 페르시아만
   Prophet = 예언자
@@ -939,6 +922,5 @@ GLOSSARY:
   Socotra = 소코트라섬
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Trade = 교역
 ENTRY:
 Sea of the northern Indian Ocean, lying between the [[Arabian Peninsula]] and the Indian subcontinent. It has an area of 3,862,000 sq km (1,491,000 sq mi) and a maximum depth of 5,395 meters (17,700 feet). The [[Gulf of Aden]] links it to the [[Red Sea]] through the Bab-el-Mandeb strait, and the Gulf of Oman connects it to the [[Persian Gulf]]. Trade was historically restricted by the [[Monsoon|monsoon]] winds and their currents. Its straits linked the Mediterranean with India, Southeast Asia and East Asia through trade networks established in the 3rd millennium BC. The sea is highly productive, but overfishing, pollution and warming have put many of its species at risk. The largest river flowing into it is the Indus, and its largest islands include [[Socotra]], Masirah and Astola.

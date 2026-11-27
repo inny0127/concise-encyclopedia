@@ -9,7 +9,6 @@ GLOSSARY:
   Major depressive disorder = 주요 우울 장애
   Obsessive–compulsive disorder = 강박 장애
   Prozac = 프로작
-  SSRI = SSRI
   Selective serotonin reuptake inhibitor = 선택적 세로토닌 재흡수 억제제
   United States = 미국
   World = 세계
@@ -35,7 +34,6 @@ GLOSSARY:
   India = 인도
   Jura = 쥐라
   Krishna = 크리슈나
-  Paleolithic = 구석기 시대
   Silver = 은
   Swabian Jura = 슈바벤알프
   Transverse flutes = 가로 피리
@@ -106,7 +104,6 @@ LEVEL: 4
 GLOSSARY:
   Barbados = 바베이도스
   Exocet = 엑조세
-  Family = 가족
   Flying fish = 날치
   French = 프랑스어
   Frigatebird = 군함조
@@ -189,7 +186,6 @@ GLOSSARY:
   Ancient Egypt = 고대 이집트
   Butter = 버터
   Egypt = 이집트
-  France = 프랑스
   French = 프랑스어
   French cuisine = 프랑스 요리
   Liver = 간
@@ -240,7 +236,6 @@ LEVEL: 4
 GLOSSARY:
   Balfolk = 발포크
   Central Europe = 중부 유럽
-  Dance = 춤
   Europe = 유럽
   France = 프랑스
   Hip-hop = 힙합
@@ -265,7 +260,6 @@ GLOSSARY:
   Folklore = 민속
   Lloyd = 로이드
   May Day = 메이데이
-  Music = 음악
   Oral tradition = 구전
   Sharp = 샤프
   William = 윌리엄
@@ -296,9 +290,7 @@ GLOSSARY:
   Chinese folk religion = 중국 민간 신앙
   Christianity = 기독교
   Christians = 기독교인
-  Clergy = 성직자
   Folklore = 민속
-  Forms = 이데아
   Hinduism = 힌두교
   Islam = 이슬람교
   Protestantism = 개신교
@@ -387,14 +379,11 @@ GLOSSARY:
   Apex predator = 최상위 포식자
   Bacteria = 세균
   Biofuel = 바이오 연료
-  Cereal = 곡물
   Cooking = 요리
   Food = 음식
   Food and Agriculture Organization = 국제 연합 식량 농업 기구
   Food industry = 식품 산업
   Fossil fuel = 화석 연료
-  Fungi = 균계
-  Human = 인간
   Maize = 옥수수
   Photosynthesis = 광합성
   Primary consumers = 1차 소비자
@@ -426,7 +415,6 @@ Human food is classified by content or by processing. Most systems include four 
 HEADWORD: Food group = 식품군
 LEVEL: 4
 GLOSSARY:
-  Food = 음식
   Fruit = 열매
   Legume = 콩과 식물
   Meat = 고기
@@ -448,7 +436,6 @@ GLOSSARY:
   Fishing = 어업
   Food = 음식
   Hunter-gatherer = 수렵채집인
-  Manufacturing = 제조업
   Marketing = 마케팅
   Neil Hamilton = 닐 해밀턴
   Retail = 소매
@@ -460,8 +447,6 @@ Collective term for diverse businesses that supply most of the world's food. The
 HEADWORD: Food preservation = 식품 보존
 LEVEL: 3
 GLOSSARY:
-  Boiling = 끓음
-  Burial = 매장
   Canning = 통조림 제조
   Clostridium botulinum = 보툴리누스균
   French = 프랑스어
@@ -472,7 +457,6 @@ GLOSSARY:
   Louis Pasteur = 루이 파스퇴르
   Navy = 해군
   Nicolas Appert = 니콜라 아페르
-  Nitrate = 질산염
   Odisha = 오디샤주
   Pasteur = 파스퇴르
   Refrigeration = 냉장
@@ -534,7 +518,6 @@ Terminal part of the limb of many [[Vertebrate|vertebrates]], which bears weight
 HEADWORD: Foot binding = 전족
 LEVEL: 5
 GLOSSARY:
-  Bound = 「바운드」
   China = 중국
   Qing = 청나라
   Qing dynasty = 청나라
@@ -585,10 +568,8 @@ GLOSSARY:
   Australian rules football = 오스트레일리안 풋볼
   British Empire = 대영 제국
   English public schools = 잉글랜드 퍼블릭 스쿨
-  Family = 가족
   Football = 축구
   Football League = 풋볼 리그
-  Forms = 이데아
   Rugby league = 럭비 리그
   Rugby union = 럭비 유니언
   public schools = 퍼블릭 스쿨
@@ -604,7 +585,6 @@ GLOSSARY:
   Fossil = 화석
   Latin = 라틴어
   Petroleum = 석유
-  Phylum = 문
   Plankton = 플랑크톤
   Protist = 원생생물
   Rhizaria = 리자리아
@@ -671,10 +651,8 @@ GLOSSARY:
   Archimedes = 아르키메데스
   Aristotle = 아리스토텔레스
   Classical mechanics = 고전 역학
-  Force = 힘
   Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Newton = 뉴턴
   Newton (unit) = 뉴턴
@@ -781,7 +759,6 @@ Application of science to law, generally criminal and civil, also known as crimi
 HEADWORD: Foreplay = 전희
 LEVEL: 4
 GLOSSARY:
-  Foreplay = 전희
   Kiss = 입맞춤
   Oral sex = 구강성교
   Orgasm = 오르가슴
@@ -854,11 +831,9 @@ HEADWORD: Forging = 단조
 LEVEL: 4
 GLOSSARY:
   Cymbal = 심벌즈
-  Forging = 단조
   Hammer = 망치
   Industrial Revolution = 산업 혁명
   Jewellery = 장신구
-  Manufacturing = 제조업
   Metal = 금속
   die = 금형
   metric tons = 미터톤

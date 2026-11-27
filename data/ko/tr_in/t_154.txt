@@ -41,7 +41,6 @@ GLOSSARY:
   Emilio Aguinaldo = 에밀리오 아기날도
   Ferdinand = 페르디난트
   Ferdinand Magellan = 페르디난드 마젤란
-  Human = 인간
   India = 인도
   Japan = 일본
   Lapulapu = 라푸라푸
@@ -153,7 +152,6 @@ GLOSSARY:
   Interchangeable parts = 호환 부품
   Model T = 모델 T
   Nicolas-Joseph Cugnot = 니콜라조제프 퀴뇨
-  Olds = 올즈
   Ransom E. Olds = 랜섬 E. 올즈
   assembly line = 조립 라인
   series production = 양산
@@ -165,7 +163,6 @@ HEADWORD: History of theater = 연극의 역사
 LEVEL: 4
 GLOSSARY:
   Aeschylus = 아이스킬로스
-  Athenian = 아테네의
   Athenian tragedy = 아테네 비극
   Comedy = 희극
   Dionysus = 디오니소스
@@ -190,7 +187,6 @@ HEADWORD: History of transport = 교통의 역사
 LEVEL: 4
 GLOSSARY:
   Cast iron = 주철
-  Evolution = 진화
   Near East = 근동
   Oystermouth = 오이스터머스
   Rail transport = 철도 운송
@@ -253,7 +249,6 @@ GLOSSARY:
   Mesoamerican glyphs = 메소아메리카 문자
   Religion = 종교
   Sumer = 수메르
-  Writing = 문자
   Writing system = 문자 체계
   ideographic = 표의
   mnemonic = 기억 보조
@@ -266,7 +261,6 @@ HEADWORD: Histrionic personality disorder = 연극성 인격 장애
 LEVEL: 5
 GLOSSARY:
   Adolescence = 청소년기
-  Personality = 성격
   Personality disorder = 인격 장애
   construct validity = 구성 타당도
 ENTRY:
@@ -408,7 +402,6 @@ LEVEL: 5
 GLOSSARY:
   Australian = 오스트레일리아
   French = 프랑스어
-  Hobart = 호바트
   Museum = 박물관
   Museum of Old and New Art = 구신 미술관
   Ocean's = 「오션스」
@@ -678,7 +671,6 @@ GLOSSARY:
   Nuclear reactor = 원자로
   Per Theodor Cleve = 페르 테오도르 클레베
   Stockholm = 스톡홀름
-  Swedish = 스웨덴어
   burnable poison = 가연성 독물
   magnetic permeability = 투자율
   magnetic saturation = 자기 포화
@@ -828,9 +820,7 @@ GLOSSARY:
   Parzival = 『파르치팔』
   Robert de Boron = 로베르 드 보롱
   Story = 『스토리』
-  Today = 「투데이」
   Troyes = 트루아
-  Wolfram = 볼프람
   Wolfram von Eschenbach = 볼프람 폰 에셴바흐
   chivalric romance = 기사도 로맨스
 ENTRY:
@@ -1011,8 +1001,6 @@ GLOSSARY:
   Renaissance = 르네상스
   Roman Empire = 로마 제국
   Rome = 로마
-  Space = 공간
-  Stable = 마구간
   Ubaid = 우바이드
   Uruk = 우루크
   Western Roman Empire = 서로마 제국

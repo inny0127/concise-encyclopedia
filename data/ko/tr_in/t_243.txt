@@ -3,7 +3,6 @@ HEADWORD: North by Northwest = 북북서로 진로를 돌려라
 LEVEL: 5
 GLOSSARY:
   Academy Awards = 아카데미상
-  Advertising = 광고
   Alfred = 앨프레드 대왕
   Alfred Hitchcock = 앨프리드 히치콕
   Cary Grant = 캐리 그랜트
@@ -67,7 +66,6 @@ GLOSSARY:
   Nepal = 네팔
   North Eastern Council = 동북 위원회
   North Eastern Region = 동북 지역
-  Seven = 「세븐」
   Seven Sisters = 세븐 시스터스
   Sikkim = 시킴주
   Siliguri Corridor = 실리구리 회랑
@@ -82,7 +80,6 @@ HEADWORD: Northeastern United States = 미국 북동부
 LEVEL: 5
 GLOSSARY:
   Boston = 보스턴
-  Census = 인구 조사
   City = 도시
   England = 잉글랜드
   Jersey = 저지섬
@@ -119,7 +116,6 @@ GLOSSARY:
   Lithuania = 리투아니아
   Livonian = 리보니아
   Livonian Crusades = 리보니아 십자군
-  Military = 군대
   Novgorod = 노브고로드
   Novgorod Republic = 노브고로드 공화국
   Oder = 오데르강
@@ -173,7 +169,6 @@ GLOSSARY:
   March equinox = 3월 분점
   North America = 북아메리카
   September equinox = 9월 분점
-  Winter = 겨울
   axial tilt = 자전축 기울기
 ENTRY:
 Half of Earth that lies north of the [[Equator]]. Because of Earth's axial tilt of 23.439281°, the hemisphere has seasonal variation in day length and temperature. Winter is conventionally counted from the December solstice to the March equinox, and summer from the June solstice to the September equinox. Its surface is 60.7% water, and it contains 67.3% of Earth's land. North America and mainland [[Eurasia]] lie entirely within it. Inside the [[Arctic Circle]], the sun does not set on some summer days and does not rise on some winter days.
@@ -189,7 +184,6 @@ GLOSSARY:
   Republic of Ireland = 아일랜드 공화국
   The Troubles = 북아일랜드 분쟁
   Troubles = 북아일랜드 분쟁
-  Unemployment = 실업
   United Kingdom = 영국
   devolved government = 자치 정부
   loyalist = 왕당파
@@ -206,7 +200,6 @@ HEADWORD: Northern Mariana Islands = 북마리아나 제도
 LEVEL: 4
 GLOSSARY:
   Battle of Saipan = 사이판 전투
-  Commonwealth = 영연방
   Germany = 독일
   Guam = 괌
   Japanese mandate = 일본 위임 통치령
@@ -239,7 +232,6 @@ GLOSSARY:
   Indigenous = 원주민
   Indigenous peoples = 원주민
   Makassan = 마카사르인
-  Mining = 광업
   Port = 항구
   Port Darwin = 포트다윈
   Queensland = 퀸즐랜드주
@@ -425,7 +417,6 @@ GLOSSARY:
   Norway = 노르웨이
   Oslo = 오슬로
   Peninsula = 반도
-  Petroleum = 석유
   Scandinavia = 스칸디나비아
   Scandinavian = 스칸디나비아
   Scandinavian Peninsula = 스칸디나비아반도
@@ -467,7 +458,6 @@ GLOSSARY:
   North Sea = 북해
   Norway = 노르웨이
   Ocean = 대양
-  Recent = 현세
   continental shelf = 대륙붕
 ENTRY:
 Marginal sea northwest of [[Norway]], between the North Sea and the [[Greenland Sea]]. Grouped with either the [[Atlantic Ocean]] or the [[Arctic Ocean]], it adjoins the [[Barents Sea]] to the northeast and is separated from the Atlantic by a submarine ridge between [[Iceland]] and the Faroe Islands. Most of its floor is not part of a [[Continental shelf|continental shelf]] and lies about two kilometers (1.2 miles) deep on average. Oil and natural gas deposits are explored commercially in areas up to about one kilometer deep. Its coastal waters are rich in fish, such as [[Cod|cod]]. The warm North Atlantic Current keeps the sea ice-free year-round. Recent research concludes that its large water volume matters more than the Gulf Stream for Norway's mild winters.
@@ -526,7 +516,6 @@ GLOSSARY:
   Catherine = 예카테리나 1세
   Catherine de' Medici = 카트린 드 메디시스
   Fire = 불
-  French = 프랑스어
   Gout = 통풍
   Great Fire of London = 런던 대화재
   Les Prophéties = 『예언집』
@@ -552,7 +541,6 @@ GLOSSARY:
   Bell = 종
   Catholic = 가톨릭
   Catholic Church = 가톨릭교회
-  Construction = 건설
   France = 프랑스
   French = 프랑스어
   French Revolution = 프랑스 혁명
@@ -608,7 +596,6 @@ LEVEL: 4
 GLOSSARY:
   Airport = 공항
   Central business district = 중심 업무 지구
-  Construction = 건설
   Drought = 가뭄
   Mauritania = 모리타니
   Nouakchott = 누악쇼트
@@ -674,7 +661,6 @@ GLOSSARY:
   Acadia = 아카디아
   Canada = 캐나다
   Confederation = 캐나다 연방
-  France = 프랑스
   Halifax = 핼리팩스
   Latin = 라틴어
   Peace = 평화
@@ -706,7 +692,6 @@ GLOSSARY:
   Rod Laver = 로드 레이버
   Roger Federer = 로저 페더러
   Serbia = 세르비아
-  Serbian = 세르비아어
   Time (magazine) = 『타임』
   major titles = 메이저 대회 우승
 ENTRY:
@@ -729,7 +714,6 @@ GLOSSARY:
   Nobel Peace Prize = 노벨 평화상
   Peace = 평화
   Russian = 러시아어
-  Seven = 「세븐」
   Ukraine = 우크라이나
 ENTRY:
 Independent Russian [[Newspaper|newspaper]], founded in 1993 by former *Komsomolskaya Pravda* journalists and published in [[Moscow]]. It was known for investigative reporting on the Chechen wars and corruption among the ruling elite. Seven of its journalists have been [[Murder|murdered]] since 2000, including Anna Politkovskaya, in connection with their investigations. Its editor-in-chief Dmitry Muratov was awarded the 2021 Nobel Peace Prize. [[Mikhail Gorbachev]] used his 1990 Nobel Peace Prize money to help start the paper. After the 2022 invasion of Ukraine, it suspended print, and Russian authorities revoked its media license. It closed on November 9, 2026, citing repression by Russian authorities.
@@ -738,7 +722,6 @@ Independent Russian [[Newspaper|newspaper]], founded in 1993 by former *Komsomol
 HEADWORD: Novaya Zemlya = 노바야제믈랴
 LEVEL: 4
 GLOSSARY:
-  Archipelago = 제도
   Arctic = 북극
   Arctic Ocean = 북극해
   Barents Sea = 바렌츠해
@@ -834,7 +817,6 @@ GLOSSARY:
   Madrid = 마드리드
   Paris = 파리
   Saint-Denis = 생드니
-  Seven = 「세븐」
   Stade de France = 스타드 드 프랑스
   Syria = 시리아
   suicide bombers = 자살 폭탄 테러범

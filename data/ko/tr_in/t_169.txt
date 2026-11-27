@@ -3,7 +3,6 @@ HEADWORD: Irrigation = 관개
 LEVEL: 3
 GLOSSARY:
   Aquifer = 대수층
-  Asia = 아시아
   China = 중국
   Crop = 작물
   Drainage = 배수
@@ -18,7 +17,6 @@ GLOSSARY:
   Overdrafting = 지하수 과잉 양수
   Sprinkler irrigation = 스프링클러 관개
   Subirrigation = 지하 관개
-  Surface = 서피스
   United States = 미국
   Water = 물
   desalinated water = 담수화한 물
@@ -88,7 +86,6 @@ GLOSSARY:
   Tony = 토니상
   Tony Award = 토니상
   United States = 미국
-  White = 흰색
   White Christmas = 「White Christmas」
   transposing lever = 이조 레버
 ENTRY:
@@ -224,7 +221,6 @@ GLOSSARY:
   Master = 조폐국장
   Mathematics = 수학
   Member of Parliament = 하원 의원
-  Newton = 뉴턴
   Opticks = 『광학』
   Optics = 광학
   Parliament = 의회
@@ -292,7 +288,6 @@ GLOSSARY:
   Rebekah = 리브가
   Samaritanism = 사마리아교
   Sarah = 사라
-  Second = 초
   Torah = 토라
   tribes of Israel = 이스라엘 지파
   twelve tribes of Israel = 이스라엘의 열두 지파
@@ -320,7 +315,6 @@ GLOSSARY:
   New World = 신대륙
   Pope = 교황
   Pope Alexander VI = 교황 알렉산데르 6세
-  Queen = 퀸
   Reconquista = 레콩키스타
   Servant of God = 하느님의 종
   Spain = 스페인
@@ -348,7 +342,6 @@ GLOSSARY:
   César Awards = 세자르상
   Festival = 축제
   Film = 영화
-  French = 프랑스어
   La Journée de la jupe = 「치마의 날」
   La Reine Margot = 「여왕 마고」
   One Deadly Summer = 「여름의 살인」
@@ -400,7 +393,6 @@ GLOSSARY:
   Hebrew = 히브리어
   Hebrew Bible = 히브리어 성경
   Hezekiah = 히스기야
-  Israelite = 이스라엘인
   Jerusalem = 예루살렘
   Jotham = 요담
   Judah = 유다
@@ -470,7 +462,6 @@ HEADWORD: Isfahan = 이스파한
 LEVEL: 4
 GLOSSARY:
   Abbas the Great = 아바스 대제
-  City = 도시
   Cyrus the Great = 키루스 대왕
   Iran = 이란
   Isfahan = 이스파한
@@ -578,7 +569,6 @@ HEADWORD: Islam = 이슬람교
 LEVEL: 3
 GLOSSARY:
   Abraham = 아브라함
-  Abrahamic = 아브라함계
   Adam = 아담
   Arabian Peninsula = 아라비아반도
   Asia = 아시아
@@ -640,7 +630,6 @@ HEADWORD: Islamabad = 이슬라마바드
 LEVEL: 4
 GLOSSARY:
   Capital city = 수도
-  City = 도시
   Constantinos Apostolou Doxiadis = 콘스탄티노스 아포스톨루 독시아디스
   Faisal = 파이살
   Faisal Mosque = 파이살 모스크
@@ -678,7 +667,6 @@ GLOSSARY:
   Middle Persian = 중세 페르시아어
   Mongol = 몽골
   Mongol siege of Baghdad = 몽골의 바그다드 포위전
-  Others = 아더
   Persian = 페르시아어
   Renaissance = 르네상스
   Sanskrit = 산스크리트어
@@ -776,7 +764,6 @@ Architectural styles of buildings associated with [[Islam|Islamic]] civilization
 HEADWORD: Islamic art = 이슬람 미술
 LEVEL: 4
 GLOSSARY:
-  Byzantine = 비잔티움
   Calligraphy = 서예
   Central Asian = 중앙아시아
   Chinese art = 중국 미술
@@ -848,7 +835,6 @@ GLOSSARY:
   Neoplatonism = 신플라톤주의
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
-  Philosophy = 철학
   Safavid = 사파비 왕조
   Safavid Iran = 사파비 왕조
   philosophy of history = 역사철학
@@ -903,7 +889,6 @@ GLOSSARY:
   Islam = 이슬람교
   Islamic Republic of Iran = 이란 이슬람 공화국
   Islamic State = 이슬람 국가
-  Islamists = 이슬람주의자
   Islamophobia = 이슬람 혐오
   Justice = 정의
   Justice and Development Party = 정의개발당
@@ -927,11 +912,9 @@ HEADWORD: Island = 섬
 LEVEL: 3
 GLOSSARY:
   Archipelago = 제도
-  Climate = 기후
   Climate change = 기후 변화
   Continent = 대륙
   Continental islands = 대륙섬
-  Habitat = 서식지
   Hawaii = 하와이섬
   Hawaiian = 하와이어
   Hawaiian Islands = 하와이 제도
@@ -941,7 +924,6 @@ GLOSSARY:
   New Zealand = 뉴질랜드
   Pacific = 태평양
   Plate tectonics = 판 구조론
-  Species = 종
   Tuvalu = 투발루
   Zealand = 셸란섬
   Zealandia = 질랜디아
@@ -1029,7 +1011,6 @@ GLOSSARY:
   Solent = 솔런트 해협
   UNESCO = 유네스코
   UNESCO Biosphere Reserve = 유네스코 생물권 보전 지역
-  Victorian-era = 빅토리아 시대
   flying boats = 비행정
   unitary authority = 단일 자치체
 ENTRY:
@@ -1049,7 +1030,6 @@ GLOSSARY:
   Land's End = 랜즈엔드
   Navy = 해군
   Parliament = 의회
-  People = 『피플』
   Royal Navy = 영국 해군
   Royalist = 왕당파
   Tourism = 관광
@@ -1094,7 +1074,6 @@ GLOSSARY:
   Battle of Chaldiran = 찰디란 전투
   Iran = 이란
   Islam = 이슬람교
-  Ismail = 이스마일
   Khaṭāʾī = 하타이
   Middle East = 중동
   Ottoman = 오스만

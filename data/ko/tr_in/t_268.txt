@@ -100,7 +100,6 @@ GLOSSARY:
   Machiavelli = 마키아벨리
   Michael Laver = 마이클 레이버
   Niccolò Machiavelli = 니콜로 마키아벨리
-  People = 『피플』
   Plato = 플라톤
   Polettiques = 폴레티크
   Political moralists = 정치적 도덕주의자
@@ -191,7 +190,6 @@ GLOSSARY:
   Factory = 공장
   PFAS = 과불화화합물
   Per- and polyfluoroalkyl substances = 과불화 및 다불화 알킬 화합물
-  Pollution = 오염
   Sulfur dioxide = 이산화 황
   United Nations = 국제 연합
   Waste management = 폐기물 관리
@@ -233,7 +231,6 @@ GLOSSARY:
   Parthian = 파르티아
   Parthian Empire = 파르티아 제국
   Persia = 페르시아
-  Polo = 폴로
   Pony = 조랑말
   Saladin = 살라딘
   Sasanian Empire = 사산 제국
@@ -253,7 +250,6 @@ GLOSSARY:
   Marie Skłodowska-Curie = 마리 스크워도프스카퀴리
   Pierre Curie = 피에르 퀴리
   Poland = 폴란드
-  Rare = 「Rare」
   Selenium = 셀레늄
   Tellurium = 텔루륨
   Uranium = 우라늄
@@ -279,7 +275,6 @@ GLOSSARY:
   Lucite = 루사이트
   Perspex = 퍼스펙스
   Plexiglas = 플렉시글라스
-  Trade = 교역
   World = 세계
   World War II = 제2차 세계 대전
   acrylic = 아크릴
@@ -314,8 +309,6 @@ Practice of maintaining committed romantic and/or sexual relationships with more
 HEADWORD: Polycarbonate = 폴리카보네이트
 LEVEL: 5
 GLOSSARY:
-  Engineering = 공학
-  Family = 가족
   Glass = 유리
   Kilogram = 킬로그램
   amorphous = 비정질
@@ -360,7 +353,6 @@ HEADWORD: Polyendocrine metabolic ovarian syndrome = 다내분비 대사성 난�
 LEVEL: 5
 GLOSSARY:
   Hormone = 호르몬
-  Management = 경영학
   Metformin = 메트포르민
   Obesity = 비만
   Testosterone = 테스토스테론
@@ -385,7 +377,6 @@ GLOSSARY:
   Cotton = 면
   Ester = 에스테르
   Fiber = 섬유
-  Liquid = 액체
   Liquid crystalline polyesters = 액정 폴리에스터
   Polyester = 폴리에스터
   Polyethylene terephthalate = 폴리에틸렌 테레프탈레이트
@@ -406,7 +397,6 @@ GLOSSARY:
   England = 잉글랜드
   Eric Fawcett = 에릭 포셋
   Ethylene = 에틸렌
-  German = 독일어
   Hans von Pechmann = 한스 폰 페히만
   Imperial Chemical Industries = 임피리얼 케미컬 인더스트리스
   Karl Ziegler = 카를 치글러
@@ -561,7 +551,6 @@ Three-dimensional figure with flat polygonal faces, straight edges and sharp cor
 HEADWORD: Polymath = 박식가
 LEVEL: 5
 GLOSSARY:
-  Leonardo = 레오나르도
   Leonardo da Vinci = 레오나르도 다빈치
   Renaissance = 르네상스
   Renaissance humanism = 르네상스 인문주의
@@ -613,7 +602,6 @@ GLOSSARY:
   Nylon = 나일론
   Plastic = 플라스틱
   Polymer = 중합체
-  Wallace = 월리스
   Wallace Carothers = 월리스 캐러더스
   covalent bonds = 공유 결합
   macromolecules = 거대 분자
@@ -635,7 +623,6 @@ GLOSSARY:
   Enzyme = 효소
   Forensic science = 법과학
   Kary Mullis = 캐리 멀리스
-  Laboratory = 실험실
   Michael Smith = 마이클 스미스
   Nobel Prize = 노벨상
   Nobel Prize in Chemistry = 노벨 화학상
@@ -675,7 +662,6 @@ GLOSSARY:
   Norfolk Island = 노퍽섬
   Ocean = 대양
   Oceania = 오세아니아
-  Outliers = 『아웃라이어』
   Ouvéa = 우베아섬
   Pacific = 태평양
   Pacific Ocean = 태평양
@@ -714,7 +700,6 @@ GLOSSARY:
   Latin = 라틴어
   Numerical analysis = 수치 해석
   Physics = 물리학
-  Polynomial = 다항식
   Social science = 사회 과학
   algebraic geometry = 대수기하학
   algebraic varieties = 대수다양체
@@ -734,7 +719,6 @@ GLOSSARY:
   J. Paul Hogan = J. 폴 호건
   Karl Rehn = 카를 렌
   Montecatini = 몬테카티니
-  Paul = 바울로
   Petroleum = 석유
   Phillips Petroleum = 필립스 석유
   Plastic = 플라스틱
@@ -784,7 +768,6 @@ GLOSSARY:
   DuPont = 듀폰
   Friction = 마찰
   PFAS = 과불화화합물
-  PFOA = 과불화옥탄산
   Polymer = 중합체
   Roy J. Plunkett = 로이 J. 플렁킷
   Solid = 고체
@@ -803,15 +786,12 @@ GLOSSARY:
   Abrahamic = 아브라함계
   Abrahamic religions = 아브라함계 종교
   Alexandria = 알렉산드리아
-  Belief = 믿음
   Chinese folk religion = 중국 민간 신앙
   Deity = 신
   Hinduism = 힌두교
   Hindus = 힌두교도
   Monotheism = 일신교
   Philo of Alexandria = 알렉산드리아의 필론
-  Polytheism = 다신교
-  Polytheistic = 다신교
   Quran = 쿠란
   Shinto = 신토
   Taoism = 도교
@@ -881,7 +861,6 @@ GLOSSARY:
   Old Testament = 구약 성경
   Persian = 페르시아어
   Persian cuisine = 페르시아 요리
-  Pomegranate = 석류
   Pomegranate molasses = 석류 당밀
   Punica granatum = 푸니카 그라나툼
   United States = 미국
@@ -916,7 +895,6 @@ GLOSSARY:
   Mount Vesuvius = 베수비오산
   Naples = 나폴리
   Oscans = 오스크인
-  Pompeii = 폼페이
   Pumice = 부석
   UNESCO = 유네스코
   UNESCO World Heritage Site = 유네스코 세계유산
@@ -1001,7 +979,6 @@ Capital and most populous city of the Union Territory of Puducherry, India, on t
 HEADWORD: Water hyacinth = 부레옥잠
 LEVEL: 4
 GLOSSARY:
-  Control = 「Control」
   Hydrogen cyanide = 시안화수소
   Invasive species = 침입종
   Neochetina = 네오케티나속

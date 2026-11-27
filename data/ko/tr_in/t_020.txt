@@ -2,10 +2,8 @@
 HEADWORD: Antimatter = 반물질
 LEVEL: 4
 GLOSSARY:
-  Antimatter = 반물질
   Antiparticle = 반입자
   Cosmic ray = 우주선
-  Matter = 물질
   Radiation therapy = 방사선 치료
   Universe = 우주
   antiatoms = 반원자
@@ -21,7 +19,6 @@ Matter composed of [[Antiparticle|antiparticles]], which have the same mass as t
 HEADWORD: Antimony = 안티모니
 LEVEL: 4
 GLOSSARY:
-  Antimony = 안티모니
   Antimony trioxide = 삼산화 안티모니
   Arsenic = 비소
   Chemical element = 화학 원소
@@ -147,8 +144,6 @@ Hostility, prejudice or discrimination against Jews. Racial antisemitism holds t
 HEADWORD: Antisocial personality disorder = 반사회성 인격 장애
 LEVEL: 5
 GLOSSARY:
-  People = 『피플』
-  Personality = 성격
   Personality disorder = 인격 장애
   Suicide = 자살
 ENTRY:
@@ -196,7 +191,6 @@ GLOSSARY:
   Commedia dell'arte = 코메디아 델라르테
   Correggio = 코레조
   Cythera = 키테라
-  French = 프랑스어
   Louvre = 루브르 박물관
   Paris = 파리
   Peter Paul Rubens = 페테르 파울 루벤스
@@ -233,14 +227,12 @@ HEADWORD: Chekhov, Anton = 체호프, 안톤
 LEVEL: 4
 GLOSSARY:
   August Strindberg = 아우구스트 스트린드베리
-  Chekhov = 체호프
   Cherry = 체리
   Henrik Ibsen = 헨리크 입센
   Konstantin Stanislavski = 콘스탄틴 스타니슬랍스키
   Modernism = 모더니즘
   Moscow = 모스크바
   Moscow Art Theatre = 모스크바 예술극장
-  Russian = 러시아어
   Sakhalin = 사할린섬
   The Cherry Orchard = 『벚꽃 동산』
   The Island of Sakhalin = 『사할린섬』
@@ -319,7 +311,6 @@ GLOSSARY:
   Francis = 프랑수아
   God's Architect = 신의 건축가
   Mosaic = 모자이크
-  Pope = 교황
   Pope Francis = 교황 프란치스코
   Sagrada Família = 사그라다 파밀리아
   Scale model = 축척 모형
@@ -344,7 +335,6 @@ GLOSSARY:
   Delft = 델프트
   Dutch = 네덜란드어
   Dutch Golden Age = 네덜란드 황금시대
-  Father = 아버지
   Microbiology = 미생물학
   Microorganism = 미생물
   Microscope = 현미경
@@ -601,8 +591,6 @@ GLOSSARY:
   Filmfare Awards for Best Actress = 필름페어 여우주연상
   Karnataka = 카르나타카주
   Mangalore = 망갈로르
-  Media = 메디아
-  Queen = 퀸
   Super = 「슈퍼」
   Sweety Shetty = 스위티 셰티
   Tamil = 타밀어
@@ -707,7 +695,6 @@ HEADWORD: Apartment = 아파트
 LEVEL: 4
 GLOSSARY:
   Ancient Rome = 고대 로마
-  Apartment = 아파트
   British English = 영국 영어
   Building = 건물
   Elevator = 엘리베이터
@@ -771,7 +758,6 @@ GLOSSARY:
   Italy = 이탈리아
   Ligurian Alps = 리구리아 알프스
   Marsican brown bear = 마르시카불곰
-  Mountain = 산
   Mountain range = 산맥
   Reggio di Calabria = 레조디칼라브리아
   Sicily = 시칠리아
@@ -789,7 +775,6 @@ GLOSSARY:
   Iberian = 이베리아
   Iberian Lynx = 이베리아스라소니
   Lynx = 스라소니
-  Predator = 「프레데터」
   Sperm whale = 향유고래
   apex predators = 최상위 포식자
   rewilding = 재야생화
@@ -807,9 +792,7 @@ GLOSSARY:
   Brain tumor = 뇌종양
   Dementia = 치매
   Epilepsy = 뇌전증
-  Happy = 「Happy」
   Happy Birthday = 「생일 축하합니다」
-  Intelligence = 지능
   Language = 언어
   Sign language = 수어
   Stroke = 뇌졸중
@@ -904,7 +887,6 @@ GLOSSARY:
   Celery = 셀러리
   Coriander = 고수
   Cumin = 커민
-  Family = 가족
   Flowering plant = 속씨식물
   Genus = 속
   Parsley = 파슬리

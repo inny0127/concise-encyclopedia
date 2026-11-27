@@ -7,7 +7,6 @@ GLOSSARY:
   Dome of the Rock = 바위의 돔
   Herod the Great = 헤로데 대왕
   Islam = 이슬람교
-  Israel = 이스라엘
   Israeli–Palestinian conflict = 이스라엘-팔레스타인 분쟁
   Jerusalem = 예루살렘
   Judaism = 유대교
@@ -70,7 +69,6 @@ GLOSSARY:
   Bone = 뼈
   Connective tissue = 결합 조직
   Ligament = 인대
-  Tendon = 힘줄
   collagen = 콜라겐
   connective tissue = 결합 조직
   extracellular matrix = 세포외 기질
@@ -125,7 +123,6 @@ GLOSSARY:
   Tengri = 텡그리
   Tengrism = 텡그리 신앙
   Turkic peoples = 튀르크족
-  Worship = 예배
   Xiongnu = 흉노
   ancestor worship = 조상 숭배
   khans = 칸
@@ -198,7 +195,6 @@ GLOSSARY:
   Russian = 러시아어
   Synthetic element = 합성 원소
   Tennessee = 테네시주
-  Tennessine = 테네신
   U.S. state = 미국의 주
   superheavy element = 초중원소
 ENTRY:
@@ -220,7 +216,6 @@ GLOSSARY:
   Henry VIII = 헨리 8세
   Middle Ages = 중세
   Olympic Games = 올림픽
-  Racket = 래킷
   Summer Olympic Games = 하계 올림픽
   US Open = US 오픈
   Wimbledon = 윔블던
@@ -248,7 +243,6 @@ GLOSSARY:
   New Spain = 누에바에스파냐
   Nezahualcoyotl = 네사우알코요틀
   Spain = 스페인
-  Tenochtitlan = 테노치티틀란
   Texcoco = 텍스코코
   Tlaxcaltec = 틀락스칼텍족
   Viceroyalty of New Spain = 누에바에스파냐 부왕령
@@ -352,7 +346,6 @@ GLOSSARY:
   Pyramid = 피라미드
   Pyramid of the Moon = 달의 피라미드
   Pyramid of the Sun = 태양의 피라미드
-  Teotihuacan = 테오티우아칸
   UNESCO = 유네스코
   UNESCO World Heritage Site = 유네스코 세계유산
   World = 세계
@@ -371,7 +364,6 @@ GLOSSARY:
   Fluorescence = 형광
   Lanthanide = 란타넘족
   Sweden = 스웨덴
-  Swedish = 스웨덴어
   Terfenol-D = 테르페놀-D
   Ytterbium = 이터븀
   Ytterby = 위테르뷔
@@ -569,7 +561,6 @@ GLOSSARY:
   Mars = 화성
   Mercury (planet) = 수성
   Moon = 달
-  Planet = 행성
   Silicate = 규산염
   Solar System = 태양계
   Venus = 금성
@@ -590,12 +581,10 @@ GLOSSARY:
   English Toy Terrier = 잉글리시 토이 테리어
   French = 프랑스어
   Hound = 하운드
-  Hunting = 사냥
   Jack Russell Terrier = 잭 러셀 테리어
   Latin = 라틴어
   Old French = 고대 프랑스어
   Terrier = 테리어
-  Today = 「투데이」
   bull and terrier = 불 앤드 테리어
   chien terrier = chien terrier
 ENTRY:
@@ -799,7 +788,6 @@ HEADWORD: Tessellation = 쪽매맞춤
 LEVEL: 4
 GLOSSARY:
   Alhambra = 알람브라 궁전
-  Escher = 에스허르
   Hexagon = 육각형
   Islamic art = 이슬람 미술
   Johannes Kepler = 요하네스 케플러
@@ -835,7 +823,6 @@ Four-dimensional analog of the [[Cube|cube]]. It is bounded by eight cubes, twen
 HEADWORD: Testicle = 고환
 LEVEL: 4
 GLOSSARY:
-  Human = 인간
   Leydig cells = 라이디히 세포
   Ovary = 난소
   Pituitary gland = 뇌하수체

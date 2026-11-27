@@ -4,7 +4,6 @@ LEVEL: 5
 GLOSSARY:
   ASCII = 아스키
   American English = 미국 영어
-  Angle = 각
   Angle brackets = 꺾쇠괄호
   Braces = 중괄호
   British English = 영국 영어
@@ -30,7 +29,6 @@ GLOSSARY:
   Estuary = 하구
   Human = 인간
   Marsh = 소택지
-  Water = 물
   brackish water = 기수
   dikes = 제방
   fossil aquifers = 화석 대수층
@@ -172,7 +170,6 @@ GLOSSARY:
   India = 인도
   Jamuna = 자무나강
   Mount Kailash = 카일라스산
-  River = 강
   Sanskrit = 산스크리트어
   Tibet = 티베트
   Tibet Autonomous Region = 티베트 자치구
@@ -192,7 +189,6 @@ GLOSSARY:
   Brahmi script = 브라흐미 문자
   Buddhism = 불교
   Dravidian = 드라비다어
-  Family = 가족
   Gupta = 굽타
   Gupta Empire = 굽타 제국
   India = 인도
@@ -216,7 +212,6 @@ HEADWORD: Brahmin = 브라만
 LEVEL: 5
 GLOSSARY:
   Bhagavad Gita = 『바가바드 기타』
-  Brahmin = 브라만
   Brahmins = 브라만
   Buddhism = 불교
   Buddhist = 불교
@@ -255,7 +250,6 @@ GLOSSARY:
   Glial cells = 신경아교세포
   Neuron = 뉴런
   Spinal cord = 척수
-  Vertebrate = 척추동물
   action potentials = 활동 전위
   axons = 축삭
   brainstem = 뇌간
@@ -290,7 +284,6 @@ Brains are composed primarily of [[Neuron|neurons]] and glial cells. Glial cells
 HEADWORD: Brain death = 뇌사
 LEVEL: 5
 GLOSSARY:
-  Brain = 뇌
   Brain death = 뇌사
   Brainstem = 뇌줄기
   Finland = 핀란드
@@ -374,7 +367,6 @@ GLOSSARY:
   Gothic = 고딕
   Gothic horror = 고딕 호러
   Henry Irving = 헨리 어빙
-  Irish = 아일랜드어
   Irving = 어빙
   Lyceum = 리케이온
   Lyceum Theater = 라이시엄 극장
@@ -482,7 +474,6 @@ HEADWORD: Brass = 황동
 LEVEL: 4
 GLOSSARY:
   Alloy = 합금
-  Brass = 황동
   Bronze = 청동
   Copper = 구리
   Corrosion = 부식
@@ -530,8 +521,6 @@ GLOSSARY:
   Cabbage = 양배추
   Cauliflower = 콜리플라워
   Flowering plant = 속씨식물
-  Flowers = 「Flowers」
-  Garlic = 마늘
   Garlic mustard = 마늘냉이
   Horseradish = 서양고추냉이
   Invasive species = 침입종
@@ -559,7 +548,6 @@ HEADWORD: Bratislava = 브라티슬라바
 LEVEL: 4
 GLOSSARY:
   Austria = 오스트리아
-  Bratislava = 브라티슬라바
   Court = 법원
   Danube = 도나우강
   Europe = 유럽
@@ -571,7 +559,6 @@ GLOSSARY:
   Slovak = 슬로바키아어
   Slovakia = 슬로바키아
   St Martin's Cathedral = 성 마르틴 대성당
-  Today = 「투데이」
   Vienna = 빈
 ENTRY:
 Capital and largest city of [[Slovakia]], the fourth largest city on the [[Danube]]. It lies on both banks of the river at the foot of the Little Carpathians, on the border of [[Austria]] and [[Hungary]], and is the only national capital with land borders with two other sovereign states. [[Vienna]] lies just 50 km (31 mi) away, making the two the closest pair of capitals in Europe. The city proper has about 479,000 people, and the metropolitan area about 1.3 million. Bratislava was the coronation site and legislative center of the [[Kingdom of Hungary]] from 1536 to 1783, when eleven Hungarian kings and eight queens were crowned in St Martin's Cathedral. Today it is the seat of the Slovak president, parliament and government, and of the Supreme Court. It is the 19th-richest region of the [[European Union]] by GDP (PPP) per capita.
@@ -616,18 +603,14 @@ GLOSSARY:
   Federal District = 연방구
   G20 = 주요 20개국
   Getúlio Vargas = 제툴리우 바르가스
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Latin = 라틴어
   Latin America = 라틴아메리카
   Ocean = 대양
   Pedro Álvares Cabral = 페드루 알바르스 카브랄
-  Portugal = 포르투갈
   Portuguese language = 포르투갈어
-  Prince = 후작
   Prince Pedro of Braganza = 브라간사 왕가의 페드루 왕자
   Rio de Janeiro = 리우데자네이루
-  Slavery = 노예제
   South America = 남아메리카
   South American = 남아메리카
   São Paulo = 상파울루
@@ -707,7 +690,6 @@ GLOSSARY:
   Carlos = 카를로스
   Hélio Gracie = 엘리우 그레이시
   Judo = 유도
-  Martial = 마르티알리스
   Martial arts = 무술
   Mitsuyo Maeda = 마에다 미쓰요
   Mixed martial arts = 종합 격투기
@@ -767,7 +749,6 @@ GLOSSARY:
   Natufian = 나투프 문화
   Neolithic = 신석기 시대
   North Africa = 북아프리카
-  Pliny = 플리니우스
   Pliny the Elder = 대플리니우스
   Rye = 호밀
   Sourdough = 사워도
@@ -812,7 +793,6 @@ LEVEL: 4
 GLOSSARY:
   Akron = 애크런
   Cereal = 곡물
-  Ferdinand = 페르디난트
   Ferdinand Schumacher = 페르디난트 슈마허
   German = 독일어
   German Mills American Oatmeal Company = 저먼 밀스 아메리칸 오트밀 컴퍼니
@@ -837,7 +817,6 @@ GLOSSARY:
   Egypt = 이집트
   Europe = 유럽
   Falafel = 팔라펠
-  French = 프랑스어
   Middle Ages = 중세
   Romans = 로마인
   Sausage = 소시지
@@ -902,7 +881,6 @@ GLOSSARY:
   Bosnia = 보스니아
   Bosnia and Herzegovina = 보스니아 헤르체고비나
   Croatia = 크로아티아
-  Disintegration = 「Disintegration」
   Federal Republic = 독일 연방 공화국
   Federal Republic of Yugoslavia = 유고슬라비아 연방 공화국
   Germany = 독일

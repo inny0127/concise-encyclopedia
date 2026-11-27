@@ -20,7 +20,6 @@ GLOSSARY:
   Pope = 교황
   Pope Boniface VIII = 교황 보니파시오 8세
   Pope John Paul II = 교황 요한 바오로 2세
-  Scottish = 스코틀랜드
   Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
   Western Christendom = 서방 그리스도교 세계
@@ -117,7 +116,6 @@ LEVEL: 4
 GLOSSARY:
   Bangkok = 방콕
   Bat = 박쥐
-  Durian = 두리안
   Durio = 두리안속
   Durio zibethinus = 두리오 지베티누스
   Singapore = 싱가포르
@@ -169,7 +167,6 @@ GLOSSARY:
   Asia = 아시아
   Central Asia = 중앙아시아
   China = 중국
-  Drought = 가뭄
   Dust Bowl = 더스트 볼
   Gust fronts = 돌풍 전선
   Middle East = 중동
@@ -370,7 +367,6 @@ LEVEL: 5
 GLOSSARY:
   Achondroplasia = 연골무형성증
   Discrimination = 차별
-  Intelligence = 지능
   Support group = 자조 모임
   growth hormone = 성장 호르몬
   growth hormone deficiency = 성장 호르몬 결핍증
@@ -382,7 +378,6 @@ HEADWORD: Johnson, Dwayne = 존슨, 드웨인
 LEVEL: 5
 GLOSSARY:
   Attitude Era = 애티튜드 시대
-  Johnson = 존슨
   Jumanji = 「쥬만지」
   Jungle = 정글
   Maui = 마우이섬
@@ -431,7 +426,6 @@ GLOSSARY:
   All-Star = 올스타
   Basketball = 농구
   Finals MVP = 파이널 MVP
-  Flash = 플래시
   Heat = 열
   Jazz = 재즈
   Miami = 마이애미
@@ -456,7 +450,6 @@ GLOSSARY:
   Neolithic = 신석기 시대
   Pigment = 안료
   Republic of Georgia = 조지아
-  Textile = 직물
   Tyrian purple = 티리언 퍼플
   William = 윌리엄
   William Henry Perkin = 윌리엄 헨리 퍼킨
@@ -529,7 +522,6 @@ Mathematical model of the time dependence of a point in an ambient space, such a
 HEADWORD: Dynamical systems theory = 동역학계 이론
 LEVEL: 4
 GLOSSARY:
-  Area = 넓이
   Chaos = 카오스
   Chaos theory = 혼돈 이론
   Classical mechanics = 고전 역학
@@ -552,13 +544,10 @@ GLOSSARY:
   Alfred Nobel = 알프레드 노벨
   Ammonium nitrate = 질산 암모늄
   Ancient Greek = 고대 그리스어
-  Explosive = 폭발물
   Nitroglycerin = 니트로글리세린
   Nobel's Safety Powder = 노벨의 안전 화약
   Patent = 특허
   Safety = 안전
-  Swedish = 스웨덴어
-  Today = 「투데이」
   diatomaceous earth = 규조토
   sorbents = 흡착제
 ENTRY:
@@ -571,7 +560,6 @@ GLOSSARY:
   ADHD = 주의력 결핍 과잉 행동 장애
   Arithmetic = 산술
   Attention deficit hyperactivity disorder = 주의력 결핍 과잉행동 장애
-  Learning = 학습
   United Kingdom = 영국
   intraparietal sulcus = 두정내구
   learning difficulty = 학습 곤란
@@ -587,7 +575,6 @@ GLOSSARY:
   Amoeba = 아메바
   Antibiotic = 항생제
   Azithromycin = 아지트로마이신
-  Dysentery = 이질
   Entamoeba = Entamoeba
   Entamoeba histolytica = 이질아메바
   Feces = 대변
@@ -612,10 +599,7 @@ GLOSSARY:
   ADHD = 주의력 결핍 과잉 행동 장애
   Attention deficit hyperactivity disorder = 주의력 결핍 과잉행동 장애
   Dementia = 치매
-  Dyslexia = 난독증
-  Learning = 학습
   Learning disability = 학습 장애
-  People = 『피플』
   Stroke = 뇌졸중
   acquired dyslexia = 후천성 난독증
   developmental language disorders = 발달성 언어 장애
@@ -712,9 +696,7 @@ GLOSSARY:
   Artillery = 포병
   Ballistic Research Laboratory = 탄도 연구소
   Computer = 컴퓨터
-  ENIAC = 에니악
   J. Presper Eckert = J. 프레스퍼 에커트
-  John = 존
   John Mauchly = 존 모클리
   Laboratory = 실험실
   Maryland = 메릴랜드주

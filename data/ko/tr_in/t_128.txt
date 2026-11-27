@@ -11,7 +11,6 @@ GLOSSARY:
   Honorary Academy Award = 아카데미 명예상
   Judy = 「주디」
   Judy Garland = 주디 갈런드
-  Kelly = 켈리
   MGM = MGM
   Metro-Goldwyn-Mayer = 메트로골드윈메이어
   Paris = 파리
@@ -175,7 +174,6 @@ GLOSSARY:
   Ivar Giaever = 이바르 예베르
   J. P. Morgan = J. P. 모건
   Larry Culp = 래리 컬프
-  Morgan = 모건
   NBC = NBC
   Nobel Prize = 노벨상
   Thomas = 토머스
@@ -197,7 +195,6 @@ GLOSSARY:
   Emmy Awards = 에미상
   Frank = 프랭크
   Frank and Doris Hursley = 프랭크 허슬리와 도리스 허슬리
-  Guinness = 기네스
   Guinness World Records = 기네스 세계 기록
   Laura = 「로라」
   Los Angeles = 로스앤젤레스
@@ -249,7 +246,6 @@ GLOSSARY:
   Black hole = 블랙홀
   Einstein = 아인슈타인
   Einstein field equations = 아인슈타인 장 방정식
-  Geometric = 기하학 양식기
   Gravitational waves = 중력파
   Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
@@ -281,7 +277,6 @@ HEADWORD: General topology = 일반위상수학
 LEVEL: 4
 GLOSSARY:
   Algebraic topology = 대수적 위상수학
-  Branch = 브랜치
   Metric space = 거리 공간
   Open set = 열린집합
   Topological space = 위상 공간
@@ -417,7 +412,6 @@ GLOSSARY:
   Francis Crick = 프랜시스 크릭
   Har Gobind Khorana = 하르 고빈드 코라나
   J. Heinrich Matthaei = J. 하인리히 마테이
-  Marshall = 마셜 제도
   Marshall Nirenberg = 마셜 니런버그
   Medicine = 의학
   Mitochondria = 미토콘드리아
@@ -475,7 +469,6 @@ GLOSSARY:
   Herbert Boyer = 허버트 보이어
   Insulin = 인슐린
   Model organism = 모델 생물
-  Paul = 바울로
   Paul Berg = 폴 버그
   Recombinant = 재조합
   Recombinant DNA = 재조합 DNA
@@ -499,7 +492,6 @@ GLOSSARY:
   Flavr Savr = 플레이버 세이버
   Genetic engineering = 유전 공학
   Kingdom (taxonomy) = 계
-  Organism = 생물
   Salmon = 연어
   United States = 미국
 ENTRY:
@@ -510,7 +502,6 @@ HEADWORD: Genetics = 유전학
 LEVEL: 3
 GLOSSARY:
   Augustinian = 아우구스티노회
-  Branch = 브랜치
   Brno = 브르노
   Charles Darwin = 찰스 다윈
   DNA = DNA
@@ -519,13 +510,11 @@ GLOSSARY:
   Francis Crick = 프랜시스 크릭
   Gene = 유전자
   Gregor Mendel = 그레고어 멘델
-  Heredity = 유전
   Hugo = 휴고상
   Hugo de Vries = 휘호 더프리스
   Human = 인간
   Human Genome Project = 인간 게놈 프로젝트
   Human genome = 인간 유전체
-  James = 야고보
   James Watson = 제임스 왓슨
   Jean-Baptiste Lamarck = 장바티스트 라마르크
   Lamarck = 라마르크
@@ -533,7 +522,6 @@ GLOSSARY:
   On the Origin of Species = 『종의 기원』
   Species = 종
   Watson = 왓슨
-  William = 윌리엄
   William Bateson = 윌리엄 베이트슨
   archaea = 고세균
   blending inheritance = 융합 유전
@@ -562,7 +550,6 @@ GLOSSARY:
   Allobrogian = 알로브로게스족의
   Calvin = 칼뱅
   Canton of Geneva = 제네바주
-  City = 도시
   France = 프랑스
   Geneva = 제네바
   Geneva Conventions = 제네바 협약
@@ -573,7 +560,6 @@ GLOSSARY:
   Lake = 호수
   Lake Geneva = 레만호
   League of Nations = 국제 연맹
-  Peace = 평화
   Peace Capital = 평화의 수도
   Protestant = 개신교
   Protestant Rome = 프로테스탄트의 로마
@@ -627,7 +613,6 @@ GLOSSARY:
   Mongol Empire = 몽골 제국
   Mongolian = 몽골어
   Naiman = 나이만
-  Rus' = 루스
   Russia = 러시아
   Subutai = 수부타이
   Temüjin = 테무진
@@ -677,7 +662,6 @@ GLOSSARY:
   Milan = 밀라노
   Niccolò Paganini = 니콜로 파가니니
   Petrarch = 페트라르카
-  Port = 항구
   Republic of Genoa = 제노바 공화국
   Saint = 성인
   Saint George = 성 게오르기우스
@@ -785,7 +769,6 @@ ENTRY:
 HEADWORD: Gentrification = 젠트리피케이션
 LEVEL: 5
 GLOSSARY:
-  Gentrification = 젠트리피케이션
   Glass = 유리
   London = 런던
   Neighbourhood = 근린
@@ -808,7 +791,6 @@ GLOSSARY:
   Panthera onca = Panthera onca
   Species = 종
   Species Plantarum = 『식물의 종』
-  Swedish = 스웨덴어
   Taxonomic rank = 분류 계급
   binomial name = 이명
   jaguar = 재규어
@@ -825,7 +807,6 @@ GLOSSARY:
   Geochronology = 지질연대학
   Half-life = 반감기
   Radiometric methods = 방사성 연대 측정법
-  Uranium = 우라늄
   Zircon = 지르콘
   chronostratigraphy = 연대층서학
   igneous rocks = 화성암
@@ -891,7 +872,6 @@ GLOSSARY:
   Pacific Ocean = 태평양
   Panopea generosa = 파노페아 게네로사
   Plankton = 플랑크톤
-  Species = 종
   annual rings = 나이테
   siphons = 수관
 ENTRY:
@@ -935,7 +915,6 @@ GLOSSARY:
   Alex Krizhevsky = 알렉스 크리젭스키
   AlexNet = 알렉스넷
   David Rumelhart = 데이비드 러멜하트
-  Godfather = 대부
   Godfather of AI = AI의 대부
   Google = 구글
   Ilya Sutskever = 일리야 수츠케버
@@ -949,7 +928,6 @@ GLOSSARY:
   Ronald J. Williams = 로널드 J. 윌리엄스
   Turing = 튜링
   Turing Award = 튜링상
-  Williams = 윌리엄스
   Yann LeCun = 얀 르쿤
   Yoshua Bengio = 요슈아 벤지오
   artificial neural networks = 인공 신경망

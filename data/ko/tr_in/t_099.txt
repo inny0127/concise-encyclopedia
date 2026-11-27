@@ -82,7 +82,6 @@ GLOSSARY:
   Verdun = 베르됭
   Western Front = 서부 전선
   Western Front (World War I) = 서부 전선
-  World = 세계
   World War I = 제1차 세계 대전
   theater of operations = 전역
 ENTRY:
@@ -187,7 +186,6 @@ GLOSSARY:
   Red squirrel = 청설모
   Sciurus = Sciurus
   Sciurus carolinensis = 스키우루스 카롤리넨시스
-  Tree = 나무
   invasive species of Union concern = 유럽 연합 관리 대상 침입종
 ENTRY:
 Tree squirrel native to eastern North America, *Sciurus carolinensis*. It is an ecologically essential natural forest regenerator in its native range, but it is regarded as an invasive species in Europe, where it has largely displaced the [[Red squirrel|red squirrel]] in Britain. Since 2016 the [[European Union|European Union]] has listed it as an invasive species of Union concern, barring its import, breeding, transport, sale and intentional release.
@@ -318,7 +316,6 @@ HEADWORD: Eating disorder = 섭식 장애
 LEVEL: 4
 GLOSSARY:
   Anorexia = 신경성 식욕 부진증
-  Anxiety = 불안
   Anxiety disorder = 불안 장애
   Bulimia = 신경성 폭식증
   Depression (mood) = 우울
@@ -344,7 +341,6 @@ GLOSSARY:
   Dr. Dre = 닥터 드레
   EPs = EP
   Eazy-E = 이지-E
-  Godfather = 대부
   Godfather of Gangsta Rap = 갱스터 랩의 대부
   Ice Cube = 아이스 큐브
   N.W.A = N.W.A
@@ -433,7 +429,6 @@ GLOSSARY:
   Cambrian = 캄브리아기
   Chordate = 척삭동물
   Echinodermata = 극피동물문
-  Echinoderms = 극피동물
   Limestone = 석회암
   Sea cucumber = 해삼
   Sea urchin = 성게
@@ -599,10 +594,8 @@ GLOSSARY:
   Economic growth = 경제 성장
   Gini coefficient = 지니 계수
   Globalization = 세계화
-  Government = 정부
   Human = 인간
   Human Development Index = 인간 개발 지수
-  Research = 연구
   Welfare state = 복지 국가
   World = 세계
   World Wars = 세계 대전
@@ -634,9 +627,7 @@ Set of government actions that set taxation, budgets, the money supply, interest
 HEADWORD: Economics = 경제학
 LEVEL: 2
 GLOSSARY:
-  Adam = 아담
   Adam Smith = 애덤 스미스
-  Alfred = 앨프레드 대왕
   Alfred Marshall = 앨프리드 마셜
   Ancient Greek = 고대 그리스어
   Austrian = 오스트리아학파
@@ -660,7 +651,6 @@ GLOSSARY:
   Nobel Prize = 노벨상
   Ronald Coase = 로널드 코스
   Social science = 사회 과학
-  Thomas = 토머스
   Thomas Carlyle = 토머스 칼라일
   behavioral economics = 행동 경제학
   business cycles = 경기 순환
@@ -691,11 +681,9 @@ Schools of thought include the classical, neoclassical, Keynesian, and Austrian,
 HEADWORD: Economy = 경제
 LEVEL: 3
 GLOSSARY:
-  Adam = 아담
   Adam Smith = 애덤 스미스
   Ancient Greek = 고대 그리스어
   Antwerp = 안트베르펜
-  Area = 넓이
   Babylonia = 바빌로니아
   Babylonians = 바빌로니아인
   Christopher Columbus = 크리스토퍼 콜럼버스
@@ -746,13 +734,11 @@ GLOSSARY:
   Deng Xiaoping = 덩샤오핑
   GDP = GDP
   Gross domestic product = 국내 총생산
-  Manufacturing = 제조업
   PPP = PPP
   People's Republic = 중화인민공화국
   People's Republic of China = 중화인민공화국
   Renewable energy = 재생 에너지
   Republic of China = 중화민국
-  Socialist = 사회당
   Socialist market economy = 사회주의 시장 경제
   nominal GDP = 명목 GDP
   property crisis = 부동산 위기
@@ -842,7 +828,6 @@ GLOSSARY:
   Photosynthesis = 광합성
   Pollination = 수분
   Pollution = 오염
-  Restoration = 왕정복고
   Sustainable Development Goals = 지속 가능 발전 목표
   Sustainable development = 지속 가능한 발전
   atmosphere = 대기권
@@ -885,14 +870,12 @@ HEADWORD: Ecuador = 에콰도르
 LEVEL: 4
 GLOSSARY:
   Colombia = 콜롬비아
-  Ecuador = 에콰도르
   Galápagos = 갈라파고스
   Galápagos Islands = 갈라파고스 제도
   Gran Colombia = 그란콜롬비아
   Guayaquil = 과야킬
   Inca = 잉카
   Inca Empire = 잉카 제국
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Peru = 페루
   Quito = 키토

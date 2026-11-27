@@ -3,9 +3,7 @@ HEADWORD: Bacon = 베이컨
 LEVEL: 4
 GLOSSARY:
   BLT = BLT
-  Bacon = 베이컨
   Breakfast = 아침 식사
-  Meat = 고기
   Pork = 돼지고기
   Proto-Germanic = 게르만조어
   Sandwich = 샌드위치
@@ -22,7 +20,6 @@ HEADWORD: Bacteria = 세균
 LEVEL: 3
 GLOSSARY:
   Archaea = 고균
-  Bacteria = 세균
   Cholera = 콜레라
   Earth = 지구
   Earth's crust = 지각
@@ -31,7 +28,6 @@ GLOSSARY:
   Hot spring = 온천
   Hydrothermal vent = 열수 분출공
   Methane = 메탄
-  Once = 『Once』
   Soil = 토양
   Tuberculosis = 결핵
   anthrax = 탄저병
@@ -287,7 +283,6 @@ LEVEL: 4
 GLOSSARY:
   Abbasid = 아바스 왕조
   Abbasid Caliphate = 아바스 칼리파국
-  Baghdad = 바그다드
   Caliphate = 칼리파국
   Center of Learning = 학문의 중심
   House of Wisdom = 지혜의 집
@@ -312,10 +307,8 @@ LEVEL: 4
 GLOSSARY:
   Africa = 아프리카
   Asia = 아시아
-  Bagpipes = 백파이프
   Emperor Nero = 네로 황제
   Europe = 유럽
-  Family = 가족
   Great Highland bagpipe = 그레이트 하일랜드 백파이프
   Irish = 아일랜드어
   Nero = 네로
@@ -364,7 +357,6 @@ GLOSSARY:
   Justice = 정의
   Manifestations of God = 신의 현시자
   Muhammad = 무함마드
-  Religion = 종교
   Universal House of Justice = 만국정의원
   West Asia = 서아시아
   the Báb = 바브
@@ -405,7 +397,6 @@ GLOSSARY:
   Capoeira = 카포에이라
   Northeast = 북동부
   Northeast Region of Brazil = 브라질 북동부 지역
-  Once = 『Once』
   Salvador = 사우바도르
   slave trade = 노예 무역
   the Northeast = 둥베이
@@ -500,7 +491,6 @@ GLOSSARY:
   Ocean = 대양
   Pacific = 태평양
   Pacific Ocean = 태평양
-  Peninsula = 반도
   Plain = 평야
   River = 강
   San Felipe Desert = 산펠리페 사막
@@ -530,7 +520,6 @@ LEVEL: 5
 GLOSSARY:
   Bakersfield sound = 베이커즈필드 사운드
   California = 캘리포니아주
-  City = 도시
   Country music = 컨트리 음악
   Kern County = 컨카운티
   San Joaquin Valley = 샌와킨밸리
@@ -545,11 +534,8 @@ HEADWORD: Baking = 베이킹
 LEVEL: 4
 GLOSSARY:
   Ancient Egypt = 고대 이집트
-  Baking = 제빵
-  Bread = 빵
   Egypt = 이집트
   Flour = 밀가루
-  Heat = 열
   baking powder = 베이킹파우더
   caramelization = 캐러멜화
 ENTRY:
@@ -655,7 +641,6 @@ HEADWORD: Bald eagle = 흰머리수리
 LEVEL: 5
 GLOSSARY:
   Alaska = 알래스카주
-  Bird = 조류
   Bird of prey = 맹금류
   Canada = 캐나다
   DDT = DDT
@@ -693,7 +678,6 @@ Series of role-playing video games set in the Forgotten Realms campaign setting 
 HEADWORD: Balearic Islands = 발레아레스 제도
 LEVEL: 4
 GLOSSARY:
-  Archipelago = 제도
   Balearic Islands = 발레아레스 제도
   Catalan = 카탈루냐어
   Formentera = 포르멘테라섬
@@ -743,14 +727,12 @@ Public statement issued by the British government on November 2, 1917, supportin
 HEADWORD: Bali = 발리
 LEVEL: 4
 GLOSSARY:
-  Bali = 발리섬
   Balinese Hinduism = 발리 힌두교
   Belanjong pillar = 블란종 비문 석주
   Coral = 산호
   Coral Triangle = 산호 삼각지대
   Hinduism = 힌두교
   Indonesia = 인도네시아
-  Indonesian = 인도네시아어
   Lesser Sunda Islands = 소순다 열도
   Subak = 수박
   Sunda = 순다
@@ -777,8 +759,6 @@ GLOSSARY:
   Central Powers = 동맹국
   Corfu = 코르푸섬
   German = 독일어
-  Greece = 그리스
-  Italy = 이탈리아
   Montenegro = 몬테네그로
   Salonika = 살로니카
   Serbia = 세르비아
@@ -807,7 +787,6 @@ GLOSSARY:
   Europe = 유럽
   Karst = 카르스트
   Magura = 마구라 동굴
-  Mountain = 산
   Mountain range = 산맥
   Serbia = 세르비아
   brown bear = 불곰
@@ -904,7 +883,6 @@ Round object, usually spherical but sometimes ovoid. Balls are used in ball game
 HEADWORD: Ball lightning = 구전
 LEVEL: 5
 GLOSSARY:
-  Rare = 「Rare」
   St. Elmo's fire = 세인트엘모의 불
   Sulfur = 황
   Thunderstorm = 뇌우

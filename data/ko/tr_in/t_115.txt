@@ -68,7 +68,6 @@ GLOSSARY:
   Christopher Columbus = 크리스토퍼 콜럼버스
   Columbus = 콜럼버스
   Europe = 유럽
-  Ferdinand = 페르디난트
   Granada = 그라나다
   Isabella = 이저벨라
   Isabella I = 이사벨 1세
@@ -150,8 +149,6 @@ HEADWORD: Marcos, Ferdinand = 마르코스, 페르디난드
 LEVEL: 4
 GLOSSARY:
   Bongbong Marcos = 봉봉 마르코스
-  Debt = 부채
-  Filipino = 필리핀어
   Hawaii = 하와이
   Human rights = 인권
   Muslims = 무슬림
@@ -193,9 +190,7 @@ HEADWORD: Ferdowsi = 피르다우시
 LEVEL: 4
 GLOSSARY:
   Arab Muslim conquest = 아랍 무슬림의 정복
-  Book = 책
   Book of Kings = 『왕서』
-  Ferdowsi = 피르다우시
   Ghazni = 가즈니
   Iran = 이란
   Kings = 킹스
@@ -222,7 +217,6 @@ GLOSSARY:
   Ernst Kummer = 에른스트 쿠머
   Number theory = 수론
   Pierre de Fermat = 피에르 드 페르마
-  Theorem = 정리
   Wiles = 와일스
   algebraic number theory = 대수적 수론
   modularity theorem = 모듈러성 정리
@@ -240,7 +234,6 @@ GLOSSARY:
   Anaerobic metabolism = 혐기성 대사
   Cellular respiration = 세포 호흡
   Ethanol = 에탄올
-  Fermentation = 발효
   Lactic acid = 젖산
   Louis Pasteur = 루이 파스퇴르
   Pasteur = 파스퇴르
@@ -443,7 +436,6 @@ GLOSSARY:
   Cobalt = 코발트
   Electric motor = 전동기
   Electromagnet = 전자석
-  Ferromagnetism = 강자성
   Iron = 철
   Nickel = 니켈
   Property = 재산
@@ -464,7 +456,6 @@ GLOSSARY:
   Bangladesh = 방글라데시
   Bosporus = 보스포루스 해협
   Bridge = 다리
-  Ferries = 페리
   Ferry = 페리
   Firth of Forth = 포스만
   Hong Kong = 홍콩
@@ -517,7 +508,6 @@ Crescent-shaped region of the [[Middle East]], spanning Iraq, Israel, Jordan, Le
 HEADWORD: Fertilization = 수정
 LEVEL: 4
 GLOSSARY:
-  Fusion = 퓨전
   Oscar = 오스카상
   Oscar Hertwig = 오스카어 헤르트비히
   Pollen = 꽃가루
@@ -565,12 +555,10 @@ GLOSSARY:
   Green = 초록색
   Green Revolution = 녹색 혁명
   Haber process = 하버법
-  John = 존
   John Bennet Lawes = 존 베넷 로스
   Justus von Liebig = 유스투스 폰 리비히
   Nitrogen = 질소
   Norway = 노르웨이
-  Phosphate = 인산염
   Phosphorus = 인
   Potassium = 칼륨
   Reduced tillage = 감경운
@@ -689,7 +677,6 @@ GLOSSARY:
   Al-Andalus = 알안달루스
   Alawi dynasty = 알라위 왕조
   Almoravids = 무라비트 왕조
-  City = 도시
   Fez-Meknes = 페스메크네스
   Idrisid dynasty = 이드리스 왕조
   Ifriqiya = 이프리키야
@@ -710,12 +697,10 @@ City in northern [[Morocco]], capital of the Fez-Meknes administrative region. F
 HEADWORD: Fiber = 섬유
 LEVEL: 4
 GLOSSARY:
-  Animal = 동물
   Asbestos = 석면
   Cotton = 면
   Flax = 아마
   Nylon = 나일론
-  Plant = 식물
   Polyester = 폴리에스터
   Rayon = 레이온
   Silk = 비단
@@ -755,14 +740,12 @@ HEADWORD: Fibonacci sequence = 피보나치 수열
 LEVEL: 4
 GLOSSARY:
   Artichoke = 아티초크
-  Computing = 컴퓨팅
   Data structure = 자료 구조
   Fibonacci = 피보나치
   Fibonacci heap = 피보나치 힙
   Fibonacci numbers = 피보나치 수
   Fibonacci search technique = 피보나치 탐색
   Golden ratio = 황금비
-  Leonardo = 레오나르도
   Leonardo of Pisa = 피사의 레오나르도
   Liber = 리베르
   Liber Abaci = 『산반서』
@@ -770,7 +753,6 @@ GLOSSARY:
   Pingala = 핑갈라
   Pisa = 피사
   Sanskrit = 산스크리트어
-  Sequence = 수열
 ENTRY:
 Sequence in which each number is the sum of the two preceding ones. The sequence begins 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and its terms are called Fibonacci numbers. It was first described in Indian mathematics as early as 200 BC, in work by Pingala on [[Sanskrit]] poetry. [[Fibonacci|Leonardo of Pisa]] introduced it to Western European mathematics in *Liber Abaci* (1202). The ratio of consecutive terms approaches the [[Golden ratio|golden ratio]]. The numbers appear in the branching of trees, leaf arrangements and the spirals of [[Pineapple|pineapples]] and [[Artichoke|artichokes]], though not in all species. Computing uses include the Fibonacci search technique and the Fibonacci heap, a [[Data structure|data structure]].
 
@@ -824,7 +806,6 @@ LEVEL: 3
 GLOSSARY:
   Aesop = 이솝
   Ancient Greece = 고대 그리스
-  Fiction = 픽션
   Fictional universe = 가상 세계
   Greece = 그리스
   Hesiod = 헤시오도스
@@ -901,7 +882,6 @@ GLOSSARY:
   Palestine = 팔레스타인
   Peninsula = 반도
   Sahel = 사헬
-  Species = 종
   Tropic of Capricorn = 남회귀선
   mulberry = 뽕나무
   predynastic = 선왕조 시대

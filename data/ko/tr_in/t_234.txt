@@ -8,7 +8,6 @@ GLOSSARY:
   City = 도시
   Communist Party = 공산당
   Eastern Jin = 동진
-  Green = 초록색
   Guangxi = 광시
   Guangxi Zhuang Autonomous Region = 광시 좡족 자치구
   Humid subtropical climate = 온난 습윤 기후
@@ -58,8 +57,6 @@ GLOSSARY:
   Atlantic slave trade = 대서양 노예 무역
   Bretons = 브르타뉴인
   Brittany = 브르타뉴
-  City = 도시
-  Deindustrialization = 탈산업화
   European Green Capital = 유럽 녹색 수도
   European Green Capital Award = 유럽 녹색 수도상
   France = 프랑스
@@ -128,8 +125,6 @@ HEADWORD: Klein, Naomi = 클라인, 나오미
 LEVEL: 5
 GLOSSARY:
   British Columbia = 브리티시컬럼비아주
-  Canadian = 캐나다
-  Capitalism = 자본주의
   Centre for Climate Justice = 기후 정의 센터
   Climate = 기후
   Columbia = 컬럼비아
@@ -161,7 +156,6 @@ GLOSSARY:
   Korean War = 한국 전쟁
   Louis Fieser = 루이스 피저
   Mark 77 bombs = Mark 77 폭탄
-  Napalm = 네이팜
   U.S. military = 미군
   University = 대학
   Vietnam = 베트남
@@ -203,7 +197,6 @@ GLOSSARY:
   Benzene = 벤젠
   Emil Erlenmeyer = 에밀 에를렌마이어
   Garden = 정원
-  John = 존
   John Kidd = 존 키드
   Michael Faraday = 마이클 패러데이
   Naphtha = 나프타
@@ -222,7 +215,6 @@ GLOSSARY:
   Baroque = 바로크
   Campania = 캄파니아
   Caravaggio = 카라바조
-  City = 도시
   Italian unification = 이탈리아 통일
   Italy = 이탈리아
   Kingdom of Naples = 나폴리 왕국
@@ -398,7 +390,6 @@ GLOSSARY:
   Gout = 통풍
   Kidney = 콩팥
   NSAID = NSAID
-  Naproxen = 나프록센
   Nonsteroidal anti-inflammatory drug = 비스테로이드 항염증제
   Rheumatoid arthritis = 류마티스 관절염
   Stroke = 뇌졸중
@@ -447,7 +438,6 @@ LEVEL: 5
 GLOSSARY:
   DSM = DSM
   Empathy = 공감
-  Personality = 성격
   Personality disorder = 인격 장애
   Psychotherapy = 심리 치료
   comorbid = 동반 질환
@@ -561,7 +551,6 @@ GLOSSARY:
   Menes = 메네스
   Narmer = 나르메르
   Narmer Palette = 나르메르 팔레트
-  Necropolis = 네크로폴리스
   Pharaoh = 파라오
   Upper Egypt = 상이집트
 ENTRY:
@@ -619,7 +608,6 @@ GLOSSARY:
   Gakushuin University = 가쿠슈인 대학
   Japan = 일본
   Masako Owada = 오와다 마사코
-  Naruhito = 나루히토
   Oxford = 옥스퍼드
   Reiwa = 레이와
   University = 대학
@@ -745,7 +733,6 @@ GLOSSARY:
   Cournot = 쿠르노
   Economics = 경제학
   Game theory = 게임 이론
-  John = 존
   John Nash = 존 내시
   Nash equilibrium = 내시 균형
   Prisoner's dilemma = 죄수의 딜레마
@@ -799,7 +786,6 @@ GLOSSARY:
   Ibn Khaldun = 이븐 할둔
   Khorasan = 호라산
   Mongols = 몽골인
-  Persian = 페르시아어
   Polymath = 박식가
   Ptolemaic = 프톨레마이오스 왕조
   Ptolemy = 프톨레마이오스
@@ -845,7 +831,6 @@ GLOSSARY:
   Ford = 포드
   Francis = 프랑수아
   Francis Ford Coppola = 프랜시스 포드 코폴라
-  German = 독일어
   Globe = 지구본
   Golden Globe = 골든글로브상
   Golden Globe Award = 골든글로브상

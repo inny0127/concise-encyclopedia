@@ -85,7 +85,6 @@ GLOSSARY:
   Buddhism = 불교
   Dashanami = 다샤나미
   Govinda Bhagavatpada = 고빈다 바가바트파다
-  Hagiographies = 성인전
   Indian subcontinent = 인도 아대륙
   Kaladi = 칼라디
   Kerala = 케랄라주
@@ -122,7 +121,6 @@ His authentic works present a harmonizing reading of Hindu scripture centered on
 HEADWORD: Adiabatic process = 단열 과정
 LEVEL: 5
 GLOSSARY:
-  Energy = 에너지
   First law of thermodynamics = 열역학 제1법칙
   Heat = 열
   Meteorology = 기상학
@@ -144,7 +142,6 @@ GLOSSARY:
   FIFA = 국제 축구 연맹
   FIFA World Cup = FIFA 월드컵
   Finnish = 핀란드어
-  German = 독일어
   Jesse Owens = 제시 오언스
   Munich = 뮌헨
   Nike = 나이키
@@ -216,7 +213,6 @@ Part of speech that describes or defines a [[Noun|noun]] or noun phrase. Adjecti
 HEADWORD: Administrative law = 행정법
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Civil law = 대륙법
   Executive (government) = 행정부
   Legislature = 입법부
@@ -242,7 +238,6 @@ GLOSSARY:
   FutureSplash Animator = 퓨처스플래시 애니메이터
   Internet = 인터넷
   Macromedia = 매크로미디어
-  Multimedia = 멀티미디어
   Wipro = 위프로
   Zhongcheng = 중청
   rich Internet applications = 리치 인터넷 애플리케이션
@@ -305,7 +300,6 @@ GLOSSARY:
   Estrogen = 에스트로겐
   Heredity = 유전
   Latin = 라틴어
-  Physical = 「Physical」
   Pituitary gland = 뇌하수체
   Puberty = 사춘기
   Secondary sex characteristics = 이차 성징
@@ -358,7 +352,6 @@ GLOSSARY:
   Austria-Hungary = 오스트리아-헝가리
   Berlin = 베를린
   Braunau am Inn = 브라우나우암인
-  Conservative = 보수당
   Eastern Europe = 동유럽
   Enabling Act = 수권법
   Europe = 유럽
@@ -412,7 +405,6 @@ LEVEL: 4
 GLOSSARY:
   Académie Française = 아카데미 프랑세즈
   Assembly = 민회
-  Following = 「미행」
   France = 프랑스
   Franco-Prussian War = 프로이센-프랑스 전쟁
   French = 프랑스어
@@ -510,7 +502,6 @@ GLOSSARY:
   Cardiac arrest = 심정지
   Glaucoma = 녹내장
   Heart = 심장
-  Hormone = 호르몬
   Neurotransmitter = 신경 전달 물질
   SA node = 동방결절
   adrenal glands = 부신
@@ -609,7 +600,6 @@ GLOSSARY:
   Carl Gustav Jacob Jacobi = 카를 구스타프 야코프 야코비
   Euclidean = 유클리드
   Euclidean geometry = 유클리드 기하학
-  French = 프랑스어
   Gauss = 가우스
   Least squares = 최소 제곱법
   Legendre = 르장드르
@@ -638,7 +628,6 @@ LEVEL: 3
 GLOSSARY:
   Firearm = 화기
   Marriage = 혼인
-  Media = 메디아
   Puberty = 사춘기
   Voting = 투표
   age of majority = 성년 연령
@@ -656,7 +645,6 @@ Definitions of adulthood are often inconsistent. A person may be biologically ad
 HEADWORD: Adult Swim = 어덜트 스윔
 LEVEL: 5
 GLOSSARY:
-  Adult = 성인
   Adult Swim = 어덜트 스윔
   Animation = 애니메이션
   Anime = 애니메이션
@@ -719,7 +707,6 @@ GLOSSARY:
   Romance languages = 로망스어군
   Sentence (linguistics) = 문장
   Verb = 동사
-  Word = 단어
   open class = 개방 품사
   parts of speech = 품사
   preposition = 전치사
@@ -760,7 +747,6 @@ GLOSSARY:
   Cyclades = 키클라데스 제도
   Dardanelles = 다르다넬스 해협
   Dodecanese = 도데카니사 제도
-  Greece = 그리스
   Greek War of Independence = 그리스 독립 전쟁
   Independence = 인디펜던스
   Marmara Sea = 마르마라해
@@ -807,10 +793,8 @@ GLOSSARY:
   China = 중국
   Deflation = 취식
   Dune = 사구
-  Erosion = 침식
   Loess Plateau = 황토고원
   Plateau = 고원
-  Sand = 모래
   Wind = 바람
   abrasion = 마식
   barchans = 바르한
@@ -847,8 +831,6 @@ GLOSSARY:
   Bomber = 폭격기
   Fighter aircraft = 전투기
   Gulf War = 걸프 전쟁
-  Military = 군대
-  Transport = 교통
   Unmanned aerial vehicle = 무인 항공기
   World = 세계
   World War I = 제1차 세계 대전
@@ -869,7 +851,6 @@ LEVEL: 4
 GLOSSARY:
   Ancient Greek = 고대 그리스어
   Bernoulli's principle = 베르누이 정리
-  Branch = 브랜치
   Computer simulation = 컴퓨터 시뮬레이션
   Drag (physics) = 항력
   Lift (force) = 양력
@@ -888,7 +869,6 @@ Branch of dynamics concerned with the motion of air, particularly when affected 
 HEADWORD: Aerosmith = 에어로스미스
 LEVEL: 5
 GLOSSARY:
-  Aerosmith = 에어로스미스
   Boston = 보스턴
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
   glam metal = 글램 메탈

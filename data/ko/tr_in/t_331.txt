@@ -168,7 +168,6 @@ GLOSSARY:
   Bullseye = 불스아이
   Douglas = 더글러스
   Douglas Dayton = 더글러스 데이턴
-  John = 존
   John Geisse = 존 가이시
   Minneapolis = 미니애폴리스
   Minnesota = 미네소타주
@@ -202,7 +201,6 @@ GLOSSARY:
   Pacific Islands = 태평양 제도
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Taro = 토란
   Vegetable = 채소
   Zealand = 셸란섬
   corm = 알줄기
@@ -372,7 +370,6 @@ GLOSSARY:
   Australia = 오스트레일리아
   Australian = 오스트레일리아
   Dasyuridae = 주머니고양이과
-  Devil = 악마
   Devil facial tumor disease = 데빌 안면 종양병
   Looney Tunes = 「루니 툰」
   Marsupial = 유대류
@@ -410,11 +407,9 @@ LEVEL: 4
 GLOSSARY:
   Alkali metal = 알칼리 금속
   Cat = 고양이
-  Cats = 「캣츠」
   G protein-coupled receptors = G 단백질 연결 수용체
   Hydrogen = 수소
   Starch = 녹말
-  Taste = 미각
   Tongue = 혀
   Umami = 감칠맛
   papillae = 유두
@@ -536,7 +531,6 @@ LEVEL: 4
 GLOSSARY:
   Antiparticle = 반입자
   Electron = 전자
-  Elementary = 「엘리멘트리」
   Hadron = 강입자
   Lepton = 렙톤
   Martin Lewis Perl = 마틴 루이스 펄
@@ -587,7 +581,6 @@ GLOSSARY:
   Hyades = 히아데스 성단
   Hyades (star cluster) = 히아데스 성단
   Pleiades = 플레이아데스 성단
-  Zodiac = 황도 12궁
   Zodiac constellation = 황도 별자리
   celestial equator = 천구의 적도
   galactic equator = 은하 적도
@@ -648,7 +641,6 @@ GLOSSARY:
   Public transport = 대중교통
   Ridesharing = 승차 공유
   Taxibuses = 택시버스
-  Vehicle = 차량
   jeepneys = 지프니
   jitneys = 지트니
   minicabs = 미니캡
@@ -694,7 +686,6 @@ GLOSSARY:
   Louis Dufresne = 루이 뒤프렌
   Museum = 박물관
   Muséum National d'Histoire Naturelle = 국립 자연사 박물관
-  Taxidermy = 박제
   Tenochtitlan = 테노치티틀란
   Vertebrate = 척추동물
   arsenical soap = 비소 비누
@@ -843,7 +834,6 @@ GLOSSARY:
   Derivative = 도함수
   Maclaurin series = 매클로린 급수
   Polynomial = 다항식
-  Standard = 스탠더드
   Taylor polynomial = 테일러 다항식
   Taylor series = 테일러 급수
   Taylor's theorem = 테일러 정리

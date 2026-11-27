@@ -5,12 +5,10 @@ GLOSSARY:
   Armenia = 아르메니아
   Asia = 아시아
   Azerbaijan = 아제르바이잔
-  Drought = 가뭄
   Earth = 지구
   Fertile Crescent = 비옥한 초승달 지대
   Iran = 이란
   River = 강
-  Water = 물
   West Asia = 서아시아
   Zab River = 자브강
 ENTRY:
@@ -74,7 +72,6 @@ GLOSSARY:
   Reservoir = 저수지
   Togo = 토고
   Tourism = 관광
-  Water = 물
   global warming = 지구 온난화
   surface area = 겉넓이
 ENTRY:
@@ -164,7 +161,6 @@ GLOSSARY:
   British Empire = 대영 제국
   Chola kingdom = 촐라 왕조
   Coconut = 코코넛
-  Fishing = 어업
   Human = 인간
   Human settlement = 취락
   India = 인도
@@ -234,7 +230,6 @@ GLOSSARY:
   Kalpi = 칼피
   Major General = 소장
   Manikarnika Tambe = 마니카르니카 탐베
-  Queen = 퀸
   Rani = 라니
   Rose = 장미
   Varanasi = 바라나시
@@ -253,7 +248,6 @@ GLOSSARY:
   European Union = 유럽 연합
   Italy = 이탈리아
   Lazio = 라치오주
-  Meat = 고기
   Ovis aries = Ovis aries
   PGI = PGI(지리적 표시 보호)
   Sheep = 양
@@ -309,9 +303,7 @@ HEADWORD: Lamiaceae = 꿀풀과
 LEVEL: 4
 GLOSSARY:
   Basil = 바질
-  Family = 가족
   Flowering plant = 속씨식물
-  Flowers = 「Flowers」
   Labiatae = 순형과
   Mentha = 박하속
   Rosemary = 로즈메리
@@ -450,7 +442,6 @@ GLOSSARY:
   Proto-Germanic = 게르만조어
   Rodinia = 로디니아
   Solar System = 태양계
-  Solid = 고체
   South America = 남아메리카
   Zealand = 셸란섬
   cratons = 크라톤
@@ -482,7 +473,6 @@ GLOSSARY:
   American Civil War = 남북 전쟁
   China = 중국
   Civil War = 남북 전쟁
-  Explosive = 폭발물
   Gunpowder = 화약
   Ming = 명나라
   Ming dynasty = 명나라
@@ -512,7 +502,6 @@ GLOSSARY:
   Pharaoh = 파라오
   Puntland = 푼틀란드
   Queen = 퀸
-  Recent = 현세
   Sahure = 사후레
   Somalia = 소말리아
   Sudan = 수단
@@ -561,7 +550,6 @@ HEADWORD: Landfill = 매립지
 LEVEL: 4
 GLOSSARY:
   Earthquake = 지진
-  Once = 『Once』
   Recycling = 재활용
   Waste management = 폐기물 관리
   leachates = 침출수
@@ -595,10 +583,8 @@ GLOSSARY:
   Claudius = 클라우디우스
   Ecology = 생태학
   France = 프랑스
-  Frederick = 프리드리히
   Frederick Law Olmsted = 프레더릭 로 옴스테드
   Gardens of Versailles = 베르사유 정원
-  Gilbert = 길버트 제도
   Gilbert Laing Meason = 길버트 랭 미슨
   John = 존
   John Claudius Loudon = 존 클로디어스 라우던
@@ -633,7 +619,6 @@ LEVEL: 4
 GLOSSARY:
   Deforestation = 삼림 벌채
   Earthquake = 지진
-  Gravity = 중력
   Human = 인간
   Mining = 광업
   Urbanization = 도시화
@@ -688,7 +673,6 @@ GLOSSARY:
   Jean-Jacques Rousseau = 장자크 루소
   Johann Gottfried Herder = 요한 고트프리트 헤르더
   Kant = 칸트
-  Language = 언어
   Language family = 어족
   Latin = 라틴어
   Linguistics = 언어학
@@ -740,7 +724,6 @@ GLOSSARY:
   Plato = 플라톤
   Recursion = 재귀
   Second-language acquisition = 제2언어 습득
-  Skinner = 스키너
   Syntax = 통사론
   Thomas = 토머스
   Thomas Hobbes = 토머스 홉스
@@ -775,7 +758,6 @@ GLOSSARY:
   French = 프랑스어
   Historical linguistics = 역사 언어학
   Indo-European = 인도유럽어족
-  Language = 언어
   Latin = 라틴어
   Lyle Campbell = 라일 캠벨
   Mongolic = 몽골어족
@@ -841,8 +823,6 @@ GLOSSARY:
   Lanthanide = 란타넘족
   Lanthanum = 란타넘
   Lanthanum carbonate = 탄산 란타넘
-  Pure = 「퓨어」
-  Swedish = 스웨덴어
   arc lamps = 아크등
   bastnäsite = 바스트네사이트
   cerium nitrate = 질산 세륨
@@ -859,7 +839,6 @@ LEVEL: 4
 GLOSSARY:
   Benzene = 벤젠
   China = 중국
-  City = 도시
   Gansu = 간쑤성
   Han dynasty = 한나라
   Huns = 훈족

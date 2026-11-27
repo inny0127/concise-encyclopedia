@@ -109,7 +109,6 @@ Part of an organism involved in sexual reproduction. Sex organs produce and tran
 HEADWORD: Sex position = 성교 체위
 LEVEL: 5
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred Kinsey = 앨프리드 킨제이
   Kama = 카마강
   Kama Sutra = 『카마수트라』
@@ -172,12 +171,9 @@ GLOSSARY:
   Oxford = 옥스퍼드
   Oxford English Dictionary = 『옥스퍼드 영어 사전』
   Pauline M. Leet = 폴린 M. 리트
-  Peter = 베드로
   Peter Glick = 피터 글릭
-  Prejudice = 편견
   Rape = 강간
   Rome = 로마
-  Sexism = 성차별
   Sexual harassment = 성희롱
   Stereotype = 고정관념
   Susan Fiske = 수전 피스크
@@ -252,7 +248,6 @@ HEADWORD: Sexual assault = 성폭행
 LEVEL: 4
 GLOSSARY:
   Anxiety = 불안
-  Child = 어린이
   Child sexual abuse = 아동 성 학대
   Consent = 동의
   Post-traumatic stress disorder = 외상 후 스트레스 장애
@@ -349,7 +344,6 @@ GLOSSARY:
   Oral sex = 구강성교
   Religion = 종교
   Sexually transmitted infection = 성매개 감염병
-  Views = 『뷰스』
   World = 세계
   World Health Organization = 세계 보건 기구
   cloacal copulation = 총배설강 교미
@@ -445,7 +439,6 @@ GLOSSARY:
   Gonorrhea = 임질
   HIV/AIDS = HIV/AIDS
   Herpes = 헤르페스
-  Infection = 감염
   Infertility = 불임
   Papyrus = 파피루스
   Syphilis = 매독
@@ -476,8 +469,6 @@ GLOSSARY:
   African Union = 아프리카 연합
   Commonwealth = 영연방
   Commonwealth of Nations = 영연방
-  France = 프랑스
-  Independence = 인디펜던스
   Indian Ocean = 인도양
   Ocean = 대양
   Seychelles = 세이셸
@@ -739,7 +730,6 @@ GLOSSARY:
   Laundry = 세탁
   Laundry Service = 『런드리 서비스』
   Music = 음악
-  Queen = 퀸
   Queen of Latin Music = 라틴 음악의 여왕
   Sale el Sol = 『살레 엘 솔』
   World = 세계
@@ -792,7 +782,6 @@ LEVEL: 5
 GLOSSARY:
   Kaolinite = 고령석
   Quartz = 석영
-  Shale = 셰일
   clastic = 쇄설성
   clay minerals = 점토 광물
   fissility = 박리성
@@ -852,10 +841,8 @@ LEVEL: 4
 GLOSSARY:
   Anger = 분노
   Charles Darwin = 찰스 다윈
-  Darwin = 다윈
   Depression (mood) = 우울
   Eating disorder = 섭식 장애
-  Shame = 수치심
   eating disorders = 섭식 장애
   social phobia = 사회 공포증
 ENTRY:

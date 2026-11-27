@@ -10,7 +10,6 @@ GLOSSARY:
   North Atlantic = 북대서양
   North Atlantic right whale = 북대서양참고래
   Odontoceti = 이빨고래아목
-  Once = 『Once』
   Plankton = 플랑크톤
   Squid = 오징어
   Whale = 고래
@@ -64,7 +63,6 @@ GLOSSARY:
   Brazil = 브라질
   Commission = 위원회
   France = 프랑스
-  Hunting = 사냥
   Iceland = 아이슬란드
   Industrial Revolution = 산업 혁명
   International Whaling Commission = 국제포경위원회
@@ -113,13 +111,9 @@ GLOSSARY:
   Kamut = 카무트
   Khorasan = 호라산
   Maize = 옥수수
-  Roots = 「뿌리」
-  Species = 종
   T. aestivum = T. aestivum
   Triticum = 밀속
   West Asia = 서아시아
-  Wheat = 밀
-  World = 세계
   carpel = 심피
   coeliac disease = 셀리악병
   dermatitis herpetiformis = 포진상 피부염
@@ -306,7 +300,6 @@ GLOSSARY:
   NGC 5195 = NGC 5195
   Seyfert 2 = 세이퍼트 2형
   Spiral galaxy = 나선 은하
-  William = 윌리엄
   grand-design = 대규모 구조
   interaction models = 상호작용 모형
   nebula = 성운
@@ -318,7 +311,6 @@ Interacting grand-design [[Spiral galaxy|spiral galaxy]] in the [[Constellation|
 HEADWORD: Whirlpool = 소용돌이
 LEVEL: 5
 GLOSSARY:
-  Miniature = 미니어처
   Niagara = 「나이아가라」
   Niagara Falls = 나이아가라 폭포
   Rapids = 여울
@@ -343,7 +335,6 @@ GLOSSARY:
   Monotreme = 단공류
   Primate = 영장류
   Triassic = 트라이아스기
-  Whiskers = 수염
   follicles = 모낭
   vibrissae = 촉모
   whisking = 수염 떨기
@@ -388,7 +379,6 @@ GLOSSARY:
   Snow = 눈
   Titanium dioxide = 이산화 타이타늄
   United States = 미국
-  White = 흰색
   achromatic = 무채색
   ancient Egypt = 고대 이집트
   ancient Rome = 고대 로마
@@ -439,7 +429,6 @@ GLOSSARY:
   Mountain = 산
   Mountain Nile = 산악 나일강
   Nile = 나일강
-  River = 강
   Rwanda = 르완다
   South Sudan = 남수단
   Sudan = 수단
@@ -558,7 +547,6 @@ GLOSSARY:
   General relativity = 일반 상대성 이론
   Spacetime = 시공간
   Stephen Hawking = 스티븐 호킹
-  White = 흰색
   black hole = 블랙홀
   eternal black holes = 영원한 블랙홀
   general relativity = 일반 상대성 이론
@@ -592,7 +580,6 @@ GLOSSARY:
   Ol Pejeta = 올페제타
   Rhinoceros = 코뿔소
   Sudan = 수단
-  White = 흰색
   White rhinoceros = 흰코뿔소
   critically endangered = 위급
   northern subspecies = 북부흰코뿔소
@@ -606,7 +593,6 @@ LEVEL: 5
 GLOSSARY:
   Apartheid = 아파르트헤이트
   Atlantic slave trade = 대서양 노예 무역
-  Belief = 믿음
   European colonialism = 유럽 식민주의
   Jim Crow = 짐 크로
   Jim Crow laws = 짐 크로 법
@@ -669,7 +655,6 @@ HEADWORD: Whitefly = 가루이
 LEVEL: 4
 GLOSSARY:
   Aleyrodidae = 가루이과
-  Control = 「Control」
   Encarsia formosa = 온실가루이좀벌
   Hemiptera = 노린재목
   Hemipteran = 노린재목
@@ -817,7 +802,6 @@ HEADWORD: Wi-Fi = 와이파이
 LEVEL: 4
 GLOSSARY:
   Ethernet = 이더넷
-  Family = 가족
   IEEE = IEEE
   IEEE 802.11 = IEEE 802.11
   Internet = 인터넷
@@ -867,10 +851,8 @@ GLOSSARY:
   Arkansas River = 아칸소강
   Boeing = 보잉
   Chisholm Trail = 치점 트레일
-  City = 도시
   Cowtown = 카우타운
   Dwight D. Eisenhower = 드와이트 D. 아이젠하워
-  Eisenhower = 아이젠하워
   Kansas = 캔자스주
   River = 강
   Sedgwick County = 세지윅 카운티
@@ -915,7 +897,6 @@ GLOSSARY:
   Cohabitation = 동거
   Common law = 보통법
   Divorce = 이혼
-  Female = 암컷
   Proto-Germanic = 게르만조어
   annulment = 혼인 무효
   common-law marriage = 사실혼

@@ -4,11 +4,9 @@ LEVEL: 3
 GLOSSARY:
   Ancient Greek = 고대 그리스어
   Book = 책
-  Creation = 천지 창조
   Creation myth = 창조 신화
   Finnish = 핀란드어
   Folklore = 민속
-  Genre = 장르
   John = 존
   Lauri Honko = 라우리 혼코
   Legend = 전설
@@ -103,7 +101,6 @@ GLOSSARY:
   Johnson = 존슨
   Mexico = 멕시코
   Prohibition = 금주법 시대
-  Richard = 리처드
   Richard Petty = 리처드 페티
   U.S. states = 미국의 주
   United States = 미국
@@ -126,7 +123,6 @@ GLOSSARY:
   Finland = 핀란드
   Kosovo = 코소보
   Kosovo War = 코소보 전쟁
-  NATO = 북대서양 조약 기구
   North Atlantic = 북대서양
   North Atlantic Treaty = 북대서양 조약
   Russia's 2022 invasion of Ukraine = 2022년 러시아의 우크라이나 침공
@@ -195,7 +191,6 @@ GLOSSARY:
   All Things Considered = 「올 싱스 컨시더드」
   Broadcasting = 방송
   Corporation for Public Broadcasting = 공영 방송 공사
-  Johnson = 존슨
   Lyndon B. Johnson = 린든 B. 존슨
   Morning Edition = 「모닝 에디션」
   National Educational Radio Network = 전국 교육 라디오 네트워크
@@ -242,7 +237,6 @@ GLOSSARY:
   French = 프랑스어
   Kousséri = 쿠세리
   Logone = 로곤강
-  Meat = 고기
   N'Djamena = 은자메나
   Nigeria = 나이지리아
   World = 세계
@@ -262,7 +256,6 @@ GLOSSARY:
   Compton = 컴프턴
   Cube = 정육면체
   Dr. Dre = 닥터 드레
-  Drawing = 인발
   Eazy-E = 이지-E
   Ice Cube = 아이스 큐브
   N.W.A = N.W.A
@@ -300,7 +293,6 @@ GLOSSARY:
   Safavid = 사파비 왕조
   Safavid dynasty = 사파비 왕조
   Safavids = 사파비 왕조
-  Shah = 샤
   Soltan Hoseyn = 솔탄 호세인
   Timur = 티무르
   Turkoman = 투르크멘
@@ -326,7 +318,6 @@ GLOSSARY:
   Elliott Carter = 엘리엇 카터
   Ernest Boulanger = 에르네스트 불랑제
   Europe = 유럽
-  French = 프랑스어
   Glass = 유리
   Hallé = 할레 관현악단
   Paris = 파리
@@ -425,7 +416,6 @@ GLOSSARY:
   Mahāyāna = 대승 불교
   Mūlamadhyamakakārikā = 『중론』
   Plateau = 고원
-  Root = 뿌리
   Root Verses on Madhyamaka = 『근본중송』
   Sanskrit = 산스크리트어
   South India = 남인도
@@ -452,7 +442,6 @@ GLOSSARY:
   Kyushu = 규슈
   Nagasaki = 나가사키
   Nagasaki Prefecture = 나가사키현
-  Port = 항구
   UNESCO = 유네스코
   UNESCO World Heritage List = 유네스코 세계 유산 목록
   United States = 미국
@@ -543,7 +532,6 @@ GLOSSARY:
   Orange = 오렌지 카운티
   Orange City = 오렌지 도시
   Rashtriya Swayamsevak Sangh = 민족 봉사단
-  Second = 초
   Shah = 샤
   Tiger = 호랑이
   Tiger Capital of India = 인도의 호랑이 수도
@@ -617,7 +605,6 @@ GLOSSARY:
   Coffee = 커피
   East Africa = 동아프리카
   Enkare Nyirobi = 엔카레 니로비
-  Green = 초록색
   Green City under the Sun = 태양 아래의 녹색 도시
   Kenya = 케냐
   Maasai = 마사이족
@@ -672,7 +659,6 @@ GLOSSARY:
   Southeast = 남동부
   Southeast Asia = 동남아시아
   Southwest Asia = 서남아시아
-  Species = 종
   Venom = 독
   anticoagulant = 항응고제
   cytotoxic = 세포 독성
@@ -718,7 +704,6 @@ HEADWORD: Nakba = 나크바
 LEVEL: 5
 GLOSSARY:
   1948 Palestine war = 1948년 팔레스타인 전쟁
-  Arabic = 아랍어
   Arabs = 아랍인
   Independence = 인디펜던스
   Israel = 이스라엘
@@ -726,7 +711,6 @@ GLOSSARY:
   Nakba = 나크바
   Palestine = 팔레스타인
   Palestinian Arabs = 팔레스타인 아랍인
-  Palestinians = 팔레스타인인
   War of Independence = 독립 전쟁
   ethnic cleansing = 인종 청소
 ENTRY:
@@ -754,7 +738,6 @@ HEADWORD: Naloxone = 날록손
 LEVEL: 5
 GLOSSARY:
   List of Essential Medicines = 필수 의약품 목록
-  Naloxone = 날록손
   Narcan = 나르칸
   Opioid = 오피오이드
   United States = 미국
@@ -777,7 +760,6 @@ GLOSSARY:
   Old English = 고대 영어
   Personal name = 인명
   Surname = 성
-  Word = 단어
   binomial nomenclature = 이명법
   given name = 이름
   proper name = 고유 명칭
@@ -812,7 +794,6 @@ LEVEL: 4
 GLOSSARY:
   Africa = 아프리카
   African Union = 아프리카 연합
-  Agriculture = 농업
   Bantu = 반투족
   Bantu peoples = 반투족
   German = 독일어
@@ -821,7 +802,6 @@ GLOSSARY:
   Herero = 헤레로족
   League of Nations = 국제 연맹
   Nama = 나마족
-  Namibia = 나미비아
   National Party = 국민당
   Party = 파티
   Penguin = 펭귄

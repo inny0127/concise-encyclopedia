@@ -27,7 +27,6 @@ GLOSSARY:
   Invincible = 「인빈시블」
   J. Jonah Jameson = J. 조나 제임슨
   Johnson = 존슨
-  Jonah = 요나
   Marvel = 마블
   Omni-Man = 옴니맨
   Oz = 「오즈」
@@ -101,13 +100,11 @@ GLOSSARY:
   International Harvester = 인터내셔널 하베스터
   J. P. Morgan = J. P. 모건
   JPMorgan Chase = JP모건 체이스
-  Morgan = 모건
   Panic of 1907 = 1907년 공황
   Progressive Era = 진보 시대
   Pullman Car Company = 풀먼 차량 회사
   Rome = 로마
   Ron Chernow = 론 처노
-  Steel = 강철
   U.S. Steel = US 스틸
   Wall = 벽
   Wall Street = 월스트리트
@@ -202,11 +199,9 @@ Prehistoric period of [[Japan]], named for [[Pottery|pottery]] decorated with co
 HEADWORD: Berzelius, Jöns Jacob = 베르셀리우스, 옌스 야코브
 LEVEL: 4
 GLOSSARY:
-  Berzelius = 베르셀리우스
   Cerium = 세륨
   Chemistry = 화학
   Electrochemistry = 전기화학
-  Father = 아버지
   Law of Constant Proportions = 일정 성분비의 법칙
   Selenium = 셀레늄
   Silicon = 규소
@@ -728,7 +723,6 @@ GLOSSARY:
   Emmy Awards = 에미상
   Golden Globes = 골든 글로브상
   Jackie = 재키
-  Justice = 정의
   Minnesota = 미네소타주
   Minnesota Fats = 미네소타 팻츠
   Music = 음악
@@ -822,10 +816,8 @@ HEADWORD: Jacksonville, Florida = 잭슨빌
 LEVEL: 5
 GLOSSARY:
   Andrew Jackson = 앤드루 잭슨
-  City = 도시
   Duval County = 듀발 카운티
   Florida = 플로리다주
-  Harbor = 항구
   It = 『그것』
   Port = 항구
   Port of Jacksonville = 잭슨빌항
@@ -861,7 +853,6 @@ GLOSSARY:
   Joseph (Genesis) = 요셉
   Judaism = 유대교
   Rebecca = 리브가
-  Third = 교향곡 제3번
   Torah = 토라
   patriarch = 총대주교
   pharaoh = 파라오
@@ -968,7 +959,6 @@ GLOSSARY:
   Chemical equilibrium = 화학 평형
   Chemical kinetics = 화학 반응 속도론
   Chemistry = 화학
-  Dutch = 네덜란드어
   Hermann Kolbe = 헤르만 콜베
   Johannes Wislicenus = 요하네스 비슬리체누스
   Nobel Prize = 노벨상

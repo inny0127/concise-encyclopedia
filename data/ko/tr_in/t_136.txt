@@ -108,8 +108,6 @@ GLOSSARY:
   Poland = 폴란드
   Polish–Lithuanian Commonwealth = 폴란드-리투아니아 연방
   Prussia = 프로이센
-  Rus' = 루스
-  Russia = 러시아
   Russian = 러시아어
   Russian Empire = 러시아 제국
   Sovereign state = 주권 국가
@@ -179,12 +177,10 @@ Highest class of motorcycle road racing, held on road circuits sanctioned by the
 HEADWORD: Grand Rapids = 그랜드래피즈
 LEVEL: 5
 GLOSSARY:
-  Beer = 맥주
   Beer City USA = 맥주의 도시
   City = 도시
   Detroit = 디트로이트
   Ford = 포드
-  Furniture = 가구
   Furniture City = 가구의 도시
   Gerald Ford = 제럴드 포드
   Grand River = 그랜드강
@@ -262,7 +258,6 @@ ENTRY:
 HEADWORD: Grand Theft Auto = 그랜드 테프트 오토
 LEVEL: 4
 GLOSSARY:
-  Action-adventure = 액션 어드벤처
   City = 도시
   DMA Design = DMA 디자인
   David Jones = 데이비드 존스
@@ -295,8 +290,6 @@ LEVEL: 4
 GLOSSARY:
   Father = 아버지
   Mother = 어머니
-  Parent = 부모
-  Research = 연구
   second-degree relatives = 2촌 친족
 ENTRY:
 Parent of a person's [[Father|father]] or [[Mother|mother]], either paternal or maternal. Grandparents are second-degree relatives who share 25% genetic overlap with their grandchildren. Every sexually reproducing organism has at most 4 genetic grandparents and 8 genetic great-grandparents. Around 30,000 years ago the number of modern humans who lived to be grandparents increased, and it is generally believed that keeping information across three living generations was a key consequence. When parents cannot provide adequate care, grandparents often become primary caregivers, and in traditional cultures they often have a direct role in raising children. Research associates grandparental support with better grandchild well-being. They also transmit values, skills and cultural knowledge.
@@ -306,7 +299,6 @@ HEADWORD: Granite = 화강암
 LEVEL: 4
 GLOSSARY:
   Feldspar = 장석
-  Granite = 화강암
   Igneous rock = 화성암
   Magma = 마그마
   Mica = 운모
@@ -365,7 +357,6 @@ GLOSSARY:
   C. maxima = C. maxima
   China = 중국
   Citrus = 감귤속
-  Grapefruit = 자몽
   Pomelo = 포멜로
   forbidden fruit = 금단의 열매
   furanocoumarins = 푸라노쿠마린
@@ -407,7 +398,6 @@ Set of ordered pairs (x, y), where f(x) = y, representing a [[Function (mathemat
 HEADWORD: Graph theory = 그래프 이론
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Color = 색
   Computer science = 컴퓨터 과학
   Discrete mathematics = 이산수학
@@ -442,7 +432,6 @@ GLOSSARY:
   Physics = 물리학
   University = 대학
   University of Manchester = 맨체스터 대학교
-  Wallace = 월리스
   allotrope = 동소체
   tensile strength = 인장 강도
 ENTRY:
@@ -533,7 +522,6 @@ GLOSSARY:
   Biome = 생물군계
   Cretaceous = 백악기
   Earth = 지구
-  Ecosystem = 생태계
   England = 잉글랜드
   Estonia = 에스토니아
   Europe = 유럽
@@ -607,7 +595,6 @@ GLOSSARY:
   Aquifer = 대수층
   Argentina = 아르헨티나
   Concrete = 콘크리트
-  Gravel = 자갈
   ISO 14688 = ISO 14688
   Mars = 화성
   Quartz = 석영
@@ -680,7 +667,6 @@ Theoretical condition in which gravity is predicted to be so intense that [[Spac
 HEADWORD: Gravitational wave = 중력파
 LEVEL: 4
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Binary star = 쌍성
   Black hole = 블랙홀
@@ -690,7 +676,6 @@ GLOSSARY:
   Pulsar = 펄서
   Spacetime = 시공간
   Supernova = 초신성
-  Wave = 파동
   electromagnetic radiation = 전자기 복사
   general theory of relativity = 일반 상대성 이론
   gravitational radiation = 중력 복사
@@ -726,7 +711,6 @@ Hypothetical [[Elementary particle|elementary particle]] that mediates the gravi
 HEADWORD: Gravity = 중력
 LEVEL: 3
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Aristotle = 아리스토텔레스
   Black hole = 블랙홀
@@ -736,7 +720,6 @@ GLOSSARY:
   Fundamental interaction = 기본 상호 작용
   General relativity = 일반 상대성 이론
   Gravitational waves = 중력파
-  Gravity = 중력
   Greece = 그리스
   Latin = 라틴어
   Mass = 질량
@@ -772,7 +755,6 @@ GLOSSARY:
   Moon = 달
   Newton's Third Law = 뉴턴의 제3법칙
   Saturn = 토성
-  Spaceflight = 우주 비행
   Third = 교향곡 제3번
   Voyager = 보이저
 ENTRY:
@@ -828,7 +810,6 @@ GLOSSARY:
   Eurasian Steppe = 유라시아 스텝
   Food = 음식
   Food and Agriculture Organization = 국제 연합 식량 농업 기구
-  Grazing = 풀 뜯기
   Hay = 건초
   Inner Asia = 내륙 아시아
   Livestock = 가축

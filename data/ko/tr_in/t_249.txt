@@ -113,10 +113,8 @@ HEADWORD: Optical fiber = 광섬유
 LEVEL: 4
 GLOSSARY:
   Electrical cable = 전선
-  Glass = 유리
   John = 존
   John Tyndall = 존 틴들
-  Light = 빛
   London = 런던
   Paris = 파리
   Refractive index = 굴절률
@@ -144,7 +142,6 @@ GLOSSARY:
   Poggendorff = 포겐도르프
   Ponzo = 폰조
   Ptolemy = 프톨레마이오스
-  Richard = 리처드
   Richard Gregory = 리처드 그레고리
   Schizophrenia = 조현병
   Visual system = 시각계
@@ -188,7 +185,6 @@ GLOSSARY:
   Netherlands = 네덜란드
   Prism (optics) = 프리즘
   Resolving power = 분해능
-  Telescope = 망원경
   catadioptric telescopes = 반사 굴절 망원경
   chromatic aberration = 색수차
   electromagnetic spectrum = 전자기 스펙트럼
@@ -209,7 +205,6 @@ GLOSSARY:
   Aristotle = 아리스토텔레스
   Book = 책
   Book of Optics = 『광학의 서』
-  Branch = 브랜치
   Christiaan Huygens = 크리스티안 하위헌스
   Crete = 크레타섬
   Democritus = 데모크리토스
@@ -217,7 +212,6 @@ GLOSSARY:
   Electromagnetic radiation = 전자기 복사
   Epicurus = 에피쿠로스
   Euclid = 에우클레이데스
-  Geometric = 기하학 양식기
   Geometric optics = 기하 광학
   Ibn Sahl = 이븐 사흘
   Ibn al-Haytham = 이븐 알하이삼
@@ -276,7 +270,6 @@ GLOSSARY:
   Invasive species = 침입종
   Mexico = 멕시코
   Middle East = 중동
-  Opuntia = 백년초
   Opuntia ficus-indica = Opuntia ficus-indica
   flowering plants = 속씨식물
   prickly pear = 부채선인장
@@ -431,7 +424,6 @@ LEVEL: 4
 GLOSSARY:
   Christian democracy = 기독교 민주주의
   Christian democratic = 기독교 민주주의
-  Color = 색
   Europe = 유럽
   House of Orange = 오라녜 가문
   Netherlands = 네덜란드
@@ -459,7 +451,6 @@ GLOSSARY:
   Mandarin orange = 귤
   Mexico = 멕시코
   Myanmar = 미얀마
-  Orange = 오렌지 카운티
   Pomelo = 포멜로
   Portrait = 초상화
   chloroplast genome = 엽록체 유전체
@@ -475,7 +466,6 @@ GLOSSARY:
   Borneo = 보르네오섬
   Deforestation = 삼림 벌채
   Great ape = 대형 유인원
-  Orangutans = 오랑우탄
   Pongo = 오랑우탄속
   Primate = 영장류
   Sumatra = 수마트라섬
@@ -509,9 +499,7 @@ ENTRY:
 HEADWORD: Orbit = 궤도
 LEVEL: 4
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Johannes Kepler = 요하네스 케플러
   Kepler's laws = 케플러 법칙
@@ -631,7 +619,6 @@ GLOSSARY:
   Beethoven = 베토벤
   Cello = 첼로
   Classical music = 클래식 음악
-  French = 프랑스어
   French horn = 호른
   Gustav Mahler = 구스타프 말러
   Handel = 헨델
@@ -722,7 +709,6 @@ GLOSSARY:
   Levant = 레반트
   Mongol = 몽골
   Mongol campaign against the Nizaris = 몽골의 니자리파 원정
-  Nizari = 니자르파
   Nizari Isma'ili = 니자리 이스마일파
   Persia = 페르시아
   Seljuks = 셀주크 왕조
@@ -798,14 +784,12 @@ GLOSSARY:
   Adam Sedgwick = 애덤 세지윅
   Cambrian = 캄브리아기
   Charles Lapworth = 찰스 랩워스
-  Fish = 어류
   Gondwana = 곤드와나
   Ordovices = 오르도비케스족
   Ordovician = 오르도비스기
   Paleozoic = 고생대
   Paleozoic Era = 고생대
   Roderick Murchison = 로더릭 머치슨
-  Second = 초
   Silurian = 실루리아기
   South Pole = 남극점
   arthropods = 절지동물
@@ -845,7 +829,6 @@ GLOSSARY:
   Oregon = 오리건주
   Oregon Territory = 오리건 준주
   River = 강
-  Traffic = 「트래픽」
   first transcontinental railroad = 최초의 대륙 횡단 철도
   fur traders = 모피 상인
   transcontinental railroad = 대륙 횡단 철도
@@ -869,7 +852,6 @@ GLOSSARY:
   Pacific Northwest = 태평양 연안 북서부
   Portland = 포틀랜드
   Salem = 세일럼
-  Technology = 기술
   U.S. state = 미국의 주
   United States = 미국
 ENTRY:
@@ -929,7 +911,6 @@ GLOSSARY:
   Organ (biology) = 기관
   Plastid = 색소체
   Prokaryote = 원핵생물
-  Prokaryotes = 원핵생물
   bacterial microcompartments = 세균 미세 구획
   cell fractionation = 세포 분획법
   endoplasmic reticulum = 소포체

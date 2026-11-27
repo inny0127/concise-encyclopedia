@@ -34,14 +34,12 @@ LEVEL: 4
 GLOSSARY:
   Christopher Latham Sholes = 크리스토퍼 레이섬 숄스
   Data Secretary = 데이터 세크러터리
-  Google = 구글
   Google Docs = 구글 문서
   Henry Mill = 헨리 밀
   Microsoft = 마이크로소프트
   Microsoft Word = 마이크로소프트 워드
   Personal computer = 개인용 컴퓨터
   Smartphone = 스마트폰
-  Software = 소프트웨어
   Word = 단어
   web browser = 웹 브라우저
 ENTRY:
@@ -59,11 +57,8 @@ GLOSSARY:
   Hobby = 취미
   Hunter-gatherer = 수렵채집인
   Mark Twain = 마크 트웨인
-  Paul = 바울로
   Paul Lafargue = 폴 라파르그
   Protestantism = 개신교
-  Retirement = 은퇴
-  Sport = 스포츠
   The Adventures of Tom Sawyer = 『톰 소여의 모험』
   basic income = 기본 소득
   cooperatives = 협동조합
@@ -90,7 +85,6 @@ HEADWORD: Work = 일
 LEVEL: 4
 GLOSSARY:
   Angle = 각
-  Energy = 에너지
   Force = 힘
   French = 프랑스어
   Galileo = 갈릴레오
@@ -274,11 +268,9 @@ HEADWORD: World War II casualties = 제2차 세계 대전의 인명 피해
 LEVEL: 5
 GLOSSARY:
   China = 중국
-  Human = 인간
   People's Republic = 중화인민공화국
   People's Republic of China = 중화인민공화국
   Republic of China = 중화민국
-  Russian = 러시아어
   Soviet Union = 소련
   World = 세계
   World War II = 제2차 세계 대전
@@ -474,7 +466,6 @@ HEADWORD: World map = 세계 지도
 LEVEL: 5
 GLOSSARY:
   Earth = 지구
-  Maps = 지도
   Mercator projection = 메르카토르 도법
   Middle Ages = 중세
   Political maps = 정치 지도
@@ -512,7 +503,6 @@ LEVEL: 4
 GLOSSARY:
   Ayn Rand = 에인 랜드
   Capitalism = 자본주의
-  Democratic = 민주당
   Democratic peace theory = 민주적 평화론
   Diplomacy = 외교
   Earth = 지구
@@ -628,11 +618,9 @@ GLOSSARY:
   Christianity = 기독교
   Church = 처치
   Deity = 신
-  Forms = 이데아
   Mass = 미사
   New Testament = 신약 성경
   Old English = 고대 영어
-  Worship = 예배
   ancestor worship = 조상 숭배
   animal worship = 동물 숭배
   imperial cults = 황제 숭배
@@ -690,7 +678,6 @@ GLOSSARY:
   Biomechanics = 생체역학
   Coral reef = 산호초
   Endangered = 위기
-  Family = 가족
   Invertebrate = 무척추동물
   Labridae = 놀래기과
   Pacific = 태평양
@@ -710,7 +697,6 @@ GLOSSARY:
   Eurasian = 유라시아판
   Eurasian wren = 굴뚝새
   Fable = 우화
-  Family = 가족
   Invertebrate = 무척추동물
   New World = 신대륙
   Old World = 구세계
@@ -733,7 +719,6 @@ GLOSSARY:
   France = 프랑스
   Greco-Roman = 그레코로만형
   Greece = 그리스
-  Martial = 마르티알리스
   Martial arts = 무술
   New York City = 뉴욕
   Olympic Games = 올림픽
@@ -741,7 +726,6 @@ GLOSSARY:
   Professional wrestling = 프로레슬링
   Socrates = 소크라테스
   United States = 미국
-  Wrestling = 레슬링
   York = 요크
   ancient Greece = 고대 그리스
   ancient Olympic Games = 고대 올림픽
@@ -815,11 +799,9 @@ HEADWORD: Writing = 글쓰기
 LEVEL: 2
 GLOSSARY:
   China = 중국
-  Commerce = 상업
   Cuneiform = 쐐기 문자
   Egypt = 이집트
   Email = 이메일
-  Language = 언어
   Literacy = 문해력
   Mesoamerica = 메소아메리카
   Mesopotamia = 메소포타미아
@@ -828,7 +810,6 @@ GLOSSARY:
   Papyrus = 파피루스
   Reading = 읽기
   Typewriter = 타자기
-  Writing = 문자
   Writing system = 문자 체계
   alphabetic = 음소 문자
   ancient Near East = 고대 근동
@@ -938,7 +919,6 @@ GLOSSARY:
   Cast iron = 주철
   Chain = 사슬
   Charcoal = 숯
-  Iron = 철
   Nail (fastener) = 못
   Rivet = 리벳
   Steel = 강철

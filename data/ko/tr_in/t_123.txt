@@ -13,7 +13,6 @@ GLOSSARY:
   French literature = 프랑스 문학
   Jean-Paul Sartre = 장폴 사르트르
   Lingua franca = 링구아 프랑카
-  Literature = 문학
   Nobel Prize = 노벨상
   Nobel Prizes = 노벨상
   Roland = 롤랑
@@ -31,13 +30,11 @@ LEVEL: 4
 GLOSSARY:
   Angular frequency = 각진동수
   Commission = 위원회
-  Frequency = 진동수
   General Conference on Weights and Measures = 국제 도량형 총회
   German = 독일어
   Heinrich Hertz = 하인리히 헤르츠
   Hertz = 헤르츠
   International Electrotechnical Commission = 국제 전기 기술 위원회
-  Number = 수
   SI unit = SI 단위
   period = 주기
   radio waves = 전파
@@ -48,13 +45,11 @@ Number of occurrences of a repeating event per unit of time. Frequency specifies
 HEADWORD: Fresno = 프레즈노
 LEVEL: 5
 GLOSSARY:
-  Agriculture = 농업
   California = 캘리포니아주
   Central California = 중부 캘리포니아
   Central Pacific = 센트럴 퍼시픽 철도
   Central Pacific Railroad = 센트럴 퍼시픽 철도
   Central Valley = 센트럴 밸리
-  City = 도시
   Fresno County = 프레즈노군
   Pacific = 태평양
   River = 강
@@ -71,12 +66,10 @@ HEADWORD: Freyja = 프레이야
 LEVEL: 4
 GLOSSARY:
   Brísingamen = 브리싱가멘
-  Freyja = 프레이야
   Fólkvangr = 폴크방
   Gersemi = 게르세미
   Heimskringla = 『헤임스크링글라』
   Hnoss = 흐노스
-  Norse = 노르드인
   Odin = 오딘
   Poetic Edda = 『운문 에다』
   Prose = 산문
@@ -96,8 +89,6 @@ HEADWORD: Friction = 마찰
 LEVEL: 4
 GLOSSARY:
   Aristotle = 아리스토텔레스
-  Force = 힘
-  Friction = 마찰
   Guillaume Amontons = 기욤 아몽통
   Leonardo = 레오나르도
   Leonardo da Vinci = 레오나르도 다빈치
@@ -128,8 +119,6 @@ GLOSSARY:
   Louvre = 루브르 박물관
   Mexican Communist Party = 멕시코 공산당
   Party = 파티
-  Polio = 소아마비
-  Surrealist = 초현실주의
   The Frame = 「액자」
   York = 요크
   folk art = 민속 예술
@@ -191,7 +180,6 @@ GLOSSARY:
   Communist Manifesto = 『공산당 선언』
   Das Kapital = 『자본론』
   England = 잉글랜드
-  German = 독일어
   Karl Marx = 카를 마르크스
   Manchester = 맨체스터
   Marx = 마르크스
@@ -259,7 +247,6 @@ GLOSSARY:
   Elisabeth Förster-Nietzsche = 엘리자베트 푀르스터니체
   Existentialism = 실존주의
   France = 프랑스
-  German = 독일어
   Italy = 이탈리아
   Morality = 도덕
   Nazism = 나치즘
@@ -285,7 +272,6 @@ HEADWORD: Schiller, Friedrich = 실러, 프리드리히
 LEVEL: 4
 GLOSSARY:
   Classicism = 고전주의
-  German = 독일어
   Goethe = 괴테
   Jena = 예나
   Johann Wolfgang von Goethe = 요한 볼프강 폰 괴테
@@ -309,7 +295,6 @@ HEADWORD: Wöhler, Friedrich = 뵐러, 프리드리히
 LEVEL: 4
 GLOSSARY:
   Beryllium = 베릴륨
-  German = 독일어
   Göttingen = 괴팅겐
   Justus von Liebig = 유스투스 폰 리비히
   University = 대학
@@ -353,8 +338,6 @@ HEADWORD: Friendship = 우정
 LEVEL: 3
 GLOSSARY:
   Adolescence = 청소년기
-  Friends = 「프렌즈」
-  Friendship = 우정
   Pew Research = 퓨 리서치 센터
   Pew Research Center = 퓨 리서치 센터
   Research = 연구
@@ -381,7 +364,6 @@ GLOSSARY:
   Dwarfism = 왜소증
   Friesian = 프리지안
   Friesland = 프리슬란트
-  Horse = 말
   Inbreeding = 근친 교배
   Netherlands = 네덜란드
   gene pool = 유전자풀
@@ -418,7 +400,6 @@ GLOSSARY:
   Christmas = 크리스마스
   Christmas Island = 크리스마스섬
   Eocene = 에오세
-  Family = 가족
   Fregata = 군함조속
   Fregatidae = 군함조과
   Seabird = 바닷새
@@ -469,7 +450,6 @@ LEVEL: 4
 GLOSSARY:
   Basel = 바젤
   Chemistry = 화학
-  German = 독일어
   Haber process = 하버법
   Holocaust = 홀로코스트
   Jews = 유대인
@@ -541,9 +521,7 @@ Tailless [[Amphibian|amphibian]] of the order *Anura*. Frogs are widely distribu
 HEADWORD: Frost = 서리
 LEVEL: 4
 GLOSSARY:
-  Crystal = 결정
   Dew point = 이슬점
-  Frost = 서리
   Temperate climate = 온대 기후
   Water vapor = 수증기
   dew point = 이슬점
@@ -561,7 +539,6 @@ GLOSSARY:
   Andes = 안데스산맥
   Dominique Jean Larrey = 도미니크 장 라레
   Ibuprofen = 이부프로펜
-  Injury = 부상
   Napoleon = 나폴레옹
   Russia = 러시아
   Smoking = 흡연
@@ -576,7 +553,6 @@ HEADWORD: Frozen yogurt = 프로즌 요구르트
 LEVEL: 5
 GLOSSARY:
   Australia = 오스트레일리아
-  Frozen = 「겨울왕국」
   Halal = 할랄
   Ice cream = 아이스크림
   Netherlands = 네덜란드
@@ -592,8 +568,6 @@ GLOSSARY:
   Augustin-Pierre Dubrunfaut = 오귀스탱피에르 뒤브룅포
   Carbon dioxide = 이산화 탄소
   Ethanol = 에탄올
-  French = 프랑스어
-  Fructose = 과당
   Glucose = 포도당
   Maillard reaction = 마이야르 반응
   Sucrose = 수크로스
@@ -611,7 +585,6 @@ GLOSSARY:
   Apple = 사과
   Flowering plant = 속씨식물
   Pollination = 수분
-  Rhubarb = 대황
   Tomato = 토마토
   Vegetable = 채소
   accessory fruits = 헛열매
@@ -663,7 +636,6 @@ GLOSSARY:
   Calorie = 칼로리
   Deep frying = 딥 프라잉
   Egypt = 이집트
-  French = 프랑스어
   French fries = 감자튀김
   Maillard reaction = 마이야르 반응
   Sautéing = 소테
@@ -849,7 +821,6 @@ LEVEL: 5
 GLOSSARY:
   Buddhism = 불교
   Earth = 지구
-  Folklore = 민속
   Hinduism = 힌두교
   Moon = 달
   Purnima = 푸르니마

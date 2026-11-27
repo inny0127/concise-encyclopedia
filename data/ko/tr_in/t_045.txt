@@ -34,7 +34,6 @@ HEADWORD: Bond = 채권
 LEVEL: 5
 GLOSSARY:
   Bankruptcy = 파산
-  Bonds = 쌓기법
   Debt = 부채
   Debt security = 채무 증권
   Loan = 대출
@@ -228,7 +227,6 @@ GLOSSARY:
   Elizabeth II = 엘리자베스 2세
   Grammy = 그래미상
   Grammy Awards = 그래미상
-  Irish = 아일랜드어
   Medal of Freedom = 자유 훈장
   ONE Campaign = ONE 캠페인
   Persons of the Year = 올해의 인물
@@ -273,7 +271,6 @@ GLOSSARY:
   Censorship = 검열
   Cuneiform = 쐐기 문자
   Fiction = 픽션
-  Google = 구글
   Google Books = 구글 북스
   Gutenberg = 구텐베르크
   Iraq = 이라크
@@ -411,7 +408,6 @@ GLOSSARY:
   Up from Slavery = 『노예에서 벗어나』
   Virginia = 버지니아주
   W. E. B. Du Bois = W. E. B. 듀보이스
-  Washington = 워싱턴주
   White = 흰색
   White House = 백악관
   White supremacy = 백인 우월주의
@@ -423,7 +419,6 @@ American educator, author and orator. Born into slavery in [[Virginia]], he was 
 HEADWORD: Boolean algebra = 불 대수
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Claude = 클로드
   Claude Shannon = 클로드 섀넌
   Elementary algebra = 초등대수학
@@ -454,7 +449,6 @@ GLOSSARY:
   Artificial intelligence = 인공지능
   Boolean formula = 불 논리식
   Circuit design = 회로 설계
-  Heuristic = 휴리스틱
   Heuristic solvers = 휴리스틱 솔버
   NP-complete = NP-완전
   P versus NP = P-NP 문제
@@ -513,10 +507,8 @@ Type of footwear covering the foot and ankle, and often part of the lower leg. M
 HEADWORD: Bora Bora = 보라보라섬
 LEVEL: 5
 GLOSSARY:
-  France = 프랑스
   French = 프랑스어
   French Polynesia = 프랑스령 폴리네시아
-  James = 야고보
   James Cook = 제임스 쿡
   Mount Otemanu = 오테마누산
   Polynesia = 폴리네시아
@@ -613,7 +605,6 @@ HEADWORD: Borderline personality disorder = 경계성 인격 장애
 LEVEL: 4
 GLOSSARY:
   Mood disorder = 기분 장애
-  Personality = 성격
   Personality disorder = 인격 장애
   Psychotherapy = 심리 치료
   SSRI = SSRI
@@ -635,7 +626,6 @@ LEVEL: 4
 GLOSSARY:
   Attention = 주의
   Bleak House = 『황폐한 집』
-  Boredom = 지루함
   Charles Dickens = 찰스 디킨스
   Creativity = 창의성
   Depression (mood) = 우울
@@ -678,7 +668,6 @@ GLOSSARY:
   Borax = 붕사
   Boric acid = 붕산
   Boron = 붕소
-  Wilhelm = 빌헬름
   Wilhelm Homberg = 빌헬름 홈베르크
   borate esters = 붕산 에스터
   flame retardant = 난연제
@@ -693,7 +682,6 @@ HEADWORD: Becker, Boris = 베커, 보리스
 LEVEL: 5
 GLOSSARY:
   ATP = ATP
-  German = 독일어
   Grand Slam (tennis) = 그랜드 슬램
   Munich = 뮌헨
   Novak Djokovic = 노바크 조코비치
@@ -915,7 +903,6 @@ LEVEL: 5
 GLOSSARY:
   Beetroot = 비트
   Central Europe = 중부 유럽
-  Culture = 문화
   Culture of Ukrainian borscht cooking = 우크라이나 보르시 요리 문화
   Eastern Europe = 동유럽
   Europe = 유럽

@@ -15,7 +15,6 @@ GLOSSARY:
   Tabulae anatomicae sex = 『해부학 도해 6장』
   University = 대학
   University of Padua = 파도바 대학교
-  Vesalius = 베살리우스
 ENTRY:
 Flemish anatomist and physician, often regarded as the founder of modern human [[Anatomy|anatomy]]. He taught surgery and anatomy at the University of Padua from 1537 to 1542 and later served as imperial physician at the court of Emperor Charles V. His *Tabulae anatomicae sex* (1538) consisted of six large woodcut posters that were widely copied. His *De humani corporis fabrica libri septem*, published in [[Basel]] in 1543, was based on direct observation and identified over 200 anatomical inaccuracies in the work of [[Galen]], whose texts had long dominated anatomy. Vesalius made [[Dissection|dissection]] the central method of teaching, performing it himself before students.
 
@@ -74,7 +73,6 @@ GLOSSARY:
   Gospel = 복음서
   Homestead Strike = 홈스테드 파업
   J. P. Morgan = J. P. 모건
-  Morgan = 모건
   Palace = 궁전
   Peace = 평화
   Peace Palace = 평화궁
@@ -383,8 +381,6 @@ American artist and filmmaker. Born in [[Pittsburgh]] to Rusyn immigrant parents
 HEADWORD: Anemia = 빈혈
 LEVEL: 4
 GLOSSARY:
-  Anemia = 빈혈
-  Blood = 혈액
   Heart = 심장
   Heart failure = 심부전
   Hemoglobin = 헤모글로빈
@@ -518,9 +514,7 @@ Waterfall in [[Venezuela]], the world's tallest uninterrupted waterfall. Its tot
 HEADWORD: Angel = 천사
 LEVEL: 4
 GLOSSARY:
-  Abrahamic = 아브라함계
   Abrahamic religions = 아브라함계 종교
-  Angels = 사도
   Devil = 악마
   French = 프랑스어
   Gabriel = 가브리엘
@@ -634,10 +628,8 @@ LEVEL: 3
 GLOSSARY:
   Adrenaline = 아드레날린
   Aggression = 공격성
-  Anger = 분노
   Blood pressure = 혈압
   Body language = 몸짓 언어
-  Management = 경영학
   cognitive control = 인지 조절
   cognitive reappraisal = 인지적 재평가
   dispositional anger = 기질적 분노
@@ -663,7 +655,6 @@ GLOSSARY:
   Cambodia = 캄보디아
   Khmer Empire = 크메르 제국
   Mount Meru = 메루산
-  Restoration = 왕정복고
   Siem Reap = 시엠레아프
   Suryavarman II = 수리야바르만 2세
   UNESCO = 유네스코
@@ -680,8 +671,6 @@ HEADWORD: Angle = 각
 LEVEL: 3
 GLOSSARY:
   Adjacent angles = 이웃각
-  Angle = 각
-  Angles = 앵글족
   BC = 기원전
   Circle = 원
   Degree (angle) = 도
@@ -689,7 +678,6 @@ GLOSSARY:
   Euclid = 에우클레이데스
   Euclid's Elements = 『원론』
   Geometry = 기하학
-  Measurement = 측정
   Radian = 라디안
   Right angle = 직각
   Rotation = 회전
@@ -771,8 +759,6 @@ Western Christian tradition that developed from the [[Church of England]] after 
 HEADWORD: Angling = 낚시
 LEVEL: 4
 GLOSSARY:
-  Angling = 낚시
-  Fishing = 어업
   Old English = 고대 영어
   Salmon = 연어
   Trout = 송어
@@ -855,10 +841,8 @@ GLOSSARY:
   African Union = 아프리카 연합
   Angola = 앙골라
   Brazil = 브라질
-  Independence = 인디펜던스
   Kingdom of Kongo = 콩고 왕국
   Luanda = 루안다
-  Petroleum = 석유
   Portugal = 포르투갈
   Southern Africa = 남아프리카
   United Nations = 국제 연합
@@ -881,7 +865,6 @@ GLOSSARY:
   National Front = 국민전선
   South Africa = 남아프리카 공화국
   Soviet Union = 소련
-  UNITA = 앙골라 완전 독립 민족 동맹
   United States = 미국
   de facto = 사실상
   irregular warfare = 비정규전

@@ -3,7 +3,6 @@ HEADWORD: Montgolfier brothers = 몽골피에 형제
 LEVEL: 4
 GLOSSARY:
   Annonay = 아노네
-  French = 프랑스어
   Globe = 지구본
   Globe aérostatique = 글로브 아에로스타티크
   Hot air balloon = 열기구
@@ -171,7 +170,6 @@ GLOSSARY:
   Monty Hall = 몬티 홀
   Parade = 『퍼레이드』
   Paradox = 역설
-  Probability = 확률
 ENTRY:
 Probability puzzle based on the American game show *Let's Make a Deal* and named after its host, Monty Hall. A contestant picks one of three doors, behind one of which is a car, and the host opens a door hiding a goat. Should the contestant switch? Marilyn vos Savant answered in her Ask Marilyn column in *Parade* in 1990 that switching gives a 2/3 chance of winning. About 10,000 readers, including nearly 1,000 with PhDs, wrote in, most calling her wrong. Simulations and formal proofs confirm her answer. The solution is counterintuitive, which makes the problem a [[Paradox|paradox]], and it illustrates [[Bayes' theorem]].
 
@@ -216,7 +214,6 @@ GLOSSARY:
   ICD = ICD
   Major depressive disorder = 주요 우울 장애
   Mania = 조증
-  People = 『피플』
   Suicide = 자살
   affective disorder = 정동 장애
   cyclothymic disorder = 순환성 장애
@@ -267,7 +264,6 @@ GLOSSARY:
   Artemis program = 아르테미스 계획
   Earth = 지구
   Io = 이오
-  Isotope = 동위 원소
   Libration = 칭동
   Luna 1 = 루나 1호
   Luna 10 = 루나 10호
@@ -306,7 +302,6 @@ LEVEL: 4
 GLOSSARY:
   Apollo 11 = 아폴로 11호
   Apollo program = 아폴로 계획
-  Arrival = 「컨택트」
   Buzz Aldrin = 버즈 올드린
   Chandrayaan-3 = 찬드라얀 3호
   Chang'e 4 = 창어 4호
@@ -331,7 +326,6 @@ GLOSSARY:
   Asteroid = 소행성
   Callisto = 칼리스토
   Earth = 지구
-  Eight = 「에잇」
   Europa = 에우로파
   Galilean moons = 갈릴레이 위성
   Galileo = 갈릴레오
@@ -366,12 +360,9 @@ Phobos and Deimos, the two small, irregularly shaped natural satellites of [[Mar
 HEADWORD: Moons of Neptune = 해왕성의 위성
 LEVEL: 5
 GLOSSARY:
-  Eight = 「에잇」
   Larissa = 라리사
   Neptune = 해왕성
-  Seven = 「세븐」
   Triton (moon) = 트리톤
-  Voyager = 보이저
   Voyager 2 = 보이저 2호
   William = 윌리엄
   William Lassell = 윌리엄 라셀
@@ -435,7 +426,6 @@ GLOSSARY:
   Integrated circuit = 집적 회로
   Intel = 인텔
   Jensen Huang = 젠슨 황
-  Observation = 관찰
   Pat Gelsinger = 팻 겔싱어
   Semiconductor = 반도체
   compound annual growth rate = 연평균 성장률
@@ -447,7 +437,6 @@ Observation on the growth of [[Integrated circuit|integrated circuits]]. Gordon 
 HEADWORD: Moorland = 황야
 LEVEL: 5
 GLOSSARY:
-  Biodiversity = 생물 다양성
   British Isles = 브리튼 제도
   Europe = 유럽
   South America = 남아메리카
@@ -493,14 +482,12 @@ Historical exonym for mainly Muslim populations of North Africa, the [[Maghreb]]
 HEADWORD: Moose = 말코손바닥사슴
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Alces alces = Alces alces
   American bison = 아메리카들소
   Canada = 캐나다
   Deer = 사슴
   Europe = 유럽
   Hunting = 사냥
-  Moose = 말코손바닥사슴
   North America = 북아메리카
   Northern Hemisphere = 북반구
   Wolverine = 울버린
@@ -518,7 +505,6 @@ GLOSSARY:
   Cecropia = 케크로피아속
   Cretaceous = 백악기
   Dioecy = 암수딴그루
-  Family = 가족
   Fig = 무화과
   Jackfruit = 잭프루트
   Moraceae = 뽕나뭇과
@@ -572,7 +558,6 @@ GLOSSARY:
   Moral universalism = 도덕적 보편주의
   Nihilism = 허무주의
   Simon Blackburn = 사이먼 블랙번
-  Standard = 스탠더드
   amorality = 무도덕
   deontological ethics = 의무론적 윤리학
   moral philosophy = 도덕 철학
@@ -626,7 +611,6 @@ GLOSSARY:
   Isle of Apples = 사과의 섬
   King Arthur = 아서왕
   Mordred = 모드레드
-  Morgan = 모건
   Orkney = 오크니 제도
   Queen = 퀸
   Queen of Orkney = 오크니의 왕비
@@ -654,7 +638,6 @@ GLOSSARY:
   Restorationist = 회복주의
   Saint = 성인
   The Church of Jesus Christ of Latter-day Saints = 예수 그리스도 후기 성도 교회
-  Theology = 신학
   Trinitarianism = 삼위일체론
   York = 요크
   baptism for the dead = 죽은 자를 위한 침례
@@ -673,7 +656,6 @@ GLOSSARY:
   Almoravid = 무라비트 왕조
   Almoravid dynasty = 무라비트 왕조
   Arab League = 아랍 연맹
-  Arabic = 아랍어
   Atlantic Ocean = 대서양
   Casablanca = 카사블랑카
   France = 프랑스
@@ -722,7 +704,6 @@ HEADWORD: Morpheme = 형태소
 LEVEL: 4
 GLOSSARY:
   Allomorphs = 이형태
-  Bound = 「바운드」
   Derivational morphemes = 파생 형태소
   Inflectional morphemes = 굴절 형태소
   Latin = 라틴어
@@ -739,7 +720,6 @@ HEADWORD: Morphine = 모르핀
 LEVEL: 4
 GLOSSARY:
   Friedrich Sertürner = 프리드리히 제르튀르너
-  German = 독일어
   Heroin = 헤로인
   List of Essential Medicines = 필수 의약품 목록
   Merck = 머크
@@ -762,7 +742,6 @@ HEADWORD: Morphology = 형태론
 LEVEL: 4
 GLOSSARY:
   August Schleicher = 아우구스트 슐라이허
-  Branch = 브랜치
   Linguistics = 언어학
   Morpheme = 형태소
   Phonology = 음운론
@@ -788,7 +767,6 @@ GLOSSARY:
   North America = 북아메리카
   Radio = 라디오
   Samuel Morse = 새뮤얼 모스
-  Telecommunications = 전기 통신
   Telegraphy = 전신
   on-off keying = 온오프 변조
 ENTRY:
@@ -841,7 +819,6 @@ GLOSSARY:
   Bond (finance) = 채권
   French = 프랑스어
   Law French = 법률 프랑스어
-  Loan = 대출
   United States = 미국
   building society = 주택 금융 조합
   credit union = 신용 협동조합
@@ -860,7 +837,6 @@ GLOSSARY:
   Bombyx mori = 누에나방
   Brazil = 브라질
   China = 중국
-  Genus = 속
   M. nigra = M. nigra
   M. rubra = M. rubra
   Moraceae = 뽕나뭇과

@@ -25,7 +25,6 @@ GLOSSARY:
   European Union = 유럽 연합
   Nicosia = 니코시아
   Northern Cyprus = 북키프로스
-  Turkey = 튀르키예
   Turkish = 튀르키예어
   Turkish Cypriot = 튀르키예계 키프로스인
   de facto = 사실상
@@ -45,7 +44,6 @@ GLOSSARY:
   Dopamine = 도파민
   Eggplant = 가지
   International Agency for Research on Cancer = 국제 암 연구소
-  Nicotine = 니코틴
   Potato = 감자
   Research = 연구
   Surgeon General = 공중보건국장
@@ -66,7 +64,6 @@ GLOSSARY:
   Bohr model = 보어 모형
   CERN = 유럽 입자 물리 연구소
   Copenhagen = 코펜하겐
-  Danish = 덴마크어
   Institute of Theoretical Physics = 이론물리학 연구소
   Manhattan = 맨해튼
   Manhattan Project = 맨해튼 계획
@@ -89,7 +86,6 @@ Danish theoretical physicist whose foundational work on atomic structure and qua
 HEADWORD: Abel, Niels Henrik = 아벨, 닐스 헨리크
 LEVEL: 4
 GLOSSARY:
-  Abel = 아벨
   Abelian = 아벨
   Abelian functions = 아벨 함수
   Adrien-Marie Legendre = 아드리앵마리 르장드르
@@ -216,7 +212,6 @@ GLOSSARY:
   Abdourahamane Tiani = 압두라하마네 티아니
   Bornu Empire = 보르누 제국
   Chad = 차드
-  Following = 「미행」
   France = 프랑스
   French = 프랑스어
   French West Africa = 프랑스령 서아프리카
@@ -319,9 +314,7 @@ GLOSSARY:
   Earth = 지구
   Earth's rotation = 지구의 자전
   Horizon = 지평선
-  Light = 빛
   Mercury (planet) = 수성
-  Night = 『밤』
   Photosynthesis = 광합성
   Sun = 태양
   Venus = 금성
@@ -384,7 +377,6 @@ GLOSSARY:
   Caprimulgiformes = 쏙독새목
   Eocene = 에오세
   Europe = 유럽
-  Family = 가족
   New Caledonia = 누벨칼레도니
   New World = 신대륙
   Oligocene = 올리고세
@@ -441,7 +433,6 @@ GLOSSARY:
   Epistemology = 인식론
   Existential nihilism = 실존적 허무주의
   Existentialism = 실존주의
-  Family = 가족
   Friedrich Heinrich Jacobi = 프리드리히 하인리히 야코비
   Friedrich Nietzsche = 프리드리히 니체
   Germany = 독일
@@ -535,7 +526,6 @@ GLOSSARY:
   National Basketball Association = 전미 농구 협회
   Nuggets = 너기츠
   Serbia = 세르비아
-  Serbian = 세르비아어
   Summer Olympics = 하계 올림픽
 ENTRY:
 Serbian [[Basketball|basketball]] player and center for the Denver Nuggets of the [[National Basketball Association]]. He is an eight-time NBA All-Star and a three-time NBA Most Valuable Player. He led the Nuggets to their first NBA championship in 2023 and was named Finals MVP. Selected 41st overall in the 2014 draft, he is the lowest-drafted player to win either the MVP or Finals MVP award. He has also played for Serbia, winning a silver medal at the 2016 Summer Olympics and a bronze at the 2024 Summer Olympics.
@@ -589,7 +579,6 @@ GLOSSARY:
   Party = 파티
   Pravda = 『프라우다』
   Right Opposition = 우익 반대파
-  Russian = 러시아어
   Vladimir = 블라디미르
   Vladimir Lenin = 블라디미르 레닌
   show trial = 여론 재판
@@ -609,11 +598,9 @@ GLOSSARY:
   Fyodor Dostoevsky = 표도르 도스토옙스키
   Government = 정부
   Mikhail Bulgakov = 미하일 불가코프
-  Nevsky = 넵스키
   Nevsky Prospekt = 「넵스키 거리」
   Nicholas I = 니콜라이 1세
   Overcoat = 「외투」
-  Russian = 러시아어
   The Government Inspector = 『검찰관』
   The Nose = 「코」
   The Overcoat = 「외투」
@@ -630,7 +617,6 @@ HEADWORD: Lobachevsky, Nikolai = 로바쳅스키, 니콜라이
 LEVEL: 4
 GLOSSARY:
   Bolyai = 보여이
-  Copernicus = 코페르니쿠스
   Copernicus of Geometry = 기하학의 코페르니쿠스
   Differential geometry = 미분기하학
   Euclid = 에우클레이데스
@@ -640,9 +626,7 @@ GLOSSARY:
   Kazan University = 카잔 대학교
   Lobachevskian geometry = 로바쳅스키 기하학
   Non-Euclidean geometry = 비유클리드 기하학
-  Russian = 러시아어
   University = 대학
-  William = 윌리엄
   William Kingdon Clifford = 윌리엄 킹던 클리퍼드
   differential geometry = 미분기하학
   hyperbolic geometry = 쌍곡 기하학
@@ -665,7 +649,6 @@ GLOSSARY:
   Modest Mussorgsky = 모데스트 무소륵스키
   Mussorgsky = 무소륵스키
   Petersburg = 피터즈버그
-  Rimsky-Korsakov = 림스키코르사코프
   Russian = 러시아어
   Russian Easter Festival Overture = 「러시아 부활절 축제 서곡」
   Saint = 성인
@@ -739,7 +722,6 @@ GLOSSARY:
   Rwanda = 르완다
   South Sudan = 남수단
   Sudan = 수단
-  Today = 「투데이」
   Uganda = 우간다
   White = 흰색
   White Nile = 백나일강
@@ -759,7 +741,6 @@ Today the Nile is critical to the economies of Egypt and Sudan. Over a dozen dam
 HEADWORD: Nile crocodile = 나일악어
 LEVEL: 5
 GLOSSARY:
-  Adult = 성인
   Crocodylus niloticus = Crocodylus niloticus
   Nile = 나일강
   Nile crocodile = 나일악어
@@ -799,11 +780,7 @@ HEADWORD: Nimitz-class aircraft carrier = 니미츠급 항공모함
 LEVEL: 5
 GLOSSARY:
   Aircraft carrier = 항공모함
-  Ford = 포드
   George H. W. Bush = 조지 H. W. 부시
-  Length = 길이
-  Navy = 해군
-  Steam = 스팀
   Super = 「슈퍼」
   Super Hornets = 슈퍼 호넷
   U.S. Navy = 미국 해군
@@ -890,7 +867,6 @@ Dystopian novel by English writer [[George Orwell]], published on June 8, 1949. 
 HEADWORD: Ninety-five Theses = 95개조 반박문
 LEVEL: 4
 GLOSSARY:
-  Catholic = 가톨릭
   Christians = 기독교인
   Martin Luther = 마르틴 루터
   Protestant = 개신교

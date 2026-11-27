@@ -3,7 +3,6 @@ HEADWORD: Gabapentin = 가바펜틴
 LEVEL: 5
 GLOSSARY:
   Epilepsy = 뇌전증
-  Food = 음식
   Food and Drug Administration = 식품의약국
   GABA = GABA
   Neurontin = 뉴론틴
@@ -53,8 +52,6 @@ GLOSSARY:
   Democratic Party = 민주당
   France = 프랑스
   Franceville = 프랑스빌
-  French = 프랑스어
-  Gabon = 가봉
   Gabonese Democratic Party = 가봉 민주당
   Libreville = 리브르빌
   Omar Bongo = 오마르 봉고
@@ -89,7 +86,6 @@ GLOSSARY:
   Clair de lune = 「달빛」
   Conservatoire = 음악원
   Dictionary = 사전
-  French = 프랑스어
   Grove Dictionary of Music and Musicians = 『그로브 음악 사전』
   Harmony = 화성
   Maurice Ravel = 모리스 라벨
@@ -144,7 +140,6 @@ GLOSSARY:
   Mary, mother of Jesus = 성모 마리아
   Michael = 미카엘
   Muhammad = 무함마드
-  Muslims = 무슬림
   Quran = 쿠란
   Zechariah = 즈카르야
 ENTRY:
@@ -157,13 +152,11 @@ GLOSSARY:
   Chelated = 킬레이트화
   Finnish = 핀란드어
   Félix Trombe = 펠릭스 트롱브
-  Gadolinium = 가돌리늄
   Jean Charles de Marignac = 장 샤를 드 마리냐크
   Johan Gadolin = 유한 가돌린
   Lanthanide = 란타넘족
   Magnetic resonance imaging = 자기 공명 영상
   Nuclear reactor = 원자로
-  Pure = 「퓨어」
   Rare-earth element = 희토류 원소
   contrast agents = 조영제
   gadolinite = 가돌린석
@@ -184,7 +177,6 @@ GLOSSARY:
   Giants = 기간테스
   Greek mythology = 그리스 신화
   Hesiod = 헤시오도스
-  Personification = 의인법
   Pontus = 폰토스
   Terra = 텔루스
   Titans = 티탄
@@ -276,9 +268,6 @@ GLOSSARY:
   International Union for Conservation of Nature = 국제 자연 보전 연맹
   Lonesome George = 외로운 조지
   Nature = 『네이처』
-  Numbers = 「민수기」
-  Shell = 셸
-  Species = 종
   Threatened = 위협 범주
 ENTRY:
 Species of giant tortoise, *Chelonoidis niger*, the largest living tortoise, native to the [[Galápagos Islands]]. Adults can weigh up to 417 kg (919 lb), and wild individuals may live over 100 years. Shell shape varies by island: domed shells on humid highlands and saddleback shells on dry lowlands, a pattern that [[Charles Darwin]] observed in 1835 and that contributed to his theory of evolution. Numbers fell from over 250,000 in the 16th century to around 15,000 in the 1970s, through hunting for meat and oil, habitat clearance and introduced animals. Lonesome George, the last known individual of one subspecies, died in June 2012. Conservation has released captive-bred juveniles, and all surviving subspecies are classified as Threatened by the International Union for Conservation of Nature.
@@ -290,7 +279,6 @@ GLOSSARY:
   Earth = 지구
   Event horizon = 사건의 지평선
   International Astronomical Union = 국제 천문 연맹
-  Interstellar = 「인터스텔라」
   Milky Way = 우리은하
   Ophiuchus = 뱀주인자리
   Parsec = 파섹
@@ -340,7 +328,6 @@ GLOSSARY:
   Australia = 오스트레일리아
   Caledonia = 칼레도니아
   Falkland Islands = 포클랜드 제도
-  Family = 가족
   Fish = 어류
   Galaxias maculatus = Galaxias maculatus
   Lord Howe Island = 로드하우섬
@@ -500,11 +487,9 @@ LEVEL: 5
 GLOSSARY:
   Calcite = 방해석
   Fluorite = 형석
-  Galena = 방연석
   Lead = 납
   Lead Belt = 리드 벨트
   Missouri = 미주리주
-  Pure = 「퓨어」
   Silver = 은
   lead glance = 방연광
   lead sulfide = 황화 납
@@ -553,7 +538,6 @@ GLOSSARY:
   Cantabrian Wars = 칸타브리아 전쟁
   Castile = 카스티야
   Castilian = 카스티야어
-  Galicia = 갈리치아
   Galician = 갈리시아어
   León = 레온
   Lugo = 루고
@@ -604,7 +588,6 @@ GLOSSARY:
   Copernicus = 코페르니쿠스
   Duchy of Florence = 피렌체 공국
   Florence = 피렌체
-  Galileo = 갈릴레오
   Inquisition = 종교 재판
   Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
@@ -654,7 +637,6 @@ GLOSSARY:
   Digestion = 소화
   Fat = 지방
   Gallstones = 담석
-  Inflammation = 염증
   Liver = 간
   Vertebrate = 척추동물
   autoimmune disease = 자가 면역 질환
@@ -792,7 +774,6 @@ GLOSSARY:
   Chemical element = 화학 원소
   Dmitri Mendeleev = 드미트리 멘델레예프
   French = 프랑스어
-  Gallium = 갈륨
   Gallium arsenide = 비소화 갈륨
   Infrared = 적외선
   Light-emitting diode = 발광 다이오드
@@ -870,7 +851,6 @@ Mathematical connection between [[Field (mathematics)|field theory]] and [[Group
 HEADWORD: Galway = 골웨이
 LEVEL: 5
 GLOSSARY:
-  City = 도시
   Connacht = 코노트
   County Galway = 골웨이주
   Croatia = 크로아티아
@@ -884,7 +864,6 @@ GLOSSARY:
   River = 강
   River Corrib = 코립강
   Tairrdelbach Ua Conchobair = 토르델바흐 우아 콘코바르
-  Today = 「투데이」
   Tribes of Galway = 골웨이의 부족들
   county town = 주도
 ENTRY:
@@ -923,7 +902,6 @@ GLOSSARY:
   Casino = 카지노
   China = 중국
   Elizabeth I = 엘리자베스 1세
-  Gambling = 도박
   Insurance = 보험
   Macau = 마카오
   Mesopotamia = 메소포타미아
@@ -985,7 +963,6 @@ GLOSSARY:
   Jordan = 요르단
   Life = 『라이프』
   Ludo = 루도
-  Ludwig = 루트비히
   Ludwig Wittgenstein = 루트비히 비트겐슈타인
   Mamluk = 맘루크
   Mamluk Sultanate = 맘루크 술탄국
@@ -997,7 +974,6 @@ GLOSSARY:
   Parcheesi = 파치지
   Persia = 페르시아
   Philosophical Investigations = 『철학적 탐구』
-  Pong = 「퐁」
   Roger Caillois = 로제 카유아
   Royal Game of Ur = 우르의 왕실 게임
   Senet = 세네트

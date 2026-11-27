@@ -42,7 +42,6 @@ GLOSSARY:
   Taiping Heavenly Kingdom = 태평천국
   Xiang Army = 상군
   Yangtze = 양쯔강
-  Zeng = 증나라
   kingdom = 계
 ENTRY:
 Civil war in late imperial China (1850–1864) between the [[Qing dynasty]] and the Taiping Heavenly Kingdom. Led by [[Hong Xiuquan]], an ethnic Hakka who proclaimed himself the younger brother of [[Jesus|Jesus Christ]], the movement sought to convert the Han people to a syncretic Christianity and to overthrow the Qing. Taiping armies occupied much of the middle and lower [[Yangtze]] valley, and the kingdom based in [[Nanjing]] ruled nearly 30 million people at its peak. Estimates of deaths range from 20 to 30 million up to 73–100 million, and it was the deadliest civil war in history. Zeng Guofan's Xiang Army besieged Nanjing; Hong died during the siege in June 1864, and the city fell about a month later. The war weakened the Qing state and accelerated the rise of provincial powers.
@@ -129,7 +128,6 @@ GLOSSARY:
   Shanxi = 산시성
   Shanxi Province = 산시성
   Sixteen Kingdoms = 오호십육국
-  Taiyuan = 태원
   Tang = 당나라
   commandery = 군
 ENTRY:
@@ -148,12 +146,10 @@ GLOSSARY:
   Mumtaz Mahal = 뭄타즈 마할
   River = 강
   Sandstone = 사암
-  Shah = 샤
   Shah Jahan = 샤 자한
   UNESCO = 유네스코
   Ustad Ahmad Lahori = 우스타드 아흐마드 라호리
   Uttar Pradesh = 우타르프라데시주
-  White = 흰색
   World = 세계
   World Heritage = 세계 유산
   World Heritage Site = 세계유산
@@ -179,7 +175,6 @@ GLOSSARY:
   Russian = 러시아어
   Soviet Union = 소련
   Tajik = 타지크어
-  Tajikistan = 타지키스탄
   Tajiks = 타지크인
   Uzbekistan = 우즈베키스탄
 ENTRY:
@@ -237,7 +232,6 @@ GLOSSARY:
   Soghomon Tehlirian = 소고몬 텔리리안
   Treaty = 조약
   Treaty of Brest-Litovsk = 브레스트리토프스크 조약
-  Turkish = 튀르키예어
   Union and Progress Party = 통일진보당
   World = 세계
   World War I = 제1차 세계 대전
@@ -259,7 +253,6 @@ GLOSSARY:
   Olivine = 감람석
   Paint = 페인트
   Soapstone = 동석
-  Talc = 활석
   clay mineral = 점토 광물
   hydrated magnesium silicate = 함수 규산 마그네슘
   metamorphic rock = 변성암
@@ -300,7 +293,6 @@ GLOSSARY:
   Russia = 러시아
   September 11 attacks = 9·11 테러
   Sharia = 샤리아
-  Sunni = 수니파
   Taliban = 탈레반
   United States = 미국
 ENTRY:
@@ -311,7 +303,6 @@ HEADWORD: Talk show = 토크쇼
 LEVEL: 4
 GLOSSARY:
   Conversation = 대화
-  Genre = 장르
   Oprah Winfrey = 오프라 윈프리
   Sunday = 일요일
   The Oprah Winfrey Show = 「오프라 윈프리 쇼」
@@ -388,7 +379,6 @@ GLOSSARY:
   NATO Cyber Defence Centre of Excellence = NATO 협력 사이버 방위 센터
   Reval = 레발
   Skype = 스카이프
-  Tallinn = 탈린
   Tallinn Old Town = 탈린 구시가지
   Town = 소도시
   UNESCO = 유네스코
@@ -443,7 +433,6 @@ GLOSSARY:
   Mongol = 몽골
   Orthodox = 정교회
   Orthodox Church = 정교회
-  Queen = 퀸
   Rusudan = 루수단
   Saint = 성인
   Tamar = 테이머강
@@ -486,7 +475,6 @@ GLOSSARY:
   India = 인도
   Kollywood = 콜리우드
   Lanka = 랑카
-  Manufacturing = 제조업
   Pamban Island = 팜반섬
   Sri Lanka = 스리랑카
   Tamil = 타밀어
@@ -543,7 +531,6 @@ GLOSSARY:
   Mississippi = 미시시피주
   Music = 음악
   Nashville, Tennessee = 내슈빌
-  Stand = 신분
   Stand by Your Man = 「Stand by Your Man」
   Tennessee = 테네시주
   Virginia Wynette Pugh = 버지니아 위넷 퓨
@@ -638,7 +625,6 @@ GLOSSARY:
   Ocean = 대양
   Phoenicia = 페니키아
   Phoenician = 페니키아
-  Port = 항구
   Roman Empire = 로마 제국
   Tanger-Med = 탕헤르메드
   Tanger-Tetouan-Al Hoceima = 탕헤르테투안알호세이마
@@ -653,7 +639,6 @@ GLOSSARY:
   Argentina = 아르헨티나
   Intangible Cultural Heritage = 무형 문화유산
   Río de la Plata = 라플라타강
-  Tango = 탱고
   UNESCO = 유네스코
   Uruguay = 우루과이
   bandoneon = 반도네온
@@ -672,7 +657,6 @@ GLOSSARY:
   Battle of Flers-Courcelette = 플레르쿠르슬레트 전투
   Cold War = 냉전
   M1 Abrams = M1 에이브럼스
-  Tanks = 전차
   Trench warfare = 참호전
   World = 세계
   World War I = 제1차 세계 대전
@@ -695,7 +679,6 @@ GLOSSARY:
   Molasses = 당밀
   Oil = 석유
   Petroleum = 석유
-  Ship = 배
   Wine = 포도주
   chemical tanker = 케미컬 탱커
   double-hull = 이중 선체
@@ -765,7 +748,6 @@ GLOSSARY:
   Shaktism = 샥티파
   Shiva = 시바
   Tantra = 탄트라
-  Tantric = 탄트라
   Tibet = 티베트
   Vaishnavism = 비슈누파
   Vajrayana = 금강승
@@ -779,7 +761,6 @@ HEADWORD: Tanzania = 탄자니아
 LEVEL: 3
 GLOSSARY:
   African Great Lakes = 아프리카 대호수
-  Agriculture = 농업
   Archipelago = 제도
   Chama Cha Mapinduzi = 탄자니아 혁명당
   Dar es Salaam = 다르에스살람
@@ -797,7 +778,6 @@ GLOSSARY:
   Mozambique = 모잠비크
   Ocean = 대양
   Pemba = 펨바섬
-  Serengeti = 「세렝게티」
   Serengeti National Park = 세렝게티 국립공원
   Swahili = 스와힐리어
   Tanganyika = 탕가니카
@@ -924,7 +904,6 @@ GLOSSARY:
   Tao Te Ching = 『도덕경』
   Taoism = 도교
   Three Teachings = 삼교
-  Today = 「투데이」
   Warring States = 전국 시대
   Warring States period = 전국 시대
   Yellow Turban Rebellion = 황건적의 난
@@ -1002,7 +981,6 @@ Large herbivorous [[Mammal|mammal]] of the family Tapiridae, similar in shape to
 HEADWORD: Tar = 타르
 LEVEL: 5
 GLOSSARY:
-  Coal = 석탄
   Coal tar = 콜타르
   Coke (fuel) = 코크스
   Creosote = 크레오소트

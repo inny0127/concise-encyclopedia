@@ -21,7 +21,6 @@ LEVEL: 3
 GLOSSARY:
   Arctic = 북극
   Arctic Mediterranean Sea = 북극 지중해
-  Average = 평균
   Bering Strait = 베링 해협
   Eschate Thule = 에스카테 툴레
   Eurasia = 유라시아
@@ -37,7 +36,6 @@ GLOSSARY:
   North Pole = 북극점
   Open Polar Sea = 개방 극해
   Pacific = 태평양
-  People = 『피플』
   Pytheas of Massilia = 마살리아의 피테아스
   Satellite = 인공위성
   Scotland = 스코틀랜드
@@ -80,8 +78,6 @@ Small fox native to the Arctic regions of the [[Northern Hemisphere]], common ac
 HEADWORD: Arctodus = 아르크토두스
 LEVEL: 5
 GLOSSARY:
-  Adult = 성인
-  Arctodus = 아르크토두스
   Carnivora = 식육목
   Ice Age = 빙하기
   Late Pleistocene = 후기 플라이스토세
@@ -126,14 +122,12 @@ HEADWORD: Area = 넓이
 LEVEL: 3
 GLOSSARY:
   Acre = 아크레
-  Area = 넓이
   Calculus = 미적분학
   Circle = 원
   Hectare = 헥타르
   International System of Units = 국제단위계
   Lebesgue measure = 르베그 측도
   Polygon = 다각형
-  Surface = 서피스
   Triangle = 삼각형
   barns = 반
   determinants = 행렬식
@@ -180,7 +174,6 @@ GLOSSARY:
   Andes = 안데스산맥
   Arequipa Province = 아레키파주
   Chili River = 칠리강
-  City = 도시
   Constitutional Court = 헌법재판소
   Constitutional Court of Peru = 페루 헌법재판소
   Court = 법원
@@ -238,7 +231,6 @@ GLOSSARY:
   Michigan = 미시간주
   New Bethel Baptist Church = 뉴베설 침례교회
   Pulitzer Prize = 퓰리처상
-  Queen = 퀸
   Queen of Soul = 솔의 여왕
   Respect = 「Respect」
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
@@ -268,7 +260,6 @@ GLOSSARY:
   Human Development Index = 인간 개발 지수
   Inca = 잉카
   Inca Empire = 잉카 제국
-  Independence = 인디펜던스
   Javier Milei = 하비에르 밀레이
   Juan Perón = 후안 페론
   Latin = 라틴어
@@ -322,7 +313,6 @@ HEADWORD: Argon = 아르곤
 LEVEL: 4
 GLOSSARY:
   Ancient Greek = 고대 그리스어
-  Argon = 아르곤
   Cavendish = 캐번디시
   Chemical element = 화학 원소
   Earth's crust = 지각
@@ -459,7 +449,6 @@ GLOSSARY:
   City Dionysia = 대디오니소스제
   Dionysia = 디오니시아 제전
   Euripides = 에우리피데스
-  Father = 아버지
   Father of Comedy = 희극의 아버지
   Lenaia = 레나이아 제전
   Old Comedy = 고희극
@@ -554,16 +543,12 @@ HEADWORD: Arithmetic = 산술
 LEVEL: 2
 GLOSSARY:
   Algebra = 대수학
-  Arithmetic = 산술
-  Decimal = 십진법
   Decimal arithmetic = 십진 산술
-  Elementary = 「엘리멘트리」
   Integer = 정수
   Irrational number = 무리수
   Latin = 라틴어
   Natural number = 자연수
   Number theory = 수론
-  Numbers = 「민수기」
   Numeral system = 기수법
   Rational number = 유리수
   Real number = 실수
@@ -604,7 +589,6 @@ LEVEL: 4
 GLOSSARY:
   Alexandria = 알렉산드리아
   Arian controversy = 아리우스 논쟁
-  Arianism = 아리우스파
   Arius = 아리우스
   Athanasius = 아타나시우스
   Athanasius of Alexandria = 알렉산드리아의 아타나시우스
@@ -838,7 +822,6 @@ GLOSSARY:
   Anabasis = 『아나바시스』
   Armenia = 아르메니아
   Armenian genocide = 아르메니아인 집단 학살
-  Armenians = 아르메니아인
   Behistun Inscription = 베히스툰 비문
   Bible = 성경
   Eastern Armenian = 동아르메니아어
@@ -979,7 +962,6 @@ GLOSSARY:
   Cambrai = 캉브레
   France = 프랑스
   French = 프랑스어
-  Germany = 독일
   Hindenburg = 힌덴부르크호
   Hindenburg Line = 힌덴부르크선
   Infantry = 보병
@@ -1042,7 +1024,6 @@ GLOSSARY:
   Pierre Boulez = 피에르 불레즈
   Prussian = 프로이센
   Prussian Academy of Arts = 프로이센 예술 아카데미
-  Schoenberg = 쇤베르크
   School = 학교
   Second = 초
   Second Viennese School = 신빈악파
@@ -1070,7 +1051,6 @@ GLOSSARY:
   Hollywood = 할리우드
   Mr. Olympia = 미스터 올림피아
   Mr. Universe = 미스터 유니버스
-  Olympia = 올림피아
   Party = 파티
   Physical = 「Physical」
   Predator = 「프레데터」
@@ -1080,7 +1060,6 @@ GLOSSARY:
   Total Recall = 「토탈 리콜」
   True = 『True』
   True Lies = 「트루 라이즈」
-  Universe = 우주
   recall election = 소환 선거
 ENTRY:
 Austrian-American actor, former professional bodybuilder and politician. He won the Mr. Universe title at age 20 and the [[Mr. Olympia]] title seven times. After retiring from bodybuilding he became a Hollywood action star, starring in *Conan the Barbarian* (1982) and as the Terminator in the *Terminator* franchise. His other action films include *Predator* (1987), *Total Recall* (1990) and *True Lies* (1994). As a registered member of the [[Republican Party (United States)|Republican Party]], he chaired the President's Council on Physical Fitness and Sports during most of the [[George H. W. Bush]] administration. He served as the 38th governor of [[California]] from 2003 to 2011, after winning a special recall election. He later returned to acting, starring in the *Expendables* films.

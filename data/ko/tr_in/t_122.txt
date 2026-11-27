@@ -28,7 +28,6 @@ GLOSSARY:
   Hector Berlioz = 엑토르 베를리오즈
   Hungarian = 헝가리어
   Hungarian Rhapsodies = 「헝가리 광시곡」
-  Liszt = 리스트
   Lisztomania = 리스토마니아
   New German School = 신독일악파
   Piano = 피아노
@@ -41,7 +40,6 @@ GLOSSARY:
   School = 학교
   Schumann = 슈만
   Sonata = 소나타
-  Today = 「투데이」
   Transcendental Études = 「초절기교 연습곡」
   Wagner = 바그너
   atonality = 무조성
@@ -63,7 +61,6 @@ GLOSSARY:
   Erlkönig = 「마왕」
   Felix Mendelssohn = 펠릭스 멘델스존
   Franz Liszt = 프란츠 리스트
-  Gretchen = 그레트헨
   Gretchen am Spinnrade = 「물레 잣는 그레트헨」
   Johannes Brahms = 요하네스 브람스
   Lieder = 리트
@@ -71,7 +68,6 @@ GLOSSARY:
   Quintet = 『5부작』
   Robert Schumann = 로베르트 슈만
   Romantic = 낭만주의
-  Schubert = 슈베르트
   Schumann = 슈만
   Trout = 송어
   Trout Quintet = 「송어 5중주」
@@ -107,7 +103,6 @@ GLOSSARY:
   Contract = 계약
   Crime = 범죄
   Damages = 손해 배상
-  Fraud = 사기
   Tort = 불법 행위
   bank fraud = 은행 사기
   common law = 보통법
@@ -128,7 +123,6 @@ GLOSSARY:
   Electric guitar = 일렉트릭 기타
   Eocene = 에오세
   Europe = 유럽
-  Genus = 속
   Greek mythology = 그리스 신화
   Latin = 라틴어
   Linnaeus = 린네
@@ -235,7 +229,6 @@ GLOSSARY:
   Corpus Juris Civilis = 로마법 대전
   Florentines = 피렌체인
   Frankfurt = 프랑크푸르트
-  Frederick = 프리드리히
   German = 독일어
   Germany = 독일
   Hohenstaufen = 호엔슈타우펜가
@@ -457,7 +450,6 @@ GLOSSARY:
   Jews = 유대인
   King in Prussia = 프로이센의 왕
   Kingdom of Prussia = 프로이센 왕국
-  Nazi = 나치
   Poland = 폴란드
   Protestantism = 개신교
   Prussia = 프로이센
@@ -529,7 +521,6 @@ GLOSSARY:
   Atheism = 무신론
   Covenant = 국제 연맹 규약
   Golden Temple = 황금 사원
-  Human = 인간
   Humanism = 인문주의
   India = 인도
   International Covenant on Civil and Political Rights = 시민적 및 정치적 권리에 관한 국제 규약
@@ -582,7 +573,6 @@ GLOSSARY:
   Freemasonry = 프리메이슨
   George Washington = 조지 워싱턴
   Grand Lodge = 그랜드 로지
-  Liberal = 자유당
   Protestant = 개신교
   Quran = 쿠란
   Regular Freemasonry = 정규 프리메이슨
@@ -599,7 +589,6 @@ LEVEL: 4
 GLOSSARY:
   Agnosticism = 불가지론
   Belief = 믿음
-  Bertrand = 버트런드호
   Bertrand Russell = 버트런드 러셀
   Deism = 이신론
   Ethics = 윤리학
@@ -609,7 +598,6 @@ GLOSSARY:
   The Ethics of Belief = 「믿음의 윤리」
   Thomas = 토머스
   Thomas Paine = 토머스 페인
-  Today = 「투데이」
   Voltaire = 볼테르
   William = 윌리엄
   confirmation bias = 확증 편향
@@ -625,7 +613,6 @@ GLOSSARY:
   Black = 검은색
   Creole = 크리올
   Creole people = 크리오 족
-  Freetown = 프리타운
   John = 존
   John Clarkson = 존 클라크슨
   Krio = 크리오어
@@ -646,7 +633,6 @@ GLOSSARY:
   Glycerol = 글리세롤
   Helium-3 = 헬륨-3
   Phase transition = 상전이
-  Pure = 「퓨어」
   Water = 물
   agar = 한천
   amorphous solids = 비정질 고체
@@ -667,7 +653,6 @@ GLOSSARY:
   Camel = 낙타
   Industrial Revolution = 산업 혁명
   Mesopotamia = 메소포타미아
-  Physical = 「Physical」
   Silk = 비단
   Silk Road = 실크로드
   Wheel = 바퀴
@@ -685,10 +670,8 @@ GLOSSARY:
   Edgar Degas = 에드가르 드가
   England = 잉글랜드
   France = 프랑스
-  French = 프랑스어
   Frenchie = 프렌치
   Henri de Toulouse-Lautrec = 앙리 드 툴루즈로트레크
-  Lace = 레이스
   Normandy = 노르망디
   Nottingham = 노팅엄
   Paris = 파리
@@ -730,7 +713,6 @@ GLOSSARY:
   Rainforest = 우림
   South America = 남아메리카
   Space = 공간
-  Standard = 스탠더드
   Suriname = 수리남
 ENTRY:
 Overseas department and region of France on the northern coast of South America. It is bordered by [[Suriname]] to the west and Brazil to the east and south, and covers 84,000 sq km (32,000 sq mi). The population was 298,554 as of January 2026, with 3.88 inhabitants per sq km, and about half of residents live in the capital, Cayenne. Approximately 98.9% of the territory is forested, much of it primeval [[Rainforest|rainforest]], and Guiana Amazonian Park covers 41% of it. The Guiana Space Centre near the equator is now the primary launch site of the [[European Space Agency]]. Fully integrated into the French Republic since 1946, the territory uses the euro. Standard French is the official language, but French Guianese [[Creole language|Creole]], a French-based creole, is the most widely spoken.
@@ -815,7 +797,6 @@ GLOSSARY:
   Jacobins = 자코뱅파
   Louis XVI = 루이 16세
   Maximilien Robespierre = 막시밀리앵 로베스피에르
-  Military = 군대
   Napoleon = 나폴레옹
   Napoleon Bonaparte = 나폴레옹 보나파르트
   National Assembly = 국민 의회
@@ -873,7 +854,6 @@ Series of military conflicts from 1792 to 1802 arising from the [[French Revolut
 HEADWORD: French Wars of Religion = 위그노 전쟁
 LEVEL: 4
 GLOSSARY:
-  Catherine = 예카테리나 1세
   Catherine de' Medici = 카트린 드 메디시스
   Catholic = 가톨릭
   Catholicism = 가톨릭
@@ -919,7 +899,6 @@ GLOSSARY:
   Saint Pierre and Miquelon = 생피에르 미클롱
   Seven = 「세븐」
   Seven Years' War = 7년 전쟁
-  Spain = 스페인
   Treaty = 조약
   Treaty of Paris = 파리 조약
   United States = 미국
@@ -958,8 +937,6 @@ Overseas colonies, protectorates and mandate territories ruled by France. A firs
 HEADWORD: French cuisine = 프랑스 요리
 LEVEL: 4
 GLOSSARY:
-  Cheese = 치즈
-  Cooking = 요리
   France = 프랑스
   François Pierre La Varenne = 프랑수아 피에르 라 바렌
   French = 프랑스어
@@ -997,7 +974,6 @@ GLOSSARY:
   Borodino = 보로디노
   Cossacks = 코사크
   Grande Armée = 대육군
-  Hunger = 『굶주림』
   Moscow = 모스크바
   Napoleon = 나폴레옹
   Neman River = 네만강
@@ -1022,7 +998,6 @@ GLOSSARY:
   Belgium = 벨기에
   Canada = 캐나다
   Celtic languages = 켈트어파
-  Colonialism = 식민주의
   Creole = 크리올
   Europe = 유럽
   European Union = 유럽 연합

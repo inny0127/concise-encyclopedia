@@ -137,7 +137,6 @@ GLOSSARY:
   Etymology = 어원학
   Jasper = 벽옥
   Online Etymology Dictionary = 온라인 어원 사전
-  Pliny = 플리니우스
   Pliny the Elder = 대플리니우스
   Quartz = 석영
   cryptocrystalline = 은미정질
@@ -241,7 +240,6 @@ GLOSSARY:
   Baroque era = 바로크 시대
   Classical music = 클래식 음악
   Fugue = 푸가
-  Goethe = 괴테
   Johann Sebastian Bach = 요한 제바스티안 바흐
   Johann Wolfgang von Goethe = 요한 볼프강 폰 괴테
   The Art of Fugue = 「푸가의 기법」
@@ -259,7 +257,6 @@ GLOSSARY:
   Africa = 아프리카
   Asia = 아시아
   Camouflage = 위장
-  Family = 가족
   Florida = 플로리다주
   Hawaii = 하와이
   India = 인도
@@ -396,7 +393,6 @@ HEADWORD: Changchun = 창춘
 LEVEL: 4
 GLOSSARY:
   China = 중국
-  City = 도시
   Dalian = 다롄
   Detroit = 디트로이트
   FAW Group = 이치 자동차
@@ -440,7 +436,6 @@ GLOSSARY:
   Belt and Road Initiative = 일대일로
   Changsha = 창사
   China = 중국
-  City = 도시
   Fire = 불
   Hunan = 후난성
   Mao Zedong = 마오쩌둥
@@ -466,7 +461,6 @@ HEADWORD: Channel Islands = 채널 제도
 LEVEL: 4
 GLOSSARY:
   Alderney = 올더니섬
-  Archipelago = 제도
   Bailiwick of Guernsey = 건지 관할구
   Bailiwick of Jersey = 저지 관할구
   Channel Islands = 채널 제도
@@ -540,7 +534,6 @@ HEADWORD: Chaos theory = 혼돈 이론
 LEVEL: 4
 GLOSSARY:
   Benoit Mandelbrot = 브누아 망델브로
-  Branch = 브랜치
   Brazil = 브라질
   Butterfly = 나비
   Butterfly effect = 나비 효과
@@ -572,7 +565,6 @@ GLOSSARY:
   Mediterranean = 지중해
   Mediterranean climate = 지중해성 기후
   Oregon = 오리건주
-  Shrubland = 관목지
   Western Australia = 웨스턴오스트레일리아주
   biodiversity hotspot = 생물 다양성 핫스폿
   crown fires = 수관화
@@ -637,8 +629,6 @@ LEVEL: 4
 GLOSSARY:
   ASCII = 아스키
   Baudot code = 보도 코드
-  Convention = 비상 의회
-  Morse = 모스 부호
   Morse code = 모스 부호
   Telegraphy = 전신
   UTF-16 = UTF-16
@@ -658,7 +648,6 @@ LEVEL: 4
 GLOSSARY:
   Africa = 아프리카
   Central Europe = 중부 유럽
-  Charcoal = 숯
   Coal = 석탄
   Deforestation = 삼림 벌채
   Europe = 유럽
@@ -685,9 +674,7 @@ GLOSSARY:
   Cicla Group = 키클라 그룹
   Cultivar = 재배 품종
   Flavescens Group = 플라베스켄스 그룹
-  Green = 초록색
   Iron = 철
-  Leaf = 잎
   Linnaeus = 린네
   Magnesium = 마그네슘
   Swiss chard = 스위스 근대
@@ -734,7 +721,6 @@ GLOSSARY:
   Cart = 수레
   Cavalry = 기병
   Hittites = 히타이트인
-  Light = 빛
   Rome = 로마
   Russia = 러시아
   Sintashta culture = 신타시타 문화
@@ -753,11 +739,9 @@ LEVEL: 4
 GLOSSARY:
   1 Corinthians = 「고린도전서」
   Ancient Greek = 고대 그리스어
-  Charisma = 카리스마
   Holy Spirit = 성령
   Management = 경영학
   Max Weber = 막스 베버
-  Paul = 바울로
   Paul the Apostle = 사도 바울로
   Psychology = 심리학
   charis = 카리스
@@ -827,7 +811,6 @@ GLOSSARY:
   Cold War = 냉전
   Columbia = 컬럼비아
   Columbia University = 컬럼비아 대학교
-  Constitution = 헌법
   Constitution of the United States = 미국 헌법
   Mary Ritter Beard = 메리 리터 비어드
   The Rise of American Civilization = 『미국 문명의 성장』
@@ -851,7 +834,6 @@ GLOSSARY:
   France = 프랑스
   Frank = 프랭크
   Frank Sinatra = 프랭크 시나트라
-  French = 프랑스어
   Geneva = 제네바
   German = 독일어
   Jews = 유대인

@@ -38,7 +38,6 @@ GLOSSARY:
   Kashmir = 카슈미르
   Lino Lacedelli = 리노 라체델리
   Mount Everest = 에베레스트산
-  Mountain = 산
   Pakistan = 파키스탄
   Pakistan-administered Kashmir = 파키스탄령 카슈미르
   Trans-Karakoram Tract = 트랜스카라코람 지역
@@ -218,7 +217,6 @@ GLOSSARY:
   Seo Taiji and Boys = 서태지와 아이들
   South Korea = 대한민국
   Taiji = 태극
-  Today = 「투데이」
   Wave = 파동
   YG = YG
   idol system = 아이돌 시스템
@@ -232,7 +230,6 @@ LEVEL: 4
 GLOSSARY:
   Köppen = 쾨펜
   Precipitation = 강수
-  Rudolf = 루돌프
   Rudolf Geiger = 루돌프 가이거
   Temperature = 기온
   Trewartha = 트레와다
@@ -318,7 +315,6 @@ GLOSSARY:
   Hasidic Judaism = 하시디즘
   Hebrew = 히브리어
   Hebrew Bible = 히브리어 성경
-  Isaac = 이삭
   Isaac Luria = 이삭 루리아
   Judaism = 유대교
   Kabbalah = 카발라
@@ -361,7 +357,6 @@ LEVEL: 4
 GLOSSARY:
   Edo period = 에도 시대
   Izumo no Okuni = 이즈모노 오쿠니
-  Kabuki = 가부키
   Kanji = 간지
   Kyoto = 교토
   Okuni = 오쿠니
@@ -472,7 +467,6 @@ GLOSSARY:
   Dilwale Dulhania Le Jayenge = 「딜왈레 둘하니아 레 자옌게」
   Hindi = 힌디어
   Hindi cinema = 힌디어 영화
-  Kajol = 카졸
   Kuch Kuch Hota Hai = 「쿠치 쿠치 호타 하이」
   Tanhaji = 「탄하지」
 ENTRY:
@@ -532,7 +526,6 @@ GLOSSARY:
   Cabbage = 양배추
   Canada = 캐나다
   Greece = 그리스
-  Kale = 케일
   Mediterranean = 지중해
   Russian = 러시아어
   United States = 미국
@@ -563,7 +556,6 @@ HEADWORD: Kali Yuga = 칼리 유가
 LEVEL: 5
 GLOSSARY:
   Dharma = 다르마
-  Julian = 율리우스력
   Kalki = 칼키
   Krishna = 크리슈나
   Puranic = 푸라나
@@ -604,7 +596,6 @@ GLOSSARY:
   Mikhail Kalinin = 미하일 칼리닌
   Prussian = 프로이센
   Russia = 러시아
-  Russian = 러시아어
   Soviet Union = 소련
   Teutonic Knights = 튜턴 기사단
   Teutonic Order = 튜턴 기사단
@@ -721,7 +712,6 @@ GLOSSARY:
   Kamchatka Krai = 캄차카 지방
   Klyuchevskaya Sopka = 클류체프스카야산
   Kronotsky Biosphere Reserve = 크로노츠키 생물권 보전 지역
-  Peninsula = 반도
   Petropavlovsk-Kamchatsky = 페트로파블롭스크캄차츠키
   Ring = 『링』
   Ring of Fire = 환태평양 조산대
@@ -814,7 +804,6 @@ GLOSSARY:
   Alexandria = 알렉산드리아
   Alexandria Arachosia = 알렉산드리아 아라코시아
   Arghandab = 아르간다브강
-  City = 도시
   Durrani = 두라니
   Durrani Empire = 두라니 제국
   Kabul = 카불

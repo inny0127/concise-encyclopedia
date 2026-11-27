@@ -88,7 +88,6 @@ HEADWORD: Tetraodontidae = 참복과
 LEVEL: 4
 GLOSSARY:
   China = 중국
-  Family = 가족
   Japan = 일본
   Korea = 한국
   Tetraodontiformes = 복어목
@@ -103,7 +102,6 @@ Family of marine and freshwater fish, known as pufferfish, in the order Tetraodo
 HEADWORD: Tetrapod = 사지동물
 LEVEL: 4
 GLOSSARY:
-  Amniotes = 양막류
   Amphibian = 양서류
   Devonian = 데본기
   Devonian period = 데본기
@@ -133,7 +131,6 @@ GLOSSARY:
   Moscow = 모스크바
   Nintendo = 닌텐도
   Nintendo Entertainment System = 닌텐도 엔터테인먼트 시스템
-  Puzzle = 퍼즐
   Robert Stein = 로버트 스타인
   Rogers = 로저스
   Spectrum HoloByte = 스펙트럼 홀로바이트
@@ -147,7 +144,6 @@ LEVEL: 4
 GLOSSARY:
   Antarctica = 남극 대륙
   Ensifera = 여치아목
-  Family = 가족
   Grasshopper = 메뚜기
   Insect = 곤충
   bush crickets = 여치
@@ -300,7 +296,6 @@ GLOSSARY:
   Polyester = 폴리에스터
   Republic of Georgia = 조지아
   Silk = 비단
-  Textile = 직물
   United Kingdom = 영국
   Weaving = 직조
   Wool = 양모
@@ -337,7 +332,6 @@ GLOSSARY:
   Mediterranean = 지중해
   Silk = 비단
   Silk Road = 실크로드
-  Today = 「투데이」
   Tyrian purple = 티리언 퍼플
   cotton gin = 조면기
   embroidery = 자수
@@ -359,7 +353,6 @@ GLOSSARY:
   Cotton = 면
   Cotton gin = 조면기
   Fiber = 섬유
-  Textile = 직물
   Yarn = 실
   cotton gin = 조면기
   lint = 면섬유
@@ -379,7 +372,6 @@ GLOSSARY:
   Doctor of the Church = 교회 학자
   Flower = 꽃
   France = 프랑스
-  French = 프랑스어
   Jesus = 예수
   John = 존
   Lisieux = 리지외
@@ -388,7 +380,6 @@ GLOSSARY:
   Lourdes = 루르드
   Normandy = 노르망디
   Paul = 바울로
-  Pope = 교황
   Pope John Paul II = 교황 요한 바오로 2세
   Saint = 성인
   Soul = 영혼
@@ -404,7 +395,6 @@ LEVEL: 4
 GLOSSARY:
   Angkor = 앙코르
   Angkor Thom = 앙코르톰
-  Ayutthaya = 아유타야
   Ayutthaya Kingdom = 아유타야 왕국
   Central Thai = 중부 타이어
   Khmer = 크메르어
@@ -413,7 +403,6 @@ GLOSSARY:
   Orthography = 정서법
   Pali = 팔리어
   Sanskrit = 산스크리트어
-  Standard = 스탠더드
   Tai language = 타이어군
   Thai = 태국어
   Thai script = 타이 문자
@@ -506,8 +495,6 @@ GLOSSARY:
   Chemical element = 화학 원소
   Claude-Auguste Lamy = 클로드오귀스트 라미
   Infrared = 적외선
-  Thallium = 탈륨
-  William = 윌리엄
   William Crookes = 윌리엄 크룩스
   chemical element = 화학 원소
   flame spectroscopy = 불꽃 분광법
@@ -553,7 +540,6 @@ GLOSSARY:
   Louis XIV = 루이 14세
   Marquis de Sade = 사드 후작
   Storming of the Bastille = 바스티유 습격
-  Unfinished = 『언피니시드』
   libertines = 리베르탱
 ENTRY:
 Unfinished 1785 erotic novel by the [[Marquis de Sade]], set near the end of the reign of [[Louis XIV]]. Four wealthy libertines seal themselves in a castle in the [[Black Forest]] with 20 designated victims, and escalating violence leads to torture and murder. Sade believed the manuscript lost when the [[Storming of the Bastille]] took place in 1789. It survives only in draft form and was first published in a restricted edition in 1904. The novel was banned as pornographic in France and English-speaking countries, and critical opinion remains divided.
@@ -731,7 +717,6 @@ GLOSSARY:
   Ocean = 대양
   Piracy = 해적 행위
   Providence = 프로비던스
-  Slavery = 노예제
   Spain = 스페인
   Taíno = 타이노족
   The Bahamas = 바하마
@@ -809,7 +794,6 @@ GLOSSARY:
   John = 존
   John Lennon = 존 레넌
   Liverpool = 리버풀
-  Love = 사랑
   Love Me Do = 「Love Me Do」
   McCartney = 『McCartney』
   Paul = 바울로

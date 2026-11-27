@@ -25,7 +25,6 @@ GLOSSARY:
   Shaybanid dynasty = 샤이바니 왕조
   Tashkent = 타슈켄트
   Timurid = 티무르 왕조
-  Uzbek = 우즈베크어
 ENTRY:
 Uzbek monarchy in [[Central Asia]], 1501–1785. It was founded by the Shaybanid dynasty, which claimed descent from [[Genghis Khan]] through [[Jochi]]. Its founder, Muhammad Shaybani, conquered Balkh, Bukhara, [[Samarkand]] and Tashkent, and Abdullah Khan II made Bukhara the permanent capital by 1562. Shaybani's rival [[Babur]], a Timurid prince, was defeated at the Battle of Sar-i Pul in 1501 and turned his ambitions toward India. The Janid dynasty, the last Chinggisid rulers of Bukhara, held power in the 17th and 18th centuries until [[Nader Shah]] of Iran conquered the khanate in 1740. In 1785 the Manghit dynasty formalized its rule, and the state became the Emirate of Bukhara.
 
@@ -42,7 +41,6 @@ GLOSSARY:
   Muhammad = 무함마드
   Muscovite = 모스크바 대공국
   Russia = 러시아
-  Sunni = 수니파
   Sunni Islam = 수니파
   Tatarstan = 타타르스탄
   Tsardom = 차르국
@@ -110,7 +108,6 @@ GLOSSARY:
   Khazars = 하자르족
   Kievan Rus' = 키예프 루스
   Rabbinic Judaism = 랍비 유대교
-  Rus' = 루스
   Silk = 비단
   Silk Road = 실크로드
   Steppe = 스텝
@@ -137,7 +134,6 @@ GLOSSARY:
   Jayavarman VII = 자야바르만 7세
   Mahayana = 대승 불교
   Mahayana Buddhism = 대승 불교
-  Satellite = 인공위성
   Southeast = 남동부
   Southeast Asia = 동남아시아
   Vishnu = 비슈누
@@ -353,7 +349,6 @@ GLOSSARY:
   Crime = 범죄
   Express kidnapping = 급속 납치
   Fraud = 사기
-  Kidnapping = 납치
   Latin = 라틴어
   Latin America = 라틴아메리카
   Sudan = 수단
@@ -367,11 +362,8 @@ Illegal relocation and confinement of a person against their will. A [[Crime|cri
 HEADWORD: Kidney = 콩팥
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Bladder = 방광
-  Filtration = 여과
   Hormone = 호르몬
-  Kidney = 콩팥
   Transplantation (medicine) = 이식
   Urinary system = 비뇨기계
   Vitamin D = 비타민 D
@@ -430,7 +422,6 @@ GLOSSARY:
   Adolf Hitler = 아돌프 히틀러
   Baltic Sea = 발트해
   Brunsbüttel = 브룬스뷔텔
-  Canal = 운하
   Danish = 덴마크어
   Danish Straits = 덴마크 해협
   Dreadnought = 드레드노트
@@ -473,7 +464,6 @@ GLOSSARY:
   Slavs = 슬라브족
   Ukraine = 우크라이나
   Varangian = 바랑기아인
-  Vladimir = 블라디미르
   Vladimir the Great = 블라디미르 1세
   White = 흰색
   White Sea = 백해
@@ -717,7 +707,6 @@ GLOSSARY:
   Ginger = 생강
   Intangible Cultural Heritage = 무형 문화유산
   Intangible Cultural Heritage of Humanity = 인류무형문화유산
-  Kimchi = 김치
   Korean radish = 무
   UNESCO = 유네스코
   baechu-kimchi = 배추김치
@@ -762,13 +751,11 @@ HEADWORD: Kinematics = 운동학
 LEVEL: 4
 GLOSSARY:
   Astrophysics = 천체 물리학
-  Branch = 브랜치
   Force = 힘
   Human skeleton = 인체 골격
   Ibn al-Haytham = 이븐 알하이삼
   Lorentz transformation = 로렌츠 변환
   Mechanical engineering = 기계 공학
-  Relativistic = 상대론적
   Relativistic kinematics = 상대론적 운동학
   Robotics = 로봇공학
   Time dilation = 시간 지연
@@ -785,7 +772,6 @@ Branch of physics and geometry describing motion without regard to the [[Force|f
 HEADWORD: Kinetic energy = 운동 에너지
 LEVEL: 4
 GLOSSARY:
-  Energy = 에너지
   Joule = 줄
   Kelvin = 켈빈
   Lord Kelvin = 켈빈 경
@@ -875,7 +861,6 @@ GLOSSARY:
   Poetry = 시
   Shakespeare = 셰익스피어
   St. Stephen's Day = 성 스테파노 축일
-  Tragedy = 비극
   William = 윌리엄
   William Shakespeare = 윌리엄 셰익스피어
   quarto = 4절판
@@ -886,7 +871,6 @@ Tragedy by [[William Shakespeare|William Shakespeare]], written in late 1605 or 
 HEADWORD: King cobra = 킹코브라
 LEVEL: 5
 GLOSSARY:
-  Aggression = 공격성
   Asia = 아시아
   IUCN = 국제 자연 보전 연맹
   IUCN Red List = IUCN 적색 목록

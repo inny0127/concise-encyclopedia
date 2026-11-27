@@ -21,10 +21,8 @@ Renunciation or cessation of resentment, indignation or [[Anger|anger]] toward s
 HEADWORD: Fork = 포크
 LEVEL: 4
 GLOSSARY:
-  Bone = 뼈
   Bronze = 청동
   Bronze Age = 청동기 시대
-  Byzantine = 비잔티움
   Byzantine Empire = 비잔티움 제국
   Catherine = 예카테리나 1세
   Catherine de' Medici = 카트린 드 메디시스
@@ -72,7 +70,6 @@ LEVEL: 4
 GLOSSARY:
   Aldehyde = 알데히드
   Carcinogen = 발암 물질
-  Formaldehyde = 포름알데히드
   Group 1 = 1군
   Group 1 carcinogen = 1군 발암 물질
   Lipid = 지질
@@ -153,7 +150,6 @@ LEVEL: 4
 GLOSSARY:
   Auto racing = 자동차 경주
   British Grand Prix = 영국 그랑프리
-  Cars = 「카」
   FIA = FIA
   Fédération Internationale de l'Automobile = 국제 자동차 연맹
   Grands Prix = 그랑프리
@@ -219,7 +215,6 @@ GLOSSARY:
   Amon Carter Museum of American Art = 에이먼 카터 미국 미술관
   Bell = 종
   Bell Textron = 벨 텍스트론
-  City = 도시
   Dallas = 댈러스
   Dallas–Fort Worth metroplex = 댈러스-포트워스 대도시권
   Fort Worth = 포트워스
@@ -247,7 +242,6 @@ GLOSSARY:
   BR-116 = BR-116 고속도로
   Brazil = 브라질
   Ceará = 세아라주
-  Fortaleza = 포르탈레사
   Lisbon = 리스본
   Metropolitan area = 대도시권
   Ministry of Tourism = 관광부
@@ -275,12 +269,9 @@ GLOSSARY:
   Celts = 켈트족
   Central Europe = 중부 유럽
   Europe = 유럽
-  Explosive = 폭발물
-  Fortification = 요새
   Greece = 그리스
   Latin = 라틴어
   Long Walls = 장성
-  Military = 군대
   Mycenaean = 미케네
   Mycenaean Greece = 미케네 문명
   Ness of Brodgar = 네스 오브 브로드가
@@ -325,7 +316,6 @@ HEADWORD: Fortran = 포트란
 LEVEL: 5
 GLOSSARY:
   ANSI = ANSI
-  Fortran = 포트란
   IBM = IBM
   John = 존
   John Backus = 존 배커스
@@ -353,7 +343,6 @@ GLOSSARY:
   IUCN = 국제 자연 보전 연맹
   IUCN Red List = IUCN 적색 목록
   Lemur = 여우원숭이
-  Life = 『라이프』
   Life expectancy = 기대 수명
   Madagascar = 마다가스카르
   Mammal = 포유류
@@ -374,7 +363,6 @@ GLOSSARY:
   Earth = 지구
   Feces = 대변
   Nevada = 네바다주
-  Paleolithic = 구석기 시대
   Radiometric dating = 방사성 연대 측정
   Sequoia = 세쿼이아속
   echinoderms = 극피동물
@@ -395,7 +383,6 @@ GLOSSARY:
   Coal = 석탄
   Earth's crust = 지각
   Energy = 에너지
-  Fossil = 화석
   Hydrocarbon = 탄화수소
   Industrial Revolution = 산업 혁명
   International Energy Agency = 국제 에너지 기구
@@ -434,7 +421,6 @@ GLOSSARY:
   Panthéon = 팡테옹
   Paris = 파리
   Paris Observatory = 파리 천문대
-  Pendulum = 진자
   gyroscope = 자이로스코프
 ENTRY:
 Pendulum named after French physicist [[Léon Foucault|Léon Foucault]], conceived to demonstrate Earth's rotation. As the Earth turns, the plane of a long, heavy pendulum's swing appears to change, an effect greatest at the poles and absent at the [[Equator|equator]]. Foucault first exhibited one in February 1851 at the [[Paris|Paris]] Observatory, then hung a 28-kilogram bob from a 67-meter wire under the dome of the Panthéon. There the plane of swing turned clockwise about 11.3° per hour, completing a full circle in about 31.8 hours. Foucault demonstrated the same rotation with a gyroscope in 1852.
@@ -463,7 +449,6 @@ Element of a structure that connects it to the ground, or more rarely to water, 
 HEADWORD: Fountain = 샘
 LEVEL: 4
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred Stieglitz = 앨프리드 스티글리츠
   Avant-garde = 아방가르드
   Dada = 다다이즘
@@ -528,10 +513,8 @@ GLOSSARY:
   Euclidean = 유클리드
   Euclidean space = 유클리드 공간
   Hermann Minkowski = 헤르만 민코프스키
-  Ludwig = 루트비히
   Ludwig Schläfli = 루트비히 슐레플리
   Tesseract = 정팔포체
-  William = 윌리엄
   William Rowan Hamilton = 윌리엄 로언 해밀턴
   quaternions = 사원수
   regular polytopes = 정다포체
@@ -545,7 +528,6 @@ HEADWORD: Four-stroke engine = 4행정 기관
 LEVEL: 4
 GLOSSARY:
   Diesel engine = 디젤 엔진
-  German = 독일어
   Internal combustion engine = 내연 기관
   Nicolaus Otto = 니콜라우스 오토
   Nikolaus August Otto = 니콜라우스 아우구스트 오토
@@ -565,7 +547,6 @@ HEADWORD: Fourier analysis = 푸리에 해석
 LEVEL: 4
 GLOSSARY:
   Acoustics = 음향학
-  Branch = 브랜치
   Fourier = 푸리에
   Fourier analysis = 푸리에 해석
   Fourier series = 푸리에 급수
@@ -606,7 +587,6 @@ GLOSSARY:
   Fourier transform = 푸리에 변환
   Gaussian function = 가우스 함수
   Heat equation = 열 방정식
-  Integral = 적분
   Integral transform = 적분 변환
   Joseph Fourier = 조제프 푸리에
   Quantum mechanics = 양자역학
@@ -669,7 +649,6 @@ GLOSSARY:
   Europe = 유럽
   Fennec fox = 사막여우
   Folklore = 민속
-  Hunting = 사냥
   New World = 신대륙
   Red fox = 붉은여우
   Vulpes = 여우속
@@ -734,7 +713,6 @@ GLOSSARY:
   Benoit Mandelbrot = 브누아 망델브로
   Benoît Mandelbrot = 브누아 망델브로
   Chaos theory = 혼돈 이론
-  Geometric = 기하학 양식기
   Koch = 코흐
   Koch snowflake = 코흐 눈송이
   Latin = 라틴어
@@ -755,7 +733,6 @@ GLOSSARY:
   Babylonian = 바빌로니아
   Integer = 정수
   Latin = 라틴어
-  Number = 수
   Papyrus = 파피루스
   Rational number = 유리수
   Rhind Papyrus = 린드 파피루스
@@ -895,7 +872,6 @@ GLOSSARY:
   The 400 Blows = 「400번의 구타」
   Third = 교향곡 제3번
   Wave = 파동
-  Writing = 문자
   auteur theory = 작가주의 이론
 ENTRY:
 French filmmaker, critic and actor, a founder of the French New Wave. Writing for *Cahiers du Cinéma* under André Bazin, he promoted the auteur theory, which holds that a film's director is its true author. His debut feature, *The 400 Blows* (1959), starring Jean-Pierre Léaud as Antoine Doinel, defined the New Wave, and Doinel's story continued in later films. Other notable works include *Shoot the Piano Player* (1960), *Jules and Jim* (1962) and *Day for Night* (1973), which won the Academy Award for Best Foreign Language Film. He wrote *Hitchcock/Truffaut* (1966), a book-length interview with [[Alfred Hitchcock]]. He also acted in other directors' films, including Steven Spielberg's *Close Encounters of the Third Kind*.

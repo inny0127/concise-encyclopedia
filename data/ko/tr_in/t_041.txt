@@ -2,12 +2,10 @@
 HEADWORD: Biofuel = 바이오 연료
 LEVEL: 4
 GLOSSARY:
-  Climate = 기후
   Deforestation = 삼림 벌채
   EU = 유럽 연합
   Ethanol = 에탄올
   Fossil fuel = 화석 연료
-  Fuel = 연료
   Maize = 옥수수
   Renewable energy = 재생 에너지
   Sugarcane = 사탕수수
@@ -28,7 +26,6 @@ HEADWORD: Biography = 전기
 LEVEL: 4
 GLOSSARY:
   Autobiography = 자서전
-  Biography = 전기
   Christianity = 기독교
   Cicero = 키케로
   Demosthenes = 데모스테네스
@@ -97,7 +94,6 @@ HEADWORD: Biological sex = 생물학적 성
 LEVEL: 3
 GLOSSARY:
   Chromosome = 염색체
-  Fungi = 균계
   Mammal = 포유류
   Meiosis = 감수 분열
   Reptile = 파충류
@@ -175,7 +171,6 @@ GLOSSARY:
   Alfred Russel Wallace = 앨프리드 러셀 월리스
   Aristotle = 아리스토텔레스
   Biochemistry = 생화학
-  Biology = 생물학
   Carl Linnaeus = 칼 폰 린네
   Charles Darwin = 찰스 다윈
   DNA = DNA
@@ -205,7 +200,6 @@ GLOSSARY:
   Michael Christoph Hanow = 미하엘 크리스토프 하노프
   Robert Remak = 로베르트 레마크
   Robert W. Holley = 로버트 W. 홀리
-  Roots = 「뿌리」
   Rudolf = 루돌프
   Rudolf Virchow = 루돌프 피르호
   Schleiden = 슐라이덴
@@ -281,7 +275,6 @@ GLOSSARY:
   Biofluid mechanics = 생체 유체 역학
   Biotribology = 생체 트라이볼로지
   Blood = 혈액
-  Branch = 브랜치
   Cell (biology) = 세포
   Comparative biomechanics = 비교 생체역학
   Friction = 마찰
@@ -325,7 +318,6 @@ GLOSSARY:
   DNA = DNA
   Hormone = 호르몬
   Lipid = 지질
-  Molecule = 분자
   Nucleic acid = 핵산
   Nucleotides = 뉴클레오타이드
   Protein = 단백질
@@ -349,7 +341,6 @@ GLOSSARY:
   Ernest Besnier = 에르네스트 베니에
   French = 프랑스어
   Incisional = 절개
-  Liquid = 액체
   Liquid biopsies = 액체 생검
   Medical test = 의학 검사
   Microscope = 현미경
@@ -376,7 +367,6 @@ GLOSSARY:
   Eduard Suess = 에두아르트 쥐스
   Lithosphere = 암석권
   Photosynthesis = 광합성
-  Vladimir = 블라디미르
   Vladimir Vernadsky = 블라디미르 베르나츠키
   atmosphere = 대기권
   closed system = 닫힌계
@@ -394,13 +384,11 @@ GLOSSARY:
   Biotechnology = 생명 공학
   CRISPR-Cas9 = CRISPR-Cas9
   DNA = DNA
-  Fermentation = 발효
   Genetic engineering = 유전 공학
   Insulin = 인슐린
   Károly Ereky = 카로이 에레키
   Neolithic = 신석기 시대
   Neolithic Revolution = 신석기 혁명
-  Recombinant = 재조합
   Recombinant DNA = 재조합 DNA
   artificial selection = 인위 선택
   cell and tissue culture = 세포 및 조직 배양
@@ -424,9 +412,7 @@ Biotechnology raises ethical and societal questions concerning genetic modificat
 HEADWORD: Bipedalism = 이족 보행
 LEVEL: 4
 GLOSSARY:
-  Australopithecus = 오스트랄로피테쿠스
   Australopithecus afarensis = 오스트랄로피테쿠스 아파렌시스
-  Bipedalism = 두발 보행
   Bird = 조류
   Dinosaur = 공룡
   Human = 인간
@@ -469,7 +455,6 @@ GLOSSARY:
   Mania = 조증
   Mental disorder = 정신 질환
   Mood stabilizers = 기분 안정제
-  People = 『피플』
   Psychosis = 정신증
   Psychotherapy = 심리 치료
   Suicide = 자살
@@ -497,7 +482,6 @@ GLOSSARY:
   IUCN = 국제 자연 보전 연맹
   IUCN Red List = IUCN 적색 목록
   IUCN Red List of Threatened Species = IUCN 적색 목록
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Northern Hemisphere = 북반구
   Red List = 적색 목록
@@ -560,7 +544,6 @@ LEVEL: 4
 GLOSSARY:
   Australia = 오스트레일리아
   Corvidae = 까마귀과
-  Family = 가족
   Guinea = 기니
   Maluku Islands = 말루쿠 제도
   New Guinea = 뉴기니섬
@@ -591,7 +574,6 @@ GLOSSARY:
   Old World vultures = 구대륙독수리
   Osprey = 물수리
   Owl = 올빼미
-  True = 『True』
   Vertebrate = 척추동물
   Vulture = 독수리
   World = 세계
@@ -609,7 +591,6 @@ LEVEL: 4
 GLOSSARY:
   Birmingham = 버밍엄
   Birmingham Blitz = 버밍엄 대공습
-  City = 도시
   Commonwealth = 영연방
   Commonwealth Games = 영연방 경기 대회
   England = 잉글랜드
@@ -654,7 +635,6 @@ GLOSSARY:
   Birth = 출산
   Birth control = 피임
   Condom = 콘돔
-  Emergency = 비상사태
   Emergency birth control = 응급 피임
   Family planning = 가족계획
   Sex education = 성교육
@@ -756,7 +736,6 @@ Small, flour-based baked food item, typically hard, flat and unleavened. Biscuit
 HEADWORD: Bisexuality = 양성애
 LEVEL: 4
 GLOSSARY:
-  Bisexuality = 양성애
   Charles Gilbert Chaddock = 찰스 길버트 채덕
   Gen Z = Z세대
   Gender = 젠더
@@ -766,9 +745,7 @@ GLOSSARY:
   Homosexuality = 동성애
   Krafft-Ebing = 크라프트에빙
   Psychopathia Sexualis = 『성적 정신병질』
-  Richard = 리처드
   Richard von Krafft-Ebing = 리하르트 폰 크라프트에빙
-  Romantic = 낭만주의
   Sexual orientation = 성적 지향
   minority stress = 소수자 스트레스
   sexology = 성과학
@@ -802,7 +779,6 @@ LEVEL: 4
 GLOSSARY:
   Antimony = 안티모니
   Arsenic = 비소
-  Bismuth = 비스무트
   Chemical element = 화학 원소
   Claude = 클로드
   Claude François Geoffroy = 클로드 프랑수아 조프루아
@@ -869,7 +845,6 @@ GLOSSARY:
   Claude E. Shannon = 클로드 E. 섀넌
   Computing = 컴퓨팅
   Data compression = 데이터 압축
-  Eight = 「에잇」
   Entropy (information theory) = 정보 엔트로피
   Error detection and correction = 오류 검출 및 정정
   IEC = IEC
@@ -956,7 +931,6 @@ GLOSSARY:
   Film = 영화
   Homogenic = 『Homogenic』
   IPad = 아이패드
-  Icelandic = 아이슬란드어
   Post = 『Post』
   Reykjavík = 레이캬비크
   Sugarcubes = 슈거큐브스
@@ -969,7 +943,6 @@ Icelandic singer, songwriter, composer and record producer. Born and raised in [
 HEADWORD: BlackRock = 블랙록
 LEVEL: 5
 GLOSSARY:
-  BlackRock = 블랙록
   City = 도시
   Fidelity = 피델리티
   Fossil fuel = 화석 연료

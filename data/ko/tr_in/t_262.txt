@@ -86,7 +86,6 @@ GLOSSARY:
   Bible = 성경
   Bretten = 브레텐
   Calvin = 칼뱅
-  German = 독일어
   Heidelberg = 하이델베르크
   Johann Reuchlin = 요하네스 로이힐린
   John = 존
@@ -183,7 +182,6 @@ GLOSSARY:
   Battle of the Philippine Sea = 필리핀해 해전
   Coral = 산호
   Coral Triangle = 산호 삼각지대
-  Endangered = 위기
   Endangered species = 멸종 위기종
   Honshu = 혼슈
   Kyushu = 규슈
@@ -218,7 +216,6 @@ GLOSSARY:
   Asia = 아시아
   Austronesian peoples = 오스트로네시아인
   Buddhist = 불교
-  Catholicism = 가톨릭
   China = 중국
   City = 도시
   Ferdinand = 페르디난트
@@ -229,7 +226,6 @@ GLOSSARY:
   Islam = 이슬람교
   Luzon = 루손섬
   Manila = 마닐라
-  Martial = 마르티알리스
   Martial law = 계엄령
   Metro Manila = 마닐라 수도권
   Mindanao = 민다나오섬
@@ -251,7 +247,6 @@ GLOSSARY:
   South China Sea = 남중국해
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Spain = 스페인
   Taiwan = 타이완
   United States = 미국
   Visayas = 비사야 제도
@@ -277,7 +272,6 @@ LEVEL: 5
 GLOSSARY:
   Amsterdam = 암스테르담
   Compact disc = 콤팩트디스크
-  Dutch = 네덜란드어
   Eindhoven = 에인트호번
   Frederik = 프레데릭
   Gerard Philips = 헤라르트 필립스
@@ -347,7 +341,6 @@ GLOSSARY:
   Anthurium = 안투리움
   Araceae = 천남성과
   Beetle = 딱정벌레
-  Genus = 속
   Pheromone = 페로몬
   Plants of the World Online = Plants of the World Online
   World = 세계
@@ -404,16 +397,13 @@ GLOSSARY:
   Greece = 그리스
   Immanuel Kant = 이마누엘 칸트
   Indian philosophy = 인도 철학
-  Isaac = 이삭
   Kant = 칸트
   Logic = 논리학
   Metaphysics = 형이상학
   Natural philosophy = 자연철학
   Old French = 고대 프랑스어
-  Others = 아더
   Persian = 페르시아어
   Philosophiæ Naturalis Principia Mathematica = 『자연철학의 수학적 원리』
-  Philosophy = 철학
   Principia = 『프린키피아』
   Pythagoras = 피타고라스
   Socrates = 소크라테스
@@ -449,7 +439,6 @@ LEVEL: 4
 GLOSSARY:
   Bertrand = 버트런드호
   Bertrand Russell = 버트런드 러셀
-  Branch = 브랜치
   Cratylus = 『크라틸로스』
   Gottlob Frege = 고틀로프 프레게
   Greece = 그리스
@@ -474,7 +463,6 @@ LEVEL: 4
 GLOSSARY:
   Bertrand = 버트런드호
   Bertrand Russell = 버트런드 러셀
-  Branch = 브랜치
   Cantor = 칸토어
   David Hilbert = 다비트 힐베르트
   Georg Cantor = 게오르크 칸토어
@@ -496,7 +484,6 @@ GLOSSARY:
   Artificial intelligence = 인공지능
   Baruch Spinoza = 바뤼흐 스피노자
   Behaviorism = 행동주의
-  Branch = 브랜치
   Descartes = 데카르트
   Dualism = 이원론
   Neuroscience = 신경과학
@@ -517,7 +504,6 @@ GLOSSARY:
   Abrahamic = 아브라함계
   Abrahamic religions = 아브라함계 종교
   Aristotle = 아리스토텔레스
-  Branch = 브랜치
   Medieval philosophy = 중세 철학
   Metaphysics = 형이상학
   Miracle = 기적
@@ -536,15 +522,11 @@ HEADWORD: Philosophy of science = 과학철학
 LEVEL: 4
 GLOSSARY:
   Bacon = 베이컨
-  Branch = 브랜치
-  Francis = 프랑수아
   Francis Bacon = 프랜시스 베이컨
   Karl Popper = 카를 포퍼
-  Paul = 바울로
   Paul Feyerabend = 파울 파이어아벤트
   Positivism = 실증주의
   The Structure of Scientific Revolutions = 『과학 혁명의 구조』
-  Thomas = 토머스
   inductive reasoning = 귀납적 추론
   logical positivism = 논리실증주의
   logical positivist = 논리 실증주의
@@ -582,9 +564,7 @@ GLOSSARY:
   Email = 이메일
   Large language model = 대규모 언어 모델
   Malware = 악성 소프트웨어
-  Phishing = 피싱
   SMS = SMS
-  Spear = 창
   Spear phishing = 스피어 피싱
   Voice phishing = 보이스 피싱
   field = 장
@@ -642,7 +622,6 @@ GLOSSARY:
   Anxiety = 불안
   Anxiety disorder = 불안 장애
   Benzodiazepine = 벤조디아제핀
-  People = 『피플』
   Social phobia = 사회 공포증
   Suicide = 자살
   Western world = 서양
@@ -697,7 +676,6 @@ GLOSSARY:
   Neo-Assyrian = 신아시리아
   Peninsula = 반도
   Phoenicia = 페니키아
-  Phoenician = 페니키아
   Phoenicians = 페니키아인
   Proto-Sinaitic script = 원시나이 문자
   Sidon = 시돈
@@ -730,7 +708,6 @@ GLOSSARY:
   Late Bronze Age = 후기 청동기 시대
   Mediterranean = 지중해
   Phoenicia = 페니키아
-  Phoenician = 페니키아
   Proto-Sinaitic script = 원시나이 문자
   Samaritan = 사마리아 문자
   abjad = 아브자드
@@ -750,9 +727,7 @@ GLOSSARY:
   Cotton = 목화
   Desert climate = 사막 기후
   Five C's = 파이브 시스
-  Hispanic = 히스패닉
   Hohokam = 호호캄
-  Irrigation = 관개
   River = 강
   Salt = 소금
   Salt River Valley = 솔트강 계곡
@@ -809,7 +784,6 @@ LEVEL: 5
 GLOSSARY:
   Antarctica = 남극 대륙
   Carl Ludwig Koch = 카를 루트비히 코흐
-  Family = 가족
   Koch = 코흐
   Ludwig = 루트비히
   Opiliones = 통거미목
@@ -842,7 +816,6 @@ HEADWORD: Phonetics = 음성학
 LEVEL: 4
 GLOSSARY:
   Alphabet = 알파벳
-  Branch = 브랜치
   International Phonetic Alphabet = 국제 음성 기호
   Linguistics = 언어학
   Phoneme = 음소
@@ -866,8 +839,6 @@ GLOSSARY:
   Brazilian wandering spiders = 브라질떠돌이거미
   Central America = 중앙아메리카
   Ctenidae = 배회거미과
-  Genus = 속
-  Maximilian = 막시밀리안
   Maximilian Perty = 막시밀리안 퍼티
   South America = 남아메리카
   Spider = 거미
@@ -888,7 +859,6 @@ GLOSSARY:
   Emile Berliner = 에밀 베를리너
   Laboratory = 실험실
   Sound = 소리
-  Thomas = 토머스
   Thomas Edison = 토머스 에디슨
   Volta = 볼타강
   Volta Laboratory = 볼타 연구소
@@ -900,7 +870,6 @@ Device for the mechanical and analog reproduction of [[Sound|sound]], later call
 HEADWORD: Phonology = 음운론
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Halle = 할레
   Jan Baudouin de Courtenay = 얀 보두앵 드 쿠르트네
   Morris Halle = 모리스 할레
@@ -918,14 +887,12 @@ Branch of linguistics concerned with how languages organize their basic sound el
 HEADWORD: Phosphate = 인산염
 LEVEL: 5
 GLOSSARY:
-  Anion = 음이온
   Biochemistry = 생화학
   DNA = DNA
   Fertilizer = 비료
   Metabolism = 물질대사
   Phosphoric acid = 인산
   RNA = RNA
-  Sodium = 나트륨
   caesium = 세슘
   functional group = 작용기
   orthophosphate = 오르토인산염

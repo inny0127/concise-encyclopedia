@@ -6,7 +6,6 @@ GLOSSARY:
   Adwa = 아드와
   African Union = 아프리카 연합
   African Union Commission = 아프리카 연합 집행위원회
-  Agriculture = 농업
   Aksum = 악숨
   BRICS = 브릭스
   Christianity = 기독교
@@ -57,7 +56,6 @@ GLOSSARY:
   Eritrea = 에리트레아
   Eritrean People's Liberation Front = 에리트레아 인민 해방 전선
   Ethiopia = 에티오피아
-  Famine = 기근
   Haile Selassie = 하일레 셀라시에
   Mengistu Haile Mariam = 멩기스투 하일레 마리암
   Ogaden = 오가덴
@@ -122,13 +120,11 @@ GLOSSARY:
   Harar Massif = 하라르 산괴
   Kaffa = 카파
   Kingdom of Kaffa = 카파 왕국
-  Lake = 호수
   Lake Tana = 타나호
   Main Ethiopian Rift = 주 에티오피아 지구대
   Nile = 나일강
   Peninsula = 반도
   Ras Dashen = 라스다셴산
-  Roof = 지붕
   Roof of Africa = 아프리카의 지붕
   flood basalt = 범람 현무암
 ENTRY:
@@ -171,7 +167,6 @@ GLOSSARY:
   Clifford Geertz = 클리퍼드 기어츠
   Cold War = 냉전
   Federalism = 연방주의
-  Management = 경영학
   Soviet Union = 소련
   Yugoslav Wars = 유고슬라비아 전쟁
   Yugoslavia = 유고슬라비아
@@ -195,9 +190,7 @@ GLOSSARY:
   Dictionary = 사전
   Early Modern English = 초기 근대 영어
   Eric Wolf = 에릭 울프
-  Ethnicity = 민족
   Fredrik Barth = 프레드리크 바르트
-  French = 프랑스어
   French Canadians = 프랑스계 캐나다인
   Hebrew = 히브리어
   Hellenes = 헬레네스
@@ -269,7 +262,6 @@ HEADWORD: Ethnography = 민족지학
 LEVEL: 4
 GLOSSARY:
   Anthropology = 인류학
-  Branch = 브랜치
   Challenger = 챌린저호
   Challenger disaster = 챌린저호 폭발 사고
   Herodotus = 헤로도토스
@@ -305,12 +297,10 @@ Academic discipline that compares and analyzes the characteristics of different 
 HEADWORD: Ethology = 동물행동학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Charles Darwin = 찰스 다윈
   Darwin = 다윈
   Dutch = 네덜란드어
   Ecology = 생태학
-  Ethology = 동물행동학
   Evolution = 진화
   German = 독일어
   Karl von Frisch = 카를 폰 프리슈
@@ -372,7 +362,6 @@ GLOSSARY:
   Organic compound = 유기 화합물
   Polyester = 폴리에스터
   Toxicity = 독성
-  World = 세계
   antifreeze = 부동액
   ethylene oxide = 에틸렌 옥사이드
   vicinal diol = 인접 다이올
@@ -388,7 +377,6 @@ GLOSSARY:
   Hydrogen sulfide = 황화 수소
   Iron = 철
   Textile = 직물
-  White = 흰색
   aminopolycarboxylic acid = 아미노폴리카르복실산
   hydrogen sulfide = 황화 수소
   hydroponics = 수경 재배
@@ -495,10 +483,8 @@ GLOSSARY:
   Australia = 오스트레일리아
   Corymbia = 코림비아속
   Earth = 지구
-  Eucalyptus = 유칼립투스
   Eucalyptus regnans = 유칼립투스 레그난스
   Flowering plant = 속씨식물
-  Genus = 속
   Honey = 꿀
   Koala = 코알라
   Myrtaceae = 도금양과
@@ -536,7 +522,6 @@ GLOSSARY:
   Oriental Orthodox = 오리엔트 정교회
   Orthodox = 정교회
   Passover = 유월절
-  Plymouth = 플리머스
   Plymouth Brethren = 플리머스 형제단
   Presbyterians = 장로교회
   Reformed = 개혁파
@@ -579,7 +564,6 @@ GLOSSARY:
   Proclus = 프로클로스
   Ptolemy = 프톨레마이오스
   Ptolemy I = 프톨레마이오스 1세
-  Renaissance = 르네상스
   Socrates = 소크라테스
   Thales = 탈레스
   Theaetetus = 테아이테토스
@@ -603,7 +587,6 @@ LEVEL: 4
 GLOSSARY:
   Arabic = 아랍어
   Chios = 키오스섬
-  Drawing = 인발
   Elements = 『원론』
   Euclid = 에우클레이데스
   Euclid's theorem = 유클리드의 정리
@@ -630,7 +613,6 @@ Mathematical treatise by [[Euclid]] (c. 300 BC). The oldest extant large-scale d
 HEADWORD: Euclid's theorem = 유클리드의 정리
 LEVEL: 4
 GLOSSARY:
-  Book = 책
   Elements = 『원론』
   Euclid = 에우클레이데스
   Fundamental theorem of arithmetic = 산술의 기본 정리
@@ -741,9 +723,7 @@ LEVEL: 4
 GLOSSARY:
   Coordinate system = 좌표계
   Dot product = 스칼라곱
-  Euclidean = 유클리드
   Force = 힘
-  Geometric = 기하학 양식기
   Physics = 물리학
   Quaternion = 사원수
   Vector space = 벡터 공간
@@ -761,7 +741,6 @@ GLOSSARY:
   Apple = 사과
   Carol L. Hotton = 캐럴 L. 호턴
   Clade = 분기군
-  Eudicots = 진정쌍떡잎식물
   Flowering plant = 속씨식물
   Helianthus = 해바라기속
   James = 야고보
@@ -824,7 +803,6 @@ GLOSSARY:
   Novel = 소설
   Olga = 올가
   Onegin stanza = 오네긴 연
-  Petersburg = 피터즈버그
   Pushkin sonnet = 푸시킨 소네트
   Russian = 러시아어
   St. Petersburg = 상트페테르부르크
@@ -837,7 +815,6 @@ ENTRY:
 HEADWORD: Eugenics = 우생학
 LEVEL: 5
 GLOSSARY:
-  Francis = 프랑수아
   Francis Galton = 프랜시스 골턴
   Genetics = 유전학
   Sterilization (medicine) = 불임 수술
@@ -862,7 +839,6 @@ GLOSSARY:
   Mitosis = 유사 분열
   Photosynthesis = 광합성
   Phylum = 문
-  Reproduction = 생식
   Symbiontida = 심비온티다
   euglenids = 유글레나류
   monophyletic = 단계통
@@ -886,7 +862,6 @@ GLOSSARY:
   Golgi apparatus = 골지체
   Mesoproterozoic = 중원생대
   Mitochondria = 미토콘드리아
-  Organism = 생물
   Paleoproterozoic = 고원생대
   Prokaryote = 원핵생물
   Promethearchaeota = 프로메테아르카이오타
@@ -967,7 +942,6 @@ GLOSSARY:
   Exponentiation = 거듭제곱
   Imaginary unit = 허수 단위
   Leonhard Euler = 레온하르트 오일러
-  Mathematics = 수학
   Pi = 원주율
   The Mathematical Intelligencer = 『매서매티컬 인텔리전서』
   imaginary unit = 허수 단위

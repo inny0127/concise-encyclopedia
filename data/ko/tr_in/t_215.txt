@@ -46,7 +46,6 @@ GLOSSARY:
   Epicurus = 에피쿠로스
   Hobbes = 홉스
   Idealism = 관념론
-  Materialism = 유물론
   Monism = 일원론
   Naturalism (philosophy) = 자연주의
   Thomas = 토머스
@@ -84,7 +83,6 @@ GLOSSARY:
   Archimedes = 아르키메데스
   Bhāskara II = 바스카라 2세
   Bonaventura Cavalieri = 보나벤투라 카발리에리
-  Branch = 브랜치
   Calculus = 미적분학
   Complex analysis = 복소해석학
   Euclidean = 유클리드
@@ -142,7 +140,6 @@ GLOSSARY:
   Exponential function = 지수 함수
   Irrational number = 무리수
   Jacob Bernoulli = 야코프 베르누이
-  Number = 수
   Pi = 원주율
   Pythagoras' constant = 피타고라스 상수
   compound interest = 복리
@@ -187,7 +184,6 @@ GLOSSARY:
   Kurt = 쿠르트
   Kurt Gödel = 쿠르트 괴델
   Lean = 린
-  Research = 연구
   Zermelo–Fraenkel set theory = 체르멜로-프렝켈 집합론
   model theory = 모형 이론
   proof assistants = 증명 보조기
@@ -276,17 +272,14 @@ GLOSSARY:
   Engineering = 공학
   Euclid = 에우클레이데스
   Euclid's Elements = 『원론』
-  Euclidean = 유클리드
   Euclidean geometry = 유클리드 기하학
   Euler = 오일러
   Fermat's Last Theorem = 페르마의 마지막 정리
-  Geometry = 기하학
   Goldbach's conjecture = 골드바흐의 추측
   Leonhard Euler = 레온하르트 오일러
   Mathematics = 수학
   Mathematics Subject Classification = 수학 주제 분류
   Mesopotamia = 메소포타미아
-  Number = 수
   Number theory = 수론
   Pierre de Fermat = 피에르 드 페르마
   Renaissance = 르네상스
@@ -352,7 +345,6 @@ Rectangular array of numbers or other mathematical objects arranged in rows and 
 HEADWORD: Matrix multiplication = 행렬 곱셈
 LEVEL: 5
 GLOSSARY:
-  Binary = 이진법
   Dot product = 스칼라곱
   Jacques = 자크 퀴리
   Jacques Philippe Marie Binet = 자크 필리프 마리 비네
@@ -470,7 +462,6 @@ GLOSSARY:
   University = 대학
   University of Colorado = 콜로라도 대학교
   University of Colorado Boulder = 콜로라도 대학교 볼더
-  World = 세계
 ENTRY:
 American animator, filmmaker, songwriter and actor. With [[Trey Parker]], whom he met at the University of Colorado Boulder, he created the animated satire *South Park* (since 1997) and the films *South Park: Bigger, Longer & Uncut* (1999) and *Team America: World Police* (2004). With Robert Lopez, Stone co-created the musical *The Book of Mormon* (2011). He has won five Primetime Emmy Awards and a Peabody for *South Park*, and three Tony Awards and a Grammy Award for *The Book of Mormon*. In 2026 he was inducted into the Television Hall of Fame.
 
@@ -485,7 +476,6 @@ GLOSSARY:
   India = 인도
   Kaṇāda = 카나다
   Leucippus = 레우키포스
-  Matter = 물질
   Standard = 스탠더드
   Standard Model = 표준 모형
   W and Z bosons = W 보손과 Z 보손
@@ -556,7 +546,6 @@ GLOSSARY:
   HBO = HBO
   Interstellar = 「인터스텔라」
   Primetime Emmy = 프라임타임 에미상
-  Romantic = 낭만주의
   Ron Woodroof = 론 우드루프
   Rust = 녹
   Rust Cohle = 러스트 콜
@@ -572,7 +561,6 @@ American actor. He gained attention in the coming-of-age comedy *Dazed and Confu
 HEADWORD: Perry, Matthew = 페리, 매슈
 LEVEL: 5
 GLOSSARY:
-  Canadian = 캐나다
   Champion = 「챔피언」
   Champion of Recovery Award = 회복 챔피언상
   Chandler Bing = 챈들러 빙
@@ -597,13 +585,11 @@ Canadian and American actor. He was best known for playing Chandler Bing on the 
 HEADWORD: Shepard, Matthew = 셰퍼드, 매슈
 LEVEL: 5
 GLOSSARY:
-  Aaron = 아론
   Aaron McKinney = 에런 매키니
   Barack Obama = 버락 오바마
   James = 야고보
   Media = 메디아
   Russell Henderson = 러셀 헨더슨
-  Student = 학생
   University = 대학
   University of Wyoming = 와이오밍 대학교
   Wyoming = 와이오밍주
@@ -674,7 +660,6 @@ GLOSSARY:
   Hawaiian Islands = 하와이 제도
   Lāhainā = 라하이나
   Maui = 마우이섬
-  Tourism = 관광
   Valley Isle = 밸리 아일
   West Maui Mountains = 서마우이산
 ENTRY:
@@ -718,7 +703,6 @@ GLOSSARY:
   Astronomy Precinct = 천문 구역
   CFHT = 캐나다·프랑스·하와이 망원경(CFHT)
   Canada = 캐나다
-  Construction = 건설
   France = 프랑스
   Gerard Kuiper = 제러드 카이퍼
   Hawaiian = 하와이어
@@ -744,7 +728,6 @@ GLOSSARY:
   Boléro = 「볼레로」
   Claude = 클로드
   Claude Debussy = 클로드 드뷔시
-  French = 프랑스어
   Impressionism = 인상주의
   Jazz = 재즈
   Pictures at an Exhibition = 「전람회의 그림」
@@ -788,12 +771,10 @@ GLOSSARY:
   Agaléga = 아갈레가 제도
   Archipelago = 제도
   Bank = 은행
-  Brandon = 브랜던
   Chagos Archipelago = 차고스 제도
   Court = 법원
   Court of Justice = 정의의 법정
   Dodo = 도도
-  Dutch = 네덜란드어
   French = 프랑스어
   Hinduism = 힌두교
   Indian Ocean = 인도양
@@ -830,7 +811,6 @@ GLOSSARY:
   Deccan = 데칸
   Hindu Kush = 힌두쿠시산맥
   India = 인도
-  Iron = 철
   Iron Age = 철기 시대
   Jawaharlal Nehru = 자와할랄 네루
   Kalinga = 칼링가
@@ -860,7 +840,6 @@ LEVEL: 4
 GLOSSARY:
   Atomic Physics = 『원자 물리학』
   Edinburgh = 에든버러
-  German = 독일어
   Göttingen = 괴팅겐
   Max Delbrück = 막스 델브뤼크
   Nazi = 나치
@@ -908,7 +887,6 @@ HEADWORD: Planck, Max = 플랑크, 막스
 LEVEL: 4
 GLOSSARY:
   Black-body radiation = 흑체 복사
-  German = 독일어
   Gustav Kirchhoff = 구스타프 키르히호프
   Hermann von Helmholtz = 헤르만 폰 헬름홀츠
   Kaiser = 카이저
@@ -960,7 +938,6 @@ HEADWORD: Verstappen, Max = 페르스타펀, 막스
 LEVEL: 5
 GLOSSARY:
   Drivers' Championships = 드라이버 챔피언십
-  Dutch = 네덜란드어
   Formula One = 포뮬러 원
   Lewis Hamilton = 루이스 해밀턴
   Red Bull = 레드불
@@ -1023,7 +1000,6 @@ GLOSSARY:
   Jesus Christ = 예수 그리스도
   Pelle the Conqueror = 「정복자 펠레」
   Story = 『스토리』
-  Swedish = 스웨덴어
   The Greatest Story Ever Told = 「위대한 생애」
   The Seventh Seal = 「제7의 봉인」
   the Conqueror = 정복왕
@@ -1038,7 +1014,6 @@ GLOSSARY:
   Alexei Maximovich Peshkov = 알렉세이 막시모비치 페시코프
   Bolsheviks = 볼셰비키
   Civil War = 남북 전쟁
-  Gorky = 고리키
   Joseph Stalin = 이오시프 스탈린
   Lenin = 레닌
   Life = 『라이프』

@@ -19,10 +19,8 @@ HEADWORD: Courage = 용기
 LEVEL: 4
 GLOSSARY:
   Aristotle = 아리스토텔레스
-  Choice = 초이스
   Daniel Putman = 대니얼 퍼트먼
   Pain = 통증
-  Physical = 「Physical」
   Physical courage = 육체적 용기
   Plato = 플라톤
   Socrates = 소크라테스
@@ -57,7 +55,6 @@ GLOSSARY:
   Commentaries on the Laws of England = 『영국법 주해』
   England = 잉글랜드
   French = 프랑스어
-  Institution = 제도
   Judge = 판사
   Judiciary = 사법부
   Rule of law = 법치주의
@@ -194,7 +191,6 @@ GLOSSARY:
   City = 도시
   Culture = 문화
   England = 잉글랜드
-  German = 독일어
   Middle Ages = 중세
   Midlands = 미들랜즈
   Second = 초
@@ -232,9 +228,7 @@ Japanese neo-noir space [[Western (genre)|Western]] [[Anime|anime]] television s
 HEADWORD: Coyote = 코요테
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   American jackal = 아메리카자칼
-  Canis = 개속
   Canis latrans = Canis latrans
   Cougar = 퓨마
   Deer = 사슴
@@ -370,13 +364,11 @@ GLOSSARY:
   Cape = 케이프
   Cape Cod = 케이프코드
   Chile = 칠레
-  Cranberry = 크랜베리
   Cranberry sauce = 크랜베리 소스
   Crane (bird) = 두루미
   Dennis = 데니스
   Dutch = 네덜란드어
   England = 잉글랜드
-  German = 독일어
   Henry Hall = 헨리 홀
   New England = 뉴잉글랜드
   Northern Hemisphere = 북반구
@@ -394,7 +386,6 @@ HEADWORD: Crane = 두루미
 LEVEL: 4
 GLOSSARY:
   Antarctica = 남극 대륙
-  Antigone = 『안티고네』
   Bird = 조류
   Gruidae = 두루미과
   Gruiformes = 두루미목
@@ -460,7 +451,6 @@ GLOSSARY:
   Astacidea = 가재하목
   Astacoidea = 가재상과
   China = 중국
-  Crayfish = 가재
   Crustacean = 갑각류
   Gill = 아가미
   Lobster = 바닷가재
@@ -486,7 +476,6 @@ LEVEL: 4
 GLOSSARY:
   Cattle = 소
   Cheese = 치즈
-  Cream = 크림
   France = 프랑스
   Goat = 염소
   Ice cream = 아이스크림
@@ -511,7 +500,6 @@ Dairy product composed of the higher-fat layer skimmed from the top of [[Milk|mi
 HEADWORD: Creation myth = 창조 신화
 LEVEL: 4
 GLOSSARY:
-  Creation = 천지 창조
   Mircea Eliade = 미르체아 엘리아데
   Oral tradition = 구전
   Religion = 종교
@@ -542,7 +530,6 @@ GLOSSARY:
   Ancient Greece = 고대 그리스
   China = 중국
   Costume = 의상
-  Creativity = 창의성
   Greece = 그리스
   Imagination = 상상력
   India = 인도
@@ -624,7 +611,6 @@ GLOSSARY:
   Ancient Rome = 고대 로마
   Australia = 오스트레일리아
   Christianity = 기독교
-  Cremation = 화장
   Europe = 유럽
   Greece = 그리스
   Hinduism = 힌두교
@@ -651,12 +637,10 @@ GLOSSARY:
   Age of Discovery = 대항해 시대
   Arabic = 아랍어
   Atlantic slave trade = 대서양 노예 무역
-  Creoles = 크리오요
   Creolistics = 크리올학
   French = 프랑스어
   Linguistics = 언어학
   Malay = 말레이어
-  Stable = 마구간
   nativization = 모어화
   pidgins = 피진
   slave trade = 노예 무역
@@ -710,7 +694,6 @@ GLOSSARY:
   Earth = 지구
   Earth's crust = 지각
   Iridium = 이리듐
-  Mammals = 포유류
   Mass extinction = 대멸종
   Paleogene = 팔레오기
   Peninsula = 반도
@@ -746,7 +729,6 @@ GLOSSARY:
   Mesozoic Era = 중생대
   Paleogene = 팔레오기
   Phanerozoic = 현생누대
-  Third = 교향곡 제3번
   crown group = 크라운 그룹
   crown group birds = 크라운 그룹 조류
   gymnosperm = 겉씨식물
@@ -831,7 +813,6 @@ GLOSSARY:
   Cricket = 크리켓
   England = 잉글랜드
   England and Wales = 잉글랜드 웨일스
-  Forms = 이데아
   India = 인도
   International Cricket Council = 국제 크리켓 평의회
   Lanka = 랑카
@@ -864,7 +845,6 @@ GLOSSARY:
   Charles Dickens = 찰스 디킨스
   China = 중국
   Cricket = 크리켓
-  Crickets = 크리케츠
   Europe = 유럽
   Grasshopper = 메뚜기
   Gryllidae = 귀뚜라미과

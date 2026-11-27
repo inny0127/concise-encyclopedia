@@ -2,11 +2,9 @@
 HEADWORD: Camouflage = 위장
 LEVEL: 4
 GLOSSARY:
-  Camouflage = 위장
   Cephalopod = 두족류
   Chameleon = 카멜레온
   Fashion = 패션
-  Military = 군대
   Octopus = 문어
   Radar = 레이더
   Squid = 오징어
@@ -51,7 +49,6 @@ GLOSSARY:
   Arctic = 북극
   Asterales = 국화목
   Campanula = 초롱꽃속
-  Family = 가족
   Flowering plant = 속씨식물
   Hawaii = 하와이
   Hawaiian = 하와이어
@@ -102,7 +99,6 @@ HEADWORD: Camphor = 장뇌
 LEVEL: 5
 GLOSSARY:
   Asia = 아시아
-  Cinnamomum = Cinnamomum
   Ketone = 케톤
   Southeast = 남동부
   Southeast Asia = 동남아시아
@@ -218,7 +214,6 @@ HEADWORD: Canada goose = 캐나다기러기
 LEVEL: 5
 GLOSSARY:
   Arctic = 북극
-  Branta = 흑기러기속
   Branta canadensis = 브란타 카나덴시스
   France = 프랑스
   Goose = 기러기
@@ -298,7 +293,6 @@ GLOSSARY:
   Panama Canal = 파나마 운하
   Rail transport = 철도 운송
   Roman Empire = 로마 제국
-  Today = 「투데이」
   United Kingdom = 영국
   Venice = 베네치아
   World = 세계
@@ -344,7 +338,6 @@ GLOSSARY:
   Spain = 스페인
   Teide = 테이데산
   Tenerife = 테네리페섬
-  Tourism = 관광
   World = 세계
   World Heritage = 세계 유산
   World Heritage Site = 세계유산
@@ -360,7 +353,6 @@ GLOSSARY:
   Aboriginal Australians = 오스트레일리아 원주민
   Australia = 오스트레일리아
   Australian = 오스트레일리아
-  Canberra = 캔버라
   Capital city = 수도
   Court = 법원
   Griffin = 그리핀
@@ -396,7 +388,6 @@ HEADWORD: Cancer = 암
 LEVEL: 3
 GLOSSARY:
   Biopsy = 생검
-  Cancer = 암
   Chemotherapy = 화학 요법
   Helicobacter pylori = 헬리코박터 파일로리
   Lung cancer = 폐암
@@ -479,7 +470,6 @@ LEVEL: 4
 GLOSSARY:
   1755 Lisbon earthquake = 1755년 리스본 지진
   Candide = 『캉디드』
-  French = 프랑스어
   Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
   Leibnizian = 라이프니츠의
   Lisbon = 리스본
@@ -591,7 +581,6 @@ LEVEL: 4
 GLOSSARY:
   Bee = 벌
   Flowering plant = 속씨식물
-  Genus = 속
   Hummingbird = 벌새
   Latin = 라틴어
   Starch = 녹말
@@ -615,7 +604,6 @@ GLOSSARY:
   Cannabis (drug) = 대마
   Cannabis sativa = Cannabis sativa
   Flowering plant = 속씨식물
-  Genus = 속
   Hemp = 삼
   THC = THC
   dioecious = 암수딴그루
@@ -670,7 +658,6 @@ HEADWORD: Canning = 통조림
 LEVEL: 4
 GLOSSARY:
   Bertrand = 버트런드호
-  Canning = 통조림 제조
   French = 프랑스어
   Louis Pasteur = 루이 파스퇴르
   Missouri = 미주리주
@@ -745,7 +732,6 @@ Brightest star in the southern constellation Carina and the second-brightest in 
 HEADWORD: Cantonese = 광둥어
 LEVEL: 5
 GLOSSARY:
-  Cantonese = 광둥어
   Guangdong = 광둥성
   Guangzhou = 광저우
   Hong Kong = 홍콩
@@ -770,9 +756,7 @@ HEADWORD: Canvas = 캔버스
 LEVEL: 4
 GLOSSARY:
   Anglo-French = 앵글로프랑스어
-  Canvas = 캔버스
   Cotton = 면
-  Duck = 오리
   Duck canvas = 덕 캔버스
   Dutch = 네덜란드어
   Europe = 유럽
@@ -800,14 +784,12 @@ Durable plain-woven fabric used for [[Sail|sails]], [[Tent|tents]] and backpacks
 HEADWORD: Canyon = 협곡
 LEVEL: 4
 GLOSSARY:
-  Canyon = 협곡
   Europe = 유럽
   Granite = 화강암
   North America = 북아메리카
   Oceania = 오세아니아
   Plateau = 고원
   Sandstone = 사암
-  Submarine = 잠수함
   Submarine canyons = 해저 협곡
   United States = 미국
   Weathering = 풍화

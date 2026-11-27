@@ -56,7 +56,6 @@ LEVEL: 4
 GLOSSARY:
   Bomber = 폭격기
   Camouflage = 위장
-  Military = 군대
   Northrop = 노스럽
   Northrop Grumman = 노스럽 그러먼
   Northrop Grumman B-2 Spirit = 노스럽 그러먼 B-2 스피릿
@@ -82,7 +81,6 @@ GLOSSARY:
   Alexandria = 알렉산드리아
   Electric motor = 전동기
   Germany = 독일
-  Heat = 열
   Heat engine = 열기관
   Hero of Alexandria = 알렉산드리아의 헤론
   Industrial Revolution = 산업 혁명
@@ -91,7 +89,6 @@ GLOSSARY:
   James Watt = 제임스 와트
   Jerónimo de Ayanz y Beaumont = 헤로니모 데 아얀스 이 보몬트
   Rankine cycle = 랭킨 사이클
-  Steam = 스팀
   Steam locomotive = 증기 기관차
   Steam turbine = 증기 터빈
   Thomas = 토머스
@@ -124,13 +121,10 @@ GLOSSARY:
   George Stephenson = 조지 스티븐슨
   LNER Class A4 4468 Mallard = LNER A4형 4468 맬러드
   Locomotion No. 1 = 로코모션 1호
-  Locomotive = 기관차
   Mallard = 청둥오리
   Pen-y-darren = 페니다렌
-  Richard = 리처드
   Richard Trevithick = 리처드 트레비식
   Robert = 로버트
-  Steam = 스팀
   Steam engine = 증기 기관
   Stockton and Darlington Railway = 스톡턴-달링턴 철도
   iron horse = 철마
@@ -159,7 +153,6 @@ GLOSSARY:
   Arabelle = 아라벨
   Charles Parsons = 찰스 파슨스
   Electric generator = 발전기
-  Heat = 열
   Heat engine = 열기관
   Hinkley = 힝클리
   Hinkley Point C Nuclear Power Station = 힝클리 포인트 C 원자력 발전소
@@ -176,12 +169,9 @@ Heat engine that extracts thermal energy from pressurized steam to do mechanical
 HEADWORD: Steaming = 찜
 LEVEL: 4
 GLOSSARY:
-  Bamboo = 대나무
   Bamboo steamers = 대나무 찜기
   Boiling = 끓음
-  Cooking = 요리
   River = 강
-  Steaming = 찜
   USDA = 미국 농무부
   Vitamin C = 비타민 C
   Yellow River = 황허강
@@ -226,7 +216,6 @@ GLOSSARY:
   Pennsylvania = 펜실베이니아주
   Pig iron = 선철
   Pittsburgh = 피츠버그
-  Plain = 평야
   Stainless steel = 스테인리스강
   Steel = 강철
   Wrought iron = 연철
@@ -254,7 +243,6 @@ More than 1.6 billion tons are produced annually, and [[China]] produced 54% of 
 HEADWORD: Steelmaking = 제강
 LEVEL: 4
 GLOSSARY:
-  Oxygen = 산소
   Pig iron = 선철
   Siemens-Martin = 지멘스-마르탱
   Steel = 강철
@@ -305,7 +293,6 @@ GLOSSARY:
   School = 학교
   Society = 사회
   Studia Mathematica = 『스투디아 마테마티카』
-  Theory = 이론
   Théorie des opérations linéaires = 『선형 연산자 이론』
   functional analysis = 함수해석학
 ENTRY:
@@ -316,11 +303,9 @@ HEADWORD: Stefan–Boltzmann law = 슈테판-볼츠만 법칙
 LEVEL: 5
 GLOSSARY:
   Boltzmann constant = 볼츠만 상수
-  Josef = 요제프
   Josef Stefan = 요제프 슈테판
   Ludwig = 루트비히
   Ludwig Boltzmann = 루트비히 볼츠만
-  Physical = 「Physical」
   black body = 흑체
   emissivity = 방사율
   radiant exitance = 복사 발산도
@@ -370,7 +355,6 @@ GLOSSARY:
   Andre Agassi = 앤드리 애거시
   French = 프랑스어
   French Open = 프랑스 오픈
-  German = 독일어
   Golden Slam = 골든 슬램
   Grand Slam (tennis) = 그랜드 슬램
   Monica Seles = 모니카 셀레스
@@ -386,10 +370,8 @@ HEADWORD: Stegosaurus = 스테고사우루스
 LEVEL: 4
 GLOSSARY:
   Allosaurus = 알로사우루스
-  Bone = 뼈
   Bone Wars = 화석 전쟁
   Diplodocus = 디플로도쿠스
-  Genus = 속
   Jurassic = 쥐라기
   Late Jurassic = 후기 쥐라기
   Marsh = 소택지
@@ -405,7 +387,6 @@ HEADWORD: Stellar black hole = 항성 블랙홀
 LEVEL: 4
 GLOSSARY:
   Angular momentum = 각운동량
-  Black = 검은색
   Black hole = 블랙홀
   Gravitational wave = 중력파
   Solar mass = 태양 질량
@@ -430,13 +411,11 @@ GLOSSARY:
   Harvard = 하버드
   Harvard system = 하버드 분류법
   Jump = 「Jump」
-  Light = 빛
   Luminosity classes = 광도 계급
   Molecule = 분자
   Morgan = 모건
   Prism (optics) = 프리즘
   Roman numerals = 로마 숫자
-  Scheme = 스킴
   Sun = 태양
   The Sun = 『더 선』
   hypergiants = 극대거성
@@ -473,7 +452,6 @@ GLOSSARY:
   Galaxy = 은하
   Hypervelocity stars = 초고속 항성
   Milky Way = 우리은하
-  Once = 『Once』
   Parallax = 시차
   Supermassive black hole = 초대질량 블랙홀
   black hole = 블랙홀
@@ -511,7 +489,6 @@ LEVEL: 4
 GLOSSARY:
   CNO cycle = CNO 순환
   Convection = 대류
-  Heat = 열
   Hydrostatic equilibrium = 정역학 평형
   Sun = 태양
   differential equations = 미분 방정식
@@ -544,7 +521,6 @@ Extinct [[Sirenia|sirenian]] mammal (*Hydrodamalis gigas*). Described by Georg W
 HEADWORD: Stem cell = 줄기세포
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Cell (biology) = 세포
   Embryo = 배아
   Mammal = 포유류
@@ -587,7 +563,6 @@ French writer, pen name of Marie-Henri Beyle. Best known for the novels *Le Roug
 HEADWORD: Stepfamily = 재혼 가정
 LEVEL: 4
 GLOSSARY:
-  Family = 가족
   Old English = 고대 영어
   Orphan = 고아
   United States = 미국
@@ -605,7 +580,6 @@ GLOSSARY:
   Commonwealth = 영연방
   Gdańsk = 그단스크
   Gáspár Bekes = 베케시 가스파르
-  Hungarian = 헝가리어
   Jan Zamoyski = 얀 자모이스키
   Lithuania = 리투아니아
   Lithuanian = 리투아니아
@@ -748,7 +722,6 @@ GLOSSARY:
   Harvard = 하버드
   Harvard University = 하버드 대학교
   History = 역사학
-  Library = 도서관
   Library of Congress = 미국 의회 도서관
   Living Legend = 살아 있는 전설
   Museum = 박물관
@@ -818,7 +791,6 @@ GLOSSARY:
   Pulitzer Prize for Drama = 퓰리처상 희곡 부문
   Sooner or Later = 「Sooner or Later」
   Story = 『스토리』
-  Sunday = 일요일
   Sunday in the Park with George = 「조지와 함께한 일요일 공원에서」
   Theatre = 연극
   Tony = 토니상
@@ -838,7 +810,6 @@ GLOSSARY:
   Battle of Orbic = 오르비크 전투
   Battle of Vaslui = 바슬루이 전투
   Cetatea Albă = 체타테아알버
-  Champion = 「챔피언」
   Chilia = 킬리아
   Church = 처치
   Mehmed II = 메흐메트 2세
@@ -855,7 +826,6 @@ GLOSSARY:
   Romanian Orthodox Church = 루마니아 정교회
   Valea Albă = 발레아알버
   Vlad the Impaler = 블라드 3세
-  Voivode = 보이보드
 ENTRY:
 Voivode of [[Moldavia]] (1457–1504) and national hero of [[Romania]] and [[Moldova]]. He took the throne after his victory at the Battle of Orbic, with support from his cousin [[Vlad the Impaler]]. He stopped paying tribute to the [[Ottoman Empire|Ottomans]] in 1473 and defeated a large Ottoman army at the Battle of Vaslui in 1475, earning the title *Athleta Christi* ("Champion of Christ") from Pope Sixtus IV. The following year Mehmed II routed him at Valea Albă, and his efforts to recapture the ports of Chilia and Cetatea Albă ended in failure. From 1486 he again paid a yearly tribute to the Ottomans. He restored old fortresses and built new ones, and dozens of stone churches and monasteries were built during his reign, contributing to a distinct Moldavian architectural style. The Romanian Orthodox Church canonized him in 1992.
 
@@ -891,7 +861,6 @@ GLOSSARY:
   Explicit stereotypes = 명시적 고정 관념
   Prejudice = 편견
   Racism = 인종주의
-  Research = 연구
   Social psychology = 사회 심리학
   discrimination = 차별
   implicit stereotypes = 암묵적 고정 관념

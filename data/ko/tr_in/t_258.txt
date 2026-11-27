@@ -87,13 +87,11 @@ HEADWORD: Peach = 복숭아
 LEVEL: 4
 GLOSSARY:
   China = 중국
-  Deciduous = 낙엽성
   Europe = 유럽
   Iran = 이란
   Nectarines = 천도복숭아
   Neolithic = 신석기 시대
   Persia = 페르시아
-  Prunus = 벚나무속
   Prunus persica = Prunus persica
   rose family = 장미과
 ENTRY:
@@ -128,7 +126,6 @@ LEVEL: 4
 GLOSSARY:
   Arachis hypogaea = Arachis hypogaea
   Carl Linnaeus = 칼 폰 린네
-  Legume = 콩과 식물
   Linnaeus = 린네
   South America = 남아메리카
   geocarpy = 지하 결실
@@ -195,7 +192,6 @@ GLOSSARY:
   Eddie Vedder = 에디 베더
   Jeff Ament = 제프 아먼트
   Mike McCready = 마이크 매크리디
-  Pearl = 진주
   Pearl Jam = 펄 잼
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
   Seattle = 시애틀
@@ -269,7 +265,6 @@ GLOSSARY:
   King Richard = 「킹 리차드」
   Richard = 리처드
   Richard II = 리처드 2세
-  Socialist = 사회당
   Wat Tyler's Rebellion = 와트 타일러의 난
   William = 윌리엄
   William Morris = 윌리엄 모리스
@@ -282,7 +277,6 @@ LEVEL: 4
 GLOSSARY:
   Carbon dioxide = 이산화 탄소
   Coal = 석탄
-  Peat = 이탄
   Peatlands = 이탄지
   Sphagnum = 물이끼속
 ENTRY:
@@ -295,7 +289,6 @@ GLOSSARY:
   Alabama = 앨라배마주
   Arkansas = 아칸소주
   California = 캘리포니아주
-  Carya = 히코리속
   Carya illinoinensis = Carya illinoinensis
   Georgia (U.S. state) = 조지아주
   Hickory = 히코리
@@ -304,7 +297,6 @@ GLOSSARY:
   Mississippi River = 미시시피강
   New Mexico = 뉴멕시코주
   River = 강
-  Species = 종
   Texas = 텍사스주
   United States = 미국
   praline = 프랄린
@@ -335,7 +327,6 @@ GLOSSARY:
   Didactics = 교수학
   Learning = 학습
   Socratic method = 소크라테스식 문답법
-  Theory = 이론
   liberal education = 교양 교육
   tacit knowledge = 암묵지
 ENTRY:
@@ -346,7 +337,6 @@ HEADWORD: Pediatrics = 소아과학
 LEVEL: 4
 GLOSSARY:
   American Academy of Pediatrics = 미국 소아과 학회
-  Branch = 브랜치
   Child = 어린이
   Commonwealth = 영연방
   Diseases in Children = 『소아 질병』
@@ -400,7 +390,6 @@ HEADWORD: Calderón de la Barca, Pedro = 칼데론 데 라 바르카, 페드로
 LEVEL: 4
 GLOSSARY:
   Alcázar = 알카사르
-  Building = 건물
   Calderón = 칼데론
   Catholic = 가톨릭
   Dream = 꿈
@@ -411,7 +400,6 @@ GLOSSARY:
   Golden Age = 황금 세기
   Knight = 기사
   La vida es sueño = 『인생은 꿈』
-  Life = 『라이프』
   Life Is a Dream = 『인생은 꿈』
   Lope de Vega = 로페 데 베가
   Madrid = 마드리드
@@ -641,7 +629,6 @@ GLOSSARY:
   Frigatebird = 군함조
   Genus = 속
   Linnaeus = 린네
-  Once = 『Once』
   Pelecaniformes = 사다새목
   Shoebill = 넓적부리황새
   habitat destruction = 서식지 파괴
@@ -704,7 +691,6 @@ GLOSSARY:
   László Bíró = 비로 라슬로
   Papyrus = 파피루스
   United States = 미국
-  Writing = 문자
   dip pens = 딥펜
   reed pens = 갈대 펜
 ENTRY:
@@ -739,11 +725,9 @@ GLOSSARY:
   British East India Company = 영국 동인도 회사
   East India Company = 동인도 회사
   Eurasian = 유라시아판
-  Francis = 프랑수아
   Francis Light = 프랜시스 라이트
   George Town = 조지타운
   India = 인도
-  Japan = 일본
   Kedah = 크다주
   Light = 빛
   Malacca = 믈라카
@@ -771,9 +755,7 @@ GLOSSARY:
   Clay = 점토
   England = 잉글랜드
   French = 프랑스어
-  Graphite = 흑연
   Nicolas-Jacques Conté = 니콜라자크 콩테
-  Writing = 문자
 ENTRY:
 Writing and drawing implement with a solid pigment core in a protective casing. Pencils make marks by abrasion, leaving a trail of core material on paper. Most cores are graphite mixed with [[Clay|clay]], which makes erasable gray or black marks. [[Charcoal|Charcoal]] cores are used mainly for sketching, and grease pencils mark smooth surfaces such as glass. The most common casing is hexagonal wood bonded to the core, which must be peeled to expose the point. Mechanical pencils have separate cores that can be extended and reloaded. Graphite was found in large deposits in Borrowdale, England, in the 16th century and was first wrapped in string or sheepskin. In 1795 French army officer Nicolas-Jacques Conté developed a method of mixing powdered graphite with clay, forming rods and firing them, which enabled mass production. The core is called "lead," though it contains no lead.
 
@@ -788,7 +770,6 @@ GLOSSARY:
   Galileo Galilei = 갈릴레오 갈릴레이
   Gravity = 중력
   Quartz = 석영
-  Weight = 무게
   accelerometers = 가속도계
   equilibrium position = 평형 위치
   isochronism = 등시성
@@ -806,7 +787,6 @@ GLOSSARY:
   Great auk = 큰바다쇠오리
   Krill = 크릴
   Northern Hemisphere = 북반구
-  Penguins = 펭귄스
   Southern Hemisphere = 남반구
   Squid = 오징어
   little blue penguin = 쇠푸른펭귄

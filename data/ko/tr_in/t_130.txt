@@ -146,7 +146,6 @@ GLOSSARY:
   Bavaria = 바이에른
   France = 프랑스
   Normandy = 노르망디
-  Patton = 「패튼 대전차 군단」
   Seventh Army = 제7군
   Sicily = 시칠리아
   Soviet Union = 소련
@@ -173,7 +172,6 @@ GLOSSARY:
   Double Eagle = 더블 이글
   Economics = 경제학
   England = 잉글랜드
-  Hungarian = 헝가리어
   Hungary = 헝가리
   London School of Economics = 런던 정치경제대학교
   Nazi = 나치
@@ -217,7 +215,6 @@ American television host and former Democratic political adviser. Stephanopoulos
 HEADWORD: Stephenson, George = 스티븐슨, 조지
 LEVEL: 4
 GLOSSARY:
-  Father = 아버지
   Father of Railways = 철도의 아버지
   Humphry Davy = 험프리 데이비
   Industrial Revolution = 산업 혁명
@@ -346,7 +343,6 @@ GLOSSARY:
   Party = 파티
   University = 대학
   University of Alabama = 앨라배마 대학교
-  Wallace = 월리스
   inaugural address = 취임 연설
 ENTRY:
 American politician and lawyer, governor of [[Alabama]]. Wallace served as governor in 1963–1967, 1971–1979 and 1983–1987. In his 1963 inaugural address he declared "segregation now, segregation tomorrow, and segregation forever." During his first term he stood in the entrance of the University of Alabama to block black students. He sought the [[Democratic Party (United States)|Democratic Party]] presidential nomination three times and in 1968 won five Southern states as an American Independent Party candidate. Shot during his 1972 presidential campaign, he was paralyzed below the waist. He later moderated his views on race and renounced his past support for segregation.
@@ -465,7 +461,6 @@ GLOSSARY:
   Westinghouse Air Brake Company = 웨스팅하우스 에어 브레이크 컴퍼니
   Westinghouse Electric = 웨스팅하우스 일렉트릭
   Westinghouse Electric Corporation = 웨스팅하우스 일렉트릭
-  White = 흰색
   White City = 화이트 시티
   air brake = 공기 제동기
   alternating current = 교류
@@ -508,7 +503,6 @@ LEVEL: 4
 GLOSSARY:
   Earth = 지구
   Essay = 수필
-  French = 프랑스어
   Geoffroy Saint-Hilaire = 조프루아 생틸레르
   Jean-Baptiste Lamarck = 장바티스트 라마르크
   Lamarck = 라마르크
@@ -549,7 +543,6 @@ GLOSSARY:
   Bois de Boulogne = 불로뉴 숲
   Bois de Vincennes = 뱅센 숲
   Charles Garnier = 샤를 가르니에
-  French = 프랑스어
   Haussmann = 오스만
   Napoleon = 나폴레옹
   Napoleon III = 나폴레옹 3세
@@ -594,12 +587,10 @@ HEADWORD: Méliès, Georges = 멜리에스, 조르주
 LEVEL: 4
 GLOSSARY:
   A Trip to the Moon = 「달세계 여행」
-  French = 프랑스어
   Jules Verne = 쥘 베른
   Montreuil-sous-Bois = 몽트뢰유수부아
   Moon = 달
   Special effect = 특수 효과
-  World = 세계
   World War I = 제1차 세계 대전
   dissolves = 디졸브
   multiple exposures = 다중 노출
@@ -615,7 +606,6 @@ HEADWORD: Seurat, Georges = 쇠라, 조르주
 LEVEL: 4
 GLOSSARY:
   Bathers at Asnières = 「아니에르에서의 물놀이」
-  French = 프랑스어
   Groupe des Artistes Indépendants = 독립 예술가 그룹
   La Grande Jatte = 그랑드자트섬
   Modern art = 현대 미술
@@ -636,7 +626,6 @@ French post-Impressionist painter. He devised the painting techniques known as c
 HEADWORD: St-Pierre, Georges = 생피에르, 조르주
 LEVEL: 5
 GLOSSARY:
-  Canadian = 캐나다
   Captain = 선장
   Captain America = 캡틴 아메리카
   Ultimate Fighting Championship = 얼티밋 파이팅 챔피언십
@@ -652,16 +641,13 @@ HEADWORD: Georgetown = 조지타운
 LEVEL: 5
 GLOSSARY:
   Atlantic Ocean = 대서양
-  CARICOM = 카리브 공동체
   Caribbean Community = 카리브 공동체
   City = 도시
   Court = 법원
   Court of Appeals = 항소 법원
   Demerara River = 디메라라강
   Dutch = 네덜란드어
-  Garden = 정원
   Garden City of the Caribbean = 카리브해의 정원 도시
-  Georgetown = 조지타운
   Guyana = 가이아나
   Parliament = 의회
   River = 강
@@ -697,7 +683,6 @@ Private [[Jesuits|Jesuit]] research university in [[Washington, D.C.]] Founded b
 HEADWORD: O'Keeffe, Georgia = 오키프, 조지아
 LEVEL: 4
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred Stieglitz = 앨프리드 스티글리츠
   City = 도시
   Flower = 꽃
@@ -852,7 +837,6 @@ LEVEL: 4
 GLOSSARY:
   California = 캘리포니아주
   Carbon dioxide = 이산화 탄소
-  Electricity = 전기
   Energy = 에너지
   Geothermal Energy Association = 지열 에너지 협회
   Italy = 이탈리아
@@ -899,7 +883,6 @@ GLOSSARY:
   Dresden = 드레스덴
   Dresden Academy of Fine Arts = 드레스덴 미술 아카데미
   East Germany = 동독
-  German = 독일어
   Germany = 독일
   Red Army = 붉은 군대
   Red Army Faction = 적군파
@@ -913,7 +896,6 @@ HEADWORD: Geriatrics = 노인의학
 LEVEL: 4
 GLOSSARY:
   Ageing = 노화
-  Geriatrics = 노인 의학
   Medicine = 의학
   Nursing = 간호
   Pneumonia = 폐렴

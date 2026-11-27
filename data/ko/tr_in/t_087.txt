@@ -22,7 +22,6 @@ GLOSSARY:
   Abbé Sieyès = 시에예스 신부
   Assembly = 민회
   Constituent Assembly = 제헌 의회
-  Drawing = 인발
   Enlightenment = 계몽주의
   Fifth Republic = 제5공화국
   Fourth Republic = 제4공화국
@@ -30,7 +29,6 @@ GLOSSARY:
   French = 프랑스어
   French Fourth Republic = 프랑스 제4공화국
   French Revolution = 프랑스 혁명
-  Human = 인간
   Jean-Jacques Rousseau = 장자크 루소
   Jefferson = 제퍼슨
   Kingdom of France = 프랑스 왕국
@@ -56,7 +54,6 @@ GLOSSARY:
   Brazil = 브라질
   British Empire = 대영 제국
   Cold War = 냉전
-  Decolonization = 탈식민지화
   Earth = 지구
   Enlightenment = 계몽주의
   Frantz Fanon = 프란츠 파농
@@ -142,7 +139,6 @@ GLOSSARY:
   Inductive reasoning = 귀납적 추론
   Natural deduction = 자연 연역
   Psychology = 심리학
-  Research = 연구
   Socrates = 소크라테스
   formal fallacies = 형식적 오류
   inductive reasoning = 귀납적 추론
@@ -218,7 +214,6 @@ ENTRY:
 HEADWORD: Deep learning = 딥 러닝
 LEVEL: 5
 GLOSSARY:
-  Branch = 브랜치
   Human brain = 인간의 뇌
   Machine learning = 기계 학습
   Neural network (machine learning) = 인공 신경망
@@ -242,7 +237,6 @@ GLOSSARY:
   Camouflage = 위장
   Cretaceous = 백악기
   Early Cretaceous = 전기 백악기
-  Fish = 어류
   Italy = 이탈리아
   Palombini Shale = 팔롬비니 셰일
   Shale = 셰일
@@ -302,7 +296,6 @@ GLOSSARY:
   Capreolinae = 노루아과
   Cervidae = 사슴과
   Cervinae = 사슴아과
-  Deer = 사슴
   Heraldry = 문장학
   Moose = 말코손바닥사슴
   Paleolithic = 구석기 시대
@@ -366,10 +359,8 @@ GLOSSARY:
   Babylon = 바빌론
   China = 중국
   Constantinople = 콘스탄티노폴리스
-  Fortification = 요새
   Great Wall = 만리장성
   Great Wall of China = 만리장성
-  Gunpowder = 화약
   Hadrian's Wall = 하드리아누스 방벽
   Ishtar = 이슈타르
   Ishtar Gate = 이슈타르 문
@@ -409,8 +400,6 @@ LEVEL: 4
 GLOSSARY:
   Agriculture = 농업
   Biodiversity = 생물 다양성
-  Deforestation = 삼림 벌채
-  Livestock = 가축
   Wildfire = 산불
   biodiversity loss = 생물 다양성 손실
   habitat destruction = 서식지 파괴
@@ -426,8 +415,6 @@ GLOSSARY:
   Amazon rainforest = 아마존 열대 우림
   Brazil = 브라질
   Brazilian Amazon = 브라질 아마존
-  Cattle = 소
-  Satellite = 인공위성
   Soybean = 콩
   cattle ranching = 목축
   soy frontiers = 대두 개척 전선
@@ -521,7 +508,6 @@ GLOSSARY:
   Major League Baseball = 메이저 리그 베이스볼
   NFL draft = NFL 드래프트
   National Football League = 내셔널 풋볼 리그
-  Prime = 프라임
   Prime Time = 프라임 타임
   Pro Football Hall of Fame = 프로 풋볼 명예의 전당
   Super = 「슈퍼」
@@ -540,7 +526,6 @@ HEADWORD: Deism = 이신론
 LEVEL: 4
 GLOSSARY:
   Age of Enlightenment = 계몽주의 시대
-  Belief = 믿음
   Deism = 이신론
   England = 잉글랜드
   Enlightenment = 계몽주의
@@ -565,7 +550,6 @@ GLOSSARY:
   Augustine = 아우구스티누스
   Augustine of Hippo = 히포의 아우구스티누스
   Avestan = 아베스타
-  Belief = 믿음
   Brahman = 브라만
   Christianization = 기독교화
   Deism = 이신론
@@ -587,7 +571,6 @@ GLOSSARY:
   Proto-Indo-European = 인도유럽조어
   Romans = 로마인
   Sanskrit = 산스크리트어
-  Supernatural = 초자연
   Theism = 유신론
   Upanishads = 우파니샤드
   Vedic = 베다
@@ -665,7 +648,6 @@ GLOSSARY:
   Humayun's Tomb = 후마윤 묘
   India = 인도
   Indian Rebellion of 1857 = 1857년 인도 항쟁
-  Megacity = 메가시티
   Mughal = 무굴
   Mughal Empire = 무굴 제국
   New Delhi = 뉴델리
@@ -704,7 +686,6 @@ HEADWORD: Delhi Metro = 델리 메트로
 LEVEL: 5
 GLOSSARY:
   Capital Region = 수도 지역
-  Construction = 건설
   Delhi = 델리
   Delhi Metro = 델리 메트로
   Delhi Metro Rail Corporation = 델리 메트로 철도 공사
@@ -755,7 +736,6 @@ GLOSSARY:
   Athenian Empire = 아테네 제국
   Athens = 아테네
   Battle of Plataea = 플라타이아이 전투
-  Confederacy = 남부 연합
   Delos = 델로스섬
   Lysander = 리산드로스
   Peloponnesian League = 펠로폰네소스 동맹
@@ -854,9 +834,7 @@ LEVEL: 3
 GLOSSARY:
   Acetylcholinesterase inhibitors = 아세틸콜린에스테라아제 억제제
   Alzheimer's disease = 알츠하이머병
-  Blood = 혈액
   Blood test = 혈액 검사
-  Dementia = 치매
   Hallucination = 환각
   Huntington's disease = 헌팅턴병
   Hypothyroidism = 갑상샘 기능 저하증
@@ -894,7 +872,6 @@ GLOSSARY:
   Eleusinian Mysteries = 엘레우시스 비의
   Hades = 하데스
   Harvest = 수확
-  Olympian = 올림포스
   Persephone = 페르세포네
   Romans = 로마인
   Twelve Olympians = 올림포스 12신

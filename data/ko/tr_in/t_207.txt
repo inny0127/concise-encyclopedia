@@ -21,7 +21,6 @@ HEADWORD: Machete = 마체테
 LEVEL: 4
 GLOSSARY:
   Africa = 아프리카
-  Broad = 브로드강
   Cavalry = 기병
   Central America = 중앙아메리카
   Chinua Achebe = 치누아 아체베
@@ -54,7 +53,6 @@ GLOSSARY:
   Guillaume Amontons = 기욤 아몽통
   Hero of Alexandria = 알렉산드리아의 헤론
   Industrial Revolution = 산업 혁명
-  James = 야고보
   James Watt = 제임스 와트
   Latin = 라틴어
   Leonardo = 레오나르도
@@ -67,7 +65,6 @@ GLOSSARY:
   Renaissance = 르네상스
   Simon Stevin = 시몬 스테빈
   Simple machine = 단순 기계
-  Steam = 스팀
   Thermodynamic system = 열역학계
   Vinci = 빈치
   Watt = 와트
@@ -118,7 +115,6 @@ GLOSSARY:
   Heavy machine guns = 중기관총
   Hiram Maxim = 하이럼 맥심
   Infantry = 보병
-  Machine = 기계
   Maxim = 맥심
   Navy = 해군
   United States = 미국
@@ -160,7 +156,6 @@ GLOSSARY:
   Hammer = 망치
   James = 야고보
   James Watt = 제임스 와트
-  Machine = 기계
   Watt = 와트
   forging presses = 단조 프레스
   hydraulic = 유압식
@@ -222,7 +217,6 @@ GLOSSARY:
   Norman Wells = 노먼웰스
   Northwest Territories = 노스웨스트 준주
   Ocean = 대양
-  River = 강
   Slave = 슬레이브강
   Thutade Lake = 투타데호
   main stem = 본류
@@ -234,12 +228,10 @@ HEADWORD: Mackerel = 고등어
 LEVEL: 4
 GLOSSARY:
   Atlantic cod = 대서양대구
-  Mackerel = 고등어
   Marlin = 청새치
   Scombridae = 고등어과
   Shark = 상어
   Shoal = 떼
-  Sport = 스포츠
   Tuna = 다랑어
   Whale = 고래
   forage fish = 먹이 어류
@@ -271,7 +263,6 @@ Small deciduous tree or large shrub of the mulberry family, [[Moraceae]], native
 HEADWORD: Macroeconomics = 거시 경제학
 LEVEL: 3
 GLOSSARY:
-  Branch = 브랜치
   Economic growth = 경제 성장
   Economics = 경제학
   Employment = 고용
@@ -281,10 +272,8 @@ GLOSSARY:
   John = 존
   John Maynard Keynes = 존 메이너드 케인스
   Keynesian = 케인스학파
-  Macroeconomics = 거시경제학
   Microeconomics = 미시경제학
   Money = 화폐
-  Swedish = 스웨덴어
   The General = 「제너럴」
   Theory = 이론
   Unemployment = 실업
@@ -315,9 +304,7 @@ LEVEL: 5
 GLOSSARY:
   Academy Award = 아카데미상
   Action film = 액션 영화
-  Australian = 오스트레일리아
   Byron Kennedy = 바이런 케네디
-  Fury = 「분노」
   Fury Road = 「분노의 도로」
   George Miller = 조지 밀러
   Kennedy = 케네디
@@ -384,7 +371,6 @@ GLOSSARY:
   French = 프랑스어
   Gustave Flaubert = 귀스타브 플로베르
   Madame Bovary = 『보바리 부인』
-  Novel = 소설
   Paris = 파리
   Revue de Paris = 『르뷔 드 파리』
   literary realism = 사실주의 문학
@@ -407,7 +393,6 @@ GLOSSARY:
   Portugal = 포르투갈
   Prince = 후작
   Prince Henry the Navigator = 항해왕 엔히크
-  Tourism = 관광
   UNESCO = 유네스코
   UNESCO World Heritage Site = 유네스코 세계유산
   World = 세계
@@ -456,7 +441,6 @@ GLOSSARY:
   Mughal-e-Azam = 「무갈에아잠」
   Mumbai = 뭄바이
   Mumtaz Jehan Begum Dehlavi = 뭄타즈 자한 베검 델라비
-  Venus = 금성
   ventricular septal defect = 심실 중격 결손
 ENTRY:
 Indian actress and film producer, a leading star of the Golden Age of Hindi cinema. Born Mumtaz Jehan Begum Dehlavi in [[Delhi]], she moved as a child to Bombay (now [[Mumbai]]). She began as a child artiste in 1942 and became a leading lady after *Lal Dupatta* (1948) and the gothic film *Mahal* (1949). Her beauty earned her the nickname "Venus of the Indian screen", though later critics argued that her appeal often overshadowed her acting. Her portrayal of Anarkali in the epic *Mughal-e-Azam* (1960) has been named by critics among the finest performances in Indian cinema. Her comic roles in *Mr. & Mrs. '55* (1955) and *Gateway of India* (1957) brought renewed success. She suffered from a ventricular septal defect throughout her adult life, and her marriage to [[Kishore Kumar]] drew considerable media attention.
@@ -588,7 +572,6 @@ GLOSSARY:
   Like a Virgin = 「라이크 어 버진」
   Michigan = 미시간주
   New York City = 뉴욕
-  Queen = 퀸
   Queen of Pop = 팝의 여왕
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
   The Immaculate Collection = 「디 이매큘레이트 컬렉션」
@@ -612,7 +595,6 @@ GLOSSARY:
   Iberia = 이베리아 항공
   Iberian = 이베리아
   Iberian Peninsula = 이베리아반도
-  Madrid = 마드리드
   Museum = 박물관
   Paseo del Prado = 프라도 거리
   Peninsula = 반도
@@ -636,7 +618,6 @@ GLOSSARY:
   Asia = 아시아
   Chennai = 첸나이
   Chola Empire = 촐라 왕조
-  City = 도시
   Coimbatore = 코임바토르
   Granite = 화강암
   India = 인도
@@ -696,7 +677,6 @@ GLOSSARY:
   Haryanka = 하리앙카 왕조
   India = 인도
   Jainism = 자이나교
-  Magadha = 마가다
   Mahajanapadas = 마하자나파다
   Mahavira = 마하비라
   Maurya = 마우리아
@@ -849,7 +829,6 @@ GLOSSARY:
   AIDS = 에이즈
   HIV = HIV
   HIV/AIDS = HIV/AIDS
-  Johnson = 존슨
   Los Angeles = 로스앤젤레스
   Los Angeles Lakers = 로스앤젤레스 레이커스
   Most Valuable Player = 최우수 선수
@@ -885,7 +864,6 @@ LEVEL: 4
 GLOSSARY:
   Broadway = 브로드웨이
   Broadway theatre = 브로드웨이 극장
-  Entertainment = 오락
   Golden Age of Magic = 마술의 황금시대
   Harry = 해리
   Harry Houdini = 해리 후디니
@@ -914,7 +892,6 @@ GLOSSARY:
   Hellenistic = 헬레니즘
   James = 야고보
   James G. Frazer = 제임스 G. 프레이저
-  Marcel = 마르셀
   Marcel Mauss = 마르셀 모스
   Science = 과학
   magick = 매직
@@ -930,7 +907,6 @@ GLOSSARY:
   China = 중국
   German = 독일어
   L0 Series = L0계
-  Maglev = 자기 부상 열차
   Rail transport = 철도 운송
   Shanghai = 상하이
   Shanghai maglev = 상하이 자기 부상 열차
@@ -946,7 +922,6 @@ GLOSSARY:
   Hawaii = 하와이주
   Iceland = 아이슬란드
   Igneous rock = 화성암
-  Magma = 마그마
   Magma chamber = 마그마굄
   Volcano = 화산
   batholiths = 저반

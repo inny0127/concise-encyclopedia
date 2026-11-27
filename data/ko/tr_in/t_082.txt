@@ -3,7 +3,6 @@ HEADWORD: Curiosity = 호기심
 LEVEL: 4
 GLOSSARY:
   Boredom = 지루함
-  Curiosity = 호기심
   Daniel Berlyne = 대니얼 벌린
   Dolphin = 돌고래
   Elephant = 코끼리
@@ -56,7 +55,6 @@ Capital and largest city of the state of Paraná in southern Brazil (pop., 2024:
 HEADWORD: Curling = 컬링
 LEVEL: 4
 GLOSSARY:
-  Curling = 컬링
   Granite = 화강암
   Nagano = 나가노
   Paisley Abbey = 페이즐리 수도원
@@ -82,13 +80,11 @@ GLOSSARY:
   Egypt = 이집트
   Euro = 유로
   Exchange rate = 환율
-  Gold = 금
   Lydia = 리디아
   Money = 화폐
   Phoenician = 페니키아
   Renminbi = 런민비
   Sumer = 수메르
-  Today = 「투데이」
   U.S. dollar = 미국 달러
   fiat currencies = 명목 화폐
   medium of exchange = 교환 수단
@@ -128,7 +124,6 @@ GLOSSARY:
   China = 중국
   Columbian exchange = 콜럼버스 교환
   Cumin = 커민
-  Curry = 카레
   Dravidian language = 드라비다어
   Dravidian languages = 드라비다어족
   India = 인도
@@ -197,7 +192,6 @@ HEADWORD: Cusco = 쿠스코
 LEVEL: 4
 GLOSSARY:
   Andes = 안데스산맥
-  City = 도시
   City of Cusco = 쿠스코 시가
   Cusco = 쿠스코
   Inca = 잉카
@@ -304,7 +298,6 @@ LEVEL: 5
 GLOSSARY:
   CMYK = CMYK
   CMYK color model = CMYK 색 모형
-  Color = 색
   Primary color = 원색
   RGB color model = RGB 색 모형
   Teal = 틸
@@ -322,9 +315,7 @@ LEVEL: 4
 GLOSSARY:
   Cassava = 카사바
   Chemical compound = 화합물
-  Cyanide = 시안화물
   Herbivore = 초식 동물
-  Hydrogen = 수소
   Hydrogen cyanide = 시안화수소
   Inorganic compound = 무기 화합물
   Mining = 광업
@@ -353,13 +344,10 @@ GLOSSARY:
   Archean eon = 시생누대
   Carbon dioxide = 이산화 탄소
   Chloroplast = 엽록체
-  Cyanobacteria = 남세균
   Earth = 지구
   Great Oxidation Event = 대산소화 사건
   Lichen = 지의류
   Nitrogen = 질소
-  Phylum = 문
-  Plant = 식물
   Prokaryote = 원핵생물
   Proterozoic = 원생누대
   blue-green algae = 남조류
@@ -377,7 +365,6 @@ LEVEL: 4
 GLOSSARY:
   Ancient Greek = 고대 그리스어
   Artificial intelligence = 인공지능
-  Cybernetics = 사이버네틱스
   Information theory = 정보 이론
   Macy conferences = 메이시 회의
   Norbert Wiener = 노버트 위너
@@ -501,7 +488,6 @@ GLOSSARY:
   North America = 북아메리카
   Second = 초
   Second Boer War = 제2차 보어 전쟁
-  Switzerland = 스위스
   Vietnam = 베트남
   Vietnam War = 베트남 전쟁
   World = 세계
@@ -589,7 +575,6 @@ GLOSSARY:
   Armenian Highlands = 아르메니아고원
   Assyria = 아시리아
   Bible = 성경
-  Drum = 북
   Egypt = 이집트
   Greece = 그리스
   Highlands = 하일랜드
@@ -597,7 +582,6 @@ GLOSSARY:
   Orchestra = 관현악단
   Percussion instrument = 타악기
   Rome = 로마
-  Turkish = 튀르키예어
   ancient Egypt = 고대 이집트
   crash = 크래시
   hi-hat = 하이해트
@@ -642,13 +626,11 @@ GLOSSARY:
   Cyperus papyrus = 파피루스
   East Asia = 동아시아
   Eocene = 에오세
-  Family = 가족
   Late Cretaceous = 후기 백악기
   Monocotyledon = 외떡잎식물
   Papyrus = 파피루스
   Phosphorus = 인
   Proteaceae = 프로테아과
-  Sedges = 사초
   Wetland = 습지
   cluster roots = 군생근
   dauciform = 당근형
@@ -697,7 +679,6 @@ GLOSSARY:
   Carp = 잉어
   Ostariophysi = 골표상목
   Paleocene = 팔레오세
-  Species = 종
   cuatro ojos = 콰트로오호스
   killifish = 킬리피시
   least killifish = 리스트킬리피시
@@ -848,7 +829,6 @@ GLOSSARY:
   School = 학교
   Slavs = 슬라브족
   Turkic = 튀르크
-  Writing = 문자
   Writing system = 문자 체계
 ENTRY:
 [[Writing system|Writing system]] used for many languages across [[Eurasia|Eurasia]], including Slavic, Turkic and Mongolic languages. As of 2019, around 250 million people used it as the official script for their national languages, with Russia accounting for about half. When Bulgaria joined the [[European Union]] in 2007, Cyrillic became the third official script of the EU, after the Latin and Greek alphabets. The Early Cyrillic alphabet was developed in the 9th century at the Preslav Literary School in the [[First Bulgarian Empire]], probably by disciples of [[Cyril and Methodius]], and is named in honor of Saint Cyril. Derived from the Greek uncial script, it was augmented with letters from the Glagolitic alphabet for sounds absent in Greek. It spread among other [[Slavs|Slavs]] and non-Slavic Romanians, and came to dominate Glagolitic in the 12th century.

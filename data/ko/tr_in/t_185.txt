@@ -5,7 +5,6 @@ GLOSSARY:
   Aquifer = 대수층
   Cave = 동굴
   Italy = 이탈리아
-  Karst = 카르스트
   Limestone = 석회암
   Sinkhole = 싱크홀
   Slovenia = 슬로베니아
@@ -58,7 +57,6 @@ GLOSSARY:
   Georgian scripts = 조지아 문자
   Kartvelian = 카르트벨리어족
   Kartvelian languages = 카르트벨리어족
-  Language = 언어
   Language family = 어족
   Laz = 라즈어
   Mingrelian = 밍그렐어
@@ -110,7 +108,6 @@ GLOSSARY:
   Frog = 개구리
   Kosher = 코셔
   Leviticus = 『레위기』
-  Meat = 고기
   Oral Torah = 구전 토라
   Pork = 돼지고기
   Talmud = 『탈무드』
@@ -148,7 +145,6 @@ GLOSSARY:
   Buddhist = 불교
   Hiragana = 히라가나
   Kanji = 한자
-  Katakana = 가타카나
   gairaigo = 가이라이고
   kana = 가나
   syllabaries = 음절 문자
@@ -181,7 +177,6 @@ GLOSSARY:
   Love = 사랑
   Netflix = 넷플릭스
   Never for Ever = 『네버 포 에버』
-  Running = 달리기
   Running Up That Hill = 「러닝 업 댓 힐」
   Stranger Things = 「기묘한 이야기」
   The Dreaming = 『더 드리밍』
@@ -199,7 +194,6 @@ GLOSSARY:
   Calvin Klein = 캘빈 클라인
   Klein = 클라인
   Mark Wahlberg = 마크 월버그
-  Moss = 이끼
   Time = 『타임』
   Time (magazine) = 『타임』
   Vogue = 『보그』
@@ -538,7 +532,6 @@ Soviet massacre of Polish military officers and intelligentsia in 1940. Between 
 HEADWORD: Kava = 카바
 LEVEL: 5
 GLOSSARY:
-  Kava = 카바
   Melanesia = 멜라네시아
   Micronesia = 미크로네시아
   Pacific = 태평양
@@ -704,7 +697,6 @@ GLOSSARY:
   Petrograd = 페트로그라드
   Realism = 사실주의
   Russia = 러시아
-  Russian = 러시아어
   Russian avant-garde = 러시아 아방가르드
   Socialist = 사회당
   Socialist Realism = 사회주의 리얼리즘
@@ -774,7 +766,6 @@ LEVEL: 5
 GLOSSARY:
   ARCH Motorcycle = 아크 모터사이클
   Beirut = 베이루트
-  Canadian = 캐나다
   Dogstar = 도그스타
   John = 존
   John Wick = 「존 윅」

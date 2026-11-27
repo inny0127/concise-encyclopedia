@@ -49,7 +49,6 @@ GLOSSARY:
   Bashkortostan = 바시코르토스탄
   Bashneft = 바시네프트
   Belaya = 벨라야강
-  City = 도시
   Cooperation = 협력
   Ivan the Terrible = 이반 뇌제
   Plateau = 고원
@@ -75,7 +74,6 @@ GLOSSARY:
   Birth = 출산
   Birth of Venus = 『비너스의 탄생』
   Botticelli = 보티첼리
-  Construction = 건설
   Cosimo I de' Medici = 코시모 1세 데 메디치
   Florence = 피렌체
   Giorgio Vasari = 조르조 바사리
@@ -103,7 +101,6 @@ GLOSSARY:
   HIV = HIV
   Idi Amin = 이디 아민
   Kampala = 캄팔라
-  Lake = 호수
   Lake Victoria = 빅토리아호
   Milton = 밀턴
   Milton Obote = 밀턴 오보테
@@ -160,7 +157,6 @@ LEVEL: 4
 GLOSSARY:
   Edgar Degas = 에드가르 드가
   Edo = 에도
-  Genre = 장르
   Hiroshige = 히로시게
   Hokusai = 호쿠사이
   Japanese art = 일본 미술
@@ -195,7 +191,6 @@ GLOSSARY:
   Ottoman = 오스만
   Peninsula = 반도
   Polish = 폴란드
-  Rus' = 루스
   Russia = 러시아
   Russian = 러시아어
   Soviet Union = 소련
@@ -222,7 +217,6 @@ GLOSSARY:
   Kievan Rus' = 키예프 루스
   Lithuania = 리투아니아
   Old East Slavic = 고대 동슬라브어
-  Rus' = 루스
   Russian = 러시아어
   Russian Empire = 러시아 제국
   Russian language = 러시아어
@@ -242,7 +236,6 @@ GLOSSARY:
   Air pollution = 대기 오염
   Buddhism = 불교
   Buddhist = 불교
-  Independence = 인디펜던스
   Mongolia = 몽골
   Mongolian = 몽골어
   Mongolian People's Republic = 몽골 인민 공화국
@@ -305,7 +298,6 @@ LEVEL: 5
 GLOSSARY:
   CBS = CBS
   Colorado = 콜로라도주
-  Dana = 데이나 분류
   Dana White = 데이나 화이트
   Denver = 덴버
   Las Vegas = 라스베이거스
@@ -373,7 +365,6 @@ LEVEL: 4
 GLOSSARY:
   Bat = 박쥐
   First World War = 제1차 세계 대전
-  Francis = 프랑수아
   Francis Galton = 프랜시스 골턴
   Ionizing radiation = 전리 방사선
   Lazzaro Spallanzani = 라차로 스팔란차니
@@ -382,7 +373,6 @@ GLOSSARY:
   Paul Langevin = 폴 랑주뱅
   Piezoelectricity = 압전 효과
   Porpoise = 쇠돌고래
-  Sound = 소리
   Spallanzani = 스팔란차니
   War = 전쟁
   World = 세계
@@ -407,7 +397,6 @@ GLOSSARY:
   Skin cancer = 피부암
   Sun = 태양
   UVB = 자외선 B
-  Ultraviolet = 자외선
   Vitamin = 비타민
   Vitamin D = 비타민 D
   Wilhelm = 빌헬름
@@ -508,7 +497,6 @@ GLOSSARY:
   James = 야고보
   James Joyce = 제임스 조이스
   Joyce = 조이스
-  Leopold = 레오폴트
   Leopold Bloom = 레오폴드 블룸
   Molly Bloom = 몰리 블룸
   Odysseus = 오디세우스
@@ -567,7 +555,6 @@ GLOSSARY:
   Soy sauce = 간장
   Tokyo = 도쿄
   Tomato = 토마토
-  Umami = 감칠맛
   Umami receptors = 감칠맛 수용체
   University = 대학
   University of Tokyo = 도쿄 대학
@@ -599,7 +586,6 @@ GLOSSARY:
   Rashidun Caliphate = 정통 칼리파국
   Rashidun caliph = 정통 칼리파
   Sasanian Empire = 사산 제국
-  Second = 초
   Shia = 시아파
   Shia Islam = 시아파
   Sunni = 수니파
@@ -637,7 +623,6 @@ GLOSSARY:
   Peninsula = 반도
   Rashidun = 정통 칼리파
   Rashidun Caliphate = 정통 칼리파국
-  Second = 초
   Sindh = 신드주
   Syria = 시리아
   Umayyad = 우마이야 왕조
@@ -737,7 +722,6 @@ GLOSSARY:
   Dakahlia Governorate = 다카흘리아주
   Egypt = 이집트
   Kawkab el-Sharq = 카우카브 알샤르크
-  Planet = 행성
   Rolling Stone = 『롤링 스톤』
   Tamay al-Zahayra = 타마이 알자하이라
   The Voice = 「더 보이스」
@@ -753,7 +737,6 @@ LEVEL: 5
 GLOSSARY:
   Computer animation = 컴퓨터 애니메이션
   Doll = 인형
-  Hypothesis = 가설
   Masahiro Mori = 모리 마사히로
   Robot = 로봇
   animatronics = 애니매트로닉스
@@ -767,7 +750,6 @@ GLOSSARY:
   Earle Hesse Kennard = 얼 헤세 케너드
   Fourier = 푸리에
   Fourier transform = 푸리에 변환
-  German = 독일어
   Heisenberg's indeterminacy principle = 하이젠베르크의 불확정성 원리
   Hermann Weyl = 헤르만 바일
   Momentum = 운동량
@@ -812,7 +794,6 @@ GLOSSARY:
   Oscar = 오스카상
   Poverty = 빈곤
   Working class = 노동 계급
-  Writing = 문자
   culture of poverty = 빈곤 문화
   lumpenproletariat = 룸펜 프롤레타리아트
   structural = 구조적
@@ -851,7 +832,6 @@ GLOSSARY:
   Friction = 마찰
   Ligament = 인대
   Nightwear = 잠옷
-  Underwear = 속옷
   boxer briefs = 드로어즈
   boxer shorts = 사각팬티
   classic briefs = 삼각팬티
@@ -871,7 +851,6 @@ GLOSSARY:
   International trade = 국제 무역
   Labour = 노동당
   Natural disaster = 자연재해
-  Unemployment = 실업
   Voluntary unemployment = 자발적 실업
   War = 전쟁
   classical unemployment = 고전적 실업
@@ -912,7 +891,6 @@ HEADWORD: Unicode = 유니코드
 LEVEL: 5
 GLOSSARY:
   ASCII = 아스키
-  Character = 「성격」
   Character encoding = 문자 인코딩
   Emoji = 이모지
   Internet = 인터넷
@@ -940,7 +918,6 @@ GLOSSARY:
   Narwhal = 일각고래
   Persian = 페르시아어
   Renaissance = 르네상스
-  Today = 「투데이」
   cubit = 큐빗
 ENTRY:
 Legendary creature, described since antiquity as a beast with a single large, spiraling horn projecting from its forehead. Seals of the [[Bronze Age|Bronze Age]] Indus Valley civilization, from around 2000 BC, often show a single-horned animal, though the interpretation remains controversial. The 4th century BC Persian court physician Ctesias described a fleet wild ass from India with a horn a cubit and a half (700 mm, 28 inches) long. In the [[Middle Ages|Middle Ages]] and [[Renaissance|Renaissance]], European writers portrayed the unicorn as a symbol of purity and grace that could be captured only by a virgin, and its horn was said to make poisoned water potable. The [[Narwhal|narwhal]]'s tusk was sometimes sold as a unicorn horn. Today the unicorn is often a symbol of fantasy or rarity, and in the 21st century it became an LGBTQ symbol.
@@ -949,7 +926,6 @@ Legendary creature, described since antiquity as a beast with a single large, sp
 HEADWORD: Unification Church = 통일교
 LEVEL: 5
 GLOSSARY:
-  Abrahamic = 아브라함계
   Blessing ceremonies = 축복식
   Communism = 공산주의
   Court = 법원

@@ -49,7 +49,6 @@ HEADWORD: Harari, Yuval Noah = 하라리, 유발 노아
 LEVEL: 5
 GLOSSARY:
   21 Lessons for the 21st Century = 『21세기를 위한 21가지 제언』
-  Harari = 하라리주
   Hebrew = 히브리어
   Hebrew University of Jerusalem = 예루살렘 히브리 대학교
   History = 역사학
@@ -126,7 +125,6 @@ HEADWORD: Zagreb = 자그레브
 LEVEL: 4
 GLOSSARY:
   Central Europe = 중부 유럽
-  City = 도시
   Croatia = 크로아티아
   Europe = 유럽
   Global city = 세계 도시
@@ -143,7 +141,6 @@ GLOSSARY:
   Southeast = 남동부
   Southeast Europe = 남동유럽
   World = 세계
-  Zagreb = 자그레브
   global city = 세계 도시
 ENTRY:
 City (pop., 2021: 767,131), capital and largest city of [[Croatia]]. Zagreb lies on the Sava River at the southern slopes of the Medvednica mountain. The metropolitan area had 1,086,528 inhabitants at the 2021 census. Zagreb became a free royal city in 1242, and in 1851 Janko Kamauf became its first mayor. The city is divided into 17 city districts. It is the seat of the central government and almost all ministries, and almost all of Croatia's largest companies, media outlets and scientific institutions have their headquarters there. Zagreb is the country's most important transport hub, where [[Central Europe]], the Mediterranean and Southeast Europe meet. The Globalization and World Cities Research Network rates it a "Beta-" [[Global city|global city]].
@@ -153,14 +150,12 @@ HEADWORD: Zagros Mountains = 자그로스산맥
 LEVEL: 4
 GLOSSARY:
   Asia = 아시아
-  Erosion = 침식
   Eurasian = 유라시아판
   Eurasian and Arabian plates = 유라시아판과 아라비아판
   Iran = 이란
   Iraq = 이라크
   Miocene = 마이오세
   Mount Dena = 데나산
-  Mountain = 산
   Mountain range = 산맥
   Paleozoic = 고생대
   Strait = 해협
@@ -199,7 +194,6 @@ GLOSSARY:
   Museum = 박물관
   Opera = 오페라
   Pritzker Architecture Prize = 프리츠커상
-  Queen = 퀸
   Queen of Curves = 곡선의 여왕
   Russian = 러시아어
   Russian avant-garde = 러시아 아방가르드
@@ -217,7 +211,6 @@ LEVEL: 5
 GLOSSARY:
   Central Africa = 중앙아프리카
   Cold War = 냉전
-  Corruption = 부패
   Democratic = 민주당
   Democratic Republic of the Congo = 콩고 민주 공화국
   Francophone = 프랑스어권
@@ -243,7 +236,6 @@ GLOSSARY:
   Mozambique = 모잠비크
   Namibia = 나미비아
   Ocean = 대양
-  River = 강
   South Africa = 남아프리카 공화국
   Victoria Falls = 빅토리아 폭포
   Zambezi = 잠베지강
@@ -260,7 +252,6 @@ LEVEL: 4
 GLOSSARY:
   Bantu expansion = 반투족의 확산
   British Empire = 대영 제국
-  Copper = 구리
   Copperbelt = 코퍼벨트
   Copperbelt Province = 코퍼벨트주
   Independence = 인디펜던스
@@ -312,7 +303,6 @@ Semi-autonomous region of [[Tanzania]], an archipelago in the [[Indian Ocean]] o
 HEADWORD: Zapotec civilization = 사포텍 문명
 LEVEL: 4
 GLOSSARY:
-  Indigenous = 원주민
   Mesoamerica = 메소아메리카
   Mexico = 멕시코
   Monte Albán = 몬테알반
@@ -353,7 +343,6 @@ GLOSSARY:
   Augustus = 아우구스투스
   Caesaraugusta = 카이사르아우구스타
   Cantabrian wars = 칸타브리아 전쟁
-  City = 도시
   Ebro River = 에브로강
   Expo 2008 = 2008년 사라고사 엑스포
   Kingdom of Aragon = 아라곤 왕국
@@ -370,7 +359,6 @@ GLOSSARY:
   World Heritage = 세계 유산
   World Heritage Site = 세계유산
   World's fair = 만국 박람회
-  Zaragoza = 사라고사
   autonomous community = 자치 지방
 ENTRY:
 City (pop., 2025: 699,007), capital of the autonomous community of Aragon, [[Spain]]. Zaragoza lies on the Ebro River, roughly in the center of the Ebro basin. Augustus founded the city as Caesaraugusta between 25 BC and 11 BC, to settle veterans of the Cantabrian wars. Under Umayyad rule it was the capital of the Upper March of [[Al-Andalus]]. After Alfonso I of Aragon conquered it from the Almoravids on December 18, 1118, it became the political and spiritual center of the [[Kingdom of Aragon]]. The city hosted Expo 2008, a [[World's fair|world's fair]] on water and sustainable development. Its Mudéjar architecture, including La Seo Cathedral and the Aljafería Palace, is a [[UNESCO]] [[World Heritage Site|World Heritage Site]].
@@ -444,7 +432,6 @@ GLOSSARY:
   Horse = 말
   IUCN = 국제 자연 보전 연맹
   Lion = 사자
-  Plains = 대평원
   mountain zebra = 산얼룩말
   plains zebra = 사바나얼룩말
   quagga = 콰가
@@ -510,7 +497,6 @@ GLOSSARY:
   Syria = 시리아
   Upper Egypt = 상이집트
   Vaballathus = 바발라투스
-  Zenobia = 제노비아
 ENTRY:
 Third-century queen of the Palmyrene Empire in Syria. Zenobia married Odaenathus, who became king of [[Palmyra]] in 260 and defeated the [[Sasanian Empire]] of Persia. After his assassination in 267 she ruled as regent for her son Vaballathus. In 270 she launched an invasion that brought most of the Roman East under her control and annexed Egypt. By mid-271 her realm extended from [[Anatolia]] to Upper Egypt. In 272 she declared her son emperor and assumed the title of empress. Aurelian besieged and captured her, and she was exiled to Rome. Zenobia was a cultured monarch who fostered a court open to scholars and philosophers, and she protected religious minorities.
 
@@ -546,7 +532,6 @@ GLOSSARY:
   Ernst Zermelo = 에른스트 체르멜로
   Gödel's second incompleteness theorem = 괴델의 제2 불완전성 정리
   Russell's paradox = 러셀의 역설
-  Standard = 스탠더드
   Zermelo = 체르멜로
   axiomatic set theory = 공리적 집합론
   proper classes = 고유 모임
@@ -559,7 +544,6 @@ HEADWORD: Zero-day vulnerability = 제로데이 취약점
 LEVEL: 5
 GLOSSARY:
   Computer = 컴퓨터
-  Security = 보안
   patches = 패치
   threat actors = 위협 행위자
   zero-day attack = 제로데이 공격
@@ -630,7 +614,6 @@ GLOSSARY:
   Rhea = 레아
   Rome = 로마
   Titans = 티탄
-  Worship = 예배
   Zeus = 제우스
   ancient Olympic Games = 고대 올림픽
   ancient Rome = 고대 로마
@@ -673,7 +656,6 @@ GLOSSARY:
   Silk = 비단
   Silk Road = 실크로드
   Sima Qian = 사마천
-  Today = 「투데이」
   Xiongnu = 흉노
   Yuezhi = 월지
 ENTRY:

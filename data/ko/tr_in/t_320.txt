@@ -19,7 +19,6 @@ LEVEL: 4
 GLOSSARY:
   Confidence interval = 신뢰 구간
   Regression analysis = 회귀 분석
-  Standard = 스탠더드
   Standard deviation = 표준 편차
   confidence intervals = 신뢰 구간
   estimator = 추정량
@@ -56,7 +55,6 @@ GLOSSARY:
   Industrial Revolution = 산업 혁명
   Interchangeable parts = 호환 부품
   Mohenjo-daro = 모헨조다로
-  Standard = 스탠더드
   interoperability = 상호 운용성
   machine tools = 공작 기계
   non-tariff trade barrier = 비관세 무역 장벽
@@ -299,7 +297,6 @@ GLOSSARY:
   Science fiction = 과학 소설
   USS Enterprise = USS 엔터프라이즈
   United Kingdom = 영국
-  William = 윌리엄
   William Shatner = 윌리엄 섀트너
   cult classic = 컬트 고전
   science fiction = 과학 소설
@@ -356,10 +353,8 @@ GLOSSARY:
   Infrared = 적외선
   Milky Way = 우리은하
   Molecular cloud = 분자운
-  Once = 『Once』
   Open clusters = 산개 성단
   Pleiades = 플레이아데스 성단
-  Star = 항성
   globular cluster = 구상 성단
   infrared clusters = 적외선 성단
   infrared light = 적외선
@@ -411,14 +406,12 @@ Hexagram symbol generally recognized as representing Jewish identity and [[Judai
 HEADWORD: Star system = 항성계
 LEVEL: 4
 GLOSSARY:
-  Binary = 이진법
   Binary star = 쌍성
   Black hole = 블랙홀
   Cygnus X-1 = 백조자리 X-1
   Milky Way = 우리은하
   Procyon = 프로키온
   Sirius = 시리우스
-  Star = 항성
   Star cluster = 성단
   black hole = 블랙홀
   quaternary = 사중성
@@ -469,7 +462,6 @@ GLOSSARY:
   Glucose = 포도당
   Glycogen = 글리코겐
   Maize = 옥수수
-  Starch = 녹말
   Whisky = 위스키
   amylopectin = 아밀로펙틴
   amylose = 아밀로스
@@ -502,7 +494,6 @@ GLOSSARY:
   Echinoderm = 극피동물
   Indo-Pacific = 인도태평양
   Ordovician = 오르도비스기
-  Starfish = 불가사리
   benthic invertebrates = 저서 무척추동물
   crown-of-thorns starfish = 악마불가사리
   fossil record = 화석 기록
@@ -539,7 +530,6 @@ GLOSSARY:
   Asia = 아시아
   Australia = 오스트레일리아
   Europe = 유럽
-  Family = 가족
   Hawaii = 하와이
   Invasive species = 침입종
   Latin = 라틴어
@@ -608,10 +598,8 @@ GLOSSARY:
   Montevideo = 몬테비데오
   Montevideo Convention = 몬테비데오 협약
   Nation = 민족
-  Satellite = 인공위성
   Satellite states = 위성 국가
   Sovereign state = 주권 국가
-  Today = 「투데이」
   Unitary state = 단일 국가
   Walter Scheidel = 발터 샤이델
   de facto = 사실상
@@ -649,7 +637,6 @@ GLOSSARY:
   Iceland = 아이슬란드
   Iran = 이란
   Near East = 근동
-  Religion = 종교
   Rome = 로마
   Saudi Arabia = 사우디아라비아
   Supreme Head = 최고 수장
@@ -702,7 +689,6 @@ HEADWORD: Statics = 정역학
 LEVEL: 4
 GLOSSARY:
   Archimedes = 아르키메데스
-  Branch = 브랜치
   Classical mechanics = 고전 역학
   Force = 힘
   Torque = 돌림힘
@@ -718,7 +704,6 @@ Branch of [[Classical mechanics|classical mechanics]] concerned with [[Force|for
 HEADWORD: Station wagon = 스테이션왜건
 LEVEL: 5
 GLOSSARY:
-  Access = 액세스
   Canada = 캐나다
   SUV = SUV
   Sedan (automobile) = 세단
@@ -751,7 +736,6 @@ Method of statistical inference for deciding whether data provide sufficient evi
 HEADWORD: Statistical mechanics = 통계 역학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Gibbs = 기브스
   James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
@@ -792,7 +776,6 @@ LEVEL: 2
 GLOSSARY:
   Census = 인구 조사
   Descriptive statistics = 기술 통계학
-  Discipline = 「디시플린」
   German = 독일어
   Gottfried Achenwall = 고트프리트 아헨발
   Inferential statistics = 추론 통계학
@@ -803,16 +786,13 @@ GLOSSARY:
   Latin = 라틴어
   Mathematics = 수학
   Mathematics Subject Classification = 수학 주제 분류
-  Measurement = 측정
   Observational study = 관찰 연구
   Pearson = 피어슨
-  Probability = 확률
   Probability theory = 확률론
   Ronald Fisher = 로널드 피셔
   Sampling (statistics) = 표본 추출
   Standard deviation = 표준 편차
   Statistical population = 모집단
-  Statistics = 통계학
   Statistik = Statistik
   Type II = II형
   central tendency = 중심 경향
@@ -864,7 +844,6 @@ Colossal neoclassical sculpture of a robed, crowned woman on Liberty Island in N
 HEADWORD: Statue of Unity = 통일의 상
 LEVEL: 5
 GLOSSARY:
-  Construction = 건설
   Gujarat = 구자라트주
   Kevadia = 케바디아
   Narendra Modi = 나렌드라 모디

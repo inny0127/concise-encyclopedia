@@ -9,7 +9,6 @@ GLOSSARY:
   Dendrobranchiata = 수지상새아목
   Lobster = 바닷가재
   Mangrove = 맹그로브
-  Shrimp = 새우
   Whale = 고래
   bycatch = 혼획
   swimmerets = 헤엄다리
@@ -26,7 +25,6 @@ GLOSSARY:
   Church = 처치
   France = 프랑스
   Jesus = 예수
-  Length = 길이
   Linen = 리넨
   Lirey = 리레
   Secondo Pia = 세콘도 피아
@@ -64,7 +62,6 @@ GLOSSARY:
   Mediterranean = 지중해
   Mediterranean Basin = 지중해 분지
   Mediterranean climate = 지중해성 기후
-  Plant = 식물
   Shrub = 관목
   Shrubland = 관목지
   Western Australia = 웨스턴오스트레일리아주
@@ -80,7 +77,6 @@ Plant community dominated by [[Shrub|shrubs]], often also including grasses, her
 HEADWORD: Shyness = 수줍음
 LEVEL: 4
 GLOSSARY:
-  Research = 연구
   Self-esteem = 자존감
   cortisol = 코르티솔
   diffidence = 소심함
@@ -96,7 +92,6 @@ GLOSSARY:
   Ayutthaya = 아유타야
   Ayutthaya Kingdom = 아유타야 왕국
   Balinese = 발리니즈
-  Breed = 품종
   Cat = 고양이
   Europe = 유럽
   Himalayan = 히말라야
@@ -171,7 +166,6 @@ GLOSSARY:
   Permian–Triassic extinction event = 페름기-트라이아스기 대멸종
   Russia = 러시아
   Siberia = 시베리아
-  Today = 「투데이」
   Triassic = 트라이아스기
 ENTRY:
 Large region of volcanic rock in [[Siberia]], Russia. Basaltic lava covered a large expanse of Siberia in one of the largest volcanic events of the last 500 million years. Its eruptions continued for roughly two million years and spanned the Permian–Triassic boundary, which occurred around 251.9 million years ago. The traps are believed to be the primary cause of the [[Permian–Triassic extinction event]], the most severe in the geologic record. Today the area is covered by about 7 million km² (3 million sq mi) of basaltic rock, with a volume of around 4 million km³ (1 million cu mi).
@@ -275,7 +269,6 @@ GLOSSARY:
   American Mafia = 미국 마피아
   Cosa Nostra = 코사 노스트라
   Drug = 마약
-  Emigration = 이주
   Mafia = 마피아
   Sicily = 시칠리아
   United States = 미국
@@ -374,7 +367,6 @@ LEVEL: 5
 GLOSSARY:
   Art Ross Trophy = 아트 로스 트로피
   Canada = 캐나다
-  Canadian = 캐나다
   Hart Memorial Trophy = 하트 메모리얼 트로피
   NHL entry draft = NHL 신인 드래프트
   National Hockey League = 내셔널 하키 리그
@@ -412,7 +404,6 @@ GLOSSARY:
   Night = 『밤』
   Preacher = 「프리처」
   Presidential Medal of Freedom = 대통령 자유 훈장
-  Queen = 퀸
   Queen Elizabeth II = 엘리자베스 2세 여왕
   York = 요크
   honorary knighthood = 명예 기사 작위
@@ -428,7 +419,6 @@ GLOSSARY:
   Leonardo = 레오나르도
   Leonardo da Vinci = 레오나르도 다빈치
   Middle East = 중동
-  Military = 군대
   Napoleonic era = 나폴레옹 시대
   Renaissance = 르네상스
   Sumerian = 수메르
@@ -515,7 +505,6 @@ GLOSSARY:
   Berlin = 베를린
   Energy = 에너지
   Europe = 유럽
-  German = 독일어
   Johann Georg Halske = 요한 게오르크 할스케
   Munich = 뮌헨
   Siemens = 지멘스
@@ -570,7 +559,6 @@ GLOSSARY:
   British Empire = 대영 제국
   Freetown = 프리타운
   Guinea = 기니
-  Independence = 인디펜던스
   Liberia = 라이베리아
   Muslims = 무슬림
   Revolutionary United Front = 혁명 연합 전선
@@ -596,10 +584,8 @@ GLOSSARY:
   Great Basin = 그레이트베이슨
   Kings = 킹스
   Kings Canyon = 킹스캐니언
-  Lake = 호수
   Lake Tahoe = 타호호
   Mount Whitney = 휘트니산
-  Mountain = 산
   Mountain range = 산맥
   Nevada = 네바다주
   North America = 북아메리카
@@ -799,7 +785,6 @@ Natural language that conveys meaning through the visual-manual modality rather 
 HEADWORD: Signal modulation = 변조
 LEVEL: 4
 GLOSSARY:
-  Analog = 『아날로그』
   Bluetooth = 블루투스
   Cable television = 케이블 텔레비전
   LTE = LTE
@@ -821,7 +806,6 @@ HEADWORD: Signal processing = 신호 처리
 LEVEL: 4
 GLOSSARY:
   A Mathematical Theory of Communication = 「통신의 수학적 이론」
-  Analog = 『아날로그』
   Claude = 클로드
   Claude Shannon = 클로드 섀넌
   Communication = 의사소통

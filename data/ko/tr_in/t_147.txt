@@ -24,7 +24,6 @@ GLOSSARY:
   Cyrenaics = 키레네학파
   Epicurus = 에피쿠로스
   Ethical hedonism = 윤리적 쾌락주의
-  Family = 가족
   Greece = 그리스
   Jeremy Bentham = 제러미 벤담
   Pleasure = 쾌락
@@ -93,7 +92,6 @@ GLOSSARY:
   Samurai = 사무라이
   Shogun = 쇼군
   The Tale of Genji = 『겐지 이야기』
-  Warrior = 『워리어』
   shogunate = 막부
 ENTRY:
 Last division of classical Japanese history, 794–1185. Emperor Kammu moved the capital to Heian-kyō, modern [[Kyoto]], which remained the imperial capital for the next 1,000 years. Heian means "peace". Chinese influence declined and national culture matured. The syllabaries [[Katakana]] and [[Hiragana]] emerged, and court women wrote much of the vernacular literature. [[Murasaki Shikibu]]'s *The Tale of Genji* (c. 1000–1012) is often described as the world's first novel. Real power lay with the Fujiwara clan, which dominated the court through intermarriage with the imperial family. Warrior families, among them the [[Samurai|samurai]], grew in influence before the [[Shogun|shogunate]] was established in 1185.
@@ -169,10 +167,8 @@ LEVEL: 4
 GLOSSARY:
   Bonn = 본
   Dresden = 드레스덴
-  German = 독일어
   Gustav Kirchhoff = 구스타프 키르히호프
   Hermann von Helmholtz = 헤르만 폰 헬름홀츠
-  Hertz = 헤르츠
   James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
   Maxwell's equations = 맥스웰 방정식
@@ -198,7 +194,6 @@ GLOSSARY:
   1923 = 「1923」
   Allies = 연합국
   Einsatzgruppen = 아인자츠그루펜
-  German = 독일어
   Germany = 독일
   Gestapo = 게슈타포
   Hitler = 히틀러
@@ -223,7 +218,6 @@ German Nazi politician and police administrator. Himmler joined the [[Nazi Party
 HEADWORD: Schliemann, Heinrich = 슐리만, 하인리히
 LEVEL: 4
 GLOSSARY:
-  German = 독일어
   Hisarlık = 히사를리크
   Homer = 호메로스
   Iliad = 『일리아스』
@@ -356,7 +350,6 @@ GLOSSARY:
   Christopher Marlowe = 크리스토퍼 말로
   Doctor Faustus = 『포스터스 박사』
   Greek mythology = 그리스 신화
-  Helen = 헬레네
   Homer = 호메로스
   Menelaus = 메넬라오스
   Olympus = 올림포스
@@ -407,11 +400,8 @@ GLOSSARY:
   Alabama = 앨라배마주
   Asteraceae = 국화과
   Common sunflower = 해바라기
-  Genus = 속
-  Helianthus = 해바라기속
   Kansas = 캔자스주
   North America = 북아메리카
-  Species = 종
   Tennessee = 테네시주
   Ukraine = 우크라이나
   are = 아르
@@ -450,7 +440,6 @@ GLOSSARY:
   Americas = 아메리카
   Carl Linnaeus = 칼 폰 린네
   Eocene = 에오세
-  Genus = 속
   Heliconiaceae = 헬리코니아과
   Hummingbird = 벌새
   IUCN = 국제 자연 보전 연맹
@@ -515,9 +504,7 @@ LEVEL: 5
 GLOSSARY:
   Earth = 지구
   Fermion = 페르미온
-  Helium-3 = 헬륨-3
   Isotope = 동위 원소
-  Light = 빛
   Moon = 달
   Nuclear fusion = 핵융합
   Solar wind = 태양풍
@@ -539,7 +526,6 @@ GLOSSARY:
   Chemical element = 화학 원소
   Cryogenics = 극저온 공학
   Earth = 지구
-  Helium = 헬륨
   Hydrogen = 수소
   MRI scanners = MRI 장치
   Nils Abraham Langlet = 닐스 아브라함 랑글레트
@@ -565,7 +551,6 @@ GLOSSARY:
   Christianity = 기독교
   Duzakh = 두자크
   Hades = 하데스
-  Hell = 지옥
   Indian religions = 인도계 종교
   Reincarnation = 윤회
   Zoroastrianism = 조로아스터교
@@ -612,7 +597,6 @@ GLOSSARY:
   Egypt = 이집트
   Euclid = 에우클레이데스
   Hellenistic = 헬레니즘
-  Koine = 코이네
   Koine Greek = 코이네 그리스어
   Lingua franca = 링구아 프랑카
   Northeast = 북동부
@@ -661,7 +645,6 @@ GLOSSARY:
   Harley-Davidson = 할리데이비슨
   Justice = 정의
   Organized crime = 조직범죄
-  Police = 경찰
   United States = 미국
   United States Department of Justice = 미국 법무부
   charters = 지부
@@ -697,7 +680,6 @@ GLOSSARY:
   Euro = 유로
   European Union = 유럽 연합
   European integration = 유럽 통합
-  Following = 「미행」
   François Mitterrand = 프랑수아 미테랑
   French = 프랑스어
   German = 독일어
@@ -781,7 +763,6 @@ GLOSSARY:
   Best Actress = 여우주연상
   Bharatiya Janata Party = 인도 인민당
   Dharmendra = 다르멘드라
-  Dream = 꿈
   Dream Girl = 드림 걸
   Filmfare Award = 필름페어상
   Filmfare Award for Best Actress = 필름페어 여우주연상
@@ -821,7 +802,6 @@ LEVEL: 4
 GLOSSARY:
   Anemia = 빈혈
   Blood = 혈액
-  Branch = 브랜치
   German = 독일어
   Hemoglobin = 헤모글로빈
   Leukemia = 백혈병

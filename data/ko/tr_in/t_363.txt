@@ -2,7 +2,6 @@
 HEADWORD: Wavelength = 파장
 LEVEL: 4
 GLOSSARY:
-  Distance = 거리
   Electromagnetic radiation = 전자기 복사
   Frequency = 진동수
   Speed of sound = 음속
@@ -38,7 +37,6 @@ American [[Country music|country music]] singer, songwriter and musician, and a 
 HEADWORD: Gretzky, Wayne = 그레츠키, 웨인
 LEVEL: 4
 GLOSSARY:
-  Canadian = 캐나다
   Edmonton = 에드먼턴
   Edmonton Oilers = 에드먼턴 오일러스
   Hart Trophies = 하트 트로피
@@ -137,7 +135,6 @@ The weak interaction is unique in several respects. It is the only interaction t
 HEADWORD: Wealth = 부
 LEVEL: 4
 GLOSSARY:
-  Adam = 아담
   Adam Smith = 애덤 스미스
   Indo-European = 인도유럽어족
   Old English = 고대 영어
@@ -199,7 +196,6 @@ GLOSSARY:
   Holocaust = 홀로코스트
   Iraq = 이라크
   Nagasaki = 나가사키
-  Nazi = 나치
   September 11 attacks = 9·11 테러
   Soviet Union = 소련
   The Holocaust = 홀로코스트
@@ -251,8 +247,6 @@ GLOSSARY:
   Jet stream = 제트 기류
   Milankovitch cycles = 밀란코비치 주기
   Numerical weather prediction = 수치 예보
-  Surface = 서피스
-  Weather = 날씨
   Weather forecasting = 일기 예보
   anticyclonic storm = 고기압성 폭풍
   ecliptic = 황도
@@ -274,10 +268,8 @@ GLOSSARY:
   Astrology = 점성술
   Babylonians = 바빌로니아인
   Meteorology = 기상학
-  People = 『피플』
   Pressure = 압력
   United States = 미국
-  Weather = 날씨
   barometric pressure = 기압
   ensembles = 앙상블 예보
 ENTRY:
@@ -310,14 +302,11 @@ LEVEL: 4
 GLOSSARY:
   Carbon dioxide = 이산화 탄소
   Erosion = 침식
-  Frost = 서리
   Frost weathering = 동결 풍화
   Mineral = 광물
-  Physical = 「Physical」
   Physical weathering = 물리적 풍화
   Sedimentary rock = 퇴적암
   Soil = 토양
-  Weathering = 풍화
   chemical weathering = 화학적 풍화
   erosion = 침식
   frost wedging = 동결 쐐기 작용
@@ -333,7 +322,6 @@ LEVEL: 4
 GLOSSARY:
   Loom = 베틀
   Textile = 직물
-  Weaving = 직조
   Yarn = 실
   beating-up = 바디침
   fell = 직전
@@ -395,7 +383,6 @@ HEADWORD: Web design = 웹 디자인
 LEVEL: 4
 GLOSSARY:
   CERN = 유럽 입자 물리 연구소
-  Creation = 천지 창조
   Dynamic HTML = 동적 HTML
   Eric Bina = 에릭 비나
   Graphic design = 그래픽 디자인
@@ -499,7 +486,6 @@ HEADWORD: Weed = 잡초
 LEVEL: 4
 GLOSSARY:
   Bible = 성경
-  Control = 「Control」
   Crop = 작물
   Garden = 정원
   Hoe (tool) = 괭이
@@ -527,7 +513,6 @@ GLOSSARY:
   Romans = 로마인
   Sabbath = 안식일
   Sunday = 일요일
-  Today = 「투데이」
   daylight saving time = 일광 절약 시간제
   leap seconds = 윤초
   planetary week = 행성 주
@@ -585,10 +570,8 @@ GLOSSARY:
   Green Album = 『그린 앨범』
   Los Angeles = 로스앤젤레스
   Pinkerton = 『핑커턴』
-  Pork = 돼지고기
   Pork and Beans = 「Pork and Beans」
   Red Album = 『레드 앨범』
-  Weezer = 위저
 ENTRY:
 American rock band formed in Los Angeles in 1992. Its self-titled debut, known as the *Blue Album*, was released in 1994 and became a multi-platinum success on singles including "Undone – The Sweater Song". The 1996 album *Pinkerton* was a commercial failure but later gained cult status. After a hiatus, the band returned in 2001 with the more pop-oriented *Green Album*, a commercial success. The *Red Album* (2008) produced "Pork and Beans". Weezer has sold more than 35 million albums worldwide, and its 20th album, the *Gold Album*, was released in 2026.
 
@@ -703,7 +686,6 @@ GLOSSARY:
   Great Depression = 대공황
   Hindenburg = 힌덴부르크호
   Hitler = 히틀러
-  Hyperinflation = 초인플레이션
   League of Nations = 국제 연맹
   Paul von Hindenburg = 파울 폰 힌덴부르크
   Reichstag Fire Decree = 국회 의사당 화재 법령
@@ -722,14 +704,11 @@ HEADWORD: Welding = 용접
 LEVEL: 4
 GLOSSARY:
   Forge welding = 단접
-  Heat = 열
   Laser = 레이저
   Metal = 금속
-  Robot = 로봇
   Robot welding = 로봇 용접
   Soldering = 납땜
   Ultrasound = 초음파
-  Welding = 용접
   arc = 아크 용접
   brazing = 경납땜
   electric arc = 전기 아크
@@ -749,7 +728,6 @@ GLOSSARY:
   Common Chest = 공동 금고
   Cura Annonae = 쿠라 안노나이
   Germany = 독일
-  Government = 정부
   Holy Roman Empire = 신성 로마 제국
   Human = 인간
   Imperial Germany = 독일 제국
@@ -824,7 +802,6 @@ GLOSSARY:
   Soil = 토양
   Soil salination = 토양 염류화
   Steel = 강철
-  Well = 우물
   water table = 지하수면
 ENTRY:
 Excavation or structure made by digging, driving or drilling to access liquid resources, usually water. The oldest and most common kind is the water well, which taps [[Groundwater|groundwater]] in underground [[Aquifer|aquifers]] and is drawn up by a pump or by containers raised by hand. Wells were first constructed at least eight thousand years ago, and linings of wood or wickerwork date back at least to the Iron Age. Traditional dug wells are still sunk by hand in rural areas of the developing world, often lined with brick or stone. Deeper wells are [[Drilling|drilled]] and usually cased with [[Steel|steel]] or [[Plastic|plastic]] pipe, reaching much greater depths than dug wells. Well water typically contains more dissolved minerals than surface water and may require treatment before it is potable. Soil salination can occur as the water table falls, and methane can seep into the water.

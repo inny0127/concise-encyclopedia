@@ -47,7 +47,6 @@ GLOSSARY:
   Mackerel = 고등어
   Shark = 상어
   Thunnini = 다랑어족
-  Tuna = 다랑어
   bullet tuna = 물치다래
   mackerel sharks = 악상어류
   opah = 붉평치
@@ -64,7 +63,6 @@ LEVEL: 4
 GLOSSARY:
   Arctic = 북극
   Arctic tundra = 북극 툰드라
-  Biome = 생물군계
   Carbon dioxide = 이산화 탄소
   Climate change = 기후 변화
   Lichen = 지의류
@@ -226,7 +224,6 @@ GLOSSARY:
   Rapid transit = 도시 철도
   Siloam Tunnel = 실로암 터널
   Tunnel = 터널
-  Underground = 『언더그라운드』
   cut-and-cover = 개착 공법
   military engineering = 군사 공학
   rapid transit = 도시 철도
@@ -242,10 +239,8 @@ GLOSSARY:
   Cambodian genocide = 캄보디아 집단 학살
   Kang Kek Iew = 깡깩이우
   Khmer Rouge = 크메르 루주
-  Museum = 박물관
   Phnom Penh = 프놈펜
   Prison = 교도소
-  Prisoners = 「프리즈너스」
   Security = 보안
   Security Prison 21 = S-21 보안 감옥
   crimes against humanity = 인도에 반한 죄
@@ -266,7 +261,6 @@ GLOSSARY:
   Billboard Hot 100 = 빌보드 핫 100
   Black = 검은색
   Black Panther Party = 흑표당
-  California = 캘리포니아주
   California Love = 「California Love」
   City = 도시
   Coast = 해안
@@ -314,7 +308,6 @@ GLOSSARY:
   Bird = 조류
   Carotenoid = 카로티노이드
   Cuckoo = 뻐꾸기
-  Family = 가족
   Fig = 무화과
   Musophagidae = 투라코과
   Musophagiformes = 투라코목
@@ -363,7 +356,6 @@ GLOSSARY:
   Airbus A300 = 에어버스 A300
   Boeing = 보잉
   Boeing 747 = 보잉 747
-  Frank = 프랭크
   Frank Whittle = 프랭크 휘틀
   Jet engine = 제트 엔진
   Turbine = 터빈
@@ -382,7 +374,6 @@ LEVEL: 4
 GLOSSARY:
   Atlantic Ocean = 대서양
   Baltic Sea = 발트해
-  Black = 검은색
   Black Sea = 흑해
   Brackish water = 기수
   Bulgaria = 불가리아
@@ -401,7 +392,6 @@ GLOSSARY:
   Scophthalmidae = 터봇과
   Scophthalmus maximus = 터봇
   Spain = 스페인
-  True = 『True』
   Turkey = 튀르키예
   demersal fish = 저서성 어류
   gobies = 망둑어
@@ -421,7 +411,6 @@ GLOSSARY:
   Reynolds number = 레이놀즈 수
   Richard = 리처드
   Richard Feynman = 리처드 파인먼
-  Turbulence = 난류
   Viscosity = 점성
   classical physics = 고전 물리학
   kinetic energy = 운동 에너지
@@ -487,13 +476,11 @@ HEADWORD: Turing test = 튜링 테스트
 LEVEL: 5
 GLOSSARY:
   Alan Turing = 앨런 튜링
-  Computing = 컴퓨팅
   Computing Machinery and Intelligence = 「계산 기계와 지능」
   Consciousness = 의식
   Intelligence = 지능
   John = 존
   John Searle = 존 설
-  Test = 테스트 매치
   Turing = 튜링
   human intelligence = 인간 정보(휴민트)
   imitation game = 모방 게임
@@ -552,7 +539,6 @@ GLOSSARY:
   Thrace = 트라키아
   Treaty = 조약
   Treaty of Lausanne = 로잔 조약
-  Turkey = 튀르키예
   Turkish = 튀르키예어
   Turkish War of Independence = 튀르키예 독립 전쟁
   Turks = 튀르크인
@@ -579,7 +565,6 @@ GLOSSARY:
   Eurasia = 유라시아
   Europe = 유럽
   Galliformes = 닭목
-  Genus = 속
   Mexico = 멕시코
   New World = 신대륙
   North America = 북아메리카
@@ -622,7 +607,6 @@ GLOSSARY:
   Uzbek = 우즈베크어
   Vowel = 모음
   West Asia = 서아시아
-  World = 세계
   World Turkic Language Family Day = 세계 튀르크어족의 날
   agglutination = 교착성
   grammatical gender = 문법적 성
@@ -784,7 +768,6 @@ GLOSSARY:
   Indian subcontinent = 인도 아대륙
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Turmeric = 강황
   World = 세계
   World Health Organization = 세계 보건 기구
   curcumin = 커큐민
@@ -806,7 +789,6 @@ GLOSSARY:
   Japan = 일본
   Jews = 유대인
   Livestock = 가축
-  Root = 뿌리
   Rutabaga = 스웨덴순무
   Talmud = 『탈무드』
   Temperate climate = 온대 기후
@@ -868,7 +850,6 @@ HEADWORD: Turritopsis dohrnii = 작은보호탑해파리
 LEVEL: 5
 GLOSSARY:
   Jellyfish = 해파리
-  Species = 종
   biological immortality = 생물학적 불멸
   biologically immortal = 생물학적 불멸
   immortal jellyfish = 작은보호탑해파리
@@ -885,7 +866,6 @@ GLOSSARY:
   Bone = 뼈
   Cryptodira = 잠경아목
   Pleurodira = 곡경아목
-  Reptile = 파충류
   Sea turtle = 바다거북
   Testudines = 거북목
   Tortoise = 육지거북
@@ -909,7 +889,6 @@ GLOSSARY:
   Chianti = 키안티
   Dante = 단테
   Dante Alighieri = 단테 알리기에리
-  Eight = 「에잇」
   Etruscan civilization = 에트루리아 문명
   Etruscans = 에트루리아인
   Florence = 피렌체
@@ -926,7 +905,6 @@ GLOSSARY:
   Renaissance = 르네상스
   San Gimignano = 산지미냐노
   Siena = 시에나
-  Tuscany = 토스카나
   Uffizi = 우피치 미술관
   World = 세계
   World Heritage = 세계 유산

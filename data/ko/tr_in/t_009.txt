@@ -167,7 +167,6 @@ GLOSSARY:
   Enigma = 에니그마
   Enigma machine = 에니그마
   Entscheidungsproblem = 결정 문제
-  Following = 「미행」
   German = 독일어
   Gordon Brown = 고든 브라운
   Hut 8 = 8호 막사
@@ -221,13 +220,11 @@ GLOSSARY:
   Alternative rock = 얼터너티브 록
   Billboard Alternative Songs = 빌보드 얼터너티브 송스
   Canada = 캐나다
-  Canadian = 캐나다
   Grammy = 그래미상
   Grammy Awards = 그래미상
   Jagged Little Pill = 『재기드 리틀 필』
   Los Angeles = 로스앤젤레스
   Ottawa = 오타와
-  Queen = 퀸
   Queen of Alt-Rock Angst = 얼터너티브 록 앵스트의 여왕
   alternative rock = 얼터너티브 록
   dance-pop = 댄스 팝
@@ -300,7 +297,6 @@ GLOSSARY:
   Gold = 금
   Klondike = 클론다이크
   Klondike Gold Rush = 클론다이크 골드러시
-  Russia = 러시아
   Russian = 러시아어
   Russian America = 러시아령 아메리카
   Seward's Folly = 수어드의 어리석은 짓
@@ -339,7 +335,6 @@ GLOSSARY:
   Atlantic cod = 대서양대구
   Bering Sea = 베링해
   Cod = 대구
-  Food = 음식
   Food and Drug Administration = 식품의약국
   Gadus = 대구속
   Gadus chalcogrammus = Gadus chalcogrammus
@@ -367,7 +362,6 @@ GLOSSARY:
   Hoysala = 호이살라 왕조
   Jalaluddin = 잘랄웃딘
   Kakatiya = 카카티야 왕조
-  Khalji = 할지 왕조
   Khalji dynasty = 할지 왕조
   Malik Kafur = 말리크 카푸르
   Malwa = 말와
@@ -463,7 +457,6 @@ GLOSSARY:
   Romania = 루마니아
   Serbia = 세르비아
   Shkumbin = 시쿰빈강
-  Standard = 스탠더드
   Tosk = 토스크 방언
 ENTRY:
 Indo-European language, the only surviving member of the Albanic branch. Standard Albanian is the official language of [[Albania]] and [[Kosovo]], and a co-official language in [[North Macedonia]] and [[Montenegro]]. It is recognized as a minority language in [[Italy]], [[Croatia]], [[Romania]] and [[Serbia]]. Estimates of native speakers run as high as 7.5 million. Its two main dialect groups, Gheg and Tosk, are divided by the Shkumbin river. The first written mention of the language, in 1284, came from the Republic of Ragusa. Standard Albanian is based mainly on Tosk.
@@ -477,7 +470,6 @@ GLOSSARY:
   Canal = 운하
   Capital city = 수도
   Duke of York = 요크 공작
-  Dutch = 네덜란드어
   Erie Canal = 이리 운하
   Fort Nassau = 나소 요새
   Hudson River = 허드슨강
@@ -494,7 +486,6 @@ Capital city of New York State (pop., 2020: 99,224), on the west bank of the [[H
 HEADWORD: Albatross = 앨버트로스
 LEVEL: 4
 GLOSSARY:
-  Family = 가족
   Fish = 어류
   IUCN = 국제 자연 보전 연맹
   Krill = 크릴
@@ -518,12 +509,9 @@ Family of large [[Seabird|seabirds]] in the order [[Procellariiformes]]. Albatro
 HEADWORD: Albedo = 알베도
 LEVEL: 4
 GLOSSARY:
-  Albedo = 알베도
   Climate change = 기후 변화
-  Fraction = 분수
   MODIS = MODIS
   NASA = 미국 항공 우주국
-  Ocean = 대양
   Snow = 눈
   Sunlight = 햇빛
   black body = 흑체
@@ -725,7 +713,6 @@ GLOSSARY:
   Grace = 『그레이스』
   Grace Budd = 그레이스 버드
   Hamilton Howard Fish = 해밀턴 하워드 피시
-  Police = 경찰
   Serial killer = 연쇄 살인범
 ENTRY:
 American [[Serial killer|serial killer]]. Born Hamilton Howard Fish, he committed at least three child murders between 1924 and 1928 and was suspected of at least 10 murders. Police arrested him on December 13, 1934, after tracing stationery from a letter he had sent to the mother of Grace Budd, a girl he had kidnapped and murdered. He was convicted and executed in the [[Electric chair|electric chair]].
@@ -802,7 +789,6 @@ HEADWORD: Giacometti, Alberto = 자코메티, 알베르토
 LEVEL: 4
 GLOSSARY:
   Cubism = 입체주의
-  Painting = 회화
   Paris = 파리
   Surrealism = 초현실주의
   Surrealist = 초현실주의
@@ -817,7 +803,6 @@ LEVEL: 4
 GLOSSARY:
   Bellini = 벨리니
   Europe = 유럽
-  German = 독일어
   Giovanni = 조반니
   Giovanni Bellini = 조반니 벨리니
   Leonardo = 레오나르도
@@ -860,7 +845,6 @@ GLOSSARY:
   City = 도시
   El Camino Real = 엘 카미노 레알
   Force = 힘
-  Kirtland = 커틀랜드
   Kirtland Air Force Base = 커틀랜드 공군 기지
   La Villa de Alburquerque = 라 비야 데 알부르케르케
   Mexico = 멕시코
@@ -924,11 +908,9 @@ LEVEL: 4
 GLOSSARY:
   Alcibiades = 알키비아데스
   Alcmaeonid = 알크마이온 가문
-  Athenian = 아테네의
   Athens = 아테네
   Lysander = 리산드로스
   Nicias = 니키아스
-  Once = 『Once』
   Peloponnesian War = 펠로폰네소스 전쟁
   Pericles = 페리클레스
   Persian = 페르시아어
@@ -985,7 +967,6 @@ LEVEL: 4
 GLOSSARY:
   Acetaldehyde = 아세트알데히드
   Gastric lavage = 위세척
-  Management = 경영학
   activated charcoal = 활성탄
   blood alcohol concentration = 혈중 알코올 농도
   hangover = 숙취

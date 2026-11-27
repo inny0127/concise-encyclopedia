@@ -68,7 +68,6 @@ GLOSSARY:
   Mytilene = 미틸레네
   Nine Lyric Poets = 9대 서정시인
   Ode to Aphrodite = 「아프로디테 찬가」
-  Sappho = 사포
   Tenth Muse = 열 번째 무사
   lesbian = 레즈비언
   sapphic = 사픽
@@ -83,7 +82,6 @@ GLOSSARY:
   Ainu people = 아이누족
   Alluvial fan = 선상지
   Asia = 아시아
-  City = 도시
   Commission = 위원회
   Festival = 축제
   Heijō-kyō = 헤이조쿄
@@ -172,7 +170,6 @@ GLOSSARY:
   Primetime Emmy Awards = 프라임타임 에미상
   Sex and the City = 「섹스 앤 더 시티」
   The Innocents = 『이노센츠』
-  Time = 『타임』
   Time (magazine) = 『타임』
   Wood = 목재
 ENTRY:
@@ -258,7 +255,6 @@ GLOSSARY:
   Ferdinand = 페르디난트
   Franz Ferdinand = 프란츠 페르디난트 대공
   Gavrilo Princip = 가브릴로 프린치프
-  Jerusalem = 예루살렘
   Jerusalem of Europe = 유럽의 예루살렘
   Miljacka River = 밀랴츠카강
   National Geographic = 『내셔널 지오그래픽』
@@ -266,7 +262,6 @@ GLOSSARY:
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
   River = 강
-  Sarajevo = 사라예보
   UNESCO = 유네스코
   Winter = 겨울
   Winter Olympics = 동계 올림픽
@@ -308,7 +303,6 @@ GLOSSARY:
   Chemotherapy = 화학 요법
   Connective tissue = 결합 조직
   Radiation therapy = 방사선 치료
-  Rare = 「Rare」
   connective tissues = 결합 조직
   leiomyosarcoma = 평활근육종
   liposarcoma = 지방육종
@@ -347,16 +341,13 @@ LEVEL: 4
 GLOSSARY:
   Actinopterygii = 조기어강
   Carboniferous = 석탄기
-  Clade = 분기군
   Coelacanth = 실러캔스
   Devonian = 데본기
   Lungfish = 폐어
   Permian = 페름기
   Permian–Triassic extinction event = 페름기-트라이아스기 대멸종
-  Sarcopterygii = 육기어강
   Silurian = 실루리아기
   Tetrapod = 사지동물
-  Today = 「투데이」
   Triassic = 트라이아스기
   Vertebrate = 척추동물
   lobe-finned fish = 육기어류
@@ -375,7 +366,6 @@ GLOSSARY:
   Herring = 청어
   Paint = 페인트
   Plankton = 플랑크톤
-  Sardine = 정어리
   Sardinia = 사르데냐
   Sea Fish Industry Authority = 수산업청
   forage fish = 먹이 어류
@@ -762,14 +752,12 @@ LEVEL: 4
 GLOSSARY:
   A Modest Proposal = 『겸손한 제안』
   Aristophanes = 아리스토파네스
-  Genre = 장르
   Greece = 그리스
   Irish = 아일랜드어
   Jonathan Swift = 조너선 스위프트
   Latin = 라틴어
   Old Comedy = 고희극
   Parody = 패러디
-  Satire = 풍자
   Satyr = 사티로스
   ancient Greece = 고대 그리스
   burlesque = 벌레스크
@@ -821,7 +809,6 @@ American late-night live sketch comedy and variety show on [[NBC]], created by [
 HEADWORD: Saturn = 토성
 LEVEL: 3
 GLOSSARY:
-  Ammonia = 암모니아
   Cassini Division = 카시니 간극
   Earth = 지구
   Enceladus = 엔켈라두스
@@ -860,7 +847,6 @@ GLOSSARY:
   Greek mythology = 그리스 신화
   Madrid = 마드리드
   Museo del Prado = 프라도 미술관
-  Painting = 회화
   Quinta del Sordo = 킨타 델 소르도
   Romans = 로마인
   Saturn = 토성
@@ -905,7 +891,6 @@ LEVEL: 5
 GLOSSARY:
   Jet stream = 제트 기류
   Saturn = 토성
-  Voyager = 보이저
 ENTRY:
 Persistent, roughly hexagonal cloud pattern around the north pole of [[Saturn]]. Voyager flybys in 1981 recorded it, and Cassini–Huygens revisited it in 2006. Its sides are about 14,500 kilometers long. It may be a [[Jet stream|jet stream]] of gases moving at 320 kilometers per hour. It rotates with a period of 10h 39m 24s, the same as Saturn's radio emissions. The south pole has no hexagon, but a decagon-shaped wave pattern that formed around 2023. One hypothesis holds that the hexagon forms where wind speed changes steeply with latitude, a shape reproduced in laboratory tanks of rotating liquid.
 

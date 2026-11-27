@@ -2,7 +2,6 @@
 HEADWORD: Yggdrasil = 위그드라실
 LEVEL: 5
 GLOSSARY:
-  Creatures = 크리처스
   Hvergelmir = 흐베르겔미르
   Mímisbrunnr = 미미스브룬
   Nine Worlds = 아홉 세계
@@ -61,7 +60,6 @@ GLOSSARY:
   Rutgers University = 럿거스 대학교
   Slavic languages = 슬라브어파
   The Holocaust = 홀로코스트
-  Today = 「투데이」
   University = 대학
   West Germanic = 서게르만어
   Western Yiddish = 서부 이디시어
@@ -151,9 +149,7 @@ Group of physical, mental and spiritual practices that originated in ancient Ind
 HEADWORD: Yogurt = 요구르트
 LEVEL: 4
 GLOSSARY:
-  Bacteria = 세균
   Barcın Höyük = 바르근 회위크
-  Food = 음식
   Greek yogurt = 그릭 요구르트
   Lactic acid = 젖산
   Lactobacillus = 락토바실루스
@@ -324,7 +320,6 @@ GLOSSARY:
   Beiping = 북평
   China = 중국
   City = 도시
-  Construction = 건설
   East Africa = 동아프리카
   Encyclopedia = 백과사전
   Forbidden City = 자금성
@@ -339,7 +334,6 @@ GLOSSARY:
   Prince of Yan = 연왕
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Third = 교향곡 제3번
   Yongle Encyclopedia = 『영락대전』
   Zheng He = 정화
   Zhu Di = 주체
@@ -525,7 +519,6 @@ GLOSSARY:
   PayPal = 페이팔
   San Bruno = 샌브루노
   Steve Chen = 스티브 첸
-  Video = 비디오
   YouTube = 유튜브
   YouTube Premium = 유튜브 프리미엄
   vlogs = 브이로그
@@ -596,11 +589,9 @@ GLOSSARY:
   India = 인도
   Jean Charles Galissard de Marignac = 장 샤를 갈리사르 드 마리냐크
   Lanthanide = 란타넘족
-  Pure = 「퓨어」
   Stainless steel = 스테인리스강
   Swedish = 스웨덴어
   United States = 미국
-  Ytterbium = 이터븀
   Ytterby = 위테르뷔
   chemical element = 화학 원소
   dopant = 도펀트
@@ -622,7 +613,6 @@ GLOSSARY:
   Swedish = 스웨덴어
   Transition metal = 전이 금속
   Ytterby = 위테르뷔
-  Yttrium = 이트륨
   cathode ray tubes = 음극선관
   phosphors = 형광체
   rare-earth = 희토류
@@ -696,7 +686,6 @@ GLOSSARY:
   Cretaceous = 백악기
   Guatemala = 과테말라
   Gulf of Mexico = 멕시코만
-  Human = 인간
   Itzá = 이차족
   Limestone = 석회암
   Maya civilization = 마야 문명
@@ -716,7 +705,6 @@ LEVEL: 4
 GLOSSARY:
   Canada = 캐나다
   Central America = 중앙아메리카
-  Flower = 꽃
   Great Plains = 그레이트플레인스
   Joshua = 여호수아
   Joshua tree = 조슈아나무
@@ -724,10 +712,8 @@ GLOSSARY:
   North America = 북아메리카
   Panama = 파나마
   Plains = 대평원
-  Plant = 식물
   Pollination = 수분
   Rocky Mountains = 로키산맥
-  Species = 종
   agave subfamily = 용설란아과
   mutualism = 상리공생
   xerophytes = 건생 식물
@@ -739,7 +725,6 @@ Plant genus of the agave subfamily, native to North America from Panama to south
 HEADWORD: Yue Chinese = 월어
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Cantonese = 광둥어
   China = 중국
   Chinese language = 중국어
@@ -783,11 +768,9 @@ Series of ethnic conflicts and wars of independence in the former [[Yugoslavia]]
 HEADWORD: Yugoslavia = 유고슬라비아
 LEVEL: 4
 GLOSSARY:
-  Axis = 추축국
   Axis forces = 추축국 군대
   Axis powers = 추축국
   Balkans = 발칸반도
-  Bosnia = 보스니아
   Bosnia and Herzegovina = 보스니아 헤르체고비나
   Central Europe = 중부 유럽
   Croatia = 크로아티아

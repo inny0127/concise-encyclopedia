@@ -84,7 +84,6 @@ GLOSSARY:
   Moniliformis kalahariensis = Moniliformis kalahariensis
   Restaurant = 음식점
   Scavenger = 청소동물
-  Species = 종
   croton bug = 크로톤 벌레
   intermediate host = 중간 숙주
   pronotum = 앞가슴등판
@@ -221,7 +220,6 @@ Process by which East Germany joined the Federal Republic of Germany, from 1989 
 HEADWORD: Germanic languages = 게르만어파
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Burgundian = 부르군트어
   Crimean Gothic = 크림 고트어
   Danish = 덴마크어
@@ -230,7 +228,6 @@ GLOSSARY:
   Elfdalian = 엘브달렌어
   Europe = 유럽
   Faroese = 페로어
-  German = 독일어
   Germanic language = 게르만어
   Germanic languages = 게르만어파
   Germany = 독일
@@ -268,7 +265,6 @@ GLOSSARY:
   Germany = 독일
   Netherlands = 네덜란드
   Odin = 오딘
-  Ritual = 의례
   Romans = 로마인
   Scandinavia = 스칸디나비아
   Thor = 토르
@@ -309,7 +305,6 @@ GLOSSARY:
   Dmitri Mendeleev = 드미트리 멘델레예프
   Earth's crust = 지각
   Freiberg = 프라이베르크
-  Germanium = 저마늄
   Germany = 독일
   Light-emitting diode = 발광 다이오드
   Semiconductor = 반도체
@@ -471,7 +466,6 @@ GLOSSARY:
   Kurt Koffka = 쿠르트 코프카
   Max Wertheimer = 막스 베르트하이머
   Nazism = 나치즘
-  School = 학교
   United States = 미국
   Wilhelm = 빌헬름
   Wilhelm Wundt = 빌헬름 분트
@@ -553,9 +547,7 @@ GLOSSARY:
   Icelandic = 아이슬란드어
   Magma = 마그마
   Mars = 화성
-  Surface = 서피스
   Triton (moon) = 트리톤
-  Vapor = 증기
   cryogeysers = 얼음 간헐천
 ENTRY:
 [[Hot spring]] that intermittently ejects water and steam turbulently from a surface vent. Geysers are rare because they need heat, water and a plumbing system with the right geometry, conditions found mainly near active volcanic areas where [[Magma|magma]] lies close to the surface. Surface water seeps to an average depth of around 2,000 meters (6,600 ft), where it contacts hot rock. As the water boils, steam pressure forces a superheated column to the surface. Constrictions in the plumbing let pressure build, which distinguishes geysers from non-eruptive hot springs. Eruptions can change or cease through mineral deposition, earthquakes or human intervention. The name comes from Geysir, a geyser in [[Iceland]], meaning "Gusher" in Icelandic. Vapor jets on the moons [[Enceladus]] and [[Triton (moon)|Triton]], and on [[Mars]], are called cryogeysers, but show no evidence of the subsurface system that defines terrestrial geysers.
@@ -578,7 +570,6 @@ GLOSSARY:
   Najm-ud-daula = 나지무다울라
   Persian = 페르시아어
   Shah = 샤
-  Today = 「투데이」
   Urdu = 우르두어
   divan = 디완
 ENTRY:
@@ -640,7 +631,6 @@ Country in West Africa, officially the Republic of Ghana. It lies on the Gulf of
 HEADWORD: Gharial = 인도가비알
 LEVEL: 5
 GLOSSARY:
-  Adult = 성인
   Crocodile = 악어
   Gavialidae = 가비알과
   Indian subcontinent = 인도 아대륙
@@ -687,7 +677,6 @@ GLOSSARY:
   Leie = 레이에강
   Middle Ages = 중세
   Paris = 파리
-  Port = 항구
   Scheldt = 스헬더강
 ENTRY:
 Port and university city, capital of East Flanders province in [[Belgium]]. It is Belgium's third largest city after [[Brussels]] and [[Antwerp]], with 270,473 inhabitants at the end of 2024. The city grew at the confluence of the Scheldt and Leie rivers and became one of the largest and richest cities of northern Europe in the Late Middle Ages. By the 13th century it was the biggest city in Europe north of the Alps after [[Paris]]. After the late 16th century it became less important, which left an extremely well-preserved historic center. The ten-day Gentse Feesten festival draws about 1–1.5 million visitors each year.
@@ -742,14 +731,11 @@ GLOSSARY:
   Afterlife = 내세
   Alzheimer's disease = 알츠하이머병
   Animism = 애니미즘
-  Belief = 믿음
   Diphenhydramine = 디펜히드라민
-  Funeral = 장례
   Pew Research = 퓨 리서치 센터
   Pew Research Center = 퓨 리서치 센터
   Pseudoscience = 유사 과학
   Research = 연구
-  Soul = 영혼
   ancestor worship = 조상 숭배
   exorcisms = 퇴마 의식
   ghost hunting = 유령 사냥
@@ -883,10 +869,8 @@ LEVEL: 4
 GLOSSARY:
   Bible = 성경
   Claudine Cohen = 클로딘 코엔
-  Fairy = 요정
   Fionn mac Cumhaill = 핀 막 쿨
   Giant's Causeway = 자이언츠 코즈웨이
-  Giants = 기간테스
   Gigantes = 기간테스
   Greek mythology = 그리스 신화
   Hebrew = 히브리어
@@ -906,9 +890,7 @@ HEADWORD: Giant-impact hypothesis = 거대 충돌 가설
 LEVEL: 5
 GLOSSARY:
   Angular momentum = 각운동량
-  Canadian = 캐나다
   Earth = 지구
-  Hypothesis = 가설
   Iron = 철
   Moon = 달
   Reginald Daly = 레지널드 데일리
@@ -947,7 +929,6 @@ GLOSSARY:
   Jupiter = 목성
   Jupiter masses = 목성 질량
   Neptune = 해왕성
-  Planet = 행성
   Saturn = 토성
   Solar System = 태양계
   Uranus = 천왕성

@@ -46,7 +46,6 @@ GLOSSARY:
   Portugal = 포르투갈
   Spain = 스페인
   Tordesillas = 토르데시야스
-  Treaty = 조약
   UNESCO = 유네스코
   World = 세계
   bull = 교황 칙서
@@ -68,14 +67,12 @@ GLOSSARY:
   French = 프랑스어
   German = 독일어
   Germany = 독일
-  John = 존
   John Maynard Keynes = 존 메이너드 케인스
   Nazi = 나치
   Nazi Party = 나치당
   Palace = 궁전
   Palace of Versailles = 베르사유 궁전
   Party = 파티
-  Peace = 평화
   United States = 미국
   Versailles = 베르사유
   War Guilt = 전쟁 책임
@@ -98,7 +95,6 @@ GLOSSARY:
   Gunpowder = 화약
   Mediterranean = 지중해
   Mongols = 몽골족
-  Siege = 공성전
   Siege engine = 공성 병기
   Sling (weapon) = 투석구
   Stirling Castle = 스털링성
@@ -121,7 +117,6 @@ GLOSSARY:
   Perennial plant = 여러해살이 식물
   Photosynthesis = 광합성
   Shrub = 관목
-  Tree = 나무
   Tropical rainforest = 열대 우림
   Trunk (botany) = 줄기
   Vascular tissue = 관다발 조직
@@ -218,7 +213,6 @@ GLOSSARY:
   University = 대학
   University of Colorado = 콜로라도 대학교
   University of Colorado Boulder = 콜로라도 대학교 볼더
-  World = 세계
   marionettes = 마리오네트
 ENTRY:
 American animator, filmmaker, songwriter and actor. Parker studied film and Japanese at the University of Colorado Boulder, where he met his creative partner [[Matt Stone]]. Together they created the animated satire [[South Park|*South Park*]] and made its feature film *South Park: Bigger, Longer & Uncut* (1999). Parker's satirical action film *Team America: World Police* (2004) used marionettes. With Robert Lopez he cowrote the musical *The Book of Mormon*, which won four Tony Awards and a Grammy. Parker has received five Primetime Emmy Awards and a Peabody for *South Park*, and an Academy Award nomination for the song "Blame Canada."
@@ -300,7 +294,6 @@ HEADWORD: Triangle Shirtwaist Factory fire = 트라이앵글 셔트웨이스트 
 LEVEL: 5
 GLOSSARY:
   City = 도시
-  Fire = 불
   Greenwich = 그리니치
   Greenwich Village = 그리니치빌리지
   International Ladies' Garment Workers' Union = 국제 여성 의류 노동자 조합
@@ -441,7 +434,6 @@ GLOSSARY:
   Clan = 씨족
   Elman Service = 엘먼 서비스
   Ethnicity = 민족
-  Human = 인간
   Hunter-gatherer = 수렵채집인
   Kinship = 친족
   Morton Fried = 모턴 프리드
@@ -463,7 +455,6 @@ GLOSSARY:
   Cretaceous = 백악기
   Cretaceous–Paleogene extinction event = 백악기-팔레오기 대멸종
   Dinosaur = 공룡
-  Genus = 속
   Late Cretaceous = 후기 백악기
   North America = 북아메리카
   Paleogene = 팔레오기
@@ -513,7 +504,6 @@ GLOSSARY:
   Prague = 프라하
   Silk = 비단
   Silk Road = 실크로드
-  Today = 「투데이」
   Trieste = 트리에스테
   Vienna = 빈
   World = 세계
@@ -559,7 +549,6 @@ GLOSSARY:
   Almagest = 『알마게스트』
   Ancient Greek = 고대 그리스어
   Aryabhata = 아리아바타
-  Branch = 브랜치
   Geodesy = 측지학
   Hellenistic = 헬레니즘
   Hellenistic world = 헬레니즘 세계
@@ -655,7 +644,6 @@ GLOSSARY:
   God the Holy Spirit = 성령
   God the Son = 성자
   Holy Spirit = 성령
-  Jesus = 예수
   Jesus Christ = 예수 그리스도
   Nicaea = 니케아
   Nontrinitarian = 비삼위일체론
@@ -736,7 +724,6 @@ GLOSSARY:
   Oea = 오이아
   Oyat = 오야트
   Phoenicia = 페니키아
-  Phoenicians = 페니키아인
   Romans = 로마인
   Sabratha = 사브라타
   Tripoli = 트리폴리
@@ -757,7 +744,6 @@ GLOSSARY:
   British Raj = 영국령 인도
   India = 인도
   Mizoram = 미조람주
-  Once = 『Once』
   Primate = 영장류
   Tripura = 트리푸라주
   princely state = 번왕국
@@ -778,7 +764,6 @@ GLOSSARY:
   Miss Chennai = 미스 첸나이
   Mounam Pesiyadhe = 「모우남 페시야데」
   Nandi Award = 난디상
-  Queen = 퀸
   Queen of South India = 남인도의 여왕
   Saamy = 「사미」
   South India = 남인도
@@ -863,7 +848,6 @@ GLOSSARY:
   Hans von Bülow = 한스 폰 뷜로
   Mahler = 말러
   Munich = 뮌헨
-  Music = 음악
   Richard = 리처드
   Richard Strauss = 리하르트 슈트라우스
   Richard Wagner = 리하르트 바그너
@@ -889,7 +873,6 @@ GLOSSARY:
   Lithium = 리튬
   Nuclear fusion = 핵융합
   Rutherford = 러더퍼드
-  Tritium = 삼중수소
   beta emission = 베타 붕괴
   cosmic rays = 우주선
   fusion = 융해
@@ -908,7 +891,6 @@ GLOSSARY:
   Solar System = 태양계
   Voyager = 보이저
   Voyager 2 = 보이저 2호
-  William = 윌리엄
   William Lassell = 윌리엄 라셀
   carbon monoxide = 일산화 탄소
   dwarf planet = 왜행성
@@ -922,7 +904,6 @@ LEVEL: 4
 GLOSSARY:
   Early Eocene = 전기 에오세
   Eocene = 에오세
-  Family = 가족
   Fruit = 열매
   Insect = 곤충
   Owl = 올빼미
@@ -986,9 +967,7 @@ GLOSSARY:
   Bach = 바흐
   Baroque = 바로크
   Baroque period = 바로크 시대
-  Brass = 황동
   Brass instrument = 금관 악기
-  Claudio = 클라우디오
   Claudio Monteverdi = 클라우디오 몬테베르디
   Europe = 유럽
   George Frideric Handel = 게오르크 프리드리히 헨델
@@ -1011,7 +990,6 @@ GLOSSARY:
   Central America = 중앙아메리카
   Chile = 칠레
   Flowering plant = 속씨식물
-  Genus = 속
   Hybrid (biology) = 잡종
   Linnaeus = 린네
   Species = 종

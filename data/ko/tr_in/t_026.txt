@@ -4,7 +4,6 @@ LEVEL: 4
 GLOSSARY:
   ARM = ARM
   Andrew Donald Booth = 앤드루 도널드 부스
-  Assembly = 민회
   Assembly language = 어셈블리어
   Kathleen H.V. Britten = 캐슬린 H.V. 브리튼
   Kernel (operating system) = 커널
@@ -26,13 +25,11 @@ HEADWORD: Assembly line = 조립 라인
 LEVEL: 4
 GLOSSARY:
   Arsenal = 아스널
-  Assembly = 민회
   Ford = 포드
   Ford Model T = 포드 모델 T
   Henry Ford = 헨리 포드
   Highland Park = 하일랜드파크
   Industrial Revolution = 산업 혁명
-  Manufacturing = 제조업
   Model T = 모델 T
   Venetian = 베네치아
   Venetian Arsenal = 베네치아 아르세날레
@@ -106,12 +103,10 @@ Internationally the sport is governed by [[FIFA]], under which six continental c
 HEADWORD: Associative property = 결합 법칙
 LEVEL: 4
 GLOSSARY:
-  Addition = 덧셈
   Commutative property = 교환 법칙
   Exponentiation = 거듭제곱
   Function composition = 함수의 합성
   Matrix multiplication = 행렬 곱셈
-  Property = 재산
   Subtraction = 뺄셈
   binary operations = 이항 연산
   commutativity = 교환 법칙
@@ -132,7 +127,6 @@ LEVEL: 4
 GLOSSARY:
   Architecture = 건축
   Assur = 아수르
-  Assyria = 아시리아
   Assyrian heartland = 아시리아 본토
   Babylonia = 바빌로니아
   Babylonians = 바빌로니아인
@@ -184,7 +178,6 @@ LEVEL: 4
 GLOSSARY:
   Alpha particle = 알파 입자
   Ancient Greek = 고대 그리스어
-  Astatine = 아스타틴
   Bismuth = 비스무트
   California = 캘리포니아주
   Earth's crust = 지각
@@ -234,7 +227,6 @@ GLOSSARY:
   Didier Conrad = 디디에 콩라드
   Druid = 드루이드
   Franco-Belgian comic = 프랑스·벨기에 만화
-  French = 프랑스어
   Gaul = 갈리아
   Gaulish = 갈리아어
   Jean-Yves Ferri = 장이브 페리
@@ -287,7 +279,6 @@ GLOSSARY:
   Trojan = 트로이아인
   Trojan asteroids = 트로이군 소행성
   Vesta = 베스타
-  William = 윌리엄
   William Herschel = 윌리엄 허셜
   asteroid belt = 소행성대
   astronomical units = 천문단위
@@ -353,7 +344,6 @@ HEADWORD: Astigmatism = 난시
 LEVEL: 5
 GLOSSARY:
   Asia = 아시아
-  Astigmatism = 난시
   Europe = 유럽
   Glasses = 안경
   Thomas = 토머스
@@ -423,7 +413,6 @@ GLOSSARY:
   Right Livelihood Award = 바른생활상
   Ronia the Robber's Daughter = 『산적의 딸 로냐』
   Stockholm = 스톡홀름
-  Swedish = 스웨덴어
   animal welfare = 동물 복지
 ENTRY:
 Swedish writer of children's fiction and screenplays.
@@ -486,7 +475,6 @@ GLOSSARY:
   Astronomy = 천문학
   Enlightenment = 계몽주의
   Europe = 유럽
-  Forms = 이데아
   Greece = 그리스
   Islamic world = 이슬람 세계
   Mesopotamia = 메소포타미아
@@ -505,7 +493,6 @@ GLOSSARY:
   61 Cygni = 백조자리 61
   Astronomy = 천문학
   Binary star = 쌍성
-  Branch = 브랜치
   Charge-coupled device = 전하 결합 소자
   European Space Agency = 유럽 우주국
   Friedrich Bessel = 프리드리히 베셀
@@ -699,7 +686,6 @@ HEADWORD: Astrophysics = 천체 물리학
 LEVEL: 4
 GLOSSARY:
   Black hole = 블랙홀
-  Branch = 브랜치
   Cosmic microwave background = 우주 마이크로파 배경
   Dark energy = 암흑 에너지
   Dark matter = 암흑 물질
@@ -707,7 +693,6 @@ GLOSSARY:
   Electromagnetic spectrum = 전자기 스펙트럼
   Galaxy = 은하
   Gustav Kirchhoff = 구스타프 키르히호프
-  Research = 연구
   Robert Bunsen = 로베르트 분젠
   Sun = 태양
   cosmic microwave background = 우주 마이크로파 배경
@@ -743,7 +728,6 @@ HEADWORD: Asunción = 아순시온
 LEVEL: 4
 GLOSSARY:
   Buenos Aires = 부에노스아이레스
-  City = 도시
   Court = 법원
   Executive (government) = 행정부
   Mercosur = 메르코수르
@@ -767,7 +751,6 @@ GLOSSARY:
   Aswan Dam = 아스완 댐
   Aswan Governorate = 아스완주
   Aswan High Dam = 아스완 하이 댐
-  City = 도시
   Egypt = 이집트
   First Cataract = 제1폭포
   Granite = 화강암
@@ -821,12 +804,10 @@ HEADWORD: Atacama Desert = 아타카마 사막
 LEVEL: 4
 GLOSSARY:
   Andes = 안데스산맥
-  Average = 평균
   Chile = 칠레
   Chilean Coast Range = 칠레 해안 산맥
   Coast = 해안
   Copper = 구리
-  Desert = 사막
   Fog = 안개
   Humboldt Current = 훔볼트 해류
   Mars = 화성
@@ -940,7 +921,6 @@ GLOSSARY:
   Council of Nicaea = 니케아 공의회
   Eastern Orthodox = 동방 정교회
   Eastern Orthodox Church = 동방 정교회
-  Father = 아버지
   Father of Orthodoxy = 정통 신앙의 아버지
   First Council of Nicaea = 제1차 니케아 공의회
   Great Greek Church Fathers = 그리스 4대 교부
@@ -961,7 +941,6 @@ LEVEL: 3
 GLOSSARY:
   Age of Enlightenment = 계몽주의 시대
   Agnosticism = 불가지론
-  Atheism = 무신론
   Christianity = 기독교
   Classical antiquity = 고전 고대
   Enlightenment = 계몽주의
@@ -1020,7 +999,6 @@ GLOSSARY:
   Acropolis of Athens = 아테네의 아크로폴리스
   Athens = 아테네
   Attica = 아티카
-  City = 도시
   Classical Athens = 고전기 아테네
   Europe = 유럽
   Global city = 세계 도시

@@ -40,7 +40,6 @@ GLOSSARY:
   Reconstruction era = 재건 시대
   River = 강
   Robert E. Lee = 로버트 E. 리
-  Seven = 「세븐」
   Thirteenth Amendment = 수정 헌법 제13조
   Ulysses = 『율리시스』
   Ulysses S. Grant = 율리시스 S. 그랜트
@@ -136,7 +135,6 @@ GLOSSARY:
   Five Families = 5대 패밀리
   Gambino = 감비노
   Genovese = 제노베세
-  Italian-American = 이탈리아계 미국인
   Lucchese = 루케세
   New Orleans = 뉴올리언스
   New York City = 뉴욕
@@ -281,7 +279,6 @@ Unincorporated territory of the United States in [[Polynesia]], South Pacific (p
 HEADWORD: American alligator = 미시시피악어
 LEVEL: 5
 GLOSSARY:
-  Adult = 성인
   Alligator = 앨리게이터
   Alligator mississippiensis = Alligator mississippiensis
   Apex predator = 최상위 포식자
@@ -289,7 +286,6 @@ GLOSSARY:
   Endangered = 위기
   Endangered Species Act = 멸종 위기종 보호법
   Florida = 플로리다주
-  Hunting = 사냥
   IUCN = 국제 자연 보전 연맹
   Least Concern = 최소 관심
   Louisiana = 루이지애나주
@@ -315,7 +311,6 @@ GLOSSARY:
   European bison = 유럽들소
   Great Plains = 그레이트플레인스
   Gulf of Mexico = 멕시코만
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Mexico = 멕시코
   North America = 북아메리카
@@ -381,11 +376,9 @@ LEVEL: 4
 GLOSSARY:
   California = 캘리포니아주
   California Gold Rush = 캘리포니아 골드러시
-  Census = 인구 조사
   Cumberland = 컴벌랜드
   Cumberland Gap = 컴벌랜드갭
   Daniel Boone = 대니얼 분
-  Frederick = 프리드리히
   Frederick Jackson Turner = 프레더릭 잭슨 터너
   Gold = 금
   Jefferson = 제퍼슨
@@ -436,7 +429,6 @@ GLOSSARY:
   Cordillera = 코르디예라
   Decolonization = 탈식민지화
   Europe = 유럽
-  Following = 「미행」
   Indigenous = 원주민
   Mexico = 멕시코
   Mississippi = 미시시피
@@ -454,7 +446,6 @@ HEADWORD: Americium = 아메리슘
 LEVEL: 4
 GLOSSARY:
   Americas = 아메리카
-  Americium = 아메리슘
   Europium = 유로퓸
   Glenn T. Seaborg = 글렌 T. 시보그
   Laboratory = 실험실
@@ -513,7 +504,6 @@ GLOSSARY:
   Afroasiatic = 아프로아시아어족
   Afroasiatic languages = 아프로아시아어족
   Amhara people = 암하라족
-  Amharic = 암하라어
   Arabic = 아랍어
   Ethio-Semitic = 에티오피아 셈어파
   Ethiopia = 에티오피아
@@ -534,7 +524,6 @@ Ethio-Semitic language of the [[Afroasiatic languages|Afroasiatic]] family, spok
 HEADWORD: Amide = 아마이드
 LEVEL: 4
 GLOSSARY:
-  Amide = 아마이드
   Amino acid = 아미노산
   Carboxylic acid = 카르복실산
   Nylon = 나일론
@@ -560,7 +549,6 @@ GLOSSARY:
   Amiga 500 = 아미가 500
   AmigaOS = AmigaOS
   Commodore = 코모도어
-  Family = 가족
   Operating system = 운영 체제
   Personal computer = 개인용 컴퓨터
   Video game = 비디오 게임
@@ -650,7 +638,6 @@ GLOSSARY:
   Amish = 아미시
   Anabaptist = 재세례파
   Canada = 캐나다
-  Church = 처치
   Jakob Ammann = 야코프 암만
   Mennonites = 메노파
   Old Order = 구질서파
@@ -691,7 +678,6 @@ Indian actor, playback singer and film producer who works primarily in [[Hindi]]
 HEADWORD: Amitriptyline = 아미트립틸린
 LEVEL: 5
 GLOSSARY:
-  Food = 음식
   Food and Drug Administration = 식품의약국
   List of Essential Medicines = 필수 의약품 목록
   Major depressive disorder = 주요 우울 장애
@@ -743,7 +729,6 @@ GLOSSARY:
   Ammonia = 암모니아
   Fertilizer = 비료
   Haber process = 하버법
-  Household = 가구
   Urea = 요소
   diammonium phosphate = 인산 이암모늄
   metric tons = 미터톤
@@ -777,10 +762,8 @@ GLOSSARY:
   Fertilizer = 비료
   Haber process = 하버법
   Improvised explosive device = 급조 폭발물
-  Mining = 광업
   Nitric acid = 질산
   North America = 북아메리카
-  White = 흰색
   hygroscopic = 흡습성
   nitric acid = 질산
 ENTRY:
@@ -795,7 +778,6 @@ GLOSSARY:
   E517 = E517
   European Union = 유럽 연합
   Fertilizer = 비료
-  Food = 음식
   Food and Drug Administration = 식품의약국
   GRAS = GRAS
   Sulfuric acid = 황산
@@ -816,7 +798,6 @@ HEADWORD: Ammunition = 탄약
 LEVEL: 4
 GLOSSARY:
   Belgium = 벨기에
-  Black = 검은색
   Black powder = 흑색 화약
   Bomb = 폭탄
   France = 프랑스
@@ -837,7 +818,6 @@ Material fired, scattered, dropped or detonated from a weapon or weapon system, 
 HEADWORD: Amnesia = 기억 상실증
 LEVEL: 4
 GLOSSARY:
-  Amnesia = 기억 상실증
   Anterograde amnesia = 순행성 기억 상실증
   Brain injury = 뇌 손상
   Hippocampus = 해마
@@ -864,7 +844,6 @@ GLOSSARY:
   Dictyostelium discoideum = Dictyostelium discoideum
   Entamoeba = Entamoeba
   Entamoeba histolytica = 이질아메바
-  Naegleria = 네글레리아
   Naegleria fowleri = Naegleria fowleri
   Slime mold = 점균류
   Vacuole = 액포
@@ -895,7 +874,6 @@ GLOSSARY:
   Protista = 원생생물계
   Protozoa = 원생동물
   Society = 사회
-  Species = 종
   lobose = 엽상
   mitochondrial cristae = 미토콘드리아 크리스타
   monophyletic = 단계통

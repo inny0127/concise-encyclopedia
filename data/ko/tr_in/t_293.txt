@@ -8,7 +8,6 @@ GLOSSARY:
   Hunting = 사냥
   Life expectancy = 기대 수명
   Olympic Games = 올림픽
-  Running = 달리기
   Walking = 걷기
   aerial phase = 체공기
   persistence hunting = 지구력 사냥
@@ -64,7 +63,6 @@ HEADWORD: Rurikids = 류리크 왕조
 LEVEL: 4
 GLOSSARY:
   Daniilovichi = 다닐로비치 가문
-  Dynasty = 「다이너스티」
   Golden Horde = 킵차크 칸국
   House of Romanov = 로마노프 왕조
   Ivan III = 이반 3세
@@ -73,7 +71,6 @@ GLOSSARY:
   Novgorod = 노브고로드
   Romanov = 로마노프 왕조
   Rurik = 류리크
-  Rus' = 루스
   Varangian = 바랑기아인
 ENTRY:
 Dynasty that ruled [[Kievan Rus']] and its successor principalities. According to tradition, the Varangian prince Rurik founded it by establishing himself at Novgorod in 862, though modern scholars regard him as a legendary figure. After Kievan Rus' disintegrated, the house split into independent principalities. The Daniilovichi of [[Moscow]] unified the northern and northeastern territories, and by the 15th century Ivan III had thrown off the control of the [[Golden Horde]]. The Rurik line ruled until 1598, when it was succeeded by the [[House of Romanov]]. The dynasty held power for 21 generations in male-line succession, a period of more than 700 years. Numerous princely families have claimed descent from Rurik.
@@ -84,7 +81,6 @@ LEVEL: 5
 GLOSSARY:
   Alex = 알렉스
   Alex Lifeson = 알렉스 라이프슨
-  Canadian = 캐나다
   Geddy Lee = 게디 리
   Neil Peart = 닐 퍼트
   Rock and Roll Hall of Fame = 로큰롤 명예의 전당
@@ -165,7 +161,6 @@ GLOSSARY:
   Orthodox Christianity = 정교회
   Principality of Moscow = 모스크바 공국
   Revolution of 1917 = 1917년 혁명
-  Rus' = 루스
   Russia = 러시아
   Russian = 러시아어
   Russian Civil War = 러시아 내전
@@ -209,7 +204,6 @@ GLOSSARY:
   Airborne Forces = 공수군
   Corruption = 부패
   Ground Forces = 지상군
-  Military = 군대
   Navy = 해군
   Rocket = 로켓
   Russian = 러시아어
@@ -269,19 +263,15 @@ LEVEL: 4
 GLOSSARY:
   1905 Revolution = 1905년 혁명
   Alexander II = 알렉산드르 2세
-  Catherine = 예카테리나 1세
   Catherine the Great = 예카테리나 2세
   Crimean War = 크림 전쟁
   Duma = 두마
   Eurasia = 유라시아
   February Revolution = 2월 혁명
-  Following = 「미행」
-  Military = 군대
   Mongol = 몽골
   Mongol empires = 몽골 제국
   Moscow = 모스크바
   Nicholas II = 니콜라이 2세
-  Peter = 베드로
   Peter the Great = 표트르 대제
   Petersburg = 피터즈버그
   Revolution of 1917 = 1917년 혁명
@@ -301,8 +291,6 @@ Final phase of the Russian monarchy, spanning most of northern Eurasia from 1721
 HEADWORD: Russian Orthodox Church = 러시아 정교회
 LEVEL: 4
 GLOSSARY:
-  Autocephalous = 독립
-  Christianization = 기독교화
   Church = 처치
   Constantinople = 콘스탄티노폴리스
   Eastern Orthodox = 동방 정교회
@@ -319,9 +307,7 @@ GLOSSARY:
   Orthodox Church of Ukraine = 우크라이나 정교회
   Patriarch = 총대주교
   Patriarch of Moscow and all Rus' = 모스크바와 모든 루스의 총대주교
-  Peter = 베드로
   Peter the Great = 표트르 대제
-  Rus' = 루스
   Ukraine = 우크라이나
   Vladimir = 블라디미르
   Vladimir the Great = 블라디미르 1세
@@ -393,7 +379,6 @@ GLOSSARY:
   Belarusian = 벨라루스어
   Caucasus = 캅카스
   Central Asia = 중앙아시아
-  Church = 처치
   Church Slavonic = 교회 슬라브어
   Cyrillic = 키릴 문자
   Cyrillic script = 키릴 문자
@@ -418,7 +403,6 @@ GLOSSARY:
   Space = 공간
   Ukraine = 우크라이나
   Ukrainian = 우크라이나어
-  Vocabulary = 어휘
   calques = 번역 차용어
   de facto = 사실상
   fusional language = 굴절어
@@ -473,7 +457,6 @@ HEADWORD: Russo-Georgian War = 러시아-조지아 전쟁
 LEVEL: 5
 GLOSSARY:
   Abkhazia = 압하지야
-  French = 프랑스어
   Georgia = 조지아
   Georgia (country) = 조지아
   Nicolas Sarkozy = 니콜라 사르코지
@@ -617,10 +600,8 @@ GLOSSARY:
   Chloride = 염화 이온
   Corrosion = 부식
   Iron = 철
-  Mixture = 혼합물
   Oxygen = 산소
   Steel = 강철
-  Surface = 서피스
   iron oxides = 산화 철
 ENTRY:
 Mixture of iron oxides formed when [[Iron|iron]] reacts with [[Oxygen|oxygen]] in the presence of water or air moisture. It ranges in color from red-orange to reddish-brown. Its main compounds are iron(III) oxide (Fe₂O₃) and iron(III) oxide-hydroxide (FeO(OH)). Surface rust is flaky and friable and gives no protection to the iron beneath, unlike the stable oxide layers of [[Aluminium|aluminum]], copper, and tin. Rusting is the common term for [[Corrosion|corrosion]] of iron and its alloys such as [[Steel|steel]]. [[Chloride]] ions, as in saltwater, speed the process, and the brittle oxide reduces the strength of the object.
@@ -637,8 +618,6 @@ GLOSSARY:
   Gaspard Bauhin = 가스파르 보앵
   Germany = 독일
   North America = 북아메리카
-  Root = 뿌리
-  Rutabaga = 스웨덴순무
   Scotland = 스코틀랜드
   Sweden = 스웨덴
   World = 세계
@@ -706,9 +685,7 @@ GLOSSARY:
   Latin = 라틴어
   Ontario = 온타리오주
   Platinum = 백금
-  Rare = 「Rare」
   Russia = 러시아
-  Russian = 러시아어
   Ruthenia = 루테니아
   South Africa = 남아프리카 공화국
   South America = 남아메리카
@@ -828,7 +805,6 @@ GLOSSARY:
   Festival = 축제
   Film = 영화
   Hana = 「코」
-  Hell = 지옥
   Hell Screen = 「지옥변」
   Imperial University = 국자감
   Natsume Sōseki = 나쓰메 소세키
@@ -872,7 +848,6 @@ GLOSSARY:
   Academy Awards = 아카데미상
   Barbie = 「바비」
   Blue Valentine = 「블루 발렌타인」
-  Canadian = 캐나다
   Disney = 디즈니
   Disney Channel = 디즈니 채널
   Drive = 「드라이브」
@@ -938,7 +913,6 @@ GLOSSARY:
   County Dublin = 더블린주
   Dublin = 더블린
   Europe = 유럽
-  Irish = 아일랜드어
   Swords = 소즈
   Tony = 토니상
   Tony Ryan = 토니 라이언
@@ -953,7 +927,6 @@ LEVEL: 4
 GLOSSARY:
   Barley = 보리
   Bread = 빵
-  Cereal = 곡물
   Europe = 유럽
   Middle Ages = 중세
   Northern Europe = 북유럽

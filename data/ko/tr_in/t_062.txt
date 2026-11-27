@@ -29,7 +29,6 @@ GLOSSARY:
   Action film = 액션 영화
   Alain Delon = 알랭 들롱
   Army Air Forces = 미국 육군 항공대
-  Death = 죽음
   Death Wish = 「데스 위시」
   Escape = 「이스케이프」
   Europe = 유럽
@@ -66,11 +65,9 @@ LEVEL: 3
 GLOSSARY:
   Alfred = 앨프레드 대왕
   Alfred Russel Wallace = 앨프리드 러셀 월리스
-  Broad = 브로드강
   Charles Lyell = 찰스 라이엘
   Christ's College = 크라이스트 칼리지
   Coral = 산호
-  Darwin = 다윈
   Edinburgh = 에든버러
   Evolution = 진화
   Fertilisation = 수정
@@ -353,7 +350,6 @@ GLOSSARY:
   Alfred = 앨프레드 대왕
   Alfred Russel Wallace = 앨프리드 러셀 월리스
   Anthropocene = 인류세
-  Building = 건물
   Charles Darwin = 찰스 다윈
   Darwin = 다윈
   Earth = 지구
@@ -367,7 +363,6 @@ GLOSSARY:
   Pliocene = 플라이오세
   Principles of Geology = 『지질학 원리』
   Recent = 현세
-  Scottish = 스코틀랜드
   Tertiary = 제3기
   Tertiary period = 제3기
   Wallace = 월리스
@@ -455,7 +450,6 @@ GLOSSARY:
   Brothers Grimm = 그림 형제
   Cinderella = 「신데렐라」
   Fairy tale = 동화
-  French = 프랑스어
   German = 독일어
   Histoires ou contes du temps passé = 『옛날이야기 또는 콩트』
   Little Red Riding Hood = 「빨간 모자」
@@ -474,7 +468,6 @@ GLOSSARY:
   Conservative = 보수당
   Conservative Party (UK) = 보수당
   Damien Hirst = 데이미언 허스트
-  Labour = 노동당
   Labour Isn't Working = 노동당은 일하지 않는다
   Margaret Thatcher = 마거릿 대처
   Maurice = 모리스
@@ -534,7 +527,6 @@ GLOSSARY:
   Ottoman Empire = 오스만 제국
   Philip II of Spain = 펠리페 2세
   Roman Empire = 로마 제국
-  Rome = 로마
   Rome was sacked = 로마 약탈
   Spain = 스페인
   Spanish colonization of the Americas = 에스파냐의 아메리카 식민지화
@@ -650,7 +642,6 @@ GLOSSARY:
   Elk = 엘크강
   Kanawha = 커너와강
   Natural gas = 천연가스
-  Salt = 소금
   Virginia = 버지니아
   West Virginia = 웨스트버지니아주
 ENTRY:
@@ -773,7 +764,6 @@ GLOSSARY:
   Blonde = 『블론드』
   Denver = 덴버
   Denver and Delilah Productions = 덴버 앤드 딜라일라 프로덕션스
-  Fury = 「분노」
   Fury Road = 「분노의 도로」
   Mad Max = 「매드 맥스」
   Monster = 「몬스터」
@@ -909,7 +899,6 @@ GLOSSARY:
   Coleochaetales = 콜레오카이테목
   Devonian = 데본기
   Embryophyta = 유배식물
-  Fossil = 화석
   Green algae = 녹조류
   Paraphyletic = 측계통군
   Rhynie chert = 라이니 처트
@@ -931,7 +920,6 @@ Paraphyletic group of freshwater [[Green algae|green algae]]. Land plants (Embry
 HEADWORD: Chartreuse = 샤르트뢰즈
 LEVEL: 5
 GLOSSARY:
-  Color = 색
   French = 프랑스어
   Shrek = 「슈렉」
   Yellow = 노란색

@@ -3,7 +3,6 @@ HEADWORD: Basenji = 바센지
 LEVEL: 5
 GLOSSARY:
   American Kennel Club = 미국 켄넬 클럽
-  Breed = 품종
   Central Africa = 중앙아프리카
   Congo = 콩고
   Fédération Cynologique Internationale = 세계 애견 연맹
@@ -120,7 +119,6 @@ GLOSSARY:
   Bulgarian = 불가리아어
   Bulgarian Empire = 불가리아 제국
   Bulgarians = 불가리아인
-  Byzantine = 비잔티움
   Byzantine Empire = 비잔티움 제국
   Byzantine emperor = 비잔티움 황제
   Christianization = 기독교화
@@ -132,7 +130,6 @@ GLOSSARY:
   Kievan Rus' = 키예프 루스
   Kingdom of Georgia = 조지아 왕국
   Roman emperor = 로마 황제
-  Rus' = 루스
   Vladimir = 블라디미르
   Vladimir I of Kiev = 키예프의 블라디미르 1세
 ENTRY:
@@ -215,7 +212,6 @@ LEVEL: 5
 GLOSSARY:
   Cetorhinus maximus = Cetorhinus maximus
   Shark = 상어
-  Species = 종
   Whale = 고래
   Whale shark = 고래상어
   filter feeder = 여과 섭식 동물
@@ -266,7 +262,6 @@ GLOSSARY:
   Francisco Franco = 프란시스코 프랑코
   Indo-European = 인도유럽어족
   Indo-European languages = 인도유럽어족
-  Language = 언어
   Spanish Basque Country = 스페인 바스크 지방
   agglutinative = 교착어
   ergative-absolutive alignment = 능격-절대격 정렬
@@ -313,7 +308,6 @@ GLOSSARY:
   Ottoman = 오스만
   Persian = 페르시아어
   Persian Gulf = 페르시아만
-  Port = 항구
   Shatt al-Arab = 샤트알아랍강
   Shia = 시아파
   Sunni = 수니파
@@ -328,7 +322,6 @@ Port city in southern [[Iraq]], capital of Basra Governorate, on the Shatt al-Ar
 HEADWORD: Bass Strait = 배스 해협
 LEVEL: 4
 GLOSSARY:
-  Abel = 아벨
   Abel Tasman = 아벌 타스만
   Aboriginal = 애버리지니
   Aboriginal Tasmanians = 태즈메이니아 원주민
@@ -340,7 +333,6 @@ GLOSSARY:
   Plain = 평야
   Port = 항구
   Port Phillip Bay = 포트필립만
-  Strait = 해협
   Tasman Sea = 태즈먼해
   Tasmania = 태즈메이니아주
   Van Diemen's Land = 밴디먼스랜드
@@ -384,12 +376,9 @@ GLOSSARY:
   Buffet = 뷔페
   Chamber music = 실내악
   Double-reed = 겹리드
-  French = 프랑스어
-  German = 독일어
   Heckel = 헤켈
   Jazz = 재즈
   Orchestra = 관현악단
-  Sound = 소리
   Woodwind instrument = 목관 악기
   chamber music = 실내악
   concert band = 콘서트 밴드
@@ -447,7 +436,6 @@ GLOSSARY:
   Hygiene = 위생
   Islam = 이슬람교
   Judaism = 유대교
-  Ritual = 의례
   Rome = 로마
   Shang dynasty = 상나라
   gymnasiums = 김나시온
@@ -463,7 +451,6 @@ LEVEL: 4
 GLOSSARY:
   American English = 미국 영어
   Jack and Jill bathroom = 잭 앤드 질 욕실
-  Plumbing = 배관
   Shower = 샤워기
   Sink = 세면대
   Toilet = 변기
@@ -541,7 +528,6 @@ American superhero comedy television series that aired on ABC from January 12, 1
 HEADWORD: Batomorphi = 가오리상목
 LEVEL: 4
 GLOSSARY:
-  Batomorphi = 가오리상목
   Elasmobranchii = 판새아강
   Manta ray = 쥐가오리
   Plankton = 플랑크톤
@@ -568,7 +554,6 @@ GLOSSARY:
   Mississippi River = 미시시피강
   Mississippi River Delta = 미시시피강 삼각주
   Panamax = 파나맥스
-  Petrochemical = 석유 화학 제품
   Port = 항구
   Port of Greater Baton Rouge = 그레이터배턴루지항
   River = 강
@@ -585,7 +570,6 @@ GLOSSARY:
   Cannon = 대포
   Fortification = 요새
   Middle Ages = 중세
-  Siege = 공성전
   Siege engine = 공성 병기
   capped ram = 머리 씌운 파성추
 ENTRY:
@@ -612,7 +596,6 @@ LEVEL: 4
 GLOSSARY:
   Carl von Clausewitz = 카를 폰 클라우제비츠
   Clausewitz = 클라우제비츠
-  Combat = 『콩바』
   French = 프랑스어
   German = 독일어
   Old French = 고대 프랑스어
@@ -738,7 +721,6 @@ GLOSSARY:
   Hitler = 히틀러
   Lion = 사자
   Luftwaffe = 루프트바페
-  Military = 군대
   Nazi = 나치
   Nazi Germany = 나치 독일
   Operation Sea Lion = 바다사자 작전
@@ -786,7 +768,6 @@ GLOSSARY:
   France = 프랑스
   French = 프랑스어
   German = 독일어
-  Germany = 독일
   Luxembourg = 룩셈부르크
   Netherlands = 네덜란드
   North Sea = 북해

@@ -37,7 +37,6 @@ Between 2010 and 2018, battery demand grew by 30% annually, reaching 180 GWh in 
 HEADWORD: Electric chair = 전기의자
 LEVEL: 5
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred P. Southwick = 앨프리드 P. 사우스윅
   Buffalo = 버펄로
   Buffalo, New York = 버펄로
@@ -64,7 +63,6 @@ GLOSSARY:
   Electron = 전자
   Matter = 물질
   Michael Faraday = 마이클 패러데이
-  Physical = 「Physical」
   Proton = 양성자
   Robert Millikan = 로버트 밀리컨
   SI unit = SI 단위
@@ -109,7 +107,6 @@ GLOSSARY:
   Eel = 뱀장어
   Electric battery = 전지
   Electrophorus = 전기뱀장어속
-  Genus = 속
   Gymnotiformes = 전기뱀장어목
   South America = 남아메리카
   obligate air-breathers = 절대 공기 호흡 생물
@@ -126,7 +123,6 @@ GLOSSARY:
   Electric charge = 전하
   Electromagnetic field = 전자기장
   Michael Faraday = 마이클 패러데이
-  Physical = 「Physical」
   electromagnetic field = 전자기장
   field lines = 전기력선
   test charge = 시험 전하
@@ -164,9 +160,7 @@ HEADWORD: Electric guitar = 일렉트릭 기타
 LEVEL: 4
 GLOSSARY:
   Blues = 블루스
-  Guitar = 기타
   Heavy metal music = 헤비 메탈
-  Jazz = 재즈
   Loudspeaker = 스피커
   Pickups = 픽업
   Rock and roll = 로큰롤
@@ -190,18 +184,15 @@ HEADWORD: Electric light = 전등
 LEVEL: 4
 GLOSSARY:
   Edison = 에디슨
-  Energy = 에너지
   Humphry Davy = 험프리 데이비
   Incandescent light bulb = 백열전구
   Joseph Swan = 조지프 스완
   Light-emitting diode = 발광 다이오드
   Semiconductor = 반도체
   Swan = 고니
-  Thomas = 토머스
   Thomas Edison = 토머스 에디슨
   Tungsten = 텅스텐
   Vasily Petrov = 바실리 페트로프
-  William = 윌리엄
   William D. Coolidge = 윌리엄 D. 쿨리지
   arc light = 아크등
   band gap = 띠틈
@@ -217,7 +208,6 @@ HEADWORD: Electric motor = 전동기
 LEVEL: 3
 GLOSSARY:
   Lorentz force = 로런츠 힘
-  Machine = 기계
   Michael Faraday = 마이클 패러데이
   Moritz Hermann von Jacobi = 모리츠 헤르만 폰 야코비
   Nikola Tesla = 니콜라 테슬라
@@ -297,8 +287,6 @@ GLOSSARY:
   Alternating current = 교류
   Direct current = 직류
   Electrical grid = 전력망
-  Northeast = 북동부
-  Underground = 『언더그라운드』
   Voltage = 전압
   alternating current = 교류
   direct current = 직류
@@ -333,8 +321,6 @@ Order of flattened cartilaginous fishes with enlarged pectoral fins, able to pro
 HEADWORD: Electrical cable = 전기 케이블
 LEVEL: 4
 GLOSSARY:
-  Assembly = 민회
-  Copper = 구리
   Electric current = 전류
   Electromagnetic field = 전자기장
   Polyethylene = 폴리에틸렌
@@ -352,7 +338,6 @@ Assembly of one or more [[Wire|wires]], running side by side or bundled, that ca
 HEADWORD: Electrical connector = 전기 커넥터
 LEVEL: 4
 GLOSSARY:
-  Copper = 구리
   Corrosion = 부식
   Gold = 금
   Nickel = 니켈
@@ -373,7 +358,6 @@ GLOSSARY:
   Edison = 에디슨
   Edward Davy = 에드워드 데이비
   Electrical telegraphy = 전신
-  Engineering = 공학
   Georg Ohm = 게오르크 옴
   Gilbert = 길버트 제도
   Hans Christian Ørsted = 한스 크리스티안 외르스테드
@@ -382,16 +366,13 @@ GLOSSARY:
   James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
   Joseph Henry = 조지프 헨리
-  Machine = 기계
   Machine learning = 기계 학습
   Manhattan = 맨해튼
   Michael Faraday = 마이클 패러데이
   Ohm = 옴
   Technische Universität Darmstadt = 다름슈타트 공과대학교
-  Thomas = 토머스
   Thomas Edison = 토머스 에디슨
   Volta = 볼타강
-  William = 윌리엄
   William Gilbert = 윌리엄 길버트
   computer engineering = 컴퓨터 공학
   control engineering = 제어 공학
@@ -552,9 +533,7 @@ GLOSSARY:
   Gilbert = 길버트 제도
   Hans Christian Ørsted = 한스 크리스티안 외르스테드
   Industrial Revolution = 산업 혁명
-  James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
-  John = 존
   John Bardeen = 존 바딘
   Luigi = 루이지
   Luigi Galvani = 루이지 갈바니
@@ -564,12 +543,10 @@ GLOSSARY:
   Neo-Latin = 신라틴어
   Nikola Tesla = 니콜라 테슬라
   Ohm = 옴
-  People = 『피플』
   Pseudodoxia Epidemica = 『전염성 유견』
   Second = 초
   Second Industrial Revolution = 제2차 산업 혁명
   Tesla = 테슬라
-  Thales = 탈레스
   Thales of Miletus = 밀레토스의 탈레스
   Thomas = 토머스
   Thomas Edison = 토머스 에디슨
@@ -631,7 +608,6 @@ GLOSSARY:
   12-lead ECG = 12유도 심전도
   Arrhythmia = 부정맥
   Atrial fibrillation = 심방세동
-  Augustus = 아우구스투스
   Augustus Waller = 오거스터스 월러
   Heart = 심장
   Myocardial infarction = 심근 경색
@@ -656,7 +632,6 @@ HEADWORD: Electrochemistry = 전기화학
 LEVEL: 4
 GLOSSARY:
   Alessandro Volta = 알레산드로 볼타
-  Branch = 브랜치
   Electric battery = 전지
   Electrolysis = 전기 분해
   Electrolytic cells = 전해 전지
@@ -694,7 +669,6 @@ GLOSSARY:
   Oxygen = 산소
   Sodium hydroxide = 수산화 나트륨
   Volta = 볼타강
-  Water = 물
   William = 윌리엄
   William Nicholson = 윌리엄 니컬슨
   alkali and alkaline earth metals = 알칼리 금속과 알칼리 토금속
@@ -740,12 +714,10 @@ LEVEL: 4
 GLOSSARY:
   Classical electrodynamics = 고전 전기역학
   Electromagnetic radiation = 전자기 복사
-  James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
   Lorentz force = 로런츠 힘
   Maxwell's equations = 맥스웰 방정식
   Photoelectric effect = 광전 효과
-  Physical = 「Physical」
   Quantum electrodynamics = 양자 전기역학
   electrodynamics = 전기역학
   electromagnetic wave = 전자기파
@@ -765,7 +737,6 @@ GLOSSARY:
   Faraday's law of induction = 패러데이 전자기 유도 법칙
   Inductor = 인덕터
   Institution = 제도
-  James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
   Joseph Henry = 조지프 헨리
   Lenz's law = 렌츠의 법칙
@@ -782,10 +753,8 @@ Production of an electromotive force (emf) across an electrical conductor in a c
 HEADWORD: Electromagnetic radiation = 전자기 복사
 LEVEL: 3
 GLOSSARY:
-  Composite = 콤퍼지트
   Maxwell's equations = 맥스웰 방정식
   Quantum electrodynamics = 양자 전기역학
-  Wave = 파동
   Wave–particle duality = 파동-입자 이중성
   X-rays = 엑스선
   black-body radiation = 흑체 복사
@@ -879,7 +848,6 @@ HEADWORD: Electromotive force = 기전력
 LEVEL: 4
 GLOSSARY:
   Electromagnetic induction = 전자기 유도
-  Energy = 에너지
   Solar cell = 태양 전지
   Volt = 볼트
   electromagnetic induction = 전자기 유도
@@ -971,7 +939,6 @@ LEVEL: 4
 GLOSSARY:
   Electron = 전자
   Electron optics = 전자 광학
-  Microscope = 현미경
   Vacuum = 진공
   backscattered electrons = 후방 산란 전자
   electron microscopes = 전자 현미경

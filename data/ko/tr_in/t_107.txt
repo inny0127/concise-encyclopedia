@@ -111,7 +111,6 @@ GLOSSARY:
   Gabon = 가봉
   Guinea = 기니
   Obiang = 오비앙
-  Portugal = 포르투갈
   Río Muni = 리오무니
   Scramble for Africa = 아프리카 분할
   Spain = 스페인
@@ -152,7 +151,6 @@ LEVEL: 4
 GLOSSARY:
   American English = 미국 영어
   Cavalry = 기병
-  Chariot = 전차
   Chariot racing = 전차 경주
   Commonwealth = 영연방
   Commonwealth English = 영연방 영어
@@ -177,7 +175,6 @@ LEVEL: 4
 GLOSSARY:
   Eocene = 에오세
   Equus = 말속
-  Family = 가족
   Miocene = 마이오세
   North America = 북아메리카
   Perissodactyla = 기제목
@@ -223,7 +220,6 @@ LEVEL: 4
 GLOSSARY:
   Early Jurassic = 전기 쥐라기
   Equisetaceae = 속새과
-  Genus = 속
   Jurassic = 쥐라기
   Plants of the World Online = Plants of the World Online
   Spore = 포자
@@ -273,10 +269,8 @@ LEVEL: 4
 GLOSSARY:
   Albert Einstein = 알베르트 아인슈타인
   Einstein = 아인슈타인
-  Galileo = 갈릴레오
   Galileo Galilei = 갈릴레오 갈릴레이
   General relativity = 일반 상대성 이론
-  Hypothesis = 가설
   Isaac Newton = 아이작 뉴턴
   MICROSCOPE = MICROSCOPE
   Mass = 질량
@@ -301,7 +295,6 @@ GLOSSARY:
   An = 안
   Equality (mathematics) = 등식
   Integer = 정수
-  Symmetry = 대칭
   Triangle = 삼각형
   congruence = 합동
   congruence modulo = 합동
@@ -340,7 +333,6 @@ GLOSSARY:
   Catholic Reformation = 가톨릭 개혁
   Church = 처치
   Church Fathers = 교부
-  Dutch = 네덜란드어
   Erasmus = 에라스뮈스
   Erasmus of Rotterdam = 로테르담의 에라스뮈스
   Humanism = 인문주의
@@ -401,7 +393,6 @@ GLOSSARY:
   Assyria = 아시리아
   Citadel = 아르빌 성채
   Dynasty = 「다이너스티」
-  Erbil = 아르빌
   Iraq = 이라크
   Kurdistan = 쿠르디스탄
   Kurdistan Region = 쿠르디스탄 지역
@@ -490,7 +481,6 @@ LEVEL: 5
 GLOSSARY:
   Claviceps = 맥각균속
   Claviceps purpurea = 맥각균
-  Ergot = 맥각
   Fungus = 균류
   LSD = LSD
   Lysergic acid = 리세르그산
@@ -508,7 +498,6 @@ LEVEL: 5
 GLOSSARY:
   Elizabeth = 「엘리자베스」
   France = 프랑스
-  French = 프랑스어
   Leeds = 리즈
   Leeds United = 리즈 유나이티드
   Manchester = 맨체스터
@@ -594,7 +583,6 @@ GLOSSARY:
   Calluna = 칼루나속
   Cranberry = 크랜베리
   Erica = 에리카속
-  Family = 가족
   Flowering plant = 속씨식물
   Rhododendron = 진달래속
   Soil = 토양
@@ -733,7 +721,6 @@ GLOSSARY:
   Frontier Resource Group = 프런티어 리소스 그룹
   Frontier Services Group = 프런티어 서비스 그룹
   Nisour Square = 니수르 광장
-  Prince = 후작
   Square = 정사각형
   chief executive = 집정
   private equity = 사모 펀드
@@ -850,7 +837,6 @@ GLOSSARY:
   Civil War = 남북 전쟁
   Fiction = 픽션
   For Whom the Bell Tolls = 『누구를 위하여 종은 울리나』
-  Hemingway = 헤밍웨이
   Italian front = 이탈리아 전선
   Italian front (World War I) = 이탈리아 전선
   Literature = 문학

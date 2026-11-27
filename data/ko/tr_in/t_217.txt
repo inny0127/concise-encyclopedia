@@ -22,7 +22,6 @@ LEVEL: 4
 GLOSSARY:
   Airport = 공항
   Babura = 바부라강
-  City = 도시
   Deli = 델리강
   Deli Company = 델리 회사
   Deli Sultanate = 델리 술탄국
@@ -77,7 +76,6 @@ GLOSSARY:
   Bogotá = 보고타
   City = 도시
   Colombia = 콜롬비아
-  Construction = 건설
   Lee Kuan Yew = 리콴유
   Lee Kuan Yew World City Prize = 리콴유 세계 도시상
   Medellín = 메데인
@@ -110,7 +108,6 @@ GLOSSARY:
   Hamadan = 하마단
   Herodotus = 헤로도토스
   Iran = 이란
-  Iron = 철
   Iron Age = 철기 시대
   Lydia = 리디아
   Medes = 메디아인
@@ -149,7 +146,6 @@ LEVEL: 4
 GLOSSARY:
   2-quantile = 2-분위수
   Average = 평균
-  Median = 중앙값
   Probability distribution = 확률 분포
   mean = 평균
   robust statistics = 로버스트 통계학
@@ -197,7 +193,6 @@ GLOSSARY:
   Helsinki = 헬싱키
   Hippocratic = 히포크라테스 학파
   Hippocratic Oath = 히포크라테스 선서
-  Issues = 『이슈스』
   Nuremberg = 뉘른베르크
   Nuremberg Code = 뉘른베르크 강령
   Roe v. Wade = 로 대 웨이드 사건
@@ -235,7 +230,6 @@ LEVEL: 4
 GLOSSARY:
   Blood test = 혈액 검사
   Diabetes = 당뇨병
-  Laboratory = 실험실
   Physical examination = 신체 진찰
   Screening tests = 선별 검사
   X-ray = 엑스선
@@ -304,7 +298,6 @@ LEVEL: 4
 GLOSSARY:
   Atorvastatin = 아토르바스타틴
   Chemistry = 화학
-  Discipline = 「디시플린」
   Lithium = 리튬
   Organic chemistry = 유기 화학
   Organic compound = 유기 화합물
@@ -422,7 +415,6 @@ GLOSSARY:
   Latin West = 라틴 서방
   Medieval philosophy = 중세 철학
   Middle Ages = 중세
-  Philosophy = 철학
   Reason = 이성
   Renaissance = 르네상스
   Renaissance humanists = 르네상스 인문주의자
@@ -440,7 +432,6 @@ HEADWORD: Medina = 메디나
 LEVEL: 4
 GLOSSARY:
   Arabia = 아라비아
-  City = 도시
   Hashemites = 하심가
   Hijrah = 히즈라
   Islam = 이슬람교
@@ -451,7 +442,6 @@ GLOSSARY:
   Mosque = 모스크
   Muhammad = 무함마드
   Ottomans = 오스만 제국
-  Pilgrims = 필그림
   Prophet's Mosque = 예언자의 모스크
   Quba Mosque = 쿠바 모스크
   Saudi Arabia = 사우디아라비아
@@ -476,9 +466,7 @@ GLOSSARY:
   Jon Kabat-Zinn = 존 카밧진
   Judaism = 유대교
   Latin = 라틴어
-  Meditation = 명상
   Mindfulness-Based Stress Reduction = 마음챙김 기반 스트레스 감소(MBSR)
-  Research = 연구
   Taoism = 도교
   Upanishads = 우파니샤드
   active control groups = 능동 대조군
@@ -538,7 +526,6 @@ GLOSSARY:
   Strait = 해협
   Strait of Gibraltar = 지브롤터 해협
   Suez Canal = 수에즈 운하
-  Today = 「투데이」
   Zanclean flood = 잔클레절 대홍수
   eutrophication = 부영양화
   marginal seas = 연해
@@ -559,7 +546,6 @@ GLOSSARY:
   Allies = 연합국
   Axis = 추축국
   Balkans = 발칸반도
-  Combat = 『콩바』
   Eastern Front = 동부 전선
   Eastern Front (World War II) = 동부 전선
   El Alamein = 엘알라메인
@@ -615,14 +601,12 @@ GLOSSARY:
   Ceto = 케토
   Chrysaor = 크리사오르
   Euryale = 에우리알레
-  Female = 암컷
   Gorgoneion = 고르고네이온
   Gorgons = 고르곤
   Greek mythology = 그리스 신화
   Herodotus = 헤로도토스
   Hesiod = 헤시오도스
   Libya = 리비아
-  Medusa = 메두사
   Pegasus = 페가소스
   Perseus = 페르세우스
   Phorcys = 포르키스
@@ -657,7 +641,6 @@ GLOSSARY:
   Australasia = 오스트랄라시아
   Bat = 박쥐
   Eurasia = 유라시아
-  Family = 가족
   Oceania = 오세아니아
   Pteropodidae = 큰박쥐과
   Public health = 공중 보건
@@ -716,7 +699,6 @@ GLOSSARY:
   Alfred = 앨프레드 대왕
   Alfred Russel Wallace = 앨프리드 러셀 월리스
   Human = 인간
-  Megafauna = 거대 동물
   Pleistocene = 플라이스토세
   woody vegetation = 목본 식생
 ENTRY:
@@ -755,7 +737,6 @@ LEVEL: 5
 GLOSSARY:
   Cetacean = 고래류
   Great white shark = 백상아리
-  Once = 『Once』
   Otodontidae = 오토두스과
   Otodus megalodon = 오토두스 메갈로돈
   Sea turtle = 바다거북
@@ -831,7 +812,6 @@ GLOSSARY:
   India = 인도
   International Commission on Stratigraphy = 국제층서위원회
   Mawmluh Cave = 마움루 동굴
-  Meghalaya = 메갈라야주
   Meghalayan = 메갈라야절
   Northeast India = 인도 북동부
   Sanskrit = 산스크리트어
@@ -860,7 +840,6 @@ GLOSSARY:
   John Hunyadi = 후녀디 야노시
   Mehmed the Conqueror = 정복자 메흐메트
   Mosque = 모스크
-  Ottoman = 오스만
   Ottoman Empire = 오스만 제국
   Patriarchate of Constantinople = 콘스탄티노폴리스 총대주교구
   Rome = 로마
@@ -952,7 +931,6 @@ GLOSSARY:
   Nazi Party = 나치당
   Party = 파티
   Prison = 교도소
-  Rudolf = 루돌프
   Rudolf Hess = 루돌프 헤스
   World = 세계
   World War II = 제2차 세계 대전

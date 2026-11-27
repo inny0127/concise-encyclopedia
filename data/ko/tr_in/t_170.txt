@@ -134,7 +134,6 @@ GLOSSARY:
   Palestine = 팔레스타인
   Palestinian Arabs = 팔레스타인 아랍인
   Palestinians = 팔레스타인인
-  Peace = 평화
   Red Sea = 홍해
   Sinai = 시나이반도
   Six-Day War = 6일 전쟁
@@ -185,7 +184,6 @@ GLOSSARY:
   Over the Rainbow = 「오버 더 레인보」
   Rainbow = 무지개
   Reggae = 레게
-  Somewhere = 「썸웨어」
   The Voice = 「더 보이스」
   What a Wonderful World = 「왓 어 원더풀 월드」
   World = 세계
@@ -295,7 +293,6 @@ GLOSSARY:
   Latin = 라틴어
   Latin Empire = 라틴 제국
   Mehmed II = 메흐메트 2세
-  Neolithic = 신석기 시대
   North Anatolian Fault = 북아나톨리아 단층
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
@@ -379,7 +376,6 @@ GLOSSARY:
   Maine = 메인주
   Pennywise the Dancing Clown = 춤추는 광대 페니와이즈
   Popular culture = 대중문화
-  Seven = 「세븐」
   Stephen King = 스티븐 킹
   United States = 미국
 ENTRY:
@@ -671,7 +667,6 @@ GLOSSARY:
   Macedonia = 마케도니아
   Nicaea = 니케아
   Ohrid = 오흐리드
-  Rus' = 루스
   Rus' principalities = 루스 공국들
   Second = 초
   Second Bulgarian Empire = 제2차 불가리아 제국
@@ -740,12 +735,10 @@ GLOSSARY:
   Medicine = 의학
   Nobel Prize = 노벨상
   Nobel Prize in Physiology or Medicine = 노벨 생리학·의학상
-  Pavlov = 파블로프
   Petersburg = 피터즈버그
   Physiology = 생리학
   Physiology or Medicine = 생리학·의학
   Reflex = 반사
-  Russian = 러시아어
   Ryazan = 랴잔
   Saint = 성인
   Saint Petersburg = 상트페테르부르크
@@ -815,7 +808,6 @@ GLOSSARY:
   Physiology or Medicine = 생리학·의학
   Satoshi Ōmura = 오무라 사토시
   Scabies = 옴
-  William = 윌리엄
   William Campbell = 윌리엄 캠벨
   avermectin = 아버멕틴
   head lice = 머릿니
@@ -831,16 +823,13 @@ LEVEL: 4
 GLOSSARY:
   Dominoes = 도미노
   Edo period = 에도 시대
-  Elephant = 코끼리
   Harappan = 하라파
   Indus = 인더스강
   Indus Valley = 인더스강 유역
-  Ivory = 상아
   Japan = 일본
   Mammoth = 매머드
   Narwhal = 일각고래
   Sperm whale = 향유고래
-  Trade = 교역
   Walrus = 바다코끼리
   chemical structure = 화학 구조
   dentin = 상아질
@@ -942,7 +931,6 @@ GLOSSARY:
   Financial Stability Board = 금융안정위원회
   It = 『그것』
   Manhattan = 맨해튼
-  Morgan = 모건
   New York City = 뉴욕
   United States = 미국
   York = 요크
@@ -997,7 +985,6 @@ GLOSSARY:
   Nobel Prizes = 노벨상
   Physics = 물리학
   Rutherford = 러더퍼드
-  Seven = 「세븐」
   William = 윌리엄
   cathode rays = 음극선
   charge-to-mass ratio = 비전하

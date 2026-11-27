@@ -49,7 +49,6 @@ GLOSSARY:
   Benzodiazepine = 벤조디아제핀
   Cirrhosis = 간경변증
   Dementia = 치매
-  Genetics = 유전학
   Immune system = 면역계
   Pancreas = 이자
   Support group = 자조 모임
@@ -118,7 +117,6 @@ GLOSSARY:
   Central America = 중앙아메리카
   Europe = 유럽
   Frankia alni = 프랑키아 알니
-  Genus = 속
   Nitrogen = 질소
   North America = 북아메리카
   Photosynthesis = 광합성
@@ -218,7 +216,6 @@ GLOSSARY:
   Ealing comedies = 일링 코미디
   Elizabeth II = 엘리자베스 2세
   George Smiley = 조지 스마일리
-  Guinness = 기네스
   Kind Hearts and Coronets = 「친절한 마음과 화관」
   Lean = 린
   Obi-Wan Kenobi = 오비완 케노비
@@ -390,7 +387,6 @@ GLOSSARY:
   Amorites = 아모리인
   Cairo = 카이로
   Canal = 운하
-  City = 도시
   Constantinople = 콘스탄티노폴리스
   Mediterranean = 지중해
   Mesopotamia = 메소포타미아
@@ -425,7 +421,6 @@ GLOSSARY:
   University = 대학
   University of Pavia = 파비아 대학교
   Volt = 볼트
-  Volta = 볼타강
   electric potential = 전위
   experimental physics = 실험물리학
   voltaic pile = 볼타 전지
@@ -443,7 +438,6 @@ GLOSSARY:
   Bering Sea = 베링해
   Catherine = 예카테리나 1세
   Catherine Archipelago = 예카테리나 제도
-  Chain = 사슬
   Commander = 사령관
   Commander Islands = 코만도르스키예 제도
   Fire = 불
@@ -585,7 +579,6 @@ GLOSSARY:
   Prague = 프라하
   Prague Spring = 프라하의 봄
   Sakharov Prize = 사하로프상
-  Slovak = 슬로바키아어
   Velvet Revolution = 벨벳 혁명
   Václav Havel = 바츨라프 하벨
   Warsaw = 바르샤바
@@ -612,7 +605,6 @@ GLOSSARY:
   Penicillium = 페니실리움속
   Physiology = 생리학
   Physiology or Medicine = 생리학·의학
-  Scottish = 스코틀랜드
   World = 세계
   World War I = 제1차 세계 대전
   benzylpenicillin = 벤질페니실린
@@ -625,7 +617,6 @@ HEADWORD: Bell, Alexander Graham = 벨, 알렉산더 그레이엄
 LEVEL: 4
 GLOSSARY:
   American Telephone and Telegraph Company = 미국 전화 전신 회사
-  Bell = 종
   Heredity = 유전
   National Geographic = 내셔널 지오그래픽
   National Geographic Society = 내셔널 지오그래픽 협회
@@ -826,7 +817,6 @@ GLOSSARY:
   Novgorod = 노브고로드
   Orthodox = 정교회
   Orthodox Church = 정교회
-  Peter = 베드로
   Peter the Great = 표트르 대제
   Petersburg = 피터즈버그
   Prince = 후작
@@ -854,7 +844,6 @@ GLOSSARY:
   NHL = NHL
   National Hockey League = 내셔널 하키 리그
   Richard = 리처드
-  Russian = 러시아어
   Stanley = 스탠리
   Stanley Cup = 스탠리컵
   Washington = 워싱턴주
@@ -1015,7 +1004,6 @@ GLOSSARY:
   Ecuador = 에콰도르
   French = 프랑스어
   Geography = 지리학
-  German = 독일어
   Kosmos = 『코스모스』
   Orinoco = 오리노코강
   Polymath = 박식가

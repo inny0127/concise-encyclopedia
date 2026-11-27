@@ -5,7 +5,6 @@ GLOSSARY:
   Carcinogen = 발암 물질
   Charcoal = 숯
   Cooking = 요리
-  Grilling = 구이
   Maillard reaction = 마이야르 반응
   United States = 미국
   broiling = 브로일링
@@ -24,7 +23,6 @@ GLOSSARY:
   Children's and Household Tales = 『어린이와 가정을 위한 동화』
   Children's literature = 아동 문학
   Fairy tale = 동화
-  German = 독일어
   Hansel and Gretel = 「헨젤과 그레텔」
   Household = 가구
   Jacob = 야코프
@@ -44,7 +42,6 @@ LEVEL: 5
 GLOSSARY:
   Alaska = 알래스카주
   BP = BP(현재로부터 몇 년 전)
-  Brown = 브라운
   Brown bear = 불곰
   Eurasia = 유라시아
   North America = 북아메리카
@@ -158,12 +155,10 @@ GLOSSARY:
   Bangkok = 방콕
   California = 캘리포니아주
   Fertilizer = 비료
-  Groundwater = 지하수
   Landfill = 매립지
   Rock (geology) = 암석
   Soil = 토양
   United States = 미국
-  Water = 물
   land subsidence = 지반 침하
   primary source = 1차 사료
 ENTRY:
@@ -203,9 +198,7 @@ HEADWORD: Group = 족
 LEVEL: 5
 GLOSSARY:
   Chemistry = 화학
-  Column = 기둥
   Electron shell = 전자 껍질
-  Elements = 『원론』
   Periodic table = 주기율표
   Pure = 「퓨어」
   chalcogens = 칼코젠
@@ -257,13 +250,11 @@ HEADWORD: Group theory = 군론
 LEVEL: 4
 GLOSSARY:
   Abstract algebra = 추상대수학
-  Branch = 브랜치
   Chemistry = 화학
   Galois = 갈루아
   Hydrogen = 수소
   Materials science = 재료 과학
   Physics = 물리학
-  Symmetry = 대칭
   abstract algebra = 추상대수학
   algebraic structures = 대수 구조
   axioms = 공리
@@ -306,12 +297,10 @@ LEVEL: 4
 GLOSSARY:
   Conifer = 구과식물
   Galliformes = 닭목
-  Grouse = 뇌조
   Invertebrate = 무척추동물
   Northern Hemisphere = 북반구
   Phasianidae = 꿩과
   Tetraonini = 뇌조족
-  True = 『True』
   Tundra = 툰드라
   Turkey (bird) = 칠면조
   arctic tundra = 북극 툰드라
@@ -357,7 +346,6 @@ GLOSSARY:
   Grues = 두루미아목
   Gruiformes = 두루미목
   Rail (bird) = 뜸부기
-  Recent = 현세
   button-quails = 세가락메추라기
   crakes = 뜸부기류
   finfoots = 지느러미발
@@ -442,7 +430,6 @@ GLOSSARY:
   Saint Martin = 생마르탱
   Schengen = 솅겐
   Schengen Area = 솅겐 지역
-  Slavery = 노예제
   euro = 유로
 ENTRY:
 Overseas department and region of [[France|France]] (pop., 2024: 395,726) in the [[Lesser Antilles|Lesser Antilles]]. It consists of six inhabited islands, 30 uninhabited islets and three inhabited islets. The capital is Basse-Terre, on Basse-Terre Island; the most populous city is Les Abymes, and the main business center is Pointe-à-Pitre, both on Grande-Terre. As a constituent territory of the [[European Union|European Union]], it uses the euro, and EU citizens may settle and work there freely, but it is not part of the [[Schengen Area|Schengen Area]]. Saint Barthélemy and Saint Martin were detached in 2007 after a 2003 referendum. [[Christopher Columbus|Christopher Columbus]] visited in 1493. Guadeloupean Creole is the native language, while French is official and spoken by 84% of the population. Slavery was abolished in 1848. The economy depends on French subsidies, tourism and agriculture, mainly bananas and sugar.
@@ -453,7 +440,6 @@ LEVEL: 4
 GLOSSARY:
   Chamorro people = 차모로족
   Chamorros = 차모로족
-  Ferdinand = 페르디난트
   Ferdinand Magellan = 페르디난드 마젤란
   Guam = 괌
   Hagåtña = 하갓냐
@@ -462,7 +448,6 @@ GLOSSARY:
   Micronesia = 미크로네시아
   Spain = 스페인
   Spanish–American War = 미국-스페인 전쟁
-  Tourism = 관광
   U.S. military = 미군
   United Nations = 국제 연합
   United States = 미국
@@ -478,7 +463,6 @@ LEVEL: 4
 GLOSSARY:
   Argentina = 아르헨티나
   Chile = 칠레
-  Guanaco = 과나코
   Llama = 라마
   Quechua = 케추아어
   Red blood cell = 적혈구
@@ -554,7 +538,6 @@ GLOSSARY:
   Bat = 박쥐
   Chile = 칠레
   Extinction = 멸종
-  Guano = 구아노
   Gunpowder = 화약
   Phosphate = 인산염
   Potassium = 칼륨
@@ -647,7 +630,6 @@ GLOSSARY:
   Colombia = 콜롬비아
   Ecuador = 에콰도르
   Gran Colombia = 그란콜롬비아
-  Guayaquil = 과야킬
   Guayas Province = 과야스주
   Pacific = 태평양
   Quito = 키토
@@ -718,7 +700,6 @@ GLOSSARY:
   Germany = 독일
   Guernsey = 건지섬
   Hugo = 휴고상
-  Nazi = 나치
   Nazi Germany = 나치 독일
   Normandy = 노르망디
   Pound sterling = 파운드 스털링
@@ -734,7 +715,6 @@ Second-largest of the [[Channel Islands|Channel Islands]] (pop., 2023: 64,781), 
 HEADWORD: Marconi, Guglielmo = 마르코니, 굴리엘모
 LEVEL: 4
 GLOSSARY:
-  Building = 건물
   Cornwall = 콘월
   Electromagnetic radiation = 전자기 복사
   Ferdinand = 페르디난트

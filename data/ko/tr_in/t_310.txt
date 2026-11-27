@@ -4,7 +4,6 @@ LEVEL: 3
 GLOSSARY:
   Opera = 오페라
   Rapping = 랩
-  Singing = 노래
   Vocal folds = 성대
   baritone = 바리톤
   bass = 베이스
@@ -37,8 +36,6 @@ LEVEL: 5
 GLOSSARY:
   Album = 앨범
   ITunes = 아이튠즈
-  Music = 음악
-  Physical = 「Physical」
   Pop music = 팝 음악
   Rock and roll = 로큰롤
   iTunes Store = 아이튠즈 스토어
@@ -95,7 +92,6 @@ LEVEL: 5
 GLOSSARY:
   Carbonate = 탄산염
   Comet = 혜성
-  Human = 인간
   Karst = 카르스트
   Limestone = 석회암
   carbonate rocks = 탄산염암
@@ -155,7 +151,6 @@ GLOSSARY:
   Himalayas = 히말라야산맥
   Hmong = 몽족
   Indo-European = 인도유럽어족
-  Language = 언어
   Language family = 어족
   Plateau = 고원
   Sinitic = 중국어파
@@ -237,7 +232,6 @@ GLOSSARY:
   Očhéthi Šakówiŋ = 오체티 샤코윈
   Plains = 대평원
   Santee Dakota = 샌티 다코타족
-  Seven = 「세븐」
   Sioux = 수족
   South Dakota = 사우스다코타주
   Supreme Court = 연방 대법원
@@ -251,7 +245,6 @@ HEADWORD: Siouxsie and the Banshees = 수지 앤드 더 밴시스
 LEVEL: 5
 GLOSSARY:
   Joy Division = 조이 디비전
-  Kiss = 입맞춤
   Kiss Them for Me = 「Kiss Them for Me」
   London = 런던
   Radiohead = 라디오헤드
@@ -276,7 +269,6 @@ GLOSSARY:
   Alexandria = 알렉산드리아
   Atmospheric pressure = 기압
   Barometer = 기압계
-  Gravity = 중력
   Hero of Alexandria = 알렉산드리아의 헤론
   Reservoir = 저수지
   Vacuum = 진공
@@ -294,7 +286,6 @@ GLOSSARY:
   Mermaid = 인어
   Odysseus = 오디세우스
   Odyssey = 『오디세이아』
-  Sirens = 세이렌
 ENTRY:
 Humanlike female being in [[Greek mythology]] with an alluring voice. Sirens appear in [[Homer]]'s *Odyssey*, where [[Odysseus]] saves his crew from their song. By the 7th century BC they were regularly depicted as human-headed birds, and the male siren disappeared from art around the fifth century BC. Sirens were later often portrayed as [[Mermaid|mermaids]], a form that became iconic in the medieval period. In medieval Christian art they symbolized the dangerous temptation embodied by women. "Siren" is also slang for a woman considered both very attractive and dangerous.
 
@@ -409,7 +400,6 @@ GLOSSARY:
   Pope = 교황
   Pope Julius II = 교황 율리오 2세
   Pope Sixtus IV = 교황 식스토 4세
-  Renaissance = 르네상스
   Sandro Botticelli = 산드로 보티첼리
   The Last Judgment = 「최후의 심판」
   Vatican City = 바티칸 시국
@@ -469,7 +459,6 @@ GLOSSARY:
   Mughal = 무굴
   Mughal Empire = 무굴 제국
   Persian = 페르시아어
-  Ravi = 라비강
   Ravi Shankar = 라비 샹카르
   The Beatles = 비틀스
   The Rolling Stones = 롤링 스톤스
@@ -607,7 +596,6 @@ GLOSSARY:
   Norwegian Trench = 노르웨이 해구
   Oslo = 오슬로
   Skagen = 스카겐
-  Strait = 해협
   Sweden = 스웨덴
   World = 세계
   World Wars = 세계 대전
@@ -657,7 +645,6 @@ GLOSSARY:
   California = 캘리포니아주
   Los Angeles = 로스앤젤레스
   Polyurethane = 폴리우레탄
-  Skateboarding = 스케이트보드
   Summer Olympics = 하계 올림픽
   Surfing = 서핑
   Tokyo = 도쿄
@@ -699,7 +686,6 @@ GLOSSARY:
   Chitin = 키틴
   Human skeleton = 인체 골격
   Hydrostatic skeletons = 수력골격
-  Invertebrate = 무척추동물
   Sponge = 해면동물
   Vertebrate = 척추동물
   calcium carbonate = 탄산 칼슘
@@ -785,7 +771,6 @@ GLOSSARY:
   Nordic skiing = 노르딕 스키
   Scandinavia = 스칸디나비아
   Ski jumping = 스키 점프
-  Skiing = 스키
   Snow = 눈
   Winter = 겨울
   Winter Olympic Games = 동계 올림픽
@@ -812,12 +797,10 @@ Learned or innate ability to act with determined results and good execution, oft
 HEADWORD: Skin = 피부
 LEVEL: 3
 GLOSSARY:
-  Amphibian = 양서류
   Fur = 모피
   Integumentary system = 외피계
   Leather = 가죽
   Mammal = 포유류
-  Skin = 피부
   Vertebrate = 척추동물
   basal layer = 기저층
   beta-keratins = 베타케라틴

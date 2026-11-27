@@ -8,7 +8,6 @@ GLOSSARY:
   Organic compound = 유기 화합물
   Sulfuric acid = 황산
   Valerius Cordus = 발레리우스 코르두스
-  William = 윌리엄
   William T. G. Morton = 윌리엄 T. G. 모턴
   electrical cauterization = 전기 소작술
   ether = 에테르
@@ -61,7 +60,6 @@ GLOSSARY:
   Bernoulli equation = 베르누이 방정식
   Derivative = 도함수
   Dynamical system = 동역학계
-  Equation = 방정식
   Fourier = 푸리에
   Heat equation = 열 방정식
   Isaac = 이삭
@@ -80,9 +78,7 @@ Equation relating one or more unknown functions and their [[Derivative|derivativ
 HEADWORD: Differential geometry = 미분 기하학
 LEVEL: 4
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
-  Branch = 브랜치
   Earth = 지구
   Einstein = 아인슈타인
   Eratosthenes = 에라토스테네스
@@ -133,7 +129,6 @@ HEADWORD: Diffraction = 회절
 LEVEL: 4
 GLOSSARY:
   Augustin-Jean Fresnel = 오귀스탱장 프레넬
-  Diffraction = 회절
   Dominique-François-Jean Arago = 도미니크 프랑수아 장 아라고
   Francesco Maria Grimaldi = 프란체스코 마리아 그리말디
   Gravitational wave = 중력파
@@ -141,7 +136,6 @@ GLOSSARY:
   Light = 빛
   Poisson = 푸아송
   Siméon Denis Poisson = 시메옹 드니 푸아송
-  Thomas = 토머스
   Thomas Young = 토머스 영
   Thomas Young (scientist) = 토머스 영
   Wave = 파동
@@ -164,7 +158,6 @@ GLOSSARY:
   Fraunhofer = 프라운호퍼
   Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
-  James = 야고보
   James Gregory = 제임스 그레고리
   Joseph von Fraunhofer = 요제프 폰 프라운호퍼
   Prism (optics) = 프리즘
@@ -214,8 +207,6 @@ GLOSSARY:
   Small intestine = 소장
   Starch = 녹말
   Stomach = 위
-  Waste = 폐기물
-  Water = 물
   amino acids = 아미노산
   bile = 담즙
   bolus = 음식 덩이
@@ -278,7 +269,6 @@ GLOSSARY:
   Byte = 바이트
   Data science = 데이터 과학
   George Stibitz = 조지 스티비츠
-  Information = 정보
   Latin = 라틴어
   Machine learning = 기계 학습
   Sound = 소리
@@ -298,7 +288,6 @@ LEVEL: 4
 GLOSSARY:
   Charge-coupled device = 전하 결합 소자
   Photographic film = 사진 필름
-  Photography = 사진
   Russell Kirsch = 러셀 커시
   Smartphone = 스마트폰
   Social media = 소셜 미디어
@@ -358,7 +347,6 @@ Right of a person to be valued and respected for their own sake and to be treate
 HEADWORD: Dijkstra's algorithm = 데이크스트라 알고리즘
 LEVEL: 5
 GLOSSARY:
-  Algorithm = 알고리즘
   Artificial intelligence = 인공지능
   Data structure = 자료 구조
   Edsger W. Dijkstra = 에츠허르 W. 데이크스트라
@@ -405,7 +393,6 @@ LEVEL: 5
 GLOSSARY:
   Bank = 은행
   Brazil = 브라질
-  Impeachment = 탄핵
   Luiz Inácio Lula da Silva = 루이스 이나시우 룰라 다 시우바
   Michel Temer = 미셰우 테메르
   New Development Bank = 신개발은행
@@ -447,7 +434,6 @@ GLOSSARY:
   Maratha Mandir = 마라타 만디르
   Mumbai = 뭄바이
   Raj = 라지
-  Shah = 샤
   Shah Rukh = 샤 루흐
   Shah Rukh Khan = 샤룩 칸
   Simran = 심란
@@ -484,7 +470,6 @@ HEADWORD: Dimethyl sulfoxide = 디메틸 설폭사이드
 LEVEL: 5
 GLOSSARY:
   Analgesic = 진통제
-  Food = 음식
   Food and Drug Administration = 식품의약국
   Garlic = 마늘
   Solution (chemistry) = 용액
@@ -672,7 +657,6 @@ GLOSSARY:
   Electric current = 전류
   Ferdinand = 페르디난트
   Ferdinand Braun = 페르디난트 브라운
-  German = 독일어
   Light-emitting diode = 발광 다이오드
   Semiconductor = 반도체
   Silicon = 규소
@@ -755,7 +739,6 @@ GLOSSARY:
   Hilbert's = 힐베르트의
   Hilbert's tenth problem = 힐베르트의 열 번째 문제
   Integer = 정수
-  Polynomial = 다항식
   Polynomial equation = 다항 방정식
   Theorem = 정리
   Wiles = 와일스
@@ -795,8 +778,6 @@ GLOSSARY:
   Genus = 속
   Lepidoptera = 나비목
   Persimmon = 감나무
-  Pure = 「퓨어」
-  Species = 종
   Tannin = 타닌
   Tropics = 열대
   dioecious = 암수딴그루
@@ -828,7 +809,6 @@ GLOSSARY:
   Antibiotic = 항생제
   Asia = 아시아
   Corynebacterium diphtheriae = 디프테리아균
-  Death = 죽음
   Infection = 감염
   South Asia = 남아시아
   Sub-Saharan Africa = 사하라 이남 아프리카

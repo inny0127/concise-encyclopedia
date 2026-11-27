@@ -55,7 +55,6 @@ GLOSSARY:
   Porsche = 포르쉐
   Porsche Museum = 포르쉐 박물관
   River = 강
-  Stuttgart = 슈투트가르트
   War = 전쟁
   World = 세계
   World War II = 제2차 세계 대전
@@ -167,7 +166,6 @@ GLOSSARY:
   Higgs boson = 힉스 보손
   Neutron = 중성자
   Particle physics = 입자 물리학
-  Photons = 광자
   Proton = 양성자
   Standard = 스탠더드
   Standard Model = 표준 모형
@@ -270,8 +268,6 @@ LEVEL: 5
 GLOSSARY:
   Cold War = 냉전
   FN P90 = FN P90
-  Frontline = 「프론트라인」
-  John = 존
   John T. Thompson = 존 T. 톰프슨
   Machine gun = 기관총
   Personal defense weapons = 개인 방어 화기
@@ -293,10 +289,8 @@ GLOSSARY:
   Aircraft carrier = 항공모함
   Buoyancy = 부력
   China = 중국
-  Military = 군대
   Navy = 해군
   Russian = 러시아어
-  Submarine = 잠수함
   Typhoon = 태풍
   Typhoon class = 타이푼급
   War = 전쟁
@@ -332,7 +326,6 @@ Set whose elements are all members of another set. Written A ⊆ B, the relation
 HEADWORD: Subsidy = 보조금
 LEVEL: 4
 GLOSSARY:
-  Government = 정부
   OECD = 경제 협력 개발 기구
 ENTRY:
 Government expenditure that redistributes money from taxpayers to individuals, households, or businesses. Subsidies take forms such as direct cash grants, interest-free loans, tax breaks, price supports, and government provision of goods and services. Production subsidies, which offset producers' costs to expand output, are critically discussed for causing problems such as the cost of storing surplus goods, depressed world market prices, and overproduction. Consumption subsidies lower what buyers pay; some governments offer "lifeline" electricity rates, subsidizing the first increment of each month's use. Among [[OECD]] countries in 2020, subsidies and other transfers had a median value of 56.3 percent of total government expenses.
@@ -363,7 +356,6 @@ GLOSSARY:
   Isomers = 이성질체
   Joseph Proust = 조제프 프루스트
   Mixture = 혼합물
-  Pure = 「퓨어」
   Sugar = 설탕
   basic copper carbonate = 염기성 탄산 구리
   inorganic chemistry = 무기 화학
@@ -451,13 +443,11 @@ HEADWORD: Subtraction = 뺄셈
 LEVEL: 4
 GLOSSARY:
   Addition = 덧셈
-  Arithmetic = 산술
   Fraction = 분수
   Irrational number = 무리수
   Latin = 라틴어
   Natural number = 자연수
   Negative number = 음수
-  Subtraction = 뺄셈
   anti-commutative = 반교환적
   associative = 결합적
   computability theory = 계산 가능성 이론
@@ -502,7 +492,6 @@ GLOSSARY:
   Mongol Empire = 몽골 제국
   Mongolian = 몽골어
   Poland = 폴란드
-  Rus' = 루스
   Rus' principalities = 루스 공국들
   Ögedei = 오고타이
   Ögedei Khan = 오고타이 칸
@@ -514,7 +503,6 @@ HEADWORD: Succubus = 서큐버스
 LEVEL: 5
 GLOSSARY:
   Demon = 악마
-  Female = 암컷
   Hammer = 망치
   Incubus = 인큐버스
   Malleus Maleficarum = 『마녀의 망치』
@@ -531,7 +519,6 @@ Female [[Demon|demon]] in European folklore who appears in men's dreams to seduc
 HEADWORD: Sucrose = 수크로스
 LEVEL: 5
 GLOSSARY:
-  Digestion = 소화
   Disaccharide = 이당류
   Sugar = 설탕
   Sugar beet = 사탕무
@@ -658,11 +645,9 @@ GLOSSARY:
   Happiness = 행복
   Hellenistic = 헬레니즘
   Hellenistic philosophy = 헬레니즘 철학
-  Neuroscience = 신경과학
   Pain = 통증
   Pleasure = 쾌락
   Pyrrhonists = 피론주의자
-  Suffering = 고통
   anterior cingulate cortex = 전대상 피질
   insula = 섬엽
 ENTRY:
@@ -678,7 +663,6 @@ GLOSSARY:
   Democracy = 민주주의
   Great Britain = 그레이트브리튼섬
   New Zealand = 뉴질랜드
-  Suffrage = 참정권
   Switzerland = 스위스
   United Kingdom = 영국
   United States = 미국
@@ -741,11 +725,9 @@ GLOSSARY:
   Beetroot = 비트
   Beta vulgaris = Beta vulgaris
   Franz Karl Achard = 프란츠 카를 아샤르
-  Frederick = 프리드리히
   Frederick the Great = 프리드리히 대왕
   Germany = 독일
   Kunern = 쿠네른
-  Plant = 식물
   Plant breeding = 품종 개량
   Prussia = 프로이센
   Russia = 러시아
@@ -775,10 +757,8 @@ GLOSSARY:
   Cuba = 쿠바
   Cunern = 쿠네른
   Europe = 유럽
-  Honey = 꿀
   Indian subcontinent = 인도 아대륙
   Jamaica = 자메이카
-  Lactose = 젖당
   Latin = 라틴어
   Madeira = 마데이라
   Medieval Latin = 중세 라틴어
@@ -792,7 +772,6 @@ GLOSSARY:
   Sugar = 설탕
   Sugar beet = 사탕무
   Sugarcane = 사탕수수
-  White = 흰색
   World = 세계
   World Health Organization = 세계 보건 기구
   disaccharides = 이당류
@@ -891,10 +870,8 @@ GLOSSARY:
   East Timor = 동티모르
   Food = 음식
   Food and Agriculture Organization = 국제 연합 식량 농업 기구
-  Indonesian = 인도네시아어
   Inflation = 인플레이션
   New Order = 신질서
-  Suharto = 수하르토
   Timor = 티모르섬
   United Nations = 국제 연합
   War = 전쟁
@@ -942,10 +919,7 @@ GLOSSARY:
   Japan = 일본
   Mental disorder = 정신 질환
   North America = 북아메리카
-  People = 『피플』
   Psychotherapy = 심리 치료
-  Suicide = 자살
-  Views = 『뷰스』
   cognitive behavioral therapy = 인지 행동 치료
   dialectical behavior therapy = 변증법적 행동 치료
   meaning of life = 삶의 의미

@@ -23,7 +23,6 @@ GLOSSARY:
   Dew point = 이슬점
   Evaporation = 증발
   Fog = 안개
-  Humidity = 습도
   Precipitation = 강수
   Relative humidity = 상대 습도
   Specific humidity = 비습
@@ -42,7 +41,6 @@ LEVEL: 4
 GLOSSARY:
   Alaska = 알래스카주
   Americas = 아메리카
-  Family = 가족
   Insect = 곤충
   Mexico = 멕시코
   South America = 남아메리카
@@ -66,7 +64,6 @@ GLOSSARY:
   Chickpea = 병아리콩
   Ibn al-Adim = 이븐 알아딤
   Levant = 레반트
-  Levantine = 레반트
   Syria = 시리아
   pita bread = 피타
   tahini = 타히니
@@ -104,7 +101,6 @@ GLOSSARY:
   India = 인도
   Latin = 라틴어
   Natya Shastra = 『나티야샤스트라』
-  People = 『피플』
   Peter = 베드로
   Peter McGraw = 피터 맥그로
   Philebus = 『필레보스』
@@ -137,7 +133,6 @@ GLOSSARY:
   Baleen whale = 수염고래
   Krill = 크릴
   Megaptera = 혹등고래속
-  Numbers = 「민수기」
   Orca = 범고래
   Whaling = 포경
   breaching = 브리칭
@@ -482,7 +477,6 @@ GLOSSARY:
   Neolithic Revolution = 신석기 혁명
   San = 산족
   Sentinelese = 센티널족
-  Today = 「투데이」
 ENTRY:
 Person living in a community that obtains most or all of its food from wild plants and animals. Foraging and hunting were common among most prehistoric societies, before agriculture arose in the [[Neolithic]] period. Groups usually numbered a few dozen people and were fully or semi-nomadic. The practice began with *Homo erectus* about 1.8 million years ago and occupied at least 90 percent of human history. Societies were generally egalitarian, emphasizing sharing and resisting hierarchy, and men and women often both hunted and gathered. After the [[Neolithic Revolution]], more productive farming and herding communities displaced most foragers. Today a few groups, including the San and the [[Sentinelese]], continue aspects of this lifestyle.
 
@@ -492,12 +486,9 @@ LEVEL: 3
 GLOSSARY:
   Animal rights = 동물권
   Early Pleistocene = 전기 플라이스토세
-  Fishing = 어업
   Fur = 모피
   Homo = 사람속
   Homo erectus = 호모 에렉투스
-  Human = 인간
-  Hunting = 사냥
   Invasive species = 침입종
   Old English = 고대 영어
   Pleistocene = 플라이스토세
@@ -527,7 +518,6 @@ LEVEL: 5
 GLOSSARY:
   Basal ganglia = 기저핵
   CAG repeats = CAG 반복
-  Death = 죽음
   chorea = 무도증
   huntingtin = 헌팅틴
   neurodegenerative disorder = 신경 퇴행성 질환
@@ -541,7 +531,6 @@ LEVEL: 5
 GLOSSARY:
   Brown recluse spider = 갈색은둔거미
   Carparachne aureoflava = Carparachne aureoflava
-  Family = 가족
   Heteropoda maxima = Heteropoda maxima
   Laos = 라오스
   Namib = 나미브 사막
@@ -591,11 +580,9 @@ Track and field discipline of racing over obstacles called hurdles, a form of [[
 HEADWORD: Hurricane Katrina = 허리케인 카트리나
 LEVEL: 5
 GLOSSARY:
-  Brown = 브라운
   Category 5 = 5등급
   Emergency = 비상사태
   Federal Emergency Management Agency = 연방재난관리청
-  Katrina = 카트리나
   Levee = 제방
   Management = 경영학
   Michael D. Brown = 마이클 D. 브라운
@@ -632,7 +619,6 @@ GLOSSARY:
   Muslims = 무슬림
   Prophet = 예언자
   Prophet Muhammad = 예언자 무함마드
-  Second = 초
   Shia = 시아파
   Shia Islam = 시아파
   Shia Muslims = 시아파 무슬림
@@ -794,7 +780,6 @@ GLOSSARY:
   Kalhora dynasty = 칼호라 왕조
   Karachi = 카라치
   Khudabad = 쿠다바드
-  Lion = 사자
   Lion City = 사자의 도시
   M-9 motorway = M-9 고속도로
   Mian Ghulam Shah Kalhoro = 미안 굴람 샤 칼호로
@@ -826,8 +811,6 @@ GLOSSARY:
   Alkane = 알칸
   Alkene = 알켄
   Alkyne = 알킨
-  Combustion = 연소
-  Hydrocarbons = 탄화수소
   Methane = 메탄
   Organic compound = 유기 화합물
   Petroleum = 석유
@@ -886,13 +869,8 @@ Semi-synthetic [[Opioid|opioid]] used to treat pain and as a cough suppressant. 
 HEADWORD: Hydroelectricity = 수력 발전
 LEVEL: 4
 GLOSSARY:
-  China = 중국
-  Construction = 건설
   Dam = 댐
-  Electricity = 전기
   Greenhouse gas = 온실가스
-  Hydropower = 수력 발전
-  Once = 『Once』
   Reservoir = 저수지
   fossil fuel = 화석 연료
   greenhouse gas = 온실가스

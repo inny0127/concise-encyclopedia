@@ -42,7 +42,6 @@ GLOSSARY:
   Academy Awards = 아카데미상
   Bernie = 「버니」
   Bernie Taupin = 버니 토핀
-  Candle = 양초
   Candle in the Wind 1997 = 「캔들 인 더 윈드 1997」
   Diana, Princess of Wales = 다이애나 왕세자비
   Elton John = 엘턴 존
@@ -89,7 +88,6 @@ GLOSSARY:
   ARPANET = 아르파넷
   ASCII = 아스키
   Computer network = 컴퓨터 네트워크
-  Email = 이메일
   Internet = 인터넷
   MIME = MIME
   Malware = 악성 소프트웨어
@@ -135,11 +133,9 @@ LEVEL: 4
 GLOSSARY:
   China = 중국
   Egypt = 이집트
-  Embroidery = 자수
   Pearl = 진주
   Sewing = 바느질
   Thread (textiles) = 실
-  Today = 「투데이」
   Warring States = 전국 시대
   Warring States period = 전국 시대
   Yarn = 실
@@ -160,7 +156,6 @@ GLOSSARY:
   Mammal = 포유류
   Nervous system = 신경계
   Organism = 생물
-  Plant = 식물
   Seed = 씨앗
   Sperm = 정자
   blastocyst = 배반포
@@ -180,9 +175,7 @@ GLOSSARY:
   Chromium = 크로뮴
   Colombia = 콜롬비아
   Diamond = 다이아몬드
-  Emerald = 에메랄드
   Gemstone = 보석
-  Green = 초록색
   Mohs scale = 모스 굳기계
   Sapphire = 사파이어
   Zambia = 잠비아
@@ -222,7 +215,6 @@ Medical treatment facility, usually within a [[Hospital|hospital]], specializing
 HEADWORD: Emergency management = 재난 관리
 LEVEL: 4
 GLOSSARY:
-  Emergency = 비상사태
   Flood = 홍수
   Hypothermia = 저체온증
   Non-governmental organization = 비정부 기구
@@ -281,7 +273,6 @@ GLOSSARY:
   Edison = 에디슨
   Helicopter = 헬리콥터
   Microphone = 마이크로폰
-  Navy = 해군
   Thomas Edison = 토머스 에디슨
   U.S. Navy = 미국 해군
   United States = 미국
@@ -382,7 +373,6 @@ LEVEL: 4
 GLOSSARY:
   Gilbert = 길버트 제도
   Huntington = 헌팅턴
-  Johnson = 존슨
   Lavinia = 러비니아
   Mabel Loomis Todd = 메이블 루미스 토드
   Massachusetts = 매사추세츠주
@@ -413,7 +403,6 @@ HEADWORD: Emir Abdelkader = 아미르 압델카데르
 LEVEL: 4
 GLOSSARY:
   Algiers = 알제
-  Book = 책
   Book of Halts = 『머무름의 책』
   Bursa = 부르사
   Damascus = 다마스쿠스
@@ -439,7 +428,6 @@ GLOSSARY:
   Boeing 777 = 보잉 777
   Dubai = 두바이
   Dubai International Airport = 두바이 국제공항
-  Flag = 깃발
   Flag carrier = 국책 항공사
   Middle East = 중동
   United Arab Emirates = 아랍에미리트
@@ -612,14 +600,12 @@ American football running back. He played 15 seasons in the [[National Football 
 HEADWORD: Noether, Emmy = 뇌터, 에미
 LEVEL: 4
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Bryn Mawr College = 브린마 칼리지
   David Hilbert = 다비트 힐베르트
   Einstein = 아인슈타인
   Erlangen = 에를랑겐
   Felix Klein = 펠릭스 클라인
-  German = 독일어
   Göttingen = 괴팅겐
   Hilbert = 힐베르트
   Jews = 유대인
@@ -648,7 +634,6 @@ HEADWORD: Emo = 이모
 LEVEL: 5
 GLOSSARY:
   Fall Out Boy = 폴 아웃 보이
-  Genre = 장르
   My Chemical Romance = 마이 케미컬 로맨스
   Romance = 로망스어
   Self-harm = 자해
@@ -692,7 +677,6 @@ GLOSSARY:
   Hume = 흄
   James = 야고보
   James-Lange theory = 제임스-랑게 이론
-  Paul = 바울로
   Paul Ekman = 폴 에크먼
   Peggy = 페기
   Peggy Thoits = 페기 소이츠
@@ -701,7 +685,6 @@ GLOSSARY:
   Richard Lazarus = 리처드 라자루스
   Schachter-Singer two-factor theory = 샥터-싱어 2요인 이론
   Tusculanae Disputationes = 『투스쿨룸 대화』
-  William = 윌리엄
   William James = 윌리엄 제임스
   alexithymia = 감정표현불능증
   appraisal = 평가
@@ -732,9 +715,7 @@ HEADWORD: Empathy = 공감
 LEVEL: 4
 GLOSSARY:
   Ancient Greek = 고대 그리스어
-  Empathy = 공감
   Neuroscience = 신경과학
-  Research = 연구
   affective = 정서적
   cognitive = 인지적
   empatheia = 엠파테이아
@@ -785,7 +766,6 @@ GLOSSARY:
   Meiji Constitution = 메이지 헌법
   Meiji Restoration = 메이지 유신
   Meiji era = 메이지 시대
-  Military = 군대
   Mutsuhito = 무쓰히토
   Personal name = 인명
   Restoration = 왕정복고
@@ -820,7 +800,6 @@ GLOSSARY:
   Personal name = 인명
   Reign of Zhenguan = 정관의 치
   Russia = 러시아
-  Second = 초
   Sui dynasty = 수나라
   Tang = 당나라
   Tang dynasty = 당나라

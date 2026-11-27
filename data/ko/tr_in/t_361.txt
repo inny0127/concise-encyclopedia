@@ -62,7 +62,6 @@ GLOSSARY:
   Ottoman = 오스만
   Ottoman Empire = 오스만 제국
   Romania = 루마니아
-  Romanians = 루마니아인
   Southern Carpathians = 남카르파티아산맥
   Transylvania = 트란실바니아
   United Principalities = 연합 공국
@@ -175,7 +174,6 @@ GLOSSARY:
   Seed = 씨앗
   Wales = 웨일스
   Wallachia = 왈라키아
-  Walnuts = 호두
   aflatoxin = 아플라톡신
   cultivars = 재배 품종
   juglone = 주글론
@@ -188,7 +186,6 @@ Edible [[Seed|seed]] of any tree of the genus *Juglans*, most often the Persian 
 HEADWORD: Walrus = 바다코끼리
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Arctic = 북극
   Arctic Ocean = 북극해
   Continental shelf = 대륙붕
@@ -220,7 +217,6 @@ GLOSSARY:
   Disney = 디즈니
   Disney Experiences = 디즈니 익스피리언스
   Disneyland = 디즈니랜드
-  Entertainment = 오락
   Orlando, Florida = 올랜도
   The Walt Disney Company = 월트 디즈니 컴퍼니
   Walt Disney = 월트 디즈니
@@ -358,7 +354,6 @@ HEADWORD: Lippmann, Walter = 리프먼, 월터
 LEVEL: 4
 GLOSSARY:
   Cold War = 냉전
-  Father = 아버지
   James = 야고보
   James W. Carey = 제임스 W. 캐리
   John = 존
@@ -370,7 +365,6 @@ GLOSSARY:
   Public Opinion = 『여론』
   Pulitzer Prize = 퓰리처상
   Stereotype = 고정관념
-  Today = 「투데이」
   Today and Tomorrow = 「오늘과 내일」
   Woodrow Wilson = 우드로 윌슨
   World = 세계
@@ -445,7 +439,6 @@ GLOSSARY:
   Polio = 소아마비
   Romanticism = 낭만주의
   Scotland = 스코틀랜드
-  Scottish = 스코틀랜드
   The Lady of the Lake = 『호수의 여인』
   Waverley novels = 웨이벌리 소설
   advocate = 법정 변호사
@@ -620,7 +613,6 @@ GLOSSARY:
   Iraq War = 이라크 전쟁
   John = 존
   John Mueller = 존 뮬러
-  Joshua = 여호수아
   Joshua Goldstein = 조슈아 골드스타인
   Korean War = 한국 전쟁
   Lawrence H. Keeley = 로런스 H. 킬리
@@ -723,7 +715,6 @@ GLOSSARY:
   Alps = 알프스산맥
   Battle of the Hydaspes = 히다스페스 전투
   Carthage = 카르타고
-  Elephant = 코끼리
   Epirus = 에페이로스
   Hannibal = 한니발
   India = 인도
@@ -902,7 +893,6 @@ GLOSSARY:
   Iraq = 이라크
   Islamic State = 이슬람 국가
   Pakistan = 파키스탄
-  Security = 보안
   September 11 attacks = 9·11 테러
   Taliban = 탈레반
   Torture = 고문
@@ -918,7 +908,6 @@ HEADWORD: Warehouse = 창고
 LEVEL: 4
 GLOSSARY:
   Bryggen = 브뤼겐
-  Building = 건물
   Crane (machine) = 기중기
   Hong Kong = 홍콩
   Horrea Galbae = 갈바 창고
@@ -983,7 +972,6 @@ HEADWORD: Warner Bros. Pictures = 워너 브러더스 픽처스
 LEVEL: 5
 GLOSSARY:
   Batman = 「배트맨」
-  Entertainment = 오락
   Harry = 해리
   Harry Potter = 「해리 포터」
   Jack L. Warner = 잭 L. 워너
@@ -1018,7 +1006,6 @@ GLOSSARY:
   Elia Kazan = 엘리아 카잔
   George McGovern = 조지 맥거번
   Hollywood = 할리우드
-  Kennedy = 케네디
   New Hollywood = 뉴 할리우드
   Party = 파티
   Reds = 「레즈」

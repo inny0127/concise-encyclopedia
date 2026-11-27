@@ -21,7 +21,6 @@ GLOSSARY:
   Calyptorhynchus = Calyptorhynchus
   Cockatiel = 왕관앵무
   Guinea = 기니
-  Habitat = 서식지
   Indonesian = 인도네시아어
   New Guinea = 뉴기니섬
   Parrot = 앵무새
@@ -61,7 +60,6 @@ GLOSSARY:
   Classical antiquity = 고전 고대
   German = 독일어
   German cockroach = 독일바퀴
-  Insect = 곤충
   Jurassic = 쥐라기
   Late Jurassic = 후기 쥐라기
   Termite = 흰개미
@@ -98,7 +96,6 @@ GLOSSARY:
   Chanel = 샤넬
   Chanel No. 5 = 샤넬 No. 5
   France = 프랑스
-  French = 프랑스어
   German = 독일어
   Nazi = 나치
   Paris = 파리
@@ -151,7 +148,6 @@ GLOSSARY:
   Philippines = 필리핀
   Southeast = 남동부
   Southeast Asia = 동남아시아
-  Species = 종
   coconut milk = 코코넛 밀크
   coir = 코이어
   copra = 코프라
@@ -181,7 +177,6 @@ HEADWORD: Cocos (Keeling) Islands = 코코스 제도
 LEVEL: 5
 GLOSSARY:
   Australia = 오스트레일리아
-  Australian = 오스트레일리아
   Clunies-Ross family = 클루니스로스 가문
   Cocos = Cocos
   Cocos Malays = 코코스 말레이인
@@ -283,7 +278,6 @@ GLOSSARY:
   Satan = 사탄
   Stockholm = 스톡홀름
   Sweden = 스웨덴
-  Swedish = 스웨덴어
   Thirty Years' War = 30년 전쟁
   Vulgate = 불가타 성경
   illuminated manuscript = 채색 필사본
@@ -313,13 +307,11 @@ LEVEL: 4
 GLOSSARY:
   Bell = 종
   Bell Labs = 벨 연구소
-  Claude = 클로드
   Claude Shannon = 클로드 섀넌
   Computer science = 컴퓨터 과학
   Cryptography = 암호학
   Data compression = 데이터 압축
   Information theory = 정보 이론
-  Richard = 리처드
   Richard Hamming = 리처드 해밍
   Solomon = 솔로몬
   Turing = 튜링
@@ -359,7 +351,6 @@ GLOSSARY:
   Cretaceous = 백악기
   Devonian = 데본기
   Devonian period = 데본기
-  Fossil = 화석
   Indonesian = 인도네시아어
   Indonesian coelacanth = 인도네시아실러캔스
   Latimeria chalumnae = Latimeria chalumnae
@@ -426,7 +417,6 @@ GLOSSARY:
   C. robusta = 로부스타
   Caffeine = 카페인
   Coffea = 커피나무속
-  Coffee = 커피
   Dutch = 네덜란드어
   French = 프랑스어
   French press = 프렌치 프레스
@@ -465,7 +455,6 @@ GLOSSARY:
   Algorithm = 알고리즘
   Attention = 주의
   Classical computationalism = 고전적 계산주의
-  Cognition = 인지
   Cognitive development = 인지 발달
   Connectionism = 연결주의
   Indo-European = 인도유럽어족
@@ -498,7 +487,6 @@ HEADWORD: Cognitive development = 인지 발달
 LEVEL: 4
 GLOSSARY:
   Jean Piaget = 장 피아제
-  Nature = 『네이처』
   Nature versus nurture = 본성 대 양육
   Neuroscience = 신경과학
   Psychology = 심리학
@@ -518,7 +506,6 @@ GLOSSARY:
   A Theory of Cognitive Dissonance = 『인지 부조화 이론』
   Belief = 믿음
   Leon Festinger = 리언 페스팅어
-  People = 『피플』
   Social psychology = 사회 심리학
   Theory = 이론
   rationalization = 합리화
@@ -569,7 +556,6 @@ GLOSSARY:
   British East India Company = 영국 동인도 회사
   Chennai = 첸나이
   Cheras = 체라 왕조
-  City = 도시
   Coimbatore = 코임바토르
   Coimbatore Wet Grinder = 코임바토르 습식 그라인더
   East India Company = 동인도 회사
@@ -581,7 +567,6 @@ GLOSSARY:
   Kovai Cora Cotton = 코바이 코라 면직물
   Madras = 마드라스
   Madras Presidency = 마드라스 관구
-  Manchester = 맨체스터
   Manchester of South India = 남인도의 맨체스터
   Mysore = 마이소르
   Nayaks = 나야크 왕조
@@ -622,7 +607,6 @@ LEVEL: 5
 GLOSSARY:
   Coal = 석탄
   Iron ore = 철광석
-  Petroleum = 석유
   Petroleum coke = 석유 코크스
   coal tar = 콜타르
   smelting = 제련
@@ -637,7 +621,6 @@ GLOSSARY:
   Asia = 아시아
   Carl Linnaeus = 칼 폰 린네
   Europe = 유럽
-  Genus = 속
   Gout = 통풍
   Linnaeus = 린네
   Mediterranean = 지중해
@@ -765,7 +748,6 @@ GLOSSARY:
   Golden Globe Award = 골든글로브상
   HBO = HBO
   In Bruges = 「킬러들의 도시」
-  Irish = 아일랜드어
   Martin McDonagh = 마틴 맥도나
   Minority Report = 「마이너리티 리포트」
   Penguin = 펭귄
@@ -835,7 +817,6 @@ American Army general and diplomat. Powell served as the 65th U.S. secretary of 
 HEADWORD: Collage = 콜라주
 LEVEL: 4
 GLOSSARY:
-  Collage = 콜라주
   French = 프랑스어
   Georges Braque = 조르주 브라크
   Japan = 일본

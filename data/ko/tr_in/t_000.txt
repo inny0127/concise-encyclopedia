@@ -86,7 +86,6 @@ GLOSSARY:
   Egypt = 이집트
   Latin = 라틴어
   Mesopotamia = 메소포타미아
-  Time = 『타임』
   United Kingdom = 영국
   United States = 미국
   ante meridiem = ante meridiem
@@ -114,7 +113,6 @@ GLOSSARY:
   Nobel Peace Prize = 노벨 평화상
   Peace = 평화
   Tibet = 티베트
-  Tibetan = 티베트어
   Tibetans = 티베트족
   bodhisattva = 보살
 ENTRY:
@@ -242,7 +240,6 @@ GLOSSARY:
   Nakba = 나크바
   Palestine = 팔레스타인
   Palestinians = 팔레스타인인
-  Second = 초
   Strip = 스트립
   Syria = 시리아
   Transjordan = 트란스요르단
@@ -317,7 +314,6 @@ GLOSSARY:
   Augusto Pinochet = 아우구스토 피노체트
   Chile = 칠레
   La Moneda = 라 모네다 궁
-  Military = 군대
   Nixon administration = 닉슨 행정부
   Peter = 베드로
   Peter Winn = 피터 윈
@@ -359,7 +355,6 @@ GLOSSARY:
   China = 중국
   Hebei = 허베이성
   Modified Mercalli intensity scale = 수정 메르칼리 진도 계급
-  Reconstruction = 재건 시대
   Shaanxi = 산시성
   Tangshan = 탕산
   Tianjin = 톈진
@@ -378,7 +373,6 @@ GLOSSARY:
   Hu Yaobang = 후야오방
   Inflation = 인플레이션
   June Fourth Incident = 6·4 사건
-  Martial = 마르티알리스
   Martial law = 계엄령
   Party = 파티
   Tank = 전차
@@ -613,7 +607,6 @@ GLOSSARY:
   Aung San Suu Kyi = 아웅산 수치
   Coup d'état = 쿠데타
   Democracy = 민주주의
-  Military = 군대
   Min Aung Hlaing = 민 아웅 흘라잉
   Myanmar = 미얀마
   National League = 내셔널 리그
@@ -660,7 +653,6 @@ GLOSSARY:
   Anton Webern = 안톤 베베른
   Arnold = 아르놀트
   Arnold Schoenberg = 아르놀트 쇤베르크
-  Claude = 클로드
   Claude Debussy = 클로드 드뷔시
   France = 프랑스
   Gustav Mahler = 구스타프 말러
@@ -759,7 +751,6 @@ Bright quasar in the constellation Virgo, identified in 1963 as the first quasar
 HEADWORD: 3D printing = 3D 프린팅
 LEVEL: 5
 GLOSSARY:
-  Construction = 건설
   Fused deposition modeling = 융합 적층 모델링
   thermoplastic = 열가소성 수지
 ENTRY:

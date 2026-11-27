@@ -84,7 +84,6 @@ GLOSSARY:
   Cryptography = 암호학
   Field theory = 체론
   Finite fields = 유한체
-  Galois = 갈루아
   Galois theory = 갈루아 이론
   Number = 수
   Number theory = 수론
@@ -120,7 +119,6 @@ GLOSSARY:
   James Clerk Maxwell = 제임스 클러크 맥스웰
   Michael Faraday = 마이클 패러데이
   Newton's law of universal gravitation = 뉴턴의 만유인력 법칙
-  Physical = 「Physical」
   Quantum field theory = 양자장론
   classical physics = 고전 물리학
   electrodynamics = 전기역학
@@ -282,7 +280,6 @@ GLOSSARY:
   Ice hockey = 아이스하키
   International Skating Union = 국제빙상경기연맹
   Olympic Games = 올림픽
-  Sport = 스포츠
   Winter = 겨울
   Winter Olympics = 동계 올림픽
   exhibition galas = 갈라 쇼
@@ -382,7 +379,6 @@ GLOSSARY:
   Canada = 캐나다
   Diesel fuel = 경유
   Ethanol = 에탄올
-  Fuel = 연료
   Gasoline = 휘발유
   Lottery = 복권
   Magazine = 잡지
@@ -544,10 +540,7 @@ LEVEL: 4
 GLOSSARY:
   Basking shark = 돌묵상어
   Chemical engineering = 화학 공학
-  Filtration = 여과
   Pasta = 파스타
-  Physical = 「Physical」
-  Solid = 고체
   blinding = 눈막힘
   colander = 체
   filter cake = 여과 케이크
@@ -574,7 +567,6 @@ GLOSSARY:
   Hironobu Sakaguchi = 사카구치 히로노부
   Japan = 일본
   Manga = 만화
-  Music = 음악
   Nobuo Uematsu = 우에마츠 노부오
   PlayStation = 플레이스테이션
   PlayStation (console) = 플레이스테이션
@@ -631,11 +623,8 @@ GLOSSARY:
   Bank = 은행
   Bond (finance) = 채권
   Economics = 경제학
-  Finance = 금융
   Insurance = 보험
-  Investment = 투자
   Investment banks = 투자 은행
-  Management = 경영학
   Money = 화폐
   business administration = 경영학
   equity = 지분
@@ -720,7 +709,6 @@ GLOSSARY:
   John Edwin Mayall = 존 에드윈 메이올
   Julia Margaret Cameron = 줄리아 마거릿 캐머런
   Lord's Prayer = 주기도문
-  MoMA = MoMA
   Museum = 박물관
   Museum of Modern Art = 뉴욕 현대 미술관
   Oscar = 오스카상
@@ -740,7 +728,6 @@ Photography created in line with the photographer's vision as an artist, using t
 HEADWORD: Fine-structure constant = 미세 구조 상수
 LEVEL: 5
 GLOSSARY:
-  Arnold = 아르놀트
   Arnold Sommerfeld = 아르놀트 조머펠트
   Bohr model = 보어 모형
   Dimensionless physical constant = 무차원 물리 상수
@@ -756,7 +743,6 @@ Dimensionless physical constant quantifying the strength of the electromagnetic 
 HEADWORD: Finger = 손가락
 LEVEL: 4
 GLOSSARY:
-  Human = 인간
   Primate = 영장류
   Tetrapod = 사지동물
   flexion = 굽힘
@@ -785,10 +771,7 @@ Sexual stimulation of the vulva, clitoris or vagina using the fingers. It may al
 HEADWORD: Fingerprint = 지문
 LEVEL: 4
 GLOSSARY:
-  Fingerprint = 지문
   Forensic science = 법과학
-  Friction = 마찰
-  Human = 인간
   Twin = 쌍둥이
   biometric identifier = 생체 인식 식별자
   friction ridges = 융선
@@ -858,12 +841,10 @@ Experimental novel by the Irish writer [[James Joyce]], published in 1939. Writt
 HEADWORD: Fiqh = 피크흐
 LEVEL: 4
 GLOSSARY:
-  Fiqh = 피크흐
   Hanafi = 하나피 학파
   Hanbali = 한발리파
   Islamic jurisprudence = 이슬람 법학
   Maliki = 말리키파
-  Muslims = 무슬림
   Quran = 쿠란
   Shafi'i = 샤피이파
   Sharia = 샤리아
@@ -907,7 +888,6 @@ GLOSSARY:
   Asia = 아시아
   Fire = 불
   Genus = 속
-  Management = 경영학
   Oecophylla = 베짜기개미속
   Solenopsis = 솔레놉시스속
   Solenopsis invicta = Solenopsis invicta
@@ -930,7 +910,6 @@ GLOSSARY:
   Asia = 아시아
   Barnfield = 반필드
   Combustion = 연소
-  Control = 「Control」
   England = 잉글랜드
   Fire = 불
   Georg Ernst Stahl = 게오르크 에른스트 슈탈

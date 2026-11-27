@@ -24,7 +24,6 @@ GLOSSARY:
   Cameroon = 카메룬
   Douala = 두알라
   German = 독일어
-  Port = 항구
   River = 강
   Wouri River = 우리강
   Yaoundé = 야운데
@@ -63,10 +62,7 @@ Largest and lowest-pitched [[String instrument|string instrument]] in the modern
 HEADWORD: Double-slit experiment = 이중 슬릿 실험
 LEVEL: 5
 GLOSSARY:
-  Light = 빛
   Photon = 광자
-  Physics = 물리학
-  Richard = 리처드
   Richard Feynman = 리처드 파인먼
   Thomas = 토머스
   Thomas Young = 토머스 영
@@ -85,7 +81,6 @@ LEVEL: 4
 GLOSSARY:
   Agnosticism = 불가지론
   Descartes = 데카르트
-  Doubt = 「다우트」
   Heresy = 이단
   Ludwig = 루트비히
   Ludwig Wittgenstein = 루트비히 비트겐슈타인
@@ -124,7 +119,6 @@ GLOSSARY:
   Computer science = 컴퓨터 과학
   Doctor of Philosophy = 박사 학위
   National Medal of Technology = 국가 기술 메달
-  Navy = 해군
   Philippines = 필리핀
   Research = 연구
   SRI International = SRI 인터내셔널
@@ -154,7 +148,6 @@ GLOSSARY:
   Harry S. Truman = 해리 S. 트루먼
   Japan = 일본
   Korean War = 한국 전쟁
-  Military = 군대
   Pacific = 태평양
   Philippines = 필리핀
   Surrender of Japan = 일본의 항복
@@ -272,7 +265,6 @@ GLOSSARY:
   Dee Barnes = 디 반스
   Eminem = 에미넴
   Entertainment = 오락
-  Following = 「미행」
   G-funk = 지펑크
   Grammy = 그래미상
   Grammy Awards = 그래미상
@@ -362,7 +354,6 @@ GLOSSARY:
   NASA = 미국 항공 우주국
   Saint = 성인
   Saint George's sword = 성 게오르기우스의 검
-  Species = 종
   Stoma = 기공
   West Africa = 서아프리카
   bowstring hemp = 활시위삼
@@ -431,7 +422,6 @@ GLOSSARY:
   Count Dracula = 드라큘라 백작
   Elizabeth Báthory = 바토리 에르제베트
   England = 잉글랜드
-  Gothic = 고딕
   Gothic fiction = 고딕 소설
   Gothic horror = 고딕 호러
   Guinness = 기네스
@@ -486,7 +476,6 @@ GLOSSARY:
   Latin = 라틴어
   Mesopotamia = 메소포타미아
   Old French = 고대 프랑스어
-  Tolkien = 톨킨
   Ursula K. Le Guin = 어슐러 K. 르 귄
   drakontes = 드라콘
 ENTRY:
@@ -579,10 +568,8 @@ GLOSSARY:
   Early Jurassic = 전기 쥐라기
   Jurassic = 쥐라기
   Meganisoptera = 메가니소프테라목
-  Nymphs = 약충
   Odonata = 잠자리목
   Predation = 포식
-  True = 『True』
   Wetland = 습지
   compound eyes = 겹눈
   nymphs = 약충
@@ -656,7 +643,6 @@ Body of water between [[Cape Horn]] in [[Chile]] and the South Shetland Islands 
 HEADWORD: Drake equation = 드레이크 방정식
 LEVEL: 5
 GLOSSARY:
-  Frank = 프랭크
   Frank Drake = 프랭크 드레이크
   Milky Way = 우리은하
   SETI = SETI
@@ -669,7 +655,6 @@ HEADWORD: Drake, Aubrey = 드레이크, 오브리
 LEVEL: 5
 GLOSSARY:
   Billboard 200 = 빌보드 200
-  Canadian = 캐나다
   Grammy = 그래미상
   Grammy Awards = 그래미상
   Jimmy Brooks = 지미 브룩스
@@ -697,7 +682,6 @@ GLOSSARY:
   Lesotho = 레소토
   Maloti = 말로티
   Maloti-Drakensberg Park = 말로티-드라켄즈버그 공원
-  Mountain = 산
   Mountain range = 산맥
   Rock art = 암각화
   Sahara = 사하라 사막
@@ -742,7 +726,6 @@ GLOSSARY:
   Indo-European languages = 인도유럽어족
   Kannada = 칸나다어
   Kodava = 코다바어
-  Language = 언어
   Language family = 어족
   Madurai = 마두라이
   Malayalam = 말라얄람어
@@ -767,7 +750,6 @@ GLOSSARY:
   Cave painting = 동굴 벽화
   Color = 색
   Conté crayons = 콩테
-  Drawing = 인발
   Europe = 유럽
   France = 프랑스
   Galileo = 갈릴레오
@@ -829,13 +811,11 @@ GLOSSARY:
   COVID-19 pandemic = 코로나19 범유행
   Calvin = 칼뱅
   Calvin S. Hall = 캘빈 S. 홀
-  Dream = 꿈
   Egypt = 이집트
   Gudea of Lagash = 라가시의 구데아
   Lagash = 라가시
   Mesopotamia = 메소포타미아
   Old English = 고대 영어
-  People = 『피플』
   Psychotherapy = 심리 치료
   REM = 렘수면
   Sleep = 수면

@@ -30,7 +30,6 @@ GLOSSARY:
   Duck = 오리
   Fossil = 화석
   Genus = 속
-  Goose = 기러기
   Hawaiian = 하와이어
   Hawaiian Islands = 하와이 제도
   Miocene = 마이오세
@@ -45,7 +44,6 @@ Waterfowl of several species in the family *Anatidae*, chiefly the [[Genus|gener
 HEADWORD: Howe, Gordie = 하우, 고디
 LEVEL: 4
 GLOSSARY:
-  Canadian = 캐나다
   Detroit = 디트로이트
   Detroit Red Wings = 디트로이트 레드윙스
   Gordie Howe hat trick = 고디 하우 해트트릭
@@ -89,7 +87,6 @@ LEVEL: 5
 GLOSSARY:
   1988 Winter Olympics = 1988년 동계 올림픽
   Bob Dylan = 밥 딜런
-  Canadian = 캐나다
   Country music = 컨트리 음악
   If You Could Read My Mind = 「If You Could Read My Mind」
   Marty = 「마티」
@@ -203,10 +200,7 @@ British virtual [[Alternative rock|alternative rock]] band formed in 1998 by Dam
 HEADWORD: Goryeo = 고려
 LEVEL: 4
 GLOSSARY:
-  Buddhism = 불교
-  Commerce = 상업
   Coup d'état = 쿠데타
-  Goryeo = 고려
   Jin = 금나라
   Joseon = 조선
   Korea = 한국
@@ -234,7 +228,6 @@ LEVEL: 5
 GLOSSARY:
   Batcave = 배트케이브
   Belle Époque = 벨 에포크
-  Dress = 드레스
   Expressionism = 표현주의
   F Club = F 클럽
   German = 독일어
@@ -258,7 +251,6 @@ Music-based subculture that emerged in the United Kingdom in the early 1980s fro
 HEADWORD: Gothenburg = 예테보리
 LEVEL: 5
 GLOSSARY:
-  City = 도시
   Dutch = 네덜란드어
   Gothia Cup = 고티아컵
   Gustavus Adolphus = 구스타브 2세 아돌프
@@ -358,7 +350,6 @@ GLOSSARY:
   Edgar Allan Poe = 에드거 앨런 포
   Gothic = 고딕
   Gothic horror = 고딕 호러
-  Horace = 호라티우스
   Mary Shelley = 메리 셸리
   The Castle = 『성』
   The Castle of Otranto = 『오트란토 성』
@@ -461,7 +452,6 @@ GLOSSARY:
   Begriffsschrift = 『개념 표기법』
   Bertrand = 버트런드호
   Bertrand Russell = 버트런드 러셀
-  German = 독일어
   Logic = 논리학
   Ludwig = 루트비히
   Ludwig Wittgenstein = 루트비히 비트겐슈타인
@@ -486,7 +476,6 @@ GLOSSARY:
   Alcohol (drug) = 알코올
   Ancient Egypt = 고대 이집트
   Arthritis = 관절염
-  Gout = 통풍
   Seafood = 해산물
   allopurinol = 알로푸리놀
   colchicine = 콜히친
@@ -505,7 +494,6 @@ GLOSSARY:
   American Revolution = 미국 독립 혁명
   Autocracy = 독재 정치
   Berlin Wall = 베를린 장벽
-  Cambridge = 케임브리지
   Cambridge Dictionary = 케임브리지 사전
   Civil War = 남북 전쟁
   Democracy = 민주주의
@@ -580,7 +568,6 @@ GLOSSARY:
   India = 인도
   Judiciary = 사법부
   New Delhi = 뉴델리
-  Parliament = 의회
   Republic of India = 인도 공화국
   Union Council of Ministers = 연방 각료회의
   head of government = 정부 수반
@@ -622,8 +609,6 @@ GLOSSARY:
   French Revolution = 프랑스 혁명
   Gaius Gracchus = 가이우스 그라쿠스
   Italy = 이탈리아
-  Recent = 현세
-  Tiberius = 티베리우스
   Tiberius Gracchus = 티베리우스 그라쿠스
   tribunes of the plebs = 호민관
 ENTRY:
@@ -723,7 +708,6 @@ HEADWORD: Grace in Christianity = 은총
 LEVEL: 4
 GLOSSARY:
   Arminianism = 아르미니우스주의
-  Augustine = 아우구스티누스
   Augustine of Hippo = 히포의 아우구스티누스
   Calvin = 칼뱅
   Calvinists = 칼뱅주의자
@@ -796,7 +780,6 @@ GLOSSARY:
   Ancient Greece = 고대 그리스
   City = 도시
   Egypt = 이집트
-  Graffiti = 그라피티
   Greece = 그리스
   Jesus = 예수
   Mural = 벽화
@@ -804,7 +787,6 @@ GLOSSARY:
   New York City Subway = 뉴욕 지하철
   Philadelphia = 필라델피아
   Roman Empire = 로마 제국
-  Writing = 문자
   York = 요크
   street art = 거리 미술
   vandalism = 반달리즘
@@ -825,7 +807,6 @@ GLOSSARY:
   Eurovision Song Contest = 유로비전 송 콘테스트
   Guinness = 기네스
   ITV = ITV
-  Irish = 아일랜드어
   So Television = 소 텔레비전
   Television = 텔레비전
   The Graham Norton Show = 「그레이엄 노턴 쇼」
@@ -870,7 +851,6 @@ GLOSSARY:
   German = 독일어
   Grammar = 문법
   India = 인도
-  Irish = 아일랜드어
   Iron = 철
   Iron Age = 철기 시대
   Latin = 라틴어
@@ -947,10 +927,8 @@ GLOSSARY:
   Ayoreo = 아요레오족
   Bolivia = 볼리비아
   Brazil = 브라질
-  Cattle = 소
   Deforestation = 삼림 벌채
   Guaraní = 과라니족
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Jaguar = 재규어
   Paraguay = 파라과이
@@ -996,7 +974,6 @@ GLOSSARY:
   Castile = 카스티야
   Catholic = 가톨릭
   Catholic Monarchs = 가톨릭 공동 왕
-  City = 도시
   Ferdinand = 페르디난트
   Ferdinand II of Aragon = 페르난도 2세
   Granada = 그라나다

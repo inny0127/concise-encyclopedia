@@ -29,7 +29,6 @@ GLOSSARY:
   Rosenberg self-esteem scale = 로젠버그 자존감 척도
   Scottish = 스코틀랜드
   Scottish Enlightenment = 스코틀랜드 계몽주의
-  Self-esteem = 자존감
   Shame = 수치심
   William = 윌리엄
   William James = 윌리엄 제임스
@@ -260,7 +259,6 @@ LEVEL: 4
 GLOSSARY:
   Boron = 붕소
   Diode = 다이오드
-  Doping = 도핑
   Integrated circuit = 집적 회로
   MOS transistors = MOS 트랜지스터
   MOSFET = MOSFET
@@ -277,12 +275,10 @@ HEADWORD: Semiotics = 기호학
 LEVEL: 4
 GLOSSARY:
   Charles Sanders Peirce = 찰스 샌더스 퍼스
-  Ferdinand = 페르디난트
   Ferdinand de Saussure = 페르디낭 드 소쉬르
   Pragmatics = 화용론
   Sanders = 샌더스
   Semantics = 의미론
-  Signs = 「싸인」
   biosemiotics = 생물기호학
   conventional symbols = 상징
   icons = 도상
@@ -303,7 +299,6 @@ GLOSSARY:
   Asia = 아시아
   Book = 책
   Book of Genesis = 「창세기」
-  Branch = 브랜치
   Eblaite = 에블라어
   European Union = 유럽 연합
   Göttingen = 괴팅겐
@@ -418,7 +413,6 @@ GLOSSARY:
   OMVS = OMVS
   Ocean = 대양
   Podor = 포도르
-  River = 강
   Senegal = 세네갈
   West Africa = 서아프리카
 ENTRY:
@@ -450,7 +444,6 @@ GLOSSARY:
   Brain = 뇌
   Central nervous system = 중추 신경계
   Cognitive psychology = 인지 심리학
-  Human = 인간
   Multimodality = 다중 감각 통합
   Pain = 통증
   Perception = 지각
@@ -501,7 +494,6 @@ GLOSSARY:
   Jane = 제인
   Jane Austen = 제인 오스틴
   Marianne = 메리앤
-  Novel = 소설
   Sussex = 서식스
   sense = 뜻
 ENTRY:
@@ -512,9 +504,7 @@ HEADWORD: Sense of smell = 후각
 LEVEL: 4
 GLOSSARY:
   Anosmia = 무후각증
-  Linda = 린다
   Linda B. Buck = 린다 B. 벅
-  Mammals = 포유류
   Nobel Prize = 노벨상
   Olfactory system = 후각계
   Pheromone = 페로몬
@@ -534,7 +524,6 @@ Special sense through which odors, or smells, are perceived. In humans, an odor 
 HEADWORD: Sensor = 센서
 LEVEL: 4
 GLOSSARY:
-  Analog = 『아날로그』
   MEMS = MEMS
   PH = pH
   Refractive index = 굴절률
@@ -573,7 +562,6 @@ HEADWORD: Sentence = 문장
 LEVEL: 4
 GLOSSARY:
   Clause = 절
-  Sentences = 『명제집』
   Speech act = 화행
   dependent clause = 종속절
   functional linguistics = 기능 언어학
@@ -592,8 +580,6 @@ GLOSSARY:
   Bengal = 벵골
   Great Andamanese = 대안다만족
   Hunter-gatherer = 수렵채집인
-  India = 인도
-  Indigenous = 원주민
   Jarawas = 자라와족
   Nicobar Islands = 니코바르 제도
   Nicobarese = 니코바르족
@@ -671,10 +657,8 @@ HEADWORD: Separation of powers = 권력 분립
 LEVEL: 4
 GLOSSARY:
   Congress = 의회
-  Constitution = 헌법
   Executive (government) = 행정부
   Government = 정부
-  John = 존
   John Locke = 존 로크
   Locke = 로크
   Montesquieu = 몽테스키외
@@ -695,9 +679,7 @@ HEADWORD: Sepsis = 패혈증
 LEVEL: 5
 GLOSSARY:
   Antibiotic = 항생제
-  Bacteria = 세균
   Infection = 감염
-  Sepsis = 패혈증
   Septic shock = 패혈성 쇼크
   intensive care unit = 중환자실
   septicemia = 패혈증
@@ -774,7 +756,6 @@ GLOSSARY:
   Hebrew Bible = 히브리어 성경
   Israel = 이스라엘
   Jews = 유대인
-  Koine = 코이네
   Koine Greek = 코이네 그리스어
   Letter of Aristeas = 「아리스테아스의 편지」
   Lingua franca = 링구아 프랑카
@@ -839,7 +820,6 @@ GLOSSARY:
   Sequoioideae = 세쿼이아아과
   Sierra Nevada = 시에라네바다산맥
   Sierra redwood = 시에라 레드우드
-  Species = 종
   giant redwood = 자이언트세쿼이아
   giant sequoia = 자이언트세쿼이아
 ENTRY:

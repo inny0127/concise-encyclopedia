@@ -7,7 +7,6 @@ GLOSSARY:
   Claudius = 클라우디우스
   Climate change = 기후 변화
   Hamburg = 함부르크
-  Ostia = 오스티아
   Ostia Antica = 오스티아 안티카
   Portus = 포르투스
   Red Sea = 홍해
@@ -56,7 +55,6 @@ GLOSSARY:
   Niger = 니제르
   Niger Delta = 니제르 삼각주
   Nigeria = 나이지리아
-  Port = 항구
   River = 강
   Rivers State = 리버스주
   Shell = 셸
@@ -156,11 +154,9 @@ Most populous city in [[Maine]] and county seat of Cumberland County, on Casco B
 HEADWORD: Portland, Oregon = 포틀랜드 (오리건주)
 LEVEL: 5
 GLOSSARY:
-  City = 도시
   City of Roses = 장미의 도시
   Columbia = 컬럼비아
   Columbia River = 컬럼비아강
-  Following = 「미행」
   Homelessness = 노숙
   Maine = 메인주
   Multnomah County = 멀트노마 카운티
@@ -187,7 +183,6 @@ GLOSSARY:
   Monastery = 수도원
   Monastery of Serra do Pilar = 세하두필라르 수도원
   Oporto = 오포르투
-  Port = 항구
   Port wine = 포트와인
   Portugal = 포르투갈
   Prince = 후작
@@ -240,7 +235,6 @@ GLOSSARY:
   Personality = 성격
   Peru = 페루
   Pharaoh = 파라오
-  True = 『True』
   Western world = 서양
   to = 도(都)
 ENTRY:
@@ -313,7 +307,6 @@ GLOSSARY:
   Galicia = 갈리치아
   Galician-Portuguese = 갈리시아-포르투갈어
   Gallaecia = 갈라이키아
-  Grammar = 문법
   Guinea = 기니
   Guinea-Bissau = 기니비사우
   Iberian = 이베리아
@@ -336,7 +329,6 @@ GLOSSARY:
   Southern Hemisphere = 남반구
   São Tomé and Príncipe = 상투메 프린시페
   Timor-Leste = 동티모르
-  Vocabulary = 어휘
   Vulgar = 속(俗)
   Vulgar Latin = 속라틴어
   Western Romance = 서로망스어
@@ -455,7 +447,6 @@ Philosophical school holding that genuine knowledge is either true by definition
 HEADWORD: Positron = 양전자
 LEVEL: 4
 GLOSSARY:
-  Antiparticle = 반입자
   California = 캘리포니아주
   California Institute of Technology = 캘리포니아 공과대학교
   Carl David Anderson = 칼 데이비드 앤더슨
@@ -579,7 +570,6 @@ GLOSSARY:
   West Africa = 서아프리카
   Western Europe = 서유럽
   Western Roman Empire = 서로마 제국
-  World = 세계
   World population = 세계 인구
   caliphates = 칼리파국
   early modern = 근세
@@ -603,7 +593,6 @@ LEVEL: 4
 GLOSSARY:
   Benzodiazepine = 벤조디아제핀
   Mental disorder = 정신 질환
-  Psychotherapy = 심리 치료
   Rape = 강간
   SNRI = SNRI
   SSRI = SSRI
@@ -891,7 +880,6 @@ LEVEL: 4
 GLOSSARY:
   Aristotle = 아리스토텔레스
   Electric charge = 전하
-  Energy = 에너지
   Gravity = 중력
   Joule = 줄
   Kinetic energy = 운동 에너지
@@ -918,7 +906,6 @@ HEADWORD: Potter's wheel = 물레
 LEVEL: 4
 GLOSSARY:
   Clay = 점토
-  Machine = 기계
   Mesopotamia = 메소포타미아
   Near East = 근동
   New World = 신대륙
@@ -943,14 +930,12 @@ GLOSSARY:
   Ceramic art = 도예
   China = 중국
   Clay = 점토
-  Earthenware = 토기
   Europe = 유럽
   Far East = 극동
   Germany = 독일
   Japan = 일본
   Jiangxi = 장시성
   Jōmon = 조몬
-  Korea = 한국
   Mesopotamia = 메소포타미아
   Middle Ages = 중세
   Neolithic = 신석기 시대
@@ -989,8 +974,6 @@ GLOSSARY:
   Galliformes = 닭목
   Galloanserae = 닭기러기상목
   Pork = 돼지고기
-  Poultry = 가금
-  Recent = 현세
   Selective breeding = 선택 교배
   Southeast = 남동부
   Southeast Asia = 동남아시아

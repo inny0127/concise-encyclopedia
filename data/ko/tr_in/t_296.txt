@@ -20,7 +20,6 @@ HEADWORD: Salmon = 연어
 LEVEL: 4
 GLOSSARY:
   Chile = 칠레
-  Folklore = 민속
   Great Lakes = 오대호
   New Zealand = 뉴질랜드
   North Atlantic = 북대서양
@@ -46,7 +45,6 @@ GLOSSARY:
   Antibiotic = 항생제
   Daniel Elmer Salmon = 대니얼 엘머 새먼
   Enterobacteriaceae = 장내세균과
-  Genus = 속
   Oxygen = 산소
   Salmon = 연어
   facultative anaerobes = 통성 혐기성 생물
@@ -67,7 +65,6 @@ GLOSSARY:
   Coregoninae = 화이트피시아과
   Early Eocene = 전기 에오세
   Eocene = 에오세
-  Family = 가족
   Northern Hemisphere = 북반구
   Salmon = 연어
   Salmoninae = 연어아과
@@ -152,12 +149,10 @@ GLOSSARY:
   Libya = 리비아
   Mediterranean = 지중해
   Mediterranean Sea = 지중해
-  Mineral = 광물
   Romania = 루마니아
   Romans = 로마인
   Sahara = 사하라 사막
   Salt = 소금
-  Sodium = 나트륨
   Sodium chloride = 염화 나트륨
   Table salt = 식염
   World = 세계
@@ -269,7 +264,6 @@ GLOSSARY:
   Bahia = 바이아주
   Bay of All Saints = 토두스우스산투스만
   Brazil = 브라질
-  City = 도시
   City of Music = 음악 창의 도시
   Creative Cities Network = 창의 도시 네트워크
   Guinness = 기네스
@@ -350,7 +344,6 @@ GLOSSARY:
   Salvia divinorum = 살비아 디비노룸
   Salvia rosmarinus = Salvia rosmarinus
   South America = 남아메리카
-  Species = 종
   World = 세계
   common sage = 세이지
   herbaceous perennials = 여러해살이풀
@@ -530,7 +523,6 @@ GLOSSARY:
   Nuclear reactor = 원자로
   Paul-Émile Lecoq de Boisbaudran = 폴에밀 르코크 드 부아보드랑
   Quadramet = 쿼드라메트
-  Samarium = 사마륨
   bastnäsite = 바스트네사이트
   control rods = 제어봉
   monazite = 모나자이트
@@ -547,14 +539,12 @@ GLOSSARY:
   Asia = 아시아
   Bibi-Khanym Mosque = 비비하눔 모스크
   Central Asia = 중앙아시아
-  City = 도시
   Gur-i Amir Mausoleum = 구르 에미르 영묘
   Marakanda = 마라칸다
   Mosque = 모스크
   Registan = 레기스탄
   Samanid = 사만 왕조
   Samanid Empire = 사만 왕조
-  Samarkand = 사마르칸트
   Silk = 비단
   Silk Road = 실크로드
   Sogdian = 소그드
@@ -579,7 +569,6 @@ GLOSSARY:
   Estácio = 이스타시우
   Intangible Cultural Heritage = 무형 문화유산
   Intangible Cultural Heritage of Humanity = 인류무형문화유산
-  Once = 『Once』
   Rio de Janeiro = 리우데자네이루
   Samba = 삼바
   Samba de Roda = 삼바 지 호다
@@ -596,7 +585,6 @@ Umbrella term for Brazilian rhythms and musical genres of Afro-Brazilian origin,
 HEADWORD: Sambucus = 딱총나무속
 LEVEL: 5
 GLOSSARY:
-  Genus = 속
   Viburnaceae = 산분꽃나무과
   cyanogenic glycosides = 시안 배당체
   elders = 딱총나무
@@ -627,7 +615,6 @@ GLOSSARY:
   Michelangelo = 미켈란젤로
   Omar Khayyam = 오마르 하이얌
   Persian = 페르시아어
-  Romantic = 낭만주의
   Same-sex marriage = 동성 결혼
   Socrates = 소크라테스
   civil unions = 시민 결합
@@ -657,7 +644,6 @@ LEVEL: 5
 GLOSSARY:
   Black = 검은색
   Dean Martin = 딘 마틴
-  Entertainment = 오락
   Frank = 프랭크
   Frank Sinatra = 프랭크 시나트라
   Internal Revenue Service = 국세청
@@ -750,7 +736,6 @@ GLOSSARY:
   France = 프랑스
   Literary Digest = 『리터러리 다이제스트』
   Pierre Simon Laplace = 피에르시몽 라플라스
-  Probability = 확률
   Republicans = 공화파
   Statistical population = 모집단
   Survey methodology = 조사 방법론
@@ -839,7 +824,6 @@ GLOSSARY:
   Ravi = 라비강
   Ravi River = 라비강
   River = 강
-  Second = 초
   direct rule = 직접 통치
   veena = 비나
 ENTRY:

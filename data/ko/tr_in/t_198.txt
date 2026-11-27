@@ -117,7 +117,6 @@ HEADWORD: Vygotsky, Lev = 비고츠키, 레프
 LEVEL: 4
 GLOSSARY:
   Joseph Stalin = 이오시프 스탈린
-  Russian = 러시아어
   Soviet Union = 소련
   Stalin = 스탈린
   cultural-historical activity theory = 문화역사적 활동 이론
@@ -200,7 +199,6 @@ GLOSSARY:
   Indus = 인더스강
   Indus Valley = 인더스강 유역
   Katrina = 카트리나
-  Levee = 제방
   Mesopotamia = 메소포타미아
   Natural levees = 자연 제방
   New Orleans = 뉴올리언스
@@ -292,7 +290,6 @@ GLOSSARY:
   Leviathan (Hobbes book) = 『리바이어선』
   Lotan = 로탄
   Psalms = 「시편」
-  Thomas = 토머스
   Thomas Hobbes = 토머스 홉스
   Whale = 고래
   envy = 시기
@@ -380,7 +377,6 @@ American expedition, 1804–06, to explore the western territory acquired in the
 HEADWORD: Lexington, Kentucky = 렉싱턴
 LEVEL: 5
 GLOSSARY:
-  City = 도시
   Fayette County = 페이엣 카운티
   Horse = 말
   Horse Capital of the World = 세계 말의 수도
@@ -407,7 +403,6 @@ GLOSSARY:
   Dalai Lamas = 달라이 라마
   Lhasa = 라싸
   Lhasa River = 라싸강
-  Mining = 광업
   Palace = 궁전
   Plateau = 고원
   Potala Palace = 포탈라궁
@@ -623,14 +618,10 @@ GLOSSARY:
   French = 프랑스어
   French Revolution = 프랑스 혁명
   Glorious Revolution = 명예혁명
-  John = 존
   John Locke = 존 로크
   Latin = 라틴어
   Latin America = 라틴아메리카
   Leninism = 레닌주의
-  Liberal = 자유당
-  Liberalism = 자유주의
-  Liberals = 자유주의자
   Locke = 로크
   Marxism = 마르크스주의
   North America = 북아메리카
@@ -681,7 +672,6 @@ GLOSSARY:
   Ivory = 상아
   Ivory Coast = 코트디부아르
   Liberia = 라이베리아
-  Mining = 광업
   Monrovia = 몬로비아
   Ocean = 대양
   Scramble for Africa = 아프리카 분할
@@ -701,7 +691,6 @@ GLOSSARY:
   John = 존
   John Rawls = 존 롤스
   Joseph Déjacque = 조제프 데자크
-  Libertarians = 자유지상주의자
   Murray Rothbard = 머리 로스바드
   Pierre-Joseph Proudhon = 피에르조제프 프루동
   Political philosophy = 정치 철학
@@ -726,17 +715,14 @@ GLOSSARY:
   Independence = 인디펜던스
   Isaiah = 「이사야」
   Isaiah Berlin = 이사야 벌린
-  John = 존
   John Locke = 존 로크
   John Stuart Mill = 존 스튜어트 밀
   Latin = 라틴어
   Liberty = 자유
-  Life = 『라이프』
   Locke = 로크
   Maurya = 마우리아
   Maurya Empire = 마우리아 제국
   On Liberty = 『자유론』
-  Thomas = 토머스
   Thomas Hobbes = 토머스 홉스
   United States = 미국
   United States Declaration of Independence = 미국 독립 선언서
@@ -770,7 +756,6 @@ GLOSSARY:
   Paris = 파리
   Paris Salon = 파리 살롱
   Phrygian cap = 프리기아 모자
-  Romantic = 낭만주의
   tricolor = 삼색기
 ENTRY:
 Romantic painting by [[Eugène Delacroix]], commemorating the July Revolution of 1830 that toppled King Charles X. The allegorical figure of Liberty, bare-breasted and wearing a Phrygian cap, leads a mixed group of fighters over a barricade of corpses, holding the tricolor in one hand and a musket with a bayonet in the other. The fighters come from several social classes, from a top-hatted bourgeois to a boy with pistols. Delacroix painted it in autumn 1830, and it was first shown at the Paris Salon of 1831. The French government bought it for 3,000 francs, but it was removed from the Luxembourg Palace because of its political message. It is now in the [[Louvre]]. The painting is sometimes wrongly thought to depict the French Revolution of 1789.
@@ -844,7 +829,6 @@ GLOSSARY:
   John Adams = 존 애덤스
   Madison = 매디슨
   Research = 연구
-  Thomas = 토머스
   Thomas Jefferson = 토머스 제퍼슨
   United States = 미국
   United States Congress = 미국 의회
@@ -882,7 +866,6 @@ GLOSSARY:
   Islam = 이슬람교
   Italo-Turkish War = 이탈리아-튀르크 전쟁
   Italy = 이탈리아
-  Libya = 리비아
   Maghreb = 마그레브
   Mediterranean = 지중해
   Muammar Gaddafi = 무아마르 카다피
@@ -921,7 +904,6 @@ GLOSSARY:
   Hughes Aircraft Company = 휴스 항공사
   Ingenuity = 인저뉴어티
   Laser = 레이저
-  Lidar = 라이다
   Mars = 화성
   Surveying = 측량
 ENTRY:
@@ -933,7 +915,6 @@ LEVEL: 5
 GLOSSARY:
   Adrenaline = 아드레날린
   Arrhythmia = 부정맥
-  Lidocaine = 리도카인
   List of Essential Medicines = 필수 의약품 목록
   World = 세계
   amino amide = 아미노아마이드
@@ -953,7 +934,6 @@ GLOSSARY:
   Immanuel Kant = 이마누엘 칸트
   Kant = 칸트
   Perjury = 위증
-  Research = 연구
   black lie = 블랙 라이
   blue lie = 블루 라이
   consequentialists = 결과주의자
@@ -975,7 +955,6 @@ GLOSSARY:
   German = 독일어
   German Confederation = 독일 연방
   Hans-Adam II = 한스아담 2세
-  Liechtenstein = 리히텐슈타인
   Schengen = 솅겐
   Schengen Area = 솅겐 지역
   Swiss franc = 스위스 프랑
@@ -1001,7 +980,6 @@ GLOSSARY:
   Earth = 지구
   Empedocles = 엠페도클레스
   Extremophile = 극한 생물
-  Life = 『라이프』
   NASA = 미국 항공 우주국
   Prokaryotes = 원핵생물
   archaea = 고세균

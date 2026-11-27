@@ -9,7 +9,6 @@ GLOSSARY:
   Asia = 아시아
   Battle of Kadesh = 카데시 전투
   Canaan = 가나안
-  Communication = 의사소통
   Convention = 비상 의회
   Diplomatic mission = 외교 공관
   East Asia = 동아시아
@@ -150,7 +149,6 @@ GLOSSARY:
   Paul Dirac = 폴 디랙
   Pauli wavefunction = 파울리 파동 함수
   Quantum mechanics = 양자역학
-  Relativistic = 상대론적
   Special relativity = 특수 상대성 이론
   Standard = 스탠더드
   Standard Model = 표준 모형
@@ -168,7 +166,6 @@ HEADWORD: Dire Dawa = 디레다와
 LEVEL: 4
 GLOSSARY:
   Addis Ababa = 아디스아바바
-  City = 도시
   Dire Dawa = 디레다와
   Djibouti = 지부티
   Ethiopia = 에티오피아
@@ -258,7 +255,6 @@ GLOSSARY:
   Dallas = 댈러스
   Dallas Mavericks = 댈러스 매버릭스
   FIBA World Championship = FIBA 세계 선수권 대회
-  German = 독일어
   Germany = 독일
   Most Valuable Player = 최우수 선수
   NBA Finals = NBA 파이널
@@ -283,10 +279,7 @@ GLOSSARY:
   Convention = 비상 의회
   Culture = 문화
   Disability = 장애
-  Discrimination = 차별
-  Experience = 「경험」
   Hippocratic = 히포크라테스 학파
-  Others = 아더
   Plato = 플라톤
   Plutarch = 플루타르코스
   Rights = 인권
@@ -311,7 +304,6 @@ Historians dispute how disabled people were treated in antiquity. Some argue tha
 HEADWORD: Disco = 디스코
 LEVEL: 4
 GLOSSARY:
-  Dance = 춤
   Disco = 디스코
   Disco Demolition Night = 디스코 폭파의 밤
   Electronic dance music = 일렉트로닉 댄스 뮤직
@@ -397,9 +389,7 @@ GLOSSARY:
   Graph theory = 그래프 이론
   Information theory = 정보 이론
   Mathematical logic = 수리 논리학
-  Number = 수
   Number theory = 수론
-  Research = 연구
   automata theory = 오토마타 이론
   automated theorem proving = 자동 정리 증명
   combinatorics = 조합론
@@ -434,7 +424,6 @@ GLOSSARY:
   German tank problem = 독일 전차 문제
   Integer = 정수
   Permutation = 순열
-  Probability = 확률
   Probability distribution = 확률 분포
   Probability theory = 확률론
   Statistics = 통계학
@@ -568,7 +557,6 @@ HEADWORD: Disgust = 혐오
 LEVEL: 4
 GLOSSARY:
   Anxiety disorder = 불안 장애
-  Disgust = 혐오
   Emotion = 감정
   Feces = 대변
   Obsessive–compulsive disorder = 강박 장애
@@ -590,7 +578,6 @@ GLOSSARY:
   Chicago = 시카고
   Cutlery = 커틀러리
   Josephine Cochrane = 조세핀 코크런
-  Machine = 기계
   Tableware = 식기
   World's Fair = 만국 박람회
   booster heater = 부스터 히터
@@ -780,7 +767,6 @@ GLOSSARY:
   Bar (unit) = 바
   Cryogenic air separation = 심랭 공기 분리
   Desalination = 담수화
-  Distillation = 증류
   Mesopotamia = 메소포타미아
   Mixture = 혼합물
   Nitrogen = 질소
@@ -803,7 +789,6 @@ GLOSSARY:
   Field (mathematics) = 체
   Mathematical logic = 수리 논리학
   Multiplication = 곱셈
-  Property = 재산
   Ring (mathematics) = 환
   algebraic structures = 대수 구조
   complex numbers = 복소수
@@ -823,12 +808,10 @@ GLOSSARY:
   Berlin = 베를린
   Burlesque = 벌레스크
   CSI: Crime Scene Investigation = 「CSI: 과학수사대」
-  Crime = 범죄
   London = 런던
   Marilyn Manson = 매릴린 맨슨
   New York = 뉴욕
   Paris = 파리
-  Queen = 퀸
   Queen of Burlesque = 벌레스크의 여왕
   RuPaul's Drag Race = 「루폴의 드래그 레이스」
   York = 요크

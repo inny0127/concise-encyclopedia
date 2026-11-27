@@ -24,7 +24,6 @@ HEADWORD: Sphinx = 스핑크스
 LEVEL: 4
 GLOSSARY:
   Egyptian mythology = 이집트 신화
-  Egyptologists = 이집트학자
   Giza = 기자
   Giza Plateau = 기자 고원
   Great Pyramids = 대피라미드
@@ -78,7 +77,6 @@ GLOSSARY:
   Oxford English Dictionary = 『옥스퍼드 영어 사전』
   Pliny = 플리니우스
   Pliny the Elder = 대플리니우스
-  Seed = 씨앗
   The Oxford Companion to Food = 『옥스퍼드 음식 안내서』
   The Oxford English Dictionary = 『옥스퍼드 영어 사전』
   Vasco da Gama = 바스쿠 다가마
@@ -126,7 +124,6 @@ GLOSSARY:
   Marvel Comics = 마블 코믹스
   Miles Morales = 마일스 모랄레스
   New York City = 뉴욕
-  Peter = 베드로
   Peter Benjamin Parker = 피터 벤저민 파커
   Queens = 퀸스
   Silver = 은
@@ -153,7 +150,6 @@ GLOSSARY:
   Arthropod = 절지동물
   Insect = 곤충
   Silk = 비단
-  Spider = 거미
   Tarantula = 타란툴라
   Venom = 독
   antennae = 더듬이
@@ -169,14 +165,12 @@ GLOSSARY:
   Ateles = 거미원숭이속
   Brazil = 브라질
   Genus = 속
-  Meta-analyses = 메타분석
   Mexico = 멕시코
   New World = 신대륙
   New World monkey = 신세계원숭이
   New World monkeys = 신세계원숭이
   Rainforest = 우림
   South America = 남아메리카
-  Spider = 거미
   World = 세계
   brown spider monkey = 갈색거미원숭이
   canopy = 수관층
@@ -335,11 +329,9 @@ LEVEL: 4
 GLOSSARY:
   Ancient Greece = 고대 그리스
   Ancient Rome = 고대 로마
-  Clay = 점토
   Greece = 그리스
   Hanukkah = 하누카
   Mesopotamia = 메소포타미아
-  Once = 『Once』
   Rome = 로마
   ancient Rome = 고대 로마
   axis = 중쇠뼈
@@ -536,7 +528,6 @@ Fictional science officer in the [[Star Trek]] media franchise. Spock served as 
 HEADWORD: Spokane = 스포캔
 LEVEL: 5
 GLOSSARY:
-  City = 도시
   Expo '74 = 엑스포 '74
   Father's Day = 아버지의 날
   Fire = 불
@@ -581,13 +572,10 @@ American animated comedy television series for [[Nickelodeon]]. Created by marin
 HEADWORD: Sponge = 해면동물
 LEVEL: 4
 GLOSSARY:
-  Adult = 성인
   Demosponges = 보통해면류
-  Fossil = 화석
   Otavia = 오타비아
   Phylum = 문
   Porifera = 해면동물
-  Sponges = 해면동물
   Tonian = 토니아기
   calcium carbonate = 탄산 칼슘
   choanocyte = 깃세포
@@ -687,9 +675,7 @@ GLOSSARY:
   Global Association of International Sports Federations = 국제경기연맹총연합회
   Go = 바둑
   Old French = 고대 프랑스어
-  Physical = 「Physical」
   Running = 달리기
-  Sport = 스포츠
   SportAccord = 스포츠어코드
   all-cause mortality = 전체 원인 사망률
   desport = 데스포르
@@ -776,10 +762,8 @@ GLOSSARY:
   Europe = 유럽
   Martin Lorentzon = 마르틴 로렌트손
   New York Stock Exchange = 뉴욕 증권 거래소
-  Spotify = 스포티파이
   Stock = 주식
   Stockholm = 스톡홀름
-  Swedish = 스웨덴어
   United States = 미국
   York = 요크
   freemium = 프리미엄
@@ -807,7 +791,6 @@ HEADWORD: Spreadsheet = 스프레드시트
 LEVEL: 4
 GLOSSARY:
   Apple II = 애플 II
-  Computer = 컴퓨터
   Excel = 엑셀
   LANPAR = LANPAR
   Microsoft Excel = 마이크로소프트 엑셀
@@ -879,7 +862,6 @@ GLOSSARY:
   Hot spring = 온천
   Hydrosphere = 수권
   Karst = 카르스트
-  Springs = 스프링스
   Water cycle = 물의 순환
   confined aquifer = 피압 대수층
   hydrostatic pressure = 정수압

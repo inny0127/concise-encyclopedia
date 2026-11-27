@@ -37,7 +37,6 @@ GLOSSARY:
   Lake Superior = 슈피리어호
   Lloyd = 로이드
   Madison = 매디슨
-  Manufacturing = 제조업
   Michigan = 미시간주
   Midwest = 중서부
   Milwaukee = 밀워키
@@ -88,7 +87,6 @@ GLOSSARY:
   Harvest Records = 하베스트 레코드
   Pink Floyd = 핑크 플로이드
   Rolling Stone = 『롤링 스톤』
-  Shine = 「샤인」
   Shine On You Crazy Diamond = 「Shine On You Crazy Diamond」
   Syd Barrett = 시드 배럿
   United Kingdom = 영국
@@ -101,7 +99,6 @@ HEADWORD: Witchcraft = 주술
 LEVEL: 4
 GLOSSARY:
   Age of Enlightenment = 계몽주의 시대
-  Belief = 믿음
   Classical antiquity = 고전 고대
   Enlightenment = 계몽주의
   Europe = 유럽
@@ -190,7 +187,6 @@ HEADWORD: Wolf–Rayet star = 볼프·레예 별
 LEVEL: 4
 GLOSSARY:
   Planetary nebula = 행성상 성운
-  Rare = 「Rare」
   Star = 항성
   Ultraviolet = 자외선
   Wolf = 늑대
@@ -206,7 +202,6 @@ GLOSSARY:
   Antarctica = 남극 대륙
   Lycosidae = 늑대거미과
   Spider = 거미
-  Wolf = 늑대
   nursery web spiders = 닷거미과
   spin = 스핀
   spinnerets = 방적돌기
@@ -318,7 +313,6 @@ GLOSSARY:
   The Incredible Hulk = 『인크레더블 헐크』
   Weapon = 무기
   Weapon X = 웨폰 X
-  Wolverine = 울버린
   X-Men = 엑스맨
   adamantium = 아다만티움
   berserker rages = 광전사의 분노
@@ -330,7 +324,6 @@ Marvel Comics superhero and member of the [[X-Men]], first seen in *The Incredib
 HEADWORD: Woman = 여성
 LEVEL: 3
 GLOSSARY:
-  Adult = 성인
   Conquest = 정복
   Female reproductive system = 여성 생식계
   Gender equality = 성평등
@@ -339,7 +332,6 @@ GLOSSARY:
   Norman = 노르만
   Norman Conquest = 노르만 정복
   Old English = 고대 영어
-  Others = 아더
   Puberty = 사춘기
   SRY gene = SRY 유전자
   X chromosomes = X 염색체
@@ -446,7 +438,6 @@ Professional [[Association football|association football]] league and the highes
 HEADWORD: Women's history = 여성사
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Cleopatra = 클레오파트라
   Harriet Tubman = 해리엇 터브먼
   Jane = 제인
@@ -468,8 +459,6 @@ GLOSSARY:
   19th Amendment = 수정 헌법 제19조
   Athens = 아테네
   Classical Athens = 고전기 아테네
-  Issues = 『이슈스』
-  Rights = 인권
   Sumer = 수메르
   United States = 미국
   bodily integrity = 신체적 온전성
@@ -483,7 +472,6 @@ Rights and entitlements claimed for women and girls worldwide. They formed the b
 HEADWORD: Women's sports = 여성 스포츠
 LEVEL: 4
 GLOSSARY:
-  Female = 암컷
   Netball = 네트볼
   Tennis = 테니스
   Title IX = 타이틀 나인
@@ -507,7 +495,6 @@ GLOSSARY:
   Netherlands = 네덜란드
   New Zealand = 뉴질랜드
   Scandinavian = 스칸디나비아
-  Suffrage = 참정권
   Switzerland = 스위스
   United Kingdom = 영국
   United Nations = 국제 연합
@@ -537,7 +524,6 @@ GLOSSARY:
   Hippolyta = 히폴리테
   Olive = 올리브
   Olive Byrne = 올리브 번
-  Peter = 베드로
   Princess Diana = 다이애나 공주
   Queen = 퀸
   Queen Hippolyta = 히폴리테 여왕
@@ -579,7 +565,6 @@ LEVEL: 3
 GLOSSARY:
   Cellulose = 셀룰로스
   Construction = 건설
-  Density = 밀도
   Fuel = 연료
   Furniture = 가구
   Neolithic = 신석기 시대
@@ -640,7 +625,6 @@ HEADWORD: Woodpecker = 딱따구리
 LEVEL: 4
 GLOSSARY:
   Australia = 오스트레일리아
-  Family = 가족
   Forest = 숲
   Guinea = 기니
   Insect = 곤충
@@ -662,7 +646,6 @@ Family of birds (Picidae) that also includes piculets, wrynecks, and sapsuckers.
 HEADWORD: Wilson, Woodrow = 윌슨, 우드로
 LEVEL: 4
 GLOSSARY:
-  Democratic = 민주당
   Federal Reserve = 연방준비제도
   Federal Reserve Act = 연방준비법
   Jersey = 저지섬
@@ -708,9 +691,7 @@ HEADWORD: Woodwind instrument = 목관 악기
 LEVEL: 4
 GLOSSARY:
   Clarinet = 클라리넷
-  Double-reed = 겹리드
   Double-reed instruments = 겹리드 악기
-  Family = 가족
   Flute = 플루트
   Neolithic = 신석기 시대
   Ocarina = 오카리나
@@ -736,7 +717,6 @@ GLOSSARY:
   Rome = 로마
   Vitruvius = 비트루비우스
   Wood = 목재
-  Woodworking = 목공
   ancient Rome = 고대 로마
   cabinetry = 가구 제작
   joinery = 짜맞춤
@@ -832,8 +812,6 @@ GLOSSARY:
   Protein = 단백질
   Rabbit = 토끼
   Sheep = 양
-  Textile = 직물
-  Wool = 양모
   camelids = 낙타과 동물
   carded = 카딩
   combed = 코밍
@@ -868,11 +846,8 @@ GLOSSARY:
   City = 도시
   College of the Holy Cross = 홀리크로스 칼리지
   Commonwealth = 영연방
-  Eight = 「에잇」
   England = 잉글랜드
-  Heart = 심장
   Heart of the Commonwealth = 커먼웰스의 심장
-  Manufacturing = 제조업
   Massachusetts = 매사추세츠주
   United States = 미국
   Worcester = 우스터

@@ -4,7 +4,6 @@ LEVEL: 4
 GLOSSARY:
   Electric motor = 전동기
   Electromagnetism = 전자기학
-  Force = 힘
   Hendrik Lorentz = 헨드릭 로렌츠
   James = 야고보
   James Clerk Maxwell = 제임스 클러크 맥스웰
@@ -26,7 +25,6 @@ Force exerted on a charged particle by electric and magnetic fields. The electri
 HEADWORD: Lorentz transformation = 로런츠 변환
 LEVEL: 4
 GLOSSARY:
-  Albert = 앨버트
   Albert Einstein = 알베르트 아인슈타인
   Dutch = 네덜란드어
   Einstein = 아인슈타인
@@ -104,7 +102,6 @@ Largest family of [[Catfish|catfish]] (order Siluriformes), with over 90 genera 
 HEADWORD: Michaels, Lorne = 마이클스, 론
 LEVEL: 5
 GLOSSARY:
-  Canadian = 캐나다
   Emmy = 에미상
   Emmy Awards = 에미상
   Late Night = 「레이트 나이트」
@@ -177,7 +174,6 @@ LEVEL: 4
 GLOSSARY:
   Americas = 아메리카
   California = 캘리포니아주
-  Downtown = 다운타운
   Frank = 프랭크
   Frank Gehry = 프랭크 게리
   Hidalgo = 이달고
@@ -216,11 +212,9 @@ LEVEL: 5
 GLOSSARY:
   Ernest Hemingway = 어니스트 헤밍웨이
   F. Scott Fitzgerald = F. 스콧 피츠제럴드
-  Gertrude = 거트루드
   Gertrude Stein = 거트루드 스타인
   Great Depression = 대공황
   Hemingway = 헤밍웨이
-  Lost = 「로스트」
   Nabi Tajima = 다지마 나비
   Paris = 파리
   Roaring Twenties = 광란의 20년대
@@ -293,7 +287,6 @@ GLOSSARY:
   Sinbad of the Seven Seas = 「칠대양의 신드바드」
   The Incredible Hulk = 「두 얼굴의 사나이」
   The King of Queens = 「킹 오브 퀸즈」
-  Universe = 우주
 ENTRY:
 American actor and retired [[Bodybuilding|bodybuilder]]. He won the IFBB Mr. America title and two consecutive IFBB Mr. Universe titles, and appeared in the documentary film *Pumping Iron* (1977). Early in his career he trained with [[Arnold Schwarzenegger]]. He is best known for the title role in the CBS series *The Incredible Hulk* (1977–1982), and he has voiced the character in later animated and computer-generated versions. His films include *Hercules* (1983) and *Sinbad of the Seven Seas* (1989), and he appeared as himself in the sitcom *The King of Queens*.
 
@@ -308,7 +301,6 @@ GLOSSARY:
   Baseball Hall of Fame = 야구 명예의 전당
   Crown = 영국 왕실
   Horse = 말
-  Iron = 철
   Iron Horse = 철마
   Most Valuable Player = 최우수 선수
   New York = 『뉴욕』
@@ -470,7 +462,6 @@ HEADWORD: Braille, Louis = 브라유, 루이
 LEVEL: 4
 GLOSSARY:
   Braille = 점자
-  French = 프랑스어
   Paris = 파리
   Royal Institute for Blind Youth = 왕립 맹아 학교
   Youth = 『청년 시절』
@@ -578,7 +569,6 @@ GLOSSARY:
   Croatia = 크로아티아
   Dalmatian = 달마치야
   Golden Horde = 킵차크 칸국
-  Hungarian = 헝가리어
   Hungary = 헝가리
   Joanna = 후아나
   Joanna I of Naples = 나폴리의 조반나 1세
@@ -841,7 +831,6 @@ LEVEL: 5
 GLOSSARY:
   Bourbon = 부르봉
   Bourbon Restoration = 부르봉 왕정복고
-  Brother = 형제
   Charter of 1814 = 1814년 헌장
   Count of Provence = 프로방스 백작
   France = 프랑스
@@ -915,7 +904,6 @@ GLOSSARY:
   David Bohm = 데이비드 봄
   Electron = 전자
   European Organization for Nuclear Research = 유럽 입자 물리 연구소
-  French = 프랑스어
   Nobel Prize = 노벨상
   Nobel Prize in Physics = 노벨 물리학상
   Physics = 물리학

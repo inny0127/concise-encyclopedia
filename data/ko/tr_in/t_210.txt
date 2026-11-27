@@ -2,7 +2,6 @@
 HEADWORD: Man = 남성
 LEVEL: 3
 GLOSSARY:
-  Adult = 성인
   Gender equality = 성평등
   Old English = 고대 영어
   Puberty = 사춘기
@@ -63,14 +62,11 @@ American-born, French-naturalized visual artist who spent most of his career in 
 HEADWORD: Management = 경영
 LEVEL: 3
 GLOSSARY:
-  Frederick = 프리드리히
   French = 프랑스어
   Henri Fayol = 앙리 페욜
   Latin = 라틴어
   Line management = 일선 관리자
-  Management = 경영학
   Middle management = 중간 관리자
-  Peter = 베드로
   Peter Drucker = 피터 드러커
   Senior management = 최고 경영진
   board of directors = 이사회
@@ -97,7 +93,6 @@ HEADWORD: Managua = 마나과
 LEVEL: 4
 GLOSSARY:
   Central America = 중앙아메리카
-  City = 도시
   Lake = 호수
   Lake Managua = 마나과호
   Managua = 마나과
@@ -113,9 +108,7 @@ LEVEL: 5
 GLOSSARY:
   Amazon basin = 아마존 분지
   Caribbean Sea = 카리브해
-  Genus = 속
   Gulf of Mexico = 멕시코만
-  Human = 인간
   Mexico = 멕시코
   Sirenia = 바다소목
   West Africa = 서아프리카
@@ -133,7 +126,6 @@ GLOSSARY:
   Amazon rainforest = 아마존 열대 우림
   Amazonas = 아마조나스주
   Belém = 벨렝
-  City = 도시
   Industrial Park of Manaus = 마나우스 산업 단지
   Manaus = 마나우스
   Paris = 파리
@@ -157,7 +149,6 @@ GLOSSARY:
   Board game = 보드게임
   Eritrea = 에리트레아
   Ethiopia = 에티오피아
-  Family = 가족
   Jordan = 요르단
   Louisiana = 루이지애나주
   Warra = 와라
@@ -176,7 +167,6 @@ GLOSSARY:
   2002 Commonwealth Games = 2002년 커먼웰스 게임
   Area = 넓이
   Canal = 운하
-  City = 도시
   Commonwealth = 영연방
   Commonwealth Games = 영연방 경기 대회
   Deindustrialization = 탈산업화
@@ -211,7 +201,6 @@ HEADWORD: Manchester, New Hampshire = 맨체스터
 LEVEL: 5
 GLOSSARY:
   Amoskeag Manufacturing Company = 아모스키그 제조 회사
-  City = 도시
   DEKA = DEKA
   England = 잉글랜드
   Hampshire = 햄프셔
@@ -354,7 +343,6 @@ GLOSSARY:
   Amarapura = 아마라푸라
   British Empire = 대영 제국
   Burma = 버마
-  City = 도시
   Irrawaddy = 이라와디강
   Irrawaddy River = 이라와디강
   King Mindon = 민돈 왕
@@ -386,7 +374,6 @@ GLOSSARY:
   Singapore = 싱가포르
   Sinitic = 중국어파
   Sinitic languages = 중국어파
-  Standard = 스탠더드
   Standard Chinese = 표준 중국어
   Taiwan = 타이완
   United Nations = 국제 연합
@@ -419,7 +406,6 @@ HEADWORD: Mandate of Heaven = 천명
 LEVEL: 4
 GLOSSARY:
   China = 중국
-  Famine = 기근
   Han = 한나라
   Heaven = 천국
   Mencius = 『맹자』
@@ -443,7 +429,6 @@ GLOSSARY:
   Balfour Declaration = 밸푸어 선언
   Egypt = 이집트
   Gaza Strip = 가자 지구
-  Immigration = 이민
   Israel = 이스라엘
   Jewish insurgency = 유대인 무장 봉기
   League of Nations = 국제 연맹
@@ -492,7 +477,6 @@ GLOSSARY:
   Irish = 아일랜드어
   Italy = 이탈리아
   Lute = 류트
-  Metal = 금속
   Neapolitan mandolin = 나폴리 만돌린
   String instrument = 현악기
   Violin = 바이올린
@@ -533,7 +517,6 @@ GLOSSARY:
   Canidae = 개과
   IUCN = 국제 자연 보전 연맹
   Paraguay = 파라과이
-  Solanum = 가지속
   Solanum lycocarpum = 솔라눔 리코카르품
   South America = 남아메리카
   Stem cell = 줄기세포
@@ -555,7 +538,6 @@ GLOSSARY:
   Flying Circus = 비행 서커스
   France = 프랑스
   Freiherr = 프라이헤어
-  German = 독일어
   Jagdgeschwader I = 제1전투비행단(JG I)
   Jasta 11 = 제11전투비행대(Jasta 11)
   Prussia = 프로이센
@@ -573,9 +555,7 @@ German [[World War I]] fighter pilot, known as the Red Baron. Born near [[Wrocł
 HEADWORD: Manga = 망가
 LEVEL: 4
 GLOSSARY:
-  Comics = 만화
   Japan = 일본
-  Manga = 만화
   NPD BookScan = NPD 북스캔
   Osamu Tezuka = 데즈카 오사무
   Science fiction = 과학 소설
@@ -622,7 +602,6 @@ GLOSSARY:
   India = 인도
   Indian subcontinent = 인도 아대륙
   Mangifera indica = 망기페라 인디카
-  Mango = 망고
   Myanmar = 미얀마
   Pakistan = 파키스탄
   Philippines = 필리핀
@@ -658,9 +637,7 @@ LEVEL: 4
 GLOSSARY:
   Brackish water = 기수
   Carbon = 탄소
-  Human = 인간
   Indonesia = 인도네시아
-  Restoration = 왕정복고
   Shrub = 관목
   Tsunami = 쓰나미
   brackish water = 기수
@@ -675,7 +652,6 @@ GLOSSARY:
   Amsterdam = 암스테르담
   City = 도시
   County (United States) = 카운티
-  Dutch = 네덜란드어
   Harbor = 항구
   Liberty = 자유
   Lower Manhattan = 로어맨해튼
@@ -879,7 +855,6 @@ GLOSSARY:
   Imphal = 임팔
   Imphal Valley = 임팔 계곡
   India = 인도
-  Manipur = 마니푸르주
   Meitei = 메이테이족
   Meitei people = 메이테이족
   Northeast India = 인도 북동부
@@ -896,7 +871,6 @@ GLOSSARY:
   Arctic tundra = 북극 툰드라
   Canada = 캐나다
   Confederation = 캐나다 연방
-  French = 프랑스어
   Hudson Bay = 허드슨만
   Hudson's Bay Company = 허드슨베이 회사
   Louis Riel = 루이 리엘
@@ -955,7 +929,6 @@ HEADWORD: Pacquiao, Manny = 파키아오, 매니
 LEVEL: 5
 GLOSSARY:
   ESPN = ESPN
-  Filipino = 필리핀어
   Forbes = 『포브스』
   PacMan = 팩맨
   Philippines = 필리핀

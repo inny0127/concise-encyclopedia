@@ -56,7 +56,6 @@ GLOSSARY:
   Mayonnaise = 마요네즈
   Michael Faraday = 마이클 패러데이
   Milk = 우유
-  Mixture = 혼합물
   Pure = 「퓨어」
   Thomas = 토머스
   Thomas Graham = 토머스 그레이엄
@@ -71,7 +70,6 @@ Mixture of microscopically dispersed insoluble particles suspended throughout an
 HEADWORD: Cologne = 쾰른
 LEVEL: 4
 GLOSSARY:
-  City = 도시
   Cologne = 쾰른
   Cologne Cathedral = 쾰른 대성당
   Colonia Agrippina = 콜로니아 아그리피나
@@ -103,9 +101,7 @@ GLOSSARY:
   Archbishop of Cologne = 쾰른 대주교
   Catholic = 가톨릭
   Cologne = 쾰른
-  Construction = 건설
   Germany = 독일
-  Gothic = 고딕
   Gothic architecture = 고딕 건축
   Kings = 킹스
   Three Kings = 동방 박사
@@ -136,8 +132,6 @@ GLOSSARY:
   France = 프랑스
   Gran Colombia = 그란콜롬비아
   Granada = 그라나다
-  Independence = 인디펜던스
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   La Guajira = 라과히라
   Medellín = 메데인
@@ -154,7 +148,6 @@ GLOSSARY:
   Panama = 파나마
   Peru = 페루
   Republic of Colombia = 콜롬비아 공화국
-  Security = 보안
   South America = 남아메리카
   Spanish Empire = 스페인 제국
   Venezuela = 베네수엘라
@@ -191,7 +184,6 @@ Largest city and executive and judicial capital of [[Sri Lanka]], on the island'
 HEADWORD: Sanders, Harland David = 샌더스, 할랜드 데이비드
 LEVEL: 5
 GLOSSARY:
-  Brown = 브라운
   Chicken = 닭
   Corbin = 코빈
   Filling station = 주유소
@@ -202,7 +194,6 @@ GLOSSARY:
   Kentucky = 켄터키주
   Kentucky Fried Chicken = 켄터키 프라이드 치킨
   North Corbin = 노스코빈
-  Sanders = 샌더스
   Utah = 유타주
   steam engine = 증기 기관
 ENTRY:
@@ -287,10 +278,8 @@ LEVEL: 3
 GLOSSARY:
   CIE Lab = CIE Lab
   CMYK = CMYK
-  Color = 색
   Color spaces = 색 공간
   Goethe = 괴테
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Johann Wolfgang von Goethe = 요한 볼프강 폰 괴테
   Newton = 뉴턴
@@ -298,7 +287,6 @@ GLOSSARY:
   ROYGBIV = ROYGBIV
   Theory = 이론
   Theory of Colors = 『색채론』
-  Thomas = 토머스
   Thomas Young = 토머스 영
   Ultraviolet = 자외선
   Visible spectrum = 가시 스펙트럼
@@ -332,10 +320,8 @@ HEADWORD: Color temperature = 색온도
 LEVEL: 5
 GLOSSARY:
   Kelvin = 켈빈
-  Light = 빛
   Lighting = 조명
   Photography = 사진
-  Property = 재산
   Sun = 태양
   black body = 흑체
   correlated color temperature = 상관 색온도
@@ -365,7 +351,6 @@ HEADWORD: Color vision = 색각
 LEVEL: 4
 GLOSSARY:
   Animal = 동물
-  Color = 색
   Color blindness = 색맹
   Color vision = 색각
   Hermann von Helmholtz = 헤르만 폰 헬름홀츠
@@ -423,7 +408,6 @@ HEADWORD: Colorado Springs = 콜로라도스프링스
 LEVEL: 5
 GLOSSARY:
   Air Force = 항공 및 반항공군
-  City = 도시
   Colorado = 콜로라도주
   Creek = 크리크족
   Denver = 덴버
@@ -447,11 +431,9 @@ City in east-central Colorado (pop., 2020: 478,961), county seat of El Paso Coun
 HEADWORD: Colorectal cancer = 대장암
 LEVEL: 4
 GLOSSARY:
-  Cancer = 암
   Chemotherapy = 화학 요법
   Obesity = 비만
   Radiation therapy = 방사선 치료
-  Signs = 「싸인」
   Smoking = 흡연
   Surgery = 수술
   United States = 미국
@@ -474,7 +456,6 @@ GLOSSARY:
   Mesonychoteuthis hamiltoni = Mesonychoteuthis hamiltoni
   Ocean = 대양
   Southern Ocean = 남극해
-  Species = 종
   Sperm whale = 향유고래
   Squid = 오징어
   ambush predator = 매복 포식자
@@ -601,7 +582,6 @@ GLOSSARY:
   Pacific = 태평양
   Pacific Northwest = 태평양 연안 북서부
   Pacific Ocean = 태평양
-  Plutonium = 플루토늄
   Robert Gray = 로버트 그레이
   Rocky Mountains = 로키산맥
   U.S. states = 미국의 주
@@ -618,7 +598,6 @@ LEVEL: 5
 GLOSSARY:
   American Civil War = 남북 전쟁
   Broad = 브로드강
-  City = 도시
   Civil War = 남북 전쟁
   Columbia = 컬럼비아
   Congaree River = 콩가리강
@@ -699,7 +678,6 @@ Widespread transfer of plants, animals and diseases between the Old and New Worl
 HEADWORD: Columbidae = 비둘기과
 LEVEL: 4
 GLOSSARY:
-  Bird = 조류
   Columbiformes = 비둘기목
   Dodo = 도도
   Passenger pigeon = 나그네비둘기
@@ -741,7 +719,6 @@ GLOSSARY:
   Link = 링크
   Los Angeles = 로스앤젤레스
   NBC = NBC
-  Peter = 베드로
   Peter Falk = 피터 포크
   Primetime Emmy = 프라임타임 에미상
   Primetime Emmy Awards = 프라임타임 에미상
@@ -808,7 +785,6 @@ GLOSSARY:
   Brainstem = 뇌줄기
   Cerebral cortex = 대뇌 피질
   Coma = 혼수
-  Consciousness = 의식
   Glasgow = 글래스고
   Glasgow Coma Scale = 글래스고 혼수 척도
   Hypoglycemia = 저혈당증
@@ -842,7 +818,6 @@ LEVEL: 4
 GLOSSARY:
   Algebra = 대수학
   Blaise Pascal = 블레즈 파스칼
-  Branch = 브랜치
   Computer science = 컴퓨터 과학
   Graph theory = 그래프 이론
   Jacob Bernoulli = 야코프 베르누이
@@ -909,7 +884,6 @@ GLOSSARY:
   Carbon dioxide = 이산화 탄소
   Carbon monoxide = 일산화 탄소
   Catalytic converter = 촉매 변환기
-  Combustion = 연소
   Redox = 산화 환원 반응
   Rocket engine = 로켓 엔진
   Soot = 그을음

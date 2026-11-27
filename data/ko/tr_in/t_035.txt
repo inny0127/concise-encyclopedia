@@ -101,7 +101,6 @@ GLOSSARY:
   Second = 초
   Second World = 제2세계
   Second World War = 제2차 세계 대전
-  Third = 교향곡 제3번
   World = 세계
   World War II = 제2차 세계 대전
   kamikaze = 가미카제
@@ -147,7 +146,6 @@ GLOSSARY:
   Guadalcanal = 과달카날섬
   Guadalcanal campaign = 과달카날 전역
   Isoroku Yamamoto = 야마모토 이소로쿠
-  Japan = 일본
   Midway = 미드웨이
   Midway Atoll = 미드웨이 환초
   Pacific = 태평양
@@ -415,7 +413,6 @@ GLOSSARY:
   San Antonio = 샌안토니오
   San Jacinto = 샌재신토
   Santa Anna = 산타 아나
-  Siege = 공성전
   Texas = 텍사스주
   Texas Revolution = 텍사스 혁명
   Texians = 텍사스인
@@ -580,7 +577,6 @@ GLOSSARY:
   Grigori Alexandrov = 그리고리 알렉산드로프
   Nazi = 나치
   Nazi Germany = 나치 독일
-  Odessa = 오데사
   Odessa Steps = 오데사 계단
   Potemkin = 포템킨호
   Russian = 러시아어
@@ -632,8 +628,6 @@ GLOSSARY:
   Kievan Rus' = 키예프 루스
   Legnica = 레그니차
   Mohi = 모히
-  Mongol = 몽골
-  Rus' = 루스
   Ryazan = 랴잔
   Sarai = 사라이
   Subutai = 수부타이
@@ -652,7 +646,6 @@ GLOSSARY:
   Bauhaus = 바우하우스
   Berlin = 베를린
   Dessau = 데사우
-  German = 독일어
   Mass production = 대량 생산
   Nazi = 나치
   Paul = 바울로
@@ -671,7 +664,6 @@ GLOSSARY:
   Aluminium = 알루미늄
   Australia = 오스트레일리아
   Basalt = 현무암
-  Bauxite = 보크사이트
   Bayer = 바이엘
   Bayer process = 바이어 공법
   China = 중국
@@ -801,7 +793,6 @@ Gulf of the northeast [[Atlantic Ocean]] located south of the Celtic Sea. It lie
 HEADWORD: Bay of Pigs Invasion = 피그스만 침공
 LEVEL: 5
 GLOSSARY:
-  Brigade = 브리게이드
   Brigade 2506 = 2506 여단
   Central Intelligence Agency = 중앙 정보국
   Cuba = 쿠바
@@ -811,7 +802,6 @@ GLOSSARY:
   Intelligence = 지능
   John = 존
   John F. Kennedy = 존 F. 케네디
-  Kennedy = 케네디
   Missile = 미사일
   Playa Girón = 플라야히론
   Soviet Union = 소련
@@ -891,7 +881,6 @@ GLOSSARY:
   Markov chain Monte Carlo = 마르코프 연쇄 몬테카를로
   Monte Carlo = 몬테카를로
   Probability distribution = 확률 분포
-  Theory = 이론
   frequentist = 빈도주의
   prior distribution = 사전 분포
   relative frequency = 상대도수

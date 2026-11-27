@@ -44,7 +44,6 @@ LEVEL: 4
 GLOSSARY:
   Association football = 축구
   British Empire = 대영 제국
-  City = 도시
   Commonwealth = 영연방
   Commonwealth Games = 영연방 경기 대회
   Culture = 문화
@@ -72,10 +71,8 @@ HEADWORD: Glass = 유리
 LEVEL: 3
 GLOSSARY:
   Amorphous solid = 비정질 고체
-  Boron = 붕소
   Calcium oxide = 산화 칼슘
   Egypt = 이집트
-  Glass = 유리
   Glassblowing = 유리 불기
   Lens = 렌즈
   Mesopotamia = 메소포타미아
@@ -114,7 +111,6 @@ GLOSSARY:
   Lens = 렌즈
   Myopia = 근시
   Presbyopia = 노안
-  Safety = 안전
   Skiing = 스키
   Squash (sport) = 스쿼시
   Ultraviolet = 자외선
@@ -130,7 +126,6 @@ HEADWORD: Glaucoma = 녹내장
 LEVEL: 5
 GLOSSARY:
   African Americans = 아프리카계 미국인
-  Glaucoma = 녹내장
   Surgery = 수술
   aqueous humor = 방수
   closed-angle glaucoma = 폐쇄각 녹내장
@@ -153,7 +148,6 @@ GLOSSARY:
   Rhinestone Cowboy = 「라인스톤 카우보이」
   The Glen Campbell Goodtime Hour = 「글렌 캠벨 굿타임 아워」
   The Wrecking Crew = 더 레킹 크루
-  Wichita = 위치토
   Wichita Lineman = 「위치토 라인맨」
   Wrecking Crew = 레킹 크루
 ENTRY:
@@ -194,7 +188,6 @@ LEVEL: 4
 GLOSSARY:
   Bach = 바흐
   Beethoven = 베토벤
-  Canadian = 캐나다
   Fugue = 푸가
   Hindemith = 힌데미트
   Johann Sebastian Bach = 요한 제바스티안 바흐
@@ -238,7 +231,6 @@ HEADWORD: Glider = 글라이더
 LEVEL: 4
 GLOSSARY:
   Fixed-wing aircraft = 고정익 항공기
-  Military = 군대
   Otto Lilienthal = 오토 릴리엔탈
   Sport = 스포츠
   World = 세계
@@ -271,10 +263,8 @@ GLOSSARY:
   Northern Hemisphere = 북반구
   Oceania = 오세아니아
   South Korea = 대한민국
-  Third = 교향곡 제3번
   Third World = 제3세계
   Trade = 교역
-  UNCTAD = 유엔 무역 개발 회의
   World = 세계
   Zealand = 셸란섬
   least developed countries = 최빈개도국
@@ -327,7 +317,6 @@ GLOSSARY:
   General Agreement on Tariffs and Trade = 관세 및 무역에 관한 일반 협정
   Industrial Revolution = 산업 혁명
   International trade = 국제 무역
-  Others = 아더
   Trade = 교역
   World = 세계
   World Trade Organization = 세계 무역 기구
@@ -535,7 +524,6 @@ GLOSSARY:
   Photon = 광자
   Quantum chromodynamics = 양자 색역학
   Quantum electrodynamics = 양자 전기역학
-  Richard = 리처드
   Richard Feynman = 리처드 파인먼
   Strong interaction = 강한 상호작용
   color charge = 색전하
@@ -555,12 +543,10 @@ Massless [[Elementary particle|elementary particle]] that mediates the [[Strong 
 HEADWORD: Glycerol = 글리세롤
 LEVEL: 5
 GLOSSARY:
-  Glycerol = 글리세롤
   Nitroglycerin = 니트로글리세린
   Saponification = 비누화
   Soap = 비누
   Sodium hydroxide = 수산화 나트륨
-  Sugar = 설탕
   Sugar alcohol = 당알코올
   World = 세계
   World War II = 제2차 세계 대전
@@ -681,12 +667,10 @@ GLOSSARY:
   Demiurge = 데미우르고스
   Egypt = 이집트
   Gnostic = 영지주의
-  Gnosticism = 영지주의
   Hebrew = 히브리어
   Hebrew Bible = 히브리어 성경
   Heresy = 이단
   Nag Hammadi library = 나그함마디 문서
-  Salvation = 구원
   Yahweh = 야훼
   gnosis = 그노시스
 ENTRY:
@@ -759,7 +743,6 @@ GLOSSARY:
   Mongolian = 몽골어
   Mongolian wild ass = 몽골야생당나귀
   North China = 화베이
-  Winter = 겨울
   black-tailed gazelles = 고이터드가젤
   gov' = 고비
   marbled polecats = 얼룩무늬족제비
@@ -831,7 +814,6 @@ The English word derives from Proto-Germanic ǥuđan (reconstructed). Its earlie
 HEADWORD: God of War = 갓 오브 워
 LEVEL: 5
 GLOSSARY:
-  Action-adventure = 액션 어드벤처
   Atreus = 아트레우스
   David = 다윗
   David Jaffe = 데이비드 재피
@@ -868,6 +850,5 @@ GLOSSARY:
   Maharashtra = 마하라슈트라주
   Nashik = 나시크
   Plateau = 고원
-  River = 강
 ENTRY:
 River of south-central India, second only to the [[Ganges]] in length. It rises near Nashik in Maharashtra, about 80 km from the [[Arabian Sea]], and flows 1,465 km east across the [[Deccan Plateau]] before entering the [[Bay of Bengal]] through a broad delta. Its 312,812 sq km basin covers about 10% of India's area and is the third largest in India, after those of the Ganga and Indus. In length, catchment area and discharge it is the largest river of peninsular India, and it has been called the *Dakshina Ganga* ("Southern Ganges"). Barrages and dams now hold back much of its flow. The delta, with 729 persons per sq km, is nearly twice the Indian average density and faces a substantial flood risk.

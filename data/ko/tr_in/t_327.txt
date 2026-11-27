@@ -32,7 +32,6 @@ GLOSSARY:
   Hebrew = 히브리어
   Hebrew Bible = 히브리어 성경
   Iran = 이란
-  Jacques = 자크 퀴리
   Jacques de Morgan = 자크 드 모르간
   Louvre = 루브르 박물관
   Morgan = 모건
@@ -122,7 +121,6 @@ GLOSSARY:
   Southeast = 남동부
   Southeast Asia = 동남아시아
   Soy sauce = 간장
-  Sushi = 초밥
   Tuna = 다랑어
   Wasabi = 와사비
   Yayoi period = 야요이 시대
@@ -181,7 +179,6 @@ GLOSSARY:
   Economy = 경제
   Pollution = 오염
   Society = 사회
-  Sustainability = 지속 가능성
   Sustainable development = 지속 가능한 발전
   UNESCO = 유네스코
   biodiversity loss = 생물 다양성 손실
@@ -197,7 +194,6 @@ GLOSSARY:
   Biodiversity = 생물 다양성
   Climate change = 기후 변화
   Deforestation = 삼림 벌채
-  Meta-analyses = 메타분석
   Soil = 토양
   adverse effects = 부작용
   agroforestry = 혼농임업
@@ -276,7 +272,6 @@ GLOSSARY:
   Norwegian = 노르웨이어
   Ocean = 대양
   Polar bear = 북극곰
-  Seven = 「세븐」
   Spitsbergen = 스피츠베르겐섬
   Svalbard = 스발바르 제도
   Svalbard Treaty = 스발바르 조약
@@ -375,8 +370,6 @@ GLOSSARY:
   Olga = 올가
   Pereyaslavets = 페레야슬라베츠
   Pontic steppe = 폰토스 초원
-  Prince = 후작
-  Rus' = 루스
   Vladimir = 블라디미르
   Volga = 볼가강
   Volga Bulgars = 볼가 불가르족
@@ -461,7 +454,6 @@ LEVEL: 4
 GLOSSARY:
   Antarctica = 남극 대륙
   Early Miocene = 전기 마이오세
-  Family = 가족
   Genus = 속
   Hirundinidae = 제비과
   Ireland = 아일랜드
@@ -562,7 +554,6 @@ GLOSSARY:
   Marius Petipa = 마리우스 프티파
   Moscow = 모스크바
   Odette = 오데트
-  Petersburg = 피터즈버그
   Pyotr Ilyich Tchaikovsky = 표트르 일리치 차이콥스키
   Riccardo Drigo = 리카르도 드리고
   St. Petersburg = 상트페테르부르크
@@ -601,7 +592,6 @@ GLOSSARY:
   Copperopolis = 코퍼로폴리스
   Gower Peninsula = 가워반도
   Peninsula = 반도
-  Port = 항구
   Swansea = 스완지
   Swansea Bay = 스완지만
   Tawe = 타위강
@@ -683,7 +673,6 @@ GLOSSARY:
   Norwegian = 노르웨이어
   Old Norse = 고대 노르드어
   Scandinavia = 스칸디나비아
-  Standard = 스탠더드
   Sweden = 스웨덴
   Swedish = 스웨덴어
   Viking = 바이킹
@@ -718,7 +707,6 @@ HEADWORD: Swift = 칼새
 LEVEL: 4
 GLOSSARY:
   Apodidae = 칼샛과
-  Family = 가족
   Hummingbird = 벌새
   Insect = 곤충
   Passerine = 참새목
@@ -753,7 +741,6 @@ HEADWORD: Swimming = 수영
 LEVEL: 3
 GLOSSARY:
   Buoyancy = 부력
-  Cave = 동굴
   Competitive swimming = 경영
   Egypt = 이집트
   Europe = 유럽
@@ -860,7 +847,6 @@ GLOSSARY:
   Federalism = 연방주의
   French = 프랑스어
   GDP per capita = 1인당 국내 총생산
-  German = 독일어
   Holy Roman Empire = 신성 로마 제국
   Peace = 평화
   Peace of Westphalia = 베스트팔렌 조약
@@ -870,7 +856,6 @@ GLOSSARY:
   Romansh = 로망슈어
   Swiss Confederation = 스위스 연방
   Swiss Plateau = 스위스고원
-  Switzerland = 스위스
   United Nations = 국제 연합
   Westphalia = 베스트팔렌
   armed neutrality = 무장 중립
@@ -907,7 +892,6 @@ GLOSSARY:
   Heater cells = 발열 세포
   Marlin = 청새치
   Pacific = 태평양
-  Swordfish = 황새치
   Tuna = 다랑어
   Xiphiidae = 황새칫과
 ENTRY:

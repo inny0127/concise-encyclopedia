@@ -122,7 +122,6 @@ GLOSSARY:
   Karl Marx = 카를 마르크스
   Marx = 마르크스
   Talcott Parsons = 탤컷 파슨스
-  Thomas = 토머스
   Thomas Hobbes = 토머스 홉스
   principle of extensiveness = 확장성의 원리
   social contract = 사회 계약
@@ -142,12 +141,9 @@ Methodical study of how thoughts, feelings, and behaviors are influenced by the 
 HEADWORD: Social reality = 사회적 실재
 LEVEL: 4
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred Schütz = 알프레트 슈츠
   Herbert Spencer = 허버트 스펜서
-  John = 존
   John Searle = 존 설
-  Peter = 베드로
   Peter L. Berger = 피터 L. 버거
   Reality = 실재
   Speech act = 화행
@@ -168,7 +164,6 @@ LEVEL: 4
 GLOSSARY:
   Census = 인구 조사
   Data analysis = 데이터 분석
-  Research = 연구
   intercoder reliability = 코더 간 신뢰도
   program evaluation = 프로그램 평가
   qualitative = 질적
@@ -183,7 +178,6 @@ GLOSSARY:
   Age of Enlightenment = 계몽주의 시대
   Anthropology = 인류학
   Auguste Comte = 오귀스트 콩트
-  Branch = 브랜치
   Charles Fourier = 샤를 푸리에
   Comte = 콩트
   Economics = 경제학
@@ -279,9 +273,7 @@ GLOSSARY:
   Marx = 마르크스
   Revolutions of 1989 = 1989년 혁명
   Social democracy = 사회 민주주의
-  Socialist = 사회당
   Soviet Union = 소련
-  Third = 교향곡 제3번
   Third Way = 제3의 길
   War = 전쟁
   World = 세계
@@ -351,14 +343,12 @@ GLOSSARY:
   French = 프랑스어
   Functionalism = 기능주의
   Gerhard Lenski = 게르하르트 렌스키
-  Human = 인간
   Ibn Khaldun = 이븐 할둔
   José Rizal = 호세 리살
   Karl Marx = 카를 마르크스
   Latin = 라틴어
   Marx = 마르크스
   Max Weber = 막스 베버
-  Peter = 베드로
   Peter L. Berger = 피터 L. 버거
   Republic = 『국가』
   Roman Republic = 로마 공화정
@@ -458,7 +448,6 @@ GLOSSARY:
   Positivism = 실증주의
   Social science = 사회 과학
   Tunisia = 튀니지
-  Writing = 문자
   agent-based modeling = 행위자 기반 모형
   class conflict = 계급 투쟁
   digital sociology = 디지털 사회학
@@ -649,13 +638,11 @@ HEADWORD: Sodium = 나트륨
 LEVEL: 4
 GLOSSARY:
   Alkali metal = 알칼리 금속
-  Animal = 동물
   Chemical element = 화학 원소
   Earth's crust = 지각
   Feldspar = 장석
   Humphry Davy = 험프리 데이비
   Potassium = 칼륨
-  Sodium = 나트륨
   Sodium hydroxide = 수산화 나트륨
   extracellular fluid = 세포외액
   halite = 암염

@@ -30,7 +30,6 @@ GLOSSARY:
   Mexico = 멕시코
   Réunion = 레위니옹
   Saffron = 사프란
-  Spice = 향신료
   Totonac = 토토나크족
   V. planifolia = V. planifolia
   Vanilla = 바닐라
@@ -46,9 +45,7 @@ GLOSSARY:
   Commonwealth = 영연방
   Commonwealth of Nations = 영연방
   Fernandes de Queirós = 페르난드스 드 케이로스
-  France = 프랑스
   Hebrides = 헤브리디스 제도
-  Independence = 인디펜던스
   Lapita = 라피타
   Lapita culture = 라피타 문화
   Melanesia = 멜라네시아
@@ -77,8 +74,6 @@ GLOSSARY:
   Liquid = 액체
   Mercury-vapor = 수은 증기
   Temperature = 온도
-  Vapor = 증기
-  Water = 물
   Water vapor = 수증기
   critical temperature = 임계 온도
   evaporation = 증발
@@ -141,7 +136,6 @@ GLOSSARY:
   Alexandria = 알렉산드리아
   Arithmetica = 『산술』
   Descartes = 데카르트
-  Diophantus = 디오판토스
   Diophantus of Alexandria = 알렉산드리아의 디오판토스
   Elements = 『원론』
   Euclid's Elements = 『원론』
@@ -154,7 +148,6 @@ GLOSSARY:
   Quadratic equation = 이차 방정식
   Real number = 실수
   René Descartes = 르네 데카르트
-  Symbol = 기호
   domain = 정의역
   mathematical logic = 수리 논리학
   parameter = 매개변수
@@ -173,7 +166,6 @@ GLOSSARY:
   Algol = 알골
   Cepheid variables = 세페이드 변광성
   Earth = 지구
-  Star = 항성
   Sun = 태양
   Supernova = 초신성
   eclipsing binary = 식쌍성
@@ -190,7 +182,6 @@ GLOSSARY:
   Population variance = 모분산
   Standard deviation = 표준 편차
   Statistics = 통계학
-  Variance = 분산
   descriptive statistics = 기술 통계학
   hypothesis testing = 가설 검정
   random variable = 확률 변수
@@ -414,7 +405,6 @@ GLOSSARY:
   Paul = 바울로
   Paul Gauguin = 폴 고갱
   Pinacoteca Vaticana = 바티칸 회화관
-  Pope = 교황
   Pope Julius II = 교황 율리오 2세
   Raphael = 라파엘로
   Sistine Chapel = 시스티나 성당
@@ -432,13 +422,11 @@ LEVEL: 5
 GLOSSARY:
   Acrobatics = 곡예
   Canada = 캐나다
-  Genre = 장르
   Harry Houdini = 해리 후디니
   Magic (illusion) = 마술
   Normandy = 노르망디
   United States = 미국
   Vau de Vire = 보드비르
-  Vaudeville = 보드빌
   burlesque = 벌레스크
   concert saloon = 콘서트 살롱
   escape artists = 탈출 마술사
@@ -451,7 +439,6 @@ Genre of variety entertainment popular in the United States and Canada until the
 HEADWORD: Vector calculus = 벡터 미적분학
 LEVEL: 4
 GLOSSARY:
-  Branch = 브랜치
   Cross product = 벡터곱
   Del = 델
   Electromagnetic field = 전자기장
@@ -490,7 +477,6 @@ GLOSSARY:
   Hilbert space = 힐베르트 공간
   Linear algebra = 선형대수학
   Natural number = 자연수
-  Polynomial = 다항식
   Polynomial rings = 다항식환
   Velocity = 속도
   cardinality of the continuum = 연속체의 농도
@@ -549,7 +535,6 @@ GLOSSARY:
   Charvaka = 차르바카
   Hindu philosophy = 힌두 철학
   Hinduism = 힌두교
-  Hindus = 힌두교도
   India = 인도
   Indra = 인드라
   Jainism = 자이나교
@@ -621,7 +606,6 @@ GLOSSARY:
   Sun = 태양
   Telescope = 망원경
   Variable star = 변광성
-  Vega = 베가
   northern celestial hemisphere = 북천구
   photometric brightness scale = 측광 등급 체계
   pole star = 북극성
@@ -685,7 +669,6 @@ GLOSSARY:
   South America = 남아메리카
   Subsistence agriculture = 자급 농업
   Tariff of 1883 = 1883년 관세법
-  Today = 「투데이」
   Tomato = 토마토
   U.S. Supreme Court = 미국 연방 대법원
   Vitamin = 비타민
@@ -816,7 +799,6 @@ GLOSSARY:
   Islam = 이슬람교
   Judaism = 유대교
   Middle Assyrian law code = 중기 아시리아 법전
-  Today = 「투데이」
   Wedding = 결혼식
   ancient Greece = 고대 그리스
   flammeum = 플람메움
@@ -828,7 +810,6 @@ Cloth worn to cover the head or face, or hung over an object of significance. Ve
 HEADWORD: Vein = 정맥
 LEVEL: 4
 GLOSSARY:
-  Blood = 혈액
   Capillary = 모세 혈관
   Heart = 심장
   Muscle contraction = 근육 수축
@@ -889,13 +870,11 @@ HEADWORD: Velocity = 속도
 LEVEL: 3
 GLOSSARY:
   Acceleration = 가속도
-  Average = 평균
   Classical mechanics = 고전 역학
   Derivative = 도함수
   Integral = 적분
   International System of Units = 국제단위계
   Kinematics = 운동학
-  Measurement = 측정
   Special relativity = 특수 상대성 이론
   Speed = 속력
   Torricelli = 토리첼리
@@ -942,7 +921,6 @@ GLOSSARY:
   Italy = 이탈리아
   Kingdom of Italy = 이탈리아 왕국
   Napoleonic Wars = 나폴레옹 전쟁
-  Once = 『Once』
   Republic of Venice = 베네치아 공화국
   Roman Empire = 로마 제국
   Veneto = 베네토
@@ -960,11 +938,9 @@ GLOSSARY:
   Colombia = 콜롬비아
   Delcy Rodríguez = 델시 로드리게스
   Gran Colombia = 그란콜롬비아
-  Hugo = 휴고상
   Hugo Chávez = 우고 차베스
   Hyperinflation = 초인플레이션
   Nicolás Maduro = 니콜라스 마두로
-  Poverty = 빈곤
   Republic of Colombia = 콜롬비아 공화국
   South America = 남아메리카
   Spain = 스페인

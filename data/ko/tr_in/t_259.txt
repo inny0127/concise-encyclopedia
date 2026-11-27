@@ -12,7 +12,6 @@ GLOSSARY:
   Nobel Prize = 노벨상
   Nobel Prize in Physiology or Medicine = 노벨 생리학·의학상
   Oxford = 옥스퍼드
-  Penicillin = 페니실린
   Penicillin G = 페니실린 G
   Penicillium = 페니실리움속
   Penicillium chrysogenum = Penicillium chrysogenum
@@ -34,7 +33,6 @@ GLOSSARY:
   Greece = 그리스
   Isthmus = 지협
   Isthmus of Corinth = 코린트 지협
-  Landform = 지형
   Neanderthals = 네안데르탈인
   Peloponnese = 펠로폰네소스반도
   Peninsula = 반도
@@ -96,7 +94,6 @@ LEVEL: 4
 GLOSSARY:
   Appalachian Mountains = 애팔래치아산맥
   Cellicon State = 셀리콘 스테이트
-  Constitution = 헌법
   Continental Congresses = 대륙 회의
   Delaware = 델라웨어주
   Delaware River = 델라웨어강
@@ -149,7 +146,6 @@ GLOSSARY:
   Government = 정부
   Insurance = 보험
   New Zealand = 뉴질랜드
-  Retirement = 은퇴
   Roman emperor = 로마 황제
   Trade union = 노동조합
   United Kingdom = 영국
@@ -260,7 +256,6 @@ GLOSSARY:
   Chile = 칠레
   Clovis = 클로비스
   Clovis culture = 클로비스 문화
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Last Glacial Maximum = 최종 빙기 최성기
   Monte Verde = 몬테베르데
@@ -378,7 +373,6 @@ GLOSSARY:
   Australia = 오스트레일리아
   Dasyuromorphia = 주머니고양이목
   Diprotodontia = 쌍앞니목
-  Fossil = 화석
   Guinea = 기니
   Holocene = 홀로세
   Marsupial = 유대류
@@ -398,7 +392,6 @@ GLOSSARY:
   Ancient Rome = 고대 로마
   Augustus = 아우구스투스
   Latin = 라틴어
-  Number = 수
   Rome = 로마
   per centum = per centum
 ENTRY:
@@ -414,8 +407,6 @@ GLOSSARY:
   Learning = 학습
   Memory = 기억
   Nervous system = 신경계
-  Once = 『Once』
-  Perception = 지각
   Psychology = 심리학
   distal stimulus = 원격 자극
   experimental psychology = 실험 심리학
@@ -659,7 +650,6 @@ GLOSSARY:
   Indus Valley civilization = 인더스 문명
   Latin = 라틴어
   Mesopotamia = 메소포타미아
-  Mixture = 혼합물
   Muslims = 무슬림
   Persian = 페르시아어
   Romans = 로마인
@@ -701,7 +691,6 @@ GLOSSARY:
   Diamond = 다이아몬드
   Earth's crust = 지각
   Olivine = 감람석
-  Peridot = 페리도트
   chrysolite = 귀감람석
   forsterite = 고토감람석
   upper mantle = 상부 맨틀
@@ -716,7 +705,6 @@ GLOSSARY:
   Chemical element = 화학 원소
   Dmitri Mendeleev = 드미트리 멘델레예프
   Electron configuration = 전자 배치
-  Elements = 『원론』
   Isotope = 동위 원소
   Quantum mechanics = 양자역학
   Russian = 러시아어
@@ -785,7 +773,6 @@ GLOSSARY:
   Greenland = 그린란드
   Methane = 메탄
   Northern Hemisphere = 북반구
-  Permafrost = 영구 동토층
   Plateau = 고원
   Siberia = 시베리아
   Soil = 토양
@@ -820,7 +807,6 @@ LEVEL: 4
 GLOSSARY:
   Capitanian mass extinction = 캐피탄절 대멸종
   Carboniferous = 석탄기
-  Desert = 사막
   Emeishan Traps = 어메이산 트랩
   Paleozoic = 고생대
   Paleozoic Era = 고생대
@@ -878,7 +864,6 @@ HEADWORD: Persecution of Uyghurs in China = 중국의 위구르족 박해
 LEVEL: 5
 GLOSSARY:
   China = 중국
-  Human = 인간
   Human rights = 인권
   Turkic = 튀르크계
   U.S. Department of State = 미국 국무부

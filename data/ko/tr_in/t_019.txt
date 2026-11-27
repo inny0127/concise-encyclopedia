@@ -26,7 +26,6 @@ American landscape photographer and environmentalist known for black-and-white i
 HEADWORD: Anselm of Canterbury = 캔터베리의 안셀무스
 LEVEL: 4
 GLOSSARY:
-  Anselm = 안셀무스
   Benedictine = 베네딕토회
   Canterbury = 캔터베리
   Church = 처치
@@ -59,7 +58,6 @@ GLOSSARY:
   Formicidae = 개미과
   Hymenoptera = 벌목
   Insect = 곤충
-  Solenopsis = 솔레놉시스속
   Solenopsis invicta = Solenopsis invicta
   Species = 종
   biological pest control = 생물학적 방제
@@ -127,7 +125,6 @@ GLOSSARY:
   Antalya Province = 안탈리아주
   Attaleia = 아탈레이아
   Attalus II = 아탈로스 2세
-  City = 도시
   Euromonitor International = 유로모니터 인터내셔널
   Hadrian’s Gate = 하드리아누스 문
   Independence = 인디펜던스
@@ -159,7 +156,6 @@ GLOSSARY:
   Andrianjaka = 안드리안자카
   Antananarivo = 안타나나리보
   Assembly = 민회
-  City = 도시
   Court = 법원
   French = 프랑스어
   Imerina = 이메리나
@@ -245,7 +241,6 @@ GLOSSARY:
   Europe = 유럽
   Fabian Gottlieb von Bellingshausen = 파비안 고틀리프 폰 벨링스하우젠
   Gottlieb = 고틀립
-  Human = 인간
   John = 존
   John George Bartholomew = 존 조지 바살러뮤
   Mikhail Lazarev = 미하일 라자레프
@@ -282,7 +277,6 @@ GLOSSARY:
   Ancient Greek = 고대 그리스어
   Ares = 아레스
   Asteroid belt = 소행성대
-  Binary = 이진법
   Binary star = 쌍성
   Binary star system = 쌍성계
   Mars = 화성
@@ -307,7 +301,6 @@ GLOSSARY:
   Shrike = 때까치
   South America = 남아메리카
   Thamnophilidae = 개미새과
-  Threatened = 위협 범주
   Wren = 굴뚝새
   antshrikes = 개미때까치
   antvireos = 개미비레오
@@ -325,7 +318,6 @@ GLOSSARY:
   Argentina = 아르헨티나
   Buenos Aires = 부에노스아이레스
   Croatia = 크로아티아
-  Croatian = 크로아티아어
   Fascist = 파시스트
   Fascist Italy = 파시스트 이탈리아
   Francoist = 프랑코주의
@@ -353,7 +345,6 @@ HEADWORD: Anteater = 개미핥기
 LEVEL: 4
 GLOSSARY:
   Aardvark = 땅돼지
-  Cyclopes = 키클롭스
   Echidna = 가시두더지
   Mammal = 포유류
   Pangolin = 천산갑
@@ -433,7 +424,6 @@ HEADWORD: Albanese, Anthony = 앨버니지, 앤서니
 LEVEL: 5
 GLOSSARY:
   Australia = 오스트레일리아
-  Australian = 오스트레일리아
   Commission = 위원회
   European Union = 유럽 연합
   Labor = 노동당
@@ -562,9 +552,7 @@ GLOSSARY:
   Asia = 아시아
   Bacillus anthracis = 탄저균
   China = 중국
-  Human = 인간
   Infection = 감염
-  Skin = 피부
   Unit 731 = 731부대
   Vaccine = 백신
   World = 세계
@@ -579,7 +567,6 @@ LEVEL: 5
 GLOSSARY:
   Cosmology = 우주론
   Nick Bostrom = 닉 보스트롬
-  Proposition = 명제
   Universe = 우주
   falsifiability = 반증 가능성
   weak form = 약한 골드바흐 추측
@@ -592,7 +579,6 @@ LEVEL: 5
 GLOSSARY:
   Commission = 위원회
   Earth = 지구
-  Eugene = 오이겐
   Eugene F. Stoermer = 유진 F. 스토머
   Holocene = 홀로세
   International Commission on Stratigraphy = 국제층서위원회
@@ -609,7 +595,6 @@ HEADWORD: Anthropology = 인류학
 LEVEL: 3
 GLOSSARY:
   Africa = 아프리카
-  Anthropology = 인류학
   Archaeology = 고고학
   Asia = 아시아
   Bartholins = 바르톨린 가문
@@ -626,7 +611,6 @@ GLOSSARY:
   On the Origin of Species = 『종의 기원』
   Otto Casmann = 오토 카스만
   Paris = 파리
-  Paul = 바울로
   Paul Broca = 폴 브로카
   Renaissance = 르네상스
   Social anthropology = 사회인류학
@@ -663,11 +647,9 @@ HEADWORD: Anthurium = 안수리움
 LEVEL: 4
 GLOSSARY:
   Americas = 아메리카
-  Anthurium = 안투리움
   Araceae = 천남성과
   Argentina = 아르헨티나
   Caribbean = 카리브해
-  Genus = 속
   Mexico = 멕시코
   arum family = 천남성과
   calcium oxalate = 옥살산 칼슘
@@ -720,7 +702,6 @@ GLOSSARY:
   Protestant Reformation = 종교 개혁
   Reformation = 종교 개혁
   Reign of Terror = 공포 정치
-  Robespierre = 로베스피에르
   Safety = 안전
   dechristianization = 탈기독교화
 ENTRY:
@@ -816,7 +797,6 @@ LEVEL: 5
 GLOSSARY:
   Antichrist = 적그리스도
   Calvin = 칼뱅
-  Catholic = 가톨릭
   Church = 처치
   Church Fathers = 교부
   Irenaeus = 이레네우스
@@ -856,7 +836,6 @@ GLOSSARY:
   Macedon = 마케도니아
   Macedonia = 마케도니아
   Macedonia (ancient kingdom) = 마케도니아 왕국
-  Macedonian = 마케도니아
   Monophthalmus = 모노프탈모스
   Pamphylia = 팜필리아
   Perdiccas = 페르디카스
@@ -908,7 +887,6 @@ GLOSSARY:
   Lesser Antilles = 소앤틸리스 제도
   Party = 파티
   St. John's = 세인트존스
-  Tourism = 관광
   Unitary state = 단일 국가
   unitary state = 단일 국가
 ENTRY:

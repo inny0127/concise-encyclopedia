@@ -25,7 +25,6 @@ GLOSSARY:
   Ottoman = 오스만
   Serbs = 세르비아인
   Tarnovo = 터르노보
-  Tsar = 차르
 ENTRY:
 Medieval Bulgarian state in the [[Balkans|Balkans]] that existed from 1185 to 1396. It succeeded the [[First Bulgarian Empire]], and until 1256 it was the dominant power in the Balkans, defeating the [[Byzantine Empire]] in several major battles. Tsar Kaloyan defeated the Latin Empire at Adrianople in 1205, and his nephew [[Ivan Asen II]] extended Bulgaria from the Adriatic to the Black Sea. The empire declined in the late 13th century under invasions by Mongols, Byzantines, Hungarians and Serbs, and it was divided into three parts before the Ottoman invasion. Its capital, Tarnovo, was considered a "New Constantinople" and became the cultural hub of the Eastern Orthodox world in the 14th century.
 
@@ -39,7 +38,6 @@ GLOSSARY:
   Chechnya = 체첸
   Dagestan = 다게스탄
   Grozny = 그로즈니
-  Islamists = 이슬람주의자
   North Caucasus = 북캅카스
   Russia = 러시아
   Russian = 러시아어
@@ -57,7 +55,6 @@ GLOSSARY:
   Earth = 지구
   Eschatology = 종말론
   Heaven = 천국
-  Islam = 이슬람교
   Jesus = 예수
   Jesus Christ = 예수 그리스도
   New Testament = 신약 성경
@@ -132,7 +129,6 @@ GLOSSARY:
   Sharm el-Sheikh Summit = 샤름엘셰이크 정상 회담
   Strip = 스트립
   Temple Mount = 성전산
-  Violence = 폭력
   West Bank = 요르단강 서안 지구
 ENTRY:
 Palestinian uprising against [[Israel]] and its occupation, 2000–2005, also known as the Al-Aqsa Intifada. It began with civilian protests by Arab residents of East Jerusalem and areas within Israel proper, then escalated into violence in Israel, the [[West Bank]] and the [[Gaza Strip]]. Violence increased from September 2000, after [[Ariel Sharon]] visited the [[Temple Mount]]. After March 2001, Palestinian militant groups carried out about 138 suicide bombings, mostly targeting Israeli civilians. About 1,000 Israelis were killed. The uprising ended with the Sharm el-Sheikh Summit of 2005, when Mahmoud Abbas and Sharon agreed to de-escalate.
@@ -297,8 +293,6 @@ LEVEL: 5
 GLOSSARY:
   Entropy = 엔트로피
   First law of thermodynamics = 열역학 제1법칙
-  Physical = 「Physical」
-  Rudolf = 루돌프
   Rudolf Clausius = 루돌프 클라우지우스
   Sadi Carnot = 사디 카르노
   Statistical mechanics = 통계 역학
@@ -393,11 +387,8 @@ GLOSSARY:
   Acacia = 아카시아
   Bird of prey = 맹금류
   Frederick = 프리드리히
-  Habitat = 서식지
-  John = 존
   John Frederick Miller = 존 프레더릭 밀러
   Sagittariidae = 뱀잡이수리과
-  Sagittarius = 궁수자리
   South Africa = 남아프리카 공화국
   Sub-Saharan Africa = 사하라 이남 아프리카
   Sudan = 수단
@@ -435,7 +426,6 @@ GLOSSARY:
   Benelux = 베네룩스
   French = 프랑스어
   Rule of law = 법치주의
-  Secularism = 세속주의
   Turkish = 튀르키예어
   canon law = 교회법
   laïcité = 라이시테
@@ -462,7 +452,6 @@ GLOSSARY:
   Firearm = 화기
   Handgun = 권총
   Radar = 레이더
-  Security = 보안
   aircraft carriers = 항공모함
   antivirus software = 백신 소프트웨어
   food security = 식량 안보
@@ -490,7 +479,6 @@ LEVEL: 4
 GLOSSARY:
   Erosion = 침식
   Phi scale = 파이 척도
-  Sand = 모래
   Sandstone = 사암
   Sediment = 퇴적물
   Weathering = 풍화
@@ -511,7 +499,6 @@ GLOSSARY:
   Coal = 석탄
   Earth's crust = 지각
   Natural gas = 천연가스
-  Once = 『Once』
   Petroleum = 석유
   Sediment = 퇴적물
   Sedimentary rock = 퇴적암
@@ -555,7 +542,6 @@ GLOSSARY:
   Neptune = 해왕성
   Planet = 행성
   Planet Nine = 제9행성
-  Sedna = 세드나
   Solar System = 태양계
   Trujillo = 트루히요
   dwarf planet = 왜행성
@@ -578,7 +564,6 @@ GLOSSARY:
   Gymnosperm = 겉씨식물
   Moss = 이끼
   Plant = 식물
-  Seed = 씨앗
   Seed ferns = 종자고사리
   bracts = 포엽
   central cell = 중심 세포
@@ -810,7 +795,6 @@ GLOSSARY:
   Grammy Awards = 그래미상
   Jennifer Lopez = 제니퍼 로페즈
   Music = 음악
-  Queen = 퀸
   Queen of Tejano Music = 테하노 음악의 여왕
   Tejano Music Award = 테하노 뮤직 어워드
   Year = 해
@@ -855,7 +839,6 @@ GLOSSARY:
   Berzelius = 베르셀리우스
   Chemical element = 화학 원소
   Jöns Jacob Berzelius = 옌스 야코브 베르셀리우스
-  Selenium = 셀레늄
   Semiconductor = 반도체
   Sulfur = 황
   Tellurium = 텔루륨

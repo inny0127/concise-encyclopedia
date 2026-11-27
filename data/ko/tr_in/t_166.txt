@@ -23,21 +23,17 @@ Vector space equipped with an inner product, a generalization of the [[Dot produ
 HEADWORD: Inorganic chemistry = 무기 화학
 LEVEL: 3
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Ammonium nitrate = 질산 암모늄
   Bosch = 보쉬
-  Branch = 브랜치
   Carl Bosch = 카를 보슈
   Chemistry = 화학
   Fritz Haber = 프리츠 하버
   Haber process = 하버법
   Hemoglobin = 헤모글로빈
-  Iron = 철
   Nobel Prize = 노벨상
   Nobel Prize in Chemistry = 노벨 화학상
   Organic chemistry = 유기 화학
   Organometallic chemistry = 유기 금속 화학
-  Portland = 포틀랜드
   Portland cement = 포틀랜드 시멘트
   Pyrite = 황철석
   Sodium chloride = 염화 나트륨
@@ -86,7 +82,6 @@ HEADWORD: Inquisition = 종교 재판
 LEVEL: 4
 GLOSSARY:
   Cathars = 카타리파
-  Catholic = 가톨릭
   Christianity = 기독교
   Counter-Reformation = 반종교 개혁
   Dominican = 도미니코회
@@ -114,13 +109,10 @@ GLOSSARY:
   Coleoptera = 딱정벌레목
   Diptera = 파리목
   Flowering plant = 속씨식물
-  Fossil = 화석
   Hemiptera = 노린재목
   Honey bee = 꿀벌
-  Human = 인간
   Hymenoptera = 벌목
   Insecta = 곤충강
-  Invertebrate = 무척추동물
   Latin = 라틴어
   Lepidoptera = 나비목
   Metamorphosis = 변태
@@ -154,7 +146,6 @@ GLOSSARY:
   Heart failure = 심부전
   Nicotine = 니코틴
   Pain = 통증
-  Sleep = 수면
   Sleep disorder = 수면 장애
 ENTRY:
 [[Sleep disorder]] causing difficulty falling asleep or staying asleep for as long as desired. It is typically followed by daytime sleepiness, low energy, irritability and depressed mood. Chronic insomnia involves at least three episodes per week for at least three months. It can result from [[Pain|chronic pain]], [[Heart failure]], psychological stress, or the use of [[Caffeine]], [[Nicotine]] and alcohol. Cognitive behavioral therapy is considered the first-line treatment, and sleeping pills are usually not recommended for more than four or five weeks. Between 10% and 30% of adults have insomnia at any given point in time. Women and people over 65 are affected more often.
@@ -223,13 +214,11 @@ LEVEL: 4
 GLOSSARY:
   Charles Best = 찰스 베스트
   Diabetes = 당뇨병
-  Frederick = 프리드리히
   Frederick Banting = 프레더릭 밴팅
   Frederick Sanger = 프레더릭 생어
   Glucagon = 글루카곤
   Glucose = 포도당
   Pancreas = 이자
-  Peptide = 펩타이드
   Toronto = 토론토
   University = 대학
   University of Toronto = 토론토 대학교
@@ -254,7 +243,6 @@ GLOSSARY:
   Fire = 불
   Genoa = 제노바
   Great Fire of London = 런던 대화재
-  Insurance = 보험
   Insurance Office for Houses = 주택 보험 사무소
   Justinian = 유스티니아누스
   Justinian I = 유스티니아누스 1세
@@ -263,7 +251,6 @@ GLOSSARY:
   London = 런던
   Nicholas Barbon = 니컬러스 바번
   Office = 성무일도
-  Property = 재산
   Rhodes = 로도스섬
   Royal Exchange = 왕립 거래소
   William = 윌리엄
@@ -326,7 +313,6 @@ GLOSSARY:
   Latin = 라틴어
   Leonhard Euler = 레온하르트 오일러
   Natural number = 자연수
-  Number = 수
   Rational number = 유리수
   Ring (mathematics) = 환
   Zahlen = Zahlen
@@ -361,7 +347,6 @@ GLOSSARY:
   Fundamental theorem of calculus = 미적분학의 기본 정리
   Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
   Henri Lebesgue = 앙리 르베그
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Leibniz = 라이프니츠
   Newton = 뉴턴
@@ -381,7 +366,6 @@ GLOSSARY:
   Integrated circuits = 집적 회로
   Jack Kilby = 잭 킬비
   Moore's law = 무어의 법칙
-  Progress = 『프로그레스』
   Robert Noyce = 로버트 노이스
   Semiconductor = 반도체
   Silicon = 규소
@@ -456,7 +440,6 @@ GLOSSARY:
   Down syndrome = 다운 증후군
   Intelligence quotient = 지능 지수
   Neurodevelopmental disorder = 신경 발달 장애
-  People = 『피플』
   United Kingdom = 영국
   adaptive functioning = 적응 기능
   autism spectrum disorder = 자폐 스펙트럼 장애
@@ -504,10 +487,8 @@ GLOSSARY:
   Bacon = 베이컨
   Charles Spearman = 찰스 스피어먼
   David Hume = 데이비드 흄
-  Francis = 프랑수아
   Francis Bacon = 프랜시스 베이컨
   Hobbes = 홉스
-  Human = 인간
   Human intelligence = 인간 정보
   Hume = 흄
   Intellectual disability = 지적 장애
@@ -519,7 +500,6 @@ GLOSSARY:
   Middle Ages = 중세
   Thomas = 토머스
   Thomas Hobbes = 토머스 홉스
-  Twin = 쌍둥이
   Twin and adoption studies = 쌍둥이 연구와 입양 연구
   fluid versus crystallized intelligence = 유동 지능과 결정 지능
   g factor = g 요인
@@ -648,7 +628,6 @@ GLOSSARY:
   First Council of Nicaea = 제1차 니케아 공의회
   Nicaea = 니케아
   Profit (economics) = 이윤
-  Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
   dividend = 배당금
   principal = 원금
@@ -660,10 +639,8 @@ Payment above the principal sum of a loan or deposit, made at a particular rate.
 HEADWORD: Interferometry = 간섭계
 LEVEL: 4
 GLOSSARY:
-  Albert = 앨버트
   Albert A. Michelson = 앨버트 A. 마이컬슨
   Astronomy = 천문학
-  Interferometry = 간섭계
   Michelson = 마이컬슨
   Michelson interferometer = 마이컬슨 간섭계
   Quantum mechanics = 양자역학
@@ -683,7 +660,6 @@ LEVEL: 4
 GLOSSARY:
   Middle class = 중산층
   Mosaic = 모자이크
-  Painting = 회화
   Romans = 로마인
   Visual arts = 시각 예술
   interior decoration = 실내 장식
@@ -700,7 +676,6 @@ GLOSSARY:
   Latin = 라틴어
   Primary interjections = 1차 감탄사
   Volitive interjections = 의지 감탄사
-  Word = 단어
   hesitation markers = 주저 표지
   part of speech = 품사
   response particles = 응답 소사
@@ -712,9 +687,7 @@ HEADWORD: Intermolecular force = 분자 간 힘
 LEVEL: 4
 GLOSSARY:
   Covalent bond = 공유 결합
-  Force = 힘
   Hydrogen bond = 수소 결합
-  Information = 정보
   London = 런던
   London dispersion force = 런던 분산력
   Van der Waals force = 판데르발스 힘
@@ -785,7 +758,6 @@ HEADWORD: Internal energy = 내부 에너지
 LEVEL: 4
 GLOSSARY:
   Chemical bond = 화학 결합
-  Energy = 에너지
   First law of thermodynamics = 열역학 제1법칙
   Heat = 열
   Joule = 줄
@@ -812,7 +784,6 @@ GLOSSARY:
   Earth = 지구
   Earth's magnetic field = 지구 자기장
   Earth's mantle = 맨틀
-  Knowledge = 지식
   Lithosphere = 암석권
   Mohorovičić discontinuity = 모호로비치치 불연속면
   Oceanic crust = 해양 지각
@@ -849,7 +820,6 @@ GLOSSARY:
   Atoms for Peace = 평화를 위한 원자력
   Austria = 오스트리아
   Dwight D. Eisenhower = 드와이트 D. 아이젠하워
-  Following = 「미행」
   Mohamed ElBaradei = 무함마드 엘바라데이
   Nobel Peace Prize = 노벨 평화상
   Nuclear weapon = 핵무기

@@ -26,7 +26,6 @@ GLOSSARY:
   Cooking = 요리
   Energy = 에너지
   Food preservation = 식품 보존
-  Machine = 기계
   National Appliance Energy Conservation Act = 국가 가전제품 에너지 절약법
   War = 전쟁
   World = 세계
@@ -44,7 +43,6 @@ GLOSSARY:
   Masonry = 조적
   Natural disaster = 자연재해
   Plumbing = 배관
-  Safety = 안전
   Wind turbine = 풍력 터빈
   Window = 창문
   fire sprinkler systems = 스프링클러 설비
@@ -59,7 +57,6 @@ HEADWORD: Homelessness = 노숙
 LEVEL: 4
 GLOSSARY:
   Assembly = 민회
-  Homelessness = 노숙
   Hotel = 호텔
   Human = 인간
   Poverty = 빈곤
@@ -148,8 +145,6 @@ GLOSSARY:
   Draco (legislator) = 드라콘
   Euthanasia = 안락사
   First-degree murder = 1급 살인
-  Homicide = 살인
-  Manslaughter = 고살
   Mental disorder = 정신 질환
   Murder = 살인
   Office = 성무일도
@@ -216,7 +211,6 @@ GLOSSARY:
   Homo = 사람속
   Pan = 침팬지속
   Panina = 침팬지아족
-  Tribe = 부족
   pongids = 성성이과
 ENTRY:
 Tribe of the subfamily [[Homininae]], comprising the genera [[Homo]] and *Pan*. The term was introduced by Camille Arambourg in 1948. Traditionally, chimpanzees, gorillas and orangutans were grouped as pongids, but genetic evidence shows that humans, chimpanzees and gorillas are more closely related to each other than to orangutans. Gorillas are placed in the separate tribe Gorillini, and usage remains contested: some exclude *Pan* from Hominini. Subtribe Hominina includes humans and many extinct relatives, while subtribe Panina contains chimpanzees and bonobos.
@@ -231,7 +225,6 @@ GLOSSARY:
   Chimpanzee = 침팬지
   Eurasia = 유라시아
   Europe = 유럽
-  Genus = 속
   H. neanderthalensis = 호모 네안데르탈렌시스
   Homo = 사람속
   Homo erectus = 호모 에렉투스
@@ -239,7 +232,6 @@ GLOSSARY:
   Homo sapiens = 호모 사피엔스
   Latin = 라틴어
   Neanderthal = 네안데르탈인
-  Neanderthals = 네안데르탈인
   Pan = 침팬지속
   great apes = 대형 유인원
 ENTRY:
@@ -325,7 +317,6 @@ LEVEL: 4
 GLOSSARY:
   Algebraic geometry = 대수기하학
   Algebraic topology = 대수적 위상수학
-  Branch = 브랜치
   Category theory = 범주론
   Commutative algebra = 가환대수학
   David Hilbert = 다비트 힐베르트
@@ -397,8 +388,6 @@ GLOSSARY:
   Bisexuality = 양성애
   Heterosexuality = 이성애
   Military = 군대
-  Research = 연구
-  Romantic = 낭만주의
   Sexual orientation = 성적 지향
   Sheep = 양
   conversion therapy = 전환 치료
@@ -414,7 +403,6 @@ GLOSSARY:
   Algebraic topology = 대수적 위상수학
   Continuous function = 연속 함수
   Equivalence relation = 동치 관계
-  Homotopy = 호모토피
   Homotopy groups = 호모토피 군
   Topological space = 위상 공간
   Torus = 원환면
@@ -453,7 +441,6 @@ GLOSSARY:
   Central America = 중앙아메리카
   El Salvador = 엘살바도르
   Guatemala = 과테말라
-  Honduras = 온두라스
   Hurricane Mitch = 허리케인 미치
   Manuel Zelaya = 마누엘 셀라야
   Maya = 마야
@@ -477,7 +464,6 @@ HEADWORD: Honey = 꿀
 LEVEL: 4
 GLOSSARY:
   Beekeeping = 양봉
-  Cave = 동굴
   Cuevas de la Araña = 아라냐 동굴
   Fructose = 과당
   Glucose = 포도당
@@ -611,7 +597,6 @@ GLOSSARY:
   Security = 보안
   Shenzhen = 선전
   Sino-British Joint Declaration = 중영 공동 성명
-  Sovereignty = 주권
   Special administrative region = 특별행정구
   United Kingdom = 영국
   War = 전쟁
@@ -723,7 +708,6 @@ Founding emperor of the [[Ming dynasty]] of China, reigning from 1368 to 1398. B
 HEADWORD: Honolulu = 호놀룰루
 LEVEL: 5
 GLOSSARY:
-  City = 도시
   Climate = 기후
   Climate change = 기후 변화
   Drought = 가뭄
@@ -732,9 +716,7 @@ GLOSSARY:
   Hawaii = 하와이주
   Hawaiian = 하와이어
   Hawaiian Kingdom = 하와이 왕국
-  Honolulu = 호놀룰루
   Japan = 일본
-  Navy = 해군
   Pacific = 태평양
   Pearl = 진주
   Pearl Harbor = 진주만
@@ -828,7 +810,6 @@ GLOSSARY:
   Ottoman Empire = 오스만 제국
   Persia = 페르시아
   Public health = 공중 보건
-  Smoking = 흡연
   Tobacco = 담배
   United States = 미국
   heavy metals = 중금속

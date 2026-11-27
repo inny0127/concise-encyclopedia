@@ -5,7 +5,6 @@ GLOSSARY:
   Adrian Hastings = 에이드리언 헤이스팅스
   Alfred = 앨프레드 대왕
   Alfred the Great = 앨프레드 대왕
-  Anthony = 앤서니
   Anthony D. Smith = 앤서니 D. 스미스
   Benedict Anderson = 베네딕트 앤더슨
   Black's Law Dictionary = 『블랙 법률 사전』
@@ -23,7 +22,6 @@ GLOSSARY:
   Nationalism = 민족주의
   Norse = 노르드인
   Old French = 고대 프랑스어
-  Others = 아더
   State (polity) = 국가
   Thomas = 토머스
   Thomas Hylland Eriksen = 토마스 휠란 에릭센
@@ -282,7 +280,6 @@ LEVEL: 4
 GLOSSARY:
   Cross of St. Patrick = 성 패트릭 십자
   Dutch = 네덜란드어
-  Flag = 깃발
   Genoa = 제노바
   Nation = 민족
   Republic of Genoa = 제노바 공화국
@@ -304,7 +301,6 @@ LEVEL: 4
 GLOSSARY:
   Canada = 캐나다
   Greenland = 그린란드
-  IUCN = 국제 자연 보전 연맹
   International Union for Conservation of Nature = 국제 자연 보전 연맹
   Nature = 『네이처』
   Northeast = 북동부
@@ -325,7 +321,6 @@ GLOSSARY:
   Diplomacy = 외교
   Economic inequality = 경제적 불평등
   Organized crime = 조직범죄
-  Security = 보안
   Sovereign state = 주권 국가
   Terrorism = 테러리즘
   Walter Lippmann = 월터 리프먼
@@ -347,7 +342,6 @@ GLOSSARY:
   Grotius = 그로티우스
   Hugo = 휴고상
   Hugo Grotius = 후고 그로티우스
-  Ideology = 이데올로기
   Modernization theory = 근대화 이론
   Nation = 민족
   Nationalism = 민족주의
@@ -378,11 +372,9 @@ GLOSSARY:
   Americas = 아메리카
   Citizenship = 시민권
   European colonization of the Americas = 유럽의 아메리카 식민지화
-  Following = 「미행」
   Indian Appropriations Act of 1871 = 1871년 인디언 세출법
   Indian Citizenship Act = 인디언 시민권법
   Indian Citizenship Act of 1924 = 1924년 인디언 시민권법
-  Indigenous = 원주민
   Indigenous peoples = 원주민
   Native Americans = 아메리카 원주민
   United States = 미국
@@ -480,7 +472,6 @@ GLOSSARY:
   Climate change = 기후 변화
   Earth = 지구
   Earth science = 지구과학
-  Human = 인간
   Hydrosphere = 수권
   Lithosphere = 암석권
   biodiversity loss = 생물 다양성 손실
@@ -539,7 +530,6 @@ GLOSSARY:
   E (mathematical constant) = e
   Exponential function = 지수 함수
   Half-life = 반감기
-  Logarithm = 로그
   exponential decay = 지수 감쇠
   exponential function = 지수 함수
   irrational number = 무리수
@@ -552,11 +542,9 @@ HEADWORD: Natural number = 자연수
 LEVEL: 3
 GLOSSARY:
   Addition = 덧셈
-  Arithmetic = 산술
   Giuseppe Peano = 주세페 페아노
   Integer = 정수
   Multiplication = 곱셈
-  Number = 수
   Number theory = 수론
   Peano = 페아노
   Peano axioms = 페아노 공리계
@@ -594,7 +582,6 @@ HEADWORD: Natural philosophy = 자연철학
 LEVEL: 4
 GLOSSARY:
   Aristotle = 아리스토텔레스
-  Isaac = 이삭
   Isaac Newton = 아이작 뉴턴
   Jacopo Zabarella = 자코포 자바렐라
   Natural philosophy = 자연철학
@@ -615,7 +602,6 @@ GLOSSARY:
   Abiotic resources = 비생물 자원
   Earth = 지구
   Mining = 광업
-  Others = 아더
   Sustainable Development Goals = 지속 가능 발전 목표
   biotic resources = 생물 자원
   extractive industries = 채취 산업
@@ -671,12 +657,9 @@ GLOSSARY:
   Pará = 파라주
   Pará rubber tree = 파라고무나무
   Polymer = 중합체
-  Research = 연구
   Singapore = 싱가포르
   South America = 남아메리카
   Synthetic rubber = 합성고무
-  Taraxacum = 민들레속
-  Thailand = 태국
   caoutchouc = 카우추크
   colloid = 콜로이드
   cultivar = 재배 품종
@@ -722,7 +705,6 @@ GLOSSARY:
   Pluto = 명왕성
   Quaoar = 콰오아
   Regular satellites = 규칙 위성
-  Seven = 「세븐」
   Solar System = 태양계
   Sputnik = 스푸트니크
   Triton (moon) = 트리톤
@@ -752,7 +734,6 @@ LEVEL: 4
 GLOSSARY:
   Astronomy = 천문학
   Biology = 생물학
-  Branch = 브랜치
   Chemistry = 화학
   Earth = 지구
   Earth science = 지구과학
@@ -774,7 +755,6 @@ Branch of science concerned with the description, understanding and prediction o
 HEADWORD: Natural selection = 자연선택
 LEVEL: 3
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred Russel Wallace = 앨프리드 러셀 월리스
   Aristotle = 아리스토텔레스
   Charles Darwin = 찰스 다윈
@@ -866,8 +846,6 @@ GLOSSARY:
   Mind = 정신
   Natural environment = 자연환경
   Old French = 고대 프랑스어
-  Physical = 「Physical」
-  Pre-Socratic = 소크라테스 이전
   Pre-Socratic philosophers = 소크라테스 이전 철학자
   Supernatural = 초자연
   Transcendentalism = 초월주의
@@ -926,11 +904,9 @@ GLOSSARY:
   Australian = 오스트레일리아
   German = 독일어
   German Empire = 독일 제국
-  Japan = 일본
   League of Nations = 국제 연맹
   Micronesia = 미크로네시아
   Mining = 광업
-  Nauru = 나우루
   Ocean = 대양
   Oceania = 오세아니아
   Pacific = 태평양
@@ -991,7 +967,6 @@ GLOSSARY:
   Diné = 디네
   Diné bizaad = 디네 비자드
   Goat = 염소
-  Indigenous = 원주민
   Mexico = 멕시코
   Nation = 민족
   Navajo = 나바호족

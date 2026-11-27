@@ -65,7 +65,6 @@ GLOSSARY:
   John Dalton = 존 돌턴
   Molecule = 분자
   Proton = 양성자
-  Standard = 스탠더드
   Water = 물
   carbon-12 = 탄소-12
   ground state = 바닥상태
@@ -139,7 +138,6 @@ GLOSSARY:
   Caliphate = 칼리파국
   City = 도시
   City of Jasmine = 재스민의 도시
-  Damascus = 다마스쿠스
   Mamluk = 맘루크
   Ottoman = 오스만
   River = 강
@@ -158,7 +156,6 @@ HEADWORD: Damietta = 다미에타
 LEVEL: 4
 GLOSSARY:
   Cairo = 카이로
-  Crusaders = 십자군
   Crusades = 십자군
   Damietta Governorate = 다미에타주
   Egypt = 이집트
@@ -174,7 +171,6 @@ GLOSSARY:
   Network = 「네트워크」
   Nile = 나일강
   Nile Delta = 나일강 삼각주
-  Port = 항구
   Tamíathis = 타미아티스
   UNESCO = 유네스코
   UNESCO Global Network of Learning Cities = 유네스코 학습 도시 국제 네트워크
@@ -189,7 +185,6 @@ GLOSSARY:
   Antarctica = 남극 대륙
   Bog = 이탄 습지
   Dragonfly = 잠자리
-  Insect = 곤충
   Jurassic = 쥐라기
   Lake = 호수
   Late Jurassic = 후기 쥐라기
@@ -208,7 +203,6 @@ GLOSSARY:
   Academy Award = 아카데미상
   Blues = 블루스
   Blues Brothers = 블루스 브라더스
-  Canadian = 캐나다
   Crystal = 결정
   Crystal Head = 크리스털 헤드
   Driving Miss Daisy = 「드라이빙 미스 데이지」
@@ -258,7 +252,6 @@ GLOSSARY:
   Bharatanatyam = 바라타나티얌
   Bhimbetka = 빔베트카
   Choreography = 안무
-  Dance = 춤
   Exercise = 운동
   India = 인도
   Modern dance = 현대 무용
@@ -287,7 +280,6 @@ GLOSSARY:
   Johann Bernoulli = 요한 베르누이
   Leonhard Euler = 레온하르트 오일러
   Netherlands = 네덜란드
-  Petersburg = 피터즈버그
   St. Petersburg = 상트페테르부르크
   carburetor = 기화기
   conservation of energy = 에너지 보존
@@ -436,11 +428,9 @@ GLOSSARY:
   Kyiv = 키이우
   Mongol = 몽골
   Mongol invasions = 몽골의 침입
-  Prince = 후작
   Roman Mstislavich = 로만 므스티슬라비치
   Romanovichi = 로마노비치
   Rurikids = 류리크 왕조
-  Rus' = 루스
   Ruthenia = 루테니아
   Solomon = 솔로몬
   Volhynia = 볼히니아
@@ -623,7 +613,6 @@ GLOSSARY:
   Germany = 독일
   Hydropower = 수력 발전
   North Sea = 북해
-  Once = 『Once』
   Rhine = 라인강
   Roman Empire = 로마 제국
   Romania = 루마니아
@@ -664,7 +653,6 @@ GLOSSARY:
   Aegean Sea = 에게해
   Asia = 아시아
   Bosporus = 보스포루스 해협
-  Control = 「Control」
   Convention = 비상 의회
   Europe = 유럽
   Gallipoli campaign = 갈리폴리 전역
@@ -718,7 +706,6 @@ GLOSSARY:
   Bardiya = 바르디야
   Caucasus = 캅카스
   Central Asia = 중앙아시아
-  Construction = 건설
   Cuneiform = 쐐기 문자
   Egypt = 이집트
   Gaumata = 가우마타
@@ -742,7 +729,6 @@ HEADWORD: Darjeeling = 다르질링
 LEVEL: 5
 GLOSSARY:
   Bengal = 벵골
-  City = 도시
   Company rule = 회사 통치
   Darjeeling = 다르질링
   Darjeeling Himalayan Railway = 다르질링 히말라야 철도
@@ -797,7 +783,6 @@ GLOSSARY:
   Greece = 그리스
   Humor = 후모어
   Jonathan Swift = 조너선 스위프트
-  Saint = 성인
   Saint Lawrence = 성 라우렌시오
   Surrealist = 초현실주의
   Taboo = 금기
@@ -846,7 +831,6 @@ GLOSSARY:
   Great Rift = 대균열
   Milky Way = 우리은하
   Molecular cloud = 분자운
-  Star = 항성
   Star formation = 별 형성
   absorption nebula = 흡광 성운
   carbon monoxide = 일산화 탄소
@@ -868,7 +852,6 @@ GLOSSARY:
   Internet = 인터넷
   Search engine = 검색 엔진
   Tor (network) = 토르
-  World = 세계
   World Wide Web = 월드 와이드 웹
   darknets = 다크넷
   overlay networks = 오버레이 네트워크
@@ -886,7 +869,6 @@ GLOSSARY:
   Anhingidae = 뱀가마우지과
   Asia = 아시아
   Australasia = 오스트랄라시아
-  Family = 가족
   Fish = 어류
   Heron = 왜가리
   Ibis = 따오기

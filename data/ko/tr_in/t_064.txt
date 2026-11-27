@@ -6,8 +6,6 @@ GLOSSARY:
   Castanea = 밤나무속
   Castanea dentata = 카스타네아 덴타타
   Castanea sativa = 카스타네아 사티바
-  Chestnut = 밤나무
-  Deciduous = 낙엽성
   European sweet chestnut = 유럽밤나무
   Fagaceae = 참나무과
   Northern Hemisphere = 북반구
@@ -22,7 +20,6 @@ Deciduous tree or shrub of the genus *Castanea* in the beech family, Fagaceae, n
 HEADWORD: Chevrolet = 쉐보레
 LEVEL: 5
 GLOSSARY:
-  Alfred = 앨프레드 대왕
   Alfred Sloan = 앨프리드 슬론
   Arthur Chevrolet = 아서 셰브롤레
   Chevrolet = 쉐보레
@@ -125,7 +122,6 @@ GLOSSARY:
   Confidence interval = 신뢰 구간
   Gamma distribution = 감마 분포
   Normal distribution = 정규 분포
-  Probability = 확률
   Probability distribution = 확률 분포
   chi-squared test = 카이제곱 검정
   chi-squared test of independence = 카이제곱 독립성 검정
@@ -212,7 +208,6 @@ GLOSSARY:
   Thonburi = 톤부리
   Thonburi Kingdom = 톤부리 왕국
   Toungoo Empire = 따웅우 왕조
-  Tourism = 관광
   UNESCO = 유네스코
   UNESCO Creative Cities Network = 유네스코 창의 도시 네트워크
   urban pop = 어반 팝
@@ -334,7 +329,6 @@ GLOSSARY:
   Asia = 아시아
   Breed = 품종
   Egg = 달걀
-  Gallus = 들닭속
   Gallus gallus domesticus = 갈루스 갈루스 도메스티쿠스
   Intensive farming = 집약 농업
   Macbeth = 『맥베스』
@@ -367,10 +361,8 @@ LEVEL: 4
 GLOSSARY:
   Chicken = 닭
   Fast food = 패스트푸드
-  Gallus = 들닭속
   Gallus gallus domesticus = 갈루스 갈루스 도메스티쿠스
   Indian subcontinent = 인도 아대륙
-  Meat = 고기
   Middle Ages = 중세
   Pork = 돼지고기
   Poultry = 가금
@@ -403,7 +395,6 @@ Indo-British [[Curry|curry]] of roasted, marinated chicken pieces in a creamy sp
 HEADWORD: Chickenpox = 수두
 LEVEL: 4
 GLOSSARY:
-  Fever = 『피버』
   Pneumonia = 폐렴
   Shingles = 대상 포진
   United States = 미국
@@ -450,7 +441,6 @@ GLOSSARY:
   Asia = 아시아
   Asteraceae = 국화과
   Australia = 오스트레일리아
-  Chicory = 치커리
   Cichorium intybus = 키코리움 인티부스
   Europe = 유럽
   Inulin = 이눌린
@@ -517,7 +507,6 @@ GLOSSARY:
   Nobel Prize = 노벨상
   Nobel Prize in Physics = 노벨 물리학상
   Physics = 물리학
-  Queen = 퀸
   Queen of Nuclear Research = 핵 연구의 여왕
   Research = 연구
   Tsung-Dao Lee = 리정다오
@@ -553,7 +542,6 @@ LEVEL: 4
 GLOSSARY:
   Arizona = 애리조나주
   Chihuahua = 치와와주
-  Desert = 사막
   Mexican Plateau = 멕시코고원
   Mexico = 멕시코
   Monsoon = 계절풍
@@ -615,7 +603,6 @@ GLOSSARY:
   Liverpool = 리버풀
   Manchester = 맨체스터
   Mining = 광업
-  Poverty = 빈곤
   UNICEF = 유니세프
   Victorian = 빅토리아 시대
   Victorian era = 빅토리아 시대
@@ -642,7 +629,6 @@ HEADWORD: Child sexual abuse = 아동 성 학대
 LEVEL: 5
 GLOSSARY:
   Anxiety = 불안
-  Child = 어린이
   Child marriage = 아동 결혼
   Complex post-traumatic stress disorder = 복합 외상 후 스트레스 장애
   Depression (mood) = 우울
@@ -674,7 +660,6 @@ GLOSSARY:
   Lewis Carroll = 루이스 캐럴
   Literature = 문학
   New York Times = 『뉴욕 타임스』
-  Stories = 스토리
   The New York Times = 『뉴욕 타임스』
   Wonderland = 「원더랜드」
   York = 요크
@@ -702,7 +687,6 @@ GLOSSARY:
   Santiago = 산티아고
   South America = 남아메리카
   Southern Cone = 남아메리카 남부 원뿔 지대
-  Spain = 스페인
   United States = 미국
   War of the Pacific = 남아메리카 태평양 전쟁
   high-income economy = 고소득 경제
@@ -815,7 +799,6 @@ GLOSSARY:
   Gold = 금
   Inca = 잉카
   Inca Empire = 잉카 제국
-  Irrigation = 관개
   Late Intermediate Period = 후기 중간기
   Moche = 모체
   Moche culture = 모체 문화
@@ -860,7 +843,6 @@ GLOSSARY:
   Chang'e program = 창어 계획
   China = 중국
   Congress = 의회
-  Construction = 건설
   Far side of the Moon = 달의 뒷면
   Haidian = 하이뎬구
   Information = 정보

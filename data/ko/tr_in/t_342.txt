@@ -31,7 +31,6 @@ GLOSSARY:
   Masters = 마스터스 토너먼트
   PGA Tour = PGA 투어
   Sam Snead = 샘 스니드
-  Tiger = 호랑이
   Tiger Slam = 타이거 슬램
   U.S. Open = US 오픈
 ENTRY:
@@ -116,7 +115,6 @@ GLOSSARY:
   Nineveh = 니네베
   Persian = 페르시아어
   Persian Gulf = 페르시아만
-  River = 강
   Samarra = 사마라
   Shatt al-Arab = 샤트알아랍강
   Syria = 시리아
@@ -132,7 +130,6 @@ LEVEL: 4
 GLOSSARY:
   Baja California = 바하칼리포르니아주
   California = 캘리포니아주
-  City = 도시
   Conglomerate (company) = 복합 기업
   Mexico = 멕시코
   North America = 북아메리카
@@ -177,7 +174,6 @@ GLOSSARY:
   Mexico = 멕시코
   Petén Department = 페텐주
   Teotihuacan = 테오티우아칸
-  Tikal = 티칼
   UNESCO = 유네스코
   UNESCO World Heritage Site = 유네스코 세계유산
   Valley of Mexico = 멕시코 계곡
@@ -203,7 +199,6 @@ GLOSSARY:
   Nile = 나일강
   Nile tilapia = 나일틸라피아
   Philippines = 필리핀
-  Tilapia = 틸라피아
   United States = 미국
   ancient Egypt = 고대 이집트
   brackish water = 기수
@@ -234,7 +229,6 @@ GLOSSARY:
   Moonrise Kingdom = 「문라이즈 킹덤」
   Narnia = 나니아
   New York Times = 『뉴욕 타임스』
-  Scottish = 스코틀랜드
   The Chronicles of Narnia = 「나니아 연대기」
   The Grand Budapest Hotel = 「그랜드 부다페스트 호텔」
   The New York Times = 『뉴욕 타임스』
@@ -254,7 +248,6 @@ LEVEL: 5
 GLOSSARY:
   Asia = 아시아
   Europe = 유럽
-  Genus = 속
   Malvaceae = 아욱과
   North America = 북아메리카
   Northern Hemisphere = 북반구
@@ -282,7 +275,6 @@ GLOSSARY:
   Primary tillage = 1차 경운
   Secondary tillage = 2차 경운
   Soil = 토양
-  Tillage = 경운
   Tractor = 트랙터
   United States = 미국
   draft animals = 역축
@@ -407,7 +399,6 @@ GLOSSARY:
   San Antonio = 샌안토니오
   San Antonio Spurs = 샌안토니오 스퍼스
   U.S. Virgin Islands = 미국령 버진아일랜드
-  Virgin = 『버진』
   Virgin Islands = 버진 제도
   Year = 해
   the Big Fundamental = 빅 펀더멘털
@@ -442,7 +433,6 @@ American actor, director and producer. Robbins took supporting roles in *The Sur
 HEADWORD: Timbuktu = 팀북투
 LEVEL: 4
 GLOSSARY:
-  City = 도시
   France = 프랑스
   Mali = 말리
   Mali Empire = 말리 제국
@@ -454,7 +444,6 @@ GLOSSARY:
   River = 강
   Sankoré Madrasah = 상코레 마드라사
   Songhai Empire = 송가이 제국
-  Timbuktu = 팀북투
   Tombouctou Region = 통북투주
   World = 세계
   World Heritage = 세계 유산
@@ -478,7 +467,6 @@ GLOSSARY:
   Julius Caesar = 율리우스 카이사르
   Lunar calendars = 태음력
   Maya = 마야
-  Measurement = 측정
   Paleolithic = 구석기 시대
   Pope = 교황
   Pope Gregory XIII = 교황 그레고리오 13세
@@ -535,7 +523,6 @@ GLOSSARY:
   Meredith Corporation = 메러디스 코퍼레이션
   New York City = 뉴욕
   Pacific = 태평양
-  People = 『피플』
   People of the Year = 올해의 인물
   Salesforce = 세일즈포스
   Sydney = 시드니
@@ -575,7 +562,6 @@ Hypothetical travel into the past or future. The idea of a time machine was popu
 HEADWORD: Time zone = 시간대
 LEVEL: 4
 GLOSSARY:
-  Area = 넓이
   Coordinated Universal Time = 협정 세계시
   Daylight saving time = 일광 절약 시간제
   Great Western = 그레이트 웨스턴호
@@ -682,7 +668,6 @@ GLOSSARY:
   Indonesia = 인도네시아
   Island = 섬
   Lesser Sunda Islands = 소순다 열도
-  Mainland = 메인랜드섬
   Malay = 말레이어
   Maritime Southeast Asia = 해양부 동남아시아
   Portugal = 포르투갈
@@ -872,7 +857,6 @@ GLOSSARY:
   Ike Turner = 아이크 터너
   Love = 사랑
   Private Dancer = 『프라이빗 댄서』
-  Queen = 퀸
   Queen of Rock 'n' Roll = 로큰롤의 여왕
   Record of the Year = 올해의 레코드
   Rolling Stone = 『롤링 스톤』
@@ -887,13 +871,11 @@ LEVEL: 4
 GLOSSARY:
   Bird = 조류
   Central America = 중앙아메리카
-  Family = 가족
   Grassland = 초원
   Jaguar = 재규어
   Mexico = 멕시코
   Moa = 모아
   New Zealand = 뉴질랜드
-  Recent = 현세
   South America = 남아메리카
   Tropical rainforest = 열대 우림
   Tropical rainforests = 열대 우림
@@ -915,8 +897,6 @@ GLOSSARY:
   Hearing loss = 난청
   Latin = 라틴어
   Magnetic resonance imaging = 자기 공명 영상
-  Perception = 지각
-  Tinnitus = 이명
   audiogram = 청력도
   ear infections = 귀 감염
   hearing aids = 보청기
@@ -929,7 +909,6 @@ HEADWORD: Hedren, Tippi = 헤드런, 티피
 LEVEL: 5
 GLOSSARY:
   A Countess from Hong Kong = 「홍콩에서 온 백작 부인」
-  Alfred = 앨프레드 대왕
   Alfred Hitchcock = 앨프리드 히치콕
   California = 캘리포니아주
   Charlie Chaplin = 찰리 채플린
@@ -960,7 +939,6 @@ GLOSSARY:
   Rocket = 로켓
   Seringapatam = 세링가파탐
   Silk = 비단
-  Sultan = 술탄
   Tiger = 호랑이
   Tiger of Mysore = 마이소르의 호랑이
   rocket artillery = 로켓포

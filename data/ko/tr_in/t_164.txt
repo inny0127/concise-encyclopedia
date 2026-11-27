@@ -28,7 +28,6 @@ GLOSSARY:
   Simple machine = 단순 기계
   Stonehenge = 스톤헨지
   Wedge = 쐐기
-  Wheelchair = 휠체어
   angle of repose = 안식각
   coefficient of static friction = 정지 마찰 계수
   conservation of energy = 에너지 보존
@@ -56,8 +55,6 @@ Tax levied on the income or profits of individuals and entities (taxpayers). It 
 HEADWORD: Incubus = 인큐버스
 LEVEL: 5
 GLOSSARY:
-  Belief = 믿음
-  Folklore = 민속
   Late Latin = 후기 라틴어
   Latin = 라틴어
   Merlin = 멀린
@@ -142,7 +139,6 @@ GLOSSARY:
   International Cricket Council = 국제 크리켓 평의회
   One Day International = 원데이 인터내셔널
   T20 World Cup = T20 월드컵
-  T20I = T20 인터내셔널
   Test = 테스트 매치
   Test matches = 테스트 매치
   Twenty20 = 트웬티20
@@ -162,7 +158,6 @@ GLOSSARY:
   Bombay = 봄베이
   Delhi = 델리
   Education = 교육
-  Following = 「미행」
   Guwahati = 구와하티
   Hijli Detention Camp = 히즐리 수용소
   IIT Council = IIT 위원회
@@ -176,7 +171,6 @@ GLOSSARY:
   Massachusetts = 매사추세츠주
   Massachusetts Institute of Technology = 매사추세츠 공과대학교
   Ministry of Education = 교육부
-  Network = 「네트워크」
   Sarkar Committee = 사르카르 위원회
   Technology = 기술
   West Bengal = 서벵골주
@@ -197,7 +191,6 @@ GLOSSARY:
   Mahatma Gandhi = 마하트마 간디
   Manmohan Singh = 만모한 싱
   Party = 파티
-  Prime = 프라임
 ENTRY:
 Indian political party founded on December 28, 1885, also called the Congress Party. Under [[Mahatma Gandhi]] it became the principal leader of the independence movement after 1920, and it dominated Indian politics for the next 50 years after independence in 1947. Prime ministers from the party include [[Jawaharlal Nehru]], [[Indira Gandhi]], and [[Manmohan Singh]] (2004–2014). Described as sitting at the center of the political spectrum, the party has been the main rival of the [[Bharatiya Janata Party]] since the 1990s. It won 99 seats in the 2024 Lok Sabha election, forming the official opposition.
 
@@ -215,7 +208,6 @@ GLOSSARY:
   Bengal = 벵골
   Cape = 케이프
   Cape Agulhas = 아굴라스곶
-  Coral = 산호
   Erythraean Sea = 에리트라해
   India = 인도
   Indian Ocean = 인도양
@@ -378,9 +370,7 @@ Classical music of the Indian subcontinent, with two major traditions. North Ind
 HEADWORD: Indian cuisine = 인도 요리
 LEVEL: 4
 GLOSSARY:
-  Agriculture = 농업
   Cauliflower = 콜리플라워
-  Hindus = 힌두교도
   Indian subcontinent = 인도 아대륙
   Indus = 인더스강
   Indus Valley = 인더스강 유역
@@ -448,7 +438,6 @@ GLOSSARY:
   Indian subcontinent = 인도 아대륙
   Kalidasa = 칼리다사
   Kannada = 칸나다어
-  Literature = 문학
   Mahabharata = 『마하바라타』
   Pāli Canon = 팔리 경전
   Rabindranath Tagore = 라빈드라나트 타고르
@@ -457,7 +446,6 @@ GLOSSARY:
   Rig Veda = 『리그베다』
   Sangam literature = 상감 문학
   Sanskrit = 산스크리트어
-  Tamil = 타밀어
   Tamil Sangam literature = 타밀 상감 문학
   Telugu = 텔루구어
   Veda = 베다
@@ -567,16 +555,13 @@ HEADWORD: Indian summer = 인디언 서머
 LEVEL: 5
 GLOSSARY:
   Frost = 서리
-  Hector = 헥토르
   J. Hector St. John de Crèvecœur = J. 엑토르 생 존 드 크레브쾨르
   James = 야고보
-  John = 존
   John James Audubon = 존 제임스 오듀본
   Native American = 아메리카 원주민
   North America = 북아메리카
   Northern Hemisphere = 북반구
   St. John = 성 요한
-  Weather = 날씨
   William = 윌리엄
   William R. Deedler = 윌리엄 R. 디들러
   killing frost = 된서리
@@ -593,7 +578,6 @@ GLOSSARY:
   Hoosier State = 후지어 주
   Indiana = 인디애나주
   Indianapolis = 인디애나폴리스
-  Indigenous = 원주민
   Kentucky = 켄터키주
   Lake = 호수
   Lake Michigan = 미시간호
@@ -742,7 +726,6 @@ Indian stateswoman and prime minister of India (1966–1977; 1980–1984). The d
 HEADWORD: Indium = 인듐
 LEVEL: 4
 GLOSSARY:
-  Ferdinand = 페르디난트
   Ferdinand Reich = 페르디난트 라이히
   Flat-panel display = 평판 디스플레이
   Gallium = 갈륨
@@ -764,11 +747,9 @@ LEVEL: 4
 GLOSSARY:
   Bangladesh = 방글라데시
   Bengali = 벵골어
-  Branch = 브랜치
   Caribbean = 카리브해 지역
   Europe = 유럽
   Gujarati = 구자라트어
-  Hindi = 힌디어
   Hindustani = 힌두스타니어
   India = 인도
   Indo-Aryan languages = 인도아리아어파
@@ -803,7 +784,6 @@ GLOSSARY:
   Bronze = 청동
   Bronze Age = 청동기 시대
   Caspian = 카스피해
-  Eight = 「에잇」
   Ethnologue = 에스놀로그
   Europe = 유럽
   Greater Iran = 대이란
@@ -816,7 +796,6 @@ GLOSSARY:
   Indo-Iranian branch = 인도이란어파
   Iran = 이란
   Kurgan hypothesis = 쿠르간 가설
-  Language = 언어
   Language family = 어족
   Luwian = 루위어
   Mycenaean = 미케네
@@ -873,7 +852,6 @@ GLOSSARY:
   Indian subcontinent = 인도 아대륙
   Indo-Greeks = 인도그리스인
   Indo-Scythians = 인도스키타이인
-  Menander = 메난드로스
   Menander I = 메난드로스 1세
   Pakistan = 파키스탄
   Punjab = 펀자브
@@ -928,7 +906,6 @@ GLOSSARY:
   Borneo = 보르네오섬
   Borobudur = 보로부두르
   Buddhist = 불교
-  Dutch = 네덜란드어
   Flores = 플로레스섬
   G20 = 주요 20개국
   Guinea = 기니
@@ -1062,7 +1039,6 @@ GLOSSARY:
   Airavata = 아이라바타
   Buddhism = 불교
   Hinduism = 힌두교
-  Indra = 인드라
   Jupiter = 목성
   Jupiter (god) = 유피테르
   Lightning = 번개
@@ -1086,13 +1062,11 @@ LEVEL: 4
 GLOSSARY:
   Ampere = 암페어
   Electromagnetic induction = 전자기 유도
-  Inductance = 인덕턴스
   Inductor = 인덕터
   Joseph Henry = 조지프 헨리
   Lenz's law = 렌츠의 법칙
   Michael Faraday = 마이클 패러데이
   Oliver Heaviside = 올리버 헤비사이드
-  Property = 재산
   SI unit = SI 단위
   Volt = 볼트
   back EMF = 역기전력

@@ -5,7 +5,6 @@ GLOSSARY:
   DAX = DAX
   Euro = 유로
   Euro Stoxx 50 = 유로 스톡스 50
-  German = 독일어
   IBM = IBM
   SAP HANA = SAP HANA
   Walldorf = 발도르프
@@ -37,7 +36,6 @@ Positive-sense RNA betacoronavirus that causes COVID-19. First identified in [[W
 HEADWORD: SD card = SD 카드
 LEVEL: 5
 GLOSSARY:
-  Flash = 플래시
   Kioxia = 키옥시아
   Memory card = 메모리 카드
   Mobile phone = 휴대 전화
@@ -101,7 +99,6 @@ GLOSSARY:
   Fenni = 펜니
   Finland = 핀란드
   Fishing = 어업
-  Indigenous = 원주민
   Kola Peninsula = 콜라반도
   Lapland = 라플란드
   Laplanders = 라플란드인
@@ -199,7 +196,6 @@ GLOSSARY:
   Brazil = 브라질
   Brazilian Grand Prix = 브라질 그랑프리
   Brazilian coffee cycle = 브라질 커피 주기
-  City = 도시
   Cry of Ipiranga = 이피랑가의 외침
   FIFA = 국제 축구 연맹
   FIFA World Cups = FIFA 월드컵
@@ -211,7 +207,6 @@ GLOSSARY:
   Macrometropolis = 상파울루 확대 대도시권
   Paul = 바울로
   Paulista = 파울리스타
-  Saint = 성인
   Santos = 산투스
   Southern Hemisphere = 남반구
   São Paulo = 상파울루
@@ -322,7 +317,6 @@ GLOSSARY:
   Ghazal = 가잘
   Gulistan = 『굴리스탄』
   Iraq = 이라크
-  Master = 조폐국장
   Master of Speech = 말의 대가
   Palestine = 팔레스타인
   Palestine (region) = 팔레스타인
@@ -341,7 +335,6 @@ LEVEL: 5
 GLOSSARY:
   Federal Republic = 독일 연방 공화국
   Federal Republic of Germany = 독일 연방 공화국
-  Following = 「미행」
   France = 프랑스
   Germany = 독일
   League of Nations = 국제 연맹
@@ -378,7 +371,6 @@ GLOSSARY:
   Protestantism = 개신교
   Sabbath = 안식일
   Shabbat = 안식일
-  Sunday = 일요일
   Ten Commandments = 십계명
 ENTRY:
 Day set aside for rest and worship in [[Abrahamic religions]]. According to the Book of Exodus, God commanded the seventh day be kept holy, as God rested on it during Creation. A day of rest is observed in [[Islam]] (Friday), Judaism (Saturday) and [[Christianity]] (Sunday). Observance is one of the [[Ten Commandments]]: the fourth in Judaism and most of [[Protestantism]], and the third in the [[Catholic Church]] and [[Lutheranism]]. Some scholars suggest the Sabbath may have been influenced by [[Babylonia|Babylonian]] mid-month rest days and lunar cycles, though its origins remain debated. Most Jews regard Shabbat as a biblical covenant between God and the Israelites, commemorating both Creation and the Exodus.
@@ -501,7 +493,6 @@ GLOSSARY:
   Christianity = 기독교
   Deity = 신
   Latin = 라틴어
-  Thomas = 토머스
   Thomas Aquinas = 토마스 아퀴나스
   Virtue = 덕
   consecration = 축성
@@ -579,13 +570,10 @@ Supportive structure for a rider or load, fastened to an animal's back by a girt
 HEADWORD: Sadness = 슬픔
 LEVEL: 3
 GLOSSARY:
-  Brain = 뇌
   Cognitive behavioral therapy = 인지 행동 치료
   Paul = 바울로
   Paul Ekman = 폴 에크먼
-  Robin = 로빈
   Robin Skynner = 로빈 스키너
-  Sadness = 슬픔
   T. Berry Brazelton = T. 베리 브래즐턴
   basic emotions = 기본 감정
   caudate = 꼬리핵
@@ -669,7 +657,6 @@ GLOSSARY:
   Safavid = 사파비 왕조
   Safavid dynasty = 사파비 왕조
   Safavids = 사파비 왕조
-  Shah = 샤
   Shah Ismail I = 샤 이스마일 1세
   Syria = 시리아
   Turkey = 튀르키예
@@ -717,7 +704,6 @@ GLOSSARY:
   Latin = 라틴어
   Oxford = 옥스퍼드
   Oxford English Dictionary = 『옥스퍼드 영어 사전』
-  Safety = 안전
   Safety engineering = 안전 공학
   The Oxford English Dictionary = 『옥스퍼드 영어 사전』
   salvus = 살부스
@@ -753,8 +739,6 @@ GLOSSARY:
   Persian = 페르시아어
   Persian cuisine = 페르시아 요리
   Ritual = 의례
-  Saffron = 사프란
-  Spice = 향신료
   Traditional medicine = 전통 의학
   crocin = 크로신
   picrocrocin = 피크로크로신
@@ -779,7 +763,6 @@ GLOSSARY:
   Middle Ages = 중세
   Norse = 노르드인
   Old Norse = 고대 노르드어
-  Prose = 산문
   Scandinavia = 스칸디나비아
   Scandinavian = 스칸디나비아
   Snorri Sturluson = 스노리 스투를루손
@@ -798,7 +781,6 @@ HEADWORD: Sagittarius A* = 궁수자리 A*
 LEVEL: 4
 GLOSSARY:
   Andrea Ghez = 앤드리아 게즈
-  Brown = 브라운
   Bruce Balick = 브루스 발릭
   Earth = 지구
   Event Horizon Telescope = 사건의 지평선 망원경
@@ -849,7 +831,6 @@ GLOSSARY:
   Barcelona = 바르셀로나
   Catholic = 가톨릭
   Civil War = 남북 전쟁
-  Construction = 건설
   Francisco de Paula del Villar = 프란시스코 데 파울라 델 비야르
   Gothic = 고딕
   Jesus = 예수
@@ -889,7 +870,6 @@ GLOSSARY:
   Desert = 사막
   Egypt = 이집트
   Emi Koussi = 에미쿠시산
-  Köppen = 쾨펜
   Köppen climate classification = 쾨펜의 기후 구분
   Libya = 리비아
   Libyan Desert = 리비아 사막
@@ -898,7 +878,6 @@ GLOSSARY:
   Mediterranean = 지중해
   Mediterranean Sea = 지중해
   Monsoon = 계절풍
-  Mountain = 산
   Niger = 니제르
   North Africa = 북아프리카
   Nouakchott = 누악쇼트

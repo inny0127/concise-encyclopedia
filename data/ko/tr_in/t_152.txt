@@ -55,13 +55,11 @@ GLOSSARY:
   European integration = 유럽 통합
   Fall of Constantinople = 콘스탄티노폴리스 함락
   Greece = 그리스
-  Independence = 인디펜던스
   Late Bronze Age = 후기 청동기 시대
   Late Bronze Age collapse = 후기 청동기 시대 붕괴
   Minoan civilization = 미노아 문명
   Mycenaean = 미케네
   Near East = 근동
-  Ottoman = 오스만
   Peloponnesian War = 펠로폰네소스 전쟁
   Sparta = 스파르타
   military junta = 군사 정권
@@ -112,7 +110,6 @@ GLOSSARY:
   British Raj = 영국령 인도
   China = 중국
   Cold War = 냉전
-  Independence = 인디펜던스
   India = 인도
   Jawaharlal Nehru = 자와할랄 네루
   Kashmir = 카슈미르
@@ -244,7 +241,6 @@ GLOSSARY:
   Mongol invasion = 몽골의 침입
   Neo-Babylonian = 신바빌로니아
   Neo-Babylonian Empire = 신바빌로니아 제국
-  Ottoman = 오스만
   Saddam Hussein = 사담 후세인
   Sumer = 수메르
   Tigris = 티그리스강
@@ -325,7 +321,6 @@ GLOSSARY:
   Ottoman = 오스만
   Palestine = 팔레스타인
   Palestinian Authority = 팔레스타인 자치 정부
-  Peace = 평화
   Persia = 페르시아
   Roman Republic = 로마 공화정
   Southern Levant = 남레반트
@@ -454,8 +449,6 @@ GLOSSARY:
   Buddhism = 불교
   Dutch = 네덜란드어
   Federation of Malaysia = 말레이시아 연방
-  Hinduism = 힌두교
-  Human = 인간
   Islam = 이슬람교
   Johor = 조호르
   Mahathir Mohamad = 마하티르 모하맛
@@ -504,7 +497,6 @@ GLOSSARY:
   Institutional Revolutionary Party = 제도혁명당
   Mayas = 마야
   Mesoamerica = 메소아메리카
-  Mesoamerican = 메소아메리카
   Mexican Revolution = 멕시코 혁명
   Mexican drug war = 멕시코 마약 전쟁
   Mexican miracle = 멕시코의 기적
@@ -542,13 +534,10 @@ GLOSSARY:
   Caliphate = 칼리파국
   Carthage = 카르타고
   Casablanca = 카사블랑카
-  Hominins = 사람족
   Idrisid dynasty = 이드리스 왕조
-  Indigenous = 원주민
   Marinid = 마린 왕조
   Moroccan = 모로코의
   Morocco = 모로코
-  Muslims = 무슬림
   Phoenicia = 페니키아
   Phoenician = 페니키아
   Quarry = 채석장
@@ -572,7 +561,6 @@ GLOSSARY:
   Aung San Suu Kyi = 아웅산 수치
   Bamar = 버마족
   Buddhism = 불교
-  Independence = 인디펜던스
   Irrawaddy = 이라와디강
   Irrawaddy valley = 이라와디강 유역
   Konbaung dynasty = 꼰바웅 왕조
@@ -632,7 +620,6 @@ GLOSSARY:
   Carthage = 카르타고
   Egypt = 이집트
   France = 프랑스
-  Green = 초록색
   Green Sahara = 녹색 사하라
   Islamization = 이슬람화
   Libya = 리비아
@@ -655,7 +642,6 @@ HEADWORD: History of North America = 북아메리카의 역사
 LEVEL: 3
 GLOSSARY:
   American Revolution = 미국 독립 혁명
-  Augustine = 아우구스티누스
   Aztecs = 아스테카족
   Bering Sea = 베링해
   Cahokia = 카호키아
@@ -666,8 +652,6 @@ GLOSSARY:
   Civil War = 남북 전쟁
   Columbus = 콜럼버스
   England = 잉글랜드
-  Eurasian = 유라시아판
-  Fossil = 화석
   France = 프랑스
   French = 프랑스어
   Greenland = 그린란드
@@ -700,10 +684,7 @@ LEVEL: 4
 GLOSSARY:
   Australia = 오스트레일리아
   Austronesian peoples = 오스트로네시아인
-  Colonization = 식민지화
   Guinea = 기니
-  Human = 인간
-  Indigenous = 원주민
   Indigenous Australians = 오스트레일리아 원주민
   James = 야고보
   James Cook = 제임스 쿡
@@ -813,10 +794,8 @@ GLOSSARY:
   Lithuania = 리투아니아
   Lithuanian = 리투아니아
   Mieszko I = 미에슈코 1세
-  Nazi = 나치
   Nazi Germany = 나치 독일
   Piast = 피아스트 왕조
-  Poland = 폴란드
   Polish–Lithuanian Commonwealth = 폴란드-리투아니아 연방
   Prussia = 프로이센
   Russia = 러시아
@@ -889,13 +868,10 @@ GLOSSARY:
   Ivan the Terrible = 이반 4세
   Kievan Rus' = 키예프 루스
   Mikhail Gorbachev = 미하일 고르바초프
-  Mongol = 몽골
   Mongol invasions = 몽골의 침입
   Moscow = 모스크바
   October Revolution = 10월 혁명
-  Peter = 베드로
   Peter the Great = 표트르 대제
-  Petersburg = 피터즈버그
   Revolution of 1917 = 1917년 혁명
   Rus' = 루스
   Russia = 러시아
@@ -936,7 +912,6 @@ GLOSSARY:
   Mohammed bin Salman = 무함마드 빈 살만
   Mosque = 모스크
   Muhammad = 무함마드
-  Petroleum = 석유
   Riyadh = 리야드
   Salman = 살만
   Saudi Arabia = 사우디아라비아
@@ -987,7 +962,6 @@ GLOSSARY:
   Cape = 케이프
   Cape Colony = 케이프 식민지
   Cape Town = 케이프타운
-  Diamond = 다이아몬드
   Dutch = 네덜란드어
   Dutch East India Company = 네덜란드 동인도 회사
   East India Company = 동인도 회사
@@ -1015,18 +989,15 @@ GLOSSARY:
   Argentina = 아르헨티나
   Asia = 아시아
   Brazil = 브라질
-  Chavín = 차빈
   Chavín culture = 차빈 문화
   Chico = 치코
   Chile = 칠레
-  Conquest = 정복
   Francisco Pizarro = 프란시스코 피사로
   Gondwana = 곤드와나
   Great American Interchange = 아메리카 대륙 생물 대교환
   Inca = 잉카
   Inca Empire = 잉카 제국
   Mesozoic = 중생대
-  Military = 군대
   Monte Verde = 몬테베르데
   Monte Verde II = 몬테베르데 II
   Norte Chico = 노르테치코
@@ -1036,7 +1007,6 @@ GLOSSARY:
   Paleozoic = 고생대
   Panamanian land bridge = 파나마 지협
   Pangaea = 판게아
-  People = 『피플』
   Peru = 페루
   Portugal = 포르투갈
   South America = 남아메리카
@@ -1071,12 +1041,9 @@ GLOSSARY:
   Dong Son culture = 동선 문화
   European colonialism = 유럽 식민주의
   Funan = 부남
-  Homo = 사람속
   Homo sapiens = 호모 사피엔스
   Islam = 이슬람교
-  Mainland = 메인랜드섬
   Mekong = 메콩강
-  Millet = 기장
   Southeast = 남동부
   Southeast Asia = 동남아시아
 ENTRY:
@@ -1102,7 +1069,6 @@ GLOSSARY:
   Isabella = 이저벨라
   Isabella I = 이사벨 1세
   Juan Carlos I = 후안 카를로스 1세
-  Monarchy = 군주제
   Napoleonic France = 나폴레옹 시대 프랑스
   Nationalist = 국민파
   Philip II = 펠리페 2세
@@ -1167,7 +1133,6 @@ GLOSSARY:
   Ramkhamhaeng = 람캄행
   Rattanakosin Kingdom = 라따나꼬신 왕국
   River = 강
-  Southeast = 남동부
   Tai-speaking peoples = 타이어계 민족
   Thai = 태국어
   Thai script = 타이 문자
@@ -1198,7 +1163,6 @@ GLOSSARY:
   Ottoman Empire = 오스만 제국
   Republic of Türkiye = 튀르키예 공화국
   Roman Empire = 로마 제국
-  Seljuk = 셀주크
   Seljuk Empire = 셀주크 제국
   Suleiman = 술레이만
   Suleiman the Magnificent = 술레이만 1세
@@ -1223,12 +1187,10 @@ HEADWORD: History of Vietnam = 베트남의 역사
 LEVEL: 4
 GLOSSARY:
   Fall of Saigon = 사이공 함락
-  France = 프랑스
   French = 프랑스어
   French Indochina = 프랑스령 인도차이나
   Han = 한나라
   Ho Chi Minh = 호찌민
-  Independence = 인디펜던스
   Indochina = 인도차이나
   Nanyue = 남월
   Ngô dynasty = 응오 왕조
@@ -1251,7 +1213,6 @@ Political and cultural development of Vietnam, from Paleolithic settlement to re
 HEADWORD: History of agriculture = 농업의 역사
 LEVEL: 3
 GLOSSARY:
-  Agriculture = 농업
   Al-Andalus = 알안달루스
   Americas = 아메리카
   Andes = 안데스산맥
@@ -1267,7 +1228,6 @@ GLOSSARY:
   Haber-Bosch process = 하버-보슈법
   Indus = 인더스강
   Indus Valley = 인더스강 유역
-  Irrigation = 관개
   Levant = 레반트
   Maize = 옥수수
   Mesoamerica = 메소아메리카
@@ -1281,10 +1241,8 @@ GLOSSARY:
   Organic farming = 유기 농업
   Potato = 감자
   Rice = 벼
-  Rome = 로마
   Sahel = 사헬
   Sorghum = 수수
-  Sugarcane = 사탕수수
   Sumer = 수메르
   West Africa = 서아프리카
   ammonium nitrate = 질산암모늄
@@ -1312,7 +1270,6 @@ Irrigation, crop rotation, and fertilizers followed the Neolithic Revolution and
 HEADWORD: History of architecture = 건축의 역사
 LEVEL: 3
 GLOSSARY:
-  Architecture = 건축
   Art Nouveau = 아르 누보
   Baroque = 바로크
   Bauhaus = 바우하우스
@@ -1345,7 +1302,6 @@ GLOSSARY:
   Pyramid = 피라미드
   Renaissance = 르네상스
   St. Peter's Basilica = 성 베드로 대성전
-  Steel = 강철
   Terra Amata = 테라 아마타
   Versailles = 베르사유
   Ziggurat of Ur = 우르의 지구라트

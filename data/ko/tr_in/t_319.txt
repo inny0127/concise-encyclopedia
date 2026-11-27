@@ -40,7 +40,6 @@ GLOSSARY:
   Picea = 가문비나무속
   Picea engelmannii = Picea engelmannii
   Pinaceae = 소나무과
-  Spruce = 가문비나무
   boreal = 아한대
   pine family = 소나무과
   soundboards = 향판
@@ -85,8 +84,6 @@ GLOSSARY:
   Babylonian = 바빌로니아
   Complex number = 복소수
   Irrational number = 무리수
-  Number = 수
-  Square = 정사각형
   Theaetetus = 테아이테토스
   complex numbers = 복소수
   perfect squares = 완전제곱수
@@ -109,7 +106,6 @@ GLOSSARY:
   New Hampshire = 뉴햄프셔주
   North America = 북아메리카
   Olympic Games = 올림픽
-  Racket = 래킷
   School = 학교
   St. Paul's School = 세인트폴스 스쿨
   Summer Olympics = 하계 올림픽
@@ -132,7 +128,6 @@ GLOSSARY:
   Jurassic = 쥐라기
   Late Cretaceous = 후기 백악기
   Sperm whale = 향유고래
-  Squid = 오징어
   Teleost = 진골어류
   bioluminescent = 생물 발광
   calamari = 칼라마리
@@ -386,7 +381,6 @@ GLOSSARY:
   Indonesia = 인도네시아
   Malay = 말레이어
   Maritime Southeast Asia = 해양부 동남아시아
-  Recent = 현세
   Song dynasty = 송나라
   Southeast = 남동부
   Southeast Asia = 동남아시아
@@ -404,7 +398,6 @@ LEVEL: 5
 GLOSSARY:
   British East Florida = 영국령 동플로리다
   Castillo de San Marcos = 카스티요데산마르코스
-  City = 도시
   County (United States) = 카운티
   Florida = 플로리다주
   Pedro Menéndez de Avilés = 페드로 메넨데스 데 아빌레스
@@ -425,7 +418,6 @@ GLOSSARY:
   Alps = 알프스산맥
   Barry = 배리
   Bern = 베른
-  Breed = 품종
   Great St Bernard Pass = 그랑생베르나르 고개
   History = 역사학
   Museum = 박물관
@@ -442,7 +434,6 @@ HEADWORD: St. Elmo's fire = 세인트엘모의 불
 LEVEL: 5
 GLOSSARY:
   Benjamin Franklin = 벤저민 프랭클린
-  Erasmus = 에라스뮈스
   Lightning = 번개
   Plasma (physics) = 플라스마
   St. Elmo = 성 엘모
@@ -576,11 +567,9 @@ HEADWORD: St. Peter's Basilica = 성 베드로 대성당
 LEVEL: 4
 GLOSSARY:
   Carlo Maderno = 카를로 마데르노
-  Catholic = 가톨릭
   Catholic tradition = 가톨릭 전통
   City = 도시
   Constantine the Great = 콘스탄티누스 1세
-  Construction = 건설
   Donato Bramante = 도나토 브라만테
   Gian Lorenzo Bernini = 잔 로렌초 베르니니
   Italian Renaissance = 이탈리아 르네상스
@@ -603,11 +592,9 @@ HEADWORD: Mallarmé, Stéphane = 말라르메, 스테판
 LEVEL: 4
 GLOSSARY:
   Charles Baudelaire = 샤를 보들레르
-  Claude = 클로드
   Claude Debussy = 클로드 드뷔시
   Cubism = 입체주의
   Dadaism = 다다이즘
-  French = 프랑스어
   Futurism = 미래주의
   L'après-midi d'un faune = 「목신의 오후」
   Maurice Ravel = 모리스 라벨
@@ -630,7 +617,6 @@ LEVEL: 4
 GLOSSARY:
   Ancient Egypt = 고대 이집트
   Barn = 헛간
-  Building = 건물
   Egypt = 이집트
   Horse = 말
   Ox = 소
@@ -862,7 +848,6 @@ GLOSSARY:
   Quark = 쿼크
   Robert Mills = 로버트 밀스
   Steven Weinberg = 스티븐 와인버그
-  Theory = 이론
   W and Z bosons = W 보손과 Z 보손
   Yang Chen-Ning = 양전닝
   antimatter = 반물질
@@ -901,8 +886,6 @@ GLOSSARY:
   John = 존
   John D. Rockefeller = 존 D. 록펠러
   New Jersey = 뉴저지주
-  Ohio = 오하이오주
-  Petroleum = 석유
   Standard = 스탠더드
   Standard Oil = 스탠더드 오일
   Standard Oil Company of New Jersey = 스탠더드 오일 컴퍼니 오브 뉴저지

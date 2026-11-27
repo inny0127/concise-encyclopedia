@@ -90,7 +90,6 @@ GLOSSARY:
   Edward Jenner = 에드워드 제너
   Latin = 라틴어
   Smallpox = 천연두
-  Vaccine = 백신
   World = 세계
   World Health Organization = 세계 보건 기구
   bioterrorism = 생물 테러
@@ -109,7 +108,6 @@ GLOSSARY:
   5G NR = 5G NR
   Bluetooth = 블루투스
   Camera = 카메라
-  Following = 「미행」
   IPhone = 아이폰
   LTE = LTE
   Touchscreen = 터치스크린
@@ -133,7 +131,6 @@ GLOSSARY:
   Early Oligocene = 올리고세 전기
   Europe = 유럽
   European smelt = 유럽빙어
-  Family = 가족
   Great Lakes = 오대호
   North America = 북아메리카
   North Atlantic = 북대서양
@@ -157,7 +154,6 @@ GLOSSARY:
   Aluminium = 알루미늄
   Charcoal = 숯
   Coke (fuel) = 코크스
-  Iron = 철
   Iron ore = 철광석
   Metallurgy = 야금학
   Ore = 광석
@@ -222,14 +218,11 @@ GLOSSARY:
   Cannabis = 대마
   Chronic obstructive pulmonary disease = 만성 폐쇄성 폐질환
   Cigarette = 궐련
-  Combustion = 연소
   India = 인도
   Lung cancer = 폐암
   Nicotine = 니코틴
   Opium = 아편
-  Smoking = 흡연
   Sub-Saharan Africa = 사하라 이남 아프리카
-  Tobacco = 담배
   Tobacco smoking = 흡연
   United States = 미국
   alkaloid = 알칼로이드
@@ -265,9 +258,7 @@ GLOSSARY:
   Meta-analysis = 메타분석
   Nicotine = 니코틴
   Randomized controlled trial = 무작위 대조 시험
-  Smoking = 흡연
   Stroke = 뇌졸중
-  Tobacco = 담배
   Tobacco smoking = 흡연
   United Kingdom = 영국
   chronic obstructive pulmonary disease = 만성 폐쇄성 폐질환
@@ -337,7 +328,6 @@ GLOSSARY:
   Middle East = 중동
   Pretzels = 프레첼
   Prohibition = 금주법 시대
-  Snack = 간식
   South America = 남아메리카
   United States = 미국
   Vaudeville = 보드빌
@@ -542,7 +532,6 @@ GLOSSARY:
   Literature = 문학
   Nobel Prize = 노벨상
   Nobel Prize in Literature = 노벨 문학상
-  Novel = 소설
   Shimamura = 시마무라
   Tokyo = 도쿄
   Train = 열차
@@ -598,7 +587,6 @@ GLOSSARY:
   Peninsula = 반도
   Precipitation = 강수
   Skiing = 스키
-  Solid = 고체
   Southern Hemisphere = 남반구
   cold fronts = 한랭 전선
   lake-effect snow = 호수 효과 눈
@@ -652,7 +640,6 @@ GLOSSARY:
   Cambrian explosion = 캄브리아기 대폭발
   Cryogenian = 크라이오제니아기
   Cryogenian Period = 크리오스진기
-  Hypothesis = 가설
   Marinoan = 마리노 빙하기
   Sturtian = 스터트 빙하기
   icehouse climates = 빙실 기후
@@ -671,7 +658,6 @@ GLOSSARY:
   Paralympic = 패럴림픽
   Paralympic Games = 패럴림픽
   Sherm Poppen = 셔먼 포펜
-  Snowboarding = 스노보드
   Tom Sims = 톰 심스
   United States = 미국
   Winter = 겨울
@@ -688,10 +674,7 @@ LEVEL: 4
 GLOSSARY:
   Babylon = 바빌론
   Pumice = 부석
-  Salt = 소금
-  Sand = 모래
   Sodium hydroxide = 수산화 나트륨
-  Toilet = 변기
   antimicrobial resistance = 항미생물제 내성
   fatty acid = 지방산
   lather = 거품
@@ -755,7 +738,6 @@ HEADWORD: Social anthropology = 사회인류학
 LEVEL: 4
 GLOSSARY:
   2008 financial crisis = 2008년 금융 위기
-  Branch = 브랜치
   Cognitive development = 인지 발달
   Cultural anthropology = 문화인류학
   Europe = 유럽
@@ -897,7 +879,6 @@ GLOSSARY:
   French Revolution = 프랑스 혁명
   Greek philosophy = 그리스 철학
   Independence = 인디펜던스
-  Milestones = 『이정표』
   Plato = 플라톤
   Reformation = 종교 개혁
   Republic = 『국가』
