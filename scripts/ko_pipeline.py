@@ -57,6 +57,20 @@ def gloss_prep():
     print(f"{i + 1} glossary groups")
 
 
+def split(group, parts):
+    """Split a group whose agent keeps failing (e.g. content filter) into smaller parts g_019a, g_019b, ..."""
+    d = KO / ("gloss_in" if group.startswith("g_") else "tr_in")
+    src = d / f"{group}.txt"
+    blocks = ["=== KEY:" + b for b in src.read_text(encoding="utf-8").split("=== KEY:")[1:]]
+    size = -(-len(blocks) // parts)
+    for i in range(parts):
+        if blocks[i * size:(i + 1) * size]:
+            write_lines(d / f"{group}{'abcdefghij'[i]}.txt", "".join(blocks[i * size:(i + 1) * size]))
+    (d / "split").mkdir(exist_ok=True)
+    src.rename(d / "split" / src.name)
+    print(f"{group}: {len(blocks)} entries -> {parts} parts")
+
+
 def load_gloss():
     heads, local = {}, {}  # local: key -> {term: rec} from that entry's glossary group
     votes = defaultdict(Counter)
@@ -128,7 +142,7 @@ def tr_prep():
 
 
 def pending(in_dir, out_dir, prefix):
-    ins = sorted(p.stem for p in (KO / in_dir).glob(f"{prefix}_*.txt"))
+    ins = sorted(p.stem for p in (KO / in_dir).glob(f"{prefix}_*.txt"))  # split parts replace their parent
     return [s for s in ins if not (KO / out_dir / f"{s}.json").exists()], len(ins)
 
 
@@ -175,5 +189,8 @@ def assemble():
 
 
 if __name__ == "__main__":
-    {"gloss-prep": gloss_prep, "merge": merge, "tr-prep": tr_prep, "status": status,
-     "assemble": assemble}[sys.argv[1]]()
+    if sys.argv[1] == "split":
+        split(sys.argv[2], int(sys.argv[3]) if len(sys.argv) > 3 else 4)
+    else:
+        {"gloss-prep": gloss_prep, "merge": merge, "tr-prep": tr_prep, "status": status,
+         "assemble": assemble}[sys.argv[1]]()
