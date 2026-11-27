@@ -8,8 +8,9 @@
 
 Glossary agents write data/ko/gloss/g_NNN.json:
   {"heads": {KEY: {"ko", "orig", "ko_sort"}}, "terms": {English term: {"ko", "orig"}}}
-Conflict resolution (one Opus agent) writes data/ko/gloss_resolved.json: {term: {"ko", "orig"} or "context"}
-("context": the sense depends on the entry, so each entry keeps its own glossary group's form).
+Conflicts left after automatic rules go to data/ko/resolve_in/r_NN.txt; one Opus agent per part writes
+data/ko/resolve/r_NN.json: {term: {"ko", "orig"} or "context"} ("context": the sense depends on the entry, so each
+entry keeps its own glossary group's form). data/ko/gloss_resolved.json, if present, holds manual overrides.
 Translation agents write data/ko/tr_out/t_NNN.json: [{"key", "entry"}].
 """
 import json
@@ -21,7 +22,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 KO = ROOT / "data" / "ko"
 LINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
-GLOSS_N, TR_N = 100, 40
+GLOSS_N, TR_N, RESOLVE_N = 100, 40, 480
 
 
 def entries():
@@ -107,6 +108,11 @@ def merge():
     heads, local, votes, recs = load_gloss()
     resolved_path = KO / "gloss_resolved.json"
     resolved = json.loads(resolved_path.read_text(encoding="utf-8")) if resolved_path.exists() else {}
+    for f in sorted((KO / "resolve").glob("r_*.json")):  # conflict-resolution agents' output
+        for term, rec in json.loads(f.read_text(encoding="utf-8")).items():
+            if isinstance(rec, dict) and not rec.get("orig"):
+                rec["orig"] = next((r.get("orig", "") for (t, k), r in recs.items() if t == term and k == rec["ko"]), "")
+            resolved.setdefault(term, rec)
     full, conflicts = {}, []
     for term, c in votes.items():
         if term in resolved and resolved[term] != "context":
@@ -114,14 +120,28 @@ def merge():
         elif term in resolved:
             full[term] = "context"
         else:
-            ko, _ = c.most_common(1)[0]
+            ko, top = c.most_common(1)[0]
             full[term] = recs[(term, ko)]
-            if len(c) > 1:
-                conflicts.append(f"{term}\t" + " | ".join(f"{k} ({n})" for k, n in c.most_common()))
+            if len(c) == 1 or len({re.sub(r"\s", "", k) for k in c}) == 1:
+                continue  # unanimous, or variants differ only in spacing: majority
+            if len({re.sub(r"[\s『』「」]", "", k) for k in c}) == 1:
+                full[term] = "context"  # a work title vs the thing itself: each entry keeps its own group's form
+                continue
+            if sum(c.values()) >= 4 and top / sum(c.values()) >= 0.75:
+                continue  # strong majority
+            conflicts.append(f"{term}\t" + " | ".join(f"{k} ({n})" for k, n in c.most_common()))
     (KO / "glossary_full.json").write_text(json.dumps(full, ensure_ascii=False, indent=0), encoding="utf-8")
     unresolved = [c for c in conflicts if c.split("\t")[0] not in resolved]
     (KO / "gloss_conflicts.txt").write_text("\n".join(unresolved) + "\n", encoding="utf-8")
     print(f"{len(heads)} headwords, {len(full)} terms, {len(unresolved)} unresolved conflicts")
+    if unresolved:
+        rdir = KO / "resolve_in"
+        rdir.mkdir(exist_ok=True)
+        for old in rdir.glob("r_*.txt"):
+            old.unlink()
+        for i, part in enumerate(chunks(unresolved, RESOLVE_N)):
+            write_lines(rdir / f"r_{i:02d}.txt", "\n".join(part) + "\n")
+        print(f"{i + 1} resolution groups in data/ko/resolve_in (one Opus agent each, prompt data/ko/PROMPT_resolve.md)")
 
 
 def terms_for(e, full, local):
@@ -170,9 +190,15 @@ def status():
     if g_todo:
         print(f"phase: glossary  {g_all - len(g_todo)}/{g_all} done  todo: {' '.join(g_todo)}")
         return
-    if not (KO / "glossary_full.json").exists() or (KO / "gloss_conflicts.txt").stat().st_size > 1 \
-            and not (KO / "gloss_resolved.json").exists():
-        print("phase: merge/resolve (run merge; if gloss_conflicts.txt is non-empty, one Opus agent writes gloss_resolved.json, then merge again)")
+    if not (KO / "glossary_full.json").exists():
+        print("phase: merge (run: python scripts/ko_pipeline.py merge)")
+        return
+    r_todo, r_all = pending("resolve_in", "resolve", "r")
+    if (KO / "gloss_conflicts.txt").stat().st_size > 1:
+        if r_todo:
+            print(f"phase: resolve  todo: {' '.join(r_todo)} (Opus agents, prompt data/ko/PROMPT_resolve.md; then merge again)")
+        else:
+            print("phase: merge again (all resolution groups done)")
         return
     t_todo, t_all = pending("tr_in", "tr_out", "t")
     if not t_all:
