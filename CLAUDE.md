@@ -117,6 +117,13 @@ cover/title design; rotate the Wikimedia OAuth token (no longer needed).
   the text (e.g. "palace examination" = 전시, not 궁정 시험) and senses (Monopoly economics vs game, Chalk stick vs rock);
   link display text should translate the English display text, the glossary fixes only name spellings.
 
+- **Full run (started 2026-11-27):** `scripts/ko_pipeline.py` (gloss-prep, merge, tr-prep, status, assemble).
+  150 Opus glossary groups of 100 entries (`data/ko/gloss_in` -> `data/ko/gloss`, prompt `data/ko/PROMPT_gloss.md`), merge with
+  conflict resolution by one Opus agent (`gloss_conflicts.txt` -> `gloss_resolved.json`), then ~375 Sonnet translation groups
+  of 40 (`data/ko/tr_in` -> `data/ko/tr_out`, prompt `data/ko/PROMPT_tr.md`; each group carries only its own glossary lines;
+  headword fields are filled by `assemble`, not by translators). An hourly scheduled task ("Encyclopedia: Korean edition
+  auto-resume") resumes after usage limits and disables itself when the book is built.
+
 ## Notes
 
 - Wikipedia's Vital Articles pages live at `Wikipedia:Vital articles/Level N/...` (with a space). The
