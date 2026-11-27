@@ -1,0 +1,74 @@
+=== KEY: Tooth_decay_83eb60
+HEADWORD: Tooth decay
+PERSON: no
+LINK TARGETS: Bacteria | Diabetes | Ibuprofen | Paracetamol | Stimulant
+ENTRY:
+Breakdown of teeth due to acids produced by [[Bacteria|bacteria]], also known as caries or dental cavities. Bacteria produce acid from food debris and sugar on the tooth surface, dissolving enamel, dentin and cementum. Simple sugars are the bacteria's main energy source, so a diet high in them is a risk factor. Caries results when demineralization outpaces remineralization from sources such as saliva. Risk factors include conditions that reduce saliva, such as [[Diabetes|diabetes]] mellitus, and medications including [[Stimulant|psychostimulants]], antihistamines and antidepressants. Prevention relies on fluoride, a low-sugar diet, and regular brushing and flossing. Treatment depends on the extent of destruction, and no known method regrows large amounts of tooth. [[Paracetamol]] or [[Ibuprofen|ibuprofen]] may be taken for pain. As of 2016, approximately 3.6 billion people (48% of the global population) had caries in their permanent teeth.
+
+=== KEY: Top_Gear_2002_TV_series_d4ff9a
+HEADWORD: Top Gear
+PERSON: no
+LINK TARGETS: Amazon (company) | BBC | Jeremy Clarkson
+ENTRY:
+British motoring-themed magazine television program. The [[BBC]] revived it in 2002 after a 1977–2001 run. Devised by [[Jeremy Clarkson]] and Andy Wilman, it premiered on October 20, 2002, and added motoring challenges and races. Clarkson, Richard Hammond and James May were the core presenters, with the anonymous test driver "The Stig." In March 2015 the BBC chose not to renew Clarkson's contract after an incident during filming; Hammond and May left with him for [[Amazon (company)|Amazon]]'s *The Grand Tour*. In August 2026 the BBC announced the show would return, without confirming hosts.
+
+=== KEY: Topaz_aedb17
+HEADWORD: Topaz
+PERSON: no
+LINK TARGETS: Fluorine | Gemstone | King James Version | Mineral | Septuagint
+ENTRY:
+Silicate [[Mineral|mineral]] containing aluminum and [[Fluorine|fluorine]], used as a [[Gemstone|gemstone]]. Common topaz is colorless in its natural state, though trace impurities can make it pale blue or golden-brown to yellow-orange. It is often treated with heat or radiation to produce deep blue, reddish-orange, pale green, pink or purple colors. It is one of the hardest naturally occurring minerals, and major sources include Brazil and Russia. Many English Bible translations, including the [[King James Version]], mention topaz, but they derive from a [[Septuagint]] term for a yellow stone that was probably chrysolite, so topaz is likely not meant.
+
+=== KEY: Topeka_Kansas_7d5d3e
+HEADWORD: Topeka
+PERSON: no
+LINK TARGETS: Ferry | Kansas | Oregon Trail
+ENTRY:
+City (pop., 2020: 126,587), capital of [[Kansas]] and county seat of Shawnee County. The city was laid out in 1854 as a Free-State town by Eastern antislavery men. Its name is a Kansa-Osage word meaning roughly "a good place to dig potatoes." A [[Ferry|ferry]] service across the Kansas River served travelers on the [[Oregon Trail]] at the site. Steamboats delivered meat, lumber and flour and returned with potatoes, corn and wheat. Topeka is known for the Supreme Court case *Brown v. Board of Education of Topeka*, which overturned *Plessy v. Ferguson* and declared racial segregation in public schools unconstitutional.
+
+=== KEY: Toplessness_dccdc1
+HEADWORD: Toplessness
+PERSON: no
+LINK TARGETS: Breast | Erotica | Gender equality | Nipple | Pornography
+ENTRY:
+State of a woman's [[Breast|breasts]] being exposed, including areolas and [[Nipple|nipples]], especially in public or visual media. Social norms vary: many Indigenous societies consider breast exposure normal, and some beaches in Europe and Australia allow topless sunbathing. In most countries, however, norms of female modesty require women to cover their breasts in public, and many jurisdictions prosecute public toplessness as indecent exposure. The topfreedom movement opposes such laws on grounds of [[Gender equality|gender equality]]. Toplessness appears often in painting, sculpture, film and photography, where it is often defended on artistic grounds, and features prominently in [[Erotica|erotica]] and [[Pornography|pornography]].
+
+=== KEY: Topographic_prominence_14c115
+HEADWORD: Topographic prominence
+PERSON: no
+LINK TARGETS: K2 | Mount Everest
+ENTRY:
+Height of a summit above the lowest contour line encircling it that contains no higher summit, a measure of independence. Prominence is the least drop in height needed to get from a summit to higher terrain. The key col is the highest of the lowest points on all paths to higher ground. [[K2]], the second-highest mountain, has a prominence of 4,017 m. The South Summit of [[Mount Everest]] is taller, at 8,749 m, but its prominence is only 11 m, so it is not regarded as an independent mountain. Peaks with high prominence are likely to have extraordinary views.
+
+=== KEY: Topological_space_60ed22
+HEADWORD: Topological space
+PERSON: no
+LINK TARGETS: Distance | Euclidean space | Manifold | Mathematics | Metric space | Open set
+ENTRY:
+Set equipped with a topology, a structure defining closeness among its points without a numeric [[Distance|distance]]. A topology is most commonly defined through [[Open set|open sets]], though it can also be defined by a set of neighborhoods for each point that satisfy axioms of closeness. Topological spaces are the most general setting in which limits, continuity and connectedness can be defined. Common examples include [[Euclidean space|Euclidean spaces]], [[Metric space|metric spaces]] and [[Manifold|manifolds]]. The study of topological spaces in their own right is called general topology, or point-set topology. Felix Hausdorff first defined topological spaces in 1914 in his *Principles of Set Theory*, and the concept is fundamental to virtually every branch of modern [[Mathematics|mathematics]].
+
+=== KEY: Topology_99571e
+HEADWORD: Topology
+PERSON: no
+LINK TARGETS: Gottfried Wilhelm Leibniz | Graph theory | Henri Poincaré | Homotopy | Leonhard Euler | Metric space | Seven Bridges of Königsberg | Topological space
+ENTRY:
+Branch of mathematics concerned with the properties of a geometric object that are preserved under continuous deformations such as stretching, twisting, crumpling, and bending, but not closing or opening holes, tearing, or gluing.
+
+A [[Topological space]] is a set with a structure, called a topology, that allows continuous deformation to be defined. Examples include Euclidean spaces and, more generally, [[Metric space|metric spaces]], since any metric defines a topology. The deformations considered are homeomorphisms and homotopies, and a property invariant under them is a topological property. Basic examples are dimension, which distinguishes a line from a surface; compactness, which distinguishes a line from a circle; and connectedness, which distinguishes a circle from two non-intersecting circles. Intuitively, two spaces are homeomorphic if one can be deformed into the other without cutting or gluing, so a topologist cannot distinguish a coffee mug from a doughnut.
+
+The underlying ideas go back to [[Gottfried Wilhelm Leibniz]], who in the 17th century envisioned *geometria situs* and *analysis situs*. [[Leonhard Euler]]'s 1736 paper on the [[Seven Bridges of Königsberg]] showed that no route through the town (now Kaliningrad) could cross each bridge exactly once, a result depending only on connectivity, and the problem led to [[Graph theory|graph theory]]. His polyhedron formula, V − E + F = 2, is regarded by some authorities as the first theorem of topology. Johann Benedict Listing introduced the term *Topologie* in 1847, and the English form appeared in 1883 in his obituary in *Nature*. [[Henri Poincaré]] consolidated and extended their work, and his 1895 paper *Analysis Situs* introduced the concepts now known as [[Homotopy|homotopy]] and homology. The idea of a topological space was developed only in the first decades of the 20th century.
+
+=== KEY: Tor_network_970def
+HEADWORD: Tor
+PERSON: no
+LINK TARGETS: Internet | Massachusetts
+ENTRY:
+Free, open-source overlay network for anonymous communication, based on onion routing. Volunteer-operated relays, numbering over seven thousand, route users' traffic along random paths, so no single point on the [[Internet]] can see both where traffic originates and where it is going. Onion routing was developed in the mid-1990s by employees of the U.S. Naval Research Laboratory, and the network's code was released under a free license in 2004. The [[Massachusetts]]-based nonprofit Tor Project, founded in 2006, maintains it. Users range from activists to criminal enterprises and law enforcement agencies.
+
+=== KEY: Torah_264aaa
+HEADWORD: Torah
+PERSON: no
+LINK TARGETS: Hebrew Bible | Judaism | Moses | Old Testament | Synagogue | Talmud
+ENTRY:
+Compilation of the first five books of the [[Hebrew Bible]], namely Genesis, Exodus, Leviticus, Numbers and Deuteronomy, central to [[Judaism]]. The word means "instruction" or "teaching," and the translation "law" is considered misleading. Rabbinic tradition holds that God gave the Torah through [[Moses]], who wrote it down, and that the Oral Torah, embodied in the [[Talmud]], consists of interpretations and amplifications. A Torah scroll is written by a scribe in Hebrew, and a portion is read publicly in a [[Synagogue|synagogue]] on Mondays, Thursdays and Saturdays. Muslims believe God gave the Torah to the prophets, and it is also part of the Christian [[Old Testament]]. Biblical scholarship generally regards the final form of the Torah as largely complete by the Persian period, though this is widely debated.
+
