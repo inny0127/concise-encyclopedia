@@ -82,8 +82,8 @@ def main():
                 b = sorted(m.group(1) for m in LINK.finditer(t))
                 if a != b:
                     flags.append(f"{k}: links differ, dropped {sorted(set(a) - set(b))}, added {sorted(set(b) - set(a))}")
-                if "*" in t:
-                    flags.append(f"{k}: italics marks left")
+                if re.search(r"\*[^*]*[가-힣][^*]*\*", t):  # italics stay only for Latin-script words and scientific names
+                    flags.append(f"{k}: italics on Korean text")
                 if re.search(r"습니다|입니다", t):
                     flags.append(f"{k}: polite ending")
                 if not re.search(r"[가-힣]", t):

@@ -37,7 +37,7 @@ the same name is spelled the same way in all 15,000 entries. Terms not in the gl
 - Original spelling in parentheses only where it helps on first mention of a name not in the glossary:
   `하이젠베르크(Werner Heisenberg)`. Do not add it to glossary terms; the glossary already decides.
 - Titles of works: books, newspapers and long works in 『 』, short works, paintings, films and songs in 「 」.
-  Remove the English `*italics*` marks.
+  Remove the English `*italics*` marks, except around words kept in Latin script (scientific names, foreign words).
 - Cross-references: keep the English target and translate only the display text, using the glossary:
   `[[Albert Einstein|Einstein]]` → `[[Albert Einstein|아인슈타인]]`. Keep every link the English entry has.
 - Sub/superscripts stay Unicode (H₂O, 10⁶). Punctuation: Korean commas and periods; quotes as “ ”.
