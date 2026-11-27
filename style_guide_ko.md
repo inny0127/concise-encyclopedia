@@ -42,3 +42,8 @@ the same name is spelled the same way in all 15,000 entries. Terms not in the gl
   `[[Albert Einstein|Einstein]]` → `[[Albert Einstein|아인슈타인]]`. Keep every link the English entry has.
 - Sub/superscripts stay Unicode (H₂O, 10⁶). Punctuation: Korean commas and periods; quotes as “ ”.
 - Length: translate everything; Korean length follows naturally (no word limits).
+
+## Fixed conventions (added during the full run)
+
+- Chemical names: 표준국어대사전 forms, not the newer 대한화학회 forms: 메탄, 에탄, 알칸, 알킨, 알데히드, 카르복실산.
+- Work titles are bare in headwords (아이네이스); 『 』 or 「 」 appear in running text and in glossary terms.
