@@ -23,7 +23,7 @@
       #text(size: 13pt)[#data.span]
       #v(6mm)
     ]
-    #text(size: 11pt)[#data.entries.len()개 항목 · 시범판]
+    #text(size: 11pt)[#data.entries.len()개 항목#if data.at("pilot", default: false) [ · 시범판]]
   ]
 ]
 
@@ -33,7 +33,7 @@
   #v(1fr)
   *이 판에 대하여.* 항목은 영어 위키백과를 바탕으로 그로키피디아와 대조해 간추린 영어판을 한국어로 옮긴 것이다.
   인물의 생몰 연월일은 위키데이터를 따랐다. 밑줄 친 말은 따로 항목이 있음을 뜻한다.
-  본문은 위키백과 문서를 각색한 것으로 CC BY-SA 4.0 라이선스를 따르며, 이 판도 같은 조건으로 공유한다.
+  사진 출처는 각 권 끝에 실었다. 본문은 위키백과 문서를 각색한 것으로 CC BY-SA 4.0 라이선스를 따르며, 이 판도 같은 조건으로 공유한다.
   개인 소장용으로 인쇄했다.
 ]
 
@@ -111,13 +111,25 @@
   set page(columns: 4, header: none)
   set columns(gutter: 3.5mm)
   place(top, float: true, scope: "parent", block(width: 100%, below: 4mm)[
-    #text(size: 12pt, weight: "bold")[Index of entries]
-    #h(1fr) #text(size: 7pt, style: "italic")[Volume and page]
+    #text(size: 12pt, weight: "bold")[찾아보기]
+    #h(1fr) #text(size: 7pt, )[권·쪽]
   ])
   set text(size: 6pt)
   set par(justify: false, spacing: 0.2em, hanging-indent: 0.8em)
   for x in index [
-    #x.h#if x.n > 0 { super(str(x.n)) } #h(1fr) #x.v~#x.p\
+    #x.h#if x.n > 0 { super(str(x.n)) } #h(1fr) #x.v;권~#x.p\
   ]
 }
 
+
+// ---------- Image credits ----------
+#if data.credits.len() > 0 {
+  pagebreak()
+  set page(columns: 1, header: none)
+  block(width: 100%)[#text(size: 12pt, weight: "bold")[사진 출처]]
+  set text(size: 6.5pt)
+  set par(justify: false, spacing: 0.35em)
+  for c in data.credits [
+    #text(weight: "bold")[#c.head#if c.at("hom", default: 0) > 0 { super(str(c.hom)) }]: #c.artist (#c.license)\
+  ]
+}
