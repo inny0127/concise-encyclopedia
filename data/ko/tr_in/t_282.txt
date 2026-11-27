@@ -1,0 +1,970 @@
+=== KEY: Reading_26fccd
+HEADWORD: Reading = 읽기
+LEVEL: 4
+GLOSSARY:
+  Braille = 점자
+  Literacy = 문해력
+  UNESCO = 유네스코
+  United States = 미국
+  Vocabulary = 어휘
+  phonics = 파닉스
+  phonological awareness = 음운 인식
+ENTRY:
+Taking in the sense or meaning of written symbols by sight or, in some cases, touch, as with [[Braille]]. The ability to read and write is called [[Literacy|literacy]]. For educators, reading is a multifaceted process involving word recognition, spelling, phonics, [[Vocabulary|vocabulary]], comprehension and fluency. It is generally an individual, silent activity. Major predictors of reading ability include oral language skills and phonological awareness. Reading for pleasure has been linked to progress in vocabulary and mathematics during adolescence, and sustained lifetime reading has been associated with high academic attainment. In the United States, it was reported in 2022 that less than half of adults had read a book in the past 12 months. An earlier UNESCO estimate put the number of people unable to read and write at 750 million.
+
+=== KEY: Real_Madrid_CF_a88020
+HEADWORD: Real Madrid CF = 레알 마드리드 CF
+LEVEL: 5
+GLOSSARY:
+  Association football = 축구
+  Bernabéu = 베르나베우
+  Champions League = 챔피언스리그
+  Cristiano Ronaldo = 크리스티아누 호날두
+  David Beckham = 데이비드 베컴
+  Europe = 유럽
+  Galácticos = 갈락티코스
+  Iker Casillas = 이케르 카시야스
+  La Fábrica = 라 파브리카
+  La Liga = 라리가
+  Madrid = 마드리드
+  Raúl = 라울
+  UEFA = 유럽 축구 연맹
+  UEFA Champions League = UEFA 챔피언스리그
+  Zinedine Zidane = 지네딘 지단
+ENTRY:
+Spanish professional [[Association football|football]] club based in [[Madrid]] that competes in [[La Liga]]. Founded in 1902, the club has been owned and operated by its members, and has played at the Bernabéu since 1947. It is the most decorated club in Europe, with a record 15 [[UEFA Champions League]] titles and a record 36 La Liga titles. Its Galácticos policy has signed star players such as [[Zinedine Zidane]] and [[David Beckham]], and in 2009 it signed [[Cristiano Ronaldo]] for a record-breaking £80 million. Its academy, La Fábrica, has produced players including Raúl and Iker Casillas.
+
+=== KEY: Real_analysis_8e2a23
+HEADWORD: Real analysis = 실해석학
+LEVEL: 4
+GLOSSARY:
+  Branch = 브랜치
+  Calculus = 미적분학
+  Completeness = 완비성
+  Euclidean = 유클리드
+  Euclidean space = 유클리드 공간
+  Lebesgue integration = 르베그 적분
+  Limit (mathematics) = 극한
+  Real number = 실수
+  compactness = 콤팩트성
+  continuity = 연속성
+  function spaces = 함수 공간
+  intermediate value theorem = 중간값 정리
+  least upper bound = 최소 상계
+  mathematical analysis = 해석학
+  measure theory = 측도론
+  pointwise = 점별
+  real numbers = 실수
+  theory of complex variables = 복소 함수론
+  uniform convergence = 균등 수렴
+  upper bound = 상계
+ENTRY:
+Branch of mathematical analysis that develops [[Calculus|calculus]] rigorously over the [[Real number|real numbers]] and [[Euclidean space|Euclidean spaces]]. It studies [[Limit (mathematics)|limits]], continuity, compactness, differentiation, integration, and series. Completeness, the property that every nonempty set bounded above has a least upper bound, underlies the convergence of bounded monotone sequences and the intermediate value theorem. Pointwise limits of continuous functions are not generally continuous, which is why real analysis distinguishes pointwise from uniform convergence. Advanced courses add measure theory, Lebesgue integration, and function spaces. Older books also call it the theory of functions of a real variable, in contrast to the theory of complex variables.
+
+=== KEY: Real_estate_fbeee8
+HEADWORD: Real estate = 부동산
+LEVEL: 4
+GLOSSARY:
+  Apartment = 아파트
+  France = 프랑스
+  Louisiana = 루이지애나주
+  Louisiana Purchase = 루이지애나 매입
+  Louisiana Territory = 루이지애나 영토
+  National Association of Realtors = 전미 부동산 중개인 협회
+  Property = 재산
+  United States = 미국
+  personal property = 동산
+ENTRY:
+Property consisting of land and the buildings on it, together with its natural resources, such as crops, minerals, water, and wild animals. It differs from personal property, which is not permanently attached to land, such as vehicles, boats, furniture, and farm animals. Ownership may be private, public, or commercial, and use may be residential or commercial; an [[Apartment|apartment]] block owned by a business but intended for residential use is one example. In the [[United States]], corporations, individuals, nonprofit corporations, and other legal entities may hold real estate under each state's law. The [[Louisiana Purchase]] of 1803, in which the United States bought the Louisiana Territory from France for fifteen million dollars, was one of the largest early real estate deals. After the stock market crash of 1929, values depreciated 50% over the following four years. The National Association of Realtors was founded in Chicago in 1908.
+
+=== KEY: Real_number_28dfb5
+HEADWORD: Real number = 실수
+LEVEL: 3
+GLOSSARY:
+  Calculus = 미적분학
+  Cauchy = 코시
+  Cauchy sequences = 코시 수열
+  Completeness = 완비성
+  Dedekind cuts = 데데킨트 절단
+  Dedekind-complete ordered field = 데데킨트 완비 순서체
+  Descartes = 데카르트
+  Imaginary number = 허수
+  Irrational number = 무리수
+  Isomorphism = 동형
+  Number = 수
+  Others = 아더
+  Pi = 원주율
+  Rational number = 유리수
+  Real analysis = 실해석학
+  René Descartes = 르네 데카르트
+  algebraic = 대수적 수
+  equivalence classes = 동치류
+  imaginary numbers = 허수
+  least upper bound = 최소 상계
+  number line = 수직선
+  ordered field = 순서체
+  rational numbers = 유리수
+  real numbers = 실수
+  total order = 전순서
+  transcendental = 초월수
+  upper bound = 상계
+ENTRY:
+Number that can be used to measure a continuous one-dimensional quantity such as a length, duration, or temperature. Here "continuous" means that pairs of values can have arbitrarily small differences. Every real number can be almost uniquely represented by an infinite decimal expansion. The set of real numbers is usually written R in bold or ℝ. The real numbers are fundamental in [[Calculus|calculus]]. The adjective "real" was used in the 17th century by [[René Descartes]] to distinguish these numbers from [[Imaginary number|imaginary numbers]], such as the square roots of negative numbers.
+
+The real numbers include the [[Rational number|rational numbers]], such as the integer −5 and the fraction 4/3. Those that are not rational are [[Irrational number|irrational]]. Real numbers that are roots of polynomials with rational coefficients are algebraic, a class containing all rationals and irrationals such as √2 = 1.414.... Others, such as [[Pi|π]] = 3.1415..., are transcendental. Real numbers can be pictured as the points of a line, the number line, on which the integers are equally spaced.
+
+A suitable formal definition was a major achievement of 19th-century mathematics and is the foundation of [[Real analysis|real analysis]]. One modern axiomatic definition is that the real numbers form the unique (up to [[Isomorphism|isomorphism]]) Dedekind-complete ordered field. Other common definitions use equivalence classes of Cauchy sequences of rational numbers, Dedekind cuts, or infinite decimal representations; all are equivalent.
+
+As an ordered field, the reals obey the rules of elementary arithmetic: addition and multiplication are commutative and associative, multiplication distributes over addition, and a total order is compatible with both operations. Completeness means that every nonempty set of reals bounded above has a least upper bound, a property the rationals lack.
+
+=== KEY: Realism_arts_be576b
+HEADWORD: Realism = 사실주의
+LEVEL: 3
+GLOSSARY:
+  Burial = 매장
+  Burial at Ornans = 「오르낭의 매장」
+  Caravaggio = 카라바조
+  Carracci = 카라치
+  Courbet = 쿠르베
+  Early Netherlandish = 초기 네덜란드 회화
+  Early Netherlandish painting = 초기 네덜란드 회화
+  Europe = 유럽
+  France = 프랑스
+  French = 프랑스어
+  Gustave Courbet = 귀스타브 쿠르베
+  Impressionism = 인상주의
+  Jan van Eyck = 얀 반에이크
+  Jules-Antoine Castagnary = 쥘앙투안 카스타냐리
+  Leon Battista Alberti = 레온 바티스타 알베르티
+  Leonardo = 레오나르도
+  Leonardo da Vinci = 레오나르도 다빈치
+  Michelangelo = 미켈란젤로
+  Naturalism = 자연주의
+  Perspective (graphical) = 원근법
+  Realism = 사실주의
+  Renaissance = 르네상스
+  Revolution of 1848 = 1848년 혁명
+  Robert Campin = 로베르 캉팽
+  Romanticism = 낭만주의
+  Salon = 살롱전
+  Vinci = 빈치
+  academic art = 아카데미 미술
+  illusionism = 환영주의
+  linear perspective = 선 원근법
+  naturalism = 자연주의
+  verismo = 베리스모
+  Émile Zola = 에밀 졸라
+ENTRY:
+Attempt in the arts to represent subject matter truthfully, without artificiality, exaggeration, or speculative or supernatural elements. The term is often used interchangeably with naturalism, though the two are not necessarily synonymous. In Western visual art, naturalism seeks to depict objects with the least possible distortion and is tied to the development of linear [[Perspective (graphical)|perspective]] and illusionism in [[Renaissance]] Europe. It became especially marked in the 15th-century Early Netherlandish painting of Robert Campin and [[Jan van Eyck]].
+
+Realism as a specific movement originated in France after the Revolution of 1848. Motivated by renewed interest in the commoner and the rise of leftist politics, painters such as [[Gustave Courbet]] took up the mundane, ugly, or sordid and rejected [[Romanticism]], which then dominated French art and literature. Courbet's large *Burial at Ornans* (1849–50) scandalized the Salon by treating a provincial funeral on the scale reserved for elevated themes. Realism departed from the idealization of academic art and paved the way for later movements such as [[Impressionism]].
+
+"Naturalism" was erected in 19th-century Europe as a breakaway sub-movement that avoided politics and social issues and claimed a quasi-scientific basis. The critic Jules-Antoine Castagnary originated the term in 1863, and Émile Zola adopted it for the novel. Realism spread to literature and to other arts, including the opera style *verismo*.
+
+Renaissance theorists debated the balance between observing nature and idealizing it: [[Leonardo da Vinci]] championed the pure study of nature, while Leon Battista Alberti stressed the typical and Michelangelo the most beautiful. In the 17th century, the followers of [[Caravaggio]] used "naturalist" as a self-description in opposition to the classical idealism of the Carracci.
+
+=== KEY: Reality_bea223
+HEADWORD: Reality = 실재
+LEVEL: 3
+GLOSSARY:
+  Anti-realism = 반실재론
+  Eleatic principle = 엘레아 원리
+  Existence = 존재
+  Gandalf = 간달프
+  Gandhi = 「간디」
+  Greek philosophy = 그리스 철학
+  Latin = 라틴어
+  Mahatma = 마하트마
+  Mahatma Gandhi = 마하트마 간디
+  Metaphysics = 형이상학
+  Realism = 사실주의
+  Santa Claus = 산타클로스
+  abstract objects = 추상적 대상
+  elementary particles = 기본 입자
+  particulars = 개별자
+  realitas = realitas
+  res = res
+  universals = 보편자
+  virtual reality = 가상 현실
+ENTRY:
+Totality of existence, or what all existing entities have in common. It is often contrasted with appearance, opposing what is with what seems to be, though the accuracy and fundamentality of this contrast are disputed. Proposed criteria for distinguishing real from unreal entities include causal powers, mind-independence, and being non-illusory. The concept overlaps with being, [[Existence|existence]], world, actuality, and truth, and is central to [[Metaphysics|metaphysics]].
+
+Philosophers debate what belongs to reality and how it is organized. Proposed constituents include particulars and universals, concrete and abstract objects, facts, events, and elementary particles. Questions of structure concern parts and wholes, fundamental and non-fundamental entities.
+
+Realism holds that reality does not depend on human knowledge or consciousness. Anti-realism holds that certain aspects are shaped by mental processes, subjective perspectives, or social conventions. The debate extends to universals, abstract objects, values, and the unobservable entities posited by scientific theories.
+
+The causal criterion, discussed in ancient Greek philosophy as the Eleatic principle, states that to be real is to produce changes and be affected by them. On this view [[Mahatma Gandhi]] was real because he mobilized millions, whereas [[Santa Claus]] is unreal because he cannot act upon the world. The mind-independence criterion holds that real things, such as a planet or a virus, exist whatever people believe, while a fictional character like Gandalf depends on thought.
+
+The word comes from the [[Latin]] *realitas*, from *res*, "thing"; its earliest known English use dates to the early 1500s. As a countable noun, "a reality" denotes a coherent framework, such as the social reality of a culture or the virtual reality of a video game.
+
+=== KEY: Reality_television_dd67c1
+HEADWORD: Reality television = 리얼리티 텔레비전
+LEVEL: 4
+GLOSSARY:
+  Big Brother = 「빅 브라더」
+  Brother = 형제
+  Game show = 게임 쇼
+  Genre = 장르
+  Idol = 「아이돌」
+  Others = 아더
+  Survivor = 「서바이버」
+  Talk show = 토크쇼
+  The Real World = 「리얼 월드」
+  World = 세계
+  confessionals = 고백 인터뷰
+ENTRY:
+[[Genre|Genre]] of television programming that documents purportedly unscripted real-life situations, often starring ordinary people rather than professional actors. It emerged as a distinct genre in the early 1990s with *The Real World*, and gained prominence in the early 2000s with *Survivor*, *Idol*, and *Big Brother*, all of which became global franchises. Shows often include "confessionals," short interviews in which cast members comment on events. Competition formats eliminate participants by judges, by viewers, or by the contestants themselves. Documentaries, news, sports, [[Talk show|talk shows]], and traditional [[Game show|game shows]] are generally not classified as reality television. Critics argue that artificial situations, coached behavior, staged scenes, and misleading editing mean the shows do not accurately reflect reality. Others object that they humiliate or exploit participants and glamorize vulgarity.
+
+=== KEY: Reason_fffcb4
+HEADWORD: Reason = 이성
+LEVEL: 3
+GLOSSARY:
+  Aristotle = 아리스토텔레스
+  Deductive reasoning = 연역 추론
+  French = 프랑스어
+  Greece = 그리스
+  Inductive reasoning = 귀납적 추론
+  Kant = 칸트
+  Latin = 라틴어
+  Logic = 논리학
+  Philosophy = 철학
+  Plato = 플라톤
+  Reason = 이성
+  Self-determination = 자기 결정
+  Western philosophy = 서양 철학
+  abductive = 귀추법
+  antinomies = 이율배반
+  automated reasoning = 자동 추론
+  logos = 로고스
+  practical reason = 실천 이성
+  pure reason = 순수 이성
+  raison = raison
+  ratio = ratio
+  rationality = 합리성
+  theoretical reason = 이론 이성
+ENTRY:
+Capacity to apply logic consciously by drawing valid conclusions from new or existing information, with the aim of seeking truth. Reason is associated with activities considered characteristic of humans, including [[Philosophy|philosophy]], religion, science, language, and mathematics, and is generally considered a distinguishing human ability. The term is sometimes used for rationality, which is more about the application of reason. The field of [[Logic|logic]] studies how formal reasoning produces valid arguments and true conclusions; reasoning may be subdivided into [[Deductive reasoning|deductive]], [[Inductive reasoning|inductive]], and abductive forms. [[Aristotle]] distinguished logical discursive reasoning (reason proper) from intuitive reasoning, which may tend toward the personal and subjectively opaque. In mathematics, intuition is often necessary for arriving at a formal proof.
+
+The English word comes from French *raison*, derived from Latin *ratio*, which translated the Greek *logos*, also the root of "logic". The proposal that reason gives humanity a special position in nature has been argued to be a defining characteristic of [[Western philosophy]] and later Western science, beginning in classical Greece. [[Plato]] described reason as the natural monarch that should rule over the other parts of the soul, such as spiritedness and the passions. Reason is also closely identified with the ability to change goals, beliefs, traditions, and institutions, and so with freedom and [[Self-determination|self-determination]].
+
+Philosophers distinguish theoretical reason, which seeks knowledge of the world, from practical reason, which deliberates on ends and means to guide action. Kant argued that pure reason, when it oversteps into metaphysics, yields antinomies. Psychologists and cognitive scientists study which cognitive and neural processes are engaged in reasoning and how culture affects the inferences people draw, while automated reasoning studies whether reasoning can be modeled computationally.
+
+=== KEY: Reba_McEntire_50b328
+HEADWORD: McEntire, Reba = 매킨타이어, 리바
+LEVEL: 5
+GLOSSARY:
+  Annie = 「애니」
+  Annie Get Your Gun = 「애니여 총을 잡아라」
+  Annie Oakley = 애니 오클리
+  Billboard Hot Country Songs = 빌보드 핫 컨트리 송스
+  Broadway = 브로드웨이
+  Country music = 컨트리 음악
+  MCA Records = MCA 레코드
+  Mercury Records = 머큐리 레코드
+  My Kind of Country = 「마이 카인드 오브 컨트리」
+  Oklahoma = 오클라호마주
+  Queen = 퀸
+  Queen of Country = 컨트리의 여왕
+  Reba = 「리바」
+  San Diego = 샌디에이고
+  Singing = 노래
+  Singing McEntires = 싱잉 매킨타이어스
+  The Queen = 「더 퀸」
+  The Queen of Country = 컨트리의 여왕
+ENTRY:
+American [[Country music|country]] singer and actress, dubbed "The Queen of Country." She has placed more than 100 singles on the Billboard Hot Country Songs chart, 24 at number one. After singing with her siblings as the Singing McEntires in Oklahoma, she signed with PolyGram/Mercury Records in 1975. Her 1984 album *My Kind of Country*, released on MCA Records, became her breakout. In 1991 a plane crash in [[San Diego]] killed eight of her band members. She starred in the sitcom *Reba*, which aired for six seasons, and played [[Annie Oakley]] in the Broadway musical *Annie Get Your Gun*.
+
+=== KEY: Rebecca_novel_628825
+HEADWORD: Rebecca = 레베카
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Picture = 아카데미 작품상
+  Alfred = 앨프레드 대왕
+  Alfred Hitchcock = 앨프리드 히치콕
+  Ben Wheatley = 벤 휘틀리
+  Best Picture = 작품상
+  Cornwall = 콘월
+  Daphne du Maurier = 대프니 듀 모리에
+  Gothic = 고딕
+  Gothic novel = 고딕 소설
+  Manderley = 맨덜리
+  Maxim = 맥심
+  Maxim de Winter = 맥심 드 윈터
+  Monte Carlo = 몬테카를로
+  Mrs. Danvers = 댄버스 부인
+  Netflix = 넷플릭스
+  Winter = 겨울
+ENTRY:
+Gothic novel by English author Daphne du Maurier, first published in 1938. An unnamed young woman marries the wealthy widower Maxim de Winter after meeting him in [[Monte Carlo]]. At Manderley, his estate in [[Cornwall]], she finds the household still haunted by the memory of his first wife, Rebecca. Its best-known character is the housekeeper Mrs. Danvers. The novel has never gone out of print and sold 2.8 million copies between 1938 and 1965. The 1940 film *Rebecca*, directed by [[Alfred Hitchcock]], won the Academy Award for Best Picture. A 2020 [[Netflix]] adaptation was directed by Ben Wheatley.
+
+=== KEY: Recep_Tayyip_Erdo_an_40fc20
+HEADWORD: Erdoğan, Recep Tayyip = 에르도안, 레제프 타이이프
+LEVEL: 4
+GLOSSARY:
+  AKP = AKP
+  Authoritarianism = 권위주의
+  EU = 유럽 연합
+  Finland = 핀란드
+  Islamist = 이슬람주의
+  Istanbul = 이스탄불
+  Justice = 정의
+  Justice and Development Party = 정의개발당
+  NATO = 북대서양 조약 기구
+  Party = 파티
+  Russia = 러시아
+  Sweden = 스웨덴
+  Turkey = 튀르키예
+  Turkish = 튀르키예어
+  Ukraine = 우크라이나
+  democratic backsliding = 민주주의 후퇴
+  lira = 리라
+ENTRY:
+Turkish politician, president of [[Turkey]] since 2014. Coming from an Islamist background, he was elected mayor of [[Istanbul]] in 1994 and was banned from politics after a 1998 conviction for inciting religious hatred. He then co-founded the Justice and Development Party (AKP), which won a landslide in the 2002 election. As prime minister from 2003 to 2014, he oversaw economic recovery after the 2001 crisis, the start of EU membership negotiations, and a reduction in military influence on politics. In 2014 he became Turkey's first directly elected president. His presidency has been described as marked by democratic backsliding and a shift toward [[Authoritarianism|authoritarianism]], and his economic policies have been linked to high inflation and a depreciating lira. In 2022 he temporarily blocked [[Finland]] and [[Sweden]] from joining [[NATO]] and brokered a grain deal between [[Russia]] and [[Ukraine]].
+
+=== KEY: Recife_3333e0
+HEADWORD: Recife = 헤시피
+LEVEL: 4
+GLOSSARY:
+  2014 FIFA World Cup = 2014년 FIFA 월드컵
+  Brazil = 브라질
+  Captaincy of Pernambuco = 페르남부쿠 카피타니아
+  Dutch = 네덜란드어
+  FIFA = 국제 축구 연맹
+  FIFA World Cup = FIFA 월드컵
+  Holland = 홀란트
+  Mauritsstad = 마우리츠스타트
+  New Holland = 뉴홀란트
+  North and Northeast regions = 북부·북동부 지역
+  Northeast = 북동부
+  Olinda = 올린다
+  Pernambuco = 페르남부쿠주
+  Recife = 헤시피
+  Sugarcane = 사탕수수
+  São Paulo = 상파울루
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  Venice = 베네치아
+  World = 세계
+  World Cup = 월드컵
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+State capital of [[Pernambuco]], on the northeastern Atlantic coast of [[Brazil]] (metro pop., 2022: 3,726,974). Founded in 1537 as the main harbor of the [[Sugarcane|sugar cane]]-producing Captaincy of Pernambuco, it was called Mauritsstad when it served as capital of the Dutch colony of New Holland in the 17th century. Its name alludes to the stone reefs offshore. Recife is the largest urban area in Brazil's North and Northeast regions. Its rivers, small islands, and more than 50 bridges give it a maritime character that has earned it the nickname "[[Venice]] of Brazil." The metropolitan region is the main industrial zone of Pernambuco, and private investment has made Recife Brazil's second largest medical hub, after [[São Paulo]]. The historic center of Olinda, 7 km north of the city, became a [[UNESCO|UNESCO]] [[World Heritage Site|World Heritage Site]] in 1982. Recife was a host city of the [[FIFA World Cup|2014 FIFA World Cup]].
+
+=== KEY: Reconquista_953a55
+HEADWORD: Reconquista = 레콩키스타
+LEVEL: 4
+GLOSSARY:
+  Al-Andalus = 알안달루스
+  Alhambra = 알람브라 궁전
+  Alhambra Decree = 알람브라 칙령
+  Aragon = 아라곤
+  Battle of Covadonga = 코바동가 전투
+  Caliphate = 칼리파국
+  Castile = 카스티야
+  Catholic = 가톨릭
+  Catholic Monarchs = 가톨릭 공동 왕
+  Christians = 기독교인
+  Córdoba = 코르도바
+  Granada = 그라나다
+  Iberian = 이베리아
+  Kingdom of Asturias = 아스투리아스 왕국
+  Muslim conquest = 이슬람의 정복
+  Nationalism = 민족주의
+  Seville = 세비야
+  Umayyad = 우마이야 왕조
+  Umayyad Caliphate = 우마이야 칼리파국
+  Visigothic = 서고트
+  Visigothic Kingdom = 서고트 왕국
+  taifas = 타이파
+ENTRY:
+Series of military campaigns by northern Iberian [[Christians|Christian]] states against Muslim-ruled [[Al-Andalus|al-Andalus]], which had been part of the [[Visigothic Kingdom]] before the Muslim conquest of 711. The campaigns are traditionally dated from the Battle of Covadonga (c. 718 or 722), when the army of the Kingdom of Asturias won the first Christian victory over the [[Umayyad Caliphate]]. After the Umayyad state of Córdoba broke into petty successor states called taifas in the early 11th century, the northern kingdoms advanced, and major Muslim centers fell in the 13th century, including [[Seville]] in 1248. The Catholic Monarchs took [[Granada]] in January 1492, ending Muslim rule on the peninsula. Under the Alhambra Decree of July 30, 1492, the Jewish communities of Castile and Aragon, some 200,000 people, were forcibly expelled. The term was not used by medieval writers, and it was associated with [[Nationalism|Spanish nationalism]] in the 19th century.
+
+=== KEY: Reconstruction_era_f14040
+HEADWORD: Reconstruction era = 재건 시대
+LEVEL: 5
+GLOSSARY:
+  Abraham = 아브라함
+  Abraham Lincoln = 에이브러햄 링컨
+  American Civil War = 남북 전쟁
+  Andrew Johnson = 앤드루 존슨
+  Black = 검은색
+  Civil War = 남북 전쟁
+  Compromise of 1877 = 1877년 타협
+  Confederate = 남부 연합
+  Johnson = 존슨
+  Reconstruction = 재건 시대
+  Reconstruction Acts = 재건법
+  Rutherford = 러더퍼드
+  Rutherford B. Hayes = 러더퍼드 B. 헤이스
+  Slavery = 노예제
+  Union = 북부 연방
+  United States = 미국
+  literacy tests = 문해 시험
+  poll taxes = 인두세
+  the Union = 연방
+ENTRY:
+Period of United States history (1865–1877) after the [[American Civil War]], dominated by ending [[Slavery|slavery]] and reintegrating the former Confederate states. Three amendments granted freed slaves citizenship and equal rights, but Southern states used poll taxes and literacy tests to discourage Black voting. After [[Abraham Lincoln]] was assassinated in 1865, [[Andrew Johnson]] pardoned Confederate leaders, and Congress passed Reconstruction Acts over his vetoes. The Compromise of 1877 awarded the disputed 1876 election to [[Rutherford B. Hayes]] in exchange for removing federal troops from the South. Critics cite violence and corruption, while supporters credit it with restoring the Union.
+
+=== KEY: Recorder_musical_instrument_3a037d
+HEADWORD: Recorder = 리코더
+LEVEL: 4
+GLOSSARY:
+  Bach = 바흐
+  Baroque = 바로크
+  Europe = 유럽
+  Family = 가족
+  French = 프랑스어
+  George Frideric Handel = 게오르크 프리드리히 헨델
+  Handel = 헨델
+  Johann Sebastian Bach = 요한 제바스티안 바흐
+  Middle Ages = 중세
+  Middle French = 중세 프랑스어
+  Monteverdi = 몬테베르디
+  Musical instrument = 악기
+  Purcell = 퍼셀
+  Renaissance = 르네상스
+  Romantic = 낭만주의
+  Romantic music = 낭만주의 음악
+  boxwood = 회양목
+  duct flute = 덕트 플루트
+  historically informed performance = 역사주의 연주
+  woodwind = 목관 악기
+ENTRY:
+Family of woodwind [[Musical instrument|instruments]] and the most prominent duct flute in the Western classical tradition. Recorders have a thumb hole and seven finger holes, and are made in soprano, alto, tenor, and bass sizes. Traditionally made of wood or ivory, modern professional instruments are often boxwood, while student instruments are commonly molded plastic. The recorder is first documented in Europe in the Middle Ages and was popular in the Renaissance and Baroque periods, but was little used in the Classical and [[Romantic music|Romantic]] periods. It was revived in the 20th century by the historically informed performance movement and became a popular educational instrument. Composers who wrote for it include Monteverdi, Purcell, [[George Frideric Handel|Handel]], and [[Johann Sebastian Bach|Bach]]. Its clear, sweet sound has historically been associated with birds and shepherds. Its English name, used since the 14th century, has no equivalent in Middle French.
+
+=== KEY: Recreation_b72cc5
+HEADWORD: Recreation = 레크리에이션
+LEVEL: 4
+GLOSSARY:
+  Human = 인간
+  Latin = 라틴어
+  Leisure = 여가
+  Play (activity) = 놀이
+  Recreation = 레크리에이션
+  Rights = 인권
+  Universal Declaration of Human Rights = 세계 인권 선언
+  human biology = 인간생물학
+  osteoporosis = 골다공증
+  therapeutic recreation = 치료 레크리에이션
+ENTRY:
+Activity of [[Leisure|leisure]] done for enjoyment, amusement, or pleasure, often regarded as "fun." The need for recreation is an essential element of human biology and psychology. The English word, first used in the late 14th century, derives from [[Latin]] *re* ("again") and *creare* ("to create"). Leisure, the time free from physical and social needs, is a prerequisite of recreation, and it is a human right under the [[Universal Declaration of Human Rights]]. Recreation is difficult to separate from [[Play (activity)|play]], which is usually the term for children's activity, and from work, since playing an instrument may be a profession for one musician and a recreation for another. Recreation has health benefits, and therapeutic recreation specialists work in rehabilitation, psychiatric care, and the care of the elderly. Recreational physical activity helps reduce obesity and the risk of osteoporosis and some cancers.
+
+=== KEY: Recreational_drug_use_48ee1f
+HEADWORD: Recreational drug use = 기분 전환용 약물 사용
+LEVEL: 4
+GLOSSARY:
+  Alcohol (drug) = 알코올
+  Caffeine = 카페인
+  Cannabis (drug) = 대마
+  Consciousness = 의식
+  European Union = 유럽 연합
+  MDMA = MDMA
+  Nicotine = 니코틴
+  Organized crime = 조직범죄
+  Union = 북부 연방
+  biopsychosocial model = 생물심리사회 모델
+  central nervous system = 중추 신경계
+  cocaine = 코카인
+  depressants = 진정제
+  hallucinogens = 환각제
+  nicotine = 니코틴
+  opioids = 오피오이드
+  psychoactive drugs = 향정신성 약물
+  stimulants = 각성제
+ENTRY:
+Use of psychoactive drugs to induce an altered state of [[Consciousness|consciousness]], usually for pleasure or another casual purpose. Recreational drugs are commonly divided into depressants, which slow the central nervous system; stimulants, which speed it up; and hallucinogens, which induce perceptual distortions. Common examples include [[Caffeine|caffeine]] in coffee, tea, and chocolate, [[Alcohol (drug)|alcohol]] in beer and wine, and [[Nicotine|nicotine]] in tobacco. Substances controlled by law vary by country but often include [[Cannabis (drug)|cannabis]], cocaine, opioids, and MDMA. As of 2015, about 5% of people aged 15 to 65 (158 million to 351 million) had used controlled drugs at least once. Drug use is generally tolerated socially, though addiction is stigmatized. Experts apply a biopsychosocial model, as no single cause has been identified. Since the early 2000s the [[European Union]] has pursued drug policies to prevent use and to counter [[Organized crime|organized crime]] and the illegal drug trade.
+
+=== KEY: Recursion_12fa46
+HEADWORD: Recursion = 재귀
+LEVEL: 5
+GLOSSARY:
+  Computer science = 컴퓨터 과학
+  Fibonacci = 피보나치
+  Fibonacci sequence = 피보나치 수열
+  Mathematics = 수학
+  Natural number = 자연수
+  Peano = 페아노
+  Peano axioms = 페아노 공리계
+  base case = 기저 사례
+  natural numbers = 자연수
+ENTRY:
+Process in which a definition or procedure depends on a simpler or earlier version of itself. It is most common in [[Mathematics|mathematics]] and [[Computer science|computer science]], where a function is applied within its own definition. A recursive definition has a base case and a recursive step that reduces all cases toward it. The [[Fibonacci sequence]], with F(0) = 0, F(1) = 1, and F(n) = F(n − 1) + F(n − 2) for n > 1, is a classic example. The Peano axioms define the [[Natural number|natural numbers]] recursively. Recursive procedures must skip self-reference in some cases to avoid endless loops.
+
+=== KEY: Recycling_61c440
+HEADWORD: Recycling = 재활용
+LEVEL: 4
+GLOSSARY:
+  Air pollution = 대기 오염
+  Greenhouse gas = 온실가스
+  Metal = 금속
+  Paper = 종이
+  Plastic = 플라스틱
+  Printed circuit board = 인쇄 회로 기판
+  Tire = 타이어
+  Waste = 폐기물
+  Water pollution = 수질 오염
+  composting = 퇴비화
+  greenhouse gas = 온실가스
+  raw materials = 원자재
+  waste hierarchy = 폐기물 위계
+ENTRY:
+Process of converting [[Waste|waste]] materials into new materials and objects, often including the recovery of energy. As the third step of the reduce, reuse, and recycle waste hierarchy, recycling saves raw materials, lowers [[Greenhouse gas|greenhouse gas]] emissions, and avoids [[Air pollution|air pollution]] from incineration and [[Water pollution|water pollution]] from landfilling. Recyclable materials include glass, paper, cardboard, metal, plastic, [[Tire|tires]], textiles, batteries, and electronics, and composting food waste is also recycling. Metal cans can be remanufactured repeatedly without losing purity, while many other materials are turned into different products. Components of value or hazard, such as lead from car batteries, gold from [[Printed circuit board|printed circuit boards]], and mercury from thermometers, are salvaged from complex products. Paper recycling was first recorded in 1031, when Japanese shops sold repulped paper. Plastic recycling rates are low, around 9% globally, and critics argue that many programs are not economically viable without subsidies.
+
+=== KEY: Red_Army_Faction_755db6
+HEADWORD: Red Army Faction = 적군파
+LEVEL: 5
+GLOSSARY:
+  Andreas Baader = 안드레아스 바더
+  Autumn = 가을
+  Eastern Bloc = 동구권
+  German = 독일어
+  German Autumn = 독일의 가을
+  Gudrun Ensslin = 구드룬 엔슬린
+  Hanns Martin Schleyer = 한스 마르틴 슐라이어
+  Reuters = 로이터
+  Stasi = 슈타지
+  Ulrike Meinhof = 울리케 마인호프
+  West German = 서독
+  West Germany = 서독
+ENTRY:
+[[West Germany|West German]] far-left militant group, active from 1970 to 1998. Also called the Baader–Meinhof Group, it described itself as a communist and anti-imperialist urban guerrilla group. Early leaders included Andreas Baader, Ulrike Meinhof, and Gudrun Ensslin. Its attacks included bombings, assassinations, and kidnappings. It is held responsible for 34 deaths, including the industrialist Hanns Martin Schleyer. Its activities peaked in 1977 during a national crisis known as the "German Autumn." Some ex-members later received support from the Stasi and other [[Eastern Bloc]] security services. In 1998 a letter faxed to [[Reuters]] declared that the group had dissolved.
+
+=== KEY: Red_Army_fa519a
+HEADWORD: Red Army = 붉은 군대
+LEVEL: 5
+GLOSSARY:
+  Berlin = 베를린
+  Civil War = 남북 전쟁
+  Eastern Front = 동부 전선
+  Eastern Front (World War II) = 동부 전선
+  Red Army = 붉은 군대
+  Russian = 러시아어
+  Russian Civil War = 러시아 내전
+  Russian Soviet Republic = 러시아 소비에트 공화국
+  Soviet Army = 소련군
+  Soviet Union = 소련
+  Union = 북군
+  War = 전쟁
+  White = 흰색
+  White Army = 백군
+  World = 세계
+  World War II = 제2차 세계 대전
+  prisoners of war = 전쟁 포로
+  war crimes = 전쟁 범죄
+ENTRY:
+Army and air force of the Russian Soviet Republic and, from 1922, the [[Soviet Union]]. Founded in January 1918 to fight the White Army in the [[Russian Civil War]], it was renamed the Soviet Army in 1946. Its early performance was poor, but it became highly effective. On the [[Eastern Front (World War II)|Eastern Front]] of [[World War II]] it fought the largest and deadliest land war in history and captured [[Berlin]]. Official Red Army losses in the war totaled 8,668,300, though other estimates reach almost 11 million. Red Army personnel also committed war crimes against civilians and prisoners of war.
+
+=== KEY: Red_Bull_87596a
+HEADWORD: Red Bull = 레드불
+LEVEL: 5
+GLOSSARY:
+  Austria = 오스트리아
+  Chaleo Yoovidhya = 찰레오 유위티야
+  Coca-Cola = 코카콜라
+  Dietrich Mateschitz = 디트리히 마테시츠
+  Extreme sport = 익스트림 스포츠
+  Krating Daeng = 끄라팅댕
+  Pepsi = 펩시
+  Red Bull = 레드불
+  Red Bull GmbH = 레드불 GmbH
+  Thai = 태국어
+  Thailand = 태국
+  jet lag = 시차증
+ENTRY:
+Brand of energy drinks created and owned by the Austrian company Red Bull GmbH. It derives from the Thai drink Krating Daeng, which Austrian entrepreneur Dietrich Mateschitz encountered in Thailand in 1982, after finding it helped cure his jet lag. Mateschitz and Thai businessman Chaleo Yoovidhya founded the company in 1984, and the carbonated drink launched in Austria in 1987. Its image was built through [[Extreme sport|extreme sport]] events. It had a 13% share of the global energy drink market in 2023 and was the third most valuable soft drink brand in 2021, behind [[Coca-Cola]] and [[Pepsi]].
+
+=== KEY: Red_Fort_9ea7fd
+HEADWORD: Red Fort = 붉은 요새
+LEVEL: 4
+GLOSSARY:
+  Agra = 아그라
+  Delhi = 델리
+  Independence = 인디펜던스
+  Independence Day = 독립 기념일
+  India = 인도
+  Indian Rebellion of 1857 = 1857년 인도 항쟁
+  Jawaharlal Nehru = 자와할랄 네루
+  Lahori Gate = 라호르 문
+  Mahal = 「마할」
+  Mughal = 무굴
+  Mughal Empire = 무굴 제국
+  Nadir Shah = 나디르 샤
+  Old Delhi = 올드델리
+  Peacock = 피콕
+  Peacock Throne = 공작 왕좌
+  Persian = 페르시아어
+  Red Fort = 붉은 요새
+  Red Fort Complex = 붉은 요새 단지
+  Shah = 샤
+  Shah Jahan = 샤 자한
+  Taj Mahal = 타지마할
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  Ustad Ahmad Lahori = 우스타드 아흐마드 라호리
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+[[Mughal Empire|Mughal]] fort in Old Delhi, India, built as the main residence of the emperors. [[Shah Jahan]] commissioned it after moving the Mughal capital from [[Agra]] to Delhi. Its design is attributed to Ustad Ahmad Lahori, the architect of the [[Taj Mahal]]. Red sandstone walls enclose white marble palaces, and the fort combines Persian and Indian architectural styles. Completed in 1648, it was plundered by Nadir Shah in 1739, who seized its treasures, including the Peacock Throne. After the [[Indian Rebellion of 1857]], the British demolished many marble structures, although the defensive walls remained largely intact. On August 15, 1947, [[Jawaharlal Nehru]] raised the Indian flag above the Lahori Gate, and Indian prime ministers have done so each Independence Day since, delivering a broadcast address from its ramparts. The Red Fort Complex became a [[UNESCO|UNESCO]] [[World Heritage Site|World Heritage Site]] in 2007.
+
+=== KEY: Red_Hot_Chili_Peppers_8780f1
+HEADWORD: Red Hot Chili Peppers = 레드 핫 칠리 페퍼스
+LEVEL: 5
+GLOSSARY:
+  Alternative Songs = 얼터너티브 송스
+  Alternative rock = 얼터너티브 록
+  Anthony = 앤서니
+  Anthony Kiedis = 앤서니 키디스
+  Blood = 혈액
+  Blood Sugar Sex Magik = 「Blood Sugar Sex Magik」
+  Californication = 「Californication」
+  Flea = 벼룩
+  Funk = 펑크
+  Hip-hop = 힙합
+  Hollywood = 할리우드
+  Hollywood Walk of Fame = 할리우드 명예의 거리
+  Los Angeles = 로스앤젤레스
+  Punk rock = 펑크 록
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Sugar = 설탕
+  Walk of Fame = 명예의 거리
+  alternative rock = 얼터너티브 록
+  punk rock = 펑크 록
+ENTRY:
+American rock band formed in Los Angeles in 1982, led by vocalist Anthony Kiedis and bassist Flea. Its music blends [[Alternative rock|alternative rock]], [[Funk|funk]], [[Punk rock|punk rock]], and [[Hip-hop|hip-hop]]. The album *Blood Sugar Sex Magik* (1991) brought the band major commercial success, and *Californication* (1999) became its biggest seller, with 16 million copies. The band holds the record for most number-one singles on the Alternative Songs charts, with 15. It was inducted into the [[Rock and Roll Hall of Fame]] in 2012 and received a star on the [[Hollywood Walk of Fame]] in 2022.
+
+=== KEY: Red_Sea_d4f04f
+HEADWORD: Red Sea = 홍해
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Ancient Egypt = 고대 이집트
+  Ancient Egyptians = 고대 이집트인
+  Ancient Greek = 고대 그리스어
+  Arabian Peninsula = 아라비아반도
+  Bab-el-Mandeb = 바브엘만데브 해협
+  Bab-el-Mandeb Strait = 바브엘만데브 해협
+  Biblical Hebrew = 성서 히브리어
+  Canal = 운하
+  Erythrà Thálassa = 에리트라 탈라사
+  Gulf of Suez = 수에즈만
+  Hebrew = 히브리어
+  Houthi = 후티
+  Indian Ocean = 인도양
+  Israelites = 이스라엘인
+  Ocean = 대양
+  Peninsula = 반도
+  Punt = 푼트
+  Strait = 해협
+  Suez Canal = 수에즈 운하
+  Yam Suph = 얌 수프
+ENTRY:
+Inlet of the [[Indian Ocean]] between the [[Arabian Peninsula]] and [[Africa]]. It is about 2,250 km long and 355 km across at its widest point, with an area of roughly 438,000 sq km and an average depth of 490 m. Approximately 40% of its area is less than 100 m deep, and its shallow shelves support more than 1,000 invertebrate species and 200 types of coral. Its southern connection to the ocean runs through the Bab-el-Mandeb Strait, and in the north it leads to the [[Suez Canal]] by way of the Gulf of Suez. The English name translates the [[Ancient Greek]] *Erythrà Thálassa*. The Biblical Hebrew name *Yam Suph* alludes to the parting of the sea for the [[Israelites]]. [[Ancient Egypt|Ancient Egyptians]] explored it around 2500 BCE in search of trade routes to Punt. Shipping through the sea fell substantially after late 2023 because of Houthi attacks.
+
+=== KEY: Red_algae_539ff7
+HEADWORD: Red algae = 홍조류
+LEVEL: 4
+GLOSSARY:
+  Algae = 조류
+  Alternation of generations = 세대 교번
+  Calcium carbonate = 탄산 칼슘
+  Chloroplast = 엽록체
+  Coral reef = 산호초
+  Coralline = 산호조류
+  Dulse = 덜스
+  Green algae = 녹조류
+  Palmaria palmata = Palmaria palmata
+  Phylum = 문
+  Porphyra = Porphyra
+  Red algae = 홍조류
+  agar = 한천
+  alternation of generations = 세대 교번
+  calcium carbonate = 탄산 칼슘
+  carrageenans = 카라기난
+  centrioles = 중심소체
+  eukaryotic = 진핵
+  flagella = 편모
+  floridean starch = 홍조 녹말
+  green algae = 녹조류
+  laver = 김
+  nori = 김
+  phycobiliproteins = 피코빌리단백질
+ENTRY:
+Phylum of mostly marine [[Algae|algae]], among the oldest and largest groups of eukaryotic algae, with over 7,000 recognized species. Red algae lack flagella and centrioles, and their red color comes from phycobiliproteins, although many species appear green, brown, or nearly black. Unlike [[Green algae|green algae]], they store sugars as floridean starch outside the [[Chloroplast|chloroplasts]]. Most species reproduce sexually, through an [[Alternation of generations|alternation of generations]]. Coralline species secrete [[Calcium carbonate|calcium carbonate]] and help build [[Coral reef|coral reefs]]. Dulse (*Palmaria palmata*) and laver, or nori (*Porphyra* species), are traditional foods in European and Asian cuisines. Red algae are also used to make agar and carrageenans, which serve as food additives.
+
+=== KEY: Red_blood_cell_53b6ec
+HEADWORD: Red blood cell = 적혈구
+LEVEL: 4
+GLOSSARY:
+  Blood transfusion = 수혈
+  Cell nucleus = 세포핵
+  Hemoglobin = 헤모글로빈
+  Oxygen = 산소
+  biconcave = 양오목
+  bone marrow = 골수
+  capillaries = 모세혈관
+  erythrocytes = 적혈구
+  macrophages = 대식세포
+  organelles = 세포 소기관
+  oxygen saturation = 산소 포화도
+  pulse oximetry = 맥박 산소 측정법
+  red blood cells = 적혈구
+ENTRY:
+Most common type of blood cell, which delivers [[Oxygen|oxygen]] to the body's tissues as it passes through the capillaries. Red blood cells, also called erythrocytes, are rich in [[Hemoglobin|hemoglobin]], an iron-containing protein that binds oxygen and gives blood its red color. Each human red blood cell contains about 270 million hemoglobin molecules. Mature human red blood cells are flexible biconcave disks without a [[Cell nucleus|nucleus]] or organelles, which leaves more space for hemoglobin. Adults produce about 2.4 million new cells per second in the bone marrow. Cells circulate for about 100–120 days before macrophages recycle their components. Red blood cells make up roughly 40% to 45% of blood volume. Donated red cells are stored for [[Blood transfusion|transfusion]], and pulse oximetry uses the color change of hemoglobin to measure blood oxygen saturation.
+
+=== KEY: Red_deer_5893c0
+HEADWORD: Red deer = 붉은사슴
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Anatolia = 아나톨리아
+  Asia = 아시아
+  Atlas = 지도책
+  Atlas Mountains = 아틀라스산맥
+  Australia = 오스트레일리아
+  Caucasus = 캅카스
+  Cervus elaphus = Cervus elaphus
+  Deer = 사슴
+  Europe = 유럽
+  Iran = 이란
+  New Zealand = 뉴질랜드
+  Portugal = 포르투갈
+  Ruminant = 반추동물
+  Species = 종
+  United Kingdom = 영국
+  United States = 미국
+  Zealand = 셸란섬
+  hart = 수사슴
+  hind = 암사슴
+  red deer = 붉은사슴
+  stag = 수사슴
+ENTRY:
+Species of large [[Deer|deer]] (*Cervus elaphus*) native to most of [[Europe]], the Caucasus, Anatolia, Iran, and parts of western Asia. A male is called a stag or hart and a female a hind. Stags typically weigh 160 to 240 kg, and the red deer is the fourth-largest extant deer species. It is a [[Ruminant|ruminant]] with a four-chambered stomach. It is the only living deer species to inhabit Africa, where it lives in the [[Atlas Mountains|Atlas Mountains]]. Introduced populations live in [[Australia]], [[New Zealand]], and the [[United States]]. Although it was once rare in parts of Europe, it was never close to extinction, and reintroduction has increased populations in the United Kingdom and Portugal. Genetic evidence suggests the red deer is a species group, though the number of species remains disputed.
+
+=== KEY: Red_dwarf_ffe5cf
+HEADWORD: Red dwarf = 적색 왜성
+LEVEL: 5
+GLOSSARY:
+  Helium = 헬륨
+  Main sequence = 주계열
+  Milky Way = 우리은하
+  Proxima Centauri = 프록시마 켄타우리
+  Star = 항성
+  Sun = 태양
+  blue dwarfs = 청색 왜성
+  fully convective = 완전 대류
+  main-sequence star = 주계열성
+  red dwarfs = 적색왜성
+ENTRY:
+Smallest, coolest, and least luminous kind of [[Main sequence|main-sequence]] [[Star|star]]. Red dwarfs are the most common fusing stars in the [[Milky Way]], perhaps three-quarters of them according to some estimates. [[Proxima Centauri]], the nearest star to the [[Sun]], is a red dwarf, as are fifty of the sixty nearest stars. Stars below 0.35 M☉ are fully convective, which remixes [[Helium|helium]] and lets a low-mass red dwarf keep a steady luminosity for trillions of years. The term has no strict definition; one of its earliest uses, in 1915, contrasted red dwarfs with hotter blue dwarfs.
+
+=== KEY: Red_eared_slider_0637a3
+HEADWORD: Red-eared slider = 붉은귀거북
+LEVEL: 4
+GLOSSARY:
+  Australia = 오스트레일리아
+  Egg = 알
+  Europe = 유럽
+  Gerard Troost = 헤라르트 트루스트
+  Invasive species = 침입종
+  Mexico = 멕시코
+  Trachemys scripta elegans = Trachemys scripta elegans
+  Troost's turtle = 트루스트거북
+  Turtle = 거북
+  United States = 미국
+  chelonian = 거북류
+  pond slider = 연못거북
+ENTRY:
+Subspecies of pond slider [[Turtle|turtle]] (*Trachemys scripta elegans*) native to the southern United States and northern Mexico. It is named for the red stripe behind each eye and is popular as a pet worldwide. It is the most commonly traded chelonian and is included on the list of the world's 100 most [[Invasive species|invasive species]]. Released pets have established populations in [[Europe]] and [[Australia]], where they outcompete native species. Adults are typically 15 to 20 cm long, and females are usually larger than males. They typically live 20 to 30 years, sometimes more than 40, and live longer in captivity. Juveniles eat invertebrates, fish, and amphibians, while adults eat more plants. Females lay several clutches of 2–30 [[Egg|eggs]] a year. The species was formerly known as Troost's turtle, after herpetologist Gerard Troost.
+
+=== KEY: Red_ee38e4
+HEADWORD: Red = 빨간색
+LEVEL: 4
+GLOSSARY:
+  Bolshevik = 볼셰비키
+  Bolshevik Revolution = 볼셰비키 혁명
+  CMYK = CMYK
+  CMYK color model = CMYK 색 모형
+  China = 중국
+  Color = 색
+  Cyan = 청록색
+  India = 인도
+  Ochre = 황토
+  Prehistoric art = 선사 미술
+  Primary color = 원색
+  RGB color model = RGB 색 모형
+  Russia = 러시아
+  Soviet Russia = 소비에트 러시아
+  Vermilion = 주홍색
+  burgundy = 버건디
+  complementary color = 보색
+  crimson = 크림슨
+  magenta = 마젠타
+  scarlet = 스칼렛
+  secondary color = 2차색
+  visible spectrum = 가시 스펙트럼
+ENTRY:
+Color at the long-wavelength end of the visible spectrum, next to orange. Its dominant wavelength is approximately 625–750 nanometers. It is a [[Primary color|primary color]] in the [[RGB color model]] and a secondary color, made from magenta and yellow, in the [[CMYK color model]]. It is the complementary color of [[Cyan|cyan]]. Reds range from yellow-tinged scarlet and [[Vermilion|vermilion]] to bluish-red crimson, and from pale pink to dark burgundy. Red pigment made from [[Ochre|ochre]] was among the first colors used in [[Prehistoric art|prehistoric art]]. Red became a symbolic color of communism and socialism, and Soviet Russia adopted a red flag following the Bolshevik Revolution in 1917. Because red is the color of blood, it has long been associated with sacrifice, danger and courage. In China, India and many other Asian countries it symbolizes happiness and good fortune.
+
+=== KEY: Red_fox_43521a
+HEADWORD: Red fox = 붉은여우
+LEVEL: 5
+GLOSSARY:
+  Africa = 아프리카
+  Australia = 오스트레일리아
+  Carnivora = 식육목
+  Eurasia = 유라시아
+  Fur trade = 모피 무역
+  Golden eagle = 검독수리
+  IUCN = 국제 자연 보전 연맹
+  Least Concern = 최소 관심
+  Middle Pleistocene = 중기 플라이스토세
+  North Africa = 북아프리카
+  Northern Hemisphere = 북반구
+  Pleistocene = 플라이스토세
+  Suburb = 교외
+  Urban area = 도시 지역
+  true foxes = 여우속
+ENTRY:
+Largest of the true foxes and the most widely distributed member of the order [[Carnivora]]. It ranges across the Northern Hemisphere and parts of North Africa, and was introduced to Australia, where it preys on native rodents and marsupials. It originated in [[Eurasia]] during the Middle [[Pleistocene]], 400,000 years ago, and forty-six subspecies are recognized. Its predators include the [[Golden eagle|golden eagle]], and it has been extensively hunted for its [[Fur trade|fur]]. Listed as Least Concern by the IUCN, it is also on the list of the world's 100 worst invasive species. It has successfully colonized many [[Suburb|suburban]] and [[Urban area|urban]] areas.
+
+=== KEY: Red_giant_44c7d0
+HEADWORD: Red giant = 적색 거성
+LEVEL: 4
+GLOSSARY:
+  Arcturus = 아르크투루스
+  Light-year = 광년
+  Main sequence = 주계열
+  Planetary nebula = 행성상 성운
+  Sun = 태양
+  White dwarf = 백색 왜성
+  planetary nebula = 행성상 성운
+  red giant = 적색 거성
+  red giants = 적색 거성
+  red-giant branch = 적색 거성 가지
+  solar masses = 태양 질량
+  stellar evolution = 항성 진화
+  white dwarf = 백색 왜성
+ENTRY:
+Luminous giant star of low or intermediate mass, roughly 0.3–8 solar masses, in a late phase of stellar evolution. Its outer atmosphere is inflated and tenuous, so its radius is large and its surface temperature is around 5,000 K (4,700 °C; 8,500 °F) or lower, giving it a color from yellow-white to reddish-orange. Having exhausted the hydrogen in its core, it fuses hydrogen in a shell around an inert helium core. Red giants evolve from [[Main sequence|main-sequence]] stars. Their radii are tens to hundreds of times larger than that of the [[Sun]], and their luminosities can reach nearly three thousand times that of the Sun. Many well-known bright stars are red giants; [[Arcturus]], a K0 star on the red-giant branch, is 36 [[Light-year|light-years]] away. A red giant usually produces a [[Planetary nebula|planetary nebula]] and becomes a [[White dwarf|white dwarf]] at the end of its life.
+
+=== KEY: Red_junglefowl_7127e6
+HEADWORD: Red junglefowl = 적색야계
+LEVEL: 5
+GLOSSARY:
+  Asia = 아시아
+  Camouflage = 위장
+  Carl Linnaeus = 칼 폰 린네
+  Chicken = 닭
+  Domestication = 가축화
+  Linnaeus = 린네
+  South Asia = 남아시아
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  Species = 종
+  galliform = 닭목
+  hackle feathers = 목깃
+ENTRY:
+Species of tropical galliform bird and primary ancestor of the domestic [[Chicken|chicken]]. Found across much of [[Southeast Asia]] and parts of [[South Asia]], it was formally described in 1758 by [[Carl Linnaeus|Linnaeus]]. Chickens were first [[Domestication|domesticated]] from it about 8,000 years ago. Males weigh around 1.5 kilograms (3.3 lb) and females around 1 kilogram (2.2 lb). Males have much brighter plumage than the drab females, with golden hackle feathers and a tail of iridescent feathers up to 28 centimeters (11 in) long, which suits the females' [[Camouflage|camouflage]]. The wild form is sometimes kept in zoos and parks for pest control.
+
+=== KEY: Red_light_district_27df6b
+HEADWORD: Red-light district = 홍등가
+LEVEL: 5
+GLOSSARY:
+  Amsterdam = 암스테르담
+  Dictionary = 사전
+  Hamburg = 함부르크
+  Oxford = 옥스퍼드
+  Oxford English Dictionary = 옥스퍼드 영어 사전
+  Prostitution = 성매매
+  akasen = 아카센
+  strip clubs = 스트립 클럽
+ENTRY:
+Part of an urban area with a concentration of prostitution and sex-oriented businesses, such as sex shops, strip clubs and adult theaters. Such districts are particularly associated with female street [[Prostitution|prostitution]], though some coincide with male prostitution and gay venues. According to the [[Oxford English Dictionary]], the term appeared in print in 1894. Some districts, such as those in [[Amsterdam]] and [[Hamburg]], are officially designated for legal, regulated prostitution, and authorities often confined them to a single area. Japanese police once drew red lines on maps to mark the boundaries of legal districts, called *akasen*, or red-line.
+
+=== KEY: Red_panda_e3115f
+HEADWORD: Red panda = 레서판다
+LEVEL: 5
+GLOSSARY:
+  Bamboo = 대나무
+  China = 중국
+  Conifer = 구과식물
+  Deforestation = 삼림 벌채
+  Endangered = 위기
+  Giant panda = 대왕판다
+  Himalayas = 히말라야산맥
+  IUCN = 국제 자연 보전 연맹
+  IUCN Red List = IUCN 적색 목록
+  Red List = 적색 목록
+  Temperate broadleaf and mixed forests = 온대 활엽수 혼합림
+  lesser panda = 레서판다
+ENTRY:
+Small arboreal mammal native to the eastern [[Himalayas]] and southwestern China, also called the lesser panda. It has dense reddish-brown fur, a black belly and legs, and a ringed tail, and weighs between 3.2 and 15 kg (7.1 and 33.1 lb). It is not closely related to the [[Giant panda|giant panda]], a bear; genetic evidence places it near raccoons, weasels and skunks. It feeds mainly on [[Bamboo|bamboo]] shoots and leaves, and inhabits [[Conifer|coniferous]] and [[Temperate broadleaf and mixed forests|temperate broadleaf and mixed forests]]. Listed as Endangered on the IUCN Red List since 2015, it is threatened by poaching and [[Deforestation|deforestation]].
+
+=== KEY: Red_squirrel_a2860c
+HEADWORD: Red squirrel = 청설모
+LEVEL: 5
+GLOSSARY:
+  Calabrian black squirrel = 칼라브리아검은다람쥐
+  Conifer = 구과식물
+  Eurasia = 유라시아
+  Genus = 속
+  Iberian = 이베리아
+  Iberian Peninsula = 이베리아반도
+  Italy = 이탈리아
+  Lena = 레나강
+  Lena River = 레나강
+  Peninsula = 반도
+  River = 강
+  Rodent = 설치류
+  Sciurus = Sciurus
+  Scotland = 스코틀랜드
+  Siberia = 시베리아
+  Species = 종
+  United Kingdom = 영국
+  gray squirrels = 회색다람쥐
+  squirrelpox virus = 다람쥐폭스바이러스
+ENTRY:
+Species of tree squirrel in the [[Genus|genus]] *Sciurus*, common throughout [[Eurasia]]. An arboreal, primarily herbivorous [[Rodent|rodent]], it eats mainly [[Conifer|conifer]] seeds, nuts and fungi, and caches food in autumn. At present 23 subspecies are recognized, though the status of some is uncertain. Subspecies range from the [[Iberian Peninsula]] to the [[Lena River]] in Siberia. In 2017 a subspecies from southern [[Italy]] was elevated to species status as the Calabrian black squirrel. In the United Kingdom, introduced gray squirrels outcompete the native species and transmit squirrelpox virus, reducing British numbers to approximately 287,000, concentrated in [[Scotland]] and isolated areas.
+
+=== KEY: Red_winged_blackbird_7be069
+HEADWORD: Red-winged blackbird = 붉은어깨검은새
+LEVEL: 4
+GLOSSARY:
+  Agelaius = Agelaius
+  Alaska = 알래스카주
+  Ancient Greek = 고대 그리스어
+  British Columbia = 브리티시컬럼비아주
+  Carl Linnaeus = 칼 폰 린네
+  Central America = 중앙아메리카
+  Columbia = 컬럼비아
+  Florida = 플로리다주
+  Guatemala = 과테말라
+  Gulf of Mexico = 멕시코만
+  Icteridae = 찌르레기사촌과
+  Linnaeus = 린네
+  Mexico = 멕시코
+  Newfoundland = 뉴펀들랜드
+  North America = 북아메리카
+  Oriolus phoeniceus = Oriolus phoeniceus
+  Passerine = 참새목
+  Pennsylvania = 펜실베이니아주
+  Seed = 씨앗
+ENTRY:
+Passerine bird of the family Icteridae found in most of North America and much of Central America. It breeds from [[Alaska]] and Newfoundland south to Florida, the [[Gulf of Mexico]], Mexico and Guatemala. Northern populations are generally migratory, while some may winter as far north as [[Pennsylvania]] and [[British Columbia]]. Claims have been made that it is the most abundant living land bird in North America: wintering flocks can exceed a million birds, and breeding pairs across North and Central America may exceed 250 million in peak years. The male is all black with a red shoulder and yellow wing bar, while the female is a nondescript dark brown. [[Seed|Seeds]] and insects make up the bulk of its diet. The species was first described as *Oriolus phoeniceus* by [[Carl Linnaeus]] in 1766, and its genus name *Agelaius* derives from an Ancient Greek word meaning gregarious.
+
+=== KEY: Red_wolf_692f39
+HEADWORD: Red wolf = 붉은늑대
+LEVEL: 5
+GLOSSARY:
+  Coyote = 코요테
+  Endangered species = 멸종 위기종
+  Fish = 어류
+  U.S. Fish and Wildlife Service = 미국 어류·야생동물관리국
+  United States = 미국
+  coywolf = 코이울프
+  gray wolf = 회색늑대
+ENTRY:
+Canid native to the southeastern United States, intermediate in size between the [[Coyote|coyote]] and gray wolf. Its species status has been contested for nearly a century; it has been considered either a subspecies of the gray wolf or a coywolf, a genetic admixture of coyote and wolf. The U.S. Fish and Wildlife Service listed it as [[Endangered species|endangered]] in 1973. As of August 2026, the wild population was estimated at approximately 22–23 adults and subadults, plus 14–15 pups, and around 295 were held in captive conservation programs.

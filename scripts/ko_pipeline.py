@@ -152,11 +152,17 @@ def terms_for(e, full, local):
     for n in range(1, 7):
         for i in range(len(words) - n + 1):
             found.add(" ".join(words[i:i + n]).strip(".,"))
+    links = {m.group(1) for m in LINK.finditer(e["entry"])}
+    own = local.get(e["key"], {})  # terms chosen by the glossary agent that read this entry
     out = {}
     for t in found:
+        # a global term from other groups matches only if it is unlikely to be an everyday word in another sense
+        # ("It" = a novel, "value" = 명도 in color theory): link targets, own-group terms, multiword terms, longer names
+        if not (t in links or t in own or " " in t or (t[:1].isupper() and len(t) >= 4)):
+            continue
         rec = full.get(t)
         if rec == "context":
-            rec = local.get(e["key"], {}).get(t)
+            rec = own.get(t)
         if rec:
             out[t] = rec
     return out

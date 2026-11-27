@@ -1,0 +1,907 @@
+=== KEY: Plasmid_63aa32
+HEADWORD: Plasmid = 플라스미드
+LEVEL: 4
+GLOSSARY:
+  Antibiotic = 항생제
+  Archaea = 고균
+  Bacteria = 세균
+  Cloning = 클로닝
+  EcoRI = EcoRI
+  Insulin = 인슐린
+  Joshua = 여호수아
+  Joshua Lederberg = 조슈아 레더버그
+  Virus = 바이러스
+  antibiotic resistance = 항생제 내성
+  archaea = 고세균
+  bioremediation = 생물학적 정화
+  capsid = 캡시드
+  conjugation = 접합
+  horizontal gene transfer = 수평적 유전자 이동
+  kbp = kbp
+  molecular cloning = 분자 클로닝
+  restriction enzymes = 제한 효소
+  transformation = 형질 전환
+  vectors = 벡터
+  virulence = 독력
+ENTRY:
+Small, usually circular DNA molecule that replicates independently of chromosomal DNA. Plasmids are most commonly found in [[Bacteria|bacteria]] and [[Archaea|archaea]], though some occur in eukaryotes. They often carry genes for [[Antibiotic|antibiotic]] resistance, virulence, secondary metabolism and bioremediation, and they are usually much smaller than chromosomes. Artificial plasmids are widely used as vectors in [[Cloning|molecular cloning]] and are introduced into cells by transformation. Plasmids pass between bacteria mostly by conjugation, a route of horizontal gene transfer. Unlike [[Virus|viruses]], plasmids lack a protein capsid. They range from 1 to over 400 kbp in size, and a cell may hold from one to thousands of copies. Joshua Lederberg coined the term in 1952. In 1973 recombinant plasmids were constructed with restriction enzymes such as EcoRI, enabling the production of [[Insulin|insulin]].
+
+=== KEY: Plastic_1c2301
+HEADWORD: Plastic = 플라스틱
+LEVEL: 3
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Bakelite = 베이클라이트
+  Landfill = 매립지
+  Leo Baekeland = 리오 베이클랜드
+  Natural gas = 천연가스
+  Petroleum = 석유
+  Polyethylene = 폴리에틸렌
+  Polymer = 중합체
+  Polyvinyl chloride = 폴리염화 비닐
+  York = 요크
+  marine garbage patches = 해양 쓰레기 지대
+  metric tons = 미터톤
+  microplastics = 미세 플라스틱
+  polylactic acid = 폴리젖산
+ENTRY:
+Wide range of synthetic or semisynthetic materials composed primarily of [[Polymer|polymers]]. Their defining characteristic, plasticity, allows them to be molded, extruded, or pressed into a diverse range of solid forms. This adaptability, combined with low weight, durability, flexibility, chemical resistance, low toxicity, and low-cost production, has led to widespread use. The word derives from the Ancient Greek *plastikos*, "capable of being shaped or molded." Most plastics are produced from [[Natural gas|natural gas]] and [[Petroleum|petroleum]], while a growing minority come from renewable resources such as polylactic acid.
+
+The first fully synthetic plastic was [[Bakelite]], invented in New York in 1907 by [[Leo Baekeland]], who coined the term plastics. Dozens of types are now produced, such as [[Polyethylene|polyethylene]], widely used in packaging, and [[Polyvinyl chloride]] (PVC), used in construction and pipes for its strength and durability.
+
+An estimated 9.2 billion metric tons of plastic were made between 1950 and 2017, more than half of it since 2004. Preliminary figures indicate that over 400 million metric tons were produced worldwide in 2023 alone, and annual production is projected to exceed 1.3 billion tons by 2060 if demand trends continue. Packaging accounts for about 40% of use and building and construction for about 20%.
+
+Plastics have brought major benefits, from medical devices to lightweight construction materials, and many countries' sewage systems rely on PVC. They are also the basis of widespread environmental concern because of their slow decomposition in natural ecosystems. Most plastic produced has not been reused. Much ends up in [[Landfill|landfills]] or as pollution, including microplastics and marine garbage patches. Of all plastic discarded so far, about 14% has been incinerated and less than 10% recycled.
+
+=== KEY: Plastic_surgery_efff7e
+HEADWORD: Plastic surgery = 성형외과
+LEVEL: 4
+GLOSSARY:
+  Body dysmorphic disorder = 신체 이형 장애
+  Bologna = 볼로냐
+  Edwin Smith papyrus = 에드윈 스미스 파피루스
+  Gaspare Tagliacozzi = 가스파레 탈리아코치
+  Harold Gillies = 해럴드 길리스
+  World = 세계
+  World War I = 제1차 세계 대전
+  cosmetic surgery = 미용 성형
+  reconstructive surgery = 재건 성형
+  rhinoplasty = 코 성형술
+  skin flaps = 피부판
+  skin grafting = 피부 이식
+ENTRY:
+Surgical specialty concerned with restoring, reconstructing or altering the body. It is divided into reconstructive surgery, which restores or improves the function of body parts, and cosmetic surgery, which aims solely to improve appearance. It overlaps with nearly all other surgical specialties. The word *plastic* derives from the Greek *plastikē tekhnē*, "the art of modeling." The Edwin Smith papyrus (c. 1600 BC) describes treatment of a broken nose, and the *Sushruta Samhita* described nasal reconstruction using skin flaps. Gaspare Tagliacozzi of [[Bologna]] popularized rhinoplasty using a flap of skin from the patient's upper arm. Modern plastic surgery emerged during [[World War I]], when Harold Gillies developed skin grafting and flap techniques for facial injuries. Over 20 million cosmetic procedures are performed annually worldwide, and empirical data show variable psychological benefits, with risks including dissatisfaction and worsened [[Body dysmorphic disorder|body dysmorphic disorder]].
+
+=== KEY: Plasticity_physics_8e259f
+HEADWORD: Plasticity = 소성
+LEVEL: 4
+GLOSSARY:
+  Concrete = 콘크리트
+  Foam = 폼
+  Metal = 금속
+  Plastic = 플라스틱
+  Rock (geology) = 암석
+  cold forming = 냉간 성형
+  dislocations = 전위
+  ductility = 연성
+  malleability = 전성
+  microcracks = 미세 균열
+  slip = 미끄럼
+  twinning = 쌍정
+  von Mises yield criterion = 폰 미제스 항복 조건
+  yielding = 항복
+ENTRY:
+Permanent deformation of a solid material in response to applied forces. In engineering, the transition from elastic to plastic behavior is called yielding. Plastic deformation occurs in most materials, including [[Metal|metals]], soils, [[Rock (geology)|rocks]], [[Concrete|concrete]] and [[Foam|foams]], but its physical causes vary. In metals it results mainly from dislocations, and a pure metal deforms by slip or twinning. In brittle materials such as rock, concrete and bone, it is caused mainly by slip at microcracks, while in foams and biological tissues it arises from rearrangements of bubbles or cells. Most metals are more plastic when hot than when cold. Plasticity is directly proportional to the ductility and malleability of a material. Materials hardened by prior deformation, such as by cold forming, need higher stresses to deform further. The von Mises yield criterion predicts yielding in metals.
+
+=== KEY: Plastid_a5a0be
+HEADWORD: Plastid = 색소체
+LEVEL: 4
+GLOSSARY:
+  Andreas Schimper = 안드레아스 심퍼
+  Archaeplastida = 고색소체류
+  Chloroplast = 엽록체
+  Fat = 지방
+  Meristem = 분열 조직
+  Photosynthesis = 광합성
+  Plastids = 색소체
+  Starch = 녹말
+  amyloplasts = 녹말체
+  chloroplasts = 엽록체
+  chromoplasts = 유색체
+  cyanobacteria = 남세균
+  elaioplasts = 엘라이오플라스트
+  endosymbiosis = 세포 내 공생
+  endosymbiotic = 세포내 공생
+  glaucophytes = 회색조류
+  green algae = 녹조류
+  kleptoplasty = 도엽록체 현상
+  land plants = 육상 식물
+  leucoplasts = 백색체
+  plastome = 색소체 유전체
+  proplastids = 원색소체
+  red algae = 홍조류
+ENTRY:
+Membrane-bound organelle found in the cells of plants, algae and some other eukaryotes. Plastids are considered to derive from endosymbiotic cyanobacteria. Types include [[Chloroplast|chloroplasts]], which perform [[Photosynthesis|photosynthesis]]; chromoplasts, which synthesize and store pigments; and colorless leucoplasts. A primary endosymbiosis about 1.5 billion years ago gave rise to plastids in the Archaeplastida, including land plants, red algae, green algae and glaucophytes. Later secondary and tertiary endosymbioses occurred in many organisms, and some keep ingested plastids in a process called kleptoplasty. Andreas Schimper first named, described and defined plastids. In land plants, plastids derive from proplastids in [[Meristem|meristematic]] regions and can differentiate into forms such as amyloplasts, which store [[Starch|starch]] and help detect gravity, and elaioplasts, which store [[Fat|fats]]. Each plastid has its own genome, or plastome.
+
+=== KEY: Platanus_0a07da
+HEADWORD: Platanus = 버즘나무속
+LEVEL: 4
+GLOSSARY:
+  Genus = 속
+  Hybrid (biology) = 잡종
+  Latin = 라틴어
+  London = 런던
+  London plane = 런던 플라타너스
+  Oriental plane = 양버즘나무
+  Platanaceae = 버즘나무과
+  Tree = 나무
+  Wetland = 습지
+  achenes = 수과
+  riparian = 하천변
+  sycamores = 시카모어
+  type species = 모식종
+ENTRY:
+Genus of [[Tree|trees]] that are the sole living members of the family Platanaceae. Mature members reach 30–50 m (98–164 ft) in height. The type species is the Oriental plane (*Platanus orientalis*). All except *P. kerrii* are deciduous, and most grow in riparian or other [[Wetland|wetland]] habitats in the wild, though they tolerate drought in cultivation. The name plane derives from Latin *platanus*, from a Greek word that may relate to *platýs*, meaning broad, a reference to the broad leaves or flat bark. Some North American species are called sycamores, especially *P. occidentalis*. The flowers are wind-pollinated and borne in balls, and the fruit is a ball of achenes with bristles that aid wind dispersal. The bark peels off in irregular patches. The [[Hybrid (biology)|hybrid]] London plane (*P.* × *hispanica*) has proved particularly tolerant of urban conditions and is widely planted in London and elsewhere in the temperate world.
+
+=== KEY: Plate_armour_a66a98
+HEADWORD: Plate armor = 판금 갑옷
+LEVEL: 4
+GLOSSARY:
+  Europe = 유럽
+  Heavy cavalry = 중기병
+  Hundred Years' War = 백년 전쟁
+  Late Middle Ages = 중세 후기
+  Middle Ages = 중세
+  Musket = 머스킷
+  Renaissance = 르네상스
+  breastplate = 흉갑
+  coat of plates = 코트 오브 플레이츠
+  cuirass = 퀴래스
+  mail = 사슬 갑옷
+  panoply = 판오플리
+  three-quarter suits = 4분의 3 갑옷
+ENTRY:
+Historical type of personal body armor made of bronze, iron or steel plates. Full plate steel armor developed in Europe during the Late Middle Ages, especially in the context of the [[Hundred Years' War|Hundred Years' War]], evolving from a coat of plates worn over mail. Full plate reached its peak in the 15th and 16th centuries, and the complete suit, or panoply, is a feature of the end of the [[Middle Ages|Middle Ages]] and the [[Renaissance|Renaissance]]. Heavy cavalry wore the heaviest armor, while some infantry wore lighter three-quarter suits. Use declined in the early 17th century, and after the mid-17th century plate was mostly reduced to the breastplate, or cuirass, because of its weight and because the [[Musket|musket]] could penetrate common armor at range. Mail, made of interlinked iron or steel rings, was worn from the 9th to the 14th centuries. A complete suit typically weighed 45–55 pounds (20–25 kg).
+
+=== KEY: Plate_dishware_fd7801
+HEADWORD: Plate = 접시
+LEVEL: 4
+GLOSSARY:
+  Broad = 브로드강
+  Dinner = 저녁 식사
+  Francis = 프랑수아
+  Francis I = 프랑수아 1세
+  Francis I of France = 프랑수아 1세
+  French = 프랑스어
+  Porcelain = 자기
+  Southeast = 남동부
+  Tableware = 식기
+  bone china = 본차이나
+  earthenware = 토기
+  stoneware = 석기
+ENTRY:
+Broad, mainly flat vessel from which food is served or eaten. Plates are [[Tableware|tableware]], typically circular and raised at the edges by a curving wall or a wider lip. In Western culture and many others, the plate is the typical vessel for food that is not too liquid, whereas bowls serve liquid food. Plates of wood, pottery and metal date to antiquity. Some South and Southeast Asian cultures use leaf plates, while East Asian cultures use bamboo and paper. Modern plates are commonly made of [[Porcelain|porcelain]], bone china, earthenware and stoneware, as well as glass, wood and metal. Disposable plates, usually of plastic or paper pulp, were invented in 1904. Dinner plates measure 9–13 inches (23–33 cm) in diameter. The diameter of a typical dinner plate is estimated to have increased by 65% since 1000 AD. Regular plates returned to fashion at the French court under [[Francis I of France|Francis I]] around 1536.
+
+=== KEY: Plate_tectonics_4cc4f3
+HEADWORD: Plate tectonics = 판 구조론
+LEVEL: 3
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred Wegener = 알프레트 베게너
+  Convection = 대류
+  Density = 밀도
+  Earth = 지구
+  Earthquake = 지진
+  Europa (moon) = 유로파
+  Hotspot (geology) = 열점
+  Lithosphere = 암석권
+  Mars = 화성
+  Mid-Atlantic = 중부 대서양 연안
+  Mid-Atlantic Ridge = 대서양 중앙 해령
+  Moon = 달
+  Nazca = 나스카
+  Nazca plate = 나스카판
+  Oceanic trench = 해구
+  Scientific theory = 과학 이론
+  Venus = 금성
+  asthenosphere = 연약권
+  continental drift = 대륙 이동설
+  convection currents = 대류
+  convergent = 수렴형
+  convergent boundaries = 수렴 경계
+  divergent = 발산형
+  mantle = 맨틀
+  oceanic crust = 해양 지각
+  oceanic trench = 해구
+  plate tectonics = 판 구조론
+  seafloor spreading = 해저 확장
+  subduction = 섭입
+  subduction zones = 섭입대
+  surface area = 겉넓이
+  tectonic plates = 지각판
+  tidal drag = 조석 마찰
+  transform = 변환형
+  upper mantle = 상부 맨틀
+ENTRY:
+Scientific theory of Earth's [[Lithosphere|lithosphere]] as divided into large tectonic plates that have been slowly moving since 3–4 billion years ago. It grew out of continental drift, proposed by [[Alfred Wegener]] in 1912, and was accepted after seafloor spreading was validated in the mid- to late 1960s.
+
+The lithosphere, the rigid outer shell including the crust and upper mantle, is fractured into seven or eight major plates and many minor ones, riding on the ductile asthenosphere beneath. Relative motion defines three boundary types: convergent, divergent, and transform. Plates move from 10 to 40 mm a year at the [[Mid-Atlantic Ridge]] to about 160 mm a year for the Nazca plate. Boundaries are geologically active, with [[Earthquake|earthquakes]], volcanic activity, mountain-building, and [[Oceanic trench|oceanic trench]] formation; about 90% of earthquakes occur there. [[Hotspot (geology)|Hotspot]] volcanism produces volcanoes far from boundaries.
+
+At convergent boundaries, subduction carries one plate's edge down under another into the mantle, reducing Earth's surface area. New oceanic crust formed at divergent margins by seafloor spreading balances the loss in a tectonic "conveyor belt." Density variations in the mantle produce [[Convection|convection]] currents, and the sinking of cold, dense oceanic crust at subduction zones is the strongest driver of plate motion; other proposed factors, such as tidal drag of the Moon, are debated.
+
+Earth is the only planet known to have active plate tectonics. Jupiter's moon [[Europa (moon)|Europa]] shows signs of moving ice plates, and Mars and Venus are thought to have had tectonic activity in the past.
+
+=== KEY: Plateau_5cf2a0
+HEADWORD: Plateau = 고원
+LEVEL: 4
+GLOSSARY:
+  Antarctic Plateau = 남극고원
+  Antarctica = 남극 대륙
+  Appalachian Mountains = 애팔래치아산맥
+  Area = 넓이
+  Atlantic Plain = 대서양 평야
+  Columbia = 컬럼비아
+  Columbia Plateau = 컬럼비아고원
+  Deccan = 데칸
+  Deccan Plateau = 데칸고원
+  East Antarctica = 동남극
+  Erosion = 침식
+  Ethiopian Highlands = 에티오피아 고원
+  Glacier = 빙하
+  Highlands = 하일랜드
+  India = 인도
+  Lava = 용암
+  Piedmont = 피에몬테
+  Piedmont Plateau = 피드몬트고원
+  Plain = 평야
+  Plateau = 고원
+  Tibetan = 티베트어
+  Tibetan Plateau = 티베트고원
+  United States = 미국
+  escarpments = 급경사면
+  intermontane = 산간
+  piedmont = 산록
+  tableland = 탁상지
+ENTRY:
+Area of highland with flat terrain, raised sharply above the surrounding land on at least one side. Also called a high plain or tableland, a plateau often has steep escarpments or hills on one or more sides. Plateaus form through volcanic magma upwelling, [[Lava|lava]] extrusion, tectonic uplift, and [[Erosion|erosion]] by water and [[Glacier|glaciers]]. Lava plateaus include the [[Deccan Plateau|Deccan Plateau]] in India and the Columbia Plateau in the United States. Plateaus are classed as intermontane, piedmont or continental. The [[Tibetan Plateau|Tibetan Plateau]], the highest and largest in the world, averages over 4,500 meters in elevation, and the Antarctic Plateau covers most of East Antarctica. The Piedmont Plateau lies between the [[Appalachian Mountains|Appalachian Mountains]] and the Atlantic Plain. The Ethiopian Highlands, the highest African plateau, have little of their surface below 1,500 meters (4,921 ft).
+
+=== KEY: Platinum_bf381e
+HEADWORD: Platinum = 백금
+LEVEL: 4
+GLOSSARY:
+  Antonio de Ulloa = 안토니오 데 우요아
+  Catalytic converter = 촉매 변환기
+  Chemistry = 화학
+  Chemotherapy = 화학 요법
+  Copper = 구리
+  Dentistry = 치의학
+  Earth's crust = 지각
+  Gerhard Ertl = 게르하르트 에르틀
+  Nickel = 니켈
+  Nobel Prize = 노벨상
+  Nobel Prize in Chemistry = 노벨 화학상
+  Platinum = 백금
+  Pre-Columbian = 콜럼버스 이전
+  South American = 남아메리카
+  Transition metal = 전이 금속
+  carbon monoxide = 일산화 탄소
+  carboplatin = 카보플라틴
+  catalytic oxidation = 촉매 산화
+  cisplatin = 시스플라틴
+  noble metal = 귀금속
+  oxaliplatin = 옥살리플라틴
+  transition metal = 전이 금속
+ENTRY:
+Dense, malleable, precious [[Transition metal|transition metal]] with symbol Pt and atomic number 78. Its name derives from Spanish *platina*, a diminutive of *plata*, meaning silver. It is highly unreactive and does not corrode, even at high temperatures, which makes it a noble metal. Platinum has six naturally occurring isotopes. It is one of the rarer elements in Earth's crust, averaging about 5 μg/kg, and it occurs in some [[Nickel|nickel]] and [[Copper|copper]] ores as well as native deposits. Pre-Columbian South American peoples used it in artifacts, and Antonio de Ulloa reported on it in 1748. Platinum is used in [[Catalytic converter|catalytic converters]], laboratory equipment, electrical contacts, [[Dentistry|dentistry]] and jewelry, and in the glass industry. Compounds such as cisplatin, oxaliplatin and carboplatin are used in [[Chemotherapy|chemotherapy]]. In 2007 Gerhard Ertl won the Nobel Prize in Chemistry for determining the mechanisms of catalytic oxidation of carbon monoxide over platinum.
+
+=== KEY: Plato_3aa3cd
+HEADWORD: Plato = 플라톤
+LEVEL: 3
+GLOSSARY:
+  Academy = 아카데메이아
+  Alfred = 앨프레드 대왕
+  Alfred North Whitehead = 앨프리드 노스 화이트헤드
+  Ancient Greek = 고대 그리스어
+  Anytus = 아니토스
+  Aristotle = 아리스토텔레스
+  Athenian = 아테네의
+  Athenian democracy = 아테네 민주정
+  Athens = 아테네
+  Classical Athens = 고전기 아테네
+  Forms = 이데아
+  Heraclitus = 헤라클레이토스
+  Parmenides = 파르메니데스
+  Peloponnesian War = 펠로폰네소스 전쟁
+  Plato = 플라톤
+  Platonism = 플라톤주의
+  Pythagoras = 피타고라스
+  Republic (Plato) = 『국가』
+  Socrates = 소크라테스
+  Solon = 솔론
+  Theory = 이론
+  Theory of Forms = 이데아론
+  Theory of forms = 이데아론
+  dialectic = 변증술
+  philosopher-kings = 철인왕
+  problem of universals = 보편 논쟁
+ENTRY:
+Ancient Greek philosopher of [[Classical Athens]], most commonly considered the foundational thinker of the Western philosophical tradition. Born into an aristocratic Athenian family, he descended through his mother from [[Solon]], credited with laying the foundations of Athenian democracy. He grew up during the [[Peloponnesian War]] and, according to ancient writers, wrote poetry until he met [[Socrates]] and turned to philosophy.
+
+Socrates became his teacher and greatest source of inspiration. Plato never speaks in his own voice in his dialogues, and every dialogue except the *Laws* features Socrates; how far the Socrates of the dialogues reflects the historical man remains contested among scholars. The prosecution of Socrates by Anytus ended Plato's plans for a political career. He was influenced by Pythagoras, Heraclitus, and Parmenides.
+
+Plato was an innovator of the literary dialogue and dialectic forms and influenced all the major areas of theoretical and practical philosophy. He founded the Academy, a school in Athens, around 387 BC, where he taught the body of philosophical theories later known as Platonism; his students included [[Aristotle]]. His most famous contribution is the [[Theory of forms|Theory of Forms]], which posits immutable ideal archetypes beyond the sensible world and aims to solve the problem of universals. In the [[Republic (Plato)|*Republic*]] he outlined an ideal state ruled by philosopher-kings; admirers have praised its rationalism, while critics have pointed to its censorship of the arts and rigid class structure as potentially authoritarian.
+
+ His complete works are believed to have survived, unlike those of nearly all his contemporaries. [[Alfred North Whitehead]] said that "the safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato."
+
+=== KEY: Platonic_solid_daf681
+HEADWORD: Platonic solid = 플라톤 입체
+LEVEL: 5
+GLOSSARY:
+  Book = 책
+  Cube = 정육면체
+  Dodecahedron = 정십이면체
+  Elements = 『원론』
+  Euclid = 에우클레이데스
+  Plato = 플라톤
+  Tetrahedron = 사면체
+  Timaeus = 『티마이오스』
+  classical elements = 고전 원소
+  icosahedron = 정이십면체
+  octahedron = 정팔면체
+  regular polyhedra = 정다면체
+ENTRY:
+Any of the five convex regular polyhedra in three-dimensional space. Each has congruent regular polygonal faces, with the same number of faces meeting at every vertex: the [[Tetrahedron|tetrahedron]] (four triangular faces), [[Cube|cube]] (six square faces), octahedron (eight triangular faces), [[Dodecahedron|dodecahedron]] (twelve pentagonal faces) and icosahedron (twenty triangular faces). [[Plato|Plato]] associated four of them with the classical elements in his dialogue *Timaeus*. [[Euclid|Euclid]] described all five in Book XIII of his *Elements* and argued that no others exist.
+
+=== KEY: Platypus_4bec60
+HEADWORD: Platypus = 오리너구리
+LEVEL: 4
+GLOSSARY:
+  Australia = 오스트레일리아
+  EPBC Act = 환경보호 및 생물다양성보전법
+  Echidna = 가시두더지
+  IUCN = 국제 자연 보전 연맹
+  Monotreme = 단공류
+  Tasmania = 태즈메이니아
+  habitat destruction = 서식지 파괴
+  near threatened = 준위협
+ENTRY:
+Semiaquatic, egg-laying mammal of eastern [[Australia|Australia]], including [[Tasmania|Tasmania]]. The platypus (*Ornithorhynchus anatinus*) is the sole living member of its family and genus. With the four species of [[Echidna|echidna]], it is one of five living [[Monotreme|monotremes]]. It detects prey electrically while its eyes, ears and nostrils are closed, and males have venomous spurs on their hind feet. In 1799 scientists who examined the first preserved specimen judged it a fake made of several animals sewn together. Hunted for its fur, the platypus has been legally protected since 1912. The IUCN classifies it as near threatened, and a November 2020 report recommended upgrading it to threatened under the federal EPBC Act because of habitat destruction and declining numbers. Its diet consists mainly of aquatic invertebrates.
+
+=== KEY: Plautus_a020eb
+HEADWORD: Plautus = 플라우투스
+LEVEL: 4
+GLOSSARY:
+  Comedy = 희극
+  Emilia-Romagna = 에밀리아로마냐주
+  Latin = 라틴어
+  Latin literature = 라틴 문학
+  Menander = 메난드로스
+  Molière = 몰리에르
+  New Comedy = 신희극
+  Old Latin = 고대 라틴어
+  Plautus = 플라우투스
+  Sarsina = 사르시나
+  Titus = 티투스
+  Titus Maccius Plautus = 티투스 마키우스 플라우투스
+ENTRY:
+Roman comic playwright of the Old Latin period. Titus Maccius Plautus is believed to have been born in Sarsina, in what is now [[Emilia-Romagna|Emilia-Romagna]], and he reportedly worked as a stage carpenter before becoming an actor. Little is known of his early life, and later biographies blend fact and legend. His comedies, written between about 205 and 184 BC, are the earliest complete surviving works of [[Latin literature|Latin literature]]. They adapt Greek New Comedy, especially the work of Menander, reworking it for Roman audiences. Surviving plays include *Amphitruo*, *Asinaria* and *Menaechmi*. Shakespeare's *The Comedy of Errors* derives from *Menaechmi*, and [[Molière|Molière]]'s *The Miser* is partly modeled on *Aulularia*.
+
+=== KEY: PlayStation_2_831d1c
+HEADWORD: PlayStation 2 = 플레이스테이션 2
+LEVEL: 5
+GLOSSARY:
+  Dreamcast = 드림캐스트
+  Emotion = 감정
+  Emotion Engine = 이모션 엔진
+  Engine = 기관
+  GameCube = 게임큐브
+  Japan = 일본
+  Nintendo = 닌텐도
+  PlayStation = 플레이스테이션
+  PlayStation (console) = 플레이스테이션
+  Sony = 소니
+  Xbox = 엑스박스
+  home video game console = 가정용 비디오 게임기
+ENTRY:
+Sixth-generation home video game console by Sony. Released in Japan on March 4, 2000, it succeeded the original [[PlayStation (console)|PlayStation]] and was fully backward compatible with its games. A built-in DVD drive and a custom Emotion Engine processor set it apart. It sold 160 million units, the best-selling console of all time and nearly triple the combined sales of its sixth-generation rivals, [[Nintendo|Nintendo]]'s GameCube, Sega's Dreamcast and Microsoft's Xbox. It was discontinued on January 4, 2013.
+
+=== KEY: PlayStation_3_8b869a
+HEADWORD: PlayStation 3 = 플레이스테이션 3
+LEVEL: 5
+GLOSSARY:
+  Blu-ray = 블루레이
+  Cell Broadband Engine = 셀 브로드밴드 엔진
+  Engine = 기관
+  HD DVD = HD DVD
+  IBM = IBM
+  Japan = 일본
+  North America = 북아메리카
+  Seventh-generation = 7세대
+  Sony = 소니
+  Toshiba = 도시바
+  Xbox = 엑스박스
+  Xbox 360 = 엑스박스 360
+  home video game console = 가정용 비디오 게임기
+ENTRY:
+Seventh-generation home video game console by Sony. Released in Japan on November 11, 2006, and in North America on November 17, the PS3 was built around the Cell Broadband Engine processor, co-developed with IBM and Toshiba. It was the first console to use [[Blu-ray|Blu-ray]] as its primary storage medium, which helped Sony establish the format over HD DVD. Its high price and costly production hurt early sales. Later revisions reduced costs. The PS3 sold about 87.4 million units worldwide, narrowly surpassing the [[Xbox 360|Xbox 360]]. Final production for Japan ended on May 29, 2017.
+
+=== KEY: PlayStation_3f6fb6
+HEADWORD: PlayStation = 플레이스테이션
+LEVEL: 5
+GLOSSARY:
+  DualShock = 듀얼쇼크
+  Entertainment = 오락
+  Japan = 일본
+  Ken Kutaragi = 구타라기 겐
+  Network = 「네트워크」
+  PlayStation = 플레이스테이션
+  PlayStation 5 = 플레이스테이션 5
+  PlayStation Network = 플레이스테이션 네트워크
+  PlayStation Plus = 플레이스테이션 플러스
+  PlayStation Store = 플레이스테이션 스토어
+  PlayStation Studios = 플레이스테이션 스튜디오
+  Sony = 소니
+  Sony Interactive Entertainment = 소니 인터랙티브 엔터테인먼트
+  Video = 비디오
+ENTRY:
+Video gaming brand of [[Sony|Sony]] Interactive Entertainment, a Sony subsidiary. It began with the first PlayStation console, released in Japan in 1994 and worldwide the following year, conceived by Sony executive Ken Kutaragi. The original console was the first console of any type to ship over 100 million units. The brand includes handheld consoles, the PlayStation Network and PlayStation Store, the subscription service PlayStation Plus, and first-party games from PlayStation Studios. Its controllers are the DualShock line. The series includes the [[PlayStation 5|PlayStation 5]], released in 2020.
+
+=== KEY: PlayStation_4_3e49c1
+HEADWORD: PlayStation 4 = 플레이스테이션 4
+LEVEL: 5
+GLOSSARY:
+  AMD = AMD
+  APU = APU
+  Entertainment = 오락
+  Japan = 일본
+  North America = 북아메리카
+  PlayStation = 플레이스테이션
+  PlayStation 2 = 플레이스테이션 2
+  PlayStation 4 = 플레이스테이션 4
+  PlayStation 4 Pro = 플레이스테이션 4 프로
+  PlayStation 5 = 플레이스테이션 5
+  Remote Play = 리모트 플레이
+  Share Play = 셰어 플레이
+  Sony = 소니
+  Sony Interactive Entertainment = 소니 인터랙티브 엔터테인먼트
+  home video game console = 가정용 비디오 게임기
+ENTRY:
+Eighth-generation home video game console by Sony Interactive Entertainment. Released in North America on November 15, 2013, and in Japan on February 22, 2014, it used an [[AMD|AMD]] APU with a theoretical peak of 1.84 teraflops. It added Remote Play and Share Play, which lets others control a player's gameplay remotely. A smaller revision and the high-end PlayStation 4 Pro were released in September 2016. By October 2019 it was the second best-selling PlayStation console of all time, behind the [[PlayStation 2|PlayStation 2]]. It was succeeded by the [[PlayStation 5|PlayStation 5]] in November 2020.
+
+=== KEY: PlayStation_5_369036
+HEADWORD: PlayStation 5 = 플레이스테이션 5
+LEVEL: 5
+GLOSSARY:
+  AMD = AMD
+  DualSense = 듀얼센스
+  Entertainment = 오락
+  PlayStation = 플레이스테이션
+  PlayStation 3 = 플레이스테이션 3
+  PlayStation 4 = 플레이스테이션 4
+  PlayStation 5 = 플레이스테이션 5
+  PlayStation 5 Pro = 플레이스테이션 5 프로
+  Sony = 소니
+  Sony Interactive Entertainment = 소니 인터랙티브 엔터테인먼트
+  frames per second = 초당 프레임
+  haptic feedback = 햅틱 피드백
+  home video game console = 가정용 비디오 게임기
+  ray tracing = 광선 추적
+ENTRY:
+Ninth-generation home video game console by Sony Interactive Entertainment. Announced in April 2019 as the successor to the [[PlayStation 4|PlayStation 4]], it launched on November 12, 2020, in several countries and worldwide a week later. Its hardware includes a solid-state drive for fast data streaming, an [[AMD|AMD]] GPU capable of 4K at up to 120 frames per second, hardware ray tracing, and the DualSense controller with haptic feedback. A PlayStation 5 Pro, released on November 7, 2024, added a faster GPU and AI-driven upscaling. As of June 30, 2026, 95.3 million units had shipped, surpassing the [[PlayStation 3|PlayStation 3]].
+
+=== KEY: PlayStation_Portable_a3d0eb
+HEADWORD: PlayStation Portable = 플레이스테이션 포터블
+LEVEL: 5
+GLOSSARY:
+  Japan = 일본
+  Media = 메디아
+  Nintendo = 닌텐도
+  North America = 북아메리카
+  Sony = 소니
+  Universal Media Disc = 유니버설 미디어 디스크
+  portable media player = 휴대용 미디어 플레이어
+ENTRY:
+Handheld game console by Sony. Released in Japan on December 12, 2004, and in North America on March 24, 2005, it was the most powerful portable game console of its time and the first viable competitor to [[Nintendo|Nintendo]]'s handhelds. It used the Universal Media Disc, the only handheld to use an optical disc as its primary storage medium. It also played video, audio and photos, leading some to classify it as a portable media player. It sold over 80 million units during its ten-year lifetime, the best-selling handheld not made by Nintendo. Hardware shipments ended worldwide in 2014.
+
+=== KEY: PlayStation_console_3dca4d
+HEADWORD: PlayStation = 플레이스테이션
+LEVEL: 5
+GLOSSARY:
+  Compact disc = 콤팩트디스크
+  Computer = 컴퓨터
+  Entertainment = 오락
+  Europe = 유럽
+  Fifth-generation = 제5세대
+  Japan = 일본
+  Ken Kutaragi = 구타라기 겐
+  Nintendo = 닌텐도
+  Nintendo 64 = 닌텐도 64
+  North America = 북아메리카
+  PlayStation = 플레이스테이션
+  Saturn = 토성
+  Sega = 세가
+  Sega Saturn = 세가 새턴
+  Sony = 소니
+  Sony Computer Entertainment = 소니 컴퓨터 엔터테인먼트
+  home video game console = 가정용 비디오 게임기
+ENTRY:
+Fifth-generation home video game console by Sony Computer Entertainment. Released in Japan on December 3, 1994, and in North America and Europe in 1995, it primarily competed with the [[Nintendo 64|Nintendo 64]] and [[Sega Saturn|Sega Saturn]]. Its use of [[Compact disc|compact discs]] marked the game industry's transition from cartridges. Ken Kutaragi designed it with an emphasis on 3D polygon graphics. More than 4,000 games were released for it, with cumulative sales of 962 million units. Sony ceased production on March 23, 2006, and the PlayStation became the first computer entertainment platform to ship over 100 million units.
+
+=== KEY: Play_activity_f97be6
+HEADWORD: Play = 놀이
+LEVEL: 3
+GLOSSARY:
+  Bird = 조류
+  Cube = 정육면체
+  Game = 게임
+  Homo = 사람속
+  Jean Piaget = 장 피아제
+  Mammal = 포유류
+  National Institute for Play = 국립놀이연구소
+  National Playing Fields Association = 전국운동장협회
+  Playground = 놀이터
+  Roger Caillois = 로제 카유아
+  Rubik's Cube = 루빅스 큐브
+  Sport = 스포츠
+  magic circle = 마법의 원
+ENTRY:
+Range of intrinsically motivated activities done for recreation. Play is commonly associated with children but may occur at any life stage and among higher-functioning animals, most notably [[Mammal|mammals]] and [[Bird|birds]]. Though often seen as frivolous, it can be intensely focused, particularly when structured and goal-oriented, as in a [[Game|game]]; it ranges from spontaneous to planned or even compulsive.
+
+Johan Huizinga's *Homo Ludens* (1944), the seminal text of play studies, defined play as a free activity standing consciously outside "ordinary" life, not serious yet absorbing the player intensely, connected with no material interest, and proceeding within its own boundaries of time and space according to fixed rules. This "magic circle" notion treats play as a separate sphere of human activity. [[Jean Piaget]] remarked that the many theories of play prove the phenomenon difficult to understand. The National Playing Fields Association defines it as freely chosen, personally directed, intrinsically motivated behavior that actively engages the child.
+
+Play takes the forms of improvisation, pretense, mimicry, games, [[Sport|sports]], and thrill-seeking. Roger Caillois, in *Man, Play and Games* (1961), interpreted many social structures as elaborate forms of games. Free-form play lets children change the rules at will; structured play has defined goals and rules. Designed spaces include sports fields and [[Playground|playgrounds]]. The National Institute for Play describes seven patterns, including attunement, body, creative, object, social, and storytelling play. Another scheme distinguishes challenge play, such as solving a [[Rubik's Cube]], from competitive, construction, cooperative, nurturing, and replica play.
+
+Evolutionary accounts hold that play rehearses skills such as motor coordination and conflict resolution. Researchers report that unstructured play improves impulse control, language, and empathy in children.
+
+=== KEY: Play_theatre_adbee8
+HEADWORD: Play = 희곡
+LEVEL: 4
+GLOSSARY:
+  Ancient Greece = 고대 그리스
+  Ancient Greek = 고대 그리스어
+  Aristophanes = 아리스토파네스
+  Broadway = 브로드웨이
+  Comedy = 희극
+  Dream = 꿈
+  George Bernard Shaw = 조지 버나드 쇼
+  Shakespeare = 셰익스피어
+  West End = 웨스트엔드
+  William = 윌리엄
+  William Shakespeare = 윌리엄 셰익스피어
+  tragedy = 비극
+ENTRY:
+Dramatic literary form of scripted dialogue and monologue, performed by actors before an audience. Performers read or memorize their lines from a script, which is also called a play, and its words are meant to be spoken aloud rather than read silently. Plays are staged at levels from London's West End and New York's Broadway to regional, community and academic theater. Stage plays are written for live performance, although some dramatists, notably [[George Bernard Shaw]], cared little whether their plays were performed or read. The two original genres of [[Ancient Greece|Ancient Greek]] drama were [[Comedy|comedy]] and tragedy. Historical plays center on real events, and satirical plays, such as [[Aristophanes]]'s *Lysistrata*, comment on contemporary politics. [[William Shakespeare]] wrote both comedies, such as *A Midsummer Night's Dream*, and tragedies, such as *Hamlet*.
+
+=== KEY: Playboy_3660ef
+HEADWORD: Playboy = 플레이보이
+LEVEL: 4
+GLOSSARY:
+  Arthur C. Clarke = 아서 C. 클라크
+  Chicago = 시카고
+  Gloria Steinem = 글로리아 스타이넘
+  Hugh Hefner = 휴 헤프너
+  Ian Fleming = 이언 플레밍
+  Marilyn Monroe = 메릴린 먼로
+  Monroe = 먼로
+  Playmates = 플레이메이트
+  Second-wave feminists = 제2물결 페미니스트
+  Sexual revolution = 성 혁명
+  Vladimir = 블라디미르
+  Vladimir Nabokov = 블라디미르 나보코프
+  centerfold = 센터폴드
+  civil rights = 민권
+ENTRY:
+American men's lifestyle and entertainment magazine, founded in Chicago in 1953 by [[Hugh Hefner]] and associates. Hefner funded it with a US$1,000 loan from his mother, and its first centerfold was [[Marilyn Monroe]]. The magazine was known for centerfolds of nude and semi-nude female models called Playmates. It published interviews with celebrities and politicians, short stories by novelists including [[Arthur C. Clarke]], [[Ian Fleming]] and [[Vladimir Nabokov]], and full-page color cartoons. The magazine played an important role in the [[Sexual revolution]]. Second-wave feminists, including [[Gloria Steinem]], criticized it for commodifying women, while supporters credited it with promoting free speech and civil rights. After a year-long removal of most nude photos, the March–April 2017 issue brought back nudity.
+
+=== KEY: Playground_a5fedb
+HEADWORD: Playground = 놀이터
+LEVEL: 4
+GLOSSARY:
+  England = 잉글랜드
+  Golden Gate Park = 골든게이트 공원
+  Lady Allen of Hurtwood = 허트우드의 앨런 남작 부인
+  London = 런던
+  Manchester = 맨체스터
+  Salford = 샐퍼드
+  San Francisco = 샌프란시스코
+  Thomas = 토머스
+  Thomas Carlyle = 토머스 칼라일
+  United States = 미국
+  jungle gyms = 정글짐
+  junk playground = 폐품 놀이터
+  merry-go-rounds = 회전 놀이기구
+  playscape = 플레이스케이프
+  seesaws = 시소
+ENTRY:
+Outdoor area designed for children's play, usually equipped with structures such as slides, swings and seesaws. Modern playgrounds often include merry-go-rounds, jungle gyms, sandboxes and mazes, which help children develop physical coordination and strength as well as social and emotional skills. Some have facilities for informal sports such as a basketball court. A playscape is a playground designed to be safe in a natural setting. In 1843 Thomas Carlyle called for public playgrounds in industrial cities such as [[Manchester]]. The first purpose-built public playgrounds opened in 1846 in Salford and Manchester, England. One of the first in the United States was built in 1887 in [[San Francisco]]'s Golden Gate Park. In post-war London, designers and advocates including Lady Allen of Hurtwood popularized the "junk playground," where children built structures from rubble.
+
+=== KEY: Pleasure_47fee7
+HEADWORD: Pleasure = 쾌락
+LEVEL: 4
+GLOSSARY:
+  Epicurus = 에피쿠로스
+  Experience = 「경험」
+  Happiness = 행복
+  Jeremy Bentham = 제러미 벤담
+  Music = 음악
+  Neuroscience = 신경과학
+  Pain = 통증
+  Pleasure = 쾌락
+  Suffering = 고통
+  Sunset = 일몰
+  dopamine = 도파민
+  hedonism = 쾌락주의
+  opioids = 오피오이드
+  reward circuits = 보상 회로
+ENTRY:
+Experience that feels good and involves enjoyment of something, contrasted with [[Pain]] and [[Suffering]]. Pleasure is closely related to value, desire and action, and it plays a central role in hedonism, the family of philosophical theories that treat it as the good. Pleasurable experiences include eating, having sex, listening to [[Music|music]], seeing a [[Sunset|sunset]] and playing games. [[Epicurus]] identified pleasure, defined as the absence of pain in the body and disturbance in the soul, as the highest good. [[Jeremy Bentham]] listed 14 kinds of pleasure, including sense, wealth, skill and memory. Neuroscience links pleasure to reward circuits in the brain, where dopamine signals anticipation and opioids support the experience of liking. Pleasure is not identical to [[Happiness]] or well-being, although the terms overlap.
+
+=== KEY: Pleiades_3cfa96
+HEADWORD: Pleiades = 플레이아데스성단
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Equinox = 분점
+  Greek mythology = 그리스 신화
+  Mediterranean = 지중해
+  Mediterranean Sea = 지중해
+  Messier 45 = M45
+  Messier object = 메시에 천체
+  Open star cluster = 산개 성단
+  Reflection nebulae = 반사 성운
+  Seven = 「세븐」
+  Seven Sisters = 일곱 자매
+  Taurus (constellation) = 황소자리
+  vernal point = 춘분점
+ENTRY:
+Open star cluster in the constellation [[Taurus (constellation)|Taurus]], also called the Seven Sisters and Messier 45. It contains over 1,000 stars, and the brightest six or seven are easily visible to the naked eye. At about 444 light-years away, it is the [[Messier object]] nearest to Earth. Its hot blue stars formed within the last 100 million years. Around 2330 BC the cluster marked the [[Equinox|vernal point]], and it marked the start of several ancient calendars. The name probably derives from its role in marking the sailing season in the [[Mediterranean Sea]], and in [[Greek mythology]] it was given to seven divine sisters. Reflection nebulae around its brightest stars are now thought to come from a dust cloud the cluster is passing through, moving at about 18 km/s (11 mi/s) relative to the stars.
+
+=== KEY: Pleistocene_bbefc3
+HEADWORD: Pleistocene = 플라이스토세
+LEVEL: 5
+GLOSSARY:
+  Africa = 아프리카
+  Americas = 아메리카
+  Australia = 오스트레일리아
+  Beringia = 베링기아
+  Early Pleistocene = 전기 플라이스토세
+  Homo = 사람속
+  Late Pleistocene = 후기 플라이스토세
+  Mammoth = 매머드
+  Mastodon = 마스토돈
+  Pleistocene = 플라이스토세
+  Quaternary = 제4기
+  glacial periods = 빙기
+  glaciations = 빙하 작용
+  interglacials = 간빙기
+  land bridge = 육교
+ENTRY:
+First epoch of the [[Quaternary]] period, a geological epoch of repeated glaciations from about 2.58 million to 11,700 years ago. Its climate oscillated between cold glacial periods and warmer interglacials, and sea levels dropped as much as 120 m (390 ft) at peak glaciation, exposing the Beringia land bridge. The genus [[Homo]] originated in Africa in the Early Pleistocene. Modern humans spread outside Africa in the Late Pleistocene and reached Australia and the Americas. Most large land animals outside Africa, including [[Mammoth|mammoths]] and [[Mastodon|mastodons]], died out from about 50,000 years ago, probably because of climate change, human expansion or both.
+
+=== KEY: Plesiosaur_f86415
+HEADWORD: Plesiosaur = 수장룡
+LEVEL: 4
+GLOSSARY:
+  Apex predator = 최상위 포식자
+  Cretaceous = 백악기
+  Cretaceous–Paleogene extinction event = 백악기-팔레오기 대멸종
+  Jurassic = 쥐라기
+  Mesozoic = 중생대
+  Paleogene = 팔레오기
+  Plesiosauromorphs = 플레시오사우루스형
+  Triassic = 트라이아스기
+  apex predators = 최상위 포식자
+  pliosauromorphs = 플리오사우루스형
+ENTRY:
+Order of extinct marine reptiles of the [[Mesozoic]] era, with four long flippers and a short tail. Plesiosaurs first appeared in the latest [[Triassic]], about 203 million years ago, became especially common in the [[Jurassic]], and disappeared in the [[Cretaceous–Paleogene extinction event|Cretaceous–Paleogene extinction]] about 66 million years ago. Their broad, flat bodies were powered by flippers driven by strong muscles. Plesiosauromorphs had long necks and small heads and caught small animals, while pliosauromorphs had short necks, large heads and were [[Apex predator|apex predators]] that hunted large prey. Plesiosaurs breathed air, bore live young and inhabited oceans worldwide. More than a hundred valid species have been described, and they were not dinosaurs.
+
+=== KEY: Pleurotus_ostreatus_d845ea
+HEADWORD: Pleurotus ostreatus = 느타리
+LEVEL: 4
+GLOSSARY:
+  Germany = 독일
+  Latin = 라틴어
+  Nematode = 선충
+  Nitrogen = 질소
+  North America = 북아메리카
+  Pacific = 태평양
+  Pacific Northwest = 태평양 연안 북서부
+  World = 세계
+  World War I = 제1차 세계 대전
+  beech = 너도밤나무
+  deciduous trees = 낙엽수
+  oyster mushroom = 느타리
+  white-rot = 백색 부후
+ENTRY:
+Edible fungus, known as the oyster mushroom, of temperate and subtropical forests worldwide. Its common names include gray oyster mushroom, oyster fungus and pearl oyster mushroom. The fan- or oyster-shaped cap is 2–30 cm (1–12 in) wide and white to gray or brown. Its Latin name *ostreatus* refers to the cap's resemblance to a bivalve. It is a white-rot decomposer of dead wood, especially beech and other deciduous trees, and it is absent from the Pacific Northwest of [[North America]]. The mushroom traps and digests [[Nematode|nematodes]], which probably supplies it with [[Nitrogen]]. Commercial cultivation began in Germany during World War I, and it is now grown worldwide for food.
+
+=== KEY: Pliny_the_Elder_7acdad
+HEADWORD: Pliny the Elder = 대 플리니우스
+LEVEL: 4
+GLOSSARY:
+  Encyclopedia = 백과사전
+  History = 역사학
+  Mount Vesuvius = 베수비오산
+  Natural History = 『박물지』
+  Pliny = 플리니우스
+  Pliny the Younger = 소 플리니우스
+  Plutarch = 플루타르코스
+  Roman Empire = 로마 제국
+  Suetonius = 수에토니우스
+  Tacitus = 타키투스
+  Vespasian = 베스파시아누스
+  procurator = 행정 장관
+ENTRY:
+Roman author, naturalist and military commander of the early [[Roman Empire]]. He wrote the encyclopedic *Naturalis Historia* (*Natural History*), a 37-volume work on the natural world and human knowledge that became an editorial model for [[Encyclopedia|encyclopedias]]. He served as a naval and army commander and procurator, and he was a friend of Emperor Vespasian. Of his seven works, spanning 102 volumes, only *Natural History* survives. The lost 20-volume *Bella Germaniae* (*Wars of Germania*) was a source for [[Plutarch]], [[Tacitus]] and Suetonius. Pliny died attempting to rescue people during the eruption of [[Mount Vesuvius]]. In his will he adopted his nephew, who became known as Pliny the Younger.
+
+=== KEY: Pliocene_130bad
+HEADWORD: Pliocene = 플라이오세
+LEVEL: 5
+GLOSSARY:
+  Africa = 아프리카
+  Camel = 낙타
+  Charles Lyell = 찰스 라이엘
+  Deer = 사슴
+  Grazing = 풀 뜯기
+  Miocene = 마이오세
+  Neogene = 네오기
+  Pleistocene = 플라이스토세
+  Second = 초
+  hominins = 호미닌
+ENTRY:
+Second epoch of the [[Neogene]] Period, from 5.33 to 2.58 million years ago. It followed the [[Miocene]] and preceded the [[Pleistocene]]. [[Charles Lyell]] named it in 1833, meaning roughly "continuation of the recent," for its largely modern marine mollusc fauna. The climate became cooler, drier and more seasonal, and grasslands spread across continents. Grazing herbivores such as [[Deer]] and [[Camel|camels]] became common, and coral reefs expanded. Early hominins emerged in [[Africa]] toward the epoch's end.
+
+=== KEY: Ploceidae_6912fb
+HEADWORD: Ploceidae = 베짜는새과
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Asia = 아시아
+  Family = 가족
+  Miocene = 마이오세
+  Old World = 구세계
+  Passerine = 참새목
+  Sociable weavers = 떼베짜는새
+  World = 세계
+  bishops = 비숍새
+  passerine birds = 참새목 조류
+  red-billed quelea = 붉은부리퀠레아
+  sub-Saharan = 사하라 이남
+  sub-Saharan Africa = 사하라 이남 아프리카
+  weaver finches = 베짜는되새
+  weaverbirds = 베짜는새
+  weavers = 베짜는새
+ENTRY:
+Family of small [[Passerine|passerine]] birds, many called weavers for their intricately woven nests. Members are also known as weaverbirds, weaver finches or bishops. All are native to the Old World, most of them to sub-Saharan [[Africa]], with a few in tropical Asia. The family is believed to have originated in the mid-[[Miocene]] and includes 122 species. Males of many species are brightly colored, usually red or yellow and black. Most weavers breed colonially, and males usually weave the nests, which serve as displays to attract females. Sociable weavers build apartment-house nests in which 100 to 300 pairs have separate chambers. Some species damage crops, notably the red-billed quelea, reputed to be the world's most numerous bird.
+
+=== KEY: Plotinus_5befe9
+HEADWORD: Plotinus = 플로티노스
+LEVEL: 4
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  Ammonius Saccas = 암모니오스 사카스
+  Ancient Greek = 고대 그리스어
+  Egypt = 이집트
+  Gordian III = 고르디아누스 3세
+  Neoplatonism = 신플라톤주의
+  Persia = 페르시아
+  Platonism = 플라톤주의
+  Porphyry = 포르피리오스
+  Renaissance = 르네상스
+  Roman Egypt = 로마령 이집트
+  Roman emperor = 로마 황제
+  Rome = 로마
+  Soul = 영혼
+  the Intellect = 지성
+  the One = 일자
+  the Soul = 영혼
+ENTRY:
+Ancient Greek philosopher in Roman Egypt, widely regarded as the founder of Neoplatonism. He studied for eleven years under the self-taught Platonist Ammonius Saccas in [[Alexandria]]. He then joined the expedition of the [[Roman emperor]] Gordian III to Persia, which failed, and afterward taught in Rome. His metaphysics describes three fundamental principles: the One, the Intellect and the Soul. He held that human souls could return to the One through purification, virtue and mystical ecstasy. Porphyry compiled his writings into the *Enneads*, whose ideas influenced Christian, Jewish, Islamic and pagan thinkers and the [[Renaissance]] revival of Platonism. Plotinus distrusted materiality and reportedly refused to have his portrait painted.
+
+=== KEY: Plough_142f76
+HEADWORD: Plow = 쟁기
+LEVEL: 4
+GLOSSARY:
+  Erosion = 침식
+  Farm = 농장
+  Hoe (tool) = 괭이
+  Industrial Revolution = 산업 혁명
+  Ox = 소
+  Romans = 로마인
+  Sumerian = 수메르
+  Tractor = 트랙터
+  Weed = 잡초
+  conservation tillage = 보전 경운
+ENTRY:
+Farm implement for loosening or turning soil before sowing or planting. Plows were traditionally drawn by [[Ox|oxen]] and horses, and modern ones by [[Tractor|tractors]]. Turning the topsoil brings nutrients to the surface and buries [[Weed|weeds]] and crop remains. The earliest plows had no wheels, and the Romans called them an *aratrum*. The [[Industrial Revolution]] brought steam engines to pull plows, which were superseded by internal-combustion tractors early in the 20th century. Because of soil damage and [[Erosion|erosion]], many areas now use shallower plowing or other conservation tillage. The plow appears in one of the oldest surviving literary works, a Sumerian poem from the 3rd millennium BC, in which it debates the [[Hoe (tool)|hoe]] over which tool is better.
+
+=== KEY: Plum_93df2c
+HEADWORD: Plum = 자두
+LEVEL: 4
+GLOSSARY:
+  Andalusia = 안달루시아
+  Asia = 아시아
+  Caucasus = 캅카스
+  Caucasus Mountains = 캅카스산맥
+  China = 중국
+  Cyanide = 시안화물
+  Eastern Europe = 동유럽
+  Europe = 유럽
+  Japanese or Chinese plums = 일본자두
+  Neolithic = 신석기 시대
+  Prunus = 벚나무속
+  Rosaceae = 장미과
+  Spain = 스페인
+  amygdalin = 아미그달린
+  drupe = 핵과
+  prunes = 프룬
+ENTRY:
+Fruit of several *Prunus* species in the [[Rosaceae]] family. Plums were probably among the first fruits domesticated by humans, with origins in Eastern Europe, the Caucasus Mountains and [[China]]. Plum remains have been found at [[Neolithic]] sites, and the fruit was brought to Britain from Asia. The fruit is a drupe with firm, juicy flesh, and it can be eaten fresh, dried as prunes, made into jam, or fermented into wine and distilled into brandy. Plum seeds contain amygdalin, a [[Cyanide|cyanide]]-like poison. Plum cultivation in [[Andalusia]], Spain, was documented in a 12th-century agricultural work. In 2023 China produced 55% of the world's plums, and Japanese or Chinese plums dominate the fresh-fruit market.
+
+=== KEY: Plumbing_8a680e
+HEADWORD: Plumbing = 배관
+LEVEL: 4
+GLOSSARY:
+  Egypt = 이집트
+  Epidemic = 전염병
+  Galvanized iron = 아연 도금 철
+  Latin = 라틴어
+  Lead = 납
+  Mesopotamians = 메소포타미아인
+  Plumbing = 배관
+  Roman Empire = 로마 제국
+  Rome = 로마
+  United States = 미국
+  Uruk = 우루크
+  World = 세계
+  World War II = 제2차 세계 대전
+  latrines = 변소
+ENTRY:
+System of pipes, valves, fixtures and tanks that conveys fluids, mainly water, for supply, heating and waste removal. The word derives from the Latin *plumbum* (lead), because the first effective pipes in the [[Roman Empire]] were made of lead. Plumbing has ancient roots: the Mesopotamians introduced clay sewer pipes around 4000 BCE, and copper piping appeared in Egypt by 2400 BCE. The city of [[Uruk]] has the oldest known brick latrines, from about 3200 BCE. After the fall of Rome, water supply and sanitation stagnated for well over 1,000 years. In the 1800s, public health authorities pressed for waste disposal systems to control [[Epidemic|epidemics]]. Galvanized iron was common in the United States from the late 1800s until about 1960, after which copper took over. Lead use for drinking water declined sharply after [[World War II]].
+
+=== KEY: Plutarch_512374
+HEADWORD: Plutarch = 플루타르코스
+LEVEL: 4
+GLOSSARY:
+  Achaea = 아카이아
+  Alexander the Great = 알렉산드로스 대왕
+  Apollo = 아폴론
+  Athens = 아테네
+  Boeotia = 보이오티아
+  Chaeronea = 카이로네이아
+  Delphi = 델포이
+  Hadrian = 하드리아누스
+  Julius Caesar = 율리우스 카이사르
+  Middle Platonist = 중기 플라톤주의자
+  Parallel Lives = 『영웅전』
+  Renaissance = 르네상스
+  Renaissance humanism = 르네상스 인문주의
+  Romans = 로마인
+  magistrate = 행정관
+  procurator = 행정 장관
+ENTRY:
+Greek and later Roman Middle Platonist philosopher, biographer and essayist, and priest at the Temple of [[Apollo]] in Delphi. He is known for the *Parallel Lives*, paired biographies of illustrious Greeks and Romans such as [[Alexander the Great]] and [[Julius Caesar]], and for the *Moralia*, a collection of essays and speeches. Born in Chaeronea, Boeotia, he studied mathematics and philosophy in Athens and served as a magistrate at home. From c. AD 95 he was one of two priests at the Delphic sanctuary, and he helped revive its shrines. He received Roman citizenship and was on familiar terms with Roman nobles. According to a later historian, Emperor [[Hadrian]] appointed him nominal procurator of Achaea. His writings influenced Renaissance humanism.
+
+=== KEY: Pluto_ea8dbc
+HEADWORD: Pluto = 명왕성
+LEVEL: 4
+GLOSSARY:
+  Arizona = 애리조나주
+  Charon = 카론
+  Charon (moon) = 카론
+  Clyde W. Tombaugh = 클라이드 W. 톰보
+  Dwarf planet = 왜행성
+  Eris = 에리스
+  Eris (dwarf planet) = 에리스
+  International Astronomical Union = 국제 천문 연맹
+  Kuiper belt = 카이퍼대
+  Lowell Observatory = 로웰 천문대
+  Moon = 달
+  Neptune = 해왕성
+  New Horizons = 뉴허라이즌스호
+  Pluto = 명왕성
+  Trans-Neptunian object = 해왕성 바깥 천체
+  center of mass = 질량 중심
+  trans-Neptunian object = 해왕성 바깥 천체
+ENTRY:
+Dwarf planet in the [[Kuiper belt]] beyond [[Neptune]], the largest known [[Trans-Neptunian object|trans-Neptunian object]] by volume. Clyde W. Tombaugh discovered Pluto in 1930 at Lowell Observatory in [[Arizona]], where it was immediately hailed as the ninth planet. Its small size and the discovery of other objects, notably the more massive [[Eris (dwarf planet)|Eris]] in 2005, led the International Astronomical Union to exclude it from the definition of planet in 2006. Pluto is made of ice and rock, with about one-sixth the mass of the [[Moon]] and one-third of its volume. Its largest moon, [[Charon (moon)|Charon]], is just over half Pluto's diameter, and the two orbit a common center of mass. [[New Horizons]] flew past Pluto on July 14, 2015, and made detailed measurements.

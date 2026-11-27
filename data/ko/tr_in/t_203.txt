@@ -1,0 +1,974 @@
+=== KEY: Lorentz_force_c684f4
+HEADWORD: Lorentz force = 로런츠 힘
+LEVEL: 4
+GLOSSARY:
+  Electric motor = 전동기
+  Electromagnetism = 전자기학
+  Force = 힘
+  Hendrik Lorentz = 헨드릭 로렌츠
+  James = 야고보
+  James Clerk Maxwell = 제임스 클러크 맥스웰
+  Maxwell's equations = 맥스웰 방정식
+  Oliver Heaviside = 올리버 헤비사이드
+  Particle accelerator = 입자 가속기
+  Plasma (physics) = 플라스마
+  Special relativity = 특수 상대성 이론
+  electric field = 전기장
+  electrodynamics = 전기역학
+  intrinsic spin = 고유 스핀
+  magnetic field = 자기장
+  particle accelerators = 입자 가속기
+  special relativity = 특수 상대성 이론
+ENTRY:
+Force exerted on a charged particle by electric and magnetic fields. The electric component acts along the electric field, accelerating positive charges in its direction and negative charges opposite to it. The magnetic component is perpendicular to both the particle's velocity and the magnetic field, so it curves the particle's path, often into circles or helices. Together with [[Maxwell's equations]], the force law forms the foundation of classical [[Electromagnetism|electrodynamics]]. It underlies the operation of [[Electric motor|electric motors]], [[Particle accelerator|particle accelerators]] and the behavior of [[Plasma (physics)|plasmas]]. The law remains valid in [[Special relativity|special relativity]] but breaks down at small scales, where the intrinsic spin of particles gives rise to interactions it does not account for. [[Hendrik Lorentz]] completed the derivation in 1895, identifying the electric force a few years after Oliver Heaviside identified the magnetic force. Historians suggest the law is implicit in a paper by [[James Clerk Maxwell|James Clerk Maxwell]] published in 1865.
+
+=== KEY: Lorentz_transformation_debc91
+HEADWORD: Lorentz transformation = 로런츠 변환
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Einstein = 알베르트 아인슈타인
+  Dutch = 네덜란드어
+  Einstein = 아인슈타인
+  Galilean transformation = 갈릴레이 변환
+  Hendrik Lorentz = 헨드릭 로렌츠
+  Lorentz factor = 로런츠 인자
+  Newtonian physics = 뉴턴 역학
+  Special relativity = 특수 상대성 이론
+  Speed of light = 빛의 속도
+  Time dilation = 시간 지연
+  inertial frames = 관성 좌표계
+  length contraction = 길이 수축
+  special relativity = 특수 상대성 이론
+  time dilation = 시간 지연
+ENTRY:
+Linear transformation between the space and time coordinates of two inertial frames moving at constant velocity relative to each other. Named after the Dutch physicist [[Hendrik Lorentz]], the transformations use the Lorentz factor γ = 1/√(1 − v²/c²), where v is relative velocity and c is the [[Speed of light|speed of light]]. For motion along the x-axis, t′ = γ(t − vx/c²) and x′ = γ(x − vt), while y and z are unchanged. They supersede the Galilean transformation of Newtonian physics, which is a good approximation only at speeds much less than the speed of light. The transformations predict effects such as [[Time dilation|time dilation]] and length contraction; observers in different frames may measure different distances and elapsed times, yet the speed of light is the same in all inertial frames. [[Albert Einstein]] made them a cornerstone of [[Special relativity|special relativity]].
+
+=== KEY: Lorenzo_de_Medici_3559b3
+HEADWORD: Medici, Lorenzo de' = 메디치, 로렌초 데
+LEVEL: 4
+GLOSSARY:
+  Bank = 은행
+  Botticelli = 보티첼리
+  Cosimo de' Medici = 코시모 데 메디치
+  Florence = 피렌체
+  Giuliano = 줄리아노
+  Italian Peninsula = 이탈리아반도
+  Italic League = 이탈리아 동맹
+  Lodi = 로디 왕조
+  Lorenzo the Magnificent = 위대한 로렌초
+  Medici = 메디치가
+  Medici Bank = 메디치 은행
+  Medici Chapel = 메디치 예배당
+  Michelangelo = 미켈란젤로
+  Pazzi conspiracy = 파치 가문의 음모
+  Peace = 평화
+  Peace of Lodi = 로디 화약
+  Peninsula = 반도
+  Renaissance = 르네상스
+  Republic of Florence = 피렌체 공화국
+  Sandro Botticelli = 산드로 보티첼리
+  balance of power = 세력 균형
+  de facto = 사실상
+ENTRY:
+Florentine statesman, de facto ruler of [[Florence]] from 1469 until his death, known as Lorenzo the Magnificent. The most powerful patron of [[Renaissance]] culture, he sponsored artists including [[Sandro Botticelli|Botticelli]] and [[Michelangelo]]. Lorenzo held the balance of power in the Italic League, an alliance that stabilized the Italian Peninsula for decades. He was the grandson of [[Cosimo de' Medici|Cosimo de' Medici]], who had led the Republic of Florence and run the Medici Bank. Lorenzo ruled indirectly through surrogates in the city councils, by means of payoffs and strategic marriages. He survived the Pazzi conspiracy (1478), in which his brother Giuliano was assassinated. The Peace of Lodi of 1454, which he supported, collapsed with his death. He is buried in the Medici Chapel in Florence.
+
+=== KEY: Loricariidae_420c4b
+HEADWORD: Loricariidae = 로리카리아과
+LEVEL: 4
+GLOSSARY:
+  Algae = 조류
+  Aquarium = 수족관
+  Brazil = 브라질
+  Catfish = 메기
+  Costa Rica = 코스타리카
+  Early Miocene = 전기 마이오세
+  Fossil = 화석
+  Hypostominae = 히포스토무스아과
+  Hypostomus plecostomus = 히포스토무스 플레코스토무스
+  Late Oligocene = 후기 올리고세
+  Miocene = 마이오세
+  Oligocene = 올리고세
+  Panama = 파나마
+  Siluriformes = 메기목
+  South America = 남아메리카
+  Taubateia = 타우바테이아
+  biofilms = 생물막
+  detritivores = 데트리터스 섭식자
+  herbivores = 초식 동물
+  plecos = 플레코
+ENTRY:
+Largest family of [[Catfish|catfish]] (order Siluriformes), with over 90 genera and just over 680 species. Armored, or suckermouth, catfishes whose bodies are covered in bony plates, they are native to freshwater habitats from [[Costa Rica]] and [[Panama]] through tropical and subtropical [[South America]]. Several genera are sold as "plecos", notably the suckermouth catfish *Hypostomus plecostomus*, and are popular in the [[Aquarium|aquarium]] trade. Most species are herbivores or detritivores, eating [[Algae|algae]], plant matter and microorganisms from biofilms. The largest subfamily, Hypostominae, comprises five tribes. Loricariid [[Fossil|fossils]] are extremely rare; the earliest definitive taxon is *Taubateia*, from the Late Oligocene–Early Miocene of Brazil.
+
+=== KEY: Lorne_Michaels_eaadc2
+HEADWORD: Michaels, Lorne = 마이클스, 론
+LEVEL: 5
+GLOSSARY:
+  Canadian = 캐나다
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  Late Night = 「레이트 나이트」
+  Lily Tomlin = 릴리 톰린
+  Lorne David Lipowitz = 론 데이비드 리포위츠
+  Michaels = 마이클스
+  NBC = NBC
+  NBC's Saturday Night = 「NBC's 새터데이 나이트」
+  Night = 『밤』
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Awards = 프라임타임 에미상
+  Saturday Night = 「새터데이 나이트」
+  Saturday Night Live = 「새터데이 나이트 라이브」
+  The Kids in the Hall = 「키즈 인 더 홀」
+  Toronto = 토론토
+ENTRY:
+Canadian and American television producer, creator of [[Saturday Night Live]]. Born Lorne David Lipowitz in [[Toronto]], he adopted the surname Michaels early in his career. [[Lily Tomlin]] hired him to produce specials, and he credits that work for [[NBC]] hiring him to create the show. In 1975 he created NBC's *Saturday Night*, renamed *Saturday Night Live* in 1977. He later produced the show again from 1985, and he also produced *Late Night* and *The Kids in the Hall*. He has received 24 Primetime Emmy Awards from 112 nominations, the record for the most nominated individual in the award's history.
+
+=== KEY: Los_Angeles_Dodgers_37f77b
+HEADWORD: Los Angeles Dodgers = 로스앤젤레스 다저스
+LEVEL: 5
+GLOSSARY:
+  Baseball = 야구
+  Brooklyn = 브루클린
+  Brooklyn Dodgers = 브루클린 다저스
+  Dodger Stadium = 다저 스타디움
+  Jackie = 재키
+  Jackie Robinson = 재키 로빈슨
+  Los Angeles = 로스앤젤레스
+  Major League Baseball = 메이저 리그 베이스볼
+  National League = 내셔널 리그
+  National League West = 내셔널 리그 서부 지구
+  Shohei Ohtani = 오타니 쇼헤이
+  World = 세계
+  World Series = 월드 시리즈
+  color line = 인종 장벽
+ENTRY:
+[[Major League Baseball|Major League Baseball]] franchise based in [[Los Angeles]], in the National League West division. Founded in 1883 in [[Brooklyn]], the club became the Brooklyn Dodgers in 1932 and moved to Los Angeles before the 1958 season, playing at Dodger Stadium from 1962. The Dodgers have won nine [[World Series]] championships and a record 26 National League pennants. The club broke baseball's color line in 1947 with the debut of [[Jackie Robinson]]. After signing [[Shohei Ohtani]] in December 2023, the Dodgers won consecutive World Series titles in 2024 and 2025.
+
+=== KEY: Los_Angeles_Lakers_33de06
+HEADWORD: Los Angeles Lakers = 로스앤젤레스 레이커스
+LEVEL: 5
+GLOSSARY:
+  Basketball = 농구
+  Boston = 보스턴
+  Boston Celtics = 보스턴 셀틱스
+  California = 캘리포니아주
+  Detroit = 디트로이트
+  Detroit Gems = 디트로이트 젬스
+  James = 야고보
+  Jerry Buss = 제리 버스
+  Johnson = 존슨
+  Kareem Abdul-Jabbar = 카림 압둘자바
+  Kobe = 고베
+  Kobe Bryant = 코비 브라이언트
+  LeBron James = 르브론 제임스
+  Los Angeles = 로스앤젤레스
+  Magic Johnson = 매직 존슨
+  Minneapolis = 미니애폴리스
+  NBA = NBA
+  NBL = NBL
+  National Basketball Association = 전미 농구 협회
+  Shaquille O'Neal = 샤킬 오닐
+ENTRY:
+[[National Basketball Association|National Basketball Association]] team based in [[Los Angeles]], California. The franchise began in 1946 as the Detroit Gems and later moved to Minneapolis, winning the 1948 NBL championship, before moving to Los Angeles before the 1960–61 season. The Lakers have won 17 NBA championships, second to the [[Boston Celtics]], and their 33-game winning streak in 1971–72 is the league's longest. Stars including [[Kareem Abdul-Jabbar]], [[Magic Johnson]], [[Kobe Bryant]], [[Shaquille O'Neal]] and [[LeBron James]] led title teams in the 1980s, in 2000–02 and in 2020. Jerry Buss bought the team in 1979 and pioneered basketball as entertainment as well as sport.
+
+=== KEY: Los_Angeles_d0aa2d
+HEADWORD: Los Angeles = 로스앤젤레스
+LEVEL: 4
+GLOSSARY:
+  Americas = 아메리카
+  California = 캘리포니아주
+  Downtown = 다운타운
+  Frank = 프랭크
+  Frank Gehry = 프랭크 게리
+  Hidalgo = 이달고
+  Mexican–American War = 멕시코-미국 전쟁
+  Pueblo = 푸에블로족
+  Southern California = 남부 캘리포니아
+  Summer Olympics = 하계 올림픽
+  Treaty = 조약
+  Treaty of Guadalupe Hidalgo = 과달루페이달고 조약
+  United States = 미국
+ENTRY:
+Most populous city in [[California|California]] and second-most populous in the United States (pop., 2025: 3.87 million). It is the commercial, financial and cultural center of [[Southern California]]. Its metropolitan area had 12.9 million people in 2024. The city was founded on September 4, 1781, by 44 settlers as El Pueblo de Nuestra Señora la Reina de los Ángeles. It became part of the United States through the Treaty of Guadalupe Hidalgo in 1848, at the end of the [[Mexican–American War]], and was incorporated on April 4, 1850. The city is one of the largest hubs of film and television production and has one of the busiest container ports in the Americas. It hosted the Summer Olympics in 1932 and 1984, and will host them in 2028. Downtown contains the world's largest showcase of architecture designed by [[Frank Gehry]].
+
+=== KEY: Lost_Cause_of_the_Confederacy_1e57df
+HEADWORD: Lost Cause of the Confederacy = 잃어버린 대의
+LEVEL: 5
+GLOSSARY:
+  American Civil War = 남북 전쟁
+  Civil War = 남북 전쟁
+  Civil rights movement = 민권 운동
+  Confederate = 남부 연합
+  Edward A. Pollard = 에드워드 A. 폴러드
+  History = 역사학
+  Jim Crow = 짐 크로
+  Jim Crow laws = 짐 크로 법
+  Lost = 「로스트」
+  Lost Cause = 잃어버린 대의
+  White supremacy = 백인 우월주의
+  states' rights = 주의 권리
+ENTRY:
+Pseudohistorical myth of the [[American Civil War|American Civil War]] holding that the Confederate cause was morally just and not centered on slavery. First articulated in 1866 by journalist Edward A. Pollard in *The Lost Cause: A New Southern History of the War of the Confederates*, it blamed states' rights and Northern aggression for the war. Its proponents built Confederate monuments and wrote history textbooks. The myth peaked at the turn of the 20th century and again during the [[Civil rights movement]] of the 1950s and 1960s. Critics argue that it sustained [[White supremacy|white supremacist]] policies such as Jim Crow laws.
+
+=== KEY: Lost_Generation_15391f
+HEADWORD: Lost Generation = 잃어버린 세대
+LEVEL: 5
+GLOSSARY:
+  Ernest Hemingway = 어니스트 헤밍웨이
+  F. Scott Fitzgerald = F. 스콧 피츠제럴드
+  Gertrude = 거트루드
+  Gertrude Stein = 거트루드 스타인
+  Great Depression = 대공황
+  Hemingway = 헤밍웨이
+  Lost = 「로스트」
+  Nabi Tajima = 다지마 나비
+  Paris = 파리
+  Roaring Twenties = 광란의 20년대
+  The Sun = 『더 선』
+  The Sun Also Rises = 『해는 또다시 떠오른다』
+  World = 세계
+  World War I = 제1차 세계 대전
+ENTRY:
+Demographic cohort born from 1883 to 1900, who came of age around [[World War I]]. The term also denotes American expatriate writers living in Paris in the 1920s, including [[Ernest Hemingway|Hemingway]] and [[F. Scott Fitzgerald]]. Gertrude Stein is credited with coining it, and Hemingway popularized it as the epigraph of *The Sun Also Rises* (1926). "Lost" refers to the "disoriented, wandering, directionless" spirit of the war's survivors. Mobilized for World War I, the cohort became the driving force behind cultural changes in major cities during the [[Roaring Twenties]]. Later it endured the [[Great Depression]]. The last known member, Nabi Tajima, reached the age of 117.
+
+=== KEY: Lost_TV_series_9dbf18
+HEADWORD: Lost = 로스트
+LEVEL: 5
+GLOSSARY:
+  ABC = ABC
+  Damon Lindelof = 데이먼 린들로프
+  Emmy = 에미상
+  Emmy Award = 에미상
+  Hawaii = 하와이주
+  J. J. Abrams = J. J. 에이브럼스
+  Jeffrey Lieber = 제프리 리버
+  Oahu = 오아후섬
+  Ocean = 대양
+  Outstanding Drama Series = 드라마 시리즈 작품상
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Award = 프라임타임 에미상
+  South Pacific Ocean = 남태평양
+ENTRY:
+American television series (2004–2010). Created by Jeffrey Lieber, J. J. Abrams, and Damon Lindelof, its 121 episodes aired on ABC over six seasons. Survivors of an airline crash are stranded on a mysterious island in the South Pacific Ocean, and episodes pair island storylines with flashback and flashforward sequences. Filmed primarily in Oahu, [[Hawaii]], it was among television's most expensive series, its pilot alone costing over $14 million. The first season averaged an estimated 16 million viewers per episode. It won the Primetime Emmy Award for Outstanding Drama Series (2005).
+
+=== KEY: Lottery_879112
+HEADWORD: Lottery = 복권
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  Dutch = 네덜란드어
+  Europe = 유럽
+  Gambling = 도박
+  Great Wall = 만리장성
+  Great Wall of China = 만리장성
+  Han dynasty = 한나라
+  Keno = 키노
+  Low Countries = 저지대 국가
+  Staatsloterij = 스타츠로테레이
+  United States = 미국
+  Wall = 벽
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+Form of [[Gambling|gambling]] based on random drawing of numbers for prizes. Some governments outlaw lotteries, while others endorse them and run national or state lotteries. The most common regulations ban sales to minors and license ticket vendors. Keno slips from China's [[Han dynasty]], dated between 205 and 187 BC, are the first recorded signs of a lottery, and such lotteries may have helped finance the [[Great Wall of China]]. The first recorded lotteries selling tickets for cash prizes were held in the Low Countries in the 15th century, when towns used them to raise money for fortifications and the poor. The Dutch state-owned Staatsloterij, dating from 1726, is the oldest running lottery. By the beginning of the 20th century, most forms of gambling, including lotteries, were illegal in the [[United States]] and most of Europe, a ban that lasted until after World War II.
+
+=== KEY: Lou_Ferrigno_71010f
+HEADWORD: Ferrigno, Lou = 퍼리뇨, 루
+LEVEL: 5
+GLOSSARY:
+  Arnold = 아르놀트
+  Arnold Schwarzenegger = 아널드 슈워제네거
+  Bodybuilding = 보디빌딩
+  CBS = CBS
+  Hercules = 「헤라클레스」
+  IFBB = 국제 보디빌딩 연맹
+  Iron = 철
+  Mr. America = 미스터 아메리카
+  Mr. Universe = 미스터 유니버스
+  Pumping Iron = 「펌핑 아이언」
+  Queens = 퀸스
+  Seven = 「세븐」
+  Sinbad of the Seven Seas = 「칠대양의 신드바드」
+  The Incredible Hulk = 「두 얼굴의 사나이」
+  The King of Queens = 「킹 오브 퀸즈」
+  Universe = 우주
+ENTRY:
+American actor and retired [[Bodybuilding|bodybuilder]]. He won the IFBB Mr. America title and two consecutive IFBB Mr. Universe titles, and appeared in the documentary film *Pumping Iron* (1977). Early in his career he trained with [[Arnold Schwarzenegger]]. He is best known for the title role in the CBS series *The Incredible Hulk* (1977–1982), and he has voiced the character in later animated and computer-generated versions. His films include *Hercules* (1983) and *Sinbad of the Seven Seas* (1989), and he appeared as himself in the sitcom *The King of Queens*.
+
+=== KEY: Lou_Gehrig_66eb89
+HEADWORD: Gehrig, Lou = 게릭, 루
+LEVEL: 5
+GLOSSARY:
+  ALS = 근위축성 측삭 경화증
+  American League = 아메리칸 리그
+  American League Most Valuable Player = 아메리칸 리그 최우수 선수
+  Baseball = 야구
+  Baseball Hall of Fame = 야구 명예의 전당
+  Crown = 영국 왕실
+  Horse = 말
+  Iron = 철
+  Iron Horse = 철마
+  Most Valuable Player = 최우수 선수
+  New York = 『뉴욕』
+  New York Yankees = 뉴욕 양키스
+  Triple Crown = 트리플 크라운
+  Yankee Stadium = 양키 스타디움
+  Yankees = 양키스
+  York = 요크
+  amyotrophic lateral sclerosis = 근위축성 측삭 경화증
+ENTRY:
+American baseball first baseman. Nicknamed the "Iron Horse," he played 17 seasons for the [[New York Yankees]], won the Triple Crown, and was twice named American League Most Valuable Player. He set a record of 2,130 consecutive games played, which stood until Cal Ripken Jr. surpassed it in 1995. His streak ended in May 1939 when an undiagnosed ailment, later identified as amyotrophic lateral sclerosis ([[ALS]]), hampered his play. He retired that year, and on July 4, 1939, at Yankee Stadium, he called himself the "luckiest man on the face of the earth." He was elected to the Baseball Hall of Fame in 1939.
+
+=== KEY: Lou_Reed_b3948d
+HEADWORD: Reed, Lou = 리드, 루
+LEVEL: 5
+GLOSSARY:
+  David Bowie = 데이비드 보위
+  New York = 『뉴욕』
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  The Velvet Underground = 벨벳 언더그라운드
+  Transformer = 변압기
+  Underground = 『언더그라운드』
+  Velvet Underground = 벨벳 언더그라운드
+  Walk on the Wild Side = 「워크 온 더 와일드 사이드」
+  York = 요크
+  alternative rock = 얼터너티브 록
+ENTRY:
+American rock musician and poet. He was the guitarist, lead singer, and principal songwriter for the [[The Velvet Underground|Velvet Underground]], a commercially unsuccessful band later regarded as one of the most influential in alternative rock. He launched a solo career after leaving in 1970. His album *Transformer* (1972), produced by [[David Bowie]], brought mainstream recognition and includes "Walk on the Wild Side," his most successful single. He reached a critical and commercial peak with *New York* (1989). He was inducted into the [[Rock and Roll Hall of Fame]] as a Velvet Underground member in 1996 and as a solo artist in 2015.
+
+=== KEY: Loudspeaker_1a33d6
+HEADWORD: Loudspeaker = 스피커
+LEVEL: 4
+GLOSSARY:
+  Chester = 체스터
+  Chester W. Rice = 체스터 W. 라이스
+  Edward W. Kellogg = 에드워드 W. 켈로그
+  Faraday's law of induction = 패러데이 전자기 유도 법칙
+  Microphone = 마이크로폰
+  Personal computer = 개인용 컴퓨터
+  crossover network = 크로스오버 네트워크
+  diaphragm = 횡격막
+  drivers = 드라이버
+  dynamic driver = 다이내믹 드라이버
+  high-fidelity = 하이파이
+  magnetic field = 자기장
+  mid-range drivers = 미드레인지 드라이버
+  public address systems = 확성 장치
+  tweeters = 트위터
+  voice coil = 보이스 코일
+  woofers = 우퍼
+ENTRY:
+Electroacoustic transducer converting an electrical audio signal into sound. A loudspeaker system combines one or more drivers, an enclosure, and electrical connections. The dynamic driver, the most common type, shares the basic configuration of a [[Microphone|microphone]] but operates in reverse. Current from the signal passes through a voice coil in a magnetic field, and the resulting movement, due to [[Faraday's law of induction]], drives a diaphragm that moves air. The dynamic speaker was invented in 1925 by Edward W. Kellogg and Chester W. Rice. Most high-fidelity systems use separate drivers: tweeters for high frequencies, mid-range drivers for middle frequencies, and woofers for low frequencies, with a crossover network directing each part of the signal. Smaller speakers appear in radios, televisions, [[Personal computer|personal computers]], and headphones, while larger systems serve home stereos, electronic musical instruments, and public address systems.
+
+=== KEY: Louis_Agassiz_a97220
+HEADWORD: Agassiz, Louis = 아가시, 루이
+LEVEL: 4
+GLOSSARY:
+  Alexander von Humboldt = 알렉산더 폰 훔볼트
+  Geology = 지질학
+  Georges Cuvier = 조르주 퀴비에
+  Harvard = 하버드
+  Harvard University = 하버드 대학교
+  Megalodon = 메갈로돈
+  Museum = 박물관
+  Museum of Comparative Zoology = 비교 동물학 박물관
+  Neuchâtel = 뇌샤텔
+  Paris = 파리
+  United States = 미국
+  University = 대학
+  University of Neuchâtel = 뇌샤텔 대학교
+  Zoology = 동물학
+  glaciology = 빙하학
+  ichthyological = 어류학
+  natural history = 박물학
+  polygenism = 인류 다원 발생설
+  scientific racism = 과학적 인종주의
+ENTRY:
+Swiss-born American biologist and geologist. Known for observational data gathering and analysis, he made institutional and scientific contributions to zoology and [[Geology|geology]], producing multivolume research books running to thousands of pages. He studied with [[Georges Cuvier]] and [[Alexander von Humboldt]] in Paris and was appointed professor of natural history at the University of Neuchâtel in November 1832. He emigrated to the United States in 1847 and became professor of zoology and geology at [[Harvard University]], where he founded the Museum of Comparative Zoology. His contributions to ichthyological classification include extinct species such as [[Megalodon|megalodon]], and he is credited with founding glaciology. His theories of human, animal, and plant polygenism have been criticized as implicitly supporting scientific racism.
+
+=== KEY: Louis_Armstrong_99a38f
+HEADWORD: Armstrong, Louis = 암스트롱, 루이
+LEVEL: 3
+GLOSSARY:
+  African American = 아프리카계 미국인
+  Again = 「어게인」
+  Blues = 블루스
+  City = 도시
+  Creole = 크리올
+  Creole Jazz Band = 크리올 재즈 밴드
+  Dolly = 『돌리』
+  DownBeat Jazz Hall of Fame = 다운비트 재즈 명예의 전당
+  Ella Fitzgerald = 엘라 피츠제럴드
+  Ella and Louis = 『엘라 앤드 루이』
+  Ella and Louis Again = 『엘라 앤드 루이 어게인』
+  Fletcher Henderson = 플레처 헨더슨
+  Grammy = 그래미상
+  Grammy Award = 그래미상
+  Grammy Lifetime Achievement Award = 그래미 평생 공로상
+  Jazz = 재즈
+  La Vie en rose = 「라 비 앙 로즈」
+  Lifetime Achievement Award = 평생공로상
+  Little Rock = 리틀록
+  Little Rock Crisis = 리틀록 사태
+  Melancholy Blues = 「멜랑콜리 블루스」
+  New Orleans = 뉴올리언스
+  New York = 『뉴욕』
+  New York City = 뉴욕
+  Pops = 팝스
+  Porgy and Bess = 『포기와 베스』
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Satchmo = 사치모
+  Voyager = 보이저
+  Voyager Golden Record = 보이저 골든 레코드
+  What a Wonderful World = 「왓 어 원더풀 월드」
+  When the Saints Go Marching In = 「성자들의 행진」
+  World = 세계
+  York = 요크
+  collective improvisation = 집단 즉흥 연주
+  cutting contests = 커팅 콘테스트
+  recording artist = 음반 아티스트
+  scat singing = 스캣
+ENTRY:
+American [[Jazz|jazz]] trumpeter, cornetist, and singer, nicknamed "Satchmo" and "Pops." Born and raised in [[New Orleans]], he came to prominence in the 1920s as an inventive trumpet and cornet player and became a foundational influence in jazz, shifting the music's focus from collective improvisation to solo performance. Around 1922 he followed his mentor, Joe "King" Oliver, to Chicago to play in Oliver's Creole Jazz Band. His reputation at "cutting contests" reached bandleader Fletcher Henderson, and he moved to New York City, where he became a featured soloist and recording artist. By the 1950s he was an international musical icon.
+
+His best-known songs include "What a Wonderful World," "La Vie en rose," "Hello, Dolly!," "On the Sunny Side of the Street," and "When the Saints Go Marching In." He made three records with [[Ella Fitzgerald]]: *Ella and Louis* (1956), *Ella and Louis Again* (1957), and *Porgy and Bess* (1959). He won the Grammy Award for Best Male Vocal Performance for "Hello, Dolly!" in 1965 and a posthumous Grammy Lifetime Achievement Award in 1972, and was inducted into the DownBeat Jazz Hall of Fame and the [[Rock and Roll Hall of Fame]].
+
+His gravelly voice and skill at scat singing made him an influential vocalist, and his influence reached popular music. He was one of the first popular African American entertainers to "cross over" to white and international audiences. He rarely discussed racial issues publicly, sometimes to the dismay of fellow black Americans, but took a well-publicized stand for desegregation in the Little Rock Crisis. His recording of "Melancholy Blues" is included on the [[Voyager Golden Record]].
+
+=== KEY: Louis_B_Mayer_1a7a03
+HEADWORD: Mayer, Louis B. = 메이어, 루이스 B.
+LEVEL: 4
+GLOSSARY:
+  Academy Awards = 아카데미상
+  Brunswick = 브라운슈바이크
+  California = 캘리포니아주
+  California Republican Party = 캘리포니아 공화당
+  Dymer = 디메르
+  Hollywood = 할리우드
+  Irving = 어빙
+  Irving Thalberg = 어빙 솔버그
+  John = 존
+  Judy = 「주디」
+  Judy Garland = 주디 갈런드
+  Metro-Goldwyn-Mayer = 메트로골드윈메이어
+  Minsk = 민스크
+  New Brunswick = 뉴브런즈윅주
+  Party = 파티
+  Republican Party = 공화당
+  Russian = 러시아어
+  Russian Empire = 러시아 제국
+  Saint = 성인
+  Saint John = 세인트존
+  vice president = 부통령
+ENTRY:
+Canadian-American film producer and co-founder of [[Metro-Goldwyn-Mayer]]. Under his management, the studio became the most prestigious in Hollywood, accumulating the largest concentration of leading writers, directors, and stars. He was born in Minsk or Dymer, then both in the [[Russian Empire]], and grew up poor in Saint John, New Brunswick, where he quit school at 12 to support his family. He ran the business side, setting budgets and approving productions, while producer [[Irving Thalberg]] supervised all output. He was criticized for his treatment of performers, such as [[Judy Garland]], whom he forced to diet, take drugs, and work punishing schedules. He was forced out as vice president in 1951 when the parent company, Loew's, Inc., sought to improve declining profits. A staunch conservative, he once chaired the California Republican Party, and in 1927 he was one of the founders of the organization that presents the [[Academy Awards]].
+
+=== KEY: Louis_Braille_f8f58e
+HEADWORD: Braille, Louis = 브라유, 루이
+LEVEL: 4
+GLOSSARY:
+  Braille = 점자
+  French = 프랑스어
+  Paris = 파리
+  Royal Institute for Blind Youth = 왕립 맹아 학교
+  Youth = 『청년 시절』
+ENTRY:
+French educator and inventor of [[Braille|braille]]. Injured in one eye by an awl at age three, he was totally blind by age five after an infection spread to both eyes. He attended the Royal Institute for Blind Youth in Paris from 1819, and, inspired by Charles Barbier's system, he developed a more compact code of raised dots that he first presented to his peers in 1825, at age fifteen. The system allowed reading and writing of letters, numbers, and music. He taught at the Institute as an adult and spent much of his life refining it. Most educators did not use it for many years after his death, but it was officially adopted at the Institute in 1854 and is now used worldwide.
+
+=== KEY: Louis_C_K_5052c1
+HEADWORD: Louis C.K. = 루이 C.K.
+LEVEL: 5
+GLOSSARY:
+  Album = 앨범
+  Best Comedy Album = 최우수 코미디 앨범상
+  Chris Rock = 크리스 록
+  Conan = 「코넌」
+  Conan O'Brien = 코넌 오브라이언
+  David Letterman = 데이비드 레터먼
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  FX = FX
+  Grammy = 그래미상
+  Grammy Award = 그래미상
+  Grammy Award for Best Comedy Album = 그래미상 최우수 코미디 앨범 부문
+  Louie = 「루이」
+  Love = 사랑
+  New York = 『뉴욕』
+  New York Times = 『뉴욕 타임스』
+  Night = 『밤』
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Awards = 프라임타임 에미상
+  Saturday Night = 「새터데이 나이트」
+  Saturday Night Live = 「새터데이 나이트 라이브」
+  Stand-up comedy = 스탠드업 코미디
+  The New York Times = 『뉴욕 타임스』
+  Writing = 문자
+  York = 요크
+  stand-up comedian = 스탠드업 코미디언
+ENTRY:
+American [[Stand-up comedy|stand-up]] comedian, actor, and filmmaker. He began his career in the 1990s writing for comedians including [[David Letterman]], [[Conan O'Brien]], [[Chris Rock]], and [[Saturday Night Live]]. He created, directed, and starred in the FX series *Louie* (2010–2015), which won him two Primetime Emmy Awards for Outstanding Writing in a Comedy Series. In 2017 he admitted to several incidents of sexual misconduct after an article in [[The New York Times]], and his film *I Love You, Daddy* was pulled from distribution. He returned to stand-up in 2018, and *Sincerely Louis C.K.* (2020) won a Grammy Award for Best Comedy Album.
+
+=== KEY: Louis_Daguerre_9de7fa
+HEADWORD: Daguerre, Louis = 다게르, 루이
+LEVEL: 4
+GLOSSARY:
+  Daguerreotype = 다게레오타입
+  French = 프랑스어
+  Mercury (element) = 수은
+  Nicéphore Niépce = 니세포르 니엡스
+  Paris = 파리
+  diorama = 디오라마
+  scenic designer = 무대 디자이너
+ENTRY:
+French scientist, artist, and photographer. He invented the diorama, which opened in Paris in July 1822, and was also an accomplished painter and scenic designer. In 1829 he partnered with [[Nicéphore Niépce]], who had made the oldest surviving camera photograph. After Niépce's death in 1833, Daguerre developed the [[Daguerreotype|daguerreotype]] process, in which a silver-plated copper sheet sensitized with iodine vapor was exposed in a camera and then developed with [[Mercury (element)|mercury]] vapor. On August 19, 1839, the French government presented the process as a gift "free to the world," in exchange for lifetime pensions for Daguerre and Niépce's son. Daguerreotypes were used primarily for portraits.
+
+=== KEY: Louis_Farrakhan_5d33e8
+HEADWORD: Farrakhan, Louis = 패러칸, 루이스
+LEVEL: 5
+GLOSSARY:
+  Boston = 보스턴
+  Elijah Muhammad = 일라이자 무하마드
+  Facebook = 페이스북
+  Harlem = 할렘
+  Islam = 이슬람교
+  Million Man March = 100만 인 행진
+  Muhammad = 무함마드
+  Nation = 민족
+  Nation of Islam = 네이션 오브 이슬람
+  Washington = 워싱턴주
+  black nationalism = 흑인 민족주의
+  calypso = 칼립소
+ENTRY:
+American religious leader. He officially adopted the name [[Nation of Islam]] in 1981, reviving the group, a movement combining black nationalism with Islamic terminology. Before joining, he was a violinist and calypso singer, and in the 1950s he served as a minister under [[Elijah Muhammad]] in Boston and Harlem. He led the Million Man March in Washington, D.C., in October 1995. Many of his statements have been condemned as antisemitic, homophobic, or racist; he has denied being antisemitic, racist, sexist, or anti-gay. He was banned from [[Facebook]] in 2019.
+
+=== KEY: Louis_IX_of_France_581a53
+HEADWORD: Louis IX = 루이 9세
+LEVEL: 4
+GLOSSARY:
+  Capetians = 카페 왕조
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Church = 처치
+  Crusades = 십자군
+  Direct Capetians = 카페 왕조
+  Dysentery = 이질
+  Egypt = 이집트
+  France = 프랑스
+  French = 프랑스어
+  Jews = 유대인
+  Philip III = 필리프 3세
+  Reims = 랭스
+  Saint = 성인
+  Saint Louis = 성왕 루이
+  Talmud = 『탈무드』
+  presumption of innocence = 무죄 추정
+  trial by ordeal = 신명 재판
+  yellow badge = 노란 표지
+ENTRY:
+King of France from 1226 to 1270, also known as Saint Louis. Crowned at Reims at age 12, he was the sole French king canonized by the [[Catholic Church]], and he is regarded as the most distinguished of the Direct Capetians. He abolished trial by ordeal, incorporated the presumption of innocence into criminal proceedings, and created a royal justice mechanism allowing petitioners to appeal judgments directly to the monarch. He led the Seventh and Eighth Crusades. He was captured and ransomed in Egypt during the first, and died of [[Dysentery|dysentery]] during the second. His treatment of Jews included ordering them to wear a yellow badge and the burning of the Talmud. His son Philip III succeeded him.
+
+=== KEY: Louis_I_of_Hungary_76376e
+HEADWORD: Louis I = 러요시 1세
+LEVEL: 4
+GLOSSARY:
+  Andrew = 언드라시
+  Charles I = 찰스 1세
+  Croatia = 크로아티아
+  Dalmatian = 달마치야
+  Golden Horde = 킵차크 칸국
+  Hungarian = 헝가리어
+  Hungary = 헝가리
+  Joanna = 후아나
+  Joanna I of Naples = 나폴리의 조반나 1세
+  King of Hungary = 헝가리 왕
+  Kingdom of Naples = 나폴리 왕국
+  Lithuanians = 리투아니아인
+  Louis the Great = 대왕 러요시
+  Naples = 나폴리
+  Poland = 폴란드
+  Pécs = 페치
+  Queen = 퀸
+  Republic of Venice = 베네치아 공화국
+  Serbia = 세르비아
+  Venice = 베네치아
+ENTRY:
+King of Hungary and Croatia from 1342 to 1382, and of [[Poland]] from 1370, known as Louis the Great. He inherited a centralized kingdom and a rich treasury from his father, Charles I. After his brother Andrew was assassinated in 1345, he accused Queen Joanna I of Naples of the murder and launched two campaigns to the Kingdom of Naples between 1347 and 1350, withdrawing in 1351. He forced the [[Republic of Venice]] to renounce the Dalmatian towns in 1358, and he waged wars against the Lithuanians, Serbia, and the [[Golden Horde]]. He established a university in Pécs in 1367, which closed within two decades for lack of revenue. Hungarian historians long regarded him as ruler of an empire "whose shores were washed by three seas."
+
+=== KEY: Louis_Kahn_d5fc74
+HEADWORD: Kahn, Louis = 칸, 루이스
+LEVEL: 4
+GLOSSARY:
+  American Institute of Architects = 미국 건축가 협회
+  Assembly = 민회
+  Building = 건물
+  Dhaka = 다카
+  Fort Worth = 포트워스
+  Fort Worth, Texas = 텍사스주 포트워스
+  Gold = 금
+  Kimbell Art Museum = 킴벨 미술관
+  Museum = 박물관
+  National Assembly = 국민 의회
+  National Assembly Building = 국회 의사당
+  Pennsylvania = 펜실베이니아주
+  Philadelphia = 필라델피아
+  Royal Institute of British Architects = 영국 왕립 건축가 협회
+  Russian = 러시아어
+  Russian Empire = 러시아 제국
+  Texas = 텍사스주
+  United States = 미국
+  University = 대학
+  University of Pennsylvania = 펜실베이니아 대학교
+  Yale University = 예일 대학교
+ENTRY:
+Estonian-born American architect. His family emigrated from the [[Russian Empire]] to the United States in 1906, and he settled in Philadelphia, where he founded his own practice in 1935. He taught at [[Yale University]] from 1947 to 1957 and at the [[University of Pennsylvania]] from 1957 until his death. His style was monumental and monolithic, with heavy buildings that do not hide their weight, materials, or assembly. His works include the Kimbell Art Museum in [[Fort Worth, Texas]] (1972), and his National Assembly Building in [[Dhaka]] was unfinished at his death. He was awarded the Gold Medals of the American Institute of Architects and the Royal Institute of British Architects.
+
+=== KEY: Louis_Pasteur_18abdf
+HEADWORD: Pasteur, Louis = 파스퇴르, 루이
+LEVEL: 3
+GLOSSARY:
+  Academy of Sciences = 과학 아카데미
+  Alhumbert Prize = 알윙베르상
+  Anthrax = 탄저병
+  Antonie van Leeuwenhoek = 안토니 판 레이우엔훅
+  Crystal = 결정
+  Dole = 돌
+  Fermentation = 발효
+  French = 프랑스어
+  French Academy of Sciences = 프랑스 과학 아카데미
+  Joseph Meister = 조제프 메스테르
+  Jura = 쥐라
+  Koch = 코흐
+  Marie Laurent = 마리 로랑
+  Pasteur = 파스퇴르
+  Pasteur Institute = 파스퇴르 연구소
+  Pasteurization = 저온 살균
+  Rabies = 광견병
+  Robert Koch = 로베르트 코흐
+  Strasbourg = 스트라스부르
+  University = 대학
+  University of Strasbourg = 스트라스부르 대학교
+  Vaccination = 예방 접종
+  bacteriology = 세균학
+  germ theory = 세균설
+  germ theory of disease = 세균설
+  microbiology = 미생물학
+  optical isomerism = 광학 이성질
+  sodium ammonium tartrate = 타르타르산 나트륨 암모늄
+  spontaneous generation = 자연 발생설
+ENTRY:
+French chemist, pharmacist, and microbiologist, renowned for his discoveries of the principles of [[Vaccination|vaccination]], microbial [[Fermentation|fermentation]], and [[Pasteurization|pasteurization]], which was named after him. He is regarded as one of the founders of modern bacteriology and has been called the "father of bacteriology" and the "father of microbiology," the latter title shared with [[Robert Koch]] and also attributed to [[Antonie van Leeuwenhoek]]. His work is credited with saving millions of lives through vaccines for [[Rabies|rabies]] and [[Anthrax|anthrax]].
+
+Born in Dole, Jura, to a poor tanner's family, he was an average student whose early interests were fishing and sketching. He became professor of chemistry at the University of Strasbourg, where he married Marie Laurent in 1849.
+
+In chemistry, his investigation of sodium ammonium tartrate initiated the field of optical isomerism, and he explained the molecular basis of the asymmetry of certain [[Crystal|crystals]]. He disproved spontaneous generation by showing that nothing developed in sterilized, sealed flasks, while microorganisms grew in sterilized but open ones; the French Academy of Sciences awarded him the Alhumbert Prize of 2,500 francs in 1862. His experiments supported the germ theory of disease by showing that diseases could be prevented by killing or stopping germs, and he developed the treatment of milk and wine to stop bacterial contamination. He developed vaccines for anthrax in cattle and sheep (1881) and for rabies (1885), the latter first given to Joseph Meister, a boy bitten by a rabid dog.
+
+He directed the Pasteur Institute, established in 1887, until his death and was interred in a vault beneath it. His reputation became associated with controversies; a historical reassessment of his notebook revealed that he practiced deception to overcome his rivals.
+
+=== KEY: Louis_Philippe_I_a7ad4e
+HEADWORD: Louis Philippe I = 루이필리프 1세
+LEVEL: 4
+GLOSSARY:
+  Algeria = 알제리
+  Bourbon = 부르봉
+  Charles X = 샤를 10세
+  Citizen King = 시민왕
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  French Revolution of 1848 = 1848년 프랑스 혁명
+  French Revolutionary Wars = 프랑스 혁명 전쟁
+  French Second Republic = 프랑스 제2공화국
+  French conquest of Algeria = 프랑스의 알제리 정복
+  House of Bourbon = 부르봉 왕가
+  July Revolution = 7월 혁명
+  Louis XVI = 루이 16세
+  Orléans = 오를레앙
+  Reign of Terror = 공포 정치
+  Revolution of 1848 = 1848년 혁명
+  Second = 초
+  Switzerland = 스위스
+  United Kingdom = 영국
+ENTRY:
+King of the French from 1830 to 1848, nicknamed the Citizen King. He was the penultimate French monarch and the only one from the Orléans branch of the [[House of Bourbon|Bourbon]] family. As a commander in the [[French Revolutionary Wars]], he broke with the republic over its decision to execute [[Louis XVI]] and fled to Switzerland in 1793, while his father was executed during the [[Reign of Terror]]. He was proclaimed king after the [[July Revolution]] forced Charles X to abdicate in 1830. He sponsored colonial expansion, notably the French conquest of Algeria, and promoted friendship with the United Kingdom. Economic decline in 1847 eroded his popularity, and he abdicated during the French Revolution of 1848, which led to the French Second Republic. He spent the rest of his life in exile in the United Kingdom.
+
+=== KEY: Louis_Riel_9b41d6
+HEADWORD: Riel, Louis = 리엘, 루이
+LEVEL: 4
+GLOSSARY:
+  Battle of Batoche = 바토슈 전투
+  Canadian = 캐나다
+  Canadian Confederation = 캐나다 연방
+  Francophones = 프랑스어 사용자
+  Hanging = 교수형
+  Manitoba = 매니토바주
+  Métis = 메티스
+  North-West Rebellion = 북서부 반란
+  Red River = 「붉은 강」
+  Red River Resistance = 레드강 저항
+  Regina = 리자이나
+  River = 강
+  Saskatchewan = 서스캐처원주
+  Thomas = 토머스
+  Thomas Scott = 토머스 스콧
+  United States = 미국
+  high treason = 대역죄
+ENTRY:
+Canadian politician and Métis leader, a founder of [[Manitoba]]. The provisional government he established during the Red River Resistance of 1869–1870 negotiated the terms on which Manitoba joined Canadian Confederation. During that resistance, Riel had Thomas Scott, a Canadian nationalist, executed, and he fled to the United States. In exile he came to believe he was a divinely chosen leader and prophet. In 1885 he led the North-West Rebellion in Saskatchewan against government forces, a rebellion that ended in defeat at the Battle of Batoche. He was convicted of high treason and executed by [[Hanging|hanging]] in Regina. His execution polarized the country along ethno-religious lines and left lasting alienation among Francophones. His reputation remains divided between a dangerous religious fanatic and a charismatic leader defending the Métis from federal encroachment.
+
+=== KEY: Louis_Sullivan_0d327c
+HEADWORD: Sullivan, Louis = 설리번, 루이스
+LEVEL: 4
+GLOSSARY:
+  American Institute of Architects = 미국 건축가 협회
+  American Institute of Architects Gold Medal = 미국 건축가 협회 골드 메달
+  Auditorium Building = 오디토리엄 빌딩
+  Buffalo = 버펄로
+  Buffalo, New York = 버펄로
+  Building = 건물
+  Chicago School = 시카고학파
+  Dankmar Adler = 댕크마 애들러
+  Frank = 프랭크
+  Frank Lloyd Wright = 프랭크 로이드 라이트
+  Gold = 금
+  Guaranty Building = 개런티 빌딩
+  Henry Hobson Richardson = 헨리 홉슨 리처드슨
+  Hobson = 홉슨
+  Lloyd = 로이드
+  New York = 『뉴욕』
+  Prairie = 프레리
+  Prairie School = 프레리파
+  School = 학교
+  Skyscraper = 마천루
+  St. Louis = 세인트루이스
+  Wainwright Building = 웨인라이트 빌딩
+  York = 요크
+  form follows function = 형태는 기능을 따른다
+ENTRY:
+American architect of the Chicago School, called the "father of [[Skyscraper|skyscrapers]]." He mentored [[Frank Lloyd Wright]] and inspired the Prairie School. The phrase "form follows function" is attributed to him. With Dankmar Adler, he designed many theaters and the 1889 Auditorium Building in Chicago, which included a 4,200-seat theater, a hotel, and an office tower. The firm's office buildings included the 1891 Wainwright Building in [[St. Louis]] and the Guaranty Building in [[Buffalo, New York]]. Sullivan is one of the "recognized trinity of American architecture," with Wright and Henry Hobson Richardson. In 1944 he became the second architect to receive the American Institute of Architects Gold Medal posthumously.
+
+=== KEY: Louis_Theroux_9f87ec
+HEADWORD: Theroux, Louis = 서루, 루이
+LEVEL: 5
+GLOSSARY:
+  BBC = BBC
+  British Academy = 영국 학술원
+  British Academy Television Awards = 영국 아카데미 텔레비전상
+  Louis Theroux's Weird Weekends = 「루이 서루의 기묘한 주말」
+  Nation = 민족
+  Royal Television Society Television Award = 왕립 텔레비전 협회 텔레비전상
+  Society = 사회
+  Spy = 『스파이』
+  TV Nation = 「TV 네이션」
+  Television = 텔레비전
+  The New Yorker = 『뉴요커』
+  United States = 미국
+ENTRY:
+British and American journalist and documentarian. He wrote for *Spy* and presented offbeat segments on Michael Moore's *TV Nation*. He is known for documentaries with the [[BBC]], beginning with *Louis Theroux's Weird Weekends* (1998–2000) and followed by *When Louis Met...* (2000–2002). His studies of unusual and taboo subcultures, crime, the justice system, and celebrities are mostly set in the United States. He has received three British Academy Television Awards and a Royal Television Society Television Award. *The New Yorker* described his work as "a piercingly humane, slyly funny guide through the funkier passages of American culture."
+
+=== KEY: Louis_XIII_74f87f
+HEADWORD: Louis XIII = 루이 13세
+LEVEL: 5
+GLOSSARY:
+  Académie française = 아카데미 프랑세즈
+  Cardinal Richelieu = 리슐리외 추기경
+  France = 프랑스
+  French = 프랑스어
+  Habsburg = 합스부르크
+  Henry IV = 앙리 4세
+  Henry IV of France = 앙리 4세
+  Huguenots = 위그노
+  Marie de' Medici = 마리 드 메디시스
+  Medici = 메디치가
+  Navarre = 나바라
+  Spain = 스페인
+  duc de Luynes = 뤼인 공작
+ENTRY:
+King of France from 1610 to 1643 and of Navarre from 1610 to 1620. He succeeded his father, [[Henry IV of France|Henry IV]], shortly before his ninth birthday. After exiling his mother, Marie de' Medici, in 1617, he governed with chief ministers, first the duc de Luynes and then [[Cardinal Richelieu]]. Together they established the Académie française and ended the revolt of the French nobility, systematically destroying the castles of defiant lords. By the end of the 1620s, Richelieu had made "the royal monopoly of force" the ruling doctrine. The reign also involved struggles against the [[Huguenots]] and Habsburg [[Spain]].
+
+=== KEY: Louis_XIV_2418b0
+HEADWORD: Louis XIV = 루이 14세
+LEVEL: 4
+GLOSSARY:
+  Academy of Sciences = 과학 아카데미
+  Edict of Nantes = 낭트 칙령
+  France = 프랑스
+  Franco-Dutch War = 네덜란드 전쟁
+  French = 프랑스어
+  French Academy of Sciences = 프랑스 과학 아카데미
+  French colonial empire = 프랑스 식민 제국
+  Huguenots = 위그노
+  Molière = 몰리에르
+  Nantes = 낭트
+  Nine Years' War = 9년 전쟁
+  Palace = 궁전
+  Palace of Versailles = 베르사유 궁전
+  Sun King = 태양왕
+  Versailles = 베르사유
+  War of the Spanish Succession = 스페인 왕위 계승 전쟁
+  golden age = 황금기
+ENTRY:
+King of France from 1643 to 1715, known as the Sun King. He is the longest-reigning monarch in history, with 72 years and 110 days on the throne, and his reign brought a golden age of French culture and an expansion of the [[French colonial empire]]. As an absolute monarch, he diminished the power of the nobility and ruled from the [[Palace of Versailles]], where many nobles were compelled to reside. His revocation of the Edict of Nantes abolished the rights of the [[Huguenots]] and effectively forced many to emigrate or convert. France fought the Franco-Dutch War, the Nine Years' War, and the [[War of the Spanish Succession]] during his personal rule. He patronized artists including [[Molière]], and his achievements include the founding of the French Academy of Sciences.
+
+=== KEY: Louis_XI_69bdb9
+HEADWORD: Louis XI = 루이 11세
+LEVEL: 4
+GLOSSARY:
+  Battle of Nancy = 낭시 전투
+  Burgundy = 부르고뉴
+  Charles VII = 샤를 7세
+  Charles VIII = 샤를 8세
+  Charles the Bold = 용담공 샤를
+  Duchy of Burgundy = 부르고뉴 공국
+  Edward IV = 에드워드 4세
+  England = 잉글랜드
+  France = 프랑스
+  Hundred Years' War = 백년 전쟁
+  Picardy = 피카르디
+  Praguerie = 프라그리
+  Spider = 거미
+  Treaty = 조약
+  Treaty of Picquigny = 피키니 조약
+  the Cunning = 교활왕
+  the Prudent = 신중왕
+  the Universal Spider = 거미왕
+ENTRY:
+King of France from 1461 to 1483, called the Prudent. He rebelled against his father, Charles VII, in the Praguerie of 1440, and later fled to the court of [[Duchy of Burgundy|Burgundy]]. His intrigues earned him the nicknames "the Cunning" and "the Universal Spider." By the Treaty of Picquigny (1475) with [[Edward IV]] of England, he isolated Charles the Bold from his English allies and formally ended the [[Hundred Years' War]]. After Charles the Bold died at the Battle of Nancy in 1477, the dynasty of the dukes of Burgundy ended, and Louis seized Burgundian territories, including Burgundy itself and Picardy. He eliminated rebellious vassals and expanded royal power before dying, leaving his only surviving son, Charles VIII, as successor.
+
+=== KEY: Louis_XVIII_44fadb
+HEADWORD: Louis XVIII = 루이 18세
+LEVEL: 5
+GLOSSARY:
+  Bourbon = 부르봉
+  Bourbon Restoration = 부르봉 왕정복고
+  Brother = 형제
+  Charter of 1814 = 1814년 헌장
+  Count of Provence = 프로방스 백작
+  France = 프랑스
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  Hundred Days = 백일천하
+  Louis XVI = 루이 16세
+  Napoleonic era = 나폴레옹 시대
+  Provence = 프로방스
+  Restoration = 왕정복고
+  White = 흰색
+  White Terror = 백색 테러
+  royal prerogative = 국왕 대권
+  second wave = 제2물결
+  the Desired = 열망왕
+ENTRY:
+King of France from 1814 to 1824, except for the [[Hundred Days]] in 1815, known as the Desired. Brother of [[Louis XVI]], he held the title Count of Provence and spent 23 years in exile during the French Revolution and Napoleonic era. His Bourbon Restoration government was a constitutional monarchy under the Charter of 1814, which substantially reduced royal prerogative. His return in 1815 led to a second wave of White Terror. He was the last king or emperor of France to die reigning.
+
+=== KEY: Louis_XVI_9bd72d
+HEADWORD: Louis XVI = 루이 16세
+LEVEL: 4
+GLOSSARY:
+  Convention = 비상 의회
+  Enlightenment = 계몽주의
+  Estates = 신분제 의회
+  Estates General = 삼부회
+  Estates General of 1789 = 1789년 삼부회
+  France = 프랑스
+  Great Britain = 그레이트브리튼
+  Guillotine = 단두대
+  Marie Antoinette = 마리 앙투아네트
+  National Convention = 국민 공회
+  Varennes = 바렌
+  absolute monarchy = 절대 군주제
+  high treason = 대역죄
+ENTRY:
+King of France from 1774 to 1792, the last before the fall of the monarchy. His early reforms, inspired by Enlightenment ideas, were blocked by the nobility. Deregulation of the grain market raised bread prices, and in 1775 scarcity provoked revolt. From 1776 he supported the North American colonists against Great Britain, a policy that added to the debt and financial crisis and led to the convening of the Estates General of 1789. Discontent with the absolute monarchy, personified by the king and his wife, [[Marie Antoinette]], intensified into revolution. After his unsuccessful flight to Varennes in 1791, the monarchy was abolished, and he was tried for high treason by the National Convention and executed by [[Guillotine|guillotine]].
+
+=== KEY: Louis_XV_614293
+HEADWORD: Louis XV = 루이 15세
+LEVEL: 4
+GLOSSARY:
+  Austrian Netherlands = 오스트리아령 네덜란드
+  Beloved = 『빌러비드』
+  Cardinal Fleury = 플뢰리 추기경
+  Corsican Republic = 코르시카 공화국
+  Duchy of Lorraine = 로렌 공국
+  Duke of Orléans = 오를레앙 공작
+  France = 프랑스
+  Great Britain = 그레이트브리튼
+  Lorraine = 로렌
+  Louis XIV = 루이 14세
+  Louis XVI = 루이 16세
+  Louis the Beloved = 친애왕 루이
+  Netherlands = 네덜란드
+  New France = 누벨프랑스
+  Orléans = 오를레앙
+  Seven = 「세븐」
+  Seven Years' War = 7년 전쟁
+  Spain = 스페인
+  absolute monarchy = 절대 군주제
+ENTRY:
+King of France from 1715 to 1774, known as Louis the Beloved. He succeeded his great-grandfather [[Louis XIV]] at age five, and Philippe II, Duke of Orléans, governed as regent until 1723. Cardinal Fleury was chief minister from 1726 until 1743. In 1748 he returned the Austrian Netherlands, and after the [[Seven Years' War]] he ceded [[New France]] to Great Britain and Spain in 1763. He incorporated the Duchy of Lorraine and the Corsican Republic into France. Historians generally criticize his reign for weakening France, depleting the treasury, and discrediting the absolute monarchy, though a minority of scholars argue that his reputation was blackened by later revolutionary propaganda. His grandson [[Louis XVI]] inherited a kingdom on the brink of financial disaster.
+
+=== KEY: Louis_de_Broglie_4dee71
+HEADWORD: Broglie, Louis de = 드브로이, 루이
+LEVEL: 4
+GLOSSARY:
+  Académie Française = 아카데미 프랑세즈
+  CERN = 유럽 입자 물리 연구소
+  David Bohm = 데이비드 봄
+  Electron = 전자
+  European Organization for Nuclear Research = 유럽 입자 물리 연구소
+  French = 프랑스어
+  Nobel Prize = 노벨상
+  Nobel Prize in Physics = 노벨 물리학상
+  Physics = 물리학
+  Quantum mechanics = 양자역학
+  Research = 연구
+  de Broglie hypothesis = 드브로이 가설
+  pilot-wave interpretation = 파일럿파 해석
+  quantum mechanics = 양자역학
+  wave mechanics = 파동 역학
+ENTRY:
+French theoretical physicist and aristocrat. In his 1924 doctoral thesis he proposed that [[Electron|electrons]] and other matter have wave properties, an idea known as the de Broglie hypothesis and central to [[Quantum mechanics|quantum mechanics]]. After the wave behavior of matter was confirmed experimentally in 1927, he won the 1929 Nobel Prize in Physics. He presented a pilot-wave interpretation of wave mechanics in 1927 but abandoned it. David Bohm developed a version in 1952, and de Broglie revisited the idea in 1956 in what became the de Broglie–Bohm theory. He was the first high-level scientist to call for a multinational laboratory, a proposal that led to the founding of the European Organization for Nuclear Research ([[CERN]]). He was elected to the Académie Française in 1944.
+
+=== KEY: Louis_de_Fun_s_2818cc
+HEADWORD: Funès, Louis de = 드 퓌네스, 루이
+LEVEL: 4
+GLOSSARY:
+  Catholic = 가톨릭
+  Château = 성관
+  Château de Clermont = 클레르몽성
+  Clermont = 클러몬트호
+  Europe = 유럽
+  France = 프랑스
+  French = 프랑스어
+  Gendarme de Saint-Tropez = 「생트로페의 헌병」
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Golden Globe Award = 골든글로브상
+  Jean Girault = 장 지로
+  La Grande Vadrouille = 「라 그랑드 바드루유」
+  Ludovic Cruchot = 뤼도비크 크뤼쇼
+  Nantes = 낭트
+  Pouic-Pouic = 「푸이크푸이크」
+  Rabbi = 랍비
+  Saint-Raphaël = 생라파엘
+  The Mad Adventures of Rabbi Jacob = 「랍비 자코브의 모험」
+  United States = 미국
+ENTRY:
+French actor and comedian. Known for high-energy slapstick, exaggerated facial expressions and tics, he played conservative petit-bourgeois characters who fawned over authority while persecuting their subordinates. Much of his best-known work was directed by Jean Girault, including the lead in *Pouic-Pouic* (1963) and the *Gendarme de Saint-Tropez* series, in which he played the bumbling Sergeant Ludovic Cruchot. *La Grande Vadrouille* (1966) remains one of [[France|France's]] highest-grossing films. In private he was a shy, reserved man and a devout Catholic. His films drew large audiences in the French-speaking world and across much of continental Europe. In the United States his only wider exposure came with *The Mad Adventures of Rabbi Jacob* (1973), which was nominated for a Golden Globe Award. Museums devoted to him are in the Château de Clermont, near [[Nantes]], where he lived, and in Saint-Raphaël.
+
+=== KEY: Louis_the_Pious_7bc36f
+HEADWORD: Louis the Pious = 경건왕 루이
+LEVEL: 4
+GLOSSARY:
+  Aquitaine = 아키텐
+  Barcelona = 바르셀로나
+  Basques = 바스크인
+  Bernard of Italy = 이탈리아의 베르나르
+  Carolingian = 카롤링거
+  Charlemagne = 샤를마뉴
+  Córdoba = 코르도바
+  Emirate of Córdoba = 코르도바 토후국
+  Frankish = 프랑크
+  Italy = 이탈리아
+  Pyrenees = 피레네산맥
+ENTRY:
+Frankish king and Carolingian emperor (r. 813–840). Crowned king of Aquitaine as a child in 781, he guarded the southwestern frontier, taking [[Barcelona]] from the Emirate of Córdoba in 801 after a seven-month siege. In 812 he asserted Frankish authority over the [[Basques]] south of the [[Pyrenees]]. He was the only surviving son of [[Charlemagne]] and became sole ruler on his father's death in 814. His reign began with tragedies, including the brutal treatment of his nephew Bernard of Italy, for which he performed public penance. In the 830s civil war broke out among his sons, worsened by his plans to provide for his son Charles by a second wife; he was deposed in 833 and restored in 834. Order was largely restored by the end of his reign, but three years of civil war followed his death. Historians generally compare him unfavorably with his father, though he faced different problems.

@@ -45,5 +45,6 @@ the same name is spelled the same way in all 15,000 entries. Terms not in the gl
 
 ## Fixed conventions (added during the full run)
 
-- Chemical names: 표준국어대사전 forms, not the newer 대한화학회 forms: 메탄, 에탄, 알칸, 알킨, 알데히드, 카르복실산.
+- Chemical names: 표준국어대사전 forms for organic names (메탄, 에탄, 알칸, 알킨, 알데히드, 포름산, 카르복실산);
+  element names as in current textbooks (플루오린, 아이오딘, 브로민); compound names spaced (염화 나트륨, 이산화 탄소).
 - Work titles are bare in headwords (아이네이스); 『 』 or 「 」 appear in running text and in glossary terms.

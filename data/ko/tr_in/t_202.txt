@@ -1,0 +1,1061 @@
+=== KEY: Locust_ee9c4c
+HEADWORD: Locust = 메뚜기
+LEVEL: 4
+GLOSSARY:
+  Acrididae = 메뚜기과
+  Famine = 기근
+  Nymph (biology) = 약충
+  Prehistory = 선사 시대
+  Serotonin = 세로토닌
+  gregarious behavior = 군집 행동
+  insecticides = 살충제
+  short-horned grasshopper = 메뚜기아목
+  swarms = 무리
+ENTRY:
+Any of various short-horned grasshopper species, in the family Acrididae, that have a swarming phase. Usually solitary and harmless, locusts change dramatically after drought is followed by rapid vegetation growth, when [[Serotonin|serotonin]] in their brains triggers breeding and gregarious behavior. They form bands of wingless [[Nymph (biology)|nymphs]] that later become winged swarms, which strip fields and damage crops. Locusts have plagued people since [[Prehistory|prehistory]], and ancient Egyptians carved them on tombs. Swarms have caused [[Famine|famines]] and human migrations. Traditional control uses insecticides applied from the ground or air, though biological methods are proving effective. Locusts are edible and are considered a delicacy in many countries.
+
+=== KEY: Logan_Paul_78adea
+HEADWORD: Paul, Logan = 폴, 로건
+LEVEL: 5
+GLOSSARY:
+  Aokigahara = 아오키가하라
+  Boxing = 권투
+  CryptoZoo = 크립토주
+  Forbes = 『포브스』
+  Logan Paul Vlogs = 로건 폴 브이로그
+  Lunchly = 런칠리
+  Paul = 바울로
+  Prime = 프라임
+  United States = 미국
+  WWE = WWE
+  WWE United States Championship = WWE 미국 챔피언십
+  YouTube = 유튜브
+ENTRY:
+American influencer and professional wrestler. His [[YouTube]] channel, Logan Paul Vlogs, has over 23 million subscribers. Paul co-founded the beverage company Prime and the snack brand Lunchly, and was ranked on the [[Forbes]] list of highest-paid YouTube creators in 2017, 2018 and 2021. He has been signed to [[WWE]] since June 2022 and won the WWE United States Championship in November 2023. In 2023 he won his first professional [[Boxing|boxing]] match. In 2017 he filmed himself finding the corpse of a suicide victim in Japan's Aokigahara forest and uploaded the footage. He also promoted CryptoZoo, which failed to compensate more than $1.5 million to investors.
+
+=== KEY: Logarithm_1e62c0
+HEADWORD: Logarithm = 로그
+LEVEL: 3
+GLOSSARY:
+  Adrian Vlacq = 아드리안 블라크
+  Arithmetica = 『산술』
+  Arithmetica Logarithmica = 『아리트메티카 로가리트미카』
+  Euler = 오일러
+  Henry Briggs = 헨리 브리그스
+  John = 존
+  John Napier = 존 네이피어
+  Leonhard Euler = 레온하르트 오일러
+  Logarithmic scales = 로그 척도
+  Richter scale = 리히터 규모
+  William = 윌리엄
+  William Oughtred = 윌리엄 오트레드
+  base = 밑
+  binary logarithm = 이진 로그
+  decibel = 데시벨
+  decimal or common logarithm = 상용로그
+  discrete logarithm = 이산 로그
+  exponent = 지수
+  exponential function = 지수 함수
+  exponentiation = 거듭제곱
+  finite groups = 유한군
+  information theory = 정보 이론
+  multi-valued = 다가
+  music theory = 음악 이론
+  natural logarithm = 자연로그
+  pH = pH
+  public-key cryptography = 공개 키 암호
+  slide rule = 계산자
+ENTRY:
+Mathematical function giving the exponent to which a fixed base must be raised to produce a given number. For example, the logarithm of 1000 to base 10 is 3, because 1000 = 10³; this is written log₁₀ 1000 = 3. More generally, if x = bʸ, then y = log_b x, so the logarithm to base b is the inverse of exponentiation with base b. Other examples are log₂ 16 = 4, since 2⁴ = 16, and log₁₀ 150 ≈ 2.176.
+
+The base-10 logarithm is the decimal or common logarithm, widely used in science and engineering. The natural logarithm has the number e ≈ 2.718 as its base and is widespread in mathematics and physics because of its simple derivative. The binary logarithm, base 2, is used in computer science, information theory, music theory, and photography. The logarithm of a product is the sum of the logarithms of the factors: log_b(xy) = log_b x + log_b y.
+
+John Napier introduced logarithms in 1614 to simplify calculation. Henry Briggs introduced base-10 logarithms and published extensive tables in *Arithmetica Logarithmica* (1624), and Adrian Vlacq extended them to numbers up to 100,000 by 1628. The slide rule, first described by William Oughtred in 1622, is also based on logarithms. The present-day notion comes from [[Leonhard Euler]], who connected logarithms to the exponential function in the 18th century and introduced the letter e for the base of natural logarithms.
+
+Logarithmic scales compress wide-ranging quantities: the decibel expresses ratios of signal power and amplitude, pH measures acidity, and the Richter scale measures earthquake intensity. In general settings the logarithm is multi-valued; the discrete logarithm, which inverts the exponential function in finite groups, is used in public-key cryptography.
+
+=== KEY: Logic_35ba12
+HEADWORD: Logic = 논리학
+LEVEL: 2
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred North Whitehead = 앨프리드 노스 화이트헤드
+  Ampliative arguments = 확장 논증
+  Argument = 논증
+  Aristotelian = 아리스토텔레스적
+  Aristotelian logic = 아리스토텔레스 논리학
+  Aristotle = 아리스토텔레스
+  Begriffsschrift = 『개념 표기법』
+  Bertrand = 버트런드호
+  Bertrand Russell = 버트런드 러셀
+  Deductive arguments = 연역 논증
+  Deviant logics = 일탈 논리
+  Extended logics = 확장 논리
+  First-order logic = 1차 논리
+  Formal logic = 형식 논리학
+  George Boole = 조지 불
+  Gottlob Frege = 고틀로프 프레게
+  Gödel's incompleteness theorems = 괴델의 불완전성 정리
+  Informal logic = 비형식 논리학
+  Kurt = 쿠르트
+  Logic = 논리학
+  Mohism = 묵가
+  Nyaya = 니야야
+  Organon = 『오르가논』
+  Principia = 『프린키피아』
+  Principia Mathematica = 『수학 원리』
+  Propositional logic = 명제 논리
+  Stoic = 스토아학파
+  Stoic logic = 스토아 논리학
+  Sunday = 일요일
+  The Mathematical Analysis of Logic = 『논리의 수학적 분석』
+  Today = 「투데이」
+  Western world = 서양
+  abductive arguments = 귀추 논증
+  argumentation theory = 논증 이론
+  circuit design = 회로 설계
+  classical logic = 고전 논리
+  critical thinking = 비판적 사고
+  deductively valid = 연역적으로 타당한
+  deductively valid inferences = 연역적으로 타당한 추론
+  fallacies = 오류
+  formal languages = 형식 언어
+  formal logic = 형식 논리학
+  formal system = 형식 체계
+  incompleteness theorems = 불완전성 정리
+  inductive arguments = 귀납 논증
+  inferences to the best explanation = 최선의 설명으로의 추론
+  informal fallacies = 비형식적 오류
+  intuitionistic logic = 직관주의 논리
+  law of excluded middle = 배중률
+  logical truths = 논리적 참
+  logos = 로고스
+  modus ponens = 전건 긍정
+  predicates = 술어
+  premises = 전제
+  programming languages = 프로그래밍 언어
+  proof theory = 증명 이론
+  propositional logic = 명제 논리
+  propositions = 명제
+  quantificational logic = 양화 논리
+  quantifiers = 양화사
+  rule of inference = 추론 규칙
+  set theory = 집합론
+  syllogistic reasoning = 삼단 논법
+  validity = 타당성
+ENTRY:
+Study of correct reasoning. Logic includes formal and informal branches. Formal logic studies deductively valid inferences and logical truths, examining how conclusions follow from premises by the structure of [[Argument|arguments]] alone, independent of topic and content. Informal logic is associated with informal fallacies, critical thinking, and argumentation theory, and examines arguments expressed in natural language. Used as a countable noun, "a logic" means a specific formal system. Logic plays a central role in philosophy, mathematics, computer science, and linguistics.
+
+Logic studies arguments, each consisting of premises that lead to a conclusion. An example runs from the premises "it's Sunday" and "if it's Sunday then I don't have to work" to the conclusion "I don't have to work." Premises and conclusions express propositions that can be true or false. An argument is correct if its premises support its conclusion. Deductive arguments give the strongest support: if their premises are true, the conclusion must be true. Ampliative arguments reach new information not found in the premises and divide into inductive arguments, which are statistical generalizations, and abductive arguments, which are inferences to the best explanation. Arguments that fall short of correct reasoning often embody fallacies. A rule of inference, such as modus ponens ("p; if p then q; therefore q"), is a pattern that guarantees validity regardless of what the terms stand for. Formal logic uses formal languages with a limited vocabulary and exact syntactic rules, so natural-language arguments must be translated before their validity can be assessed.
+
+The word comes from Greek *logos*, variously translated as "reason," "discourse," or "language." Logic has been studied since antiquity; early approaches include Aristotelian logic, Stoic logic, Nyaya, and Mohism. [[Aristotle]], in the 4th century BC, developed syllogistic reasoning in works later collected as the *Organon*, and his system was the main logic of the Western world for over two millennia. Modern formal logic has roots in the work of 19th-century mathematicians. [[George Boole]] introduced algebraic approaches in *The Mathematical Analysis of Logic* (1847). [[Gottlob Frege]]'s *Begriffsschrift* (1879) established modern quantificational logic. [[Bertrand Russell]] and [[Alfred North Whitehead]] wrote *Principia Mathematica* (1910–1913), which sought to ground mathematics in logic, and Kurt Gödel's incompleteness theorems (1931) revealed limits of formal systems.
+
+Today the most commonly used system is classical logic, which consists of [[Propositional logic|propositional logic]], concerned with relations between whole propositions, and [[First-order logic|first-order logic]], which also treats predicates and quantifiers. Extended logics apply classical intuitions to questions of necessity, what is or should be, and what is believed or known. Deviant logics, such as intuitionistic logic, which rejects the law of excluded middle, reject certain classical principles. Logic underpins set theory and proof theory, and in computer science it supports programming languages, artificial intelligence, and circuit design.
+
+=== KEY: Logic_gate_08ebe9
+HEADWORD: Logic gate = 논리 게이트
+LEVEL: 5
+GLOSSARY:
+  Akira Nakashima = 나카시마 아키라
+  Boolean algebra = 불 대수
+  Boolean function = 불 함수
+  Claude = 클로드
+  Claude Shannon = 클로드 섀넌
+  Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
+  Konrad Zuse = 콘라트 추제
+  Leibniz = 라이프니츠
+  MOSFET = MOSFET
+  MOSFETs = MOSFET
+  Relay = 계전기
+  Vacuum tube = 진공관
+  Victor Shestakov = 빅토르 셰스타코프
+  Wilhelm = 빌헬름
+  Z1 = Z1
+  binary system = 이진법
+  switching circuits = 스위칭 회로
+  vacuum tubes = 진공관
+ENTRY:
+Device that performs a Boolean function, a logical operation on one or more binary inputs that produces a single binary output. Most gates are built from [[MOSFET|MOSFETs]] (metal–oxide–semiconductor field-effect transistors) acting as electronic switches, though [[Vacuum tube|vacuum tubes]] and [[Relay|relays]] have also been used. The seven basic gates are NOT, OR, NOR, AND, NAND, XOR and XNOR. [[Gottfried Wilhelm Leibniz|Gottfried Wilhelm Leibniz]] refined the binary system in 1705, combining arithmetic and logic. From 1934 to 1936, Akira Nakashima, [[Claude Shannon]] and Victor Shestakov showed that two-valued [[Boolean algebra]] could describe switching circuits. [[Konrad Zuse]] built electromechanical logic gates for his Z1 computer from 1935 to 1938.
+
+=== KEY: Logistic_regression_72fc23
+HEADWORD: Logistic regression = 로지스틱 회귀
+LEVEL: 5
+GLOSSARY:
+  Joseph Berkson = 조지프 버크슨
+  Linear regression = 선형 회귀
+  Ordinary least squares = 최소제곱법
+  binary classifier = 이진 분류기
+  binary dependent variable = 이진 종속 변수
+  binary regression = 이진 회귀
+  closed-form solution = 닫힌 형식의 해
+  dependent variable = 종속 변수
+  independent variables = 독립 변수
+  linear combination = 선형 결합
+  log-odds = 로그 오즈
+  logistic function = 로지스틱 함수
+  logit = 로짓
+  maximum likelihood = 최대 가능도
+ENTRY:
+Statistical model for a binary dependent variable, with log-odds modeled as a linear combination of independent variables. The logistic function converts log-odds into a probability between 0 and 1. Since about 1970 the logistic model has been the most commonly used model for binary regression. Its parameters are usually estimated by maximum likelihood, which has no closed-form solution, unlike [[Ordinary least squares|least squares]] in [[Linear regression|linear regression]]. Joseph Berkson developed and popularized the model, coining the term "logit" in 1944. The model does not classify by itself, but a cutoff value can turn it into a binary classifier.
+
+=== KEY: Logistics_68c16c
+HEADWORD: Logistics = 물류
+LEVEL: 4
+GLOSSARY:
+  Antoine-Henri Jomini = 앙투안앙리 조미니
+  Civil logistics = 민간 물류
+  French = 프랑스어
+  Jomini = 조미니
+  Military = 군대
+  Military logistics = 군사 병참
+  logis = 로지
+  logistique = 로지스티크
+  raw materials = 원자재
+  semi-finished goods = 반제품
+  supply chain = 공급망
+  supply chain management = 공급망 관리
+  supply lines = 보급선
+ENTRY:
+Part of supply chain management that deals with the efficient forward and reverse flow of goods, services and related information from the point of origin to the point of consumption. The word comes from the French *logistique*, which the Swiss military writer Antoine-Henri Jomini coined or popularized. It appears in English from 1846, and Jomini linked it to *logis* (lodgings). Military logistics maintains army supply lines with food, armaments, ammunition and spare parts, and also moves troops. Civil logistics covers acquiring, moving and storing raw materials, semi-finished goods and finished goods. It deals with movement between facilities, not with material flow within production plants. Logistics accounts for a significant share of the operating costs of an organization or country, and minimizing resource use is a common motivation in all its fields.
+
+=== KEY: Logogram_6539e2
+HEADWORD: Logogram = 표어 문자
+LEVEL: 3
+GLOSSARY:
+  Akkadian = 아카드어
+  Ancient Greek = 고대 그리스어
+  Aztec = 아스테카
+  Aztec script = 아즈텍 문자
+  China = 중국
+  Chinese characters = 한자
+  Cuneiform = 쐐기 문자
+  Egypt = 이집트
+  Egyptian hieroglyphic = 이집트 상형 문자
+  Egyptian hieroglyphs = 이집트 상형 문자
+  Latin = 라틴어
+  Latin script = 라틴 문자
+  Linear B = 선형 문자 B
+  Logoconsonantal scripts = 표어 자음 문자
+  Logosyllabic scripts = 표어 음절 문자
+  Maya script = 마야 문자
+  Mesoamerica = 메소아메리카
+  Mesopotamia = 메소포타미아
+  Unicode = 유니코드
+  alphabets = 알파벳
+  ampersand = 앰퍼샌드
+  demotic = 민중 문자
+  determinatives = 한정사
+  glyphs = 글리프
+  gramma = 그람마
+  graphemes = 문자소
+  hieratic = 신관 문자
+  ideographs = 표의 문자
+  logography = 표어 문자 체계
+  logos = 로고스
+  morpheme = 형태소
+  phonemic = 음소적
+  radicals = 부수
+  rebus principle = 리버스 원리
+  syllabaries = 음절 문자
+ENTRY:
+Written character that represents a word or morpheme, a semantic component of a language. The term derives from Ancient Greek *logos*, "word," and *gramma*, "that which is drawn or written." [[Chinese characters]], Egyptian hieroglyphs, and characters of [[Cuneiform|cuneiform]] script are logograms, and a writing system that primarily uses them is called a logography. Non-logographic systems, such as alphabets and syllabaries, are phonemic: their symbols represent sounds directly and lack inherent meaning.
+
+Some of the earliest recorded writing systems are logographic; the first historical civilizations of Mesopotamia, Egypt, China, and Mesoamerica all used some form of logographic writing. All known logographies have a phonetic component, generally based on the rebus principle, in which a symbol stands for a sound-alike word. Adding a phonetic component to pure ideographs is considered a key innovation in enabling a script to encode human language adequately. In cuneiform as used for Akkadian, most glyphs carry sound values rather than word meanings.
+
+Logoconsonantal scripts extend graphemes according to the consonants of the words, ignoring vowels; the main examples are Egyptian hieroglyphic, hieratic, and demotic. Logosyllabic scripts have graphemes for morphemes that, when extended phonetically, represent single syllables; they include cuneiform, Linear B, Chinese characters, Maya script, and Aztec script. Egyptian and Chinese add determinatives or radicals that narrow a character's meaning. Most Chinese characters combine a radical indicating a nominal category with a phonetic element.
+
+Some logograms belong to no single language. The ampersand, a combination of the letters e and t, is a logogram in the Latin script representing "and" in many languages. Unicode, the generally accepted standard for computer character encoding, aims to include every character from every language.
+
+=== KEY: Loire_c5fb7b
+HEADWORD: Loire = 루아르강
+LEVEL: 4
+GLOSSARY:
+  Bay of Biscay = 비스케이만
+  Biscay = 비스카야
+  Cévennes = 세벤산맥
+  France = 프랑스
+  Gallic = 갈리아
+  Garden = 정원
+  Garden of France = 프랑스의 정원
+  Julius Caesar = 율리우스 카이사르
+  Massif Central = 마시프상트랄
+  Nantes = 낭트
+  Nevers = 느베르
+  Orléans = 오를레앙
+  Rhône = 론강
+  Rome = 로마
+  Saint-Nazaire = 생나제르
+  Tours = 투르
+  UNESCO = 유네스코
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  World Heritage list = 세계유산 목록
+  châteaux = 샤토
+ENTRY:
+Longest river in France, at 1,006 km (625 mi). It rises at 1,350 m (4,430 ft) in the Cévennes of the Massif Central and flows north through Nevers and Orléans, then west through Tours and [[Nantes]] to the [[Bay of Biscay]] at Saint-Nazaire. The river drains 117,054 km² (45,195 sq mi), more than a fifth of France's land, but its average discharge is only half that of the Rhône. Its lower-central valley, often called the "Garden of France," was added to the [[UNESCO]] [[World Heritage Site|World Heritage]] list on December 2, 2000. The valley holds over a thousand châteaux, many of them former feudal strongholds, and is known for its vineyards. Gallic rule ended in the valley in 56 BC, when [[Julius Caesar]] conquered the adjacent provinces for Rome.
+
+=== KEY: Loki_65f608
+HEADWORD: Loki = 로키
+LEVEL: 4
+GLOSSARY:
+  Angrboða = 앙그르보다
+  Baldr = 발드르
+  Fenrir = 펜리르
+  Fárbauti = 파르바우티
+  Heimdallr = 헤임달
+  Heimskringla = 『헤임스크링글라』
+  Hel = 헬
+  Jörmungandr = 요르문간드
+  Laufey = 라우페위
+  Loki = 로키
+  Norse = 노르드인
+  Norse mythology = 북유럽 신화
+  Poetic Edda = 『운문 에다』
+  Prose = 산문
+  Prose Edda = 『산문 에다』
+  Ragnarök = 라그나로크
+  Sigyn = 시긴
+  Snorri Sturluson = 스노리 스투를루손
+  jötnar = 요툰
+  jötunn = 요툰
+  trickster = 트릭스터
+ENTRY:
+God in [[Norse mythology]], described by some scholars as a trickster. He engineers the death of the beloved god Baldr and is bound by the gods; his wife Sigyn catches the serpent venom that drips onto him, and when he writhes, earthquakes follow. At Ragnarök he is foretold to break free and fight the gods alongside the jötnar, and he and Heimdallr are to kill each other. Loki is the son of the jötunn Fárbauti and the goddess Laufey. By the jötunn Angrboða he fathers Hel, the wolf Fenrir and the world serpent Jörmungandr. A shape-shifter, he appears as a mare, a salmon, a fly and possibly an elderly woman. He is attested in the [[Poetic Edda]], and in the Prose Edda and Heimskringla, both composed or compiled by [[Snorri Sturluson]] in the 13th century. Scholars have debated his origins, and he is unlikely to have received veneration.
+
+=== KEY: Lolita_d66d61
+HEADWORD: Lolita = 롤리타
+LEVEL: 4
+GLOSSARY:
+  Adrian Lyne = 에이드리언 라인
+  Britain = 영국
+  Censorship = 검열
+  Dolores Haze = 돌로레스 헤이즈
+  Fear = 공포
+  French = 프랑스어
+  French literature = 프랑스 문학
+  Humbert Humbert = 험버트 험버트
+  Olympia = 올림피아
+  Olympia Press = 올림피아 프레스
+  Paris = 파리
+  Stanley = 스탠리
+  Stanley Kubrick = 스탠리 큐브릭
+  United Kingdom = 영국
+  Vladimir = 블라디미르
+  Vladimir Nabokov = 블라디미르 나보코프
+  nymphet = 님펫
+  unreliable narrator = 신뢰할 수 없는 화자
+ENTRY:
+1955 novel by the Russian-American [[Vladimir Nabokov|Vladimir Nabokov]]. The novel was written in English. Its unreliable narrator, Humbert Humbert, is a French literature professor who describes his obsession with, and victimization of, a 12-year-old girl, Dolores Haze, whom he calls a "nymphet." Fear of [[Censorship|censorship]] in the U.S. and Britain led to its first publication in Paris by Olympia Press. It was initially banned in several countries, including the United Kingdom until 1959. The book received critical acclaim despite public controversy and has appeared on many best-book lists. It was adapted into films by [[Stanley Kubrick]] in 1962 and by Adrian Lyne in 1997.
+
+=== KEY: Lombards_761147
+HEADWORD: Lombards = 랑고바르드족
+LEVEL: 4
+GLOSSARY:
+  Alboin = 알보인
+  Austria = 오스트리아
+  Charlemagne = 샤를마뉴
+  Danube = 도나우강
+  Frankish = 프랑크
+  Frankish Empire = 프랑크 왕국
+  Germanic = 게르만
+  Germanic peoples = 게르만족
+  Hamburg = 함부르크
+  Hungary = 헝가리
+  Italian Peninsula = 이탈리아반도
+  Italy = 이탈리아
+  Liutprand = 리우트프란드
+  Lombard = 랑고바르드
+  Lombardy = 롬바르디아
+  Normans = 노르만인
+  Pavia = 파비아
+  Peninsula = 반도
+  Slovenia = 슬로베니아
+ENTRY:
+[[Germanic peoples|Germanic]] people who conquered most of the Italian Peninsula between 568 and 774. Earlier they lived near present-day Hamburg and then along the [[Danube]], near what is now Austria, Slovenia and Hungary. Under King Alboin they invaded Italy in 568, and by late 569 they had conquered northern Italy except Pavia, which fell in 572. They established a kingdom in the north and center of the peninsula that reached its height under Liutprand in the 8th century. In 774 the Frankish king [[Charlemagne]] conquered it and integrated it into the Frankish Empire. Lombard nobles continued to rule southern Italy until the [[Normans]] conquered them in the 11th century. The region of [[Lombardy]] takes its name from them. Scholars generally accept that the name means "long beards."
+
+=== KEY: Lombardy_b0ea6e
+HEADWORD: Lombardy = 롬바르디아
+LEVEL: 5
+GLOSSARY:
+  Alps = 알프스산맥
+  Italy = 이탈리아
+  Lombards = 랑고바르드족
+  Lombardy = 롬바르디아
+  Milan = 밀라노
+  Pavia = 파비아
+  Po River = 포강
+  River = 강
+  UNESCO = 유네스코
+  UNESCO World Heritage Sites = 유네스코 세계유산
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  World Heritage Sites = 세계유산
+  gross domestic product = 국내 총생산
+  municipalities = 코무네
+ENTRY:
+Administrative region of northern [[Italy]], with about 10 million people, the most populous region in Italy. It covers 23,844 km² (9,206 sq mi) between the [[Alps]] and tributaries of the Po River. Its capital, [[Milan]], has the largest metropolitan area in Italy. The region produces about one-fifth of national gross domestic product and has 1,501 municipalities, more than any other Italian region. Of Italy's 58 [[UNESCO]] [[World Heritage Site|World Heritage Sites]], 11 are in Lombardy. The region takes its name from the [[Lombards]], who arrived in 568 and made Pavia their capital.
+
+=== KEY: London_59ead8
+HEADWORD: London = 런던
+LEVEL: 3
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Anglo-Saxon = 앵글로색슨
+  Anglo-Saxon Chronicle = 『앵글로색슨 연대기』
+  Authority = 권위
+  Bank = 은행
+  Bank of England = 잉글랜드 은행
+  Boudica = 부디카
+  Buckingham Palace = 버킹엄 궁전
+  Chronicle = 『연대기』
+  City = 도시
+  City of London = 시티 오브 런던
+  City of Westminster = 시티 오브 웨스트민스터
+  Edward the Confessor = 참회왕 에드워드
+  England = 잉글랜드
+  Europe = 유럽
+  Greater London = 그레이터런던
+  Greater London Authority = 광역 런던 정부
+  Greenwich = 그리니치
+  Iceni = 이케니족
+  Londinium = 론디니움
+  London = 런던
+  London Stock Exchange = 런던 증권 거래소
+  London Underground = 런던 지하철
+  Lundenwic = 룬덴윅
+  Meridian = 메리디언
+  North Sea = 북해
+  Palace = 궁전
+  Palace of Westminster = 웨스트민스터 궁전
+  Prime = 프라임
+  Prime Meridian = 본초 자오선
+  Prime meridian = 본초 자오선
+  Queen = 퀸
+  River = 강
+  River Thames = 템스강
+  Romanesque = 로마네스크
+  Romans = 로마인
+  Royal Observatory = 왕립 천문대
+  Royal Observatory at Greenwich = 그리니치 왕립 천문대
+  Stock = 주식
+  Summer Olympic Games = 하계 올림픽
+  Summer Olympics = 하계 올림픽
+  Thames = 템스강
+  Tower = 탑
+  Tower of London = 런던탑
+  Underground = 『언더그라운드』
+  United Kingdom = 영국
+  Viking = 바이킹
+  Western Europe = 서유럽
+  Westminster = 웨스트민스터
+  Westminster Abbey = 웨스트민스터 사원
+  global city = 세계 도시
+  rapid transit = 도시 철도
+  rapid transit system = 도시 철도
+  tidal estuary = 조석 하구
+ENTRY:
+Capital and largest city of England and the United Kingdom, on the [[River Thames]] in southeast England. Its metropolitan area (15.4 million) is the largest in Western Europe. London stands at the head of a 50-mile (80 km) tidal estuary leading to the North Sea and has been a major settlement for nearly 2,000 years. Since 1965 it has largely comprised the administrative area of [[Greater London]], governed by 33 local authorities and the Greater London Authority. The [[City of London]], its ancient core and financial center, was founded by the Romans as Londinium and retains its medieval boundaries; the City of Westminster, to its west, has been the site of national government for centuries.
+
+The Romans founded the first major settlement around AD 47, about four years after their invasion. It lasted until about AD 61, when the Iceni, led by Queen [[Boudica]], burned it. Londinium had about 60,000 inhabitants in the 2nd century. An Anglo-Saxon settlement, Lundenwic, developed slightly west of the old city from about 500. Viking assaults from the 820s brought decline, and Alfred refounded London in 886, according to the Anglo-Saxon Chronicle. By the 11th century London was the largest town in England, and [[Westminster Abbey]] had been rebuilt in Romanesque style under King Edward the Confessor. London grew rapidly in the 19th century, becoming the world's largest city at the time.
+
+London is a major global city and Europe's largest city economy, a leading financial center with the London Stock Exchange and the Bank of England. It has more than 50 universities and colleges. Landmarks include the Tower of London, Buckingham Palace, and the Palace of Westminster. The Royal Observatory at Greenwich defines the [[Prime meridian|Prime Meridian]] (0° longitude). The [[London Underground]] is the world's oldest rapid transit system, and in 2012 London became the first city to host three [[Summer Olympic Games|Summer Olympics]], after 1908 and 1948.
+
+=== KEY: London_Bridge_29cde6
+HEADWORD: London Bridge = 런던 브리지
+LEVEL: 5
+GLOSSARY:
+  Arizona = 애리조나주
+  Bridge = 다리
+  City = 도시
+  City of London = 시티 오브 런던
+  Elizabeth II = 엘리자베스 2세
+  Lake = 호수
+  London = 런던
+  London Bridge = 런던 브리지
+  London Bridge Is Falling Down = 「런던 다리가 무너지네」
+  Queen = 퀸
+  Queen Elizabeth II = 엘리자베스 2세 여왕
+  River Thames = 템스강
+  Southwark = 서더크
+  T. S. Eliot = T. S. 엘리엇
+  Thames = 템스강
+  The Waste Land = 『황무지』
+  Waste = 폐기물
+  box girder = 상자형 거더
+  nursery rhyme = 동요
+ENTRY:
+Series of crossings of the [[River Thames|Thames]] between the [[City of London]] and Southwark since Roman times. The first was a timber bridge built around AD 50 by the Roman founders of London. The medieval stone bridge was replaced in the 19th century by a stone-arched bridge. The current bridge, a concrete and steel box girder structure, was opened by [[Elizabeth II|Queen Elizabeth II]] on March 17, 1973. The 19th-century bridge was sold in 1968, and its granite facing was moved to Lake Havasu City, Arizona. London Bridge appears in the nursery rhyme "London Bridge Is Falling Down" and in *The Waste Land* by [[T. S. Eliot]].
+
+=== KEY: London_Ontario_422003
+HEADWORD: London, Ontario = 런던
+LEVEL: 5
+GLOSSARY:
+  Canada = 캐나다
+  City = 도시
+  Detroit = 디트로이트
+  Education = 교육
+  Information technology = 정보 기술
+  John = 존
+  John Graves Simcoe = 존 그레이브스 심코
+  London = 런던
+  Manufacturing = 제조업
+  North Thames = 노스템스강
+  Ontario = 온타리오주
+  Thames = 템스강
+  Toronto = 토론토
+  University = 대학
+  University of Western Ontario = 웨스턴 온타리오 대학교
+  Upper Canada = 어퍼캐나다
+  information technology = 정보 기술
+ENTRY:
+City in southwestern [[Ontario]], Canada (pop., 2021: 422,324), at the confluence of the Thames and North Thames rivers. John Graves Simcoe named it in 1793 after the [[London|English city]] and river, when he proposed the site as the capital of Upper Canada. It is the largest municipality in southwestern Ontario, and its metropolitan area of 543,551 makes it Canada's 11th-largest. The city is a regional center for health care and [[Education|education]], home to the University of Western Ontario and three major hospitals. Its economy also includes [[Manufacturing|manufacturing]], financial services and [[Information technology|information technology]]. London lies about 200 km (120 mi) from both [[Toronto]] and [[Detroit]].
+
+=== KEY: London_School_of_Economics_d8d636
+HEADWORD: London School of Economics = 런던 정치경제대학교
+LEVEL: 5
+GLOSSARY:
+  England = 잉글랜드
+  Fabian Society = 페이비언 협회
+  George Bernard Shaw = 조지 버나드 쇼
+  Graham Wallas = 그레이엄 월러스
+  London = 런던
+  Nobel laureates = 노벨상 수상자
+  Sidney and Beatrice Webb = 시드니 웨브와 비어트리스 웨브
+  Society = 사회
+  University = 대학
+  University of London = 런던 대학교
+ENTRY:
+Public research university in [[London|London]], England, specializing in the social sciences. It was founded in 1895 by Fabian Society members Sidney and Beatrice Webb, Graham Wallas and [[George Bernard Shaw]]. It joined the University of London in 1900 and became a university in its own right in 2022. It had under 13,000 students in 2023/24 and an income of £548.2 million in 2024/25. Its library is among the world's largest for the social sciences. Since 1990 the school has educated 24 prime ministers or presidents, and since its founding over 40 world leaders and 21 Nobel laureates have taught or studied there.
+
+=== KEY: London_Stock_Exchange_aef834
+HEADWORD: London Stock Exchange = 런던 증권 거래소
+LEVEL: 4
+GLOSSARY:
+  Act of Parliament = 의회법
+  Alternative Investment Market = 대체 투자 시장
+  Brexit = 브렉시트
+  City = 도시
+  City of London = 시티 오브 런던
+  Elizabeth I = 엘리자베스 1세
+  FTSE 100 index = FTSE 100 지수
+  Fire = 불
+  Great Fire of London = 런던 대화재
+  Investment = 투자
+  John = 존
+  John Castaing = 존 캐스테잉
+  London = 런던
+  London Stock Exchange = 런던 증권 거래소
+  London Stock Exchange Group = 런던 증권 거래소 그룹
+  Main Market = 메인 마켓
+  Parliament = 의회
+  Queen = 퀸
+  Royal Exchange = 왕립 거래소
+  Stock = 주식
+  market capitalization = 시가 총액
+ENTRY:
+Global stock exchange in the [[City of London]], one of the world's oldest continuously operating exchanges. Founded in 1801, it has been run since 2007 by the London Stock Exchange Group, a constituent of the FTSE 100 index. Its Main Market serves established companies, and the Alternative Investment Market serves smaller, high-growth firms; more than 1,900 companies from over 60 countries are listed. As of mid-2025, its total market capitalization was about US$5.9 trillion. Its origins lie in the Royal Exchange, opened by [[Elizabeth I|Queen Elizabeth I]] in 1571 and rebuilt after the [[Great Fire of London]] in 1669. Barred from the Royal Exchange, stockbrokers traded from coffee houses, where John Castaing began publishing prices in 1698. A 1697 Act of Parliament penalized unlicensed brokering. Despite challenges after [[Brexit]], the exchange regained its position as Europe's largest stock market by total value in 2024 and 2025. As of 2025, London also had the world's largest concentration of mining capital, about US$600 billion, roughly 13% of the global mining market.
+
+=== KEY: London_Underground_26b3d9
+HEADWORD: London Underground = 런던 지하철
+LEVEL: 4
+GLOSSARY:
+  City = 도시
+  City and South London Railway = 시티 앤드 사우스 런던 철도
+  Greater London = 그레이터런던
+  Harry = 해리
+  London = 런던
+  London Transport = 런던 트랜스포트
+  Metropolitan Railway = 메트로폴리탄 철도
+  Rapid transit = 도시 철도
+  Transport = 교통
+  Transport for London = 런던 교통공사
+  Tube = 튜브
+  Tube map = 튜브 노선도
+  Tunnel = 터널
+  electric traction = 전기 견인
+  home counties = 홈 카운티
+ENTRY:
+[[Rapid transit|Rapid transit]] system serving [[Greater London]] and parts of the adjacent home counties. Known as the Tube, it has 11 lines, 272 stations and about 250 miles (400 km) of track, managed by Transport for London. Only 45% of the network is underground; its nickname comes from its deep-level circular [[Tunnel|tunnels]]. The network began with the Metropolitan Railway, which opened on January 10, 1863, as the world's first underground passenger railway, using gas-lit carriages hauled by steam locomotives. The City and South London Railway pioneered underground electric traction when it opened in 1890. The lines were consolidated as London Transport in 1933. The network carried over 1.2 billion passenger journeys in 2024–25. Harry Beck's schematic Tube map, designed in 1931, became a global design icon.
+
+=== KEY: Loneliness_55aa9b
+HEADWORD: Loneliness = 외로움
+LEVEL: 4
+GLOSSARY:
+  Cardiovascular disease = 심혈관 질환
+  Chronic loneliness = 만성적 외로움
+  Emotion = 감정
+  Epic of Gilgamesh = 『길가메시 서사시』
+  Exercise = 운동
+  Gilgamesh = 길가메시
+  Internet = 인터넷
+  Loneliness = 외로움
+  Pet = 반려동물
+  Substance use disorder = 물질 사용 장애
+  Surgeon General = 공중보건국장
+  Therapy = 치료
+  U.S. Surgeon General = 미국 공중보건국장
+  Vivek Murthy = 비벡 머시
+  adaptive response = 적응 면역 반응
+  cardiovascular disease = 심혈관 질환
+  social isolation = 사회적 고립
+  substance use disorder = 물질 사용 장애
+ENTRY:
+Unpleasant [[Emotion|emotional]] response to perceived or actual social isolation. Transient loneliness is generally seen as an adaptive response that motivates people to seek connection, much as hunger motivates eating. Chronic loneliness is linked to obesity, [[Substance use disorder|substance use disorder]], depression, [[Cardiovascular disease|cardiovascular disease]], high blood pressure and high cholesterol. Causes include systemic issues, genetic inheritance, cultural factors, lack of meaningful relationships, significant loss and excessive reliance on passive technologies, particularly the [[Internet]]. About one in six people worldwide experiences significant long-term loneliness, and adolescents report the highest levels. Therapy and antidepressants are medical treatments; social approaches include [[Exercise|exercise]], group activities, reconnecting with friends and owning [[Pet|pets]]. Loneliness has been a theme since the [[Epic of Gilgamesh]], and some academics have called it an epidemic, including former U.S. Surgeon General Vivek Murthy.
+
+=== KEY: Long_Beach_California_a59dbe
+HEADWORD: Long Beach, California = 롱비치
+LEVEL: 5
+GLOSSARY:
+  Aquarium = 수족관
+  Aquarium of the Pacific = 퍼시픽 수족관
+  California = 캘리포니아주
+  Grand Prix of Long Beach = 롱비치 그랑프리
+  Long Beach = 롱비치
+  Los Angeles = 로스앤젤레스
+  Los Angeles County = 로스앤젤레스 카운티
+  Pacific = 태평양
+  Port = 항구
+  Queen = 퀸
+  RMS Queen Mary = 퀸 메리호
+  United States = 미국
+  University = 대학
+ENTRY:
+Coastal city in southeastern Los Angeles County, [[California|California]]. It is the 44th-most populous city in the United States, with 450,469 residents in 2025, and the second-most populous in Los Angeles County. Incorporated in 1897, it lies about 20 miles (32 km) south of downtown [[Los Angeles]] and sits over an oilfield. The [[Port|Port]] of Long Beach is the second-busiest container port in the United States. Attractions include the permanently docked RMS Queen Mary, the Aquarium of the Pacific and the Grand Prix of Long Beach auto race. California State University, Long Beach, is one of the largest universities in California.
+
+=== KEY: Long_COVID_ea3cc0
+HEADWORD: Long COVID = 롱 코비드
+LEVEL: 5
+GLOSSARY:
+  COVID-19 = 코로나19
+  Gross domestic product = 국내 총생산
+  Myalgic encephalomyelitis/chronic fatigue syndrome = 근육통성 뇌척수염/만성 피로 증후군
+  SARS-CoV-2 = SARS-CoV-2
+  Sleep disorder = 수면 장애
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  gross domestic product = 국내 총생산
+  post-exertional malaise = 운동 후 불쾌감
+ENTRY:
+Health problems that persist or develop after an initial [[COVID-19|COVID-19]] infection with SARS-CoV-2. Common symptoms include fatigue, memory problems, shortness of breath and [[Sleep disorder|sleep disorder]]. The condition overlaps heavily with [[Myalgic encephalomyelitis/chronic fatigue syndrome|ME/CFS]], and symptoms often worsen after mental or physical effort, a process called post-exertional malaise. The [[World Health Organization]] defines it as starting three months after the initial infection. As of 2025, prevalence was estimated at about 6–7% of adults and about 1% of children. No validated effective treatments exist. Globally, over 400 million people have experienced it, and it may cause a loss of 1% of the world's [[Gross domestic product|gross domestic product]].
+
+=== KEY: Long_Island_24162c
+HEADWORD: Long Island = 롱아일랜드
+LEVEL: 5
+GLOSSARY:
+  Atlantic Ocean = 대서양
+  Brooklyn = 브루클린
+  City = 도시
+  Kings = 킹스
+  Long Island = 롱아일랜드
+  Nassau = 나소
+  New York = 『뉴욕』
+  New York (state) = 뉴욕주
+  New York City = 뉴욕
+  New York State = 뉴욕주
+  Ocean = 대양
+  Pleistocene = 플라이스토세
+  Queens = 퀸스
+  Suffolk = 서퍽
+  U.S. state = 미국의 주
+  York = 요크
+  outwash plains = 융빙수 퇴적 평야
+  terminal moraines = 종퇴석
+ENTRY:
+Densely populated island in southeastern [[New York (state)|New York State]], extending eastward into the [[Atlantic Ocean]]. It is about 120 miles (190 km) long, up to 23 miles (37 km) wide and about 1,400 square miles (3,600 km²) in area. Glacial processes during the [[Pleistocene]] shaped its terminal moraines and outwash plains. Its four counties are Kings (Brooklyn), [[Queens]], Nassau and Suffolk; Kings and Queens are boroughs of [[New York City]]. As of July 1, 2025, the four counties had an estimated 7,957,174 residents, making Long Island the most populous island in any U.S. state or territory. Its economy includes health care, finance, manufacturing and biotechnology.
+
+=== KEY: Long_March_685f24
+HEADWORD: Long March = 대장정
+LEVEL: 5
+GLOSSARY:
+  Chiang Kai-shek = 장제스
+  Chinese Civil War = 국공 내전
+  Chinese Communist Party = 중국 공산당
+  Civil War = 남북 전쟁
+  Communist Party = 공산당
+  Jiangxi = 장시성
+  Jiangxi Soviet = 장시 소비에트
+  Kuomintang = 중국 국민당
+  Mao Zedong = 마오쩌둥
+  Military = 군대
+  Party = 파티
+  Red Army = 붉은 군대
+  Shaanxi = 산시성
+  Yan'an = 옌안
+  Zunyi = 쭌이
+  Zunyi Conference = 쭌이 회의
+  de facto = 사실상
+ENTRY:
+Military retreat by the [[Chinese Communist Party]] and Red Army during the [[Chinese Civil War]], from October 1934 to October 1935. About 100,000 troops left the Jiangxi Soviet for a new headquarters in Yan'an, Shaanxi, a journey of about 10,000 km (6,200 miles). Only about 8,000 survived. Pursued by the [[Kuomintang]] under [[Chiang Kai-shek]], the army crossed mountains, rivers and blockades. At the Zunyi Conference in January 1935, [[Mao Zedong]] became de facto leader. Official Chinese histories later presented the march as an epic of endurance, while critics stress its heavy losses.
+
+=== KEY: Long_jump_416961
+HEADWORD: Long jump = 멀리뛰기
+LEVEL: 4
+GLOSSARY:
+  Ancient Olympic Games = 고대 올림픽
+  Mike Powell = 마이크 파월
+  Olympic Games = 올림픽
+  Tokyo = 도쿄
+  Track and field = 육상 경기
+  World = 세계
+  World Athletics = 세계 육상 연맹
+  World Championships = 세계 육상 선수권 대회
+ENTRY:
+[[Track and field|Track and field]] event in which athletes combine speed, strength and agility to leap as far as possible from a takeoff point. The event dates to the [[Ancient Olympic Games]] and has been a men's Olympic event since 1896 and a women's since 1948. Jumps are measured perpendicular from the foul line to the nearest break in the sand, so competitors take off as close to the line as possible. In major competitions, the best eight after three trials receive three more attempts, and the longest valid jump wins. Tailwinds above 2 m/s (4.5 mph) do not count for records. In 2025 World Athletics began testing a wider 40-centimeter takeoff zone instead of the traditional board, to reduce invalid attempts, which had reached around 30%. The men's world record of 8.95 meters was set by Mike Powell in 1991 at the World Championships in [[Tokyo]].
+
+=== KEY: Longevity_90e8eb
+HEADWORD: Longevity = 장수
+LEVEL: 4
+GLOSSARY:
+  Genetics = 유전학
+  Gerontology Research Group = 노인학 연구 그룹
+  Health care = 보건 의료
+  Jeanne Calment = 잔 칼망
+  Jiroemon Kimura = 기무라 지로에몬
+  Length = 길이
+  Life = 『라이프』
+  Life expectancy = 기대 수명
+  Research = 연구
+  Supercentenarian = 초백세인
+  Twin = 쌍둥이
+ENTRY:
+Length of an organism's life, especially exceptional longevity in humans. [[Life expectancy]], the average number of years remaining at a given age, is a statistical measure distinct from longevity, which refers to especially long-lived members of a population. In developed countries life expectancy ranges from 77–90 years; in developing countries, from 32–80 years. Canada's was 81.29 years (2010 est.) and Mozambique's 41.37 years. Significant factors in life expectancy include gender, [[Genetics|genetics]], access to [[Health care|health care]], hygiene, diet and nutrition, exercise, and crime rates. Twin studies estimate that 20–30% of the variation in human lifespan relates to genetics. The oldest person whose age has been verified by modern documentation was [[Jeanne Calment]], who lived 122 years and 164 days. Jiroemon Kimura, who lived 116 years and 54 days, is the oldest man so verified. The Gerontology Research Group validates records and maintains a list of [[Supercentenarian|supercentenarians]].
+
+=== KEY: Longitude_9b4dab
+HEADWORD: Longitude = 경도
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Earth's rotation = 지구의 자전
+  England = 잉글랜드
+  Greenwich = 그리니치
+  Hipparchus = 히파르코스
+  John = 존
+  Latitude = 위도
+  Longitude = 경도
+  Lunar eclipse = 월식
+  Prime = 프라임
+  Prime meridian = 본초 자오선
+  Royal Observatory = 왕립 천문대
+  lambda = 람다
+  marine chronometers = 해상 크로노미터
+  meridians = 자오선
+  spherical Earth = 구형 지구
+ENTRY:
+East-west geographic coordinate of a point on the surface of Earth or another celestial body. Longitude is an angular measurement, usually expressed in degrees and denoted by the Greek letter lambda (λ). The [[Prime meridian]] defines 0° longitude; by convention it passes near the Royal Observatory in Greenwich, England, and positive longitudes lie east of it. Because of [[Earth's rotation]], a difference of 15° of longitude corresponds to a one-hour difference in local time, so longitude can be found by comparing local time with an absolute time. [[Hipparchus]], in the 2nd century BC, divided the spherical Earth into 360° and proposed comparing the local time of a [[Lunar eclipse|lunar eclipse]] observed at two places. Determining longitude at sea was a central problem until clockmaker John Harrison's marine chronometers; his H4 model, tested in 1761–1762, lost only seconds over months-long voyages. Unlike [[Latitude|latitude]] lines, meridians converge at the poles.
+
+=== KEY: Longyearbyen_a3b22d
+HEADWORD: Longyearbyen = 롱위에아르뷔엔
+LEVEL: 5
+GLOSSARY:
+  Arctic = 북극
+  Arctic Coal Company = 북극 석탄 회사
+  Boston = 보스턴
+  City = 도시
+  Coal = 석탄
+  Decomposition = 분해
+  German = 독일어
+  John = 존
+  John Munro Longyear = 존 먼로 롱이어
+  Kriegsmarine = 독일 해군
+  Longyear City = 롱이어 시티
+  Longyearbyen = 롱위에아르뷔엔
+  Norway = 노르웨이
+  Permafrost = 영구 동토층
+  Seed = 씨앗
+  Spitsbergen = 스피츠베르겐섬
+  Store Norske Spitsbergen Kulkompani = 스토레 노르스케 스피츠베르겐 쿨콤파니
+  Svalbard = 스발바르 제도
+  Svalbard Global Seed Vault = 스발바르 국제 종자 저장고
+ENTRY:
+Largest settlement and administrative center of [[Svalbard]], Norway, and one of the world's northernmost settlements. Its population is estimated at 2,400–2,800. Coal mining began in 1906 under the [[Boston]]-based Arctic Coal Company, of which American John Munro Longyear was a main shareholder; the town was known as Longyear City until 1926. Store Norske Spitsbergen Kulkompani took over the mining in 1916, and production ceased in 2017. The German Kriegsmarine almost completely destroyed the town on 8 September 1943. The town hosts the Svalbard Global Seed Vault. Burials are restricted because [[Permafrost|permafrost]] inhibits [[Decomposition|decomposition]]. As of 2021, Longyearbyen was the fastest-warming town in the world.
+
+=== KEY: Loom_bc723f
+HEADWORD: Loom = 베틀
+LEVEL: 4
+GLOSSARY:
+  Old English = 고대 영어
+  Shedding = 개구 운동
+  Take-up = 권취
+  Tapestry = 태피스트리
+  Weaving = 직조
+  automatic loom = 자동 직기
+  battening = 바디침 운동
+  cloth beam = 말코
+  fell = 직전
+  let-off = 송출
+  picking = 투위 운동
+  picks per minute = 분당 투위 수
+  shed = 개구
+  shuttle = 북
+  shuttle looms = 북 직기
+  warp = 날실
+  warp beam = 도투마리
+  weft = 씨실
+ENTRY:
+Device for [[Weaving|weaving]] cloth and [[Tapestry|tapestry]]. The basic purpose of any loom is to hold warp threads under tension so that weft threads can be interlaced with them. The earliest looms, dating from the 5th millennium BC, were bars or beams fixed in place to hold parallel threads in tension. Weaving requires three principal motions. Shedding separates the warp threads to form a shed through which the shuttle carries the weft; picking passes the weft through the shed; and battening compresses each new weft thread against the fell. Conventional shuttle looms run at about 150 to 160 picks per minute. Take-up and let-off motions wind the finished cloth onto the cloth beam and release warp from the warp beam. An automatic loom requires 0.125 hp to 0.5 hp (100W to 400W). The word derives from the [[Old English]] *geloma*, a term for a utensil, tool or machine of any kind.
+
+=== KEY: Loon_22df62
+HEADWORD: Loon = 아비
+LEVEL: 4
+GLOSSARY:
+  Duck = 오리
+  Eurasia = 유라시아
+  Gavia = 아비속
+  Gaviidae = 아비과
+  Gaviiformes = 아비목
+  Irish = 아일랜드어
+  North America = 북아메리카
+  diver = 다이버
+  red-throated loon = 아비
+  salt glands = 염류선
+ENTRY:
+Aquatic diving bird of the family Gaviidae, found in much of North America and northern Eurasia, known as a diver in British and Irish English. All living loons belong to the genus *Gavia* and order Gaviiformes. Loons are the size of large [[Duck|ducks]] or small geese, with webbed feet, a spear-shaped bill and largely black-and-white summer plumage. Their feet are set far back on the body, making them strong swimmers but awkward on land. Most species must run across the water to take off; only the red-throated loon (*G. stellata*) can take off from land. Satellite-tracked loons have flown up to 1,078 km (670 mi) in 24 hours. Loons can live as long as 30 years and hold their breath for as long as 90 seconds underwater. In winter they move from northern freshwater lakes to southern marine coastlines, where salt glands above the eyes filter salts from the blood.
+
+=== KEY: Looney_Tunes_bc2fc3
+HEADWORD: Looney Tunes = 루니 툰
+LEVEL: 4
+GLOSSARY:
+  Academy Awards = 아카데미상
+  Bob Clampett = 밥 클램핏
+  Bugs Bunny = 벅스 버니
+  Chuck Jones = 척 존스
+  Daffy Duck = 대피 덕
+  Duck = 오리
+  Entertainment = 오락
+  Hollywood = 할리우드
+  Hollywood Walk of Fame = 할리우드 명예의 거리
+  Mel Blanc = 멜 블랭크
+  Merrie Melodies = 「메리 멜로디」
+  Porky Pig = 포키 피그
+  Silly Symphonies = 「실리 심포니」
+  TV Guide = 『TV 가이드』
+  Tex Avery = 텍스 에이버리
+  The Flintstones = 「고인돌 가족 플린스톤」
+  The Simpsons = 「심슨 가족」
+  Walk of Fame = 명예의 거리
+  Walt Disney = 월트 디즈니
+  Warner Bros. Entertainment = 워너 브라더스 엔터테인먼트
+ENTRY:
+American animated short-film series and media franchise owned by Warner Bros. Entertainment. The series of animated shorts ran from 1930 to 1969, alongside its spin-off *Merrie Melodies*, and was revived in the late 1970s. Its characters include [[Bugs Bunny]], [[Daffy Duck]] and Porky Pig. The title was inspired by [[Walt Disney|Walt Disney]]'s *Silly Symphonies*. Bugs Bunny became popular in the *Merrie Melodies* shorts of the early 1940s, and the series moved to color between 1942 and 1943. From 1942 to 1964 they were the most popular animated shorts in movie theaters. Directors including Tex Avery, Chuck Jones and Bob Clampett shaped the shorts, and voice actor [[Mel Blanc]] was central to them. Five films won Academy Awards. In 2013, TV Guide ranked the series third among television cartoons, behind [[The Simpsons]] and [[The Flintstones]]. Bugs Bunny, the Warner Bros. mascot, has a star on the [[Hollywood Walk of Fame]].
+
+=== KEY: Looting_d6edda
+HEADWORD: Looting = 약탈
+LEVEL: 4
+GLOSSARY:
+  Black = 검은색
+  Hague Conventions = 헤이그 협약
+  Hurricane Katrina = 허리케인 카트리나
+  Katrina = 카트리나
+  Looting = 약탈
+  Napoleonic Wars = 나폴레옹 전쟁
+  Natural disaster = 자연재해
+  Riot = 폭동
+  War crime = 전쟁 범죄
+  World = 세계
+  World War II = 제2차 세계 대전
+  international law = 국제법
+  war crime = 전쟁 범죄
+ENTRY:
+Indiscriminate taking of goods by force, typically during war, [[Natural disaster|natural disasters]] or [[Riot|riots]]. Its proceeds are called booty, loot, plunder, spoils or pillage, and looting occurs when law and civil enforcement are temporarily ineffective. Looting by victorious armies was long considered a customary right until norms against wartime plunder became widely accepted after the [[Napoleonic Wars]] and especially after [[World War II]]. Modern armed conflicts prohibit it under international law, and it constitutes a [[War crime|war crime]]; the Hague Conventions of 1899 and 1907 explicitly prohibited pillage and looting. Disaster researchers have found that post-disaster looting is often cooperative rather than criminal, and that reports of mass looting after [[Hurricane Katrina]] were often inaccurate or overstated. Scholars argue that such narratives can reinforce stereotypes; media coverage after Katrina more often labeled Black residents as "looters" than white residents, who were described as "finding" supplies.
+
+=== KEY: Lope_de_Vega_c73160
+HEADWORD: Lope de Vega = 로페 데 베가
+LEVEL: 4
+GLOSSARY:
+  Baroque = 바로크
+  Calderón = 칼데론
+  Cervantes = 세르반테스
+  Francisco de Quevedo = 프란시스코 데 케베도
+  Goethe = 괴테
+  Johann Wolfgang von Goethe = 요한 볼프강 폰 괴테
+  Juan Ruiz de Alarcón = 후안 루이스 데 알라르콘
+  Luis de Góngora = 루이스 데 공고라
+  Madrid = 마드리드
+  Miguel de Cervantes = 미겔 데 세르반테스
+  Pedro Calderón de la Barca = 페드로 칼데론 데 라 바르카
+  Phoenix = 피닉스
+  Sonnet = 소네트
+  Spanish Golden Age = 스페인 황금세기
+  The Phoenix of Wits = 재사들의 불사조
+  Tirso de Molina = 티르소 데 몰리나
+ENTRY:
+Spanish playwright, poet and novelist, a key figure of the Spanish Golden Age of Baroque literature. Born in [[Madrid]], he renewed Spanish theater when it became mass culture. With [[Pedro Calderón de la Barca]] and Tirso de Molina, he defined the characteristics of Spanish Baroque theater, with great insight into the human condition. His output includes some 3,000 [[Sonnet|sonnets]], three novels, four novellas, nine epic poems and approximately 500 stageplays. [[Miguel de Cervantes]] called him "The Phoenix of Wits" (*Fénix de los ingenios*), and the volume of his work earned him the envy of contemporaries such as Cervantes and Luis de Góngora. He was a friend of the writer Francisco de Quevedo and an enemy of the dramatist Juan Ruiz de Alarcón. [[Johann Wolfgang von Goethe]] admired his vast and colorful oeuvre.
+
+=== KEY: Lord_Byron_ba33da
+HEADWORD: Byron, George Gordon = 바이런, 조지 고든
+LEVEL: 4
+GLOSSARY:
+  Cambridge = 케임브리지
+  Childe Harold's Pilgrimage = 『차일드 해럴드의 순례』
+  Don Juan = 『돈 주안』
+  England = 잉글랜드
+  Europe = 유럽
+  Genoa = 제노바
+  Greek War of Independence = 그리스 독립 전쟁
+  Hebrew = 히브리어
+  Hebrew Melodies = 『히브리 가곡』
+  Independence = 인디펜던스
+  Italy = 이탈리아
+  Missolonghi = 메솔롱기
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Percy Bysshe Shelley = 퍼시 비시 셸리
+  Pilgrimage = 순례
+  Pisa = 피사
+  Ravenna = 라벤나
+  Romantic = 낭만주의
+  Trinity = 삼위일체
+  Trinity College = 트리니티 칼리지
+  University = 대학
+  University of Cambridge = 케임브리지 대학교
+  Venice = 베네치아
+  War of Independence = 독립 전쟁
+ENTRY:
+British Romantic poet, regarded as among the greatest British poets. Educated at [[University of Cambridge|Trinity College at the University of Cambridge]], he traveled extensively in Europe and lived for seven years in Italy, in [[Venice]], Ravenna, Pisa and Genoa, after being forced to flee England amid threats of lynching. His best-known works are the lengthy narratives *Childe Harold's Pilgrimage* and *Don Juan*; his shorter lyrics in *Hebrew Melodies* also became popular. He was a friend of [[Percy Bysshe Shelley]]. Later he joined the [[Greek War of Independence]] against the [[Ottoman Empire]], and Greeks revere him as a folk hero. He died leading a campaign, from a fever contracted after the first and second sieges of Missolonghi.
+
+=== KEY: Lord_Kelvin_5dacd5
+HEADWORD: Kelvin, William Thomson = 켈빈, 윌리엄 톰슨
+LEVEL: 4
+GLOSSARY:
+  1st Baron Kelvin = 초대 켈빈 남작
+  Absolute zero = 절대 영도
+  Belfast = 벨파스트
+  Celsius = 섭씨
+  Charles Darwin = 찰스 다윈
+  Darwin = 다윈
+  Fahrenheit = 화씨
+  Glasgow = 글래스고
+  House of Lords = 귀족원
+  Irish = 아일랜드어
+  Irish Home Rule = 아일랜드 자치
+  Kelvin = 켈빈
+  Natural Philosophy = 자연 철학
+  Philosophy = 철학
+  Thermodynamics = 열역학
+  University = 대학
+  University of Glasgow = 글래스고 대학교
+  mathematical analysis = 해석학
+  transatlantic telegraph = 대서양 횡단 전신
+ENTRY:
+British mathematician, mathematical physicist and engineer, 1st Baron Kelvin. Born in [[Belfast]], he was professor of Natural Philosophy at the University of [[Glasgow]] for 53 years, researching the mathematical analysis of electricity and helping formulate the first and second laws of [[Thermodynamics|thermodynamics]]. He determined the correct value of [[Absolute zero]] as approximately −273.15 degrees Celsius or −459.67 degrees Fahrenheit, and absolute temperatures are stated in [[Kelvin|kelvin]] in his honor. He was knighted in 1866 for his work on the transatlantic telegraph, and in 1892 became the first scientist elevated to the House of Lords, honored for his work in thermodynamics and his opposition to Irish Home Rule. His estimate of Earth's age, 20 to 400 million years, underestimated geological timescales because it omitted internal heat sources such as radioactivity, and it sparked debates with [[Charles Darwin]], who required longer periods for evolution.
+
+=== KEY: Lord_Mountbatten_b858d0
+HEADWORD: Mountbatten, Louis = 마운트배튼, 루이스
+LEVEL: 5
+GLOSSARY:
+  Asia = 아시아
+  British India = 영국령 인도
+  Chief of the Defence Staff = 국방 참모 총장
+  Commander = 사령관
+  County Sligo = 슬라이고주
+  Dominions = 자치령
+  Dominions of India and Pakistan = 인도 자치령과 파키스탄 자치령
+  East Asia = 동아시아
+  First Sea Lord = 제1해군경
+  India = 인도
+  Irish = 아일랜드어
+  Irish Republican Army = 아일랜드 공화국군
+  Mullaghmore = 멀러모어
+  Navy = 해군
+  Pakistan = 파키스탄
+  Partition of India = 인도 분할
+  Provisional Irish Republican Army = 아일랜드 공화국군 임시파
+  Royal Navy = 영국 해군
+  Second = 초
+  Second World = 제2세계
+  Second World War = 제2차 세계 대전
+  Supreme Allied Commander = 연합군 최고사령관
+  World = 세계
+  the Second World War = 제2차 세계 대전
+  viceroy = 인도 총독
+ENTRY:
+British statesman and admiral, last viceroy of British India. He served in the [[Royal Navy]] in both world wars and as Supreme Allied Commander, South East Asia, in the Second World War. As viceroy he oversaw the transition to independence and the [[Partition of India|partition]] of British India into the Dominions of India and Pakistan. He later served as First Sea Lord and, until 1965, as Chief of the Defence Staff. Critics accused him of vanity and flawed judgment, particularly over partition. He was assassinated by the Provisional Irish Republican Army when a bomb exploded aboard his fishing boat off Mullaghmore, County Sligo.
+
+=== KEY: Lord_of_the_Flies_e8aee4
+HEADWORD: Lord of the Flies = 파리 대왕
+LEVEL: 5
+GLOSSARY:
+  Beelzebub = 바알세불
+  D-Day = 디데이
+  Morality = 도덕
+  Navy = 해군
+  Normandy = 노르망디
+  Normandy landings = 노르망디 상륙 작전
+  Novel = 소설
+  Royal Navy = 영국 해군
+  William = 윌리엄
+  William Golding = 윌리엄 골딩
+ENTRY:
+Novel by British author William Golding, published in 1954 as his first novel. British boys in middle childhood or preadolescence are stranded on an uninhabited island after a wartime evacuation, and their attempts to govern themselves lead to a descent into savagery. Its themes include [[Morality|morality]], leadership and the tension between civility and chaos. Golding had been a [[Royal Navy|Royal Navy]] lieutenant who commanded a landing craft in the [[Normandy landings]] on D-Day in 1944. Many publishers rejected the manuscript before Faber & Faber accepted it. The title is a literal translation of Beelzebub, a biblical demon considered the god of pride and warfare.
+
+=== KEY: Lord_s_Prayer_5dd513
+HEADWORD: Lord's Prayer = 주기도문
+LEVEL: 4
+GLOSSARY:
+  Bible = 성경
+  Christian denomination = 기독교 교파
+  Dhammapada = 『법구경』
+  Didache = 『디다케』
+  Epic of Gilgamesh = 『길가메시 서사시』
+  Gilgamesh = 길가메시
+  Gospels = 복음서
+  Gregorian = 그레고리력
+  Gregorian chant = 그레고리오 성가
+  Hebrew = 히브리어
+  Hebrew Bible = 히브리어 성경
+  Jesus = 예수
+  Latin = 라틴어
+  Lukan = 누가복음의
+  Luke = 누가복음
+  Matthean = 마태복음의
+  Matthew = 마태복음
+  Minor Doxology = 소영광송
+  New Testament = 신약 성경
+  Pater Noster = 파테르 노스테르
+ENTRY:
+Central Christian prayer attributed to [[Jesus]], also known by its Latin incipit *Pater Noster*. It appears in the [[New Testament|New Testament]] Gospels of Matthew and Luke, and most scholars regard it as deriving authentically from the historical Jesus. The prayer survives in two versions, and the relationship between the Matthean and Lukan forms remains debated. The first-century *Didache* reports a version closely resembling Matthew's, ending with the Minor Doxology. Matthew's version has seven petitions, the first three addressed to God, and it alone includes a petition for God's will to be done. Most [[Christian denomination|Christian denominations]] use the Matthean form, and the prayer has been set to music, from 9th-century [[Gregorian chant]] onward. Since the 16th century it has been widely translated. It shares parallels with the [[Hebrew Bible]] and with texts such as the [[Dhammapada]] and the [[Epic of Gilgamesh]].
+
+=== KEY: Lorde_f6391d
+HEADWORD: Lorde = 로드
+LEVEL: 5
+GLOSSARY:
+  500 Greatest Albums of All Time = 역대 최고의 앨범 500
+  Billboard 200 = 빌보드 200
+  Billboard Hot 100 = 빌보드 핫 100
+  Ella Marija Lani Yelich-O'Connor = 엘라 마리야 라니 옐리치오코너
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Melodrama = 『멜로드라마』
+  Music = 음악
+  New Zealand = 뉴질랜드
+  Pure = 「퓨어」
+  Pure Heroine = 『퓨어 히로인』
+  Rolling Stone = 『롤링 스톤』
+  Royals = 「로열스」
+  Solar Power = 『솔라 파워』
+  Time = 『타임』
+  Universal Music Group = 유니버설 뮤직 그룹
+  Virgin = 『버진』
+  Zealand = 셸란섬
+  alternative pop = 얼터너티브 팝
+  indie folk = 인디 포크
+ENTRY:
+New Zealand singer-songwriter, born Ella Marija Lani Yelich-O'Connor, known for an unconventional production style and introspective songwriting in alternative pop. After signing with [[Universal Music Group]], her debut single "Royals" topped the Billboard Hot 100, won two [[Grammy Awards|Grammy Awards]], and became one of the best-selling singles of all time. Her album *Pure Heroine* (2013) was followed by *Melodrama* (2017), which debuted atop the US Billboard 200 and was ranked among the "500 Greatest Albums of All Time" by [[Rolling Stone]]. *Solar Power* (2021) explored indie folk and psychedelic styles, and *Virgin* (2025) returned to electronic sounds.
+
+=== KEY: Lorem_ipsum_0956d2
+HEADWORD: Lorem ipsum = 로렘 입숨
+LEVEL: 5
+GLOSSARY:
+  CSS = CSS
+  Cicero = 키케로
+  De finibus bonorum et malorum = 『최고선악론』
+  Latin = 라틴어
+  Letraset = 레트라셋
+  Microsoft = 마이크로소프트
+  Microsoft Word = 마이크로소프트 워드
+  Semantic UI = 시맨틱 UI
+  Word = 단어
+ENTRY:
+Placeholder text used in publishing and graphic design. Lorem ipsum is typically a corrupted version of *De finibus bonorum et malorum*, a 1st-century BC text by the Roman statesman and philosopher [[Cicero]], with words altered, added and removed to make it nonsensical [[Latin|Latin]]. The first two words are a truncation of *dolorem ipsum* ("pain itself"). Its purpose is to let a page layout be designed independently of the copy that will fill it. Letraset transfer sheets popularized it in the late 1960s, and it was later adopted by [[Microsoft Word]] and by [[CSS]] libraries such as Semantic UI.

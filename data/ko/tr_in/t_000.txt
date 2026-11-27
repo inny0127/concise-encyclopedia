@@ -1,0 +1,796 @@
+=== KEY: 0_cfcd20
+HEADWORD: 0 = 0
+LEVEL: 3
+GLOSSARY:
+  Arabic = 아랍어
+  Bakhshali manuscript = 바크샬리 필사본
+  Europe = 유럽
+  Fibonacci = 피보나치
+  French = 프랑스어
+  Integer = 정수
+  Maya civilization = 마야 문명
+  Number = 수
+  Positional notation = 위치 기수법
+  Sanskrit = 산스크리트어
+  Tennis = 테니스
+  Venetian = 베네치아
+  additive identity = 덧셈 항등원
+  binary = 이진법
+  complex numbers = 복소수
+  composite = 합성수
+  cricket = 크리켓
+  decimal notation = 십진법
+  duck = 덕
+  hexadecimal = 십육진법
+  nonnegative integer = 음이 아닌 정수
+  number line = 수직선
+  place-value notation = 자리기수법
+  prime = 소수
+  zefiro = 제피로
+  zevero = 제베로
+  śūnya = 순야
+  ṣifr = 시프르
+ENTRY:
+Number representing an empty quantity, and the digit that marks an empty place in written numerals. Adding zero to or subtracting zero from any [[Number|number]] leaves it unchanged, so 0 is the additive identity of the [[Integer|integers]] and of the rational, real, and complex numbers. Multiplying any number by 0 gives 0. Division by zero is generally regarded as undefined in arithmetic, because no real number multiplied by 0 produces 1. Any number to the power of 0 equals 1, except that 0⁰ is sometimes regarded as undefined. Zero is the smallest nonnegative integer and the largest nonpositive one; it is even, neither positive nor negative, neither prime nor composite, and is usually shown as the origin of a number line.
+
+As a digit in [[Positional notation|place-value notation]], 0 shows that a position adds nothing to a number's value: in decimal notation, 205 means two hundreds, no tens, and five ones. The same principle holds in bases other than ten, such as binary and hexadecimal. This use derives from Indian mathematics, where the earliest recorded use is dated to the 3rd or 4th century in the Bakhshali manuscript. It was transmitted to Europe by medieval Islamic mathematicians and popularized by [[Fibonacci]], and it was used independently by the [[Maya civilization]].
+
+The English word *zero* came through French and Italian from the Venetian *zevero*, a contraction of *zefiro*, itself borrowed from [[Arabic]] *ṣifr*. That word meant "empty" and came to mean zero when used to translate the [[Sanskrit]] *śūnya*. Some sports have their own words for a zero score, such as "love" in [[Tennis|tennis]] and "duck" in cricket.
+
+=== KEY: 100_metres_48e291
+HEADWORD: 100 meters = 100미터 달리기
+LEVEL: 4
+GLOSSARY:
+  Florence = 피렌체
+  Florence Griffith Joyner = 플로렌스 그리피스 조이너
+  Griffith = 그리피스
+  Jamaica = 자메이카
+  Summer Olympics = 하계 올림픽
+  Track and field = 육상 경기
+  United States = 미국
+  Usain Bolt = 우사인 볼트
+  World = 세계
+  World Championships = 세계 육상 선수권 대회
+  false start = 부정 출발
+ENTRY:
+Sprint race in [[Track and field|track and field]] competitions, the shortest common outdoor running distance. It has been contested at the Summer Olympics since 1896 for men and since 1928 for women, and it is the shortest sprint at the Games. The inaugural World Championships were held in 1983. Starts follow three commands, "on your marks," "set" and the starter's pistol, and sprinters typically reach top speed between 50 and 60 meters. A reaction time under 0.100 second is a false start, and since the 2010 season a false-starting athlete is disqualified at once. The men's world record of 9.58 seconds was set by [[Usain Bolt]] of Jamaica in 2009; the women's record of 10.49 seconds was set by [[Florence Griffith Joyner]] of the United States in 1988.
+
+=== KEY: 12_Angry_Men_37304d
+HEADWORD: 12 Angry Men = 12인의 성난 사람들
+LEVEL: 5
+GLOSSARY:
+  12 Angry Men = 「12인의 성난 사람들」
+  Academy Awards = 아카데미상
+  Best Director = 감독상
+  Best Picture = 작품상
+  Film = 영화
+  Henry Fonda = 헨리 폰다
+  Jury = 배심원단
+  Library = 도서관
+  Library of Congress = 미국 의회 도서관
+  National Film Registry = 국립 영화 등기부
+  Reginald Rose = 레지널드 로즈
+  Rose = 장미
+  Sidney Lumet = 시드니 루멧
+  teleplay = 텔레비전 극본
+ENTRY:
+American legal drama film directed by Sidney Lumet in his feature debut. Adapted by Reginald Rose from his 1954 teleplay, it follows a [[Jury|jury]] of twelve men deciding whether a teenager accused of murder is guilty. [[Henry Fonda]] stars and also produced the film. Despite lukewarm box-office returns, it received nominations for Best Picture, Best Director and Best Screenplay at the [[Academy Awards]]. In 2007, *12 Angry Men* was selected for preservation in the [[Library of Congress]]'s National Film Registry.
+
+=== KEY: 12_hour_clock_8c0ac4
+HEADWORD: 12-hour clock = 12시간제
+LEVEL: 5
+GLOSSARY:
+  24-hour clock = 24시간제
+  Ancient Egypt = 고대 이집트
+  Canada = 캐나다
+  Egypt = 이집트
+  Latin = 라틴어
+  Mesopotamia = 메소포타미아
+  Time = 『타임』
+  United Kingdom = 영국
+  United States = 미국
+  ante meridiem = ante meridiem
+  post meridiem = post meridiem
+ENTRY:
+Time convention dividing the day into two 12-hour periods, a.m. (from Latin *ante meridiem*, "before midday") and p.m. (*post meridiem*, "after midday"). It can be traced to [[Mesopotamia]] and [[Ancient Egypt]], and reached its modern form in the 16th century. It remains common in the [[United States]], the [[United Kingdom]] and [[Canada]], where "12 p.m." usually means noon and "12 a.m." midnight. The [[24-hour clock]] is used in specialized fields such as aviation and medicine.
+
+=== KEY: 14th_Dalai_Lama_64a14b
+HEADWORD: 14th Dalai Lama = 달라이 라마 14세
+LEVEL: 4
+GLOSSARY:
+  14th Dalai Lama = 달라이 라마 14세
+  Avalokiteśvara = 관세음보살
+  Beijing = 베이징
+  Buddhist = 불교
+  China = 중국
+  Dalai Lama = 달라이 라마
+  Dharamshala = 다람살라
+  Gelug = 겔룩파
+  Gelug school = 겔루크파
+  India = 인도
+  Lhasa = 라싸
+  Middle Way = 중도
+  Middle Way Approach = 중도 노선
+  Nobel Peace Prize = 노벨 평화상
+  Peace = 평화
+  Tibet = 티베트
+  Tibetan = 티베트어
+  Tibetans = 티베트족
+  bodhisattva = 보살
+ENTRY:
+Tibetan Buddhist monk and spiritual leader of the Gelug school. Tibetan Buddhist belief holds that each Dalai Lama is a reincarnation of [[Avalokiteśvara]], the bodhisattva of compassion. He was recognized as the 14th Dalai Lama in 1939 and enthroned in Lhasa on February 22, 1940. In 1950 he was given temporal authority over [[Tibet]], which he held until the 1959 uprising, when he fled to India and established a government in exile at Dharamshala. He retired as political head in 2011. He advocates the Middle Way Approach, which seeks autonomy for Tibet within China rather than independence. Beijing portrays him as a separatist, while the approach aims to let Tibetans preserve their culture and religion. He was awarded the Nobel Peace Prize in 1989.
+
+=== KEY: 1556_Shaanxi_earthquake_006bf5
+HEADWORD: 1556 Shaanxi earthquake = 1556년 산시 대지진
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  Earthquake = 지진
+  Goose = 기러기
+  Huaxian = 화현
+  Jiajing Emperor = 가정제
+  Jiajing Great Earthquake = 가정 대지진
+  Ming = 명나라
+  Ming dynasty = 명나라
+  Pagoda = 탑
+  Shaanxi = 산시성
+  Shaanxi Province = 산시성
+  Small Wild Goose Pagoda = 소안탑
+  Xi'an = 시안
+  imperial household registration = 호적
+  loess = 뢰스
+  yaodong = 야오둥
+ENTRY:
+Earthquake that struck Huaxian, Shaanxi Province, [[China]], during the [[Ming dynasty]]. It occurred in the early morning of January 23, 1556. Most residents lived in *yaodong*, artificial caves dug into loess cliffs, which collapsed on those sleeping inside. Modern estimates put direct deaths at roughly 100,000, while more than 700,000 people either migrated or died of famine and plague, a total reduction of 830,000 in the imperial household registration. Landslides and ground ruptures were widespread, and the shaking reduced the height of the Small Wild Goose Pagoda in [[Xi'an]] by three levels. Chinese records call it the Jiajing Great Earthquake, after the [[Jiajing Emperor]] who reigned at the time.
+
+=== KEY: 1755_Lisbon_earthquake_4152db
+HEADWORD: 1755 Lisbon earthquake = 1755년 리스본 대지진
+LEVEL: 4
+GLOSSARY:
+  Algarve = 알가르브
+  All Saints = 모든 성인 대축일
+  Enlightenment = 계몽주의
+  Lisbon = 리스본
+  Morocco = 모로코
+  Portugal = 포르투갈
+  Portuguese Empire = 포르투갈 제국
+  River = 강
+  Seismology = 지진학
+  Tagus = 타호강
+  Tagus River = 테주강
+  Voltaire = 볼테르
+  earthquake engineering = 지진 공학
+  theodicy = 신정론
+ENTRY:
+Catastrophic earthquake, tsunami and fires that almost completely destroyed [[Lisbon]], Portugal. The quake struck on the morning of November 1, 1755, the Christian feast of All Saints, and lasted several minutes. About 40 minutes later a tsunami surged up the Tagus River, and fires started by candles knocked over in homes and churches burned for hours. Estimates place the death toll in Lisbon at 30,000 to 40,000, with perhaps 10,000 more in Morocco. Destruction was widespread across southern Portugal, particularly the Algarve. The disaster disrupted the [[Portuguese Empire]] and heightened political tensions in Portugal. European Enlightenment philosophers, including [[Voltaire]], debated its implications for theodicy. As the first earthquake studied scientifically over a large area, it contributed to the birth of modern [[Seismology]] and earthquake engineering.
+
+=== KEY: 1883_eruption_of_Krakatoa_287fcb
+HEADWORD: 1883 eruption of Krakatoa = 1883년 크라카토아 화산 분화
+LEVEL: 5
+GLOSSARY:
+  Australia = 오스트레일리아
+  Caldera = 칼데라
+  Dutch = 네덜란드어
+  Dutch East Indies = 네덜란드령 동인도
+  East Indies = 동인도
+  Krakatoa = 크라카타우
+  Perth = 퍼스
+  Strait = 해협
+  Sunda = 순다
+  Sunda Strait = 순다 해협
+  Tsunami = 쓰나미
+  Western Australia = 웨스턴오스트레일리아주
+  pressure wave = 압력파
+ENTRY:
+Volcanic eruption in the Sunda Strait, then part of the [[Dutch East Indies]]. The volcanic island of Krakatoa erupted from May to October 1883. Its most violent eruption, on August 27, destroyed more than 70 percent of the island, which collapsed into a [[Caldera|caldera]]. The third explosion that day, at 10:02 a.m., is considered the loudest sound in recorded history; it was heard 3,110 kilometers away in [[Perth]], Western Australia. At least 36,417 people died in the eruption and the [[Tsunami|tsunamis]] it generated, and its pressure wave circled the globe more than three times.
+
+=== KEY: 1911_Revolution_efc1e8
+HEADWORD: 1911 Revolution = 신해혁명
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  Nanjing = 난징
+  New Army = 신군
+  Qing = 청나라
+  Qing dynasty = 청나라
+  Republic of China = 중화민국
+  Republic of China (1912–1949) = 중화민국
+  Sun Yat-sen = 쑨원
+  Wuchang = 우창
+  Wuchang Uprising = 우창 봉기
+  Xinhai Revolution = 신해혁명
+  Xuantong Emperor = 선통제
+  Yuan = 원나라
+  Yuan Shikai = 위안스카이
+  warlordism = 군벌 할거
+ENTRY:
+Uprising, also called the Xinhai Revolution, that ended the 267-year rule of the [[Qing dynasty]] and established the [[Republic of China (1912–1949)|Republic of China]]. It began with the Wuchang Uprising on October 10, 1911, an armed revolt by members of the New Army, and revolts spread as provinces renounced the Qing. On January 1, 1912, the republic was proclaimed in [[Nanjing]] with [[Sun Yat-sen]] as president. He resigned in favor of Yuan Shikai, who secured the abdication of the six-year-old Xuantong Emperor on February 12, 1912. Yuan restored the monarchy in December 1915 and proclaimed himself emperor, but he abdicated in March 1916 and died that June. Decades of political division and warlordism followed.
+
+=== KEY: 1931_China_floods_8e97a1
+HEADWORD: 1931 China floods = 1931년 중국 대홍수
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  Cholera = 콜레라
+  Drought = 가뭄
+  Huai = 화이허강
+  John = 존
+  John Lossing Buck = 존 로싱 벅
+  League of Nations = 국제 연맹
+  University = 대학
+  University of Nanking = 진링 대학
+  Yangtze = 양쯔강
+ENTRY:
+Series of floods along the Yangtze and Huai rivers in central China, from June to August 1931. [[Drought]], followed by heavy snowmelt and a summer of repeated cyclones, pushed the Yangtze to the highest level since records began in the mid-19th century, and about 180,000 square kilometers were inundated. Estimates of the death toll vary widely. A survey by John Lossing Buck of the University of Nanking counted at least 150,000 drowned; an official report cited 140,000 drowned and claimed 2 million died from drowning or lack of food; later Chinese historians calculated 422,420 deaths. A [[Cholera|cholera]] epidemic from 1932 caused further deaths. Relief included aid coordinated through the [[League of Nations]], though corruption and logistical problems limited its effect.
+
+=== KEY: 1948_Arab_Israeli_War_6dd39d
+HEADWORD: 1948 Arab–Israeli War = 제1차 중동 전쟁
+LEVEL: 5
+GLOSSARY:
+  1948 Palestine war = 1948년 팔레스타인 전쟁
+  1949 Armistice Agreements = 1949년 휴전 협정
+  Bank = 은행
+  East Jerusalem = 동예루살렘
+  Egypt = 이집트
+  Gaza Strip = 가자 지구
+  Green = 초록색
+  Green Line = 그린 라인
+  Iraq = 이라크
+  Israel = 이스라엘
+  Jerusalem = 예루살렘
+  Mandatory Palestine = 영국령 팔레스타인
+  Nakba = 나크바
+  Palestine = 팔레스타인
+  Palestinians = 팔레스타인인
+  Second = 초
+  Strip = 스트립
+  Syria = 시리아
+  Transjordan = 트란스요르단
+  West Bank = 요르단강 서안 지구
+  military orders = 기사 수도회
+ENTRY:
+Second stage of the 1948 Palestine war, fought from May 15, 1948, to March 10, 1949, between [[Israel]] and invading Arab states. It followed a civil war in [[Mandatory Palestine]]. Egypt, Transjordan, Syria and Iraq invaded the morning after Israel declared independence on May 14. By the end, Israel controlled about 78 percent of the former Mandate, while Transjordan took East Jerusalem and the [[West Bank]] and Egypt held the [[Gaza Strip]]. The 1949 Armistice Agreements established the Green Line. Expulsions and flight of Palestinians, known as the [[Nakba]], displaced hundreds of thousands. Historians differ on whether this resulted from deliberate policy or from combat, rumor and military orders.
+
+=== KEY: 1953_Iranian_coup_d_tat_068053
+HEADWORD: 1953 Iranian coup d'état = 1953년 이란 쿠데타
+LEVEL: 5
+GLOSSARY:
+  Anglo-Iranian Oil Company = 앵글로이란 석유 회사
+  Central Intelligence Agency = 중앙 정보국
+  Iran = 이란
+  Iranian Revolution = 이란 혁명
+  Mohammad Mosaddegh = 모하마드 모사데크
+  Mohammad Reza Pahlavi = 모하마드 레자 팔라비
+  Prime = 프라임
+  house arrest = 가택 연금
+  shah = 샤
+ENTRY:
+Operation that deposed Prime Minister [[Mohammad Mosaddegh]] of Iran on August 19, 1953, and strengthened the rule of [[Mohammad Reza Pahlavi]]. Mosaddegh had nationalized the British-controlled Anglo-Iranian Oil Company in 1951. Instigated by British intelligence and the [[Central Intelligence Agency|CIA]], the operation was documented in declassified U.S. records released in 2013, and the CIA took credit for it in 2023. Some earlier historians had argued, on incomplete evidence, that Iranian actors played the primary role. Between 200 and 300 people were killed. Mosaddegh was convicted of treason and spent the rest of his life under house arrest. The shah then ruled as an authoritarian, pro-Western monarch until the [[Iranian Revolution]] of 1979.
+
+=== KEY: 1960_Valdivia_earthquake_1b7d57
+HEADWORD: 1960 Valdivia earthquake = 1960년 발디비아 지진
+LEVEL: 5
+GLOSSARY:
+  Chile = 칠레
+  Hawaii = 하와이
+  Japan = 일본
+  Megathrust earthquake = 거대 역단층 지진
+  Nazca = 나스카
+  Nazca plate = 나스카판
+  New Zealand = 뉴질랜드
+  Peru = 페루
+  Philippines = 필리핀
+  South American = 남아메리카
+  South American plate = 남아메리카판
+  Tsunami = 쓰나미
+  Valdivia = 발디비아
+  Zealand = 셸란섬
+  the Philippines = 필리핀
+ENTRY:
+[[Megathrust earthquake|Megathrust]] earthquake and tsunami that struck southern [[Chile]] on May 22, 1960, devastating the city of Valdivia. Most studies place its magnitude at 9.4 to 9.6, making it the strongest earthquake recorded. Its [[Tsunami|tsunamis]] reached 25 meters on the Chilean coast and affected Hawaii, Japan, the Philippines and New Zealand. Estimates of total fatalities range from 1,000 to 6,000. The quake resulted from the release of stress between the Nazca plate and the South American plate on the Peru–Chile Trench.
+
+=== KEY: 1970_Bhola_cyclone_d12071
+HEADWORD: 1970 Bhola cyclone = 1970년 볼라 사이클론
+LEVEL: 4
+GLOSSARY:
+  Awami League = 아와미 연맹
+  Bangladesh = 방글라데시
+  Bangladesh Liberation War = 방글라데시 독립 전쟁
+  Bay of Bengal = 벵골만
+  Bengal = 벵골
+  East Pakistan = 동파키스탄
+  Ganges = 갠지스강
+  Ganges Delta = 갠지스 삼각주
+  Pakistan = 파키스탄
+  Tropical cyclone = 열대 저기압
+  West Bengal = 서벵골주
+  Yahya Khan = 야히아 칸
+  storm surge = 폭풍 해일
+  tropical cyclone = 열대 저기압
+ENTRY:
+[[Tropical cyclone]] that struck East Pakistan (now [[Bangladesh]]) and West Bengal on November 12, 1970. It was the deadliest tropical cyclone on record. The storm formed over the central [[Bay of Bengal]] on November 8 and reached winds of 185 kilometers per hour before landfall. Its storm surge swept over the low-lying islands of the Ganges Delta, and at least 300,000 people died, possibly as many as 500,000. The slow relief response by the government of General Yahya Khan drew criticism in East Pakistan and abroad. Discontent over it contributed to a landslide for the opposition Awami League in the election a month later, and to the [[Bangladesh Liberation War]] seven months later.
+
+=== KEY: 1973_Chilean_coup_d_tat_07c2d9
+HEADWORD: 1973 Chilean coup d'état = 1973년 칠레 쿠데타
+LEVEL: 5
+GLOSSARY:
+  Augusto Pinochet = 아우구스토 피노체트
+  Chile = 칠레
+  La Moneda = 라 모네다 궁
+  Military = 군대
+  Nixon administration = 닉슨 행정부
+  Peter = 베드로
+  Peter Winn = 피터 윈
+  Richard Nixon = 리처드 닉슨
+  Salvador = 사우바도르
+  Salvador Allende = 살바도르 아옌데
+  Sebastián Hurtado Torres = 세바스티안 우르타도 토레스
+  junta = 군사 평의회
+ENTRY:
+Military overthrow of socialist president [[Salvador Allende]] of Chile on September 11, 1973. Led by General [[Augusto Pinochet]], the armed forces formed a junta that suspended political activity and suppressed left-wing parties. Allende died in the presidential palace, La Moneda; his death is generally accepted as suicide. Pinochet was declared president in late 1974 and ruled until 1990, a period marked by torture and murder of political opponents. Historian Sebastián Hurtado Torres found no documentary evidence of active U.S. coordination of the coup, while Peter Winn found extensive evidence of U.S. complicity. Declassified documents released in 2023 showed that the [[Richard Nixon|Nixon]] administration knew of the military's plans in advance.
+
+=== KEY: 1973_oil_crisis_91a18b
+HEADWORD: 1973 oil crisis = 제1차 석유 파동
+LEVEL: 4
+GLOSSARY:
+  Canada = 캐나다
+  Iranian Revolution = 이란 혁명
+  Israel = 이스라엘
+  Japan = 일본
+  Netherlands = 네덜란드
+  OAPEC = OAPEC
+  Organization of Arab Petroleum Exporting Countries = 아랍 석유 수출국 기구
+  Petroleum = 석유
+  United Kingdom = 영국
+  United States = 미국
+  Yom Kippur = 욤 키푸르
+  Yom Kippur War = 욤 키푸르 전쟁
+  embargo = 금수 조치
+  stagflation = 스태그플레이션
+ENTRY:
+Global oil supply shock caused by an embargo that the Organization of Arab Petroleum Exporting Countries (OAPEC) imposed on states that had supported Israel in the [[Yom Kippur War]]. The embargo was aimed first at the [[United States|United States]], Japan, Canada, the Netherlands and the United Kingdom. It began in October 1973 and was lifted in March 1974, but oil prices rose from about $3 to nearly $12 a barrel. U.S. domestic production had peaked around 1970, leaving the country dependent on imports. The shock brought stagflation, fuel rationing and conservation measures across consuming nations. A second oil shock followed in 1979, after the [[Iranian Revolution]].
+
+=== KEY: 1976_Tangshan_earthquake_3d648c
+HEADWORD: 1976 Tangshan earthquake = 탕산 대지진
+LEVEL: 4
+GLOSSARY:
+  1556 Shaanxi earthquake = 1556년 산시 대지진
+  Beijing = 베이징
+  China = 중국
+  Hebei = 허베이성
+  Modified Mercalli intensity scale = 수정 메르칼리 진도 계급
+  Reconstruction = 재건 시대
+  Shaanxi = 산시성
+  Tangshan = 탕산
+  Tianjin = 톈진
+ENTRY:
+Destructive earthquake in the industrial city of Tangshan, [[Hebei]] Province, China. It struck in the early hours of July 28, 1976, with maximum intensity XI on the [[Modified Mercalli intensity scale|Mercalli scale]]. Within minutes, 85 percent of the city's buildings collapsed or were rendered unusable, and most highway and railway bridges were destroyed or seriously damaged. The official count was 242,469 deaths, but historians accept that at least 300,000 people died, making it the deadliest earthquake in recorded history, excluding the famine deaths of the [[1556 Shaanxi earthquake]]. Ground shaking was felt across Beijing and Tianjin, and aftershocks continued for months. Reconstruction later made Tangshan a model of post-disaster urban planning.
+
+=== KEY: 1989_Tiananmen_Square_protests_and_massacre_7d404b
+HEADWORD: 1989 Tiananmen Square protests and massacre = 톈안먼 사태
+LEVEL: 4
+GLOSSARY:
+  Beijing = 베이징
+  China = 중국
+  Chinese Communist Party = 중국 공산당
+  Communist Party = 공산당
+  Corruption = 부패
+  Hu Yaobang = 후야오방
+  Inflation = 인플레이션
+  June Fourth Incident = 6·4 사건
+  Martial = 마르티알리스
+  Martial law = 계엄령
+  Party = 파티
+  Tank = 전차
+  Tank Man = 탱크맨
+  freedom of the press = 언론의 자유
+ENTRY:
+Student-led demonstrations in [[Beijing]], China, that ended with a military crackdown on June 3 and 4, 1989. Known in China as the June Fourth Incident, the protests began in April after the death of former general secretary of the [[Chinese Communist Party]], Hu Yaobang. Students called for an end to [[Corruption|corruption]], greater accountability and freedom of the press and speech, while workers protested [[Inflation|inflation]] and the loss of guaranteed jobs under economic reforms. Martial law was declared on May 20, and troops advanced into central Beijing on June 4, clashing with demonstrators. Estimates of the death toll range from several hundred to the low thousands. A man later known as Tank Man briefly blocked a column of tanks, and the photograph became one of the most recognizable images of the 20th century. Western countries imposed arms embargoes. Political reform was halted, and the limits on political expression set after 1989 persist. The government calls the events the "political turmoil" of 1989.
+
+=== KEY: 1992_Los_Angeles_riots_7415c5
+HEADWORD: 1992 Los Angeles riots = 1992년 로스앤젤레스 폭동
+LEVEL: 5
+GLOSSARY:
+  Assault = 폭행
+  Black = 검은색
+  California = 캘리포니아주
+  Daryl Gates = 대릴 게이츠
+  Koreatown = 코리아타운
+  LAPD = 로스앤젤레스 경찰국
+  Looting = 약탈
+  Los Angeles = 로스앤젤레스
+  Los Angeles Police Department = 로스앤젤레스 경찰국
+  Orange = 오렌지 카운티
+  Orange County = 오렌지 카운티
+  Police = 경찰
+  Rodney = 로드니
+  Rodney King = 로드니 킹
+ENTRY:
+Civil unrest in [[Los Angeles]], California, from April 29 to May 3, 1992, after a jury acquitted four Los Angeles Police Department (LAPD) officers in the beating of [[Rodney King]]. Widespread [[Looting|looting]], [[Assault|assault]] and arson spread across the metropolitan area and into Orange County. More than 50 people were killed, over 2,380 injured and more than 12,000 arrested, and property damage exceeded $1 billion, described as the most destructive period of local unrest in U.S. history. Koreatown suffered disproportionate damage amid tensions between Black and Korean residents. Much of the blame was attributed to LAPD chief Daryl Gates, who had already announced his resignation.
+
+=== KEY: 1993_Russian_constitutional_crisis_06c4b8
+HEADWORD: 1993 Russian constitutional crisis = 1993년 러시아 헌정 위기
+LEVEL: 5
+GLOSSARY:
+  Boris Yeltsin = 보리스 옐친
+  Moscow = 모스크바
+  October Revolution = 10월 혁명
+  Parliament = 의회
+  Russian = 러시아어
+  White = 흰색
+  White House = 백악관
+  special forces = 특수 부대
+ENTRY:
+Armed standoff between President [[Boris Yeltsin]] and the Russian [[Parliament|parliament]] in September and October 1993. After Yeltsin dissolved the legislature by decree on September 21, parliament impeached him and barricaded itself in the White House in Moscow. On October 4, the army shelled the building and special forces stormed it. Official figures put deaths at 147 in the ten days of street fighting, the deadliest in Moscow since the [[October Revolution]]. Yeltsin then expanded presidential powers; a constitution creating a strong presidency was adopted by referendum in December 1993. Western governments endorsed his actions as necessary to protect reforms, while critics argue the new system enabled authoritarian tendencies.
+
+=== KEY: 1I_Oumuamua_a42971
+HEADWORD: 1I/ʻOumuamua = 오우무아무아
+LEVEL: 5
+GLOSSARY:
+  Canadian = 캐나다
+  Comet = 혜성
+  Hawaii = 하와이
+  Hydrogen = 수소
+  Pan-STARRS = 팬스타스
+  Robert Weryk = 로버트 웨릭
+  Solar System = 태양계
+  coma = 코마
+  interstellar object = 성간 천체
+ENTRY:
+First confirmed interstellar object detected passing through the [[Solar System]]. Discovered on October 19, 2017, by Canadian physicist Robert Weryk using the Pan-STARRS telescope in [[Hawaii]], it was already moving away from the Sun. It is estimated to be 100 to 1,000 meters long and is red in color. It showed acceleration without a coma, the cloud usually seen around [[Comet|comets]], and most astronomers concluded by 2019 that it is a natural object, though its composition remains debated. A 2023 proposal attributes the acceleration to [[Hydrogen|hydrogen]] released from an icy body. The object will eventually leave the Solar System.
+
+=== KEY: 1_c4ca42
+HEADWORD: 1 = 1
+LEVEL: 4
+GLOSSARY:
+  Arabic = 아랍어
+  Arabic numeral = 아라비아 숫자
+  Babylonian = 바빌로니아
+  Benford's law = 벤포드 법칙
+  Computing = 컴퓨팅
+  Integer = 정수
+  Natural number = 자연수
+  Sumer = 수메르
+  binary = 이진법
+  composite = 합성수
+  multiplicative identity = 곱셈 항등원
+  prime = 소수
+ENTRY:
+First positive [[Integer|integer]] and multiplicative identity. It is the first [[Natural number|natural number]] after 0 and the unit of counting. Multiplying any number by 1 leaves it unchanged, any power of 1 equals 1, and by modern convention 1 is neither prime nor composite, although it meets the naive definition of a prime. Its symbol evolved from ancient [[Sumer|Sumerian]] and Babylonian symbols to the modern Arabic numeral. In binary, 1 represents the "on" state on which [[Computing|digital computing]] is based. Benford's law makes 1 the most common leading digit in many real-world datasets, at about 30 percent.
+
+=== KEY: 2001_A_Space_Odyssey_ff9665
+HEADWORD: 2001: A Space Odyssey = 2001: 스페이스 오디세이
+LEVEL: 4
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Awards = 아카데미상
+  Arthur C. Clarke = 아서 C. 클라크
+  Film = 영화
+  György Ligeti = 리게티 죄르지
+  HAL 9000 = HAL 9000
+  Jupiter = 목성
+  Library = 도서관
+  Library of Congress = 미국 의회 도서관
+  National Film Registry = 국립 영화 등기부
+  Richard = 리처드
+  Richard Strauss = 리하르트 슈트라우스
+  Stanley = 스탠리
+  Stanley Kubrick = 스탠리 큐브릭
+  The Sentinel = 「파수꾼」
+  science fiction = 과학 소설
+ENTRY:
+Epic science fiction film directed by [[Stanley Kubrick]] and released in 1968. Kubrick co-wrote the screenplay with [[Arthur C. Clarke]], drawing on several of Clarke's short stories, including "The Sentinel." The film follows astronauts and the HAL 9000 computer on a voyage to [[Jupiter]] after the discovery of an alien monolith. It is noted for its scientifically accurate depiction of spaceflight and pioneering special effects. Dialogue is sparse, and the soundtrack uses classical music, including works by [[Richard Strauss]] and [[György Ligeti]], rather than an original score. It was nominated for four [[Academy Awards]], winning Kubrick the award for visual effects, his only Academy Award. The [[Library of Congress]] selected it for the National Film Registry in 1991.
+
+=== KEY: 2003_invasion_of_Iraq_0e8e60
+HEADWORD: 2003 invasion of Iraq = 2003년 이라크 침공
+LEVEL: 5
+GLOSSARY:
+  Australian = 오스트레일리아
+  Baghdad = 바그다드
+  George W. Bush = 조지 W. 부시
+  Iraq = 이라크
+  Iraq War = 이라크 전쟁
+  Kofi Annan = 코피 아난
+  Saddam Hussein = 사담 후세인
+  Tony = 토니상
+  Tony Blair = 토니 블레어
+  United States = 미국
+  international law = 국제법
+  weapons of mass destruction = 대량 살상 무기
+ENTRY:
+First stage of the [[Iraq War]], a military invasion led by a coalition headed by the United States. Begun on March 20, 2003, it was conducted mainly by American, British, Australian and Polish troops and lasted just over one month, including 26 days of major combat. [[Baghdad]] was captured on April 9, and [[Saddam Hussein]] was captured in December. [[George W. Bush]] and [[Tony Blair]] said the aim was to disarm Iraq of weapons of mass destruction, though UN inspectors had found no evidence of such weapons. In 2004 UN secretary-general [[Kofi Annan]] called the invasion illegal under international law.
+
+=== KEY: 2004_Indian_Ocean_earthquake_and_tsunami_b5e7ac
+HEADWORD: 2004 Indian Ocean earthquake and tsunami = 2004년 인도양 지진 해일
+LEVEL: 4
+GLOSSARY:
+  Aceh = 아체
+  Boxing = 권투
+  Boxing Day = 박싱 데이
+  Commonwealth = 영연방
+  India = 인도
+  Indian Ocean = 인도양
+  Indian Ocean Tsunami Warning System = 인도양 쓰나미 경보 시스템
+  Indonesia = 인도네시아
+  Lanka = 랑카
+  Megathrust earthquake = 거대 역단층 지진
+  Ocean = 대양
+  Sri Lanka = 스리랑카
+  Sumatra = 수마트라섬
+  Tamil = 타밀어
+  Tamil Nadu = 타밀나두주
+  Thailand = 태국
+  Tsunami = 쓰나미
+ENTRY:
+[[Megathrust earthquake|Megathrust]] earthquake off [[Sumatra]], Indonesia, and the tsunami it generated across the Indian Ocean. The magnitude 9.1 to 9.3 quake struck at 7:58 a.m. local time on December 26, 2004. Waves up to 30 meters high hit coasts in 14 countries, killing an estimated 227,898 people, especially in [[Aceh]], [[Sri Lanka]], [[Tamil Nadu]] in India and Thailand. Called the [[Boxing Day|Boxing Day]] tsunami in British and Commonwealth media, it was the deadliest tsunami in history. Its rupture, 1,200 to 1,300 kilometers long, was the longest ever observed. The disaster prompted the establishment of the Indian Ocean Tsunami Warning System, and donations exceeded $14 billion.
+
+=== KEY: 2008_Mumbai_attacks_258cb9
+HEADWORD: 2008 Mumbai attacks = 2008년 뭄바이 테러
+LEVEL: 5
+GLOSSARY:
+  Ajmal Kasab = 아즈말 카사브
+  Grenade = 수류탄
+  Intelligence = 지능
+  Inter-Services Intelligence = 파키스탄 정보부
+  Islamist = 이슬람주의
+  Karachi = 카라치
+  Lashkar-e-Taiba = 라슈카르에타이바
+  Mumbai = 뭄바이
+  Pakistan = 파키스탄
+  South Mumbai = 사우스 뭄바이
+ENTRY:
+Coordinated Islamist terrorist assaults by ten members of Lashkar-e-Taiba, carried out from November 26 to 29, 2008. Gunmen and [[Grenade|grenades]] attacked hotels, a railway terminus, a hospital and a cafe in South Mumbai, and 175 people died, including nine attackers. The attackers had sailed from [[Karachi]], [[Pakistan]]. The sole surviving attacker, Ajmal Kasab, was convicted and executed in 2012. Investigators pointed to rogue officials in Pakistan's army and Inter-Services Intelligence, and in 2021–22 Lashkar-e-Taiba leaders were convicted of terror financing in Pakistan.
+
+=== KEY: 2008_financial_crisis_109a94
+HEADWORD: 2008 financial crisis = 2008년 금융 위기
+LEVEL: 4
+GLOSSARY:
+  Derivative (finance) = 파생 상품
+  Frank = 프랭크
+  Great Recession = 대침체
+  Iceland = 아이슬란드
+  Lehman Brothers = 리먼 브러더스
+  Real estate = 부동산
+  Troubled Asset Relief Program = 부실 자산 구제 프로그램
+  eurozone = 유로존
+  mortgage-backed securities = 주택 저당 증권
+  subprime loans = 서브프라임 대출
+ENTRY:
+Global financial crisis centered on U.S. mortgage-backed securities, 2007–09. Mortgage-backed securities (MBS) tied to U.S. [[Real estate|real estate]] and related [[Derivative (finance)|derivatives]] collapsed in value from 2007, and the liquidity crisis spread to global institutions by mid-2007. The bankruptcy of Lehman Brothers in September 2008 triggered a stock market crash and bank runs in several countries. The crisis deepened the [[Great Recession]] and contributed to crises in Iceland and the eurozone. It followed lending to low-income borrowers with high-risk subprime loans, which regulators largely did not police. Governments responded with bailouts, including the $700 billion Troubled Asset Relief Program. Some 8.7 million U.S. jobs were lost. The Dodd–Frank Act of 2010 overhauled U.S. financial regulation, and it was weakened in 2018.
+
+=== KEY: 2011_Norway_attacks_2cf8a9
+HEADWORD: 2011 Norway attacks = 2011년 노르웨이 테러
+LEVEL: 5
+GLOSSARY:
+  Anders Behring Breivik = 안데르스 베링 브레이비크
+  Norway = 노르웨이
+  Oslo = 오슬로
+  Utøya = 우퇴위아섬
+  Workers' Youth League = 노동자 청년 동맹
+  World = 세계
+  World War II = 제2차 세계 대전
+  Youth = 『청년 시절』
+  Youth League = 청년 연맹
+  preventive detention = 예방 구금
+ENTRY:
+Domestic terrorist attacks in [[Norway]] on July 22, 2011. Far-right extremist [[Anders Behring Breivik]] detonated a car bomb in [[Oslo]]'s government quarter, killing eight people, then about two hours later shot 69 people at a Workers' Youth League summer camp on the island of Utøya. The 77 deaths made it the deadliest attack in Norway since [[World War II]]. In 2012 Breivik was convicted of both attacks and sentenced to 21 years of preventive detention, the maximum penalty in Norway, with possible indefinite five-year extensions.
+
+=== KEY: 2011_T_hoku_earthquake_and_tsunami_8d46e0
+HEADWORD: 2011 Tōhoku earthquake and tsunami = 동일본 대지진
+LEVEL: 5
+GLOSSARY:
+  Fukushima = 후쿠시마
+  Fukushima Daiichi = 후쿠시마 제1 원자력 발전소
+  Iwate Prefecture = 이와테현
+  Japan = 일본
+  Megathrust earthquake = 거대 역단층 지진
+  Miyako = 미야코
+  Tsunami = 쓰나미
+  moment magnitude = 모멘트 규모
+ENTRY:
+Undersea [[Megathrust earthquake|megathrust earthquake]] and [[Tsunami|tsunami]] off Japan's northeast coast, March 11, 2011. At moment magnitude 9.0–9.1 it was the most powerful earthquake recorded in Japan and the fourth most powerful in the world since 1900. Waves may have reached 40.5 m (133 ft) at Miyako, Iwate Prefecture. Official figures from 2021 reported 19,759 deaths and 2,553 missing. The tsunami caused meltdowns at three reactors of the Fukushima Daiichi nuclear plant. Economic damage was estimated at over $300 billion, the costliest natural disaster in history.
+
+=== KEY: 2020_Beirut_explosion_729229
+HEADWORD: 2020 Beirut explosion = 2020년 베이루트 폭발 사고
+LEVEL: 5
+GLOSSARY:
+  Ammonium nitrate = 질산 암모늄
+  Beirut = 베이루트
+  Cargo ship = 화물선
+  Hassan Diab = 하산 디아브
+  Lebanon = 레바논
+  MV Rhosus = 로수스호
+  Prime = 프라임
+  ammonium nitrate = 질산암모늄
+ENTRY:
+Explosion of 2,750 tonnes of [[Ammonium nitrate|ammonium nitrate]] at the port of [[Beirut]], Lebanon, on August 4, 2020. The chemical had been confiscated in 2014 from the [[Cargo ship|cargo ship]] MV Rhosus and stored at the port for six years without adequate safety measures. A fire in a nearby warehouse ignited it. The blast killed at least 218 people, injured about 7,000, and displaced some 300,000. Estimated property damage reached US$15 billion, and Prime Minister Hassan Diab resigned on August 10.
+
+=== KEY: 2021_Myanmar_coup_d_tat_746eeb
+HEADWORD: 2021 Myanmar coup d'état = 2021년 미얀마 쿠데타
+LEVEL: 5
+GLOSSARY:
+  Aung San = 아웅산
+  Aung San Suu Kyi = 아웅산 수치
+  Coup d'état = 쿠데타
+  Democracy = 민주주의
+  Military = 군대
+  Min Aung Hlaing = 민 아웅 흘라잉
+  Myanmar = 미얀마
+  National League = 내셔널 리그
+  National League for Democracy = 민주주의 민족 동맹
+  Parliament = 의회
+  State Counsellor = 국가 고문
+  Tatmadaw = 땃마도
+  Win Myint = 윈 민
+ENTRY:
+Military seizure of power in [[Myanmar]] on February 1, 2021. The [[Coup d'état|coup]] by the Tatmadaw deposed the elected National League for Democracy government, detaining State Counsellor [[Aung San Suu Kyi]] and President Win Myint the day before the new Parliament was to convene. The military declared the November 2020 election results invalid and transferred power to Min Aung Hlaing. Armed resistance led to a civil war, and reported deaths reached at least 50,000 by March 2024. Independent analysts regarded the charges against Aung San Suu Kyi as an attempt to legitimize the seizure of power.
+
+=== KEY: 20th_Century_Studios_d71231
+HEADWORD: 20th Century Studios = 20세기 스튜디오
+LEVEL: 5
+GLOSSARY:
+  Avatar = 「아바타」
+  Disney = 디즈니
+  Film = 영화
+  Fox = 폭스
+  Fox Corporation = 폭스 코퍼레이션
+  Fox Film Corporation = 폭스 필름
+  Golden Age = 황금기
+  Hollywood's Golden Age = 할리우드 황금기
+  Music = 음악
+  News = 뉴스
+  News Corporation = 뉴스 코퍼레이션
+  Rupert Murdoch = 루퍼트 머독
+  Sound = 소리
+  The Sound of Music = 「사운드 오브 뮤직」
+  The Walt Disney Company = 월트 디즈니 컴퍼니
+  Titanic = 「타이타닉」
+  Twentieth Century Pictures = 20세기 픽처스
+  Twentieth Century-Fox = 20세기 폭스
+  Walt Disney = 월트 디즈니
+  Walt Disney Company = 월트 디즈니 컴퍼니
+ENTRY:
+American film production and distribution studio owned by [[The Walt Disney Company]]. Founded in 1935 as Twentieth Century-Fox through the merger of Fox Film Corporation and Twentieth Century Pictures, it was one of the major studios of Hollywood's Golden Age. [[Rupert Murdoch]]'s News Corporation acquired it in 1985. Disney bought most of 21st Century Fox's assets in 2019, and the studio took its current name in January 2020 to avoid confusion with Fox Corporation. Its library includes *The Sound of Music*, *Titanic* and *Avatar*.
+
+=== KEY: 20th_century_classical_music_8cf88b
+HEADWORD: 20th-century classical music = 20세기 클래식 음악
+LEVEL: 4
+GLOSSARY:
+  Alban Berg = 알반 베르크
+  Anton Webern = 안톤 베베른
+  Arnold = 아르놀트
+  Arnold Schoenberg = 아르놀트 쇤베르크
+  Claude = 클로드
+  Claude Debussy = 클로드 드뷔시
+  France = 프랑스
+  Gustav Mahler = 구스타프 말러
+  Igor Stravinsky = 이고리 스트라빈스키
+  Impressionism = 인상주의
+  Jazz = 재즈
+  Mahler = 말러
+  Maurice Ravel = 모리스 라벨
+  Minimalism = 미니멀리즘
+  Richard = 리처드
+  Richard Strauss = 리하르트 슈트라우스
+  Schoenberg = 쇤베르크
+  Sergei Prokofiev = 세르게이 프로코피예프
+  Serialism = 음렬주의
+  Stravinsky = 스트라빈스키
+  Vienna = 빈
+  World = 세계
+  World War I = 제1차 세계 대전
+  aleatory = 우연성 음악
+  art music = 예술 음악
+  atonality = 무조성
+  electronic music = 전자 음악
+  musique concrète = 구체 음악
+  neoclassical = 신고전주의
+  twelve-tone technique = 12음 기법
+ENTRY:
+Western art music composed from 1901 to 2000. The century had no dominant style. [[Claude Debussy]] led Impressionism in France, while Gustav Mahler and Richard Strauss extended post-Romantic symphonic writing. In Vienna, [[Arnold Schoenberg]] developed atonality and then the twelve-tone technique, which his followers Alban Berg and Anton Webern extended. After World War I, [[Igor Stravinsky]], [[Sergei Prokofiev]] and [[Maurice Ravel]] wrote neoclassical works that drew on earlier forms. Serialism, electronic music, *musique concrète* and aleatory techniques were all developed during the century. [[Minimalism]] emerged later, and [[Jazz|jazz]] and folk music became important influences on many composers.
+
+=== KEY: 24_Hours_of_Le_Mans_dabb81
+HEADWORD: 24 Hours of Le Mans = 르망 24시
+LEVEL: 5
+GLOSSARY:
+  Automobile Club de l'Ouest = 서부 자동차 클럽
+  Circuit de la Sarthe = 사르트 서킷
+  Endurance = 인듀어런스호
+  FIA World Endurance Championship = FIA 세계 내구 선수권
+  France = 프랑스
+  Le Mans = 르망
+  World = 세계
+  World Endurance Championship = FIA 세계 내구 선수권
+  chicanes = 시케인
+ENTRY:
+Annual endurance sports car race held near Le Mans, France. First run in 1923, it is the oldest active endurance racing event in the world. Unlike fixed-distance races, the winner is the car that covers the greatest distance in 24 hours. The Automobile Club de l'Ouest organizes the race on the Circuit de la Sarthe, which combines closed public roads with racing track sections. It is part of the FIA World Endurance Championship. In 1988 a car reached 407 km/h (253 mph) on the main straight, which led to added chicanes.
+
+=== KEY: 24_TV_series_f08b16
+HEADWORD: 24 = 24
+LEVEL: 5
+GLOSSARY:
+  Fox = 폭스
+  Jack Bauer = 잭 바워
+  Joel = 조엘
+  Joel Surnow = 조엘 서노
+  Kiefer Sutherland = 키퍼 서덜랜드
+  Muslims = 무슬림
+  Robert Cochran = 로버트 코크런
+  Torture = 고문
+ENTRY:
+American counterterrorism thriller television series, 2001–14. Created by Joel Surnow and Robert Cochran for Fox, it stars [[Kiefer Sutherland]] as federal agent Jack Bauer. Each season covers 24 consecutive hours in real time, shown with split screens and an on-screen clock. The series ran 204 episodes, including the 2014 limited series *24: Live Another Day*. Critics objected to its depictions of [[Torture|torture]] and its portrayal of Muslims.
+
+=== KEY: 24_hour_clock_386673
+HEADWORD: 24-hour clock = 24시간제
+LEVEL: 5
+GLOSSARY:
+  12-hour clock = 12시간제
+  24-hour clock = 24시간제
+  ISO 8601 = ISO 8601
+  Medicine = 의학
+  United States = 미국
+ENTRY:
+Timekeeping convention dividing the day into 24 hours from midnight to midnight. Times run from 00:00 to 23:59. It is the most commonly used time notation in the world and the format of the international standard ISO 8601. Many English-speaking countries, including the [[United States]], generally use the [[12-hour clock]]. In [[Medicine|medicine]], the 24-hour clock is generally used because it avoids ambiguity about when events occurred. The notation 24:00 marks the exact end of a day.
+
+=== KEY: 3C_273_631b75
+HEADWORD: 3C 273 = 3C 273
+LEVEL: 4
+GLOSSARY:
+  Active galactic nucleus = 활동은하핵
+  Hubble = 허블
+  Hubble Space Telescope = 허블 우주 망원경
+  Light-year = 광년
+  Space = 공간
+  Supermassive black hole = 초대질량 블랙홀
+  Telescope = 망원경
+  Virgo = 처녀자리
+  apparent magnitude = 겉보기 등급
+  black hole = 블랙홀
+  giant elliptical = 거대 타원 은하
+  giant elliptical galaxy = 거대 타원 은하
+  quasar = 퀘이사
+  solar masses = 태양 질량
+  supermassive black hole = 초대질량 블랙홀
+  synchrotron radiation = 싱크로트론 복사
+ENTRY:
+Bright quasar in the constellation Virgo, identified in 1963 as the first quasar. It is the visually brightest quasar in the sky, with an apparent magnitude of 12.9, and lies about 2.4 billion [[Light-year|light-years]] away. Its central [[Supermassive black hole|supermassive black hole]] has a mass of roughly 900 million solar masses. The quasar is a prototype of an [[Active galactic nucleus]], powered by material falling onto that black hole. It lies at the center of a giant elliptical galaxy. Its jet, about 200,000 light-years long, was imaged by the [[Hubble Space Telescope]] and emits synchrotron radiation from relativistic particles. Its luminosity varies at nearly every wavelength.
+
+=== KEY: 3D_printing_8c7694
+HEADWORD: 3D printing = 3D 프린팅
+LEVEL: 5
+GLOSSARY:
+  Construction = 건설
+  Fused deposition modeling = 융합 적층 모델링
+  thermoplastic = 열가소성 수지
+ENTRY:
+Construction of three-dimensional objects from digital models by adding material, usually layer by layer. Material is deposited, joined or solidified under computer control. In the 1980s the techniques were used mainly for prototypes, and by 2019 some processes had become viable for industrial production. Complex shapes, including hollow parts and internal lattices that reduce weight, can be made that would be impractical by hand. Fused deposition modeling (FDM), which extrudes a thermoplastic filament, was the most common process as of 2020.
+
+=== KEY: 4_Vesta_50c750
+HEADWORD: Vesta = 베스타
+LEVEL: 5
+GLOSSARY:
+  Asteroid belt = 소행성대
+  Ceres (dwarf planet) = 세레스
+  Dawn = 돈
+  Earth = 지구
+  Heinrich Wilhelm Matthias Olbers = 하인리히 빌헬름 마티아스 올베르스
+  NASA = 미국 항공 우주국
+  Wilhelm = 빌헬름
+  asteroid belt = 소행성대
+ENTRY:
+Second-largest object in the [[Asteroid belt|asteroid belt]], after [[Ceres (dwarf planet)|Ceres]]. Discovered by Heinrich Wilhelm Matthias Olbers on March 29, 1807, it has a mean diameter of 523 km (325 mi) and makes up about 9% of the belt's mass. It is the brightest asteroid visible from Earth. [[NASA]]'s Dawn spacecraft orbited it from July 2011 to September 2012. Meteorites from its surface, the howardite–eucrite–diogenite (HED) group, have fallen to Earth.
+
+=== KEY: 4chan_0a64c8
+HEADWORD: 4chan = 포챈
+LEVEL: 5
+GLOSSARY:
+  Anime = 애니메이션
+  Anonymous = 어나니머스
+  Futaba Channel = 후타바 채널
+  Internet meme = 인터넷 밈
+  Rickrolling = 릭롤링
+  hacktivist = 핵티비스트
+  imageboard = 이미지보드
+  lolcats = 롤캣
+ENTRY:
+Anonymous English-language imageboard website founded in October 2003. Created by Christopher "moot" Poole as a counterpart to the Japanese Futaba Channel, it hosts boards on topics from [[Anime|anime]] to video games and politics. Users typically post without registration, and threads are ephemeral. The site had more than 22 million unique monthly visitors as of 2022. It helped popularize [[Internet meme|memes]] such as lolcats and [[Rickrolling]], and it has been influential in hacktivist movements such as Anonymous. Its lax moderation has made it a focus of controversy over harassment and illegal content.

@@ -1,0 +1,953 @@
+=== KEY: Inner_product_space_7af23a
+HEADWORD: Inner product space = 내적 공간
+LEVEL: 5
+GLOSSARY:
+  Dot product = 스칼라곱
+  Functional analysis = 함수해석학
+  Giuseppe Peano = 주세페 페아노
+  Hilbert = 힐베르트
+  Hilbert space = 힐베르트 공간
+  Peano = 페아노
+  Vector space = 벡터 공간
+  complex numbers = 복소수
+  dot product = 스칼라곱
+  inner product = 내적
+  normed vector space = 노름 공간
+  orthogonality = 직교성
+  unitary spaces = 유니터리 공간
+  vector space = 벡터 공간
+ENTRY:
+Vector space equipped with an inner product, a generalization of the [[Dot product|dot product]]. The inner product defines lengths, angles and orthogonality, and it induces a norm, so every inner product space is a normed vector space. If the space is also complete, it is a [[Hilbert space]]. Spaces over the complex numbers are sometimes called unitary spaces. Infinite-dimensional inner product spaces are widely used in [[Functional analysis]]. The concept was first used by Giuseppe Peano in 1898.
+
+=== KEY: Inorganic_chemistry_22110c
+HEADWORD: Inorganic chemistry = 무기 화학
+LEVEL: 3
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Ammonium nitrate = 질산 암모늄
+  Bosch = 보쉬
+  Branch = 브랜치
+  Carl Bosch = 카를 보슈
+  Chemistry = 화학
+  Fritz Haber = 프리츠 하버
+  Haber process = 하버법
+  Hemoglobin = 헤모글로빈
+  Iron = 철
+  Nobel Prize = 노벨상
+  Nobel Prize in Chemistry = 노벨 화학상
+  Organic chemistry = 유기 화학
+  Organometallic chemistry = 유기 금속 화학
+  Portland = 포틀랜드
+  Portland cement = 포틀랜드 시멘트
+  Pyrite = 황철석
+  Sodium chloride = 염화 나트륨
+  Sulfuric acid = 황산
+  bioinorganic = 생무기 화학
+  coordination compounds = 배위 화합물
+  ionic compounds = 이온 화합물
+  iron sulfide = 황화 철
+  ligands = 리간드
+  lone pairs = 비공유 전자쌍
+  sodium chloride = 염화 나트륨
+  solid-state chemistry = 고체 화학
+  sulfuric acid = 황산
+ENTRY:
+Branch of chemistry that studies the preparation, properties, and behavior of inorganic and organometallic compounds, mainly those not based on carbon.
+
+Unlike [[Organic chemistry]], it deals chiefly with non-carbon compounds, though the fields overlap, especially in [[Organometallic chemistry|organometallic chemistry]]. Its products are used in catalysts, materials, paints and pigments, coatings, medicines, fuels, and agriculture. Many inorganic compounds occur as minerals, such as iron sulfide as [[Pyrite|pyrite]]; others serve as biomolecules, such as the electrolyte [[Sodium chloride|sodium chloride]], ATP, and the polyphosphate backbone of DNA.
+
+Compounds may be ionic, as in magnesium chloride (MgCl₂), which contains Mg²⁺ and Cl⁻ ions; covalent; or polar covalent, common in oxides, carbonates, and halides. Many have high melting points, and some ionic compounds, such as NaCl, dissolve easily in water. Subdivisions include organometallic, cluster, bioinorganic, materials, and solid-state chemistry.
+
+Classical coordination compounds feature metals bound to lone pairs on ligands such as H₂O, NH₃, Cl⁻, and CN⁻. Structures range from tetrahedral for titanium to square planar for some nickel complexes and octahedral for cobalt complexes. Iron in [[Hemoglobin|hemoglobin]] is one biologically important example. Alfred Werner's coordination theory earned him the 1913 Nobel Prize in Chemistry.
+
+The field is highly practical. Traditionally, a nation's economic scale could be gauged by its output of [[Sulfuric acid|sulfuric acid]]. Ammonium nitrate fertilizer depends on ammonia from the [[Haber process]], whose practical synthesis with iron catalysts was achieved by Carl Bosch and [[Fritz Haber]] in the early 1900s. Portland cement is another large-scale inorganic material, and vanadium(V) oxide and titanium(III) chloride serve as industrial catalysts.
+
+=== KEY: Inorganic_compound_2f1e3c
+HEADWORD: Inorganic compound = 무기 화합물
+LEVEL: 4
+GLOSSARY:
+  Carbon = 탄소
+  Carbon dioxide = 이산화 탄소
+  Chemical compound = 화합물
+  Earth's crust = 지각
+  Friedrich Wöhler = 프리드리히 뵐러
+  IUPAC = 국제 순수·응용 화학 연합
+  Inorganic chemistry = 무기 화학
+  Urea = 요소
+  allotropes = 동소체
+  ammonium cyanate = 사이안산 암모늄
+  carbon monoxide = 일산화 탄소
+  hydrogen bonds = 수소 결합
+ENTRY:
+Chemical compound that lacks carbon–hydrogen bonds. The study of inorganic compounds is a subfield known as [[Inorganic chemistry]]. Inorganic compounds comprise most of the [[Earth's crust|Earth's crust]], and all allotropes of carbon, such as graphite and diamond, are often considered inorganic. Simple carbon compounds such as [[Carbon dioxide]], carbon monoxide, carbonates and cyanides are also often considered inorganic. Many of these compounds occur normally within organisms, and describing a chemical as inorganic does not mean it cannot occur in living things. In 1828 Friedrich Wöhler converted ammonium cyanate into [[Urea]], an event often cited as the starting point of modern organic chemistry. IUPAC does not offer a definition of the term.
+
+=== KEY: Inquisition_96d107
+HEADWORD: Inquisition = 종교 재판
+LEVEL: 4
+GLOSSARY:
+  Cathars = 카타리파
+  Catholic = 가톨릭
+  Christianity = 기독교
+  Counter-Reformation = 반종교 개혁
+  Dominican = 도미니코회
+  Dominican Order = 도미니코회
+  France = 프랑스
+  Jews = 유대인
+  Muslims = 무슬림
+  Papal States = 교황령
+  Portuguese inquisitions = 포르투갈 종교 재판
+  Reformation = 종교 개혁
+  Spanish Inquisition = 스페인 종교 재판
+  Waldensians = 발도파
+  Witchcraft = 주술
+  apostasy = 배교
+  conversos = 콘베르소
+  moriscos = 모리스코
+ENTRY:
+Catholic judicial procedure, and the tribunals that used it, to combat heresy and related offenses. The name came to denote medieval and Reformation-era state-organized tribunals targeting heresy, apostasy, blasphemy, [[Witchcraft]] and customs considered deviant. Inquisitions began in 12th-century France against the Cathars and Waldensians. From the 1250s, inquisitors were generally chosen from the Dominican Order rather than local clergy. The [[Spanish Inquisition|Spanish]] and Portuguese inquisitions often focused on conversos, former [[Jews|Jews]] who had converted to Christianity, and moriscos, [[Muslims|Muslims]] who had been forced to convert. Inquisitions used violence, isolation and torture, or the threat of torture, to extract confessions. After the [[Reformation]], the [[Counter-Reformation]] expanded the inquisitions. Apart from the [[Papal States]], inquisition courts were abolished in the early 19th century.
+
+=== KEY: Insect_960c08
+HEADWORD: Insect = 곤충
+LEVEL: 3
+GLOSSARY:
+  Arthropoda = 절지동물문
+  Coleoptera = 딱정벌레목
+  Diptera = 파리목
+  Flowering plant = 속씨식물
+  Fossil = 화석
+  Hemiptera = 노린재목
+  Honey bee = 꿀벌
+  Human = 인간
+  Hymenoptera = 벌목
+  Insecta = 곤충강
+  Invertebrate = 무척추동물
+  Latin = 라틴어
+  Lepidoptera = 나비목
+  Metamorphosis = 변태
+  Paleozoic = 고생대
+  Pheromone = 페로몬
+  Pliny = 플리니우스
+  Pliny the Elder = 대플리니우스
+  Termite = 흰개미
+  compound eyes = 겹눈
+  flowering plants = 속씨식물
+  nymphal = 약충
+  pupa = 번데기
+  stridulate = 마찰음을 내다
+  ventral nerve cord = 배쪽 신경삭
+ENTRY:
+Invertebrate class (Insecta) of the phylum Arthropoda, the most diverse group of animals.
+
+Insects have an exoskeleton, a body of head, thorax, and abdomen, three pairs of jointed legs, compound eyes, and a pair of antennae. More than a million species have been described, over half of all animal species; about 5.5 million may exist. The orders Hemiptera, Lepidoptera, Diptera, Hymenoptera, and Coleoptera each have more than 100,000 described species. The name comes from Latin *insectum*, "cut up", introduced by [[Pliny the Elder]] as a translation of Aristotle's Greek term.
+
+The nervous system consists of a brain and a ventral nerve cord. Insects breathe through paired openings along their sides connected to small tubes, so the blood does not carry oxygen. Most lay eggs, and growth involves a series of molts. Four-stage [[Metamorphosis|metamorphosis]] includes a nearly immobile pupa; three-stage metamorphosis lacks one, and young develop through nymphal stages. Insects are the only invertebrates capable of sustained powered flight, which evolved just once. Bees, ants, and [[Termite|termites]] live in large colonies. Male moths sense the [[Pheromone|pheromones]] of females over great distances, and crickets stridulate to attract mates.
+
+Fossil insects from the [[Paleozoic]] include dragonfly-like forms with wingspans of 55 to 70 cm. The most diverse groups appear to have coevolved with [[Flowering plant|flowering plants]]. Many insects are crop pests, parasites, or disease vectors, but pollinators are essential to many plants' reproduction, and many insects prey on pests. Silkworms and the [[Honey bee|honey bee]] were domesticated for silk and honey. Insects are eaten in 80% of the world's nations, by roughly 3,000 ethnic groups. Human activities are seriously affecting insect biodiversity.
+
+=== KEY: Insomnia_866d81
+HEADWORD: Insomnia = 불면증
+LEVEL: 5
+GLOSSARY:
+  Caffeine = 카페인
+  Cognitive behavioral therapy = 인지 행동 치료
+  Heart = 심장
+  Heart failure = 심부전
+  Nicotine = 니코틴
+  Pain = 통증
+  Sleep = 수면
+  Sleep disorder = 수면 장애
+ENTRY:
+[[Sleep disorder]] causing difficulty falling asleep or staying asleep for as long as desired. It is typically followed by daytime sleepiness, low energy, irritability and depressed mood. Chronic insomnia involves at least three episodes per week for at least three months. It can result from [[Pain|chronic pain]], [[Heart failure]], psychological stress, or the use of [[Caffeine]], [[Nicotine]] and alcohol. Cognitive behavioral therapy is considered the first-line treatment, and sleeping pills are usually not recommended for more than four or five weeks. Between 10% and 30% of adults have insomnia at any given point in time. Women and people over 65 are affected more often.
+
+=== KEY: Instagram_55f015
+HEADWORD: Instagram = 인스타그램
+LEVEL: 5
+GLOSSARY:
+  Burbn = 버븐
+  Facebook = 페이스북
+  Instagram = 인스타그램
+  Meta = 메타
+  Meta Platforms = 메타 플랫폼스
+  San Francisco = 샌프란시스코
+  Stories = 스토리
+  iOS = iOS
+ENTRY:
+Photo and short-form video sharing social networking service owned by Meta Platforms. Development began in [[San Francisco]] as Burbn, a check-in app, before it was refocused on photo sharing and renamed Instagram, a blend of "instant camera" and "telegram." It launched for iOS in October 2010, and [[Facebook]] acquired it in April 2012 for approximately US$1 billion in cash and stock. Early posts were limited to a square format, a restriction raised to 1080 pixels in 2015. As of January 2019, Stories was used by 500 million people daily. The service supports 33 languages.
+
+=== KEY: Instinct_b9df69
+HEADWORD: Instinct = 본능
+LEVEL: 4
+GLOSSARY:
+  Jean Henri Fabre = 장 앙리 파브르
+  Marsupial = 유대류
+  Reflex = 반사
+  Sea turtle = 바다거북
+  fixed action pattern = 고정 행동 패턴
+ENTRY:
+Inherent inclination of a living organism toward a particular complex behavior, containing innate elements. Any behavior performed without prior experience is instinctive, and every animal has instincts, including humans. Examples include newly hatched [[Sea turtle|sea turtles]] moving toward the ocean, a [[Marsupial]] climbing into its mother's pouch at birth, animal courtship, and nest building. The simplest instinctive behavior is a fixed action pattern, a short sequence of actions carried out without variation in response to a clearly defined stimulus. Instincts differ from [[Reflex|reflexes]], which are simple responses to a specific stimulus. Although their innate characteristics are invariant, experience can change the details of their performance. Jean Henri Fabre regarded instincts as fixed patterns that do not change in novel situations.
+
+=== KEY: Institution_d47ce2
+HEADWORD: Institution = 제도
+LEVEL: 4
+GLOSSARY:
+  Anthropology = 인류학
+  Family = 가족
+  Money = 화폐
+  Political science = 정치학
+  Sociology = 사회학
+  meta-institutions = 메타 제도
+  principal = 원금
+  Émile Durkheim = 에밀 뒤르켐
+ENTRY:
+Humanly devised structure of rules and norms that shape and constrain social behavior. All definitions entail a level of persistence and continuity, and institutions range from formal laws and rules to informal social conventions. Primary or meta-institutions, such as the [[Family]] or [[Money]], are broad enough to encompass sets of related institutions. Institutions are a principal object of study in [[Political science]], [[Anthropology]], economics and [[Sociology]], which [[Émile Durkheim]] described as the "science of institutions, their genesis and their functioning." Definitions vary in formality: broad ones include informal practices such as handshakes, while narrow ones require formal laws and complex organizational structures. Institutions have been described as the social science equivalent of theories in the natural sciences.
+
+=== KEY: Instrumentation_d72da0
+HEADWORD: Instrumentation = 계측
+LEVEL: 4
+GLOSSARY:
+  ANSI = ANSI
+  Automation = 자동화
+  Control = 「Control」
+  Control theory = 제어 이론
+  Metrology = 계측학
+  PID = PID
+  Pneumatic transmitters = 공압 전송기
+  Thermometer = 온도계
+  Transistor = 트랜지스터
+ENTRY:
+Collective term for measuring instruments used to indicate, measure and record physical quantities. It is also the field of making such instruments, which involves [[Metrology]], [[Automation]] and [[Control theory]]. Instruments range from simple direct-reading [[Thermometer|thermometers]] to multi-sensor components of industrial control systems, and are found in laboratories, refineries, factories, vehicles and homes. They measure parameters including pressure, flow, temperature, humidity, density, viscosity, frequency, voltage and position. Pneumatic transmitters and automatic 3-term (PID) controllers were introduced in the early 1930s, with a signal of 3 to 15 psi as the typical standard. Transistor electronics later allowed wiring to replace pipes, and the 4–20 mA signal was eventually standardized as ANSI/ISA S50.
+
+=== KEY: Insulin_38ef85
+HEADWORD: Insulin = 인슐린
+LEVEL: 4
+GLOSSARY:
+  Charles Best = 찰스 베스트
+  Diabetes = 당뇨병
+  Frederick = 프리드리히
+  Frederick Banting = 프레더릭 밴팅
+  Frederick Sanger = 프레더릭 생어
+  Glucagon = 글루카곤
+  Glucose = 포도당
+  Pancreas = 이자
+  Peptide = 펩타이드
+  Toronto = 토론토
+  University = 대학
+  University of Toronto = 토론토 대학교
+  alpha cells = 알파세포
+  anabolic hormone = 동화 호르몬
+  beta cells = 베타세포
+  glycogen = 글리코겐
+  insulin resistance = 인슐린 저항성
+  pancreatic islets = 이자섬
+  skeletal muscle = 골격근
+  type 1 diabetes = 제1형 당뇨병
+  type 2 diabetes = 제2형 당뇨병
+ENTRY:
+Peptide hormone produced by beta cells of the [[Pancreas|pancreatic]] islets. It is the main anabolic hormone of the body, regulating the metabolism of carbohydrates, fats and protein. It promotes the absorption of [[Glucose]] from the blood into the liver, fat and skeletal muscle, where glucose is converted into glycogen or fat, and it lowers blood sugar. Glucagon from neighboring alpha cells opposes it. Decreased or absent insulin activity causes [[Diabetes]]. In type 1 diabetes, beta cells are destroyed by an autoimmune reaction, while type 2 diabetes involves reduced beta-cell function and insulin resistance in peripheral tissues. Frederick Banting and Charles Best isolated insulin from dog pancreas at the [[University of Toronto]] in 1921. [[Frederick Sanger]] sequenced it in 1951, making insulin the first protein to be fully sequenced.
+
+=== KEY: Insurance_eaff1b
+HEADWORD: Insurance = 보험
+LEVEL: 3
+GLOSSARY:
+  Belgium = 벨기에
+  Digesta = 『학설휘찬』
+  Fire = 불
+  Genoa = 제노바
+  Great Fire of London = 런던 대화재
+  Insurance = 보험
+  Insurance Office for Houses = 주택 보험 사무소
+  Justinian = 유스티니아누스
+  Justinian I = 유스티니아누스 1세
+  Law of large numbers = 큰 수의 법칙
+  Lex Rhodia = 로도스 해법
+  London = 런던
+  Nicholas Barbon = 니컬러스 바번
+  Office = 성무일도
+  Property = 재산
+  Rhodes = 로도스섬
+  Royal Exchange = 왕립 거래소
+  William = 윌리엄
+  William Gibbons = 윌리엄 기번스
+  claims adjuster = 손해 사정인
+  general average = 공동 해손
+  insurable interest = 피보험 이익
+  marine insurance = 해상 보험
+  moral hazard = 도덕적 해이
+  premium = 보험료
+  risk management = 위험 관리
+ENTRY:
+Means of protection from financial loss in which, for a fee, one party agrees to compensate another for a certain loss, damage, or injury.
+
+A form of risk management, it protects against contingent or uncertain loss. The insurer issues a policy detailing when it will compensate the insured or a designated beneficiary. The policyholder pays a premium, accepting a small known loss for the promise of compensation, usually for something in which the insured has an insurable interest. After a loss, the insured submits a claim, processed by a claims adjuster. Insurers rely on the [[Law of large numbers|law of large numbers]] to forecast aggregate losses.
+
+The Lex Rhodia, the general average principle of marine insurance, was established on [[Rhodes]] in approximately 1000 to 800 BC and preserved in the *Digesta* ordered by [[Justinian I]] in 533. Direct insurance of sea risks for a premium began in [[Belgium]] about 1300 AD, and separate insurance contracts were invented in [[Genoa]] in the 14th century; the first known dates from 1347. The earliest known life insurance policy was made at the Royal Exchange, [[London]], on June 18, 1583, for £383, 6s. 8d. on the life of William Gibbons.
+
+Property insurance can be traced to the [[Great Fire of London]] in 1666, which destroyed more than 13,000 houses. In 1681 Nicholas Barbon and eleven associates established the first fire insurance company, the "Insurance Office for Houses". Insurance faces moral hazard, in which insured parties may take more risks, and insurer insolvency during correlated losses; regulation enforces solvency, transparency, and fair practices.
+
+=== KEY: Insurgency_7649d8
+HEADWORD: Insurgency = 반란
+LEVEL: 4
+GLOSSARY:
+  American Civil War = 남북 전쟁
+  Angolan Civil War = 앙골라 내전
+  Cabinda = 카빈다
+  Civil War = 남북 전쟁
+  Confederate = 남부 연합
+  Confederate States = 아메리카 연합국
+  Confederate States of America = 아메리카 연합국
+  FLEC = 카빈다 해방 전선
+  MPLA = 앙골라 해방 인민 운동
+  Rural area = 농촌
+  Terrorism = 테러리즘
+  UNITA = 앙골라 완전 독립 민족 동맹
+  War = 전쟁
+  belligerent = 교전 단체
+  guerrilla warfare = 게릴라전
+ENTRY:
+Violent armed rebellion by small, lightly armed bands practicing guerrilla warfare against a larger authority. The conflict is asymmetric: insurgents avoid large-scale direct battles and blend into the civilian population, often in [[Rural area|rural areas]], to gradually expand territorial control. Because of this blending, insurgencies tend to involve considerable violence against civilians by both the state and the insurgents. An insurgency aims for political control rather than indiscriminate violence, which distinguishes it from [[Terrorism]], although it may incorporate terrorist tactics. Insurgencies can be multipolar: during the [[Angolan Civil War]] the main sides were the MPLA and UNITA, while the separatist FLEC movement sought independence for Cabinda. The Confederate States of America was not recognized as a sovereign state during the [[American Civil War]], but it was recognized as a belligerent power, so its revolt may not be viewed as an insurgency.
+
+=== KEY: Integer_a0faef
+HEADWORD: Integer = 정수
+LEVEL: 3
+GLOSSARY:
+  Abelian = 아벨
+  Abelian group = 아벨 군
+  Algebra = 대수학
+  Algèbre = 『대수학』
+  Cantor = 칸토어
+  David Hilbert = 다비트 힐베르트
+  Elements = 『원론』
+  Elements of Algebra = 『대수학 원론』
+  Euler = 오일러
+  Field (mathematics) = 체
+  Georg Cantor = 게오르크 칸토어
+  German = 독일어
+  Hilbert = 힐베르트
+  Latin = 라틴어
+  Leonhard Euler = 레온하르트 오일러
+  Natural number = 자연수
+  Number = 수
+  Rational number = 유리수
+  Ring (mathematics) = 환
+  Zahlen = Zahlen
+  commutative ring = 가환환
+  commutative ring with unity = 단위원을 갖는 가환환
+  countably infinite = 가산 무한
+  infinite cyclic group = 무한 순환군
+  integral domain = 정역
+  isomorphism = 동형 사상
+  multiplicative inverse = 곱셈 역원
+  natural numbers = 자연수
+  positive integers = 양의 정수
+  rational numbers = 유리수
+  set theory = 집합론
+  whole numbers = 음이 아닌 정수
+  zero divisors = 영인자
+ENTRY:
+Number that is zero, a positive natural number, or the negation of a positive natural number.
+
+The negations of the positive natural numbers (−1, −2, −3, ...) are the negative integers. The set of integers is denoted Z or ℤ, from the German *Zahlen*, "numbers", a usage attributed to [[David Hilbert]]. It contains the [[Natural number|natural numbers]] and lies within the [[Rational number|rational numbers]]. Like the natural numbers, it is countably infinite. The numbers 21, 4, 0, and −2048 are integers; 9.75, 5/4, and the square root of 2 are not.
+
+The word is Latin for "whole" or "untouched". Historically only positive integers were considered, and the definition widened as negative numbers proved useful. Negative numbers first appear in Chinese mathematics between 200 BC and 200 AD, and Indian texts of about the 7th century AD set rules for operating with them. [[Leonhard Euler]] defined integers to include negatives in his 1765 *Elements of Algebra*. The phrase "the set of the integers" was not used before the end of the 19th century, when [[Georg Cantor]] introduced set theory. The earliest known textbook use of Z is in Nicolas Bourbaki's *Algèbre* (1947). Whether "whole numbers" includes negatives remains ambiguous.
+
+The integers are closed under addition, multiplication, and subtraction, but not under division or exponentiation. Under addition they form an [[Abelian group]], the only infinite cyclic group up to isomorphism. With multiplication they form a commutative [[Ring (mathematics)|ring]] with unity, the smallest ring containing the natural numbers, and an integral domain because they lack zero divisors. They are not a [[Field (mathematics)|field]], since not every integer has a multiplicative inverse; the smallest field containing them is the rational numbers.
+
+=== KEY: Integral_4ea945
+HEADWORD: Integral = 적분
+LEVEL: 4
+GLOSSARY:
+  Bernhard Riemann = 베른하르트 리만
+  Derivative = 도함수
+  Fundamental theorem of calculus = 미적분학의 기본 정리
+  Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
+  Henri Lebesgue = 앙리 르베그
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Leibniz = 라이프니츠
+  Newton = 뉴턴
+  Riemann = 리만
+  Wilhelm = 빌헬름
+  antiderivative = 역도함수
+  definite integral = 정적분
+  indefinite integral = 부정적분
+ENTRY:
+Continuous analog of a sum, used to calculate areas, volumes and their generalizations. Integration, the process of computing an integral, is one of the two fundamental operations of calculus, along with [[Derivative|differentiation]]. A definite integral computes the signed area of the region bounded by a function's graph between two points, while an indefinite integral is an antiderivative. The [[Fundamental theorem of calculus|fundamental theorem of calculus]] relates the two operations and allows a definite integral to be computed from a known antiderivative. Integration was initially used to find areas under curves and displacement from velocity. [[Isaac Newton]] and [[Gottfried Wilhelm Leibniz]] formulated its principles independently in the late 17th century, and [[Bernhard Riemann]] later gave a rigorous definition. Henri Lebesgue generalized it in the early 20th century.
+
+=== KEY: Integrated_circuit_305ad8
+HEADWORD: Integrated circuit = 집적 회로
+LEVEL: 4
+GLOSSARY:
+  Computer = 컴퓨터
+  Integrated circuits = 집적 회로
+  Jack Kilby = 잭 킬비
+  Moore's law = 무어의 법칙
+  Progress = 『프로그레스』
+  Robert Noyce = 로버트 노이스
+  Semiconductor = 반도체
+  Silicon = 규소
+  Smartphone = 스마트폰
+  Transistor = 트랜지스터
+  discrete components = 개별 소자
+  photolithography = 포토리소그래피
+ENTRY:
+Compact assembly of electronic circuits, also called a microchip or chip, fabricated on a thin, flat piece of [[Semiconductor|semiconductor]] material, usually [[Silicon|silicon]]. Integrated circuits perform functions such as data processing, control, memory and power management in [[Computer|computers]], [[Smartphone|smartphones]] and televisions. Compared with circuits built from discrete components, they are smaller, faster, cheaper and more energy-efficient, because whole circuits are printed as a unit by photolithography. Their main disadvantage is the high initial cost of design and factory construction, so they are commercially viable only when high production volumes are anticipated. Progress has roughly followed [[Moore's law]]: a modern chip may hold many billions of [[Transistor|transistors]] in an area the size of a human fingernail. [[Jack Kilby]] conceived the idea in 1958, and Robert Noyce developed a silicon-based version in 1959.
+
+=== KEY: Integration_by_parts_ffc029
+HEADWORD: Integration by parts = 부분 적분
+LEVEL: 5
+GLOSSARY:
+  Brook Taylor = 브룩 테일러
+  Calculus = 미적분학
+  Sequence = 수열
+  product rule = 곱의 법칙
+  summation by parts = 부분 합산
+ENTRY:
+Technique of [[Calculus|calculus]] for integrating a product of two functions. It is derived from the product rule of differentiation and states that the integral of u dv equals uv minus the integral of v du. It is frequently used to transform an integral that is hard to evaluate into one that is easier to solve. Brook Taylor published the idea in 1715. The discrete analogue for [[Sequence|sequences]] is called summation by parts.
+
+=== KEY: Integumentary_system_02b0c2
+HEADWORD: Integumentary system = 외피계
+LEVEL: 4
+GLOSSARY:
+  Feather = 깃털
+  Hair = 털
+  Nail (anatomy) = 손발톱
+  Skin = 피부
+  Temperature = 체온
+  UVB = 자외선 B
+  Vitamin D = 비타민 D
+  basement membrane = 기저막
+  connective tissues = 결합 조직
+  dermis = 진피
+  epidermis = 표피
+  surface area = 겉넓이
+ENTRY:
+Set of organs forming the outermost layer of an animal's body, including the [[Skin|skin]], [[Hair|hair]], scales, [[Feather|feathers]], hooves, claws and [[Nail (anatomy)|nails]]. It acts as a protective barrier between the external and internal environment, maintains water balance, excretes waste and regulates [[Temperature|body temperature]]. Its sensory receptors detect pain, sensation, pressure and temperature. The skin has two major layers, the outermost epidermis and the inner dermis, separated by a basement membrane. The epidermis has four to five layers, and the dermis contains connective tissues, blood vessels, glands, hair roots and nerve endings. In humans the skin accounts for about 12 to 15 percent of total body weight and covers 1.5 to 2 m² of surface area. The skin also synthesizes [[Vitamin D|vitamin D]] in the epidermis upon exposure to UVB radiation.
+
+=== KEY: Intel_ff97a9
+HEADWORD: Intel = 인텔
+LEVEL: 5
+GLOSSARY:
+  AMD = AMD
+  Arthur Rock = 아서 록
+  California = 캘리포니아주
+  Central processing unit = 중앙 처리 장치
+  Gordon Moore = 고든 무어
+  Intel = 인텔
+  Intel 4004 = 인텔 4004
+  Microsoft = 마이크로소프트
+  Microsoft Windows = 마이크로소프트 윈도우
+  Personal computer = 개인용 컴퓨터
+  Robert Noyce = 로버트 노이스
+  Santa Clara = 샌타클래라
+  Windows = 윈도우
+  X86 = x86
+  instruction set = 명령어 집합
+  microprocessor = 마이크로프로세서
+ENTRY:
+American multinational technology company headquartered in Santa Clara, California. It designs and sells [[Central processing unit|central processing units]] and related products, and it is one of the developers of the [[X86|x86]] instruction set found in most [[Personal computer|personal computers]]. Founded in 1968 by Gordon Moore, Robert Noyce and Arthur Rock, it released the Intel 4004 in 1971, the world's first commercial microprocessor chip. During the 1990s its partnership with [[Microsoft Windows|Microsoft Windows]] shaped the PC market, and competition from [[AMD|AMD]] has since reduced its dominance.
+
+=== KEY: Intellectual_disability_c8e450
+HEADWORD: Intellectual disability = 지적 장애
+LEVEL: 3
+GLOSSARY:
+  Alzheimer's disease = 알츠하이머병
+  Autism = 자폐증
+  DSM-5 = DSM-5
+  Down syndrome = 다운 증후군
+  Intelligence quotient = 지능 지수
+  Neurodevelopmental disorder = 신경 발달 장애
+  People = 『피플』
+  United Kingdom = 영국
+  adaptive functioning = 적응 기능
+  autism spectrum disorder = 자폐 스펙트럼 장애
+  disorder of intellectual development = 지적 발달 장애
+  fetal alcohol exposure = 태아 알코올 노출
+  fragile X syndrome = 취약 X 증후군
+  intellectual disability = 지적 장애
+  learning difficulty = 학습 곤란
+  perinatal = 주산기
+ENTRY:
+Neurodevelopmental disorder marked by significant impairment in intellectual and adaptive functioning.
+
+Also called disorder of intellectual development, and known as learning difficulty in the United Kingdom, it usually becomes apparent in infancy, early childhood, or school age. Affected children typically have an [[Intelligence quotient|intelligence quotient]] (IQ) below 70 and deficits in at least two adaptive behaviors affecting everyday living. Under the DSM-5, deficits in reasoning, problem solving, planning, abstract thinking, judgment, and learning must be confirmed by clinical evaluation and standardized IQ testing. Age-related decline in memory and cognition, as in [[Alzheimer's disease]], can also cause it.
+
+It is subdivided into syndromic forms, accompanied by other medical and behavioral signs, as in [[Down syndrome]] and fragile X syndrome, and non-syndromic forms. Prevalence estimates range from about 1% of the global population to 2–3%. About a quarter of cases are caused by a genetic disorder, and about 5% are inherited. Other causes include fetal alcohol exposure, perinatal complications, and postnatal infections or trauma; the cause is unidentified in up to half of cases.
+
+Severity ranges from mild to profound. About 85% of people with the condition have mild forms and about 10% moderate; severe accounts for 3.5% and profound for 1.5%. People with mild disability can learn reading and mathematics to about the level of a typical child aged nine to twelve, and many live independently and work as adults. Those with moderate disability need considerable support in school, at home, and in the community; those with severe or profound disability need intensive support throughout life.
+
+It often co-occurs with [[Autism|autism]]: roughly 30% of those with autism spectrum disorder also have intellectual disability, which can complicate diagnosis.
+
+=== KEY: Intellectual_property_cc6f79
+HEADWORD: Intellectual property = 지식 재산
+LEVEL: 4
+GLOSSARY:
+  Anne = 앤
+  Copyright = 저작권
+  Intellectual property = 지식 재산
+  Patent = 특허
+  Republic of Venice = 베네치아 공화국
+  Statute = 제정법
+  Statute of Anne = 앤 여왕법
+  Venetian = 베네치아
+  Venetian Patent Statute = 베네치아 특허법
+  Venice = 베네치아
+  trade secrets = 영업 비밀
+  trademarks = 상표
+ENTRY:
+Category of property that includes intangible creations of the human intellect. Intellectual property rights give creators or owners the right to use an asset and to prevent others from doing so. The best-known types are [[Patent|patents]], [[Copyright|copyrights]], trademarks and trade secrets. Supporters argue that these protections give creators economic incentives to produce and innovate. Because intellectual goods can be consumed by an unlimited number of people without being depleted, balancing rights strong enough to encourage creation against rights that limit wide use is the primary focus of modern law. The Venetian Patent Statute of March 19, 1474, established by the [[Republic of Venice|Republic of Venice]], is usually considered the earliest codified patent system. Britain's Statute of Anne (1710) is seen as the origin of copyright.
+
+=== KEY: Intelligence_8f7ba5
+HEADWORD: Intelligence = 지능
+LEVEL: 3
+GLOSSARY:
+  American Psychological Association = 미국 심리학회
+  Bacon = 베이컨
+  Charles Spearman = 찰스 스피어먼
+  David Hume = 데이비드 흄
+  Francis = 프랑수아
+  Francis Bacon = 프랜시스 베이컨
+  Hobbes = 홉스
+  Human = 인간
+  Human intelligence = 인간 정보
+  Hume = 흄
+  Intellectual disability = 지적 장애
+  Intelligence quotient = 지능 지수
+  John = 존
+  John Locke = 존 로크
+  Latin = 라틴어
+  Locke = 로크
+  Middle Ages = 중세
+  Thomas = 토머스
+  Thomas Hobbes = 토머스 홉스
+  Twin = 쌍둥이
+  Twin and adoption studies = 쌍둥이 연구와 입양 연구
+  fluid versus crystallized intelligence = 유동 지능과 결정 지능
+  g factor = g 요인
+  heritability = 유전율
+  intellectual disability = 지적 장애
+  intellectus = 인텔렉투스
+  intelligentia = 인텔리겐티아
+  nous = 누스
+  scholastic = 스콜라 철학의
+ENTRY:
+Capacity to perceive or infer information and retain it as knowledge to be applied to adaptive behavior within an environment or context.
+
+It has been defined in many ways, including capacity for abstraction, logic, learning, reasoning, planning, creativity, and problem-solving. A 1995 American Psychological Association report noted that two dozen prominent theorists asked to define it gave two dozen somewhat different definitions. The term rose to prominence in the early 1900s, and most psychologists believe intelligence divides into various domains. It has also been observed in non-human animals.
+
+The word derives from Latin *intelligentia* or *intellectus*. In the [[Middle Ages]], *intellectus* became the scholarly term for understanding and a translation of the Greek *nous*. [[Francis Bacon]], [[Thomas Hobbes]], [[John Locke]], and [[David Hume]] rejected the scholastic theories attached to it and preferred "understanding".
+
+Human intelligence includes abilities to learn, form concepts, reason, plan, solve problems, and use language, organized in frameworks such as fluid versus crystallized intelligence. It is distinct from learning, the retention of facts and abilities.
+
+[[Intelligence quotient|IQ]] tests were first developed in the early 20th century to screen children for [[Intellectual disability|intellectual disability]] and later used to screen immigrants, military recruits, and applicants. The *g* factor summarizes correlations among scores on cognitive tests; Charles Spearman identified it in 1904. Most psychologists agree IQ measures some aspects of intelligence, particularly academic performance, while many question its validity as a whole measure. Twin and adoption studies estimate heritability at about 20–40% in childhood and 50–80% in adulthood, though the balance of genetic and environmental influences is debated. Researchers also disagree about average group differences in scores: one view holds that genetics does not explain average differences between racial groups, while others argue they are partly heritable.
+
+=== KEY: Intelligence_quotient_d05a3d
+HEADWORD: Intelligence quotient = 지능 지수
+LEVEL: 5
+GLOSSARY:
+  Flynn effect = 플린 효과
+  Normal distribution = 정규 분포
+  Standard deviation = 표준 편차
+  human intelligence = 인간 정보(휴민트)
+  socioeconomic status = 사회경제적 지위
+  standard deviation = 표준 편차
+ENTRY:
+Total score from standardized tests designed to assess human intelligence. Modern IQ tests transform raw scores to a [[Normal distribution|normal distribution]] with a mean of 100 and a [[Standard deviation|standard deviation]] of 15, so about two-thirds of people score between 85 and 115. IQ scores are estimates of intelligence, which, unlike distance or mass, cannot be measured directly. They have been associated with factors such as nutrition and parental socioeconomic status, and they are used for educational placement and for evaluating job applicants. Raw scores have risen by an average of three points per decade since the early 20th century, a phenomenon called the Flynn effect.
+
+=== KEY: Intensive_farming_17f9ab
+HEADWORD: Intensive farming = 집약 농업
+LEVEL: 4
+GLOSSARY:
+  Agriculture = 농업
+  Biodiversity = 생물 다양성
+  Fertilizer = 비료
+  Green = 초록색
+  Green Revolution = 녹색 혁명
+  Greenhouse gas = 온실가스
+  Intensive animal farming = 집약적 축산
+  Pesticide = 농약
+  antimicrobial resistance = 항미생물제 내성
+  concentrated animal feeding operations = 집중 가축 사육 시설
+  fallow ratio = 휴경 비율
+  greenhouse gas = 온실가스
+  rotational grazing = 윤환 방목
+  soil contamination = 토양 오염
+ENTRY:
+Form of [[Agriculture|agriculture]], of crops and animals, with high levels of input and output per unit of land area. It is characterized by a low fallow ratio, heavy use of capital, labor, [[Fertilizer|fertilizers]], [[Pesticide|pesticides]] and water, and higher crop yields. Modern methods often use antibiotics for livestock, and intensive farms are widespread in developed nations. Intensive animal farming raises large numbers of animals on a relatively small area, either through rotational grazing or in concentrated animal feeding operations. The [[Green Revolution|Green Revolution]] of the 1960s expanded yields through high-yielding crop varieties, irrigation and chemical inputs. Critics cite water and soil contamination, [[Greenhouse gas|greenhouse gas]] emissions, reduced [[Biodiversity|biodiversity]] and antimicrobial resistance. Some intensive farms use sustainable methods, although these typically require more labor or lower yields.
+
+=== KEY: Inter_Milan_8c5830
+HEADWORD: Inter Milan = 인테르나치오날레 밀라노
+LEVEL: 5
+GLOSSARY:
+  AC Milan = AC 밀란
+  Champions League = 챔피언스리그
+  Cricket = 크리켓
+  Football = 축구
+  Football Club Internazionale Milano = 인테르나치오날레 밀라노
+  Lombardy = 롬바르디아
+  Management = 경영학
+  Milan = 밀라노
+  Milan Foot-Ball and Cricket Club = 밀란 풋볼 앤드 크리켓 클럽
+  Oaktree Capital Management = 오크트리 캐피털 매니지먼트
+  San Siro = 산시로
+  Serie A = 세리에 A
+  UEFA Champions League = UEFA 챔피언스리그
+  treble = 트레블
+ENTRY:
+Football club, formally Football Club Internazionale Milano, based in [[Milan|Milan]], Lombardy. Founded on March 9, 1908, after a split within the Milan Foot-Ball and Cricket Club (now [[AC Milan|AC Milan]]), it is the only team to have an unbroken presence in [[Serie A|Serie A]] since its 1909 debut. It has won 21 league titles and three [[UEFA Champions League|Champions League]] titles, and it shared the San Siro stadium with AC Milan from 1947. In 2010 it completed an unprecedented Italian treble. Oaktree Capital Management has owned the club since May 2024.
+
+=== KEY: Interchangeable_parts_6335af
+HEADWORD: Interchangeable parts = 호환 부품
+LEVEL: 4
+GLOSSARY:
+  American system of manufacturing = 미국식 제조 방식
+  Assembly line = 조립 라인
+  Carthage = 카르타고
+  First Punic War = 제1차 포에니 전쟁
+  French = 프랑스어
+  Honoré Blanc = 오노레 블랑
+  Jean-Baptiste Vaquette de Gribeauval = 장바티스트 바케트 드 그리보발
+  United States = 미국
+  War = 전쟁
+  assembly line = 조립 라인
+  fixtures = 고정구
+  flintlock = 수석식
+  jigs = 지그
+  machine tools = 공작 기계
+ENTRY:
+Components made to specifications so nearly identical that any one can replace another without custom fitting. This interchangeability allows easy assembly of new devices and repair of existing ones, minimizing the time and skill required. It made the [[Assembly line|assembly line]] possible at the beginning of the 20th century. Evidence of the practice dates back over two thousand years to [[Carthage|Carthage]] in the First Punic War, when ships had standardized parts marked for assembly. In the late 18th century, French General Jean-Baptiste Vaquette de Gribeauval promoted standardized weapons, and by around 1778 Honoré Blanc was producing firearms with interchangeable flintlock mechanisms. Industrial production developed in the United States in the 19th century, where it was called the American system of manufacturing. Advances in machine tools, jigs, fixtures and gauges made it practical.
+
+=== KEY: Intercontinental_ballistic_missile_cee835
+HEADWORD: Intercontinental ballistic missile = 대륙간 탄도 미사일
+LEVEL: 5
+GLOSSARY:
+  China = 중국
+  France = 프랑스
+  India = 인도
+  Israel = 이스라엘
+  Korea = 한국
+  North Korea = 북한
+  Nuclear weapon = 핵무기
+  R-7 Semyorka = R-7 세묘르카
+  Russia = 러시아
+  United Kingdom = 영국
+  United States = 미국
+  liquid propellants = 액체 추진제
+  multiple independently targetable reentry vehicles = 다탄두 각개 목표 재돌입체
+  solid-propellant = 고체 추진제
+ENTRY:
+Ballistic missile with a range greater than 5,500 km (3,400 mi), primarily designed to deliver [[Nuclear weapon|nuclear weapons]]. Many carry multiple independently targetable reentry vehicles (MIRVs), allowing one missile to strike several targets. The [[United States|United States]], [[Russia|Russia]], [[China|China]], France, India, the [[United Kingdom|United Kingdom]], Israel and [[North Korea|North Korea]] are the only countries known to have operational ICBMs. The first, the R-7 Semyorka, was tested in 1957. Early designs used liquid propellants that required fueling before launch, while solid-propellant designs need no fueling and respond far faster.
+
+=== KEY: Interest_economics_348c05
+HEADWORD: Interest = 이자
+LEVEL: 4
+GLOSSARY:
+  Aquinas = 아퀴나스
+  Compound interest = 복리
+  Council of Nicaea = 니케아 공의회
+  E (mathematical constant) = e
+  First Council of Nicaea = 제1차 니케아 공의회
+  Nicaea = 니케아
+  Profit (economics) = 이윤
+  Thomas = 토머스
+  Thomas Aquinas = 토마스 아퀴나스
+  dividend = 배당금
+  principal = 원금
+  usury = 고리대금
+ENTRY:
+Payment above the principal sum of a loan or deposit, made at a particular rate. A borrower pays interest to a lender, and a saver may earn it from a bank. Interest differs from [[Profit (economics)|profit]], which goes to the owner of an asset or enterprise, and from a dividend, which a company pays from profit without a fixed rate. The rate of interest is the amount paid or received over a period divided by the principal, usually expressed as a percentage. Compound interest is earned on prior interest as well as principal, so debt grows exponentially, and its mathematical study led to the discovery of the number [[E (mathematical constant)|e]]. The [[First Council of Nicaea|First Council of Nicaea]] in 325 forbade clergy from usury, defined as lending on interest above 1 percent per month. [[Thomas Aquinas|St. Thomas Aquinas]] argued that charging interest was "double charging", charging for both the thing and its use.
+
+=== KEY: Interferometry_9927ad
+HEADWORD: Interferometry = 간섭계
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert A. Michelson = 앨버트 A. 마이컬슨
+  Astronomy = 천문학
+  Interferometry = 간섭계
+  Michelson = 마이컬슨
+  Michelson interferometer = 마이컬슨 간섭계
+  Quantum mechanics = 양자역학
+  Radiology = 영상의학
+  Seismology = 지진학
+  Spectroscopy = 분광학
+  astronomical interferometer = 천문 간섭계
+  fringes = 간섭무늬
+  quantum mechanics = 양자역학
+  refractive index = 굴절률
+ENTRY:
+Technique that uses the interference of superimposed waves to extract information. Interferometers usually split light from a single source into two beams that travel different optical paths and then recombine them, so the resulting fringes reveal the difference in path lengths. They are widely used to measure microscopic displacements, refractive index changes and surface irregularities. In analytical science they measure lengths and the shape of optical components with nanometer precision, making them the highest-precision length measuring instruments in existence. Interferometry is important in [[Astronomy|astronomy]], [[Seismology|seismology]], [[Spectroscopy|spectroscopy]], [[Quantum mechanics|quantum mechanics]] and [[Radiology|radiology]]. An astronomical interferometer combines two or more separate dishes, offering a resolution equal to that of a single telescope whose diameter equals the largest separation between them. [[Albert A. Michelson|Albert A. Michelson]] developed the Michelson interferometer for precise length measurements in the late 1800s.
+
+=== KEY: Interior_design_1ccd06
+HEADWORD: Interior design = 실내 디자인
+LEVEL: 4
+GLOSSARY:
+  Middle class = 중산층
+  Mosaic = 모자이크
+  Painting = 회화
+  Romans = 로마인
+  Visual arts = 시각 예술
+  interior decoration = 실내 장식
+  space planning = 공간 계획
+ENTRY:
+Art and science of enhancing the interior of a building to create a healthier and more aesthetically pleasing environment. An interior designer plans, researches, coordinates and manages such projects, which may include space planning, site inspections, programming, construction management and execution of the design. The profession draws on fundamental principles from the [[Visual arts|visual arts]]. It is separate from interior decoration, a term more common in the U.S.; in the U.K., interior design is still unregulated. Painting interior walls has existed for at least 5,000 years, and the Greeks and later Romans added decorative [[Mosaic|mosaic]] floors. In the mid-to-late 19th century, a growing [[Middle class|middle class]] created demand for furnished interiors, and the modern profession emerged in the mid-20th century.
+
+=== KEY: Interjection_357f0f
+HEADWORD: Interjection = 감탄사
+LEVEL: 4
+GLOSSARY:
+  Adverb = 부사
+  Greeting = 인사
+  Latin = 라틴어
+  Primary interjections = 1차 감탄사
+  Volitive interjections = 의지 감탄사
+  Word = 단어
+  hesitation markers = 주저 표지
+  part of speech = 품사
+  response particles = 응답 소사
+ENTRY:
+Word or expression that occurs on its own and expresses a spontaneous feeling, situation or reaction. Interjections include exclamations such as ouch and wow, curses, [[Greeting|greetings]], response particles such as okay, and hesitation markers such as uh and um. Most express feeling rather than representing an idea. Volitive interjections make requests, as in shh, emotive ones express emotions such as disgust, and cognitive ones express thought or confusion. Greek grammarians classed interjections as [[Adverb|adverbs]] that modified verbs, but many Latin scholars treated them as an independent part of speech. Primary interjections, such as oops and ouch, are interjections first; secondary ones, such as damn, come from other word classes.
+
+=== KEY: Intermolecular_force_3ff45f
+HEADWORD: Intermolecular force = 분자 간 힘
+LEVEL: 4
+GLOSSARY:
+  Covalent bond = 공유 결합
+  Force = 힘
+  Hydrogen bond = 수소 결합
+  Information = 정보
+  London = 런던
+  London dispersion force = 런던 분산력
+  Van der Waals force = 판데르발스 힘
+  Viscosity = 점성
+  covalent bonds = 공유 결합
+  electronegative = 전기 음성도가 큰
+  intramolecular forces = 분자 내 힘
+  van der Waals forces = 판데르발스 힘
+ENTRY:
+Force of attraction or repulsion between molecules and neighboring particles such as atoms or ions. Intermolecular forces are weak relative to the intramolecular forces, such as [[Covalent bond|covalent bonds]], that hold a molecule together. They hold particles together in liquids and solids and determine properties such as melting and boiling points, [[Viscosity|viscosity]] and solubility. Attractive types include [[Hydrogen bond|hydrogen bonding]], ion–dipole forces, cation–π bonding and [[Van der Waals force|van der Waals forces]], which include the London dispersion force. A hydrogen bond links a hydrogen atom, bonded to a highly electronegative atom such as nitrogen, oxygen or fluorine, to another such atom. It is directional and stronger than a van der Waals interaction. Information on these forces comes from macroscopic measurements of properties such as pressure, volume and temperature.
+
+=== KEY: Internal_combustion_engine_93bfe9
+HEADWORD: Internal combustion engine = 내연 기관
+LEVEL: 3
+GLOSSARY:
+  Catalytic converters = 촉매 변환기
+  Claude = 클로드
+  Claude Niépce = 클로드 니엡스
+  Combustion = 연소
+  François Isaac de Rivaz = 프랑수아 이자크 드 리바즈
+  French = 프랑스어
+  Heat = 열
+  Heat engine = 열기관
+  Heinkel He 178 = 하인켈 He 178
+  Isaac = 이삭
+  Karl Benz = 카를 벤츠
+  Napoleon = 나폴레옹
+  Nicolaus Otto = 니콜라우스 오토
+  Nicéphore Niépce = 니세포르 니엡스
+  Pyréolophore = 피레올로포르
+  Robert Goddard = 로버트 고더드
+  Rudolf = 루돌프
+  Rudolf Diesel = 루돌프 디젤
+  Saône = 손강
+  Steam engine = 증기 기관
+  Stirling engine = 스털링 기관
+  Wankel engine = 반켈 엔진
+  biodiesel = 바이오디젤
+  bioethanol = 바이오에탄올
+  compression-ignition = 압축 점화
+  compression-ignition engine = 압축 점화 기관
+  external combustion engines = 외연 기관
+  four-stroke = 4행정
+  four-stroke piston engines = 4행정 피스톤 엔진
+  gas turbines = 가스 터빈
+  internal combustion engine = 내연 기관
+  jet engines = 제트 엔진
+  kinetic energy = 운동 에너지
+  liquid-fueled rocket = 액체 연료 로켓
+  nitrogen oxides = 질소 산화물
+  particulate matter = 입자상 물질
+  piston engines = 피스톤 엔진
+  two-stroke = 2행정
+  working fluid = 작동 유체
+ENTRY:
+Heat engine in which fuel burns with an oxidizer, usually air, in a combustion chamber that is part of the working fluid flow circuit.
+
+The expansion of high-temperature, high-pressure gases from [[Combustion|combustion]] applies force to pistons, turbine blades, a rotor, or a nozzle, converting chemical energy into kinetic energy. The term usually means engines with intermittent combustion, such as two-stroke and four-stroke piston engines and the [[Wankel engine]]. A second class, with continuous combustion, includes gas turbines, jet engines, and most rocket engines. In external combustion engines, such as the [[Steam engine|steam]] and [[Stirling engine|Stirling]] engines, energy goes to a working fluid not mixed with combustion products.
+
+Most are used in mobile applications, as the primary power for cars, aircraft, and boats. They run on hydrocarbon fuels such as natural gas, gasoline, diesel fuel, or ethanol; biodiesel and bioethanol are renewable alternatives.
+
+In 1807 French engineers Nicéphore Niépce and Claude Niépce ran the Pyréolophore, patented by [[Napoleon]], on a boat on the Saône, and François Isaac de Rivaz built a hydrogen-fueled engine, fitted to a primitive vehicle in 1808. In 1876 [[Nicolaus Otto]] patented the compressed-charge, four-cycle engine, the first modern internal combustion engine. Karl Benz patented a two-stroke gasoline engine in 1879 and began commercial production of motor vehicles in 1886. In 1892 [[Rudolf Diesel]] developed the first compression-ignition engine. Robert Goddard launched the first liquid-fueled rocket in 1926, and the Heinkel He 178 became the first jet aircraft in 1939.
+
+Exhaust includes carbon dioxide, nitrogen oxides, particulate matter, and unburnt hydrocarbons, contributing to air pollution. Catalytic converters, fuel standards, and engine controls have sharply reduced some pollutants, while carbon dioxide emissions have prompted a shift toward electrification.
+
+=== KEY: Internal_energy_a79947
+HEADWORD: Internal energy = 내부 에너지
+LEVEL: 4
+GLOSSARY:
+  Chemical bond = 화학 결합
+  Energy = 에너지
+  First law of thermodynamics = 열역학 제1법칙
+  Heat = 열
+  Joule = 줄
+  Rudolf = 루돌프
+  Rudolf Clausius = 루돌프 클라우지우스
+  SI unit = SI 단위
+  first law = 열역학 제1법칙
+  internal energy = 내부 에너지
+  isolated system = 고립계
+  kinetic energy = 운동 에너지
+  state variable = 상태 변수
+  statistical mechanics = 통계 역학
+  thermodynamic work = 열역학적 일
+ENTRY:
+Energy that defines the state of a thermodynamic system, excluding the kinetic energy of its overall motion and the effects of external fields. It is a state variable: it depends only on the internal state of the system, not on the process by which energy enters or leaves. The total internal energy cannot practically be measured, so thermodynamics concerns changes in it. These changes arise from energy transferred as [[Heat|heat]] or thermodynamic work, or from transfers of matter. Without a process, the internal energy of an isolated system does not change, a principle that underlies the [[First law of thermodynamics|first law of thermodynamics]], as formulated by Rudolf Clausius. In statistical mechanics it is analyzed through the kinetic energies of microscopic motion and the potential energies of microscopic forces, including [[Chemical bond|chemical bonds]]. The [[Joule|joule]] is the SI unit of energy.
+
+=== KEY: Internal_structure_of_Earth_8434ca
+HEADWORD: Internal structure of Earth = 지구 내부 구조
+LEVEL: 3
+GLOSSARY:
+  Basalt = 현무암
+  Convection = 대류
+  Crust (geology) = 지각
+  Earth = 지구
+  Earth's magnetic field = 지구 자기장
+  Earth's mantle = 맨틀
+  Knowledge = 지식
+  Lithosphere = 암석권
+  Mohorovičić discontinuity = 모호로비치치 불연속면
+  Oceanic crust = 해양 지각
+  Viscosity = 점성
+  asthenosphere = 연약권
+  continental crust = 대륙 지각
+  felsic = 규장질
+  ferromagnesian = 철마그네슘질
+  inner core = 내핵
+  lower mantle = 하부 맨틀
+  mafic = 고철질
+  magnetic field = 자기장
+  mesosphere = 중간권
+  outer core = 외핵
+  seismic waves = 지진파
+  silicate rock = 규산염 암석
+  tectonic plates = 지각판
+  transition zone = 전이대
+ENTRY:
+Layered variation of chemical and physical properties within the solid Earth.
+
+Mechanically, it consists of a rigid lithosphere, a semi-fluid asthenosphere, a semi-fluid mesosphere, a liquid outer core, and a solid inner core. Chemically, it consists of a silicate crust, a ferromagnesian mantle, and an iron-nickel core whose flowing upper portion generates the [[Earth's magnetic field]]. Knowledge rests on topography, rock outcrops, samples brought up by volcanoes, seismic waves, gravitational and magnetic measurements, and high-pressure experiments; the layered model was deduced in the early 20th century chiefly from seismic waves. Earth's mass is about 6×10²⁴ kg and its average density 5.515 g/cm³.
+
+The [[Crust (geology)|crust]] ranges from 5 to 70 km thick. Oceanic crust, 5–10 km thick, is dense and mafic; continental crust is thicker, less dense, and felsic. The [[Lithosphere|lithosphere]] comprises the crust and uppermost mantle. At the Mohorovičić discontinuity, primary seismic waves speed up from 6.7–7.2 km/s, consistent with [[Basalt|basalt]], to 7.6–8.6 km/s. The oldest known mineral grains are about 4.4 billion years old.
+
+The [[Earth's mantle|mantle]] extends to a depth of 2,890 km, the thickest layer, at 83.7% of Earth's volume. A transition zone separates upper and lower mantle, and pressure at the base is about 140 GPa. Though solid, its hot silicate rock flows over long timescales, and [[Convection|convection]] drives the motion of tectonic plates. Viscosity rises with depth from 10²¹ to 10²⁴ pascal-second.
+
+The outer core, liquid iron and nickel alloy roughly 2,200–2,300 km thick, generates the magnetic field through convective motion. The solid inner core has a radius of about 1,220–1,250 km and temperatures up to 5,400°C.
+
+=== KEY: International_Atomic_Energy_Agency_ce7fd0
+HEADWORD: International Atomic Energy Agency = 국제 원자력 기구
+LEVEL: 4
+GLOSSARY:
+  Atoms for Peace = 평화를 위한 원자력
+  Austria = 오스트리아
+  Dwight D. Eisenhower = 드와이트 D. 아이젠하워
+  Following = 「미행」
+  Mohamed ElBaradei = 무함마드 엘바라데이
+  Nobel Peace Prize = 노벨 평화상
+  Nuclear weapon = 핵무기
+  Office = 성무일도
+  Peace = 평화
+  Soviet Union = 소련
+  Treaty = 조약
+  United Nations = 국제 연합
+  United States = 미국
+  Vienna = 빈
+  safeguards = 안전 조치
+ENTRY:
+Intergovernmental organization that promotes the peaceful use of nuclear energy and inhibits its use for military purposes, including [[Nuclear weapon|nuclear weapons]]. It was established in 1957 as an autonomous organization within the [[United Nations|United Nations]] system and is headquartered at the UN Office at [[Vienna|Vienna]], Austria. It was created amid rising tensions between the United States and the [[Soviet Union|Soviet Union]], and U.S. president [[Dwight D. Eisenhower|Dwight D. Eisenhower]]'s "Atoms for Peace" speech is credited with catalyzing its formation. The agency verifies through safeguards that nuclear energy is not used for military purposes, promotes nuclear safety and security standards, and provides technical training, particularly in the developing world. Following ratification of the Treaty on the Non-Proliferation of Nuclear Weapons in 1968, non-nuclear powers were required to negotiate safeguards agreements with it. In 2005, the agency and its director general, Mohamed ElBaradei, were awarded the Nobel Peace Prize.
+
+=== KEY: International_Court_of_Justice_b3bd89
+HEADWORD: International Court of Justice = 국제 사법 재판소
+LEVEL: 4
+GLOSSARY:
+  Court = 법원
+  International law = 국제법
+  Justice = 정의
+  League of Nations = 국제 연맹
+  Netherlands = 네덜란드
+  Palace = 궁전
+  Peace = 평화
+  Peace Palace = 평화궁
+  Permanent Court of International Justice = 상설 국제 사법 재판소
+  Security = 보안
+  Security Council = 안전 보장 이사회
+  The Hague = 헤이그
+  UN Charter = 국제 연합 헌장
+  UN Security Council = 국제 연합 안전 보장 이사회
+  United Nations = 국제 연합
+  advisory opinions = 권고적 의견
+  international law = 국제법
+  primary sources = 1차 사료
+  veto power = 거부권
+ENTRY:
+Principal judicial organ of the [[United Nations|United Nations]], seated at the Peace Palace in [[The Hague|The Hague]], Netherlands. Established in June 1945 by the UN Charter, it began work in April 1946 as the successor to the Permanent Court of International Justice, which the [[League of Nations|League of Nations]] had set up in 1920. It settles legal disputes submitted by states and gives advisory opinions on legal questions, and its rulings serve as primary sources of [[International law|international law]]. Its 15 judges are elected for nine-year terms, and no two may be nationals of the same country. Its judgments are binding and final, but the court has no formal enforcement mechanism, so enforcement is a political matter for the UN Security Council, where the five permanent members hold veto power.
+
+=== KEY: International_Covenant_on_Civil_and_Political_Rights_690d3c
+HEADWORD: International Covenant on Civil and Political Rights = 시민적 및 정치적 권리에 관한 국제 규약
+LEVEL: 4
+GLOSSARY:
+  Assembly = 민회
+  China = 중국
+  Covenant = 국제 연맹 규약
+  Cuba = 쿠바
+  Freedom of religion = 종교의 자유
+  Freedom of speech = 표현의 자유
+  Human = 인간
+  Human Rights Committee = 자유권 규약 위원회
+  International Bill of Human Rights = 국제 인권 장전
+  International Covenant on Economic, Social and Cultural Rights = 경제적, 사회적 및 문화적 권리에 관한 국제규약
+  Rights = 인권
+  United Nations = 국제 연합
+  United Nations General Assembly = 국제 연합 총회
+  Universal Declaration of Human Rights = 세계 인권 선언
+  due process = 적법 절차
+  right to life = 생명권
+ENTRY:
+Multilateral treaty that commits nations to respect individuals' civil and political rights, including the right to life, [[Freedom of religion|freedom of religion]], [[Freedom of speech|freedom of speech]], freedom of assembly, electoral rights and the right to due process and a fair trial. The United Nations General Assembly adopted it on December 16, 1966, and it entered into force on March 23, 1976. It forms part of the International Bill of Human Rights, along with the [[Universal Declaration of Human Rights|Universal Declaration of Human Rights]] and the [[International Covenant on Economic, Social and Cultural Rights|International Covenant on Economic, Social and Cultural Rights]]. As of December 2025 the treaty had 175 parties, and six more signatories had not ratified it, including [[China|China]] and [[Cuba|Cuba]]. The Human Rights Committee reviews reports from states parties, which usually report every four years when the committee requests them.
+
+=== KEY: International_Covenant_on_Economic_Social_and_Cultural_Right_f61e72
+HEADWORD: International Covenant on Economic, Social and Cultural Rights = 경제적, 사회적 및 문화적 권리에 관한 국제 규약
+LEVEL: 4
+GLOSSARY:
+  Assembly = 민회
+  Covenant = 국제 연맹 규약
+  Human = 인간
+  International Bill of Human Rights = 국제 인권 장전
+  International Covenant on Civil and Political Rights = 시민적 및 정치적 권리에 관한 국제 규약
+  Rights = 인권
+  Self-determination = 자결권
+  Trade union = 노동조합
+  United Nations = 국제 연합
+  United Nations General Assembly = 국제 연합 총회
+  United States = 미국
+  Universal Declaration of Human Rights = 세계 인권 선언
+ENTRY:
+Multilateral treaty adopted by the United Nations General Assembly on December 16, 1966, committing its parties to work toward economic, social and cultural rights for all individuals. The rights include labor rights, the right to form and join [[Trade union|trade unions]], the right to health, the right to education and the right to an adequate standard of living. Its first article recognizes the right of all peoples to [[Self-determination|self-determination]]. Parties implement the rights progressively, and the rights may be limited only by law for the purpose of promoting the general welfare in a democratic society. The covenant entered into force on January 3, 1976. Four more signatories, including the United States, have not ratified it. It is part of the International Bill of Human Rights, together with the [[Universal Declaration of Human Rights|Universal Declaration of Human Rights]] and the [[International Covenant on Civil and Political Rights|International Covenant on Civil and Political Rights]].
+
+=== KEY: International_Criminal_Court_742b93
+HEADWORD: International Criminal Court = 국제 형사 재판소
+LEVEL: 5
+GLOSSARY:
+  China = 중국
+  India = 인도
+  Netherlands = 네덜란드
+  Rome = 로마
+  Rome Statute = 로마 규정
+  Russia = 러시아
+  Statute = 제정법
+  The Hague = 헤이그
+  United States = 미국
+  aggression = 침략 범죄
+  crimes against humanity = 인도에 반한 죄
+  genocide = 집단 학살
+  war crimes = 전쟁 범죄
+ENTRY:
+Intergovernmental organization and international tribunal seated in [[The Hague|The Hague]], Netherlands. Established in 2002 under the Rome Statute, it is the first and only permanent international court with jurisdiction to prosecute individuals for genocide, crimes against humanity, war crimes and aggression. It acts only when national courts are unwilling or unable to prosecute. As of October 2024, 125 states were parties to the Rome Statute, while [[China|China]], [[India|India]], [[Russia|Russia]] and the [[United States|United States]] do not recognize its jurisdiction. Critics question its legitimacy, its reliance on state cooperation for arrests and the high cost of its proceedings.

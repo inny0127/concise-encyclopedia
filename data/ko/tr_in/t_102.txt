@@ -1,0 +1,1017 @@
+=== KEY: Electric_battery_8201bd
+HEADWORD: Electric battery = 전지
+LEVEL: 3
+GLOSSARY:
+  Alessandro Volta = 알레산드로 볼타
+  Benjamin Franklin = 벤저민 프랭클린
+  Daniell cell = 다니엘 전지
+  Data center = 데이터 센터
+  Dry cells = 건전지
+  John = 존
+  John Frederic Daniell = 존 프레더릭 대니얼
+  Leyden jar = 라이덴병
+  Michael Faraday = 마이클 패러데이
+  Primary batteries = 일차 전지
+  Secondary batteries = 이차 전지
+  Volta = 볼타강
+  alkaline battery = 알칼리 전지
+  anode = 양극
+  cathode = 음극
+  electrochemical cells = 전기 화학 전지
+  hearing aids = 보청기
+  lithium-ion batteries = 리튬 이온 전지
+  redox reaction = 산화 환원 반응
+  specific energy = 비에너지
+  telephone exchanges = 전화 교환기
+  voltaic pile = 볼타 전지
+ENTRY:
+Source of electric power consisting of one or more electrochemical cells with external connections for powering electrical devices. When a battery supplies power, its positive terminal is the cathode and its negative terminal the anode; electrons flow from the negative terminal through the external circuit to the positive terminal, driving a redox reaction in which higher-energy reactants become lower-energy products. "Battery" once meant multiple cells, but the term now includes single cells.
+
+Primary batteries are used once and discarded, because their electrode materials change irreversibly during discharge; the alkaline battery is a common example. Secondary batteries can be recharged by an applied current; examples are the lead–acid automotive battery and the lithium-ion batteries in portable electronics and electric cars. Sizes range from cells for hearing aids and wristwatches to room-sized banks providing standby power for telephone exchanges and [[Data center|computer data centers]]. Batteries have much lower specific energy than fuels such as gasoline.
+
+[[Benjamin Franklin]] first used the term "battery" in 1749 for linked Leyden jar capacitors. [[Alessandro Volta]] built the first electrochemical battery, the voltaic pile, in 1800: a stack of copper and zinc plates separated by brine-soaked paper disks. Volta did not realize that the voltage came from chemical reactions; [[Michael Faraday]] showed in 1834 that the associated corrosion was unavoidable. The Daniell cell, invented in 1836 by John Frederic Daniell, was the first practical source of electricity and powered telegraph networks. Dry cells, which replaced liquid electrolyte with a paste, made portable devices practical near the end of the 19th century.
+
+Between 2010 and 2018, battery demand grew by 30% annually, reaching 180 GWh in 2018. Production involves mining of lithium, cobalt, and nickel, which can contaminate water sources and ecosystems.
+
+=== KEY: Electric_chair_cef115
+HEADWORD: Electric chair = 전기의자
+LEVEL: 5
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred P. Southwick = 앨프리드 P. 사우스윅
+  Buffalo = 버펄로
+  Buffalo, New York = 버펄로
+  Hanging = 교수형
+  Lethal injection = 독극물 주사
+  Philippines = 필리핀
+  U.S. states = 미국의 주
+  United States = 미국
+  York = 요크
+  capital punishment = 사형
+  electrocution = 전기 처형
+  lethal injection = 독극물 주사
+  the Philippines = 필리핀
+ENTRY:
+Specialized chair used for execution by electrocution. Alfred P. Southwick, a dentist in [[Buffalo, New York]], conceived the method in 1881 as a more humane alternative to [[Hanging|hanging]]. It was first used in 1890 and became a common method of capital punishment in the United States and the [[Philippines]]. Its use declined with the adoption of [[Lethal injection|lethal injection]], although electrocution remains legal in several U.S. states.
+
+=== KEY: Electric_charge_a68451
+HEADWORD: Electric charge = 전하
+LEVEL: 4
+GLOSSARY:
+  Coulomb = 쿨롬
+  Coulomb's law = 쿨롱 법칙
+  Electric field = 전기장
+  Electron = 전자
+  Matter = 물질
+  Michael Faraday = 마이클 패러데이
+  Physical = 「Physical」
+  Proton = 양성자
+  Robert Millikan = 로버트 밀리컨
+  SI unit = SI 단위
+  electrolysis = 전기 분해
+  electromagnetic field = 전자기장
+  electromagnetic force = 전자기력
+  elementary charge = 기본 전하
+  isolated system = 고립계
+  oil drop experiment = 기름방울 실험
+ENTRY:
+Physical property of [[Matter|matter]] that causes it to experience a force in an electromagnetic field. Charge is positive or negative: like charges repel and unlike charges attract. In ordinary matter, negative charge is carried by [[Electron|electrons]] and positive charge by the [[Proton|protons]] in atomic nuclei. Charge is quantized in integer multiples of the elementary charge, about 1.602×10⁻¹⁹ C, and in an isolated system the total charge does not change. Electric charges produce [[Electric field|electric fields]], and their interaction with the electromagnetic field is the source of the electromagnetic force. [[Coulomb's law]] makes that force proportional to the product of the charges and inversely proportional to the square of the distance between them. The SI unit is the [[Coulomb|coulomb]] (C). [[Michael Faraday]] was the first to note the discrete nature of charge, in his electrolysis experiments, and [[Robert Millikan]]'s oil drop experiment measured the elementary charge.
+
+=== KEY: Electric_current_1d557e
+HEADWORD: Electric current = 전류
+LEVEL: 4
+GLOSSARY:
+  Ampere = 암페어
+  Coulomb = 쿨롬
+  Electric charge = 전하
+  Incandescent light bulb = 백열전구
+  Ion = 이온
+  Joule = 줄
+  Joule heating = 줄 가열
+  Magnetic field = 자기장
+  SI unit = SI 단위
+  Semiconductor = 반도체
+  charge carriers = 전하 운반자
+  electrolytes = 전해질
+  holes = 정공
+  incandescent bulbs = 백열전구
+  inductors = 인덕터
+ENTRY:
+Flow of charged particles, such as electrons or [[Ion|ions]], through a conductor or space. It is defined as the net rate at which [[Electric charge|electric charge]] flows through a surface. In wires the charge carriers are usually electrons, in [[Semiconductor|semiconductors]] they can be electrons or holes, and in electrolytes they are ions. The SI unit is the [[Ampere|ampere]] (A), equal to one [[Coulomb|coulomb]] per second. Currents create [[Magnetic field|magnetic fields]] used in motors, generators, inductors and transformers. In ordinary conductors they cause Joule heating, which produces light in [[Incandescent light bulb|incandescent bulbs]]. By convention, current runs in the direction of positive charge, opposite to electron flow in wires.
+
+=== KEY: Electric_eel_a9c11b
+HEADWORD: Electric eel = 전기뱀장어
+LEVEL: 4
+GLOSSARY:
+  E. electricus = E. electricus
+  E. varii = E. varii
+  E. voltai = E. voltai
+  Eel = 뱀장어
+  Electric battery = 전지
+  Electrophorus = 전기뱀장어속
+  Genus = 속
+  Gymnotiformes = 전기뱀장어목
+  South America = 남아메리카
+  obligate air-breathers = 절대 공기 호흡 생물
+ENTRY:
+Genus of freshwater fish native to South America, *Electrophorus*, whose members stun prey with shocks of up to 860 volts. The electrical abilities of the fish were first studied in 1775, contributing to the invention of the [[Electric battery|electric battery]] in 1800. Despite the name, electric eels are not closely related to [[Eel|true eels]] but belong to the order Gymnotiformes. They are nocturnal, obligate air-breathers that mainly eat fish, and they keep growing throughout life. Captive specimens have lived for over 20 years. In 2019 the genus was divided into three species: *E. electricus*, *E. voltai* and *E. varii*.
+
+=== KEY: Electric_field_64b665
+HEADWORD: Electric field = 전기장
+LEVEL: 4
+GLOSSARY:
+  Atomic nucleus = 원자핵
+  Chemical bond = 화학 결합
+  Coulomb's law = 쿨롱 법칙
+  Electric charge = 전하
+  Electromagnetic field = 전자기장
+  Michael Faraday = 마이클 패러데이
+  Physical = 「Physical」
+  electromagnetic field = 전자기장
+  field lines = 전기력선
+  test charge = 시험 전하
+ENTRY:
+Physical field that surrounds [[Electric charge|electrically charged]] particles and exerts attractive or repulsive forces on other charges. Two charges must be present for these forces to act. The force follows [[Coulomb's law]], growing with the magnitude of the charges and weakening with distance. Defined as the force per unit charge on a positive test charge at rest, the field is measured in volts per meter (V/m), equal to newtons per coulomb (N/C). Electric fields originate from electric charges and time-varying currents, and together with magnetic fields they form the [[Electromagnetic field|electromagnetic field]]. In atoms, the field between the [[Atomic nucleus|nucleus]] and electrons holds them together, and the interaction between atoms gives rise to [[Chemical bond|chemical bonding]]. [[Michael Faraday]] introduced field lines to visualize the field.
+
+=== KEY: Electric_generator_7e8f6f
+HEADWORD: Electric generator = 발전기
+LEVEL: 4
+GLOSSARY:
+  Alternating current = 교류
+  Dynamos = 직류 발전기
+  Electric motor = 전동기
+  Electrical grid = 전력망
+  Faraday disk = 패러데이 원판
+  Faraday's law of induction = 패러데이 전자기 유도 법칙
+  Internal combustion engine = 내연 기관
+  Michael Faraday = 마이클 패러데이
+  Steam turbine = 증기 터빈
+  Wind turbine = 풍력 터빈
+  alternating current = 교류
+  alternators = 교류 발전기
+  commutator = 정류자
+  direct current = 직류
+  electromagnetic induction = 전자기 유도
+  gas turbines = 가스 터빈
+  internal combustion engines = 내연 기관
+  mechanical energy = 역학적 에너지
+  wind turbines = 풍력 터빈
+ENTRY:
+Electromechanical device that converts mechanical energy to electrical energy for use in an external circuit. Sources of mechanical energy include [[Steam turbine|steam turbines]], gas turbines, water turbines, [[Internal combustion engine|internal combustion engines]], [[Wind turbine|wind turbines]] and even hand cranks. Generators produce nearly all the electric power for worldwide [[Electrical grid|grids]]. Dynamos generate pulsing direct current through a commutator, while alternators generate [[Alternating current|alternating current]]. The principle of electromagnetic induction, later called [[Faraday's law of induction]], was discovered by [[Michael Faraday]] in 1831–1832, and his Faraday disk, invented in 1831, was the first electromagnetic generator. Motors and generators are very similar, and some [[Electric motor|motors]] can run in reverse as generators.
+
+=== KEY: Electric_guitar_2b4cf5
+HEADWORD: Electric guitar = 일렉트릭 기타
+LEVEL: 4
+GLOSSARY:
+  Blues = 블루스
+  Guitar = 기타
+  Heavy metal music = 헤비 메탈
+  Jazz = 재즈
+  Loudspeaker = 스피커
+  Pickups = 픽업
+  Rock and roll = 로큰롤
+  Stratocaster = 스트래토캐스터
+  Telecaster = 텔레캐스터
+  big bands = 빅 밴드
+  blues rock = 블루스 록
+  distortion = 디스토션
+  electric blues = 일렉트릭 블루스
+  electric guitar = 일렉트릭 기타
+  heavy metal = 헤비메탈
+  overdrive = 오버드라이브
+  reverb = 리버브
+  riffs = 리프
+  rock and roll = 로큰롤
+ENTRY:
+Guitar that requires electric amplification to be heard at typical performance volumes. Pickups convert string vibrations into electrical signals, which [[Loudspeaker|loudspeakers]] reproduce, and effects such as reverb, distortion and overdrive shape the sound. Jazz guitarists adopted the instrument, which allowed single-note solos in big bands. Early models were hollow-bodied, and solid-body designs such as Leo Fender's Telecaster (1950) and Stratocaster (1954) followed. During the 1950s and 1960s the electric guitar became the most important instrument in popular music, central to [[Blues|electric blues]], [[Rock and roll|rock and roll]] and [[Heavy metal music|heavy metal]]. In rock, it serves as a rhythm instrument playing chords and riffs, or as a lead instrument for melodies and solos.
+
+=== KEY: Electric_light_e370ef
+HEADWORD: Electric light = 전등
+LEVEL: 4
+GLOSSARY:
+  Edison = 에디슨
+  Energy = 에너지
+  Humphry Davy = 험프리 데이비
+  Incandescent light bulb = 백열전구
+  Joseph Swan = 조지프 스완
+  Light-emitting diode = 발광 다이오드
+  Semiconductor = 반도체
+  Swan = 고니
+  Thomas = 토머스
+  Thomas Edison = 토머스 에디슨
+  Tungsten = 텅스텐
+  Vasily Petrov = 바실리 페트로프
+  William = 윌리엄
+  William D. Coolidge = 윌리엄 D. 쿨리지
+  arc light = 아크등
+  band gap = 띠틈
+  electric arc = 전기 아크
+  fluorescent lamps = 형광등
+  gas-discharge lamps = 기체 방전등
+  tungsten filament = 텅스텐 필라멘트
+ENTRY:
+Device that produces light from electricity, the most common form of artificial lighting. The three main categories are [[Incandescent light bulb|incandescent lamps]], in which a filament is heated white-hot by current; gas-discharge lamps, such as fluorescent lamps; and [[Light-emitting diode|light-emitting diodes]] (LEDs), which emit light as electrons cross a band gap in a [[Semiconductor|semiconductor]]. In 1802 Vasily Petrov developed the first persistent electric arc, and [[Humphry Davy]] demonstrated an arc light in 1806. [[Thomas Edison]] and Joseph Swan independently developed functional incandescent lamps in the late 1870s and 1880s. William D. Coolidge introduced a [[Tungsten|tungsten]] filament, for which he applied for a patent in 1912, and it became standard. Energy efficiency has significantly improved since the 19th century.
+
+=== KEY: Electric_motor_6dc9eb
+HEADWORD: Electric motor = 전동기
+LEVEL: 3
+GLOSSARY:
+  Lorentz force = 로런츠 힘
+  Machine = 기계
+  Michael Faraday = 마이클 패러데이
+  Moritz Hermann von Jacobi = 모리츠 헤르만 폰 야코비
+  Nikola Tesla = 니콜라 테슬라
+  Tesla = 테슬라
+  Thomas = 토머스
+  Thomas Davenport = 토머스 대븐포트
+  actuator = 액추에이터
+  alternating current = 교류
+  armature = 전기자
+  brushless = 브러시리스
+  carbon brushes = 탄소 브러시
+  commutator = 정류자
+  direct current = 직류
+  ferromagnetic core = 강자성체 철심
+  induction motor = 유도 전동기
+  machine tools = 공작 기계
+  magnetic circuit = 자기 회로
+  magnetic field = 자기장
+  marine propulsion = 선박 추진
+  mechanical energy = 역학적 에너지
+  power grid = 전력망
+  pumped storage = 양수 발전
+  regenerative braking = 회생 제동
+  rotor = 회전자
+  stator = 고정자
+  three-phase = 삼상
+  torque = 토크
+  traction motors = 견인 전동기
+ENTRY:
+Machine that converts electrical energy into mechanical energy. Most electric motors work through the interaction between the motor's magnetic field and current in a wire winding, which generates [[Lorentz force]] as torque on the motor's shaft. An electric generator is mechanically identical but operates inversely.
+
+Motors may be powered by direct current sources such as batteries or by alternating current sources such as a power grid, and may be brushed or brushless, single-phase or three-phase, air-cooled or liquid-cooled. They produce linear or rotary force and so are a type of actuator. The largest, used for marine propulsion, pipeline compression, and pumped storage, exceed 100 megawatts. Other uses include fans, pumps, machine tools, household appliances, power tools, vehicles, and disk drives. In regenerative braking, traction motors run in reverse as generators to recover energy otherwise lost as heat and friction.
+
+A motor has two mechanical parts: the rotor, which moves, and the stator, which does not. Electrically it consists of field magnets, electromagnets or permanent magnets, and the armature, wire windings on a ferromagnetic core; together they form a magnetic circuit. The stator core is made of thin insulated laminations, which reduce losses from circulating eddy currents. In commutated motors, a commutator, a rotary switch contacted by carbon brushes, reverses the current in the rotor windings every half turn (180°) so the torque keeps one direction; such motors have been mostly replaced by brushless designs.
+
+British scientist [[Michael Faraday]] constructed the first primitive electric motor in 1821 using a mercury bath and wire. Moritz Hermann von Jacobi created the first practical rotating motor in 1834, and Thomas Davenport patented a practical direct-current motor in 1837. [[Nikola Tesla]] patented the induction motor in 1888.
+
+=== KEY: Electric_potential_3adf5f
+HEADWORD: Electric potential = 전위
+LEVEL: 4
+GLOSSARY:
+  Coulomb = 쿨롬
+  Earth = 지구
+  Electric field = 전기장
+  Electric potential = 전위
+  Volt = 볼트
+  Work (physics) = 일
+  electric field = 전기장
+  electrostatic potential = 정전 퍼텐셜
+  gradient = 기울기
+  magnetic vector potential = 자기 벡터 퍼텐셜
+  potential difference = 전위차
+  potential energy = 퍼텐셜 에너지
+  test charge = 시험 전하
+  vector potential = 벡터 퍼텐셜
+ENTRY:
+Electric potential energy per unit charge at a point in an [[Electric field|electric field]], also called electrostatic potential. It is measured in joules per [[Coulomb|coulomb]], or [[Volt|volts]] (V), and is often denoted V or φ. It is the [[Work (physics)|work]] needed to move a test charge from a reference point to a specific point in a static field, normalized to unit charge. The reference point is conventionally the Earth or a point at infinity, where the potential is zero. The potential difference between two points is the work done per unit charge when a charge moves between them. In classical electrostatics the field is the gradient of the potential. In time-varying fields, the potential combines with the magnetic vector potential to describe the field.
+
+=== KEY: Electric_power_distribution_b174b7
+HEADWORD: Electric power distribution = 배전
+LEVEL: 4
+GLOSSARY:
+  Circuit breaker = 차단기
+  Power station = 발전소
+  Transformer = 변압기
+  United States = 미국
+  substations = 변전소
+  utility poles = 전신주
+  utilization voltage = 사용 전압
+ENTRY:
+Final stage in the delivery of electricity, from the transmission system to individual consumers. Distribution substations lower transmission voltage to medium voltage, usually between 600 V and 35 kV, using [[Transformer|transformers]]. Primary distribution lines carry this power to distribution transformers near customers, which step it down to the utilization voltage used by lighting and appliances; in the United States, residential customers usually receive 120/240 V. Urban distribution is mainly underground, while rural distribution is mostly overhead on utility poles. Distribution became necessary in the 1880s, when electricity began to be generated at [[Power station|power stations]] rather than where it was used. Substations use [[Circuit breaker|circuit breakers]] and switches to disconnect parts of the network.
+
+=== KEY: Electric_power_transmission_11782e
+HEADWORD: Electric power transmission = 송전
+LEVEL: 4
+GLOSSARY:
+  Alternating current = 교류
+  Direct current = 직류
+  Electrical grid = 전력망
+  Northeast = 북동부
+  Underground = 『언더그라운드』
+  Voltage = 전압
+  alternating current = 교류
+  direct current = 직류
+  high-voltage direct current = 고압 직류 송전
+  submarine cables = 해저 케이블
+  three-phase = 삼상
+ENTRY:
+Bulk movement of electrical energy from a generating site, such as a power plant, to an electrical substation, carried by transmission lines. Lines carry either [[Alternating current|alternating current]] (AC) or [[Direct current|direct current]] (DC). Voltage is raised for long-distance transmission and reduced for local distribution, because higher voltages mean lower currents and lower losses. Most North American lines are three-phase AC, while high-voltage direct current (HVDC) is used for long distances, submarine cables and links between grids that are not synchronized. Underground transmission costs more to install but lowers maintenance costs. Interconnected lines form networks that offer redundant routes; the U.S. Northeast experienced blackouts in 1965, 1977 and 2003. The combined transmission and distribution network is known as the [[Electrical grid|electrical grid]].
+
+=== KEY: Electric_ray_8af566
+HEADWORD: Electric ray = 전기가오리
+LEVEL: 4
+GLOSSARY:
+  Alessandro Volta = 알레산드로 볼타
+  Cavendish = 캐번디시
+  Henry Cavendish = 헨리 캐번디시
+  Latin = 라틴어
+  Luigi = 루이지
+  Luigi Galvani = 루이지 갈바니
+  Torpedo = 어뢰
+  Volt = 볼트
+  Volta = 볼타강
+  cartilaginous fishes = 연골어류
+  electrochemistry = 전기 화학
+  electrophysiology = 전기 생리학
+  pectoral fins = 가슴지느러미
+  torpere = torpere
+ENTRY:
+Order of flattened cartilaginous fishes with enlarged pectoral fins, able to produce electric discharges. Its 69 species in four families discharge 8 to 220 [[Volt|volts]] to stun prey and deter predators. The fish lie in wait below sand and use shocks to capture invertebrates and small fish. The undersea torpedo weapon is named after the genus [[Torpedo]], whose name comes from Latin *torpere*, meaning "to be stiffened or paralyzed." The ancient Greeks used the rays to numb pain during childbirth and operations. The electric organs were studied in the 1770s, and [[Henry Cavendish]] built an artificial ray of Leyden jars in 1773 to mimic their behavior. Their research is thought to have influenced [[Luigi Galvani]] and [[Alessandro Volta]], founders of electrophysiology and electrochemistry.
+
+=== KEY: Electrical_cable_ac0178
+HEADWORD: Electrical cable = 전기 케이블
+LEVEL: 4
+GLOSSARY:
+  Assembly = 민회
+  Copper = 구리
+  Electric current = 전류
+  Electromagnetic field = 전자기장
+  Polyethylene = 폴리에틸렌
+  Tin = 주석
+  Wire = 전선
+  World = 세계
+  World War II = 제2차 세계 대전
+  electromagnetic field = 전자기장
+  soldering = 납땜
+  stranded = 연선
+ENTRY:
+Assembly of one or more [[Wire|wires]], running side by side or bundled, that carries [[Electric current|electric current]]. Cables connect two or more devices, transferring power or electrical signals, and undersea cables carry long-distance communication. Conductors are usually insulated and may be stranded for flexibility. Copper wires are often plated with [[Tin|tin]], gold or silver, which resist oxidation and ease soldering. Insulation was once made of cloth, rubber or paper, but plastics are used today except in high-reliability power cables. [[Polyethylene]], invented in 1930, is still a very common insulation material, though it was not available outside military use until after World War II. Any current-carrying cable radiates an [[Electromagnetic field|electromagnetic field]] and can pick up noise from other fields, which is usually undesirable.
+
+=== KEY: Electrical_connector_4bbd7a
+HEADWORD: Electrical connector = 전기 커넥터
+LEVEL: 4
+GLOSSARY:
+  Copper = 구리
+  Corrosion = 부식
+  Gold = 금
+  Nickel = 니켈
+  OSI model = OSI 모형
+  Printed circuit board = 인쇄 회로 기판
+  Tin = 주석
+  contact resistance = 접촉 저항
+  physical layer = 물리 계층
+  resistance = 저항
+ENTRY:
+Electromechanical device that creates an electrical connection between parts of a circuit, or between different circuits. Connections may be removable, require a tool, or be permanent. The male component, or plug, joins the female component, or socket. Thousands of configurations serve power, data and audiovisual applications, classed as inline or cable connectors, chassis or panel connectors, [[Printed circuit board|PCB]]-mount connectors, and splice or butt connectors. In computing, connectors form part of the physical layer of the OSI model. Copper alloy electrodes are often coated with [[Gold|gold]], [[Nickel|nickel]] or [[Tin|tin]] to resist [[Corrosion|corrosion]] and reduce contact resistance. Contact carriers are usually plastic, which is insulating.
+
+=== KEY: Electrical_engineering_e0673f
+HEADWORD: Electrical engineering = 전기 공학
+LEVEL: 3
+GLOSSARY:
+  Alessandro Volta = 알레산드로 볼타
+  Edison = 에디슨
+  Edward Davy = 에드워드 데이비
+  Electrical telegraphy = 전신
+  Engineering = 공학
+  Georg Ohm = 게오르크 옴
+  Gilbert = 길버트 제도
+  Hans Christian Ørsted = 한스 크리스티안 외르스테드
+  IEEE = IEEE
+  Institute of Electrical and Electronics Engineers = 전기 전자 기술자 협회
+  James = 야고보
+  James Clerk Maxwell = 제임스 클러크 맥스웰
+  Joseph Henry = 조지프 헨리
+  Machine = 기계
+  Machine learning = 기계 학습
+  Manhattan = 맨해튼
+  Michael Faraday = 마이클 패러데이
+  Ohm = 옴
+  Technische Universität Darmstadt = 다름슈타트 공과대학교
+  Thomas = 토머스
+  Thomas Edison = 토머스 에디슨
+  Volta = 볼타강
+  William = 윌리엄
+  William Gilbert = 윌리엄 길버트
+  computer engineering = 컴퓨터 공학
+  control engineering = 제어 공학
+  electrical engineering = 전기공학
+  electrical relay = 계전기
+  electromagnetic induction = 전자기 유도
+  farad = 패럿
+  henry = 헨리
+  instrumentation = 계측
+  magnetic field = 자기장
+  photonics = 광자학
+  photovoltaic cells = 태양 전지
+  potential difference = 전위차
+  power engineering = 전력 공학
+  radio-frequency engineering = 무선 주파수 공학
+  signal processing = 신호 처리
+  voltaic pile = 볼타 전지
+ENTRY:
+Engineering discipline concerned with the study, design, and application of equipment, devices, and systems that use electricity, electronics, and electromagnetism. It emerged as an identifiable occupation in the latter half of the 19th century, after the commercialization of the electric telegraph, the telephone, and electrical power generation, distribution, and use. Engineers typically hold a degree in the subject and may belong to professional bodies such as the Institute of Electrical and Electronics Engineers (IEEE).
+
+The field encompasses computer engineering, power engineering, telecommunications, radio-frequency engineering, signal processing, instrumentation, control engineering, photovoltaic cells, electronics, and optics and photonics. Many of these overlap with other branches of engineering. Machine learning and computer science were historically developed as fields of electrical engineering.
+
+William Gilbert drew the first clear distinction between magnetism and static electricity. By 1800 [[Alessandro Volta]] had developed the voltaic pile. In 1820 [[Hans Christian Ørsted]] discovered that an electric current produces a magnetic field; Georg Ohm quantified the relation between current and potential difference in 1827; [[Michael Faraday]] discovered electromagnetic induction in 1831; Joseph Henry and Edward Davy invented the electrical relay in 1835; and [[James Clerk Maxwell]] published a unified theory of electricity and magnetism in 1873. Electrical telegraphy may be considered the first example of electrical engineering. By the late 19th century practitioners had built a global telegraph network, and the first professional institutions were founded in the U.K. and the U.S.
+
+An international conference in Chicago in 1893 standardized the units volt, ampere, coulomb, ohm, farad, and henry. The Technische Universität Darmstadt founded the world's first department of electrical engineering in 1882 and introduced the first degree course in 1883. [[Thomas Edison]] opened a commercial power plant in lower Manhattan in 1882, serving 59 customers.
+
+=== KEY: Electrical_grid_7d012d
+HEADWORD: Electrical grid = 전력망
+LEVEL: 4
+GLOSSARY:
+  Alternating current = 교류
+  Electric power distribution = 배전
+  Electric power transmission = 송전
+  Europe = 유럽
+  North America = 북아메리카
+  Power station = 발전소
+  Voltage = 전압
+  alternating current = 교류
+  interconnections = 연계 계통
+  microgrids = 마이크로그리드
+  substations = 변전소
+  three-phase = 삼상
+  wide-area synchronous grids = 광역 동기 전력망
+ENTRY:
+Interconnected network for delivering electricity from producers to consumers. Grids consist of [[Power station|power stations]], substations that step [[Voltage|voltage]] up or down, [[Electric power transmission|transmission]] lines over long distances, and [[Electric power distribution|distribution]] networks to customers. Power stations are typically built close to energy sources and far from densely populated areas. Grids are nearly always synchronous, with three-phase [[Alternating current|alternating current]] frequencies synchronized. Grids range from microgrids, which can disconnect and operate autonomously during outages, to wide-area synchronous grids covering whole countries or continents. North America has four major interconnections, and most of continental Europe is served by one grid. About 840 million people, mostly in Africa, had no access to grid electricity in 2017, down from 1.2 billion in 2010.
+
+=== KEY: Electrical_impedance_1fc76e
+HEADWORD: Electrical impedance = 임피던스
+LEVEL: 4
+GLOSSARY:
+  Alternating current = 교류
+  Capacitance = 전기 용량
+  Inductance = 인덕턴스
+  Ohm = 옴
+  Oliver Heaviside = 올리버 헤비사이드
+  Siemens (unit) = 지멘스
+  admittance = 어드미턴스
+  alternating current = 교류
+  imaginary part = 허수부
+  reactance = 리액턴스
+  real part = 실수부
+  resistance = 저항
+ENTRY:
+Opposition of a circuit to [[Alternating current|alternating current]], combining resistance and reactance. Impedance is a complex quantity, usually denoted Z and measured in [[Ohm|ohms]] (Ω), the same unit as resistance. It is the ratio of the complex voltage across a two-terminal element to the complex current through it, and it generally depends on the frequency of the sinusoidal voltage. Resistance forms the real part of impedance, while reactance, arising from [[Inductance|inductance]] and [[Capacitance|capacitance]], forms the imaginary part. Impedance allows AC networks to be analyzed with a linear law, and its reciprocal, admittance, is measured in [[Siemens (unit)|siemens]]. The term was coined by Oliver Heaviside in July 1886.
+
+=== KEY: Electrical_network_0c0172
+HEADWORD: Electrical network = 전기 회로망
+LEVEL: 4
+GLOSSARY:
+  Kirchhoff's current law = 키르히호프의 전류 법칙
+  Kirchhoff's voltage law = 키르히호프의 전압 법칙
+  Norton's theorem = 노턴 정리
+  Resistor = 저항기
+  Thévenin's theorem = 테브냉 정리
+  Transistor = 트랜지스터
+  current law = 전류 법칙
+  inductors = 인덕터
+  superposition = 중첩 원리
+  voltage law = 전압 법칙
+ENTRY:
+Interconnection of electrical components, or a model of one, built from elements such as voltage sources, current sources, resistances, inductances and capacitances. A circuit is a network with a closed loop that gives current a return path; networks without a closed loop are often called open circuits. A resistive network contains only [[Resistor|resistors]] and ideal current and voltage sources, and is simpler to analyze than a network containing capacitors and inductors. A network containing active electronic components, such as [[Transistor|transistors]], is an electronic circuit, which is generally nonlinear and needs more complex design tools. Analysis applies Kirchhoff's current law, under which the currents at any node sum to zero, and Kirchhoff's voltage law, under which the voltages around any closed loop sum to zero. Theorems such as superposition, Thévenin's theorem and Norton's theorem simplify linear networks.
+
+=== KEY: Electrical_resistance_and_conductance_3293c9
+HEADWORD: Electrical resistance and conductance = 전기 저항과 컨덕턴스
+LEVEL: 4
+GLOSSARY:
+  Copper = 구리
+  Diode = 다이오드
+  Incandescent light bulb = 백열전구
+  Ohm = 옴
+  Ohm's law = 옴의 법칙
+  SI unit = SI 단위
+  Siemens (unit) = 지멘스
+  Superconductors = 초전도체
+  Transformer = 변압기
+  chordal or static resistance = 정저항
+  conductance = 컨덕턴스
+  differential resistance = 미분 저항
+  resistance = 저항
+ENTRY:
+Measure of an object's opposition to electric current, and its reciprocal, conductance. Resistance R is the ratio of the voltage across an object to the current through it, and conductance G is the reciprocal, G = 1/R. The SI unit of resistance is the [[Ohm|ohm]] (Ω), and conductance is measured in [[Siemens (unit)|siemens]] (S). Resistance depends largely on material: insulators such as rubber have very high resistance, while metals such as [[Copper|copper]] have very low resistance. It also depends on shape, since a long, thin wire has higher resistance than a short, thick one. Superconductors have zero resistance. For ohmic materials, voltage and current are directly proportional, a relation known as [[Ohm's law]]. In devices such as a [[Diode|diode]], [[Transformer|transformer]] or [[Incandescent light bulb|incandescent light bulb]], they are not proportional, so the ratio V/I (chordal or static resistance) or the derivative dV/dI (differential resistance) may be more useful. In metals, resistance typically rises linearly with temperature; in semiconductors it often falls.
+
+=== KEY: Electrical_resistivity_and_conductivity_667d51
+HEADWORD: Electrical resistivity and conductivity = 비저항과 전기 전도율
+LEVEL: 5
+GLOSSARY:
+  Conductivity = 전기 전도율
+  Copper = 구리
+  Electrical resistance and conductance = 전기 저항과 컨덕턴스
+  Resistivity = 비저항
+  ohm-meters = 옴미터
+  resistance = 저항
+  siemens per meter = 지멘스 매 미터
+ENTRY:
+Intrinsic properties of a material that measure its ability to resist or conduct electric current; each is the reciprocal of the other. Resistivity, commonly denoted ρ (rho), is measured in ohm-meters (Ω⋅m). Conductivity, commonly denoted σ (sigma), is measured in siemens per meter (S/m). Unlike [[Electrical resistance and conductance|resistance]], resistivity does not depend on an object's size or shape. [[Copper|Copper]] has a resistivity of about 1.68 × 10⁻⁸ Ω⋅m at 20 °C, while glass has a resistivity on the order of 10¹⁰ to 10¹⁴ Ω⋅m.
+
+=== KEY: Electrical_wiring_4f4da8
+HEADWORD: Electrical wiring = 전기 배선
+LEVEL: 4
+GLOSSARY:
+  American Wire Gauge = 미국 전선 규격
+  Commission = 위원회
+  International Electrotechnical Commission = 국제 전기 기술 위원회
+  National Electrical Code = 미국 전기 규정
+  Non-metallic sheathed cable = 비금속 피복 케이블
+  North America = 북아메리카
+  Switch = 스위치
+  United States = 미국
+  armored cable = 외장 케이블
+  distribution boards = 분전반
+  rigid metal conduit = 강제 전선관
+ENTRY:
+Installation of cabling and associated devices, such as [[Switch|switches]], distribution boards, outlets and light fittings, in a building or other structure. Wire and cable types and sizes are specified by circuit voltage and current capacity, and by environmental conditions such as temperature, moisture, sunlight and chemicals. The International Electrotechnical Commission (IEC) sets international wire sizes in IEC 60228, while North America uses the American Wire Gauge. Common conductors are copper or aluminum. Non-metallic sheathed cable is widely used in homes, while armored cable and rigid metal conduit protect wiring in commercial and industrial settings. In the United States, installation is governed by the National Electrical Code (NFPA 70). Wiring codes, including wire colors, vary by country, and the IEC is working to harmonize them. Insulation prevents short circuits.
+
+=== KEY: Electricity_656e43
+HEADWORD: Electricity = 전기
+LEVEL: 2
+GLOSSARY:
+  Albert = 앨버트
+  Albert Einstein = 알베르트 아인슈타인
+  Alessandro Volta = 알레산드로 볼타
+  Alexander Graham Bell = 알렉산더 그레이엄 벨
+  André-Marie Ampère = 앙드레마리 앙페르
+  Bell = 종
+  Bell Labs = 벨 연구소
+  Benjamin Franklin = 벤저민 프랭클린
+  Coulomb's law = 쿨롱 법칙
+  De Magnete = 『자석에 대하여』
+  Edison = 에디슨
+  Einstein = 아인슈타인
+  Electric charge = 전하
+  Electric current = 전류
+  Electric potential = 전위
+  Electricity = 전기
+  Electromagnetism = 전자기학
+  Georg Ohm = 게오르크 옴
+  George Westinghouse = 조지 웨스팅하우스
+  Gilbert = 길버트 제도
+  Hans Christian Ørsted = 한스 크리스티안 외르스테드
+  Industrial Revolution = 산업 혁명
+  James = 야고보
+  James Clerk Maxwell = 제임스 클러크 맥스웰
+  John = 존
+  John Bardeen = 존 바딘
+  Luigi = 루이지
+  Luigi Galvani = 루이지 갈바니
+  Maxwell's equations = 맥스웰 방정식
+  Michael Faraday = 마이클 패러데이
+  Miletus = 밀레투스
+  Neo-Latin = 신라틴어
+  Nikola Tesla = 니콜라 테슬라
+  Ohm = 옴
+  People = 『피플』
+  Pseudodoxia Epidemica = 『전염성 유견』
+  Second = 초
+  Second Industrial Revolution = 제2차 산업 혁명
+  Tesla = 테슬라
+  Thales = 탈레스
+  Thales of Miletus = 밀레토스의 탈레스
+  Thomas = 토머스
+  Thomas Edison = 토머스 에디슨
+  Walter Houser Brattain = 월터 하우저 브래튼
+  Westinghouse = 웨스팅하우스
+  William = 윌리엄
+  William Gilbert = 윌리엄 길버트
+  charge carriers = 전하 운반자
+  electric field = 전기장
+  electrical engineering = 전기공학
+  electromagnetism = 전자기학
+  electrostatic machines = 정전기 발생기
+  lodestone = 천연 자석
+  magnetic field = 자기장
+  photoelectric effect = 광전 효과
+  point-contact = 점접촉
+  vacuum tubes = 진공관
+  voltaic pile = 볼타 전지
+ENTRY:
+Set of physical phenomena associated with the presence and motion of matter possessing an electric charge. Electricity is related to magnetism, both being parts of [[Electromagnetism|electromagnetism]], as described by [[Maxwell's equations]]. Common phenomena include lightning, static electricity, electric heating, and electric discharges.
+
+A positive or negative [[Electric charge|electric charge]] produces an electric field. The motion of charge carriers is an [[Electric current|electric current]] and produces a magnetic field. In most applications, Coulomb's law determines the force on a charged particle. Electric potential is the work done to move a charge within an electric field, typically measured in volts. Electricity serves in electric power and in electronics, which deals with circuits involving active components such as vacuum tubes, transistors, diodes, and integrated circuits. It is integral to transport, heating and cooling, lighting, communications, and computation.
+
+People were aware of shocks from electric fish long before any knowledge of electricity. Ancient Egyptian texts dating from 2750 BC described them as the "protectors" of all other fish. Thales of Miletus made observations on static electricity around 600 BC, noting that rubbed amber attracts light objects. In 1600 the English scientist William Gilbert wrote *De Magnete*, distinguishing the lodestone effect from static electricity produced by rubbing amber, and coined the Neo-Latin word *electricus*, from the Greek *elektron*, "amber." The words "electric" and "electricity" first appeared in print in Thomas Browne's *Pseudodoxia Epidemica* of 1646.
+
+[[Benjamin Franklin]] conducted extensive research in the 18th century; in June 1752 he is reputed to have flown a kite in a storm-threatened sky, and sparks jumping from a metal key showed that lightning was electrical. In 1791 Luigi Galvani published his discovery that electricity was the medium by which neurons passed signals to muscles. [[Alessandro Volta]]'s voltaic pile of 1800 gave scientists a more reliable source of electrical energy than electrostatic machines. Hans Christian Ørsted and André-Marie Ampère recognized the unity of electric and magnetic phenomena in 1819–1820. [[Michael Faraday]] invented the electric motor in 1821, and Georg Ohm mathematically analyzed the electrical circuit in 1827. James Clerk Maxwell definitively linked electricity, magnetism, and light in 1861 and 1862.
+
+The late 19th century brought the greatest progress in electrical engineering, through figures including Alexander Graham Bell, Thomas Edison, [[Nikola Tesla]], and George Westinghouse. This expansion drove the Second Industrial Revolution. In 1905 Albert Einstein explained the photoelectric effect as light energy carried in discrete quantized packets. John Bardeen and Walter Houser Brattain invented the first working transistor, a germanium-based point-contact device, at Bell Labs in 1947.
+
+=== KEY: Electricity_generation_510c26
+HEADWORD: Electricity generation = 발전
+LEVEL: 4
+GLOSSARY:
+  Alternating current = 교류
+  Coal = 석탄
+  Michael Faraday = 마이클 패러데이
+  Pearl = 진주
+  Pearl Street Station = 펄 스트리트 발전소
+  Steam engine = 증기 기관
+  York = 요크
+  alternating current = 교류
+  direct current = 직류
+  dynamos = 발전기
+  fossil fuels = 화석 연료
+  heat engines = 열기관
+  hydraulic turbines = 수력 터빈
+  kinetic energy = 운동 에너지
+  nuclear fission = 핵분열
+  power station = 발전소
+  steam engine = 증기 기관
+  terawatt-hours = 테라와트시
+ENTRY:
+Process of generating electric power from primary energy sources, usually at a power station. Most electricity is produced by electromechanical generators driven by heat engines fueled by combustion or nuclear fission, or by the kinetic energy of flowing water and wind. The basic principles were discovered in the 1820s and early 1830s by [[Michael Faraday]], who showed that a loop of wire moving between the poles of a magnet generates electricity. Commercial production began when dynamos were coupled to hydraulic turbines, and central stations became practical with [[Alternating current|alternating current]] transmission. In 1882 a [[Steam engine|steam engine]] driving a dynamo at Pearl Street Station in New York began supplying direct current for public lighting. Global output exceeded 30,000 terawatt-hours in 2024, with fossil fuels such as [[Coal|coal]] and natural gas still comprising around 60% of generation. Low-carbon sources accounted for 80% of the 1,200 terawatt-hour growth in 2024.
+
+=== KEY: Electrocardiography_e46796
+HEADWORD: Electrocardiography = 심전도 검사
+LEVEL: 4
+GLOSSARY:
+  12-lead ECG = 12유도 심전도
+  Arrhythmia = 부정맥
+  Atrial fibrillation = 심방세동
+  Augustus = 아우구스투스
+  Augustus Waller = 오거스터스 월러
+  Heart = 심장
+  Myocardial infarction = 심근 경색
+  P wave = P파
+  QRS complex = QRS 복합체
+  T wave = T파
+  Willem Einthoven = 빌럼 에인트호번
+  atrial depolarization = 심방 탈분극
+  atrial fibrillation = 심방세동
+  electrocardiogram = 심전도
+  electrolyte = 전해질
+  electrolyte disturbances = 전해질 장애
+  myocardial infarction = 심근 경색
+  pacemaker = 인공 심박 조율기
+  ventricular depolarization = 심실 탈분극
+  ventricular repolarization = 심실 재분극
+ENTRY:
+Recording of the [[Heart|heart]]'s electrical activity using electrodes placed on the skin, producing a graph of voltage over time called an electrocardiogram (ECG or EKG). Each heartbeat produces a P wave, representing atrial depolarization; a QRS complex, representing ventricular depolarization; and a T wave, representing ventricular repolarization. A conventional 12-lead ECG uses ten electrodes and records the heart's electrical potential from twelve angles, usually over ten seconds, with the patient lying down. Augustus Waller recorded the first human ECG in 1887, and Willem Einthoven introduced the modern ECG in 1902. The standardized 12-lead system was in use by 1954. An ECG can reveal [[Arrhythmia|arrhythmias]] such as [[Atrial fibrillation|atrial fibrillation]], [[Myocardial infarction|myocardial infarction]] and electrolyte disturbances, and it is used to monitor pacemaker function and assess risk before surgery.
+
+=== KEY: Electrochemistry_cf93d1
+HEADWORD: Electrochemistry = 전기화학
+LEVEL: 4
+GLOSSARY:
+  Alessandro Volta = 알레산드로 볼타
+  Branch = 브랜치
+  Electric battery = 전지
+  Electrolysis = 전기 분해
+  Electrolytic cells = 전해 전지
+  Luigi = 루이지
+  Luigi Galvani = 루이지 갈바니
+  Michael Faraday = 마이클 패러데이
+  Redox = 산화 환원 반응
+  Volta = 볼타강
+  electrolyte = 전해질
+  electroplating = 전기 도금
+  fuel cells = 연료 전지
+  galvanic cells = 갈바니 전지
+  laws of electrolysis = 전기 분해 법칙
+  lithium-ion batteries = 리튬 이온 전지
+  physical chemistry = 물리 화학
+  potential difference = 전위차
+  voltaic pile = 볼타 전지
+ENTRY:
+Branch of physical chemistry concerned with the relationship between electrical potential difference and chemical change. Electrochemical reactions involve electrons moving through an external circuit between electrodes separated by an ionically conducting electrolyte, rather than transferring directly between atoms or molecules. Electrolytic cells use external electrical energy to drive non-spontaneous reactions, as in [[Electrolysis|electrolysis]], while galvanic cells, such as [[Electric battery|batteries]], harness spontaneous [[Redox|redox]] reactions to generate electricity. The field began in the late 18th century with the work of [[Luigi Galvani]] on muscle contraction. [[Alessandro Volta]] developed the voltaic pile in 1800, the first device to produce a steady current from chemical reactions. [[Michael Faraday]] formulated the laws of electrolysis in the 1830s. Applications include rechargeable lithium-ion batteries, corrosion prevention, electroplating and fuel cells.
+
+=== KEY: Electrolysis_c26a21
+HEADWORD: Electrolysis = 전기 분해
+LEVEL: 4
+GLOSSARY:
+  Alessandro Volta = 알레산드로 볼타
+  Anthony = 앤서니
+  Anthony Carlisle = 앤서니 칼라일
+  Carlisle = 칼라일
+  Chlorine = 염소
+  Copper = 구리
+  Hall-Héroult process = 홀-에루 공정
+  Humphry Davy = 험프리 데이비
+  Hydrogen = 수소
+  Michael Faraday = 마이클 패러데이
+  Oxygen = 산소
+  Sodium hydroxide = 수산화 나트륨
+  Volta = 볼타강
+  Water = 물
+  William = 윌리엄
+  William Nicholson = 윌리엄 니컬슨
+  alkali and alkaline earth metals = 알칼리 금속과 알칼리 토금속
+  alkaline earth = 알칼리 토금속
+  anode = 양극
+  bauxite = 보크사이트
+  cathode = 음극
+  chlor-alkali process = 염소-알칼리 공정
+  electrolyte = 전해질
+  electrorefining = 전해 정련
+  laws of electrolysis = 전기 분해 법칙
+  sodium hydroxide = 수산화 나트륨
+  voltaic pile = 볼타 전지
+ENTRY:
+Technique that uses direct electric current to drive a non-spontaneous chemical reaction, typically decomposing an electrolyte into simpler substances. The reaction takes place in an electrolytic cell, with oxidation at the anode and reduction at the cathode. Its discovery followed the invention of the voltaic pile by [[Alessandro Volta]] in 1800, when William Nicholson and Anthony Carlisle decomposed water into [[Hydrogen|hydrogen]] and [[Oxygen|oxygen]] gases. [[Michael Faraday]] introduced the term in 1834 and formulated the quantitative laws of electrolysis in 1833. [[Humphry Davy]] isolated several alkali and alkaline earth metals by electrolyzing molten salts. Industrial uses include the chlor-alkali process, which produces [[Chlorine|chlorine]] and [[Sodium hydroxide|sodium hydroxide]]; the Hall-Héroult process for aluminum extraction from bauxite; and electrorefining of [[Copper|copper]]. Water electrolysis is increasingly used to produce hydrogen for steelmaking and transportation, though cost-effective efficiency at scale remains a challenge.
+
+=== KEY: Electromagnet_0c1692
+HEADWORD: Electromagnet = 전자석
+LEVEL: 4
+GLOSSARY:
+  Copper = 구리
+  Electric motor = 전동기
+  Hans Christian Ørsted = 한스 크리스티안 외르스테드
+  Iron = 철
+  Joseph Henry = 조지프 헨리
+  Loudspeaker = 스피커
+  MRI = MRI
+  Magnet = 자석
+  Relay = 계전기
+  ferromagnetic core = 강자성체 철심
+  fields = 체
+  magnetic field = 자기장
+  magnetic flux = 자기 선속
+  permeability = 투자율
+  relative permeability = 비투자율
+  soft iron = 연철
+ENTRY:
+Magnet in which the magnetic field is produced by an electric current, usually flowing through a coil of [[Copper|copper]] wire. The coil is often wound around a ferromagnetic core such as [[Iron|iron]], which concentrates the magnetic flux and strengthens the field by a factor equal to the core's relative permeability, often 200–5,000 for soft iron. Unlike a [[Magnet|permanent magnet]], an electromagnet's field can be changed quickly by adjusting the current and switched off entirely, but it requires a continuous current to maintain it. [[Hans Christian Ørsted]] showed in 1820 that electric currents produce magnetic fields. In the early 1830s Joseph Henry built practical electromagnets with insulated wire that allowed multiple coil layers around an iron core; one design lifted over 2,000 pounds. Electromagnets are used in [[Electric motor|motors]], [[Relay|relays]], [[Loudspeaker|loudspeakers]] and MRI machines, and in industry to lift scrap iron.
+
+=== KEY: Electromagnetic_field_958ded
+HEADWORD: Electromagnetic field = 전자기장
+LEVEL: 4
+GLOSSARY:
+  Classical electrodynamics = 고전 전기역학
+  Electromagnetic radiation = 전자기 복사
+  James = 야고보
+  James Clerk Maxwell = 제임스 클러크 맥스웰
+  Lorentz force = 로런츠 힘
+  Maxwell's equations = 맥스웰 방정식
+  Photoelectric effect = 광전 효과
+  Physical = 「Physical」
+  Quantum electrodynamics = 양자 전기역학
+  electrodynamics = 전기역학
+  electromagnetic wave = 전자기파
+  electromagnetic waves = 전자기파
+  fields = 체
+  photoelectric effect = 광전 효과
+  quantum electrodynamics = 양자 전기역학
+ENTRY:
+Physical field, varying in space and time, made up of electric and magnetic fields produced by, and acting on, electric charges. A disturbance in one field can create a disturbance in the other, producing an oscillation that propagates through space as an [[Electromagnetic radiation|electromagnetic wave]]. [[Maxwell's equations]] describe how charges and currents produce the fields, and the [[Lorentz force]] gives the force on a moving charge. Classical electrodynamics describes the field and many macroscopic phenomena, but it cannot explain the [[Photoelectric effect|photoelectric effect]]. Explaining such atomic-scale effects required quantization of the field and [[Quantum electrodynamics|quantum electrodynamics]]. [[James Clerk Maxwell]] unified the theory in 1865, showing that electromagnetic waves travel at the speed of light.
+
+=== KEY: Electromagnetic_induction_6966c8
+HEADWORD: Electromagnetic induction = 전자기 유도
+LEVEL: 4
+GLOSSARY:
+  Electric generator = 발전기
+  Electric motor = 전동기
+  Faraday's law of induction = 패러데이 전자기 유도 법칙
+  Inductor = 인덕터
+  Institution = 제도
+  James = 야고보
+  James Clerk Maxwell = 제임스 클러크 맥스웰
+  Joseph Henry = 조지프 헨리
+  Lenz's law = 렌츠의 법칙
+  Michael Faraday = 마이클 패러데이
+  Royal Institution = 왕립 연구소
+  Transformer = 변압기
+  electromotive force = 기전력
+  horseshoe magnet = 말굽자석
+  magnetic field = 자기장
+ENTRY:
+Production of an electromotive force (emf) across an electrical conductor in a changing magnetic field, which can drive an electric current in a closed circuit. [[Michael Faraday]] demonstrated it in 1831 at the Royal Institution in London, first by winding a copper coil on an iron ring, and then by rotating a copper disc between the poles of a horseshoe magnet, the precursor of the [[Electric generator|electric generator]]. Joseph Henry discovered similar effects around 1832. [[James Clerk Maxwell]] described the process mathematically as [[Faraday's law of induction|Faraday's law]], and Lenz's law gives the direction of the induced field. The effect underlies [[Inductor|inductors]], [[Transformer|transformers]], [[Electric motor|motors]] and generators.
+
+=== KEY: Electromagnetic_radiation_76dfda
+HEADWORD: Electromagnetic radiation = 전자기 복사
+LEVEL: 3
+GLOSSARY:
+  Composite = 콤퍼지트
+  Maxwell's equations = 맥스웰 방정식
+  Quantum electrodynamics = 양자 전기역학
+  Wave = 파동
+  Wave–particle duality = 파동-입자 이중성
+  X-rays = 엑스선
+  black-body radiation = 흑체 복사
+  electrodynamics = 전기역학
+  electromagnetic field = 전자기장
+  elementary particles = 기본 입자
+  fields = 체
+  gamma rays = 감마선
+  medical imaging = 의료 영상
+  photons = 광자
+  quantum mechanics = 양자역학
+  radiant energy = 복사 에너지
+  radio waves = 전파
+  refractive index = 굴절률
+  rest mass = 정지 질량
+  superposition = 중첩
+  transverse wave = 횡파
+  visible spectrum = 가시 스펙트럼
+ENTRY:
+Self-propagating wave of the electromagnetic field that carries momentum and radiant energy through space. It is classified by frequency, which is inversely proportional to wavelength, in a spectrum running from radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, to gamma rays. All forms travel at the speed of light in a vacuum and exhibit [[Wave–particle duality|wave–particle duality]], behaving both as waves and as discrete particles called photons.
+
+The radiation is produced by accelerating charged particles and may be emitted naturally, as by the Sun, or generated artificially. Its energy needs no propagating medium. Its interaction with matter depends on wavelength, which shapes its uses. Radio waves enable broadcasting and wireless communication, infrared is used in thermal imaging, and visible light is essential for vision. X-rays and gamma rays are applied in medical imaging, cancer treatment, and industrial inspection, and radiation in the ultraviolet and above has been associated with negative health effects.
+
+Electric and magnetic fields obey superposition, so light waves can interfere constructively or destructively. In homogeneous, isotropic media the radiation is a transverse wave: the electric and magnetic fields are perpendicular to each other and to the direction of travel, as [[Maxwell's equations]] require. The waves can be polarized, reflected, refracted, or diffracted. Composite light disperses into a visible spectrum when passing through a prism, because the refractive index depends on wavelength.
+
+In quantum mechanics, the radiation consists of photons, uncharged elementary particles with zero rest mass that are the quanta of the electromagnetic field. Wave characteristics are more apparent over large timescales and distances, particle characteristics over small ones; the self-interference of a single photon displays both. Quantum electrodynamics is the theory of how the radiation interacts with matter on an atomic level; further sources include electron transitions to lower energy levels and black-body radiation.
+
+=== KEY: Electromagnetic_spectrum_062afd
+HEADWORD: Electromagnetic spectrum = 전자기 스펙트럼
+LEVEL: 4
+GLOSSARY:
+  Gamma ray = 감마선
+  Infrared = 적외선
+  Light = 빛
+  Microwave = 마이크로파
+  Radio wave = 전파
+  Spectroscopy = 분광학
+  Ultraviolet = 자외선
+  X-ray = 엑스선
+  X-rays = 엑스선
+  electromagnetic radiation = 전자기 복사
+  electromagnetic waves = 전자기파
+  extreme ultraviolet = 극자외선
+  gamma rays = 감마선
+  ionizing = 전리
+  photons = 광자
+  radio waves = 전파
+ENTRY:
+Full range of electromagnetic radiation, organized by frequency or wavelength. From low to high frequency, the bands are [[Radio wave|radio waves]], [[Microwave|microwaves]], [[Infrared|infrared]], [[Light|visible light]], [[Ultraviolet|ultraviolet]], [[X-ray|X-rays]] and [[Gamma ray|gamma rays]]. Radio waves have the longest wavelengths, thousands of kilometers or more, and are used for communication and broadcasting. Microwaves penetrate clouds and are used in radar and satellite transmissions. Infrared radiation is associated with thermal emission and is detected as heat. Gamma rays, X-rays and extreme ultraviolet are ionizing, because their photons can ionize atoms, whereas visible light is non-ionizing. All electromagnetic waves travel at the speed of light in a vacuum. Spectroscopy, which measures intensity as a function of frequency, is used to study the interaction of electromagnetic waves with matter.
+
+=== KEY: Electromagnetism_5290ab
+HEADWORD: Electromagnetism = 전자기학
+LEVEL: 3
+GLOSSARY:
+  Electric charge = 전하
+  Electricity = 전기
+  Electromagnetic radiation = 전자기 복사
+  Maxwell's equations = 맥스웰 방정식
+  Quantum electrodynamics = 양자 전기역학
+  electric field = 전기장
+  electrodynamics = 전기역학
+  electromagnetic force = 전자기력
+  electromagnetic radiation = 전자기 복사
+  electromagnetic wave = 전자기파
+  electromagnetic waves = 전자기파
+  electroplating = 전기 도금
+  electrostatics = 정전기학
+  electroweak interaction = 약전자기 상호작용
+  fields = 체
+  fundamental forces = 기본 상호작용
+  magnetic field = 자기장
+  magnetostatics = 정자기학
+  permeability = 투자율
+  permittivity = 유전율
+  photons = 광자
+  special relativity = 특수 상대성 이론
+  weak force = 약한 상호 작용
+ENTRY:
+Interaction between particles with [[Electric charge|electric charge]], mediated by electromagnetic fields. The electromagnetic force is one of the four fundamental forces of nature and the dominant force in the interactions of atoms and molecules. It relates [[Electricity|electricity]], magnetism, and optics, studied in the subdisciplines of electrostatics, magnetostatics, and electrodynamics. It is the second strongest of the four known fundamental forces and has unlimited range; at high energy it unifies with the weak force as the electroweak interaction.
+
+The electrostatic attraction between atomic nuclei and their electrons holds atoms together, and electric forces allow atoms to combine into molecules. The force underlies electrical energy production and distribution, fiber optic and wireless communication, sensors, computation, electrolysis, electroplating, and mechanical motors and actuators.
+
+It has been studied since ancient times to explain lightning, static electricity, and the attraction between magnetized pieces of iron ore and compasses. In the 18th and 19th centuries scientists developed mathematical relationships between these phenomena and electric charges and currents, and showed that they could create self-sustaining electromagnetic waves, which form visible light and other [[Electromagnetic radiation|electromagnetic radiation]].
+
+Mathematically, the phenomenon is described by electromagnetic fields. A disturbance in the electric field can create one in the magnetic field, which in turn affects the electric field, producing an oscillation that propagates through space as an electromagnetic wave. [[Maxwell's equations]] encapsulate these relations.
+
+The requirement that observations stay consistent across moving frames of reference, and the fixing of the speed of light by the permeability and permittivity of the medium, helped inspire Einstein's theory of special relativity in 1905. Quantum electrodynamics modifies Maxwell's equations to be consistent with the quantized nature of matter, expressing changes in the field as discrete excitations called photons.
+
+=== KEY: Electromotive_force_473be5
+HEADWORD: Electromotive force = 기전력
+LEVEL: 4
+GLOSSARY:
+  Electromagnetic induction = 전자기 유도
+  Energy = 에너지
+  Solar cell = 태양 전지
+  Volt = 볼트
+  electromagnetic induction = 전자기 유도
+  internal resistance = 내부 저항
+  mechanical energy = 역학적 에너지
+  open-circuit voltage = 개방 회로 전압
+  resistance = 저항
+  solar cells = 태양 전지
+  source voltage = 전원 전압
+  terminal voltage = 단자 전압
+ENTRY:
+Energy transferred to an electric circuit per unit of electric charge, measured in [[Volt|volts]] and denoted ℰ. Devices that convert other forms of energy into electrical energy produce an emf, including batteries, which convert chemical energy, generators, which convert mechanical energy, and [[Solar cell|solar cells]]. Despite the name, emf is not a physical force, and ISO/IEC standards have deprecated the term in favor of source voltage. The emf of a two-terminal device can be measured as its open-circuit voltage. Real sources have internal resistance, so their terminal voltage falls below the ideal emf as current flows. In [[Electromagnetic induction|electromagnetic induction]], the emf around a closed loop is the work done on a unit charge traveling once around the loop.
+
+=== KEY: Electron_0df2da
+HEADWORD: Electron = 전자
+LEVEL: 3
+GLOSSARY:
+  Gilbert = 길버트 제도
+  J. J. Thomson = J. J. 톰슨
+  Millikan = 밀리컨
+  Neo-Latin = 신라틴어
+  Pauli exclusion principle = 파울리 배타 원리
+  Positron = 양전자
+  Robert Millikan = 로버트 밀리컨
+  Subatomic particle = 아원자 입자
+  William = 윌리엄
+  William Gilbert = 윌리엄 길버트
+  angular momentum = 각운동량
+  cathode = 음극
+  cathode ray tubes = 음극선관
+  cathode rays = 음극선
+  charge carriers = 전하 운반자
+  doping = 도핑
+  electron beam = 전자 빔
+  electron beam welding = 전자빔 용접
+  electron microscopes = 전자 현미경
+  elementary charge = 기본 전하
+  elementary particle = 기본 입자
+  elementary particles = 기본 입자
+  exclusion principle = 배타 원리
+  fermions = 페르미온
+  holes = 정공
+  lepton = 렙톤
+  lithography = 리소그래피
+  matter wave = 물질파
+  nuclear force = 핵력
+  orbitals = 오비탈
+  particle accelerators = 입자 가속기
+  photons = 광자
+  quantum state = 양자 상태
+  rest mass = 정지 질량
+  strong nuclear force = 강한 상호작용
+  thermal conductivity = 열전도율
+  valence = 원자가
+  valence electrons = 원자가 전자
+ENTRY:
+[[Subatomic particle]] whose electric charge is negative one elementary charge. It is an elementary particle contained in the matter that makes up the universe. Its charge is −1.602 × 10⁻¹⁹ coulombs and its rest mass approximately 9.109 × 10⁻³¹ kg, about 1/1836 that of a proton. In atoms, an electron's matter wave occupies orbitals around the positively charged nucleus, and the configuration of an atom's electrons determines its chemical properties. The outermost, or valence, electrons are the least tightly bound and form chemical bonds between atoms.
+
+Electrons belong to the first generation of the lepton family, elementary particles that do not interact with the strong nuclear force, and have no known substructure. Their intrinsic angular momentum (spin) is ħ/2. As fermions, no two electrons can occupy the same quantum state, according to the [[Pauli exclusion principle]]. They show properties of both particles and waves, and can be diffracted like light. Their antiparticle, the [[Positron|positron]], is identical except for opposite charge; when the two collide they can annihilate, producing gamma ray photons.
+
+In metals the outermost electrons are delocalized and move freely, accounting for high electrical and thermal conductivity. In semiconductors the number of mobile charge carriers, electrons and holes, can be tuned by doping, temperature, voltage, and radiation, the basis of modern electronics. Free electron beams in a vacuum are used in cathode ray tubes, electron microscopes, electron beam welding, lithography, and particle accelerators.
+
+The ancient Greeks noticed that amber attracted small objects when rubbed with fur. In 1600 William Gilbert coined the Neo-Latin term *electrica* for such substances, from the Greek *ēlektron*, "amber." The British physicist J. J. Thomson discovered the electron in 1897 through experiments with cathode rays, showing that they consist of negatively charged particles much smaller than atoms. [[Robert Millikan]] measured its charge in 1909.
+
+=== KEY: Electron_configuration_d9e95a
+HEADWORD: Electron configuration = 전자 배치
+LEVEL: 4
+GLOSSARY:
+  Aufbau principle = 쌓음 원리
+  Chemical bond = 화학 결합
+  Electron = 전자
+  Electron configuration = 전자 배치
+  Pauli exclusion principle = 파울리 배타 원리
+  Periodic table = 주기율표
+  energy level = 에너지 준위
+  exclusion principle = 배타 원리
+  ground state = 바닥상태
+  molecular geometry = 분자 구조
+  orbitals = 오비탈
+  periodic table = 주기율표
+  quantum numbers = 양자수
+  subshells = 버금 껍질
+ENTRY:
+Distribution of electrons among the atomic or molecular orbitals of an atom or molecule. For example, the configuration of neon is 1s² 2s² 2p⁶, meaning that the 1s, 2s and 2p subshells hold two, two and six electrons. Each electron is described by four quantum numbers, and the [[Pauli exclusion principle]] states that no two electrons can share the same set of four. The Aufbau principle dictates that electrons fill orbitals from the lowest energy level upward, producing the ground state, the lowest-energy configuration. An electron can move to a different configuration by emitting or absorbing a photon. Electron configuration explains the structure of the [[Periodic table|periodic table]], the nature of [[Chemical bond|chemical bonds]] and molecular geometry, and the behavior of lasers and semiconductors.
+
+=== KEY: Electron_microscope_803de8
+HEADWORD: Electron microscope = 전자 현미경
+LEVEL: 4
+GLOSSARY:
+  Electron = 전자
+  Electron optics = 전자 광학
+  Microscope = 현미경
+  Vacuum = 진공
+  backscattered electrons = 후방 산란 전자
+  electron microscopes = 전자 현미경
+  scanning electron microscope = 주사 전자 현미경
+  transmission electron microscope = 투과 전자 현미경
+  tungsten filament = 텅스텐 필라멘트
+ENTRY:
+Microscope that uses a beam of accelerated [[Electron|electrons]], rather than light, to produce magnified images of specimens. Electron optics, using electromagnetic lenses, focus the beam. Because the wavelength of an electron can be more than 100,000 times smaller than that of visible light, electron microscopes resolve detail to about 0.1 nm, compared with about 200 nm for light microscopes. In a transmission electron microscope (TEM), electrons pass through a specimen less than 0.5 μm thick, revealing internal atomic structure at magnifications exceeding 1 million times. A scanning electron microscope (SEM) scans a focused beam over a surface and detects secondary or backscattered electrons, producing three-dimensional images at resolutions around 1 nm. The instrument operates in a [[Vacuum|vacuum]], with electrons generated by a tungsten filament and accelerated at 20 to 120 kV.
+
+=== KEY: Electron_shell_bdd743
+HEADWORD: Electron shell = 전자 껍질
+LEVEL: 4
+GLOSSARY:
+  Bohr model = 보어 모형
+  Periodic table = 주기율표
+  X-ray = 엑스선
+  atomic orbitals = 원자 궤도
+  energy level = 에너지 준위
+  orbitals = 오비탈
+  periodic table = 주기율표
+  principal quantum number = 주양자수
+  quantum mechanics = 양자역학
+  subshells = 버금 껍질
+ENTRY:
+Group of atomic orbitals that share the same principal quantum number, n, and therefore the same energy level and average distance from the nucleus. Shells are labeled 1, 2, 3 and so on, or K, L, M in X-ray notation, starting from the innermost. A shell can hold up to 2n² electrons: two in the first shell, eight in the second and 18 in the third. Each shell consists of one or more subshells, and each subshell consists of one or more atomic orbitals. The concept originated in the [[Bohr model]] of the atom, which is now understood through quantum mechanics as discrete energy states rather than fixed circular orbits. Each period of the conventional [[Periodic table|periodic table]] represents an electron shell.
+
+=== KEY: Electronegativity_fed0d7
+HEADWORD: Electronegativity = 전기 음성도
+LEVEL: 5
+GLOSSARY:
+  Berzelius = 베르셀리우스
+  Caesium = 세슘
+  Fluorine = 플루오린
+  Jöns Jacob Berzelius = 옌스 야코브 베르셀리우스
+  Linus Pauling = 라이너스 폴링
+  Pauling scale = 폴링 척도
+  bond polarity = 결합 극성
+  chemical bond = 화학 결합
+  covalent = 공유
+  valence = 원자가
+  valence electrons = 원자가 전자
+ENTRY:
+Tendency of an atom to attract the shared electrons of a chemical bond, symbolized χ. It depends on nuclear charge and on the distance of the valence electrons from the nucleus. The term was introduced by [[Jöns Jacob Berzelius]] in 1811. [[Linus Pauling]] proposed the Pauling scale in 1932, running from 0.79 for [[Caesium|caesium]] to 3.98 for [[Fluorine|fluorine]], with hydrogen at 2.20. The difference in electronegativity between bonded atoms indicates bond polarity, from nonpolar covalent to ionic.

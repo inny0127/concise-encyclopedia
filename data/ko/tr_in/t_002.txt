@@ -1,0 +1,981 @@
+=== KEY: A_r_Mountains_4dd1f8
+HEADWORD: Aïr Mountains = 아이르산맥
+LEVEL: 4
+GLOSSARY:
+  Caldera = 칼데라
+  Carboniferous = 석탄기
+  Granite = 화강암
+  Niger = 니제르
+  Sahara = 사하라 사막
+  Sahel = 사헬
+  Uranium = 우라늄
+  gueltas = 겔타
+  massif = 산괴
+  peralkaline = 과알칼리질
+  ring dike = 환상 암맥
+  vascular plant = 관다발식물
+ENTRY:
+Triangular massif in northern [[Niger]], within the [[Sahara]]. It rises above 1,800 m (5,900 ft) and covers 84,000 sq km (32,000 sq mi). Its plateau, at 500–900 m, has a [[Sahel]] climate, an island of vegetation amid desert that supports farming and pastoral communities. The massif is built largely of dark peralkaline [[Granite|granite]] intrusions, with volcanic features including an extinct [[Caldera|caldera]] and one of the largest ring dike systems in the world. Carboniferous sandstone and coal to the west contain [[Uranium|uranium]] derived from the massif's granites. More than 430 vascular plant species have been recorded, and seasonal rains fill stone pools called gueltas.
+
+=== KEY: A_search_algorithm_e077db
+HEADWORD: A* search algorithm = A* 알고리즘
+LEVEL: 5
+GLOSSARY:
+  Bertram Raphael = 버트럼 라파엘
+  Computer science = 컴퓨터 과학
+  Dijkstra's algorithm = 데이크스트라 알고리즘
+  Heuristic = 휴리스틱
+  Nils Nilsson = 닐스 닐슨
+  Peter = 베드로
+  Peter Hart = 피터 하트
+  Raphael = 라파엘로
+  Shakey = 셰이키
+  space complexity = 공간 복잡도
+  weighted graph = 가중 그래프
+ENTRY:
+Graph traversal and pathfinding algorithm used in many fields of [[Computer science|computer science]]. Given a weighted graph, a source node and a goal node, it finds the shortest path between them. It can be seen as an extension of [[Dijkstra's algorithm]] that uses a [[Heuristic|heuristic]] to guide its search. Peter Hart, Nils Nilsson and Bertram Raphael first published it in 1968; it was created for the Shakey project, which aimed to build a mobile robot that could plan its own actions. Its main practical drawback is its O(bd) space complexity.
+
+=== KEY: Aachen_f1ef0e
+HEADWORD: Aachen = 아헨
+LEVEL: 5
+GLOSSARY:
+  Aachen = 아헨
+  Aachener Printen = 아헤너 프린텐
+  Barbarossa = 바르바로사
+  Belgium = 벨기에
+  Carolingian = 카롤링거
+  Charlemagne = 샤를마뉴
+  City = 도시
+  Frankfurt = 프랑크푸르트
+  Frankish = 프랑크
+  Frankish Empire = 프랑크 왕국
+  Frederick = 프리드리히
+  Frederick Barbarossa = 프리드리히 1세
+  German = 독일어
+  Germany = 독일
+  Netherlands = 네덜란드
+  North Rhine-Westphalia = 노르트라인베스트팔렌주
+  RWTH Aachen University = 아헨 공과 대학교
+  University = 대학
+ENTRY:
+City in [[North Rhine-Westphalia]], western Germany, bordering [[Belgium]] and the Netherlands. Warm mineral springs drew Roman settlers, and the Carolingian palace completed at the turn of the 9th century made Aachen the main royal residence of the Frankish Empire under [[Charlemagne]]. Granted city rights in 1166 by [[Frederick Barbarossa]], it hosted the coronations of German kings from 936 to 1531, until Frankfurt became the preferred site. Home to RWTH Aachen University, a leading technical university, it is known for *Aachener Printen*, a gingerbread.
+
+=== KEY: Aaliyah_acbe69
+HEADWORD: Aaliyah = 알리야
+LEVEL: 5
+GLOSSARY:
+  Age Ain't Nothing but a Number = 『Age Ain't Nothing but a Number』
+  Bahamas = 바하마
+  Detroit = 디트로이트
+  Elliott = 엘리엇
+  Hip-hop = 힙합
+  Kelly = 켈리
+  Missy Elliott = 미시 엘리엇
+  Number = 수
+  One in a Million = 『One in a Million』
+  R. Kelly = R. 켈리
+  Romeo Must Die = 「로미오 머스트 다이」
+  Timbaland = 팀벌랜드
+ENTRY:
+American singer, actress and model, known as the "Princess of R&B" and credited with helping to redefine contemporary R&B, pop and [[Hip-hop|hip-hop]]. Raised in [[Detroit]], she signed with a record label at 12. Her debut album, *Age Ain't Nothing but a Number* (1994), was largely written and produced by [[R. Kelly]], her mentor. The follow-up, *One in a Million* (1996), made with producers Timbaland and Missy Elliott, sold more than eight million copies worldwide. Her acting debut was in *Romeo Must Die* (2000). She died in a plane crash in the Bahamas, and posthumous releases have continued her commercial success.
+
+=== KEY: Aamir_Khan_a0bc3c
+HEADWORD: Khan, Aamir = 칸, 아미르
+LEVEL: 5
+GLOSSARY:
+  3 Idiots = 「세 얼간이」
+  Aamir Khan = 아미르 칸
+  Aamir Khan Productions = 아미르 칸 프로덕션
+  Academy Award = 아카데미상
+  Best Foreign Language Film = 외국어 영화상
+  Dangal = 「당갈」
+  Film = 영화
+  Government = 정부
+  Government of India = 인도 정부
+  Hindi = 힌디어
+  India = 인도
+  Lagaan = 「라가안」
+  Language = 언어
+  Mr. Perfectionist = 미스터 퍼펙셔니스트
+  Padma Bhushan = 파드마 부샨 훈장
+  Padma Shri = 파드마 슈리 훈장
+  Satyamev Jayate = 「사티야메브 자야테」
+  Shri = 슈리
+  Taare Zameen Par = 「지상의 별처럼」
+ENTRY:
+[[India|Indian]] actor, filmmaker and television host who works in Hindi films, referred to in the media as "Mr. Perfectionist". He produced *Lagaan* (2001), nominated for the Academy Award for Best Foreign Language Film, and directed *Taare Zameen Par* (2007). His films *3 Idiots* (2009) and *Dangal* (2016) were among the highest-grossing Indian films. He founded Aamir Khan Productions in 1999 and hosted the television talk show *Satyamev Jayate*. The [[Government of India]] awarded him the Padma Shri in 2003 and the Padma Bhushan in 2010.
+
+=== KEY: Aardvark_5e5871
+HEADWORD: Aardvark = 땅돼지
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Afrikaans = 아프리칸스어
+  Ant = 개미
+  IUCN = 국제 자연 보전 연맹
+  IUCN Red List = IUCN 적색 목록
+  Least Concern = 최소 관심
+  Red List = 적색 목록
+  Termite = 흰개미
+  Tubulidentata = 관치목
+  afrotherian = 아프로테리아상목
+  elephant shrews = 코끼리땃쥐
+  golden moles = 황금두더지
+  hyraxes = 바위너구리
+  tenrecs = 텐렉
+ENTRY:
+Medium-sized, burrowing, nocturnal mammal native to [[Africa]]. Its Afrikaans name means earth pig, a reference to its burrowing, although it is not closely related to pigs. It is the only living member of the order Tubulidentata and is an afrotherian, a group that includes elephants, manatees and hyraxes. It is found over much of the southern two-thirds of the continent, avoiding mainly rocky areas, and feeds almost entirely on [[Ant|ants]] and [[Termite|termites]], which it digs out with powerful claws. It digs burrows for shelter and to rear its young. Its closest living relatives are elephant shrews, tenrecs and golden moles. The species is classified as Least Concern on the IUCN Red List.
+
+=== KEY: Aaron_Burr_1f1d61
+HEADWORD: Burr, Aaron = 버, 에런
+LEVEL: 5
+GLOSSARY:
+  Alabama = 앨라배마주
+  Alexander Hamilton = 알렉산더 해밀턴
+  Burr = 『버』
+  City = 도시
+  Democratic-Republican Party = 민주공화당
+  Duel = 결투
+  Jefferson = 제퍼슨
+  New York City = 뉴욕
+  Party = 파티
+  Thomas = 토머스
+  Thomas Jefferson = 토머스 제퍼슨
+  United States = 미국
+  United States Senate = 미국 상원
+  York = 요크
+  vice president = 부통령
+  vice president of the United States = 미국 부통령
+ENTRY:
+American lawyer and politician, third vice president of the United States (1801–1805) under [[Thomas Jefferson]]. Burr served in the [[United States Senate]] from 1791 to 1797 and helped form the Jeffersonian Democratic-Republican Party. He was not chosen as Jefferson's running mate in 1804, and that year he killed [[Alexander Hamilton]] in a [[Duel|duel]]. In 1807 he was arrested in [[Alabama]] on charges of treason over an alleged plot to create an independent country, and he was acquitted at each trial. He later resumed practicing law in [[New York City]].
+
+=== KEY: Aaron_Copland_5a5e5c
+HEADWORD: Copland, Aaron = 코플런드, 에런
+LEVEL: 4
+GLOSSARY:
+  Appalachian Spring = 「애팔래치아의 봄」
+  Arnold = 아르놀트
+  Arnold Schoenberg = 아르놀트 쇤베르크
+  Billy the Kid = 「빌리 더 키드」
+  Brooklyn = 브루클린
+  Columbia = 컬럼비아
+  Columbia Records = 컬럼비아 레코드
+  Dean of American Music = 미국 음악의 대부
+  Fanfare for the Common Man = 「보통 사람을 위한 팡파르」
+  Music = 음악
+  Nadia Boulanger = 나디아 불랑제
+  Paris = 파리
+  Piano = 피아노
+  Piano Quartet = 피아노 4중주
+  Quartet = 「콰르텟」
+  Rodeo = 「로데오」
+  Schoenberg = 쇤베르크
+  Symphony = 교향곡
+  Third = 교향곡 제3번
+  Third Symphony = 교향곡 3번
+  the Kid = “소년”
+  tone rows = 음렬
+ENTRY:
+American composer, conductor and teacher known as the "Dean of American Music". Born in [[Brooklyn]], he studied in Paris, working for three years with [[Nadia Boulanger]]. In the 1930s and 1940s he wrote in a deliberately accessible "vernacular" style, producing the ballets *Appalachian Spring*, *Billy the Kid* and *Rodeo*, *Fanfare for the Common Man* and his Third Symphony. His open, slowly changing harmonies evoke the American landscape and are often regarded as characteristic of American music. From the late 1940s he adopted twelve-tone techniques, as in his Piano Quartet (1950), but unlike [[Arnold Schoenberg]] he used tone rows as sources for melodies and harmonies rather than as complete statements. From the 1960s he concentrated increasingly on conducting, and he recorded much of his music for [[Columbia Records]].
+
+=== KEY: Aaron_Sorkin_efd649
+HEADWORD: Sorkin, Aaron = 소킨, 에런
+LEVEL: 5
+GLOSSARY:
+  A Few Good Men = 「어 퓨 굿 맨」
+  Academy Award = 아카데미상
+  Academy Award for Best Adapted Screenplay = 아카데미 각색상
+  Best Adapted Screenplay = 각색상
+  Broadway = 브로드웨이
+  City = 도시
+  Game = 게임
+  Molly's Game = 「몰리스 게임」
+  Moneyball = 「머니볼」
+  Network = 「네트워크」
+  New York City = 뉴욕
+  Night = 『밤』
+  Sports Night = 「스포츠 나이트」
+  Steve Jobs = 「스티브 잡스」
+  The Social Network = 「소셜 네트워크」
+  The West Wing = 「웨스트 윙」
+  West Wing = 웨스트 윙
+  Wing = 날개
+  York = 요크
+ENTRY:
+American screenwriter, playwright and filmmaker, born in [[New York City]] and known for fast-paced dialogue and "walk and talk" scenes. He created the television series *Sports Night* and *The West Wing*, and his Broadway play *A Few Good Men* (1989) was adapted into the 1992 film. His screenplay for *The Social Network* (2010) won the Academy Award for Best Adapted Screenplay. Other film screenplays include *Moneyball* (2011) and *Steve Jobs* (2015), and he made his directorial debut with *Molly's Game* (2017).
+
+=== KEY: Abacus_d8a292
+HEADWORD: Abacus = 주판
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Calculator = 계산기
+  China = 중국
+  Eastern Europe = 동유럽
+  Europe = 유럽
+  Japan = 일본
+  Near East = 근동
+  Russia = 러시아
+  counting frame = 셈판
+  decimal notation = 십진법
+ENTRY:
+Hand-operated calculating device in which beads slide on rods or in grooves within a frame. Also called a counting frame, it was used from ancient times in the Near East, Europe, China and Russia, and it supports addition, subtraction, multiplication, division, and square and cube roots. Each rod usually represents one digit in a base-ten positional system. The Sumerian abacus appeared between 2700 and 2300 BC. It was widely used in Europe as late as the 17th century but fell out of use with the spread of decimal notation and written methods. It was largely replaced by handheld [[Calculator|electronic calculators]] during the 1980s, although merchants in parts of Eastern Europe, Russia, China and Africa still use it. It is also used to teach arithmetic to children in Japan and China.
+
+=== KEY: Abalone_b91fbd
+HEADWORD: Abalone = 전복
+LEVEL: 5
+GLOSSARY:
+  Abalone = 전복
+  Aquaculture = 양식업
+  Cuisine = 요리
+  Haliotidae = 전복과
+  Haliotis = Haliotis
+  Haliotis rufescens = Haliotis rufescens
+  Kelp = 켈프
+  nacre = 진주층
+ENTRY:
+Sea snails of the genus *Haliotis*, the only genus in the family Haliotidae. The flattened, ear-shaped shell has a row of respiratory holes and an iridescent nacre interior. The largest species, *Haliotis rufescens*, reaches 300 mm (12 in). The flesh is widely considered a delicacy and is eaten raw or cooked in many [[Cuisine|cuisines]]. Abalone graze on [[Kelp|kelp]] and other algae, and [[Aquaculture|aquaculture]] has expanded to supply the market. Intense commercial fishing has depleted many wild stocks, and several species are endangered.
+
+=== KEY: Abbas_Kiarostami_bf6776
+HEADWORD: Kiarostami, Abbas = 키아로스타미, 압바스
+LEVEL: 4
+GLOSSARY:
+  BBC = BBC
+  BBC Culture = BBC 컬처
+  Bread = 빵
+  Cannes = 칸
+  Cannes Film Festival = 칸 영화제
+  Cherry = 체리
+  Close-Up = 「클로즈업」
+  Culture = 문화
+  Festival = 축제
+  Film = 영화
+  Iranian New Wave = 이란 뉴웨이브
+  Koker trilogy = 코케르 3부작
+  New Wave = 누벨바그
+  Palme d'Or = 황금종려상
+  Taste = 미각
+  Taste of Cherry = 「체리 향기」
+  Tehran = 테헤란
+  The Bread and Alley = 「빵과 골목길」
+  The Wind Will Carry Us = 「바람이 우리를 데려다 주리라」
+  Wave = 파동
+  Wind = 바람
+ENTRY:
+Iranian film director, screenwriter, poet and photographer, a figure of the Iranian New Wave. Born in [[Tehran]], he worked as a painter, graphic designer and advertiser before making films. His first film, *The Bread and Alley* (1970), was a short. His documentary-style narratives often featured child protagonists, rural villages and conversations filmed from stationary cameras inside cars, and they frequently blended fiction and documentary. The *Koker* trilogy (1987–1994), *Close-Up* (1990) and *The Wind Will Carry Us* (1999) won critical acclaim. *Taste of Cherry* (1997) received the Palme d'Or at the [[Cannes Film Festival]]. In a 2018 poll by [[BBC]] Culture, *Where Is the Friend's House?* (1987) and *Close-Up* ranked among the 100 best foreign films.
+
+=== KEY: Abbas_the_Great_581e76
+HEADWORD: Abbas the Great = 아바스 1세
+LEVEL: 4
+GLOSSARY:
+  Armenian = 아르메니아인
+  Caucasus = 캅카스
+  Circassian = 체르케스인
+  Dagestan = 다게스탄
+  Georgian = 조지아인
+  Iran = 이란
+  Isfahan = 이스파한
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Qizilbash = 키질바시
+  Safavid = 사파비 왕조
+  Safavid Iran = 사파비 왕조
+  Safavid dynasty = 사파비 왕조
+  Shah = 샤
+  South Caucasus = 남캅카스
+  Uzbeks = 우즈베크족
+ENTRY:
+Shah of Safavid Iran (r. 1588–1629), generally considered the most important ruler of the [[Safavid dynasty]]. He came to the throne at 16 after a coup, then took control of the state. To reduce the power of the Qizilbash tribal army, he built a force of slave-soldiers of Circassian, Georgian and Armenian origin and a regular army that reported directly to him. He fought the Ottoman Empire and the Uzbeks, regaining the South Caucasus and Dagestan. He moved the capital to [[Isfahan]], transforming it into a masterpiece of Safavid architecture, and he sought economic and diplomatic ties with Western countries. In his later years he had several of his sons killed or blinded.
+
+=== KEY: Abbasid_Caliphate_680f01
+HEADWORD: Abbasid Caliphate = 아바스 칼리파국
+LEVEL: 4
+GLOSSARY:
+  Abbas ibn Abd al-Muttalib = 압바스 이븐 압드 알무탈리브
+  Abbasid = 아바스 왕조
+  Abbasid Revolution = 아바스 혁명
+  Baghdad = 바그다드
+  Buyids = 부와이흐 왕조
+  Cairo = 카이로
+  Caliphate = 칼리파국
+  Harun al-Rashid = 하룬 알라시드
+  House of Wisdom = 지혜의 집
+  Iraq = 이라크
+  Mamluk = 맘루크
+  Mongols = 몽골족
+  Muhammad = 무함마드
+  Seljuk = 셀주크
+  Seljuk Turks = 셀주크 튀르크
+  Third = 교향곡 제3번
+  Turks = 튀르크인
+  Umayyad = 우마이야 왕조
+  Umayyad Caliphate = 우마이야 칼리파국
+  al-Mansur = 알만수르
+  caliphate = 칼리파국
+ENTRY:
+Third Islamic caliphate, ruled from Iraq by the Abbasid dynasty, with [[Baghdad]] as its capital for most of its history. The dynasty descended from Abbas ibn Abd al-Muttalib, an uncle of Muhammad, and came to power in 750, when the Abbasid Revolution overthrew the [[Umayyad Caliphate]]. The second caliph, al-Mansur, founded Baghdad in 762, and the reign of [[Harun al-Rashid]] (r. 786–809) marked the height of Abbasid power. Baghdad became a center of science and culture, home to the [[House of Wisdom]]. From the 9th century provinces grew autonomous, and by the 10th century the caliphs were figureheads while the Buyids and Seljuk Turks held real power. The caliphate effectively ended in 1258, when the [[Mongols]] sacked Baghdad. A surviving branch of the dynasty was reinstated in Cairo by the [[Mamluk]] sultans in 1261, but it had no political power.
+
+=== KEY: Abbey_Road_b5840b
+HEADWORD: Abbey Road = 애비 로드
+LEVEL: 5
+GLOSSARY:
+  Abbey Road = 『애비 로드』
+  Abbey Road Studios = 애비 로드 스튜디오
+  Apple Records = 애플 레코드
+  Beatles = 비틀스
+  George Harrison = 조지 해리슨
+  Here Comes the Sun = 「히어 컴스 더 선」
+  Let It Be = 『Let It Be』
+  Something = 「섬싱」
+  The Beatles = 비틀스
+  United Kingdom = 영국
+  United States = 미국
+ENTRY:
+Eleventh studio album by [[The Beatles]], released by Apple Records in 1969. It was the last album the group recorded, although *Let It Be* was released later. It topped the charts in the United States and the United Kingdom and has sold over 30 million copies. Side two contains a long medley of songs, and the album includes two George Harrison songs, "Something" and "Here Comes the Sun", considered among his best. The cover, showing the band crossing the zebra crossing outside Abbey Road Studios, is among the most imitated in music history.
+
+=== KEY: Abbott_and_Costello_9137f5
+HEADWORD: Abbott and Costello = 애벗과 코스텔로
+LEVEL: 5
+GLOSSARY:
+  Abbott and Costello Meet Frankenstein = 「애벗과 코스텔로, 프랑켄슈타인을 만나다」
+  Buck Privates = 「벅 프라이비츠」
+  Bud Abbott = 버드 애벗
+  Burlesque = 벌레스크
+  City = 도시
+  Lou Costello = 루 코스텔로
+  New York City = 뉴욕
+  Night = 『밤』
+  One Night in the Tropics = 「열대의 하룻밤」
+  Second = 초
+  Second World = 제2세계
+  Second World War = 제2차 세계 대전
+  Tropics = 열대
+  World = 세계
+  World War II = 제2차 세계 대전
+  York = 요크
+  straight man = 진행역
+  the Second World War = 제2차 세계 대전
+ENTRY:
+American comedy duo of Bud Abbott and Lou Costello, the most popular comedy team of the 1940s and 1950s. They met in 1935 at a [[Burlesque|burlesque]] theater in New York City, with Abbott as the straight man and Costello as the dimwitted comic. Their patter routine "Who's on First?" was first performed for a national radio audience in 1938 and is among the most famous comedy routines of all time. Their films included *One Night in the Tropics* (1940), *Buck Privates* (1941) and *Abbott and Costello Meet Frankenstein* (1948). They were among the highest-paid entertainers in the world during the [[World War II|Second World War]].
+
+=== KEY: Abd_Allah_al_Mahdi_Billah_10b5d8
+HEADWORD: Abd Allah al-Mahdi Billah = 압둘라 알마흐디 빌라
+LEVEL: 4
+GLOSSARY:
+  Abu Abdallah = 아부 압달라
+  Abu Abdallah al-Shi'i = 아부 압달라 알시이
+  Aghlabid = 아글라브 왕조
+  Aghlabid dynasty = 아글라브 왕조
+  Bedouin = 베두인
+  Berbers = 베르베르인
+  Byzantine = 비잔티움
+  Byzantine Empire = 비잔티움 제국
+  Caliphate = 칼리파국
+  Egypt = 이집트
+  Fatimid = 파티마 왕조
+  Fatimid Caliphate = 파티마 칼리파국
+  Ifriqiya = 이프리키야
+  Imam = 이맘
+  Isma'ili = 이스마일파
+  Kutama = 쿠타마족
+  Kutama Berbers = 쿠타마 베르베르인
+  Mahdiya = 마흐디야
+  Morocco = 모로코
+  Qarmatians = 카르마트파
+  Sa'id ibn al-Husayn = 사이드 이븐 알후사인
+  Shi'a = 시아파
+  Sijilmasa = 시질마사
+  Syria = 시리아
+  Tunisia = 튀니지
+  Tunisian = 튀니지인
+  al-Qa'im = 알카임
+  caliphate = 칼리파국
+  imamate = 이맘위
+ENTRY:
+Founder of the Isma'ili [[Fatimid Caliphate]], the only major Shi'a caliphate in Islamic history, and eleventh Imam of the Isma'ili branch of Shi'ism. Born Sa'id ibn al-Husayn, he led the secret Isma'ili missionary network and in 899 claimed the imamate for himself, causing a schism whose followers became the Qarmatians. Bedouin uprisings in Syria in 902–903 forced him to flee to Egypt and then to Sijilmasa in present-day Morocco. In 909 his missionary Abu Abdallah al-Shi'i, leading the [[Berbers|Kutama Berbers]], overthrew the Aghlabid dynasty of Ifriqiya, and he was proclaimed caliph in January 910. In 921 he moved his court to the newly built palace city of Mahdiya on the [[Tunisia|Tunisian]] coast. Two invasions of Egypt failed, and his war with the Byzantine Empire produced raids but no lasting gains. He was succeeded by his son al-Qa'im.
+
+=== KEY: Abd_al_Malik_ibn_Marwan_33f16a
+HEADWORD: Abd al-Malik ibn Marwan = 아브드 알말리크 이븐 마르완
+LEVEL: 4
+GLOSSARY:
+  Abd Allah ibn al-Zubayr = 압둘라 이븐 앗주바이르
+  Africa = 아프리카
+  Anatolia = 아나톨리아
+  Arabic = 아랍어
+  Carthage = 카르타고
+  Damascus = 다마스쿠스
+  Dome = 돔
+  Dome of the Rock = 바위의 돔
+  Iberian = 이베리아
+  Iberian Peninsula = 이베리아반도
+  Jerusalem = 예루살렘
+  Kairouan = 카이라완
+  Mecca = 메카
+  North Africa = 북아프리카
+  Peninsula = 반도
+  Umayyad = 우마이야 왕조
+  caliphate = 칼리파국
+ENTRY:
+Fifth Umayyad caliph (r. 685–705), who reunited the caliphate after a civil war. After defeating the rival caliph Abd Allah ibn al-Zubayr, who held [[Mecca]], he killed him in 692. Umayyad armies advanced into [[Anatolia]], and Carthage was destroyed and Kairouan recaptured in 698, paving the way for the conquest of western North Africa and the [[Iberian Peninsula]]. He made Arabic the language of administration, introduced a single Islamic currency, and centralized provincial government in Damascus. He also built the Dome of the Rock in Jerusalem, the earliest archaeologically attested religious monument built by a Muslim ruler.
+
+=== KEY: Abd_al_Rahman_III_d0bc9e
+HEADWORD: Abd al-Rahman III = 아브드 알라흐만 3세
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Berbers = 베르베르인
+  Córdoba = 코르도바
+  Emir of Córdoba = 코르도바의 아미르
+  Fatimid = 파티마 왕조
+  Maghrawa Berbers = 마그라와 베르베르인
+  Medina = 메디나
+  Medina Azahara = 메디나 아사아라
+  North Africa = 북아프리카
+  Simancas = 시망카스
+  Valdejunquera = 발데훈케라
+  al-Nasir li-Din Allah = 알나시르 리딘 알라
+  caliph of Córdoba = 코르도바의 칼리파
+  caliphate = 칼리파국
+  religious tolerance = 종교적 관용
+ENTRY:
+Emir of Córdoba (r. 912–929) and first caliph of Córdoba (r. 929–961). He took the title al-Nasir li-Din Allah, meaning Defender of God's Faith, after supporting the [[Berbers|Maghrawa Berbers]] against Fatimid expansion in North Africa. In 929 he elevated the emirate to a caliphate. He crushed internal rebellions and built the palace-city of Medina Azahara. Northern Christian kingdoms fought him at Valdejunquera and Simancas, but by the end of his reign they paid him homage. His reign of about half a century was known for religious tolerance.
+
+=== KEY: Abd_al_Rahman_I_f27601
+HEADWORD: Abd al-Rahman I = 아브드 알라흐만 1세
+LEVEL: 4
+GLOSSARY:
+  Abbasid = 아바스 왕조
+  Abbasids = 아바스 왕조
+  Africa = 아프리카
+  Al-Andalus = 알안달루스
+  Córdoba = 코르도바
+  Damascus = 다마스쿠스
+  Emirate of Córdoba = 코르도바 토후국
+  Falcon = 매
+  Fihrid = 피흐르 가문
+  Great Mosque = 대모스크
+  Great Mosque of Córdoba = 코르도바 대모스크
+  Mosque = 모스크
+  North Africa = 북아프리카
+  Palestine = 팔레스타인
+  Palestine (region) = 팔레스타인
+  Quraysh = 쿠라이시족
+  Saqr Quraysh = 사크르 쿠라이시
+  Umayyad = 우마이야 왕조
+  Umayyad dynasty = 우마이야 왕조
+  Umayyads = 우마이야 왕조
+  Yusuf al-Fihri = 유수프 알피흐리
+  al-Dakhil = 알다힐
+  emir = 에미르
+ENTRY:
+Founder and first emir of the Emirate of Córdoba (r. 756–788). A member of the Umayyad dynasty from [[Damascus]], he escaped the Abbasid overthrow of the Umayyads in 750 by fleeing through [[Palestine (region)|Palestine]] and North Africa to [[Al-Andalus|al-Andalus]]. In 756 he proclaimed himself emir there and defeated the Fihrid governor Yusuf al-Fihri. His government in Iberia broke with the Abbasids. He built a professional army loyal to the emir rather than to tribal factions and began the Great Mosque of Córdoba. The dynasty he founded lasted nearly three centuries. He was known by the surnames al-Dakhil, meaning the Immigrant, and Saqr Quraysh, meaning the Falcon of Quraysh.
+
+=== KEY: Abdel_Fattah_el_Sisi_49a50b
+HEADWORD: Sisi, Abdel Fattah el- = 시시, 압델 파타 엘
+LEVEL: 5
+GLOSSARY:
+  Cairo = 카이로
+  Canal = 운하
+  Egypt = 이집트
+  Human = 인간
+  Human Rights Watch = 휴먼 라이츠 워치
+  Mohamed Morsi = 무함마드 무르시
+  Rights = 인권
+  Security = 보안
+  Sisi = 시시
+  Suez Canal = 수에즈 운하
+  Watch = 손목시계
+  crimes against humanity = 인도에 반한 죄
+ENTRY:
+Egyptian military officer and politician, president of Egypt since 2014. As defense minister he led the armed forces in removing President Mohamed Morsi in July 2013. Security forces then dispersed pro-Morsi sit-ins in [[Cairo]], killing an estimated 800 to more than 1,000 people, which Human Rights Watch described as crimes against humanity. Sisi was elected in 2014 and re-elected in 2018 and 2023, when other candidates were barred or boycotted. Critics describe his government as authoritarian; supporters credit it with stability and with projects such as the 2015 expansion of the [[Suez Canal]].
+
+=== KEY: Abdomen_4db513
+HEADWORD: Abdomen = 복부
+LEVEL: 4
+GLOSSARY:
+  Gallbladder = 쓸개
+  Kidney = 콩팥
+  Liver = 간
+  Pancreas = 이자
+  Spleen = 비장
+  Stomach = 위
+  abdominal cavity = 복강
+  arthropods = 절지동물
+  cephalothorax = 두흉부
+  colon = 결장
+  metasoma = 후체부
+  pelvic brim = 골반테두리
+  pelvis = 골반
+  peritoneum = 복막
+  retroperitoneal organs = 후복막 장기
+  small intestine = 소장
+  thoracic diaphragm = 가로막
+  thorax = 흉부
+  ureters = 요관
+ENTRY:
+Front part of the torso between the thorax (chest) and pelvis in humans and other vertebrates. The space it encloses is the abdominal cavity, bounded above by the thoracic diaphragm and below by the pelvic brim, and walled by three layers of abdominal muscle and the peritoneum. The cavity holds most digestive organs, including the [[Stomach|stomach]], the small intestine and the colon, as well as the [[Liver|liver]], [[Gallbladder|gallbladder]], [[Pancreas|pancreas]], [[Spleen|spleen]] and the [[Kidney|kidneys]]. The kidneys and ureters lie behind the peritoneum as retroperitoneal organs. In arthropods, the abdomen (metasoma) is the rear body section, following the thorax or cephalothorax, and in vertebrates it is also called the belly.
+
+=== KEY: Abdul_Hamid_II_e0860c
+HEADWORD: Abdul Hamid II = 압뒬하미트 2세
+LEVEL: 4
+GLOSSARY:
+  Armenians = 아르메니아인
+  Balkans = 발칸반도
+  Committee of Union and Progress = 통일진보위원회
+  Islamist = 이슬람주의
+  Muslims = 무슬림
+  Ottoman = 오스만
+  Progress = 『프로그레스』
+  Red Sultan = 붉은 술탄
+  Russian = 러시아어
+  Russian Empire = 러시아 제국
+  Sultan = 술탄
+  Union = 북부 연방
+  caliph = 칼리파
+ENTRY:
+Ottoman sultan (r. 1876–1909), the last to exercise effective control over the fracturing empire. He promulgated the empire's first constitution in 1876, then suspended it and parliament in 1878 and ruled as an autocrat for three decades. An Islamist, he asserted his title of caliph to Muslims worldwide. His reign saw rebellions in the [[Balkans]], an unsuccessful war with the [[Russian Empire]] (1877–78) and the loss of several territories. He sponsored railways and a network of professional and military schools, but he also built a secret police and censorship system. His regime's atrocities against Armenians in 1894–97 earned him the nickname "Red Sultan." Early consensus saw his rule as stagnant; recent assessments highlight his promotion of education and public works. In 1908 the Committee of Union and Progress forced him to reinstate the constitution, and he was deposed in 1909, though his role in those events is disputed.
+
+=== KEY: Abdullah_II_90c61a
+HEADWORD: Abdullah II = 압둘라 2세
+LEVEL: 5
+GLOSSARY:
+  Hashemite = 하심 왕가
+  Hashemite dynasty = 하심 왕조
+  Jerusalem = 예루살렘
+  Jordan = 요르단
+  King Hussein = 후세인 국왕
+  Pandora = 판도라
+  Pandora Papers = 판도라 페이퍼스
+  Proportional representation = 비례 대표제
+ENTRY:
+King of Jordan since 1999. He is a member of the Hashemite dynasty, which has ruled Jordan since 1921. He succeeded his father, King Hussein, who had named him heir a few weeks before his death. He liberalized the economy on taking the throne. After protests in 2011 he replaced the government and introduced reforms, including a return to [[Proportional representation|proportional representation]] for the 2016 election. Critics regard the changes as cosmetic, and power remains centralized in the king's hands. Abdullah promotes interfaith dialogue and is custodian of Muslim and Christian sites in [[Jerusalem]]. The 2021 Pandora Papers revealed his hidden wealth held through offshore entities.
+
+=== KEY: Abel_Tasman_012a54
+HEADWORD: Tasman, Abel = 타스만, 아벌
+LEVEL: 4
+GLOSSARY:
+  Australia = 오스트레일리아
+  Dutch = 네덜란드어
+  Dutch East India Company = 네덜란드 동인도 회사
+  East India Company = 동인도 회사
+  Fiji = 피지
+  Guinea = 기니
+  India = 인도
+  James = 야고보
+  James Cook = 제임스 쿡
+  Māori people = 마오리족
+  New Guinea = 뉴기니섬
+  New Zealand = 뉴질랜드
+  South Island = 남섬
+  Staten Landt = 스타턴란트
+  Tasmania = 태즈메이니아섬
+  Tonga = 통가
+  Van Diemen's Land = 밴디먼스랜드
+  Zealand = 셸란섬
+ENTRY:
+Dutch seafarer and explorer in the service of the [[Dutch East India Company]]. He was the first European to reach [[New Zealand]], which he named Staten Landt, and he reached the coast of [[Tasmania]], naming it Van Diemen's Land after his patron. On his 1642 voyage he also reached the [[Tonga|Tonga]] and [[Fiji]] island groups. A violent encounter with the [[Māori people]] on the South Island left four of his men dead, and he made no significant contact or trade. A 1644 voyage charted the northern and western coasts of Australia and the south coast of [[New Guinea]] but found no navigable passage between them. His maps and journals influenced cartography, and knowledge from his voyages was used by [[James Cook]] more than a century later.
+
+=== KEY: Abelian_group_19030a
+HEADWORD: Abelian group = 아벨 군
+LEVEL: 4
+GLOSSARY:
+  Abel = 아벨
+  Field (mathematics) = 체
+  Integer = 정수
+  Niels Henrik Abel = 닐스 헨리크 아벨
+  Norwegian = 노르웨이어
+  Real number = 실수
+  Ring (mathematics) = 환
+  Vector space = 벡터 공간
+  abelian groups = 아벨 군
+  algebraic structures = 대수 구조
+  commutative = 교환 법칙
+  commutative groups = 가환군
+  cyclic groups = 순환군
+  direct sum = 직합
+  finite abelian groups = 유한 아벨 군
+  isomorphic = 동형
+  non-abelian groups = 비가환군
+  prime-power order = 소수 거듭제곱 위수
+  real numbers = 실수
+ENTRY:
+Group in which the result of the operation does not depend on the order of its elements. Named after the Norwegian mathematician [[Niels Henrik Abel]], such groups are also called commutative groups. The [[Integer|integers]] and the [[Real number|real numbers]] form abelian groups under addition. The concept underlies many algebraic structures, including [[Field (mathematics)|fields]], [[Ring (mathematics)|rings]] and [[Vector space|vector spaces]]. The theory is generally simpler than that of non-abelian groups, and finite abelian groups are fully classified. The fundamental theorem of finitely generated abelian groups states that each such group is isomorphic to a finite direct sum of copies of the integers and of cyclic groups of prime-power order.
+
+=== KEY: Aberdeen_f5f72e
+HEADWORD: Aberdeen = 애버딘
+LEVEL: 5
+GLOSSARY:
+  Aberdeen = 애버딘
+  David I = 데이비드 1세
+  Europe = 유럽
+  Granite = 화강암
+  King's College = 킹스 칼리지
+  Mica = 운모
+  North Sea = 북해
+  Port = 항구
+  Scotland = 스코틀랜드
+  University = 대학
+  University of Aberdeen = 애버딘 대학교
+  city pop = 시티 팝
+  royal burgh = 왕립 자치 도시
+ENTRY:
+Port city (pop., 2020: 198,590) in northeastern [[Scotland]], the country's third most populous city. It received royal burgh status from David I (1124–53). Its traditional industries of fishing, paper-making, shipbuilding and textiles were overtaken by oil after North Sea oil was discovered in 1969, and it became known as the offshore oil capital of Europe. Its buildings use local gray [[Granite|granite]] containing [[Mica|mica]], which gives it a sparkle. The University of Aberdeen, founded in 1495 as King's College, is the fifth oldest university in the English-speaking world.
+
+=== KEY: Abidjan_019de7
+HEADWORD: Abidjan = 아비장
+LEVEL: 4
+GLOSSARY:
+  Abidjan = 아비장
+  Africa = 아프리카
+  Canal = 운하
+  Coast = 해안
+  France = 프랑스
+  French = 프랑스어
+  Ivory = 상아
+  Ivory Coast = 코트디부아르
+  Vridi Canal = 브리디 운하
+  West Africa = 서아프리카
+  Yamoussoukro = 야무수크로
+ENTRY:
+Largest city and economic capital of [[Ivory Coast]] (pop., 2021: 6,300,000). It is the most populous French-speaking city in [[West Africa]] and the sixth most populous city proper in Africa. A new wharf in 1931 spurred its growth, and it became the capital of the French colony in 1933. The Vridi Canal, completed in 1951, made it an important seaport. It remained the capital after independence from [[France]] in 1960, and in 1983 Yamoussoukro was designated the official political capital. Abidjan still hosts many political institutions and all foreign embassies, and it is the center of the country's economic activity.
+
+=== KEY: Abigail_Adams_03d12b
+HEADWORD: Adams, Abigail = 애덤스, 애비게일
+LEVEL: 5
+GLOSSARY:
+  Barbara Bush = 바버라 부시
+  Continental Congress = 대륙 회의
+  John = 존
+  John Adams = 존 애덤스
+  John Quincy Adams = 존 퀸시 애덤스
+  Philadelphia = 필라델피아
+  Revolutionary War = 독립 전쟁
+  Siena = 시에나
+  Siena College = 시에나 칼리지
+  United States = 미국
+  first lady = 영부인
+  second lady = 부통령 부인
+ENTRY:
+Wife and closest adviser of [[John Adams]], second president of the United States. Mother of [[John Quincy Adams]], sixth president, she was the first second lady (1789–97) and the second first lady (1797–1801). Her letters to her husband, written while he served in the Continental Congress in [[Philadelphia]] and during the Revolutionary War, are among the most detailed accounts of the home front. She and Barbara Bush are the only women who were both the wife of one U.S. president and the mother of another. Siena College surveys of historians since 1982 have consistently ranked her among the three most highly regarded first ladies.
+
+=== KEY: Abiogenesis_cbafe7
+HEADWORD: Abiogenesis = 생명의 기원
+LEVEL: 3
+GLOSSARY:
+  Amino acid = 아미노산
+  Archaea = 고균
+  Australia = 오스트레일리아
+  Bacteria = 세균
+  Earth = 지구
+  Hydrothermal vent = 열수 분출공
+  LUCA = LUCA
+  Last universal common ancestor = 모든 생물의 공통 조상
+  Life = 『라이프』
+  Organic compound = 유기 화합물
+  RNA = RNA
+  RNA world = RNA 세계
+  Western Australia = 웨스턴오스트레일리아주
+  amino acids = 아미노산
+  autocatalysis = 자가 촉매 작용
+  energy storage = 에너지 저장
+  genetic code = 유전 암호
+  homochiral = 호모키랄
+  hybrid systems = 하이브리드 암호 체계
+  lipids = 지질
+  nucleic acids = 핵산
+  organic compounds = 유기 화합물
+  prebiotic synthesis = 전생물 합성
+  prokaryotic = 원핵생물의
+  proton gradient = 양성자 기울기
+  ribosomes = 리보솜
+  systems chemistry = 시스템 화학
+  universal common ancestor = 보편 공통 조상
+ENTRY:
+Natural process by which life arises from non-living matter such as simple [[Organic compound|organic compounds]], and the field of study concerned with it. The prevailing scientific hypothesis is that the transition was not a single event but a process of increasing complexity: formation of a habitable planet, prebiotic synthesis of organic molecules, molecular self-replication, self-assembly, autocatalysis, and the emergence of cell membranes. The transition has not been observed experimentally. Life builds on four chemical families: lipids for cell membranes, carbohydrates for energy storage and structure, [[Amino acid|amino acids]] for protein metabolism, and the nucleic acids DNA and [[RNA]] for heredity.
+
+Competing approaches address different aspects. Many researchers think life descends from an RNA world, though other self-replicating molecules may have preceded RNA. "Metabolism-first" hypotheses stress catalysis on the early Earth supplying precursors for self-replication, and hybrid "systems chemistry" models treat compartments, metabolism, and informational polymers as co-evolving. There is no consensus on which arose first. The 1952 Miller–Urey experiment showed that amino acids can form from inorganic compounds under early-Earth-like conditions, and amino acids have since been found in meteorites, comets, asteroids, and star-forming regions.
+
+The [[Last universal common ancestor]] (LUCA) lived some time after life began. Genomic work comparing Archaea and Bacteria suggests 60 proteins common to all life and 355 prokaryotic genes tracing to LUCA, implying an anaerobic organism that used DNA, the genetic code, and ribosomes. Earlier cells may have been powered by a proton gradient near a deep-sea [[Hydrothermal vent|hydrothermal vent]], though inland crust or surface water have also been proposed. Earth formed 4.54 billion years ago; the earliest evidence of life, 3.8 billion years old, comes from [[Western Australia]]. Open questions include how replicators arose, how genetic and metabolic functions became coupled, and why biochemistry is homochiral.
+
+=== KEY: Abkhazia_6094f3
+HEADWORD: Abkhazia = 압하지야
+LEVEL: 4
+GLOSSARY:
+  Abkhazia = 압하지야
+  Black = 검은색
+  Black Sea = 흑해
+  Following = 「미행」
+  Georgia (country) = 조지아
+  Georgian Soviet Socialist Republic = 그루지야 소비에트 사회주의 공화국
+  Georgians = 조지아인
+  Nicaragua = 니카라과
+  Russia = 러시아
+  Russian = 러시아어
+  Russo-Georgian War = 러시아-조지아 전쟁
+  Socialist = 사회당
+  Soviet Union = 소련
+  Sukhumi = 수후미
+  Syria = 시리아
+  Union = 북부 연방
+  United Nations = 국제 연합
+  Venezuela = 베네수엘라
+  ethnic cleansing = 인종 청소
+ENTRY:
+Partially recognized state on the eastern coast of the [[Black Sea]], internationally recognized as part of [[Georgia (country)|Georgia]]. It covers 8,665 sq km, has about 245,000 people, and its capital is Sukhumi. It was an autonomous republic within the Georgian Soviet Socialist Republic when the [[Soviet Union]] began to disintegrate. The 1992–93 war left Georgia without control of most of the territory, with the ethnic cleansing of Georgians from Abkhazia. [[Russia]], Venezuela, Nicaragua and Syria recognize its independence; most other countries and the United Nations regard it as part of Georgia. Russian financial aid makes up about half of its budget. Following the [[Russo-Georgian War]] of 2008, Russia recognized Abkhazia, and the status dispute remains unresolved.
+
+=== KEY: Ableism_64f1c8
+HEADWORD: Ableism = 비장애중심주의
+LEVEL: 4
+GLOSSARY:
+  Ableism = 비장애 중심주의
+  Discrimination = 차별
+  Eugenics = 우생학
+  Mental disorder = 정신 질환
+  Physical disability = 신체장애
+  Stereotype = 고정관념
+  compulsory sterilization = 강제 불임 시술
+  invisible disability = 보이지 않는 장애
+  sanism = 정신장애 차별
+ENTRY:
+[[Discrimination|Discrimination]] and social prejudice against disabled people. Ableism characterizes people by their disabilities, regards them as inferior to non-disabled people and assigns or denies perceived abilities on that basis. It rests on [[Stereotype|stereotypes]], such as the presumption that all disabled people want to be cured, and these stereotypes justify discriminatory practices. The early 20th-century [[Eugenics|eugenics]] movement, which advocated compulsory sterilization of people with disabilities, is considered an expression of widespread ableism. The term covers [[Physical disability|physical disability]], invisible disability and [[Mental disorder|mental disorder]]; ableism directed at mental disorders is called sanism. Critics argue that the framework attributes socioeconomic gaps to bias rather than to factors such as differences in skills or health-related absence.
+
+=== KEY: Abolitionism_e584e3
+HEADWORD: Abolitionism = 노예제 폐지 운동
+LEVEL: 4
+GLOSSARY:
+  13th Amendment = 수정 헌법 제13조
+  Americas = 아메리카
+  Brazil = 브라질
+  British Empire = 대영 제국
+  Haiti = 아이티
+  Human = 인간
+  Mauritania = 모리타니
+  Rights = 인권
+  Slavery = 노예제
+  Slavery Abolition Act = 노예제 폐지법
+  United States = 미국
+  Universal Declaration of Human Rights = 세계 인권 선언
+  Western world = 서양
+  William = 윌리엄
+  William Wilberforce = 윌리엄 윌버포스
+  slave trade = 노예 무역
+  transition period = 전환 기간
+ENTRY:
+Political movement to end [[Slavery|slavery]] and liberate enslaved people around the world. It gained momentum in the Western world in the late 18th and 19th centuries. In 1807 the slave trade was made illegal throughout the [[British Empire]], after campaigning led by [[William Wilberforce]], and the Slavery Abolition Act of 1833 freed enslaved people in the colonies after a transition period. Haiti is the only country to have self-liberated from slavery, through its revolution of 1791–1804. In the United States, the 13th Amendment in 1865 ended slavery except as punishment for crime. Brazil became the last country in the Americas to outlaw slavery in 1888. The 1948 [[Universal Declaration of Human Rights]] declared slavery illegal, and Mauritania, by a 1981 decree, was the latest country to abolish it officially.
+
+=== KEY: Aboriginal_Australians_f03b1a
+HEADWORD: Aboriginal Australians = 오스트레일리아 원주민
+LEVEL: 4
+GLOSSARY:
+  Australia = 오스트레일리아
+  Australian = 오스트레일리아
+  Country = 컨트리
+  Indigenous = 원주민
+  Indigenous peoples = 원주민
+  Strait = 해협
+  Torres Strait = 토레스 해협
+  Torres Strait Islanders = 토레스 해협 제도민
+  songlines = 송라인
+ENTRY:
+Indigenous peoples of the Australian mainland and many of its islands, excluding the Torres Strait Islanders. Humans reached Australia an estimated 50,000 to 65,000 years ago. Over time they formed as many as 500 linguistic and territorial groups, speaking more than 250 languages at the time of European colonization. Connection to ancestral territory, known as "Country," is central to their identity. Their trade networks, law and religions are among the oldest continuous cultures in the world, transmitted through stories, songlines, dance and art. The 2021 census counted 944,171 Aboriginal people, 3.7% of the population. Over 80% speak English at home, and about 77,000 speak an Indigenous language.
+
+=== KEY: Abortion_7cc72b
+HEADWORD: Abortion = 낙태
+LEVEL: 3
+GLOSSARY:
+  Abortion = 임신 중절
+  Ancient Egypt = 고대 이집트
+  Angkor = 앙코르
+  Angkor Wat = 앙코르 와트
+  China = 중국
+  Ebers Papyrus = 에베르스 파피루스
+  Egypt = 이집트
+  Embryo = 배아
+  Fetus = 태아
+  India = 인도
+  Papyrus = 파피루스
+  Pregnancy = 임신
+  Rome = 로마
+  United Kingdom = 영국
+  United States = 미국
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  ancient Egypt = 고대 이집트
+  induced abortion = 인공 유산
+  mifepristone = 미페프리스톤
+  miscarriage = 유산
+  prostaglandin = 프로스타글란딘
+  right to life = 생명권
+  spontaneous abortion = 자연 유산
+  trimesters = 분기
+ENTRY:
+Termination of a [[Pregnancy|pregnancy]] by removal or expulsion of an [[Embryo|embryo]] or [[Fetus|fetus]]. The unmodified word usually means induced abortion, the deliberate ending of a pregnancy; abortion without intervention is called spontaneous abortion or miscarriage and occurs in roughly 30–40% of pregnancies. Common reasons include birth-timing, limiting family size, maternal health, and inability to afford a child.
+
+Modern methods use medication or surgery. The drug mifepristone combined with a prostaglandin appears as safe and effective as surgery in the first and second trimesters. Where legal in industrialized societies, induced abortion is one of the safest medical procedures. Unsafe abortions, performed by unskilled people, with hazardous equipment, or in unsanitary conditions, cause between 22,000 and 44,000 deaths and 6.9 million hospital admissions a year, 5–13% of maternal deaths, mostly in low-income countries. The [[World Health Organization]] holds that access to legal, safe, comprehensive abortion care is essential to sexual and reproductive health. About 73 million abortions occur worldwide each year, roughly 45% of them unsafe.
+
+Laws range from permission on request to prohibition, and some countries allow it only in specific cases such as rape or risk to the woman's health. Since 1973 there has been a global trend toward wider legal access, but moral, religious, ethical, and legal debate continues. Opponents often argue that an embryo or fetus is a person with a right to life; supporters often argue that abortion is a reproductive right and a matter of bodily autonomy, and public health researchers link legal access with lower maternal mortality.
+
+Abortion has a long history. Methods including herbal medicines and sharp tools are recorded from China, India, [[Ancient Egypt|ancient Egypt]] (the Ebers Papyrus, c. 1550 BC), and Rome, and a relief at [[Angkor Wat]] (c. 1150) depicts one technique. Abortion was not always illegal or controversial until the 19th century, when it was banned in the United States and United Kingdom.
+
+=== KEY: Abraham_Lincoln_2f7cfa
+HEADWORD: Lincoln, Abraham = 링컨, 에이브러햄
+LEVEL: 3
+GLOSSARY:
+  American Civil War = 남북 전쟁
+  Appomattox = 애퍼매톡스
+  Civil War = 남북 전쟁
+  Confederate = 남부 연합
+  Confederate States = 아메리카 연합국
+  Confederate forces = 남부 연합군
+  Douglas = 더글러스
+  Emancipation Proclamation = 노예 해방 선언
+  Ex parte Merryman = 「메리먼 사건」
+  Ford's Theatre = 포드 극장
+  Fort Sumter = 섬터 요새
+  Gettysburg = 게티즈버그
+  Gettysburg Address = 게티즈버그 연설
+  Habeas corpus = 인신 보호 영장
+  Illinois = 일리노이주
+  Indiana = 인디애나주
+  John = 존
+  John Wilkes Booth = 존 윌크스 부스
+  Justice = 정의
+  Kansas = 캔자스주
+  Kentucky = 켄터키주
+  Nebraska = 네브래스카주
+  Party = 파티
+  Reconstruction = 재건 시대
+  Republican Party = 공화당
+  Republican Party (United States) = 공화당
+  Roger Taney = 로저 토니
+  Stephen A. Douglas = 스티븐 A. 더글러스
+  Theatre = 연극
+  Thirteenth Amendment = 수정 헌법 제13조
+  Union = 북부 연방
+  United States = 미국
+  Washington = 워싱턴주
+  border states = 경계주
+  chattel slavery = 동산 노예제
+  the Union = 연방
+ENTRY:
+American lawyer and statesman, 16th president of the United States (1861–65). Born in a one-room log cabin in [[Kentucky]], he grew up on the frontier in Kentucky, Indiana, and [[Illinois]] and was largely self-educated. He became a lawyer, Illinois state legislator, and a one-term U.S. representative. Angered by the Kansas–Nebraska Act of 1854, which opened territories to slavery, he became a leader of the new [[Republican Party (United States)|Republican Party]] and won national attention in the 1858 Senate campaign debates with Stephen A. Douglas.
+
+Lincoln won the 1860 presidential election as the first Republican president, and most slave states began to secede. A month after he took office, Confederate forces attacked Fort Sumter, beginning the [[American Civil War]] against the Confederate States. He closely supervised Union strategy. In April 1861 he suspended the writ of [[Habeas corpus|habeas corpus]]; Chief Justice Roger Taney held in *Ex parte Merryman* that only Congress could do so. Critics, then and later, saw his expansion of executive power as overreach, while supporters regarded it as necessary to save the Union. The war claimed over 620,000 lives.
+
+On January 1, 1863, Lincoln issued the Emancipation Proclamation, declaring slaves in states "in rebellion" free; it was a war measure and did not cover Union border states. On November 19, 1863, he delivered the [[Gettysburg Address]]. He promoted the Thirteenth Amendment, which abolished chattel slavery in 1865. Re-elected in 1864, he favored a lenient Reconstruction.
+
+On April 14, 1865, five days after the Confederate surrender at Appomattox, Lincoln was shot by [[John Wilkes Booth]] at Ford's Theatre in Washington, D.C., and died the next day, the first U.S. president to be assassinated. He is ranked in popular and scholarly polls among the greatest American presidents.
+
+=== KEY: Abraham_Maslow_9d413c
+HEADWORD: Maslow, Abraham = 매슬로, 에이브러햄
+LEVEL: 4
+GLOSSARY:
+  Brandeis University = 브랜다이스 대학교
+  Brooklyn = 브루클린
+  Brooklyn College = 브루클린 칼리지
+  Columbia = 컬럼비아
+  Columbia University = 컬럼비아 대학교
+  Cornell = 코넬
+  Cornell University = 코넬 대학교
+  Humanistic psychology = 인본주의 심리학
+  Psychology = 심리학
+  Research = 연구
+  Review of General Psychology = 『일반 심리학 리뷰』
+  School = 학교
+  The New School for Social Research = 뉴스쿨 사회과학 대학원
+  University = 대학
+  hierarchy of needs = 욕구 단계설
+  self-actualization = 자아실현
+ENTRY:
+American psychologist known for the hierarchy of needs, a theory of psychological health in which innate human needs are fulfilled in priority, culminating in self-actualization. Maslow taught at [[Cornell University]], Brooklyn College, Brandeis University, The New School for Social Research and [[Columbia University]]. He stressed the positive qualities of people rather than treating them as a "bag of symptoms," and his work is associated with [[Humanistic psychology|humanistic psychology]]. Critics argue that the theory relies on biographical analysis of elites rather than broad experimental data. A 2002 survey in the Review of General Psychology ranked him the tenth most cited psychologist of the 20th century.
+
+=== KEY: Abraham_c9af96
+HEADWORD: Abraham = 아브라함
+LEVEL: 3
+GLOSSARY:
+  Abraham = 아브라함
+  Abrahamic = 아브라함계
+  Abrahamic religions = 아브라함계 종교
+  Abram = 아브람
+  Adam = 아담
+  Arabs = 아랍인
+  Book = 책
+  Book of Genesis = 창세기
+  Canaan = 가나안
+  Cave = 동굴
+  Cave of the Patriarchs = 막벨라 굴
+  Christianity = 기독교
+  Christians = 기독교인
+  Galatians = 갈라디아서
+  Genesis = 창세기
+  Hagar = 하갈
+  Haran = 하란
+  Hebrew = 히브리어
+  Hebrew patriarch = 히브리 족장
+  Hebron = 헤브론
+  Ibrahim = 이브라힘
+  Isaac = 이삭
+  Ishmael = 이스마엘
+  Islam = 이슬람교
+  Jesus = 예수
+  Judaism = 유대교
+  Kaaba = 카바
+  Lot = 롯
+  Mecca = 메카
+  Muhammad = 무함마드
+  Patriarch = 총대주교
+  Persian = 페르시아어
+  Persian period = 페르시아 시대
+  Quran = 쿠란
+  Romans = 로마인
+  Sarah = 사라
+  Sarai = 사래
+  chain = 체인
+  covenant of circumcision = 할례 언약
+  justifying faith = 의롭게 하는 믿음
+  patriarchal age = 족장 시대
+  post-exilic = 포로기 이후
+ENTRY:
+Patriarch and prophet revered in Judaism, Christianity, and Islam, and the namesake of the [[Abrahamic religions]]. Originally named Abram, he is regarded in Judaism as the first Hebrew patriarch, who began the covenantal relationship between God and the Jewish people. Christianity treats him as forebear of Jesus and spiritual ancestor of all Christians, and [[Islam]] as a prophet in a chain from Adam to Muhammad. He is seen as common forefather of the Arabs through [[Ishmael]] and the Jewish people through [[Isaac]].
+
+His story, told in the [[Book of Genesis]] (chapters 11–25), turns on God's promise of progeny and land. Called to leave his father Terah's house, Abram left Haran at age 75 with his wife Sarai (Sarah), who was childless, and his nephew Lot, and traveled to [[Canaan]], where he built altars. Abram and Lot later separated over pasture. Key episodes include the covenant of circumcision (Genesis 17) and the near-sacrifice of Isaac (Genesis 22). Abraham fathered Ishmael with Hagar and Isaac with Sarah. He bought the Cave of the Patriarchs at [[Hebron]] as Sarah's tomb. On his death, Isaac received "all Abraham's goods" and the other sons only "gifts."
+
+In Christian tradition, drawing on Romans 4 and Galatians 3, he exemplifies justifying faith. In the Quran, Ibrahim is the "friend of God" and a model of pure monotheism who rejected idolatry; with Ishmael he built the [[Kaaba]] in Mecca.
+
+Nearly all scholars view the patriarchal age as a late literary construct that does not correspond to any historical era, though the stories may retain some historical qualities. Many believe the traditions developed orally for centuries before entering Genesis during the Persian period, where they helped shape post-exilic Jewish identity.
+
+=== KEY: Abrahamic_religions_30e9f7
+HEADWORD: Abrahamic religions = 아브라함계 종교
+LEVEL: 5
+GLOSSARY:
+  Abraham = 아브라함
+  Baháʼí Faith = 바하이교
+  Christianity = 기독교
+  Druze = 드루즈파
+  Islam = 이슬람교
+  Judaism = 유대교
+  Judeo-Christian = 유대-기독교
+  Rastafari = 라스타파리 운동
+  Samaritanism = 사마리아교
+ENTRY:
+Set of monotheistic religions that revere [[Abraham]] as a patriarch and/or prophet. They include [[Judaism]], [[Christianity]] and [[Islam]], the three largest, as well as the [[Baháʼí Faith|Baháʼí Faith]], the [[Druze|Druze]] faith, [[Rastafari]] and Samaritanism. Some other religions are included by some authors, though their status is highly controversial. The term, introduced in the 20th century, replaced "Judeo-Christian" to include Islam, and some scholars argue that it oversimplifies doctrinal and cultural differences.
+
+=== KEY: Abrasive_030832
+HEADWORD: Abrasive = 연마재
+LEVEL: 4
+GLOSSARY:
+  Diamond = 다이아몬드
+  Garnet = 석류석
+  Mohs scale = 모스 굳기계
+  Silicon carbide = 탄화 규소
+  Superabrasives = 초연마재
+  aluminum oxide = 산화 알루미늄
+  boron nitride = 질화 붕소
+  coated abrasive = 연마포지
+  cubic boron nitride = 입방정 질화 붕소
+  emery = 금강사
+  fused aluminum oxide = 용융 알루미나
+  honing = 호닝
+  silicon carbide = 탄화 규소
+ENTRY:
+Material, often a mineral, used to shape or finish a workpiece by wearing away its surface through friction. Abrasives must be harder than the material they work. Natural abrasives include [[Garnet|garnet]], emery, sand and [[Diamond|diamond]]; manufactured types include fused aluminum oxide, [[Silicon carbide|silicon carbide]] and cubic boron nitride. Uses include grinding, polishing, honing, cutting, drilling and sanding. Hardness is measured on the [[Mohs scale]], on which most effective abrasives exceed 7. Superabrasives such as synthetic diamond and cubic boron nitride are the most durable and are used in precision work. Files are not abrasives, since they cut with teeth, but diamond files are a form of coated abrasive.

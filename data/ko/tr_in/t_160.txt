@@ -1,0 +1,753 @@
+=== KEY: Hydrofluoric_acid_b3a792
+HEADWORD: Hydrofluoric acid = 플루오린화 수소산
+LEVEL: 4
+GLOSSARY:
+  Aluminium = 알루미늄
+  Carl Wilhelm Scheele = 카를 빌헬름 셸레
+  Clear = 클리어
+  Hydrogen fluoride = 플루오린화 수소
+  Semiconductor = 반도체
+  Wilhelm = 빌헬름
+  aluminum trifluoride = 삼플루오린화 알루미늄
+  cryolite = 빙정석
+  inorganic fluorides = 무기 플루오린화물
+  organofluorine compounds = 유기 플루오린 화합물
+  silica = 실리카
+  silicon wafers = 실리콘 웨이퍼
+  smelting = 제련
+ENTRY:
+Clear, very corrosive solution of [[Hydrogen fluoride|hydrogen fluoride]] in water. Typically sold as a 49% solution, it is used in laboratories to make organofluorine compounds and in industry to produce inorganic fluorides such as cryolite and aluminum trifluoride, used in [[Aluminium|aluminum]] smelting. Because it breaks down silica and most metal oxides, it is used for glass etching, for etching silicon wafers in the [[Semiconductor|semiconductor]] industry, and for cleaning industrial boilers. Dilute solutions behave as a weak acid, but it may be deadly if ingested, inhaled or absorbed through the skin. Its burns can be painless at first but still need immediate attention. The acid was first prepared in 1771 by Carl Wilhelm Scheele.
+
+=== KEY: Hydrogen_bond_b93e9d
+HEADWORD: Hydrogen bond = 수소 결합
+LEVEL: 4
+GLOSSARY:
+  Electronegativity = 전기 음성도
+  Hydrogen = 수소
+  Ice = 얼음
+  Water = 물
+  base pairing = 염기쌍 형성
+  charge transfer = 전하 이동
+  covalent = 공유
+  covalent character = 공유 결합성
+  dispersion = 분산력
+  ionic bonds = 이온 결합
+  lone pair = 비공유 전자쌍
+  nucleic acid = 핵산
+  van der Waals interactions = 판데르발스 상호 작용
+ENTRY:
+Intermolecular attraction between a hydrogen atom bonded to an [[Electronegativity|electronegative]] donor and a lone pair on an acceptor atom. Its partial covalent character means it cannot be described as purely electrostatic, though electrostatics, charge transfer and dispersion all contribute. Typical donors and acceptors are nitrogen, oxygen and fluorine. Strength ranges from 4.2 to 167.4 kJ/mol (1 to 40 kcal/mol), stronger than van der Waals interactions but weaker than covalent or ionic bonds. Hydrogen bonding gives [[Water|water]] its unusually high boiling point and stabilizes protein and nucleic acid structures. It is also central to DNA base pairing and occurs in [[Ice|ice]].
+
+=== KEY: Hydrogen_cyanide_c1e977
+HEADWORD: Hydrogen cyanide = 시안화 수소
+LEVEL: 5
+GLOSSARY:
+  Chemical compound = 화합물
+  French = 프랑스어
+  Pierre Macquer = 피에르 마케
+  Plastic = 플라스틱
+  Polymer = 중합체
+  Potassium = 칼륨
+  Potassium cyanide = 시안화 칼륨
+  Prussian = 프로이센
+  Prussian blue = 프러시안 블루
+  adiponitrile = 아디포니트릴
+  prussic acid = 청산
+ENTRY:
+Highly toxic, flammable [[Chemical compound|chemical compound]] with the formula HCN, also called prussic acid. It boils at 25.6 °C (78.1 °F), slightly above room temperature, and is produced on an industrial scale as a precursor to [[Polymer|polymers]] and pharmaceuticals. Large-scale applications include the production of [[Potassium cyanide]], used in mining, and adiponitrile, used in [[Plastic|plastics]]. It is more toxic than solid cyanide compounds because of its volatile nature. French chemist Pierre Macquer first isolated it in 1752 from [[Prussian blue]].
+
+=== KEY: Hydrogen_e4ce2a
+HEADWORD: Hydrogen = 수소
+LEVEL: 3
+GLOSSARY:
+  Antoine Lavoisier = 앙투안 라부아지에
+  Cavendish = 캐번디시
+  Chemical element = 화학 원소
+  Earth = 지구
+  Electrolysis = 전기 분해
+  Fertilizer = 비료
+  Henry Cavendish = 헨리 캐번디시
+  Hydrogen = 수소
+  Isotope = 동위 원소
+  Quantum mechanics = 양자역학
+  Tritium = 삼중수소
+  beta decay = 베타 붕괴
+  covalent = 공유
+  covalent bonds = 공유 결합
+  deuterium = 중수소
+  diatomic molecules = 이원자 분자
+  fossil fuel = 화석 연료
+  fossil fuels = 화석 연료
+  fuel cells = 연료 전지
+  half-life = 반감기
+  heavy water = 중수
+  helium-3 = 헬륨-3
+  hydride ion = 수소화 이온
+  hydron = 하이드론
+  neutron moderator = 중성자 감속재
+  organic compounds = 유기 화합물
+  quantum mechanics = 양자역학
+  steam reforming = 수증기 개질
+ENTRY:
+[[Chemical element]] with symbol H and atomic number 1, the lightest and most abundant element in the universe, constituting about 75% of all normal matter. Under standard conditions it is a colorless, odorless, non-toxic, highly combustible gas of diatomic molecules, H₂. On Earth it occurs as H₂ and in compounds such as water and organic compounds.
+
+The common [[Isotope|isotope]] ¹H, with one proton, one electron, and no neutrons, has an abundance above 99.98%. The other naturally occurring isotopes are stable deuterium (²H), used in heavy water as a neutron moderator and coolant for nuclear reactors, and radioactive [[Tritium|tritium]] (³H), which decays to helium-3 by beta decay with a half-life of 12.32 years. The colors of light that hydrogen absorbs and emits were crucial to the development of [[Quantum mechanics|quantum mechanics]].
+
+Hydrogen is typically nonmetallic except under extreme pressure and readily forms covalent bonds with most nonmetals. It can also form the negatively charged hydride ion, H⁻, or the positively charged hydron, H⁺, whose exchange drives acid–base reactions and underlies the importance of pH.
+
+Hydrogen gas was first produced artificially in the 17th century by reacting acids with metals. [[Henry Cavendish]], in 1766–1781, identified it as a distinct substance and found that it produces water when burned, the origin of its name, "water-former." [[Antoine Lavoisier]] named it in 1783.
+
+Nearly all hydrogen is produced from fossil fuels, particularly by steam reforming of natural gas, with almost 100 million tonnes made annually as of 2024. Production by [[Electrolysis|electrolysis]] of water is more expensive. Main uses are fossil fuel processing and ammonia production for [[Fertilizer|fertilizer]]; fuel cells for generating electricity are an emerging use.
+
+=== KEY: Hydrogen_fluoride_5161de
+HEADWORD: Hydrogen fluoride = 플루오린화 수소
+LEVEL: 5
+GLOSSARY:
+  Fluorine = 플루오린
+  Hydrofluoric acid = 플루오린화 수소산
+  Inorganic compound = 무기 화합물
+  Polymer = 중합체
+  Polytetrafluoroethylene = 폴리테트라플루오로에틸렌
+  corneas = 각막
+  hydrogen halides = 할로젠화 수소
+ENTRY:
+Inorganic compound with the formula HF, a colorless gas or liquid that dissolves in water to form [[Hydrofluoric acid|hydrofluoric acid]]. It is the principal industrial source of [[Fluorine|fluorine]] and an important feedstock for pharmaceuticals and [[Polymer|polymers]] such as [[Polytetrafluoroethylene|polytetrafluoroethylene (PTFE)]]. Strong hydrogen bonding makes it boil near room temperature, far above other hydrogen halides. It is extremely dangerous: it readily forms highly corrosive hydrofluoric acid on contact with moisture and can cause blindness by rapid destruction of the corneas.
+
+=== KEY: Hydrogen_peroxide_9a299a
+HEADWORD: Hydrogen peroxide = 과산화 수소
+LEVEL: 4
+GLOSSARY:
+  Chemical compound = 화합물
+  Rocket = 로켓
+  antiseptic = 소독제
+  bleaching agent = 표백제
+  monopropellant = 단일 추진제
+  oxidizer = 산화제
+  peroxidases = 과산화 효소
+  peroxide = 과산화물
+ENTRY:
+Chemical compound with the formula H₂O₂, the simplest peroxide. In pure form it is a very pale blue, viscous liquid, though dilute solutions appear colorless. For consumer use it is sold as a 3%–6% by weight solution in water, and it serves as an oxidizer, bleaching agent and antiseptic. Concentrated solutions decompose explosively when heated, and the compound has been used as a monopropellant and oxidizer in [[Rocket|rocketry]]. Its extrapolated boiling point is 150.2 °C (302.4 °F), and heating to that temperature can cause potentially explosive decomposition. It breaks down into water and oxygen when exposed to light and rapidly in the presence of organic or reactive compounds. It occurs in biological systems, including the human body, and enzymes that use or decompose it are classified as peroxidases.
+
+=== KEY: Hydrogen_sulfide_0232cc
+HEADWORD: Hydrogen sulfide = 황화 수소
+LEVEL: 5
+GLOSSARY:
+  Cellular respiration = 세포 호흡
+  Hydrogen cyanide = 시안화수소
+  Swamp = 늪
+  cellular respiration = 세포 호흡
+  hydrogen cyanide = 사이안화 수소
+ENTRY:
+Colorless, toxic and flammable gas with the formula H₂S. Trace amounts in air have a foul odor of rotten eggs. It is toxic because it inhibits [[Cellular respiration|cellular respiration]], a mechanism similar to that of [[Hydrogen cyanide|hydrogen cyanide]], and high exposures can cause death. It is often produced by microbes breaking down organic matter without oxygen, as in [[Swamp|swamps]] and sewers, and also occurs in volcanic gases and natural gas deposits. It is slightly denser than air, acts as a weak acid in water, and can form explosive mixtures with air.
+
+=== KEY: Hydrography_62bbb6
+HEADWORD: Hydrography = 수로학
+LEVEL: 4
+GLOSSARY:
+  Admiralty = 해군성
+  Alexander Dalrymple = 알렉산더 댈림플
+  Branch = 브랜치
+  Brittany = 브르타뉴
+  Hydrographer = 수로 측량관
+  Lake = 호수
+  Ocean = 대양
+  Quiberon Bay = 키브롱만
+  River = 강
+  Sea = 바다
+  United Kingdom = 영국
+  hydrographic offices = 수로국
+ENTRY:
+Branch of applied sciences concerned with measuring and describing the physical features of [[Ocean|oceans]], [[Sea|seas]], coastal areas, [[Lake|lakes]] and [[River|rivers]], and predicting how they change over time. Its primary purpose is navigational safety, though it also supports economic development, security, scientific research and environmental protection. Surveys record tides, currents, waves and seabed hazards such as rocks, shoals and reefs. The field began with charts made by individual mariners, often closely held secrets. As transoceanic trade grew, governments and navies commissioned surveys and founded dedicated hydrographic offices. In the [[United Kingdom]], the Admiralty appointed Alexander Dalrymple as Hydrographer in 1795, and its first chart, of Quiberon Bay in [[Brittany]], appeared in 1800.
+
+=== KEY: Hydrology_5db492
+HEADWORD: Hydrology = 수문학
+LEVEL: 4
+GLOSSARY:
+  Ancient Egyptians = 고대 이집트인
+  Bridge = 다리
+  Dam = 댐
+  Drought = 가뭄
+  Earth = 지구
+  Flood = 홍수
+  Hydrology = 수문학
+  Mesopotamian = 메소포타미아
+  Romans = 로마인
+  aqueducts = 수도교
+  basin irrigation = 분지 관개
+  hydrogeology = 수리지질학
+ENTRY:
+Scientific study of the movement, distribution and management of water on [[Earth]] and other planets. A practitioner is called a hydrologist and draws on earth science, civil or environmental engineering, and physical geography. Hydrology subdivides into surface water hydrology, groundwater hydrology (hydrogeology) and marine hydrology. Applications include calculating rainfall and runoff, predicting [[Flood|floods]] and [[Drought|droughts]], designing [[Dam|dams]] and [[Bridge|bridges]], planning irrigation, and providing drinking water. Ancient Egyptians invented basin irrigation, Mesopotamian towns built high earthen walls against flooding, and the Greeks and Romans built aqueducts. Hydrological research informs environmental engineering, policy and planning.
+
+=== KEY: Hydropower_db31eb
+HEADWORD: Hydropower = 수력
+LEVEL: 3
+GLOSSARY:
+  Bank = 은행
+  Dam = 댐
+  Fossil fuel = 화석 연료
+  Hydroelectricity = 수력 발전
+  Hydropower = 수력 발전
+  Methane = 메탄
+  Reservoir = 저수지
+  Watermill = 물레방아
+  Wisconsin = 위스콘신주
+  World = 세계
+  World Bank = 세계은행
+  energy storage = 에너지 저장
+  fossil fuels = 화석 연료
+  gravitational potential = 중력 퍼텐셜
+  gristmills = 제분소
+  hydraulic head = 수두
+  kinetic energy = 운동 에너지
+  pumped storage = 양수 발전
+  pumped-storage hydroelectricity = 양수 발전
+  renewable energy = 재생 에너지
+  trip hammers = 수력 해머
+ENTRY:
+Use of falling or fast-running water to produce electricity or to power machines, by converting the gravitational potential or kinetic energy of a water source. It is now used mainly for [[Hydroelectricity|hydroelectric]] generation and also as one half of pumped-storage hydroelectricity, an energy storage system.
+
+Since ancient times, [[Watermill|watermills]] have supplied renewable energy for irrigation and for machines such as gristmills, sawmills, textile mills, trip hammers, dock cranes, domestic lifts, and ore mills. The first commercial hydroelectric plant began operating in 1882 in Appleton, Wisconsin. Hydropower supplied over 4,300 terawatt-hours in 2022, about 15% of global electricity, and installed capacity reached approximately 1,283 gigawatts by 2024, excluding pumped storage.
+
+Available power depends on the hydraulic head and the volumetric flow rate. A turbine that is 85% efficient, with a flow of 80 cubic meters per second and a head of 145 m, produces about 97 MW. Because stream flow varies seasonally, sites are assessed using flow records sometimes spanning decades, and [[Dam|dams]] and [[Reservoir|reservoirs]] give a more dependable supply by smoothing seasonal changes.
+
+Hydropower does not directly produce carbon dioxide or other atmospheric pollutants and is an alternative to [[Fossil fuel|fossil fuels]]; institutions such as the World Bank view it as a low-carbon route to economic development. It also has costs. Dam failures can cost lives and cause pollution. Dams and reservoirs block animals from traveling upstream, alter water temperature and oxygen levels downstream, trap sediment, and cause habitat loss for some aquatic species. Decaying organic matter in reservoirs releases [[Methane|methane]], estimated at almost a billion tonnes of CO₂ equivalent per year, and people living near plants may be displaced during construction or when reservoir banks become unstable.
+
+=== KEY: Hydrosphere_6b6a96
+HEADWORD: Hydrosphere = 수권
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Glacier = 빙하
+  Water = 물
+  Water cycle = 물의 순환
+  continental drift = 대륙 이동설
+  minor planet = 소천체
+  natural satellite = 자연 위성
+  seafloor spreading = 해저 확장
+ENTRY:
+Combined body of water found on, under and above the surface of a planet, minor planet or natural satellite. [[Earth|Earth's]] hydrosphere has existed for about 4 billion years and continues to change as seafloor spreading and continental drift rearrange land and ocean. It has been estimated at 1.386 billion cubic kilometers (333 million cubic miles) of water, including water in the atmosphere, in [[Glacier|glaciers]], lakes and rivers, and in living organisms. Saltwater accounts for 97.5% of this total. Of the fresh water, 68.9% is ice and permanent snow cover, 30.8% is groundwater, and only 0.3% is in easily accessible lakes, reservoirs and river systems. Oceans cover about 71% of Earth's surface. Water moves between reservoirs through the [[Water cycle|water cycle]], driven by solar energy and gravity.
+
+=== KEY: Hydrostatic_equilibrium_b75088
+HEADWORD: Hydrostatic equilibrium = 정역학 평형
+LEVEL: 5
+GLOSSARY:
+  Dwarf planet = 왜행성
+  Earth = 지구
+  Gravity = 중력
+  Outer space = 우주 공간
+  Solar System = 태양계
+  Sun = 태양
+  pressure-gradient force = 기압 경도력
+  small solar system bodies = 태양계 소천체
+  solar system = 태양계
+ENTRY:
+State of balance in a fluid or plastic solid at rest, in which external forces such as [[Gravity|gravity]] are offset by a pressure-gradient force. On Earth it keeps the atmosphere from collapsing into a thin, dense shell, while gravity keeps it from diffusing into [[Outer space|outer space]]. It is the criterion that distinguishes [[Dwarf planet|dwarf planets]] from small solar system bodies, and in general it causes objects in space to be spherical. In addition to the Sun, about a dozen equilibrium objects are confirmed in the [[Solar System]].
+
+=== KEY: Hydrothermal_vent_d7b931
+HEADWORD: Hydrothermal vent = 열수 분출공
+LEVEL: 5
+GLOSSARY:
+  Abiogenesis = 자연 발생
+  Archaea = 고균
+  Enceladus = 엔켈라두스
+  Europa (moon) = 유로파
+  Mid-ocean ridge = 중앙 해령
+  Water = 물
+  chemosynthetic bacteria = 화학 합성 세균
+  giant tube worms = 거대관벌레
+  hotspots = 열점
+  limpets = 삿갓조개
+  mid-ocean ridges = 중앙 해령
+ENTRY:
+Fissure on the seabed from which geothermally heated water discharges. Vents occur near volcanically active areas, at [[Mid-ocean ridge|mid-ocean ridges]] and at hotspots. Water emerges at temperatures from 60 °C (140 °F) up to 464 °C (867 °F), against ambient water near 2 °C (36 °F). Vent areas are more biologically productive than most of the deep sea, with [[Archaea|archaea]] and chemosynthetic bacteria forming the base of a food chain that supports giant tube worms, clams, limpets and shrimp. Vents have been hypothesized to be significant in starting [[Abiogenesis|abiogenesis]]. Active vents are thought to exist on Jupiter's moon [[Europa (moon)|Europa]] and Saturn's moon [[Enceladus]].
+
+=== KEY: Hydroxyzine_ddd76a
+HEADWORD: Hydroxyzine = 하이드록시진
+LEVEL: 5
+GLOSSARY:
+  Atarax = 아타락스
+  Central nervous system = 중추 신경계
+  Placebo = 위약
+  QT prolongation = QT 연장
+  Union Chimique Belge = UCB
+  Vistaril = 비스타릴
+  antihistamine = 항히스타민제
+  central nervous system = 중추 신경계
+  generalized anxiety disorder = 범불안 장애
+  histamine = 히스타민
+  motion sickness = 멀미
+  piperazine = 피페라진
+  side effects = 부작용
+  systematic review = 체계적 문헌 고찰
+ENTRY:
+First-generation antihistamine of the piperazine family, sold as Atarax and Vistaril among other brands. It is used for itchiness, anxiety, insomnia and nausea, including motion sickness, and works by blocking the effects of histamine. Common side effects include sleepiness, headache and dry mouth; QT prolongation is a possible serious side effect. Doses for sleep range from 25 to 100 mg, but tolerance to its [[Central nervous system|central nervous system]] effects can develop within a few days. A systematic review found that it outperforms [[Placebo|placebo]] for generalized anxiety disorder. Union Chimique Belge first made it in 1956.
+
+=== KEY: Hyena_f31b72
+HEADWORD: Hyena = 하이에나
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Carnivora = 식육목
+  Eurasia = 유라시아
+  Feliform = 고양이아목
+  Folklore = 민속
+  Hyaenidae = 하이에나과
+  Miocene = 마이오세
+  Traditional medicine = 전통 의학
+  canids = 갯과 동물
+  convergent evolution = 수렴 진화
+  cursorial = 주행성
+  traditional medicine = 전통 의학
+  viverrids = 사향고양이과
+ENTRY:
+Feliform [[Carnivora|carnivoran]] mammal of the family Hyaenidae, with just four living species. Despite their low diversity, hyenas are vital components of most [[Africa|African]] ecosystems. Although closer in ancestry to felines and viverrids, they resemble canids through convergent evolution: both are cursorial hunters that catch prey with their teeth rather than claws. Hyenas originated in [[Miocene|Miocene]] Eurasia 22 million years ago. Most dog-like hyena lineages declined with climate change and the arrival of canids, while bone-crushing hyenas, including the spotted, brown and striped hyenas, became top scavengers in Eurasia and Africa. Folklore often portrays them as frightening, and in some cultures their body parts are used in [[Traditional medicine|traditional medicine]].
+
+=== KEY: Hygiene_38a12a
+HEADWORD: Hygiene = 위생
+LEVEL: 3
+GLOSSARY:
+  Cholera = 콜레라
+  Hygiene = 위생
+  Ignaz Semmelweis = 이그나즈 제멜바이스
+  Louis Pasteur = 루이 파스퇴르
+  Pasteur = 파스퇴르
+  Pathogen = 병원체
+  Romans = 로마인
+  Sanitation = 위생
+  Soap = 비누
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  aqueducts = 수도교
+  diarrheal disease = 설사병
+  germ theory = 세균설
+  puerperal fever = 산욕열
+  typhoid = 장티푸스
+ENTRY:
+Set of practices performed to preserve health and prevent the spread of disease. The [[World Health Organization]] defines it as "conditions and practices that help to maintain health and prevent the spread of diseases." Its activities are grouped into home and everyday, personal, medical, sleep, and food hygiene, and practices vary from one culture to another.
+
+The term is often used interchangeably with cleanliness, but the two differ: hygiene refers to practices that prevent the spread of disease-causing organisms, and cleaning, such as handwashing, removes microbes along with dirt and is often the means of achieving it.
+
+In the home, the aim is to break the chain of infection transmission. The main sources of infection are people who are carriers or are infected, raw foods, water, and pets. The main routes of spread are hands, food-contact surfaces, and cleaning cloths and utensils. Because the infectious dose for some [[Pathogen|pathogens]] can be as small as 10–100 viable units, critical surfaces need hygienic cleaning. Regular handwashing with [[Soap|soap]] is one of the most effective ways to prevent transmission and significantly reduces gastrointestinal and respiratory infections; in healthcare settings, hand hygiene has been reported to reduce infection rates by up to 50%. Poor [[Sanitation|sanitation]] is a primary cause of diarrheal disease in low-income communities.
+
+Hygiene practices go back to prehistoric grooming, and the Romans built aqueducts and public baths. The modern framework emerged in the 19th century amid urban epidemics of [[Cholera|cholera]] and typhoid, when reformers advocated separating sewage from water supplies. [[Ignaz Semmelweis]], whose handwashing protocols in maternity wards are reported to have halved mortality from puerperal fever, and [[Louis Pasteur]] helped establish germ theory.
+
+=== KEY: Hylidae_28751e
+HEADWORD: Hylidae = 청개구리과
+LEVEL: 4
+GLOSSARY:
+  Cretaceous = 백악기
+  Europe = 유럽
+  European tree frog = 유럽청개구리
+  Frog = 개구리
+  India = 인도
+  South American = 남아메리카
+  Tadpole = 올챙이
+  Wyoming = 와이오밍주
+  bromeliads = 브로멜리아드
+  tree frogs = 청개구리
+ENTRY:
+Wide-ranging family of [[Frog|frogs]] commonly called tree frogs and their allies. Most hylids show arboreal adaptations, such as forward-facing eyes and adhesive pads on the fingers and toes, though many species are terrestrial or semiaquatic. The earliest fossils come from the [[Cretaceous]] of India and [[Wyoming]]. Hylids lay eggs in ponds, tree-hole puddles, bromeliads or on leaves over water, so that [[Tadpole|tadpoles]] drop in when they hatch. Some South American species brood eggs on the female's back. Most hylids feed on insects, and some larger species eat small vertebrates. The European tree frog (*Hyla arborea*) is common in the middle and south of Europe.
+
+=== KEY: Hymen_d473db
+HEADWORD: Hymen = 처녀막
+LEVEL: 5
+GLOSSARY:
+  Estrogen = 에스트로겐
+  Puberty = 사춘기
+  Vagina = 질
+  Virginity = 처녀성
+  virginity testing = 처녀성 검사
+  vulva = 외음부
+ENTRY:
+Thin mucosal membrane that surrounds or partially covers the vaginal opening. It forms part of the vulva and is similar in structure to the [[Vagina|vagina]]. Many mammals have hymens. During [[Puberty|puberty]], [[Estrogen|estrogen]] makes it very elastic, and its normal shapes range from thin and stretchy to thick and somewhat rigid; very rarely it is absent. It can tear during penetrative intercourse, usually causing pain and sometimes mild bleeding. Its state is therefore not a reliable indicator of [[Virginity|virginity]], though "virginity testing" persists in some cultures, and international health organizations condemn it as harmful.
+
+=== KEY: Hymenoptera_42c2fb
+HEADWORD: Hymenoptera = 벌목
+LEVEL: 4
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Ant = 개미
+  Bee = 벌
+  Cretaceous = 백악기
+  Egg = 알
+  Metamorphosis = 변태
+  Triassic = 트라이아스기
+  Wasp = 말벌
+  complete metamorphosis = 완전 변태
+  hamuli = 날개갈고리
+  ovipositor = 산란관
+  pupal stage = 번데기 단계
+  sawflies = 잎벌
+ENTRY:
+Large order of insects comprising sawflies, [[Wasp|wasps]], [[Bee|bees]] and [[Ant|ants]]. Over 150,000 living species have been described, in addition to over 2,000 extinct ones, and many are parasitic. Females typically have an ovipositor for inserting [[Egg|eggs]] into hosts or inaccessible places, often modified into a stinger. Hymenopterans have chewing mouthparts, and most usually have two pairs of wings coupled by hooked bristles called hamuli. Their young develop through [[Metamorphosis|complete metamorphosis]], with a wormlike larval stage and an inactive pupal stage. The order originated in the Triassic, and social species appeared during the [[Cretaceous]]. The name comes from [[Ancient Greek]] words meaning membrane and wing.
+
+=== KEY: Hymn_c24807
+HEADWORD: Hymn = 찬가
+LEVEL: 4
+GLOSSARY:
+  Akhenaten = 아케나텐
+  Aten = 아텐
+  Book = 책
+  Book of Psalms = 『시편』
+  Christmas = 크리스마스
+  Deity = 신
+  Easter = 부활절
+  Great Hymn to the Aten = 아텐 대찬가
+  Indian subcontinent = 인도 아대륙
+  Jesus = 예수
+  Kesh temple hymn = 케시 신전 찬가
+  Musical notation = 기보법
+  Pharaoh = 파라오
+  Psalms = 「시편」
+  Rigveda = 『리그베다』
+  hymnos = 힘노스
+ENTRY:
+Religious song written for adoration or prayer, typically addressed to a [[Deity|deity]] or deities. The word derives from Greek *hymnos*, meaning "a song of praise." Hymns also form part of other world religions, especially in the Indian subcontinent. Some of the oldest surviving examples of [[Musical notation|notated music]] are hymns with Greek texts. Ancient examples include the Sumerian Kesh temple hymn, the Egyptian Great Hymn to the Aten by Pharaoh [[Akhenaten]], and the Rigveda. Christian hymns, originally modeled on the Book of Psalms, praise God and often refer to [[Jesus]]. Many have seasonal themes for holy days such as [[Christmas]] and [[Easter]].
+
+=== KEY: Hypatia_d1dc55
+HEADWORD: Hypatia = 히파티아
+LEVEL: 4
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  Arithmetica = 『산술』
+  Christians = 기독교인
+  Cyril of Alexandria = 알렉산드리아의 키릴로스
+  Diophantus = 디오판토스
+  Neoplatonist = 신플라톤주의자
+  Orestes = 오레스테스
+  Peter = 베드로
+  Roman prefect = 로마 총독
+  Synesius = 시네시오스
+  Theon of Alexandria = 알렉산드리아의 테온
+  Women's rights = 여성의 권리
+  lector = 독서자
+  prefect = 총독
+ENTRY:
+Alexandrian Neoplatonist philosopher, astronomer and mathematician. She was the daughter of the mathematician Theon of Alexandria and is the first female mathematician whose life is reasonably well recorded. She wrote a commentary on [[Diophantus]]'s thirteen-volume *Arithmetica*, which may survive in part, and taught philosophy and astronomy to students in [[Alexandria]], including the future bishop Synesius. Late in life she advised Orestes, the Roman prefect of Alexandria, who was in a feud with [[Cyril of Alexandria|Cyril]], the bishop of Alexandria. Rumors that she was blocking their reconciliation led a mob of Christians, under a lector named Peter, to murder her. Her death made her a "martyr for philosophy," and in the twentieth century she became an icon for [[Women's rights|women's rights]].
+
+=== KEY: Hyperbola_2af03c
+HEADWORD: Hyperbola = 쌍곡선
+LEVEL: 4
+GLOSSARY:
+  Apollonius = 아폴로니오스
+  Apollonius of Perga = 페르가의 아폴로니오스
+  Conic section = 원뿔 곡선
+  Escape velocity = 탈출 속도
+  asymptotes = 점근선
+  conic sections = 원뿔 곡선
+  double cone = 이중 원뿔
+  escape velocity = 탈출 속도
+  foci = 초점
+  subatomic particle = 아원자 입자
+ENTRY:
+Smooth plane curve and one of three kinds of [[Conic section|conic section]], with two branches that are mirror images of each other. It forms when a plane cuts both halves of a double cone without passing through the apex. It is also the locus of points whose distances to two fixed foci differ by a constant. Its arms approach two asymptotes that meet at the center of symmetry. Hyperbolas describe the path of a sundial gnomon's shadow, the open orbit of an object exceeding [[Escape velocity|escape velocity]], and the scattering path of a subatomic particle. The term is believed to have been coined by [[Apollonius of Perga]], who analyzed the curve in his work on conic sections.
+
+=== KEY: Hyperbolic_functions_c1caef
+HEADWORD: Hyperbolic functions = 쌍곡선 함수
+LEVEL: 4
+GLOSSARY:
+  Hyperbola = 쌍곡선
+  Johann Heinrich Lambert = 요한 하인리히 람베르트
+  Lorentz boosts = 로렌츠 부스트
+  Special relativity = 특수 상대성 이론
+  Vincenzo Riccati = 빈첸초 리카티
+  catenary = 현수선
+  differential equations = 미분 방정식
+  hyperbolic cosine = 쌍곡선 코사인
+  hyperbolic rotations = 쌍곡 회전
+  hyperbolic sine = 쌍곡선 사인
+  linear differential equations = 선형 미분 방정식
+  special relativity = 특수 상대성 이론
+  trigonometric functions = 삼각 함수
+  unit hyperbola = 단위 쌍곡선
+ENTRY:
+Analogues of the trigonometric functions, defined using the [[Hyperbola|hyperbola]] rather than the circle. The basic functions are hyperbolic sine (sinh) and hyperbolic cosine (cosh), from which tangent, cotangent, secant and cosecant are derived. Just as (cos t, sin t) traces a circle, (cosh t, sinh t) traces the right half of the unit hyperbola. The derivatives of sinh and cosh are cosh and sinh. They express Lorentz boosts as hyperbolic rotations in [[Special relativity|special relativity]] and occur in solutions of many linear differential equations, such as the one defining a catenary. Vincenzo Riccati introduced them formally in 1757, and Johann Heinrich Lambert systematized their use during the 1760s.
+
+=== KEY: Hypergamy_09ad47
+HEADWORD: Hypergamy = 앙혼
+LEVEL: 5
+GLOSSARY:
+  Evolutionary psychology = 진화 심리학
+  Hindu law = 힌두법
+  anuloma = 아누로마
+  evolutionary psychology = 진화심리학
+  hypogamy = 강혼
+  mate value = 배우자 가치
+  pratiloma = 프라틸로마
+ENTRY:
+Practice of marrying or partnering with a spouse of higher social status, colloquially called marrying up. Originally it referred to higher socioeconomic class; today it more often means partnering with someone of higher composite mate value, especially in [[Evolutionary psychology|evolutionary psychology]]. Its antonym is hypogamy. Hindu law books refer to the concepts as anuloma and pratiloma. Early church writers sought to limit the large age gaps that hypergamous marriages could produce. Demographic research shows that educational hypergamy declined as female educational attainment surpassed men's in many developed nations.
+
+=== KEY: Hypericum_feb070
+HEADWORD: Hypericum = 물레나물속
+LEVEL: 4
+GLOSSARY:
+  Flowering plant = 속씨식물
+  Genus = 속
+  History = 역사학
+  Hypericaceae = 물레나물과
+  Hypericum perforatum = 서양고추나물
+  Invasive species = 침입종
+  Johannes-blut = 요하네스의 피
+  John = 존
+  Museum = 박물관
+  Natural History = 『박물지』
+  Natural History Museum = 자연사 박물관
+  Natural History Museum, London = 런던 자연사 박물관
+  Norman = 노르만
+  Norman Robson = 노먼 롭슨
+  Paracelsus = 파라켈수스
+  St. John = 성 요한
+  St. John's = 세인트존스
+  St. John's worts = 세인트존스워트
+  flowering plants = 속씨식물
+  hypericin = 하이퍼리신
+  pseudohypericin = 슈도하이퍼리신
+ENTRY:
+Genus of [[Flowering plant|flowering plants]] in the family Hypericaceae, known as St. John's worts. It has a nearly worldwide distribution, missing only from tropical lowlands, deserts and polar regions. Many species are regarded as [[Invasive species|invasive]] and noxious weeds. Norman Robson, working at the [[Natural History Museum, London|Natural History Museum]] in London, produced a worldwide monograph recognizing 36 sections within the genus. Dark glands contain hypericin or pseudohypericin and give a red stain when crushed, while pale glands secrete oils. Paracelsus named the red secretions "Johannes-blut" in the 16th century, linking the plant to St. John. *Hypericum perforatum* is widely used in herbal medicine.
+
+=== KEY: Hypertension_01da3e
+HEADWORD: Hypertension = 고혈압
+LEVEL: 4
+GLOSSARY:
+  Artery = 동맥
+  Dementia = 치매
+  Heart failure = 심부전
+  High blood pressure = 고혈압
+  Salt = 소금
+  Stroke = 뇌졸중
+  Weight = 무게
+  Weight loss = 체중 감소
+  atrial fibrillation = 심방세동
+  coronary artery disease = 관상 동맥 질환
+ENTRY:
+Long-term medical condition of persistently elevated blood pressure in the [[Artery|arteries]]. Usually symptomless, it is a major risk factor for [[Stroke|stroke]], coronary artery disease, [[Heart failure|heart failure]], atrial fibrillation and [[Dementia|dementia]], and a major cause of premature death worldwide. About 90–95% of cases are primary (essential), linked to lifestyle and genetic factors such as excess [[Salt|salt]], excess body weight, smoking and physical inactivity. High blood pressure is present when resting pressure is persistently at or above 130/80 mmHg (stage 1) or 140/90 mmHg (stage 2). Weight loss, exercise, less salt and a healthy diet can lower it, and up to three medications taken together can control it in 90% of people. About half of those affected do not know they have it.
+
+=== KEY: Hypertensive_heart_disease_031836
+HEADWORD: Hypertensive heart disease = 고혈압성 심장병
+LEVEL: 5
+GLOSSARY:
+  Atherosclerosis = 죽상 경화증
+  Heart = 심장
+  Heart failure = 심부전
+  International Classification of Diseases = 국제 질병 분류
+ENTRY:
+Heart complications of high blood pressure, including [[Heart failure|heart failure]]. Its definition in International Classification of Diseases coding includes heart failure and other cardiac complications when death certificates state or imply that hypertension caused them. It caused 1.07 million deaths in 2013, up from 630,000 in 1990. Without heart failure it is usually symptomless; with it, symptoms include fatigue, shortness of breath, swollen ankles and irregular pulse. Because high blood pressure also drives [[Atherosclerosis|atherosclerosis]], death rates provide an incomplete measure of its burden.
+
+=== KEY: Hypha_2e180d
+HEADWORD: Hypha = 균사
+LEVEL: 4
+GLOSSARY:
+  Cell wall = 세포벽
+  Chitin = 키틴
+  Fungus = 균류
+  Lichen = 지의류
+  Mycelium = 균사체
+  Oomycete = 난균류
+  Spitzenkörper = 슈피첸쾨르퍼
+  actinobacterium = 방선균
+  aseptate = 무격벽
+  mycorrhizal fungi = 균근균
+  septa = 격벽
+ENTRY:
+Long, branching filamentous structure of a [[Fungus|fungus]], [[Oomycete|oomycete]] or actinobacterium. In most fungi, hyphae are the main mode of vegetative growth and collectively form a [[Mycelium|mycelium]]. Each hypha consists of one or more cells within a tubular [[Cell wall|cell wall]], usually made of [[Chitin|chitin]], unlike the cellulose walls of plants and oomycetes. Many hyphae are divided by cross-walls called septa, and some fungi are aseptate. Hyphae grow at their tips, driven by the *Spitzenkörper*, an aggregation of membrane-bound vesicles containing cell-wall components. Modified hyphae absorb nutrients in parasites and mycorrhizal fungi and make up much of the structure of [[Lichen|lichens]]. Hyphae have an average diameter of 4–6 μm.
+
+=== KEY: Hypnosis_aec55e
+HEADWORD: Hypnosis = 최면
+LEVEL: 4
+GLOSSARY:
+  Attention = 주의
+  Human = 인간
+  Placebo = 위약
+  Pseudoscience = 유사 과학
+  Quackery = 돌팔이 의술
+  Research = 연구
+  false memories = 거짓 기억
+  hypnotherapy = 최면 요법
+  hypnotic induction = 최면 유도
+  mentalism = 멘탈리즘
+  placebo effect = 위약 효과
+  stage hypnosis = 무대 최면
+ENTRY:
+Human condition involving [[Attention|focused attention]], reduced peripheral awareness and an enhanced capacity to respond to suggestion. Altered-state theories see it as a trance differing from ordinary consciousness, while non-state theories treat it as a type of [[Placebo|placebo]] effect, a redefined interaction with a therapist, or imaginative role enactment. A session usually begins with a hypnotic induction, a series of preliminary instructions and suggestions. Its therapeutic use is called hypnotherapy, and its use as entertainment is called stage hypnosis, a form of mentalism. Research indicates that hypnotizing an individual may aid the formation of false memories, and medical hypnosis is often considered [[Pseudoscience|pseudoscience]] or [[Quackery|quackery]].
+
+=== KEY: Hypochlorous_acid_b40dd0
+HEADWORD: Hypochlorous acid = 차아염소산
+LEVEL: 5
+GLOSSARY:
+  Antoine Jérôme Balard = 앙투안 제롬 발라르
+  Bleach = 표백제
+  Chlorine = 염소
+  Food = 음식
+  Food and Drug Administration = 식품의약국
+  French = 프랑스어
+  Inorganic compound = 무기 화합물
+  Sodium hypochlorite = 차아염소산 나트륨
+  U.S. Food and Drug Administration = 미국 식품의약국
+  White blood cell = 백혈구
+  hypochlorite = 차아염소산염
+  sodium hypochlorite = 하이포아염소산 나트륨
+  white blood cells = 백혈구
+ENTRY:
+[[Inorganic compound]] with the formula HClO, an acid that forms when [[Chlorine|chlorine]] dissolves in water. HClO and its hypochlorite anion are the primary disinfection agents of chlorine solutions, and it cannot be isolated from them. Its antimicrobial properties make the related [[Sodium hypochlorite|sodium hypochlorite]] an ingredient in many commercial [[Bleach|bleaches]], deodorants and disinfectants. Mammalian [[White blood cell|white blood cells]] generate it to help destroy bacteria and other microbes. The U.S. Food and Drug Administration has approved products based on it for treating wounds. It was discovered in 1834 by the French chemist Antoine Jérôme Balard.
+
+=== KEY: Hypoglycemia_f8f006
+HEADWORD: Hypoglycemia = 저혈당증
+LEVEL: 5
+GLOSSARY:
+  Insulin = 인슐린
+  Sepsis = 패혈증
+  glucagon = 글루카곤
+ENTRY:
+Fall in blood sugar to levels below normal, also called low blood sugar and typically below 70 mg/dL (3.9 mmol/L). Symptoms may include headache, tiredness, confusion, shakiness, seizures, loss of consciousness, or death. The most common cause is diabetes medication such as [[Insulin]], and risk is higher for people with diabetes who eat less than usual, exercise or drink alcohol. Other causes include severe illness, [[Sepsis]], kidney failure and liver disease. Treatment is a fast-acting sugary food or drink, such as glucose tablets or apple juice; when a person cannot take food by mouth, glucagon by injection may help.
+
+=== KEY: Hypothermia_fc041c
+HEADWORD: Hypothermia = 저체온증
+LEVEL: 4
+GLOSSARY:
+  Alcohol intoxication = 알코올 중독
+  Anorexia = 식욕 부진
+  Hypothermia = 저체온증
+  United States = 미국
+  cardiopulmonary bypass = 심폐 우회술
+  extracorporeal membrane oxygenation = 체외막 산소 공급
+  paradoxical undressing = 역설적 탈의
+ENTRY:
+Drop in human core body temperature below 35.0 °C (95.0 °F). Mild hypothermia causes shivering and mental confusion. In moderate cases shivering stops and confusion increases, and in severe cases hallucinations, paradoxical undressing and an increased risk of the heart stopping may occur. It classically results from exposure to cold weather or cold-water immersion, but any condition that reduces heat production or increases heat loss can cause it, including [[Alcohol intoxication|alcohol intoxication]], low blood sugar, [[Anorexia]] and advanced age. Mild cases are treated with warm drinks and clothing, moderate cases with heating blankets and warmed intravenous fluids, and severe cases may require extracorporeal membrane oxygenation (ECMO) or cardiopulmonary bypass. Hypothermia causes at least 1,500 deaths a year in the United States alone. The name derives from Greek words meaning under and heat.
+
+=== KEY: Hypothesis_8d3cfc
+HEADWORD: Hypothesis = 가설
+LEVEL: 4
+GLOSSARY:
+  Karl Popper = 카를 포퍼
+  Scientific theory = 과학 이론
+  antecedent = 전건
+  falsifiable = 반증 가능
+  formal logic = 형식 논리학
+  working hypothesis = 작업 가설
+ENTRY:
+Proposed explanation for a phenomenon. A scientific hypothesis must be based on observations and make a testable, reproducible prediction about reality, beginning as an educated guess. If experiments repeatedly and independently show it to be true, it becomes a [[Scientific theory|scientific theory]]; in everyday use the two words are often interchanged, which is incorrect in science. A working hypothesis is provisionally accepted to advance research and is often discarded. In formal logic, a hypothesis is the antecedent of a proposition: in the proposition "If P, then Q", P is the hypothesis. [[Karl Popper]] argued that a hypothesis must be falsifiable, meaning it can be shown to be false.
+
+=== KEY: Hypothyroidism_1eb03b
+HEADWORD: Hypothyroidism = 갑상샘 기능 저하증
+LEVEL: 5
+GLOSSARY:
+  Autoimmune disease = 자가 면역 질환
+  Hashimoto's thyroiditis = 하시모토 갑상샘염
+  Iodine = 아이오딘
+  Thyroid = 갑상샘
+  United States = 미국
+  autoimmune disease = 자가 면역 질환
+  levothyroxine = 레보티록신
+  thyroid-stimulating hormone = 갑상샘 자극 호르몬
+  thyroxine = 티록신
+ENTRY:
+Endocrine disease marked by insufficient [[Thyroid|thyroid]] hormone production. Symptoms include poor tolerance of cold, extreme fatigue, muscle aches, constipation, slow heart rate, depression and weight gain. Worldwide, too little dietary [[Iodine|iodine]] is the most common cause; where iodine intake is sufficient, the usual cause is Hashimoto's thyroiditis, an [[Autoimmune disease|autoimmune disease]]. Diagnosis uses blood tests of thyroid-stimulating hormone (TSH) and thyroxine (T4). Treatment is levothyroxine, a thyroid hormone replacement, with doses adjusted to symptoms and TSH levels. Overt hypothyroidism affects about 0.3–0.4% of people in the United States and is more common in women.
+
+=== KEY: Hypoxia_medicine_5867da
+HEADWORD: Hypoxia = 저산소증
+LEVEL: 4
+GLOSSARY:
+  Lung = 폐
+  Oxygen = 산소
+  People = 『피플』
+  anoxemia = 무산소혈증
+  continuous positive airway pressure = 지속 기도 양압술
+  high-altitude cerebral edema = 고지대 뇌부종
+  high-altitude pulmonary edema = 고지대 폐부종
+  hypoxemia = 저산소혈증
+  preterm birth = 조산
+ENTRY:
+Insufficient [[Oxygen|oxygen]] supply at the tissue level, affecting the whole body or a local region. Hypoxia differs from hypoxemia and anoxemia, which refer specifically to low or absent oxygen in the blood. It may have external causes, such as breathing a low-oxygen gas, or internal ones, such as reduced gas transfer in the [[Lung|lungs]], reduced ability of the blood to carry oxygen, or poor blood flow. People who ascend to high altitude develop generalized hypoxia, which can cause high-altitude pulmonary edema (HAPE) and high-altitude cerebral edema (HACE). It is also a common complication of preterm birth, because premature infants often have underdeveloped lungs; they may be placed in incubators with supplemental oxygen, and serious cases receive continuous positive airway pressure (CPAP).
+
+=== KEY: Hyrax_e70053
+HEADWORD: Hyrax = 바위너구리
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Elephant = 코끼리
+  Hyracoidea = 바위너구리목
+  Middle East = 중동
+  Sirenia = 바다소목
+  dassie = 다시
+  marmots = 마멋
+  pikas = 우는토끼
+  rock hyrax = 바위너구리
+ENTRY:
+Small, stout, herbivorous mammal of the order Hyracoidea, also called a dassie. Hyraxes are well-furred and typically 30–70 cm (12–28 in) long, weighing 2–5 kg (4–11 lb). Although they resemble marmots or large pikas, they are more closely related to [[Elephant|elephants]] and [[Sirenia|sirenians]]. Their lifespan is 9 to 14 years. Almost all species are limited to [[Africa]]; the exception, the rock hyrax, also lives in adjacent parts of the [[Middle East]]. Hyraxes compensate for poorly developed internal temperature regulation by huddling and basking in the sun. Their upper incisors grow continuously, and their multichambered stomachs break down tough plant material. Females give birth to up to four young after a gestation of seven to eight months. Hyraxes live in small family groups led by a single male that defends the territory.
+
+=== KEY: Hysteresis_f2094d
+HEADWORD: Hysteresis = 히스테리시스
+LEVEL: 5
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Ancient Greek = 고대 그리스어
+  Earth's magnetic field = 지구 자기장
+  Ewing = 유잉
+  Ferromagnetism = 강자성
+  Hard disk drive = 하드 디스크 드라이브
+  James = 야고보
+  James Alfred Ewing = 제임스 앨프리드 유잉
+  magnetic field = 자기장
+  magnetic moment = 자기 모멘트
+  remanence = 잔류 자기
+  shape-memory alloys = 형상 기억 합금
+ENTRY:
+Dependence of a system's state on its history. A magnet, for example, may have more than one possible magnetic moment in a given field, depending on how the field changed in the past. This memory effect underlies data storage in a [[Hard disk drive]] and the remanence that keeps a record of Earth's magnetic field in the past. Hysteresis occurs in [[Ferromagnetism|ferromagnetic]] materials, rubber bands and shape-memory alloys, and is often linked to irreversible change and internal friction. Thermostats use it to prevent unwanted frequent switching. The term was coined in 1881 by Sir James Alfred Ewing, from an Ancient Greek word meaning lagging behind.
+
+=== KEY: Hysteria_e3f82c
+HEADWORD: Hysteria = 히스테리
+LEVEL: 5
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Egypt = 이집트
+  Epilepsy = 뇌전증
+  Freud = 프로이트
+  Histrionic personality disorder = 연극성 인격 장애
+  Jean-Martin Charcot = 장마르탱 샤르코
+  Sigmund Freud = 지크문트 프로이트
+  ancient Egypt = 고대 이집트
+  conversion disorders = 전환 장애
+  female hysteria = 여성 히스테리
+  wandering uterus = 떠도는 자궁
+ENTRY:
+Term for ungovernable emotional excess, formerly a medical diagnosis mainly applied to women. In the 19th century female hysteria was considered a diagnosable physical illness; in the 20th it came to be treated as a mental illness. [[Sigmund Freud]] and Jean-Martin Charcot studied hysteria patients. Most physicians no longer accept it as a medical diagnosis. The word comes from the Ancient Greek for uterus. The oldest record, from 1900 BCE in ancient Egypt, describes behavior attributed to a wandering uterus. The diagnosis has since been divided into categories including [[Epilepsy]], [[Histrionic personality disorder|histrionic personality disorder]] and conversion disorders.
+
+=== KEY: IBM_cbf445
+HEADWORD: IBM = IBM
+LEVEL: 4
+GLOSSARY:
+  Computer = 컴퓨터
+  Computing-Tabulating-Recording Company = CTR
+  Deep Blue = 딥 블루
+  Floppy disk = 플로피 디스크
+  Garry Kasparov = 가리 카스파로프
+  Hard disk drive = 하드 디스크 드라이브
+  IBM Personal Computer = IBM PC
+  International Business Machines = 인터내셔널 비즈니스 머신스
+  Lenovo = 레노버
+  Personal computer = 개인용 컴퓨터
+  SQL = SQL
+  Supercomputer = 슈퍼컴퓨터
+  United States = 미국
+  York = 요크
+  mainframe = 메인프레임
+  microcomputer = 마이크로컴퓨터
+  punch-card = 천공 카드
+ENTRY:
+American multinational technology company, headquartered in Armonk, New York. Founded in 1911 as the Computing-Tabulating-Recording Company, it was renamed International Business Machines in 1924 and became a leading manufacturer of punch-card tabulating systems. Its System/360 mainframe family dominated computing in the 1960s and 1970s, when the company produced 80 percent of computers in the United States. The [[Personal computer|IBM Personal Computer]], introduced in 1981, set an architecture that remains the basis for most personal computers. IBM sold its microcomputer division to [[Lenovo]] in 2005 and afterward concentrated on services, software and supercomputers. It held the record for most annual U.S. patents by a business for 29 consecutive years, from 1993 to 2021. Its innovations include the [[Floppy disk|floppy disk]], the [[Hard disk drive]] and the SQL programming language. In 1997 its [[Supercomputer|supercomputer]] Deep Blue defeated [[Garry Kasparov]] at chess.
+
+=== KEY: IKEA_65d6b2
+HEADWORD: IKEA = 이케아
+LEVEL: 5
+GLOSSARY:
+  Agunnaryd = 아군나뤼드
+  Elmtaryd = 엘름타뤼드
+  Furniture = 가구
+  Ingvar Kamprad = 잉바르 캄프라드
+  Netherlands = 네덜란드
+  Sweden = 스웨덴
+  Swedish = 스웨덴어
+  fiscal year = 회계 연도
+  Älmhult = 엘름훌트
+ENTRY:
+[[Sweden|Swedish]] multinational conglomerate selling ready-to-assemble [[Furniture|furniture]] and household goods. Founded in 1943 by Ingvar Kamprad, IKEA has been the world's largest furniture retailer since 2008. Its name is an acronym of Kamprad's initials, his family farm Elmtaryd and his hometown Agunnaryd. It is known for modernist design, low prices and large showroom-style stores. Its operational hub is in Älmhult, Sweden, where the first store opened in 1958. More than 500 stores operate in 60 countries and three territories, and €45.1 billion worth of goods were sold in fiscal year 2024. The IKEA brand is owned by Inter IKEA Systems B.V., based in the [[Netherlands]].

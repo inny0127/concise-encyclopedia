@@ -1,0 +1,880 @@
+=== KEY: Full_stop_0f2790
+HEADWORD: Full stop = 마침표
+LEVEL: 5
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  American English = 미국 영어
+  Aristophanes = 아리스토파네스
+  Aristophanes of Byzantium = 비잔티움의 아리스토파네스
+  Byzantium = 비잔티움
+  Europe = 유럽
+  Old English = 고대 영어
+  Printing = 인쇄
+  Western Europe = 서유럽
+  decimal separator = 소수점
+  period = 주기
+  standard form = 표준형
+ENTRY:
+Punctuation mark (.) used mainly to end a declarative sentence. Called a period in North American English, it is also used after many abbreviations and after letters in some initialisms such as U.S. In computing it is called a dot. Its origins lie in a three-dot system introduced in [[Alexandria|Alexandria]] in the 3rd century BCE by Aristophanes of Byzantium. The name period is first attested in [[Old English|Old English]]. By the time [[Printing|printing]] began in Western Europe, the low dot had become the standard form. In the English-speaking world the same mark serves as the decimal separator.
+
+=== KEY: Function_composition_4c40b1
+HEADWORD: Function composition = 함수의 합성
+LEVEL: 4
+GLOSSARY:
+  Chain = 사슬
+  Chain rule = 연쇄 법칙
+  Function (mathematics) = 함수
+  associativity = 결합 법칙
+  bijections = 전단사 함수
+  codomain = 공역
+  commutative = 교환 법칙
+  differentiable functions = 미분 가능 함수
+  domain = 정의역
+  one-to-one = 단사
+  onto = 전사
+ENTRY:
+Operation that combines two [[Function (mathematics)|functions]] to form a new function. The composition f∘g, written (f∘g)(x) = f(g(x)), applies g first and then f. It is a special case of the composition of relations and shares its properties, including associativity, so parentheses may be omitted in chains of functions. Composition is generally not commutative, since f∘g and g∘f usually differ. In a strict sense, g∘f is defined only when the codomain of f equals the domain of g. The composition of one-to-one functions is one-to-one, and of onto functions is onto, so the composition of two bijections is a bijection. For invertible functions, (f∘g)⁻¹ = g⁻¹∘f⁻¹. The [[Chain rule]] gives derivatives of composite differentiable functions.
+
+=== KEY: Function_mathematics_b9554e
+HEADWORD: Function (mathematics) = 함수
+LEVEL: 3
+GLOSSARY:
+  Calculus = 미적분학
+  Euler = 오일러
+  Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
+  Introductio in analysin infinitorum = 『무한 해석 입문』
+  Leibniz = 라이프니츠
+  Leonhard Euler = 레온하르트 오일러
+  Real number = 실수
+  Set theory = 집합론
+  bijectivity = 전단사성
+  binary relation = 이항 관계
+  codomain = 공역
+  domain = 정의역
+  image = 상
+  infinitesimal calculus = 미적분학
+  injectivity = 단사성
+  real numbers = 실수
+  set theory = 집합론
+  surjectivity = 전사성
+ENTRY:
+Rule assigning to each element of one set exactly one element of another set. A function from a set X to a set Y assigns to each element of X exactly one element of Y; X is called the domain and Y the codomain. If the function f assigns y to x, one says that f maps x to y and writes y = f(x). The set of values actually taken is the image, a subset of the codomain. A function is often defined by an expression such as f(x) = x² + 1, for which evaluation gives f(4) = 17.
+
+Functions began as an idealization of how one varying quantity depends on another, as the position of a planet depends on time. The concept was elaborated with the infinitesimal [[Calculus|calculus]] at the end of the 17th century. [[Gottfried Wilhelm Leibniz|Leibniz]] introduced the word "function" in 1673, and [[Leonhard Euler|Euler]] defined functions as analytic expressions in his *Introductio in analysin infinitorum* in 1748. At the end of the 19th century the concept was formalized in terms of [[Set theory|set theory]], which greatly widened its applications.
+
+In the set-theoretic definition, a function is a binary relation between X and Y in which every element of X is related to exactly one element of Y. The set of all pairs (x, f(x)) is the graph of the function. When both sets are sets of [[Real number|real numbers]], each pair can be read as a point in the plane.
+
+Important properties include injectivity (distinct inputs give distinct outputs), surjectivity (every element of the codomain is an output), and bijectivity (both, which allows an inverse). Functions are widely used in science, engineering, and most fields of mathematics, and have been called "the central objects of investigation" in most of them.
+
+=== KEY: Functional_analysis_562501
+HEADWORD: Functional analysis = 함수해석학
+LEVEL: 4
+GLOSSARY:
+  Banach spaces = 바나흐 공간
+  Branch = 브랜치
+  Calculus of variations = 변분법
+  Fourier = 푸리에
+  Fourier transform = 푸리에 변환
+  Hilbert = 힐베르트
+  Hilbert space = 힐베르트 공간
+  Mathematical analysis = 해석학
+  Partial differential equation = 편미분 방정식
+  Quantum mechanics = 양자역학
+  calculus of variations = 변분법
+  differential equations = 미분 방정식
+  function spaces = 함수 공간
+  inner product = 내적
+  machine learning = 기계 학습
+  mathematical analysis = 해석학
+  partial differential equations = 편미분 방정식
+  quantum mechanics = 양자역학
+ENTRY:
+Branch of [[Mathematical analysis|mathematical analysis]] studying vector spaces with limit-related structure, such as a norm or topology, and the linear functions defined on them. It grew from the study of function spaces and transformations such as the [[Fourier transform]], and proved especially useful for differential and integral equations. The word *functional*, for a function whose argument is a function, was first used in Hadamard's 1910 book on the [[Calculus of variations|calculus of variations]]. The basic objects are complete normed vector spaces, called Banach spaces. [[Hilbert space|Hilbert spaces]], whose norm arises from an inner product, can be completely classified. The field is central to the mathematical formulation of [[Quantum mechanics|quantum mechanics]], [[Partial differential equation|partial differential equations]] and machine learning.
+
+=== KEY: Functional_programming_1fed90
+HEADWORD: Functional programming = 함수형 프로그래밍
+LEVEL: 4
+GLOSSARY:
+  Erlang = 얼랭
+  Haskell = 하스켈
+  JavaScript = 자바스크립트
+  Lambda calculus = 람다 대수
+  Lisp (programming language) = 리스프
+  Programming paradigm = 프로그래밍 패러다임
+  Python (programming language) = 파이썬
+  first-class = 일급
+  lambda calculus = 람다 대수
+  pure function = 순수 함수
+  side effects = 부작용
+ENTRY:
+[[Programming paradigm]] in which programs are constructed by applying and composing functions. Functions are first-class values: they can be bound to names, passed as arguments and returned from other functions. Programs are written as declarative expressions rather than sequences of statements that update the running state. Purely functional programming treats all functions as pure: a pure function always returns the same result for the same arguments and has no side effects. Its proponents argue that this yields fewer bugs and makes programs easier to test and verify. The paradigm evolved from [[Lambda calculus|lambda calculus]], and [[Lisp (programming language)|Lisp]], developed in the late 1950s, was the first high-level functional language. Many languages now support functional styles, including [[Python (programming language)|Python]] and [[JavaScript]]. Haskell, Erlang and F# are among the functional languages in use today.
+
+=== KEY: Fundamental_group_ac7917
+HEADWORD: Fundamental group = 기본군
+LEVEL: 4
+GLOSSARY:
+  Analysis situs = 『위치 해석』
+  Bernhard Riemann = 베른하르트 리만
+  Felix Klein = 펠릭스 클라인
+  Henri Poincaré = 앙리 푸앵카레
+  Homotopy = 호모토피
+  Klein = 클라인
+  Poincaré = 푸앵카레
+  Riemann = 리만
+  Riemann surface = 리만 곡면
+  Riemann surfaces = 리만 곡면
+  Topological space = 위상 공간
+  homotopy classes = 호모토피류
+  homotopy invariant = 호모토피 불변량
+ENTRY:
+Group of homotopy classes of loops in a [[Topological space]], based at a chosen point. It records information about the basic shape, or holes, of a space, and it is the first and simplest [[Homotopy]] group. Two loops are combined by concatenation, traveling along one and then the other. Because homotopy equivalent spaces have isomorphic fundamental groups, the group is a homotopy invariant. The fundamental group of a space X is written π₁(X). [[Henri Poincaré]] defined it in 1895 in his paper *Analysis situs*; the concept had emerged in the theory of [[Riemann surface|Riemann surfaces]] through the work of [[Bernhard Riemann]] and Felix Klein.
+
+=== KEY: Fundamental_interaction_a874d9
+HEADWORD: Fundamental interaction = 기본 상호작용
+LEVEL: 4
+GLOSSARY:
+  Electromagnetism = 전자기학
+  Gluon = 글루온
+  Gravity = 중력
+  Hadron = 강입자
+  Photon = 광자
+  Quark = 쿼크
+  Standard = 스탠더드
+  Standard Model = 표준 모형
+  Theory = 이론
+  Theory of everything = 모든 것의 이론
+  W and Z bosons = W 보손과 Z 보손
+  general theory of relativity = 일반 상대성 이론
+  radioactive decay = 방사성 붕괴
+  strong interaction = 강한 상호작용
+  theory of relativity = 상대성 이론
+  weak interaction = 약한 상호작용
+ENTRY:
+Interaction in nature that appears not to be reducible to more basic interactions. Four are known: gravity, [[Electromagnetism]], the weak interaction and the strong interaction. Gravity and electromagnetism produce long-range forces that can be seen directly in everyday life, while the strong and weak interactions act at subatomic scales and govern nuclear interactions inside atoms. Within the [[Standard Model]], the strong interaction is carried by the [[Gluon]], which binds [[Quark|quarks]] into [[Hadron|hadrons]] such as protons and neutrons, and the weak interaction is carried by W and Z bosons that mediate radioactive decay. Electromagnetism is carried by the [[Photon]], which underlies chemical bonding and electricity. Gravity is attributed to the curvature of spacetime in Einstein's general theory of relativity. Efforts to combine all four into a [[Theory of everything]] continue.
+
+=== KEY: Fundamental_theorem_of_algebra_863494
+HEADWORD: Fundamental theorem of algebra = 대수학의 기본 정리
+LEVEL: 4
+GLOSSARY:
+  Argand = 아르강
+  Carl Friedrich Gauss = 카를 프리드리히 가우스
+  Complex number = 복소수
+  Field (mathematics) = 체
+  Gauss = 가우스
+  Polynomial = 다항식
+  Theorem = 정리
+  algebraically closed = 대수적으로 닫힌
+  complex numbers = 복소수
+  d'Alembert's theorem = 달랑베르 정리
+  intermediate value theorem = 중간값 정리
+  multiplicity = 중복도
+ENTRY:
+Theorem stating that every non-constant [[Polynomial]] with complex coefficients has at least one complex root. Equivalently, the [[Complex number|complex numbers]] form an algebraically closed [[Field (mathematics)|field]], and a polynomial of degree n has exactly n complex roots when counted with multiplicity. Despite its name, the theorem is not fundamental to modern algebra, and it cannot be proved by purely algebraic methods, because it requires the intermediate value theorem and the continuity of polynomial functions. It is also called d'Alembert's theorem. [[Carl Friedrich Gauss|Gauss]] published a largely geometric proof in 1799 that had a gap, and Argand, an amateur mathematician, published the first rigorous proof in 1806.
+
+=== KEY: Fundamental_theorem_of_arithmetic_3ce6ff
+HEADWORD: Fundamental theorem of arithmetic = 산술의 기본 정리
+LEVEL: 4
+GLOSSARY:
+  Carl Friedrich Gauss = 카를 프리드리히 가우스
+  Disquisitiones Arithmeticae = 『산술 연구』
+  Elements = 『원론』
+  Euclid = 에우클레이데스
+  Euclid's Elements = 『원론』
+  Fermat's Last Theorem = 페르마의 마지막 정리
+  Gauss = 가우스
+  Prime number = 소수
+  Theorem = 정리
+  algebraic integers = 대수적 정수
+  unique factorization theorem = 소인수분해의 유일성 정리
+ENTRY:
+Theorem stating that every integer greater than 1 is either prime or a unique product of primes, up to the order of the factors. For example, 1200 = 2⁴·3·5² has exactly four 2s, one 3 and two 5s in every factorization. Factors must be [[Prime number|prime]]: 12 = 2·6 = 3·4 shows that factorizations into composite numbers need not be unique. The theorem is also called the unique factorization theorem, and it is one of the main reasons why 1 is not considered a prime number. Its existence part traces back to [[Euclid]]'s *Elements*, and [[Carl Friedrich Gauss|Gauss]] gave the first known proof of uniqueness in Article 16 of his *Disquisitiones Arithmeticae*. The theorem fails for algebraic integers, one reason the proof of [[Fermat's Last Theorem]] was so difficult.
+
+=== KEY: Fundamental_theorem_of_calculus_8325bc
+HEADWORD: Fundamental theorem of calculus = 미적분학의 기본 정리
+LEVEL: 4
+GLOSSARY:
+  Continuous function = 연속 함수
+  Gottfried Leibniz = 고트프리트 라이프니츠
+  Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
+  Integral = 적분
+  Isaac = 이삭
+  Isaac Barrow = 아이작 배로
+  Isaac Newton = 아이작 뉴턴
+  James = 야고보
+  James Gregory = 제임스 그레고리
+  Leibniz = 라이프니츠
+  Newton = 뉴턴
+  Theorem = 정리
+  antiderivative = 역도함수
+  continuous function = 연속 함수
+  upper bound = 상계
+ENTRY:
+Theorem linking differentiation and integration as inverse operations. The first part states that, for a [[Continuous function|continuous]] function f, an antiderivative of f can be obtained as the [[Integral|integral]] of f over an interval with a variable upper bound. The second part states that the integral of f over a fixed interval equals the change in any antiderivative between the ends of the interval, which avoids numerical integration when an antiderivative can be found. Historically, its importance lay in recognizing that calculating areas and calculating gradients are closely related. James Gregory published a rudimentary geometric form, Isaac Barrow proved a more general version, and [[Isaac Newton]] completed the surrounding theory. [[Gottfried Wilhelm Leibniz|Gottfried Leibniz]] systematized the work and introduced the notation used today.
+
+=== KEY: Fundamentalism_d4be43
+HEADWORD: Fundamentalism = 근본주의
+LEVEL: 4
+GLOSSARY:
+  Buddhism = 불교
+  Buddhist = 불교
+  Christianity = 기독교
+  Lanka = 랑카
+  Mahayana = 대승 불교
+  Modernism = 모더니즘
+  Modernist theology = 근대주의 신학
+  Myanmar = 미얀마
+  Sri Lanka = 스리랑카
+  Theravada = 상좌부 불교
+  Vajrayana = 금강승
+ENTRY:
+Unwavering attachment to a set of irreducible beliefs, usually in religion. The term describes a tendency in which scriptures, dogmas or ideologies are applied with a strict literal interpretation, with a strong distinction between ingroup and outgroup and a desire to return to a previous ideal. Scholars of religion regard it as a largely modern phenomenon that reacts against [[Modernism|modernism]], secularism and liberal tendencies; the label can be pejorative. In Christianity, supporters coined the term to describe five classic theological beliefs, in opposition to Modernist theology. [[Buddhism|Buddhist]] fundamentalists have targeted other religious and ethnic groups, as in [[Myanmar]] and [[Sri Lanka]], and examples occur in Theravada, Mahayana and Vajrayana traditions.
+
+=== KEY: Funeral_50b05c
+HEADWORD: Funeral = 장례
+LEVEL: 4
+GLOSSARY:
+  Afterlife = 내세
+  Burial = 매장
+  Cremation = 화장
+  Funeral = 장례
+  Homo = 사람속
+  Homo sapiens = 호모 사피엔스
+  Neanderthal = 네안데르탈인
+  Reincarnation = 윤회
+  Resurrection = 부활
+  mummification = 미라화
+  sky burial = 조장
+ENTRY:
+Ceremony connected with the final disposition of a corpse, such as [[Burial|burial]], entombment or [[Cremation|cremation]], with its attendant observances. Funerary customs, the beliefs and practices a culture uses to remember and respect the dead, vary between cultures and religious groups. The final disposition may destroy the body, as with cremation or sky burial, or preserve it, as with mummification. Common secular motives include mourning the deceased, celebrating their life and supporting the bereaved. Religious funerals may help the soul reach the [[Afterlife|afterlife]], [[Resurrection|resurrection]] or [[Reincarnation|reincarnation]]. A memorial service or celebration of life is held without the remains. Funeral rites date to at least 300,000 years ago, before modern *Homo sapiens*, and [[Neanderthal]] graves containing flower pollen have been found, though the evidence is not unequivocal.
+
+=== KEY: Fungal_infection_b0e9d3
+HEADWORD: Fungal infection = 진균 감염증
+LEVEL: 4
+GLOSSARY:
+  AIDS = 에이즈
+  Candida = 칸디다
+  Candida albicans = 칸디다 알비칸스
+  Disease = 질병
+  HIV/AIDS = HIV/AIDS
+  Immune system = 면역계
+  Infection = 감염
+  Spore = 포자
+  Yeast = 효모
+  aspergillosis = 아스페르길루스증
+  candidiasis = 칸디다증
+  cryptococcosis = 크립토코쿠스증
+  mycosis = 진균증
+ENTRY:
+[[Disease]] caused by fungi, also known as mycosis. Infections are traditionally divided into superficial, subcutaneous and systemic types, and the systemic ones, such as cryptococcosis and aspergillosis, are the most serious. Infection follows when [[Spore|spores]] are inhaled, touch the skin or enter through a cut, wound or injection. It is more likely in people with a weak [[Immune system|immune system]], such as those with [[HIV/AIDS]] or those taking steroids or cancer treatments. The [[Yeast|yeast]] *Candida albicans* can live in people without symptoms, but it can also cause severe systemic candidiasis. Diagnosis relies on signs, microscopy, culture and sometimes biopsy, and treatment usually uses antifungal creams or oral and injected medicines. Fungal infections affect more than one billion people every year, and an estimated 1.7 million deaths from fungal disease were reported in 2020.
+
+=== KEY: Fungus_7367b2
+HEADWORD: Fungus = 균류
+LEVEL: 3
+GLOSSARY:
+  Carl Linnaeus = 칼 폰 린네
+  Chitin = 키틴
+  Christiaan Hendrik Persoon = 크리스티안 헨드릭 페르순
+  Elias Magnus Fries = 엘리아스 망누스 프리스
+  Fungi = 균계
+  Hypha = 균사
+  Linnaeus = 린네
+  Magnus = 마그누스
+  Mycology = 균학
+  Photosynthesis = 광합성
+  Spore = 포자
+  chytrids = 항아리곰팡이
+  eukaryotic = 진핵
+  heterotrophs = 종속영양생물
+  leavening agent = 팽창제
+  molds = 곰팡이
+  mycelium = 균사체
+  mycorrhizal = 균근
+  mycotoxins = 진균 독소
+  phyla = 문
+  rice blast = 도열병
+  subkingdom = 아계
+  subphyla = 아문
+  truffles = 송로버섯
+ENTRY:
+Member of a group of eukaryotic organisms, including yeasts, molds, and mushrooms, classified in the biological kingdom Fungi. Fungi differ from plants, bacteria, and some protists in having [[Chitin|chitin]] in their cell walls. Like animals, they are heterotrophs, absorbing dissolved organic molecules, typically by secreting digestive enzymes into their environment. They do not perform [[Photosynthesis|photosynthesis]]. The study of fungi is called [[Mycology|mycology]]; once regarded as a branch of botany, it is now known that fungi are genetically more closely related to animals than to plants.
+
+The vegetative body of most fungi is a network of threads called [[Hypha|hyphae]], which together form the mycelium. Fungi reproduce both asexually and sexually, with [[Spore|spores]] as the main dispersal units. Most are inconspicuous, becoming noticeable when they fruit as mushrooms or molds. They are the principal decomposers in ecological systems and have fundamental roles in nutrient cycling. Most plants depend on mycorrhizal symbiosis with fungi.
+
+Fungi have long served as food, as in mushrooms and truffles, as a leavening agent for bread, and in the fermentation of wine, beer, and soy sauce. Since the 1940s they have been used to produce antibiotics, and fungal enzymes are used industrially. Some species produce mycotoxins, and crop losses to fungal disease, such as rice blast, affect food supplies. Over 8,000 species are known to be detrimental to plants and at least 300 can be pathogenic to humans.
+
+The kingdom ranges from unicellular aquatic chytrids to large mushrooms, and its diversity is estimated at 2.2 million to 3.8 million species, of which only a small fraction have been described. Classification based on morphology, begun by Carl Linnaeus, Christiaan Hendrik Persoon, and Elias Magnus Fries, has been reshaped by DNA analysis. The kingdom is divided into one subkingdom, seven phyla, and ten subphyla.
+
+=== KEY: Funj_Sultanate_894326
+HEADWORD: Funj Sultanate = 푼지 술탄국
+LEVEL: 4
+GLOSSARY:
+  Alodia = 알로디아
+  Amara Dunqas = 아마라 둔카스
+  Bedouin = 베두인
+  Beja = 베자족
+  Blue Nile = 청나일강
+  Eritrea = 에리트레아
+  Ethiopia = 에티오피아
+  Ethiopian Highlands = 에티오피아 고원
+  Funj people = 푼지족
+  Hamaj = 하마즈족
+  Highlands = 하일랜드
+  Islam = 이슬람교
+  Makuria = 마쿠리아
+  Nile = 나일강
+  Nubia = 누비아
+  Nubian = 누비아
+  Nubians = 누비아인
+  Red Sea = 홍해
+  Sennar = 센나르
+  Sudan = 수단
+  Sufi = 수피
+  Sultan = 술탄
+  Third = 교향곡 제3번
+  Third Cataract = 제3폭포
+  Turco-Egyptian conquest = 튀르크-이집트의 수단 정복
+ENTRY:
+Islamic kingdom in what is now [[Sudan]], northwestern Eritrea and western Ethiopia (1504–1821). It was founded by Sultan Amara Dunqas, a convert to Islam who built its capital, Sennar, on the [[Blue Nile]] and succeeded the medieval [[Nubia|Nubian]] kingdoms of Makuria and Alodia. The Funj people, an Arabized people of unclear ethnic origin, ruled a diverse population including Nubians, Beja, Bedouin and Hamaj. The sultanate reached its peak in the late 17th century, extending from the Third Cataract to the western fringes of the [[Ethiopian Highlands]] and east to the [[Red Sea]]. It encouraged Islam by inviting Sufi holy men. After the Hamaj seized power in a coup in 1762, the sultanate declined and broke up in civil wars. In 1821 the last sultan was forced to surrender to the Turco-Egyptian conquest.
+
+=== KEY: Funk_028b28
+HEADWORD: Funk = 펑크
+LEVEL: 4
+GLOSSARY:
+  African-American = 아프리카계 미국인
+  Blues = 블루스
+  Brown = 브라운
+  Earth = 지구
+  Electronic dance music = 일렉트로닉 댄스 뮤직
+  Family = 가족
+  Fire = 불
+  Funk = 펑크
+  G-funk = 지펑크
+  Gang = 갱단
+  Hip-hop = 힙합
+  James = 야고보
+  James Brown = 제임스 브라운
+  Jazz = 재즈
+  Kool and the Gang = 쿨 앤드 더 갱
+  Music = 음악
+  Parliament-Funkadelic = 팔리아먼트-펑카델릭
+  Sly and the Family Stone = 슬라이 앤드 더 패밀리 스톤
+  Washington = 워싱턴주
+  Wind = 바람
+  boogie = 부기
+  breakbeats = 브레이크비트
+  electronic dance music = 일렉트로닉 댄스 뮤직
+  funk metal = 펑크 메탈
+  go-go = 고고
+ENTRY:
+Music genre that originated in African-American communities in the mid-1960s. It deemphasizes melody and chord progressions in favor of a strong rhythmic groove built on a bassline and a drum part, often at slower tempos than other popular music. Early funk, mainly through [[James Brown]], fused [[Jazz|jazz]] and [[Blues|blues]] and added a syncopated drum groove, emphasizing the first beat of each measure. In the late 1960s, Sly and the Family Stone and Parliament-Funkadelic broadened the genre, and groups such as Kool and the Gang and Earth, Wind & Fire developed it in the 1970s and 1980s. Funk derivatives include boogie, funk metal and G-funk, and Washington go-go is a funk subgenre. Funk samples and breakbeats have been used extensively in [[Hip-hop]] and [[Electronic dance music|electronic dance music]].
+
+=== KEY: Fur_1409fd
+HEADWORD: Fur = 털
+LEVEL: 4
+GLOSSARY:
+  Arctic = 북극
+  Arctic fox = 북극여우
+  Camouflage = 위장
+  Desert = 사막
+  Mammal = 포유류
+  Mammals = 포유류
+  Muskox = 사향소
+  Naked mole-rat = 벌거숭이두더지쥐
+  Stoat = 북방족제비
+  Thermoregulation = 체온 조절
+  guard hairs = 겉털
+  underfur = 속털
+ENTRY:
+Soft, thick growth of hair covering the skin of almost all [[Mammal|mammals]]. It consists of oily guard hairs on top and a thick underfur beneath: the guard hairs keep moisture from the skin, and the underfur insulates. [[Thermoregulation]] is its primary purpose, but fur also gives protection, sensing, waterproofing and [[Camouflage|camouflage]]. Arctic mammals have dense fur; the dense underfur of the [[Muskox]] forms an airtight coat that allows survival at −40 °C (−40 °F). Desert camels use dense fur to keep solar heat off the skin, while aquatic mammals trap air in their fur to keep the skin dry. Seasonal color change in arctic animals such as the [[Arctic fox]] and [[Stoat]] is driven largely by camouflage. Mammals with reduced fur are called naked, as with the [[Naked mole-rat]].
+
+=== KEY: Fur_trade_f1921a
+HEADWORD: Fur trade = 모피 무역
+LEVEL: 4
+GLOSSARY:
+  Americas = 아메리카
+  Europe = 유럽
+  Felt = 펠트
+  Fur = 모피
+  North America = 북아메리카
+  Russia = 러시아
+  Sandwich = 샌드위치
+  Shetland = 셰틀랜드 제도
+  Siberia = 시베리아
+  South Sandwich Islands = 사우스샌드위치 제도
+  South Shetland = 사우스셰틀랜드 제도
+  Today = 「투데이」
+  Western Europe = 서유럽
+  early modern = 근세
+  early modern period = 근세
+  period = 주기
+ENTRY:
+Worldwide industry dealing in the acquisition and sale of animal [[Fur]]. Since a world fur market formed in the early modern period, the pelts of boreal, polar and cold temperate mammals have been most valued. The trade stimulated the exploration and colonization of [[Siberia]], northern North America, and the South Shetland and South Sandwich Islands. Russia was a major supplier of pelts to Western Europe before the colonization of the Americas, and from the 17th century until the late 19th century it was the world's largest supplier of fur. North America became a major supplier of beaver pelts for the [[Felt|felt]] hats of Europe in the 17th century. Today the trade is based on fur-farm pelts and regulated trapping, and it is controversial, with animal rights organizations opposing it.
+
+=== KEY: Furniture_bb3a8b
+HEADWORD: Furniture = 가구
+LEVEL: 3
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Ancient Greece = 고대 그리스
+  Ancient Rome = 고대 로마
+  Baroque = 바로크
+  Egypt = 이집트
+  French = 프랑스어
+  Furniture = 가구
+  German = 독일어
+  Greece = 그리스
+  Italian Renaissance = 이탈리아 르네상스
+  Latin = 라틴어
+  Middle Ages = 중세
+  Modernism = 모더니즘
+  Neolithic = 신석기 시대
+  Orkney = 오크니 제도
+  People = 『피플』
+  Renaissance = 르네상스
+  Romance = 로망스어
+  Romance languages = 로망스어군
+  Rome = 로마
+  Scotland = 스코틀랜드
+  Skara Brae = 스카라 브레이
+  Turkey = 튀르키예
+  decorative art = 장식 미술
+  fourniture = fourniture
+  joinery = 짜맞춤
+  klinai = 클리나이
+  meubles = meubles
+  mobilia = mobilia
+  period = 주기
+  Çatalhöyük = 차탈회위크
+ENTRY:
+Objects intended to support human activities such as seating, eating, storing items, working, and sleeping. Stools, chairs, sofas, tables, desks, beds, cupboards, shelves, and drawers are all furniture. It can be made from many materials, including metal, plastic, and wood, using woodworking joints that often reflect local culture. Furniture can be a product of design and a form of decorative art, and it may serve a symbolic or religious purpose. The English word derives from French *fourniture*, from *fournir*, "to supply"; French and other Romance languages and German instead use variants of *meubles*, from Latin *mobilia*, "moveable goods".
+
+People have used tree stumps, rocks, and moss as furniture since the beginning of human civilization. From around 30,000 years ago, people began to construct and carve furniture from wood, stone, and animal bones. A seated figure from [[Çatalhöyük]] in Turkey dates to between 6000 and 5500 BC. The houses of Skara Brae, a Neolithic village in Orkney, Scotland, dated 3100 to 2500 BC, contain the earliest surviving furniture: cupboards, dressers, beds, shelves, and seats built of stone because wood was scarce.
+
+Complex construction techniques such as joinery began in the early dynastic period of [[Ancient Egypt]], which saw wooden stools and tables sometimes decorated with valuable metals or ivory. In [[Ancient Greece]] and [[Ancient Rome]], thrones were commonplace, as were the *klinai*, multipurpose couches for relaxing, eating, and sleeping.
+
+Furniture of the [[Middle Ages]] was usually heavy, oak, and ornamented. Design expanded during the Italian [[Renaissance]] of the 14th and 15th centuries, and the 17th century was marked by opulent, often gilded [[Baroque]] designs. The 19th century is usually defined by revival styles, and the first three quarters of the 20th century are often seen as a march toward [[Modernism]].
+
+=== KEY: Furry_fandom_63ee18
+HEADWORD: Furry fandom = 퍼리 팬덤
+LEVEL: 5
+GLOSSARY:
+  DeviantArt = 디비언트아트
+  Science fiction = 과학 소설
+  Stigma = 낙인
+  Subculture = 하위문화
+  fursonas = 퍼소나
+  fursuits = 퍼슈트
+  science fiction = 과학 소설
+ENTRY:
+Subculture defined by an interest in anthropomorphic animal characters. Members, called furries, often identify with personalized characters called fursonas and may wear fursuits at conventions. Socializing grew through the internet, including [[DeviantArt]]. The first furry conventions began in the 1970s, started by artists and fans at [[Science fiction|science fiction]] conventions. Stigma has led some members to hide their furry identity from family and coworkers.
+
+=== KEY: Fuse_electrical_519c3b
+HEADWORD: Fuse = 퓨즈
+LEVEL: 4
+GLOSSARY:
+  Circuit breaker = 차단기
+  Edison = 에디슨
+  Sand = 모래
+  Thomas Edison = 토머스 에디슨
+  electrical engineering = 전기공학
+ENTRY:
+Electrical safety device that provides overcurrent protection to a circuit. A fuse contains a metal wire or strip that melts when too much current flows through it, interrupting the current. It is a sacrificial device: once it has operated, it is an open circuit and must be replaced. A fuse can mitigate short circuits, overloads, mismatched loads and device failure, and wiring regulations usually set a maximum fuse rating for a circuit. The element is made of zinc, copper, silver, aluminum or alloys and may be surrounded by [[Sand|silica sand]] to quench the arc. Fuses were used from the early days of electrical engineering, and [[Thomas Edison|Edison]] patented one in 1890. [[Circuit breaker|Circuit breakers]] have replaced fuses in many contexts, but fuses remain where space, resiliency or cost matter.
+
+=== KEY: Fusion_power_a9720c
+HEADWORD: Fusion power = 핵융합 발전
+LEVEL: 5
+GLOSSARY:
+  Deuterium = 중수소
+  Earth = 지구
+  Electricity = 전기
+  Electricity generation = 발전
+  Fusion = 퓨전
+  Half-life = 반감기
+  Magnetic confinement = 자기 가둠
+  Magnetic field = 자기장
+  National Ignition Facility = 국립 점화 시설
+  Nuclear fusion = 핵융합
+  Plasma (physics) = 플라스마
+  Research = 연구
+  Tritium = 삼중수소
+  United States = 미국
+  fusion energy = 핵융합 에너지
+  fusion energy gain factor = 핵융합 에너지 이득 인자
+  inertial confinement = 관성 가둠
+  nuclear fusion = 핵융합
+  radioactive waste = 방사성 폐기물
+ENTRY:
+Electricity generation from heat released by [[Nuclear fusion|nuclear fusion]] reactions. Research on fusion reactors began in the 1940s. As of 2025, only the National Ignition Facility in the United States has demonstrated a fusion energy gain factor above one. Experimental reactors burn [[Deuterium|deuterium]] and [[Tritium|tritium]], and tritium is scarce on Earth, decaying with a [[Half-life|half-life]] of about 12.3 years. Magnetic confinement uses [[Magnetic field|magnetic fields]] to hold [[Plasma (physics)|plasma]], while inertial confinement compresses fuel pellets with lasers. Fusion produces minimal high-level radioactive waste.
+
+=== KEY: Futurama_07964e
+HEADWORD: Futurama = 퓨처라마
+LEVEL: 5
+GLOSSARY:
+  Annie = 「애니」
+  Annie Awards = 애니상
+  Bender = 벤더
+  Comedy Central = 코미디 센트럴
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  Fox Broadcasting Company = 폭스 방송
+  Hulu = 훌루
+  Leela = 릴라
+  Matt Groening = 맷 그레이닝
+  Philip J. Fry = 필립 J. 프라이
+  Planet = 행성
+  Planet Express = 플래닛 익스프레스
+  Robot = 로봇
+  Sitcom = 시트콤
+  science fiction = 과학 소설
+ENTRY:
+American animated science fiction [[Sitcom|sitcom]] created by [[Matt Groening]] for [[Fox Broadcasting Company|Fox]]. It follows Philip J. Fry, who is cryogenically preserved for 1,000 years and revived on December 31, 2999, and works at the Planet Express delivery company alongside Leela and the [[Robot|robot]] Bender. After Fox canceled the series, it was revived by Comedy Central and later by Hulu. It received critical acclaim, winning nine Annie Awards and six Emmy Awards.
+
+=== KEY: Future_adff85
+HEADWORD: Future = 미래
+LEVEL: 4
+GLOSSARY:
+  Future = 미래
+  Karma = 업
+  Predeterminism = 예정론
+  Presentism = 현재주의
+  Time = 『타임』
+  Time dilation = 시간 지연
+  Wormhole = 웜홀
+  eschatology = 종말론
+  eternalism = 영원주의
+  frame of reference = 좌표계
+  futurology = 미래학
+  light cone = 광원뿔
+  special relativity = 특수 상대성 이론
+ENTRY:
+[[Time]] after the past and the present. In special relativity, the future is the absolute future, or future light cone, and the flow of time depends on the observer's frame of reference. Presentism holds that only the present exists, so the future is unreal, while eternalism holds that past and future things exist eternally. Predeterminism holds that the past, present and future have already been decided. Religions consider the future in discussions of [[Karma]], life after death and eschatology. Future studies, or futurology, postulates possible futures, stressing plural futures rather than one monolithic future. [[Time dilation]] from special relativity would let fast-moving travelers advance into the future, and some physicists propose a [[Wormhole|wormhole]] as a time machine.
+
+=== KEY: Future_of_Earth_95291c
+HEADWORD: Future of Earth = 지구의 미래
+LEVEL: 5
+GLOSSARY:
+  C3 photosynthesis = C₃ 광합성
+  Earth = 지구
+  Human = 인간
+  Plate tectonics = 판 구조론
+  Red giant = 적색 거성
+  Sun = 태양
+  Supercontinent = 초대륙
+  The Sun = 『더 선』
+  climate engineering = 기후 공학
+ENTRY:
+Projected long-term future of [[Earth]]. Plate tectonics is expected to form a [[Supercontinent]] in 250–350 million years. In about 600 million years, carbon dioxide levels will fall below those needed for trees' C3 photosynthesis. In about one billion years, the Sun's luminosity will be 10% higher, causing runaway evaporation of the oceans. The Sun is expected to become a [[Red giant]] in about 7.6 billion years, and Earth may be engulfed by it. Human technology, such as climate engineering, is an uncertain factor.
+
+=== KEY: Futurism_e4088d
+HEADWORD: Futurism = 미래주의
+LEVEL: 4
+GLOSSARY:
+  Art Deco = 아르 데코
+  Car = 자동차
+  Carlo Carrà = 카를로 카라
+  Constructivism = 구성주의
+  Dada = 다다이즘
+  Filippo Tommaso Marinetti = 필리포 톰마소 마리네티
+  Futurism = 미래주의
+  Giacomo Balla = 자코모 발라
+  Italy = 이탈리아
+  Luigi = 루이지
+  Luigi Russolo = 루이지 루솔로
+  Manifesto of Futurism = 「미래주의 선언」
+  Russian = 러시아어
+  Russian Empire = 러시아 제국
+  Speed = 속도
+  Surrealism = 초현실주의
+  Technology = 기술
+  Umberto Boccioni = 움베르토 보초니
+  Violence = 폭력
+ENTRY:
+Artistic and social movement that originated in Italy in the early 20th century. It emphasized dynamism, [[Speed|speed]], [[Technology|technology]], youth and [[Violence|violence]], and objects such as the [[Car|car]], the airplane and the industrial city. Its key figures included Filippo Tommaso Marinetti, Umberto Boccioni, Carlo Carrà, Giacomo Balla and Luigi Russolo. Marinetti's Manifesto of Futurism, published in 1909, launched the movement, and Futurists worked in painting, sculpture, architecture, music, theater and cuisine. Futurism influenced [[Art Deco]], Constructivism, [[Surrealism]] and [[Dada]], and its artists rejected museums and the cult of the past. Parallel movements arose in the Russian Empire.
+
+=== KEY: Fuzhou_40f0d8
+HEADWORD: Fuzhou = 푸저우
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  City = 도시
+  Emperor Duanzong = 단종
+  Fu'an Prefecture = 푸안부
+  Fujian = 푸젠성
+  Fujian Normal University = 푸젠 사범 대학
+  Fuzhou = 푸저우
+  Fuzhou University = 푸저우 대학
+  Min River = 민강
+  Mount Fu = 푸산
+  Nature = 『네이처』
+  Nature Index = 네이처 인덱스
+  Ningde = 닝더
+  River = 강
+  University = 대학
+ENTRY:
+City (pop., 2020: 8,291,268), capital of [[Fujian]] province, China, lying between the Min River estuary and the city of Ningde. In 2020, 72.49% of inhabitants lived in urban areas. Fuzhou is a major center of scientific research and appears among the global top 50 cities tracked by the Nature Index. It is home to Fuzhou University and other public universities, including Fujian Normal University. The name derives from Mount Fu, a mountain said to lie northwest of the city, combined with the suffix -zhou, meaning settlement. In 1276 the city was renamed Fu'an Prefecture and designated the temporary imperial capital when the young Emperor Duanzong ascended the throne there.
+
+=== KEY: Fuzuli_poet_1fb364
+HEADWORD: Fuzuli = 푸줄리
+LEVEL: 4
+GLOSSARY:
+  Aq Qoyunlu = 아크코윤루
+  Arabic = 아랍어
+  Ghazal = 가잘
+  Iraq = 이라크
+  Karbala = 카르발라
+  Leylī va Macnūn = 『레일리와 마즈눈』
+  Muhammad = 무함마드
+  Muhammad bin Suleyman = 무함마드 빈 술레이만
+  Mysticism = 신비주의
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Persian = 페르시아어
+  Safavid = 사파비 왕조
+  Safavid dynasty = 사파비 왕조
+  Shia = 시아파
+  Suleyman = 술레이만
+  Sunni = 수니파
+ENTRY:
+Azerbaijani poet, regarded as one of the greatest poets of Turkic literature. Born Muhammad bin Suleyman, he took the pen name Fuzuli and wrote in Azerbaijani, Persian and Arabic. He composed poetry for patrons of the [[Aq Qoyunlu]] and [[Safavid dynasty|Safavid]] states as well as the Ottoman Empire, and wrote most of his poetry during Ottoman rule of Iraq. His best-known work is the lyric poem *Leylī va Macnūn*, an interpretation of a Middle Eastern tale of tragic love. His [[Ghazal|ghazals]] are known for their intense expression of feeling and their [[Mysticism|mystic]] metaphors. He played a role in elevating Azerbaijani poetry and language, and his work has been characterized as a reconciliation of Azerbaijani, Persian and Arabic literary practices and of Shia and Sunni beliefs. He died of the plague and was buried in Karbala.
+
+=== KEY: Fyodor_Dostoevsky_ee6be1
+HEADWORD: Dostoevsky, Fyodor = 도스토옙스키, 표도르
+LEVEL: 4
+GLOSSARY:
+  A Writer's Diary = 『작가의 일기』
+  Albert Camus = 알베르 카뮈
+  Anton Chekhov = 안톤 체호프
+  Chekhov = 체호프
+  Circle = 원
+  Crime = 범죄
+  Crime and Punishment = 『죄와 벌』
+  Demons = 『악령』
+  Diary = 일기
+  Existentialism = 실존주의
+  Friedrich Nietzsche = 프리드리히 니체
+  Jean-Paul Sartre = 장폴 사르트르
+  Nietzsche = 니체
+  Notes from Underground = 『지하로부터의 수기』
+  Petrashevsky Circle = 페트라셰프스키 서클
+  Punishment = 형벌
+  Russia = 러시아
+  Russian = 러시아어
+  Sartre = 사르트르
+  Siberia = 시베리아
+  Siberian = 시베리아
+  The Brothers Karamazov = 『카라마조프가의 형제들』
+  The House = 하원
+  The House of the Dead = 『죽음의 집의 기록』
+  The Idiot = 『백치』
+  Underground = 『언더그라운드』
+ENTRY:
+Russian philosopher, novelist, short-story writer and journalist. His novels include *Crime and Punishment* (1866), *The Idiot* (1869), *Demons* (1872) and *The Brothers Karamazov* (1880). His *Notes from Underground* (1864) is considered one of the first works of [[Existentialism|existentialist]] literature. Arrested in 1849 for belonging to the Petrashevsky Circle, a group that discussed banned books critical of tsarist Russia, he was sentenced to death, but the sentence was commuted at the last moment. He then spent four years in a [[Siberia|Siberian]] labor camp, which inspired *The House of the Dead*. He later worked as a journalist and wrote *A Writer's Diary*. His books were translated into over 170 languages and influenced [[Anton Chekhov|Chekhov]], [[Albert Camus|Camus]] and [[Jean-Paul Sartre|Sartre]]. [[Friedrich Nietzsche|Nietzsche]] called him "the only psychologist from whom I had something to learn."
+
+=== KEY: G20_7b17c2
+HEADWORD: G20 = G20
+LEVEL: 4
+GLOSSARY:
+  African Union = 아프리카 연합
+  Climate change = 기후 변화
+  Cologne = 쾰른
+  European Union = 유럽 연합
+  G7 = G7
+  Head of government = 정부 수반
+  India = 인도
+  Sustainable development = 지속 가능한 발전
+  gross world product = 세계 총생산
+ENTRY:
+Intergovernmental forum of 19 countries, the European Union and the African Union. It addresses major issues of the global economy, including international financial stability, [[Climate change|climate change]] mitigation and [[Sustainable development|sustainable development]], through annual meetings of [[Head of government|heads of state and heads of government]]. Its 19 member states account for around 85% of gross world product, 75% of international trade and 56% of the global population. It was founded in 1999 in response to several world economic crises, after being foreshadowed at a June 1999 [[G7]] summit in Cologne. Since 2008 it has convened at least once a year, and in 2009 it declared itself the primary venue for international economic and financial cooperation. The African Union joined as the 21st member at the 2023 summit in India. Critics cite its limited membership, lack of enforcement powers and alleged undermining of existing international institutions.
+
+=== KEY: G7_bf9175
+HEADWORD: G7 = G7
+LEVEL: 5
+GLOSSARY:
+  Canada = 캐나다
+  Climate change = 기후 변화
+  European Union = 유럽 연합
+  France = 프랑스
+  Germany = 독일
+  Italy = 이탈리아
+  Japan = 일본
+  Russia = 러시아
+  Trade = 교역
+  United Kingdom = 영국
+  United States = 미국
+  advanced economies = 선진 경제
+ENTRY:
+Intergovernmental political and economic forum of seven major advanced economies: Canada, France, Germany, Italy, Japan, the United Kingdom and the United States. The [[European Union]] is a non-enumerated member. Originating from an ad hoc gathering of finance ministers in 1973, it became a formal venue for coordinating solutions to global issues such as [[Trade|trade]], security and [[Climate change|climate change]]. It has no treaty basis and no permanent secretariat. [[Russia]] was a member from 1997 until its expulsion in 2014. Observers criticize its membership as outdated and narrow.
+
+=== KEY: GHS_hazard_pictograms_5e2955
+HEADWORD: GHS hazard pictograms = GHS 그림문자
+LEVEL: 5
+GLOSSARY:
+  Carcinogen = 발암 물질
+  Standard = 스탠더드
+  United Nations = 국제 연합
+ENTRY:
+Standard warning symbols of the Globally Harmonized System of Classification and Labelling of Chemicals (GHS), a [[United Nations]] framework. Two sets exist: one for container labels and workplace warnings, and one for transporting dangerous goods. Both use the same symbols for the same hazards, though transport versions come in more colors and may carry extra information. Non-transport pictograms are black symbols on a white background within a red-bordered diamond. They cover physical, health and environmental hazards, from flammability to [[Carcinogen|carcinogenicity]].
+
+=== KEY: GIF_95a66b
+HEADWORD: GIF = GIF
+LEVEL: 5
+GLOSSARY:
+  Animation = 애니메이션
+  CompuServe = 컴퓨서브
+  MP4 = MP4
+  Once = 『Once』
+  PNG = PNG
+  RGB = RGB
+  World = 세계
+  World Wide Web = 월드 와이드 웹
+  image = 상
+ENTRY:
+Bitmap image format developed at CompuServe and released on June 15, 1987. It holds up to 256 colors chosen from a 24-bit RGB palette, which suits logos and solid-color graphics better than photographs. A file can hold several frames for [[Animation|animation]], and the data is compressed with the lossless Lempel–Ziv–Welch (LZW) method. The 1989 enhancement, version 89a, added animation delays and transparent backgrounds. Once common on the [[World Wide Web]], GIF declined in favor of [[PNG]] for still images and MP4 for video, though short video clips are still sometimes called GIFs.
+
+=== KEY: GRU_Russian_Federation_413c4d
+HEADWORD: GRU = 러시아 연방군 정보총국
+LEVEL: 5
+GLOSSARY:
+  Armed Forces = 혁명군
+  Chief of the General Staff = 참모총장
+  General Staff = 총참모부
+  General Staff of the Armed Forces = 러시아군 총참모부
+  Human intelligence = 인간 정보
+  Minister of Defence = 국방 장관
+  Napoleonic Wars = 나폴레옹 전쟁
+  Red Army = 붉은 군대
+  Russian = 러시아어
+  human intelligence = 인간 정보(휴민트)
+  special forces = 특수 부대
+ENTRY:
+Russian foreign military intelligence agency of the General Staff of the Armed Forces. Its director reports to the Minister of Defence and the Chief of the General Staff, not directly to the president as the heads of Russia's other intelligence services do. It is reputedly Russia's largest foreign intelligence agency and maintains its own special forces units. Its roots reach back to 1810, during the [[Napoleonic Wars]], and a 1918 Soviet order established its first predecessor, a military [[Human intelligence|human intelligence]] service of the [[Red Army]].
+
+=== KEY: G_H_Hardy_4fdfbf
+HEADWORD: Hardy, G. H. = 하디, G. H.
+LEVEL: 4
+GLOSSARY:
+  A Mathematician's Apology = 『어느 수학자의 변명』
+  Apology = 『변론』
+  Biology = 생물학
+  Cambridge = 케임브리지
+  Mathematical analysis = 해석학
+  Number theory = 수론
+  Paul = 바울로
+  Paul Erdős = 에르되시 팔
+  Srinivasa Ramanujan = 스리니바사 라마누잔
+  Trinity = 삼위일체
+  Trinity College = 트리니티 칼리지
+  mathematical analysis = 해석학
+  number theory = 수론
+  population genetics = 집단유전학
+ENTRY:
+English mathematician known for work in [[Number theory|number theory]] and [[Mathematical analysis|mathematical analysis]]. In [[Biology|biology]] he is known for the Hardy–Weinberg principle, a basic principle of population genetics. He was elected to a prize fellowship at Trinity College, [[Cambridge]], and later became a lecturer in mathematics there. Starting in 1914 he mentored [[Srinivasa Ramanujan|Ramanujan]], whose brilliance he recognized almost immediately, and the two became close collaborators. Asked by Paul Erdős what his greatest contribution to mathematics was, Hardy replied that it was the discovery of Ramanujan. His 1940 essay *A Mathematician's Apology*, written for the layperson, is often considered one of the best insights into the mind of a working mathematician.
+
+=== KEY: G_bekli_Tepe_533828
+HEADWORD: Göbekli Tepe = 괴베클리 테페
+LEVEL: 4
+GLOSSARY:
+  German = 독일어
+  Klaus Schmidt = 클라우스 슈미트
+  Megalith = 거석
+  Mesopotamia = 메소포타미아
+  Neolithic = 신석기 시대
+  Pre-Pottery Neolithic = 선토기 신석기 시대
+  Prehistoric religion = 선사 시대 종교
+  Turkey = 튀르키예
+  Turkish = 튀르키예어
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  Upper Mesopotamia = 상부 메소포타미아
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Neolithic archaeological site in modern-day [[Turkey]], in [[Mesopotamia|Upper Mesopotamia]]. Its name means Potbelly Hill in Turkish. The settlement was occupied from around 9500 BC to at least 8000 BC, during the Pre-Pottery Neolithic. Its large circular structures contain stone pillars, among the world's oldest known [[Megalith|megaliths]], many carved with animals and human figures. Their purpose is not definitively known, though the carvings offer insights into [[Prehistoric religion|prehistoric religion]]. Findings published in 2019 suggest a settlement with domestic structures and cereal processing, challenging an earlier view of the site as a sanctuary for nomads. Prehistorians disagree on whether farming led to settlement or the reverse, a debate in which the site plays a prominent role. German archaeologist Klaus Schmidt began excavations in 1995. The site was designated a [[UNESCO]] World Heritage Site in 2018, and around 10% had been excavated as of 2021.
+
+=== KEY: G_del_s_incompleteness_theorems_889ec3
+HEADWORD: Gödel's incompleteness theorems = 괴델의 불완전성 정리
+LEVEL: 4
+GLOSSARY:
+  David Hilbert = 다비트 힐베르트
+  Halting problem = 정지 문제
+  Hilbert's = 힐베르트의
+  Hilbert's program = 힐베르트 프로그램
+  Kurt = 쿠르트
+  Kurt Gödel = 쿠르트 괴델
+  Mathematical logic = 수리 논리학
+  axiomatic systems = 공리계
+  mathematical logic = 수리 논리학
+  natural numbers = 자연수
+ENTRY:
+Two theorems of [[Mathematical logic|mathematical logic]] on the limits of provability in formal axiomatic systems, published by [[Kurt Gödel]] in 1931. The first states that no consistent system of axioms whose theorems can be listed by an algorithm can prove all truths about the arithmetic of natural numbers; for any such system, some true statements are unprovable within it. The second shows that no such system can demonstrate its own consistency. The theorems are interpreted as showing that [[David Hilbert|Hilbert]]'s program to find a complete and consistent set of axioms for all of mathematics is impossible. Later results, including Turing's proof that no algorithm solves the [[Halting problem|halting problem]], extended these limitations. The theorems also shaped the philosophy of mathematics and computer science.
+
+=== KEY: G_kt_rks_e18e93
+HEADWORD: Göktürks = 돌궐
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Black = 검은색
+  Black Sea = 흑해
+  Blue Turks = 푸른 튀르크
+  Bumin Qaghan = 부민 카간
+  Celestial Turks = 하늘 튀르크
+  China = 중국
+  First Turkic Khaganate = 제1돌궐 제국
+  Göktürks = 돌궐
+  Inner Asia = 내륙 아시아
+  Manchuria = 만주
+  Old Turkic script = 고대 튀르크 문자
+  Orkhon inscriptions = 오르혼 비문
+  Rouran = 유연
+  Rouran Khaganate = 유연
+  Tang = 당나라
+  Tang China = 당나라
+  Tengri = 텡그리
+  Tengriism = 텡그리 신앙
+  Turkic peoples = 튀르크족
+  Turks = 튀르크인
+  Türks = 튀르크
+  Uyghurs = 위구르족
+ENTRY:
+[[Turkic peoples|Turkic]] people of medieval Inner Asia, also known as Türks, Celestial Turks or Blue Turks. Under Bumin Qaghan and his sons, they succeeded the Rouran Khaganate as the main power in the region and established the First Turkic Khaganate. By the late 6th century it stretched from Manchuria to the Black Sea. The Göktürks practiced [[Tengri|Tengriism]] and left the earliest extant Turkic writing, the Orkhon inscriptions, in the Old Turkic script. The khaganate split into eastern and western branches around 581 and collapsed in 745 after a [[Uyghurs|Uyghur]] revolt backed by [[China|Tang China]]. The origin of the name Turk is unknown.
+
+=== KEY: G_rard_Depardieu_f2686b
+HEADWORD: Depardieu, Gérard = 드파르디외, 제라르
+LEVEL: 5
+GLOSSARY:
+  Actor = 배우
+  Best Actor = 남우주연상
+  Best Actor award = 남우주연상
+  Cannes = 칸
+  Cannes Film Festival = 칸 영화제
+  Cyrano de Bergerac = 「시라노 드 베르주라크」
+  César Award = 세자르상
+  César Award for Best Actor = 세자르상 남우주연상
+  Festival = 축제
+  Film = 영화
+  France = 프랑스
+  French = 프랑스어
+  Russia = 러시아
+  Russian = 러시아어
+  The Last Metro = 「마지막 지하철」
+  Vladimir = 블라디미르
+  Vladimir Putin = 블라디미르 푸틴
+ENTRY:
+French actor and film producer, considered an icon of French cinema. He has appeared in over 200 films since 1967, mostly in leading roles, and won the César Award for Best Actor for *The Last Metro* (1980). He won the Best Actor award at the [[Cannes Film Festival]] for *Cyrano de Bergerac* (1990). He was granted [[Russia|Russian]] citizenship in 2013, and his support of [[Vladimir Putin]] caused controversy in France. He denied wrongdoing, but was charged with rape in December 2020 and convicted of sexual assault in a separate case in May 2025.
+
+=== KEY: G_spot_37b4d6
+HEADWORD: G-spot = G스폿
+LEVEL: 5
+GLOSSARY:
+  Clitoris = 음핵
+  Ernst Gräfenberg = 에른스트 그레펜베르크
+  Female ejaculation = 여성 사정
+  G-spot = G스폿
+  German = 독일어
+  Gräfenberg spot = 그레펜베르크 스폿
+  Orgasm = 오르가슴
+  erogenous = 성감대
+  female prostate = 여성 전립샘
+ENTRY:
+Hypothesized erogenous area of the front vaginal wall, also called the Gräfenberg spot after the German gynecologist Ernst Gräfenberg. It is typically reported 5–8 cm (2–3 in) up the wall, toward the urinary system, and may be part of the female prostate. Its existence as a distinct structure has not been proven, nor has the source of [[Female ejaculation|female ejaculation]]. Stimulation may lead to strong arousal and [[Orgasm|orgasm]]. The G-spot may be an extension of the [[Clitoris|clitoris]], which may be the actual cause of vaginal orgasms. Sexologists emphasize that not experiencing G-spot stimulation is normal.

@@ -1,0 +1,979 @@
+=== KEY: Naval_mine_6568f6
+HEADWORD: Naval mine = 기뢰
+LEVEL: 4
+GLOSSARY:
+  Explosive = 폭발물
+  Gunpowder = 화약
+  Minesweeping = 소해
+  Submarine = 잠수함
+  fuzes = 신관
+  high explosives = 고성능 폭약
+  minefield = 기뢰원
+  minesweeper = 소해함
+ENTRY:
+Self-contained [[Explosive|explosive]] weapon placed in water to damage or destroy surface ships or [[Submarine|submarines]]. Left in place, it waits to be triggered by the approach of, or contact with, a vessel. Mines can be used offensively to hamper shipping or defensively to protect friendly sea lanes and harbors. Modern mines use high explosives and complex electronic fuzes, whereas early mines relied on [[Gunpowder|gunpowder]] and physical ignition. Mines can be laid by aircraft, ships, submarines or individual swimmers. Producing and laying a mine usually costs between 0.5% and 10% of the cost of removing it, and clearing a minefield can take up to 200 times as long as laying one. Minesweeping is the practice of removing mines, usually with a specially designed minesweeper ship.
+
+=== KEY: Naval_warfare_12f023
+HEADWORD: Naval warfare = 해전
+LEVEL: 4
+GLOSSARY:
+  Combat = 『콩바』
+  Constantinople = 콘스탄티노폴리스
+  Navy = 해군
+  Nile = 나일강
+  Nile Delta = 나일강 삼각주
+  Ocean = 대양
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  Russia = 러시아
+  Sea Peoples = 바다 민족
+  Ukraine = 우크라이나
+  Vikings = 바이킹
+  blue-water = 블루 워터
+  brown-water = 브라운 워터
+  naval history = 해군사
+  ordnance = 화포
+  underwater archaeology = 수중 고고학
+ENTRY:
+Combat in and on the sea, ocean or another major body of water. The armed forces branch for naval warfare is a [[Navy|navy]], and operations range from riverine (brown-water) to open-ocean (blue-water) applications. Humankind has fought battles at sea for more than 3,000 years. The first recorded sea battle, c. 1175 BC, saw the Egyptians defeat the [[Sea Peoples]] near the Nile Delta. For most of naval history, combat revolved around boarding and anti-boarding until the late 16th century, when the focus shifted to heavy ordnance. Many sea battles have left shipwrecks that aid underwater archaeology, including warships in the [[Pacific Ocean]]. For three centuries, [[Vikings]] raided far into central Russia and Ukraine, and even to distant [[Constantinople]].
+
+=== KEY: Navier_Stokes_equations_612f6c
+HEADWORD: Navier–Stokes equations = 나비에-스토크스 방정식
+LEVEL: 4
+GLOSSARY:
+  Claude-Louis Navier = 클로드루이 나비에
+  Clay = 점토
+  Clay Mathematics Institute = 클레이 수학 연구소
+  Conservation of mass = 질량 보존 법칙
+  Euclidean = 유클리드
+  Euclidean space = 유클리드 공간
+  Euler = 오일러
+  Euler equations = 오일러 방정식
+  Gabriel = 가브리엘
+  George Gabriel Stokes = 조지 가브리엘 스토크스
+  Mathematics = 수학
+  Maxwell's equations = 맥스웰 방정식
+  Millennium = 『Millennium』
+  Millennium Prize Problems = 밀레니엄 문제
+  Momentum = 운동량
+  Newtonian fluids = 뉴턴 유체
+  OpenAI = 오픈AI
+  Poisson = 푸아송
+  Pollution = 오염
+  Siméon Denis Poisson = 시메옹 드니 푸아송
+  conservation of mass = 질량 보존
+  differential equations = 미분 방정식
+  inviscid flow = 비점성 흐름
+  magnetohydrodynamics = 자기 유체 역학
+  partial differential equations = 편미분 방정식
+  power station = 발전소
+  viscous fluids = 점성 유체
+ENTRY:
+System of partial differential equations describing the motion of viscous fluids. The equations are named after Claude-Louis Navier and George Gabriel Stokes, who developed them from 1822 (Navier) to 1842–1850 (Stokes); [[Siméon Denis Poisson]] independently reached the same results. They express [[Momentum|momentum]] balance for Newtonian fluids using the [[Conservation of mass|conservation of mass]], and generalize the Euler equations, which consider only inviscid flow. The equations model aircraft and car design, blood flow, power station design and [[Pollution|pollution]], and, coupled with [[Maxwell's equations]], form the basis of magnetohydrodynamics. The Navier–Stokes existence and smoothness problem asks whether solutions in three-dimensional [[Euclidean space]] remain smooth and bounded, or break down into unbounded ones. It is one of seven [[Millennium Prize Problems]], for which the Clay Mathematics Institute offered $1 million prizes in 2000. In September 2026 OpenAI announced a claimed counterexample; the claim, followed by a priority dispute, has yet to be independently verified.
+
+=== KEY: Navigation_846495
+HEADWORD: Navigation = 항법
+LEVEL: 3
+GLOSSARY:
+  Africa = 아프리카
+  Age of Discovery = 대항해 시대
+  Astrolabe = 아스트롤라베
+  Bartolomeu Dias = 바르톨로메우 디아스
+  BeiDou = 베이더우
+  Christopher Columbus = 크리스토퍼 콜럼버스
+  Compass = 나침반
+  Europe = 유럽
+  Ferdinand = 페르디난트
+  Ferdinand Magellan = 페르디난드 마젤란
+  GLONASS = 글로나스
+  Galileo = 갈릴레오
+  Global Positioning System = 위성 위치 확인 시스템
+  Han dynasty = 한나라
+  India = 인도
+  Indian Ocean = 인도양
+  Islamic world = 이슬람 세계
+  John = 존
+  John Davis = 존 데이비스
+  Juan Sebastián Elcano = 후안 세바스티안 엘카노
+  LORAN = 로란
+  Longitude = 경도
+  Mathematics = 수학
+  Ocean = 대양
+  Polynesian = 폴리네시아인
+  Polynesian navigation = 폴리네시아 항법
+  Song dynasty = 송나라
+  Vasco da Gama = 바스쿠 다가마
+  Western Europe = 서유럽
+  astrolabe = 아스트롤라베
+  backstaff = 백스태프
+  circumnavigation = 세계 일주
+  cross-staff = 크로스스태프
+  inertial navigation = 관성 항법
+  marine chronometer = 해상 크로노미터
+  radio ranges = 무선 표지
+  sextant = 육분의
+  spherical trigonometry = 구면 삼각법
+ENTRY:
+Field of study and practice concerned with determining position and with monitoring and controlling the movement of a craft or vehicle from one place to another. It has four general categories: land, marine, aeronautic, and space navigation. All techniques involve locating the navigator's position relative to known locations or patterns.
+
+Polynesian navigation, based on memory and observation of the stars, weather, wildlife, and wave size, is probably the earliest form of open-ocean navigation. Among the first instruments was the [[Compass|compass]], of Chinese origin from the Han dynasty; the Song dynasty adopted it for sea navigation in the 11th century, and its first recorded use in Western Europe and the Islamic world dates from around 1190. The oldest record of a sea [[Astrolabe|astrolabe]] is from 1295. The backstaff, invented by John Davis in 1595, overcame the errors of the cross-staff.
+
+Widespread open-sea navigation began in the [[Age of Discovery]] of the 15th century. The Portuguese explored the Atlantic coast of Africa from 1418, and Bartolomeu Dias reached the Indian Ocean in 1488. In 1492 the Spanish monarchs funded [[Christopher Columbus]]'s westward expedition, and in 1498 [[Vasco da Gama]] reached India by sailing around Africa. The first circumnavigation of the earth was completed in 1522 by the expedition led by [[Ferdinand Magellan]] and finished by Juan Sebastián Elcano.
+
+Mathematics, including logarithms and spherical trigonometry, allowed more accurate navigation from the 1700s. John Harrison's marine chronometer (1735) and the sextant (1757) helped solve the problem of [[Longitude|longitude]]. The 20th century brought radio ranges (1926), LORAN (1944), and inertial navigation (1950). The [[Global Positioning System]] reached full operational capability in 1995, and other satellite systems include Galileo, GLONASS, and BeiDou.
+
+=== KEY: Navy_13ad5a
+HEADWORD: Navy = 해군
+LEVEL: 4
+GLOSSARY:
+  Ancient Greece = 고대 그리스
+  Branch = 브랜치
+  Greece = 그리스
+  Naval warfare = 해전
+  Ocean = 대양
+  Piracy = 해적 행위
+  Roman Empire = 로마 제국
+  Song dynasty = 송나라
+  Submarine = 잠수함
+  amphibious warfare = 상륙전
+  blue-water = 블루 워터
+  brown-water = 브라운 워터
+  green-water = 그린 워터
+  nuclear deterrence = 핵 억지
+  submarine-launched ballistic missiles = 잠수함 발사 탄도 미사일
+  triremes = 삼단노선
+ENTRY:
+Branch of a state's armed forces designated for [[Naval warfare|naval]] and amphibious warfare. A navy conducts combat on lakes, rivers, coasts and [[Ocean|oceans]], using surface ships, amphibious ships, [[Submarine|submarines]] and seaborne aviation. Its offensive role is projecting force beyond a country's shores, for example to protect sea-lanes, confront [[Piracy|piracy]], ferry troops or attack other navies, ports and shore installations. Its defensive role is to frustrate such projection by enemies, and it may include nuclear deterrence through submarine-launched ballistic missiles. Before cannon were carried aboard ships, combat centered on ramming and boarding, as in [[Ancient Greece]] and the [[Roman Empire]], where oared vessels such as triremes were built to sink enemy ships. China's first official standing navy was established in the [[Song dynasty]] in the 12th century. Navies are often described as brown-water (riverine and littoral), blue-water (open-ocean) or green-water (in between), distinctions based more on strategic scope than on tactical division.
+
+=== KEY: Nayib_Bukele_70bc0a
+HEADWORD: Bukele, Nayib = 부켈레, 나이브
+LEVEL: 5
+GLOSSARY:
+  Bitcoin = 비트코인
+  Censorship = 검열
+  Control = 「Control」
+  El Salvador = 엘살바도르
+  Farabundo Martí National Liberation Front = 파라분도 마르티 민족해방전선
+  Nuevas Ideas = 누에바스 이데아스
+  Salvador = 사우바도르
+  Territorial Control Plan = 영토 통제 계획
+  legal tender = 법정 통화
+  self-coup = 친위 쿠데타
+ENTRY:
+Salvadoran politician, president of El Salvador since 2019. After being ousted from the Farabundo Martí National Liberation Front in 2017, he founded Nuevas Ideas and won the presidency with 53 percent of the vote. His Territorial Control Plan and a 2022 gang crackdown led to more than 85,000 arrests; homicides fell from 38 per 100,000 people in 2019 to 1.9 in 2024, a figure whose accuracy has been contested. He made [[Bitcoin|bitcoin]] legal tender in 2021. Critics describe [[Censorship|press censorship]] and a 2020 episode in which 40 soldiers entered the legislature, described by the opposition as a self-coup.
+
+=== KEY: Nazareth_6c6be7
+HEADWORD: Nazareth = 나사렛
+LEVEL: 5
+GLOSSARY:
+  Annunciation = 수태고지
+  Arabs = 아랍인
+  Christianity = 기독교
+  Church = 처치
+  Church of the Annunciation = 수태고지 교회
+  Crusades = 십자군
+  Galilee = 갈릴리
+  Israel = 이스라엘
+  Jesus = 예수
+  Middle East = 중동
+  Nazareth = 나사렛
+  New Testament = 신약성경
+  Northern District = 북부 지구
+  Principality of Galilee = 갈릴리 공국
+  Tancred = 탕크레드
+ENTRY:
+Largest city in the Northern District of [[Israel]] (pop., 2024: 75,704). Known as "the Arab capital of Israel", it is a cultural and religious center for Arab citizens. Its inhabitants are predominantly Arabs, of whom 69% are Muslim and 31% Christian. The New Testament describes Nazareth as the childhood home of [[Jesus]], and it has been a center of [[Christianity|Christian]] pilgrimage. The Church of the Annunciation, considered one of the largest Christian sites of worship in the Middle East, commemorates the Annunciation. The town became important during the [[Crusades]], when Tancred made it capital of the Principality of Galilee.
+
+=== KEY: Nazi_Germany_afcfff
+HEADWORD: Nazi Germany = 나치 독일
+LEVEL: 4
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Anschluss = 안슐루스
+  Austria = 오스트리아
+  Czechoslovakia = 체코슬로바키아
+  Europe = 유럽
+  German = 독일어
+  German Empire = 독일 제국
+  German Reich = 독일국
+  Germany = 독일
+  Greater German Reich = 대독일국
+  Hitler = 히틀러
+  Holocaust = 홀로코스트
+  Holy Roman Empire = 신성 로마 제국
+  Jews = 유대인
+  Nazi = 나치
+  Nazi Party = 나치당
+  Nazis = 나치
+  Party = 파티
+  Poland = 폴란드
+  Racism = 인종주의
+  Reich = 제국
+  Roman Empire = 로마 제국
+  Romani people = 로마니족
+  Slavs = 슬라브족
+  Soviet Union = 소련
+  Sudetenland = 주데텐란트
+  The Holocaust = 홀로코스트
+  Third = 교향곡 제3번
+  Third Reich = 제3제국
+  Thousand-Year Reich = 천년 제국
+  World = 세계
+  World War II = 제2차 세계 대전
+  antisemitism = 반유대주의
+  chancellor = 총리
+  deficit spending = 적자 재정
+  the Holocaust = 홀로코스트
+ENTRY:
+German state (1933–45) under [[Adolf Hitler]] and the [[Nazi Party]], officially the German Reich and later the Greater German Reich. The Nazis claimed succession to the Holy Roman Empire and German Empire and called their state the Third Reich, or Thousand-Year Reich, but it lasted 12 years. After Hitler became chancellor in 1933, the party eliminated opposition and centralized power in his person. Heavy military spending, public works and secret rearmament, financed by deficit spending, ended mass unemployment. Hitler's territorial demands included the [[Anschluss]] of Austria in 1938 and the seizure of the Sudetenland region of Czechoslovakia; the invasion of Poland in 1939 began [[World War II]] in Europe. Racism and antisemitism were central to the regime, which persecuted [[Jews]], Slavs and Romani people; its racial policies culminated in the [[The Holocaust|Holocaust]]. After invading the [[Soviet Union]] in 1941, Germany lost the initiative in 1943 and capitulated in May 1945.
+
+=== KEY: Nazi_Party_0c1226
+HEADWORD: Nazi Party = 나치당
+LEVEL: 5
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Freikorps = 자유군단
+  German = 독일어
+  German Workers' Party = 독일 노동자당
+  Great Depression = 대공황
+  Hindenburg = 힌덴부르크호
+  Hitler = 히틀러
+  Holocaust = 홀로코스트
+  Jews = 유대인
+  NSDAP = NSDAP
+  National Socialist German Workers' Party = 국가사회주의 독일 노동자당
+  Nazism = 나치즘
+  Party = 파티
+  Paul = 바울로
+  Paul von Hindenburg = 파울 폰 힌덴부르크
+  Slavs = 슬라브족
+  Socialist = 사회당
+  The Holocaust = 홀로코스트
+  Workers' Party = 노동자당
+  World = 세계
+  World War II = 제2차 세계 대전
+  chancellor = 총리
+  the Holocaust = 홀로코스트
+  totalitarian = 전체주의
+  totalitarian regime = 전체주의 체제
+ENTRY:
+Far-right German political party (1920–45) that created and supported [[Nazism]]. Officially the National Socialist German Workers' Party (NSDAP), it grew from the German Workers' Party (1919–20) and drew on Freikorps paramilitary culture. It had little popular support until the Great Depression. Under [[Adolf Hitler]], its leader from 1921, it sought to segregate and eventually exterminate [[Jews]], [[Slavs]] and others, a campaign that culminated in the [[The Holocaust|Holocaust]]. After President [[Paul von Hindenburg]] appointed Hitler chancellor on January 30, 1933, the party established a totalitarian regime. It was declared illegal after Germany's defeat in [[World War II]].
+
+=== KEY: Nazi_concentration_camps_a197e1
+HEADWORD: Nazi concentration camps = 나치 강제 수용소
+LEVEL: 4
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Europe = 유럽
+  Germany = 독일
+  Hitler = 히틀러
+  Jews = 유대인
+  Nazi = 나치
+  Nazi Germany = 나치 독일
+  SA = 돌격대
+  SS = 친위대
+  Schutzstaffel = 친위대
+  World = 세계
+  World War II = 제2차 세계 대전
+  chancellor = 총리
+  death marches = 죽음의 행진
+  extermination camps = 절멸 수용소
+  subcamps = 하위 수용소
+ENTRY:
+System of internment camps operated by [[Nazi Germany]] from 1933 to 1945. The first camps opened in March 1933, soon after [[Adolf Hitler]] became chancellor. After the 1934 purge of the SA, the [[Schutzstaffel|SS]] alone ran them. Early prisoners were mostly communists, but the camps later held "habitual criminals," "asocials" and [[Jews]], and from the start of World War II, people from German-occupied Europe. There were more than a thousand camps and subcamps, and from 1941 a separate system of extermination camps was dedicated to murder. About 1.65 million people were registered prisoners, and about a million died, most in the second half of the war. Liberation came in 1944 and 1945, but hundreds of thousands died on death marches. Many Germans approved of the camps while they operated, in part because Nazi propaganda depicted prisoners as dangerous criminals.
+
+=== KEY: Nazism_9715fb
+HEADWORD: Nazism = 나치즘
+LEVEL: 4
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Antisemitism = 반유대주의
+  Eugenics = 우생학
+  Fascism = 파시즘
+  Führerprinzip = 지도자 원리
+  Hitler = 히틀러
+  Holocaust = 홀로코스트
+  Lebensraum = 레벤스라움
+  Marxist = 마르크스주의
+  Mein Kampf = 『나의 투쟁』
+  National Socialism = 국가사회주의
+  Nazi = 나치
+  Nazi Party = 나치당
+  Nazism = 나치즘
+  Neo-Nazism = 신나치주의
+  Nordic-Aryans = 북방 아리아인
+  Party = 파티
+  Socialism = 사회주의
+  The Holocaust = 홀로코스트
+  World = 세계
+  World War II = 제2차 세계 대전
+  anti-communism = 반공주의
+  antisemitism = 반유대주의
+  class conflict = 계급 투쟁
+  liberal democracy = 자유 민주주의
+  master race = 지배 인종
+  neo-Nazis = 신나치
+  the Holocaust = 홀로코스트
+  totalitarian = 전체주의
+ENTRY:
+Far-right, ultranationalist and totalitarian ideology associated with [[Adolf Hitler]] and the Nazi Party, formally named National Socialism. It is a form of [[Fascism|fascism]] that emphasizes pseudo-scientific racial hierarchy, identifying ethnic Germans and Nordic-Aryans as a master race. Nazism opposes liberal democracy and advocates dictatorship, [[Antisemitism|antisemitism]], anti-communism and [[Eugenics|eugenics]]. It aimed to create a racially homogeneous society and to gain land for expansion under the doctrine of *Lebensraum*. It rejected Marxist class conflict and universal equality, and *Mein Kampf* outlined Hitler's antisemitism and his *Führerprinzip* (leader principle). During World War II, millions, including two-thirds of Europe's Jewish population, were exterminated in the [[The Holocaust|Holocaust]]. After Germany's defeat, Nazism became widely regarded as evil. Only fringe groups, usually called [[Neo-Nazism|neo-Nazis]], describe themselves as its followers, and use of Nazi symbols is illegal in many European countries.
+
+=== KEY: Ne_Win_d50776
+HEADWORD: Ne Win = 네윈
+LEVEL: 4
+GLOSSARY:
+  8888 Uprising = 8888 항쟁
+  Burma = 버마
+  Burma Socialist Programme Party = 버마 사회주의 계획당
+  Burmese Way to Socialism = 버마식 사회주의
+  China = 중국
+  Coup d'état = 쿠데타
+  Party = 파티
+  Restoration = 왕정복고
+  Socialism = 사회주의
+  Socialist = 사회당
+  State Law and Order Restoration Council = 국가법질서회복위원회
+  U Nu = 우누
+  coup d'état = 쿠데타
+  head of government = 정부 수반
+  house arrest = 가택 연금
+  non-aligned = 비동맹
+  one-party rule = 일당 통치
+  socialist state = 사회주의 국가
+ENTRY:
+Burmese general and politician who was military dictator of Burma from 1962 to 1988. Ne Win founded the Burma Socialist Programme Party and led the 1962 [[Coup d'état|coup d'état]] that overthrew the parliament of U Nu, establishing a one-party socialist state under the Burmese Way to Socialism. He served as head of government in 1958–60 and 1962–74, and as head of state from 1962 to 1981. His rule was marked by a non-aligned foreign policy, isolationism, one-party rule and economic stagnation. He resigned in July 1988 after the 8888 Uprising, and the military State Law and Order Restoration Council replaced his party. He was later placed under house arrest. Relations with [[China]], broken between 1967 and 1971 over Chinese support for insurgents and anti-Chinese riots, were restored in March 1971.
+
+=== KEY: Neanderthal_dd930d
+HEADWORD: Neanderthal = 네안데르탈인
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Brain = 뇌
+  Central Asia = 중앙아시아
+  Europe = 유럽
+  Fossil = 화석
+  Germany = 독일
+  Homo = 사람속
+  Homo neanderthalensis = 호모 네안데르탈렌시스
+  Iberian = 이베리아
+  Iberian Peninsula = 이베리아반도
+  Late Pleistocene = 후기 플라이스토세
+  Mousterian = 무스테리안
+  Neander Valley = 네안데르 계곡
+  Neanderthal = 네안데르탈인
+  Neanderthals = 네안데르탈인
+  Peninsula = 반도
+  Pleistocene = 플라이스토세
+  archaic humans = 고인류
+  early modern = 근세
+  early modern humans = 초기 현생 인류
+ENTRY:
+Extinct group of archaic humans, *Homo neanderthalensis*, of Europe and Western and Central Asia. Neanderthals lived there during the Middle to Late Pleistocene and died out in most of their range by about 40,000 years ago, perhaps as early modern humans arrived. They survived longer in parts of the [[Iberian Peninsula]]. The first recognized [[Fossil|fossil]] was found in 1856 in the Neander Valley, Germany. Males averaged about 165 cm (5 ft 5 in) and 75 kg (165 lb). Brain volume averaged 1,640 cc (100 cu in) in males and 1,460 cc (89 cu in) in females, higher than any living human population, although its organization differed in areas linked to cognition and language. A 2010 genome showed interbreeding with modern humans, and people of non-African descent carry small amounts of Neanderthal ancestry. Neanderthals made Mousterian stone tools, maintained fire, possibly wore blankets and ponchos, and buried their dead.
+
+=== KEY: Nebraska_20639b
+HEADWORD: Nebraska = 네브래스카주
+LEVEL: 5
+GLOSSARY:
+  American Civil War = 남북 전쟁
+  Civil War = 남북 전쟁
+  Great Plains = 그레이트플레인스
+  Homestead Acts = 홈스테드법
+  Indigenous = 원주민
+  Indigenous peoples = 원주민
+  Lakota = 라코타족
+  Lincoln = 링컨
+  Omaha = 오마하족
+  Pawnee = 포니족
+  Plains = 대평원
+  Thunderstorm = 뇌우
+  Tornado = 토네이도
+  Transcontinental Railroad = 대륙 횡단 철도
+  unicameral legislature = 단원제 의회
+ENTRY:
+Landlocked state in the [[Great Plains]] of the U.S. (pop., 2020: 1,961,504), capital Lincoln. Admitted in 1867, two years after the [[American Civil War]], it has a unicameral legislature whose members are elected without party labels. The west is treeless prairie with a semi-arid climate, while the east is humid. Violent [[Thunderstorm|thunderstorms]] and [[Tornado|tornadoes]] occur mainly in spring and summer. Indigenous peoples, including the Omaha, Pawnee and Lakota, lived in the region for thousands of years before European exploration. The Transcontinental Railroad and the Homestead Acts brought rapid settlement in the 1870s and 1880s, and agriculture remains central.
+
+=== KEY: Nebuchadnezzar_II_eda931
+HEADWORD: Nebuchadnezzar II = 네부카드네자르 2세
+LEVEL: 4
+GLOSSARY:
+  Assyrian Empire = 아시리아 제국
+  Babylon = 바빌론
+  Babylonian captivity = 바빌론 유수
+  Battle of Carchemish = 카르케미시 전투
+  Carchemish = 카르케미시
+  Esagila = 에사길라
+  Etemenanki = 에테메난키
+  Ishtar = 이슈타르
+  Ishtar Gate = 이슈타르 문
+  Jerusalem = 예루살렘
+  Judah = 유다
+  Kingdom of Judah = 유다 왕국
+  Levant = 레반트
+  Medo-Babylonian conquest of the Assyrian Empire = 메디아·바빌로니아의 아시리아 정복
+  Nebuchadnezzar = 네부카드네자르
+  Necho II = 네코 2세
+  Neo-Babylonian = 신바빌로니아
+  Neo-Babylonian Empire = 신바빌로니아 제국
+  Pharaoh = 파라오
+  Phoenicia = 페니키아
+  Phoenician = 페니키아
+  Second = 초
+  Tyre = 티레
+ENTRY:
+Second king of the Neo-Babylonian Empire, reigning 605–562 BC. Often called Nebuchadnezzar the Great, he was the longest-reigning king of his dynasty, ruling for 43 years. As a commander he led armies in the Medo-Babylonian conquest of the Assyrian Empire and, at the Battle of Carchemish in 605 BC, defeated an Egyptian army under Pharaoh Necho II. In the 580s BC he campaigned against rebellious vassals in the [[Levant]]. He besieged [[Jerusalem]] in 587 BC, destroying it and the Kingdom of Judah, and deported much of its population in the [[Babylonian captivity]]. He also captured the [[Phoenicia|Phoenician]] city of Tyre. As a builder he erected many of [[Babylon]]'s religious buildings, including the Esagila and Etemenanki, and renovated its processional street and the Ishtar Gate.
+
+=== KEY: Nebula_9de3de
+HEADWORD: Nebula = 성운
+LEVEL: 4
+GLOSSARY:
+  Andromeda = 안드로메다
+  Andromeda Galaxy = 안드로메다은하
+  Creation = 천지 창조
+  Eagle Nebula = 독수리 성운
+  Earth = 지구
+  Edwin Hubble = 에드윈 허블
+  Galaxy = 은하
+  Hubble = 허블
+  Hydrogen = 수소
+  Interstellar medium = 성간 물질
+  Latin = 라틴어
+  Orion = 오리온
+  Orion Nebula = 오리온성운
+  Pillars of Creation = 창조의 기둥
+  Star = 항성
+  cosmic dust = 우주 먼지
+  fluorescence = 형광
+  interstellar medium = 성간 매질
+ENTRY:
+Luminous part of the [[Interstellar medium|interstellar medium]], made of ionized, neutral or molecular [[Hydrogen|hydrogen]] and cosmic dust. The word is Latin for "cloud, fog". Nebulae are often star-forming regions, such as the Pillars of Creation in the [[Eagle Nebula]]. There, gas and dust clump into denser regions that collapse into [[Star|stars]], and the remaining material may form planets. Most are hundreds of light-years across and far less dense than a vacuum made on Earth, although the densest reach 10⁴ molecules per cubic centimeter. Many glow through fluorescence from embedded hot stars; others are visible only with long exposures. The [[Orion Nebula]] is the brightest nebula in the sky and can be seen with the naked eye. Originally the term covered any diffuse object, including the [[Andromeda Galaxy]], until [[Edwin Hubble]] and others confirmed the nature of galaxies in the early 20th century.
+
+=== KEY: Nebular_hypothesis_1ad5b0
+HEADWORD: Nebular hypothesis = 성운설
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Earth masses = 지구 질량
+  Giant = 거인
+  Giant planet = 거대 행성
+  Immanuel Kant = 이마누엘 칸트
+  Kant = 칸트
+  Molecular cloud = 분자운
+  Neptune = 해왕성
+  Pierre-Simon Laplace = 피에르시몽 라플라스
+  Solar System = 태양계
+  Sun = 태양
+  Uranus = 천왕성
+  cosmogony = 우주 기원론
+  frost line = 동결선
+  planetesimals = 미행성
+  protoplanetary disk = 원시 행성 원반
+  solar nebular disk model = 태양 성운 원반 모형
+  terrestrial planets = 지구형 행성
+ENTRY:
+Model of how the [[Solar System]] formed from gas and dust orbiting the Sun. It is the most widely accepted model in cosmogony, and proposes that the planets accreted from this material. [[Immanuel Kant]] published the theory in 1755, and [[Pierre-Simon Laplace]] modified it in 1796. The modern solar nebular disk model explains features such as the nearly circular, coplanar orbits of the planets. Stars form in giant [[Molecular cloud|molecular clouds]], and a protoplanetary disk typically forms around each young star. A Sun-like star takes about 1 million years to form, and its disk evolves into a planetary system over 10–100 million years. Dust grains coagulate into kilometer-sized planetesimals, which merge into terrestrial planets. [[Giant planet|Giant planets]] form beyond the frost line and accrete hydrogen–helium gas once they reach 5–10 Earth masses. [[Uranus]] and [[Neptune]] are thought to be failed cores that formed too late.
+
+=== KEY: Necrophilia_68339a
+HEADWORD: Necrophilia = 시체성애증
+LEVEL: 5
+GLOSSARY:
+  American Psychiatric Association = 미국 정신의학회
+  Animal = 동물
+  DSM-5-TR = DSM-5-TR
+  Davian behavior = 데이비언 행동
+  Other Specified Paraphilic Disorder = 달리 명시된 변태성욕장애
+  Paraphilia = 성도착증
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  paraphilia = 성도착증
+  thanatophilia = 사체애
+ENTRY:
+Paraphilia involving sexual attraction to, or acts with, corpses. Also called necrophilism and thanatophilia, it is classified as a paraphilia by the [[World Health Organization]] and the American Psychiatric Association. Motives vary, from sexual domination of a non-responsive partner to fetishization of death and bereavement of a sexual partner. The DSM-5-TR can diagnose recurrent, intense sexual interest in corpses as Other Specified Paraphilic Disorder when it causes marked distress or impairment. Animal necrophilia, or Davian behavior, is usually attributed to an inability to distinguish a receptive mate from a recently dead one.
+
+=== KEY: Need_for_Speed_06d6dc
+HEADWORD: Need for Speed = 니드 포 스피드
+LEVEL: 5
+GLOSSARY:
+  British Columbia = 브리티시컬럼비아주
+  Columbia = 컬럼비아
+  Distinctive Software = 디스팅티브 소프트웨어
+  Electronic Arts = 일렉트로닉 아츠
+  Hot Wheels = 핫 휠
+  Need for Speed = 니드 포 스피드
+  Need for Speed Unbound = 「니드 포 스피드 언바운드」
+  Software = 소프트웨어
+  The Need for Speed = 「더 니드 포 스피드」
+  Vancouver = 밴쿠버
+  arcade racers = 아케이드 레이싱 게임
+ENTRY:
+Racing video game franchise published by [[Electronic Arts]]. Most entries are arcade racers centered on illegal street racing and police pursuit, though some are simulations or focus on legal circuit races. The first title, *The Need for Speed*, appeared in 1994, and the most recent mainline title, *Need for Speed Unbound*, on December 2, 2022. The series was originally developed by Distinctive Software in [[Vancouver]], [[British Columbia]], before Electronic Arts bought the company in 1991. The franchise had sold over 150 million copies by October 2013 and has spawned a film and licensed Hot Wheels toys.
+
+=== KEY: Nefertiti_2fb4f1
+HEADWORD: Nefertiti = 네페르티티
+LEVEL: 4
+GLOSSARY:
+  18th Dynasty = 제18왕조
+  Akhenaten = 아케나텐
+  Ancient Egypt = 고대 이집트
+  Atenism = 아텐 신앙
+  Dynasty = 「다이너스티」
+  Egypt = 이집트
+  Museum = 박물관
+  Neferneferuaten = 네페르네페루아텐
+  Neues Museum = 신 박물관
+  Pharaoh = 파라오
+  Queen = 퀸
+  Thutmose = 투트모세
+  Tutankhamun = 투탕카멘
+  great royal wife = 왕의 정실
+  pharaoh = 파라오
+ENTRY:
+Queen of [[Ancient Egypt]], great royal wife of Pharaoh [[Akhenaten]] in the 18th Dynasty. With her husband she promoted Atenism, an exclusivist religion centered on the sun disc that may have been monotheistic, and their reign was arguably the wealthiest period of Egyptian history. After Akhenaten's death, some scholars believe she briefly ruled as the [[Pharaoh|pharaoh]] Neferneferuaten before [[Tutankhamun]] came to the throne, but this remains debated. Her painted bust, excavated in the early 20th century from the buried studio complex of the sculptor Thutmose, is in Berlin's Neues Museum. It is one of the most copied works of ancient Egyptian art.
+
+=== KEY: Negative_number_48cf1a
+HEADWORD: Negative number = 음수
+LEVEL: 4
+GLOSSARY:
+  Brahmagupta = 브라마굽타
+  Celsius = 섭씨
+  Debt = 부채
+  Diophantus = 디오판토스
+  Fahrenheit = 화씨
+  Han dynasty = 한나라
+  Leibniz = 라이프니츠
+  Nine Chapters on the Mathematical Art = 『구장산술』
+  Real number = 실수
+  minus sign = 빼기 기호
+  real numbers = 실수
+ENTRY:
+Real number that is less than zero, usually written with a minus sign. Negative numbers are the opposite of positive real numbers and represent losses, deficiencies and [[Debt|debts]], as well as temperatures below zero on the [[Celsius]] and [[Fahrenheit]] scales. The laws of arithmetic ensure that the opposite of an opposite returns the original value: −(−3) = 3. Every real number other than zero is either positive or negative, while zero has no sign. Negative numbers appear in the Nine Chapters on the Mathematical Art, which in its present form dates from the [[Han dynasty]] (202 BC–AD 220). By the 7th century, Indian mathematicians such as [[Brahmagupta]] described their use, and Islamic mathematicians developed the rules for subtracting and multiplying them. [[Diophantus]] considered negative solutions "false," and Western mathematicians such as Leibniz held that they were invalid but still used them.
+
+=== KEY: Negligence_9980e6
+HEADWORD: Negligence = 과실
+LEVEL: 4
+GLOSSARY:
+  Caparo Industries Plc v Dickman = 캐퍼로 인더스트리스 대 디크먼 사건
+  Contract = 계약
+  Damages = 손해
+  Donoghue v Stevenson = 도너휴 대 스티븐슨 사건
+  England = 잉글랜드
+  Lord Atkin = 앳킨 경
+  Tort = 불법 행위
+  defendant = 피고
+  duty of care = 주의 의무
+  foreseeability = 예견 가능성
+  ginger beer = 진저비어
+  plaintiff = 원고
+  privity = 계약 당사자 관계
+  proximity = 근접성
+  tort = 불법 행위
+ENTRY:
+Failure to exercise the care expected in similar circumstances. In [[Tort|tort]] law, negligence is harm caused by violating a duty of care through a negligent act or failure to act. A plaintiff must generally establish that the defendant owed a duty, breached it and caused harm, and that the plaintiff suffered [[Damages|damages]], though some jurisdictions recognize three elements and others five. Losses may include physical injury, property damage, psychiatric illness and economic loss. The modern law dates from *Donoghue v Stevenson* (1932), in which a woman who found a decomposed snail in a bottle of ginger beer sued the manufacturer, because privity barred a [[Contract|contractual]] claim. Lord Atkin defined a "neighbor" as a person so closely affected by one's acts that one should reasonably have them in contemplation. In England, *Caparo Industries Plc v Dickman* (1990) set a three-part test of foreseeability, proximity and what is fair, just and reasonable.
+
+=== KEY: Neighbourhood_3fe04b
+HEADWORD: Neighborhood = 동네
+LEVEL: 4
+GLOSSARY:
+  Community = 공동체
+  Democracy = 민주주의
+  Neighborhood sociology = 근린 사회학
+  social networks = 사회 연결망
+ENTRY:
+Geographically localized [[Community|community]] within a larger town, city, suburb or rural area, sometimes a single street and the buildings lining it. Neighborhoods are often social communities with considerable face-to-face interaction. Researchers lack an exact definition, but one describes a neighborhood as a specific geographic area and a set of social networks in which residents share values and maintain social control. Most ancient and historical cities had neighborhoods, which in some preindustrial traditions handled protection, upkeep and the regulation of births and marriages informally, as in Islamic cities. Ethnic, religious and economic groups often clustered in particular neighborhoods, and migrants tended to move in with relatives. Neighborhood sociology studies local life, and some scholars view the neighborhood as a small-scale [[Democracy|democracy]] regulated by reciprocity among neighbors.
+
+=== KEY: Neighbours_e9e9b7
+HEADWORD: Neighbours = 네이버스
+LEVEL: 5
+GLOSSARY:
+  Australia = 오스트레일리아
+  Australian = 오스트레일리아
+  BBC = BBC
+  BBC One = BBC 원
+  Erinsborough = 에린스버러
+  Melbourne = 멜버른
+  Network = 「네트워크」
+  Network Ten = 네트워크 텐
+  Ramsay = 램지
+  Ramsay Street = 램지 스트리트
+  Reg Watson = 레그 왓슨
+  Seven = 「세븐」
+  Seven Network = 세븐 네트워크
+  Soap opera = 연속극
+  United Kingdom = 영국
+  Watson = 왓슨
+  soap opera = 연속극
+ENTRY:
+[[Australia|Australian]] television [[Soap opera|soap opera]] (1985–2025). Created by Reg Watson, it is set in Erinsborough, a fictional suburb of [[Melbourne]], and centers on Ramsay Street. The Seven Network canceled it four months after it began in 1985, and Network Ten commissioned a second season. It became the longest-running drama series in Australian television history in 1997. It was sold to more than sixty countries and was especially popular in the United Kingdom, where it began on [[BBC]] One in 1986. It was revived in 2023 after a 2022 cancellation, and its final episode aired in December 2025.
+
+=== KEY: Neil_Armstrong_8a47a1
+HEADWORD: Armstrong, Neil = 암스트롱, 닐
+LEVEL: 4
+GLOSSARY:
+  Aircraft carrier = 항공모함
+  Apollo 11 = 아폴로 11호
+  Buzz Aldrin = 버즈 올드린
+  Challenger = 챌린저호
+  Challenger disaster = 챌린저호 폭발 사고
+  Cincinnati = 신시내티
+  Commission = 위원회
+  Gemini 8 = 제미니 8호
+  Korean War = 한국 전쟁
+  Moon = 달
+  NASA = 미국 항공 우주국
+  National Advisory Committee for Aeronautics = 국가항공자문위원회
+  North American X-15 = 노스아메리칸 X-15
+  Rogers = 로저스
+  Rogers Commission = 로저스 위원회
+  Space = 공간
+  Space Shuttle = 우주 왕복선
+  Space Shuttle Challenger disaster = 챌린저호 폭발 사고
+  University = 대학
+  University of Cincinnati = 신시내티 대학교
+  naval aviator = 해군 비행사
+ENTRY:
+American astronaut and aeronautical engineer, first person to walk on the Moon. As commander of [[Apollo 11]] in 1969, he and [[Buzz Aldrin]] landed on the Moon on July 20, 1969. Stepping onto the surface, Armstrong said, "That's one small step for [a] man, one giant leap for mankind," a broadcast seen live by an estimated 530 million viewers. He was a naval aviator in the [[Korean War]], flying from an [[Aircraft carrier|aircraft carrier]], and later a test pilot at the National Advisory Committee for Aeronautics, where he flew the North American X-15. In March 1966 he commanded Gemini 8, which made the first docking of two spacecraft before it was aborted to stabilize a dangerous roll. After leaving NASA in 1971 he taught at the University of Cincinnati until 1979 and served on the Rogers Commission investigating the [[Space Shuttle Challenger disaster]].
+
+=== KEY: Neil_Diamond_f9f7d1
+HEADWORD: Diamond, Neil = 다이아몬드, 닐
+LEVEL: 5
+GLOSSARY:
+  Adult = 성인
+  Adult Contemporary = 어덜트 컨템퍼러리
+  Billboard Hot 100 = 빌보드 핫 100
+  Cracklin' Rosie = 「Cracklin' Rosie」
+  Grammy = 그래미상
+  Grammy Lifetime Achievement Award = 그래미 평생 공로상
+  Jazz = 재즈
+  Lifetime Achievement Award = 평생공로상
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Song Sung Blue = 「Song Sung Blue」
+  Sweet Caroline = 「Sweet Caroline」
+  The Jazz Singer = 「재즈 싱어」
+  United States = 미국
+ENTRY:
+American singer-songwriter, one of the best-selling musicians in history. He has sold more than 56.5 million records in the United States alone. He wrote and recorded 10 singles that reached No. 1 on the U.S. Billboard Hot 100 and Adult Contemporary charts, including "Cracklin' Rosie" and "Song Sung Blue." 38 of his songs reached the Adult Contemporary top 10, including "Sweet Caroline." He starred in the 1980 musical drama *The Jazz Singer*. He was inducted into the [[Rock and Roll Hall of Fame]] in 2011 and received a Grammy Lifetime Achievement Award in 2018.
+
+=== KEY: Neil_Gaiman_7e65ad
+HEADWORD: Gaiman, Neil = 게이먼, 닐
+LEVEL: 5
+GLOSSARY:
+  Amanda Palmer = 어맨다 파머
+  American Gods = 『신들의 전쟁』
+  Book = 책
+  Carnegie medals = 카네기 메달
+  Coraline = 『코랄린』
+  Good Omens = 『멋진 징조들』
+  Human trafficking = 인신매매
+  Newbery = 뉴베리
+  Rape = 강간
+  The Graveyard Book = 『그레이브야드 북』
+  The Sandman = 『샌드맨』
+  human trafficking = 인신매매
+ENTRY:
+English author of short fiction, novels, comic books, audio theater and screenplays. His works include the comic series *The Sandman* (1989–1996) and the novels *Good Omens* (1990), *American Gods* (2001), *Coraline* (2002) and *The Graveyard Book* (2008). *The Graveyard Book* was the first work to win both the Newbery and Carnegie medals. Beginning in 2024, numerous women published sexual assault accusations against him, and one accuser sued him and his estranged wife Amanda Palmer for [[Rape|rape]] and [[Human trafficking|human trafficking]]. Gaiman has denied the allegations, and several adaptations of his work were affected or halted.
+
+=== KEY: Neil_Young_aee13a
+HEADWORD: Young, Neil = 영, 닐
+LEVEL: 5
+GLOSSARY:
+  Buffalo = 버펄로
+  Buffalo Springfield = 버펄로 스프링필드
+  Canadian = 캐나다
+  Crazy = 「Crazy」
+  Crazy Horse = 크레이지 호스
+  Farm = 농장
+  Farm Aid = 팜 에이드
+  Godfather = 대부
+  Godfather of Grunge = 그런지의 대부
+  Horse = 말
+  Los Angeles = 로스앤젤레스
+  Mirror Ball = 「Mirror Ball」
+  Pearl = 진주
+  Pearl Jam = 펄 잼
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Springfield = 스프링필드
+  Toronto = 토론토
+  Winnipeg = 위니펙
+  sustainable agriculture = 지속 가능한 농업
+ENTRY:
+Canadian and American singer-songwriter and musician. Born in [[Toronto]], he began his music career in [[Winnipeg]] in the 1960s and moved to Los Angeles in 1966 to form Buffalo Springfield. Known for distorted guitar playing with Crazy Horse, he earned the nickname "Godfather of Grunge" and recorded the 1995 album *Mirror Ball* with [[Pearl Jam]]. He was inducted into the [[Rock and Roll Hall of Fame]] in 1995 as a solo artist and in 1997 with Buffalo Springfield. He has advocated environmental causes and sustainable agriculture, and co-founded Farm Aid in 1985.
+
+=== KEY: Neil_deGrasse_Tyson_921212
+HEADWORD: Tyson, Neil deGrasse = 타이슨, 닐 디그래스
+LEVEL: 5
+GLOSSARY:
+  Academy of Sciences = 과학 아카데미
+  American Museum of Natural History = 미국 자연사 박물관
+  Astrophysics = 천체 물리학
+  Carl Sagan = 칼 세이건
+  City = 도시
+  Hayden Planetarium = 헤이든 천문관
+  History = 역사학
+  Museum = 박물관
+  NOVA ScienceNow = 「노바 사이언스나우」
+  National Academy of Sciences = 미국 국립 과학 아카데미
+  Natural History = 『박물지』
+  New York City = 뉴욕
+  Odyssey = 『오디세이아』
+  PBS = PBS
+  Public Welfare Medal = 공공복지 메달
+  Spacetime = 시공간
+  StarTalk = 「스타토크」
+  Voyage = 『Voyage』
+  York = 요크
+ENTRY:
+American astrophysicist, author and science communicator. Tyson has directed the Hayden Planetarium at the [[American Museum of Natural History]] in New York City since 1996, and founded the museum's Department of Astrophysics in 1997. Tyson hosted the television series *NOVA ScienceNow* on [[PBS]] from 2006 to 2011, and has hosted the weekly podcast *StarTalk* since 2009. In 2014 he hosted *Cosmos: A Spacetime Odyssey*, a successor to [[Carl Sagan]]'s 1980 series *Cosmos: A Personal Voyage*. The U.S. National Academy of Sciences gave him its Public Welfare Medal in 2015.
+
+=== KEY: Nellie_Bly_a6d3b4
+HEADWORD: Bly, Nellie = 블라이, 넬리
+LEVEL: 4
+GLOSSARY:
+  Divorce = 이혼
+  Elizabeth Jane Cochran = 엘리자베스 제인 코크런
+  Jane = 제인
+  Jules Verne = 쥘 베른
+  Mexico = 멕시코
+  Phileas Fogg = 필리어스 포그
+  Pittsburgh = 피츠버그
+  Pittsburgh Dispatch = 『피츠버그 디스패치』
+  Six Months in Mexico = 『멕시코에서의 6개월』
+  immersion journalism = 잠입 취재 저널리즘
+  stunt girl reporting = 스턴트 걸 저널리즘
+ENTRY:
+American investigative journalist, born Elizabeth Jane Cochran and known by the pen name Nellie Bly. Her 1885 articles for the *Pittsburgh Dispatch* argued for better jobs for women and for reform of [[Divorce|divorce]] laws. She went undercover as a poor woman to be hired at a copper cable factory, to see the working conditions of women and children firsthand. Abroad, she served as a foreign correspondent in Mexico for nearly half a year; her dispatches later appeared as *Six Months in Mexico*. She is best known for a record-breaking trip around the world in 72 days, made in emulation of [[Jules Verne]]'s fictional character Phileas Fogg, and for an undercover exposé of a mental institution. She ushered in the era of stunt girl reporting and helped advance immersion journalism.
+
+=== KEY: Nelson_Mandela_f256b9
+HEADWORD: Mandela, Nelson = 만델라, 넬슨
+LEVEL: 3
+GLOSSARY:
+  AIDS = 에이즈
+  ANC = ANC
+  Africa = 아프리카
+  African National Congress = 아프리카 민족회의
+  Apartheid = 아파르트헤이트
+  Commission = 위원회
+  F. W. de Klerk = F. W. 데클레르크
+  Fidel Castro = 피델 카스트로
+  HIV/AIDS = HIV/AIDS
+  Johannesburg = 요하네스버그
+  Life imprisonment = 무기 징역
+  Muammar Gaddafi = 무아마르 카다피
+  National Party = 국민당
+  Nobel Peace Prize = 노벨 평화상
+  Non-Aligned Movement = 비동맹 운동
+  Party = 파티
+  Peace = 평화
+  Rivonia Trial = 리보니아 재판
+  Robben Island = 로벤섬
+  Secretary-General = 사무총장
+  South Africa = 남아프리카 공화국
+  Thabo Mbeki = 타보 음베키
+  Thembu = 템부
+  Trial = 재판
+  Truth = 진리
+  Truth and Reconciliation Commission = 진실과 화해 위원회
+  Umkhonto we Sizwe = 움콘토 웨 시즈웨
+  Youth = 『청년 시절』
+  Youth League = 청년 연맹
+  apartheid = 아파르트헤이트
+  land reform = 토지 개혁
+  life imprisonment = 종신형
+  racial segregation = 인종 분리
+ENTRY:
+South African anti-apartheid revolutionary and politician, president of South Africa (1994–99), the country's first black head of state and the first elected in a fully representative democratic election.
+
+A Thembu royal family member, he worked as a lawyer in [[Johannesburg]]. He joined the [[African National Congress]] (ANC) in 1943 and co-founded its Youth League in 1944. After the National Party government established [[Apartheid|apartheid]], a system of racial segregation, he and the ANC committed themselves to its overthrow. Though initially committed to non-violent protest, in 1961 he co-founded the militant Umkhonto we Sizwe and led a sabotage campaign. Arrested in 1962, he was sentenced to [[Life imprisonment|life imprisonment]] in the Rivonia Trial.
+
+Mandela served 27 years in prison, mainly on Robben Island. President F. W. de Klerk released him in 1990, and the two negotiated an end to apartheid and organized the 1994 multiracial election, which the ANC won. They shared the 1993 Nobel Peace Prize. Mandela's coalition government promulgated a new constitution, created the Truth and Reconciliation Commission to investigate past abuses, and pursued land reform, poverty reduction, and expanded healthcare. He was Secretary-General of the [[Non-Aligned Movement]] from 1998 to 1999, declined a second term, and was succeeded by Thabo Mbeki. He then campaigned against poverty and [[HIV/AIDS]].
+
+Mandela was controversial for much of his life. Critics on the right denounced him as a communist terrorist; some on the radical left thought him too eager to reconcile with apartheid's supporters; others have criticized civilian casualties from Umkhonto we Sizwe bombings and his ties to [[Fidel Castro]] and [[Muammar Gaddafi]]. He received more than 250 honors.
+
+=== KEY: Nelson_Rockefeller_1fa122
+HEADWORD: Rockefeller, Nelson = 록펠러, 넬슨
+LEVEL: 5
+GLOSSARY:
+  Albany = 올버니
+  Empire State = 엠파이어 스테이트
+  Empire State Plaza = 엠파이어 스테이트 플라자
+  Ford = 포드
+  Gerald Ford = 제럴드 포드
+  Museum = 박물관
+  Museum of Modern Art = 뉴욕 현대 미술관
+  Party = 파티
+  Republican Party = 공화당
+  Rockefeller family = 록펠러 가문
+  State University of New York = 뉴욕 주립 대학교
+  United States = 미국
+  University = 대학
+  York = 요크
+  vice president = 부통령
+  vice president of the United States = 미국 부통령
+ENTRY:
+41st vice president of the United States, under [[Gerald Ford]] (1974–77). A member of the Republican Party and the wealthy Rockefeller family, he was governor of New York from 1959 to 1973 and led the party's moderate faction. After unsuccessful bids for the Republican presidential nomination in 1960, 1964 and 1968, he was appointed vice president in December 1974. As governor he oversaw expansion of the State University of New York and construction of the Empire State Plaza in Albany. He also served as trustee and president of the [[Museum of Modern Art]].
+
+=== KEY: Nelumbo_41ea5a
+HEADWORD: Nelumbo = 연꽃속
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Cretaceous = 백악기
+  Early Cretaceous = 전기 백악기
+  East Asia = 동아시아
+  Genus = 속
+  Nelumbo = 연꽃속
+  Nelumbo lutea = 미국연꽃
+  Nelumbo nucifera = 연꽃
+  North America = 북아메리카
+  Nymphaeaceae = 수련과
+  South Asia = 남아시아
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  alternative oxidase pathway = 대체 산화효소 경로
+  lotus = 연꽃
+  lotus effect = 연잎 효과
+  water lilies = 수련
+ENTRY:
+Genus of aquatic plants with large, showy flowers, commonly called lotus. Members resemble water lilies (family Nymphaeaceae) but are only distantly related to them. The genus is ancient, with dozens of species known from fossils since the Early Cretaceous, but only two living species survive. *Nelumbo nucifera* is native to East Asia, South Asia and Southeast Asia, and *Nelumbo lutea* to North America and the Caribbean. Their leaves are highly water-repellent, a property known as the lotus effect. The flowers of Nelumbo generate heat through an alternative oxidase pathway; the most common explanation is that the heat attracts pollinators. Horticultural hybrids have been produced between the two species.
+
+=== KEY: Nelumbo_nucifera_f9a94f
+HEADWORD: Nelumbo nucifera = 연꽃
+LEVEL: 5
+GLOSSARY:
+  Buddhism = 불교
+  China = 중국
+  Hinduism = 힌두교
+  India = 인도
+  Indian lotus = 인도연꽃
+  Nelumbo = 연꽃속
+  Vietnam = 베트남
+  lotus = 연꽃
+  national flower = 국화
+  sacred lotus = 연꽃
+ENTRY:
+Aquatic plant, one of two living species in [[Nelumbo]], known as the sacred lotus or Indian lotus. It is the national flower of India and, unofficially, of Vietnam. It has been cultivated for c. 3,000 years for its edible seeds. Its seeds can remain viable for many years, and the oldest recorded germination came from seeds 1,300 years old recovered from a dry lakebed in northeastern China. Therefore, the Chinese regard the plant as a symbol of longevity. It is used in religious offerings, especially in Hinduism and Buddhism, and is widely depicted in art and literature.
+
+=== KEY: Nematode_476518
+HEADWORD: Nematode = 선형동물
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Ecdysozoa = 탈피동물
+  Nematoda = 선형동물문
+  arthropods = 절지동물
+  cuticle = 큐티클
+  eelworm = 선충
+  flatworms = 편형동물
+  roundworm = 회충
+  tardigrades = 완보동물
+ENTRY:
+Worm of the phylum Nematoda, also called roundworm or eelworm, with a flexible cuticle. Unlike flatworms, nematodes have a tubular digestive system with openings at both ends. They are classified with arthropods and tardigrades in the clade Ecdysozoa. Most species are free-living, feeding on microorganisms, but many are parasitic, including pathogens of most plants and animals. They are found in marine, freshwater and terrestrial environments, from the polar regions to the tropics. They make up about 80% of all individual animals on Earth. Estimates of total species range widely, but are now placed closer to one million. About 35 species are human parasites.
+
+=== KEY: Neo_Assyrian_Empire_4ea506
+HEADWORD: Neo-Assyrian Empire = 신아시리아 제국
+LEVEL: 4
+GLOSSARY:
+  Anatolia = 아나톨리아
+  Arabia = 아라비아
+  Aramaic = 아람어
+  Armenia = 아르메니아
+  Babylonia = 바빌로니아
+  Egypt = 이집트
+  Esarhaddon = 에사르하돈
+  Iran = 이란
+  Levant = 레반트
+  Medes = 메디아인
+  Mesopotamia = 메소포타미아
+  Tiglath-Pileser III = 티글라트필레세르 3세
+  lingua franca = 공통어
+ENTRY:
+Fourth and penultimate stage of ancient Assyrian history (911–609 BC). At its height, the empire ruled Mesopotamia, the Levant and Egypt, as well as parts of Anatolia, Arabia, Iran and Armenia. It was the largest empire up to that time. Tiglath-Pileser III (r. 745–727 BC) reasserted royal power and more than doubled the size of the empire, conquering Babylonia and large parts of the Levant. Under Esarhaddon (r. 681–669 BC) the empire reached its largest extent through the conquest of Egypt. A policy of resettling conquered populations weakened local identities and facilitated the rise of Aramaic as the regional lingua franca. Its army made large-scale use of cavalry and new siege techniques, and its communication system used relay stations and well-maintained roads. The empire fell swiftly in the late 7th century BC, destroyed by a Babylonian uprising and an invasion by the Medes.
+
+=== KEY: Neo_Nazism_9005c5
+HEADWORD: Neo-Nazism = 신나치주의
+LEVEL: 5
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Antisemitism = 반유대주의
+  Far-right politics = 극우 정치
+  Fourth Reich = 제4제국
+  Germany = 독일
+  Hitler = 히틀러
+  Holocaust = 홀로코스트
+  Holocaust denial = 홀로코스트 부정
+  Islamophobia = 이슬람 혐오
+  Nazi = 나치
+  Nazism = 나치즘
+  Neo-Nazism = 신나치주의
+  Post = 『Post』
+  Reich = 제국
+  White = 흰색
+  White supremacy = 백인 우월주의
+  World = 세계
+  World War II = 제2차 세계 대전
+  antisemitism = 반유대주의
+  far-right politics = 극우 정치
+ENTRY:
+Post–World War II movements and ideologies that profess or idealize [[Nazism]] in whole or in part. Neo-Nazis promote the racial or ethnic supremacy of their own group, often [[White supremacy|White supremacy]], and incite hatred of minorities, frequently through [[Antisemitism|antisemitism]] and Islamophobia. Some groups seek to establish a fascist state, such as a "Fourth Reich." Holocaust denial is a common feature, as are Nazi symbols and admiration of [[Adolf Hitler]]. Neo-Nazism is considered a form of [[Far-right politics|far-right politics]]. In Germany and a number of other countries, it is prohibited by laws targeting Nazi ideology.
+
+=== KEY: Neoclassical_architecture_088645
+HEADWORD: Neoclassical architecture = 신고전주의 건축
+LEVEL: 4
+GLOSSARY:
+  Archaeology = 고고학
+  Baroque = 바로크
+  Classical Revival architecture = 고전 부흥 건축
+  France = 프랑스
+  Germany = 독일
+  Greek Revival architecture = 그리스 부흥 건축
+  Italy = 이탈리아
+  Late Baroque = 후기 바로크
+  Neoclassical = 신고전주의
+  New Classical architecture = 신고전 건축
+  Revival = 「Revival」
+  Western world = 서양
+  second wave = 제2물결
+ENTRY:
+Revivalist style of architecture, also called Classical Revival architecture. It was produced by the Neoclassical movement, which began in the mid-18th century in Italy, France and Germany. It became one of the most prominent architectural styles in the [[Western world]]. The movement aimed to strip away the excesses of Late [[Baroque]] and return to a purer, more authentic classical style adapted to modern purposes. Archaeology and accurate published records of surviving classical buildings were crucial to its emergence. In many countries an initial wave drew essentially on Roman architecture, and from about the start of the 19th century a second wave of Greek Revival architecture followed. The style emphasizes the wall and is defined by symmetry and simple geometry rather than ornament. A version of the style continues in the 21st century as New Classical architecture.
+
+=== KEY: Neoclassicism_e4a3c6
+HEADWORD: Neoclassicism = 신고전주의
+LEVEL: 4
+GLOSSARY:
+  Age of Enlightenment = 계몽주의 시대
+  Empire style = 앙피르 양식
+  Enlightenment = 계몽주의
+  Hellenistic = 헬레니즘
+  Herculaneum = 헤르쿨라네움
+  Johann Joachim Winckelmann = 요한 요아힘 빙켈만
+  Napoleon = 나폴레옹
+  Napoleonic = 나폴레옹
+  Napoleonic era = 나폴레옹 시대
+  Neoclassicism = 신고전주의
+  Paris = 파리
+  Pompeii = 폼페이
+  Rococo = 로코코
+  Romanticism = 낭만주의
+  Rome = 로마
+  Russia = 러시아
+  United States = 미국
+  classical antiquity = 고전 고대
+ENTRY:
+Western cultural movement in the decorative and visual arts, literature, theater, music and architecture, inspired by classical antiquity. It emerged from the 18th-century [[Age of Enlightenment]] and reached its peak in the early to mid-19th century, when it competed with [[Romanticism]]. European Neoclassicism in the visual arts began c. 1760 in opposition to the [[Rococo]] style, which emphasized grace, ornamentation and asymmetry. Neoclassicism was born in [[Rome]], largely through the writings of Johann Joachim Winckelmann during the rediscovery of [[Pompeii]] and Herculaneum. The sculpture it embraced was more often Roman copies of Hellenistic works. The [[Empire style]], a second phase in architecture and the decorative arts, centered on Paris during the [[Napoleon|Napoleonic]] era. The movement remained influential into the 20th and 21st centuries, especially in the United States and Russia.
+
+=== KEY: Neodymium_6969b8
+HEADWORD: Neodymium = 네오디뮴
+LEVEL: 4
+GLOSSARY:
+  Carl Auer von Welsbach = 카를 아우어 폰 벨스바흐
+  China = 중국
+  Lanthanide = 란타넘족
+  Magnet = 자석
+  Neodymium = 네오디뮴
+  Rare-earth element = 희토류 원소
+  didymium = 디디뮴
+  hard disk drives = 하드 디스크 드라이브
+  praseodymium = 프라세오디뮴
+  rare-earth elements = 희토류 원소
+  solid-state lasers = 고체 레이저
+  wind turbines = 풍력 터빈
+ENTRY:
+Silvery-white metallic element of the [[Lanthanide|lanthanide]] series, symbol Nd and atomic number 60. One of the [[Rare-earth element|rare-earth elements]], it tarnishes in air and reacts with water. Austrian chemist Carl Auer von Welsbach discovered it in 1885 by separating didymium into neodymium and praseodymium. Its name comes from the Greek for "new twin." China is the largest producer and refiner of the rare-earth elements used in [[Magnet|magnets]]. Neodymium–iron–boron magnets, which produce strong magnetic fields from small, lightweight components, are used in audio equipment, hard disk drives, electric vehicle motors and some wind turbines. Neodymium also colors glass, and its ions are the active component of solid-state lasers such as Nd:YAG lasers. Neodymium isotope ratios are used to date rocks and trace geological processes.

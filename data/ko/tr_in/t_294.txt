@@ -1,0 +1,930 @@
+=== KEY: SAP_999bc6
+HEADWORD: SAP = SAP
+LEVEL: 5
+GLOSSARY:
+  DAX = DAX
+  Euro = 유로
+  Euro Stoxx 50 = 유로 스톡스 50
+  German = 독일어
+  IBM = IBM
+  SAP HANA = SAP HANA
+  Walldorf = 발도르프
+  enterprise resource planning = 전사적 자원 관리
+  market capitalization = 시가 총액
+ENTRY:
+German multinational enterprise-software company based in Walldorf. Founded in 1972 by five former [[IBM]] engineers, it is the world's largest vendor of enterprise software, with offices in 78 countries and 110,000 employees. Its first commercial product, the RF financial accounting system, launched in 1973, and SAP R/2 followed in 1979. In June 2025 it was the largest European company by market capitalization. SAP is a component of the DAX and Euro Stoxx 50 indices. Its S/4HANA enterprise resource planning platform runs on the in-memory SAP HANA database.
+
+=== KEY: SARS_CoV_2_724525
+HEADWORD: SARS-CoV-2 = 사스코로나바이러스 2
+LEVEL: 5
+GLOSSARY:
+  ACE2 receptor = ACE2 수용체
+  COVID-19 = 코로나19
+  China = 중국
+  Positive-sense RNA = 양성 단일 가닥 RNA
+  SARS = 사스
+  SARS-CoV-1 = 사스코로나바이러스 1
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  Wuhan = 우한
+  betacoronavirus = 베타코로나바이러스
+  public health emergency of international concern = 국제적 공중 보건 비상사태
+  zoonotic = 인수 공통
+ENTRY:
+Positive-sense RNA betacoronavirus that causes COVID-19. First identified in [[Wuhan]], China, it is related to SARS-CoV-1, which caused the 2002–2004 SARS outbreak. Its closest known relative is a bat coronavirus, and its genetic similarity to bat viruses suggests zoonotic origin, though the route of transmission to humans remains under research. The virus spreads mainly through close contact and through aerosols and respiratory droplets. It enters human cells by binding to the ACE2 receptor. The [[World Health Organization]] declared the outbreak a public health emergency of international concern from January 30, 2020, to May 5, 2023.
+
+=== KEY: SD_card_972f2f
+HEADWORD: SD card = SD 카드
+LEVEL: 5
+GLOSSARY:
+  Flash = 플래시
+  Kioxia = 키옥시아
+  Memory card = 메모리 카드
+  Mobile phone = 휴대 전화
+  MultiMediaCard = 멀티미디어카드
+  Panasonic = 파나소닉
+  SD Association = SD 협회
+  SanDisk = 샌디스크
+  Secure Digital = 시큐어 디지털
+  Video game console = 비디오 게임기
+  digital rights management = 디지털 저작권 관리
+ENTRY:
+Flash [[Memory card|memory card]] format used in portable electronics. Introduced in August 1999 as Secure Digital by SanDisk, Panasonic, and Kioxia, it succeeded MultiMediaCard and added digital rights management and a mechanical write-protect switch. The nonprofit SD Association, founded in January 2000, develops its specifications; it had about 1,000 member companies as of 2023. Full-size, miniSD (now obsolete), and microSD cards are used in digital cameras, camcorders, [[Video game console|video game consoles]], [[Mobile phone|mobile phones]], and drones. Capacity classes include SDHC, SDXC, and SDUC.
+
+=== KEY: SMS_4cecb2
+HEADWORD: SMS = SMS
+LEVEL: 5
+GLOSSARY:
+  Christmas = 크리스마스
+  Communication = 의사소통
+  GSM = GSM
+  Internet = 인터넷
+  Merry Christmas = 『Merry Christmas』
+  Mobile phone = 휴대 전화
+  Rich Communication Services = 리치 커뮤니케이션 서비스
+  Text messaging = 문자 메시지
+  two-factor authentication = 2단계 인증
+ENTRY:
+[[Text messaging]] service component of most telephone, Internet and mobile device systems. SMS was developed as part of the GSM standards and rolled out on digital cellular networks starting in 1993. The first SMS message, "Merry Christmas," was sent on December 3, 1992. By the end of 2010 it was the most widely used data application, with an estimated 3.5 billion active users, or about 80% of all [[Mobile phone|mobile phone]] subscribers. It is also used for mobile marketing, two-factor authentication and mobile banking. Rich Communication Services has been designated as its potential open standard successor.
+
+=== KEY: SQL_977884
+HEADWORD: SQL = SQL
+LEVEL: 5
+GLOSSARY:
+  ANSI = ANSI
+  Database = 데이터베이스
+  Domain-specific language = 도메인 특화 언어
+  IBM = IBM
+  ISO = 국제 표준화 기구
+  SEQUEL = SEQUEL
+  database management system = 데이터베이스 관리 시스템
+  relational database management system = 관계형 데이터베이스 관리 시스템
+ENTRY:
+Domain-specific language for managing data in a relational [[Database|database]] management system. Introduced in the 1970s, it allowed many records to be accessed with one command, without specifying how to reach each record. Developed at IBM, it was renamed from SEQUEL because that name was a trademark. SQL became an ANSI standard in 1986 and an ISO standard in 1987. Its scope covers querying, manipulating, defining and controlling access to data. Few implementations adhere fully to the standard, and most SQL code needs changes before being ported to other systems.
+
+=== KEY: SUV_9cd0a9
+HEADWORD: SUV = SUV
+LEVEL: 5
+GLOSSARY:
+  Car = 자동차
+  United States = 미국
+  four-wheel drive = 사륜구동
+  ground clearance = 최저 지상고
+ENTRY:
+[[Car]] classification combining elements of road-going passenger cars with off-road features such as raised ground clearance and four-wheel drive. Its definition varies across countries. Predecessors date to military and low-volume models of the late 1930s. SUVs accounted for 45.9% of the world's passenger car market in 2021 and 57.3% of sales in the United States. Critics cite poorer fuel efficiency and higher rollover risk. Between 2010 and 2018 SUVs were the second-largest contributor to the global increase in carbon emissions, and their larger blind spots make them more likely to run over pedestrians.
+
+=== KEY: S_mi_people_491da0
+HEADWORD: Sámi people = 사미족
+LEVEL: 4
+GLOSSARY:
+  Europe = 유럽
+  Fenni = 펜니
+  Finland = 핀란드
+  Fishing = 어업
+  Indigenous = 원주민
+  Kola Peninsula = 콜라반도
+  Lapland = 라플란드
+  Laplanders = 라플란드인
+  Lapps = 랩인
+  Northern Europe = 북유럽
+  Norway = 노르웨이
+  Peninsula = 반도
+  Reindeer = 순록
+  Russia = 러시아
+  Sweden = 스웨덴
+  Sámi = 사미족
+  Sámi languages = 사미어
+  Sápmi = 사프미
+  Tacitus = 타키투스
+  Uralic language family = 우랄어족
+  reindeer herding = 순록 유목
+ENTRY:
+Indigenous people of Northern Europe, traditionally Sámi-speaking and inhabiting the region of Sápmi. Sápmi, formerly known as Lapland, encompasses large northern parts of [[Norway]], [[Sweden]] and [[Finland]], and the Kola Peninsula in [[Russia]]. Their traditional languages are the Sámi languages, a branch of the Uralic language family. Traditional livelihoods included coastal [[Fishing|fishing]], fur trapping and sheep herding. Their best-known livelihood is semi-nomadic [[Reindeer|reindeer]] herding, which provides meat, fur and transportation; as of 2007 about 10% of Sámi were connected to it. Historically known in English as Lapps or Laplanders, terms regarded as offensive by some Sámi. The first probable historical mention, naming them Fenni, was by [[Tacitus]] about AD 98.
+
+=== KEY: S_ndor_Pet_fi_f87925
+HEADWORD: Petőfi, Sándor = 페퇴피, 샨도르
+LEVEL: 4
+GLOSSARY:
+  Austrian Empire = 오스트리아 제국
+  Battle of Segesvár = 세게시바르 전투
+  Hungarian = 헝가리어
+  Hungarian Revolution = 헝가리 혁명
+  Hungarian Revolution of 1848 = 1848년 헝가리 혁명
+  Hungary = 헝가리
+  János Vitéz = 『용사 야노시』
+  Júlia Szendrey = 센드레이 율리아
+  Kingdom of Hungary = 헝가리 왕국
+  National Song = 「민족의 노래」
+  Nemzeti dal = 「민족의 노래」
+  Revolution of 1848 = 1848년 혁명
+  Transylvania = 트란실바니아
+ENTRY:
+Hungarian poet and liberal revolutionary, considered Hungary's national poet. He was one of the key figures of the Hungarian Revolution of 1848. His poem "Nemzeti dal" ("National Song") is said to have inspired the revolution in the Kingdom of [[Hungary]] that grew into a war for independence from the [[Austrian Empire]]. He most likely died in the Battle of Segesvár, one of the last battles of the war, although this is unknown. His epic *János Vitéz* (1845) is a fairy tale of 370 quatrains in 27 chapters, notable for its length and wordplay. In 1846 he met Júlia Szendrey in [[Transylvania]] and married her the following year.
+
+=== KEY: S_o_Francisco_River_718d1a
+HEADWORD: São Francisco River = 상프란시스쿠강
+LEVEL: 4
+GLOSSARY:
+  Amerigo Vespucci = 아메리고 베스푸치
+  Assisi = 아시시
+  Atlantic Ocean = 대서양
+  Bahia = 바이아주
+  Brazil = 브라질
+  Canastra = 카나스트라 산맥
+  Francis = 프랑수아
+  Francis of Assisi = 아시시의 프란치스코
+  Juazeiro = 주아제이루
+  Minas Gerais = 미나스제라이스주
+  Ocean = 대양
+  Pirapora = 피라포라
+  Saint = 성인
+  Saint Francis of Assisi = 아시시의 성 프란치스코
+  South America = 남아메리카
+  drainage basin = 유역
+  feast day = 축일
+ENTRY:
+Large river in [[Brazil]], the longest river that runs entirely in Brazilian territory. With a length of 2,914 kilometers (1,811 mi), it is the fourth longest in [[South America]]. It rises in the Canastra mountain range of [[Minas Gerais]] and flows generally north through Minas Gerais and [[Bahia]] before turning east toward the [[Atlantic Ocean]]. Its drainage basin covers over 630,000 square kilometers (240,000 sq mi). Called the "river of national integration," it unites diverse climates and regions, including the semi-arid region historically marked by droughts. It was named for [[Francis of Assisi|Saint Francis of Assisi]] after Europeans first discovered it on his feast day, 4 October 1501, when [[Amerigo Vespucci]] first saw it. It is navigable between Pirapora and Juazeiro, though traditional passenger navigation has almost disappeared because of changes in river flow.
+
+=== KEY: S_o_Lu_s_Maranh_o_85c086
+HEADWORD: São Luís = 상루이스
+LEVEL: 4
+GLOSSARY:
+  Atlantic Ocean = 대서양
+  Baía de São Marcos = 상마르쿠스만
+  France = 프랑스
+  French = 프랑스어
+  Iron ore = 철광석
+  Louis XIII = 루이 13세
+  Maranhão = 마라냥주
+  Ocean = 대양
+  Port = 항구
+  Portugal = 포르투갈
+  Saint-Louis-de-Maragnan = 생루이드마라냥
+  São Luís Island = 상루이스섬
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Capital and largest city of the Brazilian state of Maranhão (pop., 2024: 1,088,057). The city is located on São Luís Island in the Baía de São Marcos, an extension of the Atlantic Ocean, and is one of three Brazilian state capitals on islands. It is the only Brazilian state capital founded by France. The French settled it in 1612, building a fort named Saint-Louis-de-Maragnan after [[Louis XIII]]. Portugal conquered the settlement in 1615 and renamed it São Luís. Its historic center, dating from the 17th century, keeps its original street plan and was named a UNESCO [[World Heritage Site]] in 1997. The city has two major [[Port|sea ports]] through which a substantial part of Brazil's [[Iron ore|iron ore]] is exported.
+
+=== KEY: S_o_Paulo_ea76c0
+HEADWORD: São Paulo = 상파울루
+LEVEL: 3
+GLOSSARY:
+  1932 Revolution = 1932년 입헌주의 혁명
+  Americas = 아메리카
+  B3 = B3
+  Brazil = 브라질
+  Brazilian Grand Prix = 브라질 그랑프리
+  Brazilian coffee cycle = 브라질 커피 주기
+  City = 도시
+  Cry of Ipiranga = 이피랑가의 외침
+  FIFA = 국제 축구 연맹
+  FIFA World Cups = FIFA 월드컵
+  Formula One = 포뮬러 원
+  Greater São Paulo = 상파울루 대도시권
+  Jesuit = 예수회
+  Latin = 라틴어
+  Latin America = 라틴아메리카
+  Macrometropolis = 상파울루 확대 대도시권
+  Paul = 바울로
+  Paulista = 파울리스타
+  Saint = 성인
+  Santos = 산투스
+  Southern Hemisphere = 남반구
+  São Paulo = 상파울루
+  World = 세계
+  bandeirantes = 반데이란치
+  market capitalization = 시가 총액
+ENTRY:
+City (pop., 2025: 11.9 million), capital of São Paulo state and the largest city in Brazil.
+
+São Paulo, Portuguese for "Saint Paul", is the most populous city in the Americas and the most populous Portuguese-speaking city in the world. Greater São Paulo has more than 20 million inhabitants, and the surrounding Macrometropolis, the first megalopolis in the Southern Hemisphere, has more than 30 million. The city lies on a highland plateau about 800 m above sea level, roughly 70 km inland from the port of Santos, and covers about 1,521 sq km.
+
+Jesuit priests founded the city in 1554, making it one of the oldest continuously inhabited cities on the American continents. During the colonial period it was the starting point for expeditions of the Paulista *bandeirantes*, who expanded the country's territory and economy. Its wealth was consolidated during the Brazilian coffee cycle of the mid-19th century, and industrialization in the 20th century made it the main national economic hub. Waves of immigration produced a cosmopolitan population that includes the largest Arab, Italian, and Japanese diasporas in the world. Brazilian landmarks staged there include the Cry of Ipiranga and the 1932 Revolution.
+
+São Paulo is the largest urban economy in Latin America, accounts for around 10% of Brazilian GDP, and is the headquarters of B3, the largest stock exchange in Latin America by market capitalization. The city's growth has also brought income disparities, informal settlements, chronic traffic, and pollution.
+
+The city hosted the 1950 and 2014 FIFA World Cups and hosts the annual Brazilian Grand Prix of [[Formula One]].
+
+=== KEY: S_o_Paulo_state_237e2e
+HEADWORD: São Paulo = 상파울루주
+LEVEL: 4
+GLOSSARY:
+  Americas = 아메리카
+  Brazil = 브라질
+  Coffee = 커피
+  Ethanol = 에탄올
+  Human = 인간
+  Human Development Index = 인간 개발 지수
+  Martim Afonso de Sousa = 마르팅 아퐁수 드 소자
+  Paul = 바울로
+  Saint = 성인
+  Saint Paul of Tarsus = 타르수스의 성 바울로
+  Sugar = 설탕
+  São Paulo = 상파울루
+  São Vicente = 상비센트
+  Tarsus = 타르수스
+  Vargas Era = 바르가스 시대
+ENTRY:
+State of southeastern [[Brazil]] (pop., 2022: more than 44 million), the country's most populous state. Named after Saint Paul of Tarsus, it is divided into 645 municipalities, and its capital is the city of São Paulo. Martim Afonso de Sousa founded São Vicente in 1532, the first permanent Portuguese settlement in the Americas. In the 19th century the state developed a wealthy rural oligarchy based on [[Coffee|coffee]] production, and under the Vargas Era it became one of the first Brazilian states to industrialize. Its economy accounts for around 31% of Brazil's total wealth, and it is the world's largest producer of orange juice, [[Sugar|sugar]] and [[Ethanol|ethanol]]. It has the second-highest [[Human Development Index]] among Brazilian states and the lowest homicide rate.
+
+=== KEY: S_o_Tom_and_Pr_ncipe_5837c4
+HEADWORD: São Tomé and Príncipe = 상투메 프린시페
+LEVEL: 4
+GLOSSARY:
+  Atlantic slave trade = 대서양 노예 무역
+  Central Africa = 중앙아프리카
+  Christianity = 기독교
+  Community of Portuguese Language Countries = 포르투갈어 사용국 공동체
+  Guinea = 기니
+  Gulf of Guinea = 기니만
+  Human = 인간
+  Human Development Index = 인간 개발 지수
+  Language = 언어
+  Portugal = 포르투갈
+  Seychelles = 세이셸
+  mestiço = 메스티수
+  slave trade = 노예 무역
+ENTRY:
+Island country in the [[Gulf of Guinea]], off the western equatorial coast of [[Central Africa]] (pop., 2018: 201,800). It consists of two archipelagos around its two main islands. Portuguese explorers discovered the uninhabited islands on December 21, 1470. They became a commercial center for the [[Atlantic slave trade]], and sugar plantations relied heavily on enslaved Africans. The country achieved peaceful independence from [[Portugal]] in 1975 as a one-party communist state, which lasted until 1990. It is a founding member of the Community of Portuguese Language Countries and has a medium [[Human Development Index]]. Most of its people are of African and mestiço descent, and most practice [[Christianity]]. It is the second-smallest and second-least populous African sovereign state after [[Seychelles]].
+
+=== KEY: S_per_Lig_ebf7b5
+HEADWORD: Süper Lig = 쉬페르 리그
+LEVEL: 5
+GLOSSARY:
+  1. Lig = 1. 리그
+  Association football = 축구
+  Başakşehir = 바샥셰히르
+  Beşiktaş = 베식타시
+  Bursaspor = 부르사스포르
+  Fenerbahçe = 페네르바흐체
+  Football = 축구
+  Galatasaray = 갈라타사라이
+  Trabzonspor = 트라브존스포르
+  Turkey = 튀르키예
+  Turkish = 튀르키예어
+  Turkish Football Federation = 튀르키예 축구 연맹
+  UEFA = 유럽 축구 연맹
+  UEFA coefficient = UEFA 계수
+ENTRY:
+Top professional [[Association football|association football]] league in [[Turkey]], the highest level of the Turkish football league system. Eighteen teams play 34 matches each season, from August to May. Three clubs are promoted from and three relegated to the 1. Lig. The league is run by the Turkish Football Federation. Of 78 clubs to have competed, only six have won the title: Galatasaray (26), Fenerbahçe (19), Beşiktaş (16), Trabzonspor (7), Bursaspor (1) and Başakşehir (1). It is currently 9th in the [[UEFA]] coefficient ranking of leagues.
+
+=== KEY: S_ren_Kierkegaard_26004b
+HEADWORD: Kierkegaard, Søren = 키르케고르, 쇠렌
+LEVEL: 4
+GLOSSARY:
+  Christianity = 기독교
+  Church = 처치
+  Church of Denmark = 덴마크 국교회
+  Danish = 덴마크어
+  Denmark = 덴마크
+  Ethics = 윤리학
+  Existentialism = 실존주의
+  French = 프랑스어
+  German = 독일어
+  Love = 사랑
+  Morality = 도덕
+  Philosophy of religion = 종교 철학
+  Scandinavia = 스칸디나비아
+  philosophy of religion = 종교 철학
+ENTRY:
+Danish philosopher, Christian theologian and religious author, widely considered the first [[Existentialism|existentialist]] philosopher. His writings critically address organized religion, [[Morality|morality]], [[Ethics|ethics]], psychology, [[Love|love]] and the [[Philosophy of religion|philosophy of religion]], using metaphor, irony and parables. He emphasized authenticity, personal choice and commitment, and the duty to love, and he prioritized concrete human reality over abstract thinking. He was extremely critical of Christianity as a state-controlled religion, as with the Church of Denmark. He wrote in Danish, and his work was initially limited to [[Scandinavia]] until it was translated into French, German and other major European languages around the turn of the 20th century. By the middle of the 20th century his thought substantially influenced philosophy, theology and Western culture.
+
+=== KEY: Saadi_Shirazi_7843bd
+HEADWORD: Saadi = 사디
+LEVEL: 4
+GLOSSARY:
+  Baghdad = 바그다드
+  Bustan = 『부스탄』
+  Ghazal = 가잘
+  Gulistan = 『굴리스탄』
+  Iraq = 이라크
+  Master = 조폐국장
+  Master of Speech = 말의 대가
+  Palestine = 팔레스타인
+  Palestine (region) = 팔레스타인
+  Persian = 페르시아어
+  Shiraz = 시라즈
+  Sufi = 수피
+  Syria = 시리아
+  The Guardian = 『가디언』
+  the Master = 거장
+ENTRY:
+Persian Sufi poet, recognized for the depth of his social and moral thought. He is widely regarded as one of the greatest poets of the classical literary tradition, and Persian scholars call him the "Master of Speech." He was from [[Shiraz]], and his pen name signs all of his [[Ghazal|ghazals]]. He studied in [[Baghdad]] as a young man and later traveled through Iraq, Syria and [[Palestine (region)|Palestine]]. His book *Bustan* has been ranked among the 100 greatest books of all time by [[The Guardian]]. His other major work, *Gulistan*, mixes prose anecdotes with verse to explore human virtues, vices and social conduct.
+
+=== KEY: Saarland_97a083
+HEADWORD: Saarland = 자를란트주
+LEVEL: 5
+GLOSSARY:
+  Federal Republic = 독일 연방 공화국
+  Federal Republic of Germany = 독일 연방 공화국
+  Following = 「미행」
+  France = 프랑스
+  Germany = 독일
+  League of Nations = 국제 연맹
+  Nazi = 나치
+  Nazi Germany = 나치 독일
+  Saarbrücken = 자르브뤼켄
+  Territory of the Saar Basin = 자르 분지 영토
+  World = 세계
+  World War I = 제1차 세계 대전
+  World War II = 제2차 세계 대전
+ENTRY:
+Landlocked federal state of [[Germany]] in the southwest, with its capital at Saarbrücken. Its coal deposits drove heavy industrialization from the 19th century. Established as the Territory of the Saar Basin after [[World War I]], it was occupied and governed by France under a [[League of Nations]] mandate. It was returned to [[Nazi Germany]] after a 1935 referendum. Following [[World War II]] it was occupied by France, and after a 1955 referendum it joined the Federal Republic of Germany as a state on January 1, 1957.
+
+=== KEY: Sabbath_086f9f
+HEADWORD: Sabbath = 안식일
+LEVEL: 4
+GLOSSARY:
+  Abrahamic = 아브라함계
+  Abrahamic religions = 아브라함계 종교
+  Babylonia = 바빌로니아
+  Book = 책
+  Book of Exodus = 출애굽기
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Christianity = 기독교
+  Church = 처치
+  Creation = 천지 창조
+  Exodus = 출애굽
+  Islam = 이슬람교
+  Israelites = 이스라엘인
+  Jews = 유대인
+  Judaism = 유대교
+  Lutheranism = 루터교
+  Protestantism = 개신교
+  Sabbath = 안식일
+  Shabbat = 안식일
+  Sunday = 일요일
+  Ten Commandments = 십계명
+ENTRY:
+Day set aside for rest and worship in [[Abrahamic religions]]. According to the Book of Exodus, God commanded the seventh day be kept holy, as God rested on it during Creation. A day of rest is observed in [[Islam]] (Friday), Judaism (Saturday) and [[Christianity]] (Sunday). Observance is one of the [[Ten Commandments]]: the fourth in Judaism and most of [[Protestantism]], and the third in the [[Catholic Church]] and [[Lutheranism]]. Some scholars suggest the Sabbath may have been influenced by [[Babylonia|Babylonian]] mid-month rest days and lunar cycles, though its origins remain debated. Most Jews regard Shabbat as a biblical covenant between God and the Israelites, commemorating both Creation and the Exodus.
+
+=== KEY: Sable_b7400d
+HEADWORD: Sable = 검은담비
+LEVEL: 5
+GLOSSARY:
+  Altai = 알타이산맥
+  Altai Mountains = 알타이산맥
+  Fur trade = 모피 무역
+  IUCN = 국제 자연 보전 연맹
+  IUCN Red List = IUCN 적색 목록
+  Least Concern = 최소 관심
+  Marten = 담비
+  Middle Ages = 중세
+  Mongolia = 몽골
+  Red List = 적색 목록
+  Russia = 러시아
+  Sakhalin = 사할린섬
+  Siberia = 시베리아
+  Species = 종
+  Ural = 우랄강
+  Ural Mountains = 우랄산맥
+ENTRY:
+[[Species]] of [[Marten|marten]] inhabiting the forests of Russia from the [[Ural Mountains]] through Siberia and northern Mongolia. It also occurs on [[Sakhalin]] and in the [[Altai Mountains]]. Its fur ranges from light to dark brown, and it is a skilled climber that hunts primarily by sound and scent. Mating occurs between June and August, and litters typically have two or three offspring. Sable fur has been highly valued in the [[Fur trade|fur trade]] since the early [[Middle Ages]], and hunting drove conservation efforts. The species is categorized as Least Concern on the IUCN Red List.
+
+=== KEY: Saccharomyces_cerevisiae_d4824a
+HEADWORD: Saccharomyces cerevisiae = 사카로미세스 세레비시아이
+LEVEL: 4
+GLOSSARY:
+  Baking = 제빵
+  Brewing = 양조
+  Cell biology = 세포 생물학
+  Crohn's disease = 크론병
+  Fermentation = 발효
+  Grape = 포도
+  Model organism = 모델 생물
+  Species = 종
+  Ulcerative colitis = 궤양성 대장염
+  baker's yeast = 제빵 효모
+  brewer's yeast = 맥주 효모
+  budding = 출아
+  cell biology = 세포생물학
+  eukaryotic = 진핵
+  homologs = 상동 단백질
+  inflammatory bowel diseases = 염증성 장 질환
+  model organisms = 모델 생물
+  ulcerative colitis = 궤양성 대장염
+ENTRY:
+Species of yeast, also called brewer's yeast or baker's yeast. It has been instrumental in winemaking, [[Baking|baking]] and [[Brewing|brewing]] since ancient times, and it is believed to have been first isolated from the skin of [[Grape|grapes]]. It causes many common types of [[Fermentation|fermentation]]. It is one of the most intensively studied eukaryotic [[Model organism|model organisms]] in molecular and [[Cell biology|cell biology]], and many human proteins were first discovered by studying their homologs in yeast. Its cells are round to ovoid, 5–10 μm in diameter, and reproduce by budding. Antibodies against it are found in 60–70% of patients with [[Crohn's disease]] and 10–15% of patients with [[Ulcerative colitis|ulcerative colitis]], and may help distinguish between these inflammatory bowel diseases.
+
+=== KEY: Sacha_Baron_Cohen_593f2a
+HEADWORD: Baron Cohen, Sacha = 배런 코언, 사샤
+LEVEL: 5
+GLOSSARY:
+  Academy Awards = 아카데미상
+  Ali = 알리
+  Ali G = 알리 G
+  Borat = 「보랏」
+  Borat Sagdiyev = 보랏 사그디예프
+  Borat Subsequent Moviefilm = 「보랏 2」
+  Cambridge = 케임브리지
+  Da Ali G Show = 「다 알리 G 쇼」
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Marvel = 마블
+  Marvel Cinematic Universe = 마블 시네마틱 유니버스
+  Mephisto = 메피스토
+  Performance art = 퍼포먼스 아트
+  Satire = 풍자
+  Universe = 우주
+  University = 대학
+  University of Cambridge = 케임브리지 대학교
+ENTRY:
+English actor, comedian and filmmaker known for [[Satire|satirical]] characters including Ali G and Borat Sagdiyev. He graduated from the [[University of Cambridge]] and created Ali G for the sketch show *Da Ali G Show* (2000–2004). He wrote and starred in *Borat* (2006), which earned him a Golden Globe, and in *Borat Subsequent Moviefilm* (2020). He has received nominations for three [[Academy Awards]] and played Mephisto in the [[Marvel Cinematic Universe]]. For his character work he has been described as a [[Performance art|performance artist]].
+
+=== KEY: Sachin_Tendulkar_e756e3
+HEADWORD: Tendulkar, Sachin = 텐둘카르, 사친
+LEVEL: 4
+GLOSSARY:
+  2011 Cricket World Cup = 2011 크리켓 월드컵
+  Bharat Ratna = 바라트 라트나
+  Cricket = 크리켓
+  Cricket World Cup = 크리켓 월드컵
+  Don Bradman = 돈 브래드먼
+  Karachi = 카라치
+  Pakistan = 파키스탄
+  Test = 테스트 매치
+  Wisden = 『위즈든』
+  World = 세계
+  World Cup = 월드컵
+  centuries = 센추리
+  player of the match = 최우수 선수상
+ENTRY:
+Indian former international [[Cricket|cricketer]] who captained the national team. He is widely regarded as one of the greatest cricketers in the history of the sport. He holds the all-time record for runs in international cricket and the most player of the match awards, and he is the only batsman to score 100 international centuries. He made his Test debut against Pakistan in [[Karachi]] on November 15, 1989, at the age of sixteen, and played 664 international matches, scoring 34,357 runs. Wisden ranked him the second-greatest Test batsman of all time in 2002, behind [[Don Bradman]]. He was part of the Indian team that won the [[Cricket World Cup|2011 Cricket World Cup]], and he was the first sportsperson to receive the Bharat Ratna, India's highest civilian award.
+
+=== KEY: Sacramento_California_a4060c
+HEADWORD: Sacramento = 새크라멘토
+LEVEL: 5
+GLOSSARY:
+  California = 캘리포니아주
+  California Legislature = 캘리포니아주 의회
+  Capital city = 수도
+  Gabriel = 가브리엘
+  Gabriel Moraga = 가브리엘 모라가
+  Legislature = 입법부
+  Mediterranean = 지중해
+  Mediterranean climate = 지중해성 기후
+  River = 강
+  Sacramento River = 새크라멘토강
+ENTRY:
+Capital city of [[California]] (pop., 2020: 524,943), at the confluence of the Sacramento and American Rivers. Spanish cavalryman Gabriel Moraga named the Sacramento River in 1808. The city was incorporated in 1850. In 1852 it offered its courthouse to the state legislature, and it became the permanent state capital in 1854. The state capitol building was finished in 1874. Sacramento is the seat of the California Legislature and governor and a major center for healthcare. It has a [[Mediterranean climate]] with hot, dry summers.
+
+=== KEY: Sacredness_5015bd
+HEADWORD: Sacredness = 신성
+LEVEL: 4
+GLOSSARY:
+  Aquinas = 아퀴나스
+  Christianity = 기독교
+  Deity = 신
+  Latin = 라틴어
+  Thomas = 토머스
+  Thomas Aquinas = 토마스 아퀴나스
+  Virtue = 덕
+  consecration = 축성
+  deconsecration = 축성 해제
+  sacer = 사케르
+ENTRY:
+Attribute of something dedicated or set apart for the service or worship of a [[Deity|deity]], and worthy of spiritual respect. Such things can inspire awe or reverence among believers. The word descends from the Latin *sacer*, meaning consecrated or dedicated to the gods. Holy is similar but carries an inherent character; in [[Christianity]], holiness is generally used of people and relationships, and sacredness of objects, places and happenings. [[Thomas Aquinas]] defined holiness as the [[Virtue|virtue]] by which a person's mind and acts are applied to God. In Christianity, consecration may set apart a person, building or object for God, and some denominations hold a service of deconsecration to remove the sacred character of something before demolition or sale.
+
+=== KEY: Sacrifice_e8de52
+HEADWORD: Sacrifice = 희생 제의
+LEVEL: 4
+GLOSSARY:
+  Eucharist = 성찬례
+  Freud = 프로이트
+  Hebrews = 히브리인
+  Human sacrifice = 인신 공양
+  Latin = 라틴어
+  Marcel = 마르셀
+  Marcel Mauss = 마르셀 모스
+  Mesoamerica = 메소아메리카
+  Oedipus = 오이디푸스
+  Oedipus complex = 오이디푸스 콤플렉스
+  Sigmund Freud = 지크문트 프로이트
+  pre-Columbian = 콜럼버스 이전
+  propitiation = 속죄
+  sacrificium = 사크리피키움
+  Émile Durkheim = 에밀 뒤르켐
+ENTRY:
+Act or offering made to a deity, which may serve as propitiation or as an offering of praise and thanksgiving. Evidence of ritual animal sacrifice dates at least to ancient Hebrews and Greeks, and ritual [[Human sacrifice|human sacrifice]] to pre-Columbian civilizations of [[Mesoamerica]] and to European civilizations. The Latin word *sacrificium* later came to apply to the Christian [[Eucharist]]. Scholars have offered varying theories of its function. [[Émile Durkheim]] argued that sacrifice served both social and divine communion, while [[Marcel Mauss]] described it as a gift to the gods with the expectation of a greater gift later. [[Sigmund Freud]] argued that sacrifice was a neurotic ritual expiating guilt produced by repressing the [[Oedipus complex]].
+
+=== KEY: Saddam_Hussein_9e4e07
+HEADWORD: Hussein, Saddam = 후세인, 사담
+LEVEL: 4
+GLOSSARY:
+  1991 uprisings = 1991년 봉기
+  Gulf War = 걸프 전쟁
+  Hanging = 교수형
+  Iran = 이란
+  Iran–Iraq War = 이란-이라크 전쟁
+  Iraq = 이라크
+  Iraq Petroleum Company = 이라크 석유 회사
+  Iraq War = 이라크 전쟁
+  Kurds = 쿠르드족
+  Kuwait = 쿠웨이트
+  Muslims = 무슬림
+  Petroleum = 석유
+  Shia = 시아파
+  Shia Muslims = 시아파 무슬림
+  United Nations = 국제 연합
+  United States = 미국
+  crimes against humanity = 인도에 반한 죄
+  vice president = 부통령
+ENTRY:
+Iraqi politician and revolutionary who was the fifth president of [[Iraq]] from 1979 until his overthrow in 2003. As vice president he nationalized the Iraq Petroleum Company. He ordered the 1980 invasion of Iran, starting the [[Iran–Iraq War]], which ended in a ceasefire after nearly eight years. He occupied [[Kuwait]], initiating the [[Gulf War]] (1990–1991), in which a coalition led by the [[United States]] defeated Iraq, and the [[United Nations]] then imposed sanctions. He suppressed the 1991 uprisings of the [[Kurds]] and Shia Muslims. His rule was marked by human rights abuses, including an estimated 250,000 arbitrary deaths and disappearances. After the 2003 invasion he was captured, convicted of crimes against humanity and [[Hanging|hanged]] on December 30, 2006.
+
+=== KEY: Saddle_fcb1dc
+HEADWORD: Saddle = 안장
+LEVEL: 4
+GLOSSARY:
+  Camel = 낙타
+  China = 중국
+  Classical Era = 고전 시대
+  Han dynasty = 한나라
+  Ox = 소
+  Turpan = 투루판
+  Turpan basin = 투루판 분지
+  Xinjiang = 신장
+  girth = 복대
+  stirrup = 등자
+  tree = 안장틀
+ENTRY:
+Supportive structure for a rider or load, fastened to an animal's back by a girth. Most saddles are equestrian, but specialized saddles exist for [[Ox|oxen]], [[Camel|camels]] and other animals. The earliest known saddle, made of cushioned cowhide, was found in a woman's tomb in the Turpan basin of what is now [[Xinjiang]], [[China]], dating to 727–396 BC. The solid wooden tree, which distributes the rider's weight, emerged later, during the [[Han dynasty]]. The paired stirrup, attached to the tree, was the last element to reach its basic modern form. Saddles were a crucial step in the increased use of domesticated animals during the Classical Era.
+
+=== KEY: Sadness_b9197e
+HEADWORD: Sadness = 슬픔
+LEVEL: 3
+GLOSSARY:
+  Brain = 뇌
+  Cognitive behavioral therapy = 인지 행동 치료
+  Paul = 바울로
+  Paul Ekman = 폴 에크먼
+  Robin = 로빈
+  Robin Skynner = 로빈 스키너
+  Sadness = 슬픔
+  T. Berry Brazelton = T. 베리 브래즐턴
+  basic emotions = 기본 감정
+  caudate = 꼬리핵
+  clinical depression = 임상적 우울증
+  depression = 우울증
+  major depressive disorder = 주요 우울 장애
+  midbrain = 중뇌
+  persistent depressive disorder = 지속성 우울 장애
+  putamen = 조가비핵
+  temporal cortex = 측두 피질
+ENTRY:
+Emotional pain associated with feelings of loss, despair, grief, helplessness, disappointment, and sorrow.
+
+A person experiencing sadness may become quiet or lethargic and withdraw from others; crying can be an indication. Severe sadness is exemplified by depression, a mood that can result from major depressive disorder or persistent depressive disorder, though normal sadness is temporary and differs from clinical depression. Sadness is one of the six basic emotions described by Paul Ekman, along with happiness, anger, surprise, fear, and disgust.
+
+Functional theories hold that sadness serves two primary purposes in coping with loss. One is to promote cognitive changes that restructure beliefs and goals. The other is to signal a need for assistance and elicit support from others, and shared sadness may increase relationship building. Brain studies associate sadness with activity in the temporal cortex, midbrain, putamen, and caudate.
+
+In childhood, sadness is a common experience and part of separating from the mother and becoming independent. Robin Skynner argued that treating sadness as "not allowed" can leave people shallow and manic, and T. Berry Brazelton argued that too much cheering up devalues the emotion.
+
+Coping methods include seeking social support, spending time with a pet, and creating a list. Strategies such as ruminating or permanent isolation can prolong sadness. Cognitive behavioral therapy suggests challenging negative thoughts or scheduling positive events. Pupil size is also an indicator: sad faces with small pupils are judged more intensely sad, and viewers' own pupils shrink in response, a mirroring that predicts higher empathy scores.
+
+=== KEY: Sadomasochism_1c3a5e
+HEADWORD: Sadomasochism = 사도마조히즘
+LEVEL: 5
+GLOSSARY:
+  BDSM = BDSM
+  DSM-5 = DSM-5
+  Freud = 프로이트
+  Leopold = 레오폴트
+  Leopold von Sacher-Masoch = 레오폴트 폰 자허마조흐
+  Marquis de Sade = 사드 후작
+  Pain = 통증
+  Sigmund Freud = 지크문트 프로이트
+  masochism = 마조히즘
+  paraphilic disorder = 변태 성욕 장애
+  sadism = 사디즘
+ENTRY:
+Derivation of pleasure from inflicting or receiving [[Pain|pain]] or humiliation, known collectively as sadism and masochism or S&M. The terms are named after the [[Marquis de Sade]] and Leopold von Sacher-Masoch. Though not necessarily linked to sex, it is a defining feature of consensual [[BDSM]] relationships. [[Sigmund Freud]] described sadism and masochism in 1905 as stemming from aberrant psychological development in early childhood. The DSM-5 treats consensual adult kinky interests as non-pathological, reserving paraphilic disorder diagnoses for nonconsensual or harmful behavior.
+
+=== KEY: Safari_web_browser_f54fa8
+HEADWORD: Safari = 사파리
+LEVEL: 5
+GLOSSARY:
+  Apple Inc. = 애플
+  Artificial intelligence = 인공지능
+  Chrome = 크롬
+  Google = 구글
+  Google Chrome = 구글 크롬
+  Intelligent Tracking Prevention = 지능형 추적 방지
+  Internet = 인터넷
+  Internet Explorer = 인터넷 익스플로러
+  Internet Explorer for Mac = 맥용 인터넷 익스플로러
+  Mac OS X = Mac OS X
+  Mac OS X Panther = Mac OS X 팬서
+  OS X = OS X
+  Steve Jobs = 스티브 잡스
+  Web browser = 웹 브라우저
+  WebKit = 웹킷
+  iOS = iOS
+  iPadOS = iPadOS
+  iPhone = 아이폰
+  macOS = macOS
+  visionOS = visionOS
+ENTRY:
+[[Web browser]] developed by [[Apple Inc.|Apple]] and built into macOS, iOS, iPadOS and visionOS. It uses Apple's open-source WebKit engine and is the second most used browser in the world, after [[Google Chrome]]. Introduced in January 2003, it became the default browser on Mac OS X Panther later that year, replacing Internet Explorer for Mac. It has been included with the iPhone since 2007. [[Steve Jobs]] called it a turbo browser for Mac OS X. Safari 11 added Intelligent Tracking Prevention, which uses [[Artificial intelligence|artificial intelligence]] to block web tracking.
+
+=== KEY: Safavid_Iran_9f6753
+HEADWORD: Safavid Iran = 사파비 제국
+LEVEL: 5
+GLOSSARY:
+  Afghans = 아프간인
+  Armenia = 아르메니아
+  Azerbaijan = 아제르바이잔
+  Georgia = 조지아
+  Iran = 이란
+  Iraq = 이라크
+  Isfahan = 이스파한
+  Islam = 이슬람교
+  Ismail = 이스마일
+  Ismail I = 이스마일 1세
+  Safavid = 사파비 왕조
+  Safavid dynasty = 사파비 왕조
+  Safavids = 사파비 왕조
+  Shah = 샤
+  Shah Ismail I = 샤 이스마일 1세
+  Syria = 시리아
+  Turkey = 튀르키예
+  Twelver = 열두 이맘파
+  Twelver Shi'ism = 열두 이맘파
+ENTRY:
+Iranian empire, one of the largest and longest-lasting in the country's history, ruled by the [[Safavid dynasty]] from 1501 to 1736. Some historians date its fall to 1722, when [[Isfahan]] fell to the Afghans. [[Ismail I|Shah Ismail I]] made Twelver Shi'ism the official religion, a turning point in the history of Islam, and the empire is often considered the beginning of modern Iranian history. At its height it controlled present-day [[Iran]], [[Azerbaijan]] and [[Armenia]], eastern Georgia and Iraq, as well as parts of Turkey and Syria. The Safavids also patronized the arts, and their architecture remains a legacy.
+
+=== KEY: Safavid_dynasty_e440f4
+HEADWORD: Safavid dynasty = 사파비 왕조
+LEVEL: 4
+GLOSSARY:
+  Ali = 알리
+  Ardabil = 아르다빌
+  Azerbaijan = 아제르바이잔
+  Azerbaijan region = 아제르바이잔 지방
+  Imam = 이맘
+  Iran = 이란
+  Islam = 이슬람교
+  Ismail = 이스마일
+  Ismail I = 이스마일 1세
+  Persian = 페르시아어
+  Persian Empire = 페르시아 제국
+  Safavid = 사파비 왕조
+  Safavid Sufi order = 사파비 수피 교단
+  Safavids = 사파비 왕조
+  Sasanian Empire = 사산 제국
+  Shah = 샤
+  Shah Ismail I = 샤 이스마일 1세
+  Shi'a = 시아파
+  Sufi = 수피
+  Twelver = 열두 이맘파
+  Twelver Shi'a Islam = 열두 이맘파 시아 이슬람
+  fine arts = 순수 미술
+ENTRY:
+Ruling dynasty of [[Iran]] from 1501 to 1736, of Kurdish origin and both Persian- and Turkish-speaking. The dynasty arose from the Safavid Sufi order, based in Ardabil in the [[Azerbaijan]] region. Under [[Ismail I|Shah Ismail I]] it made Twelver Shi'a Islam the official religion of the Persian Empire, one of the most important turning points in the history of Islam. The Safavids were the first native dynasty since the [[Sasanian Empire]] to establish a national state officially known as Iran, and their rule is often considered the beginning of modern Iranian history. Their claim to legitimacy rested on descent from [[Ali]], regarded by the Shi'a as the first Imam. Although the dynasty ended in 1736, it revived Iran as an economic stronghold between East and West and left a legacy in architecture and the fine arts.
+
+=== KEY: Safety_6472ce
+HEADWORD: Safety = 안전
+LEVEL: 4
+GLOSSARY:
+  Dictionary = 사전
+  Engineering = 공학
+  English language = 영어
+  Latin = 라틴어
+  Oxford = 옥스퍼드
+  Oxford English Dictionary = 『옥스퍼드 영어 사전』
+  Safety = 안전
+  Safety engineering = 안전 공학
+  The Oxford English Dictionary = 『옥스퍼드 영어 사전』
+  salvus = 살부스
+ENTRY:
+State of being protected from harm or other danger. The word entered the [[English language]] in the 14th century, from Latin salvus, meaning uninjured or in good health. Safety can also refer to the control of recognized hazards to achieve an acceptable level of risk. There is no universally accepted definition: it may be described as the absence of risk and adverse incidents, or as the capacity to defend against adverse events and mitigate their effects. The [[Oxford English Dictionary]] defines it as "freedom from danger and risks." As an outcome, safety is an acceptable history of adverse events; as a target, it involves proactive planning to minimize risk; and as an ongoing process, it protects people, property and the environment when incidents occur. [[Engineering|Safety engineering]] applies scientific principles to identify and control dangers across the life of a system.
+
+=== KEY: Saffir_Simpson_scale_206326
+HEADWORD: Saffir–Simpson scale = 사피어-심프슨 등급
+LEVEL: 5
+GLOSSARY:
+  Category 5 = 5등급
+  Herbert Saffir = 허버트 사피어
+  International Date Line = 날짜 변경선
+  Pacific = 태평양
+  Robert Simpson = 로버트 심프슨
+  storm surge = 폭풍 해일
+  sustained winds = 지속 풍속
+ENTRY:
+Five-category scale that classifies hurricanes by their sustained winds. Developed in 1971 by engineer Herbert Saffir and meteorologist Robert Simpson, it was introduced to the public in 1973. A hurricane must have one-minute sustained winds of at least 74 mph (64 kn, 119 km/h), and Category 5 storms have winds of at least 157 mph (137 kn, 252 km/h). The scale measures wind only and does not account for rain or storm surge, a criticism its defenders answer by citing its simplicity. It applies officially to hurricanes in the Atlantic and northern Pacific east of the [[International Date Line]].
+
+=== KEY: Saffron_a645e8
+HEADWORD: Saffron = 사프란
+LEVEL: 4
+GLOSSARY:
+  Assyrian = 아시리아
+  Carotenoid = 카로티노이드
+  Crocus = 크로커스속
+  Crocus sativus = Crocus sativus
+  Dye = 염료
+  Eurasia = 유라시아
+  Iran = 이란
+  Khorasan = 호라산
+  Persian = 페르시아어
+  Persian cuisine = 페르시아 요리
+  Ritual = 의례
+  Saffron = 사프란
+  Spice = 향신료
+  Traditional medicine = 전통 의학
+  crocin = 크로신
+  picrocrocin = 피크로크로신
+  saffron crocus = 사프란크로커스
+  safranal = 사프라날
+  stigmas = 암술머리
+  styles = 암술대
+ENTRY:
+Spice made from the dried stigmas and styles of the autumn-blooming flower Crocus sativus, the saffron crocus. Saffron is used mainly as a food seasoning and [[Dye|colorant]]. Its taste and aroma come from the phytochemicals picrocrocin and safranal, and the [[Carotenoid|carotenoid]] pigment crocin gives dishes and textiles a golden-yellow hue. The crocus is sterile and cannot produce viable seeds, so humans have propagated it across much of [[Eurasia]]. It originated in the Khorasan region of northeastern [[Iran]], and its recorded history begins with a 7th-century BC Assyrian botanical treatise. Harvesting is labor-intensive, and premium saffron regularly exceeds US$5,000 per kilogram. Saffron is an essential ingredient in Persian cuisine and has also been used in [[Traditional medicine]], dyeing, perfumery and religious [[Ritual|rituals]].
+
+=== KEY: Saga_a51433
+HEADWORD: Saga = 사가
+LEVEL: 4
+GLOSSARY:
+  Christianity = 기독교
+  Epic poetry = 서사시
+  Heimskringla = 『헤임스크링글라』
+  Iceland = 아이슬란드
+  Icelandic = 아이슬란드어
+  Kings' sagas = 왕들의 사가
+  Latin = 라틴어
+  Middle Ages = 중세
+  Norse = 노르드인
+  Old Norse = 고대 노르드어
+  Prose = 산문
+  Scandinavia = 스칸디나비아
+  Scandinavian = 스칸디나비아
+  Snorri Sturluson = 스노리 스투를루손
+  Viking = 바이킹
+  alliterative = 두운
+  centuries = 센추리
+  chivalric romances = 기사 로맨스
+  conversion = 컨버전
+  sagas of Icelanders = 아이슬란드인의 사가
+  settlement of Iceland = 아이슬란드 정착
+ENTRY:
+Prose story or history composed in [[Iceland]] and, to a lesser extent, elsewhere in [[Scandinavia]]. Sagas originated in the [[Middle Ages]] and were written in the vernacular, Old Norse and its later descendants, primarily Icelandic, rather than in [[Latin]], the dominant language of medieval European history-writing. Their subjects range from pre-Christian Scandinavian legends and saints to Scandinavian kings, contemporary Icelandic politics and chivalric romances. The most famous type is the sagas of Icelanders, which feature Viking voyages, migration to Iceland and feuds between Icelandic families, usually set from the settlement of Iceland in the 870s to a generation or two after its conversion to Christianity in 1000. Kings' sagas, composed in the 12th to 14th centuries, chronicle the lives of Scandinavian kings; Heimskringla, probably compiled by [[Snorri Sturluson]], is a pre-eminent example. Though written in prose, sagas often include [[Epic poetry|verse]] in alliterative form.
+
+=== KEY: Sagittarius_A_0d8e36
+HEADWORD: Sagittarius A* = 궁수자리 A*
+LEVEL: 4
+GLOSSARY:
+  Andrea Ghez = 앤드리아 게즈
+  Brown = 브라운
+  Bruce Balick = 브루스 발릭
+  Earth = 지구
+  Event Horizon Telescope = 사건의 지평선 망원경
+  Event horizon = 사건의 지평선
+  Galactic Center = 은하 중심
+  Horizon = 지평선
+  Messier 87 = M87
+  Milky Way = 우리은하
+  Nobel Prize = 노벨상
+  Nobel Prize in Physics = 노벨 물리학상
+  Physics = 물리학
+  Reinhard Genzel = 라인하르트 겐첼
+  Robert L. Brown = 로버트 L. 브라운
+  S2 = S2
+  Solar mass = 태양 질량
+  Supermassive black hole = 초대질량 블랙홀
+  Telescope = 망원경
+  accretion disk = 강착 원반
+  black hole = 블랙홀
+  extinction = 소광
+  solar masses = 태양 질량
+ENTRY:
+[[Supermassive black hole]] at the [[Galactic Center]] of the [[Milky Way]], about 27,000 light-years from Earth. It was discovered in 1974 by Bruce Balick and Robert L. Brown, who identified it as a compact radio source. Observations of stars orbiting it, particularly the star S2, indicate a mass of 4.297±0.012 million [[Solar mass|solar masses]]. In May 2022 the Event Horizon Telescope released the first image of the accretion disk around its [[Event horizon]], the second confirmed image of a black hole after that of [[Messier 87]] in 2019. Its radio and infrared emissions come from gas and dust heated to millions of degrees as it falls in. Dust and gas block visible light, with 25 magnitudes of extinction. In 2020 Reinhard Genzel and Andrea Ghez each received a quarter-share of the Nobel Prize in Physics for showing that it is a supermassive compact object.
+
+=== KEY: Sagittarius_constellation_93a4b9
+HEADWORD: Sagittarius = 궁수자리
+LEVEL: 5
+GLOSSARY:
+  88 modern constellations = 88개 현대 별자리
+  Latin = 라틴어
+  Milky Way = 우리은하
+  Ophiuchus = 뱀주인자리
+  Ptolemy = 프톨레마이오스
+  Scorpius = 전갈자리
+  Zodiac = 황도 12궁
+  Zodiac constellation = 황도 별자리
+  asterism = 성군
+  centaur = 켄타우로스
+ENTRY:
+Zodiac constellation in the southern celestial hemisphere, whose name is Latin for archer. It lies between [[Scorpius]] and [[Ophiuchus]] and is one of the 48 constellations listed by the 2nd-century astronomer [[Ptolemy]] and one of the 88 modern constellations. It is commonly depicted as a centaur drawing a bow. The center of the [[Milky Way]] lies in its westernmost part. Its brightest stars form a teapot-shaped asterism, and the constellation is a prominent feature of the northern summer sky.
+
+=== KEY: Sagrada_Fam_lia_e6e264
+HEADWORD: Sagrada Família = 사그라다 파밀리아
+LEVEL: 4
+GLOSSARY:
+  Antoni Gaudí = 안토니 가우디
+  Art Nouveau = 아르 누보
+  Barcelona = 바르셀로나
+  Catholic = 가톨릭
+  Civil War = 남북 전쟁
+  Construction = 건설
+  Francisco de Paula del Villar = 프란시스코 데 파울라 델 비야르
+  Gothic = 고딕
+  Jesus = 예수
+  Jesus Christ = 예수 그리스도
+  Leo XIV = 레오 14세
+  Pope = 교황
+  Pope Leo XIV = 교황 레오 14세
+  Roman Catholic = 로마 가톨릭
+  Spain = 스페인
+  Spanish Civil War = 스페인 내전
+  Tower = 탑
+  Tower of Jesus Christ = 예수 그리스도의 탑
+  UNESCO = 유네스코
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  basilica = 바실리카
+  computer numerical control = 컴퓨터 수치 제어
+  computer-aided design = 컴퓨터 지원 설계
+  crypt = 지하 묘소
+ENTRY:
+Roman Catholic basilica under construction since 1882 in [[Barcelona]], Spain, designed by [[Antoni Gaudí]], who combined Gothic and curvilinear [[Art Nouveau]] forms. Construction began on March 19, 1882, under Francisco de Paula del Villar. In 1883 Gaudí took over as chief architect and devoted the rest of his life to the project; at his death in 1926 less than a quarter of it was complete. Relying solely on private donations, work was interrupted by the [[Spanish Civil War]] in 1936, when anarchists set fire to the crypt and partly destroyed Gaudí's original plans. Construction resumed in the 1950s, and computer-aided design and computer numerical control have since sped progress. The central Tower of Jesus Christ reached structural completion on February 20, 2026, and was blessed by Pope Leo XIV on June 10, 2026. At 172.5 m (566 ft), the tower makes the basilica the world's tallest church. Parts of the building were declared a [[World Heritage Site]] by [[UNESCO]] in 2005.
+
+=== KEY: Sahara_15fe3f
+HEADWORD: Sahara = 사하라 사막
+LEVEL: 3
+GLOSSARY:
+  Ahaggar = 아하가르 산지
+  Algeria = 알제리
+  Antarctica = 남극 대륙
+  Arabic = 아랍어
+  Arctic = 북극
+  Atlantic Ocean = 대서양
+  Aïr = 아이르 산지
+  Berbers = 베르베르인
+  Chad = 차드
+  Desert = 사막
+  Egypt = 이집트
+  Emi Koussi = 에미쿠시산
+  Köppen = 쾨펜
+  Köppen climate classification = 쾨펜의 기후 구분
+  Libya = 리비아
+  Libyan Desert = 리비아 사막
+  Mali = 말리
+  Mauritania = 모리타니
+  Mediterranean = 지중해
+  Mediterranean Sea = 지중해
+  Monsoon = 계절풍
+  Mountain = 산
+  Niger = 니제르
+  North Africa = 북아프리카
+  Nouakchott = 누악쇼트
+  Ocean = 대양
+  Red Sea = 홍해
+  Sahara = 사하라 사막
+  Sahel = 사헬
+  Sudan = 수단
+  Tibesti = 티베스티 산지
+  Timbuktu = 팀북투
+  Tuareg = 투아레그족
+  Western Sahara = 서사하라
+  ergs = 에르그
+  hamada = 하마다
+  nomadic pastoralists = 유목민
+  precession = 세차 운동
+  reg = 레그
+  shield volcano = 순상 화산
+  subtropical ridge = 아열대 고기압대
+  tropical savanna = 열대 사바나
+  wadi = 와디
+ENTRY:
+Largest hot desert in the world, spanning North Africa. With an area of 9,200,000 sq km, it is the third-largest desert overall, smaller only than the deserts of Antarctica and the northern Arctic. It extends from the [[Red Sea]] in the east and the [[Mediterranean Sea]] in the north to the [[Atlantic Ocean]] in the west, and is bounded on the south by the [[Sahel]], a belt of semi-arid tropical savanna. It covers large parts of Algeria, Chad, Egypt, Libya, Mali, Mauritania, Niger, Western Sahara, and Sudan.
+
+The terrain includes rocky plateaus (hamada), sand seas (ergs) with dunes rising over 180 m, gravel plains (reg), dry valleys (wadi), dry lakes, and salt flats. Mountain massifs, many volcanic, include the Aïr, Ahaggar, and Tibesti ranges; the highest peak is Emi Koussi, a shield volcano in northern Chad. Important towns include [[Nouakchott]] and [[Timbuktu]].
+
+The desert lies under the subtropical ridge, a belt of high pressure whose descending dry air prevents cloud formation and produces a hot desert climate ([[Köppen climate classification]] BWh). The Libyan Desert is the sunniest and driest part. For several hundred thousand years the region has alternated between desert and savanna in a 20,000-year cycle, driven by the precession of Earth's axis (about 26,000 years), which shifts the North African [[Monsoon|monsoon]].
+
+Population is sparse, estimated at around 2.5 million, mostly nomadic pastoralists such as the Tuareg and Berbers. The name derives from the Arabic *ṣaḥrā'*, "desert."

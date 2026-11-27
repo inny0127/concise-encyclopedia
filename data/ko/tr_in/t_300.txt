@@ -1,0 +1,981 @@
+=== KEY: Schleswig_Holstein_b20684
+HEADWORD: Schleswig-Holstein = 슐레스비히홀슈타인
+LEVEL: 5
+GLOSSARY:
+  Austria = 오스트리아
+  Canal = 운하
+  Danish = 덴마크어
+  Denmark = 덴마크
+  Duchy of Holstein = 홀슈타인 공국
+  Duchy of Schleswig = 슐레스비히 공국
+  Germany = 독일
+  Hamburg = 함부르크
+  Holstein = 홀스타인
+  Kiel = 킬
+  Kiel Canal = 킬 운하
+  North Schleswig = 북슐레스비히
+  Prussia = 프로이센
+  Schleswig = 슐레스비히
+  Schleswig-Holstein = 슐레스비히홀슈타인주
+  Schleswig-Holstein Question = 슐레스비히홀슈타인 문제
+  Second = 초
+  Second Schleswig War = 제2차 슐레스비히 전쟁
+ENTRY:
+Coastal state of northern Germany, the northernmost of its sixteen states, comprising most of the historical Duchy of Holstein and the southern part of the former Duchy of Schleswig. Its capital is Kiel, and it borders [[Denmark|Denmark]] and the city-state of [[Hamburg|Hamburg]]. The Danish king ruled both duchies from 1460, and the resulting dispute became known as the Schleswig-Holstein Question. Prussia and Austria won the Second Schleswig War in 1864, and Prussia absorbed the territory in 1867. Plebiscites in 1920 returned Danish-speaking North Schleswig to Denmark. Its economy includes shipbuilding and trade around the [[Kiel Canal|Kiel Canal]], fishing, and offshore wind energy.
+
+=== KEY: School_955cd8
+HEADWORD: School = 학교
+LEVEL: 3
+GLOSSARY:
+  Arabic = 아랍어
+  Canterbury = 캔터베리
+  China = 중국
+  Denmark-Norway = 덴마크-노르웨이
+  Education = 교육
+  Europe = 유럽
+  Greece = 그리스
+  India = 인도
+  Institution = 제도
+  Islamic world = 이슬람 세계
+  Latin = 라틴어
+  Middle Ages = 중세
+  Rome = 로마
+  School = 학교
+  University = 대학
+  Western Europe = 서유럽
+  ancient Greece = 고대 그리스
+  cathedral schools = 대성당 학교
+  early modern = 근세
+  early modern period = 근세
+  grammar school = 그래머 스쿨
+  gurukula = 구루쿨라
+  hawza = 하우자
+  higher education = 고등 교육
+  madrasa = 마드라사
+  scholē = 스콜레
+  yeshiva = 예시바
+ENTRY:
+Institution designed to provide learning environments for the teaching of students, usually under the direction of teachers. Most countries have formal [[Education|education]] systems, sometimes compulsory, in which students progress through government or private schools. These generally include primary school for young children and secondary school for teenagers; higher education is commonly taught at a [[University|university]] or college. Private schools may be religious, such as the gurukula (Hindu), madrasa (Arabic), hawza (Shi'i Muslim), and yeshiva (Jewish). Homeschooling and distance education take place outside the school building.
+
+The word derives from Greek *scholē*, originally "leisure." Formal schools have existed at least since ancient Greece, Rome, India, and China. In Western Europe cathedral schools were founded in the early Middle Ages to teach future clergy and administrators; the oldest still operating include The King's School, Canterbury (established AD 597). Universities emerged in the 12th century. During the [[Middle Ages]] and much of the early modern period, the main purpose of schools was to teach [[Latin]], giving rise to the term "grammar school." The curriculum gradually broadened to include vernacular literacy and technical, artistic, and scientific subjects. In the Islamic world, mosques at first combined worship and learning, but by the 9th century the madrasa, independent of any mosque, had appeared. Denmark-Norway introduced obligatory attendance in 1739–41.
+
+Proponents regard schools as effective means of education. Critics argue that they fail to prepare students for adult life, prescribe what students do and when, and, through grades and homework, inhibit natural curiosity and creativity. Compulsory attendance now lasts from 9 to 13 years in nearly all countries, yet approximately 250 million children remain out of school.
+
+=== KEY: Schr_dinger_equation_a4388a
+HEADWORD: Schrödinger equation = 슈뢰딩거 방정식
+LEVEL: 4
+GLOSSARY:
+  Dirac equation = 디랙 방정식
+  Erwin Schrödinger = 에르빈 슈뢰딩거
+  Louis de Broglie = 루이 드브로이
+  Newton's second law = 뉴턴의 운동 제2법칙
+  Partial differential equation = 편미분 방정식
+  Paul = 바울로
+  Paul Dirac = 폴 디랙
+  Richard = 리처드
+  Richard Feynman = 리처드 파인먼
+  Special relativity = 특수 상대성 이론
+  Wave function = 파동 함수
+  Werner Heisenberg = 베르너 하이젠베르크
+  bound states = 속박 상태
+  classical mechanics = 고전 역학
+  isolated system = 고립계
+  matrix mechanics = 행렬 역학
+  matter wave = 물질파
+  path integral formulation = 경로 적분 공식화
+  quantum mechanics = 양자역학
+  second law = 열역학 제2법칙
+  special relativity = 특수 상대성 이론
+  wave function = 파동 함수
+ENTRY:
+Partial differential equation governing the [[Wave function|wave function]] of a non-relativistic quantum-mechanical system. Austrian physicist [[Erwin Schrödinger]] postulated it in 1925 and published it in 1926. It is the quantum counterpart of Newton's second law in classical mechanics, giving the evolution over time of the wave function of an isolated system. Schrödinger built on [[Louis de Broglie]]'s proposal that all matter has an associated matter wave, and the equation predicted the bound states of the atom in agreement with experiment. Because it contains a first derivative in time and a second in space, it is non-relativistic. [[Paul Dirac]] later combined [[Special relativity|special relativity]] and quantum mechanics in the [[Dirac equation]]. Other formulations include matrix mechanics, introduced by [[Werner Heisenberg]], and the path integral formulation, developed chiefly by [[Richard Feynman]].
+
+=== KEY: Schr_dinger_s_cat_424d8b
+HEADWORD: Schrödinger's cat = 슈뢰딩거의 고양이
+LEVEL: 5
+GLOSSARY:
+  Albert = 앨버트
+  Albert Einstein = 알베르트 아인슈타인
+  Einstein = 아인슈타인
+  Erwin Schrödinger = 에르빈 슈뢰딩거
+  Niels Bohr = 닐스 보어
+  Quantum superposition = 양자 중첩
+  Thought experiment = 사고 실험
+  Werner Heisenberg = 베르너 하이젠베르크
+  measurement problem = 측정 문제
+  quantum mechanics = 양자역학
+ENTRY:
+Thought experiment in quantum mechanics devised by physicist [[Erwin Schrödinger]] in 1935, in discussion with [[Albert Einstein]]. A cat in a sealed box, linked to a random subatomic event, may be considered simultaneously alive and dead while unobserved. Schrödinger intended it to criticize the views of [[Niels Bohr]] and [[Werner Heisenberg]], which he saw as leading to absurd conclusions. It is often used to discuss the measurement problem, which asks when a [[Quantum superposition|superposition]] ends and reality resolves into one outcome. Superposition has been observed in very small objects, but a cat would pose considerable technical difficulties.
+
+=== KEY: Schutzstaffel_48a5a2
+HEADWORD: Schutzstaffel = 친위대
+LEVEL: 5
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Allgemeine SS = 일반 친위대
+  Death's Head units = 해골단
+  Europe = 유럽
+  Germany = 독일
+  Heinrich Himmler = 하인리히 힘러
+  Hitler = 히틀러
+  Holocaust = 홀로코스트
+  Jews = 유대인
+  Munich = 뮌헨
+  Nazi = 나치
+  Nazi Germany = 나치 독일
+  Nazi Party = 나치당
+  Nuremberg = 뉘른베르크
+  Nuremberg trials = 뉘른베르크 재판
+  Party = 파티
+  SS = 친위대
+  The Holocaust = 홀로코스트
+  Waffen-SS = 무장친위대
+  extermination camps = 절멸 수용소
+  the Holocaust = 홀로코스트
+ENTRY:
+Paramilitary organization under [[Adolf Hitler]] and the [[Nazi Party]] in Nazi Germany and German-occupied Europe. It began as a small guard unit in Munich. [[Heinrich Himmler]] joined in 1925 and directed it from 1929 to 1945, when it became the foremost agency of security and terror. Its Allgemeine SS enforced racial policy, and the Waffen-SS was its combat arm. Its Death's Head units ran the concentration and extermination camps, and the SS was most responsible for the genocide of an estimated 6 million Jews during the [[The Holocaust|Holocaust]]. The [[Nuremberg trials|Nuremberg tribunal]] later judged the SS and the Nazi Party to be criminal organizations.
+
+=== KEY: Schwarzschild_radius_e31828
+HEADWORD: Schwarzschild radius = 슈바르츠실트 반지름
+LEVEL: 5
+GLOSSARY:
+  Black hole = 블랙홀
+  Einstein field equations = 아인슈타인 장 방정식
+  German = 독일어
+  Gravitational constant = 중력 상수
+  Karl Schwarzschild = 카를 슈바르츠실트
+  Schwarzschild radius = 슈바르츠실트 반지름
+  Schwarzschild solution = 슈바르츠실트 해
+  Speed of light = 빛의 속도
+  black hole = 블랙홀
+  event horizon = 사건의 지평선
+  field equations = 장 방정식
+  gravitational constant = 중력 상수
+ENTRY:
+Parameter in the Schwarzschild solution to [[Einstein field equations|Einstein's field equations]] that corresponds to the radius of a black hole's event horizon, given by rₛ = 2GM/c², where G is the [[Gravitational constant|gravitational constant]], M the mass and c the [[Speed of light|speed of light]]. German astronomer Karl Schwarzschild calculated the solution in 1916. Every mass has a Schwarzschild radius, which is proportional to the mass. The Sun's is about 3.0 km (1.9 mi), Earth's about 9 mm (0.35 in) and the Moon's about 0.1 mm (0.004 in). An object whose radius is smaller than its Schwarzschild radius is a [[Black hole|black hole]].
+
+=== KEY: Sciatica_175018
+HEADWORD: Sciatica = 좌골 신경통
+LEVEL: 5
+GLOSSARY:
+  Pain = 통증
+  Pregnancy = 임신
+  Surgery = 수술
+  piriformis syndrome = 이상근 증후군
+  sacral nerve root = 천골 신경근
+  spinal disc herniation = 추간판 탈출증
+  spinal stenosis = 척추관 협착증
+  spondylolisthesis = 척추 전방 전위증
+ENTRY:
+Pain going down the leg from the lower back. About 90% of cases are due to a spinal disc herniation pressing on a lumbar or sacral nerve root. Other causes include spondylolisthesis, spinal stenosis, piriformis syndrome, pelvic tumors and [[Pregnancy|pregnancy]]. Imaging is usually unnecessary unless bowel or bladder function is affected. In about 90% of cases, symptoms resolve in less than six weeks. Initial treatment is usually pain medication, although evidence for its effectiveness is lacking. If severe pain lasts more than six weeks, [[Surgery|surgery]] may be an option, but its long-term benefits are unclear.
+
+=== KEY: Science_35bf12
+HEADWORD: Science = 과학
+LEVEL: 1
+GLOSSARY:
+  Anglo-Norman = 앵글로노르만어
+  Applied sciences = 응용 과학
+  Arabic = 아랍어
+  Arabic numeral = 아라비아 숫자
+  Bronze = 청동
+  Bronze Age = 청동기 시대
+  Democritus = 데모크리토스
+  Egypt = 이집트
+  Europe = 유럽
+  Golden Age of India = 인도의 황금시대
+  Hippocrates = 히포크라테스
+  India = 인도
+  Islamic Golden Age = 이슬람 황금기
+  Latin = 라틴어
+  Leucippus = 레우키포스
+  Logic = 논리학
+  Mesopotamia = 메소포타미아
+  Mesopotamians = 메소포타미아인
+  Milesian school = 밀레토스학파
+  Miletus = 밀레투스
+  Natural philosophy = 자연철학
+  Natural science = 자연과학
+  Nobel Prize = 노벨상
+  Renaissance = 르네상스
+  Science = 『사이언스』
+  Scientific Revolution = 과학 혁명
+  Scientific method = 과학적 방법
+  Social science = 사회 과학
+  Thales = 탈레스
+  Thales of Miletus = 밀레토스의 탈레스
+  Western Europe = 서유럽
+  William = 윌리엄
+  William Whewell = 윌리엄 휴얼
+  classical antiquity = 고전 고대
+  formal sciences = 형식 과학
+  natural philosophy = 자연 철학
+  preregistration = 사전 등록
+  replication crisis = 재현성 위기
+  scientia = 스키엔티아
+  scientific method = 과학적 방법
+ENTRY:
+Systematic discipline that builds and organizes knowledge in the form of testable explanations about nature and society. It is driven by the [[Scientific method|scientific method]], an empirical cycle that typically involves making observations, producing hypotheses, testing them with evidence, and drawing conclusions. Science encompasses both this process and the body of knowledge it produces, which the scientific community continuously challenges, validates, and organizes.
+
+Modern science is typically divided into two major branches: the [[Natural science|natural sciences]], which study the physical world, and the [[Social science|social sciences]], which study individuals and societies. Logic, mathematics, and theoretical computer science, sometimes called the formal sciences, are typically regarded as separate because they rely on deductive reasoning rather than the scientific method. Applied sciences, such as engineering and medicine, use scientific knowledge for practical purposes.
+
+The word has been used in English since the 14th century in the sense of "the state of knowing," borrowed from Anglo-Norman and ultimately from Latin *scientia*, 'knowledge, awareness, understanding.' Scientists were once called "natural philosophers"; in 1834 William Whewell introduced the term *scientist*, crediting it to "some ingenious gentleman," possibly himself.
+
+Science has no single origin; scientific thinking emerged gradually over tens of thousands of years. Direct evidence becomes clearer with the writing systems of the Bronze Age civilizations of Egypt and Mesopotamia (c. 3000–1200 BC), whose contributions to mathematics, astronomy, and medicine later entered Greek and medieval science. The Egyptians developed a non-positional decimal numbering system, used geometry, and devised a calendar. The Mesopotamians used knowledge of natural chemicals to manufacture pottery, glass, soap, and metals.
+
+In classical antiquity there was no real analogue of the modern scientist; educated, usually upper-class men investigated nature as time allowed. The Milesian school, founded by [[Thales of Miletus]], first attempted to explain natural phenomena without relying on the supernatural. Leucippus and his student Democritus developed the theory of atoms, and Hippocrates established the tradition of systematic medical science. Greek [[Natural philosophy|natural philosophy]] was later advanced during the [[Islamic Golden Age]], which, with the Golden Age of India, contributed the Hindu–Arabic numeral system.
+
+The recovery of Greek works and Islamic inquiries in Western Europe during the Renaissance revived natural philosophy, which the [[Scientific Revolution]], beginning in the 16th century, transformed. In the 19th century the institutional and professional features of science took shape, and "natural philosophy" gave way to "natural science." Contemporary research is often collaborative, carried out in universities, research institutions, government agencies, and companies, though major advances are also credited to individuals and recognized through awards such as the [[Nobel Prize]]. The replication crisis, in which results in fields such as psychology and biomedicine have repeatedly failed to reproduce, has prompted calls for preregistration and open data.
+
+=== KEY: Science_fiction_0e1852
+HEADWORD: Science fiction = 과학 소설
+LEVEL: 4
+GLOSSARY:
+  Cyberpunk = 사이버펑크
+  Frankenstein = 『프랑켄슈타인』
+  Genre = 장르
+  H. G. Wells = H. G. 웰스
+  Jules Verne = 쥘 베른
+  Mary Shelley = 메리 셸리
+  Space exploration = 우주 탐사
+  Technology = 기술
+  extraterrestrial life = 외계 생명체
+  hard science fiction = 하드 SF
+  information technology = 정보 기술
+  parallel universes = 평행 우주
+  pulp magazines = 펄프 잡지
+  science fiction = 과학 소설
+  space opera = 스페이스 오페라
+  speculative fiction = 사변 소설
+  transhumanism = 트랜스휴머니즘
+ENTRY:
+Genre of speculative fiction that imagines advanced and futuristic changes in [[Technology|technology]], scientific knowledge or biological systems. Its common elements have grown from [[Space exploration|space exploration]], extraterrestrial life and time travel to parallel universes, dystopian societies, information technology and transhumanism. Subgenres include hard science fiction, which emphasizes scientific accuracy, space opera, and [[Cyberpunk|cyberpunk]], which explores the interface between technology and society. Precedents are claimed from antiquity, but the modern genre arose in the 19th and early 20th centuries. [[Mary Shelley]]'s *Frankenstein*, written in 1818, is often credited as the first true science fiction novel. [[Jules Verne]] and [[H. G. Wells]] were pivotal figures. The Golden Age of the 20th century added space operas, dystopian literature and pulp magazines. The genre has also influenced film and television, and it can criticize present-day society while inspiring a sense of wonder.
+
+=== KEY: Science_journal_f3071c
+HEADWORD: Science = 사이언스
+LEVEL: 4
+GLOSSARY:
+  Academic journal = 학술지
+  Albert = 앨버트
+  Albert Einstein = 알베르트 아인슈타인
+  Alexander Graham Bell = 알렉산더 그레이엄 벨
+  Bell = 종
+  Cambridge = 케임브리지
+  Columbia = 컬럼비아
+  District of Columbia = 컬럼비아 특별구
+  Edison = 에디슨
+  Edwin Hubble = 에드윈 허블
+  Einstein = 아인슈타인
+  England = 잉글랜드
+  Hubble = 허블
+  John = 존
+  John Michels = 존 마이클스
+  Nature = 『네이처』
+  Science = 『사이언스』
+  Thomas = 토머스
+  Thomas Edison = 토머스 에디슨
+  gravitational lensing = 중력 렌즈 효과
+  impact factor = 영향력 지수
+  peer-reviewed = 동료 심사
+  spiral nebulae = 나선 성운
+ENTRY:
+Weekly peer-reviewed [[Academic journal|academic journal]] of the American Association for the Advancement of Science (AAAS), first published in 1880. Based in the District of Columbia, with a second office in Cambridge, England, it has a subscriber base of around 130,000 and an estimated readership of over 400,000. Unlike most scientific journals, *Science* and its rival *Nature* cover the full range of scientific disciplines. Its 2024 impact factor was 45.8, and fewer than 7% of submitted articles are accepted. It was founded by John Michels with financial support from [[Thomas Edison]] and [[Alexander Graham Bell]], and ended publication in March 1882. It became the journal of the AAAS in 1900. Early papers included work by [[Albert Einstein]] on gravitational lensing and by [[Edwin Hubble]] on spiral nebulae.
+
+=== KEY: Scientific_American_cb1da7
+HEADWORD: Scientific American = 사이언티픽 아메리칸
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Einstein = 알베르트 아인슈타인
+  Einstein = 아인슈타인
+  LabX Media Group = 랩엑스 미디어 그룹
+  Laura Helmuth = 로라 헬무스
+  Media = 메디아
+  Nature = 『네이처』
+  Nikola Tesla = 니콜라 테슬라
+  Nobel Prize = 노벨상
+  Rufus = 루퍼스
+  Rufus Porter = 루퍼스 포터
+  Springer Nature = 슈프링거 네이처
+  Tesla = 테슬라
+  United States = 미국
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+American popular science magazine, the oldest continuously published magazine in the United States. It was founded in 1845 by inventor and publisher Rufus Porter as a four-page weekly newspaper, and its early issues reported on patents and inventions. Scientists including [[Albert Einstein]] and [[Nikola Tesla]] once contributed articles, and more than 150 [[Nobel Prize]] winners have been featured since its inception. It became a monthly in 1921. After World War II it was revived in 1948 by three partners who bought its assets. Under editor in chief Laura Helmuth, hired in 2020, it shifted toward politics. Owned by Springer Nature until June 2026, it was sold that month to LabX Media Group.
+
+=== KEY: Scientific_Revolution_70305a
+HEADWORD: Scientific Revolution = 과학 혁명
+LEVEL: 3
+GLOSSARY:
+  Academy of Sciences = 과학 아카데미
+  Andreas Vesalius = 안드레아스 베살리우스
+  Arabic = 아랍어
+  Bacon = 베이컨
+  Copernicus = 코페르니쿠스
+  David = 「다비드」
+  David Wootton = 데이비드 우튼
+  De Revolutionibus = 『천구의 회전에 관하여』
+  De humani corporis fabrica = 『인체의 구조에 관하여』
+  Europe = 유럽
+  Francis = 프랑수아
+  Francis Bacon = 프랜시스 베이컨
+  French = 프랑스어
+  French Academy of Sciences = 프랑스 과학 아카데미
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Herbert Butterfield = 허버트 버터필드
+  High Middle Ages = 중세 성기
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Kepler = 케플러
+  Kepler's laws = 케플러 법칙
+  Kepler's laws of planetary motion = 케플러의 행성 운동 법칙
+  Latin = 라틴어
+  Micrographia = 『마이크로그라피아』
+  Middle Ages = 중세
+  Neolithic = 신석기 시대
+  Neolithic Revolution = 신석기 혁명
+  New Science = 신과학
+  Newton = 뉴턴
+  Nicolaus Copernicus = 니콜라우스 코페르니쿠스
+  Origins of Modern Science = 『근대 과학의 기원』
+  Philosophical Transactions = 『철학 회보』
+  Philosophiæ Naturalis Principia Mathematica = 『자연철학의 수학적 원리』
+  Principia = 『프린키피아』
+  Royal Society = 왕립 학회
+  Royal Society of London = 런던 왕립 학회
+  Science = 『사이언스』
+  Society = 사회
+  Tycho Brahe = 튀코 브라헤
+  Vesalius = 베살리우스
+  heliocentrism = 지동설
+  laws of planetary motion = 행성 운동 법칙
+  natural philosophy = 자연 철학
+  supernova = 초신성
+ENTRY:
+Emergence of modern science in Europe during the 16th and 17th centuries. It was an irreversible break with the natural philosophy that preceded it. The "New Science" departed from Greek conceptions and traditions, was more mechanistic in its worldview and more integrated with mathematics, and focused on acquiring and interpreting new evidence.
+
+The period is frequently said to have begun in 1543 with the printing of *De humani corporis fabrica* by [[Andreas Vesalius]] and *De Revolutionibus* by [[Nicolaus Copernicus]]; other historians propose 1572, when [[Tycho Brahe]] observed a supernova. It is said to have culminated in 1687 with [[Isaac Newton]]'s *Philosophiæ Naturalis Principia Mathematica*. Johannes Kepler's laws of planetary motion, Robert Hooke's *Micrographia* (1665), the founding of the Royal Society of London (1660) and the French Academy of Sciences (1666), and the launch of *Philosophical Transactions* (1665), the first scientific journal, belong to the same period.
+
+Much of the change in attitude is credited to [[Galileo Galilei]], whose telescopic observations provided persuasive evidence for heliocentrism and who developed the science of motion, and to [[Francis Bacon]], whose announcement of scientific progress inspired societies such as the Royal Society.
+
+The revolution built on earlier learning: translations from Greek and Arabic into Latin, begun in the 10th century and accelerating in the 12th and 13th, together with the medieval university, supplied its foundation. Copernicus, Galileo, Kepler, and Newton all studied at universities founded in the High Middle Ages.
+
+The term was popularized by the historian Herbert Butterfield in *Origins of Modern Science*. David Wootton calls the period the most important transformation in human history since the Neolithic Revolution.
+
+=== KEY: Scientific_law_727bad
+HEADWORD: Scientific law = 과학 법칙
+LEVEL: 4
+GLOSSARY:
+  Hooke's law = 훅 법칙
+  Newton's law of universal gravitation = 뉴턴의 만유인력 법칙
+  Ohm's law = 옴의 법칙
+  Theory = 이론
+  conservation of energy = 에너지 보존
+  elastic limit = 탄성 한계
+  law of conservation of energy = 에너지 보존 법칙
+ENTRY:
+Statement based on repeated experiments or observations that describes or predicts a range of natural phenomena. Laws are developed from data, are often expressed mathematically, and are directly or indirectly based on empirical evidence. Unlike a [[Theory|scientific theory]], a law does not posit a mechanism; it summarizes results within a certain range of application. [[Ohm's law]] applies only to linear networks, [[Newton's law of universal gravitation|Newton's law of gravitation]] only in weak gravitational fields, and [[Hooke's law]] only to strain below the elastic limit. Many laws take equation form, such as the law of conservation of energy, written ΔE = 0. Laws may be contradicted, restricted or extended by future observations. They differ from hypotheses, which have not been verified to the same degree.
+
+=== KEY: Scientific_method_fb3b59
+HEADWORD: Scientific method = 과학적 방법
+LEVEL: 3
+GLOSSARY:
+  Against Method = 『방법에 반대한다』
+  Al-Biruni = 알비루니
+  Alhazen = 알하젠
+  Aristotle = 아리스토텔레스
+  Avicenna = 이븐 시나
+  Bacon = 베이컨
+  Descartes = 데카르트
+  Empiricism = 경험론
+  Epicurus = 에피쿠로스
+  Experiment = 실험
+  Francis = 프랑수아
+  Francis Bacon = 프랜시스 베이컨
+  Hypothesis = 가설
+  Ibn al-Haytham = 이븐 알하이삼
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Karl Popper = 카를 포퍼
+  Newton = 뉴턴
+  Ockham = 오컴
+  Paul = 바울로
+  Paul Feyerabend = 파울 파이어아벤트
+  René Descartes = 르네 데카르트
+  Robert Hooke = 로버트 훅
+  Roger Bacon = 로저 베이컨
+  Scientific Revolution = 과학 혁명
+  Stoics = 스토아학파
+  There Is No Scientific Method = 「과학적 방법은 없다」
+  Thomas = 토머스
+  Thomas Kuhn = 토머스 쿤
+  William = 윌리엄
+  William of Ockham = 오컴의 윌리엄
+  falsifiable = 반증 가능
+  hypothesis testing = 가설 검정
+  inductive reasoning = 귀납적 추론
+  inductivism = 귀납주의
+  pseudoscience = 유사 과학
+  scientific method = 과학적 방법
+ENTRY:
+Empirical method of acquiring knowledge through careful observation, skepticism, hypothesis testing, and experimental validation. Developed from ancient and medieval practices, it acknowledges that cognitive assumptions can distort the interpretation of observations. It has characterized science since at least the 17th century.
+
+Inquiry typically involves forming a testable [[Hypothesis|hypothesis]] through inductive reasoning, predicting its consequences, testing it through [[Experiment|experiments]] and statistical analysis, and adjusting or discarding it according to the results. A hypothesis must be falsifiable: some possible outcome must conflict with its predictions. Although often presented as a fixed sequence of steps, the method is better described as a set of general principles; not all steps occur in every inquiry or in the same order, and chance has played a role in some discoveries.
+
+Early expressions of [[Empiricism|empiricism]] appear with the ancient Stoics, Aristotle, Epicurus, [[Ibn al-Haytham|Alhazen]], Avicenna, Al-Biruni, Roger Bacon, and William of Ockham. During the [[Scientific Revolution]], [[Francis Bacon]] and Robert Hooke furthered empiricism, [[René Descartes]] described a rationalist approach, and inductivism rose to prominence through Isaac Newton and his followers. The term "scientific method" emerged in the 19th century, as institutional development of science and words such as "scientist" and "pseudoscience" drew boundaries between science and non-science.
+
+By the 1960s and 1970s, philosophers of science such as Thomas Kuhn and Paul Feyerabend had questioned its universality, favoring a view of science as a heterogeneous and local practice. In *Against Method* (1975), Feyerabend argued against any universal rules of science; Karl Popper and others disagreed. Lee Smolin's 2013 essay "There Is No Scientific Method" and Daniel Thurs's 2015 chapter, which called it a myth or at best an idealization, show that the debate continues.
+
+=== KEY: Scientific_modelling_20a8c7
+HEADWORD: Scientific modeling = 과학적 모델링
+LEVEL: 4
+GLOSSARY:
+  Abstraction = 추상화
+  John = 존
+  John von Neumann = 존 폰 노이만
+ENTRY:
+Activity of producing models of empirical objects, phenomena and physical processes, to make part of the world easier to understand, quantify, visualize or simulate. It requires selecting the relevant features of a real situation and building a model that replicates them. Conceptual, operational, mathematical, computational and graphical models serve different purposes. Models are typically used when direct experimental measurement is impossible or impractical, although direct measurement under controlled conditions is more reliable. [[John von Neumann]] wrote that the sciences mainly make models, justified if they are expected to describe phenomena from a reasonably wide area. A model is task-driven, leaving out details unimportant to the task and [[Abstraction|abstracting]] others. Scientific debate often concerns which model is better for a given task, such as seasonal climate forecasting.
+
+=== KEY: Scientific_notation_81aa2e
+HEADWORD: Scientific notation = 과학적 표기법
+LEVEL: 4
+GLOSSARY:
+  Calculator = 계산기
+  E notation = E 표기법
+  Engineering = 공학
+  Engineering notation = 공학적 표기법
+  SI = 국제단위계
+  SI prefixes = SI 접두어
+  United Kingdom = 영국
+  decimal floating point = 십진 부동소수점
+  normalized form = 정규화 형식
+  standard form = 표준형
+ENTRY:
+Way of expressing numbers too large or too small to write conveniently in decimal form, as a coefficient multiplied by a power of ten. In normalized form, the coefficient is usually between 1 and 10 in absolute value and the exponent is an integer, so 350 is written as 3.5 × 10². It is also called scientific form, or standard form in the United Kingdom. Scientists, mathematicians and engineers use it widely, partly because it simplifies arithmetic and comparison of magnitudes. Engineering notation restricts the exponent to multiples of three to match SI prefixes, so 12.5 × 10⁻⁹ m can be written as 12.5 nm. [[Calculator|Calculators]] and computer programs typically display it in E notation, and decimal floating point is closely related.
+
+=== KEY: Scientific_theory_a7e813
+HEADWORD: Scientific theory = 과학 이론
+LEVEL: 4
+GLOSSARY:
+  Fact = 사실
+  Plate tectonics = 판 구조론
+  Scientific law = 과학 법칙
+  Scientific method = 과학적 방법
+  heliocentric theory = 지동설
+  plate tectonics = 판 구조론
+  scientific method = 과학적 방법
+ENTRY:
+Explanation of an aspect of the natural world that has been repeatedly tested and corroborated in accordance with the [[Scientific method|scientific method]]. A theory connects and explains multiple observations, and it is expected to make predictions that further observations could confirm or refute. A [[Fact|fact]] is a single observation, while a theory differs from a [[Scientific law|law]], which describes a relationship without explaining it. In everyday speech a theory can mean an unsubstantiated guess, but in science it usually refers to a well-tested explanation. A theory's strength depends on the diversity of phenomena it explains and its simplicity, and it may be modified or rejected if it cannot fit new findings. Some, such as evolution, heliocentric theory and [[Plate tectonics|plate tectonics]], are so well established that they are unlikely to change fundamentally. Hypotheses are said to be supported rather than proven.
+
+=== KEY: Scientology_34154e
+HEADWORD: Scientology = 사이언톨로지
+LEVEL: 5
+GLOSSARY:
+  Belief = 믿음
+  Church = 처치
+  Church of Scientology = 사이언톨로지교
+  Clear = 클리어
+  Cult = 컬트
+  Dianetics = 다이어네틱스
+  L. Ron Hubbard = L. 론 허버드
+  Operating Thetan = 오퍼레이팅 세이탄
+  Religion = 종교
+  Scientology = 사이언톨로지
+  auditing = 오디팅
+  talk therapy = 대화 치료
+ENTRY:
+Belief system and practices created by American author [[L. Ron Hubbard|L. Ron Hubbard]]. Hubbard presented his ideas in 1950 as a talk therapy called Dianetics, later reframed them as a religion, and in 1953 founded the Church of Scientology. A core belief is that traumatic events leave subconscious recordings that can be relieved only through auditing, for which fees are charged. Advancement through levels such as Clear and Operating Thetan is structured. By one 2014 estimate the church had around 30,000 members. It has been described variously as a [[Religion|religion]], a [[Cult|cult]], a business and a scam.
+
+=== KEY: Scipio_Africanus_c998c4
+HEADWORD: Scipio Africanus = 스키피오 아프리카누스
+LEVEL: 4
+GLOSSARY:
+  Africanus = 아프리카누스
+  Antiochus III = 안티오코스 3세
+  Battle of Cannae = 칸나이 전투
+  Cannae = 칸나이
+  Carthage = 카르타고
+  Cato the Elder = 대카토
+  Hannibal = 한니발
+  Hispania = 히스파니아
+  Iberian Peninsula = 이베리아반도
+  Ilipa = 일리파
+  Liternum = 리테르눔
+  Rome = 로마
+  Second = 초
+  Second Punic War = 제2차 포에니 전쟁
+  Seleucid = 셀레우코스 왕조
+  Zama = 자마
+  consul = 집정관
+  patrician = 파트리키
+ENTRY:
+Roman general and statesman, one of the main architects of Rome's victory over Carthage in the Second Punic War. Born into a patrician family, he survived the Roman defeat at [[Battle of Cannae|Cannae]] in 216 BC. In 210 BC, although he had never held consular office, he was elected to command Rome's forces in [[Iberian Peninsula|Hispania]], where he won at Ilipa in 206 BC. Elected consul in 205 BC, he invaded Carthage's African homeland, compelling Carthage to recall [[Hannibal]]. His victory over Hannibal at Zama in 202 BC ended the war and earned him the epithet Africanus, meaning "the African". Despite his triumphs he had many political opponents, notably [[Cato the Elder]]. In 187 BC he and his brother faced trials for bribes allegedly received from the Seleucid king Antiochus III, after which he left Rome for his villa at Liternum.
+
+=== KEY: Scissors_282041
+HEADWORD: Scissors = 가위
+LEVEL: 4
+GLOSSARY:
+  Bone = 뼈
+  Europe = 유럽
+  Hangzhou = 항저우
+  Hangzhou Zhang Xiaoquan Company = 항저우 장샤오취안
+  Meat = 고기
+  Spring (device) = 용수철
+  Tendon = 힘줄
+  Tissue (biology) = 조직
+  Tool = 도구
+  shears = 큰 가위
+ENTRY:
+Hand-operated cutting [[Tool|tool]] made of two pivoting blades whose sharpened edges slide past each other when the handles are squeezed. Scissors cut thin materials such as paper, cardboard, cloth, rope and wire. Heavy-duty scissors for tough materials are usually called shears, and larger two-handed implements are called trimmers. The right type matters: hair-cutting shears have blade angles suited to heaped bundles of hair, while kitchen shears are designed for tough foods such as [[Meat|meat]], [[Tendon|tendon]] and [[Bone|bone]]. Surgical scissors divide [[Tissue (biology)|tissue]] and trim implants. Most have ringed handles, and some have a [[Spring (device)|spring]] between the blades to assist opening. Pivoted scissors became common in northwest Europe during the 13th and 14th centuries, and the Hangzhou Zhang Xiaoquan Company has made them since 1663.
+
+=== KEY: Scoliosis_885ec0
+HEADWORD: Scoliosis = 척추 측만증
+LEVEL: 5
+GLOSSARY:
+  Cerebral palsy = 뇌성 마비
+  Puberty = 사춘기
+  X-ray = 엑스선
+  X-rays = 엑스선
+  coronal plane = 관상면
+ENTRY:
+Medical condition in which the spine has an irregular, usually S- or C-shaped curve in the coronal plane, often with rotation. Mild curves rarely cause problems, but severe cases can affect breathing and movement. The cause is usually unknown, with genetic and environmental factors believed to contribute. It often appears during growth spurts before [[Puberty|puberty]] and can also result from [[Cerebral palsy|cerebral palsy]]. Diagnosis is confirmed with [[X-ray|X-rays]]. Minor curves are watched, while bracing, exercise or surgery may be used. It occurs in about 3% of people, most commonly between ages ten and twenty, and affects females more severely, at a ratio of 4:1.
+
+=== KEY: Scooby_Doo_627acf
+HEADWORD: Scooby-Doo = 스쿠비 두
+LEVEL: 5
+GLOSSARY:
+  ABC = ABC
+  Animation = 애니메이션
+  CBS = CBS
+  Cartoon Network = 카툰 네트워크
+  Great Dane = 그레이트데인
+  Hanna-Barbera = 해나-바베라
+  Joe Ruby = 조 루비
+  Ken Spears = 켄 스피어스
+  Kids' WB = 키즈 WB
+  Machine = 기계
+  Mystery Machine = 미스터리 머신
+  Network = 「네트워크」
+  Ruby = 루비
+  TV Guide = 『TV 가이드』
+  The CW = CW
+  The WB = 더 WB
+  Warner Bros. Animation = 워너 브라더스 애니메이션
+ENTRY:
+American media franchise created in 1969 by Joe Ruby and Ken Spears for [[Hanna-Barbera]], with the animated series *Scooby-Doo, Where Are You!* It follows four teenagers and their talking Great Dane, who solve mysteries involving supposedly supernatural creatures while traveling in a van called the Mystery Machine. The original series aired on [[CBS|CBS]] from 1969 to 1976, then on ABC. Later reboots appeared on [[Cartoon Network|Cartoon Network]], and two aired on Kids' WB on The WB and its successor [[The CW|The CW]]. Hanna-Barbera was absorbed into Warner Bros. Animation in 2001. In 2013, TV Guide ranked the series the fifth-greatest TV cartoon of all time.
+
+=== KEY: Scopolamine_77013c
+HEADWORD: Scopolamine = 스코폴라민
+LEVEL: 5
+GLOSSARY:
+  Anesthesia = 마취
+  Glaucoma = 녹내장
+  Solanaceae = 가지과
+  Surgery = 수술
+  Tropane alkaloid = 트로판 알칼로이드
+  angle-closure glaucoma = 폐쇄각 녹내장
+  bowel obstruction = 장폐색
+  deliriants = 섬망 유발제
+  hyoscine = 히오신
+  motion sickness = 멀미
+  muscarinic antagonist = 무스카린 수용체 길항제
+  nightshade = 가지과 식물
+ENTRY:
+Tropane alkaloid and muscarinic antagonist, also known as hyoscine, used to treat motion sickness and postoperative nausea and vomiting. It is sometimes given before [[Surgery|surgery]] to reduce saliva. When injected, its effects begin after about 20 minutes and last up to eight hours. It is the main active component of certain [[Solanaceae|nightshade]] plants, which have been used as deliriants, since higher doses cause hallucinations. Scopolamine was first described in 1881 and came into use for [[Anesthesia|anesthesia]] around 1900. It is not recommended in people with angle-closure [[Glaucoma|glaucoma]] or bowel obstruction.
+
+=== KEY: Scorpaeniformes_da669c
+HEADWORD: Scorpaeniformes = 쏨뱅이목
+LEVEL: 4
+GLOSSARY:
+  Actinopterygii = 조기어강
+  Lionfish = 쏠배감펭
+  Scorpaenoidei = 쏨뱅이아목
+  bony fishes = 경골어류
+  preoperculum = 전새개골
+  ray-finned fishes = 조기어류
+  scorpionfishes = 쏨뱅이류
+  sculpins = 둑중개류
+  sea robins = 성대류
+  skilfish = 스킬피시
+  stonefish = 스톤피시
+ENTRY:
+Diverse order of [[Actinopterygii|ray-finned fishes]], including the stonefish, [[Lionfish|lionfish]] and sculpins, with over 1,320 species, making it one of the five largest orders of bony fishes. They are known as mail-cheeked fishes because a bony suborbital stay extends across the cheek to the preoperculum. Most are carnivorous bottom-dwellers in shallow water that feed on crustaceans and smaller fish, although some live in deep or fresh water. Most species are under 30 cm (12 in) long, but the skilfish can reach 183 cm (6.00 ft). Classification is unsettled, with accounts ranging from 26 to 35 families. The suborder Scorpaenoidei includes the sea robins and the scorpionfishes, which, according to Minouri Ishida's 1994 work and recent studies, have twelve families.
+
+=== KEY: Scorpion_5d0f52
+HEADWORD: Scorpion = 전갈
+LEVEL: 4
+GLOSSARY:
+  Antarctica = 남극 대륙
+  Arachnid = 거미강
+  Insect = 곤충
+  Invertebrate = 무척추동물
+  Silurian = 실루리아기
+  Ultraviolet = 자외선
+  exoskeletons = 외골격
+ENTRY:
+Predatory [[Arachnid|arachnid]] order with eight legs, a pair of grasping pincers and a narrow, segmented tail ending in a stinger. Scorpions have existed since the [[Silurian|Silurian]] Period, about 430 million years ago, and live on every continent except [[Antarctica|Antarctica]]. Most inhabit deserts, although they have adapted to a wide range of environments. Over 2,500 species are described, in 22 living families. They mainly prey on [[Insect|insects]] and other [[Invertebrate|invertebrates]], restraining prey with their pincers and killing it with venom, though some species hunt vertebrates. All known species give live birth, and mothers carry their young on their backs. Their exoskeletons contain fluorescent chemicals that glow under [[Ultraviolet|ultraviolet]] light. About 25 species have venom capable of killing a human.
+
+=== KEY: Scorpions_band_28595b
+HEADWORD: Scorpions = 스코피언스
+LEVEL: 5
+GLOSSARY:
+  Berlin Wall = 베를린 장벽
+  Eastern Europe = 동유럽
+  Europe = 유럽
+  Fall of the Berlin Wall = 베를린 장벽 붕괴
+  Francis = 프랑수아
+  Francis Buchholz = 프랜시스 부흐홀츠
+  German = 독일어
+  Hanover = 하노버
+  Herman Rarebell = 헤르만 라레벨
+  Klaus Meine = 클라우스 마이네
+  Matthias Jabs = 마티아스 얍스
+  Rudolf = 루돌프
+  Rudolf Schenker = 루돌프 솅커
+  Wall = 벽
+  Wind = 바람
+  Wind of Change = 「윈드 오브 체인지」
+  hard rock = 하드 록
+  heavy metal = 헤비메탈
+ENTRY:
+German hard rock and heavy metal band formed in [[Hanover]] in 1965 by guitarist Rudolf Schenker. Its best-known line-up, from 1978 to 1992, included vocalist Klaus Meine, lead guitarist Matthias Jabs, bassist Francis Buchholz and drummer Herman Rarebell. The band is estimated to have sold more than 100 million records. Its single "Wind of Change" became a symbol of the political changes in Eastern Europe and the [[Fall of the Berlin Wall|fall of the Berlin Wall]], and has sold over 14 million copies. The Scorpions became the first heavy metal band from a non-English-speaking country to achieve international success.
+
+=== KEY: Scorpius_cade02
+HEADWORD: Scorpius = 전갈자리
+LEVEL: 5
+GLOSSARY:
+  Antares = 안타레스
+  Libra = 천칭자리
+  Mars = 화성
+  Messier 4 = 메시에 4
+  Messier 80 = 메시에 80
+  Milky Way = 우리은하
+  Nova = 신성
+  Orion = 오리온
+  Ptolemy = 프톨레마이오스
+  Sagittarius = 궁수자리
+  Sagittarius (constellation) = 궁수자리
+  U Scorpii = 전갈자리 U
+  Zodiac = 황도 12궁
+  Zodiac constellation = 황도 별자리
+  globular clusters = 구상 성단
+ENTRY:
+Zodiac constellation in the southern celestial hemisphere, between Libra to the west and [[Sagittarius (constellation)|Sagittarius]] to the east. It sits near the center of the [[Milky Way|Milky Way]], and its recognition predates Greek culture. It is one of the 48 constellations identified by [[Ptolemy|Ptolemy]] in the second century. Its bright stars include [[Antares|Antares]], a reddish star known as "rival of Mars". Messier 4 and Messier 80 are among its globular clusters, and U Scorpii is the fastest known [[Nova|nova]]. In classical myth, the giant scorpion and its enemy Orion became constellations on opposite sides of the sky.
+
+=== KEY: Scotland_da5dd6
+HEADWORD: Scotland = 스코틀랜드
+LEVEL: 4
+GLOSSARY:
+  Atlantic Ocean = 대서양
+  Ben Nevis = 벤네비스산
+  British Isles = 브리튼 제도
+  Edinburgh = 에든버러
+  England = 잉글랜드
+  Glasgow = 글래스고
+  Great Britain = 그레이트브리튼섬
+  Hebrides = 헤브리디스 제도
+  Highlands = 하일랜드
+  Kingdom of Great Britain = 그레이트브리튼 왕국
+  Kingdom of Scotland = 스코틀랜드 왕국
+  Nevis = 네비스섬
+  North Sea = 북해
+  Ocean = 대양
+  Parliament = 의회
+  Scotland = 스코틀랜드
+  Scottish = 스코틀랜드
+  Scottish Gaelic = 스코틀랜드 게일어
+  Scottish Parliament = 스코틀랜드 의회
+  United Kingdom = 영국
+  constituent country = 구성국
+ENTRY:
+Northern constituent country of the [[United Kingdom]] (pop., 2022: 5,436,600). It occupies the northern part of the island of Great Britain and adjacent islands. Its capital is [[Edinburgh]], and Glasgow is the largest city. Scotland borders England to the south, with the Atlantic Ocean to the north and west and the North Sea to the east. The Highlands contain [[Ben Nevis]], at 4,413 feet (1,345 m) the highest peak in the British Isles. The Kingdom of Scotland emerged as a sovereign state in the 9th century and remained independent until 1707, when it united with England to form the [[Kingdom of Great Britain]]. A Scottish Parliament was re-established in 1999 and holds authority over many domestic policies. [[Scottish Gaelic]] is largely spoken in the Hebrides, and its speakers make up less than 2% of the population.
+
+=== KEY: Scots_language_49d52f
+HEADWORD: Scots language = 스코트어
+LEVEL: 5
+GLOSSARY:
+  Early Middle English = 초기 중세 영어
+  English language = 영어
+  Germanic language = 게르만어
+  Lowlands = 로랜드
+  Middle English = 중세 영어
+  Modern English = 현대 영어
+  Northern Isles = 노던 제도
+  Scotland = 스코틀랜드
+  Scots = 스코트어
+  UNESCO = 유네스코
+  Ulster = 얼스터
+  West Germanic = 서게르만어
+ENTRY:
+West Germanic language descended from Early Middle English and closely related to [[Modern English]]. It is an official language of [[Scotland]] and is listed by [[UNESCO]] as a vulnerable language. In the 2022 census, 1,508,540 people in Scotland aged three and over reported being able to speak Scots. It is spoken mainly in the Lowlands, the Northern Isles and northern [[Ulster]]. Scholars disagree whether Scots is a dialect of [[English language|English]] or a separate language.
+
+=== KEY: Scott_Joplin_3b88ee
+HEADWORD: Joplin, Scott = 조플린, 스콧
+LEVEL: 4
+GLOSSARY:
+  Academy Award = 아카데미상
+  City = 도시
+  Classical music = 클래식 음악
+  King of Ragtime = 래그타임의 왕
+  Leaf = 잎
+  Maple = 단풍나무
+  Maple Leaf = 메이플 리프
+  Maple Leaf Rag = 「메이플 리프 래그」
+  Missouri = 미주리주
+  New York City = 뉴욕
+  Pulitzer Prize = 퓰리처상
+  Ragtime = 래그타임
+  Sedalia = 세데일리아
+  St. Louis = 세인트루이스
+  Syphilis = 매독
+  The Sting = 「스팅」
+  Treemonisha = 『트리모니샤』
+  York = 요크
+  neurosyphilis = 신경 매독
+ENTRY:
+American composer and pianist, dubbed the "King of Ragtime." He composed more than 40 ragtime pieces, one ragtime ballet and two operas. His "Maple Leaf Rag" (1899) became the genre's first and most influential hit, selling nearly 500,000 copies over the following decade. Joplin considered [[Ragtime|ragtime]] a form of [[Classical music|classical music]] meant for concert halls. He moved to Sedalia, [[Missouri]], in 1894 and later to St. Louis and New York City. In 1916 he descended into dementia from [[Syphilis|neurosyphilis]]. His music revived in the early 1970s, helped by the Academy Award–winning film *The Sting* (1973), and in 1976 he was posthumously awarded a [[Pulitzer Prize]] for his opera *Treemonisha*.
+
+=== KEY: Scottish_Gaelic_349067
+HEADWORD: Scottish Gaelic = 스코틀랜드 게일어
+LEVEL: 5
+GLOSSARY:
+  Canada = 캐나다
+  Canadian = 캐나다
+  Canadian Gaelic = 캐나다 게일어
+  Celtic language = 켈트어
+  Gaels = 게일족
+  Irish = 아일랜드어
+  Irish language = 아일랜드어
+  Manx = 맨어
+  Nova = 신성
+  Nova Scotia = 노바스코샤주
+  Old Irish = 고대 아일랜드어
+  Scotland = 스코틀랜드
+  Scots = 스코트어
+  Scots language = 스코트어
+  Scottish = 스코틀랜드
+  Scottish Languages Act 2025 = 2025년 스코틀랜드 언어법
+ENTRY:
+Celtic language native to the Gaels of [[Scotland]], developed from Old Irish and related to [[Irish language|Irish]] and Manx. It became a distinct spoken language in the 13th century. The 2022 census recorded 130,161 people with some skills in Gaelic, of whom 69,701 reported speaking it. A dialect known as Canadian Gaelic has been spoken in [[Canada]] since the 18th century, with a concentration of speakers in [[Nova Scotia]]. The Scottish Languages Act 2025 made Gaelic, alongside [[Scots language|Scots]], an official language of Scotland.
+
+=== KEY: Scottish_Highlands_7b1b77
+HEADWORD: Scottish Highlands = 스코틀랜드 하일랜드
+LEVEL: 5
+GLOSSARY:
+  Ben Nevis = 벤네비스산
+  British Isles = 브리튼 제도
+  Emigration = 이주
+  Gaels = 게일족
+  Highlands = 하일랜드
+  Highlands and Islands = 하일랜드 앤드 아일랜즈
+  Nevis = 네비스섬
+  Scotland = 스코틀랜드
+  Scots = 스코트어
+  Scots pine = 구주소나무
+  Scottish = 스코틀랜드
+  Scottish Gaelic = 스코틀랜드 게일어
+  boreal forest = 북방림
+ENTRY:
+Historical region of northern [[Scotland]] containing [[Ben Nevis]], the highest mountain in the [[British Isles]]. Its [[Scottish Gaelic]] name, a' Ghàidhealtachd, means "the place of the Gaels." The population density of the Highlands and Islands was 9.1 per sq km (24 per sq mi) in 2012. Emigration exceeded natural population increase for about 160 years from c. 1841. The region has the only boreal forest biome in the British Isles, with concentrated populations of Scots pine.
+
+=== KEY: Scouting_e272fa
+HEADWORD: Scouting = 스카우트 운동
+LEVEL: 4
+GLOSSARY:
+  Brownsea Island = 브라운시섬
+  Camping = 캠핑
+  Fleur-de-lis = 플뢰르드리스
+  Guides = 가이드
+  Hiking = 하이킹
+  Robert Baden-Powell = 로버트 베이든파월
+  Scout method = 스카우트 방식
+  Scouting = 스카우트 운동
+  Scouting for Boys = 『소년을 위한 스카우트 활동』
+  Uniform = 제복
+  Youth = 『청년 시절』
+  informal education = 무형식 교육
+  merit badges = 기능장
+  trefoil = 트레포일
+  woodcraft = 우드크래프트
+ENTRY:
+Youth movement popularly established in the first decade of the 20th century, following the Scout method of informal education through outdoor activities such as [[Camping|camping]], woodcraft, aquatics, [[Hiking|hiking]] and sports. A widely recognized characteristic is the Scout [[Uniform|uniform]], which by intent hides differences of social standing and encourages equality. Distinctive insignia include the [[Fleur-de-lis]] and merit badges. Girls-only organizations, whose members are often called Guides, use a trefoil instead. The original program was for youths aged 11 to 17, and younger and older programs also exist. In 2019, over 55 million Scouts and Guides were in at least 155 countries. Robert Baden-Powell tested his ideas at an experimental camp on Brownsea Island in 1907 and published *Scouting for Boys* in 1908.
+
+=== KEY: Scrabble_779338
+HEADWORD: Scrabble = 스크래블
+LEVEL: 4
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred Mosher Butts = 앨프리드 모셔 버츠
+  Board game = 보드게임
+  Canada = 캐나다
+  Criss-Crosswords = 크리스크로스워즈
+  Dictionary = 사전
+  Hasbro = 해즈브로
+  James = 야고보
+  James Brunot = 제임스 브루노
+  Mattel = 마텔
+  Selchow and Righter = 셀초 앤드 라이터
+  United States = 미국
+ENTRY:
+Crossword-style [[Board game|board game]] for two to four players, who score points by placing letter tiles on a 15×15 grid to form words listed in a standard [[Dictionary|dictionary]]. American architect Alfred Mosher Butts invented it in 1931 as Criss-Crosswords. James Brunot bought the manufacturing rights in 1948, renamed the game Scrabble and licensed it to Selchow and Righter in 1952. About 150 million sets have been sold worldwide, and there are approximately 4,000 Scrabble clubs around the world. An English-language set contains 100 tiles, 98 of them lettered with point values from 1 to 10. Hasbro produces the game in the United States and Canada, and Mattel manufactures it elsewhere.
+
+=== KEY: Scramble_for_Africa_ec24c2
+HEADWORD: Scramble for Africa = 아프리카 분할
+LEVEL: 3
+GLOSSARY:
+  Algeria = 알제리
+  Angola = 앙골라
+  Belgium = 벨기에
+  Berlin Conference = 베를린 회의
+  Cape = 케이프
+  Cape Colony = 케이프 식민지
+  Cold War = 냉전
+  Congo Basin = 콩고 분지
+  Ethiopia = 에티오피아
+  France = 프랑스
+  Germany = 독일
+  Hobson = 홉슨
+  Imperialism = 제국주의
+  India = 인도
+  Industrial Revolution = 산업 혁명
+  Italy = 이탈리아
+  John = 존
+  John A. Hobson = 존 A. 홉슨
+  Leopold = 레오폴트
+  Leopold II of Belgium = 레오폴드 2세
+  Liberia = 라이베리아
+  Long Depression = 장기 불황
+  Mozambique = 모잠비크
+  New Imperialism = 신제국주의
+  Organisation of African Unity = 아프리카 통일 기구
+  Otto von Bismarck = 오토 폰 비스마르크
+  Portugal = 포르투갈
+  Quinine = 퀴닌
+  Second = 초
+  Second Industrial Revolution = 제2차 산업 혁명
+  Seven = 「세븐」
+  Spain = 스페인
+  United Kingdom = 영국
+  United States = 미국
+  Unity = 유니티
+  William = 윌리엄
+  William Easterly = 윌리엄 이스털리
+  direct rule = 직접 통치
+  effective occupation = 실효적 점유
+  informal imperialism = 비공식 제국주의
+  palm oil = 팜유
+  raw materials = 원자재
+ENTRY:
+European invasion, conquest, and colonization of most of Africa in the late 19th and early 20th centuries. Seven Western European powers (Belgium, France, Germany, Italy, Portugal, Spain, and the United Kingdom) contended for territory, driven by the [[Second Industrial Revolution]] and the era of "[[New Imperialism]]". The period saw a shift from "informal imperialism", meaning military influence and economic dominance, to direct rule.
+
+As late as the 1870s Europeans controlled approximately 10% of the continent, all of it near the coasts; the main holdings were Angola and Mozambique (Portugal), the Cape Colony (United Kingdom), and Algeria (France). Steamships, railways, and telegraphs aided expansion, and [[Quinine|quinine]] made much of the tropics more accessible. By 1914 only [[Ethiopia]], later occupied by Italy in 1936, and [[Liberia]], which had strong connections with the United States, remained outside European control.
+
+Motives were economic, strategic, and political. Africa offered open markets during the Long Depression (1873–1896) and raw materials such as ivory, rubber, palm oil, cocoa, diamonds, tea, and tin. Britain wanted stopover ports on the route to India. John A. Hobson tied the era to shrinking continental markets, while William Easterly disputes a close link between capitalism and imperialism.
+
+The Berlin Conference of 1884–1885, convened by [[Otto von Bismarck]] after claims in the Congo Basin by [[Leopold II of Belgium]], regulated colonization, requiring "effective occupation", and excluded African representatives. Most colonies gained independence during the [[Cold War]]; in 1964 the Organisation of African Unity chose to keep colonial borders, fearing civil wars and regional instability.
+
+=== KEY: Screw_5fd1a1
+HEADWORD: Screw = 나사
+LEVEL: 4
+GLOSSARY:
+  Archytas of Tarentum = 타렌툼의 아르키타스
+  Europe = 유럽
+  Fastener = 체결구
+  Greece = 그리스
+  Left-hand threads = 왼나사
+  Mesopotamia = 메소포타미아
+  Metal = 금속
+  Neo-Assyrian = 신아시리아
+  Neo-Assyrian period = 신아시리아 시대
+  Renaissance = 르네상스
+  Screw mechanism = 나사 장치
+  Tarentum = 타렌툼
+  machine tools = 공작 기계
+  right-hand thread = 오른나사
+  screwdriver = 드라이버
+  simple machines = 단순 기계
+  torque = 토크
+ENTRY:
+Externally threaded [[Fastener|fastener]] tightened or loosened by torque applied to its head. Most screws hold objects together, and the head usually has a slot or other feature that takes a tool such as a screwdriver. Most screws have a right-hand thread. Left-hand threads are used where counterclockwise torque would loosen a right-hand screw, as on the left pedal of a bicycle. The screw first appeared in Mesopotamia during the Neo-Assyrian period (911–609 BC), and Archytas of Tarentum (428–350 BC) described it in Greece. Metal screws were rare in Europe before the 15th century and became common only after machine tools for mass production developed toward the end of the 18th century. The [[Screw mechanism|screw mechanism]] is one of the six classical simple machines defined by Renaissance scientists.
+
+=== KEY: Screw_mechanism_2d52a1
+HEADWORD: Screw mechanism = 나사 장치
+LEVEL: 4
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Archimedes = 아르키메데스
+  Archimedes' screw = 아르키메데스의 스크루
+  Egypt = 이집트
+  Fastener = 체결구
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Inclined plane = 빗면
+  Le Meccaniche = 『기계학』
+  Mechanics = 역학
+  Screw = 나사
+  Simple machine = 단순 기계
+  inclined plane = 빗면
+  mechanical advantage = 기계적 이득
+  pitch = 피치
+  screw jacks = 나사 잭
+  screw presses = 나사 압착기
+  simple machines = 단순 기계
+  torque = 토크
+  vises = 바이스
+ENTRY:
+Mechanism that converts rotational motion and torque into linear motion and force, one of the six classical [[Simple machine|simple machines]]. Geometrically, a screw is a narrow [[Inclined plane|inclined plane]] wrapped around a cylinder. A smaller pitch gives greater mechanical advantage. Screw mechanisms are used in threaded [[Fastener|fasteners]], screw jacks, vises and screw presses. The [[Archimedes' screw|Archimedes' screw]] is a water pump with a rotating helical chamber. The water screw was first used in [[Ancient Egypt]], before [[Archimedes]] described his pump around 234 BC. In 1600, [[Galileo Galilei]] worked out the complete dynamic theory of simple machines in *Le Meccaniche* ("On Mechanics").
+
+=== KEY: Scroll_105078
+HEADWORD: Scroll = 두루마리
+LEVEL: 4
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Bamboo = 대나무
+  Codex = 코덱스
+  Egypt = 이집트
+  Israelites = 이스라엘인
+  Julius Caesar = 율리우스 카이사르
+  Paper = 종이
+  Papyrus = 파피루스
+  Parchment = 양피지
+  whirlwind book = 선풍장
+ENTRY:
+Roll of [[Papyrus|papyrus]], [[Parchment|parchment]] or [[Paper|paper]] containing writing, also called a roll. Scrolls were the first form of editable record keeping, used in [[Ancient Egypt]]. Text was written in lines from top to bottom, and the scroll was unrolled one page at a time. Parchment scrolls were used by the [[Israelites]] before the [[Codex|codex]], a folded bound book, became popular around the 1st century AD. Scrolls were more highly regarded than codices until well into Roman times. A Chinese "whirlwind book" consisted of several sheets of paper bound at the top with [[Bamboo|bamboo]] and rolled up. A legend credits [[Julius Caesar]] with folding scrolls into codex form, but the surviving passage is unclear.
+
+=== KEY: Scrotum_cf2763
+HEADWORD: Scrotum = 음낭
+LEVEL: 5
+GLOSSARY:
+  Mammal = 포유류
+  Penis = 음경
+  Puberty = 사춘기
+  Pubic hair = 음모
+  Testicle = 고환
+  Testosterone = 테스토스테론
+  epididymides = 부고환
+  labia majora = 대음순
+  labioscrotal folds = 음순음낭 주름
+  pubic hair = 음모
+  vasa deferentia = 정관
+ENTRY:
+External male genitalia of most terrestrial [[Mammal|mammals]], a sac of skin at the base of the [[Penis|penis]]. It contains the [[Testicle|testicles]], epididymides and vasa deferentia, and usually tightens in cold temperatures. The scrotum regulates the temperature of the testicles and maintains it at 35 °C (95 °F). [[Testosterone]] masculinizes the labioscrotal folds into the scrotum during development. At [[Puberty|puberty]], it darkens the scrotal skin and promotes [[Pubic hair|pubic hair]]. The scrotum is homologous to the labia majora in females.
+
+=== KEY: Scuderia_Ferrari_f16bf0
+HEADWORD: Scuderia Ferrari = 스쿠데리아 페라리
+LEVEL: 5
+GLOSSARY:
+  Alfa Romeo = 알파 로메오
+  Constructors' Championships = 컨스트럭터 챔피언십
+  Drivers' Championships = 드라이버 챔피언십
+  Enzo Ferrari = 엔초 페라리
+  Ferrari = 페라리
+  Formula One = 포뮬러 원
+  Horse = 말
+  Italian Grand Prix = 이탈리아 그랑프리
+  Michael Schumacher = 미하엘 슈마허
+  Monza = 몬차
+  Prancing Horse = 도약하는 말
+  World = 세계
+ENTRY:
+Racing division of the Italian automaker [[Ferrari]] and its [[Formula One]] team, known as the "Prancing Horse." Founded by [[Enzo Ferrari]] in 1929 to race Alfa Romeo cars, it is the oldest surviving Formula One team and has competed in every World Championship since 1950. It holds the records for 16 Constructors' Championships and 15 Drivers' Championships, the latter won by nine drivers. [[Michael Schumacher]] won five consecutive drivers' titles from 2000 to 2004. The Italian Grand Prix at Monza is regarded as the team's home race.

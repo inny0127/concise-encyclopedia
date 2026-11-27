@@ -1,0 +1,877 @@
+=== KEY: IMDb_27b269
+HEADWORD: IMDb = IMDb
+LEVEL: 5
+GLOSSARY:
+  Amazon (company) = 아마존
+  Database = 데이터베이스
+  Internet = 인터넷
+  Internet Movie Database = 인터넷 무비 데이터베이스
+  The Shawshank Redemption = 「쇼생크 탈출」
+  Top 250 = 톱 250
+ENTRY:
+Online database of information on films, television series, video games and streaming content. Entries include cast and crew, plot summaries, trivia, ratings and reviews. As of September 2025 it contained some 25.9 million titles and 14.8 million person records, and it ranked as the 40th most visited website in the world. Its Top 250 list is based on ratings from regular registered voters, and *The Shawshank Redemption* has been the highest-ranked film since 2008. Known originally as the Internet Movie Database, it has been owned by [[Amazon (company)|Amazon]] since 1998.
+
+=== KEY: IOS_ba3f2a
+HEADWORD: iOS = iOS
+LEVEL: 5
+GLOSSARY:
+  Android = 안드로이드
+  Android (operating system) = 안드로이드
+  App Store = 앱 스토어
+  Apple Inc. = 애플
+  FreeBSD = FreeBSD
+  IPhone = 아이폰
+  Mach = 마하
+  Mach microkernel = 마크 마이크로커널
+  Unix-like = 유닉스 계열
+  iPadOS = iPadOS
+  iPhone OS = 아이폰 OS
+  macOS = macOS
+  tvOS = tvOS
+  watchOS = watchOS
+ENTRY:
+Mobile operating system developed by [[Apple Inc.|Apple]] for the [[IPhone|iPhone]] line. Launched in June 2007 as iPhone OS, it is the basis of iPadOS, tvOS and watchOS. It is the world's second most widely installed mobile operating system after [[Android (operating system)|Android]]. Based on macOS, it is a Unix-like system with components of the Mach microkernel and FreeBSD, though most of it is proprietary. The App Store contained more than 3.8 million iOS apps as of December 2023.
+
+=== KEY: IP_address_75ba8d
+HEADWORD: IP address = IP 주소
+LEVEL: 5
+GLOSSARY:
+  Authority = 권위
+  Canada = 캐나다
+  European Union = 유럽 연합
+  IANA = IANA
+  IPv4 = IPv4
+  IPv6 = IPv6
+  Internet = 인터넷
+  Internet Assigned Numbers Authority = 인터넷 할당 번호 관리 기관
+  Internet Protocol = 인터넷 프로토콜
+  Numbers = 「민수기」
+  regional Internet registries = 지역 인터넷 레지스트리
+ENTRY:
+Numerical label assigned to a device on a computer network that uses the [[Internet Protocol]]. IP addresses serve two functions: identifying a network interface and giving the device's location so that a path can be established. [[IPv4]] addresses are 32-bit numbers in use since 1983. Their shortage led to the designated successor, [[IPv6]], which uses 128-bit addresses. Addresses are allocated through the Internet Assigned Numbers Authority (IANA) and five regional Internet registries, and network administrators assign them to devices statically or dynamically. Some jurisdictions, such as [[Canada]] and the [[European Union]], consider IP addresses personal data.
+
+=== KEY: IPad_b19240
+HEADWORD: iPad = 아이패드
+LEVEL: 5
+GLOSSARY:
+  Apple Inc. = 애플
+  IOS = iOS
+  Mini = 미니
+  iPad Air = 아이패드 에어
+  iPad Mini = 아이패드 미니
+  iPad Pro = 아이패드 프로
+  iPadOS = iPadOS
+  user interface = 사용자 인터페이스
+ENTRY:
+Line of tablet computers developed and marketed by [[Apple Inc.|Apple]] since 2010. The first-generation iPad was introduced on January 27, 2010. The line has since expanded to the smaller iPad Mini, the lighter iPad Air and the flagship iPad Pro. The original device ran a variant of [[IOS|iOS]], and since September 2019 iPads have used iPadOS, a fork with a user interface tailored to larger screens. Over 670 million iPads had been sold as of 2022, making Apple the largest vendor of tablet computers. The iPad is used in business, education and healthcare.
+
+=== KEY: IPhone_4136df
+HEADWORD: iPhone = 아이폰
+LEVEL: 4
+GLOSSARY:
+  Android = 안드로이드
+  Android (operating system) = 안드로이드
+  Apple Inc. = 애플
+  Face ID = 페이스 ID
+  IOS = iOS
+  Retina displays = 레티나 디스플레이
+  Steve Jobs = 스티브 잡스
+  Touch ID = 터치 ID
+  iPhone 5s = 아이폰 5s
+  iPhone X = 아이폰 X
+  multi-touch = 멀티터치
+  slate smartphone = 바형 스마트폰
+ENTRY:
+Line of smartphones developed and marketed by [[Apple Inc.|Apple]] since 2007. [[Steve Jobs]] announced the first-generation iPhone on January 9, 2007, and it launched on June 29, 2007, at US$499. It was the first mobile phone to use multi-touch technology and is credited with popularizing the slate smartphone form factor and a large market for smartphone apps. Its operating system is [[IOS|iOS]], one of the two major smartphone platforms alongside [[Android (operating system)|Android]]. Later models added Retina displays, video recording and waterproofing. Touch ID fingerprint sensors appeared with the iPhone 5s, and from the iPhone X onward Face ID replaced Touch ID for authentication. More than three billion iPhones had been sold as of July 2025, and Apple has been the largest mobile phone vendor since 2023.
+
+=== KEY: IPod_11025a
+HEADWORD: iPod = 아이팟
+LEVEL: 5
+GLOSSARY:
+  Apple Inc. = 애플
+  ITunes = 아이튠즈
+  Macintosh = 매킨토시
+ENTRY:
+Line of portable media players by [[Apple Inc.|Apple]], sold from 2001 to 2022. The first iPod was released on November 10, 2001, about ten months after the Macintosh version of [[ITunes|iTunes]]. Apple sold an estimated 450 million iPods. Apple discontinued the line on May 10, 2022, and it was the longest-running product Apple had discontinued, with a lifespan of over 20 years. During the middle of 2010, iPhone sales overtook those of the iPod.
+
+=== KEY: IPv4_42a913
+HEADWORD: IPv4 = IPv4
+LEVEL: 5
+GLOSSARY:
+  ARPANET = 아르파넷
+  Control = 「Control」
+  IANA = IANA
+  IPv4 = IPv4
+  IPv6 = IPv6
+  Internet = 인터넷
+  Internet Protocol = 인터넷 프로토콜
+  Transmission Control Protocol = 전송 제어 프로토콜
+  best-effort delivery = 최선형 전달
+  connectionless = 비연결형
+ENTRY:
+First standalone specification of the [[Internet Protocol]], still used to carry much of the Internet's traffic. It was first deployed on the [[ARPANET]] in January 1983 and uses 32-bit addresses, giving 4,294,967,296 unique values. IPv4 is connectionless and offers best-effort delivery, so reliability is handled by protocols such as the [[Transmission Control Protocol]]. As the Internet grew the pool of addresses ran short, and on February 3, 2011, IANA allocated the last five blocks in its free pool. Its successor is [[IPv6]], which uses 128-bit addresses.
+
+=== KEY: IPv6_fdb7cb
+HEADWORD: IPv6 = IPv6
+LEVEL: 5
+GLOSSARY:
+  Engineering = 공학
+  Force = 힘
+  Hexadecimal = 십육진법
+  IPv4 = IPv4
+  IPv6 = IPv6
+  Internet = 인터넷
+  Internet Engineering Task Force = 국제 인터넷 표준화 기구
+  Internet Protocol = 인터넷 프로토콜
+  Internet Standard = 인터넷 표준
+  Standard = 스탠더드
+  anycast = 애니캐스트
+  multicast = 멀티캐스트
+  unicast = 유니캐스트
+ENTRY:
+Most recent version of the [[Internet Protocol]], developed by the Internet Engineering Task Force to overcome [[IPv4]] address exhaustion. IPv6 uses 128-bit addresses, giving 2¹²⁸ (approximately 3.4×10³⁸) possible values. Addresses are written as eight groups of four [[Hexadecimal|hexadecimal]] digits separated by colons. IPv6 is not backwards-compatible with IPv4, although transition mechanisms allow the two to coexist. It supports unicast, anycast and multicast transmission but has no broadcast addresses. It became an Internet Standard on July 14, 2017.
+
+=== KEY: ISBN_9609dd
+HEADWORD: ISBN = 국제 표준 도서 번호
+LEVEL: 5
+GLOSSARY:
+  Book = 책
+  ISBN = 국제 표준 도서 번호
+  ISO 2108 = ISO 2108
+  ISSN = 국제 표준 연속 간행물 번호
+  International ISBN Agency = 국제 ISBN 기구
+  Number = 수
+  Standard = 스탠더드
+  Standard Book Number = 표준 도서 번호
+ENTRY:
+International Standard Book Number, a numeric commercial identifier for [[Book|books]]. Publishers obtain ISBNs from an affiliate of the International ISBN Agency. A different ISBN is assigned to each edition or variation, such as an e-book and a paperback, but an unchanged reprint keeps its ISBN. ISBNs assigned before 2007 have ten digits, and those assigned on or after January 1, 2007 have thirteen. The format was published as ISO 2108 in 1970, adapting the nine-digit Standard Book Number (SBN) of 1966. The ISSN identifies periodicals such as magazines and newspapers.
+
+=== KEY: ISRO_9075c7
+HEADWORD: ISRO = 인도 우주 연구 기구
+LEVEL: 5
+GLOSSARY:
+  Aryabhata = 아리아바타
+  Bengaluru = 벵갈루루
+  GAGAN = GAGAN
+  ISRO = 인도 우주 연구 기구
+  India = 인도
+  Indian National Committee for Space Research = 인도 국가 우주 연구 위원회
+  Interkosmos = 인터코스모스
+  Karnataka = 카르나타카주
+  Mars = 화성
+  Moon = 달
+  NavIC = NavIC
+  Remote sensing = 원격 탐사
+  Research = 연구
+  Space = 공간
+  remote sensing = 원격 탐사
+ENTRY:
+National space agency of [[India]], headquartered in [[Bengaluru]], Karnataka. Formerly the Indian National Committee for Space Research (INCOSPAR), set up in 1962, it was renamed ISRO in 1969. The agency operates satellites for imaging, communications and [[Remote sensing|remote sensing]], and navigation systems such as GAGAN and NavIC. It has sent three missions to the [[Moon]] and one to [[Mars]]. Its first satellite, [[Aryabhata]], was launched by the Soviet agency Interkosmos in 1975. In 1980 India became the seventh country to achieve orbital launches. ISRO also supports disaster management, telemedicine and navigation.
+
+=== KEY: IShowSpeed_03b8cc
+HEADWORD: IShowSpeed = 아이쇼스피드
+LEVEL: 5
+GLOSSARY:
+  Cincinnati = 신시내티
+  Cristiano Ronaldo = 크리스티아누 호날두
+  Ohio = 오하이오주
+  Streamy Awards = 스트리미 어워드
+  Warner Records = 워너 레코드
+  World = 세계
+  World Cup = 월드컵
+  Year = 해
+  YouTube = 유튜브
+ENTRY:
+American influencer, entrepreneur and online streamer known as IShowSpeed. Born in [[Cincinnati]], Ohio, he began posting gaming content on [[YouTube]] after registering his channel in 2016. He gained attention in 2021 for dramatic reactions to games, then shifted toward general entertainment and soccer content, often centered on his support for [[Cristiano Ronaldo]]. From 2024 he livestreamed tours of countries around the world. He released the single "World Cup" in 2022 with Warner Records and was named Breakout Streamer of the Year at the 12th Streamy Awards.
+
+=== KEY: ITunes_59e022
+HEADWORD: iTunes = 아이튠즈
+LEVEL: 5
+GLOSSARY:
+  Apple Inc. = 애플
+  IPad = 아이패드
+  IPhone = 아이폰
+  IPod = 아이팟
+  Media = 메디아
+  Music = 음악
+  Windows = 윈도우
+  iTunes Store = 아이튠즈 스토어
+  macOS = macOS
+ENTRY:
+Media player and media library software developed by [[Apple Inc.|Apple]] for Windows and, formerly, macOS. Apple announced it on January 9, 2001, and it began as a music library and player for Mac users. The 2003 addition of the iTunes Store for downloading digital music, and a Windows version that year, made it the main tool for managing [[IPod|iPod]] players and later the [[IPhone|iPhone]] and [[IPad|iPad]]. Support for video, podcasts and mobile apps followed. In October 2019 Apple replaced iTunes on macOS with the Music, Podcasts and TV apps, and in February 2024 most Windows features were split among other apps.
+
+=== KEY: IU_entertainer_0a503c
+HEADWORD: IU = 아이유
+LEVEL: 5
+GLOSSARY:
+  Eight = 「에잇」
+  Gaon Digital Chart = 가온 디지털 차트
+  Good Day = 「좋은 날」
+  Korea = 한국
+  Lee Ji-eun = 이지은
+  Life = 『라이프』
+  Lost = 「로스트」
+  Lost and Found = 『Lost and Found』
+  My Mister = 「나의 아저씨」
+  South Korea = 대한민국
+  When Life Gives You Tangerines = 「폭싹 속았수다」
+  World = 세계
+  World Digital Song Sales = 월드 디지털 송 세일즈
+ENTRY:
+Stage name of Lee Ji-eun, South Korean singer-songwriter and actress. She debuted as a singer at fifteen with the EP *Lost and Found* (2008). Her national breakthrough came with the 2010 single "Good Day", which spent five consecutive weeks at number one on South Korea's Gaon Digital Chart. Her 2020 single "Eight" was her first to top Billboard's World Digital Song Sales chart. Her roles in *My Mister* (2018) and *When Life Gives You Tangerines* (2025) earned critical acclaim. She has released five studio albums and thirty-one number-one singles, the most of any artist in South Korea.
+
+=== KEY: I_Ching_97719e
+HEADWORD: I Ching = 주역
+LEVEL: 4
+GLOSSARY:
+  Book = 책
+  Book of Changes = 『역경』
+  Buddhism = 불교
+  Confucianism = 유교
+  Divination = 점술
+  Far East = 극동
+  Five Classics = 오경
+  Taoism = 도교
+  Ten Wings = 십익
+  Warring States = 전국 시대
+  Western Zhou = 서주
+  Western Zhou period = 서주 시대
+  Wings = 윙스
+  Yin and yang = 음양
+  Zhou dynasty = 주나라
+  hexagram = 괘
+  yarrow stalks = 시초
+  yin and yang = 음양
+ENTRY:
+Ancient Chinese divination text, also called *Book of Changes*, and among the oldest Chinese classics. Originally a divination manual of the [[Zhou dynasty|Western Zhou period]], it was expanded during the Warring States and early imperial periods with philosophical commentaries known as the Ten Wings. After becoming part of the Chinese Five Classics in the 2nd century BC, it was the basis of divination for centuries across the Far East. Divination uses bundles of yarrow stalks to produce sets of six numbers from 6 to 9, and each of the 64 possible sets corresponds to a hexagram. Commentators have read the text as moral guidance informed by [[Confucianism]], [[Taoism]] and [[Buddhism]], and the hexagrams have been linked to [[Yin and yang|yin and yang]] and other cosmological ideas.
+
+=== KEY: I_Have_No_Mouth_and_I_Must_Scream_35b904
+HEADWORD: I Have No Mouth, and I Must Scream = 나는 입이 없다 그리고 나는 비명을 질러야 한다
+LEVEL: 5
+GLOSSARY:
+  Allied Mastercomputer = 연합 마스터컴퓨터
+  Artificial intelligence = 인공지능
+  BBC Radio 4 = BBC 라디오 4
+  China = 중국
+  Fiction = 픽션
+  Harlan Ellison = 할런 엘리슨
+  Hugo = 휴고상
+  Hugo Award = 휴고상
+  Soviet Union = 소련
+  United States = 미국
+  World = 세계
+  science fiction = 과학 소설
+ENTRY:
+Post-apocalyptic science fiction horror short story by Harlan Ellison, first published in the March 1967 issue of *IF: Worlds of Science Fiction*. Set during a nuclear World War III between the [[Soviet Union]], [[United States]] and [[China]], it centers on the Allied Mastercomputer (AM), an [[Artificial intelligence|artificial intelligence]] that kills nearly all of humanity. AM keeps five survivors alive underground, torturing them and denying them death. The story won a Hugo Award in 1968 and inspired a 1995 computer game co-authored by Ellison and a BBC Radio 4 play.
+
+=== KEY: I_Have_a_Dream_f3bee3
+HEADWORD: I Have a Dream = 나에게는 꿈이 있습니다
+LEVEL: 5
+GLOSSARY:
+  Lincoln Memorial = 링컨 기념관
+  Luther = 「루서」
+  March on Washington = 워싱턴 행진
+  Martin Luther = 마르틴 루터
+  Martin Luther King Jr. = 마틴 루서 킹 주니어
+  United States = 미국
+  Washington = 워싱턴주
+  Washington, D.C. = 워싱턴 D.C.
+  civil rights = 민권
+  peroration = 결론부
+ENTRY:
+Speech by [[Martin Luther King Jr.]] delivered on August 28, 1963, at the March on Washington for Jobs and Freedom. Delivered to over 250,000 civil rights supporters from the steps of the Lincoln Memorial in [[Washington, D.C.]], it called for civil and economic rights and an end to legalized racism in the United States. King departed from his prepared text to improvise the peroration on the theme "I have a dream." Ranked the top American speech of the 20th century in a 1999 poll of public-address scholars, it is among the most iconic speeches in American history.
+
+=== KEY: I_M_Pei_b6e24b
+HEADWORD: Pei, I. M. = 페이, 이오 밍
+LEVEL: 4
+GLOSSARY:
+  Building = 건물
+  City = 도시
+  Colorado = 콜로라도주
+  Dallas = 댈러스
+  Dallas City Hall = 댈러스 시청
+  Guangzhou = 광저우
+  Harvard's Graduate School of Design = 하버드 대학교 디자인 대학원
+  I. M. Pei = 이오 밍 페이
+  Ieoh Ming Pei = 이오 밍 페이
+  John = 존
+  John F. Kennedy = 존 F. 케네디
+  John F. Kennedy Library = 존 F. 케네디 도서관
+  Kennedy = 케네디
+  Laboratory = 실험실
+  Library = 도서관
+  Louvre = 루브르 박물관
+  Massachusetts = 매사추세츠주
+  Massachusetts Institute of Technology = 매사추세츠 공과대학교
+  Mesa Laboratory = 메사 연구소
+  Ming = 명나라
+  National Gallery = 내셔널 갤러리
+  Paris = 파리
+  Pennsylvania = 펜실베이니아주
+  Pritzker Prize = 프리츠커상
+  School = 학교
+  Technology = 기술
+  United States = 미국
+  University = 대학
+  University of Pennsylvania = 펜실베이니아 대학교
+  York = 요크
+ENTRY:
+Chinese-American architect. Ieoh Ming Pei was born in [[Guangzhou]] and moved to the United States in 1935 to study architecture at the [[University of Pennsylvania]], transferring to the [[Massachusetts Institute of Technology]]. After MIT he attended Harvard's Graduate School of Design. From 1948 he was an in-house architect for a New York developer, and in 1955 he founded I. M. Pei & Associates, later reorganized as Pei Cobb Freed & Partners. His first major recognition came with the Mesa Laboratory in Colorado, and he was chief architect of the [[John F. Kennedy]] Library in Massachusetts. Other works include Dallas City Hall, the East Building of the National Gallery of Art, and a glass pyramid for the [[Louvre]] in Paris, which sparked controversy in the early 1980s. He won the Pritzker Prize in 1983.
+
+=== KEY: Ian_Botham_0a0f06
+HEADWORD: Botham, Ian = 보섬, 이언
+LEVEL: 5
+GLOSSARY:
+  Bloodwise = 블러드와이즈
+  Cricket = 크리켓
+  Cricket World Cup = 크리켓 월드컵
+  Durham = 더럼
+  Durham County Cricket Club = 더럼 카운티 크리켓 클럽
+  England = 잉글랜드
+  House of Lords = 귀족원
+  One-Day International = 원데이 인터내셔널
+  Somerset = 서머싯
+  Test = 테스트 매치
+  Test centuries = 테스트 센추리
+  World = 세계
+  all-rounder = 올라운더
+  crossbench peer = 무소속 귀족원 의원
+  first-class cricket = 일류 크리켓
+  leukaemia = 백혈병
+ENTRY:
+English former cricketer and crossbench peer. An all-rounder, Botham represented England in Test and One-Day International cricket and scored 14 Test centuries, with a highest score of 208. He played most of his first-class cricket for Somerset and was part of England squads that finished as runners-up at the 1979 and 1992 [[Cricket World Cup|Cricket World Cups]]. Botham has raised money for childhood leukaemia research, including over 13 million pounds for Bloodwise, and in 2020 it was announced he would join the [[House of Lords]] as a crossbench peer. He has chaired Durham County Cricket Club since 2017.
+
+=== KEY: Ian_Fleming_cb382b
+HEADWORD: Fleming, Ian = 플레밍, 이언
+LEVEL: 5
+GLOSSARY:
+  Bond = 본드
+  Casino Royale = 『카지노 로얄』
+  Chitty-Chitty-Bang-Bang = 『치티 치티 뱅뱅』
+  Intelligence = 지능
+  James = 야고보
+  James Bond = 제임스 본드
+  MI6 = MI6
+  Naval Intelligence Division = 해군 정보부
+  Second = 초
+  Second World = 제2세계
+  Second World War = 제2차 세계 대전
+  Secret Intelligence Service = 비밀정보부
+  World = 세계
+  the Second World War = 제2차 세계 대전
+ENTRY:
+British writer best known for the [[James Bond]] series of spy novels. Fleming worked as a journalist and served in Britain's Naval Intelligence Division during the Second World War, drawing on that work for his fiction. He wrote his first Bond novel, *Casino Royale*, in 1952; 11 more Bond novels and two short-story collections followed between 1953 and 1966. The novels center on James Bond, an officer of the Secret Intelligence Service, commonly known as [[MI6]]. The Bond stories have sold over 100 million copies worldwide. Fleming also wrote the children's story *Chitty-Chitty-Bang-Bang*.
+
+=== KEY: Ian_McKellen_44207e
+HEADWORD: McKellen, Ian = 매켈런, 이언
+LEVEL: 5
+GLOSSARY:
+  Academy Awards = 아카데미상
+  Amadeus = 「아마데우스」
+  Antonio Salieri = 안토니오 살리에리
+  Elizabeth II = 엘리자베스 2세
+  Gandalf = 간달프
+  LGBT = LGBT
+  LGBT rights = LGBT 권리
+  Laurence Olivier = 로런스 올리비에
+  Laurence Olivier Awards = 로런스 올리비에상
+  Magneto = 매그니토
+  Magneto (Marvel Comics) = 매그니토
+  Olivier = 올리비에
+  Olivier Awards = 올리비에상
+  Queen = 퀸
+  Queen Elizabeth II = 엘리자베스 2세 여왕
+  Stonewall = 스톤월
+  Stonewall riots = 스톤월 항쟁
+  The Lord of the Rings = 「반지의 제왕」
+  Tony = 토니상
+  Tony Award = 토니상
+  United Kingdom = 영국
+  X-Men = 「엑스맨」
+ENTRY:
+English actor known for Shakespearean stage roles and fantasy films. Widely considered one of Britain's greatest actors, he won a Tony Award for playing Antonio Salieri in *Amadeus* and has received several Laurence Olivier Awards. He was nominated for two [[Academy Awards]] and played [[Gandalf]] in *The Lord of the Rings* films and [[Magneto (Marvel Comics)|Magneto]] in the *X-Men* films. Knighted by Queen [[Elizabeth II]] in 1991, he came out as gay in 1988 and co-founded Stonewall, an LGBT rights lobby group in the United Kingdom named after the [[Stonewall riots]].
+
+=== KEY: Ibadan_33a022
+HEADWORD: Ibadan = 이바단
+LEVEL: 4
+GLOSSARY:
+  City = 도시
+  Global Network of Learning Cities = 학습 도시 국제 네트워크
+  Ibadan = 이바단
+  Ibadan Republic = 이바단 공화국
+  Learning = 학습
+  Network = 「네트워크」
+  Nigeria = 나이지리아
+  Oyo State = 오요주
+  Today = 「투데이」
+  UNESCO = 유네스코
+  UNESCO Global Network of Learning Cities = 유네스코 학습 도시 국제 네트워크
+  University = 대학
+  University of Ibadan = 이바단 대학교
+  Western Region = 서부 지역
+  Yoruba people = 요루바족
+  Yorubaland = 요루바랜드
+ENTRY:
+City, capital of Oyo State, southwestern Nigeria. Its metropolitan area had an estimated 4,144,130 residents in 2025, and at 3,080 sq km it is the country's largest city by land area. Ibadan came into existence in 1829 as a war camp, and in the 19th century it was the capital of the Ibadan Republic, one of the most powerful states in Yorubaland. Under British colonial rule it became the administrative center of the old Western Region. Today it is a major commercial and research center and a transit point between the coast and the interior. The University of Ibadan, established in 1948, was Nigeria's first autonomous university. Ibadan joined the [[UNESCO]] Global Network of Learning Cities in 2016, and its principal inhabitants are the [[Yoruba people]].
+
+=== KEY: Iberian_Peninsula_0e8553
+HEADWORD: Iberian Peninsula = 이베리아반도
+LEVEL: 4
+GLOSSARY:
+  Andorra = 안도라
+  Atlantic = 대서양
+  Douro = 도루강
+  Ebro River = 에브로강
+  Europe = 유럽
+  France = 프랑스
+  Gibraltar = 지브롤터
+  Guadiana = 과디아나강
+  Ibēros = 이베로스
+  Mediterranean = 지중해
+  Meseta = 메세타고원
+  Peninsula = 반도
+  Portugal = 포르투갈
+  Pyrenees = 피레네산맥
+  River = 강
+  Scandinavian = 스칸디나비아
+  Scandinavian Peninsula = 스칸디나비아반도
+  Spain = 스페인
+  Tagus = 타호강
+ENTRY:
+Peninsula in southwestern [[Europe]]. Mostly separated from the rest of the continent by the [[Pyrenees]], it includes [[Spain]] and [[Portugal]], as well as [[Andorra]], [[Gibraltar]] and a small part of France. With an area of approximately 583,254 sq km, it is the second-largest European peninsula after the Scandinavian Peninsula. The name is associated with the Ebro River, which the Greeks called Ibēros, though its origin remains uncertain. The interior is dominated by the central Meseta plateau, and rivers including the Douro, Tagus, Guadiana and Ebro flow from the highlands to the Atlantic or Mediterranean. Its climate ranges from Mediterranean in the east to oceanic in the northwest.
+
+=== KEY: Ibis_d52518
+HEADWORD: Ibis = 따오기
+LEVEL: 4
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Apteribis = 아프테리비스
+  Crustacean = 갑각류
+  Egypt = 이집트
+  Hawaiian = 하와이어
+  Hawaiian Islands = 하와이 제도
+  Heron = 왜가리
+  Jamaica = 자메이카
+  Thoth = 토트
+  Threskiornithidae = 저어새과
+  Xenicibis = 제니키비스
+  sacred ibis = 아프리카흑따오기
+  spoonbills = 저어새
+ENTRY:
+Group of long-legged wading birds with downcurved bills, in the family Threskiornithidae. Ibises inhabit wetlands, forests and plains, Many breed in large colonies, and most nest in trees, often with spoonbills or [[Heron|herons]]. They are monogamous and highly territorial while nesting and feeding, and usually feed in groups, probing mud for [[Crustacean|crustaceans]]. There are 29 extant species, plus six species of spoonbills in the same family. Two extinct genera were flightless: the Apteribis of the [[Hawaiian Islands]] and the Xenicibis of [[Jamaica]]. The sacred ibis, *Threskiornis aethiopicus*, was venerated in [[Ancient Egypt]] as a symbol of wisdom linked to the god [[Thoth]].
+
+=== KEY: Ibiza_bae09d
+HEADWORD: Ibiza = 이비사섬
+LEVEL: 5
+GLOSSARY:
+  Balearic Islands = 발레아레스 제도
+  Carthage = 카르타고
+  Electronic dance music = 일렉트로닉 댄스 뮤직
+  Formentera = 포르멘테라섬
+  Iberian = 이베리아
+  Iberian Peninsula = 이베리아반도
+  Ibiza = 이비사섬
+  Mediterranean = 지중해
+  Mediterranean Sea = 지중해
+  Peninsula = 반도
+  Phoenician = 페니키아
+  Pine = 소나무
+  Pine Islands = 피티우스 제도
+  Sa Talaiassa = 사 탈라이아사
+  Sea = 바다
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  Valencia = 발렌시아
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  electronic dance music = 일렉트로닉 댄스 뮤직
+ENTRY:
+Spanish island in the Mediterranean Sea, the third largest of the [[Balearic Islands]]. It lies off the eastern coast of the [[Iberian Peninsula]], 150 km from [[Valencia]]. It is known for its nightlife and [[Electronic dance music|electronic dance music]] club scene, which draws large numbers of tourists in summer. Phoenician settlers founded a port there in 654 BC, and the island later came under [[Carthage]]. Ibiza and the nearby island of Formentera are a [[World Heritage Site|UNESCO World Heritage Site]]; together they are called the Pine Islands. Its highest point, Sa Talaiassa, is 475 meters above sea level.
+
+=== KEY: Ibn_Arabi_49e1d1
+HEADWORD: Ibn Arabi = 이븐 아라비
+LEVEL: 4
+GLOSSARY:
+  Akbari school = 아크바리 학파
+  Anatolia = 아나톨리아
+  Andalusian = 안달루스
+  Baghdad = 바그다드
+  Damascus = 다마스쿠스
+  Fuṣūṣ al-Ḥikam = 『지혜의 보석』
+  Ibn Taymiyya = 이븐 타이미야
+  Mecca = 메카
+  Seville = 세비야
+  Sufi = 수피
+  Sufism = 수피즘
+  The Bezels of Wisdom = 『지혜의 보석』
+  al-Shaykh al-Akbar = 알샤이흐 알아크바르
+  pantheism = 범신론
+  waḥdat al-wujūd = 와흐다트 알우주드
+ENTRY:
+Andalusian Sufi scholar, mystic, poet and philosopher. He is regarded as the first to explicitly delineate the doctrine of *waḥdat al-wujūd* (the transcendent unity of being), which holds that all things are manifestations of a single reality. His family moved to [[Seville]] when he was a child, and he later lived in [[Mecca]], Anatolia and Baghdad before settling in [[Damascus]] in 1223. After his death he was called *al-Shaykh al-Akbar* ("The Greatest Shaykh"), which gave its name to the Akbari school of [[Sufism]]. Critics, including [[Ibn Taymiyya]], accused him of pantheism. His major works include *Fuṣūṣ al-Ḥikam* (*The Bezels of Wisdom*).
+
+=== KEY: Ibn_Battuta_838b2d
+HEADWORD: Ibn Battuta = 이븐 바투타
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Asia = 아시아
+  Delhi = 델리
+  Delhi Sultanate = 델리 술탄국
+  Iberian = 이베리아
+  Iberian Peninsula = 이베리아반도
+  Maghrebi = 마그레브
+  Maldives = 몰디브
+  Marco Polo = 마르코 폴로
+  Mecca = 메카
+  Morocco = 모로코
+  Peninsula = 반도
+  Polo = 폴로
+  Tangier = 탕헤르
+  The Rihla = 『리흘라』
+  Zheng He = 정화
+  hajj = 하지
+  qadi = 카디
+ENTRY:
+Maghrebi traveler, explorer and scholar from Tangier, Morocco, born into a family of Islamic legal scholars. Between 1325 and 1354 he visited much of Africa, Asia and the [[Iberian Peninsula]]. He set out in 1325 on a pilgrimage (*hajj*) to [[Mecca]] and did not return to Morocco for 24 years. He served as a qadi (judge) in the [[Delhi Sultanate]] for eight years and was briefly chief judge in the [[Maldives]]. He traveled around 117,000 km in total, more than [[Zheng He]] (about 50,000 km) or [[Marco Polo]] (24,000 km). Near the end of his life he dictated an account of his journeys, known as *The Rihla*.
+
+=== KEY: Ibn_Khaldun_625851
+HEADWORD: Ibn Khaldun = 이븐 할둔
+LEVEL: 3
+GLOSSARY:
+  Adam = 아담
+  Adam Smith = 애덤 스미스
+  Ahmed Cevdet Pasha = 아흐메트 제브데트 파샤
+  Al-Azhar = 알아즈하르
+  Al-Qarawiyyin = 알카라위인
+  Andalusian = 안달루스
+  Banū Khaldūn = 바누 할둔
+  Black = 검은색
+  Black Death = 흑사병
+  Comte = 콩트
+  Death = 죽음
+  Fiqh = 피크흐
+  Hafsid = 하프스 왕조
+  Hegel = 헤겔
+  Hume = 흄
+  Kitāb al-ʿIbar = 『키타브 알이바르』
+  Kâtip Çelebi = 카티프 첼레비
+  Machiavelli = 마키아벨리
+  Mamluk = 맘루크
+  Marinid = 마린 왕조
+  Marx = 마르크스
+  Muqaddimah = 『무캇디마』
+  Mustafa Naima = 무스타파 나이마
+  Niccolò Machiavelli = 니콜로 마키아벨리
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Pasha = 파샤
+  Prolegomena = 『역사 서설』
+  Ricardo = 리카도
+  Seville = 세비야
+  Timur = 티무르
+  Timurid = 티무르 왕조
+  Timurid Empire = 티무르 제국
+  Tunis = 튀니스
+  Tunisian = 튀니지인
+  historiography = 역사학
+  social cohesion = 사회적 응집
+  supply and demand = 수요와 공급
+  ʿaṣabiyyah = 아사비야
+ENTRY:
+Arab Tunisian scholar, historian, philosopher, and sociologist.
+
+Born in [[Tunis]] into an upper-class Andalusian family of Yemeni Arab descent, the Banū Khaldūn, he came from a line that had held government and scholarly posts in [[Seville]] until the family left in 1232, before the city's occupation in 1248. His father, who devoted himself to [[Fiqh|fiqh]], literature, and piety, was his first and most influential teacher. The [[Black Death]] killed both his parents and much of his extended family; some scholars argue it shaped his views on urban life and inspired his major work. His career combined diplomatic and judicial posts with teaching, including at the Al-Qarawiyyin mosque and at Cairo's Al-Azhar, amid the politics of the Marinid, Hafsid, and Mamluk realms. He also met Timur, founder of the Timurid Empire.
+
+His best-known book is the *Muqaddimah* (*Prolegomena*, "Introduction"), which he states he wrote in six months. Completed around 1377 as the preface to his universal history *Kitāb al-ʿIbar*, it analyzes the rise and decline of civilizations through ʿaṣabiyyah (group solidarity), environmental influences, and cycles of dynastic power driven by economic production and social cohesion rather than supernatural intervention. It also contains early reflections on supply and demand and taxation, and insists on critiquing historical sources through observation and comparison. It later influenced Ottoman historians such as Kâtip Çelebi, Mustafa Naima, and Ahmed Cevdet Pasha, who used its theories to analyze the growth and decline of the [[Ottoman Empire]]. Scholars have compared him with [[Niccolò Machiavelli|Machiavelli]], Hume, Hegel, Marx, and Comte, and with the economists Ricardo and Adam Smith, whose ideas found precedent, though not direct influence, in his. Many regard him as a forerunner of historiography, sociology, economics, and demography.
+
+=== KEY: Ibn_Saud_6b732d
+HEADWORD: Ibn Saud = 이븐 사우드
+LEVEL: 4
+GLOSSARY:
+  Abdulaziz bin Abdul Rahman = 압둘아지즈 빈 압두라흐만
+  Abdulaziz bin Abdul Rahman Al Saud = 압둘아지즈 빈 압둘라흐만 알사우드
+  Al Saud = 사우드 가문
+  Arabia = 아라비아
+  Hejaz = 히자즈
+  Ibn Saud = 이븐 사우드
+  Ikhwan revolt = 이흐완 반란
+  Kingdom of Saudi Arabia = 사우디아라비아 왕국
+  Petroleum = 석유
+  Riyadh = 리야드
+  Saudi Arabia = 사우디아라비아
+  Wahhabi = 와하브파
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+Founder and first king of [[Saudi Arabia]], reigning from 1932 to 1953. Abdulaziz bin Abdul Rahman Al Saud, known in the West as Ibn Saud, reconquered [[Riyadh]] in 1902 after his family had been exiled from it. Over three decades he extended his rule across most of central and northern Arabia, conquering the [[Hejaz]] in 1925; by 1932 he had extended his dominions into what became the Kingdom of Saudi Arabia. His campaigns ended chronic intertribal warfare but involved brutal suppressions, including of the 1929–1930 Ikhwan revolt against his authority. He ordered the demolition of several shrines, in line with Wahhabi beliefs. He presided over the discovery of [[Petroleum|petroleum]] in 1938, and large-scale oil production began after World War II.
+
+=== KEY: Ibn_Taymiyya_33a947
+HEADWORD: Ibn Taymiyya = 이븐 타이미야
+LEVEL: 4
+GLOSSARY:
+  Al-Qaeda = 알카에다
+  Anthropomorphism = 신인동형론
+  Damascus = 다마스쿠스
+  Hanbali = 한발리파
+  Hanbali school = 한발리 학파
+  Harran = 하란
+  Islamic State = 이슬람 국가
+  Islamic jurisprudence = 이슬람 법학
+  Islamist = 이슬람주의
+  Muhammad = 무함마드
+  Muhammad ibn Abd al-Wahhab = 무함마드 이븐 압둘와하브
+  Muslim Brotherhood = 무슬림 형제단
+  Qadiriyya = 카디리야
+  Sufi = 수피
+  Sunni = 수니파
+  Sunni Muslim = 수니파 무슬림
+  Wahhabism = 와하브주의
+ENTRY:
+Sunni Muslim jurist and theologian of the Hanbali school. Born in Harran, he was taught Islamic jurisprudence by his grandfather and father in [[Damascus]]. He argued that reason and revelation do not contradict each other, and he rejected philosophy as a prerequisite for religious truth. Clerics and state authorities accused him of [[Anthropomorphism|anthropomorphism]], and his condemnation of Sufi practices associated with saint veneration led to several imprisonments. His doctrines influenced [[Muhammad ibn Abd al-Wahhab]], founder of the Wahhabism reform movement, and later Islamist groups, including the [[Muslim Brotherhood]], [[Al-Qaeda|al-Qaeda]] and [[Islamic State]], cited his teachings. Portrayals of him as anti-Sufi are widely considered inaccurate; he praised many Sufi masters and was affiliated with the Qadiriyya order.
+
+=== KEY: Ibn_al_Haytham_523968
+HEADWORD: Ibn al-Haytham = 이븐 알하이삼
+LEVEL: 4
+GLOSSARY:
+  Alhazen = 알하젠
+  Basra = 바스라
+  Book = 책
+  Book of Optics = 『광학의 서』
+  Cairo = 카이로
+  Caliphate = 칼리파국
+  Christiaan Huygens = 크리스티안 하위헌스
+  Descartes = 데카르트
+  Fatimid = 파티마 왕조
+  Fatimid Caliphate = 파티마 칼리파국
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Johannes Kepler = 요하네스 케플러
+  Kepler = 케플러
+  Kitāb al-Manāẓir = 『광학의 서』
+  René Descartes = 르네 데카르트
+  Scientific Revolution = 과학 혁명
+  intromissive = 입사설
+  law of reflection = 반사의 법칙
+ENTRY:
+Arab physicist, mathematician and astronomer, known in the West as Alhazen. Born in [[Basra]], he spent most of his productive years in [[Cairo]] under the [[Fatimid Caliphate]], earning his living by writing treatises and tutoring. His *Kitāb al-Manāẓir* (*Book of Optics*), written between 1011 and 1021, paved the way for modern physical optics, and he is referred to as the "father of modern optics." He correctly argued that vision is intromissive, with light entering the eye, and that vision occurs in the brain. He gave the first complete statement of the law of reflection. His work was frequently cited during the Scientific Revolution by [[Galileo Galilei]], [[René Descartes]], [[Johannes Kepler]] and [[Christiaan Huygens]].
+
+=== KEY: Ibrahim_Traor_6a5634
+HEADWORD: Traoré, Ibrahim = 트라오레, 이브라힘
+LEVEL: 5
+GLOSSARY:
+  Alliance of Sahel States = 사헬 국가 동맹
+  Burkina Faso = 부르키나파소
+  Burkinabé = 부르키나파소
+  China = 중국
+  France = 프랑스
+  French = 프랑스어
+  Mali = 말리
+  Niger = 니제르
+  Paul-Henri Sandaogo Damiba = 폴앙리 상다오고 다미바
+  Russia = 러시아
+  Sahel = 사헬
+  Turkey = 튀르키예
+  pan-Africanist = 범아프리카주의
+ENTRY:
+Burkinabé military officer and interim president of [[Burkina Faso]] since 2022. He led a coup in September 2022 that ousted Paul-Henri Sandaogo Damiba, becoming at 34 the world's youngest head of state at the time. He has distanced the country from [[France]], expelled French troops and aligned it with [[Russia]], [[Turkey]] and [[China]], and helped found the Alliance of Sahel States with [[Mali]] and [[Niger]]. Supporters praise his pan-Africanist and anti-imperialist policies. Critics cite a crackdown on the press and political opposition, including the unlawful conscription of critics and journalists.
+
+=== KEY: Ibuprofen_60e19e
+HEADWORD: Ibuprofen = 이부프로펜
+LEVEL: 5
+GLOSSARY:
+  Asthma = 천식
+  Brufen = 브루펜
+  Inflammation = 염증
+  John = 존
+  John Nicholson = 존 니컬슨
+  List of Essential Medicines = 필수 의약품 목록
+  Liver = 간
+  Myocardial infarction = 심근 경색
+  NSAID = NSAID
+  Nonsteroidal anti-inflammatory drug = 비스테로이드 항염증제
+  Nottingham = 노팅엄
+  Pregnancy = 임신
+  Stewart Adams = 스튜어트 애덤스
+  United Kingdom = 영국
+  World = 세계
+  cyclooxygenase = 사이클로옥시게나제
+  heart attack = 심장 마비
+  liver failure = 간부전
+  prostaglandin = 프로스타글란딘
+ENTRY:
+Nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, fever and [[Inflammation|inflammation]]. It works by decreasing the activity of the enzyme cyclooxygenase (COX), which reduces prostaglandin production. Discovered in 1961 in [[Nottingham]] by Stewart Adams and John Nicholson, it was first sold in 1969 in the United Kingdom as Brufen. Long-term use has been associated with kidney failure and, rarely, [[Liver|liver]] failure. At higher doses it may increase the risk of [[Myocardial infarction|heart attack]], and it can worsen [[Asthma|asthma]]. It is not recommended in later [[Pregnancy|pregnancy]]. It is on the World Health Organization's List of Essential Medicines.
+
+=== KEY: Icarus_c0168a
+HEADWORD: Icarus = 이카로스
+LEVEL: 5
+GLOSSARY:
+  Crete = 크레타섬
+  Daedalus = 다이달로스
+  Greek mythology = 그리스 신화
+  Icaria = 이카리아섬
+  Icarian Sea = 이카리아해
+  Icarus = 이카로스
+  Metamorphoses = 『변신 이야기』
+  Minos = 미노스
+  Ovid = 오비디우스
+  Sea = 바다
+  Sun = 태양
+ENTRY:
+Figure in [[Greek mythology]], son of the craftsman Daedalus. Imprisoned with his father on [[Crete]] by King Minos, the two escaped using wings of feathers and beeswax. Daedalus warned Icarus not to fly too low or too close to the [[Sun|sun]], but Icarus flew too high, the wax melted, and he fell into the sea and drowned. The sea near the island of Icaria is called the Icarian Sea. The fullest account is in [[Ovid]]'s *Metamorphoses*, and the story gave rise to the idiom "fly too close to the Sun."
+
+=== KEY: Ice_583d6a
+HEADWORD: Ice = 얼음
+LEVEL: 4
+GLOSSARY:
+  Climate = 기후
+  Climate change = 기후 변화
+  Earth = 지구
+  Glacier = 빙하
+  Hydrogen bond = 수소 결합
+  Ice = 얼음
+  Ice sheet = 빙상
+  Mineral = 광물
+  Precipitation = 강수
+  Solid = 고체
+  crystal structure = 결정 구조
+  grounded ice = 착저빙
+  hail = 우박
+  hydrogen bonds = 수소 결합
+  ice Ih = 얼음 Ih
+  ice sheets = 빙상
+  sea level rise = 해수면 상승
+ENTRY:
+Solid state of water, forming at or below 0 °C (32 °F). Ice is a naturally occurring crystalline solid, considered a [[Mineral|mineral]]. Virtually all ice on Earth has a hexagonal crystal structure, ice Ih, in which [[Hydrogen bond|hydrogen bonds]] control many of its physical properties. Ice is about 8.3% less dense than liquid water, so it floats, and it expands about 9% when freezing. As snow and hail it is a common form of [[Precipitation|precipitation]], and it forms [[Glacier|glaciers]] and [[Ice sheet|ice sheets]] on land. Ice volume has been decreasing because of [[Climate change]], and the loss of grounded ice is the primary contributor to sea level rise. Humans have used ice to store food for thousands of years, before refrigeration; some ice-storage structures are over 2,000 years old.
+
+=== KEY: Ice_Cube_9be605
+HEADWORD: Ice Cube = 아이스 큐브
+LEVEL: 5
+GLOSSARY:
+  AmeriKKKa's Most Wanted = 『AmeriKKKa's Most Wanted』
+  Boyz n the Hood = 「보이즈 앤 더 후드」
+  Coast = 해안
+  Compton = 컴프턴
+  Friday = 「프라이데이」
+  Los Angeles = 로스앤젤레스
+  N.W.A = N.W.A
+  O'Shea Jackson = 오셰이 잭슨
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Straight Outta Compton = 『Straight Outta Compton』
+  West Coast = 웨스트코스트
+  West Coast hip-hop = 웨스트 코스트 힙합
+ENTRY:
+American rapper, songwriter and actor, born O'Shea Jackson in [[Los Angeles]]. As lead rapper of [[N.W.A]], he wrote most of the lyrics for *Straight Outta Compton*, helping shape West Coast hip-hop. He left the group in late 1989 after a monetary dispute over its management. His solo albums include *AmeriKKKa's Most Wanted* (1990). He made his acting debut in *Boyz n the Hood* (1991) and co-wrote the comedy *Friday* (1995), which spawned a franchise. He was inducted into the [[Rock and Roll Hall of Fame]] as a member of N.W.A in 2016.
+
+=== KEY: Ice_T_309108
+HEADWORD: Ice-T = 아이스 티
+LEVEL: 5
+GLOSSARY:
+  Body Count = 보디 카운트
+  Cop Killer = 「Cop Killer」
+  Deadline = 데드라인
+  Heavy metal music = 헤비 메탈
+  Hip-hop = 힙합
+  Jersey = 저지섬
+  New Jersey = 뉴저지주
+  Newark = 뉴어크
+  Newark, New Jersey = 뉴어크
+  Odafin Tutuola = 오다핀 투투올라
+  Power = 『Power』
+  Tracy Lauren Marrow = 트레이시 로런 매로
+  Warner Bros. Records = 워너 브라더스 레코드
+  heavy metal = 헤비메탈
+ENTRY:
+American rapper and actor, born Tracy Lauren Marrow in [[Newark, New Jersey]]. Active in [[Hip-hop|hip-hop]] and [[Heavy metal music|heavy metal]], he released *Power* (1988), his only platinum album. He co-founded the heavy metal band Body Count in 1990. Controversy over the song "Cop Killer" led him to ask to be released from his Warner Bros. Records contract. Since 2000 he has played detective Odafin Tutuola in *Law & Order: Special Victims Unit*, making him, according to Deadline, the longest-running male series actor in American TV history.
+
+=== KEY: Ice_age_99a5c9
+HEADWORD: Ice age = 빙하기
+LEVEL: 4
+GLOSSARY:
+  Alps = 알프스산맥
+  Cenozoic = 신생대
+  Earth = 지구
+  Earth's orbit = 지구 궤도
+  Glacier = 빙하
+  Holocene = 홀로세
+  Ice = 얼음
+  Ice Age = 빙하기
+  James = 야고보
+  James Hutton = 제임스 허턴
+  Jens Esmark = 옌스 에스마르크
+  Last Glacial Maximum = 최종 빙기 최성기
+  Last Glacial Period = 최종 빙기
+  Late Cenozoic Ice Age = 후기 신생대 빙하기
+  Quaternary = 제4기
+  Quaternary glaciation = 제4기 빙하 작용
+  erratic boulders = 표석
+  glacial periods = 빙기
+  ice caps = 빙모
+  interglacials = 간빙기
+ENTRY:
+Period of long-term cooling of Earth's surface and atmosphere, marked by prolonged expansion of continental [[Glacier|glaciers]] and polar ice caps. Ice ages contain colder glacial periods alternating with warmer interglacials. Earth is in the Late Cenozoic Ice Age, which began 34 million years ago, and the Quaternary glaciation began 2.58 million years ago. The most recent glacial period, the [[Last Glacial Period]], was followed by the warm [[Holocene]], which began 11,700 years ago. The [[Last Glacial Maximum]] peaked between 26,000 and 20,000 years ago. Scientific understanding developed slowly: in 1795 [[James Hutton]] explained erratic boulders in the Alps by the action of glaciers, and in 1824 Jens Esmark proposed that changes in climate, linked to changes in Earth's orbit, caused a sequence of ice ages.
+
+=== KEY: Ice_cream_22322b
+HEADWORD: Ice cream = 아이스크림
+LEVEL: 4
+GLOSSARY:
+  Alaska = 알래스카주
+  Baked Alaska = 베이크드 알래스카
+  Cream = 크림
+  Frozen = 「겨울왕국」
+  Gelato = 젤라토
+  Milk = 우유
+  Persia = 페르시아
+  Persian = 페르시아어
+  United Kingdom = 영국
+  United States = 미국
+  Vanilla = 바닐라
+  butterfat = 유지방
+  freezing point = 어는점
+  milkshakes = 밀크셰이크
+  sundaes = 선데
+ENTRY:
+Frozen dessert typically made from [[Milk|milk]] or [[Cream|cream]], sweetened and flavored with a spice such as [[Vanilla|vanilla]] or with fruit. The mixture is cooled below the freezing point of water and stirred to incorporate air and prevent large ice crystals from forming. It is served in dishes or cones, or in desserts such as sundaes, milkshakes and Baked Alaska. *Gelato*, the Italian word for ice cream, is often used in English. The history likely began in ancient Persia around 550 BC, when Persian techniques for storing ice led to early frozen desserts. In many countries the name is legally defined: in the United States and the United Kingdom, the term applies only to products meeting a specification based largely on butterfat from cream.
+
+=== KEY: Ice_hockey_3d7f65
+HEADWORD: Ice hockey = 아이스하키
+LEVEL: 4
+GLOSSARY:
+  Canada = 캐나다
+  Field hockey = 필드하키
+  Ice = 얼음
+  Ice hockey = 아이스하키
+  Montreal = 몬트리올
+  NHL = NHL
+  National Hockey League = 내셔널 하키 리그
+  Stanley = 스탠리
+  Stanley Cup = 스탠리컵
+  Winter = 겨울
+  puck = 퍽
+  shinty = 신티
+  shootout = 슛아웃
+ENTRY:
+Team sport played on ice skates by two teams of six players on a rink. Teams score by shooting a vulcanized rubber puck into the opponent's net with their sticks, and each goal is worth one point. The team with more goals after three 20-minute periods wins, and ties are broken in overtime or a shootout. The modern sport was developed in Canada, most notably in [[Montreal]], where the first indoor game was played on March 3, 1875. It draws influence from [[Field hockey]] and from shinty. The Stanley Cup, first awarded in 1893, became the championship trophy of the [[National Hockey League|NHL]]. Ice hockey was first played at the Olympics at the 1920 Summer Games and is now a mainstay of the Winter Games. In 1994 it was officially recognized as Canada's national winter sport.
+
+=== KEY: Ice_sheet_c19910
+HEADWORD: Ice sheet = 빙상
+LEVEL: 4
+GLOSSARY:
+  Antarctic ice sheet = 남극 빙상
+  Climate = 기후
+  Climate change = 기후 변화
+  Cordilleran = 코딜레라 빙상
+  Earth = 지구
+  Greenland = 그린란드
+  Greenland ice sheet = 그린란드 빙상
+  Ice = 얼음
+  Last Glacial Period = 최종 빙기
+  Laurentide = 로렌타이드 빙상
+  North America = 북아메리카
+  continental glacier = 대륙 빙하
+  ice sheets = 빙상
+  ice streams = 빙류
+  sea level rise = 해수면 상승
+ENTRY:
+Mass of glacial ice covering more than 50,000 sq km of land, also called a continental glacier. Ice sheets are the largest glacial bodies on Earth. The two that exist today are the [[Antarctic ice sheet]], covering 14 million sq km, and the [[Greenland ice sheet]], covering 1.7 million sq km. Ice sheets flow outward from central domes, moving faster in ice streams where meltwater lubricates the base. At the maximum of the [[Last Glacial Period]], the Laurentide and Cordilleran ice sheets merged with the Greenland ice sheet to cover much of North America. The ongoing retreat of the Greenland and Antarctic ice sheets plays a major role in [[Climate change]] and sea level rise.

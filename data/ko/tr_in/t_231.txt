@@ -1,0 +1,962 @@
+=== KEY: Multiple_sclerosis_bafb49
+HEADWORD: Multiple sclerosis = 다발경화증
+LEVEL: 4
+GLOSSARY:
+  Ataxia = 운동 실조
+  Central nervous system = 중추 신경계
+  French = 프랑스어
+  Jean-Martin Charcot = 장마르탱 샤르코
+  Life = 『라이프』
+  Life expectancy = 기대 수명
+  Lumbar puncture = 요추 천자
+  Magnetic resonance imaging = 자기 공명 영상
+  Physical = 「Physical」
+  Physical therapy = 물리 치료
+  autoimmune disease = 자가 면역 질환
+  central nervous system = 중추 신경계
+  disease-modifying therapies = 질병 조절 치료제
+  myelin = 말이집
+ENTRY:
+Chronic, neurodegenerative autoimmune disease of the [[Central nervous system|central nervous system]], in which the immune system attacks myelin, the insulating covering of nerve cells, impairing the transmission of signals. Symptoms depend on lesion location and may include double vision, vision loss, numbness, muscle weakness, [[Ataxia|loss of coordination]] and memory problems. Fatigue is among the most common symptoms. Diagnosis relies on symptoms, [[Magnetic resonance imaging|MRI]] scans and sometimes a [[Lumbar puncture|lumbar puncture]]. There is no cure, but disease-modifying therapies can reduce attacks, and [[Physical therapy]] helps manage symptoms. Life expectancy is slightly lower than normal. The disease usually begins between ages 20 and 40 and is almost three times more common in women than in men. It was first described in 1868 by French neurologist Jean-Martin Charcot.
+
+=== KEY: Multiplication_27d1a1
+HEADWORD: Multiplication = 곱셈
+LEVEL: 4
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Ancient Egyptians = 고대 이집트인
+  Arabic = 아랍어
+  Arithmetic = 산술
+  Brahmagupta = 브라마굽타
+  Commutative property = 교환 법칙
+  Division (mathematics) = 나눗셈
+  Integer = 정수
+  Matrix (mathematics) = 행렬
+  Multiplication = 곱셈
+  Rational number = 유리수
+  Real number = 실수
+  factors = 인수
+  matrix multiplication = 행렬 곱셈
+  product = 곱
+  whole numbers = 음이 아닌 정수
+ENTRY:
+Arithmetic operation that combines two factors to produce a product. It is one of the four elementary operations of arithmetic, along with addition, subtraction and [[Division (mathematics)|division]], and is the inverse of division. For whole numbers it can be understood as repeated addition, so 3 × 4 equals 4 + 4 + 4 or 3 + 3 + 3 + 3. Multiplication is [[Commutative property|commutative]]: the order of the factors does not change the product. It extends to [[Integer]]s, [[Rational number]]s and [[Real number]]s, and the product of two measurements carries a derived unit, so multiplying the sides of a rectangle gives its area in square meters. [[Ancient Egypt|Ancient Egyptians]] used a doubling method, and [[Brahmagupta]] formalized its rules in the Hindu–Arabic system. Some extensions, such as [[Matrix (mathematics)|matrix]] multiplication, are not commutative.
+
+=== KEY: Multivariable_calculus_f202e3
+HEADWORD: Multivariable calculus = 다변수 미적분학
+LEVEL: 4
+GLOSSARY:
+  Calculus = 미적분학
+  Derivative = 도함수
+  Economics = 경제학
+  Engineering = 공학
+  Flux = 선속
+  Green's theorem = 그린 정리
+  Partial derivatives = 편도함수
+  Stokes' theorem = 스토크스 정리
+  Vector calculus = 벡터 미적분학
+  antiderivative = 역도함수
+  circulation = 순환
+  divergence theorem = 발산 정리
+ENTRY:
+Extension of [[Calculus|calculus]] to functions of several variables, covering their differentiation and integration rather than one variable alone. A special case in three-dimensional space is often called [[Vector calculus]]. Partial [[Derivative|derivatives]] measure how a function changes with respect to one variable while the others are held constant. Generalizing to several variables introduces difficulties: a limit can depend on the path along which a point is approached, and continuity in each variable separately does not guarantee continuity overall. Several types of integration exist, including line, surface and volume integrals, so an antiderivative cannot be defined uniquely. Theorems such as Green's theorem, Stokes' theorem and the divergence theorem relate these integrals to [[Flux|flux]] and circulation. The subject is used in physics, [[Engineering]] and [[Economics]].
+
+=== KEY: Multivariate_normal_distribution_adf763
+HEADWORD: Multivariate normal distribution = 다변량 정규 분포
+LEVEL: 5
+GLOSSARY:
+  Central limit theorem = 중심 극한 정리
+  Normal distribution = 정규 분포
+  Probability = 확률
+  Probability distribution = 확률 분포
+  Random variable = 확률 변수
+  covariance matrix = 공분산 행렬
+  linear combination = 선형 결합
+  mean vector = 평균 벡터
+  multivariate central limit theorem = 다변량 중심 극한 정리
+ENTRY:
+Probability distribution that generalizes the one-dimensional [[Normal distribution|normal distribution]] to higher dimensions. A random vector is multivariate normal if every linear combination of its components has a univariate normal distribution. Also called the multivariate Gaussian or joint normal distribution, it is described by a mean vector and a covariance matrix. Its importance derives mainly from the [[Central limit theorem|multivariate central limit theorem]]. It is often used to describe, at least approximately, any set of correlated real-valued [[Random variable|random variables]] that cluster around a mean value.
+
+=== KEY: Multiverse_485a33
+HEADWORD: Multiverse = 다중우주
+LEVEL: 5
+GLOSSARY:
+  Anthropic = 앤트로픽
+  Anthropic principle = 인류 원리
+  Many-worlds interpretation = 다세계 해석
+  Universe = 우주
+  fine-tuning = 미세 조정
+  parallel universes = 평행 우주
+  quantum mechanics = 양자역학
+  statistically significant = 통계적으로 유의한
+ENTRY:
+Hypothetical set of all [[Universe|universes]], presumed to comprise everything that exists, including all space, time, matter, energy and physical laws. Its universes are variously called parallel universes or many worlds. Some physicists regard it as a philosophical notion rather than a scientific hypothesis, because it cannot be empirically falsified, and searches for evidence have found no statistically significant support. Max Tegmark's four-level classification includes universes with different physical constants and the [[Many-worlds interpretation|many-worlds interpretation]] of quantum mechanics. The [[Anthropic principle]] suggests that many universes with different physical laws could explain the apparent fine-tuning of this universe for conscious life.
+
+=== KEY: Mumbai_8ebaad
+HEADWORD: Mumbai = 뭄바이
+LEVEL: 3
+GLOSSARY:
+  Arabian Sea = 아라비아해
+  Bollywood = 볼리우드
+  Bombay = 봄베이
+  Brihanmumbai Municipal Corporation = 브리한뭄바이 시 당국
+  Catherine = 예카테리나 1세
+  City = 도시
+  Cotton = 목화
+  Crown = 영국 왕실
+  Delhi = 델리
+  Delhi Sultanate = 델리 술탄국
+  East India Company = 동인도 회사
+  Government = 정부
+  Government of India = 인도 정부
+  Gujarat = 구자라트주
+  Gujarat Sultanate = 구자라트 술탄국
+  Hornby Vellard = 혼비 벨라드
+  India = 인도
+  Indian independence movement = 인도 독립운동
+  Koli = 콜리족
+  Maharashtra = 마하라슈트라주
+  Marathi = 마라티어
+  Maurya = 마우리아
+  Maurya Empire = 마우리아 제국
+  Mumbai = 뭄바이
+  Mumbai Metropolitan Region = 뭄바이 대도시권
+  Mumbā = 뭄바
+  Ptolemy = 프톨레마이오스
+  Shiv Sena = 시브 세나
+ENTRY:
+City (pop., 2011: almost 12.5 million), capital of [[Maharashtra]] state and financial capital of India. Also known as Bombay, it has a deep natural harbor and is the most populous city proper in India; the Mumbai Metropolitan Region has over 20 million people. The Brihanmumbai Municipal Corporation, established in 1888, administers the city.
+
+Originally an archipelago of seven islands on the [[Arabian Sea]], it has evidence of human occupation. The [[Maurya Empire]] ruled the islands from the 3rd century BC, and Ptolemy referred to them in AD 150. They were inhabited by the Marathi-speaking Koli people, whose deity Mumbā is believed to have given the city its name. Later the [[Delhi Sultanate]] and the Gujarat Sultanate ruled them. The islands were ceded to the Portuguese in 1535, transferred to the British Crown in 1661 as part of Catherine of Braganza's dowry, and leased to the [[East India Company]] in 1668. The Hornby Vellard land-reclamation project, begun in 1782 and completed in 1845, unified the islands; with new roads and railways and the 19th-century [[Cotton|cotton]] boom, it made Bombay a major seaport and commercial center. The city played a major role in the [[Indian independence movement]] and became capital of Maharashtra in 1960.
+
+The Government of India officially changed the English name to Mumbai in November 1995, at the insistence of the Shiv Sena party, which argued that "Bombay" echoed British colonial rule. Some residents still use the older name. In the early 2010s the city contributed nearly five percent of India's GDP, one-fourth of its industrial output, and one-third of its tax revenues. It is the center of Bollywood and Marathi cinema.
+
+=== KEY: Mumbai_Metro_687eac
+HEADWORD: Mumbai Metro = 뭄바이 메트로
+LEVEL: 5
+GLOSSARY:
+  Blue Line = 블루 라인
+  Construction = 건설
+  India = 인도
+  Maharashtra = 마하라슈트라주
+  Mumbai = 뭄바이
+  Rapid transit = 도시 철도
+ENTRY:
+[[Rapid transit|Rapid transit]] system serving [[Mumbai]] and its metropolitan region in [[Maharashtra]], India. As of April 2026 it had 4 color-coded lines with 77 stations and 91.48 km of track, and 16 lines are planned. Construction began in February 2008, and the Blue Line, the first, opened on June 8, 2014. Its lines are underground, at-grade and elevated. It is India's third-largest and third-busiest metro system.
+
+=== KEY: Mummy_4af898
+HEADWORD: Mummy = 미라
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Australia = 오스트레일리아
+  Camarones Valley = 카마로네스 계곡
+  Cave = 동굴
+  Chile = 칠레
+  China = 중국
+  Chinchorro = 친초로
+  Egypt = 이집트
+  Guinea = 기니
+  Nevada = 네바다주
+  New Guinea = 뉴기니섬
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  Spirit Cave = 스피릿 동굴
+  The Spirit = 『스피릿』
+  radiocarbon dating = 방사성 탄소 연대 측정
+  sacred ibises = 아프리카흑따오기
+ENTRY:
+Preserved body of a dead human or animal. Soft tissues and organs are preserved by intentional or accidental exposure to chemicals, extreme cold, very low humidity or lack of air, so that the body does not decay further if kept cool and dry. The term has been used for accidentally desiccated bodies since at least the early 17th century. Over one million animal mummies, many of them cats, have been found in Egypt, and many of the Egyptian animal mummies are sacred ibises; radiocarbon dating places the analyzed ibis mummies at approximately 450 and 250 BC. The earliest evidence of deliberate mummification extends to approximately 10,000 BC, in burials in Southeast Asia, China, New Guinea and Australia. The Spirit Cave mummies of Fallon, Nevada, are dated at more than 9,400 years old, and a Chinchorro mummy from the Camarones Valley in Chile dates to around 5050 BC.
+
+=== KEY: Mumps_3c3061
+HEADWORD: Mumps = 볼거리
+LEVEL: 4
+GLOSSARY:
+  Brain = 뇌
+  Fertility = 생식 능력
+  MMR vaccine = MMR 백신
+  Measles = 홍역
+  Pancreas = 이자
+  Rubella = 풍진
+  meninges = 뇌척수막
+  parotid glands = 귀밑샘
+ENTRY:
+Highly contagious, vaccine-preventable viral disease. Symptoms appear 16 to 18 days after exposure and include fever, headache, malaise, muscle pain and loss of appetite, usually followed by painful swelling of the parotid glands at the side of the face. About one-third of infections cause no symptoms. Complications are rare but include deafness and inflammation of the [[Pancreas]], meninges, [[Brain|brain]], testes and other organs; testicular inflammation may reduce [[Fertility|fertility]] and, rarely, cause sterility. The virus spreads mainly through respiratory secretions and direct contact. There is no specific treatment, and infection is usually self-limiting. The MMR vaccine, which also protects against [[Measles]] and [[Rubella]], is safe, effective and widely used. The mumps virus was discovered in 1934. In the 21st century cases have resurged in many countries that vaccinate, mainly among adolescents and young adults, owing to waning vaccine immunity and opposition to vaccination.
+
+=== KEY: Mung_bean_82b68a
+HEADWORD: Mung bean = 녹두
+LEVEL: 5
+GLOSSARY:
+  Asia = 아시아
+  East Asia = 동아시아
+  Hindi = 힌디어
+  Sanskrit = 산스크리트어
+  South Asia = 남아시아
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  Vigna radiata = Vigna radiata
+  root nodules = 뿌리혹
+ENTRY:
+Annual legume, *Vigna radiata*, mainly cultivated in [[East Asia]], [[Southeast Asia]] and [[South Asia]]. The name *mung* derives from Hindi *mūṅg*, from Sanskrit *mudga*. Its seeds are used in savory and sweet dishes, and its sprouts are harvested soon after germination. The seeds contain 20–32% protein, making the plant a staple vegetarian protein in Asian diets. Domesticated about 4,000–4,500 years ago from wild forms native to South Asia, it fixes nitrogen through root nodules.
+
+=== KEY: Munich_7b88a4
+HEADWORD: Munich = 뮌헨
+LEVEL: 4
+GLOSSARY:
+  1972 Summer Olympics = 1972년 하계 올림픽
+  Alps = 알프스산맥
+  BMW = BMW
+  Bavaria = 바이에른
+  Capital of the Movement = 운동의 수도
+  FIFA = 국제 축구 연맹
+  FIFA World Cup = FIFA 월드컵
+  German = 독일어
+  Germany = 독일
+  Isar River = 이자르강
+  Kingdom of Bavaria = 바이에른 왕국
+  Munich = 뮌헨
+  Nazi = 나치
+  Nazi Party = 나치당
+  Oktoberfest = 옥토버페스트
+  Party = 파티
+  River = 강
+  Siemens = 지멘스
+  Summer Olympics = 하계 올림픽
+  Volksfest = 민속 축제
+  World = 세계
+  World Cup = 월드컵
+  World War II = 제2차 세계 대전
+  information technology = 정보 기술
+ENTRY:
+Capital and most populous city of [[Bavaria]], Germany (pop., 2025: 1,505,036). Munich lies on the Isar River near the Alps and is the largest German city that is not a state of its own. The first record of the city dates to 1158. It became capital of the Kingdom of Bavaria in 1806 and developed as an artistic and technological hub. In the 1920s it became a center of political movements, including the rise of the [[Nazi Party]], and was known as the "Capital of the Movement." Munich was heavily bombed in [[World War II]], but much of its historic architecture has since been restored. It hosted the 1972 Summer Olympics and the 1974 FIFA World Cup final. Its economy rests on high technology, automobiles, services, information technology, biotechnology and electronics; [[BMW]] and [[Siemens]] are headquartered there. Munich hosts the annual [[Oktoberfest]], the world's largest *Volksfest*.
+
+=== KEY: Munich_massacre_819181
+HEADWORD: Munich massacre = 뮌헨 학살
+LEVEL: 5
+GLOSSARY:
+  1972 Summer Olympics = 1972년 하계 올림픽
+  Black = 검은색
+  Black September = 검은 9월단
+  Eight = 「에잇」
+  Fürstenfeldbruck Air Base = 퓌르스텐펠트브루크 공군 기지
+  German = 독일어
+  Germany = 독일
+  Israel = 이스라엘
+  Lufthansa = 루프트한자
+  Lufthansa Flight 615 = 루프트한자 615편
+  Mossad = 모사드
+  Munich = 뮌헨
+  Olympic Village = 선수촌
+  Summer Olympics = 하계 올림픽
+  Terrorism = 테러리즘
+  Village = 마을
+  West German = 서독
+  West Germany = 서독
+ENTRY:
+[[Terrorism|Terrorist]] attack at the 1972 Summer Olympics in [[Munich]], West Germany. Eight members of the Palestinian militant organization Black September infiltrated the Olympic Village, killed two members of the Israeli team and took nine others hostage. The hostages were killed during a failed rescue attempt at Fürstenfeldbruck Air Base, along with one West German police officer and five of the eight attackers. The three surviving attackers were arrested and then freed the following month in exchange for hostages after the hijacking of [[Lufthansa]] Flight 615. Israel then launched an assassination campaign that authorized [[Mossad]] to kill anyone involved in the attack.
+
+=== KEY: Muntjac_f4cc11
+HEADWORD: Muntjac = 문착
+LEVEL: 5
+GLOSSARY:
+  Asia = 아시아
+  Bornean yellow muntjac = 보르네오노랑문착
+  Deer = 사슴
+  France = 프랑스
+  Germany = 독일
+  International Union for Conservation of Nature = 국제 자연 보전 연맹
+  Japan = 일본
+  Miocene = 마이오세
+  Muntiacus = 문착속
+  Nature = 『네이처』
+  Poland = 폴란드
+  Reeves's muntjac = 리브스문착
+  South Asia = 남아시아
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  United Kingdom = 영국
+  barking deer = 짖는사슴
+  black muntjac = 검은문착
+  critically endangered = 위급
+  data deficient = 정보 부족
+  giant muntjac = 큰문착
+  least concern = 최소관심
+  near threatened = 준위협
+ENTRY:
+Small [[Deer|deer]] of the genus *Muntiacus*, native to [[South Asia]] and [[Southeast Asia]]. Also called barking deer or rib-faced deer. Males have short antlers and canine "tusks" used in territorial fights. Muntjacs are thought to have begun appearing 15–35 million years ago, with remains found in [[Miocene]] deposits in France, Germany and Poland. Most species are listed as least concern or data deficient by the International Union for Conservation of Nature, but the black muntjac, Bornean yellow muntjac and giant muntjac are classed as vulnerable, near threatened and critically endangered, respectively. Reeves's muntjac has become invasive in the United Kingdom and parts of Japan.
+
+=== KEY: Muon_f6be6a
+HEADWORD: Muon = 뮤온
+LEVEL: 4
+GLOSSARY:
+  Antiparticle = 반입자
+  Caltech = 캘리포니아 공과대학교
+  Carl D. Anderson = 칼 데이비드 앤더슨
+  Cosmic ray = 우주선
+  Electron = 전자
+  Lepton = 렙톤
+  Meson = 중간자
+  Muon = 뮤온
+  Neutrino = 중성미자
+  Seth Neddermeyer = 세스 네더마이어
+  Weak interaction = 약한 상호작용
+  antimuon = 반뮤온
+  bremsstrahlung = 제동 복사
+  cosmic rays = 우주선
+  mu mesons = 뮤 중간자
+  positron = 양전자
+  weak interaction = 약한 상호작용
+ENTRY:
+Unstable [[Lepton|lepton]] similar to the [[Electron|electron]] but with a much greater mass. It has an electric charge of −1 e, a spin of ½ ħ and a mean lifetime of 2.2 μs. Its mass is 105.66 MeV/c², or 206.7682827(46) times that of the electron. Its [[Antiparticle|antiparticle]], the antimuon, has a charge of +1 e. Muon decay, mediated by the [[Weak interaction|weak interaction]], always produces an electron or positron and two kinds of [[Neutrino|neutrinos]]. Because of its greater mass, the muon emits less *bremsstrahlung* than an electron, so muons of a given energy penetrate far deeper into matter; secondary muons from [[Cosmic ray|cosmic rays]] reach Earth's surface and even deep mines. Muons were discovered in 1936 by Carl D. Anderson and Seth Neddermeyer at Caltech. Formerly called mu mesons, they are no longer classified as [[Meson|mesons]].
+
+=== KEY: Muqaddimah_6dd04a
+HEADWORD: Muqaddimah = 역사서설
+LEVEL: 4
+GLOSSARY:
+  Arabic = 아랍어
+  Book = 책
+  Demography = 인구학
+  Historiography = 사학사
+  Ibn Khaldun = 이븐 할둔
+  Kitab al-ʿIbar = 『키타브 알이바르』
+  Sociology = 사회학
+  philosophy of history = 역사철학
+  ʿaṣabiyyah = 아사비야
+ENTRY:
+14th-century Arabic treatise on [[Historiography|historiography]], sociology and the philosophy of history by [[Ibn Khaldun]]. A draft was completed in 1377 as the introduction to his planned world history, the *Kitab al-ʿIbar* ("Book of Lessons"), but it came to be regarded as an independent work during his lifetime. He opens with a critique of errors common among historians, including partisanship, over-confidence in sources and failure to place events in context. The most important error, he argues, is ignorance of the laws governing the transformation of human society. Some modern thinkers regard it as the first work of [[Sociology|sociology]], [[Demography|demography]] and cultural history. Its concept of *ʿaṣabiyyah*, group solidarity, explains how nomadic tribes form conquering states that decline through luxury and urbanization.
+
+=== KEY: Mural_8c4578
+HEADWORD: Mural = 벽화
+LEVEL: 4
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Borneo = 보르네오섬
+  Cave painting = 동굴 벽화
+  David Siqueiros = 다비드 시케이로스
+  Diego Rivera = 디에고 리베라
+  Graffiti = 그라피티
+  Italy = 이탈리아
+  José Orozco = 호세 오로스코
+  Latin = 라틴어
+  Mexican muralism = 멕시코 벽화 운동
+  Mosaic = 모자이크
+  Mural = 벽화
+  Paleolithic = 구석기 시대
+  Pompeii = 폼페이
+  Upper Paleolithic = 후기 구석기 시대
+  fresco = 프레스코
+  fresco secco = 프레스코 세코
+  marouflage = 마루플라주
+ENTRY:
+Graphic artwork painted or applied directly to a wall, ceiling or other permanent surface. Mural techniques include [[Mosaic|mosaic]], [[Graffiti|graffiti]], fresco and marouflage. The word comes from the Latin *muralis* (wall painting), related to *murus* (wall). Murals date to the [[Upper Paleolithic]], as in [[Cave painting|cave paintings]] in Borneo, and many were found in [[Ancient Egypt|ancient Egyptian]] tombs and in [[Pompeii]]. In fresco, pigment mixed with water is applied to wet lime plaster and binds as the plaster dries; in fresco secco it is applied to dry plaster with a binder such as egg or oil. Wet-plaster fresco was reintroduced in Italy around 1300. The term became widely known through the Mexican muralism movement led by [[Diego Rivera]], David Siqueiros and José Orozco.
+
+=== KEY: Murasaki_Shikibu_4549a2
+HEADWORD: Murasaki Shikibu = 무라사키 시키부
+LEVEL: 3
+GLOSSARY:
+  Daini no Sanmi = 다이니노 산미
+  Diary = 일기
+  Empress Shōshi = 쇼시 중궁
+  Fujiwara no Kaoruko = 후지와라노 가오루코
+  Fujiwara no Michinaga = 후지와라노 미치나가
+  Genji = 『겐지 이야기』
+  Heian period = 헤이안 시대
+  Japanese literature = 일본 문학
+  Lady Murasaki = 무라사키 시키부
+  Lake = 호수
+  Lake Biwa = 비와호
+  Murasaki Shikibu = 무라사키 시키부
+  The Diary of Lady Murasaki = 『무라사키 시키부 일기』
+  The Tale of Genji = 『겐지 이야기』
+  Ukiyo-e = 우키요에
+  written language = 문어
+ENTRY:
+Japanese novelist, poet, and lady-in-waiting at the imperial court during the [[Heian period]]. She is best known as the author of *[[The Tale of Genji]]*, widely considered one of the world's first novels, written in Japanese between about 1000 and 1012. "Murasaki Shikibu" is a descriptive name; her personal name is unknown, though she may have been Fujiwara no Kaoruko, named in a 1007 court diary as a lady-in-waiting.
+
+Heian women were traditionally excluded from learning Chinese, the written language of government, but Murasaki raised in her scholar father's household, showed a precocious aptitude for the Chinese classics and became fluent. She married in her mid-to-late twenties and had a daughter, Daini no Sanmi; her husband died after two years. In about 1005 Fujiwara no Michinaga invited her to serve as lady-in-waiting to Empress Shōshi, probably because of her reputation as a writer, and she continued writing at court. After five or six years she left court and retired with Shōshi to the Lake Biwa region. Scholars differ on the year of her death: most agree on 1014, while others suggest she was alive in 1025.
+
+She wrote *The Diary of Lady Murasaki*, *The Tale of Genji*, and a volume of poetry. Within a decade of its completion, *Genji* was distributed throughout the provinces; within a century it was recognized as a classic of [[Japanese literature]]. It was published in English between 1925 and 1933. Her works reflect Heian court society at its peak, and since the 13th century they have been illustrated by Japanese artists, including well-known [[Ukiyo-e|ukiyo-e]] woodblock masters.
+
+=== KEY: Murder_dde429
+HEADWORD: Murder = 살인
+LEVEL: 4
+GLOSSARY:
+  Common law = 보통법
+  Edward Coke = 에드워드 코크
+  Homicide = 살인
+  Life imprisonment = 무기 징역
+  Manslaughter = 고살
+  United Kingdom = 영국
+  William = 윌리엄
+  William Blackstone = 윌리엄 블랙스톤
+  capital punishment = 사형
+  common law = 보통법
+  life imprisonment = 종신형
+  malice aforethought = 예모적 악의
+  voluntary manslaughter = 고의적 과실치사
+ENTRY:
+Unlawful killing of another human without justification or valid excuse, committed with the intent defined by law. Manslaughter is killing without malice, such as voluntary manslaughter after reasonable provocation. Most societies regard murder as an extremely serious crime; in most countries a convicted murderer receives a long prison sentence, a [[Life imprisonment|life sentence]] or capital punishment, and the [[United Kingdom]] and other countries with English-derived [[Common law|common law]] mandate life imprisonment. The eighteenth-century jurist [[William Blackstone]], citing Edward Coke, defined common-law murder as unlawfully killing a reasonable creature in being with malice aforethought, and at common law it was normally punishable by death. Globally, about 458,000 intentional [[Homicide|homicides]] were recorded in 2021, an average rate of about 6 per 100,000 people.
+
+=== KEY: Muridae_69187e
+HEADWORD: Muridae = 쥐과
+LEVEL: 4
+GLOSSARY:
+  Americas = 아메리카
+  Antarctica = 남극 대륙
+  Asia = 아시아
+  Australia = 오스트레일리아
+  Eurasia = 유라시아
+  Hamster = 햄스터
+  House mouse = 생쥐
+  Latin = 라틴어
+  Miocene = 마이오세
+  Rodent = 설치류
+  black rat = 곰쥐
+  gerbils = 게르빌루스쥐
+  oceanic islands = 대양섬
+ENTRY:
+[[Rodent]] family, either the largest or second-largest family of rodents and mammals. It contains about 870 species, including many mice, rats and gerbils found naturally throughout Eurasia, Africa and Australia. Murids are not found in Antarctica or on many oceanic islands, and none are native to the Americas, although the [[House mouse|house mouse]] and black rat have been introduced worldwide. The name comes from the [[Latin]] *mus* (mouse), since all true mice belong to the family. Murids occupy habitats from tropical forests to tundra, and their diets range from plant matter and invertebrates to earthworms or fungi. Many breed frequently, and populations can rise rapidly and then collapse when food runs out. They probably evolved from [[Hamster|hamster]]-like animals in tropical Asia in the early [[Miocene]].
+
+=== KEY: Murmansk_b8020a
+HEADWORD: Murmansk = 무르만스크
+LEVEL: 5
+GLOSSARY:
+  Arctic = 북극
+  Arctic Circle = 북극권
+  Arctic convoys = 북극 호송 선단
+  Barents Sea = 바렌츠해
+  Circle = 원
+  Cold War = 냉전
+  Kola Bay = 콜라만
+  Murmansk = 무르만스크
+  Murmansk Oblast = 무르만스크주
+  North Atlantic = 북대서양
+  North Atlantic Current = 북대서양 해류
+  Port = 항구
+  Russia = 러시아
+  World = 세계
+  World War I = 제1차 세계 대전
+  World War II = 제2차 세계 대전
+ENTRY:
+Port city and administrative center of Murmansk Oblast in far northwestern Russia (pop., 2021: 270,384). It is the world's most populous city north of the [[Arctic Circle]], on Kola Bay, a fjord-like inlet of the [[Barents Sea]]. Its harbor stays ice-free because of the warm North Atlantic Current. Founded in 1916 during [[World War I]] as a railway settlement through which Allied military supplies were shipped, it became a destination for Allied Arctic convoys in [[World War II]]. Its population has fallen since the end of the [[Cold War]], from 468,039 in the 1989 Soviet census.
+
+=== KEY: Murray_Gell_Mann_012187
+HEADWORD: Gell-Mann, Murray = 겔만, 머리
+LEVEL: 4
+GLOSSARY:
+  California = 캘리포니아주
+  California Institute of Technology = 캘리포니아 공과대학교
+  Finnegans Wake = 『피네간의 경야』
+  James = 야고보
+  James Joyce = 제임스 조이스
+  Nobel Prize = 노벨상
+  Nobel Prize in Physics = 노벨 물리학상
+  Physics = 물리학
+  Quantum chromodynamics = 양자 색역학
+  Quantum field theory = 양자장론
+  Quark = 쿼크
+  Santa Fe Institute = 산타페 연구소
+  Statistical mechanics = 통계 역학
+  Technology = 기술
+  Weak interaction = 약한 상호작용
+  baryons = 바리온
+  chirality = 카이랄성
+  elementary particles = 기본 입자
+  field theory = 장 이론
+  quantum chromodynamics = 양자 색역학
+  quantum field = 양자장
+  quantum field theory = 양자장론
+  renormalization group = 재규격화군
+  statistical mechanics = 통계 역학
+ENTRY:
+American theoretical physicist and Nobel laureate. He introduced the concept of [[Quark|quarks]] as the fundamental building blocks of strongly interacting particles, and took the name from [[James Joyce]]'s *Finnegans Wake*. He developed the renormalization group as a foundational element of [[Quantum field theory|quantum field theory]] and [[Statistical mechanics|statistical mechanics]]. He received the 1969 [[Nobel Prize]] in Physics for his classification of elementary particles and their interactions. In the 1970s he co-invented [[Quantum chromodynamics|quantum chromodynamics]], which explains the confinement of quarks in mesons and baryons. He also developed chirality in the theory of [[Weak interaction|weak interactions]]. He taught at the California Institute of Technology from 1955 until 1993 and co-founded the Santa Fe Institute in 1984.
+
+=== KEY: Murray_River_c6a709
+HEADWORD: Murray River = 머리강
+LEVEL: 4
+GLOSSARY:
+  Alps = 알프스산맥
+  Australia = 오스트레일리아
+  Australian = 오스트레일리아
+  Australian Alps = 오스트레일리아알프스산맥
+  Drought = 가뭄
+  Encounter Bay = 인카운터만
+  Mouth = 입
+  Murray Mouth = 머리강 하구
+  New South Wales = 뉴사우스웨일스주
+  Ocean = 대양
+  River = 강
+  South Australia = 사우스오스트레일리아주
+  South Wales = 사우스웨일스
+  Southern Ocean = 남극해
+  Victoria (state) = 빅토리아주
+  Wales = 웨일스
+ENTRY:
+River in southeastern [[Australia]], the country's longest at 2,508 km (1,558 mi). It rises in the Australian Alps and forms much of the border between [[New South Wales]] and [[Victoria (state)|Victoria]] before flowing into [[South Australia]]. It empties into Encounter Bay of the [[Southern Ocean]] through the Murray Mouth. Five of Australia's next six longest rivers are tributaries, and together with the Murray they form the Murray–Darling basin, which covers about one-seventh of the country's area. The basin is widely considered Australia's most important irrigated region, and the river has dried up completely during extreme [[Drought|droughts]] on three occasions since records began. As of 2010 the river system received just 58 percent of its natural flow.
+
+=== KEY: Mus_e_d_Orsay_0705e2
+HEADWORD: Musée d'Orsay = 오르세 미술관
+LEVEL: 4
+GLOSSARY:
+  Bank = 은행
+  Claude Monet = 클로드 모네
+  Edgar Degas = 에드가르 드가
+  Exposition Universelle = 만국 박람회
+  France = 프랑스
+  François Mitterrand = 프랑수아 미테랑
+  French = 프랑스어
+  Gae Aulenti = 가에 아울렌티
+  Gare d'Orsay = 오르세역
+  Impressionism = 인상주의
+  Impressionist = 인상주의
+  Left Bank = 센강 좌안
+  Louvre = 루브르 박물관
+  Manet = 마네
+  Monet = 모네
+  Paris = 파리
+  Pierre-Auguste Renoir = 피에르오귀스트 르누아르
+  Post-Impressionism = 후기 인상주의
+  Seine = 센강
+  Vincent van Gogh = 빈센트 반 고흐
+ENTRY:
+Art museum on the Left Bank of the Seine in Paris, housed in the former Gare d'Orsay railway station. The museum holds mainly French artworks, including paintings, sculptures, furniture and photographs, dating from 1848 to 1914. It has the largest collection of [[Impressionism|Impressionist]] and [[Post-Impressionism|post-Impressionist]] masterpieces in the world, by painters such as [[Claude Monet|Monet]], Manet, [[Pierre-Auguste Renoir|Renoir]], [[Edgar Degas|Degas]] and [[Vincent van Gogh|van Gogh]]. The station was built from 1898 to 1900 for the 1900 Exposition Universelle, and its interiors were designed by Italian architect Gae Aulenti. The museum opened in December 1986 under President [[François Mitterrand]]. In 2022 it had 3.2 million visitors, the sixth most visited art museum in the world and the second most visited in France, after the [[Louvre]].
+
+=== KEY: Muscat_ac6a6d
+HEADWORD: Muscat = 무스카트
+LEVEL: 4
+GLOSSARY:
+  East Africa = 동아프리카
+  Gulf of Oman = 오만만
+  Hajar Mountains = 하자르산맥
+  Muscat = 무스카트
+  Oman = 오만
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Persians = 페르시아인
+  Portuguese Empire = 포르투갈 제국
+  Qaboos bin Said = 카부스 빈 사이드
+  Strait = 해협
+  Strait of Hormuz = 호르무즈 해협
+  Zanzibar = 잔지바르
+  liquefied natural gas = 액화 천연가스
+ENTRY:
+Capital and most populous city of [[Oman]] (pop. of governorate, 2022: 1.72 million). The city lies on the Gulf of Oman near the [[Strait of Hormuz]], beneath the Hajar Mountains, and its economy is dominated by trade, petroleum, liquefied natural gas and port activity. Known since the early 1st century CE as a leading port for trade between west and east, Muscat was ruled successively by local tribes and by the Persians, the [[Portuguese Empire]] and the [[Ottoman Empire]]. In the 18th century it was a regional military power whose influence reached [[East Africa]] and [[Zanzibar]]. After Qaboos bin Said became sultan in 1970, rapid infrastructure development turned the city into a multi-ethnic society with a vibrant economy.
+
+=== KEY: Muscle_36143f
+HEADWORD: Muscle = 근육
+LEVEL: 3
+GLOSSARY:
+  Central nervous system = 중추 신경계
+  Heart = 심장
+  Latin = 라틴어
+  Mitochondria = 미토콘드리아
+  Muscle = 근육
+  Neurotransmitter = 신경 전달 물질
+  Sarcomere = 근절
+  Skeletal muscle = 골격근
+  Tendon = 힘줄
+  acetylcholine = 아세틸콜린
+  actin = 액틴
+  adrenaline = 아드레날린
+  biceps = 이두근
+  cardiac = 심장근
+  central nervous system = 중추 신경계
+  muscle fibers = 근섬유
+  myoglobin = 미오글로빈
+  myosin = 미오신
+  nitric oxide = 산화 질소
+  skeletal muscle = 골격근
+  smooth muscle = 민무늬근
+  striated = 가로무늬
+  tropomyosin = 트로포미오신
+  troponin = 트로포닌
+ENTRY:
+Specialized soft tissue, one of the four basic types of animal tissue, whose cells contract to produce force and movement. In vertebrates there are three types: [[Skeletal muscle|skeletal]], cardiac, and smooth muscle. All contain the contractile proteins actin and myosin, which interact to cause movement, along with the regulatory proteins troponin and tropomyosin.
+
+Skeletal muscle is striated and made of elongated, multinucleate cells called muscle fibers, 10 to 100 micrometers wide, containing contractile units called [[Sarcomere|sarcomeres]]. Anchored to bone by [[Tendon|tendons]], it contracts voluntarily under the [[Central nervous system|central nervous system]] and moves the body and maintains posture. It makes up 42% of the body mass of an average adult man and 36% of an average adult woman. Cardiac muscle, found only in the walls of the [[Heart|heart]], is striated but involuntary. Smooth muscle, non-striated and involuntary, lies in the walls of organs and structures including the esophagus, stomach, intestines, uterus, bladder, and blood vessels.
+
+Skeletal muscle fibers are classified as type I (slow-twitch), rich in capillaries, [[Mitochondria|mitochondria]], and myoglobin and suited to sustained aerobic activity, or type II (fast-twitch), which contracts more quickly and with greater force but sustains only short anaerobic bursts. Mammalian skeletal muscle has a density of about 1.06 kg/liter, roughly 15% denser than fat. Muscle types differ in their response to [[Neurotransmitter|neurotransmitters]] and hormones such as acetylcholine, adrenaline, and nitric oxide. In all types, contraction depends on calcium ions triggering interaction between actin and myosin filaments. The word derives from Latin *musculus*, a diminutive of *mus*, "mouse", because a flexed biceps resembles the back of a mouse.
+
+=== KEY: Muscle_cell_fceea7
+HEADWORD: Muscle cell = 근육 세포
+LEVEL: 4
+GLOSSARY:
+  Esophagus = 식도
+  Sarcomere = 근절
+  Skeletal muscle = 골격근
+  Stomach = 위
+  Vertebrate = 척추동물
+  biceps = 이두근
+  biceps brachii = 위팔두갈래근
+  cardiac = 심장근
+  intercalated discs = 사이원반
+  muscle fibers = 근섬유
+  myoblasts = 근모세포
+  myocyte = 근세포
+  myogenesis = 근육 발생
+  peristalsis = 연동 운동
+ENTRY:
+Mature contractile cell in animal muscle, also called a myocyte. Humans and other [[Vertebrate|vertebrates]] have three types: skeletal, smooth and cardiac. Skeletal muscle cells are long and threadlike with many nuclei and are called muscle fibers; they form by fusion of embryonic precursor cells called myoblasts, a process known as myogenesis. A single human biceps brachii contains around 253,000 muscle fibers. Cardiac muscle cells form the walls of the heart chambers, have a single central nucleus and are joined by intercalated discs. Smooth muscle cells have a single nucleus and no [[Sarcomere|sarcomeres]], and control involuntary movements such as peristalsis in the [[Esophagus]] and [[Stomach]].
+
+=== KEY: Muscle_contraction_7cfd5a
+HEADWORD: Muscle contraction = 근육 수축
+LEVEL: 4
+GLOSSARY:
+  Adenosine triphosphate = 아데노신 삼인산
+  Calcium = 칼슘
+  Muscle cell = 근육 세포
+  Nervous system = 신경계
+  Protein = 단백질
+  actin = 액틴
+  action potentials = 활동 전위
+  autonomic nervous system = 자율 신경계
+  cardiac = 심장근
+  cardiac muscle = 심근
+  cross-bridge cycling = 교차 다리 순환
+  isometric contraction = 등척성 수축
+  motor neurons = 운동 뉴런
+  myofibrils = 근원섬유
+  myosin = 미오신
+  sarcoplasmic reticulum = 근소포체
+  skeletal muscle = 골격근
+  sliding filament theory = 활주설
+  summation = 가중
+  tetanus = 강축
+  twitch = 연축
+ENTRY:
+Activation of tension-generating sites within [[Muscle cell|muscle cells]]. Contraction does not necessarily mean shortening: an isometric contraction produces tension without a change in length, as when holding a heavy object still. Thin filaments of actin and thick filaments of the motor [[Protein|protein]] myosin form myofibrils, the basic functional organelles of skeletal muscle. In vertebrates, skeletal muscle contraction is neurogenic and requires input from motor neurons. According to the sliding filament theory, the filaments slide past each other to shorten the fiber, producing a twitch, summation or tetanus depending on the frequency of action potentials. Smooth and cardiac muscle contract myogenically, although the [[Nervous system|autonomic nervous system]] can modulate them. Calcium release from the sarcoplasmic reticulum initiates contraction, and [[Adenosine triphosphate|ATP]] powers the cross-bridge cycling that drives sliding.
+
+=== KEY: Muscular_system_f6c3fe
+HEADWORD: Muscular system = 근육계
+LEVEL: 4
+GLOSSARY:
+  Adenosine triphosphate = 아데노신 삼인산
+  Blood = 혈액
+  Calcium = 칼슘
+  Hormone = 호르몬
+  Muscle = 근육
+  Nervous system = 신경계
+  Sarcomere = 근절
+  Skeletal muscle = 골격근
+  autonomic nervous system = 자율 신경계
+  cardiac = 심장근
+  cardiac muscle = 심근
+  musculoskeletal system = 근골격계
+  sarcoplasmic reticulum = 근소포체
+  sinus node = 동방결절
+  skeletal muscle = 골격근
+  striated = 가로무늬
+ENTRY:
+Organ system of skeletal, smooth and cardiac [[Muscle|muscle]]. It permits movement, maintains posture, circulates [[Blood|blood]] and generates heat. Together with the skeletal system it forms the musculoskeletal system. An adult male human body has more than 600 muscles, and skeletal muscle makes up about 40% of body mass. Skeletal muscle is striated and voluntary: [[Sarcomere|sarcomeres]] shorten on stimulation, using [[Adenosine triphosphate|ATP]] as energy, while [[Calcium|calcium]] released from the sarcoplasmic reticulum uncovers actin-binding sites. Cardiac muscle is striated and involuntary, controlled by the sinus node and the [[Nervous system|autonomic nervous system]]. Smooth muscle is non-striated and involuntary, regulated by [[Hormone|hormones]] and local chemical signals.
+
+=== KEY: Museo_del_Prado_dee08b
+HEADWORD: Museo del Prado = 프라도 미술관
+LEVEL: 4
+GLOSSARY:
+  Bosch = 보쉬
+  Diego Velázquez = 디에고 벨라스케스
+  El Greco = 엘 그레코
+  Francisco Goya = 프란시스코 고야
+  Golden Triangle of Art = 예술의 황금 삼각지대
+  Hieronymus Bosch = 히에로니무스 보스
+  Madrid = 마드리드
+  Museo Reina Sofía = 레이나 소피아 미술관
+  Museum = 박물관
+  Paul = 바울로
+  Peter = 베드로
+  Peter Paul Rubens = 페테르 파울 루벤스
+  Rubens = 루벤스
+  Thyssen-Bornemisza Museum = 티센보르네미사 미술관
+  Titian = 티치아노
+  Triangle = 삼각형
+  UNESCO = 유네스코
+  Velázquez = 벨라스케스
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage list = 세계유산 목록
+ENTRY:
+Principal Spanish national art museum, in central [[Madrid]]. It was founded as a museum of paintings and sculpture in 1819 and is based on the former Spanish royal collection, holding European art from the 12th century to the early 20th century. Its most extensively represented artist is [[Francisco Goya]], and highlights include works by [[Hieronymus Bosch]], [[El Greco]], [[Peter Paul Rubens]], [[Titian]] and [[Diego Velázquez]]. The collection comprises around 8,200 drawings, 7,600 paintings, 4,800 prints and 1,000 sculptures. The Prado, with the Thyssen-Bornemisza Museum and the Museo Reina Sofía, forms Madrid's Golden Triangle of Art, added to the [[UNESCO]] World Heritage list in 2021.
+
+=== KEY: Muses_b4bd44
+HEADWORD: Muses = 무사이
+LEVEL: 5
+GLOSSARY:
+  Ancient Greek religion = 고대 그리스 종교
+  Calliope = 칼리오페
+  Clio = 클리오
+  Erato = 에라토
+  Euterpe = 에우테르페
+  Hesiod = 헤시오도스
+  Melpomene = 멜포메네
+  Memory = 기억
+  Mnemosyne = 므네모시네
+  Muses = 무사이
+  Polyhymnia = 폴리힘니아
+  Terpsichore = 테르프시코레
+  Thalia = 탈레이아
+  Theogony = 『신통기』
+  Urania = 우라니아
+  Zeus = 제우스
+ENTRY:
+Inspirational goddesses of literature, science and the arts in [[Ancient Greek religion|ancient Greek religion]]. They were regarded as the source of the knowledge embodied in the poetry, lyric songs and myths related orally for centuries in ancient Greek culture. From the Classical period their number was standardized at nine: Calliope, Clio, Polyhymnia, Euterpe, Terpsichore, Erato, Melpomene, Thalia and Urania. In [[Hesiod|Hesiod]]'s *Theogony* (c. 700 BC) they are the nine daughters of [[Zeus]] and Mnemosyne, personified as Memory. Earlier traditions named three Muses. In modern figurative usage, a muse is a person who serves as someone's source of artistic inspiration.
+
+=== KEY: Museum_68d282
+HEADWORD: Museum = 박물관
+LEVEL: 3
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  American Alliance of Museums = 미국 박물관 연맹
+  Ancient Greek = 고대 그리스어
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  Institution = 제도
+  Latin = 라틴어
+  Louvre = 루브르 박물관
+  Musaeum = 무세이온
+  Muses = 무사이
+  Ptolemy = 프톨레마이오스
+  Ptolemy I = 프톨레마이오스 1세
+  Ptolemy I Soter = 프톨레마이오스 1세 소테르
+  UNESCO = 유네스코
+  cabinets of curiosities = 호기심의 방
+  intangible heritage = 무형 유산
+  mouseion = 무세이온
+  natural history = 박물학
+ENTRY:
+Institution dedicated to displaying and preserving culturally or scientifically significant objects. Some collections are kept from display for researchers. Collections often focus on a theme such as the arts, science, natural history, or local history.
+
+The English word comes via Latin from the [[Ancient Greek]] *mouseion*, a place or temple dedicated to the [[Muses]], and hence a building set apart for study and the arts, especially the Musaeum at [[Alexandria]], built under [[Ptolemy I Soter]] about 280 BC. Museums originated as private collections; an emphasis on educating the public came much later. Modern public museums grew out of European "cabinets of curiosities," and the [[Louvre]] opened in 1793, after the [[French Revolution]], as a national public gallery. In the 19th century museums focused mainly on scientific research and the organization of collections, and were mostly for scholars. In the latter half of the 20th century, reduced government funding pushed museums to rely on private support and to attract visitors with interactive exhibits. In the 21st century they emphasize accessibility and inclusion, use digital tools, and host discussion of social issues.
+
+The International Council of Museums' definition, adopted in 2022, describes a museum as a not-for-profit, permanent institution in the service of society that researches, collects, conserves, interprets, and exhibits tangible and intangible heritage. Approximately 95,000 museums operate worldwide, up from 22,000 in 1975. The American Alliance of Museums reports that U.S. museums contribute over 18 million instructional hours annually and $50 billion to GDP. The 2015 Recommendation of [[UNESCO]] stresses combating illicit trafficking. Debates persist over the ethical acquisition of objects in colonial eras and demands for their repatriation.
+
+=== KEY: Museum_of_Modern_Art_57b7b7
+HEADWORD: Museum of Modern Art = 뉴욕 현대 미술관
+LEVEL: 4
+GLOSSARY:
+  Abby Aldrich Rockefeller = 애비 올드리치 록펠러
+  Alfred = 앨프레드 대왕
+  City = 도시
+  Claude = 클로드
+  Claude Monet = 클로드 모네
+  Cold War = 냉전
+  Cubism = 입체주의
+  Cubism and Abstract Art = 「입체주의와 추상 미술」
+  Lillie P. Bliss = 릴리 P. 블리스
+  Manhattan = 맨해튼
+  Mary Quinn Sullivan = 메리 퀸 설리번
+  Midtown = 미드타운
+  Midtown Manhattan = 미드타운 맨해튼
+  Modern art = 현대 미술
+  Monet = 모네
+  New York City = 뉴욕
+  Wall = 벽
+  Wall Street Crash = 월가 대폭락
+  West 53rd Street = 웨스트 53번가
+  York = 요크
+ENTRY:
+Art museum in Midtown [[Manhattan]], New York City, specializing in [[Modern art|modern art]]. Its collection, which spans the late 19th century to the present, includes over 200,000 works of architecture and design, drawing, painting, sculpture, photography, film and electronic media. It was conceived in 1929 by Abby Aldrich Rockefeller, Lillie P. Bliss and Mary Quinn Sullivan, and opened days after the Wall Street Crash, with Alfred H. Barr Jr. as its first director. It moved to its current site on West 53rd Street in 1939. Its early landmark exhibitions included Barr's *Cubism and Abstract Art* in 1936. A 1958 fire destroyed a painting by [[Claude Monet]]. In later decades the museum was among several institutions that aided the CIA's cultural propaganda efforts during the [[Cold War]]. In 2024 it was visited by over 2.6 million people.
+
+=== KEY: Mushroom_b93c3d
+HEADWORD: Mushroom = 버섯
+LEVEL: 4
+GLOSSARY:
+  Agaricus bisporus = 양송이
+  Ascomycota = 자낭균문
+  Basidiomycota = 담자균문
+  Fungus = 균류
+  Mycelium = 균사체
+  Psilocybin = 실로시빈
+  Spore = 포자
+  ascomycetes = 자낭균류
+  basidiomycetes = 담자균류
+  fruiting body = 자실체
+  gills = 주름살
+  spore print = 포자문
+  toadstool = 독버섯
+  white button mushroom = 양송이
+ENTRY:
+Fleshy, spore-bearing fruiting body of a [[Fungus|fungus]], typically produced above ground on soil or another food source. The standard for the name is the cultivated white button mushroom, *Agaricus bisporus*. The word is most often applied to [[Basidiomycota|basidiomycetes]] with a stem, a cap and gills on the underside of the cap, but also to some [[Ascomycota|ascomycetes]]. Mushrooms grow from underground [[Mycelium|mycelium]] and can expand rapidly under favorable conditions. Their [[Spore|spores]] fall from the gills as a fine powder, and the color of this spore print helps identify the species. Some mushrooms are edible and nutritious, while others are toxic or [[Psilocybin|psychoactive]]. A toadstool generally refers to a poisonous mushroom.
+
+=== KEY: Mushroom_poisoning_ab8502
+HEADWORD: Mushroom poisoning = 버섯 중독
+LEVEL: 4
+GLOSSARY:
+  Amanita = 광대버섯속
+  Amatoxins = 아마톡신
+  Kidney = 콩팥
+  Liver = 간
+  Muscarine = 무스카린
+  Mushroom = 버섯
+  Orellanine = 오렐라닌
+  muscarinic receptors = 무스카린 수용체
+ENTRY:
+Illness caused by eating toxic [[Mushroom|mushrooms]]. Symptoms range from gastrointestinal upset to organ failure and death, sometimes within about 10 days. Serious effects can appear days or weeks after eating, when toxins attack the [[Kidney|kidneys]] or [[Liver|liver]]. Most cases follow misidentification of a toxic wild species as an edible one because of similar color and form. Amatoxins, found in some *Amanita* species, are heat-stable, so cooking does not make them safe, and overall mortality is between 10 and 15 percent. Orellanine causes kidney failure, typically around day 11 after ingestion. Muscarine stimulates muscarinic receptors, causing sweating, salivation and, in high doses, respiratory failure.
+
+=== KEY: Music_47dcbd
+HEADWORD: Music = 음악
+LEVEL: 2
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Charles Darwin = 찰스 다윈
+  China = 중국
+  Darwin = 다윈
+  Democratic = 민주당
+  Democratic Republic of the Congo = 콩고 민주 공화국
+  Divje Babe flute = 디베 바베 피리
+  Egypt = 이집트
+  French = 프랑스어
+  Geissenklösterle = 가이센클뢰스테를레
+  Germany = 독일
+  Greece = 그리스
+  Hurrian Hymn to Nikkal = 「니칼에게 바치는 후르리 찬가」
+  Japan = 일본
+  Jura = 쥐라
+  Latin = 라틴어
+  Middle English = 중세 영어
+  Middle Kingdom = 중왕국
+  Muses = 무사이
+  Music = 음악
+  Music industry = 음악 산업
+  Musical instrument = 악기
+  Nigeria = 나이지리아
+  Old French = 고대 프랑스어
+  Old Kingdom = 고왕국
+  Origin of language = 언어의 기원
+  Plato = 플라톤
+  Republic = 『국가』
+  Republic of the Congo = 콩고 공화국
+  Songye = 송예족
+  Swabian Jura = 슈바벤알프
+  Tiv = 티브족
+  Ugarit = 우가리트
+  ancient Greece = 고대 그리스
+  bone flutes = 뼈 피리
+  clay tablets = 점토판
+  cultural universal = 문화 보편성
+  le = 러
+  mousiké technē = 무시케 테크네
+  natural selection = 자연 선택
+  sexual selection = 성선택
+  yue = 웨
+ENTRY:
+Art of arranging sound to create some combination of form, harmony, melody, rhythm, or other expressive content. Music is generally agreed to be a cultural universal, present in all human societies, though definitions vary widely and scholars have reached no consensus on which elements are necessary. Its making is often divided into composition, improvisation, and performance. It may be performed on a wide variety of [[Musical instrument|musical instruments]], including the human voice, or produced mechanically or electronically.
+
+Music plays a key role in social events and religious ceremonies, and its techniques are often transmitted as part of a cultural tradition. It is performed at festivals and concerts and used in the soundtracks of films, television shows, operas, and video games. Listening is a common means of entertainment, and the culture around music extends to academic study, journalism, philosophy, psychology, and therapy. The [[Music industry|music industry]] includes songwriters, composers, performers, producers, and publishers of sheet music and recordings. Recording technology has included microphones, phonographs, and tape machines, with digital playback common on smartphones.
+
+The word entered English in the 1630s, from Middle English *musike*, Old French *musique*, and Latin *mūsica*, ultimately from the Greek *mousiké technē*, "art of the [[Muses]]". Concepts of music vary across cultures. Before Western contact, neither Japan nor China had a single word covering music in a broad sense; the Chinese *yue* shares a character with *le*, "joy". The Songye of the Democratic Republic of the Congo and the Tiv of Nigeria have a broad conception of music but no corresponding word.
+
+Origins are debated. Many scholars see a relationship with the [[Origin of language|origin of language]], and disagree on whether music arose before, after, or alongside it, and on whether it was a direct result of natural selection or a byproduct of evolution. [[Charles Darwin]] proposed in 1871 that music arose through sexual selection, perhaps via mating calls; the theory has been heavily criticized, though some 21st-century scholars have promoted it. Other theories hold that music arose to organize labor, aid communication, build community cohesion, or scare off predators. The disputed Divje Babe flute, a perforated cave bear femur, is at least 40,000 years old. The earliest widely accepted instruments are bone flutes from the Swabian Jura, Germany, with three from Geissenklösterle dated oldest, c. 43,150–39,370 BP.
+
+In [[Ancient Egypt]], harps, flutes, and double clarinets are securely attested in the Old Kingdom, and percussion instruments, lyres, and lutes joined orchestras by the Middle Kingdom. The "Hurrian Hymn to Nikkal", found on clay tablets in the Syrian city of [[Ugarit]] and dating to approximately 1400 BC, is the oldest surviving notated work of music. In ancient Greece music was one of the main subjects taught to children, with boys beginning at age six, and musical education was considered important for the development of the soul, as in [[Plato]]'s *Republic*.
+
+=== KEY: Music_genre_a19cd1
+HEADWORD: Music genre = 음악 장르
+LEVEL: 4
+GLOSSARY:
+  Country music = 컨트리 음악
+  Franco = 프랑코
+  Franco Fabbri = 프랑코 파브리
+  Fusion = 퓨전
+  Genre = 장르
+  Jazz = 재즈
+  Music = 음악
+  art music = 예술 음악
+  country rock = 컨트리 록
+  jazz fusion = 재즈 퓨전
+  subgenre = 하위 장르
+ENTRY:
+Conventional category that groups pieces of [[Music|music]] sharing a tradition or set of conventions. Genre is distinguished from musical form and style, though the terms are sometimes used interchangeably. Music is divided into genres in many ways, such as popular versus art music, or religious versus secular. Classification is often subjective and controversial, since genres evolve and novel music is sometimes lumped into existing categories. A subgenre adopts the basic characteristics of its genre while distinguishing itself within it; the proliferation of popular music in the 20th century has produced over 1,200 definable subgenres. Fusion genres combine two or more genres, as [[Jazz|jazz]] fusion combines jazz and rock and [[Country music|country rock]] combines country music and rock music. In 1982, Franco Fabbri proposed a definition now considered normative: "musical genre is a set of musical events (real or possible) whose course is governed by a definite set of socially accepted rules."
+
+=== KEY: Music_industry_a59db0
+HEADWORD: Music industry = 음악 산업
+LEVEL: 4
+GLOSSARY:
+  Amazon Music = 아마존 뮤직
+  Apple Music = 애플 뮤직
+  BMG Rights Management = BMG 라이츠 매니지먼트
+  Management = 경영학
+  Music = 음악
+  Rights = 인권
+  Sony = 소니
+  Sony Music Group = 소니 뮤직 그룹
+  Spotify = 스포티파이
+  Universal Music Group = 유니버설 뮤직 그룹
+  Warner Music Group = 워너 뮤직 그룹
+  performance-rights organizations = 공연권 관리 단체
+  product = 곱
+ENTRY:
+Individuals and organizations that earn money from songs, recordings, sheet music and concerts. The industry includes songwriters, performers, record labels, music publishers, recording studios, music venues, promoters and performance-rights organizations, as well as managers, lawyers, critics and teachers. The modern Western industry emerged between the 1930s and 1950s, when records replaced sheet music as the most important product. By the 2020s, four major corporate labels, [[Universal Music Group]], [[Sony]] Music Group, Warner Music Group and BMG Rights Management, controlled a majority of the market. Since 2000, sales of recorded music have dropped substantially while live music has grown in importance. Since 2011, streaming has generated more revenue per year than digital downloads, with [[Spotify]], Apple Music and Amazon Music the largest services by subscribers. Global recorded music revenues reached US$29.6 billion in 2024, a 4.8% increase and the tenth consecutive year of growth. Payments to artists per stream remain a continuing source of dispute.
+
+=== KEY: Music_of_Africa_5e25a5
+HEADWORD: Music of Africa = 아프리카 음악
+LEVEL: 4
+GLOSSARY:
+  African diaspora = 아프리카 디아스포라
+  Blues = 블루스
+  Call-and-response = 메기고 받기
+  Djembe = 젬베
+  Drum = 북
+  Jazz = 재즈
+  Latin = 라틴어
+  Music = 음악
+  Oral tradition = 구전
+  Samba = 삼바
+  Xylophone = 실로폰
+  afrobeat = 아프로비트
+  highlife = 하이라이프
+  jùjú = 주주
+  mbalax = 음발락스
+  mbira = 음비라
+  mbube = 음부베
+  oral tradition = 구전
+  polyrhythm = 폴리리듬
+  soukous = 수쿠스
+ENTRY:
+Diverse musical traditions of the African continent, shaped by distinct regional and national cultures. African music is highly rhythmic and often uses polyrhythm, in which one rhythm is played against another. Percussion is central, and sub-Saharan traditions rely on [[Xylophone|xylophones]], [[Djembe|djembes]], [[Drum|drums]] and tone-producing instruments such as the mbira. Call-and-response singing and improvisation over a core rhythmic pattern are common. Much traditional music is passed down through [[Oral tradition|oral tradition]] and is integral to communal, religious and social life. Genres include highlife, mbube, jùjú, afrobeat, mbalax and soukous. Music of the African diaspora, including American genres such as [[Blues|blues]] and [[Jazz|jazz]], was shaped to varying degrees by African traditions, and Latin American genres such as [[Samba|samba]] developed from the music of enslaved Africans. These genres have in turn influenced contemporary African popular music.
+
+=== KEY: Music_of_China_c8b23b
+HEADWORD: Music of China = 중국 음악
+LEVEL: 4
+GLOSSARY:
+  Against Music = 『비악』
+  Bone = 뼈
+  China = 중국
+  Confucius = 공자
+  Flute = 피리
+  Henan = 허난성
+  Jiahu = 자후
+  Mozi = 묵자
+  Music = 음악
+  Village = 마을
+  Yin and yang = 음양
+  Zhou dynasty = 주나라
+  formal system = 형식 체계
+  orchestration = 관현악법
+  pentatonic scales = 5음 음계
+  yayue = 아악
+  yin and yang = 음양
+ENTRY:
+Traditions of music in China, including classical court forms, folk music and modern popular music. Archaeological finds show a developed musical culture as early as the [[Zhou dynasty]] (1122–257 BC), when a formal system of court and ceremonial music later termed yayue was established. Bone [[Flute|flutes]] dated to 9,000 years ago have been found at Jiahu Village in Henan. Traditional forms emphasize pentatonic scales, and in the Zhou dynasty music was conceived as a cosmological manifestation of nature, integrated into the order of [[Yin and yang|yin and yang]]. [[Confucius]] held that correct music cultivated the individual and that formal court music was morally uplifting, while Mozi condemned music in *Against Music* as an extravagance. In ancient China, musicians had lower social status than painters. Since the early 20th century, Chinese composers have integrated Western orchestration and notation, and popular genres now draw on global markets, though state oversight shapes lyrical content.
+
+=== KEY: Music_theory_91ec63
+HEADWORD: Music theory = 음악 이론
+LEVEL: 4
+GLOSSARY:
+  Canada = 캐나다
+  Counterpoint = 대위법
+  Guido Adler = 귀도 아들러
+  Harmony = 화성
+  Music = 음악
+  Music theory = 음악 이론
+  Musicology = 음악학
+  Scale (music) = 음계
+  Teaching = 교수
+  United States = 미국
+  consonance and dissonance = 협화음과 불협화음
+  key signatures = 조표
+  orchestration = 관현악법
+  ornamentation = 장식음
+  time signatures = 박자표
+  tuning systems = 조율 체계
+ENTRY:
+Study of the theoretical frameworks for understanding the practices and possibilities of music. The term has three related uses: the rudiments needed to read notation, such as key signatures, time signatures and rhythmic notation; the study of scholars' views on music from antiquity to the present; and a subtopic of [[Musicology|musicology]] that seeks to define processes and general principles in music. Music theory covers tuning systems, [[Scale (music)|scales]], consonance and dissonance, and rhythmic relationships, as well as [[Harmony|harmony]] and [[Counterpoint|counterpoint]]. As a practical discipline it includes the methods composers and performers use in creating and performing music, such as orchestration, ornamentation and improvisation. Guido Adler, one of the founders of musicology, wrote that "the science of music originated at the same time as the art of sounds." Teaching as a tenure-track music theorist at a university in the United States or Canada typically requires graduate study to the MA or PhD level.

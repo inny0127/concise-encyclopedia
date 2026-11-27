@@ -1,0 +1,958 @@
+=== KEY: Inductive_reasoning_59b655
+HEADWORD: Inductive reasoning = 귀납 추론
+LEVEL: 4
+GLOSSARY:
+  Aristotle = 아리스토텔레스
+  Bacon = 베이컨
+  Bayesian inference = 베이즈 추론
+  David Hume = 데이비드 흄
+  Deductive reasoning = 연역 추론
+  Francis = 프랑수아
+  Francis Bacon = 프랜시스 베이컨
+  Hasty generalization = 성급한 일반화
+  Hume = 흄
+  John = 존
+  John Stuart Mill = 존 스튜어트 밀
+  argument from analogy = 유비 논증
+  biased sample = 편향된 표본
+  causal inference = 인과 추론
+  margin of error = 오차 범위
+  statistical syllogism = 통계적 삼단 논법
+ENTRY:
+Method of logical reasoning in which the conclusion of an argument is supported with some degree of probability but not deductive certainty. Unlike [[Deductive reasoning|deductive reasoning]], where the conclusion is certain if the premises are correct, inductive conclusions are at best probable. Types include generalization, prediction, statistical syllogism, argument from analogy and causal inference. A statistical generalization infers a conclusion about a population from a random sample, and is reliable within a margin of error when the sample is genuinely random and large. Hasty generalization and the biased sample are fallacies of generalization. Probabilities can be estimated with techniques such as [[Bayesian inference]]. [[Aristotle]] distinguished induction as a move from particulars to universals, [[Francis Bacon]] advocated empirical induction for science, and [[David Hume]] questioned why past patterns justify future expectations. [[John Stuart Mill]] later refined inductive methods such as agreement and difference.
+
+=== KEY: Inductor_38cfc0
+HEADWORD: Inductor = 인덕터
+LEVEL: 4
+GLOSSARY:
+  Alternating current = 교류
+  Capacitor = 축전기
+  Inductance = 인덕턴스
+  Joseph Henry = 조지프 헨리
+  Radio = 라디오
+  Resistor = 저항기
+  Wire = 전선
+  alternating current = 교류
+  choke = 초크
+  direct current = 직류
+  ferrite = 페라이트
+  henries = 헨리
+  magnetic field = 자기장
+  passive linear circuit elements = 수동 선형 회로 소자
+  reactor = 리액터
+ENTRY:
+Passive two-terminal electrical component that stores energy in a magnetic field, also called a coil, choke or reactor. It typically consists of an insulated [[Wire|wire]] wound into a coil. When the current through it changes, the changing magnetic field induces a voltage that opposes the change, so inductors resist changes in current. Its [[Inductance|inductance]] is measured in henries (H), named after American scientist Joseph Henry. Many inductors have a core of iron or ferrite, which increases the magnetic field and inductance. Along with [[Capacitor|capacitors]] and [[Resistor|resistors]], inductors are one of the three passive linear circuit elements. They are widely used in [[Alternating current|alternating-current]] equipment, particularly [[Radio|radio]] equipment, where chokes block alternating current while allowing direct current to pass. Values typically range from 1 μH (10⁻⁶ H) to 20 H.
+
+=== KEY: Indus_River_bf8863
+HEADWORD: Indus River = 인더스강
+LEVEL: 4
+GLOSSARY:
+  Arabian Sea = 아라비아해
+  Asia = 아시아
+  Avesta = 『아베스타』
+  Central Asia = 중앙아시아
+  China = 중국
+  Darius = 다리우스
+  Indus = 인더스강
+  Indus Valley = 인더스강 유역
+  Indus Valley Civilisation = 인더스 문명
+  Karachi = 카라치
+  Kashmir = 카슈미르
+  Pakistan = 파키스탄
+  Persia = 페르시아
+  Punjab = 펀자브
+  Rigveda = 『리그베다』
+  Scylax of Caryanda = 카리안다의 스킬락스
+  Tibet = 티베트
+  Tibet Autonomous Region = 티베트 자치구
+  Transboundary river = 국제 하천
+ENTRY:
+Transboundary river of South and Central Asia, 3,180 km (1,980 mi) long. It rises in the [[Tibet Autonomous Region]] of China, flows northwest through the disputed [[Kashmir]] region, then turns south through [[Pakistan]] and empties into the [[Arabian Sea]] near [[Karachi]]. The river drains about 1,120,000 sq km (430,000 sq mi) and carries an estimated 175 km³ a year (5,500 m³/s), making it one of the 50 largest rivers in the world by average annual flow. The [[Indus Valley Civilisation]] rose along its banks in the 3rd millennium BC, and the *Rigveda* and the *Avesta* both name the Punjab region with terms meaning "seven rivers." The river entered Western knowledge when King Darius of Persia sent his Greek subject Scylax of Caryanda to explore it, c. 515 BC.
+
+=== KEY: Indus_Valley_Civilisation_4e9d33
+HEADWORD: Indus Valley Civilisation = 인더스 문명
+LEVEL: 3
+GLOSSARY:
+  Afghanistan = 아프가니스탄
+  Asia = 아시아
+  Bronze = 청동
+  Bronze Age = 청동기 시대
+  China = 중국
+  Dholavira = 돌라비라
+  Dravidian = 드라비다어족
+  Egypt = 이집트
+  Elamo-Dravidian = 엘람-드라비다어족
+  Ganeriwala = 가네리왈라
+  Harappa = 하라파
+  Harappan = 하라파
+  Harappan civilization = 하라파 문명
+  India = 인도
+  Indus = 인더스강
+  Indus River = 인더스강
+  Indus script = 인더스 문자
+  Mesopotamia = 메소포타미아
+  Metallurgy = 야금학
+  Mohenjo-daro = 모헨조다로
+  Pakistan = 파키스탄
+  Rakhigarhi = 라키가리
+  River = 강
+  South Asia = 남아시아
+  Trade = 교역
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  alluvial plain = 충적 평야
+  ancient Egypt = 고대 이집트
+  carnelian = 홍옥수
+  lapis lazuli = 청금석
+  type site = 표준 유적
+ENTRY:
+Bronze Age urban civilization of northwestern South Asia, c. 3300–1300 BC.
+
+The civilization, also called the Indus Civilisation or Harappan civilization, lasted from 3300 BC to 1300 BC, and in its mature form from 2600 BC to 1900 BC. With ancient Egypt, Mesopotamia, and China, it was one of the four centers of the ancient world, and it was geographically larger than ancient Egypt and Mesopotamia combined. It spanned much of Pakistan, northwestern India, and northeast Afghanistan on the alluvial plain of the [[Indus River]] and along monsoon-fed rivers. The name Harappan comes from Harappa, the type site, first excavated early in the 20th century.
+
+Its cities were noted for urban planning, baked brick houses, elaborate drainage and water supply systems, clusters of large non-residential buildings, and techniques of handicraft and [[Metallurgy|metallurgy]]. [[Mohenjo-daro]] and Harappa very likely held between 30,000 and 60,000 people, and the civilization may have had between one and five million. Over a thousand Mature Harappan sites have been reported, but only five are major urban centers: Mohenjo-daro, Harappa, Ganeriwala, Dholavira, and Rakhigarhi. Trade in goods such as carnelian beads and lapis lazuli reached Mesopotamia,. The Indus script remains undeciphered, and the language's affiliations are uncertain; some scholars favor a relationship with the Dravidian or Elamo-Dravidian family.
+
+A gradual drying of the region during the 3rd millennium BC may have stimulated urbanization, and further drying reduced the water supply enough to cause the civilization's decline and disperse its population to the east. Mohenjo-daro was declared a [[UNESCO]] World Heritage Site in 1980 and Dholavira in 2021.
+
+=== KEY: Industrial_Revolution_d5a252
+HEADWORD: Industrial Revolution = 산업 혁명
+LEVEL: 3
+GLOSSARY:
+  Average = 평균
+  China = 중국
+  Europe = 유럽
+  First Industrial Revolution = 제1차 산업 혁명
+  India = 인도
+  Industrial Revolution = 산업 혁명
+  James = 야고보
+  James Watt = 제임스 와트
+  John = 존
+  John Clapham = 존 클래펌
+  Nicholas Crafts = 니컬러스 크래프츠
+  North America = 북아메리카
+  Second = 초
+  Second Industrial Revolution = 제2차 산업 혁명
+  Steam engine = 증기 기관
+  United States = 미국
+  Watt = 와트
+  Western Europe = 서유럽
+  Western world = 서양
+  factory system = 공장제
+  machine tools = 공작 기계
+  steam engine = 증기 기관
+ENTRY:
+Transition of the global economy, beginning in Great Britain around 1760, from hand production to machine manufacturing and the factory system.
+
+Sometimes called the First Industrial Revolution to distinguish it from the later [[Second Industrial Revolution]], it had spread to continental Europe and the United States by about 1840. It involved the move from hand methods to machines, new chemical and iron production processes, the increasing use of water and steam power, the development of machine tools, and the rise of the mechanised factory system. Textiles were the first industry to use modern production methods; by the 1830s mechanised cotton spinning had increased output per worker by a factor of around 500.
+
+Several factors enabled industrialization: high agricultural productivity, managerial and entrepreneurial skills, ports, rivers, canals, and roads, natural resources such as coal and iron, political stability, and available financial capital. Britain was the leading commercial nation by the mid-18th century. The improved [[Steam engine|steam engine]] of [[James Watt]] was patented in 1769.
+
+Historians debate the precise start and end of the revolution and the pace of its changes; some, including John Clapham and Nicholas Crafts, argue that change was gradual and that "revolution" is a misnomer. Average income and population showed unprecedented sustained growth, and the standard of living improved for most people in the Western world, although others say it did not improve meaningfully until the 20th century. Before the revolution most manufacturing occurred in China and India; afterward it took place mainly in North America and Western Europe.
+
+=== KEY: Industrial_design_ca55a7
+HEADWORD: Industrial design = 산업 디자인
+LEVEL: 4
+GLOSSARY:
+  Gobelins Manufactory = 고블랭 제작소
+  Henry Dreyfuss = 헨리 드레이퍼스
+  Industrial Designers Society of America = 미국 산업디자이너협회
+  Industrial Revolution = 산업 혁명
+  Louis XIV = 루이 14세
+  Middle class = 중산층
+  Paris = 파리
+  Society = 사회
+  TEAGUE = 티그
+  Urbanization = 도시화
+  Walter Dorwin Teague = 월터 도윈 티그
+  applied art = 응용 미술
+  ergonomics = 인간공학
+  industrial design = 산업 디자인
+ENTRY:
+Process of identifying problems and creating products, systems and experiences that make everyday activities more efficient or meaningful. As an applied art, industrial design combines aesthetics and user-focused considerations with form, function, ergonomics, marketing, brand development, sustainability and sales. The designer determines a product's form and features before manufacture, whereas in craft-based design the maker determines form largely during production. The discipline is linked to the [[Industrial Revolution]] in Great Britain in the mid-18th century, which changed how objects were made, while [[Urbanization|urbanization]] and a wider [[Middle class|middle class]] created demand for fashionable styles. Earlier, the Gobelins Manufactory, opened in [[Paris]] in 1667 by [[Louis XIV]], produced sumptuously decorated products under royal patronage. In the 20th century Walter Dorwin Teague founded the firm TEAGUE in 1926, and Henry Dreyfuss became the first president of the Industrial Designers Society of America when it was established in 1965.
+
+=== KEY: Industrial_engineering_9e6187
+HEADWORD: Industrial engineering = 산업 공학
+LEVEL: 4
+GLOSSARY:
+  American Institute of Industrial Engineering = 미국 산업공학회
+  Branch = 브랜치
+  Engineering = 공학
+  Finance = 금융
+  Frank = 프랭크
+  Frank and Lillian Gilbreth = 프랭크 길브레스와 릴리언 길브레스
+  Frederick = 프리드리히
+  Frederick Taylor = 프레더릭 테일러
+  Logistics = 물류
+  Manufacturing = 제조업
+  Mathematics = 수학
+  Operations research = 운용 과학
+  Productivity = 생산성
+  Six Sigma = 식스 시그마
+  System = 시스템
+  ergonomics = 인간공학
+  lean manufacturing = 린 생산
+  motion studies = 동작 연구
+  systems engineering = 시스템 공학
+  time studies = 시간 연구
+ENTRY:
+Branch of engineering concerned with the optimization of complex processes, systems and organizations. It designs, improves and installs integrated [[System|systems]] of people, materials, information, equipment and energy, drawing on the [[Mathematics|mathematical]], physical and social sciences. Industrial engineers work to reduce waste and raise [[Productivity|productivity]] and quality, using principles such as lean manufacturing and Six Sigma. They are employed in [[Manufacturing|manufacturing]], healthcare, [[Logistics|logistics]], [[Finance|finance]] and education. The field grew out of factory systems and mass production. Frederick Taylor, often called the "father of industrial engineering", emphasized time studies and standardized work methods in principles published in 1911. Frank and Lillian Gilbreth developed motion studies, and the American Institute of Industrial Engineering was founded in 1948. The discipline overlaps with [[Operations research]], systems engineering and ergonomics.
+
+=== KEY: Industrial_robot_4e8cd3
+HEADWORD: Industrial robot = 산업용 로봇
+LEVEL: 4
+GLOSSARY:
+  Arm = 팔
+  Cartesian = 직교 좌표
+  General Motors = 제너럴 모터스
+  George Devol = 조지 데볼
+  International Federation of Robotics = 국제로봇연맹
+  Jersey = 저지섬
+  Manufacturing = 제조업
+  New Jersey = 뉴저지주
+  Patent = 특허
+  Printed circuit board = 인쇄 회로 기판
+  Robot = 로봇
+  Robotics = 로봇공학
+  SCARA = 스카라
+  Unimate = 유니메이트
+  Welding = 용접
+  articulated robot = 다관절 로봇
+  degrees of freedom = 자유도
+  delta robots = 델타 로봇
+  palletizing = 팔레타이징
+ENTRY:
+Robot used for [[Manufacturing|manufacturing]], automated, programmable and capable of movement on three or more axes. Typical applications include [[Welding|welding]], painting, assembly, pick and place for [[Printed circuit board|printed circuit boards]], packaging, palletizing and inspection, all with high endurance, speed and precision. The most common type is the articulated robot, which resembles a human [[Arm|arm]] and has several degrees of freedom. Other types include Cartesian, cylindrical, spherical, SCARA and delta robots. The foundational [[Patent|patent]] was filed by George Devol in 1954, and the first Unimate was installed in 1961 at a [[General Motors]] die-casting plant in New Jersey. In 2024, an estimated 4,663,698 industrial robots were in operation worldwide, according to the International Federation of Robotics.
+
+=== KEY: Industrialisation_bceae5
+HEADWORD: Industrialization = 산업화
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Belgium = 벨기에
+  Child labour = 아동 노동
+  East Asia = 동아시아
+  Fossil fuel = 화석 연료
+  France = 프랑스
+  Germany = 독일
+  Industrial Revolution = 산업 혁명
+  Second = 초
+  Second Industrial Revolution = 제2차 산업 혁명
+  Steam engine = 증기 기관
+  Switzerland = 스위스
+  Talcott Parsons = 탤컷 파슨스
+  assembly line = 조립 라인
+  child labor = 아동 노동
+  extended families = 확대 가족
+  fossil fuels = 화석 연료
+  internal combustion engine = 내연 기관
+  nuclear family = 핵가족
+  steam engine = 증기 기관
+  technological leapfrogging = 기술 도약
+ENTRY:
+Period of social and economic change that transforms an agrarian and feudal society into an industrial one. It involves an extensive reorganization of an economy for manufacturing, and is associated with polluting industries dependent on [[Fossil fuel|fossil fuels]]. With the focus on sustainable development, it increasingly includes technological leapfrogging. The first phase, the [[Industrial Revolution]], began in Great Britain in the mid-18th century and spread to Belgium, Switzerland, Germany and France. The [[Second Industrial Revolution]] followed the refinement of the [[Steam engine|steam engine]], the internal combustion engine and electricity, and the assembly line gave it a boost. Industrialization changed family structures as extended families stopped living together, though historians widely contest the theory of [[Talcott Parsons]] that it created the nuclear family. Workers moved to cities, increasing urbanization and the spread of disease, and industrialization contributed to [[Child labour|child labor]]. By the end of the 20th century, [[East Asia]] had become one of the most recently industrialized regions.
+
+=== KEY: Inequality_mathematics_11017a
+HEADWORD: Inequality = 부등식
+LEVEL: 4
+GLOSSARY:
+  Addition = 덧셈
+  Division (mathematics) = 나눗셈
+  Subtraction = 뺄셈
+  number line = 수직선
+  orders of magnitude = 자릿수
+ENTRY:
+Mathematical relation making a non-equal comparison between two numbers or other expressions. Inequalities most often compare two numbers by their size on the number line. The main types are less than (<) and greater than (>), which exclude equality, and the non-strict less than or equal to (≤) and greater than or equal to (≥). The notation a ≠ b means that a is not equal to b. In engineering, a ≪ b means that a is much less than b, normally by several orders of magnitude. An inequality is preserved under [[Addition|addition]] and [[Subtraction|subtraction]] of a common constant, and under multiplication or [[Division (mathematics)|division]] by a positive number, but multiplying or dividing by a negative number reverses it. Reversing the two quantities while flipping the symbol gives an equivalent statement.
+
+=== KEY: Inertia_b19a24
+HEADWORD: Inertia = 관성
+LEVEL: 4
+GLOSSARY:
+  Aristotle = 아리스토텔레스
+  Earth = 지구
+  Friction = 마찰
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Gravity = 중력
+  Inertia = 관성
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Lucretius = 루크레티우스
+  Mass = 질량
+  Newton = 뉴턴
+  Philosophiæ Naturalis Principia Mathematica = 『자연철학의 수학적 원리』
+  Principia = 『프린키피아』
+  classical physics = 고전 물리학
+  first law = 열역학 제1법칙
+  first law of motion = 운동 제1법칙
+  thought experiments = 사고 실험
+ENTRY:
+Fundamental principle of classical physics, the tendency of an object to stay at rest or in uniform motion unless a force changes its velocity. Inertia is one of the primary manifestations of [[Mass|mass]], and [[Isaac Newton]] described it as his first law of motion. In his 1687 work *Philosophiæ Naturalis Principia Mathematica*, Newton defined inertia as the innate power of matter to resist changes in its state. On Earth, [[Friction|friction]] and [[Gravity|gravity]] often mask inertia, which led [[Aristotle]] to conclude that moving objects come to rest unless a force keeps them moving. [[Lucretius]] argued that motion, not stasis, was the default state of matter. The principle was first articulated by [[Galileo Galilei]] in the early 17th century through thought experiments on objects that continue indefinitely without friction.
+
+=== KEY: Infant_50d7fd
+HEADWORD: Infant = 영아
+LEVEL: 3
+GLOSSARY:
+  Breastfeeding = 모유 수유
+  Fetus = 태아
+  Latin = 라틴어
+  altricial = 만성성
+  fontanels = 숫구멍
+  full term = 만삭
+  lanugo = 배냇솜털
+  neonate = 신생아
+  post term = 과숙
+  premature = 조산
+  toddler = 걸음마쟁이
+ENTRY:
+Very young human being, typically a child under one year of age.
+
+The word comes from Latin *īnfāns*, "unspeaking." Baby is an alternative term, and definitions of infant vary, sometimes extending to children up to two years of age. A child who has learned to walk is called a toddler. A newborn is, in mainstream use, an infant only hours, days, or weeks old; in medical contexts a newborn or neonate is an infant in the first 28 days after birth. Infants born before 37 weeks of gestation are called premature, those born between 39 and 40 weeks full term, those born through 41 weeks late term, and those beyond 42 weeks post term. Before birth the offspring is a [[Fetus|fetus]].
+
+A newborn's head is large in proportion to the body; the skull is about one quarter of total body length, against about one seventh in adults. Soft spots called fontanels remain where the skull bones have not yet fused. In developed countries the average length of a newborn is 35.6–50.8 cm and the average birth weight of a full-term newborn is about 3.4 kg, typically within 2.7–4.6 kg. Body weight falls by 3–7% over the first 5–7 days. Some newborns have fine body hair called lanugo, which disappears within a few weeks.
+
+Infants are altricial and fully dependent on their mothers or other caretakers. They cry as basic communication, expressing hunger, discomfort, overstimulation, boredom, or loneliness. Breastfeeding is the method recommended by all major infant health organizations.
+
+=== KEY: Infantry_2d4d10
+HEADWORD: Infantry = 보병
+LEVEL: 4
+GLOSSARY:
+  Axe = 도끼
+  Cavalry = 기병
+  Dragoons = 용기병
+  Firearm = 화기
+  Infantry = 보병
+  Mechanized infantry = 기계화 보병
+  Sling (weapon) = 투석구
+  Spear = 창
+  Sword = 검
+  airborne infantry = 공수 보병
+  armored personnel carriers = 장갑차
+  infantry fighting vehicles = 보병 전투차
+  javelin = 투창
+  light tanks = 경전차
+  mounted infantry = 기마 보병
+ENTRY:
+Type of soldier who specializes in ground combat, typically fighting dismounted. Historically the term described foot soldiers who marched and fought on foot. Modern usage covers light, heavy, mountain, motorized, mechanized and airborne infantry, among other subtypes. Infantry were the first military forces in history, armed with a [[Spear|spear]], [[Axe|axe]], [[Sword|sword]], javelin, [[Sling (weapon)|sling]] or bow. Dragoons were created as mounted infantry, and from about the mid-19th century, as [[Firearm|firearms]] grew more effective, [[Cavalry|cavalry]] increasingly fought dismounted and most transitioned to mounted infantry. Mechanized infantry ride in armored personnel carriers and, in some forces, infantry fighting vehicles approaching light tanks. The term infantryman was not coined until 1837. Infantry remain indispensable for tasks such as urban clearance and holding key objectives.
+
+=== KEY: Infection_f0ddc0
+HEADWORD: Infection = 감염
+LEVEL: 3
+GLOSSARY:
+  Bacteria = 세균
+  Candida = 칸디다
+  Colonization = 식민지화
+  Infection = 감염
+  Invasion = 침략
+  Malaria = 말라리아
+  Mammals = 포유류
+  People = 『피플』
+  adaptive response = 적응 면역 반응
+  antihelminthics = 구충제
+  antiprotozoals = 항원충제
+  flukes = 흡충
+  innate response = 선천 면역 반응
+  mucosa = 점막
+  nematodes = 선충
+  opportunistic infections = 기회 감염
+  pathogens = 병원체
+  prions = 프라이온
+  tapeworms = 촌충
+  viroids = 바이로이드
+ENTRY:
+Invasion of an organism's tissues by pathogens, their multiplication, and the host's reaction to them and the toxins they produce.
+
+An infectious disease is an illness resulting from an infection, and some are also communicable. Not every infection causes illness: many are asymptomatic, and an infection is not synonymous with an infectious disease. Pathogens include [[Bacteria|bacteria]], viruses and subviral agents such as viroids and prions, fungi, and parasites. The yeast *Candida* causes the most common fungal infection. Parasites include unicellular organisms such as the cause of [[Malaria|malaria]], and macroparasites such as nematodes, tapeworms, and flukes.
+
+Infection begins when an organism enters the body, grows, and multiplies. Entry generally occurs through the mucosa of orifices such as the mouth, nose, eyes, and genitalia, or through open wounds. Many pathogens migrate to cause systemic infection in different organs. People with weakened immune systems are more susceptible to chronic or persistent infections and to opportunistic infections. Colonization by microorganisms is distinct from infection, and the difference is often a matter of circumstance, since non-pathogenic organisms can become pathogenic under specific conditions.
+
+Hosts fight infection with the immune system. Mammals respond with an innate response, often involving inflammation, followed by an adaptive response. Bacterial and viral infections can cause the same symptoms, which makes the cause hard to distinguish; antibiotics cure bacterial but not viral infections. Treatment depends on the pathogen: antibiotics, antivirals, antifungals, antiprotozoals, or antihelminthics. Communicable, maternal, neonatal, and nutritional diseases together accounted for an estimated 18.6% of global deaths in 2017.
+
+=== KEY: Infectious_mononucleosis_512475
+HEADWORD: Infectious mononucleosis = 전염성 단핵구증
+LEVEL: 5
+GLOSSARY:
+  Epstein–Barr virus = 엡스타인-바 바이러스
+  Ibuprofen = 이부프로펜
+  Paracetamol = 파라세타몰
+  Spleen = 비장
+  Vaccine = 백신
+  glandular fever = 선열
+  lymph nodes = 림프절
+  splenic rupture = 비장 파열
+ENTRY:
+Common viral infection, also called glandular fever, usually caused by the [[Epstein–Barr virus]]. Most people are infected as children, when it causes few or no symptoms. In young adults it often causes fever, sore throat, swollen neck lymph nodes and fatigue, and most people recover within two to four weeks, although fatigue may last months. The [[Spleen|spleen]] may swell, and splenic rupture occurs in less than one percent of cases. It spreads mainly through saliva. There is no [[Vaccine|vaccine]], and treatment is supportive, with fluids, rest and pain relievers such as [[Paracetamol|paracetamol]] and [[Ibuprofen]].
+
+=== KEY: Inference_bfc764
+HEADWORD: Inference = 추론
+LEVEL: 4
+GLOSSARY:
+  Aristotle = 아리스토텔레스
+  Artificial intelligence = 인공지능
+  Charles Sanders Peirce = 찰스 샌더스 퍼스
+  Inductive reasoning = 귀납적 추론
+  Inference = 추론
+  Logic = 논리학
+  Sanders = 샌더스
+  Statistical inference = 통계적 추론
+  abduction = 귀추법
+ENTRY:
+Step in logical reasoning, moving from premises to logical consequences. Inference is traditionally divided into deduction and induction, a distinction that dates at least to [[Aristotle]] (300s BC). Deduction draws conclusions that follow from premises assumed to be true, and the laws of valid inference are studied in [[Logic|logic]]. [[Inductive reasoning|Induction]] moves from particular evidence to a universal conclusion, which is probable but not certain. A third type, abduction, proposed notably by [[Charles Sanders Peirce]], seeks a best explanation based on likelihood. Statistical inference draws conclusions under uncertainty from quantitative or categorical data subject to random variation. In [[Artificial intelligence|artificial intelligence]], inference means applying a trained model to new data to generate outputs. An argument can be valid even if its parts are false, and invalid even if some parts are true.
+
+=== KEY: Inferno_Dante_5a2b0c
+HEADWORD: Inferno = 지옥편
+LEVEL: 5
+GLOSSARY:
+  Dante = 단테
+  Dante Alighieri = 단테 알리기에리
+  Divine Comedy = 『신곡』
+  Earth = 지구
+  God = 신
+  Hell = 지옥
+  Inferno = 「지옥편」
+  Virgil = 베르길리우스
+ENTRY:
+First part of the 14th-century *Divine Comedy* by [[Dante Alighieri]]. It describes a fictionalized Dante's journey through [[Hell]], guided by the Roman poet [[Virgil]]. Hell is depicted as nine concentric circles of torment within the Earth, reserved for those who yield to bestial appetites or violence, or who pervert their intellect to fraud or malice. As an allegory, the *Divine Comedy* represents the soul's journey toward [[God]], with the *Inferno* describing the recognition and rejection of sin. Many but not all scholars agree that it was begun in 1306–1307 and completed in 1309–1310, though revisions continued for years.
+
+=== KEY: Infertility_50e4ff
+HEADWORD: Infertility = 불임
+LEVEL: 4
+GLOSSARY:
+  Endometriosis = 자궁 내막증
+  Estrogen = 에스트로겐
+  Semen = 정액
+  Sexual intercourse = 성교
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  oocytes = 난모세포
+  ovarian follicles = 난포
+ENTRY:
+Inability of a male or female organism to reproduce. In humans, infertility is defined as the inability to become pregnant after at least one year of regular unprotected [[Sexual intercourse|sexual intercourse]]. Estimates from 1997 suggested that about five percent of heterosexual couples worldwide had an unresolved problem with infertility, and the [[World Health Organization]] reported in 2023 that about 17.5% of people experience infertility during their lifetime. Male infertility accounts for 20–30% of cases, female infertility for 20–35%, and combined problems in both partners for 25–40%; no cause is found in 10–20%. The most common causes of female infertility are hormonal, including low [[Estrogen|estrogen]]. Fertility declines with age as ovarian follicles and oocytes decline, and [[Endometriosis]] accounts for 25–40% of female infertility. Male infertility is most commonly due to deficiencies in [[Semen|semen]] quality.
+
+=== KEY: Infidelity_865541
+HEADWORD: Infidelity = 외도
+LEVEL: 4
+GLOSSARY:
+  Anger = 분노
+  Divorce = 이혼
+  General Social Survey = 종합사회조사
+  Jealousy = 질투
+  Kinsey = 「킨제이 보고서」
+  Kinsey Reports = 킨제이 보고서
+  Marriage = 결혼
+  Post-traumatic stress disorder = 외상 후 스트레스 장애
+  University = 대학
+  University of Chicago = 시카고 대학교
+ENTRY:
+Violation of a couple's emotional or sexual exclusivity, also called adultery, cheating or having an affair. What constitutes infidelity depends on the expectations within a relationship; in [[Marriage|marriage]], exclusivity is commonly assumed. It often provokes [[Anger|anger]] and sexual [[Jealousy|jealousy]], and can cause psychological harm including betrayal, depression, low confidence and even [[Post-traumatic stress disorder|post-traumatic stress disorder]]. The Kinsey Reports of the early 1950s found that around half of men and a quarter of women studied had committed adultery. Data from the [[University of Chicago]]'s General Social Survey, taken since 1972, indicate that about 12% of men and 7% of women admit to an extramarital relationship. Infidelity frequently leads to [[Divorce|divorce]], and over half of affected marriages end that way.
+
+=== KEY: Infinite_Jest_daf1f4
+HEADWORD: Infinite Jest = 무한한 재미
+LEVEL: 5
+GLOSSARY:
+  Canada = 캐나다
+  David Foster = 데이비드 포스터
+  David Foster Wallace = 데이비드 포스터 월리스
+  Hamlet = 『햄릿』
+  Mexico = 멕시코
+  North America = 북아메리카
+  Novel = 소설
+  Organization of North American Nations = 북아메리카 국가 기구
+  Tennis = 테니스
+  United States = 미국
+  Wallace = 월리스
+  encyclopedic novel = 백과사전적 소설
+  magnum opus = 대표작
+ENTRY:
+Novel by American writer [[David Foster Wallace]], published in 1996. Often considered Wallace's magnum opus, the book is an encyclopedic novel with an unconventional structure and hundreds of endnotes. It is set in a near-future North America, where the United States, Canada and Mexico form the Organization of North American Nations. Its plot follows students at a [[Tennis|tennis]] academy and a substance-abuse recovery facility, and centers on a lethally entertaining film cartridge. The title comes from *Hamlet*. The novel sold 44,000 hardcover copies in its first year and has since sold more than a million copies worldwide.
+
+=== KEY: Infinity_eb2ac5
+HEADWORD: Infinity = 무한
+LEVEL: 3
+GLOSSARY:
+  Achilles = 아킬레우스
+  Achilles and the Tortoise = 아킬레우스와 거북
+  Anaximander = 아낙시만드로스
+  Aristotle = 아리스토텔레스
+  Augustin-Louis Cauchy = 오귀스탱 루이 코시
+  Bertrand = 버트런드호
+  Bertrand Russell = 버트런드 러셀
+  Cantor = 칸토어
+  Cauchy = 코시
+  Georg Cantor = 게오르크 칸토어
+  Tortoise = 육지거북
+  Zeno = 제논
+  Zeno of Elea = 엘레아의 제논
+  Zermelo = 체르멜로
+  Zermelo–Fraenkel set theory = 체르멜로-프렝켈 집합론
+  actual infinity = 실무한
+  apeiron = 아페이론
+  axiom of infinity = 무한 공리
+  cardinality = 기수
+  geometric series = 등비급수
+  infinite series = 무한급수
+  infinite sets = 무한 집합
+  infinitesimal calculus = 미적분학
+  potential infinity = 가무한
+  set theory = 집합론
+ENTRY:
+Boundless, limitless, or endless quantity, denoted by the symbol ∞.
+
+Infinity has been debated philosophically since the ancient Greeks. The earliest recorded Greek idea may be that of Anaximander, who used the word *apeiron*, "unbounded." [[Aristotle]] distinguished potential infinity from actual infinity, which he regarded as impossible because of the paradoxes it seemed to produce. The paradoxes of Zeno of Elea, especially Achilles and the Tortoise, exposed the inadequacy of popular conceptions; [[Bertrand Russell]] described them as "immeasurably subtle and profound." In 1821 [[Augustin-Louis Cauchy]] gave a satisfactory definition of a limit and a proof for the sum of the geometric series, which showed that Achilles does overtake the tortoise.
+
+In the 17th century the infinity symbol and infinitesimal calculus were introduced, and mathematicians began to work with infinite series, though infinity remained associated with endless processes and its status as a number stayed unclear. At the end of the 19th century [[Georg Cantor]] studied infinite sets and infinite numbers, showing that they can be of various sizes. For example, the infinite number of points on a line, its cardinality, is larger than the number of integers.
+
+The axiom of infinity, among the axioms of [[Zermelo–Fraenkel set theory]], on which most of modern mathematics can be developed, guarantees the existence of infinite sets. In physics and cosmology, whether the universe is spatially infinite is an open question.
+
+=== KEY: Inflammation_fd4d5d
+HEADWORD: Inflammation = 염증
+LEVEL: 4
+GLOSSARY:
+  Atherosclerosis = 죽상 경화증
+  Immune system = 면역계
+  Latin = 라틴어
+  Osteoarthritis = 골관절염
+  Pathogen = 병원체
+  hay fever = 꽃가루 알레르기
+  innate immunity = 선천 면역
+  pathogens = 병원체
+  periodontal disease = 치주 질환
+ENTRY:
+Biological defense response of body tissues to harmful stimuli. Triggers include physical trauma, [[Pathogen|pathogens]], irritants, toxins, overuse, autoimmunity, allergens and foreign bodies. The five cardinal signs of acute inflammation are heat, pain, redness, swelling and loss of function (Latin *calor*, *dolor*, *rubor*, *tumor* and *functio laesa*). It is a generic response and is considered a mechanism of [[Immune system|innate immunity]]. Its function is to eliminate the initial cause of cell injury, clear damaged cells and tissues, and initiate repair. Acute inflammation is a short-term process that usually appears within minutes or hours and ceases when the injurious stimulus is removed. Chronic inflammation is prolonged and involves simultaneous destruction and healing of tissue. Too much chronic inflammation is associated with diseases such as hay fever, periodontal disease, [[Atherosclerosis]] and [[Osteoarthritis]].
+
+=== KEY: Inflation_d68d75
+HEADWORD: Inflation = 인플레이션
+LEVEL: 4
+GLOSSARY:
+  American Civil War = 남북 전쟁
+  Civil War = 남북 전쟁
+  Deflation = 디플레이션
+  Inflation = 인플레이션
+  Unemployment = 실업
+  War = 전쟁
+  central banks = 중앙은행
+  consumer price index = 소비자 물가 지수
+  demand shocks = 수요 충격
+  money supply = 통화량
+  nominal wage rigidity = 명목 임금 경직성
+  supply shocks = 공급 충격
+ENTRY:
+General increase in the average price of goods and services in terms of money. Inflation reduces the purchasing power of money and is usually measured as the annualized percentage change in a price index, typically the consumer price index (CPI). Changes are attributed to increases in the money supply, demand shocks, supply shocks such as energy crises, and falls in interest rates set by the central bank. After private banknote currency proliferated during the [[American Civil War]], the term came to refer directly to currency depreciation. Moderate inflation has drawbacks, including uncertainty that may discourage investment and savings, and benefits, such as reducing [[Unemployment|unemployment]] through nominal wage rigidity. Most economists favor a low, steady rate, which central banks pursue mainly by setting interest rates. The opposite of inflation is [[Deflation]].
+
+=== KEY: Influenza_5dc103
+HEADWORD: Influenza = 인플루엔자
+LEVEL: 3
+GLOSSARY:
+  H1N1 = H1N1
+  Influenza = 인플루엔자
+  Pneumonia = 폐렴
+  Spanish flu = 스페인 독감
+  encephalitis = 뇌염
+  meningitis = 뇌수막염
+  oseltamivir = 오셀타미비르
+  primary source = 1차 사료
+ENTRY:
+Infectious disease of the respiratory tract caused by influenza viruses, commonly called the flu.
+
+Symptoms range from mild to severe and often include fever, runny nose, sore throat, muscle pain, headache, coughing, and fatigue. They begin one to four days after exposure and last about two to eight days. The disease may progress to [[Pneumonia|pneumonia]] from the virus or a later bacterial infection, and other complications include meningitis and encephalitis.
+
+There are four types of influenza virus: A, B, C, and D. Aquatic birds are the primary source of influenza A, which also infects mammals including humans and pigs. Types A and B circulate in humans and cause seasonal epidemics; type C causes mild infection, mainly in children. Transmission is primarily through respiratory droplets from coughing and sneezing, and also through aerosols and contaminated surfaces. Influenza viruses, particularly type A, evolve quickly, so vaccines are updated regularly; they protect against influenza A subtypes H1N1 and H3N2 and one or two influenza B subtypes. Treatment is supportive and, in severe cases, includes antivirals such as oseltamivir.
+
+In a typical year five to 15 percent of the population contracts influenza, with 3 to 5 million severe cases and up to 650,000 respiratory-related deaths globally. Cases peak in winter in temperate regions and occur year-round in the tropics. Since the late 1800s, pandemics of novel strains have occurred every 10 to 50 years. Five have occurred since 1900: the [[Spanish flu]] of 1918–20, the most severe, and those of 1957, 1968, 1977, and 2009.
+
+=== KEY: Information_Age_bcb1cf
+HEADWORD: Information Age = 정보화 시대
+LEVEL: 3
+GLOSSARY:
+  A Mathematical Theory of Communication = 「통신의 수학적 이론」
+  Analytical Engine = 해석 기관
+  Bell = 종
+  Bell Labs = 벨 연구소
+  Charles Babbage = 찰스 배비지
+  Claude = 클로드
+  Claude Shannon = 클로드 섀넌
+  Communication = 의사소통
+  Digital Age = 디지털 시대
+  Engine = 기관
+  Fourth Industrial Revolution = 제4차 산업 혁명
+  Imagination = 상상력
+  Imagination Age = 상상력 시대
+  Industrial Revolution = 산업 혁명
+  Information = 정보
+  Information Age = 정보화 시대
+  Internet = 인터넷
+  Internet of things = 사물 인터넷
+  Jack Kilby = 잭 킬비
+  John = 존
+  John Bardeen = 존 바딘
+  Konrad Zuse = 콘라트 추제
+  Network = 「네트워크」
+  Theory = 이론
+  Third = 교향곡 제3번
+  Third Industrial Revolution = 제3차 산업 혁명
+  Transistor = 트랜지스터
+  United Nations = 국제 연합
+  United Nations Public Administration Network = 유엔 행정 네트워크
+  Walter Houser Brattain = 월터 하우저 브래튼
+  William = 윌리엄
+  William Shockley = 윌리엄 쇼클리
+  Z3 = Z3
+  digital revolution = 디지털 혁명
+  fully automatic = 완전 자동
+  information technology = 정보 기술
+  integrated circuit = 집적 회로
+  machine learning = 기계 학습
+  point-contact = 점접촉
+ENTRY:
+Historical period, beginning in the mid-20th century, marked by a shift from traditional industry to an economy centered on information technology.
+
+The onset of the Information Age has been linked to the development of the [[Transistor|transistor]] in 1947. According to the United Nations Public Administration Network, it was formed by advances in computer miniaturization that led to modernized information systems and internet communications. It is also called the Digital Age or Third Industrial Revolution. The digital revolution converted technology from analog to digital format, which made identical copies possible and let information move easily between media.
+
+Charles Babbage proposed a mechanical general-purpose computer, the Analytical Engine, which was never successfully built. In 1941 [[Konrad Zuse]] completed the Z3, the world's first working programmable, fully automatic digital computer.
+
+In 1947 John Bardeen and Walter Houser Brattain, working under William Shockley at [[Bell Labs]], invented the first working transistor, a germanium-based point-contact device. [[Claude Shannon]], a Bell Labs mathematician, is generally credited with laying the foundations of digitalization in his 1948 article *A Mathematical Theory of Communication*. Jack Kilby achieved the first integrated circuit milestone in 1958. The personal computer arrived in the 1970s and made digital communication economical for widespread adoption.
+
+Historians and commentators debate whether the Third Industrial Revolution has ended and whether breakthroughs in artificial intelligence and biotechnology have begun a Fourth Industrial Revolution, theorized to bring the Imagination Age, the Internet of things, and rapid advances in machine learning.
+
+=== KEY: Information_a82be0
+HEADWORD: Information = 정보
+LEVEL: 3
+GLOSSARY:
+  Bit = 비트
+  Claude = 클로드
+  Claude Shannon = 클로드 섀넌
+  French = 프랑스어
+  Information = 정보
+  Landauer's principle = 란다우어 원리
+  Latin = 라틴어
+  Middle French = 중세 프랑스어
+  information theory = 정보 이론
+ENTRY:
+Abstract concept referring to something that has the power to inform.
+
+At the most fundamental level, information pertains to the interpretation of that which may be sensed, or its abstractions. Any natural process that is not completely random, and any observable pattern in any medium, can be said to convey some information. Information is not knowledge itself but the meaning that may be derived from a representation through interpretation. It can be transmitted in time through data storage and in space through communication, and it can be encoded or encrypted.
+
+The English word comes from Middle French *informacion*, "a criminal investigation," and Latin *informatiō*, "conception, teaching, creation." References to the formation of the mind or character, training, and instruction date from the 14th century.
+
+In information theory, founded by [[Claude Shannon]] in 1948, the uncertainty of an event is measured by its probability of occurrence and is proportional to the negative logarithm of that probability. More uncertain events require more information to resolve. The [[Bit|bit]] is the standard unit of information, described as that which reduces uncertainty by half; one fair coin flip encodes 1 bit and two encode 2 bits. In physics, erasing a bit requires a minimum energy, according to Landauer's principle, and DNA sequences store biological information. Whether information is fundamental, like mass and energy, or emergent remains debated.
+
+=== KEY: Information_science_6d3f62
+HEADWORD: Information science = 정보학
+LEVEL: 4
+GLOSSARY:
+  Cognitive psychology = 인지 심리학
+  Computer = 컴퓨터
+  Computer science = 컴퓨터 과학
+  Information = 정보
+  Information theory = 정보 이론
+  Statistics = 통계학
+  digital humanities = 디지털 인문학
+  health informatics = 보건 정보학
+  human-computer interaction = 인간-컴퓨터 상호 작용
+  knowledge management = 지식 경영
+  library science = 도서관학
+ENTRY:
+Academic field concerned with the analysis, collection, classification, storage, retrieval and protection of information. Practitioners study how knowledge is applied and used in organizations, and how people, organizations and information systems interact. The field is transdisciplinary, drawing on [[Computer science]], [[Statistics]], [[Information theory]] and [[Cognitive psychology]], as well as library science and human-computer interaction. It focuses on understanding problems from the perspective of stakeholders before applying information and other technologies. Its objective is to create, replace, improve or understand information systems. Applied areas include health informatics, digital humanities, knowledge management, cybersecurity and information policy. The first known use of the term was in 1955.
+
+=== KEY: Information_technology_3dd7c4
+HEADWORD: Information technology = 정보 기술
+LEVEL: 4
+GLOSSARY:
+  Alan Turing = 앨런 튜링
+  Antikythera = 안티키테라섬
+  Antikythera mechanism = 안티키테라 기계
+  Computer network = 컴퓨터 네트워크
+  Harold J. Leavitt = 해럴드 J. 레빗
+  Harvard = 하버드
+  Harvard Business Review = 『하버드 비즈니스 리뷰』
+  J. Presper Eckert = J. 프레스퍼 에커트
+  John = 존
+  John Mauchly = 존 모클리
+  Telephone = 전화
+  Television = 텔레비전
+  Thomas = 토머스
+  Thomas L. Whisler = 토머스 L. 위슬러
+  Turing = 튜링
+  Z3 = Z3
+  Zuse Z3 = 추제 Z3
+  analog computer = 아날로그 컴퓨터
+  thermionic valves = 열전자관
+ENTRY:
+Study or use of computers, telecommunication systems and other devices to create, process, store, retrieve and transmit information. The term is commonly used for computers and [[Computer network|computer networks]], but it also covers technologies such as [[Television]] and [[Telephone|telephones]]. An IT system includes all hardware, software and peripheral equipment operated by a limited group of users. The term in its modern sense first appeared in a 1958 *Harvard Business Review* article by Harold J. Leavitt and Thomas L. Whisler. The [[Antikythera mechanism]], dating from about the beginning of the first century BC, is generally considered the earliest known mechanical analog computer. Electronic computers using relays or thermionic valves appeared in the early 1940s, and the Zuse Z3, completed in 1941, was the world's first programmable computer. In the mid-1900s, [[Alan Turing]], J. Presper Eckert and John Mauchly were pioneers of early computer technology.
+
+=== KEY: Information_theory_32eb51
+HEADWORD: Information theory = 정보 이론
+LEVEL: 4
+GLOSSARY:
+  A Mathematical Theory of Communication = 「통신의 수학적 이론」
+  Claude = 클로드
+  Claude Shannon = 클로드 섀넌
+  Communication = 의사소통
+  Compact disc = 콤팩트디스크
+  Entropy (information theory) = 정보 엔트로피
+  Harry = 해리
+  Harry Nyquist = 해리 나이퀴스트
+  Internet = 인터넷
+  Ralph Hartley = 랠프 하틀리
+  Theory = 이론
+  channel capacity = 채널 용량
+  data compression = 데이터 압축
+  error correction = 오류 정정
+ENTRY:
+Mathematical study of the quantification, storage and communication of information. The field was established and formalized by [[Claude Shannon]] in the 1940s, although Harry Nyquist and Ralph Hartley made early contributions in the 1920s. Its key concept is [[Entropy (information theory)|entropy]], which Shannon defined as the lack of information about an event; a fair coin flip carries 1 bit of entropy until its outcome is observed. In *A Mathematical Theory of Communication* (1948), Shannon showed that the achievable rate of reliable communication over a noisy channel approaches the channel capacity. Applications include data compression, as in ZIP files, error correction in DSL, the invention of the [[Compact disc|compact disc]], and the development of the [[Internet]] and artificial intelligence. The theory also reaches into cryptography, linguistics, neurobiology and black holes.
+
+=== KEY: Infrared_de1c31
+HEADWORD: Infrared = 적외선
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Electromagnetic radiation = 전자기 복사
+  Infrared = 적외선
+  Microwave = 마이크로파
+  Spectroscopy = 분광학
+  Sun = 태양
+  Surveillance = 감시
+  Weather forecasting = 일기 예보
+  William = 윌리엄
+  William Herschel = 윌리엄 허셜
+  electromagnetic radiation = 전자기 복사
+  thermal-imaging cameras = 열화상 카메라
+ENTRY:
+Form of [[Electromagnetic radiation|electromagnetic radiation]] with wavelengths longer than visible light but shorter than [[Microwave|microwaves]]. Infrared begins just beyond red light and is therefore invisible to the human eye. It is generally understood to range from about 780 nm to 30 μm. The astronomer Sir [[William Herschel]] discovered it in 1800 through its effect on a thermometer. Slightly more than half of the energy from the [[Sun]] reaches Earth as infrared, and the balance between absorbed and emitted infrared affects the planet's climate. Humans at normal body temperature radiate chiefly at wavelengths around 10 μm. Uses include night-vision devices, thermal-imaging cameras that detect heat loss and assist firefighting, [[Spectroscopy|spectroscopy]], [[Weather forecasting|weather forecasting]], and military applications such as target acquisition and [[Surveillance|surveillance]].
+
+=== KEY: Infrastructure_cba4f4
+HEADWORD: Infrastructure = 사회 기반 시설
+LEVEL: 3
+GLOSSARY:
+  American Society of Civil Engineers = 미국 토목학회
+  Goal = 『골』
+  Hard infrastructure = 하드 인프라
+  Infrastructure = 사회 기반 시설
+  Infrastructure Report Card = 인프라 성적표
+  Internet = 인터넷
+  National Research Council = 국가 연구 위원회
+  Research = 연구
+  Society = 사회
+  Soft infrastructure = 소프트 인프라
+  Sustainable Development Goals = 지속 가능 발전 목표
+  U.S. National Research Council = 미국 국가연구회의
+  United Nations = 국제 연합
+  United Nations Sustainable Development Goals = 유엔 지속 가능 발전 목표
+  United States = 미국
+  green infrastructure = 녹색 인프라
+  public works infrastructure = 공공사업 기반 시설
+ENTRY:
+Set of facilities and systems serving a country, city, or other area, necessary for its economy, households, and firms to function.
+
+Infrastructure comprises public and private physical structures such as roads, railways, bridges, airports, public transit systems, tunnels, water supply, sewers, electrical grids, and telecommunications, including Internet connectivity and broadband access. It has been defined as "the physical components of interrelated systems providing commodities and services essential to enable, sustain, or enhance societal living conditions." Hard infrastructure is the physical plant and networks needed by a modern industrial society, including utilities, waste management, transport facilities, and telecom networks. Soft infrastructure comprises the institutions that maintain the economic, health, social, environmental, and cultural standards of a place, such as educational programs, official statistics, parks, law enforcement, and emergency services.
+
+A 1987 U.S. National Research Council panel adopted the term public works infrastructure, covering transport, water supply, wastewater and waste management, electric power, and telecommunications, together with the operating procedures and management practices surrounding them. Public infrastructure is owned by or available to the public, represented by the government.
+
+Studies cited in support of investment estimate that infrastructure boosts the productivity of private capital and labor. The American Society of Civil Engineers publishes an Infrastructure Report Card every 2–4 years; as of 2017 it graded 16 categories and gave the United States a "D+," attributing the aging infrastructure to governmental neglect and inadequate funding. Political debates concern balancing public spending against private partnerships. Contemporary discussion focuses on sustainable development and green infrastructure, and the United Nations Sustainable Development Goals include Goal 8, "Industry, Innovation and Infrastructure."
+
+=== KEY: Ingmar_Bergman_8cfa7f
+HEADWORD: Bergman, Ingmar = 베리만, 잉마르
+LEVEL: 4
+GLOSSARY:
+  Academy Award = 아카데미상
+  Fanny and Alexander = 「화니와 알렉산더」
+  Fårö = 포뢰섬
+  Irving = 어빙
+  Irving G. Thalberg Memorial Award = 어빙 G. 솔버그 기념상
+  Max von Sydow = 막스 폰 쉬도브
+  Munich = 뮌헨
+  Persona = 「페르소나」
+  Residenztheater = 레지덴츠 극장
+  Royal Dramatic Theatre = 왕립 드라마 극장
+  Stockholm = 스톡홀름
+  Sweden = 스웨덴
+  Swedish = 스웨덴어
+  The Seventh Seal = 「제7의 봉인」
+  Theatre = 연극
+  Time = 『타임』
+  Wild Strawberries = 「산딸기」
+ENTRY:
+Swedish filmmaker and theater director. He is considered one of the greatest and most important filmmakers in the history of cinema. Bergman directed more than 60 films and documentaries, most of which he also wrote, and most of his films were set in Sweden. Many of his films from 1961 onward were filmed on the island of Fårö. His acclaimed works include *The Seventh Seal* (1957), *Wild Strawberries* (1957), *Persona* (1966) and *Fanny and Alexander* (1982), which were included in the 2012 edition of *Sight & Sound's* Greatest Films of All Time. He directed more than 170 plays, including periods as leading director of Sweden's Royal Dramatic Theatre in Stockholm and of Germany's Residenztheater in [[Munich]]. His films earned Academy Award wins and nominations, and he received his personal Irving G. Thalberg Memorial Award. His actors included [[Max von Sydow]].
+
+=== KEY: Ingrid_Bergman_7ce3f2
+HEADWORD: Bergman, Ingrid = 버그먼, 잉그리드
+LEVEL: 4
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Actress = 아카데미 여우주연상
+  Academy Awards = 아카데미상
+  Alfred = 앨프레드 대왕
+  Alfred Hitchcock = 앨프리드 히치콕
+  Anastasia = 「추상」
+  Best Actress = 여우주연상
+  Capricorn = 염소자리
+  Casablanca = 「카사블랑카」
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  Europe = 유럽
+  Gaslight = 「가스등」
+  German = 독일어
+  Hollywood = 할리우드
+  Ilsa Lund = 일자 룬드
+  Intermezzo = 「인터메초」
+  Murder = 살인
+  Murder on the Orient Express = 「오리엔트 특급 살인」
+  Notorious = 「오명」
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Awards = 프라임타임 에미상
+  Roberto Rossellini = 로베르토 로셀리니
+  Spellbound = 「백색의 공포」
+  Stockholm = 스톡홀름
+  Swedish = 스웨덴어
+  Tony = 토니상
+  Tony Award = 토니상
+  Under Capricorn = 「염소자리」
+  United States = 미국
+ENTRY:
+Swedish actress. Born in [[Stockholm]] to a Swedish father and a German mother, she began her career in Swedish and German films before American audiences knew her from the English-language remake of *Intermezzo* (1939). She starred as Ilsa Lund in *Casablanca* (1942) and won the [[Academy Awards|Academy Award]] for Best Actress for *Gaslight* (1944). She made three films with [[Alfred Hitchcock]]: *Spellbound* (1945), *Notorious* (1946) and *Under Capricorn* (1949). The revelation of her affair with Roberto Rossellini in 1950 caused a scandal in the United States, and she remained in Europe for several years. She later returned to Hollywood and won two more Academy Awards, for *Anastasia* (1956) and *Murder on the Orient Express* (1974). She also won a Tony Award and two Primetime Emmy Awards, and spoke five languages.
+
+=== KEY: Inheritance_e40489
+HEADWORD: Inheritance = 상속
+LEVEL: 4
+GLOSSARY:
+  Civil law (legal system) = 대륙법
+  Common law = 보통법
+  Inheritance = 상속
+  Louisiana = 루이지애나주
+  Quebec = 퀘벡주
+  Succession = 상속
+  intestacy = 무유언 상속
+  nepotism = 족벌주의
+  probate = 유언 검인
+  saisine = 세진
+ENTRY:
+Practice of receiving property, titles, debts, rights and obligations upon the death of an individual. Succession is the legal process by which a deceased person's rights and property pass to heirs, and inheritance is what the heirs receive. Succession occurs either under statutory intestacy rules or according to a valid will, which often must be attested by a notary. [[Common law]] jurisdictions typically require formal probate, while [[Civil law (legal system)|civil law]] systems often let heirs acquire ownership automatically, a principle known as saisine in [[Quebec]]. Historically, patrimonial inheritance passed property only to male descendants, while some societies used matrilineal succession; most modern states use egalitarian inheritance regardless of gender or birth order. A will may disinherit an heir completely, although [[Louisiana]] permits disinheritance only in enumerated circumstances. Inheritance has been compared to nepotism.
+
+=== KEY: Injunction_904b82
+HEADWORD: Injunction = 금지 명령
+LEVEL: 4
+GLOSSARY:
+  Australia = 오스트레일리아
+  Equity (law) = 형평법
+  New South Wales = 뉴사우스웨일스주
+  South Wales = 사우스웨일스
+  Wales = 웨일스
+  apprehended violence order = 폭력 우려 명령
+  contempt of court = 법정 모독
+  courts of equity = 형평법 법원
+  good faith = 신의 성실
+  interdict = 특시명령
+ENTRY:
+Equitable remedy in the form of a court order compelling a party to do or refrain from certain acts. Developed by the English courts of [[Equity (law)|equity]], injunctions trace their origins to the Roman *interdict*. They are generally granted when a wrong cannot be remedied adequately by money damages, and courts also consider the public interest and give special attention to fairness and good faith. An injunction may be prohibitory, forbidding an act such as using an illegally obtained trade secret, or mandatory, requiring action such as cleaning up an oil spill; many combine both. A party that fails to comply faces criminal or civil penalties, including monetary sanctions and possible imprisonment, and may be charged with contempt of court. In [[New South Wales]], Australia, a court may grant an apprehended violence order to a person who fears violence, harassment or stalking.
+
+=== KEY: Injury_47deba
+HEADWORD: Injury = 손상
+LEVEL: 3
+GLOSSARY:
+  Adenosine triphosphate = 아데노신 삼인산
+  Annelids = 환형동물
+  Burn = 화상
+  Cell membrane = 세포막
+  Cnidaria = 자포동물
+  Detlev Arendt = 데틀레프 아렌트
+  Herbivore = 초식 동물
+  P2X receptors = P2X 수용체
+  Post-traumatic stress disorder = 외상 후 스트레스 장애
+  Thibaut Brunet = 티보 브뤼네
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  Wound = 상처
+  antimicrobial peptides = 항균 펩타이드
+  choanoflagellates = 깃편모충
+  conidia = 분생 포자
+  emergency medicine = 응급 의학
+  exocytosis = 세포외 배출
+  last eukaryotic common ancestor = 진핵생물 공통 조상
+  nematodes = 선충
+  pathogens = 병원체
+  reactive oxygen species = 활성 산소종
+  septate hyphae = 격벽 균사
+  single-celled eukaryotes = 단세포 진핵생물
+ENTRY:
+Physiological damage to an organism caused by mechanical trauma, toxins, interactions with other organisms, or abiotic environmental factors.
+
+In animals, injury is sometimes defined as mechanical damage to an anatomical structure, but the wider sense covers damage from any cause, including drowning, [[Burn|burns]], and poisoning. In many phyla, injury triggers an inflammatory response that prompts coagulation of blood or body fluid, followed by [[Wound|wound]] healing, which may be rapid, as in [[Cnidaria|cnidarians]]. Annelids, arthropods, cnidarians, molluscs, nematodes, and vertebrates produce antimicrobial peptides to fight infection afterward.
+
+Much of medical practice, including emergency medicine and pain management, treats human injuries. The [[World Health Organization]] classifies them by mechanism, objects or substances producing injury, place of occurrence, activity when injured, and the role of human intent. Injuries can also cause psychological harm, including [[Post-traumatic stress disorder|post-traumatic stress disorder]].
+
+In plants, injuries result from consumption by [[Herbivore|herbivores]], damage by pathogens such as bacteria and fungi, and abiotic factors such as heat, freezing, flooding, lightning, and ozone. Plants signal damage, seal the area, produce antimicrobial chemicals, and, in woody species, regrow over wounds. In fungi with septate hyphae, an injured hypha can block its septal pores; some fungi regenerate damaged hyphae, and others produce reproductive conidia.
+
+Plants, animals, fungi, and single-celled eukaryotes such as choanoflagellates share mechanisms including calcium-ion signalling, reactive oxygen species, and extracellular [[Adenosine triphosphate|adenosine triphosphate]] detected by P2X receptors, implying that these are ancient. Thibaut Brunet and Detlev Arendt propose that the last eukaryotic common ancestor healed openings in the [[Cell membrane|cell membrane]] through a calcium-triggered response ending in exocytosis.
+
+=== KEY: Ink_2bf007
+HEADWORD: Ink = 잉크
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  Dye = 염료
+  Egypt = 이집트
+  India = 인도
+  India ink = 먹물
+  Papyrus = 파피루스
+  Parchment = 양피지
+  Pigment = 안료
+  Soot = 그을음
+  ancient Egypt = 고대 이집트
+  gallnuts = 오배자
+  lampblack = 램프블랙
+  letterpress = 활판 인쇄
+  lithographic printing = 석판 인쇄
+  tannin = 타닌
+ENTRY:
+Gel, sol or solution containing at least one colorant, such as a [[Dye]] or [[Pigment]], used to color a surface to produce an image, text or design. Ink is used for drawing or writing with a pen, brush or quill, and thicker paste inks are used in letterpress and lithographic printing. Modern inks may contain solvents, resins, lubricants and surfactants alongside their colorants. The earliest inks of all civilizations were probably made from lampblack, a [[Soot|soot]] collected as a by-product of fire. Ink was used in ancient Egypt on [[Papyrus]] from at least the 26th century BC, and the earliest Chinese inks may date to four millennia ago. India ink was invented in China. About 1,600 years ago, a popular recipe mixed iron salts with tannin from gallnuts; the ink was bluish-black when first applied and faded to dull brown. Medieval European scribes wrote mainly on [[Parchment]].
+
+=== KEY: Inland_Empire_5addd1
+HEADWORD: Inland Empire = 인랜드 엠파이어
+LEVEL: 5
+GLOSSARY:
+  Agriculture = 농업
+  California = 캘리포니아주
+  Census = 인구 조사
+  Ontario = 온타리오주
+  Riverside = 리버사이드
+  San Bernardino = 샌버나디노
+  Southern California = 남부 캘리포니아
+  U.S. Census = 미국 인구 조사
+  U.S. Census Bureau = 미국 인구조사국
+  West Virginia = 웨스트버지니아주
+ENTRY:
+Metropolitan region inland from coastal [[Southern California]], centered on Riverside and San Bernardino. Its most comprehensive definition includes all of both counties, an area larger than [[West Virginia]]. The Riverside–San Bernardino–Ontario metropolitan area, as defined by the U.S. Census Bureau, covers more than 27,000 sq mi (70,000 km²) and had a population of about 4.6 million in 2020. At the end of the 19th century, the region was a major center of citrus, dairy and winemaking. Agriculture declined through the 20th century as the population grew, and residential, industrial and commercial development has increased since the 1970s.
+
+=== KEY: Inland_taipan_4b16af
+HEADWORD: Inland taipan = 내륙타이판
+LEVEL: 5
+GLOSSARY:
+  Australia = 오스트레일리아
+  Mammal = 포유류
+  median lethal dose = 반수 치사량
+ENTRY:
+Extremely venomous snake of semiarid central-eastern [[Australia]]. First described in 1879, it remained poorly known for nearly 90 years before it was rediscovered in 1972. Based on the median lethal dose of its venom in laboratory mice, it is widely regarded as the most venomous snake in the world. A single bite is estimated to contain enough venom to kill more than 100 adult humans. It preys on [[Mammal|mammals]] and is usually shy and reclusive, rarely encountering people because it lives in remote areas. The word "fierce" in its common names refers to venom strength rather than temperament.
+
+=== KEY: Inner_Mongolia_132cd5
+HEADWORD: Inner Mongolia = 내몽골
+LEVEL: 4
+GLOSSARY:
+  Baotou = 바오터우
+  Chifeng = 츠펑
+  China = 중국
+  GDP per capita = 1인당 국내 총생산
+  Han Chinese = 한족
+  Hetao = 허타오
+  Hohhot = 후허하오터
+  Inner Mongolia = 내몽골
+  Inner Mongolia Autonomous Region = 내몽골 자치구
+  Mongol = 몽골
+  Mongolia = 몽골
+  Mongols = 몽골족
+  Ordos = 오르도스
+  Tongliao = 퉁랴오
+  Xiongnu = 흉노
+ENTRY:
+Autonomous region of northern [[China]], whose border includes two-thirds of China's border with [[Mongolia]]. Officially the Inner Mongolia Autonomous Region, it was established in 1947 and is China's third-largest administrative subdivision, covering about 1,200,000 km² (12% of China's total land area). Its capital is Hohhot, and other major cities include Baotou, Chifeng, Tongliao and Ordos. It recorded a population of 24,706,321 in the 2010 census. [[Han Chinese]] make up the majority, while [[Mongols]] number over 4 million, the largest Mongol population in the world. Annual GDP per capita was US$14,343 (2022), ranked 8th in China. Before the rise of the Mongols in the 13th century, the Hetao region alternated in control between Chinese farming communities and nomadic peoples such as the [[Xiongnu]].

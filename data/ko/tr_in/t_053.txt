@@ -1,0 +1,945 @@
+=== KEY: Calcium_oxide_ff552e
+HEADWORD: Calcium oxide = 산화 칼슘
+LEVEL: 5
+GLOSSARY:
+  Calcium hydroxide = 수산화 칼슘
+  Cement = 시멘트
+  China = 중국
+  Limestone = 석회암
+  burnt lime = 생석회
+  lime kiln = 석회 가마
+  limelight = 라임라이트
+ENTRY:
+Quicklime, a white, caustic, alkaline solid of formula CaO. Also called burnt lime, it is made by heating [[Limestone|limestone]] or seashells above 825 °C in a lime kiln to drive off carbon dioxide. It is a key ingredient in [[Cement|cement]] and releases heat when it hydrates to [[Calcium hydroxide|calcium hydroxide]], a property used in self-heating food cans. When heated to 2,400 °C it emits an intense glow, called limelight, which was used in theatrical productions before electric lighting. Annual worldwide production is around 283 million tonnes, with China producing around 170 million.
+
+=== KEY: Calculator_cc84fa
+HEADWORD: Calculator = 계산기
+LEVEL: 4
+GLOSSARY:
+  Calculator = 계산기
+  Integrated circuits = 집적 회로
+  Scientific calculators = 공학용 계산기
+  Smartphone = 스마트폰
+  Trigonometry = 삼각법
+  graphing calculators = 그래핑 계산기
+  trigonometric = 삼각 함수
+ENTRY:
+Portable electronic device for performing calculations, from basic arithmetic to complex mathematics. The first solid-state electronic calculator was created in the early 1960s, and pocket-sized devices appeared in the 1970s after the introduction of the first "calculator on a chip." Integrated circuits reduced their size and cost, and by the end of that decade basic calculators were affordable and common in schools. Scientific calculators perform [[Trigonometry|trigonometric]] and statistical calculations, and graphing calculators plot functions. Calculator functions are now included in most [[Smartphone|smartphones]], making dedicated hardware calculators less common than they once were. In 1986 calculators represented an estimated 41% of the world's general-purpose hardware capacity to compute information; by 2007 this had fallen to less than 0.05%.
+
+=== KEY: Calculus_0349a5
+HEADWORD: Calculus = 미적분학
+LEVEL: 3
+GLOSSARY:
+  Archimedes = 아르키메데스
+  Branch = 브랜치
+  Calculus = 미적분학
+  Differential calculus = 미분학
+  Eudoxus = 에우독소스
+  Fundamental theorem of calculus = 미적분학의 기본 정리
+  Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
+  Integral = 적분
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Latin = 라틴어
+  Leibniz = 라이프니츠
+  Limit (mathematics) = 극한
+  Mathematics = 수학
+  Newton = 뉴턴
+  Wilhelm = 빌헬름
+  calculus of variations = 변분법
+  classical mechanics = 고전 역학
+  derivative = 도함수
+  electromagnetism = 전자기학
+  epsilon-delta = 엡실론-델타
+  infinitesimal calculus = 미적분학
+  integral calculus = 적분학
+  lambda calculus = 람다 대수
+  method of exhaustion = 실진법
+  non-standard analysis = 비표준 해석학
+  smooth infinitesimal analysis = 매끄러운 무한소 해석학
+ENTRY:
+Branch of [[Mathematics|mathematics]] that studies continuous change.
+
+Originally called infinitesimal calculus, it has two major branches. [[Differential calculus]] studies instantaneous rates of change and the slopes of curves, through the derivative of a function; [[Integral|integral calculus]] studies the accumulation of quantities and the areas under or between curves. The two are related by the [[Fundamental theorem of calculus]], which shows that differentiation and integration are inverse processes. Calculus relies on the convergence of infinite sequences and series to a well-defined [[Limit (mathematics)|limit]]. It generalizes elementary geometry and algebra: instead of the slope of a straight line it can describe the changing slope of a complicated curve, and it can find the distance traveled by an object whose velocity varies. For f(x) = x², the derivative is f′(x) = 2x.
+
+The method of exhaustion, used by Eudoxus and [[Archimedes]] to approximate areas and volumes, is counted among its origins. In the late 17th century [[Isaac Newton]] and [[Gottfried Wilhelm Leibniz]] each independently formulated infinitesimal calculus. The infinitesimal approach fell out of favor in the 19th century because the notion was difficult to make precise; the epsilon-delta approach to limits replaced it and became the standard approach during the 20th century, though infinitesimals were revived by non-standard analysis and smooth infinitesimal analysis.
+
+The Latin word *calculus* means 'pebble', recalling the counters used on Roman counting boards. The term is also used for other systems of computation, such as the calculus of variations and the lambda calculus.
+
+Calculus is used throughout physics and engineering, including classical mechanics and electromagnetism, and in chemistry, biology, medicine, and economics, wherever variable quantities change with time.
+
+=== KEY: Calculus_of_variations_254c43
+HEADWORD: Calculus of variations = 변분법
+LEVEL: 4
+GLOSSARY:
+  Euler = 오일러
+  Fermat's principle = 페르마의 원리
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Johann Bernoulli = 요한 베르누이
+  Joseph-Louis Lagrange = 조제프루이 라그랑주
+  Lagrange = 라그랑주
+  Leonhard Euler = 레온하르트 오일러
+  Mathematical analysis = 해석학
+  Principia = 『프린키피아』
+  brachistochrone problem = 최단 강하선 문제
+  calculus of variations = 변분법
+  functionals = 범함수
+  geodesic = 측지선
+  mathematical analysis = 해석학
+  minimal resistance problem = 최소 저항 문제
+ENTRY:
+Field of [[Mathematical analysis|mathematical analysis]] that uses variations, or small changes in functions, to find the maxima and minima of functionals. Solutions are often found with the Euler–Lagrange equation. A classic problem is the shortest curve between two points on a surface, called a geodesic. Fermat's principle, that light follows the path of shortest optical length, is a related problem. The field began with [[Isaac Newton]]'s minimal resistance problem, solved in 1685 and published in his *Principia* in 1687, and with the brachistochrone problem posed by [[Johann Bernoulli]] in 1696. [[Leonhard Euler]] first elaborated the subject from 1733, and [[Joseph-Louis Lagrange]] contributed greatly to its theory. Euler renamed the subject the calculus of variations in 1756.
+
+=== KEY: Caldera_a31dbc
+HEADWORD: Caldera = 칼데라
+LEVEL: 5
+GLOSSARY:
+  Hawaii = 하와이
+  Kīlauea = 킬라우에아산
+  Magma chamber = 마그마굄
+  Sinkhole = 싱크홀
+  Tonga = 통가
+ENTRY:
+Large, cauldron-like volcanic depression formed when a [[Magma chamber|magma chamber]] empties and the ground above collapses into it. The depression may be dozens of kilometers across. Although often called a crater, a caldera is a type of [[Sinkhole|sinkhole]], formed by subsidence rather than explosion or impact. Caldera-forming collapses are rare, with nine known between 1911 and 2022; the most recent were at Kīlauea, Hawaii, in 2018 and Hunga Tonga–Hunga Haʻapai in 2022. The term comes from Spanish *caldera*, meaning cooking pot.
+
+=== KEY: Calendar_8ff922
+HEADWORD: Calendar = 역법
+LEVEL: 3
+GLOSSARY:
+  Bronze = 청동
+  Bronze Age = 청동기 시대
+  Calendar = 달력
+  Chinese calendar = 중국력
+  Egyptian = 이집트
+  Gregorian = 그레고리력
+  Gregorian calendar = 그레고리력
+  Hebrew = 히브리어
+  Hebrew calendar = 히브리력
+  Hindu calendar = 힌두력
+  International Fixed Calendar = 국제 고정력
+  Islamic calendar = 이슬람력
+  Julian = 율리우스력
+  Julian calendar = 율리우스력
+  Julius Caesar = 율리우스 카이사르
+  Latin = 라틴어
+  Moon = 달
+  Muhammad = 무함마드
+  Persian = 페르시아어
+  Persian calendar = 이란력
+  Roman calendar = 로마력
+  Unix = 유닉스
+  Unix time = 유닉스 시간
+  World = 세계
+  World Calendar = 세계력
+  epoch = 기원
+  intercalary month = 윤달
+  intercalation = 치윤
+  kalendae = 칼렌다이
+  leap day = 윤일
+  lunisolar = 태음태양력
+  new moon = 삭
+  traditional Chinese calendar = 중국 전통 역법
+ENTRY:
+System of organizing time by naming periods, typically days, weeks, months, and years. Periods are usually, though not necessarily, synchronized with the cycle of the Sun or the Moon.
+
+The word comes from *kalendae*, the first day of the month in the Roman calendar, related to the Latin verb *calare*, 'to call out', for the 'calling' of the new moon when first seen. The first recorded physical calendars were the [[Bronze Age]] Egyptian and Sumerian calendars. Most pre-modern calendars were lunisolar, adding an intercalary month occasionally to stay aligned with the solar year.
+
+[[Julius Caesar]] reformed the Roman calendar in 46 BC. His [[Julian calendar]] followed an algorithm of a leap day every four years rather than observation of the new moon. The [[Gregorian calendar]], introduced in 1582, corrected most of the remaining difference between the Julian calendar and the solar year, and became the international civil standard. The [[Islamic calendar]] rests on the prohibition of intercalation by [[Muhammad]], producing an observation-based lunar calendar that shifts relative to the seasons.
+
+Calendars fall into three main types: lunar (the Islamic calendar), solar (the Persian calendar), and lunisolar (the traditional Chinese calendar, the Hindu calendar, and the Hebrew calendar). The simplest systems count time from a reference date, or epoch, as in [[Unix time]]; most others combine year, month, and day. Proposals for reform, such as the World Calendar and the International Fixed Calendar, have failed to gain traction because of the loss of continuity and the upheaval they would involve.
+
+=== KEY: Calgary_1e4eb0
+HEADWORD: Calgary = 캘거리
+LEVEL: 4
+GLOSSARY:
+  1988 Winter Olympics = 1988년 동계 올림픽
+  Alberta = 앨버타주
+  Bow and Elbow rivers = 보강과 엘보강
+  Calgary = 캘거리
+  Calgary Castle = 캘거리성
+  Calgary Stampede = 캘거리 스탬피드
+  Canada = 캐나다
+  Canadian = 캐나다
+  Canadian Prairies = 캐나다 프레리
+  Castle = 성
+  City = 도시
+  Edmonton = 에드먼턴
+  Isle of Mull = 멀섬
+  Mountain = 산
+  Rocky Mountain foothills = 로키산맥 구릉지
+  Rodeo = 로데오
+  Scotland = 스코틀랜드
+  Winter = 겨울
+  Winter Olympics = 동계 올림픽
+ENTRY:
+City (pop., 2021: 1,306,784) in southern [[Alberta]], Canada, the province's largest city. Calgary lies at the confluence of the Bow and Elbow rivers, where the Rocky Mountain foothills meet the Canadian Prairies. Its metropolitan population is 1,481,806, and the city lies 280 km (170 mi) south of the provincial capital, [[Edmonton]]. It was named after Calgary Castle on the Isle of Mull in [[Scotland]]. Its economy spans energy, financial services, technology and tourism, and it hosted the 1988 Winter Olympics, the first Canadian city to do so. The annual Calgary Stampede, a ten-day event since 1912, features [[Rodeo|rodeo]] competitions and parades.
+
+=== KEY: Cali_e3bed2
+HEADWORD: Cali = 칼리
+LEVEL: 4
+GLOSSARY:
+  Cali = 칼리
+  Calima = 칼리마족
+  City = 도시
+  Colombia = 콜롬비아
+  Inca = 잉카
+  Inca Empire = 잉카 제국
+  Pan American Games = 팬아메리칸 게임
+  Sebastián de Belalcázar = 세바스티안 데 벨랄카사르
+  Valle del Cauca = 바예델카우카주
+  World = 세계
+  World Athletics = 세계 육상 연맹
+  World Athletics U20 Championships = 세계 U20 육상 선수권 대회
+  World Games = 월드 게임
+ENTRY:
+City (pop., 2026: 2.3 million), capital of Valle del Cauca department, southwestern [[Colombia]]. Cali is the main urban and economic center of southern Colombia and spans 560.3 sq km. Its name derives from the Calima, local Amerindians. Spanish explorer Sebastián de Belalcázar founded the city on July 25, 1536, and moved it to its present location in 1537. Because Cali lay outside the [[Inca Empire]], Belalcázar claimed it as his own territory. The city hosted the 1971 Pan American Games and the 2013 edition of the World Games, and the 2022 World Athletics U20 Championships. It has one of Colombia's fastest-growing economies.
+
+=== KEY: California_356779
+HEADWORD: California = 캘리포니아
+LEVEL: 4
+GLOSSARY:
+  Area = 넓이
+  Arizona = 애리조나주
+  Baja California = 바하칼리포르니아주
+  Bay Area = 베이 에어리어
+  California = 캘리포니아주
+  Los Angeles = 로스앤젤레스
+  Mexican-American War = 멕시코-미국 전쟁
+  Mexico = 멕시코
+  Nevada = 네바다주
+  Oregon = 오리건주
+  Pacific = 태평양
+  San Francisco = 샌프란시스코
+  San Francisco Bay = 샌프란시스코만
+  San Francisco Bay Area = 샌프란시스코만 지역
+  Silicon = 규소
+  Silicon Valley = 실리콘밸리
+  U.S. state = 미국의 주
+  United States = 미국
+  free state = 자유주
+  gold rush = 골드러시
+ENTRY:
+Most populous U.S. state, on the Pacific coast of the western United States. It is bordered by [[Oregon]] to the north, [[Nevada]] to the east, [[Arizona]] to the southeast and the Mexican state of [[Baja California]] to the south. With a population of over 39 million across 163,696 square miles (423,970 sq km), Spanish colonization began in the 16th and 17th centuries, and the area became part of Mexico in 1821. After the U.S. conquest of California in the Mexican-American War, it was ceded to the United States in 1848, the year the gold rush began. It was admitted as the 31st state in 1850 as a free state. [[Los Angeles]] is its largest city. With an estimated 2025 gross state product of $4.296 trillion, its economy is the largest of any U.S. state. [[Silicon Valley]], in the San Francisco Bay Area, is the center of the global technology industry.
+
+=== KEY: Californium_a5ae5d
+HEADWORD: Californium = 캘리포늄
+LEVEL: 5
+GLOSSARY:
+  Actinide = 악티늄족
+  California = 캘리포니아주
+  Half-life = 반감기
+  Laboratory = 실험실
+  Radiation Laboratory = 방사선 연구소
+  U.S. state = 미국의 주
+  University = 대학
+  University of California Radiation Laboratory = 캘리포니아 대학교 방사선 연구소
+  bioaccumulates = 생물 농축
+  neutron source = 중성자원
+  red blood cells = 적혈구
+  stable isotope = 안정 동위 원소
+ENTRY:
+Synthetic [[Actinide|actinide]] element, symbol Cf, atomic number 98. First synthesized in 1950 at what was then the University of California Radiation Laboratory, it was named after the university and the U.S. state of [[California]]. Its most stable isotope, californium-251, has a [[Half-life|half-life]] of 898 years, while ²⁵²Cf, the most commonly used, has a half-life of about 2.645 years. Certain isotopes emit neutrons, so californium is used to help start up nuclear reactors and as a neutron source in materials studies. Users must account for radiological concerns, because the element bioaccumulates in skeletal tissue and can disrupt the formation of red blood cells.
+
+=== KEY: Caligula_be66cd
+HEADWORD: Caligula = 칼리굴라
+LEVEL: 5
+GLOSSARY:
+  Agrippina the Elder = 대(大)아그리피나
+  Anio Novus = 아니오 노부스
+  Aqua Claudia = 아쿠아 클라우디아
+  Augustus = 아우구스투스
+  Gaius Julius Caesar = 가이우스 율리우스 카이사르
+  Gaius Julius Caesar Augustus Germanicus = 가이우스 율리우스 카이사르 아우구스투스 게르마니쿠스
+  Germanicus = 게르마니쿠스
+  Julio-Claudian dynasty = 율리우스-클라우디우스 왕조
+  Julius Caesar = 율리우스 카이사르
+  Mauretania = 마우레타니아
+  Praetorian = 근위대
+  Roman emperor = 로마 황제
+  Tiberius = 티베리우스
+  aqueducts = 수로
+ENTRY:
+[[Roman emperor]] (r. AD 37–41). Gaius Julius Caesar Augustus Germanicus, the son of the general Germanicus and Agrippina the Elder, was the third emperor of the [[Julio-Claudian dynasty]]. He succeeded [[Tiberius]] and was assassinated in a conspiracy of Praetorian officers, senators and courtiers. Most surviving sources were written by senators and nobles long after his reign, portraying him as cruel and extravagant, and some historians dismiss many of the allegations as exaggeration or mockery. He pursued public works, including the Aqua Claudia and Anio Novus aqueducts, and annexed Mauretania as a province.
+
+=== KEY: Calipers_03f377
+HEADWORD: Calipers = 캘리퍼스
+LEVEL: 4
+GLOSSARY:
+  Forestry = 임업
+  Giglio wreck = 질리오 난파선
+  Length = 길이
+  Mechanical engineering = 기계 공학
+  Medicine = 의학
+  Metalworking = 금속 가공
+  Pedro Nunes = 페드루 누네스
+  Pierre Vernier = 피에르 베르니에
+  Vernier = 베르니에
+  Woodworking = 목공
+  caliber = 구경
+  divider calipers = 디바이더
+  inside calipers = 내측 캘리퍼스
+  nonius = 노니우스
+  outside calipers = 외측 캘리퍼스
+  vernier caliper = 버니어 캘리퍼스
+ENTRY:
+Instrument for measuring the linear dimensions of an object or hole, such as its [[Length|length]], width, thickness, diameter or depth. Calipers may read out on a scale, a dial or a digital display, or may be simple compass-like tools with no scale, whose span is transferred to another measuring device. Types include inside calipers for internal size, outside calipers for external size, and divider calipers, which mark out locations in [[Metalworking|metalworking]]. The word derives from a corrupt form of *caliber*. The earliest known caliper, with a fixed and a movable jaw, was found in the Greek Giglio wreck dating to the 6th century BC. The modern vernier caliper was invented by Pierre Vernier, as an improvement on the nonius of Pedro Nunes. Calipers are used in [[Mechanical engineering|mechanical engineering]], [[Woodworking|woodworking]], [[Forestry|forestry]], science and [[Medicine|medicine]].
+
+=== KEY: Caliphate_1be0e0
+HEADWORD: Caliphate = 칼리파국
+LEVEL: 5
+GLOSSARY:
+  Abbasid = 아바스 왕조
+  Abbasid Caliphate = 아바스 칼리파국
+  Abu Bakr = 아부 바크르
+  Abu Bakr al-Baghdadi = 아부 바크르 알바그다디
+  Ahl al-Bayt = 아흘 알바이트
+  Caliphate = 칼리파국
+  Iraq = 이라크
+  Islam = 이슬람교
+  Islamic State = 이슬람 국가
+  Muhammad = 무함마드
+  Muslims = 무슬림
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Prophet = 예언자
+  Prophet Muhammad = 예언자 무함마드
+  Rashidun = 정통 칼리파
+  Rashidun Caliphate = 정통 칼리파국
+  Shia = 시아파
+  Shia Muslims = 시아파 무슬림
+  Sunni = 수니파
+  Sunni Islam = 수니파
+  Syria = 시리아
+  Umayyad = 우마이야 왕조
+  Umayyad Caliphate = 우마이야 칼리파국
+  caliph = 칼리파
+  caliphate = 칼리파국
+  imam = 이맘
+ENTRY:
+Islamic form of government under a caliph, a political-religious successor to the Prophet [[Muhammad]]. Three major medieval caliphates succeeded one another: the [[Rashidun Caliphate]] (632–661), the [[Umayyad Caliphate]] (661–750) and the [[Abbasid Caliphate]]. The [[Ottoman Empire|Ottoman]] rulers claimed caliphal authority from 1517 until the caliphate was formally abolished in 1924 as part of Turkey's secularization. Sunni Islam holds that a caliph should be elected, while Shia Muslims believe a caliph should be an imam chosen by God from the Ahl al-Bayt. In 2014 the [[Islamic State]], led by [[Abu Bakr al-Baghdadi]], declared a caliphate in Iraq and Syria; such claims have been widely rejected among Muslims.
+
+=== KEY: Calisthenics_0bfc7f
+HEADWORD: Calisthenics = 맨몸 운동
+LEVEL: 5
+GLOSSARY:
+  Alexander the Great = 알렉산드로스 대왕
+  Ancient Greece = 고대 그리스
+  China = 중국
+  Greece = 그리스
+  Han dynasty = 한나라
+  Spartans = 스파르타인
+  strength training = 근력 운동
+ENTRY:
+Form of strength training that uses body weight as resistance for multi-joint movements, requiring little or no equipment. Also called bodyweight exercises. It can enhance strength, power, endurance, speed, flexibility, coordination and balance, using simple movements such as pushing, pulling, squatting and balancing. Common exercises include push-ups, pull-ups and sit-ups. The word comes from the Greek *kállos* ("beauty") and *sthénos* ("strength"). The practice was recorded in [[Ancient Greece]], including by the armies of [[Alexander the Great]] and the Spartans, and in ancient China, where [[Han dynasty]] physicians prescribed it for health.
+
+=== KEY: Call_of_Duty_4_Modern_Warfare_030c3d
+HEADWORD: Call of Duty 4: Modern Warfare = 「콜 오브 듀티 4: 모던 워페어」
+LEVEL: 5
+GLOSSARY:
+  Activision = 액티비전
+  Call of Duty = 콜 오브 듀티
+  Call of Duty series = 「콜 오브 듀티」 시리즈
+  Infinity Ward = 인피니티 워드
+  Microsoft = 마이크로소프트
+  Microsoft Windows = 마이크로소프트 윈도우
+  PlayStation = 플레이스테이션
+  PlayStation 3 = 플레이스테이션 3
+  Windows = 윈도우
+  World = 세계
+  World War II = 제2차 세계 대전
+  Xbox = 엑스박스
+  Xbox 360 = 엑스박스 360
+  first-person shooter = 1인칭 슈팅 게임
+ENTRY:
+2007 first-person shooter video game. Developed by Infinity Ward and published by Activision, it is the fourth main installment in the [[Call of Duty|Call of Duty series]] and breaks away from the [[World War II]] setting of earlier entries to a modern military setting. Released in November 2007 for [[PlayStation 3]], [[Xbox 360]] and [[Microsoft Windows]], it was critically acclaimed and was the top-selling game worldwide in 2007, selling around seven million copies by January 2008.
+
+=== KEY: Call_of_Duty_b8aa65
+HEADWORD: Call of Duty = 콜 오브 듀티
+LEVEL: 5
+GLOSSARY:
+  Activision = 액티비전
+  Call of Duty = 콜 오브 듀티
+  Call of Duty 4: Modern Warfare = 「콜 오브 듀티 4: 모던 워페어」
+  Guinness = 기네스
+  Guinness World Records = 기네스 세계 기록
+  Infinity Ward = 인피니티 워드
+  Raven = 까마귀
+  Raven Software = 레이븐 소프트웨어
+  Sledgehammer = 「Sledgehammer」
+  Sledgehammer Games = 슬레지해머 게임스
+  Software = 소프트웨어
+  Treyarch = 트레이아크
+  World = 세계
+  World War II = 제2차 세계 대전
+  first-person shooter = 1인칭 슈팅 게임
+ENTRY:
+First-person shooter video game series and media franchise, published by Activision from 2003. Developed first by Infinity Ward and later by Treyarch, Sledgehammer Games and Raven Software, the series originally focused on [[World War II]] settings. [[Call of Duty 4: Modern Warfare]] (2007), which introduced a modern setting, became its breakthrough. As of October 2023 it had sold over 500 million copies and generated $30 billion in revenue by 2022. [[Guinness World Records]] has verified it as the best-selling first-person shooter series.
+
+=== KEY: Calligraphy_d2e863
+HEADWORD: Calligraphy = 서예
+LEVEL: 3
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Asia = 아시아
+  Book = 책
+  Book of Kells = 『켈스의 서』
+  Bronzeware = 금문
+  Brush = 붓
+  China = 중국
+  East Asia = 동아시아
+  Four Treasures of the Study = 문방사우
+  Islamic world = 이슬람 세계
+  Li Si = 이사
+  Masters = 마스터스 토너먼트
+  Ottoman = 오스만
+  Pen = 펜
+  Qin Shi Huang = 진시황
+  Qur'an = 쿠란
+  Renaissance = 르네상스
+  Roman capitals = 로마 대문자
+  Shang dynasty = 상나라
+  Wang Xizhi = 왕희지
+  Zhong You = 종요
+  clerical script = 예서
+  cursive scripts = 초서
+  dip pens = 딥펜
+  fountain pens = 만년필
+  humanist italic = 인문주의 이탤릭체
+  illuminated manuscripts = 채식 필사본
+  ink brush = 붓
+  inkstick = 먹
+  inkstone = 벼루
+  insular majuscule = 인슐라 대문자체
+  large seal scripts = 대전
+  naskh = 나스흐
+  nasta'liq = 나스탈리크
+  oracle bone script = 갑골문
+  quills = 깃펜
+  reed pens = 갈대 펜
+  regular script = 해서
+  running and cursive scripts = 행서와 초서
+  seoye = 서예
+  shodō = 서도
+  shūfǎ = 서법
+  small seal characters = 소전
+ENTRY:
+Fine handwriting as a visual art, in which lettering or characters are designed and executed with a [[Pen|pen]], [[Brush|ink brush]], or other writing instrument. The word comes from Ancient Greek *kalligraphía*, 'beautiful writing'. It is a prominent art in East Asia and the Islamic world, where its form is often influenced by the meaning of the text.
+
+In China the oldest known characters, oracle bone script, were carved on ox scapulae and tortoise plastrons under the [[Shang dynasty]] for divination. Bronzeware and large seal scripts followed. Around 220 BC the emperor [[Qin Shi Huang]] imposed reforms including [[Li Si]]'s unification of characters into a set of 3300 standardized small seal characters; clerical script was also authorized under him. The traditional regular script (*kǎi shū*), largely finalized by Zhong You, remains in use today, and printing encouraged the stabilization of character shapes. Masters such as [[Wang Xizhi]] exemplified spontaneous expression in running and cursive scripts. Chinese calligraphy is called *shūfǎ*, Japanese *shodō*, and Korean *seoye*; each remains highly regarded. Traditional East Asian writing uses the Four Treasures of the Study: ink brush, inkstick, paper, and inkstone.
+
+In the Islamic world calligraphy flourished under Ottoman patronage from the 16th century, with scripts such as naskh and nasta'liq used for copying the Qur'an, devotional panels, and diplomas, and in mosques and homes. Western calligraphy, rooted in Roman capitals, developed through the insular majuscule of illuminated manuscripts such as the [[Book of Kells]] (c. 800) and the humanist italic of the Renaissance.
+
+Western tools include quills, dip pens, fountain pens, reed pens, and brushes, with water-based ink.
+
+=== KEY: Calliphoridae_4a1c0d
+HEADWORD: Calliphoridae = 검정파리과
+LEVEL: 4
+GLOSSARY:
+  Chrysomya bezziana = 크리소미아 베지아나
+  Diptera = 파리목
+  Family = 가족
+  Fly = 파리
+  Larva = 애벌레
+  Lucilia sericata = 구리금파리
+  Odor = 냄새
+  blowflies = 검정파리
+  carrion flies = 시체파리
+  maggot debridement therapy = 구더기 치료
+  monophyly = 단계통성
+  myiasis = 구더기증
+  phylogenomic = 계통유전체학
+  polyphyletic = 다계통
+  postmortem intervals = 사후 경과 시간
+ENTRY:
+Family of [[Fly|flies]] in the order Diptera, commonly called blowflies or carrion flies. Adults are often shiny, with blue, green or black thoraces and abdomens. Most [[Larva|larvae]] are scavengers of carrion and dung; the maggots, known as gentles, are often used as fishing bait. A female typically lays 150–200 eggs per batch, and the larvae use enzymes to break down the proteins they feed on. Their predictable development on corpses aids in estimating postmortem intervals. Adults are occasional pollinators, attracted to flowers with [[Odor|odors]] resembling rotting meat. Some species, such as *Chrysomya bezziana*, cause myiasis, while *Lucilia sericata* is used in maggot debridement therapy for wound healing. Its monophyly is disputed: some studies describe the family as polyphyletic, while recent phylogenomic analyses support monophyly.
+
+=== KEY: Callisto_moon_703af0
+HEADWORD: Callisto = 칼리스토
+LEVEL: 4
+GLOSSARY:
+  Callisto = 칼리스토
+  Galilean moons = 갈릴레이 위성
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Galileo spacecraft = 갈릴레오호
+  Ganymede = 가니메데
+  Ganymede (moon) = 가니메데
+  Jupiter = 목성
+  Mercury (planet) = 수성
+  Simon Marius = 지몬 마리우스
+  Solar System = 태양계
+  plate tectonics = 판 구조론
+ENTRY:
+Second-largest moon of [[Jupiter]], after [[Ganymede (moon)|Ganymede]], and the third-largest in the [[Solar System]]. At 4,821 km in diameter, it is nearly as large as the planet [[Mercury (planet)|Mercury]], though with only about a third of that planet's mass. It is the outermost of Jupiter's four large Galilean moons, discovered in 1610 by Simon Marius and [[Galileo Galilei]]. Its surface is the oldest and most heavily cratered in the Solar System, with no sign of plate tectonics or volcanism. Composed of roughly equal parts rock and ice, Callisto has a density of about 1.83 g/cm³, the lowest of Jupiter's major moons. Investigation by the Galileo spacecraft suggested a small silicate core and possibly a subsurface ocean of liquid water.
+
+=== KEY: Calorie_5bbf7d
+HEADWORD: Calorie = 칼로리
+LEVEL: 4
+GLOSSARY:
+  Calorie = 칼로리
+  Celsius = 섭씨
+  Energy = 에너지
+  International System of Units = 국제단위계
+  Joule = 줄
+  SI = 국제단위계
+  caloric theory = 열소설
+  kilocalorie = 킬로칼로리
+  large calorie = 킬로칼로리
+  small calorie = 그램칼로리
+  thermochemical calorie = 열화학 칼로리
+ENTRY:
+Unit of [[Energy|energy]] used in nutrition and food science, originating in the caloric theory of heat. The small calorie is the amount of heat needed to raise the temperature of one gram of water by one degree Celsius. The large calorie, or kilocalorie, equals 1,000 small calories and is normally the unit used for the energy values of foods; some authors write Calorie with a capital C for it. The calorie is not part of the [[International System of Units|SI]] and is regarded as obsolete, having been replaced by the [[Joule|joule]]. The thermochemical calorie is now taken as exactly 4.184 J, so one kilocalorie is 4184 J, or 4.184 kJ.
+
+=== KEY: Calvin_Coolidge_9ae91b
+HEADWORD: Coolidge, Calvin = 쿨리지, 캘빈
+LEVEL: 5
+GLOSSARY:
+  Citizenship = 시민권
+  Indian Citizenship Act = 인디언 시민권법
+  Indian Citizenship Act of 1924 = 1924년 인디언 시민권법
+  Massachusetts = 매사추세츠주
+  Native Americans = 아메리카 원주민
+  President of the United States = 미국 대통령
+  Republican = 공화당
+  Republican Party (United States) = 공화당
+  Roaring Twenties = 광란의 20년대
+  Silent Cal = 조용한 캘
+  United States = 미국
+  Warren G. Harding = 워런 G. 하딩
+  vice president = 부통령
+ENTRY:
+30th [[President of the United States|president of the United States]] (1923–29). A [[Republican Party (United States)|Republican]] lawyer from [[Massachusetts]], he was governor of that state from 1919 to 1921 and vice president under Warren G. Harding until Harding's death in 1923. Known as "Silent Cal" for his taciturn manner, he signed the Indian Citizenship Act of 1924, which granted U.S. citizenship to all Native Americans. Advocates of smaller government praise his hands-off, pro-business approach, while critics argue that he failed to use the economic boom of the [[Roaring Twenties]] to help struggling farmers and workers.
+
+=== KEY: Calvin_Harris_8febe0
+HEADWORD: Harris, Calvin = 해리스, 캘빈
+LEVEL: 5
+GLOSSARY:
+  18 Months = 『18 Months』
+  Adam = 아담
+  Adam Richard Wiles = 애덤 리처드 와일스
+  Brit Awards = 브릿 어워드
+  British Producer of the Year = 올해의 영국 프로듀서
+  British Single of the Year = 올해의 영국 싱글
+  Calvin = 칼뱅
+  Forbes = 『포브스』
+  Michael Jackson = 마이클 잭슨
+  Richard = 리처드
+  Scottish = 스코틀랜드
+  Spotify = 스포티파이
+  UK Albums Chart = UK 앨범 차트
+  Wiles = 와일스
+  Year = 해
+ENTRY:
+Scottish DJ, record producer, singer and songwriter, known professionally as Calvin Harris (real name Adam Richard Wiles). His album *18 Months* (2012) topped the UK Albums Chart, and in 2013 he surpassed the record of [[Michael Jackson]] for most top ten singles from one album, with nine from *18 Months* against Jackson's seven. He was the first UK solo artist to reach more than one billion streams on [[Spotify]]. He won British Producer of the Year and British Single of the Year at the 2019 Brit Awards, and topped [[Forbes]]' list of the world's highest-paid DJs for six consecutive years, from 2013 to 2018.
+
+=== KEY: Calvin_Klein_ba56fe
+HEADWORD: Klein, Calvin = 클라인, 캘빈
+LEVEL: 5
+GLOSSARY:
+  Barry = 배리
+  Barry K. Schwartz = 배리 K. 슈워츠
+  Calvin = 칼뱅
+  Calvin Klein = 캘빈 클라인
+  Fashion design = 패션 디자인
+  Jewellery = 장신구
+  Klein = 클라인
+  Perfume = 향수
+  Phillips-Van Heusen Corporation = 필립스반하우젠
+  Saint = 성인
+  Watch = 손목시계
+  Yves Saint Laurent = 이브 생로랑
+  Yves Saint Laurent (designer) = 이브 생로랑
+  fashion = 패션
+  jewelry = 장신구
+ENTRY:
+American [[Fashion design|fashion]] designer. In 1968 he launched, with childhood friend Barry K. Schwartz, the company that later became Calvin Klein. He was hailed as the new [[Yves Saint Laurent (designer)|Yves Saint Laurent]] for his clean lines, and his tight-fitting signature jeans of 1974 went on to gross $200,000 in their first week of sales. His name also appears on a range of [[Perfume|perfumes]], [[Watch|watches]] and [[Jewellery|jewelry]]. In 2003 he sold his majority stake in the company to Phillips-Van Heusen Corporation for $430 million.
+
+=== KEY: Cambodia_06c7a3
+HEADWORD: Cambodia = 캄보디아
+LEVEL: 4
+GLOSSARY:
+  Angkor = 앙코르
+  Angkor Wat = 앙코르 와트
+  Asia = 아시아
+  Cambodia = 캄보디아
+  Cambodian = 캄보디아
+  Cambodian People's Party = 캄보디아 인민당
+  Cambodian genocide = 캄보디아 집단 학살
+  Constitutional monarchy = 입헌 군주제
+  French = 프랑스어
+  Khmer = 크메르족
+  Khmer Empire = 크메르 제국
+  Khmer Rouge = 크메르 루주
+  Kingdom of Cambodia = 캄보디아 왕국
+  Party = 파티
+  People's Party = 인민당
+  Phnom Penh = 프놈펜
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+ENTRY:
+Country in Southeast Asia, officially the Kingdom of Cambodia, with a population of about 17.6 million as of 2024, predominantly ethnic Khmer. Its capital and largest city is [[Phnom Penh]]. The [[Khmer Empire]] (9th to 15th centuries) built [[Angkor Wat]], and Cambodia was a French protectorate from 1863 until independence in 1953. The [[Khmer Rouge]] regime carried out the [[Cambodian genocide]] from 1975 to 1979, and a later Vietnamese invasion ousted it. UN-supervised elections in 1993 restored a [[Constitutional monarchy|constitutional monarchy]]. The Cambodian People's Party has dominated politics, and agriculture remains the largest economic sector, with growth in garments, tourism and construction.
+
+=== KEY: Cambodian_Vietnamese_War_3ce347
+HEADWORD: Cambodian–Vietnamese War = 캄보디아-베트남 전쟁
+LEVEL: 5
+GLOSSARY:
+  Cambodia = 캄보디아
+  China = 중국
+  Democratic = 민주당
+  Democratic Kampuchea = 민주 캄푸치아
+  Khmer = 크메르족
+  Khmer Rouge = 크메르 루주
+  Paris = 파리
+  Paris Peace Agreements = 파리 평화 협정
+  Peace = 평화
+  Soviet Union = 소련
+  Vietnam = 베트남
+ENTRY:
+Armed conflict (1978–89) between Democratic Kampuchea and [[Vietnam]]. Vietnamese forces launched a full-scale invasion on December 25, 1978, toppling the [[Khmer Rouge]] regime and occupying Cambodia. Vietnam was backed by the [[Soviet Union]], while the Khmer Rouge had the support of [[China]]. Khmer Rouge remnants and other factions fought the occupation until Vietnam withdrew its troops in September 1989. The Paris Peace Agreements of 1991 led to a UN-led transition and the restoration of a constitutional monarchy in 1993.
+
+=== KEY: Cambodian_genocide_e63f33
+HEADWORD: Cambodian genocide = 캄보디아 집단 학살
+LEVEL: 4
+GLOSSARY:
+  Cambodia = 캄보디아
+  Cambodian = 캄보디아
+  Cham = 참족
+  China = 중국
+  Chinese Communist Party = 중국 공산당
+  Communist Party = 공산당
+  Communist Party of Kampuchea = 캄푸치아 공산당
+  Khieu Samphan = 키우 삼판
+  Khmer = 크메르족
+  Khmer Rouge = 크메르 루주
+  Mao Zedong = 마오쩌둥
+  Nuon Chea = 누온 체아
+  Party = 파티
+  Pol Pot = 폴 포트
+  crimes against humanity = 인도에 반한 죄
+  life imprisonment = 종신형
+ENTRY:
+Systematic persecution and killing of Cambodian citizens by the [[Khmer Rouge]] regime, 1975–79. Led by [[Pol Pot]], the Communist Party of Kampuchea emptied the cities and forced people into labor camps, where mass executions, forced labor, starvation and disease were rampant. Approximately 1.5 to 2 million people died, or 20% to 25% of the 1975 population, including ethnic minorities such as the Cham. China supplied at least 90% of the Khmer Rouge's foreign aid, and the [[Chinese Communist Party]] led by [[Mao Zedong]] supported the movement. A Vietnamese invasion toppled the regime in 1978. In 2019 the Extraordinary Chambers in the Courts of Cambodia found Nuon Chea and Khieu Samphan guilty of crimes against humanity and genocide, and both were sentenced to life imprisonment.
+
+=== KEY: Cambrian_6b96e8
+HEADWORD: Cambrian = 캄브리아기
+LEVEL: 4
+GLOSSARY:
+  Cambrian = 캄브리아기
+  Cambrian explosion = 캄브리아기 대폭발
+  Ediacaran = 에디아카라기
+  Ediacaran Period = 에디아카라기
+  Gondwana = 곤드와나
+  Ordovician = 오르도비스기
+  Paleozoic = 고생대
+  Paleozoic Era = 고생대
+  Phanerozoic = 현생누대
+  Southern Hemisphere = 남반구
+  Trilobite = 삼엽충
+  lagerstätte = 라거슈테테
+  phyla = 문
+ENTRY:
+First geological period of the [[Paleozoic]] Era and the [[Phanerozoic]] Eon. It lasted 51.95 million years, from 538.8 to 486.85 million years ago, following the [[Ediacaran|Ediacaran Period]] and preceding the [[Ordovician]]. Most continents lay in the Southern Hemisphere, and the assembly of [[Gondwana]] helped drive up global temperatures. The period saw the [[Cambrian explosion]], a rapid increase in fossil diversity that produced the first representatives of most modern animal phyla. No land animals or plants had yet evolved, and [[Trilobite|trilobites]] were among the prominent animals. The Cambrian also has an unusually high proportion of lagerstätte deposits, sites where soft body parts are exceptionally preserved.
+
+=== KEY: Cambrian_explosion_7294f9
+HEADWORD: Cambrian explosion = 캄브리아기 대폭발
+LEVEL: 4
+GLOSSARY:
+  Animal = 동물
+  Cambrian = 캄브리아기
+  Ediacaran = 에디아카라기
+  Ediacaran biota = 에디아카라 생물군
+  Fossil = 화석
+  Predation = 포식
+  Sinsk Event = 신스크 사건
+  Sponge = 해면동물
+  eumetazoan = 진정후생동물
+  phyla = 문
+ENTRY:
+Major evolutionary radiation of [[Animal|animal]] life beginning about 538.8 million years ago in the early [[Cambrian]] period. Fossils from the period include representatives of all five modern animal phyla except [[Sponge|sponges]], which appeared earlier. Many Cambrian animals were more mobile and had more complex body plans than the [[Ediacaran|Ediacaran biota]] that preceded them. The radiation lasted between 13 million and 25 million years, ending at the Sinsk Event, and resulted in the divergence of most extant eumetazoan phyla. It coincided with the evolution of mineralized skeletons, which fossilize readily and contributed to the abundance of early Cambrian [[Fossil|fossils]]. Proposed causes include a rise in oxygen levels and ecological factors such as [[Predation|predation]].
+
+=== KEY: Cambridge_909442
+HEADWORD: Cambridge = 케임브리지
+LEVEL: 5
+GLOSSARY:
+  Association football = 축구
+  Cambridge = 케임브리지
+  Cambridgeshire = 케임브리지셔주
+  Cavendish = 캐번디시
+  Cavendish Laboratory = 캐번디시 연구소
+  City = 도시
+  England = 잉글랜드
+  Game = 게임
+  King's College = 킹스 칼리지
+  King's College Chapel = 킹스 칼리지 예배당
+  Laboratory = 실험실
+  Laws of the Game = 경기 규칙
+  London = 런던
+  River = 강
+  River Cam = 캠강
+  Silicon = 규소
+  Silicon Fen = 실리콘 펜
+  University = 대학
+  University of Cambridge = 케임브리지 대학교
+  county town = 주도
+  higher education = 고등 교육
+ENTRY:
+City (pop., 2021: 145,700), county town of Cambridgeshire, England, on the River Cam, 55 miles (89 km) north of [[London]]. It is home to the [[University of Cambridge]], founded in 1209, whose buildings include King's College Chapel and the Cavendish Laboratory. The city is at the heart of the Silicon Fen high-technology cluster, where software and bioscience firms have grown out of the university. Over 40 percent of its workforce holds a higher education qualification. The city produced the first Laws of the Game for [[Association football|association football]].
+
+=== KEY: Cambridge_Massachusetts_b4962d
+HEADWORD: Cambridge = 케임브리지
+LEVEL: 5
+GLOSSARY:
+  Boston = 보스턴
+  Cambridge = 케임브리지
+  Cambridge Common = 케임브리지 커먼
+  Charles River = 찰스강
+  City = 도시
+  Continental Army = 대륙군
+  England = 잉글랜드
+  George Washington = 조지 워싱턴
+  Harvard = 하버드
+  Harvard University = 하버드 대학교
+  MIT = MIT
+  Massachusetts = 매사추세츠주
+  Massachusetts Institute of Technology = 매사추세츠 공과대학교
+  Middlesex County = 미들섹스군
+  Patriot = 애국파
+  River = 강
+  Technology = 기술
+  United States = 미국
+  University = 대학
+  University of Cambridge = 케임브리지 대학교
+  Washington = 워싱턴주
+ENTRY:
+City (pop., 2020: 118,403) in Middlesex County, Massachusetts, across the Charles River from [[Boston]]. It was named for the [[University of Cambridge]] in England and founded in December 1630. Cambridge Common, celebrated as the birthplace of the Continental Army, is where [[George Washington]] took command of the Patriot soldiers in July 1775. [[Harvard University]], founded in 1636, is the oldest institution of higher learning in the United States. The [[Massachusetts Institute of Technology|Massachusetts Institute of Technology]] (MIT) has a 168-acre campus here, and in 2022 the city was home to over 250 biotech companies.
+
+=== KEY: Camel_1690f3
+HEADWORD: Camel = 낙타
+LEVEL: 4
+GLOSSARY:
+  Alpaca = 알파카
+  Asia = 아시아
+  Bactrian = 박트리아어
+  Bactrian camel = 쌍봉낙타
+  Camelidae = 낙타과
+  Camelus = 낙타속
+  Dromedary = 단봉낙타
+  Eocene = 에오세
+  Llama = 라마
+  Miocene = 마이오세
+  North America = 북아메리카
+  guanaco = 과나코
+  vicuña = 비쿠냐
+  wild Bactrian camel = 야생 쌍봉낙타
+ENTRY:
+Even-toed ungulate in the genus *Camelus*, with fatty humps on its back, long domesticated for transport, milk, meat and fiber. There are three surviving species: the one-humped [[Dromedary]] and the two-humped [[Bactrian camel]], as well as the wild Bactrian camel, a distinct species that is endangered with around 1,000 individuals. Camels are adapted to desert habitats and are vital working animals that carry passengers and cargo. The wider family Camelidae includes the [[Llama|llama]], [[Alpaca|alpaca]], guanaco and vicuña. Camelids originated in North America during the [[Eocene]]; the ancestor of modern camels crossed into Asia during the late [[Miocene]], about 6 million years ago.
+
+=== KEY: Camellia_7bf560
+HEADWORD: Camellia = 동백나무속
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  C. japonica = 동백나무
+  C. oleifera = 유차나무
+  C. sasanqua = 애기동백나무
+  Camellia sinensis = 차나무
+  China = 중국
+  Cultivar = 재배 품종
+  East Asia = 동아시아
+  Genus = 속
+  Indian subcontinent = 인도 아대륙
+  Indochina = 인도차이나
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  Tea = 차
+  Theaceae = 차나무과
+  flowering plants = 속씨식물
+  tea seed oil = 차씨 기름
+ENTRY:
+Genus of flowering plants in the tea family, Theaceae, native to tropical and subtropical areas of eastern and southern Asia. It has more than 220 described species, almost all found in southern China and Indochina. Camellias have been cultivated for centuries as ornamental, tea and oil plants, and over 26,000 [[Cultivar|cultivars]] have been registered. The leaves of [[Camellia sinensis|*C. sinensis*]] are processed into [[Tea|tea]], which is of particular economic importance in East Asia, Southeast Asia and the Indian subcontinent. The ornamental *C. japonica* and *C. sasanqua* and their hybrids are the source of hundreds of garden cultivars, and *C. oleifera* produces tea seed oil used in cooking and cosmetics.
+
+=== KEY: Camellia_sinensis_ebd637
+HEADWORD: Camellia sinensis = 차나무
+LEVEL: 5
+GLOSSARY:
+  China = 중국
+  India = 인도
+  Kenya = 케냐
+  Myanmar = 미얀마
+  Shrub = 관목
+  Tea = 차
+  Theaceae = 차나무과
+  oolong = 우롱차
+ENTRY:
+Evergreen [[Shrub|shrub]] in the family Theaceae, also called the tea plant. Its leaves, buds and stems are harvested to make [[Tea|tea]]; the leaves are processed to different degrees of oxidation to produce white, yellow, green, oolong, dark and black teas. The species is native to the highlands between southwestern China, northern Myanmar and northeastern India, and is now cultivated as a cash crop in many other parts of the world. China, India and Kenya are the three largest tea-producing countries.
+
+=== KEY: Camera_967d35
+HEADWORD: Camera = 카메라
+LEVEL: 3
+GLOSSARY:
+  AE-1 = AE-1
+  Camera obscura = 카메라 옵스큐라
+  Charge-coupled device = 전하 결합 소자
+  Contax = 콘탁스
+  Daguerreotype = 다게레오타입
+  Germany = 독일
+  Kodak = 코닥
+  Leica = 라이카
+  Nicéphore Niépce = 니세포르 니엡스
+  Olympus AutoEye = 올림푸스 오토아이
+  Photographic film = 사진 필름
+  Ricohflex III = 리코플렉스 III
+  SX-70 = SX-70
+  Smartphone = 스마트폰
+  United States = 미국
+  World = 세계
+  World War I = 제1차 세계 대전
+  computational photography = 계산 사진학
+  image sensor = 이미지 센서
+  rangefinder = 거리계 연동식
+  roll film = 롤 필름
+  single-lens reflex = 일안 반사식
+ENTRY:
+Instrument for capturing and storing images and video, either digitally with an electronic image sensor or chemically on a light-sensitive material such as [[Photographic film|photographic film]]. Cameras have shaped the visual arts, media, entertainment, surveillance, and scientific research.
+
+All cameras share a basic design: light enters an enclosed box through a converging lens, and the image is recorded on a light-sensitive medium. A shutter controls how long light enters, an aperture adjusts the amount of light, and a viewfinder shows the scene. Most cameras record visible light; specialized ones capture other parts of the spectrum, such as infrared. Types include single-lens reflex (SLR), large-format and medium-format, compact, rangefinder, motion picture, and digital cameras.
+
+The principle derives from the [[Camera obscura|camera obscura]]. [[Nicéphore Niépce]] produced the first permanent photograph in 1826, an exposure of eight hours on a bitumen-coated pewter plate. The [[Daguerreotype|daguerreotype]] of 1839 enabled commercial camera manufacture, and by the 1850s designs and sizes were standardized. Dry plates and roll film led to smaller, cheaper cameras, epitomized by the original Kodak, first produced in 1888.
+
+After World War I Germany led camera development, with the Leica and the Contax. In the second half of the 20th century Japanese manufacturers advanced the technology: the Ricohflex III arrived in 1952 and the Olympus AutoEye, the first 35mm SLR with automatic exposure, in 1960. Electronics became integral in the 1970s, in models such as Polaroid's SX-70 and Canon's AE-1. Digital camera sales surpassed film cameras in the United States by 2003, using sensors such as the [[Charge-coupled device|charge-coupled device]]. Cameras built into [[Smartphone|smartphones]] have since blurred the line between dedicated cameras and multifunctional devices, and computational photography uses algorithms to enhance image quality.
+
+=== KEY: Camera_obscura_ed9462
+HEADWORD: Camera obscura = 카메라 옵스큐라
+LEVEL: 5
+GLOSSARY:
+  Camera = 카메라
+  Lens = 렌즈
+  Perspective (graphical) = 원근법
+  Solar eclipse = 일식
+  photographic camera = 사진기
+ENTRY:
+Darkened chamber or box that projects an inverted, reversed image of the outside view through a small hole or [[Lens|lens]]. Versions with lenses, used since the second half of the 16th century, became popular drawing aids because they gave accurate [[Perspective (graphical)|perspective]]. The device was also used to study [[Solar eclipse|solar eclipses]] without looking directly at the Sun. In the first half of the 19th century it was developed into the [[Camera|photographic camera]], with light-sensitive materials exposed to the projected image. The term was first used in 1604.
+
+=== KEY: Cameron_Diaz_6f47b2
+HEADWORD: Diaz, Cameron = 디아스, 캐머런
+LEVEL: 5
+GLOSSARY:
+  Back in Action = 「백 인 액션」
+  Benji Madden = 벤지 매든
+  Book = 책
+  Charlotte = 샬럿
+  Good Charlotte = 굿 샬럿
+  New York Times = 『뉴욕 타임스』
+  Princess Fiona = 피오나 공주
+  Sex symbol = 섹스 심벌
+  Shrek = 「슈렉」
+  Something = 「섬싱」
+  The Body = 더 보디
+  The Body Book = 『더 바디 북』
+  There's Something About Mary = 「메리에겐 뭔가 특별한 것이 있다」
+  York = 요크
+ENTRY:
+American actress and author. Her films have grossed over $3 billion at the U.S. box office, and her romantic comedies of the late 1990s and early 2000s, including *There's Something About Mary* (1998), made her a prominent [[Sex symbol|sex symbol]]. She has voiced Princess Fiona in the [[Shrek]] franchise since 2001. After retiring from acting in 2014 to focus on family, she returned with *Back in Action* (2025). Her health book *The Body Book* (2013) was a *New York Times* bestseller. In 2015 she married the Good Charlotte guitarist Benji Madden, and the couple have had children through surrogacy.
+
+=== KEY: Cameroon_4be25f
+HEADWORD: Cameroon = 카메룬
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Biya = 비야강
+  Cameroon = 카메룬
+  Central Africa = 중앙아프리카
+  France = 프랑스
+  French = 프랑스어
+  Guinea = 기니
+  Gulf of Guinea = 기니만
+  Paul = 바울로
+  Paul Biya = 폴 비야
+  Republic of Cameroon = 카메룬 공화국
+  Yaoundé = 야운데
+ENTRY:
+Country in [[Central Africa]] (pop., 2024: 30.97 million), officially the Republic of Cameroon. Its capital is [[Yaoundé]], and its coastline lies on the [[Gulf of Guinea]]. Its population speaks 250 native languages, and English and French are official languages. Portuguese explorers reached the coast in the 15th century. Cameroon gained independence from [[France]] on January 1, 1960. [[Paul Biya]] has held power since November 6, 1982; critics argue that elections have been manipulated and political opposition suppressed.
+
+=== KEY: Camille_Pissarro_5c4ab7
+HEADWORD: Pissarro, Camille = 피사로, 카미유
+LEVEL: 4
+GLOSSARY:
+  Cézanne = 세잔
+  Danish = 덴마크어
+  Danish West Indies = 덴마크령 서인도 제도
+  Georges Seurat = 조르주 쇠라
+  Impressionism = 인상주의
+  Impressionist = 인상주의
+  John = 존
+  John Rewald = 존 리월드
+  Neo-Impressionism = 신인상주의
+  Paris = 파리
+  Paul Cézanne = 폴 세잔
+  Paul Gauguin = 폴 고갱
+  Saint = 성인
+  Saint Thomas = 세인트토머스섬
+  Thomas = 토머스
+  United States = 미국
+  United States Virgin Islands = 미국령 버진아일랜드
+  Van Gogh = 반 고흐
+  Virgin = 『버진』
+  Virgin Islands = 버진 제도
+  West Indies = 서인도 제도
+ENTRY:
+Danish-French Impressionist and Neo-Impressionist painter, born on Saint Thomas in the Danish West Indies, now the [[United States Virgin Islands]]. He is the only artist to have exhibited at all eight [[Impressionism|Impressionist]] exhibitions in Paris, held from 1874 to 1886. In 1873 he helped found a collective of 15 artists. Art historian John Rewald called him the "dean of the Impressionist painters". At the age of 54 he took up Neo-Impressionism, working with [[Georges Seurat]]. He acted as a father figure to [[Paul Cézanne|Cézanne]], Seurat, [[Paul Gauguin|Gauguin]] and Van Gogh.
+
+=== KEY: Camillo_Benso_Count_of_Cavour_00e632
+HEADWORD: Cavour, Camillo Benso, Count of = 카보우르, 카밀로 벤소
+LEVEL: 4
+GLOSSARY:
+  Crimean War = 크림 전쟁
+  Denis Mack Smith = 데니스 맥 스미스
+  Giuseppe Garibaldi = 주세페 가리발디
+  Il Risorgimento = 『일 리소르지멘토』
+  Independence = 인디펜던스
+  Italian unification = 이탈리아 통일
+  Italy = 이탈리아
+  Kingdom of Italy = 이탈리아 왕국
+  Kingdom of Sardinia = 사르데냐 왕국
+  Piedmont = 피에몬테
+  Prime = 프라임
+  Risorgimento = 리소르지멘토
+  Second = 초
+  Second Italian War of Independence = 제2차 이탈리아 독립 전쟁
+  War of Independence = 독립 전쟁
+ENTRY:
+Italian statesman and leader of the movement for Italian unification. He was Prime Minister of the Kingdom of Sardinia from 1852 until his death, apart from a six-month resignation, and the first Prime Minister of the [[Kingdom of Italy]] in 1861. As prime minister he steered [[Piedmont]] through the [[Crimean War]] and the Second Italian War of Independence, and backed the campaigns of [[Giuseppe Garibaldi]], maneuvering Piedmont into a new great power and controlling a nearly united Italy five times as large as Piedmont had been before he came to power. He pushed economic reforms in Piedmont and founded the newspaper *Il Risorgimento*. Historian Denis Mack Smith called him the most successful parliamentarian in Italian history but not especially democratic, saying he was often dictatorial and interfered in parliamentary elections.
+
+=== KEY: Camino_de_Santiago_13b4ef
+HEADWORD: Camino de Santiago = 산티아고 순례길
+LEVEL: 5
+GLOSSARY:
+  Christendom = 그리스도교 세계
+  Council of Europe = 유럽 평의회
+  Cultural Route = 문화 루트
+  Europe = 유럽
+  French = 프랑스어
+  French Way = 프랑스 길
+  Galicia = 갈리치아
+  Galicia (Spain) = 갈리시아
+  Granada = 그라나다
+  Granada War = 그라나다 전쟁
+  James = 야고보
+  Network = 「네트워크」
+  Pilgrimage = 순례
+  Pope = 교황
+  Pope Alexander VI = 교황 알렉산데르 6세
+  Saint = 성인
+  Saint James = 성 야고보
+  Santiago = 산티아고
+  Santiago de Compostela = 산티아고데콤포스텔라
+  Spain = 스페인
+  UNESCO = 유네스코
+  UNESCO World Heritage List = 유네스코 세계 유산 목록
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage List = 세계유산 목록
+  apostle James = 사도 야고보
+ENTRY:
+Network of pilgrim routes leading to the shrine of the apostle James in the cathedral of Santiago de Compostela, in [[Galicia (Spain)|Galicia]], northwestern Spain. Established in the early 9th century after the discovery of the relics of Saint James, it became a major medieval [[Pilgrimage|pilgrimage]] route from the 10th century. After the Granada War ended in 1492, [[Pope Alexander VI]] declared it one of the "three great pilgrimages of Christendom". The Council of Europe named it the first Cultural Route in 1987. Its French Way and northern routes in Spain are on the [[UNESCO]] World Heritage List.

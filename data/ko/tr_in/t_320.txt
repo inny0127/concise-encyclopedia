@@ -1,0 +1,878 @@
+=== KEY: Standard_deviation_9f6063
+HEADWORD: Standard deviation = 표준 편차
+LEVEL: 4
+GLOSSARY:
+  Average = 평균
+  Normal distribution = 정규 분포
+  Square root = 제곱근
+  Standard error = 표준 오차
+  Variance = 분산
+  arithmetic average = 산술 평균
+  standard deviation = 표준 편차
+  statistical significance = 통계적 유의성
+ENTRY:
+Measure of the variation of a set of values about their arithmetic [[Average|average]], used in statistics. A low standard deviation means the values cluster near the average; a high one means they are spread over a wider range. It is most often represented by the Greek letter σ (sigma) and equals the [[Square root|square root]] of the [[Variance|variance]], so it is expressed in the same unit as the data. For a [[Normal distribution|normal distribution]], about 68.3% of values fall within one standard deviation of the average, 95.4% within two and 99.7% within three. It can also be used to calculate the [[Standard error|standard error]] for a finite sample and to determine statistical significance.
+
+=== KEY: Standard_error_5c8480
+HEADWORD: Standard error = 표준 오차
+LEVEL: 4
+GLOSSARY:
+  Confidence interval = 신뢰 구간
+  Regression analysis = 회귀 분석
+  Standard = 스탠더드
+  Standard deviation = 표준 편차
+  confidence intervals = 신뢰 구간
+  estimator = 추정량
+  sampling distribution = 표집 분포
+  standard deviation = 표준 편차
+  standard error of the mean = 평균의 표준 오차
+ENTRY:
+Standard deviation of the sampling distribution of a statistic, equal to the square root of the variance of an estimator. The standard error of the mean equals the standard deviation divided by the square root of the sample size. Because the population standard deviation is seldom known, it is usually estimated by substituting the sample standard deviation. The standard error is often used in calculating [[Confidence interval|confidence intervals]] and also appears in [[Regression analysis|regression analysis]]. Small samples tend to underestimate the population standard deviation: with n = 2 the underestimate is about 25%, and with n = 6 only 5%. Reducing the error by a factor of two requires four times as many observations.
+
+=== KEY: Standard_temperature_and_pressure_4be635
+HEADWORD: Standard temperature and pressure = 표준 온도와 압력
+LEVEL: 5
+GLOSSARY:
+  Bar (unit) = 바
+  Chemistry = 화학
+  IUPAC = 국제 순수·응용 화학 연합
+  NIST = 미국 국립 표준 기술 연구소
+  National Institute of Standards and Technology = 미국 국립 표준 기술 연구소
+  Pure = 「퓨어」
+  Standard atmosphere (unit) = 표준 대기압
+  Technology = 기술
+  absolute pressure = 절대 압력
+  standard atmosphere = 표준 대기압
+ENTRY:
+Reference conditions for temperature and pressure, used to compare experimental and industrial data, especially gas volumes. The most used standards are those of the International Union of Pure and Applied Chemistry (IUPAC) and the National Institute of Standards and Technology (NIST), though they are not universally accepted. Since 1982 IUPAC has defined STP as 273.15 K (0.00 °C) and an absolute pressure of exactly 1 [[Bar (unit)|bar]] (100,000.000 Pa); before that it used 1 [[Standard atmosphere (unit)|standard atmosphere]] (101,325.000 Pa). Many technical publications simply say "standard conditions" without specifying them.
+
+=== KEY: Standardization_91693e
+HEADWORD: Standardization = 표준화
+LEVEL: 4
+GLOSSARY:
+  Economics = 경제학
+  Indus = 인더스강
+  Indus Valley = 인더스강 유역
+  Industrial Revolution = 산업 혁명
+  Interchangeable parts = 호환 부품
+  Mohenjo-daro = 모헨조다로
+  Standard = 스탠더드
+  interoperability = 상호 운용성
+  machine tools = 공작 기계
+  non-tariff trade barrier = 비관세 무역 장벽
+  screw-cutting lathe = 나사 절삭 선반
+  technical standards = 기술 표준
+ENTRY:
+Process of developing and implementing technical standards based on consensus among firms, users, interest groups, standards organizations and governments. Standardization can maximize compatibility, interoperability, safety, repeatability, efficiency and quality, and can normalize formerly custom processes. In [[Economics|economics]], it addresses coordination problems in which all parties gain only by making mutually consistent decisions; divergent national standards impose costs on consumers and can act as a non-tariff trade barrier. Standard weights and measures were developed in the Indus Valley, where towns such as [[Mohenjo-daro|Mohenjo-daro]] used uniform units of length. The [[Industrial Revolution|Industrial Revolution]] made standards highly important for machine tools and [[Interchangeable parts|interchangeable parts]]; in 1800 Henry Maudslay's screw-cutting lathe allowed screw-thread sizes to be standardized for the first time.
+
+=== KEY: Stanford_University_269fc6
+HEADWORD: Stanford University = 스탠퍼드 대학교
+LEVEL: 4
+GLOSSARY:
+  California = 캘리포니아주
+  Frederick = 프리드리히
+  Frederick Terman = 프레더릭 터먼
+  Hoover Institution = 후버 연구소
+  Institution = 제도
+  Jane = 제인
+  Leland Stanford = 릴런드 스탠퍼드
+  NCAA = NCAA
+  Nobel laureates = 노벨상 수상자
+  Palo Alto = 팰로앨토
+  Research = 연구
+  Silicon = 규소
+  Silicon Valley = 실리콘밸리
+  Stanford Research Park = 스탠퍼드 리서치 파크
+  World = 세계
+  World War II = 제2차 세계 대전
+  only child = 외동
+  provost = 교무처장
+  typhoid = 장티푸스
+ENTRY:
+Private research university in Stanford, California, founded in 1885 by railroad magnate Leland Stanford and his wife, Jane, in memory of their only child, who died of typhoid at age 15. It admitted its first students in 1891 as a coeducational, nondenominational institution. After [[World War II|World War II]], provost Frederick Terman fostered an entrepreneurial culture that gave rise to [[Silicon Valley|Silicon Valley]]; Stanford Research Park, established in Palo Alto in 1951, was the world's first university research park. Organized into seven schools on an 8,180-acre (3,310-hectare) campus, the university houses the Hoover Institution, a public policy think tank. Students and alumni have won 302 Olympic medals, and the university has won 136 NCAA team championships. It is associated with 60 Nobel laureates.
+
+=== KEY: Stanford_prison_experiment_19cdde
+HEADWORD: Stanford prison experiment = 스탠퍼드 감옥 실험
+LEVEL: 5
+GLOSSARY:
+  Philip Zimbardo = 필립 짐바르도
+  Psychology = 심리학
+  Stanford University = 스탠퍼드 대학교
+  Thibault Le Texier = 티보 르텍시에
+  University = 대학
+  de-individuate = 몰개성화
+ENTRY:
+Controversial 1971 psychological experiment at [[Stanford University|Stanford University]]. Run in August 1971 by [[Psychology|psychology]] professor Philip Zimbardo, it was designed as a two-week simulation of prison life. 24 male college students were randomly assigned as prisoners or guards and paid $15 per day. Guards wore uniforms designed to de-individuate them. Abuse of prisoners escalated, and Zimbardo ended the experiment on the sixth day. The study has been widely criticized as unethical and helped prompt stronger review of human research. Thibault Le Texier argued that Zimbardo guided the guards' behavior to confirm conclusions written in advance; Zimbardo disputed the claims.
+
+=== KEY: Stanley_Ho_9715de
+HEADWORD: Ho, Stanley = 호, 스탠리
+LEVEL: 5
+GLOSSARY:
+  Gambling = 도박
+  Godfather = 대부
+  Grand Lisboa = 그랜드 리스보아
+  Hong Kong = 홍콩
+  King of Gambling = 도박왕
+  Lawrence Ho = 로런스 호
+  Macau = 마카오
+  Pansy Ho = 팬시 호
+  SJM Holdings = SJM 홀딩스
+ENTRY:
+[[Hong Kong|Hong Kong]] and [[Macau|Macau]] billionaire businessman, nicknamed the Godfather and King of Gambling. He founded SJM Holdings, which owns 19 casinos in Macau, including the Grand Lisboa. Ho held a government-granted monopoly on Macau's gambling industry for 40 years. His business interests spanned entertainment, tourism, shipping, real estate, banking and air transport. After a stroke in July 2009, he began devolving control of his empire to his wives and children from late 2010, including daughter Pansy Ho and son Lawrence Ho.
+
+=== KEY: Stanley_Kubrick_19ad70
+HEADWORD: Kubrick, Stanley = 큐브릭, 스탠리
+LEVEL: 4
+GLOSSARY:
+  A Clockwork Orange = 「시계태엽 오렌지」
+  Academy Award = 아카데미상
+  Academy Award for Best Visual Effects = 아카데미 시각효과상
+  Academy Awards = 아카데미상
+  Best Visual Effects = 시각효과상
+  Childwickbury Manor = 차일드윅베리 저택
+  City = 도시
+  Dr. Strangelove = 「닥터 스트레인지러브」
+  England = 잉글랜드
+  Hollywood = 할리우드
+  Lolita = 「롤리타」
+  Look = 『룩』
+  New Hollywood = 뉴 할리우드
+  New York City = 뉴욕
+  Odyssey = 『오디세이아』
+  Orange = 오렌지 카운티
+  Space = 공간
+  The Killing = 「킬링」
+  York = 요크
+ENTRY:
+American filmmaker and photographer of the [[New Hollywood|New Hollywood]] era, regarded as one of the greatest and most influential filmmakers. Born in New York City, he worked as a photographer for *Look* magazine before making his first major Hollywood film, *The Killing* (1956). He settled in England in 1961. At Childwickbury Manor, his home and workplace from 1978, he centralized the writing, editing and management of his productions, giving him almost complete artistic control. His films include *Lolita* (1962), *Dr. Strangelove* (1964) and *A Clockwork Orange* (1971). *2001: A Space Odyssey* (1968) earned him his only [[Academy Awards|Academy Award]], for Best Visual Effects. Known for perfectionism, he often asked for several dozen retakes of a shot.
+
+=== KEY: Stanley_Matthews_cfcf9f
+HEADWORD: Matthews, Stanley = 매슈스, 스탠리
+LEVEL: 5
+GLOSSARY:
+  Apartheid = 아파르트헤이트
+  Ballon d'Or = 발롱도르
+  Blackpool = 블랙풀
+  City = 도시
+  England = 잉글랜드
+  FA Cup = FA컵
+  FIFA World Cup = FIFA 월드컵
+  Matthews final = 매슈스 결승전
+  South Africa = 남아프리카 공화국
+  Soweto = 소웨토
+  Stan's Men = 스탠스 멘
+  Stoke City = 스토크 시티
+  World = 세계
+  World Cup = 월드컵
+  caps = 국가대표 출전
+  outside right = 라이트 윙
+ENTRY:
+English footballer who played as an outside right. Often regarded as one of England's greatest players, he was knighted while still playing. He won the inaugural Ballon d'Or in 1956. He spent 19 years at Stoke City and 14 years at Blackpool, where he helped win the 1953 FA Cup in the "Matthews final." He won 54 caps for England between 1934 and 1957, playing in the [[FIFA World Cup|World Cup]] in 1950 and 1954. In 1975 he established an all-black team in Soweto, South Africa, known as "Stan's Men," despite [[Apartheid|apartheid]] laws.
+
+=== KEY: Staphylococcus_aureus_55c3fe
+HEADWORD: Staphylococcus aureus = 황색포도상구균
+LEVEL: 4
+GLOSSARY:
+  Gram-positive = 그람 양성
+  MRSA = MRSA
+  Meningitis = 수막염
+  Methicillin-resistant S. aureus = 메티실린 내성 황색포도상구균
+  Pneumonia = 폐렴
+  Sepsis = 패혈증
+  Skin = 피부
+  Staphylococcus aureus = 황색포도알균
+  United States = 미국
+  Vaccine = 백신
+  abscesses = 농양
+  antimicrobial resistance = 항미생물제 내성
+  commensal = 공생균
+  food poisoning = 식중독
+  hospital-acquired infections = 병원 감염
+  human microbiota = 인체 미생물총
+  microbiota = 미생물총
+  opportunistic pathogen = 기회감염 병원체
+  staphylococcal infection = 포도상구균 감염
+ENTRY:
+Gram-positive, spherical bacterium (*Staphylococcus aureus*) that is a usual member of the human microbiota, found in the nostrils and on the [[Skin|skin]]. Estimates suggest 21% to 30% of people are long-term carriers. Although usually a commensal, it is an opportunistic pathogen and a common cause of skin infections, abscesses and food poisoning, and it can cause life-threatening [[Pneumonia|pneumonia]], [[Meningitis|meningitis]] and [[Sepsis|sepsis]]. It is one of the five most common causes of hospital-acquired infections; around 500,000 hospital patients in the United States contract a staphylococcal infection each year, chiefly from *S. aureus*. Up to 50,000 deaths a year in the U.S. are linked to staphylococcal infection. Methicillin-resistant *S. aureus* (MRSA) is a leading pathogen in deaths associated with antimicrobial resistance, and no [[Vaccine|vaccine]] has been approved.
+
+=== KEY: Star_26f93e
+HEADWORD: Star = 항성
+LEVEL: 3
+GLOSSARY:
+  Black hole = 블랙홀
+  Earth = 지구
+  Hipparchus = 히파르코스
+  Milky Way = 우리은하
+  Neutron star = 중성자별
+  Nuclear fusion = 핵융합
+  Protostar = 원시별
+  SN 1006 = SN 1006
+  Stellar nucleosynthesis = 항성 핵합성
+  Sun = 태양
+  Supernova = 초신성
+  White dwarf = 백색 왜성
+  asterisms = 성군
+  black hole = 블랙홀
+  constellations = 별자리
+  gaseous nebula = 가스 성운
+  hydrogen fusion = 수소 핵융합
+  interstellar medium = 성간 매질
+  main sequence = 주계열
+  neutron star = 중성자별
+  observable universe = 관측 가능한 우주
+  red giants = 적색 거성
+  solar masses = 태양 질량
+  spectral type = 분광형
+  star chart = 성도
+  thermonuclear fusion = 열핵융합
+  white dwarf = 백색 왜성
+ENTRY:
+Luminous spheroid of plasma held together by its own gravity. The nearest star to Earth is the [[Sun]]. Only about 4,000 stars are visible to the naked eye, all within the [[Milky Way]], and the observable universe is estimated to contain 10²² to 10²⁴ stars. Astronomers group prominent stars into constellations and asterisms and compile catalogs with standardized designations.
+
+A star forms when a gaseous nebula of mostly hydrogen and helium collapses under gravity, and its total mass largely determines its evolution and fate. Protostar cores reach about 15 million kelvin, igniting hydrogen fusion and beginning the main sequence, the longest stage of a star's life. A star shines for most of its active life through [[Nuclear fusion|thermonuclear fusion]] of hydrogen into helium. Low- to intermediate-mass stars (up to about 8 solar masses) expand into red giants and leave a [[White dwarf|white dwarf]]. Massive stars end as [[Supernova|supernovae]], leaving a [[Neutron star|neutron star]] or a [[Black hole|black hole]]. Stellar nucleosynthesis creates almost all naturally occurring elements heavier than lithium, and mass loss and supernovae return them to the interstellar medium to be recycled into new stars. Stars are classified by spectral type (O, B, A, F, G, K, M), from surface temperatures over 30,000 K to about 3,000 K.
+
+Stars have served civilizations for religious practice, divination, navigation, and calendars. The oldest accurately dated star chart is Egyptian, from 1534 BC, and Babylonian astronomers compiled the earliest known catalogs in the late 2nd millennium BC. The catalog of [[Hipparchus]] (2nd century BC) listed 1,020 stars. Chinese astronomers were first to record a supernova, in 185 AD, and SN 1006 was the brightest stellar event in recorded history.
+
+=== KEY: Star_Trek_69fa47
+HEADWORD: Star Trek = 스타 트렉
+LEVEL: 4
+GLOSSARY:
+  CTV = CTV
+  Enterprise = 엔터프라이즈호
+  Gene = 유전자
+  Gene Roddenberry = 진 로덴베리
+  Klingon = 클링온어
+  NBC = NBC
+  Paramount = 파라마운트
+  Science fiction = 과학 소설
+  Star = 항성
+  Star Trek = 스타 트렉
+  Trekkers = 트레커
+  Trekkies = 트레키
+  USS Enterprise = USS 엔터프라이즈
+  United States = 미국
+  civil rights = 민권
+  science fiction = 과학 소설
+ENTRY:
+American [[Science fiction|science fiction]] media franchise created by [[Gene Roddenberry|Gene Roddenberry]] and owned by Paramount. It began with the series *Star Trek*, which premiered on September 6, 1966, on Canada's CTV network and on [[NBC|NBC]] in the United States on September 8. The series follows the crew of the starship USS Enterprise on a mission "to explore strange new worlds, to seek out new life and new civilizations." The franchise has expanded into films, television series, video games, novels and comic books, and is among the highest-grossing media franchises of all time. Its original series included one of the first multiracial casts on American television, and the franchise is noted for progressive stances on civil rights. Fans are called "Trekkies" or "Trekkers," and the constructed language Klingon was created for it.
+
+=== KEY: Star_Trek_The_Next_Generation_d59d29
+HEADWORD: Star Trek: The Next Generation = 스타 트렉: 넥스트 제너레이션
+LEVEL: 5
+GLOSSARY:
+  Captain = 선장
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  Enterprise = 엔터프라이즈호
+  Gene = 유전자
+  Gene Roddenberry = 진 로덴베리
+  Hugo = 휴고상
+  Hugo Awards = 휴고상
+  Jean-Luc Picard = 장뤼크 피카르
+  Lifetime Achievement Award = 평생공로상
+  Patrick Stewart = 패트릭 스튜어트
+  Peabody = 피보디상
+  Peabody Award = 피보디상
+  Science fiction = 과학 소설
+  Star = 항성
+  Star Trek = 스타 트렉
+  USS Enterprise = USS 엔터프라이즈
+  science fiction = 과학 소설
+ENTRY:
+American [[Science fiction|science fiction]] television series created by [[Gene Roddenberry|Gene Roddenberry]], the third series in the [[Star Trek|Star Trek]] franchise. Syndicated from September 28, 1987, to May 23, 1994, it ran 178 episodes over seven seasons. Set in the late 24th century, it follows the crew of the starship USS Enterprise (NCC-1701-D), with [[Patrick Stewart|Patrick Stewart]] as Captain Jean-Luc Picard. The show reached almost 12 million viewers in its fifth season. It received 19 Emmy Awards, two Hugo Awards and one Peabody Award, and a Lifetime Achievement Award for the entire cast in 2024.
+
+=== KEY: Star_Trek_The_Original_Series_d57844
+HEADWORD: Star Trek: The Original Series = 스타 트렉: 오리지널 시리즈
+LEVEL: 5
+GLOSSARY:
+  Apollo 11 = 아폴로 11호
+  BBC One = BBC 원
+  Captain = 선장
+  Enterprise = 엔터프라이즈호
+  Gene = 유전자
+  Gene Roddenberry = 진 로덴베리
+  James = 야고보
+  James T. Kirk = 제임스 T. 커크
+  Milky Way = 우리은하
+  Moon = 달
+  NBC = NBC
+  Science fiction = 과학 소설
+  USS Enterprise = USS 엔터프라이즈
+  United Kingdom = 영국
+  William = 윌리엄
+  William Shatner = 윌리엄 섀트너
+  cult classic = 컬트 고전
+  science fiction = 과학 소설
+ENTRY:
+American [[Science fiction|science fiction]] television series created by [[Gene Roddenberry|Gene Roddenberry]]. It follows the starship USS Enterprise (NCC-1701) and its crew, led by Captain James T. Kirk ([[William Shatner|William Shatner]]), set in the Milky Way, c. 2266–2269. It aired on [[NBC|NBC]] from September 8, 1966, to June 3, 1969, and was canceled after three seasons and 79 episodes because of low ratings. Syndication later made it an international success and a cult classic. It was first shown in the United Kingdom on July 12, 1969, on BBC One, coinciding with the [[Apollo 11|Apollo 11]] Moon landing.
+
+=== KEY: Star_Wars_607cf4
+HEADWORD: Star Wars = 스타워즈
+LEVEL: 4
+GLOSSARY:
+  Disney = 디즈니
+  Force = 힘
+  George Lucas = 조지 루커스
+  Jedi = 제다이
+  Sith = 시스
+  Star = 항성
+  The Force = 포스
+  space opera = 스페이스 오페라
+  theme park = 테마파크
+ENTRY:
+American media franchise created by [[George Lucas|George Lucas]], a space opera saga that began with the 1977 film *Star Wars*. It includes films, television series, video games, novels, comic books, theme park attractions and an all-encompassing fictional universe. A prequel trilogy written and directed by Lucas was followed by a sequel trilogy made after Lucas sold his production company to Disney in 2012. The Force, a mystical energy field, and the conflict between the Jedi peacekeepers and the dark-side Sith are central to the stories, which unfold in a galaxy of rebellions, republics and empires. The theatrical live-action films have grossed over $10 billion, making it the third-highest-grossing film franchise in cinematic history.
+
+=== KEY: Star_Wars_film_49f4e3
+HEADWORD: Star Wars = 스타워즈
+LEVEL: 5
+GLOSSARY:
+  Academy Awards = 아카데미상
+  Carrie = 『캐리』
+  Carrie Fisher = 캐리 피셔
+  Death = 죽음
+  Death Star = 데스 스타
+  Elstree Studios = 엘스트리 스튜디오
+  England = 잉글랜드
+  Film = 영화
+  Ford = 포드
+  George Lucas = 조지 루커스
+  Harrison Ford = 해리슨 포드
+  Mark Hamill = 마크 해밀
+  National Film Registry = 국립 영화 등기부
+  Rebel Alliance = 반란 연합
+  Star = 항성
+  Tunisia = 튀니지
+  space opera = 스페이스 오페라
+ENTRY:
+1977 American space opera film written and directed by [[George Lucas|George Lucas]] and the first in the *Star Wars* franchise. It stars [[Mark Hamill|Mark Hamill]], [[Harrison Ford|Harrison Ford]] and [[Carrie Fisher|Carrie Fisher]] in a Rebel Alliance campaign against the Galactic Empire's Death Star. Filming began in March 1976 in [[Tunisia|Tunisia]] and at Elstree Studios in England. Released in a small number of U.S. theaters on May 25, 1977, it became a surprise blockbuster. Its total gross reached $775 million with reissues. It received six [[Academy Awards|Academy Awards]], and it entered the National Film Registry in 1989.
+
+=== KEY: Star_cluster_b5f907
+HEADWORD: Star cluster = 성단
+LEVEL: 4
+GLOSSARY:
+  47 Tucanae = 큰부리새자리 47
+  Globular clusters = 구상 성단
+  Hyades (star cluster) = 히아데스 성단
+  Infrared = 적외선
+  Milky Way = 우리은하
+  Molecular cloud = 분자운
+  Once = 『Once』
+  Open clusters = 산개 성단
+  Pleiades = 플레이아데스 성단
+  Star = 항성
+  globular cluster = 구상 성단
+  infrared clusters = 적외선 성단
+  infrared light = 적외선
+  moving groups = 운동성단
+  open clusters = 산개 성단
+  stellar associations = 성협
+ENTRY:
+Group of stars that share an origin, formed at roughly the same time and held together by self-gravitation. Globular clusters are tight groups of ten thousand to millions of old stars that remain gravitationally bound for billions of years. Open clusters are looser groups, generally containing fewer than a few hundred members, that are young because [[Molecular cloud|giant molecular clouds]] disrupt them over time. Once no longer bound, they become stellar associations, or moving groups. Star clusters visible to the naked eye in the [[Milky Way|Milky Way]] include the [[Pleiades|Pleiades]] and [[Hyades (star cluster)|Hyades]] open clusters and the globular cluster 47 Tucanae. Clusters obscured in visible light but seen in [[Infrared|infrared]] light are classified as infrared clusters.
+
+=== KEY: Star_formation_e3dd1e
+HEADWORD: Star formation = 항성 형성
+LEVEL: 4
+GLOSSARY:
+  Binary star = 쌍성
+  Interstellar medium = 성간 물질
+  Molecular cloud = 분자운
+  Solar mass = 태양 질량
+  Star cluster = 성단
+  binary stars = 쌍성
+  initial mass function = 초기 질량 함수
+  interstellar medium = 성간 매질
+  interstellar space = 성간 공간
+  solar masses = 태양 질량
+  stellar associations = 성협
+  stellar nurseries = 별 탄생 영역
+  young stellar objects = 젊은 항성체
+ENTRY:
+Process by which dense regions within [[Molecular cloud|molecular clouds]] in interstellar space collapse to form stars, sometimes called stellar nurseries. As a branch of astronomy, it studies the [[Interstellar medium|interstellar medium]] and giant molecular clouds as precursors, and protostars and young stellar objects as products. Most stars form in groups called [[Star cluster|star clusters]] or stellar associations, and star formation theory must account for [[Binary star|binary stars]] and the initial mass function. Filaments in molecular clouds fragment into gravitationally bound cores, most of which evolve into stars. Giant molecular clouds, typically with densities of 100 particles per cm³, can have diameters of 100 light-years and masses of up to 6 million [[Solar mass|solar masses]]; the coldest clouds tend to form low-mass stars.
+
+=== KEY: Star_of_David_643a2f
+HEADWORD: Star of David = 다윗의 별
+LEVEL: 5
+GLOSSARY:
+  Eastern Europe = 동유럽
+  Europe = 유럽
+  First Zionist Congress = 제1차 시온주의자 대회
+  Hexagram = 육각별
+  Israel = 이스라엘
+  Jews = 유대인
+  Judaism = 유대교
+  Prague = 프라하
+  World = 세계
+  World War I = 제1차 세계 대전
+  Zionism = 시오니즘
+ENTRY:
+Hexagram symbol generally recognized as representing Jewish identity and [[Judaism|Judaism]], formed by two equilateral triangles. Its use as a distinctive symbol of the [[Jews|Jewish people]] dates to 17th-century [[Prague|Prague]], and it spread through Jewish communities in Eastern Europe in the 19th century. It became representative of [[Zionism|Zionism]] when chosen as the central symbol of a Jewish national flag at the First Zionist Congress in 1897. By the end of [[World War I|World War I]] it was an internationally accepted symbol of the Jewish people, and it is the central symbol on the national flag of Israel.
+
+=== KEY: Star_system_1c0fd1
+HEADWORD: Star system = 항성계
+LEVEL: 4
+GLOSSARY:
+  Binary = 이진법
+  Binary star = 쌍성
+  Black hole = 블랙홀
+  Cygnus X-1 = 백조자리 X-1
+  Milky Way = 우리은하
+  Procyon = 프로키온
+  Sirius = 시리우스
+  Star = 항성
+  Star cluster = 성단
+  black hole = 블랙홀
+  quaternary = 사중성
+  ternary = 삼중성
+  two-body problem = 이체 문제
+ENTRY:
+Small number of stars that orbit each other, bound by gravitational attraction. A system of two stars is a [[Binary star|binary star]]; systems of three or four are called ternary or quaternary, and systems with four or more components are rare. Most multiple-star systems are hierarchical, with nested orbits that do not interact much, and each level can be treated as a two-body problem. Binary and multiple stars make up about a third of the star systems in the [[Milky Way|Milky Way]], with two-thirds of stars being single. Examples of binary systems include [[Sirius|Sirius]], [[Procyon|Procyon]] and [[Cygnus X-1|Cygnus X-1]], which consists of a star and a [[Black hole|black hole]]. Star systems are smaller than open [[Star cluster|star clusters]], which typically have 100 to 1,000 stars.
+
+=== KEY: Starbucks_e486ae
+HEADWORD: Starbucks = 스타벅스
+LEVEL: 5
+GLOSSARY:
+  Baldwin = 보두앵
+  Gordon Bowker = 고든 바우커
+  Howard Schultz = 하워드 슐츠
+  Jerry Baldwin = 제리 볼드윈
+  Pike Place Market = 파이크 플레이스 마켓
+  Seattle = 시애틀
+  Washington = 워싱턴주
+  Wi-Fi = 와이파이
+  Zev Siegl = 지브 시글
+  chief executive = 집정
+ENTRY:
+American multinational coffeehouse chain headquartered in [[Seattle|Seattle]], Washington. It was founded in 1971 by Jerry Baldwin, Zev Siegl and Gordon Bowker at Seattle's Pike Place Market, initially as a coffee bean wholesaler. Under Howard Schultz, chief executive from 1986 to 2000, it was converted into a coffee shop serving espresso-based drinks and expanded aggressively. As of November 2022 it had 35,711 stores in 80 countries, making it the world's largest coffeehouse chain. Depending on the country, most locations offer [[Wi-Fi|free Wi-Fi]]. The company has been subject to multiple controversies over its business practices.
+
+=== KEY: Starburst_galaxy_c7d805
+HEADWORD: Starburst galaxy = 스타버스트 은하
+LEVEL: 4
+GLOSSARY:
+  Antennae Galaxies = 더듬이 은하
+  Galaxy = 은하
+  M82 = M82
+  Milky Way = 우리은하
+  Solar mass = 태양 질량
+  birthrate parameter = 출생률 매개변수
+  solar masses = 태양 질량
+  starburst galaxies = 폭발적 항성 생성 은하
+ENTRY:
+Galaxy undergoing an exceptionally high rate of star formation, compared with its long-term average or with most other galaxies. The [[Milky Way|Milky Way]] forms about 3 [[Solar mass|solar masses]] of stars per year, while starburst galaxies can experience rates of 100 solar masses per year or more. Because the gas is consumed so quickly, a starburst is typically a brief phase in a galaxy's evolution. The majority of starbursts are in a merger or close encounter with another galaxy. Starbursts are defined by a birthrate parameter of 3 or more, and they make up about 1% of star-forming galaxies in the local universe. Examples include M82 and the Antennae Galaxies (NGC 4038/NGC 4039).
+
+=== KEY: Starch_02d6c5
+HEADWORD: Starch = 녹말
+LEVEL: 4
+GLOSSARY:
+  Beer = 맥주
+  Carbohydrate = 탄수화물
+  Cassava = 카사바
+  Glucose = 포도당
+  Glycogen = 글리코겐
+  Maize = 옥수수
+  Starch = 녹말
+  Whisky = 위스키
+  amylopectin = 아밀로펙틴
+  amylose = 아밀로스
+  energy storage = 에너지 저장
+  glycosidic bonds = 글리코사이드 결합
+ENTRY:
+Glucose polymer produced by most green plants for energy storage. It is a [[Carbohydrate|carbohydrate]] of numerous [[Glucose|glucose]] units joined by glycosidic bonds, and the most common carbohydrate in human diets. Major sources include staple foods such as wheat, potatoes, [[Maize|maize]] (corn), rice and [[Cassava|cassava]]. Starch is a white, tasteless, odorless powder insoluble in cold water or alcohol. It consists of two molecules: the linear, helical amylose, usually 20–25% of the starch, and the branched amylopectin. Animals store a more highly branched version, [[Glycogen|glycogen]]. Industrially, starch is converted into sugars that are fermented into ethanol for [[Beer|beer]], [[Whisky|whisky]] and biofuel. Mixed with warm water, most starches form a paste used as a thickening or gluing agent and as the main adhesive in papermaking.
+
+=== KEY: Stardew_Valley_161f44
+HEADWORD: Stardew Valley = 스타듀 밸리
+LEVEL: 5
+GLOSSARY:
+  Chucklefish = 처클피시
+  Crop = 작물
+  Farm = 농장
+  Harvest = 수확
+  Harvest Moon = 「하베스트 문」
+  Microsoft Windows = 마이크로소프트 윈도우
+  Moon = 달
+  Windows = 윈도우
+ENTRY:
+2016 farm life simulation video game developed by Eric "ConcernedApe" Barone. Players inherit their late grandfather's run-down [[Farm|farm]] and restore it by clearing land, growing seasonal [[Crop|crops]] and raising animals, while building relationships with townspeople. Barone developed the game alone over five years, inspired by the Harvest Moon series. The British studio Chucklefish offered to publish it halfway through development. Released for [[Microsoft Windows|Windows]] in February 2016, it was later ported to consoles and mobile devices. It had sold 50 million copies by February 2026.
+
+=== KEY: Starfish_61687d
+HEADWORD: Starfish = 불가사리
+LEVEL: 4
+GLOSSARY:
+  Asteroidea = 불가사리강
+  Coral = 산호
+  Echinoderm = 극피동물
+  Indo-Pacific = 인도태평양
+  Ordovician = 오르도비스기
+  Starfish = 불가사리
+  benthic invertebrates = 저서 무척추동물
+  crown-of-thorns starfish = 악마불가사리
+  fossil record = 화석 기록
+  keystone species = 핵심종
+  ochre sea star = 황토색불가사리
+  sea stars = 바다별
+  tube feet = 관족
+ENTRY:
+Marine [[Echinoderm|echinoderm]] of the class Asteroidea, usually with five arms radiating from a central disc. Starfish, also called sea stars, are found in all the world's oceans. About 1,900 species live on the seabed, from intertidal zones to abyssal depths of 6,000 m (20,000 ft). They have tube feet operated by a hydraulic system and a mouth at the center of the lower surface. Starfish are opportunistic feeders, mostly predators of benthic invertebrates, and most can regenerate damaged parts or lost arms. Some species, such as the ochre sea star (*Pisaster ochraceus*), are keystone species with an outsize impact on their environment. The crown-of-thorns starfish (*Acanthaster planci*) is a voracious predator of [[Coral|coral]] across the Indo-Pacific. The fossil record reaches back to the [[Ordovician]] period, about 450 million years ago, but is sparse because starfish tend to disintegrate after death.
+
+=== KEY: Stargate_685896
+HEADWORD: Stargate = 스타게이트
+LEVEL: 5
+GLOSSARY:
+  Amazon MGM Studios = 아마존 MGM 스튜디오
+  MGM Studios = MGM 스튜디오
+  Metro-Goldwyn-Mayer = 메트로골드윈메이어
+  Roland = 롤랑
+  Roland Emmerich = 롤란트 에머리히
+  Stargate = 스타게이트
+  Stargate Atlantis = 「스타게이트 아틀란티스」
+  Stargate SG-1 = 「스타게이트 SG-1」
+  Stargate Universe = 「스타게이트 유니버스」
+  Universe = 우주
+  Wormhole = 웜홀
+  science fiction = 과학 소설
+ENTRY:
+American military science fiction franchise, owned by Amazon MGM Studios. It began with the 1994 film *Stargate*, directed by Roland Emmerich, which was released by [[Metro-Goldwyn-Mayer]]. Its premise is a ring-shaped device, the Stargate, that allows travel across vast distances via [[Wormhole|wormholes]]. The television series *Stargate SG-1* (1997) was joined by *Stargate Atlantis* (2004) and *Stargate Universe* (2009), which ended in 2011. Related books, video games, comics and direct-to-DVD films extend the story. The main story arc ran for more than 15 years, including 18 seasons (364 episodes).
+
+=== KEY: Starling_89ab81
+HEADWORD: Starling = 찌르레기
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Australia = 오스트레일리아
+  Europe = 유럽
+  Family = 가족
+  Hawaii = 하와이
+  Invasive species = 침입종
+  Latin = 라틴어
+  New Zealand = 뉴질랜드
+  North America = 북아메리카
+  Pacific = 태평양
+  Passerine = 참새목
+  Sturnidae = 찌르레기과
+  Sturnus = 찌르레기속
+  Zealand = 셸란섬
+  glossy starlings = 윤기찌르레기
+  murmurations = 머머레이션
+  mynas = 구관조
+  passerine birds = 참새목 조류
+ENTRY:
+Family of small to medium-sized [[Passerine|passerine]] birds, noted for iridescent plumage, vocal mimicry and elaborate flock displays called murmurations. The family Sturnidae is named for the genus *Sturnus*, from the Latin word *sturnus* for starling, and contains 128 species in 36 genera. Many Asian species, particularly the larger ones, are called mynas, and many African species are known as glossy starlings. Starlings are native to Europe, Asia, Africa, northern Australia and the islands of the tropical Pacific. Several European and Asian species have been introduced to [[North America]], [[Hawaii]] and [[New Zealand]], where they compete with native birds and are considered [[Invasive species|invasive]]. Most species nest in holes and lay blue or white eggs. Starlings can embed sounds from their surroundings, including car alarms and human speech, into their calls.
+
+=== KEY: State_of_matter_d6c219
+HEADWORD: State of matter = 물질의 상태
+LEVEL: 3
+GLOSSARY:
+  Bose–Einstein condensate = 보스-아인슈타인 응축
+  Degenerate matter = 축퇴 물질
+  Einstein = 아인슈타인
+  Ferromagnetism = 강자성
+  Gas = 기체
+  Ice = 얼음
+  Iron = 철
+  Liquid = 액체
+  Liquid crystals = 액정
+  Plasma (physics) = 플라스마
+  Solid = 고체
+  body-centered cubic = 체심 입방
+  critical temperature = 임계 온도
+  deposition = 증착
+  face-centered cubic = 면심 입방
+  fermionic condensates = 페르미온 응축
+  sublimation = 승화
+  supercritical fluid = 초임계 유체
+  vaporization = 기화
+ENTRY:
+Distinct form in which matter can exist, differing in how component particles are arranged and behave collectively. Four states are observable in everyday life: [[Solid|solid]], [[Liquid|liquid]], [[Gas|gas]], and [[Plasma (physics)|plasma]]. In a solid, particles are tightly packed and can only vibrate, giving a definite shape and volume. In a liquid, particles stay close but move past one another, so volume is fixed while shape follows the container. In a gas, particles move freely, filling the container. Plasma resembles a gas but contains ions and free electrons that move independently and respond to electric and magnetic fields; a gas becomes plasma through a large voltage difference or very high temperatures.
+
+Changes between states include melting, freezing, vaporization, condensation, sublimation (solid to gas), and deposition (gas to solid). A liquid's volume is usually greater than that of the corresponding solid, the best-known exception being water, H₂O. A supercritical fluid, above both critical temperature and pressure, has gas-like properties but high density; supercritical carbon dioxide extracts caffeine from coffee.
+
+The term phase is sometimes used as a synonym, but one state can include several phases. Iron has a body-centered cubic structure below 912 °C (1,674 °F) and a face-centered cubic structure between 912 and 1,394 °C (2,541 °F). [[Ice]] has fifteen known solid phases.
+
+Many further states exist. Liquid crystals show properties of both solids and liquids, and magnetic states such as [[Ferromagnetism|ferromagnetism]] depend on the alignment of spins rather than atomic positions. Extreme conditions produce [[Bose–Einstein condensate|Bose–Einstein condensates]] and fermionic condensates (extreme cold), [[Degenerate matter|neutron-degenerate matter]] (extreme density), and quark–gluon plasma (extremely high energy).
+
+=== KEY: State_polity_cc58a5
+HEADWORD: State = 국가
+LEVEL: 2
+GLOSSARY:
+  Charles Tilly = 찰스 틸리
+  Confederacy = 남부 연합
+  Contractarian = 계약론
+  Convention = 비상 의회
+  Europe = 유럽
+  Federation = 연방
+  Government = 정부
+  Haudenosaunee = 호디노쇼니
+  Latin = 라틴어
+  Louis XIV = 루이 14세
+  Max Weber = 막스 베버
+  Middle English = 중세 영어
+  Montevideo = 몬테비데오
+  Montevideo Convention = 몬테비데오 협약
+  Nation = 민족
+  Satellite = 인공위성
+  Satellite states = 위성 국가
+  Sovereign state = 주권 국가
+  Today = 「투데이」
+  Unitary state = 단일 국가
+  Walter Scheidel = 발터 샤이델
+  de facto = 사실상
+  divine right = 왕권신수설
+  monopoly on the use of force = 폭력의 독점
+  nation state = 국민 국가
+  social contract = 사회 계약
+  state capacity = 국가 역량
+  stateless societies = 무국가 사회
+  unitary state = 단일 국가
+ENTRY:
+Political entity that rules and governs a society and population within a definite territory. Governments act as the apparatus or instrument of states, and the term is often used as a metonym for them. A state is widely defined by its legitimate monopoly on the use of force. It may be a [[Unitary state|unitary state]] or a [[Federation|federal]] union; in the latter, the term "state" is sometimes applied to the federated polities, which may hold some attributes of a sovereign state but lack the same capacity to act internationally. A [[Sovereign state|sovereign state]] has sovereignty, though any group's claim to statehood is limited in practice by recognition from other states. Satellite states hold de facto sovereignty but are often indirectly controlled by another state.
+
+For most of prehistory people lived in stateless societies, and the earliest states arose about 5,500 years ago. Societies became more stratified and developed institutions leading to centralized governments, gaining state capacity alongside the growth of cities, often spurred by insecurity and territorial competition. States have rested on varied justifications, such as divine right and the social contract. Today the modern nation state is the predominant form. Charles Tilly saw states in the archaeological record as of 6000 BC, appearing in Europe around 990 and becoming prominent after 1490.
+
+The word derives from Latin *status*, "condition, circumstances", and entered Middle English c. 1200. Machiavelli's early 16th-century works helped popularize its near-modern sense. The expression "L'État, c'est moi", attributed to [[Louis XIV]] but probably apocryphal, is recorded in the late 18th century.
+
+There is no academic consensus on the definition. The most common is that of [[Max Weber]], who described the state as a compulsory political organization with a centralized government that claims a monopoly of the legitimate use of physical force within a territory (1919). Walter Scheidel identifies common elements in centralized institutions that impose rules by force over a territorially bounded population, a distinction between rulers and ruled, and some autonomy and stability. The 1933 Montevideo Convention lists a permanent population, defined territory, government, and capacity for foreign relations. Contractarian views hold that states form because cooperation benefits everyone; predatory views stress the mismatch between the interests of rulers and people, and Tilly likened states to organized extortion that sells protection from itself.
+
+A state is distinct from a [[Nation|nation]], defined by identity and cultural or historical factors; from a [[Government|government]], which is authorized to act on the state's behalf; and from society. Stateless societies, such as the [[Haudenosaunee]] Confederacy, can exist. The degree of governance determines whether a state is considered failed. Controversies concern the extent of state intervention in individual liberties.
+
+=== KEY: State_religion_1bcbd4
+HEADWORD: State religion = 국교
+LEVEL: 4
+GLOSSARY:
+  Ancient Near East = 고대 근동
+  Arabia = 아라비아
+  Church = 처치
+  Church of England = 잉글랜드 국교회
+  Denmark = 덴마크
+  England = 잉글랜드
+  Greece = 그리스
+  Greenland = 그린란드
+  Henry VIII = 헨리 8세
+  Iceland = 아이슬란드
+  Iran = 이란
+  Near East = 근동
+  Religion = 종교
+  Rome = 로마
+  Saudi Arabia = 사우디아라비아
+  Supreme Head = 최고 수장
+  Theocracy = 신정 정치
+  confessional state = 고백 국가
+ENTRY:
+Religion or creed endorsed by a sovereign state. A state with an official religion, also called a confessional state, is not necessarily a [[Theocracy|theocracy]]. Official religions have existed in almost all cultures throughout human history, reaching into the Ancient Near East and prehistory. They generally enjoy more rights and fewer restrictions than other faiths. The degree of state backing varies, from mere endorsement with freedom for other faiths to prohibiting competing bodies and persecuting other sects. In England, [[Henry VIII]] broke with Rome in 1534 and was declared Supreme Head of the [[Church of England]]. In contemporary societies, the imposition of an official religion ranges from high in [[Saudi Arabia]] and [[Iran]] to none at all in Greenland, Denmark, England, Iceland and Greece.
+
+=== KEY: States_of_Germany_5b1bcc
+HEADWORD: States of Germany = 독일의 주
+LEVEL: 5
+GLOSSARY:
+  Baden = 바덴
+  Baden-Württemberg = 바덴뷔르템베르크주
+  Bavaria = 바이에른
+  Berlin = 베를린
+  Bremen = 브레멘
+  City-state = 도시 국가
+  Freistaat = 자유주
+  German = 독일어
+  German reunification = 독일 재통일
+  Germany = 독일
+  Hamburg = 함부르크
+  Länder = 란트
+  Protectorate = 호국경 시대
+  Saar Protectorate = 자르 보호령
+  Saarland = 자를란트주
+  Saxony = 작센
+  Thuringia = 튀링겐주
+  West Berlin = 서베를린
+  Württemberg-Baden = 뷔르템베르크바덴
+  Württemberg-Hohenzollern = 뷔르템베르크호엔촐레른
+  area-states = 영역 주
+  free state = 자유주
+ENTRY:
+First-level administrative subdivisions of Germany, known in German as *Länder*. The sixteen states are partly sovereign. Thirteen are area-states, in which counties and county-level cities have their own administration. [[Berlin]] and [[Hamburg]] are [[City-state|city-states]], and Bremen is a mixture of a city-state and an area-state. [[Bavaria]], [[Saxony]] and [[Thuringia]] call themselves *Freistaat* ("free state"), a stylistic title with no legal significance. In 1952, Baden, Württemberg-Baden and Württemberg-Hohenzollern merged into [[Baden-Württemberg]]. In 1957, the Saar Protectorate joined as [[Saarland]]. German reunification in 1990 added five eastern states, and East and West Berlin reunited as a city-state.
+
+=== KEY: Static_electricity_79ea30
+HEADWORD: Static electricity = 정전기
+LEVEL: 5
+GLOSSARY:
+  Electric current = 전류
+  electrostatic discharge = 정전기 방전
+  triboelectric effect = 마찰 전기 효과
+ENTRY:
+Imbalance of electric charges within or on the surface of a material. The charge remains until it moves away as an [[Electric current|electric current]] or by electrical discharge. The word "static" distinguishes it from current electricity, in which charge flows through a conductor. Electrons may move between two materials on contact or sliding, leaving one positively charged and the other negatively charged; this triboelectric effect is the main cause of everyday static. A static shock is an electrostatic discharge, the neutralization of a charge when it reaches a conductor or an oppositely charged region.
+
+=== KEY: Statics_4a8111
+HEADWORD: Statics = 정역학
+LEVEL: 4
+GLOSSARY:
+  Archimedes = 아르키메데스
+  Branch = 브랜치
+  Classical mechanics = 고전 역학
+  Force = 힘
+  Torque = 돌림힘
+  angular acceleration = 각가속도
+  center of mass = 질량 중심
+  classical mechanics = 고전 역학
+  line of action = 작용선
+  moment of inertia = 관성 모멘트
+ENTRY:
+Branch of [[Classical mechanics|classical mechanics]] concerned with [[Force|forces]] and [[Torque|torques]] acting on systems in equilibrium. Statics analyzes systems that do not accelerate: they are either at rest or their center of mass moves at constant velocity. Zero acceleration means the total force is zero, and the summation of moments, which equals the moment of inertia times angular acceleration, is also zero. Together, these two "conditions for equilibrium" can be used to solve for unknown quantities acting on a system. A force is either a push or a pull, with magnitude, direction and point of application. The moment of a force, also called torque, equals the force multiplied by the perpendicular distance from the axis to its line of action. [[Archimedes]] did pioneering work in statics.
+
+=== KEY: Station_wagon_758212
+HEADWORD: Station wagon = 스테이션왜건
+LEVEL: 5
+GLOSSARY:
+  Access = 액세스
+  Canada = 캐나다
+  SUV = SUV
+  Sedan (automobile) = 세단
+  Train station = 기차역
+  United Kingdom = 영국
+  United States = 미국
+  crossover = 크로스오버
+  estate car = 에스테이트 카
+ENTRY:
+Automobile body style, a variant of the [[Sedan (automobile)|sedan]] with its roof extended rearward over a shared passenger and cargo area. Access is at the back through a third or fifth door, or tailgate, instead of a trunk lid. Fold-down rear seats let the interior favor passengers or cargo. Early wagons carried people and luggage to and from a [[Train station|train station]]; the style is called a "wagon" in the United States and an "estate car" in the United Kingdom. Demand has faded since the 2010s in favor of [[SUV]] and crossover designs, especially in the United States and Canada.
+
+=== KEY: Statistical_hypothesis_test_d3b746
+HEADWORD: Statistical hypothesis test = 통계적 가설 검정
+LEVEL: 4
+GLOSSARY:
+  P-value = p값
+  alternative hypothesis = 대립 가설
+  critical value = 임곗값
+  null hypothesis = 귀무가설
+  power of a test = 검정력
+  significance level = 유의 수준
+  statistical inference = 통계적 추론
+  test statistic = 검정 통계량
+  type I error = 제1종 오류
+  type II error = 제2종 오류
+ENTRY:
+Method of statistical inference for deciding whether data provide sufficient evidence to reject a particular hypothesis. The test typically computes a test statistic, then decides by comparing it with a critical value or by evaluating the [[P-value|p-value]] computed from it. The null hypothesis (H₀), usually a statement of "no effect" or "no difference," is tested against the alternative hypothesis (H₁). If the p-value is less than or equal to the significance level (α), the null hypothesis is rejected, but the test does not conclude that it is false. Conclusions are never certain. A type I error rejects a true null hypothesis, with probability α, while a type II error accepts it when the alternative is true, with probability β. The power of a test, 1−β, measures its ability to detect a true alternative. Roughly 100 specialized statistical tests are in use.
+
+=== KEY: Statistical_mechanics_e68823
+HEADWORD: Statistical mechanics = 통계 역학
+LEVEL: 4
+GLOSSARY:
+  Branch = 브랜치
+  Gibbs = 기브스
+  James = 야고보
+  James Clerk Maxwell = 제임스 클러크 맥스웰
+  Josiah Willard Gibbs = 조사이아 윌러드 기브스
+  Ludwig = 루트비히
+  Ludwig Boltzmann = 루트비히 볼츠만
+  Physics = 물리학
+  Thermodynamics = 열역학
+  heat capacity = 열용량
+  information theory = 정보 이론
+  probability theory = 확률론
+  statistical mechanics = 통계 역학
+  statistical physics = 통계 물리학
+  statistical thermodynamics = 통계 열역학
+ENTRY:
+Branch of [[Physics|physics]] that applies statistical methods and probability theory to large assemblies of microscopic entities. Also called statistical physics or statistical thermodynamics, it aims to clarify the properties of matter in aggregate, in terms of physical laws governing atomic motion. It arose from classical [[Thermodynamics|thermodynamics]], explaining properties such as temperature, pressure and heat capacity in terms of microscopic parameters described by probability distributions. Its applications extend to chemical reactions, neuroscience, computer science, information theory and sociology. Non-equilibrium statistical mechanics models the speed of irreversible processes driven by imbalances, such as flows of particles and heat. The field is generally credited to [[Ludwig Boltzmann]], [[James Clerk Maxwell]] and [[Josiah Willard Gibbs]], and Gibbs coined the name in 1884.
+
+=== KEY: Statistical_population_1bbc88
+HEADWORD: Statistical population = 모집단
+LEVEL: 4
+GLOSSARY:
+  Cauchy = 코시
+  Cauchy distribution = 코시 분포
+  Expected value = 기댓값
+  Law of large numbers = 큰 수의 법칙
+  Milky Way = 우리은하
+  Probability distribution = 확률 분포
+  Sampling (statistics) = 표본 추출
+  arithmetic mean = 산술 평균
+  random variable = 확률 변수
+  statistical inference = 통계적 추론
+ENTRY:
+Set of similar items of interest for some question or experiment. A statistical population can be a group of existing objects, such as all stars within the [[Milky Way]], or a hypothetical, potentially infinite group, such as all possible hands in a game of poker. In statistical inference, the population is modeled by a [[Probability distribution|probability distribution]] with unknown parameters. By analyzing a [[Sampling (statistics)|sample]], these parameters can be estimated using appropriate sample statistics. The population mean is the arithmetic mean of a numerical property across the entire population, or the [[Expected value|expected value]] when the property is a random variable. Not every distribution has a well-defined mean; the Cauchy distribution is an example. The [[Law of large numbers|law of large numbers]] states that the larger the sample, the more likely its mean is to be close to the population mean.
+
+=== KEY: Statistics_c33e40
+HEADWORD: Statistics = 통계학
+LEVEL: 2
+GLOSSARY:
+  Census = 인구 조사
+  Descriptive statistics = 기술 통계학
+  Discipline = 「디시플린」
+  German = 독일어
+  Gottfried Achenwall = 고트프리트 아헨발
+  Inferential statistics = 추론 통계학
+  John = 존
+  John Graunt = 존 그랜트
+  John Sinclair = 존 싱클레어
+  Karl Pearson = 칼 피어슨
+  Latin = 라틴어
+  Mathematics = 수학
+  Mathematics Subject Classification = 수학 주제 분류
+  Measurement = 측정
+  Observational study = 관찰 연구
+  Pearson = 피어슨
+  Probability = 확률
+  Probability theory = 확률론
+  Ronald Fisher = 로널드 피셔
+  Sampling (statistics) = 표본 추출
+  Standard deviation = 표준 편차
+  Statistical population = 모집단
+  Statistics = 통계학
+  Statistik = Statistik
+  Type II = II형
+  central tendency = 중심 경향
+  null hypothesis = 귀무가설
+  political arithmetic = 정치 산술
+  probability theory = 확률론
+  standard deviation = 표준 편차
+  systematic error = 계통 오차
+ENTRY:
+Discipline concerned with the collection, organization, analysis, interpretation, and presentation of data. A study usually begins with a [[Statistical population|statistical population]] or a statistical model, such as all people living in a country or every atom in a crystal. Statistics covers every aspect of data, including the design of surveys and experiments, and is closely related to mathematics, physics, chemistry, and geography.
+
+When [[Census|census]] data covering every member of a population cannot be collected, statisticians use experiment designs and survey samples. Random [[Sampling (statistics)|sampling]] allows conclusions to be extended from the sample to the whole population. An experimental study measures a system, manipulates it, and measures again, whereas an [[Observational study|observational study]] involves no manipulation.
+
+Two main methods are used. Descriptive statistics summarize a sample with indexes such as the mean or [[Standard deviation|standard deviation]], describing central tendency and dispersion. Inferential statistics draw conclusions from data subject to random variation, using the framework of [[Probability theory|probability theory]]. Probability deduces results for samples from a given theory, while statistics induces statements about a population from a data set. A standard procedure proposes a hypothesis against a null hypothesis of no relationship and applies tests to the data. Two kinds of error are recognized: Type I (rejecting a true null hypothesis, a false positive) and Type II (failing to reject a false one, a false negative). Measurement is also prone to random error (noise), systematic error (bias), and blunders, and missing data or censoring can bias estimates. In the Mathematics Subject Classification, statistics is class 62-XX.
+
+The English word comes from German *Statistik*, originally "description of a state, a country", ultimately from Latin *status*. Gottfried Achenwall coined the German term; it entered English in 1770 for the study of political arrangements and gained its modern meaning in the 1790s in the works of John Sinclair. Statistics emerged in the 17th century as "political arithmetic", with John Graunt analyzing demographic data in London. [[Karl Pearson]] advanced the study of correlation and [[Ronald Fisher]] experimental design and significance testing in the 20th century. Applications now span public health, business, government policy, and the analysis of large datasets, where concerns include bias in algorithms.
+
+=== KEY: Statue_of_Liberty_6d765e
+HEADWORD: Statue of Liberty = 자유의 여신상
+LEVEL: 4
+GLOSSARY:
+  Cleveland = 클리블랜드
+  Copper = 구리
+  Declaration of Independence = 독립 선언서
+  Eiffel = 에펠
+  France = 프랑스
+  French = 프랑스어
+  Frédéric Auguste Bartholdi = 프레데리크 오귀스트 바르톨디
+  Grover Cleveland = 그로버 클리블랜드
+  Gustave Eiffel = 귀스타브 에펠
+  Harbor = 항구
+  Independence = 인디펜던스
+  Joseph Pulitzer = 조지프 퓰리처
+  Libertas = 리베르타스
+  Liberty = 자유
+  Liberty Enlightening the World = 「세계를 밝히는 자유」
+  Liberty Island = 리버티섬
+  National Park Service = 국립공원관리청
+  New York Harbor = 뉴욕항
+  New York World = 『뉴욕 월드』
+  United States = 미국
+  World = 세계
+  York = 요크
+  Édouard de Laboulaye = 에두아르 드 라불레
+ENTRY:
+Colossal neoclassical sculpture of a robed, crowned woman on Liberty Island in New York Harbor. Officially titled *Liberty Enlightening the World*, it depicts Libertas, the Roman goddess of liberty, holding a torch and a tablet inscribed with the date of the U.S. Declaration of Independence. Designed by French sculptor Frédéric Auguste Bartholdi, its metal framework was built by [[Gustave Eiffel]]. The [[Copper|copper]]-clad statue was a gift from the people of France to the United States and was dedicated on October 28, 1886, by President [[Grover Cleveland]]. Édouard de Laboulaye proposed the monument in 1865 to commemorate the centennial of U.S. independence. Fundraising in America was driven by publisher [[Joseph Pulitzer]] of the *New York World*. The statue became a symbol of welcome to immigrants arriving by sea. Since 1933 it has been maintained by the National Park Service.
+
+=== KEY: Statue_of_Unity_39c586
+HEADWORD: Statue of Unity = 통일의 상
+LEVEL: 5
+GLOSSARY:
+  Construction = 건설
+  Gujarat = 구자라트주
+  Kevadia = 케바디아
+  Narendra Modi = 나렌드라 모디
+  Narmada River = 나르마다강
+  Ram V. Sutar = 람 V. 수타르
+  Richter scale = 리히터 규모
+  River = 강
+  Sardar Patel = 사르다르 파텔
+  Vallabhbhai Patel = 발라브바이 파텔
+ENTRY:
+World's tallest statue, 182 meters (597 feet) high, depicting Indian independence leader [[Vallabhbhai Patel|Sardar Patel]]. It stands near Kevadia, Gujarat, on the Narmada River, and was designed by sculptor Ram V. Sutar. Construction began in October 2013 and cost ₹27 billion (US$422 million). [[Narendra Modi]] inaugurated it on 31 October 2018, on what would have been Patel's 143rd birthday. The statue is built to withstand winds of up to 180 kilometers per hour and earthquakes measuring 6.5 on the [[Richter scale]].

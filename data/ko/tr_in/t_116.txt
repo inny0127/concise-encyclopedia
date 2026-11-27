@@ -1,0 +1,971 @@
+=== KEY: Fiddler_on_the_Roof_bf9202
+HEADWORD: Fiddler on the Roof = 지붕 위의 바이올린
+LEVEL: 5
+GLOSSARY:
+  Anatevka = 아나테프카
+  Broadway = 브로드웨이
+  Imperial Russia = 러시아 제국
+  Jerry Bock = 제리 복
+  Joseph Stein = 조지프 스타인
+  Russia = 러시아
+  Sheldon Harnick = 셸던 하닉
+  Sholem Aleichem = 숄렘 알레이헴
+  Tevye = 테비에
+  Tony = 토니상
+  Tony Awards = 토니상
+  Yiddish = 이디시어
+ENTRY:
+Musical with music by Jerry Bock, lyrics by Sheldon Harnick and book by Joseph Stein, based on stories by Sholem Aleichem written in [[Yiddish]].
+
+Set in the fictional village of Anatevka in Imperial Russia in or around 1905, it follows the milkman Tevye as his three older daughters seek to marry for love. The original Broadway production, which opened in 1964, ran for 3,242 performances and won nine Tony Awards. A 1971 film adaptation followed.
+
+=== KEY: Fidel_Castro_7ff5d4
+HEADWORD: Castro, Fidel = 카스트로, 피델
+LEVEL: 4
+GLOSSARY:
+  Communist Party = 공산당
+  Communist Party of Cuba = 쿠바 공산당
+  Cuba = 쿠바
+  Cuban Missile Crisis = 쿠바 미사일 위기
+  Cuban Revolution = 쿠바 혁명
+  Dissolution of the Soviet Union = 소련 해체
+  Fulgencio Batista = 풀헨시오 바티스타
+  Missile = 미사일
+  Party = 파티
+  Raúl = 라울
+  Raúl Castro = 라울 카스트로
+  Sierra Maestra = 시에라마에스트라산맥
+  Soviet Union = 소련
+  Special Period = 특별 시기
+ENTRY:
+Cuban revolutionary and politician; leader of [[Cuba]] from 1959 to 2011.
+
+He was prime minister from 1959 to 1976, president from 1976 to 2008 and first secretary of the Communist Party of Cuba from 1965 until 2011. He took a key role in the [[Cuban Revolution]] by leading a guerrilla war against Fulgencio Batista from the Sierra Maestra. After Batista's overthrow in 1959, Cuba became a one-party communist state in which industry and business were nationalized.
+
+Castro aligned Cuba with the [[Soviet Union]], which placed nuclear weapons in Cuba, resulting in the [[Cuban Missile Crisis]] of 1962. After the [[Dissolution of the Soviet Union]] in 1991, Cuba entered an economic downturn known as the "Special Period." In 2006 he transferred his responsibilities to his brother [[Raúl Castro]].
+
+He was the longest-serving non-royal head of state of the 20th and 21st centuries. Supporters credit his government with securing Cuba's independence from American hegemony. Critics argue that his administration oversaw human rights abuses and the exodus of many Cubans, and that it impoverished the economy.
+
+=== KEY: Field_hockey_201e64
+HEADWORD: Field hockey = 필드하키
+LEVEL: 4
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Ancient Greece = 고대 그리스
+  Egypt = 이집트
+  England = 잉글랜드
+  Finland = 핀란드
+  Greece = 그리스
+  Ice hockey = 아이스하키
+  International Hockey Federation = 국제하키연맹
+  Sweden = 스웨덴
+  aramid = 아라미드
+  carbon fiber = 탄소 섬유
+  fiberglass = 유리 섬유
+  landhockey = 란드호케이
+  maahockey = 마아호케이
+  public schools = 퍼블릭 스쿨
+  shooting circle = 슈팅 서클
+ENTRY:
+Fast-paced team sport in which two teams of eleven players use curved sticks to drive a small, hard ball into the opponent's goal.
+
+Matches are played on grass, turf or artificial turf, and indoor hockey is played on hard courts. Sticks, once wooden, are now usually made of carbon fiber, fiberglass and aramid. Only the flat face of the stick may move the ball, and only goalkeepers may touch it with their bodies inside the shooting circle. The modern game was developed at public schools in 19th-century England, and the International Hockey Federation (FIH) governs it.
+
+Similar stick-and-ball games appear in the art of [[Ancient Egypt]] and [[Ancient Greece]]. In Sweden and Finland the sport is called landhockey and maahockey, meaning "ground" hockey, in contrast to [[Ice hockey]].
+
+=== KEY: Field_mathematics_187cdc
+HEADWORD: Field = 체
+LEVEL: 4
+GLOSSARY:
+  Abel = 아벨
+  Algebraic structure = 대수 구조
+  Coding theory = 부호 이론
+  Commutative ring = 가환환
+  Cryptography = 암호학
+  Field theory = 체론
+  Finite fields = 유한체
+  Galois = 갈루아
+  Galois theory = 갈루아 이론
+  Number = 수
+  Number theory = 수론
+  Vector space = 벡터 공간
+  angle trisection = 각의 삼등분
+  commutative ring = 가환환
+  compass and straightedge = 자와 컴퍼스
+  complex numbers = 복소수
+  error correction = 오류 정정
+  error correction codes = 오류 정정 부호
+  linear algebra = 선형대수학
+  number fields = 대수적 수체
+  quintic equations = 5차 방정식
+  rational numbers = 유리수
+  real numbers = 실수
+  scalars = 스칼라
+  squaring the circle = 원적 문제
+ENTRY:
+[[Algebraic structure]] with addition, subtraction, multiplication and division that behave as they do for rational numbers.
+
+The best-known fields are the rational numbers, the real numbers and the complex numbers. Finite fields are used in [[Coding theory|error correction codes]] and [[Cryptography]], while number fields are studied in depth in [[Number theory]]. Field theory is a crucial ingredient in proofs that angle trisection and squaring the circle cannot be done with compass and straightedge alone. [[Galois theory]] provides an elegant proof of the Abel–Ruffini theorem that general quintic equations cannot be solved in radicals.
+
+Any field may serve as the scalars of a [[Vector space]], the standard setting of linear algebra. Even more succinctly, a field is a [[Commutative ring|commutative ring]] in which 0 ≠ 1 and all nonzero elements are invertible under multiplication.
+
+=== KEY: Field_physics_f62c1a
+HEADWORD: Field = 장
+LEVEL: 4
+GLOSSARY:
+  Gauss's law = 가우스 법칙
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  James = 야고보
+  James Clerk Maxwell = 제임스 클러크 맥스웰
+  Michael Faraday = 마이클 패러데이
+  Newton's law of universal gravitation = 뉴턴의 만유인력 법칙
+  Physical = 「Physical」
+  Quantum field theory = 양자장론
+  classical physics = 고전 물리학
+  electrodynamics = 전기역학
+  field theory = 장 이론
+  gravitational field = 중력장
+  law of universal gravitation = 만유인력의 법칙
+  rank-2 tensor field = 2계 텐서장
+  scalar field = 스칼라장
+  spinor = 스피너
+  tensor = 텐서
+  tensor field = 텐서장
+  true vacuum = 진공
+  universal gravitation = 만유인력
+  vector field = 벡터장
+  vector fields = 벡터장
+ENTRY:
+Physical quantity, represented by a scalar, vector, spinor or tensor, that has a value at each point in space and time.
+
+A weather map of surface temperatures is a scalar field, and a map of wind speed and direction is a vector field. Field theories describe how field values change in space and time and are central to physics; electrodynamics can be formulated with two interacting vector fields or as a single rank-2 tensor field. In [[Quantum field theory]], a field occupies space and contains energy, which precludes a classical "true vacuum." The strength of most fields diminishes with distance; the gravitational and electrostatic fields of classical physics follow Gauss's law.
+
+The field concept developed gradually. In the 18th century the gravitational field was devised to simplify the bookkeeping of forces under [[Isaac Newton]]'s law of universal gravitation. The independent concept of a field developed in the 19th century with electromagnetism, largely through the work of Michael Faraday and James Clerk Maxwell.
+
+=== KEY: Field_programmable_gate_array_89c13f
+HEADWORD: Field-programmable gate array = FPGA
+LEVEL: 5
+GLOSSARY:
+  AMD = AMD
+  Integrated circuit = 집적 회로
+  Telecommunications = 전기 통신
+  VHDL = VHDL
+  Xilinx = 자일링스
+  hardware description language = 하드웨어 기술 언어
+  logic blocks = 논리 블록
+  programmable logic device = 프로그래머블 논리 소자
+ENTRY:
+Configurable [[Integrated circuit]] that can be repeatedly programmed after manufacturing.
+
+An FPGA is a type of programmable logic device, consisting of a grid of logic blocks that can be configured in the field to interconnect and perform digital functions. It is often used for low-volume custom products and in research, and in [[Telecommunications]], automotive, aerospace and industrial systems. Designs are usually written in a hardware description language such as VHDL. The first commercially viable FPGA was produced by Xilinx, now owned by [[AMD]], in 1985.
+
+=== KEY: Field_research_2f53a8
+HEADWORD: Field research = 현지 조사
+LEVEL: 4
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred Radcliffe-Brown = 앨프리드 래드클리프브라운
+  Anthropology = 인류학
+  Bronisław Malinowski = 브로니스와프 말리노프스키
+  Ethnocentrism = 자민족 중심주의
+  Ethologists = 동물행동학자
+  Jane = 제인
+  Jane Goodall = 제인 구달
+  Participant observation = 참여 관찰
+  ethnic group = 민족 집단
+  field notes = 현지 기록
+ENTRY:
+Collection of raw data outside a laboratory, library or workplace setting.
+
+Methods vary by discipline. Biologists may observe animals in their environments, while social scientists may interview or observe people to learn their languages, folklore and social structures. Common methods include informal interviews, direct observation, participation in the life of the group and life-histories; the approach is usually qualitative but often has quantitative dimensions. [[Anthropology]] has long relied on it, and [[Bronisław Malinowski]] and Alfred Radcliffe-Brown were early anthropologists who set the models for later work. Ethologists such as [[Jane Goodall]] also conduct field research.
+
+Researchers keep detailed field notes and must try to avoid [[Ethnocentrism]], the belief in the superiority of one's own ethnic group. Participant observation, data collection and survey research are contrasted with experimental or laboratory research.
+
+=== KEY: Fields_Medal_a9e06a
+HEADWORD: Fields Medal = 필즈상
+LEVEL: 5
+GLOSSARY:
+  Canadian = 캐나다
+  Douglas = 더글러스
+  International Congress of Mathematicians = 세계 수학자 대회
+  Iran = 이란
+  Jesse Douglas = 제시 더글러스
+  John = 존
+  John Charles Fields = 존 찰스 필즈
+  Lars Ahlfors = 라르스 알포르스
+  Maryam Mirzakhani = 마리암 미르자하니
+  Mathematics = 수학
+  Nobel Prize = 노벨상
+  Oslo = 오슬로
+ENTRY:
+Award for two, three or four mathematicians under 40 years of age at each International Congress of Mathematicians, held every four years.
+
+Often called the "Nobel Prize of Mathematics," it is named for Canadian mathematician John Charles Fields, who designed the medal and died before it was established. It was first awarded in 1936 at [[Oslo]] to Lars Ahlfors and Jesse Douglas. In 2014 [[Iran|Iranian]] mathematician Maryam Mirzakhani became the first woman to receive it. As of 2026, 68 people have been awarded the medal.
+
+=== KEY: Fig_09fa85
+HEADWORD: Fig = 무화과
+LEVEL: 4
+GLOSSARY:
+  Algeria = 알제리
+  Asia = 아시아
+  Carbohydrate = 탄수화물
+  Egypt = 이집트
+  Ficus carica = Ficus carica
+  Fruit = 열매
+  Mediterranean = 지중해
+  Mediterranean region = 지중해 지역
+  Moraceae = 뽕나뭇과
+  Morocco = 모로코
+  Tree = 나무
+  Turkey = 튀르키예
+  syconium = 은두화서
+ENTRY:
+Edible [[Fruit|fruit]] of *Ficus carica*, a deciduous [[Tree|tree]] or large shrub in the flowering plant family [[Moraceae]], native to the Mediterranean region and to western and southern Asia.
+
+The fruit develops as a teardrop-shaped syconium, 3–5 cm long, that ripens from green toward purple or brown and contains numerous small seeds. Its milky sap irritates human skin, but the figs can be eaten fresh or dried or processed into jam and other desserts. Because ripe figs are easily damaged in transport, most commercial production is dried or processed.
+
+In 2020 world production of raw figs was 1.26 million tonnes. [[Turkey]] led with 25% of the world total, followed by [[Egypt]], [[Morocco]] and [[Algeria]], which together accounted for 62%. Raw figs contain roughly 80% water and 20% [[Carbohydrate|carbohydrates]], with negligible protein or fat.
+
+=== KEY: Fight_Club_ca74b6
+HEADWORD: Fight Club = 파이트 클럽
+LEVEL: 5
+GLOSSARY:
+  Brad Pitt = 브래드 피트
+  Chuck Palahniuk = 척 팔라닉
+  David Fincher = 데이비드 핀처
+  Edward Norton = 에드워드 노턴
+  Fight Club = 『파이트 클럽』
+  New York Times = 『뉴욕 타임스』
+  The New York Times = 『뉴욕 타임스』
+  Tyler Durden = 타일러 더든
+  United States = 미국
+  York = 요크
+  cult classic = 컬트 고전
+ENTRY:
+1999 American film directed by [[David Fincher]] and based on the 1996 novel *Fight Club* by Chuck Palahniuk.
+
+Starring [[Brad Pitt]] and Edward Norton, it follows an insomniac office worker who forms an underground fight club with a soap salesman, Tyler Durden. Released in the United States on October 15, 1999, it fell short of studio expectations at the box office and polarized critics. It later became a cult classic on home video, and in 2009 *The New York Times* called it the "defining cult movie of our time."
+
+=== KEY: Fighter_aircraft_3ec4fb
+HEADWORD: Fighter aircraft = 전투기
+LEVEL: 4
+GLOSSARY:
+  Air-to-air missiles = 공대공 미사일
+  Attack aircraft = 공격기
+  Bomber = 폭격기
+  Machine gun = 기관총
+  Radar-homing missiles = 레이더 유도 미사일
+  Vietnam = 베트남
+  Vietnam War = 베트남 전쟁
+  World = 세계
+  World War I = 제1차 세계 대전
+  World War II = 제2차 세계 대전
+  air superiority = 제공권
+  attack aircraft = 공격기
+  biplanes = 복엽기
+  fighter-bombers = 전투폭격기
+  machine guns = 기관총
+  monoplanes = 단엽기
+ENTRY:
+Manned military aircraft designed primarily for air-to-air combat.
+
+Fighters establish air superiority, which allows [[Bomber|bombers]] and [[Attack aircraft|attack aircraft]] to strike enemy targets. Many modern fighters also have ground-attack capabilities, and fighter-bombers are designed for both roles. Key performance features are firepower, high speed and maneuverability relative to the target aircraft.
+
+Fighters first appeared in [[World War I]], when they were small, lightly armed biplanes with a top speed of about 100 mph (160 km/h). By [[World War II]] most were all-metal monoplanes armed with [[Machine gun|machine guns]] or cannon, and some approached 400 mph (640 km/h). Radar-homing missiles in the 1950s let fighters engage from any direction and at longer range. Air-to-air missiles largely replaced guns in the early 1960s, but the [[Vietnam War]] showed that guns still had a role, and most fighters built since then carry cannon as well as missiles.
+
+=== KEY: Figure_skating_b1a63b
+HEADWORD: Figure skating = 피겨스케이팅
+LEVEL: 4
+GLOSSARY:
+  Figure skating = 피겨 스케이팅
+  Ice hockey = 아이스하키
+  International Skating Union = 국제빙상경기연맹
+  Olympic Games = 올림픽
+  Sport = 스포츠
+  Winter = 겨울
+  Winter Olympics = 동계 올림픽
+  exhibition galas = 갈라 쇼
+  free skate = 프리 스케이팅
+  ice dance = 아이스 댄스
+  pair skating = 페어 스케이팅
+  short program = 쇼트 프로그램
+  toe picks = 토 픽
+  women's singles = 여자 싱글
+ENTRY:
+Sport in which individuals, pairs or groups perform jumps, spins and dance moves on ice, wearing figure skates.
+
+Figure skates differ from [[Ice hockey]] skates in having toe picks, which are used mainly for jumping. Figure skating was the first winter sport included in the [[Olympic Games]], at the 1908 Olympics in London. The Olympic disciplines are men's singles, women's singles, pair skating and ice dance; a team event was first included in the Winter Olympics in 2014. Senior skaters generally perform a short program and a free skate. The International Skating Union (ISU) regulates international judging and competition, and major competitions end with exhibition galas.
+
+=== KEY: Fiji_55b0c4
+HEADWORD: Fiji = 피지
+LEVEL: 4
+GLOSSARY:
+  Austronesians = 오스트로네시아인
+  Colony of Fiji = 영국령 피지
+  Commodore = 코모도어
+  Fiji = 피지
+  FijiFirst = 피지 퍼스트
+  Frank = 프랭크
+  Frank Bainimarama = 프랭크 바이니마라마
+  Melanesia = 멜라네시아
+  Melanesians = 멜라네시아인
+  New Zealand = 뉴질랜드
+  Ocean = 대양
+  Oceania = 오세아니아
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  South Pacific Ocean = 남태평양
+  Tourism = 관광
+  Vanua Levu = 바누아레부섬
+  Viti Levu = 비티레부섬
+  Zealand = 셸란섬
+ENTRY:
+Archipelagic country in [[Melanesia]], [[Oceania]], in the [[Pacific Ocean|South Pacific Ocean]], about 2,000 km (1,300 mi) north-northeast of [[New Zealand]].
+
+Fiji consists of more than 330 islands, about 110 of them permanently inhabited, with a land area of about 18,300 sq km (7,100 sq mi). About 87% of the population live on the two major islands, Viti Levu and Vanua Levu. Most of the islands were formed by volcanic activity starting around 150 million years ago.
+
+Austronesians settled the islands in the second millennium BC, followed by Melanesians. Britain established the Colony of Fiji in 1874, and the country became independent in 1970. After a series of coups, it became a republic in 1987, and Commodore Frank Bainimarama seized power in a 2006 coup. Bainimarama's FijiFirst party won 59.2% of the vote in the 2014 election, which international observers deemed credible. The economy is based mainly on [[Tourism|tourism]], with sugar cane, remittances and bottled water exports also important.
+
+=== KEY: File_system_53b936
+HEADWORD: File system = 파일 시스템
+LEVEL: 4
+GLOSSARY:
+  API = API
+  Hard disk drive = 하드 디스크 드라이브
+  Magnetic tape = 자기 테이프
+  Operating system = 운영 체제
+  Optical disc = 광디스크
+  RAM disk = 램 디스크
+  Solid-state drive = 솔리드 스테이트 드라이브
+  Unicode = 유니코드
+  directory = 디렉터리
+  hard disk drives = 하드 디스크 드라이브
+  main memory = 주기억 장치
+  mass storage = 대용량 저장 장치
+  optical discs = 광디스크
+  physical layer = 물리 계층
+  resource contention = 자원 경합
+  solid-state drives = 솔리드 스테이트 드라이브
+ENTRY:
+Method of organizing and accessing files on storage, provided locally by an [[Operating system|operating system]] or as a protocol between networked computers.
+
+A file system lets applications share mass storage. Without one, applications could access storage in incompatible ways that cause resource contention, data corruption and data loss. File systems exist for [[Hard disk drive|hard disk drives]], [[Solid-state drive|solid-state drives]], [[Magnetic tape|magnetic tapes]] and [[Optical disc|optical discs]], and a portion of main memory can be set up as a RAM disk. File names are usually unique within a directory, most systems limit name length, and most modern systems accept a wide range of [[Unicode]] characters.
+
+A local file system is typically layered. A logical layer offers an [[API]] for operations such as open, close, read and write, while a physical layer handles low-level access to the storage device.
+
+=== KEY: Filippo_Brunelleschi_2f115c
+HEADWORD: Brunelleschi, Filippo = 브루넬레스키, 필리포
+LEVEL: 4
+GLOSSARY:
+  Florence = 피렌체
+  Florence Baptistry = 피렌체 세례당
+  Florence Cathedral = 피렌체 대성당
+  Lorenzo Ghiberti = 로렌초 기베르티
+  Perspective (graphical) = 원근법
+  Renaissance = 르네상스
+  Renaissance architecture = 르네상스 건축
+  Western world = 서양
+  linear perspective = 선 원근법
+ENTRY:
+Italian architect, designer, goldsmith and sculptor, considered a founding father of [[Renaissance architecture]].
+
+Born in [[Florence]], he trained as a goldsmith and in 1401 competed for the Florence Baptistry doors against Lorenzo Ghiberti. He later devoted his attention to architecture and optics. He is most famous for designing the dome of the [[Florence Cathedral]], built without temporary scaffolding, and for developing the mathematical technique of linear [[Perspective (graphical)|perspective]], which governed pictorial depictions of space until the late 19th century.
+
+In 1421 he became the first person to receive a patent in the Western world. Recognized as the first modern engineer, planner and sole construction supervisor, he also worked on sculpture, mathematics, engineering and ship design. Most of his surviving works are in Florence.
+
+=== KEY: Filling_station_44961b
+HEADWORD: Filling station = 주유소
+LEVEL: 4
+GLOSSARY:
+  Australia = 오스트레일리아
+  Canada = 캐나다
+  Diesel fuel = 경유
+  Ethanol = 에탄올
+  Fuel = 연료
+  Gasoline = 휘발유
+  Lottery = 복권
+  Magazine = 잡지
+  Methanol = 메탄올
+  Missouri = 미주리주
+  Newspaper = 신문
+  St. Louis = 세인트루이스
+  United Kingdom = 영국
+  United States = 미국
+  kerosene = 등유
+  liquefied petroleum gas = 액화 석유 가스
+  pump = 펌프 액션
+ENTRY:
+Facility that sells fuel and engine lubricants for motor vehicles.
+
+Known as a gas station in the United States and Canada and as a petrol station in the United Kingdom and Australia, a filling station receives fuel from refineries by tank truck, stores it in typically underground tanks and sells it to motorists at a daily varied price. Fuel dispensers pump the fuel and calculate the amount due. The most common products are [[Gasoline|gasoline]] and [[Diesel fuel|diesel fuel]], along with liquefied petroleum gas, kerosene and alcohol fuels such as [[Methanol|methanol]] and [[Ethanol|ethanol]].
+
+Many stations have convenience stores selling food, beverages, tobacco products, [[Lottery|lottery]] tickets, [[Newspaper|newspapers]] and [[Magazine|magazines]]. The first filling station in the modern sense opened in 1905 in [[St. Louis]], Missouri.
+
+=== KEY: Film_bae902
+HEADWORD: Film = 영화
+LEVEL: 3
+GLOSSARY:
+  Animation = 애니메이션
+  Berlin = 베를린
+  Camera obscura = 카메라 옵스큐라
+  Eadweard Muybridge = 이드위어드 마이브리지
+  Electrotachyscope = 일렉트로타키스코프
+  Film = 영화
+  Horse = 말
+  Motion = 운동
+  Ottomar Anschütz = 오토마어 안쉬츠
+  Photography = 사진
+  Special effect = 특수 효과
+  The Horse in Motion = 「달리는 말」
+  Théâtre Optique = 테아트르 옵티크
+  emulsions = 감광 유제
+  flicker fusion = 점멸 융합
+  flip book = 플립북
+  magic lantern = 환등기
+  phénakisticope = 페나키스티스코프
+  praxinoscope = 프락시노스코프
+  shadow puppetry = 그림자 인형극
+  stroboscopic animation = 스트로보스코프 애니메이션
+  zoetrope = 조이트로프
+ENTRY:
+Work of visual art that simulates experiences and communicates ideas, stories, perceptions, emotions, or atmosphere through moving images, generally synchronized with sound since the 1930s; also called a movie or motion picture. Films are produced by recording people and objects with cameras or by creating them using [[Animation|animation]] techniques and [[Special effect|special effects]]. They comprise a series of individual frames which, shown rapidly in succession, create the illusion of motion; flickering between frames is not noticeable because of an effect now called flicker fusion.
+
+Films are widely considered an important art form: they entertain, educate, enlighten, and inspire audiences. Their visual elements need no translation, and with dubbing or subtitles any film can become a worldwide attraction. Films are also artifacts of specific cultures, which they reflect and in turn affect.
+
+Film drew on earlier traditions including oral storytelling, literature, theater, and the visual arts, and on forms featuring projected images, such as shadow puppetry, the [[Camera obscura|camera obscura]], and the magic lantern. The stroboscopic animation principle was introduced in 1833 with the phénakisticope and later applied in the zoetrope (1866), the flip book (1868), and the praxinoscope (1877). [[Photography]] was introduced in 1839, but early emulsions needed exposures too long to record moving subjects. In 1878, [[Eadweard Muybridge]] photographed a running horse with a battery of cameras along a track and published the results as *The Horse in Motion*. In 1886, Ottomar Anschütz developed the Electrotachyscope, which displayed short loops of 24 glass plate photographs; some 152 coin-operated examples were manufactured in [[Berlin]] from 1891. Émile Reynaud's Théâtre Optique, patented in 1888, could project longer sequences with separate backgrounds.
+
+=== KEY: Film_festival_8d3692
+HEADWORD: Film festival = 영화제
+LEVEL: 4
+GLOSSARY:
+  Akira Kurosawa = 구로사와 아키라
+  Berlin = 베를린
+  Big Five = 5대 영화제
+  Blood = 혈액
+  Cannes = 칸
+  Festival = 축제
+  Film = 영화
+  Horror film = 공포 영화
+  Pather Panchali = 「길의 노래」
+  San Francisco = 샌프란시스코
+  San Francisco International Film Festival = 샌프란시스코 국제 영화제
+  Satyajit Ray = 사티야지트 레이
+  Sundance = 선댄스
+  Throne of Blood = 「거미집의 성」
+  Toronto = 토론토
+  Venice = 베네치아
+  Venice Film Festival = 베네치아 국제 영화제
+ENTRY:
+Organized, usually annual presentation of [[Film|films]], typically in one or more cinemas in a single city or region.
+
+Festivals may be competitive or non-competitive, and many focus on a format such as documentary, a runtime such as short films, a genre such as [[Horror film|horror]], or a category of filmmakers. They are often regarded as launchpads for new filmmakers and independent films. The Venice Film Festival, begun in 1932, is the oldest still running. The most prestigious, known as the Big Five, are Venice, Cannes, Berlin, Toronto and Sundance, listed by date of foundation.
+
+The [[San Francisco]] International Film Festival, held in March 1957, emphasized feature-length dramatic films and introduced foreign films to American audiences. Its first year included *Throne of Blood* by [[Akira Kurosawa]] and *Pather Panchali* by [[Satyajit Ray]].
+
+=== KEY: Film_industry_5dedca
+HEADWORD: Film industry = 영화 산업
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  Cinema of China = 중국 영화
+  Cinema of India = 인도 영화
+  Europe = 유럽
+  Filmmaking = 영화 제작
+  France = 프랑스
+  Germany = 독일
+  Hollywood = 할리우드
+  India = 인도
+  Italy = 이탈리아
+  United States = 미국
+ENTRY:
+Technological and commercial institutions of [[Filmmaking|filmmaking]], including production companies, studios, film festivals, distribution and actors.
+
+Production concentrated under standing production companies, though cheaper equipment and outside investment have allowed independent production to grow. The worldwide theatrical market had a box office of US$42.2 billion in 2019, and the global box office declined to US$33.5 billion in 2025. Hollywood is the world's oldest national film industry and the largest by box office gross, while the [[Cinema of India|cinema of India]] leads in feature films produced and in ticket sales.
+
+Significant centers of production in [[Europe]] are [[France]], [[Germany]] and [[Italy]], among others. The [[Cinema of China|cinema of China]] was introduced in 1896, and China became the second-largest market by box office receipts in 2012. The [[United States]] was among the countries with the largest number of film productions as of 2019.
+
+=== KEY: Filmmaking_8655a6
+HEADWORD: Filmmaking = 영화 제작
+LEVEL: 4
+GLOSSARY:
+  Filmmaking = 영화 제작
+  Intellectual property = 지식 재산
+  Photographic film = 사진 필름
+  Pre-production = 프리프로덕션
+  intellectual property = 지식 재산
+  post-production = 포스트프로덕션
+ENTRY:
+Process of creating a motion picture, such as a feature film, streaming series, commercial, animation, music video or documentary.
+
+Filmmaking is generally nonlinear: scripts are shot out of sequence, shots are repeated as needed, and footage is assembled in editing. A production typically has five stages. Development explores the idea, may secure rights to [[Intellectual property|intellectual property]], and obtains financing. Pre-production arranges the shoot, including hiring cast and crew, scouting locations and constructing sets. Production records the raw footage, and post-production edits it, mixes sound, adds visual effects and composes a score. Distribution releases the finished film to cinemas, home video or streaming services.
+
+Films were originally recorded on [[Photographic film|photographic film]], but most filmmaking is now digital. Affordable digital technology has made independent filmmaking more accessible.
+
+=== KEY: Filter_signal_processing_7ecf75
+HEADWORD: Filter = 필터
+LEVEL: 4
+GLOSSARY:
+  Bessel filter = 베셀 필터
+  Butterworth filter = 버터워스 필터
+  Chebyshev filter = 체비쇼프 필터
+  Computer = 컴퓨터
+  Computer graphics = 컴퓨터 그래픽스
+  Electronics = 전자공학
+  Frequency = 진동수
+  Radar = 레이더
+  Radio = 라디오
+  Signal processing = 신호 처리
+  Telecommunications = 전기 통신
+  Television = 텔레비전
+  band-pass = 대역 통과
+  band-stop = 대역 저지
+  elliptic filter = 타원 필터
+  finite impulse response = 유한 임펄스 응답
+  frequency bands = 주파수 대역
+  high-pass = 고역 통과
+  image processing = 영상 처리
+  infinite impulse response = 무한 임펄스 응답
+  low-pass = 저역 통과
+  notch filters = 노치 필터
+  passband = 통과 대역
+  phase delay = 위상 지연
+  ripple = 리플
+ENTRY:
+Device or process that removes unwanted components or features from a [[Signal processing|signal]].
+
+Most often this means suppressing certain [[Frequency|frequencies]] or frequency bands, though in image processing filters may act on other targets. Filters are widely used in [[Electronics]], [[Telecommunications]], [[Radio|radio]], [[Television|television]], [[Radar|radar]], control systems and [[Computer graphics]].
+
+Common linear filter families include the Chebyshev filter, the best approximation to an ideal response for a given order and ripple; the Butterworth filter, with a maximally flat passband response; the Bessel filter, with a maximally flat phase delay; and the elliptic filter, with the steepest cutoff. Bandforms include low-pass, high-pass, band-pass, band-stop and notch filters. Digital filters are classed as finite impulse response (FIR) or infinite impulse response (IIR).
+
+=== KEY: Filtration_b347f7
+HEADWORD: Filtration = 여과
+LEVEL: 4
+GLOSSARY:
+  Basking shark = 돌묵상어
+  Chemical engineering = 화학 공학
+  Filtration = 여과
+  Pasta = 파스타
+  Physical = 「Physical」
+  Solid = 고체
+  blinding = 눈막힘
+  colander = 체
+  filter cake = 여과 케이크
+  filter feeders = 여과 섭식 동물
+  filter medium = 여과재
+  filtrate = 여과액
+  sieving = 체질
+  slow sand filters = 완속 모래 여과지
+ENTRY:
+Physical separation process in which a filter medium lets only the fluid pass, separating solid matter from it.
+
+Solid particles that cannot pass through the medium are called oversize, and the fluid that passes is the filtrate. Oversize particles may form a filter cake on top of the filter or block its lattice, a condition called blinding. The largest particle that can pass defines the filter's effective pore size. Separation is imperfect, since solids retain some fluid and the filtrate may contain fine particles. Filtration is widely used in [[Chemical engineering]], and it occurs in nature too, in systems such as slow sand filters and filter feeders such as the [[Basking shark]].
+
+Filtration differs from sieving, in which separation occurs at a single perforated layer, whereas a filter's multilayer lattice retains particles that cannot follow its tortuous channels. In everyday usage the verb "strain" is more common, as when draining cooking water from [[Pasta|pasta]] with a colander.
+
+=== KEY: Final_Fantasy_636e48
+HEADWORD: Final Fantasy = 파이널 판타지
+LEVEL: 4
+GLOSSARY:
+  Anime = 애니메이션
+  Fantasy = 판타지
+  Final Fantasy = 「파이널 판타지」
+  Final Fantasy VII = 「파이널 판타지 VII」
+  Hironobu Sakaguchi = 사카구치 히로노부
+  Japan = 일본
+  Manga = 만화
+  Music = 음악
+  Nobuo Uematsu = 우에마츠 노부오
+  PlayStation = 플레이스테이션
+  PlayStation (console) = 플레이스테이션
+  Square = 정사각형
+  Square Enix = 스퀘어 에닉스
+  action role-playing = 액션 롤플레잉
+  pre-rendered backgrounds = 프리렌더링 배경
+  rhythm games = 리듬 게임
+  role-playing video games = 롤플레잉 비디오 게임
+  science fantasy = 사이언스 판타지
+  third-person shooter = 3인칭 슈팅
+ENTRY:
+Japanese science fantasy media franchise created by Hironobu Sakaguchi and published by Square Enix.
+
+The franchise centers on fantasy role-playing video games, though it has branched into action role-playing, third-person shooter and rhythm games. Its entries are mostly standalone stories with different settings and characters, linked by recurring mechanics and character names. The first game was released in Japan on December 18, 1987, and the franchise has expanded to sixteen main games, along with spin-offs and films, [[Anime|anime]], [[Manga|manga]] and novels. The series has sold more than 200 million copies worldwide.
+
+[[Final Fantasy VII]] (1997) moved from two-dimensional to three-dimensional graphics on the [[PlayStation (console)|PlayStation]], with polygonal characters on pre-rendered backgrounds. Music by Nobuo Uematsu is among the series' best-known features.
+
+=== KEY: Final_Fantasy_VII_307c10
+HEADWORD: Final Fantasy VII = 파이널 판타지 VII
+LEVEL: 5
+GLOSSARY:
+  Cloud = 구름
+  Cloud Strife = 클라우드 스트라이프
+  Fantasy = 판타지
+  Final Fantasy = 「파이널 판타지」
+  PlayStation = 플레이스테이션
+  Square = 정사각형
+  full motion video = 풀 모션 비디오
+ENTRY:
+Role-playing video game for the [[PlayStation]], seventh main installment of the [[Final Fantasy]] series. Developed and published by Square and released in 1997, it follows the mercenary Cloud Strife, who joins an eco-terrorist group opposing a megacorporation that uses the planet's life essence as energy. It was the first in the series to use full motion video and 3D computer graphics, and it received widespread critical acclaim. It sold more than 9.9 million copies on PlayStation alone.
+
+=== KEY: Final_Solution_fbf08c
+HEADWORD: Final Solution = 최종 해결책
+LEVEL: 5
+GLOSSARY:
+  Euphemism = 완곡어법
+  German = 독일어
+  Holocaust = 홀로코스트
+  Jews = 유대인
+  Nazi = 나치
+  The Holocaust = 홀로코스트
+  Wannsee Conference = 반제 회의
+  World = 세계
+  World War II = 제2차 세계 대전
+  the Holocaust = 홀로코스트
+ENTRY:
+Nazi plan for the total extermination of the Jews during World War II. The name was a [[Euphemism|euphemism]] for murder. The plan likely began in 1941 and was formally revealed to non-SS German leaders at the Wannsee Conference in January 1942. It culminated in the [[The Holocaust|Holocaust]], in which approximately 6 million Jews were murdered.
+
+=== KEY: Finance_c48298
+HEADWORD: Finance = 금융
+LEVEL: 3
+GLOSSARY:
+  Bank = 은행
+  Bond (finance) = 채권
+  Economics = 경제학
+  Finance = 금융
+  Insurance = 보험
+  Investment = 투자
+  Investment banks = 투자 은행
+  Management = 경영학
+  Money = 화폐
+  business administration = 경영학
+  equity = 지분
+  financial engineering = 금융 공학
+  financial instruments = 금융 상품
+  futures = 선물
+  options = 옵션
+  public finance = 재정
+  quantitative analysts = 퀀트 분석가
+  securities exchanges = 증권 거래소
+  swaps = 스와프
+  wholesale finance = 도매 금융
+ENTRY:
+Management, movement, investment, and raising of money; also the academic discipline that studies these. Based on scope, it divides into three primary branches: personal, corporate, and public finance. In the financial system, assets are bought, sold, or traded as financial instruments such as currencies, loans, [[Bond (finance)|bonds]], shares, options, futures, and swaps, and can also be banked, invested, and insured to maximize value and minimize loss. Risks are always present, and financial markets and institutions underpin the system.
+
+Finance channels money from savers and investors to entities that need it. An entity whose income exceeds its expenditure can lend or invest the surplus; one whose income is less can raise capital by borrowing, by selling government or corporate bonds, or, for a corporation, by selling equity (stock or shares). Lending is often indirect, through an intermediary such as a [[Bank|bank]], which accepts deposits, pays interest, and lends to borrowers, earning the difference. Investment banks find initial investors and facilitate the listing of securities, and securities exchanges allow their trade thereafter. Large-scale inter-institutional trade is called wholesale finance; its mathematical "financial engineering" employs quantitative analysts.
+
+Personal finance is budgeting to meet basic needs while keeping the risk of losing capital reasonable; it may involve education costs, financing real estate and cars, buying [[Insurance|insurance]], investing, and saving for retirement. Corporate finance concerns how firms raise capital and invest in projects, and public finance concerns government revenue, expenditure, and debt.
+
+The early history of finance parallels that of [[Money|money]], which is prehistoric; ancient and medieval civilizations incorporated banking, trading, and accounting, and the global financial system formed in the late 19th century. The earliest doctoral programs in finance were established in the 1960s and 1970s. The field is related to [[Economics]] and business administration.
+
+=== KEY: Financial_crime_cb38e8
+HEADWORD: Financial crime = 금융 범죄
+LEVEL: 4
+GLOSSARY:
+  Corruption = 부패
+  Fraud = 사기
+  Home Office = 내무부
+  Identity theft = 신원 도용
+  Murder = 살인
+  Office = 성무일도
+  Organized crime = 조직범죄
+  Property = 재산
+  Robbery = 강도
+  elder abuse = 노인 학대
+  embezzlement = 횡령
+  extortion = 갈취
+  forgery = 위조
+  insider trading = 내부자 거래
+  market manipulation = 시세 조종
+  money laundering = 자금 세탁
+  securities fraud = 증권 사기
+  tax evasion = 탈세
+ENTRY:
+Illegal activity involving money, finance or financial systems, committed for personal or organizational gain. It includes crimes against [[Property|property]], involving the unlawful conversion of ownership to one's own use. [[Fraud]] takes many forms, including check, credit card, mortgage, insurance and securities fraud, insider trading and market manipulation. Other offenses include scams, tax evasion, [[Corruption|corruption]] (including bribery, embezzlement and extortion), [[Identity theft]], money laundering and forgery. Such crimes may be committed by individuals, corporations or [[Organized crime|organized crime]] groups, and may also involve computer crime, elder abuse and violent crimes such as [[Robbery|robbery]] or [[Murder|murder]]. The U.K. Home Office estimated the cost of fraud against individuals and businesses in 2023–2024 at in excess of £14 billion.
+
+=== KEY: Finch_c2a04c
+HEADWORD: Finch = 되새류
+LEVEL: 4
+GLOSSARY:
+  Australia = 오스트레일리아
+  Canada = 캐나다
+  Carbon monoxide = 일산화 탄소
+  Darwin's finches = 다윈핀치
+  Fringillidae = 되새과
+  Galapagos Islands = 갈라파고스 제도
+  Genus = 속
+  Hawaiian = 하와이어
+  Hawaiian honeycreepers = 하와이꿀먹이새류
+  Old World = 구세계
+  Passerine = 참새목
+  World = 세계
+  canaries = 카나리아
+  carbon monoxide = 일산화 탄소
+  estrildid finches = 납부리새류
+  euphonias = 유포니아류
+  grosbeaks = 밀화부리류
+  passerine birds = 참새목 조류
+  redpolls = 홍방울새류
+  siskins = 검은머리방울새류
+ENTRY:
+Small to medium-sized [[Passerine|passerine]] birds of the family Fringillidae, with stout conical bills adapted for eating seeds and nuts. Finches often have colorful plumage and are usually resident rather than migratory. They have a worldwide native distribution except for [[Australia]] and the polar regions. The family contains more than 200 species divided into 50 [[Genus|genera]], including canaries, siskins, redpolls, grosbeaks, euphonias and the Hawaiian honeycreepers. Other groups also called finches include the estrildid finches of the Old World tropics and Australia, and Darwin's finches of the Galapagos Islands. Finches and canaries were used in coal mines in the U.K., U.S. and Canada to detect [[Carbon monoxide|carbon monoxide]] from the 18th to the 20th century, a practice that ceased in the U.K. in 1986.
+
+=== KEY: Fine_art_photography_273ea8
+HEADWORD: Fine-art photography = 예술 사진
+LEVEL: 4
+GLOSSARY:
+  Charles Lutwidge Dodgson = 찰스 러트위지 도지슨
+  Gregory Crewdson = 그레고리 크루드슨
+  Jeff Wall = 제프 월
+  John = 존
+  John Edwin Mayall = 존 에드윈 메이올
+  Julia Margaret Cameron = 줄리아 마거릿 캐머런
+  Lord's Prayer = 주기도문
+  MoMA = MoMA
+  Museum = 박물관
+  Museum of Modern Art = 뉴욕 현대 미술관
+  Oscar = 오스카상
+  Oscar Gustave Rejlander = 오스카 구스타브 레일랜더
+  Photography = 사진
+  Photojournalism = 포토저널리즘
+  Prayer = 기도
+  Victorian-era = 빅토리아 시대
+  Wall = 벽
+  commercial photography = 상업 사진
+  daguerreotypes = 다게레오타입
+  fine art = 순수 미술
+ENTRY:
+Photography created in line with the photographer's vision as an artist, using the medium for creative expression. Its goal is to express an idea, message or emotion, in contrast to [[Photojournalism|photojournalism]], which documents specific subjects and events, and to commercial photography, which advertises products or services. One historian called John Edwin Mayall the earliest exponent of the form, citing daguerreotypes he exhibited illustrating the Lord's Prayer in 1851. Victorian-era practitioners such as Julia Margaret Cameron, Charles Lutwidge Dodgson and Oscar Gustave Rejlander helped establish it as a fine art. The [[Museum of Modern Art|Museum of Modern Art]] (MoMA) set up a department of photography in 1940, a step often cited as institutional confirmation of its status as an art. Staged, carefully lit pictures by Gregory Crewdson and Jeff Wall are noted for their quality.
+
+=== KEY: Fine_structure_constant_370621
+HEADWORD: Fine-structure constant = 미세 구조 상수
+LEVEL: 5
+GLOSSARY:
+  Arnold = 아르놀트
+  Arnold Sommerfeld = 아르놀트 조머펠트
+  Bohr model = 보어 모형
+  Dimensionless physical constant = 무차원 물리 상수
+  Richard = 리처드
+  Richard Feynman = 리처드 파인먼
+  electromagnetic interaction = 전자기 상호 작용
+  fine structure = 미세 구조
+  spectral lines = 스펙트럼선
+ENTRY:
+Dimensionless physical constant quantifying the strength of the electromagnetic interaction between elementary charged particles. Denoted α, it has a value of approximately 0.0072973525643, or about 1/137.035999177. Arnold Sommerfeld introduced it in 1916 while extending the [[Bohr model]] of the atom to explain the fine structure of the spectral lines of hydrogen. Why it has this value is not understood, and [[Richard Feynman|Richard Feynman]] described it as "one of the greatest damn mysteries of physics."
+
+=== KEY: Finger_05d7a6
+HEADWORD: Finger = 손가락
+LEVEL: 4
+GLOSSARY:
+  Human = 인간
+  Primate = 영장류
+  Tetrapod = 사지동물
+  flexion = 굽힘
+  keratinized nail = 각질화된 손발톱
+  opposable = 맞서기
+  phalanges = 손가락뼈
+  vertebrates = 척추동물
+ENTRY:
+Multi-jointed digit on the forelimb of [[Tetrapod|tetrapod]] vertebrates with hands, such as humans and other [[Primate|primates]]. It is typically covered by a keratinized nail that protects the fingertip. Most tetrapods have five digits; digits that are notably elongated are called fingers, while shorter ones are called toes. In humans, fingers are opposable, with two or three phalanges each, and serve as an important organ of tactile sensation and fine movement. Human hands contain 14 digital bones, two in the thumb and three in each finger, and each finger has three joints. The muscles that move the finger joints lie in the palm and forearm rather than in the fingers, and flexion is by far the strongest movement.
+
+=== KEY: Fingering_sexual_act_f74e0b
+HEADWORD: Fingering = 핑거링
+LEVEL: 5
+GLOSSARY:
+  Clitoris = 음핵
+  Foreplay = 전희
+  G-spot = G스폿
+  Handjob = 핸드잡
+  Masturbation = 자위
+  manual sex = 손을 이용한 성행위
+  vulva = 외음부
+ENTRY:
+Sexual stimulation of the vulva, clitoris or vagina using the fingers. It may also stimulate the anus. When one person performs it on another, it is a form of manual sex, analogous to a [[Handjob|handjob]]. It may be used for arousal or [[Foreplay|foreplay]], make up an entire sexual encounter, or be non-penetrative. Massage of the [[Clitoris|clitoris]] is the most common way for a woman to achieve orgasm, and studies indicate that 70–80 percent of women require direct clitoral stimulation to reach orgasm. Fingering the vagina is often performed to stimulate the [[G-spot]]. Fingering one's own vulva or vagina is a form of [[Masturbation|masturbation]].
+
+=== KEY: Fingerprint_536c0c
+HEADWORD: Fingerprint = 지문
+LEVEL: 4
+GLOSSARY:
+  Fingerprint = 지문
+  Forensic science = 법과학
+  Friction = 마찰
+  Human = 인간
+  Twin = 쌍둥이
+  biometric identifier = 생체 인식 식별자
+  friction ridges = 융선
+  monozygotic = 일란성
+ENTRY:
+Impression left by the friction ridges of a human finger, used as a biometric identifier. Human fingerprints are detailed, unique, difficult to alter and durable over a lifetime, making them suitable as long-term markers of identity. Partial prints recovered from crime scenes are an important method of [[Forensic science|forensic science]]. Fingerprint matching is among the most widely used and most reliable biometric techniques. Friction ridge patterns form around the 15th week of fetal development and remain until after death. The patterns are hereditary, and monozygotic [[Twin|twins]] have very similar, though not identical, fingerprints. Academics have argued that the error rate in fingerprint matching has not been adequately studied, and that fingerprint evidence lacks a secure statistical foundation.
+
+=== KEY: Finite_state_machine_b07f92
+HEADWORD: Finite-state machine = 유한 상태 기계
+LEVEL: 5
+GLOSSARY:
+  Turing = 튜링
+  Turing machine = 튜링 기계
+  abstract machine = 추상 기계
+  model of computation = 계산 모형
+  regular expressions = 정규 표현식
+  transition = 전이
+ENTRY:
+Mathematical model of computation, an abstract machine that is in exactly one of a finite number of states at any given time. It moves from one state to another in response to inputs, and each change is called a transition. A finite-state machine has less computational power than a [[Turing machine]], because its memory is limited by its number of states. Such machines underlie regular expressions and model everyday devices such as vending machines, elevators and traffic lights.
+
+=== KEY: Finland_6f781c
+HEADWORD: Finland = 핀란드
+LEVEL: 4
+GLOSSARY:
+  Boreal forest = 아한대림
+  Continuation War = 계속 전쟁
+  Europe = 유럽
+  European Union = 유럽 연합
+  Finland = 핀란드
+  Finnish = 핀란드어
+  Helsinki = 헬싱키
+  NATO = 북대서양 조약 기구
+  Northern Europe = 북유럽
+  Republic of Finland = 핀란드 공화국
+  Revolution of 1917 = 1917년 혁명
+  Russian = 러시아어
+  Russian Empire = 러시아 제국
+  Russian Revolution = 러시아 혁명
+  Russian Revolution of 1917 = 1917년 러시아 혁명
+  Soviet Union = 소련
+  Sweden = 스웨덴
+  Swedish = 스웨덴어
+  Winter = 겨울
+  Winter War = 겨울 전쟁
+  World = 세계
+  World War II = 제2차 세계 대전
+  grand duchy = 대공국
+  universal suffrage = 보통 선거권
+  welfare state = 복지 국가
+ENTRY:
+Nordic country in Northern Europe, officially the Republic of Finland (pop., 2026: 5,662,086). Its capital and largest city is [[Helsinki]], and its official languages are Finnish and Swedish. Boreal forest covers much of the land, and there are more than 180,000 lakes. Part of Sweden from the 13th century, Finland was captured in 1809 and became an autonomous grand duchy within the Russian Empire. It declared independence after the Russian Revolution of 1917, and in World War II it fought the [[Soviet Union]] in the [[Winter War]] and the Continuation War, losing territory but keeping its independence and democracy. Finland joined the [[European Union]] in 1995 and [[NATO]] in 2023. It was the first country in Europe to grant universal suffrage, in 1906. After rapid industrialization from the 1950s, it developed an advanced economy and a Nordic-style welfare state.
+
+=== KEY: Finnegans_Wake_e98571
+HEADWORD: Finnegans Wake = 피네간의 경야
+LEVEL: 5
+GLOSSARY:
+  Dublin = 더블린
+  Earwicker = 이어위커
+  Irish = 아일랜드어
+  James = 야고보
+  James Joyce = 제임스 조이스
+  Joyce = 조이스
+ENTRY:
+Experimental novel by the Irish writer [[James Joyce]], published in 1939. Written in English altered with words from many languages, it follows the Earwicker family through a cyclical dream narrative set during a single night in a mythical [[Dublin]]. The novel ends with an unfinished line that completes the fragment with which it began. Its initial reception was largely negative, and it has a reputation as one of the most difficult works in literature.
+
+=== KEY: Fiqh_842dfb
+HEADWORD: Fiqh = 피크흐
+LEVEL: 4
+GLOSSARY:
+  Fiqh = 피크흐
+  Hanafi = 하나피 학파
+  Hanbali = 한발리파
+  Islamic jurisprudence = 이슬람 법학
+  Maliki = 말리키파
+  Muslims = 무슬림
+  Quran = 쿠란
+  Shafi'i = 샤피이파
+  Sharia = 샤리아
+  Shi'a = 시아파
+  Sunni = 수니파
+  fatwa = 파트와
+  furu al-fiqh = 푸루 알피크흐
+  ijtihad = 이즈티하드
+  madhhabs = 마즈하브
+  sunnah = 순나
+  usul al-fiqh = 우술 알피크흐
+ENTRY:
+Islamic jurisprudence, the human understanding and practice of [[Sharia|sharia]]. Muslims regard sharia as immutable and infallible, whereas fiqh is considered fallible and changeable. Fiqh expands and develops sharia through *ijtihad* (independent interpretation) of the [[Quran|Quran]] and the *sunnah*, and jurists issue rulings (*fatwa*) on questions put to them. It deals with ritual observance, morals and social legislation, as well as economic and political systems. Four prominent schools (*madhhabs*) exist within Sunni practice: Hanafi, Maliki, Shafi'i and Hanbali. Shi'a practice has two or three. Its study is traditionally divided into *usul al-fiqh*, the principles and methods of legal interpretation, and *furu al-fiqh*, the elaboration of rulings based on those principles.
+
+=== KEY: Fir_b8811c
+HEADWORD: Fir = 전나무
+LEVEL: 4
+GLOSSARY:
+  Abies = 전나무속
+  Africa = 아프리카
+  Central America = 중앙아메리카
+  Christmas = 크리스마스
+  Christmas trees = 크리스마스트리
+  Conifer = 구과식물
+  Eurasia = 유라시아
+  Genus = 속
+  North Africa = 북아프리카
+  Pinaceae = 소나무과
+  Spruce = 가문비나무
+  female cones = 암구화수
+  pine family = 소나무과
+  plywood = 합판
+ENTRY:
+[[Conifer|Coniferous]] tree of the [[Genus|genus]] *Abies* in the family Pinaceae. Firs often grow 40–60 m tall, with a single straight trunk and a conical crown. Their needle-like evergreen leaves are attached singly to the branches on a circular base, which distinguishes them from other members of the pine family. Unlike [[Spruce|spruces]], firs have erect, cylindrical female cones 5–25 cm long that disintegrate at maturity, releasing winged seeds. Firs occur on mountains across much of North and Central America, Eurasia and North Africa. Their wood is used for pulp, plywood and indoor construction, and some species are grown as Christmas trees. Taxonomists disagree on the number of species, with estimates ranging from 46 to 67.
+
+=== KEY: Fire_ant_891481
+HEADWORD: Fire ant = 불개미
+LEVEL: 4
+GLOSSARY:
+  Alkaloid = 알칼로이드
+  Asia = 아시아
+  Fire = 불
+  Genus = 속
+  Management = 경영학
+  Oecophylla = 베짜기개미속
+  Solenopsis = 솔레놉시스속
+  Solenopsis invicta = Solenopsis invicta
+  South America = 남아메리카
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  United States = 미국
+  fire ant = 불개미
+  red imported fire ant = 붉은불개미
+  weaver ants = 베짜기개미
+ENTRY:
+Any of several stinging ant species of the [[Genus|genus]] *Solenopsis*, which includes more than 200 species. The name is also applied loosely to other ants, including weaver ants of the genus *Oecophylla* in Southeast Asia. The red imported fire ant (*Solenopsis invicta*), native to subtropical South America, was introduced accidentally to the southeastern [[United States|U.S.]] in the 1930s and has spread widely, displacing native ants. Colonies can exceed 250,000 workers and build conspicuous earthen mounds up to 40 cm high. Fire ants bite to get a grip and then sting, injecting an [[Alkaloid|alkaloid]] venom that causes burning pain. Stings can cause severe allergic reactions in sensitive people. Management relies on chemical baits and biological controls.
+
+=== KEY: Fire_bd2b7e
+HEADWORD: Fire = 불
+LEVEL: 2
+GLOSSARY:
+  Africa = 아프리카
+  Antoine Lavoisier = 앙투안 라부아지에
+  Asia = 아시아
+  Barnfield = 반필드
+  Combustion = 연소
+  Control = 「Control」
+  England = 잉글랜드
+  Fire = 불
+  Georg Ernst Stahl = 게오르크 에른스트 슈탈
+  Johann Joachim Becher = 요한 요아힘 베허
+  Late Silurian = 후기 실루리아기
+  Middle Ordovician = 중기 오르도비스기
+  Neolithic = 신석기 시대
+  Neolithic Revolution = 신석기 혁명
+  Ordovician = 오르도비스기
+  Plasma (physics) = 플라스마
+  Silurian = 실루리아기
+  South America = 남아메리카
+  Wildfire = 산불
+  chain reaction = 연쇄 반응
+  classical elements = 고전 원소
+  clover = 토끼풀
+  controlled burns = 계획 연소
+  exothermic = 발열
+  fire tetrahedron = 화재 사면체
+  flint = 부싯돌
+  fossil record = 화석 기록
+  four classical elements = 4원소
+  hydrocarbon = 탄화수소
+  ignition point = 발화점
+  nitrogen-fixing plants = 질소 고정 식물
+  phlogiston theory = 플로지스톤설
+  pyrite = 황철석
+  slash-and-burn agriculture = 화전 농업
+ENTRY:
+Rapid oxidation of a fuel in the exothermic chemical process of [[Combustion|combustion]], releasing heat, light, and various reaction products. Flames, the most visible portion of a fire, are produced when the fuel reaches its ignition point temperature. Flames from hydrocarbon fuels consist primarily of carbon dioxide, water vapor, oxygen, and nitrogen; if hot enough, the gases may become ionized to produce [[Plasma (physics)|plasma]]. The color and intensity of a flame depend on the fuel and the surrounding gases. Fire is sustained by four interdependent components: fuel, heat, oxygen, and a self-perpetuating chemical chain reaction, modeled as the fire tetrahedron; removing any one extinguishes it.
+
+Fire directly affects land-based ecological systems worldwide. Its benefits include stimulating plant growth and maintaining ecological balance; its harms include hazards to life and property, atmospheric pollution, and water contamination. Burning vegetation releases nitrogen into the atmosphere, whereas potassium and phosphorus remain in the ash and are quickly recycled into the soil; the resulting loss of nitrogen produces a long-term reduction in soil fertility, which nitrogen-fixing plants such as clover, peas, and beans can help recover.
+
+The fossil record of fire first appears with land-based flora in the Middle Ordovician, 470 million years ago. [[Wildfire]] became possible once atmospheric oxygen rose above 13%, and is first recorded in the Late Silurian, 420 million years ago, by fossils of charred plants. Fire became more abundant when grasses became dominant in many ecosystems, around 6 to 7 million years ago.
+
+Control of fire was a dramatic change in the habits of early humans. It allowed cooking, which increased the variety and availability of nutrients and reduced disease by killing pathogens; provided warmth, allowing people to live in cooler climates; and kept nocturnal predators at bay. Evidence of occasional cooked food dates from 1 million years ago, and the oldest clear evidence of deliberate firemaking dates to around 400,000 years ago at Barnfield, England, where pyrite appears to have been struck against flint. Evidence becomes widespread around 50 to 100 thousand years ago. By the [[Neolithic Revolution]], people worldwide used fire in landscape management, including controlled burns and slash-and-burn agriculture, which remains common across much of tropical Africa, Asia, and South America. Globally, as much as 5 million sq km burns in a given year.
+
+Fire has been used for cooking, heating, lighting, clearing land, signaling, propulsion, smelting, forging, waste incineration, cremation, rituals, and warfare, and was one of the four classical elements. In 1667 Johann Joachim Becher, and more formally in 1697 Georg Ernst Stahl, incorporated van Helmont's finding that burning charcoal released a gas into phlogiston theory. [[Antoine Lavoisier]] demonstrated that combustion did not involve the release of a substance but rather that something was being taken up. Most home fires start from unattended cooking, although cigarettes are another major cause; smoke detectors and sprinkler systems greatly reduce harm.

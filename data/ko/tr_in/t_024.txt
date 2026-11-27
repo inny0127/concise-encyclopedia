@@ -1,0 +1,1000 @@
+=== KEY: Arnolfini_Portrait_c562e4
+HEADWORD: Arnolfini Portrait = 아르놀피니 부부의 초상
+LEVEL: 4
+GLOSSARY:
+  Bruges = 브뤼허
+  Craig Harbison = 크레이그 하비슨
+  Erwin Panofsky = 에르빈 파노프스키
+  Flanders = 플랑드르
+  Giovanni = 조반니
+  Giovanni di Nicolao Arnolfini = 조반니 디 니콜라오 아르놀피니
+  Jan van Eyck = 얀 반에이크
+  National Gallery = 내셔널 갤러리
+  Oil painting = 유화
+  Panofsky = 파노프스키
+  genre painting = 풍속화
+  glazes = 유약
+  wet-in-wet = 웨트 인 웨트
+ENTRY:
+[[Oil painting]] on oak panel by [[Jan van Eyck]], dated 1434 and held by the [[National Gallery]], London. It is believed to depict the Italian merchant Giovanni di Nicolao Arnolfini and his wife, probably in their residence at [[Bruges]], [[Flanders]]. It is considered one of the most original and complex paintings in Western art, combining geometric perspective with a mirror that expands the picture space. Van Eyck applied thin translucent glazes and painted wet-in-wet, producing an intensity of tone and color and a convincing depiction of textures and light. Erwin Panofsky considered it a unique form of marriage contract recorded as a painting, while Craig Harbison argued that it is tempting to call it the first genre painting of modern times. The painting was bought by the National Gallery in 1842.
+
+=== KEY: Aromatic_compound_d1a83e
+HEADWORD: Aromatic compound = 방향족 화합물
+LEVEL: 4
+GLOSSARY:
+  BTX = BTX
+  Benzene = 벤젠
+  Hückel's rule = 휘켈 규칙
+  Molecular orbital = 분자 궤도
+  Nitrogen = 질소
+  Organic compound = 유기 화합물
+  Oxygen = 산소
+  Sulfur = 황
+  Toluene = 톨루엔
+  arene = 아렌
+  aromatic hydrocarbon = 방향족 탄화수소
+  aromatic hydrocarbons = 방향족 탄화수소
+  heteroarenes = 헤테로아렌
+  hydrophobic = 소수성
+  nonpolar = 무극성
+  xylene = 자일렌
+ENTRY:
+[[Organic compound|Organic]] compound, or arene, with a chemistry typified by [[Benzene]]. Aromatic compounds are cyclic compounds satisfying Hückel's rule. The term no longer relates to odor, although the grouping originally arose from the smells of early-discovered molecules. They are typically unreactive, often nonpolar and hydrophobic, and burn with a strong sooty yellow flame. In heteroarenes, an atom such as [[Oxygen]], [[Nitrogen]] or [[Sulfur]] replaces a carbon in the ring. Benzene, C₆H₆, is the simplest aromatic hydrocarbon; its six electrons are shared equally in delocalized pi [[Molecular orbital|molecular orbitals]] around the ring. Industrially important aromatic hydrocarbons include benzene, [[Toluene]] and xylene, collectively called BTX.
+
+=== KEY: Arquebus_a7a8cc
+HEADWORD: Arquebus = 아쿼버스
+LEVEL: 5
+GLOSSARY:
+  Dutch = 네덜란드어
+  Europe = 유럽
+  Firearm = 화기
+  Musket = 머스킷
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  flintlock musket = 수발식 머스킷
+  haakbus = haakbus
+  matchlock = 화승식
+  plate armor = 판금 갑옷
+  shoulder stock = 개머리판
+ENTRY:
+Form of long gun that appeared in Europe and the [[Ottoman Empire]] in the 15th century. The name derives from the Dutch *haakbus*, or hook gun, after the hook on early models that steadied them against battlements. The addition of a shoulder stock and a matchlock mechanism in the late 15th century made it a handheld [[Firearm|firearm]] and the first with a trigger. A heavier version, then called a [[Musket]], was developed around 1521 to better penetrate plate armor. The matchlock arquebus is considered the forerunner of the flintlock musket.
+
+=== KEY: Arranged_marriage_baa98a
+HEADWORD: Arranged marriage = 중매결혼
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Central Asia = 중앙아시아
+  China = 중국
+  East Asia = 동아시아
+  Europe = 유럽
+  North Africa = 북아프리카
+  South Asia = 남아시아
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  United Nations = 국제 연합
+  United States = 미국
+  West Asia = 서아시아
+  child marriage = 아동 결혼
+  forced marriage = 강제 결혼
+  sub-Saharan Africa = 사하라 이남 아프리카
+ENTRY:
+Marriage in which the spouses are selected by a third party, most commonly their parents. Couples normally agree to the arrangement, unlike a forced marriage, in which a partner does not consent, or a child marriage, in which a partner is under 18. The [[United Nations]] condemns marriages without consent. Arranged marriages were the norm throughout the world until the 18th century and remain widespread in [[South Asia]], West Asia, North Africa, Central Asia, Southeast Asia and sub-Saharan Africa. They declined substantially in [[Europe]] and East Asia after the 19th century. In the [[United States]] they were common among migrant families until the first half of the 20th century. In [[China]] they were the norm before the mid-20th century.
+
+=== KEY: Arrhenius_equation_14752b
+HEADWORD: Arrhenius equation = 아레니우스 식
+LEVEL: 5
+GLOSSARY:
+  Jacobus Henricus van 't Hoff = 야코뷔스 헨드리퀴스 반트호프
+  Leipzig = 라이프치히
+  Leipzig University = 라이프치히 대학교
+  Svante Arrhenius = 스반테 아레니우스
+  University = 대학
+  activation barrier = 활성화 장벽
+  activation energy = 활성화 에너지
+  rate constant = 속도 상수
+  van 't Hoff = 반트호프
+ENTRY:
+Formula for the temperature dependence of chemical reaction rates. [[Svante Arrhenius]] proposed it in 1889 at Leipzig University, building on the work of [[Jacobus Henricus van 't Hoff|van 't Hoff]]. The rate constant is given by k = Ae^(−Eₐ/RT), where Eₐ is the molar activation energy. The temperature dependence arises because a greater fraction of molecular collisions have enough energy to exceed the activation barrier as temperature rises. The equation is best seen as an empirical relationship.
+
+=== KEY: Arrhythmia_675eea
+HEADWORD: Arrhythmia = 부정맥
+LEVEL: 5
+GLOSSARY:
+  Heart = 심장
+  Heart failure = 심부전
+  Stroke = 뇌졸중
+  Tachycardia = 빈맥
+  bradycardia = 서맥
+  cardioversion = 심장율동전환
+  defibrillation = 제세동
+  pacemakers = 심박조율기
+  palpitations = 두근거림
+  sinus rhythm = 동리듬
+ENTRY:
+Group of medical conditions characterized by irregular heartbeat. Arrhythmias are deviations from the normal sinus rhythm. A resting heart rate above 100 beats per minute in adults is called [[Tachycardia]], and one below 60 is called bradycardia. Some arrhythmias cause no symptoms, while others cause palpitations, lightheadedness, fainting or chest pain. Some predispose a person to [[Stroke]] or [[Heart failure]], and others may result in sudden death. Treatments include medications, pacemakers and urgent cardioversion or defibrillation.
+
+=== KEY: Arrowroot_39e925
+HEADWORD: Arrowroot = 애로루트
+LEVEL: 4
+GLOSSARY:
+  Americas = 아메리카
+  Arawak = 아라와크족
+  Cassava = 카사바
+  Maranta arundinacea = Maranta arundinacea
+  Saint = 성인
+  Saint Vincent = 세인트빈센트섬
+  Starch = 녹말
+  Tapioca = 타피오카
+  carbonless copy paper = 무탄소 복사지
+  rhizomes = 뿌리줄기
+ENTRY:
+[[Starch]] obtained from the rhizomes of several tropical plants, traditionally *Maranta arundinacea*. Tapioca from [[Cassava]] is often also labeled arrowroot. Archaeological studies in the [[Americas]] show cultivation as early as 7,000 years ago. The name may derive from *aru-aru*, meaning "meal of meals" in the language of the Caribbean Arawak people, for whom the plant was a staple. The starch was once widely used in carbonless copy paper because of its grain size. Saint Vincent and the Grenadines' arrowroot industry contributed close to 50% of the country's foreign export earnings from the 1930s to the 1960s. In 1998/99 the industry produced 312,000 lb (142,000 kg) of starch, about 3% of the peak level of the 1960s.
+
+=== KEY: Ars_ne_Lupin_a1df80
+HEADWORD: Arsène Lupin = 아르센 뤼팽
+LEVEL: 5
+GLOSSARY:
+  Arsène Lupin = 아르센 뤼팽
+  Arthur Conan Doyle = 아서 코넌 도일
+  Conan = 「코넌」
+  French = 프랑스어
+  Herlock Sholmès = 에를록 숄메스
+  Je sais tout = 『주 세 투』
+  Lupin = 「뤼팽」
+  Maurice Leblanc = 모리스 르블랑
+  Sherlock = 「셜록」
+  Sherlock Holmes = 셜록 홈스
+  The Arrest of Arsène Lupin = 「아르센 뤼팽 체포되다」
+ENTRY:
+Fictional gentleman thief and master of disguise created in 1905 by French writer Maurice Leblanc. The character debuted in short stories in the magazine *Je sais tout*, beginning with "The Arrest of Arsène Lupin" on July 15, 1905. Lupin is often described as the criminal counterpart to [[Sherlock Holmes]]. After legal objections from [[Arthur Conan Doyle]], Holmes was renamed "Herlock Sholmès" in Leblanc's stories. Leblanc wrote 17 novels and 39 novellas featuring Lupin.
+
+=== KEY: Ars_ne_Wenger_0a3a29
+HEADWORD: Wenger, Arsène = 벵거, 아르센
+LEVEL: 5
+GLOSSARY:
+  Arsenal = 아스널
+  Arsenal F.C. = 아스널 FC
+  Champions League = 챔피언스리그
+  FA Cup = FA컵
+  FIFA = 국제 축구 연맹
+  French = 프랑스어
+  Le Professeur = 르 프로페쇠르
+  Premier League = 프리미어리그
+  UEFA = 유럽 축구 연맹
+  UEFA Champions League = UEFA 챔피언스리그
+ENTRY:
+French football manager, nicknamed *Le Professeur*, who led [[Arsenal F.C.|Arsenal]] from 1996 to 2018. He was the club's longest-serving and most successful manager and the first foreign manager to win a Premier League and FA Cup double, in 1998. He led Arsenal to an unbeaten league title in 2004 and to the [[UEFA Champions League]] final in 2006. Wenger has been [[FIFA]]'s chief of global football development since 2019.
+
+=== KEY: Arsenal_F_C_d6df13
+HEADWORD: Arsenal F.C. = 아스널 FC
+LEVEL: 5
+GLOSSARY:
+  Arsenal = 아스널
+  Arsène Wenger = 아르센 벵거
+  Champions League = 챔피언스리그
+  Dial Square = 다이얼 스퀘어
+  Emirates Stadium = 에미레이츠 스타디움
+  FA Cups = FA컵
+  Highbury = 하이버리
+  Islington = 이즐링턴
+  League Cups = 리그컵
+  North London = 북런던
+  Premier League = 프리미어리그
+  Royal Arsenal = 왕립 조병창
+  Square = 정사각형
+  UEFA = 유럽 축구 연맹
+  UEFA Champions League = UEFA 챔피언스리그
+  Woolwich = 울리치
+ENTRY:
+Professional association football club based in Islington, North London, competing in the [[Premier League]]. Founded in 1886 as Dial Square by workers at the Royal Arsenal in Woolwich, the club moved to Highbury in 1913 and to the Emirates Stadium in 2006. Arsenal has won 14 league titles, a record 14 FA Cups and two League Cups. It reached the [[UEFA Champions League]] final in 2006. Under [[Arsène Wenger]] the club won three league titles and seven FA Cups, including the unbeaten 2003–04 season.
+
+=== KEY: Arsenic_6b49d4
+HEADWORD: Arsenic = 비소
+LEVEL: 4
+GLOSSARY:
+  Arsenic = 비소
+  Carcinogen = 발암 물질
+  Chemical element = 화학 원소
+  Environmental Protection Agency = 미국 환경 보호청
+  Groundwater = 지하수
+  Group 1 = 1군
+  Metalloid = 준금속
+  Sulfur = 황
+  U.S. Environmental Protection Agency = 미국 환경 보호청
+  allotrope = 동소체
+  gallium arsenide = 비소화갈륨
+  n-type dopant = n형 도펀트
+  trioxide = 삼산화 비소
+ENTRY:
+Chemical element with the symbol As and atomic number 33, classified as a [[Metalloid|metalloid]]. Arsenic is notoriously toxic. It occurs naturally in many minerals, usually combined with [[Sulfur]] and metals, and its gray allotrope is the only form important to industry. Its primary use is in alloys of lead, as in car batteries and ammunition. Arsenic is also an n-type dopant in semiconductors and a component of gallium arsenide. Its compounds, especially the trioxide, were used in pesticides, treated wood and herbicides, though these uses are declining. The U.S. Environmental Protection Agency states that all forms of arsenic are a serious risk to human health, and it is classified as a Group 1 [[Carcinogen]]. Arsenic contamination of [[Groundwater]] affects millions of people worldwide.
+
+=== KEY: Art_978d7d
+HEADWORD: Art = 예술
+LEVEL: 3
+GLOSSARY:
+  Aesthetics = 미학
+  Architecture = 건축
+  Aristotle = 아리스토텔레스
+  Art criticism = 미술 비평
+  Immanuel Kant = 이마누엘 칸트
+  Indonesia = 인도네시아
+  Kant = 칸트
+  Latin = 라틴어
+  Painting = 회화
+  Plato = 플라톤
+  Sculpture = 조각
+  Socrates = 소크라테스
+  South Africa = 남아프리카 공화국
+  Sulawesi = 술라웨시섬
+  applied arts = 응용 미술
+  art history = 미술사
+  decorative or applied arts = 장식 미술 또는 응용 미술
+  epic poetry = 서사시
+  fine arts = 순수 미술
+  imitative arts = 모방 예술
+ENTRY:
+Diverse range of human activity centered on works made as expressions of creativity or imagination, expected to give an audience a worthwhile experience of emotion, thinking, or beauty.
+
+There is no strictly agreed definition of art, and its interpretation has varied greatly across history and cultures. In the Western tradition, the three classical branches of visual art are [[Painting|painting]], [[Sculpture|sculpture]], and [[Architecture|architecture]]; theater, dance, literature, music, and film belong to the broader “arts.” The word comes from a Latin sense meaning “skill” or “craft,” and until the 17th century art referred to any skill or mastery. After the 17th century, where aesthetic considerations are paramount, the fine arts were separated from acquired skills in general, such as the decorative or applied arts. Some argue that this distinction reflects value judgments more than any clear definitional difference.
+
+The purposes of art include communicating ideas, creating beauty, exploring perception, giving pleasure, and generating strong emotions. [[Plato]], [[Aristotle]], Socrates, and [[Immanuel Kant]] were among the philosophers who questioned its meaning. Aristotle considered epic poetry, tragedy, comedy, and music to be imitative arts that differ in medium, object, and manner, and held that imitation is natural to humankind. Kant took science to represent the domain of knowledge and the arts the domain of the freedom of expression.
+
+The nature of art is explored in the branch of philosophy known as [[Aesthetics|aesthetics]], and artworks are studied in [[Art criticism|art criticism]] and art history. Abstract markings on rocks in South Africa indicate symbolic behavior at least 73,000 years ago, and figurative depictions of animals and human-like figures appear around 51,200 years ago in caves in Sulawesi, Indonesia. AI-generated and AI-assisted work has intensified debates over authorship, creativity, and agency.
+
+=== KEY: Art_Deco_964ede
+HEADWORD: Art Deco = 아르 데코
+LEVEL: 4
+GLOSSARY:
+  Art = 미술
+  Art Deco = 아르 데코
+  Building = 건물
+  China = 중국
+  Cubism = 입체주의
+  Egypt = 이집트
+  Empire State = 엠파이어 스테이트
+  Empire State Building = 엠파이어 스테이트 빌딩
+  Great Depression = 대공황
+  Japan = 일본
+  Miami = 마이애미
+  Miami Beach = 마이애미비치
+  Paris = 파리
+  Stainless steel = 스테인리스강
+  Streamline Moderne = 유선형 모던
+  Vienna = 빈
+  Vienna Secession = 빈 분리파
+  World = 세계
+  World War II = 제2차 세계 대전
+  York = 요크
+  ancient Egypt = 고대 이집트
+  arts décoratifs = arts décoratifs
+ENTRY:
+Style of visual arts, architecture and product design that first appeared in Paris in the 1910s and flourished internationally in the 1920s and early 1930s. The name, short for *arts décoratifs*, comes from the 1925 Exposition internationale des arts décoratifs et industriels modernes in Paris. Art Deco drew on the bold geometric forms of [[Cubism]] and the Vienna Secession, and on styles from ancient Egypt, China and Japan. It used luxury materials such as ebony and ivory, and new materials such as chrome, [[Stainless steel|stainless steel]] and plastic. The [[Empire State Building]] in New York is a monument to the style, and [[Miami|Miami Beach]] has the largest concentration of Art Deco architecture in the world. During the [[Great Depression]] a sleeker Streamline Moderne appeared. After the outbreak of [[World War II]], the style lost its dominance to the functional styles of modern architecture.
+
+=== KEY: Art_Nouveau_918260
+HEADWORD: Art Nouveau = 아르 누보
+LEVEL: 4
+GLOSSARY:
+  Art = 미술
+  Art Deco = 아르 데코
+  Art Nouveau = 아르 누보
+  Brussels = 브뤼셀
+  Germany = 독일
+  Hector = 헥토르
+  Hector Guimard = 엑토르 기마르
+  Hôtel Tassel = 타셀 저택
+  International Exposition = 만국 박람회
+  Italy = 이탈리아
+  Jugendstil = 유겐트슈틸
+  Liberty = 자유
+  Paris = 파리
+  Paris International Exposition = 파리 만국 박람회
+  Paris Métro = 파리 지하철
+  Stile Liberty = 스틸레 리베르티
+  Victor Horta = 빅토르 오르타
+  applied art = 응용 미술
+  applied arts = 응용 미술
+  fine arts = 순수 미술
+  historicism = 역사주의
+  whiplash lines = 채찍 곡선
+ENTRY:
+International style of art, architecture and applied art, popular between 1890 and 1910. It was often inspired by natural forms such as the curves of plants and flowers, using asymmetry and whiplash lines and modern materials such as iron, glass and ceramics. It aimed to break down the distinction between fine arts and applied arts, and it reacted against the historicism of 19th-century architecture. The first Art Nouveau houses appeared in [[Brussels]] in the 1890s, notably those of Victor Horta, whose Hôtel Tassel was completed in 1893. The style peaked at the 1900 [[Paris]] International Exposition and in the Paris Métro entrances designed by Hector Guimard. In Germany it was known as *Jugendstil*, and in Italy as *Stile Liberty*. By 1914 it was largely exhausted, and in the 1920s it was replaced by [[Art Deco]] and then modernism.
+
+=== KEY: Art_criticism_9cdd5b
+HEADWORD: Art criticism = 미술 비평
+LEVEL: 4
+GLOSSARY:
+  Art = 미술
+  Art criticism = 미술 비평
+  Augustine = 아우구스티누스
+  Augustine of Hippo = 히포의 아우구스티누스
+  Cubism = 입체주의
+  Denis Diderot = 드니 디드로
+  Diderot = 디드로
+  Impressionism = 인상주의
+  Impressionists = 인상파
+  Plato = 플라톤
+  Renaissance = 르네상스
+  Vitruvius = 비트루비우스
+  art history = 미술사
+  salon reviews = 살롱 비평
+ENTRY:
+Discussion or evaluation of visual art, usually in the context of aesthetics. Art criticism divides into historical criticism, a form of art history, and contemporary criticism of work by living artists. Some movements were named disparagingly by critics before artists adopted the names, as with [[Impressionism]] and [[Cubism]]. Critics of the past are often ridiculed for dismissing artists now venerated, such as the early Impressionists. Early forms of criticism appear in the works of [[Plato]], [[Vitruvius]] and [[Augustine of Hippo]]. From the Renaissance, wealthy patrons employed intermediary art-evaluators. [[Denis Diderot]] pioneered salon reviews in the 18th and 19th centuries. Methods range from recording immediate impressions to systematic analysis using technical knowledge, aesthetic theory and sociocultural context.
+
+=== KEY: Artemis_95630c
+HEADWORD: Artemis = 아르테미스
+LEVEL: 4
+GLOSSARY:
+  Actaeon = 악타이온
+  Agamemnon = 아가멤논
+  Ancient Greek = 고대 그리스어
+  Apollo = 아폴론
+  Artemis = 아르테미스
+  Aulis = 아울리스
+  Deer = 사슴
+  Diana = 디아나
+  Ephesus = 에페소스
+  Leto = 레토
+  Moon = 달
+  Selene = 셀레네
+  Seven = 「세븐」
+  Seven Wonders of the Ancient World = 고대 세계의 7대 불가사의
+  Trojan = 트로이아인
+  Trojan War = 트로이 전쟁
+  World = 세계
+  Zeus = 제우스
+ENTRY:
+Ancient Greek goddess of hunting, the wilderness, wild animals, childbirth, and chastity. She was the daughter of Leto and [[Zeus]] and the twin sister of [[Apollo]]; her Roman equivalent is Diana. Artemis was one of the primary goddesses of childbirth and a patron of healing and disease, and was regarded as one of three major virgin goddesses. In myth, the hunter Actaeon, who saw her bathing, was transformed into a [[Deer|deer]] and devoured by his own dogs. In the [[Trojan War]], [[Agamemnon]] shot and killed her sacred deer, and Artemis halted the Greek fleet at Aulis. Her great temple at [[Ephesus]] was one of the [[Seven Wonders of the Ancient World]]. Her symbols included the bow, arrow, and quiver. She was later identified with Selene, the personification of the [[Moon]].
+
+=== KEY: Artemisia_Gentileschi_8a005a
+HEADWORD: Gentileschi, Artemisia = 젠틸레스키, 아르테미시아
+LEVEL: 4
+GLOSSARY:
+  Accademia di Arte del Disegno = 아카데미아 디 아르테 델 디세뇨
+  Agostino Tassi = 아고스티노 타시
+  Baroque = 바로크
+  Bible = 성경
+  Caravaggio = 카라바조
+  Charles I = 찰스 1세
+  Charles I of England = 찰스 1세
+  England = 잉글랜드
+  Florence = 피렌체
+  Judith = 주디스
+  Judith Slaying Holofernes = 「홀로페르네스의 목을 베는 유디트」
+  National Gallery = 내셔널 갤러리
+  Orazio Gentileschi = 오라치오 젠틸레스키
+  Rome = 로마
+  Susanna and the Elders = 「수산나와 장로들」
+ENTRY:
+Italian [[Baroque]] painter. Gentileschi was born in [[Rome]], the eldest child of the painter Orazio Gentileschi, and trained in her father’s workshop. She was producing professional work by the age of 15, initially working in the style of [[Caravaggio]]. She became the first woman to be a member of the Accademia di Arte del Disegno in [[Florence]], and she had an international clientele. She worked as an expatriate painter at the court of [[Charles I of England]] and was known for depicting the female figure with naturalism and for her handling of color. Many of her paintings show women from myths, allegories, and the Bible, including *Judith Slaying Holofernes* and *Susanna and the Elders*. Her achievements were long overshadowed by the story of her rape at around 18 years old by Agostino Tassi and of her being tortured to give evidence at his trial. Scholars have since reexamined her life and art, and major exhibitions at the [[National Gallery]] in London have recognized her talents.
+
+=== KEY: Artery_5b50a8
+HEADWORD: Artery = 동맥
+LEVEL: 4
+GLOSSARY:
+  Arterioles = 세동맥
+  Blood = 혈액
+  Blood pressure = 혈압
+  Circulatory system = 순환계
+  Heart = 심장
+  Lung = 폐
+  Placenta = 태반
+  Pulse = 맥박
+  Vein = 정맥
+  cardiac cycle = 심장 주기
+  fetal circulation = 태아 순환
+  pulmonary arteries = 폐동맥
+  smooth muscle = 민무늬근
+  systemic circulation = 체순환
+  tunica adventitia = 외막
+  tunica externa = 외막
+  tunica intima = 내막
+  tunica media = 중막
+  umbilical arteries = 배꼽동맥
+ENTRY:
+Blood vessel that carries blood away from the [[Heart|heart]] in the [[Circulatory system|systemic circulation]]. In humans and most other animals, arteries carry oxygenated blood to the body. The exceptions are the pulmonary arteries, which carry deoxygenated blood to the [[Lung|lungs]] for oxygenation, and the umbilical arteries, which carry deoxygenated blood to the [[Placenta|placenta]] in the fetal circulation. The artery wall has three layers, called tunics: the tunica intima, tunica media, and tunica externa (or tunica adventitia). The tunica media is made of smooth muscle cells, elastic tissue, and collagen fibers, and the elastic tissue allows the artery to bend. Arteries have higher [[Blood pressure|blood pressure]] than other parts of the circulatory system, and the pressure varies with the cardiac cycle, producing a [[Pulse|pulse]]. Arterioles have the greatest influence on local blood flow and overall blood pressure. Arteries contrast with [[Vein|veins]], which carry deoxygenated blood back toward the heart.
+
+=== KEY: Arthashastra_c944e6
+HEADWORD: Arthashastra = 아르타샤스트라
+LEVEL: 4
+GLOSSARY:
+  Chanakya = 차나키아
+  Chandragupta Maurya = 찬드라굽타 마우리아
+  Economic policy = 경제 정책
+  Gupta = 굽타
+  Gupta reign = 굽타 왕조 시대
+  Hindu philosophy = 힌두 철학
+  Kautilya = 카우틸리야
+  Kauṭalya = 카우탈리야
+  Maurya = 마우리아
+  Military strategy = 군사 전략
+  Olivelle = 올리벨
+  Politics = 정치
+  Sanskrit = 산스크리트어
+  Vishnugupta = 비슈누굽타
+ENTRY:
+Ancient Indian [[Sanskrit]] treatise on statecraft, [[Politics|politics]], [[Economic policy|economic policy]], and [[Military strategy|military strategy]]. The text names Kautilya (Kauṭalya) and Vishnugupta as its compiler or redactor, but it is likely the work of several authors over centuries. According to Olivelle, its earlier treatises date from the 2nd century BCE to the 1st century CE, and the surviving manuscripts were most likely completed between the 1st and 3rd centuries CE. The text has 15 books, 150 chapters, and 180 topics. It covers government, law, court systems, ethics, markets and trade, diplomacy, war, and the duties of a king, and it incorporates [[Hindu philosophy|Hindu philosophy]]. It advises a king to build public projects, such as irrigation waterways, in areas devastated by famine, epidemic, or war. Its identification with [[Chanakya]], the legendary counselor of [[Chandragupta Maurya]], began during the Gupta reign and has been rejected by the main scholarly studies since 1965. The text was rediscovered in 1905 and first translated into English in 1915.
+
+=== KEY: Arthritis_7aa485
+HEADWORD: Arthritis = 관절염
+LEVEL: 3
+GLOSSARY:
+  Australia = 오스트레일리아
+  Cartilage = 연골
+  Gout = 통풍
+  Ibuprofen = 이부프로펜
+  Immune system = 면역계
+  Osteoarthritis = 골관절염
+  Paracetamol = 파라세타몰
+  Rheumatoid arthritis = 류마티스 관절염
+  United States = 미국
+  acetaminophen = 아세트아미노펜
+  autoimmune disorder = 자가면역 질환
+  disease-modifying antirheumatic drugs = 질병 조절 항류마티스제
+  joint capsule = 관절주머니
+  joint replacement surgery = 관절 치환술
+  urate crystals = 요산염 결정
+  uric acid = 요산
+ENTRY:
+General term for disorders of the joints, marked by pain and stiffness.
+
+Symptoms generally include joint pain and stiffness, and may include redness, warmth, swelling, and decreased range of motion. Onset can be gradual or sudden, and in some types other organs, such as the skin, are also affected. The term derives from *arthr-*, “joint,” and *-itis*, “inflammation.” More than 100 conditions fall under it.
+
+The most common form is [[Osteoarthritis]], which affects more than 3.8% of people. It usually occurs with age, often in the hips, knees, shoulders, and fingers, and results from damage to joint [[Cartilage|cartilage]] through prior injury or long-term wear. [[Rheumatoid arthritis]], the second most common at about 0.24%, is an autoimmune disorder that often affects the hands and feet, in which the [[Immune system|immune system]] attacks the lining of the joint capsule. [[Gout]] is caused by urate crystals depositing in joints after excessive uric acid production.
+
+Risk factors include age, obesity, previous joint injury, and, for inflammatory types, female sex, family history, and exposure to tobacco smoke. Diagnosis rests on clinical examination, supported by imaging and blood tests.
+
+There is no cure for most types. Early treatment commonly includes resting the joint and applying heat or ice; weight loss and exercise may reduce force across weight-bearing joints. Medications such as [[Ibuprofen|ibuprofen]] and [[Paracetamol|acetaminophen]] relieve symptoms, disease-modifying antirheumatic drugs are used for autoimmune forms, and severe cases may require joint replacement surgery.
+
+About 15% of people in Australia and more than 20% in the United States have a type of arthritis. It becomes more common with age and is a common reason people cannot work.
+
+=== KEY: Arthropod_130818
+HEADWORD: Arthropod = 절지동물
+LEVEL: 3
+GLOSSARY:
+  Arthropod = 절지동물
+  Arthropoda = 절지동물문
+  Cambrian = 캄브리아기
+  Chelicerata = 협각아문
+  Chitin = 키틴
+  Crustacea = 갑각류
+  Crustacean = 갑각류
+  Hemolymph = 혈림프
+  Hexapoda = 육각아문
+  Insect = 곤충
+  Invertebrate = 무척추동물
+  Moulting = 탈피
+  Myriapoda = 다지아문
+  aphids = 진딧물
+  arachnids = 거미류
+  calcium carbonate = 탄산 칼슘
+  centipedes = 지네
+  compound eyes = 겹눈
+  cuticle = 큐티클
+  exoskeleton = 외골격
+  horseshoe crabs = 투구게
+  millipedes = 노래기
+  molting = 탈피
+  ocelli = 홑눈
+  open circulatory system = 개방 순환계
+  total metamorphosis = 완전 변태
+  ventral nerve cords = 배쪽 신경삭
+  viviparous = 태생
+ENTRY:
+Invertebrate of the phylum Arthropoda, with a segmented body, paired jointed appendages, and an exoskeleton.
+
+The exoskeleton, or cuticle, is made of [[Chitin|chitin]] and is often mineralized with calcium carbonate. To grow, arthropods must go through stages of [[Moulting|molting]], shedding the exoskeleton to reveal a new one. The name comes from the Greek *arthron*, “joint,” and *pous*, “foot.”
+
+Arthropoda is the largest animal phylum, with estimates of species ranging from 1,170,000 to 5–10 million and accounting for over 80 percent of all known living animal species. They live in marine, freshwater, land, and air ecosystems. The phylum is divided into four major groups: [[Chelicerata]] (including arachnids and horseshoe crabs), [[Myriapoda]] (centipedes and millipedes), [[Crustacean|Crustacea]] (crabs, shrimp, lobsters, and other mostly aquatic forms), and [[Hexapoda]], which includes the [[Insect|insects]], the group with the most described species of any class.
+
+Hemolymph, the analogue of blood, circulates through an open circulatory system. The nervous system is ladder-like, with paired ventral nerve cords, and the brain encircles the esophagus. Vision relies on compound eyes and simple ocelli, although the main eyes of spiders are ocelli that can form images. All terrestrial species use internal fertilization, and almost all arthropods lay eggs, though a few, such as aphids and scorpions, are genuinely viviparous. Hatchlings range from miniature adults to grubs and caterpillars that undergo total metamorphosis.
+
+Arthropod ancestry dates to the [[Cambrian]] period. Arthropods contribute to the human food supply directly as food and, more importantly, as pollinators of crops, while some species spread severe disease to humans, livestock, and crops.
+
+=== KEY: Arthur_C_Clarke_669707
+HEADWORD: Clarke, Arthur C. = 클라크, 아서 C.
+LEVEL: 4
+GLOSSARY:
+  Air Force = 항공 및 반항공군
+  Ceylon = 실론
+  Force = 힘
+  Geostationary orbit = 정지 궤도
+  Hugo = 휴고상
+  Kalinga = 칼링가
+  Kalinga Prize = 칼링가상
+  Koneswaram Temple = 코네스와람 사원
+  Lanka = 랑카
+  Nebula = 네뷸러상
+  Odyssey = 『오디세이아』
+  Prophet = 예언자
+  Prophet of the Space Age = 우주 시대의 예언자
+  Royal Air Force = 영국 공군
+  Satellite = 인공위성
+  Second = 초
+  Second World = 제2세계
+  Second World War = 제2차 세계 대전
+  Space = 공간
+  Sri Lanka = 스리랑카
+  Stanley = 스탠리
+  Stanley Kubrick = 스탠리 큐브릭
+  Trincomalee = 트링코말리
+  UNESCO = 유네스코
+  World = 세계
+  World War II = 제2차 세계 대전
+  science fiction = 과학 소설
+  the Second World War = 제2차 세계 대전
+ENTRY:
+English science fiction writer, inventor, and undersea explorer. Clarke was a lifelong advocate of space travel, and in 1945 he proposed a [[Satellite|satellite]] communication system using [[Geostationary orbit|geostationary orbits]]. He wrote many books and essays for popular magazines, earning the nickname “Prophet of the Space Age,” and his science fiction won several Hugo and Nebula awards. During [[World War II|the Second World War]] he served in the Royal Air Force as a radar specialist. He co-wrote the screenplay for *2001: A Space Odyssey* (1968) with [[Stanley Kubrick]]. In 1956 he emigrated to Ceylon, where he discovered the underwater ruins of the ancient Koneswaram Temple in Trincomalee. He lived in [[Sri Lanka]] until his death, and in 1961 he received the Kalinga Prize, a [[UNESCO]] award for popularizing science.
+
+=== KEY: Arthur_Cayley_3389e0
+HEADWORD: Cayley, Arthur = 케일리, 아서
+LEVEL: 4
+GLOSSARY:
+  Algebra = 대수학
+  Cambridge = 케임브리지
+  Cayley graphs = 케일리 그래프
+  Cayley tables = 케일리 표
+  Cayley’s formula = 케일리 공식
+  Cayley’s theorem = 케일리 정리
+  Combinatorics = 조합론
+  Group (mathematics) = 군
+  Pure mathematics = 순수 수학
+  Sadleirian professor = 새들러 석좌교수
+  Trinity = 삼위일체
+  Trinity College = 트리니티 칼리지
+  binary = 이부 형식
+  binary operation = 이항 연산
+  characteristic polynomial = 특성 다항식
+  group theory = 군론
+  permutation groups = 치환군
+  square matrix = 정사각 행렬
+  Évariste Galois = 에바리스트 갈루아
+ENTRY:
+English mathematician. He helped found the modern British school of [[Pure mathematics|pure mathematics]] and was a professor at Trinity College, [[Cambridge]], for 35 years, working mostly on [[Algebra|algebra]]. He postulated the Cayley–Hamilton theorem, that every square matrix is a root of its own characteristic polynomial, and verified it for matrices of order 2 and 3. He was the first to define an abstract [[Group (mathematics)|group]], a set with a binary operation satisfying certain laws, in contrast to [[Évariste Galois]]’s concept of permutation groups. Cayley tables, Cayley graphs, and Cayley’s theorem in group theory are named for him, as is Cayley’s formula in [[Combinatorics|combinatorics]]. After practicing law in London for fourteen years, during which he produced between two and three hundred papers, he became the first Sadleirian professor at Cambridge.
+
+=== KEY: Arthur_Conan_Doyle_d7ed32
+HEADWORD: Doyle, Arthur Conan = 도일, 아서 코넌
+LEVEL: 4
+GLOSSARY:
+  Challenger = 챌린저호
+  Coronation Honours = 대관식 서훈
+  Cottingley Fairies = 코팅리 요정 사건
+  Detective fiction = 추리 소설
+  Edinburgh = 에든버러
+  Edward VII = 에드워드 7세
+  Harry = 해리
+  Harry Houdini = 해리 후디니
+  Lost = 「로스트」
+  Parliament = 의회
+  Portsmouth = 포츠머스
+  Professor Challenger = 챌린저 교수
+  Sherlock = 「셜록」
+  Sherlock Holmes = 셜록 홈스
+  The Lost World = 『잃어버린 세계』
+  University = 대학
+  University of Edinburgh = 에든버러 대학교
+  Watson = 왓슨
+  World = 세계
+  crime fiction = 범죄 소설
+  speculative fiction = 사변 소설
+  spiritualist = 심령주의자
+ENTRY:
+British writer and physician. He is best known for four novels and fifty-six short stories about the consulting detective [[Sherlock Holmes]] and his assistant Watson, which are milestones of [[Detective fiction|crime fiction]]. He studied medicine at the University of [[Edinburgh]] and served as a doctor and surgeon on two sea voyages before an unsuccessful medical practice in Portsmouth. His novel *The Lost World* (1912), featuring Professor Challenger, gave its name to a subgenre of speculative fiction. He was knighted by King [[Edward VII]] in the 1902 Coronation Honours. He twice stood unsuccessfully for Parliament, wrote in support of compulsory vaccination, and personally investigated two closed cases, both resulting in the exoneration of the accused men. Doyle became a spiritualist and publicly supported the Cottingley Fairies, later confirmed to be a hoax, which led to a public falling-out with [[Harry Houdini]].
+
+=== KEY: Arthur_Miller_b0fffb
+HEADWORD: Miller, Arthur = 밀러, 아서
+LEVEL: 4
+GLOSSARY:
+  A View from the Bridge = 『다리에서 바라본 풍경』
+  All My Sons = 『모두가 나의 아들』
+  Bridge = 다리
+  Death = 죽음
+  Death of a Salesman = 『세일즈맨의 죽음』
+  Federal Theatre Project = 연방 극장 프로젝트
+  Hampshire = 햄프셔
+  House Un-American Activities Committee = 하원 비미 활동 위원회
+  Marilyn Monroe = 메릴린 먼로
+  Monroe = 먼로
+  New Deal = 뉴딜
+  New Hampshire = 뉴햄프셔주
+  New York University = 뉴욕 대학교
+  Pulitzer Prize = 퓰리처상
+  Pulitzer Prize for Drama = 퓰리처상 희곡 부문
+  Salem witch trials = 세일럼 마녀재판
+  The Crucible = 『시련』
+  The Misfits = 「어울리지 않는 사람들」
+  Theatre = 연극
+  University = 대학
+  University of New Hampshire = 뉴햄프셔 대학교
+  Wall = 벽
+  Wall Street crash = 월가 대폭락
+  Wall Street crash of 1929 = 1929년 월가 대폭락
+  York = 요크
+  mass hysteria = 집단 히스테리
+  witch trials = 마녀재판
+ENTRY:
+American playwright and essayist. His plays include *All My Sons* (1947), *Death of a Salesman* (1949), *The Crucible* (1953), and *A View from the Bridge* (1955). *Death of a Salesman* won a Pulitzer Prize for Drama and is considered one of the best American plays of the 20th century. *The Crucible* drew on the [[Salem witch trials]] to address mass hysteria. The family lost almost everything in the [[Wall Street crash of 1929]]. After graduating, Miller joined the Federal Theatre Project, a [[New Deal]] agency, and he later held faculty posts at [[New York University]] and the University of New Hampshire. He testified before the House Un-American Activities Committee and married [[Marilyn Monroe]]. He also wrote the screenplay for *The Misfits* (1961).
+
+=== KEY: Arthur_Rimbaud_bf736d
+HEADWORD: Rimbaud, Arthur = 랭보, 아르튀르
+LEVEL: 4
+GLOSSARY:
+  A Season in Hell = 『지옥에서 보낸 한철』
+  Aden = 아덴
+  Amputation = 절단술
+  Cancer = 암
+  Charleville = 샤를빌
+  Franco-Prussian War = 프로이센-프랑스 전쟁
+  French = 프랑스어
+  Hell = 지옥
+  Illuminations = 『일뤼미나시옹』
+  Modernism = 모더니즘
+  Paris = 파리
+  Paul = 바울로
+  Paul Verlaine = 폴 베를렌
+  Season = 계절
+  Surrealism = 초현실주의
+  Symbolism (movement) = 상징주의
+  modernist literature = 모더니즘 문학
+ENTRY:
+French poet. Born in Charleville, he produced most of his literary output in his late adolescence and early adulthood, and his transgressive, surreal verse prefigured [[Surrealism|surrealism]]. He ran away to Paris during the [[Franco-Prussian War]]. He had a hectic, sometimes violent relationship with the poet Paul Verlaine that lasted nearly two years. His *A Season in Hell* is a precursor to [[Modernism|modernist]] literature, and his work contributed to [[Symbolism (movement)|symbolism]]. He stopped writing literature at about age 20, after assembling *Illuminations*. He then traveled on three continents as a merchant and explorer, working as a coffee trader in [[Aden]]. He died of [[Cancer|cancer]] after a leg [[Amputation|amputation]].
+
+=== KEY: Arthur_Rubinstein_6fe346
+HEADWORD: Rubinstein, Arthur = 루빈스타인, 아르투르
+LEVEL: 4
+GLOSSARY:
+  13 = 「13」
+  Beethoven = 베토벤
+  Berlin = 베를린
+  Berlin Philharmonic = 베를린 필하모닉 관현악단
+  Brahms = 브람스
+  Chopin = 쇼팽
+  Classical music = 클래식 음악
+  Congress Poland = 폴란드 회의 왕국
+  Igor Stravinsky = 이고리 스트라빈스키
+  Liszt = 리스트
+  Maurice Ravel = 모리스 라벨
+  Mozart = 모차르트
+  Pablo Casals = 파블로 카살스
+  Paris = 파리
+  Paul = 바울로
+  Paul and Muriel Draper = 폴 드레이퍼와 뮤리얼 드레이퍼
+  Poland = 폴란드
+  Russian = 러시아어
+  Russian Empire = 러시아 제국
+  Saint-Saëns = 생상스
+  Schubert = 슈베르트
+  Schumann = 슈만
+  South America = 남아메리카
+  Spain = 스페인
+  Stravinsky = 스트라빈스키
+  Tchaikovsky = 차이콥스키
+  World = 세계
+  World War I = 제1차 세계 대전
+  Łódź = 우치
+ENTRY:
+Polish and American pianist. Widely regarded as one of the greatest pianists of his day, he was acclaimed for his [[Classical music|classical]] interpretations, particularly of Chopin. He played in public for eight decades, with a repertoire including Beethoven, Brahms, Mozart, Schubert, Liszt, Tchaikovsky, Saint-Saëns, and Schumann. Born in [[Łódź]], in Congress Poland, which was then part of the [[Russian Empire]], he moved to [[Berlin]] at age ten to study. He gave his first performance with the Berlin Philharmonic in 1900, at age 13. In 1904 he moved to Paris, where he met [[Maurice Ravel]]. In 1912 he made his London debut and found a musical home in the salon of Paul and Muriel Draper, where he associated with [[Igor Stravinsky]] and [[Pablo Casals]]. During World War I he stayed in London, and in 1916 and 1917 he made his first tours of Spain and South America.
+
+=== KEY: Arthur_Schopenhauer_06d29d
+HEADWORD: Schopenhauer, Arthur = 쇼펜하우어, 아르투어
+LEVEL: 4
+GLOSSARY:
+  Asceticism = 금욕주의
+  Building = 건물
+  Frankfurt = 프랑크푸르트
+  German = 독일어
+  German idealism = 독일 관념론
+  Idealism = 관념론
+  Immanuel Kant = 이마누엘 칸트
+  Indian philosophy = 인도 철학
+  Kant = 칸트
+  Philosopher of Pessimism = 염세주의 철학자
+  The World as Will and Representation = 『의지와 표상으로서의 세계』
+  World = 세계
+  noumenal will = 본체적 의지
+  phenomenal world = 현상 세계
+  transcendental idealism = 초월적 관념론
+ENTRY:
+German philosopher and writer, known as the “Philosopher of Pessimism.” His main work, *The World as Will and Representation* (1818; expanded 1844), characterizes the phenomenal world as the manifestation of a blind and irrational noumenal will. Building on the transcendental idealism of [[Immanuel Kant]], he developed an atheistic, metaphysical, and ethical system that rejected the contemporaneous ideas of [[Idealism|German idealism]]. He was among the first Western philosophers to affirm significant tenets of [[Indian philosophy]], such as [[Asceticism|asceticism]], denial of the self, and the notion of the world as appearance. His work attracted little attention during his lifetime. His writing on aesthetics, morality, and psychology later influenced many thinkers and artists. He lived for much of his later life in [[Frankfurt]].
+
+=== KEY: Arthur_Wellesley_1st_Duke_of_Wellington_7a61bf
+HEADWORD: Wellington, Arthur Wellesley, 1st Duke of = 웰링턴 공작, 아서 웰즐리
+LEVEL: 4
+GLOSSARY:
+  Anglo-Irish = 앵글로아이리시
+  Battle of Assaye = 아사이 전투
+  Battle of Waterloo = 워털루 전투
+  British Army = 영국 육군
+  Catholic = 가톨릭
+  Confederacy = 남부 연합
+  Dublin = 더블린
+  Duke of Wellington = 웰링턴 공작
+  Following = 「미행」
+  Fourth Anglo-Mysore War = 제4차 영국-마이소르 전쟁
+  France = 프랑스
+  Gebhard von Blücher = 게프하르트 폰 블뤼허
+  House of Lords = 귀족원
+  Hundred Days = 백일천하
+  India = 인도
+  Maratha = 마라타
+  Maratha Confederacy = 마라타 동맹
+  Napoleon = 나폴레옹
+  Peninsular War = 반도 전쟁
+  Prussian = 프로이센
+  Reform Act 1832 = 1832년 선거법 개정
+  Roman Catholic = 로마 가톨릭
+  Roman Catholic Relief Act 1829 = 1829년 가톨릭 해방법
+  Seringapatam = 세링가파탐
+  Tory = 토리당
+  Vitoria = 비토리아
+  Waterloo = 워털루
+  Wellington = 웰링턴
+  field marshal = 원수
+ENTRY:
+British Army officer and statesman. Born in [[Dublin]] into an Anglo-Irish family, he fought in India during the Fourth Anglo-Mysore War, winning at Seringapatam in 1799, and won a decisive victory over the Maratha Confederacy at the Battle of Assaye in 1803. He rose to prominence in the [[Peninsular War]] and was promoted to field marshal after the victory at Vitoria in 1813. Following Napoleon’s first exile in 1814, he was made Duke of Wellington and served as British ambassador to France. During the Hundred Days in 1815, his army and a Prussian army under Field Marshal Gebhard von Blücher defeated [[Napoleon]] at the [[Battle of Waterloo|Battle of Waterloo]]. A Tory, he served as prime minister from 1828 to 1830 and briefly in 1834, oversaw the Roman Catholic Relief Act 1829, and opposed the Reform Act 1832. He remained a leading figure in the [[House of Lords]] until 1846.
+
+=== KEY: Artichoke_f3add9
+HEADWORD: Artichoke = 아티초크
+LEVEL: 4
+GLOSSARY:
+  Arabic = 아랍어
+  California = 캘리포니아주
+  Cynara cardunculus = Cynara cardunculus
+  Egypt = 이집트
+  Flower = 꽃
+  Italy = 이탈리아
+  Mediterranean = 지중해
+  Mediterranean region = 지중해 지역
+  Rhizoctonia solani = Rhizoctonia solani
+  Spain = 스페인
+  United States = 미국
+  Verticillium dahliae = Verticillium dahliae
+  articiocco = articiocco
+  bracts = 포엽
+  cardoon = 카르둔
+  metric tons = 미터톤
+ENTRY:
+Variety of thistle (*Cynara cardunculus* var. *scolymus*) cultivated for its edible flower buds. The buds are eaten before the [[Flower|flowers]] bloom; the edible parts are the fleshy lower bracts and the base, known as the heart. The artichoke is a domesticated form of the wild cardoon, a perennial native to the Mediterranean region. The English word was borrowed in the sixteenth century from northern Italian *articiocco*, which derives from Arabic. In 2022 global production reached 1.58 million metric tons, led by Egypt (460,000 tons), Italy (378,000 tons), and Spain (200,000 tons). In the United States, production is concentrated in [[California]]. Fungal pathogens including *Verticillium dahliae* and *Rhizoctonia solani* affect the plant.
+
+=== KEY: Artificial_general_intelligence_dd8086
+HEADWORD: Artificial general intelligence = 범용 인공지능
+LEVEL: 5
+GLOSSARY:
+  Artificial intelligence = 인공지능
+  Google = 구글
+  Meta = 메타
+  OpenAI = 오픈AI
+  Science fiction = 과학 소설
+  artificial narrow intelligence = 약인공지능
+  human extinction = 인류 멸종
+  science fiction = 과학 소설
+ENTRY:
+Hypothetical type of [[Artificial intelligence|artificial intelligence]] that matches or surpasses human capabilities across most or all cognitive tasks. Unlike artificial narrow intelligence, it could generalize knowledge, transfer skills between domains, and solve novel problems without task-specific reprogramming. Companies including OpenAI, [[Google]], and Meta have stated creating it as a goal. The concept is common in [[Science fiction|science fiction]]. Some experts argue that mitigating the risk of human extinction from it should be a global priority, while others consider it too remote to present such a risk.
+
+=== KEY: Artificial_intelligence_9d0996
+HEADWORD: Artificial intelligence = 인공지능
+LEVEL: 3
+GLOSSARY:
+  AI boom = AI 붐
+  AI winters = AI 겨울
+  Artificial general intelligence = 범용 인공지능
+  Chatbot = 챗봇
+  Computer science = 컴퓨터 과학
+  Dartmouth Conference = 다트머스 회의
+  Deep learning = 딥 러닝
+  DeepMind = 딥마인드
+  Generative AI = 생성형 인공지능
+  Go = 바둑
+  Google = 구글
+  Google DeepMind = 구글 딥마인드
+  Graphics processing unit = 그래픽 처리 장치
+  John = 존
+  John McCarthy = 존 매카시
+  Large language model = 대규모 언어 모델
+  Meta = 메타
+  Neural network (machine learning) = 인공 신경망
+  OpenAI = 오픈AI
+  Reasoning models = 추론 모델
+  Safety = 안전
+  artificial neural networks = 인공 신경망
+  chains of thought = 사고 사슬
+  deep learning = 딥 러닝
+  existential risks = 실존적 위험
+  formal logic = 형식 논리학
+  hallucinations = 환각
+  human intelligence = 인간 정보(휴민트)
+  knowledge representation = 지식 표현
+  mathematical optimization = 수리 최적화
+  natural language processing = 자연어 처리
+  neural networks = 신경망
+  operations research = 운용 과학
+  state space search = 상태 공간 탐색
+  transformer architecture = 트랜스포머 아키텍처
+  virtual assistants = 가상 비서
+ENTRY:
+Capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making; also the field of research that develops such systems.
+
+The field spans [[Computer science|computer science]], engineering, and mathematics, and draws on psychology, linguistics, philosophy, and neuroscience. Its traditional goals include learning, reasoning, knowledge representation, planning, natural language processing, and perception. Techniques include state space search, mathematical optimization, formal logic, [[Neural network (machine learning)|artificial neural networks]], and methods from statistics, operations research, and economics. Applications include web search engines, [[Chatbot|chatbots]], virtual assistants, autonomous vehicles, play and analysis in strategy games such as chess and Go, and content generation.
+
+The term was coined by John McCarthy in a 1955 proposal for the Dartmouth Conference of 1956, and AI was founded as an academic discipline in 1956. The field went through cycles of optimism alternating with periods of disappointment and lost funding known as AI winters. Interest and funding grew substantially after 2012, when [[Graphics processing unit|graphics processing units]] began to accelerate neural networks and [[Deep learning|deep learning]] outperformed earlier techniques. Growth accelerated further after 2017 with the transformer architecture, and advances in [[Generative AI|generative AI]], which creates and modifies media, spurred the AI boom of the 2020s. Reasoning models, a type of [[Large language model|large language model]] trained to generate intermediate chains of thought, emerged in 2024 and improved performance on mathematics and coding, though they can produce incorrect outputs known as hallucinations.
+
+Some companies, including OpenAI, Google DeepMind, and Meta, aim to create [[Artificial general intelligence]], AI able to complete nearly any cognitive task at least as well as a human; it has not been achieved. Safety, ethical concerns, environmental effects, and potential existential risks have prompted discussions of AI regulation.
+
+=== KEY: Artificial_island_84e51f
+HEADWORD: Artificial island = 인공섬
+LEVEL: 4
+GLOSSARY:
+  Al-Sayah Island = 알사야섬
+  Aztec = 아스테카
+  Bahrain = 바레인
+  China = 중국
+  City = 도시
+  Dejima = 데지마
+  Edo period = 에도 시대
+  Ellis Island = 엘리스섬
+  Land reclamation = 간척
+  Mexico = 멕시코
+  Mexico City = 멕시코시티
+  Nagasaki = 나가사키
+  Neolithic = 신석기 시대
+  Palm Jumeirah = 팜 주메이라
+  Persian = 페르시아어
+  Persian Gulf = 페르시아만
+  South China = 화난
+  South China Sea = 남중국해
+  Tenochtitlan = 테노치티틀란
+  land reclamation = 간척
+ENTRY:
+Island constructed by humans rather than formed through natural processes. Although there is no clear legal definition, artificial islands were built as early as the [[Neolithic]] era. In modern times they are usually formed by [[Land reclamation|land reclamation]]. Al-Sayah Island in [[Bahrain]] is described as the world’s first permanent artificial island, created at least 1,200 years ago around a water spring. The Aztec city of [[Tenochtitlan]], predecessor of [[Mexico City]], stood on a natural island surrounded by artificial islands. Dejima, a contained center for European merchants, was built in the bay of [[Nagasaki]] during Japan’s [[Edo period]]. [[Ellis Island]] was a former islet greatly expanded by land reclamation. Dubai’s Palm Jumeirah extends 5 kilometers into the Persian Gulf. China’s artificial islands in the South China Sea have intensified territorial disputes.
+
+=== KEY: Artillery_49c409
+HEADWORD: Artillery = 포병
+LEVEL: 4
+GLOSSARY:
+  12-pounder gun = 12파운드포
+  Artillery = 포병
+  Catapult = 투석기
+  Gunpowder = 화약
+  Howitzer = 곡사포
+  Joseph Stalin = 이오시프 스탈린
+  Mortar (weapon) = 박격포
+  Napoleonic Wars = 나폴레옹 전쟁
+  Stalin = 스탈린
+  Syracuse = 시라쿠사
+  World = 세계
+  World War I = 제1차 세계 대전
+  World War II = 제2차 세계 대전
+  god of war = 전쟁의 신
+  mechanical energy = 역학적 에너지
+  rocket artillery = 로켓포
+ENTRY:
+Ranged weapons that launch munitions far beyond the range and power of infantry firearms. The first known [[Catapult|catapult]] was developed in Syracuse in 399 BC, and early artillery was designed to breach walls and fortifications during sieges. Until the introduction of [[Gunpowder|gunpowder]], artillery depended on mechanical energy; a 1st-century BC Roman catapult launching 6.55 kg (14.4 lb) stones achieved 16 kilojoules, compared with 240 kilojoules for a mid-19th-century 12-pounder gun. Since the introduction of gunpowder and cannon, the term has largely meant shell-firing guns, [[Howitzer|howitzers]], [[Mortar (weapon)|mortars]], and rocket artillery. Artillery caused the majority of combat deaths in the [[Napoleonic Wars]], [[World War I]], and [[World War II]]. In 1944, [[Joseph Stalin]] called artillery “the god of war.”
+
+=== KEY: Artiodactyla_111571
+HEADWORD: Artiodactyla = 우제목
+LEVEL: 4
+GLOSSARY:
+  Cattle = 소
+  Cetacean = 고래류
+  Deer = 사슴
+  Eocene = 에오세
+  antelopes = 영양
+  cellulose = 셀룰로스
+  even-toed ungulate = 우제류
+  hippopotamuses = 하마
+  placental mammals = 태반류
+  porpoises = 쇠돌고래
+  ungulates = 유제류
+ENTRY:
+Order of placental mammals, typically ungulates that bear weight equally on two of their five toes. The name comes from Greek *ártios* (“even”) and *dáktylos* (“finger, toe”). Many artiodactyls digest plant cellulose in one or more stomach chambers rather than in the intestine. Molecular and fossil evidence places [[Cetacean|cetaceans]], such as whales, dolphins, and porpoises, within the group, most closely related to hippopotamuses. The roughly 270 land-based even-toed ungulate species include pigs, antelopes, [[Deer|deer]], camels, [[Cattle|cattle]], and hippopotamuses. The oldest fossils date to the early [[Eocene]], about 53 million years ago. Many artiodactyls are of great dietary, economic, and cultural importance to humans.
+
+=== KEY: Artist_4047c5
+HEADWORD: Artist = 예술가
+LEVEL: 4
+GLOSSARY:
+  Actor = 배우
+  Art = 미술
+  French = 프랑스어
+  Greece = 그리스
+  Latin = 라틴어
+  Middle French = 중세 프랑스어
+  Muses = 무사이
+  Painting = 회화
+  Sculpture = 조각
+  Writer = 작가
+  ancient Greece = 고대 그리스
+  ars = ars
+  artiste = artiste
+ENTRY:
+Person who creates [[Art|art]] or practices one of the arts. The most common usage refers to a practitioner of the visual arts, such as [[Painting|painting]] or drawing. The term is also used in entertainment for [[Actor|actors]], musicians, singers, and dancers, and is less commonly applied to [[Writer|writers]], for whom “author” is generally used. There is no agreed definition of art, so the question of who is an artist remains indeterminate. The word derives from Middle French *artiste*, from Latin *ars*, meaning skill. In ancient Greece, each of the nine [[Muses]] presided over a field of human creation, but none was associated with painting or [[Sculpture|sculpture]], whose makers were held in low regard and whose work was often done by slaves.
+
+=== KEY: Artistic_gymnastics_03b87d
+HEADWORD: Artistic gymnastics = 기계체조
+LEVEL: 4
+GLOSSARY:
+  1896 Summer Olympics = 1896년 하계 올림픽
+  Aristotle = 아리스토텔레스
+  Bohemia = 보헤미아
+  Code of Points = 채점 규정
+  Discipline = 「디시플린」
+  Germany = 독일
+  Gymnastics = 체조
+  Homer = 호메로스
+  Larisa Latynina = 라리사 라티니나
+  Plato = 플라톤
+  Simone Biles = 시몬 바일스
+  Soviet Union = 소련
+  Summer Olympic Games = 하계 올림픽
+  Summer Olympics = 하계 올림픽
+  Union = 연방
+  World = 세계
+  World Gymnastics = 세계체조연맹
+ENTRY:
+Discipline of gymnastics in which athletes perform short routines on different types of apparatus. World Gymnastics governs the sport and assigns the Code of Points used to score elite international competition. The gymnastic system was mentioned in writings by [[Homer]], [[Aristotle]], and [[Plato]], and it evolved in Bohemia and Germany at the beginning of the 19th century. Gymnastics was included in the 1896 [[Summer Olympic Games|Summer Olympics]], but women were not allowed to compete until 1928. Women’s and men’s branches have since developed different techniques and apparatus. [[Larisa Latynina]] won 18 Olympic medals for the Soviet Union, and [[Simone Biles]] won 11 Olympic medals as a U.S. gymnast.
+
+=== KEY: Arts_and_Crafts_movement_dfa963
+HEADWORD: Arts and Crafts movement = 미술 공예 운동
+LEVEL: 4
+GLOSSARY:
+  Art = 미술
+  Art Nouveau = 아르 누보
+  British Empire = 대영 제국
+  British Isles = 브리튼 제도
+  Decorative arts = 장식 미술
+  Europe = 유럽
+  Great Exhibition = 런던 만국 박람회
+  Henry Cole = 헨리 콜
+  Japan = 일본
+  John = 존
+  John Ruskin = 존 러스킨
+  Mingei movement = 민예 운동
+  Modern Style = 모던 스타일
+  North America = 북아메리카
+  Owen Jones = 오언 존스
+  T. J. Cobden-Sanderson = T. J. 코브던샌더슨
+  Thomas = 토머스
+  Thomas Carlyle = 토머스 칼라일
+  William = 윌리엄
+  William Morris = 윌리엄 모리스
+  fine arts = 순수 미술
+ENTRY:
+International trend in the [[Decorative arts|decorative]] and fine arts that developed earliest and most fully in the [[British Isles]], then spread across the [[British Empire]] and to Europe and North America. It was a reaction against the perceived decline of design standards associated with machinery and factory production. Design reformers, including Henry Cole and Owen Jones, criticized the exhibits at the Great Exhibition of 1851 as excessively ornate. The term was first used in 1887 by T. J. Cobden-Sanderson, and the movement flourished between about 1880 and 1920. It drew on the ideas of Thomas Carlyle, John Ruskin, and William Morris. Some consider it the root of the Modern Style, while others regard it as opposed to [[Art Nouveau]], which it criticized for its use of industrial materials such as iron. In Japan, it emerged in the 1920s as the Mingei movement.
+
+=== KEY: Arturo_Toscanini_5dac5a
+HEADWORD: Toscanini, Arturo = 토스카니니, 아르투로
+LEVEL: 4
+GLOSSARY:
+  Aida = 「아이다」
+  Fascism = 파시즘
+  Fascist = 파시스트
+  Giovinezza = 「조비네차」
+  La Scala = 라 스칼라 극장
+  Milan = 밀라노
+  NBC Symphony Orchestra = NBC 교향악단
+  New York Philharmonic = 뉴욕 필하모닉
+  Orchestra = 관현악단
+  Rio de Janeiro = 리우데자네이루
+  Scala = 스칼라
+  Symphony = 교향곡
+  United States = 미국
+  York = 요크
+  eidetic memory = 직관상 기억
+ENTRY:
+Italian conductor. Known for his intensity, perfectionism, and eidetic memory, he was at various times music director of La Scala in [[Milan]] and of the New York Philharmonic. He began conducting at 19 in [[Rio de Janeiro]], when he took the podium to lead *Aida* after the audience booed the substitute conductor, and he conducted 18 operas over the rest of that season. He was the first music director of the NBC Symphony Orchestra (1937–1954), and his radio and television broadcasts and many recordings made him a household name, especially in the United States. In 1931 he resigned from La Scala rather than conduct the Fascist anthem *Giovinezza*, and he opposed Fascism.
+
+=== KEY: Aruba_4893b6
+HEADWORD: Aruba = 아루바
+LEVEL: 5
+GLOSSARY:
+  ABC islands = ABC 제도
+  Aruba = 아루바
+  Bonaire = 보네르
+  Caribbean Sea = 카리브해
+  Curaçao = 퀴라소
+  Kingdom of the Netherlands = 네덜란드 왕국
+  Netherlands = 네덜란드
+  Oranjestad = 오라녜스타트
+  Paraguaná = 파라과나반도
+  constituent country = 구성국
+ENTRY:
+Island constituent country of the [[Kingdom of the Netherlands]] in the southern Caribbean Sea, 29 km north of the Venezuelan peninsula of Paraguaná. It became a constituent country in 1986. With an area of 179 sq km, Aruba is one of the [[ABC islands]] with [[Bonaire]] and [[Curaçao]]. Its climate is dry and arid. With a population of 108,880, it has Oranjestad as its capital.

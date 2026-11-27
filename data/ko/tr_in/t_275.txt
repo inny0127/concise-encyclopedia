@@ -1,0 +1,884 @@
+=== KEY: Psychology_1d5b12
+HEADWORD: Psychology = 심리학
+LEVEL: 2
+GLOSSARY:
+  -logia = -로기아
+  Behaviorism = 행동주의
+  China = 중국
+  Christian Wolff = 크리스티안 볼프
+  Cognitive-behavioral therapy = 인지 행동 치료
+  Croatian = 크로아티아어
+  Egypt = 이집트
+  Germany = 독일
+  Greece = 그리스
+  Hippocrates = 히포크라테스
+  Immanuel Kant = 이마누엘 칸트
+  India = 인도
+  James = 야고보
+  John = 존
+  John B. Watson = 존 B. 왓슨
+  Kant = 칸트
+  Latin = 라틴어
+  Leipzig = 라이프치히
+  Marko Marulić = 마르코 마룰리치
+  Neuroscience = 신경과학
+  Open Science Collaboration = 오픈 사이언스 협력단
+  Others = 아더
+  Persia = 페르시아
+  Psychologia Empirica = 『경험 심리학』
+  Psychologia Rationalis = 『이성 심리학』
+  Psychotherapy = 심리 치료
+  Research = 연구
+  Steven Blankaart = 스테번 블랑카르트
+  University = 대학
+  University of Leipzig = 라이프치히 대학교
+  Watson = 왓슨
+  Wilhelm = 빌헬름
+  Wilhelm Wundt = 빌헬름 분트
+  William = 윌리엄
+  William James = 윌리엄 제임스
+  cognitive revolution = 인지 혁명
+  emergent properties = 창발적 속성
+  experimental psychology = 실험 심리학
+  human development = 인간 개발
+  preregistration = 사전 등록
+  psyche = 프시케
+  psychiologia = 프시키올로기아
+  replication crisis = 재현성 위기
+ENTRY:
+Scientific study of the mind and behavior. Its subject matter includes the behavior of humans and nonhumans, conscious and unconscious phenomena, and mental processes such as thoughts, feelings, and motives. It is an academic discipline of broad scope that crosses the boundaries between the natural and social sciences. A professional practitioner or researcher is called a psychologist, and some are also classed as behavioral or cognitive scientists. Biological psychologists seek to understand the emergent properties of brains, linking the field to [[Neuroscience|neuroscience]], while others, as social scientists, study the behavior of individuals and groups. Research covers perception, cognition, attention, emotion, intelligence, motivation, brain functioning, personality, interpersonal relationships, and the unconscious mind. Research psychologists use empirical methods to infer causal and correlational relationships between psychosocial variables. Psychological knowledge is applied to the assessment and treatment of mental health problems, and many psychologists practice [[Psychotherapy|psychotherapy]] in clinical, counseling, or school settings. Others conduct research, usually in academic settings, work in industrial and organizational settings, or study human development, aging, sports, health, forensic science, education, and the media.
+
+The word derives from the Greek *psyche*, "spirit" or "soul," and *-logia*, "study." In its Latin form *psychiologia* it was first used by the Croatian humanist Marko Marulić between 1510 and 1520; the earliest known English use is by Steven Blankaart in 1694. In 1890 [[William James]] defined psychology as "the science of mental life, both of its phenomena and their conditions." In 1913 [[John B. Watson]] contested this, asserting a methodological [[Behaviorism|behaviorist]] view of psychology as a purely objective experimental branch of natural science whose goal is "the prediction and control of behavior."
+
+The ancient civilizations of Egypt, Greece, China, India, and Persia all engaged in philosophical study of the mind. [[Hippocrates]] theorized that mental disorders had physical rather than supernatural causes. In Germany, Christian Wolff identified psychology as its own science, writing *Psychologia Empirica* in 1732 and *Psychologia Rationalis* in 1734, while [[Immanuel Kant]] rejected the idea of an experimental psychology. The discipline is commonly dated as an independent science from 1879, when [[Wilhelm Wundt]] established the first experimental psychology laboratory, at the University of Leipzig. Behaviorism, which prioritized observable responses over internal states, was followed in the mid-20th century by the cognitive revolution, which brought information-processing models. Cognitive-behavioral therapy is an evidence-based intervention for disorders such as depression and anxiety. Since the 2010s a replication crisis has been documented: a 2015 Open Science Collaboration project reproduced 36% of 100 studies, prompting reforms such as preregistration and open data. A 2010 analysis by Henrich, Heine, and Norenzayan noted that most research participants come from Western, educated, industrialized, rich, and democratic societies, raising questions about generalizing results.
+
+=== KEY: Psychopathy_c78049
+HEADWORD: Psychopathy = 사이코패시
+LEVEL: 4
+GLOSSARY:
+  Canadian = 캐나다
+  Criminology = 범죄학
+  Diagnostic and Statistical Manual = 정신질환 진단 및 통계 편람
+  Hare = 산토끼
+  Hervey M. Cleckley = 허비 M. 클레클리
+  Personality = 성격
+  Psychopathy = 사이코패시
+  Psychopathy Checklist = 사이코패시 체크리스트
+  Psychosis = 정신증
+  Robert D. Hare = 로버트 D. 헤어
+  antisocial personality disorder = 반사회성 인격 장애
+  meta-analysis = 메타 분석
+  recidivism = 재범
+  umbrella review = 우산 검토
+ENTRY:
+Personality construct characterized by impaired empathy and remorse, persistent antisocial behavior, and bold, disinhibited and egocentric traits. These traits are often masked by superficial charm and immunity to stress. The American psychiatrist Hervey M. Cleckley influenced early diagnostic criteria for antisocial personality disorder in the Diagnostic and Statistical Manual of Mental Disorders. Canadian psychologist Robert D. Hare later re-popularized the construct in [[Criminology|criminology]] with his Psychopathy Checklist. Although no psychiatric or psychological organization has sanctioned a formal diagnosis of this kind, assessments are used in criminal justice settings in some nations. A 2023 umbrella review and meta-analysis found a pooled correlation of r = 0.284 between the construct and dangerousness, including violent recidivism and self-reported aggression. It is categorically different from [[Psychosis|psychosis]].
+
+=== KEY: Psychosis_5c3fc0
+HEADWORD: Psychosis = 정신병
+LEVEL: 4
+GLOSSARY:
+  Bipolar disorder = 양극성 장애
+  Delusion = 망상
+  Dopamine = 도파민
+  Hallucination = 환각
+  Hippocrates = 히포크라테스
+  Psychopathy = 사이코패시
+  Psychosis = 정신증
+  Psychotherapy = 심리 치료
+  Schizophrenia = 조현병
+  United States = 미국
+  antipsychotic medication = 항정신병약
+  bipolar disorder = 양극성 장애
+  neurotransmitters = 신경전달물질
+ENTRY:
+Inability to distinguish what is real from what is not, characterized by [[Delusion|delusions]], [[Hallucination|hallucinations]] and disorganized thoughts or speech. Psychosis describes a person's state or symptoms rather than a specific mental illness, and it is unrelated to [[Psychopathy|psychopathy]]. Common causes of chronic psychosis include [[Schizophrenia|schizophrenia]], [[Bipolar disorder|bipolar disorder]] and brain damage, usually from alcoholism. Acute psychosis can be triggered by severe distress, sleep deprivation, some medications, or drug use and withdrawal. Treatment may include antipsychotic medication, [[Psychotherapy|psychotherapy]] and social support, and early treatment appears to improve outcomes. [[Dopamine|Dopamine]], along with other neurotransmitters, is known to play an important role, although the condition is not well understood at the neurological level. About 3% of people in the United States develop psychosis at some point in their lives. A similar condition was described by [[Hippocrates|Hippocrates]] in the 4th century BCE.
+
+=== KEY: Psychotherapy_3fc302
+HEADWORD: Psychotherapy = 심리 치료
+LEVEL: 4
+GLOSSARY:
+  Mental disorder = 정신 질환
+  Pseudoscience = 유사 과학
+  common factors = 공통 요인
+  talk therapy = 대화 치료
+  therapeutic relationship = 치료적 관계
+  umbrella review = 우산 검토
+ENTRY:
+Use of psychological methods, usually through regular personal interaction, to help a person change behavior, increase happiness and overcome problems. Also called talk therapy, it aims to improve well-being and mental health, to resolve troublesome behaviors, beliefs, compulsions, thoughts or emotions, and to improve relationships. There are hundreds of techniques, most involving one-to-one sessions, though some are conducted with groups, couples or families. Psychotherapists may be psychiatrists, psychologists, mental health nurses, clinical social workers or licensed counselors. Some types are evidence-based for treating [[Mental disorder|mental disorders]], while others have been criticized as [[Pseudoscience|pseudoscience]]. A 2022 umbrella review of 102 meta-analyses found that effect sizes for both psychotherapies and medications were generally small. Because many forms produce similar outcomes, theories hold that common factors, such as the therapeutic relationship, are key drivers of efficacy.
+
+=== KEY: Pteridophyte_a3cba8
+HEADWORD: Pteridophyte = 양치식물
+LEVEL: 4
+GLOSSARY:
+  Fern = 양치식물
+  Lycophyte = 석송류
+  Pteridophyta = 양치식물문
+  clubmosses = 석송
+  cryptogams = 은화식물
+  gametophyte = 배우체
+  horsetails = 속새류
+  monophyletic = 단계통
+  monophyletic group = 단계통군
+  phloem = 체관부
+  quillworts = 물부추
+  seed plants = 종자식물
+  sporophyte = 포자체
+  taxon = 분류군
+  xylem = 물관부
+ENTRY:
+Vascular plant with xylem and phloem that reproduces by spores rather than flowers or seeds. Because pteridophytes produce neither flowers nor seeds, they are sometimes called cryptogams, meaning their means of reproduction is hidden. [[Fern|Ferns]], horsetails and [[Lycophyte|lycophytes]] such as clubmosses and quillworts are all pteridophytes, but they do not form a monophyletic group, because ferns and horsetails are more closely related to seed plants than to lycophytes. As a result, *Pteridophyta* is no longer a widely accepted taxon, although the term remains in common use. Pteridophytes have free-living gametophyte and sporophyte phases that are independent at maturity. Ferns account for nearly 90% of extant pteridophyte diversity, and fossils date back more than 400 million years.
+
+=== KEY: Pterodactylus_590826
+HEADWORD: Pterodactylus = 프테로닥틸루스
+LEVEL: 5
+GLOSSARY:
+  Bavaria = 바이에른
+  Cretaceous = 백악기
+  Genus = 속
+  Germany = 독일
+  Jurassic = 쥐라기
+  Late Cretaceous = 후기 백악기
+  Late Jurassic = 후기 쥐라기
+  Pteranodon = 프테라노돈
+  Pterodactylus antiquus = 프테로닥틸루스 안티쿠우스
+  Quetzalcoatlus = 케찰코아틀루스
+  Solnhofen = 졸른호펜
+  Solnhofen limestone = 졸른호펜 석회암
+  pterosaurs = 익룡
+ENTRY:
+Genus of extinct pterosaurs, thought to contain only one species, *Pterodactylus antiquus*, the first pterosaur to be named and identified as a flying reptile. Fossils have mainly been found in the Solnhofen limestone of Bavaria, Germany, dating from the Late Jurassic, about 150.8 to 148.5 million years ago. A small generalist carnivore, it probably ate a variety of invertebrates and vertebrates. Its wing membrane stretched from an elongated fourth finger to its hind limbs, and it lived earlier than the much larger [[Quetzalcoatlus|Quetzalcoatlus]] and Pteranodon, which lived in the Late Cretaceous.
+
+=== KEY: Pteropus_b38870
+HEADWORD: Pteropus = 큰박쥐속
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Australia = 오스트레일리아
+  Australian = 오스트레일리아
+  Australian bat lyssavirus = 오스트레일리아 박쥐 리사바이러스
+  Crop = 작물
+  East Africa = 동아프리카
+  Genus = 속
+  Hendra virus = 헨드라 바이러스
+  Megabat = 큰박쥐
+  Nipah virus = 니파 바이러스
+  Pacific = 태평양
+  Pacific Oceans = 태평양
+  South Asia = 남아시아
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  echolocation = 반향 정위
+  flying foxes = 날여우박쥐
+  oceanic islands = 대양섬
+ENTRY:
+Genus of [[Megabat|megabats]], among the largest bats in the world, commonly known as fruit bats or flying foxes. At least 60 extant species live in South Asia, Southeast Asia, Australia, East Africa and oceanic islands of the Indian and Pacific Oceans. They eat fruit and other plant matter, navigate with keen eyesight and smell rather than echolocation, and are mostly nocturnal. Most species produce only one offspring per year, so populations are vulnerable to overhunting, and six flying fox species have been made extinct in modern times. Flying foxes are often persecuted for damaging [[Crop|crops]], yet they benefit forests by dispersing seeds and pollinating plants. They are reservoirs of disease agents including Hendra virus and Australian bat lyssavirus, and Nipah virus, also carried by flying foxes, has over 100 attributed fatalities.
+
+=== KEY: Pterosaur_62aa57
+HEADWORD: Pterosaur = 익룡
+LEVEL: 4
+GLOSSARY:
+  Cretaceous = 백악기
+  Dinosaur = 공룡
+  Hatzegopteryx = 하체고프테릭스
+  Late Triassic = 후기 트라이아스기
+  Quetzalcoatlus = 케찰코아틀루스
+  Triassic = 트라이아스기
+  anurognathids = 아누로그나투스과
+  down feathers = 솜털깃
+  pterodactyloids = 익수룡아목
+  pterosaurs = 익룡
+  pycnofibers = 피크노섬유
+ENTRY:
+Extinct order of warm-blooded flying reptiles, the earliest vertebrates known to have evolved powered flight. They lived from the Late Triassic to the end of the Cretaceous, about 228 to 66 million years ago. Their wings were formed by a membrane of skin, muscle and other tissues stretching from the ankles to a dramatically lengthened fourth finger. Basal pterosaurs were smaller, with toothed jaws and typically long tails, while later pterodactyloids had narrower wings, reduced tails and long necks with large heads. Their bodies were covered in hair-like filaments called pycnofibers, which may be homologous to the down feathers of [[Dinosaur|dinosaurs]]. Sizes ranged from very small anurognathids to giants such as [[Quetzalcoatlus|Quetzalcoatlus]] and Hatzegopteryx, which reached wingspans of at least nine meters. Although often called flying dinosaurs, pterosaurs were not dinosaurs; they were more closely related to birds and dinosaurs than to crocodiles.
+
+=== KEY: Pterygota_1280b7
+HEADWORD: Pterygota = 유시아강
+LEVEL: 4
+GLOSSARY:
+  Archaeognatha = 돌좀목
+  Beetle = 딱정벌레
+  Devonian = 데본기
+  Fly = 파리
+  Hymenoptera = 벌목
+  Lepidoptera = 나비목
+  Neoptera = 신시하강
+  Odonata = 잠자리목
+  Paleoptera = 고시하강
+  Silurian = 실루리아기
+  Zygentoma = 좀목
+  firebrats = 가시좀
+  infraclasses = 하강
+  jumping bristletails = 돌좀
+  molecular clock = 분자시계
+  paraphyletic = 측계통
+  silverfishes = 좀
+ENTRY:
+Subclass of insects that includes all winged insects and groups that lost their wings secondarily. It comprises 99.9% of all insects; the excluded orders are the primitively wingless Archaeognatha (jumping bristletails) and Zygentoma (silverfishes and firebrats). The oldest known representatives appeared during the mid-Carboniferous, around 328–324 million years ago, and the group rapidly diversified. Claims of earlier origins in the Silurian or Devonian, based on molecular clock estimates, are likely analytical artifacts. Traditionally divided into the infraclasses Paleoptera and Neoptera, the Paleoptera are now strongly suspected of being paraphyletic. Its orders include [[Beetle|beetles]], [[Fly|flies]], [[Lepidoptera|butterflies and moths]], [[Hymenoptera|ants and bees]] and [[Odonata|dragonflies and damselflies]].
+
+=== KEY: Ptolemaic_Kingdom_a75353
+HEADWORD: Ptolemaic Kingdom = 프톨레마이오스 왕조
+LEVEL: 4
+GLOSSARY:
+  Alexander the Great = 알렉산드로스 대왕
+  Alexandria = 알렉산드리아
+  Cleopatra = 클레오파트라 7세
+  Cleopatra VII = 클레오파트라 7세
+  Egypt = 이집트
+  Hellenistic = 헬레니즘
+  Macedonian = 마케도니아
+  Mediterranean = 지중해
+  Ptolemaic = 프톨레마이오스 왕조
+  Ptolemaic Egypt = 프톨레마이오스 왕조 이집트
+  Ptolemies = 프톨레마이오스 왕가
+  Ptolemy = 프톨레마이오스
+  Ptolemy I = 프톨레마이오스 1세
+  Ptolemy I Soter = 프톨레마이오스 1세 소테르
+  Ptolemy III = 프톨레마이오스 3세
+  Rome = 로마
+  ancient Egypt = 고대 이집트
+  pharaoh = 파라오
+ENTRY:
+Hellenistic Greek kingdom based in Egypt, founded in 305 BC by the Macedonian general [[Ptolemy I Soter|Ptolemy I Soter]]. Its capital was [[Alexandria|Alexandria]], a city founded by [[Alexander the Great|Alexander the Great]] that became a major center of Greek culture, learning and trade. The Ptolemies were the longest and final dynasty of ancient Egypt; they adopted the title of pharaoh and Egyptian customs, such as sibling marriage, while a Greek elite dominated the military and government. From the mid-3rd century BC, Ptolemaic Egypt was the wealthiest of Alexander's successor states, and under Ptolemy III it was the greatest power in the Mediterranean. Dynastic strife and foreign wars weakened the kingdom from the mid-2nd century BC. Under [[Cleopatra|Cleopatra VII]], Egypt was drawn into a Roman civil war and was conquered by Rome in 30 BC, becoming the last independent Hellenistic state.
+
+=== KEY: Ptolemy_I_Soter_8eddc6
+HEADWORD: Ptolemy I Soter = 프톨레마이오스 1세 소테르
+LEVEL: 4
+GLOSSARY:
+  Alexander the Great = 알렉산드로스 대왕
+  Alexandria = 알렉산드리아
+  Egypt = 이집트
+  Library = 도서관
+  Library of Alexandria = 알렉산드리아 도서관
+  Lighthouse = 등대
+  Lighthouse of Alexandria = 알렉산드리아 등대
+  Macedon = 마케도니아
+  Macedonian = 마케도니아
+  Macedonian Greek = 마케도니아계 그리스인
+  Memphis = 멤피스
+  Ptolemaic = 프톨레마이오스 왕조
+  Ptolemaic Kingdom = 프톨레마이오스 왕조
+  Seven = 「세븐」
+  Seven Wonders of the Ancient World = 고대 세계의 7대 불가사의
+  World = 세계
+  pharaoh = 파라오
+ENTRY:
+Macedonian Greek general, historian and pharaoh of Egypt (r. 305–282 BC). A trusted companion of [[Alexander the Great|Alexander the Great]], he was one of the seven bodyguards and held an independent command in the campaigns. After Alexander's death in 323 BC he took control of Egypt, and by 305 BC he had declared himself king, founding the [[Ptolemaic Kingdom|Ptolemaic Kingdom]]. He retrieved Alexander's body as it was en route to Macedon and placed it in Memphis, from where it was later moved to Alexandria. He also commanded the construction of the [[Library of Alexandria|Library of Alexandria]] and the Lighthouse of Alexandria, one of the [[Seven Wonders of the Ancient World|Seven Wonders of the Ancient World]]. He also wrote a history of Alexander's campaigns.
+
+=== KEY: Ptolemy_d12eb0
+HEADWORD: Ptolemy = 프톨레마이오스
+LEVEL: 4
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  Almagest = 『알마게스트』
+  Aristotelian = 아리스토텔레스적
+  Aristotelian natural philosophy = 아리스토텔레스 자연철학
+  Astrology = 점성술
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Church = 처치
+  Europe = 유럽
+  Geography = 『지리학』
+  Greco-Roman world = 그리스·로마 세계
+  Islamic world = 이슬람 세계
+  Middle Ages = 중세
+  Optics = 광학
+  Tetrábiblos = 『테트라비블로스』
+  geocentric model = 천동설
+  harmonics = 화성학
+  music theory = 음악 이론
+  natural philosophy = 자연 철학
+ENTRY:
+Greco-Roman writer on astronomy, geography, astrology and music theory, who lived and worked in [[Alexandria|Alexandria]] under Roman rule. His treatise on astronomy, the *Almagest*, provided mathematical models and tables for celestial motion, including a catalog of 1,022 stars, and its geocentric model remained the standard astronomical reference in Europe and the Islamic world until the 17th century. His *Geography* discussed maps and the geographic knowledge of the Greco-Roman world, using latitude and longitude to map the known world. The *Tetrábiblos* attempted to adapt horoscopic [[Astrology|astrology]] to Aristotelian natural philosophy. He also wrote on [[Optics|optics]] and harmonics. The [[Catholic Church|Catholic Church]] promoted his work, which was copied and studied through the Middle Ages.
+
+=== KEY: Puberty_2ea377
+HEADWORD: Puberty = 사춘기
+LEVEL: 4
+GLOSSARY:
+  Adolescence = 청소년기
+  Ejaculation = 사정
+  Hormone = 호르몬
+  Puberty = 사춘기
+  gonads = 생식샘
+  menarche = 초경
+ENTRY:
+Process of physical change through which a child's body matures into an adult body capable of sexual reproduction. It is initiated by hormonal signals from the brain to the gonads, which produce [[Hormone|hormones]] that drive growth of the brain, bones, muscle, skin, breasts and sex organs. On average, females begin puberty at age 10.5 and complete it at 15–17; males begin at 11.5–12 and complete it at 16–17. The landmark for females is menarche, the onset of menstruation, at about age 12.5; for males, [[Ejaculation|first ejaculation]] occurs on average at age 13. Puberty that starts earlier or later than usual is called precocious or delayed puberty. The word describes physical changes, while the psychosocial transition from child to adult is termed [[Adolescence|adolescence]]. Females reach reproductive maturity about four years after the first physical changes, whereas males keep growing for about six years after theirs.
+
+=== KEY: Pubic_hair_fd4fbe
+HEADWORD: Pubic hair = 음모
+LEVEL: 5
+GLOSSARY:
+  Estrogen = 에스트로겐
+  Puberty = 사춘기
+  Tanner scale = 태너 단계
+  androgens = 안드로겐
+  pubarche = 음모 발생
+  pubic hair = 음모
+  vellus hair = 솜털
+ENTRY:
+Terminal body hair found in the genital area and pubic region of adolescent and adult humans. It is heavier, longer and coarser than the fine vellus hair of childhood and develops during [[Puberty|puberty]] in response to rising androgens in males and [[Estrogen|estrogens]] in females, an onset known as pubarche. The Tanner scale quantifies its development in five stages. Many cultures regard it as erotic, and in some cultures removal, especially of female pubic hair, is considered part of personal hygiene.
+
+=== KEY: Public_3d067b
+HEADWORD: Public = 공중
+LEVEL: 4
+GLOSSARY:
+  Community = 공동체
+  James = 야고보
+  John = 존
+  John Dewey = 존 듀이
+  Latin = 라틴어
+  Market (economics) = 시장
+  Public relations = 홍보
+  populus = 포풀루스
+  public relations = 홍보
+  publicus = 푸블리쿠스
+  situational theory = 상황 이론
+  stakeholders = 이해관계자
+ENTRY:
+Group of individual people concerned with a common issue, as the term is used in public relations and communication science. The public, or general public, is the totality of such groupings. The word derives from Latin *publicus*, from *populus*, meaning people. In public relations, [[John Dewey|John Dewey]] defined a public as a group of people who, facing a similar problem, recognize it and organize to address it. James E. Grunig's situational theory distinguishes nonpublics, latent publics, aware publics and active publics. A public is a subset of an organization's [[Public relations|stakeholders]] and, unlike a [[Market (economics)|market]], does not necessarily have an exchange relationship. The concept has often been blurred with audience, market segment, [[Community|community]] and constituency.
+
+=== KEY: Public_administration_83148d
+HEADWORD: Public administration = 행정학
+LEVEL: 4
+GLOSSARY:
+  Carroll and Zuck = 캐럴과 저크
+  Max Weber = 막스 베버
+  Political science = 정치학
+  The Study of Administration = 「행정의 연구」
+  Woodrow Wilson = 우드로 윌슨
+  bureaucracy = 관료제
+  public administration = 행정학
+ENTRY:
+Implementation of public policies, which are proposed or decided actions to solve social and economic problems. It generally occurs through government programs in the public sector, but also through nonprofit organizations and businesses that supply goods and services to government. It is closely related to [[Political science|political science]] and is taught in public policy schools as a subfield of it. Carroll and Zuck called [[Woodrow Wilson|Woodrow Wilson]]'s essay "The Study of Administration" the beginning of public administration as a specific and influential field of study. The mid-20th century saw the rise of [[Max Weber|Max Weber]]'s theory of bureaucracy, which brought substantive interest in the field's theoretical aspects. The discipline is also recognized as applicable to private businesses and nonprofit organizations.
+
+=== KEY: Public_domain_675db4
+HEADWORD: Public domain = 퍼블릭 도메인
+LEVEL: 5
+GLOSSARY:
+  Beethoven = 베토벤
+  Cervantes = 세르반테스
+  Copyright = 저작권
+  Ludwig = 루트비히
+  Ludwig van Beethoven = 루트비히 판 베토벤
+  Miguel de Cervantes = 미겔 데 세르반테스
+  Newtonian physics = 뉴턴 역학
+  Rights = 인권
+  Shakespeare = 셰익스피어
+  United States = 미국
+  William = 윌리엄
+  William Shakespeare = 윌리엄 셰익스피어
+  intellectual property = 지식 재산
+  public domain = 퍼블릭 도메인
+  reference implementations = 참조 구현
+ENTRY:
+Creative works to which no exclusive intellectual property rights apply, so anyone may use them without permission. Rights may have expired, been forfeited or waived, or may never have applied. Works by [[William Shakespeare|William Shakespeare]], [[Ludwig van Beethoven|Ludwig van Beethoven]] and [[Miguel de Cervantes|Miguel de Cervantes]] are public domain because they predate [[Copyright|copyright]] or their terms have expired. In the United States, copyright excludes formulas of Newtonian physics and cooking recipes. Authors may also dedicate works to the public domain, as with reference implementations of cryptographic algorithms. Rights vary by country, so a work may be protected in one country and public domain in another.
+
+=== KEY: Public_health_8b4110
+HEADWORD: Public health = 공중 보건
+LEVEL: 4
+GLOSSARY:
+  Epidemiology = 역학
+  Liverpool = 리버풀
+  London = 런던
+  Sanitation = 위생
+  Vaccination = 예방 접종
+  biostatistics = 생물통계학
+ENTRY:
+Science of preventing disease, prolonging life and promoting health through the organized efforts and informed choices of society, organizations, communities and individuals. It is an interdisciplinary field drawing on [[Epidemiology|epidemiology]], biostatistics, social sciences and health services management. Its work includes surveillance of cases and health indicators and promotion of healthy behavior, such as hand-washing, [[Vaccination|vaccination]], ventilation, smoking cessation and condom distribution. Great Britain led early development in the 19th century, with work on [[Sanitation|sanitation]], including the Liverpool and London sewerage systems, and on infectious diseases through vaccination and quarantine. In developing countries, public health infrastructure is still forming, and poor maternal and child health, malnutrition and poverty are major concerns. Developed nations face risks such as childhood obesity.
+
+=== KEY: Public_key_cryptography_2ca927
+HEADWORD: Public-key cryptography = 공개 키 암호 방식
+LEVEL: 5
+GLOSSARY:
+  MIME = MIME
+  Security = 보안
+  Transport = 교통
+  Transport Layer Security = 전송 계층 보안
+  digital signature = 디지털 서명
+  hybrid systems = 하이브리드 암호 체계
+  one-way functions = 일방향 함수
+  public-key encryption = 공개 키 암호화
+  symmetric keys = 대칭 키
+ENTRY:
+Cryptographic system that uses pairs of related keys: a public key that can be openly distributed and a private key that must be kept secret. Key pairs are generated with algorithms based on one-way functions. Before the mid-1970s, all cipher systems used symmetric keys shared by both parties, which became unmanageable as the number of participants grew. The main types are digital signature and public-key encryption. Public key algorithms underpin standards such as [[Transport Layer Security|Transport Layer Security]] (TLS), SSH, S/MIME and PGP, usually combined with symmetric cryptography in hybrid systems because public-key methods can be too slow for many purposes.
+
+=== KEY: Public_policy_ad0981
+HEADWORD: Public policy = 공공 정책
+LEVEL: 4
+GLOSSARY:
+  Economics = 경제학
+  Harold Lasswell = 해럴드 라스웰
+  Public administration = 행정학
+  The Decision Process = 『결정 과정』
+  agenda setting = 의제 설정
+  policy cycle = 정책 순환
+  public administration = 행정학
+ENTRY:
+Set of laws, regulations, guidelines and other actions that a government implements or proposes to address social issues. It is often implemented through programs in education, health care, employment, finance, [[Economics|economics]] and transportation, and its implementation is known as [[Public administration|public administration]]. Scholars define it either as the sum of a government's direct and indirect activities or by its stated goals. A popular model is the policy cycle, first discussed by political scientist Harold Lasswell in *The Decision Process* (1956), with the stages of agenda setting, policy formulation, legitimation, implementation and evaluation. Policies are made by many actors, including elected politicians, party leaders, civil servants, judges and pressure groups. Common instruments include regulations, subsidies, taxes and spending plans.
+
+=== KEY: Public_relations_149d03
+HEADWORD: Public relations = 홍보
+LEVEL: 4
+GLOSSARY:
+  Advertising = 광고
+  Company = 회사
+  Journalism = 저널리즘
+  Public relations = 홍보
+  Social media = 소셜 미디어
+  Website = 웹사이트
+  earned media = 언드 미디어
+  press releases = 보도 자료
+  publicity = 퍼블리시티
+  social media = 소셜 미디어
+ENTRY:
+Practice of managing information from an organization to the public in order to influence perception. Public relations (PR) differs from publicity in that PR is controlled internally, whereas publicity is contributed by external parties. PR seeks media exposure, often without direct payment, known as earned media, which distinguishes it from paid [[Advertising|advertising]]. PR and [[Journalism|journalism]] share close media relations, but journalism reports events with objectivity, while PR presents developments in ways that support the interests of the organization it represents. Practitioners write press releases, arrange interviews for spokespeople, manage [[Company|company]] reputation and crises, and produce content for [[Social media|social media]] and [[Website|websites]]. The aim is to inform the public, customers, investors and employees, and to persuade them to maintain a favorable view of the organization.
+
+=== KEY: Public_transport_e2e941
+HEADWORD: Public transport = 대중교통
+LEVEL: 4
+GLOSSARY:
+  Airline = 항공사
+  Aswan = 아스완
+  Egypt = 이집트
+  Greek mythology = 그리스 신화
+  High-speed rail = 고속 철도
+  Japan = 일본
+  North America = 북아메리카
+  Train = 열차
+  Transport = 교통
+  ancient Egypt = 고대 이집트
+  cataract = 폭포
+  rapid transit = 도시 철도
+  trams = 노면 전차
+ENTRY:
+Transport made available for use by the general public, typically operating on fixed routes and schedules for a standardized fare. Common modes include city buses, trams, rapid transit, passenger trains and ferries. Intercity service is provided mainly by coaches, intercity [[Train|rail]] and [[Airline|airlines]], with [[High-speed rail]] networks under development in several regions. Systems vary widely by region. In [[Japan]], many urban networks are run by private companies, often integrated with real estate development. In North America, mass transit is usually operated by municipal or regional transit authorities funded by fares, local taxes and government subsidies. The earliest public transport was water transport: ferries appear in [[Greek mythology]], and in ancient Egypt canals carried freight around the [[Aswan]] cataract.
+
+=== KEY: Publishing_9fb1f5
+HEADWORD: Publishing = 출판
+LEVEL: 3
+GLOSSARY:
+  Book = 책
+  Comic book = 만화책
+  E-commerce = 전자 상거래
+  Gutenberg = 구텐베르크
+  ISBN = 국제 표준 도서 번호
+  Johannes Gutenberg = 요하네스 구텐베르크
+  Magazine = 잡지
+  News = 뉴스
+  News Corp = 뉴스 코퍼레이션
+  Newspaper = 신문
+  Oxford = 옥스퍼드
+  Oxford University = 옥스퍼드 대학교
+  Oxford University Press = 옥스퍼드 대학교 출판부
+  Pearson = 피어슨
+  Peer review = 동료 평가
+  Penguin = 펭귄
+  Penguin Random House = 펭귄 랜덤하우스
+  Random House = 랜덤하우스
+  Reuters = 로이터
+  Thomson Reuters = 톰슨 로이터
+  University = 대학
+  Video game = 비디오 게임
+  aggregate = 골재
+  digital printing = 디지털 인쇄
+  imprint = 임프린트
+  movable-type printing = 활자 인쇄
+  social media = 소셜 미디어
+  trade publishing = 일반 출판
+  university press = 대학 출판부
+  zines = 진
+ENTRY:
+Process of making information, literature, music, software, and other content available to the public, in physical or digital form, for sale or free of charge. Traditionally the term meant the creation and distribution of printed works such as books, zines, [[Comic book|comic books]], [[Newspaper|newspapers]], and [[Magazine|magazines]]. Digital systems have extended it to e-books, websites, social media, music, and [[Video game|video game]] publishing. It has evolved from a small, ancient form limited by law or religion into a large-scale modern industry. The development of movable-type printing by [[Johannes Gutenberg]] around 1440 drastically reduced costs and widened access to books.
+
+The commercial industry ranges from multinational conglomerates such as News Corp, Pearson, Penguin Random House, and Thomson Reuters to thousands of small independent publishers. Its divisions include trade publishing of fiction and non-fiction, educational publishing, and academic and scientific publishing. "Publisher" can mean a publishing company, an organization, or an individual who leads a company, imprint, periodical, or newspaper.
+
+Newspapers publish current reports by journalists and are usually subsidized with advertising. Academic and technical journals usually require submissions to undergo [[Peer review|peer review]]. Book publishing covers fiction and non-fiction in print, e-book, and audiobook form, and each book has a registered [[ISBN]], standardized in 1966; self-publishing is made possible by small-run digital printing and online platforms. A university press is run by a university, and Oxford University Press is the largest in the world. Print catalogs have evolved into searchable product databases known as [[E-commerce|e-commerce]]. In 2024 the U.S. industry reported $32.5 billion in aggregate revenue, and the global books market was approximately $151 billion, with print still dominating digital formats.
+
+=== KEY: Puebla_city_57399d
+HEADWORD: Puebla = 푸에블라
+LEVEL: 4
+GLOSSARY:
+  Audi = 아우디
+  Baroque = 바로크
+  Cholula = 촐룰라
+  City = 도시
+  Germany = 독일
+  Guadalajara = 과달라하라
+  Mexican Baroque = 멕시코 바로크
+  Mexico = 멕시코
+  Mexico City = 멕시코시티
+  Monterrey = 몬테레이
+  Puebla state = 푸에블라주
+  Renaissance = 르네상스
+  Talavera pottery = 탈라베라 도자기
+  Tlaxcala = 틀락스칼라
+  Veracruz = 베라크루스주
+  Veracruz (city) = 베라크루스
+  Volkswagen = 폭스바겐
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  chiles en nogada = 칠레스 엔 노가다
+  mole poblano = 몰레 포블라노
+ENTRY:
+Capital and largest city of Puebla state, Mexico. Founded in 1531 as a planned Spanish city between the indigenous settlements of Tlaxcala and Cholula, it lies on the main route between [[Mexico City]] and the Atlantic port of [[Veracruz (city)|Veracruz]]. It is the fourth-largest city in Mexico, after Mexico City, [[Monterrey]] and [[Guadalajara]], with a current population of 3,344,000. Its history and architecture, ranging from Renaissance to Mexican Baroque, led to its designation as a [[World Heritage Site]] in 1987. The city is known for mole poblano, chiles en nogada and Talavera pottery, but its economy is mostly industrial. It has the world's largest Volkswagen factory outside Germany, and many suppliers to Volkswagen and Audi plants have opened factories in the metropolitan area.
+
+=== KEY: Puella_Magi_Madoka_Magica_060d07
+HEADWORD: Puella Magi Madoka Magica = 마법소녀 마도카☆마기카
+LEVEL: 5
+GLOSSARY:
+  Anime = 애니메이션
+  Blu-ray = 블루레이
+  Japan = 일본
+  Magica Quartet = 마기카 쿼텟
+  Manga = 만화
+  PlayStation = 플레이스테이션
+  PlayStation Portable = 플레이스테이션 포터블
+  Quartet = 「콰르텟」
+  Shaft = 샤프트
+  magical girl subgenre = 마법소녀물
+  magical girls = 마법소녀
+ENTRY:
+Japanese [[Anime|anime]] television series and its franchise. Created by Magica Quartet and animated by Shaft, it follows middle school girls who make contracts to become magical girls and fight creatures called witches. The first 10 episodes aired between January and March 2011. The franchise includes a [[Manga|manga]] adaptation, a [[PlayStation Portable]] game and several films, and the series received widespread critical acclaim for its complex narrative and unconventional approach to the magical girl subgenre. Each [[Blu-ray]] volume sold more than 50,000 copies in Japan.
+
+=== KEY: Puerto_Rico_f76257
+HEADWORD: Puerto Rico = 푸에르토리코
+LEVEL: 4
+GLOSSARY:
+  Christopher Columbus = 크리스토퍼 콜럼버스
+  Columbus = 콜럼버스
+  Commonwealth = 영연방
+  Commonwealth of Puerto Rico = 푸에르토리코 자치령
+  Congress = 의회
+  Indigenous = 원주민
+  Indigenous peoples = 원주민
+  Manufacturing = 제조업
+  Miami = 마이애미
+  Puerto Rico = 푸에르토리코
+  Spain = 스페인
+  Spanish–American War = 미국-스페인 전쟁
+  Taíno = 타이노족
+  United States = 미국
+  unincorporated territory = 비편입 영토
+ENTRY:
+Caribbean archipelago and unincorporated territory of the [[United States]], officially the Commonwealth of Puerto Rico. Located about 1,000 miles (1,600 km) southeast of [[Miami]], it has approximately 3.2 million people and 78 municipalities. Spanish and English are official languages, though Spanish predominates. The island was settled by Indigenous peoples, including the [[Taíno]]. Spain claimed it after [[Christopher Columbus]] arrived in 1493, and it remained Spanish until the [[Spanish–American War]] of 1898, after which the United States acquired it. Puerto Ricans have been U.S. citizens since 1917, but residents are disenfranchised from federal elections, and the territory sends a nonvoting representative to Congress. Its political status remains a subject of debate. Manufacturing, mainly of pharmaceuticals, petrochemicals and electronics, and tourism are the major sectors of the economy.
+
+=== KEY: Puffin_9e520f
+HEADWORD: Puffin = 코뿔바다오리속
+LEVEL: 5
+GLOSSARY:
+  Atlantic puffin = 코뿔바다오리
+  Auk = 바다오리과
+  Fratercula = 코뿔바다오리속
+  Genus = 속
+  Manx = 맨어
+  Manx shearwaters = 맹크스슴새
+  North Atlantic = 북대서양
+  North Pacific = 북태평양
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  Seabird = 바닷새
+ENTRY:
+Genus of three species of small pelagic [[Seabird|seabirds]] in the [[Auk|auk]] family, *Fratercula*. Puffins feed mainly by diving and breed in large colonies on coastal cliffs or offshore islands. The Atlantic puffin lives in the North Atlantic, while the tufted and horned puffins are found in the [[Pacific Ocean|North Pacific]]. All species have predominantly black or black-and-white plumage and large beaks that are brightly colored during the breeding season, when the colorful outer part of the bill is shed afterward. The name was originally applied to the fatty, salted meat of young Manx shearwaters.
+
+=== KEY: Pulitzer_Prize_94e831
+HEADWORD: Pulitzer Prize = 퓰리처상
+LEVEL: 5
+GLOSSARY:
+  City = 도시
+  Columbia = 컬럼비아
+  Columbia University = 컬럼비아 대학교
+  Joseph Pulitzer = 조지프 퓰리처
+  New York City = 뉴욕
+  Public Service = 공공 봉사 부문
+  Pulitzer Prize = 퓰리처상
+  Pulitzer Prize Board = 퓰리처상 위원회
+  University = 대학
+  York = 요크
+ENTRY:
+Series of annual American awards for achievements in journalism, arts and letters. Administered by [[Columbia University]] in [[New York City]], the prizes were funded by the will of [[Joseph Pulitzer]], a Hungarian-American newspaper publisher, and the first were awarded in June 1917. Of the 23 awards, 15 are for journalism and eight for books, drama and music. Three finalists are named for each award, and winners are chosen each spring after recommendations from the Pulitzer Prize Board. Each award carries a certificate and a $15,000 prize, except Public Service, where the winning news organization receives a gold medal.
+
+=== KEY: Pulley_ba4190
+HEADWORD: Pulley = 도르래
+LEVEL: 4
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  Ancient Egypt = 고대 이집트
+  Archimedes = 아르키메데스
+  Chain = 사슬
+  Dynasty = 「다이너스티」
+  Egypt = 이집트
+  Hero of Alexandria = 알렉산드리아의 헤론
+  Mesopotamia = 메소포타미아
+  Plutarch = 플루타르코스
+  Rope = 밧줄
+  Twelfth Dynasty = 제12왕조
+  Wheel = 바퀴
+  ancient Egypt = 고대 이집트
+  block and tackle = 복합 도르래
+  compound pulleys = 복합 도르래
+  mechanical advantage = 기계적 이득
+  sheave = 홈도르래
+  simple machines = 단순 기계
+ENTRY:
+Wheel on an axle or shaft that guides a taut [[Rope|rope]], [[Chain|chain]] or belt, changing its direction or transferring power. A grooved pulley wheel is also called a sheave. The earliest evidence comes from [[Ancient Egypt|ancient Egypt]] in the Twelfth Dynasty (1991–1802 BC) and from [[Mesopotamia]] in the early 2nd millennium BC. [[Hero of Alexandria]] identified the pulley as one of six simple machines used to lift weights. A block and tackle, which combines pulleys, gives a mechanical advantage equal to the number of rope sections supporting the moving block. Plutarch recounts that [[Archimedes]] used compound pulleys to draw a fully laden ship toward him as if it were gliding through water. Pulleys also drive belts and chains that transmit power between shafts.
+
+=== KEY: Pulmonology_812def
+HEADWORD: Pulmonology = 호흡기내과학
+LEVEL: 4
+GLOSSARY:
+  Asbestos = 석면
+  Asthma = 천식
+  Cardiology = 심장학
+  Emphysema = 폐기종
+  Galen = 갈레노스
+  Ibn al-Nafis = 이븐 알나피스
+  Medicine = 의학
+  Pneumonia = 폐렴
+  Tuberculosis = 결핵
+  cardiothoracic surgery = 흉부외과
+  cystic fibrosis = 낭포성 섬유증
+  internal medicine = 내과
+  mechanical ventilation = 기계 환기
+  pulmonary circulation = 폐순환
+  septum = 심장 중격
+ENTRY:
+Medical specialty concerned with diseases of the respiratory tract, also called pneumology, respirology or respiratory medicine. Pulmonology is a branch of [[Medicine|internal medicine]] closely related to intensive care, since pulmonologists often manage patients who need mechanical ventilation. They treat conditions such as [[Pneumonia]], [[Asthma]], [[Tuberculosis]], [[Emphysema]] and complicated chest infections, and work closely with [[Cardiology]] and cardiothoracic surgery departments. Diagnosis considers hereditary diseases such as cystic fibrosis and exposure to toxicants such as tobacco smoke and [[Asbestos]]. [[Galen]] had theorized that blood crossed the heart through pores in the septum; in the 13th century, Ibn al-Nafis argued that blood instead passes through the lungs, believed by many to be the first scientific description of pulmonary circulation.
+
+=== KEY: Pulp_Fiction_ef62f8
+HEADWORD: Pulp Fiction = 펄프 픽션
+LEVEL: 5
+GLOSSARY:
+  Academy Awards = 아카데미상
+  Best Original Screenplay = 각본상
+  Bruce Willis = 브루스 윌리스
+  Cannes = 칸
+  Cannes Film Festival = 칸 영화제
+  Congress = 의회
+  Festival = 축제
+  Film = 영화
+  John = 존
+  John Travolta = 존 트라볼타
+  Library = 도서관
+  Library of Congress = 미국 의회 도서관
+  Los Angeles = 로스앤젤레스
+  National Film Registry = 국립 영화 등기부
+  Palme d'Or = 황금종려상
+  Quentin = 퀜틴
+  Quentin Tarantino = 쿠엔틴 타란티노
+  Roger Avary = 로저 에이버리
+  Samuel L. Jackson = 새뮤얼 L. 잭슨
+  Uma Thurman = 우마 서먼
+  magnum opus = 대표작
+ENTRY:
+1994 American crime film written and directed by [[Quentin Tarantino]] from a story he conceived with Roger Avary. Its four intertwining tales of crime and violence in [[Los Angeles]] unfold out of chronological order. The cast includes [[John Travolta]], [[Samuel L. Jackson]], [[Bruce Willis]] and [[Uma Thurman]]. The film won the Palme d'Or at the 1994 Cannes Film Festival and received seven nominations at the 67th [[Academy Awards]], winning Best Original Screenplay. Its success revived Travolta's career. Critics regard it as Tarantino's magnum opus and a touchstone of postmodern film. In 2013 the [[Library of Congress]] selected it for the National Film Registry.
+
+=== KEY: Pulsar_b3a907
+HEADWORD: Pulsar = 펄서
+LEVEL: 4
+GLOSSARY:
+  Antony Hewish = 앤터니 휴이시
+  Atomic clock = 원자시계
+  Bell = 종
+  Earth = 지구
+  Electromagnetic radiation = 전자기 복사
+  Exoplanet = 외계 행성
+  Gravitational wave = 중력파
+  Jocelyn Bell = 조슬린 벨
+  LGM-1 = LGM-1
+  Lighthouse = 등대
+  Neutron star = 중성자별
+  Radio telescope = 전파 망원경
+  binary neutron star = 쌍성 중성자별
+  electromagnetic radiation = 전자기 복사
+  extrasolar planets = 외계 행성
+  gravitational radiation = 중력 복사
+  neutron star = 중성자별
+  star system = 스타 시스템
+ENTRY:
+Rotating [[Neutron star|neutron star]] that emits beams of [[Electromagnetic radiation|electromagnetic radiation]] from its magnetic poles. The beams are observable only when they point toward Earth, much as a [[Lighthouse|lighthouse]] is visible only when its light faces an observer. Pulses recur at highly regular intervals, ranging from milliseconds to seconds. In 1967 Jocelyn Bell, working with Antony Hewish, detected the first pulsar in data from a [[Radio telescope|radio telescope]] she helped build; the signals were at first nicknamed LGM-1, for little green men. In 1983 some pulsars were found to keep time more accurately than [[Atomic clock|atomic clocks]]. Observations of a pulsar in a binary neutron star system indirectly confirmed the existence of [[Gravitational wave|gravitational radiation]]. The first [[Exoplanet|extrasolar planets]] were discovered around a pulsar in 1992.
+
+=== KEY: Pulse_ec8374
+HEADWORD: Pulse = 맥박
+LEVEL: 4
+GLOSSARY:
+  Artery = 동맥
+  Atrial fibrillation = 심방세동
+  Galen = 갈레노스
+  Heart = 심장
+  Hemoglobin = 헤모글로빈
+  Pulse = 맥박
+  Pulse oximeters = 맥박 산소 측정기
+  Shock (circulatory) = 쇼크
+  atrial fibrillation = 심방세동
+  brachial artery = 위팔동맥
+  cardiac output = 심박출량
+  oxygen saturation = 산소 포화도
+  pulse deficit = 맥박 결손
+  systolic blood pressure = 수축기 혈압
+ENTRY:
+Rhythmic expansion and contraction of an [[Artery|artery]] in response to the heartbeat, which can be felt at sites such as the neck, wrist, groin and behind the knee. It is most commonly measured at the wrist or neck in adults and at the brachial artery in infants, and is recorded in beats per minute. [[Galen]] may have been the first physiologist to describe the pulse, which gives a trained observer a tactile estimate of systolic blood pressure. In healthy people the pulse rate is close to the [[Heart|heart]] rate, but in a pulse deficit some heartbeats do not produce a pulse at the periphery. A regular pulse is normal, whereas an irregular one may result from [[Atrial fibrillation|atrial fibrillation]]. A weak pulse may indicate low cardiac output, as in [[Shock (circulatory)|shock]]. Pulse oximeters estimate oxygen saturation by measuring light absorbed by [[Hemoglobin|hemoglobin]].
+
+=== KEY: Pumice_7c53e9
+HEADWORD: Pumice = 부석
+LEVEL: 5
+GLOSSARY:
+  Abrasive = 연마재
+  California = 캘리포니아주
+  Concrete = 콘크리트
+  Magma = 마그마
+  Mexico = 멕시코
+  New Mexico = 뉴멕시코주
+  Oregon = 오리건주
+  Pumice = 부석
+  Volcano = 화산
+  aggregate = 골재
+  pumicite = 부석 가루
+  scoria = 스코리아
+  vesicular = 다공질
+  volcanic glass = 화산 유리
+ENTRY:
+Typically light-colored volcanic rock made of extremely vesicular volcanic glass; its powdered form is called pumicite. Pumice forms when gas-rich [[Magma|magma]] is ejected from a [[Volcano|volcano]], where rapid depressurization and cooling freeze gas bubbles into the glass. Its porosity of 64–85% by volume lets it float on water, possibly for years. Floating pumice can form rafts that are hazardous to ships. Unlike dark, denser scoria, pumice is used as an [[Abrasive|abrasive]] and as a lightweight aggregate in [[Concrete|concrete]]. Major deposits occur in [[Oregon]], [[New Mexico]] and [[California]].
+
+=== KEY: Pumping_station_2e2f6c
+HEADWORD: Pumping station = 양수장
+LEVEL: 4
+GLOSSARY:
+  Canal = 운하
+  Lock (water navigation) = 갑문
+  Pumped-storage hydroelectric = 양수 발전
+  Sea level = 해수면
+  The Fens = 펜스
+  Victorian = 빅토리아 시대
+  Victorian era = 빅토리아 시대
+  Water supply = 상수도
+ENTRY:
+Public utility building containing pumps and equipment for moving fluids from one place to another. Pumping stations are critical to [[Water supply|water supply]], the drainage of low-lying land, [[Canal|canal]] systems and the removal of sewage. Canals lose water through [[Lock (water navigation)|lock]] use and leakage, and a pumping station can supply the water where no other source exists. Draining land below [[Sea level]] requires pumping water upward into channels that drain to the sea, a method pioneered in the [[Victorian era]] in The Fens of the U.K. Wastewater stations handle sewage, and submersible designs are more compact and less visible. Pumped-storage hydroelectric schemes use pumping stations to move water between reservoirs at different elevations, storing and generating energy.
+
+=== KEY: Pumpkin_423a2a
+HEADWORD: Pumpkin = 호박
+LEVEL: 4
+GLOSSARY:
+  Bean = 콩
+  Berry (botany) = 장과
+  C. maxima = C. maxima
+  C. pepo = C. pepo
+  Canada = 캐나다
+  Cucurbita = 호박속
+  Halloween = 핼러윈
+  Indigenous = 원주민
+  Indigenous societies = 원주민 사회
+  Maize = 옥수수
+  Mesoamerica = 메소아메리카
+  Pumpkin = 호박
+  Pumpkin pie = 호박 파이
+  Thanksgiving = 추수감사절
+  Three Sisters = 세 자매
+  Tonne = 톤
+  United States = 미국
+  jack-o'-lanterns = 잭오랜턴
+  pepo = 박과 열매
+  winter squash = 겨울 호박
+ENTRY:
+Cultivated winter squash in the genus [[Cucurbita]], most often applied to round, orange-colored varieties. Its fruit is a [[Berry (botany)|berry]] called a pepo, with a thick shell enclosing edible seeds and pulp. Some pumpkins, such as *C. pepo*, are among the oldest known domesticated plants, cultivated between 7000 BCE and 5500 BCE in [[Mesoamerica]]. Many North American Indigenous societies grew them with [[Maize|maize]] and [[Bean|beans]] in the Three Sisters system. Giant pumpkins, mostly *C. maxima*, can exceed a [[Tonne|tonne]]; the heaviest recorded pumpkin weighed 1,246.9 kg in October 2023. Pumpkin pie is a traditional Thanksgiving dish in Canada and the [[United States]], and pumpkins are carved as jack-o'-lanterns for [[Halloween]].
+
+=== KEY: Puncak_Jaya_05ae61
+HEADWORD: Puncak Jaya = 푼착자야산
+LEVEL: 4
+GLOSSARY:
+  Australian = 오스트레일리아
+  Australian and Pacific plates = 오스트레일리아판과 태평양판
+  Carstensz Pyramid = 카르스텐츠 피라미드
+  Central Papua = 중앙파푸아주
+  Central Range = 중앙산맥
+  Dutch = 네덜란드어
+  Earth = 지구
+  Grasberg = 그라스베르크
+  Guinea = 기니
+  Indonesia = 인도네시아
+  Jan Carstenszoon = 얀 카르스텐스존
+  Miocene = 마이오세
+  Mountain = 산
+  New Guinea = 뉴기니섬
+  Oceania = 오세아니아
+  Pacific = 태평양
+  Papua = 파푸아
+  Puncak Jaya = 푼착자야산
+  Pyramid = 피라미드
+  Seven = 「세븐」
+  Seven Summits = 7대륙 최고봉
+  Sudirman Range = 수디르만산맥
+ENTRY:
+Mountain on the island of [[New Guinea]], the highest peak of an island on Earth and the highest in [[Indonesia]] and [[Oceania]]. It rises 4,884 m (16,024 ft) in the Sudirman Range of Central Papua. The peak is also called Carstensz Pyramid, after the Dutch explorer Jan Carstenszoon, who was the first European to sight its glaciers, in 1623. Puncak Jaya is often counted among the Seven Summits and is the highest point of the Central Range, a chain formed in the late [[Miocene]] by an oblique collision between the Australian and Pacific plates. Its summit is free of ice, but its glaciers have retreated significantly since the 1850s. The nearby Grasberg gold and copper mine, the world's second-largest gold mine, lies about 4 km west of the peak.
+
+=== KEY: Punched_card_fc3e74
+HEADWORD: Punched card = 천공 카드
+LEVEL: 4
+GLOSSARY:
+  Basile Bouchon = 바질 부숑
+  Calculating Engine = 계산 기관
+  Charles Babbage = 찰스 배비지
+  Computer = 컴퓨터
+  Engine = 기관
+  Herman Hollerith = 허먼 홀러리스
+  IBM = IBM
+  Joseph Marie Jacquard = 조제프 마리 자카르
+  Loom = 베틀
+  Magnetic tape = 자기 테이프
+  command-line interfaces = 명령줄 인터페이스
+  punched cards = 천공 카드
+ENTRY:
+Stiff paper card that stores digital information through the presence or absence of holes in predefined positions. Developed over the 19th and 20th centuries, punched cards were first used to control [[Loom|looms]] and later to record census data. Basile Bouchon controlled a loom with punched holes in paper tape in 1725, and Joseph Marie Jacquard linked punched cards into chains in 1804. [[Charles Babbage]] described number cards for his Calculating Engine, but there is no evidence that he built a practical example. Herman Hollerith developed punched-card data processing for the 1890 U.S. census. The IBM 12-row, 80-column format came to dominate the industry, and many early [[Computer|computers]] used punched cards for programs and data. Magnetic tape later replaced them, but the 80-column standard persists in some command-line interfaces.
+
+=== KEY: Pune_76d620
+HEADWORD: Pune = 푸네
+LEVEL: 4
+GLOSSARY:
+  British East India Company = 영국 동인도 회사
+  British Raj = 영국령 인도
+  City = 도시
+  Company = 회사
+  Deccan = 데칸
+  Deccan Plateau = 데칸고원
+  East India Company = 동인도 회사
+  India = 인도
+  Maharashtra = 마하라슈트라주
+  Maratha = 마라타
+  Maratha Empire = 마라타 제국
+  Mumbai = 뭄바이
+  Oxford = 옥스퍼드
+  Oxford of the East = 동양의 옥스퍼드
+  Peshwas = 페슈와
+  Plateau = 고원
+  Poona = 푸나
+  Pune = 푸네
+  Pune Metropolitan Region = 푸네 대도시권
+  Pune district = 푸네구
+  Third = 교향곡 제3번
+  Third Anglo-Maratha War = 제3차 영국-마라타 전쟁
+  information technology = 정보 기술
+ENTRY:
+City in [[Maharashtra]], western India, on the [[Deccan Plateau]], and administrative headquarters of Pune district. It is the largest city in Maharashtra by area, though second to [[Mumbai]] by population. The Pune Metropolitan Region had 7.2 million residents in the 2011 census, making it the seventh-most populous metropolitan area in India. Pune is one of India's largest information technology hubs and a major automobile and manufacturing center, and it is often called the Oxford of the East for its educational institutions. In the 18th century the city was the seat of the Peshwas, the prime ministers of the [[Maratha Empire]]. It was seized by the [[East India Company|British East India Company]] during the Third Anglo-Maratha War and later became a center of resistance to the [[British Raj]]. The city was known as Poona until 1978.
+
+=== KEY: Punic_Wars_c81478
+HEADWORD: Punic Wars = 포에니 전쟁
+LEVEL: 4
+GLOSSARY:
+  Alps = 알프스산맥
+  Carthage = 카르타고
+  First Punic War = 제1차 포에니 전쟁
+  Hannibal = 한니발
+  Italy = 이탈리아
+  Roman Republic = 로마 공화정
+  Roman province = 로마 속주
+  Roman province of Africa = 로마의 아프리카 속주
+  Romans = 로마인
+  Rome = 로마
+  Second = 초
+  Second Punic War = 제2차 포에니 전쟁
+  Sicily = 시칠리아
+  Third = 교향곡 제3번
+  Third Punic War = 제3차 포에니 전쟁
+  Tunis = 튀니스
+  Zama = 자마
+ENTRY:
+Three wars fought between the [[Roman Republic]] and the [[Carthage|Carthaginian]] Empire from 264 to 146 BC, beginning with a conflict over [[Sicily]]. The First Punic War ended in 241 BC with Carthage defeated, and Sicily became the first Roman province. In the Second Punic War, which began in 218 BC, the Carthaginian general [[Hannibal]] crossed the Alps and campaigned in Italy for 14 years before being defeated at Zama in 202 BC. Rome declared the Third Punic War in 149 BC. In 146 BC the Romans stormed the city, sacked it and demolished it, and its territory became the Roman province of Africa. The ruins lie east of modern [[Tunis]] on the North African coast.

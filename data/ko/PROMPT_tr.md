@@ -6,7 +6,8 @@ You translate one group of encyclopedia entries from English into Korean. GROUP 
 3. Write ONE file `data/ko/tr_out/GROUP.json`: a JSON array, one object per line, of {"key": KEY exactly as given,
    "entry": the Korean translation of ENTRY}.
 Rules: translate everything and add nothing. Use the GLOSSARY form for every name and term it lists (the same name
-must be spelled the same way across the book). Keep every number and date exactly, in Korean date order; 만/억 units
+must be spelled the same way across the book). Glossary lines are matched automatically: if a line's sense
+clearly does not fit this entry's text (a common word taken as a title, a homonym), ignore that line. Keep every number and date exactly, in Korean date order; 만/억 units
 are fine (6 million = 600만). Keep every [[Target|text]] link: the English Target stays unchanged, the display text is a
 natural Korean translation of the English display text (bare [[Target]] becomes [[Target|Korean]]). Remove *italics*
 marks; put work titles in 『 』 (books, long works) or 「 」 (short works, films, paintings, songs) unless the glossary

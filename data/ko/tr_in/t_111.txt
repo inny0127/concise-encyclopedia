@@ -1,0 +1,859 @@
+=== KEY: Evidence_law_f39daf
+HEADWORD: Evidence = 증거
+LEVEL: 4
+GLOSSARY:
+  Authentication = 인증
+  Common law = 보통법
+  Court = 법원
+  English common law = 영국 보통법
+  Jury = 배심원단
+  Opinion = 의견
+  Witness = 증인
+  admissibility = 증거 능력
+  beyond a reasonable doubt = 합리적 의심의 여지가 없는 증명
+  clear and convincing evidence = 명백하고 확신을 주는 증거
+  common law = 보통법
+  expert testimony = 전문가 증언
+  hearsay = 전문 증거
+  preponderance of the evidence = 증거의 우월
+  privilege = 증언 거부 특권
+  reasonable suspicion = 합리적 혐의
+  trier of fact = 사실 판단자
+ENTRY:
+Body of facts in a legal proceeding, and the rules that govern their proof. The rules determine what the trier of fact, a judge or [[Jury|jury]], may consider, and how much proof of what quality is needed to prevail. Standards range from reasonable suspicion to preponderance of the evidence, clear and convincing evidence, and beyond a reasonable doubt. Key admissibility rules concern hearsay, [[Authentication|authentication]], relevance, privilege, [[Witness|witnesses]], [[Opinion|opinions]], expert testimony and identification. Rules vary between criminal, civil and family [[Court|courts]] and across jurisdictions. English [[Common law|common law]] developed many of them after juries became central in the 16th and 17th centuries, including a prohibition on hearsay.
+
+=== KEY: Evolution_42f0d7
+HEADWORD: Evolution = 진화
+LEVEL: 2
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred Russel Wallace = 앨프리드 러셀 월리스
+  Charles Darwin = 찰스 다윈
+  Darwin = 다윈
+  Earth = 지구
+  Evolution = 진화
+  Genetic drift = 유전적 부동
+  Last universal common ancestor = 모든 생물의 공통 조상
+  Mendelian inheritance = 멘델 유전
+  Mutation = 돌연변이
+  Natural selection = 자연 선택
+  On the Origin of Species = 『종의 기원』
+  Species = 종
+  Wallace = 월리스
+  alleles = 대립 유전자
+  antibiotic resistance = 항생제 내성
+  biodiversity = 생물 다양성
+  comparative genomics = 비교 유전체학
+  gene flow = 유전자 흐름
+  genetic drift = 유전적 부동
+  genome = 유전체
+  genotype = 유전자형
+  last universal common ancestor = 마지막 보편 공통 조상
+  locus = 유전자 자리
+  modern evolutionary theory = 현대 진화론
+  natural selection = 자연 선택
+  phenotype = 표현형
+  population genetics = 집단유전학
+  protein-coding genes = 단백질 암호화 유전자
+  universal common ancestor = 보편 공통 조상
+ENTRY:
+Change in the heritable characteristics of biological populations over successive generations. It occurs when individuals in a population vary in their genetic characteristics and in the numbers of their surviving offspring. [[Mutation]] introduces new genetic variation, and processes such as [[Genetic drift|genetic drift]], gene flow, and [[Natural selection|natural selection]] make some variants more or less common over time. Evolution is often defined as a change in the frequency of alleles, the variants of a gene found at a specific locus, in a population. In a strict biological sense it can occur even when the visible phenotype is unchanged. The process has given rise to biodiversity at every level of biological organization.
+
+The scientific theory of evolution by natural selection was conceived independently by two British naturalists, [[Charles Darwin]] and [[Alfred Russel Wallace]], in the mid-19th century, as an explanation for why organisms are adapted to their environments. Their ideas were jointly presented in 1858, and the theory was first set out in detail in Darwin's 1859 book [[On the Origin of Species|*On the Origin of Species*]]. Natural selection rests on four observable facts: more offspring are often produced than can survive; traits vary among individuals; different traits confer different rates of survival and reproduction; and traits can be passed from generation to generation. Members of a population are therefore more likely to be replaced by the offspring of parents with favorable characteristics for that environment.
+
+In the early 20th century, competing ideas of evolution were refuted and evolution was combined with [[Mendelian inheritance]] and population genetics to give rise to modern evolutionary theory. In this synthesis, the basis of heredity is in DNA molecules that pass information from generation to generation. Portions of DNA that specify a single functional unit are genes, and the different forms of a sequence at a locus are alleles. The complete set of genes in an organism is its genotype, and its set of observable traits is its phenotype. Some observable characteristics are not inherited; a suntan, for example, results from the interaction of genotype and sunlight and is not passed to children.
+
+Variation comes from mutations in the genome, reshuffling of genes through sexual reproduction, and migration between populations. About half of the mutations in the coding regions of protein-coding genes are deleterious and the other half neutral, with a small percentage conferring a benefit. Duplication of large sections of a chromosome introduces extra copies of genes, a major source of raw material for new genes.
+
+All life on Earth shares a [[Last universal common ancestor|last universal common ancestor]], which lived approximately 3.5–3.8 billion years ago. Existing biodiversity has been shaped by repeated formation of new species, changes within species, and extinction. Supporting evidence includes fossil records documenting transitional forms, comparative genomics revealing shared ancestry, and observable changes in real time, such as antibiotic resistance in bacteria. Evolutionary discoveries have influenced agriculture, medicine, and computer science.
+
+=== KEY: Evolutionary_psychology_1ba4c8
+HEADWORD: Evolutionary psychology = 진화심리학
+LEVEL: 4
+GLOSSARY:
+  Adaptation = 적응
+  Cognition = 인지
+  Economics = 경제학
+  Literature = 문학
+  Natural selection = 자연 선택
+  Politics = 정치
+  Psychiatry = 정신 의학
+  Psychology = 심리학
+  by-products = 부산물
+  natural selection = 자연 선택
+ENTRY:
+Theoretical approach in [[Psychology|psychology]] that examines [[Cognition|cognition]] and behavior from an evolutionary perspective. It seeks to identify human psychological [[Adaptation|adaptations]] that evolved to solve ancestral problems, such as food choices, social hierarchies, and selecting mates. Its central assumption is that the brain consists of specialized mechanisms shaped by [[Natural selection|natural selection]], although some traits are non-adaptive by-products of adaptive ones. Traits found in all cultures, such as inferring others' emotions, recognizing kin and cooperating, are considered good candidates for adaptations. Its ideas are applied in [[Economics|economics]], law, management, [[Psychiatry|psychiatry]], [[Politics|politics]] and [[Literature|literature]]. Critics question its testability and its assumptions about the ancestral environment.
+
+=== KEY: Ewan_McGregor_27a9d1
+HEADWORD: McGregor, Ewan = 맥그리거, 이완
+LEVEL: 5
+GLOSSARY:
+  British Empire = 대영 제국
+  Emmy = 에미상
+  Emmy Award = 에미상
+  Fargo = 「파고」
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Golden Globe Award = 골든글로브상
+  Halston = 「홀스턴」
+  Mark Renton = 마크 렌턴
+  Obi-Wan Kenobi = 오비완 케노비
+  Order of the British Empire = 대영 제국 훈장
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Award = 프라임타임 에미상
+  Renton = 렌턴
+  Scottish = 스코틀랜드
+  Star = 항성
+  Star Wars = 「스타워즈」
+  Trainspotting = 「트레인스포팅」
+  UNICEF = 유니세프
+ENTRY:
+Scottish actor and filmmaker. He gained international recognition as the drug addict Mark Renton in *Trainspotting* (1996) and as Obi-Wan Kenobi in the *Star Wars* prequel trilogy (1999–2005). He won a Golden Globe Award for his dual role in the television series *Fargo* (2017) and a Primetime Emmy Award for the miniseries *Halston* (2021). He was appointed an Officer of the Order of the British Empire in 2013 for his service to drama and charity, and has been an ambassador for [[UNICEF]] UK since 2004.
+
+=== KEY: Exam_b66068
+HEADWORD: Exam = 시험
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  Song dynasty = 송나라
+  Sui dynasty = 수나라
+  Tang = 당나라
+  Tang dynasty = 당나라
+  Wu Zetian = 측천무후
+  Zhou dynasty = 주나라
+  imperial examinations = 과거
+  keju = 과거
+  scholar-officials = 사대부
+ENTRY:
+Educational assessment intended to measure a test-taker's knowledge, skill, aptitude or physical fitness. Tests may be administered verbally, on paper or on a computer, or in an area where the test-taker performs a set of skills. Formal testing often produces a grade or test score, interpreted against a norm or criterion. Informal tests existed throughout history, including archery contests in [[China]] since the [[Zhou dynasty]]. Standardized written examinations were first implemented in China, where the imperial examinations (*keju*) originated in 605 under the [[Sui dynasty]]. The [[Tang dynasty]] expanded them, and [[Wu Zetian]] extensively expanded the system further. During the [[Song dynasty]] the examinations became the primary means of selecting scholar-officials.
+
+=== KEY: Excalibur_745baf
+HEADWORD: Excalibur = 엑스칼리버
+LEVEL: 5
+GLOSSARY:
+  Britain = 브리튼
+  Caledfwlch = 칼레드불흐
+  Caliburnus = 칼리부르누스
+  Historia Regum Britanniae = 『브리타니아 열왕사』
+  King Arthur = 아서왕
+  Lady of the Lake = 호수의 여인
+  Lake = 호수
+  Le Morte d'Arthur = 『아서왕의 죽음』
+  Merlin = 멀린
+  Sovereignty = 주권
+  Thomas = 토머스
+  Welsh = 웨일스어
+  sword in the stone = 바위에 꽂힌 검
+ENTRY:
+Mythical sword of [[King Arthur]], said to have magical powers and to be associated with the rightful [[Sovereignty|sovereignty]] of Britain. Its first reliably datable appearance is in Geoffrey of Monmouth's *Historia Regum Britanniae* (c. 1136), where Arthur's sword is called Caliburnus. The name may derive from the Welsh *Caledfwlch*, a compound of *caled* ("hard") and *bwlch* ("breach, cleft"). In Robert de Boron's *Merlin*, the sword in the stone proves Arthur's lineage. In Thomas Malory's *Le Morte d'Arthur*, a different sword from the Lady of the Lake shares the name.
+
+=== KEY: Excavata_2cd99f
+HEADWORD: Excavata = 엑스카바타
+LEVEL: 4
+GLOSSARY:
+  Acrasidae = 아크라시스과
+  Cavalier-Smith = 캐벌리어스미스
+  Euglenozoa = 유글레나동물문
+  Eukaryote = 진핵생물
+  Flagellate = 편모충
+  Giardia = 지아르디아
+  Mitochondria = 미토콘드리아
+  Phylogenomic = 계통유전체학
+  Simpson and Patterson = 심프슨과 패터슨
+  Slime mold = 점균류
+  Thomas = 토머스
+  Thomas Cavalier-Smith = 토머스 캐벌리어스미스
+  Trichomonas = 트리코모나스
+  anaerobic = 혐기성
+  discobids = 디스코바류
+  flagella = 편모
+  heterotrophic = 종속 영양
+  heterotrophic flagellates = 종속 영양 편모충
+  malawimonads = 말라위모나스류
+  metamonads = 메타모나스류
+  paraphyletic = 측계통군
+  paraphyletic group = 측계통군
+  slime molds = 점균류
+  ventral feeding groove = 배쪽 섭식 홈
+ENTRY:
+Obsolete, paraphyletic group of unicellular [[Eukaryote|eukaryotes]], first suggested by Simpson and Patterson in 1999 and given a rank by Thomas Cavalier-Smith in 2002. Its name refers to the excavated appearance of a ventral feeding groove. Most excavates are unicellular, heterotrophic [[Flagellate|flagellates]] with two, four or more flagella, and only some [[Euglenozoa|euglenozoans]] are photosynthetic. Many lack classical [[Mitochondria|mitochondria]], and some anaerobic intestinal parasites have greatly reduced them. The group includes human parasites such as *Giardia* and *Trichomonas*. Phylogenomic analyses show that it contains three widely separated groups: discobids, metamonads and malawimonads. The [[Slime mold|slime molds]] of the family Acrasidae are the only excavates with limited multicellularity.
+
+=== KEY: Exchange_rate_e75e31
+HEADWORD: Exchange rate = 환율
+LEVEL: 4
+GLOSSARY:
+  Bank = 은행
+  Currency = 통화
+  Euro = 유로
+  Hong Kong = 홍콩
+  Japanese yen = 일본 엔
+  Money = 화폐
+  United States = 미국
+  United States dollar = 미국 달러
+  bureaux de change = 환전소
+  exchange rate regime = 환율 제도
+  floating = 변동 환율제
+  foreign exchange market = 외환 시장
+  interbank rate = 은행 간 환율
+  pegged = 고정 환율제
+ENTRY:
+Rate at which one [[Currency|currency]] is exchanged for another, reflecting the value of one country's currency in relation to another. Currencies may be national, sub-national like [[Hong Kong]], or supra-national like the [[Euro]]. For example, an interbank rate of 141 [[Japanese yen]] to the [[United States dollar]] means that ¥141 buys US$1. Each country determines its exchange rate regime, which may be floating, pegged or a hybrid. In floating regimes, rates are set in the foreign exchange market, which trades 24 hours a day except weekends. Money dealers at [[Bank|banks]] and bureaux de change quote separate buying and selling rates, and the difference is the bid–ask spread.
+
+=== KEY: Excretion_e3ba78
+HEADWORD: Excretion = 배설
+LEVEL: 4
+GLOSSARY:
+  Bladder = 방광
+  Carbon dioxide = 이산화 탄소
+  Excretion = 배설
+  Feces = 대변
+  Insect = 곤충
+  Lung = 폐
+  Malpighian tubules = 말피기관
+  Organism = 생물
+  Urea = 요소
+  defecation = 배변
+  placental mammals = 태반류
+  secretion = 분비
+  urethra = 요도
+  uric acid = 요산
+ENTRY:
+Elimination of metabolic waste products by an [[Organism|organism]]. Excretion is essential in all organisms, because waste such as [[Carbon dioxide|carbon dioxide]], water, salts and [[Urea|urea]] is harmful if it accumulates beyond a certain level. In vertebrates, the main excretory organs are the [[Lung|lungs]], kidneys and skin. Unicellular organisms discharge wastes directly through the cell surface. In placental mammals, urine passes from the [[Bladder|bladder]] through the urethra, and solid waste leaves as [[Feces|feces]] during defecation. Birds excrete uric acid as a paste, which conserves water and can be stored in the egg, while in [[Insect|insects]] Malpighian tubules remove metabolic waste. Excretion differs from secretion, in which a substance has specific tasks after leaving the cell.
+
+=== KEY: Execution_by_firing_squad_b82ffc
+HEADWORD: Execution by firing squad = 총살형
+LEVEL: 5
+GLOSSARY:
+  Capital punishment = 사형
+  French = 프랑스어
+  Heart = 심장
+  War = 전쟁
+  blank cartridge = 공포탄
+  capital punishment = 사형
+  fusil = 퓌지
+  fusillading = 총살
+ENTRY:
+Method of [[Capital punishment|capital punishment]] in which several shooters fire simultaneously on command. Historically called fusillading, from the French *fusil*, meaning rifle, it was common in times of [[War|war]], because firearms are readily available and a gunshot to the [[Heart|heart]] usually kills relatively quickly. Simultaneous firing prevents identification of who fired the lethal shot. One or more shooters may be issued a blank cartridge, which is believed to diffuse responsibility among the squad.
+
+=== KEY: Executive_government_e835f0
+HEADWORD: Executive = 행정부
+LEVEL: 4
+GLOSSARY:
+  Branch = 브랜치
+  Constitution = 헌법
+  Judiciary = 사법부
+  Legislature = 입법부
+  Separation of powers = 권력 분립
+  head of government = 정부 수반
+  parliamentary systems = 의원 내각제
+  presidential systems = 대통령제
+  separation of powers = 권력 분립
+ENTRY:
+Branch of government that executes and enforces law and policy. Its powers vary with the political context and are usually laid out in a [[Constitution|constitution]]. In democratic countries the executive often exercises broad influence over national politics, though limits are usually applied, and executives often rely on bureaucrats to formulate policy. In systems based on [[Separation of powers|separation of powers]], each branch is checked by the others: the executive or legislature can propose laws, the [[Legislature|legislature]] can pass or block them, the executive enforces them, and the [[Judiciary|judiciary]] interprets them. In parliamentary systems the executive is responsible to the elected legislature and must maintain its confidence, while in presidential systems the directly elected head of government appoints the ministers.
+
+=== KEY: Exercise_ef8fb9
+HEADWORD: Exercise = 운동
+LEVEL: 3
+GLOSSARY:
+  Aerobic exercise = 유산소 운동
+  Anaerobic exercise = 무산소 운동
+  Cardiovascular disease = 심혈관 질환
+  Exercise = 운동
+  Flexibility exercises = 유연성 운동
+  Mental health = 정신 건강
+  Muscle = 근육
+  People = 『피플』
+  Physical = 「Physical」
+  Physical fitness = 체력
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  bone density = 골밀도
+  cardiovascular disease = 심혈관 질환
+  coronary heart disease = 관상 동맥 질환
+  resistance training = 저항 운동
+  type 2 diabetes = 제2형 당뇨병
+ENTRY:
+Physical activity that enhances or maintains fitness and overall health. It is performed for reasons including weight loss or maintenance, developing [[Muscle|muscles]] and the cardiovascular system, improving [[Mental health|mental health]], or simple enjoyment. Exercise is a subset of physical activity: it is planned, structured, and repetitive, and aims to improve or maintain [[Physical fitness|physical fitness]].
+
+Exercises are generally grouped into three types. Aerobic exercise uses large muscle groups and causes the body to use more oxygen than at rest, with the goal of increasing cardiovascular endurance; examples are running, cycling, and swimming. Anaerobic exercise, which includes strength and resistance training, can increase muscle mass and improve bone density, balance, and coordination. Flexibility exercises, such as stretching, improve joint flexibility and range of motion, which can reduce the chance of injury.
+
+Regular exercise contributes to a healthy weight, bone density, muscle strength, and joint mobility, and strengthens the immune system, lowering the risk of [[Cardiovascular disease|cardiovascular disease]]. People who exercise at moderate to high levels have a lower mortality rate than those who are inactive. Physical inactivity causes approximately 6% of the burden of disease from coronary heart disease, 7% of type 2 diabetes, 10% of breast cancer, and 10% of colon cancer worldwide, and 9% of premature mortality overall.
+
+The World Health Organization recommends that adults do at least 150–300 minutes of moderate-intensity aerobic activity or 75–150 minutes of vigorous-intensity activity per week, with muscle-strengthening activities on two or more days, and that children and adolescents do at least 60 minutes of moderate-to-vigorous activity daily. Even a small amount is healthier than none: for people who get the least activity, adding two or three minutes per day of moderate activity could reduce the risk of premature death by 10%.
+
+=== KEY: Existence_7f1b3a
+HEADWORD: Existence = 존재
+LEVEL: 4
+GLOSSARY:
+  Alexius Meinong = 알렉시우스 마이농
+  Ancient Greece = 고대 그리스
+  Existence = 존재
+  Greece = 그리스
+  Number = 수
+  Ontology = 존재론
+  Presocratic philosophy = 소크라테스 이전 철학
+  Santa Claus = 산타클로스
+  Set (mathematics) = 집합
+  abstract entities = 추상적 대상
+  epistemology = 인식론
+  essence = 본질
+  first-order property = 1차 속성
+  philosophy of mind = 심리철학
+  second-order property = 2차 속성
+ENTRY:
+State of having being or reality, in contrast to nonexistence. Existence is often contrasted with essence, the essential features of an entity, which can be understood even when it is unknown whether the entity exists. [[Ontology|Ontology]] studies the nature and types of existence. Existence is usually treated as a second-order property, a property of properties, but some philosophers hold that it is a first-order property like color. Alexius Meinong and his followers say that not all individuals have it, so that [[Santa Claus|Santa Claus]] does not exist. Entities in space and time have concrete existence, unlike abstract entities such as [[Number|numbers]] and [[Set (mathematics)|sets]]. The concept has been discussed since ancient philosophy, including Presocratic philosophy in [[Ancient Greece|Ancient Greece]], and it is relevant to logic, mathematics, epistemology and the philosophy of mind.
+
+=== KEY: Existential_risk_from_artificial_intelligence_6d8027
+HEADWORD: Existential risk from artificial intelligence = 인공지능의 실존적 위험
+LEVEL: 5
+GLOSSARY:
+  artificial superintelligence = 인공 초지능
+  human extinction = 인류 멸종
+  superintelligence = 초지능
+ENTRY:
+Hypothesized risk to human existence from artificial superintelligence. Substantial progress toward superintelligence has been hypothesized to cause human extinction or another irreversible global catastrophe. Many researchers believe a superintelligent machine would resist attempts to disable it or change its goals. In May 2023, hundreds of AI experts signed a statement declaring that mitigating the risk of extinction from AI should be a global priority. In October 2025, hundreds of public figures called for a ban on developing superintelligence.
+
+=== KEY: Existentialism_8038a8
+HEADWORD: Existentialism = 실존주의
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Camus = 알베르 카뮈
+  Dostoevsky = 도스토옙스키
+  Family = 가족
+  Friedrich Nietzsche = 프리드리히 니체
+  Fyodor Dostoevsky = 표도르 도스토옙스키
+  Jean-Paul Sartre = 장폴 사르트르
+  Martin Heidegger = 마르틴 하이데거
+  Nietzsche = 니체
+  Sartre = 사르트르
+  Simone de Beauvoir = 시몬 드 보부아르
+  Søren Kierkegaard = 쇠렌 키르케고르
+  absurdity = 부조리
+  authenticity = 진정성
+  essence = 본질
+  existence precedes essence = 실존은 본질에 앞선다
+  rationalism = 합리주의
+ENTRY:
+Family of philosophical views that explore the struggle to lead an authentic life despite the apparent absurdity of existence. Existentialist thought often examines meaning, purpose and value, and emphasizes personal freedom, individual responsibility and deliberate choice. Its 19th-century figures include [[Søren Kierkegaard|Søren Kierkegaard]], [[Friedrich Nietzsche|Friedrich Nietzsche]] and [[Fyodor Dostoevsky|Fyodor Dostoevsky]], who critiqued rationalism. In the mid-20th century it became associated with [[Jean-Paul Sartre|Jean-Paul Sartre]], [[Martin Heidegger|Martin Heidegger]], [[Simone de Beauvoir|Simone de Beauvoir]] and [[Albert Camus|Albert Camus]]. A primary virtue is authenticity, and Sartre argued that existence precedes essence. The movement influenced theology, drama, art, literature and psychology.
+
+=== KEY: Exoplanet_fb1837
+HEADWORD: Exoplanet = 외계 행성
+LEVEL: 4
+GLOSSARY:
+  Doppler spectroscopy = 도플러 분광법
+  Earth = 지구
+  Extraterrestrial life = 외계 생명체
+  James = 야고보
+  James Webb Space Telescope = 제임스 웹 우주 망원경
+  Light-year = 광년
+  Planet = 행성
+  Proxima Centauri = 프록시마 켄타우리
+  Pulsar = 펄서
+  Solar System = 태양계
+  Space = 공간
+  Spectroscopy = 분광학
+  Telescope = 망원경
+  extraterrestrial life = 외계 생명체
+  habitable zone = 생명 가능 지대
+  main-sequence star = 주계열성
+  transit photometry = 횡단 측광법
+ENTRY:
+Planet outside the [[Solar System|Solar System]]. The first confirmed exoplanet was detected in 1992 around a [[Pulsar|pulsar]], and the first detection around a main-sequence star followed in 1995. As of November 5, 2026, there are 6,464 confirmed exoplanets in 4,849 planetary systems. Most have been found by transit photometry and Doppler [[Spectroscopy|spectroscopy]], methods biased toward large planets close to their stars. The nearest exoplanets orbit [[Proxima Centauri|Proxima Centauri]], 4.2 [[Light-year|light-years]] from Earth. Planets in a star's habitable zone, where liquid water could exist, are of special interest in the search for [[Extraterrestrial life|extraterrestrial life]], and the [[James Webb Space Telescope|James Webb Space Telescope]] is expected to reveal more about their composition.
+
+=== KEY: Expansion_of_the_universe_cc35ef
+HEADWORD: Expansion of the universe = 우주 팽창
+LEVEL: 5
+GLOSSARY:
+  Big Bang = 빅뱅
+  Big Bang cosmology = 빅뱅 우주론
+  Dark energy = 암흑 에너지
+  General relativity = 일반 상대성 이론
+  dark energy = 암흑 에너지
+  general relativity = 일반 상대성 이론
+  observable universe = 관측 가능한 우주
+ENTRY:
+Increase over time in distance between gravitationally unbound parts of the observable universe. The expansion is intrinsic, so it does not mean that the universe expands into anything. It is a key feature of [[Big Bang|Big Bang]] cosmology, modeled with [[General relativity|general relativity]], and was discovered through theoretical and observational work in the 1920s. Cosmic expansion decelerated until around 9.8 billion years after the Big Bang, when it began to accelerate gradually, a late-time effect attributed to [[Dark energy|dark energy]].
+
+=== KEY: Expected_value_48eef9
+HEADWORD: Expected value = 기댓값
+LEVEL: 4
+GLOSSARY:
+  Average = 평균
+  Blaise Pascal = 블레즈 파스칼
+  Christiaan Huygens = 크리스티안 하위헌스
+  Law of large numbers = 큰 수의 법칙
+  Pierre de Fermat = 피에르 드 페르마
+  Random variable = 확률 변수
+  probability theory = 확률론
+  problem of points = 점수 분배 문제
+  random variable = 확률 변수
+  weighted average = 가중 평균
+ENTRY:
+Average value of a [[Random variable|random variable]], generalizing the weighted average. For a variable with finitely many values, it is the weighted average of those values, with their probabilities as weights. Provided it is finite, it can be interpreted as the long-run average of results from independent repetitions of the same experiment, as formalized by the [[Law of large numbers|law of large numbers]]. The concept emerged in the mid-17th century from the problem of points, a puzzle about dividing stakes when a game ends early, which [[Blaise Pascal|Blaise Pascal]] and [[Pierre de Fermat|Pierre de Fermat]] solved independently. [[Christiaan Huygens|Christiaan Huygens]] published a treatise in 1657 that is seen as the first successful attempt to lay the foundations of probability theory.
+
+=== KEY: Experience_4038d5
+HEADWORD: Experience = 경험
+LEVEL: 4
+GLOSSARY:
+  Epistemology = 인식론
+  Experience = 「경험」
+  Hallucination = 환각
+  Hiking = 하이킹
+  Phenomenology (philosophy) = 현상학
+  epistemology = 인식론
+  near-death experiences = 임사 체험
+  out-of-body = 유체 이탈
+ENTRY:
+Conscious event, especially perception, or the practical knowledge and familiarity that such events produce. In the widest sense, an experience presents a subject with various items, and unreal items may be included, as in [[Hallucination|hallucinations]] or dreams. In a narrower sense, experience is identified with sensory perception and contrasted with thinking or imagining. Experience can also mean familiarity gained through repeated acquaintance, as an experienced [[Hiking|hiker]] has lived through many hikes rather than merely read about them. [[Phenomenology (philosophy)|Phenomenology]] studies the structure and contents of experience, while [[Epistemology|epistemology]] asks whether all knowledge is based on sensory experience. Non-ordinary experiences include religious, out-of-body and near-death experiences.
+
+=== KEY: Experiment_05aeba
+HEADWORD: Experiment = 실험
+LEVEL: 4
+GLOSSARY:
+  Hypothesis = 가설
+  Medicine = 의학
+  Scientific method = 과학적 방법
+  Variable (mathematics) = 변수
+  clinical trial = 임상 시험
+  controls = 대조군
+  independent variable = 독립 변수
+  scientific method = 과학적 방법
+ENTRY:
+Procedure carried out to support or refute a [[Hypothesis|hypothesis]], or to determine the efficacy or likelihood of something untried. Experiments provide insight into cause and effect by showing what outcome occurs when a particular factor is manipulated. They rely on a repeatable procedure and logical analysis of results, and range from informal comparisons, such as tasting chocolates to find a favorite, to highly controlled tests using complex apparatus. Experiments typically include controls, which minimize the effects of [[Variable (mathematics)|variables]] other than the single independent variable. Controls are part of the [[Scientific method|scientific method]]. In physics and engineering, experiments focus on replicating identical procedures, while in [[Medicine|medicine]] and the social sciences they often follow the form of the clinical trial, with units randomly assigned to treatment or control.
+
+=== KEY: Exploration_1b470b
+HEADWORD: Exploration = 탐험
+LEVEL: 4
+GLOSSARY:
+  Abraham = 아브라함
+  Abraham Ortelius = 아브라함 오르텔리우스
+  Age of Discovery = 대항해 시대
+  Atlas = 지도책
+  Space = 공간
+  Space exploration = 우주 탐사
+  Telescope = 망원경
+  human spaceflight = 유인 우주 비행
+ENTRY:
+Process of investigating an unfamiliar area, an activity with some expectation of discovery. Organized exploration is largely a human activity, though exploratory behavior is common among organisms capable of directed locomotion and learning. Geographical exploration has had two major eras: the first, covering most of human history, saw peoples settle distant lands in relative isolation; the second, over the last 10,000 years, brought increased cross-cultural exchange. Between the 5th and 15th centuries AD, most exploration was done by Chinese and Arab explorers, and the [[Age of Discovery|Age of Discovery]] followed. The first modern [[Atlas|atlas]], by Abraham Ortelius, included a world map showing all of Earth's continents. Space exploration uses astronomy, which relies on [[Telescope|telescopes]], and space technology, including robotic probes and human spaceflight. Less than 10 percent of the ocean has been mapped in any detail.
+
+=== KEY: Exploration_of_Mars_1b61eb
+HEADWORD: Exploration of Mars = 화성 탐사
+LEVEL: 4
+GLOSSARY:
+  Curiosity = 호기심
+  Curiosity (rover) = 큐리오시티
+  Mariner = 매리너
+  Mariner 4 = 매리너 4호
+  Mars = 화성
+  Mars 3 = 마르스 3호
+  NASA = 미국 항공 우주국
+  Perseverance = 퍼서비어런스
+  Soviet space program = 소련의 우주 계획
+  flyby = 근접 비행
+  soft landing = 연착륙
+ENTRY:
+Remote study of [[Mars|Mars]] by spacecraft, including orbiters, landers and rovers. Roughly 60 percent of spacecraft destined for Mars failed before completing their missions. [[Soviet space program|Soviet]] probes began the effort in 1960, and [[NASA|NASA]]'s Mariner 4 made the first successful flyby on July 14–15, 1965. Mars 3 achieved the first Martian soft landing in 1971. The [[Curiosity (rover)|Curiosity]] and Perseverance rovers, both operated by NASA, are on the surface, and six orbiters survey the planet. In April 2024, NASA selected several companies to begin studies on providing commercial services for robotic science on Mars.
+
+=== KEY: Explosion_8a36c0
+HEADWORD: Explosion = 폭발
+LEVEL: 4
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred Nobel = 알프레드 노벨
+  Dynamite = 다이너마이트
+  Explosive = 폭발물
+  Gunpowder = 화약
+  Magma = 마그마
+  Nuclear weapon = 핵무기
+  Supernova = 초신성
+  Tunguska event = 퉁구스카 대폭발
+  air burst = 공중 폭발
+  deflagration = 폭연
+  detonations = 폭굉
+  fusion = 핵융합
+  high explosives = 고성능 폭약
+  low explosives = 저성능 폭약
+  meteor air burst = 유성체 공중 폭발
+  nuclear fission = 핵분열
+  shock waves = 충격파
+ENTRY:
+Rapid expansion in volume of matter, associated with an extreme outward release of energy, usually with high temperatures and high-pressure gases. Supersonic explosions created by high explosives are detonations, which travel as shock waves, while subsonic explosions by low explosives proceed by slower combustion known as deflagration. Explosive volcanic eruptions occur when dissolved gas in rising [[Magma|magma]] bubbles out of solution, causing a rapid increase in volume. Astronomical explosions include [[Supernova|supernovae]] and impacts such as the [[Tunguska event|Tunguska event]] of 1908, believed to have resulted from a meteor air burst. Gunpowder was the first explosive to be invented, and [[Alfred Nobel|Alfred Nobel]] invented [[Dynamite|dynamite]] in 1866. Humans also create explosions through explosives or through nuclear fission or fusion, as in a [[Nuclear weapon|nuclear weapon]].
+
+=== KEY: Explosive_e7f88a
+HEADWORD: Explosive = 폭발물
+LEVEL: 3
+GLOSSARY:
+  Ammonium nitrate = 질산 암모늄
+  China = 중국
+  Dynamite = 다이너마이트
+  Greek fire = 그리스의 불
+  Gunpowder = 화약
+  Mining = 광업
+  Nitroglycerin = 니트로글리세린
+  TNT = TNT
+  Taoist alchemists = 도교 연단술사
+  Uranium-235 = 우라늄-235
+  War = 전쟁
+  World = 세계
+  World War I = 제1차 세계 대전
+  ammonium nitrate = 질산암모늄
+  artillery shells = 포탄
+  black powder = 흑색 화약
+  detonator = 기폭 장치
+  explosion welding = 폭발 용접
+  fissile isotopes = 핵분열성 동위 원소
+  low explosives = 저성능 폭약
+  nitrocellulose = 니트로셀룰로스
+  potential energy = 퍼텐셜 에너지
+  primary explosives = 1차 폭약
+  smokeless powder = 무연 화약
+  speed of sound = 음속
+  trinitrotoluene = 트리니트로톨루엔
+ENTRY:
+Reactive substance containing a great amount of potential energy that can produce an explosion if released suddenly, usually accompanied by light, heat, sound, and pressure. An explosive may be a single ingredient or a mixture, and can be combined with mechanical or electronic components to make a bomb. The energy is most commonly stored chemically, as in [[Gunpowder|gunpowder]], [[TNT]], or [[Nitroglycerin|nitroglycerin]], less commonly as pressurized gas, or as nuclear energy in fissile isotopes such as [[Uranium-235|uranium-235]].
+
+Explosives are categorized by reaction speed. High explosives detonate, with the reaction front moving through the material faster than the speed of sound; low explosives deflagrate, with the front moving slower, producing a rapid burn rather than a proper explosion. By sensitivity, primary explosives can be initiated by a small amount of heat or pressure, while secondary and tertiary explosives are relatively insensitive and need a detonator.
+
+Early thermal weapons such as [[Greek fire]] existed in ancient times. Taoist alchemists in China, searching for an elixir of eternal life, created the earliest gunpowder, which first saw use in warfare in 1161. Nitroglycerin, developed in 1847, was the first explosive stronger than black powder to see widespread use. Because it is liquid and unstable, it was replaced by nitrocellulose and trinitrotoluene in 1863, and by smokeless powder and [[Dynamite|dynamite]] in 1867. World War I saw the adoption of TNT in artillery shells.
+
+The largest commercial application is [[Mining|mining]], which favors nitrate-based explosives such as mixtures of [[Ammonium nitrate|ammonium nitrate]] and fuel oil. Explosives are also used in explosion welding, which clads carbon steel or aluminum plate with a harder or more corrosion-resistant layer.
+
+=== KEY: Exponential_distribution_357d8a
+HEADWORD: Exponential distribution = 지수 분포
+LEVEL: 4
+GLOSSARY:
+  Expected value = 기댓값
+  Gamma distribution = 감마 분포
+  Geometric distribution = 기하 분포
+  Median = 중앙값
+  Poisson = 푸아송
+  Poisson point process = 푸아송 점과정
+  Probability = 확률
+  Probability distribution = 확률 분포
+  Variance = 분산
+  memoryless = 무기억성
+  probability density function = 확률 밀도 함수
+  rate parameter = 비율 모수
+  standard deviation = 표준 편차
+ENTRY:
+Probability distribution of the distance between events in a Poisson point process, in which events occur independently at a constant average rate. It is a particular case of the [[Gamma distribution|gamma distribution]] and the continuous analogue of the [[Geometric distribution|geometric distribution]]. Its probability density function is f(x) = λe^(−λx) for x ≥ 0, where the rate parameter λ is greater than 0. The mean is 1/λ, the [[Variance|variance]] is 1/λ², and the standard deviation equals the mean. The [[Median|median]] is ln(2)/λ, which is less than the [[Expected value|expected value]]. The distribution is memoryless: the remaining waiting time has the same distribution whatever time has already passed.
+
+=== KEY: Exponential_function_df6294
+HEADWORD: Exponential function = 지수 함수
+LEVEL: 4
+GLOSSARY:
+  Complex number = 복소수
+  Derivative = 도함수
+  Euler's formula = 오일러 공식
+  Natural logarithm = 자연로그
+  base = 밑
+  complex numbers = 복소수
+  natural logarithm = 자연로그
+  power series = 멱급수
+ENTRY:
+Mathematical function, usually written e^x or exp(x), that maps zero to one. It is the unique real function that equals its own [[Derivative|derivative]] and takes the value one at zero. It converts sums to products, exp(x+y) = exp(x)·exp(y), and its inverse is the [[Natural logarithm|natural logarithm]]. It is the sum of the power series whose terms are x^n/n!, which converges for every real number. Functions of the form b^x with a fixed base b are also called exponential functions, and they grow or decay exponentially. [[Euler's formula|Euler's formula]] extends the function to [[Complex number|complex numbers]], relating multiplication, rotation and trigonometry.
+
+=== KEY: Exponentiation_f66a8b
+HEADWORD: Exponentiation = 거듭제곱
+LEVEL: 3
+GLOSSARY:
+  Arithmetic = 산술
+  British English = 영국 영어
+  Complex number = 복소수
+  Descartes = 데카르트
+  Exponential function = 지수 함수
+  Exponentiation = 거듭제곱
+  Infinity = 무한대
+  Integer = 정수
+  Multiplication = 곱셈
+  Real number = 실수
+  René Descartes = 르네 데카르트
+  associative = 결합 법칙
+  base = 밑
+  commutative = 교환 법칙
+  complex numbers = 복소수
+  cryptography = 암호학
+  exponent = 지수
+  index = 지수
+  modular exponentiation = 모듈러 거듭제곱
+  positive integers = 양의 정수
+ENTRY:
+[[Arithmetic]] operation on two numbers, the base *b* and the exponent *n*, written bⁿ. When *n* is a positive [[Integer|integer]], bⁿ is the product of [[Multiplication|multiplying]] *b* by itself *n* times, so that 2³ = 2 × 2 × 2 = 8. The exponent is also called the power or, in British English, the index; b² and b³ are read "b squared" and "b cubed" because they give the area of a square and the volume of a cube.
+
+The operation can be defined by induction as b¹ = b and bⁿ⁺¹ = bⁿ · b, and it obeys bᵐ⁺ⁿ = bᵐ · bⁿ and (bᵐ)ⁿ = bᵐⁿ. A number raised to the 0 power is generally defined as 1, which keeps the first rule valid when m = 0, although zero to the power of zero may be an exception depending on context. For nonzero b, negative exponents are defined by b⁻ⁿ = 1/bⁿ. Raising 0 to a negative exponent is typically undefined, though in some circumstances it may be interpreted as [[Infinity|infinity]].
+
+Unlike addition and multiplication, exponentiation is neither commutative nor associative: 2³ = 8 but 3² = 9, and (2³)² = 64 whereas 2^(3²) = 2⁹ = 512.
+
+The definition extends to any positive [[Real number|real]] base and real exponent, and a more involved definition supports [[Complex number|complex numbers]] as base and exponent. René Descartes introduced modern superscript notation in 1637, initially for positive integers greater than two. Exponentiation models [[Exponential function|exponential]] growth and decay, and modular exponentiation is used in cryptography.
+
+=== KEY: Expressionism_971e52
+HEADWORD: Expressionism = 표현주의
+LEVEL: 4
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Avant-garde = 아방가르드
+  Berlin = 베를린
+  Der Blaue Reiter = 청기사파
+  Die Brücke = 다리파
+  Dresden = 드레스덴
+  Europe = 유럽
+  Expressionism = 표현주의
+  First World War = 제1차 세계 대전
+  Germany = 독일
+  Hitler = 히틀러
+  Impressionism = 인상주의
+  Modernist = 모더니즘
+  Munich = 뮌헨
+  Northern Europe = 북유럽
+  War = 전쟁
+  Wassily Kandinsky = 바실리 칸딘스키
+  Weimar = 바이마르
+  Weimar Republic = 바이마르 공화국
+  World = 세계
+ENTRY:
+Modernist movement, initially in poetry and painting, that presents the world solely from a subjective perspective. It originated in Northern Europe around the beginning of the 20th century, distorting the world radically for emotional effect rather than depicting physical reality. Expressionism developed as an [[Avant-garde|avant-garde]] style before the First World War and remained popular in [[Berlin|Berlin]] during the Weimar Republic. It extended to architecture, theater, dance, film and music, and was partly a reaction to [[Impressionism|Impressionism]]. In Germany, Die Brücke, formed in [[Dresden|Dresden]] in 1905, and Der Blaue Reiter, formed in [[Munich|Munich]] in 1911 with [[Wassily Kandinsky|Wassily Kandinsky]], were key groups. The movement declined in Germany with the rise of [[Adolf Hitler|Adolf Hitler]] in the 1930s.
+
+=== KEY: Extended_family_bc9d75
+HEADWORD: Extended family = 확대 가족
+LEVEL: 4
+GLOSSARY:
+  Facebook = 페이스북
+  Family = 가족
+  Frédéric Le Play = 프레데리크 르 플레
+  Japan = 일본
+  Korea = 한국
+  Nuclear family = 핵가족
+  Romania = 루마니아
+  Thailand = 태국
+  nuclear family = 핵가족
+  stem family = 직계 가족
+ENTRY:
+Family that extends beyond the [[Nuclear family|nuclear family]] to include aunts, uncles, grandparents, cousins and other relatives, living nearby or in the same household. A stem family, first discussed by Frédéric Le Play, has parents living with one child, that child's spouse and their children, while other children leave or remain unmarried. Stem families are associated with unequal inheritance in [[Japan|Japan]] and [[Korea|Korea]], while in traditional [[Romania|Romania]] and northeastern [[Thailand|Thailand]] the child who cares for the parents usually receives the house. Extended families often form support networks even when living apart, and [[Facebook|Facebook]] is commonly used to maintain these ties. An estimated 49 million Americans, or 16.1 percent of the total population, live in homes with three or more generations, up from 42 million in 2000.
+
+=== KEY: Extended_periodic_table_68599d
+HEADWORD: Extended periodic table = 확장 주기율표
+LEVEL: 5
+GLOSSARY:
+  Glenn T. Seaborg = 글렌 T. 시보그
+  Island of stability = 안정성의 섬
+  Oganesson = 오가네손
+  Periodic table = 주기율표
+  Relativistic = 상대론적
+  alpha decay = 알파 붕괴
+  g-block = g 구역
+  periodic table = 주기율표
+ENTRY:
+Theoretical extension of the [[Periodic table|periodic table]] to chemical elements beyond those known and proven. The heaviest known element is [[Oganesson|oganesson]], atomic number 118, which completes the seventh period. Further periods are expected to add a g-block of at least 18 elements, as in an eight-period table suggested by Glenn T. Seaborg in 1969. Relativistic models predict that the pattern will be broken for heavier elements. Element 126 is hypothesized to lie within an [[Island of stability|island of stability]] that resists fission but not alpha decay.
+
+=== KEY: Extinction_4ce18a
+HEADWORD: Extinction = 멸종
+LEVEL: 3
+GLOSSARY:
+  Competition (biology) = 경쟁
+  Fossil = 화석
+  Habitat = 서식지
+  IPBES = 생물 다양성 과학 기구
+  International Union for Conservation of Nature = 국제 자연 보전 연맹
+  Lazarus taxa = 라자루스 분류군
+  Local extinction = 국지적 멸종
+  Nature = 『네이처』
+  Species = 종
+  Zoo = 동물원
+  chains of extinction = 멸종의 연쇄
+  extinct in the wild = 야생 절멸
+  fossil record = 화석 기록
+  functionally extinct = 기능적 멸종
+  keystone species = 핵심종
+  living fossils = 살아 있는 화석
+  mass extinctions = 대멸종
+  sixth mass extinction = 여섯 번째 대멸종
+  taxon = 분류군
+ENTRY:
+Termination of a [[Species|species]] through the death of its last member. A taxon may become functionally extinct earlier if it loses the capacity to reproduce and recover. Because a species' range may be very large, the moment is usually identified retrospectively; this leads to Lazarus taxa, species presumed extinct that abruptly "reappear," typically in the [[Fossil|fossil]] record. Local extinction, in which a species vanishes from a study area but survives elsewhere, may be reversed by reintroduction, as with wolves.
+
+Species become extinct when they can no longer survive changing conditions or superior [[Competition (biology)|competition]]. A typical species becomes extinct within 10 million years of its first appearance, although so-called living fossils survive with little change for hundreds of millions of years, a claim that has been disputed. Over five billion species are estimated to have died out, against about 8.7 million eukaryote species alive today. Isolated extinctions are common and natural, while mass extinctions are rare. The loss of a keystone species can cause further extinctions, called "chains of extinction." Species surviving only in [[Zoo|zoos]] or other artificial environments are listed by the International Union for Conservation of Nature as "extinct in the wild."
+
+Contemporary extinctions are attributed largely to human activity, chiefly destruction of natural [[Habitat|habitats]]. A 2019 assessment by IPBES reported that the biomass of wild mammals had fallen by 82%, natural ecosystems had lost about half their area, and a million species were at risk. At least 571 plant species have been lost since 1750. Whether this amounts to a sixth mass extinction is debated; critics cite undocumented extinctions and incomplete taxonomic inventories as sources of uncertainty.
+
+=== KEY: Extinction_astronomy_22a6c9
+HEADWORD: Extinction = 소광
+LEVEL: 4
+GLOSSARY:
+  Electromagnetic radiation = 전자기 복사
+  Interstellar = 「인터스텔라」
+  Interstellar extinction = 성간 소광
+  Milky Way = 우리은하
+  Robert Julius Trumpler = 로버트 줄리어스 트럼플러
+  X-ray = 엑스선
+  atmospheric extinction = 대기 소광
+  electromagnetic radiation = 전자기 복사
+  interstellar reddening = 성간 적색화
+  kiloparsec = 킬로파섹
+  magnitudes = 등급
+  redshift = 적색 편이
+ENTRY:
+Absorption and scattering of [[Electromagnetic radiation|electromagnetic radiation]] by dust and gas between an astronomical object and the observer. Interstellar extinction was first documented as such in 1930 by Robert Julius Trumpler, though its effects on the colors of stars had been noted earlier. Because blue light is attenuated more strongly than red, extinction makes objects appear redder, a phenomenon called interstellar reddening. Interstellar reddening differs from redshift, which shifts spectra without distortion. Near the plane of the [[Milky Way|Milky Way]], visual extinction is roughly 1.8 magnitudes per kiloparsec. Strong atmospheric extinction in the X-ray, ultraviolet and infrared is overcome by space-based observatories.
+
+=== KEY: Extinction_event_7fcb57
+HEADWORD: Extinction event = 대멸종
+LEVEL: 4
+GLOSSARY:
+  Devonian = 데본기
+  Earth = 지구
+  Late Devonian = 후기 데본기
+  Late Devonian mass extinction = 후기 데본기 대멸종
+  Late Ordovician mass extinction = 오르도비스기 말 대멸종
+  Ordovician = 오르도비스기
+  Permian = 페름기
+  Phanerozoic = 현생누대
+  Siberian = 시베리아
+  Siberian Traps = 시베리아 트랩
+  anoxic events = 무산소 사건
+  biodiversity = 생물 다양성
+  biotic crisis = 생물 위기
+  end-Permian extinction = 페름기 말 대멸종
+  mass extinctions = 대멸종
+  multicellular organisms = 다세포 생물
+ENTRY:
+Widespread and rapid decrease in biodiversity on Earth, also called a mass extinction or biotic crisis. It is identified by a sharp fall in the diversity and abundance of multicellular organisms. Estimates of major mass extinctions in the last 540 million years range from five to more than twenty. During the [[Phanerozoic|Phanerozoic]], multicellular animal life has experienced at least five major mass extinctions. The [[Late Ordovician mass extinction|Late Ordovician mass extinction]] killed 85 percent of all species, and the [[Late Devonian mass extinction|Late Devonian]] extinctions were linked to anoxic events in which seawater was deprived of oxygen. Volcanism at the [[Siberian Traps|Siberian Traps]] is linked to the end-[[Permian|Permian]] extinction.
+
+=== KEY: Extraterrestrial_life_0febaf
+HEADWORD: Extraterrestrial life = 외계 생명체
+LEVEL: 4
+GLOSSARY:
+  Drake equation = 드레이크 방정식
+  Earth = 지구
+  Europa = 에우로페
+  Europa (moon) = 유로파
+  Interstellar = 「인터스텔라」
+  Life = 『라이프』
+  Mars = 화성
+  Project Ozma = 오즈마 계획
+  Titan (moon) = 타이탄
+  Venus = 금성
+  Viking = 바이킹
+  Viking program = 바이킹 계획
+  Voyager = 보이저
+  Voyager 1 = 보이저 1호
+  Voyager 2 = 보이저 2호
+  extraterrestrial life = 외계 생명체
+  interstellar medium = 성간 매질
+  science fiction = 과학 소설
+  solar system = 태양계
+ENTRY:
+Life originating on a world other than Earth, also called alien life. No extraterrestrial life has yet been detected. Speculation about inhabited worlds dates back to antiquity, and since the mid-20th century researchers have searched for life and intelligence, including the 1960 Project Ozma experiment and NASA's Viking program on [[Mars|Mars]]. Thought experiments such as the [[Drake equation|Drake equation]] estimate the probability of intelligent life elsewhere, and current solar system studies focus on Venus, Mars, [[Europa (moon)|Europa]] and [[Titan (moon)|Titan]]. Interstellar travel remains largely hypothetical, although [[Voyager 1|Voyager 1]] and [[Voyager 2|Voyager 2]] have entered the interstellar medium. The subject has strongly influenced science fiction.
+
+=== KEY: Extratropical_cyclone_14480b
+HEADWORD: Extratropical cyclone = 온대 저기압
+LEVEL: 4
+GLOSSARY:
+  Blizzard = 블리자드
+  Hail = 우박
+  Jet stream = 제트 기류
+  Latitude = 위도
+  Tornado = 토네이도
+  Tropical cyclone = 열대 저기압
+  Weather front = 전선
+  anticyclones = 고기압
+  baroclinic = 경압성
+  dew point = 이슬점
+  low-pressure system = 저기압
+  mid-latitude = 중위도 저기압
+  occludes = 폐색
+  tropical cyclones = 열대 저기압
+  upper-level divergence = 상층 발산
+  wave cyclone = 파동 저기압
+  weather fronts = 전선
+ENTRY:
+Large-scale low-pressure system of the middle latitudes, also called a mid-latitude or wave cyclone. Extratropical cyclones generally form between 30 and 60 degrees of [[Latitude|latitude]] and, with anticyclones, drive much of the weather in those regions. They can produce everything from wind and mild showers to severe [[Hail|hail]], thunderstorms, [[Blizzard|blizzards]] and [[Tornado|tornadoes]]. Unlike [[Tropical cyclone|tropical cyclones]], they produce rapid changes in temperature and dew point along broad [[Weather front|weather fronts]]. They form along zones of temperature and dew-point gradient, where upper-level divergence beneath a [[Jet stream|jet stream]] lowers surface pressure. They are classified as baroclinic, and later in their life cycle the cyclone occludes and weakens.
+
+=== KEY: Extraversion_and_introversion_e9925e
+HEADWORD: Extraversion and introversion = 외향성과 내향성
+LEVEL: 4
+GLOSSARY:
+  Carl Jung = 카를 융
+  Introspection = 내성
+ENTRY:
+Central dimension of human personality, introduced into psychology by [[Carl Jung|Carl Jung]]. Extraversion is associated with sociability, talkativeness and high energy, while introversion is linked to [[Introspection|introspection]], reserve and a preference for solitary activities. Jung defined introversion as an orientation through subjective psychic contents, and extraversion as a concentration of interest on the external object. These traits are measured in degrees rather than fixed categories. Although often presented as opposite ends of a continuum, most people have elements of both, with one more dominant depending on the situation.
+
+=== KEY: Extreme_sport_dc2b74
+HEADWORD: Extreme sport = 익스트림 스포츠
+LEVEL: 4
+GLOSSARY:
+  Bridge = 다리
+  Bristol = 브리스틀
+  Bungee jumping = 번지 점프
+  Clifton Suspension Bridge = 클리프턴 현수교
+  Climbing = 등반
+  Dangerous = 「데인저러스」
+  Dangerous Sports Club = 데인저러스 스포츠 클럽
+  England = 잉글랜드
+  Extreme Sports Channel = 익스트림 스포츠 채널
+  Oxford = 옥스퍼드
+  Oxford University = 옥스퍼드 대학교
+  Skateboarding = 스케이트보드
+  Snowboarding = 스노보드
+  Surfing = 서핑
+  University = 대학
+  X Games = X 게임스
+  action sport = 액션 스포츠
+ENTRY:
+Activity, also called an action sport, perceived as involving a high degree of risk of injury or death. Extreme sports often involve speed, height, high physical exertion and specialized gear, and are affected by uncontrollable variables such as wind, snow, water and mountains. The term gained popularity in the 1990s, when marketers used it to promote the X Games and the Extreme Sports Channel. [[Skateboarding|Skateboarding]], [[Snowboarding|snowboarding]], [[Surfing|surfing]] and [[Climbing|climbing]] are examples. Judging is often subjective and aesthetic rather than unified. Bungee jumping was pioneered by members of the Dangerous Sports Club of Oxford University, who made the first modern jumps on April 1, 1979, from the Clifton Suspension Bridge in Bristol, England.
+
+=== KEY: Extremophile_88a0c9
+HEADWORD: Extremophile = 극한성 생물
+LEVEL: 4
+GLOSSARY:
+  Antarctica = 남극 대륙
+  Bacteria = 세균
+  Extraterrestrial life = 외계 생명체
+  Mariana = 마리아나 제도
+  Mariana Trench = 마리아나 해구
+  Microorganism = 미생물
+  Organism = 생물
+  Tardigrade = 완보동물
+  anthropocentric = 인간 중심적
+  archaea = 고세균
+  extraterrestrial life = 외계 생명체
+  fungi = 균류
+ENTRY:
+Organism that lives or thrives in extreme environments, such as very hot or cold conditions, high pressure, high radiation, high salinity or extreme pH. Extremophiles are mainly [[Microorganism|microorganisms]], chiefly [[Bacteria|bacteria]] and archaea, though some eukaryotes, such as certain fungi and [[Tardigrade|tardigrades]], also qualify. Because an extreme environment is defined relative to an anthropocentric standard, these organisms are considered ecologically dominant in the planet's evolutionary history. Bacteria have been found living in a lake buried a half-mile deep under ice in [[Antarctica]] and in the [[Mariana Trench]]. Studies of extremophiles have expanded knowledge of the limits of life and inform speculation about [[Extraterrestrial life|extraterrestrial life]].
+
+=== KEY: Extrusion_5a61a3
+HEADWORD: Extrusion = 압출
+LEVEL: 4
+GLOSSARY:
+  Ceramic = 세라믹
+  Concrete = 콘크리트
+  Drawing = 인발
+  Joseph Bramah = 조지프 브라마
+  Manufacturing = 제조업
+  Metal = 금속
+  Polymer = 중합체
+  Steel = 강철
+  Wire = 철사
+  compressive and shear stresses = 압축 응력과 전단 응력
+  die = 다이
+  tensile strength = 인장 강도
+ENTRY:
+Manufacturing process of pushing material through a die to form objects with a fixed cross-sectional profile. Its advantages include the ability to create very complex cross-sections, to work brittle materials, which encounter only compressive and shear stresses, and to produce an excellent surface finish. Drawing, which pulls material through a die using tensile strength, is the main way to produce [[Wire|wire]]. Commonly extruded materials include [[Metal|metals]], [[Polymer|polymers]], [[Ceramic|ceramics]] and [[Concrete]]. Joseph Bramah patented the first extrusion process, for pipe made from soft metals, in 1797. Harder materials such as [[Steel|steel]] began to be extruded in 1951, and extrusion can also increase the strength of metals.
+
+=== KEY: ExxonMobil_c2abab
+HEADWORD: ExxonMobil = 엑손모빌
+LEVEL: 5
+GLOSSARY:
+  Alaska = 알래스카주
+  Climate change = 기후 변화
+  Exxon = 엑손
+  Exxon Valdez oil spill = 엑손 발데즈호 원유 유출 사고
+  Houston = 휴스턴
+  John = 존
+  John D. Rockefeller = 존 D. 록펠러
+  Mobil = 모빌
+  Standard = 스탠더드
+  Standard Oil = 스탠더드 오일
+  Texas = 텍사스주
+  vertically integrated = 수직 통합
+ENTRY:
+American multinational oil and gas company, headquartered in Spring, Texas, near [[Houston]]. Formed in 1999 by the merger of Exxon and Mobil, it is the largest direct successor of [[John D. Rockefeller]]'s [[Standard Oil]]. It is vertically integrated across the oil and gas industry and is the largest investor-owned oil company in the world. The 1989 Exxon Valdez oil spill in [[Alaska]] is considered one of the worst in terms of environmental damage, and the company has faced criticism and lawsuits over environmental incidents and its past positions on [[Climate change|climate change]].

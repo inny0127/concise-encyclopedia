@@ -1,0 +1,1026 @@
+=== KEY: Amorites_0b907d
+HEADWORD: Amorites = 아모리인
+LEVEL: 4
+GLOSSARY:
+  Akkadian = 아카드어
+  Akkadian literature = 아카드 문학
+  Amorite = 아모리인
+  Amorites = 아모리인
+  Amurru = 아무루
+  Babylon = 바빌론
+  Bible = 성경
+  Bronze = 청동
+  Bronze Age = 청동기 시대
+  Canaan = 가나안
+  Dynasty = 「다이너스티」
+  Ebla = 에블라
+  Egypt = 이집트
+  Empire = 「엠파이어」
+  Euphrates = 유프라테스강
+  Fourteenth Dynasty of Egypt = 이집트 제14왕조
+  Hebrew = 히브리어
+  Hebrew Bible = 히브리어 성경
+  Hyksos = 힉소스
+  Isin = 이신
+  Joshua = 여호수아
+  Kurda = 쿠르다
+  Larsa = 라르사
+  Levant = 레반트
+  Mari = 마리
+  Mesopotamia = 메소포타미아
+  Old Babylonian = 고바빌로니아
+  Old Babylonian Empire = 고바빌로니아 제국
+  Second = 초
+  Second Intermediate Period = 제2중간기
+  Shu-Sin = 슈신
+  Sumerian = 수메르
+  Third = 교향곡 제3번
+  Third Dynasty = 제3왕조
+  Third Dynasty of Ur = 우르 제3왕조
+  Tigris = 티그리스강
+  Ur = 우르
+ENTRY:
+Ancient Northwest Semitic-speaking [[Bronze Age]] people from western [[Mesopotamia]]. First mentioned in Sumerian records c. 2500 BC, they ruled most of the [[Levant]] and Mesopotamia, and parts of Egypt, from the 21st century BC to the start of the 16th century BC. Amorite city-states included Isin, Kurda, Larsa, Mari and [[Ebla]], and the Amorites founded [[Babylon]] and the Old Babylonian Empire. They also founded the Fourteenth Dynasty of Egypt during the Second Intermediate Period, and were likely part of the later Hyksos. In Akkadian and Sumerian texts, Amurru refers to the Amorites, their principal deity and their kingdom. Some Akkadian literature speaks disparagingly of them as nomads. The Hebrew Bible describes them as inhabitants of [[Canaan]] before and after the conquest under Joshua. Shu-Sin of the Third Dynasty of Ur built a 270 km wall between the Tigris and Euphrates to hold them off.
+
+=== KEY: Amorphous_solid_a5049d
+HEADWORD: Amorphous solid = 비정질 고체
+LEVEL: 4
+GLOSSARY:
+  Crystal = 결정
+  Glass = 유리
+  Plastic = 플라스틱
+  Polymer = 중합체
+  Solid = 고체
+  amorphous solids = 비정질 고체
+  glass transition = 유리 전이
+  long-range order = 장거리 질서
+  metallic glasses = 금속 유리
+  non-crystalline solid = 비결정질 고체
+  radial distribution function = 동경 분포 함수
+  short-range order = 단거리 질서
+  specific heat = 비열
+  thermal conductivity = 열전도율
+  unit cell = 단위 세포
+ENTRY:
+Solid that lacks the long-range order characteristic of a [[Crystal|crystal]]. Also called a non-crystalline solid, it includes [[Glass|glasses]], metallic glasses, and certain [[Plastic|plastics]] and [[Polymer|polymers]]. The terms 'glass' and 'glassy solid' are sometimes used as synonyms, but refer specifically to amorphous materials that undergo a glass transition. Amorphous materials show short-range order over typically 1–2 atomic spacings, but no repeating unit cell, so statistical measures such as the radial distribution function describe their structure. The freezing of a liquid into an amorphous solid is one of the important unsolved problems of physics. Below about 1–10 K, amorphous solids share anomalous properties, including nearly linear specific heat and nearly quadratic thermal conductivity, that current theories explain only partly.
+
+=== KEY: Amount_of_substance_6a915b
+HEADWORD: Amount of substance = 물질량
+LEVEL: 4
+GLOSSARY:
+  Avogadro constant = 아보가드로 상수
+  Chemistry = 화학
+  Dalton (unit) = 돌턴
+  International System of Units = 국제단위계
+  Mole (unit) = 몰
+  Molecule = 분자
+  Pure = 「퓨어」
+  SI unit = SI 단위
+  elementary entities = 기본 입자
+  ideal gas = 이상 기체
+  ion pairs = 이온쌍
+  molar mass = 몰 질량
+  molar volume = 몰 부피
+ENTRY:
+Base quantity of the [[International System of Units|International System of Units (SI)]], defined as the ratio of the number of elementary entities in a sample to the [[Avogadro constant]]. Its SI unit is the [[Mole (unit)|mole]] (mol). Since 2019 the Avogadro constant has been defined as exactly 6.02214076×10²³ mol⁻¹, which makes the mole convenient for laboratory-scale chemistry. The entities are usually [[Molecule|molecules]], atoms, ions or ion pairs. The amount of a substance can be calculated from measured mass or volume, given its molar mass or the molar volume of an ideal gas. Because of how the mole and the [[Dalton (unit)|dalton]] are defined, a mole of water has a mass of about 18.0153 grams, close to the mass of one water molecule in daltons. The International Union of Pure and Applied Chemistry deprecates the term 'number of moles'.
+
+=== KEY: Amoxicillin_25a01f
+HEADWORD: Amoxicillin = 아목시실린
+LEVEL: 5
+GLOSSARY:
+  Aminopenicillin = 아미노페니실린
+  Antibiotic = 항생제
+  List of Essential Medicines = 필수 의약품 목록
+  Penicillin = 페니실린
+  World = 세계
+  adverse effects = 부작용
+  middle ear = 중이
+  middle ear infection = 중이염
+  strep throat = 연쇄상 구균 인두염
+  urinary tract infections = 요로 감염
+ENTRY:
+Aminopenicillin [[Antibiotic|antibiotic]] of the penicillin family. It is used to treat and prevent bacterial infections such as middle ear infection, strep throat, pneumonia, skin infections and urinary tract infections. Common adverse effects include nausea and rash. It should not be used by people allergic to [[Penicillin|penicillin]]. Discovered in 1958 and in medical use from 1972, it is on the World Health Organization's List of Essential Medicines and is one of the most commonly prescribed antibiotics in children.
+
+=== KEY: Ampere_2ee3b9
+HEADWORD: Ampere = 암페어
+LEVEL: 4
+GLOSSARY:
+  André-Marie Ampère = 앙드레마리 앙페르
+  Coulomb = 쿨롬
+  Electricity = 전기
+  Electromagnetism = 전자기학
+  French = 프랑스어
+  Hans Christian Ørsted = 한스 크리스티안 외르스테드
+  International Exposition = 만국 박람회
+  International Exposition of Electricity = 국제 전기 박람회
+  International System of Units = 국제단위계
+  SI base unit = SI 기본 단위
+  elementary charge = 기본 전하
+ENTRY:
+[[International System of Units|SI]] base unit of electric current, equal to one [[Coulomb|coulomb]] of charge passing a point per second. It is named after French mathematician and physicist [[André-Marie Ampère]], who with [[Hans Christian Ørsted]] is considered the father of [[Electromagnetism|electromagnetism]]. Since the 2019 revision of the SI, the ampere is defined by fixing the elementary charge at exactly 1.602176634×10⁻¹⁹ coulombs, so one ampere corresponds to about 6.241509074×10¹⁸ elementary charges per second. Previously it was defined by the force between two parallel wires one meter apart in a vacuum, equal to 2×10⁻⁷ newtons per meter of length. An international convention signed at the 1881 International Exposition of Electricity established the ampere as a standard unit.
+
+=== KEY: Amphetamine_7eacb3
+HEADWORD: Amphetamine = 암페타민
+LEVEL: 4
+GLOSSARY:
+  ADHD = 주의력 결핍 과잉 행동 장애
+  Addiction = 중독
+  Amphetamine = 암페타민
+  Attention deficit hyperactivity disorder = 주의력 결핍 과잉행동 장애
+  Benzedrine = 벤제드린
+  Central nervous system = 중추 신경계
+  Dopamine = 도파민
+  Narcolepsy = 기면증
+  Stimulant = 각성제
+  attention deficit hyperactivity disorder = 주의력 결핍 과잉 행동 장애
+  binge eating = 폭식
+  binge eating disorder = 폭식 장애
+  cognitive control = 인지 조절
+  dextroamphetamine = 덱스트로암페타민
+  enantiomers = 거울상 이성질체
+  excitatory neurotransmission = 흥분성 신경 전달
+  levoamphetamine = 레보암페타민
+  lisdexamfetamine = 리스덱스암페타민
+  monoamine = 모노아민
+  norepinephrine = 노르에피네프린
+ENTRY:
+Central nervous system (CNS) [[Stimulant|stimulant]] used to treat [[Attention deficit hyperactivity disorder|attention deficit hyperactivity disorder (ADHD)]] and [[Narcolepsy|narcolepsy]]. In the form of lisdexamfetamine it is also used to treat binge eating disorder, and it has historically been used for nasal congestion and depression. Amphetamine was discovered as a chemical in 1887 and as a drug in the late 1920s; the first pharmaceutical form was Benzedrine. It exists as two enantiomers, levoamphetamine and dextroamphetamine. It increases monoamine and excitatory neurotransmission, with its most pronounced effects on the [[Dopamine|dopamine]] and norepinephrine systems. At therapeutic doses it causes euphoria, increased wakefulness and improved cognitive control. [[Addiction|Addiction]] is a serious risk with heavy recreational use, but is unlikely from long-term medical use at therapeutic doses.
+
+=== KEY: Amphibian_436ae7
+HEADWORD: Amphibian = 양서류
+LEVEL: 3
+GLOSSARY:
+  Amphibian = 양서류
+  Anura = 무미목
+  Caecilian = 무족영원류
+  Carboniferous = 석탄기
+  China = 중국
+  Devonian = 데본기
+  Early Triassic = 전기 트라이아스기
+  Frog = 개구리
+  Guinea = 기니
+  Gymnophiona = 무족영원목
+  Lissamphibia = 평활양서아강
+  Lizard = 도마뱀
+  Metamorphosis = 변태
+  New Guinea = 뉴기니섬
+  Permian = 페름기
+  Reptile = 파충류
+  Salamander = 도롱뇽
+  South China = 화난
+  South China giant salamander = 남중국장수도롱뇽
+  Tetrapod = 사지동물
+  Triassic = 트라이아스기
+  Urodela = 유미목
+  amniotes = 양막류
+  anamniotic = 무양막
+  batrachology = 양서류학
+  ecological indicators = 생태 지표
+  ectothermic = 외온성
+  habitat destruction = 서식지 파괴
+  herpetology = 파충양서류학
+  lepospondyls = 공추류
+  lobe-finned fishes = 육기어류
+  paraphyletic = 측계통
+  synapsids = 단궁류
+  tadpoles = 올챙이
+  temnospondyl = 분추류
+  thyroid hormones = 갑상샘 호르몬
+ENTRY:
+Class of ectothermic, anamniotic, four-limbed vertebrates.
+
+In its broadest sense the group is paraphyletic, encompassing all [[Tetrapod|tetrapods]] except the amniotes (modern reptiles, birds, and mammals). All living amphibians belong to the subclass Lissamphibia, with three orders: Anura ([[Frog|frogs]] and toads), Urodela ([[Salamander|salamanders]]), and Gymnophiona ([[Caecilian|caecilians]]). About 8,000 species are known, nearly 90% of them frogs.
+
+The typical life cycle begins with aquatic, gilled larvae (tadpoles) that undergo [[Metamorphosis|metamorphosis]], driven largely by thyroid hormones, into air-breathing, lunged adults. The skin serves as a secondary respiratory surface, and some small terrestrial salamanders and frogs lack lungs entirely. Though superficially similar to [[Lizard|lizards]], amphibians require access to water to breed, and adults generally cannot breathe underwater. Their permeable skins and complex reproductive needs make them ecological indicators of habitat conditions. The smallest amphibian, and smallest vertebrate, is the New Guinea frog *Paedophryne amauensis*, at 7.7 mm. The largest living amphibian is the South China giant salamander (*Andrias sligoi*), at 1.8 m; the prehistoric temnospondyl *Mastodonsaurus* could reach up to 6 m.
+
+The earliest amphibians evolved in the [[Devonian]] from lobe-finned fishes that had developed primitive lungs. They diversified and became ecologically dominant in the Carboniferous and Permian periods, then were displaced on land by early [[Reptile|reptiles]] and basal synapsids. Modern lissamphibians first appeared in the Early Triassic, around 250 million years ago; their origin is contentious, the most popular hypothesis tracing them to temnospondyls and another to lepospondyls.
+
+Amphibian populations have declined dramatically in recent decades. Of assessed species, 41% are threatened with extinction, owing to habitat destruction, pathogens such as *Batrachochytrium dendrobatidis*, and climate-driven disruption. The study of amphibians is batrachology; that of reptiles and amphibians together is herpetology.
+
+=== KEY: Amplifier_cb11f4
+HEADWORD: Amplifier = 증폭기
+LEVEL: 4
+GLOSSARY:
+  Direct current = 직류
+  Forest = 숲
+  Gain (electronics) = 이득
+  Lee de Forest = 리 디포리스트
+  Transistor = 트랜지스터
+  Vacuum = 진공
+  Vacuum tube = 진공관
+  de = 덕
+  direct current = 직류
+  power amplifier = 전력 증폭기
+  preamplifier = 전치 증폭기
+  radio-frequency amplifiers = 고주파 증폭기
+  servo = 서보
+  triode = 3극 진공관
+ENTRY:
+Electronic device or circuit that increases the magnitude of a signal, such as a voltage or current. Its [[Gain (electronics)|gain]], the ratio of output to input, measures the amplification; a circuit is an amplifier if its power gain is greater than one. Audio amplifiers handle signals below 20 kHz, radio-frequency amplifiers 20 kHz to 300 GHz, and some servo and instrumentation amplifiers work down to [[Direct current|direct current]]. A preamplifier precedes other signal-processing stages, while a power amplifier provides the final output. The triode [[Vacuum tube|vacuum tube]], invented in 1906 by [[Lee de Forest]], led to the first amplifiers around 1912. Vacuum tubes were used in almost all amplifiers until the 1960s–1970s, when [[Transistor|transistors]] replaced them.
+
+=== KEY: Amplitude_f4d00f
+HEADWORD: Amplitude = 진폭
+LEVEL: 4
+GLOSSARY:
+  Alternating current = 교류
+  Electrical engineering = 전기 공학
+  Exoplanet = 외계 행성
+  Oscilloscope = 오실로스코프
+  Peak-to-peak amplitude = 피크 간 진폭
+  Root = 뿌리
+  Root mean square = 제곱평균제곱근
+  Semi-amplitude = 반진폭
+  alternating current = 교류
+  electrical engineering = 전기공학
+  radial velocity = 시선 속도
+  sinusoidal waveform = 사인파
+ENTRY:
+Measure of change in a periodic variable over one period, or of the magnitude of a non-periodic signal relative to a reference value. Peak-to-peak amplitude is the change between peak and trough, written Vpp when applied to voltages, and is often read on an [[Oscilloscope|oscilloscope]]. Semi-amplitude is half of that. Most scientific literature uses 'amplitude' or 'peak amplitude' to mean semi-amplitude. In astronomy, semi-amplitude is the most widely used measure of orbital wobble, and small radial velocity semi-amplitudes help in the search for [[Exoplanet|exoplanets]]. Root mean square (RMS) amplitude is used especially in [[Electrical engineering|electrical engineering]], because the average power transmitted by a wave is proportional to the square of the RMS amplitude. For [[Alternating current|alternating current]] power, the universal practice is to specify RMS values of a sinusoidal waveform.
+
+=== KEY: Amputation_bbebe2
+HEADWORD: Amputation = 절단술
+LEVEL: 4
+GLOSSARY:
+  Borneo = 보르네오섬
+  Congenital amputation = 선천성 절단
+  East Kalimantan = 동칼리만탄주
+  Gangrene = 괴저
+  Indonesian = 인도네시아어
+  Kalimantan = 칼리만탄
+  Liang Tebo = 리앙테보
+  Prosthesis = 보철
+  bioelectric replantation = 생체전기 재접합
+  constrictive bands = 양막띠
+  judicial amputation = 사법적 절단형
+ENTRY:
+Removal of a limb or other body part by trauma, medical illness or surgery. Surgical amputation controls pain or disease in the affected limb, such as malignancy or [[Gangrene|gangrene]], and is sometimes performed preventively. Congenital amputation occurs when fetal limbs are cut off by constrictive bands. In some countries, judicial amputation is used to punish crimes, and amputation has been used as a tactic in war and terrorism. The oldest evidence comes from a skeleton in Liang Tebo cave, East Kalimantan, in Indonesian [[Borneo]], dating back at least 31,000 years, where the amputation was done when the person was a young child. A [[Prosthesis|prosthesis]] or bioelectric replantation may restore sensation of the amputated limb.
+
+=== KEY: Amr_ibn_al_As_712fbf
+HEADWORD: Amr ibn al-As = 아므르 이븐 알아스
+LEVEL: 4
+GLOSSARY:
+  Abu Bakr = 아부 바크르
+  Ajnadayn = 아즈나다인
+  Alexandria = 알렉산드리아
+  Ali = 알리
+  Byzantines = 비잔티움 제국
+  Caliph = 칼리프
+  Egypt = 이집트
+  First Fitna = 제1차 피트나
+  Fustat = 푸스타트
+  Islam = 이슬람교
+  Mu'awiya = 무아위야
+  Mu'awiya I = 무아위야 1세
+  Mu'awiya ibn Abi Sufyan = 무아위야 이븐 아비 수피안
+  Muhammad = 무함마드
+  Muslim conquest = 이슬람의 정복
+  Palestine = 팔레스타인
+  Palestine (region) = 팔레스타인
+  Qurayshite = 쿠라이시족
+  Syria = 시리아
+  Uthman = 우스만
+  Yarmuk = 야르무크
+ENTRY:
+Arab military commander and companion of [[Muhammad]], who led the Muslim conquest of [[Egypt]] and served as its governor. Son of a wealthy Qurayshite, he embraced Islam c. 629. Caliph [[Abu Bakr]] appointed him to command the conquest of Syria, and he took most of [[Palestine (region)|Palestine]], where he became governor. He helped lead Arab forces to victories over the Byzantines at Ajnadayn and the Yarmuk in 634 and 636. He launched the conquest of Egypt on his own initiative in late 639, and [[Alexandria]] surrendered in 641 or 642. He founded Fustat as the provincial capital, with the mosque later named after him at its center. He governed Egypt in 640–646 and 658–664. Caliph [[Uthman]] dismissed him in 646 after accusations of incompetence. In the First Fitna he joined [[Mu'awiya I|Mu'awiya ibn Abi Sufyan]] against [[Ali|Caliph Ali]], and after Ali's loyalists were defeated he again took control of Egypt.
+
+=== KEY: Amritsar_f9bf13
+HEADWORD: Amritsar = 암리차르
+LEVEL: 4
+GLOSSARY:
+  Amritsar = 암리차르
+  Amritsar district = 암리차르 지구
+  Amṛta Sarovar = 암리타 사로바르
+  City = 도시
+  Golden Temple = 황금 사원
+  Guru Ram Das = 구루 람 다스
+  India = 인도
+  Jallianwala Bagh = 잘리안왈라 바그
+  Jallianwala Bagh massacre = 암리차르 학살
+  Ludhiana = 루디아나
+  Majha = 마자
+  Pakistan = 파키스탄
+  Punjab = 펀자브
+  Ramdaspur = 람다스푸르
+  Sikhism = 시크교
+  gurdwara = 구르드와라
+ENTRY:
+City in the [[India|Indian]] state of Punjab, second-largest after Ludhiana (pop., 2011: 1,132,383). Located in the Majha region, it is a major cultural, transportation and economic center, and the economic capital of Punjab. It is the administrative headquarters of Amritsar district and lies 28 km from the India–Pakistan border. It is home to the [[Golden Temple|Golden Temple]], the holiest site and most-visited gurdwara in [[Sikhism]]. The city takes its name from the Amṛta Sarovar, the pool surrounding the temple. Guru Ram Das, the fourth Sikh guru, is credited with founding it in 1574, when it was sometimes known as Ramdaspur. In 1919 British forces fired on unarmed protesters in the [[Jallianwala Bagh massacre|Jallianwala Bagh massacre]], killing at least 379 people according to official British reports. The city is known for wooden chessboards and chess pieces.
+
+=== KEY: Amsterdam_3eb867
+HEADWORD: Amsterdam = 암스테르담
+LEVEL: 4
+GLOSSARY:
+  Amstel River = 암스털강
+  Amsterdam = 암스테르담
+  Amsterdam Stock Exchange = 암스테르담 증권 거래소
+  Dutch = 네덜란드어
+  Dutch Golden Age = 네덜란드 황금시대
+  Holland = 홀란트
+  Netherlands = 네덜란드
+  North Holland = 노르트홀란트주
+  Rembrandt = 렘브란트
+  River = 강
+  Stock = 주식
+  Stock exchange = 증권 거래소
+  The Hague = 헤이그
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  Vincent van Gogh = 빈센트 반 고흐
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Capital and largest city of the [[Netherlands]] (pop., 2026: 941,873), in the province of North Holland. Founded at the mouth of the Amstel River, which was dammed to control flooding, it was a small fishing village in the 12th century before becoming a major port during the [[Dutch Golden Age]] of the 17th century. Its canals are a UNESCO World Heritage Site, and the canal houses with gabled façades attract millions of visitors annually. The [[Stock exchange|Amsterdam Stock Exchange]], founded in 1602, is considered the oldest 'modern' securities market. Many large Dutch institutions and multinational companies have headquarters in the city, and it is the cultural capital of the Netherlands. The government and foreign embassies are in [[The Hague]], not Amsterdam. The city is known for openness, liberalism and tolerance, and for the art of [[Rembrandt]] and [[Vincent van Gogh]].
+
+=== KEY: Amsterdam_Airport_Schiphol_816ee5
+HEADWORD: Amsterdam Airport Schiphol = 암스테르담 스히폴 공항
+LEVEL: 5
+GLOSSARY:
+  Amsterdam = 암스테르담
+  COVID-19 = 코로나19
+  COVID-19 pandemic = 코로나19 범유행
+  Europe = 유럽
+  KLM = KLM 네덜란드 항공
+  KLM Cityhopper = KLM 시티호퍼
+  Netherlands = 네덜란드
+  Schiphol = 스히폴
+ENTRY:
+Main international airport of the [[Netherlands]], 9 km southwest of [[Amsterdam]]. It is the principal hub for [[KLM]] and its regional affiliate KLM Cityhopper. In 2025 it handled 68.8 million passengers, the fourth-busiest airport in Europe by passenger volume. Schiphol began as a military airfield on 19 September 1916. In 1949 it was decided that Schiphol would become the primary airport of the Netherlands. Passenger traffic fell sharply during the [[COVID-19 pandemic|COVID-19 pandemic]] and had not returned to its 2019 record by 2025.
+
+=== KEY: Amtrak_8600ba
+HEADWORD: Amtrak = 암트랙
+LEVEL: 5
+GLOSSARY:
+  Canadian = 캐나다
+  Dakota = 다코타족
+  South Dakota = 사우스다코타주
+  U.S. state = 미국의 주
+  United States = 미국
+  Washington = 워싱턴주
+  Washington, D.C. = 워싱턴 D.C.
+  Wyoming = 와이오밍주
+  fiscal year = 회계 연도
+  quasi-public corporation = 준공공 법인
+ENTRY:
+National passenger railroad company of the United States, doing business as Amtrak. Founded in 1971 as a quasi-public corporation, it receives federal and state subsidies but is managed as a for-profit organization. It operates intercity rail service in every contiguous U.S. state except [[Wyoming]] and [[South Dakota]], as well as in three Canadian provinces. Its headquarters is in [[Washington, D.C.]] In fiscal year 2025 it served 34.5 million passengers, with more than 22,100 employees. The name is a portmanteau of 'America' and 'track'.
+
+=== KEY: Amu_Darya_21cde1
+HEADWORD: Amu Darya = 아무다리야강
+LEVEL: 4
+GLOSSARY:
+  Afghanistan = 아프가니스탄
+  Aral Sea = 아랄해
+  Asia = 아시아
+  Central Asia = 중앙아시아
+  Greater Iran = 대이란
+  Hindu Kush = 힌두쿠시산맥
+  Iran = 이란
+  Irrigation = 관개
+  Kush = 쿠시
+  Oxus = 옥수스강
+  Pamir = 파미르
+  Pamir Mountains = 파미르고원
+  Panj = 판지강
+  Tajikistan = 타지키스탄
+  Turan = 투란
+  Turkmenistan = 투르크메니스탄
+  Uzbekistan = 우즈베키스탄
+  Vakhsh = 바흐시강
+ENTRY:
+Major river of [[Central Asia]], historically known as the Oxus. It rises in the Pamir Mountains, north of the [[Hindu Kush]], and is formed by the confluence of the Vakhsh and Panj rivers. It flows through [[Afghanistan]], [[Tajikistan]], [[Turkmenistan]] and [[Uzbekistan]], and has a total length of 2,400 kilometers (1,500 mi). Historically it flowed north-west into the [[Aral Sea]], but today it does not reach the sea, and its mouth lies in a dried-up area of what was the Aral Sea. Large-scale [[Irrigation|irrigation]] has greatly reduced its flow. The river is navigable for over 1,450 kilometers (900 mi). In ancient history it was regarded as the boundary of Greater Iran with Turan.
+
+=== KEY: Amun_b19cb2
+HEADWORD: Amun = 아문
+LEVEL: 4
+GLOSSARY:
+  11th Dynasty = 제11왕조
+  Ahmose I = 아흐모세 1세
+  Akhenaten = 아케나텐
+  Amun = 아문
+  Amun-Ra = 아문라
+  Atenist heresy = 아텐 신앙 이단
+  Dynasty = 「다이너스티」
+  Egypt = 이집트
+  Greece = 그리스
+  Hermopolitan Ogdoad = 헤르모폴리스의 오그도아드
+  Hyksos = 힉소스
+  Jupiter = 목성
+  Jupiter (god) = 유피테르
+  Montu = 몬투
+  New Kingdom = 신왕국
+  Nubia = 누비아
+  Oasis = 오아시스
+  Ra = 라
+  Rome = 로마
+  Siwa = 시와
+  Siwa Oasis = 시와 오아시스
+  Thebes = 테베
+  Zeus = 제우스
+ENTRY:
+Major ancient Egyptian deity and member of the Hermopolitan Ogdoad. His oracle at Siwa Oasis, in western Egypt, remained the only oracle of Amun throughout. From the 11th Dynasty (c. 21st century BC) he was patron deity of Thebes, replacing Montu. After the rebellion of Thebes against the Hyksos, under [[Ahmose I|Ahmose I]] (16th century BC), he was fused with the sun god [[Ra]] as Amun-Ra and gained national importance. As chief deity of the New Kingdom (16th–11th centuries BC), Amun-Ra was the champion of the poor or troubled and central to personal piety, except during the Atenist heresy of [[Akhenaten]]. He was identified with [[Zeus]] in Greece and [[Jupiter (god)|Jupiter]] in Rome, and was worshiped in [[Nubia]].
+
+=== KEY: Amur_e4eaa3
+HEADWORD: Amur = 아무르강
+LEVEL: 4
+GLOSSARY:
+  Amur = 아무르강
+  Argun = 아르군강
+  Asia = 아시아
+  China = 중국
+  Drainage basin = 유역
+  Estuary = 하구
+  Far East = 극동
+  Khabarovsk = 하바롭스크
+  Nikolayevsk-on-Amur = 니콜라옙스크나아무레
+  Northeast = 북동부
+  Northeast Asia = 동북아시아
+  Russia = 러시아
+  Russian = 러시아어
+  Russian Far East = 러시아 극동
+  Shilka = 실카강
+  Songhua = 쑹화강
+  Strait = 해협
+  Strait of Tartary = 타타르 해협
+  Sturgeon = 철갑상어
+  Tartary = 타타리
+  Tongjiang = 퉁장
+  Treaty = 조약
+  Treaty of Aigun = 아이훈 조약
+  Trout = 송어
+  Ussuri = 우수리강
+  drainage basin = 유역
+  kaluga = 칼루가철갑상어
+ENTRY:
+Perennial river in Northeast Asia, the border between the Russian Far East and northeastern [[China]]. The Amur proper is 2,824 km (1,755 mi) long, and its [[Drainage basin|drainage basin]] covers 1,855,000 sq km (716,000 sq mi). Including its main tributary, the Argun, the river is 4,444 km (2,761 mi) long, the world's tenth longest river. It rises where the Shilka and Argun meet at 303 m (994 ft) and is joined at Tongjiang by the Songhua. Near Khabarovsk the Ussuri joins, and the river turns north and then east to an [[Estuary|estuary]] at Nikolayevsk-on-Amur, about 20 km (12 mi) upstream of its mouth on the Strait of Tartary. The river holds large predatory fish and several species of [[Trout|trout]]. The kaluga, one of the world's largest freshwater fish, is a [[Sturgeon|sturgeon]] reaching 5.6 m (18 ft). Under the Treaty of Aigun (1858), territory north of the river passed to [[Russia]].
+
+=== KEY: Amusement_park_9874b0
+HEADWORD: Amusement park = 놀이공원
+LEVEL: 4
+GLOSSARY:
+  Bakken = 바켄
+  Copenhagen = 코펜하겐
+  Denmark = 덴마크
+  Disneyland = 디즈니랜드
+  Klampenborg = 클람펜보르
+  Lake = 호수
+  Lake Compounce = 레이크 컴파운스
+  North America = 북아메리카
+  Tivoli Gardens = 티볼리 공원
+  Vienna = 빈
+  Working class = 노동 계급
+  World = 세계
+  World War II = 제2차 세계 대전
+  World's fair = 만국 박람회
+  Wurstelprater = 부르스텔프라터
+  funfairs = 이동식 유원지
+  pleasure gardens = 유원 정원
+  theme park = 테마파크
+ENTRY:
+Stationary park offering rides, games and entertainment events. Unlike temporary funfairs and carnivals, amusement parks are built for long-lasting operation and cater to several age groups. A theme park is a type of amusement park built around a central theme. Amusement parks evolved from European fairs, pleasure gardens and picnic areas, and were also influenced by [[World's fair|world's fairs]]. Bakken in Klampenborg, [[Denmark]], Wurstelprater in [[Vienna]], and Tivoli Gardens in [[Copenhagen]] are the three oldest operating amusement parks in the world. Lake Compounce, opened in 1846, is considered the oldest continuously operating amusement park in [[North America]]. Mechanical rides developed in the 1860s and 1870s, and the [[Working class|working classes]] increasingly spent their wages on entertainment. After World War II, theme parks such as [[Disneyland]], which opened in 1955, integrated rides into cohesive narratives.
+
+=== KEY: Amy_Adams_62ae81
+HEADWORD: Adams, Amy = 애덤스, 에이미
+LEVEL: 5
+GLOSSARY:
+  Academy Awards = 아카데미상
+  American Hustle = 「아메리칸 허슬」
+  Arrival = 「컨택트」
+  Doubt = 「다우트」
+  Golden Globes = 골든 글로브상
+  Junebug = 「준벅」
+  The Fighter = 「파이터」
+  Time = 『타임』
+  Time (magazine) = 『타임』
+ENTRY:
+American actress known for both comedic and dramatic roles. She has been featured three times in annual rankings of the world's highest-paid actresses and has received six [[Academy Awards]] nominations, beginning with the independent comedy-drama *Junebug* (2005). She has won two Golden Globes. Her films include *Doubt* (2008), *The Fighter* (2010), *American Hustle* (2013) and *Arrival* (2016). In 2014, [[Time (magazine)|Time]] named her one of the 100 most influential people in the world.
+
+=== KEY: Amy_Grant_9298c8
+HEADWORD: Grant, Amy = 그랜트, 에이미
+LEVEL: 5
+GLOSSARY:
+  Billboard Hot 100 = 빌보드 핫 100
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Heart = 심장
+  Heart in Motion = 『Heart in Motion』
+  Hollywood = 할리우드
+  Hollywood Walk of Fame = 할리우드 명예의 거리
+  Motion = 운동
+  Peter = 베드로
+  Peter Cetera = 피터 세테라
+  Pop music = 팝 음악
+  The Next Time I Fall = 「The Next Time I Fall」
+  Time = 『타임』
+  Walk of Fame = 명예의 거리
+  contemporary Christian music = 현대 기독교 음악
+ENTRY:
+American singer-songwriter who began in contemporary Christian music (CCM) before crossing over to [[Pop music|pop]]. In 1986 she scored her first Billboard Hot 100 no. 1 song, a duet with Peter Cetera, “The Next Time I Fall.” Her album *Heart in Motion* (1991) was her best-selling, selling five million copies in the U.S. As of 2009 she had sold more than 30 million albums worldwide and won six [[Grammy Awards]]. She received a star on the [[Hollywood Walk of Fame]] in 2006.
+
+=== KEY: Amy_Poehler_ad7600
+HEADWORD: Poehler, Amy = 폴러, 에이미
+LEVEL: 5
+GLOSSARY:
+  Brigade = 브리게이드
+  Chicago = 시카고
+  City = 도시
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Golden Globe Award = 골든글로브상
+  Golden Globe Awards = 골든 글로브상
+  Inside Out = 「인사이드 아웃」
+  Leslie Knope = 레슬리 노프
+  New York City = 뉴욕
+  Night = 『밤』
+  Parks and Recreation = 「팍스 앤 레크리에이션」
+  Pixar = 픽사
+  Recreation = 레크리에이션
+  Saturday Night = 「새터데이 나이트」
+  Saturday Night Live = 「새터데이 나이트 라이브」
+  Second = 초
+  Second City = 세컨드 시티
+  Theatre = 연극
+  Tina Fey = 티나 페이
+  Upright Citizens Brigade Theatre = 업라이트 시티즌스 브리게이드 극장
+  York = 요크
+  improvisational theater = 즉흥극
+ENTRY:
+American actress, comedian and podcaster. She began in improvisational theater at [[Chicago|Chicago]]'s Second City and co-founded the Upright Citizens Brigade Theatre in [[New York City]]. She joined [[Saturday Night Live]] in 2001 and starred as Leslie Knope in the sitcom *Parks and Recreation* (2009–2015), for which she won a Golden Globe Award. She co-hosted the Golden Globe Awards with [[Tina Fey]] four times. Poehler has voiced characters in the [[Pixar]] film *Inside Out* franchise.
+
+=== KEY: Amy_Winehouse_a79381
+HEADWORD: Winehouse, Amy = 와인하우스, 에이미
+LEVEL: 5
+GLOSSARY:
+  Back to Black = 『Back to Black』
+  Black = 검은색
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Jazz = 재즈
+  Rhythm and blues = 리듬 앤드 블루스
+  alcohol poisoning = 급성 알코올 중독
+  contralto = 콘트랄토
+  rhythm and blues = 리듬 앤드 블루스
+  soul = 솔
+  substance abuse = 물질 남용
+ENTRY:
+British singer and songwriter known for her distinctive contralto voice and for blending soul, [[Jazz|jazz]] and [[Rhythm and blues|rhythm and blues]]. Her second album, *Back to Black* (2006), was an international success and one of the best-selling albums of all time. At the 50th [[Grammy Awards]] in 2008 she won five, becoming the first British woman to do so. Her career was often overshadowed by substance abuse, mental illness and addiction, culminating in her death from alcohol poisoning.
+
+=== KEY: An_Lushan_rebellion_c8d3a0
+HEADWORD: An Lushan rebellion = 안사의 난
+LEVEL: 4
+GLOSSARY:
+  An Lushan = 안녹산
+  Chang'an = 장안
+  China = 중국
+  Civil war = 내전
+  Emperor Xuanzong = 현종
+  Fanyang = 범양
+  Five Dynasties = 5대
+  Five Dynasties and Ten Kingdoms period = 5대 10국 시대
+  Guanzhong = 관중
+  Shi Chaoyi = 사조의
+  Shi Siming = 사사명
+  Sichuan = 쓰촨성
+  Song dynasty = 송나라
+  Taiyuan = 태원
+  Taiyuan Commandery = 태원군
+  Tang = 당나라
+  Tang dynasty = 당나라
+  Ten Kingdoms = 십국
+  Western Regions = 서역
+  Yan dynasty = 연나라
+  military governor = 절도사
+ENTRY:
+[[Civil war]] in China (755–763) against [[Tang dynasty|Tang]] rule. It began on December 16, 755, when An Lushan, military governor of the [[Taiyuan]] Commandery, marched his army out of Fanyang. Rebels captured the imperial capital Chang'an after Emperor Xuanzong fled to [[Sichuan]], and they proclaimed the short-lived Yan dynasty. An Lushan was assassinated by his son, and rebel leadership passed to Shi Siming and then to Shi Chaoyi. Divisions among the rebels and counterattacks by Tang forces and their allies brought the Yan dynasty's fall in 763. The war caused famine, displacement and destruction, and the Tang permanently lost the Western Regions. Regional military governors gained autonomy, and their secessionism continued into the [[Five Dynasties and Ten Kingdoms period]]. The later [[Song dynasty]] distrusted prominent commanders to avoid a repeat, and the rebellion began the long decline of the Guanzhong region.
+
+=== KEY: Anabaptism_b45592
+HEADWORD: Anabaptism = 재세례파
+LEVEL: 5
+GLOSSARY:
+  Amish = 아미시
+  Anabaptists = 재세례파
+  Baptism = 세례
+  Confession = 『참회록』
+  Hutterites = 후터파
+  Mennonites = 메노파
+  Michael Sattler = 미하엘 자틀러
+  Protestant = 개신교
+  Radical Reformation = 급진 종교 개혁
+  Reformation = 종교 개혁
+  Schleitheim Confession = 슐라이트하임 신앙고백
+  infant baptism = 유아 세례
+ENTRY:
+Christian movement of the 16th-century Radical Reformation. Anabaptists hold that [[Baptism|baptism]] is valid only when a believer freely confesses faith, and they reject infant baptism. Their Schleitheim Confession (1527) set out foundational beliefs; its author, Michael Sattler, was arrested and executed shortly afterward. Protestant state churches and Roman Catholics persecuted them. The [[Amish]], [[Mennonites]] and Hutterites descend from the early movement. Most Anabaptists reject violence and oaths and take no part in civil government.
+
+=== KEY: Anaconda_853f30
+HEADWORD: Anaconda = 아나콘다
+LEVEL: 5
+GLOSSARY:
+  Argentina = 아르헨티나
+  Boidae = 보아과
+  Brazil = 브라질
+  Colombia = 콜롬비아
+  Ecuador = 에콰도르
+  Eunectes = 에우넥테스
+  Genus = 속
+  Reticulated python = 그물무늬비단뱀
+  South America = 남아메리카
+  Venezuela = 베네수엘라
+  green anaconda = 초록아나콘다
+ENTRY:
+Genus of large, semiaquatic [[Boidae|boas]] (*Eunectes*) found in tropical [[South America]]. The name *Eunectes* means “good swimmer” in Greek. Two to four living species and one extinct species are recognized. The green anaconda (*Eunectes murinus*) is the largest snake in the world by weight and is second in length only to the [[Reticulated python]]. Anacondas range from Ecuador, Brazil and Colombia to Venezuela and northern Argentina.
+
+=== KEY: Anaheim_California_be07e2
+HEADWORD: Anaheim, California = 애너하임
+LEVEL: 5
+GLOSSARY:
+  Anaheim Ducks = 애너하임 덕스
+  Angels = 사도
+  Baseball = 야구
+  California = 캘리포니아주
+  City = 도시
+  Disneyland = 디즈니랜드
+  Disneyland Resort = 디즈니랜드 리조트
+  Greater Los Angeles = 로스앤젤레스 광역권
+  Los Angeles = 로스앤젤레스
+  Los Angeles Angels = 로스앤젤레스 에인절스
+  Major League Baseball = 메이저 리그 베이스볼
+  National Hockey League = 내셔널 하키 리그
+  Orange = 오렌지 카운티
+  Orange County = 오렌지 카운티
+ENTRY:
+City (pop., 2020: 346,824) in northern Orange County, California, part of the Greater Los Angeles area. Anaheim is the most populous city in Orange County and is home to the [[Disneyland]] Resort. The city remained largely agricultural until Disneyland opened on July 17, 1955, after which hotels and residential districts followed. It is also home to the Anaheim Ducks of the [[National Hockey League]] and the Los Angeles Angels of [[Major League Baseball]].
+
+=== KEY: Anal_sex_d3556a
+HEADWORD: Anal sex = 항문 성교
+LEVEL: 4
+GLOSSARY:
+  Anal sex = 항문 성교
+  Anilingus = 애닐링구스
+  Capital punishment = 사형
+  Clitoris = 음핵
+  Condom = 콘돔
+  G-spot = G스폿
+  Orgasm = 오르가슴
+  Pleasure = 쾌락
+  Prostate = 전립선
+  Sexually transmitted infection = 성매개 감염병
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  capital punishment = 사형
+  pegging = 페깅
+  sexually transmitted infections = 성매개 감염
+ENTRY:
+Sexual activity involving penetration of the anus or rectum, most commonly by the penis. Other forms include anal fingering, the use of sex toys, [[Anilingus|anilingus]] and pegging. Anal sex is commonly associated with male homosexuality, but not all homosexual men engage in it, and it is not uncommon in heterosexual relationships. Pleasure may come from stimulation of nerve endings in the anal region. Orgasm may result from indirect stimulation of the [[Prostate|prostate]] in men, or of the [[Clitoris|clitoris]] or an area of the vagina (sometimes called the [[G-spot|G-spot]]) in women. The anal and rectal tissue are delicate and does not lubricate like the vagina, so anal sex can facilitate the spread of [[Sexually transmitted infection|sexually transmitted infections]]. Without a [[Condom|condom]], it is considered the riskiest form of sexual activity, and the [[World Health Organization]] recommends safe-sex practices. In some countries it is a criminal offense punishable by corporal or [[Capital punishment|capital punishment]].
+
+=== KEY: Analects_9019bb
+HEADWORD: Analects = 논어
+LEVEL: 4
+GLOSSARY:
+  Analects = 『논어』
+  Confucianism = 유교
+  Confucius = 공자
+  Five Classics = 오경
+  Four Books = 사서
+  Han dynasty = 한나라
+  Song dynasty = 송나라
+  The Analects = 『논어』
+  Warring States = 전국 시대
+  Warring States period = 전국 시대
+  de = 덕
+  filial piety = 효
+  li = 예
+  ren = 인
+ENTRY:
+Ancient Chinese philosophical text of sayings attributed to [[Confucius]] and his contemporaries, traditionally believed to have been compiled by his followers. Scholars consider large portions of *The Analects* to have been composed during the Warring States period (475–221 BCE), and the work reached its final form during the mid-[[Han dynasty]] (206 BCE–220 CE). In the late [[Song dynasty]] (960–1279 CE) it was ranked above the older Five Classics as one of the “Four Books.” Confucius held that a ruler's virtue (*de*) was the prerequisite for leadership, and that cultivating *ren* (benevolence), beginning with filial piety, and *li* (ritual propriety) produced ethically cultivated people. The text is a central work of [[Confucianism|Confucianism]] and has been among China's most widely read books for more than two millennia.
+
+=== KEY: Analgesic_c6d309
+HEADWORD: Analgesic = 진통제
+LEVEL: 4
+GLOSSARY:
+  Addiction = 중독
+  Anesthesia = 마취
+  Aspirin = 아스피린
+  COX-2 inhibitors = COX-2 억제제
+  Ibuprofen = 이부프로펜
+  Morphine = 모르핀
+  NSAIDs = 비스테로이드 항염증제
+  Opioid = 오피오이드
+  Paracetamol = 파라세타몰
+  acetaminophen = 아세트아미노펜
+  diclofenac = 디클로페낙
+  naproxen = 나프록센
+  nonsteroidal anti-inflammatory drugs = 비스테로이드성 소염제
+  opioid receptor = 오피오이드 수용체
+  rofecoxib = 로페콕시브
+  valdecoxib = 발데콕시브
+ENTRY:
+Drug used to relieve pain, also called a painkiller or pain reliever. Analgesics are distinct from [[Anesthesia|anesthetics]], which temporarily reduce mobility, although some drugs have both effects. Aspirin, [[Ibuprofen]], naproxen and diclofenac are nonsteroidal anti-inflammatory drugs (NSAIDs) that reduce pain and fever and, in higher doses, inflammation. [[Paracetamol|Paracetamol]] (acetaminophen) treats mild to moderate pain and fever, with effects lasting two to four hours, and is generally safe at recommended doses. [[Opioid|Opioids]] such as [[Morphine]] act on the opioid receptor system and carry risks of overdose, misuse and [[Addiction]]. COX-2 inhibitors, developed to spare the gut, were found to increase the risk of cardiovascular events by 40% on average, and rofecoxib and valdecoxib were withdrawn. Many NSAIDs are sold over the counter, while stronger analgesics are prescription drugs.
+
+=== KEY: Analysis_of_variance_c3af5c
+HEADWORD: Analysis of variance = 분산 분석
+LEVEL: 5
+GLOSSARY:
+  F-test = F 검정
+  Family = 가족
+  Research = 연구
+  Ronald Fisher = 로널드 피셔
+  Statistical Methods for Research Workers = 『연구자를 위한 통계적 방법』
+  Variance = 분산
+  law of total variance = 전분산 법칙
+  t-test = t 검정
+ENTRY:
+Family of statistical methods for comparing the means of two or more groups by analyzing [[Variance|variance]]. The method compares variation between group means with variation within each group, using an F-test. If between-group variation is substantially larger, the group means are likely different. It rests on the law of total variance and generalizes the t-test beyond two means. It was developed by the statistician [[Ronald Fisher]], whose 1925 book *Statistical Methods for Research Workers* made it widely known.
+
+=== KEY: Analytic_geometry_d9ca45
+HEADWORD: Analytic geometry = 해석기하학
+LEVEL: 4
+GLOSSARY:
+  Algebra = 대수학
+  Apollonius = 아폴로니오스
+  Cartesian = 직교 좌표
+  Cartesian coordinate system = 데카르트 좌표계
+  Cartesian geometry = 데카르트 기하학
+  Conics = 『원뿔곡선론』
+  Descartes = 데카르트
+  La Géométrie = 『기하학』
+  Omar Khayyam = 오마르 하이얌
+  Persian = 페르시아어
+  Pierre de Fermat = 피에르 드 페르마
+  René Descartes = 르네 데카르트
+  de = 덕
+ENTRY:
+Study of geometry using a coordinate system, also called coordinate or Cartesian geometry. It usually applies the [[Cartesian coordinate system|Cartesian coordinate system]] to equations for planes, straight lines and circles, mostly in two dimensions. It is used in physics, engineering, aviation, statistics and economics, and it underlies most modern geometry. Apollonius of Perga's *Conics* used reference lines similar to a modern coordinate frame. The 11th-century Persian mathematician [[Omar Khayyam]] laid down principles of the subject in his *Treatise on Demonstrations of Problems of Algebra* (1070). It was independently invented by [[René Descartes]] and [[Pierre de Fermat]] in the 17th century, although Descartes is sometimes given sole credit. Descartes's essay *La Géométrie* appeared in 1637.
+
+=== KEY: Analytic_number_theory_82506c
+HEADWORD: Analytic number theory = 해석적 수론
+LEVEL: 4
+GLOSSARY:
+  Additive number theory = 덧셈적 수론
+  Branch = 브랜치
+  Dirichlet L-functions = 디리클레 L-함수
+  Dirichlet's theorem on arithmetic progressions = 등차수열에 대한 디리클레 정리
+  Goldbach's conjecture = 골드바흐의 추측
+  Multiplicative number theory = 곱셈적 수론
+  Number theory = 수론
+  Peter = 베드로
+  Peter Gustav Lejeune Dirichlet = 페터 구스타프 르죈 디리클레
+  Prime = 프라임
+  Prime number = 소수
+  Prime number theorem = 소수 정리
+  Riemann = 리만
+  Riemann hypothesis = 리만 가설
+  Riemann zeta function = 리만 제타 함수
+  arithmetic progressions = 등차수열
+  mathematical analysis = 해석학
+  number theory = 수론
+ENTRY:
+Branch of [[Number theory|number theory]] that uses methods from mathematical analysis to study the integers. It is often said to have begun with [[Peter Gustav Lejeune Dirichlet]]'s 1837 introduction of Dirichlet L-functions, which he used to prove Dirichlet's theorem on arithmetic progressions. Multiplicative number theory studies the distribution of [[Prime number|primes]], including the [[Prime number theorem]], which states that the number of primes up to x is approximately x / ln(x). Additive number theory concerns the additive structure of the integers, such as [[Goldbach's conjecture]] that every even number greater than 2 is the sum of two primes. Bernhard Riemann's 1859 memoir on the [[Riemann zeta function]] led to the unproven [[Riemann hypothesis]], which concerns its zeros.
+
+=== KEY: Analytic_philosophy_25d9be
+HEADWORD: Analytic philosophy = 분석철학
+LEVEL: 4
+GLOSSARY:
+  Bertrand = 버트런드호
+  Bertrand Russell = 버트런드 러셀
+  Broad = 브로드강
+  Existentialism = 실존주의
+  G. E. Moore = G. E. 무어
+  Gottlob Frege = 고틀로프 프레게
+  Ludwig = 루트비히
+  Ludwig Wittgenstein = 루트비히 비트겐슈타인
+  Phenomenology (philosophy) = 현상학
+  Saul = 사울
+  Saul Kripke = 솔 크립키
+  W. V. O. Quine = W. V. O. 콰인
+  Western philosophy = 서양 철학
+  Wittgenstein = 비트겐슈타인
+  continental philosophy = 대륙 철학
+  formal logic = 형식 논리학
+  linguistic turn = 언어적 전회
+  logical positivism = 논리실증주의
+  metaphysics = 형이상학
+  philosophy of language = 언어철학
+ENTRY:
+Broad school of thought in contemporary Western philosophy, especially anglophone philosophy. It emphasizes analysis, clear prose, rigorous argument, formal logic and the natural sciences, and is characterized by the linguistic turn, a concern with language and meaning. It is often contrasted with continental philosophy, such as [[Existentialism|existentialism]] and [[Phenomenology (philosophy)|phenomenology]]. The tradition proliferated from around the turn of the 20th century. Central figures include [[Gottlob Frege]], [[Bertrand Russell]], G. E. Moore and [[Ludwig Wittgenstein]]. W. V. O. Quine, Saul Kripke and others led a decline of logical positivism and a revival of metaphysics, and the school developed the philosophy of language, mathematics and science.
+
+=== KEY: Analytical_chemistry_885bbc
+HEADWORD: Analytical chemistry = 분석화학
+LEVEL: 3
+GLOSSARY:
+  Amount of substance = 물질량
+  Branch = 브랜치
+  Chemistry = 화학
+  Chromatography = 크로마토그래피
+  Green = 초록색
+  Green Analytical Chemistry = 녹색 분석화학
+  Gustav Kirchhoff = 구스타프 키르히호프
+  Justus von Liebig = 유스투스 폰 리비히
+  Machine learning = 기계 학습
+  Mass spectrometry = 질량 분석법
+  Orbitrap = 오비트랩
+  Qualitative analysis = 정성 분석
+  Robert Bunsen = 로베르트 분젠
+  Spectroscopy = 분광학
+  acid test = 산 시험
+  amount of substance = 물질량
+  bioanalytical chemistry = 생분석화학
+  caesium = 세슘
+  flame emissive spectrometry = 불꽃 방출 분광법
+  gravimetric analysis = 무게 분석
+  machine learning = 기계 학습
+  mass number = 질량수
+  mass spectrometry = 질량 분석법
+  number of moles = 몰수
+  partial pressure = 부분 압력
+  point-of-care = 현장 진단
+  quality assurance = 품질 보증
+  quantitative analysis = 정량 분석
+  rubidium = 루비듐
+  titration = 적정
+ENTRY:
+Branch of chemistry concerned with identifying the composition of materials and quantifying the components of mixtures.
+
+Analytical chemists develop and apply methods to identify unknown compounds and to express a compound's presence as [[Amount of substance|amount of substance]], concentration, percentage by mass, number of moles, or, for gases, partial pressure. Qualitative analysis establishes which substances are present; quantitative analysis determines how much.
+
+Classical techniques, such as titration and gravimetric analysis, remain the basis of undergraduate laboratory teaching, and qualitative tests include the acid test for gold. Modern work is dominated by instrumental methods: [[Spectroscopy|spectroscopy]], [[Chromatography|chromatography]], [[Mass spectrometry|mass spectrometry]], and electrochemical methods.
+
+The field has been important since the early days of chemistry. [[Justus von Liebig]] developed systematic elemental analysis. The first instrumental analysis was flame emissive spectrometry, developed by Robert Bunsen and [[Gustav Kirchhoff]], who discovered rubidium and caesium in 1860. Most major developments came after 1900, as basic spectroscopic and spectrometric techniques were discovered in the early 20th century and refined in the late 20th century. From the 1970s, techniques were combined as hybrid methods to characterize samples completely, and the field grew to include biological questions (bioanalytical chemistry). Applications widened from academic questions to forensic, environmental, industrial, and medical ones, including pharmaceutical quality assurance and drug discovery.
+
+In the 21st century the field has been shaped by digitalization. Large datasets from instruments such as Orbitrap mass spectrometers have made data analysis, including [[Machine learning|machine learning]], an essential skill. Real-time, point-of-care diagnostic sensors, automation, and miniaturization are strong trends, and Green Analytical Chemistry aims to minimize the environmental impact of analyses.
+
+=== KEY: Analytical_psychology_bcc04c
+HEADWORD: Analytical psychology = 분석심리학
+LEVEL: 4
+GLOSSARY:
+  Burghölzli = 부르크횔츨리
+  Carl Jung = 카를 융
+  Extraversion and introversion = 외향성과 내향성
+  Jungian analysis = 융 분석
+  Sigmund Freud = 지크문트 프로이트
+  Wolfgang Pauli = 볼프강 파울리
+  Zurich = 취리히
+  Zurich school = 취리히 학파
+  anima and animus = 아니마와 아니무스
+  archetypes = 원형
+  collective unconscious = 집단 무의식
+  complexes = 콤플렉스
+  individuation = 개성화
+  psychoanalysis = 정신분석
+  psychological types = 심리 유형
+  the Self = 자기
+  the shadow = 그림자
+ENTRY:
+Psychological practices of [[Carl Jung]], also called Jungian analysis. The term was designed to distinguish Jung's work from [[Sigmund Freud|Freud]]'s psychoanalysis as their seven-year collaboration ended in 1912–1913. It began as a theory of psychological complexes in the “Zurich school” at the Burghölzli hospital in [[Zurich]]. Jung later turned it into a method for investigating archetypes and the unconscious, and into a specialized psychotherapy. Key concepts include anima and animus, the collective unconscious, individuation, the Self and the shadow. The Myers–Briggs Type Indicator is loosely based on Jung's theories of psychological types, including [[Extraversion and introversion|extraversion and introversion]]. His long collaboration with [[Wolfgang Pauli]] reflected his commitment to science.
+
+=== KEY: Anansi_cfbe77
+HEADWORD: Anansi = 아난시
+LEVEL: 4
+GLOSSARY:
+  Akan = 아칸
+  Akan language = 아칸어
+  Anansi = 아난시
+  Aruba = 아루바
+  Atlantic slave trade = 대서양 노예 무역
+  Bonaire = 보네르
+  Caribbean = 카리브해 지역
+  Curaçao = 퀴라소
+  Ghana = 가나
+  Oral tradition = 구전
+  Sierra Leone = 시에라리온
+  Spider = 거미
+  Suriname = 수리남
+  Trickster = 트릭스터
+  West Africa = 서아프리카
+  Wisdom = 지혜
+  anansesem = 아난세셈
+  oral tradition = 구전
+  slave trade = 노예 무역
+ENTRY:
+Trickster figure of Akan folklore from southern [[Ghana]], usually depicted as a spider. His name means “spider” in the Akan language, and he is known for cunning, wit and trickery. He often outsmarts more powerful opponents and is both protagonist and antagonist in stories. Anansi was seen as synonymous with skill and [[Wisdom|wisdom]] in speech, and his tales were part of an exclusively [[Oral tradition|oral tradition]]. Spider tales are found throughout West Africa, and the Ghanaian tales are seen as their origin. Through the [[Atlantic slave trade]] they reached the [[Caribbean]], later spreading to [[Suriname]], [[Sierra Leone]], [[Curaçao]], Aruba and Bonaire. Ghanaian children are raised on the whole tradition, called *anansesem*, or spider tales.
+
+=== KEY: Anarchism_d20091
+HEADWORD: Anarchism = 아나키즘
+LEVEL: 3
+GLOSSARY:
+  Aeschylus = 아이스킬로스
+  Anarchism = 아나키즘
+  Ancient Greek = 고대 그리스어
+  Civil War = 남북 전쟁
+  Empire = 「엠파이어」
+  Enlightenment = 계몽주의
+  France = 프랑스
+  Laozi = 노자
+  Libertarianism = 자유지상주의
+  Mazdak = 마즈다크
+  Paris = 파리
+  Paris Commune = 파리 코뮌
+  Pierre-Joseph Proudhon = 피에르조제프 프루동
+  Political philosophy = 정치 철학
+  Russian = 러시아어
+  Russian Civil War = 러시아 내전
+  Sasanian Empire = 사산 제국
+  Socrates = 소크라테스
+  Sophocles = 소포클레스
+  Spanish Civil War = 스페인 내전
+  Stoics = 스토아학파
+  Taoist = 도가
+  United States = 미국
+  Zhuang = 좡족
+  Zhuang Zhou = 장주
+  anarcho-capitalism = 무정부 자본주의
+  anarkhia = 아나르키아
+  free association = 자유 연합
+  freedom of conscience = 양심의 자유
+  libertarian socialism = 자유지상주의적 사회주의
+  stateless societies = 무국가 사회
+ENTRY:
+Political philosophy and movement seeking to abolish institutions that perpetuate authority, coercion, or hierarchy, chiefly the state and capitalism.
+
+Anarchists advocate replacing hierarchical structures with stateless societies of horizontal networks of voluntary associations, based on free association and reciprocity. Anarchism is described as part of the libertarian wing of the socialist movement, known broadly as libertarian socialism.
+
+The word comes from the Ancient Greek *anarkhia*, "without a ruler," and appears in English from 1642. [[Pierre-Joseph Proudhon]] was the first political philosopher to call himself an anarchist and give the word a positive meaning. Since the 1890s, beginning in France, [[Libertarianism|libertarianism]] has often been a synonym; in the United States some usages refer only to individualistic free-market philosophy. Many scholars reject anarcho-capitalism as a misunderstanding of anarchist principles.
+
+Precursors are traced to Taoist philosophers Zhuang Zhou and [[Laozi]] and to the Stoics, to the Greek tragedians Aeschylus and Sophocles, and to [[Socrates]], who insisted on freedom of conscience. In the Sasanian Empire, Mazdak called for an egalitarian society and the abolition of monarchy. Modern anarchism emerged from the Enlightenment. It flourished worldwide from the late 19th century into the early 20th, with a significant role in workers' struggles. Anarchists took part in several revolutions, most notably the [[Paris Commune]], the [[Russian Civil War]], and the [[Spanish Civil War]], whose conclusion marked the end of the classical era of anarchism. It has been resurgent since the late 20th century.
+
+Approaches are often categorized as evolutionary, favoring gradual and often nonviolent change, or revolutionary, seeking to destroy oppressive states and institutions.
+
+=== KEY: Anatolia_5ac50a
+HEADWORD: Anatolia = 아나톨리아
+LEVEL: 4
+GLOSSARY:
+  Aegean = 에게해
+  Aegean Sea = 에게해
+  Anatolia = 아나톨리아
+  Anatolian = 아나톨리아
+  Armenians = 아르메니아인
+  Asia = 아시아
+  Asia Minor = 소아시아
+  Black = 검은색
+  Black Sea = 흑해
+  Bosporus = 보스포루스 해협
+  Christians = 기독교인
+  Dardanelles = 다르다넬스 해협
+  Empire = 「엠파이어」
+  Europe = 유럽
+  Fertile Crescent = 비옥한 초승달 지대
+  Mediterranean = 지중해
+  Mediterranean Sea = 지중해
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Peninsula = 반도
+  Sea of Marmara = 마르마라해
+  Seljuk = 셀주크
+  Seljuk Empire = 셀주크 제국
+  Turkey = 튀르키예
+  Turkification = 튀르크화
+  West Asia = 서아시아
+  World = 세계
+  World War I = 제1차 세계 대전
+ENTRY:
+Peninsula of West Asia that makes up most of the land area of [[Turkey]]. Also called Asia Minor, it is bounded by the Mediterranean Sea to the south, the Aegean Sea to the west, the Sea of Marmara to the northwest and the Black Sea to the north. The Sea of Marmara links the Black Sea and the Aegean through the [[Bosporus]] and the [[Dardanelles]]. Farming spread into Anatolia from the adjacent [[Fertile Crescent]] and was followed by a major migration of Anatolian farmers into Europe about 9,000 years ago. From the late 11th century the [[Seljuk Empire]] began the Turkification of the region, which continued under the [[Ottoman Empire]] until its collapse after World War I. Between 1894 and 1924, millions of non-Turkic peoples and Christians were killed by Ottoman authorities or expelled, especially about two million Greeks and an estimated 1.5 million Armenians.
+
+=== KEY: Anatomy_e080e3
+HEADWORD: Anatomy = 해부학
+LEVEL: 3
+GLOSSARY:
+  Anatomy = 해부학
+  Andreas Vesalius = 안드레아스 베살리우스
+  Branch = 브랜치
+  De Humani Corporis Fabrica = 『인체의 구조에 관하여』
+  Dissection = 해부
+  Endoscopy = 내시경 검사
+  Galen = 갈레노스
+  Hippocratic = 히포크라테스 학파
+  Hippocratic school = 히포크라테스 학파
+  Liver = 간
+  Medical imaging = 의료 영상
+  Plant = 식물
+  Plant anatomy = 식물 해부학
+  Regional anatomy = 국소 해부학
+  Renaissance = 르네상스
+  Vesalius = 베살리우스
+  X-ray = 엑스선
+  anatomē = 아나토메
+  angiography = 혈관 조영술
+  body system = 신체 계통
+  cytology = 세포학
+  embryology = 발생학
+  gross anatomy = 육안 해부학
+  histology = 조직학
+  innervation = 신경 분포
+  magnetic resonance imaging = 자기 공명 영상
+  medical imaging = 의료 영상
+  microscopic anatomy = 현미 해부학
+  morphology = 형태론
+  physiology = 생리학
+  surface anatomy = 체표 해부학
+  systemic anatomy = 계통 해부학
+  zootomy = 동물 해부학
+ENTRY:
+Branch of morphology concerned with the internal and external structure of organisms and their parts.
+
+The word derives from the Greek *anatomē*, "dissection." Anatomy is a natural science with beginnings in prehistoric times, and it is distinct from physiology and biochemistry, which deal with function and chemical processes. An anatomist studies the shape, size, position, structure, blood supply, and innervation of an organ such as the [[Liver|liver]]; a physiologist studies, for example, the production of bile. The two are often studied together, and human anatomy is a basic science of medicine.
+
+The discipline divides into macroscopic (gross) anatomy, the study of structures visible to the naked eye, which includes surface anatomy, and microscopic anatomy, which includes histology (the study of tissues), cytology (cells), and embryology. Regional anatomy treats all structures in one body region, such as the abdomen; systemic anatomy treats the structures of a body system, such as the digestive system. Methods include [[Dissection|dissection]], [[Endoscopy|endoscopy]], and angiography, which visualizes blood vessels. The term usually means human anatomy but also covers other animals, sometimes called zootomy; plant structures are studied in [[Plant anatomy]].
+
+Study of anatomy dates to the Hippocratic school in the 5th century BC, which documented body structures through observation and animal dissections. In the Renaissance, [[Andreas Vesalius]] published *De Humani Corporis Fabrica* in 1543, correcting longstanding errors from [[Galen]] with illustrated dissections based on direct human observation. Methods advanced from dissection of animal carcasses and cadavers to 20th-century [[Medical imaging|medical imaging]], including X-ray, ultrasound, and magnetic resonance imaging.

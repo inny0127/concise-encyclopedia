@@ -1,0 +1,1056 @@
+=== KEY: Venice_607d28
+HEADWORD: Venice = 베네치아
+LEVEL: 4
+GLOSSARY:
+  Antonio Vivaldi = 안토니오 비발디
+  Baroque = 바로크
+  Battle of Lepanto = 레판토 해전
+  City = 도시
+  Crusades = 십자군
+  Italy = 이탈리아
+  Kingdom of Italy = 이탈리아 왕국
+  Lagoon = 석호
+  Lepanto = 레판토
+  Middle Ages = 중세
+  Napoleon = 나폴레옹
+  Renaissance = 르네상스
+  Republic of Venice = 베네치아 공화국
+  Tomaso Albinoni = 토마소 알비노니
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  Venetian = 베네치아
+  Venetian Lagoon = 베네치아 석호
+  Veneto = 베네토
+  Venice = 베네치아
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  overtourism = 과잉 관광
+ENTRY:
+City (pop., 2026: 249,385), capital of [[Veneto|Veneto]] in northeastern Italy. Built on 126 islands in the shallow Venetian Lagoon and linked by 472 bridges, it was the capital of the [[Republic of Venice|Republic of Venice]] from 810 to 1797. A major financial and maritime power in the Middle Ages and Renaissance, it was a staging area for the [[Crusades|Crusades]] and the Battle of Lepanto, and a center of commerce in silk, grain and spice. [[Napoleon|Napoleon]] ended the republic in 1797, and the city became part of the [[Kingdom of Italy|Kingdom of Italy]] in 1866. Venice was the birthplace of Baroque composers [[Antonio Vivaldi|Antonio Vivaldi]] and Tomaso Albinoni. The lagoon and city were inscribed as a [[UNESCO|UNESCO]] World Heritage Site in 1987, but overtourism, pollution, tide peaks and cruise ships threaten the city, and its listing has been under continuing review.
+
+=== KEY: Venn_diagram_360f6c
+HEADWORD: Venn diagram = 벤 다이어그램
+LEVEL: 4
+GLOSSARY:
+  Circle = 원
+  Computer science = 컴퓨터 과학
+  Euler = 오일러
+  Euler diagrams = 오일러 다이어그램
+  Intersection (set theory) = 교집합
+  John = 존
+  John Venn = 존 벤
+  Logic = 논리학
+  Probability = 확률
+  Set theory = 집합론
+  Statistics = 통계학
+  Symbolic Logic = 『기호 논리학』
+  Union (set theory) = 합집합
+  Venn diagram = 벤 다이어그램
+  elementary set theory = 기초 집합론
+  set theory = 집합론
+ENTRY:
+Diagram showing all possible logical relations between a collection of sets. In a Venn diagram, sets are shown as regions inside overlapping closed curves, usually [[Circle|circles]], and each point inside a curve represents an element of that set. The area where two curves overlap shows the elements common to both sets, their [[Intersection (set theory)|intersection]], and the combined area is their [[Union (set theory)|union]]. Earlier proposals include Christian Weise's of 1712 and Leonhard Euler's of 1768, but John Venn introduced the form in 1880 and popularized it in *Symbolic Logic* (1881). Because every possible overlap is drawn, Venn diagrams are a special case of Euler diagrams, which need not show all relations. They are used to teach [[Set theory|elementary set theory]] and to illustrate relationships in [[Probability|probability]], [[Logic|logic]], [[Statistics|statistics]] and [[Computer science|computer science]].
+
+=== KEY: Venom_071dbd
+HEADWORD: Venom = 독액
+LEVEL: 4
+GLOSSARY:
+  Arthritis = 관절염
+  Cancer = 암
+  Invertebrate = 무척추동물
+  Poison = 독
+  Venom = 독
+  Vertebrate = 척추동물
+  Wound = 상처
+  cytotoxins = 세포 독소
+  envenomation = 독 주입
+  hemotoxins = 혈액 독소
+  myotoxins = 근육 독소
+  necrotoxins = 괴사 독소
+  neurotoxins = 신경독
+  phyla = 문
+  thrombosis = 혈전증
+ENTRY:
+Toxin produced by an animal and actively delivered to another animal through a [[Wound|wound]], usually by a bite, sting or other penetrative action. Venoms are injected through specialized structures such as fangs or stingers, a process called envenomation, and differ from [[Poison|poisons]], which are passively ingested, inhaled or absorbed through the skin. Venom has evolved independently at least 104 times across eight phyla, among predators and prey and in both [[Vertebrate|vertebrates]] and [[Invertebrate|invertebrates]], on land and in water. Venoms kill through at least four major classes of toxin: necrotoxins and cytotoxins, which kill cells; neurotoxins, which affect nervous systems; myotoxins, which damage muscles; and hemotoxins, which disrupt blood clotting. Venomous animals cause tens of thousands of human deaths each year. Toxins from venom are used to treat conditions including thrombosis, [[Arthritis|arthritis]] and some [[Cancer|cancers]].
+
+=== KEY: Venus_0bdc50
+HEADWORD: Venus = 금성
+LEVEL: 3
+GLOSSARY:
+  Carbon dioxide = 이산화 탄소
+  Earth = 지구
+  Gravity assist = 중력 도움
+  Greenhouse effect = 온실 효과
+  Magellan = 마젤란호
+  Mariner = 매리너
+  Mariner 10 = 매리너 10호
+  Mariner 2 = 매리너 2호
+  Mercury (planet) = 수성
+  Second = 초
+  Solar System = 태양계
+  Solar wind = 태양풍
+  Sulfuric acid = 황산
+  Sun = 태양
+  Venera 1 = 베네라 1호
+  Venus = 금성
+  Volcano = 화산
+  biomarkers = 생체 지표
+  evening star = 개밥바라기
+  gravity assist = 중력 도움
+  greenhouse effect = 온실 효과
+  heliocentric model = 태양 중심설
+  magnetosphere = 자기권
+  morning star = 샛별
+  phases of Venus = 금성의 위상
+  retrograde = 역행
+  solar wind = 태양풍
+  sulfuric acid = 황산
+  supercritical fluid = 초임계 유체
+ENTRY:
+Second planet from the [[Sun]], similar in size and mass to Earth. Its diameter is 12,103.6 km and its mass is 81.5% of Earth's. Venus has no liquid water, and its atmosphere is far thicker and denser than that of any other rocky body in the Solar System. It is 96.5% [[Carbon dioxide|carbon dioxide]], with most of the remaining 3.5% nitrogen, and a cloud layer of [[Sulfuric acid|sulfuric acid]] spans the whole planet. The resulting intense [[Greenhouse effect|greenhouse effect]] gives a mean surface temperature of 737 K (464 °C; 867 °F), the hottest of any planet in the Solar System, and a surface pressure 92 times that at Earth's sea level, which turns the lowest layer of the atmosphere into a supercritical fluid.
+
+From Earth, Venus is visible as a star-like point of light brighter than any other natural point of light in the sky, as the "morning star" or "evening star". It has no moons and rotates very slowly in a retrograde direction; a Venusian day lasts 116.75 Earth days, and its year 224.7. Venus has a weak magnetosphere induced by the [[Solar wind|solar wind]] interacting with the atmosphere. Internal heat escapes through active [[Volcano|volcanism]] and periodic resurfacing; about 80% of the surface is covered by smooth volcanic plains. Potential biomarkers found in 2020 at cloud-layer altitudes, where conditions are the most Earth-like in the Solar System, spurred new research.
+
+By 1613, the phases of Venus seen through telescopes were presented as decisive evidence for the heliocentric model. Venera 1 flew past the planet in 1961, achieving the first interplanetary spaceflight, and Mariner 2 returned the first data in 1962. Mariner 10 captured the first images during its 1974 [[Gravity assist|gravity assist]] en route to [[Mercury (planet)|Mercury]], and Magellan mapped the surface in 1990–91.
+
+=== KEY: Venus_de_Milo_23399a
+HEADWORD: Venus de Milo = 밀로의 비너스
+LEVEL: 4
+GLOSSARY:
+  Alexandros of Antioch on the Maeander = 마이안드로스의 안티오키아 출신 알렉산드로스
+  Ancient Greek = 고대 그리스어
+  Antioch = 안티오키아
+  Aphrodite = 아프로디테
+  Hellenistic = 헬레니즘
+  Hellenistic period = 헬레니즘 시대
+  Louvre = 루브르 박물관
+  Milos = 밀로스섬
+  Napoleonic Wars = 나폴레옹 전쟁
+  Parian marble = 파로스 대리석
+  Paris = 파리
+  Surrealist = 초현실주의
+  Surrealist movement = 초현실주의 운동
+ENTRY:
+Ancient Greek marble statue, probably of [[Aphrodite|Aphrodite]], displayed in the [[Louvre|Louvre]] in Paris. The modern consensus dates it to the [[Hellenistic period|Hellenistic period]], most likely the 2nd century BC, perhaps between 160 and 110 BC. It was discovered on the Greek island of Milos in 1820 and has been displayed at the Louvre since 1821. Carved from Parian marble, the statue stands over 2 meters (6 ft 7 in) high and has lost both arms. A now-lost inscription found nearby is the basis for attributing it to Alexandros of Antioch on the Maeander, but the name is uncertain and its connection to the statue is disputed. Classical scholars first dated it to the early 4th century BC, but in the late 19th century it was reinterpreted as Hellenistic. It became a cornerstone of the Louvre's collection after the [[Napoleonic Wars|Napoleonic Wars]], and copies spread its fame. It inspired more than 70 poems and influenced 19th-century art and the Surrealist movement.
+
+=== KEY: Venus_flytrap_77c936
+HEADWORD: Venus flytrap = 파리지옥
+LEVEL: 5
+GLOSSARY:
+  Arachnid = 거미강
+  Carnivorous plant = 식충 식물
+  Endangered = 위기
+  Endangered Species Act = 멸종 위기종 보호법
+  Insect = 곤충
+  North Carolina = 노스캐롤라이나주
+  South Carolina = 사우스캐롤라이나주
+  Species = 종
+  Trigger hairs = 감각모
+  snap traps = 덫
+ENTRY:
+[[Carnivorous plant|Carnivorous plant]] species native to wetlands of [[North Carolina|North Carolina]] and [[South Carolina|South Carolina]]. It is the only species in its genus. Its leaf tips form snap traps that catch mainly [[Insect|insects]] and [[Arachnid|arachnids]]. Trigger hairs on the traps must be touched twice within about twenty seconds for the trap to close, and digestion begins only after five more stimuli, so the plant avoids wasting energy on nonfood objects. The hairs also sense heat, so a forest fire can close them. Its wild population has declined rapidly, and in 2017 it was under review under the Endangered Species Act.
+
+=== KEY: Venus_mythology_75089b
+HEADWORD: Venus = 베누스
+LEVEL: 4
+GLOSSARY:
+  Aeneas = 아이네이아스
+  Aphrodite = 아프로디테
+  Fertility = 다산
+  Greco-Roman mythology = 그리스·로마 신화
+  Italy = 이탈리아
+  Julius Caesar = 율리우스 카이사르
+  Latin = 라틴어
+  Latin literature = 라틴 문학
+  Roman art = 로마 미술
+  Roman mythology = 로마 신화
+  Romans = 로마인
+  Troy = 트로이
+  Venus = 금성
+  venus = 베누스
+ENTRY:
+Roman goddess whose functions encompassed love, beauty, desire, sex, [[Fertility|fertility]], prosperity and victory. In [[Roman mythology|Roman mythology]], she was the ancestor of the Roman people through her son Aeneas, who survived the fall of Troy and fled to Italy, and [[Julius Caesar|Julius Caesar]] claimed her as his own ancestor. Venus was central to many religious festivals and was revered under numerous cult titles. The Romans adapted the myths and iconography of the Greek [[Aphrodite|Aphrodite]] for [[Roman art|Roman art]] and [[Latin literature|Latin literature]]. In the later classical tradition of the West, she became one of the most widely referenced deities of Greco-Roman mythology as the embodiment of love and sexuality, and she is usually depicted nude. Her name is related to the Latin word *venus*, meaning 'love' or 'charm'.
+
+=== KEY: Venus_of_Willendorf_a6f80f
+HEADWORD: Venus of Willendorf = 빌렌도르프의 비너스
+LEVEL: 4
+GLOSSARY:
+  Austria = 오스트리아
+  Garda = 가르더
+  History = 역사학
+  Italy = 이탈리아
+  Lake = 호수
+  Lake Garda = 가르다호
+  Limestone = 석회암
+  Lower Austria = 니더외스터라이히주
+  Museum = 박물관
+  Natural History = 『박물지』
+  Natural History Museum = 자연사 박물관
+  Ochre = 황토
+  Others = 아더
+  Paleolithic = 구석기 시대
+  Research = 연구
+  Venus = 금성
+  Venus (mythology) = 베누스
+  Vienna = 빈
+  Willendorf = 빌렌도르프
+  oolitic = 어란상
+  red ochre = 붉은 오커
+ENTRY:
+Prehistoric figurine, 11.1 centimeters (4.4 in) tall, estimated to have been made c. 30,000 years ago. It was recovered on August 7, 1908, during an excavation of a [[Paleolithic|Paleolithic]] site near Willendorf, a village in [[Austria|Lower Austria]]. The figure is carved from oolitic [[Limestone|limestone]] that is not local to the area and was tinted with [[Ochre|red ochre]]. It is in the Natural History Museum in [[Vienna|Vienna]]. The name Venus reflects speculation that the figure depicts a fertility goddess, a metaphor since such figurines predate the mythological [[Venus (mythology)|Venus]] by many thousands of years. Others suggest it may be a self-portrait. Evidence of the sculptor's intent is scant. Research published in 2022 indicates that the stone most likely came from northern Italy, near Lake Garda.
+
+=== KEY: Veracruz_city_74c14e
+HEADWORD: Veracruz = 베라크루스
+LEVEL: 4
+GLOSSARY:
+  Afro-Caribbean = 아프리카계 카리브
+  City = 도시
+  Fort San Juan de Ulúa = 산후안데울루아 요새
+  France = 프랑스
+  Good Friday = 성금요일
+  Gulf of Mexico = 멕시코만
+  Hernán Cortés = 에르난 코르테스
+  Mexico = 멕시코
+  Mexico City = 멕시코시티
+  Petroleum = 석유
+  Port = 항구
+  Tampico Affair = 탐피코 사건
+  True = 『True』
+  United States = 미국
+  Veracruz = 베라크루스주
+  Villa Rica de la Vera Cruz = 비야리카데라베라크루스
+  coat of arms = 문장
+ENTRY:
+Port city and municipal seat on the [[Gulf of Mexico|Gulf of Mexico]] (pop., 2020: 537,952), in Veracruz state, [[Mexico|Mexico]]. It is Mexico's oldest, largest and historically most significant port. [[Hernán Cortés|Hernán Cortés]] founded the settlement on April 22, 1519, as Villa Rica de la Vera Cruz (True Cross), because he landed on Good Friday. In 1523 it became the first Spanish settlement on the American mainland to receive a coat of arms. During the colonial period the city was at times wealthier than the capital, Mexico City, and fortifications such as Fort San Juan de Ulúa were built against 17th-century pirates. France and the United States invaded the city in the 19th and early 20th centuries, and U.S. troops occupied it for seven months after the 1914 Tampico Affair. Petroleum dominated the state's economy for much of the 20th century, but the port has since become the principal port for most of Mexico's imports and exports, especially automobiles. Its culture blends indigenous, Spanish and Afro-Caribbean influences, most visible in its food and music.
+
+=== KEY: Verb_dcfc31
+HEADWORD: Verb = 동사
+LEVEL: 4
+GLOSSARY:
+  Indo-European = 인도유럽어족
+  Language = 언어
+  Latin = 라틴어
+  Part of speech = 품사
+  Romance = 로망스어
+  Romance languages = 로망스어군
+  Word = 단어
+  arguments = 논항
+  aspect = 상
+  auxiliary verb = 조동사
+  copular verbs = 계사
+  ditransitive = 이중 타동사
+  double transitive = 복합 타동사
+  intransitive = 자동사
+  mood = 서법
+  tense = 시제
+  transitive = 타동사
+  verbum = 베르붐
+  voice = 태
+ENTRY:
+Part of speech that generally conveys an action (bring, read, walk), an occurrence (happen, become) or a state of being (be, exist, stand). In many [[Language|languages]], verbs are inflected to encode tense, aspect, mood and voice, and they may agree with the person, gender or number of their subject or object. English has three tenses: present, past and future, the last expressed with the auxiliary verb *will* or *shall*. Verbs are usually classified by the number of arguments they take, and four basic types are distinguished: intransitive, transitive, ditransitive and double transitive. Some verbs have special grammatical roles, such as copular verbs like *be* and the auxiliaries *have* and *can*. [[Latin|Latin]] and the [[Romance languages|Romance languages]] inflect verbs for tense, aspect and mood and agree with the subject in person and number. The word *verb* comes from Latin *verbum*, meaning word or verb, and shares an Indo-European root with [[Word|word]].
+
+=== KEY: Verbena_2ea0da
+HEADWORD: Verbena = 버베나
+LEVEL: 4
+GLOSSARY:
+  Americas = 아메리카
+  Anne = 앤
+  Asia = 아시아
+  Award of Garden Merit = 가든 메리트상
+  Bach = 바흐
+  Bach flower remedies = 바흐 꽃 요법
+  Egypt = 이집트
+  Europe = 유럽
+  Flowering plant = 속씨식물
+  Garden = 정원
+  Genus = 속
+  Isis = 이시스
+  Silver = 은
+  Silver Anne = 실버 앤
+  Sissinghurst = 시싱허스트
+  Spanish verbena oil = 스페인 버베나유
+  Traditional medicine = 전통 의학
+  Verbena officinalis = Verbena officinalis
+  Verbenaceae = 마편초과
+  alternative medicine = 대체 의학
+  ancient Egypt = 고대 이집트
+  common vervain = 마편초
+  flowering plants = 속씨식물
+  herbalism = 약초학
+  traditional medicine = 전통 의학
+  type species = 모식종
+  vervain = 마편초
+ENTRY:
+[[Genus|Genus]] of about 150 species of annual and perennial herbaceous or semi-woody [[Flowering plant|flowering plants]] in the family Verbenaceae, also known as vervain. Most species are native to the Americas and Asia, but the type species, common vervain (*Verbena officinalis*), is native to Europe. Several species and hybrids are grown as ornamentals because they are drought-resistant and attract butterflies and hummingbirds. The Silver Anne and Sissinghurst hybrids have won the Royal Horticultural Society's Award of Garden Merit. Verbena has long been used in herbalism and [[Traditional medicine|traditional medicine]], although there is no high-quality evidence for its effectiveness. It is one of 38 plants used in Bach flower remedies, a form of alternative medicine. The essential oil of common vervain, sold as Spanish verbena oil, has some commercial importance in herbalism. The plant was once called the tears of [[Isis|Isis]] in ancient Egypt.
+
+=== KEY: Vercingetorix_bc6c77
+HEADWORD: Vercingetorix = 베르킨게토릭스
+LEVEL: 4
+GLOSSARY:
+  Alesia = 알레시아
+  Arverni = 아르베르니족
+  Battle of Alesia = 알레시아 전투
+  Celtic = 켈트
+  French = 프랑스어
+  Gallic = 갈리아
+  Gallic Wars = 갈리아 전쟁
+  Gaul = 갈리아
+  Gergovia = 게르고비아
+  Julius Caesar = 율리우스 카이사르
+  Middle Ages = 중세
+  Rome = 로마
+  scorched-earth tactics = 초토화 전술
+  triumph = 개선식
+ENTRY:
+Gallic chieftain of the Arverni who united most of [[Gaul|Gaul]] in a failed revolt against [[Rome|Rome]]. Exiled in early 52 BC for urging revolt, he returned with supporters, was proclaimed king and was elected to command a coalition of tribes against [[Julius Caesar|Julius Caesar]] in the [[Gallic Wars|Gallic Wars]]. He aimed to exhaust the Roman forces through scorched-earth tactics and harassment. After early successes, including a Roman defeat at Gergovia, he was forced to surrender at the Battle of Alesia in September 52 BC. He was held in Rome for six years and executed after Caesar's triumph. Most of what is known of him derives from Caesar's own account, which uses him to personify Celtic resistance. Largely overlooked in the [[Middle Ages|Middle Ages]], he was rediscovered in the 16th century, and from the 19th century he became a symbol of French national identity and of resistance to foreign domination.
+
+=== KEY: Vermilion_149a41
+HEADWORD: Vermilion = 버밀리언
+LEVEL: 5
+GLOSSARY:
+  Cinnabar = 진사
+  Dutch = 네덜란드어
+  Jabir ibn Hayyan = 자비르 이븐 하이얀
+  Persian = 페르시아어
+  Pigment = 안료
+  Toxic = 「Toxic」
+  Vermilion = 주홍색
+  mercury sulfide = 황화 수은
+ENTRY:
+Toxic red [[Pigment|pigment]] made by grinding the mineral [[Cinnabar|cinnabar]], a form of mercury sulfide. Vermilion is synonymous with red-orange, but it is not one hue: particle size produces shades from bright orange-red to a duller reddish purple. The Chinese probably made a synthetic version as early as the 4th century BC, and the Persian alchemist [[Jabir ibn Hayyan|Jabir ibn Hayyan]] described the process in the 9th century. A 17th-century Dutch method is still used today with essentially the same process. The pigment tends to darken, and like most mercury compounds it is toxic.
+
+=== KEY: Vermont_de30bd
+HEADWORD: Vermont = 버몬트주
+LEVEL: 5
+GLOSSARY:
+  England = 잉글랜드
+  Montpelier = 몬트필리어
+  New England = 뉴잉글랜드
+  Quebec = 퀘벡주
+  Slavery = 노예제
+  U.S. state = 미국의 주
+  United States = 미국
+  Vermont = 버몬트주
+  Vermont Republic = 버몬트 공화국
+  maple syrup = 메이플 시럽
+  the Union = 연방
+ENTRY:
+Landlocked state in the [[New England|New England]] region of the northeastern United States, bordered by [[Quebec|Quebec]] to the north. Its estimated population of 644,663 makes it the second-least populous state, and its capital, Montpelier, is the least populous U.S. state capital. An independent Vermont Republic was established in 1777, and it abolished [[Slavery|slavery]] before any other U.S. state. Vermont was admitted to the Union in 1791 as the 14th state. Its economy ranks last among states and territories by GDP, but it has the highest proportion of renewable electricity generation, at 99.9%, and it produces approximately 50% of the nation's maple syrup.
+
+=== KEY: Vertebrate_172014
+HEADWORD: Vertebrate = 척추동물
+LEVEL: 3
+GLOSSARY:
+  Animal = 동물
+  Blue whale = 대왕고래
+  Brachycephalus pulex = Brachycephalus pulex
+  Brain = 뇌
+  Cambrian = 캄브리아기
+  Cambrian explosion = 캄브리아기 대폭발
+  Carboniferous = 석탄기
+  Chordata = 척삭동물문
+  Chordate = 척삭동물
+  Cyclostomi = 원구류
+  Devonian = 데본기
+  Gnathostomata = 턱입동물
+  Hagfish = 먹장어
+  Jurassic = 쥐라기
+  Lamprey = 칠성장어
+  Mammals = 포유류
+  Ordovician = 오르도비스기
+  Silurian = 실루리아기
+  Spinal cord = 척수
+  Tetrapod = 사지동물
+  Triassic = 트라이아스기
+  Vertebrata = 척추동물아문
+  craniate = 두개동물
+  gill arches = 아가미활
+  glomeruli = 사구체
+  inner ear = 내이
+  jawed vertebrates = 유악류
+  lobe-finned fish = 육기어류
+  semicircular canals = 반고리관
+  swim bladder = 부레
+  vertebral column = 척추
+ENTRY:
+Animal with a vertebral column and a cranium; also called a craniate. The vertebral column surrounds and protects the [[Spinal cord|spinal cord]], and the cranium protects the [[Brain|brain]]. Vertebrates form the subphylum Vertebrata, by far the largest ranked grouping in the phylum [[Chordate|Chordata]], yet they make up less than five percent of all described animal species. The two major living subgroups are the jawless Cyclostomi, which include [[Hagfish|hagfish]] and [[Lamprey|lampreys]], and the jawed Gnathostomata. Bony fish include the lobe-finned fish, which gave rise to the [[Tetrapod|tetrapods]], the four-limbed animals.
+
+Vertebrates are distinguished from other animals, including other chordates, by a vertebral column and a skull made of cartilage or bone; a brain divided into 3 or more sections; a muscular heart with 2 or more chambers; an inner ear with semicircular canals; kidneys with glomeruli; a thyroid; and a liver. Most vertebrates are aquatic and breathe with gills; in jawed vertebrates, the first pair of gill arches evolved into the jaws. Tetrapods lost the gills and adapted the swim bladder into lungs. Size ranges from the frog *Brachycephalus pulex*, with a minimum adult snout–vent length of 6.45 millimeters, to the [[Blue whale|blue whale]], at up to 33 m and some 150 tonnes.
+
+The first vertebrates appeared in the [[Cambrian explosion]] some 518 million years ago and were jawless. Jawed vertebrates evolved in the Ordovician or Silurian. The first tetrapods appeared towards the end of the Devonian, and the first land amphibians in the Carboniferous. Mammals and dinosaurs appeared in the Triassic, and birds arose from dinosaurs in the Jurassic. Populations of many species have declined steeply since 1970 because of land-use change, overexploitation of natural resources, climate change, pollution, and invasive species.
+
+=== KEY: Vertigo_film_c4820b
+HEADWORD: Vertigo = 현기증
+LEVEL: 4
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred Hitchcock = 앨프리드 히치콕
+  Boileau-Narcejac = 부알로-나르스자크
+  Citizen Kane = 「시민 케인」
+  D'entre les morts = 『죽은 자들 사이에서』
+  Film = 영화
+  James = 야고보
+  James Stewart = 제임스 스튜어트
+  Library = 도서관
+  Library of Congress = 미국 의회 도서관
+  National Film Registry = 국립 영화 등기부
+  San Francisco = 샌프란시스코
+  Sound = 소리
+  United States = 미국
+  United States National Film Registry = 미국 국립 영화 등기부
+  Vertigo effect = 현기증 효과
+  dolly zoom = 돌리 줌
+  psychological thriller = 심리 스릴러
+ENTRY:
+1958 American psychological thriller film directed by [[Alfred Hitchcock|Alfred Hitchcock]]. Based on the 1954 novel *D'entre les morts* by Boileau-Narcejac, it stars [[James Stewart|James Stewart]] as a former San Francisco police detective who retired after developing an extreme fear of heights. He is hired to follow the wife of an acquaintance from college, and the investigation of her strange behavior draws him into a troubled romance. Much of the film was shot on location in [[San Francisco|San Francisco]], and it was the first film to use the dolly zoom, an in-camera effect that distorts perspective to convey disorientation, often called the *Vertigo* effect. It received mixed reviews on release but later came to be considered Hitchcock's masterpiece. In 1989 the [[Library of Congress|Library of Congress]] selected it for the United States National Film Registry, and in the 2012 *Sight & Sound* poll of critics it replaced *Citizen Kane* as the greatest film ever made, placing second in 2022.
+
+=== KEY: Veterinary_medicine_1ecd5a
+HEADWORD: Veterinary medicine = 수의학
+LEVEL: 4
+GLOSSARY:
+  Animal = 동물
+  Ashoka = 아소카
+  Branch = 브랜치
+  Claude = 클로드
+  Claude Bourgelat = 클로드 부르즐라
+  Dynasty = 「다이너스티」
+  France = 프랑스
+  Horse = 말
+  Livestock = 가축
+  Lyon = 리옹
+  Medicine = 의학
+  Neolithic = 신석기 시대
+  Papyrus = 파피루스
+  Papyrus of Kahun = 카훈 파피루스
+  Shalihotra Samhita = 『샬리호트라 상히타』
+  Twelfth Dynasty = 제12왕조
+  animal welfare = 동물 복지
+  comparative anatomy = 비교해부학
+  natural history = 박물학
+  paraveterinary workers = 수의 보조 인력
+  trepanned = 천공술을 받은
+  zoonotic diseases = 인수 공통 감염병
+ENTRY:
+Branch of [[Medicine|medicine]] concerned with the prevention, diagnosis and treatment of disease and injury in non-human [[Animal|animals]], both domesticated and wild. It is practiced by veterinarians, supported by paraveterinary workers such as veterinary nurses and technicians. Veterinary science helps human health by monitoring and controlling zoonotic diseases, supports food safety and [[Livestock|livestock]] health, and keeps pets healthy. Veterinarians are ethically obliged to look after animal welfare. Veterinary procedures date to the [[Neolithic|Neolithic]] (3400–3000 BC), shown by a trepanned cow skull, and the first surviving record is the Egyptian Papyrus of Kahun from the Twelfth Dynasty. The Indian treatise Shalihotra Samhita dates from the time of [[Ashoka|Ashoka]], and early efforts to regulate care focused on [[Horse|horses]]. The first veterinary school was founded in [[Lyon|Lyon]], France, by Claude Bourgelat, and its model drew on human medicine, natural history and comparative anatomy.
+
+=== KEY: Vibrator_sex_toy_1dcc06
+HEADWORD: Vibrator = 바이브레이터
+LEVEL: 5
+GLOSSARY:
+  Dildo = 딜도
+  Orgasm = 오르가슴
+  Sex toy = 성인용품
+  bullets = 불릿
+  clitoral wands = 클리토리스 완드
+ENTRY:
+[[Sex toy|Sex toy]] that produces pleasurable stimulation through vibration. Most modern vibrators contain an electric device that pulsates or throbs, often using eccentric weights driven by a motor, though some use electromagnetic coils. They come in many shapes, including clitoral wands and bullets and [[Dildo|dildo]]-shaped models for vaginal, anal or oral use. Some modern vibrators synchronize their vibrations to music. Sex therapists recommend vibrators for women who have difficulty reaching [[Orgasm|orgasm]] through masturbation or intercourse.
+
+=== KEY: Vichy_France_404d7d
+HEADWORD: Vichy France = 비시 프랑스
+LEVEL: 5
+GLOSSARY:
+  Allied landings in North Africa = 연합군의 북아프리카 상륙
+  Antisemitism = 반유대주의
+  Battle of France = 프랑스 전투
+  France = 프랑스
+  French = 프랑스어
+  German = 독일어
+  Germany = 독일
+  Jews = 유대인
+  Nazi = 나치
+  Nazi Germany = 나치 독일
+  Nazi concentration camps = 나치 강제 수용소
+  North Africa = 북아프리카
+  Philippe Pétain = 필리프 페탱
+  Révolution nationale = 국민 혁명
+  Vichy = 비시
+  Vichy France = 비시 프랑스
+  World = 세계
+  World War II = 제2차 세계 대전
+  collaboration = 대독 협력
+  concentration camps = 강제 수용소
+ENTRY:
+French state headed by Marshal [[Philippe Pétain|Philippe Pétain]] from 1940 to 1944, during [[World War II|World War II]]. It was established after the German victory in the [[Battle of France|Battle of France]] and governed the unoccupied southern zone from Vichy while Germany occupied the north and west. It adopted a policy of collaboration with [[Nazi Germany|Nazi Germany]] and promoted [[Antisemitism|antisemitism]] and an authoritarian program called *Révolution nationale*. After Allied landings in North Africa in November 1942, Germany occupied the rest of France, and at least 72,500 [[Jews|Jews]] deported from Vichy France were killed in [[Nazi concentration camps|Nazi concentration camps]].
+
+=== KEY: Vicia_faba_76bfa5
+HEADWORD: Vicia faba = 잠두
+LEVEL: 4
+GLOSSARY:
+  Erosion = 침식
+  Fabaceae = 콩과
+  G6PDD = G6PD 결핍증
+  Galilee = 갈릴리
+  Israel = 이스라엘
+  Loam = 양토
+  Lower Galilee = 하갈릴리
+  Neolithic = 신석기 시대
+  Species = 종
+  broad bean = 잠두
+  cover crop = 피복 작물
+  diploid = 이배체
+  faba bean = 파바콩
+  fava bean = 파바콩
+  favism = 잠두 중독증
+  field beans = 사료용 잠두
+  hemolytic = 용혈성
+  protein-coding genes = 단백질 암호화 유전자
+  seed coat = 종피
+  vetch = 갈퀴나물
+ENTRY:
+Species of vetch in the pea and bean family [[Fabaceae|Fabaceae]], commonly called the broad bean, fava bean or faba bean. It is widely cultivated for human food and as a cover crop that prevents [[Erosion|erosion]] and fixes nitrogen in the soil. Varieties with smaller, harder seeds, called field beans, are fed to livestock. Some people have favism, a hemolytic reaction to broad beans linked to a metabolic disorder known as G6PDD. Otherwise the beans can be eaten raw or cooked once the outer seed coat is removed. Charred remains from [[Neolithic|Neolithic]] sites in [[Israel|Israel]]'s Lower Galilee suggest domestication may have begun as early as 8250 BC. The plant is hardy and tolerates saline and clay soils, though it prefers rich [[Loam|loams]]. Its diploid genome contains 13 GB of DNA and a predicted 34,221 protein-coding genes.
+
+=== KEY: Victor_Hugo_fca254
+HEADWORD: Hugo, Victor = 위고, 빅토르
+LEVEL: 4
+GLOSSARY:
+  Cromwell = 「크롬웰」
+  French = 프랑스어
+  Hernani = 「에르나니」
+  La Légende des siècles = 『여러 세기의 전설』
+  Les Contemplations = 『정관 시집』
+  Les Misérables = 『레 미제라블』
+  Notre-Dame de Paris = 「노트르담 드 파리」
+  Panthéon = 팡테옹
+  Paris = 파리
+  Rigoletto = 「리골레토」
+  Romantic = 낭만주의
+  Romantic movement = 낭만주의 운동
+  Romanticism = 낭만주의
+  The Hunchback of Notre-Dame = 『노트르담 드 파리』
+  capital punishment = 사형
+ENTRY:
+French [[Romanticism|Romantic]] writer, poet, playwright and politician. His best-known novels are *The Hunchback of Notre-Dame* (1831) and *Les Misérables* (1862), and his poetry includes *Les Contemplations* and *La Légende des siècles*. He was at the forefront of the Romantic movement in theater with the plays *Cromwell* and *Hernani*. His works inspired the opera *Rigoletto* and the musicals *Les Misérables* and *Notre-Dame de Paris*. He produced more than 4,000 drawings and campaigned for the abolition of capital punishment and slavery. A committed royalist when young, he became a passionate supporter of republicanism and served in politics as both a deputy and a senator. His opposition to absolutism and his literary stature made him a national hero. His state funeral in the Panthéon in [[Paris|Paris]] was attended by over two million people, the largest in French history.
+
+=== KEY: Victoria_British_Columbia_3fb4d1
+HEADWORD: Victoria = 빅토리아
+LEVEL: 5
+GLOSSARY:
+  British Columbia = 브리티시컬럼비아주
+  Canada = 캐나다
+  Chinatown = 「차이나타운」
+  City = 도시
+  Columbia = 컬럼비아
+  Empress Hotel = 엠프리스 호텔
+  Garden = 정원
+  Garden City = 정원의 도시
+  Hotel = 호텔
+  North America = 북아메리카
+  Pacific = 태평양
+  Pacific Northwest = 태평양 연안 북서부
+  Parliament = 의회
+  Parliament Buildings = 주의회 의사당
+  Queen = 퀸
+  Queen Victoria = 빅토리아 여왕
+  San Francisco = 샌프란시스코
+  Vancouver = 밴쿠버
+  Vancouver Island = 밴쿠버섬
+ENTRY:
+Capital of [[British Columbia|British Columbia]], Canada (pop., 2021: 91,867), on the southern tip of [[Vancouver Island|Vancouver Island]]. Named for [[Queen Victoria|Queen Victoria]], it is one of the oldest cities in the [[Pacific Northwest|Pacific Northwest]], with British settlement beginning in 1843. Its landmarks include the Parliament Buildings, finished in 1897, and the Empress Hotel, opened in 1908. Its Chinatown is the second oldest in North America, after [[San Francisco|San Francisco]]. Known as the Garden City, it is a popular tourist destination, and technology is its largest revenue-generating private industry.
+
+=== KEY: Victoria_Falls_4cb882
+HEADWORD: Victoria Falls = 빅토리아 폭포
+LEVEL: 4
+GLOSSARY:
+  Basalt = 현무암
+  David Livingstone = 데이비드 리빙스턴
+  Flood = 홍수
+  Livingstone = 리빙스턴
+  Mosi-oa-Tunya = 모시오아툰야
+  Queen = 퀸
+  Queen Victoria = 빅토리아 여왕
+  River = 강
+  Scottish = 스코틀랜드
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage List = 세계유산 목록
+  World Heritage Site = 세계유산
+  Zambezi = 잠베지강
+  Zambezi River = 잠베지강
+  Zambia = 잠비아
+  Zimbabwe = 짐바브웨
+ENTRY:
+Waterfall on the [[Zambezi|Zambezi]] River, on the border between [[Zambia|Zambia]] and [[Zimbabwe|Zimbabwe]]. Known locally as Mosi-oa-Tunya, meaning the smoke that thunders, it is one of the world's largest waterfalls, with a width of 1,708 m (5,604 ft). Scottish missionary [[David Livingstone|David Livingstone]] first recorded viewing it on November 16, 1855, and named it after [[Queen Victoria|Queen Victoria]]. The river plunges over a [[Basalt|basalt]] plateau into a chasm, and its spray often rises over 400 m (1,300 ft), visible from up to 50 km (30 mi) away. Flood season peaks in April, when the foot and face of the falls cannot be seen, while in the dry season up to half of the rock face may be exposed. A major tourist destination since the mid-20th century, the falls are listed on the [[World Heritage Site|World Heritage List]] under both names.
+
+=== KEY: Victoria_Harbour_018bb8
+HEADWORD: Victoria Harbour = 빅토리아 항
+LEVEL: 5
+GLOSSARY:
+  China = 중국
+  Hong Kong = 홍콩
+  Hong Kong Harbour = 홍콩항
+  Hong Kong Island = 홍콩섬
+  Kowloon = 주룽
+  Kowloon Peninsula = 주룽반도
+  Land reclamation = 간척
+  Peninsula = 반도
+  Queen = 퀸
+  Queen Victoria = 빅토리아 여왕
+  South China = 화난
+  South China Sea = 남중국해
+  Victoria Harbour = 빅토리아 항
+ENTRY:
+Natural harbor in [[Hong Kong|Hong Kong]] separating Hong Kong Island from the Kowloon Peninsula. Its sheltered waters on the [[South China Sea|South China Sea]] helped make Hong Kong a British colony in 1841 and a major trading hub. Originally called Hong Kong Harbour, it was renamed Victoria Harbour to assure shelter for the British fleet under [[Queen Victoria|Queen Victoria]]. Annual fireworks and promenades make it a tourist attraction, and it remains a port for thousands of international vessels each year. Land reclamation on both shores has narrowed the harbor and sparked controversy over water quality and loss of natural habitat.
+
+=== KEY: Victoria_state_310ff1
+HEADWORD: Victoria = 빅토리아주
+LEVEL: 5
+GLOSSARY:
+  Australasia = 오스트랄라시아
+  Australia = 오스트레일리아
+  Australian = 오스트레일리아
+  Canberra = 캔버라
+  Crown = 영국 왕실
+  Crown colony = 직할 식민지
+  Federation = 연방 결성
+  Melbourne = 멜버른
+  New South Wales = 뉴사우스웨일스주
+  Queen = 퀸
+  Queen Victoria = 빅토리아 여왕
+  South Wales = 사우스웨일스
+  Victorian = 빅토리아 시대
+  Victorian gold rush = 빅토리아 골드러시
+  Wales = 웨일스
+  gold rush = 골드러시
+  responsible government = 책임 정부
+ENTRY:
+State in southeastern [[Australia|Australia]], the most densely populated Australian state, with a population of over 7 million. Named for [[Queen Victoria|Queen Victoria]], it was separated from [[New South Wales|New South Wales]] as a Crown colony in 1851 and gained responsible government in 1855. Its capital, [[Melbourne|Melbourne]], was the largest city in Australasia by the time of Federation in 1901, and it was the seat of federal government until [[Canberra|Canberra]] became the national capital in 1927. The Victorian gold rush of the 1850s and 1860s greatly increased the population and wealth of the colony.
+
+=== KEY: Victorian_era_678e49
+HEADWORD: Victorian era = 빅토리아 시대
+LEVEL: 5
+GLOSSARY:
+  British Empire = 대영 제국
+  Famine = 기근
+  Great Famine = 대기근
+  Great Famine (Ireland) = 아일랜드 대기근
+  Queen = 퀸
+  Queen Victoria = 빅토리아 여왕
+  Slum = 빈민가
+  United Kingdom = 영국
+  Victorian = 빅토리아 시대
+  hegemonic superpower = 패권적 초강대국
+ENTRY:
+Period of [[Queen Victoria|Queen Victoria]]'s reign over the United Kingdom, from 1837 to 1901, when the British Empire was the world's hegemonic superpower. Victorian society valued high standards of personal conduct, which gave impetus to social reform but also restricted some groups. Prosperity rose, and literacy and childhood education became nearly universal in Great Britain, but [[Slum|slum]] housing and disease remained severe. Britain was advanced in industry and engineering. Great Britain's population grew rapidly, while Ireland's fell sharply after the [[Great Famine (Ireland)|Great Famine]] of the mid-1840s.
+
+=== KEY: Vicu_a_4d2705
+HEADWORD: Vicuña = 비쿠냐
+LEVEL: 4
+GLOSSARY:
+  Alpaca = 알파카
+  Andes = 안데스산맥
+  DNA = DNA
+  Inca = 잉카
+  Llama = 라마
+  Peru = 페루
+  South American = 남아메리카
+  camelid = 낙타과 동물
+  coat of arms = 문장
+ENTRY:
+Wild South American camelid of the high [[Andes|Andes]], a relative of the [[Llama|llama]]. It is believed to be the ancestor of the domesticated [[Alpaca|alpaca]], which is raised for its coat, and [[DNA|DNA]] research published in 2001 demonstrated that alpacas may have vicuña parentage. The vicuña produces very small amounts of extremely fine wool, which is expensive because the animal must be caught from the wild and can be shorn only every three years. The Inca allowed only royalty to wear vicuña garments, and today the vicuña is the national animal of [[Peru|Peru]] and appears on its coat of arms. It was heavily hunted until only about 6,000 animals were left when it was declared endangered in 1974. Its population has since recovered to about 350,000, and it lives at altitudes of 3,200 to 4,800 m (10,500–15,700 ft) in the central Andes.
+
+=== KEY: Video_34e2d1
+HEADWORD: Video = 비디오
+LEVEL: 3
+GLOSSARY:
+  Ampex = 앰펙스
+  Blu-ray = 블루레이
+  Charles Ginsburg = 찰스 긴즈버그
+  DVD = DVD
+  Film = 영화
+  Hollywood = 할리우드
+  Interlacing = 비월 주사
+  Latin = 라틴어
+  Magnetic tape = 자기 테이프
+  NTSC = NTSC
+  Nipkow disk = 닙코 원판
+  PAL = PAL
+  SECAM = SECAM
+  Smartphone = 스마트폰
+  Sony = 소니
+  Television = 텔레비전
+  Video = 비디오
+  cathode-ray tube = 음극선관
+  facsimile = 팩시밀리
+  frames per second = 초당 프레임
+  mechanical television = 기계식 텔레비전
+  videocassette recorder = 비디오카세트 녹화기
+ENTRY:
+Electronic medium for recording, copying, playback, transmitting, and display of moving visual images, with or without accompanying audio. It was first developed for live transmission and later expanded to recording and storage in analog formats such as [[Magnetic tape|magnetic tape]]. Since the late 20th century, digital video has become the dominant form. The word was coined in 1935 as a visual equivalent of "audio", from the [[Latin]] *video*, "I see".
+
+Video developed from facsimile systems of the mid-19th century. Mechanical scanners such as the Nipkow disk were patented as early as 1884. Unlike [[Film|film]], which records small photographic images, video encodes images electronically. It was first developed for mechanical [[Television|television]], which cathode-ray tube systems quickly replaced. In 1951, a team at Ampex led by Charles Ginsburg produced one of the first practical video tape recorders, which captured live images from television cameras onto magnetic videotape. In 1971, [[Sony]] began selling videocassette recorder decks and tapes to consumers.
+
+Digital video offers higher quality and eventually much lower cost. After the commercial introduction of the [[DVD]] in 1997 and the [[Blu-ray]] Disc in 2006, sales of videotape and recording equipment fell. Inexpensive computers and [[Smartphone|smartphones]] can now capture and edit digital video. Since 2013, the use of digital cameras in Hollywood has surpassed that of film cameras.
+
+Frame rate ranges from six or eight frames per second for older mechanical cameras to 120 or more for new professional cameras. PAL and SECAM specify 25 frames per second, NTSC 29.97, and film is shot at 24. Interlacing, which captures alternate scan lines as two fields per frame, was invented to reduce flicker without increasing the number of complete frames per second.
+
+=== KEY: Video_camera_e061ee
+HEADWORD: Video camera = 비디오카메라
+LEVEL: 4
+GLOSSARY:
+  Bell = 종
+  Bell Labs = 벨 연구소
+  CMOS = CMOS
+  Charge-coupled device = 전하 결합 소자
+  MOSFET = MOSFET
+  Philo Farnsworth = 파일로 판즈워스
+  Smartphone = 스마트폰
+  Surveillance = 감시
+  Television = 텔레비전
+  Video = 비디오
+  flash memory = 플래시 메모리
+  image dissector = 이미지 디섹터
+  optical discs = 광디스크
+ENTRY:
+Optical instrument that captures [[Video|video]], unlike a movie camera, which records images on film. Video cameras were first developed for the [[Television|television]] industry and are now used for [[Surveillance|surveillance]], military and industrial work, and consumer recording. Live feeds show images for immediate viewing, while recorded video has moved from videotape to optical discs, hard disks and flash memory. Electronic camera tubes, including [[Philo Farnsworth|Philo Farnsworth]]'s image dissector, replaced mechanical Nipkow disks by the 1930s and stayed in wide use until the 1980s. Solid-state image sensors, such as the [[Charge-coupled device|charge-coupled device]] and later CMOS sensors, eliminated problems such as image burn-in and made digital video practical. These sensors rest on metal–oxide–semiconductor technology, which originates from the [[MOSFET|MOSFET]], invented at [[Bell Labs|Bell Labs]] in 1959. Modern forms include studio and field cameras, camcorders, pan–tilt–zoom surveillance cameras, webcams and the cameras built into many [[Smartphone|smartphones]].
+
+=== KEY: Video_game_37a57c
+HEADWORD: Video game = 비디오 게임
+LEVEL: 3
+GLOSSARY:
+  Computer = 컴퓨터
+  Computer Space = 「컴퓨터 스페이스」
+  Esports = e스포츠
+  Estle Ray Mann = 에스틀 레이 만
+  Game = 게임
+  Game Boy = 게임보이
+  MS-DOS = MS-DOS
+  Magnavox Odyssey = 마그나복스 오디세이
+  Massachusetts = 매사추세츠주
+  Massachusetts Institute of Technology = 매사추세츠 공과대학교
+  Microsoft = 마이크로소프트
+  Microsoft Windows = 마이크로소프트 윈도우
+  Nintendo = 닌텐도
+  OXO = 「OXO」
+  Odyssey = 『오디세이아』
+  Oscilloscope = 오실로스코프
+  Others = 아더
+  Pong = 「퐁」
+  Sega = 세가
+  Sony = 소니
+  Space = 공간
+  Technology = 기술
+  Tennis = 테니스
+  Tennis for Two = 「테니스 포 투」
+  Thomas = 토머스
+  Touchscreen = 터치스크린
+  Video game console = 비디오 게임기
+  William = 윌리엄
+  William Higinbotham = 윌리엄 히긴보섬
+  Windows = 윈도우
+  arcade games = 아케이드 게임
+  augmented reality = 증강 현실
+  cathode-ray tube = 음극선관
+  cathode-ray tube amusement device = 음극선관 오락 장치
+  cloud gaming = 클라우드 게이밍
+  eSports = e스포츠
+  golden age = 황금기
+  indie = 인디
+  user interface = 사용자 인터페이스
+  virtual reality = 가상 현실
+ENTRY:
+Electronic game involving interaction with a user interface or input device, such as a joystick, controller, keyboard, or motion-sensing device, to generate visual feedback on a display device. The display may be a television set, computer monitor, flat-panel display, [[Touchscreen|touchscreen]], or virtual reality headset. Games are categorized by hardware platform (arcade, console, computer, and more recently mobile, virtual and augmented reality, and cloud gaming) and by genre.
+
+An early example is a "cathode-ray tube amusement device", patented by Thomas T. Goldsmith Jr. and Estle Ray Mann (filed January 25, 1947; issued December 14, 1948). Others include *OXO* (1952), *Tennis for Two* (1958), which William Higinbotham engineered with an [[Oscilloscope|oscilloscope]] display, and *Spacewar!* (1962), written by [[Massachusetts Institute of Technology]] students. The first consumer video game was the arcade game *Computer Space* in 1971. In 1972 came *Pong* and the first home console, the Magnavox Odyssey. The "golden age" of arcade games ran from the late 1970s to the early 1980s, but loss of publishing control and market saturation led to the crash of the North American video game market in 1983.
+
+By the late 1980s, [[Video game console|video game consoles]] were dominated by Japanese companies such as [[Nintendo]], [[Sega]], and later Sony, while Microsoft Windows and MS-DOS came to dominate computer gaming, and multiplayer online games helped establish [[Esports|eSports]]. Nintendo achieved dominance in handheld gaming with the [[Game Boy]] line. By the 2000s Sega had exited the console market, leaving Nintendo, Sony, and Microsoft as the "big three". Independent "indie" games gained prominence in the 2010s. As of 2020, the global market had estimated annual revenues of US$159 billion, three times the global music industry and four times the film industry in 2019. Some reviews have estimated addiction prevalence among heavy users at 1-10%, a subject of controversy.
+
+=== KEY: Video_game_console_fb230c
+HEADWORD: Video game console = 비디오 게임기
+LEVEL: 4
+GLOSSARY:
+  Atari 2600 = 아타리 2600
+  Fairchild Channel F = 페어차일드 채널 F
+  Game = 게임
+  Game Boy = 게임보이
+  Microsoft = 마이크로소프트
+  Nintendo = 닌텐도
+  PlayStation = 플레이스테이션
+  Sony = 소니
+  Xbox = 엑스박스
+ENTRY:
+Electronic device that outputs a video signal to play video games, typically with a game controller. Home consoles stay in a fixed location and connect to a television or other display, while handheld consoles include their own screens; hybrid consoles combine both. The first consoles appeared in the early 1970s, and the handheld concept was fully realized by the [[Game Boy]] in 1989. Programmable consoles using swappable cartridges arrived with the Fairchild Channel F in 1976, and the Atari 2600 (1977) popularized them. Consoles are usually sold in generations of five to seven years. Manufacturers often sell hardware at low prices, sometimes at a loss, and profit from licensing fees on each game sold. The market is led by [[Nintendo]], Sony and [[Microsoft]], with their [[PlayStation]] and [[Xbox]] brands, known as the "big three".
+
+=== KEY: Vidya_Balan_d05bc8
+HEADWORD: Balan, Vidya = 발란, 비디아
+LEVEL: 5
+GLOSSARY:
+  Best Actress = 여우주연상
+  Bhool Bhulaiyaa 3 = 「불 불라이야 3」
+  Central Board of Film Certification = 중앙 영화 인증 위원회
+  Film = 영화
+  Filmfare Awards = 필름페어상
+  Government = 정부
+  Government of India = 인도 정부
+  Hindi = 힌디어
+  Hindi cinema = 힌디어 영화
+  India = 인도
+  Kahaani = 「카하니」
+  National Film Award = 인도 국립 영화상
+  National Film Award for Best Actress = 인도 국립 영화상 여우주연상
+  Padma Shri = 파드마 슈리 훈장
+  Shakuntala Devi = 「샤쿤탈라 데비」
+  Shri = 슈리
+  The Dirty Picture = 「더 더티 픽처」
+ENTRY:
+Indian film actress. Known for pioneering a change in the portrayal of women in Hindi cinema through female-led films, she won a National Film Award for Best Actress for *The Dirty Picture* (2011) and seven Filmfare Awards. She received the Padma Shri from the [[Government of India]] in 2014. Later films include *Kahaani* (2012), *Shakuntala Devi* (2020) and *Bhool Bhulaiyaa 3* (2024). She is a member of the Indian Central Board of Film Certification and supports women's empowerment.
+
+=== KEY: Vienna_601f92
+HEADWORD: Vienna = 빈
+LEVEL: 4
+GLOSSARY:
+  Alps = 알프스산맥
+  Amadeus = 「아마데우스」
+  Austria = 오스트리아
+  Beethoven = 베토벤
+  Danube = 도나우강
+  Franz Schubert = 프란츠 슈베르트
+  Habsburgs = 합스부르크 가문
+  Holy Roman Empire = 신성 로마 제국
+  Ludwig = 루트비히
+  Ludwig van Beethoven = 루트비히 판 베토벤
+  Mozart = 모차르트
+  OPEC = 석유 수출국 기구
+  Roman Empire = 로마 제국
+  Romans = 로마인
+  Schubert = 슈베르트
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  United Nations = 국제 연합
+  Vienna = 빈
+  Vienna Woods = 빈 숲
+  Vindobona = 빈도보나
+  Wolfgang Amadeus Mozart = 볼프강 아마데우스 모차르트
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Capital and largest city of [[Austria]] (pop., 2025: 2,028,289), one of its nine states. It lies on the [[Danube]] at the eastern edge of the Vienna Woods, the northeasternmost foothills of the [[Alps]]. The Romans founded a camp there, called Vindobona, in the 1st century. The Habsburgs made it the seat of the emperors of the [[Holy Roman Empire]] in the 16th century, a role it held until the empire's dissolution in 1806. It was the largest German-speaking city in the 18th and 19th centuries, peaking at two million inhabitants, and was home to composers including [[Ludwig van Beethoven]], [[Wolfgang Amadeus Mozart]] and [[Franz Schubert]]. The historic center was designated a [[World Heritage Site|UNESCO World Heritage Site]] in 2001, and Vienna hosts the United Nations and OPEC.
+
+=== KEY: Vientiane_5e0567
+HEADWORD: Vientiane = 비엔티안
+LEVEL: 4
+GLOSSARY:
+  Buddha = 붓다
+  Buddhism = 불교
+  Emerald = 에메랄드
+  Emerald Buddha = 에메랄드 불상
+  French = 프랑스어
+  Haw Phra Kaew = 허프라깨우
+  Lan Xang = 란쌍 왕국
+  Laos = 라오스
+  Mekong = 메콩강
+  Pha That Luang = 파탓루앙
+  Setthathirath = 세타티랏
+  Thailand = 태국
+  Viangchan = 위앙짠
+  Vientiane = 비엔티안
+  War = 전쟁
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+Capital and largest city of [[Laos]] (pop., 2023: 840,000). It stands on the banks of the [[Mekong]] near the border with [[Thailand]], and was the administrative capital during French rule. It is the country's primary administrative, economic and cultural center. The name is the French spelling of the Lao Viangchan. King Setthathirath made the city the capital of [[Lan Xang]] in 1563, to avoid Burmese invasion. Pha That Luang, an icon of Buddhism, stands in the city, as does Haw Phra Kaew, which formerly housed the Emerald Buddha. Vientiane was occupied by Japanese forces during [[World War II]], and French paratroopers reoccupied it in 1946.
+
+=== KEY: Viet_Cong_6175f1
+HEADWORD: Viet Cong = 베트콩
+LEVEL: 5
+GLOSSARY:
+  Fatherland Front of Vietnam = 베트남 조국 전선
+  National Liberation Front of South Vietnam = 남베트남 민족 해방 전선
+  North Vietnam = 북베트남
+  North Vietnamese = 북베트남
+  South Vietnam = 남베트남
+  Tet Offensive = 구정 공세
+  Vietnam = 베트남
+  Vietnam War = 베트남 전쟁
+  War = 전쟁
+  united front = 통일 전선
+ENTRY:
+Communist-led armed movement and united front in [[South Vietnam]], active 1960–1977. Formed as the National Liberation Front of South Vietnam in 1960, it fought under North Vietnamese direction in the [[Vietnam War]]. Its supporters described it as an indigenous insurgency; the U.S. and South Vietnamese governments portrayed it as a tool of North Vietnam. Its best-known action, the [[Tet Offensive]] of 1968, was an assault on more than 100 South Vietnamese towns and cities. It merged with the Fatherland Front of Vietnam on February 4, 1977, after North and South Vietnam were unified under a communist government.
+
+=== KEY: Vietnam_War_7c6502
+HEADWORD: Vietnam War = 베트남 전쟁
+LEVEL: 4
+GLOSSARY:
+  Accords = 협약
+  Cambodia = 캄보디아
+  China = 중국
+  Cold War = 냉전
+  Indochina = 인도차이나
+  Indochina refugee crisis = 인도차이나 난민 위기
+  Laos = 라오스
+  North Vietnam = 북베트남
+  North Vietnamese = 북베트남
+  Paris = 파리
+  Paris Peace Accords = 파리 평화 협정
+  Peace = 평화
+  Saigon = 사이공
+  South Vietnam = 남베트남
+  Soviet Union = 소련
+  Tet Offensive = 구정 공세
+  U.S. military = 미군
+  Union = 연방
+  United States = 미국
+  Viet Cong = 베트콩
+  Vietnam = 베트남
+  Vietnamese boat people = 베트남 보트 피플
+  War = 전쟁
+ENTRY:
+Conflict in Vietnam, Laos and Cambodia, c. 1955–1975. North Vietnam, supported by [[China]] and the [[Soviet Union]], fought [[South Vietnam]] and its ally, the [[United States]], while directing the [[Viet Cong]] insurgency in the south. The war was a postcolonial war of national liberation, a theater of the [[Cold War]] and a civil war. U.S. military involvement escalated from 1965 and peaked in 1969. The [[Tet Offensive]] of 1968 was a tactical defeat, but it contributed to growing American opposition to the war. U.S. forces withdrew after the 1973 Paris Peace Accords, and Saigon fell to North Vietnamese forces in 1975. Estimates of Vietnamese soldiers and civilians killed range from 970,000 to 3 million, and 58,220 U.S. service members died. Postwar repression and economic policies helped precipitate the Vietnamese boat people and Indochina refugee crisis, in which about 250,000 perished at sea.
+
+=== KEY: Vietnam_fdef6d
+HEADWORD: Vietnam = 베트남
+LEVEL: 3
+GLOSSARY:
+  ASEAN = 동남아시아 국가 연합
+  Asia = 아시아
+  Cambodia = 캄보디아
+  Champa = 참파
+  China = 중국
+  City = 도시
+  Communist Party = 공산당
+  Communist Party of Vietnam = 베트남 공산당
+  First Indochina War = 제1차 인도차이나 전쟁
+  France = 프랑스
+  French = 프랑스어
+  French Indochina = 프랑스령 인도차이나
+  Han dynasty = 한나라
+  Hanoi = 하노이
+  Ho Chi Minh = 호찌민
+  Ho Chi Minh City = 호찌민시
+  Indochina = 인도차이나
+  Laos = 라오스
+  Mainland = 메인랜드섬
+  Mainland Southeast Asia = 동남아시아 대륙부
+  Mekong = 메콩강
+  Mekong Delta = 메콩강 삼각주
+  Nguyễn = 응우옌 왕조
+  North Vietnam = 북베트남
+  North Vietnamese = 북베트남
+  Party = 파티
+  Red River = 「붉은 강」
+  Red River Delta = 홍강 삼각주
+  River = 강
+  Socialist = 사회당
+  South China = 화난
+  South China Sea = 남중국해
+  South Vietnam = 남베트남
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  United States = 미국
+  Viet Minh = 베트민
+  Vietnam = 베트남
+  Vietnam War = 베트남 전쟁
+  WTO = 세계 무역 기구
+  War = 전쟁
+  one-party state = 일당제 국가
+  political pluralism = 정치적 다원주의
+  socialist-oriented market economy = 사회주의 지향 시장 경제
+ENTRY:
+Socialist republic (pop. over 102 million) on the eastern edge of [[Mainland Southeast Asia]]. Its area is about 331,000 sq km, and it is the world's 16th-most populous country. Vietnam is bordered by China, Laos, and Cambodia and lies along the South China Sea. The capital is [[Hanoi]]; the largest city is [[Ho Chi Minh City]].
+
+States arose in the first millennium BC on the Red River Delta. The [[Han dynasty]] annexed northern and central Vietnam, which remained under Chinese rule from 111 BC until the first dynasty emerged in 939. Successive dynasties expanded south to the Mekong Delta, conquering Champa. The last imperial dynasty, the Nguyễn, surrendered to France in 1883, and in 1887 the territory was integrated into [[French Indochina]]. The communist-led Viet Minh declared independence in 1945. France was defeated in the [[First Indochina War]] in 1954, and the country was divided in two. The [[Vietnam War]] followed between communist North Vietnam and South Vietnam, supported by the United States. After the North Vietnamese victory in 1975, the country reunified in 1976 under the Communist Party of Vietnam (CPV).
+
+A planned economy, a Western trade embargo, and wars with Cambodia and China crippled the country until the CPV launched reforms in 1986 creating a socialist-oriented market economy. Vietnam is now an upper-middle-income economy and a one-party state. Observers cite corruption, censorship, and restrictions on political pluralism and expression. Vietnam belongs to [[ASEAN]] and the WTO.
+
+=== KEY: Vietnamese_language_16409d
+HEADWORD: Vietnamese language = 베트남어
+LEVEL: 4
+GLOSSARY:
+  Austroasiatic = 오스트로아시아
+  Chinese characters = 한자
+  French = 프랑스어
+  Middle Chinese = 중고 중국어
+  Sino-Vietnamese = 한월어
+  Sino-Vietnamese vocabulary = 한월어
+  Vietic = 비엣어파
+  Vietnam = 베트남
+  chữ Nôm = 쯔놈
+  chữ Quốc ngữ = 쯔꾸옥응으
+  isolating = 고립어
+ENTRY:
+Tonal, isolating Austroasiatic language, the official language of [[Vietnam]]. It is spoken natively by around 86 million people and as a second language by 11 million, and belongs to the Vietic subgroup of the Austroasiatic family. Its syntax is strictly subject–verb–object, and its morphemes are predominantly monosyllabic. Sino-Vietnamese vocabulary, borrowed from Middle Chinese, makes up a significant part of the lexicon. Vietnamese is written in chữ Quốc ngữ, a Latin-based alphabet that relies on 17th-century Portuguese orthography and was officially adopted in the early 20th century during French rule. It was historically written in chữ Nôm, a script built from [[Chinese characters]] and locally created characters.
+
+=== KEY: Vijayanagara_Empire_57371a
+HEADWORD: Vijayanagara Empire = 비자야나가라 제국
+LEVEL: 4
+GLOSSARY:
+  Andhra Pradesh = 안드라프라데시주
+  Battle of Talikota = 탈리코타 전투
+  Bukka Raya I = 부카 라야 1세
+  Carnatic = 카르나타카 음악
+  Carnatic music = 카르나타카 음악
+  Deccan = 데칸
+  Deccan Sultanates = 데칸 술탄국들
+  Delhi = 델리
+  Delhi Sultanate = 델리 술탄국
+  Goa = 고아주
+  Hampi = 함피
+  Harihara I = 하리하라 1세
+  India = 인도
+  Kannada = 칸나다어
+  Karnataka = 카르나타카주
+  Krishnadevaraya = 크리슈나데바라야
+  Sangama dynasty = 상가마 왕조
+  Sanskrit = 산스크리트어
+  Tamil = 타밀어
+  Tamil Nadu = 타밀나두주
+  Telugu = 텔루구어
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  Vijayanagara = 비자야나가르
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Late medieval Hindu empire of southern India (1336–1646). It rose after the [[Delhi Sultanate]]'s incursions into the Deccan disrupted the region, and was founded in 1336 by the brothers Harihara I and Bukka Raya I of the Sangama dynasty. Under [[Krishnadevaraya]] (r. 1509–1529) it held primacy across the peninsula, and at its greatest extent it included much of present-day [[Karnataka]], [[Andhra Pradesh]], [[Tamil Nadu]] and [[Goa]]. Its capital, Vijayanagara near modern Hampi, gave the empire its name, and its ruins are a [[World Heritage Site|UNESCO World Heritage Site]]. Central authority declined after its defeat by allied Deccan Sultanates at the Battle of Talikota in 1565, and the empire survived until 1646. Courts patronized literature in Kannada, Telugu, Tamil and Sanskrit, and [[Carnatic music]] developed its classical framework during this era.
+
+=== KEY: Viking_Age_e82007
+HEADWORD: Viking Age = 바이킹 시대
+LEVEL: 3
+GLOSSARY:
+  Battle of Stamford Bridge = 스탬퍼드 브리지 전투
+  Bridge = 다리
+  British Isles = 브리튼 제도
+  Cnut = 크누트
+  Denmark = 덴마크
+  Dnieper = 드니프로강
+  Dublin = 더블린
+  Faroe Islands = 페로 제도
+  Greenland = 그린란드
+  Harald Hardrada = 하랄 하르드라다
+  Hardrada = 하르드라다
+  Iceland = 아이슬란드
+  Icelandic = 아이슬란드어
+  Ireland = 아일랜드
+  Kievan Rus' = 키예프 루스
+  Knowledge = 지식
+  Lindisfarne = 린디스판
+  Middle Ages = 중세
+  Newfoundland = 뉴펀들랜드
+  Normandy = 노르망디
+  Norse = 노르드인
+  Norsemen = 노르드인
+  North America = 북아메리카
+  North Sea = 북해
+  North Sea Empire = 북해 제국
+  Northumberland = 노섬벌랜드
+  Norway = 노르웨이
+  Norwegian = 노르웨이어
+  Rus' = 루스
+  Saga = 사가
+  Scandinavia = 스칸디나비아
+  Stamford = 스탬퍼드
+  Stamford Bridge = 스탬퍼드 브리지
+  Sweden = 스웨덴
+  Vikings = 바이킹
+  Volga = 볼가강
+  York = 요크
+ENTRY:
+Period of the [[Middle Ages]], about 800–1050, of large-scale raiding, colonizing, conquest, and trading by Norsemen, known as [[Vikings]]. Traditional accounts place the beginning at the attack of June 8, 793, that destroyed the abbey on Lindisfarne, off Northumberland, and the end at the defeat of the Norwegian king Harald Hardrada at the [[Battle of Stamford Bridge]] in 1066.
+
+Voyaging from Denmark, Norway, and Sweden, the Norse settled in the British Isles, Ireland, the Faroe Islands, [[Iceland]], Greenland, [[Normandy]], and along the Dnieper and Volga trade routes. They briefly settled in Newfoundland, becoming the first Europeans to reach North America; the voyage is dated to 1021. They founded kingdoms and earldoms including York, Dublin, and [[Kievan Rus']]. In the 11th century the Norse homelands were unified into larger kingdoms, and the short-lived North Sea Empire of [[Cnut]] included large parts of Scandinavia and Britain.
+
+Proposed causes of expansion include wealthy towns and monasteries overseas, weak kingdoms, overpopulation, lack of good farmland, political strife arising from the unification of Norway, and innovations in sailing.
+
+Knowledge comes largely from texts written by those the Vikings encountered, from archaeology, and from the Icelandic [[Saga|sagas]]. Regarded as barbaric by the late 18th century, the age was reassessed by scholars outside Scandinavia from the 1890s, who recognized the Vikings' artistry, technological skills, and seamanship.

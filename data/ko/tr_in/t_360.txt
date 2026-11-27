@@ -1,0 +1,972 @@
+=== KEY: Volt_e991c9
+HEADWORD: Volt = 볼트
+LEVEL: 4
+GLOSSARY:
+  Alessandro Volta = 알레산드로 볼타
+  Ampere = 암페어
+  Coulomb = 쿨롬
+  International System of Units = 국제단위계
+  Josephson constant = 조지프슨 상수
+  Josephson effect = 조지프슨 효과
+  Joule = 줄
+  SI = 국제단위계
+  SI base units = SI 기본 단위
+  SI derived unit = SI 유도 단위
+  Volta = 볼타강
+  Watt = 와트
+  alkaline cell = 알칼리 전지
+  base units = 기본 단위
+  electric potential = 전위
+  electromotive force = 기전력
+  lithium coin cell = 리튬 코인 전지
+  potential difference = 전위차
+ENTRY:
+[[International System of Units|SI]] derived unit of electric potential, potential difference (voltage) and electromotive force, symbol V. It is named for [[Alessandro Volta]]. One volt is the potential difference between two points of a conducting wire when a current of one [[Ampere]] dissipates one [[Watt]] of power. Equivalently, it is one [[Joule]] of energy per [[Coulomb]] of charge, and in SI base units it equals kg·m²·s⁻³·A⁻¹. From 1990 to 2019 the volt was realized through the Josephson effect using a conventional constant, and since the 2019 revision of the SI the Josephson constant has had an exact value. Nominal voltages include about 1.5 V for an alkaline cell and 3 V for a lithium coin cell.
+
+=== KEY: Voltage_4a92fb
+HEADWORD: Voltage = 전압
+LEVEL: 4
+GLOSSARY:
+  Capacitor = 축전기
+  Electric charge = 전하
+  Electric current = 전류
+  Electric field = 전기장
+  Electromotive force = 기전력
+  Europe = 유럽
+  Household = 가구
+  North America = 북아메리카
+  Volt = 볼트
+  electric field = 전기장
+  electric potential = 전위
+  electromagnetic induction = 전자기 유도
+  potential difference = 전위차
+  test charge = 시험 전하
+  voltmeter = 전압계
+ENTRY:
+Difference in electric potential between two points, measured in [[Volt|volts]] (V). Also called potential difference or electric tension, voltage is the work needed per unit of charge to move a positive test charge from one point to another in a static [[Electric field|electric field]]. It can arise from a build-up of [[Electric charge]], as in a [[Capacitor]], or from an [[Electromotive force]], as in electromagnetic induction in a generator. Electrochemical cells and batteries also produce voltage. A voltmeter measures the voltage between two points, often using a common reference such as the ground of a system. Conventional [[Electric current|current]] in a wire flows from higher voltage to lower voltage. Household wiring is typically 120 V in North America and 230 V in Europe, and high-voltage transmission lines can reach up to 1,100,000 V.
+
+=== KEY: Voltaire_84f2b1
+HEADWORD: Voltaire = 볼테르
+LEVEL: 4
+GLOSSARY:
+  Candide = 『캉디드』
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Church = 처치
+  England = 잉글랜드
+  Enlightenment = 계몽주의
+  François-Marie Arouet = 프랑수아마리 아루에
+  Freedom of religion = 종교의 자유
+  Freedom of speech = 표현의 자유
+  French = 프랑스어
+  Gottfried Leibniz = 고트프리트 라이프니츠
+  Jean Calas = 장 칼라스
+  Leibniz = 라이프니츠
+  Paris = 파리
+  Satire = 풍자
+  Voltaire = 볼테르
+  advocate = 법정 변호사
+  separation of church and state = 정교분리
+ENTRY:
+French Enlightenment writer, philosopher and satirist. Born François-Marie Arouet in Paris, he adopted the pen name Voltaire. He wrote in almost every literary form, including plays, poems, novels, essays and histories, and produced more than 20,000 letters and 2,000 books and pamphlets. An outspoken advocate of [[Freedom of speech|freedom of speech]], [[Freedom of religion|freedom of religion]] and the separation of church and state, he criticized the [[Catholic Church]] and slavery, and he was twice imprisoned and once briefly exiled to England. His novella *Candide* [[Satire|satirized]] the optimism of Gottfried Leibniz. He campaigned against the wrongful execution of Jean Calas in 1762, and he was among the first authors to become renowned and commercially successful internationally.
+
+=== KEY: Volume_bd7a97
+HEADWORD: Volume = 부피
+LEVEL: 3
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Archimedes = 아르키메데스
+  Assize of Bread and Ale = 빵과 맥주 법령
+  Bonaventura Cavalieri = 보나벤투라 카발리에리
+  Bread = 빵
+  Egypt = 이집트
+  Elements = 『원론』
+  England = 잉글랜드
+  Euclid's Elements = 『원론』
+  French = 프랑스어
+  Gallon = 갤런
+  Gottfried Wilhelm Leibniz = 고트프리트 빌헬름 라이프니츠
+  Henry III of England = 잉글랜드의 헨리 3세
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Leibniz = 라이프니츠
+  Litre = 리터
+  Mesopotamia = 메소포타미아
+  Middle Ages = 중세
+  Moscow = 모스크바
+  Moscow Mathematical Papyrus = 모스크바 수학 파피루스
+  Newton = 뉴턴
+  Papyrus = 파피루스
+  Pierre de Fermat = 피에르 드 페르마
+  SI = 국제단위계
+  U.S. customary units = 미국 단위계
+  Volume = 부피
+  Weights and Measures Act 1985 = 1985년 도량형법
+  Wilhelm = 빌헬름
+  bushel = 부셸
+  cubic inch = 세제곱인치
+  cubic meter = 세제곱미터
+  cuboids = 직육면체
+  frustums = 원뿔대
+  imperial = 야드파운드법
+  imperial gallon = 영국 갤런
+  integral calculus = 적분학
+  method of exhaustion = 실진법
+  metric system = 미터법
+  parallelepipeds = 평행육면체
+  quart = 쿼트
+ENTRY:
+Measure of the three-dimensional space occupied by a region or enclosed by a surface. Volume is quantified with SI derived units such as the cubic meter and the [[Litre|liter]], or with imperial and U.S. customary units such as the [[Gallon|gallon]], quart and cubic inch. The volume of a container is generally understood as its capacity, the amount of gas or liquid it could hold, rather than the space the container itself displaces. Simple shapes have volumes given by arithmetic formulas; more complicated shapes can be handled with integral calculus if a formula exists for their boundary.
+
+The earliest evidence of volume calculation comes from [[Ancient Egypt]] and [[Mesopotamia]], as problems approximating the volume of cuboids, cylinders, frustums and cones, preserved in the Moscow Mathematical Papyrus (c. 1820 BC). The last three books of [[Euclid's Elements|Euclid's *Elements*]] (c. 300 BC) gave exact formulas for parallelepipeds, cones, pyramids, cylinders and spheres. [[Archimedes]] devised approximate formulas for several shapes by the method of exhaustion.
+
+The many volume units of the Middle Ages led [[Henry III of England]] to standardize them in the Assize of Bread and Ale (1258), which introduced the gallon and bushel. In the early 17th century Bonaventura Cavalieri applied the ideas of integral calculus to the volume of any object; Pierre de Fermat, [[Isaac Newton]], Gottfried Wilhelm Leibniz and others extended this in the 17th and 18th centuries into modern calculus.
+
+On April 7, 1795, French law defined the metric system, including the liter (1 dm³) for liquids. In 1824 the imperial gallon was defined as the volume of ten pounds of water at 17 °C; the Weights and Measures Act 1985 fixed it at precisely 4.54609 liters.
+
+=== KEY: Voluntary_association_d1c864
+HEADWORD: Voluntary association = 자발적 결사체
+LEVEL: 4
+GLOSSARY:
+  Ancient Greece = 고대 그리스
+  Europe = 유럽
+  Greece = 그리스
+  Guild = 길드
+  Trade union = 노동조합
+  Western Europe = 서유럽
+  learned societies = 학회
+  occupational closure = 직업적 폐쇄
+  trade associations = 동업자 단체
+ENTRY:
+Group of individuals who agree to form a body, usually as volunteers, to pursue a common purpose. Also called a voluntary organization or common-interest association, it includes trade associations, [[Trade union|trade unions]], learned societies, professional associations, service organizations and environmental groups. Members may join or leave freely, although occupational closure can make membership effectively required in some fields. Associations may be incorporated or unincorporated; in many jurisdictions only a registered association is a legal entity whose members are not responsible for its financial acts. Some states require registration, which can serve as a tool of political control, and in many countries independent associations are effectively prohibited or persecuted. Voluntary groups existed in [[Ancient Greece]], from elite clubs of wealthy men to religious and professional associations, and in preindustrial Western Europe [[Guild|guilds]] often administered towns.
+
+=== KEY: Vostok_1_f57a18
+HEADWORD: Vostok 1 = 보스토크 1호
+LEVEL: 4
+GLOSSARY:
+  Baikonur = 바이코누르
+  Baikonur Cosmodrome = 바이코누르 우주 기지
+  Earth = 지구
+  Soviet Union = 소련
+  Space = 공간
+  Space Race = 우주 경쟁
+  Spaceflight = 우주 비행
+  United States = 미국
+  Vostok 3KA = 보스토크 3KA
+  Vostok programme = 보스토크 계획
+  Yuri Gagarin = 유리 가가린
+  cosmonaut = 우주 비행사
+ENTRY:
+Spaceflight of the [[Vostok programme]] and the first human orbital flight in history. Launched from Baikonur Cosmodrome on April 12, 1961, the Vostok 3KA capsule carried Soviet cosmonaut [[Yuri Gagarin]] through a single orbit, making him the first human to reach orbital velocity and complete a full orbit of the Earth. The orbit reached a maximum altitude of 327 km (203 miles) and a minimum of 181 km (112 miles), and the flight lasted 108 minutes from launch to landing. Gagarin ejected at 7 km (23,000 ft) and parachuted to the ground separately from the capsule. The flight was part of the [[Space Race]] between the [[Soviet Union]] and the United States.
+
+=== KEY: Vostok_programme_ade3e3
+HEADWORD: Vostok program = 보스토크 계획
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Intercontinental ballistic missile = 대륙간 탄도 미사일
+  Low Earth orbit = 지구 저궤도
+  Project Mercury = 머큐리 계획
+  R-7 Semyorka = R-7 세묘르카
+  Voskhod = 보스호트
+  Vostok 1 = 보스토크 1호
+  Yuri Gagarin = 유리 가가린
+  Zenit = 제니트
+  ballistic missile = 탄도 미사일
+  human spaceflight = 유인 우주 비행
+  low Earth orbit = 지구 저궤도
+ENTRY:
+Soviet human spaceflight project that put the first cosmonauts into [[Low Earth orbit|low Earth orbit]] and returned them safely. Competing with the United States' Project Mercury, it carried out six crewed flights between 1961 and 1963. Its capsule was developed from the Zenit spy satellite, and its launch vehicle was adapted from the R-7 Semyorka [[Intercontinental ballistic missile|intercontinental ballistic missile]] design. The first flight, [[Vostok 1]], carried [[Yuri Gagarin]] into a single orbit on April 12, 1961. The longest flight lasted nearly five days, and the last four flights were launched in pairs, one day apart. The project was succeeded in 1964 and 1965 by two Voskhod flights, which used a larger launch rocket and modified capsules.
+
+=== KEY: Voting_b6fb89
+HEADWORD: Voting = 투표
+LEVEL: 4
+GLOSSARY:
+  Australia = 오스트레일리아
+  Election = 선거
+  Estonia = 에스토니아
+  Referendum = 국민 투표
+  Republic = 공화국
+  Voting = 투표
+  polling stations = 투표소
+  secret ballots = 비밀 투표
+  super-majority = 가중 다수결
+ENTRY:
+Process of making collective decisions by submitting and adding up individual choices. Voting is most often used to elect representatives, but it can also decide policy, usually by majority, sometimes by a super-majority, or through a [[Referendum|referendum]]. Ballots may be formal, with specific rules, or informal, using raised hands or voice votes. In [[Republic|republics]] and representative democracies, a portion of the population votes to choose government members, and [[Election|electoral]] systems determine how votes become winners. All modern liberal democracies use secret ballots to prevent pressure on voters and to reveal their actual preferences. Voting often occurs at polling stations, but it can also be done by mail or over the internet, as in Estonia. Voting is voluntary in some countries, such as the U.K., but required by law in others, such as Australia.
+
+=== KEY: Vowel_7e9352
+HEADWORD: Vowel = 모음
+LEVEL: 4
+GLOSSARY:
+  Alphabet = 알파벳
+  Consonant = 자음
+  International Phonetic Alphabet = 국제 음성 기호
+  Latin = 라틴어
+  Prosody (linguistics) = 운율
+  Syllable = 음절
+  Vowel = 모음
+  intonation = 억양
+  nucleus = 핵
+  stress = 강세
+  tone = 성조
+  vocal tract = 성도
+  vocalis = vocalis
+ENTRY:
+Speech sound pronounced with minimal or no obstruction in the vocal tract. Vowels are one of the two principal classes of speech sounds, the other being the [[Consonant|consonant]]. They are usually voiced, vary in quality, loudness and length, and are closely involved in [[Prosody (linguistics)|prosodic]] variation such as tone, intonation and stress. The nucleus of a [[Syllable|syllable]] is typically a vowel, though some languages allow other sounds, such as syllabic l in the English word table, to form the nucleus. The word derives from Latin *vocalis*, meaning 'vocal'. Phonetically, a vowel is produced with an open vocal tract, whereas consonants involve a constriction or closure. Vowel quality is usually described by tongue height, tongue backness and lip rounding, a scheme shown on the [[International Phonetic Alphabet]] vowel diagram. In writing, the letters a, e, i, o, u and sometimes y represent vowel sounds.
+
+=== KEY: Voyager_1_2bf47e
+HEADWORD: Voyager 1 = 보이저 1호
+LEVEL: 5
+GLOSSARY:
+  AU = AU
+  Earth = 지구
+  Heliosphere = 태양권
+  Jupiter = 목성
+  NASA = 미국 항공 우주국
+  Saturn = 토성
+  Solar System = 태양계
+  Titan (moon) = 타이탄
+  Voyager = 보이저
+  Voyager 1 = 보이저 1호
+  heliopause = 태양권계면
+  interstellar space = 성간 공간
+ENTRY:
+NASA space probe launched on September 5, 1977, to study the outer Solar System and the interstellar space beyond the [[Heliosphere]]. Voyager 1 made flybys of [[Jupiter]], [[Saturn]] and Saturn's moon [[Titan (moon)|Titan]]. It crossed the heliopause on August 25, 2012, becoming the first human-made object to enter interstellar space. As of November 2026 it was 173.02 AU (25.9 billion km) from Earth, the most distant human-made object. Only two of its instruments remained operational in 2026, and its power may support engineering data until 2036.
+
+=== KEY: Voyager_2_d616e1
+HEADWORD: Voyager 2 = 보이저 2호
+LEVEL: 5
+GLOSSARY:
+  AU = AU
+  Canberra = 캔버라
+  DSS 43 = DSS 43
+  Goldstone = 골드스톤
+  Gravity assist = 중력 도움
+  Interstellar medium = 성간 물질
+  Jupiter = 목성
+  Madrid = 마드리드
+  NASA = 미국 항공 우주국
+  Neptune = 해왕성
+  Saturn = 토성
+  Uranus = 천왕성
+  interstellar medium = 성간 매질
+ENTRY:
+NASA space probe launched on August 20, 1977, and the only spacecraft to have visited Uranus or Neptune. Its primary mission took it past [[Jupiter]] in 1979, [[Saturn]] in 1981, [[Uranus]] in 1986 and [[Neptune]] in 1989, using [[Gravity assist|gravity assists]]. It entered the [[Interstellar medium|interstellar medium]] on November 5, 2018, at a distance of 119.7 AU from the Sun, becoming the second human-made object to do so. Because its southern trajectory is out of range of the Goldstone and Madrid antennas, it communicates through Australia's DSS 43 antenna at Canberra.
+
+=== KEY: Voyager_Golden_Record_a1664e
+HEADWORD: Voyager Golden Record = 보이저 골든 레코드
+LEVEL: 5
+GLOSSARY:
+  Beethoven = 베토벤
+  Carl Sagan = 칼 세이건
+  Chuck Berry = 척 베리
+  Cornell = 코넬
+  Cornell University = 코넬 대학교
+  Gliese 445 = 글리제 445
+  Light-year = 광년
+  NASA = 미국 항공 우주국
+  University = 대학
+  Voyager = 보이저
+  Voyager 1 = 보이저 1호
+  Voyager 2 = 보이저 2호
+ENTRY:
+Pair of identical phonograph records carried aboard [[Voyager 1]] and [[Voyager 2]] as a time capsule for any extraterrestrial intelligence that might find them. A committee chaired by [[Carl Sagan]] of [[Cornell University]] selected the contents for NASA. They include natural sounds such as surf, wind, thunder and whale songs, greetings in 55 languages, and music ranging from Beethoven to [[Chuck Berry]]. Voyager 1 is expected to pass within 1.6 [[Light-year|light-years]] of the star Gliese 445 in about 40,000 years.
+
+=== KEY: Voyager_program_5c2c0b
+HEADWORD: Voyager program = 보이저 계획
+LEVEL: 4
+GLOSSARY:
+  Grand Tour = 그랜드 투어
+  Jupiter = 목성
+  NASA = 미국 항공 우주국
+  Neptune = 해왕성
+  New Horizons = 뉴허라이즌스호
+  Saturn = 토성
+  Solar System = 태양계
+  Space = 공간
+  Space Shuttle = 우주 왕복선
+  Titan (moon) = 타이탄
+  Uranus = 천왕성
+  Voyager = 보이저
+  Voyager 1 = 보이저 1호
+  Voyager 2 = 보이저 2호
+  hydrogen wall = 수소 벽
+  ice giants = 거대 얼음 행성
+  interstellar space = 성간 공간
+ENTRY:
+American scientific program that employs two interstellar probes, [[Voyager 1]] and [[Voyager 2]]. Launched in 1977 to take advantage of a favorable planetary alignment, the probes were to explore Jupiter and Saturn and possibly Uranus and Neptune. The original Grand Tour concept was canceled in December 1971 when funding shifted to the Space Shuttle program, and the scaled-down mission was later renamed Voyager. After Voyager 1 flew past Saturn and [[Titan (moon)|Titan]], Voyager 2 continued on to [[Uranus]] and [[Neptune]], the only spacecraft to visit the ice giants. Voyager 1 entered interstellar space in 2012 and Voyager 2 in 2018. In August 2018 NASA confirmed, based on results from [[New Horizons]], a hydrogen wall at the edge of the Solar System that the two probes had first detected in 1992. Both spacecraft remained in operation in 2026, although many instruments had been powered down to conserve energy.
+
+=== KEY: Voyages_of_Christopher_Columbus_bd9480
+HEADWORD: Voyages of Christopher Columbus = 크리스토퍼 콜럼버스의 항해
+LEVEL: 5
+GLOSSARY:
+  Americas = 아메리카
+  Aragon = 아라곤
+  Asia = 아시아
+  Bahamas = 바하마
+  Castile = 카스티야
+  Catholic = 가톨릭
+  Catholic Monarchs = 가톨릭 공동 왕
+  Central America = 중앙아메리카
+  Christopher Columbus = 크리스토퍼 콜럼버스
+  Columbian exchange = 콜럼버스 교환
+  Columbus = 콜럼버스
+  Cuba = 쿠바
+  Ferdinand = 페르디난트
+  Ferdinand II of Aragon = 페르난도 2세
+  Genoese = 제노바
+  Hispaniola = 히스파니올라섬
+  Indigenous = 원주민
+  Indigenous peoples = 원주민
+  Isabella = 이저벨라
+  Isabella I = 이사벨 1세
+  Isabella I of Castile = 이사벨 1세
+  Spain = 스페인
+ENTRY:
+Four transatlantic expeditions to the Americas led by the Genoese navigator [[Christopher Columbus]] between 1492 and 1504 for the Catholic Monarchs, [[Ferdinand II of Aragon]] and [[Isabella I of Castile]]. Columbus sought a westward sea route to Asia for spices and gold, but instead reached the Bahamas, Cuba and Hispaniola, and later the mainland of South and Central America. The first voyage left Spain on August 3, 1492, and reached the Bahamas on October 12. The [[Columbian exchange]] of crops, animals and diseases that followed caused severe population declines among Indigenous peoples.
+
+=== KEY: Voynich_manuscript_8815d2
+HEADWORD: Voynich manuscript = 보이니치 필사본
+LEVEL: 5
+GLOSSARY:
+  Carbon = 탄소
+  Codex = 코덱스
+  Cryptography = 암호학
+  Germany = 독일
+  Italy = 이탈리아
+  Switzerland = 스위스
+  University = 대학
+  Voynichese = 보이니치어
+  Wilfrid Voynich = 빌프리트 보이니치
+  Yale University = 예일 대학교
+ENTRY:
+[[Codex|Illustrated codex]] from the early 15th century, written in an undeciphered script known as Voynichese. Carbon dating and stylistic analysis suggest it was composed between 1404 and 1438, probably in what is now southern Germany, Switzerland or northern Italy. Its roughly 240 pages contain drawings of unidentified plants, astrological symbols and people. Polish book dealer Wilfrid Voynich bought it in 1912, and [[Yale University]] has held it since 1969. Despite efforts by [[Cryptography|cryptographers]], it has never been deciphered. Hypotheses range from a natural or constructed language to a hoax or a work of fiction.
+
+=== KEY: Vulgate_30fad5
+HEADWORD: Vulgate = 불가타 성경
+LEVEL: 4
+GLOSSARY:
+  Bible = 성경
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Church = 처치
+  Clementine edition = 클레멘스판
+  Council of Trent = 트리엔트 공의회
+  Gospels = 복음서
+  Hebrew = 히브리어
+  Hebrew Bible = 히브리어 성경
+  Jerome = 히에로니무스
+  Latin = 라틴어
+  Latina = 라틴계
+  Nova Vulgata = 노바 불가타
+  Pope = 교황
+  Pope Damasus I = 교황 다마소 1세
+  Roman Rite = 로마 전례
+  Vetus Latina = 베투스 라티나
+  versio vulgata = versio vulgata
+ENTRY:
+[[Latin|Latin]] translation of the [[Bible]] from the late 4th century, largely the work of [[Jerome]]. Pope Damasus I commissioned Jerome in 382 to revise the Vetus Latina Gospels, and he extended the work to most of the books of the Bible, translating much of the [[Hebrew Bible]] directly from Hebrew. By the 13th century the text was known as *versio vulgata*, meaning the version commonly used, from which its name derives. It was affirmed as the official Latin Bible of the [[Catholic Church]] at the Council of Trent (1545–1563). The Clementine edition of 1592 became the standard text of the Roman Rite until the Nova Vulgata was promulgated in 1979. The compound text also includes older Vetus Latina translations that Jerome did not revise.
+
+=== KEY: Vulkan_386252
+HEADWORD: Vulkan = 벌칸
+LEVEL: 5
+GLOSSARY:
+  AMD = AMD
+  Android = 안드로이드
+  Engine = 기관
+  GDC = GDC
+  GPU = GPU
+  Graphics processing unit = 그래픽 처리 장치
+  Khronos Group = 크로노스 그룹
+  Linux = 리눅스
+  Mantle = 맨틀
+  Nintendo = 닌텐도
+  Nintendo Switch = 닌텐도 스위치
+  OpenGL = OpenGL
+  Unity = 유니티
+  Unreal Engine = 언리얼 엔진
+  Windows = 윈도우
+  parallel computing = 병렬 컴퓨팅
+ENTRY:
+Low-level, cross-platform API and open standard for 3D graphics and parallel computing. Announced by the Khronos Group at GDC 2015, it was built on components of [[AMD]]'s Mantle API and was intended to address the shortcomings of OpenGL. Vulkan gives developers more direct control over the [[Graphics processing unit|GPU]], with lower CPU overhead and better scaling across multiple CPU cores. It runs on [[Linux]], Windows, Android and the [[Nintendo Switch]], and it is used in major game engines such as Unreal Engine and Unity.
+
+=== KEY: Vulture_d19094
+HEADWORD: Vulture = 독수리
+LEVEL: 5
+GLOSSARY:
+  Accipitridae = 수리과
+  Americas = 아메리카
+  Asia = 아시아
+  Bird = 조류
+  Bird of prey = 맹금류
+  Cathartidae = 콘도르과
+  Eagle = 수리
+  Europe = 유럽
+  New World = 신대륙
+  New World vultures = 신대륙독수리
+  Old World = 구세계
+  Old World vultures = 구대륙독수리
+  Thermoregulation = 체온 조절
+  World = 세계
+  carrion = 썩은 고기
+  condors = 콘도르
+  convergent evolution = 수렴 진화
+ENTRY:
+Bird of prey that feeds mainly on carrion, found in both the Old World and the New World. Of 23 living species, including condors, 16 are Old World vultures in Africa, Asia and Europe, and seven are New World vultures native to the Americas. Many have bald, unfeathered heads, thought to keep the head clean while feeding and to aid [[Thermoregulation|thermoregulation]]. Old World vultures belong to the family Accipitridae with [[Eagle|eagles]], while New World vultures form their own family, Cathartidae. The similarities between the two groups are the result of convergent evolution. A flock in flight is called a kettle.
+
+=== KEY: Vulva_82d097
+HEADWORD: Vulva = 외음부
+LEVEL: 5
+GLOSSARY:
+  Bartholin's = 바르톨린샘
+  Blood = 혈액
+  Clitoris = 음핵
+  Labia = 음순
+  Sexual arousal = 성적 흥분
+  Skene's glands = 스킨샘
+  labia majora = 대음순
+  labia minora = 소음순
+  pudenda = pudenda
+ENTRY:
+External structures of the female genitalia in mammals, leading into the reproductive tract. In humans the vulva includes the [[Labia|labia majora and labia minora]], the [[Clitoris]], the vaginal opening and the openings of the Bartholin's and Skene's glands. Blood and nerve supply to the vulva contribute to the stages of [[Sexual arousal|sexual arousal]]. Its appearance varies widely, particularly in the labia minora, and it can be affected by infections, irritation and cancers. Some ancient religions revered the vulva, but Western attitudes have often been negative, reflected in the Latinate term pudenda, meaning parts to be ashamed of.
+
+=== KEY: Vyacheslav_Molotov_86f96c
+HEADWORD: Molotov, Vyacheslav = 몰로토프, 뱌체슬라프
+LEVEL: 5
+GLOSSARY:
+  Baltic states = 발트 3국
+  Council of People's Commissars = 인민 위원 평의회
+  Germany = 독일
+  Great Purge = 대숙청
+  Joseph Stalin = 이오시프 스탈린
+  Molotov cocktail = 화염병
+  Molotov–Ribbentrop Pact = 독소 불가침 조약
+  Nazi = 나치
+  Nazi Germany = 나치 독일
+  Nikita Khrushchev = 니키타 흐루쇼프
+  Poland = 폴란드
+  Stalin = 스탈린
+  collectivization = 집단화
+  de-Stalinization = 탈스탈린화
+ENTRY:
+Soviet politician and diplomat, a close associate of [[Joseph Stalin]]. Molotov chaired the Council of People's Commissars from 1930 to 1941 and served as foreign minister from 1939 to 1949 and again from 1953 to 1956. He signed the [[Molotov–Ribbentrop Pact]] with [[Nazi Germany]] in 1939, which led to the joint occupation of Poland and the annexation of the [[Baltic states]]. He oversaw agricultural collectivization and the [[Great Purge]]. He opposed [[Nikita Khrushchev]]'s de-Stalinization and joined a failed coup against him in 1957. The [[Molotov cocktail]] was named for him.
+
+=== KEY: Vyasa_2021d3
+HEADWORD: Vyasa = 비야사
+LEVEL: 4
+GLOSSARY:
+  Atharvaveda = 아타르바베다
+  Brahma = 브라흐마
+  Brahma Sutras = 『브라마 수트라』
+  Chiranjivis = 치란지비
+  Hindus = 힌두교도
+  Kali = 칼리
+  Kali Yuga = 칼리 유가
+  Krishna = 크리슈나
+  Krishna Dvaipayana = 크리슈나 드바이파야나
+  Mahabharata = 『마하바라타』
+  Puranas = 『푸라나』
+  Rigveda = 리그베다
+  Samaveda = 사마베다
+  Veda = 베다
+  Veda Vyasa = 베다 비야사
+  Vedas = 베다
+  Vishnu = 비슈누
+  Vyasa = 비야사
+  Yajurveda = 야주르베다
+ENTRY:
+Sage in most Hindu traditions, also known as Veda Vyasa or Krishna Dvaipayana. He is traditionally credited with dividing the single Veda into four collections, the Rigveda, Samaveda, Yajurveda and Atharvaveda, which are known as the [[Vedas|Vedas]]. He is also regarded as the author of the epic *Mahabharata*, of eighteen *Puranas* and of the *Brahma Sutras*. Many Hindus regard him as a partial incarnation of [[Vishnu]] and one of the immortal Chiranjivis who remain alive in the [[Kali Yuga]]. Scholars regard him as a composite figure representing the work of several redactors over centuries rather than a single historical person.
+
+=== KEY: Vytautas_the_Great_007da7
+HEADWORD: Vytautas the Great = 비타우타스 대공
+LEVEL: 4
+GLOSSARY:
+  Castle = 성
+  Grand Duke = 대공
+  Grand Duke of Lithuania = 리투아니아 대공
+  Hussites = 후스파
+  Jogaila = 요가일라
+  King of the Hussites = 후스파의 왕
+  Kreva Castle = 크레바성
+  Kęstutis = 케스투티스
+  Lithuania = 리투아니아
+  Magnus = 마그누스
+  Teutonic Order = 튜턴 기사단
+  Trakai = 트라카이
+  University = 대학
+  Vilnius = 빌뉴스
+  Vytautas Magnus University = 비타우타스 대공 대학교
+  Władysław II Jagiełło = 브와디스와프 2세 야기에우워
+ENTRY:
+Grand Duke of Lithuania (1401–1430), who first ruled as regent for his cousin [[Władysław II Jagiełło|Jogaila]] (1392–1401). In 1381 Vytautas' father, Kęstutis, seized [[Vilnius]] and imprisoned Jogaila, but Kęstutis and Vytautas were then arrested and taken to Kreva Castle. Kęstutis was found dead a week later; whether he died of natural causes or was murdered is still debated. Vytautas escaped in 1382 and sought help from the [[Teutonic Order]], breaking with the Order and reconciling with Jogaila in 1384. He regained his father's lands except Trakai and claimed the titles King of the Hussites and King of Lithuania. In 1392 Jogaila offered him the regency, and Vytautas again broke with the Order. In modern Lithuania he is revered as a national hero, and Vytautas Magnus University was named for him in commemoration of the 500-year anniversary of his death.
+
+=== KEY: WWE_eb9330
+HEADWORD: WWE = WWE
+LEVEL: 5
+GLOSSARY:
+  Capitol = 국회 의사당
+  Capitol Wrestling Corporation = 캐피털 레슬링 코퍼레이션
+  Connecticut = 코네티컷주
+  Entertainment = 오락
+  Linda = 린다
+  Linda McMahon = 린다 맥마흔
+  Stamford = 스탬퍼드
+  TKO Group Holdings = TKO 그룹 홀딩스
+  Titan Sports = 타이탄 스포츠
+  Ultimate Fighting Championship = 얼티밋 파이팅 챔피언십
+  Vince McMahon = 빈스 맥마흔
+  World = 세계
+  World Wrestling Entertainment = 월드 레슬링 엔터테인먼트
+  World Wrestling Federation = 세계 레슬링 연맹
+  WrestleMania = 레슬매니아
+  Wrestling = 레슬링
+  Zuffa = 주파
+  sports entertainment = 스포츠 엔터테인먼트
+ENTRY:
+American professional wrestling and entertainment company based in Stamford, [[Connecticut]]. It traces its origins to the Capitol Wrestling Corporation, formed in 1953, which became the World Wrestling Federation in 1979 and World Wrestling Entertainment in 2002. Titan Sports, founded by [[Vince McMahon]] and Linda McMahon, acquired the company in 1982, and WrestleMania grew into the world's largest annual professional wrestling event. WWE markets its product as "sports entertainment." In 2023 WWE merged with Zuffa, parent of the [[Ultimate Fighting Championship]], to form TKO Group Holdings.
+
+=== KEY: W_B_Yeats_06588f
+HEADWORD: Yeats, W. B. = 예이츠, W. B.
+LEVEL: 4
+GLOSSARY:
+  Abbey Theatre = 애비 극장
+  Cathleen ni Houlihan = 「캐슬린 니 훌리헌」
+  Ezra Pound = 에즈라 파운드
+  Free State = 프리스테이트주
+  Irish = 아일랜드어
+  Irish Free State = 아일랜드 자유국
+  Irish Literary Revival = 아일랜드 문예 부흥
+  John = 존
+  John Keats = 존 키츠
+  John Millington Synge = 존 밀링턴 싱
+  Keats = 키츠
+  Lady Gregory = 그레고리 부인
+  Literature = 문학
+  Nobel Prize = 노벨상
+  Nobel Prize in Literature = 노벨 문학상
+  Occult = 오컬트
+  Revival = 「Revival」
+  The Land of Heart's Desire = 「마음이 원하는 나라」
+  The Tower = 『탑』
+  The Wild Swans at Coole = 『쿨호의 야생 백조』
+  Theatre = 연극
+  Tower = 탑
+  William = 윌리엄
+  William Blake = 윌리엄 블레이크
+  William Wordsworth = 윌리엄 워즈워스
+  Wordsworth = 워즈워스
+ENTRY:
+Irish poet, dramatist and literary critic, a leading figure in the Irish Literary Revival. With John Millington Synge and Lady Gregory he founded the Abbey Theatre, serving as its chief during its early years. His early verse drew on Irish legend and the [[Occult|occult]] and was influenced by [[John Keats]], [[William Wordsworth]] and [[William Blake]]; his first volume appeared in 1889. From 1900 his poetry became more rooted in the physical world, realistic and politicized, and he promoted younger poets such as [[Ezra Pound]]. Major works include *The Land of Heart's Desire* (1894), *Cathleen ni Houlihan* (1902), *The Wild Swans at Coole* (1919) and *The Tower* (1928). He received the 1923 Nobel Prize in Literature and served two terms as a senator of the Irish Free State.
+
+=== KEY: W_D_Hamilton_2c5847
+HEADWORD: Hamilton, W. D. = 해밀턴, W. D.
+LEVEL: 4
+GLOSSARY:
+  Cambridge = 케임브리지
+  Darwinian = 다윈주의자
+  Evolution = 진화
+  Hamilton's rule = 해밀턴의 법칙
+  Oxford = 옥스퍼드
+  Oxford University = 옥스퍼드 대학교
+  Research = 연구
+  Richard = 리처드
+  Richard Dawkins = 리처드 도킨스
+  Royal Society = 왕립 학회
+  Royal Society Research Professor = 왕립 학회 연구 교수
+  Society = 사회
+  The Genetical Evolution of Social Behaviour = 「사회적 행동의 유전적 진화」
+  University = 대학
+  University of Cambridge = 케임브리지 대학교
+  altruism = 이타성
+  coefficient of relationship = 근연 계수
+  gene-centered view of evolution = 유전자 중심적 진화관
+  genetic relatedness = 유전적 근연도
+  sex ratios = 성비
+  sociobiology = 사회생물학
+ENTRY:
+British evolutionary biologist. His theoretical work gave a rigorous genetic basis for altruism, an insight central to the gene-centered view of evolution, and he is considered a forerunner of sociobiology. His two 1964 papers, "The Genetical Evolution of Social Behaviour," introduced Hamilton's rule: a costly action should be performed when the benefit to the recipient, weighted by the genetic relatedness of actor and recipient, outweighs the cost to the actor. The key quantity in his calculations was Sewall Wright's coefficient of relationship. He also did important work on sex ratios and the evolution of sex. He studied at the [[University of Cambridge]] and from 1984 was a Royal Society Research Professor at Oxford University. [[Richard Dawkins]] has written that Hamilton was "the greatest Darwinian of my lifetime."
+
+=== KEY: W_E_B_Du_Bois_f7e219
+HEADWORD: Du Bois, W. E. B. = 듀보이스, W. E. B.
+LEVEL: 4
+GLOSSARY:
+  African American = 아프리카계 미국인
+  Atlanta University = 애틀랜타 대학교
+  Black = 검은색
+  Black Reconstruction in America = 『미국의 흑인 재건』
+  Bureau of Investigation = 수사국
+  Federal Bureau of Investigation = 연방 수사국
+  Frederick = 프리드리히
+  Frederick Douglass = 프레더릭 더글러스
+  Ghana = 가나
+  Harvard = 하버드
+  Harvard University = 하버드 대학교
+  Jim Crow = 짐 크로
+  Jim Crow laws = 짐 크로 법
+  NAACP = 전미 유색인 지위 향상 협회
+  Niagara = 「나이아가라」
+  Niagara Movement = 나이아가라 운동
+  Pan-Africanist = 범아프리카주의자
+  People = 『피플』
+  Reconstruction = 재건 시대
+  Reconstruction era = 재건 시대
+  The Crisis = 『크라이시스』
+  The Souls of Black Folk = 『흑인의 영혼』
+  University = 대학
+  World = 세계
+  World War II = 제2차 세계 대전
+  civil rights = 민권
+  color line = 인종 장벽
+  lynching = 린치
+  racial uplift = 인종 향상
+  talented tenth = 재능 있는 10분의 1
+ENTRY:
+American sociologist, historian and Pan-Africanist civil rights activist. The first African American to earn a doctorate at [[Harvard University]], he taught at Atlanta University and was a prolific author who protested lynching, Jim Crow laws and racial discrimination. He led the Niagara Movement, which demanded full civil rights, and argued that an educated "talented tenth" should lead racial uplift. He helped found the National Association for the Advancement of Colored People (NAACP) in 1909 and edited its journal *The Crisis*. *The Souls of Black Folk* is a seminal work of African American literature, and *Black Reconstruction in America* (1935) challenged the view that Black Americans were responsible for the failures of the Reconstruction era. He popularized the phrase "color line," borrowed from [[Frederick Douglass]]. After World War II he was targeted by the [[Federal Bureau of Investigation]]. He spent his last years in [[Ghana]].
+
+=== KEY: W_G_Grace_fceb25
+HEADWORD: Grace, W. G. = 그레이스, W. G.
+LEVEL: 4
+GLOSSARY:
+  Cricket = 크리켓
+  Curling = 컬링
+  England = 잉글랜드
+  Gloucestershire = 글로스터셔
+  Golf = 골프
+  Grace = 『그레이스』
+  MCC = MCC
+  Marylebone Cricket Club = 메릴본 크리켓 클럽
+  Test = 테스트 매치
+  Test matches = 테스트 매치
+  batsmanship = 타격술
+  first-class cricket = 일류 크리켓
+  lawn bowls = 론 볼
+  the Gentlemen = 젠틀먼
+ENTRY:
+English cricketer and medical practitioner, widely held to be one of the greatest players of [[Cricket|cricket]]. Known as "WG," he played first-class cricket for a record-equaling 44 seasons, from 1865 to 1908, mostly for Gloucestershire, the Gentlemen, and Marylebone Cricket Club (MCC). He is regarded as the originator of modern batsmanship and generally captained the teams he represented at all levels. He represented England in 22 Test matches from 1880 to 1899. In 1880 he and his brothers Edward and Fred were members of the same England team, the first time three brothers played together in a Test match. Grace nominally remained an amateur, but he was said to have made more money from cricket than any contemporary professional. He qualified as a doctor in 1879 and later took up [[Golf]], [[Curling]] and lawn bowls.
+
+=== KEY: W_adys_aw_II_Jagie_o_1c829e
+HEADWORD: Władysław II Jagiełło = 브와디스와프 2세 야기에우워
+LEVEL: 4
+GLOSSARY:
+  Battle of Grunwald = 그룬발트 전투
+  Catholicism = 가톨릭
+  Christianity = 기독교
+  Golden Age = 황금시대
+  Grand Duke = 대공
+  Grand Duke of Lithuania = 리투아니아 대공
+  Jadwiga of Poland = 폴란드의 야드비가
+  Jagiellonian dynasty = 야기에우워 왕조
+  Jogaila = 요가일라
+  King of Poland = 폴란드 국왕
+  Kraków = 크라쿠프
+  Ladislaus = 라디슬라우스
+  Lithuania = 리투아니아
+  Lithuanian = 리투아니아
+  Peace = 평화
+  Peace of Thorn = 토룬 조약
+  Poland = 폴란드
+  Teutonic Order = 튜턴 기사단
+  Thorn = 토룬
+  Union of Krewo = 크레보 연합
+  Vytautas the Great = 비타우타스 대공
+  the Union = 연방
+ENTRY:
+Grand Duke of Lithuania from 1377 and King of Poland (1386–1434), born Jogaila. He was the last pagan ruler of medieval Lithuania. Under the Union of Krewo (1385) he pledged to convert to Christianity and marry the child queen Jadwiga of Poland. He was baptized as Ladislaus (Władysław) in [[Kraków]] and crowned King of Poland, and in 1387 he converted Lithuania to Catholicism. His reign laid the foundation for the centuries-long Polish–Lithuanian union, and the Jagiellonian dynasty, which bears his name, ruled both states until 1572. In 1410 the allied Polish and Lithuanian forces, commanded alongside his cousin [[Vytautas the Great]], defeated the [[Teutonic Order]] at the Battle of Grunwald. The Peace of Thorn that followed secured the borders, and his reign extended Polish frontiers, often considered the beginning of Poland's Golden Age.
+
+=== KEY: W_and_Z_bosons_cb2b02
+HEADWORD: W and Z bosons = W 보손과 Z 보손
+LEVEL: 4
+GLOSSARY:
+  Beta decay = 베타 붕괴
+  CERN = 유럽 입자 물리 연구소
+  Neutrino = 중성미자
+  Photon = 광자
+  Standard = 스탠더드
+  Standard Model = 표준 모형
+  Vector bosons = 벡터 보손
+  Weak interaction = 약한 상호작용
+  antiparticles = 반입자
+  beta decay = 베타 붕괴
+  electron = 전자
+  elementary charge = 기본 전하
+  half-life = 반감기
+  neutron = 중성자
+  particle physics = 입자 물리학
+  proton = 양성자
+  spin = 스핀
+  weak interaction = 약한 상호작용
+ENTRY:
+Vector bosons that mediate the [[Weak interaction|weak interaction]]. The W+ and W− bosons carry an electric charge of +1 and −1 elementary charge and are each other's antiparticles, while the Z0 boson is electrically neutral and is its own antiparticle. All three have spin 1 and are very short-lived, with a half-life of about 3×10⁻²⁵ s. The W boson's mass is 80.3692±0.0133 GeV and the Z boson's is 91.1880±0.0020 GeV. Their high masses limit the range of the weak interaction, in contrast to the massless [[Photon|photon]]. The W bosons are best known for their role in [[Beta decay|beta decay]], in which a neutron is converted into a proton while emitting an electron. The Z boson transfers momentum, spin and energy when [[Neutrino|neutrinos]] scatter from matter, without changing electric charge. Their discovery at [[CERN]] in 1983 was pivotal in establishing the [[Standard Model]] of particle physics.
+
+=== KEY: Waco_siege_d19c7b
+HEADWORD: Waco siege = 웨이코 포위 사건
+LEVEL: 5
+GLOSSARY:
+  Branch = 브랜치
+  Branch Davidians = 다윗파
+  Bureau of Investigation = 수사국
+  CS gas = CS 가스
+  City = 도시
+  David Koresh = 데이비드 코레시
+  Federal Bureau of Investigation = 연방 수사국
+  Justice = 정의
+  Justice Department = 법무부
+  Oklahoma = 오클라호마주
+  Oklahoma City = 오클라호마시티
+  Oklahoma City bombing = 오클라호마시티 폭탄 테러
+  Texas = 텍사스주
+  Timothy McVeigh = 티머시 맥베이
+  Tobacco = 담배
+  Waco = 웨이코
+ENTRY:
+1993 U.S. law enforcement siege of the Branch Davidians, led by [[David Koresh]], near Waco, [[Texas]]. A Bureau of Alcohol, Tobacco, and Firearms raid on February 28 led to a gunfight killing four agents and six Davidians. The [[Federal Bureau of Investigation]] besieged the compound for 51 days. On April 19 a CS gas attack led to a fire that killed 76 Davidians, including 20–28 children and Koresh. Justice Department reports blamed the Davidians for the fire, but critics argue live rounds were fired. [[Timothy McVeigh]] cited the siege as a reason for the [[Oklahoma City bombing]] two years later.
+
+=== KEY: Wage_d562b9
+HEADWORD: Wage = 임금
+LEVEL: 4
+GLOSSARY:
+  Ancient Greece = 고대 그리스
+  Clock = 시계
+  Greece = 그리스
+  Hour = 시간
+  Macroeconomics = 거시경제학
+  Middle Kingdom = 중왕국
+  Price = 가격
+  Rome = 로마
+  Supply and demand = 수요와 공급
+  Wage = 임금
+  Wage labor = 임금 노동
+  ancient Greece = 고대 그리스
+  ancient Rome = 고대 로마
+  commission = 수수료
+  minimum wages = 최저 임금
+  prevailing wages = 현행 임금
+  regular = 해서
+  supply and demand = 수요와 공급
+ENTRY:
+Payment by an employer to an employee for labor. Wages, the [[Price|price]] of labor, are a business expense owed regardless of a company's profitability. They include minimum wages, prevailing wages, yearly bonuses and tip payouts. Wages contrast with salaried work, paid in fixed amounts at regular intervals regardless of hours worked, with commission, which depends on individual performance, and with compensation based on a company's overall performance. Wage labor exchanges money for time at work; the invention of [[Clock|clocks]] coincided with dividing working time, and the [[Hour|hour]] became the most common unit. Wages were paid in Egypt's Middle Kingdom, in [[Ancient Greece|ancient Greece]] and in ancient Rome. Wage rates are shaped by [[Supply and demand|supply and demand]], labor organization, legislation and tradition, and pay differences by sex and race persist in many countries. In [[Macroeconomics|macroeconomics]], the term sometimes covers all monetary employee compensation.
+
+=== KEY: Wagner_Group_97b019
+HEADWORD: Wagner Group = 바그너 그룹
+LEVEL: 5
+GLOSSARY:
+  Central African Republic = 중앙아프리카 공화국
+  Donbas = 돈바스
+  Libya = 리비아
+  Mali = 말리
+  Republic = 공화국
+  Rostov-on-Don = 로스토프나도누
+  Russian = 러시아어
+  Syria = 시리아
+  Ukraine = 우크라이나
+  Vladimir = 블라디미르
+  Vladimir Putin = 블라디미르 푸틴
+  Yevgeny Prigozhin = 예브게니 프리고진
+  private military company = 민간 군사 기업
+  war crimes = 전쟁 범죄
+ENTRY:
+Russian state-funded private military company, controlled until 2023 by Yevgeny Prigozhin, a former close ally of [[Vladimir Putin]]. It helped Russian separatists in [[Donbas]] from 2014 to 2015 and later recruited Russian prison inmates for frontline combat in Ukraine, growing from 1,000 to between 20,000 and 50,000 fighters by the end of 2022. The group also supported regimes in Syria, Libya, the [[Central African Republic]] and [[Mali]], and it has been accused of war crimes against civilians. On June 23, 2023, Prigozhin led an armed rebellion that seized [[Rostov-on-Don]] before halting the next day.
+
+=== KEY: Waiting_for_Godot_5d91c7
+HEADWORD: Waiting for Godot = 고도를 기다리며
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Camus = 알베르 카뮈
+  Americas = 아메리카
+  Caspar David Friedrich = 카스파어 다비트 프리드리히
+  En attendant Godot = 『고도를 기다리며』
+  Estragon = 에스트라공
+  Europe = 유럽
+  French = 프랑스어
+  Godot = 고도
+  Irish = 아일랜드어
+  Lucky = 럭키
+  Martin Esslin = 마틴 에슬린
+  Moon = 달
+  National Theatre = 국립 극장
+  Paris = 파리
+  Pozzo = 포조
+  Roger Blin = 로제 블랭
+  Royal National Theatre = 영국 국립 극장
+  Samuel Beckett = 새뮤얼 베케트
+  Theatre = 연극
+  Theatre of the Absurd = 부조리극
+  Théâtre de Babylone = 바빌론 극장
+  Tragicomedy = 희비극
+  Two Men Contemplating the Moon = 「달을 바라보는 두 남자」
+  Vladimir = 블라디미르
+ENTRY:
+Tragicomedy in two acts by Irish playwright [[Samuel Beckett]]. Written in French as *En attendant Godot* in 1948–1949, the play was first performed in January 1953 at the Théâtre de Babylone in Paris, directed by Roger Blin. Two tramps, Vladimir and Estragon, wait beside a leafless tree for Godot, who never arrives. They encounter Pozzo, his servant Lucky and a boy who brings word that Godot will come "tomorrow," and their repetitive routines suggest the cyclical nature of their lives. Beckett cited [[Caspar David Friedrich]]'s 1819 painting *Two Men Contemplating the Moon* as a major inspiration. Critic Martin Esslin linked the play to the Theatre of the Absurd, a term first proposed by [[Albert Camus]]. A 1998 poll by London's Royal National Theatre named it "the most significant English-language play of the 20th century," and it has been adapted across most of [[Europe]] and the [[Americas]].
+
+=== KEY: Wake_Island_89a94c
+HEADWORD: Wake Island = 웨이크섬
+LEVEL: 5
+GLOSSARY:
+  Air Force = 항공 및 반항공군
+  Boeing = 보잉
+  Boeing 747 = 보잉 747
+  Coral = 산호
+  Force = 힘
+  Japan = 일본
+  Micronesia = 미크로네시아
+  Ocean = 대양
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  Pan Am = 팬 아메리칸 항공
+  Pan American Airways = 팬 아메리칸 항공
+  U.S. Air Force = 미국 공군
+  United States = 미국
+  flying boats = 비행정
+  unincorporated territory = 비편입 영토
+ENTRY:
+Coral atoll in the [[Micronesia]] subregion of the [[Pacific Ocean]], a U.S. unincorporated territory. The United States claimed it in 1899, and [[Pan Am|Pan American Airways]] built an airfield and hotel there in 1935, making it a stopover for trans-Pacific flying boats. Japan occupied it from December 1941 until September 1945. Pan American Airways stopped using the island in 1972, after switching to [[Boeing 747]] aircraft that could cross the ocean without stopping, and the U.S. Air Force took over its administration. About 300 people, mostly military personnel and contractors, are on the island at any given time.
+
+=== KEY: Wales_e612e5
+HEADWORD: Wales = 웨일스
+LEVEL: 4
+GLOSSARY:
+  Britons = 브리튼인
+  Cardiff = 카디프
+  Celtic Britons = 켈트계 브리튼인
+  Coal = 석탄
+  Edward I = 에드워드 1세
+  England = 잉글랜드
+  Great Britain = 그레이트브리튼섬
+  Gruffudd ap Llywelyn = 그리피드 압 엘리웰린
+  Industrial Revolution = 산업 혁명
+  Laws in Wales Acts = 웨일스 법
+  Owain Glyndŵr = 오와인 글린두르
+  Roman withdrawal = 로마군 철수
+  Snowdon = 스노든산
+  South Wales = 사우스웨일스
+  United Kingdom = 영국
+  Wales = 웨일스
+  Welsh language = 웨일스어
+ENTRY:
+Country that is part of the [[United Kingdom]], occupying the western portion of the island of [[Great Britain]]. Its population was 3.1 million in 2021, and its capital and largest city is [[Cardiff]]. Largely mountainous, Wales has its highest peaks in the north and center, including Snowdon, its highest summit. A distinct Welsh culture emerged among the Celtic Britons after the Roman withdrawal, and Wales was briefly united under Gruffudd ap Llywelyn in 1055. After over 200 years of war, King [[Edward I]] of England completed the conquest, and Owain Glyndŵr led a revolt in the early 15th century. Under the Laws in Wales Acts of 1535 and 1542, Wales was annexed by England and incorporated into its legal system. Coal and metal industries transformed the country during the [[Industrial Revolution]], and two-thirds of the population live in South Wales. [[Welsh language|Welsh]] and English are official languages; 538,300 people speak Welsh.
+
+=== KEY: Walker_circulation_801606
+HEADWORD: Walker circulation = 워커 순환
+LEVEL: 4
+GLOSSARY:
+  Atmospheric circulation = 대기 순환
+  El Niño = 엘니뇨
+  Famine = 기근
+  Gilbert = 길버트 제도
+  Gilbert Walker = 길버트 워커
+  Indian Ocean = 인도양
+  Indonesia = 인도네시아
+  Jacob Bjerknes = 야코브 비에르크네스
+  La Niña = 라니냐
+  Monsoon = 계절풍
+  Ocean = 대양
+  Oscillation = 진동
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  Southern Oscillation = 남방 진동
+  Walker cell = 워커 순환 세포
+  easterly winds = 동풍
+  equatorial cold tongue = 적도 냉설
+  low-pressure system = 저기압
+  point of view = 시점
+  pressure gradient = 기압 경도
+  zonal = 동서 방향
+ENTRY:
+Conceptual model of air flow in the tropical lower [[Atmospheric circulation|atmosphere]], also called the Walker cell. In this model air parcels follow a closed circulation in the zonal and vertical directions, driven by differences in heat distribution between ocean and land. It is associated with a pressure gradient between a high-pressure system over the eastern [[Pacific Ocean|Pacific]] and a low-pressure system over Indonesia. From an oceanographic point of view, the equatorial cold tongue is caused by easterly winds. As originally proposed, the circulation weakens during El Niño events, when the temperature gradient across the Pacific and the easterlies are reduced, and strengthens during La Niña events. The name honors Gilbert Walker, who discovered the Southern Oscillation in the early 20th century while studying the Indian Ocean [[Monsoon|monsoon]], whose failed rains had caused severe [[Famine|famine]] in 1899. Norwegian-American meteorologist Jacob Bjerknes first used the term in 1969.
+
+=== KEY: Walking_db6ea7
+HEADWORD: Walking = 걷기
+LEVEL: 4
+GLOSSARY:
+  Hiking = 하이킹
+  Ireland = 아일랜드
+  Republic = 공화국
+  Republic of Ireland = 아일랜드 공화국
+  Running = 달리기
+  United Kingdom = 영국
+  Walking = 걷기
+  arthropods = 절지동물
+  gait = 보행 방식
+  inverted pendulum = 역진자
+  racewalkers = 경보 선수
+  terrestrial locomotion = 육상 이동
+ENTRY:
+Main gait of terrestrial locomotion among legged animals, typically slower than [[Running|running]]. Walking is defined as an "inverted pendulum" gait in which the body vaults over stiff limbs with each step, a pattern shared by arthropods with six, eight or more limbs. In humans, walking differs from running in that only one foot at a time leaves the ground, with a period of double support, while running begins when both feet leave the ground. The average human walking speed at crosswalks is about 5.0 km/h (3.1 mph), and champion racewalkers can average more than 14 km/h over 20 km. An average child walks independently at around 11 months old. Limited research suggests walking may be associated with reduced risk of disease and premature death. In the United Kingdom and Republic of Ireland, "walking" is also synonymous with [[Hiking|hiking]].
+
+=== KEY: Wall_94e8a4
+HEADWORD: Wall = 벽
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  Defensive wall = 성벽
+  Electrical wiring = 전기 배선
+  Foundation (engineering) = 기초
+  Great Wall = 만리장성
+  Great Wall of China = 만리장성
+  Hadrian's Wall = 하드리아누스 방벽
+  Latin = 라틴어
+  Plumbing = 배관
+  Wall = 벽
+  adobe = 어도비
+  masonry = 조적
+  mass-walls = 조적벽
+  mosaics = 모자이크
+  murals = 벽화
+  rammed earth = 다짐흙
+  ramparts = 누벽
+  retaining walls = 옹벽
+  vallum = vallum
+ENTRY:
+Vertical structure, usually solid, that defines or protects an area. Walls carry loads and provide security, shelter, soundproofing or decoration. Types include border barriers between countries, brick walls, [[Defensive wall|defensive walls]] in fortifications and retaining walls that hold back dirt, stone, water or noise. In buildings, walls support roofs, floors and ceilings, enclose spaces and may house [[Electrical wiring|electrical wiring]] or [[Plumbing|plumbing]]. Framed walls transfer loads to the [[Foundation (engineering)|foundation]] through posts, columns or studs, while mass-walls are solid materials such as masonry, concrete, adobe or rammed earth. Walls must conform to local building and fire codes. The word originally referred to defensive walls and ramparts, from the [[Latin]] *vallum*. Famous examples include the [[Great Wall of China]] and [[Hadrian's Wall]], and walls are also used for mosaics and murals.
+
+=== KEY: Wall_Street_c85fc0
+HEADWORD: Wall Street = 월스트리트
+LEVEL: 5
+GLOSSARY:
+  40 Wall Street = 월스트리트 40번지
+  Bank = 은행
+  City = 도시
+  Dutch = 네덜란드어
+  East River = 이스트강
+  Federal Reserve = 연방준비제도
+  Federal Reserve Bank of New York = 뉴욕 연방 준비 은행
+  Financial District = 파이낸셜 디스트릭트
+  Het Cingel = 헤트 싱얼
+  Lower Manhattan = 로어맨해튼
+  Manhattan = 맨해튼
+  New York City = 뉴욕
+  New York Stock Exchange = 뉴욕 증권 거래소
+  River = 강
+  Stock = 주식
+  Wall = 벽
+  York = 요크
+  metonym = 환유
+ENTRY:
+Street in the Financial District of Lower [[Manhattan]], New York City, running eight city blocks to the East River. Dutch settlers called it *Het Cingel* ("the Belt"), and an actual city wall stood on the street from 1653 to 1699. In the 18th century it was a slave market and securities trading site. The name has become a metonym for the [[New York Stock Exchange]] and the U.S. financial industry. The street is home to the Federal Reserve Bank of New York, commercial banks and insurance companies. 40 Wall Street was once the world's tallest building.
+
+=== KEY: Wall_Street_crash_of_1929_7bfb87
+HEADWORD: Wall Street crash of 1929 = 1929년 월스트리트 대폭락
+LEVEL: 4
+GLOSSARY:
+  Banking Act of 1933 = 1933년 은행법
+  Black = 검은색
+  Black Thursday = 검은 목요일
+  Black Tuesday = 검은 화요일
+  Commission = 위원회
+  Great Depression = 대공황
+  New York Stock Exchange = 뉴욕 증권 거래소
+  Roaring Twenties = 광란의 20년대
+  Securities Exchange Act of 1934 = 1934년 증권 거래법
+  Securities and Exchange Commission = 증권 거래 위원회
+  Stock = 주식
+  Thursday = 목요일
+  Tuesday = 화요일
+  U.S. Securities and Exchange Commission = 미국 증권 거래 위원회
+  United States = 미국
+  World = 세계
+  World War II = 제2차 세계 대전
+  York = 요크
+  investment banking = 투자 은행 업무
+ENTRY:
+Stock market crash in the United States, beginning in October 1929 with a sharp fall in prices on the [[New York Stock Exchange]]. It triggered a rapid erosion of confidence in the U.S. banking system and cascaded into the [[Great Depression]], which lasted until the United States entered [[World War II]] on December 8, 1941. Its most notable days were "Black Thursday," October 24, 1929, when a record 12.9 million shares were traded, and "Black Tuesday," October 29, 1929, when some 16.4 million shares changed hands. Speculation in the [[Roaring Twenties]] had pushed prices far above underlying value, and the market lost some 90% of its pre-crash value before the decline ended on July 8, 1932. Congress responded with the Banking Act of 1933, which separated commercial and investment banking, and the Securities Exchange Act of 1934, which created the U.S. Securities and Exchange Commission. Scholars disagree about the crash's role in the Great Depression.

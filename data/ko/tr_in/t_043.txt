@@ -1,0 +1,820 @@
+=== KEY: Blood_pressure_398b09
+HEADWORD: Blood pressure = 혈압
+LEVEL: 4
+GLOSSARY:
+  American College of Cardiology = 미국 심장학회
+  American Heart Association = 미국 심장 협회
+  Baroreceptors = 압력 수용기
+  Cardiology = 심장학
+  Circulatory system = 순환계
+  Endocrine system = 내분비계
+  Heart = 심장
+  Hypertension = 고혈압
+  Kidney = 콩팥
+  Nervous system = 신경계
+  Pressure = 압력
+  Stroke = 뇌졸중
+  brachial artery = 위팔동맥
+  diastolic pressure = 확장기 혈압
+  endocrine system = 내분비계
+  millimeters of mercury = 수은주밀리미터
+  systolic pressure = 수축기 혈압
+ENTRY:
+Pressure exerted by circulating blood on the walls of blood vessels. Most of this pressure results from the heart pumping blood through the [[Circulatory system|circulatory system]]. Unqualified, the term refers to pressure in a brachial artery, where it is most commonly measured. It is expressed as systolic pressure over diastolic pressure in millimeters of mercury (mmHg). A normal adult resting reading is under 120/80 mmHg, according to the American Heart Association and American College of Cardiology. Globally, the average has changed little since 1975, at approximately 127/79 mmHg in men and 122/77 mmHg in women. Baroreceptors regulate pressure in the short term by acting through the [[Nervous system|nervous system]] and [[Endocrine system|endocrine system]]. Consistently high pressure, called [[Hypertension|hypertension]], raises the risk of [[Stroke|stroke]], heart disease, and [[Kidney|kidney]] failure.
+
+=== KEY: Blood_sugar_level_027886
+HEADWORD: Blood sugar level = 혈당
+LEVEL: 4
+GLOSSARY:
+  Blood plasma = 혈장
+  Diabetes = 당뇨병
+  Glucose = 포도당
+  Glycogen = 글리코겐
+  Hypoglycemia = 저혈당증
+  Insulin = 인슐린
+  Liver = 간
+  Pancreas = 이자
+  diabetes mellitus = 당뇨병
+  glycemia = 혈당
+  hyperglycemia = 고혈당증
+  metabolic homeostasis = 대사 항상성
+  plasma = 혈장
+  skeletal muscle = 골격근
+ENTRY:
+Concentration of [[Glucose|glucose]] in the blood, also called glycemia. The body tightly regulates blood glucose as part of metabolic homeostasis. For a 70 kg (154 lb) human, approximately four grams of dissolved glucose is maintained in the [[Blood plasma|blood plasma]] at all times. Glucose not circulating is stored as [[Glycogen|glycogen]] in the [[Liver|liver]] and skeletal muscle. [[Insulin|Insulin]], a hormone produced in the [[Pancreas|pancreas]], primarily regulates the uptake of glucose into cells. The human brain consumes approximately 60% of blood glucose in fasting, sedentary individuals. Abnormally high levels, called hyperglycemia, characterize [[Diabetes|diabetes mellitus]], while low levels are called [[Hypoglycemia|hypoglycemia]].
+
+=== KEY: Blood_test_2f0731
+HEADWORD: Blood test = 혈액 검사
+LEVEL: 4
+GLOSSARY:
+  Blood = 혈액
+  Disease = 질병
+  Glucose = 포도당
+  Health care = 보건 의료
+  Laboratory = 실험실
+  Vein = 정맥
+  basic metabolic panel = 기초 대사 패널
+  blood panel = 혈액 검사 패널
+  complete blood count = 전혈구 검사
+  hypodermic needle = 피하 주사 바늘
+  lipid profiles = 지질 검사
+  thyroid function tests = 갑상샘 기능 검사
+ENTRY:
+Laboratory analysis performed on a blood sample, usually drawn from a [[Vein|vein]] in the arm with a hypodermic needle or by fingerprick. Tests for individual components, such as [[Glucose|glucose]] or cholesterol, are often grouped into a blood panel or blood work. Blood tests help determine physiological and biochemical states, including [[Disease|disease]], mineral content, drug effectiveness, and organ function, and are often used in [[Health care|health care]]. Typical clinical panels include a basic metabolic panel or a complete blood count. Common types also include lipid profiles and thyroid function tests. Blood tests are used in drug tests to detect drug abuse.
+
+=== KEY: Blood_transfusion_413033
+HEADWORD: Blood transfusion = 수혈
+LEVEL: 4
+GLOSSARY:
+  Anticoagulants = 항응고제
+  Red blood cell = 적혈구
+  White = 흰색
+  White blood cell = 백혈구
+  White blood cells = 백혈구
+  World = 세계
+  World War I = 제1차 세계 대전
+  acute hemolytic reactions = 급성 용혈 반응
+  citrate = 시트르산염
+  clotting factors = 응고 인자
+  immune-mediated hemolysis = 면역 매개 용혈
+  plasma = 혈장
+  red blood cells = 적혈구
+ENTRY:
+Intravenous transfer of blood products into a human or other animal. Apart from major trauma, whole blood is rarely transfused in modern practice; instead, components such as [[Red blood cell|red blood cells]], plasma, platelets, and clotting factors are given. [[White blood cell|White blood cells]] are not commonly transfused. Compatibility testing based on the ABO and Rh blood group systems prevents acute hemolytic reactions. Anticoagulants such as citrate enabled safe storage and large-scale use during [[World War I]]. Risks include allergic responses and immune-mediated hemolysis.
+
+=== KEY: Blood_type_a249b5
+HEADWORD: Blood type = 혈액형
+LEVEL: 4
+GLOSSARY:
+  Antibody = 항체
+  Blood = 혈액
+  Blood transfusion = 수혈
+  International Society of Blood Transfusion = 국제수혈학회
+  Pregnancy = 임신
+  Red blood cell = 적혈구
+  RhD = RhD
+  Society = 사회
+  antigens = 항원
+  hemolytic disease of the newborn = 신생아 용혈성 질환
+  plasma = 혈장
+  red blood cells = 적혈구
+  universal donor = 만능 공혈자
+  universal recipient = 만능 수혈자
+ENTRY:
+Classification of blood based on [[Antibody|antibodies]] and antigens on the surface of [[Red blood cell|red blood cells]]. The ABO and Rh systems are the two most important for [[Blood transfusion|transfusion]] compatibility, producing types A, B, AB, and O, with + or − denoting RhD status. Type A plasma contains anti-B antibodies, type B plasma contains anti-A antibodies, and type O plasma contains both. Type O− is the universal donor for red cells, and AB+ is the universal recipient. Rh antibodies develop after exposure through transfusion or [[Pregnancy|pregnancy]], and Rh incompatibility can cause hemolytic disease of the newborn. The International Society of Blood Transfusion recognized 49 human blood group systems as of September 2026.
+
+=== KEY: Bloodhound_df4477
+HEADWORD: Bloodhound = 블러드하운드
+LEVEL: 5
+GLOSSARY:
+  Abbey of Saint-Hubert = 생튀베르 수도원
+  Belgium = 벨기에
+  Deer = 사슴
+  Hound = 하운드
+  Middle Ages = 중세
+  Police = 경찰
+  Sense of smell = 후각
+  Wild boar = 멧돼지
+  scent hound = 센트하운드
+ENTRY:
+Large [[Hound|scent hound]] dog breed used for tracking. It was originally bred for hunting [[Deer|deer]], [[Wild boar|wild boar]], and rabbits, and has been used to track people since the [[Middle Ages]]. The breed is believed to descend from hounds kept at the Abbey of Saint-Hubert in [[Belgium]]. Its keen [[Sense of smell|sense of smell]] lets it discern human scent over large distances and long periods. Police and law enforcement agencies around the world use bloodhounds to track fugitives, missing people, and lost pets.
+
+=== KEY: Bloodletting_b86997
+HEADWORD: Bloodletting = 사혈
+LEVEL: 5
+GLOSSARY:
+  Alternative medicine = 대체 의학
+  Leech = 거머리
+  Pseudoscience = 유사 과학
+  alternative medicine = 대체 의학
+  hemochromatosis = 혈색소증
+  humors = 체액
+  therapeutic phlebotomy = 치료적 사혈
+ENTRY:
+Deliberate withdrawal of blood from a patient, by a physician or by [[Leech|leeches]], to prevent or cure illness. Based on the ancient belief that bodily "humors" must stay in balance, it was common medical practice from antiquity until the late 19th century. Studies in the early 19th century began to show its harm, and modern medicine has abandoned it except for therapeutic phlebotomy in conditions such as hemochromatosis. The traditional practice is regarded as [[Pseudoscience|pseudoscience]], though it persists in some [[Alternative medicine|alternative medicine]].
+
+=== KEY: Bloods_73300e
+HEADWORD: Bloods = 블러즈
+LEVEL: 5
+GLOSSARY:
+  African American = 아프리카계 미국인
+  California = 캘리포니아주
+  Crips = 크립스
+  Gang = 갱단
+  Los Angeles = 로스앤젤레스
+  United States = 미국
+ENTRY:
+Predominantly African American [[Gang|street gang]] founded in Los Angeles, California. Known for its rivalry with the [[Crips]], it is identified by the color red and by hand signs. Its subgroups, called "sets," differ in colors, clothing, operations, and political ideas. The gang spread throughout the United States after its founding, and by the 1990s had proliferated to over 100 cities.
+
+=== KEY: Blu_ray_5e0643
+HEADWORD: Blu-ray = 블루레이
+LEVEL: 5
+GLOSSARY:
+  DVD = DVD
+  HD DVD = HD DVD
+  Optical disc = 광디스크
+  Sony = 소니
+  Toshiba = 도시바
+ENTRY:
+Digital [[Optical disc|optical disc]] format designed to supersede the [[DVD]], storing several hours of high-definition video. Released worldwide on June 20, 2006, it takes its name from the blue laser used to read it, which allows greater storage density than the red laser of DVDs. Conventional discs hold 25 GB per layer, and dual-layer discs (50 GB) are the industry standard for feature-length video. [[Sony]] unveiled the first prototypes in October 2000. Toshiba discontinued the competing HD DVD format in February 2008.
+
+=== KEY: Blue_9594ee
+HEADWORD: Blue = 파란색
+LEVEL: 4
+GLOSSARY:
+  Clear = 클리어
+  Color = 색
+  Egypt = 이집트
+  Europe = 유럽
+  European Union = 유럽 연합
+  Lapis lazuli = 청금석
+  Primary color = 원색
+  RGB color model = RGB 색 모형
+  Rayleigh scattering = 레일리 산란
+  Renaissance = 르네상스
+  Ultramarine = 울트라마린
+  United Nations = 국제 연합
+  United States = 미국
+  ancient Egypt = 고대 이집트
+  cyan = 청록색
+  primary colors = 원색
+  visible spectrum = 가시 스펙트럼
+ENTRY:
+Color between violet and cyan on the visible spectrum of light. It is one of the three [[Primary color|primary colors]] in the [[RGB color model|RGB]] additive color model. Blue generally describes colors perceived from light with a dominant wavelength of approximately 450 and 495 nanometers. Clear daytime skies and deep seas appear blue because of [[Rayleigh scattering]]. [[Lapis lazuli]] was used in ancient Egypt for ornament, and in the Renaissance it was ground into [[Ultramarine|ultramarine]], the most expensive of all pigments. In the United States and Europe, blue is the color that both men and women most often choose as their favorite. Because blue has been associated with harmony, it was chosen for the flags of the [[United Nations]] and the [[European Union]].
+
+=== KEY: Blue_Nile_580452
+HEADWORD: Blue Nile = 청나일강
+LEVEL: 4
+GLOSSARY:
+  Abay = 아바이강
+  Dam = 댐
+  Egypt = 이집트
+  Ethiopia = 에티오피아
+  Ethiopian Highlands = 에티오피아 고원
+  Grand Ethiopian Renaissance Dam = 그랜드 에티오피아 르네상스 댐
+  Hydropower = 수력 발전
+  Khartoum = 하르툼
+  Lake = 호수
+  Lake Tana = 타나호
+  Nile = 나일강
+  Renaissance = 르네상스
+  Sudan = 수단
+  White = 흰색
+  White Nile = 백나일강
+ENTRY:
+Major tributary of the [[Nile]], flowing through Ethiopia and Sudan. It originates at Lake Tana in Ethiopia and travels about 1,450 km (900 mi). Along with the [[White Nile|White Nile]], it is one of the Nile's two major tributaries, supplying about 85.6% of the Nile's water during the rainy season. Known in Ethiopia as the Abay, the river joins the White Nile at [[Khartoum]]. Its flow, driven by monsoon rains in the [[Ethiopian Highlands|Ethiopian highlands]], peaks from July to September and supports [[Hydropower|hydropower]] development. Ethiopia's Grand Ethiopian Renaissance Dam has sparked international tensions over water security involving [[Egypt]] and Sudan.
+
+=== KEY: Blue_Ridge_Mountains_8defb1
+HEADWORD: Blue Ridge Mountains = 블루리지산맥
+LEVEL: 5
+GLOSSARY:
+  Appalachian Mountains = 애팔래치아산맥
+  Blue Ridge Parkway = 블루리지 파크웨이
+  Georgia (U.S. state) = 조지아주
+  Great Smoky Mountains = 그레이트스모키산맥
+  Great Smoky Mountains National Park = 그레이트스모키산맥 국립공원
+  Isoprene = 아이소프렌
+  Mississippi River = 미시시피강
+  Mount Mitchell = 미첼산
+  North Carolina = 노스캐롤라이나주
+  Pennsylvania = 펜실베이니아주
+  Physiographic province = 지형구
+  River = 강
+  Shenandoah = 셰넌도어
+  United States = 미국
+  national parks = 국립 공원
+ENTRY:
+Physiographic province of the larger [[Appalachian Mountains]] system in the eastern United States. It extends about 550 miles (885 km) southwest from southern [[Pennsylvania]] to [[Georgia (U.S. state)|Georgia]]. Isoprene released by trees into the atmosphere contributes to a bluish haze that gives the range its name. Shenandoah and [[Great Smoky Mountains National Park|Great Smoky Mountains]] national parks lie within the province and are linked by the 469-mile Blue Ridge Parkway. Mount Mitchell in North Carolina, at 6,684 feet, is the highest peak east of the Mississippi River.
+
+=== KEY: Blue_Velvet_film_ad0bee
+HEADWORD: Blue Velvet = 「블루 벨벳」
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Best Director = 감독상
+  David Lynch = 데이비드 린치
+  Isabella = 이저벨라
+  Isabella Rossellini = 이저벨라 로셀리니
+  Kyle MacLachlan = 카일 매클라클런
+  criminal conspiracy = 범죄 공모
+  neo-noir = 네오누아르
+ENTRY:
+1986 American neo-noir mystery film written and directed by [[David Lynch]]. A college student played by Kyle MacLachlan finds a severed human ear in a field and uncovers a criminal conspiracy involving a nightclub singer played by Isabella Rossellini. Its initial critical reception was divided. The film earned Lynch his second Academy Award nomination for Best Director and is now widely regarded as one of his masterpieces.
+
+=== KEY: Blue_ringed_octopus_f8c4e7
+HEADWORD: Blue-ringed octopus = 파란고리문어
+LEVEL: 5
+GLOSSARY:
+  Australia = 오스트레일리아
+  Coral reef = 산호초
+  Crustacean = 갑각류
+  Hapalochlaena = 하팔로클라이나속
+  Japan = 일본
+  Octopus = 문어
+  Pacific = 태평양
+  tetrodotoxin = 테트로도톡신
+ENTRY:
+Four highly venomous species of [[Octopus|octopus]] in the genus *Hapalochlaena*. They live in tide pools and [[Coral reef|coral reefs]] of the Pacific and Indian Oceans, from [[Japan]] to [[Australia]], and eat small [[Crustacean|crustaceans]] such as crabs and shrimp. Their yellowish skin shows blue and black rings that change dramatically when they are threatened. Measuring 12 to 20 cm (5 to 8 in), they are among the world's most venomous marine animals; their venom contains the neurotoxin tetrodotoxin.
+
+=== KEY: Blue_whale_41f99f
+HEADWORD: Blue whale = 대왕고래
+LEVEL: 4
+GLOSSARY:
+  Commission = 위원회
+  International Union for Conservation of Nature = 국제 자연 보전 연맹
+  International Whaling Commission = 국제포경위원회
+  Krill = 크릴
+  Nature = 『네이처』
+  Species = 종
+  Whaling = 포경
+  baleen whale = 수염고래
+  endangered = 위기
+  filter feeders = 여과 섭식 동물
+ENTRY:
+Species of baleen whale and the largest animal known to have ever existed. Reaching 29.9–30.5 m (98–100 ft) and weighing up to 190–200 t, it has a slender, grayish-blue body. Blue whales are filter feeders that eat almost exclusively [[Krill|krill]], and populations migrate between summer feeding areas near the poles and winter breeding grounds near the tropics. [[Whaling|Whalers]] hunted the species nearly to extinction until the International Whaling Commission banned blue whale hunting in 1966. The International Union for Conservation of Nature has listed it as endangered as of 2018.
+
+=== KEY: Blueberry_45015d
+HEADWORD: Blueberry = 블루베리
+LEVEL: 4
+GLOSSARY:
+  Anthocyanin = 안토시아닌
+  Canada = 캐나다
+  China = 중국
+  Europe = 유럽
+  North America = 북아메리카
+  Vaccinium = 산앵도나무속
+  highbush = 하이부시
+  lowbush = 로부시
+  lowbush blueberries = 로부시 블루베리
+ENTRY:
+Perennial flowering plant with blue or purple berries, in the genus *Vaccinium*. Commercial blueberries are native to [[North America]], where lowbush (wild) varieties have small, pea-size berries and highbush (cultivated) varieties have larger berries on taller bushes. Highbush varieties were introduced into Europe during the 1930s. Their color comes from [[Anthocyanin|anthocyanins]], pigments concentrated in the skin. Plants range from 10 cm (4 in) to 4 m (13 ft) tall. In 2025, [[Canada]] was the leading producer of lowbush blueberries, while China produced 35% of the world's highbush supply.
+
+=== KEY: Blues_aca2a3
+HEADWORD: Blues = 블루스
+LEVEL: 4
+GLOSSARY:
+  African Americans = 아프리카계 미국인
+  Chord (music) = 화음
+  Deep South = 디프사우스
+  Electric blues = 일렉트릭 블루스
+  Jazz = 재즈
+  Music = 음악
+  Rhythm and blues = 리듬 앤드 블루스
+  Rock and roll = 로큰롤
+  United States = 미국
+  World = 세계
+  World War II = 제2차 세계 대전
+  blue notes = 블루 노트
+  chord progression = 화성 진행
+  field hollers = 필드 홀러
+  rhythm and blues = 리듬 앤드 블루스
+  rock and roll = 로큰롤
+  spirituals = 흑인 영가
+  twelve-bar = 12마디
+  work songs = 노동요
+ENTRY:
+Music genre and musical form that originated among [[African Americans]] in the [[Deep South]] of the United States around the 1860s. It incorporated spirituals, work songs, and field hollers. Its most common structure is the twelve-bar [[Chord (music)|chord]] progression, and "blue notes," usually flattened thirds, fifths, or sevenths, are essential to its sound. The form is ubiquitous in [[Jazz|jazz]], [[Rhythm and blues|rhythm and blues]], and [[Rock and roll|rock and roll]]. Electric blues developed after [[World War II]], opening the genre to a wider audience, especially white listeners.
+
+=== KEY: Bluetooth_7deff3
+HEADWORD: Bluetooth = 블루투스
+LEVEL: 5
+GLOSSARY:
+  Bluetooth = 블루투스
+  Bluetooth Special Interest Group = 블루투스 SIG
+  ISM bands = ISM 대역
+  Integrated circuit = 집적 회로
+  UHF = 극초단파
+  integrated circuit = 집적 회로
+  radio waves = 전파
+ENTRY:
+Short-range wireless technology standard for exchanging data between fixed and mobile devices. In its most common mode, transmission power is limited to 2.5 milliwatts, giving a range of up to 10 meters (33 ft). It uses UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz. It is used to connect phones and music players to wireless headphones, speakers, and car audio. The Bluetooth Special Interest Group, with more than 35,000 member companies, oversees the specification and manages qualification. As of 2021, 4.7 billion Bluetooth [[Integrated circuit|integrated circuit]] chips shipped annually.
+
+=== KEY: Bluey_TV_series_ddbe02
+HEADWORD: Bluey = 「블루이」
+LEVEL: 5
+GLOSSARY:
+  AACTA Awards = AACTA상
+  ABC Kids = ABC 키즈
+  Australian = 오스트레일리아
+  Australian Broadcasting Corporation = 오스트레일리아 방송 협회
+  BBC = BBC
+  Blue Heeler = 블루 힐러
+  Broadcasting = 방송
+  Emmy = 에미상
+  International Emmy Kids Award = 국제 에미 키즈상
+  Joe Brumm = 조 브럼
+  Logie Awards = 로지상
+  Peabody = 피보디상
+  Peabody Award = 피보디상
+  Play (activity) = 놀이
+  The Bluey Movie = 「블루이 무비」
+ENTRY:
+Australian animated preschool television series created by Joe Brumm. It was commissioned by the [[Australian Broadcasting Corporation]] and the [[BBC]] and premiered on ABC Kids on October 1, 2018. It follows Bluey, a Blue Heeler puppy, her sister Bingo, and their family through [[Play (activity)|imaginative play]]. The show has won three Logie Awards, three AACTA Awards, an International Emmy Kids Award in 2019, and a Peabody Award in 2024. A feature film, *The Bluey Movie*, is scheduled for release on August 6, 2027.
+
+=== KEY: Blunt_trauma_323369
+HEADWORD: Blunt trauma = 둔상
+LEVEL: 4
+GLOSSARY:
+  Assault = 폭행
+  Blunt trauma = 둔상
+  Bone fracture = 골절
+  Bruise = 타박상
+  Concussion = 뇌진탕
+  Physical = 「Physical」
+  Traffic collision = 교통사고
+  penetrating trauma = 관통상
+ENTRY:
+Physical injury caused by forceful impact without penetration of the body's surface. Blunt trauma contrasts with penetrating trauma, in which an object pierces the skin and creates an open wound. It commonly results from [[Traffic collision|road traffic collisions]], [[Assault|assaults]], sports injuries, and falls, which are common among the elderly. Injuries range from [[Bruise|bruises]] and [[Concussion|concussions]] to internal bleeding and [[Bone fracture|bone fractures]]. Severity depends on the force of impact, the body area affected, and underlying medical conditions. Blunt trauma to the head and severe blood loss are the most likely causes of death from blunt force injury.
+
+=== KEY: Blur_band_d8bc07
+HEADWORD: Blur = 블러
+LEVEL: 5
+GLOSSARY:
+  Ballad = 발라드
+  Battle of Britpop = 브릿팝 전쟁
+  Blur = 블러
+  Britpop = 브릿팝
+  Following = 「미행」
+  Leisure = 여가
+  Life = 『라이프』
+  Madchester = 매드체스터
+  Modern Life Is Rubbish = 『Modern Life Is Rubbish』
+  Oasis = 오아시스
+  Oasis (band) = 오아시스
+  Parklife = 『Parklife』
+  Song 2 = 「Song 2」
+  The Ballad of Darren = 『The Ballad of Darren』
+  shoegaze = 슈게이즈
+ENTRY:
+English rock band formed in London in 1988. Its debut album, *Leisure* (1991), drew on Madchester and shoegaze. Following a stylistic change influenced by British guitar pop, the albums *Modern Life Is Rubbish* (1993) and *Parklife* (1994) helped popularize Britpop. A 1995 chart battle with [[Oasis (band)|Oasis]], dubbed "the Battle of Britpop," aided the band's mass popularity in the U.K. The self-titled album of 1997 produced "Song 2," which became popular on U.S. alternative radio. Blur reunited in 2009 and released *The Ballad of Darren* in 2023.
+
+=== KEY: Bo_Jackson_f9c247
+HEADWORD: Jackson, Bo = 잭슨, 보
+LEVEL: 5
+GLOSSARY:
+  All-Star = 올스타
+  Angels = 사도
+  Auburn University = 오번 대학교
+  Baseball = 야구
+  Bo Knows = “보 노스”
+  California = 캘리포니아주
+  California Angels = 캘리포니아 에인절스
+  Chicago White Sox = 시카고 화이트삭스
+  City = 도시
+  Heisman Trophy = 하이즈먼 트로피
+  Kansas = 캔자스주
+  Kansas City = 캔자스시티
+  Kansas City Royals = 캔자스시티 로열스
+  Los Angeles = 로스앤젤레스
+  Los Angeles Raiders = 로스앤젤레스 레이더스
+  Major League Baseball = 메이저 리그 베이스볼
+  National Football League = 내셔널 풋볼 리그
+  Nike = 나이키
+  University = 대학
+  White = 흰색
+ENTRY:
+American former professional baseball and football player. He is the only professional athlete to have been named an All-Star in two major American sports. At Auburn University he won the Heisman Trophy in 1985. He played in the [[National Football League|NFL]] for the Los Angeles Raiders and in [[Major League Baseball]] for the Kansas City Royals, Chicago White Sox, and California Angels. A 1991 hip injury ended his football career. The Nike "Bo Knows" advertising campaign of 1989 and 1990 made his name known beyond sports.
+
+=== KEY: Bo_tes_Void_eaf446
+HEADWORD: Boötes Void = 목동자리 거대 공동
+LEVEL: 5
+GLOSSARY:
+  Boötes = 목동자리
+  Earth = 지구
+  Galaxy = 은하
+  Light-year = 광년
+  Redshift = 적색 편이
+  Robert Kirshner = 로버트 커슈너
+  megaparsecs = 메가파섹
+ENTRY:
+Roughly spherical region of space in the vicinity of the constellation Boötes. It contains just 60 [[Galaxy|galaxies]], far fewer than the approximately 2,000 expected for an area of comparable size. With a radius of 62 megaparsecs (nearly 200 million [[Light-year|light-years]]), it is one of the largest known voids in the visible universe. Astronomer Robert Kirshner discovered it in 1981 during a [[Redshift|redshift]] survey of galaxies. Its center lies 700 million light-years from Earth.
+
+=== KEY: Board_game_5ad19f
+HEADWORD: Board game = 보드게임
+LEVEL: 3
+GLOSSARY:
+  Asia = 아시아
+  Babylonian = 바빌로니아
+  Board Game Renaissance = 보드게임 르네상스
+  Candy = 사탕
+  Candy Land = 「캔디 랜드」
+  Carcassonne = 「카르카손」
+  Chess = 체스
+  Dice = 주사위
+  Egypt = 이집트
+  Europe = 유럽
+  Game = 게임
+  German-style games = 독일식 보드게임
+  Golden Age = 황금기
+  Mancala = 만칼라
+  Margaret Hofer = 마거릿 호퍼
+  Mesopotamia = 메소포타미아
+  Middle East = 중동
+  Monopoly = 독점
+  Monopoly (game) = 모노폴리
+  Neolithic = 신석기 시대
+  Renaissance = 르네상스
+  Royal Game of Ur = 우르의 왕실 게임
+  Senet = 세네트
+  The Settlers of Catan = 「카탄의 개척자」
+  Ticket to Ride = 「티켓 투 라이드」
+  ancient Egypt = 고대 이집트
+  cuneiform = 쐐기 문자
+  snakes and ladders = 뱀과 사다리
+ENTRY:
+Tabletop game played with small pieces placed and moved in particular ways on a specially designed patterned board, sometimes with other components such as [[Dice|dice]].
+
+Card games not using a standard deck, and games using neither cards nor a board, are often loosely included under the labels table and board games or tabletop games.
+
+Board games have been found at archaeological sites in many cultures. As of 2024, 14 sites reported 51 game boards from the [[Neolithic]] period, dating from the early 7000s BC to the mid-6000s BC. Senet, from ancient Egypt, has been argued to be the oldest known board game, with possible board fragments c. 3100 BC; its rules were never written down. The Royal Game of Ur originated around 2500 BC in [[Mesopotamia]], and its rules survive on a cuneiform tablet written by a Babylonian astronomer in c. 177 BC–c. 176 BC. [[Mancala]] is a broad family of games of uncertain age found across Africa, the Middle East, and southern Asia.
+
+The 1880s–1920s, called the Golden Age by American art historian Margaret Hofer, saw mass production make games cheaper and more available. [[Monopoly (game)|Monopoly]] (1935) was the most popular, with 500 million games played as of 1999. *The Settlers of Catan* (1995) is often credited with popularizing German-style games outside Europe, and a Board Game Renaissance in the early 21st century included *Carcassonne* (2000) and *Ticket to Ride* (2004).
+
+Games vary in their balance of skill and luck: [[Chess|chess]] depends entirely on player skill, while children's games such as *Candy Land* (1949) and snakes and ladders are decided purely by luck.
+
+=== KEY: Boat_f769aa
+HEADWORD: Boat = 보트
+LEVEL: 4
+GLOSSARY:
+  Buoyancy = 부력
+  Canoe = 카누
+  Lake = 호수
+  Netherlands = 네덜란드
+  Nile = 나일강
+  Pesse = 페서
+  Pesse canoe = 페서 카누
+  River = 강
+  Ship = 배
+  Submarine = 잠수함
+  dugout = 통나무배
+  raft = 뗏목
+  whaleboats = 포경 보트
+ENTRY:
+Watercraft of many types and sizes, generally smaller than a [[Ship|ship]]. Small boats are typically used on [[River|rivers]] and [[Lake|lakes]] or in protected coastal areas, while some, such as whaleboats, were built for offshore use. [[Submarine|Submarines]] are called boats regardless of size. A boat differs from a raft by obtaining [[Buoyancy|buoyancy]] from a waterproof structure, such as the planks of a wooden hull. Boats are propelled by manpower, wind, or inboard and outboard motors. The earliest known plank-built boats come from the Nile, dating to the third millennium BC. The oldest recovered boat, the Pesse [[Canoe|canoe]], is a dugout found in the [[Netherlands]] and dated to between 8200 and 7600 BC.
+
+=== KEY: Bob_Barker_d4c481
+HEADWORD: Barker, Bob = 바커, 밥
+LEVEL: 5
+GLOSSARY:
+  Animal rights = 동물권
+  CBS = CBS
+  Navy = 해군
+  Navy Reserve = 해군 예비군
+  People = 『피플』
+  Price = 가격
+  The Price Is Right = 「더 프라이스 이즈 라이트」
+  Truth = 진리
+  Truth or Consequences = 「트루스 오어 컨시퀀시스」
+  United States = 미국
+  United States Navy = 미국 해군
+  United States Navy Reserve = 미국 해군 예비군
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+American media personality, game show host, and [[Animal rights|animal rights]] advocate. He hosted [[CBS]]'s *The Price Is Right* from 1972 to 2007, the longest-running game show in North American television history. He also hosted *Truth or Consequences* from 1956 to 1975. Barker joined the United States Navy Reserve during [[World War II]]. He supported animal rights groups such as People for the Ethical Treatment of Animals. He retired from *The Price Is Right* in 2007.
+
+=== KEY: Bob_Dylan_d58fee
+HEADWORD: Dylan, Bob = 딜런, 밥
+LEVEL: 4
+GLOSSARY:
+  Album = 앨범
+  Album of the Year = 올해의 앨범
+  Blowin' in the Wind = 「Blowin' in the Wind」
+  City = 도시
+  Grammy = 그래미상
+  Grammy Award = 그래미상
+  Grammy Awards = 그래미상
+  Highway = 고속도로
+  Highway 61 Revisited = 『Highway 61 Revisited』
+  Like a Rolling Stone = 「Like a Rolling Stone」
+  Literature = 문학
+  New York City = 뉴욕
+  Nobel Prize = 노벨상
+  Nobel Prize in Literature = 노벨 문학상
+  Pulitzer Prize = 퓰리처상
+  Robert Allen Zimmerman = 로버트 앨런 지머먼
+  Rolling Stone = 『롤링 스톤』
+  Time = 『타임』
+  Time Out of Mind = 『Time Out of Mind』
+  Wind = 바람
+  Year = 해
+  York = 요크
+  civil rights = 민권
+ENTRY:
+American singer-songwriter, born Robert Allen Zimmerman. He rose to prominence in the early 1960s New York folk scene after moving to [[New York City]] in 1961. Songs such as "Blowin' in the Wind" (1963) became anthems of the civil rights and antiwar movements. His use of electric instrumentation on *Highway 61 Revisited* (1965) and the single "Like a Rolling Stone" (1965) provoked controversy and broadened his appeal into rock. After a 1966 motorcycle crash he stopped touring for seven years. *Time Out of Mind* (1997) won the [[Grammy Awards|Grammy Award]] for Album of the Year. He received a special [[Pulitzer Prize]] citation in 2008 and the 2016 Nobel Prize in Literature "for having created new poetic expressions within the great American song tradition." An estimated 125 million of his records have sold worldwide.
+
+=== KEY: Bob_Fosse_ddf64e
+HEADWORD: Fosse, Bob = 포시, 밥
+LEVEL: 4
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Director = 아카데미 감독상
+  All That Jazz = 「올 댓 재즈」
+  Best Director = 감독상
+  Cabaret = 「카바레」
+  Cannes = 칸
+  Cannes Film Festival = 칸 영화제
+  Festival = 축제
+  Film = 영화
+  Game = 게임
+  Gwen Verdon = 그웬 버던
+  Jazz = 재즈
+  Jazz dance = 재즈 댄스
+  Palme d'Or = 황금종려상
+  Sweet Charity = 「스위트 채리티」
+  The Pajama Game = 「파자마 게임」
+  Tony = 토니상
+  Tony Awards = 토니상
+  jazz hands = 재즈 핸즈
+ENTRY:
+American choreographer, dancer, and director. Arguably the most influential figure in [[Jazz dance|jazz dance]] in the 20th century, he developed a style marked by finger-snapping, tilted bowler hats, turned-in knees, and jazz hands. He won nine Tony Awards, beginning with his choreography for *The Pajama Game* (1954). His film *Cabaret* (1972) won him the Academy Award for Best Director, and *All That Jazz* (1979) won the Palme d'Or at the [[Cannes Film Festival]]. His other works include the musicals *Sweet Charity* (1966) and *Chicago* (1975). His third wife, actor–dancer Gwen Verdon, collaborated with him on several theater and film projects.
+
+=== KEY: Bob_Hope_52baff
+HEADWORD: Hope, Bob = 호프, 밥
+LEVEL: 5
+GLOSSARY:
+  Academy Awards = 아카데미상
+  Armed Forces = 혁명군
+  Bing Crosby = 빙 크로즈비
+  Road to = 「로드 투」
+  United Service Organizations = 미군 위문 협회
+  Vaudeville = 보드빌
+  honorary veteran = 명예 재향 군인
+ENTRY:
+British-born American comedian, actor, and entertainer. His career spanned nearly 80 years in [[Vaudeville|vaudeville]], radio, film, and television. He appeared in more than 70 short and feature films, including seven *Road to...* musical comedies with [[Bing Crosby]]. He hosted the [[Academy Awards]] ceremony a record 19 times. Between 1941 and 1991 he made 57 tours for the United Service Organizations (USO), entertaining military personnel around the world. In 1997 Congress made him an honorary veteran of the Armed Forces.
+
+=== KEY: Bob_Hoskins_9ee9db
+HEADWORD: Hoskins, Bob = 호스킨스, 밥
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Actor = 배우
+  Arthur Parker = 아서 파커
+  BAFTA = 영국 아카데미 영화상
+  BBC = BBC
+  Best Actor = 남우주연상
+  Best Actor award = 남우주연상
+  Cannes = 칸
+  Cannes Film Festival = 칸 영화제
+  Eddie = 에디
+  Eddie Valiant = 에디 밸리언트
+  Festival = 축제
+  Film = 영화
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Heaven = 천국
+  Lisa = 리사
+  Mona Lisa = 「모나리자」
+  Parkinson's = 파킨슨병
+  Parkinson's disease = 파킨슨병
+  Pennies from Heaven = 「페니스 프롬 헤븐」
+  Rabbit = 토끼
+  Rainbow = 무지개
+  Roger Rabbit = 로저 래빗
+  The Raggedy Rawney = 「래기디 로니」
+  Who Framed Roger Rabbit = 「누가 로저 래빗을 모함했나」
+ENTRY:
+English actor and film director. Known for intense but sensitive portrayals of "tough guy" characters, he broke through as Arthur Parker in the BBC serial *Pennies from Heaven* (1978). *Mona Lisa* (1986) won him a BAFTA, a Golden Globe, and a [[Cannes Film Festival]] Best Actor award, and earned him an Academy Award nomination. He played the detective Eddie Valiant in *Who Framed Roger Rabbit* (1988). Hoskins also directed two features, *The Raggedy Rawney* (1988) and *Rainbow* (1996). He retired in 2012 owing to [[Parkinson's disease]].
+
+=== KEY: Bob_Marley_e7646f
+HEADWORD: Marley, Bob = 말리, 밥
+LEVEL: 4
+GLOSSARY:
+  Bunny Wailer = 버니 웨일러
+  Burnin' = 『Burnin'』
+  Catch a Fire = 『Catch a Fire』
+  Eric Clapton = 에릭 클랩턴
+  Fire = 불
+  I Shot the Sheriff = 「I Shot the Sheriff」
+  Island Records = 아일랜드 레코드
+  Jamaica = 자메이카
+  Legend = 『Legend』
+  Peter = 베드로
+  Peter Tosh = 피터 토시
+  Rastafari = 라스타파리 운동
+  Rastafarian = 라스타파리안
+  Reggae = 레게
+  Sheriff = 「셰리프」
+  Wailers = 웨일러스
+  Woman = 여성
+ENTRY:
+Jamaican reggae singer, songwriter, and guitarist. Considered one of the pioneers of [[Reggae|reggae]], he became a global symbol of Jamaican music, culture, and identity. He became a [[Rastafari|Rastafarian]] icon, and his music reflected a strong sense of spirituality. After forming a group with Peter Tosh and Bunny Wailer that became the Wailers, he signed with Island Records; the albums *Catch a Fire* and *Burnin'* (both 1973) brought the group international attention. A live version of "No Woman, No Cry" (1975) became his first hit outside Jamaica, following the popularity of [[Eric Clapton]]'s version of "I Shot the Sheriff." In 1976 he survived an assassination attempt at his home in Jamaica. The compilation *Legend* (1984) became the best-selling reggae album of all time, with estimated sales of more than 75 million records worldwide.
+
+=== KEY: Bob_Newhart_ab2f10
+HEADWORD: Newhart, Bob = 뉴하트, 밥
+LEVEL: 5
+GLOSSARY:
+  Big Bang = 빅뱅
+  Billboard = 『빌보드』
+  Bob Hartley = 밥 하틀리
+  Dick Loudon = 딕 라우든
+  Emmy = 에미상
+  Emmy Award = 에미상
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Newhart = 「뉴하트」
+  Professor Proton = 프로톤 교수
+  Proton = 양성자
+  The Big Bang Theory = 「빅뱅 이론」
+  The Bob Newhart Show = 「밥 뉴하트 쇼」
+  The Button-Down Mind of Bob Newhart = 『The Button-Down Mind of Bob Newhart』
+  Theory = 이론
+ENTRY:
+American comedian and actor. Known for his deadpan, stammering delivery, he came to prominence in 1960 with the comedy album *The Button-Down Mind of Bob Newhart*, which reached number one on the Billboard pop album chart and won two [[Grammy Awards]]. He starred as psychologist Bob Hartley in *The Bob Newhart Show* (1972–1978) and as innkeeper Dick Loudon in *Newhart* (1982–1990). From 2013 to 2018 he played Professor Proton on [[The Big Bang Theory]], earning his first career Emmy Award.
+
+=== KEY: Bob_Ross_d09d14
+HEADWORD: Ross, Bob = 로스, 밥
+LEVEL: 5
+GLOSSARY:
+  Air Force = 항공 및 반항공군
+  Annette Kowalski = 어넷 코월스키
+  Force = 힘
+  Oil painting = 유화
+  PBS = PBS
+  Painting = 회화
+  The Joy of Painting = 「그림을 그립시다」
+  United States = 미국
+  United States Air Force = 미국 공군
+  wet-on-wet = 웨트 온 웨트
+ENTRY:
+American painter and art instructor. He created and hosted *The Joy of Painting*, an instructional program that aired from 1983 to 1994 on [[PBS]] in the United States. Its landscapes were painted quickly in [[Oil painting|oil]] by the wet-on-wet method with a limited palette. Ross, who had served in the United States Air Force, retired in 1981 and, with help from Annette Kowalski and her husband, set up Bob Ross Inc. The company later became the legal proprietor of his name and likeness.
+
+=== KEY: Bobby_Darin_c547c5
+HEADWORD: Darin, Bobby = 대린, 바비
+LEVEL: 5
+GLOSSARY:
+  Best New Artist = 최우수 신인상
+  Come September = 「9월이 오면」
+  Dream = 꿈
+  Dream Lover = 「Dream Lover」
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Kennedy = 케네디
+  Knife = 칼
+  Los Angeles = 로스앤젤레스
+  Mack the Knife = 「Mack the Knife」
+  Record of the Year = 올해의 레코드
+  Robert F. Kennedy = 로버트 F. 케네디
+  Splash = 「스플래시」
+  Splish Splash = 「Splish Splash」
+  Walden = 『월든』
+  Walden Robert Cassotto = 월든 로버트 카소토
+  Year = 해
+ENTRY:
+American singer, songwriter, and actor, born Walden Robert Cassotto. He wrote and recorded the million-selling single "Splish Splash" (1958), followed by "Dream Lover" and "Mack the Knife." "Mack the Knife" won Record of the Year at the second annual [[Grammy Awards]], and Darin was the first winner of the Best New Artist award. A Golden Globe followed for his first film, *Come September*. In the 1960s he worked on the presidential campaign of [[Robert F. Kennedy]]. Long affected by a weak heart, he died after open-heart surgery in Los Angeles.
+
+=== KEY: Bobby_Fischer_9585ec
+HEADWORD: Fischer, Bobby = 피셔, 바비
+LEVEL: 4
+GLOSSARY:
+  Anatoly Karpov = 아나톨리 카르포프
+  Antisemitism = 반유대주의
+  Boris Spassky = 보리스 스파스키
+  Champion = 「챔피언」
+  Chess = 체스
+  Cold War = 냉전
+  FIDE = 국제 체스 연맹
+  Iceland = 아이슬란드
+  Icelandic = 아이슬란드어
+  Japan = 일본
+  Reykjavík = 레이캬비크
+  U.S. Championships = 미국 체스 선수권 대회
+  United Nations = 국제 연합
+  World = 세계
+  World Chess Champion = 세계 체스 챔피언
+  Yugoslavia = 유고슬라비아
+  embargo = 금수 조치
+  grandmaster = 그랜드마스터
+ENTRY:
+American chess grandmaster and the eleventh World Chess Champion. A [[Chess|chess]] prodigy, he won a record eight U.S. Championships, the first at age 14. In 1964 he won the U.S. Championship with an 11–0 score, the only perfect score in that tournament's history. In 1972 he defeated Boris Spassky of the U.S.S.R. in [[Reykjavík]], Iceland, in a match publicized as a [[Cold War]] confrontation. In 1975 he refused to defend the title after a dispute with FIDE, and Anatoly Karpov was named champion by default. Fischer later won an unofficial 1992 rematch against Spassky in Yugoslavia, which was under a [[United Nations]] embargo. He was arrested in Japan in 2004 for using a passport the U.S. had revoked, and was later granted Icelandic citizenship. His later public statements included [[Antisemitism|antisemitic]] remarks.
+
+=== KEY: Bobcat_d44f72
+HEADWORD: Bobcat = 밥캣
+LEVEL: 5
+GLOSSARY:
+  Canada = 캐나다
+  Deer = 사슴
+  Hare = 산토끼
+  IUCN = 국제 자연 보전 연맹
+  Least Concern = 최소 관심
+  Lynx = 스라소니속
+  Lynx rufus = 린크스 루푸스
+  Mexico = 멕시코
+  North America = 북아메리카
+  Oaxaca = 오악사카
+  Rabbit = 토끼
+  United States = 미국
+  contiguous United States = 미국 본토
+ENTRY:
+Medium-sized wild cat (*Lynx rufus*) native to North America. It is one of four extant species in the genus [[Lynx|Lynx]], and it ranges from southern [[Canada]] through most of the contiguous United States to [[Oaxaca]] in [[Mexico]]. It reaches up to 125 cm (50 in) in total length, including the tail. Bobcats hunt mainly [[Rabbit|rabbits]] and [[Hare|hares]], as well as rodents, birds, and [[Deer|deer]]. Listed as Least Concern by the IUCN since 2002, the species is stable, though its populations are declining in some areas.
+
+=== KEY: Bobsleigh_2ff258
+HEADWORD: Bobsleigh = 봅슬레이
+LEVEL: 4
+GLOSSARY:
+  Bobsleigh = 봅슬레이
+  California = 캘리포니아주
+  Cresta Run = 크레스타 런
+  International Bobsleigh and Skeleton Federation = 국제 봅슬레이 스켈레톤 연맹
+  Luge = 루지
+  Skeleton = 골격
+  Squaw Valley = 스쿼밸리
+  St. Moritz = 생모리츠
+  Switzerland = 스위스
+  Winter = 겨울
+  Winter Olympic Games = 동계 올림픽
+  monobob = 모노봅
+  skeletons = 스켈레톤
+  toboggans = 터보건
+ENTRY:
+Winter sport of timed speed runs down banked, iced tracks in gravity-powered sleds, ridden by teams of two to four athletes. Bobsleds were first built in the late 19th century in St. Moritz, Switzerland, by wealthy tourists who adapted delivery sleds and toboggans. These early sleds evolved into bobsleighs, [[Luge|luges]], and skeletons. Racing through St. Moritz's streets caused collisions, and bobsledding was eventually banned from public highways. The Cresta Run there remains the oldest in the world. The four-man event has been held at almost every [[Winter Olympic Games|Winter Games]] since 1924, the exception being 1960 in Squaw Valley, California. The two-man event was added in 1932 and the women's monobob in 2022. The International Bobsleigh and Skeleton Federation governs the sport.
+
+=== KEY: Bodhidharma_4db273
+HEADWORD: Bodhidharma = 보리달마
+LEVEL: 4
+GLOSSARY:
+  Anthology of the Patriarchal Hall = 『조당집』
+  Asia = 아시아
+  Buddha = 붓다
+  Buddhism = 불교
+  Buddhist = 불교
+  Central Asia = 중앙아시아
+  Chan = 선종
+  China = 중국
+  Indian subcontinent = 인도 아대륙
+  Laṅkāvatāra Sūtra = 『능가경』
+  Shaolin = 소림
+  Shaolin kung fu = 소림 쿵후
+  Western Regions = 서역
+  Zen = 선
+  kung fu = 쿵후
+  patriarch = 조사
+  the Buddha = 붓다
+ENTRY:
+Semi-legendary [[Buddhism|Buddhist]] monk traditionally credited with transmitting Chan (Zen) Buddhism to [[China]]. Little contemporary biographical information survives, and later accounts are layered with legend. Chinese sources describe him as coming from the Western Regions, a term that can mean Central Asia or the Indian subcontinent. He is regarded as the first Chinese patriarch of Chan. The 952 *Anthology of the Patriarchal Hall* lists him as the 28th patriarch in a line extending back to the Buddha. His teachings center on meditation and the *Laṅkāvatāra Sūtra*. He is also popularly regarded as the founder of Shaolin kung fu, an idea popularized in the 20th century.
+
+=== KEY: Body_dysmorphic_disorder_10cb88
+HEADWORD: Body dysmorphic disorder = 신체이형장애
+LEVEL: 5
+GLOSSARY:
+  DSM-5 = DSM-5
+  Mental disorder = 정신 질환
+  Muscle = 근육
+  Muscle dysmorphia = 근육 이형증
+  Obsessive–compulsive disorder = 강박 장애
+  dysmorphophobia = 추형 공포증
+ENTRY:
+Mental disorder characterized by an overwhelming preoccupation with a perceived flaw in one's physical appearance. Also called dysmorphophobia, it is placed within the [[Obsessive–compulsive disorder|obsessive–compulsive]] spectrum by the DSM-5. It affects up to 2–3% of the population, usually beginning in adolescence and affecting men and women at roughly similar rates. Sufferers often check and compare the flaw repetitively and avoid social contact that exposes it. Muscle dysmorphia, in which the body is perceived as too small, affects mostly men. The disorder is commonly underdiagnosed and carries high rates of suicidal thoughts.
+
+=== KEY: Body_language_86cfcf
+HEADWORD: Body language = 보디랭귀지
+LEVEL: 4
+GLOSSARY:
+  Nonverbal communication = 비언어적 의사소통
+  Sign language = 수어
+  kinesics = 동작학
+  sign languages = 수어
+ENTRY:
+Type of [[Nonverbal communication|nonverbal communication]] in which physical behaviors, rather than words, convey information. Such behavior includes facial expressions, body posture, gestures, eye movement, touch, and the use of space. Most of it occurs without conscious awareness, and it often complements verbal communication. Some researchers conclude that nonverbal communication accounts for the majority of information transmitted in interpersonal interactions. Interpretation varies across cultures, although societies generally agree on the meanings of specific behaviors. Whether body language is universal is debated. Unlike [[Sign language|sign languages]], it is not a true language. The study of body language is known as kinesics.

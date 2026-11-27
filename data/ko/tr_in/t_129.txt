@@ -1,0 +1,1045 @@
+=== KEY: Geoffrey_Rush_289706
+HEADWORD: Rush, Geoffrey = 러시, 제프리
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Actor = 아카데미 남우주연상
+  Actor = 배우
+  Australian = 오스트레일리아
+  Australian of the Year = 올해의 오스트레일리아인
+  Best Actor = 남우주연상
+  Best Actor in a Play = 연극 남우주연상
+  Captain = 선장
+  Captain Hector Barbossa = 헥터 바르보사 선장
+  Crown = 영국 왕실
+  Death = 죽음
+  Emmy = 에미상
+  Emmy Award = 에미상
+  Exit the King = 『왕은 죽어가다』
+  HBO = HBO
+  Hector = 헥토르
+  Life = 『라이프』
+  Peter = 베드로
+  Peter Sellers = 피터 셀러스
+  Pirates of the Caribbean = 「캐리비안의 해적」
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Award = 프라임타임 에미상
+  Queensland = 퀸즐랜드주
+  Shine = 「샤인」
+  Tony = 토니상
+  Tony Award = 토니상
+  Toowoomba = 투움바
+  Triple Crown = 트리플 크라운
+  Triple Crown of Acting = 연기 3관왕
+  Year = 해
+ENTRY:
+Australian actor. Known for often playing eccentric roles on stage and screen, Rush won the Academy Award for Best Actor for *Shine* (1996) and a Primetime Emmy Award for portraying Peter Sellers in the [[HBO]] film *The Life and Death of Peter Sellers* (2004). He also won the Tony Award for Best Actor in a Play for *Exit the King* (2009), making him the only Australian to achieve the Triple Crown of Acting. His film roles include Captain Hector Barbossa in the *Pirates of the Caribbean* franchise. He was named 2012 Australian of the Year. Born in Toowoomba, [[Queensland]].
+
+=== KEY: Geographic_coordinate_system_f34cb4
+HEADWORD: Geographic coordinate system = 지리 좌표계
+LEVEL: 4
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  Cartesian = 직교 좌표
+  Cartesian coordinates = 데카르트 좌표계
+  Cyrene = 키레네
+  Earth = 지구
+  England = 잉글랜드
+  Equator = 적도
+  Eratosthenes = 에라토스테네스
+  Eratosthenes of Cyrene = 키레네의 에라토스테네스
+  France = 프랑스
+  Geodetic datum = 측지 기준계
+  Geography = 『지리학』
+  Greenwich = 그리니치
+  Greenwich Mean Time = 그리니치 평균시
+  Hipparchus = 히파르코스
+  International Meridian Conference = 국제 자오선 회의
+  Library = 도서관
+  Library of Alexandria = 알렉산드리아 도서관
+  Meridian = 메리디언
+  Ptolemy = 프톨레마이오스
+  Royal Observatory = 왕립 천문대
+  Royal Observatory at Greenwich = 그리니치 왕립 천문대
+  Time = 『타임』
+  basis = 기저
+  latitude = 위도
+  longitude = 경도
+  spatial reference system = 공간 참조 체계
+ENTRY:
+Spherical or geodetic system for measuring and communicating positions on Earth as latitude and longitude. It is the simplest, oldest and most widely used type of spatial reference system, and it forms the basis for most others. Its measurements are angles rather than Cartesian coordinates, and a full specification includes a [[Geodetic datum|geodetic datum]], since different datums yield different coordinates for the same location. The system is credited to [[Eratosthenes|Eratosthenes of Cyrene]], who composed his now-lost *Geography* at the [[Library of Alexandria]] in the 3rd century BC. [[Hipparchus]] determined latitude from stellar measurements and longitude from lunar eclipses. In his 2nd-century *Geography*, [[Ptolemy]] measured latitude from the [[Equator]]. At the International Meridian Conference of 1884, 22 of the 25 nations represented agreed to adopt the longitude of the Royal Observatory at Greenwich, England, as zero. France adopted [[Greenwich Mean Time]] in 1911.
+
+=== KEY: Geographic_information_system_4f0054
+HEADWORD: Geographic information system = 지리 정보 시스템
+LEVEL: 4
+GLOSSARY:
+  Charles Picquet = 샤를 피케
+  Cholera = 콜레라
+  Database = 데이터베이스
+  Earth = 지구
+  Earth science = 지구과학
+  Forestry = 임업
+  French = 프랑스어
+  GIScience = 지리 정보 과학
+  John = 존
+  John Snow = 존 스노
+  London = 런던
+  Paris = 파리
+  Roger Tomlinson = 로저 톰린슨
+  Technical geography = 기술 지리학
+  Urban planning = 도시 계획
+  latitude = 위도
+  longitude = 경도
+  spatial database = 공간 데이터베이스
+ENTRY:
+Integrated computer hardware and software that store, manage, analyze, edit, output and visualize geographic data. A [[Database|spatial database]] is usual but not essential, and in a broader sense a GIS includes human users, procedures and institutions. GIS relates unrelated information through location as the "key index variable," with places recorded by longitude, latitude and elevation. It is used in engineering, [[Urban planning|planning]], transport, insurance, telecommunications and business, as well as in [[Forestry]], ecology and Earth science. Roger Tomlinson first coined the phrase in the mid-1960s, though many underlying methods are older. Early examples come from epidemiology: in 1832 the French cartographer Charles Picquet mapped cholera deaths across 48 districts of Paris, and in 1854 [[John Snow]] traced the source of a [[Cholera]] outbreak in London by plotting casualties' residences against water sources. GIScience, the academic study of these systems, is often considered a subdiscipline of [[Technical geography]].
+
+=== KEY: Geography_84352d
+HEADWORD: Geography = 지리학
+LEVEL: 2
+GLOSSARY:
+  Age of Discovery = 대항해 시대
+  Ancient Greek = 고대 그리스어
+  Association of American Geographers = 미국 지리학자 협회
+  Babylon = 바빌론
+  Cartography = 지도학
+  Cyrene = 키레네
+  Earth = 지구
+  Education = 교육
+  Eratosthenes = 에라토스테네스
+  Eratosthenes of Cyrene = 키레네의 에라토스테네스
+  Geography = 『지리학』
+  Human = 인간
+  Human geography = 인문지리학
+  Middle Ages = 중세
+  Muhammad = 무함마드
+  Muhammad al-Idrisi = 무함마드 알이드리시
+  National Council for Geographic Education = 미국 지리교육협의회
+  New World = 신대륙
+  Physical = 「Physical」
+  Physical geography = 자연지리학
+  Ptolemy = 프톨레마이오스
+  Remote sensing = 원격 탐사
+  Space = 공간
+  Technical geography = 기술 지리학
+  Time = 『타임』
+  World = 세계
+  five themes of geography = 지리의 5대 주제
+  geographic information science = 지리 정보 과학
+  geōgraphía = 게오그라피아
+  planetary science = 행성과학
+ENTRY:
+Study of the lands, features, inhabitants, and phenomena of the planet Earth. The name comes from the Ancient Greek *geōgraphía*, combining *gê* ('Earth') and *gráphō* ('write'). Geography seeks to understand not merely where things are but how they have changed and come to be, and it has been called "a bridge between natural science and social science disciplines." Although specific to Earth, many of its concepts can be applied to other celestial bodies in planetary science.
+
+For something to fall within geography, it generally needs a spatial component that can be placed on a map, such as coordinates, place names, or addresses. This has linked the field to [[Cartography]] and place names, though geographers study the spatial and temporal distribution of phenomena, processes, and features, and the interaction of humans and their environment. Because space and place affect economics, health, climate, plants, and animals, the discipline is highly interdisciplinary. Its core concepts across all approaches are space, place, time, and scale. Space is the most fundamental: absolute space is the exact site or coordinates of what is under investigation, though geographers are now trained to see the world as a dynamic space rather than a static image. Place combines the coordinates, the activity and use that occurs there, and the meaning ascribed to the location by individuals and groups. Time includes modeling the movement of people, organisms, and things through space. Scale, in the context of a map, is the ratio between a distance on the map and the corresponding distance on the ground; phenomena appear different depending on the scale used. The five themes of geography, established in 1984 by guidelines published jointly by the National Council for Geographic Education and the Association of American Geographers, are location, place, relationships within places, movement, and regions.
+
+The main branches are [[Physical geography]], which focuses on the natural environment; [[Human geography]], which concerns how humans interact with the Earth; and [[Technical geography]], which develops tools for understanding geography. Techniques divide into quantitative and qualitative approaches, with many studies using mixed methods. Common techniques include cartography, [[Remote sensing]], interviews, and surveying.
+
+Geography was developed independently by multiple cultures and spread through trade between them. The earliest example of an attempted world map dates to the 9th century BC in ancient Babylon. Many of its concepts originate with the Greek [[Eratosthenes]] of Cyrene, who may have coined the term "geographia"; the first recorded use of the word was as the title of a book by the Greek scholar [[Ptolemy]]. In the Middle Ages, Islamic scholars such as Muhammad al-Idrisi produced detailed maps of the world. The [[Age of Discovery]] influenced the field as European explorers mapped the New World. Modern developments include geomatics and geographic information science.
+
+=== KEY: Geoid_c6a1e8
+HEADWORD: Geoid = 지오이드
+LEVEL: 4
+GLOSSARY:
+  Carl Friedrich Gauss = 카를 프리드리히 가우스
+  Earth = 지구
+  Gauss = 가우스
+  Gladys West = 글래디스 웨스트
+  Global Positioning System = 위성 위치 확인 시스템
+  Iceland = 아이슬란드
+  India = 인도
+  reference ellipsoid = 기준 타원체
+  satellite geodesy = 위성 측지학
+ENTRY:
+Shape that Earth's ocean would take under gravity and rotation alone, without winds or tides. [[Carl Friedrich Gauss]], who first described it, called it the "mathematical figure of the Earth." The geoid results from the uneven distribution of mass within Earth and can be known only through extensive gravitational measurements. It was not defined precisely until satellite geodesy in the mid-20th century, when the mathematician Gladys West first synthesized a high-fidelity geoid from satellite data. The geoid is irregular but considerably smoother than Earth's surface, and its deviation from a reference ellipsoid ranges from +85 m (Iceland) to −106 m (southern India). It serves as a reference surface for heights and is an essential component of satellite-based systems such as the [[Global Positioning System]].
+
+=== KEY: Geologic_time_scale_21225a
+HEADWORD: Geologic time scale = 지질 시대
+LEVEL: 4
+GLOSSARY:
+  Cenozoic = 신생대
+  Commission = 위원회
+  Cretaceous = 백악기
+  Earth = 지구
+  Geochronology = 지질연대학
+  Global Boundary Stratotype Sections and Points = 국제 경계 모식층 단면 및 지점
+  International Commission on Stratigraphy = 국제층서위원회
+  International Union of Geological Sciences = 국제지질과학연맹
+  Mesozoic = 중생대
+  Paleozoic = 고생대
+  Phanerozoic = 현생누대
+  Quaternary = 제4기
+  Stratigraphy = 층서학
+  chronostratigraphy = 연대층서학
+  eon = 누대
+  eras = 대
+  periods = 기
+  radiometric dating = 방사성 연대 측정
+ENTRY:
+Standardized system relating rock strata to geologic time. It arranges the rock record in chronological order using chronostratigraphy, and uses [[Geochronology|geochronology]], such as radiometric dating, to date the boundaries between units. The scale covers about 4.54 ± 0.05 billion years of Earth history. International units are defined by the International Commission on Stratigraphy (ICS), a constituent body of the International Union of Geological Sciences. The [[Phanerozoic]] eon is split into the [[Paleozoic]], [[Mesozoic]] and [[Cenozoic]] eras, each subdivided into periods such as the [[Cretaceous]] and [[Quaternary]]. Boundaries are ratified through Global Boundary Stratotype Sections and Points (GSSPs), which are reference rock layers. The base of the Quaternary was adjusted to 2.58 million years in 2009 on climatic and glacial evidence.
+
+=== KEY: Geological_history_of_Earth_4542ca
+HEADWORD: Geological history of Earth = 지구의 지질학적 역사
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Geologic time scale = 지질 시대
+  Ice age = 빙하 시대
+  Last Glacial Period = 최종 빙기
+  Moon = 달
+  Outgassing = 탈기체
+  Pangaea = 판게아
+  Pannotia = 파노티아
+  Rodinia = 로디니아
+  Sequence = 수열
+  Sun = 태양
+  Supercontinent = 초대륙
+  geologic time scale = 지질 시대표
+  protoplanet = 원시 행성
+  solar nebula = 태양 성운
+ENTRY:
+Sequence of major geological events in Earth's past, dated by the [[Geologic time scale|geologic time scale]]. Earth formed about 4.54 billion years ago by accretion from the solar nebula, the disk of dust and gas left over from the formation of the [[Sun]]. Initially molten from volcanism and collisions, its outer layer cooled into a solid crust once water began accumulating in the atmosphere. The [[Moon]] may have formed after a protoplanet struck Earth. Outgassing and volcanism produced the primordial atmosphere, and condensing water vapor, augmented by ice from asteroids, produced the oceans. Continents formed, broke apart and recombined into [[Supercontinent|supercontinents]]. The earliest known, Rodinia, began to break apart about 750 million years ago; Pannotia formed 600 to 540 million years ago, and [[Pangaea]] broke apart 200 million years ago. The present pattern of [[Ice age|ice ages]] began about 40 million years ago, and the Last Glacial Period ended about 10,000 years ago.
+
+=== KEY: Geology_55fa61
+HEADWORD: Geology = 지질학
+LEVEL: 2
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred Wegener = 알프레트 베게너
+  Ancient Greek = 고대 그리스어
+  Branch = 브랜치
+  Earth = 지구
+  Earth science = 지구과학
+  Earth system science = 지구 시스템 과학
+  Geology = 지질학
+  Igneous rock = 화성암
+  Lithosphere = 암석권
+  Metamorphic rock = 변성암
+  Mid-ocean ridges = 중앙 해령
+  Plate tectonics = 판 구조론
+  Quaternary = 제4기
+  Quaternary geology = 제4기 지질학
+  San Andreas = 샌앤드레이어스
+  San Andreas Fault = 샌안드레아스 단층
+  Sedimentary rock = 퇴적암
+  Seismology = 지진학
+  asthenosphere = 연약권
+  carbonate = 탄산염암
+  continental drift = 대륙 이동설
+  convergent boundaries = 수렴 경계
+  divergent boundaries = 발산 경계
+  evaporite = 증발암
+  geochemistry = 지구화학
+  hydrochloric acid = 염산
+  hydrology = 수문학
+  igneous rock = 화성암
+  inner core = 내핵
+  luster = 광택
+  metamorphic rock = 변성암
+  mineraloids = 준광물
+  outer core = 외핵
+  planetary science = 행성과학
+  plate tectonics = 판 구조론
+  sandstone = 사암
+  seafloor spreading = 해저 확장
+  sedimentary rock = 퇴적암
+  shale = 셰일
+  shear waves = S파
+  specific gravity = 비중
+  streak = 조흔색
+  tectonic plates = 지각판
+  transform boundaries = 변환 경계
+  upper mantle = 상부 맨틀
+ENTRY:
+Branch of natural science concerned with the Earth and other astronomical bodies, the rocks of which they are composed, and the processes by which they change over time. The name comes from the Ancient Greek *gê* ('earth') and *-logía* ('study of, discourse'). Modern geology overlaps all other [[Earth science|Earth sciences]], including hydrology, and is integrated with Earth system science and planetary science.
+
+Geology describes the structure of the Earth on and beneath its surface and the processes that have shaped it. Geologists study the mineralogical composition of rocks to gain insight into their history of formation. Geology determines the relative ages of rocks found at a given location, while geochemistry, a branch of geology, determines their absolute ages. By combining petrological, crystallographic, and paleontological tools, geologists chronicle the history of the Earth as a whole, including its age. The discipline provides evidence for [[Plate tectonics|plate tectonics]], the evolutionary history of life, and the Earth's past climates. Its methods include fieldwork, rock description, geophysical techniques, chemical analysis, physical experiments, and numerical modeling. In practical terms it is important for mineral and hydrocarbon exploration, evaluating water resources, understanding natural hazards, remediating environmental problems, and understanding past climate change, and it is central to geological and geotechnical engineering.
+
+Most geological data come from solid Earth materials, though meteorites and other extraterrestrial materials are also studied. Minerals are naturally occurring elements and compounds with a definite homogeneous chemical composition and an ordered atomic arrangement. They are identified by tests of color, streak, hardness, breakage pattern (fracture or cleavage), luster, specific gravity, effervescence in hydrochloric acid, magnetism, and sometimes taste. A rock is any naturally occurring solid mass or aggregate of minerals or mineraloids. There are three major types: an [[Igneous rock|igneous rock]] solidifies or crystallizes from melt (magma or lava); a [[Sedimentary rock|sedimentary rock]] forms when weathered and eroded material is redeposited and lithified, and falls mainly into four categories (sandstone, shale, carbonate, and evaporite); and a [[Metamorphic rock|metamorphic rock]] forms when heat and pressure change the mineral content of the other types. All three may melt again, forming new magma. Unlithified superficial deposits lying above the bedrock are studied as Quaternary geology.
+
+In the 1960s it was discovered that the Earth's [[Lithosphere|lithosphere]], which includes the crust and the rigid uppermost mantle, is separated into tectonic plates that move across the plastically deforming upper mantle, the asthenosphere. The theory is supported by observations including seafloor spreading and the global distribution of mountain terrain and seismicity. Plate motion is coupled with the convection of the mantle. Mid-ocean ridges are divergent boundaries, where plates move apart; arcs of volcanoes and earthquakes mark convergent boundaries, where one plate subducts under another; and transform boundaries, such as the [[San Andreas Fault]] system, are where plates slide horizontally past each other. Plate tectonics provided a mechanism for [[Alfred Wegener]]'s theory of continental drift and has been called a "grand unifying theory of geology". Seismology has shown a liquid outer core, where shear waves cannot propagate, and a dense solid inner core.
+
+=== KEY: Geometer_moth_b00494
+HEADWORD: Geometer moth = 자나방
+LEVEL: 4
+GLOSSARY:
+  Butterfly = 나비
+  Family = 가족
+  Lepidoptera = 나비목
+  fall cankerworm = 가을자벌레나방
+  inchworms = 자벌레
+  peppered moth = 회색가지나방
+  population genetics = 집단유전학
+  prolegs = 배다리
+  winter moth = 겨울자나방
+ENTRY:
+Family of moths in the order [[Lepidoptera]], named for the looping gait of its caterpillars. The name derives from Greek *geo* ("earth") and *metron* ("measure"), because the larvae, called inchworms, loopers or spanworms, appear to measure the ground as they move. Many geometrid caterpillars have only two or three pairs of prolegs at the rear instead of the usual five. Many are green, gray or brown and hide by resembling twigs. Adults have slender abdomens and broad wings usually held flat, which makes them look [[Butterfly|butterfly]]-like, though they are typical moths; most fly at night. The family includes the peppered moth, *Biston betularia*, which has been widely studied in population genetics, and several notorious pests, among them the fall cankerworm and winter moth.
+
+=== KEY: Geometric_distribution_645dd4
+HEADWORD: Geometric distribution = 기하 분포
+LEVEL: 5
+GLOSSARY:
+  Bernoulli trials = 베르누이 시행
+  Discrete probability distribution = 이산 확률 분포
+  Exponential distribution = 지수 분포
+  memoryless = 무기억성
+ENTRY:
+Discrete probability distribution for the number of independent trials needed to get a first success. It takes two forms: the number X of Bernoulli trials until one success, supported on 1, 2, 3, …, and the number Y = X − 1 of failures before the first success, supported on 0, 1, 2, …. If each trial succeeds with probability p, then P(X = k) = (1 − p)ᵏ⁻¹p. It is the only memoryless discrete distribution, the discrete counterpart of the [[Exponential distribution|exponential distribution]]. Rolling a six-sided die until a 1 appears gives a geometric distribution with p = 1/6.
+
+=== KEY: Geometric_series_a984d8
+HEADWORD: Geometric series = 기하급수
+LEVEL: 5
+GLOSSARY:
+  Archimedes = 아르키메데스
+  Parabola = 포물선
+  Zeno's paradoxes = 제논의 역설
+  common ratio = 공비
+  geometric progression = 등비수열
+  geometric series = 등비급수
+  infinite series = 무한급수
+ENTRY:
+Sum of the terms of a geometric progression, in which each term is the previous term multiplied by a constant common ratio *r*. The finite sum *a* + *ar* + … + *arⁿ* equals *a*(1 − *r*ⁿ⁺¹)/(1 − *r*) for *r* ≠ 1. For |*r*| < 1, the infinite series converges to *a*/(1 − *r*); for example, ½ + ¼ + ⅛ + … sums to 1. [[Zeno's paradoxes]] of the 5th century BCE have been interpreted as involving geometric series, which Greek mathematicians later studied formally. [[Archimedes]] used one to calculate the area inside a [[Parabola|parabola]] in the 3rd century BCE.
+
+=== KEY: Geometry_d9c633
+HEADWORD: Geometry = 기하학
+LEVEL: 2
+GLOSSARY:
+  Archimedes = 아르키메데스
+  Aryabhatiya = 『아리아바티야』
+  Brahmagupta = 브라마굽타
+  Branch = 브랜치
+  Descartes = 데카르트
+  Egypt = 이집트
+  Elements = 『원론』
+  Euclid = 에우클레이데스
+  Euclid's Elements = 『원론』
+  Euclidean = 유클리드
+  Euclidean geometry = 유클리드 기하학
+  Euclidean space = 유클리드 공간
+  Eudoxus = 에우독소스
+  Fermat's Last Theorem = 페르마의 마지막 정리
+  Ibn al-Haytham = 이븐 알하이삼
+  Islam = 이슬람교
+  Mesopotamia = 메소포타미아
+  Miletus = 밀레투스
+  Moscow = 모스크바
+  Moscow Papyrus = 모스크바 파피루스
+  Nasir al-Din al-Tusi = 나시르 알딘 알투시
+  Non-Euclidean geometry = 비유클리드 기하학
+  Omar Khayyam = 오마르 하이얌
+  Papyrus = 파피루스
+  Plimpton 322 = 플림프턴 322
+  Pythagorean = 피타고라스학파
+  Pythagorean School = 피타고라스학파
+  Pythagorean theorem = 피타고라스 정리
+  René Descartes = 르네 데카르트
+  Rhind Papyrus = 린드 파피루스
+  Riemannian geometry = 리만 기하학
+  School = 학교
+  Thales = 탈레스
+  Thales of Miletus = 밀레토스의 탈레스
+  Theorem = 정리
+  Theorema Egregium = 빼어난 정리
+  affine geometry = 아핀 기하학
+  al-Mahani = 알마하니
+  algebraic geometry = 대수기하학
+  analytic geometry = 해석기하학
+  axiomatic method = 공리적 방법
+  clay tablets = 점토판
+  cubic equations = 삼차 방정식
+  cyclic quadrilateral = 내접 사각형
+  discrete geometry = 이산기하학
+  duplicating the cube = 배적 문제
+  finite geometry = 유한 기하학
+  general relativity = 일반 상대성 이론
+  geometer = 기하학자
+  hyperbolic geometry = 쌍곡 기하학
+  infinite series = 무한급수
+  manifolds = 다양체
+  method of exhaustion = 실진법
+  non-Euclidean geometries = 비유클리드 기하학
+  parallel postulate = 평행선 공준
+  projective geometry = 사영기하학
+  Śulba Sūtras = 『술바 수트라』
+ENTRY:
+Branch of mathematics concerned with properties of space such as the distance, shape, size, and relative position of figures. With arithmetic, it is one of the oldest branches of mathematics, and a mathematician working in the field is called a geometer. Until the 19th century it was almost exclusively devoted to [[Euclidean geometry]], whose fundamental concepts are point, line, plane, distance, angle, surface, and curve. Originally developed to model the physical world, geometry has applications in almost all sciences and in art, architecture, and other activities related to graphics. It also serves apparently unrelated areas of mathematics: methods of algebraic geometry are fundamental in Wiles's proof of [[Fermat's Last Theorem]], a problem stated in terms of elementary arithmetic.
+
+The earliest recorded beginnings lie in ancient Mesopotamia and Egypt in the 2nd millennium BC, where empirically discovered principles of lengths, angles, areas, and volumes met practical needs in surveying, construction, astronomy, and crafts. The earliest known texts are the Egyptian Rhind Papyrus (2000–1800 BC) and Moscow Papyrus (c. 1890 BC), and Babylonian clay tablets such as Plimpton 322 (1900 BC). In the 7th century BC the Greek mathematician Thales of Miletus used geometry to calculate the height of pyramids and the distance of ships from shore, and is credited with the first use of deductive reasoning in geometry. The Pythagorean School is credited with the first proof of the [[Pythagorean theorem]]. Eudoxus developed the method of exhaustion for areas and volumes of curvilinear figures. Around 300 BC, [[Euclid]]'s *Elements* introduced mathematical rigor through the axiomatic method and is the earliest example of the format still used in mathematics, that of definition, axiom, theorem, and proof; it was known to all educated people in the West until the middle of the 20th century. [[Archimedes]] used the method of exhaustion to find the area under the arc of a parabola by summing an infinite series and gave accurate approximations of pi.
+
+Indian mathematicians also contributed. The Śulba Sūtras contain the earliest extant verbal expression of the Pythagorean theorem, Aryabhata's *Aryabhatiya* (499) includes computation of areas and volumes, and Brahmagupta in 628 stated his theorem on the diagonals of a cyclic quadrilateral. In medieval Islam, al-Mahani conceived of reducing geometrical problems such as duplicating the cube to algebra, and [[Omar Khayyam]] found geometric solutions to cubic equations. Work by Ibn al-Haytham, Khayyam, and Nasir al-Din al-Tusi on quadrilaterals was part of research on the parallel postulate that European geometers continued, leading by the 19th century to hyperbolic geometry. In the early 17th century René Descartes created analytic geometry, geometry with coordinates and equations.
+
+The 19th century dramatically enlarged the field. Carl Friedrich Gauss's *Theorema Egregium* showed that the curvature of a surface is independent of any embedding in Euclidean space, so surfaces can be studied intrinsically; this grew into the theory of manifolds and [[Riemannian geometry]]. Geometries without the parallel postulate, the [[Non-Euclidean geometry|non-Euclidean geometries]], were shown to be free of contradiction, and the geometry underlying general relativity is a prominent application. Since the late 19th century, geometry has split into many subfields, including differential, algebraic, computational, and discrete geometry, algebraic topology, projective geometry, affine geometry, and finite geometry. The word "space" now denotes a mathematical structure on which some geometry is defined.
+
+=== KEY: Geomorphology_1f7046
+HEADWORD: Geomorphology = 지형학
+LEVEL: 4
+GLOSSARY:
+  Climatology = 기후학
+  Geodesy = 측지학
+  Geology = 지질학
+  Glacier = 빙하
+  Moraine = 빙퇴석
+  Sediment = 퇴적물
+  Surface = 서피스
+  bathymetric = 해저 지형의
+  fluvial geomorphology = 하천 지형학
+  sedimentary basins = 퇴적 분지
+ENTRY:
+Scientific study of the origin and evolution of topographic and bathymetric features generated by physical, chemical or biological processes at or near Earth's surface. Geomorphologists explain why landscapes look as they do and predict change through field observations, physical experiments and numerical modeling. Surface processes include the action of water, wind, ice, wildfire and life, along with soil-forming reactions and gravity. Geologic processes such as mountain uplift, volcanic growth and the formation of sedimentary basins also shape landscapes, and climate and tectonics can feed back on each other. Subfields include [[Glacier|glacial]] geomorphology, which studies [[Moraine|moraines]] and other deposits, and fluvial geomorphology, which studies how rivers transport [[Sediment|sediment]] and cut bedrock. The field draws on [[Geology]], [[Geodesy]] and [[Climatology]].
+
+=== KEY: Geophysics_432d78
+HEADWORD: Geophysics = 지구 물리학
+LEVEL: 4
+GLOSSARY:
+  Cryosphere = 빙권
+  Earth = 지구
+  Moon = 달
+  Physical = 「Physical」
+  Plate tectonics = 판 구조론
+  Tide = 조석
+  ionosphere = 전리층
+  magnetosphere = 자기권
+  mantle convection = 맨틀 대류
+  plate tectonics = 판 구조론
+  remote sensing = 원격 탐사
+  seismometers = 지진계
+  signal processing = 신호 처리
+ENTRY:
+Physical science concerned with the processes and properties of Earth and its surrounding space environment, studied by quantitative and observational methods. It focuses on Earth's shape, its gravitational, magnetic and electromagnetic fields, and its internal structure and dynamics, including [[Plate tectonics|tectonics]] and volcanism. The field also covers the oceans, atmosphere, [[Cryosphere]], ionosphere and magnetosphere, and analogous processes on the [[Moon]] and other planets. One of the oldest sciences, it dates to early seismometers and magnetic compasses and later to Newtonian analyses of [[Tide|tides]]. Methods include field measurements, laboratory experiments, remote sensing, numerical modeling and signal processing. Seismic waves recorded at several locations can locate earthquakes, which informs knowledge of plate tectonics and mantle convection. Applications include mineral and energy exploration, natural hazard mitigation and groundwater studies.
+
+=== KEY: Georg_Cantor_853f35
+HEADWORD: Cantor, Georg = 칸토어, 게오르크
+LEVEL: 4
+GLOSSARY:
+  Cantor = 칸토어
+  David Hilbert = 다비트 힐베르트
+  German = 독일어
+  God = 신
+  Henri Poincaré = 앙리 푸앵카레
+  Hilbert = 힐베르트
+  Leopold = 레오폴트
+  Leopold Kronecker = 레오폴트 크로네커
+  Ludwig = 루트비히
+  Ludwig Wittgenstein = 루트비히 비트겐슈타인
+  Lutheran = 루터교
+  Natural number = 자연수
+  Poincaré = 푸앵카레
+  Real number = 실수
+  Royal Society = 왕립 학회
+  Set theory = 집합론
+  Society = 사회
+  Sylvester Medal = 실베스터 메달
+  Wittgenstein = 비트겐슈타인
+  bipolar disorder = 양극성 장애
+  cardinal and ordinal numbers = 기수와 서수
+  natural numbers = 자연수
+  one-to-one correspondence = 일대일 대응
+  ordinal numbers = 서수
+  real numbers = 실수
+  set theory = 집합론
+  transfinite numbers = 초한수
+  well-ordered sets = 정렬 집합
+ENTRY:
+German mathematician who helped create [[Set theory|set theory]], now a fundamental theory in mathematics. He established the importance of one-to-one correspondence between sets, defined infinite and well-ordered sets, and proved that the [[Real number|real numbers]] are more numerous than the [[Natural number|natural numbers]]. His method implies an infinity of infinities, and he defined cardinal and ordinal numbers and their arithmetic. His theory of transfinite numbers met resistance from contemporaries including Leopold Kronecker, [[Henri Poincaré]] and [[Ludwig Wittgenstein]]. [[David Hilbert]] defended the work against its critics. The Royal Society awarded Cantor its Sylvester Medal in 1904. A devout Lutheran, Cantor believed the theory had been communicated to him by God. His recurring depression from 1884 has been blamed on hostile reception, and some have attributed it to bipolar disorder.
+
+=== KEY: Georg_Ohm_00a53b
+HEADWORD: Ohm, Georg = 옴, 게오르크
+LEVEL: 4
+GLOSSARY:
+  Alessandro Volta = 알레산드로 볼타
+  Cologne = 쾰른
+  Copley Medal = 코플리 메달
+  German = 독일어
+  Jesuit = 예수회
+  Jesuit Gymnasium = 예수회 김나지움
+  Munich = 뮌헨
+  Ohm = 옴
+  Ohm's law = 옴의 법칙
+  Royal Society = 왕립 학회
+  Society = 사회
+  University = 대학
+  Volta = 볼타강
+  electrochemical cell = 전지
+  potential difference = 전위차
+ENTRY:
+German mathematician and physicist. As a school teacher, Ohm began research with the new electrochemical cell invented by Italian scientist [[Alessandro Volta]]. Using equipment of his own creation, he found that the potential difference (voltage) applied across a conductor is directly proportional to the resulting electric current, a relation known as [[Ohm's law]]. He published this in *Die galvanische Kette, mathematisch bearbeitet* (1827), but the work initially met resistance, partly because of its emphasis on mathematical modeling over empirical description. He taught at the Jesuit Gymnasium of [[Cologne]] from 1817, and in 1852 was appointed to the chair of physics at the University of [[Munich]]. The Royal Society awarded him the Copley Medal in 1841. The unit of electrical resistance, the [[Ohm]], was adopted internationally in 1881.
+
+=== KEY: Georg_Wilhelm_Friedrich_Hegel_a0a5dc
+HEADWORD: Hegel, Georg Wilhelm Friedrich = 헤겔, 게오르크 빌헬름 프리드리히
+LEVEL: 4
+GLOSSARY:
+  Dialectic = 변증법
+  Enlightenment = 계몽주의
+  Existentialism = 실존주의
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  Geist = 정신
+  German = 독일어
+  German idealism = 독일 관념론
+  Hegel = 헤겔
+  Hegelian = 헤겔
+  Karl Marx = 카를 마르크스
+  Logic = 논리학
+  Marx = 마르크스
+  Napoleonic Wars = 나폴레옹 전쟁
+  Phenomenology of Spirit = 『정신현상학』
+  Right and Left Hegelian camps = 헤겔 우파와 헤겔 좌파
+  Romanticism = 낭만주의
+  Science of Logic = 『논리학』
+  Stuttgart = 슈투트가르트
+  University = 대학
+  University of Berlin = 베를린 대학교
+  absolute idealism = 절대적 관념론
+ENTRY:
+German philosopher and a major figure of German idealism. Born in [[Stuttgart]], Hegel lived through the transition from the Enlightenment to Romanticism, and his thought was shaped by the [[French Revolution]] and the [[Napoleonic Wars]]. His principal achievement was a comprehensive system of absolute idealism in which reality is a unified whole, centered on *Geist* ("spirit"), humankind coming to know itself through rational historical development. His [[Dialectic|dialectical]] method reveals the contradictions in concepts and resolves them in a higher unity that both cancels and preserves the earlier stage. The *Phenomenology of Spirit* (1807) and *Science of Logic* (1812–1816) set out this system. He held the chair of philosophy at the University of Berlin. After his death his followers split into Right and Left Hegelian camps; the Left, including [[Karl Marx]], adapted his method for materialist critiques of religion and society. His thought became a major reference point for [[Existentialism]].
+
+=== KEY: George_Armstrong_Custer_fa075b
+HEADWORD: Custer, George Armstrong = 커스터, 조지 암스트롱
+LEVEL: 5
+GLOSSARY:
+  7th Cavalry = 제7기병연대
+  7th Cavalry Regiment = 제7기병연대
+  American Civil War = 남북 전쟁
+  Battle of Gettysburg = 게티즈버그 전투
+  Battle of the Little Bighorn = 리틀빅혼 전투
+  Brigade = 브리게이드
+  Cavalry = 기병
+  Civil War = 남북 전쟁
+  Confederate = 남부 연합
+  Custer's Last Stand = 커스터의 최후의 저항
+  Gettysburg = 게티즈버그
+  J. E. B. Stuart = J. E. B. 스튜어트
+  Michigan = 미시간주
+  Michigan Brigade = 미시간 여단
+  Plains = 대평원
+  Plains tribes = 대평원 원주민 부족
+  Stand = 신분
+  United States = 미국
+  United States Military Academy = 미국 육군사관학교
+  West Point = 웨스트포인트
+  brevet general = 명예 진급 장군
+ENTRY:
+United States cavalry commander. Custer graduated last in his class at the [[United States Military Academy|West Point]] in 1861, as the [[American Civil War]] began. He rose to brevet general during the war, commanding the Michigan Brigade at the [[Battle of Gettysburg]] and defeating Confederate cavalry under J. E. B. Stuart. After the war he led the 7th Cavalry Regiment in campaigns against Plains tribes. He was killed at the [[Battle of the Little Bighorn]] along with every soldier of the five companies he led, an event known as "Custer's Last Stand." Assessments of his judgment there remain divided, with some blaming tactical overreach and others intelligence failures.
+
+=== KEY: George_Balanchine_a63e71
+HEADWORD: Balanchine, George = 발란친, 조지
+LEVEL: 4
+GLOSSARY:
+  Agon = 「아곤」
+  Ballet = 발레
+  Broadway = 브로드웨이
+  City = 도시
+  Georgian = 조지아계
+  Hollywood = 할리우드
+  Igor Stravinsky = 이고리 스트라빈스키
+  Imperial Ballet = 황실 발레단
+  Imperial Ballet School = 황실 발레 학교
+  Jewels = 「주얼스」
+  Lincoln Kirstein = 링컨 커스틴
+  New York City = 뉴욕
+  New York City Ballet = 뉴욕 시티 발레단
+  Petersburg = 피터즈버그
+  Saint = 성인
+  Saint Petersburg = 상트페테르부르크
+  School = 학교
+  School of American Ballet = 스쿨 오브 아메리칸 발레
+  Stravinsky = 스트라빈스키
+  United States = 미국
+  York = 요크
+  neoclassical style = 신고전주의 양식
+ENTRY:
+Ballet choreographer of Georgian descent. Born in [[Saint Petersburg|Saint Petersburg]], Balanchine trained at the Imperial Ballet School and fused classical technique with styles he encountered on Broadway and in Hollywood to create his "neoclassical style." Invited to the [[United States]] in 1933 by arts patron Lincoln Kirstein, he co-founded the School of American Ballet in 1934 and the New York City Ballet in 1948, remaining its artistic director for more than 35 years. His works are often plotless ballets with minimal costume and décor, set to classical and neoclassical music. He worked closely with [[Igor Stravinsky]] and created more than 465 ballets, including *Agon* (1957) and *Jewels* (1967), the first full-length plotless ballet. He is styled the father of American ballet.
+
+=== KEY: George_Berkeley_e77121
+HEADWORD: Berkeley, George = 버클리, 조지
+LEVEL: 4
+GLOSSARY:
+  Anglo-Irish = 앵글로아일랜드계
+  Bermuda = 버뮤다
+  Bishop of Cloyne = 클로인 주교
+  Calculus = 미적분학
+  California = 캘리포니아주
+  David Hume = 데이비드 흄
+  Dialogues = 『대화』
+  Human = 인간
+  Hume = 흄
+  Hylas = 하일라스
+  Immanuel Kant = 이마누엘 칸트
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  John = 존
+  John Locke = 존 로크
+  Kant = 칸트
+  Knowledge = 지식
+  Locke = 로크
+  The Analyst = 『분석자』
+  Three Dialogues Between Hylas and Philonous = 『하일라스와 필로누스의 세 대화』
+  University = 대학
+  University of California, Berkeley = 캘리포니아 대학교 버클리
+  immaterialism = 비물질론
+ENTRY:
+Anglo-Irish philosopher and bishop. Berkeley is regarded as the founder of immaterialism, which holds that material substance does not exist and that familiar objects are ideas perceived by minds. In *A Treatise Concerning the Principles of Human Knowledge* (1710) and *Three Dialogues Between Hylas and Philonous* (1713), he set out this view, with Hylas representing his opponents, in particular [[John Locke]]. He argued against [[Isaac Newton]]'s doctrine of absolute space, time and motion, and in *The Analyst* (1734) criticized the foundations of [[Calculus]]. His ideas influenced [[David Hume]] and [[Immanuel Kant]]. He served as Bishop of Cloyne from 1734 and pursued a failed plan for a missionary college in [[Bermuda]]. The city of Berkeley and [[University of California, Berkeley|the University of California, Berkeley]] are named after him.
+
+=== KEY: George_Bernard_Shaw_6c079b
+HEADWORD: Shaw, George Bernard = 쇼, 조지 버나드
+LEVEL: 4
+GLOSSARY:
+  Academy Award = 아카데미상
+  Benito Mussolini = 베니토 무솔리니
+  Dublin = 더블린
+  Eugenics = 우생학
+  First World War = 제1차 세계 대전
+  Henrik Ibsen = 헨리크 입센
+  Irish = 아일랜드어
+  Joseph Stalin = 이오시프 스탈린
+  Literature = 문학
+  London = 런던
+  Major Barbara = 『바버라 소령』
+  Nobel Prize = 노벨상
+  Nobel Prize in Literature = 노벨 문학상
+  Pygmalion = 『피그말리온』
+  Saint = 성인
+  Saint Joan = 『성녀 조앤』
+  Stalin = 스탈린
+  World = 세계
+  alphabet reform = 알파벳 개혁
+ENTRY:
+Irish playwright, critic, polemicist, and political activist. Born in Dublin, Shaw moved to London in 1876 and became a respected theater and music critic by the mid-1880s. Influenced by [[Henrik Ibsen|Ibsen]], he used his plays to promote his political, social, and religious ideas. His successes included *Major Barbara*, *Pygmalion* (1913), and *Saint Joan* (1923), and he wrote more than 60 plays. He won the 1925 Nobel Prize in Literature and an Academy Award for the 1938 film version of *Pygmalion*. Shaw promoted [[Eugenics|eugenics]] and alphabet reform, opposed vaccination, and in later years expressed admiration for both [[Benito Mussolini|Mussolini]] and [[Joseph Stalin|Stalin]]. He courted unpopularity by denouncing both sides in the First World War as equally culpable.
+
+=== KEY: George_Best_487799
+HEADWORD: Best, George = 베스트, 조지
+LEVEL: 5
+GLOSSARY:
+  Alcoholism = 알코올 의존증
+  Belfast = 벨파스트
+  Celebrity = 유명인
+  European Cup = 유러피언컵
+  European Footballer of the Year = 유럽 올해의 축구 선수
+  Ireland = 아일랜드
+  Irish = 아일랜드어
+  Manchester = 맨체스터
+  Manchester United = 맨체스터 유나이티드
+  Northern Ireland = 북아일랜드
+  Northern Irish = 북아일랜드
+  Year = 해
+  liver transplant = 간 이식
+  right winger = 라이트 윙어
+ENTRY:
+Northern Irish footballer, a right winger who spent most of his club career at Manchester United. Born in [[Belfast]], he scored 179 goals in 470 appearances for the club and won two League titles and the European Cup. Named European Footballer of the Year in 1968, he became one of the first media [[Celebrity|celebrity]] footballers. He was capped 37 times for Northern Ireland but never played in the finals of a major tournament. [[Alcoholism]] affected him on and off the field for the rest of his life, and he died of complications from immunosuppressive drugs taken after a 2002 liver transplant.
+
+=== KEY: George_Boole_69b8ec
+HEADWORD: Boole, George = 불, 조지
+LEVEL: 4
+GLOSSARY:
+  Boolean algebra = 불 대수
+  Claude = 클로드
+  Claude Shannon = 클로드 섀넌
+  Cork = 코르크
+  Cork (city) = 코크
+  Information = 정보
+  Information Age = 정보화 시대
+  Ireland = 아일랜드
+  Keith Medal = 키스 메달
+  Logic = 논리학
+  Queen's College = 퀸스 칼리지
+  The Laws of Thought = 『사고의 법칙』
+  Victor Shestakov = 빅토르 셰스타코프
+ENTRY:
+English mathematician and philosopher. Largely self-taught in mathematics after becoming the family breadwinner at 16, Boole transformed [[Logic|logic]] from a philosophical study of language into a mathematical system of algebraic equations using binary values and logical operators. In 1847 he developed [[Boolean algebra]], which is contained in *The Laws of Thought* (1854). In 1849 he became the first professor of mathematics at Queen's College, [[Cork (city)|Cork]], in Ireland. [[Claude Shannon]] and Victor Shestakov later used Boolean algebra to optimize electromechanical relay systems, a step that led to modern electronic digital computers. Boolean logic is credited with helping to lay the foundations of the [[Information Age]]. He received the Royal Society's first gold prize for mathematics and the Keith Medal.
+
+=== KEY: George_Burns_b8fd86
+HEADWORD: Burns, George = 번스, 조지
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Supporting Actor = 아카데미 남우조연상
+  Actor = 배우
+  Best Supporting Actor = 남우조연상
+  Burns and Allen = 번스 앤드 앨런
+  City = 도시
+  God = 신
+  Gracie Allen = 그레이시 앨런
+  Nathan Birnbaum = 네이선 번바움
+  New York City = 뉴욕
+  The Sunshine Boys = 「선샤인 보이스」
+  Vaudeville = 보드빌
+  York = 요크
+ENTRY:
+American comedian, actor, writer, and singer, born Nathan Birnbaum in [[New York City]]. His career spanned [[Vaudeville|vaudeville]], radio, film, and television, and with his wife, Gracie Allen, he formed the comedy duo Burns and Allen. His arched eyebrow and cigar smoke became trademarks. At age 79 he revived his career in *The Sunshine Boys* (1975), winning the Academy Award for Best Supporting Actor. He later played [[God]] in the *Oh, God!* films.
+
+=== KEY: George_C_Marshall_c3f7b6
+HEADWORD: Marshall, George C. = 마셜, 조지 C.
+LEVEL: 4
+GLOSSARY:
+  Chiang Kai-shek = 장제스
+  China = 중국
+  Communists = 공산당
+  General of the Army = 육군 원수
+  Korean War = 한국 전쟁
+  Mao Zedong = 마오쩌둥
+  Marshall = 마셜 제도
+  Marshall Plan = 마셜 플랜
+  Nationalists = 국민당
+  Nobel Peace Prize = 노벨 평화상
+  Peace = 평화
+  Secretary of Defense = 국방 장관
+  Secretary of State = 국무 장관
+  U.S. Army = 미국 육군
+  Winston Churchill = 윈스턴 처칠
+  World = 세계
+  World War II = 제2차 세계 대전
+  organizer of victory = 승리의 조직자
+ENTRY:
+American military officer and diplomat. As Chief of Staff of the U.S. Army during [[World War II]], he coordinated Allied operations and was promoted to five-star rank as General of the Army. [[Winston Churchill]] praised him as the "organizer of victory." As Secretary of State from 1947 to 1949, he advocated European recovery, and the Marshall Plan bears his name. It earned him the 1953 Nobel Peace Prize, the only Army general to receive it. In 1945–1947 he was a special envoy to China, seeking unsuccessfully to form a coalition between the Nationalists of [[Chiang Kai-shek]] and the Communists of [[Mao Zedong]]. As Secretary of Defense after the [[Korean War]] began, he worked to restore the military's confidence and morale.
+
+=== KEY: George_C_Scott_bba793
+HEADWORD: Scott, George C. = 스콧, 조지 C.
+LEVEL: 5
+GLOSSARY:
+  12 Angry Men = 「12인의 성난 사람들」
+  Academy Award = 아카데미상
+  Academy Award for Best Actor = 아카데미 남우주연상
+  Actor = 배우
+  Anatomy = 해부학
+  Anatomy of a Murder = 「살인의 해부」
+  Best Actor = 남우주연상
+  Dr. Strangelove = 「닥터 스트레인지러브」
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  General George S. Patton = 조지 S. 패턴 장군
+  George S. Patton = 조지 S. 패튼
+  Hallmark Hall of Fame = 「홀마크 명예의 전당」
+  Murder = 살인
+  Patton = 「패튼 대전차 군단」
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Awards = 프라임타임 에미상
+  The Hustler = 「허슬러」
+ENTRY:
+American stage and screen actor. Known for stern but complex authority figures, Scott won the Academy Award for Best Actor for playing General George S. Patton in *Patton* (1970) but became the first actor to decline the award, arguing that performances cannot be compared. His other Oscar-nominated films include *Anatomy of a Murder* (1959) and *The Hustler* (1961), and his notable films also include *Dr. Strangelove* (1964). He won two Primetime Emmy Awards, for his performances in *Hallmark Hall of Fame* (1971) and *12 Angry Men* (1997).
+
+=== KEY: George_Carlin_beae66
+HEADWORD: Carlin, George = 칼린, 조지
+LEVEL: 4
+GLOSSARY:
+  Album = 앨범
+  Best Comedy Album = 최우수 코미디 앨범상
+  Court = 법원
+  FCC v. Pacifica Foundation = 연방 통신 위원회 대 퍼시피카 재단 사건
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  HBO = HBO
+  Johnny Carson = 조니 카슨
+  Night = 『밤』
+  Saturday Night = 「새터데이 나이트」
+  Saturday Night Live = 「새터데이 나이트 라이브」
+  Supreme Court = 연방 대법원
+  The Tonight Show = 「투나잇 쇼」
+  The Tonight Show Starring Johnny Carson = 「자니 카슨의 투나잇 쇼」
+  Tonight = 「Tonight」
+  seven dirty words = 일곱 가지 더러운 단어
+  stand-up comedian = 스탠드업 코미디언
+ENTRY:
+American stand-up comedian, satirist, social critic, actor, and author. His routines combined dark comedy with commentary on politics, language, psychology, and religion, and from the late 1980s focused on criticism of American society. His "seven dirty words" routine was central to the 1978 Supreme Court case FCC v. Pacifica Foundation, in which a 5–4 decision affirmed the government's power to censor indecent material on public airwaves. He hosted the first episode of [[Saturday Night Live]] in 1975 and was a frequent performer on *The Tonight Show Starring Johnny Carson*. He made 14 stand-up specials for [[HBO]] and won five [[Grammy Awards]] for Best Comedy Album.
+
+=== KEY: George_Clooney_0443b1
+HEADWORD: Clooney, George = 클루니, 조지
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Picture = 아카데미 작품상
+  Academy Award for Best Supporting Actor = 아카데미 남우조연상
+  Activism = 행동주의
+  Actor = 배우
+  Argo = 「아르고」
+  Best Picture = 작품상
+  Best Supporting Actor = 남우조연상
+  Doug Ross = 더그 로스
+  ER (TV series) = 「ER」
+  Messenger of Peace = 평화 대사
+  NBC = NBC
+  Night = 『밤』
+  Peace = 평화
+  Syriana = 「시리아나」
+  United Nations = 국제 연합
+  United Nations Messenger of Peace = 유엔 평화 대사
+ENTRY:
+American actor and filmmaker. He broke through as Dr. Doug Ross in the NBC medical drama [[ER (TV series)|ER]] (1994–1999) and won the Academy Award for Best Supporting Actor for *Syriana* (2005). He received the Academy Award for Best Picture as a producer of *Argo* (2012). He has directed nine feature films, including *Good Night, and Good Luck* (2005). He has been a United Nations Messenger of Peace since 2008 and is noted for political and economic [[Activism|activism]].
+
+=== KEY: George_Curzon_1st_Marquess_Curzon_of_Kedleston_c7a57d
+HEADWORD: Curzon, George Nathaniel = 커즌, 조지 너새니얼
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Bengal = 벵골
+  Central Asia = 중앙아시아
+  Conservative = 보수당
+  Curzon Line = 커즌선
+  Far East = 극동
+  Foreign Secretary = 외무 장관
+  India = 인도
+  Kitchener = 키치너
+  Lausanne = 로잔
+  Lord Kitchener = 키치너 경
+  Mahal = 「마할」
+  Russia = 러시아
+  Russian = 러시아어
+  Taj Mahal = 타지마할
+  Treaty = 조약
+  Treaty of Lausanne = 로잔 조약
+  Turkey = 튀르키예
+  Viceroy of India = 인도 총독
+  partition of Bengal = 벵골 분할
+ENTRY:
+British statesman, Conservative politician, explorer, and writer. [[India|Viceroy of India]] from 1899 to 1905, he pursued administrative reforms and undertook the restoration of the [[Taj Mahal]]. In 1905 he presided over the partition of Bengal and resigned that year after a clash with Lord Kitchener over military organization. As Foreign Secretary from 1919 to 1924, he was chief Allied negotiator of the 1922 Treaty of Lausanne, which defined the borders of modern [[Turkey]]. His name was given to the Curzon Line, Britain's proposed Soviet-Polish boundary. Earlier he traveled widely in [[Russia]], Central Asia, and the Far East, and wrote about the perceived Russian threat to British control of India.
+
+=== KEY: George_Eastman_573a43
+HEADWORD: Eastman, George = 이스트먼, 조지
+LEVEL: 4
+GLOSSARY:
+  Eastman Kodak = 이스트먼 코닥
+  Eastman Kodak Company = 이스트먼 코닥
+  Eastman School of Music = 이스트먼 음악 학교
+  Hampton University = 햄프턴 대학교
+  Kodak = 코닥
+  Massachusetts = 매사추세츠주
+  Massachusetts Institute of Technology = 매사추세츠 공과대학교
+  Music = 음악
+  Orchestra = 관현악단
+  Philharmonic Orchestra = 필하모닉 오케스트라
+  Rochester = 로체스터
+  Rochester, New York = 로체스터
+  School = 학교
+  Technology = 기술
+  Tuskegee University = 터스키기 대학교
+  University = 대학
+  University of Rochester = 로체스터 대학교
+  roll film = 롤 필름
+ENTRY:
+American innovator and entrepreneur, founder of the Eastman Kodak Company. He helped bring roll film into the mainstream. After a decade of experiments he patented and sold a roll-film camera, making amateur photography accessible to the general public. The 1888 Kodak camera was sold loaded with enough film for 100 exposures; the photographer mailed it back to the company, which processed the film and returned the camera with prints. As treasurer and later president of Kodak, he oversaw the company's expansion. He endowed the Eastman School of Music, the [[Rochester, New York|Rochester]] Philharmonic Orchestra, and dental and medical schools at the University of Rochester, and he made large gifts to the [[Massachusetts Institute of Technology|Massachusetts Institute of Technology]], Tuskegee University, and Hampton University.
+
+=== KEY: George_Eliot_cee3fb
+HEADWORD: Eliot, George = 엘리엇, 조지
+LEVEL: 4
+GLOSSARY:
+  Adam = 아담
+  Adam Bede = 『애덤 비드』
+  Bede = 베다
+  George Henry Lewes = 조지 헨리 루이스
+  John = 존
+  John Cross = 존 크로스
+  Mary Ann Evans = 메리 앤 에번스
+  Middlemarch = 『미들마치』
+  Silas Marner = 『사일러스 마너』
+  The Mill on the Floss = 『플로스강의 물방앗간』
+  Victorian = 빅토리아 시대
+  Victorian era = 빅토리아 시대
+  Virginia Woolf = 버지니아 울프
+ENTRY:
+English novelist, poet, journalist, and translator, born Mary Ann Evans. One of the leading writers of the [[Victorian era|Victorian era]], she wrote seven novels, including *Adam Bede* (1859), *The Mill on the Floss* (1860), and *Silas Marner* (1861). Her novels are known for their realism, psychological insight, and detailed depiction of the countryside. *Middlemarch* (1871–1872) was called by [[Virginia Woolf]] "one of the few English novels written for grown-up people." From 1854 to 1878 she lived with the married critic George Henry Lewes, an unconventional arrangement for the era. In 1880, 18 months after Lewes's death, she married her longtime friend John Cross.
+
+=== KEY: George_Foreman_80160b
+HEADWORD: Foreman, George = 포먼, 조지
+LEVEL: 5
+GLOSSARY:
+  George Foreman = 조지 포먼
+  George Foreman Grill = 조지 포먼 그릴
+  IBF = IBF
+  Jimmy Young = 지미 영
+  Joe Frazier = 조 프레이저
+  Muhammad = 무함마드
+  Muhammad Ali = 무하마드 알리
+  WBA = WBA
+  lineal = 정통
+ENTRY:
+American boxer, minister, businessman, and author. Olympic heavyweight gold medalist in 1968, he won the undisputed world heavyweight title in 1973 by knocking out [[Joe Frazier]] in the second round. He lost the title to [[Muhammad Ali]] in 1974 and retired after losing to Jimmy Young in 1977. Ordained as a Christian minister, he returned to boxing and at age 45 regained the unified WBA, IBF, and lineal heavyweight titles in 1994. The George Foreman Grill, which bears his name, sold more than 100 million units worldwide by 2011.
+
+=== KEY: George_Frideric_Handel_d1c643
+HEADWORD: Handel, George Frideric = 헨델, 게오르크 프리드리히
+LEVEL: 4
+GLOSSARY:
+  Baroque = 바로크
+  Beethoven = 베토벤
+  Fireworks = 불꽃놀이
+  Halle = 할레
+  Hamburg = 함부르크
+  Haydn = 하이든
+  Italy = 이탈리아
+  London = 런던
+  Messiah = 「메시아」
+  Mozart = 모차르트
+  Music = 음악
+  Music for the Royal Fireworks = 「왕궁의 불꽃놀이 음악」
+  Opera = 오페라
+  Priest = 사제
+  Water = 물
+  Water Music = 「수상 음악」
+  Westminster = 웨스트민스터
+  Westminster Abbey = 웨스트민스터 사원
+  Zadok the Priest = 「사제 사독」
+  anthems = 앤섬
+  concerti grossi = 합주 협주곡
+  oratorios = 오라토리오
+  organ concerti = 오르간 협주곡
+ENTRY:
+German-British Baroque composer. Known for [[Opera|operas]], oratorios, anthems, concerti grossi, and organ concerti, he brought Italian opera to its highest development and created the English oratorio and organ concerto. Born in Halle, he spent time in Hamburg and Italy before settling in London in 1712, becoming a naturalized British subject in 1727. After the success of *Messiah* (1742), he never composed another Italian opera. His music was admired by Haydn, Mozart, and Beethoven. His *Water Music* and *Music for the Royal Fireworks* remain popular, and his anthem *Zadok the Priest* has been performed at every British coronation since 1727. He was given a state funeral at [[Westminster Abbey]].
+
+=== KEY: George_Gershwin_a13540
+HEADWORD: Gershwin, George = 거슈윈, 조지
+LEVEL: 4
+GLOSSARY:
+  An American in Paris = 「파리의 아메리카인」
+  Hollywood = 할리우드
+  I Got Rhythm = 「아이 갓 리듬」
+  Jazz = 재즈
+  Maurice Ravel = 모리스 라벨
+  Nadia Boulanger = 나디아 불랑제
+  Of Thee I Sing = 「오브 디 아이 싱」
+  Paris = 파리
+  Porgy and Bess = 「포기와 베스」
+  Pulitzer Prize = 퓰리처상
+  Pulitzer Prize for Drama = 퓰리처상 희곡 부문
+  Rhapsody in Blue = 「랩소디 인 블루」
+  Rhythm = 리듬
+  Summertime = 「서머타임」
+  Swanee = 「스와니」
+ENTRY:
+American composer and pianist of [[Jazz|jazz]], popular, and classical music. His songs included "Swanee" (1919) and "I Got Rhythm" (1930). His orchestral works *Rhapsody in Blue* (1924) and *An American in Paris* (1928) blended jazz idioms with concert forms. He wrote the opera *Porgy and Bess* (1935), which included the hit "Summertime." Initially a commercial failure, it came to be considered one of the most important American operas of the 20th century. His *Of Thee I Sing* (1931) was the first musical to win the Pulitzer Prize for Drama. [[Nadia Boulanger]] refused to teach him, fearing that rigorous study would ruin his jazz-influenced style, and [[Maurice Ravel]] voiced similar objections. He also wrote film scores in Hollywood.
+
+=== KEY: George_Gurdjieff_ea37e3
+HEADWORD: Gurdjieff, George = 구르지예프, 게오르기
+LEVEL: 5
+GLOSSARY:
+  Alexandropol = 알렉산드로폴
+  Fourth Way = 제4의 길
+  Gurdjieff Foundation = 구르지예프 재단
+  Jeanne de Salzmann = 잔 드 살즈만
+  P. D. Ouspensky = P. D. 우스펜스키
+  Paris = 파리
+  Russian = 러시아어
+  Russian Empire = 러시아 제국
+  sacred dances = 신성 무용
+  waking sleep = 깨어 있는 잠
+ENTRY:
+Philosopher, mystic, composer, and spiritual teacher. Born in Alexandropol in the [[Russian Empire]], he taught that people live in a hypnotic "waking sleep" and can awaken to a higher consciousness in order to "remember ourselves." His pupil P. D. Ouspensky called his teachings the "Fourth Way." Gurdjieff also composed music and taught movements, or sacred dances. After his death, the Gurdjieff Foundation in Paris was established under his pupil Jeanne de Salzmann, and groups formed in many countries.
+
+=== KEY: George_H_W_Bush_da9086
+HEADWORD: Bush, George H. W. = 부시, 조지 H. W.
+LEVEL: 5
+GLOSSARY:
+  Americans with Disabilities Act = 미국 장애인법
+  Bill Clinton = 빌 클린턴
+  Clean Air Act = 대기 오염 방지법
+  Clean Air Act Amendments of 1990 = 1990년 대기 청정법 개정안
+  Director of Central Intelligence = 중앙정보장
+  George W. Bush = 조지 W. 부시
+  German = 독일어
+  German reunification = 독일 재통일
+  Gulf War = 걸프 전쟁
+  Intelligence = 지능
+  Kuwait = 쿠웨이트
+  President of the United States = 미국 대통령
+  Ronald Reagan = 로널드 레이건
+  United Nations = 국제 연합
+  United States = 미국
+  vice president = 부통령
+ENTRY:
+[[President of the United States|41st president of the United States]], 1989–1993. He had served as the 43rd vice president under [[Ronald Reagan]] from 1981 to 1989, and earlier as Director of Central Intelligence and U.S. ambassador to the United Nations. Foreign policy drove his presidency: he played a key role in German reunification and in the [[Gulf War]] that ended Iraq's occupation of Kuwait. He signed the Americans with Disabilities Act and the Clean Air Act Amendments of 1990, but raised taxes to reduce the budget deficit despite a 1988 campaign pledge. He lost the 1992 election to [[Bill Clinton]]. He was the father of [[George W. Bush]].
+
+=== KEY: George_Harrison_7811ee
+HEADWORD: Harrison, George = 해리슨, 조지
+LEVEL: 5
+GLOSSARY:
+  All Things Must Pass = 『올 싱스 머스트 패스』
+  Bangladesh = 방글라데시
+  Beatles = 비틀스
+  Bob Dylan = 밥 딜런
+  Concert = 콘서트
+  Concert for Bangladesh = 방글라데시 콘서트
+  Here Comes the Sun = 「히어 컴스 더 선」
+  Live Aid = 라이브 에이드
+  My Sweet Lord = 「마이 스위트 로드」
+  Quiet Beatle = 조용한 비틀
+  Ravi = 라비강
+  Ravi Shankar = 라비 샹카르
+  Roy Orbison = 로이 오비슨
+  Something = 「섬싱」
+  Sun = 태양
+  The Beatles = 비틀스
+  Tom Petty = 톰 페티
+  Traveling Wilburys = 트래블링 윌버리스
+  sitar = 시타르
+ENTRY:
+English musician and member of [[The Beatles]], known as the "Quiet Beatle." He played lead guitar and later bass, organ, and sitar, and wrote songs including "Something" and "Here Comes the Sun." After the band broke up, his triple album *All Things Must Pass* produced his biggest hit, "My Sweet Lord." He organized the 1971 Concert for Bangladesh with [[Ravi Shankar]], a precursor to benefit concerts such as [[Live Aid]]. In 1988 he co-founded the Traveling Wilburys with [[Roy Orbison]], [[Bob Dylan]], and [[Tom Petty]].
+
+=== KEY: George_III_1c1500
+HEADWORD: George III = 조지 3세
+LEVEL: 4
+GLOSSARY:
+  Acts of Union = 연합법
+  American War of Independence = 미국 독립 전쟁
+  Atlantic slave trade = 대서양 노예 무역
+  Battle of Waterloo = 워털루 전투
+  British Empire = 대영 제국
+  Charlotte = 샬럿
+  Charlotte of Mecklenburg-Strelitz = 메클렌부르크슈트렐리츠의 샬럿
+  France = 프랑스
+  Hanover = 하노버
+  Hanoverian = 하노버 왕가
+  Independence = 인디펜던스
+  Ireland = 아일랜드
+  King of Hanover = 하노버 국왕
+  Kingdom of Great Britain = 그레이트브리튼 왕국
+  Napoleonic France = 나폴레옹 시대 프랑스
+  Prince = 후작
+  Prince Regent = 섭정 왕세자
+  Princess Charlotte of Mecklenburg-Strelitz = 메클렌부르크슈트렐리츠의 샬럿 공주
+  Seven = 「세븐」
+  Seven Years' War = 7년 전쟁
+  United Kingdom = 영국
+  United Kingdom of Great Britain and Ireland = 그레이트브리튼 아일랜드 연합 왕국
+  War of Independence = 독립 전쟁
+  Waterloo = 워털루
+  bipolar disorder = 양극성 장애
+  porphyria = 포르피린증
+  prince-elector = 선제후
+  slave trade = 노예 무역
+  transatlantic slave trade = 대서양 노예 무역
+ENTRY:
+King of Great Britain and Ireland, 1760–1820, and duke and prince-elector of Hanover, becoming King of Hanover in 1814. He was the first Hanoverian monarch born in Britain, and English was his first language. Early in his reign Britain defeated France in the [[Seven Years' War]], but it lost 13 North American colonies in the American War of Independence. Wars against revolutionary and Napoleonic France ended with Napoleon's defeat at the [[Battle of Waterloo]] in 1815. The Acts of Union created the [[United Kingdom of Great Britain and Ireland]], and the [[Atlantic slave trade|transatlantic slave trade]] was banned from the British Empire in 1807. In later life he suffered recurrent, then permanent, mental illness, possibly bipolar disorder or porphyria, and his son became Prince Regent in 1811. He married Princess Charlotte of Mecklenburg-Strelitz and had 15 children with her. At his death he was the longest-lived and longest-reigning British monarch, having reigned 59 years and 96 days.
+
+=== KEY: George_II_of_Great_Britain_b20d3c
+HEADWORD: George II = 조지 2세
+LEVEL: 5
+GLOSSARY:
+  Battle of Dettingen = 데팅겐 전투
+  Elector = 선제후
+  Elector of Hanover = 하노버 선제후
+  George III = 조지 3세
+  Hanover = 하노버
+  Ireland = 아일랜드
+  Parliament = 의회
+  War of the Austrian Succession = 오스트리아 왕위 계승 전쟁
+ENTRY:
+King of Great Britain and Ireland, 1727–1760, and Elector of [[Hanover]]. Born in Hanover, he was the most recent British monarch born outside Britain. Parliament largely controlled domestic policy, but later scholarship concludes that he influenced foreign policy and military appointments more than earlier historians believed. He took part in the Battle of Dettingen during the [[War of the Austrian Succession]], becoming the most recent British monarch to lead an army in battle. He was succeeded by his grandson, [[George III]].
+
+=== KEY: George_IV_66e5cf
+HEADWORD: George IV = 조지 4세
+LEVEL: 5
+GLOSSARY:
+  Brighton = 브라이턴
+  Caroline of Brunswick = 브라운슈바이크의 캐롤라인
+  Castle = 성
+  Catholic = 가톨릭
+  Catholic emancipation = 가톨릭 해방
+  George III = 조지 3세
+  Ireland = 아일랜드
+  John = 존
+  John Nash = 존 내시
+  Kingdom of Great Britain = 그레이트브리튼 왕국
+  Napoleon = 나폴레옹
+  Royal Pavilion = 로열 파빌리온
+  United Kingdom = 영국
+  Windsor = 윈저
+  Windsor Castle = 윈저성
+ENTRY:
+King of the United Kingdom of Great Britain and Ireland, 1820–1830. He had been prince regent for his father, [[George III]], from 1811 during the king's mental illness. He commissioned John Nash to build the Royal Pavilion in [[Brighton]] and the rebuilding of [[Windsor Castle]]. His extravagance and poor relationship with his wife, Caroline of Brunswick, earned him public contempt; he excluded her from his coronation. Under Lord Liverpool's government, Britain achieved its ultimate victory over [[Napoleon]], but George was forced to accept Catholic emancipation, which he had opposed.

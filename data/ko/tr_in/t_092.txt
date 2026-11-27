@@ -1,0 +1,919 @@
+=== KEY: Diplomacy_d38f4a
+HEADWORD: Diplomacy = 외교
+LEVEL: 3
+GLOSSARY:
+  Alexander the Great = 알렉산드로스 대왕
+  Amarna = 아마르나
+  Amarna letters = 아마르나 문서
+  Ancient Greek = 고대 그리스어
+  Asia = 아시아
+  Battle of Kadesh = 카데시 전투
+  Canaan = 가나안
+  Communication = 의사소통
+  Convention = 비상 의회
+  Diplomatic mission = 외교 공관
+  East Asia = 동아시아
+  Egypt = 이집트
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  Genoa = 제노바
+  Hellenistic = 헬레니즘
+  Hellenistic states = 헬레니즘 국가
+  Hittite Empire = 히타이트 제국
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Ptolemaic = 프톨레마이오스 왕조
+  Ptolemaic Kingdom = 프톨레마이오스 왕조
+  Seleucid Empire = 셀레우코스 제국
+  Sun Tzu = 손자
+  Venice = 베네치아
+  Vienna = 빈
+  Vienna Convention = 빈 협약
+  Vienna Convention on Diplomatic Relations = 외교 관계에 관한 빈 협약
+  consulates = 영사관
+  diplomate = 디플로마트
+  diplōma = 디플로마
+  embassies = 대사관
+ENTRY:
+Communication by representatives of states, intergovernmental institutions, or non-governmental institutions intended to influence events in the international system. It is the main instrument of foreign policy, and international treaties, agreements, and alliances are usually the result of diplomatic negotiations.
+
+The term derives from the 18th-century French *diplomate*, based on the ancient Greek *diplōma*, roughly "an object folded in two," a folded document conferring an official privilege. Some scholars have criticized this account, pointing to the term's origin in the political context of the [[French Revolution]].
+
+Some of the earliest known diplomatic records are the Amarna letters, exchanged in the 14th century BC between the pharaohs of Egypt and rulers of [[Canaan]]. After the Battle of Kadesh in 1274 BC, the pharaoh and the ruler of the Hittite Empire concluded one of the first known international peace treaties. Ancient Greek city-states sent envoys for specific issues but kept no regular resident representatives. The Hellenistic states that succeeded [[Alexander the Great]], such as the [[Ptolemaic Kingdom]] and the [[Seleucid Empire]], often negotiated peace treaties through marriage alliances. In East Asia, rival states of the era of the strategist [[Sun Tzu]] relied on diplomacy to establish allies, barter land, and sign peace treaties.
+
+Relations with the [[Ottoman Empire]] were particularly important to Italian states such as Genoa and Venice.
+
+Modern diplomatic practice originated largely from 17th-century European customs. Beginning in the early 20th century, diplomacy became professionalized. The 1961 Vienna Convention on Diplomatic Relations, ratified by most sovereign states, provides a framework for diplomatic procedures and conduct. Most diplomacy is now conducted by accredited officials, such as envoys and ambassadors, through [[Diplomatic mission|diplomatic missions]], most commonly consulates and embassies.
+
+=== KEY: Diplomatic_mission_8aab75
+HEADWORD: Diplomatic mission = 외교 공관
+LEVEL: 4
+GLOSSARY:
+  Capital city = 수도
+  Commonwealth = 영연방
+  Convention = 비상 의회
+  European Union = 유럽 연합
+  Muammar Gaddafi = 무아마르 카다피
+  Sovereign state = 주권 국가
+  United Nations = 국제 연합
+  Vienna = 빈
+  Vienna Convention = 빈 협약
+  high commission = 고등판무관 공관
+  high commissioner = 고등판무관
+  inviolability = 불가침
+  people's bureaus = 인민국
+  permanent missions = 상주 대표부
+  permanent representations = 상주 대표부
+ENTRY:
+Group of officials from one [[Sovereign state|state]] or organization representing it in another. The term usually denotes an embassy or high commission, the main office of a country's diplomatic representatives, typically in the [[Capital city|capital]]. A consulate is a smaller mission normally located in a major city, and may be in the capital when the sending country has no embassy there. An embassy is headed by an ambassador, and a high commission, used between Commonwealth countries, by a high commissioner. Missions to the [[United Nations|United Nations]] are called permanent missions, and member states' missions to the [[European Union|European Union]] are permanent representations. Under [[Muammar Gaddafi|Muammar Gaddafi]], Libya's missions were called people's bureaus. Under the 1961 Vienna Convention, missions enjoy inviolability of premises, archives and communications.
+
+=== KEY: Dipole_7627ce
+HEADWORD: Dipole = 쌍극자
+LEVEL: 4
+GLOSSARY:
+  Electric charge = 전하
+  Electric field = 전기장
+  Electromagnetism = 전자기학
+  Magnetic field = 자기장
+  debyes = 디바이
+  dipole moment = 쌍극자 모멘트
+  electric dipole = 전기 쌍극자
+  magnetic dipole = 자기 쌍극자
+  polar molecules = 극성 분자
+  torques = 돌림힘
+ENTRY:
+[[Electromagnetism|Electromagnetic]] phenomenon in which equal and opposite charges or magnetic poles are separated by a small distance. An electric dipole, typically in atoms and molecules, is modeled as two equal and opposite [[Electric charge|charges]] separated by distance *d*, with dipole moment *p* = *qd* pointing from the negative to the positive charge. A magnetic dipole, such as an atom or electron, is modeled as a small current loop, with a moment equal to the current times the loop's area. Dipoles experience torques in external [[Electric field|electric]] and [[Magnetic field|magnetic]] fields that tend to align them with the field. In polar molecules such as water, the molecular dipole moment is measured in debyes (1 D ≈ 3.336 × 10⁻³⁰ C·m) and influences boiling points and solubility.
+
+=== KEY: Diponegoro_badefa
+HEADWORD: Diponegoro = 디포느고로
+LEVEL: 4
+GLOSSARY:
+  Dutch = 네덜란드어
+  Hamengkubuwono III = 하멩쿠부워노 3세
+  Indonesian National Revolution = 인도네시아 독립 전쟁
+  Java = 자와섬
+  Java War = 자와 전쟁
+  Javanese = 자와
+  Makassar = 마카사르
+  Ratu Adil = 라투 아딜
+  Sulawesi = 술라웨시섬
+  Sultan = 술탄
+  Yogyakarta = 욕야카르타
+ENTRY:
+[[Java|Javanese]] prince who led the Java War (1825–1830) against Dutch colonial rule. Eldest son of Sultan Hamengkubuwono III of [[Yogyakarta|Yogyakarta]], he was passed over for the succession in favor of his half-brother, and later an infant, which fed a rebellion. Dutch rule was unpopular among farmers and nobles over tax rises and land leases, and Diponegoro was widely believed to be the Ratu Adil, a just ruler predicted in Javanese prophecy. The Dutch deployed over 35,000 troops against his guerrilla forces. He was arrested during truce negotiations in March 1830 and exiled to [[Makassar|Makassar]] in [[Sulawesi|Sulawesi]], where he died. Indonesians regard him as a national hero and an inspiration for the [[Indonesian National Revolution|independence struggle]]. Dutch colonial records often framed him as a fanatic rebel rather than a legitimate sovereign.
+
+=== KEY: Diprotodontia_988a53
+HEADWORD: Diprotodontia = 쌍앞니목
+LEVEL: 4
+GLOSSARY:
+  Australasia = 오스트랄라시아
+  Australia = 오스트레일리아
+  Diprotodon = 디프로토돈
+  Kangaroo = 캥거루
+  Koala = 코알라
+  Late Oligocene = 후기 올리고세
+  Marsupial = 유대류
+  Oligocene = 올리고세
+  Wombat = 웜뱃
+  marsupial lions = 주머니사자
+  possums = 포섬
+  syndactyly = 합지증
+  thylacoleonids = 틸라콜레오과
+  wallabies = 왈라비
+ENTRY:
+Largest living order of [[Marsupial|marsupial]] mammals, with about 155 species. It includes [[Kangaroo|kangaroos]], wallabies, possums, the [[Koala|koala]] and [[Wombat|wombats]]. Living members are almost all herbivores and are restricted to [[Australasia|Australasia]]. The name means "two front teeth," for the pair of large lower incisors, and members share syndactyly, a fusing of the second and third toes. The extinct *Diprotodon* was hippopotamus-sized, and the extinct thylacoleonids, or "marsupial lions," were the only group known to have been large-scale carnivores. Many of the largest diprotodonts became extinct after humans reached Australia about 50,000 years ago, probably through habitat change caused by fire. The earliest known fossils date to the Late Oligocene.
+
+=== KEY: Dirac_delta_function_429765
+HEADWORD: Dirac delta function = 디랙 델타 함수
+LEVEL: 5
+GLOSSARY:
+  Generalized function = 일반화 함수
+  Kronecker delta = 크로네커 델타
+  Laurent Schwartz = 로랑 슈바르츠
+  Paul = 바울로
+  Paul Dirac = 폴 디랙
+  measure theory = 측도론
+  point masses = 질점
+  quantum mechanics = 양자역학
+  real line = 실수직선
+  real numbers = 실수
+  theory of distributions = 분포 이론
+ENTRY:
+Generalized function on the real numbers that is zero everywhere except at zero, where its integral over the entire real line is one. It models an idealized point impulse. No ordinary function has these properties, so the function is treated rigorously through measure theory or the theory of distributions, developed by Laurent Schwartz. Physicist [[Paul Dirac|Paul Dirac]] introduced it in his work on quantum mechanics as a continuous analogue of the Kronecker delta. It is routinely applied in physics and engineering to model point masses and concentrated loads.
+
+=== KEY: Dirac_equation_9dda3e
+HEADWORD: Dirac equation = 디랙 방정식
+LEVEL: 5
+GLOSSARY:
+  Antimatter = 반물질
+  Paul = 바울로
+  Paul Dirac = 폴 디랙
+  Pauli wavefunction = 파울리 파동 함수
+  Quantum mechanics = 양자역학
+  Relativistic = 상대론적
+  Special relativity = 특수 상대성 이론
+  Standard = 스탠더드
+  Standard Model = 표준 모형
+  Wave equation = 파동 방정식
+  complex numbers = 복소수
+  fine structure = 미세 구조
+  quantum mechanics = 양자역학
+  special relativity = 특수 상대성 이론
+  wave functions = 파동 함수
+ENTRY:
+Relativistic [[Wave equation|wave equation]] describing spin-½ massive particles such as electrons. Formulated by British physicist [[Paul Dirac|Paul Dirac]] in 1928, it was the first description to fully account for [[Special relativity|special relativity]] in [[Quantum mechanics|quantum mechanics]]. It implied the existence of [[Antimatter|antimatter]], whose existence was confirmed experimentally several years later. It accounts for the fine structure of the hydrogen spectrum, and it is central to the [[Standard Model|Standard Model]]. Its wave functions are vectors of four complex numbers, two of which resemble the Pauli wavefunction in the non-relativistic limit.
+
+=== KEY: Dire_Dawa_b0a309
+HEADWORD: Dire Dawa = 디레다와
+LEVEL: 4
+GLOSSARY:
+  Addis Ababa = 아디스아바바
+  City = 도시
+  Dire Dawa = 디레다와
+  Djibouti = 지부티
+  Ethiopia = 에티오피아
+  Menelik II = 메넬리크 2세
+  Red Sea = 홍해
+  Somali Region = 소말리주
+  autonomous region = 자치구
+  chartered cities = 특별시
+  chartered city = 특허 도시
+  khat = 카트
+ENTRY:
+City (pop., 2022: 535,000) in [[Ethiopia|eastern Ethiopia]], one of two chartered cities in the country. It was founded on 24 December 1902, when the railway reached the site, after [[Menelik II|Menelik II]] accepted that the line could end at the foot of the mountains. It became a trade and transport center linking the highlands to the Red Sea port of [[Djibouti|Djibouti]]. Its economy centers on agricultural trade, including the stimulant khat, and light manufacturing. The city spans 1,559 sq km. Dire Dawa was part of a Somali Region autonomous region until 1993, when the federal government made it a separately administered chartered city. The other chartered city is [[Addis Ababa|Addis Ababa]], the capital.
+
+=== KEY: Dire_Straits_280f74
+HEADWORD: Dire Straits = 다이어 스트레이츠
+LEVEL: 5
+GLOSSARY:
+  Brothers in Arms = 「Brothers in Arms」
+  Live Aid = 라이브 에이드
+  London = 런던
+  Mark Knopfler = 마크 노플러
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Sultans of Swing = 「Sultans of Swing」
+  blues rock = 블루스 록
+ENTRY:
+British rock band formed in [[London|London]] in 1977. Led by Mark Knopfler, the band drew on blues rock, folk and country. Its first single, "Sultans of Swing," from the 1978 debut album, reached the top 10 in the UK and US. The album *Brothers in Arms* (1985) sold more than 30 million copies and was the first album to sell a million copies on CD. The band performed at [[Live Aid|Live Aid]] in 1985 and was inducted into the [[Rock and Roll Hall of Fame|Rock and Roll Hall of Fame]] in 2018. It disbanded permanently in 1995.
+
+=== KEY: Dire_wolf_7dc26e
+HEADWORD: Dire wolf = 다이어울프
+LEVEL: 5
+GLOSSARY:
+  Americas = 아메리카
+  Canis = 개속
+  La Brea Tar Pits = 라브레아 타르 구덩이
+  Los Angeles = 로스앤젤레스
+  Rancho La Brea Tar Pits = 라브레아 타르 연못
+  Wolf = 늑대
+  gray wolves = 회색늑대
+  ground sloths = 땅늘보
+  megaherbivore = 초대형 초식 동물
+ENTRY:
+Extinct canine species native to the [[Americas|Americas]]. Dire wolves were about as large as the biggest [[Wolf|gray wolves]], averaging 60 to 68 kg. Their teeth were larger than those of other wolves, and their bite at the canine was stronger than that of any known *Canis* species, suited to hunting large prey such as horses and ground sloths. The species is best known from the Rancho La Brea Tar Pits in [[Los Angeles|Los Angeles]]. It lived as recently as 10,000 years ago, its reliance on megaherbivore prey, along with climatic change and competition, has been proposed as a cause of its extinction.
+
+=== KEY: Direct_current_dcc3f3
+HEADWORD: Direct current = 직류
+LEVEL: 4
+GLOSSARY:
+  Alessandro Volta = 알레산드로 볼타
+  Alternating current = 교류
+  Direct current = 직류
+  Edison = 에디슨
+  Electric charge = 전하
+  High-voltage direct current = 고전압 직류 송전
+  Solar panel = 태양 전지판
+  Thomas = 토머스
+  Thomas Edison = 토머스 에디슨
+  Urban area = 도시 지역
+  alternating current = 교류
+  direct current = 직류
+  electrochemical cells = 전기 화학 전지
+  rectifier = 정류기
+  transformers = 변압기
+ENTRY:
+Unidirectional flow of [[Electric charge|electric charge]], in which the current keeps a constant direction. Unlike [[Alternating current|alternating current]] (AC), it does not reverse. It is produced by batteries, electrochemical cells and [[Solar panel|solar panels]], and it can be made from AC by a rectifier. Direct current powers electronics, motors and battery charging, is used in aluminum smelting, and powers some [[Urban area|urban]] railways. High-voltage direct current transmits large amounts of power over long distances and under the sea. [[Alessandro Volta|Alessandro Volta]]'s battery produced direct current in 1800. After [[Thomas Edison|Thomas Edison]] launched his incandescent-bulb utility in 1882, alternating current displaced direct current in power delivery, because transformers can raise and lower its voltage.
+
+=== KEY: Directed_acyclic_graph_1d8c99
+HEADWORD: Directed acyclic graph = 유향 비순환 그래프
+LEVEL: 5
+GLOSSARY:
+  Compiler = 컴파일러
+  Computer science = 컴퓨터 과학
+  Directed graph = 유향 그래프
+  Epidemiology = 역학
+  Graph (discrete mathematics) = 그래프
+  order of operations = 연산 순서
+  partially ordered set = 부분 순서 집합
+  topologically ordered = 위상 정렬
+ENTRY:
+[[Graph (discrete mathematics)|Directed graph]] with no directed cycles. A directed graph is acyclic exactly when its vertices can be topologically ordered, that is, arranged in a line consistent with all edge directions. Every finite partially ordered set can be represented by one. Directed acyclic graphs model precedence and dependency in [[Computer science|computer science]], such as scheduling and the order of operations in a [[Compiler|compiler]]. In [[Epidemiology|epidemiology]], they map causal structures, and they are also used for evolutionary and family trees.
+
+=== KEY: Dirk_Nowitzki_600629
+HEADWORD: Nowitzki, Dirk = 노비츠키, 디르크
+LEVEL: 5
+GLOSSARY:
+  All-Star = 올스타
+  Basketball = 농구
+  Dallas = 댈러스
+  Dallas Mavericks = 댈러스 매버릭스
+  FIBA World Championship = FIBA 세계 선수권 대회
+  German = 독일어
+  Germany = 독일
+  Most Valuable Player = 최우수 선수
+  NBA Finals = NBA 파이널
+  NBA Finals Most Valuable Player Award = NBA 파이널 최우수 선수상
+  NBA Most Valuable Player = NBA 최우수 선수
+  NBA Most Valuable Player Award = NBA 최우수 선수상
+  Naismith Memorial Basketball Hall of Fame = 네이스미스 농구 명예의 전당
+  National Basketball Association = 전미 농구 협회
+  World = 세계
+  fadeaway jump shot = 페이더웨이 점프 슛
+  power forward = 파워 포워드
+ENTRY:
+[[Germany|German]] former professional [[Basketball|basketball]] player. He spent his entire 21-season career with the [[Dallas|Dallas]] Mavericks of the [[National Basketball Association|National Basketball Association]] as a power forward. Known for a one-legged fadeaway jump shot, he won the NBA Most Valuable Player Award in 2007 and the NBA Finals Most Valuable Player Award in 2011, when the Mavericks won the franchise's only championship. He was a 14-time All-Star and led Germany to bronze at the 2002 FIBA World Championship. He was inducted into the Naismith Memorial Basketball Hall of Fame in 2023.
+
+=== KEY: Disability_a15e51
+HEADWORD: Disability = 장애
+LEVEL: 3
+GLOSSARY:
+  Ableism = 비장애 중심주의
+  Activism = 행동주의
+  Aristotle = 아리스토텔레스
+  Convention = 비상 의회
+  Culture = 문화
+  Disability = 장애
+  Discrimination = 차별
+  Experience = 「경험」
+  Hippocratic = 히포크라테스 학파
+  Others = 아더
+  Plato = 플라톤
+  Plutarch = 플루타르코스
+  Rights = 인권
+  United Nations = 국제 연합
+  assistive technology = 보조 기술
+  identity-first language = 정체성 우선 언어
+  medical model = 의료 모델
+  person-first language = 인간 우선 언어
+  social model = 사회 모델
+ENTRY:
+Experience of any condition that makes it more difficult for a person to do certain activities or have equitable access within a society. Disabilities may be cognitive, developmental, intellectual, mental, physical, sensory, or a combination of these. They can be present from birth or acquired, and may be visible or invisible.
+
+The [[United Nations]] Convention on the Rights of Persons with Disabilities describes disability as including long-term physical, mental, intellectual, or sensory impairments which, in interaction with various barriers, may hinder full and effective participation in society on an equal basis with others. One estimate puts the number experiencing significant disability at about 1.3 billion people, or 16% of the global population.
+
+Two main models seek to explain disability. The medical model treats disability as an undesirable medical condition requiring specialized treatment, and focuses on causes and cures, including assistive technology. The social model locates the limitation in society and focuses on accessibility and social and cultural attitudes. Critics of the social model argue that it underemphasizes biological constraints; its supporters emphasize the role of societal barriers.
+
+The concept is debated among academics, the medical and legal worlds, and the disability community; one point of contention is whether to use person-first language (a person who is disabled) or identity-first language (a disabled person). Discrimination against disabled people is called [[Ableism|ableism]].
+
+Historians dispute how disabled people were treated in antiquity. Some argue that the ancient Greeks practiced infanticide, citing the writings of [[Plutarch]], [[Plato]], and [[Aristotle]]. Others cite Hippocratic accounts and archaeological evidence of efforts to cure and assist disabled people, and argue that those writings reflect philosophical ideals rather than practice. Disability [[Activism|activism]] has pursued equal rights under the law and fostered a disability [[Culture|culture]].
+
+=== KEY: Disco_6b8a07
+HEADWORD: Disco = 디스코
+LEVEL: 4
+GLOSSARY:
+  Dance = 춤
+  Disco = 디스코
+  Disco Demolition Night = 디스코 폭파의 밤
+  Electronic dance music = 일렉트로닉 댄스 뮤직
+  Fever = 『피버』
+  Hip-hop = 힙합
+  India = 인도
+  Italy = 이탈리아
+  Manhattan = 맨해튼
+  Middle East = 중동
+  Night = 『밤』
+  Saturday Night = 「새터데이 나이트」
+  Saturday Night Fever = 「토요일 밤의 열기」
+  Studio 54 = 스튜디오 54
+  Synthesizer = 신시사이저
+  Thank God It's Friday = 「땡큐 갓 잇츠 프라이데이」
+  United States = 미국
+  electronic dance music = 일렉트로닉 댄스 뮤직
+  four-on-the-floor = 포 온 더 플로어
+  new wave = 뉴웨이브
+  post-disco = 포스트 디스코
+ENTRY:
+Dance music genre and subculture. Disco emerged in the late 1960s from the urban nightlife scene of the [[United States]], with a sound typified by four-on-the-floor beats, syncopated basslines, string sections, brass and horns, electric pianos, [[Synthesizer|synthesizers]], and electric rhythm guitars. DJs mixed records at clubs such as Studio 54 in [[Manhattan]], and films such as *Saturday Night Fever* (1977) and *Thank God It's Friday* (1978) contributed to its mainstream popularity. Disco declined sharply in the United States after Disco Demolition Night on July 12, 1979, but it remained popular in Italy and some European countries and spread to [[India]] and the [[Middle East]], where it was blended with regional folk styles. It was a key influence on [[Electronic dance music|electronic dance music]], [[Hip-hop]], new wave, and post-disco, and it has had several revivals since the 1990s.
+
+=== KEY: Discord_8f5cc6
+HEADWORD: Discord = 디스코드
+LEVEL: 5
+GLOSSARY:
+  Android = 안드로이드
+  Android (operating system) = 안드로이드
+  Citron = 시트론
+  Esports = e스포츠
+  IOS = iOS
+  Jason Citron = 제이슨 시트론
+  LAN = LAN
+  Linux = 리눅스
+  MacOS = macOS
+  Stanislav Vishnevskiy = 스타니슬라프 비시넵스키
+  Text messaging = 문자 메시지
+  VoIP = VoIP
+  Web browser = 웹 브라우저
+  Windows = 윈도우
+  instant messaging = 인스턴트 메시징
+ENTRY:
+American instant messaging and VoIP social platform, conceived by Jason Citron and Stanislav Vishnevskiy. It was publicly released in May 2015 and allows voice calls, video calls, [[Text messaging|text messaging]], and media, privately or in communities called "servers." It became widely used by [[Esports|esports]] and LAN tournament gamers. The platform runs on Windows, [[MacOS|macOS]], [[Android (operating system)|Android]], [[IOS|iOS]], Linux, and in [[Web browser|web browsers]]. As of 2025, it had 200 million monthly active users.
+
+=== KEY: Discourse_on_the_Method_1411b9
+HEADWORD: Discourse on the Method = 방법서설
+LEVEL: 4
+GLOSSARY:
+  Amsterdam = 암스테르담
+  Cartesian = 직교 좌표
+  Cartesian coordinate system = 데카르트 좌표계
+  Cartesianism = 데카르트주의
+  Descartes = 데카르트
+  Epistemology = 인식론
+  French = 프랑스어
+  La Dioptrique = 『굴절 광학』
+  La Géométrie = 『기하학』
+  Latin = 라틴어
+  Leiden = 레이던
+  Les Météores = 『기상학』
+  Meditations = 『명상록』
+  Meditations on First Philosophy = 『제1철학에 관한 성찰』
+  Netherlands = 네덜란드
+  Philosophy = 철학
+  Principles of Philosophy = 『철학의 원리』
+  René Descartes = 르네 데카르트
+  Skepticism = 회의주의
+  modern philosophy = 근대 철학
+ENTRY:
+Philosophical and autobiographical treatise by [[René Descartes|Descartes]], published in 1637. It is best known as the source of the phrase *Je pense, donc je suis* ("I think, therefore I am"), which appears in Part IV. Descartes tackled the problem of [[Skepticism|skepticism]] by starting from doubt of everything, so as to assess the world from a fresh perspective free of preconceived notions. The work is important to the development of modern philosophy and the natural sciences. Written in French to reach a wider audience than Latin would have allowed, it was originally published in Leiden, Netherlands, and a Latin translation appeared in 1656 in [[Amsterdam]]. It was intended as an introduction to three works, *La Dioptrique*, *Les Météores*, and *La Géométrie*, the last containing concepts that later developed into the [[Cartesian coordinate system]]. With *Meditations on First Philosophy*, *Principles of Philosophy*, and *Rules for the Direction of the Mind*, it forms the base of the [[Epistemology|epistemology]] known as Cartesianism.
+
+=== KEY: Discrete_mathematics_27ce97
+HEADWORD: Discrete mathematics = 이산 수학
+LEVEL: 3
+GLOSSARY:
+  Coding theory = 부호 이론
+  Computer science = 컴퓨터 과학
+  Euclidean = 유클리드
+  Euclidean geometry = 유클리드 기하학
+  Fulkerson Prize = 풀커슨상
+  Georg Cantor = 게오르크 칸토어
+  Graph theory = 그래프 이론
+  Information theory = 정보 이론
+  Mathematical logic = 수리 논리학
+  Number = 수
+  Number theory = 수론
+  Research = 연구
+  automata theory = 오토마타 이론
+  automated theorem proving = 자동 정리 증명
+  combinatorics = 조합론
+  computability = 계산 가능성
+  countable sets = 가산 집합
+  formal language theory = 형식 언어 이론
+  induction = 수학적 귀납법
+  information theory = 정보 이론
+  mathematical logic = 수리 논리학
+  natural numbers = 자연수
+  one-to-one correspondence = 일대일 대응
+  programming languages = 프로그래밍 언어
+  real numbers = 실수
+  set theory = 집합론
+  software development = 소프트웨어 개발
+ENTRY:
+Study of mathematical structures that are "discrete," in the sense of being countable or having a one-to-one correspondence with the natural numbers, rather than "continuous." Objects studied include integers, graphs, and statements in logic. The field excludes topics of continuous mathematics such as real numbers, calculus, and [[Euclidean geometry]]. It has been characterized as the branch of mathematics dealing with countable sets, whether finite or infinite, although there is no exact definition of the term.
+
+Research increased in the latter half of the 20th century partly because of digital computers, which operate in discrete steps and store data in discrete bits. Its concepts are used in [[Computer science|computer science]], including algorithms, programming languages, cryptography, automated theorem proving, and software development.
+
+Major topics include theoretical computer science, which draws heavily on [[Graph theory|graph theory]] and [[Mathematical logic|mathematical logic]] and covers computability, complexity, automata theory, and formal language theory; [[Information theory|information theory]] and [[Coding theory|coding theory]], which design efficient and reliable data transmission and storage methods; logic, the study of valid reasoning and inference; set theory, whose beginning is usually marked by [[Georg Cantor|Georg Cantor]]'s work distinguishing kinds of infinite set; and combinatorics, which studies the ways in which discrete structures can be combined or arranged. Number theory, probability, and proof techniques such as induction also feature prominently.
+
+In university curricula, the subject appeared in the 1980s, initially as a computer science support course, and has since become a first-year course intended to develop mathematical maturity. The Fulkerson Prize is awarded for outstanding papers in the field.
+
+=== KEY: Discrete_uniform_distribution_b15fe0
+HEADWORD: Discrete uniform distribution = 이산 균등 분포
+LEVEL: 4
+GLOSSARY:
+  Allied forces = 연합군
+  Dice = 주사위
+  German = 독일어
+  German tank problem = 독일 전차 문제
+  Integer = 정수
+  Permutation = 순열
+  Probability = 확률
+  Probability distribution = 확률 분포
+  Probability theory = 확률론
+  Statistics = 통계학
+  World = 세계
+  World War II = 제2차 세계 대전
+  probability theory = 확률론
+ENTRY:
+[[Probability distribution]] over a finite set of outcomes that are all equally likely, each with probability 1/n for n outcomes. It is a symmetric distribution studied in [[Probability theory|probability theory]] and [[Statistics|statistics]]. A fair six-sided [[Dice|die]] is a common example, with each face having probability 1/6, although the distribution of the sum of two dice rolls is not uniform. Such distributions can be defined over any finite set, including random [[Permutation|permutations]]. When the outcomes are the [[Integer|integers]] in an interval [a,b], a and b are the distribution's parameters and n = b − a + 1. Estimating the maximum of such a distribution from a sample is known as the German tank problem, after Allied forces used it in [[World War II]] to estimate German tank production.
+
+=== KEY: Discrimination_6c5fb7
+HEADWORD: Discrimination = 차별
+LEVEL: 3
+GLOSSARY:
+  Ableism = 비장애 중심주의
+  American Civil War = 남북 전쟁
+  American English = 미국 영어
+  Audit studies = 감사 연구
+  Caste = 카스트
+  Civil War = 남북 전쟁
+  Human = 인간
+  Human Rights Watch = 휴먼 라이츠 워치
+  Latin = 라틴어
+  Rights = 인권
+  Sexual orientation = 성적 지향
+  UNICEF = 유니세프
+  Watch = 손목시계
+  affirmative action = 적극적 우대 조치
+  discriminare = 디스크리미나레
+  positive discrimination = 적극적 차별
+  reverse discrimination = 역차별
+  sexual orientation = 성적 지향
+ENTRY:
+Process of making unjustified distinctions between people based on the groups, classes, or other categories to which they belong or are perceived to belong, usually in a way that deprives them of legal or human rights. The group may be identified by features such as race, gender, height, age, class, religion, disability, or [[Sexual orientation|sexual orientation]]. It involves depriving members of one group of opportunities or privileges available to members of another.
+
+The English word appeared in the early 17th century, from Latin *discriminare*, "to distinguish between," and was long a synonym for discernment, as in "taste and discrimination." Since the [[American Civil War]], the term evolved in [[American English]] to mean prejudicial treatment based on race, later generalized to membership in any socially disfavored group.
+
+Moral philosophers often define discrimination as acts, practices, or policies that wrongfully impose a relative disadvantage on persons because of their membership in a salient social group; an individual need not be actually harmed, only treated worse than others for an arbitrary reason. A non-moralized definition does not treat discrimination as wrong by definition.
+
+Recognized types include age, [[Caste|caste]], citizenship, and disability discrimination (see [[Ableism|ableism]]). According to [[UNICEF]] and Human Rights Watch, caste discrimination affects an estimated 250 million people worldwide.
+
+Discriminatory laws and practices exist in many countries. Audit studies have found persistent disparities in hiring and lending, but researchers dispute their causes, including how far they reflect prejudice or inferences from observable signals of productivity. Countermeasures such as quotas and affirmative action, sometimes called reverse discrimination or positive discrimination, have been controversial: supporters say they redress past and present injustice, while critics cite stigma for beneficiaries and resentment among non-preferred groups.
+
+=== KEY: Discus_throw_7ef3ba
+HEADWORD: Discus throw = 원반던지기
+LEVEL: 4
+GLOSSARY:
+  1896 Summer Olympics = 1896년 하계 올림픽
+  Bohemia = 보헤미아
+  Czech = 체코어
+  Czech Republic = 체코
+  Decathlon = 10종 경기
+  Discobolus = 「원반 던지는 사람」
+  František Janda-Suk = 프란티셰크 얀다수크
+  Germany = 독일
+  Greece = 그리스
+  Magdeburg = 마그데부르크
+  Olympic Games = 올림픽
+  Shot put = 포환던지기
+  Summer Olympic Games = 하계 올림픽
+  Summer Olympics = 하계 올림픽
+  Track and field = 육상 경기
+  ancient Greece = 고대 그리스
+  ancient Greek pentathlon = 고대 그리스 5종 경기
+  rotational throw = 회전 투법
+  shot put = 포환던지기
+ENTRY:
+[[Track and field]] event in which athletes throw a heavy disc, or discus, as far as possible. The event originated in ancient Greece, where it was one of the events of the ancient Greek pentathlon, and it is part of the modern [[Decathlon|decathlon]]. It was revived in Magdeburg, Germany, in the 1870s and has been part of the modern [[Summer Olympic Games]] since the 1896 Summer Olympics. Women's competition, begun in the early 20th century, was added to the Olympic program for the 1928 Games. František Janda-Suk of [[Bohemia]] (now the [[Czech Republic]]) introduced the rotational throw after studying the statue Discobolus and won a silver medal at the 1900 Olympics. The rules are virtually identical to those of [[Shot put|shot put]], except that the circle is larger.
+
+=== KEY: Discworld_41dd88
+HEADWORD: Discworld = 디스크월드
+LEVEL: 5
+GLOSSARY:
+  BBC = BBC
+  Big Read = 빅 리드
+  Crown = 영국 왕실
+  Fantasy = 판타지
+  Folklore = 민속
+  Myth = 신화
+  Terry Pratchett = 테리 프래쳇
+  The Colour of Magic = 『마법의 색』
+  The Shepherd's Crown = 『양치기의 왕관』
+  graphic novels = 그래픽 노블
+ENTRY:
+Series of fantasy comedy novels, graphic novels, and associated works by English author Terry Pratchett, set on a flat planet balanced on four elephants that stand on a giant turtle. The series consists of 41 novels, from *The Colour of Magic* (1983) to *The Shepherd's Crown* (2015), published posthumously. The novels satirize [[Fantasy|fantasy]] conventions, [[Myth|mythology]], and [[Folklore|folklore]], and comment on contemporary cultural, political, and scientific issues. More than 80 million Discworld books have been sold in 37 languages, and four novels were in the top 100 of the [[BBC]] Big Read.
+
+=== KEY: Disease_e7067a
+HEADWORD: Disease = 질병
+LEVEL: 2
+GLOSSARY:
+  COPD = 만성 폐쇄성 폐질환
+  Cancer = 암
+  Iatrogenic disease = 의원성 질환
+  Immune system = 면역계
+  Pathogen = 병원체
+  Pathology = 병리학
+  Stroke = 뇌졸중
+  acquired disease = 후천성 질환
+  acute disease = 급성 질환
+  autoimmune disorders = 자가 면역 질환
+  chronic disease = 만성 질환
+  communicable = 감염성
+  congenital disorder = 선천성 질환
+  deficiency = 결핍성
+  genetic disease = 유전 질환
+  hereditary disease = 유전성 질환
+  hypersensitivity = 과민증
+  idiopathic disease = 특발성 질환
+  illness = 병환
+  immunodeficiency = 면역 결핍
+  ischemic heart disease = 허혈성 심장 질환
+  multicellular organisms = 다세포 생물
+  neuropsychiatric conditions = 신경정신 질환
+  non-communicable = 비감염성
+  primary disease = 원발성 질환
+  prions = 프라이온
+  secondary disease = 속발성 질환
+  terminal disease = 말기 질환
+ENTRY:
+Particular abnormal condition that adversely affects the structure or function of all or part of an organism and is not immediately due to external injury. Diseases are usually associated with specific signs and symptoms. They may be caused by external factors such as [[Pathogen|pathogens]] or by internal dysfunctions; for example, internal dysfunctions of the [[Immune system|immune system]] can produce immunodeficiency, hypersensitivity, allergies, and autoimmune disorders.
+
+In humans, the term is often used more broadly for any condition that causes or can cause pain, dysfunction, distress, social problems, or death to the person affected or to those in contact with them. In this sense it sometimes includes injuries, disabilities, disorders, syndromes, infections, and isolated symptoms, though in other contexts these are treated as separate categories.
+
+Four main types are recognized: infectious, deficiency, hereditary, and physiological diseases. Diseases are also classified as communicable or non-communicable. Infectious diseases result from pathogenic agents including viruses, bacteria, fungi, protozoa, multicellular organisms, and prions. A colonization that produces no clinically evident impairment, such as the normal bacteria and yeasts of the gut, is not considered a disease. Non-infectious diseases include most forms of [[Cancer|cancer]], heart disease, and genetic disease.
+
+Several terms describe disease by course or origin. An acute disease is short-term; a chronic disease persists, often for at least six months. A congenital disorder is present at birth, while an acquired disease begins later in life. A genetic disease is caused by one or more mutations, and a hereditary disease is a genetic disease that runs in families. Iatrogenic disease is caused by medical intervention, and idiopathic disease has an unknown cause. A primary disease arises from a root cause, whereas a secondary disease is a complication of a prior one. A terminal disease is expected to result in death.
+
+The term *illness* is sometimes used for the patient's subjective experience, so a person can have a disease without being ill, or be ill without being diseased. The deadliest diseases in humans are ischemic heart disease, followed by [[Stroke|stroke]] and COPD, a lung disease. In developed countries, neuropsychiatric conditions such as depression and anxiety cause the most sickness overall. Pathology is the study of disease, including its causes.
+
+=== KEY: Disgust_8b5dbb
+HEADWORD: Disgust = 혐오
+LEVEL: 4
+GLOSSARY:
+  Anxiety disorder = 불안 장애
+  Disgust = 혐오
+  Emotion = 감정
+  Feces = 대변
+  Obsessive–compulsive disorder = 강박 장애
+  Pathogen = 병원체
+  Research = 연구
+  Sense of smell = 후각
+  Taste = 미각
+  basic emotions = 기본 감정
+  elicitors = 유발 요인
+  proto-nausea = 원시 구역질
+ENTRY:
+[[Emotion|Emotional]] response of rejection or revulsion to something potentially contagious or offensive. Disgust is experienced primarily in relation to [[Taste|taste]], and secondarily to anything that causes a similar feeling by [[Sense of smell|smell]], touch, or vision. It is one of the basic emotions in Robert Plutchik's theory and invokes a characteristic facial expression. Unlike fear, anger, and sadness, it is associated with a decrease in heart rate and with proto-nausea of the stomach. It is believed to have evolved to help avoid [[Pathogen|pathogens]], with common elicitors including [[Feces|feces]], spoiled food, and dead bodies. Research has found a relationship between disgust and [[Anxiety disorder|anxiety disorders]], including contamination-related [[Obsessive–compulsive disorder|obsessive–compulsive disorder]].
+
+=== KEY: Dishwasher_45ded9
+HEADWORD: Dishwasher = 식기세척기
+LEVEL: 4
+GLOSSARY:
+  1893 World's Fair = 1893년 시카고 만국 박람회
+  Chicago = 시카고
+  Cutlery = 커틀러리
+  Josephine Cochrane = 조세핀 코크런
+  Machine = 기계
+  Tableware = 식기
+  World's Fair = 만국 박람회
+  booster heater = 부스터 히터
+  rinse aid = 헹굼 보조제
+ENTRY:
+Machine that cleans [[Tableware|dishware]], cookware, and [[Cutlery|cutlery]] automatically. Unlike manual dishwashing, which relies on physical scrubbing, it sprays hot water, typically between 45 and 75 °C (110 and 170 °F), mixed with detergent from rotating sprayers, and recirculates the mixture to save water and energy. A rinse aid reduces water spots, and the dishes are then dried by one of several methods. Industrial dishwashers in hotels and restaurants wash at 65–71 °C (149–160 °F) and sanitize with a booster heater that provides an 82 °C (180 °F) "final rinse" or with a chemical sanitizer. The most successful early hand-powered model was invented in 1886 by Josephine Cochrane, whose design was unveiled at the 1893 World's Fair in [[Chicago]]. Dishwashers were sold as domestic utilities from the postwar boom of the 1950s, albeit only to the wealthy.
+
+=== KEY: Disney_Channel_bd8f2d
+HEADWORD: Disney Channel = 디즈니 채널
+LEVEL: 5
+GLOSSARY:
+  Disney = 디즈니
+  Family = 가족
+  Social media = 소셜 미디어
+  Streaming media = 스트리밍 미디어
+  The Walt Disney Company = 월트 디즈니 컴퍼니
+  United States = 미국
+  Walt Disney = 월트 디즈니
+  Walt Disney Company = 월트 디즈니 컴퍼니
+  pay television = 유료 방송
+  premium channel = 프리미엄 채널
+  social media = 소셜 미디어
+ENTRY:
+American children's pay television channel and flagship property of Disney Kids & Family, a unit of [[The Walt Disney Company]]. Launched on April 18, 1983, as a premium channel, it dropped "The" from its name in 1997 and shifted its focus to children and adolescents ages 6–14. As of November 2023, it was available to approximately 70 million pay television households in the [[United States]], down from a peak of 100 million in 2011, amid competition from Disney+ and from [[Streaming media|streaming media]] and [[Social media|social media]] platforms.
+
+=== KEY: Disneyland_eee86e
+HEADWORD: Disneyland = 디즈니랜드
+LEVEL: 4
+GLOSSARY:
+  Amusement park = 놀이공원
+  Anaheim, California = 애너하임
+  Bayou Country = 바이유 컨트리
+  Bear = 곰
+  Bear Country = 베어 컨트리
+  California = 캘리포니아주
+  Disney = 디즈니
+  Disneyland = 디즈니랜드
+  Disneyland Resort = 디즈니랜드 리조트
+  Edge = 엣지
+  Magic Kingdom = 매직 킹덤
+  Mickey's Toontown = 미키의 툰타운
+  New Orleans = 뉴올리언스
+  New Orleans Square = 뉴올리언스 스퀘어
+  Square = 정사각형
+  Star = 항성
+  Star Wars = 스타워즈
+  The Walt Disney Company = 월트 디즈니 컴퍼니
+  Theme park = 테마파크
+  United States = 미국
+  Walt Disney = 월트 디즈니
+  Walt Disney Company = 월트 디즈니 컴퍼니
+  berm = 둔덕
+  hub-and-spoke layout = 허브 앤드 스포크 배치
+  theme park = 테마파크
+ENTRY:
+[[Amusement park|Theme park]] at the Disneyland Resort in [[Anaheim, California]], United States, opened on July 17, 1955. It was the first theme park opened by [[The Walt Disney Company|the Walt Disney Company]] and the only one designed under the direct supervision of [[Walt Disney]]. The park pioneered a strict dedication to theming and cleanliness, a berm to block views of the outside world, and a hub-and-spoke layout, features that influenced theme park design. Later additions include New Orleans Square (1966), Bear Country (1972, now Bayou Country), Mickey's Toontown (1993), and [[Star Wars|Star Wars: Galaxy's Edge]] (2019). With 757 million visits as of December 2021, it has had a larger cumulative attendance than any other theme park. It received 17.406 million visitors in 2025, the second most visited amusement park in the world that year, behind Magic Kingdom.
+
+=== KEY: Dispersion_chemistry_cba2ff
+HEADWORD: Dispersion = 분산계
+LEVEL: 4
+GLOSSARY:
+  Brownian motion = 브라운 운동
+  Colloid = 콜로이드
+  Convection = 대류
+  Diffusion = 확산
+  Emulsion = 에멀션
+  Foam = 거품
+  Gel = 젤
+  Mixture = 혼합물
+  Phase (matter) = 상
+  Suspension (chemistry) = 현탁액
+  aerosols = 에어로졸
+  continuous phase = 연속상
+  dispersed phase = 분산상
+  interfacial tension = 계면 장력
+  precipitation = 침전
+ENTRY:
+Mixture in which particles of one material are distributed through a continuous [[Phase (matter)|phase]] of another material, which may be in the same or different states of matter. Dispersions are classified by particle size, whether precipitation occurs, and the presence of Brownian motion. Dispersions of particles large enough to settle are called [[Suspension (chemistry)|suspensions]], while those of smaller particles are [[Colloid|colloids]] and solutions. Common types include [[Emulsion|emulsions]], [[Foam|foams]], [[Gel|gels]], and aerosols. Dispersion occurs through [[Diffusion|diffusion]] and [[Convection|convection]], with convection dominant in significant turbulent flow and diffusion dominant where there is little to no turbulence. Some liquid dispersions become gels, or even solids, at a concentration of the dispersed phase above a critical level that depends on particle size and interfacial tension.
+
+=== KEY: DisplayPort_272cdd
+HEADWORD: DisplayPort = 디스플레이포트
+LEVEL: 5
+GLOSSARY:
+  Consumer Electronics Control = CEC
+  Control = 「Control」
+  DVI = DVI
+  Ethernet = 이더넷
+  HDMI = HDMI
+  Remote control = 리모컨
+  USB = USB
+  VESA = VESA
+  VGA = VGA
+  Video = 비디오
+  Video Electronics Standards Association = 비디오 전자공학 표준 위원회
+ENTRY:
+Digital display interface developed by the Video Electronics Standards Association (VESA) to connect a video source, such as a computer, to a display such as a monitor. It can carry digital audio and other data, such as [[USB]], over one cable, using packet-based transmission similar to that of [[Ethernet]]. Adapters are available for connecting it to [[HDMI]], DVI, and VGA. Some implementations support Consumer Electronics Control, which allows devices to be operated with a single [[Remote control|remote control]].
+
+=== KEY: Dissection_d2c5b8
+HEADWORD: Dissection = 해부
+LEVEL: 4
+GLOSSARY:
+  Anatomy = 해부학
+  Autopsy = 부검
+  Biology = 생물학
+  Connective tissue = 결합 조직
+  Formaldehyde = 포름알데히드
+  Latin = 라틴어
+  Pathology = 병리학
+  Surgery = 외과
+  cadavers = 시신
+  connective tissue = 결합 조직
+  forensic medicine = 법의학
+  virtual dissection = 가상 해부
+ENTRY:
+Dismemberment of a deceased animal or plant body to study its [[Anatomy|anatomical]] structure, from [[Latin]] *dissecare* ("to cut to pieces"). Less extensive dissection of plants and small animals preserved in [[Formaldehyde|formaldehyde]] solution is common in [[Biology|biology]] classes, while medical students carry out extensive dissections of cadavers as part of their teaching in anatomy, [[Pathology|pathology]], and forensic medicine. An [[Autopsy|autopsy]] uses dissection to determine the cause of death in humans. In [[Surgery|surgery]], dissection means separating an organ, nerve, or blood vessel from its surrounding [[Connective tissue|connective tissue]] to minimize unwanted damage. Objections to the use of cadavers have led to alternatives such as virtual dissection of computer models.
+
+=== KEY: Dissociative_identity_disorder_727aea
+HEADWORD: Dissociative identity disorder = 해리성 정체감 장애
+LEVEL: 5
+GLOSSARY:
+  DSM-III = DSM-III
+  DSM-IV = DSM-IV
+  Dissociative disorder = 해리 장애
+  Mass media = 대중 매체
+  Psychotherapy = 심리 치료
+  Therapy = 치료
+  alters = 교대 인격
+  multiple personality disorder = 다중 인격 장애
+  sociogenic model = 사회 발생 모델
+  trauma model = 외상 모델
+ENTRY:
+Dissociative disorder, previously known as multiple personality disorder, characterized by at least two personality states, or "alters." The diagnosis is controversial. The trauma model views it as an organic response to severe childhood trauma, while the sociogenic model treats it as learned behavior shaped by [[Therapy|therapy]], culture, and [[Mass media|media]]. After multiple personality disorder was recognized in DSM-III in 1975, diagnoses reached 50,000 by the 1990s, before a sharp decline and reclassification as dissociative identity disorder in DSM-IV. Treatment generally involves supportive care and [[Psychotherapy|psychotherapy]].
+
+=== KEY: Dissolution_of_the_Soviet_Union_161237
+HEADWORD: Dissolution of the Soviet Union = 소련 해체
+LEVEL: 4
+GLOSSARY:
+  Accords = 협약
+  August 1991 coup = 1991년 8월 쿠데타
+  August 1991 coup attempt = 1991년 8월 쿠데타
+  Belovezha Accords = 벨로베자 협정
+  Boris Yeltsin = 보리스 옐친
+  Cold War = 냉전
+  Commonwealth = 영연방
+  Commonwealth of Independent States = 독립국가연합
+  Estonia = 에스토니아
+  Lithuania = 리투아니아
+  Mikhail Gorbachev = 미하일 고르바초프
+  Moscow = 모스크바
+  Revolutions of 1989 = 1989년 혁명
+  Soviet Union = 소련
+  state sovereignty = 국가 주권
+  union republics = 연방 구성 공화국
+ENTRY:
+Breakup of the [[Soviet Union]] into independent sovereign states, formally completed on December 26, 1991. Unrest in the 15 union republics became political conflict with the central government: [[Estonia]] declared state sovereignty on November 16, 1988, and [[Lithuania]] declared independence in March 1990. An August 1991 coup attempt by communist hardliners against [[Mikhail Gorbachev]] failed, and the turmoil caused the central government in Moscow to lose influence, so many republics declared independence. On December 8, 1991, the leaders of the three founding republics signed the Belovezha Accords, which established the [[Commonwealth of Independent States]]. On December 25, Gorbachev resigned and transferred his presidential powers to [[Boris Yeltsin]]. The dissolution marked the end of the [[Cold War]] and the culmination of the [[Revolutions of 1989]].
+
+=== KEY: Distance_0aa6f4
+HEADWORD: Distance = 거리
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Euclidean = 유클리드
+  Euclidean geometry = 유클리드 기하학
+  Expansion of the universe = 우주 팽창
+  Length = 길이
+  Metric space = 거리 공간
+  Physics = 물리학
+  Pythagorean = 피타고라스학파
+  Pythagorean theorem = 피타고라스 정리
+  Theory of relativity = 상대성 이론
+  classical physics = 고전 물리학
+  frame of reference = 좌표계
+  geodesic = 측지선
+  great-circle distance = 대원 거리
+  inertial frame = 관성 기준틀
+  inertial frame of reference = 관성 기준틀
+ENTRY:
+Numerical or occasionally qualitative measure of how far apart objects, points, people, or ideas are. In [[Physics|physics]] and everyday usage, distance may refer to a physical [[Length|length]] or to an estimate based on other criteria. The straight-line, or [[Euclidean geometry|Euclidean]], distance between two points is the usual meaning in classical physics and is computed with the [[Pythagorean theorem]]. The shortest path along the curved surface of the [[Earth]] is approximated by the great-circle distance on a sphere, and is known as a geodesic. In [[Theory of relativity|relativity]], distances depend on the choice of inertial frame of reference, and on galactic scales the [[Expansion of the universe]] also affects measurement. Many abstract notions of distance are formalized in mathematics as a [[Metric space]].
+
+=== KEY: Distillation_c15525
+HEADWORD: Distillation = 증류
+LEVEL: 4
+GLOSSARY:
+  Akkadian = 아카드어
+  Argon = 아르곤
+  Babylonians = 바빌로니아인
+  Bar (unit) = 바
+  Cryogenic air separation = 심랭 공기 분리
+  Desalination = 담수화
+  Distillation = 증류
+  Mesopotamia = 메소포타미아
+  Mixture = 혼합물
+  Nitrogen = 질소
+  Oil refinery = 정유 공장
+  Oxygen = 산소
+  fractional distillation = 분별 증류
+  oil refineries = 정유 공장
+  relative volatilities = 비휘발도
+  still = 증류기
+ENTRY:
+Process of separating the components of a liquid [[Mixture|mixture]] by selective boiling and condensation of the vapors in a still. It operates at pressures from 0.14 [[Bar (unit)|bar]] to nearly 21 bar, and can separate components whose relative volatilities range from 1.17 to 81.2. Its uses include producing alcoholic beverages from fermented products, [[Desalination|desalination]] for potable water, and fractional distillation in [[Oil refinery|oil refineries]]. Cryogenic air separation yields [[Oxygen|oxygen]], [[Nitrogen|nitrogen]], and [[Argon|argon]] for industrial gases. Distillation has an enormous environmental footprint, consuming approximately 25% of all industrial energy use. Akkadian tablets dated c. 1200 BC describe perfumery operations and provide evidence that an early form of distillation was known to the Babylonians of ancient [[Mesopotamia]].
+
+=== KEY: Distributive_property_5885ad
+HEADWORD: Distributive property = 분배법칙
+LEVEL: 4
+GLOSSARY:
+  Addition = 덧셈
+  Boolean algebra = 불 대수
+  Complex number = 복소수
+  Field (mathematics) = 체
+  Mathematical logic = 수리 논리학
+  Multiplication = 곱셈
+  Property = 재산
+  Ring (mathematics) = 환
+  algebraic structures = 대수 구조
+  complex numbers = 복소수
+  distributive law = 분배법칙
+  elementary algebra = 초등 대수학
+  logical and = 논리곱
+  mathematical logic = 수리 논리학
+  matrices = 행렬
+  polynomials = 다항식
+ENTRY:
+Property of two mathematical operations, most commonly [[Multiplication|multiplication]] over [[Addition|addition]]. The distributive law, x⋅(y+z) = x⋅y + x⋅z, holds in elementary algebra; for example, 2⋅(1+3) = (2⋅1) + (2⋅3). It is part of the definition of most algebraic structures with two operations, including [[Complex number|complex numbers]], polynomials, matrices, [[Ring (mathematics)|rings]], and [[Field (mathematics)|fields]]. It also appears in [[Boolean algebra]] and [[Mathematical logic|mathematical logic]], where each of the logical and (∧) and or (∨) distributes over the other. In rings and fields, multiplication is distributive over addition, but addition is not distributive over multiplication.
+
+=== KEY: Dita_Von_Teese_18502d
+HEADWORD: Von Teese, Dita = 본 티즈, 디타
+LEVEL: 5
+GLOSSARY:
+  Berlin = 베를린
+  Burlesque = 벌레스크
+  CSI: Crime Scene Investigation = 「CSI: 과학수사대」
+  Crime = 범죄
+  London = 런던
+  Marilyn Manson = 매릴린 맨슨
+  New York = 뉴욕
+  Paris = 파리
+  Queen = 퀸
+  Queen of Burlesque = 벌레스크의 여왕
+  RuPaul's Drag Race = 「루폴의 드래그 레이스」
+  York = 요크
+  vedette = 베데트
+ENTRY:
+American vedette, [[Burlesque|burlesque]] dancer, model, and businesswoman. She is credited with re-popularizing burlesque performance and was dubbed the "Queen of Burlesque." She has appeared in [[CSI: Crime Scene Investigation]] and RuPaul's Drag Race, and has released two books on burlesque history, fetishism, and beauty. She toured the world with her shows in cities including [[Paris]], London, Berlin, and New York. She has also created four perfumes and her own lingerie brand. She was married to singer Marilyn Manson from December 2005 to January 2007, and performed in his music videos.
+
+=== KEY: Divan_i_Shams_i_Tabrizi_350a12
+HEADWORD: Divan-i Shams-i Tabrizi = 샴스 타브리즈 시집
+LEVEL: 4
+GLOSSARY:
+  Arabic = 아랍어
+  Divan-i Kabir = 『대시집』
+  Divan-i Shams = 『샴스 시집』
+  Ghazal = 가잘
+  Kabir = 카비르
+  Konya = 코냐
+  Persian = 페르시아어
+  Persian language = 페르시아어
+  Rumi = 루미
+  Shams = 샴스
+  Shams-i Tabrizi = 샴스 타브리즈
+  Sufi = 수피
+  still = 증류기
+ENTRY:
+Collection of lyric poems in [[Persian language|Persian]] by the Sufi mystic [[Rumi]], containing more than 40,000 verses and over 3,000 [[Ghazal|ghazals]]. Also known as *Divan-i Kabir* and *Divan-i Shams*, it is dedicated to Rumi's spiritual teacher, Shams-i Tabrizi, and contains many verses praising him and lamenting his disappearance. Shams left Konya in 1246, returned, and vanished again in 1248, possibly having been murdered. Most of the poems were written in the aftermath of this second disappearance, and they were collected by Rumi's students after his death. Rumi's trance-like style differs from that of other Islamic poets, and some poems are in [[Arabic]]. By the sixteenth century, editors arranged the poems alphabetically by the last letter of each line, a method still used in modern Iranian editions.
+
+=== KEY: Diverticulitis_41ee8c
+HEADWORD: Diverticulitis = 게실염
+LEVEL: 5
+GLOSSARY:
+  CT scan = 컴퓨터 단층 촬영
+  Diarrhea = 설사
+  Large intestine = 대장
+  Obesity = 비만
+  Smoking = 흡연
+  Western world = 서양
+  diverticula = 게실
+  diverticulosis = 게실증
+  large intestine = 큰창자
+  nonsteroidal anti-inflammatory drugs = 비스테로이드성 소염제
+ENTRY:
+Gastrointestinal disease characterized by inflammation of diverticula, abnormal pouches that develop in the wall of the [[Large intestine|large intestine]]. Symptoms typically include sudden lower abdominal pain, sometimes with [[Diarrhea|diarrhea]]. Risk factors include [[Obesity|obesity]], [[Smoking|smoking]], and nonsteroidal anti-inflammatory drugs. Diagnosis is typically by [[CT scan]], and mild cases are treated with antibiotics by mouth and a liquid diet. The disease is common in the [[Western world]], where about 35% of people have diverticulosis, the presence of uninflamed pouches.
+
+=== KEY: Divination_893b32
+HEADWORD: Divination = 점술
+LEVEL: 4
+GLOSSARY:
+  Alexander the Great = 알렉산드로스 대왕
+  Amun = 아문
+  Astrology = 점성술
+  Cicero = 키케로
+  De Divinatione = 『예언에 관하여』
+  Magic (supernatural) = 마법
+  Oracle = 오라클
+  Oracle of Amun at Siwa = 시와의 아문 신탁
+  Ritual = 의례
+  Siwa = 시와
+  Superstition = 미신
+  Tarot = 타로
+  fortune-telling = 점치기
+  rune casting = 룬 점
+  tea-leaf reading = 찻잎 점
+ENTRY:
+Attempt to gain insight into a question or situation by way of a [[Ritual|ritual]] or practice of [[Magic (supernatural)|magic]]. Diviners read signs, events, or omens, often claiming insight from spirits, gods, or the "will of the universe." Practices include [[Astrology|astrology]], [[Tarot|tarot]] card reading, rune casting, and tea-leaf reading. Where a distinction from fortune-telling is drawn, divination is more formal, ritualistic, and social, usually in a religious context. Rigorous experiments do not support the notion that divination can predict the future more reliably than would be possible without such techniques, and it has been dismissed as [[Superstition|superstition]] in the modern era. In antiquity, [[Cicero]] criticized it in *De Divinatione* (1st century BC). The Oracle of [[Amun]] at Siwa was visited by [[Alexander the Great]] in 332 BC.
+
+=== KEY: Divine_Comedy_6852fe
+HEADWORD: Divine Comedy = 신곡
+LEVEL: 4
+GLOSSARY:
+  Beatrice = 베아트리체
+  Dante = 단테
+  Dante Alighieri = 단테 알리기에리
+  God = 신
+  Hell = 지옥
+  Inferno (Dante) = 「지옥편」
+  Italian language = 이탈리아어
+  Italian literature = 이탈리아 문학
+  Paradise = 천국
+  Paradiso = 「천국편」
+  Purgatorio = 「연옥편」
+  Purgatory = 연옥
+  Tuscan = 토스카나어
+  Virgil = 베르길리우스
+  cantiche = 칸티카
+  cantos = 칸토
+ENTRY:
+Italian narrative poem by [[Dante Alighieri|Dante]], begun c. 1308 and completed c. 1321, shortly before the author's death. Widely considered the pre-eminent work of [[Italian literature]] and one of the greatest works of Western literature, it describes Dante's journey through [[Hell]], [[Purgatory]], and Paradise, in which souls receive punishment or reward based on their actions. Allegorically, it represents the soul's journey toward [[God]]. Dante is guided by [[Virgil]] through Hell and most of Purgatory, and by Beatrice through Paradise. Written in Tuscan, it helped establish the standardized Italian language. Its 14,233 lines are divided into three cantiche, [[Inferno (Dante)|Inferno]], Purgatorio, and Paradiso, of 33 cantos each, plus an introductory canto.

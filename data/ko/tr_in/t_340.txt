@@ -1,0 +1,972 @@
+=== KEY: Thermobaric_weapon_298c47
+HEADWORD: Thermobaric weapon = 열압력탄
+LEVEL: 5
+GLOSSARY:
+  Explosive = 폭발물
+  Oxygen = 산소
+  aerosol bomb = 에어로졸 폭탄
+  blast wave = 폭풍파
+  oxidizer = 산화제
+  vacuum bomb = 진공 폭탄
+ENTRY:
+Type of [[Explosive|explosive]] munition that disperses an aerosol cloud of fuel and ignites it using atmospheric [[Oxygen|oxygen]]. Also called an aerosol bomb or vacuum bomb, it needs no oxidizer of its own, so it is significantly more energetic than conventional explosives of equal weight. Its blast wave lasts significantly longer than that of a conventional explosive, and it is considerably more effective in enclosed spaces such as tunnels, buildings and fortifications. It is unsuitable underwater, at high altitude or in adverse weather. Many types can be fitted to hand-held launchers. The term derives from Greek words for "heat" and "pressure."
+
+=== KEY: Thermodynamic_cycle_44bb7f
+HEADWORD: Thermodynamic cycle = 열역학 사이클
+LEVEL: 4
+GLOSSARY:
+  Entropy = 엔트로피
+  Heat = 열
+  Heat pump = 열펌프
+  Internal combustion engine = 내연 기관
+  Otto and Diesel cycles = 오토 사이클과 디젤 사이클
+  Rankine cycle = 랭킨 사이클
+  Steam turbine = 증기 터빈
+  heat engine = 열기관
+  heat pump = 열펌프
+  internal combustion engines = 내연 기관
+  internal energy = 내부 에너지
+  power cycle = 동력 사이클
+  state function = 상태 함수
+  thermodynamic processes = 열역학 과정
+  working fluid = 작동 유체
+ENTRY:
+Linked sequence of thermodynamic processes that returns a system to its initial state. The working fluid may convert heat from a warm source into useful work and reject the remainder to a cold sink, which makes the cycle a [[Heat|heat]] engine. Run in reverse, the cycle becomes a [[Heat pump|heat pump]] that uses work to move heat from a cold source to a warm sink. Because the system returns to its initial state, its internal energy does not change over the cycle, and the net work equals the net heat transferred. Power cycles include the Rankine cycle of [[Steam turbine|steam turbines]] and the Otto and Diesel cycles of [[Internal combustion engine|internal combustion engines]]. The net [[Entropy|entropy]] change over a cycle is zero, because entropy is a state function. On a pressure–volume diagram, a clockwise loop indicates a power cycle.
+
+=== KEY: Thermodynamic_free_energy_325058
+HEADWORD: Thermodynamic free energy = 열역학적 자유 에너지
+LEVEL: 4
+GLOSSARY:
+  Enthalpy = 엔탈피
+  Gibbs = 기브스
+  Gibbs free energy = 깁스 자유 에너지
+  Helmholtz free energy = 헬름홀츠 자유 에너지
+  Hermann von Helmholtz = 헤르만 폰 헬름홀츠
+  Potential energy = 퍼텐셜 에너지
+  Statistical mechanics = 통계 역학
+  partition function = 분배 함수
+  potential energy = 퍼텐셜 에너지
+  statistical mechanics = 통계 역학
+ENTRY:
+State function whose change is the maximum work a system can perform at constant temperature. Its sign shows whether a process is thermodynamically favorable or forbidden. Because free energy usually contains [[Potential energy|potential energy]], only changes in it are physically meaningful. The [[Gibbs free energy|Gibbs free energy]], G = H − TS, where H is [[Enthalpy|enthalpy]], is most useful for processes at constant pressure and temperature and is the usual choice in chemistry. The Helmholtz free energy, A = U − TS, measures the reversible work obtainable at constant temperature and is the usual choice in physics. [[Hermann von Helmholtz|Hermann von Helmholtz]] introduced the concept in 1882. The Helmholtz function is proportional to the logarithm of the partition function in [[Statistical mechanics|statistical mechanics]].
+
+=== KEY: Thermodynamics_f1ed49
+HEADWORD: Thermodynamics = 열역학
+LEVEL: 3
+GLOSSARY:
+  Boyle's law = 보일의 법칙
+  Branch = 브랜치
+  Constantin Carathéodory = 콘스탄티노스 카라테오도리
+  Energy = 에너지
+  Entropy = 엔트로피
+  Force = 힘
+  Heat = 열
+  James = 야고보
+  Kelvin = 켈빈
+  Laws of thermodynamics = 열역학 법칙
+  Lord Kelvin = 켈빈 경
+  On the Moving Force of Heat = 「열의 동력에 관하여」
+  Otto von Guericke = 오토 폰 게리케
+  Physics = 물리학
+  Robert Boyle = 로버트 보일
+  Robert Hooke = 로버트 훅
+  Rudolf = 루돌프
+  Rudolf Clausius = 루돌프 클라우지우스
+  Statistical mechanics = 통계 역학
+  Steam engine = 증기 기관
+  Thermodynamics = 열역학
+  Thomas = 토머스
+  Thomas Newcomen = 토머스 뉴커먼
+  Thomas Savery = 토머스 세이버리
+  absolute zero = 절대 영도
+  air pump = 공기 펌프
+  external condenser = 분리 응축기
+  first law = 열역학 제1법칙
+  materials science = 재료과학
+  perfect crystal = 완전 결정
+  phase transitions = 상전이
+  physical chemistry = 물리 화학
+  second law = 열역학 제2법칙
+  statistical mechanics = 통계 역학
+  steam engine = 증기 기관
+  third law = 열역학 제3법칙
+  vacuum pump = 진공 펌프
+  zeroth law = 열역학 제0법칙
+ENTRY:
+Branch of [[Physics|physics]] that deals with [[Heat|heat]], work, and temperature, and their relation to [[Energy|energy]], [[Entropy|entropy]], and the physical properties of matter and radiation.
+
+Its behavior is governed by four [[Laws of thermodynamics|laws]] that give a quantitative description using measurable macroscopic quantities and can be explained in terms of microscopic constituents by [[Statistical mechanics|statistical mechanics]]. The zeroth law establishes the concept of temperature. The first law states that energy can be transferred between systems as heat, as work, and with the transfer of matter. The second law defines entropy, which describes the direction in which a system can evolve. The third law holds that the entropy of a perfect crystal approaches zero as temperature nears absolute zero. The field applies to engines, phase transitions, chemical reactions, and even black holes, and is essential to physical chemistry, biochemistry, chemical and mechanical engineering, meteorology, materials science, and economics.
+
+The history of the discipline generally begins with Otto von Guericke, who built the first vacuum pump in 1650. In 1656 Robert Boyle and Robert Hooke built an air pump and noted a correlation between pressure, temperature, and volume, leading to Boyle's law. Thomas Savery built the first engine in 1697, followed by Thomas Newcomen in 1712. James Watt's external condenser greatly raised [[Steam engine|steam engine]] efficiency.
+
+Thermodynamics developed from the desire to improve steam engine efficiency, particularly through Sadi Carnot's work in 1824. Rudolf Clausius first stated the second law in his 1850 paper "On the Moving Force of Heat" and named entropy in 1865. [[Lord Kelvin]] formulated a concise definition of the subject in 1854. In 1909 Constantin Carathéodory presented an axiomatic formulation.
+
+=== KEY: Thermohaline_circulation_c6162c
+HEADWORD: Thermohaline circulation = 열염순환
+LEVEL: 4
+GLOSSARY:
+  Antarctica = 남극 대륙
+  Climate = 기후
+  Climate change = 기후 변화
+  Flux = 선속
+  Gulf Stream = 멕시코 만류
+  North Atlantic = 북대서양
+  North Pacific = 북태평양
+  Ocean = 대양
+  Pacific = 태평양
+  Southern Ocean = 남극해
+  ice sheets = 빙상
+  ocean basins = 해양 분지
+  ocean circulation = 해양 순환
+  upwells = 용승
+ENTRY:
+Part of the large-scale [[Ocean|ocean]] circulation driven by global density gradients from surface heat and freshwater [[Flux|fluxes]]. The name combines "thermo-" (temperature) and "haline" (salt content), which together determine seawater density. Wind-driven surface currents such as the [[Gulf Stream]] carry water poleward, where it cools, sinks and eventually flows into the ocean basins. The bulk upwells in the [[Southern Ocean]], while the oldest waters, with a transit time of approximately 1000 years, upwell in the North Pacific. The circulation transports heat and dissolved matter around the globe, strongly affecting [[Climate|climate]]. Its two major limbs are the Atlantic circulation centered in the North Atlantic and the Southern Ocean circulation near [[Antarctica]]. Evidence suggests both are slowing as [[Climate change|climate change]] adds meltwater from ice sheets, and outright collapse of either would increase droughts in its hemisphere while making the other wetter.
+
+=== KEY: Thermometer_d9cb7b
+HEADWORD: Thermometer = 온도계
+LEVEL: 4
+GLOSSARY:
+  Absolute zero = 절대 영도
+  Alexandria = 알렉산드리아
+  Fahrenheit = 화씨
+  Fahrenheit scale = 화씨 온도 눈금
+  Gabriel = 가브리엘
+  Galen = 갈레노스
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Hero of Alexandria = 알렉산드리아의 헤론
+  Kelvin = 켈빈
+  Kelvin scale = 켈빈 온도 눈금
+  Meteorology = 기상학
+  absolute zero = 절대 영도
+  pneumatic fountain = 공기 분수
+  thermoscopes = 온도경
+ENTRY:
+Device that measures temperature using a sensor whose change is converted into a numerical value. The sensor may be the bulb of a mercury-in-glass thermometer or an infrared detector, and the change is shown on a scale or digital readout. Thermometers are used in technology, industry, [[Meteorology|meteorology]], medicine and cooking. Early devices included Philo of Byzantium's air-filled tube and the pneumatic fountain of [[Hero of Alexandria]]. In the late 16th and early 17th centuries, [[Galileo Galilei]] and others developed air-filled thermoscopes, which indicated temperature changes without numerical scales. [[Galen]] proposed a fixed reference point of equal parts ice and boiling water. Gabriel Fahrenheit's mercury thermometer, invented in 1714, led to the Fahrenheit scale. The Kelvin scale places [[Absolute zero|absolute zero]] at 0 K.
+
+=== KEY: Thermonuclear_weapon_121bff
+HEADWORD: Thermonuclear weapon = 열핵무기
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  Cold War = 냉전
+  Edward Teller = 에드워드 텔러
+  France = 프랑스
+  Ivy Mike = 아이비 마이크
+  John = 존
+  John von Neumann = 존 폰 노이만
+  Nuclear arms race = 핵무기 경쟁
+  Nuclear fusion = 핵융합
+  Nuclear weapon = 핵무기
+  Soviet Union = 소련
+  Stanisław Ulam = 스타니스와프 울람
+  Tsar = 차르
+  Tsar Bomba = 차르 봄바
+  United Kingdom = 영국
+  United States = 미국
+  X-rays = 엑스선
+  arms race = 군비 경쟁
+  fission primary = 핵분열 1차 단계
+  hydrogen bomb = 수소 폭탄
+  megaton = 메가톤
+  nuclear arms race = 핵무기 경쟁
+  nuclear fusion = 핵융합
+  uranium tamper = 우라늄 탬퍼
+ENTRY:
+Second-generation [[Nuclear weapon|nuclear weapon]] using [[Nuclear fusion|nuclear fusion]], also called a hydrogen bomb or H-bomb. X-rays from a fission primary compress a separate fusion stage in the Teller–Ulam configuration, believed to underlie all such weapons. Named for [[Edward Teller]] and Stanisław Ulam, the design was outlined in 1951 with contributions from [[John von Neumann]]. The first full-scale test, Ivy Mike, was carried out by the United States in 1952. The Soviet Union (1955), United Kingdom (1957), China (1966) and France (1968) later developed multi-stage devices. Thermonuclear weapons are the only artificial source of explosions above one megaton of TNT. The [[Tsar Bomba]], the most powerful bomb ever detonated, yielded 50 megatons of TNT. Most current designs derive much of their energy from fast fission of a uranium tamper, which causes high fallout. Their development dominated the [[Nuclear arms race|nuclear arms race]] of the Cold War.
+
+=== KEY: Thermoregulation_089838
+HEADWORD: Thermoregulation = 체온 조절
+LEVEL: 4
+GLOSSARY:
+  Bat = 박쥐
+  Bear = 곰
+  Ectotherms = 외온 동물
+  Endotherms = 내온 동물
+  Hyperthermia = 고체온증
+  Hypothermia = 저체온증
+  Organism = 생물
+  Thermoconforming = 체온 순응
+  Thermometer = 온도계
+  torpor = 휴면
+  wet bulb temperature = 습구 온도
+ENTRY:
+Ability of an [[Organism|organism]] to keep its body temperature within certain boundaries despite very different surrounding temperatures. Endotherms, often called warm-blooded, generate most of their heat through metabolism and keep their temperature relatively constant. Ectotherms, often called cold-blooded, rely mainly on external sources of heat and on behavior to regulate temperature. Thermoconforming organisms simply adopt the surrounding temperature. Hyperthermia occurs when body temperature rises well above normal; humans may experience lethal hyperthermia when the wet bulb temperature is sustained above 35 °C (95 °F) for six hours. [[Hypothermia|Hypothermia]] occurs when core body temperature falls below 35 °C (95 °F). Some animals, such as hibernating [[Bear|bears]] and [[Bat|bats]] in torpor, allow their temperature to drop to conserve energy. Exact data on animal temperature became possible only with the introduction of [[Thermometer|thermometers]].
+
+=== KEY: Theropoda_197836
+HEADWORD: Theropoda = 수각류
+LEVEL: 4
+GLOSSARY:
+  Clade = 분기군
+  Cretaceous = 백악기
+  Giganotosaurus = 기가노토사우루스
+  Herbivore = 초식 동물
+  Jurassic = 쥐라기
+  Late Triassic = 후기 트라이아스기
+  Ornithischia = 조반목
+  Sauropodomorpha = 용각형아목
+  Triassic = 트라이아스기
+  Tyrannosaurus = 티라노사우루스
+  coelurosaurs = 코엘루로사우루스류
+ENTRY:
+One of three major [[Clade|clades]] of dinosaurs, alongside [[Ornithischia]] and Sauropodomorpha. Theropods are characterized by hollow bones and three-toed feet with claws. They were ancestrally carnivorous, though some groups evolved to be [[Herbivore|herbivores]] and omnivores. Many coelurosaurs were covered with feathers. Birds evolved from small coelurosaurian theropods in the [[Jurassic]], and around 11,000 living bird species make theropods the only known living group of dinosaurs. Theropods first appeared in the Late [[Triassic]], about 231.4 million years ago, and included most large land carnivores until the end of the [[Cretaceous]], about 66 million years ago. These included [[Tyrannosaurus]] and [[Giganotosaurus]], among the largest land carnivores ever.
+
+=== KEY: Thessaloniki_6ca5be
+HEADWORD: Thessaloniki = 테살로니키
+LEVEL: 5
+GLOSSARY:
+  Alexander the Great = 알렉산드로스 대왕
+  Aristotle = 아리스토텔레스
+  Aristotle University = 아리스토텔레스 대학교
+  Balkans = 발칸반도
+  Byzantine = 비잔티움
+  Byzantine Empire = 비잔티움 제국
+  Cassander = 카산드로스
+  Central Macedonia = 중앙마케도니아주
+  Europe = 유럽
+  Greece = 그리스
+  Kingdom of Greece = 그리스 왕국
+  Macedon = 마케도니아
+  Macedonia = 마케도니아
+  Ottoman Empire = 오스만 제국
+  Ottomans = 오스만 제국
+  Paleochristian = 초기 기독교
+  University = 대학
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Second-largest city in [[Greece]], capital of Central Macedonia (pop., 2021: 319,045). Founded in 315 BC by Cassander of Macedon, who named it after his wife, a half-sister of [[Alexander the Great]], it became the second-largest and wealthiest city of the [[Byzantine Empire]]. Conquered by the [[Ottoman Empire|Ottomans]] in 1430, it was the only Jewish-majority city in Europe from the 16th to the 20th centuries. It passed to the Kingdom of Greece in 1912. Its Paleochristian and Byzantine monuments are a [[World Heritage Site]]. Its main university, Aristotle University, is the largest in Greece and the Balkans.
+
+=== KEY: Thierry_Henry_f555e4
+HEADWORD: Henry, Thierry = 앙리, 티에리
+LEVEL: 5
+GLOSSARY:
+  Arsenal = 아스널
+  Arsène Wenger = 아르센 벵거
+  Barcelona = 바르셀로나
+  Champions League = 챔피언스리그
+  FIFA = 국제 축구 연맹
+  FIFA World Cup = FIFA 월드컵
+  France = 프랑스
+  French = 프랑스어
+  Golden Boot = 골든 부트
+  La Liga = 라리가
+  Monaco = 모나코
+  Premier League = 프리미어리그
+  UEFA = 유럽 축구 연맹
+  UEFA Champions League = UEFA 챔피언스리그
+  World = 세계
+  World Cup = 월드컵
+  treble = 트레블
+ENTRY:
+French football manager, pundit and former player. Henry joined [[Premier League]] club Arsenal in 1999 and became its all-time leading scorer with 228 goals, playing under [[Arsène Wenger]]. He won the Premier League Golden Boot a record four times. He moved to [[La Liga]] club Barcelona in 2007 and was part of its 2008–09 treble, which included the [[UEFA Champions League]]. With France he won the [[FIFA World Cup|1998 FIFA World Cup]], scoring 51 goals in 123 appearances. After retiring in 2014 he became a coach and television pundit, and he managed Monaco.
+
+=== KEY: Things_Fall_Apart_23f107
+HEADWORD: Things Fall Apart = 모든 것이 산산이 부서지다
+LEVEL: 4
+GLOSSARY:
+  Achebe = 아체베
+  African literature = 아프리카 문학
+  African trilogy = 아프리카 3부작
+  Arrow = 애로호
+  Arrow of God = 『신의 화살』
+  Broadcasting = 방송
+  Chinua Achebe = 치누아 아체베
+  Christianity = 기독교
+  Colonialism = 식민주의
+  Heinemann = 하이네만
+  Ibo = 이보족
+  Nigeria = 나이지리아
+  Nigerian Broadcasting Corporation = 나이지리아 방송 공사
+  No Longer at Ease = 『더 이상 평안은 없다』
+  Okonkwo = 오콩코
+  Second = 초
+  Second Coming = 재림
+  The Second Coming = 「재림」
+  Time (magazine) = 『타임』
+  Umuofia = 우무오피아
+  W. B. Yeats = W. B. 예이츠
+ENTRY:
+1958 novel by Nigerian author [[Chinua Achebe]]. Set in colonial Nigeria, it follows Okonkwo, a traditional and influential leader of the fictional Ibo clan of Umuofia who opposes [[Colonialism|colonialism]] and early Christianity. Achebe wrote it while working at the Nigerian Broadcasting Corporation, and it was first published by Heinemann in London on June 17, 1958. It is the first of Achebe's "African trilogy," followed by *No Longer at Ease* (1960) and *Arrow of God* (1964). Its title comes from a line in [[W. B. Yeats]]'s 1919 poem "The Second Coming." The novel is a milestone of [[African literature|African literature]], translated into more than fifty languages and listed on [[Time (magazine)|Time's]] "100 Best English-language Novels from 1923 to 2005."
+
+=== KEY: Thiol_351ecd
+HEADWORD: Thiol = 티올
+LEVEL: 4
+GLOSSARY:
+  Alcohol (chemistry) = 알코올
+  Ancient Greek = 고대 그리스어
+  Boiling point = 끓는점
+  Garlic = 마늘
+  Hydrogen bond = 수소 결합
+  Latin = 라틴어
+  Mercury (element) = 수은
+  Natural gas = 천연가스
+  Organosulfur compound = 유기 황 화합물
+  Redox = 산화 환원 반응
+  disulfides = 이황화물
+  mercaptans = 메르캅탄
+  odorants = 부취제
+  reversible process = 가역 과정
+ENTRY:
+Organosulfur compound of the form R–SH, the sulfur analog of an [[Alcohol (chemistry)|alcohol]]. The name blends "thio-" with "alcohol," and the prefix comes from Ancient Greek *theion*, "sulfur." Many thiols smell like [[Garlic|garlic]], cabbage or rotten eggs, and they are added as odorants to [[Natural gas|natural gas]], which is naturally odorless. Skunk spray consists mainly of low-molecular-weight thiols, which the human nose can detect at 10 parts per billion. Thiols have lower [[Boiling point|boiling points]] than alcohols because of weaker [[Hydrogen bond|hydrogen bonding]]. They oxidize to disulfides under mild conditions, a reversible process central to [[Redox|redox]] reactions in biology. Thiols are also called mercaptans, a term derived from Latin for "capturing [[Mercury (element)|mercury]]."
+
+=== KEY: Third_Crusade_01d43c
+HEADWORD: Third Crusade = 제3차 십자군
+LEVEL: 5
+GLOSSARY:
+  Acre = 아크레
+  Barbarossa = 바르바로사
+  Cyprus = 키프로스
+  England = 잉글랜드
+  France = 프랑스
+  Frederick = 프리드리히
+  Frederick Barbarossa = 프리드리히 1세
+  Holy Land = 성지
+  Jaffa = 야파
+  Jerusalem = 예루살렘
+  Kingdom of Jerusalem = 예루살렘 왕국
+  Philip II of France = 필리프 2세
+  Richard = 리처드
+  Richard I = 리처드 1세
+  Richard I of England = 리처드 1세
+  Saladin = 살라딘
+  Treaty = 조약
+  Treaty of Jaffa = 야파 조약
+  Tyre = 티레
+ENTRY:
+Attempted reconquest of the Holy Land, 1189–1192, led by [[Philip II of France]], [[Richard I of England]] and [[Frederick Barbarossa]]. It was launched after [[Saladin]] captured Jerusalem in 1187. The crusaders recaptured Acre and Jaffa and reversed most of Saladin's conquests in the [[Kingdom of Jerusalem]], but failed to retake Jerusalem. Frederick Barbarossa died while crossing a river in 1190, before reaching the Holy Land. The 1192 Treaty of Jaffa, between Richard and Saladin, recognized Muslim control of Jerusalem but allowed unarmed Christian pilgrims to visit. The crusader states kept [[Cyprus]] and a narrow coastal strip from Tyre to Jaffa.
+
+=== KEY: Thirteen_Colonies_a2b609
+HEADWORD: Thirteen Colonies = 13개 식민지
+LEVEL: 5
+GLOSSARY:
+  American Revolutionary War = 미국 독립 전쟁
+  England = 잉글랜드
+  French = 프랑스어
+  French and Indian War = 프렌치 인디언 전쟁
+  Jamestown = 제임스타운
+  Native Americans = 아메리카 원주민
+  New England = 뉴잉글랜드
+  North America = 북아메리카
+  Revolutionary War = 독립 전쟁
+  Slavery = 노예제
+  United States = 미국
+  Virginia = 버지니아
+  no taxation without representation = 대표 없이 과세 없다
+ENTRY:
+British colonies on the Atlantic coast of [[North America]] that formed the original [[United States]]. Founded from 1607, when Jamestown was established in Virginia, they were grouped as the New England, Middle and Southern colonies. Between 1625 and 1775 their population grew from 2,000 to 2.4 million, largely displacing Native Americans. [[Slavery]] was legal in all of them. After the [[French and Indian War]] (1754–1763), tensions with Britain grew over taxation, and colonists invoked the principle of "no taxation without representation." The colonies declared independence in 1776 and fought the [[American Revolutionary War]] with French aid.
+
+=== KEY: Thirty_Years_War_fa4a7f
+HEADWORD: Thirty Years' War = 30년 전쟁
+LEVEL: 4
+GLOSSARY:
+  Augsburg = 아우크스부르크
+  Bavaria = 바이에른
+  Bohemia = 보헤미아
+  Catholic = 가톨릭
+  Central Europe = 중부 유럽
+  Europe = 유럽
+  Famine = 기근
+  Ferdinand = 페르디난트
+  Ferdinand II = 페르디난트 2세
+  France = 프랑스
+  Frederick = 프리드리히
+  Frederick V of the Palatinate = 팔츠의 프리드리히 5세
+  Germany = 독일
+  Gustavus Adolphus = 구스타브 2세 아돌프
+  Habsburgs = 합스부르크 가문
+  Holy Roman Empire = 신성 로마 제국
+  Palatinate = 팔츠
+  Peace = 평화
+  Peace of Augsburg = 아우크스부르크 화의
+  Peace of Westphalia = 베스트팔렌 조약
+  Protestant = 개신교
+  Protestantism = 개신교
+  Reformation = 종교 개혁
+  Roman Empire = 로마 제국
+  Saxony = 작센
+  Spanish Habsburgs = 스페인 합스부르크 왕가
+  Sweden = 스웨덴
+  Westphalia = 베스트팔렌
+ENTRY:
+Destructive war fought mainly in [[Central Europe]], 1618–1648. An estimated 4.5 to 8 million soldiers and civilians died from battle, [[Famine|famine]] or disease, and parts of Germany reported population declines of more than 50%. Its roots lay in religious conflict within the [[Holy Roman Empire]] after the [[Reformation|Reformation]], and the 1555 Peace of Augsburg was destabilized as Protestantism spread. The war began in 1618 when Protestant Frederick V of the Palatinate replaced Catholic Emperor Ferdinand II as king of Bohemia. Other powers joined, including [[Gustavus Adolphus]] of Sweden, France and the Spanish Habsburgs. The [[Peace of Westphalia]] of 1648 ended the war and granted greater autonomy to states such as Bavaria and Saxony.
+
+=== KEY: Thiruvananthapuram_3cdbf6
+HEADWORD: Thiruvananthapuram = 티루바난타푸람
+LEVEL: 4
+GLOSSARY:
+  Capital city = 수도
+  Cochin = 코친
+  Indian Space Research Organisation = 인도 우주 연구 기구
+  Kerala = 케랄라주
+  Kingdom of Travancore = 트라반코르 왕국
+  Marthanda Varma = 마르탄다 바르마
+  Research = 연구
+  Space = 공간
+  Sree Padmanabhaswamy Temple = 스리 파드마나바스와미 사원
+  Trivandrum = 트리반드룸
+  University = 대학
+  University of Kerala = 케랄라 대학교
+  Vikram Sarabhai Space Centre = 비크람 사라바이 우주 센터
+ENTRY:
+Metropolis and [[Capital city|capital]] of the Indian state of [[Kerala]] (pop., 2011: 957,730). Also known as Trivandrum, it lies near the southern tip of the mainland on India's west coast and is a port city. It has India's first deep-water trans-shipment port, and it is among the few cities in the world with both an international airport and an international seaport close to its center. Its metropolitan area has over 1.7 million inhabitants. The city is home to the University of Kerala, and India's space program began there, with the Vikram Sarabhai Space Centre of the Indian Space Research Organisation. Sree Padmanabhaswamy Temple is known as the richest temple in the world. Marthanda Varma made it the capital of the Kingdom of Travancore in the 18th century, and it remained capital of Travancore–Cochin state after independence in 1947 until Kerala was formed in 1956.
+
+=== KEY: Thomas_Aquinas_718c4c
+HEADWORD: Aquinas, Thomas = 아퀴나스, 토마스
+LEVEL: 4
+GLOSSARY:
+  Angelic Doctor = 천사적 박사
+  Aristotelian = 아리스토텔레스적
+  Aristotelian philosophy = 아리스토텔레스 철학
+  Aristotle = 아리스토텔레스
+  Catholic = 가톨릭
+  Church = 처치
+  Doctors of the Church = 교회 학자
+  Dominican = 도미니코회
+  Dominican friar = 도미니코회 수사
+  Eucharist = 성찬례
+  Five Ways = 다섯 가지 길
+  Saint = 성인
+  Summa Theologiae = 『신학대전』
+  Summa Theologica = 『신학대전』
+  Thomism = 토마스주의
+  Western philosophy = 서양 철학
+  virtue ethics = 덕 윤리학
+ENTRY:
+Italian Dominican friar, priest, theologian and philosopher. He is the father of [[Thomism|Thomism]], a school of thought that unites theology and philosophy. He synthesized [[Aristotle|Aristotelian]] philosophy with Christian doctrine and argued that God is the source of both natural reason and faith. His Five Ways are arguments for the existence of God. His best-known work, the unfinished [[Summa Theologica|Summa Theologiae]] (1265–1274), is a comprehensive guide to Catholic theology. He also wrote commentaries on Scripture and Aristotle and composed [[Eucharist|Eucharistic]] hymns that remain part of the liturgy. He was canonized as a [[Saint|saint]] in 1323, and as one of the 38 Doctors of the Church he is known as the Angelic Doctor. His ideas influenced later [[Western philosophy|Western philosophy]] and modern virtue ethics.
+
+=== KEY: Thomas_Cranmer_83a944
+HEADWORD: Cranmer, Thomas = 크랜머, 토머스
+LEVEL: 4
+GLOSSARY:
+  Aragon = 아라곤
+  Archbishop of Canterbury = 캔터베리 대주교
+  Book = 책
+  Book of Common Prayer = 『성공회 기도서』
+  Canterbury = 캔터베리
+  Catherine = 예카테리나 1세
+  Catherine of Aragon = 아라곤의 캐서린
+  Catholic = 가톨릭
+  Church = 처치
+  Church of England = 잉글랜드 국교회
+  Cromwell = 「크롬웰」
+  Edward VI = 에드워드 6세
+  England = 잉글랜드
+  English Reformation = 잉글랜드 종교 개혁
+  Eucharist = 성찬례
+  Henry VIII = 헨리 8세
+  Heresy = 이단
+  Holy See = 교황청
+  Mary I = 메리 1세
+  Prayer = 기도
+  Reformation = 종교 개혁
+  Thomas = 토머스
+  Thomas Cromwell = 토머스 크롬웰
+  clerical celibacy = 성직자 독신제
+  royal supremacy = 국왕 수장권
+ENTRY:
+English theologian and leader of the [[Reformation|English Reformation]], Archbishop of Canterbury from 1533 to 1555. He helped build the case for annulling [[Henry VIII|Henry VIII]]'s marriage to [[Catherine of Aragon]], which contributed to England's separation from the [[Holy See]]. He supported royal supremacy alongside [[Thomas Cromwell]]. Under Edward VI he compiled the first two editions of the Book of Common Prayer and changed doctrine on the Eucharist, clerical celibacy and the veneration of saints. After the accession of the Catholic [[Mary I]] in 1553 he was tried for treason and [[Heresy|heresy]]. He recanted several times, but on the day of his execution he publicly withdrew his recantations and was burned at the stake. He is honored as a martyr in the [[Church of England]].
+
+=== KEY: Thomas_Cromwell_cd6708
+HEADWORD: Cromwell, Thomas = 크롬웰, 토머스
+LEVEL: 5
+GLOSSARY:
+  Anne = 앤
+  Anne Boleyn = 앤 불린
+  Anne of Cleves = 클레베의 안
+  Aragon = 아라곤
+  Catherine = 예카테리나 1세
+  Catherine of Aragon = 아라곤의 캐서린
+  Church = 처치
+  Church of England = 잉글랜드 국교회
+  Earl of Essex = 에식스 백작
+  England = 잉글랜드
+  Essex = 에식스
+  Henry VIII = 헨리 8세
+  Heresy = 이단
+  Parliament = 의회
+  Supreme Head = 최고 수장
+  Tower = 탑
+  Tower Hill = 타워 힐
+ENTRY:
+English statesman and lawyer, chief minister to Henry VIII from 1534 until mid-1540. As the king's chief secretary, he reorganized government and helped engineer the annulment of the king's marriage to [[Catherine of Aragon]], after which Parliament named Henry Supreme Head of the [[Church of England]]. He played a prominent role in the downfall and 1536 execution of Anne Boleyn. He was created Earl of Essex in 1540 but fell from power after arranging Henry's marriage to Anne of Cleves, which was annulled six months later. He was executed for treason and [[Heresy|heresy]] on Tower Hill.
+
+=== KEY: Thomas_Edison_875813
+HEADWORD: Edison, Thomas = 에디슨, 토머스
+LEVEL: 3
+GLOSSARY:
+  City = 도시
+  Direct current = 직류
+  Edison = 에디슨
+  Edison General Electric Company = 에디슨 제너럴 일렉트릭
+  Electric power distribution = 배전
+  Elliott = 엘리엇
+  General Electric = 제너럴 일렉트릭
+  George Westinghouse = 조지 웨스팅하우스
+  Grand Trunk Herald = 『그랜드 트렁크 헤럴드』
+  Incandescent light bulb = 백열전구
+  Menlo Park = 멘로파크
+  Michigan = 미시간주
+  Milan = 밀라노
+  Nancy Matthews Elliott = 낸시 매슈스 엘리엇
+  New York City = 뉴욕
+  Newark = 뉴어크
+  Ohio = 오하이오주
+  Phonograph = 축음기
+  Port = 항구
+  Port Huron = 포트휴런
+  Telegraphy = 전신
+  Thomson-Houston = 톰슨휴스턴
+  War of the Currents = 전류 전쟁
+  Westinghouse = 웨스팅하우스
+  York = 요크
+  alternating current = 교류
+  direct current = 직류
+  phenol = 페놀
+ENTRY:
+American inventor and businessman, holder of 1,093 U.S. patents. Edison is known for his work on the [[Incandescent light bulb|incandescent light bulb]], the [[Phonograph|phonograph]], [[Electric power distribution|electric power distribution]], and early motion pictures. Born in Milan, Ohio, he grew up in Port Huron, [[Michigan]], the seventh and last child of Samuel Ogden Edison Jr. and Nancy Matthews Elliott. He attended school for only a few months, learning from his mother, a former school teacher, and from reading on his own. His hearing declined from age 12, and he later believed the loss helped him concentrate. At 13 he sold newspapers, candy, and vegetables on trains and founded the *Grand Trunk Herald*. From 1863 to 1869 he held night-shift [[Telegraphy|telegraphy]] jobs in several states, and by 22 he had sold a few early inventions and moved to New York City. By 29 he owned a telegraph recorder factory in Newark with over one hundred employees.
+
+His Menlo Park laboratory, established in 1876, is considered the first industrial research laboratory, and the phonograph made him internationally famous. In 1878 he began work on an electrical lighting system meant to replace gas lamps. In the "War of the Currents," he championed [[Direct current|direct current]] and was criticized for publicizing the dangers of alternating current through animal electrocutions aimed at rivals such as [[George Westinghouse]]. Competition from Westinghouse's system forced him to yield, and the merger of the Edison General Electric Company with Thomson-Houston produced [[General Electric]]. Later he founded a cement company, built a motion picture camera, and ran firms making batteries, films, records, and phenol. His last project was a search for domestic rubber production. He had troubled relationships with his children, and he lived with diabetes.
+
+=== KEY: Thomas_Hardy_805e57
+HEADWORD: Hardy, Thomas = 하디, 토머스
+LEVEL: 4
+GLOSSARY:
+  Anglo-Saxon = 앵글로색슨
+  Big Read = 빅 리드
+  England = 잉글랜드
+  Ezra Pound = 에즈라 파운드
+  Far from the Madding Crowd = 『광란의 무리로부터 멀리』
+  George Eliot = 조지 엘리엇
+  Jude the Obscure = 『비운의 주드』
+  Philip Larkin = 필립 라킨
+  Tess = 「테스」
+  Tess of the d'Urbervilles = 『더버빌가의 테스』
+  The Big Read = 「빅 리드」
+  The Mayor of Casterbridge = 『캐스터브리지의 시장』
+  The Return of the Native = 『귀향』
+  W. H. Auden = W. H. 오든
+  Wessex = 웨식스
+ENTRY:
+English novelist and poet. Trained as an architect, he gained fame with novels in the tradition of [[George Eliot]] that depict rural life and tragic characters struggling against their passions and social circumstances. Many are set in the semi-fictional region of [[Wessex]], initially based on the medieval Anglo-Saxon kingdom and later covering much of southwest and south central England. His major novels include *Far from the Madding Crowd* (1874), *The Return of the Native* (1878), *The Mayor of Casterbridge* (1886), *Tess of the d'Urbervilles* (1891) and *Jude the Obscure* (1895). His first poetry collection appeared in 1898, and younger poets regarded him as a mentor. After his death, his poems were praised by [[Ezra Pound]], W. H. Auden and Philip Larkin. *Tess of the d'Urbervilles* and *Far from the Madding Crowd* were both listed in the top 50 of the BBC's *The Big Read* survey of best-loved novels.
+
+=== KEY: Thomas_Henry_Huxley_8765b9
+HEADWORD: Huxley, Thomas Henry = 헉슬리, 토머스 헨리
+LEVEL: 4
+GLOSSARY:
+  Agnosticism = 불가지론
+  Archaeopteryx = 시조새
+  Bulldog = 불도그
+  Charles Darwin = 찰스 다윈
+  Compsognathus = 콤프소그나투스
+  Darwin's Bulldog = 다윈의 불도그
+  Evolution = 진화
+  Huxley family = 헉슬리 가문
+  Oxford = 옥스퍼드
+  Samuel Wilberforce = 새뮤얼 윌버포스
+  comparative anatomist = 비교 해부학자
+ENTRY:
+English biologist and anthropologist. Known as "Darwin's Bulldog" for his advocacy of [[Charles Darwin]]'s theory of [[Evolution]], Huxley was a leading comparative anatomist who worked on invertebrates and vertebrates, including the relationship between apes and humans. After comparing [[Archaeopteryx]] with *Compsognathus*, he concluded that birds evolved from small carnivorous dinosaurs. He was largely self-taught. Accounts of his 1860 Oxford debate with Samuel Wilberforce became a key moment in the wider acceptance of evolution, though some historians think aspects of the surviving story are a later fabrication. Huxley coined the term [[Agnosticism|agnosticism]] in 1869 and elaborated on it in 1889. He also helped develop scientific education in Britain and belonged to the prominent Huxley family of scientists and writers.
+
+=== KEY: Thomas_Hobbes_c7f18d
+HEADWORD: Hobbes, Thomas = 홉스, 토머스
+LEVEL: 4
+GLOSSARY:
+  Civil War = 남북 전쟁
+  De Cive = 『시민론』
+  De Corpore = 『물체론』
+  De Homine = 『인간론』
+  England = 잉글랜드
+  English Civil War = 잉글랜드 내전
+  France = 프랑스
+  Geometry = 기하학
+  Hobbes = 홉스
+  Leviathan = 『리바이어던』
+  Political philosophy = 정치 철학
+  political philosophy = 정치철학
+  social contract = 사회 계약
+  social contract theory = 사회 계약론
+  state of nature = 자연 상태
+  war of all against all = 만인의 만인에 대한 투쟁
+ENTRY:
+English philosopher and political theorist. Best known for *Leviathan* (1651), in which he formulated an influential version of social contract theory, Hobbes is considered one of the founders of modern [[Political philosophy|political philosophy]]. He described the state of nature as a "war of all against all" and argued that the solution to human conflict was governance by an absolute sovereign. His views were shaped by the [[English Civil War]] (1642–1651), which he witnessed after returning to England from France in 1637. His other works include the trilogy *De Cive* (1642), *De Corpore* (1655) and *De Homine* (1658). He contributed to history, [[Geometry|geometry]], optics, theology, ethics and classical translation, and is regarded as a polymath. Accusations of atheism and contentious debates with contemporaries marked his career.
+
+=== KEY: Thomas_Jefferson_b9ec42
+HEADWORD: Jefferson, Thomas = 제퍼슨, 토머스
+LEVEL: 4
+GLOSSARY:
+  Declaration of Independence = 독립 선언서
+  Democratic-Republican Party = 민주공화당
+  Embargo Act of 1807 = 1807년 통상 금지법
+  Father = 아버지
+  Founding Father = 건국의 아버지
+  George Washington = 조지 워싱턴
+  Independence = 인디펜던스
+  James = 야고보
+  James Madison = 제임스 매디슨
+  Jefferson = 제퍼슨
+  Jeffersonian democracy = 제퍼슨 민주주의
+  John = 존
+  John Adams = 존 애덤스
+  Lewis and Clark Expedition = 루이스 클라크 탐험
+  Louisiana = 루이지애나주
+  Louisiana Purchase = 루이지애나 매입
+  Madison = 매디슨
+  Party = 파티
+  Secretary of State = 국무 장관
+  United States = 미국
+  Washington = 워싱턴주
+  vice president = 부통령
+ENTRY:
+Founding Father and third president of the United States, 1801–1809. Principal author of the Declaration of Independence (1776), Jefferson was a prolific writer and philosopher whose political thought formed the basis of Jeffersonian democracy. He served as the first U.S. Secretary of State under [[George Washington]] and as vice president under [[John Adams]]. With [[James Madison]], he founded the [[Democratic-Republican Party]] in 1792. As president he promoted western expansion through the [[Louisiana Purchase]], which doubled the nation's size, and supported the [[Lewis and Clark Expedition]]. He also implemented the Embargo Act of 1807 to protect American shipping and industry. Jefferson owned large numbers of slaves throughout his life, and historians offer varying interpretations of his views on slavery. Scholars and public opinion rank him among the upper tier of U.S. presidents.
+
+=== KEY: Thomas_M_ntzer_9de53c
+HEADWORD: Müntzer, Thomas = 뮌처, 토마스
+LEVEL: 4
+GLOSSARY:
+  Battle of Frankenhausen = 프랑켄하우젠 전투
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Church = 처치
+  German = 독일어
+  German Peasants' War = 독일 농민 전쟁
+  Martin Luther = 마르틴 루터
+  Mühlhausen = 뮐하우젠
+  Reformation = 종교 개혁
+ENTRY:
+German preacher and theologian of the early Reformation. He opposed both [[Martin Luther]] and the [[Catholic Church]], and by 1523 had completely broken with Luther over Luther's compromises with feudal authority. Müntzer believed that the end of the world was imminent and that true believers must aid God in ushering in a new era of history. In 1525 he organized an armed militia at Mühlhausen and became a leader of the German peasant and plebeian uprising known as the German Peasants' War. He was captured after the Battle of Frankenhausen, tortured and executed. Few figures of the German Reformation have raised as much controversy, and he is now regarded as a significant personality in the early years of the Reformation and in the history of European revolutionaries.
+
+=== KEY: Thomas_Mann_3c2101
+HEADWORD: Mann, Thomas = 만, 토마스
+LEVEL: 4
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Arthur Schopenhauer = 아르투어 쇼펜하우어
+  Buddenbrooks = 『부덴브로크가의 사람들』
+  Death = 죽음
+  Death in Venice = 『베니스에서의 죽음』
+  Doctor Faustus = 『파우스트 박사』
+  Exilliteratur = 망명 문학
+  Friedrich Nietzsche = 프리드리히 니체
+  German = 독일어
+  German literature = 독일 문학
+  Goethe = 괴테
+  Hanseatic = 한자 동맹
+  Hitler = 히틀러
+  Johann Wolfgang von Goethe = 요한 볼프강 폰 괴테
+  Joseph and His Brothers = 『요셉과 그 형제들』
+  Literature = 문학
+  Mountain = 산
+  Nietzsche = 니체
+  Nobel Prize = 노벨상
+  Nobel Prize in Literature = 노벨 문학상
+  Switzerland = 스위스
+  The Magic Mountain = 『마의 산』
+  United States = 미국
+  Venice = 베네치아
+ENTRY:
+German novelist and Nobel laureate. Awarded the 1929 Nobel Prize in Literature, Mann wrote symbolic and ironic epic novels and novellas that probe the psychology of the artist and the intellectual. His first novel, *Buddenbrooks* (1901), portrays his own Hanseatic family and its merchant class. Later works include *Death in Venice* (1912), *The Magic Mountain* (1924), the tetralogy *Joseph and His Brothers* (1933–1943) and *Doctor Faustus* (1947). His analysis of the German and European soul drew on the ideas of [[Johann Wolfgang von Goethe]], [[Friedrich Nietzsche]] and [[Arthur Schopenhauer]]. After [[Adolf Hitler]] came to power in 1933, Mann fled to Switzerland. He moved to the United States in 1939 and returned to Switzerland in 1952. He is one of the best-known exponents of *Exilliteratur*, German literature written in exile by those who opposed the Hitler regime.
+
+=== KEY: Thomas_More_a4f49d
+HEADWORD: More, Thomas = 모어, 토머스
+LEVEL: 4
+GLOSSARY:
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Chancellor = 총리
+  Church = 처치
+  Church of England = 잉글랜드 국교회
+  England = 잉글랜드
+  Henry VIII = 헨리 8세
+  Huldrych Zwingli = 울리히 츠빙글리
+  John = 존
+  Lord Chancellor = 대법관
+  Martin Luther = 마르틴 루터
+  Oath of Supremacy = 수장령 선서
+  Paul = 바울로
+  Pope = 교황
+  Pope John Paul II = 교황 요한 바오로 2세
+  Pope Pius XI = 교황 비오 11세
+  Protestant = 개신교
+  Protestant Reformation = 종교 개혁
+  Reformation = 종교 개혁
+  Renaissance = 르네상스
+  Renaissance humanist = 르네상스 인문주의자
+  Utopia = 『유토피아』
+  William = 윌리엄
+  William Tyndale = 윌리엄 틴들
+  Zwingli = 츠빙글리
+  patron saint = 수호성인
+ENTRY:
+English lawyer, statesman and Renaissance humanist. He served as Lord Chancellor to [[Henry VIII]] from 1529 to 1532. His book *Utopia* (1516) describes the political system of an imaginary island state. More opposed the Protestant Reformation, directing polemics against [[Martin Luther]], Huldrych Zwingli and William Tyndale, and he opposed Henry VIII's separation from the [[Catholic Church]]. He refused to take the Oath of Supremacy, which affirmed the king as supreme head of the [[Church of England]]. After being convicted of treason on evidence he said was false, he was executed. Pope Pius XI canonized him as a martyr in 1935, and [[Pope John Paul II]] declared him patron saint of statesmen and politicians in 2000.
+
+=== KEY: Thomas_Paine_1f7c02
+HEADWORD: Paine, Thomas = 페인, 토머스
+LEVEL: 4
+GLOSSARY:
+  Age of Reason = 이성의 시대
+  American Revolution = 미국 독립 혁명
+  Benjamin Franklin = 벤저민 프랭클린
+  Common Sense = 『상식』
+  Convention = 비상 의회
+  Deism = 이신론
+  Edmund Burke = 에드먼드 버크
+  England = 잉글랜드
+  Father = 아버지
+  Founding Father = 건국의 아버지
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  James = 야고보
+  James Monroe = 제임스 먼로
+  Monroe = 먼로
+  National Convention = 국민 공회
+  Reason = 이성
+  Rights = 인권
+  Rights of Man = 『인간의 권리』
+  The Age of Reason = 『이성의 시대』
+  The American Crisis = 『아메리카의 위기』
+  United States = 미국
+  seditious libel = 선동적 명예 훼손
+ENTRY:
+English-born American political philosopher and Founding Father. Paine emigrated to the American colonies in 1774 with the help of [[Benjamin Franklin]]. His pamphlet *Common Sense* (1776) argued for independence from Great Britain, and his series *The American Crisis* (1776–1783) supported the patriot cause during the [[American Revolution]]. In *Rights of Man* (1791) he defended the French Revolution against [[Edmund Burke]], and he was convicted in absentia of seditious libel in England in 1792. Elected to the French National Convention, he was arrested in 1793 and released in 1794 through the diplomacy of [[James Monroe]]. In *The Age of Reason* he advocated [[Deism]] and criticized Christian doctrine, alienating many former allies. He returned to the United States in 1802 and was broadly ostracized; only six mourners attended his funeral.
+
+=== KEY: Thomas_Robert_Malthus_e41f54
+HEADWORD: Malthus, Thomas Robert = 맬서스, 토머스 로버트
+LEVEL: 4
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred Russel Wallace = 앨프리드 러셀 월리스
+  Anglican = 성공회
+  Charles Darwin = 찰스 다윈
+  Corn Laws = 곡물법
+  Darwin = 다윈
+  Essay = 수필
+  Famine = 기근
+  Industrial Revolution = 산업 혁명
+  Malthusian trap = 맬서스 함정
+  Poor Laws = 구빈법
+  Wallace = 월리스
+  evolutionary biology = 진화생물학
+ENTRY:
+English economist and Anglican cleric. In *An Essay on the Principle of Population* (1798), Malthus argued that gains in food production were temporary because they led to population growth, which restored the earlier level of production per person. Populations tended to grow until the poor suffered hardship, [[Famine]], disease and war, a pattern later called the "Malthusian trap." He criticized the Poor Laws for causing inflation rather than improving the well-being of the poor, and he supported taxes on grain imports, the Corn Laws. Pioneers of evolutionary biology, including [[Charles Darwin]] and [[Alfred Russel Wallace]], read him. His failure to predict the [[Industrial Revolution]] was a frequent criticism, yet his work is described as the theoretical foundation of conventional thinking on global hunger and famine for almost two centuries.
+
+=== KEY: Thomas_Sankara_a407d5
+HEADWORD: Sankara, Thomas = 상카라, 토마
+LEVEL: 4
+GLOSSARY:
+  Amnesty International = 국제 앰네스티
+  Blaise Compaoré = 블레즈 콩파오레
+  Burkina Faso = 부르키나파소
+  Burkinabé = 부르키나파소의
+  International Monetary Fund = 국제 통화 기금
+  Marxist = 마르크스주의
+  Sahel = 사헬
+  desertification = 사막화
+  female circumcision = 여성 할례
+  land reform = 토지 개혁
+  literacy campaign = 문맹 퇴치 운동
+  people's democratic revolution = 민주 인민 혁명
+  poll taxes = 인두세
+  yellow fever = 황열
+ENTRY:
+Burkinabé military officer and Marxist revolutionary, president of Burkina Faso, 1983–1987. After a 1983 coup, Sankara launched social, ecological and economic reforms that he called the people's democratic revolution. In 1984 he renamed the country Burkina Faso, meaning "land of the upright people." His foreign policy stressed anti-imperialism and self-reliance, and he rejected loans from the [[International Monetary Fund]]. Domestic programs included famine prevention, land reform, suspension of rural poll taxes, a literacy campaign and vaccinations against meningitis, yellow fever and measles. His government also banned female circumcision, forced marriages and polygamy, and it planted more than 10 million trees to combat desertification of the [[Sahel]]. Amnesty International criticized alleged human rights violations, including arbitrary detentions. Sankara was assassinated in 1987 by troops led by Blaise Compaoré, who held power until the 2014 uprising. In 2021 a military tribunal found Compaoré guilty of Sankara's murder.
+
+=== KEY: Thomas_Wolsey_68c5d1
+HEADWORD: Wolsey, Thomas = 울지, 토머스
+LEVEL: 5
+GLOSSARY:
+  Aragon = 아라곤
+  Catherine = 예카테리나 1세
+  Catherine of Aragon = 아라곤의 캐서린
+  Catholic = 가톨릭
+  Chancellor = 총리
+  Henry VIII = 헨리 8세
+  Lord Chancellor = 대법관
+  alter rex = 알테르 렉스
+ENTRY:
+English statesman and Catholic cardinal. Royal almoner after [[Henry VIII]] became king in 1509, Wolsey controlled most matters of state by 1514. He was made a cardinal in 1515 and served as Lord Chancellor, the king's chief adviser, in which role he was often depicted as the *alter rex* ("other king"). After failing to negotiate an annulment of Henry's marriage to [[Catherine of Aragon]], he lost favor and was stripped of his government titles. He died from natural causes while on the way to London to answer charges of treason.
+
+=== KEY: Thomas_Young_scientist_8cd624
+HEADWORD: Young, Thomas = 영, 토머스
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Einstein = 알베르트 아인슈타인
+  Christiaan Huygens = 크리스티안 하위헌스
+  Einstein = 아인슈타인
+  Fellow of the Royal Society = 왕립학회 회원
+  Hermann von Helmholtz = 헤르만 폰 헬름홀츠
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  James = 야고보
+  James Clerk Maxwell = 제임스 클러크 맥스웰
+  Newton = 뉴턴
+  Rosetta = 로제타
+  Rosetta Stone = 로제타석
+  Royal Society = 왕립 학회
+  Society = 사회
+  Young's modulus = 영률
+  astigmatism = 난시
+  corpuscular theory = 입자설
+  demotic script = 민중 문자
+  hieroglyphs = 상형 문자
+  solid mechanics = 고체 역학
+  trichromatic theory = 삼원색설
+  wave theory = 파동설
+  wave theory of light = 빛의 파동설
+ENTRY:
+British polymath. Young made notable contributions to vision, light, solid mechanics, energy, physiology, language, musical harmony and Egyptology. He is credited with establishing [[Christiaan Huygens]]' wave theory of light, in contrast to the corpuscular theory of [[Isaac Newton]]. In 1801 he proposed a trichromatic theory of color vision and identified astigmatism, and in 1807 he formulated [[Young's modulus]], a measure of a material's stiffness. In 1814 he deciphered the demotic script of the [[Rosetta Stone]] and identified phonetic values in hieroglyphs. His work influenced [[Hermann von Helmholtz]], [[James Clerk Maxwell]] and [[Albert Einstein]]. Young also practiced as a physician and was elected a Fellow of the Royal Society in 1794.
+
+=== KEY: Thomism_710490
+HEADWORD: Thomism = 토마스주의
+LEVEL: 4
+GLOSSARY:
+  Aeterni Patris = 「아이테르니 파트리스」
+  Aquinas = 아퀴나스
+  Aristotle = 아리스토텔레스
+  Catholic = 가톨릭
+  Church = 처치
+  Doctoris Angelici = 「독토리스 앙젤리치」
+  Pope = 교황
+  Pope Pius X = 교황 비오 10세
+  Scholastic = 스콜라 철학
+  Scholastic philosophy = 스콜라 철학
+  Summa Theologica = 『신학대전』
+  Thomas = 토머스
+  Thomas Aquinas = 토마스 아퀴나스
+  Thomism = 토마스주의
+  essence and existence = 본질과 존재
+  motu proprio = 자의 교서
+  natural law = 자연법
+  neo-Thomism = 신토마스주의
+ENTRY:
+Philosophical and theological school arising from the work of [[Thomas Aquinas]]. Thomism holds that truths accessible through natural reason, such as God's existence and the immortality of the soul, complement divine revelation. Aquinas's commentaries on [[Aristotle]] and his *Summa Theologica* are among his best-known works, and the latter remains a central reference for Catholic philosophy and theology. Its ethics advances natural law theory, and its metaphysics stresses the real distinction between essence and existence. In his 1914 motu proprio *Doctoris Angelici*, Pope Pius X cautioned that the teachings of the Church cannot be understood without the basic philosophical principles of Thomas's major theses. Pope Leo XIII's *Aeterni Patris* (1879) proclaimed Aquinas the "chief and master" of Scholastic philosophy and promoted its revival, and neo-Thomism shaped 20th-century Catholic thought.
+
+=== KEY: Thor_a92da8
+HEADWORD: Thor = 토르
+LEVEL: 4
+GLOSSARY:
+  Donar = 도나르
+  German = 독일어
+  Heathenry = 히드너리
+  Heathenry (new religious movement) = 히드너리
+  High German = 고지 독일어
+  Icelandic = 아이슬란드어
+  Jörmungandr = 요르문간드
+  Midgard = 미드가르드
+  Midgard Serpent = 미드가르드의 뱀
+  Mjölnir = 묠니르
+  Norse = 노르드인
+  Norse mythology = 북유럽 신화
+  Odin = 오딘
+  Old English = 고대 영어
+  Old High German = 고대 고지 독일어
+  Proto-Germanic = 게르만조어
+  Ragnarök = 라그나로크
+  Sif = 시프
+  Thor = 토르
+  Thunor = 투노르
+  Thursday = 목요일
+  Viking = 바이킹
+  Viking Age = 바이킹 시대
+ENTRY:
+Germanic god associated with thunder. In Norse mythology, Thor is a hammer-wielding god associated with thunder, storms, strength, protection, fertility and farmers. His name appears in Old English as Thunor and in Old High German as Donar, from a Proto-Germanic word meaning "thunder." During the [[Viking Age]], amulets of his hammer, Mjölnir, were worn, and many personal names contained his name. Medieval Icelandic sources describe him as the son of [[Odin]] and the husband of the goddess Sif. His exploits include battles with giants and with the Midgard Serpent, Jörmungandr, and the two are prophesied to kill each other at Ragnarök. The day of the week [[Thursday]] derives its name from him, and he is revived in modern [[Heathenry (new religious movement)|Heathenry]].
+
+=== KEY: Thorax_1b634f
+HEADWORD: Thorax = 흉부
+LEVEL: 4
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Crustacean = 갑각류
+  Insect = 곤충
+  Trilobite = 삼엽충
+  sternum = 복장뼈
+  thoracic cavity = 흉강
+  thoracic vertebrae = 흉추
+  thymus gland = 가슴샘
+ENTRY:
+Body region between the neck and abdomen in mammals and other tetrapods. The thorax, also called the chest, contains the heart, lungs, thymus gland and other organs. The human thoracic cavity is enclosed by the thoracic wall, a framework formed by 12 thoracic vertebrae, the sternum and 12 pairs of ribs that expands and contracts during breathing. In [[Insect|insects]], [[Crustacean|crustaceans]] and the extinct [[Trilobite|trilobites]], the thorax is one of three main body divisions, each made of several segments. The term derives from the Ancient Greek word for "breastplate." The chest may be affected by many diseases, and the most common symptom of these is chest pain.
+
+=== KEY: Thorium_495f79
+HEADWORD: Thorium = 토륨
+LEVEL: 4
+GLOSSARY:
+  Berzelius = 베르셀리우스
+  Earth's crust = 지각
+  Jöns Jacob Berzelius = 옌스 야코브 베르셀리우스
+  Norse = 노르드인
+  Norway = 노르웨이
+  TIG welding = TIG 용접
+  Thor = 토르
+  melting point = 녹는점
+  thorium-232 = 토륨-232
+ENTRY:
+Weakly radioactive metallic element, atomic number 90 (symbol Th). A light silver metal that tarnishes olive gray in air, thorium is moderately soft and has a high melting point. All its isotopes are unstable; the most stable, thorium-232, has a half-life of 14.0 billion years. [[Jöns Jacob Berzelius]] discovered it in 1828 in a mineral from Norway and named it after the Norse god [[Thor]]. It is estimated to be over three times as abundant as uranium in the Earth's crust. Its radioactivity led to its replacement in many uses in the second half of the 20th century. It is still used as an alloying element in TIG welding electrodes and in strengthening magnesium, and it has been proposed as a replacement for uranium as nuclear fuel, with several thorium reactors built.
+
+=== KEY: Thoroughbred_57267c
+HEADWORD: Thoroughbred = 서러브레드
+LEVEL: 4
+GLOSSARY:
+  Arabian = 아라비아말
+  Barb = 바브
+  England = 잉글랜드
+  Horse = 말
+  Horse racing = 경마
+  North America = 북아메리카
+  Polo = 폴로
+  Selective breeding = 선택 교배
+  Turkoman = 투르크멘
+  dressage = 마장 마술
+  fox hunting = 여우 사냥
+  show jumping = 장애물 비월
+ENTRY:
+Horse breed developed for racing. The word is sometimes used for any purebred horse, but technically refers only to this breed. Developed in 17th- and 18th-century England, it arose from native mares crossed with imported Arabian, Barb and Turkoman stallions. All modern Thoroughbreds trace their pedigrees to three imported stallions. The breed spread worldwide in the 18th and 19th centuries and reached North America in 1730. Thoroughbreds are used mainly for [[Horse racing|racing]] but also for show jumping, dressage, [[Polo]] and fox hunting, and they have influenced many other breeds through [[Selective breeding|crossbreeding]]. Racing at maximum exertion has led to high accident rates and health problems such as bleeding from the lungs, and the breed also has low fertility.
+
+=== KEY: Thoth_3efcce
+HEADWORD: Thoth = 토트
+LEVEL: 4
+GLOSSARY:
+  Baboon = 개코원숭이
+  Egyptian mythology = 이집트 신화
+  Hermes = 헤르메스
+  Hermes Trismegistus = 헤르메스 트리스메기스투스
+  Hermopolis = 헤르모폴리스
+  Ibis = 따오기
+  Ma'at = 마아트
+  Moon = 달
+  Ra = 라
+  Thoth = 토트
+  hieroglyphs = 상형 문자
+  solar barque = 태양의 배
+ENTRY:
+Ancient Egyptian deity of the Moon, wisdom and writing. Thoth was often depicted as a man with the head of an [[Ibis]] or a [[Baboon]], animals sacred to him. He was the god of the Moon, wisdom, knowledge, writing, hieroglyphs, science, magic, art and judgment. His chief temple was at Hermopolis. In Egyptian mythology he maintained the universe and was one of the two deities, the other being Ma'at, who stood on either side of [[Ra]]'s solar barque. In later periods he became associated with arbitrating divine disputes and with the judgment of the dead. In the Greco-Roman period he was syncretized with the Greek god [[Hermes]] as Hermes Trismegistus.
+
+=== KEY: Thought_036823
+HEADWORD: Thought = 사고
+LEVEL: 3
+GLOSSARY:
+  Aristotelianism = 아리스토텔레스주의
+  Associationism = 연합주의
+  Behaviorism = 행동주의
+  Cognitive psychology = 인지 심리학
+  Computationalism = 계산주의
+  Inner speech = 내적 언어
+  Memory = 기억
+  Mentalese = 정신어
+  Mind = 마음
+  Neuroscience = 신경과학
+  Old English = 고대 영어
+  Perception = 지각
+  Phenomenology (philosophy) = 현상학
+  Platonism = 플라톤주의
+  Psychoanalysis = 정신 분석
+  cognitive psychology = 인지 심리학
+  language of thought = 사고 언어
+  language of thought hypothesis = 사고 언어 가설
+ENTRY:
+Cognitive process in which the [[Mind|mind]] considers, creates, or manipulates ideas, representations, or information. Core forms include judging, reasoning, concept formation, problem solving, and deliberation. Memory and imagination are also frequently counted as types of thought. Thought may arise in response to [[Perception|perception]] but can also occur without immediate sensory input. In a broad sense, any mental event, including unconscious processes, may be called thought, and the term can also denote the resulting mental states or systems of ideas.
+
+Theories of thinking differ. Platonism holds that thought discerns eternal forms and their interrelations, distinguishing them from imperfect sensory imitations. Aristotelianism interprets it as instantiating the universal essence of an object within the mind, derived from sense experience. Inner speech theories describe thought as silent verbal expression, in a natural language or in a "mental language," or Mentalese, as proposed by the language of thought hypothesis. Associationism views it as a succession of ideas governed by laws of association, while [[Behaviorism|behaviorism]] reduces it to behavioral dispositions. Computationalism compares it to information processing in computers. These theories are not necessarily mutually exclusive.
+
+Recognized types include judgment, which affirms or denies a proposition; reasoning, which draws conclusions from premises or evidence; problem solving, which aims at specific goals; and deliberation, which weighs possible courses of action. Thinking is often contrasted with feeling, seen as rational and dispassionate. Many disciplines study thought. [[Phenomenology (philosophy)|Phenomenology]] examines its subjective experience, [[Cognitive psychology|cognitive psychology]] treats it as information processing, and [[Psychoanalysis|psychoanalysis]] stresses unconscious processes. Neuroscience, linguistics, and artificial intelligence also investigate it. The word derives from Old English *þoht*.

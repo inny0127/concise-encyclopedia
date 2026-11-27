@@ -1,0 +1,842 @@
+=== KEY: CT_scan_76f44c
+HEADWORD: CT scan = 컴퓨터 단층 촬영
+LEVEL: 5
+GLOSSARY:
+  Allan Cormack = 앨런 코맥
+  Godfrey Hounsfield = 고드프리 하운스필드
+  MRI = MRI
+  Magnetic resonance imaging = 자기 공명 영상
+  Medical diagnosis = 의학적 진단
+  Medical imaging = 의료 영상
+  Medicine = 의학
+  Nobel Prize = 노벨상
+  Nobel Prize in Physiology or Medicine = 노벨 생리학·의학상
+  Physiology = 생리학
+  Physiology or Medicine = 생리학·의학
+  X-ray = 엑스선
+  X-rays = 엑스선
+  gantry = 갠트리
+  tomography = 단층 촬영
+ENTRY:
+Medical imaging technique that uses X-rays to produce cross-sectional images of the body. A rotating X-ray tube and a row of detectors in a gantry measure how different tissues attenuate X-rays, and a computer reconstructs the measurements from many angles into slice images. Although used mainly in [[Medical diagnosis|medical diagnosis]], CT can also image nonliving objects. Patients with metallic implants or pacemakers may be scanned by CT when [[Magnetic resonance imaging|MRI]] is contraindicated. Godfrey Hounsfield and Allan Cormack shared the 1979 Nobel Prize in Physiology or Medicine for computer-assisted tomography.
+
+=== KEY: C_Joseph_Vijay_9dea70
+HEADWORD: Vijay, C. Joseph = 비자이, C. 조지프
+LEVEL: 5
+GLOSSARY:
+  Assembly = 민회
+  India = 인도
+  Legislative Assembly = 입법 의회
+  Leo = 「레오」
+  Mersal = 「메르살」
+  Tamil = 타밀어
+  Tamil Nadu = 타밀나두주
+  Tamil Nadu Legislative Assembly = 타밀나두주 의회
+  Tamil cinema = 타밀어 영화
+  Tamilaga Vettri Kazhagam = 타밀라가 베트리 카자감
+  Thuppakki = 「투파키」
+  chief minister = 주총리
+ENTRY:
+Indian politician and former film actor, chief minister of [[Tamil Nadu]] since May 10, 2026. Before entering politics he was a leading actor in Tamil cinema and among the highest-paid actors in India, with commercial successes such as *Thuppakki* (2012), *Mersal* (2017) and *Leo* (2023). In February 2024 he announced his retirement from films and launched the Tamilaga Vettri Kazhagam (TVK) party. The TVK emerged as the single-largest party in the 2026 Tamil Nadu Legislative Assembly election, winning 108 seats, and Vijay was sworn in with the support of several smaller allied parties.
+
+=== KEY: C_S_Lewis_3fe907
+HEADWORD: Lewis, C. S. = 루이스, C. S.
+LEVEL: 4
+GLOSSARY:
+  Anglican = 성공회
+  Anglicanism = 성공회
+  Apologetics = 변증학
+  Atheism = 무신론
+  Cambridge = 케임브리지
+  Christianity = 기독교
+  Chronicles = 『연대기』
+  Church = 처치
+  Church of Ireland = 아일랜드 성공회
+  English literature = 영문학
+  Inklings = 잉클링스
+  Ireland = 아일랜드
+  J. R. R. Tolkien = J. R. R. 톨킨
+  Magdalen College = 모들린 칼리지
+  Magdalene College = 모들린 칼리지
+  Mere Christianity = 『순전한 기독교』
+  Miracles = 『기적』
+  Narnia = 나니아
+  Oxford = 옥스퍼드
+  Poets' Corner = 시인의 코너
+  Space = 공간
+  Space Trilogy = 『우주 3부작』
+  The Chronicles of Narnia = 『나니아 연대기』
+  The Screwtape Letters = 『스크루테이프의 편지』
+  Tolkien = 톨킨
+  University of Oxford = 옥스퍼드 대학교
+  Westminster = 웨스트민스터
+  Westminster Abbey = 웨스트민스터 사원
+  lay theologian = 평신도 신학자
+ENTRY:
+British writer, literary scholar and [[Anglicanism|Anglican]] lay theologian. He held academic posts in English literature at Magdalen College, [[University of Oxford|Oxford]] (1925–1954), and Magdalene College, Cambridge (1954–1963). He is best known for *The Chronicles of Narnia*, a seven-book fantasy series for children, and also wrote *The Screwtape Letters* and the *Space Trilogy*, as well as works of [[Apologetics|Christian apologetics]] such as *Mere Christianity* and *Miracles*. A close friend of [[J. R. R. Tolkien]], he belonged to the Inklings, an informal Oxford literary group. Baptized in the Church of Ireland, he became an [[Atheism|atheist]] in adolescence and returned to Anglicanism at age 32. His wartime radio broadcasts on Christianity brought him wide acclaim. His more than 30 books have sold millions of copies. In 2013 a memorial to him was placed in Poets' Corner in [[Westminster Abbey]].
+
+=== KEY: C_Sharp_programming_language_0493b1
+HEADWORD: C Sharp = C#
+LEVEL: 5
+GLOSSARY:
+  Anders Hejlsberg = 아네르스 헤일스베르
+  Ecma International = 에크마 인터내셔널
+  Microsoft = 마이크로소프트
+  Mono = 모노
+  Peter = 베드로
+  Peter Golde = 피터 골드
+  Roslyn = 로슬린
+  Scott Wiltamuth = 스콧 윌타머스
+  Visual Studio = 비주얼 스튜디오
+  Visual Studio Code = 비주얼 스튜디오 코드
+ENTRY:
+General-purpose, multi-paradigm programming language from [[Microsoft]]. Its principal designers were Anders Hejlsberg, Scott Wiltamuth and Peter Golde, and it was first widely distributed in July 2000. Ecma International approved it as ECMA-334 in 2002, and ISO/IEC followed in 2003. Introduced with the .NET Framework and Visual Studio, both initially closed-source, it gained an open-source, cross-platform ecosystem: the Mono project began in 2004, and a decade later Microsoft released Visual Studio Code, Roslyn and the unified .NET platform. The latest stable version, C# 15.0, was released in 2026 with .NET 11.0.
+
+=== KEY: C_V_Raman_e33d23
+HEADWORD: Raman, C. V. = 라만, C. V.
+LEVEL: 4
+GLOSSARY:
+  Acoustics = 음향학
+  Bengaluru = 벵갈루루
+  Government = 정부
+  Government of India = 인도 정부
+  India = 인도
+  Indian Institute of Science = 인도 과학원
+  K. S. Krishnan = K. S. 크리슈난
+  National Science Day = 국가 과학의 날
+  Nobel Prize = 노벨상
+  Nobel Prize in Physics = 노벨 물리학상
+  Optics = 광학
+  Physics = 물리학
+  Raman Research Institute = 라만 연구소
+  Raman effect = 라만 효과
+  Research = 연구
+  Scattering = 산란
+  Wavelength = 파장
+ENTRY:
+Indian physicist known for research on light [[Scattering|scattering]]. With his student K. S. Krishnan, he discovered in 1928 that light traversing a transparent material changes its [[Wavelength|wavelength]] when deflected, a phenomenon now called the Raman effect. Raman received the [[Nobel Prize]] in Physics in 1930, becoming the first Asian and non-White person to win a Nobel Prize in Physics. His major contributions were in [[Acoustics|acoustics]] and [[Optics|optics]]. He became the first Indian director of the Indian Institute of Science in [[Bengaluru]] in 1933 and founded the Raman Research Institute in 1948. The Government of India celebrates the day of the discovery, February 28, as National Science Day.
+
+=== KEY: C_f6f87c
+HEADWORD: C++ = C++
+LEVEL: 5
+GLOSSARY:
+  Bjarne Stroustrup = 비야네 스트롭스트룹
+  C (programming language) = C
+  Danish = 덴마크어
+  Microsoft = 마이크로소프트
+  Microsoft Windows = 마이크로소프트 윈도우
+  Windows = 윈도우
+  generic programming = 제네릭 프로그래밍
+  templates = 템플릿
+ENTRY:
+High-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup, first released in 1985 as an extension of [[C (programming language)|C]]. It added object-oriented features, later functional programming features, and generic programming through templates. C++ has been used to create and maintain [[Microsoft Windows]] and is widely applied in systems software, video games and servers. The latest ISO standard, ISO/IEC 14882:2024 (C++23), was published in October 2024, and C++29 is the next planned version.
+
+=== KEY: C_n_Th_fcc82c
+HEADWORD: Cần Thơ = 껀터
+LEVEL: 4
+GLOSSARY:
+  Assembly = 민회
+  Canal = 운하
+  Centrally governed city = 중앙 직할시
+  Cái Răng Floating Market = 까이랑 수상 시장
+  Cần Thơ River = 껀터강
+  Cần Thơ University = 껀터 대학교
+  Hậu Giang = 허우장
+  Hậu River = 허우강
+  Medicine = 의학
+  Mekong = 메콩강
+  Mekong Delta = 메콩강 삼각주
+  Ninh Kiều = 닌끼에우
+  Ninh Kiều Wharf = 닌끼에우 부두
+  Pharmacy = 약학
+  River = 강
+  Sóc Trăng = 속짱
+  University = 대학
+  Vietnam = 베트남
+  bánh tráng = 바인짱
+  floating markets = 수상 시장
+  Ô Môn Canals = 오몬 운하
+ENTRY:
+Centrally governed city of [[Vietnam]] in the Mekong Delta region (pop., 2024: 4,199,824). It is noted for its floating markets, a village that makes *bánh tráng*, and rural [[Canal|canals]]. Its rivers and canals include the Cần Thơ River, the Hậu River and the Ô Môn Canals. Attractions include the Cái Răng Floating Market and Ninh Kiều Wharf. On June 12, 2025, the National Assembly merged Hậu Giang and Sóc Trăng provinces into the city. Its former central district, Ninh Kiều, is the most populous of the former districts. Academic institutions include Cần Thơ University and Cần Thơ University of Medicine and Pharmacy.
+
+=== KEY: C_programming_language_a8b8ab
+HEADWORD: C = C
+LEVEL: 4
+GLOSSARY:
+  ANSI = ANSI
+  Bell = 종
+  Bell Labs = 벨 연구소
+  Dennis = 데니스
+  Dennis Ritchie = 데니스 리치
+  Kernel (operating system) = 커널
+  Language = 언어
+  Supercomputer = 슈퍼컴퓨터
+  TIOBE index = TIOBE 지수
+  The C Programming Language = 『C 언어 프로그래밍』
+  Unix = 유닉스
+  de facto = 사실상
+  device drivers = 장치 드라이버
+  microcontrollers = 마이크로컨트롤러
+  protocol stacks = 프로토콜 스택
+ENTRY:
+General-purpose programming language created by [[Dennis Ritchie]] at [[Bell Labs]] between 1972 and 1973 as a successor to the B language. It was initially developed to write utilities for Unix and was later used to reimplement the [[Kernel (operating system)|kernel]] of the Unix operating system. C gives programmers relatively direct access to CPU features and is used on machines from [[Supercomputer|supercomputers]] to microcontrollers. It is widely used to implement operating systems, device drivers and protocol stacks, though its use in application software is declining. Standardized by ANSI since 1989 and later jointly by ISO and IEC, it has typically ranked as the most or second-most popular language in the TIOBE index since 2000. *The C Programming Language*, co-authored by Ritchie, served for many years as the de facto standard.
+
+=== KEY: C_rdoba_Argentina_eb24c8
+HEADWORD: Córdoba = 코르도바
+LEVEL: 4
+GLOSSARY:
+  Argentina = 아르헨티나
+  Buenos Aires = 부에노스아이레스
+  City = 도시
+  Colegio Máximo = 콜레히오 막시모
+  Cordobazo = 코르도바소
+  Córdoba = 코르도바
+  Córdoba Province = 코르도바주
+  Jerónimo Luis de Cabrera = 헤로니모 루이스 데 카브레라
+  Jesuit = 예수회
+  Jesuit Block = 예수회 블록
+  Jesuits = 예수회
+  Manzana Jesuítica = 만사나 헤수이티카
+  National University of Córdoba = 국립 코르도바 대학교
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  University = 대학
+  University Revolution of 1918 = 1918년 대학 혁명
+  University of Córdoba = 코르도바 대학교
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+City in central [[Argentina]], capital of Córdoba Province (pop., 2020: about 1.6 million). It is the second-most populous city in the country after [[Buenos Aires]]. Founded on July 6, 1573, by the Spanish conquistador Jerónimo Luis de Cabrera, it was named after the Spanish city of Córdoba. The [[Jesuits]] arrived in 1599 and established the Colegio Máximo, which became the University of Córdoba in 1613 and is now the National University of Córdoba, the oldest university in the country. The Jesuit Block (*Manzana Jesuítica*), a group of 17th-century buildings, was declared a UNESCO [[World Heritage Site]] in 2000. Historical movements include the Cordobazo of May 1969 and the University Revolution of 1918.
+
+=== KEY: Cabaret_musical_fcebf3
+HEADWORD: Cabaret = 카바레
+LEVEL: 5
+GLOSSARY:
+  Berlin = 베를린
+  Broadway = 브로드웨이
+  Camera = 카메라
+  Fred Ebb = 프레드 엡
+  Goodbye to Berlin = 『베를린이여 안녕』
+  I Am a Camera = 『나는 카메라다』
+  Joe Masteroff = 조 마스터로프
+  John = 존
+  John Kander = 존 캔더
+  Kit Kat = 킷캣
+  Kit Kat Klub = 킷캣 클럽
+  Nazi Party = 나치당
+  Nazis = 나치
+  Sally Bowles = 샐리 볼스
+  Tony = 토니상
+  Tony Awards = 토니상
+  Weimar = 바이마르
+  Weimar Republic = 바이마르 공화국
+ENTRY:
+American stage musical with music by John Kander, lyrics by Fred Ebb and a book by Joe Masteroff, based on the play *I Am a Camera* (1951), which drew on Christopher Isherwood's 1939 novel *Goodbye to Berlin*. Set in [[Berlin]] in 1929–1930 during the twilight of the [[Weimar Republic]] as the [[Nazi Party|Nazis]] rise to power, it centers on the Kit Kat Klub and the English cabaret performer Sally Bowles. The original Broadway production opened on November 20, 1966, ran for 1,166 performances and won eight Tony Awards. A 1972 film adaptation followed.
+
+=== KEY: Cabbage_d846ed
+HEADWORD: Cabbage = 양배추
+LEVEL: 4
+GLOSSARY:
+  Brassica oleracea = Brassica oleracea
+  Brassicaceae = 십자화과
+  Broccoli = 브로콜리
+  Cabbage = 양배추
+  Cauliflower = 콜리플라워
+  China = 중국
+  Europe = 유럽
+  Kimchi = 김치
+  Roman Empire = 로마 제국
+  Scurvy = 괴혈병
+  sauerkraut = 자우어크라우트
+ENTRY:
+Leafy green, red or white biennial plant of the [[Brassicaceae]] family, grown as an annual vegetable for its dense heads. Cabbages comprise several cultivars of *Brassica oleracea* and are closely related to [[Broccoli|broccoli]] and [[Cauliflower|cauliflower]]. A cabbage generally weighs between 500 and 1,000 grams. It was probably domesticated in Europe before 1000 BC and was described as a table luxury in the [[Roman Empire]]. Cabbage became a staple food in central, northern and eastern Europe in the 17th and 18th centuries, and European sailors used it to prevent [[Scurvy|scurvy]]. It is pickled, fermented as in sauerkraut and [[Kimchi|kimchi]], steamed, stewed or eaten raw. [[China]] produces 48% of the world total.
+
+=== KEY: Cabinetry_4ca14f
+HEADWORD: Cabinetry = 캐비닛 제작
+LEVEL: 4
+GLOSSARY:
+  André-Charles Boulle = 앙드레샤를 불
+  Arts and Crafts movement = 미술 공예 운동
+  Boulle work = 불 세공
+  Hobby = 취미
+  Industrial Revolution = 산업 혁명
+  Industrial design = 산업 디자인
+  Mass production = 대량 생산
+  Middle class = 중산층
+  United Kingdom = 영국
+  World = 세계
+  World War II = 제2차 세계 대전
+  high-pressure laminate = 고압 라미네이트
+  industrial design = 산업 디자인
+ENTRY:
+Craft of making cabinets, box-shaped furniture with shelves, drawers or doors for storing or displaying items. Cabinets are typically made of wood, coated steel or synthetic materials, and commercial grades often have a melamine-particleboard core covered in high-pressure laminate. Before [[Industrial design|industrial design]] and the [[Industrial Revolution]], cabinetmakers designed and produced nearly all furniture. The most famous was André-Charles Boulle, whose legacy is known as Boulle work. Mass production gradually took over much of the trade, while the [[Arts and Crafts movement]], begun in the United Kingdom in the mid-19th century, revived handmade work. After [[World War II]], woodworking became a popular [[Hobby|hobby]] among the [[Middle class|middle classes]].
+
+=== KEY: Cable_television_becf30
+HEADWORD: Cable television = 케이블 텔레비전
+LEVEL: 4
+GLOSSARY:
+  Community Antenna Television = 공동 시청 안테나 텔레비전
+  Internet = 인터넷
+  Optical fiber = 광섬유
+  Satellite = 인공위성
+  Satellite television = 위성 텔레비전
+  Television = 텔레비전
+  coaxial = 동축
+  coaxial cable = 동축 케이블
+  service drop = 인입선
+  set-top box = 셋톱 박스
+  splitter = 분배기
+ENTRY:
+Television programming delivered to viewers by radio-frequency signals carried through coaxial or [[Optical fiber|fiber-optic]] cable. It is distinct from over-the-air terrestrial television and from [[Satellite television]]. In the U.S., the Community Antenna Television (CATV) program of 1948 used large antennas on hills and mountains to serve communities whose terrain blocked broadcast signals. The share of U.S. households with cable rose from 6.4 percent in 1968 to 62.4 percent in 1994. Systems were later upgraded to digital, and most channels are now encrypted, so each television needs its own set-top box. A service drop brings the coaxial cable into the building, and a splitter divides it among rooms. Cable lines also carry FM radio and high-speed Internet service.
+
+=== KEY: Cable_transport_6f4605
+HEADWORD: Cable transport = 케이블 운송
+LEVEL: 4
+GLOSSARY:
+  Andrew Hallidie = 앤드루 핼리디
+  Clay = 점토
+  Clay Street Hill Railroad = 클레이 스트리트 힐 철도
+  Lyon = 리옹
+  Pulley = 도르래
+  San Francisco = 샌프란시스코
+  Transport = 교통
+  cable cars = 케이블카
+  cable railways = 강삭 철도
+  funiculars = 푸니쿨라
+ENTRY:
+Class of [[Transport|transport]] modes that use cables to carry passengers and goods, often in vehicles called cable cars. The cable may be driven or passive, and loads move by pulling, sliding or sailing on cableways, with [[Pulley|pulleys]] and balanced loads as common elements. Such systems are often used in mountainous areas to overcome large differences in elevation. Major types include aerial transport, in which cars hang from cables strung between supports, and cable railways, in which cars on steep rails are hauled by cable, such as funiculars. The first funicular railway opened in Lyon in 1862. In [[San Francisco]], Andrew Hallidie opened the Clay Street Hill Railroad on August 2, 1873, the first effective and commercially successful cable-car route.
+
+=== KEY: Cache_replacement_policies_dbf470
+HEADWORD: Cache replacement policies = 캐시 교체 정책
+LEVEL: 5
+GLOSSARY:
+  Algorithm = 알고리즘
+  Bélády's algorithm = 벨라디 알고리즘
+  hit rate = 적중률
+  latency = 지연 시간
+  least frequently used = 최소 빈도 사용
+  least recently used = 최근 최소 사용
+  main memory = 주기억 장치
+ENTRY:
+[[Algorithm|Algorithms]] that decide which data a computer cache discards when it is full and new data must be stored. Caching keeps recent or often-used data in memory that is faster to access than main memory. Replacement strategies trade hit rate against latency: more efficient ones track more usage information, while faster ones track less. Bélády's algorithm, the optimal policy, discards the item needed furthest in the future, but this cannot be predicted in practice. Common policies include first-in, first-out (FIFO), least recently used (LRU) and least frequently used (LFU).
+
+=== KEY: Cactus_fb860a
+HEADWORD: Cactus = 선인장
+LEVEL: 4
+GLOSSARY:
+  Americas = 아메리카
+  Cactaceae = 선인장과
+  Canada = 캐나다
+  Fibonacci = 피보나치
+  Fibonacci numbers = 피보나치 수
+  Herbivore = 초식 동물
+  Lanka = 랑카
+  Leaf = 잎
+  Pachycereus pringlei = Pachycereus pringlei
+  Patagonia = 파타고니아
+  Photosynthesis = 광합성
+  Plant = 식물
+  Sri Lanka = 스리랑카
+  Transpiration = 증산 작용
+  areoles = 가시자리
+ENTRY:
+Plant of the family Cactaceae, mostly succulent and adapted to dry environments. The family comprises 131–140 genera and some 1,866 up to 2000+ known species, native to the [[Americas]] from Patagonia to western Canada, with one species also found in Africa and Sri Lanka. Cacti store water in thickened stems, which also carry out [[Photosynthesis|photosynthesis]]. Most species have lost true [[Leaf|leaves]], keeping spines, which are modified leaves that reduce water loss and deter [[Herbivore|herbivores]]. Spines and flowers arise from areoles, an identifying feature of cacti. Many have ribs in Fibonacci numbers that let stems expand after rain. Their [[Transpiration|transpiration]] occurs at night, reducing water loss. The tallest free-standing cactus, *Pachycereus pringlei*, reaches 19.2 m (63 ft).
+
+=== KEY: Cadbury_5d3156
+HEADWORD: Cadbury = 캐드버리
+LEVEL: 5
+GLOSSARY:
+  Birmingham = 버밍엄
+  Buckinghamshire = 버킹엄셔
+  Cadbury = 캐드버리
+  Chocolate = 초콜릿
+  Coffee = 커피
+  Dairy Milk = 데어리 밀크
+  England = 잉글랜드
+  John = 존
+  John Cadbury = 존 캐드버리
+  Mars = 화성
+  Milk = 우유
+  Mondelez International = 몬델리즈 인터내셔널
+  Quaker = 퀘이커교도
+  Tea = 차
+ENTRY:
+British multinational confectionery company, headquartered in [[Buckinghamshire]]. Founded in [[Birmingham]], England, in 1824 by the Quaker John Cadbury, who sold [[Tea|tea]], [[Coffee|coffee]] and drinking [[Chocolate|chocolate]]. Its Dairy Milk chocolate, introduced in 1905, was the company's best-selling product by 1914. Owned by [[Mondelez International]] since 2010, the company operates in more than 50 countries and is the second-largest confectionery brand in the world after Mars.
+
+=== KEY: Cadmium_32b0d9
+HEADWORD: Cadmium = 카드뮴
+LEVEL: 4
+GLOSSARY:
+  Cadmium = 카드뮴
+  Chemical element = 화학 원소
+  Earth's crust = 지각
+  Germany = 독일
+  Mercury (element) = 수은
+  Steel = 강철
+  Zinc = 아연
+  cadmium telluride = 텔루르화 카드뮴
+  control rods = 제어봉
+  neutron poison = 중성자 독
+  oxidation state = 산화수
+  zinc carbonate = 탄산 아연
+ENTRY:
+[[Chemical element]] with symbol Cd and atomic number 48, a soft, silvery-white metal. It resembles [[Zinc|zinc]] and [[Mercury (element)|mercury]], the other stable group 12 metals, and usually has oxidation state +2. Its average concentration in Earth's crust is between 0.1 and 0.5 parts per million. Cadmium was discovered in 1817 in Germany as an impurity in zinc carbonate, and it occurs in most zinc ores as a byproduct of zinc production. It was long used as corrosion-resistant plating on [[Steel|steel]] and in red, orange and yellow pigments. Because cadmium is toxic, its use is declining, and nickel–cadmium batteries have largely been replaced by nickel–metal hydride and lithium-ion types. As a neutron poison, it is used in control rods of nuclear reactors, and cadmium telluride is used in some solar panels.
+
+=== KEY: Caecilian_3f0ccc
+HEADWORD: Caecilian = 무족영원목
+LEVEL: 4
+GLOSSARY:
+  Amphibian = 양서류
+  Asia = 아시아
+  Central America = 중앙아메리카
+  Earthworm = 지렁이
+  Frog = 개구리
+  Gymnophiona = 무족영원목
+  Salamander = 도롱뇽
+ENTRY:
+Order of limbless, worm-like or snake-like [[Amphibian|amphibians]], Gymnophiona, with small eyes or none. Caecilians mostly live hidden in soil or streambeds in the tropics of South and Central America, Africa and southern Asia, feeding on small subterranean animals such as [[Earthworm|earthworms]]. Their skulls are bullet-shaped and strongly built, and their slimy skin has ring-like grooves; some species have scales beneath it. The name Gymnophiona derives from Greek words meaning naked and snake, because caecilians were once thought to be related to snakes. More than 220 living species are classified in 10 families. Caecilians are one of three living amphibian groups, alongside [[Frog|frogs]] and [[Salamander|salamanders]].
+
+=== KEY: Caenorhabditis_elegans_4f908d
+HEADWORD: Caenorhabditis elegans = 예쁜꼬마선충
+LEVEL: 4
+GLOSSARY:
+  C. elegans = 예쁜꼬마선충
+  Model organism = 모델 생물
+  Nematode = 선충
+  Neuron = 뉴런
+  Nobel Prizes = 노벨상
+  Sydney = 시드니
+  Sydney Brenner = 시드니 브레너
+  connectome = 커넥톰
+  developmental biology = 발생생물학
+  hermaphrodites = 자웅동체
+  model organism = 모델 생물
+  type species = 모식종
+ENTRY:
+Free-living, transparent [[Nematode|nematode]] about 1 mm long, the type species of its genus. It lives in temperate soils and has a mouth, pharynx, intestine and gonad, but no circulatory or respiratory system. Most individuals are hermaphrodites, and about one in a thousand is male. Sydney Brenner proposed research on *C. elegans* in 1963, and it became a widely used [[Model organism|model organism]] in molecular and developmental biology. It was the first multicellular organism to have its whole genome sequenced, and in 2019 it was the first with its connectome, the complete map of its wiring. It has 302 [[Neuron|neurons]]. Work on it has won four Nobel Prizes as of 2024.
+
+=== KEY: Caesar_cipher_cbf372
+HEADWORD: Caesar cipher = 카이사르 암호
+LEVEL: 5
+GLOSSARY:
+  Cryptography = 암호학
+  Encryption = 암호화
+  Julius Caesar = 율리우스 카이사르
+  ROT13 = ROT13
+  encryption = 암호화
+ENTRY:
+One of the simplest and most widely known [[Encryption|encryption]] techniques in [[Cryptography|cryptography]], in which each letter is replaced by a letter a fixed number of positions along the alphabet. With a shift of three, A becomes D. The method is named after [[Julius Caesar]], who used it in his private correspondence. Shifts wrap around from Z to A, and the shift serves as the key. As a single-alphabet substitution, it is easily broken and offers essentially no communications security. Its ROT13 variant, a shift of 13, remains in use for mild obfuscation.
+
+=== KEY: Caesar_salad_2a4683
+HEADWORD: Caesar salad = 시저 샐러드
+LEVEL: 5
+GLOSSARY:
+  Caesar Cardini = 시저 카르디니
+  Child = 어린이
+  Green = 초록색
+  Julia Child = 줄리아 차일드
+  Julius Caesar = 율리우스 카이사르
+  Lemon = 레몬
+  Mexico = 멕시코
+  Parmesan = 파르메산 치즈
+  Salad = 샐러드
+  Tijuana = 티후아나
+  Worcestershire = 우스터셔
+  Worcestershire sauce = 우스터소스
+  romaine lettuce = 로메인 상추
+ENTRY:
+Green [[Salad|salad]] of romaine lettuce and croutons, commonly dressed with [[Lemon|lemon]] juice, olive oil, eggs, Worcestershire sauce, anchovies, garlic, Parmesan and black pepper. The Italian immigrant restaurateur Caesar Cardini created it on July 4, 1924, at his restaurant Caesar's in [[Tijuana]], Mexico, when a holiday rush left the kitchen short of ingredients. It was prepared tableside and is still prepared that way at the original restaurant. A popular myth credits [[Julius Caesar]], but the salad is generally attributed to Cardini. [[Julia Child]] said she ate one at Cardini's in the 1920s, made with whole romaine leaves.
+
+=== KEY: Caesarean_section_5eabfe
+HEADWORD: Caesarean section = 제왕절개
+LEVEL: 5
+GLOSSARY:
+  Anesthesia = 마취
+  C-section = 제왕절개
+  Julius Caesar = 율리우스 카이사르
+  Surgery = 수술
+  WHO = 세계 보건 기구
+  World Health Organization = 세계 보건 기구
+  breech birth = 둔위 분만
+  general anesthesia = 전신 마취
+  obstructed labor = 난산
+  spinal block = 척추 마취
+ENTRY:
+Surgical delivery of one or more babies through an incision in the mother's abdomen, also called C-section. It is often performed when vaginal delivery would risk injury or death, for reasons including obstructed labor, twin pregnancy, breech birth and placental problems. The [[Surgery|operation]] typically takes 45 minutes to an hour, under a spinal block or [[Anesthesia|general anesthesia]]. The [[World Health Organization|WHO]] recommends it only when medically necessary. About 23 million were performed globally in 2012. The claim that [[Julius Caesar]] was born this way is probably a misconception, since his mother survived his birth.
+
+=== KEY: Caesium_137_3bc173
+HEADWORD: Caesium-137 = 세슘-137
+LEVEL: 5
+GLOSSARY:
+  Caesium-137 = 세슘-137
+  Chernobyl = 체르노빌
+  Chernobyl accident = 체르노빌 원자력 발전소 사고
+  Half-life = 반감기
+  Nuclear fission = 핵분열
+  Radiation therapy = 방사선 치료
+  Uranium-235 = 우라늄-235
+  barium-137 = 바륨-137
+  barium-137m = 바륨-137m
+  beta emission = 베타 붕괴
+  gamma rays = 감마선
+  metastable = 준안정
+  radiation therapy = 방사선 요법
+ENTRY:
+Radioactive isotope of caesium that forms as one of the more common [[Nuclear fission|fission]] products of [[Uranium-235|uranium-235]] in nuclear reactors and weapons. Its [[Half-life|half-life]] is about 30.04 years, and it decays by beta emission to stable barium-137. Its gamma rays, at 0.6617 MeV, come from the metastable barium-137m. Because its compounds are water-soluble salts and the element becomes volatile at high temperature, it spreads widely after release, as in the Chernobyl accident. Caesium-137 is used to calibrate radiation detectors, in [[Radiation therapy|radiation therapy]], and in industrial gauges and flow meters.
+
+=== KEY: Caesium_67e4fa
+HEADWORD: Caesium = 세슘
+LEVEL: 4
+GLOSSARY:
+  Alkali metal = 알칼리 금속
+  Atomic clock = 원자시계
+  Caesium-137 = 세슘-137
+  Chemical element = 화학 원소
+  Gustav Kirchhoff = 구스타프 키르히호프
+  Latin = 라틴어
+  Robert Bunsen = 로베르트 분젠
+  Spectroscopy = 분광학
+  caesium formate = 포름산 세슘
+  caesium-133 = 세슘-133
+  flame spectroscopy = 불꽃 분광법
+  getter = 게터
+  hyperfine transition = 초미세 전이
+  melting point = 녹는점
+  pyrophoric = 자연 발화성
+  vacuum tubes = 진공관
+ENTRY:
+[[Chemical element]] with symbol Cs and atomic number 55, a soft, silvery-golden [[Alkali metal|alkali metal]] with a melting point of 28.5 °C. It is one of only five elemental metals that are liquid at or near room temperature, and it is pyrophoric, reacting with water even at −116 °C. Discovered in 1860 by Robert Bunsen and [[Gustav Kirchhoff]] through [[Spectroscopy|flame spectroscopy]], it was first used as a getter in vacuum tubes and in photoelectric cells. Since 1967 the second has been defined by a hyperfine transition of caesium-133 atoms, and caesium is widely used in highly accurate [[Atomic clock|atomic clocks]]. Its largest modern application is as caesium formate in drilling fluids. The radioactive isotope [[Caesium-137]] is used in medical applications, industrial gauges and hydrology. The name comes from the Latin *caesius*, meaning bluish gray.
+
+=== KEY: Caffeine_17e78a
+HEADWORD: Caffeine = 카페인
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Alkaloid = 알칼로이드
+  Asia = 아시아
+  Authority = 권위
+  Camellia = 동백나무속
+  Camellia sinensis = 차나무
+  Central nervous system = 중추 신경계
+  Coffee = 커피
+  East Asia = 동아시아
+  European Food Safety Authority = 유럽 식품 안전청
+  Food = 음식
+  Safety = 안전
+  South America = 남아메리카
+  Stimulant = 각성제
+  Tea = 차
+  adenine = 아데닌
+  adenosine receptors = 아데노신 수용체
+  guanine = 구아닌
+  methylxanthine = 메틸잔틴
+  psychoactive drug = 향정신성 약물
+  purine = 퓨린
+  withdrawal symptoms = 금단 증상
+ENTRY:
+Central nervous system [[Stimulant|stimulant]] of the methylxanthine class, and the most commonly consumed psychoactive drug globally. It is a bitter, white crystalline purine [[Alkaloid|alkaloid]] related to the adenine and guanine bases of DNA and RNA. It occurs in the seeds, leaves and fruits of plants native to [[Africa]], [[East Asia]] and South America, where it deters herbivores. Its main human sources are the leaves of [[Camellia sinensis]] ([[Tea|tea]]) and [[Coffee|coffee]] beans, and it works largely by blocking adenosine receptors. Some people experience sleep disruption or anxiety from caffeine, and regular use can produce mild dependence, with withdrawal symptoms such as sleepiness, headache and irritability. The European Food Safety Authority considers up to 400 mg a day unlikely to raise safety concerns for non-pregnant adults.
+
+=== KEY: Cahokia_2a67d0
+HEADWORD: Cahokia = 카호키아
+LEVEL: 4
+GLOSSARY:
+  Americas = 아메리카
+  Cahokia = 카호키아
+  Cahokia tribe = 카호키아족
+  French = 프랑스어
+  Illiniwek = 일리니웩족
+  Illinois = 일리노이주
+  Mexico = 멕시코
+  Mississippi River = 미시시피강
+  Mississippian = 미시시피 문화
+  Mississippian culture = 미시시피 문화
+  National Historic Landmark = 국가 사적지
+  River = 강
+  St. Louis = 세인트루이스
+  UNESCO = 유네스코
+  UNESCO World Heritage Sites = 유네스코 세계유산
+  United States = 미국
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  World Heritage Sites = 세계유산
+  pre-Columbian = 콜럼버스 이전
+ENTRY:
+Archaeological site of a pre-Columbian city in southwestern Illinois, directly across the [[Mississippi River]] from present-day [[St. Louis]]. The city existed from c. 1050 to c. 1350 and was the largest and most influential urban settlement of the Mississippian culture, which developed societies across much of the central and southeastern United States from around 1000. At its apex, around 1100, it covered about 6 square miles (16 km²) and had a population of between 15,000 and 20,000 people. Its original name is unknown; the mounds were later named after the Cahokia tribe, a historic Illiniwek people living there when French explorers arrived in the 17th century. The park covers 2,200 acres and contains about 80 manmade mounds, the largest pre-Columbian earthen construction in the Americas north of [[Mexico]]. It is one of 26 [[UNESCO]] [[World Heritage Site|World Heritage Sites]] in the United States and a National Historic Landmark.
+
+=== KEY: Cai_Lun_5af87f
+HEADWORD: Cai Lun = 채륜
+LEVEL: 4
+GLOSSARY:
+  Bamboo = 대나무
+  Consort Song = 송귀인
+  Eastern Han = 후한
+  Eastern Han dynasty = 후한
+  Empress Dowager Deng = 등태후
+  Eunuch = 환관
+  Four Great Inventions = 4대 발명
+  Han dynasty = 한나라
+  Justice = 정의
+  Luoyang = 뤄양
+  Ministry of Justice = 정위
+  Paper = 종이
+  ancestor worship = 조상 숭배
+  marquis = 후
+  papermaking = 제지술
+ENTRY:
+Chinese [[Eunuch|eunuch]] court official of the [[Han dynasty|Eastern Han dynasty]], traditionally credited with improving [[Paper|papermaking]].
+
+In AD 105 he substantially improved the process by using tree bark, hemp waste, old rags and fishnets. The new paper quickly displaced [[Bamboo]] and wooden slips for writing, and Cai received wealth and fame throughout the empire. Earlier paper had existed since the 3rd century BC, so his contribution is usually described as an innovation rather than an invention. He served at the imperial court in [[Luoyang]] and was made a marquis in AD 114. After his ally, Empress Dowager Deng, died, he was ordered to the Ministry of Justice over his role in the death of Consort Song. Expecting a death sentence, he took his own life. He is revered in ancestor worship and deified as the god of papermaking, and he is the only early figure among China's Four Great Inventions whose name is known.
+
+=== KEY: Caiman_b5be19
+HEADWORD: Caiman = 카이만
+LEVEL: 4
+GLOSSARY:
+  Alligator = 앨리게이터
+  Caimaninae = 카이만아과
+  Central America = 중앙아메리카
+  Mangrove = 맹그로브
+  Marsh = 소택지
+  South America = 남아메리카
+  Swamp = 늪
+  black caiman = 검은카이만
+ENTRY:
+Crocodilian reptile of the subfamily Caimaninae, native to [[Central America]] and [[South America]]. Caimans inhabit [[Marsh|marshes]], [[Swamp|swamps]], lakes and [[Mangrove|mangrove]] rivers and are fairly nocturnal. Most species have an average maximum weight of 6 to 40 kg (13 to 88 lb), but the black caiman (*Melanosuchus niger*) can grow more than 4 m (13 ft) long and weigh more than 450 kg (990 lb), making it the largest caiman species. Caimans differ from their closest relatives, the [[Alligator|alligators]], in lacking a bony septum between the nostrils and in having longer, sharper teeth. Their diet largely consists of fish, and humans are their main predators because of hunting for meat and skin. Females build a large nest and lay between 10 and 50 eggs, which hatch within about six weeks.
+
+=== KEY: Cain_and_Abel_75d7e0
+HEADWORD: Cain and Abel = 카인과 아벨
+LEVEL: 4
+GLOSSARY:
+  Abel = 아벨
+  Adam = 아담
+  Adam and Eve = 아담과 하와
+  Book = 책
+  Book of Genesis = 『창세기』
+  Cain = 카인
+  Nod = 놋
+  Sacrifice = 희생 제의
+ENTRY:
+Brothers, the first two sons of [[Adam and Eve]] in the [[Book of Genesis]]. Cain, the firstborn, was a farmer, and Abel was a shepherd. Both made [[Sacrifice|sacrifices]] to God, but God favored Abel's offering over Cain's. Cain killed Abel, and when God asked where his brother was, he replied, "Am I my brother's keeper?" God judged it murder and cursed Cain to a life of wandering, but gave him a mark to protect him. Cain settled in the land of Nod, where he built a city. Jewish, Muslim and Christian traditions regard Cain as the first murderer and liar and Abel as the first victim. The brothers have become enduring symbols of fratricide and sibling conflict in art, literature, theater, music and film.
+
+=== KEY: Cairo_b181c4
+HEADWORD: Cairo = 카이로
+LEVEL: 3
+GLOSSARY:
+  Africa = 아프리카
+  Al-Azhar = 알아즈하르
+  Al-Azhar University = 알아즈하르 대학교
+  Arab League = 아랍 연맹
+  Arab world = 아랍 세계
+  Arabic = 아랍어
+  Ayyubid = 아이유브 왕조
+  Cairo = 카이로
+  Caliphate = 칼리파국
+  Citadel = 아르빌 성채
+  Citadel of Saladin = 살라딘 성채
+  City = 도시
+  Egypt = 이집트
+  Fatimid = 파티마 왕조
+  Fatimid Caliphate = 파티마 칼리파국
+  Fustat = 푸스타트
+  Giza = 기자
+  Giza pyramid complex = 기자 피라미드 단지
+  Greater Cairo = 대카이로
+  Heliopolis = 헬리오폴리스
+  International Monetary Fund = 국제 통화 기금
+  Islamic architecture = 이슬람 건축
+  Mamluk = 맘루크
+  Mars = 화성
+  Memphis = 멤피스
+  Middle East = 중동
+  Nile = 나일강
+  Nile Delta = 나일강 삼각주
+  Saladin = 살라딘
+  University = 대학
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  al-Mu'izz = 알무이즈
+  al-Qāhirah = 알카히라
+  caliph = 칼리파
+  urban agglomeration = 도시 집적 지역
+ENTRY:
+City (pop. more than 9.8 million), capital and largest city of [[Egypt]], near the head of the [[Nile]] Delta.
+
+Greater Cairo has over 22 million people and is the largest urban agglomeration in Africa, the Arab world, and the Middle East. The area has been inhabited for c. 6000 years, and the Giza pyramid complex and the ancient cities of Memphis and Heliopolis lie within the modern city. The predecessor city was Fustat. Cairo was founded in 969 by the Fatimid caliph al-Mu'izz and became the seat of the [[Fatimid Caliphate]] in 973. Its Arabic name, al-Qāhirah, means 'the Vanquisher' or 'the Conqueror'; it is also said to refer to the planet [[Mars]], called 'the Conquering Star' in Arabic, rising at the city's founding. During the Ayyubid and [[Mamluk]] periods (12th–16th centuries) it superseded Fustat as the main urban center.
+
+Called 'the city of a thousand minarets' for its Islamic architecture, Cairo has a historic center that was designated a [[World Heritage Site]] in 1979. Landmarks include the 12th-century Citadel of Saladin. The city is Egypt's center of finance, commerce, academics, and the arts. It is home to [[Al-Azhar University]], Egypt's oldest university and one of the oldest in the world, and to the oldest and largest film and music industry in Africa and the Arab world. The [[Arab League]] has its headquarters there, and the World Health Organization and several other UN agencies maintain regional offices.
+
+Cairo suffers from high levels of pollution and traffic. Its metro, opened in 1987, is the oldest in Africa and carries over 1 billion passenger rides a year. The International Monetary Fund ranked its economy first in Africa in 2025.
+
+=== KEY: Caitlyn_Jenner_cd5b03
+HEADWORD: Jenner, Caitlyn = 제너, 케이틀린
+LEVEL: 5
+GLOSSARY:
+  1976 Summer Olympics = 1976년 하계 올림픽
+  2021 California gubernatorial recall election = 2021년 캘리포니아 주지사 소환 선거
+  California = 캘리포니아주
+  Decathlon = 10종 경기
+  Keeping Up with the Kardashians = 「4차원 가족 카다시안 따라잡기」
+  LGBTQ = LGBTQ
+  Montreal = 몬트리올
+  Olympic Games = 올림픽
+  Republican = 공화당
+  Republican Party (United States) = 공화당
+  Summer Olympics = 하계 올림픽
+  Transgender = 트랜스젠더
+  decathlete = 10종 경기 선수
+  recall election = 소환 선거
+ENTRY:
+American media personality and retired [[Decathlon|decathlete]]. Jenner won the men's decathlon at the 1976 Summer [[Olympic Games|Olympics]] in [[Montreal]]. Jenner later established a career in television, including the reality series *Keeping Up with the Kardashians*. Jenner publicly came out as transgender in April 2015 and is a transgender rights activist, although other LGBTQ+ activists have criticized Jenner's views on [[Transgender|transgender]] issues. Jenner ran as a [[Republican Party (United States)|Republican]] in the 2021 California gubernatorial recall election, finishing 13th with one percent of the vote.
+
+=== KEY: Cake_41a7f9
+HEADWORD: Cake = 케이크
+LEVEL: 4
+GLOSSARY:
+  Baking = 제빵
+  Baking powder = 베이킹파우더
+  Dessert = 디저트
+  Flour = 밀가루
+  Great Depression = 대공황
+  Molasses = 당밀
+  Norse = 노르드인
+  Old Norse = 고대 노르드어
+  Renaissance = 르네상스
+  Spain = 스페인
+  Sponge = 해면동물
+  Sponge cakes = 스펀지케이크
+  United States = 미국
+  Viking = 바이킹
+  baking soda = 베이킹 소다
+  leavening agent = 팽창제
+ENTRY:
+Baked [[Dessert|dessert]] made by combining [[Flour|flour]] with a liquid, a fat or both, usually with a leavening agent. The word *cake* is of Viking origin, from Old Norse *kaka*. The oldest cakes were essentially sweetened breads. The most common ingredients include flour, sugar, eggs, fat such as butter or oil, and a leavening agent such as baking soda or [[Baking powder]]. Sponge cakes, leavened with beaten eggs, originated during the [[Renaissance]], possibly in [[Spain]]. Cakes became fashionable in the United States in the 1920s as women entered the labor force. During the [[Great Depression]], a surplus of [[Molasses]] led one company to patent a cake-bread mix, establishing the first line of boxed cake. When mix sales fell in the 1950s, marketers shifted the creative task to frosting and decorating.
+
+=== KEY: Calabash_0bafc2
+HEADWORD: Calabash = 호리병박
+LEVEL: 5
+GLOSSARY:
+  Africa = 아프리카
+  Cucurbitaceae = 박과
+  Kentucky = 켄터키주
+  Vegetable = 채소
+  bottle gourd = 호리병박
+  calabash tree = 칼라바시나무
+ENTRY:
+Gourd vine (*Lagenaria siceraria*) of the family [[Cucurbitaceae]], native to tropical Africa and grown for its fruit. Also called bottle gourd, it is cultivated across the tropics. Young fruits are eaten as a [[Vegetable|vegetable]], while mature fruits are dried and used as ladles, bowls, beverage containers or musical instruments. It was one of the world's first cultivated plants grown not primarily for food but for use as containers. Calabash gourds can grow to great size; one grown in Kentucky in 2001 weighed 111.5 kg (246 lb). The name is sometimes confused with that of the unrelated calabash tree.
+
+=== KEY: Calabria_cb09c7
+HEADWORD: Calabria = 칼라브리아
+LEVEL: 5
+GLOSSARY:
+  Byzantine = 비잔티움
+  Byzantine Empire = 비잔티움 제국
+  Calabrian Greek = 칼라브리아 그리스어
+  Catanzaro = 카탄차로
+  Europe = 유럽
+  Gothic = 고딕
+  Gothic War = 고트 전쟁
+  Ionian Sea = 이오니아해
+  Italy = 이탈리아
+  Magna Graecia = 마그나 그라이키아
+  Occitan = 오크어
+  Pollino = 폴리노
+  Silk = 비단
+  Tyrrhenian Sea = 티레니아해
+  national parks = 국립 공원
+ENTRY:
+Region of southern [[Italy]], a peninsula between the [[Ionian Sea]] and the Tyrrhenian Sea. It has a population of 1,827,571 across 15,221.90 sq km, and Catanzaro is its capital. Greek colonies were founded on its coast from the 8th century BC, and the region was the heart of *Magna Graecia*. After the Gothic War it was a [[Byzantine Empire|Byzantine]] dominion for five centuries, and the Byzantines made it the main [[Silk|silk]] production area in Europe. Three historical ethnolinguistic minorities remain, speaking Calabrian Greek, Albanian and Occitan. It has three national parks, including Pollino, the largest in Italy.
+
+=== KEY: Calcite_f9c093
+HEADWORD: Calcite = 방해석
+LEVEL: 5
+GLOSSARY:
+  Calcite = 방해석
+  Calcium = 칼슘
+  Calcium carbonate = 탄산 칼슘
+  Carbonate = 탄산염
+  Limestone = 석회암
+  Mohs scale = 모스 굳기계
+  aragonite = 아라고나이트
+  specific gravity = 비중
+ENTRY:
+Carbonate mineral and the most stable form of [[Calcium carbonate]] (CaCO₃). It is very common, particularly as a component of [[Limestone|limestone]], and defines hardness 3 on the [[Mohs scale]]. Calcite is usually white or colorless, though impurities can tint it gray, red, orange or other colors. Large calcite crystals are used in optical equipment. Its specific gravity is 2.71. The related mineral aragonite changes to calcite over days or less at temperatures above 300 °C.
+
+=== KEY: Calcium_a9640c
+HEADWORD: Calcium = 칼슘
+LEVEL: 4
+GLOSSARY:
+  Alkaline earth metal = 알칼리 토금속
+  Aluminium = 알루미늄
+  Calcium = 칼슘
+  Calcium carbonate = 탄산 칼슘
+  Earth = 지구
+  Earth's crust = 지각
+  Humphry Davy = 험프리 데이비
+  Iron = 철
+  Latin = 라틴어
+  Limestone = 석회암
+  Neurotransmitter = 신경 전달 물질
+  Steelmaking = 제강
+  alkaline earth = 알칼리 토금속
+  chemical element = 화학 원소
+  electrolysis = 전기 분해
+  signal transduction = 신호 전달
+ENTRY:
+Reactive [[Alkaline earth metal|alkaline earth metal]], chemical element of atomic number 20 (symbol Ca). Calcium is the fifth most abundant element in Earth's crust and the third most abundant metal, after [[Iron]] and [[Aluminium]]. Its name comes from the Latin *calx* ("lime"), obtained from heating [[Limestone]]. Its most common compound on Earth is [[Calcium carbonate]], found in limestone and the fossils of early sea life. [[Humphry Davy]] isolated pure calcium in 1808 by electrolysis of its oxide and named the element. The metal melts at 842 °C. Calcium compounds are used in cement, paper, soaps and food supplements, and small amounts of the metal serve as an alloy in [[Steelmaking|steelmaking]]. Calcium is the most abundant metal in the human body, where its ions play a vital role in signal transduction, [[Neurotransmitter|neurotransmitter]] release, muscle contraction and bone formation.
+
+=== KEY: Calcium_carbonate_35da40
+HEADWORD: Calcium carbonate = 탄산 칼슘
+LEVEL: 4
+GLOSSARY:
+  Calcite = 방해석
+  Calcium oxide = 산화 칼슘
+  Chalk = 백악
+  Limescale = 물때
+  Limestone = 석회암
+  Paper = 종이
+  Pearl = 진주
+  agricultural lime = 농업용 석회
+  antacid = 제산제
+  aragonite = 아라고나이트
+  calcium carbonate = 탄산 칼슘
+  carbon cycle = 탄소 순환
+  hypercalcemia = 고칼슘혈증
+  stalactites = 종유석
+  stalagmites = 석순
+ENTRY:
+Common compound (CaCO₃) found in rocks as the minerals [[Calcite|calcite]] and aragonite. It occurs in [[Chalk|chalk]] and [[Limestone|limestone]], eggshells, shells, skeletons and [[Pearl|pearls]]. Limescale, produced when calcium ions in hard water react with carbonate ions, is also calcium carbonate. In the carbon cycle it sequesters large amounts of carbon in geological formations, and acidic water entering a deposit can form caves with stalactites and stalagmites. Heating calcium carbonate releases carbon dioxide and leaves [[Calcium oxide|calcium oxide]]. It is used as agricultural lime to correct soil chemistry, as a calcium supplement or antacid, and as a filler in [[Paper|paper]] and plastic. Excess intake can cause hypercalcemia and digestive problems.
+
+=== KEY: Calcium_chloride_4b8771
+HEADWORD: Calcium chloride = 염화 칼슘
+LEVEL: 4
+GLOSSARY:
+  Calcium = 칼슘
+  Calcium hydroxide = 수산화 칼슘
+  Hydrochloric acid = 염산
+  Tofu = 두부
+  deliquescent = 조해성
+  desiccant = 건조제
+  firming agent = 경화제
+  hygroscopic = 흡습성
+ENTRY:
+Inorganic salt (CaCl₂), a white crystalline solid that is highly soluble in water. It is made by neutralizing [[Hydrochloric acid]] with [[Calcium hydroxide]]. Its hydrates are used mainly for de-icing and dust control, and solutions can prevent freezing at temperatures as low as −52 °C (−62 °F). On dirt roads, a concentrated solution keeps a liquid layer that suppresses dust, reducing the need for grading by as much as 50% and fill-in materials by as much as 80%. The anhydrous salt is hygroscopic and deliquescent, so it serves as a desiccant. In food, it is used as a firming agent in canned vegetables, such as tomatoes and cucumber pickles, and in firming soybean curds into [[Tofu]]. It was apparently discovered in the 15th century but was not studied properly until the 18th.
+
+=== KEY: Calcium_hydroxide_2e9a22
+HEADWORD: Calcium hydroxide = 수산화 칼슘
+LEVEL: 5
+GLOSSARY:
+  Calcium = 칼슘
+  Calcium hydroxide = 수산화 칼슘
+  Calcium oxide = 산화 칼슘
+  Inorganic compound = 무기 화합물
+  Sewage treatment = 하수 처리
+  flocculant = 응집제
+  lime mortar = 석회 모르타르
+  limewater = 석회수
+  quicklime = 생석회
+  slaked lime = 소석회
+ENTRY:
+Inorganic compound, Ca(OH)₂, traditionally called slaked lime. It is produced when [[Calcium oxide|quicklime]] is mixed with water and forms a colorless crystal or white powder. Approximately 125 million tons are produced worldwide each year. Its saturated solution is called limewater, which turns milky when carbon dioxide is passed through it. Calcium hydroxide is used to prepare lime mortar, as a flocculant in water and [[Sewage treatment|sewage treatment]], and as a neutralizing agent in municipal wastewater treatment.

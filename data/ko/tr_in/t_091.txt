@@ -1,0 +1,867 @@
+=== KEY: Diethyl_ether_10331b
+HEADWORD: Diethyl ether = 다이에틸 에테르
+LEVEL: 5
+GLOSSARY:
+  Boston = 보스턴
+  Crawford Williamson Long = 크로퍼드 윌리엄슨 롱
+  Ethanol = 에탄올
+  Organic compound = 유기 화합물
+  Sulfuric acid = 황산
+  Valerius Cordus = 발레리우스 코르두스
+  William = 윌리엄
+  William T. G. Morton = 윌리엄 T. G. 모턴
+  electrical cauterization = 전기 소작술
+  ether = 에테르
+  general anesthetic = 전신 마취제
+  sulfuric acid = 황산
+ENTRY:
+Colorless, highly volatile [[Organic compound|organic compound]] of the ether class, (CH₃CH₂)₂O. It is a common solvent and was formerly used as a general anesthetic. Valerius Cordus synthesized it in 1540 by distilling [[Ethanol|ethanol]] with [[Sulfuric acid|sulfuric acid]]. William T. G. Morton publicly demonstrated its use as an anesthetic in [[Boston]] on October 16, 1846, though Crawford Williamson Long had used it privately as early as 1842. Growing use of electrical cauterization in surgery required a switch to non-flammable anesthetics in the mid-20th century, and ether is rarely used in the 21st century.
+
+=== KEY: Dietrich_Fischer_Dieskau_f359a5
+HEADWORD: Fischer-Dieskau, Dietrich = 피셔디스카우, 디트리히
+LEVEL: 4
+GLOSSARY:
+  Franz Schubert = 프란츠 슈베르트
+  German = 독일어
+  Italy = 이탈리아
+  Jussi Björling = 유시 비욜링
+  Leipzig = 라이프치히
+  Lieder = 리트
+  Prisoner of war = 전쟁 포로
+  Städtische Oper Berlin = 베를린 시립 오페라
+  Wehrmacht = 독일 국방군
+  Winterreise = 「겨울 나그네」
+  conductor = 도체
+  lyric baritone = 리릭 바리톤
+  prisoner of war = 전쟁 포로
+ENTRY:
+German lyric baritone and conductor of classical music. He was best known as an interpreter of [[Franz Schubert|Schubert]]'s *Lieder*, particularly *Winterreise*, and recorded repertoire spanning centuries in several languages. Drafted into the [[Wehrmacht]] in 1943, he was captured in Italy in 1945 and spent two years as an American [[Prisoner of war|prisoner of war]], singing *Lieder* to homesick German soldiers in POW camps. He gave his first *Lieder* recital in [[Leipzig]] in 1947 and in 1948 was engaged as principal lyric baritone at the Städtische Oper Berlin. He dominated the opera and concert platforms for more than thirty years. A 1999 critics' poll ranked him the second greatest singer of the century, after Jussi Björling. He retired from the operatic stage in 1978, continued as a conductor and teacher from 1983, and made hundreds of recordings.
+
+=== KEY: Differential_calculus_798555
+HEADWORD: Differential calculus = 미분학
+LEVEL: 4
+GLOSSARY:
+  Acceleration = 가속도
+  Calculus = 미적분학
+  Derivative = 도함수
+  Function (mathematics) = 함수
+  Fundamental theorem of calculus = 미적분학의 기본 정리
+  Velocity = 속도
+  differential = 미분
+  differentiation = 미분
+  integral calculus = 적분학
+  tangent line = 접선
+ENTRY:
+Subfield of [[Calculus|calculus]] concerned with the rates at which quantities change. Its primary objects are the [[Derivative|derivative]] of a [[Function (mathematics)|function]], related notions such as the differential, and their applications. The derivative at a chosen input is the instantaneous rate of change of the function there, and geometrically it is the slope of the tangent line to the graph. Finding a derivative is called differentiation. Differential and integral calculus are the two traditional divisions of calculus, connected by the [[Fundamental theorem of calculus|fundamental theorem of calculus]]. Differentiation has applications across the quantitative disciplines: the derivative of position is [[Velocity|velocity]], and the derivative of velocity is [[Acceleration|acceleration]]. Derivatives are also used to find the maxima and minima of functions.
+
+=== KEY: Differential_equation_774ea8
+HEADWORD: Differential equation = 미분 방정식
+LEVEL: 4
+GLOSSARY:
+  Bernoulli equation = 베르누이 방정식
+  Derivative = 도함수
+  Dynamical system = 동역학계
+  Equation = 방정식
+  Fourier = 푸리에
+  Heat equation = 열 방정식
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Jacob Bernoulli = 야코프 베르누이
+  Jean Le Rond d'Alembert = 장 르 롱 달랑베르
+  Joseph Fourier = 조제프 푸리에
+  Newton = 뉴턴
+  Physics = 물리학
+  Théorie analytique de la chaleur = 『열의 해석적 이론』
+  Wave equation = 파동 방정식
+ENTRY:
+Equation relating one or more unknown functions and their [[Derivative|derivatives]]. In applications the functions generally represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two. Such equations are central to mathematical models and scientific laws in [[Physics|physics]], engineering, economics and biology. Only the simplest can be solved by explicit formulas, so solutions are often approximated numerically, while the theory of [[Dynamical system|dynamical systems]] studies their qualitative behavior. In his 1671 work, [[Isaac Newton]] listed three kinds. [[Jacob Bernoulli]] proposed the Bernoulli equation in 1695. In 1746 [[Jean Le Rond d'Alembert|Jean le Rond d'Alembert]] discovered the one-dimensional [[Wave equation|wave equation]], and in 1822 Joseph Fourier published his [[Heat equation|heat equation]] in *Théorie analytique de la chaleur*.
+
+=== KEY: Differential_geometry_33ce27
+HEADWORD: Differential geometry = 미분 기하학
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Einstein = 알베르트 아인슈타인
+  Branch = 브랜치
+  Earth = 지구
+  Einstein = 아인슈타인
+  Eratosthenes = 에라토스테네스
+  Euclidean = 유클리드
+  Euclidean space = 유클리드 공간
+  General relativity = 일반 상대성 이론
+  Lobachevsky = 로바쳅스키
+  Manifold = 다양체
+  Mathematics = 수학
+  Riemannian geometry = 리만 기하학
+  Standard = 스탠더드
+  Standard Model = 표준 모형
+  control theory = 제어 이론
+  differentiable manifolds = 미분 가능 다양체
+  field theory = 장 이론
+  general theory of relativity = 일반 상대성 이론
+  geodesy = 측지학
+  hyperbolic geometry = 쌍곡 기하학
+  linear algebra = 선형대수학
+  machine learning = 기계 학습
+  multilinear algebra = 다중선형대수학
+  quantum field = 양자장
+  quantum field theory = 양자장론
+  spherical geometry = 구면 기하학
+  theory of relativity = 상대성 이론
+  vector calculus = 벡터 미적분학
+ENTRY:
+Branch of [[Mathematics|mathematics]] concerned with smooth shapes and spaces, known as [[Manifold|smooth manifolds]]. It uses the techniques of vector calculus, linear algebra and multilinear algebra. Its origins lie in the study of spherical geometry in antiquity, and it relates to astronomy, the geodesy of the Earth and the hyperbolic geometry of Lobachevsky. [[Eratosthenes]] calculated the circumference of the Earth around 200 BC. The simplest examples are plane and space curves and surfaces in three-dimensional [[Euclidean space|Euclidean space]], and their study formed the basis of the field in the 18th and 19th centuries. Since the late 19th century it has concerned geometric structures on differentiable manifolds, such as the distances and angles specified in [[Riemannian geometry|Riemannian geometry]]. [[Albert Einstein]] used its language in his [[General relativity|general theory of relativity]], and physicists later used it in quantum field theory and the [[Standard Model]]. It is also applied in chemistry, economics, engineering, control theory, computer graphics and machine learning.
+
+=== KEY: Diffie_Hellman_key_exchange_b03f31
+HEADWORD: Diffie–Hellman key exchange = 디피-헬먼 키 교환
+LEVEL: 5
+GLOSSARY:
+  Courier = 급사
+  Internet = 인터넷
+  Martin Hellman = 마틴 헬먼
+  Security = 보안
+  Transport = 교통
+  Transport Layer Security = 전송 계층 보안
+  Whitfield Diffie = 휫필드 디피
+  forward secrecy = 전방향 안전성
+  symmetric cryptographic key = 대칭 암호 키
+ENTRY:
+Method of generating a shared symmetric cryptographic key over a public channel. Whitfield Diffie and Martin Hellman published it in 1976. Previously, keys had to be exchanged by physical means, such as paper key lists carried by a trusted [[Courier|courier]]. The method lets two parties with no prior contact establish a shared secret over an insecure channel. It secures many [[Internet]] services and provides forward secrecy in the ephemeral modes of [[Transport Layer Security]]. The exchange itself is not authenticated and must be combined with other protocols.
+
+=== KEY: Diffraction_d14764
+HEADWORD: Diffraction = 회절
+LEVEL: 4
+GLOSSARY:
+  Augustin-Jean Fresnel = 오귀스탱장 프레넬
+  Diffraction = 회절
+  Dominique-François-Jean Arago = 도미니크 프랑수아 장 아라고
+  Francesco Maria Grimaldi = 프란체스코 마리아 그리말디
+  Gravitational wave = 중력파
+  Huygens' principle = 하위헌스 원리
+  Light = 빛
+  Poisson = 푸아송
+  Siméon Denis Poisson = 시메옹 드니 푸아송
+  Thomas = 토머스
+  Thomas Young = 토머스 영
+  Thomas Young (scientist) = 토머스 영
+  Wave = 파동
+  X-ray = 엑스선
+  X-rays = 엑스선
+  gravitational waves = 중력파
+  interference = 간섭
+  radio waves = 전파
+  the shadow = 그림자
+  wave theory = 파동설
+ENTRY:
+Deviation of [[Wave|waves]] from straight-line propagation, caused by an obstacle or aperture without any change in their energy. It is the same physical effect as interference, but the term diffraction is used when many waves are superposed. The resulting pattern maps the directions in which the waves travel after diffraction. Diffraction occurs for all waves, including [[Light|light]], sound, water waves, [[Gravitational wave|gravitational waves]], [[X-ray|X-rays]], radio waves, electrons and neutrons. The Italian scientist Francesco Maria Grimaldi coined the word and first recorded accurate observations of the effect in 1660. [[Thomas Young (scientist)|Thomas Young]] developed the first wave treatment in 1800, and [[Augustin-Jean Fresnel]] later devised a wave theory based on Huygens' principle. In 1818 [[Siméon Denis Poisson]] challenged Fresnel's theory by showing that it predicted light in the shadow of a circular obstruction, and Dominique-François-Jean Arago then demonstrated experimentally that such light exists.
+
+=== KEY: Diffraction_grating_555c4d
+HEADWORD: Diffraction grating = 회절 격자
+LEVEL: 4
+GLOSSARY:
+  DVD = DVD
+  David Rittenhouse = 데이비드 리튼하우스
+  Fraunhofer = 프라운호퍼
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  James = 야고보
+  James Gregory = 제임스 그레고리
+  Joseph von Fraunhofer = 요제프 폰 프라운호퍼
+  Prism (optics) = 프리즘
+  Rainbow = 무지개
+  Spectrometer = 분광계
+  angle of incidence = 입사각
+  diffracted order = 회절 차수
+  line spectra = 선 스펙트럼
+  monochromators = 단색화 장치
+ENTRY:
+Optical component of periodic grooves or slits, splitting light into several beams. Each beam, called a diffracted order, travels in a different direction. The angles depend on the angle of incidence, the spacing of the grooves or slits, and the wavelength of the light. Because a grating disperses light by wavelength, it is used in [[Spectrometer|spectrometers]] and monochromators. Reflective gratings have ridges on their surface, while transmissive gratings have slits. James Gregory observed diffraction patterns from a bird feather about a year after [[Isaac Newton]]'s [[Prism (optics)|prism]] experiments, effectively the first diffraction grating. The first human-made grating was made around 1785 by David Rittenhouse, who strung hairs between two finely threaded screws. Joseph von Fraunhofer, who made a wire grating in 1821, was the first to obtain line spectra with a grating. Closely spaced tracks on CDs and [[DVD|DVDs]] produce [[Rainbow|rainbow]] colors through the same effect.
+
+=== KEY: Diffusion_c9fc47
+HEADWORD: Diffusion = 확산
+LEVEL: 4
+GLOSSARY:
+  Blood = 혈액
+  Convection = 대류
+  Fick's laws = 픽의 법칙
+  Gibbs = 기브스
+  Gibbs free energy = 깁스 자유 에너지
+  Latin = 라틴어
+  Lung = 폐
+  Statistics = 통계학
+  Stochastic process = 확률 과정
+  advection = 이류
+  alveoli = 폐포
+  chemical potential = 화학 퍼텐셜
+  information theory = 정보 이론
+  neural networks = 신경망
+  probability theory = 확률론
+  random walk = 무작위 행보
+  spinodal decomposition = 스피노달 분해
+ENTRY:
+Net movement of anything, such as atoms, ions, molecules or energy, from a region of higher concentration to one of lower concentration. It is driven by a gradient in [[Gibbs free energy|Gibbs free energy]] or chemical potential, and it can occur uphill, as in spinodal decomposition. Because particles move by random walk, diffusion mixes matter without directed bulk motion, which is the characteristic of advection; [[Convection|convection]] combines the two. Processes described by Fick's laws are called normal, or Fickian, diffusion. The word derives from [[Latin]] *diffundere*, "to spread out." As a [[Stochastic process|stochastic process]], diffusion is used in models in [[Statistics|statistics]], probability theory, information theory, neural networks, finance and marketing. In breathing, air moves into the [[Lung|lungs]] by bulk flow, and oxygen then diffuses from the alveoli into the [[Blood|blood]].
+
+=== KEY: Digestion_c7783f
+HEADWORD: Digestion = 소화
+LEVEL: 3
+GLOSSARY:
+  Enzyme = 효소
+  Esophagus = 식도
+  Gastric juice = 위액
+  Gastrointestinal tract = 위장관
+  Liver = 간
+  Pancreas = 이자
+  Small intestine = 소장
+  Starch = 녹말
+  Stomach = 위
+  Waste = 폐기물
+  Water = 물
+  amino acids = 아미노산
+  bile = 담즙
+  bolus = 음식 덩이
+  catabolism = 이화 작용
+  chyme = 유미즙
+  colon = 결장
+  disaccharide = 이당류
+  duodenum = 십이지장
+  gastrointestinal tract = 위장관
+  hydrochloric acid = 염산
+  pepsin = 펩신
+  peristalsis = 연동 운동
+  rectum = 직장
+  salivary amylase = 침 아밀레이스
+  small intestine = 소장
+ENTRY:
+Breakdown of large insoluble food compounds into small water-soluble components that can be absorbed into the blood plasma. It is a form of catabolism, usually divided into mechanical digestion, the physical breakdown of food into smaller pieces, and chemical digestion, in which [[Enzyme|enzymes]] break food down into compounds the body can use.
+
+External digestion, in which enzymes are secreted into the surroundings and some products diffuse back, developed earlier in evolutionary history; most fungi still rely on it. Animals have a tube, the [[Gastrointestinal tract|gastrointestinal tract]], in which internal digestion occurs; it is more efficient because more of the broken-down products can be captured.
+
+In humans, chewing and the wetting action of saliva begin digestion in the mouth. Saliva contains salivary amylase, which starts the digestion of [[Starch|starch]]; about 30% of starch is hydrolyzed into disaccharide there. The food, now a slurry mass called a bolus, travels down the [[Esophagus|esophagus]] to the [[Stomach|stomach]] by peristalsis. Gastric juice, mainly hydrochloric acid and pepsin, starts protein digestion; mucus and bicarbonates protect the stomach wall. Pepsin breaks proteins into peptides, which enzymes in the [[Small intestine|small intestine]] break down further into dipeptides and amino acids.
+
+Partially digested food, called chyme, enters the duodenum, where it mixes with enzymes from the [[Pancreas|pancreas]] and bile juice from the [[Liver|liver]]. About 95% of nutrient absorption occurs in the small intestine. Water and minerals are reabsorbed in the colon, where bacteria produce some vitamins that are also absorbed. Waste material is eliminated from the rectum during defecation.
+
+=== KEY: Digital_art_cb9637
+HEADWORD: Digital art = 디지털 아트
+LEVEL: 4
+GLOSSARY:
+  Abraham = 아브라함
+  Abraham Lincoln = 에이브러햄 링컨
+  Amiga = 아미가
+  Andy Warhol = 앤디 워홀
+  Computer = 컴퓨터
+  Digital art = 디지털 아트
+  Fractal = 프랙털
+  Gala Contemplating the Mediterranean Sea = 「지중해를 바라보는 갈라」
+  Lincoln Center = 링컨 센터
+  Mediterranean = 지중해
+  Mediterranean Sea = 지중해
+  Multimedia = 멀티미디어
+  Painting = 회화
+  Salvador = 사우바도르
+  Salvador Dalí = 살바도르 달리
+  algorithmic art = 알고리즘 아트
+  generative adversarial networks = 생성적 적대 신경망
+  new media art = 뉴 미디어 아트
+  vector graphics = 벡터 그래픽
+ENTRY:
+Artistic work using digital technology in its creative or presentational process. The term also covers [[Computer|computer]] art and other computational art that engages with [[Multimedia|multimedia]] or digital media. Names such as electronic art and new media art have been used since the 1960s. Digital art may be purely computer-generated, as with [[Fractal|fractals]] and algorithmic art, or may start from a scanned photograph or vector graphics. In 1974–77 [[Salvador Dalí]] made two large canvases of *Gala Contemplating the Mediterranean Sea* that appear as a portrait of [[Abraham Lincoln]] from 20 meters away. [[Andy Warhol]] created digital art on an [[Amiga]] computer, which was publicly introduced at Lincoln Center in July 1985. Digital painting imitates traditional [[Painting|painting]] with pixels on a screen, or produces physical work made with digital electronics. Artists have used artificial intelligence since at least the 1960s and generative adversarial networks since 2014.
+
+=== KEY: Digital_data_1472ca
+HEADWORD: Digital data = 디지털 데이터
+LEVEL: 4
+GLOSSARY:
+  ASCII = 아스키
+  Bell = 종
+  Bell Telephone = 벨 전화 회사
+  Bell Telephone Laboratories = 벨 전화 연구소
+  Bit = 비트
+  Byte = 바이트
+  Data science = 데이터 과학
+  George Stibitz = 조지 스티비츠
+  Information = 정보
+  Latin = 라틴어
+  Machine learning = 기계 학습
+  Sound = 소리
+  Statistics = 통계학
+  Telephone = 전화
+  analog data = 아날로그 데이터
+  anti-aircraft guns = 대공포
+  data science = 데이터 과학
+  digitus = 디기투스
+  machine learning = 기계 학습
+ENTRY:
+Information represented as a string of discrete symbols, each taking one of a finite number of values from an alphabet, such as letters or digits. The most common form in modern information systems is binary data, a string of [[Bit|bits]] that each have the value 0 or 1, grouped into [[Byte|bytes]] of eight bits. It contrasts with analog data, which takes values from a continuous range, such as the air pressure variation in a [[Sound|sound]] wave. Data requires interpretation to become information. In modern computer systems all data is digital, and digital data is the main input for [[Data science|data science]], which applies methods from [[Statistics|statistics]], computer science and [[Machine learning|machine learning]]. Text is encoded with standards such as [[ASCII]]. The word digital derives from the Latin *digitus*, meaning "finger," and was used by George Stibitz of Bell Telephone Laboratories in 1942 for the fast electrical pulses of a device that aimed anti-aircraft guns.
+
+=== KEY: Digital_photography_aa9c7e
+HEADWORD: Digital photography = 디지털 사진
+LEVEL: 4
+GLOSSARY:
+  Charge-coupled device = 전하 결합 소자
+  Photographic film = 사진 필름
+  Photography = 사진
+  Russell Kirsch = 러셀 커시
+  Smartphone = 스마트폰
+  Social media = 소셜 미디어
+  Telemetry = 원격 측정
+  analog-to-digital converter = 아날로그-디지털 변환기
+  electronic viewfinder = 전자식 뷰파인더
+  embedded systems = 임베디드 시스템
+  image sensor = 이미지 센서
+  photodetectors = 광검출기
+  social media = 소셜 미디어
+ENTRY:
+Photography using arrays of electronic photodetectors and an analog-to-digital converter, with images stored as computer files. Digital photographs need no wet chemical processing of the kind required for [[Photographic film|photographic film]]. Most cameras have an electronic viewfinder that lets the photographer review or delete a picture within seconds, and onboard computers set focus and exposure automatically. Much of the technology originated in the space industry, where it is linked to embedded systems and remote [[Telemetry|telemetry]]. In 1957 Russell Kirsch produced the first digital image through a computer, an image of his son. The first semiconductor image sensor was the [[Charge-coupled device|charge-coupled device]], first demonstrated in April 1970. Consumer digital cameras appeared in the late 1990s, and cameras were built into [[Smartphone|cell phones]] from around 2000, particularly for their connectivity to [[Social media|social media]] and email.
+
+=== KEY: Diglossia_f7f646
+HEADWORD: Diglossia = 양층 언어
+LEVEL: 4
+GLOSSARY:
+  Arab world = 아랍 세계
+  Arabic = 아랍어
+  Charles A. Ferguson = 찰스 A. 퍼거슨
+  Dialect = 방언
+  Europe = 유럽
+  Hindi = 힌디어
+  Hindustani = 힌두스타니어
+  India = 인도
+  Latin = 라틴어
+  Modern Standard Arabic = 현대 표준 아랍어
+  Pakistan = 파키스탄
+  Standard = 스탠더드
+  Tamil = 타밀어
+  Urdu = 우르두어
+  literary Tamil = 문어 타밀어
+  vernacular = 구어
+ENTRY:
+Sociolinguistic arrangement of two [[Dialect|dialects]] or languages used in strictly separate settings by one community. Alongside the everyday vernacular, the *L* (low) variety, a second, highly codified *H* (high) variety serves literature, formal education and specific settings but not ordinary conversation. The *H* variety may have no native speakers. It may be an older stage of the same language, as in medieval Europe, where [[Latin]] stayed in formal use while spoken forms diverged. In northern India and Pakistan, Hindustani is used alongside [[Hindi|Hindi]] and [[Urdu|Urdu]]; other examples include Modern Standard [[Arabic]] alongside regional varieties in the [[Arab world]], and literary Tamil alongside colloquial spoken Tamil. Sociolinguist Charles A. Ferguson introduced the English term in 1959. Speakers of the *L* variety must learn the *H* variety for literacy and professional advancement, a requirement that can create educational challenges.
+
+=== KEY: Dignity_e002c7
+HEADWORD: Dignity = 존엄성
+LEVEL: 4
+GLOSSARY:
+  Ethics = 윤리학
+  Human = 인간
+  Immanuel Kant = 이마누엘 칸트
+  Latin = 라틴어
+  Law = 법
+  Morality = 도덕
+  Rights = 인권
+  Universal Declaration of Human Rights = 세계 인권 선언
+  World = 세계
+  World War II = 제2차 세계 대전
+  dignitas = 디그니타스
+  ends in themselves = 목적 그 자체
+ENTRY:
+Right of a person to be valued and respected for their own sake and to be treated ethically. The concept is significant in [[Morality|morality]], [[Ethics|ethics]] and [[Law|law]] as an extension of Enlightenment-era ideas of inherent, inalienable rights. Contemporary dignity derives from the [[Universal Declaration of Human Rights]] of 1948, whose Article 1 states, "All human beings are born free and equal in dignity and rights." References to human dignity became more common in constitutions and charters after [[World War II]]. The English word comes from [[Latin]] *dignitas*, meaning "worthiness" or "prestige." In ordinary use it denotes respect and status, but it is rarely defined in political, legal and scientific discussions. [[Immanuel Kant]]'s principle that people should be treated as ends in themselves underlies the view that dignity forbids instrumentalizing a person. Humiliation, which diminishes a person's self-worth, is another recognized violation. Debate persists over whether dignity is an objective attribute of human beings or a relational one.
+
+=== KEY: Dijkstra_s_algorithm_2c3fda
+HEADWORD: Dijkstra's algorithm = 데이크스트라 알고리즘
+LEVEL: 5
+GLOSSARY:
+  Algorithm = 알고리즘
+  Artificial intelligence = 인공지능
+  Data structure = 자료 구조
+  Edsger W. Dijkstra = 에츠허르 W. 데이크스트라
+  IS-IS = IS-IS
+  OSPF = OSPF
+  min-priority queue = 최소 우선순위 큐
+  uniform cost search = 균일 비용 탐색
+  weighted graph = 가중 그래프
+ENTRY:
+Algorithm for finding the shortest paths between nodes in a weighted graph, such as a road network. [[Edsger W. Dijkstra]] conceived it in 1956 and published it in 1959. It finds the shortest paths from a source node to every other node, and it can stop once a chosen destination is reached. It uses a min-priority queue [[Data structure|data structure]] and is normally applied to graphs with non-negative edge weights. The method underlies network routing protocols such as IS-IS and OSPF, and in [[Artificial intelligence|artificial intelligence]] a variant serves as uniform cost search.
+
+=== KEY: Dik_dik_423425
+HEADWORD: Dik-dik = 딕딕
+LEVEL: 5
+GLOSSARY:
+  Antelope = 영양
+  Eagle = 수리
+  Jackal = 자칼
+  Madoqua = 딕딕속
+  Onomatopoeia = 의성어
+  southern Africa = 남아프리카
+ENTRY:
+Any of four species of small [[Antelope|antelope]] in the genus *Madoqua*. They live in the bushlands of eastern and southern Africa and stand about 30–40 cm at the shoulder. Dik-diks can live up to 10 years. The name is [[Onomatopoeia|onomatopoeic]], imitating the whistled *dik* alarm call of females, which both sexes supplement with a shrill whistle that may warn other animals of predators. Dik-diks tolerate dry conditions: they have fewer sweat glands than cattle and can concentrate their urine. They usually live in pairs. [[Eagle|Eagles]] and [[Jackal|jackals]] are among their predators.
+
+=== KEY: Dildo_d3a3ab
+HEADWORD: Dildo = 딜도
+LEVEL: 5
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Dictionary = 사전
+  Oxford = 옥스퍼드
+  Oxford English Dictionary = 『옥스퍼드 영어 사전』
+  Sex toy = 성인용품
+  The Choise of Valentines = 「발렌타인의 선택」
+  The Oxford English Dictionary = 『옥스퍼드 영어 사전』
+  Thomas = 토머스
+  olisbos = 올리스보스
+ENTRY:
+Sex toy, often explicitly phallic in form, intended for sexual penetration or other sexual activity. It is made from a variety of solid materials, and its shape and size vary widely to suit different users. The [[Oxford English Dictionary]] concluded in its third edition, published in 2018, that the word originates in nonsense syllables common in early-modern popular ballads. One of the earliest English uses it cites is in Thomas Nashe's poem "The Choise of Valentines" (c. 1593). The classical term was *olisbos*, from [[Ancient Greek]], originally a dildo usually made of leather.
+
+=== KEY: Dilma_Rousseff_e6fb74
+HEADWORD: Rousseff, Dilma = 호세프, 지우마
+LEVEL: 5
+GLOSSARY:
+  Bank = 은행
+  Brazil = 브라질
+  Impeachment = 탄핵
+  Luiz Inácio Lula da Silva = 루이스 이나시우 룰라 다 시우바
+  Michel Temer = 미셰우 테메르
+  New Development Bank = 신개발은행
+  chief of staff = 수석 장관
+  minister of mines and energy = 광업에너지부 장관
+  president of Brazil = 브라질 대통령
+  the Senate = 상원
+ENTRY:
+Brazilian economist and politician, 36th president of Brazil (2011–16). She was the first and only woman to hold the office. She was minister of mines and energy (2003–05) and then chief of staff (2005–10) in the cabinet of [[Luiz Inácio Lula da Silva]] during his first presidency, and was elected president in 2010. Impeachment proceedings began in December 2015. On August 31, 2016, the Senate voted 61–20 to convict her of breaking budgetary laws and removed her from office, and [[Michel Temer]] succeeded her. Rousseff maintained that the proceedings were politically motivated. Since March 2023 she has chaired the New Development Bank.
+
+=== KEY: Dilophosaurus_a42a3c
+HEADWORD: Dilophosaurus = 딜로포사우루스
+LEVEL: 5
+GLOSSARY:
+  Arizona = 애리조나주
+  Dinosaur = 공룡
+  Early Jurassic = 전기 쥐라기
+  Genus = 속
+  Jurassic = 쥐라기
+  Jurassic Park = 「쥬라기 공원」
+  North America = 북아메리카
+  Skull = 두개골
+  keratin = 케라틴
+  theropod = 수각류
+ENTRY:
+Genus of theropod [[Dinosaur|dinosaurs]] from the Early Jurassic, about 186 million years ago, in what is now [[North America]]. The name means "two-crested lizard," for a pair of arched crests on the [[Skull|skull]] that were probably enlarged by keratin and may have been used in visual display. Fossils from northern Arizona, collected in 1940 and 1942, were assigned to the genus in 1970. It was slender and bipedal, weighed about 400 kg (880 lb), and was among the earliest large predatory dinosaurs. In *Jurassic Park*, it was given fictional venom and an expandable neck frill.
+
+=== KEY: Dilwale_Dulhania_Le_Jayenge_67ad3a
+HEADWORD: Dilwale Dulhania Le Jayenge = 딜왈레 둘하니아 레 제옌게
+LEVEL: 5
+GLOSSARY:
+  Aditya Chopra = 아디트야 초프라
+  Europe = 유럽
+  Filmfare Awards = 필름페어상
+  India = 인도
+  Kajol = 카졸
+  London = 런던
+  Maratha = 마라타
+  Maratha Mandir = 마라타 만디르
+  Mumbai = 뭄바이
+  Raj = 라지
+  Shah = 샤
+  Shah Rukh = 샤 루흐
+  Shah Rukh Khan = 샤룩 칸
+  Simran = 심란
+  Switzerland = 스위스
+  non-resident Indians = 재외 인도인
+ENTRY:
+Hindi-language romantic musical film of 1995, directed by [[Aditya Chopra]] in his directorial debut. [[Shah Rukh Khan]] and [[Kajol]] star as Raj and Simran, two non-resident Indians who fall in love during a vacation through [[Europe]]. Shot in India, [[London]] and [[Switzerland]], it was released on October 20, 1995, and was the highest-grossing Indian film of that year. It won 10 Filmfare Awards, the most for a single film at the time. It is still shown at the Maratha Mandir in [[Mumbai]] and is considered the longest-running film in the history of Indian cinema.
+
+=== KEY: Dimension_9e0e31
+HEADWORD: Dimension = 차원
+LEVEL: 4
+GLOSSARY:
+  Euclidean = 유클리드
+  Euclidean space = 유클리드 공간
+  General relativity = 일반 상대성 이론
+  M-theory = M이론
+  Spacetime = 시공간
+  Sphere = 구
+  String theory = 끈 이론
+  Superstring theory = 초끈 이론
+  Tesseract = 정팔포체
+  classical mechanics = 고전 역학
+  degrees of freedom = 자유도
+  function space = 함수 공간
+  general relativity = 일반 상대성 이론
+  pseudo-Riemannian manifolds = 준리만 다양체
+  quantum mechanics = 양자역학
+  supergravity = 초중력
+ENTRY:
+Minimum number of coordinates needed to specify any point in a mathematical or physical space. A line has dimension one, since a single coordinate locates a point on it, and the surface of a [[Sphere|sphere]] has dimension two, since latitude and longitude locate a point. The inside of a cube or sphere is three-dimensional. In classical mechanics, space and time are separate, but the four dimensions of [[Spacetime|spacetime]] describe events, and the pseudo-Riemannian manifolds of [[General relativity|general relativity]] describe spacetime with matter and gravity. [[String theory|Superstring theory]] uses 10 dimensions, and 11 describe supergravity and [[M-theory]]. The state space of quantum mechanics is an infinite-dimensional function space. In mathematics, dimension is the number of degrees of freedom of a point moving on an object, so a [[Tesseract|tesseract]] has dimension four and [[Euclidean space|Euclidean]] n-space has dimension n.
+
+=== KEY: Dimethyl_sulfoxide_25d0f2
+HEADWORD: Dimethyl sulfoxide = 디메틸 설폭사이드
+LEVEL: 5
+GLOSSARY:
+  Analgesic = 진통제
+  Food = 음식
+  Food and Drug Administration = 식품의약국
+  Garlic = 마늘
+  Solution (chemistry) = 용액
+  U.S. Food and Drug Administration = 미국 식품의약국
+  dimethyl sulfide = 디메틸 설파이드
+  interstitial cystitis = 간질성 방광염
+  kraft process = 크라프트 공정
+  organosulfur compound = 유기 황 화합물
+  polar aprotic = 극성 비양성자성
+  sulfoxide = 설폭사이드
+ENTRY:
+Colorless organosulfur compound, (CH₃)₂S=O, the most widely used commercial sulfoxide. A polar aprotic [[Solution (chemistry)|solvent]] that dissolves both polar and nonpolar compounds, it mixes with water and many organic solvents. It is made by oxidizing dimethyl sulfide, a by-product of the kraft process. After skin absorption it is metabolized to compounds that leave a [[Garlic|garlic]]-like taste in the mouth. Promoted in the 1960s for [[Analgesic|analgesic]] and anti-inflammatory effects, it is approved by the U.S. Food and Drug Administration for symptomatic relief of interstitial cystitis, and studies found limited efficacy beyond that use.
+
+=== KEY: Dimetrodon_d5bb8a
+HEADWORD: Dimetrodon = 디메트로돈
+LEVEL: 4
+GLOSSARY:
+  Apex predator = 최상위 포식자
+  Dinosaur = 공룡
+  Germany = 독일
+  Mammal = 포유류
+  Oklahoma = 오클라호마주
+  Permian = 페름기
+  Red Beds = 레드베드
+  Texas = 텍사스주
+  Thermoregulation = 체온 조절
+  synapsids = 단궁류
+  tetrapods = 사지동물
+ENTRY:
+Extinct genus of carnivorous synapsids of the [[Permian]] period, known for a large sail on its back. The sail was formed by elongated spines extending from the vertebrae. It was an obligate quadruped with a tall skull and large teeth of different sizes. Most species weighed 28–250 kg. Most fossils come from the Red Beds of [[Texas]] and [[Oklahoma]], though remains have also been found in Germany, and more than a dozen species have been named since the genus was erected in 1878. Often mistaken for a [[Dinosaur|dinosaur]], it became extinct some 40 million years before dinosaurs appeared. Although reptile-like, it is more closely related to [[Mammal|mammals]] than to reptiles. It was probably an [[Apex predator|apex predator]], feeding on fish and tetrapods. The sail has been proposed as an aid to [[Thermoregulation|thermoregulation]], but some studies argue that heat regulation was not its main purpose, and courtship display is considered the most likely use.
+
+=== KEY: Dimple_Kapadia_aee6fa
+HEADWORD: Kapadia, Dimple = 카파디아, 딤플
+LEVEL: 5
+GLOSSARY:
+  Best Actress = 여우주연상
+  Bobby = 「보비」
+  Christopher Nolan = 크리스토퍼 놀런
+  Film = 영화
+  Filmfare Awards = 필름페어상
+  Filmfare Awards for Best Actress = 필름페어 여우주연상
+  Hindi = 힌디어
+  Mumbai = 뭄바이
+  National Film Award = 인도 국립 영화상
+  National Film Award for Best Actress = 인도 국립 영화상 여우주연상
+  Raj = 라지
+  Raj Kapoor = 라지 카푸르
+  Rajesh Khanna = 라제시 칸나
+  Rudaali = 「루달리」
+  Saagar = 「사가르」
+  Tenet = 「테넷」
+ENTRY:
+Indian actress known mainly for Hindi films. Raised in [[Mumbai]], she was discovered at 14 by [[Raj Kapoor]], who cast her in the title role of *Bobby* (1973). She had married the actor [[Rajesh Khanna]] shortly before the film's release and quit acting. She returned to films in 1984, and her comeback film *Saagar* (1985) revived her career. She won Filmfare Awards for Best Actress for both *Bobby* and *Saagar*, and the National Film Award for Best Actress for *Rudaali* (1993). From the mid-1990s she was more selective, finding greater success in character roles, including in *Tenet* (2020), directed by [[Christopher Nolan]].
+
+=== KEY: Dingo_ac75fe
+HEADWORD: Dingo = 딩고
+LEVEL: 4
+GLOSSARY:
+  Apex predator = 최상위 포식자
+  Australia = 오스트레일리아
+  Canis = 개속
+  Canis dingo = Canis dingo
+  Dharug language = 다루그어
+  Dog = 개
+  Guinea = 기니
+  Hybrid (biology) = 잡종
+  K'gari = 가리섬
+  New Guinea = 뉴기니섬
+  New Guinea singing dog = 뉴기니 싱잉 도그
+  Queensland = 퀸즐랜드주
+  Red fox = 붉은여우
+  Sydney = 시드니
+  Victoria (state) = 빅토리아주
+  Wolf = 늑대
+  domestic dog = 개
+ENTRY:
+Medium-sized, lean [[Dog|dog]] lineage found in Australia, adapted for speed, agility and stamina. Its coat is light ginger or tan, black and tan, or creamy white, and its skull is wedge-shaped. Its taxonomic classification is debated: it has been treated as a form of domestic dog, as a subspecies of dog or [[Wolf|wolf]], or as a full species, *Canis dingo*. Its lineage split early from that of domestic dogs, and it is closely related to the New Guinea singing dog. Dingoes were present in Australia more than 3,000 years ago. The name comes from the Dharug language of the [[Sydney]] area. A pack usually consists of a mated pair, their offspring from the current year and sometimes the previous year. As mainland Australia's [[Apex predator|apex predator]], it preys on [[Red fox|red foxes]] and feral cats. Genetic studies show minimal contemporary [[Hybrid (biology)|hybridization]] with domestic dogs. Well-known populations live on K'gari in [[Queensland]], and the dingo is listed as vulnerable in some jurisdictions, including [[Victoria (state)|Victoria]].
+
+=== KEY: Dinner_6aa545
+HEADWORD: Dinner = 저녁 식사
+LEVEL: 4
+GLOSSARY:
+  Breakfast = 아침 식사
+  Christmas = 크리스마스
+  French = 프랑스어
+  Gallo-Romance = 갈로로망스어
+  George III = 조지 3세
+  Louis XIV = 루이 14세
+  Lunch = 점심 식사
+  Meal = 식사
+  Old French = 고대 프랑스어
+  disner = 디스네르
+ENTRY:
+Largest and most formal [[Meal|meal]] of the day in many Western cultures. Historically the largest meal was eaten around midday and was called dinner; among the elite it gradually moved later in the day over the 16th to 19th centuries. Reflecting the custom of the 17th century, [[Louis XIV]] dined at noon and had supper at 10:00 pm. In 1765 [[George III|King George III]] dined at 4:00 pm, and by about 1850 English middle-class dinners were around 5:00 or 6:00 pm. In modern usage dinner usually means the evening meal, typically the largest of the day, with earlier meals called [[Breakfast|breakfast]] and [[Lunch|lunch]]; supper is now often an alternative term for it. The word derives from Old French *disner*, from a Gallo-Romance term meaning "to break one's fast." It is still used for a meal at noon on special occasions, such as a Christmas dinner.
+
+=== KEY: Dinoflagellate_41fed6
+HEADWORD: Dinoflagellate = 와편모충류
+LEVEL: 4
+GLOSSARY:
+  Coral reef = 산호초
+  Flagellum = 편모
+  Latin = 라틴어
+  Photosynthesis = 광합성
+  Plankton = 플랑크톤
+  Protist = 원생생물
+  bioluminescence = 생물 발광
+  mixotrophic = 혼합 영양
+  red tides = 적조
+  shellfish poisoning = 패류 중독
+ENTRY:
+Mostly marine, unicellular [[Protist|protist]] with two [[Flagellum|flagella]]. The name combines Greek *dinos* ("whirling") and Latin *flagellum* ("whip"), describing the way they were seen to swim and their flagella. Dinoflagellates are mostly marine [[Plankton|plankton]], though many live in freshwater. Many are [[Photosynthesis|photosynthetic]], but a large fraction of these are mixotrophic, also ingesting prey, and others are unpigmented predators. Some species live inside marine animals and are important to the biology of [[Coral reef|coral reefs]]. About 2,294 living species have been estimated, including marine, freshwater and parasitic forms. Rapid accumulations, known as red tides, can discolor water and cause shellfish poisoning in people who eat contaminated shellfish. Some species emit blue-green bioluminescence.
+
+=== KEY: Dinosaur_756fe9
+HEADWORD: Dinosaur = 공룡
+LEVEL: 3
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Cretaceous = 백악기
+  Cretaceous–Paleogene extinction event = 백악기-팔레오기 대멸종
+  Dinosauria = 공룡상목
+  Jurassic = 쥐라기
+  Mesozoic = 중생대
+  Ornithischia = 조반목
+  Paleogene = 팔레오기
+  Richard = 리처드
+  Richard Owen = 리처드 오언
+  Saurischia = 용반목
+  Sauropodomorpha = 용각형아목
+  Theropoda = 수각아목
+  Triassic = 트라이아스기
+  Triassic–Jurassic extinction = 트라이아스기-쥐라기 대멸종
+  Triceratops = 트리케라톱스
+  Vertebrate = 척추동물
+  ankylosaurians = 곡룡류
+  avian dinosaurs = 조류 공룡
+  ceratopsians = 각룡류
+  non-avian dinosaurs = 비조류 공룡
+  ornithopods = 조각류
+  sauropodomorphs = 용각형류
+  sauropods = 용각류
+  stegosaurians = 검룡류
+  theropods = 수각류
+ENTRY:
+Member of the clade Dinosauria, a diverse group of reptiles that dominated land ecosystems through most of the [[Mesozoic]] era. Dinosaurs first appeared early in the [[Triassic]] period and became the dominant terrestrial [[Vertebrate|vertebrates]] after the [[Triassic–Jurassic extinction|Triassic–Jurassic extinction event]] 201.3 million years ago, a dominance that continued through the [[Jurassic]] and [[Cretaceous]] periods.
+
+Birds evolved from earlier theropods and are the only dinosaur lineage known to have survived the [[Cretaceous–Paleogene extinction event]], approximately 66 million years ago. Dinosaurs are therefore divided into avian dinosaurs (birds) and the extinct non-avian dinosaurs. Birds number over 11,000 living species, while paleontologists have identified over 900 distinct genera and more than 1,000 species of non-avian dinosaurs, found on every continent.
+
+Dinosaurs are usually defined as the descendants of the most recent common ancestor of *Triceratops* and modern birds. Major groups include ankylosaurians, stegosaurians, ceratopsians, ornithopods, theropods, and sauropodomorphs, divided between the Ornithischia and Saurischia. A 2017 analysis proposed a radical revision, placing Ornithischia closer to Theropoda than to Sauropodomorpha.
+
+Dinosaurs had erect legs rather than a sprawling stance, laid eggs, and were ancestrally bipedal, though many groups became quadrupedal. The largest sauropods are estimated to have reached lengths of 39.7 m and heights of 18 m, making them the largest land animals of all time. Through most of the 20th century, scientists presumed dinosaurs to be sluggish and cold-blooded, but most research since the 1970s indicates active animals with elevated metabolisms.
+
+The name was coined by Sir Richard Owen in 1842, from Ancient Greek words meaning "terrible lizard." Mounted skeletons are major museum attractions.
+
+=== KEY: Diocletian_396fd1
+HEADWORD: Diocletian = 디오클레티아누스
+LEVEL: 4
+GLOSSARY:
+  Caesars = 카이사르
+  Carus = 카루스
+  Christianity = 기독교
+  Constantius = 콘스탄티우스
+  Crisis of the Third Century = 3세기의 위기
+  Dalmatia = 달마티아
+  Dalmatian = 달마치야
+  Diocles = 디오클레스
+  Diocletianic Persecution = 디오클레티아누스 박해
+  Edict on Maximum Prices = 최고 가격령
+  Galerius = 갈레리우스
+  Maximian = 막시미아누스
+  Numerian = 누메리아누스
+  Roman emperor = 로마 황제
+  Split = 스플리트
+  Split, Croatia = 스플리트
+  Tetrarchy = 사두 정치
+  Third = 교향곡 제3번
+ENTRY:
+[[Roman emperor]] (r. 284–305). Born Diocles to a family of low status in Dalmatia, he rose through the army and was proclaimed emperor by the troops after the deaths of Carus and his son Numerian. He ended the [[Crisis of the Third Century|Crisis of the Third Century]] and in 293 created the Tetrarchy, or "rule of four," with Maximian as co-Augustus and Galerius and Constantius as junior Caesars. He reorganized the provinces, separated the civil and military services, and standardized taxation. His Edict on Maximum Prices (301) proved counterproductive and was quickly ignored. The Diocletianic Persecution (303–312) of Christianity failed to eliminate the faith. In 305 he became the first Roman emperor to abdicate voluntarily, retiring to a palace on the Dalmatian coast that became the core of [[Split, Croatia|Split]].
+
+=== KEY: Diode_0f31a4
+HEADWORD: Diode = 다이오드
+LEVEL: 4
+GLOSSARY:
+  Alternating current = 교류
+  Direct current = 직류
+  Electric current = 전류
+  Ferdinand = 페르디난트
+  Ferdinand Braun = 페르디난트 브라운
+  German = 독일어
+  Light-emitting diode = 발광 다이오드
+  Semiconductor = 반도체
+  Silicon = 규소
+  Vacuum tube = 진공관
+  alternating current = 교류
+  cathode = 음극
+  demodulation = 복조
+  direct current = 직류
+  rectifiers = 정류기
+  thermionic diode = 열전자 다이오드
+ENTRY:
+Two-terminal electronic component that conducts [[Electric current|electric current]] primarily in one direction. It has low resistance in the forward direction and high resistance in reverse. The most common type is the [[Semiconductor|semiconductor]] diode, a crystal of semiconductor material with a p–n junction, usually made of [[Silicon|silicon]]. German physicist Ferdinand Braun discovered asymmetric conduction across a crystal–metal contact in 1874. The obsolete thermionic diode is a [[Vacuum tube|vacuum tube]] with a heated cathode and a plate. Diodes are used in rectifiers to convert [[Alternating current|alternating current]] to [[Direct current|direct current]], in radio receivers for demodulation, and as temperature sensors. A [[Light-emitting diode|light-emitting diode]] is used for lighting and status indicators.
+
+=== KEY: Diogenes_07c5c8
+HEADWORD: Diogenes = 디오게네스
+LEVEL: 4
+GLOSSARY:
+  Alexander the Great = 알렉산드로스 대왕
+  Ancient Greek = 고대 그리스어
+  Black = 검은색
+  Black Sea = 흑해
+  Cynicism = 견유학파
+  Sinope = 시노페
+  citizen of the world = 세계 시민
+  debasement of coinage = 주화 변조
+ENTRY:
+Ancient Greek philosopher and one of the founders of Cynicism. Born into a prosperous family in Sinope on the [[Black Sea|Black Sea]], he left his home after a scandal involving the debasement of coinage, in which ancient sources disagree whether he or his father was responsible. Modern scholars remain divided on whether the episode is historical. He embraced poverty and self-sufficiency, advocated a return to nature and the renunciation of wealth, and lived in a large ceramic jar. Carrying a lantern in daylight, he claimed to be "looking for a man," meaning a wise one, and called himself a "citizen of the world." When [[Alexander the Great]] offered him a favor, he asked only that the king stand out of his sunlight.
+
+=== KEY: Dionne_Warwick_09df3c
+HEADWORD: Warwick, Dionne = 워릭, 디온
+LEVEL: 5
+GLOSSARY:
+  Arista Records = 아리스타 레코드
+  Burt Bacharach = 버트 배커랙
+  Clive Davis = 클라이브 데이비스
+  Don't Make Me Over = 「Don't Make Me Over」
+  East Orange = 이스트오렌지
+  Friends = 「프렌즈」
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Hal David = 핼 데이비드
+  Jersey = 저지섬
+  New Jersey = 뉴저지주
+  Orange = 오렌지 카운티
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  That's What Friends Are For = 「That's What Friends Are For」
+  Walk on By = 「Walk on By」
+ENTRY:
+American singer, actress and television host. Born in East Orange, [[New Jersey|New Jersey]], she began as a gospel singer and from 1962 recorded hit singles with composers Burt Bacharach and Hal David, including "Don't Make Me Over" and "Walk on By." Later hits such as "That's What Friends Are For" came under Clive Davis at Arista Records. She won six competitive [[Grammy Awards|Grammy Awards]] and was inducted into the [[Rock and Roll Hall of Fame|Rock and Roll Hall of Fame]] in 2024.
+
+=== KEY: Dionysus_40145a
+HEADWORD: Dionysus = 디오니소스
+LEVEL: 5
+GLOSSARY:
+  Ancient Greek religion = 고대 그리스 종교
+  Bacchus = 바쿠스
+  Dionysus = 디오니소스
+  Euripides = 에우리피데스
+  Liber = 리베르
+  Pentheus = 펜테우스
+  Romans = 로마인
+  Semele = 세멜레
+  The Bacchae = 『바카이』
+  Theatre = 연극
+  Thebes = 테베
+  Zeus = 제우스
+ENTRY:
+God of wine, fertility and theater in [[Ancient Greek religion|ancient Greek religion]]. The Romans adopted the name Bacchus and identified him with Liber. His wine, music and ecstatic dance were thought to free his followers from self-conscious fear and care. Festivals of Dionysus staged sacred dramas that were the initial driving force behind [[Theatre|theater]] in Western culture. In the most familiar myth he is the son of [[Zeus|Zeus]] and the mortal Semele. In *The Bacchae* by [[Euripides|Euripides]], he drives women into frenzy and destroys King Pentheus of Thebes for rejecting his cult.
+
+=== KEY: Diophantine_equation_775bea
+HEADWORD: Diophantine equation = 디오판토스 방정식
+LEVEL: 4
+GLOSSARY:
+  Algebraic geometry = 대수기하학
+  Andrew Wiles = 앤드루 와일스
+  David Hilbert = 다비트 힐베르트
+  Diophantine equation = 디오판토스 방정식
+  Diophantus = 디오판토스
+  Fermat's Last Theorem = 페르마의 마지막 정리
+  Hilbert's = 힐베르트의
+  Hilbert's tenth problem = 힐베르트의 열 번째 문제
+  Integer = 정수
+  Polynomial = 다항식
+  Polynomial equation = 다항 방정식
+  Theorem = 정리
+  Wiles = 와일스
+  Yuri Matiyasevich = 유리 마티야세비치
+  algebraic curves = 대수 곡선
+  algebraic geometry = 대수기하학
+  greatest common divisor = 최대공약수
+  linear Diophantine equation = 1차 디오판토스 방정식
+  positive integers = 양의 정수
+  tenth problem = 제10문제
+ENTRY:
+Polynomial equation with [[Integer|integer]] coefficients for which only integer solutions are sought. A linear Diophantine equation, *ax + by = c*, has a solution if and only if the greatest common divisor of *a* and *b* divides *c*, and then it has infinitely many solutions. Because such equations define algebraic curves and surfaces, their study forms part of [[Algebraic geometry|algebraic geometry]]. The field traces to [[Diophantus|Diophantus]], and [[Fermat's Last Theorem|Fermat's Last Theorem]], which states that no positive integers satisfy xⁿ + yⁿ = zⁿ for n greater than 2, was proved by Andrew Wiles in 1994. In 1970 Yuri Matiyasevich showed that no general algorithm can decide whether an arbitrary Diophantine equation has an integer solution, resolving [[David Hilbert|Hilbert's]] tenth problem negatively.
+
+=== KEY: Diophantus_e45942
+HEADWORD: Diophantus = 디오판토스
+LEVEL: 4
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  Arabic = 아랍어
+  Arithmetica = 『산술』
+  Diophantine equation = 디오판토스 방정식
+  Fermat's Last Theorem = 페르마의 마지막 정리
+  Greek Anthology = 『그리스 사화집』
+  Joseph-Louis Lagrange = 조제프루이 라그랑주
+  Lagrange = 라그랑주
+  Pierre de Fermat = 피에르 드 페르마
+  Theorem = 정리
+ENTRY:
+Greek mathematician of [[Alexandria|Alexandria]], probably active in the 3rd century. His *Arithmetica*, originally thirteen books of which ten survive, is a collection of 290 algebraic problems solved through equations. [[Joseph-Louis Lagrange|Joseph-Louis Lagrange]] called him "the inventor of algebra," and the term [[Diophantine equation|Diophantine equation]] derives from his name. Its 9th-century Arabic translation influenced later algebra. A 1621 edition of the *Arithmetica* gained fame after [[Pierre de Fermat|Pierre de Fermat]] wrote his "Last Theorem" in the margins of his copy, leading to [[Fermat's Last Theorem|Fermat's Last Theorem]]. Little is known of his life; a puzzle in the Greek Anthology implies he lived to 84, though its accuracy cannot be confirmed.
+
+=== KEY: Diospyros_45708b
+HEADWORD: Diospyros = 감나무속
+LEVEL: 4
+GLOSSARY:
+  D. ebenum = D. ebenum
+  Eocene = 에오세
+  Genus = 속
+  Lepidoptera = 나비목
+  Persimmon = 감나무
+  Pure = 「퓨어」
+  Species = 종
+  Tannin = 타닌
+  Tropics = 열대
+  dioecious = 암수딴그루
+  ebony = 흑단
+ENTRY:
+[[Genus|Genus]] of over 700 species of deciduous and evergreen trees and shrubs, generally dioecious. Most species are native to the [[Tropics|tropics]] and are ecologically important in their forests. Species valued for hard, dark timber are known as ebony trees, while those valued for their fruit are known as [[Persimmon|persimmon]] trees. The name comes from Greek roots meaning "Zeus's wheat" and more generally "divine food" or "divine fruit." The oldest fossils date to the [[Eocene|Eocene]]. The green fruits are rich in [[Tannin|tannins]] and avoided by most herbivores, but the foliage feeds the larvae of many *Lepidoptera* species. Pure black ebony comes notably from *D. ebenum*.
+
+=== KEY: Diphenhydramine_099a97
+HEADWORD: Diphenhydramine = 디펜히드라민
+LEVEL: 5
+GLOSSARY:
+  Allergy = 알레르기
+  Antihistamine = 항히스타민제
+  Benadryl = 베나드릴
+  Common cold = 감기
+  George Rieveschl = 조지 리베슐
+  Insomnia = 불면증
+  central nervous system = 중추 신경계
+  paradoxical central nervous system stimulation = 역설적 중추 신경계 자극
+  parkinsonism = 파킨슨증
+  side effects = 부작용
+ENTRY:
+Antihistamine and sedative, sold under the brand name Benadryl among others. It is used mainly for [[Allergy|allergies]], [[Insomnia|insomnia]] and the [[Common cold|common cold]], and less often for tremor in parkinsonism and for nausea. Its sedative effects make it a common ingredient in nonprescription sleep aids, and it can cause paradoxical central nervous system stimulation, particularly at higher doses. Common side effects include sleepiness, poor coordination and an upset stomach. George Rieveschl developed it, and it went into commercial use in 1946. Use during breastfeeding is not recommended.
+
+=== KEY: Diphtheria_62bcad
+HEADWORD: Diphtheria = 디프테리아
+LEVEL: 4
+GLOSSARY:
+  Antibiotic = 항생제
+  Asia = 아시아
+  Corynebacterium diphtheriae = 디프테리아균
+  Death = 죽음
+  Infection = 감염
+  South Asia = 남아시아
+  Sub-Saharan Africa = 사하라 이남 아프리카
+  Vaccination = 예방 접종
+  benzylpenicillin = 벤질페니실린
+  erythromycin = 에리트로마이신
+  exotoxin = 외독소
+  myocarditis = 심근염
+  pertussis = 백일해
+  pseudomembrane = 위막
+  sub-Saharan Africa = 사하라 이남 아프리카
+  tetanus = 파상풍
+ENTRY:
+[[Infection|Bacterial infection]] caused by *Corynebacterium diphtheriae*. Symptoms usually begin two to five days after exposure, starting with sore throat and fever. In severe cases a gray or white pseudomembrane forms in the throat and can slowly block the airway. The symptoms and lethality are caused by the bacterium's exotoxin, and complications include myocarditis, nerve paralysis and kidney problems. Death occurs in 5–10% of those diagnosed. Three or four childhood doses of a [[Vaccination|vaccine]], given with tetanus and pertussis vaccines, are recommended, with boosters every ten years. [[Antibiotic|Antibiotics]] such as erythromycin or benzylpenicillin treat the infection. Reported cases fell from nearly 100,000 in 1980 to 4,500 in 2015, most often in [[Sub-Saharan Africa|sub-Saharan Africa]] and [[South Asia|South Asia]].
+
+=== KEY: Diplodocus_c98d82
+HEADWORD: Diplodocus = 디플로도쿠스
+LEVEL: 4
+GLOSSARY:
+  Allosaurus = 알로사우루스
+  D. carnegii = D. carnegii
+  Europe = 유럽
+  Fossil = 화석
+  Genus = 속
+  Jurassic = 쥐라기
+  Late Jurassic = 후기 쥐라기
+  Marsh = 소택지
+  Morrison Formation = 모리슨층
+  North America = 북아메리카
+  Othniel Charles Marsh = 오스니얼 찰스 마시
+  Sauropoda = 용각류
+  chevron bones = 혈관궁
+  diplodocid = 디플로도쿠스과
+  metric tons = 미터톤
+ENTRY:
+Extinct [[Genus|genus]] of diplodocid [[Sauropoda|sauropod]] dinosaurs from the [[Jurassic|Late Jurassic]] of North America and Europe. The name, coined by Othniel Charles Marsh in 1878, means "double beam," referring to the double-beamed chevron bones under its tail. Its first [[Fossil|fossils]] were found in 1877. Its fossils are common in the Morrison Formation, where most specimens date to about 151.88 to 149.1 million years ago. *D. carnegii* is among the longest dinosaurs known from a complete skeleton, at 24–26 m, with an estimated mass of 12–14.8 metric tons. It had a small skull, peg-like teeth and a neck of at least 15 vertebrae. Its great size may have deterred predators such as [[Allosaurus|Allosaurus]].

@@ -1,0 +1,874 @@
+=== KEY: Vacuum_6cd4b7
+HEADWORD: Vacuum = 진공
+LEVEL: 3
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  Ancient Greek = 고대 그리스어
+  Aristotle = 아리스토텔레스
+  Atmospheric pressure = 기압
+  Casimir effect = 카시미르 효과
+  Evangelista Torricelli = 에반젤리스타 토리첼리
+  Following = 「미행」
+  Hero of Alexandria = 알렉산드리아의 헤론
+  Lucretius = 루크레티우스
+  Outer space = 우주 공간
+  Plato = 플라톤
+  Quantum field theory = 양자장론
+  Space = 공간
+  Torricelli = 토리첼리
+  Vacuum cleaner = 진공청소기
+  atomism = 원자론
+  cubic meter = 세제곱미터
+  field theory = 장 이론
+  ground state = 바닥상태
+  partial vacuum = 부분 진공
+  quantum field = 양자장
+  quantum field theory = 양자장론
+  ultra-high vacuum = 초고진공
+  virtual particles = 가상 입자
+  zero-point energy = 영점 에너지
+ENTRY:
+Space devoid of matter; in practice, a region with gaseous pressure much less than [[Atmospheric pressure|atmospheric pressure]]. Physicists often discuss ideal results in a perfect vacuum and use the term partial vacuum for an actual imperfect one, as in a laboratory or in space. The quality of a partial vacuum is how closely it approaches a perfect one: lower gas pressure means higher quality. A typical [[Vacuum cleaner|vacuum cleaner]] reduces air pressure by around 20%, whereas ultra-high vacuum chambers, common in chemistry, physics, and engineering, operate below one trillionth (10⁻¹²) of atmospheric pressure (100 nPa) and can reach around 100 particles/cm³. [[Outer space]] is an even higher-quality vacuum, with just a few hydrogen atoms per cubic meter on average in intergalactic space.
+
+Ancient Greek philosophers debated the void in the context of atomism. [[Lucretius]] argued for its existence in the first century BC, and Hero of Alexandria tried unsuccessfully to create an artificial vacuum in the first century AD. Following [[Plato]], however, the idea of a featureless void met considerable skepticism, and [[Aristotle]] believed that no void could occur naturally. Empirical study began in the 17th century, when Evangelista Torricelli produced the first laboratory vacuum in 1643 by filling a tall glass container closed at one end with mercury and inverting it in a bowl. In [[Quantum field theory|quantum field theory]], the vacuum is not simply empty but the lowest-energy ground state of the quantum fields, in which virtual particles briefly emerge and annihilate, contributing to phenomena such as the Casimir effect and zero-point energy.
+
+=== KEY: Vacuum_cleaner_530cdb
+HEADWORD: Vacuum cleaner = 진공청소기
+LEVEL: 4
+GLOSSARY:
+  Birmingham = 버밍엄
+  Carpet = 카펫
+  David T. Kenney = 데이비드 T. 케니
+  England = 잉글랜드
+  Hoover Company = 후버사
+  Hubert Cecil Booth = 휴버트 세실 부스
+  Ireland = 아일랜드
+  United Kingdom = 영국
+  Walter Griffiths = 월터 그리피스
+  genericized trademark = 보통 명칭화된 상표
+  hoover = 후버
+ENTRY:
+Device using suction, often with agitation, to remove dirt from [[Carpet|carpets]] and hard floors. Dirt is collected in a dust bag or plastic bin. Types include stick, handheld, upright, canister and robot vacuums, and specialized shop vacuums can clean both solids and liquids. The first manual models, using bellows, were developed in the 1860s, and the first motorized designs appeared at the turn of the 20th century. In 1901 British engineer Hubert Cecil Booth and American inventor David T. Kenney independently developed suction-powered cleaners. The first portable model for the home was built in 1905 by Walter Griffiths of [[Birmingham]], England. In the United Kingdom and Ireland the appliance is often called a hoover, a genericized trademark taken from the Hoover Company, one of the first and most influential makers of the device.
+
+=== KEY: Vacuum_permittivity_d4b2a9
+HEADWORD: Vacuum permittivity = 진공 유전율
+LEVEL: 5
+GLOSSARY:
+  Coulomb's law = 쿨롱 법칙
+  Electric charge = 전하
+  Electric field = 전기장
+  Maxwell's equations = 맥스웰 방정식
+  Physical = 「Physical」
+  Speed of light = 빛의 속도
+  electric constant = 전기 상수
+  electric field = 전기장
+  magnetic constant = 자기 상수
+  permittivity = 유전율
+  permittivity of free space = 자유 공간의 유전율
+ENTRY:
+Physical constant, the absolute dielectric permittivity of classical vacuum, denoted ε₀. Also called the permittivity of free space or the electric constant, it measures how dense an [[Electric field|electric field]] is permitted to form in response to [[Electric charge|electric charges]]. In [[Coulomb's law]], the constant fraction 1/(4πε₀) is approximately 9×10⁹ N⋅m²⋅C⁻². It also appears in [[Maxwell's equations]]. Its value follows from the defined [[Speed of light|speed of light]] c and the magnetic constant μ₀ through ε₀ = 1/(μ₀c²).
+
+=== KEY: Vacuum_tube_5dea21
+HEADWORD: Vacuum tube = 진공관
+LEVEL: 4
+GLOSSARY:
+  Ambrose = 암브로시우스
+  Ambrose Fleming = 앰브로즈 플레밍
+  Cathode-ray tubes = 음극선관
+  Electric guitar = 일렉트릭 기타
+  Fleming valve = 플레밍관
+  John = 존
+  John Ambrose Fleming = 존 앰브로즈 플레밍
+  Microwave oven = 전자레인지
+  Radar = 레이더
+  Radio = 라디오
+  Semiconductor device = 반도체 소자
+  Television = 텔레비전
+  Transistor = 트랜지스터
+  Vacuum = 진공
+  control grids = 제어 격자
+  diode = 이극관
+  electric guitar = 일렉트릭 기타
+  electron tube = 전자관
+  magnetron = 마그네트론
+  tetrodes = 사극관
+  thermionic valve = 열전자관
+  triodes = 삼극관
+  tube amplifiers = 진공관 증폭기
+ENTRY:
+Device that controls electric current in a high vacuum between electrodes, also called an electron tube or thermionic valve. The first and simplest type, the diode or Fleming valve, was invented in 1904 by John Ambrose Fleming and allowed current to flow in only one direction. Adding control grids produced triodes and tetrodes that could amplify as well as rectify signals. Vacuum tubes were central to [[Radio|radio]], [[Television|television]], [[Radar|radar]] and early computers in the first half of the 20th century. From the 1940s, the invention of [[Semiconductor device|semiconductor devices]] made solid-state electronics possible, and from the mid-1960s tubes began to be replaced by the [[Transistor|transistor]]. Cathode-ray tubes remained in displays until the early 21st century. Tubes persist in some applications, such as the magnetron in [[Microwave oven|microwave ovens]], and many audio enthusiasts prefer tube amplifiers, including [[Electric guitar|electric guitar]] players.
+
+=== KEY: Vadodara_795fbd
+HEADWORD: Vadodara = 바도다라
+LEVEL: 4
+GLOSSARY:
+  Ahmedabad = 아마다바드
+  Akota = 아코타
+  Baroda = 바로다
+  City = 도시
+  Gaekwad = 가이크와드
+  Gujarat = 구자라트주
+  India = 인도
+  Jain = 자이나교
+  Jainism = 자이나교
+  Laxmi Vilas Palace = 락슈미 빌라스 궁전
+  Maharaja = 마하라자
+  Maharaja Sayajirao University of Baroda = 바로다 마하라자 사야지라오 대학교
+  Palace = 궁전
+  River = 강
+  Sanskrit = 산스크리트어
+  University = 대학
+  Vadodara district = 바도다라 지구
+  Vishwamitri River = 비슈와미트리강
+  princely state = 번왕국
+ENTRY:
+City in Gujarat, western India, on the Vishwamitri River. Also known as Baroda, it is the administrative headquarters of Vadodara district, about 100 kilometers southeast of [[Ahmedabad]]. The name is traditionally derived from a [[Sanskrit]] term meaning "in the belly of the banyan tree"; the official name became Vadodara in 1974. Akota, now a suburb, was a trading town in the early centuries CE and a center of [[Jainism]], where a large hoard of Jain bronzes was found. Until independence in 1947, the city was the capital of the Gaekwad dynasty's princely state, and its Laxmi Vilas Palace remains a landmark. The Maharaja Sayajirao University of Baroda is among India's premier universities. The 2011 census recorded 1,670,806 residents in the municipal corporation area.
+
+=== KEY: Vaduz_1139ca
+HEADWORD: Vaduz = 파두츠
+LEVEL: 5
+GLOSSARY:
+  Castle = 성
+  Charles VI = 카를 6세
+  Holy Roman Emperor = 신성 로마 황제
+  Liechtenstein = 리히텐슈타인
+  Rhine = 라인강
+  Schaan = 샨
+  Schellenberg = 셸렌베르크
+  Vaduz = 파두츠
+  Vaduz Castle = 파두츠성
+ENTRY:
+Capital municipality of [[Liechtenstein]], on the [[Rhine]], and seat of the national parliament. The municipality had 6,108 residents at the end of 2025. Vaduz Castle, home of the reigning prince, stands on a steep hill above the town. In 1719 Holy Roman Emperor Charles VI united Vaduz and Schellenberg and raised them to a principality named Liechtenstein, after the family that had bought them. The town is the best-known in the country but not the largest; neighboring Schaan has more residents.
+
+=== KEY: Vagina_00bbfd
+HEADWORD: Vagina = 질
+LEVEL: 4
+GLOSSARY:
+  Cervix = 자궁경부
+  Lactobacillus = 락토바실루스
+  Menstrual cycle = 월경 주기
+  Penis = 음경
+  Sexual intercourse = 성교
+  Sexually transmitted infection = 성매개 감염병
+  Uterus = 자궁
+  Vulva = 외음부
+  hymen = 처녀막
+  safe sex = 안전한 성관계
+  sexually transmitted infections = 성매개 감염
+  vulval vestibule = 질어귀
+ENTRY:
+Elastic, muscular reproductive organ of the female genital tract, through which mammals copulate and give birth. In humans it extends from the [[Vulva|vulval vestibule]] to the [[Cervix|cervix]], the neck of the [[Uterus|uterus]]. The opening is normally partly covered by the hymen. The vagina also channels [[Menstrual cycle|menstrual]] flow. During [[Sexual intercourse|sexual intercourse]], its walls produce lubrication and friction that stimulates the [[Penis|penis]] toward ejaculation, enabling fertilization. Sexual activity can also transmit [[Sexually transmitted infection|sexually transmitted infections]], which safe sex practices can prevent. In adults the canal is typically 7 to 10 centimeters long, and its acidic environment, maintained by a microbiome dominated by *Lactobacillus* species, has a pH of approximately 3.8 to 4.5. In common speech the word is often used to mean the vulva, though the term refers to the internal structure.
+
+=== KEY: Vagus_nerve_ee0e67
+HEADWORD: Vagus nerve = 미주 신경
+LEVEL: 5
+GLOSSARY:
+  Central nervous system = 중추 신경계
+  Digestion = 소화
+  Epilepsy = 뇌전증
+  autonomic nervous system = 자율 신경계
+  central nervous system = 중추 신경계
+  cranial nerve = 뇌신경
+  parasympathetic nervous system = 부교감 신경계
+  rest and digest = 휴식과 소화
+  vagus nerve stimulator = 미주 신경 자극기
+ENTRY:
+Tenth cranial nerve and main nerve of the parasympathetic nervous system. Its sensory and motor fibers link the brain to organs including the heart, lungs and [[Digestion|digestive tract]], regulating heart rate, breathing and digestion. It is the longest nerve of the autonomic nervous system, and most of its fibers are sensory, carrying information from the body's organs to the [[Central nervous system|central nervous system]]. It contributes to the "rest and digest" response, which calms the body after stress. An implanted vagus nerve stimulator is an FDA-approved treatment for refractory [[Epilepsy|epilepsy]].
+
+=== KEY: Vaishnavism_951bc1
+HEADWORD: Vaishnavism = 비슈누파
+LEVEL: 4
+GLOSSARY:
+  Bhagavad Gita = 『바가바드 기타』
+  Bhakti = 박티
+  Bhakti movement = 박티 운동
+  Database = 데이터베이스
+  Dvaita = 드바이타
+  Hinduism = 힌두교
+  Hindus = 힌두교도
+  Indian subcontinent = 인도 아대륙
+  Krishna = 크리슈나
+  Madhvacharya = 마드바차리아
+  Rama = 라마
+  Ramanuja = 라마누자
+  Religion = 종교
+  Upanishads = 『우파니샤드』
+  Vaishnavites = 비슈누파 신자
+  Vedanta = 베단타
+  Vedas = 『베다』
+  Vishishtadvaita = 한정 불이론
+  Vishnu = 비슈누
+  Vishnuism = 비슈누교
+  World = 세계
+  World Religion Database = 세계 종교 데이터베이스
+  avatars = 화신
+ENTRY:
+[[Hinduism|Hindu]] tradition that regards [[Vishnu]] as the supreme being, also called Vishnuism. Its followers, called Vaishnavites, revere avatars of Vishnu, such as [[Krishna]] and [[Rama]], as incarnations of the supreme deity. The doctrine developed as regional non-Vedic cults were identified with Vishnu in the early centuries CE. Devotion to an avatar of Vishnu, often Krishna, was key to spreading the Bhakti movement across the Indian subcontinent in the 2nd millennium CE. The tradition includes four Vedanta schools, among them the Vishishtadvaita of [[Ramanuja]] and the Dvaita of Madhvacharya. Key texts include the [[Vedas]], the [[Upanishads]] and the [[Bhagavad Gita]]. A 2020 estimate by the World Religion Database counted about 399 million Hindus in the tradition, making it the largest Hindu sect.
+
+=== KEY: Vajiralongkorn_be7b57
+HEADWORD: Vajiralongkorn = 와치랄롱꼰
+LEVEL: 5
+GLOSSARY:
+  Bhumibol Adulyadej = 푸미폰 아둔야뎃
+  Canberra = 캔버라
+  Chakri dynasty = 짜끄리 왕조
+  Military = 군대
+  October = 「옥토버」
+  Rama = 라마
+  Rama X = 라마 10세
+  Thailand = 태국
+  lèse-majesté = 왕실 모독죄
+  net worth = 순자산
+ENTRY:
+King of [[Thailand]] since 2016, reigning as Rama X, and tenth monarch of the Chakri dynasty. Educated partly at the Royal Military College, Duntroon, in [[Canberra]], he qualified as a military fast-jet and airline pilot. He assumed the throne on the death of his father, [[Bhumibol Adulyadej]], on 13 October 2016, and was formally proclaimed on 1 December 2016. His reign has seen a marked centralization of royal power and personal wealth, and the 2020–2021 protests challenged the monarchy and Thailand's lèse-majesté laws. Estimates put his net worth at US$30 billion to US$70 billion.
+
+=== KEY: Vajrayana_6638a7
+HEADWORD: Vajrayana = 금강승
+LEVEL: 4
+GLOSSARY:
+  Bhutan = 부탄
+  Buddha = 붓다
+  Buddhism = 불교
+  Diamond = 다이아몬드
+  Diamond Vehicle = 금강승
+  Himalayan = 히말라야
+  Himalayan region = 히말라야 지역
+  India = 인도
+  Japan = 일본
+  Kūkai = 구카이
+  Mahayana = 대승 불교
+  Mahayana Buddhism = 대승 불교
+  Mantra = 만트라
+  Mongolia = 몽골
+  Nepal = 네팔
+  Shingon = 진언종
+  Shingon Buddhism = 진언종
+  Tantric = 탄트라
+  Tantric Buddhism = 밀교
+  Tibet = 티베트
+  Tibetan = 티베트어
+  Tibetan Buddhism = 티베트 불교
+  Vehicle = 차량
+  deity yoga = 본존 요가
+  initiation = 관정
+  mandalas = 만다라
+  mudras = 무드라
+  vajra = 바즈라
+ENTRY:
+Esoteric tradition of [[Mahayana]] Buddhism, also called Tantric Buddhism or Diamond Vehicle, that seeks rapid spiritual awakening through ritual and tantric practice. It emerged between the 5th and 7th centuries CE in medieval [[India]]. Practices include [[Mantra|mantras]], mudras, mandalas and the visualization of deities, including deity yoga, in which practitioners imagine themselves as enlightened beings. Teachings pass from teacher to student through initiation, and tradition holds that they descend in an unbroken lineage from the historical Buddha. The vajra, a ritual implement symbolizing indestructibility, gives the tradition its name. In [[Tibet]] it developed into Tibetan Buddhism, which became dominant in the Himalayan region and is practiced in Bhutan, Mongolia and [[Nepal]]. In [[Japan]] it shaped Shingon Buddhism, founded by [[Kūkai]].
+
+=== KEY: Valence_bond_theory_b24fce
+HEADWORD: Valence bond theory = 원자가 결합 이론
+LEVEL: 4
+GLOSSARY:
+  Chemical bond = 화학 결합
+  Fritz London = 프리츠 런던
+  Gilbert = 길버트 제도
+  Gilbert N. Lewis = 길버트 N. 루이스
+  Linus Pauling = 라이너스 폴링
+  Molecular orbital theory = 분자 궤도 이론
+  Schrödinger equation = 슈뢰딩거 방정식
+  Valence bond theory = 원자가 결합 이론
+  Walter Heitler = 발터 하이틀러
+  atomic orbitals = 원자 궤도
+  covalent bond = 공유 결합
+  molecular orbital theory = 분자 궤도 이론
+  orbital hybridization = 오비탈 혼성
+  resonance = 공명
+ENTRY:
+Quantum-mechanical theory of [[Chemical bond|chemical bonding]], one of two basic theories along with [[Molecular orbital theory|molecular orbital theory]]. It describes how the atomic orbitals of separate atoms combine to form individual bonds when a molecule forms, whereas molecular orbitals cover the whole molecule. In 1916 [[Gilbert N. Lewis]] proposed that a bond forms through two shared electrons. In 1927 Walter Heitler and Fritz London used the [[Schrödinger equation|Schrödinger wave equation]] to explain the covalent bond in the hydrogen molecule. [[Linus Pauling]] then developed the concepts of resonance (1928) and orbital hybridization (1930). Valence bond theory declined from the 1960s as molecular orbital methods suited large computer programs, but it revived from the 1980s as its computational problems were largely solved.
+
+=== KEY: Valencia_Venezuela_e86d02
+HEADWORD: Valencia = 발렌시아
+LEVEL: 4
+GLOSSARY:
+  Alonso Díaz Moreno = 알론소 디아스 모레노
+  Battle of Carabobo = 카라보보 전투
+  Captain = 선장
+  Carabobo = 카라보보주
+  Caracas = 카라카스
+  Colombia = 콜롬비아
+  Gran Colombia = 그란콜롬비아
+  Spain = 스페인
+  Venezuela = 베네수엘라
+ENTRY:
+Capital of Carabobo state in northern [[Venezuela]], the country's third-largest city and a center of industry and manufacturing. Its metropolitan region, with about 4.5 million people, is Venezuela's second largest after [[Caracas]], about 172 kilometers to the east. Captain Alonso Díaz Moreno founded the city on March 25, 1555, as the first [[Spain|Spanish]] settlement in north-central Venezuela. It became the country's capital in 1830, after Venezuela separated from [[Gran Colombia]], and was again the seat of government from 1858. The Battle of Carabobo, fought near the city on June 24, 1821, sealed independence from Spanish rule. Oil revenues and industrialization drove population growth in the 20th century. Since the mid-2010s the city's economy has contracted sharply along with the national crisis.
+
+=== KEY: Valencia_bddfcd
+HEADWORD: Valencia = 발렌시아
+LEVEL: 4
+GLOSSARY:
+  Aragonese = 아라곤인
+  Aragonese conquest = 아라곤의 정복
+  Civil War = 남북 전쟁
+  Europe = 유럽
+  European Green Capital = 유럽 녹색 수도
+  Fallas = 파야스 축제
+  Green = 초록색
+  Iberian = 이베리아
+  Iberian Peninsula = 이베리아반도
+  Kingdom of Valencia = 발렌시아 왕국
+  Mediterranean = 지중해
+  Peninsula = 반도
+  River = 강
+  Silk = 비단
+  Spain = 스페인
+  Spanish Civil War = 스페인 내전
+  Turia River = 투리아강
+  UNESCO = 유네스코
+  Valencia = 발렌시아
+  Valencian = 발렌시아어
+  Valencian Community = 발렌시아 지방
+  Visigothic = 서고트
+  Visigothic Kingdom = 서고트 왕국
+  intangible cultural heritage = 무형 문화유산
+ENTRY:
+Capital of the Valencian Community and its namesake province, on the Mediterranean coast of [[Spain]]. It lies on the Turia River, on the east coast of the [[Iberian Peninsula]], and had a population of 841,558. Founded as a Roman colony in 138 BC, it came under the [[Visigothic Kingdom]] in the late 6th century and under Islamic rule from the 8th century. After the Aragonese conquest in 1238 it became capital of the Kingdom of Valencia. Its trade made it one of Europe's largest cities by the end of the 15th century, and it became a major [[Silk|silk]] manufacturing center in the 18th century. During the [[Spanish Civil War]] it was the provisional seat of the government from 1936 to 1937. Its port is among the busiest container ports in Europe and the Mediterranean, and the Fallas festival has been recognized by [[UNESCO]] as intangible cultural heritage since 2016. The city was European Green Capital in 2024.
+
+=== KEY: Valentina_Tereshkova_3a8d72
+HEADWORD: Tereshkova, Valentina = 테레시코바, 발렌티나
+LEVEL: 4
+GLOSSARY:
+  Air Force = 항공 및 반항공군
+  Communist Party = 공산당
+  Communist Party of the Soviet Union = 소련 공산당
+  Donetsk = 도네츠크
+  Duma = 두마
+  Earth = 지구
+  Force = 힘
+  Lugansk = 루간스크
+  Party = 파티
+  Russia = 러시아
+  Russian = 러시아어
+  State Duma = 국가 두마
+  Supreme Soviet = 최고 소비에트
+  Ukraine = 우크라이나
+  United Russia = 통합 러시아당
+  Vladimir = 블라디미르
+  Vladimir Putin = 블라디미르 푸틴
+  Vostok 6 = 보스토크 6호
+  Vostok programme = 보스토크 계획
+  major general = 소장
+ENTRY:
+Soviet cosmonaut and Russian politician, the first woman in space. Flying the solo [[Vostok programme|Vostok 6]] mission on June 16, 1963, she orbited Earth 48 times in almost three days. She remains the only woman to have flown a solo spaceflight and the youngest woman to have orbited Earth. A textile factory worker and amateur skydiver before her selection, she later served as an instructor and retired from the Air Force in 1997 as a major general. A prominent member of the [[Communist Party of the Soviet Union|Communist Party]], she sat in the Supreme Soviet from 1966 to 1989. Since 2011 she has served in Russia's State Duma as a member of United Russia. In 2020 she proposed lifting presidential term limits for [[Vladimir Putin]], and in 2022 she voted to recognize the breakaway of the Donetsk and Lugansk regions from Ukraine.
+
+=== KEY: Valentino_Rossi_b2626e
+HEADWORD: Rossi, Valentino = 로시, 발렌티노
+LEVEL: 5
+GLOSSARY:
+  Champion = 「챔피언」
+  Endurance = 인듀어런스호
+  FIA World Endurance Championship = FIA 세계 내구 선수권
+  Grand Prix motorcycle racing = 그랑프리 모터사이클 레이싱
+  Honda = 혼다
+  Italian Grand Prix = 이탈리아 그랑프리
+  Italy = 이탈리아
+  MotoGP = 모토GP
+  Seven = 「세븐」
+  VR46 Racing Team = VR46 레이싱 팀
+  World = 세계
+  World Endurance Championship = FIA 세계 내구 선수권
+  Yamaha = 야마하
+ENTRY:
+[[Italy|Italian]] former motorcycle road racer and nine-time [[Grand Prix motorcycle racing|Grand Prix]] World Champion, nicknamed "the Doctor." He won world titles in the 125cc and 250cc classes. Seven of his nine championships came in the premier class, including MotoGP titles with [[Honda]] in 2002 and 2003 and with Yamaha in 2004, 2005, 2008 and 2009. He holds the record of 89 premier-class victories. He retired after the 2021 season, and his number 46 was retired at the 2022 Italian Grand Prix. He owns the VR46 Racing Team and races in the FIA World Endurance Championship.
+
+=== KEY: Valkyrie_0af3f8
+HEADWORD: Valkyrie = 발키리
+LEVEL: 5
+GLOSSARY:
+  Der Ring des Nibelungen = 「니벨룽의 반지」
+  Norse = 노르드인
+  Norse mythology = 북유럽 신화
+  Odin = 오딘
+  Old Norse = 고대 노르드어
+  Poetic Edda = 『운문 에다』
+  Ragnarök = 라그나로크
+  Richard = 리처드
+  Richard Wagner = 리하르트 바그너
+  Ring = 『링』
+  Snorri Sturluson = 스노리 스투를루손
+  Valhalla = 발할라
+  einherjar = 에인헤랴르
+  valkyrja = 발퀴랴
+ENTRY:
+In Norse mythology, one of a host of female figures who guide the souls of dead warriors to [[Odin]]'s hall Valhalla, where the slain become *einherjar*. Valkyries bear the *einherjar* mead while they prepare for *Ragnarök*. They also appear as lovers of heroes and are sometimes described as daughters of royalty. The name derives from Old Norse *valkyrja*, meaning "chooser of the slain." Valkyries are attested in the [[Poetic Edda]] and in works by [[Snorri Sturluson]] written in the 13th century. Later works, including [[Richard Wagner]]'s opera *Der Ring des Nibelungen*, drew on them.
+
+=== KEY: Vallabhbhai_Patel_7fdb43
+HEADWORD: Patel, Vallabhbhai = 파텔, 발라브바이
+LEVEL: 4
+GLOSSARY:
+  British Raj = 영국령 인도
+  Deputy Prime Minister = 부총리
+  Gandhi = 「간디」
+  Gowalia Tank = 고왈리아 탱크
+  Gujarat = 구자라트주
+  Home Minister = 내무 장관
+  Hyderabad = 하이데라바드
+  India = 인도
+  Indian National Congress = 인도 국민회의
+  Jawaharlal Nehru = 자와할랄 네루
+  Louis Mountbatten = 루이스 마운트배튼
+  Mahatma = 마하트마
+  Mahatma Gandhi = 마하트마 간디
+  National Congress = 국민 의회
+  Partition = 분할
+  Prime = 프라임
+  Quit India Movement = 인도 철수 운동
+  Sardar Patel = 사르다르 파텔
+  Statue of Unity = 통일의 상
+  Tank = 전차
+  Unity = 유니티
+  civil disobedience = 시민 불복종
+  princely state = 번왕국
+ENTRY:
+Indian lawyer, independence activist and statesman, known as Sardar Patel. An early lieutenant of [[Mahatma Gandhi]], he organized peasants in [[Gujarat]] in civil disobedience against the [[British Raj]] and became a senior leader of the [[Indian National Congress]]. Historians credit his 1942 speech at Bombay's Gowalia Tank with electrifying nationalists during the Quit India Movement. As India's first Deputy Prime Minister and Home Minister from 1947, he organized relief for refugees from Partition and, with [[Jawaharlal Nehru]] and Louis Mountbatten, persuaded almost every princely state to accede to India. Critics questioned the firmness of his methods, notably in [[Hyderabad]]. The [[Statue of Unity]] was dedicated to him in 2018.
+
+=== KEY: Valletta_273f66
+HEADWORD: Valletta = 발레타
+LEVEL: 5
+GLOSSARY:
+  Baroque = 바로크
+  Capital city = 수도
+  Europe = 유럽
+  European Union = 유럽 연합
+  Grand Harbour = 그랜드 하버
+  Grand Master = 기사단장
+  Great Siege of Malta = 몰타 대공방전
+  Jean Parisot de Valette = 장 파리조 드 발레트
+  Knights Hospitaller = 구호 기사단
+  Malta = 몰타
+  Marsamxett Harbour = 마르삼셋 항
+  Master = 조폐국장
+  Peninsula = 반도
+  Siege = 공성전
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  bastions = 능보
+  curtains = 성벽
+ENTRY:
+Capital city of [[Malta]], the southernmost capital in Europe and the smallest in the [[European Union]], at 0.61 square kilometers. It occupies a [[Peninsula|peninsula]] between the Grand Harbour and Marsamxett Harbour. Its 16th-century buildings were constructed by the [[Knights Hospitaller]], and the city is named after Jean Parisot de Valette, the Grand Master who defended the island during the Great Siege of Malta. The city is [[Baroque]] in character, with bastions, curtains and palaces, and was designated a [[UNESCO]] World Heritage Site in 1980. Its population was 5,226 in July 2024.
+
+=== KEY: Valley_6c92ef
+HEADWORD: Valley = 골짜기
+LEVEL: 4
+GLOSSARY:
+  Canyon = 협곡
+  Floodplain = 범람원
+  Glacier = 빙하
+  Grand Canyon = 그랜드캐니언
+  Rift valleys = 열곡
+  River = 강
+  United States = 미국
+  Yosemite = 요세미티
+  Yosemite Valley = 요세미티 계곡
+  gorges = 협곡
+  meanders = 곡류
+ENTRY:
+Elongated low area, typically between hills or mountains, that usually contains a [[River|river]] or stream running along its length. Most valleys are formed by erosion over long periods, and river valleys are typically steep-sided and V-shaped in their upper reaches. Valleys carved by [[Glacier|glaciers]] have a U-shaped cross section. Rift valleys arise mainly from earth movements rather than erosion. In the lower valley, gradients are lowest and meanders may broaden into a [[Floodplain|floodplain]]. Some river valleys are cut so deeply that they become gorges or [[Canyon|canyons]]. The [[Grand Canyon]] in the United States is a dramatic V-shaped river valley, and Yosemite Valley is an example of glacial U-shaping.
+
+=== KEY: Valley_of_the_Kings_a0c39c
+HEADWORD: Valley of the Kings = 왕가의 계곡
+LEVEL: 4
+GLOSSARY:
+  18th to the 20th Dynasty = 제18왕조에서 제20왕조
+  Dynasty = 「다이너스티」
+  Egyptian mythology = 이집트 신화
+  KV5 = KV5
+  Luxor = 룩소르
+  Necropolis = 네크로폴리스
+  New Kingdom = 신왕국
+  Nile = 나일강
+  Pharaoh = 파라오
+  Ramesses II = 람세스 2세
+  Theban = 테베
+  Theban Necropolis = 테베 네크로폴리스
+  Thebes = 테베
+  Tutankhamun = 투탕카멘
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Necropolis on the west bank of the [[Nile]] opposite Thebes, now [[Luxor]], where rock-cut tombs were excavated for [[Pharaoh|pharaohs]] and powerful nobles over nearly 500 years, from the 18th to the 20th Dynasty of the New Kingdom. It contains 65 tombs and chambers. KV5, the largest, has over 120 chambers built for sons of [[Ramesses II]]. The tombs are decorated with scenes from [[Egyptian mythology]] and reflect beliefs about the afterlife, though almost all were robbed in antiquity. The discovery of the tomb of [[Tutankhamun]] in 1922 brought the valley wide attention. It has been a [[World Heritage Site]] since 1979 as part of the Theban Necropolis.
+
+=== KEY: Valmiki_bfe5bd
+HEADWORD: Valmiki = 발미키
+LEVEL: 4
+GLOSSARY:
+  Adi Kavi = 아디 카비
+  Crane (bird) = 두루미
+  Hinduism = 힌두교
+  Lanka = 랑카
+  Prince = 후작
+  Rama = 라마
+  Ramayana = 『라마야나』
+  Ravana = 라바나
+  Sita = 시타
+  cantos = 칸토
+  shlokas = 슐로카
+ENTRY:
+Legendary Indian sage and poet, traditionally credited as author of the [[Ramayana]]. Revered in [[Hinduism]] as the *Adi Kavi*, or first poet, he is said to have composed the epic's first verse in grief after a hunter killed one of a pair of [[Crane (bird)|cranes]]. The Ramayana, of about 24,000 shlokas in seven cantos, tells how Prince [[Rama]] of Ayodhya's wife [[Sita]] is abducted by [[Ravana]], the demon king of Lanka. Scholars date the earliest stage of the text to between the 8th and 4th centuries BCE, with later stages up to the 3rd century CE, and no historical evidence confirms Valmiki's existence.
+
+=== KEY: Valpara_so_967eed
+HEADWORD: Valparaíso = 발파라이소
+LEVEL: 4
+GLOSSARY:
+  Canal = 운하
+  Chilean Navy = 칠레 해군
+  Magellan = 마젤란호
+  National Congress = 국민 의회
+  Navy = 해군
+  Panama = 파나마
+  Panama Canal = 파나마 운하
+  San Francisco = 샌프란시스코
+  Santiago = 산티아고
+  Straits of Magellan = 마젤란 해협
+  Today = 「투데이」
+  Valparaíso = 발파라이소
+  Valparaíso Region = 발파라이소주
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Seaport and naval base in Chile's Valparaíso Region, about 120 kilometers northwest of [[Santiago]]. Its commune had 284,938 residents, and its metropolitan area is the country's second most populous. The city has been headquarters of the Chilean Navy since 1817 and the seat of the National Congress since 1990. In the second half of the 19th century it was a major stopover for ships passing through the Straits of Magellan, and sailors called it "Little [[San Francisco]]." The opening of the [[Panama Canal]] in 1914 reduced ship traffic and hurt the port's economy. The historic quarter became a [[World Heritage Site]] in 2003. Today the city is also a major educational hub with several universities.
+
+=== KEY: Value_added_tax_72e18c
+HEADWORD: Value-added tax = 부가 가치세
+LEVEL: 4
+GLOSSARY:
+  Coast = 해안
+  Consumption tax = 소비세
+  France = 프랑스
+  French = 프랑스어
+  Georg Wilhelm von Siemens = 게오르크 빌헬름 폰 지멘스
+  German = 독일어
+  Ivory = 상아
+  Ivory Coast = 코트디부아르
+  Maurice Lauré = 모리스 로레
+  OECD = 경제 협력 개발 기구
+  Sales tax = 판매세
+  Siemens = 지멘스
+  United States = 미국
+  VAT = 부가 가치세
+  Wilhelm = 빌헬름
+  indirect tax = 간접세
+  invoice method = 세금 계산서 방식
+ENTRY:
+Consumption tax levied on the value added at each stage of production and distribution. Suppliers collect it from customers and remit it to the government, so it is an indirect tax, and exports are typically exempted. It is similar to a [[Sales tax|sales tax]], but under the invoice method each seller pays tax on sales and credits the tax paid on inputs, so only the difference is remitted. German industrialist Georg Wilhelm von Siemens proposed the concept in 1918. The modern form was first implemented in 1954 in France's [[Ivory Coast]] colony by Maurice Lauré of the French tax authority, and France adopted it in 1958. As of January 2025, 175 of the 193 UN member countries employed a VAT, including all [[OECD]] members except the United States.
+
+=== KEY: Value_ethics_e63f0e
+HEADWORD: Value = 가치
+LEVEL: 4
+GLOSSARY:
+  Altruism = 이타주의
+  Culture = 문화
+  Ethics = 윤리학
+  Philosophy = 철학
+  Value theory = 가치론
+ENTRY:
+Degree of importance of something or an action, central to [[Ethics|ethics]] and the social sciences. Values are broad preferences about appropriate courses of action or outcomes, reflecting a person's sense of right and wrong. They influence attitudes and behavior and include moral, ideological, social and aesthetic values. Personal values may agree with or diverge from prevailing [[Culture|cultural]] norms. It is debated whether values such as [[Altruism|altruism]] are intrinsic, and whether acquisitiveness should be classed as a vice or a virtue. Ethical value is sometimes equated with goodness, though goodness has more meanings. Value theory draws on [[Philosophy|philosophy]], anthropology, sociology and theology.
+
+=== KEY: Valve_104400
+HEADWORD: Valve = 밸브
+LEVEL: 4
+GLOSSARY:
+  Heart = 심장
+  Irrigation = 관개
+  Plumbing = 배관
+  Poppet valves = 포핏 밸브
+  Pressure = 압력
+  Temperature = 온도
+  Vein = 정맥
+  Washing machine = 세탁기
+  check valve = 체크 밸브
+  internal combustion engines = 내연 기관
+ENTRY:
+Device or natural object that regulates, directs or controls the flow of a fluid by opening, closing or partly obstructing passageways. Fluid flows through an open valve from higher to lower [[Pressure|pressure]]. The simplest type, the check valve, is a hinged flap that swings shut against flow in one direction. Valves may be operated by hand or automatically, driven by changes in [[Temperature|temperature]] or pressure. They are used in [[Irrigation|irrigation]], industrial processes, [[Plumbing|plumbing]] and appliances such as dishwashers and [[Washing machine|washing machines]]. Poppet valves control intake and exhaust in most internal combustion engines. In nature, one-way valves in [[Vein|veins]] and [[Heart|heart]] valves control blood flow. Sizes range from 0.1 mm to 60 cm.
+
+=== KEY: Valve_Corporation_1292f5
+HEADWORD: Valve Corporation = 밸브 코퍼레이션
+LEVEL: 5
+GLOSSARY:
+  Antitrust = 반독점
+  Counter-Strike = 카운터스트라이크
+  Gabe Newell = 게이브 뉴얼
+  Half-Life = 「하프라이프」
+  Half-Life (video game) = 『하프라이프』
+  Lawsuit = 소송
+  Microsoft = 마이크로소프트
+  Mike Harrington = 마이크 해링턴
+  Portal = 포털
+  Steam = 스팀
+  Steam (service) = 스팀
+  Team Fortress = 팀 포트리스
+  Valve = 밸브
+  Washington = 워싱턴주
+  digital distribution = 디지털 배포
+  first-person shooter = 1인칭 슈팅 게임
+ENTRY:
+American video game developer, publisher and digital distribution company, based in Bellevue, Washington. Founded in 1996 by former [[Microsoft]] employees [[Gabe Newell]] and Mike Harrington, Valve released the first-person shooter *[[Half-Life (video game)|Half-Life]]* in 1998, a critical and commercial success. Its franchises include Counter-Strike, Portal and Team Fortress, and it operates the digital distribution service [[Steam (service)|Steam]], launched in 2003. Most of Valve's revenue comes from Steam. Valve uses a flat organizational structure in which employees choose their own projects. [[Lawsuit|Antitrust lawsuits]] allege that Steam's pricing policies stifle competition; Valve counters that consumers benefit from its access and library.
+
+=== KEY: Vampire_41ad87
+HEADWORD: Vampire = 흡혈귀
+LEVEL: 4
+GLOSSARY:
+  Bram Stoker = 브램 스토커
+  Dracula = 『드라큘라』
+  Eastern Europe = 동유럽
+  Europe = 유럽
+  John = 존
+  John Polidori = 존 폴리도리
+  Southeastern and Eastern Europe = 동남유럽과 동유럽
+  The Vampyre = 「흡혈귀」
+  Western Europe = 서유럽
+  mass hysteria = 집단 히스테리
+  undead = 언데드
+ENTRY:
+Mythical creature that subsists by feeding on the vital essence, usually blood, of humans. In European folklore, vampires are undead humanoids that visit loved ones and cause mischief or deaths in the neighborhoods they inhabited in life. The term was first popularized in Western Europe after 18th-century reports of mass hysteria in [[Eastern Europe|Southeastern and Eastern Europe]], where suspected vampires were sometimes pierced with stakes. In modern times the vampire is generally held to be fictitious; early folk belief has sometimes been ascribed to ignorance of decomposition after death. The charismatic vampire of modern fiction began with "The Vampyre" (1819) by John Polidori. [[Bram Stoker]]'s novel *[[Dracula]]* (1897) provided the basis of the modern vampire legend, and the figure remains a dominant one in horror.
+
+=== KEY: Vampire_bat_5657f7
+HEADWORD: Vampire bat = 흡혈박쥐
+LEVEL: 4
+GLOSSARY:
+  Desmodontinae = 흡혈박쥐아과
+  Desmodus rotundus = Desmodus rotundus
+  Diaemus youngi = Diaemus youngi
+  Diphylla ecaudata = Diphylla ecaudata
+  Phyllostomidae = 잎코박쥐과
+  Rabies = 광견병
+  South America = 남아메리카
+  Vampire = 흡혈귀
+  anticoagulants = 항응고제
+  common vampire bat = 흡혈박쥐
+  draculin = 드라큘린
+  hairy-legged vampire bat = 털다리흡혈박쥐
+  hematophagy = 흡혈성
+  leaf-nosed bats = 잎코박쥐
+  pit organs = 피트 기관
+  white-winged vampire bat = 흰날개흡혈박쥐
+ENTRY:
+Subfamily of bats that feed exclusively on blood. Vampire bats (Desmodontinae) are leaf-nosed bats of the family Phyllostomidae, found in Central and South America. Three extant species, the common vampire bat (*Desmodus rotundus*), the hairy-legged vampire bat (*Diphylla ecaudata*) and the white-winged vampire bat (*Diaemus youngi*), are the only mammals that feed solely on blood, a diet called hematophagy. Their short muzzles, cutting front teeth and pit organs that detect warm blood vessels help them locate prey. Salivary anticoagulants such as draculin prevent clotting for up to several hours. Vampire bats are highly social, roosting in colonies of dozens to thousands and sharing food by regurgitation. They serve as vectors for [[Rabies|rabies]] and other pathogens, posing challenges to agriculture and wildlife, while their saliva compounds hold promise for anticoagulant therapies.
+
+=== KEY: Van_585f98
+HEADWORD: Van = 밴
+LEVEL: 4
+GLOSSARY:
+  Australia = 오스트레일리아
+  British English = 영국 영어
+  Vehicle = 차량
+  caravan = 캐러밴
+  microvans = 마이크로밴
+  minibus = 미니버스
+  minivan = 미니밴
+  panel vans = 패널 밴
+  people-carriers = 피플 캐리어
+  step vans = 스텝 밴
+ENTRY:
+Type of [[Vehicle|road vehicle]] used for transporting goods or people. Vans range from microvans, which carry small loads or passengers, to panel vans based on passenger car platforms and used mainly for cargo. Larger vans with passenger seats transport students, and specially equipped vans serve television stations as mobile studios. Postal services and courier companies use large step vans to deliver packages. The word is a contraction of caravan, and the earliest English records of a van as a vehicle date from the mid-19th century, when it meant a covered wagon for goods. Usage varies by country. In Australia, van often means a minivan or passenger minibus, while in British English it refers only to vehicles that carry goods, and minivans are called people-carriers.
+
+=== KEY: Van_Allen_radiation_belt_8cd279
+HEADWORD: Van Allen radiation belt = 밴 앨런대
+LEVEL: 5
+GLOSSARY:
+  Apollo = 아폴로
+  Earth = 지구
+  Explorer 1 = 익스플로러 1호
+  Explorer 3 = 익스플로러 3호
+  James = 야고보
+  James Van Allen = 제임스 밴 앨런
+  Satellite = 인공위성
+  Solar wind = 태양풍
+  Van Allen Probes = 밴 앨런 탐사선
+  magnetic field = 자기장
+  solar wind = 태양풍
+ENTRY:
+Zone of energetic charged particles, mostly from the [[Solar wind|solar wind]], trapped around [[Earth]] by its magnetic field. Earth has two main belts, extending about 640 to 58,000 km above the surface. Named after James Van Allen, who described them in 1958, the belts were confirmed that year by Explorer 1 and Explorer 3. They endanger [[Satellite|satellites]], which need shielding near the zone. Apollo astronauts crossing the belts received a very low, harmless dose. In 2013 the Van Allen Probes detected a transient third belt that persisted for four weeks.
+
+=== KEY: Van_Halen_27935d
+HEADWORD: Van Halen = 밴 헤일런
+LEVEL: 5
+GLOSSARY:
+  Billboard Hot 100 = 빌보드 핫 100
+  California = 캘리포니아주
+  David Lee Roth = 데이비드 리 로스
+  Eddie = 에디
+  Eddie Van Halen = 에디 밴 헤일런
+  Hagar = 하갈
+  Jump = 「Jump」
+  Rock music = 록 음악
+  Sammy Hagar = 새미 헤이거
+  Van Halen = 밴 헤일런
+  hard rock = 하드 록
+ENTRY:
+American hard rock band formed in Pasadena, California, in 1972. Credited with restoring [[Rock music|hard rock]] to prominence, it was known for energetic live shows and the guitar virtuosity of Eddie Van Halen. Its 1984 album produced the band's only number-one single on the Billboard Hot 100, "Jump". After David Lee Roth left in 1985, Sammy Hagar fronted four U.S. number-one albums. Van Halen disbanded following Eddie's death in 2020, having sold more than 80 million albums worldwide.
+
+=== KEY: Van_Morrison_0aa0fe
+HEADWORD: Morrison, Van = 모리슨, 밴
+LEVEL: 5
+GLOSSARY:
+  Astral Weeks = 『Astral Weeks』
+  Belfast = 벨파스트
+  Brown = 브라운
+  Brown Eyed Girl = 「Brown Eyed Girl」
+  Celtic = 켈트
+  Girl = 소녀
+  Gloria = 「Gloria」
+  Irish = 아일랜드어
+  Jazz = 재즈
+  Moondance = 『Moondance』
+  Northern Irish = 북아일랜드
+  Rhythm and blues = 리듬 앤드 블루스
+  Them = 템
+  rhythm and blues = 리듬 앤드 블루스
+ENTRY:
+Northern Irish singer and songwriter whose recording career began in the 1960s. He rose to prominence as lead singer of the [[Belfast]] R&B band Them, which recorded "Gloria", and his 1967 single "Brown Eyed Girl" was a solo hit. *Astral Weeks* (1968) was initially a poor seller but is now regarded as a classic, and *Moondance* (1970) established him as a major artist. His work blends soul and [[Rhythm and blues|rhythm and blues]] with lengthy, spiritually inspired pieces influenced by Celtic tradition and [[Jazz|jazz]].
+
+=== KEY: Van_der_Waals_force_bd8ac1
+HEADWORD: Van der Waals force = 판데르발스 힘
+LEVEL: 5
+GLOSSARY:
+  Debye forces = 디바이 힘
+  Dutch = 네덜란드어
+  Intermolecular force = 분자 간 힘
+  Johannes Diderik van der Waals = 요하너스 디데릭 판데르발스
+  Keesom force = 케이섬 힘
+  London dispersion forces = 런던 분산력
+  chemical bond = 화학 결합
+  molecular solids = 분자 고체
+  organic compounds = 유기 화합물
+ENTRY:
+Distance-dependent [[Intermolecular force|intermolecular]] interaction between atoms or molecules, not arising from a chemical bond. Named after Dutch physicist [[Johannes Diderik van der Waals]], the force is comparatively weak and vanishes quickly at longer distances. It arises from transient shifts in electron density that induce charges in nearby particles, and at very short distances it becomes repulsive. The force is usually described as a combination of London dispersion forces, Debye forces and the Keesom force. It underlies many properties of organic compounds and molecular solids, including their solubility.
+
+=== KEY: Vanadium_6b45b9
+HEADWORD: Vanadium = 바나듐
+LEVEL: 4
+GLOSSARY:
+  Andrés Manuel del Río = 안드레스 마누엘 델리오
+  Chemical element = 화학 원소
+  Gabriel = 가브리엘
+  Henry Enfield Roscoe = 헨리 엔필드 로스코
+  Nils Gabriel Sefström = 닐스 가브리엘 세프스트룀
+  Norse = 노르드인
+  Sulfuric acid = 황산
+  Swedish = 스웨덴어
+  Transition metal = 전이 금속
+  Vanadium = 바나듐
+  Vanadium pentoxide = 오산화 바나듐
+  Vanadís = 바나디스
+  chromium = 크로뮴
+  fossil fuel = 화석 연료
+  high-speed tool steels = 고속도 공구강
+  sulfuric acid = 황산
+  transition metal = 전이 금속
+ENTRY:
+Chemical element with symbol V and atomic number 23, a hard, silvery-gray, malleable [[Transition metal|transition metal]]. The pure metal is rarely found in nature, and an oxide layer somewhat stabilizes it against further oxidation. Spanish scientist Andrés Manuel del Río first identified its compounds in 1801, but his claim was retracted after the element was mistaken for impure chromium. In 1831 Swedish chemist Nils Gabriel Sefström rediscovered it and named it after the Norse goddess Vanadís, for the many colorful compounds it forms. Henry Enfield Roscoe isolated the pure metal later in the 19th century. Vanadium occurs in about 65 minerals and fossil fuel deposits. Approximately 93% of it is used in steel alloys, such as high-speed tool steels. Vanadium pentoxide is an important catalyst in the production of [[Sulfuric acid|sulfuric acid]], and some ocean organisms use vanadium as an active center of enzymes.
+
+=== KEY: Vancouver_382781
+HEADWORD: Vancouver = 밴쿠버
+LEVEL: 4
+GLOSSARY:
+  British Columbia = 브리티시컬럼비아주
+  Canada = 캐나다
+  Canadian = 캐나다
+  Canadian Pacific Railway = 캐나다 태평양 철도
+  Columbia = 컬럼비아
+  Forestry = 임업
+  Greater Vancouver = 광역 밴쿠버
+  Hollywood = 할리우드
+  Hollywood North = 북쪽의 할리우드
+  Lower Mainland = 로어메인랜드
+  Mainland = 메인랜드섬
+  Montreal = 몬트리올
+  Ocean = 대양
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  Toronto = 토론토
+  Vancouver = 밴쿠버
+ENTRY:
+Major seaport city in the Lower Mainland of [[British Columbia]], Canada. The city had 662,248 residents in the 2021 census, making it the most populous in the province. Greater Vancouver had 2.6 million people that year, the third-largest metropolitan area in Canada after [[Toronto]] and [[Montreal]]. Vancouver has the highest population density in Canada and is one of its most ethnically and linguistically diverse cities. It is consistently ranked among the most livable cities, though it is also one of the most expensive. The city's large natural seaport on the [[Pacific Ocean|Pacific Ocean]] anchors its economy, along with [[Forestry|forestry]] and tourism. The modern city was renamed Vancouver in 1886 through a deal with the Canadian Pacific Railway, and it is nicknamed Hollywood North for its film production.
+
+=== KEY: Vancouver_Island_ea999e
+HEADWORD: Vancouver Island = 밴쿠버섬
+LEVEL: 5
+GLOSSARY:
+  Americas = 아메리카
+  British Columbia = 브리티시컬럼비아주
+  Canada = 캐나다
+  Columbia = 컬럼비아
+  George Vancouver = 조지 밴쿠버
+  Greater Victoria = 광역 빅토리아
+  Ocean = 대양
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  United States = 미국
+  United States Geological Survey = 미국 지질 조사국
+  Vancouver = 밴쿠버
+ENTRY:
+Largest island in [[British Columbia]], Canada, in the northeastern Pacific Ocean. It is 456 km long and covers 31,815.31 km² (12,283.96 sq mi) according to the United States Geological Survey. The island is the most populous along the west coasts of the Americas, with 864,864 people in 2021. Nearly half of them live in Greater Victoria, the provincial capital at the island's southern tip. Its name commemorates 1792 negotiations between Spanish and British commanders, including [[Vancouver|George Vancouver]].
+
+=== KEY: Vandals_299ed6
+HEADWORD: Vandals = 반달족
+LEVEL: 4
+GLOSSARY:
+  East Germanic = 동게르만
+  Eastern Roman Empire = 동로마 제국
+  Genseric = 가이세리크
+  Iberian Peninsula = 이베리아반도
+  Justinian = 유스티니아누스
+  Justinian I = 유스티니아누스 1세
+  Mediterranean = 지중해
+  North Africa = 북아프리카
+  Renaissance = 르네상스
+  Roman Empire = 로마 제국
+  Roman province = 로마 속주
+  Roman province of Africa = 로마의 아프리카 속주
+  Rome = 로마
+  Vandalic = 반달어
+  Vandalic War = 반달 전쟁
+  Vandals = 반달족
+  vandalism = 반달리즘
+ENTRY:
+East Germanic tribe, first mentioned by Roman writers in the 1st century. Under King Genseric they crossed from the [[Iberian Peninsula|Iberia]] into North Africa in 429, and by 439 they had formed a kingdom covering the Roman province of Africa and several Mediterranean islands. The Vandals fended off several Roman attempts to recapture Africa and sacked the city of Rome in 455. Their kingdom collapsed in the Vandalic War of 533–534, when forces of Emperor [[Justinian I|Justinian I]] reconquered North Africa for the [[Roman Empire|Eastern Roman Empire]]. [[Renaissance|Renaissance]] writers cast the Vandals as barbarians, giving English the word vandalism, though some modern historians stress their continuation of Roman culture.
+
+=== KEY: Vanderbilt_family_900176
+HEADWORD: Vanderbilt family = 밴더빌트 가문
+LEVEL: 5
+GLOSSARY:
+  Anderson Cooper = 앤더슨 쿠퍼
+  Biltmore House = 빌트모어 하우스
+  City = 도시
+  Cornelius = 코넬리어스
+  Cornelius Vanderbilt = 코닐리어스 밴더빌트
+  Gilded Age = 도금 시대
+  New York City = 뉴욕
+  North Carolina = 노스캐롤라이나주
+  Rhode Island = 로드아일랜드주
+  United States = 미국
+  William = 윌리엄
+  William Henry Vanderbilt = 윌리엄 헨리 밴더빌트
+  York = 요크
+ENTRY:
+American family that gained prominence during the [[Gilded Age]] through the shipping and railroad empire of [[Cornelius Vanderbilt]]. The family was once the wealthiest in the United States, and Cornelius's son William Henry Vanderbilt acquired the fortune after his father's death in 1877. Its members built grand mansions in [[New York City|New York City]], summer cottages in Newport, Rhode Island, and the palatial Biltmore House in Asheville, North Carolina. After the mid-20th century most of the family's houses were sold or turned into museums. Contemporary descendants include the journalist [[Anderson Cooper]].
+
+=== KEY: Vanessa_Paradis_c906a5
+HEADWORD: Paradis, Vanessa = 파라디, 바네사
+LEVEL: 5
+GLOSSARY:
+  Bridge = 다리
+  Chanel = 샤넬
+  César Award = 세자르상
+  César Award for Most Promising Actress = 세자르상 신인 여우상
+  France = 프랑스
+  French = 프랑스어
+  Girl = 소녀
+  Girl on the Bridge = 「걸 온 더 브릿지」
+  Gérard Depardieu = 제라르 드파르디외
+  Joe le taxi = 「Joe le taxi」
+  Lenny Kravitz = 레니 크래비츠
+  Noce blanche = 「하얀 결혼」
+  Serge Gainsbourg = 세르주 갱스부르
+  Élisa = 「엘리자」
+ENTRY:
+French singer, model and actress who achieved international fame at 14 with the single "Joe le taxi" (1987), which was number one in France for 11 weeks. At 18 she won the César Award for Most Promising Actress for *Noce blanche*. Her film roles include *Élisa* (1995) with [[Gérard Depardieu]] and *Girl on the Bridge* (1999). Musicians including [[Serge Gainsbourg]] and [[Lenny Kravitz]] have cited her work as an inspiration. She has been a spokesmodel for Chanel since 1991.

@@ -1,0 +1,932 @@
+=== KEY: Maximilian_I_Holy_Roman_Emperor_d308e4
+HEADWORD: Maximilian I = 막시밀리안 1세
+LEVEL: 4
+GLOSSARY:
+  Castile = 카스티야
+  Confederacy = 남부 연합
+  Frederick = 프리드리히
+  Frederick III = 프리드리히 3세
+  Habsburg = 합스부르크
+  Holy Roman Emperor = 신성 로마 황제
+  House of Habsburg = 합스부르크 가문
+  Joanna = 후아나
+  Joanna of Castile = 카스티야의 후아나
+  King of the Romans = 로마왕
+  Philip = 펠리페
+  Pope = 교황
+  Pope Julius II = 교황 율리오 2세
+  Renaissance = 르네상스
+  Romans = 로마인
+  Rome = 로마
+  Spain = 스페인
+  Swiss Confederacy = 스위스 연방
+  Switzerland = 스위스
+  Trento = 트렌토
+  Venetians = 베네치아인
+  Venice = 베네치아
+  last knight = 최후의 기사
+ENTRY:
+King of the Romans (1486–1508) and Holy Roman Emperor (1508–1519). Son of Frederick III, he expanded the influence of the [[House of Habsburg]] through war and his 1477 marriage to Mary, Duchess of Burgundy. The journey to Rome was blocked by the [[Venice|Venetians]], so he was never crowned by the pope; he proclaimed himself emperor at Trento in 1508, and [[Pope Julius II]] later recognized it. His son Philip married Joanna of Castile in 1496, helping establish the Habsburg dynasty in [[Spain]]. He lost the family's lands in [[Switzerland]] to the Swiss Confederacy. Historians debate whether he was the "last knight" or a Renaissance prince. He carried out reforms and promoted an extensive image-building program, though his military expansion and financial costs weighed heavily on his subjects.
+
+=== KEY: Maximilian_I_of_Mexico_8c5896
+HEADWORD: Maximilian I = 막시밀리아노 1세
+LEVEL: 5
+GLOSSARY:
+  Austria = 오스트리아
+  Benito Juárez = 베니토 후아레스
+  Franz Joseph I = 프란츠 요제프 1세
+  French = 프랑스어
+  French intervention = 프랑스의 멕시코 개입
+  Joseph I = 주제 1세
+  Mexico = 멕시코
+  Monroe = 먼로
+  Monroe Doctrine = 먼로주의
+  Napoleon = 나폴레옹
+  Napoleon III = 나폴레옹 3세
+  Querétaro = 케레타로
+  United States = 미국
+ENTRY:
+Austrian archduke and emperor of Mexico (1864–1867). Younger brother of Emperor [[Franz Joseph I]] of Austria, he was invited by [[Napoleon III]] and Mexican monarchists to rule Mexico. He accepted the crown in 1864 after a referendum that purportedly showed popular support. His liberal policies cost him conservative backing. The United States continued to recognize [[Benito Juárez]] and saw the French intervention as a violation of the [[Monroe Doctrine]]. French troops withdrew in 1866. Captured at Querétaro, he was executed by firing squad alongside two generals.
+
+=== KEY: Maximilien_Robespierre_ad0536
+HEADWORD: Robespierre, Maximilien = 로베스피에르, 막시밀리앵
+LEVEL: 4
+GLOSSARY:
+  9 Thermidor = 테르미도르 9일
+  Atlantic slave trade = 대서양 노예 무역
+  Committee of Public Safety = 공안 위원회
+  Convention = 비상 의회
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  Guillotine = 단두대
+  Jacobin = 자코뱅
+  National Convention = 국민 공회
+  Reign of Terror = 공포 정치
+  Robespierre = 로베스피에르
+  Safety = 안전
+  slave trade = 노예 무역
+ENTRY:
+French lawyer and statesman, a radical Jacobin leader of the [[French Revolution]]. Elected a deputy to the National Convention in September 1792, Robespierre joined the Committee of Public Safety in July 1793 and became its leading figure. He campaigned for voting rights for all men, the right to petition and the abolition of the [[Atlantic slave trade]]. He defended the [[Reign of Terror]] as an instrument of justice, a period that saw at least 17,000 official executions by [[Guillotine|guillotine]]. Growing accusations of excess turned the Convention against him, and after his arrest on 9 Thermidor he was executed without trial. His legacy remains contested: critics stress his role in repressing the Revolution's opponents, while others note his progressive views for the time.
+
+=== KEY: Maxwell_Boltzmann_distribution_98c836
+HEADWORD: Maxwell–Boltzmann distribution = 맥스웰-볼츠만 분포
+LEVEL: 5
+GLOSSARY:
+  Diffusion = 확산
+  James = 야고보
+  James Clerk Maxwell = 제임스 클러크 맥스웰
+  Ludwig = 루트비히
+  Ludwig Boltzmann = 루트비히 볼츠만
+  Pressure = 압력
+  Probability = 확률
+  Probability distribution = 확률 분포
+  chi distribution = 카이 분포
+  degrees of freedom = 자유도
+  kinetic theory = 기체 분자 운동론
+  kinetic theory of gases = 기체 분자 운동론
+  rarefied gases = 희박 기체
+  square = 정사각 행렬
+  thermal equilibrium = 열평형
+ENTRY:
+[[Probability distribution]] of particle speeds in an idealized gas at thermal equilibrium. Named after [[James Clerk Maxwell]] and [[Ludwig Boltzmann]], it was first derived by Maxwell in 1860 on heuristic grounds, and Boltzmann later investigated its physical origins in the 1870s. Mathematically, it is a chi distribution with three degrees of freedom, with a scale parameter proportional to the square root of T/m, the ratio of temperature to particle mass. The distribution underlies the kinetic theory of gases, which explains properties such as [[Pressure|pressure]] and [[Diffusion|diffusion]]. It is an excellent approximation for rarefied gases at ordinary temperatures and for ideal plasmas.
+
+=== KEY: Maxwell_s_demon_c5abc2
+HEADWORD: Maxwell's demon = 맥스웰의 악마
+LEVEL: 5
+GLOSSARY:
+  Information = 정보
+  Information theory = 정보 이론
+  James = 야고보
+  James Clerk Maxwell = 제임스 클러크 맥스웰
+  Kelvin = 켈빈
+  Lord Kelvin = 켈빈 경
+  Second law of thermodynamics = 열역학 제2법칙
+  Thought experiment = 사고 실험
+  entropy = 엔트로피
+  second law = 열역학 제2법칙
+ENTRY:
+Thought experiment of 1867 devised by [[James Clerk Maxwell]]. A demon controls a door between two gas-filled chambers, letting only fast-moving molecules pass one way and slow-moving ones the other. One chamber warms and the other cools, decreasing entropy without any work and seemingly violating the [[Second law of thermodynamics|second law of thermodynamics]]. Maxwell called the agent a "finite being"; [[Lord Kelvin]] later named it a "demon." The idea stimulated work on the relationship between thermodynamics and [[Information theory]]. Most scientists argue that no device can violate the second law in this way, and experimental versions differ from the original; none has been shown to violate it.
+
+=== KEY: Maxwell_s_equations_a9640e
+HEADWORD: Maxwell's equations = 맥스웰 방정식
+LEVEL: 4
+GLOSSARY:
+  Electric field = 전기장
+  Electromagnetism = 전자기학
+  General relativity = 일반 상대성 이론
+  James = 야고보
+  James Clerk Maxwell = 제임스 클러크 맥스웰
+  Lorentz force = 로런츠 힘
+  Lorentz force law = 로런츠 힘 법칙
+  Magnetic field = 자기장
+  Oliver Heaviside = 올리버 헤비사이드
+  Partial differential equation = 편미분 방정식
+  Quantum electrodynamics = 양자 전기역학
+  Special relativity = 특수 상대성 이론
+  classical electromagnetism = 고전 전자기학
+  classical limit = 고전 극한
+  classical optics = 고전 광학
+  covariant formulation = 공변 형식
+  differential equations = 미분 방정식
+  partial differential equations = 편미분 방정식
+ENTRY:
+Set of coupled [[Partial differential equation|partial differential equations]] describing [[Electromagnetism|classical electromagnetism]]. Together with the [[Lorentz force|Lorentz force law]], they describe how [[Electric field|electric]] and [[Magnetic field|magnetic fields]] are generated by electric charges and currents, and they form the foundation of classical optics and of electric and magnetic circuits. They underpin technologies from power generation and electric motors to wireless communication and radar. An early form was published by James Clerk Maxwell in 1861 and 1862, and the modern form is credited to Oliver Heaviside. Since the mid-20th century the equations have been understood as a classical limit of [[Quantum electrodynamics]]. Their covariant formulation makes compatibility with [[Special relativity]] apparent, and they are compatible with [[General relativity]] in curved spacetime.
+
+=== KEY: May_195fbb
+HEADWORD: May = 5월
+LEVEL: 5
+GLOSSARY:
+  Bona Dea = 보나 데아
+  Gemini = 쌍둥이자리
+  Gregorian = 그레고리력
+  Gregorian calendar = 그레고리력
+  Gregorian calendars = 그레고리력
+  Julian = 율리우스력
+  Julian calendar = 율리우스력
+  Latin = 라틴어
+  Maia = 마이아
+  Northern Hemisphere = 북반구
+  Ovid = 오비디우스
+  Southern Hemisphere = 남반구
+  Taurus = 황소자리
+  birthstone = 탄생석
+  maiores = 마이오레스
+ENTRY:
+Fifth month of the year in the [[Julian calendar|Julian]] and [[Gregorian calendar|Gregorian]] calendars, with 31 days. It is a spring month in the Northern Hemisphere and an autumn month in the Southern Hemisphere. The name was taken from the Greek goddess Maia, who was identified with the Roman goddess of fertility, Bona Dea; the Roman poet Ovid gave a second etymology, from the maiores, Latin for "elders." The birthstone is the emerald. The zodiac signs are Taurus until May 20 and Gemini from May 21.
+
+=== KEY: May_68_e94428
+HEADWORD: May 68 = 68혁명
+LEVEL: 5
+GLOSSARY:
+  Assembly = 민회
+  Charles de Gaulle = 샤를 드골
+  France = 프랑스
+  French = 프랑스어
+  Germany = 독일
+  Grenelle agreements = 그르넬 협정
+  National Assembly = 국민 의회
+  West Germany = 서독
+ENTRY:
+Period of protests, riots and strikes in [[France]] beginning in May 1968. Sparked by student demonstrations against university conditions and government repression, it escalated into the largest general strike in French history, involving about 10 million workers. Factories, transportation and public services shut down, and on May 27 the Grenelle agreements brought wage increases and concessions. [[Charles de Gaulle|President Charles de Gaulle]] briefly left for a French military base in West Germany on May 29, then dissolved the National Assembly. His party won a resounding victory in the June elections, and the movement lost momentum. De Gaulle resigned the following year.
+
+=== KEY: Maya_Angelou_910541
+HEADWORD: Angelou, Maya = 앤젤루, 마야
+LEVEL: 4
+GLOSSARY:
+  Annie = 「애니」
+  Bill Clinton = 빌 클린턴
+  Bird = 조류
+  Civil rights movement = 민권 운동
+  Frost = 서리
+  John = 존
+  John F. Kennedy = 존 F. 케네디
+  Johnson = 존슨
+  Malcolm X = 맬컴 엑스
+  Marguerite Annie Johnson = 마거리트 애니 존슨
+  Martin Luther = 마르틴 루터
+  Martin Luther King Jr. = 마틴 루서 킹 주니어
+  Missouri = 미주리주
+  On the Pulse of Morning = 「아침의 맥박 위에서」
+  Pulse = 맥박
+  Robert Frost = 로버트 프로스트
+  St. Louis = 세인트루이스
+  civil rights = 민권
+ENTRY:
+American memoirist, poet and civil rights activist. She published seven autobiographies, three books of essays and several poetry collections. Her memoir *I Know Why the Caged Bird Sings* (1969), covering her life to age 17, brought her international recognition. Born Marguerite Annie Johnson in St. Louis, Missouri, she worked with [[Martin Luther King Jr.]] and [[Malcolm X]] in the [[Civil rights movement]]. In 1993 she recited her poem *On the Pulse of Morning* at the first inauguration of [[Bill Clinton]], the first poet to give an inaugural recitation since [[Robert Frost]] at [[John F. Kennedy]]'s inauguration in 1961. Her works, which address racism, identity and family, are widely taught, though attempts have been made to ban them from some U.S. libraries.
+
+=== KEY: Maya_civilization_e73ec9
+HEADWORD: Maya civilization = 마야 문명
+LEVEL: 3
+GLOSSARY:
+  Americas = 아메리카
+  Belize = 벨리즈
+  Calakmul = 칼라크물
+  Chichen Itza = 치첸이트사
+  Classic period = 고전기
+  El Salvador = 엘살바도르
+  Guatemala = 과테말라
+  Guatemalan = 과테말라
+  Guatemalan Highlands = 과테말라 고지대
+  Highlands = 하일랜드
+  Honduras = 온두라스
+  Kʼicheʼ kingdom = 키체 왕국
+  Long Count = 장기력
+  Maya peoples = 마야인
+  Maya script = 마야 문자
+  Mayan languages = 마야어족
+  Mesoamerica = 메소아메리카
+  Mesoamerican = 메소아메리카
+  Mexico = 멕시코
+  Nojpetén = 노흐페텐
+  Postclassic = 후고전기
+  Postclassic period = 후고전기
+  Preclassic period = 전고전기
+  Salvador = 사우바도르
+  Spanish Empire = 스페인 제국
+  Teotihuacan = 테오티우아칸
+  Tikal = 티칼
+  ceramics = 세라믹
+  chili peppers = 고추
+  divine king = 신성한 왕
+  pre-Columbian Americas = 콜럼버스 이전 아메리카
+  screenfold books = 접이식 책
+  stelae = 석비
+ENTRY:
+[[Mesoamerica|Mesoamerican]] civilization (c. 2000 BC–1697 AD), known for its temples, art, architecture, mathematics, calendar, and astronomical system. The Maya script is the most sophisticated and highly developed writing system in the pre-Columbian Americas. The civilization developed in an area comprising southeastern [[Mexico|Mexico]], all of [[Guatemala|Guatemala]] and [[Belize|Belize]], and the western portions of Honduras and El Salvador. Its descendants number well over 6 million and speak more than twenty-eight surviving Mayan languages. "Maya" is a modern collective term; Maya peoples had no common ethnic identity or political unity for most of their history.
+
+The Preclassic period (c. 2000 BC to 250 AD) saw the first complex societies and the cultivation of staples such as maize, beans, squashes, and chili peppers. The first cities developed around 750 BC, and hieroglyphic writing was in use by the 3rd century BC. The Classic period, from around 250 AD, is largely defined by sculpted monuments bearing Long Count dates. Many city-states were linked by trade, and the rival cities of [[Tikal]] and Calakmul became powerful; the central Mexican city of [[Teotihuacan]] intervened in Maya dynastic politics. In the 9th century a widespread political collapse in the central region brought civil wars, abandoned cities, and a northward shift of population. The Postclassic period saw the rise of [[Chichen Itza]] in the north and of the Kʼicheʼ kingdom in the Guatemalan Highlands. In the 16th century the Spanish Empire colonized the region, and Nojpetén, the last Maya city, fell in 1697.
+
+During the Classic period rule centered on the "divine king", thought to mediate between mortals and the supernatural realm. By the Late Classic the aristocracy had grown, reducing the king's exclusive power. The literate elite recorded history and ritual knowledge in screenfold books, of which only three uncontested examples remain, and on stelae and ceramics. They developed interlocking ritual calendars and mathematics that included one of the earliest known instances of the explicit zero. Their religion included human sacrifice.
+
+=== KEY: Maya_peoples_9cb009
+HEADWORD: Maya peoples = 마야인
+LEVEL: 4
+GLOSSARY:
+  Belize = 벨리즈
+  Chichen Itza = 치첸이트사
+  El Salvador = 엘살바도르
+  Guatemala = 과테말라
+  Honduras = 온두라스
+  Indigenous = 원주민
+  Indigenous peoples = 원주민
+  Maya civilization = 마야 문명
+  Mesoamerica = 메소아메리카
+  Mexico = 멕시코
+  Peninsula = 반도
+  Salvador = 사우바도르
+  Yucatec Maya = 유카텍 마야인
+  Yucatán = 유카탄주
+  Yucatán Peninsula = 유카탄반도
+ENTRY:
+Ethnolinguistic group of Indigenous peoples of [[Mesoamerica]], generally descended from the populations of the ancient [[Maya civilization]]. An estimated seven million Maya lived in the region at the start of the 21st century, mainly in [[Guatemala]], southeastern [[Mexico]], Belize, and western [[El Salvador]] and [[Honduras]]. "Maya" is a modern collective term that the peoples did not historically use themselves, and there was no common political identity among them. The largest group, the Yucatec Maya, lives on the [[Yucatán Peninsula]]. The Yucatán was first contacted by Europeans after Spanish shipwreck survivors came ashore in 1511, and [[Chichen Itza]] was conquered by 1570.
+
+=== KEY: Maya_religion_cb1d9c
+HEADWORD: Maya religion = 마야 종교
+LEVEL: 4
+GLOSSARY:
+  Belize = 벨리즈
+  Catholicism = 가톨릭
+  Cenote = 세노테
+  Christianity = 기독교
+  Dresden = 드레스덴
+  Guatemala = 과테말라
+  Honduras = 온두라스
+  Madrid = 마드리드
+  Maya peoples = 마야인
+  Mesoamerica = 메소아메리카
+  Mesoamerican = 메소아메리카
+  Mexico = 멕시코
+  Pan-Maya movement = 범마야 운동
+  Paris = 파리
+  Popol Vuh = 『포폴 부』
+  Ritual = 의례
+  Roman Catholicism = 로마 가톨릭
+  Syncretism = 혼합주의
+  Yucatán = 유카탄주
+  codices = 코덱스
+ENTRY:
+Traditional religion of the [[Maya peoples|Maya]] of Guatemala, Belize, western Honduras and parts of Mexico, part of the wider [[Mesoamerica|Mesoamerican]] religion. Including its pre-Hispanic antecedents, it has existed as a distinct phenomenon for more than two and a half millennia, spread across many indigenous kingdoms with their own local traditions. It resulted from centuries of symbiosis with Roman Catholicism and coexists with [[Syncretism|syncretism]] promoted by the Pan-Maya movement and with Christianity. Ritual is central: landmarks such as mountains, wells and caves are assigned to ancestors and deities, and [[Cenote|cenotes]] in Yucatán are sites of ritual activity. Key sources include the surviving codices of Dresden, Madrid and Paris and the early colonial [[Popol Vuh]].
+
+=== KEY: Maya_script_806c7e
+HEADWORD: Maya script = 마야 문자
+LEVEL: 4
+GLOSSARY:
+  Classic Maya = 고전 마야어
+  Egyptian hieroglyphs = 이집트 상형 문자
+  Guatemala = 과테말라
+  Logogram = 표어 문자
+  Maya civilization = 마야 문명
+  Maya script = 마야 문자
+  Mesoamerican = 메소아메리카
+  San Bartolo = 산바르톨로
+  Spanish conquest = 에스파냐의 정복
+  Writing = 문자
+  Writing system = 문자 체계
+  Yucatec Maya = 유카텍 마야인
+  Yucatán = 유카탄주
+  syllabic glyphs = 음절 문자
+ENTRY:
+Writing system of the [[Maya civilization]], the only Mesoamerican script that has been substantially deciphered. The earliest identifiable Maya inscriptions date to the 3rd century BCE in late Preclassic sites such as San Bartolo in Guatemala. Writing continued until the Spanish conquest of the 16th and 17th centuries, though knowledge of it was reserved to the elite. Maya script combined [[Logogram|logograms]] with syllabic glyphs, somewhat like modern Japanese writing, and recorded Classic Maya and, in northern Yucatán, Yucatec Maya. Texts were written in blocks arranged in columns two blocks wide. Early European explorers called it hieroglyphics, though it is unrelated to [[Egyptian hieroglyphs]]. As of 2008, the sound of about 80% of the writing could be read and the meaning of about 60% understood with varying certainty.
+
+=== KEY: Mayon_0bac2f
+HEADWORD: Mayon = 마욘산
+LEVEL: 5
+GLOSSARY:
+  Albay = 알바이주
+  Albay Biosphere Reserve = 알바이 생물권 보전 지역
+  Albay Gulf = 알바이만
+  Biosphere = 생물권
+  Biosphere Reserve = 생물권 보전지역
+  Fire = 불
+  Luzon = 루손섬
+  Pacific = 태평양
+  Pacific Ring of Fire = 환태평양 조산대
+  Philippine Institute of Volcanology and Seismology = 필리핀 화산지진연구소
+  Philippines = 필리핀
+  Ring = 『링』
+  Ring of Fire = 환태평양 조산대
+  Seismology = 지진학
+  Stratovolcano = 성층 화산
+  UNESCO = 유네스코
+  the Philippines = 필리핀
+ENTRY:
+Active [[Stratovolcano|stratovolcano]] in Albay province on [[Luzon]], Philippines. Renowned for its symmetric "perfect cone" and regarded as sacred in Philippine mythology, it rises 2,463 m (8,081 ft) from the shores of Albay Gulf. It was declared a national park on July 20, 1938, the first in the nation, and is the centerpiece of the Albay Biosphere Reserve, declared by UNESCO in 2016. It is the most active volcano in the Philippines, monitored by the Philippine Institute of Volcanology and Seismology. At least 85 lava flows have been identified, and it forms part of the Pacific [[Ring of Fire]].
+
+=== KEY: Mayonnaise_d3f1c2
+HEADWORD: Mayonnaise = 마요네즈
+LEVEL: 4
+GLOSSARY:
+  Antonin Carême = 앙토냉 카렘
+  Duke of Richelieu = 리슐리외 공작
+  Emulsion = 에멀션
+  French = 프랑스어
+  French fries = 감자튀김
+  Hamburger = 햄버거
+  Mahón = 마온
+  Menorca = 메노르카섬
+  Salad = 샐러드
+  Sauce = 소스
+  Seven = 「세븐」
+  Seven Years' War = 7년 전쟁
+  ranch dressing = 랜치 드레싱
+  remoulade = 레물라드
+  tartar sauce = 타르타르 소스
+ENTRY:
+Thick, creamy [[Sauce|sauce]], an [[Emulsion|emulsion]] of oil, egg yolk and vinegar or lemon juice. It is commonly used on sandwiches, [[Hamburger|hamburgers]], [[Salad|salads]] and [[French fries]], and forms the base for tartar sauce, remoulade and ranch dressing. Its origin is debated, but most hypotheses place it in Mahón on Menorca, where French troops were stationed during the [[Seven Years' War]]; the Duke of Richelieu took the port on April 18, 1756. The term appeared in French in 1806, and Antonin Carême described a cold emulsified version with egg yolk in 1815. Commercial production emerged in the early 20th century, and eggless versions are available for those who avoid eggs.
+
+=== KEY: Mayotte_9c05c4
+HEADWORD: Mayotte = 마요트
+LEVEL: 4
+GLOSSARY:
+  Comoros = 코모로
+  European Union = 유럽 연합
+  France = 프랑스
+  French = 프랑스어
+  Grande-Terre = 그랑드테르섬
+  INSEE = 프랑스 국립 통계 경제 연구소(INSEE)
+  Indian Ocean = 인도양
+  Kibushi = 키부시어
+  Malagasy language = 말라가시어
+  Mamoudzou = 마무주
+  Mayotte = 마요트
+  Mozambique = 모잠비크
+  Mozambique Channel = 모잠비크 해협
+  Ocean = 대양
+  Shimaore = 시마오레어
+  outermost region = 최외곽 지역
+ENTRY:
+Overseas department and region of France (pop., 2024: 320,901) in the northern [[Mozambique Channel]], western Indian Ocean. Its land area is 374 sq km, and its largest city and prefecture, Mamoudzou, lies on the main island, Grande-Terre. French is the official language; the native languages are Shimaore and Kibushi, a [[Malagasy language]]. A sultanate was established in 1500, and most residents are Muslim. Sold to France in 1841, Mayotte chose to remain French when the nearby [[Comoros]] became independent in 1974. It became France's 101st department on March 31, 2011, and an outermost region of the European Union in 2014. Illegal immigration from the Comoros is a major political issue, and a 2018 INSEE report found that over 83% of the population lived below the poverty line by French standards.
+
+=== KEY: Mazda_ee3094
+HEADWORD: Mazda = 마쓰다
+LEVEL: 5
+GLOSSARY:
+  24 Hours of Le Mans = 르망 24시
+  Cork = 코르크
+  Ford = 포드
+  Ford Motor Company = 포드 모터 컴퍼니
+  Fuchū = 후추
+  Hiroshima = 히로시마
+  Kodo design language = 고도 디자인 언어
+  Le Mans = 르망
+  Mazda = 마쓰다
+  Mazda 787B = 마쓰다 787B
+  Mazda-Go = 마쓰다고
+  SkyActiv = 스카이액티브
+  Toyo Cork Kogyo = 도요 코르크 공업
+  Wankel engine = 반켈 엔진
+  auto rickshaw = 오토 릭샤
+ENTRY:
+Japanese multinational automotive manufacturer, headquartered in Fuchū, [[Hiroshima]]. Founded in 1920 as Toyo Cork Kogyo, a cork factory, it began producing vehicles in 1931 with the Mazda-Go auto rickshaw. The company is known for the [[Wankel engine]], the SkyActiv platform and its Kodo design language, and it won the [[24 Hours of Le Mans]] in 1991 with the rotary-powered Mazda 787B. [[Ford Motor Company|Ford]] was a major shareholder from 1974 until the late 2000s. In 2023 it produced 1.1 million vehicles globally.
+
+=== KEY: Maze_ef6cbe
+HEADWORD: Maze = 미로
+LEVEL: 4
+GLOSSARY:
+  Euler = 오일러
+  Graph theory = 그래프 이론
+  Leonhard Euler = 레온하르트 오일러
+  Maize = 옥수수
+  Morris water maze = 모리스 수중 미로
+  Rat = 쥐
+  T-maze = T자 미로
+  Topology = 위상수학
+  labyrinth = 래버린스
+  perfect mazes = 완전 미로
+  unicursal = 단일 경로
+ENTRY:
+Path or collection of paths, typically from an entrance to a goal, used as a puzzle or as a garden feature. Mazes may be built from hedges, turf, walls or corn stalks, and [[Maize|maize]] mazes are often promoted as seasonal tourist attractions. Mazes without loops are called perfect mazes and are equivalent to a tree in [[Graph theory]]. [[Leonhard Euler]] was one of the first to analyze plane mazes mathematically, making early contributions to [[Topology]]. Psychologists use mazes such as the Morris water maze and the T-maze to study spatial navigation, usually with [[Rat|rats]] or mice. The term "labyrinth" is generally synonymous, though it can connote a unicursal pattern without branches.
+
+=== KEY: Mbuji_Mayi_0206e2
+HEADWORD: Mbuji-Mayi = 음부지마이
+LEVEL: 4
+GLOSSARY:
+  Bakwanga = 바콴가
+  CIA World Factbook = 『CIA 월드 팩트북』
+  City = 도시
+  Democratic = 민주당
+  Democratic Republic of the Congo = 콩고 민주 공화국
+  Diamond = 다이아몬드
+  Kasai-Oriental Province = 카사이오리앙탈주
+  Kinshasa = 킨샤사
+  MIBA = MIBA
+  Republic of the Congo = 콩고 공화국
+  Tshiluba language = 칠루바어
+  UN = 국제 연합
+  World = 세계
+ENTRY:
+City and capital of Kasai-Oriental Province in the south-central [[Democratic Republic of the Congo]], known until the end of 1962 as Bakwanga. It is thought to be the second-largest city in the country after [[Kinshasa]], though estimates of its population range from 1,480,000 (2010 CIA World Factbook) to 3,500,000 (UN, 2008). The name, from the Tshiluba language, means "Goat-Water." The city sits on one of the largest diamond deposits in the world and is the traditional center of industrial [[Diamond|diamond]] mining in Congo. Diamonds were discovered in the area as early as 1907, and in 1963 the local MIBA company was the source of 80 percent of the world's industrial diamonds.
+
+=== KEY: McCarthyism_56ee3c
+HEADWORD: McCarthyism = 매카시즘
+LEVEL: 5
+GLOSSARY:
+  Cold War = 냉전
+  Court = 법원
+  Earl Warren = 얼 워런
+  Ellen = 「엘런」
+  Ellen Schrecker = 엘런 슈레커
+  FBI = 연방 수사국
+  Hooverism = 후버리즘
+  J. Edgar Hoover = J. 에드거 후버
+  Joseph McCarthy = 조지프 매카시
+  Justice = 정의
+  Red Scare = 적색 공포
+  Second = 초
+  Second Red Scare = 제2차 적색 공포
+  Supreme Court = 연방 대법원
+  United States = 미국
+ENTRY:
+Political practice of accusing left-wing Americans of communist and Soviet influence, prominent in the late 1940s and 1950s. Associated with Senator [[Joseph McCarthy]], it lost support after the mid-1950s, when several of his accusations proved false. Rulings of the Supreme Court under Chief Justice Earl Warren on civil and political rights helped end the Second Red Scare. Some historians since the 1980s argue that the term overstates McCarthy's role; Ellen Schrecker has suggested "Hooverism," after FBI head [[J. Edgar Hoover]]. Documents released after the [[Cold War]] revealed Soviet espionage in the United States, though many agents were never identified by McCarthy.
+
+=== KEY: McDonald_s_700dd1
+HEADWORD: McDonald's = 맥도날드
+LEVEL: 4
+GLOSSARY:
+  Big Mac = 빅맥
+  California = 캘리포니아주
+  French = 프랑스어
+  French fries = 감자튀김
+  Hamburger = 햄버거
+  Illinois = 일리노이주
+  Ray Kroc = 레이 크록
+  Richard = 리처드
+  Richard and Maurice McDonald = 리처드 맥도널드와 모리스 맥도널드
+  San Bernardino = 샌버나디노
+  franchise = 프랜차이즈
+ENTRY:
+American multinational fast-food restaurant chain. Founded in 1940 as a restaurant in San Bernardino, California, by brothers Richard and Maurice McDonald, the company grew under [[Ray Kroc]], a franchise agent who opened a restaurant in Des Plaines, Illinois, in 1955 and bought the brothers' stake in 1961. At the end of 2025 the system comprised 45,356 restaurants in more than 100 countries, approximately 95% of them operated by franchisees. Its menu centers on [[Hamburger|hamburgers]] and [[French fries]], including the Big Mac. It directly employed more than 150,000 people, and more than two million others worked at franchised restaurants. The chain has faced criticism over nutrition, treatment of animals, environmental impact and employee wages.
+
+=== KEY: McDonnell_Douglas_DC_9_c18554
+HEADWORD: McDonnell Douglas DC-9 = 맥도넬 더글러스 DC-9
+LEVEL: 5
+GLOSSARY:
+  Aircraft = 항공기
+  Boeing = 보잉
+  Boeing 717 = 보잉 717
+  Delta = 델타 항공
+  Delta Air Lines = 델타 항공
+  Douglas = 더글러스
+  Douglas Aircraft Company = 더글러스 항공기 회사
+  T-tail = T자형 꼬리날개
+  Turbofan = 터보팬
+ENTRY:
+Twin-engine, single-aisle jet airliner designed by the Douglas Aircraft Company. The DC-9-10 first flew on February 25, 1965, and entered service with [[Delta Air Lines|Delta]] in December of that year. Powered by two rear-mounted [[Turbofan|turbofan]] engines under a T-tail, it could use 5,000-foot runways to serve smaller airports. Deliveries ended in October 1982, with 976 built. The MD-80 and MD-90 followed, and after the 1997 merger with [[Boeing]] the final version became the Boeing 717. The family had 2,441 deliveries between 1965 and 2006.
+
+=== KEY: McDonnell_Douglas_F_15_Eagle_6b639a
+HEADWORD: McDonnell Douglas F-15 Eagle = 맥도넬 더글러스 F-15 이글
+LEVEL: 5
+GLOSSARY:
+  Air Force = 항공 및 반항공군
+  Arabia = 아라비아
+  Boeing = 보잉
+  Douglas = 더글러스
+  Force = 힘
+  Gulf War = 걸프 전쟁
+  Israel = 이스라엘
+  Israeli Air Force = 이스라엘 공군
+  Japan = 일본
+  McDonnell Douglas = 맥도널 더글러스
+  Saudi Arabia = 사우디아라비아
+  The Eagle = 「독수리」
+  United States = 미국
+  United States Air Force = 미국 공군
+  air superiority = 제공권
+  air superiority fighter = 제공 전투기
+ENTRY:
+Twin-engine, all-weather fighter designed by McDonnell Douglas (now part of [[Boeing]]). The United States Air Force selected the design in 1969 as a dedicated air superiority fighter; it first flew in July 1972 and entered service in 1976. The Eagle is credited with over 104 victories and no losses in air-to-air combat. It was exported to Israel, Japan and [[Saudi Arabia]]. The Israeli Air Force first used it in combat in 1979, and it saw action in the [[Gulf War]] of 1991. Reduced procurement of the F-22 led the Air Force to keep F-15C/D fighters until 2030 and to supplement the F-22 with the F-15EX.
+
+=== KEY: McLaren_891b24
+HEADWORD: McLaren = 맥라렌
+LEVEL: 5
+GLOSSARY:
+  24 Hours of Le Mans = 르망 24시
+  Bruce McLaren = 브루스 매클래런
+  Constructors' Championships = 컨스트럭터 챔피언십
+  Crown = 영국 왕실
+  Drivers' Championships = 드라이버 챔피언십
+  England = 잉글랜드
+  Ferrari = 페라리
+  Formula One = 포뮬러 원
+  Honda = 혼다
+  Indianapolis = 인디애나폴리스
+  Indianapolis 500 = 인디애나폴리스 500
+  Le Mans = 르망
+  McLaren = 맥라렌
+  Monaco = 모나코
+  Monaco Grand Prix = 모나코 그랑프리
+  Surrey = 서리
+  Triple Crown = 트리플 크라운
+  Triple Crown of Motorsport = 모터스포츠 트리플 크라운
+  Woking = 워킹
+ENTRY:
+British motor racing team based in Woking, Surrey, [[England]]. Founded by Bruce McLaren in 1963, it is the second-oldest active [[Formula One]] team and the second-most successful after Ferrari, with 206 race wins, 13 Drivers' Championships and 10 Constructors' Championships. It is one of only three constructors, and the only team, to complete the Triple Crown of Motorsport, with wins at the Indianapolis 500, the [[24 Hours of Le Mans]] and the Monaco Grand Prix. A partnership with [[Honda]] from 1988 to 1991 produced four consecutive Constructors' Championships. The team's most recent titles were secured in 2025.
+
+=== KEY: McMurdo_Station_953c97
+HEADWORD: McMurdo Station = 맥머도 기지
+LEVEL: 5
+GLOSSARY:
+  Amundsen = 아문센
+  Antarctica = 남극 대륙
+  Polar night = 극야
+  Ross Island = 로스섬
+  Scott Base = 스콧 기지
+  Sea ice = 해빙
+  South Pole = 남극점
+  United States = 미국
+  United States Antarctic Program = 미국 남극 프로그램
+  Winter = 겨울
+  Winter Quarters Bay = 윈터쿼터스만
+  polar night = 극야
+ENTRY:
+American Antarctic research station on the southern tip of Ross Island, the largest community on [[Antarctica]]. Run by the United States Antarctic Program, it supports up to 1,200 residents, fewer than 200 during the [[Polar night|polar night]]. It is one of three year-round United States Antarctic science facilities and the usual route to Amundsen–Scott South Pole Station. Sea ice can limit access to its seaport, Winter Quarters Bay, and its main airfields are built on ice. Established in the mid-1950s, it is powered by generators and wind power; it had a nuclear reactor in the 1960s. New Zealand's Scott Base is nearby.
+
+=== KEY: MeToo_movement_89b7ab
+HEADWORD: MeToo movement = 미투 운동
+LEVEL: 5
+GLOSSARY:
+  Department of Justice = 법무부
+  Facebook = 페이스북
+  Harvey = 하비
+  Harvey Weinstein = 하비 와인스타인
+  Home Office = 내무부
+  Justice = 정의
+  Myspace = 마이스페이스
+  Office = 성무일도
+  Social movement = 사회 운동
+  Tarana Burke = 타라나 버크
+  U.S. Department of Justice = 미국 법무부
+  UK Home Office = 영국 내무부
+  rape culture = 강간 문화
+  sex workers = 성노동자
+ENTRY:
+Social movement against sexual abuse, sexual harassment and rape culture. The phrase "Me Too" was used on [[Myspace]] around 2006 by activist Tarana Burke. The hashtag #MeToo spread virally in October 2017 after allegations against film producer [[Harvey Weinstein]], and Facebook reported that almost half of its American users were friends with someone who said they had been sexually assaulted or harassed. Studies by the U.S. Department of Justice and the UK Home Office estimate that false reports make up only 2–10% of sexual assault claims, though some worry about false accusations. Critics argue that the movement overlooks police abuse and sex workers.
+
+=== KEY: Meadow_f34c07
+HEADWORD: Meadow = 목초지
+LEVEL: 4
+GLOSSARY:
+  England = 잉글랜드
+  England and Wales = 잉글랜드 웨일스
+  Habitat = 서식지
+  Hay = 건초
+  Herb = 초본
+  Ireland = 아일랜드
+  United Kingdom = 영국
+  Wales = 웨일스
+  carbon sinks = 탄소 흡수원
+ENTRY:
+Open [[Habitat|habitat]] or field vegetated mainly by grasses, [[Herb|herbs]] and other non-woody plants. Meadows are usually semi-natural grasslands, often created by clearing shrub or woodland for [[Hay|hay]], fodder or livestock, and they support a wide range of wildlife, including pollinating insects. Intensive practices such as frequent mowing and mineral fertilizers reduce biodiversity. In the [[United Kingdom]] and [[Ireland]], "meadow" traditionally means a hay meadow mown in summer. Traditional hay meadows were once common in rural Britain, but England and Wales have lost about 97% of them over the past century. Deep-rooted grasses store substantial carbon in soil, making meadows potential carbon sinks.
+
+=== KEY: Meal_a64a8c
+HEADWORD: Meal = 식사
+LEVEL: 4
+GLOSSARY:
+  Birthday = 생일
+  Breakfast = 아침 식사
+  Coffee = 커피
+  Ireland = 아일랜드
+  Snack = 간식
+  United Kingdom = 영국
+  Wedding = 결혼식
+  full breakfast = 풀 브렉퍼스트
+ENTRY:
+Occasion at a specific time that involves the consumption of food, larger, more varied and more filling than a [[Snack|snack]]. Regular meals occur daily, typically several times a day, and usually take place at home or in restaurants. Special meals mark occasions such as [[Birthday|birthdays]], [[Wedding|weddings]], funerals and holidays. Three main meals are common in most civilizations, in the morning, early afternoon and evening, though names vary by region and family. The word [[Breakfast|breakfast]] refers literally to breaking the fast of the night. A full breakfast, popular in the United Kingdom and Ireland, usually includes bacon, sausages and eggs with hot drinks such as [[Coffee|coffee]] or tea.
+
+=== KEY: Mean_value_theorem_dac589
+HEADWORD: Mean value theorem = 평균값 정리
+LEVEL: 5
+GLOSSARY:
+  Augustin-Louis Cauchy = 오귀스탱 루이 코시
+  Calculus = 미적분학
+  Cauchy = 코시
+  Continuous function = 연속 함수
+  Derivative = 도함수
+  differentiable functions = 미분 가능 함수
+  secant = 할선
+  tangent = 접선
+ENTRY:
+Result in [[Calculus|calculus]] relating a function's average rate of change over an interval to its instantaneous rate of change. If a real-valued function is [[Continuous function|continuous]] on a closed interval [a,b] and differentiable on (a,b), its [[Derivative|derivative]] equals the average rate of change at some point in (a,b). Geometrically, a tangent to the graph is parallel to the secant through the endpoints. [[Augustin-Louis Cauchy]] stated and proved it in modern form in 1823; it is used to prove other properties of differentiable functions.
+
+=== KEY: Meander_e18cd6
+HEADWORD: Meander = 곡류
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Asia Minor = 소아시아
+  Civil engineering = 토목 공학
+  Floodplain = 범람원
+  Maiandros = 마이안드로스
+  Menderes River = 멘데레스강
+  River = 강
+  Sediment = 퇴적물
+  sinuosity = 굴곡도
+ENTRY:
+One of a series of regular sinuous curves in the channel of a stream. It forms as the water erodes [[Sediment|sediment]] from the outer, concave bank and deposits it on the inner, convex bank, so that the channel migrates back and forth across the [[Floodplain|floodplain]]. Meanders migrate downstream over time, which can create [[Civil engineering|civil engineering]] challenges for maintaining roads and bridges. The degree of meandering is measured by sinuosity, the ratio of channel length to straight-line down-valley distance; a single-channel [[River|river]] with a sinuosity of 1.5 or more is defined as meandering. The term derives from the winding Menderes River in Asia Minor, which the Greeks called Maiandros.
+
+=== KEY: Meaning_of_life_82529d
+HEADWORD: Meaning of life = 삶의 의미
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Camus = 알베르 카뮈
+  Arthur Schopenhauer = 아르투어 쇼펜하우어
+  Character = 「성격」
+  Existentialism = 실존주의
+  Friedrich Nietzsche = 프리드리히 니체
+  Nietzsche = 니체
+  Nihilism = 허무주의
+  Supernaturalism = 초자연주의
+  objective = 목적 함수
+ENTRY:
+Philosophical question of whether an individual's life, human life or existence in general has inherent significance. There is no consensus on the answer, or on whether such significance exists in any objective sense. Proposed answers come from many cultures and ideologies, drawing on philosophy, religion and science. [[Arthur Schopenhauer]] was the first to ask the question explicitly, in an essay titled "Character." Supernaturalism locates meaning in divine or supernatural sources, naturalism in the natural world, and [[Nihilism|nihilism]] denies any inherent meaning. [[Existentialism|Existentialist]] thinkers such as [[Albert Camus]] and [[Friedrich Nietzsche]] explored the question, and psychological research links a sense of purpose to better mental health and resilience.
+
+=== KEY: Meaning_philosophy_cda85f
+HEADWORD: Meaning = 의미
+LEVEL: 4
+GLOSSARY:
+  Bertrand = 버트런드호
+  Bertrand Russell = 버트런드 러셀
+  Gottlob Frege = 고틀로프 프레게
+  John = 존
+  John Locke = 존 로크
+  Locke = 로크
+  Map = 지도
+  Meaning of life = 삶의 의미
+  Philosophy of language = 언어철학
+  Philosophy of mind = 심리 철학
+  Semiotics = 기호학
+  meaning of life = 삶의 의미
+  philosophy of language = 언어철학
+  philosophy of mind = 심리철학
+  referential theories = 지시 이론
+  sense and reference = 뜻과 지시체
+ENTRY:
+Sense or significance of an entity, expressing what it conveys or stands for. Meaning is a relational concept linking a sign to what it signifies; the word *dog*, for example, connects to a four-legged animal. Philosophers study linguistic meaning, including the relation between sense and reference and the difference between what an expression conventionally means and what a speaker intends. Theories of meaning include referential theories, associated with [[Gottlob Frege]] and [[Bertrand Russell]], and mental theories that explain meaning through ideas or communicative intentions; [[John Locke]] treated words as signs of ideas. Meaning is also attributed to pictures, [[Map|maps]] and actions. The study of meaning is central to [[Philosophy of language|philosophy of language]] and informs [[Semiotics|semiotics]] and [[Philosophy of mind|philosophy of mind]]. The [[Meaning of life|meaning of life]] is a related non-linguistic sense concerned with the significance of human existence as a whole.
+
+=== KEY: Measles_4f846d
+HEADWORD: Measles = 홍역
+LEVEL: 4
+GLOSSARY:
+  COVID-19 = 코로나19
+  COVID-19 pandemic = 코로나19 범유행
+  Conjunctivitis = 결막염
+  Diarrhea = 설사
+  Encephalitis = 뇌염
+  Herd = 무리
+  Herd immunity = 집단 면역
+  Infection = 감염
+  Measles = 홍역
+  Pneumonia = 폐렴
+  Vaccination = 예방 접종
+  canine distemper = 개 디스템퍼
+  middle ear = 중이
+  middle ear infection = 중이염
+  rinderpest = 우역
+ENTRY:
+Highly contagious viral [[Infection|infection]] caused by the measles virus, which is closely related to rinderpest and canine distemper. Initial symptoms of fever, cough, runny nose and [[Conjunctivitis|inflamed eyes]] appear 10–12 days after exposure, followed by a rash that starts on the face and spreads over the body. Complications include [[Diarrhea|diarrhea]], middle ear infection and [[Pneumonia|pneumonia]], and less commonly [[Encephalitis|brain inflammation]]. Measles spreads through the air, and immunity is lifelong after [[Vaccination|vaccination]] or recovery. No specific antiviral treatment exists; care focuses on preventing secondary infections, hydration and pain relief. Herd immunity requires more than 95% of a community to be vaccinated. Vaccination cut measles deaths by 80% from 2000 to 2017, but progress has stalled since the [[COVID-19 pandemic]]. Measles currently causes an estimated 95 thousand deaths a year, mainly in countries with low per capita income and poor health systems.
+
+=== KEY: Measurement_911842
+HEADWORD: Measurement = 측정
+LEVEL: 3
+GLOSSARY:
+  Charles Sanders Peirce = 찰스 샌더스 퍼스
+  Convention = 비상 의회
+  English units = 잉글랜드 단위계
+  General Conference on Weights and Measures = 국제 도량형 총회
+  International System of Units = 국제단위계
+  Measurement = 측정
+  Metre = 미터
+  Metre Convention = 미터 협약
+  Michelson = 마이컬슨
+  Michelson–Morley experiment = 마이컬슨-몰리 실험
+  Planck = 플랑크 위성
+  Planck constant = 플랑크 상수
+  Sanders = 샌더스
+  The General = 「제너럴」
+  U.S. customary units = 미국 단위계
+  United States = 미국
+  ampere = 암페어
+  base units = 기본 단위
+  candela = 칸델라
+  imperial units = 야드파운드법
+  kelvin = 켈빈
+  metrology = 계측학
+  mole = 몰
+ENTRY:
+Quantification of attributes of an object or event, determining how large or small a physical quantity is compared with a basic reference quantity of the same kind. Its scope depends on discipline. In natural science and engineering, measurement does not apply to nominal properties, but in statistics and the social and behavioral sciences it can occur at nominal, ordinal, interval, and ratio levels. Measurement is a cornerstone of trade, science, technology, and quantitative research, and the science of measurement is metrology.
+
+A measurement is characterized by its type, magnitude, unit, and uncertainty. The magnitude is the numerical value, usually obtained with a measuring instrument; the unit is a standard quantity assigned a weighting factor; the uncertainty represents the random and systematic errors of the procedure.
+
+Historically, many measurement systems existed, often set by local agreement between trading partners. Since the 18th century, developments moved toward unified standards, resulting in the modern International System of Units (SI), which reduces all physical measurements to a combination of seven base units: kilogram, meter, candela, second, ampere, kelvin, and mole. These are defined without reference to a physical object, instead fixing values to physical constants or invariable natural phenomena. [[Charles Sanders Peirce]] first proposed tying a base unit to an experimental standard, defining the meter by the wavelength of a spectral line, which directly influenced the [[Michelson–Morley experiment]].
+
+The General Conference on Weights and Measures (CGPM), established in 1875 by the Metre Convention, oversees the SI. The meter was redefined in 1983 in terms of the speed of light, and the kilogram in 2019 in terms of the Planck constant. The British systems of English units and later imperial units, known in the United States as U.S. customary units, remain in use there and in a few Caribbean countries.
+
+=== KEY: Meat_Loaf_356108
+HEADWORD: Meat Loaf = 미트 로프
+LEVEL: 5
+GLOSSARY:
+  Bat Out of Hell = 「뱃 아웃 오브 헬」
+  Dallas = 댈러스
+  Eddie = 에디
+  Europe = 유럽
+  Fight Club = 「파이트 클럽」
+  Grammy = 그래미상
+  Grammy Award = 그래미상
+  Hell = 지옥
+  I'd Do Anything for Love = 「아이드 두 애니싱 포 러브」
+  Ireland = 아일랜드
+  Love = 사랑
+  Marvin Lee Aday = 마빈 리 에데이
+  Texas = 텍사스주
+  The Rocky Horror Picture Show = 「록키 호러 픽쳐 쇼」
+  United Kingdom = 영국
+  United States = 미국
+ENTRY:
+American singer and actor. Born Marvin Lee Aday in [[Dallas]], [[Texas]]. His *Bat Out of Hell* album trilogy has sold more than 100 million records worldwide. He won a Grammy Award for Best Solo Rock Vocal Performance for "I'd Do Anything for Love." He had greater success in Europe, especially the United Kingdom and Ireland, than in the United States. He appeared in over 50 films and television shows, including Eddie in *The Rocky Horror Picture Show* (1975) and Robert "Bob" Paulsen in *Fight Club* (1999).
+
+=== KEY: Meat_e4b662
+HEADWORD: Meat = 고기
+LEVEL: 3
+GLOSSARY:
+  Animal = 동물
+  Intensive animal farming = 집약적 축산
+  Meat = 고기
+  Neolithic = 신석기 시대
+  Neolithic Revolution = 신석기 혁명
+  Old English = 고대 영어
+  Selective breeding = 선택 교배
+  United Kingdom = 영국
+  United States = 미국
+  biodiversity loss = 생물 다양성 손실
+  connective tissue = 결합 조직
+  coronary heart disease = 관상 동맥 질환
+  factory farming = 공장식 축산
+  global warming = 지구 온난화
+  mete = 메테
+  processed meat = 가공육
+  progeny testing = 후대 검정
+  saturated fats = 포화 지방
+  skeletal muscle = 골격근
+  water buffalo = 물소
+ENTRY:
+Animal tissue, mostly muscle, eaten as food. Humans have hunted and farmed animals for meat since prehistory, and the [[Neolithic Revolution|Neolithic Revolution]] allowed the domestication of chickens, sheep, goats, pigs, horses, and cattle starting around 11,000 years ago. Meat is important to economies, cultures, and faiths around the world. It is mainly composed of water, protein, and fat, and its quality is affected by the genetics, health, and nutrition of the animal. Without preservation, bacteria and fungi spoil unprocessed meat within hours or days. It is edible raw but mostly eaten cooked, as by stewing or roasting, or processed, as by smoking or salting.
+
+The English word comes from Old English *mete*, meaning food in general. In modern usage it primarily means skeletal muscle with its associated fat and connective tissue. In the postwar period governments gave farmers guaranteed prices to raise output, and in 1966 the United States, United Kingdom, and other industrialized nations began factory farming of beef and dairy cattle and pigs. Intensive animal farming accounted for 30% of world meat production in 1990 and 40% by 2005.
+
+Selective breeding, accelerated by techniques such as progeny testing, lets producers obtain desired qualities. After health concerns about saturated fats in the 1980s, the fat content of U.K. beef, pork, and lamb fell from 20–26 percent to 4–8 percent within a few decades, through breeding for leanness and changed butchery. Animals not previously exploited for meat, including antelope, zebra, water buffalo, camel, crocodile, emu, and ostrich, are now farmed..
+
+Consumption of red and processed meat, as opposed to fish and poultry, increases the risk of certain negative health outcomes, including cancer, coronary heart disease, and diabetes. Meat production harms the environment by contributing to global warming, pollution, and biodiversity loss. Vegetarians and vegans choose not to eat meat for ethical, environmental, health, or religious reasons.
+
+=== KEY: Mecca_6be2de
+HEADWORD: Mecca = 메카
+LEVEL: 3
+GLOSSARY:
+  Abraham = 아브라함
+  Ajyad Fortress = 아즈야드 요새
+  Arabia = 아라비아
+  Cave = 동굴
+  Cave of Hira = 히라 동굴
+  City = 도시
+  Clock = 시계
+  Great Mosque = 대모스크
+  Hajj = 하지
+  Hejaz = 히자즈
+  Hijri = 히즈라력
+  Ibn Saud = 이븐 사우드
+  Ishmael = 이스마엘
+  Islam = 이슬람교
+  Jabal al-Nour = 자발알누르
+  Jeddah = 제다
+  Kaaba = 카바
+  Makkah = 마카
+  Masjid al-Haram = 마스지드 알하람
+  Mecca = 메카
+  Mecca Province = 메카주
+  Mosque = 모스크
+  Muhammad = 무함마드
+  Muslims = 무슬림
+  Old South Arabian = 고대 남아라비아어
+  Prophet = 예언자
+  Prophet Muhammad = 예언자 무함마드
+  Quran = 쿠란
+  Red Sea = 홍해
+  Saudi Arabia = 사우디아라비아
+  The Clock Towers = 클록 타워
+  qibla = 키블라
+ENTRY:
+City (metropolitan pop., 2022: 2.4 million), capital of Mecca Province, in the [[Hejaz]] region of western [[Saudi Arabia]], and the holiest city in [[Islam]]. It lies 70 km inland from [[Jeddah]] on the Red Sea, in a narrow valley 277 m above sea level, and is the country's third most populated city.
+
+Mecca is regarded as the birthplace of the Prophet [[Muhammad]]. The Cave of Hira on Jabal al-Nour, just outside the city, is where Muslims believe the Quran was first revealed to him. The Masjid al-Haram (Great Mosque) houses the [[Kaaba]], which Muslims believe was built by Abraham and Ishmael and which is the direction of prayer (qibla) for all Muslims. The [[Hajj]] pilgrimage, an obligation for every Muslim at least once in life, is observed in the twelfth Hijri month, and pilgrims more than triple the population each year. Mecca received over 19.3 million international visitors in 2024. Non-Muslims are prohibited from entering.
+
+The Saudi government adopted Makkah as the official spelling in the 1980s. Its etymology is obscure; a traditional derivation is from the Old South Arabian root M-K-R-B, "temple." Many Muslim rulers sought to control the city, which was most recently conquered by [[Ibn Saud]] and his allies in 1925. It has since expanded greatly, notably with The Clock Towers, described as the world's fourth-tallest building. The government has demolished several historical structures, such as the Ajyad Fortress, though many demolitions were officially part of expanding the Masjid al-Haram to accommodate pilgrims. A municipal council of 14 locally elected members, headed by an appointed mayor, governs the city.
+
+=== KEY: Mechanic_64eb66
+HEADWORD: Mechanic = 정비공
+LEVEL: 5
+GLOSSARY:
+  Handicraft = 수공예
+  Industrial Revolution = 산업 혁명
+  Machine = 기계
+  Mechanics = 역학
+  Tool = 도구
+  Vehicle = 차량
+  apprenticeship = 도제
+ENTRY:
+Skilled tradesperson who uses [[Tool|tools]] to build, maintain, repair and improve [[Machine|machinery]], especially [[Vehicle|vehicles]]. The term once referred to any [[Handicraft|handicraft]] trade but has meant machinery work since the early 20th century. Mechanics work in automotive, aeronautical, maritime, mining, military and many other fields, inspecting equipment, diagnosing faults and replacing components. Training combines practical experience with apprenticeship, vocational education or certification. The profession grew rapidly during the [[Industrial Revolution]].
+
+=== KEY: Mechanical_engineering_8c7ebd
+HEADWORD: Mechanical engineering = 기계 공학
+LEVEL: 3
+GLOSSARY:
+  Al-Jazari = 알자자리
+  Archimedes = 아르키메데스
+  Christiaan Huygens = 크리스티안 하위헌스
+  Engineering = 공학
+  England = 잉글랜드
+  Europe = 유럽
+  Germany = 독일
+  Industrial Revolution = 산업 혁명
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Materials science = 재료 과학
+  Mechanics = 역학
+  Mesopotamia = 메소포타미아
+  Near East = 근동
+  Newton = 뉴턴
+  Persian = 페르시아어
+  Persian Empire = 페르시아 제국
+  Scotland = 스코틀랜드
+  Su Song = 소송
+  Thermodynamics = 열역학
+  Water = 물
+  Water wheels = 수차
+  analysis = 해석학
+  astronomical clock = 천문 시계
+  computer-aided design = 컴퓨터 지원 설계
+  dynamics = 동역학
+  engineering physics = 공학 물리
+  escapement = 탈진기
+  inclined plane = 빗면
+  laws of motion = 운동 법칙
+  lever = 지레
+  machine tools = 공작 기계
+  materials science = 재료과학
+  mechatronics = 메카트로닉스
+  pendulum clock = 진자시계
+  product lifecycle management = 제품 수명 주기 관리
+  shadoof = 샤두프
+  structural analysis = 구조 해석
+  wedge = 쐐기
+ENTRY:
+Engineering discipline concerned with the design, analysis, manufacture, and operation of mechanical systems. It combines engineering physics and mathematics with [[Materials science|materials science]] to develop and improve machines, structures, manufacturing processes, and fluid, thermal, and energy systems. Core areas include [[Mechanics|mechanics]], dynamics, [[Thermodynamics|thermodynamics]], design, and structural analysis. Engineers use computer-aided design, manufacturing, and engineering (CAD, CAM, CAE) and product lifecycle management for industrial equipment, heating and cooling systems, motor vehicles, aircraft, robotics, and medical devices.
+
+The field emerged during the [[Industrial Revolution]] in Europe in the 18th century, but its development can be traced back several thousand years. The wedge and inclined plane were known since prehistoric times, the lever appeared around 5,000 years ago in the Near East, and the shadoof, the first crane, in Mesopotamia c. 3000 BC. Water wheels and watermills appeared in the Persian Empire by the early 4th century BC. [[Archimedes]] (287–212 BC) influenced mechanics in the Western tradition. [[Su Song]] (1020–1101 AD) incorporated an escapement into his astronomical clock tower two centuries before escapements appeared in European clocks. Al-Jazari wrote his book on ingenious mechanical devices in 1206.
+
+In the 17th century, [[Christiaan Huygens]] invented the pendulum clock in 1657, the first reliable timekeeper for almost 300 years, and [[Isaac Newton]] formulated his laws of motion and developed calculus. In the early 19th century, machine tools developed in England, Germany, and Scotland allowed mechanical engineering to become a separate field. It overlaps with aerospace, civil, electrical, chemical, and industrial engineering, and today's engineers pursue composites, mechatronics, and nanotechnology.
+
+=== KEY: Mechanics_b79f74
+HEADWORD: Mechanics = 역학
+LEVEL: 4
+GLOSSARY:
+  Aristotelian = 아리스토텔레스적
+  Aristotelian mechanics = 아리스토텔레스 역학
+  Branch = 브랜치
+  Christiaan Huygens = 크리스티안 하위헌스
+  Classical mechanics = 고전 역학
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Greece = 그리스
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Johannes Kepler = 요하네스 케플러
+  Kepler = 케플러
+  Newton = 뉴턴
+  Physics = 물리학
+  Quantum mechanics = 양자역학
+  Relativistic mechanics = 상대론적 역학
+  ancient Greece = 고대 그리스
+  classical mechanics = 고전 역학
+  quantum mechanics = 양자역학
+ENTRY:
+Branch of [[Physics|physics]] concerned with the relationships between force, matter and motion among physical objects. Forces may cause displacements, which are changes in an object's position relative to its environment. Theoretical work on the subject began in ancient Greece, where philosophers were among the first to propose that abstract principles govern nature, and the main theory of mechanics in antiquity was Aristotelian mechanics. A parallel tradition used mathematics more extensively to analyze bodies statically or dynamically. Early modern scientists, including [[Galileo Galilei]], Johannes Kepler, Christiaan Huygens and [[Isaac Newton]], laid the foundation for [[Classical mechanics|classical mechanics]]. In the 20th century, new discoveries challenged these concepts and led to [[Relativistic mechanics|relativistic mechanics]] and [[Quantum mechanics|quantum mechanics]].

@@ -1,0 +1,896 @@
+=== KEY: Imaginary_unit_217941
+HEADWORD: Imaginary unit = 허수 단위
+LEVEL: 4
+GLOSSARY:
+  Complex number = 복소수
+  Descartes = 데카르트
+  Electrical engineering = 전기 공학
+  Euler = 오일러
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Leonhard Euler = 레온하르트 오일러
+  Newton = 뉴턴
+  René Descartes = 르네 데카르트
+  additive inverses = 덧셈 역원
+  complex numbers = 복소수
+  electrical engineering = 전기공학
+  real numbers = 실수
+ENTRY:
+Mathematical constant that solves the equation *x*² = −1, usually denoted *i*. Its two square roots, *i* and −*i*, are additive inverses of each other. The powers of *i* cycle through 1, *i*, −1 and −*i*. Historically denoted by the square root of −1, the symbol is now rare. Because *i* denotes electric current, [[Electrical engineering|electrical engineering]] normally writes the unit as *j*. The name imaginary is generally credited to [[René Descartes]], and [[Isaac Newton]] used the term as early as 1670. The *i* notation was introduced by [[Leonhard Euler]]. Combined with real numbers, the unit forms the [[Complex number|complex numbers]] of the form *a* + *bi*.
+
+=== KEY: Imagination_97a731
+HEADWORD: Imagination = 상상력
+LEVEL: 3
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Aristotle = 아리스토텔레스
+  Chaucer = 초서
+  De Anima = 『영혼에 관하여』
+  Drawing = 인발
+  Fairy tale = 동화
+  Imagination = 상상력
+  Latin = 라틴어
+  Memory = 기억
+  Middle Ages = 중세
+  Parkinson's = 파킨슨병
+  Parkinson's disease = 파킨슨병
+  Plato = 플라톤
+  REM sleep = 렘수면
+  Science fiction = 과학 소설
+  The Man of Law's Tale = 「법률가의 이야기」
+  common sense = 공통 감각
+  episodic = 일화 기억
+  episodic memory = 일화 기억
+  faculty psychology = 능력 심리학
+  imaginatio = 이마기나티오
+  lateral prefrontal cortex = 외측 전전두피질
+  mental imagery = 심상
+  mental rotation = 심적 회전
+  phantasia = 판타시아
+  prefrontal cortex = 전전두엽 피질
+  science fiction = 과학 소설
+  semantic = 의미 기억
+ENTRY:
+Capacity to represent sensations or physical objects in the mind without any immediate input of the senses.
+
+It is often described as forming pictures in the mind and is commonly equated with mental imagery, though imaginary experiences can also include other sensory experiences, thoughts, and emotions. Imaginings may re-create past experiences, with or without changes, or be completely invented. Imagination helps apply knowledge to solve problems and is fundamental to integrating experience and to learning. Drawing on actual perceptions, it engages both semantic and episodic [[Memory|memory]] to generate new or refined ideas. Children exercise it through pretend play, and it can be trained through storytelling in forms such as [[Fairy tale|fairy tales]] and [[Science fiction|science fiction]].
+
+The English word derives from the Latin *imaginatio*, the standard translation of the Greek *phantasia*. Ancient Greek philosophers conceived it as working with mental pictures. [[Aristotle]], in *De Anima*, identified it as a faculty that enables an image to occur within a person and distinguished it from perception and rational thinking. [[Plato]] compared imagination about the future to a painter within the soul, an illustrator rather than a creator. In the Middle Ages the concept covered religion, literature, art, and above all poetry, and Chaucer wrote of the "mind's eye" in *The Man of Law's Tale* (c. 1390). Medieval faculty psychology treated it as an internal sense, alongside memory and common sense, that receives images, organizes them, and passes them to the reasoning faculties.
+
+Psychologists distinguish reproductive from constructive imagination. Constructive imagination divides into voluntary forms driven by the lateral prefrontal cortex, such as mental rotation, and involuntary forms such as REM sleep dreaming, daydreaming, hallucinations, and spontaneous insight. Clinicians use visual imagery in treating anxiety disorders, depression, schizophrenia, and Parkinson's disease.
+
+=== KEY: Imago_09acb0
+HEADWORD: Imago = 성충
+LEVEL: 4
+GLOSSARY:
+  Ephemeroptera = 하루살이목
+  Latin = 라틴어
+  Mayflies = 하루살이
+  Metamorphosis = 변태
+  Pupa = 번데기
+  incomplete metamorphosis = 불완전 변태
+  nymphal = 약충
+  pupal stage = 번데기 단계
+  subimago = 아성충
+ENTRY:
+Last stage of an insect's [[Metamorphosis|metamorphosis]], the sexually mature adult. The word derives from the [[Latin]] for *image*. It follows the final molt. In species with incomplete metamorphosis it follows the last nymphal stage; in species with a [[Pupa|pupal]] stage it follows emergence from the pupa. The imago is the only stage at which the insect is sexually mature, and in winged species the only stage with functional wings. Mayflies (Ephemeroptera) lack a pupal stage and pass through an intermediate winged stage, the subimago. Entomologists use the Latin plural *imagines*, although *imagoes* is also acceptable.
+
+=== KEY: Imam_9fc6b0
+HEADWORD: Imam = 이맘
+LEVEL: 4
+GLOSSARY:
+  Ahl al-Bayt = 아흘 알바이트
+  Day of Resurrection = 부활의 날
+  Fourteen Infallibles = 14무류자
+  Islam = 이슬람교
+  Mahdi = 마흐디
+  Muhammad = 무함마드
+  Prophet = 예언자
+  Prophet Muhammad = 예언자 무함마드
+  Shia = 시아파
+  Shia Islam = 시아파
+  Sunni = 수니파
+  Sunni Islam = 수니파
+  Twelver = 열두 이맘파
+  Twelver Shia = 12이맘파
+  Yemen = 예멘
+  Zaidi imams = 자이드파 이맘
+  schools of jurisprudence = 법학파
+ENTRY:
+Leader of congregational prayer in [[Islam]]. In Sunni Islam, an imam is anyone charged with leading formal prayers, including outside mosques whenever two or more people pray; the role is not hereditary or divinely appointed. Women may lead only when no men are present. The title is also an honorary term for scholarly authorities, especially jurists and the founders of the four Sunni schools of jurisprudence. In [[Shia Islam]], imams are infallible leaders after the [[Muhammad|Prophet Muhammad]], and the term applies only to members of the Ahl al-Bayt, his family. Twelver Shia recognize twelve imams among the Fourteen Infallibles and believe that the last, the Mahdi, will emerge on the Day of Resurrection. The title was also used by the Zaidi imams of [[Yemen]].
+
+=== KEY: Iman_model_2fe526
+HEADWORD: Iman = 이만
+LEVEL: 5
+GLOSSARY:
+  Beard = 턱수염
+  Calvin = 칼뱅
+  Calvin Klein = 캘빈 클라인
+  David Bowie = 데이비드 보위
+  Donna = 「도나」
+  Donna Karan = 다너 캐런
+  Gianni Versace = 잔니 베르사체
+  Klein = 클라인
+  Mogadishu = 모가디슈
+  Nairobi = 나이로비
+  Peter = 베드로
+  Peter Beard = 피터 비어드
+  Saint = 성인
+  Spencer = 「스펜서」
+  Spencer Haywood = 스펜서 헤이우드
+  Thierry Mugler = 티에리 뮈글레르
+  University = 대학
+  University of Nairobi = 나이로비 대학교
+  Vogue = 『보그』
+  Vogue (magazine) = 『보그』
+  Yves Saint Laurent = 이브 생로랑
+  Yves Saint Laurent (designer) = 이브 생로랑
+ENTRY:
+Somali-born American model and actress. Born in Mogadishu, she was discovered by photographer Peter Beard while studying at the University of Nairobi, and her first assignment for [[Vogue (magazine)|Vogue]] came in 1976. A muse of designers including [[Calvin Klein]], Gianni Versace, Thierry Mugler, Donna Karan and [[Yves Saint Laurent (designer)|Yves Saint Laurent]], she became one of the world's most iconic models and is noted for philanthropic work. She was married to basketball player Spencer Haywood from 1977 to 1987, and to musician David Bowie from 1992 until his death in 2016.
+
+=== KEY: Imhotep_81ff34
+HEADWORD: Imhotep = 임호테프
+LEVEL: 4
+GLOSSARY:
+  3rd Dynasty = 제3왕조
+  Djoser = 조세르
+  Dynasty = 「다이너스티」
+  Egyptologists = 이집트학자
+  Heliopolis = 헬리오폴리스
+  Imhotep = 임호테프
+  Memphis = 멤피스
+  Ra = 라
+  Saqqara = 사카라
+  Thoth = 토트
+  high priest = 대제사장
+  step pyramid = 계단식 피라미드
+ENTRY:
+Egyptian chancellor to King Djoser and possible architect of his step pyramid, later deified. Imhotep was also high priest of the sun god [[Ra]] at Heliopolis. Little is known of him as a historical figure, but in the 3,000 years after his death he was glorified as a writer of wisdom texts and especially as a physician. Two contemporary inscriptions confirm that he served as chancellor. Egyptologists credit him with designing the stepped pyramid at Saqqara, built in the 3rd Dynasty, although pharaonic Egyptians never credited him with it. He was among fewer than a dozen non-royal Egyptians deified after death. Equated with [[Thoth]], god of architecture, mathematics and medicine, he was venerated as a god of healing, with his cult centered in Memphis. The location of his tomb remains unknown.
+
+=== KEY: Imjin_War_a0b7c8
+HEADWORD: Imjin War = 임진왜란
+LEVEL: 4
+GLOSSARY:
+  Battle of Noryang = 노량 해전
+  China = 중국
+  Chŏngyu War = 정유재란
+  Hideyoshi = 히데요시
+  Japan = 일본
+  Japanese invasions = 왜란
+  Japanese invasions of Korea = 임진왜란
+  Joseon = 조선
+  Joseon Navy = 조선 수군
+  Korea = 한국
+  Ming = 명나라
+  Ming China = 명나라
+  Navy = 해군
+  Peace = 평화
+  Toyotomi Hideyoshi = 도요토미 히데요시
+  civilian militias = 의병
+  guerrilla warfare = 게릴라전
+ENTRY:
+Series of two Japanese invasions of [[Korea]], 1592–1598. The invasions were launched by [[Toyotomi Hideyoshi]] to conquer Korea, and Japan quickly occupied much of the country. Reinforcements from Ming China and the disruption of Japanese supply fleets by the [[Joseon]] Navy forced the Japanese to withdraw from the northern provinces. Joseon civilian militias then waged guerrilla warfare, and a stalemate followed. After a truce in 1596, Japan invaded again in 1597 in a campaign called the Chŏngyu War, and both sides were locked in a ten-month stalemate. Hideyoshi's death and the Japanese defeat at the naval Battle of Noryang ended the war. Peace negotiations followed for several years, ultimately normalizing relations.
+
+=== KEY: Immanuel_Kant_27791f
+HEADWORD: Kant, Immanuel = 칸트, 이마누엘
+LEVEL: 3
+GLOSSARY:
+  Copernican Revolution = 코페르니쿠스 혁명
+  Critique of Judgment = 『판단력비판』
+  Critique of Practical Reason = 『실천이성비판』
+  Critique of Pure Reason = 『순수이성비판』
+  Emanuel Kant = 에마누엘 칸트
+  Enlightenment = 계몽주의
+  German = 독일어
+  Groundwork of the Metaphysics of Morals = 『도덕형이상학 정초』
+  Hebrew = 히브리어
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Kant = 칸트
+  Kingdom of Prussia = 프로이센 왕국
+  Königsberg = 쾨니히스베르크
+  Lutheran = 루터교
+  Martin Knutzen = 마르틴 크누첸
+  Metaphysics = 형이상학
+  Newton = 뉴턴
+  Pietist = 경건주의
+  Prussia = 프로이센
+  Pure = 「퓨어」
+  Reason = 이성
+  Solar System = 태양계
+  Tidal locking = 조석 고정
+  University = 대학
+  University of Königsberg = 쾨니히스베르크 대학교
+  categorical imperative = 정언 명령
+  forms of intuition = 직관 형식
+  perpetual peace = 영구 평화
+  things in themselves = 물자체
+  transcendental idealism = 초월적 관념론
+ENTRY:
+German philosopher, a central thinker of the Enlightenment.
+
+Born Emanuel Kant in [[Königsberg]] in the [[Kingdom of Prussia]], into a Lutheran family that stressed Pietist values, he changed the spelling of his name after learning Hebrew. He enrolled at the University of Königsberg at age 16 and studied under Martin Knutzen, who introduced him to the physics of [[Isaac Newton]]. After his father's death in 1746 he worked as a private tutor, publishing his first philosophical work in 1749. In 1754 he argued that the Moon's gravity would slow the Earth's spin and eventually produce [[Tidal locking|tidal locking]]; the next year he extended this reasoning to the formation of the [[Solar System]]. He later lived so orderly a life that neighbors were said to set their watches by his daily walks.
+
+Kant's philosophy centers on the human subject and aims to secure the possibility of both knowledge and morality against skepticism and determinism. In the [[Critique of Pure Reason]] (1781/1787) he argued for transcendental idealism: space and time are "forms of intuition" that structure all experience, and knowledge extends only to appearances, not to things in themselves. He likened this reversal, in which objects conform to the mind's forms and categories, to the Copernican Revolution. In ethics, set out in the *Groundwork of the Metaphysics of Morals* (1785) and the *Critique of Practical Reason* (1788), he held that reason is the source of morality and that the categorical imperative binds all rational agents. The *Critique of Judgment* (1790) treated aesthetics as arising from a faculty of disinterested judgment. He hoped perpetual peace could be secured through an international federation of republican states, and held that true religion is grounded on morality, though the exact nature of his religious views is disputed.
+
+=== KEY: Immigration_b306b6
+HEADWORD: Immigration = 이민
+LEVEL: 4
+GLOSSARY:
+  Discrimination = 차별
+  Research = 연구
+  United States = 미국
+ENTRY:
+International movement of people to a destination country in which they settle as permanent residents. Commuters, tourists and other short-term visitors are generally excluded from the definition, though a visitor who overstays a visa may become an immigrant. Research suggests that migration can be beneficial to both receiving and sending countries, and the academic literature gives mixed findings on immigration and crime. Immigrants assimilate considerably, although country of origin affects the speed and depth of assimilation. Discrimination based on nationality is legal in most countries, and extensive evidence has found discrimination against foreign-born people in criminal justice, business, housing, health care and politics. As of 2015, international migrants numbered 244 million, a 41% increase since 2000, and the [[United States]] hosted the largest number, 19% of the world's total.
+
+=== KEY: Immune_system_56f8e8
+HEADWORD: Immune system = 면역계
+LEVEL: 3
+GLOSSARY:
+  AIDS = 에이즈
+  Autoimmunity = 자가 면역
+  Bacteria = 세균
+  Commensal flora = 공생 세균총
+  Immunodeficiency = 면역 결핍
+  Immunology = 면역학
+  Network = 「네트워크」
+  Physical = 「Physical」
+  RNA interference = RNA 간섭
+  adaptive immune system = 적응 면역계
+  antigens = 항원
+  antimicrobial peptides = 항균 펩타이드
+  complement system = 보체계
+  cuticle = 큐티클
+  defensins = 디펜신
+  exoskeleton = 외골격
+  gastric acid = 위산
+  genetic disease = 유전 질환
+  immunological memory = 면역 기억
+  innate immune system = 선천 면역계
+  innate response = 선천 면역 반응
+  lysozyme = 리소자임
+  pathogens = 병원체
+  phagocytosis = 식세포 작용
+  rheumatoid arthritis = 류머티즘 관절염
+  systemic lupus erythematosus = 전신 홍반 루푸스
+  type 1 diabetes = 제1형 당뇨병
+ENTRY:
+Network of biological systems that protects an organism from disease.
+
+It detects and responds to a wide variety of pathogens, including viruses, bacteria, and parasites, as well as cancer cells and foreign objects, distinguishing them from the organism's own healthy tissue. All responses depend on telling self from non-self molecules; antigens are non-self substances that bind to specific immune receptors and elicit a response. Nearly all organisms have some form of immune system. Bacteria have a rudimentary one, in the form of enzymes that protect against viral infection. Ancient mechanisms including phagocytosis, antimicrobial peptides called defensins, RNA interference, and the complement system remain in the modern descendants of early plants and animals.
+
+Defense is layered, with increasing specificity. Physical barriers such as skin, the insect exoskeleton, and the waxy leaf cuticle come first, supported by coughing, sneezing, tears, and mucus. Chemical barriers include antimicrobial peptides, enzymes such as lysozyme in saliva and tears, and gastric acid in the stomach. Commensal flora act as biological barriers by competing with pathogenic bacteria for food and space. A pathogen that gets past these meets the innate immune system, found in all animals, which gives an immediate but non-specific response and confers no long-lasting immunity. Vertebrates also have an adaptive immune system, activated by the innate response, which tailors its response to each stimulus and retains it as immunological memory, allowing faster and stronger attacks on repeat encounters. This mechanism is the basis of vaccination.
+
+Dysfunction causes disease. Immunodeficiency, an underactive system, leads to recurring and life-threatening infections and can result from genetic disease, acquired conditions such as HIV/AIDS, or immunosuppressive medication. Autoimmunity, in which a hyperactive system attacks normal tissue, underlies rheumatoid arthritis, type 1 diabetes, and systemic lupus erythematosus. [[Immunology]] is the study of the system.
+
+=== KEY: Immunology_ceb4fd
+HEADWORD: Immunology = 면역학
+LEVEL: 4
+GLOSSARY:
+  Antibody = 항체
+  Athens = 아테네
+  B lymphocytes = B 림프구
+  Branch = 브랜치
+  Cancer = 암
+  Ilya Ilyich Mechnikov = 일리야 일리치 메치니코프
+  Nobel Prize = 노벨상
+  Paul = 바울로
+  Paul Ehrlich = 파울 에를리히
+  Russian = 러시아어
+  Thucydides = 투키디데스
+  autoimmune diseases = 자가 면역 질환
+  cell-mediated = 세포 매개성
+  humoral = 체액성
+  hypersensitivities = 과민증
+  innate immunity = 선천 면역
+  oncology = 종양학
+  pathogens = 병원체
+  phagocytosis = 식세포 작용
+  plague of Athens = 아테네 역병
+  rheumatology = 류머티즘학
+  transplant rejection = 이식 거부 반응
+ENTRY:
+Branch of biology and medicine that studies immune systems in all organisms. It charts the functioning of the immune system in health and disease, including autoimmune diseases, hypersensitivities, immune deficiency and transplant rejection. The term was coined by the Russian biologist Ilya Ilyich Mechnikov, who first observed phagocytosis and shared the 1908 [[Nobel Prize|Nobel Prize]] with Paul Ehrlich. The earliest written mention of immunity dates to the plague of Athens in 430 BC, recorded by [[Thucydides]]. The immune system is divided into innate immunity and, in vertebrates, adaptive immunity, which has humoral (antibody) and cell-mediated components. [[Antibody|Antibodies]] are proteins released by B lymphocytes that identify targets for destruction rather than killing pathogens directly. The field has applications in organ transplantation, [[Cancer|oncology]], rheumatology, virology and dermatology.
+
+=== KEY: Impact_crater_60a6d1
+HEADWORD: Impact crater = 충돌 크레이터
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Erosion = 침식
+  Mercury (planet) = 수성
+  Meteor Crater = 미티어 크레이터
+  Moon = 달
+  impact basins = 충돌 분지
+ENTRY:
+Depression in the surface of a solid astronomical body, formed by the hypervelocity impact of a smaller object. Unlike volcanic craters, impact craters typically have raised rims and floors lower than the surrounding terrain. They range from microscopic pits on lunar rocks to vast, multi-ringed impact basins. Impact craters dominate the surfaces of the [[Moon]], [[Mercury (planet)|Mercury]] and most small moons and asteroids. On [[Earth]], [[Erosion|erosion]] and other processes destroy most of the record, and about 190 terrestrial impact craters have been identified. Earth experiences, on average, one to three impacts large enough to produce a 20-kilometer-diameter crater every million years. Meteor Crater is a well-known small example. The cratering records of old surfaces show an intense early bombardment about 3.9 billion years ago.
+
+=== KEY: Impact_event_2f402a
+HEADWORD: Impact event = 충돌 사건
+LEVEL: 4
+GLOSSARY:
+  Asteroid = 소행성
+  Chicxulub = 칙술루브
+  Chicxulub impact = 칙술루브 충돌
+  Comet = 혜성
+  Comet Shoemaker–Levy 9 = 슈메이커-레비 9 혜성
+  Cretaceous = 백악기
+  Cretaceous–Paleogene extinction event = 백악기-팔레오기 대멸종
+  Double Asteroid Redirection Test = 쌍소행성 궤도 수정 실험
+  Earth = 지구
+  Jupiter = 목성
+  Paleogene = 팔레오기
+  Russia = 러시아
+  Siberia = 시베리아
+  Terrestrial planet = 지구형 행성
+  Test = 테스트 매치
+  Tunguska event = 퉁구스카 대폭발
+  escape velocity = 탈출 속도
+  orbital period = 공전 주기
+  terrestrial planets = 지구형 행성
+ENTRY:
+Collision between astronomical objects, causing measurable effects. Most impacts involve [[Asteroid|asteroids]], comets or meteoroids and have minimal effect. Large impacts on [[Terrestrial planet|terrestrial planets]] can have significant consequences; the minimum speed for a body striking [[Earth]] is 11.2 km/s, Earth's escape velocity. The prehistoric Chicxulub impact, 66 million years ago, is believed to have caused the [[Cretaceous–Paleogene extinction event|Cretaceous–Paleogene extinction]]. The 1908 [[Tunguska event]] occurred in a sparsely populated part of [[Siberia]], Russia. [[Comet Shoemaker–Levy 9]] provided the first direct observation of an extraterrestrial collision when it struck [[Jupiter]] in July 1994. In a 2022 test, the Double Asteroid Redirection Test changed the target's orbital period by 32 minutes, against a success criterion of more than 73 seconds.
+
+=== KEY: Impala_8fc20d
+HEADWORD: Impala = 임팔라
+LEVEL: 4
+GLOSSARY:
+  Aepyceros = 임팔라속
+  Angola = 앙골라
+  Antelope = 영양
+  Kaokoland = 카오코랜드
+  Namibia = 나미비아
+  least concern = 최소관심
+  rut = 발정기
+  southern Africa = 남아프리카
+  vulnerable = 취약
+ENTRY:
+Medium-sized [[Antelope|antelope]] of eastern and southern Africa. It is the only living member of the genus *Aepyceros*. It stands 70–92 cm (28–36 in) at the shoulder and weighs 40–65 kg, with a glossy, reddish-brown coat. Only males have slender, lyre-shaped horns, 45–92 cm long. Active mainly by day, impalas form territorial males, bachelor herds and female herds, and are known for two characteristic leaps used as an anti-predator strategy. Their annual rut takes place toward the end of the wet season, typically in May, and gestation lasts six to seven months. The black-faced subspecies is confined to southwestern Angola and Kaokoland in Namibia and is classified as vulnerable, with fewer than 1,000 individuals in the wild as of 2008; the common impala is classified as least concern.
+
+=== KEY: Impartiality_12545c
+HEADWORD: Impartiality = 불편부당성
+LEVEL: 4
+GLOSSARY:
+  Adam = 아담
+  Adam Smith = 애덤 스미스
+  Bias = 편향
+  David Hume = 데이비드 흄
+  Hume = 흄
+  John = 존
+  John Rawls = 존 롤스
+  Justice = 정의
+  Kantian ethics = 칸트 윤리학
+  Prejudice = 편견
+  Utilitarianism = 공리주의
+  contractualism = 계약주의
+  impartial spectator = 공정한 관찰자
+  point of view = 시점
+  public administration = 행정학
+  veil of ignorance = 무지의 베일
+ENTRY:
+Principle of [[Justice|justice]] holding that decisions should rest on objective criteria, not [[Bias|bias]] or [[Prejudice|prejudice]]. In philosophy, impartiality is a formal property of choices: a choice is impartial when considerations such as who benefits or is harmed have no influence on it. Many moral theories, including [[Utilitarianism]], Kantian ethics and contractualism, treat the impartial point of view as the standpoint from which moral questions are judged. [[David Hume]] held that moral judgments are made from a "common point of view". [[Adam Smith]] described an impartial spectator, and [[John Rawls]] asked which principles rational agents would choose behind a "veil of ignorance". Critics argue that strict impartiality leaves no room for the special concern people show for family and friends, a disagreement known as the partialist–impartialist debate. Impartiality is also a legal standard for courts and public administration.
+
+=== KEY: Impatiens_4f42ee
+HEADWORD: Impatiens = 물봉선속
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Balsaminaceae = 봉선화과
+  Erosion = 침식
+  Europe = 유럽
+  Flowering plant = 속씨식물
+  Genus = 속
+  Himalayan = 히말라야
+  Himalayan balsam = 히말라야물봉선
+  Himalayas = 히말라야산맥
+  Impatiens noli-tangere = 노랑물봉선
+  Latin = 라틴어
+  Madagascar = 마다가스카르
+  Northern Hemisphere = 북반구
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  Tropics = 열대
+  Western Ghats = 서고츠산맥
+  busy lizzie = 임파티엔스
+  dehiscence = 열개
+  flowering plants = 속씨식물
+  touch-me-not = 노랑물봉선
+ENTRY:
+Genus of more than 1,000 species of [[Flowering plant|flowering plants]] in the family Balsaminaceae, widely distributed throughout the [[Northern Hemisphere]] and the [[Tropics|tropics]]. Most species are herbaceous annuals or perennials with succulent stems, from five centimeters to 2.5 meters tall. The scientific name, Latin for "impatient," and the common name "touch-me-not" refer to the explosive dehiscence of the seed capsules, which scatter seeds up to several meters away. Most species grow in tropical and subtropical mountain forests of Africa, Madagascar, the Himalayas, the [[Western Ghats]] and Southeast Asia. Europe has only one native species, *Impatiens noli-tangere*. Himalayan balsam (*I. glandulifera*) is an invasive weed that displaces smaller plants along riverbanks, increasing [[Erosion|erosion]]. The genus ranks among the top three bedding plant genera, and busy lizzie (*I. walleriana*) is widely cultivated.
+
+=== KEY: Impeachment_a8067d
+HEADWORD: Impeachment = 탄핵
+LEVEL: 5
+GLOSSARY:
+  Constitution = 헌법
+  House of Representatives = 하원
+  Impeachment = 탄핵
+  Senate = 상원
+  U.S. Constitution = 미국 헌법
+  United States = 미국
+  no-confidence motion = 불신임 동의
+  the Senate = 상원
+ENTRY:
+Procedure by which a legislative body or other tribunal initiates charges against a public official for misconduct. It is usually reserved for serious abuses of office and generally requires a supermajority. From 1990 to 2020 there were at least 272 impeachment charges against 132 heads of state in 63 countries. Most democracies involve the courts in the process, but the [[United States]] is a notable exception. Under the U.S. Constitution the House of Representatives has the sole power to impeach and the Senate the sole power to try impeachments. Impeachment differs from a no-confidence motion, which can remove a government and its ministers from office.
+
+=== KEY: Imperial_House_of_Japan_c4446e
+HEADWORD: Imperial House of Japan = 일본 황실
+LEVEL: 5
+GLOSSARY:
+  Akihito = 아키히토
+  Emperor Jimmu = 진무 천황
+  Japan = 일본
+  Kinmei = 긴메이 천황
+  Monarchy = 군주제
+  Naruhito = 나루히토
+  symbol of the State = 국가의 상징
+ENTRY:
+Reigning dynasty of Japan, made up of members of the emperor's extended family who undertake official duties. The imperial house recognizes 126 monarchs, beginning with Emperor Jimmu, traditionally dated to 660 BC but considered mythical. Verifiable emperors begin with Kinmei in 539. The current emperor, [[Naruhito]], succeeded his father, [[Akihito]], in 2019. Under the 1947 constitution the emperor is "the symbol of the State and of the unity of the people" with no role in government. The Japanese [[Monarchy|monarchy]] is the oldest continuous hereditary monarchy in the world.
+
+=== KEY: Imperial_units_9abae5
+HEADWORD: Imperial units = 영국 단위계
+LEVEL: 4
+GLOSSARY:
+  British Empire = 대영 제국
+  Canada = 캐나다
+  English units = 잉글랜드 단위계
+  Imperial units = 영국 단위계
+  Metric system = 미터법
+  United Kingdom = 영국
+  United States = 미국
+  Weights and Measures Act 1824 = 1824년 도량형법
+  Weights and Measures Act 1985 = 1985년 도량형법
+  Winchester = 윈체스터
+  Winchester Standards = 윈체스터 표준
+  customary units of the United States = 미국 단위계
+  imperial gallon = 영국 갤런
+  metric system = 미터법
+ENTRY:
+System of measurement first defined in the British Weights and Measures Act 1824. It developed from earlier English units, replacing the Winchester Standards (in effect 1588 to 1825), and came into official use across the [[British Empire]] in 1826. The 1824 act gave the imperial gallon as 277.274 cubic inches (4.54371 liters); the Weights and Measures Act 1985 defined it as exactly 4.54609 liters. By the late 20th century most nations of the former empire had adopted the [[Metric system|metric system]] as their main system. Imperial units remain in use alongside metric units in the United Kingdom and in some other former imperial territories, notably Canada. The system is distinct from the related customary units of the United States.
+
+=== KEY: Imperialism_917e27
+HEADWORD: Imperialism = 제국주의
+LEVEL: 3
+GLOSSARY:
+  Age of Imperialism = 제국주의 시대
+  British Empire = 대영 제국
+  Colonialism = 식민주의
+  Edward Said = 에드워드 사이드
+  Game = 게임
+  Great Game = 그레이트 게임
+  Hannah Arendt = 한나 아렌트
+  Hobson = 홉슨
+  Imperialism = 제국주의
+  Japan = 일본
+  John = 존
+  John Gallagher = 존 갤러거
+  Joseph Schumpeter = 조지프 슘페터
+  Kenneth Waltz = 케네스 월츠
+  Latin = 라틴어
+  Lenin = 레닌
+  Napoleon = 나폴레옹
+  Ottoman = 오스만
+  Ronald Robinson = 로널드 로빈슨
+  Russian = 러시아어
+  Scramble for Africa = 아프리카 분할
+  United States = 미국
+  Vladimir Lenin = 블라디미르 레닌
+  Waltz = 왈츠
+  World = 세계
+  World War I = 제1차 세계 대전
+  civilizing mission = 문명화 사명
+  hard power = 하드 파워
+  hegemony = 헤게모니
+  highest stage of capitalism = 자본주의의 최고 단계
+  imperium = 임페리움
+  soft power = 소프트 파워
+ENTRY:
+Maintaining and extending of power over foreign nations, particularly through expansionism, using both hard power (military and economic) and soft power (diplomatic and cultural).
+
+It aims at establishing or maintaining hegemony and a more formal empire. The word derives from the Latin *imperium*, "to command," and was coined in the 19th century to describe Napoleon III's attempts to gain political support by invasion. It was applied to the [[British Empire]] during the 1870s and by the 1880s had acquired a positive connotation in the West. Definitions have varied. Hannah Arendt and Joseph Schumpeter defined it as expansion for the sake of expansion. Hobson and, in 1917, [[Vladimir Lenin|Lenin]] called it the "highest stage of capitalism," as firms exported capital to dominate economically rather than territorially. In 1978 [[Edward Said]] used the term for domination and subordination between an imperial core and a periphery, including the cultural attitudes, such as a "civilizing" mission, that accompany it. Kenneth Waltz suggests its root cause is great power, since strength tempts its holders to exercise control.
+
+Scholars often distinguish it from [[Colonialism|colonialism]]. Said held that colonialism refers to settlements on a distant territory, while imperialism is the practice, theory, and attitudes of a dominating metropolitan center. Contiguous land empires such as the Russian, Chinese, and Ottoman have traditionally been called imperialist, although they also sent populations into remote territories.
+
+The "Age of Imperialism" refers to the period before [[World War I]], conventionally ending in 1914 and beginning anywhere between 1760 and 1870. In it, industrializing European nations, joined late in the 19th century by the United States and Japan, intensified colonizing and annexing other regions, as in the [[Scramble for Africa]] and the [[Great Game]]. In the 1970s John Gallagher and Ronald Robinson argued that informal control of independent areas mattered more than formal rule, summing it up as empire "informally if possible and formally if necessary."
+
+=== KEY: Impetigo_f01448
+HEADWORD: Impetigo = 농가진
+LEVEL: 5
+GLOSSARY:
+  Cefalexin = 세팔렉신
+  Latin = 라틴어
+  Staphylococcus aureus = 황색포도알균
+  Streptococcus pyogenes = 화농성 연쇄상구균
+  cellulitis = 연조직염
+  mupirocin = 무피로신
+  poststreptococcal glomerulonephritis = 연쇄상구균 감염 후 사구체신염
+ENTRY:
+Contagious bacterial infection of the superficial skin, usually caused by *Staphylococcus aureus* or *Streptococcus pyogenes*. Its most common form causes yellowish crusts on the face, arms or legs. It affected about 140 million people, 2% of the world population, in 2010, most often children aged two to five. Treatment is typically with antibiotic creams such as mupirocin, while [[Cefalexin|cefalexin]] is given by mouth for large areas. Without treatment most cases improve within three weeks. Complications may include cellulitis or poststreptococcal glomerulonephritis. The name is from the Latin *impetere*, "attack."
+
+=== KEY: Impossible_color_4af0d8
+HEADWORD: Impossible color = 불가능한 색
+LEVEL: 5
+GLOSSARY:
+  Color theory = 색채 이론
+  Opponent process theory = 반대색설
+  medium-wavelength cones = 중파장 원뿔세포
+ENTRY:
+Hue that cannot be perceived under ordinary viewing conditions. [[Color theory|Opponent process theory]] holds that the visual system encodes color in three opposing channels: red versus green, blue versus yellow, and black versus white. Because the medium-wavelength cones overlap the responses of the other cones, no light can excite them alone. In April 2025 a research group reported using a retinal scanner and a steerable laser to stimulate only these cones, producing a "hyper-green" greener than any physically possible green.
+
+=== KEY: Impressionism_97df89
+HEADWORD: Impressionism = 인상주의
+LEVEL: 4
+GLOSSARY:
+  Académie des Beaux-Arts = 아카데미 데 보자르
+  Camille = 「춘희」
+  Camille Pissarro = 카미유 피사로
+  Claude = 클로드
+  Claude Monet = 클로드 모네
+  Cubism = 입체주의
+  Edgar Degas = 에드가르 드가
+  Fauvism = 야수파
+  First Impressionist Exhibition = 제1회 인상파 전시회
+  Impressionism = 인상주의
+  Impressionist = 인상주의
+  Impressionists = 인상파
+  Louis Leroy = 루이 르루아
+  Paris = 파리
+  Pierre-Auguste Renoir = 피에르오귀스트 르누아르
+  Post-Impressionism = 후기 인상주의
+  en plein air = 외광
+  plein air = 외광 회화
+ENTRY:
+19th-century art movement begun in [[Paris]] in the 1870s and 1880s, characterized by visible brushstrokes, ordinary subjects and the depiction of changing light. Impressionists painted outdoors, or en plein air, and used short, broken strokes of unmixed color to capture momentary effects of light and atmosphere rather than detail. The name derives from [[Claude Monet]]'s *Impression, Sunrise*, which the critic Louis Leroy mocked in a satirical 1874 review of the First Impressionist Exhibition. Core members included [[Pierre-Auguste Renoir]], [[Camille Pissarro]] and Edgar Degas. Academic painting standards of the Académie des Beaux-Arts had favored finished, historical and religious subjects. Impressionism prefigured [[Post-Impressionism]], Fauvism and [[Cubism]].
+
+=== KEY: Improvisational_theatre_20eca1
+HEADWORD: Improvisational theater = 즉흥극
+LEVEL: 4
+GLOSSARY:
+  Applied improvisation = 응용 즉흥
+  Atellan Farce = 아텔라 소극
+  Chicago = 시카고
+  City = 도시
+  Commedia dell'arte = 코메디아 델라르테
+  Compass = 나침반
+  Italy = 이탈리아
+  Jacques = 자크 퀴리
+  Jacques Copeau = 자크 코포
+  Konstantin Stanislavski = 콘스탄틴 스타니슬랍스키
+  Psychotherapy = 심리 치료
+  Second = 초
+  Second City = 세컨드 시티
+  The Compass Players = 컴퍼스 플레이어스
+  The Second City = 세컨드 시티
+  Viola = 비올라
+  Viola Spolin = 비올라 스폴린
+ENTRY:
+Theatrical form, often comedic, in which most or all of the performance is unscripted and created spontaneously by the performers. The earliest well-documented Western use of improvisation is the Atellan Farce of 391 BC. From the 16th to the 18th centuries, [[Commedia dell'arte|commedia dell'arte]] performers improvised around broad outlines in Italy. In the 1890s [[Konstantin Stanislavski]] and Jacques Copeau made improvisation central to acting training. Viola Spolin developed improvisation games in the 1940s, '50s and '60s. Many current rules of comedic improv were formalized in [[Chicago]] in the late 1950s and early 1960s, at The Compass Players and The Second City. Applied improvisation is used in classrooms, businesses and sometimes [[Psychotherapy|psychotherapy]].
+
+=== KEY: Improvised_explosive_device_3f08ab
+HEADWORD: Improvised explosive device = 급조 폭발물
+LEVEL: 4
+GLOSSARY:
+  Artillery = 포병
+  Bomb = 폭탄
+  British Army = 영국 육군
+  IRA = IRA
+  Infrared = 적외선
+  Iraq = 이라크
+  Iraq War = 이라크 전쟁
+  Ireland = 아일랜드
+  Mobile phone = 휴대 전화
+  Northern Ireland = 북아일랜드
+  Northern Ireland conflict = 북아일랜드 분쟁
+  Toxic = 「Toxic」
+  artillery shells = 포탄
+  ball bearings = 볼 베어링
+  dirty bomb = 더티 밤
+  non-state actors = 비국가 행위자
+  special forces = 특수 부대
+  violent non-state actors = 폭력적 비국가 행위자
+ENTRY:
+[[Bomb]] constructed and deployed in ways other than conventional military action, often from homemade or scavenged parts. The term "IED" was coined by the British Army during the Northern Ireland conflict for booby traps made by the IRA and entered common use in the U.S. during the [[Iraq War]]. IEDs are used mainly by violent non-state actors such as guerrilla and terrorist groups, though state special forces also use them. They may combine military explosives, such as [[Artillery|artillery]] shells, with homemade explosives. Triggers include remote control, [[Infrared|infrared]] or magnetic sensors, pressure plates and trip wires. Antipersonnel devices often contain nails or ball bearings. Some builders use components from [[Mobile phone|mobile phones]], washing machine timers or garage door openers. Toxic chemical, biological or radioactive ("dirty bomb") material may be added.
+
+=== KEY: Impulse_physics_e8eb30
+HEADWORD: Impulse = 충격량
+LEVEL: 4
+GLOSSARY:
+  Momentum = 운동량
+  Rocket = 로켓
+  SI unit = SI 단위
+  Tsiolkovsky rocket equation = 치올콥스키 로켓 방정식
+  newton-second = 뉴턴초
+  rocket equation = 로켓 방정식
+  rocketry = 로켓 공학
+  specific impulse = 비추력
+  total impulse = 총역적
+  vector quantity = 벡터량
+ENTRY:
+Change in [[Momentum|momentum]] of an object, usually produced by a comparatively large force acting over a short time, as in an impact or collision. Impulse is a vector quantity with the same units as momentum. For a force acting over time, impulse is the integral of force with respect to time; for constant mass it equals the change in velocity multiplied by mass, J = Δp = mv₂ − mv₁. Its SI unit is the newton-second (N⋅s), equivalent to the kilogram-meter per second. Collisions are often idealized as instantaneous changes, a useful model in video game physics engines. In [[Rocket|rocketry]], "total impulse" is synonymous with impulse, and specific impulse, the impulse per unit mass of propellant, relates a vehicle's change in velocity through the Tsiolkovsky rocket equation.
+
+=== KEY: Imran_Khan_aa466d
+HEADWORD: Imran Khan = 임란 칸
+LEVEL: 5
+GLOSSARY:
+  Adiala Jail = 아디알라 교도소
+  Cricket = 크리켓
+  Cricket World Cup = 크리켓 월드컵
+  Pakistan = 파키스탄
+  Pakistan Tehreek-e-Insaf = 파키스탄 정의운동
+  Pakistani = 파키스탄
+  Rawalpindi = 라왈핀디
+  Shehbaz Sharif = 셰바즈 샤리프
+  World = 세계
+  World Cup = 월드컵
+  no-confidence motion = 불신임 동의
+ENTRY:
+Pakistani former cricketer and politician, prime minister of Pakistan from 2018 to 2022. He captained Pakistan to victory at the 1992 [[Cricket World Cup]]. He led the Pakistan Tehreek-e-Insaf (PTI) party from 1996 to 2023. In the 2018 general election he won all five constituencies he contested. He was the first Pakistani prime minister removed by a no-confidence motion, in April 2022. Sentenced to prison in January 2025 and again in December, he has been held in Adiala Jail in [[Rawalpindi]] since 2023. He says his imprisonment is politically motivated, a claim denied by the Shehbaz Sharif government and the post-2022 military establishment.
+
+=== KEY: Imre_Nagy_1941ac
+HEADWORD: Imre Nagy = 너지 임레
+LEVEL: 5
+GLOSSARY:
+  Hungarian = 헝가리어
+  Hungarian Revolution = 헝가리 혁명
+  Hungarian Revolution of 1956 = 1956년 헝가리 혁명
+  Hungary = 헝가리
+  Mátyás Rákosi = 라코시 마차시
+  Romania = 루마니아
+  Warsaw = 바르샤바
+  Warsaw Pact = 바르샤바 조약 기구
+ENTRY:
+Hungarian communist politician, prime minister in 1953–55 and leader of the [[Hungarian Revolution of 1956]]. He tried to relax the Stalinist policies of Mátyás Rákosi but was forced out in 1955. Reinstated as prime minister on October 24, 1956, he withdrew Hungary from the [[Warsaw Pact]] on November 1. Soviet forces invaded on November 4 and deposed him; he took refuge in the Yugoslav embassy until he was lured out on November 22 and deported to Romania. He was tried for treason, executed and buried in an unmarked grave. He was rehabilitated and reburied with full honors in June 1989.
+
+=== KEY: In_Flanders_Fields_0af9d8
+HEADWORD: In Flanders Fields = 플랑드르 들판에서
+LEVEL: 5
+GLOSSARY:
+  Alexis Helmer = 알렉시스 헬머
+  Canada = 캐나다
+  Canadian = 캐나다
+  Commonwealth = 영연방
+  Commonwealth of Nations = 영연방
+  John = 존
+  John McCrae = 존 매크레이
+  Punch = 『펀치』
+  Remembrance Day = 리멤브런스 데이
+  Second = 초
+  Second Battle of Ypres = 제2차 이프르 전투
+  World = 세계
+  World War I = 제1차 세계 대전
+  Ypres = 이프르
+  remembrance poppy = 추모 양귀비
+  rondeau = 롱도
+ENTRY:
+War poem in the form of a rondeau, written during [[World War I]] by Canadian physician John McCrae. McCrae wrote it on May 3, 1915, after presiding over the funeral of his friend Lieutenant Alexis Helmer, who died in the Second Battle of Ypres. It was first published on December 8, 1915, in the London magazine Punch. Its red poppies growing over soldiers' graves made the remembrance poppy one of the world's most recognized memorial symbols. The poem is a prominent [[Remembrance Day]] symbol across the [[Commonwealth of Nations]], especially in Canada.
+
+=== KEY: In_Search_of_Lost_Time_319c06
+HEADWORD: In Search of Lost Time = 잃어버린 시간을 찾아서
+LEVEL: 4
+GLOSSARY:
+  France = 프랑스
+  French = 프랑스어
+  Guinness = 기네스
+  Guinness World Record = 기네스 세계 기록
+  Marcel = 마르셀
+  Marcel Proust = 마르셀 프루스트
+  Prix Goncourt = 공쿠르상
+  Remembrance of Things Past = 『지나간 일들의 회상』
+  World = 세계
+  involuntary memory = 무의지적 기억
+ENTRY:
+Seven-volume novel by French author [[Marcel Proust]], published in France between 1913 and 1927. Known for its length and its theme of involuntary memory, it was translated into English as *Remembrance of Things Past*. The narrator recalls his childhood and adult life in late 19th- and early 20th-century high society. Proust worked on the novel from 1909 until his final illness in 1922. The last three of the seven volumes existed only in draft form, and his brother Robert oversaw their publication. The second volume won the 1919 Prix Goncourt. The novel influenced 20th-century literature, and it holds the Guinness World Record for longest novel.
+
+=== KEY: In_the_Mood_for_Love_4084f0
+HEADWORD: In the Mood for Love = 화양연화
+LEVEL: 5
+GLOSSARY:
+  2046 = 「2046」
+  Academy Awards = 아카데미상
+  Actor = 배우
+  Best Actor = 남우주연상
+  Best Actor award = 남우주연상
+  Best International Feature Film = 국제장편영화상
+  British Hong Kong = 영국령 홍콩
+  Cannes = 칸
+  Cannes Film Festival = 칸 영화제
+  Days of Being Wild = 「아비정전」
+  Festival = 축제
+  Film = 영화
+  Hong Kong = 홍콩
+  Maggie = 매기
+  Maggie Cheung = 장만위
+  Tony = 토니상
+  Tony Leung = 량차오웨이
+  Wong Kar-wai = 왕자웨이
+ENTRY:
+2000 romantic drama film by [[Wong Kar-wai]], set in 1962 [[British Hong Kong|British Hong Kong]]. Tony Leung and Maggie Cheung play neighbors who suspect their spouses of an affair. It is the second film in an informal trilogy, after *Days of Being Wild* (1990) and before *2046* (2004). Leung won the Best Actor award at the 53rd [[Cannes Film Festival]], becoming the first Hong Kong actor to receive it. The film was Hong Kong's submission for Best International Feature Film at the 73rd Academy Awards but was not nominated. It is often listed among the greatest films of all time.
+
+=== KEY: In_vitro_fertilisation_7d3381
+HEADWORD: In vitro fertilization = 체외 수정
+LEVEL: 5
+GLOSSARY:
+  Assisted reproductive technology = 보조 생식술
+  Brown = 브라운
+  England = 잉글랜드
+  Infertility = 불임
+  Latin = 라틴어
+  Louise Brown = 루이즈 브라운
+  Medicine = 의학
+  Nobel Prize = 노벨상
+  Nobel Prize in Physiology or Medicine = 노벨 생리학·의학상
+  Oldham = 올덤
+  Physiology = 생리학
+  Physiology or Medicine = 생리학·의학
+  Robert Edwards = 로버트 에드워즈
+  Royton = 로이턴
+  Surrogacy = 대리모
+  Uterus = 자궁
+  gestational surrogacy = 대리 출산
+  in vitro = 시험관 내
+ENTRY:
+Assisted reproductive technology in which an egg is fertilized with sperm in a laboratory, and the resulting embryo is transferred to the [[Uterus|uterus]]. It is used to treat [[Infertility|infertility]], enable [[Surrogacy|gestational surrogacy]] and avoid some inherited genetic conditions. The Latin term *in vitro* means "in glass." In July 1978 Louise Brown became the first child born after IVF, at a hospital in Royton, Oldham, England. Robert Edwards, a member of the development team, received the 2010 Nobel Prize in Physiology or Medicine. In 2023 an estimated twelve million children had been born worldwide using IVF and other assisted reproduction techniques.
+
+=== KEY: Inanna_28f1dc
+HEADWORD: Inanna = 인안나
+LEVEL: 4
+GLOSSARY:
+  Akkadians = 아카드인
+  Assyrians = 아시리아인
+  Babylonians = 바빌로니아인
+  Dumuzid = 두무지드
+  Eanna = 에안나
+  Enki = 엔키
+  Ereshkigal = 에레슈키갈
+  Heaven = 천국
+  Ishtar = 이슈타르
+  Mesopotamia = 메소포타미아
+  Mesopotamian = 메소포타미아
+  Queen = 퀸
+  Queen of Heaven = 하늘의 여왕
+  Sumer = 수메르
+  Uruk = 우루크
+  Venus = 금성
+ENTRY:
+Ancient [[Mesopotamia|Mesopotamian]] goddess of war, love and sex, also associated with political power and divine law. Originally worshipped in [[Sumer]], she was known to the Akkadians, Babylonians and Assyrians as Ishtar. Her primary title was "Queen of Heaven," and she was patron goddess of the Eanna temple at [[Uruk]]. She was worshipped in three forms, two of which reflect the phases of the planet [[Venus]]. Her symbols include the lion and the eight-pointed star. In her most famous myth she descends to the underworld, ruled by her sister Ereshkigal, is struck dead there and is rescued after Enki sends two beings. Her husband Dumuzid is taken in her place, and the cycle of the seasons results from his and his sister's alternating time in the underworld.
+
+=== KEY: Inbreeding_bdcaeb
+HEADWORD: Inbreeding = 근친교배
+LEVEL: 5
+GLOSSARY:
+  Consanguinity = 혈족 관계
+  Hybrid (biology) = 잡종
+  Inbreeding = 근친 교배
+  Incest = 근친상간
+  Selective breeding = 선택 교배
+  heterosis = 잡종 강세
+  homozygosity = 동형 접합성
+  inbreeding depression = 근교 약세
+  outcrossing = 이계 교배
+  recessive alleles = 열성 대립 유전자
+ENTRY:
+Production of offspring from closely related organisms. Inbreeding increases homozygosity, which can expose harmful recessive traits and cause inbreeding depression, a temporary decline in a population's fitness. In humans the term more often refers to disorders that may result from [[Incest|incest]] and [[Consanguinity|consanguinity]]. Breeders use inbreeding to establish new traits and to reveal harmful recessive alleles, which can then be removed through [[Selective breeding|selective breeding]]. In plant breeding, inbred lines are used to create [[Hybrid (biology)|hybrid]] lines that exploit heterosis. Avoiding inbreeding is the main selective reason for outcrossing.
+
+=== KEY: Inca_Empire_8df2ba
+HEADWORD: Inca Empire = 잉카 제국
+LEVEL: 3
+GLOSSARY:
+  Aleixo Garcia = 알레이수 가르시아
+  Andean = 안데스
+  Andes = 안데스산맥
+  Argentina = 아르헨티나
+  Bolivia = 볼리비아
+  Chile = 칠레
+  Colombia = 콜롬비아
+  Cusco = 쿠스코
+  Ecuador = 에콰도르
+  Inca = 잉카
+  Incas = 잉카인
+  Inti = 인티
+  Lake = 호수
+  Lake Titicaca = 티티카카호
+  Peru = 페루
+  Qhapaq Ñan = 카팍 냔
+  Quechua = 케추아어
+  Sapa Inca = 사파 잉카
+  South America = 남아메리카
+  Tawantinsuyu = 타완틴수유
+  Tiwanaku = 티와나쿠
+  Wari = 와리
+  draft animals = 역축
+  pre-Columbian America = 콜럼버스 이전 아메리카
+  quipu = 키푸
+ENTRY:
+Largest empire of pre-Columbian America, centered on the Andes in western South America (1438–1533).
+
+Officially the Realm of the Four Parts (Quechua: *Tawantinsuyu*), it had its administrative, political, and military center in [[Cusco]]. The Inca civilization rose from the Peruvian highlands in the early 13th century. From 1438 to 1533 the Incas incorporated a large part of western South America through conquest and peaceful assimilation. At its largest the empire joined modern [[Peru]] with western Ecuador, western and south-central Bolivia, northwest Argentina, the southwesternmost tip of Colombia, and much of Chile. Its official language was Quechua. Inca nobles, probably numbering only 15,000 to 40,000, ruled a population of around 10 million. The empire was preceded by the Tiwanaku, around [[Lake Titicaca]], and the Wari, and drew many of its characteristics from these earlier Andean cultures.
+
+The Incas built "one of the greatest imperial states in human history," in the anthropologist Gordon McEwan's words, without the wheel, draft animals, iron or steel, or a system of writing. Notable features were monumental stonework, an extensive road network (Qhapaq Ñan), fine textiles, agricultural innovation in a difficult environment, and knotted strings (*quipu*) for record keeping. The empire functioned largely without money and markets: exchange rested on reciprocity, and "taxes" took the form of a labor obligation to the state, which in return granted access to land and goods and provided feasts. Scholars have debated how to characterize this economy. Local forms of worship persisted, but the leadership promoted the sun god Inti, and the ruler, the Sapa Inca, was regarded as the "son of the Sun."
+
+The Portuguese explorer Aleixo Garcia was the first European to reach the empire, in 1524. The Spanish began its conquest in 1532, and by 1572 the last Inca state was fully conquered.
+
+=== KEY: Incandescent_light_bulb_73de2c
+HEADWORD: Incandescent light bulb = 백열전구
+LEVEL: 4
+GLOSSARY:
+  Alternating current = 교류
+  Direct current = 직류
+  Electric light = 전등
+  Government = 정부
+  Tungsten = 텅스텐
+  compact fluorescent bulb = 전구형 형광등
+  direct current = 직류
+  incandescent bulbs = 백열전구
+  inert gas = 불활성 기체
+  lumens = 루멘
+  tungsten filament = 텅스텐 필라멘트
+ENTRY:
+[[Electric light]] that produces illumination by heating a filament until it glows. The [[Tungsten|tungsten]] filament is enclosed in a glass bulb that is evacuated or filled with inert gas to prevent oxidation. Bulbs work on either [[Alternating current|alternating]] or [[Direct current|direct current]], which made them widely used in homes, car headlamps and flashlights. Less than 5% of the energy they consume becomes visible light. A typical 120 V bulb produces 16 lumens per watt, compared with 60 for a compact fluorescent bulb and 100 for typical white LED lamps. Edison's version was the first practical implementation, although Joseph Swan's bulb was in daily use in London in 1881. Government efficiency standards have accelerated the shift from incandescent bulbs to LEDs.
+
+=== KEY: Incarnation_877d8d
+HEADWORD: Incarnation = 성육신
+LEVEL: 4
+GLOSSARY:
+  Christianity = 기독교
+  Druze = 드루즈파
+  God the Son = 성자
+  Jesus = 예수
+  Judaism = 유대교
+  Maimonides = 마이모니데스
+  Rastafari = 라스타파리 운동
+  Trinity = 삼위일체
+  Vishnu = 비슈누
+  al-Hakim bi-Amr Allah = 알하킴 비암릴라
+  avatars = 아바타라
+ENTRY:
+Embodiment of a deity or spirit in earthly form, human or animal. The noun was originally coined for the union of divinity with humanity in [[Jesus]]. In Christianity, the Incarnation is the doctrine that God the Son, the second person of the [[Trinity]], became flesh, truly God and truly human. Mainstream [[Judaism]] has mostly rejected any incarnation of God since the time of [[Maimonides]], and Islamic theology categorically rejects it. [[Rastafari]] and the [[Druze]] faith hold beliefs in incarnation; the Druze considered the caliph al-Hakim bi-Amr Allah an incarnation of God, a claim proclaimed in 1018. Hindu avatars, such as those of [[Vishnu]], are analogous but lack the permanent union of divine and human natures.
+
+=== KEY: Incense_368ce9
+HEADWORD: Incense = 향
+LEVEL: 4
+GLOSSARY:
+  A-Group culture = A그룹 문화
+  Ancient Egypt = 고대 이집트
+  Bamboo = 대나무
+  Buddhist = 불교
+  China = 중국
+  Egypt = 이집트
+  Heian period = 헤이안 시대
+  Incense = 향
+  Japan = 일본
+  Latin = 라틴어
+  Meditation = 명상
+  Nubia = 누비아
+  Qustul = 쿠스툴
+  aromatherapy = 아로마테라피
+ENTRY:
+Aromatic material that releases fragrant smoke when burnt, or the aroma itself. Incense is used for aesthetic and religious reasons, [[Meditation|meditation]], aromatherapy, and as a deodorant or insect repellent. Direct-burning incense is lit by a flame and smolders, usually as a paste around a [[Bamboo|bamboo]] stick or extruded into a cone; indirect-burning incense needs a separate heat source. The word derives from Latin *incendere*, "to burn." One of the earliest known incense burners, from the A-Group culture (c. 3300–3000 BC), was found at Qustul in [[Nubia]]. In [[Ancient Egypt]] incense masked odors, repelled spirits and honored the gods. By about 2000 BC incense was used in ceremonies in China. Korean Buddhist monks brought it to Japan in the 6th century, and by the [[Heian period]] fine incense appreciation had become part of court culture.
+
+=== KEY: Inception_25bfef
+HEADWORD: Inception = 인셉션
+LEVEL: 5
+GLOSSARY:
+  Academy Awards = 아카데미상
+  Christopher Nolan = 크리스토퍼 놀런
+  Film = 영화
+  Leonardo = 레오나르도
+  Leonardo DiCaprio = 리어나도 디캐프리오
+  Library = 도서관
+  Library of Congress = 미국 의회 도서관
+  National Film Registry = 국립 영화 등기부
+  heist film = 하이스트 영화
+  science fiction = 과학 소설
+ENTRY:
+2010 science fiction heist film written and directed by [[Christopher Nolan]]. [[Leonardo DiCaprio]] plays a thief who steals secrets by entering people's dreams and is offered a chance to clear his criminal record if he can implant an idea in a target's mind. The film was shot in six countries on a budget of US$160 million. It won four [[Academy Awards]], for cinematography, sound editing, sound mixing and visual effects, and received four further nominations. In 2025 the [[Library of Congress]] selected it for preservation in the National Film Registry.
+
+=== KEY: Incest_56e223
+HEADWORD: Incest = 근친상간
+LEVEL: 4
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Egypt = 이집트
+  Inbreeding = 근친 교배
+  Samoa = 사모아
+  incest taboo = 근친상간 금기
+ENTRY:
+Sexual activity between close relatives, such as siblings or a parent and child. The incest taboo is among the most widespread of cultural taboos, and most modern societies have laws against it. A common justification is avoiding [[Inbreeding|inbreeding]], since children of closely related parents face greater risk of congenital disorders. Anthropologists note, however, that prohibitions vary widely between cultures and do not necessarily maximize the avoidance of inbreeding. In [[Ancient Egypt]], royal families married within the family, such as brother and sister, to perpetuate the royal lineage. In [[Samoa]], a man could marry an older sister but not a younger one. Children of incestuous relationships have been regarded as illegitimate in some societies.

@@ -1,0 +1,932 @@
+=== KEY: Equality_mathematics_abb647
+HEADWORD: Equality = 등식
+LEVEL: 4
+GLOSSARY:
+  Giuseppe Peano = 주세페 페아노
+  Peano = 페아노
+  Robert Recorde = 로버트 레코드
+  The Whetstone of Witte = 『지혜의 숫돌』
+  Zermelo = 체르멜로
+  Zermelo–Fraenkel set theory = 체르멜로-프렝켈 집합론
+  axiom of extensionality = 외연 공리
+  identity = 항등식
+  law of identity = 동일률
+  primitive notion = 무정의 용어
+  reflexivity = 반사성
+  set theory = 집합론
+  substitution property = 대입 성질
+  symmetry = 대칭성
+  transitivity = 추이성
+ENTRY:
+Relation stating that two quantities or expressions have the same value, written A = B. Equality is often treated as a primitive notion, informally described as a relation each thing bears to itself and nothing else. Its reflexivity, symmetry and transitivity were understood in ancient times but were not stated symbolically until the late 19th century, by Giuseppe Peano. The equals sign was introduced by the Welsh mathematician Robert Recorde in *The Whetstone of Witte* (1557). In logic, equality is a primitive predicate with the law of identity and the substitution property. In [[Zermelo–Fraenkel set theory|Zermelo–Fraenkel set theory]], the most common foundation of mathematics, two sets are equal if they have the same members, a principle called the axiom of extensionality.
+
+=== KEY: Equation_aa8a10
+HEADWORD: Equation = 방정식
+LEVEL: 3
+GLOSSARY:
+  An = 안
+  Circle = 원
+  Gaussian elimination = 가우스 소거법
+  Polynomial = 다항식
+  Quadratic equation = 이차 방정식
+  Robert Recorde = 로버트 레코드
+  Variable (mathematics) = 변수
+  coefficients = 계수
+  conditional equation = 조건 방정식
+  extraneous = 무연근
+  identity = 항등식
+  unknowns = 미지수
+ENTRY:
+Mathematical formula expressing the equality of two expressions by connecting them with the equals sign (=). In English, any well-formed formula of two expressions related by an equals sign counts as an equation.
+
+Solving an equation means determining which values of the variables, called unknowns, make the equality true; those values are its solutions. An identity is true for all values of the [[Variable (mathematics)|variables]], and a conditional equation only for particular values. The most common type is the [[Polynomial|polynomial]] (algebraic) equation, as in Ax² + Bx + C − y = 0. Terms other than the unknowns are called constants, coefficients, or parameters. Unknowns are usually denoted by letters at the end of the alphabet (x, y, z) and parameters by letters at the beginning (a, b, c), as in the general [[Quadratic equation|quadratic equation]] ax² + bx + c = 0. The equation x² + y² = R² is, for R = 2, that of a [[Circle|circle]] of radius 2 about the origin.
+
+An equation is analogous to a balanced weighing scale: whatever is done to one side must be done to the other. Two equations are equivalent if they have the same solutions. Adding or subtracting the same quantity on both sides, and multiplying or dividing both sides by a nonzero quantity, produce equivalent equations. Applying a function to both sides keeps the original solutions but may add extraneous ones: squaring x = 1 gives x² = 1, which introduces x = −1. Such transformations underlie most elementary solving methods and some less elementary ones, such as [[Gaussian elimination]].
+
+The "=" symbol was invented in 1557 by Robert Recorde, who considered that nothing could be more equal than parallel straight lines of the same length.
+
+=== KEY: Equation_solving_839cb4
+HEADWORD: Equation solving = 방정식의 풀이
+LEVEL: 4
+GLOSSARY:
+  Abel = 아벨
+  An = 안
+  Babylonians = 바빌로니아인
+  Newton's method = 뉴턴 방법
+  Niels Henrik Abel = 닐스 헨리크 아벨
+  Quadratic equation = 이차 방정식
+  quadratic equations = 이차 방정식
+  quintic equations = 5차 방정식
+  radicals = 거듭제곱근
+  solution set = 해집합
+  unknowns = 미지수
+ENTRY:
+Process of finding the values of unknown variables that make an equation true. A solution is an assignment of values to the unknowns that makes the equality hold, and the set of all solutions is the solution set. An equation may be solved numerically, admitting only numbers, or symbolically, using expressions. For example, x + y = 2x − 1 is solved for x by x = y + 1. Depending on the context, solving may mean finding any solution, all solutions, or one satisfying a further condition. Babylonians used geometric techniques for [[Quadratic equation|quadratic equations]] as early as 2000 BC. In 1824 Niels Henrik Abel proved that no general algebraic formula exists for quintic equations using radicals. Higher-degree equations are often approximated with methods such as [[Newton's method|Newton's method]].
+
+=== KEY: Equations_of_motion_615409
+HEADWORD: Equations of motion = 운동 방정식
+LEVEL: 4
+GLOSSARY:
+  Differential equation = 미분 방정식
+  Euclidean = 유클리드
+  Euclidean space = 유클리드 공간
+  Hamilton's equations = 해밀턴 방정식
+  Lagrange's equations = 라그랑주 방정식
+  Newton's second law = 뉴턴의 운동 제2법칙
+  classical mechanics = 고전 역학
+  differential equations = 미분 방정식
+  equations of motion = 운동 방정식
+  kinematic equations = 운동학 방정식
+  second law = 열역학 제2법칙
+ENTRY:
+Set of equations describing the motion of a physical system as a function of time. Its variables are usually spatial coordinates and time, and in classical mechanics the functions are defined in [[Euclidean space|Euclidean space]], while in relativity they are defined in curved spaces. If the dynamics of a system is known, its equations of motion are the solutions of the [[Differential equation|differential equations]] describing that dynamics. For constant acceleration, kinematic equations relate final velocity to initial velocity, acceleration and time: v = v₀ + at. Newton's second law expresses acceleration as net force divided by mass, and for variable forces it yields second-order differential equations that are solved numerically or analytically. Advanced formulations include Lagrange's equations and Hamilton's equations.
+
+=== KEY: Equator_dd304e
+HEADWORD: Equator = 적도
+LEVEL: 4
+GLOSSARY:
+  Brazil = 브라질
+  Circle = 원
+  Earth = 지구
+  Ecuador = 에콰도르
+  Equinox = 분점
+  Gabon = 가봉
+  Kenya = 케냐
+  Northern and Southern Hemispheres = 북반구와 남반구
+  Poles = 폴란드인
+  nautical miles = 해리
+ENTRY:
+Circle of latitude at 0 degrees that divides Earth into the Northern and Southern Hemispheres. Halfway between the North and South Poles, it measures about 21,639 nautical miles (40,075 km; 24,902 miles) in circumference. Because noon sunlight appears almost directly overhead throughout the year, the equator has a stable daytime temperature. On the [[Equinox|equinoxes]] the sun crosses the equator at a shallow angle, and all latitudes have nearly 12 hours of day and night. The equator passes through 11 countries on land, including [[Ecuador|Ecuador]], [[Brazil|Brazil]], [[Gabon|Gabon]] and [[Kenya|Kenya]]. The equator has the fastest rotational speed of any point on Earth's surface, which makes it an advantageous site for space launches.
+
+=== KEY: Equatorial_Guinea_a38c27
+HEADWORD: Equatorial Guinea = 적도 기니
+LEVEL: 4
+GLOSSARY:
+  Annobón = 안노본섬
+  Bioko = 비오코섬
+  Cameroon = 카메룬
+  Central Africa = 중앙아프리카
+  Ciudad de la Paz = 시우다드데라파스
+  Francisco Macías Nguema = 프란시스코 마시아스 응게마
+  Gabon = 가봉
+  Guinea = 기니
+  Obiang = 오비앙
+  Portugal = 포르투갈
+  Río Muni = 리오무니
+  Scramble for Africa = 아프리카 분할
+  Spain = 스페인
+  Spanish Guinea = 스페인령 기니
+  Teodoro Obiang Nguema Mbasogo = 테오도로 오비앙 응게마 음바소고
+  Treaty = 조약
+  Treaty of El Pardo = 엘파르도 조약
+  civil rights = 민권
+ENTRY:
+Country on the west coast of [[Central Africa|Central Africa]] (pop., 2025: 1,853,559), the only Spanish-speaking country in Africa. It consists of the mainland region of Río Muni, bordered by [[Cameroon|Cameroon]] and [[Gabon|Gabon]], and the islands of Bioko and Annobón. The capital has been Ciudad de la Paz since January 2026. Portugal ceded territory to Spain under the 1778 Treaty of El Pardo, and it was declared Spanish Guinea during the [[Scramble for Africa|Scramble for Africa]]. It gained independence in 1968 under the dictatorship of Francisco Macías Nguema, who was overthrown in a coup in 1979 by his nephew Teodoro Obiang Nguema Mbasogo; Obiang has been president since. Oil production from the mid-1990s made it one of the richest countries per capita in Africa, though wealth is unevenly distributed. Foreign observers widely describe the regime as a dictatorship, and Freedom House's annual survey has consistently ranked the country among the "worst of the worst" for political and civil rights.
+
+=== KEY: Equatorial_coordinate_system_849743
+HEADWORD: Equatorial coordinate system = 적도 좌표계
+LEVEL: 4
+GLOSSARY:
+  Celestial sphere = 천구
+  Earth = 지구
+  Equator = 적도
+  Equinox = 분점
+  International Celestial Reference System = 국제 천구 기준계
+  J2000.0 = J2000.0
+  March equinox = 춘분점
+  Right ascension = 적경
+  axial precession = 세차 운동
+  celestial equator = 천구의 적도
+  celestial sphere = 천구
+  declination = 적위
+  fundamental plane = 기준면
+  geocentric = 지구 중심
+  vernal = 춘분
+  vernal equinox = 춘분점
+ENTRY:
+Celestial coordinate system widely used to specify the positions of celestial objects. It is geocentric, with its origin at the center of Earth and its fundamental plane formed by the projection of Earth's [[Equator|equator]] onto the [[Celestial sphere|celestial sphere]]. Its primary direction points toward the [[Equinox|March equinox]]. The system does not rotate with Earth but remains relatively fixed against the background stars. Right ascension is measured eastward from the vernal equinox, and declination north or south of the celestial equator. Because of axial precession, coordinates are specified for epochs such as J2000.0 (January 1, 2000). The system underpins the International Celestial Reference System (ICRS) in modern astronomy.
+
+=== KEY: Equestrianism_575295
+HEADWORD: Equestrianism = 승마
+LEVEL: 4
+GLOSSARY:
+  American English = 미국 영어
+  Cavalry = 기병
+  Chariot = 전차
+  Chariot racing = 전차 경주
+  Commonwealth = 영연방
+  Commonwealth English = 영연방 영어
+  FEI = FEI
+  Fédération Equestre Internationale = 국제 승마 연맹
+  Latin = 라틴어
+  Olympic Games = 올림픽
+  Paris = 파리
+  Stockholm = 스톡홀름
+  dressage = 마장 마술
+  equester = 에퀘스테르
+  equus = 에쿠우스
+  eventing = 종합 마술
+  jumping = 장애물 비월
+  vaulting = 볼팅
+ENTRY:
+Use of horses for sport, work or recreation, including riding, driving and vaulting. Commonly called horse riding in Commonwealth English and horseback riding in American English, the term derives from Latin *equester* and *equus*, meaning horseman and horse. Chariot racing featured at the [[Olympic Games|Olympic Games]] as early as 680 BC. Modern equestrian events debuted at the 1900 Paris Olympics and became a permanent fixture from the 1912 Stockholm Games, which introduced dressage, eventing and jumping as core disciplines. The Fédération Equestre Internationale (FEI), founded in 1921, oversees the sport and represents 136 national federations. Eventing, a test of all-around riding skills, was originally developed as a military [[Cavalry|cavalry]] competition.
+
+=== KEY: Equidae_7a07c5
+HEADWORD: Equidae = 말과
+LEVEL: 4
+GLOSSARY:
+  Eocene = 에오세
+  Equus = 말속
+  Family = 가족
+  Miocene = 마이오세
+  North America = 북아메리카
+  Perissodactyla = 기제목
+  Pleistocene = 플라이스토세
+  hindgut fermenters = 후장 발효 동물
+ENTRY:
+Family of hoofed mammals in the order [[Perissodactyla]], including horses, asses and zebras.
+The family evolved in the [[Eocene]] epoch, more than 50 million years ago, from small, multi-toed ancestors into larger, single-toed animals. The oldest known fossils, found in North America and about 54 million years old, belong to fox-sized browsers with three toes on the hind feet and four on the front. Later species reduced their toes and developed teeth for grinding grass. Equids are hindgut fermenters. During the [[Miocene]] epoch the family diversified and acquired the horse-like body shape of modern species. All living species belong to the genus *Equus*, which originated in North America and had spread through the world by the early [[Pleistocene]] epoch. Humans domesticated the donkey about 5,000 years ago and the horse about 4,200 years ago.
+
+=== KEY: Equinox_e130d9
+HEADWORD: Equinox = 분점
+LEVEL: 4
+GLOSSARY:
+  An = 안
+  Axial tilt = 자전축 기울기
+  Earth's axial tilt = 지구 자전축의 기울기
+  Earth's rotation = 지구의 자전
+  Equator = 적도
+  Latin = 라틴어
+  Leap year = 윤년
+  March equinox = 춘분점
+  Northern Hemisphere = 북반구
+  Refraction = 굴절
+  September equinox = 9월 분점
+  Solstice = 지점
+  Southern Hemisphere = 남반구
+  Sun = 태양
+  aequa = 아이콰
+  aequinoctium = 아이퀴녹티움
+  atmospheric refraction = 대기 굴절
+  autumnal = 추분
+  axial tilt = 자전축 기울기
+  nox = 녹스
+  spring equinox = 춘분
+  vernal = 춘분
+ENTRY:
+Semi-annual astronomical moment with the [[Sun]] directly above the [[Equator|equator]].
+Equinoxes occur twice a year, around March 20 and September 23. An equinox is the moment when the plane of Earth's equator passes through the geometric center of the Sun's disk and Earth's rotation axis is perpendicular to the Sun-Earth line. The name comes from [[Latin]] *aequinoctium*, from *aequa* (equal) and *nox* (night). Day and night are nearly but not exactly equal in length, because of the Sun's angular size, atmospheric [[Refraction|refraction]] and changing day length. Equinoxes result from Earth's [[Axial tilt|axial tilt]] of 23.5 degrees. In the Northern Hemisphere the March equinox is the vernal or spring equinox and the September equinox is the autumnal or fall equinox; the reverse applies in the Southern Hemisphere. Equinoxes alternate with [[Solstice|solstices]], and [[Leap year|leap years]] shift their dates slightly.
+
+=== KEY: Equisetum_0719bc
+HEADWORD: Equisetum = 속새속
+LEVEL: 4
+GLOSSARY:
+  Early Jurassic = 전기 쥐라기
+  Equisetaceae = 속새과
+  Genus = 속
+  Jurassic = 쥐라기
+  Plants of the World Online = Plants of the World Online
+  Spore = 포자
+  Weed = 잡초
+  World = 세계
+  elaters = 탄사
+  folk medicine = 민간요법
+  horsetails = 속새류
+  strobili = 포자낭수
+  thiaminase = 티아미나아제
+  vascular plants = 관다발 식물
+ENTRY:
+Genus of vascular plants known as horsetails.
+Equisetum is the only living genus in the family Equisetaceae, whose members reproduce by [[Spore|spores]] rather than seeds. The oldest remains of modern species appear in the Early Jurassic. The plants have hollow, jointed, ridged stems, and their leaves are reduced to sheaths at the nodes. Most temperate species die back in winter, while most tropical species are evergreen. Plants typically grow 20–150 cm tall, and some subtropical giant horsetails reportedly grow taller. Spores are borne in cone-like strobili and dispersed by four elaters that respond to moisture. The genus is near-cosmopolitan, and some species are considered [[Weed|weeds]] or invasive. The plants are toxic because they contain thiaminase, but they have been prepared as food or folk medicine. Plants of the World Online accepts 18 species, though some researchers count 25. Silica in the stems historically made them useful for scouring and polishing.
+
+=== KEY: Equity_law_e3eb3f
+HEADWORD: Equity = 형평법
+LEVEL: 4
+GLOSSARY:
+  Aristotle = 아리스토텔레스
+  Civil law (legal system) = 대륙법
+  Common law = 보통법
+  Contract = 계약
+  Court = 법원
+  Court of Chancery = 대법관 법원
+  England = 잉글랜드
+  English common law = 영국 보통법
+  Injunction = 금지 명령
+  Judicature Acts = 법원법
+  Lord Chancellors = 대법관
+  Property = 재산
+  Tort = 불법 행위
+  Trust (law) = 신탁
+  aequitas = 아이퀴타스
+  common law = 보통법
+  epieikeia = 에피에이케이아
+  good faith = 신의 성실
+  private law = 사법
+  restitution = 원상회복
+ENTRY:
+Set of legal principles supplementing, but distinct from, the [[Common law|common law]].
+Equity developed in the English Court of Chancery, which created equitable doctrines distinct from the rest of English common law. These covered much of English private law, including [[Property|property]], [[Contract|contract]], [[Tort|tort]] and restitution. They produced equitable principles such as good faith, interests such as those under [[Trust (law)|trusts]], and remedies such as [[Injunction|injunctions]]. Medieval Lord Chancellors gave relief where the rigid rules of the common law courts seemed inequitable or unconscionable. The Judicature Acts of 1873–1875 abolished the split court system in England while retaining equity as a distinct but complementary set of rules. The tradition of flexible adjudication traces to [[Aristotle]]'s concept of *epieikeia* and to Roman *aequitas*. In [[Civil law (legal system)|civil law]] systems equity was integrated into legal rules, but in common law systems it became an independent body of law.
+
+=== KEY: Equivalence_principle_06d13c
+HEADWORD: Equivalence principle = 등가 원리
+LEVEL: 4
+GLOSSARY:
+  Albert Einstein = 알베르트 아인슈타인
+  Einstein = 아인슈타인
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  General relativity = 일반 상대성 이론
+  Hypothesis = 가설
+  Isaac Newton = 아이작 뉴턴
+  MICROSCOPE = MICROSCOPE
+  Mass = 질량
+  Newton = 뉴턴
+  Special relativity = 특수 상대성 이론
+  free fall = 자유 낙하
+  general relativity = 일반 상대성 이론
+  gravitational field = 중력장
+  gravitational potential = 중력 퍼텐셜
+  inertial = 관성
+  inertial mass = 관성 질량
+  special relativity = 특수 상대성 이론
+  weak form = 약한 골드바흐 추측
+ENTRY:
+Hypothesis that inertial and gravitational [[Mass|mass]] are equivalent.
+The weak form, known for centuries, holds that masses of any composition in free fall follow the same trajectories and land at identical times. [[Galileo Galilei|Galileo]] found that gravitation is independent of the amount of mass accelerated. [[Isaac Newton|Newton]] compared the periods of pendulums of different materials, found them identical, and inferred that gravitational and inertial mass are the same. In 1907 [[Albert Einstein|Einstein]] introduced an extended form requiring that [[Special relativity|special relativity]] also hold in free fall and that the weak form be valid everywhere. This form was a critical input for [[General relativity|general relativity]]. The strong form extends the principle to stellar objects. In 1911 Einstein used it to predict that clocks run at different rates in a gravitational potential and that light bends in a gravitational field. The MICROSCOPE satellite mission (2016–2018) tested for composition-dependent violations of the weak form to 10⁻¹⁵ precision.
+
+=== KEY: Equivalence_relation_7e6883
+HEADWORD: Equivalence relation = 동치 관계
+LEVEL: 4
+GLOSSARY:
+  An = 안
+  Equality (mathematics) = 등식
+  Integer = 정수
+  Symmetry = 대칭
+  Triangle = 삼각형
+  congruence = 합동
+  congruence modulo = 합동
+  equivalence classes = 동치류
+  similarity = 닮음
+ENTRY:
+Mathematical relation that is reflexive, symmetric and transitive.
+An equivalence relation generalizes [[Equality (mathematics)|equality]]. It partitions a set into disjoint equivalence classes, and two elements are equivalent if and only if they belong to the same class. Reflexivity means every element is equivalent to itself. Symmetry means that if *a* is equivalent to *b*, then *b* is equivalent to *a*. Transitivity means that if *a* is equivalent to *b* and *b* to *c*, then *a* is equivalent to *c*. Examples include numerical equality, similarity and congruence of [[Triangle|triangles]], and congruence modulo *n* on the [[Integer|integers]]. The relation ≥ is reflexive and transitive but not symmetric. "Approximately equal to" is reflexive and symmetric but not transitive, so it is not an equivalence relation.
+
+=== KEY: Eraserhead_577188
+HEADWORD: Eraserhead = 이레이저 헤드
+LEVEL: 5
+GLOSSARY:
+  American Film Institute = 미국 영화 연구소
+  David Lynch = 데이비드 린치
+  Film = 영화
+  Horror film = 공포 영화
+  Library = 도서관
+  Library of Congress = 미국 의회 도서관
+  National Film Registry = 국립 영화 등기부
+  United States = 미국
+  United States National Film Registry = 미국 국립 영화 등기부
+  cult film = 컬트 영화
+  midnight movie = 미드나이트 무비
+ENTRY:
+1977 American [[Horror film|horror film]] written, directed and produced by [[David Lynch]].
+Lynch's feature-length debut was shot in black and white in a surrealist style, with help from the American Film Institute. It follows a man left to care for his grossly deformed child in a desolate industrial landscape. Initially drawing small audiences, it became a midnight movie and a cult film. In 2004 the [[Library of Congress]] selected it for preservation in the United States National Film Registry.
+
+=== KEY: Erasmus_3b744b
+HEADWORD: Erasmus = 에라스뮈스
+LEVEL: 4
+GLOSSARY:
+  Calvin = 칼뱅
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Catholic Reformation = 가톨릭 개혁
+  Church = 처치
+  Church Fathers = 교부
+  Dutch = 네덜란드어
+  Erasmus = 에라스뮈스
+  Erasmus of Rotterdam = 로테르담의 에라스뮈스
+  Humanism = 인문주의
+  John Calvin = 장 칼뱅
+  Latin = 라틴어
+  Luther = 루터
+  Martin Luther = 마르틴 루터
+  New Testament = 신약 성경
+  Northern Renaissance = 북유럽 르네상스
+  On Free Will = 『자유 의지론』
+  Protestant = 개신교
+  Protestant Reformation = 종교 개혁
+  Reformation = 종교 개혁
+  Renaissance = 르네상스
+  Rotterdam = 로테르담
+  The Praise of Folly = 『우신예찬』
+  monergism = 신단동설
+  predestination = 예정설
+  synergism = 신인협력설
+ENTRY:
+Dutch [[Humanism|humanist]], theologian and philosopher.
+Known as Erasmus of [[Rotterdam]], he was one of the most influential scholars of the Northern [[Renaissance]]. As a Catholic priest he applied humanist methods to texts and prepared new Latin and Greek editions of the [[New Testament]] and of the Church Fathers. His annotations influenced both the Protestant [[Reformation|Reformation]] and the Catholic Reformation. His works include *The Praise of Folly* (1511) and *On Free Will* (1524), which was written against [[Martin Luther]]'s views on predestination. He remained in the [[Catholic Church]] and sought reform from within. He promoted synergism, a traditional doctrine that [[John Calvin|Calvin]] and Luther rejected in favor of monergism, and his middle position angered partisans on both sides.
+
+=== KEY: Eratosthenes_eefd34
+HEADWORD: Eratosthenes = 에라토스테네스
+LEVEL: 4
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  Ancient Greek = 고대 그리스어
+  Athens = 아테네
+  Axial tilt = 자전축 기울기
+  Beta = 베타
+  Chronology = 연대학
+  Cyrene = 키레네
+  Earth's axial tilt = 지구 자전축의 기울기
+  Eratosthenes = 에라토스테네스
+  Geography = 지리학
+  Library = 도서관
+  Library of Alexandria = 알렉산드리아 도서관
+  Pentathlos = 펜타틀로스
+  Prime number = 소수
+  Sieve of Eratosthenes = 에라토스테네스의 체
+  Suda = 『수다』
+  Sun = 태양
+  Syene = 시에네
+  Troy = 트로이
+  axial tilt = 자전축 기울기
+  stadia = 스타디온
+ENTRY:
+Ancient Greek polymath, geographer and chief librarian of the [[Library of Alexandria]] from around 240 BC.
+Born in Cyrene and educated in [[Athens]], he is best remembered for the first known calculation of Earth's circumference. He observed that the Sun stood directly overhead at Syene on the summer solstice, while a shadow at Alexandria formed a 7.2-degree angle, and he reasoned that the circumference was about 250,000 stadia. He also calculated Earth's [[Axial tilt|axial tilt]] and coined the terms [[Geography|geography]] and geographer. He founded scientific [[Chronology|chronology]], dating the sack of [[Troy]] to 1184 BC. In mathematics he devised the [[Sieve of Eratosthenes]] for identifying [[Prime number|prime numbers]]. Devotees nicknamed him *Pentathlos*, but according to the 10th-century encyclopedia *Suda*, critics called him *Beta*, or second, because he always came second.
+
+=== KEY: Erbil_85bdcf
+HEADWORD: Erbil = 아르빌
+LEVEL: 4
+GLOSSARY:
+  Achaemenid Empire = 아케메네스 제국
+  Assyria = 아시리아
+  Citadel = 아르빌 성채
+  Dynasty = 「다이너스티」
+  Erbil = 아르빌
+  Iraq = 이라크
+  Kurdistan = 쿠르디스탄
+  Kurdistan Region = 쿠르디스탄 지역
+  Mesopotamia = 메소포타미아
+  Middle Ages = 중세
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Parthian = 파르티아
+  Sasanian = 사산 왕조
+  Seleucid = 셀레우코스
+  Seljuk = 셀주크
+  Shulgi = 슐기
+  Third = 교향곡 제3번
+  Third Dynasty = 제3왕조
+  Third Dynasty of Ur = 우르 제3왕조
+  Ur = 우르
+  Urbilum = 우르빌룸
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Capital and most populated city of the [[Kurdistan Region]] in [[Iraq]].
+Erbil is the region's cultural, economic, industrial and medical hub, with a population exceeding 1.5 million including surrounding districts. It is one of the oldest continuously inhabited cities in the world, with settlement possibly dating to the 5th millennium BC. Its ancient Citadel, on a mound, was inscribed as a [[World Heritage Site]] in July 2014. The earliest historical reference, from the Third Dynasty of [[Ur]], records King Shulgi mentioning a city called Urbilum. The city came under [[Assyria|Assyrian]] control in the late 2nd millennium BC and was later part of successive empires, including the [[Achaemenid Empire]], Seleucid, Parthian and Sasanian. In the Middle Ages it was ruled by the Seljuk and [[Ottoman Empire|Ottoman]] empires. Its archaeological museum holds a large collection of pre-Islamic art, particularly from [[Mesopotamia]].
+
+=== KEY: Erbium_7c32b8
+HEADWORD: Erbium = 에르븀
+LEVEL: 4
+GLOSSARY:
+  Atomic number = 원자 번호
+  Carl Gustav Mosander = 칼 구스타브 모산데르
+  Chemical element = 화학 원소
+  Dentistry = 치의학
+  Dermatology = 피부과학
+  Lanthanide = 란타넘족
+  Laser = 레이저
+  Optical fiber = 광섬유
+  Rare-earth element = 희토류 원소
+  Stockholm = 스톡홀름
+  Sweden = 스웨덴
+  Ytterby = 위테르뷔
+  chemical element = 화학 원소
+  optical fiber = 광섬유
+  rare-earth element = 희토류 원소
+  single-mode fibers = 단일 모드 광섬유
+  yttrium = 이트륨
+ENTRY:
+[[Lanthanide]] [[Chemical element|chemical element]] with symbol Er and [[Atomic number|atomic number]] 68.
+When isolated, erbium is a silvery-white solid metal, but in nature it is always combined with other elements. Carl Gustav Mosander discovered it in 1843 in yttrium from the Ytterby mine near Stockholm, Sweden, which gave the element its name. It is a [[Rare-earth element|rare-earth element]]. Its principal uses depend on the optical fluorescence of its pink Er³⁺ ions. Erbium-doped glass and crystals amplify signals in [[Optical fiber|optical fiber]] networks, where the 1550 nm wavelength is especially important because standard single-mode fibers have minimal loss there. In medicine, the ion's 2940 nm emission is strongly absorbed by water, making erbium [[Laser|lasers]] useful in [[Dermatology|dermatology]] and [[Dentistry|dentistry]] because their effect is superficial.
+
+=== KEY: Erectile_dysfunction_bf0b5b
+HEADWORD: Erectile dysfunction = 발기 부전
+LEVEL: 5
+GLOSSARY:
+  Cardiovascular disease = 심혈관 질환
+  Depression (mood) = 우울
+  Diabetes = 당뇨병
+  Obesity = 비만
+  PDE5 inhibitors = PDE5 억제제
+  Sildenafil = 실데나필
+  cardiovascular disease = 심혈관 질환
+  impotence = 성교 불능
+ENTRY:
+Male sexual dysfunction involving the recurring inability to achieve or maintain an erection.
+Also called impotence, it is the most common sexual problem in males and can cause psychological distress. Notable predictors include aging, [[Cardiovascular disease|cardiovascular disease]], [[Diabetes|diabetes]], high blood pressure, [[Obesity|obesity]], smoking and [[Depression (mood)|depression]]. It is reported in 18% of males aged 50 to 59 years and 37% of males aged 70 to 75. Treatment often uses PDE5 inhibitors such as [[Sildenafil]], which dilate blood vessels to increase blood flow into the penis.
+
+=== KEY: Eredivisie_908644
+HEADWORD: Eredivisie = 에레디비시
+LEVEL: 5
+GLOSSARY:
+  AFC Ajax = AFC 아약스
+  Association football = 축구
+  COVID-19 = 코로나19
+  COVID-19 pandemic = 코로나19 범유행
+  Dutch = 네덜란드어
+  Eerste Divisie = 에이르스터 디비시
+  Feyenoord = 페예노르트
+  Netherlands = 네덜란드
+  Rupert Murdoch = 루퍼트 머독
+ENTRY:
+Highest level of professional [[Association football|football]] in the Netherlands.
+Founded in 1956, the league has 18 clubs that each play the others twice a season. The two bottom clubs are relegated to the Eerste Divisie. The champion wins the Dutch national championship; [[AFC Ajax|Ajax]] have won the most titles, 36, and Feyenoord have won 16. In 2012 [[Rupert Murdoch]] secured the rights to the league for 12 years at a cost of €1 billion. The league was abandoned in 2020 because of the [[COVID-19 pandemic]].
+
+=== KEY: Ergot_cb0a1a
+HEADWORD: Ergot = 맥각균
+LEVEL: 5
+GLOSSARY:
+  Claviceps = 맥각균속
+  Claviceps purpurea = 맥각균
+  Ergot = 맥각
+  Fungus = 균류
+  LSD = LSD
+  Lysergic acid = 리세르그산
+  Rye = 호밀
+  alkaloids = 알칼로이드
+  ergotism = 맥각중독
+  sclerotia = 균핵
+ENTRY:
+Group of about 50 species of [[Fungus|fungi]] in the genus *Claviceps*, mostly tropical.
+The best-known member, *Claviceps purpurea*, infects [[Rye|rye]] and related grasses, replacing grain with dark sclerotia that contain toxic alkaloids. Eating contaminated grain causes ergotism in humans and other mammals. Ergot alkaloids are used to treat acute migraine, and a semi-synthetic derivative prevents postpartum hemorrhage. Lysergic acid from ergot was the precursor of [[LSD]], first synthesized in 1938.
+
+=== KEY: Eric_Cantona_18db55
+HEADWORD: Cantona, Eric = 칸토나, 에리크
+LEVEL: 5
+GLOSSARY:
+  Elizabeth = 「엘리자베스」
+  France = 프랑스
+  French = 프랑스어
+  Leeds = 리즈
+  Leeds United = 리즈 유나이티드
+  Manchester = 맨체스터
+  Manchester United = 맨체스터 유나이티드
+  Marseille = 마르세유
+  Premier League = 프리미어리그
+  The Killer = 「더 킬러」
+ENTRY:
+French former footballer and actor.
+Cantona played for [[Marseille]], Leeds United and Manchester United, winning four [[Premier League]] titles in five years with Manchester United. Manchester United fans called him "King Eric". He scored 20 goals in 45 matches for France. His career was marked by a poor disciplinary record, including a 1995 conviction for assault on a spectator and a suspension from football. He retired in 1997 and later acted in films including *Elizabeth* (1998) and *The Killer* (2024).
+
+=== KEY: Eric_Clapton_8bdfd8
+HEADWORD: Clapton, Eric = 클랩턴, 에릭
+LEVEL: 5
+GLOSSARY:
+  Antigua = 앤티가섬
+  Blues = 블루스
+  Cream = 크림
+  Crossroads Centre = 크로스로즈 센터
+  Derek and the Dominos = 데릭 앤드 더 도미노스
+  John = 존
+  Layla and Other Assorted Love Songs = 『레일라 앤드 아더 어소티드 러브 송스』
+  Love = 사랑
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Rock music = 록 음악
+  Yardbirds = 야드버즈
+  substance abuse = 물질 남용
+ENTRY:
+English [[Rock music|rock]] and [[Blues|blues]] guitarist, singer and songwriter.
+Clapton played with the Yardbirds, John Mayall & the Bluesbreakers, Cream and Derek and the Dominos. With Derek and the Dominos he recorded *Layla and Other Assorted Love Songs*. He has sold 100 million records worldwide as a solo artist. He is the only three-time inductee to the [[Rock and Roll Hall of Fame]]. In 1998 he founded the Crossroads Centre on [[Antigua]], a medical facility for people recovering from substance abuse.
+
+=== KEY: Eric_Harris_and_Dylan_Klebold_ecc57e
+HEADWORD: Eric Harris and Dylan Klebold = 에릭 해리스와 딜런 클리볼드
+LEVEL: 5
+GLOSSARY:
+  Columbine High School = 컬럼바인 고등학교
+  Columbine High School massacre = 컬럼바인 고등학교 총기 난사 사건
+  FBI = 연방 수사국
+  School = 학교
+ENTRY:
+American pair responsible for the [[Columbine High School massacre]].
+The two killed students and a teacher on April 20, 1999, and then died by suicide. At the time it was the deadliest high school shooting in U.S. history. Early reports described them as bullied outcasts, but many peers disputed this. Its motive remains inconclusive; proposed causes include bullying, mental illness and racism. The FBI concluded in 2000 that Harris showed psychopathic traits and Klebold an angry, depressive attitude; these conclusions have been criticized because neither had been diagnosed.
+
+=== KEY: Eric_Hobsbawm_d0502f
+HEADWORD: Hobsbawm, Eric = 홉스봄, 에릭
+LEVEL: 4
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Alexandria = 알렉산드리아
+  Berlin = 베를린
+  Cambridge = 케임브리지
+  Egypt = 이집트
+  Hitler = 히틀러
+  London = 런던
+  Marxist = 마르크스주의
+  Second = 초
+  Second World = 제2세계
+  Second World War = 제2차 세계 대전
+  Socialism = 사회주의
+  Stalin = 스탈린
+  The Age of Empire = 『제국의 시대』
+  The Age of Extremes = 『극단의 시대』
+  The Age of Revolution = 『혁명의 시대』
+  USSR = 소련
+  University = 대학
+  University of Cambridge = 케임브리지 대학교
+  Vienna = 빈
+  World = 세계
+  long 19th century = 장기 19세기
+  short 20th century = 단기 20세기
+  the Second World War = 제2차 세계 대전
+ENTRY:
+British historian and life-long Marxist.
+Born in [[Alexandria]], Egypt, Hobsbawm spent his childhood mainly in [[Vienna]] and [[Berlin]] and moved to London after the rise of [[Adolf Hitler|Hitler]]. After serving in the Second World War, he earned a PhD in history at the [[University of Cambridge]]. His best-known works are a tetralogy on the "long 19th century", from *The Age of Revolution* to *The Age of Empire*, and *The Age of Extremes* on the "short 20th century". In 1994 he said that the deaths of 15–20 million people under Stalin would have been worthwhile had the USSR achieved a [[Socialism|socialist]] utopia; critics argue that such remarks downplay Soviet repression.
+
+=== KEY: Ericaceae_60d9d5
+HEADWORD: Ericaceae = 진달래과
+LEVEL: 4
+GLOSSARY:
+  Azalea = 진달래
+  Blueberry = 블루베리
+  Bog = 이탄 습지
+  Calluna = 칼루나속
+  Cranberry = 크랜베리
+  Erica = 에리카속
+  Family = 가족
+  Flowering plant = 속씨식물
+  Rhododendron = 진달래속
+  Soil = 토양
+  cloud forests = 운무림
+  flowering plants = 속씨식물
+  heath = 히스
+  heather = 헤더
+  huckleberry = 허클베리
+  moors = 황야
+  mycorrhizal fungi = 균근균
+ENTRY:
+Family of [[Flowering plant|flowering plants]] known as the heath or heather family.
+Members are most common in acidic, infertile [[Soil|soils]]. The family is large, ranking as the 14th most speciose family of flowering plants. Many members are woody shrubs or small trees with simple, often leathery, evergreen leaves.Notable members include the [[Cranberry|cranberry]], [[Blueberry|blueberry]], huckleberry, [[Rhododendron]] (including [[Azalea|azaleas]]), and heaths and heathers such as *Erica* and *Calluna*. They dominate habitats such as moors, [[Bog|bogs]] and cloud forests, particularly at elevations from 1,000 to 3,500 meters in the tropics, and many species form symbiotic relationships with mycorrhizal fungi that aid nutrient uptake. In cultivation, many species are grown for horticultural and food purposes.
+
+=== KEY: Erich_Honecker_ce3807
+HEADWORD: Honecker, Erich = 호네커, 에리히
+LEVEL: 4
+GLOSSARY:
+  Berlin = 베를린
+  Berlin Wall = 베를린 장벽
+  Central Committee = 중앙 위원회
+  Chile = 칠레
+  Cold War = 냉전
+  East Germany = 동독
+  German = 독일어
+  German reunification = 독일 재통일
+  Germany = 독일
+  Mikhail Gorbachev = 미하일 고르바초프
+  Socialist = 사회당
+  Soviet Union = 소련
+  Unity = 유니티
+  Wall = 벽
+  Walter Ulbricht = 발터 울브리히트
+  West Germany = 서독
+  consumer socialism = 소비자 사회주의
+ENTRY:
+German communist politician and leader of [[East Germany]], 1971–1989.
+As security secretary of the Socialist Unity Party's Central Committee, Honecker was the prime organizer of the construction of the [[Berlin Wall]] in 1961, and he bore administrative responsibility for the "order to fire" along it. In 1970 he initiated a power struggle that led, with Soviet support, to his replacing Walter Ulbricht as party leader. He was viewed as a dictator. His government normalized relations with [[West Germany]] and pursued "consumer socialism" in close ties with the [[Soviet Union]]. As the [[Cold War]] eased under [[Mikhail Gorbachev]], Honecker refused all but cosmetic changes, and the party dismissed him in October 1989. After [[German reunification]] he was extradited to Germany, but the trial was abandoned because he had terminal liver cancer, and he died in exile in [[Chile]].
+
+=== KEY: Erich_Ludendorff_beee9b
+HEADWORD: Ludendorff, Erich = 루덴도르프, 에리히
+LEVEL: 4
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Beer = 맥주
+  Beer Hall Putsch = 뮌헨 폭동
+  First Quartermaster General = 병참총감
+  Freemasons = 프리메이슨
+  German = 독일어
+  Hindenburg = 힌덴부르크호
+  Hitler = 히틀러
+  Jews = 유대인
+  Kapp Putsch = 카프 폭동
+  Liège = 리에주
+  Munich = 뮌헨
+  Paul = 바울로
+  Paul von Hindenburg = 파울 폰 힌덴부르크
+  Tannenberg = 탄넨베르크
+  The Total War = 『총력전』
+  Total War = 토탈 워
+  Weimar = 바이마르
+  Weimar Republic = 바이마르 공화국
+  World = 세계
+  World War I = 제1차 세계 대전
+  stab-in-the-back myth = 배후중상설
+ENTRY:
+Prussian-born German general and politician.
+In World War I he won fame for his central role in the German victories at Liège and Tannenberg in 1914. After his appointment as First Quartermaster General in 1916, he directed Germany's entire military strategy and war effort alongside [[Paul von Hindenburg]] until the country's defeat in 1918. Afterward he promoted the stab-in-the-back myth, which blamed the defeat on a treasonous conspiracy by Marxists, Freemasons and Jews. He took part in the failed 1920 Kapp Putsch and in [[Adolf Hitler|Hitler]]'s 1923 [[Beer Hall Putsch]], which contributed significantly to Hitler's rise to power. He later stood unsuccessfully for president during the [[Weimar Republic]] and wrote on military theory in *The Total War*. After his death in [[Munich]] he was given, against his explicit wishes, a state funeral organized and attended by Hitler.
+
+=== KEY: Erie_Canal_842021
+HEADWORD: Erie Canal = 이리 운하
+LEVEL: 4
+GLOSSARY:
+  Appalachians = 애팔래치아산맥
+  Atlantic Ocean = 대서양
+  Canal = 운하
+  China = 중국
+  City = 도시
+  Civil engineering = 토목 공학
+  Clinton's Folly = 클린턴의 어리석은 짓
+  Cycling = 자전거 타기
+  Grand Canal = 대운하
+  Grand Canal (China) = 대운하
+  Great Lakes = 오대호
+  Hudson River = 허드슨강
+  Lake = 호수
+  Lake Erie = 이리호
+  New York City = 뉴욕
+  Niagara = 「나이아가라」
+  Niagara Falls = 나이아가라 폭포
+  Ocean = 대양
+  River = 강
+  York = 요크
+ENTRY:
+Waterway in upstate New York, U.S., between the [[Hudson River]] and [[Lake Erie]].
+Completed in 1825, it was the first navigable waterway connecting the [[Atlantic Ocean]] to the upper [[Great Lakes]] above [[Niagara Falls]]. It sharply reduced the cost of transporting people and goods across the Appalachians, accelerated settlement of the Great Lakes region and gave New York City a strong advantage over other U.S. ports. Opponents called it "Clinton's Folly." Its construction was a landmark [[Civil engineering|civil engineering]] achievement; at 363 miles (584 km) long, it was the second-longest canal in the world after the [[Grand Canal (China)|Grand Canal]] in China. Commercial traffic declined in the 20th century, and today the canal is used mainly by recreational boats, with many [[Cycling|cyclists]] following its trail.
+
+=== KEY: Erik_Erikson_68c2d6
+HEADWORD: Erikson, Erik = 에릭슨, 에릭
+LEVEL: 4
+GLOSSARY:
+  Anna Freud = 아나 프로이트
+  Boston = 보스턴
+  California = 캘리포니아주
+  Developmental psychology = 발달 심리학
+  Freud = 프로이트
+  Gandhi = 「간디」
+  Germany = 독일
+  Harvard = 하버드
+  Identity (social science) = 정체성
+  Mahatma = 마하트마
+  Mahatma Gandhi = 마하트마 간디
+  Martin Luther = 마르틴 루터
+  Nazi = 나치
+  Nazi Germany = 나치 독일
+  Psychoanalysis = 정신 분석
+  Psychology = 심리학
+  Review of General Psychology = 『일반 심리학 리뷰』
+  University = 대학
+  University of California, Berkeley = 캘리포니아 대학교 버클리
+  Vienna = 빈
+  Yale = 예일 대학교
+  identity crisis = 정체성 위기
+  psychosocial development = 심리사회적 발달
+ENTRY:
+German-American [[Developmental psychology|developmental psychologist]] and psychoanalyst.
+He formulated a theory of eight stages of psychosocial development across the human lifespan, each defined by a crisis, such as trust versus mistrust in infancy and identity versus role confusion in adolescence. He coined the phrase [[Identity (social science)|identity crisis]]. He trained in [[Psychoanalysis|psychoanalysis]] in Vienna under [[Anna Freud]] and fled Nazi Germany in 1933 to settle in [[Boston]]. Despite lacking a university degree, he taught at Harvard, the [[University of California, Berkeley]] and Yale. His later works applied psychohistorical analysis to [[Martin Luther]] and [[Mahatma Gandhi]]. A 2002 survey in *Review of General Psychology* ranked him the 12th most eminent psychologist of the 20th century.
+
+=== KEY: Erik_Prince_6dc61c
+HEADWORD: Prince, Erik = 프린스, 에릭
+LEVEL: 5
+GLOSSARY:
+  Baghdad = 바그다드
+  Betsy DeVos = 벳시 디보스
+  Blackwater = 블랙워터
+  Frontier Resource Group = 프런티어 리소스 그룹
+  Frontier Services Group = 프런티어 서비스 그룹
+  Nisour Square = 니수르 광장
+  Prince = 후작
+  Square = 정사각형
+  chief executive = 집정
+  private equity = 사모 펀드
+ENTRY:
+American businessman and founder of private military contractor Blackwater.
+He was Blackwater's chief executive until 2009 and its chairman until its sale in 2010. In 2007 Blackwater guards killed 17 Iraqi civilians in [[Baghdad]]'s Nisour Square; four convicted guards were pardoned in 2020. Prince founded the private equity firm Frontier Resource Group in 2012 and chaired the Hong Kong-listed Frontier Services Group until 2021. He is the brother of former U.S. secretary of education Betsy DeVos.
+
+=== KEY: Erin_Andrews_fad570
+HEADWORD: Andrews, Erin = 앤드루스, 에린
+LEVEL: 5
+GLOSSARY:
+  99 to Beat = 「99 투 비트」
+  Beat = 「비트」
+  Dancing with the Stars = 「댄싱 위드 더 스타」
+  ESPN = ESPN
+  Football = 축구
+  Football League = 풋볼 리그
+  Fox Sports = 폭스 스포츠
+  National Football League = 내셔널 풋볼 리그
+ENTRY:
+American sportscaster and television personality.
+Andrews joined [[ESPN]] in 2004 and moved to Fox Sports in 2012, where she became lead sideline reporter for the National Football League broadcasts. She placed third on the tenth season of ABC's *Dancing with the Stars* in 2010 and co-hosted the program from 2014 to 2019. She has since co-hosted *99 to Beat*, beginning in 2025.
+
+=== KEY: Erin_Brockovich_f3faa8
+HEADWORD: Brockovich, Erin = 브로코비치, 에린
+LEVEL: 5
+GLOSSARY:
+  California = 캘리포니아주
+  Ed Masry = 에드 매스리
+  Erin Brockovich = 「에린 브로코비치」
+  Groundwater = 지하수
+  Hinkley = 힝클리
+  Julia Roberts = 줄리아 로버츠
+  Pacific = 태평양
+  United States = 미국
+ENTRY:
+American paralegal and environmental activist. As a legal clerk for attorney Ed Masry, Brockovich helped build a 1993 case against Pacific Gas & Electric Company (PG&E) over [[Groundwater|groundwater]] contamination in Hinkley, California. The case settled in 1996 for $333 million, the largest settlement ever paid in a direct-action lawsuit in United States history to that date. It inspired the Oscar-winning film *Erin Brockovich* (2000), starring [[Julia Roberts]]. Critics argue that the film overstated the causal link between the contamination and widespread illness.
+
+=== KEY: Eris_dwarf_planet_66999e
+HEADWORD: Eris = 에리스
+LEVEL: 4
+GLOSSARY:
+  Brown = 브라운
+  Ceres (dwarf planet) = 세레스
+  Dysnomia = 디스노미아
+  Eris = 에리스
+  International Astronomical Union = 국제 천문 연맹
+  Mike Brown = 마이크 브라운
+  Neptune = 해왕성
+  Pluto = 명왕성
+  Solar System = 태양계
+  Trans-Neptunian object = 해왕성 바깥 천체
+  dwarf planet = 왜행성
+  scattered disk = 산란 원반
+  trans-Neptunian object = 해왕성 바깥 천체
+ENTRY:
+Most massive known dwarf planet in the Solar System. Eris is a [[Trans-Neptunian object|trans-Neptunian object]] in the scattered disk, with a highly eccentric orbit. It was discovered in January 2005 by a team led by Mike Brown and named in September 2006 after the Greco-Roman goddess of strife and discord. Eris is 2,326 ± 12 km in diameter, and its mass is 27% greater than that of [[Pluto]], although Pluto is slightly larger by volume. In February 2016 it was 96.3 AU from the Sun, more than three times the distance of [[Neptune]]. Its apparent size led the International Astronomical Union to define the term planet in 2006, classing [[Ceres (dwarf planet)|Ceres]], Pluto and Eris as dwarf planets. Eris has one large confirmed moon, Dysnomia.
+
+=== KEY: Eritrea_c9c9f1
+HEADWORD: Eritrea = 에리트레아
+LEVEL: 4
+GLOSSARY:
+  Aksum = 악숨
+  Asmara = 아스마라
+  Democracy = 민주주의
+  Djibouti = 지부티
+  Eritrea = 에리트레아
+  Ethiopia = 에티오피아
+  Horn of Africa = 아프리카의 뿔
+  Isaias Afwerki = 이사이아스 아프웨르키
+  Italian Eritrea = 이탈리아령 에리트레아
+  Italy = 이탈리아
+  Justice = 정의
+  Kingdom of Aksum = 악숨 왕국
+  People's Front for Democracy and Justice = 민주정의인민전선
+  Red Sea = 홍해
+  Sudan = 수단
+  de facto = 사실상
+ENTRY:
+Country in the [[Horn of Africa]] on the Red Sea coast (pop., 2026: about 3.7 million). It is a unitary presidential republic with its capital at [[Asmara]], bordering [[Ethiopia]], [[Sudan]] and [[Djibouti]]. The [[Kingdom of Aksum]], centered in Eritrea and northern Ethiopia, was established in the first or second century AD. Italy formed the colony of Italian Eritrea in 1889. Ethiopia annexed Eritrea in 1962, and Eritrea gained de facto independence in 1991 and de jure independence in 1993 after a referendum. Isaias Afwerki has been president since independence. The People's Front for Democracy and Justice is the sole legal party, and national legislative and presidential elections have never been held. The human rights record has been described as among the worst in the world; the government dismisses such allegations as politically motivated.
+
+=== KEY: Ernest_Borgnine_309c69
+HEADWORD: Borgnine, Ernest = 보그나인, 어니스트
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Actor = 아카데미 남우주연상
+  Actor = 배우
+  Best Actor = 남우주연상
+  Best Picture = 작품상
+  ER (TV series) = 「ER」
+  Emmy = 에미상
+  Emmy Award = 에미상
+  Marty = 「마티」
+  McHale's Navy = 「맥헤일스 네이비」
+  Mermaid = 인어
+  Mermaid Man = 머메이드맨
+  Navy = 해군
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Award = 프라임타임 에미상
+  SpongeBob SquarePants = 「네모바지 스폰지밥」
+  U.S. Navy = 미국 해군
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+American film and television actor. Borgnine won the Academy Award for Best Actor for *Marty* (1955), which also won Best Picture. He starred as the title character in the sitcom *McHale's Navy* (1962–1966) and served in the U.S. Navy during [[World War II]]. He voiced Mermaid Man in *SpongeBob SquarePants* from 1999 until his death. At age 92 he earned a Primetime Emmy Award nomination for the 2009 series finale of [[ER (TV series)|ER]].
+
+=== KEY: Ernest_Hemingway_3c1fd4
+HEADWORD: Hemingway, Ernest = 헤밍웨이, 어니스트
+LEVEL: 4
+GLOSSARY:
+  A Farewell to Arms = 『무기여 잘 있거라』
+  Bell = 종
+  Civil War = 남북 전쟁
+  Fiction = 픽션
+  For Whom the Bell Tolls = 『누구를 위하여 종은 울리나』
+  Hemingway = 헤밍웨이
+  Italian front = 이탈리아 전선
+  Italian front (World War I) = 이탈리아 전선
+  Literature = 문학
+  Lost = 「로스트」
+  Lost Generation = 잃어버린 세대
+  Nobel Prize = 노벨상
+  Nobel Prize in Literature = 노벨 문학상
+  Old Man = 올드 맨
+  Paris = 파리
+  Pulitzer Prize = 퓰리처상
+  Pulitzer Prize for Fiction = 퓰리처상 소설 부문
+  Spanish Civil War = 스페인 내전
+  The Old Man and the Sea = 『노인과 바다』
+  The Sun = 『더 선』
+  The Sun Also Rises = 『해는 또다시 떠오른다』
+ENTRY:
+American novelist, short-story writer and journalist. His economical, understated prose influenced later 20th-century writers. Hemingway wrote seven novels, six short-story collections and two non-fiction works, several of which are classics of American literature. He served as an ambulance driver on the [[Italian front (World War I)|Italian front]] and was seriously wounded in 1918. In Paris in the 1920s he was associated with the expatriate [[Lost Generation]] community; his debut novel, *The Sun Also Rises* (1926), followed. *A Farewell to Arms* (1929) drew on his war experience. He covered the [[Spanish Civil War]] for *For Whom the Bell Tolls* (1940). *The Old Man and the Sea* (1952) won the [[Pulitzer Prize]] for Fiction, and he was awarded the 1954 Nobel Prize in Literature. Injuries from two plane crashes in Africa in 1954 left him in pain and ill health for much of the rest of his life.
+
+=== KEY: Ernest_Lawrence_3e250f
+HEADWORD: Lawrence, Ernest = 로런스, 어니스트
+LEVEL: 4
+GLOSSARY:
+  California = 캘리포니아주
+  Laboratory = 실험실
+  Lawrence Berkeley National Laboratory = 로런스 버클리 국립연구소
+  Lawrence Livermore National Laboratory = 로런스 리버모어 국립 연구소
+  Manhattan = 맨해튼
+  Manhattan Project = 맨해튼 계획
+  Nobel Prize = 노벨상
+  Nobel Prize in Physics = 노벨 물리학상
+  Particle accelerator = 입자 가속기
+  Physics = 물리학
+  Radiation Laboratory = 방사선 연구소
+  University = 대학
+  University of California, Berkeley = 캘리포니아 대학교 버클리
+  World = 세계
+  World War II = 제2차 세계 대전
+  calutrons = 칼루트론
+  cyclotron = 사이클로트론
+  electromagnetic isotope separation = 전자기 동위원소 분리
+  isotope separation = 동위 원소 분리
+  lawrencium = 로렌슘
+ENTRY:
+American physicist and Nobel laureate. Lawrence received the 1939 Nobel Prize in Physics for inventing the [[Particle accelerator|cyclotron]], a circular accelerator with a chamber set between the poles of an electromagnet. He joined the [[University of California, Berkeley]], in 1928 and became its youngest full professor two years later. His Radiation Laboratory built a series of ever larger cyclotrons. During World War II he developed electromagnetic isotope separation, using devices called calutrons, to enrich uranium for the [[Manhattan Project]]. He founded the Lawrence Berkeley National Laboratory, and the Lawrence Livermore National Laboratory was also named for him. Element 103, lawrencium, was named in his honor.
+
+=== KEY: Ernest_Rutherford_9fd850
+HEADWORD: Rutherford, Ernest = 러더퍼드, 어니스트
+LEVEL: 4
+GLOSSARY:
+  Alpha particle = 알파 입자
+  Bohr model = 보어 모형
+  Cambridge = 케임브리지
+  Cavendish = 캐번디시
+  Cavendish Laboratory = 캐번디시 연구소
+  Chemistry = 화학
+  Ernest Marsden = 어니스트 마스든
+  Hans Geiger = 한스 가이거
+  Helium = 헬륨
+  James = 야고보
+  James Chadwick = 제임스 채드윅
+  Laboratory = 실험실
+  Neutron = 중성자
+  New Zealand = 뉴질랜드
+  Niels Bohr = 닐스 보어
+  Nobel Prize = 노벨상
+  Nobel Prize in Chemistry = 노벨 화학상
+  Proton = 양성자
+  Rutherford = 러더퍼드
+  Thomas = 토머스
+  Thomas Royds = 토머스 로이즈
+  United Kingdom = 영국
+  University = 대학
+  University of Cambridge = 케임브리지 대학교
+  Zealand = 셸란섬
+  beta radiation = 베타선
+  gold foil experiment = 금박 실험
+  nuclear physics = 핵물리학
+ENTRY:
+New Zealand physicist and chemist. Known as the father of nuclear physics, Rutherford received the 1908 Nobel Prize in Chemistry "for his investigations into the disintegration of the elements, and the chemistry of radioactive substances." He named [[Alpha particle|alpha]] and beta radiation and, with Thomas Royds, showed that alpha radiation consists of [[Helium]] nuclei. In 1911 he proposed that an atom's charge is concentrated in a small nucleus, based on the gold foil experiment of Hans Geiger and Ernest Marsden. In 1912 he invited [[Niels Bohr]] to his laboratory, which led to the [[Bohr model]] of the atom. In 1917 he performed the first artificially induced nuclear reaction and identified the [[Proton|proton]]. As director of the Cavendish Laboratory at the [[University of Cambridge]], he oversaw the 1932 discovery of the [[Neutron|neutron]] by James Chadwick. He was made a baron of the United Kingdom.

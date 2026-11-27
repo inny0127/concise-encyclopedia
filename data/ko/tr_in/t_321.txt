@@ -1,0 +1,899 @@
+=== KEY: Statute_00df5e
+HEADWORD: Statute = 제정법
+LEVEL: 4
+GLOSSARY:
+  Common law = 보통법
+  Constitution = 헌법
+  Court = 법원
+  Court of Justice = 정의의 법정
+  French = 프랑스어
+  International Court of Justice = 국제 사법 재판소
+  Justice = 정의
+  Legislature = 입법부
+  Old French = 고대 프랑스어
+  Spain = 스페인
+  Statute = 제정법
+  autonomy statute = 자치 헌장
+  common law = 보통법
+  organic law = 조직법
+  secondary legislation = 위임 입법
+  statutory law = 제정법
+ENTRY:
+Law or formal written enactment of a [[Legislature|legislature]]. Statutes typically declare, command or prohibit something. They are distinguished from [[Common law|common law]], which is unwritten, and from secondary legislation, or regulations, issued by an executive body under authority granted by a statute. Depending on the legal system, a statute may be called an "act." The word appears in English as early as the 14th century, derived from Old French *statut*. Many countries organize statutes into topical codes, which are amended as new statutes add, amend or repeal sections. In many nations, statutory law is subordinate to [[Constitution|constitutional law]]. The term also covers treaties establishing institutions, such as the Statute of the [[International Court of Justice]]. In Spain, an autonomy statute resembles a constitution and has the rank of organic law.
+
+=== KEY: Statutory_interpretation_d22534
+HEADWORD: Statutory interpretation = 법령 해석
+LEVEL: 4
+GLOSSARY:
+  Common law = 보통법
+  Parliament = 의회
+  Textualism = 문언주의
+  canons of construction = 해석 준칙
+  common law = 보통법
+  delegated legislation = 위임 입법
+  golden rule = 황금 규칙
+  legislative history = 입법 연혁
+  literal rule = 문리 해석 규칙
+  mischief rule = 해악 규칙
+  purposivism = 목적주의
+ENTRY:
+Process by which courts interpret and apply legislation. Some interpretation is often necessary, because a statute's ambiguous words must be resolved by the judge. Judges use traditional canons of construction, legislative history and purpose. In [[Common law|common law]] jurisdictions, the same rules may apply to delegated legislation such as administrative agency regulations. English courts developed three main rules, the mischief rule, the literal rule and the golden rule, all aimed at the "intention of Parliament." Courts also presume that statutes do not change the common law, remove individual liberty or property, or apply retrospectively. Textualism prioritizes the ordinary public meaning of words, while purposivism infers meaning from a statute's objectives. The two approaches remain contested, particularly over the use of legislative history.
+
+=== KEY: Statutory_rape_411cb7
+HEADWORD: Statutory rape = 의제 강간
+LEVEL: 5
+GLOSSARY:
+  Age of consent = 성적 동의 연령
+  Italy = 이탈리아
+  Romeo and Juliet = 로미오와 줄리엣
+  age of consent = 성적 동의 연령
+ENTRY:
+Sexual activity with a person below the [[Age of consent|age of consent]]. The term usually refers to adults engaging in sexual contact with minors. Overt force or threat is usually absent, because the law presumes coercion: a minor or mentally disabled adult is incapable of consent. In many jurisdictions the age of consent means mental or functional age, so a victim may be of any chronological age. In Italy the age of consent is 14, with a "Romeo and Juliet" rule for a one-year age difference, rising to 16 where the older person has authority, such as a teacher or doctor.
+
+=== KEY: Stealth_technology_910866
+HEADWORD: Stealth technology = 스텔스 기술
+LEVEL: 4
+GLOSSARY:
+  Bomber = 폭격기
+  Camouflage = 위장
+  Military = 군대
+  Northrop = 노스럽
+  Northrop Grumman = 노스럽 그러먼
+  Northrop Grumman B-2 Spirit = 노스럽 그러먼 B-2 스피릿
+  Radar = 레이더
+  Sonar = 소나
+  Soviet Union = 소련
+  Sun = 태양
+  Sun Tzu = 손자
+  The Art of War = 『손자병법』
+  U-2 = U-2
+  United States = 미국
+  airship = 비행선
+  low observable technology = 저피탐 기술
+  multispectral camouflage = 다중 스펙트럼 위장
+  radiation-absorbent material = 전파 흡수 물질
+ENTRY:
+Military techniques that make personnel, aircraft, ships and vehicles less detectable to [[Radar|radar]], infrared, [[Sonar|sonar]] and other sensors. Also termed low observable technology, stealth is a sub-discipline of military tactics that corresponds to multispectral [[Camouflage|camouflage]]. Development of modern stealth in the United States began in 1958, after attempts to prevent [[Soviet Union|Soviet]] radar tracking of U-2 spy planes had failed. Designers shaped aircraft to redirect radar waves and applied radiation-absorbent material, producing the Northrop Grumman B-2 Spirit "Stealth Bomber." Methods of visual concealment were documented by [[Sun Tzu]] in *The Art of War* in the 5th century BC. In 1916 the British modified an airship for night reconnaissance, but its silent, dark design produced little useful intelligence. The concept of stealth is to operate or hide from external observation, and the degree of stealth in a design is chosen according to the projected threats of detection.
+
+=== KEY: Steam_engine_5e1f28
+HEADWORD: Steam engine = 증기 기관
+LEVEL: 3
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  Electric motor = 전동기
+  Germany = 독일
+  Heat = 열
+  Heat engine = 열기관
+  Hero of Alexandria = 알렉산드리아의 헤론
+  Industrial Revolution = 산업 혁명
+  Internal combustion engine = 내연 기관
+  James = 야고보
+  James Watt = 제임스 와트
+  Jerónimo de Ayanz y Beaumont = 헤로니모 데 아얀스 이 보몬트
+  Rankine cycle = 랭킨 사이클
+  Steam = 스팀
+  Steam locomotive = 증기 기관차
+  Steam turbine = 증기 터빈
+  Thomas = 토머스
+  Thomas Savery = 토머스 세이버리
+  Watt = 와트
+  aeolipile = 아이올로스의 공
+  atmospheric engine = 대기압 기관
+  external combustion engines = 외연 기관
+  internal combustion engine = 내연 기관
+  mechanical work = 역학적 일
+  paddle steamers = 외륜 증기선
+  piston engines = 피스톤 엔진
+  thermal efficiency = 열효율
+  working fluid = 작동 유체
+ENTRY:
+Heat engine that performs mechanical work using steam as its working fluid. Steam pressure pushes a piston back and forth inside a cylinder, and a connecting rod and crank convert this force into rotation. They are external combustion engines. The term normally means reciprocating engines, though some authorities also apply it to the [[Steam turbine|steam turbine]] and to devices such as the aeolipile of [[Hero of Alexandria]], known in the first century AD. It can also mean a whole plant, such as a [[Steam locomotive|steam locomotive]].
+
+In 1606 Jerónimo de Ayanz y Beaumont patented the first steam-powered water pump for draining mines. Thomas Savery built the first commercially used steam device, a pump, in 1698. The first commercially successful engine able to transmit continuous power to a machine was Thomas Newcomen's atmospheric engine, developed around 1712. In 1764 [[James Watt]] greatly improved fuel efficiency by removing spent steam to a separate vessel for condensation.
+
+By the 19th century stationary steam engines powered the factories of the [[Industrial Revolution]], paddle steamers replaced sailing ships, and steam locomotives ran on the railways. Reciprocating piston engines were the dominant source of power until the early 20th century. A Rankine cycle efficiency of 91% and a combined thermal efficiency of 31% were demonstrated and published in 1921 and 1928.
+
+Advances in the [[Electric motor|electric motor]] and the [[Internal combustion engine|internal combustion engine]] gradually replaced steam engines in commercial use, and steam turbines supplanted them in power generation. Large reciprocating piston steam engines are still manufactured in Germany.
+
+=== KEY: Steam_locomotive_b87ea4
+HEADWORD: Steam locomotive = 증기 기관차
+LEVEL: 4
+GLOSSARY:
+  Coal = 석탄
+  Coke (fuel) = 코크스
+  George Stephenson = 조지 스티븐슨
+  LNER Class A4 4468 Mallard = LNER A4형 4468 맬러드
+  Locomotion No. 1 = 로코모션 1호
+  Locomotive = 기관차
+  Mallard = 청둥오리
+  Pen-y-darren = 페니다렌
+  Richard = 리처드
+  Richard Trevithick = 리처드 트레비식
+  Robert = 로버트
+  Steam = 스팀
+  Steam engine = 증기 기관
+  Stockton and Darlington Railway = 스톡턴-달링턴 철도
+  iron horse = 철마
+ENTRY:
+Locomotive that moves itself and other vehicles by the expansion of [[Steam engine|steam]], also called an iron horse. It burns [[Coal|coal]], [[Coke (fuel)|coke]], oil or, rarely, wood to heat water in its boiler, where the water's volume increases 1,600 to 1,700 times. Richard Trevithick built the first locomotive known to have hauled a load over a distance, at Pen-y-darren in 1804. *Locomotion No. 1*, built by [[George Stephenson]] and his son Robert, hauled passengers on a public railway, the Stockton and Darlington Railway, in 1825. Steam locomotives were superseded by electric and diesel locomotives from the early 1900s, and most were retired by the 1980s, though several continue on tourist and heritage lines. A British speed record of 126 miles per hour (203 kilometers per hour), still unbroken, was set by LNER Class A4 4468 *Mallard*.
+
+=== KEY: Steam_service_665d0c
+HEADWORD: Steam = 스팀
+LEVEL: 5
+GLOSSARY:
+  API = 응용 프로그래밍 인터페이스
+  Linux = 리눅스
+  MacOS = macOS
+  Steamworks = 스팀웍스
+  Valve = 밸브
+  Valve Corporation = 밸브 코퍼레이션
+  application programming interface = 응용 프로그래밍 인터페이스
+  digital rights management = 디지털 저작권 관리
+ENTRY:
+Digital distribution platform for PC games, developed by [[Valve Corporation|Valve]]. Launched as a software client in September 2003 to update Valve's games automatically, it expanded to third-party titles in late 2005. Features include cloud storage, direct messaging and community forums. Steamworks, an [[API|application programming interface]] released in 2008, lets developers integrate Steam's functions, including digital rights management. The platform was ported to [[MacOS|macOS]] in 2010 and to [[Linux]] in 2013. As of 2013 it held an estimated 75% of the PC game distribution market; by 2021 it offered over 34,000 games and over 132 million monthly active users.
+
+=== KEY: Steam_turbine_671b83
+HEADWORD: Steam turbine = 증기 터빈
+LEVEL: 4
+GLOSSARY:
+  Arabelle = 아라벨
+  Charles Parsons = 찰스 파슨스
+  Electric generator = 발전기
+  Heat = 열
+  Heat engine = 열기관
+  Hinkley = 힝클리
+  Hinkley Point C Nuclear Power Station = 힝클리 포인트 C 원자력 발전소
+  Power station = 발전소
+  Sir Charles = 서 찰스
+  fossil fuels = 화석 연료
+  marine propulsion = 선박 추진
+  mechanical work = 역학적 일
+  rotary motion = 회전 운동
+ENTRY:
+Heat engine that extracts thermal energy from pressurized steam to do mechanical work through a rotating output shaft. Its modern form was invented by Sir Charles Parsons in 1884, and it revolutionized marine propulsion. Much of its efficiency comes from multiple stages in the expansion of steam. Because it generates rotary motion, it can drive an [[Electric generator|electric generator]], forming the core of thermal [[Power station|power stations]] fueled by fossil fuels, nuclear fuels, geothermal or solar energy. About 42% of all U.S. electricity generation in 2022 came from steam turbines. The largest ever built is the 1,770 MW Arabelle, two units of which will be installed at Hinkley Point C Nuclear Power Station. Technical challenges include rotor imbalance, vibration and bearing wear.
+
+=== KEY: Steaming_260e84
+HEADWORD: Steaming = 찜
+LEVEL: 4
+GLOSSARY:
+  Bamboo = 대나무
+  Bamboo steamers = 대나무 찜기
+  Boiling = 끓음
+  Cooking = 요리
+  River = 강
+  Steaming = 찜
+  USDA = 미국 농무부
+  Vitamin C = 비타민 C
+  Yellow River = 황허강
+  food steamer = 찜기
+  vitamin C = 비타민 C
+  wok = 웍
+ENTRY:
+Cooking method in which food is fully immersed in steam with no air present, so that the steam condenses on the food. It is often done in a food steamer, or in a wok. Some of the world's earliest steam cookers, made of stoneware, have been found in China's [[Yellow River]] valley, dating back to as early as 5,000 BCE. Steaming is considered a healthy technique and can be far faster and more energy-efficient than full immersion in [[Boiling|boiling water]], because it heats much less water. A 2007 USDA comparison found that steaming reduces [[Vitamin C|vitamin C]] by 15%, and boiling reduces it by 25%. Bamboo steamers take longer to heat up but absorb excess moisture.
+
+=== KEY: Steamship_112b4a
+HEADWORD: Steamship = 증기선
+LEVEL: 4
+GLOSSARY:
+  Archimedes = 아르키메데스
+  Globalization = 세계화
+  Great Western = 그레이트 웨스턴호
+  Isambard Kingdom Brunel = 이점바드 킹덤 브루넬
+  Ocean liner = 원양 정기선
+  Pyroscaphe = 피로스카프
+  screw propeller = 스크루 프로펠러
+  side-wheel paddle steamer = 측면 외륜선
+  steamboats = 증기선
+ENTRY:
+Steam-powered vessel, typically ocean-faring, propelled by steam engines that turn propellers or paddlewheels. Steamships were preceded by smaller steamboats; the first working steamboat and paddle steamer, the *Pyroscaphe*, dates from 1783. Paddlewheels were standard on early vessels, but their performance fell when added weight submerged them. The change to the screw propeller made ocean-going steamers viable. The first steamship purpose-built for regular trans-Atlantic crossings, the side-wheel paddle steamer *Great Western*, was built by [[Isambard Kingdom Brunel]] in 1838 and inaugurated the era of the trans-Atlantic [[Ocean liner|ocean liner]]. In 1839, *Archimedes* became the first screw propeller-driven steamship for open-water seagoing. Because steamships depended less on wind patterns, new trade routes opened, and the steamship has been described as a major driver of the first wave of [[Globalization|trade globalization]] (1870–1913).
+
+=== KEY: Steel_466811
+HEADWORD: Steel = 강철
+LEVEL: 3
+GLOSSARY:
+  Alloy = 합금
+  Bessemer process = 베서머 공정
+  Bethlehem = 베들레헴
+  Bloomery = 괴철로
+  Cast iron = 주철
+  China = 중국
+  Chromium = 크로뮴
+  Cleveland = 클리블랜드
+  England = 잉글랜드
+  Iron = 철
+  Mild steel = 연강
+  Ohio = 오하이오주
+  Pennsylvania = 펜실베이니아주
+  Pig iron = 선철
+  Pittsburgh = 피츠버그
+  Plain = 평야
+  Stainless steel = 스테인리스강
+  Steel = 강철
+  Wrought iron = 연철
+  basic oxygen steelmaking = 염기성 산소 제강법
+  blast furnace = 용광로
+  crucible steel = 도가니강
+  galvanized steel = 아연 도금 강판
+  manganese = 망가니즈
+  molybdenum = 몰리브데넘
+  open-hearth furnace = 평로
+  slag = 슬래그
+  tungsten = 텅스텐
+  vanadium = 바나듐
+  wrought iron = 연철
+ENTRY:
+Alloy of iron and carbon with improved mechanical properties compared with pure iron. Its high strength and low raw material cost make it one of the most commonly manufactured materials. It is used in construction, bridges, tools, ships, trains, cars, machines, appliances, and weapons.
+
+Steel is an [[Alloy|alloy]] of [[Iron|iron]] and carbon, and often other elements, with a carbon content up to 2.14% by weight. Plain iron–carbon alloys above about 2.1% carbon are [[Cast iron|cast iron]], which is not malleable even when hot but casts well. [[Wrought iron]], now largely obsolete, contains little carbon but large amounts of slag. Alloy steels contain deliberately added elements such as manganese, nickel, molybdenum, vanadium, and tungsten. [[Stainless steel|Stainless steels]] typically contain 18% [[Chromium|chromium]] for corrosion resistance, and galvanized steel is coated in zinc.
+
+When iron is smelted from ore with coke or charcoal, the result is [[Pig iron|pig iron]], rich in carbon. Refining injects oxygen into the molten iron to remove excess carbon. Bloomery furnaces produced steel for thousands of years, but large-scale industrial use began after the blast furnace and crucible steel were introduced in the 17th century. The Bessemer process in England in the mid-19th century began an era of mass-produced steel, followed by the open-hearth furnace and basic oxygen steelmaking. Mild steel replaced wrought iron. American production centered on Pittsburgh, Bethlehem, Pennsylvania, and Cleveland, Ohio until the late 20th century.
+
+More than 1.6 billion tons are produced annually, and [[China]] produced 54% of the world's steel in 2023. The industry contributes 8% of global emissions, but steel is one of the most recycled materials, with a global recycling rate of over 60%.
+
+=== KEY: Steelmaking_f007cc
+HEADWORD: Steelmaking = 제강
+LEVEL: 4
+GLOSSARY:
+  Oxygen = 산소
+  Pig iron = 선철
+  Siemens-Martin = 지멘스-마르탱
+  Steel = 강철
+  blast furnace = 용광로
+  direct reduced iron = 직접 환원철
+  electric arc = 전기 아크
+  electric arc furnace = 전기 아크로
+  greenhouse gas = 온실가스
+  manganese = 망가니즈
+  vanadium = 바나듐
+ENTRY:
+Process of producing [[Steel|steel]] from iron ore and/or scrap. Steel is made from iron and carbon, with less than 1 percent carbon giving it strength. Impurities such as nitrogen, silicon, phosphorus and sulfur are removed, and alloying elements such as manganese, nickel, chromium and vanadium are added to produce different grades. Two major commercial processes are used. Basic oxygen steelmaking (BOS) uses liquid [[Pig iron|pig iron]] from a blast furnace and scrap steel as its main feed, while electric arc furnace (EAF) steelmaking uses scrap steel or direct reduced iron. Oxygen steelmaking has become more popular over time. Commercialized on a massive scale in the 1850s and 1860s by the Bessemer and Siemens-Martin processes, steelmaking is one of the most carbon-intensive industries. In 2020 it was responsible for 7% of energy sector greenhouse gas emissions.
+
+=== KEY: Steely_Dan_868616
+HEADWORD: Steely Dan = 스틸리 댄
+LEVEL: 5
+GLOSSARY:
+  Aja = 「에이자」
+  Annandale-on-Hudson = 애넌데일온허드슨
+  Blues = 블루스
+  Donald Fagen = 도널드 페이건
+  Jazz = 재즈
+  Latin = 라틴어
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Walter Becker = 월터 베커
+  York = 요크
+ENTRY:
+American rock band formed in 1971 by Walter Becker and Donald Fagen in Annandale-on-Hudson, New York. Becker and Fagen stopped performing live by the end of 1974 and continued as a studio-only duo. Their music blended rock, [[Jazz|jazz]], Latin, R&B and [[Blues|blues]] with cryptic, irony-infused lyrics. Their top-selling album, *Aja*, came out in 1977. The band disbanded in 1981 and reunited in 1993. It was inducted into the [[Rock and Roll Hall of Fame]] in 2001 and has sold more than 40 million records. After Becker's death in 2017, Fagen remained the sole official member until 2024.
+
+=== KEY: Stefan_Banach_94043c
+HEADWORD: Banach, Stefan = 바나흐, 스테판
+LEVEL: 4
+GLOSSARY:
+  Banach algebras = 바나흐 대수
+  Banach fixed-point theorem = 바나흐 고정점 정리
+  Banach spaces = 바나흐 공간
+  Functional analysis = 함수해석학
+  Hugo = 휴고상
+  Hugo Steinhaus = 후고 슈타인하우스
+  Learning = 학습
+  Lviv = 르비우
+  Lwów = 르부프
+  Lwów Polytechnic = 르부프 공과 대학
+  Lwów School of Mathematics = 르부프 수학파
+  Mathematics = 수학
+  Polish Academy of Learning = 폴란드 학술원
+  Polish Mathematical Society = 폴란드 수학회
+  School = 학교
+  Society = 사회
+  Studia Mathematica = 『스투디아 마테마티카』
+  Theory = 이론
+  Théorie des opérations linéaires = 『선형 연산자 이론』
+  functional analysis = 함수해석학
+ENTRY:
+Polish mathematician, one of the founders of modern [[Functional analysis|functional analysis]]. Banach was an original member of the [[Lviv|Lwów]] School of Mathematics. With Hugo Steinhaus, he established the Polish Mathematical Society in 1919 and later published the journal *Studia Mathematica*. His major work was the 1932 book *Théorie des opérations linéaires* (*Theory of Linear Operations*), the first monograph on the general theory of functional analysis. Concepts bearing his name include Banach spaces, Banach algebras, the Banach–Tarski paradox, the Hahn–Banach theorem and the Banach fixed-point theorem. He became a professor at the Lwów Polytechnic in 1922 and a member of the Polish Academy of Learning in 1924.
+
+=== KEY: Stefan_Boltzmann_law_a6642a
+HEADWORD: Stefan–Boltzmann law = 슈테판-볼츠만 법칙
+LEVEL: 5
+GLOSSARY:
+  Boltzmann constant = 볼츠만 상수
+  Josef = 요제프
+  Josef Stefan = 요제프 슈테판
+  Ludwig = 루트비히
+  Ludwig Boltzmann = 루트비히 볼츠만
+  Physical = 「Physical」
+  black body = 흑체
+  emissivity = 방사율
+  radiant exitance = 복사 발산도
+  surface area = 겉넓이
+  thermal radiation = 열복사
+ENTRY:
+Physical law relating the thermal radiation of a black body to its temperature. States that the total energy radiated per unit surface area per unit time by a black body is directly proportional to the fourth power of its temperature. The constant of proportionality, σ, is the Stefan–Boltzmann constant. For other surfaces the radiant exitance is M = εσT⁴, where ε is the emissivity, generally between zero and one. Josef Stefan derived the relationship empirically, and [[Ludwig Boltzmann]] derived the law theoretically.
+
+=== KEY: Stefan_Du_an_a63833
+HEADWORD: Stefan Dušan = 스테판 두샨
+LEVEL: 4
+GLOSSARY:
+  Albanians = 알바니아인
+  Belgrade = 베오그라드
+  Bulgarians = 불가리아인
+  Church = 처치
+  Church of Saint Mark = 성 마르코 교회
+  Corinth = 코린토스
+  Danube = 도나우강
+  Dušan the Mighty = 강대왕 두샨
+  Dušan's Code = 두샨 법전
+  Europe = 유럽
+  Gulf of Corinth = 코린토스만
+  Monastery = 수도원
+  Ottoman = 오스만
+  Ottoman Turks = 오스만 튀르크
+  Saint = 성인
+  Serbia = 세르비아
+  Serbian = 세르비아어
+  Serbian Church = 세르비아 정교회
+  Serbian Empire = 세르비아 제국
+  Serbs = 세르비아인
+  Skopje = 스코페
+  Southeast = 남동부
+  Southeast Europe = 남동유럽
+  Turks = 튀르크인
+  UNESCO = 유네스코
+  Venice = 베네치아
+  Visoki Dečani Monastery = 비소키 데차니 수도원
+ENTRY:
+Serbian king (1331–1355) and emperor of the Serbs, Greeks, Bulgarians and Albanians (1346–1355). Also called Dušan the Mighty, he conquered a large part of Southeast Europe. Under him [[Serbia]] was the most powerful state in Southeast Europe, stretching from the [[Danube]] in the north to the Gulf of Corinth in the south, with its capital at [[Skopje]]. He enacted the constitution of the Serbian Empire, known as Dušan's Code, perhaps the most important literary work of medieval Serbia. He raised the Serbian Church from an archbishopric to a patriarchate and completed the Visoki Dečani Monastery, now a [[UNESCO]] site. He sought an alliance with Venice against the advancing Ottoman Turks, but after his death the Serbian Empire weakened and was divided into independent states. His remains were later moved to the Church of Saint Mark in [[Belgrade]].
+
+=== KEY: Steffi_Graf_216b2d
+HEADWORD: Graf, Steffi = 그라프, 슈테피
+LEVEL: 4
+GLOSSARY:
+  Andre Agassi = 앤드리 애거시
+  French = 프랑스어
+  French Open = 프랑스 오픈
+  German = 독일어
+  Golden Slam = 골든 슬램
+  Grand Slam (tennis) = 그랜드 슬램
+  Monica Seles = 모니카 셀레스
+  Tennis = 테니스
+  Women's Tennis Association = 여자 테니스 협회
+  major titles = 메이저 대회 우승
+  women's singles = 여자 싱글
+ENTRY:
+German former professional tennis player. She was ranked world No. 1 by the Women's Tennis Association for a record 377 weeks and won 22 major women's singles titles. She is the only player to have won each major singles tournament at least four times, a quadruple career [[Grand Slam (tennis)|Grand Slam]]. In 1988 she became the first tennis player to achieve the Golden Slam, winning all four major titles and the Olympic gold medal in the same calendar year. After injuries and the rise of rivals such as [[Monica Seles]], she won her 22nd and final major at the 1999 French Open and retired that year, aged 30. Her versatile game, built on a powerful forehand and baseline play, is credited with developing the style that dominates today's game. She has been married to [[Andre Agassi]] since 2001.
+
+=== KEY: Stegosaurus_56e331
+HEADWORD: Stegosaurus = 스테고사우루스
+LEVEL: 4
+GLOSSARY:
+  Allosaurus = 알로사우루스
+  Bone = 뼈
+  Bone Wars = 화석 전쟁
+  Diplodocus = 디플로도쿠스
+  Genus = 속
+  Jurassic = 쥐라기
+  Late Jurassic = 후기 쥐라기
+  Marsh = 소택지
+  Othniel Charles Marsh = 오스니얼 찰스 마시
+  Portugal = 포르투갈
+  Stegosaurus ungulatus = 스테고사우루스 웅굴라투스
+  United States = 미국
+ENTRY:
+Genus of extinct, four-legged, herbivorous armored dinosaurs from the Late Jurassic. Its name means "roof-lizard." It had kite-shaped upright plates along its back and spikes on its tail, and is one of the most recognizable kinds of dinosaurs. Fossils have been found in the western United States and in [[Portugal]], dating to between 155 and 145 million years ago, and fossils of over 80 individuals have been found. It lived alongside [[Diplodocus]] and [[Allosaurus]], which may have preyed on it. The spiked tail was most likely used for defense, while the plates may have been used mainly for display and secondarily for thermoregulation. The largest specimens of *Stegosaurus ungulatus* measured about 9 m (30 ft) long. Othniel Charles Marsh first identified its remains during the "Bone Wars."
+
+=== KEY: Stellar_black_hole_424c94
+HEADWORD: Stellar black hole = 항성 블랙홀
+LEVEL: 4
+GLOSSARY:
+  Angular momentum = 각운동량
+  Black = 검은색
+  Black hole = 블랙홀
+  Gravitational wave = 중력파
+  Solar mass = 태양 질량
+  Supernova = 초신성
+  X-rays = 엑스선
+  angular momentum = 각운동량
+  black hole = 블랙홀
+  gravitational waves = 중력파
+  rotating black hole = 회전 블랙홀
+  solar masses = 태양 질량
+ENTRY:
+[[Black hole]] formed by the gravitational collapse of a star. Stellar black holes have masses ranging from about five to several tens of [[Solar mass|solar masses]]. They can be the remnants of [[Supernova|supernova]] explosions, although other formation mechanisms may operate. A black hole has only three fundamental properties: mass, electric charge and [[Angular momentum|angular momentum]], and the angular momentum of a stellar black hole comes from the star or objects that produced it. In close binary systems, matter transferred from a companion star heats up and radiates in X-rays, making the black hole observable. In September 2015 a rotating black hole of 62±4 solar masses was discovered through [[Gravitational wave|gravitational waves]] as it formed in the merger of two smaller black holes.
+
+=== KEY: Stellar_classification_d64fee
+HEADWORD: Stellar classification = 항성 분류
+LEVEL: 4
+GLOSSARY:
+  Annie = 「애니」
+  Annie Jump Cannon = 애니 점프 캐넌
+  Cannon = 대포
+  Diffraction grating = 회절 격자
+  Harvard = 하버드
+  Harvard system = 하버드 분류법
+  Jump = 「Jump」
+  Light = 빛
+  Luminosity classes = 광도 계급
+  Molecule = 분자
+  Morgan = 모건
+  Prism (optics) = 프리즘
+  Roman numerals = 로마 숫자
+  Scheme = 스킴
+  Sun = 태양
+  The Sun = 『더 선』
+  hypergiants = 극대거성
+  main-sequence star = 주계열성
+  photosphere = 광구
+ENTRY:
+Scheme for grouping stars by the features of their spectra. Light from a star is split by a [[Prism (optics)|prism]] or [[Diffraction grating|diffraction grating]] into a spectrum whose lines show which chemical elements or [[Molecule|molecules]] are present; their strength mainly reflects the temperature of the photosphere. Most stars are classified by the Morgan–Keenan (MK) system, which uses the letters O, B, A, F, G, K and M from hottest to coolest, each subdivided by a digit from 0 (hottest) to 9 (coolest). Luminosity classes in [[Roman numerals]] distinguish giants from dwarfs, running from class 0 or Ia+ for hypergiants to class V for main-sequence stars. The [[Sun]] is classed G2V, indicating a main-sequence star with a surface temperature of about 5,800 K. The spectral class comes from the older Harvard system, which Annie Jump Cannon developed by simplifying an alphabetical scheme.
+
+=== KEY: Stellar_evolution_f58241
+HEADWORD: Stellar evolution = 항성 진화
+LEVEL: 4
+GLOSSARY:
+  Black = 검은색
+  Black hole = 블랙홀
+  Main sequence = 주계열
+  Neutron = 중성자
+  Neutron star = 중성자별
+  Red giant = 적색 거성
+  Sun = 태양
+  Supernova = 초신성
+  White dwarf = 백색 왜성
+  planetary nebula = 행성상 성운
+  red giants = 적색 거성
+ENTRY:
+Process by which a star changes over the course of time. Depending on mass, a star's lifetime ranges from a few million years for the most massive to trillions of years for the least massive. Stars form from collapsing clouds of gas and dust, settle into a [[Main sequence|main-sequence]] state, and fuse hydrogen into helium in their cores. Stars like the [[Sun]] later swell into [[Red giant|red giants]], and when their fuel is exhausted their cores become [[White dwarf|white dwarfs]] while the outer layers are expelled as a planetary nebula. Stars with around ten or more times the mass of the Sun can explode as [[Supernova|supernovae]], leaving a [[Neutron star]] or a [[Black hole]]. Because most changes are too slow to observe in a single star, astrophysicists study many stars at different stages and simulate stellar structure with computer models.
+
+=== KEY: Stellar_kinematics_1c8c30
+HEADWORD: Stellar kinematics = 항성 운동학
+LEVEL: 4
+GLOSSARY:
+  Dark matter = 암흑 물질
+  Doppler effect = 도플러 효과
+  Galactic Center = 은하 중심
+  Galaxy = 은하
+  Hypervelocity stars = 초고속 항성
+  Milky Way = 우리은하
+  Once = 『Once』
+  Parallax = 시차
+  Supermassive black hole = 초대질량 블랙홀
+  black hole = 블랙홀
+  globular clusters = 구상 성단
+  local standard of rest = 국부 정지 기준
+  proper motion = 고유 운동
+  radial velocity = 시선 속도
+  supermassive black hole = 초대질량 블랙홀
+  supermassive black holes = 초대질량 블랙홀
+ENTRY:
+Study of the observed motions of stars through space. It measures stellar velocities in the [[Milky Way]] and its satellites, and the internal kinematics of more distant [[Galaxy|galaxies]]. The radial velocity of a star is measured from the shift of its spectrum caused by the [[Doppler effect]], while its proper motion must be found from a series of positional measurements against distant objects. Once distance is known, through means such as [[Parallax]], the space velocity can be computed relative to the local standard of rest. Measured velocities in the inner regions of galaxies provide evidence that many host [[Supermassive black hole|supermassive black holes]] at their centers, and velocities of globular clusters in galactic halos provide evidence for [[Dark matter]]. Hypervelocity stars escaping the Milky Way are interpreted as the result of encounters with the supermassive black hole at the [[Galactic Center]].
+
+=== KEY: Stellar_magnetic_field_26abe1
+HEADWORD: Stellar magnetic field = 항성 자기장
+LEVEL: 4
+GLOSSARY:
+  Convection = 대류
+  Magnetic field = 자기장
+  Plasma (physics) = 플라스마
+  Sun = 태양
+  Zeeman effect = 제이만 효과
+  coronal loops = 코로나 고리
+  magnetic field = 자기장
+  photosphere = 광구
+  solar dynamo = 태양 다이너모
+  spectral lines = 스펙트럼선
+  starspots = 흑점
+  toroidal flux ropes = 토로이드 자기 다발
+ENTRY:
+Magnetic field generated by the motion of conductive [[Plasma (physics)|plasma]] inside a star. Convection moves this plasma, and a localized field rises until it reaches the photosphere, creating starspots on the surface and related coronal loops. According to solar dynamo theory, the convective zone acts as a dynamo: circulation destroys the primordial field and generates a dipolar field, which differential rotation winds into toroidal flux ropes that emerge at the surface. The [[Sun]]'s major magnetic component reverses direction every 11 years, so the full period is about 22 years. Stellar fields are measured with the Zeeman effect, in which a magnetic field splits spectral lines into closely spaced lines and polarizes the light according to the field's orientation.
+
+=== KEY: Stellar_structure_0a6e07
+HEADWORD: Stellar structure = 항성 구조
+LEVEL: 4
+GLOSSARY:
+  CNO cycle = CNO 순환
+  Convection = 대류
+  Heat = 열
+  Hydrostatic equilibrium = 정역학 평형
+  Sun = 태양
+  differential equations = 미분 방정식
+  hydrostatic equilibrium = 정역학 평형
+  radiative transfer = 복사 전달
+  solar masses = 태양 질량
+ENTRY:
+Model describing the internal structure of a star and predicting its luminosity, color and future evolution. Different classes and ages of stars have different internal structures, reflecting their composition and energy transport mechanisms. Heat moves outward mainly by [[Convection|convection]] and radiative transfer. Stars of 0.3–1.5 solar masses, including the [[Sun]], fuse hydrogen mainly through proton–proton chains, so their cores are radiative and their outer envelopes convective. In stars above about 1.5 solar masses the CNO cycle dominates, which makes the core convective and the envelope radiative. The lowest-mass main-sequence stars convect throughout. The simplest commonly used model assumes a steady, spherically symmetric star described by four first-order differential equations, including the condition of [[Hydrostatic equilibrium|hydrostatic equilibrium]].
+
+=== KEY: Steller_s_sea_cow_ab8d28
+HEADWORD: Steller's sea cow = 스텔러바다소
+LEVEL: 5
+GLOSSARY:
+  Bering Island = 베링섬
+  Bering Sea = 베링해
+  Commander = 사령관
+  Commander Islands = 코만도르스키예 제도
+  Georg Wilhelm Steller = 게오르크 빌헬름 슈텔러
+  Great Northern Expedition = 대북방 원정
+  Hydrodamalis gigas = Hydrodamalis gigas
+  Kelp = 켈프
+  Northern Expedition = 북벌
+  Sirenia = 바다소목
+  Vitus Bering = 비투스 베링
+  Wilhelm = 빌헬름
+ENTRY:
+Extinct [[Sirenia|sirenian]] mammal (*Hydrodamalis gigas*). Described by Georg Wilhelm Steller in 1741, it was then found only around the Commander Islands in the [[Bering Sea]]. Steller first encountered it when shipwrecked on Bering Island during [[Vitus Bering]]'s Great Northern Expedition. This slow-moving, easily caught animal was hunted into extinction within 27 years of its discovery, for its meat, fat and hide. Adults are estimated to have weighed 8–10 t and reached lengths up to 9 m (30 ft). It fed mainly on [[Kelp|kelp]] and had no true teeth.
+
+=== KEY: Stem_cell_46076e
+HEADWORD: Stem cell = 줄기세포
+LEVEL: 4
+GLOSSARY:
+  Adult = 성인
+  Cell (biology) = 세포
+  Embryo = 배아
+  Mammal = 포유류
+  Shinya Yamanaka = 야마나카 신야
+  blastocyst = 배반포
+  bone marrow = 골수
+  embryonic stem cells = 배아 줄기세포
+  hematopoietic stem cell transplantation = 조혈모세포 이식
+  induced pluripotent stem cells = 유도 만능 줄기세포
+  inner cell mass = 내세포괴
+  multipotent = 다분화능
+  progenitor cells = 전구 세포
+  stem cells = 줄기세포
+  unipotent = 단분화능
+ENTRY:
+Unspecialized [[Cell (biology)|cell]] that can change into various specialized cell types and proliferate. Stem cells can produce more of the same stem cell indefinitely, distinguishing them from progenitor cells, which cannot divide indefinitely. In [[Mammal|mammals]], the inner cell mass of the blastocyst, around days 5–14 of development, can differentiate into all of the body's cell types. Adult stem cells in niches such as bone marrow replenish rapidly lost cell types and are multipotent or unipotent. As of 2016, the only established medical therapy using stem cells was hematopoietic stem cell transplantation, first performed in 1958. Since 1998 human embryonic stem cells have been cultured, a process considered controversial because it typically destroys the [[Embryo]]. In 2006 a Japanese team led by Shinya Yamanaka converted mature body cells into induced pluripotent stem cells.
+
+=== KEY: Stendhal_16a55b
+HEADWORD: Stendhal = 스탕달
+LEVEL: 4
+GLOSSARY:
+  Civitavecchia = 치비타베키아
+  De l'amour = 『연애론』
+  French = 프랑스어
+  Kingdom of Westphalia = 베스트팔렌 왕국
+  La Chartreuse de Parme = 『파르마의 수도원』
+  Le Rouge et le Noir = 『적과 흑』
+  Marie-Henri Beyle = 마리앙리 벨
+  Milan = 밀라노
+  Napoleon = 나폴레옹
+  Russia = 러시아
+  Trieste = 트리에스테
+  Westphalia = 베스트팔렌
+  crystallization = 결정화
+  invasion of Russia = 러시아 원정
+ENTRY:
+French writer, pen name of Marie-Henri Beyle. Best known for the novels *Le Rouge et le Noir* (1830) and *La Chartreuse de Parme* (1839), he is considered one of the early and foremost practitioners of realism, and was admired for his acute analysis of his characters' psychology. His work *De l'amour* on passionate love introduced the concept of crystallization; it was mostly ignored on publication but was later praised as one of the first modern attempts to understand love. He served as an assistant war commissioner in the administration of the Kingdom of Westphalia, a client state of [[Napoleon]], and took part in the 1812 invasion of Russia. He settled in [[Milan]] for several years, and in 1830 he was appointed French consul at Trieste and Civitavecchia.
+
+=== KEY: Stepfamily_8eb6a2
+HEADWORD: Stepfamily = 재혼 가정
+LEVEL: 4
+GLOSSARY:
+  Family = 가족
+  Old English = 고대 영어
+  Orphan = 고아
+  United States = 미국
+  bonus family = 보너스 가족
+  legal stranger = 법적 타인
+ENTRY:
+Family in which at least one parent has children who are not biologically related to their spouse. Also called a bonus family, it is "simple" if only one partner has a prior child and the couple has none together, or "complex" or "blended" if both partners have children from other relationships. The prefix *step-* appears in Old English words for [[Orphan|orphan]] and first denoted a connection formed by a widowed parent's remarriage. A stepparent is the spouse of a child's parent who is not the biological parent. Stepparents often face significant difficulties with the biological parent of the same gender, who may fear being replaced in the child's mind. In most of the United States a stepparent is a "legal stranger" with no legal right to the child, however involved they are in the child's life.
+
+=== KEY: Stephen_B_thory_dd5fdd
+HEADWORD: Báthory, Stephen = 바토리, 스테판
+LEVEL: 4
+GLOSSARY:
+  Anna Jagiellon = 안나 야기엘론카
+  Chancellor = 총리
+  Commonwealth = 영연방
+  Gdańsk = 그단스크
+  Gáspár Bekes = 베케시 가스파르
+  Hungarian = 헝가리어
+  Jan Zamoyski = 얀 자모이스키
+  Lithuania = 리투아니아
+  Lithuanian = 리투아니아
+  Livonia = 리보니아
+  Peace = 평화
+  Peace of Jam Zapolski = 얌자폴스키 강화 조약
+  Poland = 폴란드
+  Polish–Lithuanian Commonwealth = 폴란드-리투아니아 연방
+  Queen = 퀸
+  Russia = 러시아
+  Russian = 러시아어
+  Transylvania = 트란실바니아
+  grand duke = 대공
+  grand duke of Lithuania = 리투아니아 대공
+  voivode = 보이보드
+ENTRY:
+Hungarian nobleman, king of Poland and grand duke of Lithuania (1576–1586). He was voivode of [[Transylvania]] from 1571 and defeated a rival, Gáspár Bekes, to establish his position there. In 1576 he married Queen Anna Jagiellon and was elected king of Poland, working closely with Chancellor Jan Zamoyski. His first years were devoted to establishing his power and quelling rebellions, most notably the [[Gdańsk]] rebellion. His signal achievement was a campaign in Livonia against Russia, which repulsed a Russian invasion of the [[Polish–Lithuanian Commonwealth]] borderlands and produced the favorable Peace of Jam Zapolski. He is considered one of the most successful kings in Polish and Lithuanian history, particularly in military affairs, although he reigned for only a decade.
+
+=== KEY: Stephen_Colbert_babb1d
+HEADWORD: Colbert, Stephen = 콜베어, 스티븐
+LEVEL: 5
+GLOSSARY:
+  American Dialect Society = 미국 방언 학회
+  CBS = CBS
+  Colbert Super PAC = 콜베어 슈퍼 PAC
+  Comedy Central = 코미디 센트럴
+  Dialect = 방언
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Merriam-Webster = 메리엄웹스터
+  Peabody = 피보디상
+  Peabody Awards = 피버디상
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Awards = 프라임타임 에미상
+  Society = 사회
+  Stephen Colbert = 스티븐 콜베어
+  Super = 「슈퍼」
+  The Colbert Report = 「콜베어 리포트」
+  The Late Show with Stephen Colbert = 「레이트 쇼 위드 스티븐 콜베어」
+  Word = 단어
+  Year = 해
+  truthiness = 트루시니스
+ENTRY:
+American comedian, writer and television host. He hosted the Comedy Central news satire *The Colbert Report* from 2005 to 2014 and the [[CBS]] late-night show *The Late Show with Stephen Colbert* from 2015 to 2026. His satirical persona parodied conservative pundits and introduced the word truthiness, named Word of the Year by the American Dialect Society and Merriam-Webster. He has won eleven Primetime Emmy Awards, two [[Grammy Awards]] and three Peabody Awards. In 2011 he started the satirical Colbert Super PAC, which was credited with raising awareness of campaign finance issues.
+
+=== KEY: Stephen_Curry_487526
+HEADWORD: Curry, Stephen = 커리, 스테픈
+LEVEL: 5
+GLOSSARY:
+  2024 Summer Olympics = 2024년 하계 올림픽
+  Basketball = 농구
+  Davidson College = 데이비드슨 칼리지
+  FIBA World Cup = FIBA 농구 월드컵
+  Golden State Warriors = 골든스테이트 워리어스
+  MVP = 최우수 선수
+  NCAA = NCAA
+  National Basketball Association = 전미 농구 협회
+  Summer Olympics = 하계 올림픽
+  United States = 미국
+  World = 세계
+  World Cup = 월드컵
+ENTRY:
+American basketball player for the Golden State Warriors. Widely regarded as the greatest shooter in [[Basketball|basketball]] history, he is credited with popularizing the three-point shot. He won four [[National Basketball Association|NBA]] championships and two league MVP awards, and in 2022 became the NBA's all-time leader in three-pointers made. He set the NCAA single-season record for three-pointers made (162) as a sophomore at Davidson College. He also won two FIBA World Cup gold medals and a gold medal at the 2024 Summer Olympics with the United States national team.
+
+=== KEY: Stephen_Fry_810b9c
+HEADWORD: Fry, Stephen = 프라이, 스티븐
+LEVEL: 5
+GLOSSARY:
+  Alfresco = 「알프레스코」
+  Blackadder = 「블랙애더」
+  Fry and Laurie = 프라이 앤드 로리
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Harry = 해리
+  Harry Potter = 『해리 포터』
+  Hugh Laurie = 휴 로리
+  Mind = 마인드
+  Oscar = 오스카상
+  Oscar Wilde = 오스카 와일드
+  QI = 「QI」
+  Wilde = 「와일드」
+ENTRY:
+English actor, comedian and writer. He began on the sketch series *Alfresco* and the sitcom *Blackadder* before forming the comedy duo Fry and Laurie with [[Hugh Laurie]]. He hosted the panel show *QI* from 2003 to 2016 and was nominated for a Golden Globe for playing [[Oscar Wilde]] in *Wilde* (1997). He has written four novels and three autobiographies, and narrated the audiobooks of all seven [[Harry Potter]] novels. He has been president of the mental health charity Mind since 2011 and was knighted in 2025 for services to mental health awareness, the environment and charity.
+
+=== KEY: Stephen_Hawking_4e43bb
+HEADWORD: Hawking, Stephen = 호킹, 스티븐
+LEVEL: 4
+GLOSSARY:
+  A Brief History of Time = 『시간의 역사』
+  Black hole = 블랙홀
+  Cambridge = 케임브리지
+  General relativity = 일반 상대성 이론
+  Hawking radiation = 호킹 복사
+  History = 역사학
+  Lucasian Professor of Mathematics = 루커스 수학 석좌 교수
+  Mathematics = 수학
+  Quantum mechanics = 양자역학
+  Roger Penrose = 로저 펜로즈
+  Sunday = 일요일
+  Sunday Times = 『선데이 타임스』
+  Time = 『타임』
+  University = 대학
+  University of Cambridge = 케임브리지 대학교
+  general relativity = 일반 상대성 이론
+  motor neurone disease = 운동 신경 세포 질환
+  quantum mechanics = 양자역학
+  singularity theorems = 특이점 정리
+ENTRY:
+English theoretical physicist and cosmologist. He collaborated with Roger Penrose on singularity theorems in [[General relativity|general relativity]] and predicted that [[Black hole|black holes]] emit radiation, now called [[Hawking radiation]]. Initially controversial, the prediction was widely accepted as a major breakthrough by the late 1970s. He was the first to set out a theory of cosmology combining general relativity and [[Quantum mechanics|quantum mechanics]]. Diagnosed with motor neurone disease in 1963, he lost the use of his speech and later communicated through a speech-generating device, eventually using a single cheek muscle. He was Lucasian Professor of Mathematics at the [[University of Cambridge|University of Cambridge]] from 1979 to 2009. His book *A Brief History of Time* appeared on the *Sunday Times* bestseller list for a record 237 weeks.
+
+=== KEY: Stephen_I_of_Hungary_097f1e
+HEADWORD: Stephen I of Hungary = 이슈트반 1세
+LEVEL: 4
+GLOSSARY:
+  Carpathian Basin = 카르파티아 분지
+  Catholic = 가톨릭
+  Constantinople = 콘스탄티노폴리스
+  Europe = 유럽
+  Holy Roman Emperor = 신성 로마 황제
+  Hungary = 헝가리
+  Koppány = 코파니
+  Pope = 교황
+  Pope Sylvester II = 교황 실베스테르 2세
+  State Foundation Day = 건국 기념일
+  Vajk = 바이크
+  Western Europe = 서유럽
+  feast day = 축일
+  grand prince = 대공
+ENTRY:
+First king of Hungary (1000 or 1001–1038) and Catholic saint. Born Vajk, he succeeded his father as grand prince in 997 and defeated his relative Koppány, who had large numbers of pagan warriors behind him, with the help of foreign knights. He was crowned with a crown sent by Pope Sylvester II. In a series of wars he unified the Carpathian Basin, and he forced the invading troops of Conrad II, Holy Roman Emperor, to withdraw in 1030. He established at least one archbishopric and six bishoprics, and organized local government into counties run by royal officials. Hungary enjoyed lasting peace under his rule and became a preferred route for pilgrims and merchants between [[Western Europe]] and [[Constantinople]]. He was canonized in 1083, and his feast day, celebrated on 20 August, is a public holiday known as State Foundation Day.
+
+=== KEY: Stephen_Jay_Gould_5cab8f
+HEADWORD: Gould, Stephen Jay = 굴드, 스티븐 제이
+LEVEL: 4
+GLOSSARY:
+  American Museum of Natural History = 미국 자연사 박물관
+  Evolutionary psychology = 진화 심리학
+  Harvard = 하버드
+  Harvard University = 하버드 대학교
+  History = 역사학
+  Library = 도서관
+  Library of Congress = 미국 의회 도서관
+  Living Legend = 살아 있는 전설
+  Museum = 박물관
+  Natural History = 『박물지』
+  Natural selection = 자연 선택
+  Niles Eldredge = 나일스 엘드리지
+  Paleontology = 고생물학
+  University = 대학
+  York = 요크
+  biological determinism = 생물학적 결정론
+  creationism = 창조론
+  evolutionary psychology = 진화심리학
+  natural selection = 자연 선택
+  non-overlapping magisteria = 겹치지 않는 교도권
+  phyletic gradualism = 계통 점진설
+  punctuated equilibrium = 단속 평형설
+  sociobiology = 사회생물학
+ENTRY:
+American [[Paleontology|paleontologist]], evolutionary biologist and historian of science. With Niles Eldredge he developed the theory of punctuated equilibrium in 1972, holding that most evolution consists of long periods of stability interrupted by swift bursts of branching speciation, in contrast to phyletic gradualism. He taught mostly at [[Harvard University]] and worked at the [[American Museum of Natural History]] in New York. He opposed the overemphasis on [[Natural selection|natural selection]] and criticized biological determinism in sociobiology and [[Evolutionary psychology|evolutionary psychology]]. As a public advocate for science, he campaigned against creationism and argued that science and religion are distinct fields, or "non-overlapping magisteria." His essays in *Natural History* magazine made him widely known, and in 2000 the U.S. Library of Congress named him a "Living Legend."
+
+=== KEY: Stephen_King_9d0f1b
+HEADWORD: King, Stephen = 킹, 스티븐
+LEVEL: 4
+GLOSSARY:
+  Carrie = 『캐리』
+  Danse Macabre = 『죽음의 무도』
+  Different Seasons = 『사계』
+  Fantasy = 판타지
+  Green = 초록색
+  Horror fiction = 공포 소설
+  Joe Hill = 조 힐
+  King of Horror = 공포의 제왕
+  Memoir = 『회고록』
+  Mile = 마일
+  Misery = 「미저리」
+  National Medal of Arts = 국가 예술 훈장
+  Owen King = 오언 킹
+  Peter = 베드로
+  Peter Straub = 피터 스트라우브
+  Richard = 리처드
+  Richard Bachman = 리처드 바크먼
+  Stand = 신분
+  Stand by Me = 「스탠 바이 미」
+  The Green Mile = 「그린 마일」
+  The Shawshank Redemption = 「쇼생크 탈출」
+  The Shining = 「샤이닝」
+  Writing = 문자
+  science fiction = 과학 소설
+ENTRY:
+American author of [[Horror fiction|horror]], dubbed the "King of Horror." His debut, *Carrie* (1974), established him in horror, and *Different Seasons* (1982), a collection of four novellas, was his first major departure from the genre. He has written approximately 200 short stories and has also explored suspense, crime, science fiction, [[Fantasy|fantasy]] and mystery. Adaptations of his fiction include *The Shining* (1980), *Stand by Me* (1986), *Misery* (1990), *The Shawshank Redemption* (1994) and *The Green Mile* (1999). He has also published as Richard Bachman and co-written works with Peter Straub and his sons Joe Hill and Owen King. His nonfiction includes *Danse Macabre* (1981) and *On Writing: A Memoir of the Craft* (2000). He received the 2003 Medal for Distinguished Contribution to American Letters and the 2014 National Medal of Arts.
+
+=== KEY: Stephen_Sondheim_99ac03
+HEADWORD: Sondheim, Stephen = 손드하임, 스티븐
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Original Song = 아카데미 주제가상
+  Best Musical = 최우수 뮤지컬상
+  Best Original Song = 주제가상
+  Company = 「컴퍼니」
+  Demon = 악마
+  Dick Tracy = 「딕 트레이시」
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Gypsy = 「집시」
+  Pulitzer Prize = 퓰리처상
+  Pulitzer Prize for Drama = 퓰리처상 희곡 부문
+  Sooner or Later = 「Sooner or Later」
+  Story = 『스토리』
+  Sunday = 일요일
+  Sunday in the Park with George = 「조지와 함께한 일요일 공원에서」
+  Theatre = 연극
+  Tony = 토니상
+  Tony Award = 토니상
+  Tony Award for Best Musical = 토니상 뮤지컬 작품상
+  Tony Awards = 토니상
+  West Side Story = 「웨스트 사이드 스토리」
+  musical theater = 뮤지컬
+ENTRY:
+American composer and lyricist of musical [[Theatre|theater]]. He is credited with reinventing the American musical. He wrote lyrics for [[West Side Story]] (1957) and *Gypsy* (1959) before writing both music and lyrics. Five of his works won the Tony Award for Best Musical, including *Company* (1970) and *Sweeney Todd: The Demon Barber of Fleet Street* (1979). *Sunday in the Park with George* (1984) won the Pulitzer Prize for Drama. He won eight Tony Awards and eight [[Grammy Awards]], and an Academy Award for Best Original Song for "Sooner or Later" from *Dick Tracy* (1990).
+
+=== KEY: Stephen_the_Great_694870
+HEADWORD: Stephen the Great = 슈테판 대공
+LEVEL: 4
+GLOSSARY:
+  Athleta Christi = 그리스도의 투사
+  Battle of Orbic = 오르비크 전투
+  Battle of Vaslui = 바슬루이 전투
+  Cetatea Albă = 체타테아알버
+  Champion = 「챔피언」
+  Chilia = 킬리아
+  Church = 처치
+  Mehmed II = 메흐메트 2세
+  Moldavia = 몰다비아
+  Moldova = 몰도바
+  Orthodox = 정교회
+  Orthodox Church = 정교회
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Ottomans = 오스만 제국
+  Pope = 교황
+  Pope Sixtus IV = 교황 식스토 4세
+  Romania = 루마니아
+  Romanian Orthodox Church = 루마니아 정교회
+  Valea Albă = 발레아알버
+  Vlad the Impaler = 블라드 3세
+  Voivode = 보이보드
+ENTRY:
+Voivode of [[Moldavia]] (1457–1504) and national hero of [[Romania]] and [[Moldova]]. He took the throne after his victory at the Battle of Orbic, with support from his cousin [[Vlad the Impaler]]. He stopped paying tribute to the [[Ottoman Empire|Ottomans]] in 1473 and defeated a large Ottoman army at the Battle of Vaslui in 1475, earning the title *Athleta Christi* ("Champion of Christ") from Pope Sixtus IV. The following year Mehmed II routed him at Valea Albă, and his efforts to recapture the ports of Chilia and Cetatea Albă ended in failure. From 1486 he again paid a yearly tribute to the Ottomans. He restored old fortresses and built new ones, and dozens of stone churches and monasteries were built during his reign, contributing to a distinct Moldavian architectural style. The Romanian Orthodox Church canonized him in 1992.
+
+=== KEY: Steppe_47e4ce
+HEADWORD: Steppe = 스텝
+LEVEL: 4
+GLOSSARY:
+  Altai = 알타이산맥
+  Asia = 아시아
+  Central Asia = 중앙아시아
+  Eastern Europe = 동유럽
+  Eurasian = 유라시아판
+  Eurasian Steppe = 유라시아 스텝
+  Europe = 유럽
+  Great Plains = 그레이트플레인스
+  Great Steppe = 대초원
+  Indo-European = 인도유럽어족
+  Indo-European languages = 인도유럽어족
+  North America = 북아메리카
+  Plains = 대평원
+  Steppe = 스텝
+  Tian = 천
+  Tian Shan = 톈산산맥
+  Ukraine = 우크라이나
+  shortgrass prairie = 단초 프레리
+ENTRY:
+Ecoregion of plain grasslands without closed forests except near rivers and lakes. Steppes are usually covered with grass and shrubs, depending on season and latitude, and have a semi-arid or continental climate. Temperatures can reach 45 °C (115 °F) in summer and fall to −55 °C (−65 °F) in winter. Steppes average 250–500 mm (10–20 in) of precipitation a year. The world's largest steppe region, often called the Great Steppe, runs across [[Eastern Europe]] and [[Central Asia]] from [[Ukraine]] to the Altai and Tian Shan ranges. The [[Eurasian Steppe]] had a significant role in the spread of the horse, the wheel and [[Indo-European languages]]. In North America, the shortgrass prairie is the westernmost part of the [[Great Plains]].
+
+=== KEY: Stereotype_8e15ee
+HEADWORD: Stereotype = 고정 관념
+LEVEL: 4
+GLOSSARY:
+  Explicit stereotypes = 명시적 고정 관념
+  Prejudice = 편견
+  Racism = 인종주의
+  Research = 연구
+  Social psychology = 사회 심리학
+  discrimination = 차별
+  implicit stereotypes = 암묵적 고정 관념
+ENTRY:
+Generalized belief about a category of people, studied in [[Social psychology|social psychology]]. Stereotypes concern a group's personality, preferences, appearance or abilities, and they simplify information processing by letting people rely on stored knowledge rather than new input. They are often faulty and resistant to new information. Research on their accuracy has yielded mixed results: studies of national-origin and astrological-sign stereotypes found them inaccurate, while studies of gender stereotypes found them more likely to reflect reality. Explicit stereotypes are conscious beliefs that people knowingly use to judge others, whereas implicit stereotypes are automatic, involuntary associations between a social group and a domain or attribute. Stereotypes are regarded as the most cognitive component of intergroup attitudes, often occurring without conscious awareness; [[Prejudice|prejudice]] is the affective component, and discrimination the behavioral one. Stereotypes, prejudice, [[Racism|racism]], and discrimination are related but distinct concepts.

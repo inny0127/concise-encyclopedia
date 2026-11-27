@@ -1,0 +1,992 @@
+=== KEY: Organic_chemistry_f15c9d
+HEADWORD: Organic chemistry = 유기화학
+LEVEL: 3
+GLOSSARY:
+  Archibald Scott Couper = 아치볼드 스콧 쿠퍼
+  Aspirin = 아스피린
+  Bayer = 바이엘
+  Biochemistry = 생화학
+  Carbon = 탄소
+  Friedrich August Kekulé = 프리드리히 아우구스트 케쿨레
+  Friedrich Wöhler = 프리드리히 뵐러
+  Hydrocarbon = 탄화수소
+  Justus von Liebig = 유스투스 폰 리비히
+  Michel Chevreul = 미셸 슈브뢸
+  Organometallic chemistry = 유기 금속 화학
+  Paul = 바울로
+  Perkin's mauve = 퍼킨의 모브
+  Salvarsan = 살바르산
+  Total synthesis = 전합성
+  William = 윌리엄
+  William Henry Perkin = 윌리엄 헨리 퍼킨
+  ammonium sulfate = 황산 암모늄
+  chemical structure = 화학 구조
+  chemotherapy = 화학 요법
+  indigo = 인디고
+  materials science = 재료과학
+  medicinal chemistry = 의약화학
+  natural products = 천연물
+  organic compounds = 유기 화합물
+  polymer chemistry = 고분자화학
+  potassium cyanate = 사이안산 칼륨
+  syphilis = 매독
+  urea = 요소
+  vital force = 생명력
+  vitalism = 생기론
+  vitamin B12 = 비타민 B₁₂
+ENTRY:
+Subdiscipline of chemistry concerned with the structure, properties, and reactions of organic compounds and organic materials, those containing [[Carbon|carbon]] atoms. It includes determining structural formulas, analyzing physical and chemical properties, evaluating reactivity, and the synthesis of natural products, drugs, and polymers.
+
+The field covers [[Hydrocarbon|hydrocarbons]] (compounds of only carbon and hydrogen) and compounds that also contain oxygen, nitrogen, sulfur, phosphorus, and the halogens. Carbon's valence of four, with single, double, and triple bonds and delocalized electrons, makes organic compounds structurally diverse. They form the basis of all known life and underlie pharmaceuticals, petrochemicals, agrichemicals, lubricants, solvents, plastics, fuels, and explosives. The field overlaps [[Organometallic chemistry|organometallic chemistry]], [[Biochemistry|biochemistry]], medicinal chemistry, polymer chemistry, and materials science.
+
+Before the 18th century, chemists generally believed that compounds from living organisms held a "vital force" (vitalism). Around 1816 Michel Chevreul showed that fats could be chemically changed into new compounds. In 1828 [[Friedrich Wöhler|Friedrich Wöhler]] produced urea from potassium cyanate and ammonium sulfate, a synthesis now generally accepted as disproving vitalism, though Wöhler himself was cautious. [[Justus von Liebig|Justus von Liebig]] is considered one of the field's principal founders. In 1856 William Henry Perkin accidentally produced the dye known as Perkin's mauve, and in 1858 Friedrich August Kekulé and Archibald Scott Couper independently developed the concept of chemical structure.
+
+Bayer first manufactured [[Aspirin|aspirin]] in the last decade of the 19th century. By 1910 Paul Ehrlich's group was developing the arsenic-based Salvarsan against syphilis, beginning chemotherapy. Natural indigo production fell from 19,000 tons in 1897 to 1,000 tons by 1914 thanks to Adolf von Baeyer's synthetic methods. Total synthesis later reached molecules as complex as vitamin B12.
+
+=== KEY: Organic_compound_c7669c
+HEADWORD: Organic compound = 유기 화합물
+LEVEL: 4
+GLOSSARY:
+  Alkane = 알칸
+  Chemical compound = 화합물
+  Cyanide = 시안화물
+  Earth's crust = 지각
+  Ethane = 에탄
+  Organic chemistry = 유기 화학
+  Petrochemical = 석유 화학 제품
+  carbonates = 탄산염
+  organic compounds = 유기 화합물
+ENTRY:
+Subclass of [[Chemical compound|chemical compounds]] containing carbon. Little consensus exists on the exact definition, and the only universally accepted one is that organic compounds are the subject matter of [[Organic chemistry|organic chemistry]]. Generally, any large compound containing a carbon-hydrogen or carbon-carbon bond counts as organic, so [[Alkane|alkanes]] such as [[Ethane|ethane]] and their derivatives are included. Small carbon-containing molecules such as carbon dioxide, [[Cyanide|cyanide]] and carbonates are generally excluded for historical and disciplinary reasons. Carbon's ability to form chains accounts for the millions of known organic compounds. Although they make up a small share of Earth's crust, all known life is based on them. Synthetic organic compounds are ultimately derived from [[Petrochemical|petrochemicals]], mainly hydrocarbons.
+
+=== KEY: Organic_farming_4b235d
+HEADWORD: Organic farming = 유기 농업
+LEVEL: 4
+GLOSSARY:
+  Agriculture = 농업
+  Biodiversity = 생물 다양성
+  Climate change = 기후 변화
+  European Union = 유럽 연합
+  Fertilizer = 비료
+  Genetically modified organism = 유전자 변형 생물
+  International Federation of Organic Agriculture Movements = 국제유기농업운동연맹
+  Organic farming = 유기 농업
+  Pesticide = 농약
+  biological pest control = 생물학적 방제
+  companion planting = 동반 재배
+  crop rotation = 윤작
+  genetically modified organisms = 유전자 변형 생물
+  green manure = 녹비
+  pyrethrin = 피레트린
+ENTRY:
+Agricultural system that emphasizes naturally occurring, non-synthetic inputs. Also called organic agriculture, ecological farming or biological farming, it uses compost, manure and green manure, and emphasizes crop rotation, companion planting and biological pest control. Organic standards allow some naturally occurring substances, such as pyrethrin, but prohibit most synthetic [[Pesticide|pesticides]] and [[Fertilizer|fertilizers]], [[Genetically modified organism|genetically modified organisms]], and growth hormones. The system originated early in the 20th century. Its standards are set largely by the International Federation of Organic Agriculture Movements (IFOAM), founded in 1972, and are legally enforced by the [[European Union]] and individual nations. About 96,000,000 hectares were farmed organically worldwide as of 2022, approximately 2 percent of world farmland. Organic farming can benefit local [[Biodiversity|biodiversity]], but its lower yields can increase pressure to convert other land, with negative effects on biodiversity and [[Climate change|climate]].
+
+=== KEY: Organism_e69d46
+HEADWORD: Organism = 생물
+LEVEL: 3
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Anglerfish = 아귀
+  Archaea = 고균
+  Bacteria = 세균
+  Claude = 클로드
+  Claude Shannon = 클로드 섀넌
+  Critique of Judgment = 『판단력비판』
+  David Queller = 데이비드 퀠러
+  Erwin Schrödinger = 에르빈 슈뢰딩거
+  Eukarya = 진핵생물역
+  Immanuel Kant = 이마누엘 칸트
+  Joan Strassmann = 조앤 스트라스만
+  Kant = 칸트
+  Lichen = 지의류
+  Metabolism = 물질대사
+  Others = 아더
+  Richard = 리처드
+  Richard Dawkins = 리처드 도킨스
+  Virus = 바이러스
+  archaea = 고세균
+  cyanobacteria = 남세균
+  eusocial insects = 진사회성 곤충
+  germ-soma specialization = 생식세포-체세포 분화
+  information theory = 정보 이론
+  multicellular organisms = 다세포 생물
+  noncompartmentability = 비분할성
+  organic compounds = 유기 화합물
+  organismos = 오르가니스모스
+  organon = 오르가논
+  protists = 원생생물
+  siphonophore = 관해파리류
+  zooids = 개충
+ENTRY:
+Living thing that functions as an individual, a definition that raises more problems than it solves because the concept of an individual is itself difficult. Several criteria have been proposed, few widely accepted. The most common is autonomous reproduction, growth, and [[Metabolism|metabolism]], which would exclude [[Virus|viruses]]: they cannot reproduce, grow, or metabolize on their own, and cannot synthesize the organic compounds of which they are formed.
+
+The English term appeared in the 1660s, from the Ancient Greek *organismos*, related to *organon* ("instrument, implement, tool"). In his 1790 *Critique of Judgment*, [[Immanuel Kant]] defined an organism as "both an organized and a self-organizing being". Other proposed criteria include noncompartmentability, stated by [[Richard Dawkins]] as "the quality of being sufficiently heterogeneous in form to be rendered non-functional if cut in half" (though many organisms can be cut into pieces that regrow); individuality; an immune response; "anti-entropy", the ability to maintain order, first proposed by [[Erwin Schrödinger]]; the capacity to maintain information content, as in [[Claude Shannon]]'s information theory; and having cells. Some scientists consider the concept inadequate for biology.
+
+Colonial organisms are problematic cases. A colony of eusocial insects shows adaptive organization and germ-soma specialization, and a siphonophore is composed of organism-like zooids. David Queller and Joan Strassmann propose cooperation as the defining trait, which would count a [[Lichen|lichen]], a partnership of fungi with algae or cyanobacteria, and the permanent sexual partnership of an [[Anglerfish|anglerfish]] as organisms. Others argue that autonomy, genetic homogeneity, and genetic uniqueness should be examined separately.
+
+Unicellular organisms (protists, bacteria, archaea) consist of a single cell; multicellular organisms (animals, plants, fungi, algae) of many. Organisms are commonly classified into three domains: Bacteria, Archaea, and Eukarya.
+
+=== KEY: Organization_d6b258
+HEADWORD: Organization = 조직
+LEVEL: 4
+GLOSSARY:
+  Company = 회사
+  Condorcet's jury theorem = 콩도르세의 배심원 정리
+  Corporation = 법인
+  Government = 정부
+  Institution = 제도
+  Jack Knight = 잭 나이트
+  Jury = 배심원단
+  Knight = 기사
+  Management = 경영학
+  Management science = 경영과학
+  Non-governmental organization = 비정부 기구
+  matrix organizations = 매트릭스 조직
+ENTRY:
+Entity comprising one or more people with a particular purpose. Organizations include [[Company|companies]], [[Corporation|corporations]], [[Government|governments]], [[Institution|institutions]], associations and [[Non-governmental organization|non-governmental organizations]]. Some operate secretly, as with secret societies, or illegally, as with criminal organizations. Governments recognize an organization through incorporation, through societal pressure such as advocacy groups, or through its role as a negotiating spokesperson. Jack Knight writes that organizations are a narrow version of institutions, since they contain internal institutions that govern relations among members. Management science holds that most organizations fall into four types: [[Jury|juries]] or committees, ecologies, matrix organizations, and pyramids or hierarchies. Condorcet's jury theorem holds that adding members improves majority decisions only if the average member votes better than chance, so staffing is crucial.
+
+=== KEY: Organization_for_Security_and_Co_operation_in_Europe_a2d9fb
+HEADWORD: Organization for Security and Co-operation in Europe = 유럽 안보 협력 기구
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Belgrade = 베오그라드
+  CSCE = CSCE
+  Cold War = 냉전
+  Eastern Bloc = 동구권
+  Europe = 유럽
+  Helsinki = 헬싱키
+  Helsinki Final Act = 헬싱키 최종 의정서
+  Human rights = 인권
+  Madrid = 마드리드
+  North America = 북아메리카
+  OSCE = OSCE
+  Russian = 러시아어
+  Security = 보안
+  Soviet Union = 소련
+  Special Monitoring Mission to Ukraine = 우크라이나 특별 감시단
+  Ukraine = 우크라이나
+  Vienna = 빈
+  Western Bloc = 서방 진영
+  freedom of the press = 언론의 자유
+ENTRY:
+Security-oriented intergovernmental organization with 57 participating states in Europe, North America and Asia. It grew out of the 1975 Conference on Security and Co-operation in Europe, whose predecessors provided a forum between the Western Bloc and the [[Eastern Bloc|Eastern Bloc]] during the [[Cold War|Cold War]]. The Helsinki Final Act was signed by 35 participating states in 1975, and follow-up meetings were held in [[Belgrade|Belgrade]], [[Madrid|Madrid]] and [[Vienna|Vienna]]. After the fall of the [[Soviet Union|Soviet Union]], the CSCE was renamed the OSCE on January 1, 1995. Its mandate includes arms control, the promotion of [[Human rights|human rights]], freedom of the press, and free and fair elections. It employs around 3,460 people, mostly in field operations, and its secretariat is in Vienna. Its concerns include early warning, conflict prevention, crisis management and post-conflict rehabilitation. Critics argue that its consensus rules have hindered responses to aggression by a member state, pointing to Russian vetoes that ended the Special Monitoring Mission to Ukraine in 2022.
+
+=== KEY: Organization_of_American_States_85c9b5
+HEADWORD: Organization of American States = 미주 기구
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Ramdin = 알베르트 람딘
+  Americas = 아메리카
+  Colombia = 콜롬비아
+  Congress of Panama = 파나마 회의
+  First International Conference of American States = 제1차 미주 국제 회의
+  Gran Colombia = 그란콜롬비아
+  International Union of American Republics = 미주 공화국 국제 연합
+  José de San Martín = 호세 데 산마르틴
+  Luis Almagro = 루이스 알마그로
+  Martín = 마르틴
+  Organization of American States = 미주 기구
+  Panama = 파나마
+  Simón Bolívar = 시몬 볼리바르
+  Suriname = 수리남
+  Uruguay = 우루과이
+  Washington = 워싱턴주
+  Washington, D.C. = 워싱턴 D.C.
+  Western Hemisphere = 서반구
+  secretary general = 사무총장
+ENTRY:
+International organization promoting cooperation among states in the [[Americas|Americas]]. Founded on April 30, 1948, the Organization of American States is headquartered in [[Washington, D.C.|Washington, D.C.]] and had 32 member states as of November 2023. It is a voluntary body focused on human rights, electoral oversight, social and economic development, and security in the Western Hemisphere. Its origins lie in the First International Conference of American States in 1889-1890, when 18 nations resolved to found the International Union of American Republics. In 1826, [[Simón Bolívar|Simón Bolívar]] and [[José de San Martín|José de San Martín]] proposed a league of American republics at the Congress of Panama, but the resulting treaty was ratified only by [[Gran Colombia|Gran Colombia]]. Albert Ramdin of Suriname became secretary general in May 2025, replacing Luis Almagro of Uruguay.
+
+=== KEY: Organized_crime_1b5e74
+HEADWORD: Organized crime = 조직범죄
+LEVEL: 4
+GLOSSARY:
+  2030 Agenda = 2030 의제
+  American Mafia = 미국 마피아
+  China = 중국
+  Cold War = 냉전
+  Control = 「Control」
+  Cosa Nostra = 코사 노스트라
+  Crime = 범죄
+  Gang = 갱단
+  Goal = 『골』
+  Italian-American = 이탈리아계 미국인
+  Italian-American Mafia = 이탈리아계 미국인 마피아
+  Italy = 이탈리아
+  Japan = 일본
+  Mafia = 마피아
+  National Drug Threat Assessment = 국가 마약 위협 평가
+  Nigeria = 나이지리아
+  Organized Crime Control Act = 조직범죄 규제법
+  Russia = 러시아
+  Sustainable Development Goal 16 = 지속 가능 발전 목표 16
+  United States = 미국
+  racketeering = 공갈 갈취
+ENTRY:
+Structured criminal groups that profit from illegal activities. Centralized enterprises of this kind supply banned goods such as illegal drugs or firearms, or force people to do business with them, as when [[Gang|gangs]] extort protection money from shopkeepers. In the United States, the Organized Crime Control Act (1970) defines organized crime as the unlawful activities of a highly organized, disciplined association, and structured criminal activity is called racketeering. UK police estimate that organized crime involves up to 38,000 people in 6,000 groups. Historically the largest U.S. organized crime force has been Cosa Nostra, the [[American Mafia|Italian-American Mafia]], but transnational groups from Russia, China, Italy, Nigeria and Japan have grown more prominent since the end of the Cold War. The U.S. Drug Enforcement Administration's 2017 National Drug Threat Assessment classified Mexican transnational criminal organizations as the greatest criminal drug threat to the United States. UN Sustainable Development Goal 16 includes a target to combat all forms of organized crime as part of the 2030 Agenda.
+
+=== KEY: Organometallic_chemistry_f48e37
+HEADWORD: Organometallic chemistry = 유기금속화학
+LEVEL: 4
+GLOSSARY:
+  Bonds = 쌓기법
+  Carbon monoxide = 일산화 탄소
+  Cyanide = 시안화물
+  Ferrocene = 페로센
+  Gilman reagents = 길먼 시약
+  Grignard reagents = 그리냐르 시약
+  Inorganic chemistry = 무기 화학
+  Magnesium = 마그네슘
+  Methylcobalamin = 메틸코발라민
+  Organic chemistry = 유기 화학
+  Polymer = 중합체
+  Transition metal = 전이 금속
+  Vitamin B12 = 비타민 B₁₂
+  alkaline earth = 알칼리 토금속
+  carbon monoxide = 일산화 탄소
+  catalysts = 촉매
+  metalloids = 준금속
+  selenium = 셀레늄
+  tetracarbonyl nickel = 테트라카르보닐니켈
+  transition metals = 전이 금속
+  vitamin B12 = 비타민 B₁₂
+ENTRY:
+Study of compounds with at least one carbon-metal bond. The field combines aspects of [[Inorganic chemistry|inorganic]] and [[Organic chemistry|organic chemistry]]. Organometallic compounds contain bonds between a carbon atom of an organic molecule and a metal, including alkali, alkaline earth and [[Transition metal|transition metals]], and sometimes metalloids such as boron, silicon and selenium. Bonds to inorganic carbon, as in [[Carbon monoxide|carbon monoxide]] or [[Cyanide|cyanide]], are generally considered organometallic too. Examples include Grignard reagents, which contain [[Magnesium|magnesium]], and Gilman reagents, which contain lithium and copper. Ferrocene and tetracarbonyl nickel are transition-metal examples. Methylcobalamin, a form of [[Vitamin B12|vitamin B12]], is a naturally occurring organometallic complex. Organometallic compounds are used in research and industrial reactions, and as catalysts that increase reaction rates, in producing [[Polymer|polymers]] and pharmaceuticals.
+
+=== KEY: Organon_394cbe
+HEADWORD: Organon = 오르가논
+LEVEL: 4
+GLOSSARY:
+  Aquinas = 아퀴나스
+  Arabic = 아랍어
+  Aristotle = 아리스토텔레스
+  Averroes = 이븐 루시드
+  Boethius = 보에티우스
+  Categories = 『범주론』
+  Christendom = 그리스도교 세계
+  Dialectic = 변증법
+  Latin = 라틴어
+  Logic = 논리학
+  Maimonides = 마이모니데스
+  Middle Ages = 중세
+  On Interpretation = 『명제론』
+  On Sophistical Refutations = 『소피스트적 논박』
+  Posterior Analytics = 『분석론 후서』
+  Prior Analytics = 『분석론 전서』
+  Proposition = 명제
+  Standard = 스탠더드
+  Thomas Aquinas = 토마스 아퀴나스
+  Topics = 『토피카』
+  Western Christendom = 서방 그리스도교 세계
+  scholastic philosophers = 스콜라 철학자
+  syllogistic method = 삼단논법
+ENTRY:
+Standard collection of six works by [[Aristotle]] on logic. The works are *Categories*, *On Interpretation*, *Prior Analytics*, *Posterior Analytics*, *Topics* and *On Sophistical Refutations*. The name is Greek for instrument or tool, reflecting the works' role as tools of philosophical inquiry. Their order is not chronological but was chosen to form a well-structured system. *Categories* classifies existence into ten types, from substance and quantity to action and passion. *On Interpretation* introduces the [[Proposition|proposition]], and *Prior Analytics* introduces Aristotle's syllogistic method. Only *Categories* and *On Interpretation* were widely available in the early Middle Ages, translated into Latin by Boethius. The rest reached Western Christendom in the 12th century. [[Averroes|Averroes]] and [[Maimonides|Maimonides]] studied the works in Arabic translations, and [[Thomas Aquinas|Aquinas]] and other scholastic philosophers wrote commentaries on the [[Dialectic|dialectic]] and [[Logic|logic]] they contain.
+
+=== KEY: Organophosphorus_chemistry_ce2b37
+HEADWORD: Organophosphorus chemistry = 유기인 화학
+LEVEL: 4
+GLOSSARY:
+  Bisphosphonates = 비스포스포네이트
+  Glyphosate = 글리포세이트
+  Michaelis-Arbuzov reaction = 미하엘리스-아르부조프 반응
+  Nitrogen = 질소
+  Organic compound = 유기 화합물
+  Osteoporosis = 골다공증
+  Phosphate = 인산염
+  Phosphate esters = 인산 에스테르
+  Phosphorus = 인
+  Roundup = 라운드업
+  VX = VX
+  chlorinated hydrocarbons = 염소화 탄화수소
+  flame retardants = 난연제
+  group 15 = 15족
+  malathion = 말라티온
+  nerve agents = 신경 작용제
+  organic compounds = 유기 화합물
+  periodic table = 주기율표
+  phosphinates = 포스피네이트
+  phosphonate = 포스포네이트
+  sarin = 사린
+ENTRY:
+Study of [[Organic compound|organic compounds]] containing [[Phosphorus|phosphorus]]. These compounds are used mainly in pest control as an alternative to chlorinated hydrocarbons that persist in the environment. Some are highly effective insecticides, but some are extremely toxic to humans, including the nerve agents sarin and VX. Like [[Nitrogen|nitrogen]], phosphorus is in group 15 of the periodic table, so the two form compounds with similar properties. In industrial and environmental chemistry the term is broad, and many pesticides, such as malathion, are included even without a direct phosphorus-carbon bond. [[Phosphate|Phosphate]] esters, which lack that bond, are used as flame retardants and plasticizers. Glyphosate, widely known as Roundup, is a phosphonate and one of the most widely used herbicides. Bisphosphonates treat [[Osteoporosis|osteoporosis]]. The Michaelis-Arbuzov reaction is the main method for synthesizing phosphonates and phosphinates.
+
+=== KEY: Organosilicon_chemistry_aec470
+HEADWORD: Organosilicon chemistry = 유기규소 화학
+LEVEL: 4
+GLOSSARY:
+  Charles Friedel = 샤를 프리델
+  Diatom = 규조류
+  Eugene = 오이겐
+  Eugene G. Rochow = 유진 G. 로코
+  Frederic S. Kipping = 프레더릭 S. 키핑
+  James = 야고보
+  James Crafts = 제임스 크래프츠
+  Müller-Rochow process = 뮐러-로코 공정
+  Silicon carbide = 탄화 규소
+  Silicone = 실리콘
+  direct process = 직접 공정
+  methyl chloride = 염화 메틸
+  organic compounds = 유기 화합물
+  silicates = 규산염
+  silicon carbide = 탄화 규소
+  tetraethylsilane = 테트라에틸실레인
+ENTRY:
+Study of organometallic compounds containing carbon-silicon bonds. Most organosilicon compounds resemble ordinary organic compounds: they are colorless, flammable, hydrophobic and stable to air, although [[Silicon carbide|silicon carbide]] is considered inorganic. Chemists Charles Friedel and James Crafts prepared the first organosilicon compound, tetraethylsilane, in 1863. Frederic S. Kipping pioneered the field in the early 20th century and coined the term [[Silicone|silicone]] in 1904. Eugene G. Rochow first described the Müller-Rochow process in 1945. Most organosilicon compounds derive from chlorides made by the direct process, which reacts methyl chloride with a silicon-copper alloy; about 1 million tons are produced annually this way. Silicones are common in antifoamers, sealants, adhesives and coatings. Carbon-silicon bonds are absent in biology, though silicates occur in [[Diatom|diatoms]].
+
+=== KEY: Organosulfur_chemistry_185d2b
+HEADWORD: Organosulfur chemistry = 유기황 화학
+LEVEL: 4
+GLOSSARY:
+  Amino acid = 아미노산
+  Coal = 석탄
+  Fossil = 화석
+  Fossil fuel = 화석 연료
+  Penicillin = 페니실린
+  Petroleum = 석유
+  Sulfur = 황
+  Sulfur mustard = 황 겨자
+  Thiol = 티올
+  amino acids = 아미노산
+  chalcogen = 칼코젠
+  cysteine = 시스테인
+  disulfides = 이황화물
+  heterocycles = 헤테로고리 화합물
+  methionine = 메티오닌
+  oil refineries = 정유 공장
+  organic compounds = 유기 화합물
+  polysulfides = 다황화물
+  saccharin = 사카린
+  selenium = 셀레늄
+  sulfides = 황화물
+  tellurium = 텔루륨
+  thiophene = 티오펜
+ENTRY:
+Study of organic compounds that contain [[Sulfur|sulfur]]. Organosulfur compounds are often associated with foul odors, but some of the sweetest known compounds, such as saccharin, are organosulfur derivatives. Sulfur is vital to life: two of the 20 common [[Amino acid|amino acids]], cysteine and methionine, are organosulfur compounds, and the antibiotic [[Penicillin|penicillin]] contains sulfur. Sulfur mustard is a deadly chemical warfare agent. [[Fossil fuel|Fossil fuels]] such as [[Coal|coal]] and [[Petroleum|petroleum]] necessarily contain organosulfur compounds, whose removal is a major focus of oil refineries. Sulfur shares the chalcogen group with oxygen, selenium and tellurium. Organosulfur compounds include sulfides, [[Thiol|thiols]], disulfides and polysulfides, and aromatic sulfur-containing heterocycles such as thiophene. Thiols are more nucleophilic, more acidic and more readily oxidized than alcohols.
+
+=== KEY: Orgasm_a2e508
+HEADWORD: Orgasm = 오르가슴
+LEVEL: 4
+GLOSSARY:
+  Anorgasmia = 오르가슴 장애
+  Clitoris = 음핵
+  Ejaculation = 사정
+  G-spot = G스폿
+  Human = 인간
+  Oxytocin = 옥시토신
+  Penis = 음경
+  Vagina = 질
+  autonomic nervous system = 자율 신경계
+  endorphins = 엔도르핀
+  prolactin = 프로락틴
+  sexual response cycle = 성 반응 주기
+ENTRY:
+Peak of sexual excitement, marked by rhythmic involuntary contractions in the pelvic region. Also called sexual climax, an orgasm is the sudden release of accumulated sexual excitement during the sexual response cycle. It brings intense pleasure, a general euphoric sensation and often body movements and vocalizations, and it is controlled by the involuntary, or autonomic, nervous system. Human orgasms usually result from stimulation of the [[Penis|penis]] in males, typically accompanied by [[Ejaculation|ejaculation]], and of the [[Clitoris|clitoris]] and [[Vagina|vagina]] in females. Stimulation may come from masturbation or sexual activity with a partner, although psychological means can also trigger it. The resolution phase that follows is typically relaxing, owing to the release of [[Oxytocin|oxytocin]], prolactin and endorphins. Definitions vary: at least 26 are listed in a 2001 journal. Debate continues over whether sensations such as female orgasm from [[G-spot|G-spot]] stimulation alone should count. Anorgasmia is a sexual dysfunction involving orgasm.
+
+=== KEY: Orhan_Pamuk_b4d3a5
+HEADWORD: Pamuk, Orhan = 파무크, 오르한
+LEVEL: 4
+GLOSSARY:
+  Armenian genocide = 아르메니아인 집단 학살
+  Black = 검은색
+  Book = 책
+  Castle = 성
+  Cevdet Bey and His Sons = 『제브데트 씨와 아들들』
+  Columbia = 컬럼비아
+  Columbia University = 컬럼비아 대학교
+  Humanities = 인문학
+  Istanbul = 이스탄불
+  Istanbul Technical University = 이스탄불 공과대학교
+  Life = 『라이프』
+  Literature = 문학
+  My Name Is Red = 『내 이름은 빨강』
+  Nobel Prize = 노벨상
+  Nobel Prize in Literature = 노벨 문학상
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Silent House = 『고요한 집』
+  Snow = 『눈』
+  The Black Book = 『검은 책』
+  The New Life = 『새로운 인생』
+  The White Castle = 『하얀 성』
+  Turkish = 튀르키예어
+  University = 대학
+  White = 흰색
+  liras = 리라
+ENTRY:
+Turkish novelist, screenwriter, academic and recipient of the 2006 Nobel Prize in Literature. Born in [[Istanbul|Istanbul]], Pamuk is the first Turkish Nobel laureate and has sold over 13 million books in 63 languages. He grew up in a wealthy but declining upper-class family, studied architecture at Istanbul Technical University and then became a full-time writer. His first novel, *Cevdet Bey and His Sons* (1982), chronicles three generations of an Istanbul family. His other novels include *Silent House*, *The White Castle*, *The Black Book*, *The New Life*, *My Name Is Red* and *Snow*. He is Robert Yik-Fong Tam Professor in the Humanities at [[Columbia University|Columbia University]]. A 2005 statement about the [[Armenian genocide|Armenian genocide]] in the [[Ottoman Empire|Ottoman Empire]] led to a lawsuit, and in 2011 he was ordered to pay 6,000 liras in compensation for insulting the plaintiffs' honor.
+
+=== KEY: Orient_Express_108e0d
+HEADWORD: Orient Express = 오리엔트 특급
+LEVEL: 5
+GLOSSARY:
+  Athens = 아테네
+  Brussels = 브뤼셀
+  Compagnie Internationale des Wagons-Lits = 국제 침대차 회사
+  Europe = 유럽
+  Istanbul = 이스탄불
+  London = 런던
+  Paris = 파리
+  Venice = 베네치아
+  Venice Simplon-Orient-Express = 베니스 심플론 오리엔트 특급
+ENTRY:
+Luxury passenger train service in Europe. Created in 1883 by the Belgian company Compagnie Internationale des Wagons-Lits, it ran until 2009. Its main route linked [[Paris|Paris]] and [[Istanbul|Istanbul]], with branches to [[Athens|Athens]], [[Brussels|Brussels]] and [[London|London]]. The name became synonymous with intrigue and luxury rail travel. The route stopped serving Istanbul in 1977 and left Paris for the last time in 2007. The service ceased to operate entirely on December 14, 2009. A private revival, the Venice Simplon-Orient-Express, began in 1982.
+
+=== KEY: Oriental_Orthodox_Churches_ea89ec
+HEADWORD: Oriental Orthodox Churches = 오리엔트 정교회
+LEVEL: 4
+GLOSSARY:
+  Addis Ababa = 아디스아바바
+  Alexandria = 알렉산드리아
+  Antioch = 안티오키아
+  Armenia = 아르메니아
+  Armenian Apostolic Church = 아르메니아 사도 교회
+  Chalcedon = 칼케돈
+  Christianity = 기독교
+  Christology = 그리스도론
+  Church = 처치
+  Conference of Addis Ababa = 아디스아바바 회의
+  Coptic = 콥트어
+  Coptic Orthodox Church = 콥트 정교회
+  Coptic Orthodox Church of Alexandria = 알렉산드리아 콥트 정교회
+  Council of Chalcedon = 칼케돈 공의회
+  Eastern Orthodox = 동방 정교회
+  Eastern Orthodox Church = 동방 정교회
+  Egypt = 이집트
+  Eritrea = 에리트레아
+  Eritrean Orthodox Tewahedo Church = 에리트레아 정교회 테와흐도 교회
+  Ethiopia = 에티오피아
+  Ethiopian Orthodox Tewahedo Church = 에티오피아 정교회 테와흐도 교회
+  India = 인도
+  Malankara Orthodox Syrian Church = 말랑카라 정교회 시리아 교회
+  Miaphysite = 합성론
+  Oriental Orthodox = 오리엔트 정교회
+  Oriental Orthodox Churches = 오리엔트 정교회
+  Orthodox = 정교회
+  Orthodox Church = 정교회
+  Syria = 시리아
+  Syriac = 시리아어
+  Syriac Orthodox Church of Antioch = 안티오키아 시리아 정교회
+  Tewahedo = 테와흐도
+  Turkey = 튀르키예
+  autocephalous = 독립
+  ecumenical councils = 공의회
+  full communion = 완전한 친교
+ENTRY:
+Communion of Eastern Christian churches adhering to Miaphysite Christology. Estimated at 72 million members in 2020, the Oriental Orthodox Churches are among the oldest branches of [[Christianity|Christianity]]. Their bishops are equal by virtue of episcopal ordination, and their doctrines recognize only the first three ecumenical councils. The communion comprises six autocephalous churches: the [[Coptic Orthodox Church|Coptic Orthodox Church]] of Alexandria, the Syriac Orthodox Church of Antioch, the Armenian Apostolic Church, the Malankara Orthodox Syrian Church, the [[Ethiopian Orthodox Tewahedo Church|Ethiopian Orthodox Tewahedo Church]] and the Eritrean Orthodox Tewahedo Church. They shared communion with the imperial Roman church before the Council of Chalcedon in AD 451 and separated primarily over differences in Christology. Most members live in [[Egypt|Egypt]], Ethiopia, Eritrea, India, Syria, Turkey and [[Armenia|Armenia]]. The name was formally adopted at the Conference of Addis Ababa in 1965. The churches are in full communion with one another but not with the [[Eastern Orthodox Church|Eastern Orthodox Church]].
+
+=== KEY: Origami_50f4f4
+HEADWORD: Origami = 종이접기
+LEVEL: 4
+GLOSSARY:
+  Akira Yoshizawa = 요시자와 아키라
+  China = 중국
+  Edo period = 에도 시대
+  Europe = 유럽
+  Hiden senbazuru orikata = 『비전 센바즈루 오리카타』
+  Japan = 일본
+  Sengoku period = 센고쿠 시대
+  Square = 정사각형
+  kami = 가미
+  ori = 오리
+  origata = 오리가타
+  paper crane = 종이학
+  stents = 스텐트
+  wet-folding = 젖은 접기
+ENTRY:
+Art and technique of folding paper. Origami typically transforms a flat [[Square|square]] sheet, without cuts or glue, into figures such as the Japanese paper crane, the best-known model. The word combines *ori*, meaning to fold, and *kami*, meaning paper. Though the word has Japanese roots, the practice is universal, and paper-folding traditions arose separately in Europe, China and Japan. Ceremonial origami, called origata in Japan, is distinct from recreational origami. Play-made paper models existed in Japan by the [[Sengoku period|Sengoku period]] or the early [[Edo period|Edo period]]. *Hiden senbazuru orikata* (1797) is the oldest known technical book on origami for play. In the 20th century Akira Yoshizawa developed wet-folding techniques and standardized diagramming symbols. Origami principles are also used in stents, packaging and other engineering applications.
+
+=== KEY: Origen_ac6cb6
+HEADWORD: Origen = 오리게네스
+LEVEL: 4
+GLOSSARY:
+  Bible = 성경
+  Christian School of Caesarea = 카이사레아 그리스도교 학교
+  Church = 처치
+  Contra Celsum = 『켈수스 반박』
+  Decian persecution = 데키우스 박해
+  Free will = 자유 의지
+  Hebrew = 히브리어
+  Hebrew Bible = 히브리어 성경
+  Hexapla = 『헥사플라』
+  Justinian = 유스티니아누스
+  Justinian I = 유스티니아누스 1세
+  Logic = 논리학
+  On the First Principles = 『원리론』
+  School = 학교
+  Soul = 영혼
+  Trinity = 삼위일체
+  apologetics = 호교론
+  biblical exegesis = 성서 주석
+  free will = 자유 의지
+  homiletics = 설교학
+  natural history = 박물학
+  pre-existence = 선재
+  ransom theory of atonement = 속죄의 배상설
+  textual criticism = 본문 비평
+ENTRY:
+Early Christian theologian and ascetic. A prolific writer, he is said to have produced roughly 2,000 treatises on textual criticism, biblical exegesis, homiletics and spirituality. He founded the Christian School of Caesarea, where he taught [[Logic|logic]], cosmology, natural history and theology. He was tortured during the Decian persecution in 250 and died a few years later from his injuries. *On the First Principles* laid out Christian theology systematically, and *Contra Celsum* is one of the most influential works of early Christian apologetics. He produced the *Hexapla*, a critical edition of the [[Hebrew Bible|Hebrew Bible]] in parallel columns, and interpreted many passages allegorically. He was the first to propose the ransom theory of atonement in its fully developed form and contributed to the development of the [[Trinity|Trinity]]. He defended [[Free will|free will]] and advocated Christian pacifism. The Church rejected his teaching on the pre-existence of [[Soul|souls]], and in 543 Emperor [[Justinian I|Justinian I]] condemned him as a heretic.
+
+=== KEY: Origin_of_language_39b18a
+HEADWORD: Origin of language = 언어의 기원
+LEVEL: 4
+GLOSSARY:
+  Charles Darwin = 찰스 다윈
+  Continuity theories = 연속성 이론
+  Human evolution = 인류의 진화
+  Language acquisition = 언어 습득
+  Linguistic Society of Paris = 파리 언어학회
+  Michael Tomasello = 마이클 토마셀로
+  Noam Chomsky = 놈 촘스키
+  Paris = 파리
+  Primate = 영장류
+  Society = 사회
+  Western world = 서양
+  discontinuity theories = 불연속성 이론
+  fossil record = 화석 기록
+  human evolution = 인류 진화
+  language faculty = 언어 능력
+  natural selection = 자연 선택
+ENTRY:
+Relationship between language and [[Human evolution|human evolution]]. Researchers draw inferences from the fossil record, archaeological evidence, contemporary language diversity, [[Language acquisition|language acquisition]] and comparisons with the communication of other primates. Many argue that the origin of language is closely related to the origins of modern human behavior, but experts disagree about the facts. In 1866 the Linguistic Society of Paris banned debate on the subject, a prohibition influential in much of the Western world until the late 20th century. [[Charles Darwin|Charles Darwin]]'s theory of evolution by natural selection provoked a surge of speculation. Continuity theories hold that language evolved from [[Primate|primate]] precursors, while discontinuity theories hold that it appeared fairly suddenly. [[Noam Chomsky|Noam Chomsky]] argues that a single change in the human language faculty occurred approximately 100,000 years ago, before humans left Africa. Michael Tomasello, by contrast, considers language socially learned, developing from the mostly gestural aspects of primate communication.
+
+=== KEY: Orinoco_df0ccd
+HEADWORD: Orinoco = 오리노코강
+LEVEL: 4
+GLOSSARY:
+  Alexander von Humboldt = 알렉산더 폰 훔볼트
+  Christopher Columbus = 크리스토퍼 콜럼버스
+  Colombia = 콜롬비아
+  Columbus = 콜럼버스
+  Llanos = 야노스
+  Orinoco = 오리노코강
+  River = 강
+  South America = 남아메리카
+  Venezuela = 베네수엘라
+  drainage basin = 유역
+ENTRY:
+River of northern South America, flowing mainly through Venezuela and Colombia. At 2,140 km (1,330 mi), the Orinoco is one of the longest rivers in [[South America|South America]]. Its drainage basin covers approximately 1,000,000 km² (390,000 sq mi), with 65% in Venezuela and 35% in Colombia. It is the third-largest river in the world by discharge, at 39,000 m³/s (1,400,000 cu ft/s) at its delta. The river and its tributaries are the main transportation system for eastern and interior Venezuela and the Llanos plain of Colombia. [[Christopher Columbus|Christopher Columbus]] documented its mouth on August 1, 1498, and [[Alexander von Humboldt|Alexander von Humboldt]] explored stretches of it in 1800. The source was discovered in 1951 by a French-Venezuelan expedition.
+
+=== KEY: Orion_Nebula_ec9f5a
+HEADWORD: Orion Nebula = 오리온성운
+LEVEL: 4
+GLOSSARY:
+  Brown dwarf = 갈색 왜성
+  Diffuse nebula = 산광 성운
+  Earth = 지구
+  Messier 42 = 메시에 42
+  NGC 1976 = NGC 1976
+  O-class stars = O형 별
+  Orion = 오리온
+  Orion (constellation) = 오리온자리
+  Orion's Belt = 오리온의 띠
+  Star formation = 별 형성
+  Sun = 태양
+  apparent magnitude = 겉보기 등급
+  brown dwarfs = 갈색 왜성
+  forbidden transition = 금지 전이
+  protoplanetary disks = 원시 행성계 원반
+ENTRY:
+Diffuse nebula in the [[Orion (constellation)|constellation Orion]]. Also known as Messier 42, M42 or NGC 1976, it lies south of [[Orion's Belt|Orion's Belt]] and is visible to the naked eye, with an apparent magnitude of 4.0. At 1,267.0 ± 5.4 light-years away, it is the closest region of massive [[Star formation|star formation]] to [[Earth|Earth]]. It is estimated to be 25 light-years across and to have a mass about 2,000 times that of the [[Sun|Sun]]. Astronomers have directly observed protoplanetary disks and [[Brown dwarf|brown dwarfs]] within it, which has revealed much about how stars and planetary systems form from collapsing clouds of gas and dust. Its red hue comes from hydrogen emission, while the blue-violet coloration is reflected light from massive O-class stars. The green hue, long a puzzle, was later traced to a forbidden transition in doubly ionized oxygen.
+
+=== KEY: Orion_constellation_7e60f6
+HEADWORD: Orion = 오리온자리
+LEVEL: 4
+GLOSSARY:
+  88 modern constellations = 88개 현대 별자리
+  Betelgeuse = 베텔게우스
+  Comet = 혜성
+  Eugène Delporte = 외젠 델포르트
+  Greek mythology = 그리스 신화
+  Halley's Comet = 핼리 혜성
+  Meteor shower = 유성우
+  Orion = 오리온
+  Orion Nebula = 오리온성운
+  Orion's Belt = 오리온의 띠
+  Orionids = 오리온자리 유성우
+  Ptolemy = 프톨레마이오스
+  Rigel = 리겔
+  asterism = 성군
+  celestial equator = 천구의 적도
+  radiant = 복사점
+  square degrees = 제곱도
+  supergiants = 초거성
+ENTRY:
+Prominent constellation of the Northern Hemisphere's winter sky, near the celestial equator. One of the 88 modern constellations, Orion was among the 48 listed by the 2nd-century AD astronomer [[Ptolemy|Ptolemy]]. It is named after a hunter in [[Greek mythology|Greek mythology]]. Its two brightest stars, [[Rigel|Rigel]] and [[Betelgeuse|Betelgeuse]], are both supergiants and among the brightest stars in the night sky. Three stars form [[Orion's Belt|Orion's Belt]], a short straight asterism. Orion is also the radiant of the Orionids, the strongest [[Meteor shower|meteor shower]] associated with [[Halley's Comet|Halley's Comet]], and it contains the [[Orion Nebula|Orion Nebula]]. Covering 594 square degrees, it ranks 26th of the 88 constellations in size. Its boundaries, set by Belgian astronomer Eugène Delporte in 1930, form a 26-sided polygon. It is most visible in the evening sky from January to April.
+
+=== KEY: Orion_s_Belt_e3e0a9
+HEADWORD: Orion's Belt = 오리온의 띠
+LEVEL: 5
+GLOSSARY:
+  Alnilam = 알닐람
+  Alnitak = 알니탁
+  Asterism = 성군
+  Earth = 지구
+  Kings = 킹스
+  Mintaka = 민타카
+  Northern Hemisphere = 북반구
+  Orion = 오리온
+  Orion (constellation) = 오리온자리
+  Sun = 태양
+  Three Kings = 세 왕
+  asterism = 성군
+  blue supergiants = 청색 초거성
+  star system = 스타 시스템
+  supergiants = 초거성
+ENTRY:
+Asterism of three bright stars in the constellation [[Orion (constellation)|Orion]]. Alnitak, Alnilam and Mintaka appear nearly equally spaced in a line from Earth, but each is a star system: Alnilam is a single star, Alnitak is triple and Mintaka quintuple. Their intense blue-white light comes from blue supergiants, and the systems together have a combined luminosity about a million times that of the Sun. Known under many names, including the Three Kings, the asterism has played a central role in navigation in the Northern Hemisphere since prehistoric times.
+
+=== KEY: Orkney_db9223
+HEADWORD: Orkney = 오크니 제도
+LEVEL: 5
+GLOSSARY:
+  Agriculture = 농업
+  Archipelago = 제도
+  Heart = 심장
+  Heart of Neolithic Orkney = 오크니 신석기 유적 중심지
+  Kirkwall = 커크월
+  Mainland = 메인랜드섬
+  Neolithic = 신석기 시대
+  Northern Isles = 노던 제도
+  Norway = 노르웨이
+  Orkney = 오크니 제도
+  Scotland = 스코틀랜드
+  Shetland = 셰틀랜드 제도
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  renewable energy = 재생 에너지
+ENTRY:
+Archipelago and council area off the northern coast of [[Scotland]]. Part of the Northern Isles with [[Shetland]], it has about 70 islands, of which about 20 are inhabited. The largest, the Mainland, covers 523 sq km, and Kirkwall is the administrative center. Norway annexed the islands in 875, and in 1472 Scotland absorbed the earldom. Orkney has some of Europe's oldest and best-preserved [[Neolithic]] sites, including the Heart of Neolithic Orkney, a UNESCO World Heritage Site. Agriculture is the main economic sector, and renewable energy generates more electricity than the islands need.
+
+=== KEY: Orlando_Florida_ba41f5
+HEADWORD: Orlando, Florida = 올랜도
+LEVEL: 5
+GLOSSARY:
+  Airport = 공항
+  City = 도시
+  Convention = 비상 의회
+  Disney = 디즈니
+  Disney World = 디즈니 월드
+  Florida = 플로리다주
+  Orange = 오렌지 카운티
+  Orange County = 오렌지 카운티
+  Orange County Convention Center = 오렌지 카운티 컨벤션 센터
+  Orlando International Airport = 올랜도 국제공항
+  Tourism = 관광
+  United States = 미국
+  Walt Disney = 월트 디즈니
+  Walt Disney World = 월트 디즈니 월드
+  World = 세계
+ENTRY:
+City, seat of Orange County, in central [[Florida]] (pop., 2020: 307,573). It is the state's fourth-most populous city and its most populous inland city. Tourism and conventions drive the economy. The [[Walt Disney World]] resort, opened in 1971, is one of the two largest tourist attractions in the area, and the Orange County Convention Center is the second-largest convention facility in the United States. Orlando International Airport is the 7th-busiest in the country.
+
+=== KEY: Ornithischia_f740b4
+HEADWORD: Ornithischia = 조반목
+LEVEL: 4
+GLOSSARY:
+  Bird = 조류
+  Clade = 분기군
+  Cretaceous = 백악기
+  Cretaceous-Paleogene extinction = 백악기-팔레오기 대멸종
+  Dinosaur = 공룡
+  Late Triassic = 후기 트라이아스기
+  Mesozoic = 중생대
+  Triassic = 트라이아스기
+  Triceratops = 트리케라톱스
+  ankylosaurs = 곡룡류
+  ceratopsians = 각룡류
+  ornithopods = 조각류
+  pachycephalosaurs = 후두류
+  stegosaurs = 검룡류
+  theropod = 수각류
+  thyreophorans = 장순아목
+ENTRY:
+Extinct [[Clade|clade]] of mainly herbivorous [[Dinosaur|dinosaurs]] with a pelvic structure superficially similar to that of [[Bird|birds]]. The name, meaning bird-hipped, is misleading, since birds are theropod dinosaurs and only distantly related to the group. Members include the ceratopsians, such as [[Triceratops]]; the armored thyreophorans, such as stegosaurs and ankylosaurs; the pachycephalosaurs; and the ornithopods. Early forms were small, bipedal and fast runners, and some groups lived in herds. Many were partly covered in filamentous pelts, and debate continues over whether these were primitive feathers. The clade ranged from the Late [[Triassic]] until the [[Cretaceous]]-Paleogene extinction about 66 million years ago, contributing significantly to Mesozoic biodiversity.
+
+=== KEY: Oromo_language_492a74
+HEADWORD: Oromo language = 오로모어
+LEVEL: 4
+GLOSSARY:
+  Afroasiatic = 아프로아시아어족
+  Benishangul-Gumuz = 베니샹굴구무즈주
+  Cushitic = 쿠시어파
+  Dire Dawa = 디레다와
+  Ethiopia = 에티오피아
+  Harari = 하라리주
+  Kenya = 케냐
+  Latin = 라틴어
+  Latin script = 라틴 문자
+  Oromia = 오로미아주
+  de facto = 사실상
+ENTRY:
+Afroasiatic language of the Cushitic branch, spoken mainly in [[Ethiopia]], where about 85 percent of its speakers live. It is the most widely spoken Cushitic language and one of the five African languages with the largest mother-tongue populations. Smaller numbers speak it in northern [[Kenya]] and in other African countries. Oromo is one of Ethiopia's official working languages and the working language of several regions. It is a language of primary education in Oromia, Harari, Dire Dawa, Benishangul-Gumuz and Addis Ababa.It is officially written in the [[Latin script|Latin script]], although traditional scripts are also used informally. Under Haile Selassie's government, Oromo was de facto banned in education, conversation and administration.
+
+=== KEY: Orphan_509691
+HEADWORD: Orphan = 고아
+LEVEL: 4
+GLOSSARY:
+  Afghanistan = 아프가니스탄
+  Child = 어린이
+  Europe = 유럽
+  Second = 초
+  Second World = 제2세계
+  Second World War = 제2차 세계 대전
+  UNAIDS = 유엔 에이즈 합동 계획
+  UNICEF = 유니세프
+  United States = 미국
+  World = 세계
+  the Second World War = 제2차 세계 대전
+ENTRY:
+Child whose parents have died, are unknown or have permanently abandoned them. In common usage, only a child who has lost both parents through death is called an orphan. [[UNICEF]] and UNAIDS, however, count any child who has lost one parent as an orphan: a maternal orphan has lost a mother, a paternal orphan a father, and a double orphan both. Wars, epidemics and poverty have produced many orphans. After the Second World War, estimates for Europe ranged from 1,000,000 to 13,000,000. Orphans are relatively rare in developed countries but numerous in war-torn nations such as [[Afghanistan]]. In the United States, about 2 million children, or 2.7 percent, have a deceased mother or father.
+
+=== KEY: Orphanage_c3c786
+HEADWORD: Orphanage = 고아원
+LEVEL: 4
+GLOSSARY:
+  Bucharest = 부쿠레슈티
+  Foundling Hospital = 파운들링 병원
+  Government = 정부
+  Hospital = 병원
+  London = 런던
+  Nicolae Ceaușescu = 니콜라에 차우셰스쿠
+  Orphan = 고아
+  Thomas = 토머스
+  Thomas Coram = 토머스 코람
+ENTRY:
+Residential institution, or group home, devoted to the care of [[Orphan|orphans]] and other children who cannot be raised by their families. Government-run orphanages were phased out in most developed countries in the latter half of the 20th century, as it became generally accepted that they harm children's emotional wellbeing. Government support now goes instead to the family unit. Some large international charities still fund orphanages, but most are founded by smaller charities and religious groups. In some developing countries, orphanages may recruit children to secure funding. Romanian orphanages, such as those in [[Bucharest]], were expanded after [[Nicolae Ceaușescu]] banned abortion and birth control to boost the population and workforce. Early charitable institutions included the Foundling Hospital, founded in London in 1741 by sea captain Thomas Coram.
+
+=== KEY: Orpheus_005d13
+HEADWORD: Orpheus = 오르페우스
+LEVEL: 5
+GLOSSARY:
+  Argonauts = 아르고호 원정대
+  Aristotle = 아리스토텔레스
+  Dionysus = 디오니소스
+  Eurydice = 에우리디케
+  Greek mythology = 그리스 신화
+  Jason = 이아손
+  Orphic Hymns = 『오르페우스 찬가』
+  Orphic mysteries = 오르페우스 비교
+  Thracian = 트라키아
+  maenads = 마이나데스
+ENTRY:
+Thracian bard, musician and prophet in [[Greek mythology]]. His music could charm animals, trees and even stones, and he traveled with Jason and the Argonauts. He attempted to retrieve his wife, Eurydice, from the underworld, and was later killed by the maenads of [[Dionysus]]. Orpheus was regarded as the founder of the Orphic mysteries, and works including the Orphic Hymns were attributed to him. Most ancient writers believed he was a real person, though [[Aristotle]] reportedly denied it.
+
+=== KEY: Orson_Welles_efa924
+HEADWORD: Orson Welles = 웰스, 오슨
+LEVEL: 4
+GLOSSARY:
+  British Film Institute = 영국 영화 협회
+  Citizen Kane = 「시민 케인」
+  Film = 영화
+  H. G. Wells = H. G. 웰스
+  Hollywood = 할리우드
+  John = 존
+  John Houseman = 존 하우스먼
+  Mercury Theatre = 머큐리 극단
+  Othello = 「오셀로」
+  Studio system = 스튜디오 시스템
+  The Magnificent Ambersons = 「위대한 앰버슨가」
+  The War of the Worlds = 『우주 전쟁』
+  Theatre = 연극
+  Touch of Evil = 「악의 손길」
+ENTRY:
+American actor, director and filmmaker, remembered for innovative work in film, radio and theater. He co-founded the Mercury Theatre with John Houseman. His 1938 radio adaptation of [[H. G. Wells]]'s novel *The War of the Worlds* led some listeners to believe a Martian invasion was occurring, and it brought him Hollywood offers. His first film, *Citizen Kane* (1941), which he co-wrote, produced, directed and starred in, is consistently ranked among the greatest films ever made. He directed 12 other features, including *The Magnificent Ambersons* (1942), *Othello* (1951) and *Touch of Evil* (1958). Welles struggled for creative control within the [[Studio system|studio system]] and later often failed to secure financing as an independent filmmaker. A 2002 British Film Institute poll voted him the greatest film director ever.
+
+=== KEY: Orthodox_Judaism_565328
+HEADWORD: Orthodox Judaism = 정통파 유대교
+LEVEL: 4
+GLOSSARY:
+  Haredi = 하레디
+  Jerusalem = 예루살렘
+  Jewish law = 유대 율법
+  Jews = 유대인
+  Judaism = 유대교
+  Messiah = 메시아
+  Modern Orthodox = 현대 정통파
+  Mount Sinai = 시나이산
+  Orthodox = 정교회
+  Orthodox Judaism = 정통파 유대교
+  Sabbath = 안식일
+  Sinai = 시나이반도
+  Temple = 성전
+  Temple in Jerusalem = 예루살렘 성전
+  Torah = 토라
+  halakha = 할라카
+  kosher = 코셔
+ENTRY:
+Collective term for the traditionalist branches of contemporary [[Judaism]]. The movement regards the [[Torah]], both written and oral, as literally revealed by God on Mount Sinai and faithfully transmitted since. It advocates strict observance of Jewish law, or halakha, and observant members keep the Sabbath and kosher dietary laws, pray three times a day and study the Torah often. Doctrines include bodily resurrection and the future reign of a Messiah who will restore the Temple in [[Jerusalem]]. The movement is not a centralized denomination. Its Haredi branch is more conservative and reclusive, while Modern Orthodox Jews engage more with secular society. The earliest known use of the term dates from 1795. Orthodox Judaism is the largest Jewish religious group, with over 2 million practicing adherents.
+
+=== KEY: Orthodoxy_5fafae
+HEADWORD: Orthodoxy = 정통
+LEVEL: 4
+GLOSSARY:
+  Arius = 아리우스
+  Buddhism = 불교
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Chalcedon = 칼케돈
+  Chalcedonian = 칼케돈파
+  Chalcedonian Christianity = 칼케돈파 그리스도교
+  Christianity = 기독교
+  Church = 처치
+  Council of Chalcedon = 칼케돈 공의회
+  Eastern Orthodox = 동방 정교회
+  Eastern Orthodox Church = 동방 정교회
+  Great Schism = 동서 교회 분열
+  Islam = 이슬람교
+  Jesus = 예수
+  Oriental Orthodox = 오리엔트 정교회
+  Oriental Orthodox Churches = 오리엔트 정교회
+  Orthodox = 정교회
+  Orthodox Church = 정교회
+  Sunni = 수니파
+  Sunni Islam = 수니파
+  Theravada = 상좌부 불교
+  ecumenical councils = 공의회
+  homoousian = 동일 본질
+ENTRY:
+Adherence to a purported correct or mainstream creed, especially in religion. The word derives from Greek for correct opinion. In Christianity, orthodoxy refers to doctrines defined by the early creeds and ecumenical councils. The homoousian doctrine, which defined Jesus as both God and man, prevailed over the teaching of [[Arius]] and became orthodoxy in most Christian contexts. After the 1054 Great Schism, both the Western [[Catholic Church]] and the [[Eastern Orthodox Church]] considered themselves orthodox and catholic. Oriental Orthodox Churches separated from Chalcedonian Christianity after the Council of Chalcedon in AD 451. [[Sunni Islam]] is sometimes called Orthodox Islam, and the [[Theravada]] school is considered the most orthodox form of Buddhism.
+
+=== KEY: Orthography_5fa519
+HEADWORD: Orthography = 정서법
+LEVEL: 4
+GLOSSARY:
+  Académie Française = 아카데미 프랑세즈
+  Ancient Greek = 고대 그리스어
+  France = 프랑스
+  Newspapers of record = 권위지
+  Noah = 노아
+  Noah Webster = 노아 웹스터
+  Royal Spanish Academy = 스페인 왕립 학술원
+  Spain = 스페인
+ENTRY:
+Set of conventions for writing a language, including norms of spelling, punctuation, word boundaries, capitalization, hyphenation and emphasis. Most established languages have standardized writing systems that show less dialect variation than speech. Standardization can fossilize pronunciation patterns no longer routinely heard, as in would and should. Differences can also be deliberate: [[Noah Webster]] introduced visible differences between American and British spelling, such as honor and honor. Some nations have language academies, such as the Académie Française in France and the Royal Spanish Academy in Spain, but English has no such authority. Newspapers of record and academic journals often enforce a style guide. The English word is first attested in the 15th century, from Ancient Greek words meaning correct and to write.
+
+=== KEY: Orthoptera_3af1f8
+HEADWORD: Orthoptera = 메뚜기목
+LEVEL: 4
+GLOSSARY:
+  Caelifera = 메뚜기아목
+  Cricket (insect) = 귀뚜라미
+  Ensifera = 여치아목
+  Grasshopper = 메뚜기
+  Insect = 곤충
+  Life = 『라이프』
+  Locust = 풀무치
+  incomplete metamorphosis = 불완전 변태
+  katydids = 여치
+  nymphs = 약충
+  stridulation = 마찰음 발성
+  tibia = 정강뼈
+  tympanum = 고막
+ENTRY:
+Order of [[Insect|insects]] comprising [[Grasshopper|grasshoppers]], [[Locust|locusts]], [[Cricket (insect)|crickets]] and katydids, with more than 20,000 species worldwide. The order divides into two suborders: Caelifera, which includes grasshoppers and locusts, and Ensifera, which includes crickets and katydids. Insects produce sound, called stridulation, by rubbing wings or legs together, and they hear through a tympanum in the front tibia or on the first abdominal segment. The forewings are narrow and hardened at the base, folding over fan-like hindwings. Life cycles are incomplete metamorphosis: nymphs resemble adults but lack wings until their final molt. The name comes from Greek for straight and wing. The order evolved about 300 million years ago, and locust swarms can devastate crops.
+
+=== KEY: Oryza_sativa_0095a2
+HEADWORD: Oryza sativa = 아시아벼
+LEVEL: 4
+GLOSSARY:
+  African rice = 아프리카벼
+  Asia = 아시아
+  China = 중국
+  East Asia = 동아시아
+  Japan = 일본
+  Japonica = 자포니카
+  Model organism = 모델 생물
+  O. glaberrima = O. glaberrima
+  Oryza sativa = Oryza sativa
+  River = 강
+  Yangtze = 양쯔강
+  Yangtze River = 양쯔강
+  indica = 인디카
+  japonica = 자포니카
+  model organism = 모델 생물
+  monocots = 외떡잎식물
+ENTRY:
+Asian cultivated rice, the more common of the two rice species grown as a cereal. The other is African rice, *O. glaberrima*. *Oryza sativa* was first domesticated in the [[Yangtze|Yangtze]] River basin in China. Its genome of 430 Mbp across 12 chromosomes makes it easy to genetically modify, and it is a [[Model organism|model organism]] for the study of cereals and monocots. Two major subspecies are recognized: the sticky, short-grained japonica and the nonsticky, long-grained indica. Japonica is grown mainly submerged in Japan and in temperate East Asia, while indica is grown mostly in lowlands throughout tropical Asia. Grain colors include white, brown, black and red.
+
+=== KEY: Osaka_0d70a3
+HEADWORD: Osaka = 오사카
+LEVEL: 4
+GLOSSARY:
+  Designated city = 정령지정도시
+  Edo period = 에도 시대
+  Honshu = 혼슈
+  Japan = 일본
+  Kansai = 간사이
+  Kansai region = 간사이 지방
+  Keihanshin = 게이한신
+  Meiji = 메이지
+  Meiji Restoration = 메이지 유신
+  Osaka = 오사카
+  Osaka Exchange = 오사카 거래소
+  Osaka Prefecture = 오사카부
+  Panasonic = 파나소닉
+  Restoration = 왕정복고
+  Sharp = 샤프
+  Taishō = 다이쇼
+  Tokyo = 도쿄
+  Yokohama = 요코하마
+  special wards = 특별구
+ENTRY:
+Designated city in the Kansai region of [[Honshu]], Japan, and capital of Osaka Prefecture (pop., 2025: 2.8 million). It is Japan's third-most populous city proper, after the special wards of [[Tokyo]] and [[Yokohama]], and the largest part of the Keihanshin metropolitan area, which has more than 19 million inhabitants. Osaka was traditionally Japan's economic hub. It briefly served as the imperial capital in the seventh and eighth centuries, and it flourished during the [[Edo period]] as a center of Japanese culture. After the [[Meiji Restoration]], it became the industrial hub of the Meiji and Taishō eras. It is now a major financial center, home to the Osaka Exchange and the headquarters of [[Panasonic]] and Sharp.
+
+=== KEY: Osama_bin_Laden_ff05b5
+HEADWORD: Osama bin Laden = 빈라덴, 오사마
+LEVEL: 4
+GLOSSARY:
+  Abbottabad = 아보타바드
+  Afghanistan = 아프가니스탄
+  Al-Qaeda = 알카에다
+  Arabia = 아라비아
+  East Africa = 동아프리카
+  Islamists = 이슬람주의자
+  Maktab al-Khidamat = 마크타브 알히다마트
+  Muslims = 무슬림
+  Navy = 해군
+  Navy SEALs = 네이비 실
+  Neptune = 해왕성
+  Operation Neptune = 넵튠 작전
+  Operation Neptune Spear = 넵튠 스피어 작전
+  Pakistan = 파키스탄
+  Saudi Arabia = 사우디아라비아
+  Spear = 창
+  Sudan = 수단
+  Taliban = 탈레반
+  U.S. Navy = 미국 해군
+  War on terror = 테러와의 전쟁
+  mujahideen = 무자헤딘
+  war on terror = 테러와의 전쟁
+ENTRY:
+Saudi-born militant, founder and first leader of [[Al-Qaeda|al-Qaeda]]. In 1984 he co-founded Maktab al-Khidamat to recruit foreigners for the Afghan mujahideen resisting Soviet occupation, and in 1988 he founded al-Qaeda. Expelled from Saudi Arabia in 1991, he moved to Sudan and then returned to Afghanistan, which the [[Taliban|Taliban]] came to control. Al-Qaeda bombed U.S. embassies in East Africa in 1998. Its attacks of September 11, 2001, killed 2,977 victims and led to the U.S.-led [[War on terror|war on terror]]. He lived in a compound in Abbottabad, Pakistan, until U.S. Navy SEALs killed him in a raid codenamed Operation Neptune Spear. Polls show that Muslims at large have a negative view of him, while many Islamists consider him heroic.
+
+=== KEY: Osamu_Tezuka_04165b
+HEADWORD: Osamu Tezuka = 데즈카 오사무
+LEVEL: 4
+GLOSSARY:
+  Astro Boy = 『철완 아톰』
+  Black = 검은색
+  Black Jack = 『블랙 잭』
+  Disney = 디즈니
+  Iron = 철
+  Kimba the White Lion = 『밀림의 왕자 레오』
+  Knight = 기사
+  Lion = 사자
+  Manga = 만화
+  Mushi Productions = 무시 프로덕션
+  New Treasure Island = 『신보물섬』
+  Phoenix = 피닉스
+  Princess Iron Fan = 「철선공주」
+  Princess Knight = 『리본의 기사』
+  Takarazuka = 다카라즈카
+  Treasure Island = 『보물섬』
+  Walt Disney = 월트 디즈니
+  White = 흰색
+ENTRY:
+Japanese [[Manga|manga]] artist, cartoonist and animator, often called the father of manga. His *New Treasure Island* (1947) began what became known as the manga revolution. He went on to create some of Japan's most influential series, including *Astro Boy*, *Princess Knight* and *Kimba the White Lion* for children and *Black Jack* and *Phoenix* for adults. Inspired by Walt Disney films and the Chinese animated film *Princess Iron Fan*, he also worked extensively in animation and founded Mushi Productions. He produced over 700 manga series. Often considered the Japanese equivalent of [[Walt Disney]], he is commemorated by a museum in Takarazuka dedicated to his life and work.

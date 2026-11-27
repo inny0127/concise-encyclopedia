@@ -1,0 +1,1036 @@
+=== KEY: Assembly_language_76d7be
+HEADWORD: Assembly language = 어셈블리어
+LEVEL: 4
+GLOSSARY:
+  ARM = ARM
+  Andrew Donald Booth = 앤드루 도널드 부스
+  Assembly = 민회
+  Assembly language = 어셈블리어
+  Kathleen H.V. Britten = 캐슬린 H.V. 브리튼
+  Kernel (operating system) = 커널
+  Linux = 리눅스
+  Linux kernel = 리눅스 커널
+  X86 = x86
+  assembler = 어셈블러
+  assembler directives = 어셈블러 지시어
+  machine code = 기계어
+  macros = 매크로
+  source code = 소스 코드
+ENTRY:
+Low-level programming language closely corresponding to the machine code instructions of a particular computer architecture.
+
+Assembly language usually has one statement per machine code instruction, though it also supports constants, comments, assembler directives, symbolic labels and macros. Each assembly language is specific to an architecture such as [[X86|x86]] or ARM, and an assembler converts it into executable machine code. The first assembly code was described in a 1947 work by Andrew Donald Booth and Kathleen H.V. Britten. In the first decades of computing, systems and application programs were written entirely in assembly. Most programming is now done in higher-level languages, but small amounts of assembly are used within larger systems for performance or to interact directly with hardware. Just under 2% of version 4.9 of the [[Kernel (operating system)|Linux kernel]] source code is written in assembly; more than 97% is in C.
+
+=== KEY: Assembly_line_7a928a
+HEADWORD: Assembly line = 조립 라인
+LEVEL: 4
+GLOSSARY:
+  Arsenal = 아스널
+  Assembly = 민회
+  Ford = 포드
+  Ford Model T = 포드 모델 T
+  Henry Ford = 헨리 포드
+  Highland Park = 하일랜드파크
+  Industrial Revolution = 산업 혁명
+  Manufacturing = 제조업
+  Model T = 모델 T
+  Venetian = 베네치아
+  Venetian Arsenal = 베네치아 아르세날레
+  assembly line = 조립 라인
+ENTRY:
+Manufacturing process of progressive, sequential assembly at workstations, in which the unfinished product is moved in a direct line.
+
+Assembly lines are common for complex items such as automobiles, household appliances and electronic goods. Before the [[Industrial Revolution]], most products were made individually by hand. [[Henry Ford]] pioneered the moving assembly line at his Highland Park plant on December 1, 1913, for the [[Ford Model T]], reducing assembly time from over 12 hours to approximately 93 minutes per vehicle. Parts are moved by conveyors, forklifts or gravity, and each worker typically performs one simple operation. The Venetian Arsenal, dating to about 1104, operated in a similar way and at its peak in the early 16th century could reportedly produce nearly one ship each day.
+
+=== KEY: Associated_Press_d904de
+HEADWORD: Associated Press = AP 통신
+LEVEL: 5
+GLOSSARY:
+  AP Stylebook = 『AP 스타일북』
+  City = 도시
+  Football = 축구
+  Mexican–American War = 멕시코-미국 전쟁
+  National Football League = 내셔널 풋볼 리그
+  New York City = 뉴욕
+  Pulitzer Prize = 퓰리처상
+  York = 요크
+ENTRY:
+American not-for-profit news agency headquartered in [[New York City]].
+
+Founded in 1846 by five New York City daily newspapers to share the cost of transmitting news of the [[Mexican–American War]], the AP operates as a cooperative whose members are U.S. newspapers and broadcasters. Since the [[Pulitzer Prize]] was established in 1917, the AP has earned 60 of them, including 36 for photography. It distributes the AP Stylebook and election results and sponsors the [[National Football League]]'s annual awards.
+
+=== KEY: Association_football_812712
+HEADWORD: Association football = 축구
+LEVEL: 3
+GLOSSARY:
+  AFC = AFC
+  CAF = 아프리카 축구 연맹
+  CONCACAF = 북중미카리브 축구 연맹
+  CONMEBOL = 남미 축구 연맹
+  Champions League = 챔피언스리그
+  English public schools = 잉글랜드 퍼블릭 스쿨
+  FIFA = 국제 축구 연맹
+  FIFA World Cup = FIFA 월드컵
+  Football = 축구
+  Football Association = 잉글랜드 축구 협회
+  Game = 게임
+  Han dynasty = 한나라
+  International Football Association Board = 국제 축구 평의회
+  Laws of the Game = 경기 규칙
+  London = 런던
+  OFC = OFC
+  Oxford = 옥스퍼드
+  Rugby football = 럭비
+  UEFA = 유럽 축구 연맹
+  UEFA Champions League = UEFA 챔피언스리그
+  University = 대학
+  University of Oxford = 옥스퍼드 대학교
+  World = 세계
+  World Cup = 월드컵
+  Zhan Guo Ce = 『전국책』
+  cuju = 축국
+  extra time = 연장전
+  penalty area = 페널티 에어리어
+  penalty shoot-out = 승부차기
+  public schools = 퍼블릭 스쿨
+ENTRY:
+Team sport in which two sides of 11 players each try to score more goals than the opponent, using mainly their feet to move an inflated ball around a pitch. Commonly called football or soccer, it is played by an estimated 250 million players in over 200 countries and territories and is the world's most popular sport. Matches traditionally consist of two 45-minute halves, for a total of 90 minutes. Players may use any part of the body except the hands and arms; only goalkeepers may use them, and only within their own penalty area. Depending on the competition, a tied match may be a draw, with 1 point to each team, or go to extra time or a penalty shoot-out.
+
+The Laws of the Game, in effect since 1863, have been maintained by the International Football Association Board since 1886. The word "association" refers to the Football Association, founded in [[London]] in 1863, which published the first rules and coined the term to distinguish its game from other types, particularly [[Rugby football]]. "Soccer" derives from "-er" slang prevalent at the [[University of Oxford]] from about 1875.
+
+The Chinese game *cuju*, recorded in the *Zhan Guo Ce* from the [[Han dynasty]], is the earliest kicking game with historical evidence. The modern rules rest on mid-19th-century efforts to standardize the varied forms played in English public schools.
+
+Internationally the sport is governed by [[FIFA]], under which six continental confederations operate: AFC, CAF, CONCACAF, CONMEBOL, OFC, and UEFA. The men's [[FIFA World Cup]] is the most-viewed sporting event in the world, and the final of the men's [[UEFA Champions League]] is the most-watched annual one. FIFA has faced governance controversies, including past bribery scandals that led to leadership changes.
+
+=== KEY: Associative_property_6801f2
+HEADWORD: Associative property = 결합 법칙
+LEVEL: 4
+GLOSSARY:
+  Addition = 덧셈
+  Commutative property = 교환 법칙
+  Exponentiation = 거듭제곱
+  Function composition = 함수의 합성
+  Matrix multiplication = 행렬 곱셈
+  Property = 재산
+  Subtraction = 뺄셈
+  binary operations = 이항 연산
+  commutativity = 교환 법칙
+  cross product = 벡터곱
+  floating-point addition = 부동소수점 덧셈
+  operands = 피연산자
+  real numbers = 실수
+  rounding error = 반올림 오차
+  vector cross product = 벡터곱
+ENTRY:
+Property of certain binary operations, independent of how their operands are grouped.
+
+Within an expression containing two or more occurrences in a row of the same associative operator, the order of the operations does not matter, as long as the sequence of operands is unchanged. Addition and multiplication of real numbers are associative: (2 + 3) + 4 = 2 + (3 + 4) = 9, and 2 × (3 × 4) = (2 × 3) × 4 = 24. Associativity is not the same as [[Commutative property|commutativity]], which concerns whether the order of two operands matters. [[Function composition]] and [[Matrix multiplication]] are associative but generally not commutative. Many operations are non-associative, including [[Subtraction]], [[Exponentiation]] and the vector cross product. In computing, floating-point addition is not associative, and the way an expression is grouped can significantly affect rounding error.
+
+=== KEY: Assyria_27e593
+HEADWORD: Assyria = 아시리아
+LEVEL: 4
+GLOSSARY:
+  Architecture = 건축
+  Assur = 아수르
+  Assyria = 아시리아
+  Assyrian heartland = 아시리아 본토
+  Babylonia = 바빌로니아
+  Babylonians = 바빌로니아인
+  Christianity = 기독교
+  Church = 처치
+  Church of the East = 동방 교회
+  East Syriac rite = 동시리아 전례
+  Egypt = 이집트
+  Iran = 이란
+  Medes = 메디아인
+  Mesopotamia = 메소포타미아
+  Neo-Assyrian = 신아시리아
+  Neo-Assyrian Empire = 신아시리아 제국
+  Neo-Assyrian period = 신아시리아 시대
+  Scythians = 스키타이인
+  Syriac = 시리아어
+ENTRY:
+Major ancient civilization of [[Mesopotamia]], dating from the 21st to the 7th century BC.
+
+Assyria was centered in the Assyrian heartland of northern Mesopotamia, and its first capital, Assur, was founded c. 2600 BC. Assyria is called the first true military superpower in human history and pioneered advances in government, bureaucracy, warfare, propaganda and [[Architecture|architecture]]. In the Neo-Assyrian period (911–609 BC) its army was the strongest in the world, and its empire extended from parts of modern Iran to Egypt, the largest yet assembled. In the late 7th century BC the [[Neo-Assyrian Empire]] fell to a coalition of [[Babylonia|Babylonians]], [[Medes]] and [[Scythians]]. The Assyrian people were among the first to accept [[Christianity]], in the 1st century AD, and the Church of the East developed a distinct East Syriac rite.
+
+=== KEY: Astana_88468c
+HEADWORD: Astana = 아스타나
+LEVEL: 4
+GLOSSARY:
+  Akmola = 아크몰라
+  Akmolinsk = 아크몰린스크
+  Almaty = 알마티
+  Aqmoly = 아크몰리
+  Asia = 아시아
+  Astana = 아스타나
+  Capital city = 수도
+  Central Asia = 중앙아시아
+  Ishim River = 이심강
+  Kazakh = 카자흐어
+  Kazakhstan = 카자흐스탄
+  Kisho Kurokawa = 구로카와 기쇼
+  Nur-Sultan = 누르술탄
+  River = 강
+  Tselinograd = 첼리노그라드
+ENTRY:
+Capital city of [[Kazakhstan]], on the Ishim River in the north of the country.
+
+Astana is the second-largest city in Kazakhstan after [[Almaty]], which was the national capital until 1997. Founded as Aqmoly in 1830, the settlement was later renamed Akmolinsk, Tselinograd and Akmola. It was renamed Astana, meaning “capital” in Kazakh, in 1998. It was named Nur-Sultan from 2019 and reverted to Astana in 2022. Kisho Kurokawa guided the decision to turn Astana into a modern and planned city. It has become an important center for culture, education and commerce in Kazakhstan and [[Central Asia]].
+
+=== KEY: Astatine_aa4090
+HEADWORD: Astatine = 아스타틴
+LEVEL: 4
+GLOSSARY:
+  Alpha particle = 알파 입자
+  Ancient Greek = 고대 그리스어
+  Astatine = 아스타틴
+  Bismuth = 비스무트
+  California = 캘리포니아주
+  Earth's crust = 지각
+  Half-life = 반감기
+  Halogen = 할로젠
+  Iodine = 아이오딘
+  University = 대학
+  University of California, Berkeley = 캘리포니아 대학교 버클리
+  alpha particles = 알파 입자
+  astatine-210 = 아스타틴-210
+  astatine-211 = 아스타틴-211
+  bismuth-209 = 비스무트-209
+  chemical element = 화학 원소
+  isotopes = 동위 원소
+ENTRY:
+Radioactive chemical element with symbol At and atomic number 85, in the [[Halogen|halogen]] group.
+
+Astatine is the rarest naturally occurring element in the Earth's crust, appearing only as a decay product of heavier elements, and much less than one gram is present at any time. All of its isotopes are short-lived; the most stable, astatine-210, has a [[Half-life|half-life]] of 8.1 hours. It was first synthesized in 1940 at the [[University of California, Berkeley]], and its name comes from the Ancient Greek for “unstable.” Its bulk properties are not known with certainty, but most of its compounds resemble those of [[Iodine|iodine]], and it sometimes displays metallic characteristics. The medically useful astatine-211 is usually produced by bombarding [[Bismuth|bismuth-209]] with [[Alpha particle|alpha particles]].
+
+=== KEY: Asteraceae_c43d6a
+HEADWORD: Asteraceae = 국화과
+LEVEL: 4
+GLOSSARY:
+  Antarctica = 남극 대륙
+  Chrysanthemum = 국화
+  Cretaceous = 백악기
+  Dahlia = 달리아
+  Late Cretaceous = 후기 백악기
+  Lettuce = 상추
+  Orchidaceae = 난초과
+  Weed = 잡초
+  bracts = 포엽
+  capitulum = 두상화
+  florets = 낱꽃
+  flowering plants = 속씨식물
+ENTRY:
+Large family of flowering plants, also called the aster, daisy, composite or sunflower family.
+
+Most species are herbaceous, though the family includes shrubs, vines and trees, and it occurs on every continent except Antarctica. Its defining feature is the compound flower head, or capitulum, made of many tiny florets enclosed by bracts, which appears to be a single flower. The number of species is rivaled only by the orchid family, Orchidaceae. The oldest known fossils are pollen grains from the Late Cretaceous of Antarctica, dated to c. 76–66 million years ago. The family is economically important, providing food crops such as [[Lettuce]] and sunflowers, garden plants such as [[Dahlia]] and [[Chrysanthemum]], and herbal medicines. Some species become [[Weed|weedy]] or invasive outside their native ranges.
+
+=== KEY: Asterix_04f124
+HEADWORD: Asterix = 아스테릭스
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Uderzo = 알베르 위데르조
+  Didier Conrad = 디디에 콩라드
+  Druid = 드루이드
+  Franco-Belgian comic = 프랑스·벨기에 만화
+  French = 프랑스어
+  Gaul = 갈리아
+  Gaulish = 갈리아어
+  Jean-Yves Ferri = 장이브 페리
+  Obelix = 오벨릭스
+  Pilote = 『필로트』
+  René Goscinny = 르네 고시니
+  Rome = 로마
+ENTRY:
+French comic album series about a Gaulish village resisting Roman occupation.
+
+The series is set in [[Gaul]] in 50 BC, when the village's [[Druid|druid]] brews a magic potion that gives superhuman strength. The title character Asterix and his friend Obelix travel to Rome and beyond in many adventures. The series first appeared in the Franco-Belgian comic magazine *Pilote* on October 29, 1959. It was written by René Goscinny and illustrated by Albert Uderzo until Goscinny's death in 1977. Since 2013, Jean-Yves Ferri and Didier Conrad have continued it. As of 2025, 41 volumes had been released, and the volumes have sold 393 million copies, making the series the best-selling European comic book series.
+
+=== KEY: Asteroid_7bf3c0
+HEADWORD: Asteroid = 소행성
+LEVEL: 3
+GLOSSARY:
+  Asteroid = 소행성
+  Asteroid belt = 소행성대
+  Bennu = 베누
+  C-type = C형
+  Ceres (dwarf planet) = 세레스
+  Chicxulub = 칙술루브
+  Chicxulub impact = 칙술루브 충돌
+  Comet = 혜성
+  Cretaceous = 백악기
+  Dawn = 돈
+  Dimorphos = 디모르포스
+  Double Asteroid Redirection Test = 쌍소행성 궤도 수정 실험
+  Earth = 지구
+  Eros = 에로스
+  Galileo = 갈릴레오
+  Galileo spacecraft = 갈릴레오호
+  Hayabusa = 하야부사
+  Hayabusa2 = 하야부사2
+  Itokawa = 이토카와
+  Jupiter = 목성
+  M-type = M형
+  Mars = 화성
+  Meteoroid = 유성체
+  Moon = 달
+  NEAR Shoemaker = 니어 슈메이커
+  Near-Earth asteroids = 근지구 소행성
+  OSIRIS-REx = 오시리스렉스
+  Paleogene = 팔레오기
+  Ryugu = 류구
+  S-type = S형
+  Solar System = 태양계
+  Sun = 태양
+  Test = 테스트 매치
+  Trojan = 트로이아인
+  Trojan asteroids = 트로이군 소행성
+  Vesta = 베스타
+  William = 윌리엄
+  William Herschel = 윌리엄 허셜
+  asteroid belt = 소행성대
+  astronomical units = 천문단위
+  coma = 코마
+  dwarf planet = 왜행성
+  minor planet = 소천체
+  planetary defense = 행성 방위
+  rubble piles = 잔해 더미 천체
+ENTRY:
+Rocky, metallic, or icy minor planet that orbits within the inner Solar System or is co-orbital with a planet, as the Trojan asteroids are. Asteroids are larger than a [[Meteoroid|meteoroid]] (1 meter or larger) and are neither planets nor identified [[Comet|comets]]; a body that shows a coma when warmed by solar radiation is classed as a comet. They have no atmosphere and are broadly classified as C-type (carbonaceous), M-type (metallic), or S-type (silicaceous). Sizes range from rubble piles under a kilometer across to [[Ceres (dwarf planet)|Ceres]], a dwarf planet almost 1000 km in diameter.
+
+Of the roughly one million known asteroids, the greatest number lie between the orbits of Mars and Jupiter, approximately 2 to 4 astronomical units from the Sun, in the main [[Asteroid belt|asteroid belt]]. Their combined mass is only 3% that of Earth's Moon. Most main-belt asteroids follow slightly elliptical, stable orbits and take three to six years to circle the Sun.
+
+Ceres, discovered in 1801, was first considered a new planet. [[William Herschel]] proposed the term asteroid, from Greek words meaning "star-like."
+
+The Galileo spacecraft made the first close-up observation of an asteroid. Later missions include NEAR Shoemaker at Eros, Dawn at Vesta and Ceres, and the Japanese Hayabusa and Hayabusa2, which returned samples of Itokawa and Ryugu. OSIRIS-REx collected a sample from Bennu in 2020 and delivered it to Earth in 2023. In September 2022 the Double Asteroid Redirection Test was deliberately crashed into the asteroid Dimorphos to test planetary defense technology. Near-Earth asteroids could cause catastrophe if they struck Earth, as the Chicxulub impact is widely thought to have done in causing the Cretaceous–Paleogene mass extinction.
+
+=== KEY: Asteroid_belt_2edd32
+HEADWORD: Asteroid belt = 소행성대
+LEVEL: 4
+GLOSSARY:
+  C-type = C형
+  Ceres (dwarf planet) = 세레스
+  Hygiea = 히기에이아
+  Jupiter = 목성
+  Mars = 화성
+  Moon = 달
+  Pallas = 팔라스
+  S-type = S형
+  Solar System = 태양계
+  Vesta = 베스타
+  X-type = X형
+  accretion = 강착
+  circumstellar disc = 항성 주위 원반
+  dwarf planet = 왜행성
+  gravitational perturbations = 중력 섭동
+  planetesimals = 미행성
+ENTRY:
+Torus-shaped region of the Solar System between the orbits of [[Mars]] and [[Jupiter]], containing many solid, irregular bodies called asteroids.
+
+The belt is the innermost and smallest circumstellar disc in the Solar System, with a total mass estimated at 3% that of the Moon. [[Ceres (dwarf planet)|Ceres]], about 950 km in diameter, is the only object in the belt large enough to be classified as a dwarf planet. Vesta, Pallas and Hygiea have mean diameters less than 600 km. Asteroids are grouped by spectra into carbonaceous (C-type), silicate (S-type) and X-type, the last including metal-rich asteroids. The belt formed from planetesimals, but gravitational perturbations from Mars and Jupiter disrupted their accretion into a planet, and 99.9% of the belt's original mass was lost in the first 100 million years of the Solar System's history.
+
+=== KEY: Asthma_c3b615
+HEADWORD: Asthma = 천식
+LEVEL: 4
+GLOSSARY:
+  Air pollution = 대기 오염
+  Aspirin = 아스피린
+  Asthma = 천식
+  allergens = 알레르겐
+  beta blockers = 베타 차단제
+  inhaled corticosteroids = 흡입 코르티코스테로이드
+  salbutamol = 살부타몰
+  short-acting beta2 agonist = 속효성 베타2 작용제
+  wheezing = 쌕쌕거림
+ENTRY:
+Common long-term inflammatory disease of the airways of the lungs, characterized by recurring symptoms and reduced lung function.
+
+Symptoms include wheezing, coughing, chest tightness and shortness of breath, and they are often worse at night or with exercise. Asthma is thought to be caused by a combination of genetic and environmental factors, including [[Air pollution|air pollution]] and allergens. Other potential triggers include medications such as [[Aspirin]] and beta blockers. There is no known cure, but symptoms can be controlled with inhaled corticosteroids, and rapidly worsening symptoms are treated with an inhaled short-acting beta2 agonist such as salbutamol. In 2023, asthma affected an estimated 363 million people worldwide and caused 442,000 deaths, most of them in low- and lower-middle-income countries. It often begins in childhood.
+
+=== KEY: Astigmatism_a137d0
+HEADWORD: Astigmatism = 난시
+LEVEL: 5
+GLOSSARY:
+  Asia = 아시아
+  Astigmatism = 난시
+  Europe = 유럽
+  Glasses = 안경
+  Thomas = 토머스
+  Thomas Young = 토머스 영
+  Thomas Young (scientist) = 토머스 영
+  amblyopia = 약시
+  contact lenses = 콘택트렌즈
+  cornea = 각막
+  optical powers = 굴절력
+  rotational symmetry = 회전 대칭
+ENTRY:
+Vision problem in which the lens or cornea of the eye is slightly egg-shaped rather than spherical.
+
+The lack of rotational symmetry causes distorted or blurred vision at any distance and requires lenses with different optical powers at different rotational angles. Treatment options are [[Glasses|eyeglasses]], contact lenses and surgery. Astigmatism is partly genetic in origin. If it occurs in early life and is left untreated, it may result in amblyopia. In Europe and Asia it affects between 30% and 60% of adults. It was first reported by [[Thomas Young (scientist)|Thomas Young]] in 1801.
+
+=== KEY: Astor_Piazzolla_68a81b
+HEADWORD: Piazzolla, Astor = 피아솔라, 아스토르
+LEVEL: 4
+GLOSSARY:
+  Alberto Ginastera = 알베르토 히나스테라
+  Buenos Aires = 부에노스아이레스
+  City = 도시
+  Classical music = 클래식 음악
+  Jazz = 재즈
+  Libertango = 「리베르탱고」
+  Mar del Plata = 마르델플라타
+  María de Buenos Aires = 「부에노스아이레스의 마리아」
+  Nadia Boulanger = 나디아 불랑제
+  New York City = 뉴욕
+  Paris = 파리
+  Quinteto Nuevo Tango = 킨테토 누에보 탱고
+  Stephen Holden = 스티븐 홀든
+  Tango = 탱고
+  York = 요크
+  bandoneon = 반도네온
+  nuevo tango = 누에보 탱고
+  tango = 탱고
+ENTRY:
+Argentine tango composer, bandoneon player and arranger.
+
+Born in Mar del Plata to parents of Italian descent, he spent much of his youth in New York City, where he took up the bandoneon. At 17 he moved to [[Buenos Aires]], where he joined Aníbal Troilo's orchestra and studied with Alberto Ginastera. His works revolutionized traditional tango into a style called *nuevo tango*, which incorporated elements of [[Jazz|jazz]] and [[Classical music|classical music]]. He studied composition in Paris with [[Nadia Boulanger]]. His Quinteto Nuevo Tango, formed in 1960, used unconventional instrumentation. Argentine traditionalists derided his work, but it won acclaim abroad. He wrote more than 750 works, including the multimedia opera *María de Buenos Aires* and the piece “Libertango.” American critic Stephen Holden called him “the world’s foremost composer of Tango music.”
+
+=== KEY: Astral_projection_00f6cb
+HEADWORD: Astral projection = 유체 이탈
+LEVEL: 5
+GLOSSARY:
+  Pseudoscience = 유사 과학
+  Theosophists = 신지학자
+  astral body = 아스트랄체
+  esotericism = 비교주의
+  out-of-body experience = 유체 이탈 경험
+ENTRY:
+Intentional out-of-body experience in esotericism, involving a subtle astral body.
+
+The idea is ancient and occurs in multiple cultures, but the term “astral projection” was coined and promoted by 19th-century Theosophists. It is sometimes associated with dreams and forms of meditation, and some people have reported similar perceptions induced by hallucinogenic or hypnotic means. There is no scientific evidence that consciousness can function separately from normal neural activity or that one can consciously leave the body and observe the physical universe. Astral projection has therefore been characterized as [[Pseudoscience|pseudoscience]].
+
+=== KEY: Astrid_Lindgren_390afd
+HEADWORD: Lindgren, Astrid = 린드그렌, 아스트리드
+LEVEL: 4
+GLOSSARY:
+  Bonniers = 보니에르
+  Children's literature = 아동 문학
+  Emil of Lönneberga = 『에밀은 사고뭉치』
+  Karlsson-on-the-Roof = 『지붕 위의 카알손』
+  Lex Lindgren = 린드그렌법
+  Pippi Longstocking = 『삐삐 롱스타킹』
+  Right Livelihood Award = 바른생활상
+  Ronia the Robber's Daughter = 『산적의 딸 로냐』
+  Stockholm = 스톡홀름
+  Swedish = 스웨덴어
+  animal welfare = 동물 복지
+ENTRY:
+Swedish writer of children's fiction and screenplays.
+
+She is best known for children's book series including *Pippi Longstocking*, *Emil of Lönneberga* and *Karlsson-on-the-Roof*, and for fantasy novels such as *Mio, My Son* and *Ronia the Robber's Daughter*. She worked on the [[Children's literature|children's literature]] editorial board of the Rabén & Sjögren publishing house in Stockholm and wrote more than 30 books for children. *Pippi Longstocking* won first prize in a Rabén & Sjögren competition in 1945, after Bonniers had rejected it, and has been translated into at least 100 languages. By 2010 she had sold roughly 167 million books worldwide. In 1994 she received the Right Livelihood Award for her “unique authorship dedicated to the rights of children.” Her campaigning for animal welfare led to a new law, Lex Lindgren, in time for her 80th birthday.
+
+=== KEY: Astrolabe_8b4969
+HEADWORD: Astrolabe = 아스트롤라베
+LEVEL: 5
+GLOSSARY:
+  Age of Discovery = 대항해 시대
+  Byzantine = 비잔티움
+  Byzantine Empire = 비잔티움 제국
+  Classical antiquity = 고전 고대
+  European Middle Ages = 유럽 중세
+  Horizon = 지평선
+  Islamic Golden Age = 이슬람 황금기
+  Middle Ages = 중세
+  Sextant = 육분의
+  classical antiquity = 고전 고대
+  star chart = 성도
+ENTRY:
+Ancient astronomical instrument, a star chart and physical model of the visible half-dome of the sky. In its simplest form it is a metal disc with wires, cutouts and perforations that allow astronomical positions to be calculated. It measures the altitude of a celestial body above the [[Horizon]], identifies stars or planets, and determines latitude from local time. It was used in [[Classical antiquity|classical antiquity]], the [[Byzantine Empire]], the [[Islamic Golden Age]], the [[Middle Ages|European Middle Ages]] and the [[Age of Discovery]]. The astrolabe was a precursor to the [[Sextant|sextant]].
+
+=== KEY: Astrological_sign_f15c27
+HEADWORD: Astrological sign = 별자리
+LEVEL: 5
+GLOSSARY:
+  Aquarius = 물병자리
+  Aries = 양자리
+  Cancer = 암
+  Capricorn = 염소자리
+  Constellation = 별자리
+  Ecliptic = 황도
+  Equinox = 분점
+  First Point of Aries = 양자리 제1점
+  Gemini = 쌍둥이자리
+  Leo = 사자자리
+  Libra = 천칭자리
+  Pisces = 물고기자리
+  Sagittarius = 궁수자리
+  Scorpio = 전갈자리
+  Sun = 태양
+  Taurus = 황소자리
+  Virgo = 처녀자리
+  Western astrology = 서양 점성술
+  Zodiac = 황도 12궁
+  axial precession = 세차 운동
+  precession = 세차 운동
+  vernal equinox = 춘분점
+ENTRY:
+One of twelve 30° divisions of the [[Zodiac|zodiac]] used in Western astrology. The signs are enumerated from the vernal [[Equinox|equinox]], the First Point of Aries, and include Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces. Each sign was named after a [[Constellation|constellation]] through which the [[Sun]] annually moved, but axial precession has shifted the divisions out of alignment with those constellations. Scientific astronomy used the same sectors of the [[Ecliptic|ecliptic]] until the 19th century.
+
+=== KEY: Astrology_417066
+HEADWORD: Astrology = 점성술
+LEVEL: 4
+GLOSSARY:
+  Alchemy = 연금술
+  Ancient Greece = 고대 그리스
+  Astronomy = 천문학
+  Enlightenment = 계몽주의
+  Europe = 유럽
+  Forms = 이데아
+  Greece = 그리스
+  Islamic world = 이슬람 세계
+  Mesopotamia = 메소포타미아
+  Pseudoscience = 유사 과학
+  Rome = 로마
+  Western astrology = 서양 점성술
+  divinatory practices = 점술
+  horoscopes = 천궁도
+ENTRY:
+Range of divinatory practices based on the apparent positions of celestial objects, recognized as [[Pseudoscience|pseudoscientific]] since the 18th century. Forms of astrology have been practiced since at least the 2nd millennium BCE, originating in calendrical systems used to predict seasonal change. Western astrology traces its roots to Mesopotamia and spread to [[Ancient Greece]], Rome, the Islamic world and Europe. Contemporary Western astrology is often associated with horoscopes that purport to explain personality and predict events in a person's life. Before the Enlightenment it was a scholarly tradition, closely related to [[Astronomy|astronomy]], meteorology, medicine and [[Alchemy|alchemy]]. Since the late 19th century, researchers have found astrology to have no scientific validity or explanatory power.
+
+=== KEY: Astrometry_4376ed
+HEADWORD: Astrometry = 위치 천문학
+LEVEL: 4
+GLOSSARY:
+  61 Cygni = 백조자리 61
+  Astronomy = 천문학
+  Binary star = 쌍성
+  Branch = 브랜치
+  Charge-coupled device = 전하 결합 소자
+  European Space Agency = 유럽 우주국
+  Friedrich Bessel = 프리드리히 베셀
+  Hipparchus = 히파르코스
+  Hipparcos = 히파르코스 위성
+  Milky Way = 우리은하
+  Parallax = 시차
+  Solar System = 태양계
+  Space = 공간
+  Tycho Brahe = 튀코 브라헤
+  arcsec = 각초
+  astrometry = 위치 천문학
+  milliarcsecond = 밀리각초
+  photographic plates = 사진 건판
+  precession = 세차 운동
+  star catalogs = 항성 목록
+  stellar parallax = 연주 시차
+ENTRY:
+Branch of [[Astronomy|astronomy]] concerned with the precise measurement of the positions and movements of stars and other celestial bodies. It provides the kinematics and physical origin of the Solar System and the Milky Way. Its history is tied to star catalogs. Around 190 BC [[Hipparchus]] used the catalog of his predecessors to discover Earth's precession, and he developed the brightness scale still in use. In the 16th century [[Tycho Brahe]] measured star positions with a precision of 15–35 arcsec. Friedrich Bessel, the father of modern astrometry, made the first measurement of stellar [[Parallax|parallax]], for the [[Binary star|binary star]] 61 Cygni. In the 1980s [[Charge-coupled device|charge-coupled devices]] replaced photographic plates and reduced optical uncertainties to one milliarcsecond. The [[European Space Agency]]'s Hipparcos satellite, operated from 1989 to 1993, took astrometry into orbit.
+
+=== KEY: Astronaut_466362
+HEADWORD: Astronaut = 우주 비행사
+LEVEL: 4
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Aviation = 항공
+  Federal Aviation Administration = 미국 연방 항공청
+  International Space Station = 국제 우주 정거장
+  NASA = 미국 항공 우주국
+  Space = 공간
+  SpaceShipOne = 스페이스십원
+  Spacecraft = 우주선
+  United States = 미국
+  commercial astronaut = 상업 우주 비행사
+  human spaceflight = 유인 우주 비행
+  suborbital flight = 준궤도 비행
+ENTRY:
+Person trained, equipped and deployed by a human spaceflight program to serve as a commander or crew member of a [[Spacecraft|spacecraft]]. The word, from [[Ancient Greek|Greek]] roots meaning “star” and “sailor,” is generally reserved for professional space travelers, though it is sometimes applied to anyone who has flown into space. In the United States it is a designated term used by [[NASA]], the Federal Aviation Administration and the military, each with slightly different criteria. As of April 2026, 781 humans had flown in space, and over 290 individuals had visited the [[International Space Station]]. The suborbital flight of the privately funded SpaceShipOne in 2004 created the category of commercial astronaut.
+
+=== KEY: Astronomical_coordinate_systems_3eec84
+HEADWORD: Astronomical coordinate systems = 천구 좌표계
+LEVEL: 4
+GLOSSARY:
+  Astrological sign = 별자리
+  Celestial sphere = 천구
+  Earth = 지구
+  Earth's orbit = 지구 궤도
+  Ecliptic = 황도
+  Equatorial coordinate system = 적도 좌표계
+  Geographic coordinate system = 지리 좌표계
+  Horizon = 지평선
+  March equinox = 춘분점
+  altitude-azimuth = 고도-방위각
+  astrological signs = 황도 12궁의 별자리
+  celestial poles = 천구의 극
+  celestial sphere = 천구
+  equatorial coordinates = 적도 좌표계
+  fundamental plane = 기준면
+ENTRY:
+System of reference frames for specifying the positions of celestial objects on the [[Celestial sphere|celestial sphere]]. Spherical coordinates are analogous to the [[Geographic coordinate system|geographic coordinate system]] used on Earth, and the systems differ in their choice of fundamental plane. The horizontal, or altitude-azimuth, system is based on an observer's position and the [[Horizon]], so an object's position changes with time. The [[Equatorial coordinate system|equatorial system]] is fixed relative to the celestial poles and the March equinox and is the normal system for most professional astronomers. The [[Ecliptic]] system uses the plane of Earth's orbit and was used to define the twelve [[Astrological sign|astrological signs]] of the zodiac. Modern star maps almost exclusively use equatorial coordinates.
+
+=== KEY: Astronomical_object_c6cf7a
+HEADWORD: Astronomical object = 천체
+LEVEL: 4
+GLOSSARY:
+  Asteroid = 소행성
+  Comet = 혜성
+  Copernicus = 코페르니쿠스
+  Galilean moons = 갈릴레이 위성
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Jupiter = 목성
+  Nebula = 성운
+  Nicolaus Copernicus = 니콜라우스 코페르니쿠스
+  Planetary system = 행성계
+  Solar System = 태양계
+  Star = 항성
+  Star cluster = 성단
+  Sun = 태양
+  coma = 코마
+  heliocentric model = 태양 중심설
+ENTRY:
+Naturally occurring physical entity, association or structure that exists within the universe. In astronomy the terms object and body are often used interchangeably, but a body is a single, tightly bound physical object, such as an [[Asteroid]], moon, planet or star, whereas an object may be a looser structure, such as a [[Planetary system]], [[Star cluster]] or [[Nebula]]. A [[Comet]] is both: its frozen nucleus is a body, and the whole comet, with its diffuse coma and tail, is an object. Early cultures regarded these bodies as deities. In 1543 [[Nicolaus Copernicus]] published a heliocentric model placing the Sun at the center of the [[Solar System]]. In 1610 [[Galileo Galilei|Galileo]] observed the four largest moons of Jupiter, now named the Galilean moons.
+
+=== KEY: Astronomical_unit_6d8530
+HEADWORD: Astronomical unit = 천문단위
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Earth's orbit = 지구 궤도
+  Gaussian gravitational constant = 가우스 중력 상수
+  International Astronomical Union = 국제 천문 연맹
+  Parsec = 파섹
+  Solar System = 태양계
+  Sun = 태양
+  Union = 북군
+  gravitational constant = 중력 상수
+  light-seconds = 광초
+  semi-major axis = 긴반지름
+ENTRY:
+Unit of length defined as 149,597,870,700 m, used primarily for distances within the [[Solar System]] or around other stars. Historically it was conceived as the average distance between [[Earth]] and the [[Sun]], before its modern redefinition in 2012. Its value is based on the semi-major axis of Earth's orbit. One au is approximately equivalent to 499 light-seconds, and it is a fundamental component of the [[Parsec|parsec]]. In 1976 the International Astronomical Union (IAU) defined the unit through the Gaussian gravitational constant. In 2012 the IAU fixed it as a conventional value matching the meter and recommended the symbol au.
+
+=== KEY: Astronomy_e9c744
+HEADWORD: Astronomy = 천문학
+LEVEL: 2
+GLOSSARY:
+  Abd al-Rahman al-Sufi = 압드 알라흐만 알수피
+  Ali ibn Ridwan = 알리 이븐 리드완
+  Almagest = 『알마게스트』
+  Andromeda = 안드로메다
+  Andromeda Galaxy = 안드로메다은하
+  Antikythera = 안티키테라섬
+  Antikythera mechanism = 안티키테라 기계
+  Arabic = 아랍어
+  Aristarchus of Samos = 사모스의 아리스타르코스
+  Astrology = 점성술
+  Astronomy = 천문학
+  Astrophysics = 천체 물리학
+  Babylonians = 바빌로니아인
+  Brahmagupta = 브라마굽타
+  Copernicus = 코페르니쿠스
+  Cosmology = 우주론
+  Earth's rotation = 지구의 자전
+  Egypt = 이집트
+  Europe = 유럽
+  Galaxy = 은하
+  Hipparchus = 히파르코스
+  Hubble = 허블
+  Hubble Space Telescope = 허블 우주 망원경
+  Islamic world = 이슬람 세계
+  Jean Buridan = 장 뷔리당
+  Kepler's laws = 케플러 법칙
+  Kepler's laws of planetary motion = 케플러의 행성 운동 법칙
+  Kerala = 케랄라주
+  Kerala school = 케랄라 학파
+  Moon = 달
+  Nabta Playa = 나브타 플라야
+  Natural science = 자연과학
+  Nebra sky disc = 네브라 하늘 원반
+  Newton's law of universal gravitation = 뉴턴의 만유인력 법칙
+  Nicolaus Copernicus = 니콜라우스 코페르니쿠스
+  Nicole Oresme = 니콜 오렘
+  Observational astronomy = 관측 천문학
+  Ptolemy = 프톨레마이오스
+  Richard = 리처드
+  Richard of Wallingford = 월링퍼드의 리처드
+  SN 1006 = SN 1006
+  Samos = 사모스섬
+  Space = 공간
+  Stonehenge = 스톤헨지
+  Sun = 태양
+  Telescope = 망원경
+  Upper Egypt = 상이집트
+  Varāhamihira = 바라하미히라
+  Wallingford = 월링퍼드
+  analog computer = 아날로그 컴퓨터
+  astrometry = 위치 천문학
+  astron = 아스트론
+  astronomical clock = 천문 시계
+  background radiation = 배경 복사
+  blazars = 블레이자
+  cosmic microwave background = 우주 마이크로파 배경
+  cosmic microwave background radiation = 우주 마이크로파 배경 복사
+  gamma ray bursts = 감마선 폭발
+  geocentric system = 천동설
+  heliocentric model = 태양 중심설
+  impetus = 임페투스
+  law of universal gravitation = 만유인력의 법칙
+  laws of planetary motion = 행성 운동 법칙
+  megalithic structures = 거석 구조물
+  microwave background = 우주 마이크로파 배경
+  nomos = 노모스
+  precession = 세차 운동
+  pulsars = 펄서
+  quasars = 퀘이사
+  saros cycle = 사로스 주기
+  supernova = 초신성
+  synodic months = 삭망월
+  theoretical astronomy = 이론 천문학
+  universal gravitation = 만유인력
+  Āryabhaṭa = 아리아바타
+ENTRY:
+Natural science that studies celestial objects and the phenomena occurring in the cosmos. It uses mathematics, physics, and chemistry to explain the origin and evolution of planets, moons, stars, nebulae, galaxies, meteoroids, asteroids, and comets, and of phenomena such as supernova explosions, gamma ray bursts, quasars, blazars, pulsars, and cosmic microwave background radiation. More generally, it studies everything that originates beyond Earth's atmosphere. [[Cosmology]] is the branch that studies the universe as a whole. Observational astronomy collects data with telescopes, theoretical astronomy builds mathematical models, and astrometry measures the positions and motions of celestial bodies. Modern usage treats astronomy and [[Astrophysics|astrophysics]] as broadly synonymous. The word comes from the Greek *astron*, "star," and *nomos*, "law" or "rule." Unlike [[Astrology|astrology]], the belief that human affairs correlate with the positions of celestial objects, astronomy is supported by physics; the two fields share a common origin. Amateurs still play an active role, especially in discovering and observing transient events such as new comets.
+
+Astronomy is among the oldest natural sciences. Early development was driven by practical needs such as agricultural calendars. Sites such as [[Stonehenge]] and the Nebra sky disc, and the megalithic structures at Nabta Playa in Upper Egypt, show ancient interest in the sky. The Babylonians began mathematical astronomy and found that lunar eclipses recur in the saros cycle of 223 synodic months. Greek astronomers sought rational explanations: Aristarchus of Samos proposed a heliocentric model in the 3rd century BC, and in the 2nd century BC [[Hipparchus]] cataloged 1020 stars and observed the drift now attributed to precession. The [[Antikythera mechanism]] (c. 150–80 BC) was an early analog computer for predicting the positions of the Sun, Moon, and planets. [[Ptolemy]]'s 13-volume work, known in Arabic translation as the *Almagest*, made the geocentric system the primary reference for over a thousand years.
+
+Indian astronomers including Āryabhaṭa, Varāhamihira, and Brahmagupta integrated Greek models, and the Kerala school later refined planetary and eclipse calculations. Observatories were established in the Islamic world by the early 9th century. In 964 Abd al-Rahman al-Sufi described the Andromeda Galaxy, and the SN 1006 supernova was observed in 1006 by Ali ibn Ridwan and Chinese astronomers. In medieval Europe, Richard of Wallingford built an astronomical clock, Nicole Oresme discussed evidence for the Earth's rotation, and Jean Buridan developed the theory of impetus. [[Nicolaus Copernicus]] placed the Sun at the center in 1543, followed by Kepler's laws of planetary motion and Newton's law of universal gravitation. Space telescopes such as the Hubble Space Telescope now observe wavelengths blocked by the atmosphere.
+
+=== KEY: Astrophysics_178c78
+HEADWORD: Astrophysics = 천체 물리학
+LEVEL: 4
+GLOSSARY:
+  Black hole = 블랙홀
+  Branch = 브랜치
+  Cosmic microwave background = 우주 마이크로파 배경
+  Dark energy = 암흑 에너지
+  Dark matter = 암흑 물질
+  Earth = 지구
+  Electromagnetic spectrum = 전자기 스펙트럼
+  Galaxy = 은하
+  Gustav Kirchhoff = 구스타프 키르히호프
+  Research = 연구
+  Robert Bunsen = 로베르트 분젠
+  Sun = 태양
+  cosmic microwave background = 우주 마이크로파 배경
+  electromagnetic spectrum = 전자기 스펙트럼
+  extrasolar planets = 외계 행성
+  interstellar medium = 성간 매질
+  luminosity = 광도
+  microwave background = 우주 마이크로파 배경
+  solar spectrum = 태양 스펙트럼
+  spectroscopy = 분광학
+ENTRY:
+Branch of astronomy applying the methods and principles of physics and chemistry to the study of celestial objects and phenomena. Subjects include the Sun, other stars, [[Galaxy|galaxies]], extrasolar planets, the interstellar medium and the [[Cosmic microwave background|cosmic microwave background]]. Emissions are examined across the [[Electromagnetic spectrum|electromagnetic spectrum]], and the properties studied include luminosity, density, temperature and chemical composition. Research covers [[Dark matter]], [[Dark energy]], [[Black hole|black holes]], and the origin and ultimate fate of the universe. The field developed from spectroscopy: by 1860 [[Gustav Kirchhoff]] and the chemist Robert Bunsen showed that dark lines in the solar spectrum matched bright lines of known gases, proving that the elements in the Sun and stars were also found on Earth.
+
+=== KEY: Asturias_8d0bf5
+HEADWORD: Asturias = 아스투리아스
+LEVEL: 5
+GLOSSARY:
+  Astures = 아스투레스족
+  Augustus = 아우구스투스
+  Autonomous community = 자치 지방
+  Cheese = 치즈
+  Cider = 사과주
+  Gijón = 히혼
+  Kingdom of Asturias = 아스투리아스 왕국
+  Oviedo = 오비에도
+  Romans = 로마인
+  Spain = 스페인
+ENTRY:
+Autonomous community in northwestern [[Spain]], coextensive with the province of Asturias. It contains part of the territory of the medieval Kingdom of Asturias and has a population of about 1 million. The capital is Oviedo, and Gijón is the largest city and main seaport. The region has a maritime climate, with abundant rain and mild winters. The Romans under [[Augustus]] took the region in 29–19 BC, but the Astures were never fully conquered. [[Cider]] and [[Cheese|cheese]] remain important to regional identity.
+
+=== KEY: Asunci_n_b2d1e9
+HEADWORD: Asunción = 아순시온
+LEVEL: 4
+GLOSSARY:
+  Buenos Aires = 부에노스아이레스
+  City = 도시
+  Court = 법원
+  Executive (government) = 행정부
+  Mercosur = 메르코수르
+  Metropolitan area = 대도시권
+  Mother of Cities = 도시들의 어머니
+  Pan American Games = 팬아메리칸 게임
+  Paraguay = 파라과이
+  Paraguay River = 파라과이강
+  Permanent Review Court of Mercosur = 메르코수르 상설 재심 법원
+  River = 강
+  South America = 남아메리카
+ENTRY:
+City (pop., 2022: 462,241), capital and largest city of [[Paraguay]], on the eastern bank of the Paraguay River. It is one of the oldest cities in South America and is known as the “Mother of Cities” because Spanish expeditions from it founded other cities, including the second foundation of [[Buenos Aires]]. Its [[Metropolitan area|metropolitan area]] exceeds 2.3 million inhabitants and concentrates 70% of national GDP. The city houses the national government's three branches, including the [[Executive (government)|executive]], and is the headquarters of the Permanent Review Court of Mercosur. It will host the 2031 Pan American Games.
+
+=== KEY: Aswan_19aec9
+HEADWORD: Aswan = 아스완
+LEVEL: 4
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Aswan = 아스완
+  Aswan Dam = 아스완 댐
+  Aswan Governorate = 아스완주
+  Aswan High Dam = 아스완 하이 댐
+  City = 도시
+  Egypt = 이집트
+  First Cataract = 제1폭포
+  Granite = 화강암
+  Lower Nubia = 하누비아
+  Middle Kingdom = 중왕국
+  Monuments = 모뉴먼트
+  Museum = 박물관
+  Nile = 나일강
+  Nubia = 누비아
+  Nubian = 누비아
+  Nubian Monuments = 누비아 유적
+  Nubian Museum = 누비아 박물관
+  Old and Middle Kingdom = 고왕국과 중왕국
+  Qubbet el-Hawa = 쿠베트 엘하와
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  Upper Egypt = 상이집트
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+City in Upper [[Egypt]], capital of Aswan Governorate, on the east bank of the [[Nile]] at the First Cataract. It is among the oldest continuously inhabited cities, with a recorded history of more than 2,600 years. In antiquity it was the southern frontier of [[Ancient Egypt]], and its [[Granite|granite]] quarries supplied monuments throughout Egypt; the quarries still operate. Five monuments within the UNESCO [[World Heritage Site]] of the Nubian Monuments are in the city, including the Old and Middle Kingdom tombs of Qubbet el-Hawa. The Nubian Museum holds finds from the campaign to save monuments of [[Nubia|Lower Nubia]] before the [[Aswan High Dam|Aswan Dam]] flooded the area. Aswan is considered a global tourist winter destination.
+
+=== KEY: Aswan_High_Dam_cf1fe8
+HEADWORD: Aswan High Dam = 아스완 하이 댐
+LEVEL: 4
+GLOSSARY:
+  Aswan = 아스완
+  Cotton = 목화
+  Egypt = 이집트
+  Embankment dam = 필 댐
+  Famine = 기근
+  Flood = 홍수
+  Free Officers = 자유 장교단
+  Free Officers Movement = 자유 장교단
+  Gamal Abdel Nasser = 가말 압델 나세르
+  Hydroelectricity = 수력 발전
+  Irrigation = 관개
+  Lake = 호수
+  Lake Nasser = 나세르호
+  Low Dam = 아스완 로 댐
+  Nile = 나일강
+  Soviet Union = 소련
+  Union = 북군
+  earthen dam = 흙댐
+ENTRY:
+Embankment dam across the Nile at [[Aswan]], Egypt, one of the world's largest. Built between 1960 and 1970 with help from the [[Soviet Union]], it was designed to control [[Flood|floods]], increase water storage for [[Irrigation|irrigation]] and generate [[Hydroelectricity|hydroelectricity]]. It was seen as pivotal to Egypt's industrialization and, when completed, was the tallest earthen dam in the world. It created Lake Nasser. The earlier Low Dam, completed in 1902, had too small a capacity to stop floods and droughts, which could destroy crops or cause [[Famine|famine]]. The High Dam allowed floods to be controlled and water to be stored for release over several years, protecting the [[Cotton|cotton]] crop. Planning followed the overthrow of the monarchy by the Free Officers Movement, including [[Gamal Abdel Nasser]].
+
+=== KEY: Atacama_Desert_327393
+HEADWORD: Atacama Desert = 아타카마 사막
+LEVEL: 4
+GLOSSARY:
+  Andes = 안데스산맥
+  Average = 평균
+  Chile = 칠레
+  Chilean Coast Range = 칠레 해안 산맥
+  Coast = 해안
+  Copper = 구리
+  Desert = 사막
+  Fog = 안개
+  Humboldt Current = 훔볼트 해류
+  Mars = 화성
+  Observatory = 천문대
+  Pacific = 태평양
+  Plateau = 고원
+  South America = 남아메리카
+  anticyclone = 고기압
+  fog desert = 안개 사막
+  rain shadow = 비그늘
+  temperature inversion = 기온 역전
+ENTRY:
+Desert [[Plateau|plateau]] along the Pacific coast of South America, in northern [[Chile]], covering about 105,000 sq km. It is the driest nonpolar desert in the world and the largest [[Fog|fog]] desert. Average rainfall is about 15 mm (0.6 in) a year, and some locations receive only 1 to 3 mm. Aridity results from a constant temperature inversion caused by the cool Humboldt Current and a strong Pacific anticyclone, and from a two-sided rain shadow between the [[Andes]] and the Chilean Coast Range. The desert has been used to simulate expeditions to [[Mars]]. Its dry, stable air makes it a leading site for ground-based [[Observatory|astronomy]], and the region has large [[Copper|copper]] mines.
+
+=== KEY: Atacama_Large_Millimeter_Array_02fe18
+HEADWORD: Atacama Large Millimeter Array = 아타카마 대형 밀리미터 집합체
+LEVEL: 4
+GLOSSARY:
+  Atacama Desert = 아타카마 사막
+  Canada = 캐나다
+  Chajnantor plateau = 차나토르고원
+  Chile = 칠레
+  Desert = 사막
+  Europe = 유럽
+  Humidity = 습도
+  Interferometer = 간섭계
+  Japan = 일본
+  Korea = 한국
+  Radio telescope = 전파 망원경
+  South Korea = 대한민국
+  Taiwan = 타이완
+  United States = 미국
+  Wavelength = 파장
+  submillimeter = 서브밀리미터
+ENTRY:
+Interferometer of 66 [[Radio telescope|radio telescopes]] in the [[Atacama Desert]] of northern [[Chile]], observing millimeter and submillimeter [[Wavelength|wavelengths]]. It was built on the Chajnantor plateau at 5,000 m, chosen for its high elevation and low [[Humidity|humidity]], which reduce noise and signal attenuation from Earth's atmosphere. The antennas can be moved over distances from 150 m to 16 km, giving the array a variable zoom, and most of its sensitivity comes from the large number of dishes. It is an international partnership among [[Europe]], the [[United States]], Canada, Japan, South Korea, Taiwan and Chile. Costing about US$1.4 billion, it is the most expensive ground-based telescope in operation. Observations began in 2011, and the array has been fully operational since March 2013.
+
+=== KEY: Atahualpa_cdf27b
+HEADWORD: Atahualpa = 아타우알파
+LEVEL: 4
+GLOSSARY:
+  Atahualpa = 아타우알파
+  Cajamarca = 카하마르카
+  Civil War = 남북 전쟁
+  Francisco Pizarro = 프란시스코 피사로
+  Huayna Cápac = 와이나 카파크
+  Huáscar = 우아스카르
+  Inca = 잉카
+  Inca Civil War = 잉카 내전
+  Inca Empire = 잉카 제국
+  Quito = 키토
+  Spanish conquest = 에스파냐의 정복
+  Spanish conquest of the Inca Empire = 스페인의 잉카 제국 정복
+  burning at the stake = 화형
+  garroted = 교살형
+ENTRY:
+Last effective [[Inca Empire|Inca]] emperor, reigning from April 1532 until his capture and execution during the [[Spanish conquest of the Inca Empire|Spanish conquest]]. He was a son of the emperor Huayna Cápac and was governor of [[Quito]] under his half-brother Huáscar, who had become emperor. From 1529 to 1532 they contested the succession in the Inca Civil War, and Atahualpa defeated Huáscar's forces and took him prisoner. In November 1532 [[Francisco Pizarro]] and his Spanish force captured Atahualpa at Cajamarca. In captivity he offered a ransom, but the Spanish then tried him for treason and for the murder of Huáscar. He was sentenced to burning at the stake, but after his baptism he was garroted instead. His execution accelerated the collapse of centralized Inca authority.
+
+=== KEY: Atal_Bihari_Vajpayee_5c8d1c
+HEADWORD: Vajpayee, Atal Bihari = 바지파이, 아탈 비하리
+LEVEL: 4
+GLOSSARY:
+  Agra = 아그라
+  BJP = 인도 인민당
+  Bharat Ratna = 바라트 라트나
+  Bharatiya Janata Party = 인도 인민당
+  India = 인도
+  Kargil = 카르길
+  Kargil War = 카르길 전쟁
+  Lahore = 라호르
+  Lok Sabha = 로크 사바
+  Nawaz Sharif = 나와즈 샤리프
+  Party = 파티
+  Pervez Musharraf = 페르베즈 무샤라프
+  Pokhran-II = 포크란-II
+  Rashtriya Swayamsevak Sangh = 민족 봉사단
+  full term = 만삭
+ENTRY:
+Indian statesman and poet, prime minister of India in 1996 and from 1998 to 2004. He was the first non-Congress prime minister to serve a full term. A co-founder and senior leader of the [[Bharatiya Janata Party]] (BJP), he had been a volunteer of the [[Rashtriya Swayamsevak Sangh]]. He was elected to the *Lok Sabha* ten times over five decades. As prime minister he authorized the Pokhran-II nuclear tests in 1998, traveled to Lahore by bus to meet Nawaz Sharif, and after the [[Kargil War]] invited Pervez Musharraf to a summit at [[Agra]]. His government pursued economic reforms, including privatization and encouragement of foreign investment. He received the *Bharat Ratna*, India's highest civilian honor.
+
+=== KEY: Ataxia_7ee264
+HEADWORD: Ataxia = 운동 실조
+LEVEL: 5
+GLOSSARY:
+  Cerebellar ataxia = 소뇌성 운동 실조
+  Cerebellum = 소뇌
+  Multiple sclerosis = 다발성 경화증
+  Nervous system = 신경계
+  Physical therapy = 물리 치료
+  Stroke = 뇌졸중
+  hemiataxia = 반측 운동 실조
+  multiple sclerosis = 다발성 경화증
+  physical therapy = 물리 치료
+ENTRY:
+Neurological sign of lack of voluntary coordination of muscle movements, indicating dysfunction of parts of the [[Nervous system|nervous system]], such as the [[Cerebellum]]. It can affect gait, speech and eye movements, and may be limited to one side of the body, a condition called hemiataxia. Cerebellar ataxia causes poor balance, a widened-base gait and irregular, uncoordinated movements. Acquired ataxia can result from [[Stroke|stroke]] or [[Multiple sclerosis|multiple sclerosis]]. Treatment focuses on [[Physical therapy|physical therapy]] to improve strength and balance, and most hereditary ataxias have no cure.
+
+=== KEY: Athanasius_of_Alexandria_ae9ed2
+HEADWORD: Athanasius of Alexandria = 알렉산드리아의 아타나시우스
+LEVEL: 4
+GLOSSARY:
+  Alexandria = 알렉산드리아
+  Anthony = 앤서니
+  Arianism = 아리우스파
+  Arians = 아리우스파
+  Arius = 아리우스
+  Bishop Alexander = 알렉산드로스 주교
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Church = 처치
+  Church Fathers = 교부
+  Council of Nicaea = 니케아 공의회
+  Eastern Orthodox = 동방 정교회
+  Eastern Orthodox Church = 동방 정교회
+  Father = 아버지
+  Father of Orthodoxy = 정통 신앙의 아버지
+  First Council of Nicaea = 제1차 니케아 공의회
+  Great Greek Church Fathers = 그리스 4대 교부
+  Nicaea = 니케아
+  On the Incarnation = 『말씀의 성육신에 관하여』
+  Orthodox = 정교회
+  Orthodox Church = 정교회
+  Saint = 성인
+  Saint Anthony the Great = 대 안토니우스
+  deacon = 부제
+  patriarch = 총대주교
+ENTRY:
+Egyptian Christian theologian and 20th patriarch of [[Alexandria]], serving from 328 to 373. As a deacon and assistant to Bishop Alexander, he took a leading role against [[Arius]] and Arianism at the [[First Council of Nicaea]] in 325. He succeeded Alexander as patriarch and faced repeated conflict with the Arians and with successive Roman emperors, which led to five exiles totaling 17 years. His anti-Arian polemics, *On the Incarnation* and a biography of Saint Anthony the Great are among his notable writings. He is venerated as a saint in the [[Catholic Church]] and [[Eastern Orthodox Church|Eastern Orthodox Church]], and is traditionally honored as one of the four Great Greek Church Fathers. His efforts earned him the title “Father of Orthodoxy.”
+
+=== KEY: Atheism_de0f15
+HEADWORD: Atheism = 무신론
+LEVEL: 3
+GLOSSARY:
+  Age of Enlightenment = 계몽주의 시대
+  Agnosticism = 불가지론
+  Atheism = 무신론
+  Christianity = 기독교
+  Classical antiquity = 고전 고대
+  Enlightenment = 계몽주의
+  Indian philosophy = 인도 철학
+  Soviet Union = 소련
+  Theism = 유신론
+  Union = 북군
+  Western world = 서양
+  apostasy = 배교
+  argument from inconsistent revelations = 모순된 계시 논증
+  blasphemy laws = 신성 모독법
+  burden of proof = 입증 책임
+  falsified = 반증
+  parsimonious = 절약적
+  problem of evil = 악의 문제
+  secular ethics = 세속 윤리
+  secularism = 세속주의
+  state-mandated atheism = 국가 무신론
+ENTRY:
+Absence of belief in the existence of deities, contrasted with [[Theism|theism]], the belief that at least one deity exists. Less broadly, it is a rejection of the belief that any deities exist; in the narrowest sense, the position that there are none. Writers disagree on how to define it, and the norm is to define it as an explicit stance against theism. Philosophers distinguish positive (strong) atheism, the explicit affirmation that gods do not exist, from negative (weak) atheism, which covers all other forms of non-theism. Atheism has been regarded as compatible with [[Agnosticism|agnosticism]] but also contrasted with it, and many agnostics see their view as distinct.
+
+Atheistic viewpoints can be traced to [[Classical antiquity]] and early Indian philosophy. In the Western world atheism declined after Christianity gained prominence, then resurged in the 16th century and the [[Age of Enlightenment]]. It achieved a significant position worldwide in the 20th century, and estimates of those lacking theistic belief range from 500 million to 1.1 billion people. Atheist organizations have defended the autonomy of science, freedom of thought, secularism, and secular ethics.
+
+Arguments for atheism include the lack of evidence, the problem of evil, the argument from inconsistent revelations, and the rejection of concepts that cannot be falsified. Nonbelievers contend that atheism is the more parsimonious position and that the burden of proof lies on the theist. In some countries with apostasy or blasphemy laws, open identification as an atheist can bring imprisonment, violence, or the death penalty. Critics of state-mandated atheism, as in the Soviet Union, point to its accompanying suppression of religion.
+
+=== KEY: Athena_582ca4
+HEADWORD: Athena = 아테나
+LEVEL: 4
+GLOSSARY:
+  Achaeans = 아카이아인
+  Ancient Greek = 고대 그리스어
+  Aphrodite = 아프로디테
+  Athens = 아테네
+  Hera = 헤라
+  Iliad = 『일리아스』
+  Minerva = 미네르바
+  Odysseus = 오디세우스
+  Odyssey = 『오디세이아』
+  Olive = 올리브
+  Parthenon = 파르테논 신전
+  Poseidon = 포세이돈
+  Renaissance = 르네상스
+  Trojan = 트로이아인
+  Trojan War = 트로이 전쟁
+  Zeus = 제우스
+  acropolis = 아크로폴리스
+  tutelary deity = 수호신
+ENTRY:
+Ancient Greek goddess of wisdom, warfare and handicraft, later syncretized with the Roman goddess Minerva. She was the patron of [[Athens]], which most likely gave her its name, and her temples usually stood atop the city's acropolis; the [[Parthenon]] is dedicated to her. Her symbols include owls, [[Olive|olive]] trees and snakes. In myth she was born from the forehead of Zeus, and she won the patronage of Athens from Poseidon by creating the first olive tree. Along with Aphrodite and Hera, she was one of three goddesses whose feud resulted in the [[Trojan War]]. In the *Iliad* she assists the Achaeans, and in the *Odyssey* she is the tutelary deity of Odysseus. Since the [[Renaissance]] she has been an international symbol of wisdom, the arts and classical learning.
+
+=== KEY: Athens_e14045
+HEADWORD: Athens = 아테네
+LEVEL: 4
+GLOSSARY:
+  Acropolis = 아크로폴리스
+  Acropolis of Athens = 아테네의 아크로폴리스
+  Athens = 아테네
+  Attica = 아티카
+  City = 도시
+  Classical Athens = 고전기 아테네
+  Europe = 유럽
+  Global city = 세계 도시
+  Greece = 그리스
+  Olympic Games = 올림픽
+  Parthenon = 파르테논 신전
+  Piraeus = 피레아스
+  Summer Olympics = 하계 올림픽
+  city-state = 도시 국가
+  global city = 세계 도시
+  modern Olympic Games = 근대 올림픽
+ENTRY:
+City (pop., 2021: 643,452), capital of [[Greece]] and of the Attica region. It is one of the world's oldest cities, with a recorded history spanning over 3,400 years. [[Classical Athens]] was a powerful city-state and a center of ancient democracy, the arts and philosophy. Its urban area numbers over 3.6 million, and Athens is the southernmost capital on the European mainland. The [[Parthenon]] on the [[Acropolis of Athens|Acropolis]] is considered a key landmark of early Western culture. Athens is classified as a Beta (+) [[Global city|global city]], and its port Piraeus is the second-busiest passenger port in Europe. The city hosted the first modern Olympic Games in 1896 and the 2004 Summer [[Olympic Games|Olympics]].

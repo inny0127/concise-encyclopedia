@@ -1,0 +1,884 @@
+=== KEY: Big_O_notation_dbd686
+HEADWORD: Big O notation = 대문자 O 표기법
+LEVEL: 5
+GLOSSARY:
+  Computer science = 컴퓨터 과학
+  Edmund Landau = 에드문트 란다우
+  Function (mathematics) = 함수
+  Ordnung = 오르드눙
+  Paul = 바울로
+  Paul Bachmann = 파울 바흐만
+  upper bound = 상계
+ENTRY:
+Mathematical notation that describes the approximate size of a [[Function (mathematics)|function]] on a domain. The O stands for *Ordnung*, meaning order of approximation. Paul Bachmann proposed the notation in 1894, and Edmund Landau extended it in 1909; it is part of the wider Bachmann–Landau family of notations. Big O gives an upper bound on how a function grows as its variable becomes large. In [[Computer science|computer science]] it classifies algorithms by how their run time or space requirements grow with input size.
+
+=== KEY: Bigfoot_e27c35
+HEADWORD: Bigfoot = 빅풋
+LEVEL: 5
+GLOSSARY:
+  Asia = 아시아
+  North America = 북아메리카
+  Pacific = 태평양
+  Pacific Northwest = 태평양 연안 북서부
+  Sasquatch = 새스콰치
+  Yeti = 예티
+ENTRY:
+Mythical, large, hairy humanoid creature, also called Sasquatch. It is said to inhabit forests in [[North America]], particularly the [[Pacific Northwest]], and has been a cultural icon since the mid-20th century. Enthusiasts have offered sightings, photographs, recordings, hair samples and footprint casts as evidence. Scientists dismiss the creature as not a real living animal, attributing the evidence to folklore, misidentification and hoax. Similar creatures appear worldwide, such as the [[Yeti]] of Asia.
+
+=== KEY: Bihar_27559d
+HEADWORD: Bihar = 비하르
+LEVEL: 4
+GLOSSARY:
+  Bihar = 비하르주
+  Bodh Gaya = 보드가야
+  British East India Company = 영국 동인도 회사
+  Buddha = 붓다
+  Buddhism = 불교
+  Buddhist = 불교
+  East India Company = 동인도 회사
+  Ganges = 갠지스강
+  Gaya = 가야
+  Guptas = 굽타 왕조
+  India = 인도
+  Jharkhand = 자르칸드주
+  Mauryas = 마우리아 왕조
+  Nalanda = 날란다
+  Nepal = 네팔
+  Patna = 파트나
+  Permanent Settlement = 영구 정액제
+  Vikramashila = 비크라마실라
+  freight equalization policy = 운임 균등화 정책
+  revival = 부흥회
+  the Buddha = 붓다
+ENTRY:
+State in eastern India, bordered by Nepal to the north and Jharkhand to the south. The [[Ganges]] flows across the state from west to east, and its capital is [[Patna]]. Bihar is the 12th largest Indian state by area and the 14th largest by GDP in 2024. It played a central role in the development of [[Buddhism]]: according to tradition, the Buddha attained enlightenment at Bodh Gaya, and Nalanda and Vikramashila became major centers of Buddhist learning. Under the Mauryas and Guptas, Buddhism received royal patronage. Since the late 1970s, Bihar has lagged behind other Indian states in social and economic development. Economists and social scientists claim this is a direct result of central government policies, including the freight equalization policy and the Permanent Settlement of 1793 by the British [[East India Company]]. The state government credits improved governance with an economic revival.
+
+=== KEY: Bikini_3b6727
+HEADWORD: Bikini = 비키니
+LEVEL: 5
+GLOSSARY:
+  Atoll = 환초
+  Bikini = 비키니
+  Bikini Atoll = 비키니 환초
+  Brigitte Bardot = 브리지트 바르도
+  Film = 영화
+  France = 프랑스
+  French = 프랑스어
+  Louis Réard = 루이 레아르
+  Once = 『Once』
+  Swimsuit = 수영복
+ENTRY:
+Two-piece women's [[Swimsuit|swimsuit]], with a top that covers the breasts and a bottom that covers the pelvis and some or all of the buttocks. French designer Louis Réard introduced the modern bikini in July 1946 and named it after the [[Bikini Atoll]], where a nuclear bomb had been tested four days earlier. Once considered controversial, it was banned from beaches in several countries, including France in 1949. Film stars such as [[Brigitte Bardot]] helped gain acceptance, and by the mid-1960s the minimalist design was common in most Western countries.
+
+=== KEY: Bikini_Atoll_01b4ea
+HEADWORD: Bikini Atoll = 비키니 환초
+LEVEL: 5
+GLOSSARY:
+  Cold War = 냉전
+  Coral = 산호
+  Marshall = 마셜 제도
+  Marshall Islands = 마셜 제도
+  Second = 초
+  Second World = 제2세계
+  Second World War = 제2차 세계 대전
+  United States = 미국
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  the Second World War = 제2차 세계 대전
+ENTRY:
+Coral atoll in the [[Marshall Islands]], consisting of 23 islands around a central lagoon of 594.1 sq km. After the Second World War the United States chose it as a nuclear weapon testing site and forcibly relocated its 167 residents. The U.S. carried out 22–23 additional nuclear tests there until 1958. The islanders remain prohibited from returning because of contamination. The atoll is now a [[World Heritage Site]], remembered for its role in the Cold War.
+
+=== KEY: Bilateria_7e3a72
+HEADWORD: Bilateria = 좌우대칭동물
+LEVEL: 4
+GLOSSARY:
+  Anus = 항문
+  Cambrian = 캄브리아기
+  Clade = 분기군
+  Cnidaria = 자포동물
+  Ctenophora = 유즐동물
+  Echinoderm = 극피동물
+  Ediacaran = 에디아카라기
+  Mouth = 입
+  Placozoa = 판형동물
+  Sponge = 해면동물
+  Xenacoelomorpha = 무장동물상문
+  bilateral symmetry = 좌우 대칭
+  bilaterally symmetrical = 좌우 대칭
+  blastopore = 원구
+  cephalization = 두부화
+  deuterostomes = 후구동물
+  nerve ganglia = 신경절
+  pentaradial symmetry = 오방사 대칭
+  protostomes = 선구동물
+ENTRY:
+Large [[Clade|clade]] of animals characterized by bilateral symmetry during embryonic development. Their body plans are arranged around a longitudinal axis with a front (head) and rear (tail) end, and a left and right side. Nearly all bilaterians are bilaterally symmetrical as adults; the exception is [[Echinoderm|echinoderms]], which have pentaradial symmetry as adults. Most have complete digestive tracts with a separate [[Mouth|mouth]] and [[Anus|anus]], and sense organs and nerve ganglia concentrated at the front end of the body, a feature called cephalization.
+
+Bilaterians form one of five main animal lineages, the others being [[Sponge|sponges]], [[Cnidaria]], Ctenophora and Placozoa. They diversified rapidly in the late [[Ediacaran]] and the [[Cambrian]] and include over 98% of known animal species. Traditionally they are divided into deuterostomes and protostomes, depending on whether the blastopore becomes the anus or the mouth. The phylum Xenacoelomorpha, erected in 2011, does not clearly fit either group.
+
+=== KEY: Bilbao_9be258
+HEADWORD: Bilbao = 빌바오
+LEVEL: 5
+GLOSSARY:
+  Barcelona = 바르셀로나
+  Basque = 바스크
+  Basque Country = 바스크 지방
+  Basque Country (autonomous community) = 바스크 자치 지방
+  Bilbao = 빌바오
+  Biscay = 비스카야
+  City = 도시
+  Frank = 프랭크
+  Frank Gehry = 프랭크 게리
+  Guggenheim Museum = 구겐하임 미술관
+  Guggenheim Museum Bilbao = 빌바오 구겐하임 미술관
+  Lee Kuan Yew = 리콴유
+  Lee Kuan Yew World City Prize = 리콴유 세계 도시상
+  Museum = 박물관
+  Spain = 스페인
+  World = 세계
+ENTRY:
+City (pop., 2024: 347,342) in northern [[Spain]], the largest city in Biscay province and the [[Basque Country (autonomous community)|Basque Country]]. Founded in the late 13th century, it became a commercial hub exporting wool and iron from nearby quarries. Heavy industrialization in the 19th and early 20th centuries made it the center of Spain's second most industrialized region, behind [[Barcelona]]. Its regeneration was started by the Guggenheim Museum Bilbao, designed by [[Frank Gehry]] and opened in 1997, and the city received the 2010 Lee Kuan Yew World City Prize for its urban transformation.
+
+=== KEY: Bilibili_fb5beb
+HEADWORD: Bilibili = 비리비리
+LEVEL: 5
+GLOSSARY:
+  Anime = 애니메이션
+  Hatsune Miku = 하쓰네 미쿠
+  Shanghai = 상하이
+  danmu = 탄막
+ENTRY:
+Chinese online video-sharing platform based in [[Shanghai]]. Users upload, view and comment on videos, including through *danmu*, scrolling on-screen comments. The site grew out of a [[Hatsune Miku]] fan community founded in 2009 and was launched as Bilibili in 2010. It began with [[Anime|anime]], comics and games, and later expanded into documentaries, variety shows and original programming, as well as live streaming, mostly of mobile games.
+
+=== KEY: Bill_Belichick_1a56a2
+HEADWORD: Belichick, Bill = 벨리칙, 빌
+LEVEL: 5
+GLOSSARY:
+  AFC East = AFC 동부 지구
+  American football = 미식축구
+  England = 잉글랜드
+  Giants = 기간테스
+  NFL = NFL
+  New England = 뉴잉글랜드
+  New England Patriots = 뉴잉글랜드 패트리어츠
+  New York Giants = 뉴욕 자이언츠
+  North Carolina = 노스캐롤라이나주
+  North Carolina Tar Heels = 노스캐롤라이나 타힐스
+  Patriots = 애국파
+  Super = 「슈퍼」
+  Super Bowl = 슈퍼볼
+  Tar = 타르
+  York = 요크
+  defensive coordinator = 수비 코디네이터
+ENTRY:
+American football coach, head coach of the North Carolina Tar Heels since 2024. He was head coach of the [[New England Patriots]] for 24 seasons from 2000, winning six [[Super Bowl|Super Bowls]], a record for a head coach, along with 17 AFC East titles. Including two Super Bowls as defensive coordinator of the New York Giants, he has won eight, the most of any individual in NFL history. He holds the record for most playoff coaching wins, with 31.
+
+=== KEY: Bill_Burr_c20884
+HEADWORD: Burr, Bill = 버, 빌
+LEVEL: 5
+GLOSSARY:
+  Breaking Bad = 「브레이킹 배드」
+  Emmy = 에미상
+  Emmy Award = 에미상
+  F Is for Family = 「F 이즈 포 패밀리」
+  Family = 가족
+  Grammy = 그래미상
+  Grammy Award = 그래미상
+  Netflix = 넷플릭스
+  Old Dads = 「올드 대즈」
+  Stand-up comedy = 스탠드업 코미디
+  The Mandalorian = 「만달로리안」
+  stand-up comedian = 스탠드업 코미디언
+ENTRY:
+American [[Stand-up comedy|stand-up]] comedian, podcaster, actor and writer. Known for confrontational, observational comedy about social issues and politics, he created, co-wrote and voiced the lead character in the [[Netflix]] animated sitcom *F Is for Family* (2015–2021). He has also had roles in *Breaking Bad* and *The Mandalorian*, and he directed the feature film *Old Dads* (2023). He has received two Emmy Award nominations and two Grammy Award nominations.
+
+=== KEY: Bill_Clinton_a7ff9e
+HEADWORD: Clinton, Bill = 클린턴, 빌
+LEVEL: 5
+GLOSSARY:
+  AIDS = 에이즈
+  Arkansas = 아칸소주
+  Clinton Foundation = 클린턴 재단
+  Democrat = 민주당원
+  Democratic Party (United States) = 민주당
+  HIV/AIDS = HIV/AIDS
+  House of Representatives = 하원
+  North American Free Trade Agreement = 북미 자유 무역 협정
+  President of the United States = 미국 대통령
+  Senate = 상원
+  The House = 하원
+  Trade = 교역
+  United States = 미국
+  global warming = 지구 온난화
+  impeached = 탄핵 소추했다
+  obstruction of justice = 사법 방해
+  perjury = 위증
+  the Senate = 상원
+ENTRY:
+American politician and lawyer, 42nd [[President of the United States|president of the United States]] (1993–2001). A [[Democratic Party (United States)|Democrat]] and former governor of Arkansas, he signed the North American Free Trade Agreement, and his presidency saw the longest peacetime economic expansion in U.S. history up to that time. The House of Representatives impeached him in 1998 on charges of perjury and obstruction of justice; the Senate acquitted him in 1999. After leaving office he founded the Clinton Foundation, which addresses causes including [[HIV/AIDS]] and global warming.
+
+=== KEY: Bill_Cosby_433a04
+HEADWORD: Cosby, Bill = 코스비, 빌
+LEVEL: 5
+GLOSSARY:
+  Actor = 배우
+  Best Actor = 남우주연상
+  Black = 검은색
+  Cliff = 절벽
+  Cliff Huxtable = 클리프 헉스터블
+  Court = 법원
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  I Spy = 「아이 스파이」
+  Pennsylvania = 펜실베이니아주
+  Pennsylvania Supreme Court = 펜실베이니아주 대법원
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Awards = 프라임타임 에미상
+  Rape = 강간
+  The Cosby Show = 「코스비 가족 만세」
+  aggravated sexual assault = 가중 성폭행
+ENTRY:
+American former comedian and actor. He played Cliff Huxtable in the sitcom *The Cosby Show* (1984–1992) and became the first Black actor to win three Primetime Emmy Awards for Best Actor in a Drama Series, for *I Spy*. Over 60 women have accused him of offenses including [[Rape|rape]] and sexual assault; he has maintained his innocence. A 2018 conviction for aggravated sexual assault was vacated in 2021 by the Pennsylvania Supreme Court. In civil cases he was found liable for sexual assault in 2022 and in 2026, the latter with $19 million in damages.
+
+=== KEY: Bill_Gates_be9173
+HEADWORD: Gates, Bill = 게이츠, 빌
+LEVEL: 4
+GLOSSARY:
+  Forbes = 『포브스』
+  French = 프랑스어
+  Giving Pledge = 기빙 플레지
+  Harvard = 하버드
+  Harvard University = 하버드 대학교
+  Malaria = 말라리아
+  Melinda French Gates = 멀린다 프렌치 게이츠
+  Microsoft = 마이크로소프트
+  Paul = 바울로
+  Paul Allen = 폴 앨런
+  Polio = 소아마비
+  Tuberculosis = 결핵
+  Warren Buffett = 워런 버핏
+  chief executive = 집정
+  initial public offering = 기업 공개
+ENTRY:
+American businessman and philanthropist, co-founder of [[Microsoft]]. With his childhood friend [[Paul Allen]], he founded the software company in 1975 after leaving [[Harvard University|Harvard]]. He served as its chief executive for 25 years and became the world's then-youngest billionaire in 1987, after Microsoft's initial public offering. Forbes ranked him the world's wealthiest person in 18 of the 24 years from 1995 to 2017. He co-chaired the Bill & Melinda Gates Foundation, the world's largest private charitable organization, with his then-wife, Melinda French Gates, from 2000 until 2024. The foundation focused on health, education and poverty alleviation, including efforts against [[Tuberculosis|tuberculosis]], [[Malaria|malaria]] and [[Polio|polio]]. In 2010 he and [[Warren Buffett]] founded the Giving Pledge, under which billionaires commit to giving at least half their wealth to philanthropy.
+
+=== KEY: Bill_Maher_02ca4f
+HEADWORD: Maher, Bill = 마허, 빌
+LEVEL: 5
+GLOSSARY:
+  ABC = ABC
+  Animal rights = 동물권
+  Cannabis (drug) = 대마
+  Comedy Central = 코미디 센트럴
+  HBO = HBO
+  Hollywood = 할리우드
+  Hollywood Walk of Fame = 할리우드 명예의 거리
+  PETA = PETA
+  Politically Incorrect = 「폴리티컬리 인코렉트」
+  Real Time with Bill Maher = 「리얼 타임 위드 빌 마허」
+  Religulous = 「릴리귤러스」
+  Time = 『타임』
+  Walk of Fame = 명예의 거리
+  political satire = 정치 풍자
+ENTRY:
+American comedian, television host and political commentator. He hosts the HBO political talk show *Real Time with Bill Maher*, which began in 2003, and earlier hosted *Politically Incorrect* on ABC and Comedy Central (1993–2002). Often described as a moderate liberal, he is known for his political satire, and his critical views of religion were the basis for the documentary *Religulous* (2008). He supports [[Animal rights|animal rights]], serving on the board of PETA since 1997, and supports the legalization of [[Cannabis (drug)|cannabis]]. He received a Hollywood Walk of Fame star in 2010.
+
+=== KEY: Bill_Murray_da7649
+HEADWORD: Murray, Bill = 머리, 빌
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Actor = 배우
+  Best Actor = 남우주연상
+  Caddyshack = 「캐디섁」
+  Ghostbusters = 「고스트버스터즈」
+  Groundhog Day = 「사랑의 블랙홀」
+  Humor = 후모어
+  Lost = 「로스트」
+  Lost in Translation = 「사랑도 통역이 되나요?」
+  Mark Twain = 마크 트웨인
+  Mark Twain Prize for American Humor = 마크 트웨인 미국 유머상
+  Night = 『밤』
+  Rushmore = 「맥스군 사랑에 빠지다」
+  Saturday Night = 「새터데이 나이트」
+  Saturday Night Live = 「새터데이 나이트 라이브」
+  Translation = 번역
+  Wes Anderson = 웨스 앤더슨
+ENTRY:
+American actor and comedian known for his deadpan delivery. A cast member of [[Saturday Night Live]] from 1977 to 1980, he starred in comedies including *Caddyshack* (1980), *Ghostbusters* (1984) and *Groundhog Day* (1993). He received a Best Actor Academy Award nomination for *Lost in Translation* (2003). He has acted in ten films by director [[Wes Anderson]], beginning with *Rushmore* (1998), and was awarded the Mark Twain Prize for American Humor in 2016.
+
+=== KEY: Bill_Nye_f5d03e
+HEADWORD: Nye, Bill = 나이, 빌
+LEVEL: 5
+GLOSSARY:
+  Bill Nye Saves the World = 「빌 나이 세상을 구하다」
+  Bill Nye the Science Guy = 「빌 나이 더 사이언스 가이」
+  Boeing = 보잉
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  Netflix = 넷플릭스
+  Planetary Society = 행성 협회
+  Seattle = 시애틀
+  Society = 사회
+  The Planetary Society = 행성 협회
+  World = 세계
+  hydraulic resonance suppressor tube = 유압 공진 억제관
+ENTRY:
+American science communicator and former mechanical engineer. He began his career at [[Boeing]] in Seattle, where he invented a hydraulic resonance suppressor tube used on 747 airplanes. As host of *Bill Nye the Science Guy* (1993–1998), he won 19 Emmy Awards from 23 nominations, including Outstanding Performer in Children's Programming. He later served as CEO of The Planetary Society and starred in the [[Netflix]] series *Bill Nye Saves the World*, which ran from 2017 to 2018.
+
+=== KEY: Bill_Russell_b10fe7
+HEADWORD: Russell, Bill = 러셀, 빌
+LEVEL: 5
+GLOSSARY:
+  Barack Obama = 버락 오바마
+  Black = 검은색
+  Boston = 보스턴
+  Boston Celtics = 보스턴 셀틱스
+  Medal of Freedom = 자유 훈장
+  Most Valuable Player = 최우수 선수
+  NBA = NBA
+  NBA Most Valuable Player = NBA 최우수 선수
+  National Basketball Association = 전미 농구 협회
+  Presidential Medal of Freedom = 대통령 자유 훈장
+  civil rights = 민권
+  civil rights movement = 민권 운동
+  player-coach = 선수 겸 감독
+ENTRY:
+American basketball center and coach. He played for the [[Boston Celtics]] from 1956 to 1969 and won 11 [[National Basketball Association|NBA]] championships, including eight in a row from 1959 to 1966. A five-time NBA Most Valuable Player, he led the league in rebounds four times. In 1969 he became the first Black coach to win an NBA championship, as player-coach of the Celtics. In 2011 [[Barack Obama]] awarded him the Presidential Medal of Freedom for his accomplishments on the court and in the civil rights movement.
+
+=== KEY: Billie_Eilish_be05b4
+HEADWORD: Eilish, Billie = 아일리시, 빌리
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Awards = 아카데미상
+  Best Original Song = 주제가상
+  Billboard 200 = 빌보드 200
+  Finneas O'Connell = 피니어스 오코널
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  No Time to Die = 「007 노 타임 투 다이」
+  Ocean = 대양
+  Ocean Eyes = 「Ocean Eyes」
+  Time = 『타임』
+ENTRY:
+American singer-songwriter. She first gained attention in 2015 with the single "Ocean Eyes", written and produced by her brother, Finneas O'Connell. Her debut album, *When We All Fall Asleep, Where Do We Go?* (2019), topped the Billboard 200. She has won two [[Academy Awards|Academy Awards]] for Best Original Song, for "No Time to Die" and "What Was I Made For?", and ten [[Grammy Awards|Grammy Awards]]. She is the first person born in the 21st century to win both a Grammy and an Academy Award.
+
+=== KEY: Billie_Holiday_8d050a
+HEADWORD: Holiday, Billie = 홀리데이, 빌리
+LEVEL: 4
+GLOSSARY:
+  Baltimore = 볼티모어
+  Brunswick = 브런즈윅 레코드
+  Carnegie Hall = 카네기 홀
+  Eleanora Fagan = 엘리노라 페이건
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Harlem = 할렘
+  Jazz = 재즈
+  Lady Day = 레이디 데이
+  Lester Young = 레스터 영
+  Lynching = 린치
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Strange Fruit = 「Strange Fruit」
+  Teddy Wilson = 테디 윌슨
+  What a Little Moonlight Can Do = 「What a Little Moonlight Can Do」
+  cirrhosis = 간경변증
+ENTRY:
+American [[Jazz|jazz]] and swing singer, nicknamed Lady Day by her music partner Lester Young. Born Eleanora Fagan, she had a difficult childhood in Baltimore, began singing in Harlem nightclubs and signed with Brunswick in 1935. Her recording with Teddy Wilson of "What a Little Moonlight Can Do" became a jazz standard. Her performance of "Strange Fruit", a song against [[Lynching|lynching]], became one of her signature recordings. Drug abuse and legal troubles in the late 1940s led to a short prison sentence, after which she performed sold-out concerts at Carnegie Hall. She died of cirrhosis and heart failure. Her four Grammy Awards were all posthumous, and she was inducted into the [[Rock and Roll Hall of Fame]] in 2000 as an early influence.
+
+=== KEY: Billings_Montana_afad0b
+HEADWORD: Billings = 빌링스
+LEVEL: 5
+GLOSSARY:
+  Billings = 빌링스
+  City = 도시
+  Frederick = 프리드리히
+  Frederick H. Billings = 프레더릭 H. 빌링스
+  Magic City = 매직 시티
+  Montana = 몬태나주
+  Northern Pacific Railroad = 노던퍼시픽 철도
+  Pacific = 태평양
+  Yellowstone County = 옐로스톤 카운티
+  Yellowstone National Park = 옐로스톤 국립공원
+ENTRY:
+City (pop., 2020: 117,116) in south-central [[Montana]], the state's largest city and the seat of Yellowstone County. Founded in March 1882 as a railroad town named for Frederick H. Billings, a former president of the Northern Pacific Railroad, it was nicknamed the Magic City for its rapid growth. It is the trade and distribution center for much of eastern Montana. The Billings area's population grew 89% from 1969 to 2021, compared with 59% statewide. The northeast entrance of [[Yellowstone National Park]] lies a little over 100 miles (160 km) away.
+
+=== KEY: Billy_Bob_Thornton_833c35
+HEADWORD: Thornton, Billy Bob = 손턴, 빌리 밥
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Adapted Screenplay = 아카데미 각색상
+  Actor = 배우
+  Angelina Jolie = 앤젤리나 졸리
+  Best Actor = 남우주연상
+  Best Adapted Screenplay = 각색상
+  Blade = 「블레이드」
+  Fargo = 「파고」
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Landman = 「랜드맨」
+  Lorne Malvo = 론 맬보
+  Paramount = 파라마운트
+  Sling Blade = 「슬링 블레이드」
+ENTRY:
+American actor, filmmaker and singer-songwriter. He wrote, directed and starred in the independent drama *Sling Blade* (1996), for which he won an Academy Award for Best Adapted Screenplay and was nominated for Best Actor. He won a Golden Globe for playing Lorne Malvo in the television series *Fargo* (2014) and starred in the Paramount+ series *Landman* from 2024. He has been married six times, including to [[Angelina Jolie]] from 2000 to 2003.
+
+=== KEY: Billy_Connolly_bbd4b1
+HEADWORD: Connolly, Billy = 코널리, 빌리
+LEVEL: 5
+GLOSSARY:
+  Big Yin = 빅 인
+  Folk music = 민속 음악
+  Humblebums = 험블범스
+  Scottish = 스코틀랜드
+  Stand-up comedy = 스탠드업 코미디
+  UK Singles Chart = UK 싱글 차트
+  knighted = 기사 작위를 받았다
+  stand-up comedian = 스탠드업 코미디언
+ENTRY:
+Scottish actor, musician and retired [[Stand-up comedy|stand-up]] comedian, known as the Big Yin. He began as a [[Folk music|folk]] singer with the Humblebums and became a comedian in the early 1970s, known for improvised observational comedy with strong language. His single "D.I.V.O.R.C.E." reached No. 1 on the UK Singles Chart in 1975. He was knighted in 2017 for services to entertainment and charity. He announced his retirement from comedy in 2018 and has since established himself as an artist.
+
+=== KEY: Billy_Crystal_4eb7ff
+HEADWORD: Crystal, Billy = 크리스털, 빌리
+LEVEL: 5
+GLOSSARY:
+  700 Sundays = 「700 선데이스」
+  ABC = ABC
+  Academy Awards = 아카데미상
+  City = 도시
+  City Slickers = 「굿바이 뉴욕 굿모닝 내 사랑」
+  Dallas = 댈러스
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  Harry = 해리
+  Jodie Dallas = 조디 댈러스
+  Mike Wazowski = 마이크 와조스키
+  Monsters = 「몬스터」
+  Night = 『밤』
+  Pixar = 픽사
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Awards = 프라임타임 에미상
+  Saturday Night = 「새터데이 나이트」
+  Saturday Night Live = 「새터데이 나이트 라이브」
+  Soap = 비누
+  Tony = 토니상
+  Tony Award = 토니상
+ENTRY:
+American comedian, actor and filmmaker. He gained prominence as Jodie Dallas on the ABC sitcom *Soap* (1977–1981) and was a cast member of [[Saturday Night Live]] from 1984 to 1985. His films include *When Harry Met Sally...* (1989) and *City Slickers* (1991), and he voices Mike Wazowski in [[Pixar|Pixar]]'s *Monsters, Inc.* franchise. He has hosted the [[Academy Awards]] nine times. His one-man show *700 Sundays* won a Tony Award in 2004, and he has received six Primetime Emmy Awards.
+
+=== KEY: Billy_Graham_df615a
+HEADWORD: Graham, Billy = 그레이엄, 빌리
+LEVEL: 4
+GLOSSARY:
+  Dwight D. Eisenhower = 드와이트 D. 아이젠하워
+  Eisenhower = 아이젠하워
+  Hour = 시간
+  Hour of Decision = 「결단의 시간」
+  Johnson = 존슨
+  Lyndon B. Johnson = 린든 B. 존슨
+  Martin Luther = 마르틴 루터
+  Martin Luther King Jr. = 마틴 루서 킹 주니어
+  Office = 성무일도
+  Oval Office = 대통령 집무실
+  Richard = 리처드
+  Richard Nixon = 리처드 닉슨
+  Southern Baptist = 남침례회
+  York = 요크
+  civil rights = 민권
+  crusades = 전도 집회
+  evangelist = 복음 전도자
+  revival = 부흥회
+ENTRY:
+American evangelist and ordained Southern Baptist minister, and a civil rights advocate. From the late 1940s he preached live sermons in stadiums around the world, broadcast by radio and television, and he held annual crusades from 1947 until his retirement in 2005. He hosted the radio show *Hour of Decision* from 1950 to 1954. He insisted on racial integration at his revivals as early as 1953, and in 1957 invited [[Martin Luther King Jr.]] to preach jointly at a New York revival. He was close to presidents Dwight D. Eisenhower, Lyndon B. Johnson and [[Richard Nixon]]. He was named on Gallup's list of most admired men and women a record 61 times. In 2002, remarks about Jewish influence in the media that he had made in 1972 Oval Office conversations with Nixon became public, and he apologized.
+
+=== KEY: Billy_Joel_ae7302
+HEADWORD: Joel, Billy = 조엘, 빌리
+LEVEL: 5
+GLOSSARY:
+  52nd Street = 『52nd Street』
+  Album = 앨범
+  Album of the Year = 올해의 앨범
+  Columbia = 컬럼비아
+  Garden = 정원
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Joel = 조엘
+  Madison = 매디슨
+  Madison Square = 매디슨 스퀘어
+  Madison Square Garden = 매디슨 스퀘어 가든
+  Piano = 피아노
+  Piano Man = 피아노 맨
+  Square = 정사각형
+  The Stranger = 『이방인』
+  Year = 해
+  residency = 레지던시 공연
+ENTRY:
+American singer, songwriter and pianist, nicknamed the Piano Man after his 1973 signature song. His album *The Stranger* (1977) sold over 10 million copies and was Columbia Records' best-selling release. *52nd Street* (1978) won the [[Grammy Awards|Grammy]] for Album of the Year. Joel has sold more than 160 million records worldwide. He performed a record-breaking residency at [[Madison Square Garden]] from 2014 to 2024.
+
+=== KEY: Billy_Wilder_f77887
+HEADWORD: Wilder, Billy = 와일더, 빌리
+LEVEL: 4
+GLOSSARY:
+  Academy Awards = 아카데미상
+  Apartment = 아파트
+  Austria-Hungary = 오스트리아-헝가리
+  Berlin = 베를린
+  Best Director = 감독상
+  Best Original Screenplay = 각본상
+  Best Picture = 작품상
+  Double Indemnity = 「이중 배상」
+  Galicia = 갈리치아
+  Hollywood = 할리우드
+  Marilyn Monroe = 메릴린 먼로
+  Monroe = 먼로
+  Nazi = 나치
+  Nazi Party = 나치당
+  Ninotchka = 「니노치카」
+  Paris = 파리
+  Party = 파티
+  Raymond Chandler = 레이먼드 챈들러
+  Samuel Wilder = 자무엘 빌더
+  Seven = 「세븐」
+  Some Like It Hot = 「뜨거운 것이 좋아」
+  Sucha = 수하
+  The Apartment = 「아파트 열쇠를 빌려드립니다」
+  The Seven Year Itch = 「7년 만의 외출」
+  Vienna = 빈
+  Year = 해
+  film noir = 필름 누아르
+ENTRY:
+Austrian and American film director and screenwriter. Born Samuel Wilder in Sucha, Galicia, Austria-Hungary, he worked as a journalist in Vienna and began screenwriting in [[Berlin|Berlin]]. After the rise of the [[Nazi Party|Nazi Party]] he moved to Paris, and in 1934 to Hollywood. He co-wrote the screenplay for *Ninotchka* (1939) and co-wrote the film noir *Double Indemnity* (1944) with [[Raymond Chandler]]. He directed [[Marilyn Monroe]] in *The Seven Year Itch* (1955) and *Some Like It Hot* (1959). He co-wrote, produced and directed *The Apartment* (1960), which won [[Academy Awards|Academy Awards]] for Best Picture, Best Director and Best Original Screenplay. He received seven Academy Awards from 21 nominations, and his career spanned five decades.
+
+=== KEY: Billy_the_Kid_a17706
+HEADWORD: Billy the Kid = 빌리 더 키드
+LEVEL: 5
+GLOSSARY:
+  Fort Sumner = 포트섬너
+  Henry McCarty = 헨리 매카티
+  Lincoln County War = 링컨 카운티 전쟁
+  Mexico = 멕시코
+  New Mexico = 뉴멕시코주
+  Old West = 서부 개척 시대
+  Pat Garrett = 팻 개릿
+  Sheriff = 「셰리프」
+  Stories = 스토리
+  Western (genre) = 서부극
+  William = 윌리엄
+  William H. Bonney = 윌리엄 H. 보니
+ENTRY:
+American outlaw and gunfighter of the Old West. Born Henry McCarty, he used the name William H. Bonney and was linked to nine murders, solely responsible for four. He took part in the Lincoln County War in [[New Mexico]] in 1878. Convicted of a sheriff's murder and sentenced to hang, he escaped jail by killing two deputies, and was then shot dead by Sheriff Pat Garrett at Fort Sumner. Stories that he had survived spread afterward, and more than 50 films have featured him, making him a fixture of the [[Western (genre)|western]] genre.
+
+=== KEY: Binary_number_1f0e56
+HEADWORD: Binary number = 이진수
+LEVEL: 4
+GLOSSARY:
+  Bit = 비트
+  Computer = 컴퓨터
+  Europe = 유럽
+  Gottfried Leibniz = 고트프리트 라이프니츠
+  Horus-Eye fractions = 호루스의 눈 분수
+  I Ching = 『주역』
+  Leibniz = 라이프니츠
+  Logic gate = 논리 게이트
+  Number = 수
+  Rational number = 유리수
+  Thomas = 토머스
+  Thomas Harriot = 토머스 해리엇
+  base-2 numeral system = 이진법
+  digital circuits = 디지털 회로
+  hexagrams = 괘
+ENTRY:
+Number expressed in the base-2 numeral system, which uses only the symbols 0 and 1. Each digit is called a [[Bit|bit]]. Because binary is simple to implement in digital circuits using [[Logic gate|logic gates]], almost all modern [[Computer|computers]] use it. Binary-like systems appeared in ancient cultures: Egyptian Horus-Eye fractions were a binary system for fractional quantities of grain and liquids, and the Chinese [[I Ching]] used hexagrams analogous to three- and six-bit binary numerals. The modern binary system was first studied in Europe by Thomas Harriot in the 15th to 17th centuries, and Gottfried Leibniz is credited with its invention. A binary number may also be a [[Rational number|rational number]] with a finite binary representation, the quotient of an integer by a power of two.
+
+=== KEY: Binary_star_a2a8eb
+HEADWORD: Binary star = 쌍성
+LEVEL: 4
+GLOSSARY:
+  Astrometry = 위치 천문학
+  Binary = 이진법
+  Close binaries = 근접 쌍성
+  Félix Savary = 펠릭스 사바리
+  Nova = 신성
+  Others = 아더
+  Spectroscopy = 분광학
+  Star = 항성
+  Supernova = 초신성
+  Washington = 워싱턴주
+  Washington Double Star Catalog = 워싱턴 이중성 목록
+  William = 윌리엄
+  William Herschel = 윌리엄 허셜
+  Xi Ursae Majoris = 큰곰자리 크시별
+  double stars = 이중성
+  eclipsing binaries = 식쌍성
+  line of sight = 가시선
+  stellar evolution = 항성 진화
+  type Ia = Ia형
+  visual binaries = 안시 쌍성
+ENTRY:
+Pair of stars gravitationally bound to, and orbiting, each other. Binary stars are among the most important objects in astrophysics because they allow direct measurement of stellar masses and tests of theories of stellar evolution. Stars that appear single to the naked eye but are resolved by a telescope are called visual binaries. Others are detected by [[Spectroscopy|spectroscopy]] or [[Astrometry|astrometry]], and eclipsing binaries have orbits aligned with the line of sight, so their stars eclipse each other. Close binaries can exchange mass, and binaries are progenitors of [[Nova|novae]] and type Ia [[Supernova|supernovae]]. The term was first used by [[William Herschel]] in 1802. The first orbit of a binary star was computed in 1827 by Félix Savary, for Xi Ursae Majoris. The Washington Double Star Catalog lists over 100,000 double stars, but orbits are known for only a few thousand of them.
+
+=== KEY: Binding_energy_31996c
+HEADWORD: Binding energy = 결합 에너지
+LEVEL: 4
+GLOSSARY:
+  Atom = 원자
+  Nuclear physics = 핵물리학
+  atomic physics = 원자물리학
+  binding energy = 결합 에너지
+  condensed matter physics = 응집물질물리학
+  fission = 핵분열
+  fusion = 핵융합
+  iron-56 = 철-56
+  nuclear physics = 핵물리학
+  nucleon = 핵자
+  separation energy = 분리 에너지
+ENTRY:
+Smallest amount of energy needed to remove a particle from a system of particles, or to disassemble the system into its individual parts. The term is mainly used in condensed matter physics, atomic physics and chemistry, while [[Nuclear physics|nuclear physics]] uses separation energy. A bound system typically has lower energy than its unbound constituents, and a decrease in total energy ΔE comes with a decrease in mass Δm, where Δmc² = ΔE. In a nucleus, binding energy per nucleon peaks near iron-56, at about 8.8 MeV, and falls for heavier elements, so fusion of light nuclei and fission of heavy nuclei both release energy. For an [[Atom|atom]], binding energy is the energy needed to remove an electron; in hydrogen it is 13.6 eV.
+
+=== KEY: Bing_Crosby_0bd350
+HEADWORD: Crosby, Bing = 크로스비, 빙
+LEVEL: 4
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Actor = 아카데미 남우주연상
+  Academy Awards = 아카데미상
+  Actor = 배우
+  Ampex = 앰펙스
+  Best Actor = 남우주연상
+  Bob Hope = 밥 호프
+  California = 캘리포니아주
+  German = 독일어
+  Going My Way = 「나의 길을 가련다」
+  Magnetic tape = 자기 테이프
+  Pittsburgh = 피츠버그
+  Pittsburgh Pirates = 피츠버그 파이리츠
+  Road to = 「로드 투」
+  World = 세계
+  World Series = 월드 시리즈
+  World War II = 제2차 세계 대전
+  reel-to-reel tape recorder = 릴 테이프 녹음기
+ENTRY:
+American singer and actor. One of the first multimedia stars, he made over 70 feature films and recorded more than 1,600 songs. He won the [[Academy Awards|Academy Award]] for Best Actor for *Going My Way* (1944) and was the number one box office attraction for five consecutive years, from 1944 to 1948. With his friend [[Bob Hope]], he starred in the *Road to* series of films from 1940 to 1962. Crosby influenced the development of the post–World War II recording industry. After seeing a German reel-to-reel tape recorder, he invested $50,000 in the California electronics company Ampex to build copies, and he became the first performer to prerecord his radio shows and master his commercial recordings onto [[Magnetic tape|magnetic tape]]. He co-owned the Pittsburgh Pirates, whose two [[World Series]] wins, in 1960 and 1971, came during that period.
+
+=== KEY: Binoculars_93f3f2
+HEADWORD: Binoculars = 쌍안경
+LEVEL: 4
+GLOSSARY:
+  Carl Zeiss = 카를 차이스
+  Eye = 눈
+  Galilean optics = 갈릴레이식 광학계
+  Ignazio Porro = 이냐치오 포로
+  Keplerian optics = 케플러식 광학계
+  Lens = 렌즈
+  Parallax = 시차
+  Porro prism = 포로 프리즘
+  Prism (optics) = 프리즘
+  erecting lenses = 정립 렌즈
+  eyepiece = 접안렌즈
+  objective = 대물렌즈
+  opera glasses = 오페라글라스
+  refracting telescopes = 굴절 망원경
+  visual cortex = 시각 피질
+ENTRY:
+Optical instrument made of two identical refracting telescopes mounted side by side and pointed in the same direction, giving magnified vision for both [[Eye|eyes]]. Unlike a monocular telescope, binoculars produce a three-dimensional image, because each eyepiece presents a slightly different view and [[Parallax|parallax]] lets the visual cortex generate an impression of depth. Most are held with both hands, though sizes range from small opera glasses to large pedestal-mounted tower viewers. Early binoculars used Galilean optics, with a convex objective and a concave eyepiece [[Lens|lens]]; this gave an erect image but a narrow field of view and limited magnification. Keplerian optics achieved higher magnification but inverted the image, which had to be corrected with erecting lenses or [[Prism (optics)|prisms]]. Ignazio Porro patented a prism erecting system in 1854, and in 1894 the Carl Zeiss company introduced improved "modern" Porro prism binoculars, whose well-separated, offset objectives gave a better sensation of depth.
+
+=== KEY: Binomial_coefficient_1049c8
+HEADWORD: Binomial coefficient = 이항 계수
+LEVEL: 5
+GLOSSARY:
+  Integer = 정수
+  Number = 수
+  Pascal's triangle = 파스칼의 삼각형
+ENTRY:
+Number of ways to choose an unordered subset of k elements from a set of n elements. Written C(n, k) or read as n choose k, it is the coefficient of the xᵏ term in the expansion of (1 + x)ⁿ, and it equals n!/(k!(n−k)!). Binomial coefficients are [[Integer|integers]] that appear in the successive rows of [[Pascal's triangle]]. For example, there are six ways to choose two elements from {1, 2, 3, 4}.
+
+=== KEY: Binomial_distribution_a4f4e4
+HEADWORD: Binomial distribution = 이항 분포
+LEVEL: 4
+GLOSSARY:
+  Abraham = 아브라함
+  Abraham de Moivre = 아브라암 드무아브르
+  Ars Conjectandi = 『추측술』
+  Bernoulli distribution = 베르누이 분포
+  Binomial coefficient = 이항 계수
+  Discrete probability distribution = 이산 확률 분포
+  Expected value = 기댓값
+  Jacob Bernoulli = 야코프 베르누이
+  Normal distribution = 정규 분포
+  Probability distribution = 확률 분포
+  Statistics = 통계학
+  binomial = 이항식
+  binomial test = 이항 검정
+  normal approximation = 정규 근사
+  statistical significance = 통계적 유의성
+ENTRY:
+Discrete [[Probability distribution|probability distribution]] of the number of successes in a sequence of n independent yes–no experiments, each with success probability p. The probability of exactly k successes is [[Binomial coefficient|C(n, k)]]pᵏ(1 − p)ⁿ⁻ᵏ, and the [[Expected value|expected value]] is np. A single trial is a [[Bernoulli distribution|Bernoulli distribution]]. The distribution is frequently used to model successes in a sample drawn with replacement from a population, and it remains a good approximation for sampling without replacement when the population is much larger than the sample. It is the basis of the binomial test of [[Statistics|statistical]] significance. [[Jacob Bernoulli]] formalized it in his posthumous 1713 work *Ars Conjectandi*, and Abraham de Moivre developed its [[Normal distribution|normal approximation]] in 1733.
+
+=== KEY: Binomial_nomenclature_49aa8c
+HEADWORD: Binomial nomenclature = 이명법
+LEVEL: 4
+GLOSSARY:
+  Carl Linnaeus = 칼 폰 린네
+  Gaspard Bauhin = 가스파르 보앵
+  Genus = 속
+  Homo = 사람속
+  Homo sapiens = 호모 사피엔스
+  International Code of Zoological Nomenclature = 국제 동물 명명 규약
+  Latin = 라틴어
+  Linnaeus = 린네
+  Species = 종
+  Species Plantarum = 『식물의 종』
+  generic name = 속명
+  specific epithet = 종소명
+ENTRY:
+Formal system of naming [[Species|species]] with a two-part name in [[Latin]] form, such as *Homo sapiens* for modern humans. The first part, the generic name, identifies the [[Genus|genus]]; the second, the specific epithet, distinguishes the species within it. [[Carl Linnaeus]] formally introduced the system in *Species Plantarum* (1753), though Gaspard Bauhin had used many genus names later adopted by Linnaeus as early as 1622. Binomial names were designed to be succinct, relatively stable, verifiable and understood internationally, unlike common names, which differ in every language. The International Code of Zoological Nomenclature governs animals, and the International Code of Nomenclature for algae, fungi, and plants governs plants and fungi. In modern usage the genus name is capitalized and both parts are italicized.
+
+=== KEY: Binomial_theorem_89d445
+HEADWORD: Binomial theorem = 이항 정리
+LEVEL: 5
+GLOSSARY:
+  Binomial coefficient = 이항 계수
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Newton = 뉴턴
+  Pascal's triangle = 파스칼의 삼각형
+  Series (mathematics) = 급수
+  binomial = 이항식
+  infinite series = 무한급수
+  nonnegative integer = 음이 아닌 정수
+ENTRY:
+Formula for the algebraic expansion of powers of a binomial. For a nonnegative integer n, (x + y)ⁿ is the sum of terms C(n, k)xⁿ⁻ᵏyᵏ for k from 0 to n, where each coefficient is a [[Binomial coefficient|binomial coefficient]]. For example, (x + y)⁴ = x⁴ + 4x³y + 6x²y² + 4xy³ + y⁴. The coefficients form the nth row of [[Pascal's triangle]]. In the 1660s [[Isaac Newton]] generalized the theorem to fractional and negative exponents, producing an infinite [[Series (mathematics)|series]].
+
+=== KEY: Binturong_008595
+HEADWORD: Binturong = 빈투롱
+LEVEL: 5
+GLOSSARY:
+  Arctictis = 아르크틱티스속
+  Asia = 아시아
+  Habitat = 서식지
+  IUCN = 국제 자연 보전 연맹
+  IUCN Red List = IUCN 적색 목록
+  Popcorn = 팝콘
+  Red List = 적색 목록
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  Vulnerable = 취약
+  bearcat = 베어캣
+  delay implantation = 착상을 지연
+  prehensile tail = 감는 꼬리
+  viverrid = 사향고양이과
+ENTRY:
+Arboreal viverrid mammal of South and Southeast Asia, also known as the bearcat. It is the only species in the genus *Arctictis*, and nine subspecies have been proposed. It has long, thick, mostly dark hair, a bushy prehensile tail, and musk glands that smell of [[Popcorn|popcorn]]. An omnivore that feeds on plants, insects and smaller animals, it is primarily nocturnal, and females can delay implantation until conditions are favorable. Habitat loss, forest degradation and illegal hunting and trading threaten it, and it is listed as Vulnerable on the IUCN Red List.
+
+=== KEY: BioShock_953da0
+HEADWORD: BioShock = 바이오쇼크
+LEVEL: 5
+GLOSSARY:
+  2K = 2K
+  2K Boston = 2K 보스턴
+  ADAM = ADAM
+  Andrew Ryan = 앤드루 라이언
+  BioShock = 「바이오쇼크」
+  BioShock 2 = 「바이오쇼크 2」
+  BioShock Infinite = 「바이오쇼크 인피니트」
+  Boston = 보스턴
+  Irrational Games = 이래셔널 게임스
+  Microsoft = 마이크로소프트
+  Microsoft Windows = 마이크로소프트 윈도우
+  PlayStation = 플레이스테이션
+  PlayStation 3 = 플레이스테이션 3
+  Rapture = 랩처
+  Utopia = 유토피아
+  Video game = 비디오 게임
+  Windows = 윈도우
+  Xbox = 엑스박스
+  Xbox 360 = 엑스박스 360
+  first-person shooter = 1인칭 슈팅 게임
+ENTRY:
+2007 first-person shooter [[Video game|video game]]. Developed by 2K Boston (later Irrational Games) and published by 2K, *BioShock* was released for Microsoft Windows and [[Xbox 360]] in August 2007, with a PlayStation 3 port in October 2008. The player explores Rapture, an underwater [[Utopia|utopia]] built by businessman Andrew Ryan, whose decline began after the discovery of ADAM, a substance that grants superhuman powers. Critics praised its narrative, themes, setting and gameplay. Two sequels followed, *BioShock 2* (2010) and *BioShock Infinite* (2013).
+
+=== KEY: Biochemistry_053d79
+HEADWORD: Biochemistry = 생화학
+LEVEL: 3
+GLOSSARY:
+  Animal = 동물
+  Animal Chemistry = 『동물 화학』
+  Biotechnology = 생명 공학
+  Branch = 브랜치
+  Carl Neuberg = 카를 노이베르크
+  Chemistry = 화학
+  Compendium der Biochemie = 『생화학 개요』
+  DNA = DNA
+  Eduard = 에두아르트
+  Edward Tatum = 에드워드 테이텀
+  Francis = 프랑수아
+  Francis Crick = 프랜시스 크릭
+  George Beadle = 조지 비들
+  James = 야고보
+  James Watson = 제임스 왓슨
+  Justus von Liebig = 유스투스 폰 리비히
+  Krebs cycle = 크레브스 회로
+  Maurice Wilkins = 모리스 윌킨스
+  Metabolism = 물질대사
+  Molecular biology = 분자생물학
+  NMR spectroscopy = 핵자기 공명 분광법
+  Nobel Prize = 노벨상
+  Rosalind Franklin = 로절린드 프랭클린
+  Vienna = 빈
+  Vinzenz Kletzinsky = 빈첸츠 클레친스키
+  Watson = 왓슨
+  X-ray = 엑스선
+  X-ray diffraction = 엑스선 회절
+  alcoholic fermentation = 알코올 발효
+  chromatography = 크로마토그래피
+  diastase = 디아스타아제
+  enzymology = 효소학
+  glycolysis = 해당 과정
+  macromolecules = 거대 분자
+  molecular biology = 분자생물학
+  nucleic acids = 핵산
+  structural biology = 구조생물학
+  urea = 요소
+  vitalism = 생기론
+ENTRY:
+Branch of science that studies the chemical processes within and relating to living organisms. A sub-discipline of both [[Chemistry|chemistry]] and biology, it may be divided into structural biology, enzymology, and [[Metabolism|metabolism]], and is closely related to [[Molecular biology|molecular biology]]. Much of it concerns the structures, functions, and interactions of biological macromolecules (proteins, nucleic acids, carbohydrates, and lipids) and the reactions of small molecules and ions.
+
+Its findings are applied mainly in medicine, nutrition, and agriculture. Biochemists investigate the causes and cures of diseases, nutritional deficiencies, and soils and fertilizers. Combined with engineering approaches, biochemical methods underlie [[Biotechnology|biotechnology]].
+
+Scholars disagree on when biochemistry began. Some point to Anselme Payen's discovery of the first enzyme, diastase, in 1833; others to Eduard Buchner's 1897 demonstration of alcoholic fermentation in cell-free extracts, or to the 1842 work *Animal Chemistry* by [[Justus von Liebig]], which presented a chemical theory of metabolism. Friedrich Wöhler's 1828 synthesis of urea was regarded by some as the overthrow of vitalism, the belief in a vital principle distinct from non-living matter, though others reject that view. Vinzenz Kletzinsky printed a *Compendium der Biochemie* in Vienna in 1858, and Carl Neuberg is often cited as having coined the word in 1903.
+
+From the mid-20th century, techniques such as chromatography, X-ray diffraction, and NMR spectroscopy allowed detailed analysis of pathways such as glycolysis and the Krebs cycle. In the 1950s James Watson, Francis Crick, [[Rosalind Franklin]], and Maurice Wilkins were instrumental in solving the structure of DNA, and in 1958 George Beadle and Edward Tatum received the Nobel Prize for showing that one gene produces one enzyme.
+
+=== KEY: Biodiversity_935c18
+HEADWORD: Biodiversity = 생물 다양성
+LEVEL: 3
+GLOSSARY:
+  Cambrian = 캄브리아기
+  Cambrian explosion = 캄브리아기 대폭발
+  Earth = 지구
+  Habitat = 서식지
+  Holocene = 홀로세
+  Holocene extinction = 홀로세 대멸종
+  Human = 인간
+  Living Planet Report = 「지구 생명 보고서」
+  Permian = 페름기
+  Permian–Triassic extinction event = 페름기-트라이아스기 대멸종
+  Phanerozoic = 현생누대
+  Planet = 행성
+  Triassic = 트라이아스기
+  mass extinctions = 대멸종
+  phyla = 문
+  phylogenetic diversity = 계통 다양성
+  primary productivity = 1차 생산성
+  sixth mass extinction = 여섯 번째 대멸종
+ENTRY:
+Variability of life on Earth, measurable at the levels of genetic, species, ecosystem, and phylogenetic diversity. Biologists often define it as the totality of genes, species, and ecosystems of a region.
+
+Diversity is unevenly distributed and is greater in the tropics, owing to warm climate and high primary productivity near the equator. Tropical forests cover less than one-fifth of Earth's land area yet contain about 50% of the world's species. Estimates by Mora et al. (2011) were approximately 8.7 million terrestrial species and 2.2 million oceanic species; other estimates include 10–30 million insects, of which about 0.9 million are known.
+
+Over geological time, biodiversity has risen and fallen. The Phanerozoic, spanning the last 540 million years, saw rapid growth through the [[Cambrian explosion]], when most multicellular phyla first appeared. Five major mass extinctions and several minor ones have caused sudden drops. The [[Permian–Triassic extinction event]], 251 million years ago, was the worst, and vertebrate recovery took 30 million years.
+
+Human activities are driving an ongoing loss often called the [[Holocene extinction]], or sixth mass extinction. Habitat destruction for farming is a key cause, and climate change also plays a role. A 2007 estimate held that up to 30% of all species could be extinct by 2050. The Living Planet Report 2014 claimed that vertebrate populations were on average about half the size they were 40 years earlier. Other analyses question whether present extinction rates exceed background levels once under-detection biases are considered.

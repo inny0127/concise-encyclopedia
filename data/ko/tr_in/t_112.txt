@@ -1,0 +1,868 @@
+=== KEY: Eye_ae160b
+HEADWORD: Eye = 눈
+LEVEL: 3
+GLOSSARY:
+  Cambrian = 캄브리아기
+  Cambrian explosion = 캄브리아기 대폭발
+  Camera = 카메라
+  Cephalopod = 두족류
+  Compound eye = 겹눈
+  Mantis shrimp = 갯가재
+  Neuron = 뉴런
+  Trilobite = 삼엽충
+  calcite = 방해석
+  cone cells = 원뿔세포
+  mantis shrimp = 갯가재
+  molluscs = 연체동물
+  ocelli = 홑눈
+  optic nerve = 시신경
+  retina = 망막
+  rod cells = 막대세포
+  visual cortex = 시각 피질
+ENTRY:
+Sensory organ that detects light and converts it into electrochemical impulses in [[Neuron|neurons]], forming part of an organism's visual system. In higher organisms it is a complex optical system that regulates the intensity of light, focuses it through adjustable lenses to form an image, and sends electrical signals along the optic nerve to the visual cortex and other brain areas.
+
+Eyes with resolving power have come in ten fundamentally different forms, classified as compound or non-compound. Non-compound, or simple, eyes have a single lens that focuses light onto the retina and are common in mammals, including humans. In most vertebrates and some molluscs, cone cells (for color) and rod cells (for low-light contrasts) in the retina convert light into neural signals. The eyes of most [[Cephalopod|cephalopods]], fish, amphibians, and snakes focus by telescoping a fixed-shape lens, as in a [[Camera|camera]]. The simplest eyes, such as the ocelli of some snails, distinguish only light from dark.
+
+[[Compound eye|Compound eyes]], common in insects and crustaceans, consist of many small visual units, each with its own lens and photosensitive cells. Some have up to 28,000 sensors arranged hexagonally, giving a full 360° field of vision; they are very sensitive to motion, but their physics limits resolution to no better than 1°. The extinct [[Trilobite|trilobites]] had clear calcite lenses, from one to thousands per eye. The [[Mantis shrimp|mantis shrimp]] has the most complex color vision system known.
+
+The first proto-eyes evolved about 600 million years ago, about the time of the [[Cambrian explosion]].
+
+=== KEY: Eye_color_be87c2
+HEADWORD: Eye color = 눈동자 색
+LEVEL: 5
+GLOSSARY:
+  Gene = 유전자
+  HERC2 = HERC2
+  Melanin = 멜라닌
+  OCA2 = OCA2
+  Polygenic = 다유전자
+  Rayleigh scattering = 레일리 산란
+  hazel = 담갈색
+  iris = 홍채
+  stroma = 기질
+ENTRY:
+Polygenic phenotypic trait determined by the pigmentation of the iris and the scattering of light in the iris stroma. In humans, iris pigmentation ranges from light brown to black, depending on the concentration of [[Melanin|melanin]]. Blue, green and hazel eyes result from light scattering in the stroma, a process similar to [[Rayleigh scattering]] that makes the sky blue; neither blue nor green pigments are present in the human iris. As of 2010, as many as 16 [[Gene|genes]] had been associated with human eye color, the main two being OCA2 and HERC2.
+
+=== KEY: Eye_examination_0b7393
+HEADWORD: Eye examination = 안과 검사
+LEVEL: 4
+GLOSSARY:
+  Corticosteroids = 코르티코스테로이드
+  Diabetes = 당뇨병
+  Glaucoma = 녹내장
+  Hypertension = 고혈압
+  Refraction = 굴절
+  dilated fundoscopic examination = 산동 안저 검사
+  extraocular muscle motility = 외안근 운동
+  intraocular pressure = 안압
+  ophthalmologist = 안과 의사
+  optometrist = 검안사
+  orthoptist = 시능훈련사
+  pupil function = 동공 기능
+  slit-lamp examination = 세극등 검사
+  visual acuity = 시력
+  visual fields = 시야
+ENTRY:
+Series of tests performed to assess vision, focusing ability and other functions of the eyes, usually by an optometrist, ophthalmologist or orthoptist. A full examination begins with a medical history and includes eight steps: visual acuity, pupil function, extraocular muscle motility, intraocular pressure, visual fields, external examination, slit-lamp examination and dilated fundoscopic examination. [[Refraction]] testing assesses how light bends through the eye to identify the need for corrective lenses. Examinations can detect treatable blinding diseases and eye signs of systemic conditions such as [[Diabetes|diabetes]] and [[Hypertension|hypertension]]. Corticosteroids can raise intraocular pressure, which can lead to [[Glaucoma|glaucoma]].
+
+=== KEY: Ezra_Klein_1650c5
+HEADWORD: Klein, Ezra = 클라인, 에즈라
+LEVEL: 5
+GLOSSARY:
+  Klein = 클라인
+  New York Times = 『뉴욕 타임스』
+  Podcast = 팟캐스트
+  Post = 『Post』
+  The Ezra Klein Show = 「에즈라 클라인 쇼」
+  The New York Times = 『뉴욕 타임스』
+  The Washington Post = 『워싱턴 포스트』
+  Vox = 복스
+  Washington = 워싱턴주
+  Why We're Polarized = 『우리는 왜 서로를 미워하는가』
+  Wonkblog = 웡크블로그
+  York = 요크
+ENTRY:
+American journalist and political commentator. Klein co-founded the explanatory news website Vox in 2014 and in November 2020 joined [[The New York Times]] as a columnist. He managed Wonkblog at [[The Washington Post]] and hosts The Ezra Klein Show, a [[Podcast|podcast]]. His books include *Why We're Polarized* (January 2020).
+
+=== KEY: Ezra_Pound_128dc7
+HEADWORD: Pound, Ezra = 파운드, 에즈라
+LEVEL: 4
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Benito Mussolini = 베니토 무솔리니
+  Ernest Hemingway = 어니스트 헤밍웨이
+  Fascism = 파시즘
+  Fascist = 파시스트
+  Fascist Italy = 파시스트 이탈리아
+  Hemingway = 헤밍웨이
+  Hitler = 히틀러
+  Hospital = 병원
+  Imagism = 이미지즘
+  Italy = 이탈리아
+  James = 야고보
+  James Joyce = 제임스 조이스
+  Joyce = 조이스
+  St. Elizabeths Hospital = 세인트엘리자베스 병원
+  T. S. Eliot = T. S. 엘리엇
+  Ulysses = 『율리시스』
+  United States = 미국
+  War = 전쟁
+  Washington = 워싱턴주
+  World = 세계
+  World War II = 제2차 세계 대전
+  early modernist = 초기 모더니스트
+  modernist poetry = 모더니즘 시
+  treason = 반역죄
+ENTRY:
+American poet and critic, a major figure in early modernist poetry and a collaborator in [[Fascism|Fascist]] Italy during [[World War II]]. Pound helped develop Imagism, a movement stressing precision and economy of language. As foreign editor of several American literary magazines in London, he helped shape the work of [[Ernest Hemingway]], [[T. S. Eliot]] and [[James Joyce]], including the serialization of *Ulysses*. He moved to Italy in 1924, embraced [[Benito Mussolini]]'s fascism and expressed support for [[Adolf Hitler]]. During World War II he recorded hundreds of paid radio broadcasts for the fascist Italian government. Indicted for treason by the United States in 1945, he was ruled unfit for trial and spent over 12 years at St. Elizabeths Hospital in Washington, D.C. His economic and political views have kept his legacy highly controversial.
+
+=== KEY: Ezra_dc5378
+HEADWORD: Ezra = 에스라
+LEVEL: 4
+GLOSSARY:
+  Achaemenid = 아케메네스 왕조
+  Artaxerxes I = 아르타크세르크세스 1세
+  Babylon = 바빌론
+  Bible = 성경
+  Book = 책
+  Book of Ezra = 『에스라기』
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Church = 처치
+  Eastern Orthodox = 동방 정교회
+  Eastern Orthodox Church = 동방 정교회
+  Hebrew = 히브리어
+  Hebrew Bible = 히브리어 성경
+  Jerusalem = 예루살렘
+  Judaism = 유대교
+  Orthodox = 정교회
+  Orthodox Church = 정교회
+  Roman Catholic = 로마 가톨릭
+  Roman Catholic Church = 로마 가톨릭교회
+  Second = 초
+  Second Temple = 제2성전
+  Second Temple period = 제2성전기
+  Torah = 토라
+  kohen = 코헨
+  sofer = 소페르
+ENTRY:
+Jewish scribe and priest, the main character of the *Book of Ezra* in the [[Hebrew Bible]]. According to the Bible, he was an important scribe (*sofer*) and priest (*kohen*) in the early Second Temple period. Sent by the Achaemenid emperor Artaxerxes I from [[Babylon]] to [[Jerusalem]], he led a group of exiles, reintroduced the [[Torah]] and enforced the dissolution of marriages with foreign women. He is highly respected in Judaism and is venerated as a saint by the [[Catholic Church|Roman Catholic Church]] and the [[Eastern Orthodox Church]]. Historians have no consensus on his historicity or mission, owing to a lack of extrabiblical evidence.
+
+=== KEY: FC_Barcelona_6096c6
+HEADWORD: FC Barcelona = FC 바르셀로나
+LEVEL: 5
+GLOSSARY:
+  Association football = 축구
+  Ballon d'Or = 발롱도르
+  Barcelona = 바르셀로나
+  Catalan = 카탈루냐
+  Catalonia = 카탈루냐
+  Champions League = 챔피언스리그
+  Johan Cruyff = 요한 크라위프
+  La Liga = 라리가
+  Més que un club = “클럽 이상의 클럽”
+  Spain = 스페인
+  UEFA = 유럽 축구 연맹
+  UEFA Champions League = UEFA 챔피언스리그
+ENTRY:
+Association football club based in [[Barcelona]], [[Catalonia]], Spain. Founded in 1899 and owned and operated by its supporters, the club competes in [[La Liga]] and is a symbol of Catalan culture, with the motto *Més que un club* ("More than a club"). It has won 22 European and worldwide titles, including five [[UEFA Champions League]] titles, and has won a record 82 domestic trophies. Barcelona players have won a joint record 12 Ballon d'Or awards, with recipients including [[Johan Cruyff]].
+
+=== KEY: FC_Bayern_Munich_de3454
+HEADWORD: FC Bayern Munich = FC 바이에른 뮌헨
+LEVEL: 5
+GLOSSARY:
+  Bavaria = 바이에른
+  Bundesliga = 분데스리가
+  Champions League = 챔피언스리그
+  DFB-Pokal = DFB-포칼
+  European Cup = 유러피언컵
+  Franz Beckenbauer = 프란츠 베켄바워
+  German = 독일어
+  Germany = 독일
+  Munich = 뮌헨
+  UEFA = 유럽 축구 연맹
+  UEFA Champions League = UEFA 챔피언스리그
+ENTRY:
+Professional sports club based in [[Munich]], [[Bavaria]], Germany, best known for its men's football team in the [[Bundesliga]]. Founded in 1900 by eleven players, Bayern is the most successful club in German football, with a record 35 national titles and a record 21 national cups, the DFB-Pokal. It has won six [[UEFA Champions League]] titles, a German record, and won the European Cup three consecutive times from 1974 to 1976 under the captaincy of [[Franz Beckenbauer]].
+
+=== KEY: FIFA_Women_s_World_Cup_48fba6
+HEADWORD: FIFA Women's World Cup = FIFA 여자 월드컵
+LEVEL: 5
+GLOSSARY:
+  Association football = 축구
+  Canada = 캐나다
+  Costa Rica = 코스타리카
+  Eight = 「에잇」
+  France = 프랑스
+  Germany = 독일
+  Jamaica = 자메이카
+  Japan = 일본
+  Mexico = 멕시코
+  Norway = 노르웨이
+  Spain = 스페인
+  United States = 미국
+ENTRY:
+International [[Association football|association football]] competition for women's national teams, held every four years since 1991. The United States has won four of the nine tournaments, with [[Germany]] winning two and Japan, Norway and Spain one each. Eight countries have hosted the tournament, including [[Canada]] and [[France]]. The 2031 edition is expected to be co-hosted by Costa Rica, Jamaica, Mexico and the United States, and will be the first to feature 48 teams.
+
+=== KEY: FIFA_World_Cup_c400c6
+HEADWORD: FIFA World Cup = FIFA 월드컵
+LEVEL: 4
+GLOSSARY:
+  Argentina = 아르헨티나
+  Association football = 축구
+  Brazil = 브라질
+  FIFA = 국제 축구 연맹
+  France = 프랑스
+  Germany = 독일
+  Italy = 이탈리아
+  Spain = 스페인
+  Uruguay = 우루과이
+  War = 전쟁
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+International [[Association football|association football]] competition among the senior men's national teams of [[FIFA]] members, held every four years since 1930. It was not held in 1942 or 1946 because of [[World War II]]. The 2026 tournament, with 48 teams, was won by Spain, which defeated the holders, Argentina. [[Brazil]] has won five titles, the most of any nation, followed by Germany and Italy with four each, Argentina with three, and France, Spain and Uruguay with two each. The 2018 tournament's viewership was estimated at 3.57 billion, close to half the global population.
+
+=== KEY: FIFA_a2becd
+HEADWORD: FIFA = 국제 축구 연맹
+LEVEL: 5
+GLOSSARY:
+  Africa = 아프리카
+  Association football = 축구
+  CAF = 아프리카 축구 연맹
+  Department of Justice = 법무부
+  Europe = 유럽
+  FIFA = 국제 축구 연맹
+  FIFA World Cup = FIFA 월드컵
+  Justice = 정의
+  Paris = 파리
+  U.S. Department of Justice = 미국 법무부
+  UEFA = 유럽 축구 연맹
+  World = 세계
+  World Cup = 월드컵
+  Zurich = 취리히
+  beach soccer = 비치 사커
+  futsal = 풋살
+  racketeering = 공갈 갈취
+  wire fraud = 전신 사기
+ENTRY:
+International governing body of [[Association football|association football]], beach soccer and futsal, founded in 1904 in [[Paris]] and headquartered in [[Zurich]]. Its 211 member associations belong to six confederations, including UEFA in [[Europe]] and CAF in [[Africa]]. FIFA organizes the [[FIFA World Cup|World Cup]], and its tournaments generate revenue from sponsorships. In 2015 the U.S. Department of Justice indicted nine officials and executives on racketeering, wire fraud and bribery charges.
+
+=== KEY: F_Murray_Abraham_857c16
+HEADWORD: Abraham, F. Murray = 에이브러햄, F. 머리
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Actor = 아카데미 남우주연상
+  Academy Awards = 아카데미상
+  Actor = 배우
+  Amadeus = 「아마데우스」
+  Anton Chekhov = 안톤 체호프
+  Antonio Salieri = 안토니오 살리에리
+  Best Actor = 남우주연상
+  Broadway = 브로드웨이
+  Budapest = 부다페스트
+  El Paso = 엘패소
+  El Paso, Texas = 엘패소
+  Homeland = 「홈랜드」
+  Hotel = 호텔
+  Obie Award = 오비상
+  Scarface = 「스카페이스」
+  The Grand Budapest Hotel = 「그랜드 부다페스트 호텔」
+  The Merchant of Venice = 『베니스의 상인』
+  Uncle Vanya = 『바냐 아저씨』
+  Venice = 베네치아
+  William = 윌리엄
+  William Shakespeare = 윌리엄 셰익스피어
+ENTRY:
+American actor, best known for his portrayal of Antonio Salieri in the film *Amadeus* (1984). He won the [[Academy Awards|Academy Award]] for Best Actor for that role. Raised in [[El Paso, Texas|El Paso]], he made his Broadway debut in 1968 and received an Obie Award for his roles in [[Anton Chekhov]]'s *Uncle Vanya* and [[William Shakespeare]]'s *The Merchant of Venice*. His films include *Scarface* and *The Grand Budapest Hotel*, and he was a regular on the television series *Homeland*.
+
+=== KEY: F_Scott_Fitzgerald_f81f9e
+HEADWORD: Fitzgerald, F. Scott = 피츠제럴드, F. 스콧
+LEVEL: 4
+GLOSSARY:
+  Alabama = 앨라배마주
+  Alcoholism = 알코올 의존증
+  Ernest Hemingway = 어니스트 헤밍웨이
+  Europe = 유럽
+  Great American Novel = 위대한 미국 소설
+  Great Depression = 대공황
+  Hemingway = 헤밍웨이
+  Jazz = 재즈
+  Jazz Age = 재즈 시대
+  Lost = 「로스트」
+  Lost Generation = 잃어버린 세대
+  Night = 『밤』
+  Novel = 소설
+  Princeton = 프린스턴
+  Princeton University = 프린스턴 대학교
+  Schizophrenia = 조현병
+  Tender Is the Night = 『밤은 부드러워』
+  The Great Gatsby = 『위대한 개츠비』
+  This Side of Paradise = 『낙원의 이쪽』
+  University = 대학
+  War = 전쟁
+  World = 세계
+  World War I = 제1차 세계 대전
+  York = 요크
+  Zelda Sayre = 젤다 세이어
+ENTRY:
+American novelist and short-story writer whose works depict the excess of the Jazz Age. Raised mainly in New York, he attended [[Princeton University]] before leaving to join the Army during [[World War I]]; while stationed in [[Alabama]] he met Zelda Sayre, whom he later married. *This Side of Paradise* (1920) made him famous, and *The Great Gatsby* (1925) is hailed by some critics as the "Great American Novel" despite weak early sales. He was part of the [[Lost Generation]] expatriate circle in Europe, including [[Ernest Hemingway]]. He struggled with [[Alcoholism|alcoholism]] in the 1920s and with money during the [[Great Depression]]. *Tender Is the Night* (1934) was completed after his wife's placement in a mental institution for [[Schizophrenia|schizophrenia]].
+
+=== KEY: F_W_Murnau_c9d8bc
+HEADWORD: Murnau, F. W. = 무르나우, F. W.
+LEVEL: 4
+GLOSSARY:
+  Bora = 보라
+  Bora Bora = 보라보라섬
+  Bram Stoker = 브램 스토커
+  Dracula = 『드라큘라』
+  German = 독일어
+  German Expressionist cinema = 독일 표현주의 영화
+  Hollywood = 할리우드
+  Nosferatu = 「노스페라투」
+  Robert J. Flaherty = 로버트 J. 플래허티
+  Sunrise = 「선라이즈」
+  Tabu = 「타부」
+ENTRY:
+German film director, producer and screenwriter, regarded as one of the most influential filmmakers of the silent era. His *Nosferatu* (1922), an unauthorized adaptation of [[Bram Stoker]]'s novel *Dracula*, is considered a masterpiece of German Expressionist cinema, although copyright issues limited its commercial success. He immigrated to Hollywood in 1926 and made *Sunrise* (1927), which critics regard as among the best films ever made. He traveled to [[Bora Bora]] to make *Tabu* (1931) with documentary pioneer Robert J. Flaherty, but disputes led him to complete the film alone. Of the 21 films he directed, eight are considered completely lost.
+
+=== KEY: F_lix_Houphou_t_Boigny_1539d4
+HEADWORD: Houphouët-Boigny, Félix = 우푸에부아니, 펠릭스
+LEVEL: 4
+GLOSSARY:
+  Abidjan = 아비장
+  Basilica of Our Lady of Peace = 평화의 성모 대성당
+  Coast = 해안
+  Economic growth = 경제 성장
+  France = 프랑스
+  Ghana = 가나
+  Ivorian = 코트디부아르
+  Ivorian miracle = 코트디부아르의 기적
+  Ivory = 상아
+  Ivory Coast = 코트디부아르
+  Kwame Nkrumah = 콰메 은크루마
+  Peace = 평화
+  UNESCO = 유네스코
+  Yamoussoukro = 야무수크로
+  one-party state = 일당제 국가
+  political pluralism = 정치적 다원주의
+ENTRY:
+Ivorian politician and physician, first president of [[Ivory Coast]] (1960–1993). Economic growth based on sound planning, strong ties with France and the coffee and cocoa industries became known as the "Ivorian miracle". He moved the capital from [[Abidjan]] to his hometown of Yamoussoukro and built the Basilica of Our Lady of Peace there at a cost of US$300 million. He aided the conspirators who ousted [[Kwame Nkrumah]] from power in [[Ghana]] in 1966. Critics argue that his one-party state suppressed political pluralism and that his administration faced allegations of corruption. At the time of his death he was the longest-serving leader in Africa's history. In 1989, [[UNESCO]] created a peace prize named for him.
+
+=== KEY: Fa_ade_b82ca6
+HEADWORD: Façade = 파사드
+LEVEL: 4
+GLOSSARY:
+  Architecture = 건축
+  Building = 건물
+  Dictionary = 사전
+  French = 프랑스어
+  Oxford = 옥스퍼드
+  Oxford English Dictionary = 『옥스퍼드 영어 사전』
+  Stainless steel = 스테인리스강
+  Titanium = 티타늄
+  Zoning = 용도 지역제
+  architectural design = 건축 설계
+ENTRY:
+Front or exterior of a [[Building|building]], often its most important aspect in [[Architecture|architectural]] design. The word, a loanword from French meaning "frontage" or "face", has its earliest recorded usage in English in 1656, according to the [[Oxford English Dictionary]]. Façades affect energy efficiency, and historic façades are often restricted by local [[Zoning|zoning]] regulations. High-rise façades are commonly made of aluminum or [[Stainless steel|stainless steel]], and [[Titanium|titanium]] has been used in recent years despite its cost. Outside architecture, "façade" describes a deceptive outward appearance.
+
+=== KEY: Fabaceae_244ff6
+HEADWORD: Fabaceae = 콩과
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Americas = 아메리카
+  Asteraceae = 국화과
+  Bacteria = 세균
+  Flowering plant = 속씨식물
+  Legume = 콩과 식물
+  Orchidaceae = 난초과
+  Peanut = 땅콩
+  Soybean = 콩
+  flowering plants = 속씨식물
+  nitrogen-fixing = 질소 고정
+  nitrogen-fixing bacteria = 질소 고정 세균
+  root nodules = 뿌리혹
+ENTRY:
+Large family of [[Flowering plant|flowering plants]], also called the [[Legume|legume]], pea or bean family, with nearly 20,000 known species. It is the third-largest land plant family by number of species, behind Orchidaceae and [[Asteraceae]]. Its members range from giant trees to small herbs, and it is the most common family in tropical rainforests and dry forests of the Americas and Africa. Crops include [[Soybean|soybean]] and [[Peanut|peanut]], and legumes have been staple foods for millennia. Many species host nitrogen-fixing [[Bacteria|bacteria]] in root nodules, which reduces the need for synthetic fertilizers.
+
+=== KEY: Fable_5c3ca6
+HEADWORD: Fable = 우화
+LEVEL: 4
+GLOSSARY:
+  Aesop = 이솝
+  Aesop's Fables = 『이솝 우화』
+  Anansi = 아난시
+  Ancient Greece = 고대 그리스
+  Animal = 동물
+  Animal Farm = 『동물 농장』
+  Farm = 농장
+  George Orwell = 조지 오웰
+  Ghana = 가나
+  Greece = 그리스
+  India = 인도
+  Latin = 라틴어
+  Middle Ages = 중세
+  Panchatantra = 『판차탄트라』
+  Phaedrus = 파이드루스
+  parables = 비유
+  political satire = 정치 풍자
+ENTRY:
+Short fictional story in prose or verse that illustrates a moral lesson through animals, plants or objects that speak and act like humans. Fables differ from parables in using such non-human actors. The best-known Western fables are attributed to the legendary [[Aesop's Fables|Aesop]], supposed to have been a slave in [[Ancient Greece]] around 550 BCE. In the first century AD, Phaedrus produced [[Latin]] verse versions that were transmitted through the [[Middle Ages]]. In [[India]], the [[Panchatantra]] sets beast fables inside a frame of instruction in practical conduct. Anansi stories originate with the tribes of [[Ghana]], and [[George Orwell]]'s *Animal Farm* uses the form for political satire.
+
+=== KEY: Face_8af586
+HEADWORD: Face = 얼굴
+LEVEL: 4
+GLOSSARY:
+  Beauty = 아름다움
+  Emotion = 감정
+  Eye color = 눈동자 색
+  Homo = 사람속
+  Homo sapiens = 호모 사피엔스
+  Human = 인간
+  Mammal = 포유류
+  Mammals = 포유류
+  Neanderthal = 네안데르탈인
+  Neanderthals = 네안데르탈인
+  Primate = 영장류
+  Surface = 서피스
+  binocular vision = 양안시
+  depth perception = 깊이 지각
+ENTRY:
+Front part of the head of a [[Human|human]] or other [[Mammal|mammal]], featuring the eyes, nose and mouth. Mammals have evolved diverse facial forms, especially among [[Primate|primates]], whose forward-facing eyes allow binocular vision and depth perception. The human chin is unique to *Homo sapiens*, distinguishing modern humans from [[Neanderthal|Neanderthals]]. Facial muscles allow humans to express [[Emotion|emotions]], and the face is the feature that best distinguishes an individual. Facial shape, influenced by the skull, is an important determinant of [[Beauty|beauty]], including facial symmetry. Surface differences such as [[Eye color|eye color]] may also contribute to racist ideologies and discrimination.
+
+=== KEY: Facebook_d85544
+HEADWORD: Facebook = 페이스북
+LEVEL: 4
+GLOSSARY:
+  Cambridge = 케임브리지
+  Cambridge Analytica = 케임브리지 애널리티카
+  Harvard = 하버드
+  Harvard University = 하버드 대학교
+  Mark Zuckerberg = 마크 저커버그
+  Meta = 메타
+  Meta Platforms = 메타 플랫폼스
+  Self-esteem = 자존감
+  Smartphone = 스마트폰
+  Social networking service = 소셜 네트워크 서비스
+  fake news = 가짜 뉴스
+  hate speech = 혐오 발언
+ENTRY:
+American [[Social networking service|social networking service]] owned by Meta Platforms. Founded in 2004 by [[Mark Zuckerberg]] and fellow [[Harvard University|Harvard]] students, it was initially limited to Harvard before expanding to other universities. It was the most downloaded mobile application of the 2010s, and as of December 2023 it reported approximately 3.07 billion monthly active users. Users can create profiles and share text, photos and video, and access the service from [[Smartphone|smartphones]] and personal computers. The service has been criticized over user privacy, including the Cambridge Analytica data scandal, political manipulation, addiction and [[Self-esteem|low self-esteem]], and content such as fake news and hate speech.
+
+=== KEY: Fact_b9e5b2
+HEADWORD: Fact = 사실
+LEVEL: 4
+GLOSSARY:
+  Charles Sanders Peirce = 찰스 샌더스 퍼스
+  Epistemology = 인식론
+  Experiment = 실험
+  Latin = 라틴어
+  Ontology = 존재론
+  Philosophy = 철학
+  Sanders = 샌더스
+  Scientific method = 과학적 방법
+  True = 『True』
+  a priori = 선험적
+  factum = 팍툼
+  scientific method = 과학적 방법
+  state of affairs = 사태
+ENTRY:
+True datum about one or more aspects of a circumstance or occurrence in the real world. The word derives from Latin *factum*, meaning "a thing done". Scientific facts are verified by careful, repeatable observation or measurement, including [[Experiment|experiments]]. In [[Philosophy|philosophy]], a fact is the worldly correlate of a true proposition, a state of affairs that makes the proposition true. Facts are considered in [[Epistemology|epistemology]] and possibly [[Ontology|ontology]]. In 1870, [[Charles Sanders Peirce]] described four ways people fix belief: tenacity, authority, a priori reasoning and the [[Scientific method|scientific method]].
+
+=== KEY: Factorial_012b11
+HEADWORD: Factorial = 계승
+LEVEL: 4
+GLOSSARY:
+  Combinatorics = 조합론
+  Daniel Bernoulli = 다니엘 베르누이
+  Euler = 오일러
+  Exponential function = 지수 함수
+  Gamma function = 감마 함수
+  Hebrew = 히브리어
+  Integer = 정수
+  Jain = 자이나교
+  Leonhard Euler = 레온하르트 오일러
+  Permutation = 순열
+  Sefer Yetzirah = 『세페르 예치라』
+  Stirling's approximation = 스털링 근사
+  complex numbers = 복소수
+  exponential function = 지수 함수
+  extended = 확대 가족
+  positive integers = 양의 정수
+  power series = 멱급수
+ENTRY:
+Product of all positive [[Integer|integers]] less than or equal to a non-negative integer *n*, written *n*!. For example, 5! = 5 × 4 × 3 × 2 × 1 = 120, and by convention 0! = 1. In [[Combinatorics|combinatorics]], *n*! counts the [[Permutation|permutations]] of *n* distinct objects. Factorials appear in the power series of the [[Exponential function|exponential function]], and [[Stirling's approximation|Stirling's approximation]] approximates them accurately for large numbers. [[Leonhard Euler]] and Daniel Bernoulli extended the factorial to complex numbers, except at negative integers, through the [[Gamma function|gamma function]]. The concept arose independently in several ancient cultures, including Jain literature and the Hebrew mystical text *Sefer Yetzirah*.
+
+=== KEY: Factory_1c6e98
+HEADWORD: Factory = 공장
+LEVEL: 4
+GLOSSARY:
+  Assembly line = 조립 라인
+  Electricity = 전기
+  Goods = 재화
+  Highway = 고속도로
+  Industrial Revolution = 산업 혁명
+  Max Weber = 막스 베버
+  assembly line = 조립 라인
+  cottage industry = 가내 공업
+  pulp and paper = 펄프·제지
+  raw materials = 원자재
+ENTRY:
+Industrial facility, often a complex of buildings filled with machinery, where workers make or process [[Goods|goods]]. Factories arose during the [[Industrial Revolution]], when capital and space requirements outgrew cottage industry and workshops. Most modern factories are warehouse-like buildings with heavy equipment for [[Assembly line|assembly line]] production, often located with access to rail, [[Highway|highway]] and water transport. Continuous-production industries, such as chemicals, pulp and paper, and refined oil, use heat or [[Electricity|electricity]] to transform streams of raw materials into finished products. The term mill originates with grain milling, which was powered by water or wind until steam replaced it in the 19th century. [[Max Weber]] did not regard ancient or medieval production as factory production.
+
+=== KEY: Fahrenheit_451_aeec4f
+HEADWORD: Fahrenheit 451 = 화씨 451
+LEVEL: 5
+GLOSSARY:
+  Apartheid = 아파르트헤이트
+  François Truffaut = 프랑수아 트뤼포
+  Guy Montag = 가이 몬태그
+  Nazi = 나치
+  Nazi book burnings = 나치 분서
+  Ray Bradbury = 레이 브래드버리
+  Red Scare = 적색 공포
+  Second = 초
+  Second Red Scare = 제2차 적색 공포
+  South Africa = 남아프리카 공화국
+  Soviet Union = 소련
+  book burnings = 분서
+  dystopian = 디스토피아
+  dystopian novel = 디스토피아 소설
+ENTRY:
+1953 dystopian novel by American writer [[Ray Bradbury]]. Set in a future America where books are outlawed, it follows Guy Montag, a fireman who burns books until he turns against censorship and begins preserving literature. Bradbury wrote it during the Second Red Scare, drawing on Nazi book burnings and ideological repression in the Soviet Union, but his accounts of its purpose changed over time; in later years he described it as a commentary on how mass media reduces interest in reading. The novel was censored in [[Apartheid|apartheid]] South Africa and in some U.S. schools. A 1966 film adaptation was directed by [[François Truffaut]].
+
+=== KEY: Fahrenheit_d11904
+HEADWORD: Fahrenheit = 화씨
+LEVEL: 4
+GLOSSARY:
+  Ammonium chloride = 염화 암모늄
+  Brine = 소금물
+  Cayman Islands = 케이맨 제도
+  Celsius = 섭씨
+  Daniel Gabriel Fahrenheit = 다니엘 가브리엘 파렌하이트
+  Fahrenheit = 화씨
+  Federated States of Micronesia = 미크로네시아 연방
+  Gabriel = 가브리엘
+  Gabriel Fahrenheit = 가브리엘 파렌하이트
+  Kelvin = 켈빈
+  Kelvin scale = 켈빈 온도 눈금
+  Marshall = 마셜 제도
+  Marshall Islands = 마셜 제도
+  Micronesia = 미크로네시아
+  Palau = 팔라우
+  United States = 미국
+  centigrade = 백분도
+ENTRY:
+Temperature scale proposed in 1724 by Daniel Gabriel Fahrenheit. Its lower reference point, 0 °F, was the freezing temperature of a [[Brine|brine]] of water, ice and [[Ammonium chloride|ammonium chloride]]; the upper point was his estimate of average human body temperature, first set at 90 °F and later at 96 °F. For much of the 20th century the scale was defined by water freezing at 32 °F and boiling at 212 °F at sea level and standard atmospheric pressure, a 180-degree interval. It is now defined through the [[Kelvin]] scale. Fahrenheit remains in use in the [[United States]] and its territories, Palau, the Federated States of Micronesia, the Marshall Islands and the [[Cayman Islands]]. Several other territories and nations use it alongside [[Celsius]], which was developed 18 years later and was called centigrade until 1948.
+
+=== KEY: Fairchild_Republic_A_10_Thunderbolt_II_6f6d1e
+HEADWORD: Fairchild Republic A-10 Thunderbolt II = 페어차일드 리퍼블릭 A-10 선더볼트 II
+LEVEL: 5
+GLOSSARY:
+  Afghanistan = 아프가니스탄
+  Air Force = 항공 및 반항공군
+  Attack aircraft = 공격기
+  Congress = 의회
+  F-35 = F-35
+  Fairchild Republic = 페어차일드 리퍼블릭
+  Force = 힘
+  GAU-8 Avenger = GAU-8 어벤저
+  Gulf War = 걸프 전쟁
+  Iraq = 이라크
+  Iraq War = 이라크 전쟁
+  Islamic State = 이슬람 국가
+  Lightning = 번개
+  Lockheed = 록히드
+  Lockheed Martin = 록히드 마틴
+  Lockheed Martin F-35 Lightning II = 록히드 마틴 F-35 라이트닝 II
+  Titanium = 티타늄
+  U.S. Air Force = 미국 공군
+  War in Afghanistan (2001–2021) = 아프가니스탄 전쟁
+  Yugoslav Wars = 유고슬라비아 전쟁
+  attack aircraft = 공격기
+  close air support = 근접 항공 지원
+ENTRY:
+Twin-turbofan, single-seat [[Attack aircraft|attack aircraft]] built by Fairchild Republic for the U.S. Air Force, designed for close air support against armor. Built around a 30 mm GAU-8 Avenger cannon, it has 1,200 pounds (540 kg) of [[Titanium|titanium]] armor around its cockpit. In service since 1977, it has fought in the [[Gulf War]], the [[Yugoslav Wars]], the [[War in Afghanistan (2001–2021)|war in Afghanistan]], the [[Iraq War]] and the campaign against the [[Islamic State]]. Its planned replacement by the [[Lockheed Martin F-35 Lightning II]] remains contentious. Congress allowed retirements to begin in 2023, but further retirements were paused until the Air Force can show that its close-air-support role can be replaced.
+
+=== KEY: Fairuz_2a7e70
+HEADWORD: Fairuz = 파이루즈
+LEVEL: 4
+GLOSSARY:
+  Album = 앨범
+  Amman = 암만
+  Arab world = 아랍 세계
+  Arabic = 아랍어
+  Baalbeck International Festival = 바알베크 국제 페스티벌
+  Cairo = 카이로
+  Camille = 「춘희」
+  Camille Chamoun = 카밀 샤문
+  Cavalier = 기사당
+  Cavalier medal = 기사 훈장
+  Damascus = 다마스쿠스
+  Festival = 축제
+  Itab = 「이타브」
+  Lebanon = 레바논
+  Nouhad Wadie Haddad = 누하드 와디 하다드
+  Turquoise = 터키석
+ENTRY:
+Lebanese singer and symbol of modern Lebanon, widely considered one of the most celebrated vocalists in the [[Arab world]]. Born Nouhad Wadie Haddad, she began as a chorus singer at Lebanese national radio in the late 1940s, and her stage name is the Arabic word for [[Turquoise|turquoise]]. Her first major hit, "Itab", appeared in 1952. After her 1957 performance at the Baalbeck International Festival, Lebanese president Camille Chamoun awarded her the Cavalier medal, the highest honor for artistic achievement. Her fame spread through the 1950s and 1960s, bringing performances in [[Damascus]], [[Amman]] and [[Cairo]]. Over six decades she recorded nearly 1,500 songs, released more than 80 [[Album|albums]], performed in 20 musicals and sold over 150 million records.
+
+=== KEY: Fairy_436db1
+HEADWORD: Fairy = 요정
+LEVEL: 4
+GLOSSARY:
+  Church = 처치
+  Edwardian = 에드워드 시대
+  Edwardian eras = 에드워드 시대
+  Folklore = 민속
+  Persian = 페르시아어
+  Renaissance = 르네상스
+  Tuberculosis = 결핵
+  United Kingdom = 영국
+  Victorian = 빅토리아 시대
+  gnomes = 그놈
+  goblins = 고블린
+  peris = 페리
+ENTRY:
+Mythical being in the [[Folklore|folklore]] of several European cultures, usually humanlike and magical. Folk theories of its origin cast fairies as demoted angels or demons, pagan deities, spirits of the dead, prehistoric precursors to humans or spirits of nature, and some historians have linked them to the Persian peris. The label has been applied both to specific humanlike creatures with magical powers and a taste for trickery, and to any magical creature, such as goblins and gnomes. Church bells, clothing worn inside out and four-leaf clover were used as charms against them. Before modern medicine, fairies were often blamed for sickness, particularly [[Tuberculosis|tuberculosis]] and birth deformities. They were popular in Renaissance literature and were especially fashionable in the [[United Kingdom]] during the Victorian and Edwardian eras.
+
+=== KEY: Fairy_tale_47e830
+HEADWORD: Fairy tale = 동화
+LEVEL: 4
+GLOSSARY:
+  Bronze = 청동
+  Bronze Age = 청동기 시대
+  Brothers Grimm = 그림 형제
+  Charles Perrault = 샤를 페로
+  Fable = 우화
+  Fairy = 요정
+  Folklore = 민속
+  Hans Christian Andersen = 한스 크리스티안 안데르센
+  Madame d'Aulnoy = 돌누아 부인
+  Short story = 단편 소설
+  Vladimir = 블라디미르
+  Vladimir Propp = 블라디미르 프롭
+ENTRY:
+Folklore [[Short story|short story]] typically featuring magic, enchantments and mythical or fanciful beings. Fairy tales are distinguished from legends, which are perceived as true within their culture, and from explicit moral tales such as [[Fable|beast fables]]. The term was first used by Madame d'Aulnoy in the late 17th century. Many tales are centuries old, and some may date back to the [[Bronze Age]], though often only literary forms survive. Literary collections by [[Charles Perrault]] (1697), the Brothers Grimm (1812) and [[Hans Christian Andersen]] (1835) shaped the modern genre. Folklorists classify tales by the Aarne–Thompson–Uther Index and the morphological analysis of Vladimir Propp.
+
+=== KEY: Faisal_of_Saudi_Arabia_959571
+HEADWORD: Faisal = 파이살
+LEVEL: 5
+GLOSSARY:
+  1973 oil crisis = 1973년 석유 파동
+  Arabia = 아라비아
+  Communism = 공산주의
+  Israel = 이스라엘
+  Khalid = 할리드
+  Saudi Arabia = 사우디아라비아
+  Slavery = 노예제
+  Zionism = 시오니즘
+  crown prince = 왕세자
+  pan-Islamism = 범이슬람주의
+ENTRY:
+King of Saudi Arabia (r. 1964–1975). As crown prince from 1953 he outlawed [[Slavery|slavery]] in the kingdom, and he pursued modernization and reform, including limits on the power of Islamic religious officials, though some of his reforms were controversial. His foreign policy emphasized pan-Islamism, [[Communism|anti-communism]], [[Zionism|anti-Zionism]] and pro-Palestinianism. In protest at Western support for Israel, he led the oil embargo that caused the [[1973 oil crisis]]. He was assassinated by a nephew in 1975 and succeeded by his half-brother Khalid.
+
+=== KEY: Faisalabad_0875fc
+HEADWORD: Faisalabad = 파이살라바드
+LEVEL: 4
+GLOSSARY:
+  British India = 영국령 인도
+  Faisal = 파이살
+  Faisal of Saudi Arabia = 파이살 (사우디아라비아)
+  Faisalabad = 파이살라바드
+  India = 인도
+  James = 야고보
+  James Broadwood Lyall = 제임스 브로드우드 라이얼
+  Lyallpur = 라이알푸르
+  Manchester = 맨체스터
+  Pakistan = 파키스탄
+  Punjab = 펀자브
+  Punjabi = 펀자브어
+  Textile = 직물
+  Union Jack = 유니언 잭
+  canal colony = 운하 식민지
+  partition = 인도 분할
+  the Union = 연방
+ENTRY:
+Industrial city in [[Punjab]] province, Pakistan, and the province's second-largest city. Founded in the 1890s as a planned canal colony and named Lyallpur after the British lieutenant governor of the Punjab, Sir James Broadwood Lyall, it was one of the first planned cities in British India. Its center was laid out with eight roads radiating from a clock tower, a design modeled on the [[Union Jack]]. It was renamed Faisalabad in 1979 in honor of King [[Faisal of Saudi Arabia|Faisal]]. Its population grew sixfold in the decade after partition as East Punjabi Muslim immigrants settled there. Textile manufacturing dominates its economy, and it is called the [[Manchester]] of Pakistan for its extensive textile industry. The city contributes over 20 percent of national GDP, and the 2023 census counted 3,691,999 residents in its municipal corporation area.
+
+=== KEY: Faith_3d0e51
+HEADWORD: Faith = 신앙
+LEVEL: 4
+GLOSSARY:
+  Aquinas = 아퀴나스
+  Belief = 믿음
+  Christianity = 기독교
+  Christians = 기독교인
+  Francis = 프랑수아
+  Jesus = 예수
+  Latin = 라틴어
+  Morgan = 모건
+  Pope = 교황
+  Pope Francis = 교황 프란치스코
+  Religion = 종교
+  Teresa Morgan = 테리사 모건
+  Thomas = 토머스
+  Thomas Aquinas = 토마스 아퀴나스
+  fidēs = 피데스
+ENTRY:
+Belief in God or in the doctrines or teachings of [[Religion|religion]]. Religious people often understand faith as confidence based on a perceived degree of warrant or evidence, while skeptics tend to see it as belief without evidence. According to [[Thomas Aquinas]], faith is "an act of the intellect assenting to the truth at the command of the will." The English word derives from the Latin *fidēs*, meaning trust, confidence or belief. [[Christianity|Christian]] views vary: some see faith as being persuaded that something is true, while early Christians, according to Teresa Morgan, understood it as a relationship of trust that created community. Some hold that true faith produces good works, while others hold that faith in [[Jesus]] brings eternal life regardless. Pope Francis has claimed that most people on the planet profess to be believers.
+
+=== KEY: Faith_Hill_677a10
+HEADWORD: Hill, Faith = 힐, 페이스
+LEVEL: 5
+GLOSSARY:
+  Academy of Country Music Awards = 아카데미 오브 컨트리 뮤직 어워드
+  Breathe = 「Breathe」
+  Country music = 컨트리 음악
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  It Matters to Me = 「It Matters to Me」
+  Music = 음악
+  Soul2Soul II Tour = Soul2Soul II 투어
+  Take Me as I Am = 「Take Me as I Am」
+  Tim McGraw = 팀 맥그로
+ENTRY:
+American country singer and actress, one of the most successful country music artists of all time. Her first two albums, *Take Me as I Am* (1993) and *It Matters to Me* (1995), were major successes, and *Breathe* (1999) became one of the best-selling [[Country music|country]] albums of all time, winning three [[Grammy Awards]]. Hill has won five Grammys and 15 Academy of Country Music Awards. Her 2006 Soul2Soul II Tour with Tim McGraw became the highest-grossing country tour of all time. She has been married to McGraw since 1996.
+
+=== KEY: Faker_gamer_34ec70
+HEADWORD: Faker = 페이커
+LEVEL: 5
+GLOSSARY:
+  Asian Games = 아시안 게임
+  Entertainment = 오락
+  Jordan = 요르단
+  Korea = 한국
+  LCK = LCK
+  League of Legends = 리그 오브 레전드
+  Michael Jordan = 마이클 조던
+  South Korea = 대한민국
+  T1 = T1
+  World = 세계
+  World Championships = 월드 챔피언십
+  mid-laner = 미드 라이너
+ENTRY:
+South Korean professional [[League of Legends]] player, who has been the mid-laner for T1 throughout a career that began in 2013. He has won a record 10 LCK titles and a record six World Championships, including the 2023, 2024 and 2025 titles, and is widely regarded as the greatest player in the game's history. He has been compared to [[Michael Jordan]] for his esports success. He won a silver medal at the 2018 [[Asian Games]] and gold medals in 2022 and 2026 while representing South Korea. In 2020 he became a part-owner and executive of T1 Entertainment & Sports.
+
+=== KEY: Falafel_635b06
+HEADWORD: Falafel = 팔라펠
+LEVEL: 5
+GLOSSARY:
+  Arabian Peninsula = 아라비아반도
+  Chickpea = 병아리콩
+  Egypt = 이집트
+  Falafel = 팔라펠
+  Israeli–Palestinian conflict = 이스라엘-팔레스타인 분쟁
+  Levant = 레반트
+  Middle East = 중동
+  Peninsula = 반도
+  fava beans = 잠두
+  pita = 피타
+ENTRY:
+Deep-fried ball or patty of Egyptian origin, made from ground fava beans, [[Chickpea|chickpeas]] or both, mixed with herbs and spices. It is a popular street food throughout the [[Middle East]], most often made with fava beans in Egypt and the [[Arabian Peninsula]] and with chickpeas in the [[Levant]]. Falafel is often served in flatbread such as pita, topped with salads, pickled vegetables and hot sauce, and drizzled with tahini-based sauces. The word was first attested in English in 1936. Both sides in the [[Israeli–Palestinian conflict]] have claimed ownership of the dish.
+
+=== KEY: Falcon_dc5264
+HEADWORD: Falcon = 매
+LEVEL: 4
+GLOSSARY:
+  Accipitridae = 수리과
+  Antarctica = 남극 대륙
+  Bird = 조류
+  Bird of prey = 맹금류
+  Carl Linnaeus = 칼 폰 린네
+  Eagle = 수리
+  Falco = 매속
+  Linnaeus = 린네
+  Parrot = 앵무새
+  Peregrine falcon = 송골매
+  Seychelles = 세이셸
+  Seychelles kestrel = 세이셸황조롱이
+  Songbird = 명금류
+  gyrfalcon = 흰매
+  hawks = 매
+  tomial tooth = 부리 이빨
+ENTRY:
+Bird of prey in the genus *Falco*, which includes about 40 species. Falcons are found on every continent except [[Antarctica]]. Adults have thin, tapered wings that allow high speed and rapid changes of direction. Falcons kill prey with a tomial tooth on the beak, while hawks, [[Eagle|eagles]] and other birds of prey of the family Accipitridae use talons. The largest species is the gyrfalcon, up to 65 cm (26 in) long; the smallest is the Seychelles kestrel, at 15–24 cm. As with hawks and owls, females are typically larger than males. The [[Peregrine falcon]] has been recorded diving at 320 km/h (200 mph). The genus was introduced by [[Carl Linnaeus]] in 1758, and falcons are not closely related to other birds of prey; their nearest relatives are [[Parrot|parrots]] and [[Songbird|songbirds]].
+
+=== KEY: Falkland_Islands_1ea2b5
+HEADWORD: Falkland Islands = 포클랜드 제도
+LEVEL: 4
+GLOSSARY:
+  Archipelago = 제도
+  Argentina = 아르헨티나
+  Atlantic Ocean = 대서양
+  British Overseas Territory = 영국령 해외 영토
+  East Falkland = 이스트포클랜드섬
+  Falklands War = 포클랜드 전쟁
+  Ocean = 대양
+  Patagonia = 파타고니아
+  South Atlantic = 남부 대서양 연안
+  South Atlantic Ocean = 남대서양
+  Stanley = 스탠리
+  United Kingdom = 영국
+  West Falkland = 웨스트포클랜드섬
+ENTRY:
+[[Archipelago]] (pop., 2021: 3,662) in the South Atlantic Ocean, a British Overseas Territory. The main islands lie about 500 km east of [[Patagonia]] and include East Falkland, where the capital, Stanley, is located, and West Falkland, with 776 smaller islands. The territory has internal self-government, while the United Kingdom is responsible for defense and foreign affairs. The economy rests on fishing, tourism and sheep farming, with wool exports. Argentina maintains a claim to sovereignty; British rule was reasserted in 1833, and Argentina's 1982 invasion prompted the [[Falklands War]]. In a 2013 referendum almost all votes cast favored remaining a UK overseas territory. Oil exploration remains controversial because of maritime disputes with Argentina.
+
+=== KEY: Falklands_War_22ce16
+HEADWORD: Falklands War = 포클랜드 전쟁
+LEVEL: 5
+GLOSSARY:
+  Argentina = 아르헨티나
+  Falkland Islands = 포클랜드 제도
+  Margaret Thatcher = 마거릿 대처
+  South Georgia = 사우스조지아섬
+  Undeclared = 「언디클레어드」
+  United Kingdom = 영국
+ENTRY:
+Undeclared 1982 war between [[Argentina]] and the [[United Kingdom]] over the [[Falkland Islands]] and South Georgia. Argentina invaded the Falklands on 2 April 1982, and a British naval task force retook them. Argentina surrendered on 14 June after 74 days of conflict, which killed 649 Argentine military personnel, 255 British personnel and three Falkland Islanders. The defeat hastened the fall of Argentina's military government. In Britain, the government of [[Margaret Thatcher]] was re-elected with a larger majority the following year. Diplomatic relations were restored in 1989, but the sovereignty dispute remains unresolved.
+
+=== KEY: Fall_Out_Boy_ba7790
+HEADWORD: Fall Out Boy = 폴 아웃 보이
+LEVEL: 5
+GLOSSARY:
+  Album = 앨범
+  American Beauty = 「아메리칸 뷰티」
+  Beauty = 아름다움
+  Best New Artist = 최우수 신인상
+  Best Rock Album = 최우수 록 앨범상
+  Billboard 200 = 빌보드 200
+  Chicago = 시카고
+  Cork = 코르크
+  Dance = 춤
+  From Under the Cork Tree = 「From Under the Cork Tree」
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Illinois = 일리노이주
+  Infinity on High = 「Infinity on High」
+  Mania = 조증
+  Psycho = 「사이코」
+  Save Rock and Roll = 「Save Rock and Roll」
+  Sugar = 설탕
+  Tree = 나무
+ENTRY:
+American rock band formed in 2001 in Wilmette, Illinois, a suburb of [[Chicago]]. Its 2005 album *From Under the Cork Tree* went double platinum and produced the hit singles "Sugar, We're Goin Down" and "Dance, Dance". *Infinity on High* (2007), *Save Rock and Roll* (2013), *American Beauty/American Psycho* (2015) and *Mania* (2018) each reached number one on the Billboard 200. The band received a Best New Artist nomination at the 2006 [[Grammy Awards]] and a Best Rock Album nomination for *Mania*.
+
+=== KEY: Fall_of_Constantinople_03d60f
+HEADWORD: Fall of Constantinople = 콘스탄티노폴리스 함락
+LEVEL: 4
+GLOSSARY:
+  Adrianople = 아드리아노플
+  Byzantine = 비잔티움
+  Byzantine Empire = 비잔티움 제국
+  Constantine XI Palaiologos = 콘스탄티노스 11세 팔레올로고스
+  Constantinople = 콘스탄티노폴리스
+  Hagia Sophia = 하기아 소피아
+  Mehmed II = 메흐메트 2세
+  Middle Ages = 중세
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Roman Empire = 로마 제국
+  Siege = 공성전
+  Sultan = 술탄
+  Theodosian walls = 테오도시우스 성벽
+ENTRY:
+Capture of [[Constantinople]], capital of the [[Byzantine Empire]], by the [[Ottoman Empire]] on 29 May 1453. The Ottoman army, which far outnumbered the defenders, was led by Sultan [[Mehmed II]]; the Byzantines were commanded by Emperor Constantine XI Palaiologos. The 53-day [[Siege|siege]] began on 6 April. Ottoman cannons fired stone balls weighing 500 kilograms (1,100 lb) over the Theodosian walls, which had protected the city for about 800 years and created breaches for the assault. Mehmed II made Constantinople the Ottoman capital, replacing Adrianople, and the [[Hagia Sophia]] was converted into a mosque. The fall marked the effective end of the [[Roman Empire]], which had begun around 27 BC, and for many historians it marks the end of the [[Middle Ages]].

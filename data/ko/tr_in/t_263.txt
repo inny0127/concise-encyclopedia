@@ -1,0 +1,1021 @@
+=== KEY: Photochemistry_61e3f1
+HEADWORD: Photochemistry = 광화학
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Einstein = 알베르트 아인슈타인
+  Branch = 브랜치
+  Chemistry = 화학
+  DNA = DNA
+  Einstein = 아인슈타인
+  Fluorescence = 형광
+  Photochemistry = 광화학
+  Photosynthesis = 광합성
+  Ultraviolet = 자외선
+  Vitamin D = 비타민 D
+  first law = 열역학 제1법칙
+  phosphorescence = 인광
+  photodegradation = 광분해
+ENTRY:
+Branch of [[Chemistry|chemistry]] concerned with the chemical effects of light. It usually describes reactions caused by absorption of [[Ultraviolet|ultraviolet]] (wavelength 100 to 400 nm), visible (400–750 nm) or infrared (750–2500 nm) radiation. Photochemistry underlies [[Photosynthesis|photosynthesis]], vision and the formation of [[Vitamin D|vitamin D]] in sunlight, but it also causes [[DNA|DNA]] mutations that lead to skin cancers. Photochemical paths reach high-energy intermediates that cannot be generated thermally. Its first law, the Grotthuss–Draper law, holds that light must be absorbed for a reaction to occur. The Stark–Einstein law, to which [[Albert Einstein]] contributed, holds that each absorbed photon activates no more than one molecule. Excited molecules can relax through [[Fluorescence|fluorescence]] or phosphorescence, and photodegradation can destroy plastics.
+
+=== KEY: Photocopier_0399de
+HEADWORD: Photocopier = 복사기
+LEVEL: 4
+GLOSSARY:
+  Battelle Memorial Institute = 바텔 기념 연구소
+  Chester = 체스터
+  Chester Carlson = 체스터 칼슨
+  Columbus = 콜럼버스
+  Columbus, Ohio = 콜럼버스
+  Fax = 팩스
+  General Electric = 제너럴 일렉트릭
+  Government = 정부
+  Haloid = 할로이드
+  IBM = IBM
+  Machine = 기계
+  Model A = 모델 A
+  Ohio = 오하이오주
+  Paper = 종이
+  Patent = 특허
+  Xerox = 제록스
+  Xerox Corporation = 제록스
+  carbon paper = 먹지
+  mimeograph = 등사기
+  photoreceptor = 감광체
+  photostat = 포토스탯
+  toner = 토너
+  verifax = 베리팩스
+  xerography = 제로그래피
+ENTRY:
+Machine for copying documents and other images onto [[Paper|paper]] or plastic film. Most modern photocopiers use xerography, a dry process in which electrostatic charges on a light-sensitive photoreceptor attract toner particles, which are transferred to the paper and fused with heat or pressure. Xerography gradually replaced verifax, photostat, carbon paper and mimeograph copying in offices. In the 1980s, high-end machines began combining copying with [[Fax|fax]], scanning and network printing, and photocopying remains widely used in business, education and [[Government|government]]. Low-end color machines came to dominate the home-office market as prices fell during the 1990s. Patent attorney Chester Carlson invented the process in 1938. Between 1939 and 1944 he was turned down by over 20 companies, including [[IBM]] and [[General Electric]]. The Battelle Memorial Institute in [[Columbus, Ohio]] then helped refine it. Haloid, later Xerox Corporation, introduced the first xerographic copier, the Model A, in 1949.
+
+=== KEY: Photoelectric_effect_ac0c53
+HEADWORD: Photoelectric effect = 광전 효과
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Einstein = 알베르트 아인슈타인
+  Classical electromagnetism = 고전 전자기학
+  Einstein = 아인슈타인
+  Electromagnetic radiation = 전자기 복사
+  Electron = 전자
+  Gilbert = 길버트 제도
+  Gilbert N. Lewis = 길버트 N. 루이스
+  Millikan = 밀리컨
+  Nobel Prize = 노벨상
+  Nobel Prize in Physics = 노벨 물리학상
+  Photon = 광자
+  Physics = 물리학
+  Robert Millikan = 로버트 밀리컨
+  electromagnetic radiation = 전자기 복사
+  photodetectors = 광검출기
+  photoelectrons = 광전자
+  photomultiplier tubes = 광전자 증배관
+  solar cells = 태양 전지
+  threshold frequency = 문턱 진동수
+ENTRY:
+Emission of [[Electron|electrons]] from a material when [[Electromagnetic radiation|electromagnetic radiation]] such as light strikes it. The ejected electrons are called photoelectrons. Classical electromagnetism predicted that dim light would eventually transfer enough energy to release electrons, but experiments showed that emission occurs only above a material-specific threshold frequency, regardless of intensity or exposure time. Increasing intensity raises the number of electrons emitted but not their energy. In 1905, [[Albert Einstein]] proposed that light consists of discrete energy packets, later named [[Photon|photons]] by [[Gilbert N. Lewis]]. [[Robert Millikan]] verified the relationship experimentally in 1916, and Einstein received the 1921 Nobel Prize in Physics. The effect underpins solar cells, photodetectors and photomultiplier tubes.
+
+=== KEY: Photographic_film_30e07f
+HEADWORD: Photographic film = 사진 필름
+LEVEL: 4
+GLOSSARY:
+  Color = 색
+  Dye = 염료
+  Gelatin = 젤라틴
+  Infrared = 적외선
+  Kodacolor II = 코다컬러 II
+  Strip = 스트립
+  Visible spectrum = 가시 스펙트럼
+  color couplers = 발색제
+  infrared light = 적외선
+  latent image = 잠상
+  orthochromatic = 정색성
+  panchromatic = 전정색성
+  silver halide = 할로젠화 은
+ENTRY:
+Strip or sheet of transparent base coated with a [[Gelatin|gelatin]] emulsion of light-sensitive silver halide crystals, used to take photographs. Exposure to light creates an invisible latent image, which chemical development converts into a visible picture. Unmodified crystals respond only to blue light until sensitizing [[Dye|dyes]] were adsorbed onto them, producing orthochromatic and then panchromatic films, which are sensitive to all [[Visible spectrum|visible]] colors. Special films can also be sensitive to [[Infrared|infrared]] light. Black-and-white film has one layer of crystals, which develop into metallic silver. Color film has at least three sensitive layers, and by-products of development form colored dyes with color couplers. Later films, such as Kodacolor II, had as many as 12 emulsion layers. The rise of digital imaging shifted film to a niche role in artistic and archival work.
+
+=== KEY: Photography_a2a5c3
+HEADWORD: Photography = 사진술
+LEVEL: 3
+GLOSSARY:
+  Aristotle = 아리스토텔레스
+  Camera = 카메라
+  Camera obscura = 카메라 옵스큐라
+  Charge-coupled device = 전하 결합 소자
+  China = 중국
+  Digital photography = 디지털 사진
+  Euclid = 에우클레이데스
+  George Eastman = 조지 이스트먼
+  German = 독일어
+  Ibn al-Haytham = 이븐 알하이삼
+  John = 존
+  John Herschel = 존 허셜
+  Louis Daguerre = 루이 다게르
+  Nicéphore Niépce = 니세포르 니엡스
+  Photographic film = 사진 필름
+  Talbot = 탤벗
+  Thomas = 토머스
+  Thomas Wedgwood = 토머스 웨지우드
+  Wedgwood = 웨지우드
+  William = 윌리엄
+  William Henry Fox Talbot = 윌리엄 헨리 폭스 탤벗
+  Window = 창문
+  calotype = 캘러타이프
+  contact printing = 밀착 인화
+  daguerreotype = 다게레오타이프
+  enlarger = 확대기
+  image sensor = 이미지 센서
+  latent image = 잠상
+  pinhole camera = 핀홀 카메라
+  roll film = 롤 필름
+ENTRY:
+Art, application, and practice of creating images by recording light, either electronically by an image sensor or chemically on a light-sensitive material such as [[Photographic film]].
+
+A lens focuses light reflected or emitted from objects into a real image on a light-sensitive surface inside a camera during a timed exposure. With an electronic sensor, this produces an electrical charge at each pixel. With photographic emulsion, it produces an invisible latent image that is chemically developed into a negative or positive; a negative is traditionally used to make a positive print on paper by enlarger or contact printing.
+
+The word derives from Greek roots meaning "light" and "drawing." Its earliest known appearance in print was in a German newspaper article of February 25, 1839; the astronomer John Herschel is also credited with coining it that year.
+
+The [[Camera obscura]] dates back to ancient China; Aristotle and Euclid described it in the 5th and 4th centuries BCE. [[Ibn al-Haytham]] gave the first correct analysis of the phenomenon and invented the first true pinhole camera. In June 1802 Thomas Wedgwood made the first known attempt to capture a camera image with a light-sensitive substance. [[Nicéphore Niépce]] made the first known permanent photograph, *View from the Window at Le Gras*, around 1826 on a bitumen-coated pewter plate. In 1839 [[Louis Daguerre]] announced the daguerreotype while William Henry Fox Talbot independently developed the calotype negative-positive system, which allowed multiple prints.
+
+[[George Eastman]] introduced roll film in 1888. Digital capture began with the [[Charge-coupled device]] in the 1960s, followed by consumer [[Digital photography]] in the 1990s. Digital manipulation and AI generation have raised debates over the authenticity of images.
+
+=== KEY: Photojournalism_60f234
+HEADWORD: Photojournalism = 포토저널리즘
+LEVEL: 4
+GLOSSARY:
+  American Civil War = 남북 전쟁
+  Civil War = 남북 전쟁
+  Crimean War = 크림 전쟁
+  Daily Graphic = 『데일리 그래픽』
+  Great Depression = 대공황
+  Illustrated London News = 『일러스트레이티드 런던 뉴스』
+  John = 존
+  Journalism = 저널리즘
+  Life = 『라이프』
+  News = 뉴스
+  Street Life in London = 『런던의 거리 생활』
+  World = 세계
+  World War II = 제2차 세계 대전
+  York = 요크
+  documentary = 다큐멘터리 사진
+  halftone = 망판
+  photo-essays = 포토 에세이
+  war photography = 전쟁 사진
+ENTRY:
+[[Journalism]] that uses images to tell a news story, usually still images but sometimes broadcast video. Unlike related forms such as documentary and war photography, it is bound by a rigid ethical framework that demands an honest, impartial approach in strictly journalistic terms. Photojournalists often decide instantly while facing physical danger, bad weather and large crowds. Roger Fenton's photographs of the [[Crimean War]] were printed in the *Illustrated London News*, and photographs of the [[American Civil War]] were engraved before publication. John Thomson's monthly *Street Life in London* (1876–77) made printed photographs the main medium for conveying information. The first halftone reproduction of a news photograph appeared in the *Daily Graphic* in New York in 1880. *Life* magazine, launched in 1936, used photo-essays to expose the hardships of the [[Great Depression]] and the atrocities of [[World War II]].
+
+=== KEY: Photometer_674d3d
+HEADWORD: Photometer = 광도계
+LEVEL: 4
+GLOSSARY:
+  Light = 빛
+  Photography = 사진
+  Photon = 광자
+  Ritchie's photometer = 리치 광도계
+  Rumford's photometer = 럼퍼드 광도계
+  Spectroscopy = 분광학
+  illuminance = 조도
+  luminance = 휘도
+  luminous flux = 광선속
+  photodiodes = 광다이오드
+  photomultipliers = 광전자 증배관
+  photoresistors = 광저항
+ENTRY:
+Instrument for measuring quantities such as luminous flux, illuminance or luminance. Early photometry relied on visual estimation, comparing the luminous flux of a source with a standard source. By 1861, three types were in common use: Rumford's photometer, which compared the depths of shadows cast by two lights; Ritchie's photometer, which compared equal illumination of surfaces; and devices based on the extinction of shadows, considered the most precise. Most modern photometers convert [[Light|light]] into an electric current with photoresistors, photodiodes or photomultipliers. Some count individual [[Photon|photons]], which suits very low light levels. Photometers determine exposure in [[Photography|photography]] and, in [[Spectroscopy|spectroscopy]], the concentration of substances in a solution.
+
+=== KEY: Photometry_astronomy_1effc3
+HEADWORD: Photometry = 측광
+LEVEL: 4
+GLOSSARY:
+  Apparent magnitude = 겉보기 등급
+  Astronomical object = 천체
+  Differential photometry = 차등 측광
+  Flux = 선속
+  Nebula = 성운
+  Photometer = 광도계
+  Surface = 서피스
+  Surface photometry = 표면 측광
+  Telescope = 망원경
+  UBV system = UBV 측광계
+  Variable star = 변광성
+  apparent magnitude = 겉보기 등급
+  arcsecond = 각초
+  light curve = 광도 곡선
+  photometric system = 측광계
+ENTRY:
+Astronomical technique for measuring the [[Flux|flux]] or intensity of light from [[Astronomical object|celestial objects]]. Electronic [[Photometer|photometers]] used with a [[Telescope|telescope]] are calibrated against standard stars of known intensity and color to measure the [[Apparent magnitude|apparent magnitude]] of objects. Observations use standard filters that define a photometric system, such as the UBV system. Differential photometry compares a target with nearby stars, and a plot of magnitude against time produces a light curve, which reveals the physical processes behind changes in the brightness of [[Variable star|variable stars]]. Precision photoelectric photometers can measure starlight to around 0.001 magnitude. Surface photometry measures the brightness of extended objects such as [[Nebula|nebulae]] in magnitudes per square arcsecond. CCD cameras have largely replaced photoelectric photometers, which remain useful where fine time resolution is needed.
+
+=== KEY: Photon_fd22b6
+HEADWORD: Photon = 광자
+LEVEL: 3
+GLOSSARY:
+  Albert = 앨버트
+  Albert Einstein = 알베르트 아인슈타인
+  Boson = 보손
+  C. V. Raman = C. V. 라만
+  Einstein = 아인슈타인
+  Elementary = 「엘리멘트리」
+  Elementary particle = 기본 입자
+  Gilbert = 길버트 제도
+  Gilbert N. Lewis = 길버트 N. 루이스
+  Laser = 레이저
+  Max Planck = 막스 플랑크
+  Photon = 광자
+  Photons = 광자
+  Planck = 플랑크 위성
+  Planck constant = 플랑크 상수
+  Suri = 수리
+  Suri Bhagavantam = 수리 바가반탐
+  Wave–particle duality = 파동-입자 이중성
+  angular momentum = 각운동량
+  circular polarization = 원편광
+  electromagnetic field = 전자기장
+  electromagnetic force = 전자기력
+  field = 장
+  field theory = 장 이론
+  photoelectric effect = 광전 효과
+  quantum cryptography = 양자 암호
+  quantum field = 양자장
+  quantum field theory = 양자장론
+  quantum state = 양자 상태
+  radio waves = 전파
+  rest mass = 정지 질량
+  spin angular momentum = 스핀 각운동량
+ENTRY:
+Elementary particle that is a quantum of the electromagnetic field, including light and radio waves, and the force carrier of the electromagnetic force.
+
+Photons are massless and can move at only one speed in a vacuum, the speed of light. The photon belongs to the class of [[Boson|bosons]]. Photons exhibit [[Wave–particle duality|wave–particle duality]], behaving as both waves and particles.
+
+The modern concept originated in the first two decades of the 20th century with the work of [[Albert Einstein]], who built on the research of [[Max Planck]]. Planck proposed that the energy stored in a material object is composed of an integer number of discrete, equal-sized parts. To explain the photoelectric effect, Einstein introduced the idea that light itself is made of discrete units of energy. In 1926 [[Gilbert N. Lewis]] popularized the term *photon* for these units. The concept has led to advances including [[Laser|lasers]], Bose–Einstein condensation, quantum field theory, and quantum cryptography.
+
+The photon has no electric charge, is generally considered to have zero rest mass, and is stable. The experimental upper limit on its mass is on the order of 10⁻⁵³ g, and its lifetime would be more than 10¹⁸ years. Photons obey Bose–Einstein statistics, so more than one can occupy the same quantum state.
+
+Photon energy is proportional to frequency (*E* = *h*ν, where *h* is the Planck constant), and its energy and momentum are related by *E* = *pc*. A photon carries spin angular momentum of either +ħ or −ħ, corresponding to the two pure states of circular polarization; its independence from frequency was verified experimentally by [[C. V. Raman]] and Suri Bhagavantam in 1931. Collision of a particle with its antiparticle creates at least two photons.
+
+=== KEY: Photosynthesis_3d0794
+HEADWORD: Photosynthesis = 광합성
+LEVEL: 3
+GLOSSARY:
+  ATP = ATP
+  Archaea = 고균
+  Calvin = 칼뱅
+  Calvin cycle = 캘빈 회로
+  Carbon dioxide = 이산화 탄소
+  Chlorophyll = 엽록소
+  Chloroplast = 엽록체
+  Cyanobacteria = 남세균
+  Earth = 지구
+  Halobacterium = 할로박테리움
+  Jan Ingenhousz = 얀 잉엔하우스
+  NADPH = NADPH
+  Purple bacteria = 홍색세균
+  anoxygenic photosynthesis = 비산소 광합성
+  hydrogen sulfide = 황화 수소
+  light-dependent reactions = 명반응
+  light-independent reactions = 암반응
+  organic compounds = 유기 화합물
+  oxygenation of the Earth = 대산화 사건
+  oxygenic photosynthesis = 산소 발생 광합성
+  reaction centers = 반응 중심
+  retinal = 레티날
+  ribulose bisphosphate = 리불로스 2인산
+ENTRY:
+Biological process by which photopigment-bearing organisms, such as most plants, algae, and [[Cyanobacteria|cyanobacteria]], convert light energy, typically from sunlight, into chemical energy.
+
+The term usually refers to oxygenic photosynthesis, which releases oxygen as a byproduct of water splitting. The converted energy is stored in the bonds of organic compounds, typically carbohydrates such as glucose, starches, and cellulose. It maintains the oxygen content of Earth's atmosphere and supplies most of the biological energy necessary for complex life.
+
+The process begins when light energy is absorbed by reaction centers, proteins containing photosynthetic pigments. In plants these pigments are [[Chlorophyll|chlorophylls]], which absorb the red and blue spectra and so reflect green, held inside [[Chloroplast|chloroplasts]] in leaf cells. In the light-dependent reactions, energy is used to strip electrons from water, producing oxygen gas, and to create NADPH and ATP. In the light-independent reactions, called the Calvin cycle, atmospheric [[Carbon dioxide|carbon dioxide]] is incorporated into existing organic compounds such as ribulose bisphosphate and reduced to carbohydrates.
+
+Some organisms perform anoxygenic photosynthesis, which produces no oxygen. Purple bacteria split hydrogen sulfide, releasing sulfur instead. Archaea such as *Halobacterium* use retinal to absorb green light and power ATP synthesis; this form might have been the earliest to evolve.
+
+The first photosynthetic organisms probably used hydrogen or hydrogen sulfide rather than water. Cyanobacteria appeared later, and the excess oxygen they produced contributed directly to the oxygenation of the Earth. Global photosynthesis captures energy at an average rate of approximately 130 terawatts, about eight times the total power consumption of human civilization. Jan Ingenhousz discovered photosynthesis in 1779, showing that plants need light, not just soil and water.
+
+=== KEY: Phrase_cb27b6
+HEADWORD: Phrase = 구
+LEVEL: 4
+GLOSSARY:
+  Linguistics = 언어학
+  Noun = 명사
+  Sentence (linguistics) = 문장
+  Syntax = 통사론
+  Verb = 동사
+  adjective phrase = 형용사구
+  constituency = 구성 성분
+  dependency = 의존
+  noun phrase = 명사구
+  phrasemes = 관용 표현
+  verb phrase = 동사구
+ENTRY:
+Group of one or more words functioning as a grammatical unit within a larger structure, such as a [[Sentence (linguistics)|sentence]]. A phrase can be a single word or a complete sentence. In "the squirrel is very happy," "the squirrel" is a [[Noun|noun]] phrase and "is very happy" a [[Verb|verb]] phrase, with "very happy" an adjective phrase. In most theories of [[Syntax|syntax]], a phrase is any group of words that plays a particular role in a sentence, whether or not it has special meaning. In common usage, a phrase is usually an idiom or fixed expression, such as "kick the bucket"; in [[Linguistics|linguistics]], these are called phrasemes. A phrase whose head is a noun is called a noun phrase. Theories of syntax differ in which word combinations count as phrases, and constituency and dependency trees can identify different numbers of phrases in the same sentence.
+
+=== KEY: Phrygia_308d1f
+HEADWORD: Phrygia = 프리기아
+LEVEL: 4
+GLOSSARY:
+  Alexander the Great = 알렉산드로스 대왕
+  Anatolia = 아나톨리아
+  Assyria = 아시리아
+  Byzantine = 비잔티움
+  Byzantine Empire = 비잔티움 제국
+  Cimmerians = 킴메르인
+  Gordian Knot = 고르디우스의 매듭
+  Gordias = 고르디아스
+  Gordium = 고르디온
+  Hellenistic = 헬레니즘
+  Iliad = 『일리아스』
+  Knot = 매듭
+  Lydia = 리디아
+  Midas = 미다스
+  Pergamon = 페르가몬
+  Persia = 페르시아
+  Phrygia = 프리기아
+  River = 강
+  Roman Empire = 로마 제국
+  Sangarios River = 상가리오스강
+  Seleucid Empire = 셀레우코스 제국
+  Trojan = 트로이아인
+  Trojan War = 트로이 전쟁
+  Trojans = 트로이인
+  Turkey = 튀르키예
+  Turkish = 튀르키예어
+  Urartu = 우라르투
+ENTRY:
+Ancient kingdom and civilization in west-central [[Anatolia]], centered on the Sangarios River in what is now [[Turkey]]. Legendary Phrygian kings included Gordias, whose Gordian Knot was later cut by [[Alexander the Great]], and Midas, who turned whatever he touched to gold. According to Homer's *Iliad*, Phrygians fought in the [[Trojan War]] as allies of the Trojans. Phrygian power peaked in the late 8th century BC under the historical king Midas, who dominated most of western and central Anatolia and rivaled Assyria and Urartu in the east. Cimmerians sacked the capital, Gordium, around 695 BC. Phrygia then came under [[Lydia]], Persia, Alexander and his Hellenistic successors, the [[Seleucid Empire]], Pergamon, the [[Roman Empire]] and the [[Byzantine Empire]]. Phrygians became Christian and Greek-speaking, and the name "Phrygia" passed out of use as a territorial designation after the Turkish conquest of Byzantine Anatolia.
+
+=== KEY: Phuket_province_413e61
+HEADWORD: Phuket = 푸껫
+LEVEL: 4
+GLOSSARY:
+  2004 Indian Ocean tsunami = 2004년 인도양 쓰나미
+  Andaman Sea = 안다만해
+  Bridge = 다리
+  China = 중국
+  Dutch = 네덜란드어
+  French = 프랑스어
+  India = 인도
+  Indian Ocean = 인도양
+  Ocean = 대양
+  Phang Nga province = 팡응아주
+  Phuket Island = 푸껫섬
+  Sarasin Bridge = 사라신 다리
+  Thailand = 태국
+  Tin = 주석
+  Tourism = 관광
+  Tsunami = 쓰나미
+ENTRY:
+Southern province of [[Thailand]] (pop., 2025: 432,464), consisting of Phuket Island, the country's largest island, and 32 smaller islands. Phuket lies off the west coast of mainland Thailand in the [[Andaman Sea]] and is linked to Phang Nga province by the Sarasin Bridge. At 547 sq km (211 sq mi), it is the second-smallest province in Thailand. The island lay on a historic trade route between India and China, and Portuguese, French, Dutch and English ships called there, though no European power colonized it. [[Tin|Tin]] and rubber once drove the economy, but [[Tourism|tourism]] is now its main source of income. The province has faced challenges including the [[Tsunami|2004 Indian Ocean tsunami]] and overdevelopment.
+
+=== KEY: Phylogenetics_a3c624
+HEADWORD: Phylogenetics = 계통학
+LEVEL: 4
+GLOSSARY:
+  Bayesian inference = 베이즈 추론
+  Cancer = 암
+  DNA = DNA
+  Forensic science = 법과학
+  HIV = HIV
+  Venom = 독
+  clonal evolution = 클론 진화
+  maximum likelihood = 최대 가능도
+  maximum parsimony = 최대 절약법
+  phylogenetic tree = 계통수
+  posterior distributions = 사후 분포
+ENTRY:
+Study of the evolutionary relationships among organisms, inferred from heritable traits such as [[DNA]] sequences and morphology. Phylogenetic analyses produce a phylogenetic tree, a diagram of hypothesized relationships. A rooted tree indicates a hypothetical common ancestor, while an unrooted tree makes no assumption about the direction of character change. Methods include distance-based approaches, maximum parsimony, maximum likelihood and [[Bayesian inference]], which estimates posterior distributions of trees. Phylogenetic methods are used to study the clonal evolution of tumors in [[Cancer|cancer]] research, to screen related species for useful [[Venom|venom]] traits in drug discovery, and to assess DNA evidence in [[Forensic science|forensic science]]. [[HIV]] forensics can show whether two samples are related, but it cannot alone prove transmission or its direction.
+
+=== KEY: Phylum_e9b1e7
+HEADWORD: Phylum = 문
+LEVEL: 5
+GLOSSARY:
+  Animal = 동물
+  Annelid = 환형동물
+  Botany = 식물학
+  Ernst Haeckel = 에른스트 헤켈
+  Fungus = 균류
+  Kingdom (taxonomy) = 계
+  Plant = 식물
+  Taxonomic rank = 분류 계급
+  bearded worms = 수염벌레
+  division = 문
+ENTRY:
+[[Taxonomic rank]] below [[Kingdom (taxonomy)|kingdom]] and above class. Botany traditionally uses *division* instead, although the international code for algae, fungi and plants treats the terms as equivalent. Depending on definitions, the [[Animal|animal]] kingdom contains about 32 phyla, the [[Plant|plant]] kingdom about 14 and the [[Fungus|fungus]] kingdom about eight. [[Ernst Haeckel]] coined the term in 1866 from the Greek *phylon*, meaning race or stock. As molecular studies reveal relationships, phyla are merged or split. The bearded worms, first described as a phylum in the mid-20th century, were later found to be [[Annelid|annelids]].
+
+=== KEY: Physical_chemistry_23eba5
+HEADWORD: Physical chemistry = 물리화학
+LEVEL: 3
+GLOSSARY:
+  A Course in True Physical Chemistry = 『진정한 물리화학 강의』
+  Avogadro constant = 아보가드로 상수
+  Branch = 브랜치
+  Chemical equilibrium = 화학 평형
+  Chemical kinetics = 화학 반응 속도론
+  Chemical thermodynamics = 화학 열역학
+  Chemistry = 화학
+  Colloid = 콜로이드
+  Mikhail Lomonosov = 미하일 로모노소프
+  Petersburg = 피터즈버그
+  Petersburg University = 페테르부르크 대학교
+  Physical = 「Physical」
+  Quantum chemistry = 양자화학
+  Spectroscopy = 분광학
+  Statistical mechanics = 통계 역학
+  Thermodynamics = 열역학
+  True = 『True』
+  University = 대학
+  chemical physics = 화학 물리학
+  electromagnetic radiation = 전자기 복사
+  physical chemistry = 물리 화학
+  quantum mechanics = 양자역학
+  tensile strength = 인장 강도
+  transition states = 전이 상태
+ENTRY:
+Branch of chemistry that studies macroscopic and microscopic phenomena in chemical systems in terms of the principles of physics, such as motion, energy, force, time, [[Thermodynamics]], [[Quantum chemistry]], [[Statistical mechanics]], and [[Chemical equilibrium|chemical equilibria]].
+
+In contrast to chemical physics, it is predominantly, but not always, a supra-molecular science, since most of its founding principles concern bulk matter rather than molecular or atomic structure alone, as in [[Colloid|colloids]]. It studies, for example, how intermolecular forces affect plasticity, tensile strength, and surface tension.
+
+A key concept is that chemical compounds can be described as groups of atoms bonded together and reactions as the making and breaking of those bonds. Predicting the properties of compounds from their atoms and bonds is a major goal. Quantum chemistry applies quantum mechanics to determine how strong and what shape bonds are, how nuclei move, and how light is absorbed or emitted by a compound. [[Spectroscopy]] is the related subdiscipline concerned with the interaction of electromagnetic radiation with matter. Chemical thermodynamics sets limits on how far a reaction can proceed.
+
+[[Chemical kinetics]] concerns which reactions occur and how fast. Most species must pass through transition states higher in energy than reactants or products; the higher the barrier, the slower the reaction. Statistical mechanics explains why a mixture of a very large number of particles (of the order of the Avogadro constant, 6 × 10²³) can often be described by a few variables such as pressure, temperature, and concentration.
+
+The term was coined by [[Mikhail Lomonosov]] in 1752, when he presented a lecture course titled *A Course in True Physical Chemistry* to students at Petersburg University. Modern physical chemistry originated in the 1860s to 1880s.
+
+=== KEY: Physical_cosmology_9cceb9
+HEADWORD: Physical cosmology = 물리 우주론
+LEVEL: 3
+GLOSSARY:
+  Albert Einstein = 알베르트 아인슈타인
+  Alexander Friedmann = 알렉산드르 프리드만
+  Big Bang = 빅뱅
+  Branch = 브랜치
+  Catholic = 가톨릭
+  Cepheid variable = 세페이드 변광성
+  Cepheid variable stars = 세페이드 변광성
+  Cosmic microwave background = 우주 마이크로파 배경
+  Dark energy = 암흑 에너지
+  Dark matter = 암흑 물질
+  Edwin Hubble = 에드윈 허블
+  Einstein = 아인슈타인
+  General relativity = 일반 상대성 이론
+  Georges Lemaître = 조르주 르메트르
+  Hubble = 허블
+  Hubble's law = 허블 법칙
+  Roman Catholic = 로마 가톨릭
+  cosmic microwave background = 우주 마이크로파 배경
+  cosmological constant = 우주 상수
+  dark energy = 암흑 에너지
+  dark matter = 암흑 물질
+  field = 장
+  field equations = 장 방정식
+  galaxy redshift surveys = 은하 적색 편이 탐사
+  general relativity = 일반 상대성 이론
+  general theory of relativity = 일반 상대성 이론
+  microwave background = 우주 마이크로파 배경
+  particle physics = 입자 물리학
+  plasma physics = 플라스마 물리학
+  primeval atom = 원시 원자
+  quantum mechanics = 양자역학
+  spiral nebulae = 나선 성운
+  standard model of cosmology = 표준 우주 모형
+  steady state model = 정상 우주론
+  theory of relativity = 상대성 이론
+ENTRY:
+Branch of physics concerned with modeling the universe on the basis of the laws of physics. A cosmological model gives a mathematical description of the universe's largest-scale structures and dynamics.
+
+The modern field began with [[Albert Einstein|Einstein's]] [[General relativity|general theory of relativity]], published in 1916. Believing in a static universe, Einstein added a cosmological constant to his field equations in 1917, but the resulting model proved unstable. In the early 1920s Alexander Friedmann found solutions in which the universe may expand or contract. In 1927 the Belgian Roman Catholic priest [[Georges Lemaître]] independently derived the same equations and proposed that the universe began with the "explosion" of a "primeval atom", later called the [[Big Bang]]. In 1929 [[Edwin Hubble]] used Cepheid variable stars to show that the spiral nebulae were galaxies and found that their redshift relates to their distance, a relationship now known as Hubble's law. Fred Hoyle's steady state model offered a rival explanation of the expansion, but the discovery of the [[Cosmic microwave background|cosmic microwave background]] in 1965 lent strong support to the Big Bang model.
+
+Observational advances since the 1990s, including distant supernovae and galaxy redshift surveys, led to a standard model of cosmology. It requires the universe to contain large amounts of [[Dark matter|dark matter]] and [[Dark energy|dark energy]], whose nature is not well understood, yet it gives detailed predictions in excellent agreement with many observations. Most cosmologists agree that the Big Bang theory best explains the observations, although a few researchers advocate alternative cosmologies. The field draws on particle physics, astrophysics, general relativity, quantum mechanics, and plasma physics.
+
+=== KEY: Physical_disability_2b109a
+HEADWORD: Physical disability = 신체장애
+LEVEL: 3
+GLOSSARY:
+  Epilepsy = 뇌전증
+  Hearing loss = 난청
+  Injury = 부상
+  Management = 경영학
+  Mobility impairment = 이동 장애
+  Perinatal = 주산기
+  Post-natal = 출생 후
+  Pregnancy = 임신
+  Prenatal = 출생 전
+  Sensory impairment = 감각 장애
+  Visual impairment = 시각 장애
+  Wheelchair = 휠체어
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  hearing aids = 보청기
+  medical model = 의료 모델
+  paraplegia = 하반신 마비
+ENTRY:
+Limitation on a person's physical functioning or on the ability to carry out activities such as walking or eating. The term is very broad. Examples include blindness, deafness, respiratory disorders, [[Epilepsy|epilepsy]], and some genetic disorders, and the severity of impairment and the restriction of daily activities vary widely between types. An inclusive and accessible environment may mitigate many restrictions. The [[World Health Organization]] does not differentiate between physical and mental disabilities. Estimates of significant functional limitations of all kinds put the global total at about 1.3 billion people, or 16% of the world's population.
+
+Causes are commonly divided by timing. Prenatal disabilities arise before birth from diseases or substances to which the mother was exposed during [[Pregnancy|pregnancy]], from developmental accidents in the embryo or fetus, or from genetic disorders. Perinatal disabilities arise from some weeks before birth to four weeks after it, for example through prolonged lack of oxygen, brain damage during birth, or premature birth. Post-natal disabilities may be gained at any time from accidents, [[Injury|injuries]], obesity, infection, or other illnesses; research suggests road traffic injuries are the leading cause.
+
+Mobility impairment includes limb loss or impairment, poor manual dexterity, paraplegia, and damage to one or more organs. Sensory impairment is partial or complete loss of one or more senses, most commonly [[Visual impairment|visual impairment]] and [[Hearing loss|hearing loss]]. Management depends on the condition, and pain is a significant problem for many. Assistive devices, including [[Wheelchair|wheelchairs]], walkers, canes, prosthetic limbs, hearing aids, guide dogs, screen readers, and communication devices, can counter many barriers. Debate over definition contrasts a medical model, which emphasizes physiological impairment, with accounts that stress societal barriers.
+
+=== KEY: Physical_examination_709f49
+HEADWORD: Physical examination = 신체검사
+LEVEL: 4
+GLOSSARY:
+  American Cancer Society = 미국 암 협회
+  Cancer = 암
+  Cochrane Collaboration = 코크런 연합
+  Disease = 질병
+  Society = 사회
+  overdiagnosis = 과잉 진단
+  primary care provider = 1차 진료 의사
+ENTRY:
+Medical assessment for signs of [[Disease|disease]] in a patient. The examination usually follows a series of questions about the patient's medical history, and together they help determine a diagnosis and treatment plan. Routine examinations, often called annual physicals, are performed on asymptomatic patients for screening, usually by a primary care provider such as a pediatrician or family physician, and may include laboratory tests, ultrasound or mammography. A Cochrane Collaboration meta-study found that routine annual physicals did not measurably reduce the risk of illness or death and could lead to overdiagnosis and over-treatment. The American Cancer Society recommends a cancer-related check-up annually for men and women older than 40, and every three years for those older than 20. Some employers require a checkup before hiring.
+
+=== KEY: Physical_fitness_d0eb04
+HEADWORD: Physical fitness = 체력
+LEVEL: 4
+GLOSSARY:
+  Anxiety = 불안
+  Depression (mood) = 우울
+  Exercise = 운동
+  Industrial Revolution = 산업 혁명
+  Nutrition = 영양
+  Research = 연구
+  Well-being = 웰빙
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  cardiorespiratory endurance = 심폐 지구력
+  myokines = 마이오카인
+  type 2 diabetes = 제2형 당뇨병
+ENTRY:
+State of health and [[Well-being|well-being]], including the ability to perform sports, occupational tasks and daily activities. It is generally achieved through proper [[Nutrition|nutrition]], moderate to vigorous [[Exercise|exercise]] and sufficient rest. Before the [[Industrial Revolution]], fitness meant the capacity to carry out the day's activities without undue fatigue. Health-related components include cardiorespiratory endurance, muscular strength and endurance, flexibility and body composition. Skill-related components include balance, agility, coordination, power and speed. Fitness reduces the risk of cardiovascular conditions, type 2 diabetes and several cancers, and it can help treat [[Anxiety|anxiety]] and [[Depression (mood)|depression]]. The World Health Organization recommends at least 150 minutes of moderate-intensity aerobic activity weekly for adults, plus muscle-strengthening exercise on two or more days. Research suggests that many of exercise's benefits are mediated by myokines released by contracting muscles.
+
+=== KEY: Physical_geography_6628af
+HEADWORD: Physical geography = 자연지리학
+LEVEL: 4
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred Russel Wallace = 앨프리드 러셀 월리스
+  Branch = 브랜치
+  Climatology = 기후학
+  Geography = 지리학
+  Geomorphology = 지형학
+  Human geography = 인문지리학
+  Hydrology = 수문학
+  Technical geography = 기술 지리학
+  Wallace = 월리스
+  biogeography = 생물지리학
+  biosphere = 생물권
+  built environment = 건조 환경
+  geosphere = 지권
+  glaciology = 빙하학
+  human geography = 인문 지리학
+  hydrosphere = 수권
+  ice sheets = 빙상
+ENTRY:
+Branch of [[Geography|geography]] that studies processes and patterns in the natural environment, including the atmosphere, hydrosphere, biosphere and geosphere. It contrasts with [[Human geography|human geography]], which focuses on the built environment, and [[Technical geography|technical geography]], which concerns tools for analyzing spatial information. Its sub-branches include [[Geomorphology|geomorphology]], which studies landforms and the processes that shape them; [[Hydrology|hydrology]], which concerns water on and beneath the land surface; glaciology, the study of glaciers and ice sheets; [[Climatology|climatology]], which examines weather conditions averaged over long periods; and biogeography, which studies the geographic patterns of species distribution. Biogeography emerged through the work of [[Alfred Russel Wallace]]. The subfields are united by core processes, mainly tectonic or climatic.
+
+=== KEY: Physical_therapy_5ccb40
+HEADWORD: Physical therapy = 물리 치료
+LEVEL: 4
+GLOSSARY:
+  Doctor of Physical Therapy = 물리 치료 박사
+  Geriatrics = 노인 의학
+  Neurology = 신경학
+  Pediatrics = 소아과학
+  Physical = 「Physical」
+  Therapy = 치료
+  United States = 미국
+  World = 세계
+  World War I = 제1차 세계 대전
+  electrotherapy = 전기 치료
+  manual therapy = 도수 치료
+  physiotherapy = 물리 치료
+ENTRY:
+Healthcare profession, also called physiotherapy, that promotes, maintains or restores physical function. Physical therapists treat illnesses or injuries that limit a person's ability to move, using exercise, manual therapy, traction, electrotherapy such as heat, cold and electricity, and assistive devices and prostheses. They also work to prevent loss of mobility through fitness and wellness programs. Specialties include musculoskeletal, orthopedic, cardiopulmonary, [[Neurology|neurology]], sports medicine, [[Geriatrics|geriatrics]] and [[Pediatrics|pediatrics]]. Physical therapists practice in clinics, hospitals, schools and workplaces, and in roles such as health policy and administration. The profession rose to prominence during World War I, when it rehabilitated wounded soldiers. In the United States, the Doctor of Physical Therapy degree became mandatory for entry by 2020.
+
+=== KEY: Physics_50ae99
+HEADWORD: Physics = 물리학
+LEVEL: 2
+GLOSSARY:
+  Al-Kindi = 알킨디
+  Archimedes = 아르키메데스
+  Aristotelian = 아리스토텔레스적
+  Aristotle = 아리스토텔레스
+  Atomism = 원자론
+  Avicenna = 이븐 시나
+  Book = 책
+  Book of Optics = 『광학의 서』
+  Byzantine = 비잔티움
+  Byzantine Empire = 비잔티움 제국
+  Civilization = 문명
+  Copernican model = 코페르니쿠스 모형
+  Democritus = 데모크리토스
+  Europe = 유럽
+  Greece = 그리스
+  Ibn Sahl = 이븐 사흘
+  Ibn al-Haytham = 이븐 알하이삼
+  Indus = 인더스강
+  Indus Valley = 인더스강 유역
+  Indus Valley Civilization = 인더스 문명
+  Industrial Revolution = 산업 혁명
+  Isaac = 이삭
+  Isaac Newton = 아이작 뉴턴
+  Isidore of Miletus = 밀레토스의 이시도로스
+  Islamic Golden Age = 이슬람 황금기
+  Johannes Kepler = 요하네스 케플러
+  John = 존
+  John Philoponus = 요하네스 필로포노스
+  Kepler = 케플러
+  Latin = 라틴어
+  Leibniz = 라이프니츠
+  Leucippus = 레우키포스
+  Miletus = 밀레투스
+  Moon = 달
+  Natural philosophy = 자연철학
+  Newton = 뉴턴
+  Optics = 광학
+  Physics = 물리학
+  Plato = 플라톤
+  Research = 연구
+  Roman Empire = 로마 제국
+  Scientific Revolution = 과학 혁명
+  Sumerians = 수메르인
+  Sun = 태양
+  Thales = 탈레스
+  Western Roman Empire = 서로마 제국
+  early modern = 근세
+  field = 장
+  laws of motion = 운동 법칙
+  laws of planetary motion = 행성 운동 법칙
+  nuclear physics = 핵물리학
+  pre-Socratic philosophers = 소크라테스 이전 철학자
+  prime mover = 부동의 원동자
+  quantum chemistry = 양자화학
+  solid-state physics = 고체 물리학
+  universal gravitation = 만유인력
+ENTRY:
+Scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. Physics is one of the oldest academic disciplines and one of the most fundamental sciences. Its branches include mechanics, thermodynamics, electromagnetism, and optics, as well as quantum physics, relativity, nuclear physics, astrophysics, and applied areas such as medical physics. The boundaries of the field are not rigidly defined, and it intersects with biophysics and quantum chemistry. New ideas in physics often explain the fundamental mechanisms studied by other sciences.
+
+Advances in physics often enable new technologies. Understanding of electromagnetism, solid-state physics, and nuclear physics led directly to television, computers, domestic appliances, and nuclear weapons; thermodynamics led to industrialization; and mechanics inspired the development of calculus.
+
+The word comes from the Latin *physica* ('study of nature'), borrowed from the Greek *phusikē* ('natural science'). Early civilizations before 3000 BC, such as the Sumerians, ancient Egyptians, and the Indus Valley Civilization, had predictive knowledge of the motions of the Sun, Moon, and stars. [[Natural philosophy]] began in Greece in the Archaic period (650–480 BC), when pre-Socratic philosophers such as Thales rejected non-naturalistic explanations and proclaimed that every event had a natural cause. Atomism, proposed by Leucippus and his pupil [[Democritus]], was found to be correct about 2,000 years later. [[Aristotle]], a student of Plato, wrote a substantial treatise, *Physics*, in the 4th century BC; its framework, built on four elements and a "prime mover," was influential for about two millennia but did not rely on experimental verification and is entirely superseded today.
+
+After the fall of the Western Roman Empire in the fifth century, intellectual pursuits declined in western Europe, while the Byzantine Empire continued to advance learning. In the sixth century John Philoponus challenged the Aristotelian approach, and Isidore of Miletus compiled works of Archimedes. During the Islamic Golden Age, scholars including Ibn Sahl, Al-Kindi, [[Ibn al-Haytham]], and Avicenna made notable advances in optics. In his *Book of Optics*, Ibn al-Haytham presented light rays as an alternative to the Greek idea of visual rays and used controlled experiments to verify the laws of refraction and reflection.
+
+Physics became a separate science during the [[Scientific Revolution]], when early modern Europeans used experimental and quantitative methods. Major developments included the heliocentric Copernican model, the laws of planetary motion determined by [[Johannes Kepler]] between 1609 and 1619, Galileo's work with telescopes, and [[Isaac Newton]]'s unification of the laws of motion and universal gravitation. Newton and, separately, Leibniz developed calculus. Research during the [[Industrial Revolution]], as energy needs grew, produced the laws of thermodynamics, chemistry, and electromagnetics, and by the end of the 19th century these theories matched a wide variety of observations.
+
+=== KEY: Physics_beyond_the_Standard_Model_69e32b
+HEADWORD: Physics beyond the Standard Model = 표준 모형을 넘어서는 물리학
+LEVEL: 4
+GLOSSARY:
+  Big Bang = 빅뱅
+  Dark energy = 암흑 에너지
+  Dark matter = 암흑 물질
+  General relativity = 일반 상대성 이론
+  Hadron = 강입자
+  Large Hadron Collider = 대형 강입자 충돌기
+  M-theory = M이론
+  Minimal Supersymmetric Standard Model = 최소 초대칭 표준 모형
+  Standard = 스탠더드
+  Standard Model = 표준 모형
+  String theory = 끈 이론
+  Supersymmetry = 초대칭
+  black hole = 블랙홀
+  dark energy = 암흑 에너지
+  dark matter = 암흑 물질
+  neutrino oscillations = 중성미자 진동
+  particle physics = 입자 물리학
+  strong CP problem = 강한 CP 문제
+ENTRY:
+Theories extending the [[Standard Model]] of particle physics to explain its deficiencies. The Standard Model cannot explain the strong CP problem, neutrino oscillations, matter–antimatter asymmetry, or the nature of [[Dark matter|dark matter]] and [[Dark energy|dark energy]]. It is also inconsistent with [[General relativity]], so one or both theories break down under conditions such as the Big Bang and black hole event horizons. Cosmological observations indicate that the Standard Model accounts for about 5% of the universe's mass-energy. Proposals include extensions through [[Supersymmetry]], such as the Minimal Supersymmetric Standard Model, and novel explanations such as [[String theory]], M-theory and extra dimensions. Because many of these theories reproduce current phenomena, the choice among them can only be settled by experiment, such as searches at the [[Large Hadron Collider]].
+
+=== KEY: Physiology_3e1c7e
+HEADWORD: Physiology = 생리학
+LEVEL: 3
+GLOSSARY:
+  Anatomy = 해부학
+  Ancient Greek = 고대 그리스어
+  Biochemistry = 생화학
+  Biology = 생물학
+  Claude = 클로드
+  Claude Bernard = 클로드 베르나르
+  Disease = 질병
+  Genetics = 유전학
+  Homeostasis = 항상성
+  Human = 인간
+  Medicine = 의학
+  Nobel Prize = 노벨상
+  Nobel Prize in Physiology or Medicine = 노벨 생리학·의학상
+  Photosynthesis = 광합성
+  Physiology = 생리학
+  Physiology or Medicine = 생리학·의학
+  Plant = 식물
+  evolutionary biology = 진화생물학
+  field = 장
+  milieu intérieur = 내부 환경
+  tropisms = 굴성
+ENTRY:
+Scientific study of the functions and mechanisms of living systems. The name comes from the Ancient Greek *phusis* ('nature, origin') and *-logia* ('study of'). As a subdiscipline of [[Biology|biology]], physiology focuses on how organisms, organ systems, individual organs, cells, and biomolecules carry out chemical and physical functions. By the class of organism studied, it divides into medical, animal, plant, cell, and comparative physiology.
+
+Central to physiological functioning are biophysical and biochemical processes, homeostatic control mechanisms, and communication between cells. Physiological state is the condition of normal function, in contrast to a pathological state, which includes human [[Disease|diseases]]. Homeostasis, the self-regulating preservation of internal stability, traces to [[Claude Bernard]]'s formulation of the *milieu intérieur*, the internal environment whose constancy ensures survival.
+
+The field rests on several disciplines. [[Anatomy]] supplies knowledge of structure, which often dictates function; [[Biochemistry|biochemistry]] explains cellular and molecular processes; biophysics explains how organisms sense and respond to stimuli such as light, sound, and temperature; [[Genetics|genetics]] shows the genetic basis of physiological processes; and evolutionary biology explains their adaptive significance.
+
+Plant physiology, a subdiscipline of botany, covers the functioning of plants, including [[Photosynthesis|photosynthesis]], respiration, plant nutrition, tropisms, circadian rhythms, seed germination, dormancy, and stomata function and transpiration. Human physiology studies how the body's systems, among them the nervous, endocrine, cardiovascular, respiratory, digestive, and urinary systems, work together to maintain a stable internal environment. Understanding of the field underpins the diagnosis and treatment of health conditions and informs exercise science, ecology, and biotechnology. The Nobel Prize in Physiology or Medicine recognizes exceptional achievements in physiology related to medicine.
+
+=== KEY: Pi_127125
+HEADWORD: Pi = 원주율
+LEVEL: 3
+GLOSSARY:
+  Archimedes = 아르키메데스
+  Calculus = 미적분학
+  Circle = 원
+  Euler = 오일러
+  Ferdinand = 페르디난트
+  Ferdinand von Lindemann = 페르디난트 폰 린데만
+  Irrational number = 무리수
+  Johann Heinrich Lambert = 요한 하인리히 람베르트
+  Karl Weierstrass = 카를 바이어슈트라스
+  Leonhard Euler = 레온하르트 오일러
+  Trigonometry = 삼각법
+  William = 윌리엄
+  William Jones = 윌리엄 존스
+  compass and straightedge = 자와 컴퍼스
+  infinite series = 무한급수
+  irrational number = 무리수
+  number theory = 수론
+  squaring the circle = 원적 문제
+  transcendental = 초월수
+ENTRY:
+Mathematical constant, approximately 3.14159, equal to the ratio of a [[Circle|circle's]] circumference to its diameter. It is written with the lowercase Greek letter π, a symbol introduced by the Welsh mathematician William Jones in 1706 and popularized by [[Leonhard Euler]]. The constant appears in many formulas across mathematics and physics, and some of these are used to define it, for example [[Karl Weierstrass]]'s 1841 definition as an integral.
+
+Pi is an [[Irrational number|irrational number]], so it cannot be written exactly as a ratio of two integers, although fractions such as 22/7 and 355/113 are commonly used to approximate it. Johann Heinrich Lambert proved its irrationality in 1761. Pi is also transcendental, meaning it is not a solution of an algebraic equation involving only finite sums, products, powers, and integers, as Ferdinand von Lindemann showed in 1882. This implies that the ancient problem of squaring the circle with a compass and straightedge cannot be solved.
+
+Around 250 BC [[Archimedes]] devised an algorithm that approximates pi with arbitrary accuracy. In the 5th century AD, Chinese mathematicians approximated it to seven digits and Indian mathematicians to five. The first computational formula based on infinite series was discovered about a millennium later. The development of [[Calculus|calculus]] in the 17th century soon led to the calculation of hundreds of digits, enough for all practical scientific computations, and computers have since extended the decimal representation to hundreds of trillions of digits.
+
+Because it relates to the circle, pi appears in [[Trigonometry|trigonometry]] and geometry, especially in formulas for circles, ellipses, and spheres. It is also found in cosmology, fractals, thermodynamics, mechanics, electromagnetism, number theory, and statistics.
+
+=== KEY: Piano_060e8e
+HEADWORD: Piano = 피아노
+LEVEL: 4
+GLOSSARY:
+  Bartolomeo Cristofori = 바르톨로메오 크리스토포리
+  Florence = 피렌체
+  Harpsichord = 하프시코드
+  Jazz = 재즈
+  Keyboard instrument = 건반 악기
+  Western world = 서양
+  equal temperament = 평균율
+  fortepiano = 포르테피아노
+  grand piano = 그랜드 피아노
+  upright piano = 업라이트 피아노
+ENTRY:
+[[Keyboard instrument]] in which felt-covered hammers strike strings when keys are pressed. Modern pianos have 88 keys tuned to equal temperament. The two main types are the grand piano, which offers better sound and key control, and the upright piano, which is smaller, cheaper and more commonly used. Most notes have three strings, and sustain pedals lift the dampers so that notes continue to sound. Invented around 1700 in Florence by [[Harpsichord|harpsichord]] maker Bartolomeo Cristofori, the early *fortepiano* allowed gradations of volume according to the force of touch. In the 19th century, a cast-iron frame allowed much greater string tension, giving grand pianos a more powerful sound and a longer sustain. The piano is widely used in classical, [[Jazz|jazz]] and popular music, and it is a familiar instrument in the Western world.
+
+=== KEY: Piano_sonatas_Beethoven_381d34
+HEADWORD: Piano sonatas = 피아노 소나타
+LEVEL: 4
+GLOSSARY:
+  Beethoven = 베토벤
+  Hans von Bülow = 한스 폰 뷜로
+  Haydn = 하이든
+  Joseph Haydn = 요제프 하이든
+  Ludwig = 루트비히
+  Ludwig van Beethoven = 루트비히 판 베토벤
+  Mozart = 모차르트
+  Old Testament = 구약 성경
+  The Well-Tempered Clavier = 『평균율 클라비어곡집』
+  sonata form = 소나타 형식
+ENTRY:
+Set of 32 mature works for piano by [[Ludwig van Beethoven]], written between 1795 and 1822. Beethoven also wrote three sonatas at age 13, in 1782–83, which are usually excluded from the set. As a set, the sonatas comprise one of the most important collections in the history of music. They came to be seen as the first cycle of major piano pieces suited to both private and public performance. Hans von Bülow called them "The New Testament" of piano literature, with Johann Sebastian Bach's *The Well-Tempered Clavier* as the "Old Testament". The early sonatas were influenced by [[Joseph Haydn|Haydn]] and Mozart. The middle and late sonatas grew more daring in form and expression, and after the 20th sonata, published in 1805, Beethoven issued each new sonata as a single opus. The late sonatas incorporate fugal technique and depart radically from conventional sonata form.
+
+=== KEY: Pica_disorder_dea829
+HEADWORD: Pica = 이식증
+LEVEL: 5
+GLOSSARY:
+  Autism = 자폐증
+  DSM-5 = DSM-5
+  Eating disorder = 섭식 장애
+  Eurasian = 유라시아판
+  Eurasian magpie = 까치
+  Latin = 라틴어
+  Lead = 납
+  lead poisoning = 납 중독
+ENTRY:
+[[Eating disorder]] involving compulsive craving or consumption of objects not normally intended as food. The term comes from the [[Latin]] word for the [[Eurasian magpie]], a bird known for opportunistic feeding. Under the DSM-5, standalone pica must persist for more than one month at a developmentally inappropriate age. It is most common in pregnant women, small children and people with developmental disorders such as [[Autism|autism]]. Complications include [[Lead|lead]] poisoning from paint, intestinal obstruction and infections from feces or soil. Pica is strongly associated with iron and zinc deficiency, and it often remits spontaneously in children and during pregnancy.
+
+=== KEY: Pickleball_b69c24
+HEADWORD: Pickleball = 피클볼
+LEVEL: 5
+GLOSSARY:
+  Bainbridge Island = 베인브리지섬
+  Racket = 래킷
+  Sports and Fitness Industry Association = 스포츠 피트니스 산업 협회
+  Tennis = 테니스
+  United States = 미국
+  Washington = 워싱턴주
+  Washington (state) = 워싱턴주
+  kitchen = 키친
+  non-volley zone = 논발리 존
+ENTRY:
+Racket sport in which two or four players hit a perforated plastic ball over a net with smooth-faced paddles. It was invented in 1965 as a children's backyard game on Bainbridge Island, [[Washington (state)|Washington]], and became the state's official sport in 2022. A player in the 7-foot non-volley zone, called the kitchen, may not strike the ball before it has bounced. Serves are underhand. The sport was the fastest-growing in the United States from 2021 through 2024. The Sports and Fitness Industry Association reported 24.3 million American players in 2025. More than 90% of professional players have a background in [[Tennis]].
+
+=== KEY: Pickled_cucumber_96a6ed
+HEADWORD: Pickled cucumber = 오이 피클
+LEVEL: 5
+GLOSSARY:
+  Brine = 소금물
+  Cucumber = 오이
+  Europe = 유럽
+  Tigris = 티그리스강
+  Tigris Valley = 티그리스강 유역
+  United States = 미국
+  Vinegar = 식초
+  World = 세계
+  World War II = 제2차 세계 대전
+  gherkin = 거킨
+  lactobacilli = 젖산균
+ENTRY:
+Usually small [[Cucumber|cucumber]] preserved in [[Brine|brine]] or [[Vinegar|vinegar]] and left to ferment. It is commonly called a pickle in the [[United States]] and a gherkin in Britain. Brined pickles are fermented by lactobacilli that occur naturally on the cucumber's skin, in brine containing 20–40 grams of salt per liter. Pickled cucumbers were being made in the Tigris Valley around 2030 BC, and the U.S. government allocated 40% of the nation's pickle production to the armed forces during World War II. Pickled cucumbers are highly popular in the United States and are a delicacy in northern and eastern [[Europe]].
+
+=== KEY: Pickling_e756bc
+HEADWORD: Pickling = 절임
+LEVEL: 4
+GLOSSARY:
+  Brine = 소금물
+  Canning = 통조림 제조
+  Lactic acid = 젖산
+  Lactobacillus = 락토바실루스
+  Lactobacillus plantarum = 락토바실루스 플란타룸
+  Leuconostoc mesenteroides = 류코노스톡 메센테로이데스
+  Mesopotamia = 메소포타미아
+  Persia = 페르시아
+  Pickling = 절임
+  Salt = 소금
+  Vinegar = 식초
+  lactic acid = 젖산
+ENTRY:
+Process of preserving food by anaerobic fermentation in [[Brine|brine]] or immersion in [[Vinegar|vinegar]]. Pickling usually alters a food's texture and flavor. Pickling solutions are typically highly acidic, with a pH of 4.6 or lower, and high in salt, which prevents enzymes and most microorganisms from acting. Pickled food can last for months or years, and pickling does not require the complete sterility that [[Canning|canning]] does. Salt and temperature determine which bacteria dominate: at low salt and temperature *Leuconostoc mesenteroides* predominates, while at higher temperatures *Lactobacillus plantarum* produces mainly [[Lactic acid|lactic acid]]. Pickling with vinegar likely originated in ancient Persia and Mesopotamia around 2400 BCE. It was used to preserve food for long sea voyages and out-of-season use. The English word pickle first appears around 1400.
+
+=== KEY: Pie_996589
+HEADWORD: Pie = 파이
+LEVEL: 4
+GLOSSARY:
+  Barley = 보리
+  Bolton Priory = 볼턴 수도원
+  Europe = 유럽
+  Fruit preserves = 과일 잼
+  Marcus Porcius Cato = 마르쿠스 포르키우스 카토
+  Pastry = 페이스트리
+  Romans = 로마인
+  Sumer = 수메르
+  Wheat = 밀
+  Yorkshire = 요크셔
+  placenta = 플라켄타
+ENTRY:
+Baked dish made of a [[Pastry|pastry]] casing that contains a sweet or savory filling. Sweet pies may be filled with fruit, nuts, [[Fruit preserves|fruit preserves]] or custard, while savory pies may contain meat, eggs and cheese, or a mixture of meat and vegetables. A pie may have a pastry top and base, or only one. The English word first appears in 1303 in the expense accounts of Bolton Priory in [[Yorkshire]]. Early pies were crusty cakes of ground [[Wheat|wheat]] or [[Barley|barley]], containing honey. A recipe for chicken pie, written on a tablet in [[Sumer]], predates 2000 BC. The Romans covered meats with a plain pastry that was not meant to be eaten. By 160 BC, Marcus Porcius Cato described *placenta*, a pie resembling a cheesecake on a pastry base. With the Roman road network, pie cooking spread throughout [[Europe]].
+
+=== KEY: Pied_Piper_of_Hamelin_aa1957
+HEADWORD: Pied Piper of Hamelin = 하멜른의 피리 부는 사나이
+LEVEL: 5
+GLOSSARY:
+  Europe = 유럽
+  German = 독일어
+  Hamelin = 하멜른
+  John = 존
+  Middle Ages = 중세
+  Rat = 쥐
+  River = 강
+  St. John = 성 요한
+  St. John and Paul's day = 성 요한과 바오로 축일
+  Transylvania = 트란실바니아
+  Weser River = 베저강
+  guilders = 길더
+  pied piper = 피리 부는 사나이
+ENTRY:
+German legend about a piper who leads the children of Hamelin away. The town, plagued by [[Rat|rats]], hires a piper in multicolored ("pied") clothing, who lures the rats into the Weser River. When the mayor refuses to pay the promised 1,000 guilders, the piper returns on St. John and Paul's day and leads away 130 children into a mountain cave. Other versions have them drowned in the river or taken to Transylvania. Some scholars see a record of eastward emigration during [[Middle Ages|medieval]] colonization of eastern Europe. The phrase "pied piper" describes someone who attracts followers through charisma or false promises.
+
+=== KEY: Piedmont_deb651
+HEADWORD: Piedmont = 피에몬테
+LEVEL: 5
+GLOSSARY:
+  Alps = 알프스산맥
+  Aosta Valley = 발레다오스타
+  Barolo = 바롤로
+  Emilia-Romagna = 에밀리아로마냐주
+  France = 프랑스
+  Italian unification = 이탈리아 통일
+  Italy = 이탈리아
+  Kingdom of Italy = 이탈리아 왕국
+  Kingdom of Sardinia = 사르데냐 왕국
+  Latin = 라틴어
+  Liguria = 리구리아주
+  Lombardy = 롬바르디아
+  Medieval Latin = 중세 라틴어
+  Piedmont = 피에몬테
+  Sicily = 시칠리아
+  Switzerland = 스위스
+  Turin = 토리노
+  Wine = 포도주
+ENTRY:
+Region of northwestern Italy (pop., 2026: 4,255,006), second in area only to [[Sicily]]. Covering 25,387.07 sq km, it borders France and Switzerland to the west and north, and the regions of Liguria, Lombardy, Emilia-Romagna and Aosta Valley. Its capital, [[Turin]], was the first capital of the [[Kingdom of Italy]], from 1861 to 1865. The name derives from Medieval Latin for "at the foot of the mountains," referring to the [[Alps]]. Piedmont was the heartland of the Savoy-led Kingdom of Sardinia and a springboard for Italian unification in 1859–61. Its hills produce renowned [[Wine|wines]], including Barolo.
+
+=== KEY: Pier_0c7692
+HEADWORD: Pier = 잔교
+LEVEL: 4
+GLOSSARY:
+  American English = 미국 영어
+  Australia = 오스트레일리아
+  Boat = 보트
+  Cargo = 화물
+  Cast iron = 주철
+  Dock = 부두
+  Europe = 유럽
+  Fishing = 어업
+  North America = 북아메리카
+  Victorian = 빅토리아 시대
+  pleasure pier = 유원 잔교
+  quays = 안벽
+ENTRY:
+Raised structure that juts out from a shore over a body of water, usually supported by piles or pillars. Piers provide above-water access to offshore areas for [[Fishing|fishing]], [[Boat|boat]] docking, the loading of passengers and [[Cargo|cargo]], and oceanside recreation. Their open structure lets tides and currents flow relatively unhindered. Piers range from simple lightweight wooden structures to major structures extended over 1,600 m (5,200 ft).
+
+The term has regional nuances. In [[North America]] and [[Australia]], where many ports were built on the multiple pier model until recently, it usually implies a current or former cargo-handling facility. In Europe, where ports more often use basins and river-side quays, it is principally associated with the Victorian [[Cast iron|cast iron]] pleasure pier that emerged in Great Britain in the early 19th century. In American English, a pier may be synonymous with a [[Dock|dock]].
+
+=== KEY: Pier_Paolo_Pasolini_e9b855
+HEADWORD: Pasolini, Pier Paolo = 파솔리니, 피에르 파올로
+LEVEL: 5
+GLOSSARY:
+  Banda della Magliana = 반다 델라 말랴나
+  Gospel = 복음서
+  Italy = 이탈리아
+  Marxist = 마르크스주의
+  Ostia = 오스티아
+  Recent = 현세
+  Rome = 로마
+  Taboo = 금기
+  The Gospel According to St. Matthew = 「마태복음」
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+Italian poet, writer, and film director, known for *The Gospel According to St. Matthew* and *Salò, or the 120 Days of Sodom*. Openly homosexual, he became an avowed Marxist after [[World War II]] and remained a controversial figure whose legacy is contentious. His films combined socio-political polemic with graphic examination of [[Taboo|taboo]] sexual activity. He was a prominent figure of the [[Rome]] intellectual scene. He was murdered at Ostia in November 1975, and the killing prompted an outcry in Italy. Recent leads by cold case investigators suggest a contract killing by the Banda della Magliana, a criminal organization.
+
+=== KEY: Pierce_Brosnan_2f3683
+HEADWORD: Brosnan, Pierce = 브로스넌, 피어스
+LEVEL: 5
+GLOSSARY:
+  Beau St. Clair = 보 세인트클레어
+  Bond = 본드
+  Hollywood = 할리우드
+  Hollywood Walk of Fame = 할리우드 명예의 거리
+  Irish = 아일랜드어
+  Irish DreamTime = 아이리시 드림타임
+  James = 야고보
+  James Bond = 제임스 본드
+  James Bond (literary character) = 제임스 본드
+  Mrs. Doubtfire = 「미세스 다웃파이어」
+  Remington Steele = 「레밍턴 스틸」
+  The Lawnmower Man = 「론머 맨」
+  Walk of Fame = 명예의 거리
+ENTRY:
+Irish actor and film producer. He achieved worldwide fame playing [[James Bond (literary character)|James Bond]] in four films from 1995 to 2002. He rose to popularity in the television series *Remington Steele* (1982–1987), and his films include *The Lawnmower Man* (1992), *Mrs. Doubtfire* (1993), and *Mamma Mia!* (2008). In 1996 he and American film producer Beau St. Clair founded the production company Irish DreamTime. He received a star on the [[Hollywood Walk of Fame]] in 1997 for his contributions to the film industry, and he is known for charitable work and environmental activism.
+
+=== KEY: Pieris_brassicae_14e47f
+HEADWORD: Pieris brassicae = 큰배추흰나비
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Butterfly = 나비
+  Europe = 유럽
+  Himalayas = 히말라야산맥
+  Larva = 애벌레
+  Moulting = 탈피
+  Nelson = 넬슨
+  New Zealand = 뉴질랜드
+  North Africa = 북아프리카
+  Pieridae = 흰나비과
+  Pieris rapae = 배추흰나비
+  South Africa = 남아프리카 공화국
+  Zealand = 셸란섬
+  cabbage butterfly = 배추흰나비
+  instars = 영기
+  large white = 큰배추흰나비
+  small white = 배추흰나비
+ENTRY:
+Butterfly in the family Pieridae, also called the large white or cabbage butterfly. It is a close relative of the small white, *Pieris rapae*, and is common throughout Europe, North Africa, and Asia to the [[Himalayas|Himalayas]], often in agricultural areas, meadows, and parkland. The wings are white with black tips on the forewings, and the wingspan reaches 5 to 6.5 cm on average. [[Larva|Larvae]] go through four [[Moulting|molts]] and five instars, and the third instar causes significant damage to host plants. The species established a population in South Africa. In 2010 it was found in Nelson, New Zealand, where it was classed as an unwanted pest. After a public capture campaign and over 263,000 searches, it was officially declared eradicated from New Zealand as of December 2014.
+
+=== KEY: Pierogi_8c9b64
+HEADWORD: Pierogi = 피에로기
+LEVEL: 5
+GLOSSARY:
+  Canada = 캐나다
+  Marco Polo = 마르코 폴로
+  Polo = 폴로
+  Proto-Slavic = 슬라브 조어
+  Silk = 비단
+  Silk Road = 실크로드
+  United States = 미국
+  mantou = 만터우
+  pieróg = 피에루크
+  tvorog = 트보로그
+ENTRY:
+Filled dumpling, a traditional Polish dish made by wrapping unleavened dough around a filling and boiling it. Typical fillings include potato and tvorog cheese, sauerkraut, or meat. The recipe dates back to at least 1682, when Poland's first cookbook, *Compendium ferculorum, albo Zebranie potraw*, was published. The Polish word is the plural of *pieróg*, derived from Proto-Slavic *pirъ*, meaning "feast". Some claim that [[Marco Polo]] spread the dumplings along the [[Silk Road]], suggesting a link to Chinese *mantou*, but their origin is unknown and debated. Pierogi are also popular in [[Canada]] and the [[United States]].

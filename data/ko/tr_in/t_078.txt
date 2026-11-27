@@ -1,0 +1,969 @@
+=== KEY: Corpus_Juris_Civilis_67b992
+HEADWORD: Corpus Juris Civilis = 로마법 대전
+LEVEL: 4
+GLOSSARY:
+  Basilika = 『바실리카 법전』
+  Byzantine = 비잔티움
+  Byzantine law = 비잔티움법
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Church = 처치
+  Civil law (legal system) = 대륙법
+  Codex = 코덱스
+  Common law = 보통법
+  Constantinople = 콘스탄티노폴리스
+  Digest = 『학설휘찬』
+  Europe = 유럽
+  Institutes = 『법학제요』
+  Justinian = 유스티니아누스
+  Justinian I = 유스티니아누스 1세
+  Latin = 라틴어
+  Novellae Constitutiones = 『신칙법』
+  Pandects = 『판덱텐』
+  Tribonian = 트리보니아누스
+  Western Europe = 서유럽
+  canon law = 교회법
+ENTRY:
+Collection of Roman legal works, enacted 529–534 by order of [[Justinian I]]. It comprised the *Codex*, a compilation of imperial enactments; the *Digest* or *Pandects*, extracts from the writings of Roman jurists; and the *Institutes*, a student textbook. All three were given force of law and were intended as the sole source of law. Later imperial laws, the *Novellae Constitutiones*, are counted as a fourth part. The work was directed by Tribonian in [[Constantinople]] and composed almost entirely in Latin. Revised into Greek, it formed the basis of Byzantine law through the *Basilika* until the 15th century. Rediscovered in medieval Western Europe, it became the foundation of law in all [[Civil law (legal system)|civil law]] jurisdictions and influenced the canon law of the [[Catholic Church]]. Its influence on [[Common law]] systems was less marked.
+
+=== KEY: Correlation_5f750c
+HEADWORD: Correlation = 상관관계
+LEVEL: 4
+GLOSSARY:
+  Cauchy = 코시
+  Cauchy–Schwarz inequality = 코시-슈바르츠 부등식
+  Correlation = 상관관계
+  Covariance = 공분산
+  Francis = 프랑수아
+  Francis Galton = 프랜시스 골턴
+  Karl Pearson = 칼 피어슨
+  Pearson = 피어슨
+  Pearson product-moment correlation coefficient = 피어슨 곱적률 상관 계수
+  Random variable = 확률 변수
+  Spearman's rank correlation = 스피어먼 순위 상관 계수
+  Standard deviation = 표준 편차
+  correlation coefficient = 상관 계수
+  dependence = 종속성
+  independent variables = 독립 변수
+  standard deviations = 표준 편차
+ENTRY:
+Statistical relationship between two [[Random variable|random variables]], usually a linear one. The most common measure is the Pearson product-moment correlation coefficient, denoted ρ or r. It is the [[Covariance|covariance]] of two variables divided by the product of their [[Standard deviation|standard deviations]], ranging from −1 to +1. Pearson's coefficient is sensitive only to linear relationships, which may be present even when one variable is a nonlinear function of the other. [[Karl Pearson]] developed it from a similar idea by [[Francis Galton]]. Spearman's rank correlation is more robust and detects less structured relationships.
+
+Correlation is not the same as dependence: independent variables are uncorrelated, but uncorrelated variables may still be dependent. A correlation alone does not indicate causation, yet correlations are useful for prediction: an electric utility, for example, produces less power on a mild day. The absolute value of Pearson's coefficient cannot exceed 1, a corollary of the [[Cauchy–Schwarz inequality]].
+
+=== KEY: Corrosion_15631a
+HEADWORD: Corrosion = 부식
+LEVEL: 4
+GLOSSARY:
+  Corrosion = 부식
+  Diffusion = 확산
+  Iron = 철
+  Metal = 금속
+  Oxygen = 산소
+  Paint = 페인트
+  Rust = 녹
+  Stainless steel = 스테인리스강
+  Zinc = 아연
+  anode = 양극
+  aqueous solution = 수용액
+  chromium = 크로뮴
+  electrolyte = 전해질
+  galvanic corrosion = 갈바니 부식
+  oxidant = 산화제
+  passive oxide layers = 부동태 산화막
+  sacrificial anode = 희생 양극
+ENTRY:
+Gradual deterioration of materials, usually [[Metal|metals]], by chemical or electrochemical reaction with their environment. In its most common form, a metal is oxidized by an oxidant such as [[Oxygen]] or hydrogen ions in aqueous solution, producing oxides or salts. [[Rust|Rusting]], the formation of red-orange [[Iron]] oxides, is the most familiar example. Corrosion can form pits or cracks or spread across a surface, and because it is a [[Diffusion|diffusion]]-controlled process it occurs on exposed surfaces. In galvanic corrosion, two different metals in electrical contact within an electrolyte cause the more active metal, the anode, to corrode faster. [[Zinc]] is often used as a sacrificial anode for steel structures. Corrosion costs approximately $2.5 trillion globally each year in maintenance and replacement. Prevention includes protective [[Paint]] and chromium alloying to form passive oxide layers, as in [[Stainless steel]].
+
+=== KEY: Corruption_658a15
+HEADWORD: Corruption = 부패
+LEVEL: 4
+GLOSSARY:
+  Corruption = 부패
+  Corruption Perceptions Index = 부패 인식 지수
+  Fraud = 사기
+  Goal = 『골』
+  Political corruption = 정치 부패
+  Socrates = 소크라테스
+  Sustainable Development Goal 16 = 지속 가능 발전 목표 16
+  United Nations = 국제 연합
+  anti-corruption = 반부패
+  bribery = 뇌물 수수
+  embezzlement = 횡령
+  influence peddling = 알선 수재
+  kleptocracies = 도둑 정치
+  lobbying = 로비
+  narco-states = 마약 국가
+  oligarchies = 과두제
+ENTRY:
+Dishonest or fraudulent conduct by those in positions of authority, for illicit personal gain. Corruption includes [[Fraud|fraud]], bribery, influence peddling and embezzlement, as well as some practices that are legal in many countries, such as lobbying. Political corruption occurs when an office-holder or other governmental employee acts in an official capacity for personal gain. Historically the term had a broader moral meaning: the ancient Greek philosopher [[Socrates]] was condemned to death partly for "corrupting the young." Corruption is perceived as most common in kleptocracies, oligarchies, narco-states and authoritarian states, but it also occurs in wealthy capitalist economies. Critics argue that global measures such as the Corruption Perceptions Index mostly survey executives about bribery and under-measure the legalized corruption of the rich. Strategies against corruption are grouped under anti-corruption, and the [[United Nations]] Sustainable Development Goal 16 aims to reduce it substantially.
+
+=== KEY: Corsica_ada9a0
+HEADWORD: Corsica = 코르시카섬
+LEVEL: 4
+GLOSSARY:
+  Ajaccio = 아작시오
+  France = 프랑스
+  French = 프랑스어
+  Genoa = 제노바
+  Louis XV = 루이 15세
+  Mediterranean = 지중해
+  Mediterranean Sea = 지중해
+  Napoleon = 나폴레옹
+  Napoleon Bonaparte = 나폴레옹 보나파르트
+  National Liberation Front of Corsica = 코르시카 민족 해방 전선
+  Republic of Genoa = 제노바 공화국
+  Sardinia = 사르데냐섬
+  The Republic = 『국가』
+  Violence = 폭력
+  Yvan Colonna = 이방 콜로나
+  territorial collectivity = 지방 자치 단체
+ENTRY:
+[[Mediterranean Sea|Mediterranean]] island and territorial collectivity of [[France]] (pop., 2026: 365,636). The fourth-largest island in the Mediterranean, Corsica lies southeast of the French mainland and immediately north of [[Sardinia]]. A single mountain chain covers two-thirds of the island. The [[Republic of Genoa]] ruled it from 1284 to 1755. In 1768 Genoa ceded it to [[Louis XV]] as a pledge for debts incurred after enlisting French help in suppressing a Corsican revolt. [[Napoleon|Napoleon Bonaparte]], later emperor of the French, was born in Ajaccio in 1769. After an armed standoff with French authorities in 1975, a conflict between French forces and nationalist groups, including the National Liberation Front of Corsica (FLNC), continued until a truce with its largest faction in 2014. Violence resumed after the 2022 murder of the jailed nationalist Yvan Colonna, and in 2023 two FLNC factions resumed armed conflict.
+
+=== KEY: Cortisol_a10038
+HEADWORD: Cortisol = 코르티솔
+LEVEL: 5
+GLOSSARY:
+  Adrenal gland = 부신
+  Cortisol = 코르티솔
+  Glucocorticoid = 글루코코르티코이드
+  Glucose = 포도당
+  Immune system = 면역계
+  Metabolism = 물질대사
+  Steroid = 스테로이드
+  Stress (biology) = 스트레스
+  adrenal cortex = 부신 피질
+  gene expression = 유전자 발현
+  glucocorticoid or mineralocorticoid receptors = 글루코코르티코이드 또는 무기질 코르티코이드 수용체
+  gluconeogenesis = 포도당 신생합성
+  hydrocortisone = 하이드로코르티손
+  zona fasciculata = 속상대
+ENTRY:
+Glucocorticoid [[Steroid|steroid]] hormone, known as a [[Stress (biology)|stress]] hormone. Cortisol is produced mainly by the *zona fasciculata* of the [[Adrenal gland|adrenal cortex]], and in lower quantities in other tissues. It is released on a daily cycle and rises in response to stress and low [[Glucose|blood-glucose]] concentration. It increases blood sugar through gluconeogenesis, suppresses the [[Immune system|immune system]], aids energy [[Metabolism|metabolism]] and decreases bone formation. It acts by binding to glucocorticoid or mineralocorticoid receptors inside cells, which then affect gene expression. As a medication it is known as hydrocortisone.
+
+=== KEY: Corundum_d3f586
+HEADWORD: Corundum = 강옥
+LEVEL: 5
+GLOSSARY:
+  Abrasive = 연마재
+  Corundum = 강옥
+  Emery = 에머리
+  Hematite = 적철석
+  Magnetite = 자철석
+  Mineral = 광물
+  Mohs scale = 모스 굳기계
+  Pure = 「퓨어」
+  Ruby = 루비
+  Sapphire = 사파이어
+  aluminum oxide = 산화 알루미늄
+  chromium = 크로뮴
+  transition metals = 전이 금속
+ENTRY:
+Crystalline form of aluminum oxide, Al₂O₃, and a [[Mineral|rock-forming mineral]]. Pure corundum is transparent, and trace impurities color it: chromium makes [[Ruby]] red, while [[Sapphire]] takes other colors from transition metals. Corundum rates 9.0 on the [[Mohs scale]], so it can scratch almost all other minerals. Emery, a black granular form mixed with [[Magnetite]] or [[Hematite]], is used as an [[Abrasive]] on sandpaper and machining tools. Its density of 4.02 g/cm³ is unusually high for a transparent mineral of light elements.
+
+=== KEY: Corvette_960545
+HEADWORD: Corvette = 코르벳
+LEVEL: 5
+GLOSSARY:
+  Frigate = 프리깃함
+  South American = 남아메리카
+  Warship = 군함
+  corvette captain = 코르벳 함장
+  fast attack craft = 고속 공격정
+  missile boats = 미사일정
+  sloop-of-war = 슬루프
+ENTRY:
+Small [[Warship|warship]], traditionally the smallest class of vessel rated as a warship. It ranks above the sloop-of-war and below the [[Frigate|frigate]]. Modern corvettes serve as coastal patrol craft, missile boats and fast attack craft, typically displacing 500 to 2,000 tons, though recent designs may approach 3,000 tons. Unlike frigates, they lack the endurance for long voyages. The rank of corvette captain, the most junior of three captain ranks in several European and South American navies, derives from the name of the ship type.
+
+=== KEY: Corvidae_270b47
+HEADWORD: Corvidae = 까마귀과
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Central America = 중앙아메리카
+  Cetacean = 고래류
+  Common raven = 큰까마귀
+  Corvus = 까마귀속
+  Eurasian = 유라시아판
+  Eurasian magpie = 까치
+  Family = 가족
+  Passerine = 참새목
+  South America = 남아메리카
+  crows = 까마귀
+  great apes = 대형 유인원
+  ice caps = 빙모
+  jays = 어치
+  magpies = 까치
+  mirror tests = 거울 실험
+  nutcrackers = 잣까마귀
+  oceanic islands = 대양섬
+  passerine birds = 참새목 조류
+  ravens = 큰까마귀류
+  rooks = 떼까마귀
+  species = 유
+ENTRY:
+Family of cosmopolitan [[Passerine|passerine]] birds, including crows, ravens, rooks, magpies, jays and nutcrackers. Of its 135 species, the genus [[Corvus]] makes up over a third. The [[Common raven|common raven]] is the largest passerine bird. Corvids are among the most intelligent birds studied: [[Eurasian magpie|Eurasian magpies]] have shown self-awareness in mirror tests, and crows and rooks make tools. Their brain-to-body mass ratio equals that of non-human great apes and [[Cetacean|cetaceans]]. Corvids are found worldwide except the southern tip of South America and the polar ice caps, with most species in tropical South and Central America and southern Asia. Several raven species have reached oceanic islands, and some are now threatened or extinct.
+
+=== KEY: Corvus_66f66a
+HEADWORD: Corvus = 까마귀속
+LEVEL: 4
+GLOSSARY:
+  Antarctica = 남극 대륙
+  Asia = 아시아
+  Corvidae = 까마귀과
+  Europe = 유럽
+  Genus = 속
+  Latin = 라틴어
+  Passerine = 참새목
+  South America = 남아메리카
+  Tool = 도구
+  carrion crow = 송장까마귀
+  crows = 까마귀
+  encephalization quotient = 대뇌화 지수
+  hooded crow = 뿔까마귀
+  passerine birds = 참새목 조류
+  ravens = 큰까마귀류
+  rooks = 떼까마귀
+  species = 유
+ENTRY:
+Genus of [[Passerine|passerine]] birds, including crows, ravens and rooks, in the family [[Corvidae]]. The genus name is Latin for "raven." It has about 46 species on all continents except South America, Antarctica and several islands, and makes up a third of the family. Its members appear to have evolved in Asia. The species commonly encountered in [[Europe]] are the carrion crow, hooded crow, common raven and rook. A 2002 study found that some crow species make [[Tool|tools]] as well as use them. Crows are considered among the most intelligent animals, with an encephalization quotient equal to that of many non-human primates. A group of crows is called a "flock" or a "murder."
+
+=== KEY: Cosimo_de_Medici_caff5e
+HEADWORD: Cosimo de' Medici = 메디치, 코시모 데
+LEVEL: 4
+GLOSSARY:
+  Cosimo di Giovanni de' Medici = 코시모 디 조반니 데 메디치
+  David = 「다비드」
+  Donatello = 도나텔로
+  Florence = 피렌체
+  Florentine Republic = 피렌체 공화국
+  Giovanni = 조반니
+  Medici = 메디치가
+  Medici family = 메디치 가문
+  Pater Patriae = 국부
+  Renaissance = 르네상스
+  de facto = 사실상
+  gold florins = 플로린 금화
+ENTRY:
+Italian banker and politician, de facto ruler of [[Florence]]. Cosimo di Giovanni de' Medici built his power on banking wealth and intermarriage with other rich and powerful families, and he was the first to make the Medici family the effective leaders of Florence for generations. He assumed de facto control of the Florentine Republic in 1434, after a brief exile, and directed its affairs for three decades. His power was not absolute: Florence's councils resisted his proposals, and fellow politicians viewed him as first among equals rather than an autocrat. He spent over 600,000 gold florins on art and culture, including [[Donatello]]'s *David*, the first freestanding nude male sculpture since antiquity. A patron of learning and architecture, he helped make Florence a center of the [[Renaissance]]. Posthumously honored as *Pater Patriae*.
+
+=== KEY: Cosmetics_3456bc
+HEADWORD: Cosmetics = 화장품
+LEVEL: 4
+GLOSSARY:
+  Chemical compound = 화합물
+  Cosmetics = 화장품
+  Egypt = 이집트
+  European Union = 유럽 연합
+  Food = 음식
+  Food and Drug Administration = 식품의약국
+  Formaldehyde = 포름알데히드
+  Lead = 납
+  Mesopotamia = 메소포타미아
+  Mixture = 혼합물
+  PFAS = 과불화화합물
+  People = 『피플』
+  Perfume = 향수
+  Pigment = 안료
+  United States = 미국
+  galena = 방연석
+  malachite = 공작석
+ENTRY:
+Substances applied to the body to cleanse, beautify or change appearance, or to add fragrance. Cosmetics are [[Mixture|mixtures]] of [[Chemical compound|chemical compounds]] from natural or synthetic sources, used for skin care, [[Perfume|fragrance]], hair coloring and makeup. People have used them for thousands of years; in Mesopotamia and Egypt, minerals such as galena and malachite were ground into [[Pigment|pigments]] for eye enhancement as early as 4000 BC. Early cosmetics often contained [[Lead|lead]], which caused serious illness and sometimes death. Modern products are generally tested for safety but may contain controversial ingredients such as [[PFAS]] and [[Formaldehyde]] releasers. In the United States, cosmetics do not require approval from the Food and Drug Administration before marketing, although products are monitored. The [[European Union]] has banned animal testing for finished cosmetic products since 2004 and for ingredients since 2013.
+
+=== KEY: Cosmic_distance_ladder_3c2119
+HEADWORD: Cosmic distance ladder = 우주 거리 사다리
+LEVEL: 4
+GLOSSARY:
+  Cepheid variable = 세페이드 변광성
+  Cepheid variables = 세페이드 변광성
+  Cloud = 구름
+  Hubble = 허블
+  Hubble constant = 허블 상수
+  Hubble tension = 허블 긴장
+  Large Magellanic Cloud = 대마젤란은하
+  Parsec = 파섹
+  Redshift = 적색 편이
+  Supernova = 초신성
+  Type Ia supernovae = Ia형 초신성
+  cosmic microwave background = 우주 마이크로파 배경
+  extragalactic distance scale = 은하 간 거리 척도
+  microwave background = 우주 마이크로파 배경
+ENTRY:
+Succession of methods by which astronomers determine distances to celestial objects. Also called the extragalactic distance scale, the ladder is needed because no single method works at all ranges. Direct measurement works only within about 1,000 [[Parsec|parsecs]]. Each rung calibrates the next: [[Cepheid variable|Cepheid variables]] calibrate distances to the [[Large Magellanic Cloud]], and [[Supernova|Type Ia supernovae]] extend measurements to distant galaxies. Combining supernova distances with [[Redshift|redshift]] data gives Hubble constant values of 73–75 km/s/Mpc, while cosmic microwave background data give about 67 km/s/Mpc, a discrepancy known as the Hubble tension. Precision is about 1% at the nearest anchors and degrades to 5–10% at cosmological scales.
+
+=== KEY: Cosmic_inflation_a30dd6
+HEADWORD: Cosmic inflation = 우주 급팽창
+LEVEL: 4
+GLOSSARY:
+  Alan Guth = 앨런 구스
+  Alexei = 알렉세이
+  Alexei Starobinsky = 알렉세이 스타로빈스키
+  Andrei Linde = 안드레이 린데
+  COBE = COBE
+  Field (physics) = 장
+  Inflation = 인플레이션
+  Kavli Prize = 카블리상
+  Particle physics = 입자 물리학
+  Quantum fluctuations = 양자 요동
+  Theory = 이론
+  Universe = 우주
+  magnetic monopoles = 자기 홀극
+  particle physics = 입자 물리학
+  reheating = 재가열
+ENTRY:
+Theory of exponential expansion of space in the very early [[Universe|universe]]. This expansion supercooled the universe and ended when the energy of the driving [[Field (physics)|field]] condensed into hot, dense particles, a process called reheating. Inflation theory was developed in the late 1970s and early 1980s by, among others, Alexei Starobinsky, Alan Guth and Andrei Linde, who shared the 2014 Kavli Prize. Quantum fluctuations in the inflationary region, magnified to cosmic size, became the seeds of cosmic structure. Many physicists believe inflation explains why the universe is isotropic and flat and why no magnetic monopoles have been observed. Temperature variations measured by the COBE satellite in 1992 agree with its predictions, although the [[Particle physics|particle physics]] mechanism remains unknown and some scientists dissent.
+
+=== KEY: Cosmic_microwave_background_3b886c
+HEADWORD: Cosmic microwave background = 우주 마이크로파 배경
+LEVEL: 4
+GLOSSARY:
+  Arno Penzias = 아노 펜지어스
+  Big Bang = 빅뱅
+  COBE = COBE
+  Dark matter = 암흑 물질
+  George Smoot = 조지 스무트
+  John = 존
+  John Mather = 존 매더
+  Microwave = 마이크로파
+  Nobel Prize = 노벨상
+  Nobel Prize in Physics = 노벨 물리학상
+  Observable universe = 관측 가능한 우주
+  Photon = 광자
+  Physics = 물리학
+  Planck = 플랑크 위성
+  Redshift = 적색 편이
+  Robert Woodrow Wilson = 로버트 우드로 윌슨
+  WMAP = WMAP
+  Woodrow Wilson = 우드로 윌슨
+  cosmological redshift = 우주론적 적색 편이
+  dark matter = 암흑 물질
+  observable universe = 관측 가능한 우주
+  power spectrum = 파워 스펙트럼
+  recombination epoch = 재결합 시기
+ENTRY:
+[[Microwave]] radiation that fills the [[Observable universe|observable universe]], a relic of the [[Big Bang]]. Its energy density exceeds that of all the photons emitted by all the stars in history. American radio astronomers Arno Penzias and Robert Woodrow Wilson discovered it by accident, and it is key evidence for the Big Bang theory. As the universe expanded, protons and electrons combined into neutral atoms in the recombination epoch, and [[Photon|photons]] began to travel freely; their wavelengths have since stretched through [[Redshift|cosmological redshift]]. The background is very uniform, but sensitive detectors measure temperature variations of about one part in 100,000. Its power spectrum reveals the density of normal and [[Dark matter|dark matter]]. Satellites including COBE, WMAP and Planck mapped it, and COBE work earned John Mather and George Smoot the 2006 [[Nobel Prize|Nobel Prize]] in Physics.
+
+=== KEY: Cosmic_ray_153138
+HEADWORD: Cosmic ray = 우주선
+LEVEL: 4
+GLOSSARY:
+  Blazar = 블레이자
+  Earth's magnetic field = 지구 자기장
+  Fermi Space Telescope = 페르미 우주 망원경
+  Heliosphere = 태양권
+  Milky Way = 우리은하
+  Neutrinos = 중성미자
+  Nobel Prize = 노벨상
+  Nobel Prize in Physics = 노벨 물리학상
+  Physics = 물리학
+  Proton = 양성자
+  Space = 공간
+  Supernova = 초신성
+  Telescope = 망원경
+  Victor Hess = 빅토르 헤스
+  active galactic nuclei = 활동 은하핵
+  cosmic rays = 우주선
+  gamma rays = 감마선
+  magnetic field = 자기장
+  primary cosmic rays = 1차 우주선
+  secondary particles = 2차 입자
+ENTRY:
+High-energy [[Proton|proton]] or atomic nucleus moving at nearly the speed of light. Cosmic rays come from the Milky Way, from distant galaxies and from the Sun. Victor Hess discovered them in 1912 with balloon experiments that showed radiation increasing with altitude, and he received the 1936 Nobel Prize in Physics. Protons make up about 89% of primary cosmic rays, with helium nuclei about 10%. On striking the atmosphere they produce showers of secondary particles, but most are deflected into space by [[Earth's magnetic field|Earth's magnetic field]] or the [[Heliosphere]]. Neutrinos and gamma rays from the [[Blazar|blazar]] TXS 0506+056 in 2018 suggest that active galactic nuclei also produce cosmic rays, and Fermi Space Telescope data have been interpreted as evidence that many originate from [[Supernova|supernova]] explosions.
+
+=== KEY: Cosmological_constant_9431fc
+HEADWORD: Cosmological constant = 우주 상수
+LEVEL: 4
+GLOSSARY:
+  Albert = 앨버트
+  Albert Einstein = 알베르트 아인슈타인
+  Dark energy = 암흑 에너지
+  Edwin Hubble = 에드윈 허블
+  Einstein = 아인슈타인
+  General relativity = 일반 상대성 이론
+  Hubble = 허블
+  Quantum field theory = 양자장론
+  Vacuum = 진공
+  cosmological constant = 우주 상수
+  cosmological constant problem = 우주 상수 문제
+  dark energy = 암흑 에너지
+  field equations = 장 방정식
+  field theory = 장 이론
+  general relativity = 일반 상대성 이론
+  orders of magnitude = 자릿수
+  vacuum energy = 진공 에너지
+  ΛCDM model = ΛCDM 모형
+ENTRY:
+Coefficient in the field equations of [[General relativity|general relativity]] representing the energy density of empty space. [[Albert Einstein]] introduced it in 1917 to counterbalance gravity and produce a static universe, then abandoned it after [[Edwin Hubble]] confirmed that the universe was expanding. Most physicists took it to be zero from the 1930s until 1998, when the discovery that expansion is accelerating suggested a positive value. Denoted Λ, it is the simplest explanation for [[Dark energy|dark energy]], which makes up about 68% of the universe's mass–energy density in the ΛCDM model. [[Quantum field theory|Quantum field theory]], however, predicts a [[Vacuum|vacuum]] energy exceeding the observed value by some 120 orders of magnitude, a discrepancy called the cosmological constant problem.
+
+=== KEY: Cosmology_08f1e0
+HEADWORD: Cosmology = 우주론
+LEVEL: 5
+GLOSSARY:
+  Astronomy = 천문학
+  Big Bang = 빅뱅
+  Creation myth = 창조 신화
+  Dark energy = 암흑 에너지
+  Dark matter = 암흑 물질
+  Eschatology = 종말론
+  Metaphysics = 형이상학
+  Physical = 「Physical」
+  Physical cosmology = 물리 우주론
+  dark energy = 암흑 에너지
+  dark matter = 암흑 물질
+  large-scale structure = 거대 구조
+  ΛCDM model = ΛCDM 모형
+ENTRY:
+Study of the universe as a whole, including its origin, structure and ultimate fate. Physical cosmology, a sub-branch of [[Astronomy|astronomy]], examines the chronology of the universe, its large-scale structure and dynamics. Modern physical cosmology is dominated by the [[Big Bang]] theory in the ΛCDM model, which includes [[Dark matter|dark matter]] and [[Dark energy|dark energy]]. The field overlaps [[Metaphysics|metaphysics]] and philosophy, so its theories may include untestable assumptions. Earlier religious and mythological cosmologies rested on [[Creation myth|creation myths]] and [[Eschatology|eschatology]].
+
+=== KEY: Cossack_Hetmanate_96005b
+HEADWORD: Cossack Hetmanate = 코사크 헤트만국
+LEVEL: 4
+GLOSSARY:
+  Belarus = 벨라루스
+  Bohdan Khmelnytsky = 보흐단 흐멜니츠키
+  Catherine = 예카테리나 1세
+  Catherine II = 예카테리나 2세
+  Commonwealth = 영연방
+  Cossack = 코사크
+  Cossacks = 코사크
+  Dnieper = 드니프로강
+  Khmelnytsky Uprising = 흐멜니츠키 봉기
+  Lithuanian = 리투아니아
+  Moscow = 모스크바
+  Polish–Lithuanian Commonwealth = 폴란드-리투아니아 연방
+  Registered Cossacks = 등록 코사크
+  Russia = 러시아
+  Russian = 러시아어
+  Treaty = 조약
+  Treaty of Andrusovo = 안드루소보 조약
+  Treaty of Pereiaslav = 페레야슬라프 조약
+  Treaty of Zboriv = 즈보리우 조약
+  Tsardom = 차르국
+  Tsardom of Moscow = 모스크바 차르국
+  Ukraine = 우크라이나
+  Ukrainian national revival = 우크라이나 민족 부흥
+  Zaporozhian Host = 자포로제 코사크
+  hetman = 헤트만
+ENTRY:
+Cossack state in central [[Ukraine]], 1648–1764. Established by Registered Cossacks under [[Bohdan Khmelnytsky]] during the Khmelnytsky Uprising, it was officially the Zaporozhian Host and covered mostly central Ukraine, with parts of [[Belarus]] and southwestern Russia. The [[Polish–Lithuanian Commonwealth]] recognized it by the Treaty of Zboriv in 1649. The Treaty of Pereiaslav in 1654 established vassal relations with the Tsardom of [[Moscow]], a benchmark in Soviet, Ukrainian and Russian historiography. The 1667 Treaty of Andrusovo, made without Cossack representation, divided the Hetmanate along the [[Dnieper]]. After Ivan Mazepa's failed attempt to break with Russia in 1708, Cossack autonomy was severely restricted. Catherine II abolished the office of hetman in 1764, and the last remnants of its administration ended in 1781. Descendants of its ruling class pioneered the Ukrainian national revival of the 19th century.
+
+=== KEY: Cossacks_efcfb7
+HEADWORD: Cossacks = 코사크
+LEVEL: 4
+GLOSSARY:
+  Belarus = 벨라루스
+  Canada = 캐나다
+  Cavalry = 기병
+  Commonwealth = 영연방
+  Cossack = 코사크
+  Cossacks = 코사크
+  Don Cossacks = 돈 코사크
+  East Slavic = 동슬라브
+  Eastern Orthodox = 동방 정교회
+  Kazakhstan = 카자흐스탄
+  Lithuanian = 리투아니아
+  Nogai = 노가이어
+  Orthodox = 정교회
+  Polish–Lithuanian Commonwealth = 폴란드-리투아니아 연방
+  Russia = 러시아
+  Russian = 러시아어
+  Russian Empire = 러시아 제국
+  Russian Revolution = 러시아 혁명
+  Soviet Union = 소련
+  Steppe = 스텝
+  Ukraine = 우크라이나
+  United States = 미국
+  World = 세계
+  World War II = 제2차 세계 대전
+  Zaporozhian Cossacks = 자포리자 코사크
+  hosts = 군단
+  war wagons = 전투 마차
+ENTRY:
+Predominantly East Slavic, Eastern Orthodox military people of the [[Steppe|steppe]] of eastern Ukraine and southern Russia. Cossacks defended the southern borders of the [[Polish–Lithuanian Commonwealth]] and the [[Russian Empire]] against Crimean–Nogai raids, in return for privileges and considerable self-governance. Their groups were organized into autonomous hosts. The Zaporozhian Cossacks were mostly infantry who used war wagons, while the Don Cossacks were primarily [[Cavalry|cavalry]], an important development in mounted warfare. The [[Russian Revolution]] disrupted Cossack society, and after World War II the Soviet Union disbanded Cossack units. In 1988, however, it permitted the re-establishment of former hosts. Between 3.5 and 5 million people identify with Cossack culture, though most have little connection with the original people. Cossack organizations operate in Russia, Ukraine, [[Belarus]], [[Kazakhstan]], Canada and the United States.
+
+=== KEY: Costa_Rica_5882b5
+HEADWORD: Costa Rica = 코스타리카
+LEVEL: 4
+GLOSSARY:
+  Caribbean Sea = 카리브해
+  Central America = 중앙아메리카
+  Costa Rica = 코스타리카
+  Education = 교육
+  Federal Republic = 독일 연방 공화국
+  Federal Republic of Central America = 중앙아메리카 연방 공화국
+  Human = 인간
+  Human Development Index = 인간 개발 지수
+  Nicaragua = 니카라과
+  OECD = 경제 협력 개발 기구
+  Ocean = 대양
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  Panama = 파나마
+  San José = 산호세
+  Spanish Empire = 스페인 제국
+ENTRY:
+Country in [[Central America]], officially the Republic of Costa Rica. It borders [[Nicaragua]] to the north, [[Panama]] to the southeast, the [[Caribbean Sea]] to the northeast and the [[Pacific Ocean]] to the southwest. Its land area is nearly 51,180 sq km, and its population is around five million, with about 350,000 living in the capital, San José. Humans have been present since 7,000–10,000 BC. A peripheral colony of the [[Spanish Empire]] until 1821, Costa Rica joined the Federal Republic of Central America in 1823 and formally declared independence in 1847. After a brief civil war in 1948, the 1949 constitution abolished the army, so Costa Rica is one of the few sovereign nations without a standing military. Education has been free and compulsory since 1886. Costa Rica ranked 62nd in the [[Human Development Index]] in 2023 and is the only [[OECD]] country in Central America and the Caribbean.
+
+=== KEY: Costco_c0a3f2
+HEADWORD: Costco = 코스트코
+LEVEL: 5
+GLOSSARY:
+  California = 캘리포니아주
+  Issaquah = 이사콰
+  North America = 북아메리카
+  Price = 가격
+  Price Club = 프라이스 클럽
+  Retail = 소매
+  San Diego = 샌디에이고
+  Seattle = 시애틀
+  Washington = 워싱턴주
+  Washington (state) = 워싱턴주
+  warehouse club = 회원제 창고형 할인점
+ENTRY:
+American membership-only warehouse club chain, headquartered in Issaquah, [[Washington (state)|Washington]]. Its first warehouse opened in [[Seattle]] on September 15, 1983. As of March 2026, it operated 924 warehouses worldwide, 85% of them in North America. As of 2025 it was the third-largest [[Retail|retailer]] in the world, and as of August 2024 the world's largest retailer of beef, poultry, organic produce and wine. Its predecessor, Price Club, had opened in [[San Diego]], [[California]], in 1976.
+
+=== KEY: Costume_2aff6f
+HEADWORD: Costume = 의상
+LEVEL: 4
+GLOSSARY:
+  Bhutan = 부탄
+  Clothing = 의복
+  Commedia dell'arte = 코메디아 델라르테
+  French = 프랑스어
+  Halloween = 핼러윈
+  Harlequin = 할리퀸
+  Latin = 라틴어
+  Mascot = 마스코트
+  National costume = 민속 의상
+  Pantaloon = 판탈로네
+  millinery = 여성 모자
+  ready-to-wear = 기성복
+ENTRY:
+Distinctive style of dress and/or makeup of an individual or group that reflects class, gender, occupation, ethnicity, nationality, activity or epoch. The word derives from Italian, passed through French, and ultimately from Latin *consuetudo*, meaning custom. It once described typical [[Clothing|clothing]] for activities such as riding or swimming, but its use has narrowed to unusual or out-of-date clothing and attire meant to evoke a change of identity, such as theatrical, [[Halloween]] and [[Mascot|mascot]] costumes. National costume expresses regional identity; in [[Bhutan]], traditional dress is prescribed for men and women, including the monarchy. Stylized theatrical costumes, such as Harlequin and Pantaloon in the [[Commedia dell'arte]], exaggerate a character's traits. Before ready-to-wear apparel, clothing was made by hand, and as late as the early 20th century commercial costumiers were often women who made intimate female dress, millinery and corsetry.
+
+=== KEY: Cotonou_1e8035
+HEADWORD: Cotonou = 코토누
+LEVEL: 4
+GLOSSARY:
+  Atlantic Ocean = 대서양
+  Autonomous Port of Cotonou = 코토누 자치항
+  Benin = 베냉
+  Cotonou = 코토누
+  Cotton = 목화
+  Dahomey = 다호메이
+  Fon = 폰어
+  Ghezo = 게조
+  Lake = 호수
+  Lake Nokoué = 노쿠에호
+  Ocean = 대양
+  Port = 항구
+  Porto-Novo = 포르토노보
+  West Africa = 서아프리카
+  palm oil = 팜유
+  slave trade = 노예 무역
+ENTRY:
+Largest city and seat of government of [[Benin]] (pop., 2012: 679,012). The larger urban area holds over two million people. Cotonou lies on a coastal strip between the [[Atlantic Ocean]] and Lake Nokoué. Its name is said to mean by the river of death in Fon. King Ghezo of Dahomey is thought to have founded it in 1830, and it grew as a center of the slave trade and later of palm oil and [[Cotton|cotton]]. A harbor completed in 1908 spurred rapid growth. The official capital is Porto-Novo, where the national legislature sits, while Cotonou holds most government buildings and foreign embassies. The Autonomous Port of Cotonou is one of the largest in West Africa, and local manufactures include brewing, textiles and cement.
+
+=== KEY: Cotton_db547a
+HEADWORD: Cotton = 목화
+LEVEL: 3
+GLOSSARY:
+  Americas = 아메리카
+  Arabic = 아랍어
+  Aztec = 아스테카
+  Bronze = 청동
+  Bronze Age = 청동기 시대
+  Cellulose = 셀룰로스
+  Cotton = 목화
+  Cotton gin = 조면기
+  G. arboreum = 수목면
+  G. barbadense = 해도면
+  G. herbaceum = 초면
+  Gossypium = 목화속
+  Gossypium hirsutum = 육지면
+  Hebrew = 히브리어
+  India = 인도
+  Indus = 인더스강
+  Indus Valley = 인더스강 유역
+  Indus Valley Civilisation = 인더스 문명
+  Industrial Revolution = 산업 혁명
+  Khotan = 호탄
+  Levant = 레반트
+  Levant cotton = 레반트면
+  Malvaceae = 아욱과
+  Marco Polo = 마르코 폴로
+  Mehrgarh = 메르가르
+  Mexico = 멕시코
+  Nanchoc = 난초크
+  Old and New Worlds = 구세계와 신세계
+  Pakistan = 파키스탄
+  Peru = 페루
+  Polo = 폴로
+  United States = 미국
+  World = 세계
+  Xinjiang = 신장
+  bales = 베일
+  boll = 다래
+  extra-long staple = 초장섬유
+  mallow family = 아욱과
+  species = 유
+  tree cotton = 수목면
+  upland cotton = 육지면
+ENTRY:
+Soft, fluffy staple fiber that grows in a protective boll around the seeds of plants of the genus *Gossypium*, in the mallow family [[Malvaceae]]. The fiber is almost pure [[Cellulose|cellulose]]. The plant is a shrub native to tropical and subtropical regions of the Americas, Africa, and India; wild species are most diverse in Mexico. Cotton was domesticated independently in the Old and New Worlds. Spun into yarn or thread, it makes soft, breathable, durable cloth and is the most widely used natural fiber in clothing.
+
+Four species are grown commercially: *Gossypium hirsutum* (upland cotton, 90% of world production), *G. barbadense* (extra-long staple, over 5%), *G. arboreum* (tree cotton, less than 2%), and *G. herbaceum* (Levant cotton, less than 2%).
+
+The word derives ultimately from Hebrew *kuttōnĕṯ* and was the usual medieval Arabic word for cotton. [[Marco Polo]] described cotton grown in abundance in Khotan, today's Xinjiang.
+
+Early evidence includes *G. barbadense* at Nanchoc, [[Peru]], dated to the 7th–6th millennia BC, and a cotton thread joining eight copper beads at Mehrgarh, Pakistan, dated to the sixth millennium BC. Fragments from the Bronze Age [[Indus Valley Civilisation]] date to the 3rd millennium BCE. In Mexico, *G. hirsutum* was domesticated between around 3400 and 2300 BC, and cotton sent to Aztec rulers as tribute amounted to about 53,000 tonnes annually.
+
+The [[Cotton gin]], invented in 1793, lowered production costs, and cotton supplied the textile mills of the [[Industrial Revolution]]. World production is about 25 million tonnes, or 110 million bales, annually, on 2.5% of the world's arable land. India is the largest producer, and the United States has been the largest exporter for many years.
+
+=== KEY: Cotton_gin_ff0b6c
+HEADWORD: Cotton gin = 조면기
+LEVEL: 4
+GLOSSARY:
+  Cotton = 목화
+  Eli Whitney = 일라이 휘트니
+  Indian subcontinent = 인도 아대륙
+  Machine = 기계
+  Patent = 특허
+  Roller gins = 롤러 조면기
+  boom = 붐
+ENTRY:
+Machine that quickly separates [[Cotton|cotton]] fibers from their seeds, far faster than manual separation. Roller gins were used in the [[Indian subcontinent]] from around the 5th century. The modern mechanical gin was created by American inventor Eli Whitney in 1793 and [[Patent|patented]] in 1794. Whitney's gin used a wire screen and small wire hooks to pull cotton through, while brushes cleared the lint. It made cotton farming more profitable and drove a boom in U.S. production. Because picking then became the bottleneck, it increased the need for laborers, which inadvertently increased the use of enslaved people. Cotton harvesting machines did not arrive until the 1930s. Modern gins can process up to 15 tonnes (33,000 lb) of cotton per hour.
+
+=== KEY: Couch_76982a
+HEADWORD: Couch = 소파
+LEVEL: 4
+GLOSSARY:
+  Australia = 오스트레일리아
+  French = 프랑스어
+  Furniture = 가구
+  Hotel = 호텔
+  India = 인도
+  Middle English = 중세 영어
+  North America = 북아메리카
+  Old French = 고대 프랑스어
+  South Africa = 남아프리카 공화국
+  Spring (device) = 용수철
+  United Kingdom = 영국
+  chesterfield = 체스터필드
+  daybeds = 데이베드
+  futons = 퓨턴
+  loveseat = 러브시트
+  settee = 세티
+  sofa = 소파
+  sofa beds = 소파 베드
+ENTRY:
+Cushioned [[Furniture|furniture]] for seating several people, also called a sofa, settee or chesterfield. It is usually a bench with upholstered armrests, often fitted with [[Spring (device)|springs]] and tailored cushions and pillows. Although used mainly for seating, a couch may also serve for sleeping, and it is found in homes, [[Hotel|hotels]], offices and waiting rooms. The word comes from [[Middle English]], from Old French *couche*, from a verb meaning to lie down. Couch is most common in [[North America]], Australia and [[South Africa]], while sofa and settee are more common in the [[United Kingdom]] and [[India]]. A loveseat seats two people, and sofa beds, daybeds and futons allow sleeping. The first chesterfield, a deep-buttoned leather sofa, was commissioned by Philip Stanhope, 4th Earl of Chesterfield.
+
+=== KEY: Cougar_56f5ea
+HEADWORD: Cougar = 퓨마
+LEVEL: 4
+GLOSSARY:
+  Americas = 아메리카
+  Andes = 안데스산맥
+  Canada = 캐나다
+  Deer = 사슴
+  European colonization of the Americas = 유럽의 아메리카 식민지화
+  Florida = 플로리다주
+  Florida panther = 플로리다퓨마
+  IUCN = 국제 자연 보전 연맹
+  IUCN Red List = IUCN 적색 목록
+  Least Concern = 최소 관심
+  North America = 북아메리카
+  Patagonia = 파타고니아
+  Puma = 푸마
+  Puma concolor = 퓨마
+  Red List = 적색 목록
+  Ungulate = 유제류
+  Western Hemisphere = 서반구
+  Yukon = 유콘
+  ambush predator = 매복 포식자
+  catamount = 캐터마운트
+  human development = 인간 개발
+  mountain lion = 퓨마
+  panther = 팬서
+  puma = 퓨마
+  species = 유
+ENTRY:
+Wild cat species (*Puma concolor*) native to the Americas, also called puma, mountain lion, catamount and panther. It is the most widely distributed wild, terrestrial mammal in the Western Hemisphere, ranging from [[Yukon]] in Canada to the southern [[Andes]] in [[Patagonia]]. The cougar is an adaptable, largely solitary ambush predator, and [[Ungulate|ungulates]], particularly [[Deer|deer]], are its primary prey. Intensive hunting after the [[European colonization of the Americas]] and human development caused declines across most of its range. Its eastern population is considered mostly extinct in eastern North America since the early 20th century, except for the isolated Florida panther subpopulation. The species is listed as Least Concern on the IUCN Red List.
+
+=== KEY: Coulomb_3ebf69
+HEADWORD: Coulomb = 쿨롬
+LEVEL: 4
+GLOSSARY:
+  Ampere = 암페어
+  Charles-Augustin de Coulomb = 샤를오귀스탱 드 쿨롱
+  Coulomb = 쿨롬
+  Electric charge = 전하
+  Farad = 패럿
+  International Electrical Congress = 국제 전기 회의
+  International System of Units = 국제단위계
+  Lightning = 번개
+  SI base units = SI 기본 단위
+  Second = 초
+  Static electricity = 정전기
+  ampere-hour = 암페어시
+  base units = 기본 단위
+  capacitance = 전기 용량
+  elementary charge = 기본 전하
+  microcoulombs = 마이크로쿨롬
+ENTRY:
+Unit of [[Electric charge|electric charge]] in the [[International System of Units]] (SI), symbol C. It is the charge delivered by a current of one [[Ampere|ampere]] flowing for one [[Second|second]]. Since the 2019 redefinition of SI base units fixed the elementary charge, one coulomb equals approximately 6.241509×10¹⁸ elementary charges. Every [[Farad|farad]] of capacitance can hold one coulomb per volt, and one ampere-hour equals 3600 C. Static electricity from rubbing materials typically involves a few microcoulombs, while a [[Lightning|lightning]] bolt typically carries around 15 C, and up to 350 C for large bolts. The unit is named after Charles-Augustin de Coulomb, and the International Electrical Congress approved it as the unit of electric charge in 1881.
+
+=== KEY: Coulomb_s_law_b37809
+HEADWORD: Coulomb's law = 쿨롱 법칙
+LEVEL: 4
+GLOSSARY:
+  Alessandro Volta = 알레산드로 볼타
+  Charles-Augustin de Coulomb = 샤를오귀스탱 드 쿨롱
+  Coulomb = 쿨롬
+  Daniel Bernoulli = 다니엘 베르누이
+  Electromagnetism = 전자기학
+  Newton's law of universal gravitation = 뉴턴의 만유인력 법칙
+  Volta = 볼타강
+  dependence = 종속성
+  electrostatic force = 정전기력
+  inverse-square law = 역제곱 법칙
+  law of universal gravitation = 만유인력의 법칙
+  universal gravitation = 만유인력
+ENTRY:
+Law of physics describing the electrostatic force between two electrically charged particles at rest. The force is directly proportional to the product of the charges and inversely proportional to the square of the distance between them. Like charges repel and unlike charges attract, along the line joining them. Charles-Augustin de Coulomb published the law in 1785, though earlier investigators including [[Daniel Bernoulli]] and [[Alessandro Volta]] had suspected an inverse-square dependence. Like [[Newton's law of universal gravitation|Newton's law of universal gravitation]], it is an inverse-square law, but electrostatic forces can attract or repel, while gravity always attracts. The law was essential to the development of [[Electromagnetism|electromagnetism]] and has been tested from 10⁻¹⁶ m to 10⁸ m.
+
+=== KEY: Council_of_Europe_2eaae2
+HEADWORD: Council of Europe = 유럽 평의회
+LEVEL: 4
+GLOSSARY:
+  Convention = 비상 의회
+  Court = 법원
+  Democracy = 민주주의
+  Europe = 유럽
+  European Convention on Human Rights = 유럽 인권 협약
+  European Court of Human Rights = 유럽 인권 재판소
+  European Union = 유럽 연합
+  France = 프랑스
+  Human = 인간
+  Human rights = 인권
+  Rights = 인권
+  Rule of law = 법치주의
+  Russia = 러시아
+  Strasbourg = 스트라스부르
+  Ukraine = 우크라이나
+  rule of law = 법치
+ENTRY:
+International organization, founded in 1949, to uphold [[Human rights|human rights]], [[Democracy|democracy]] and the [[Rule of law|rule of law]] in Europe. It is Europe's oldest intergovernmental organization, with 46 member states, and is headquartered in [[Strasbourg]], [[France]]. Unlike the [[European Union]], it cannot make binding laws, but it has produced international standards and treaties, including the European Convention on Human Rights (1950). The European Court of Human Rights rules on alleged violations of the convention, and its judgments are legally binding on the state concerned. [[Russia]] became the first country expelled from the council, following its 2022 invasion of [[Ukraine]]. The organization's annual ordinary budget is 656 million euros.
+
+=== KEY: Count_Dracula_aff1b1
+HEADWORD: Count Dracula = 드라큘라 백작
+LEVEL: 5
+GLOSSARY:
+  Bram Stoker = 브램 스토커
+  Dracula = 『드라큘라』
+  Henry Irving = 헨리 어빙
+  Irving = 어빙
+  Victorian = 빅토리아 시대
+  Victorian era = 빅토리아 시대
+  Vlad III = 블라드 3세
+  Vlad the Impaler = 블라드 3세
+  Wallachian = 왈라키아
+  gothic horror = 고딕 호러
+ENTRY:
+Fictional vampire and title antagonist of [[Bram Stoker]]'s gothic horror novel *Dracula* (1897). He is considered the archetypal vampire of later fiction, known for turning victims into vampires by biting them. Some traits may derive from the 15th-century Wallachian prince [[Vlad the Impaler|Vlad III Dracula]], a link proposed only decades after publication. It is widely believed that the character was inspired by Sir Henry Irving, for whom Stoker was personal assistant. He is one of the best-known fictional figures of the [[Victorian era]].
+
+=== KEY: Counter_Reformation_17e499
+HEADWORD: Counter-Reformation = 반종교 개혁
+LEVEL: 4
+GLOSSARY:
+  Catholic = 가톨릭
+  Catholic Reformation = 가톨릭 개혁
+  Catholic reform = 가톨릭 개혁
+  Council of Trent = 트리엔트 공의회
+  European wars of religion = 유럽 종교 전쟁
+  Gegenreformation = Gegenreformation
+  German = 독일어
+  Ignatius of Loyola = 로욜라의 이냐시오
+  Inquisition = 종교 재판
+  Jesus = 예수
+  Leopold = 레오폴트
+  Leopold von Ranke = 레오폴트 폰 랑케
+  Pope = 교황
+  Protestant = 개신교
+  Protestant Reformation = 종교 개혁
+  Reformation = 종교 개혁
+  Roman Inquisition = 로마 종교 재판소
+  Society = 사회
+  Society of Jesus = 예수회
+  wars of religion = 종교 전쟁
+ENTRY:
+Period of Catholic revival, also called the Catholic Reformation, that responded to the [[Reformation|Protestant Reformation]]. It is often dated from the Council of Trent (1545–1563) to the end of the European wars of religion in 1648, though this periodization is controversial. Its efforts included apologetic writings, reform of religious orders, seminaries to train priests, and new devotional movements focused on a personal relationship with Christ. The [[Ignatius of Loyola|Society of Jesus]] was founded in 1540 as an order devoted to education, obedience to the [[Pope|pope]] and missionary work. The Roman [[Inquisition]] was reorganized in 1542. The term is a translation of German *Gegenreformation*, coined by late 18th-century German historians as a negative label for Catholic repression and popularized by [[Leopold von Ranke]]. Catholic historians tended to avoid it, and Protestant historians often preferred to speak of Catholic reform.
+
+=== KEY: Counterinsurgency_8d19ea
+HEADWORD: Counterinsurgency = 대반란전
+LEVEL: 4
+GLOSSARY:
+  Algeria = 알제리
+  Assassination = 암살
+  French = 프랑스어
+  Indochina = 인도차이나
+  Insurgency = 반란
+  Military = 군대
+  Propaganda = 선전
+  decolonization = 탈식민지화
+  enemy-centric = 적 중심
+  hearts and minds = 민심
+  population-centric = 주민 중심
+  psychological operations = 심리전
+ENTRY:
+Military and political actions aimed at defeating irregular forces, which can be considered war by a state against a non-state adversary. Insurgency and counterinsurgency have been waged since ancient history, and modern thinking developed during decolonization. Counterinsurgency combines conventional military operations with [[Propaganda|propaganda]], psychological operations and [[Assassination|assassinations]], as well as political, economic and civic measures. It may seek to win the hearts and minds of a population supporting an [[Insurgency|insurgency]], or it may use indiscriminate violence against civilians suspected of loyalty to insurgents. French campaigns in [[Algeria]] and Indochina shaped later doctrine. Analysts disagree on whether population-centric approaches that address grievances or enemy-centric, coercive methods are more effective.
+
+=== KEY: Counterpoint_898503
+HEADWORD: Counterpoint = 대위법
+LEVEL: 4
+GLOSSARY:
+  Bach = 바흐
+  Baroque = 바로크
+  Baroque period = 바로크 시대
+  Free counterpoint = 자유 대위법
+  Fugue = 푸가
+  Harmony = 화성
+  Imitative counterpoint = 모방 대위법
+  Johann Sebastian Bach = 요한 제바스티안 바흐
+  Latin = 라틴어
+  Renaissance = 르네상스
+  chromaticism = 반음계주의
+  dissonance = 불협화음
+  punctus contra punctum = punctus contra punctum
+  species = 유
+  three-part invention in F minor = 바단조 3성 인벤션
+  voices = 성부
+ENTRY:
+Relationship of two or more simultaneous melodic lines, called voices, that are [[Harmony|harmonically]] dependent on each other yet independent in rhythm and melodic contour. The term comes from Latin *punctus contra punctum*, meaning point against point, or note against note. It developed most strongly in the European classical tradition, especially during the Renaissance and the Baroque period, and is taught in Western pedagogy through a system of species. Imitative counterpoint repeats a melodic idea across voices, as in the [[Fugue|fugue]], the most complex contrapuntal convention. Free counterpoint often uses non-traditional harmonies, chromaticism and dissonance. [[Johann Sebastian Bach]] is regarded as one of the greatest masters of counterpoint, and his three-part invention in F minor combines three independent melodies.
+
+=== KEY: Counties_of_England_b3b410
+HEADWORD: Counties of England = 잉글랜드의 주
+LEVEL: 5
+GLOSSARY:
+  Administrative counties = 행정주
+  England = 잉글랜드
+  Greater London = 그레이터런던
+  Isles of Scilly = 실리 제도
+  ceremonial counties = 의례주
+  historic counties = 역사적 주
+  lieutenancy = 주 총독직
+  metropolitan and non-metropolitan counties = 대도시주와 비대도시주
+  shires = 셔
+ENTRY:
+Subdivisions of [[England]] with three legal definitions: 48 ceremonial counties used for lieutenancy, 84 metropolitan and non-metropolitan counties, and 39 historic counties. The historic counties, mostly formed as shires of earlier kingdoms, were used for justice, constituencies and the militia. Administrative counties with elected councils were created in 1889. Since 1974 the local government counties have covered England except [[Greater London]] and the [[Isles of Scilly]], and the historic counties have not been used for local government. Counties are also used for culture, tourism and sport.
+
+=== KEY: Counties_of_Ireland_ad37ba
+HEADWORD: Counties of Ireland = 아일랜드의 주
+LEVEL: 5
+GLOSSARY:
+  County Roscommon = 로스커먼주
+  Ireland = 아일랜드
+  Norman = 노르만
+  Northern Ireland = 북아일랜드
+  Republic of Ireland = 아일랜드 공화국
+  The Republic = 『국가』
+ENTRY:
+Historic administrative divisions of the [[Ireland|island of Ireland]], traditionally numbering 32. They began as Norman structures and developed as the powers of barons and nobility waned. Six of the traditional counties became part of [[Northern Ireland]] in 1921, where counties ceased to be used for local government in 1973. The [[Republic of Ireland]] has 26 counties, 3 cities and 2 cities and counties for local government, after some counties were split. The word usually precedes the name, as in County Roscommon.
+
+=== KEY: Country_59716c
+HEADWORD: Country = 국가
+LEVEL: 3
+GLOSSARY:
+  Aruba = 아루바
+  Clifford Geertz = 클리퍼드 기어츠
+  Convention = 비상 의회
+  Curaçao = 퀴라소
+  Danish = 덴마크어
+  Danish Realm = 덴마크 왕국
+  Denmark = 덴마크
+  England = 잉글랜드
+  Faroe Islands = 페로 제도
+  Greenland = 그린란드
+  Indian country = 인디언 컨트리
+  Ireland = 아일랜드
+  Kingdom of England = 잉글랜드 왕국
+  Kingdom of the Netherlands = 네덜란드 왕국
+  Kosovo = 코소보
+  Montevideo = 몬테비데오
+  Montevideo Convention = 몬테비데오 협약
+  Netherlands = 네덜란드
+  Northern Ireland = 북아일랜드
+  Scotland = 스코틀랜드
+  Sint Maarten = 신트마르턴
+  Sovereign state = 주권 국가
+  Taiwan = 타이완
+  The Economist = 『이코노미스트』
+  Transnistria = 트란스니스트리아
+  United Kingdom = 영국
+  United Nations = 국제 연합
+  United States = 미국
+  Wales = 웨일스
+  West Country = 웨스트컨트리
+  constituent countries = 구성국
+  dependent territories = 속령
+  multinational state = 다민족 국가
+  runs = 런
+  unrecognized states = 미승인 국가
+ENTRY:
+Political entity or its territory, a term applied to sovereign states, unrecognized states, constituent countries, and dependent territories. A country may consist of multiple nations, a structure called a multinational state. There is no universal agreement on the number of countries, because some entities are not recognized as sovereign by the UN system but are recognized by at least one member. *The Economist* wrote in 2010 that "any attempt to find a clear definition of a country soon runs into a thicket of exceptions and anomalies."
+
+A [[Sovereign state|sovereign state]] holds supreme legitimate authority over a part of the world. The 1933 Montevideo Convention names four criteria for statehood: a permanent population, a defined territory, an effective government, and the capacity to enter relations with other states. Theorists differ on whether statehood rests on empirical existence alone or also requires recognition by others. The [[United Nations]] has 193 member states. [[Taiwan]] and [[Kosovo]] have limited recognition or actively disputed sovereignty, and breakaway states such as [[Transnistria]] have none.
+
+Some sovereign states are unions of polities, each also called a country. The [[Danish Realm]] consists of Denmark proper, the Faroe Islands, and Greenland; the [[Kingdom of the Netherlands]] of the Netherlands proper, Aruba, Curaçao, and Sint Maarten; and the [[United Kingdom]] of England, Scotland, Wales, and Northern Ireland.
+
+The word has other senses: a rural area ("the country"), a region such as the West Country in England, native sovereign territory such as Indian country in the United States, or a qualifier, as in country music. Anthropologist Clifford Geertz wrote in 1997 that the relationships between "country" and "nation" differ too much from place to place to be reduced to a simple opposition.
+
+=== KEY: Country_music_f24b47
+HEADWORD: Country music = 컨트리 음악
+LEVEL: 4
+GLOSSARY:
+  African American = 아프리카계 미국인
+  Appalachian Mountains = 애팔래치아산맥
+  Bristol = 브리스틀
+  Folk music = 민속 음악
+  Grand Ole Opry = 그랜드 올 오프리
+  Guitar = 기타
+  Harmonica = 하모니카
+  Mandolin = 만돌린
+  Music = 음악
+  Nashville, Tennessee = 내슈빌
+  Tennessee = 테네시주
+  U.S. Congress = 미국 의회
+  United States = 미국
+  banjos = 밴조
+  country and western = 컨트리 앤드 웨스턴
+  fiddles = 피들
+  folk songs = 민요
+  hillbilly music = 힐빌리 음악
+  spirituals = 흑인 영가
+ENTRY:
+Music genre originating in the United States, known for ballads and dance tunes with traditional lyrics and harmonies. Also called country and western, it was once known as hillbilly music, and the term was popularized in the 1940s. It developed in the South from [[Folk music|British folk music]] brought by immigrants, [[Appalachian Mountains|Appalachian]] music, cowboy ballads, African American folk songs and spirituals. Typical instruments include banjos, [[Mandolin|mandolins]], fiddles, [[Harmonica|harmonicas]] and [[Guitar|guitars]]. Radio broadened its audience in the 1920s; the Grand Ole Opry began airing in 1925 from [[Nashville, Tennessee|Nashville]]. The U.S. Congress has recognized Bristol, Tennessee, as the "Birthplace of Country Music," based on 1927 recording sessions. In 2023, 45% of Americans reported listening to country music.
+
+=== KEY: County_United_States_c770a3
+HEADWORD: County = 카운티
+LEVEL: 5
+GLOSSARY:
+  Alaska = 알래스카주
+  Columbia = 컬럼비아
+  Connecticut = 코네티컷주
+  District of Columbia = 컬럼비아 특별구
+  Hawaii = 하와이주
+  Louisiana = 루이지애나주
+  Rhode Island = 로드아일랜드주
+  U.S. states = 미국의 주
+  United States = 미국
+  boroughs = 버러
+  councils of governments = 정부 협의회
+  county equivalents = 카운티급 행정 구역
+  parishes = 패리시
+  planning regions = 계획 지역
+ENTRY:
+Administrative subdivision of most [[United States|U.S.]] states, typically with defined boundaries and some level of governmental authority. The term is used in 47 states; [[Louisiana]] uses parishes, [[Alaska]] uses boroughs, and [[Connecticut]] uses councils of governments or planning regions as county equivalents. County powers vary by state. In Hawaii, counties provide almost all services, while in Rhode Island they have no government power. As of 2022 there were 3,144 counties and county equivalents in the 50 states and the District of Columbia.

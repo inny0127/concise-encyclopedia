@@ -1,0 +1,832 @@
+=== KEY: League_of_Legends_e1d0bb
+HEADWORD: League of Legends = 리그 오브 레전드
+LEVEL: 5
+GLOSSARY:
+  Arcane = 「아케인」
+  League of Legends = 「리그 오브 레전드」
+  League of Legends World Championship = 리그 오브 레전드 월드 챔피언십
+  MacOS = macOS
+  Microsoft Windows = 마이크로소프트 윈도우
+  Multiplayer online battle arena = 멀티플레이어 온라인 배틀 아레나
+  Nexus = 넥서스
+  Riot = 폭동
+  Riot Games = 라이엇 게임즈
+  Summoner's Rift = 소환사의 협곡
+  Windows = 윈도우
+  World = 세계
+  champion = 챔피언
+ENTRY:
+Multiplayer online battle arena video game developed and published by Riot Games. Free-to-play since its October 2009 release, it is available for [[Microsoft Windows|Windows]] and [[MacOS|macOS]]. Two teams of five players battle on Summoner's Rift, each player controlling a character called a *champion*. Teams win by destroying the enemy's Nexus. In 2019 the game regularly peaked at 8 million concurrent players, and tie-ins include the animated series *Arcane*. It is the world's largest esport, and the [[League of Legends World Championship]] drew over 100 million unique viewers in 2019.
+
+=== KEY: League_of_Nations_3e0d13
+HEADWORD: League of Nations = 국제 연맹
+LEVEL: 4
+GLOSSARY:
+  Allied powers = 연합국
+  Covenant = 국제 연맹 규약
+  Finland = 핀란드
+  Germany = 독일
+  Italy = 이탈리아
+  Japan = 일본
+  Soviet Union = 소련
+  Spain = 스페인
+  Treaty = 조약
+  Treaty of Versailles = 베르사유 조약
+  United Nations = 국제 연합
+  United States = 미국
+  Versailles = 베르사유
+  World = 세계
+  World War I = 제1차 세계 대전
+  World War II = 제2차 세계 대전
+  child labor = 아동 노동
+  collective security = 집단 안보
+ENTRY:
+First worldwide intergovernmental organization, founded in 1920 to maintain world peace. Its Covenant formed part of the Treaty of Versailles after [[World War I]]. Its goals included collective security, disarmament and the arbitration of disputes. It lacked its own army and depended on the Allied powers to enforce its decisions. The United States never joined, and the League reached 58 members from September 1934 to February 1935. Japan and Germany left in 1933, Italy in 1937 and Spain in 1939. The [[Soviet Union]] joined in 1934 and was expelled in 1939 after invading Finland. Scholars generally agree that the League failed to prevent World War II but advanced collective security and raised awareness of epidemics, slavery and child labor. The [[United Nations]] replaced it in 1945 and inherited several of its agencies.
+
+=== KEY: Leaning_Tower_of_Pisa_d04e1b
+HEADWORD: Leaning Tower of Pisa = 피사의 사탑
+LEVEL: 4
+GLOSSARY:
+  Construction = 건설
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Italy = 이탈리아
+  Piazza del Duomo = 두오모 광장
+  Pisa = 피사
+  Pisa Cathedral = 피사 대성당
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Freestanding bell tower of Pisa Cathedral, Italy. The tower is known for its lean of nearly four degrees, caused by an unstable foundation on soft ground. Construction began in 1173 and proceeded in three stages over 199 years. The tilt reached 5.5 degrees by 1990; remedial work from 1993 to 2001 reduced it to 3.97 degrees. The tower is 56.67 m tall on its high side and 55.86 m on its low side, and it weighs an estimated 14,500 tonnes. Part of the Piazza del Duomo, a [[World Heritage Site|UNESCO World Heritage Site]], it receives over 5 million visitors a year. It is legendarily associated with [[Galileo Galilei]]'s experiments on falling bodies.
+
+=== KEY: Leap_second_db63d9
+HEADWORD: Leap second = 윤초
+LEVEL: 5
+GLOSSARY:
+  Atomic clock = 원자시계
+  Coordinated Universal Time = 협정 세계시
+  Earth's rotation = 지구의 자전
+  General Conference on Weights and Measures = 국제 도량형 총회
+  International Atomic Time = 국제 원자시
+  Time = 『타임』
+  UT1 = UT1
+  leap seconds = 윤초
+  solar time = 태양시
+ENTRY:
+Intermittent one-second adjustment to [[Coordinated Universal Time|Coordinated Universal Time (UTC)]]. Between 1972 and 2016, 27 positive leap seconds were added to keep UTC within ±0.9 seconds of solar time, which varies as Earth's rotation slows. The last was on December 31, 2016, and since January 2017 the difference between UTC and [[Atomic clock|International Atomic Time]] has been 37 seconds. Their irregularity caused anomalies in some computing and satellite systems. On October 15, 2026, the General Conference on Weights and Measures voted to raise the permitted difference between UT1 and UTC to 3,600 seconds (one hour), effective May 20, 2027, deferring leap-second decisions for several centuries.
+
+=== KEY: Leap_year_cfbf55
+HEADWORD: Leap year = 윤년
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Calendar = 달력
+  Gregorian = 그레고리력
+  Gregorian calendar = 그레고리력
+  Julian = 율리우스력
+  Julian calendar = 율리우스력
+  Julius Caesar = 율리우스 카이사르
+  Leap second = 윤초
+  Pope = 교황
+  Pope Gregory XIII = 교황 그레고리오 13세
+  Roman calendar = 로마력
+  extra time = 연장전
+  leap day = 윤일
+  leap month = 윤달
+  leap seconds = 윤초
+  lunisolar calendars = 태음태양력
+ENTRY:
+Calendar year containing an added day, or in lunisolar calendars an added month. The solar year lasts slightly less than 365¼ days, so calendars need extra time to stay aligned with the seasons. [[Julius Caesar]] reformed the Roman calendar in 45 BC, adding a leap day every 4 years to create the [[Julian calendar]]. The [[Gregorian calendar]], introduced in 1582 by Pope Gregory XIII, refined the rule: years divisible by 100 are leap years only if also divisible by 400, so 2000 was a leap year but 1900 was not. Lunisolar calendars, traditional across much of Asia, add a leap month instead. The term probably comes from the way a fixed date skips a weekday, advancing two days rather than one, in the year after a leap day. From 1972 to 2016, [[Leap second|leap seconds]] were also added to UTC.
+
+=== KEY: Learning_8af0f5
+HEADWORD: Learning = 학습
+LEVEL: 3
+GLOSSARY:
+  Albert = 앨버트
+  Albert Bandura = 앨버트 반두라
+  Associative learning = 연합 학습
+  B. F. Skinner = B. F. 스키너
+  Behaviorism = 행동주의
+  Habituation = 습관화
+  Human = 인간
+  Ivan Pavlov = 이반 파블로프
+  John = 존
+  John B. Watson = 존 B. 왓슨
+  Learning = 학습
+  Lev Vygotsky = 레프 비고츠키
+  Memory = 기억
+  Non-associative learning = 비연합 학습
+  Pavlov = 파블로프
+  Pedagogy = 교육학
+  Play (activity) = 놀이
+  Skinner = 스키너
+  Watson = 왓슨
+  classical conditioning = 고전적 조건 형성
+  cognitive science = 인지 과학
+  educational psychology = 교육 심리학
+  innate response = 선천 면역 반응
+  learned helplessness = 학습된 무기력
+  neuropsychology = 신경 심리학
+  observational learning = 관찰 학습
+  operant conditioning = 조작적 조건 형성
+  sensitization = 민감화
+ENTRY:
+Process of acquiring new understanding, knowledge, behavior, skills, values, attitudes, and preferences. The ability to learn is possessed by humans, other animals, and some machines, and there is evidence for some kind of learning in certain plants. Some learning is immediate, induced by a single event such as being burned by a hot stove, but much skill and knowledge accumulates from repeated experiences. Its effects often last a lifetime.
+
+Human learning begins at birth, may start before it, and continues until death through interaction with the environment. Habituation has been observed as early as 32 weeks into gestation, indicating that the nervous system is developed enough for learning and [[Memory|memory]] to occur very early. The subject is studied in educational psychology, neuropsychology, cognitive science, and [[Pedagogy|pedagogy]].
+
+Researchers distinguish several kinds. Non-associative learning is a relatively permanent change in the strength of response to a single stimulus due to repeated exposure; it includes habituation, in which an innate response diminishes when a stimulus is repeated, and sensitization, in which a response is progressively amplified. Associative learning includes classical conditioning, studied by [[Ivan Pavlov]], and operant conditioning, which links voluntary behavior to consequences. Behaviorism was pioneered by figures such as [[John B. Watson]] and B. F. Skinner, and observational learning was theorized by Albert Bandura. Learning that an aversive event cannot be avoided may result in learned helplessness.
+
+[[Play (activity)|Play]] has been approached as a form of learning in which children experiment with the world and learn rules; [[Lev Vygotsky]] held it to be the first form of learning language and communication. Evolutionary research suggests that learning is favored over innate behavior in environments that are neither completely stable nor entirely unpredictable.
+
+=== KEY: Learning_disability_d49883
+HEADWORD: Learning disability = 학습 장애
+LEVEL: 4
+GLOSSARY:
+  Brain = 뇌
+  DSM-5 = DSM-5
+  Dyscalculia = 난산증
+  Dyslexia = 난독증
+  Intellectual disability = 지적 장애
+  Learning = 학습
+  United Kingdom = 영국
+  dysgraphia = 난서증
+  intellectual disability = 지적 장애
+  learning difficulties = 학습 장애
+  learning disorder = 학습 장애
+  specific learning disorder = 특정 학습 장애
+ENTRY:
+Brain condition that makes it difficult to comprehend or process information. A learning disability is an official clinical diagnosis made by a professional such as a psychologist, while a learning disorder describes significant learning problems that may not meet diagnostic criteria. In the United Kingdom, the term generally refers to [[Intellectual disability|intellectual disability]], while conditions such as [[Dyslexia|dyslexia]] are called learning difficulties. Learning disorders include difficulties with reading (dyslexia), arithmetic ([[Dyscalculia|dyscalculia]]) and writing (dysgraphia). Interventions such as specialized instruction and technology help people build strategies, and a multidisciplinary team often designs them. Under the DSM-5, a specific learning disorder must persist for at least six months and cannot be explained by intellectual disability, sensory impairments or inadequate education.
+
+=== KEY: Least_squares_19fc02
+HEADWORD: Least squares = 최소 제곱법
+LEVEL: 5
+GLOSSARY:
+  Adrien-Marie Legendre = 아드리앵마리 르장드르
+  Carl Friedrich Gauss = 카를 프리드리히 가우스
+  Gauss = 가우스
+  Legendre = 르장드르
+  Poisson = 푸아송
+  Regression analysis = 회귀 분석
+  closed-form solution = 닫힌 형식의 해
+  maximum-likelihood = 최대 가능도
+  residuals = 잔차
+ENTRY:
+Method of finding a best-fit model by minimizing the sum of squared residuals, the differences between observed and predicted values. The linear, or ordinary, problem has a closed-form solution and is central to [[Regression analysis|regression analysis]]; nonlinear problems are usually solved by iterative refinement. Its ideas developed during the 18th century, and [[Adrien-Marie Legendre]] published the method in 1805. [[Carl Friedrich Gauss]] later gave it a probabilistic justification in 1809, assuming normally distributed errors. For normal, exponential, Poisson and binomial distributions, least-squares and maximum-likelihood estimates are identical.
+
+=== KEY: Leather_bdf7ad
+HEADWORD: Leather = 가죽
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  Chromium = 크로뮴
+  India = 인도
+  Leather = 가죽
+  Pickling = 절임
+  Tannin = 타닌
+  Vegetable = 채소
+  Vegetable tanning = 식물성 무두질
+  collagen = 콜라겐
+  crusting = 크러스팅
+  liming = 석회 처리
+  tanneries = 무두질 공장
+  tanning = 무두질
+ENTRY:
+Strong, flexible and durable material made by tanning animal skins and hides. It is most often made from cattle, sheep, goats, pigs, ostriches and aquatic animals such as seals and alligators. Tanning stabilizes the collagen in raw hide, so that the leather dries flexible and does not putrefy when rewetted. Preparatory stages such as soaking, liming and [[Pickling|pickling]] come before tanning, and crusting and finishing follow. Vegetable tanning, which uses [[Tannin|tannins]] from tree bark, is the oldest known method, while [[Chromium|chromium]] salts dominate modern output. Leather has been made for more than 7,000 years, and China and India are the leading producers today. Critics argue that tanneries engage in unsustainable practices that pose health hazards to nearby people and the environment.
+
+=== KEY: Leaves_of_Grass_36918f
+HEADWORD: Leaves of Grass = 풀잎
+LEVEL: 4
+GLOSSARY:
+  Abraham = 아브라함
+  Abraham Lincoln = 에이브러햄 링컨
+  Poetry = 시
+  Ralph Waldo Emerson = 랠프 월도 에머슨
+  The Poet = 「시인」
+  Walt Whitman = 월트 휘트먼
+ENTRY:
+Poetry collection by American poet [[Walt Whitman]]. Whitman self-published the first edition, which contained 12 untitled poems, on July 4, 1855, and he kept revising and expanding the book for the rest of his life. Later editions grew to more than 400 poems. The collection celebrates nature, the body and American democracy, and most of its poems do not rhyme or follow conventional meter. Its frank treatment of sensual pleasure provoked controversy and derision from contemporary critics, but it later became one of the central works of American poetry. The collection had its beginnings in [[Ralph Waldo Emerson]]'s essay "The Poet," which called for an American poet. Later editions added "When Lilacs Last in the Dooryard Bloom'd," an elegy for [[Abraham Lincoln]].
+
+=== KEY: Lebanese_Civil_War_dd6610
+HEADWORD: Lebanese Civil War = 레바논 내전
+LEVEL: 5
+GLOSSARY:
+  Hezbollah = 헤즈볼라
+  Iran = 이란
+  Israel = 이스라엘
+  Lebanon = 레바논
+  Palestine = 팔레스타인
+  Palestine Liberation Organization = 팔레스타인 해방 기구
+  Syria = 시리아
+  Taif Agreement = 타이프 협정
+ENTRY:
+Multifaceted armed conflict in Lebanon, 1975–1990. It arose from tensions within Lebanon's sectarian political system, compounded by Palestinian armed groups and regional rivalries. Fighting began between Christian militias and Palestinian factions, principally the [[Palestine Liberation Organization]], and it later involved [[Syria]], [[Israel]] and [[Iran]] in shifting alliances. An estimated 120,000 people died, and nearly one million were displaced. The 1989 Taif Agreement laid the foundation for ending the war, and most militias disbanded after 1990. [[Hezbollah]] remained armed, citing its role in resisting the Israeli occupation of southern Lebanon.
+
+=== KEY: Lebanon_b45ff9
+HEADWORD: Lebanon = 레바논
+LEVEL: 4
+GLOSSARY:
+  2020 Beirut explosion = 2020년 베이루트 폭발 사고
+  Asia = 아시아
+  Bank = 은행
+  Beirut = 베이루트
+  Civil War = 남북 전쟁
+  French = 프랑스어
+  French mandate = 프랑스 위임 통치령
+  Greater Lebanon = 대레바논
+  Israel = 이스라엘
+  Lebanese Civil War = 레바논 내전
+  Lebanese Republic = 레바논 공화국
+  Lebanon = 레바논
+  Levant = 레반트
+  Mediterranean = 지중해
+  Mediterranean Sea = 지중해
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Phoenicia = 페니키아
+  Syria = 시리아
+  West Asia = 서아시아
+  World = 세계
+  World Bank = 세계은행
+  World War I = 제1차 세계 대전
+  confessional system = 종파주의 정치 체제
+ENTRY:
+Country in the Levant region of West Asia. Officially the Lebanese Republic, it is bordered by [[Syria]] to the north and east, [[Israel]] to the south, and the Mediterranean Sea to the west. Its capital and largest city is [[Beirut]]. It was part of [[Phoenicia]] and later came under Roman, Arab and [[Ottoman Empire|Ottoman]] rule. After World War I a French mandate created Greater Lebanon, and the country gained independence in 1943 under a confessional system that allocates offices by religious group. The [[Lebanese Civil War]] (1975–1990) was followed by Syrian occupation until 2005. The [[2020 Beirut explosion]] and a liquidity crisis precipitated the collapse of the currency, which the World Bank has described as one of the world's worst economic crises since the 19th century.
+
+=== KEY: Lech_Wa_sa_17106f
+HEADWORD: Wałęsa, Lech = 바웬사, 레흐
+LEVEL: 4
+GLOSSARY:
+  Gdańsk = 그단스크
+  Gdańsk Agreement = 그단스크 협정
+  Institute of National Remembrance = 국가기억원
+  Lenin = 레닌
+  Lenin Shipyard = 레닌 조선소
+  Nobel Peace Prize = 노벨 평화상
+  Peace = 평화
+  Poland = 폴란드
+  Round Table Agreement = 원탁 회의 합의
+  Solidarity = 연대
+  martial law = 계엄령
+ENTRY:
+Polish statesman and anti-communist dissident, president of Poland from 1990 to 1995. An electrician at the Lenin Shipyard in [[Gdańsk]], he became a trade-union activist, was fired in 1976 and arrested several times. He helped negotiate the 1980 Gdańsk Agreement and co-founded the Solidarity trade union, whose membership rose to more than 10 million. After martial law outlawed Solidarity, he helped establish the Round Table Agreement, which led to the semi-free 1989 election. He was the first democratically elected president of Poland since 1922, but he narrowly lost the 1995 election. He won the Nobel Peace Prize in 1983; his wife accepted it because he feared he would not be allowed to return to Poland. Documents from Poland's Institute of National Remembrance have been cited in claims that he was a paid informant for the communist secret police; he has called them fabrications.
+
+=== KEY: Led_Zeppelin_IV_47f604
+HEADWORD: Led Zeppelin IV = 레드 제플린 IV
+LEVEL: 5
+GLOSSARY:
+  Atlantic Records = 애틀랜틱 레코드
+  England = 잉글랜드
+  Evermore = 「Evermore」
+  Headley Grange = 헤들리 그레인지
+  Heaven = 천국
+  Jimmy Page = 지미 페이지
+  Led Zeppelin = 레드 제플린
+  Sandy Denny = 샌디 데니
+  Stairway to Heaven = 「스테어웨이 투 헤븐」
+  The Battle of Evermore = 「더 배틀 오브 에버모어」
+  Zeppelin = 체펠린
+ENTRY:
+Fourth studio album by [[Led Zeppelin]], released in 1971. The album was untitled and represented by four symbols, one for each band member. Atlantic Records released it on November 8, 1971, and [[Jimmy Page]] produced it. It was recorded mostly at Headley Grange in England between December 1970 and February 1971. It includes the eight-minute "Stairway to Heaven," one of the band's best-known recordings, and guest singer Sandy Denny performs on "The Battle of Evermore." Critics have often ranked it among the greatest albums. It has sold over 37 million copies worldwide, making it Led Zeppelin's best-selling album.
+
+=== KEY: Led_Zeppelin_a319de
+HEADWORD: Led Zeppelin = 레드 제플린
+LEVEL: 4
+GLOSSARY:
+  Ahmet Ertegun = 아흐메트 에르테군
+  Ahmet Ertegun Tribute Concert = 아흐메트 에르테군 추모 공연
+  Billboard 200 = 빌보드 200
+  Concert = 콘서트
+  Forbes = 『포브스』
+  Jimmy Page = 지미 페이지
+  John = 존
+  John Bonham = 존 보넘
+  John Paul Jones = 존 폴 존스
+  Led Zeppelin = 레드 제플린
+  Led Zeppelin IV = 「레드 제플린 IV」
+  Paul = 바울로
+  Plant = 식물
+  Robert Plant = 로버트 플랜트
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Yardbirds = 야드버즈
+  Zeppelin = 체펠린
+  electric guitar = 일렉트릭 기타
+  hard rock = 하드 록
+  heavy metal = 헤비메탈
+ENTRY:
+English rock band formed in London in 1968. The band comprised vocalist Robert Plant, guitarist [[Jimmy Page]], bassist and keyboardist John Paul Jones and drummer John Bonham. Evolving from the Yardbirds, it combined heavy electric guitar with blues and folk elements, helping to establish hard rock and heavy metal. The band released eight studio albums in ten years, including *Led Zeppelin IV* (1971). It achieved eight consecutive UK number-one albums and six number-one albums on the US Billboard 200. The band disbanded after Bonham's death from alcoholism in 1980. Its surviving members have reunited only occasionally, including for the 2007 Ahmet Ertegun Tribute Concert. The [[Rock and Roll Hall of Fame]] inducted the band in 1995, and Forbes ranked Led Zeppelin the best rock band of all time in 2025.
+
+=== KEY: Lee_Harvey_Oswald_6d2dd9
+HEADWORD: Oswald, Lee Harvey = 오즈월드, 리 하비
+LEVEL: 5
+GLOSSARY:
+  Book = 책
+  Commission = 위원회
+  Dallas = 댈러스
+  J. D. Tippit = J. D. 티핏
+  Jack Ruby = 잭 루비
+  John = 존
+  John F. Kennedy = 존 F. 케네디
+  Kennedy = 케네디
+  Police = 경찰
+  Ruby = 루비
+  School = 학교
+  Texas = 텍사스주
+  Texas School Book Depository = 텍사스 교과서 창고
+  Warren Commission = 워런 위원회
+  conspiracy theories = 음모론
+  patsy = 희생양
+ENTRY:
+U.S. Marine veteran and assassin of [[John F. Kennedy]]. On November 22, 1963, Oswald shot Kennedy from a window of the Texas School Book Depository in [[Dallas]], then killed police officer J. D. Tippit and was arrested in a theater. He denied the charges, claiming he was a patsy. Two days later, nightclub owner Jack Ruby shot Oswald on live television at Dallas Police Headquarters. The Warren Commission concluded in September 1964 that Oswald and Ruby had acted alone. Public-opinion polls have shown that most Americans still doubt the official version, and the assassination has spawned numerous conspiracy theories.
+
+=== KEY: Lee_Kuan_Yew_5044ba
+HEADWORD: Lee Kuan Yew = 리콴유
+LEVEL: 4
+GLOSSARY:
+  Civil liberties = 시민적 자유
+  Malaya = 말라야
+  Malaysia = 말레이시아
+  Party = 파티
+  People's Action Party = 인민행동당
+  Sabah = 사바
+  Sarawak = 사라왁
+  Singapore = 싱가포르
+  illiberal democracy = 비자유주의적 민주주의
+  public housing = 공공 주택
+  senior minister = 선임 장관
+ENTRY:
+Singaporean politician and barrister, first prime minister of Singapore from 1959 to 1990. He co-founded the People's Action Party (PAP) in 1954 and led it to its first electoral victory in 1959. Singapore merged with Malaya, Sarawak and Sabah to form [[Malaysia]] in 1963, but was expelled in 1965 and became independent. Lee oversaw economic reforms and urban development, promoting meritocracy, multiracialism and anti-corruption. His administration is often characterized as an illiberal democracy that restricted press freedoms, public assembly, labor activism and [[Civil liberties|civil liberties]]. He is widely regarded as instrumental in developing Singapore's economy, education system, foreign policy and public housing, and as the founding father of modern Singapore. He remained in the cabinet as senior minister until 2004. After his death, approximately 1.7 million people paid their respects at tribute sites across the country.
+
+=== KEY: Lee_Marvin_8c41d8
+HEADWORD: Marvin, Lee = 마빈, 리
+LEVEL: 5
+GLOSSARY:
+  4th Marine Division = 제4해병사단
+  Academy Award = 아카데미상
+  Academy Award for Best Actor = 아카데미 남우주연상
+  Actor = 배우
+  Best Actor = 남우주연상
+  Cat Ballou = 「캣 벌루」
+  Heat = 열
+  Liberty = 자유
+  Pacific = 태평양
+  The Big Heat = 「빅 히트」
+  The Dirty Dozen = 「특공대작전」
+  The Man Who Shot Liberty Valance = 「리버티 밸런스를 쏜 사나이」
+  United States Marine Corps = 미국 해병대
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+American actor known for hard-boiled roles and a bass voice. Marvin was a decorated [[United States Marine Corps|Marine]] who served as a scout sniper with the 4th Marine Division in the Pacific during World War II. Initially typecast as a villain, he later gained prominence playing anti-heroes. He won the Academy Award for Best Actor for *Cat Ballou* (1965), a comic Western in which he played a dual role. Other films include *The Big Heat* (1953), *The Man Who Shot Liberty Valance* (1962) and *The Dirty Dozen* (1967).
+
+=== KEY: Lee_de_Forest_ff1397
+HEADWORD: De Forest, Lee = 디포리스트, 리
+LEVEL: 4
+GLOSSARY:
+  American Institute of Electrical Engineers = 미국 전기 공학회
+  Amplifier = 증폭기
+  Audion = 오디온
+  Edison = 에디슨
+  Edison Medal = 에디슨 메달
+  Electronic Age = 전자 시대
+  Elliott = 엘리엇
+  Elliott Cresson Medal = 엘리엇 크레슨 메달
+  Forest = 숲
+  Franklin Institute = 프랭클린 연구소
+  IRE Medal of Honor = IRE 명예 메달
+  Medal of Honor = 명예 훈장
+  Vacuum tube = 진공관
+  electronic oscillator = 전자 발진기
+  mail fraud = 우편 사기
+  triode = 3극 진공관
+ENTRY:
+American inventor and electrical engineer, an early pioneer of electronics. In 1908 he invented the Audion, a three-element triode [[Vacuum tube|vacuum tube]] and the first practical electronic [[Amplifier|amplifier]]. The device helped start the Electronic Age and enabled the electronic oscillator, which made radio broadcasting and long-distance telephone lines possible and led to talking motion pictures. De Forest held more than 300 patents worldwide, but his career was turbulent. He boasted that he made, then lost, four fortunes, was involved in several major patent lawsuits, and was tried and acquitted of mail fraud. He received the 1922 IRE Medal of Honor, the 1923 Franklin Institute Elliott Cresson Medal and the 1946 American Institute of Electrical Engineers Edison Medal.
+
+=== KEY: Leech_3ae3b8
+HEADWORD: Leech = 거머리
+LEVEL: 4
+GLOSSARY:
+  Annelida = 환형동물문
+  Blood = 혈액
+  Earthworm = 지렁이
+  Hirudinea = 거머리아강
+  Hirudo medicinalis = 의료용 거머리
+  Medicine = 의학
+  Osteoarthritis = 골관절염
+  Today = 「투데이」
+  anticoagulant = 항응고제
+  epicondylitis = 상과염
+  hematophagous = 흡혈성
+  hirudin = 히루딘
+  microsurgery = 미세 수술
+  oligochaetes = 빈모류
+ENTRY:
+Segmented parasitic or predatory worm of the subclass Hirudinea, in the phylum Annelida. Leeches are closely related to the oligochaetes, including the [[Earthworm|earthworm]], and have soft, muscular bodies that can lengthen and contract. Most have suckers at both ends. The best-known species, such as the medicinal leech *Hirudo medicinalis*, are hematophagous and feed on [[Blood|blood]], first secreting the peptide hirudin to prevent clotting. The majority of leeches live in freshwater habitats, and a minority are predatory, mostly preying on small invertebrates. Leeches were used in [[Medicine|medicine]] from ancient times until the 19th century to draw blood. Today they are used in microsurgery and to treat joint diseases such as epicondylitis and [[Osteoarthritis|osteoarthritis]], while hirudin is used as an anticoagulant drug. The word leech is also used for a person who takes without giving.
+
+=== KEY: Leeds_f5f146
+HEADWORD: Leeds = 리즈
+LEVEL: 4
+GLOSSARY:
+  City = 도시
+  City of Leeds = 리즈시
+  England = 잉글랜드
+  Industrial Revolution = 산업 혁명
+  Leeds = 리즈
+  Leeds United = 리즈 유나이티드
+  Middle Ages = 중세
+  Queen = 퀸
+  Queen Victoria = 빅토리아 여왕
+  River = 강
+  River Aire = 에어강
+  West Yorkshire = 웨스트요크셔
+  Yorkshire = 요크셔
+  metropolitan borough = 메트로폴리탄 버러
+ENTRY:
+City and metropolitan borough in West Yorkshire, England, and the largest settlement in Yorkshire. Built around the River Aire, Leeds was a market town in the [[Middle Ages|Middle Ages]] and became a major center of the wool trade in the 17th and 18th centuries. It was awarded a city charter in 1893 by [[Queen Victoria]]. During the [[Industrial Revolution|Industrial Revolution]] it developed as a mill town known for its flax industry, iron foundries, engineering and printing. Its economy is among the most diverse of the UK's main employment centers, and the city is home to five universities and the Leeds United football club. The city had 536,280 residents, while the larger City of Leeds district had 812,000 (2021 census).
+
+=== KEY: Leek_d87e04
+HEADWORD: Leek = 리크
+LEVEL: 4
+GLOSSARY:
+  Allium = 부추속
+  Allium ampeloprasum = 알리움 암펠로프라숨
+  France = 프랑스
+  Garlic = 마늘
+  Old English = 고대 영어
+  Onion = 양파
+  Salad = 샐러드
+  chives = 차이브
+  scallion = 파
+  shallot = 샬롯
+  vinaigrette = 비네그레트
+ENTRY:
+Biennial vegetable in the onion family, a cultivar of *Allium ampeloprasum*. The edible part is a bundle of leaf sheaths, sometimes called a stem or stalk. The genus *Allium* also includes the [[Onion|onion]], [[Garlic|garlic]], shallot, scallion and chives. The name leek developed from the Old English word *lēac*, which also gave modern English the name for garlic. Leeks are more cold-tolerant than other cultivated alliums and can be harvested up to six months after planting. They have a mild, onion-like taste. The white base and light green parts are typically eaten, while the dark green portion is usually discarded or used for stock. Leeks may be boiled, fried or eaten raw in [[Salad|salads]]. In France, whole boiled leeks served cold with vinaigrette are popular.
+
+=== KEY: Left_wing_politics_648615
+HEADWORD: Left-wing politics = 좌파 정치
+LEVEL: 5
+GLOSSARY:
+  Capitalism = 자본주의
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  Left-wing politics = 좌파 정치
+  Marxism = 마르크스주의
+  Social democracy = 사회 민주주의
+  anarchism = 아나키즘
+  center-left = 중도 좌파
+  communism = 공산주의
+  royal veto = 국왕 거부권
+  social liberalism = 사회 자유주의
+  socialism = 사회주의
+ENTRY:
+Range of political ideologies that favor social equality and egalitarianism. Left-wing politics typically concerns those perceived as disadvantaged and seeks to reduce unjustified inequalities. The left-right terms date from the [[French Revolution]], when delegates opposed to the royal veto sat to the left of the presiding officer. The term now usually applies to movements critical of [[Capitalism|capitalism]], including socialism, anarchism, communism and Marxism. Social democracy and social liberalism are considered center-left. Critics argue that communist regimes produced authoritarian governance and economic inefficiency, while debate continues over whether expansive government intervention reduces economic dynamism.
+
+=== KEY: Left_wing_populism_f70625
+HEADWORD: Left-wing populism = 좌파 포퓰리즘
+LEVEL: 5
+GLOSSARY:
+  Bernie = 「버니」
+  Bernie Sanders = 버니 샌더스
+  Establishment = 기득권층
+  Globalization = 세계화
+  Korea = 한국
+  Lee Jae-myung = 이재명
+  Left-wing politics = 좌파 정치
+  Populism = 포퓰리즘
+  Sanders = 샌더스
+  South Korea = 대한민국
+  United States = 미국
+  Working class = 노동 계급
+  economic democracy = 경제 민주주의
+  minority rights = 소수자 권리
+  right-wing populists = 우파 포퓰리스트
+  social justice = 사회 정의
+ENTRY:
+Political ideology combining [[Left-wing politics|left-wing politics]] with [[Populism|populist]] rhetoric. It often opposes the Establishment and speaks for the masses against economic monopolies, emphasizing economic democracy, social justice and skepticism of [[Globalization|globalization]]. Unlike right-wing populists, left-wing populist parties tend to support minority rights and a nationality not defined by ethnic particularism. In the [[United States]], [[Bernie Sanders]] is an example. Since the 2010s the label has also been applied to left-liberal movements, and in the 2020s left-liberal economic populism appealing to the [[Working class|working class]] has been prominent in some countries, such as South Korea under Lee Jae-myung.
+
+=== KEY: Legal_history_0b2e12
+HEADWORD: Legal history = 법제사
+LEVEL: 4
+GLOSSARY:
+  Babylonian law = 바빌로니아 법
+  British Empire = 대영 제국
+  Civil law (legal system) = 대륙법
+  Common law = 보통법
+  Corpus Juris Civilis = 로마법 대전
+  Europe = 유럽
+  Hammurabi = 함무라비
+  Hong Kong = 홍콩
+  India = 인도
+  Justinian = 유스티니아누스
+  Justinian I = 유스티니아누스 1세
+  Ma'at = 마아트
+  Malaysia = 말레이시아
+  Roman law = 로마법
+  Singapore = 싱가포르
+  Sumerian = 수메르
+  Ur-Nammu = 우르남무
+  common law = 보통법
+  social history = 사회사
+  stelae = 석비
+ENTRY:
+Study of how law has evolved and why it has changed. Legal history is closely connected to the development of civilizations and to social history. Twentieth-century historians viewed legal institutions as complex systems of rules, players and symbols that interact with society, and they used statistical methods to analyze case outcomes. Ancient Egyptian law, dating to 3000 BC, was based on the concept of *Ma'at*. By the 22nd century BC, the Sumerian ruler Ur-Nammu had formulated the first extant law code, and [[Hammurabi]] later codified Babylonian law on stelae. Roman law, systematized in the [[Corpus Juris Civilis]] under [[Justinian I]], influenced [[Civil law (legal system)|civil law]] traditions in continental Europe, while [[Common law|common law]] spread through the [[British Empire]] to India, Malaysia, Singapore and Hong Kong.
+
+=== KEY: Legalism_Chinese_philosophy_615c28
+HEADWORD: Legalism = 법가
+LEVEL: 4
+GLOSSARY:
+  China = 중국
+  Confucianism = 유교
+  Han Fei = 한비
+  Han dynasty = 한나라
+  Legalist = 법가
+  Legalists = 법가
+  Mohists = 묵가
+  Qin dynasty = 진나라
+  Shang Yang = 상앙
+  fajia = 법가
+  political philosophy = 정치철학
+  universal love = 겸애
+ENTRY:
+Ancient Chinese school of political philosophy, or *fajia*. Legalists generally viewed most people, or at least the elite, as self-interested, and emphasized equality under the law, administrative methods and regulation. They opposed the [[Confucianism|Confucians]], who favored cultivated virtue, and the Mohists, who favored universal love. Legalist ideas were first adopted in the state of [[Qin dynasty|Qin]] under the reforms of [[Shang Yang]] in the 4th century BCE, which helped Qin conquer China and establish its first imperial dynasty. [[Han Fei]] is considered by many the greatest Legalist thinker. Later rulers, distancing themselves from Qin's brutality, adopted Confucianism as the official ideology, but the Legalist bureaucratic apparatus was kept by the [[Han dynasty]] and remained a profound influence on Chinese statecraft. The label was a later bibliographic category, and some recent scholars regard it as inaccurate.
+
+=== KEY: Legend_9b27e1
+HEADWORD: Legend = 전설
+LEVEL: 4
+GLOSSARY:
+  Brothers Grimm = 그림 형제
+  Folklore = 민속
+  French = 프랑스어
+  Genre = 장르
+  Latin = 라틴어
+  Medieval Latin = 중세 라틴어
+  Miracle = 기적
+  Myth = 신화
+  Old French = 고대 프랑스어
+  Urban legends = 도시 전설
+  legenda = 레겐다
+ENTRY:
+Genre of [[Folklore|folklore]] consisting of a narrative about human actions believed or perceived to have taken place in history. Legends concern human beings as main characters and do not necessarily have supernatural origins, which distinguishes them from [[Myth|myths]]. The [[Brothers Grimm]] defined legend as "folktale historically grounded." Many legends are never entirely believed by their audiences but never resolutely doubted, and they may include [[Miracle|miracles]] and change over time. The word entered English c. 1340 from Old French, derived from the Medieval Latin *legenda*. Legends often reaffirm values commonly held by the group to whose tradition they belong. Urban legends are a modern example.
+
+=== KEY: Legendary_creature_739a11
+HEADWORD: Legendary creature = 전설의 생물
+LEVEL: 4
+GLOSSARY:
+  Chimera (mythology) = 키마이라
+  Cyclops = 키클롭스
+  Dragon = 용
+  Folklore = 민속
+  Griffin = 그리핀
+  Minotaur = 미노타우로스
+  Others = 아더
+  Supernatural = 초자연
+  Tartary = 타타리
+  Unicorn = 유니콘
+  Vegetable = 채소
+  Vegetable Lamb of Tartary = 타타르의 식물 양
+  bestiaries = 동물 우화집
+ENTRY:
+Supernatural entity described in [[Folklore|folklore]] that has not been scientifically shown to exist. Some legendary creatures originated in traditional mythology and were believed to be real, such as [[Dragon|dragons]], [[Griffin|griffins]] and [[Unicorn|unicorns]]. Others were based on garbled accounts of travelers' tales, such as the Vegetable Lamb of Tartary. Hybrid beasts are called [[Chimera (mythology)|chimeras]]. In classical tales, monsters such as the Cyclops and the Minotaur appear so that heroes can destroy them, emphasizing the heroes' greatness. In medieval bestiaries, animals were included regardless of biological reality and carried symbolic meanings. The unicorn was a metaphor for Christ, and the dragon was used to denote sin in general.
+
+=== KEY: Legionnaires_disease_60643b
+HEADWORD: Legionnaires' disease = 레지오넬라증
+LEVEL: 5
+GLOSSARY:
+  American Legion = 미국 재향 군인회
+  Antibiotic = 항생제
+  Cooling tower = 냉각탑
+  Infection = 감염
+  Legionella = 레지오넬라균
+  Legionella pneumophila = 레지오넬라 뉴모필라
+  Philadelphia = 필라델피아
+  Vaccine = 백신
+  atypical pneumonia = 비정형 폐렴
+ENTRY:
+Form of atypical pneumonia caused by *Legionella* bacteria, most often *Legionella pneumophila*. Symptoms include cough, shortness of breath, high fever and muscle pains, usually beginning 2–10 days after exposure. *Legionella* is found naturally in fresh water and can contaminate hot water tanks, hot tubs and [[Cooling tower|cooling towers]]. Infection typically occurs by breathing in mist that contains the bacteria, and the disease does not usually spread directly between people. No [[Vaccine|vaccine]] is available, so prevention depends on maintaining water systems. Treatment commonly uses [[Antibiotic|antibiotics]]. The disease is named after a 1976 outbreak at an American Legion convention in [[Philadelphia]].
+
+=== KEY: Legislature_4380f7
+HEADWORD: Legislature = 입법부
+LEVEL: 4
+GLOSSARY:
+  European Parliament = 유럽 의회
+  Executive (government) = 행정부
+  Parliament = 의회
+  Separation of powers = 권력 분립
+  bicameral = 양원제
+  congresses = 의회
+  parliaments = 의회
+  primary legislation = 1차 입법
+  separation of powers = 권력 분립
+  supreme state organs of power = 최고 국가 권력 기관
+  unicameral = 단원제
+  unified power = 권력 통일
+ENTRY:
+Deliberative assembly that holds legal authority to make laws and exercise political oversight. Legislatures may exist at national, subnational, local or supranational levels, such as the [[European Parliament]]. They are among a state's principal institutions, typically contrasted with the [[Executive (government)|executive]] and judicial institutions. Laws enacted by legislatures are called primary legislation. Legislatures may also perform oversight, budgetary and representative functions, and they may be unicameral, bicameral or multicameral. The most common types are parliaments, which fuse executive and legislative powers and whose government is accountable to the legislature, and congresses, which operate under the [[Separation of powers|separation of powers]]. Communist states have had supreme state organs of power that centralize all state powers under a doctrine of unified power.
+
+=== KEY: Lego_d17164
+HEADWORD: Lego = 레고
+LEVEL: 4
+GLOSSARY:
+  ABS = ABS 수지
+  Billund = 빌룬
+  Danish = 덴마크어
+  Denmark = 덴마크
+  Gear = 기어
+  Hilary Page = 힐러리 페이지
+  Lego Group = 레고 그룹
+  Legoland = 레고랜드
+  Robotics = 로봇공학
+  leg godt = 레그 고트
+  minifigures = 미니피겨
+ENTRY:
+Brand of plastic construction toys made by the Lego Group, a privately held company based in Billund, Denmark. Lego consists of interlocking plastic bricks made of ABS, along with [[Gear|gears]], minifigures and other parts, that can be assembled into vehicles, buildings and working [[Robotics|robots]]. The company began in 1932 as a carpenter's workshop making wooden toys, and its name derives from the Danish phrase *leg godt* ("play well"). It began producing interlocking bricks in 1949, based on a design by English toymaker Hilary Page, and the modern brick design was developed in 1958. Annual brick production averages about 36 billion. As of July 2015, 600 billion Lego parts had been produced. Lego is the largest toy manufacturer in the world by sales, and the brand includes films, games and ten Legoland amusement parks.
+
+=== KEY: Legume_104893
+HEADWORD: Legume = 콩과 식물
+LEVEL: 5
+GLOSSARY:
+  Bean = 콩
+  Chickpea = 병아리콩
+  Fabaceae = 콩과
+  Lentil = 렌즈콩
+  Pea = 완두
+  Plant = 식물
+  crop rotation = 윤작
+  green manure = 녹비
+  pulses = 콩류
+  rhizobia = 뿌리혹박테리아
+  root nodules = 뿌리혹
+ENTRY:
+Plant of the pea family [[Fabaceae|Fabaceae]], or the fruit or seeds of such a plant. Legumes produce a dry fruit that usually splits along two seams. Most have symbiotic nitrogen-fixing rhizobia bacteria in root nodules, and some of the fixed nitrogen becomes available to later crops, so legumes are important in crop rotation. Grown mainly for human food, legumes are also used as livestock forage and green manure. Seeds harvested solely for drying are called pulses and include [[Bean|beans]], [[Lentil|lentils]], [[Chickpea|chickpeas]] and [[Pea|peas]]. The family is the third-largest land plant family by number of species, with some 19,000 known species.
+
+=== KEY: Leicester_a06360
+HEADWORD: Leicester = 레스터
+LEVEL: 5
+GLOSSARY:
+  Anglo-Saxons = 앵글로색슨족
+  Battle of Bosworth = 보즈워스 전투
+  City = 도시
+  East Midlands = 이스트미들랜즈
+  England = 잉글랜드
+  House of Lancaster = 랭커스터 왕가
+  Lancaster = 랭커스터
+  Leicester = 레스터
+  Leicester Cathedral = 레스터 대성당
+  Leicestershire = 레스터셔
+  Midlands = 미들랜즈
+  Ratae Corieltauvorum = 라타이 코리엘타우보룸
+  Richard = 리처드
+  Richard III = 리처드 3세
+  Simon de Montfort = 시몽 드 몽포르
+  Victorian = 빅토리아 시대
+  Vikings = 바이킹
+  city status = 시티 지위
+  county town = 주도
+  unitary authority = 단일 자치체
+ENTRY:
+City and unitary authority, county town of Leicestershire, in the East Midlands of England (pop., 2025: 383,116). Leicester developed from the Roman town of Ratae Corieltauvorum, was later settled by the [[Anglo-Saxons|Anglo-Saxons]], and was captured by the [[Vikings|Vikings]]. After the death of Simon de Montfort in 1265 the town passed to the House of Lancaster. Richard III spent his last days in the town before his death at the Battle of Bosworth and was buried there in 1485. He was reburied in Leicester Cathedral in 2015. Known in the Victorian age for hosiery and shoe manufacturing, Leicester gained city status in 1919.
+
+=== KEY: Leif_Erikson_1f0131
+HEADWORD: Erikson, Leif = 에이릭손, 레이프
+LEVEL: 4
+GLOSSARY:
+  Canada = 캐나다
+  Christianity = 기독교
+  Christopher Columbus = 크리스토퍼 콜럼버스
+  Columbus = 콜럼버스
+  Erik the Red = 붉은 에이리크
+  Greenland = 그린란드
+  L'Anse aux Meadows = 랑스오메도즈
+  Leif the Lucky = 행운아 레이프
+  Lucky = 럭키
+  Newfoundland = 뉴펀들랜드
+  Newfoundland (island) = 뉴펀들랜드섬
+  Norse = 노르드인
+  North America = 북아메리카
+  Vinland = 빈란드
+  sagas of Icelanders = 아이슬란드인의 사가
+ENTRY:
+Norse explorer, thought to have been the first European to set foot on continental America. According to the sagas of Icelanders, he established a Norse settlement at [[Vinland]], usually interpreted as coastal North America. Some speculation links his settlement to the Norse remains at L'Anse aux Meadows in [[Newfoundland (island)|Newfoundland]], Canada. He was the son of Erik the Red, who founded the first Norse settlement in [[Greenland]], where Leif was raised. After his voyage and his father's death, he became chief of the Greenland settlement. He was known as Leif the Lucky for rescuing shipwrecked sailors and converting Greenland to Christianity. The sagas, thought to have been written around 1200, contain sometimes conflicting accounts and are generally regarded as literature rather than purely historical records. His voyage preceded sustained European contact by about half a millennium before [[Christopher Columbus]].
+
+=== KEY: Leipzig_4a887b
+HEADWORD: Leipzig = 라이프치히
+LEVEL: 5
+GLOSSARY:
+  Bach = 바흐
+  Church = 처치
+  City = 도시
+  Europe = 유럽
+  Felix Mendelssohn = 펠릭스 멘델스존
+  Germany = 독일
+  Holy Roman Empire = 신성 로마 제국
+  Johann Sebastian Bach = 요한 제바스티안 바흐
+  Leipzig = 라이프치히
+  Leipzig Hauptbahnhof = 라이프치히 중앙역
+  Richard = 리처드
+  Richard Wagner = 리하르트 바그너
+  Roman Empire = 로마 제국
+  Saxony = 작센
+  St. Nicholas Church = 성 니콜라이 교회
+  Wagner = 바그너
+  city pop = 시티 팝
+  communism = 공산주의
+ENTRY:
+City in Saxony, Germany, the state's most populous city (pop., 2025: 633,592). A trade city since at least the time of the [[Holy Roman Empire]], Leipzig has hosted a trade fair dating back to 1190. It was a center of publishing from 1764 to 1945. Events in Leipzig in 1989, beginning with demonstrations at St. Nicholas Church, played a significant role in precipitating the fall of communism in Europe. The city is home to one of Europe's oldest universities. [[Johann Sebastian Bach|Bach]], [[Felix Mendelssohn]] and [[Richard Wagner]] lived and worked there. Leipzig Hauptbahnhof is Europe's largest railway station by floor area.
+
+=== KEY: Leisure_43defa
+HEADWORD: Leisure = 여가
+LEVEL: 4
+GLOSSARY:
+  Great Britain = 그레이트브리튼
+  Human = 인간
+  Leisure = 여가
+  Recreation = 레크리에이션
+  Rights = 인권
+  Thorstein Veblen = 소스타인 베블런
+  Universal Declaration of Human Rights = 세계 인권 선언
+  Upper class = 상류층
+ENTRY:
+Free time apart from work, job hunting, domestic chores and education, and from necessities such as eating and sleeping. Leisure is also defined as a quality of experience that emphasizes perceived freedom and choice and is pursued for its own sake. Thorstein Veblen described it as "nonproductive consumption of time." [[Recreation]] differs from leisure in being a purposeful activity that includes the experience of leisure. Economists treat leisure time as valuable to a person, as they do wages. Leisure was historically a privilege of the [[Upper class|upper class]], but opportunities for leisure expanded dramatically in the mid-to-late 19th century, starting in Great Britain. The concept of leisure as a human right appears in article 24 of the [[Universal Declaration of Human Rights]].
+
+=== KEY: Lemming_06b1a9
+HEADWORD: Lemming = 레밍
+LEVEL: 5
+GLOSSARY:
+  Arctic = 북극
+  Arctic tundra = 북극 툰드라
+  Arvicolinae = 비단털쥐아과
+  Muskrat = 사향쥐
+  Norway = 노르웨이
+  Siberian = 시베리아
+  Tundra = 툰드라
+  Vole = 들쥐
+ENTRY:
+Small rodent of the Arctic [[Tundra|tundra]], related to [[Vole|voles]] and [[Muskrat|muskrats]] in the subfamily *Arvicolinae*. Lemmings measure about 13–18 cm and feed mostly on mosses and grasses, and they are a primary prey source for most Arctic carnivores. They do not hibernate and live in tunnel systems beneath the snow in winter. Their populations boom and then disperse, and the Norway and West Siberian lemmings are among the few vertebrates whose fluctuations are chaotic. Lemmings are conspicuously colored and behave aggressively toward predators, a defense thought to be a warning display. A longstanding myth claims they commit mass suicide by jumping off cliffs.
+
+=== KEY: Lemon_ff71ff
+HEADWORD: Lemon = 레몬
+LEVEL: 4
+GLOSSARY:
+  Christopher Columbus = 크리스토퍼 콜럼버스
+  Citric acid = 시트르산
+  Citron = 시트론
+  Columbus = 콜럼버스
+  Europe = 유럽
+  Genoa = 제노바
+  Hispaniola = 히스파니올라섬
+  India = 인도
+  Italy = 이탈리아
+  James = 야고보
+  James Lind = 제임스 린드
+  Lemon = 레몬
+  Mexico = 멕시코
+  Rutaceae = 운향과
+  Scurvy = 괴혈병
+  World = 세계
+  bitter orange = 광귤
+  lemonade = 레모네이드
+  vitamin C = 비타민 C
+ENTRY:
+Yellow fruit of a small evergreen tree, *Citrus × limon*, in the family Rutaceae. A true lemon is a hybrid of the [[Citron|citron]] and the bitter orange. Its origins are uncertain, but it may have originated in northeastern India during the 1st millennium BC. Lemons reached Europe near southern Italy no later than the 2nd century AD. The first substantial cultivation in Europe began in [[Genoa]] in the mid-15th century, and [[Christopher Columbus]] brought seeds to [[Hispaniola]] in 1493. Lemon juice is about 5–6% [[Citric acid|citric acid]], giving it a sour taste, and it is used in drinks such as lemonade. In 1747 the English physician James Lind experimented with adding lemon juice to the diets of seamen suffering from [[Scurvy|scurvy]], before vitamin C was known. World production was 23 million tonnes in 2024, led by India and Mexico with 31% of the total.
+
+=== KEY: Lemur_f2d082
+HEADWORD: Lemur = 여우원숭이
+LEVEL: 4
+GLOSSARY:
+  Ape = 유인원
+  IUCN = 국제 자연 보전 연맹
+  Madagascar = 마다가스카르
+  Monkey = 원숭이
+  Ring-tailed lemurs = 알락꼬리여우원숭이
+  flagship species = 깃대종
+  giant lemurs = 거대 여우원숭이
+  indri = 인드리
+  mouse lemur = 쥐여우원숭이
+  strepsirrhine = 곡비원류
+ENTRY:
+Wet-nosed primate endemic to the island of Madagascar. Lemurs are divided into eight families and about 100 living species. Most are small, with large eyes and long tails, and they usually live in trees and are active at night. They evolved independently from [[Monkey|monkeys]] and [[Ape|apes]]. Living lemurs range from the mouse lemur, at about 30 g, to the indri, at 9 kg. Since humans arrived on the island about 2,000 years ago, more than a dozen species of giant lemurs have become extinct. Lemurs are generally the most social strepsirrhine primates. The IUCN considers them the world's most endangered mammals, noting that as of 2013 up to 90% of species face the threat of extinction within the next 20 to 25 years. Ring-tailed lemurs are an iconic flagship species.
+
+=== KEY: Lena_River_dc9c71
+HEADWORD: Lena River = 레나강
+LEVEL: 4
+GLOSSARY:
+  Arctic = 북극
+  Arctic Ocean = 북극해
+  Far East = 극동
+  Gold = 금
+  Laptev = 랍테프
+  Laptev Sea = 랍테프해
+  Lena = 레나강
+  Ocean = 대양
+  Permafrost = 영구 동토층
+  River = 강
+  Russia = 러시아
+  Russian = 러시아어
+  Russian Far East = 러시아 극동
+  Yakutsk = 야쿠츠크
+  mammoth = 매머드
+ENTRY:
+River in the Russian Far East, the easternmost of Siberia's three great rivers flowing into the Arctic Ocean. The Lena is 4,294 km long and drains 2,490,000 sq km, making it the 11th-longest river in the world and the longest river entirely within Russia. Permafrost underlies its whole catchment and is continuous in over 75 percent of the basin. The river flows north past [[Yakutsk]] and widens into a delta of 30,000 sq km that merges into the Laptev Sea. The Lena is navigable for 3,540 km. Gold is washed from the sands of its tributaries, and mammoth tusks have been dug out of the delta.

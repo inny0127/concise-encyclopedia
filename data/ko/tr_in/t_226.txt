@@ -1,0 +1,919 @@
+=== KEY: Modu_Chanyu_a6b2b7
+HEADWORD: Modu Chanyu = 묵특 선우
+LEVEL: 4
+GLOSSARY:
+  Battle of Baideng = 백등산 전투
+  Gaozu = 고조
+  Han = 한나라
+  Han Chinese = 한족
+  Lake = 호수
+  Lake Baikal = 바이칼호
+  Laoshang = 노상 선우
+  Liao = 요나라
+  Liao River = 랴오허강
+  Manchurian = 만주
+  Meng Tian = 몽염
+  Mongolian = 몽골어
+  Pamir = 파미르
+  Pamir Mountains = 파미르고원
+  Qin = 진나라
+  River = 강
+  Tian = 천
+  Touman = 두만
+  Xiongnu = 흉노
+  chanyu = 선우
+  first Qin emperor = 진시황
+ENTRY:
+Founder and first supreme ruler (*chanyu*) of the [[Xiongnu]] Empire, r. 209–174 BC. Modu was the son of the previous chanyu, Touman, and seized power in 209 BC by ordering his men to kill his father. He unified the tribes of the Mongolian–Manchurian grassland after Qin forces under Meng Tian took Xiongnu pasture lands in 215 BC. After the death of the first Qin emperor in 210 BC, he expanded the empire from the Liao River to the Pamir Mountains in the west and [[Lake Baikal]] in the north. At the Battle of Baideng in 200 BC, Xiongnu forces besieged the Han emperor Gaozu, compelling the Chinese court to pay tribute and form marriage alliances. Modu was succeeded by his son Laoshang. Accounts of his reign derive mainly from Han Chinese histories, which may reflect bias.
+
+=== KEY: Modular_arithmetic_90c68f
+HEADWORD: Modular arithmetic = 모듈러 산술
+LEVEL: 4
+GLOSSARY:
+  12-hour clock = 12시간제
+  Carl Friedrich Gauss = 카를 프리드리히 가우스
+  Congruence = 합동
+  Cryptography = 암호학
+  Disquisitiones Arithmeticae = 『산술 연구』
+  Equivalence relation = 동치 관계
+  Fermat's Last Theorem = 페르마의 마지막 정리
+  Gauss = 가우스
+  Number theory = 수론
+  RSA algorithm = RSA 알고리즘
+  Theorem = 정리
+  elliptic curves = 타원 곡선
+  hash functions = 해시 함수
+  modular forms = 모듈러 형식
+  modulus = 법
+  number theory = 수론
+  residue classes = 잉여류
+ENTRY:
+System of integer arithmetic in which results wrap around at a fixed value, the modulus. It replaces the results of addition, multiplication and subtraction with their remainders after division by the modulus. A notable property is that the final result is the same whether the reduction is applied after every operation, only at the end, or at intermediate steps. Carl Friedrich Gauss developed the modern approach to [[Number theory|number theory]] using it, in *Disquisitiones Arithmeticae* (1801). Congruence is an [[Equivalence relation|equivalence relation]] that partitions the integers into residue classes, as a [[12-hour clock]] does with hours. Applications include [[Cryptography|cryptography]], such as the RSA algorithm, which relies on the difficulty of factoring the product of two large primes, as well as hash functions. Andrew Wiles's 1994 proof of Fermat's Last Theorem used connections to elliptic curves and modular forms.
+
+=== KEY: Module_mathematics_de6562
+HEADWORD: Module = 가군
+LEVEL: 4
+GLOSSARY:
+  Abelian group = 아벨 군
+  Algebraic geometry = 대수기하학
+  Algebraic topology = 대수적 위상수학
+  Commutative algebra = 가환대수학
+  Free modules = 자유 가군
+  Homological algebra = 호몰로지 대수학
+  Representation theory = 표현론
+  abelian group = 아벨 군
+  abelian groups = 아벨 군
+  algebraic geometry = 대수기하학
+  commutative algebra = 가환대수학
+  field = 체
+  homological algebra = 호몰로지 대수학
+  quotient modules = 몫가군
+  representation theory = 표현론
+  ring = 환
+  scalar multiplication = 스칼라 곱셈
+  scalars = 스칼라
+  submodules = 부분 가군
+  vector space = 벡터 공간
+ENTRY:
+Generalization of the vector space in which scalars come from a ring, not necessarily commutative, rather than a field. Like a vector space, a module is an additive [[Abelian group|abelian group]], and scalar multiplication distributes over addition and is compatible with ring multiplication. The concept generalizes abelian groups, which are exactly the modules over the ring of integers. Modules are closely related to the [[Representation theory|representation theory]] of groups and are central to [[Commutative algebra|commutative algebra]] and [[Homological algebra|homological algebra]]. They are used widely in [[Algebraic geometry|algebraic geometry]] and [[Algebraic topology|algebraic topology]]. Free modules, submodules and quotient modules are key tools for studying their structure.
+
+=== KEY: Modulo_4cde24
+HEADWORD: Modulo = 모듈로 연산
+LEVEL: 5
+GLOSSARY:
+  Binary = 이진법
+  Euclidean = 유클리드
+  Euclidean division = 유클리드 나눗셈
+  Integer = 정수
+  Modular arithmetic = 모듈러 산술
+  modular arithmetic = 모듈러 산술
+  modulus = 법
+ENTRY:
+Binary operation giving the remainder of the Euclidean division of one number by another, the divisor being called the modulus. For example, 5 mod 2 = 1, because dividing 5 by 2 leaves a remainder of 1. For [[Integer|integers]] the result ranges from 0 to m−1. Programming languages differ in how they define the result when exactly one operand is negative. Many languages write the operation as mod or use a percent sign. The operation underlies [[Modular arithmetic|modular arithmetic]].
+
+=== KEY: Mogadishu_45b08e
+HEADWORD: Mogadishu = 모가디슈
+LEVEL: 4
+GLOSSARY:
+  Ajuran Sultanate = 아주란 술탄국
+  Banaadir = 바나디르
+  Civil War = 남북 전쟁
+  Indian Ocean = 인도양
+  Mogadishu = 모가디슈
+  Ocean = 대양
+  Somali Civil War = 소말리아 내전
+  Somalia = 소말리아
+  Sultanate of Mogadishu = 모가디슈 술탄국
+  Xamar = 하마르
+  early modern = 근세
+  early modern period = 근세
+ENTRY:
+Capital and most populous city of [[Somalia]], on the [[Indian Ocean]] coast. Known locally as Xamar or Hamar, it lies in the Banaadir region, which is a municipality rather than a federal state. The city has served as a port connecting traders across the Indian Ocean for millennia. It was the capital of the Sultanate of Mogadishu (9th–13th century), which controlled the Indian Ocean gold trade for centuries, before coming under the [[Ajuran Sultanate]]. In the early modern period it was considered the wealthiest city on the East African coast, with a thriving textile industry. Italian colonial rule came in stages, with direct governance from 1906. The city became capital of independent Somalia in 1960. The [[Somali Civil War]] devastated the city over three decades, and major reconstruction began in the late 2010s.
+
+=== KEY: Mohamed_Al_Fayed_8de4a9
+HEADWORD: Al-Fayed, Mohamed = 알파예드, 모하메드
+LEVEL: 5
+GLOSSARY:
+  Diana, Princess of Wales = 다이애나 왕세자비
+  Dodi = 도디
+  Football = 축구
+  Forbes = 포브스
+  Fulham Football Club = 풀럼 FC
+  Harrods = 해러즈
+  Hôtel Ritz Paris = 리츠 파리
+  MI6 = MI6
+  Paris = 파리
+  Princess of Wales = 웨일스 공비
+  Sexual harassment = 성희롱
+  United Kingdom = 영국
+  Wales = 웨일스
+ENTRY:
+Egyptian businessman based mainly in the United Kingdom from the mid-1960s. His holdings included the Hôtel Ritz Paris, the Harrods department store and Fulham Football Club. At his death, [[Forbes]] estimated his wealth at US$2 billion. His son Dodi died with [[Diana, Princess of Wales|Diana, Princess of Wales]] in a Paris car crash in 1997; Al-Fayed claimed that [[MI6]] had orchestrated it, a claim rejected by official inquiries. Early media scrutiny of misconduct allegations at Harrods, including [[Sexual harassment|sexual harassment]] and assault, was curtailed by his threats of litigation. After his death, over 200 women made complaints of illegal activity, including rape.
+
+=== KEY: Mohamed_Salah_a2f040
+HEADWORD: Salah, Mohamed = 살라, 모하메드
+LEVEL: 5
+GLOSSARY:
+  100 Most Influential People = 세계에서 가장 영향력 있는 100인
+  Champions League = 챔피언스리그
+  Egypt = 이집트
+  Liverpool = 리버풀
+  People = 『피플』
+  Premier League = 프리미어리그
+  Time = 『타임』
+  Time (magazine) = 『타임』
+  UEFA = 유럽 축구 연맹
+  UEFA Champions League = UEFA 챔피언스리그
+ENTRY:
+Egyptian footballer and captain of the Egypt national team. Widely regarded as one of the best players of his generation, he is the all-time top foreign goalscorer in the [[Premier League]] and the all-time top African goalscorer in the [[UEFA Champions League]]. He played for Liverpool from 2017 to 2026, setting the Premier League record for most goals in a 38-game season, with 32 in his first season. He has scored 68 goals for Egypt. [[Time (magazine)|Time]] magazine named him to its list of the 100 Most Influential People in 2019.
+
+=== KEY: Mohamed_bin_Zayed_Al_Nahyan_1d0817
+HEADWORD: Mohamed bin Zayed Al Nahyan = 무함마드 빈 자이드 알나하얀
+LEVEL: 5
+GLOSSARY:
+  Abraham = 아브라함
+  Abraham Accords = 아브라함 협정
+  Abu Dhabi = 아부다비
+  Accords = 협약
+  Human = 인간
+  Human rights = 인권
+  Iran = 이란
+  Israel = 이스라엘
+  Muslim Brotherhood = 무슬림 형제단
+  Qatar = 카타르
+  Qatar crisis = 카타르 외교 위기
+  Rapid Support Forces = 신속지원군
+  Sudanese = 수단인
+  Sudanese civil war = 수단 내전
+  Sudanese civil war (2023–present) = 수단 내전 (2023년~현재)
+  UAE = 아랍에미리트
+  United Arab Emirates = 아랍에미리트
+  de facto = 사실상
+ENTRY:
+President of the United Arab Emirates and ruler of [[Abu Dhabi]] since 2022, and de facto leader of the UAE from 2014. The UAE was a leading actor in the Qatar crisis. He opposes the [[Muslim Brotherhood]] and [[Iran]]'s regional proxies, and the UAE signed the Abraham Accords with [[Israel]] in 2020. He has been the main backer of the Rapid Support Forces in the [[Sudanese civil war (2023–present)|Sudanese civil war]]. Human rights organizations have criticized the suppression of political opposition and free expression in the UAE.
+
+=== KEY: Mohammad_Mosaddegh_4bf2a6
+HEADWORD: Mosaddegh, Mohammad = 모사데크, 모하마드
+LEVEL: 4
+GLOSSARY:
+  1953 Iranian coup d'état = 1953년 이란 쿠데타
+  Anglo-Persian Oil Company = 앵글로페르시안 석유 회사
+  BP = BP
+  Barack Obama = 버락 오바마
+  Iran = 이란
+  United States = 미국
+  coup d'état = 쿠데타
+  house arrest = 가택 연금
+  social security = 사회 보장
+ENTRY:
+Iranian lawyer and politician, prime minister of Iran from 1951 to 1953. He led the nationalization of Iran's oil industry, which the British had built through the Anglo-Persian Oil Company, later [[BP]]. The move provoked a British-led embargo that damaged Iran's economy. His administration also introduced social security, land reforms and higher taxes, including on land rents. His government was overthrown in the [[1953 Iranian coup d'état]], carried out by pro-monarchy forces with British and American involvement. Mosaddegh was imprisoned, then held under house arrest until his death. In 2013, during the presidency of [[Barack Obama]], the United States formally acknowledged its role in the coup.
+
+=== KEY: Mohammad_Reza_Pahlavi_874751
+HEADWORD: Mohammad Reza Pahlavi = 모하마드 레자 팔레비
+LEVEL: 4
+GLOSSARY:
+  Anglo-Soviet invasion of Iran = 영국·소련의 이란 침공
+  Anwar Sadat = 안와르 사다트
+  Egypt = 이집트
+  GDP per capita = 1인당 국내 총생산
+  Iran = 이란
+  Islamic republic = 이슬람 공화국
+  Mohammad Mosaddegh = 모하마드 모사데크
+  Pahlavi dynasty = 팔레비 왕조
+  Reza Shah = 레자 샤
+  Ruhollah Khomeini = 루홀라 호메이니
+  Shah = 샤
+  White = 흰색
+  White Revolution = 백색 혁명
+  shah = 샤
+  supreme leader = 최고 지도자
+ENTRY:
+Last shah of Iran, reigning from 1941 to 1979 as the second monarch of the Pahlavi dynasty. He succeeded his father, Reza Shah, after the Anglo-Soviet invasion of Iran in 1941 forced the elder shah's abdication. After the 1953 coup that overthrew [[Mohammad Mosaddegh]], he consolidated power and ruled with increasing autocracy. His White Revolution of 1963 launched economic and social modernization, and real GDP per capita nearly tripled between 1963 and 1976, though benefits were unevenly distributed. Rising inequality, repression and inflation fueled protests in the late 1970s, and he left Iran in January 1979. Within a month the monarchy collapsed, and [[Ruhollah Khomeini]] emerged as supreme leader of the new Islamic republic. The shah died in exile in [[Egypt]], where he had been welcomed by President [[Anwar Sadat]].
+
+=== KEY: Mohammad_Reza_Shajarian_edb344
+HEADWORD: Shajarian, Mohammad-Reza = 샤자리안, 모하마드레자
+LEVEL: 4
+GLOSSARY:
+  Azeri = 아제리
+  Concert = 콘서트
+  Green = 초록색
+  Green Movement = 녹색 운동
+  Khorasan = 호라산
+  Kurdish = 쿠르드
+  Los Angeles = 로스앤젤레스
+  Los Angeles Times = 『로스앤젤레스 타임스』
+  Lur = 루르
+  Mazandarani = 마잔다란
+  Mozart = 모차르트
+  Mozart Medal = 모차르트 메달
+  Persian = 페르시아어
+  Persian traditional music = 페르시아 전통 음악
+  Picasso Award = 피카소 메달
+  Radio Khorasan = 라디오 호라산
+  UNESCO = 유네스코
+  dastgah = 다스트가
+  ostad = 오스타드
+ENTRY:
+Iranian singer and master (*ostad*) of Persian traditional music. He was also known for his skill in Persian calligraphy and for humanitarian work. He began his singing career in 1959 at Radio Khorasan and rose to prominence in the 1960s with a distinctive style. He was one of the few singers allowed to perform publicly after the 1979 revolution. He was a skilled exponent of the demanding dastgah tradition, and his works also drew on Mazandarani, Azeri, Kurdish and Lur music. [[UNESCO]] presented him with its Picasso Award in 1999 and its Mozart Medal in 2006. In 2017 the *Los Angeles Times* called him the greatest living maestro of Persian classical music. After supporting the Green Movement and criticizing the government, he was banned from holding [[Concert|concerts]] and releasing music.
+
+=== KEY: Mohammad_Zahir_Shah_7eab2c
+HEADWORD: Mohammad Zahir Shah = 모하마드 자히르 샤
+LEVEL: 4
+GLOSSARY:
+  Afghan conflict = 아프가니스탄 분쟁
+  Afghanistan = 아프가니스탄
+  Cold War = 냉전
+  Constitutional monarchy = 입헌 군주제
+  Coup d'état = 쿠데타
+  Durrani = 두라니
+  Durrani Empire = 두라니 제국
+  Father = 아버지
+  Father of the Nation = 국부
+  Italy = 이탈리아
+  Kabul = 카불
+  Mohammad Daoud Khan = 모하마드 다우드 칸
+  Nation = 민족
+  Rome = 로마
+ENTRY:
+Last king of Afghanistan, reigning from 1933 to 1973. Ruling for almost 40 years, he was the longest-serving ruler of Afghanistan since the founding of the Durrani Empire in the 18th century. He expanded diplomatic relations with countries on both sides of the [[Cold War]]. In the 1950s he began modernizing the country, culminating in a new constitution and a [[Constitutional monarchy|constitutional monarchy]]. His long reign was marked by peace until the onset of the [[Afghan conflict]]. In 1973, while he was undergoing medical treatment in [[Italy]], his cousin and former prime minister, Mohammad Daoud Khan, overthrew him in a [[Coup d'état|coup]] and established a republic, ending more than 225 years of monarchical government. He remained in exile near [[Rome]] until 2002, when he returned to [[Kabul]]. He was given the title Father of the Nation.
+
+=== KEY: Mohammed_bin_Rashid_Al_Maktoum_3ee0fa
+HEADWORD: Mohammed bin Rashid Al Maktoum = 무함마드 빈 라시드 알막툼
+LEVEL: 5
+GLOSSARY:
+  Burj Khalifa = 부르즈 할리파
+  DP World = DP 월드
+  Darley Racing = 달리 레이싱
+  Dubai = 두바이
+  Emirates (airline) = 에미레이트 항공
+  Endurance = 인듀어런스호
+  FEI World Endurance Championship = FEI 세계 지구력 승마 선수권 대회
+  Godolphin = 고돌핀
+  Palm Islands = 팜 아일랜드
+  Thoroughbred = 서러브레드
+  United Arab Emirates = 아랍에미리트
+  World = 세계
+  World Endurance Championship = FIA 세계 내구 선수권
+  global city = 세계 도시
+ENTRY:
+Emirati royal, ruler of [[Dubai]] and prime minister of the United Arab Emirates since 2006. Under his leadership Dubai became a global city, and government-owned enterprises including [[Emirates (airline)|Emirates]] airline and DP World were launched. He oversaw the development of the Palm Islands and the [[Burj Khalifa]], the tallest building in the world since 2010. He founded the Godolphin stable and Darley Racing, a [[Thoroughbred]] breeding operation. In 2012 he rode a horse 160 km to take the FEI World Endurance Championship.
+
+=== KEY: Mohammed_bin_Salman_088f61
+HEADWORD: Mohammed bin Salman = 무함마드 빈 살만
+LEVEL: 5
+GLOSSARY:
+  Arabia = 아라비아
+  Crown = 영국 왕실
+  Jamal Khashoggi = 자말 카슈끄지
+  King Salman = 살만 국왕
+  Salman = 살만
+  Saudi Arabia = 사우디아라비아
+  Saudi-led intervention in Yemen = 사우디아라비아 주도의 예멘 내전 개입
+  Vision 2030 = 비전 2030
+  Yemen = 예멘
+  crown prince = 왕세자
+  de facto = 사실상
+ENTRY:
+Crown prince and prime minister of [[Saudi Arabia]] and the de facto ruler of the kingdom. He became crown prince in 2017 and prime minister in 2022, and is the son of King Salman. His Vision 2030 program aims to reduce reliance on oil through investment in technology, tourism and sport. Reforms have included lifting the ban on female drivers, although women's rights activists have been imprisoned. He was the architect of the Saudi-led intervention in Yemen. A 2021 U.S. intelligence report found that he had ordered the killing of journalist [[Jamal Khashoggi]], a finding Saudi authorities have disputed.
+
+=== KEY: Mohanlal_65d812
+HEADWORD: Mohanlal = 모한랄
+LEVEL: 5
+GLOSSARY:
+  Dadasaheb Phalke = 다다사헤브 팔케
+  Dadasaheb Phalke Award = 다다사헤브 팔케상
+  Film = 영화
+  Hindi = 힌디어
+  India = 인도
+  Kannada = 칸나다어
+  Kerala = 케랄라주
+  Kerala State Film Awards = 케랄라주 영화상
+  Malayalam = 말라얄람어
+  Malayalam cinema = 말라얄람어 영화
+  National Film Awards = 인도 국립 영화상
+  Territorial Army = 국토방위군
+  Thiranottam = 「티라노탐」
+  ViswaSanthi Foundation = 비스와산티 재단
+  playback singer = 플레이백 가수
+ENTRY:
+Indian actor, producer and playback singer who works mainly in Malayalam cinema and has appeared in [[Hindi]] and [[Kannada]] films. He debuted in 1978 in Thiranottam, whose release was delayed for 25 years by censorship issues. He has won five National Film Awards and nine Kerala State Film Awards, and received the Dadasaheb Phalke Award, the highest honor in Indian cinema. In 2009 he became the first actor in India to be granted the honorary rank of lieutenant colonel in the Territorial Army. He founded the ViswaSanthi Foundation, which works in healthcare and education.
+
+=== KEY: Mohenjo_daro_a7f2fc
+HEADWORD: Mohenjo-daro = 모헨조다로
+LEVEL: 4
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Asia = 아시아
+  Egypt = 이집트
+  Erosion = 침식
+  Indus = 인더스강
+  Indus Valley = 인더스강 유역
+  Indus Valley Civilisation = 인더스 문명
+  Larkana District = 라르카나 지구
+  Mesopotamia = 메소포타미아
+  Pakistan = 파키스탄
+  Sindh = 신드주
+  South Asia = 남아시아
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  ancient Egypt = 고대 이집트
+ENTRY:
+Archaeological site of the [[Indus Valley Civilisation]] in Larkana District, Sindh, [[Pakistan]]. Built c. 2500 BC, it was one of the largest settlements of the civilization and one of the world's earliest major cities, contemporary with [[Ancient Egypt|ancient Egypt]] and [[Mesopotamia]]. With an estimated population of at least 40,000, it had standardized baked bricks, grid-based streets and covered drains. The site was rediscovered in the 1920s, and excavations revealed a large public bath and multistory brick houses without palaces or grand temples. The city was abandoned by about 1700 BC, along with other large cities of the civilization. Designated a UNESCO World Heritage Site in 1980, it was the first in South Asia to be so designated. Erosion and improper restoration threaten the site.
+
+=== KEY: Mohs_scale_c62ff3
+HEADWORD: Mohs scale = 모스 굳기계
+LEVEL: 5
+GLOSSARY:
+  Diamond = 다이아몬드
+  Friedrich Mohs = 프리드리히 모스
+  German = 독일어
+  Mineral = 광물
+  Talc = 활석
+  Theophrastus = 테오프라스토스
+  field = 체
+ENTRY:
+Qualitative ordinal scale from 1 to 10 for the scratch resistance of [[Mineral|minerals]]. Introduced in 1812 by German geologist and mineralogist Friedrich Mohs, it ranks minerals by whether a harder one can scratch a softer one. [[Talc]] is 1 and [[Diamond]] is 10. The method was mentioned by Theophrastus c. 300 BC. The scale is useful for identifying minerals in the field, but it does not predict how well materials endure in industrial settings, and it does not measure toughness or absolute hardness.
+
+=== KEY: Moir_pattern_fa187e
+HEADWORD: Moiré pattern = 무아레 무늬
+LEVEL: 5
+GLOSSARY:
+  Computer graphics = 컴퓨터 그래픽스
+  Graphene = 그래핀
+  Superconductivity = 초전도
+  Television = 텔레비전
+  Textile = 직물
+  Wave interference = 파동 간섭
+  interference pattern = 간섭무늬
+  magic angle = 매직 앵글
+  micrometers = 마이크로미터
+  moiré = 무아레
+  ray traced = 광선 추적
+ENTRY:
+Large-scale [[Wave interference|wave interference]] pattern produced when two similar ruled patterns are overlaid, one displaced, rotated or differing in pitch. The term comes from *moiré*, a [[Textile|textile]] with a rippled, "watered" appearance, historically made of silk. Moiré patterns often appear as artifacts in printing, [[Television|television]] and digital photography, and in [[Computer graphics|computer graphics]], such as when a checkered plane is ray traced. They are also used deliberately, for example in micrometers, which amplify very small movements. In stacked two-dimensional layers, such as [[Graphene|graphene]] twisted to a "magic angle" of approximately 1.1°, moiré patterns induce states including unconventional [[Superconductivity|superconductivity]].
+
+=== KEY: Mojave_Desert_d6a7f3
+HEADWORD: Mojave Desert = 모하비 사막
+LEVEL: 4
+GLOSSARY:
+  Alluvial fan = 선상지
+  Arizona = 애리조나주
+  Badwater Basin = 배드워터 분지
+  California = 캘리포니아주
+  Chihuahuan = 치와와 사막
+  Desert = 사막
+  Great Basin = 그레이트베이슨 사막
+  Mojave = 모하비 사막
+  Nevada = 네바다주
+  North America = 북아메리카
+  San Andreas = 샌앤드레이어스
+  San Andreas Fault = 샌안드레아스 단층
+  Sierra Nevada = 시에라네바다산맥
+  Sonoran = 소노라 사막
+  Tungsten = 텅스텐
+  United States = 미국
+  Utah = 유타주
+  bajadas = 바하다
+  basin and range = 분지와 산맥
+  high desert = 고지대 사막
+  playas = 플라야
+  rain shadow = 비그늘
+ENTRY:
+Desert in the rain shadow of the southern [[Sierra Nevada]], in the southwestern United States. The Mojave lies mainly in southeastern California and southwestern [[Nevada]], with small parts extending into [[Arizona]] and [[Utah]]. It is the smallest and driest of the North American deserts, which also include the Sonoran, Chihuahuan and Great Basin deserts. Its typical basin and range topography includes Badwater Basin, the lowest point in North America. Most of the desert lies between 2,000 and 4,000 feet (610 and 1,220 m), so it is often called the "high desert." [[Alluvial fan|Alluvial fans]] called bajadas surround its mountains, and dry lake beds called playas, where water evaporates and leaves salt, lie in its basins. The [[San Andreas Fault]] forms part of its southwestern border. The desert contains silver, [[Tungsten|tungsten]], iron and gold deposits, and supports ranching, recreation and military training.
+
+=== KEY: Molasses_c9c26c
+HEADWORD: Molasses = 당밀
+LEVEL: 5
+GLOSSARY:
+  Americas = 아메리카
+  Iron = 철
+  Molasses = 당밀
+  Rum = 럼
+  Sugar beet = 사탕무
+  Sugarcane = 사탕수수
+  Vitamin = 비타민
+  black treacle = 검은 당밀
+  blackstrap molasses = 블랙스트랩 당밀
+  brown sugar = 흑설탕
+  soil amendment = 토양 개량제
+ENTRY:
+Viscous byproduct of refining [[Sugarcane|sugarcane]] or [[Sugar beet|sugar beet]] juice into sugar. Also called black treacle, molasses is a major constituent of brown sugar, and sugarcane molasses is usually used to sweeten and flavor foods. It is rich in [[Vitamin|vitamins]] and minerals, including [[Iron|iron]], calcium, magnesium and potassium. First molasses has the highest sugar content, while blackstrap molasses is the darkest and most robust in flavor. Molasses was a popular sweetener in the Americas before the 20th century. It is also used to distill [[Rum|rum]] and as a soil amendment.
+
+=== KEY: Moldavia_032db7
+HEADWORD: Moldavia = 몰다비아
+LEVEL: 4
+GLOSSARY:
+  Bessarabia = 베사라비아
+  Bogdan I = 보그단 1세
+  Bukovina = 부코비나
+  Dniester = 드네스트르강
+  Dniester River = 드네스트르강
+  Eastern Carpathians = 동카르파티아산맥
+  Eastern Europe = 동유럽
+  Europe = 유럽
+  Hertsa = 헤르차
+  Moldavia = 몰다비아
+  Moldova = 몰도바
+  Moldova River = 몰도바강
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Pokuttya = 포쿠티아
+  Republic of Moldova = 몰도바 공화국
+  River = 강
+  Romania = 루마니아
+  Ukraine = 우크라이나
+  Wallachia = 왈라키아
+ENTRY:
+Historical region and former principality in [[Eastern Europe]], corresponding to the territory between the Eastern Carpathians and the Dniester River. It existed from the 14th century to 1859 as an initially independent and later autonomous state under [[Ottoman Empire|Ottoman]] overlordship. Founded by Bogdan I, it united with [[Wallachia]] in 1859 as the basis of the modern [[Romania|Romanian]] state. At times it included Bessarabia, all of Bukovina, Hertsa and part of Pokuttya. Its western half is now in Romania, its eastern side belongs to the [[Moldova|Republic of Moldova]], and its northern and southeastern parts are in Ukraine. The names Moldavia and Moldova derive from the Moldova River, though the etymology is unknown.
+
+=== KEY: Moldova_0c12f5
+HEADWORD: Moldova = 몰도바
+LEVEL: 4
+GLOSSARY:
+  Bessarabia = 베사라비아
+  Chișinău = 키시너우
+  Dniester = 드네스트르강
+  EU = 유럽 연합
+  Eastern Europe = 동유럽
+  Europe = 유럽
+  European Union = 유럽 연합
+  Maia = 마이아
+  Maia Sandu = 마이아 산두
+  Moldavia = 몰다비아
+  Moldavian SSR = 몰다비아 소비에트 사회주의 공화국
+  Moldova = 몰도바
+  Molotov–Ribbentrop Pact = 독소 불가침 조약
+  Principality of Moldavia = 몰다비아 공국
+  Romania = 루마니아
+  Russian = 러시아어
+  Russian Empire = 러시아 제국
+  Soviet Union = 소련
+  Transnistria = 트란스니스트리아
+  Ukraine = 우크라이나
+  Union = 북군
+  de facto = 사실상
+ENTRY:
+Landlocked parliamentary republic in Eastern Europe, bordered by [[Romania]] to the west and Ukraine to the north, east and south. Its capital, [[Chișinău]], is the largest city and main cultural and commercial center. Most of its territory was part of the [[Moldavia|Principality of Moldavia]] until 1812, when it was ceded to the [[Russian Empire]] as Bessarabia. In 1940, as a consequence of the [[Molotov–Ribbentrop Pact]], Romania was compelled to cede Bessarabia to the [[Soviet Union]]. The Moldavian SSR declared independence on 27 August 1991 and took the name Moldova. The unrecognized breakaway state of [[Transnistria]] has held de facto control of the strip east of the Dniester since 1990. Maia Sandu, elected president in 2020 on a pro-Western, anti-corruption platform, has pursued membership in the [[European Union|EU]]; the country was granted candidate status in June 2022.
+
+=== KEY: Mole_animal_acf60a
+HEADWORD: Mole = 두더지
+LEVEL: 4
+GLOSSARY:
+  African golden moles = 황금두더지
+  Asia = 아시아
+  Australian = 오스트레일리아
+  Earthworm = 지렁이
+  Europe = 유럽
+  Hemoglobin = 헤모글로빈
+  Ireland = 아일랜드
+  Marsupial = 유대류
+  North America = 북아메리카
+  Oxygen = 산소
+  Talpidae = 두더지과
+  True = 『True』
+  golden moles = 황금두더지
+  prepollex = 전엄지
+ENTRY:
+Small, subterranean mammal with a cylindrical body, velvety fur and powerful forelimbs adapted for digging. The word most commonly refers to species of the family Talpidae. True moles are found in most of North America, Europe (except [[Ireland|Ireland]]) and Asia. The unrelated African golden moles and Australian [[Marsupial|marsupial]] moles have a similar lifestyle. Moles eat [[Earthworm|earthworms]] and other soil invertebrates, and store living worms in underground larders, since their saliva paralyzes them. Moles tolerate high levels of carbon dioxide because their [[Hemoglobin|hemoglobin]] has a higher affinity for [[Oxygen|oxygen]] than in other mammals. Each forepaw bears an extra thumb, or prepollex. Gardeners may see moles as pests, but they aerate soil and provide prey for other wildlife.
+
+=== KEY: Mole_cricket_99daa4
+HEADWORD: Mole cricket = 땅강아지
+LEVEL: 4
+GLOSSARY:
+  Florida = 플로리다주
+  Gryllotalpa = 땅강아지속
+  Gryllotalpidae = 땅강아지과
+  Herbivore = 초식 동물
+  Insect = 곤충
+  Java = 자와섬
+  Laos = 라오스
+  Latin = 라틴어
+  Latin America = 라틴아메리카
+  Neoscapteriscus = 네오스캅테리스쿠스속
+  Orthoptera = 메뚜기목
+  Philippines = 필리핀
+  Thailand = 태국
+  Vietnam = 베트남
+  West Java = 서자와주
+  Zambia = 잠비아
+  exponential horn = 지수형 혼
+  fossorial = 굴을 파는
+  the Philippines = 필리핀
+ENTRY:
+Insect of the family Gryllotalpidae, in the order [[Orthoptera]]. Mole crickets are cylindrical, fossorial [[Insect|insects]] about 3–5 cm (1.2–2.0 in) long as adults, with small eyes and shovel-like forelimbs. Most of their life stages are spent underground, although adults have wings and disperse in the breeding season. Diets vary: some species are [[Herbivore|herbivores]] that feed on roots, others are omnivores, and a few are largely predatory. Males sing from burrows that open into the air in the shape of an exponential horn, producing an almost pure tone modulated into chirps. In [[Zambia]] mole crickets are thought to bring good fortune, and in Latin America they are said to predict rain. In Florida, where *Neoscapteriscus* mole crickets are not native, they are considered pests, and biological controls have been used. *Gryllotalpa* species have been eaten in West Java, Vietnam, [[Thailand]], Laos and the Philippines.
+
+=== KEY: Mole_unit_d6a386
+HEADWORD: Mole = 몰
+LEVEL: 4
+GLOSSARY:
+  Atom = 원자
+  Avogadro constant = 아보가드로 상수
+  Avogadro number = 아보가드로수
+  Chemistry = 화학
+  International System of Units = 국제단위계
+  Ion = 이온
+  Litre = 리터
+  Molecule = 분자
+  amount of substance = 물질량
+  carbon-12 = 탄소-12
+  daltons = 돌턴
+  elementary entities = 기본 입자
+  molar mass = 몰 질량
+ENTRY:
+Base unit of amount of substance in the [[International System of Units]] (SI), symbol mol. One mole is an aggregate of exactly 6.02214076×10²³ elementary entities, which can be [[Atom|atoms]], [[Molecule|molecules]], [[Ion|ions]] or other particles. The number of particles in a mole is the Avogadro number, and the [[Avogadro constant]] has units of mol⁻¹. The mole was historically defined by the number of atoms in 12 grams of carbon-12, making molar mass numerically equal to average molecular mass in daltons; the 2019 SI revision made that equivalence approximate. The concept resembles a dozen, but the number is huge because atoms are tiny. In [[Chemistry|chemistry]], it expresses reactant and product amounts: in 2 H₂ + O₂ → 2 H₂O, 2 mol of hydrogen and 1 mol of oxygen react to form 2 mol of water. Concentrations are given in moles per [[Litre|liter]].
+
+=== KEY: Molecular_biology_1e58c4
+HEADWORD: Molecular biology = 분자 생물학
+LEVEL: 4
+GLOSSARY:
+  Biochemistry = 생화학
+  Biology = 생물학
+  Branch = 브랜치
+  DNA = DNA
+  Francis = 프랑수아
+  Francis Crick = 프랜시스 크릭
+  James = 야고보
+  James Watson = 제임스 왓슨
+  Protein = 단백질
+  RNA = RNA
+  Rosalind Franklin = 로절린드 프랭클린
+  Watson = 왓슨
+  William = 윌리엄
+  William Astbury = 윌리엄 애스트버리
+  bioinformatics = 생물정보학
+  double helix = 이중 나선
+  field = 체
+  molecular medicine = 분자 의학
+  nucleic acids = 핵산
+  protein synthesis = 단백질 합성
+  transcription = 전사
+  translation = 번역
+ENTRY:
+Branch of [[Biology|biology]] that seeks to understand the molecular structures and chemical processes underlying biological activity within and between cells. It centers largely on nucleic acids such as [[DNA]] and RNA and on [[Protein|proteins]], examining their structure, function and interactions in replication, transcription, translation and protein synthesis. The field draws on genetics, [[Biochemistry|biochemistry]], physics, mathematics and bioinformatics. The term was first used in 1945 by the English physicist William Astbury. In 1953, [[Francis Crick]], [[James Watson]], [[Rosalind Franklin]] and colleagues described the double helix model of DNA, which gave a physico-chemical basis for the idea that nucleic acids are the primary substance of biological inheritance. Its use in medicine is called molecular medicine.
+
+=== KEY: Molecular_cloud_f21e96
+HEADWORD: Molecular cloud = 분자 구름
+LEVEL: 4
+GLOSSARY:
+  21 cm line = 21 cm 선
+  Carbon monoxide = 일산화 탄소
+  Cassiopeia A = 카시오페이아자리 A
+  Interstellar medium = 성간 물질
+  Parsec = 파섹
+  Solar mass = 태양 질량
+  Star formation = 별 형성
+  Supernova = 초신성
+  carbon monoxide = 일산화 탄소
+  solar masses = 태양 질량
+  stellar nurseries = 별 탄생 영역
+  supernova remnant = 초신성 잔해
+ENTRY:
+Type of [[Interstellar medium|interstellar]] cloud dense enough for molecules, most commonly molecular hydrogen (H₂), to form. Typically 10 to 100 [[Parsec|parsecs]] across, with masses of 10⁴ to 10⁶ [[Solar mass|solar masses]], molecular clouds are sometimes called stellar nurseries when [[Star formation|star formation]] occurs within them. Molecular hydrogen is hard to detect, so [[Carbon monoxide|carbon monoxide]] (CO) is used to trace it, assuming a roughly constant ratio between CO luminosity and H₂ mass. Dense clumps within a cloud, where gravity is strong enough, begin the collapse that forms stars. In 1951, radio astronomers first detected emission from interstellar neutral hydrogen at the 21 cm line. In 1963, OH was detected in the [[Supernova|supernova]] remnant Cassiopeia A, the first radio detection of an interstellar molecule.
+
+=== KEY: Molecular_orbital_24d8a9
+HEADWORD: Molecular orbital = 분자 궤도
+LEVEL: 4
+GLOSSARY:
+  Atom = 원자
+  Atomic orbital = 원자 궤도
+  Electron = 전자
+  Pauli exclusion principle = 파울리 배타 원리
+  Robert S. Mulliken = 로버트 S. 멀리컨
+  Schrödinger equation = 슈뢰딩거 방정식
+  antibonding orbitals = 반결합 궤도
+  atomic orbitals = 원자 궤도
+  bonding orbitals = 결합 궤도
+  field = 체
+  nonbonding orbitals = 비결합 궤도
+ENTRY:
+Mathematical function describing the location and wave-like behavior of an [[Electron|electron]] in a molecule. Molecular orbitals are approximate solutions to the [[Schrödinger equation]] for electrons in the field of a molecule's nuclei. They are usually built from [[Atomic orbital|atomic orbitals]] of the constituent [[Atom|atoms]], forming bonding orbitals, which have lower energy and hold the molecule together; antibonding orbitals, which have higher energy and oppose bonding; and nonbonding orbitals, which have the same energy as their atomic orbitals. In general, molecular orbitals are delocalized throughout the entire molecule. Under the [[Pauli exclusion principle|Pauli principle]], two electrons in the same orbital have opposite spin. Robert S. Mulliken introduced the terms atomic orbital and molecular orbital in 1932.
+
+=== KEY: Molecular_orbital_theory_44e734
+HEADWORD: Molecular orbital theory = 분자 궤도 이론
+LEVEL: 4
+GLOSSARY:
+  Atomic orbital = 원자 궤도
+  Friedrich Hund = 프리드리히 훈트
+  John = 존
+  John C. Slater = 존 C. 슬레이터
+  John Lennard-Jones = 존 레너드존스
+  Quantum mechanics = 양자역학
+  Robert Mulliken = 로버트 멀리컨
+  Schrödinger equation = 슈뢰딩거 방정식
+  Valence bond theory = 원자가 결합 이론
+  atomic orbitals = 원자 궤도
+  density functional theory = 밀도 범함수 이론
+  linear combinations of atomic orbitals = 원자 궤도의 선형 결합
+  paramagnetism = 상자성
+  quantum mechanics = 양자역학
+ENTRY:
+Method for describing the electronic structure of molecules using [[Quantum mechanics|quantum mechanics]]. Proposed early in the 20th century, it treats electrons as moving under the influence of the nuclei of the whole molecule rather than being assigned to individual bonds. Its molecular orbitals are approximated as linear combinations of [[Atomic orbital|atomic orbitals]] (LCAO), derived from the [[Schrödinger equation]] using density functional theory or Hartree–Fock methods. The theory explains the paramagnetism of O₂, which [[Valence bond theory|valence bond theory]] cannot. Developed after valence bond theory was established in 1927, primarily by Friedrich Hund, Robert Mulliken, John C. Slater and John Lennard-Jones, it is used to interpret ultraviolet–visible spectroscopy.
+
+=== KEY: Molecule_1003cf
+HEADWORD: Molecule = 분자
+LEVEL: 3
+GLOSSARY:
+  Amedeo Avogadro = 아메데오 아보가드로
+  Avogadro constant = 아보가드로 상수
+  Chemical bond = 화학 결합
+  Covalent bond = 공유 결합
+  DNA = DNA
+  Democritus = 데모크리토스
+  Fritz London = 프리츠 런던
+  Ion = 이온
+  Jean Perrin = 장 페랭
+  Leucippus = 레우키포스
+  Linus Pauling = 라이너스 폴링
+  Macromolecules = 거대 분자
+  Nobel Prize = 노벨상
+  Noble gas = 비활성 기체
+  Polymer = 중합체
+  Robert Boyle = 로버트 보일
+  The Sceptical Chymist = 『회의적 화학자』
+  VSEPR theory = 원자가 껍질 전자쌍 반발 이론
+  Walter Heitler = 발터 하이틀러
+  chemical bond = 화학 결합
+  covalent bonds = 공유 결합
+  heteronuclear = 이핵
+  homonuclear = 동핵
+  hydrogen bonds = 수소 결합
+  ionic bonds = 이온 결합
+  kinetic theory = 기체 분자 운동론
+  kinetic theory of gases = 기체 분자 운동론
+  noble gases = 비활성 기체
+  quantum mechanics = 양자역학
+ENTRY:
+Electrically neutral group of two or more atoms held together by attractive forces known as [[Chemical bond|chemical bonds]]. Depending on context, the term may or may not include [[Ion|ions]]; in quantum physics, organic chemistry, and biochemistry the distinction is dropped. A molecule may be homonuclear, consisting of atoms of one element, as in oxygen (O₂), or heteronuclear, a chemical compound, as in water (H₂O). In the kinetic theory of gases, the term is used for any gaseous particle, which relaxes the two-atom requirement because the [[Noble gas|noble gases]] are single atoms. Atoms and complexes joined by non-covalent interactions such as hydrogen bonds or ionic bonds are typically not considered single molecules, as are large crystalline networks such as rocks, salts, and metals.
+
+In [[Covalent bond|covalent bonds]], atoms share electron pairs. The three-dimensional structure that results, predicted by valence-shell electron-pair repulsion (VSEPR) theory, gives methane a tetrahedral shape and water a bent one, and it influences polarity and reactivity. Macromolecules such as proteins and DNA are large [[Polymer|polymers]].
+
+Leucippus and Democritus argued in antiquity that the universe is composed of atoms and voids. The modern concept traces to [[Robert Boyle]]'s 1661 hypothesis, in *The Sceptical Chymist*, that matter is composed of clusters of particles and that chemical change results from their rearrangement. [[Amedeo Avogadro]]'s 1811 paper held that the smallest particles of gases are not necessarily simple atoms but groups of atoms united by attraction. In 1926 Jean Perrin received the Nobel Prize in physics for proving conclusively the existence of molecules, calculating the Avogadro constant by three methods. In 1927 Fritz London and Walter Heitler applied quantum mechanics to the hydrogen molecule, bringing chemistry under quantum mechanics; their work influenced [[Linus Pauling]], who published on the chemical bond in 1931.
+
+=== KEY: Moli_re_f1a120
+HEADWORD: Molière = 몰리에르
+LEVEL: 4
+GLOSSARY:
+  Actor = 배우
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Church = 처치
+  Comedy = 희극
+  Commedia dell'arte = 코메디아 델라르테
+  Comédie-Française = 코메디프랑세즈
+  Duke of Orléans = 오를레앙 공작
+  French = 프랑스어
+  Jean-Baptiste Poquelin = 장바티스트 포클랭
+  Louis XIV = 루이 14세
+  Louvre = 루브르 박물관
+  Orléans = 오를레앙
+  Parlement = 고등법원
+  Tartuffe = 『타르튀프』
+  The Imaginary Invalid = 『상상병 환자』
+  Troupe du Roi = 국왕 극단
+  Tuberculosis = 결핵
+ENTRY:
+French playwright, [[Actor|actor]] and poet, born Jean-Baptiste Poquelin. His comedies, farces and tragicomedies are performed at the Comédie-Française more often than those of any other playwright, and his plays have been translated into every major living language. After 13 years as an itinerant actor, he combined *Commedia dell'arte* elements with refined French [[Comedy|comedy]]. Through the patronage of Philippe I, Duke of Orléans, brother of [[Louis XIV]], he secured a command performance before the king at the [[Louvre]], and his troupe received a royal pension and the title *Troupe du Roi*. His satires drew opposition: the Catholic Church denounced *Tartuffe*, and the Parlement banned it. By 1667 illness had forced him from the stage; he suffered from [[Tuberculosis|pulmonary tuberculosis]]. He finished a performance of *The Imaginary Invalid*, playing a hypochondriac, then collapsed and died a few hours later.
+
+=== KEY: Mollusca_3928a0
+HEADWORD: Mollusca = 연체동물
+LEVEL: 3
+GLOSSARY:
+  Arthropod = 절지동물
+  Arthropoda = 절지동물문
+  Blue-ringed octopus = 파란고리문어
+  Cambrian = 캄브리아기
+  Cephalopod = 두족류
+  Colossal squid = 남극하트지느러미오징어
+  French = 프랑스어
+  Gastropod = 복족류
+  Giant squid = 대왕오징어
+  Latin = 라틴어
+  Pearl = 진주
+  Phylum = 문
+  Schistosomiasis = 주혈흡충증
+  Tyrian purple = 티리언 퍼플
+  abalone = 전복
+  bivalves = 이매패류
+  calcium carbonate = 탄산 칼슘
+  chitin = 키틴
+  colossal squid = 대왕하트지느러미오징어
+  malacology = 패류학
+  mantle = 외투막
+  mother of pearl = 진주층
+  radula = 치설
+ENTRY:
+Phylum of invertebrate animals including snails, slugs, clams, oysters, squid, cuttlefish, and octopuses. Some 89,857 extant species are recognized, with estimates ranging over 251,000, making it the second-largest animal phylum after [[Arthropod|Arthropoda]]. Molluscs are the largest marine phylum, about 23% of all named marine organisms, and include many freshwater and terrestrial species. The phylum is typically divided into 7 or 8 classes, two entirely extinct. [[Gastropod|Gastropods]] (snails, slugs, and abalone) account for 80% of classified species. [[Cephalopod|Cephalopods]] are among the most neurologically advanced invertebrates, and either the [[Giant squid|giant squid]] or the [[Colossal squid|colossal squid]] is the largest known extant invertebrate.
+
+The four most universal features are a soft body composed almost entirely of muscle, a mantle with a cavity used for breathing and excretion, a radula, or rasping "tongue" (absent in bivalves), and the structure of the nervous system. The hypothetical ancestral mollusc has a single limpet-like shell of proteins and chitin reinforced with calcium carbonate, secreted by the mantle, and a muscular foot beneath. Circulation is mainly open. Evidence for gastropods, cephalopods, and bivalves appears in the [[Cambrian]], 541–485.4 million years ago, but their evolutionary history remains debated.
+
+Molluscs have long been a food source, though toxins can accumulate in some. They have yielded luxury goods, notably [[Pearl|pearls]], mother of pearl, and Tyrian purple dye, and their shells served as money in some preindustrial societies. The bite of the [[Blue-ringed octopus|blue-ringed octopus]] is often fatal. Schistosomiasis, transmitted by water snails, affects about 200 million people, and snails and slugs can be serious agricultural pests.
+
+The name derives from French *mollusque*, from Latin *mollis*, "soft". The study of molluscs is called malacology.
+
+=== KEY: Moloch_f39834
+HEADWORD: Moloch = 몰록
+LEVEL: 5
+GLOSSARY:
+  Bible = 성경
+  Canaanite = 가나안
+  Fritz Lang = 프리츠 랑
+  Hebrew = 히브리어
+  Hebrew Bible = 히브리어 성경
+  John Milton = 존 밀턴
+  Lost = 「로스트」
+  Metropolis = 「메트로폴리스」
+  Paradise Lost = 『실낙원』
+  Punic language = 포에니어
+  child sacrifice = 어린이 인신 공양
+  mlk = mlk
+ENTRY:
+Name appearing in the [[Hebrew Bible]], traditionally understood as a Canaanite god. The Bible strongly condemns practices associated with Moloch, which heavily imply child sacrifice. Since 1935, scholars have speculated that the word refers to the sacrifice itself, because the Hebrew *mlk* matches a term for sacrifice in the Punic language; the view remains contested. Since the medieval period, Moloch has often been portrayed as a bull-headed idol with outstretched hands over a fire. The name later came to describe a power that demands dire sacrifice, as in [[John Milton|Milton]]'s *Paradise Lost* (1667) and [[Fritz Lang|Fritz Lang]]'s *Metropolis* (1927).
+
+=== KEY: Molotov_Ribbentrop_Pact_03f207
+HEADWORD: Molotov–Ribbentrop Pact = 독소 불가침 조약
+LEVEL: 5
+GLOSSARY:
+  Barbarossa = 바르바로사
+  Bessarabia = 베사라비아
+  Estonia = 에스토니아
+  Finland = 핀란드
+  Germany = 독일
+  Invasion of Poland = 폴란드 침공
+  Joachim von Ribbentrop = 요아힘 폰 리벤트로프
+  Latvia = 라트비아
+  Moscow = 모스크바
+  Nazi = 나치
+  Nazi Germany = 나치 독일
+  Nuremberg = 뉘른베르크
+  Nuremberg trials = 뉘른베르크 재판
+  Operation Barbarossa = 바르바로사 작전
+  Poland = 폴란드
+  Soviet Union = 소련
+  Union = 북군
+  Vyacheslav Molotov = 뱌체슬라프 몰로토프
+  non-aggression pact = 불가침 조약
+  secret protocol = 비밀 의정서
+ENTRY:
+1939 non-aggression pact between [[Nazi Germany]] and the [[Soviet Union]]. Signed in Moscow on 24 August 1939, backdated to 23 August, by [[Vyacheslav Molotov]] and Joachim von Ribbentrop, it committed both sides to non-aggression for 10 years. Its secret protocol agreed to partition Poland and assigned Latvia, Estonia, Finland and Bessarabia to the Soviet sphere. Germany [[Invasion of Poland|invaded Poland]] a week later, and the Soviet Union invaded eastern Poland on 17 September. Germany launched [[Operation Barbarossa]] against the Soviet Union on 22 June 1941, ending the pact. The secret protocol was exposed at the [[Nuremberg trials]].
+
+=== KEY: Molotov_cocktail_b6b6ea
+HEADWORD: Molotov cocktail = 화염병
+LEVEL: 5
+GLOSSARY:
+  Finland = 핀란드
+  Finnish = 핀란드어
+  Germany = 독일
+  Nazi = 나치
+  Nazi Germany = 나치 독일
+  Soviet Union = 소련
+  Sweden = 스웨덴
+  Union = 북군
+  United States = 미국
+  Vyacheslav Molotov = 뱌체슬라프 몰로토프
+  Winter = 겨울
+  Winter War = 겨울 전쟁
+  World = 세계
+  World War II = 제2차 세계 대전
+  polttopullo = 폴토풀로
+ENTRY:
+Hand-thrown incendiary weapon, typically a glass bottle of flammable liquid with a cloth wick. The wick is lit and the bottle shatters on impact, igniting the liquid. Usually improvised, it has also been mass-produced, as in [[World War II|World War II]] in [[Finland]], [[Nazi Germany]], the [[Soviet Union]], [[Sweden]] and the [[United States]]. The name was coined by Finns during the [[Winter War]] as a mocking reference to [[Vyacheslav Molotov]], whose radio claim that incendiary bombing missions were "airborne humanitarian food deliveries" led Finns to call the bottles a drink to go with his food parcels. The formal Finnish term is *polttopullo*, or "burn-bottle."
+
+=== KEY: Molybdenum_299c5b
+HEADWORD: Molybdenum = 몰리브덴
+LEVEL: 4
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Carl Wilhelm Scheele = 카를 빌헬름 셸레
+  Chemical element = 화학 원소
+  Earth = 지구
+  Eukaryote = 진핵생물
+  Nitrogen = 질소
+  Peter = 베드로
+  Peter Jacob Hjelm = 페테르 야코브 옐름
+  Steel = 강철
+  Technetium = 테크네튬
+  Transition metal = 전이 금속
+  Wilhelm = 빌헬름
+  melting point = 녹는점
+  molybdenum-99 = 몰리브덴-99
+  mólybdos = 몰리브도스
+  nitrogen fixation = 질소 고정
+  superalloys = 초합금
+  technetium-99m = 테크네튬-99m
+  transition metal = 전이 금속
+ENTRY:
+[[Chemical element|Chemical element]] with symbol Mo and atomic number 42. The name derives from Ancient Greek *mólybdos*, meaning lead, because its ores were sometimes confused with lead ores. Carl Wilhelm Scheele identified it as a distinct element in 1778, and Peter Jacob Hjelm first isolated the metal in 1781. The silvery [[Transition metal|transition metal]] does not occur naturally as a free metal on Earth. It has the sixth-highest melting point of any element, and about 80% of world production is used in [[Steel|steel]] alloys, including high-strength alloys and superalloys. Molybdenum-bearing enzymes catalyze biological [[Nitrogen|nitrogen]] fixation, and the element is essential for all higher [[Eukaryote|eukaryotes]], including humans. Its isotope molybdenum-99 is the parent of [[Technetium|technetium-99m]], a gamma-emitting isomer used in medical applications.
+
+=== KEY: Mombasa_dce643
+HEADWORD: Mombasa = 몸바사
+LEVEL: 4
+GLOSSARY:
+  British East Africa = 영국령 동아프리카
+  Coconut = 코코넛
+  East Africa = 동아프리카
+  Indian Ocean = 인도양
+  Ivory = 상아
+  Kenya = 케냐
+  Kilwa = 킬와
+  Kilwa Sultanate = 킬와 술탄국
+  Millet = 기장
+  Nairobi = 나이로비
+  Ocean = 대양
+  Oman = 오만
+  Port = 항구
+  al-Idrisi = 이드리시
+ENTRY:
+Coastal city in southeastern [[Kenya]] on the [[Indian Ocean]] (pop., 2019: 1,208,333). It is Kenya's second-largest city after [[Nairobi]] and was the first capital of British East Africa, until Nairobi became capital in 1907. Kenyan school histories date its founding to AD 900, and the Arab geographer al-Idrisi mentioned it in 1151. Part of the Kilwa Sultanate from the early 14th century, it came under [[Oman|Omani]] control in the late 17th century. Early exports included [[Ivory|ivory]], [[Millet|millet]] and [[Coconut|coconuts]]. It is now a tourism-based town with an extra-large [[Port|port]] that handles approximately 90 percent of Kenya's container volumes, and an international airport.
+
+=== KEY: Moment_of_inertia_29073f
+HEADWORD: Moment of inertia = 관성 모멘트
+LEVEL: 4
+GLOSSARY:
+  Christiaan Huygens = 크리스티안 하위헌스
+  Euler = 오일러
+  Leonhard Euler = 레온하르트 오일러
+  Tensor = 텐서
+  Torque = 돌림힘
+  angular acceleration = 각가속도
+  compound pendulum = 복진자
+  inertia tensor = 관성 텐서
+  moment of inertia = 관성 모멘트
+  principal axes = 주축
+  rotational inertia = 회전 관성
+ENTRY:
+Scalar measure of rotational inertia with respect to a fixed axis of rotation. It is the ratio between the applied [[Torque|torque]] and the resulting angular acceleration about that axis, and it plays the same role in rotation that mass plays in linear motion. A body's moment of inertia depends on its mass and on how that mass is distributed relative to the axis. For a point mass, it is the mass times the square of its perpendicular distance from the axis. [[Christiaan Huygens]] introduced the parameter in 1673 in his study of the compound pendulum, and [[Leonhard Euler]] named it in his 1765 treatise. A body free to rotate in three dimensions is described by a symmetric 3 × 3 [[Tensor|inertia tensor]], whose principal axes act independently. A flywheel's moment of inertia resists variations in applied torque, smoothing rotation.
+
+=== KEY: Momentum_373237
+HEADWORD: Momentum = 운동량
+LEVEL: 4
+GLOSSARY:
+  General relativity = 일반 상대성 이론
+  Heisenberg uncertainty principle = 하이젠베르크의 불확정성 원리
+  Isaac Newton = 아이작 뉴턴
+  Newton's second law = 뉴턴의 운동 제2법칙
+  Quantum mechanics = 양자역학
+  SI units = SI 단위
+  Special relativity = 특수 상대성 이론
+  Uncertainty principle = 불확정성 원리
+  Velocity = 속도
+  closed system = 닫힌계
+  electrodynamics = 전기역학
+  general relativity = 일반 상대성 이론
+  inertial frame = 관성 기준틀
+  newton-second = 뉴턴초
+  quantum mechanics = 양자역학
+  second law = 열역학 제2법칙
+  special relativity = 특수 상대성 이론
+  translational symmetry = 병진 대칭
+  uncertainty principle = 불확정성 원리
+  wave function = 파동 함수
+ENTRY:
+Vector quantity equal to the product of an object's mass and [[Velocity|velocity]]. In SI units it is measured in kilogram meters per second, which is dimensionally equivalent to the newton-second. [[Isaac Newton|Newton]]'s second law states that the rate of change of a body's momentum equals the net force acting on it. In an inertial frame, the total momentum of a closed system is conserved when no external forces act on it. This conservation reflects translational symmetry and holds, in modified form, in [[Special relativity|special relativity]], [[General relativity|general relativity]], electrodynamics and [[Quantum mechanics|quantum mechanics]]. In quantum mechanics, generalized momentum becomes an operator on a wave function, and the [[Uncertainty principle|Heisenberg uncertainty principle]] relates momentum and position operators.
+
+=== KEY: Mona_Lisa_fa0fa4
+HEADWORD: Mona Lisa = 모나리자
+LEVEL: 4
+GLOSSARY:
+  Florence = 피렌체
+  Florentine = 피렌체의
+  France = 프랑스
+  Francesco del Giocondo = 프란체스코 델 조콘도
+  Francis = 프랑수아
+  Francis I = 프랑수아 1세
+  Francis I of France = 프랑수아 1세
+  King Francis I of France = 프랑스 국왕 프랑수아 1세
+  Leonardo = 레오나르도
+  Leonardo da Vinci = 레오나르도 다빈치
+  Lisa = 리사
+  Lisa del Giocondo = 리자 델 조콘도
+  Louvre = 루브르 박물관
+  Mona Lisa = 「모나리자」
+  Nat King Cole = 냇 킹 콜
+  Renaissance = 르네상스
+  Vincenzo Peruggia = 빈첸초 페루자
+  Vinci = 빈치
+ENTRY:
+Half-length portrait painting by the Italian artist [[Leonardo da Vinci]], considered an archetypal masterpiece of the [[Renaissance]]. It is painted in oil on a white poplar panel. Its title presumes that it depicts Lisa del Giocondo, wife of [[Florence|Florentine]] silk merchant Francesco del Giocondo, though her likeness is uncertain. Leonardo may have painted it between 1503 and 1506 and worked on it as late as 1517. King Francis I of France acquired it after Leonardo's death in 1519, and it has been displayed at the [[Louvre]] since 1797. Vincenzo Peruggia stole it in 1911, and its recovery in 1914 generated unprecedented publicity. In 1962 it was insured for US$100 million, the highest known painting insurance valuation. The song "Mona Lisa", recorded by [[Nat King Cole|Nat King Cole]], was one of the most successful songs of the 1950s.

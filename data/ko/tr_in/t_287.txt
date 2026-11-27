@@ -1,0 +1,884 @@
+=== KEY: Riddle_8dd564
+HEADWORD: Riddle = 수수께끼
+LEVEL: 4
+GLOSSARY:
+  Alan Dundes = 앨런 던디스
+  Archer Taylor = 아처 테일러
+  Aristotle = 아리스토텔레스
+  Common Germanic = 공통 게르만어
+  Oedipus = 오이디푸스
+  Robert A. Georges = 로버트 A. 조지스
+  Sphinx = 스핑크스
+  conundrums = 말장난 수수께끼
+  enigmas = 수수께끼
+ENTRY:
+Statement, question or phrase with a double or veiled meaning, posed as a puzzle. Riddles are of two main types: enigmas, which use metaphorical language and require careful thought, and conundrums, which rely on punning. Archer Taylor called riddling "a universal art" and cited riddles from many cultures. The English word shares its origin with *read*, from a Common Germanic verb meaning "to interpret" or "guess." In 1963 Robert A. Georges and Alan Dundes defined a riddle as a traditional verbal expression with descriptive elements, the referent of which is to be guessed. In Greek myth the [[Sphinx]] posed a riddle to Oedipus. [[Aristotle]] wrote that "metaphors imply riddles." Scholars have also argued that riddles play with conceptual boundaries while ultimately affirming social norms.
+
+=== KEY: Ridley_Scott_e3107e
+HEADWORD: Scott, Ridley = 스콧, 리들리
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Director = 아카데미 감독상
+  Academy Awards = 아카데미상
+  Alien = 「에일리언」
+  Best Director = 감독상
+  Black = 검은색
+  Black Hawk = 블랙 호크
+  Black Hawk Down = 「블랙 호크 다운」
+  Blade = 「블레이드」
+  Blade Runner = 「블레이드 러너」
+  Charles III = 찰스 3세
+  Elizabeth II = 엘리자베스 2세
+  Knight = 기사
+  Knight Grand Cross = 대십자 기사
+  Queen = 퀸
+  Queen Elizabeth II = 엘리자베스 2세 여왕
+  Rome = 로마
+  The Duellists = 「결투자들」
+  science fiction = 과학 소설
+ENTRY:
+English filmmaker known for science fiction and historical epic films. Scott began in television and advertising before making his feature debut with *The Duellists* (1977). He gained wide recognition with *Alien* (1979) and *Blade Runner* (1982). His later films include *Gladiator* (2000), set in 2nd-century [[Rome]], and *Black Hawk Down* (2001). He has been nominated for the [[Academy Awards|Academy Award]] for Best Director three times. He is the eighth-highest-grossing director of all time, with films grossing a cumulative $5 billion worldwide. [[Elizabeth II|Queen Elizabeth II]] knighted him in 2003, and [[Charles III]] appointed him a Knight Grand Cross in 2024.
+
+=== KEY: Riemann_hypothesis_867439
+HEADWORD: Riemann hypothesis = 리만 가설
+LEVEL: 4
+GLOSSARY:
+  Bernhard Riemann = 베른하르트 리만
+  Conjecture = 추측
+  David Hilbert = 다비트 힐베르트
+  Hilbert's = 힐베르트의
+  Hilbert's 23 unsolved problems = 힐베르트의 23개 문제
+  Millennium = 『Millennium』
+  Millennium Prize Problems = 밀레니엄 문제
+  Number = 수
+  Number theory = 수론
+  Prime number = 소수
+  Pure mathematics = 순수 수학
+  Riemann = 리만
+  Riemann zeta function = 리만 제타 함수
+  critical line = 임계선
+  nontrivial zeros = 비자명근
+  number theory = 수론
+  real part = 실수부
+  trivial zeros = 자명근
+ENTRY:
+Conjecture about the zeros of the Riemann zeta function. The hypothesis states that all nontrivial zeros of the [[Riemann zeta function]] lie on the critical line, where the real part is 1/2. The zeta function has trivial zeros at the negative even integers, so the conjecture concerns the other zeros. [[Bernhard Riemann]] proposed it in his 1859 paper "On the Number of Primes Less Than a Given Magnitude." It is of great interest in [[Number theory|number theory]] because it implies results about the distribution of [[Prime number|prime numbers]]. Many consider it the most important unsolved problem in [[Pure mathematics|pure mathematics]]. It is one of the [[Millennium Prize Problems]], which carry a US$1 million prize. It forms part of the eighth of [[David Hilbert]]'s 23 unsolved problems. Numerical checks confirm it for the first 10¹³ nontrivial zeros, but no proof is known.
+
+=== KEY: Riemann_surface_c78c80
+HEADWORD: Riemann surface = 리만 곡면
+LEVEL: 4
+GLOSSARY:
+  Bernhard Riemann = 베른하르트 리만
+  Chow's theorem = 저우 정리
+  Klein = 클라인
+  Klein bottle = 클라인 병
+  Möbius strip = 뫼비우스의 띠
+  Riemann = 리만
+  Riemann surface = 리만 곡면
+  Riemann surfaces = 리만 곡면
+  Sphere = 구
+  Torus = 원환면
+  complex algebraic curve = 복소 대수 곡선
+  complex manifold = 복소다양체
+  complex plane = 복소평면
+  metrizable = 거리화 가능
+  multivalued functions = 다가 함수
+  orientable = 가향
+ENTRY:
+Connected one-dimensional complex manifold. Riemann surfaces, first studied by and named after [[Bernhard Riemann]], can be thought of as deformed versions of the complex plane: locally they resemble patches of the plane, but their global shape can differ. A [[Sphere|sphere]], a [[Torus|torus]] and several sheets glued together are examples. They include graphs of multivalued functions such as log(z), which become single-valued on the surface. A two-dimensional real surface can be turned into a Riemann surface if and only if it is orientable and metrizable. The sphere and torus admit such structures, but the [[Möbius strip]] and the Klein bottle do not. Every compact Riemann surface is a complex algebraic curve, by Chow's theorem and the Riemann–Roch theorem.
+
+=== KEY: Riemann_zeta_function_8e439b
+HEADWORD: Riemann zeta function = 리만 제타 함수
+LEVEL: 5
+GLOSSARY:
+  Bernhard Riemann = 베른하르트 리만
+  Euler = 오일러
+  Leonhard Euler = 레온하르트 오일러
+  Physics = 물리학
+  Riemann = 리만
+  Riemann hypothesis = 리만 가설
+  Roger Apéry = 로제 아페리
+  Statistics = 통계학
+  analytic number theory = 해석적 수론
+  complex plane = 복소평면
+  number theory = 수론
+  probability theory = 확률론
+  real numbers = 실수
+  real part = 실수부
+ENTRY:
+Complex function central to analytic number theory. It is defined by the series ζ(s) = Σ 1/nˢ for complex s with real part greater than 1, and extended analytically to the rest of the complex plane. [[Leonhard Euler]] studied it over the real numbers in the first half of the 18th century. [[Bernhard Riemann]]'s 1859 paper extended it to complex variables and linked its zeros to the distribution of primes, the subject of the [[Riemann hypothesis]]. Roger Apéry proved the irrationality of ζ(3) in 1979. The function has applications in [[Physics|physics]], probability theory and [[Statistics|applied statistics]].
+
+=== KEY: Riemannian_geometry_6b068c
+HEADWORD: Riemannian geometry = 리만 기하학
+LEVEL: 4
+GLOSSARY:
+  Bernhard Riemann = 베른하르트 리만
+  Branch = 브랜치
+  General relativity = 일반 상대성 이론
+  Geometry = 기하학
+  Riemann = 리만
+  Riemannian manifolds = 리만 다양체
+  Riemannian metric = 리만 계량
+  differential geometry = 미분기하학
+  general theory of relativity = 일반 상대성 이론
+  group theory = 군론
+  inner product = 내적
+  representation theory = 표현론
+  surface area = 겉넓이
+  tangent space = 접공간
+  theory of relativity = 상대성 이론
+  topology = 위상수학
+ENTRY:
+Branch of differential geometry that studies Riemannian manifolds. It studies smooth manifolds equipped with a Riemannian metric, a smoothly varying inner product on each tangent space, which defines length, angle, surface area and volume locally. Distances are measured along curves, as an insect crawling over a surface would measure them. The field originated with the vision of [[Bernhard Riemann]], expressed in his inaugural lecture "On the Hypotheses Which Lie at the Foundations of Geometry." It generalizes the differential geometry of surfaces to higher dimensions. Its development enabled the formulation of [[General relativity|Einstein's general theory of relativity]], and it made a profound impact on group theory, representation theory, analysis and topology.
+
+=== KEY: Riemannian_manifold_4f6b62
+HEADWORD: Riemannian manifold = 리만 다양체
+LEVEL: 4
+GLOSSARY:
+  Bernhard Riemann = 베른하르트 리만
+  Cartography = 지도학
+  Euclidean = 유클리드
+  Euclidean space = 유클리드 공간
+  General relativity = 일반 상대성 이론
+  John = 존
+  John Nash = 존 내시
+  Riemann = 리만
+  Riemannian manifold = 리만 다양체
+  Riemannian metric = 리만 계량
+  ambient space = 주변 공간
+  gauge theory = 게이지 이론
+  general relativity = 일반 상대성 이론
+  hyperbolic space = 쌍곡 공간
+  inner product = 내적
+  machine learning = 기계 학습
+  n-sphere = n차원 구
+  parallel transport = 평행 이동
+  tangent space = 접공간
+ENTRY:
+Smooth manifold equipped with a Riemannian metric. The metric is a smoothly varying inner product on each tangent space, and from it calculus yields distance, curvature and parallel transport. [[Euclidean space]], the n-sphere, hyperbolic space and smooth surfaces such as ellipsoids are examples. [[Bernhard Riemann]] first described these spaces in his June 10, 1854, inaugural lecture. John Nash proved that every Riemannian manifold can be realized as a submanifold of Euclidean space, but the intrinsic viewpoint defines geometric notions without reference to an ambient space. Applications include physics, especially [[General relativity|general relativity]] and gauge theory, as well as computer graphics, machine learning and [[Cartography|cartography]].
+
+=== KEY: Rifle_6fe1a5
+HEADWORD: Rifle = 소총
+LEVEL: 4
+GLOSSARY:
+  Arquebus = 아쿼버스
+  Firearm = 화기
+  Machine gun = 기관총
+  Musket = 머스킷
+  Nitrocellulose = 니트로셀룰로스
+  angular momentum = 각운동량
+  black powder = 흑색 화약
+  machine guns = 기관총
+  rifling = 강선
+  smokeless powders = 무연 화약
+  smoothbore = 활강총
+ENTRY:
+Long-barreled [[Firearm|firearm]] designed for accurate shooting, with a barrel cut by helical grooves called rifling. The raised areas between the grooves, called lands, grip the projectile and spin it. The spin persists after the projectile leaves the barrel and gives it gyroscopic stability through conservation of angular momentum, which increases accuracy and effective range. Rifling distinguished rifles from smoothbore weapons such as [[Arquebus|arquebuses]] and [[Musket|muskets]]. Some of the earliest European experiments with rifling were carried out in the 15th century. Propellants were originally black powder and are now [[Nitrocellulose|nitrocellulose]] and other smokeless powders. Rifles are used in warfare, law enforcement, hunting and target shooting. Modern military rifles are magazine-fed, while [[Machine gun|machine guns]] are generally belt-fed.
+
+=== KEY: Riga_c16c50
+HEADWORD: Riga = 리가
+LEVEL: 4
+GLOSSARY:
+  Airport = 공항
+  Art Nouveau = 아르 누보
+  Baltic Sea = 발트해
+  Baltic States = 발트 3국
+  Culture = 문화
+  Daugava = 다우가바강
+  European Capital of Culture = 유럽 문화 수도
+  Eurovision Song Contest = 유로비전 송 콘테스트
+  Gulf of Riga = 리가만
+  Hanseatic = 한자 동맹
+  Hanseatic League = 한자 동맹
+  Latvia = 라트비아
+  NATO = 북대서양 조약 기구
+  NATO Summit = NATO 정상회의
+  Riga = 리가
+  Riga International Airport = 리가 국제공항
+  Sweden = 스웨덴
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  Umeå = 우메오
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Capital and largest city of [[Latvia]] (pop., 2026: 588,911), on the Gulf of Riga where the Daugava river meets the [[Baltic Sea]]. Founded in 1201, Riga was a member of the [[Hanseatic League]], and its historical center is a [[UNESCO]] World Heritage Site noted for its Art Nouveau architecture. The city was the European Capital of Culture in 2014, together with Umeå in Sweden. It hosted the 2006 NATO Summit and the Eurovision Song Contest 2003. Riga is home to the office of the European Union's Body of European Regulators for Electronic Communications (BEREC). Riga International Airport is the largest and busiest airport in the Baltic States. In 2019 Riga received over 1.4 million foreign visitors.
+
+=== KEY: Rigel_8c50cf
+HEADWORD: Rigel = 리겔
+LEVEL: 4
+GLOSSARY:
+  Beta Orionis = 오리온자리 베타
+  Orion = 오리온
+  Orion (constellation) = 오리온자리
+  Rigel = 리겔
+  Supergiant = 초거성
+  Supernova = 초신성
+  Type II = II형
+  Type II supernova = II형 초신성
+  black hole = 블랙홀
+  neutron star = 중성자별
+ENTRY:
+Blue [[Supergiant|supergiant]] star in the constellation [[Orion (constellation)|Orion]]. Designated Beta Orionis, Rigel is the brightest star in Orion and generally the seventh-brightest star in the night sky. It is the brightest and most massive member of a system of at least four stars, about 850 light-years away. Its surface temperature is 12,100 K and its radius is more than 70 times that of the Sun. It is calculated to be 61,500 to 363,000 times as luminous as the Sun and 18 to 24 times as massive. With an estimated age of seven to nine million years, Rigel has exhausted its core hydrogen. It is expected to end as a [[Supernova|Type II supernova]], leaving a neutron star or a black hole.
+
+=== KEY: Right_angle_338cb1
+HEADWORD: Right angle = 직각
+LEVEL: 4
+GLOSSARY:
+  Angle = 각
+  Elements = 『원론』
+  Euclid's Elements = 『원론』
+  Latin = 라틴어
+  Pythagorean = 피타고라스학파
+  Pythagorean theorem = 피타고라스 정리
+  Pythagorean triple = 피타고라스 삼조
+  Quadrilateral = 사각형
+  Square = 정사각형
+  Trigonometry = 삼각법
+  angulus rectus = angulus rectus
+  perpendicular = 수직
+  radians = 라디안
+  rectangle = 직사각형
+  right triangle = 직각 삼각형
+ENTRY:
+[[Angle]] of exactly 90 degrees (π/2 radians), equal to a quarter turn. The term is a calque of the Latin *angulus rectus*, in which *rectus* means "upright." Two lines that meet at a right angle are perpendicular. A right angle is the defining feature of a right triangle, which makes it basic to [[Trigonometry]]. A [[Square]] has four right angles, as does a rectangle, a [[Quadrilateral|quadrilateral]]. The [[Pythagorean theorem]] states when a triangle is a right triangle. [[Euclid's Elements]] treats all right angles as equal in Postulate 4, which allows a right angle to serve as a unit for measuring other angles. Carpenters and masons have long checked for a right angle with the 3-4-5 rule, based on the Pythagorean triple (3, 4, 5).
+
+=== KEY: Right_hand_rule_636142
+HEADWORD: Right-hand rule = 오른손 법칙
+LEVEL: 5
+GLOSSARY:
+  Cross product = 벡터곱
+  Gibbs = 기브스
+  John = 존
+  John Fleming = 존 플레밍
+  Josiah Willard Gibbs = 조사이아 윌러드 기브스
+  Magnetic field = 자기장
+  William = 윌리엄
+  William Rowan Hamilton = 윌리엄 로언 해밀턴
+  cross product = 벡터곱
+  electromagnetism = 전자기학
+  magnetic field = 자기장
+ENTRY:
+Mnemonic convention for orientations and rotations in three-dimensional space. In mathematics and physics it defines the direction of the [[Cross product|cross product]] of two vectors and the orientation of coordinate axes. In electromagnetism it gives the direction of the force on a current-carrying conductor in a [[Magnetic field|magnetic field]]. The convention is often credited to [[William Rowan Hamilton]]. After debate, the mainstream shifted to the three-vector system of [[Josiah Willard Gibbs]], which led to the prevalent adoption of the rule. John Fleming introduced the physics form in the late 19th century.
+
+=== KEY: Right_wing_politics_21158d
+HEADWORD: Right-wing politics = 우익
+LEVEL: 5
+GLOSSARY:
+  Assembly = 민회
+  Edmund Burke = 에드먼드 버크
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  Laissez-faire = 자유방임주의
+  Left-wing politics = 좌파 정치
+  National Assembly = 국민 의회
+  Political spectrum = 정치적 스펙트럼
+  Right-wing politics = 우익
+  conservatism = 보수주의
+  natural law = 자연법
+  social stratification = 사회 계층화
+ENTRY:
+Political ideologies that view social stratification and orders as inevitable, natural or desirable. Right-wing politics typically supports conservatism, natural law, authority, property, religion and tradition, and often favors [[Laissez-faire|laissez-faire]] economic policies. It is the counterpart of [[Left-wing politics|left-wing politics]], and the [[Political spectrum|left–right political spectrum]] is the most common. The terms originated during the [[French Revolution]], when supporters of the old order sat to the right of the presiding officer of the National Assembly. [[Edmund Burke]] is regarded as one of the most influential conservative thinkers of the 18th century. Both "right" and "right-wing" have been used as compliments and as pejoratives.
+
+=== KEY: Right_wing_populism_601f4c
+HEADWORD: Right-wing populism = 우익 포퓰리즘
+LEVEL: 5
+GLOSSARY:
+  Cas Mudde = 카스 뮈더
+  Donald Trump = 도널드 트럼프
+  Europe = 유럽
+  Euroscepticism = 유럽 회의주의
+  Fascism = 파시즘
+  Marine Le Pen = 마린 르펜
+  Party = 파티
+  Republican Party = 공화당
+  Republican Party (United States) = 공화당
+  authoritarianism = 권위주의
+  conservatism = 보수주의
+  economic nationalism = 경제 민족주의
+  fiscal conservatism = 재정 보수주의
+  nativism = 토착주의
+  neo-nationalism = 신민족주의
+  social conservatism = 사회적 보수주의
+ENTRY:
+Political ideology that combines right-wing politics with populist rhetoric. Its rhetoric is anti-elitist and claims to speak for common people, and its themes include neo-nationalism, social conservatism, economic nationalism and fiscal conservatism. Some have associations with authoritarianism, and some far-right populists have been compared to [[Fascism|fascism]]. In Europe the term often describes parties known for opposition to immigration and for Euroscepticism. Political scientist Cas Mudde rejects nationalism as the core of the ideology and prefers nativism. Right-wing populism has remained the dominant political force in the [[Republican Party (United States)|Republican Party]] since the 2010s. Examples include [[Donald Trump]] and [[Marine Le Pen]].
+
+=== KEY: Rights_726701
+HEADWORD: Rights = 권리
+LEVEL: 4
+GLOSSARY:
+  Aquinas = 아퀴나스
+  Citizenship = 시민권
+  Jeremy Bentham = 제러미 벤담
+  Justice = 정의
+  Natural rights = 자연권
+  Rights = 인권
+  Thomas = 토머스
+  Thomas Aquinas = 토마스 아퀴나스
+  legal rights = 법적 권리
+  natural law = 자연법
+  natural rights = 자연권
+  positive law = 실정법
+ENTRY:
+Legal, social or ethical principles of freedom or entitlement. Rights are the fundamental normative rules about what is allowed or owed to people under a legal system, social convention or ethical theory. They are central to law, ethics and theories of [[Justice|justice]]. A prevailing view once held that the ancient world had no concept of rights, a view since challenged. Natural rights are universal and considered inalienable, while legal rights rest on a society's laws, such as the right to vote. Citizenship has been defined as the "right to have rights." [[Thomas Aquinas]] held that positive law not grounded in natural law conferred no rights in the proper sense, while [[Jeremy Bentham]] regarded legal rights as the essence of rights and denied natural rights.
+
+=== KEY: Rihanna_528557
+HEADWORD: Rihanna = 리애나
+LEVEL: 5
+GLOSSARY:
+  Barbados = 바베이도스
+  Beauty = 아름다움
+  Billboard = 빌보드
+  Billboard 200 = 빌보드 200
+  Billboard Hot 100 = 빌보드 핫 100
+  Fenty Beauty = 펜티 뷰티
+  Girl = 소녀
+  Good Girl Gone Bad = 『Good Girl Gone Bad』
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  LVMH = LVMH
+  National Hero = 국가 영웅
+  Saint = 성인
+  Saint Michael = 세인트마이클
+  Take a Bow = 「Take a Bow」
+  Unapologetic = 『Unapologetic』
+ENTRY:
+Barbadian singer, songwriter, businesswoman and actress. Born in Saint Michael, [[Barbados]], she is one of the best-selling music artists, with estimated sales exceeding 250 million records. *Good Girl Gone Bad* (2007) made her a major star, with the number-one singles "Umbrella" and "Take a Bow." She topped the Billboard 200 with *Unapologetic* (2012) and *Anti* (2016). She has won nine [[Grammy Awards]] and has 14 number-one singles on the Billboard Hot 100. She founded the cosmetics brand Fenty Beauty, and the fashion brand Fenty operates under [[LVMH]]. The government of Barbados made her a National Hero in 2021.
+
+=== KEY: Ring_Nebula_f8def2
+HEADWORD: Ring Nebula = 고리 성운
+LEVEL: 4
+GLOSSARY:
+  Beta and Gamma Lyrae = 거문고자리 베타와 감마
+  Charles Messier = 샤를 메시에
+  Lyra = 거문고자리
+  Messier 57 = 메시에 57
+  NGC 6720 = NGC 6720
+  Planetary nebula = 행성상 성운
+  Vega = 베가
+  White dwarf = 백색 왜성
+  apparent visual magnitude = 안시 겉보기 등급
+  planetary nebula = 행성상 성운
+  white dwarf = 백색 왜성
+ENTRY:
+[[Planetary nebula|Planetary nebula]] in the constellation [[Lyra]]. Also cataloged as Messier 57 (M57) and NGC 6720, it lies south of [[Vega]], about midway between the stars Beta and Gamma Lyrae. Charles Messier discovered it in 1779. Its apparent visual magnitude is 8.8, too faint for the naked eye but readily seen with a small telescope. A planetary nebula forms when a star expels a shell of ionized gas before becoming a [[White dwarf|white dwarf]]. The central star of this nebula is a carbon-oxygen white dwarf about 2,570 light-years from the Sun. After expanding for 1,610 years, the nebula is about 1 light-year in diameter.
+
+=== KEY: Ring_film_b77b97
+HEADWORD: Ring = 링
+LEVEL: 5
+GLOSSARY:
+  Hideo Nakata = 나카타 히데오
+  Japanese horror = J호러
+  Ju-On = 「주온」
+  Koji Suzuki = 스즈키 고지
+  One Missed Call = 「착신아리」
+  Ring = 『링』
+  Suzuki = 스즈키
+  The Ring = 「링」
+ENTRY:
+1998 Japanese supernatural psychological horror film directed by Hideo Nakata. Based on the 1991 novel by Koji Suzuki, it follows a reporter investigating a cursed videotape that kills whoever watches it after seven days. It was shot back to back with its sequel, *Spiral*. The film was a box office hit and was acclaimed by critics for its atmosphere and slow-paced horror. It spawned a franchise and helped popularize Japanese horror in the West, notably through the English-language remake *The Ring* (2002). Its success also led to a renaissance of Japanese horror films, including *Ju-On* and *One Missed Call*.
+
+=== KEY: Ring_mathematics_034c74
+HEADWORD: Ring = 환
+LEVEL: 4
+GLOSSARY:
+  Abelian group = 아벨 군
+  Algebraic geometry = 대수기하학
+  Algebraic number theory = 대수적 수론
+  Algebraic structure = 대수 구조
+  Commutative ring = 가환환
+  David Hilbert = 다비트 힐베르트
+  Dedekind domains = 데데킨트 정역
+  Emmy = 에미상
+  Emmy Noether = 에미 뇌터
+  Hilbert = 힐베르트
+  Multiplication = 곱셈
+  Richard = 리처드
+  Richard Dedekind = 리하르트 데데킨트
+  Ring = 『링』
+  abelian group = 아벨 군
+  algebraic geometry = 대수기하학
+  algebraic number theory = 대수적 수론
+  binary operations = 이항 연산
+  commutative rings = 가환환
+  multiplicative identity = 곱셈 항등원
+  number theory = 수론
+  polynomial rings = 다항식환
+ENTRY:
+Algebraic structure with addition and multiplication. A ring is a set with two binary operations, addition and multiplication, such that it is an [[Abelian group|abelian group]] under addition, multiplication is associative, and multiplication distributes over addition. Many authors also require a multiplicative identity. Multiplication need not be [[Commutative ring|commutative]]. Every field, the integers and polynomials are examples of commutative rings, while n × n matrices with n ≥ 2 are noncommutative. Rings were first formalized as generalizations of Dedekind domains and polynomial rings. Ring theory developed from the 1870s to the 1920s, with contributions from [[Richard Dedekind]], [[David Hilbert]] and [[Emmy Noether]]. Rings are basic tools in [[Algebraic geometry|algebraic geometry]] and [[Algebraic number theory|algebraic number theory]].
+
+=== KEY: Ring_of_Fire_72223d
+HEADWORD: Ring of Fire = 환태평양 조산대
+LEVEL: 4
+GLOSSARY:
+  Antarctic Peninsula = 남극반도
+  Holocene = 홀로세
+  Indonesia = 인도네시아
+  Mount St. Helens = 세인트헬렌스산
+  Ocean = 대양
+  Oceanic trench = 해구
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  Peninsula = 반도
+  Stratovolcano = 성층 화산
+  Volcano = 화산
+  back-arc basins = 배호 분지
+  convergent boundaries = 수렴 경계
+  oceanic trenches = 해구
+  subduction = 섭입
+  tectonic plates = 지각판
+  volcanic arcs = 화산호
+ENTRY:
+Tectonic belt of earthquakes and volcanoes surrounding most of the Pacific Ocean. It is about 40,000 km (25,000 mi) long and up to about 500 km (310 mi) wide. The belt contains between 750 and 915 active or dormant [[Volcano|volcanoes]], around two-thirds of the world total, and about 90% of the world's earthquakes, including most of its largest, occur within it. It was created by the subduction of several tectonic plates at convergent boundaries, forming [[Oceanic trench|oceanic trenches]], volcanic arcs and back-arc basins. More than 350 of its volcanoes have been active in historical times, and the four largest volcanic eruptions in the Holocene epoch all occurred there. Most of Earth's active volcanoes with summits above sea level lie within it, many of them [[Stratovolcano|stratovolcanoes]] such as [[Mount St. Helens]]. Its inclusion of areas such as the Antarctic Peninsula and western Indonesia is disputed.
+
+=== KEY: Ring_system_b68fc1
+HEADWORD: Ring system = 고리계
+LEVEL: 4
+GLOSSARY:
+  Earth = 지구
+  Jupiter = 목성
+  Mars = 화성
+  Neptune = 해왕성
+  Ordovician = 오르도비스기
+  Phobos = 포보스
+  Ring = 『링』
+  Roche limit = 로슈 한계
+  Saturn = 토성
+  Uranus = 천왕성
+  giant planets = 거대 행성
+  meteoroids = 유성체
+  minor planets = 소행성
+  moonlets = 소위성
+  occultations = 엄폐
+  tidal stresses = 조석 응력
+  torus = 원환체
+ENTRY:
+Disk or torus of solid chunks of ice, rock and dust orbiting an astronomical object. Ring systems are also called planetary rings, and giant ring systems such as Saturn's may contain moonlets. All four giant planets, [[Jupiter]], [[Saturn]], [[Uranus]] and [[Neptune]], have ring systems, but Saturn's is the largest and most visible. Rings have also been detected around minor planets through occultations. Thicker planetary rings have been proposed to form from material inside the [[Roche limit]], from debris of a moon disrupted by a large impact, or from a moon torn apart by tidal stresses. Fainter rings can form when meteoroids strike moons. Some studies theorize that the Earth may have had a ring system during the mid-late [[Ordovician]] period. Phobos, a moon of Mars, is predicted to break up and form a ring in about 50 million years.
+
+=== KEY: Ring_theory_4ef27b
+HEADWORD: Ring theory = 환론
+LEVEL: 4
+GLOSSARY:
+  Algebraic geometry = 대수기하학
+  Algebraic number theory = 대수적 수론
+  Branch = 브랜치
+  Commutative algebra = 가환대수학
+  Commutative ring = 가환환
+  Fermat's Last Theorem = 페르마의 마지막 정리
+  Hilbert's = 힐베르트의
+  Hilbert's Nullstellensatz = 힐베르트 영점 정리
+  Module (mathematics) = 가군
+  Noetherian = 뇌터
+  Noetherian rings = 뇌터 환
+  Ring = 『링』
+  Theorem = 정리
+  algebraic geometry = 대수기하학
+  algebraic number theory = 대수적 수론
+  algebraic structures = 대수 구조
+  commutative rings = 가환환
+  division rings = 나눗셈환
+  group rings = 군환
+  noncommutative = 비가환
+  noncommutative geometry = 비가환 기하학
+  number theory = 수론
+  quantum groups = 양자군
+ENTRY:
+Branch of algebra concerned with rings, algebraic structures in which addition and multiplication have properties similar to those of the integers. Ring theory studies the structure of rings, their representations (or, equivalently, [[Module (mathematics)|modules]]), and special classes such as group rings and division rings. [[Commutative ring|Commutative rings]] are much better understood than noncommutative ones. [[Algebraic geometry]] and [[Algebraic number theory]] supply many examples of commutative rings and have driven the development of [[Commutative algebra]], a major area of modern mathematics. Many results belong to all three fields: Hilbert's Nullstellensatz is fundamental to algebraic geometry, while [[Fermat's Last Theorem]] is stated in elementary arithmetic but proved with both algebraic number theory and algebraic geometry. Since the 1980s, noncommutative geometry and quantum groups have led to a better understanding of noncommutative rings, especially noncommutative Noetherian rings.
+
+=== KEY: Ringo_Starr_602877
+HEADWORD: Starr, Ringo = 스타, 링고
+LEVEL: 5
+GLOSSARY:
+  Beatles = 비틀스
+  It Don't Come Easy = 「잇 돈트 컴 이지」
+  Knight = 기사
+  Knight Bachelor = 하급 기사
+  Ringo = 『링고』
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Submarine = 잠수함
+  The Beatles = 비틀스
+  Yellow Submarine = 「옐로 서브마린」
+ENTRY:
+English drummer, singer, songwriter and actor, best known as a member of the [[The Beatles|Beatles]]. He sang lead vocals on some Beatles recordings, including "Yellow Submarine". His playing emphasized feel over technical virtuosity. After the Beatles disbanded he had hits including the US top-ten "It Don't Come Easy", and his 1973 album *Ringo* was a top-ten release in both the UK and the US. He was inducted into the [[Rock and Roll Hall of Fame]] twice, as a Beatle in 1988 and as a solo artist in 2015, and was appointed a Knight Bachelor in 2018 for services to music.
+
+=== KEY: Rings_of_Saturn_2af9e4
+HEADWORD: Rings of Saturn = 토성의 고리
+LEVEL: 5
+GLOSSARY:
+  Cassini = 카시니호
+  Christiaan Huygens = 크리스티안 하위헌스
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Moons of Saturn = 토성의 위성
+  Ring = 『링』
+  Ring system = 고리계
+  Saturn = 토성
+  Solar System = 태양계
+  destabilizing resonances = 불안정 공명
+ENTRY:
+Ring system around Saturn, the most extensive of any planet in the Solar System. It is made almost entirely of water ice with a trace of rocky material. [[Galileo Galilei]] first observed the rings in 1610 without recognizing them, and in 1655 [[Christiaan Huygens]] described them as a disk. Many gaps are cleared by embedded moons or lie at destabilizing resonances with [[Moons of Saturn]], while others remain unexplained. There is no consensus on when the rings formed: models suggested an early origin, but newer Cassini data indicate a more recent one.
+
+=== KEY: Rio_Grande_a66a1c
+HEADWORD: Rio Grande = 리오그란데강
+LEVEL: 4
+GLOSSARY:
+  Chihuahua = 치와와주
+  Coahuila = 코아우일라주
+  Colorado = 콜로라도주
+  Gulf of Mexico = 멕시코만
+  Mexico = 멕시코
+  New Mexico = 뉴멕시코주
+  North America = 북아메리카
+  Nuevo León = 누에보레온주
+  Rio Grande = 리오그란데강
+  Rio Grande Wild and Scenic River = 리오그란데 야생 경관 하천
+  River = 강
+  Tamaulipas = 타마울리파스주
+  Texas = 텍사스주
+  United States = 미국
+  drainage basin = 유역
+  endorheic basins = 내륙 유역
+  main stem = 본류
+ENTRY:
+River of the southwestern United States and northern Mexico, forming part of their border. It rises in south-central [[Colorado]] and flows 1,896 miles (3,051 km) to the [[Gulf of Mexico]], making it the fourth-longest river in the United States and North America by main stem. Its drainage basin covers 182,200 square miles (472,000 km2), or 336,000 square miles (870,000 km2) including adjacent endorheic basins. After crossing [[New Mexico]], it forms the border between [[Texas]] and the Mexican states of Chihuahua, Coahuila, Nuevo León and Tamaulipas. In Mexico it is called the Río Bravo (del Norte). Since the mid-twentieth century only 20 percent of its water has reached the Gulf, because of irrigation and urban use. A 260-mile (418 km) stretch in New Mexico and Texas is designated the Rio Grande Wild and Scenic River.
+
+=== KEY: Rio_Grande_do_Sul_e166a7
+HEADWORD: Rio Grande do Sul = 리우그란지두술주
+LEVEL: 5
+GLOSSARY:
+  Argentina = 아르헨티나
+  Azores = 아조레스 제도
+  Brazil = 브라질
+  German = 독일어
+  Guarani = 과라니족
+  Jesuits = 예수회
+  Kaingang = 카잉강족
+  Paraguayan War = 파라과이 전쟁
+  Porto Alegre = 포르투알레그리
+  Ragamuffin War = 파하푸스 전쟁
+  Uruguay = 우루과이
+ENTRY:
+State in southern Brazil, bordered by [[Argentina]] and [[Uruguay]]. It is the fifth-most populous Brazilian state and the ninth-largest by area, with 497 municipalities. It has 5.4% of Brazil's population and produces 6.6% of its GDP. The capital and largest city is [[Porto Alegre]]. Before European arrival the region was inhabited mostly by the Guarani and Kaingang peoples. The first Europeans were [[Jesuits]], followed by settlers from the [[Azores]]. Conflicts of the 19th century included the Ragamuffin War and the [[Paraguayan War]], and large German and Italian migrations shaped the state.
+
+=== KEY: Rio_Negro_Amazon_251115
+HEADWORD: Rio Negro = 네그루강
+LEVEL: 4
+GLOSSARY:
+  Amazon River = 아마존강
+  Amazon basin = 아마존 분지
+  Brazil = 브라질
+  Casiquiare canal = 카시키아레 수로
+  Colombia = 콜롬비아
+  Guainía River = 과이니아강
+  Manaus = 마나우스
+  Meeting of Waters = 두 강의 만남
+  Orinoco = 오리노코강
+  River = 강
+  Solimões = 솔리몽이스강
+  Solimões River = 솔리몽이스강
+  Venezuela = 베네수엘라
+  Wet season = 우기
+  blackwater river = 흑수 하천
+  left tributary = 좌안 지류
+  tributary = 지류
+ENTRY:
+Largest blackwater river in the world and the largest left tributary of the [[Amazon River]]. Known as the Guainía River in its upper course, it rises in Colombia and flows southeast through Colombia, Venezuela and Brazil. It carries about 14% of the water in the Amazon basin and is one of the world's ten largest rivers by average discharge, yet its sediment load is low: 5.76 million tonnes per year on average at [[Manaus]]. The Casiquiare canal links it with the [[Orinoco]], a unique connection between the Orinoco and Amazon basins. During the [[Wet season|wet season]], from April until October, the river floods the surrounding country for long distances. Near Manaus it meets the Solimões River to form the Amazon, in a phenomenon called the Meeting of Waters.
+
+=== KEY: Rio_de_Janeiro_5cfd58
+HEADWORD: Rio de Janeiro = 리우데자네이루
+LEVEL: 4
+GLOSSARY:
+  2016 Summer Olympics = 2016년 하계 올림픽
+  Bossa nova = 보사노바
+  Brasília = 브라질리아
+  Brazil = 브라질
+  Carnival = 카니발
+  Christ the Redeemer = 구세주 그리스도상
+  Christ the Redeemer (statue) = 구세주 그리스도상
+  Copacabana = 코파카바나
+  Corcovado = 코르코바두산
+  Ipanema = 이파네마
+  Paralympics = 패럴림픽
+  Portuguese court = 포르투갈 왕실
+  Rio de Janeiro = 리우데자네이루
+  Rio de Janeiro (state) = 리우데자네이루주
+  Rio de Janeiro state = 리우데자네이루주
+  Samba = 삼바
+  South American = 남아메리카
+  Southern Hemisphere = 남반구
+  State of Brazil = 브라질국
+  Summer Olympics = 하계 올림픽
+  captaincy = 카피타니아
+ENTRY:
+Second-largest city in Brazil (pop., 2025: 6 million), capital of [[Rio de Janeiro (state)|Rio de Janeiro state]]. Founded in 1565 as the seat of a Portuguese captaincy, it became the capital of the State of Brazil in 1763. When the Portuguese court arrived in 1808 it became the seat of the monarchy, and it remained the capital of the Empire and then the republic until 1960, when the capital moved to [[Brasília]]. It is one of the most visited cities in the Southern Hemisphere, known for [[Samba|samba]], [[Bossa nova|bossa nova]], Carnival and beaches such as Copacabana and Ipanema. Its landmarks include the statue of [[Christ the Redeemer (statue)|Christ the Redeemer]] on Corcovado mountain. Rio hosted the 2016 Summer Olympics and Paralympics, the first South American and Portuguese-speaking city to do so.
+
+=== KEY: Rio_de_Janeiro_state_799a95
+HEADWORD: Rio de Janeiro = 리우데자네이루주
+LEVEL: 5
+GLOSSARY:
+  Brazil = 브라질
+  Rio de Janeiro = 리우데자네이루
+  Southeast = 남동부
+  Southeast region = 남동부 지역
+  São Paulo = 상파울루
+  São Paulo (state) = 상파울루주
+  fluminense = 플루미넨시
+ENTRY:
+State in southeastern Brazil, with its capital in the city of [[Rio de Janeiro]]. It has the second-largest economy in Brazil, after [[São Paulo (state)|São Paulo]], and holds 8.2% of the national population while producing 9.2% of its GDP. It is the smallest state by area in the Southeast region but the third most populous, with over 16 million people at the 2022 census, making it the most densely populated state in Brazil. Its official demonym, fluminense, was sanctioned in 1783.
+
+=== KEY: Riot_10c889
+HEADWORD: Riot = 폭동
+LEVEL: 4
+GLOSSARY:
+  CS gas = CS 가스
+  Conscription = 징병제
+  Ethnicity = 민족
+  Food = 음식
+  Harvest = 수확
+  Locust = 메뚜기
+  Pogrom = 포그롬
+  Police = 경찰
+  Tax = 세금
+  less-than-lethal weapons = 비살상 무기
+  rubber bullets = 고무탄
+ENTRY:
+Form of civil disorder in which people commit public violence against authority figures and property. Riots typically destroy property, and targets include shops, cars, restaurants, state-owned institutions and religious buildings, though government offices are seldom targeted because of their protection. Riots often arise from poverty, unemployment, poor living conditions, governmental oppression, [[Tax|taxation]] or [[Conscription|conscription]], or conflict between [[Ethnicity|ethnic groups]] or religions, as in a [[Pogrom|pogrom]]. Sports riots may follow the outcome of a match or championship. Food riots may follow [[Harvest|harvest]] failures, hoarding or attacks by [[Locust|locusts]]. [[Police]] forces often struggle to control riots, using tear gas, CS gas and less-than-lethal weapons such as rubber bullets. Evidence suggests that rioters follow inverted social norms rather than irrational herd behavior.
+
+=== KEY: Rita_Hayworth_6320e5
+HEADWORD: Hayworth, Rita = 헤이워스, 리타
+LEVEL: 5
+GLOSSARY:
+  Alzheimer's disease = 알츠하이머병
+  Betty Grable = 베티 그레이블
+  Cover Girl = 「커버 걸」
+  Ford = 포드
+  Fred Astaire = 프레드 아스테어
+  GIs = 미군 병사
+  Gene = 유전자
+  Gene Kelly = 진 켈리
+  Gilda = 「길다」
+  Girl = 소녀
+  Glenn Ford = 글렌 포드
+  Golden Age = 황금기
+  Hollywood = 할리우드
+  Hollywood Walk of Fame = 할리우드 명예의 거리
+  Hollywood's Golden Age = 할리우드 황금기
+  Kelly = 켈리
+  Love = 사랑
+  The Love Goddess = 사랑의 여신
+  Walk of Fame = 명예의 거리
+  World = 세계
+  World War II = 제2차 세계 대전
+  femme fatale = 팜 파탈
+ENTRY:
+American actress and dancer, one of the top stars of Hollywood's Golden Age. She was the second favorite pin-up girl for GIs in [[World War II]], after Betty Grable, and the press nicknamed her "The Love Goddess". She is best known for *Gilda* (1946), in which she played a femme fatale opposite Glenn Ford. She made two films with [[Fred Astaire]] and starred in *Cover Girl* (1944) with [[Gene Kelly]]. She received a star on the [[Hollywood Walk of Fame]] in 1960. In 1980 she was diagnosed with early-onset [[Alzheimer's disease]]; her public disclosure helped increase research funding.
+
+=== KEY: Rita_Moreno_883aa3
+HEADWORD: Moreno, Rita = 모레노, 리타
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Supporting Actress = 아카데미 여우조연상
+  Anita = 아니타
+  Best Featured Actress in a Play = 연극 부문 여우조연상
+  Best Supporting Actress = 여우조연상
+  Crown = 영국 왕실
+  EGOT = EGOT
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  Grammy = 그래미상
+  Hispanic = 히스패닉
+  Oscar = 오스카상
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Awards = 프라임타임 에미상
+  Puerto Rican = 푸에르토리코
+  Story = 『스토리』
+  The Muppet Show = 「머펫 쇼」
+  The Ritz = 「더 리츠」
+  The Rockford Files = 「록퍼드 파일」
+  Tony = 토니상
+  Triple Crown = 트리플 크라운
+  Triple Crown of Acting = 연기 3관왕
+  West Side Story = 「웨스트 사이드 스토리」
+ENTRY:
+Puerto Rican actress, dancer and singer, one of the few performers to have won an Emmy, a Grammy, an Oscar and a Tony (EGOT), and the Triple Crown of Acting. Her breakout role was Anita in *West Side Story* (1961), which won her the Academy Award for Best Supporting Actress and made her the first Hispanic woman to win an Academy Award. She won a Tony for Best Featured Actress in a Play for *The Ritz* (1975). She also received Primetime Emmy Awards in consecutive years for *The Muppet Show* and *The Rockford Files*.
+
+=== KEY: Ritchie_Valens_0d2c23
+HEADWORD: Valens, Ritchie = 밸런스, 리치
+LEVEL: 5
+GLOSSARY:
+  Buddy Holly = 버디 홀리
+  Chicano rock = 치카노 록
+  Donna = 「도나」
+  Hollywood = 할리우드
+  Hollywood Walk of Fame = 할리우드 명예의 거리
+  Iowa = 아이오와주
+  La Bamba = 「라 밤바」
+  Music = 음악
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  The Big Bopper = 빅 보퍼
+  The Day the Music Died = 음악이 죽은 날
+  Walk of Fame = 명예의 거리
+  rock and roll = 로큰롤
+ENTRY:
+American rock and roll pioneer and a forefather of the Chicano rock movement. He is best known for "La Bamba", a rock adaptation of a Mexican folk song that became a hit in 1958, and for "Donna", which reached number two on the US chart. Valens was 17 when he died in a plane crash in Iowa that also killed [[Buddy Holly]] and J. P. "The Big Bopper" Richardson. The crash became known as "The Day the Music Died". He was posthumously inducted into the [[Rock and Roll Hall of Fame]] and has a star on the [[Hollywood Walk of Fame]].
+
+=== KEY: Ritual_94f57e
+HEADWORD: Ritual = 의례
+LEVEL: 3
+GLOSSARY:
+  Bell = 종
+  British monarchy = 영국 군주제
+  Catherine = 예카테리나 1세
+  Catherine Bell = 캐서린 벨
+  Cult = 컬트
+  Eric Hobsbawm = 에릭 홉스봄
+  Kyriakidis = 키리아키디스
+  Latin = 라틴어
+  Marriage = 결혼
+  Obsessive–compulsive disorder = 강박 장애
+  Psychology = 심리학
+  Religion = 종교
+  Terrence Ranger = 테렌스 레인저
+  Worship = 예배
+  corvid = 까마귀과
+  emic = 에믹
+  etic = 에틱
+  rites of passage = 통과 의례
+  ritual studies = 의례 연구
+  ritualis = ritualis
+  ritus = ritus
+  sacraments = 성사
+ENTRY:
+Repeated, structured sequence of actions or behaviors that alters the internal or external state of an individual, group, or environment, regardless of conscious understanding, emotional context, or symbolic meaning. Rituals are a feature of all known human societies and also occur in non-human species, such as elephant mourning or corvid object-leaving. They include the [[Worship|worship]] rites and sacraments of organized [[Religion|religions]] and [[Cult|cults]], rites of passage, atonement and purification rites, oaths of allegiance, coronations, presidential inaugurations, [[Marriage|marriages]], and funerals; even hand-shaking and saying "hello" may be termed rituals. The English word derives from Latin *ritualis*, "that which pertains to rite (*ritus*)," and is first recorded in English in 1570.
+
+Definitions in ritual studies conflict. Kyriakidis describes ritual as an outsider's, or "etic," category for activity that seems irrational or illogical to the observer; an insider, or "emic," performer may use the term to acknowledge that it can look so to the uninitiated. Catherine Bell argues that rituals are characterized by formalism, traditionalism, invariance, rule-governance, sacral symbolism, and performance. [[Eric Hobsbawm]] and Terrence Ranger have argued that many rituals presented as ancient, such as those of the British monarchy, took their actual form in the late nineteenth century.
+
+In [[Psychology|psychology]], ritual is sometimes used in a technical sense for a repetitive behavior used to neutralize or prevent anxiety; it can be a symptom of [[Obsessive–compulsive disorder|obsessive–compulsive disorder]], though such behaviors are generally isolated activities. Some researchers report that rituals regulate emotion, enhance performance under stress, and strengthen group cohesion, and that secular forms, such as athletic pre-game routines or diplomatic protocols, share structural features with religious ones.
+
+=== KEY: River_149529
+HEADWORD: River = 강
+LEVEL: 3
+GLOSSARY:
+  Aquifer = 대수층
+  Dam = 댐
+  Drainage basin = 유역
+  Erosion = 침식
+  Meander = 곡류
+  People = 『피플』
+  Water cycle = 물의 순환
+  alluvium = 충적층
+  confluences = 합류점
+  drainage basin = 유역
+  headwaters = 원류
+  hydroelectricity = 수력 발전
+  levees = 제방
+  tributary = 지류
+  water table = 지하수면
+  watershed = 분수계
+ENTRY:
+Natural stream of fresh water that flows on land or inside caves toward another body of water at a lower elevation, such as an ocean, lake, or another river. A river may run dry before reaching its end or flow only in certain seasons. Rivers are regulated by the [[Water cycle|water cycle]]; water enters them through precipitation, runoff down a slope, melting of glaciers or snow, or seepage from [[Aquifer|aquifers]]. The headwaters are the smaller streams that feed a river, and all land that feeds it makes up its [[Drainage basin|drainage basin]], or watershed, usually separated from others by a ridge. Because groundwater feeds rivers where their elevation is lower than the water table, rivers can keep flowing during drought.
+
+Rivers flow downhill under gravity and merge at confluences, where a tributary joins a larger river. They seldom run straight but [[Meander|meander]]. They carve rock and soil into canyons and valleys by [[Erosion|erosion]] of their beds, and where the flow slows, sediment, or alluvium, forms deltas and islands.
+
+Rivers have sustained human and animal life for millennia, including the first civilizations, and provide food, transportation, drinking water, and recreation. Humans have engineered rivers to prevent flooding, irrigate crops, drive water wheels, and produce hydroelectricity from [[Dam|dams]]. People associate rivers with life and fertility, and with religious, political, social, and mythological meanings. Rivers are threatened by pollution, climate change, and human activity; dams, canals, and levees have eliminated habitats, caused the extinction of some species, and reduced the alluvium carried downstream. Regulation of pollution, dam removal, and sewage treatment have helped improve water quality and restore habitats.
+
+=== KEY: River_Thames_fe6cd8
+HEADWORD: River Thames = 템스강
+LEVEL: 5
+GLOSSARY:
+  England = 잉글랜드
+  Gloucestershire = 글로스터셔
+  London = 런던
+  North Sea = 북해
+  Oxford = 옥스퍼드
+  Reading = 레딩
+  River = 강
+  River Severn = 세번강
+  Severn = 세번강
+  Teddington Lock = 테딩턴 갑문
+  Thames = 템스강
+  Thames Head = 템스헤드
+  Tideway = 타이드웨이
+  United Kingdom = 영국
+  Windsor = 윈저
+  navigation locks = 갑문
+ENTRY:
+River in southern England, flowing through [[London]] to the North Sea. At 215 miles (346 km), it is the longest river entirely in England and the second-longest in the United Kingdom, after the River Severn. It rises at Thames Head in Gloucestershire and flows through Oxford, Reading and Windsor. Its tidal lower reaches, the Tideway, extend up to Teddington Lock. The river drops 55 meters (180 ft) from Oxford to the estuary and has 45 navigation locks. Its discharge is low for its length, as the Severn has an average discharge almost twice as large.
+
+=== KEY: River_delta_488b76
+HEADWORD: River delta = 삼각주
+LEVEL: 4
+GLOSSARY:
+  Dam = 댐
+  Levee = 제방
+  Mississippi River = 미시시피강
+  Nile = 나일강
+  Nile Delta = 나일강 삼각주
+  bird's-foot = 조족상 삼각주
+  carbon sinks = 탄소 흡수원
+  deltaic lobe = 삼각주 엽
+  land subsidence = 지반 침하
+  levees = 제방
+ENTRY:
+Typically triangular landform formed where a river deposits its sediment as it enters a sea, lake, reservoir or estuary. The name comes from the shape of the [[Nile]] Delta, which approximates the triangular Greek letter delta (Δ). As a river expands into standing water it slows, and sediment settles out to build the delta. Over time a channel builds a deltaic lobe, such as the bird's-foot of the [[Mississippi River|Mississippi]], and the river may breach its natural [[Levee|levees]] to take a shorter, steeper course. Deltas are major agricultural and population centers, can provide coastal defense, and are important carbon sinks on geologic timescales. Many face threats from [[Dam|dams]] that reduce sediment supply, land subsidence and sea-level rise.
+
+=== KEY: Riverboat_6a8c31
+HEADWORD: Riverboat = 하천선
+LEVEL: 4
+GLOSSARY:
+  Diesel engine = 디젤 엔진
+  Ferry = 페리
+  Mississippi River = 미시시피강
+  Missouri = 미주리주
+  Missouri River = 미주리강
+  Ohio = 오하이오주
+  Ohio River = 오하이오강
+  River = 강
+  dredgers = 준설선
+  fireboats = 소방정
+  paddle steamers = 외륜 증기선
+  screw-driven = 스크루 추진
+ENTRY:
+Watercraft designed for inland navigation on lakes, rivers and artificial waterways. Riverboats are generally built as work boats for freight or passengers, or as luxury tour craft, and include dredgers, survey boats and fireboats. Because they do not have to withstand high winds or large waves, they are usually less sturdy than ocean vessels and can be built from light composite materials. Their size is limited by river width, depth and bridge height, and early paddle steamers on the [[Mississippi River]] could operate in water under two meters deep. A [[Ferry|ferry]] crosses a river, while a riverboat travels along it carrying passengers or cargo for revenue. The most famous riverboats operated on the [[Ohio River]] and [[Missouri River]]. Modern riverboats are usually screw-driven and powered by pairs of [[Diesel engine|diesel engines]].
+
+=== KEY: Rivet_6cbf17
+HEADWORD: Rivet = 리벳
+LEVEL: 4
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Bronze = 청동
+  Bronze Age = 청동기 시대
+  Naqada culture = 나카다 문화
+  Solid = 고체
+  Steel = 강철
+  buck-tail = 벅테일
+  pneumatic hammers = 공기 해머
+  shear loads = 전단 하중
+  shop head = 성형 머리
+  tension loads = 인장 하중
+ENTRY:
+Semi-permanent mechanical fastener with a head on one end. Installation flattens the tail of the shaft, called the shop head or buck-tail, into a shape like the head, creating a second head. Because of these two heads a rivet supports tension loads, but it is much more capable of supporting shear loads. Solid rivets are among the oldest and most reliable fasteners, found at [[Bronze Age]] sites, and [[Ancient Egypt|Egyptian]] spearheads from the Naqada culture, dated between 4400 and 3000 BC, have rivet holes. High-strength bolts have largely replaced structural [[Steel]] rivets, partly because skilled workers are costly; riveting once required four skilled workers. Rivets may be hammered by hand, driven with pneumatic hammers, or squeezed with machines.
+
+=== KEY: Riyadh_1abf78
+HEADWORD: Riyadh = 리야드
+LEVEL: 4
+GLOSSARY:
+  Amazon (company) = 아마존
+  Arabia = 아라비아
+  Arabian Peninsula = 아라비아반도
+  Assembly = 민회
+  Consultative Assembly = 자문 의회
+  Council of Ministers = 각료 회의
+  Diplomatic Quarter = 외교 지구
+  Ibn Saud = 이븐 사우드
+  Lenovo = 레노버
+  Najd = 나즈드
+  Peninsula = 반도
+  Riyadh = 리야드
+  Samsung = 삼성
+  Saudi Arabia = 사우디아라비아
+ENTRY:
+Capital and largest city of [[Saudi Arabia]], on the Najd plateau of the central [[Arabian Peninsula]]. Riyadh has been a Saudi capital since the early 19th century. Ibn Saud regained the city in 1902, and in 1932 he named his kingdom Saudi Arabia with Riyadh as its capital. The city hosts the Consultative Assembly, the Council of Ministers and the king, and 23 of the 24 Saudi ministries are based there. It has 114 foreign embassies, most in the Diplomatic Quarter. Its population was 7 million in 2022. Over 500 foreign companies have moved regional bases there, including [[Lenovo]], [[Samsung]] and [[Amazon (company)|Amazon]].

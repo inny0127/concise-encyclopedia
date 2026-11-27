@@ -1,0 +1,928 @@
+=== KEY: Springtail_6c32e7
+HEADWORD: Springtail = 톡토기
+LEVEL: 4
+GLOSSARY:
+  Collembola = 톡토기강
+  Decomposition = 분해
+  Moulting = 탈피
+  furcula = 도약기
+  hexapods = 육각류
+ENTRY:
+Class (Collembola) of small, wingless arthropods, the largest of the three lineages of hexapods that are no longer considered insects. Springtails are omnivorous, free-living organisms that prefer moist conditions, and there are more than 9,000 species worldwide. They contribute indirectly to [[Decomposition|decomposition]] by fragmenting organic matter and controlling soil microbial communities. Most species have a forked appendage, the furcula, folded beneath the body, which snaps against the surface to fling the springtail into the air. Members are normally less than 6 mm long, and some can reduce their body size by as much as 30% through [[Moulting|molting]] when temperatures rise. The name Collembola comes from Greek words for glue and peg, after a tube on the abdomen once thought to stick the creature to surfaces.
+
+=== KEY: Sprite_lightning_83f7b9
+HEADWORD: Sprite = 스프라이트
+LEVEL: 5
+GLOSSARY:
+  Lightning = 번개
+  Minnesota = 미네소타주
+  Thunderstorm = 뇌우
+  University = 대학
+  University of Minnesota = 미네소타 대학교
+  cold plasma = 저온 플라스마
+  mesosphere = 중간권
+  upper-atmospheric lightning = 고층 대기 번개
+ENTRY:
+Large-scale electrical discharge in the mesosphere, high above [[Thunderstorm|thunderstorm]] clouds. Sprites appear as luminous red-orange flashes, often occurring in clusters at altitudes of 50–90 km. They are usually triggered by positive [[Lightning|lightning]] discharges between an underlying thundercloud and the ground. Although sometimes called upper-atmospheric lightning, they are cold plasma phenomena, more akin to fluorescent tube discharges. The earliest known report dates from 1886, and they were first photographed in 1989 by scientists from the University of Minnesota. Their root cause remains unknown beyond a general association with positive cloud-to-ground lightning.
+
+=== KEY: Spruce_0d5079
+HEADWORD: Spruce = 가문비나무
+LEVEL: 4
+GLOSSARY:
+  Christmas = 크리스마스
+  Christmas trees = 크리스마스트리
+  Conifer = 구과식물
+  Edvard Munch = 에드바르 뭉크
+  Guitar = 기타
+  Northern Hemisphere = 북반구
+  Norway = 노르웨이
+  Norway spruce = 독일가문비
+  Picea = 가문비나무속
+  Picea engelmannii = Picea engelmannii
+  Pinaceae = 소나무과
+  Spruce = 가문비나무
+  boreal = 아한대
+  pine family = 소나무과
+  soundboards = 향판
+ENTRY:
+[[Conifer|Coniferous]] evergreen tree of the genus *Picea* in the pine family, Pinaceae. The genus comprises some 37 species found in the northern temperate and boreal regions of the Northern Hemisphere. Spruce needles are four-sided and attached singly to small peg-like structures that remain on the twigs after the needles fall, a feature that distinguishes spruces from other Pinaceae. Spruce is a major source of construction timber and of pulp for paper, and it is the standard material for the soundboards of stringed instruments such as acoustic [[Guitar|guitars]]. The Norway spruce is widely used for Christmas trees. Spruces generally live 100 to 600 years; the oldest reported age for a single tree is 852 years, for a *Picea engelmannii*. [[Edvard Munch]] depicted spruces around 1900.
+
+=== KEY: Sputnik_1_10abb0
+HEADWORD: Sputnik 1 = 스푸트니크 1호
+LEVEL: 4
+GLOSSARY:
+  Amateur radio = 아마추어 무선
+  Earth = 지구
+  Soviet Union = 소련
+  Space = 공간
+  Space Race = 우주 경쟁
+  Sputnik = 스푸트니크
+  Sputnik 1 = 스푸트니크 1호
+  Sputnik crisis = 스푸트니크 위기
+  United States = 미국
+  ionosphere = 전리층
+  orbital inclination = 궤도 경사각
+ENTRY:
+First artificial Earth satellite, launched by the [[Soviet Union]] on October 4, 1957. It was a polished metal sphere 58 cm (23 in) in diameter with four external radio antennas, and its radio signal was easily detected by [[Amateur radio|amateur radio]] operators. Its 65° orbital inclination meant its flight path covered virtually the entire inhabited Earth. The success was unanticipated by the United States, which precipitated the American Sputnik crisis and triggered the start of the [[Space Race]]. The transmitter batteries were depleted after 22 days. After 1,440 orbits, Sputnik 1 burned up on reentry on January 4, 1958. Tracking it provided data on the density of the upper atmosphere and on the ionosphere.
+
+=== KEY: Square_ceb46c
+HEADWORD: Square = 정사각형
+LEVEL: 4
+GLOSSARY:
+  Pixel = 픽셀
+  Rhombus = 마름모
+  compass and straightedge = 자와 컴퍼스
+  simple closed curve = 단순 닫힌곡선
+  square the circle = 원적 문제
+  tile the plane = 평면을 채우다
+ENTRY:
+Regular quadrilateral with four equal sides and four right angles. A square is a special case of a [[Rhombus|rhombus]] and of a rectangle, and its area is the side length multiplied by itself, which gives the term squaring in algebra. Equal squares tile the plane edge to edge, so square tilings appear in floors, graph paper and image [[Pixel|pixels]]. Squares are the only regular polygons whose internal, central and external angles are all equal, each being a right angle. The diagonals of a square are equal, bisect each other and meet at 90 degrees. Attempts to square the circle with compass and straightedge, which the area formula motivated, are now known to be impossible. Squares can be inscribed in any smooth or convex curve, but it remains unsolved whether a square can be inscribed in every simple closed curve.
+
+=== KEY: Square_root_921c8e
+HEADWORD: Square root = 제곱근
+LEVEL: 4
+GLOSSARY:
+  Babylonian = 바빌로니아
+  Complex number = 복소수
+  Irrational number = 무리수
+  Number = 수
+  Square = 정사각형
+  Theaetetus = 테아이테토스
+  complex numbers = 복소수
+  perfect squares = 완전제곱수
+  positive integers = 양의 정수
+  principal square root = 주제곱근
+ENTRY:
+Number y whose square, y², equals a given number x. Every nonnegative real number has a unique nonnegative square root, called the principal square root and written √x. For example, 4 and −4 are square roots of 16. Every positive number has two square roots, one positive and one negative. Square roots of negative numbers are discussed within [[Complex number|complex numbers]]. A Babylonian clay tablet dated between 1800 and 1600 BC gives a base-60 value corresponding to 1.41421296 for √2. The Greeks knew that the square roots of positive integers that are not perfect squares are [[Irrational number|irrational]], a theorem almost certainly due to Theaetetus, dating to c. 380 BC.
+
+=== KEY: Squash_sport_6d251d
+HEADWORD: Squash = 스쿼시
+LEVEL: 4
+GLOSSARY:
+  2028 Summer Olympics = 2028년 하계 올림픽
+  Concord = 콩코드
+  Hampshire = 햄프셔
+  Harrow = 해로
+  Harrow School = 해로 스쿨
+  International Olympic Committee = 국제 올림픽 위원회
+  Los Angeles = 로스앤젤레스
+  New Hampshire = 뉴햄프셔주
+  North America = 북아메리카
+  Olympic Games = 올림픽
+  Racket = 래킷
+  School = 학교
+  St. Paul's School = 세인트폴스 스쿨
+  Summer Olympics = 하계 올림픽
+  World = 세계
+  World Squash = 세계스쿼시연맹
+  ball = 공
+  rackets = 래킷스
+ENTRY:
+Racket sport played in a four-walled court with a small, hollow rubber ball. It is played by two players in singles or four in doubles, and the players alternate striking the ball so the opponent cannot make a return. About 20 million people play squash regularly in over 185 countries. The sport derives from the older game of rackets, and a punctured ball that "squashed" against the wall was used at Harrow School around 1830. The first squash court in North America was built at St. Paul's School in Concord, New Hampshire, in 1884. The standard singles court measures 9.75 meters by 6.4 meters. The governing body, World Squash, is recognized by the International Olympic Committee, and squash will be included in the [[Olympic Games]] from the 2028 Summer Olympics in [[Los Angeles]].
+
+=== KEY: Squid_0cc5a9
+HEADWORD: Squid = 오징어
+LEVEL: 4
+GLOSSARY:
+  Cephalopod = 두족류
+  Chitin = 키틴
+  Cretaceous = 백악기
+  Early and Late Cretaceous = 전기 백악기와 후기 백악기
+  Humboldt squid = 훔볼트오징어
+  Jurassic = 쥐라기
+  Late Cretaceous = 후기 백악기
+  Sperm whale = 향유고래
+  Squid = 오징어
+  Teleost = 진골어류
+  bioluminescent = 생물 발광
+  calamari = 칼라마리
+  gladius = 글라디우스
+  jet propulsion = 제트 추진
+ENTRY:
+Cephalopod mollusc with an elongated soft body, large eyes, eight arms and two long tentacles. Squid have a small internal skeleton, a rod-like gladius or pen, made of [[Chitin|chitin]]. They diverged from other cephalopods during the [[Jurassic]] and became prominent around 100 million years ago, at the boundary between the Early and Late Cretaceous. Squid occupy a role similar to [[Teleost|teleost]] fish as open-water predators, using their two long tentacles to grab prey and their eight arms to hold it. Many swim rapidly by jet propulsion and locate prey by sight. Squid can change color for camouflage and signaling, some species are bioluminescent, and many eject a cloud of ink to distract predators. Groups of Humboldt squid have been observed hunting cooperatively. Squid are preyed on by sharks, fish, seabirds, seals and [[Sperm whale|sperm whales]], and are used in cuisines around the world, often as calamari.
+
+=== KEY: Squid_Game_ba4280
+HEADWORD: Squid Game = 오징어 게임
+LEVEL: 5
+GLOSSARY:
+  Capitalism = 자본주의
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  Game = 게임
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Hwang Dong-hyuk = 황동혁
+  Korea = 한국
+  Netflix = 넷플릭스
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Awards = 프라임타임 에미상
+  South Korea = 대한민국
+  Squid = 오징어
+  Squid Game = 「오징어 게임」
+ENTRY:
+South Korean dystopian survival thriller television series. Created, written and directed by Hwang Dong-hyuk for [[Netflix]], *Squid Game* follows 456 players in financial hardship who risk death in children's games for a prize of ₩45.6 billion (US$34.02 million). Hwang outlined the story in 2009, drawing on class disparity in South Korea and on [[Capitalism|capitalism]]. The first season, released on September 17, 2021, became Netflix's most-watched series and won six Primetime Emmy Awards and a Golden Globe. The second season was released on December 26, 2024, and the third and final season on June 27, 2025. The later seasons were considered inferior to the first.
+
+=== KEY: Squirrel_44314e
+HEADWORD: Squirrel = 다람쥐
+LEVEL: 4
+GLOSSARY:
+  African pygmy squirrel = 아프리카피그미다람쥐
+  Americas = 아메리카
+  Ancient Greek = 고대 그리스어
+  Australia = 오스트레일리아
+  Bhutan = 부탄
+  Bhutan giant flying squirrel = 부탄큰날다람쥐
+  Chipmunk = 얼룩다람쥐
+  Eocene = 에오세
+  Eurasia = 유라시아
+  Latin = 라틴어
+  Prairie dog = 프레리도그
+  Rainforest = 우림
+  Sciuridae = 다람쥐과
+  flying squirrels = 날다람쥐
+  ground squirrels = 땅다람쥐
+  sciurus = 스키우루스
+  skiouros = 스키우로스
+  tree squirrels = 나무다람쥐
+  tropical rainforest = 열대 우림
+ENTRY:
+Member of the rodent family Sciuridae, including tree squirrels, ground squirrels such as [[Chipmunk|chipmunks]] and [[Prairie dog|prairie dogs]], and flying squirrels. Squirrels are indigenous to the Americas, Eurasia and Africa, and were introduced by humans to Australia. The earliest known fossil squirrels date from the [[Eocene]] epoch. They range from the African pygmy squirrel, 10–14 cm long and weighing 12–26 g, to the Bhutan giant flying squirrel, up to 1.27 m long. Most have slender bodies, long bushy tails and large eyes, and tree squirrels can descend a tree headfirst by rotating their ankles 180 degrees. Squirrels live in almost every habitat from tropical [[Rainforest|rainforest]] to semiarid desert. They are predominantly herbivorous, eating seeds and nuts, though many also eat insects. Adults can live 5 to 10 years in the wild. The name derives from Latin sciurus and Ancient Greek skiouros, from words meaning shade and tail.
+
+=== KEY: Srebrenica_massacre_0a1840
+HEADWORD: Srebrenica massacre = 스레브레니차 학살
+LEVEL: 5
+GLOSSARY:
+  Army of Republika Srpska = 스릅스카 공화국군
+  Bosniak = 보스니아인
+  Bosnian = 보스니아어
+  Bosnian Serb = 보스니아 세르비아계
+  Bosnian War = 보스니아 전쟁
+  Court = 법원
+  Court of Justice = 정의의 법정
+  Dutch = 네덜란드어
+  International Court of Justice = 국제 사법 재판소
+  Justice = 정의
+  Kofi Annan = 코피 아난
+  Ratko Mladić = 라트코 믈라디치
+  Republika Srpska = 스릅스카 공화국
+  Second = 초
+  Second World = 제2세계
+  Second World War = 제2차 세계 대전
+  Secretary-General = 사무총장
+  Srebrenica = 스레브레니차
+  UN = 국제 연합
+  United Nations = 국제 연합
+  World = 세계
+  safe area = 안전 지대
+  the Second World War = 제2차 세계 대전
+ENTRY:
+Genocidal killing of more than 8,000 Bosniak men and boys in and around the town of Srebrenica in July 1995, during the [[Bosnian War]]. It was carried out mainly by units of the Bosnian Serb Army of [[Republika Srpska]] under Ratko Mladić. Although the [[United Nations|UN]] had declared Srebrenica a "safe area", a contingent of 370 lightly armed Dutch soldiers failed to deter its capture. The [[International Court of Justice]] ruled in 2007 that the massacre constituted genocide. In 2005 [[Kofi Annan]], then UN Secretary-General, called it "a terrible crime – the worst on European soil since the Second World War."
+
+=== KEY: Sri_Aurobindo_871cc5
+HEADWORD: Sri Aurobindo = 오로빈도, 스리
+LEVEL: 4
+GLOSSARY:
+  Alipore Conspiracy = 알리푸르 음모 사건
+  Ashram = 아시람
+  Conspiracy = 「컨스피러시」
+  Indian National Congress = 인도 국민회의
+  Integral = 적분
+  Integral Yoga = 통합 요가
+  Life = 『라이프』
+  Mirra Alfassa = 미라 알파사
+  Pondicherry = 퐁디셰리
+  Savitri = 『사비트리』
+  Sri Aurobindo = 스리 오로빈도
+  Sri Aurobindo Ashram = 스리 오로빈도 아슈람
+  The Life Divine = 『신성한 삶』
+  The Synthesis of Yoga = 『요가의 종합』
+  Upanishads = 우파니샤드
+  Vedas = 베다
+  Yoga = 요가
+ENTRY:
+Indian philosopher, yogi and nationalist. He took part in the movement for Indian independence from British rule, advocating complete autonomy through his writings and political activity, and was involved in the [[Indian National Congress]]. Arrested after bombings linked to a revolutionary group, he faced a public trial for treason in the Alipore Conspiracy and was then released. He withdrew to [[Pondicherry]] to devote himself to spiritual practice and formulated Integral Yoga, set out in *The Life Divine* and *The Synthesis of Yoga*. With Mirra Alfassa he founded the Sri Aurobindo Ashram in 1926. His literary output includes the epic poem *Savitri* and translations and commentaries on the [[Vedas]] and [[Upanishads]].
+
+=== KEY: Sri_Lanka_ef547e
+HEADWORD: Sri Lanka = 스리랑카
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  British Empire = 대영 제국
+  Buddhist = 불교
+  Canon = 『의학정전』
+  Ceylon = 실론
+  Colombo = 콜롬보
+  Commonwealth = 영연방
+  Commonwealth of Nations = 영연방
+  Dominion = 자치령
+  Dominion of Ceylon = 실론 자치령
+  India = 인도
+  Lanka = 랑카
+  Non-Aligned Movement = 비동맹 운동
+  Pali = 팔리어
+  Pali Canon = 팔리 삼장
+  Palk Strait = 포크 해협
+  Portuguese = 포르투갈인
+  Portuguese Empire = 포르투갈 제국
+  Sinhala language = 싱할라어
+  Sinhalese = 싱할라인
+  South Asia = 남아시아
+  Sri Jayawardenepura Kotte = 스리자야와르데네푸라코테
+  Sri Lanka = 스리랑카
+  Strait = 해협
+  Tamil = 타밀어
+  Tamil language = 타밀어
+  Tamils = 타밀인
+  human development = 인간 개발
+  judicial capital = 사법 수도
+ENTRY:
+Island country in South Asia, separated from [[India]] by the [[Palk Strait]]. Formerly known as Ceylon, it has a population of 22 million. About 74% of the population are Sinhalese, who speak the [[Sinhala language]], and about 15% are Tamils who speak the Tamil language. Its executive and judicial capital is [[Colombo]], also its largest city; Sri Jayawardenepura Kotte is the legislative capital. The earliest known Buddhist writings on the island, the [[Pali Canon]], date back to 29 BCE. The [[Portuguese Empire|Portuguese]] established a colony in the sixteenth century, and the British Empire ruled a colony on the island from the early 19th century until 1948, when it gained independence as the Dominion of Ceylon. Sri Lanka has the highest level of human development in South Asia and is a member of the [[Non-Aligned Movement]] and the [[Commonwealth of Nations]].
+
+=== KEY: Sri_Lankan_civil_war_a2564b
+HEADWORD: Sri Lankan civil war = 스리랑카 내전
+LEVEL: 4
+GLOSSARY:
+  Insurgency = 반란
+  LTTE = LTTE
+  Lanka = 랑카
+  Liberation Tigers of Tamil Eelam = 타밀 일람 해방 호랑이
+  Pogrom = 포그롬
+  Sinhalese = 싱할라인
+  Sri Lanka = 스리랑카
+  Sri Lankan Tamils = 스리랑카 타밀인
+  Tamil = 타밀어
+  Tamils = 타밀인
+  UN = 국제 연합
+  Velupillai Prabhakaran = 벨루필라이 프라바카란
+  War crime = 전쟁 범죄
+  war crimes = 전쟁 범죄
+ENTRY:
+Internal conflict in [[Sri Lanka]], 1983–2009, between the government and Tamil separatists. Beginning on July 23, 1983, it was an intermittent [[Insurgency|insurgency]] by the Liberation Tigers of Tamil Eelam (LTTE), led by Velupillai Prabhakaran, to create an independent Tamil state in the north-east of the island. The LTTE fought in response to discrimination and violent persecution of Sri Lankan Tamils, including [[Pogrom|pogroms]] in 1956, 1958, 1977, 1981 and 1983 carried out by Sinhalese mobs, often with state support. After a 26-year military campaign, the Sri Lankan military defeated the LTTE in May 2009. The UN estimated 80,000–100,000 deaths immediately after the war. The Sri Lankan state has faced global criticism over alleged [[War crime|war crimes]], and the LTTE was notorious for attacks on civilians, including suicide bombings.
+
+=== KEY: Sridevi_086880
+HEADWORD: Sridevi = 스리데비
+LEVEL: 5
+GLOSSARY:
+  Best Actress = 여우주연상
+  Chandni = 「찬드니」
+  Dubai = 두바이
+  English Vinglish = 「잉글리시 빙글리시」
+  Film = 영화
+  Hindi = 힌디어
+  India = 인도
+  Kannada = 칸나다어
+  Malayalam = 말라얄람어
+  Mom = 「맘」
+  Mr. India = 「미스터 인디아」
+  National Film Award = 인도 국립 영화상
+  National Film Award for Best Actress = 인도 국립 영화상 여우주연상
+  Padma Shri = 파드마 슈리 훈장
+  Shri = 슈리
+  Solva Sawan = 「솔바 사완」
+  Tamil = 타밀어
+  Telugu = 텔루구어
+ENTRY:
+Indian actress, cited as the first female superstar of Indian cinema. She worked in Telugu, Tamil, [[Hindi]], [[Malayalam]] and [[Kannada]] films over a career of over 50 years, often playing strong-willed women on screen while being reticent off screen. Her first starring Hindi role was in *Solva Sawan* (1979), followed by hits such as *Mr. India* (1987) and *Chandni* (1989). She returned to film with *English Vinglish* (2012). Her final film, *Mom* (2017), her 300th, earned her a posthumous National Film Award for Best Actress. She received the Padma Shri in 2013. Her death in a [[Dubai]] hotel was attributed to accidental drowning.
+
+=== KEY: Srinagar_ed2295
+HEADWORD: Srinagar = 스리나가르
+LEVEL: 4
+GLOSSARY:
+  Dogra kingdom = 도그라 왕국
+  Jammu = 잠무
+  Jammu and Kashmir = 잠무 카슈미르
+  Jhelum = 젤룸강
+  Jhelum River = 젤룸강
+  Kashmir = 카슈미르
+  Kashmir Valley = 카슈미르 계곡
+  Kashmir shawl = 카슈미르 숄
+  Mughal = 무굴
+  Mughal Empire = 무굴 제국
+  Nishat = 니샤트
+  Rajatarangini = 『라자타랑기니』
+  River = 강
+  Shalimar = 샬리마르
+  union territory = 연방 직할지
+ENTRY:
+Largest city and summer capital of Indian-administered Jammu and Kashmir, in the disputed [[Kashmir]] region. It lies on the Jhelum River in the Kashmir Valley, known for houseboats, gardens and traditional handicrafts such as the Kashmir shawl. Founded in the 6th century according to the Rajatarangini, it was the most important capital of the valley under Hindu dynasties and a major center of learning. In the late 16th century it became part of the [[Mughal Empire]], whose emperors used it as a summer resort; Shalimar and Nishat are among its best-known gardens. It became the summer capital of the Dogra kingdom in 1846. The city was a flashpoint of violence during the 1990s and early 2000s insurgency. In 2019 it became the summer capital of a union territory after the former state's reorganization.
+
+=== KEY: Srinivasa_Ramanujan_3c5cf8
+HEADWORD: Ramanujan, Srinivasa = 라마누잔, 스리니바사
+LEVEL: 4
+GLOSSARY:
+  Cambridge = 케임브리지
+  Fellows of the Royal Society = 왕립 학회 회원
+  G. H. Hardy = G. H. 하디
+  India = 인도
+  Number theory = 수론
+  Ramanujan prime = 라마누잔 소수
+  Ramanujan theta function = 라마누잔 세타 함수
+  Royal Society = 왕립 학회
+  Society = 사회
+  Trinity = 삼위일체
+  Trinity College = 트리니티 칼리지
+  University = 대학
+  University of Cambridge = 케임브리지 대학교
+  continued fractions = 연분수
+  hepatic amoebiasis = 간 아메바증
+  infinite series = 무한급수
+  lost notebook = 잃어버린 노트
+  mathematical analysis = 해석학
+  number theory = 수론
+ENTRY:
+Indian mathematician known for work in mathematical analysis, [[Number theory|number theory]], infinite series and continued fractions. He developed his research in isolation before a 1913 correspondence with [[G. H. Hardy]] of the [[University of Cambridge]], who recognized his work as extraordinary and arranged for him to travel to Cambridge. Ramanujan independently compiled nearly 3,900 results, mostly identities and equations, many of them completely novel. These included the Ramanujan prime and the Ramanujan theta function, which opened new areas of research. He became one of the youngest Fellows of the Royal Society, the second Indian member, and the first Indian Fellow of Trinity College, Cambridge. Ill health, now believed to have been hepatic amoebiasis, forced his return to India in 1919, and he died at the age of 32. The lost notebook, containing discoveries from his final year, was rediscovered in 1976.
+
+=== KEY: Srivijaya_b0a8ea
+HEADWORD: Srivijaya = 스리위자야
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Buddhism = 불교
+  Buddhist = 불교
+  China = 중국
+  Chola = 촐라 왕조
+  French = 프랑스어
+  George Cœdès = 조르주 세데스
+  Indonesia = 인도네시아
+  Malay = 말레이어
+  Maritime Southeast Asia = 해양부 동남아시아
+  Recent = 현세
+  Song dynasty = 송나라
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  Sumatra = 수마트라섬
+  Tang = 당나라
+  Tang dynasty = 당나라
+  Yijing = 의정
+  thalassocratic = 해상 제국
+ENTRY:
+Malay Buddhist thalassocratic empire based on the island of [[Sumatra]], in present-day Indonesia, that influenced much of [[Southeast Asia]]. It was an important center for the expansion of [[Buddhism]] from the 7th to 11th century and the first polity to dominate much of western Maritime Southeast Asia. Its economy depended on trade, and its main foreign interest was lucrative trade agreements with [[China]] that lasted from the [[Tang dynasty]] to the [[Song dynasty]]. The earliest reference is the account of a Chinese monk, Yijing, who visited for six months in 671. Recent research suggests it was primarily a land-based polity, with fleets serving as logistical support. The kingdom may have disintegrated after 1025 following Chola raids on its ports. It was largely forgotten until the French historian George Cœdès formally postulated its existence in 1918.
+
+=== KEY: St_Augustine_Florida_8af18b
+HEADWORD: St. Augustine = 세인트오거스틴
+LEVEL: 5
+GLOSSARY:
+  British East Florida = 영국령 동플로리다
+  Castillo de San Marcos = 카스티요데산마르코스
+  City = 도시
+  County (United States) = 카운티
+  Florida = 플로리다주
+  Pedro Menéndez de Avilés = 페드로 메넨데스 데 아빌레스
+  Spanish Florida = 스페인령 플로리다
+  St. George = 세인트조지
+  St. George Street = 세인트조지가
+  St. Johns County = 세인트존스 카운티
+  United States = 미국
+  contiguous United States = 미국 본토
+  county seat = 군청 소재지
+ENTRY:
+City (pop., 2020: 14,329) and [[County (United States)|county]] seat of St. Johns County, on the Atlantic coast of northeastern [[Florida]]. Founded on September 8, 1565, by Spanish admiral Pedro Menéndez de Avilés, it is the oldest continuously inhabited European-established settlement in the contiguous United States. It was the capital of Spanish Florida for over 200 years and of British East Florida from 1763. The 17th-century Castillo de San Marcos and St. George Street, with over 30 historic houses and attractions, draw tourists. It has been a tourist attraction since the late 19th century.
+
+=== KEY: St_Bernard_dog_breed_a77889
+HEADWORD: St. Bernard = 세인트버나드
+LEVEL: 5
+GLOSSARY:
+  Alps = 알프스산맥
+  Barry = 배리
+  Bern = 베른
+  Breed = 품종
+  Great St Bernard Pass = 그랑생베르나르 고개
+  History = 역사학
+  Museum = 박물관
+  Natural History = 『박물지』
+  Natural History Museum = 자연사 박물관
+  Newfoundlands = 뉴펀들랜드
+  Switzerland = 스위스
+  Western Alps = 서부 알프스
+ENTRY:
+Breed of very large working dog from the Western Alps, bred for rescue work by the hospice of the Great St Bernard Pass on the Italian-Swiss border. [[Switzerland]] is recognized as its country of origin. The hospice acquired its first dogs between 1660 and 1670. The most famous, Barry, reportedly saved somewhere between 40 and 100 lives, and his body is preserved in the Natural History Museum in [[Bern]]. Crossbreeding with Newfoundlands in the 1850s changed the breed's appearance, and its long fur froze in the Alpine snow, reducing its effectiveness as a rescue dog.
+
+=== KEY: St_Elmo_s_fire_7c4989
+HEADWORD: St. Elmo's fire = 세인트엘모의 불
+LEVEL: 5
+GLOSSARY:
+  Benjamin Franklin = 벤저민 프랭클린
+  Erasmus = 에라스뮈스
+  Lightning = 번개
+  Plasma (physics) = 플라스마
+  St. Elmo = 성 엘모
+  St. Erasmus of Formia = 포르미아의 성 에라스뮈스
+  Thunderstorm = 뇌우
+  corona discharge = 코로나 방전
+  electric field = 전기장
+  lightning strike = 낙뢰
+  patron saint = 수호성인
+ENTRY:
+Luminous weather phenomenon in which [[Plasma (physics)|plasma]] is created by a corona discharge from a rod-like object, such as a mast or spire, in an atmospheric electric field. The blue or violet glow, often with a hissing or buzzing sound, is most noticeable during [[Thunderstorm|thunderstorms]]. It is named after St. Erasmus of Formia (St. Elmo), patron saint of sailors, who regarded it with awe and sometimes as a good omen. It can warn of an imminent [[Lightning|lightning]] strike. In 1751, [[Benjamin Franklin]] hypothesized that a pointed iron rod would light up at its tip during a lightning storm.
+
+=== KEY: St_John_s_Newfoundland_and_Labrador_40b718
+HEADWORD: St. John's = 세인트존스
+LEVEL: 5
+GLOSSARY:
+  American Revolutionary War = 미국 독립 전쟁
+  Avalon = 아발론
+  Avalon Peninsula = 아발론반도
+  Canada = 캐나다
+  Greenland = 그린란드
+  Guglielmo Marconi = 굴리엘모 마르코니
+  John = 존
+  John Cabot = 존 캐벗
+  John the Baptist = 세례자 요한
+  Labrador = 래브라도
+  Nativity = 예수 탄생
+  Nativity of John the Baptist = 세례 요한 탄생 축일
+  Newfoundland = 뉴펀들랜드
+  Newfoundland and Labrador = 뉴펀들랜드 래브라도주
+  North America = 북아메리카
+  Peninsula = 반도
+  Portuguese = 포르투갈인
+  Revolutionary War = 독립 전쟁
+  Seven = 「세븐」
+  Seven Years' War = 7년 전쟁
+  São João = 상주앙
+  War of 1812 = 1812년 전쟁
+ENTRY:
+Capital and largest city of Newfoundland and Labrador, Canada, on the eastern tip of the Avalon Peninsula. It spans 446.04 sq km (172.22 sq mi) and is the easternmost city in North America, excluding Greenland. Its name is attributed to a belief that John Cabot sailed into the harbor on the Nativity of John the Baptist, though this is most likely a legend. A Portuguese map of 1519 shows it as São João. The city played a role in the [[Seven Years' War]], the [[American Revolutionary War]] and the [[War of 1812]]. [[Guglielmo Marconi]] received the first transatlantic wireless signal there.
+
+=== KEY: St_Lawrence_River_2f166c
+HEADWORD: St. Lawrence River = 세인트로렌스강
+LEVEL: 4
+GLOSSARY:
+  Atlantic Ocean = 대서양
+  Canada = 캐나다
+  City = 도시
+  Estuary = 하구
+  Great Lakes = 오대호
+  Great Lakes Basin = 오대호 유역
+  Gulf of St. Lawrence = 세인트로렌스만
+  Indigenous = 원주민
+  Indigenous peoples = 원주민
+  Lake = 호수
+  Lake Ontario = 온타리오호
+  Mississippi River = 미시시피강
+  Montreal = 몬트리올
+  North America = 북아메리카
+  North Atlantic = 북대서양
+  Ontario = 온타리오주
+  Quebec = 퀘벡주
+  Quebec City = 퀘벡시티
+  River = 강
+  Samuel de Champlain = 사뮈엘 드 샹플랭
+  United States = 미국
+  York = 요크
+ENTRY:
+Large international river in North America, connecting the [[Great Lakes]] with the [[Atlantic Ocean|North Atlantic]]. It flows northeast from [[Lake Ontario]] to the Gulf of St. Lawrence, through Ontario and Quebec in Canada and New York in the United States, and forms part of the Canada–United States border. As the primary outflow of the Great Lakes Basin, it has the second-highest discharge of any river in North America, after the [[Mississippi River]], and the 16th-highest in the world. Its [[Estuary|estuary]] is often cited by scientists as the largest in the world. The river has long been a transportation route for Indigenous peoples and played a key role in the development of [[Montreal]] and [[Quebec City]]. The name dates from 1604, when Samuel de Champlain recorded it on a map.
+
+=== KEY: St_Lawrence_Seaway_7268e4
+HEADWORD: St. Lawrence Seaway = 세인트로렌스 수로
+LEVEL: 4
+GLOSSARY:
+  Atlantic Ocean = 대서양
+  Canada = 캐나다
+  Canal = 운하
+  Great Lakes = 오대호
+  Lake = 호수
+  Lake Erie = 이리호
+  Lock (water navigation) = 갑문
+  Management = 경영학
+  Minnesota = 미네소타주
+  Montreal = 몬트리올
+  River = 강
+  St. Lawrence River = 세인트로렌스강
+  St. Lawrence Seaway = 세인트로렌스 수로
+  St. Lawrence Seaway Management Corporation = 세인트로렌스 수로 관리 공사
+  United States = 미국
+  Welland Canal = 웰랜드 운하
+  metric tons = 미터톤
+ENTRY:
+System of rivers, locks, canals and channels in eastern [[Canada]] and the northern United States that lets oceangoing vessels travel from the [[Atlantic Ocean|Atlantic]] to the [[Great Lakes]], as far inland as Duluth, Minnesota. It is named for the [[St. Lawrence River]] and legally extends from [[Montreal]] to [[Lake Erie]], including the Welland Canal. Proposals for a binational deep waterway were first made in the 1890s. Canada and the United States jointly built the seaway from 1954 to 1959, and it has since transported over 2.5 billion metric tons of cargo, mainly iron ore, coal, grain and petroleum products. It is administered by the St. Lawrence Seaway Management Corporation in Canada and the Great Lakes St. Lawrence Seaway Development Corporation in the United States. Its [[Lock (water navigation)|locks]] bypass several rapids and dams along the river.
+
+=== KEY: St_Louis_6d25b7
+HEADWORD: St. Louis = 세인트루이스
+LEVEL: 4
+GLOSSARY:
+  Arch = 아치
+  Auguste Chouteau = 오귀스트 슈토
+  France = 프랑스
+  French = 프랑스어
+  Gateway Arch = 게이트웨이 아치
+  Gilbert = 길버트 제도
+  Gilbert Antoine de St. Maxent = 질베르 앙투안 드 생막상
+  Illinois = 일리노이주
+  Illinois Country = 일리노이 지방
+  Louis IX = 루이 9세
+  Louis IX of France = 루이 9세
+  Louisiana = 루이지애나주
+  Louisiana Purchase = 루이지애나 매입
+  Louisiana Purchase Exposition = 루이지애나 매입 기념 박람회
+  Mississippi River = 미시시피강
+  Missouri = 미주리주
+  Pierre Laclède = 피에르 라클레드
+  River = 강
+  St. Louis = 세인트루이스
+  St. Louis County = 세인트루이스 카운티
+  St. Louis World's Fair = 세인트루이스 세계 박람회
+  Summer Olympics = 하계 올림픽
+  United States = 미국
+  World's Fair = 만국 박람회
+  city pop = 시티 팝
+  fur traders = 모피 상인
+  independent city = 독립시
+ENTRY:
+Independent city (pop., 2020: 301,578) in [[Missouri]], near the confluence of the Mississippi and Missouri rivers. Founded on February 14, 1764, by French fur traders Gilbert Antoine de St. Maxent, Pierre Laclède and Auguste Chouteau, it was named for King Louis IX of France and became the regional center of the French Illinois Country. The United States acquired it in 1804 as part of the [[Louisiana Purchase]]. A major port on the Mississippi River, it was the fourth-largest city in the country from 1870 until the 1920 census. It separated from St. Louis County in 1877, becoming an independent city. In 1904 it hosted the Louisiana Purchase Exposition, also known as the St. Louis World's Fair, and the Summer Olympics. Its metropolitan area, which extends into Illinois, had an estimated population of over 2.8 million. The 630-foot (192 m) Gateway Arch is among its main attractions.
+
+=== KEY: St_Peter_s_Basilica_cdebd5
+HEADWORD: St. Peter's Basilica = 성 베드로 대성당
+LEVEL: 4
+GLOSSARY:
+  Carlo Maderno = 카를로 마데르노
+  Catholic = 가톨릭
+  Catholic tradition = 가톨릭 전통
+  City = 도시
+  Constantine the Great = 콘스탄티누스 1세
+  Construction = 건설
+  Donato Bramante = 도나토 브라만테
+  Gian Lorenzo Bernini = 잔 로렌초 베르니니
+  Italian Renaissance = 이탈리아 르네상스
+  Michelangelo = 미켈란젤로
+  Papal basilica = 교황 대성전
+  Peter = 베드로
+  Pope = 교황
+  Renaissance = 르네상스
+  Rome = 로마
+  Saint = 성인
+  Saint Peter = 베드로
+  Vatican City = 바티칸 시국
+  bishop of Rome = 로마 주교
+  cathedral = 대성당
+ENTRY:
+Papal basilica of the Italian Renaissance in [[Vatican City]], an enclave within [[Rome]]. Construction of the present church began on April 18, 1506, and was completed on November 18, 1626, replacing an older basilica built in the fourth century by [[Constantine the Great]]. Designed principally by Donato Bramante, [[Michelangelo]] and Carlo Maderno, with the piazza and fittings by [[Gian Lorenzo Bernini]], it is the largest church in the world by interior measure. Catholic tradition holds that it is the burial site of [[Saint Peter]], the first bishop of Rome, and many popes, cardinals and bishops have been buried there since the early Christian period. The [[Pope|pope]] presides over liturgies that draw audiences of 15,000 to over 80,000 people. It is not a cathedral, because it is not the seat of a bishop.
+
+=== KEY: St_phane_Mallarm_4609b6
+HEADWORD: Mallarmé, Stéphane = 말라르메, 스테판
+LEVEL: 4
+GLOSSARY:
+  Charles Baudelaire = 샤를 보들레르
+  Claude = 클로드
+  Claude Debussy = 클로드 드뷔시
+  Cubism = 입체주의
+  Dadaism = 다다이즘
+  French = 프랑스어
+  Futurism = 미래주의
+  L'après-midi d'un faune = 「목신의 오후」
+  Maurice Ravel = 모리스 라벨
+  Prélude à l'après-midi d'un faune = 「목신의 오후에의 전주곡」
+  Rainer Maria Rilke = 라이너 마리아 릴케
+  Rome = 로마
+  Surrealism = 초현실주의
+  Symbolism = 상징주의
+  Symbolism (movement) = 상징주의
+  Trois poèmes de Mallarmé = 「말라르메의 시 3편」
+  W. B. Yeats = W. B. 예이츠
+  les Mardistes = 화요회
+  rue de Rome = 로마가
+ENTRY:
+French poet and critic, a major figure of [[Symbolism (movement)|Symbolism]]. His work anticipated and inspired [[Cubism]], Futurism, Dadaism and [[Surrealism]]. His early verse owed much to [[Charles Baudelaire]], while his later work explored the relation between content and form, including the arrangement of words and spaces on the page, as in his last major poem, *Un coup de dés jamais n'abolira le hasard* (1897). Because the sound of the words matters as much as their meaning, his poetry is difficult to translate. [[Claude Debussy]]'s *Prélude à l'après-midi d'un faune* (1894) was a free interpretation of his poem *L'après-midi d'un faune* (1876), and [[Maurice Ravel]] set his poems to music in *Trois poèmes de Mallarmé* (1913). He hosted weekly gatherings on Tuesdays at his home on the rue de Rome, known as *les Mardistes*, that included [[W. B. Yeats]] and [[Rainer Maria Rilke]].
+
+=== KEY: Stable_fa3aff
+HEADWORD: Stable = 마구간
+LEVEL: 4
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Barn = 헛간
+  Building = 건물
+  Egypt = 이집트
+  Horse = 말
+  Ox = 소
+  Pi-Ramesses = 피람세스
+  Qantir = 칸티르
+  Ramesses II = 람세스 2세
+  stalls = 칸
+ENTRY:
+Building in which working animals, especially [[Horse|horses]] or [[Ox|oxen]], are kept, usually divided into stalls. Stables may also include storage for equipment and feed. The American-style stable, called a [[Barn|barn]], has a door at each end and individual stalls inside. The world's oldest known horse stables, at Pi-Ramesses in Qantir, [[Ancient Egypt]], were established by [[Ramesses II]] (c. 1304–1213 BC). They covered approximately 182,986 square feet and could contain about 480 horses. Free-standing stables began to be built from the 16th century, placed near the house as an indicator of an owner's position in the community. The word is also used for the horses a building contains and, metaphorically, for a group of people under one manager, such as the artists a gallery represents.
+
+=== KEY: Stadium_20eb09
+HEADWORD: Stadium = 경기장
+LEVEL: 4
+GLOSSARY:
+  American football = 미식축구
+  Ancient Olympic Games = 고대 올림픽
+  Association football = 축구
+  Baseball = 야구
+  Civilization = 문명
+  Cricket = 크리켓
+  Dholavira = 돌라비라
+  Indus = 인더스강
+  Indus Valley = 인더스강 유역
+  Indus Valley Civilization = 인더스 문명
+  Olympia = 올림피아
+  Olympic Games = 올림픽
+  Romans = 로마인
+  Sustainability = 지속 가능성
+  Victorian = 빅토리아 시대
+  Victorian era = 빅토리아 시대
+  amphitheater = 원형 경기장
+  circuses = 키르쿠스
+  gridiron football = 그리드아이언 풋볼
+  rugby = 럭비
+  stadion = 스타디온
+ENTRY:
+Venue for mostly outdoor sports, concerts or other events, consisting of a field or stage surrounded by tiered seating. The word comes from the Greek *stadion*, a length of 600 human feet (180 m). The [[Ancient Olympic Games]] at Olympia originally consisted of a single sprint along one stadion. Greek stadia were built for foot races, while Romans built circuses for horse races and developed the amphitheater for gladiatorial contests. The oldest known stadium was probably built around 2000 BC by the Indus Valley Civilization at Dholavira. The first modern stadiums were built in the late [[Victorian era]], as [[Association football|association football]] and [[Baseball|baseball]] grew in popularity. Most stadiums with a capacity of at least 10,000 are used for association football. Other popular stadium sports include [[American football|gridiron football]], [[Cricket]] and rugby, and many large venues also host concerts. Modern designs increasingly incorporate [[Sustainability|sustainability]] features.
+
+=== KEY: Staff_military_43031e
+HEADWORD: Staff = 참모부
+LEVEL: 4
+GLOSSARY:
+  Commonwealth = 영연방
+  Commonwealth Staff System = 영연방식 참모 체계
+  Continental Staff System = 대륙식 참모 체계
+  Logistics = 병참
+  NATO = 북대서양 조약 기구
+  Napoleon = 나폴레옹
+  United States = 미국
+  command and control = 지휘 통제
+  general staff = 일반 참모부
+ENTRY:
+Group of officers, enlisted personnel and civilians who serve the commander of a division or other large military unit in command and control. Also called a general staff, it plans and analyzes operations, gathers information, and relays, coordinates and supervises the execution of plans and orders, especially in complex, rapidly changing operations. Its functional groups include administration, [[Logistics|logistics]], operations, intelligence and training. A centralized staff gives tighter top-down control but requires a larger headquarters, while a decentralized staff improves situational focus and the speed of local action. Most [[NATO]] nations, including the United States, use the Continental Staff System, which originated with [[Napoleon]]'s military. The Commonwealth Staff System, used by most of the Commonwealth, has its origin in the British military.
+
+=== KEY: Stage_theatre_cfa072
+HEADWORD: Stage = 무대
+LEVEL: 4
+GLOSSARY:
+  Actor = 배우
+  Audience = 관객
+  Italian Renaissance = 이탈리아 르네상스
+  Renaissance = 르네상스
+  Theatre = 연극
+  flying systems = 플라이 시스템
+  hemp houses = 헴프 하우스
+  in the round = 환조
+  proscenium arch = 프로시니엄 아치
+  proscenium stage = 프로시니엄 무대
+  raked = 경사 무대
+  stagehands = 무대 담당자
+  theater in the round = 원형 극장
+  thrust stage = 돌출 무대
+ENTRY:
+Designated space for the performance of productions in [[Theatre|theater]] and the performing arts, serving as a space for [[Actor|actors]] and a focal point for the [[Audience|audience]]. The most common form in the West since the Italian Renaissance is the proscenium stage, in which the audience views one side through a large opening, the proscenium arch. A thrust stage extends into the audience on three sides, while in theater in the round the audience surrounds the stage on all four sides. Stages may be permanent features or temporary platforms, and may be constructed for a performance or adapted from another space. Stage floors were once raked upward to enhance perspective, but by the end of the 19th century most had level floors. Theaters with rope-operated flying systems, which were operated manually by stagehands, are known as hemp houses.
+
+=== KEY: Stagecraft_7d774c
+HEADWORD: Stagecraft = 무대 기술
+LEVEL: 4
+GLOSSARY:
+  Broadway = 브로드웨이
+  Christianity = 기독교
+  Costume = 의상
+  Heaven = 천국
+  Hell = 지옥
+  audio engineering = 음향 공학
+  deus ex machina = 데우스 엑스 마키나
+  liturgical dramas = 전례극
+  mansion stages = 맨션 무대
+  mechane = 메카네
+  scenography = 무대 미술
+  skene = 스케네
+  stagehands = 무대 담당자
+ENTRY:
+Technical skill in theatrical, film and video production, including constructing and rigging scenery, hanging and focusing lighting, fabricating [[Costume|costumes]], makeup, stage management, audio engineering and procuring props. Considered a technical rather than artistic field, it is primarily the practical implementation of a scenic designer's vision, and is distinct from the wider umbrella of scenography. One person may run a small production, but a modern Broadway show requires carpenters, painters, electricians, stagehands, stitchers and wigmakers. In ancient Greek theater, the mechane, a crane for lifting actors over the skene, supported the endings of plays in which a god suddenly resolved the storyline; it is the literal source of the phrase deus ex machina. By 1300, liturgical dramas in churches spread the message of [[Christianity]] using mansion stages, small wooden platforms representing places such as Heaven or Hell.
+
+=== KEY: Stainless_steel_649b56
+HEADWORD: Stainless steel = 스테인리스강
+LEVEL: 4
+GLOSSARY:
+  AISI = AISI
+  Aluminium = 알루미늄
+  Chemical plant = 화학 공장
+  Chromium = 크로뮴
+  Corrosion = 부식
+  Cutlery = 커틀러리
+  Martensitic = 마텐자이트계
+  Molybdenum = 몰리브데넘
+  Nickel = 니켈
+  Rust = 녹
+  Stainless steel = 스테인리스강
+  annealed = 풀림
+  austenitic = 오스테나이트계
+  cold worked = 냉간 가공
+  duplex = 듀플렉스계
+  ferritic = 페라이트계
+  passive film = 부동태 피막
+  tensile yield strength = 인장 항복 강도
+  yield strength = 항복 강도
+ENTRY:
+Iron-based alloy containing at least 10.5% [[Chromium|chromium]], which makes it resistant to [[Rust|rust]] and [[Corrosion|corrosion]]. The chromium forms a passive film that protects the metal and can self-heal in the presence of oxygen. Other elements, such as [[Molybdenum]] and [[Nickel]], may be added to enhance specific properties. Stainless steel is used in [[Cutlery|cutlery]], cookware, surgical instruments, major appliances, vehicles, large buildings and [[Chemical plant|chemical plants]]. Its biological cleanability is superior to copper and [[Aluminium|aluminum]], and comparable to glass, which has led to its use in pharmaceutical and food processing plants. The most common type, 304, has a tensile yield strength of around 210 MPa when annealed, rising to 1,050 MPa when cold worked. Melting points range from 1,325 to 1,530 °C. Martensitic, duplex and ferritic grades are magnetic, while austenitic grades are usually not. Types are labeled with an AISI three-digit number.
+
+=== KEY: Stairs_0b01cc
+HEADWORD: Stairs = 계단
+LEVEL: 4
+GLOSSARY:
+  Building = 건물
+  Elevator = 엘리베이터
+  International Building Code = 국제 건축 법규
+  Ladder = 사다리
+  landings = 층계참
+  riser = 챌판
+  spiral stairs = 나선 계단
+  stairlifts = 계단 승강기
+  tread = 디딤판
+ENTRY:
+Structure of diagonally arranged horizontal steps that bridges a large vertical distance by dividing it into smaller ones. Alternatives include [[Elevator|elevators]], stairlifts, inclined moving walkways, [[Ladder|ladders]] and ramps. Each step is composed of a tread, the part stepped on, and a riser, the near-vertical element between steps. Stairs may run straight, change direction through 90° landings, or return on themselves with 180° landings, a common arrangement in multistory buildings. The concept is believed to be about 8,000 years old, and the oldest known spiral stairs date to the 400s BC. Standards vary by jurisdiction; the International Building Code requires uniform riser heights of 4 to 7 inches (102–178 mm).
+
+=== KEY: Stalker_1979_film_e8c350
+HEADWORD: Stalker = 잠입자
+LEVEL: 5
+GLOSSARY:
+  Andrei Tarkovsky = 안드레이 타르콥스키
+  Arkady and Boris Strugatsky = 아르카디 스트루가츠키와 보리스 스트루가츠키
+  Picnic = 「피크닉」
+  Roadside Picnic = 『노변의 피크닉』
+  Stalker = 「잠입자」
+  Warsaw = 바르샤바
+  Warsaw Pact = 바르샤바 조약 기구
+  the Stalker = 스토커
+  the Zone = 구역
+ENTRY:
+1979 Soviet post-apocalyptic drama film directed by [[Andrei Tarkovsky]], loosely based on the 1972 novel *Roadside Picnic* by Arkady and Boris Strugatsky. A guide known as the Stalker leads a writer and a professor through a hazardous wasteland, the Zone, to a Room said to grant the innermost desires of anyone who enters. The film was shot over a year on film stock later found to be unusable and was almost entirely reshot. Released in May 1979, it received praise in the Soviet and Warsaw Pact press but only mixed reviews in the West.
+
+=== KEY: Stan_Lee_f074ae
+HEADWORD: Lee, Stan = 리, 스탠
+LEVEL: 4
+GLOSSARY:
+  Ant-Man = 앤트맨
+  Authority = 권위
+  Black = 검은색
+  Black Panther = 블랙 팬서
+  Comics = 만화
+  Comics Code Authority = 코믹스 코드 당국
+  Doctor Strange = 닥터 스트레인지
+  Fantastic Four = 판타스틱 포
+  Hulk = 헐크
+  Iron = 철
+  Iron Man = 아이언맨
+  Jack Kirby = 잭 커비
+  Marvel = 마블
+  Marvel Comics = 마블 코믹스
+  Spider-Man = 스파이더맨
+  Steve Ditko = 스티브 딧코
+  Thor = 토르
+  Timely Comics = 타임리 코믹스
+  X-Men = 엑스맨
+  the Hulk = 헐크
+ENTRY:
+American comic book writer, editor, publisher and producer, who was the primary creative leader of [[Marvel Comics]] for two decades. He rose through the ranks of Timely Comics, the family-run business that later became Marvel. With [[Jack Kirby]] and Steve Ditko, he co-created characters including [[Spider-Man]], the [[X-Men]], [[Iron Man]], Thor, the [[Hulk]], Ant-Man, the Fantastic Four, Black Panther and Doctor Strange. Introduced in the 1960s, these characters pioneered a more naturalistic approach in superhero comics. In the 1970s he challenged the restrictions of the Comics Code Authority. After retiring from Marvel in the 1990s, he remained its public figurehead, making cameo appearances in films based on Marvel properties. He received an executive producer credit on them, which made him the actor with the highest-grossing film total ever.
+
+=== KEY: Stand_up_comedy_ef84b3
+HEADWORD: Stand-up comedy = 스탠드업 코미디
+LEVEL: 4
+GLOSSARY:
+  Artemus Ward = 아티머스 워드
+  COVID-19 = 코로나19
+  COVID-19 pandemic = 코로나19 범유행
+  Charles Farrar Browne = 찰스 패러 브라운
+  Magic (illusion) = 마술
+  Mark Twain = 마크 트웨인
+  Sandwich = 샌드위치
+  Satire = 풍자
+  Vaudeville = 보드빌
+  deadpan = 데드팬
+  dime museums = 다임 뮤지엄
+  minstrel shows = 민스트럴 쇼
+  one-liners = 원라이너
+  shticks = 시틱
+  social media = 소셜 미디어
+  stand-up comedian = 스탠드업 코미디언
+ENTRY:
+Art form in which a comic delivers humorous and satirical monologues on stage to a live audience, often interacting with the crowd. Routines consist of one-liners, stories, observations and shticks, and may employ props, music, impressions or [[Magic (illusion)|magic tricks]]. Stand-up draws on popular entertainments including [[Vaudeville]], minstrel shows, dime museums and humorist monologues such as [[Mark Twain]]'s 1866 touring show *Our Fellow Savages of the Sandwich Islands*. Charles Farrar Browne, known as Artemus Ward, is considered America's first stand-up comedian. Common genres include observational, anecdotal, deadpan, topical and [[Satire|satire]]. Performances take place in comedy clubs, festivals, bars, colleges and theaters, and during the [[COVID-19 pandemic]] comics performed by video conferencing and on social media.
+
+=== KEY: Standard_Model_18bbbd
+HEADWORD: Standard Model = 표준 모형
+LEVEL: 3
+GLOSSARY:
+  ATLAS = ATLAS
+  Abdus Salam = 압두스 살람
+  CERN = 유럽 입자 물리 연구소
+  CMS = CMS
+  Dark matter = 암흑 물질
+  Elementary particle = 기본 입자
+  Fermion = 페르미온
+  Gell-Mann = 겔만
+  George Zweig = 조지 츠바이크
+  Gravity = 중력
+  Hadron = 강입자
+  Higgs boson = 힉스 보손
+  Higgs mechanism = 힉스 메커니즘
+  Large Hadron Collider = 대형 강입자 충돌기
+  Lepton = 렙톤
+  Murray Gell-Mann = 머리 겔만
+  Neutral weak currents = 약한 중성류
+  Nobel Prize = 노벨상
+  Nobel Prize in Physics = 노벨 물리학상
+  Paul = 바울로
+  Physics = 물리학
+  Quark = 쿼크
+  Robert Mills = 로버트 밀스
+  Steven Weinberg = 스티븐 와인버그
+  Theory = 이론
+  W and Z bosons = W 보손과 Z 보손
+  Yang Chen-Ning = 양전닝
+  antimatter = 반물질
+  dark matter = 암흑 물질
+  electroweak theory = 전기약 이론
+  elementary particles = 기본 입자
+  gauge theory = 게이지 이론
+  general relativity = 일반 상대성 이론
+  gluons = 글루온
+  nonabelian groups = 비아벨 군
+  parity = 반전성
+  particle physics = 입자 물리학
+  tau neutrino = 타우 중성미자
+  top quark = 꼭대기 쿼크
+  weak and strong interactions = 약한 상호작용과 강한 상호작용
+  weak interaction = 약한 상호작용
+ENTRY:
+Theory of particle physics describing the electromagnetic, weak, and strong interactions and classifying all known [[Elementary particle|elementary particles]]. It excludes [[Gravity|gravity]], the fourth known fundamental force. The model was developed in stages during the latter half of the 20th century, and its current formulation was finalized in the mid-1970s when the existence of [[Quark|quarks]] was confirmed experimentally. The top quark (1995), the tau neutrino (2000), and the [[Higgs boson]] (2012) were confirmed later.
+
+Key steps included Paul Dirac's 1928 equation, which implied antimatter; the 1954 extension of gauge theory to nonabelian groups by Yang Chen-Ning and Robert Mills; Chien-Shiung Wu's 1957 demonstration that parity is not conserved in the weak interaction; the introduction of quarks by Murray Gell-Mann and George Zweig in 1964; and the incorporation of the Higgs mechanism into Sheldon Glashow's electroweak theory by Steven Weinberg and Abdus Salam in 1967. Neutral weak currents were discovered at [[CERN]] in 1973, and the W and Z bosons in 1983. Glashow, Salam, and Weinberg shared the 1979 Nobel Prize in Physics.
+
+The model includes 12 matter particles of spin 1/2, the [[Fermion|fermions]], divided into six quarks and six [[Lepton|leptons]] in three generations. Forces are carried by bosons: the photon, eight gluons, and the W and Z bosons. The Higgs boson was observed on July 4, 2012, by the ATLAS and CMS experiments at the Large Hadron Collider.
+
+The model remains incomplete. It does not incorporate gravitation as described by general relativity, explain the excess of matter over antimatter, or contain a viable [[Dark matter|dark matter]] particle. Without modification it also lacks neutrino masses and oscillation.
+
+=== KEY: Standard_Oil_ca8096
+HEADWORD: Standard Oil = 스탠더드 오일
+LEVEL: 4
+GLOSSARY:
+  Court = 법원
+  Exxon = 엑손
+  ExxonMobil = 엑슨모빌
+  Ida Tarbell = 아이다 타벨
+  Jersey = 저지섬
+  Jersey Standard = 저지 스탠더드
+  John = 존
+  John D. Rockefeller = 존 D. 록펠러
+  New Jersey = 뉴저지주
+  Ohio = 오하이오주
+  Petroleum = 석유
+  Standard = 스탠더드
+  Standard Oil = 스탠더드 오일
+  Standard Oil Company of New Jersey = 스탠더드 오일 컴퍼니 오브 뉴저지
+  Supreme Court = 연방 대법원
+  United States = 미국
+  holding company = 지주 회사
+  trust = 트러스트
+ENTRY:
+Petroleum trust (1882–1911) that held a near monopoly on the U.S. oil industry from 1899. Standard Oil Company (Ohio) was founded in 1870 by [[John D. Rockefeller]] and associates, and grew through acquisitions and discounted railroad freight rates. In 1882 its holdings were pooled into a trust of 40 companies valued at $70 million and managed by nine trustees. In 1899 Standard Oil Company of New Jersey became the holding company for the trust and the largest corporation in the United States. In *Standard Oil Co. of New Jersey v. United States* (1911), the Supreme Court found it guilty of anticompetitive practices and ordered it broken up. The severed companies had a net value of $375 million, 57 percent of Jersey Standard's value. Jersey Standard, renamed Exxon in 1973 and ExxonMobil in 1999, remained one of the largest public oil companies. Reporting by Ida Tarbell contributed to the charges.
+
+=== KEY: Standard_atmosphere_unit_1bd240
+HEADWORD: Standard atmosphere = 표준 대기압
+LEVEL: 4
+GLOSSARY:
+  Chemistry = 화학
+  General Conference on Weights and Measures = 국제 도량형 총회
+  Pure = 「퓨어」
+  Sea level = 해수면
+  pounds-force per square foot = 제곱피트당 파운드힘
+  standard atmosphere = 표준 대기압
+  standard gravity = 표준 중력
+ENTRY:
+Unit of pressure (symbol atm) defined as 101325 Pa, approximately equal to Earth's average atmospheric pressure at [[Sea level|sea level]]. Originally defined as the pressure exerted by a 760 mm column of mercury at 0 °C under standard gravity, it was adopted for general use by the 10th General Conference on Weights and Measures in 1954, defined independently of any particular substance. In [[Chemistry|chemistry]], the International Union of Pure and Applied Chemistry recommended in 1982 a standard pressure of exactly 100 kPa (1 bar) for specifying the physical properties of substances. One standard atmosphere equals 760 mmHg, 29.92 inHg and 2116.22 pounds-force per square foot.

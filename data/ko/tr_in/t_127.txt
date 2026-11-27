@@ -1,0 +1,966 @@
+=== KEY: Gasoline_6c2a49
+HEADWORD: Gasoline = 휘발유
+LEVEL: 4
+GLOSSARY:
+  Distillation = 증류
+  ETBE = ETBE
+  Ethanol = 에탄올
+  Gasoline = 휘발유
+  Internal combustion engine = 내연 기관
+  MTBE = MTBE
+  Octane rating = 옥탄가
+  Oil refinery = 정유 공장
+  Petrochemical = 석유 화학 제품
+  Tetraethyl lead = 사에틸납
+  Tetraethyllead = 테트라에틸납
+  crude oil = 원유
+  gal = 갤
+  internal combustion engines = 내연 기관
+  knocking = 노킹
+  oil refineries = 정유 공장
+  petrol = 페트롤
+ENTRY:
+Transparent, yellowish, flammable [[Petrochemical|petrochemical]] fuel for spark-ignited [[Internal combustion engine|internal combustion engines]]. Known as petrol in other English-speaking countries, it is made in [[Oil refinery|oil refineries]] by [[Distillation|distillation]] of petroleum and then blended with additives. The bulk of it is hydrocarbons with four to twelve carbon atoms per molecule. Roughly 72 liters (19 U.S. gal) of gasoline is derived from a 160-liter (42 U.S. gal) barrel of crude oil. Its [[Octane rating|octane rating]] measures resistance to premature ignition, or knocking. [[Tetraethyllead|Tetraethyl lead]] was once widely used to raise octane but is not used in modern automotive gasoline because of its health hazards. Gasoline may contain oxygen-containing chemicals such as [[Ethanol|ethanol]], MTBE or ETBE to improve combustion.
+
+=== KEY: Gaspard_Monge_09e48e
+HEADWORD: Monge, Gaspard = 몽주, 가스파르
+LEVEL: 4
+GLOSSARY:
+  Arts et Métiers ParisTech = 아르 에 메티에 파리테크
+  Beaune = 본
+  Collège de la Trinité = 콜레주 드 라 트리니테
+  Differential geometry = 미분기하학
+  Egypt = 이집트
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  Institut d'Égypte = 이집트 연구소
+  Lamblardie = 랑블라르디
+  Lazare Carnot = 라자르 카르노
+  Lyon = 리옹
+  Minister of the Marine = 해군 장관
+  Mézières = 메지에르
+  Napoleon = 나폴레옹
+  Pierre-Simon Laplace = 피에르시몽 라플라스
+  Technical drawing = 기술 도면
+  descriptive geometry = 화법기하학
+  differential geometry = 미분기하학
+  military engineering = 군사 공학
+  École Polytechnique = 에콜 폴리테크니크
+ENTRY:
+French mathematician, commonly presented as the inventor of descriptive geometry, the mathematical basis of [[Technical drawing|technical drawing]]. Born in Beaune, he studied at the Collège de la Trinité in [[Lyon]], where he became a teacher of physics at seventeen. He later worked as a draftsman at a military engineering school in Mézières, and is commonly called the father of [[Differential geometry|differential geometry]]. During the [[French Revolution]] he served as Minister of the Marine and helped found the École Polytechnique with Lazare Carnot and Lamblardie. With [[Pierre-Simon Laplace]] and others he contributed to the establishment of Arts et Métiers ParisTech. In 1798 he accompanied [[Napoleon]] to Egypt, where he helped found the Institut d'Égypte.
+
+=== KEY: Gastroenteritis_a6e855
+HEADWORD: Gastroenteritis = 위장염
+LEVEL: 3
+GLOSSARY:
+  Antibiotic = 항생제
+  Breastfeeding = 모유 수유
+  Campylobacter = 캄필로박터
+  Canada = 캐나다
+  Cruise ship = 크루즈선
+  Gastrointestinal tract = 위장관
+  Inflammation = 염증
+  Influenza = 인플루엔자
+  Norovirus = 노로바이러스
+  Reactive arthritis = 반응성 관절염
+  Rotavirus = 로타바이러스
+  Signs = 「싸인」
+  United States = 미국
+  Zinc = 아연
+  gastrointestinal tract = 위장관
+  infectious diarrhea = 감염성 설사
+  oral rehydration solution = 경구 수액
+  rotavirus vaccine = 로타바이러스 백신
+  stomach flu = 장염
+ENTRY:
+Inflammation of the [[Gastrointestinal tract|gastrointestinal tract]], including the stomach and intestine, also known as infectious diarrhea. Symptoms include diarrhea, vomiting, and abdominal pain, and may include fever and dehydration. Signs usually begin 12–72 hours after infection and typically last less than two weeks. Although it is unrelated to [[Influenza|influenza]], it is often called "stomach flu" in Canada and the United States.
+
+The disease is usually caused by viruses, though bacteria, parasites, and fungi can also be responsible. In children, [[Rotavirus|rotavirus]] is the most common cause of severe disease; in adults, [[Norovirus|norovirus]] and *Campylobacter* are common causes. Norovirus accounts for about 90% of viral gastroenteritis outbreaks among adults in America, which occur where groups of people spend time close together, as on a [[Cruise ship|cruise ship]]. The disease spreads through improperly prepared food, contaminated water, or close contact with an infected person.
+
+Dehydration is a common complication. Reactive arthritis follows about 1% of *Campylobacter* infections and Guillain–Barré syndrome 0.1%. Repeated infections, typical where sanitation is poor and malnutrition common, can cause stunted growth and long-term cognitive delays.
+
+Treatment centers on fluids: oral rehydration solution for mild or moderate cases, and intravenous fluids for severe ones. Continued [[Breastfeeding|breastfeeding]] is recommended for breastfed infants and [[Zinc|zinc]] supplementation for children. [[Antibiotic|Antibiotics]] are generally not needed, except for young children with fever and bloody diarrhea. Prevention includes hand washing with soap, clean water, and proper disposal of human waste, and the rotavirus vaccine is recommended for children.
+
+In 2021 there were 4.67 billion cases and 1.17 million deaths worldwide. Children and people in the developing world are affected most; in 2011 there were about 1.7 billion cases, causing about 700,000 deaths of children under five. Adults are less affected, partly because of acquired immunity.
+
+=== KEY: Gastroenterology_9f93d5
+HEADWORD: Gastroenterology = 소화기내과학
+LEVEL: 4
+GLOSSARY:
+  Australia = 오스트레일리아
+  Barry = 배리
+  Barry Marshall = 배리 마셜
+  Branch = 브랜치
+  Crohn's disease = 크론병
+  Galen = 갈레노스
+  Gastrointestinal tract = 위장관
+  Helicobacter pylori = 헬리코박터 파일로리
+  Hydrochloric acid = 염산
+  Irritable bowel syndrome = 과민 대장 증후군
+  Marshall = 마셜 제도
+  Medicine = 의학
+  Nobel Prize = 노벨상
+  Nobel Prize in Physiology or Medicine = 노벨 생리학·의학상
+  Physiology = 생리학
+  Physiology or Medicine = 생리학·의학
+  Robin = 로빈
+  Robin Warren = 로빈 워런
+  William = 윌리엄
+  William Prout = 윌리엄 프라우트
+  colon polyps = 대장 용종
+  gastroesophageal reflux disease = 위식도 역류 질환
+  gastrointestinal tract = 위장관
+  inflammatory bowel disease = 염증성 장 질환
+  peptic ulcer disease = 소화성 궤양
+  peristalsis = 연동 운동
+  ulcerative colitis = 궤양성 대장염
+ENTRY:
+Branch of [[Medicine|medicine]] focused on the digestive system and its disorders. The digestive system moves material through the [[Gastrointestinal tract|gastrointestinal tract]] by peristalsis, digests it, absorbs nutrients and removes waste. Gastroenterologists treat conditions including gastroesophageal reflux disease, gastrointestinal bleeding, [[Irritable bowel syndrome]], inflammatory bowel disease such as [[Crohn's disease]] and ulcerative colitis, peptic ulcer disease, and colon polyps and cancer. [[Galen]]'s concept of the stomach having four faculties was widely accepted until the 17th century. In 1823 William Prout discovered that stomach juices contain [[Hydrochloric acid]]. In 2005 Barry Marshall and Robin Warren of Australia won the Nobel Prize in Physiology or Medicine for discovering [[Helicobacter pylori]].
+
+=== KEY: Gastrointestinal_tract_4f549c
+HEADWORD: Gastrointestinal tract = 위장관
+LEVEL: 4
+GLOSSARY:
+  Anus = 항문
+  Cnidaria = 자포동물
+  Esophagus = 식도
+  Feces = 대변
+  Food = 음식
+  Mouth = 입
+  Sponge = 해면동물
+  Stomach = 위
+  alimentary canal = 소화관
+  archaea = 고세균
+  enteroendocrine cells = 장내분비세포
+  eukaryotes = 진핵생물
+  gut microbiota = 장내 미생물총
+  through-gut = 관통 소화관
+ENTRY:
+Passageway of the digestive system that leads from the [[Mouth]] to the [[Anus]], also called the GI tract, digestive tract, gut or alimentary canal. In humans it consists of the [[Esophagus|esophagus]], [[Stomach|stomach]] and intestines, and is divided into upper and lower tracts. Food is digested to extract nutrients and energy, and waste is expelled at the anus as [[Feces|feces]]. The whole human tract is about nine meters (30 feet) long at autopsy but shorter in a living body, because the intestines maintain muscle tone. Most animals have a through-gut, though [[Sponge|sponges]] and [[Cnidaria|cnidarians]] have simpler arrangements. The human gut microbiota comprises around 4,000 different strains of bacteria, archaea, viruses and eukaryotes, and enteroendocrine cells release hormones that regulate digestion.
+
+=== KEY: Gastropod_bf667d
+HEADWORD: Gastropod = 복족류
+LEVEL: 4
+GLOSSARY:
+  Abalone = 전복
+  Cambrian = 캄브리아기
+  Georges Cuvier = 조르주 퀴비에
+  Hydrothermal vent = 열수 분출공
+  Late Cambrian = 후기 캄브리아기
+  Mollusca = 연체동물
+  Snail = 달팽이
+  conches = 소라
+  cowries = 개오지
+  fossil record = 화석 기록
+  hydrothermal vents = 열수 분출공
+  periwinkles = 총알고둥
+  slugs = 민달팽이
+ENTRY:
+Class of [[Mollusca|molluscs]], including [[Snail|snails]] and slugs. With an estimated 65,000 to 80,000 living species, gastropods are the second-largest animal class after insects. Their fossil record extends back to the Late Cambrian. Gastropods live in marine, freshwater and terrestrial environments, from gardens and deserts to the deep sea and [[Hydrothermal vent|hydrothermal vents]]. Snails generally have a large external shell into which the body can retract, while slugs have no shell or a small internal one. Marine forms include [[Abalone|abalones]], conches, periwinkles and cowries. The name comes from Greek words meaning stomach and foot, a reference to the foot lying below the guts. [[Georges Cuvier]] described the group in 1795.
+
+=== KEY: Gatling_gun_a79917
+HEADWORD: Gatling gun = 개틀링 기관총
+LEVEL: 5
+GLOSSARY:
+  American Civil War = 남북 전쟁
+  Anglo-Zulu War = 영국-줄루 전쟁
+  Boshin War = 보신 전쟁
+  Civil War = 남북 전쟁
+  Firearm = 화기
+  Great Railroad Strike of 1877 = 1877년 철도 대파업
+  Indiana = 인디애나주
+  Jordan = 요르단
+  North Carolina = 노스캐롤라이나주
+  Pennsylvania = 펜실베이니아주
+  Pittsburgh = 피츠버그
+  Richard = 리처드
+  Richard Jordan Gatling = 리처드 조던 개틀링
+  San Juan Hill = 산후안 언덕
+  Spanish–American War = 미국-스페인 전쟁
+  Strike = 「파업」
+  Union Army = 북군
+  rotary cannon = 회전식 기관포
+ENTRY:
+Rapid-firing multiple-barrel [[Firearm|firearm]], forerunner of the modern electric motor-driven rotary cannon. Richard Jordan Gatling, a [[North Carolina]] native, invented it in [[Indiana]] in 1861. Its barrels revolve around a central shaft as a hand crank turns, so that each barrel loads, fires and ejects in turn, which allowed high rates of fire without the barrels overheating. The Union Army used it in the [[American Civil War]], its first combat use. It was later used in the Boshin War, the Anglo-Zulu War and at San Juan Hill in the [[Spanish–American War]], and Pennsylvania militia used it in [[Pittsburgh]] during the Great Railroad Strike of 1877.
+
+=== KEY: Gaudapada_417944
+HEADWORD: Gaudapada = 가우다파다
+LEVEL: 4
+GLOSSARY:
+  Adi Shankara = 아디 샹카라
+  Advaita = 불이론
+  Advaita Vedanta = 아드바이타 베단타
+  Buddhism = 불교
+  Buddhist = 불교
+  Hinduism = 힌두교
+  Mandukya Upanishad = 『만두키아 우파니샤드』
+  Māṇḍūkya Kārikā = 『만두키아 카리카』
+  Sarma = 사르마
+  Shankara = 샹카라
+  Vedanta = 베단타
+  Vedantic = 베단타
+  paramaguru = 파라마구루
+ENTRY:
+Early medieval [[Hinduism|Hindu]] philosopher and scholar of the [[Vedanta|Advaita Vedanta]] school. Details of his life are uncertain, and estimates place him between the 6th and 7th centuries. [[Adi Shankara]] called him the *paramaguru*, or highest teacher. He is credited as author or compiler of the *Māṇḍūkya Kārikā*, a verse explanation in four chapters of the Mandukya Upanishad. Its fourth chapter uses [[Buddhism|Buddhist]] terminology, but its doctrine is Vedantic rather than Buddhist. The first three chapters have been influential in Advaita Vedanta, and the text is considered the earliest extant systematic treatise on Advaita Vedanta, according to Sarma.
+
+=== KEY: Gauge_boson_23a018
+HEADWORD: Gauge boson = 게이지 보손
+LEVEL: 4
+GLOSSARY:
+  Fermion = 페르미온
+  Gauge theory = 게이지 이론
+  Graviton = 중력자
+  Gravity = 중력
+  Hadron = 강입자
+  Higgs boson = 힉스 보손
+  Higgs mechanism = 힉스 메커니즘
+  Large Hadron Collider = 대형 강입자 충돌기
+  Photons = 광자
+  Quantum chromodynamics = 양자 색역학
+  Quantum electrodynamics = 양자 전기역학
+  Standard = 스탠더드
+  Standard Model = 표준 모형
+  W and Z bosons = W 보손과 Z 보손
+  color confinement = 색가둠
+  elementary particle = 기본 입자
+  gauge boson = 게이지 보손
+  gauge bosons = 게이지 보손
+  gauge theory = 게이지 이론
+  gluons = 글루온
+  quantum chromodynamics = 양자 색역학
+  vector bosons = 벡터 보손
+ENTRY:
+Bosonic elementary particle serving as the force carrier for [[Fermion|fermions]]. Photons, W and Z bosons, and gluons are gauge bosons, and all known ones have spin 1, making them vector bosons. The [[Higgs boson]], by comparison, has spin zero. In a quantized [[Gauge theory|gauge theory]], gauge bosons are quanta of the gauge fields. [[Quantum electrodynamics]] has one gauge boson, the photon, while [[Quantum chromodynamics|quantum chromodynamics]] has eight, the gluons. Isolated gluons do not occur because of color confinement. In the [[Standard Model]], the W and Z bosons gain mass through the Higgs mechanism, and the Higgs boson has been observed at the [[Large Hadron Collider]]. Gravity may be carried by the hypothetical [[Graviton]].
+
+=== KEY: Gauge_theory_e6729e
+HEADWORD: Gauge theory = 게이지 이론
+LEVEL: 4
+GLOSSARY:
+  Chen Ning Yang = 양전닝
+  Electromagnetism = 전자기학
+  Field (physics) = 장
+  Gauge boson = 게이지 보손
+  General relativity = 일반 상대성 이론
+  Hermann Weyl = 헤르만 바일
+  Lagrangian = 라그랑지언
+  Lie group = 리 군
+  Ning = 닝
+  Physical = 「Physical」
+  Quantum electrodynamics = 양자 전기역학
+  Robert Mills = 로버트 밀스
+  Standard = 스탠더드
+  Standard Model = 표준 모형
+  Yang–Mills theory = 양-밀스 이론
+  abelian = 아벨
+  degrees of freedom = 자유도
+  field theory = 장 이론
+  gauge bosons = 게이지 보손
+  gauge theory = 게이지 이론
+  general relativity = 일반 상대성 이론
+  non-abelian = 비아벨
+  symmetry group = 대칭군
+ENTRY:
+Physical [[Field (physics)|field theory]] whose Lagrangian is invariant under local transformations of a Lie group. Gauge fields are included to ensure this invariance, and their quanta are called [[Gauge boson|gauge bosons]]. The term gauge refers to a formalism that regulates redundant degrees of freedom in a physical system's Lagrangian. [[Quantum electrodynamics]] is an abelian gauge theory with symmetry group U(1), and the [[Standard Model]] is non-abelian with symmetry group U(1) × SU(2) × SU(3). Gauge theories also appear in [[General relativity|general relativity]]. [[Hermann Weyl]] introduced the name in 1918, in an attempt to generalize general relativity to include [[Electromagnetism|electromagnetism]]. Chen Ning Yang and Robert Mills generalized the concept to non-Abelian symmetries in 1954, in what is now called [[Yang–Mills theory]].
+
+=== KEY: Gaul_f46b46
+HEADWORD: Gaul = 갈리아
+LEVEL: 5
+GLOSSARY:
+  Archbishop of Lyon = 리옹 대주교
+  Belgium = 벨기에
+  Capetian = 카페 왕조
+  Catholic = 가톨릭
+  Celtic = 켈트
+  Europe = 유럽
+  France = 프랑스
+  Gallia = 갈리아
+  Gallo-Roman culture = 갈로로만 문화
+  Gaul = 갈리아
+  Gauls = 갈리아인
+  Germany = 독일
+  Italy = 이탈리아
+  Julius Caesar = 율리우스 카이사르
+  Kingdom of France = 프랑스 왕국
+  Late Antiquity = 고대 후기
+  Late antiquity = 고대 후기
+  Luxembourg = 룩셈부르크
+  Lyon = 리옹
+  Netherlands = 네덜란드
+  Primate = 영장류
+  Primate of the Gauls = 갈리아의 수석 대주교
+  Roman Empire = 로마 제국
+  Switzerland = 스위스
+  Western Europe = 서유럽
+  Western Roman Empire = 서로마 제국
+ENTRY:
+Historical region of [[Western Europe]] inhabited by Celtic tribes. It roughly covered present-day Belgium, France, Luxembourg, and parts of Germany, the Netherlands, northern [[Italy]] and Switzerland. Roman control lasted for five centuries, until the collapse of the [[Western Roman Empire]]. [[Julius Caesar]] subdued the largest part of Gaul in his campaigns from 58 to 51 BC. The Gauls shifted to a Gallo-Roman culture in [[Late antiquity|Late Antiquity]], and the name Gallia remained in use until the Capetian Kingdom of France emerged in the high medieval period. The Catholic Archbishop of Lyon still holds the title Primate of the Gauls.
+
+=== KEY: Gaur_1358a8
+HEADWORD: Gaur = 가우르
+LEVEL: 4
+GLOSSARY:
+  Adult = 성인
+  Asia = 아시아
+  Bangladesh = 방글라데시
+  Bos gaurus = Bos gaurus
+  Bovidae = 소과
+  IUCN = 국제 자연 보전 연맹
+  IUCN Red List = IUCN 적색 목록
+  India = 인도
+  Indian bison = 인도들소
+  Indian subcontinent = 인도 아대륙
+  Myanmar = 미얀마
+  Northeast = 북동부
+  Northeast India = 인도 북동부
+  Red List = 적색 목록
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  Vulnerable = 취약
+  dewlap = 군턱
+  gayal = 가얄
+  mithun = 미툰
+ENTRY:
+Largest living [[Bovidae|bovid]], *Bos gaurus*, also called the Indian bison. It is native to the [[Indian subcontinent]] and [[Southeast Asia]] and is the largest of the wild cattle. Listed as Vulnerable on the IUCN Red List since 1986, its global population was estimated at a maximum of 21,000 mature individuals in 2016, most of them in India. The gaur is massively built, with a high convex ridge on the forehead between the horns, a prominent back ridge, very large ears and a dewlap on the throat. Adult males are dark brown, and both sexes have horns. The domesticated gayal, or mithun, originated partly from the wild gaur and is most common in the border regions of Northeast India, Bangladesh and Myanmar.
+
+=== KEY: Gaussian_elimination_a67074
+HEADWORD: Gaussian elimination = 가우스 소거법
+LEVEL: 4
+GLOSSARY:
+  Algorithm = 알고리즘
+  Carl Friedrich Gauss = 카를 프리드리히 가우스
+  Determinant = 행렬식
+  Gauss = 가우스
+  Jordan = 요르단
+  Matrix (mathematics) = 행렬
+  back substitution = 후진 대입
+  rank = 계수
+  reduced row echelon form = 기약 행 사다리꼴
+  row echelon form = 행 사다리꼴
+  solution set = 해집합
+  time complexity = 시간 복잡도
+ENTRY:
+[[Algorithm]] for solving systems of linear equations by row operations, named after [[Carl Friedrich Gauss]]. The three elementary row operations are swapping two rows, multiplying a row by a nonzero number, and adding a multiple of one row to another. These operations do not change the solution set. Forward elimination reduces the matrix to row echelon form, which shows whether a system has no solution, a unique solution or infinitely many, and back substitution then finds the solution. The method can also compute the rank of a [[Matrix (mathematics)|matrix]], its [[Determinant|determinant]] and the inverse of an invertible matrix. Reducing the matrix fully to reduced row echelon form is called Gauss–Jordan elimination. For an n × n system, the method has cubic time complexity, O(n³).
+
+=== KEY: Gaussian_function_1ad810
+HEADWORD: Gaussian function = 가우스 함수
+LEVEL: 5
+GLOSSARY:
+  Carl Friedrich Gauss = 카를 프리드리히 가우스
+  Error function = 오차 함수
+  Exponential function = 지수 함수
+  Function (mathematics) = 함수
+  Gauss = 가우스
+  Gaussian blurs = 가우스 블러
+  Gaussian filters = 가우스 필터
+  Normal distribution = 정규 분포
+  Signal processing = 신호 처리
+  exponential function = 지수 함수
+  image processing = 영상 처리
+  indefinite integral = 부정적분
+  probability density function = 확률 밀도 함수
+  signal processing = 신호 처리
+  standard deviation = 표준 편차
+  variance = 분산
+ENTRY:
+Bell-shaped [[Exponential function|exponential]] [[Function (mathematics)|function]] named after [[Carl Friedrich Gauss]]: f(x) = a·exp(−(x−b)²/2c²). The parameter a is the height of the peak, b its horizontal center, and c the width, which corresponds to the standard deviation. When normalized, a Gaussian is the probability density function of a [[Normal distribution|normal distribution]] with mean μ and variance σ². It is used in [[Signal processing|signal processing]] for Gaussian filters, in image processing for Gaussian blurs, and in solving heat and diffusion equations. Its indefinite integral is the [[Error function|error function]].
+
+=== KEY: Gauteng_abedfa
+HEADWORD: Gauteng = 하우텡
+LEVEL: 5
+GLOSSARY:
+  African National Congress = 아프리카 민족회의
+  Democratic = 민주당
+  Democratic Alliance = 민주 동맹
+  Gauteng = 하우텡주
+  Gross domestic product = 국내 총생산
+  Johannesburg = 요하네스버그
+  PWV = PWV
+  Pretoria = 프리토리아
+  Sotho-Tswana = 소토-츠와나어
+  South Africa = 남아프리카 공화국
+  Transvaal = 트란스발
+  gross domestic product = 국내 총생산
+ENTRY:
+Province of [[South Africa]], the smallest by land area and the most populous, with 26% of the national population (pop., 2022: 16.1 million). Its name comes from the Sotho-Tswana word for gold, and it was formed in 1994 from part of the old Transvaal, initially as PWV until its renaming in 1995. Gauteng is the wealthiest province and generates about 34% of national [[Gross domestic product|gross domestic product]]. [[Johannesburg]], the provincial capital and largest city, is the financial hub, and [[Pretoria]] is South Africa's administrative capital. Politically, it is the most closely contested province between the [[African National Congress]] and the liberal Democratic Alliance.
+
+=== KEY: Gavrilo_Princip_144a20
+HEADWORD: Princip, Gavrilo = 프린치프, 가브릴로
+LEVEL: 5
+GLOSSARY:
+  Archduke Franz Ferdinand = 프란츠 페르디난트 대공
+  Austria-Hungary = 오스트리아-헝가리
+  Bosnia = 보스니아
+  Bosniaks = 보스니아크인
+  Bosnian = 보스니아어
+  Bosnian Serb = 보스니아 세르비아계
+  Croats = 크로아티아인
+  Ferdinand = 페르디난트
+  Franz Ferdinand = 프란츠 페르디난트 대공
+  July Crisis = 7월 위기
+  Sarajevo = 사라예보
+  Serbs = 세르비아인
+  Sophie = 조피
+  Terrorism = 테러리즘
+  Tuberculosis = 결핵
+  World = 세계
+  World War I = 제1차 세계 대전
+  Young Bosnia = 청년 보스니아
+  heir presumptive = 추정 상속인
+ENTRY:
+Bosnian Serb student and member of Young Bosnia, who assassinated Archduke Franz Ferdinand, heir presumptive to the throne of [[Austria-Hungary]], and his wife Sophie in [[Sarajevo]] on 28 June 1914. The assassination set off the July Crisis, which led within a month to the outbreak of [[World War I]]. Princip was spared the death penalty because of his age and sentenced to twenty years in prison. He died of [[Tuberculosis|tuberculosis]], worsened by harsh prison conditions. His legacy is contested: many Serbs regard him as a hero who opposed colonial oppression, while Bosniaks and Croats frequently view him as a [[Terrorism|terrorist]].
+
+=== KEY: Gay_men_786b1f
+HEADWORD: Gay men = 남성 동성애자
+LEVEL: 5
+GLOSSARY:
+  Abrahamic = 아브라함계
+  Abrahamic religions = 아브라함계 종교
+  Ancient Egypt = 고대 이집트
+  Asia = 아시아
+  Egypt = 이집트
+  Gay men = 게이
+  Homosexuality = 동성애
+  Khnumhotep and Niankhkhnum = 크눔호테프와 니안크크눔
+  LGBTQ = LGBTQ
+  Michel Foucault = 미셸 푸코
+  Socrates = 소크라테스
+  Tim Cook = 팀 쿡
+  sodomy = 남색
+ENTRY:
+Male [[Homosexuality|homosexuals]]. The word *gay* is recommended by LGBTQ groups and style guides for people exclusively attracted to members of the same sex. Gay men continue to face significant discrimination, particularly in parts of Asia and Africa, and in Western countries in daily life, though some, including [[Tim Cook]], have reached prominence. Ancient Egypt has the earliest possible male couple, Khnumhotep and Niankhkhnum, around 2400 BC. In cultures influenced by [[Abrahamic religions]], sodomy was treated as a crime, and most Christian theologians and denominations have considered homosexual behavior sinful. Some scholars, including [[Michel Foucault]], see such terms applied to [[Socrates]] as risking anachronism.
+
+=== KEY: Gay_pornography_119442
+HEADWORD: Gay pornography = 게이 포르노그래피
+LEVEL: 5
+GLOSSARY:
+  DVD = DVD
+  French = 프랑스어
+  HIV/AIDS = HIV/AIDS
+  Pornography = 포르노그래피
+  VHS = VHS
+  obscenity laws = 음란물 금지법
+  physique magazines = 보디빌딩 잡지
+  video on demand = 주문형 비디오
+ENTRY:
+[[Pornography]] depicting sexual activity between men. Homoerotic art depicting men dates to many ancient civilizations. The earliest known hardcore gay film, a French production, was released in 1920. Under obscenity laws, commercially available gay material in the mid-20th century often consisted of athletic men in physique magazines, which let readers pass as fitness enthusiasts. Distribution later shifted from [[VHS]] and [[DVD]] to cable, video on demand and online sites. Its possible role in [[HIV/AIDS|HIV]] risk is contested, and many studies on the question are correlational.
+
+=== KEY: Gaza_City_bf0aa6
+HEADWORD: Gaza City = 가자시
+LEVEL: 5
+GLOSSARY:
+  City = 도시
+  Crusader states = 십자군 국가
+  Crusaders = 십자군
+  Gaza Governorate = 가자 주
+  Gaza Strip = 가자 지구
+  Gaza war = 가자 전쟁
+  Israel = 이스라엘
+  Mandatory Palestine = 영국령 팔레스타인
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Palestine = 팔레스타인
+  Philistines = 블레셋인
+  Romans = 로마인
+  Six-Day War = 6일 전쟁
+  Strip = 스트립
+  World = 세계
+  World War I = 제1차 세계 대전
+ENTRY:
+City in the [[Gaza Strip]], Palestine, and capital of Gaza Governorate. It was home to Palestine's only port. Its population of 590,481 in 2017 was mostly displaced or killed in the [[Gaza war]]. Inhabited since at least the 15th century BC, it was ruled by ancient Egyptians, the [[Philistines]], Romans and [[Crusader states|Crusaders]] before the [[Ottoman Empire]] incorporated it in the 16th century. British forces took it in [[World War I]], and it became part of [[Mandatory Palestine]] in 1922. Israel occupied it in the [[Six-Day War]] in 1967. Israeli airstrikes have largely destroyed it since October 2023.
+
+=== KEY: Gaza_Strip_b9d2a1
+HEADWORD: Gaza Strip = 가자 지구
+LEVEL: 4
+GLOSSARY:
+  1949 Armistice Agreements = 1949년 휴전 협정
+  Accords = 협약
+  Authority = 권위
+  Bank = 은행
+  Egypt = 이집트
+  Fatah = 파타
+  Gaza war = 가자 전쟁
+  Hamas = 하마스
+  Israel = 이스라엘
+  Mediterranean = 지중해
+  Mediterranean Sea = 지중해
+  Oslo = 오슬로
+  Oslo Accords = 오슬로 협정
+  Palestine = 팔레스타인
+  Palestinian Authority = 팔레스타인 자치 정부
+  Palestinian refugees = 팔레스타인 난민
+  State of Palestine = 팔레스타인국
+  West Bank = 요르단강 서안 지구
+  genocide = 집단 학살
+ENTRY:
+Smaller of the two Palestinian territories, with the [[West Bank]], that make up the State of [[Palestine]]. The coastal strip borders [[Egypt]], [[Israel]] and the [[Mediterranean Sea]], and covers 365 sq km. Its boundaries date from the 1949 Armistice Agreements, when Egypt controlled the area. Israel captured it in the 1967 Arab–Israeli War and withdrew its forces in 2005. The [[Oslo Accords]] created the Palestinian Authority in the mid-1990s, but [[Hamas]] took over governance in 2007 after armed conflict with Fatah. Israel and Egypt have blockaded it since 2007. In 2010 the strip had just over 2 million people, mostly Palestinian refugees and their descendants, among the most densely populated territories in the world. Since the Gaza war began in 2023, Israeli operations have caused large-scale loss of life and displacement; scholars and human-rights organizations describe them as genocide, a charge Israel denies.
+
+=== KEY: Gaza_war_30d43f
+HEADWORD: Gaza war = 가자 전쟁
+LEVEL: 5
+GLOSSARY:
+  Gaza Strip = 가자 지구
+  Genocide = 제노사이드
+  Hamas = 하마스
+  Israel = 이스라엘
+  Palestinians = 팔레스타인인
+  Strip = 스트립
+  The Lancet = 『랜싯』
+ENTRY:
+Armed conflict in the [[Gaza Strip]] and Israel, from October 7, 2023. [[Hamas]] led an attack that day that killed 1,195 Israelis and foreign nationals and took 251 hostages. Over 74,000 Palestinians in Gaza have been killed since the Israeli offensive, a figure several studies in *The Lancet* consider a significant undercount. Nearly all of the strip's 2.3 million Palestinians have been forcibly displaced. Many scholars and international organizations conclude that Israel's actions constitute [[Genocide|genocide]], a charge Israel and its supporters deny. A ceasefire took effect in October 2025, but hostilities have continued.
+
+=== KEY: Gazelle_98993e
+HEADWORD: Gazelle = 가젤
+LEVEL: 4
+GLOSSARY:
+  Antelope = 영양
+  Asia = 아시아
+  Cheetah = 치타
+  Eudorcas = 에우도르카스속
+  Gazella = 가젤속
+  Hyena = 하이에나
+  Indian subcontinent = 인도 아대륙
+  Lion = 사자
+  Miocene = 마이오세
+  Nanger = 낭게르속
+  Queen = 퀸
+  Queen of Sheba's gazelle = 시바여왕가젤
+  Savanna = 사바나
+  Thomson's gazelle = 톰슨가젤
+  stotting = 스토팅
+ENTRY:
+Any of many [[Antelope|antelope]] species, most in the genus *Gazella*. Gazelles live in herds in the deserts, grasslands and [[Savanna|savannas]] of Africa, and also in southwest and central Asia and the [[Indian subcontinent]]. They are slender and fawn-colored, most standing 60–110 cm high at the shoulder. Some run in bursts of up to 100 km/h (60 mph) and sustain 50 km/h (30 mph). They eat fine, easily digested plants and leaves. Taxonomy is unsettled: *Gazella* is considered to include about 10 species, with two related genera, *Eudorcas* and *Nanger*. One species, the Queen of Sheba's gazelle, is extinct, and most surviving species are threatened to varying degrees. When threatened by predators such as [[Cheetah|cheetahs]], [[Lion|lions]] and [[Hyena|hyenas]], Thomson's gazelle performs stotting, running and jumping high before fleeing. Fossils of *Gazella* date to the [[Miocene]], around 14 million years ago.
+
+=== KEY: Gaziantep_f64079
+HEADWORD: Gaziantep = 가지안테프
+LEVEL: 4
+GLOSSARY:
+  Aintab = 아인타브
+  Antiochia ad Taurum = 안티오키아 아드 타우룸
+  Baklava = 바클라바
+  City = 도시
+  City of Gastronomy = 음식 창의 도시
+  Creative City = 창의 도시
+  Creative City of Gastronomy = 유네스코 음식 창의 도시
+  Franco-Turkish War = 프랑스-튀르키예 전쟁
+  French = 프랑스어
+  Gazi = 가지
+  Gaziantep Province = 가지안테프주
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Pistachio = 피스타치오
+  Syria = 시리아
+  Timur = 티무르
+  Turkey = 튀르키예
+  UNESCO = 유네스코
+ENTRY:
+Major city in south-central [[Turkey]], capital of Gaziantep Province. Historically known as Aintab, it is thought to occupy the site of the ancient Antiochia ad Taurum. It rose to prominence in the 14th century, was besieged by [[Timur]] in 1400, and fell to the [[Ottoman Empire]] in 1516. Its honorific prefix *Gazi* commemorates resistance to a French siege in the Franco-Turkish War. At the end of 2025 the province had 2,222,415 inhabitants, about 1.9 million of them in the urban area, making the city the fifth-most populous in Turkey. Its economy includes textiles, food processing and [[Pistachio|pistachio]] farming, and it is known for [[Baklava|baklava]]. Designated a [[UNESCO]] Creative City of Gastronomy in 2015, it was the first such city in Turkey. In the 2023 Turkey–Syria earthquake, 944 buildings collapsed in the province, and the city became a regional hub for relief work.
+
+=== KEY: Gda_sk_daca6d
+HEADWORD: Gdańsk = 그단스크
+LEVEL: 4
+GLOSSARY:
+  City = 도시
+  City of Literature = 문학 창의 도시
+  Danzig = 단치히
+  Europe = 유럽
+  Gdańsk = 그단스크
+  German = 독일어
+  German Empire = 독일 제국
+  Hanseatic = 한자 동맹
+  Hanseatic League = 한자 동맹
+  Lech Wałęsa = 레흐 바웬사
+  Literature = 문학
+  Middle Ages = 중세
+  Poland = 폴란드
+  Pomeranian = 포메라니안
+  Pomeranian Voivodeship = 포모제주
+  Port = 항구
+  Prussia = 프로이센
+  Solidarity = 연대
+  Tricity = 트루이미아스토
+  UNESCO = 유네스코
+  Westerplatte = 베스테르플라테
+  World = 세계
+  World War II = 제2차 세계 대전
+  free city = 자유 도시
+ENTRY:
+Port city on the Baltic coast of northern [[Poland]], capital of Pomeranian Voivodeship. First mentioned in 997, it was historically known as Danzig. It joined the [[Hanseatic League]] in the [[Middle Ages]] and was the Polish Crown's principal seaport until the early 18th century. Prussia annexed it in 1793, and it was integrated into the [[German Empire]] in 1871. It was a free city from 1807 to 1814 and again from 1920 to 1939. A military clash at Westerplatte on September 1, 1939, was one of the first events of [[World War II]]. In the 1980s Gdańsk was the birthplace of the Solidarity trade union, led by [[Lech Wałęsa]], which helped precipitate the collapse of communism in Europe. It is Poland's sixth-largest city and part of the Tricity metropolitan area, with about 1.5 million people. The city became a [[UNESCO]] City of Literature in 2025.
+
+=== KEY: Gear_fb8457
+HEADWORD: Gear = 기어
+LEVEL: 4
+GLOSSARY:
+  Antikythera = 안티키테라섬
+  Antikythera mechanism = 안티키테라 기계
+  Archimedes = 아르키메데스
+  Aristotle = 아리스토텔레스
+  China = 중국
+  Eclipse = 식
+  Torque = 돌림힘
+  Warring States = 전국 시대
+  Warring States period = 전국 시대
+  gear train = 기어열
+  gearbox = 변속기
+ENTRY:
+Rotating toothed machine part that transmits [[Torque|torque]] or rotational motion by meshing with another toothed part. Two or more meshing gears form a gear train. When a small gear drives a larger one, torque increases while rotational speed falls; the reverse happens when a large gear drives a small one, in proportion to the ratio of their tooth counts. Most vehicles use a gearbox to vary the torque applied to the wheels without changing engine speed. Gears range from a few μm in micromachines to over 10 m in mining equipment. The earliest surviving gears date to the 4th century BC in China, during the [[Warring States period]]. [[Aristotle]] described gears around 330 BC, and [[Archimedes]] greatly developed them. The [[Antikythera mechanism]], which predicted astronomical positions and [[Eclipse|eclipses]], contains the earliest surviving European gears, estimated to date from between 150 and 100 BC.
+
+=== KEY: Gecko_d21fd7
+HEADWORD: Gecko = 도마뱀붙이
+LEVEL: 4
+GLOSSARY:
+  Antarctica = 남극 대륙
+  Caledonia = 칼레도니아
+  Eublepharidae = 표범도마뱀붙이과
+  France = 프랑스
+  Gekkota = 도마뱀붙이하목
+  Gigarcanum delcourti = 기가르카눔 델쿠르티
+  Hispaniola = 히스파니올라섬
+  House geckos = 집도마뱀붙이
+  Jaragua sphaero = 자라과난쟁이도마뱀붙이
+  Lizard = 도마뱀
+  Marseille = 마르세유
+  Mosquito = 모기
+  Moth = 나방
+  New Caledonia = 누벨칼레도니
+ENTRY:
+Small, mostly carnivorous [[Lizard|lizard]] of the suborder Gekkota, found on every continent except [[Antarctica]]. Geckos are the most species-rich group of lizards, with nearly 2,000 species, and range from 1.6 to 67 cm long. Most are nocturnal, and their low-light color vision is 350 times more sensitive than human eyes. Geckos other than the Eublepharidae lack eyelids; instead, a transparent membrane covers each eye, and they lick it to keep it clean. Many species have specialized toe pads that let them climb smooth vertical surfaces and cross ceilings. House geckos feed on insect pests, including [[Moth|moths]] and [[Mosquito|mosquitoes]]. The largest species, *Gigarcanum delcourti*, which was 60 cm long, is known from a single stuffed specimen in [[Marseille]], France, and was likely endemic to [[New Caledonia]]. The smallest, the Jaragua sphaero, is 16 mm long and was discovered in 2001 off [[Hispaniola]].
+
+=== KEY: Gediminas_808e6d
+HEADWORD: Gediminas = 게디미나스
+LEVEL: 4
+GLOSSARY:
+  Baltic Sea = 발트해
+  Black = 검은색
+  Black Sea = 흑해
+  Bohemia = 보헤미아
+  Gediminid dynasty = 게디미나스 왕조
+  Grand Duke = 대공
+  Grand Duke of Lithuania = 리투아니아 대공
+  Hanseatic = 한자 동맹
+  Hanseatic towns = 한자 도시
+  Holy See = 교황청
+  Hungary = 헝가리
+  John = 존
+  Lithuania = 리투아니아
+  Poland = 폴란드
+  Pope = 교황
+  Pope John XXII = 교황 요한 22세
+  Riga = 리가
+  Tatars = 타타르족
+  Teutonic Knights = 튜턴 기사단
+  Vilnius = 빌뉴스
+  papal legates = 교황 특사
+ENTRY:
+Grand Duke of [[Lithuania]] (r. c. 1316–41), traditionally regarded as the founder of [[Vilnius]]. His rule extended from the [[Baltic Sea]] to the [[Black Sea]], and the Gediminid dynasty he founded later ruled Poland, Hungary and [[Bohemia]]. Sources on his origins are scarce and conflicting. Facing raids by the Teutonic Knights, he allied with the [[Tatars]] in 1319 and opened talks with the [[Holy See]] for protection. He wrote to Pope John XXII and invited settlers from Hanseatic towns, offering them free access and their own laws. In 1323 he pledged to be baptized once papal legates arrived, with the support of the archbishop of [[Riga]].
+
+=== KEY: Geena_Davis_6732da
+HEADWORD: Davis, Geena = 데이비스, 지나
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Supporting Actress = 아카데미 여우조연상
+  Beetlejuice = 「비틀쥬스」
+  Best Actress = 여우주연상
+  Best Supporting Actress = 여우조연상
+  Commander = 사령관
+  Commander in Chief = 「커맨더 인 치프」
+  Cutthroat Island = 「컷스로트 아일랜드」
+  Gender = 젠더
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Media = 메디아
+  Stuart Little = 「스튜어트 리틀」
+  The Accidental Tourist = 「우연한 방문객」
+ENTRY:
+American actor and founder of the Geena Davis Institute on Gender in Media. *Beetlejuice* (1988) brought her to prominence, and *The Accidental Tourist* (1988) won her the Academy Award for Best Supporting Actress. She was nominated for Best Actress for *Thelma & Louise* (1991). After the box-office failure of *Cutthroat Island* (1995), her film career declined. She later played the adoptive mother in the *Stuart Little* films and won a Golden Globe for playing the first female U.S. president in the television series *Commander in Chief*.
+
+=== KEY: Gel_123271
+HEADWORD: Gel = 겔
+LEVEL: 4
+GLOSSARY:
+  Colloid = 콜로이드
+  Gelatin = 젤라틴
+  Hydrogels = 하이드로젤
+  Polymer = 중합체
+  Scottish = 스코틀랜드
+  Thomas = 토머스
+  Thomas Graham = 토머스 그레이엄
+ENTRY:
+Semi-solid material, mostly liquid by mass, with a three-dimensional cross-linked network. Gels are defined as dilute cross-linked systems that show no flow in the steady state, though the liquid can still diffuse through them. The network gives a gel its structure, hardness and tack. Gels range from soft and weak to hard and tough. Hydrogels are [[Polymer|polymer]] networks that use water as the liquid, can contain over 90 percent water and are highly absorbent. Edible jelly is a common example. [[Colloid|Colloidal]] gels form a network of particles in a fluid and have been explored for drug release. The word was coined by Scottish chemist Thomas Graham, clipped from [[Gelatin|gelatine]].
+
+=== KEY: Gel_electrophoresis_57f3fb
+HEADWORD: Gel electrophoresis = 겔 전기 영동
+LEVEL: 4
+GLOSSARY:
+  Biomolecule = 생체 분자
+  Carbohydrate = 탄수화물
+  DNA = DNA
+  Electric field = 전기장
+  Laboratory = 실험실
+  Polymerase chain reaction = 중합효소 연쇄 반응
+  Protein = 단백질
+  RNA = RNA
+  Seaweed = 해조류
+  agarose = 아가로스
+  ethidium bromide = 브로민화 에티듐
+  mass spectrometry = 질량 분석법
+  polyacrylamide = 폴리아크릴아마이드
+ENTRY:
+Laboratory method for separating [[Biomolecule|biomolecules]] such as [[DNA]], [[RNA]] and [[Protein|proteins]] by size and charge. Molecules migrate through a porous gel matrix, usually agarose or polyacrylamide, under an [[Electric field]]. The gel acts as a sieve: shorter molecules move faster and farther. Proteins are separated mainly by charge in agarose, whose pores are too large to sieve them. Agarose, a [[Carbohydrate|carbohydrate]] from [[Seaweed|seaweed]], suits large DNA fragments, while polyacrylamide gives finer resolution for small DNA, RNA and proteins. DNA gel electrophoresis is usually analytical, often after [[Polymerase chain reaction|PCR]] amplification, but can also prepare samples for mass spectrometry or cloning. Stains such as ethidium bromide make the separated bands visible under ultraviolet light.
+
+=== KEY: Gelatin_a589b7
+HEADWORD: Gelatin = 젤라틴
+LEVEL: 5
+GLOSSARY:
+  Cosmetics = 화장품
+  Gelatin = 젤라틴
+  Ice cream = 아이스크림
+  Medication = 약물 치료
+  Peptide = 펩타이드
+  Photographic film = 사진 필름
+  Protein = 단백질
+  Research = 연구
+  Yogurt = 요구르트
+  collagen = 콜라겐
+  hydrolysis = 가수 분해
+  hydrolyzed collagen = 가수 분해 콜라겐
+ENTRY:
+Translucent, flavorless mixture of [[Peptide|peptides]] and [[Protein|proteins]] from partial hydrolysis of animal collagen. It gels food such as jelly, gummy candy, marshmallows, [[Ice cream|ice cream]] and [[Yogurt|yogurt]], and is used in [[Medication|medications]], capsules, [[Photographic film|photographic films]] and [[Cosmetics|cosmetics]]. Gelatin is brittle when dry and rubbery when moist. Its network can hold up to 90 percent water, which suits its use in wound dressings and drug delivery. Research shows no established benefit of hydrolyzed collagen for joint health. Regulators consider the risk of disease transmission very low when standard processing methods are followed.
+
+=== KEY: Gemini_constellation_d9a21c
+HEADWORD: Gemini = 쌍둥이자리
+LEVEL: 5
+GLOSSARY:
+  88 modern constellations = 88개 현대 별자리
+  Cancer = 암
+  Castor = 카스토르
+  Earth = 지구
+  Light-year = 광년
+  Pleiades = 플레이아데스 성단
+  Pollux = 폴룩스
+  Ptolemy = 프톨레마이오스
+  Regulus = 레굴루스
+  Taurus (constellation) = 황소자리
+  Zodiac = 황도 12궁
+  Zodiac constellation = 황도 별자리
+  ecliptic = 황도
+  star system = 스타 시스템
+ENTRY:
+[[Zodiac]] constellation in the northern sky, named for the twins Castor and Pollux. It is one of the 48 constellations described by [[Ptolemy]] in the 2nd century AD and one of the 88 modern constellations. Pollux is its brightest star. Castor, the second-brightest, is a sextuple star system about 52 [[Light-year|light-years]] from Earth. Gemini lies between [[Taurus (constellation)|Taurus]] and Cancer and contains 85 naked-eye stars. It is prominent in northern winter skies. To locate it, draw a line from the [[Pleiades]] to [[Regulus]], which passes close to the ecliptic just below Castor and Pollux.
+
+=== KEY: Gemstone_a62565
+HEADWORD: Gemstone = 보석
+LEVEL: 4
+GLOSSARY:
+  Amber = 호박
+  Corundum = 강옥
+  Diamond = 다이아몬드
+  Gemologists = 보석학자
+  Lapis lazuli = 청금석
+  Mineral = 광물
+  Mohs scale = 모스 굳기계
+  Obsidian = 흑요석
+  Ruby = 루비
+  aluminum oxide = 산화 알루미늄
+  emerald = 에메랄드
+  ruby = 루비
+  sapphire = 사파이어
+ENTRY:
+Piece of [[Mineral|mineral]] crystal, cut or polished for jewelry. Some rocks, such as [[Lapis lazuli]] and [[Obsidian]], and organic materials, such as [[Amber]] and pearl, are also used. Traditionally, emerald, ruby, sapphire and [[Diamond|diamond]] are called precious; all are very hard, rating 8 to 10 on the [[Mohs scale]]. Ruby is the red variety of [[Corundum]], and sapphire is any other color of corundum. Gemologists first identify gems by chemical composition: diamonds are carbon, while sapphires and rubies are aluminum oxide. The colored gemstone industry was estimated at US$1.55 billion in 2023 and is projected to reach $4.46 billion by 2033.
+
+=== KEY: Gen_Z_protests_1f4024
+HEADWORD: Gen Z protests = Z세대 시위
+LEVEL: 5
+GLOSSARY:
+  Asia = 아시아
+  Authoritarianism = 권위주의
+  Bangladesh = 방글라데시
+  Carnegie Endowment = 카네기 국제평화재단
+  Corruption = 부패
+  Europe = 유럽
+  Gen Z = Z세대
+  Generation Z = Z세대
+  July 2024 uprising = 2024년 7월 봉기
+  Latin = 라틴어
+  Latin America = 라틴아메리카
+  Nepal = 네팔
+  Social media = 소셜 미디어
+  Wave = 파동
+ENTRY:
+Wave of political demonstrations and uprisings led mainly by [[Generation Z]], people born from the mid-1990s to the early 2010s. The July 2024 uprising in [[Bangladesh]] is widely cited as the first successful Gen Z revolution, and a successful revolution in [[Nepal]] followed. Causes vary by country but generally involve inequality, rising living costs, [[Corruption|corruption]] and [[Authoritarianism|authoritarianism]]. Gen Z has used [[Social media]] for organizing. By 2025 and 2026 the protests had spread to Asia, Africa, Europe and Latin America. The Carnegie Endowment counted at least 120 significant anti-government protests in at least 73 countries over the year to March 2026, the most since 2017.
+
+=== KEY: Gena_Rowlands_2555fe
+HEADWORD: Rowlands, Gena = 롤랜즈, 지나
+LEVEL: 5
+GLOSSARY:
+  A Woman Under the Influence = 「영향 아래 있는 여자」
+  Academy Award = 아카데미상
+  Another Woman = 「또 다른 여인」
+  Bear = 곰
+  Best Actress = 여우주연상
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  Gloria = 「글로리아」
+  Golden Globes = 골든 글로브상
+  Honorary Academy Award = 아카데미 명예상
+  John = 존
+  John Cassavetes = 존 카사베츠
+  Nick Cassavetes = 닉 카사베츠
+  Night = 『밤』
+  Opening Night = 「오프닝 나이트」
+  Silver = 은
+  Silver Bear = 은곰상
+  The Notebook = 「노트북」
+  Woman = 여성
+  Woody = 우디
+  Woody Allen = 우디 앨런
+ENTRY:
+American actress, best known for films with her husband, director [[John Cassavetes]]. Her career in film, stage and television spanned nearly seven decades. She and Cassavetes made ten films together, including *A Woman Under the Influence* (1974) and *Gloria* (1980), both of which earned her Academy Award nominations for Best Actress. She won a Silver Bear for *Opening Night* (1977). Her other roles include *Another Woman* (1988) for [[Woody Allen]] and *The Notebook* (2004), directed by her son Nick Cassavetes. She won four Emmy Awards and two Golden Globes, and received an Honorary Academy Award in 2015.
+
+=== KEY: Gendarmerie_5d4a85
+HEADWORD: Gendarmerie = 국가헌병대
+LEVEL: 5
+GLOSSARY:
+  Algeria = 알제리
+  France = 프랑스
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  Military = 군대
+  Napoleon = 나폴레옹
+  Poland = 폴란드
+  Romania = 루마니아
+  Turkey = 튀르키예
+  gens d'armes = 장다름
+  military police = 헌병
+  ministry of defense = 국방부
+ENTRY:
+Military or paramilitary force with law-enforcement duties among civilians. The term derives from the medieval French *gens d'armes*, or "men-at-arms," and gained policing meaning during the [[French Revolution]]. It spread to several Western European countries during [[Napoleon|Napoleon's]] conquests, and similar forces exist in most European countries. In France, the gendarmerie handles internal security mainly in rural areas and small towns, and serves as military police. Depending on the country, a gendarmerie may fall under a ministry of defense, as in [[Algeria]] and [[Poland]], or of the interior, as in [[Romania]] and [[Turkey]].
+
+=== KEY: Gender_019ec3
+HEADWORD: Gender = 젠더
+LEVEL: 3
+GLOSSARY:
+  Anglo-Norman = 앵글로노르만어
+  Asia = 아시아
+  Feminism = 페미니즘
+  French = 프랑스어
+  Gender = 젠더
+  Intersex = 간성
+  Latin = 라틴어
+  Middle English = 중세 영어
+  Middle French = 중세 프랑스어
+  Non-binary = 논바이너리
+  North America = 북아메리카
+  South Asia = 남아시아
+  Transgender = 트랜스젠더
+  WHO = 세계 보건 기구
+  gamete = 생식세포
+  gender binary = 성별 이분법
+  gender dysphoria = 성별 불쾌감
+  gender identity = 성별 정체성
+  hijras = 히즈라
+  sex assigned at birth = 출생 시 지정 성별
+  sexology = 성과학
+  social construct = 사회적 구성물
+  third gender = 제3의 성
+  two-spirit = 투 스피릿
+  umbrella term = 포괄적 용어
+ENTRY:
+Range of social, psychological, cultural, and behavioral aspects of being a man (or boy), woman (or girl), or portraying a third gender. Gender often corresponds to sex, though a [[Transgender|transgender]] person may identify with a gender other than the sex assigned at birth. Most cultures have a gender binary; those outside it may fall under the umbrella term [[Non-binary|non-binary]]. Some societies have third genders, such as the hijras of [[South Asia]] and two-spirit persons native to North America.
+
+The English word comes from [[Middle English]] *gender*, from Anglo-Norman and Middle French *gendre*, from [[Latin]] *genus*, meaning "kind", "type", or "sort". Before the mid-20th century it was uncommon to use it for anything but grammatical categories. A distinction between biological sex and gender then developed in psychology, sociology, sexology, and [[Feminism|feminism]], and in the 1970s feminist scholars adopted it to separate "socially constructed" aspects of male–female differences from "biologically determined" ones. Most contemporary social scientists in Western countries, many biologists, many legal systems, and the WHO make this distinction.
+
+The subject is contested. Critics of the sex-gender distinction argue that it obscures the biological reality of sex, which they define by the two gamete types, and that policies prioritizing gender identity disadvantage women in athletics. Supporters of gender-identity-inclusive policies respond that the distinction reflects real differences between bodily traits and social roles or identity, and that inclusion can be balanced with fairness through eligibility rules. Reported prevalence of gender dysphoria has risen among youth since the early 2010s; proposed explanations include greater social acceptance, peer and online influence, and changes in clinical practice, and their relative weight is disputed. The social sciences often treat gender as a social construct, while the natural sciences investigate how far biology shapes it. Estimates of how common [[Intersex|intersex]] conditions are range from about 0.018% of births to about 1.7%, depending on definition.
+
+=== KEY: Gender_equality_fb13a1
+HEADWORD: Gender equality = 성평등
+LEVEL: 4
+GLOSSARY:
+  Book = 책
+  Christine de Pizan = 크리스틴 드 피장
+  City = 도시
+  Gender = 젠더
+  Gender equality = 성평등
+  Goal = 『골』
+  Human = 인간
+  Human Development Reports = 인간 개발 보고서
+  Shakers = 셰이커교
+  Sustainable Development Goals = 지속 가능 발전 목표
+  UNICEF = 유니세프
+  United Nations = 국제 연합
+  United Nations Sustainable Development Goals = 유엔 지속 가능 발전 목표
+  eldress = 여성 장로
+  gender equity = 성 형평성
+  gender neutrality = 성 중립
+  gender pay gap = 성별 임금 격차
+ENTRY:
+State in which people of every [[Gender|gender]] have equal ease of access to resources and opportunities. Gender equality is the goal, while gender neutrality and gender equity are practices that help achieve it. [[UNICEF]] defines it as women and men, girls and boys enjoying the same rights, resources, opportunities and protections, without requiring them to be treated identically. It is Goal 5 of the [[United Nations]] Sustainable Development Goals, and gender inequality is measured annually in the Human Development Reports. Early advocates included [[Christine de Pizan]], who argued in *The Book of the City of Ladies* (1405) that the oppression of women rested on irrational prejudice. The [[Shakers]], a celibate group, paired each male elder with a female eldress in their leadership. Debate continues over the causes of remaining gaps, such as the gender pay gap, with some analysts attributing raw differences largely to occupation, hours worked and career breaks.
+
+=== KEY: Gene_624aa1
+HEADWORD: Gene = 유전자
+LEVEL: 3
+GLOSSARY:
+  DNA = DNA
+  Gene = 유전자
+  Gene expression = 유전자 발현
+  Genetic drift = 유전적 부동
+  Human genome = 인간 유전체
+  Kostas Kampourakis = 코스타스 캄푸라키스
+  Mendelian gene = 멘델 유전자
+  Mutation = 돌연변이
+  Natural selection = 자연 선택
+  RNA = RNA
+  Richard = 리처드
+  Richard Dawkins = 리처드 도킨스
+  The Selfish Gene = 『이기적 유전자』
+  allele = 대립 유전자
+  alleles = 대립 유전자
+  base pairs = 염기쌍
+  gene expression = 유전자 발현
+  genetic drift = 유전적 부동
+  human genome = 인간 유전체
+  introns = 인트론
+  molecular biology = 분자생물학
+  molecular genetics = 분자유전학
+  natural selection = 자연 선택
+  nucleotides = 뉴클레오타이드
+  phenotype = 표현형
+  protein-coding genes = 단백질 암호화 유전자
+  pseudogenes = 위유전자
+  repressor = 억제인자
+  ribosomal RNA = 리보솜 RNA
+  transcription unit = 전사 단위
+  transfer RNA = 운반 RNA
+ENTRY:
+Basic unit of heredity in biology, with two meanings. The Mendelian gene is the classical unit of heredity and refers to any heritable trait; in *The Selfish Gene*, [[Richard Dawkins]] argues that it is the unit of evolution. The molecular gene, the sense more common in biochemistry and molecular biology, is a sequence of nucleotides in [[DNA]] that is transcribed to produce [[RNA]]. There are two types: protein-coding genes and non-coding genes. During [[Gene expression|gene expression]], DNA is first copied into RNA, which can be directly functional or serve as the template for synthesis of a protein.
+
+Genes and their regulatory sequences are mainly responsible for determining an organism's physical traits, or phenotype. A gene can acquire [[Mutation|mutations]], producing variants known as alleles that may be expressed as different traits. Populations evolve when allele frequencies shift, mostly through [[Natural selection|natural selection]] and [[Genetic drift|genetic drift]].
+
+Early work in molecular genetics suggested that one gene makes one protein. Genes producing repressor RNAs were proposed in the 1950s, and by the 1960s textbooks included noncoding genes for functional RNAs such as ribosomal RNA and transfer RNA. Most definitions treat a gene as a transcription unit and regard regulatory sequences as controlling expression without being part of the gene; Kostas Kampourakis emphasizes that a gene must encode a functional product, so transcribed pseudogenes and transcription noise do not qualify. Some publications still restrict the term to protein-coding genes.
+
+The discovery of introns in the 1970s showed that many eukaryotic genes are much larger than their functional products imply. Typical mammalian protein-coding genes are about 62,000 base pairs long in the transcribed region, and since there are about 20,000 of them they occupy about 35–40% of the mammalian genome. In the [[Human genome|human genome]], the approximately 19,000 to 20,000 protein-coding genes make up about 1.5% of the total DNA sequence.
+
+=== KEY: Gene_Hackman_d3692b
+HEADWORD: Hackman, Gene = 해크먼, 진
+LEVEL: 5
+GLOSSARY:
+  Academy Awards = 아카데미상
+  Academy Awards for Best Actor = 아카데미 남우주연상
+  Actor = 배우
+  Best Actor = 남우주연상
+  Best Supporting Actor = 남우조연상
+  China = 중국
+  Clint Eastwood = 클린트 이스트우드
+  French = 프랑스어
+  Hollywood = 할리우드
+  Lex Luthor = 렉스 루터
+  Marine Corps = 해병대
+  New Hollywood = 뉴 할리우드
+  Shanghai = 상하이
+  Superman = 슈퍼맨
+  The French Connection = 「프렌치 커넥션」
+  Unforgiven = 「용서받지 못한 자」
+  United States = 미국
+  United States Marine Corps = 미국 해병대
+ENTRY:
+American actor and novelist, a paragon of the [[New Hollywood]] movement. He enlisted in the [[United States Marine Corps]] at 16 by lying about his age, and served four and a half years as a field radio operator, stationed in China, including in [[Shanghai]]. He won Academy Awards for Best Actor for *The French Connection* (1971) and for Best Supporting Actor for *Unforgiven* (1992), in which he played a cruel sheriff in [[Clint Eastwood|Clint Eastwood's]] western. He played Lex Luthor in three Superman films. He retired from acting in 2004 and wrote novels.

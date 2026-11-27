@@ -1,0 +1,824 @@
+=== KEY: Fatigue_material_c3fe6d
+HEADWORD: Fatigue = 피로
+LEVEL: 4
+GLOSSARY:
+  Ceramic = 세라믹
+  Once = 『Once』
+  Plastic = 플라스틱
+  Stress (mechanics) = 응력
+  coupons = 시험편
+  grain boundaries = 결정립계
+  metal fatigue = 금속 피로
+  persistent slip bands = 지속 슬립 띠
+  striations = 줄무늬
+  yield strength = 항복 강도
+ENTRY:
+Initiation and propagation of cracks in a material due to repeated loading. Once a fatigue crack forms, it grows a small amount with each cycle, typically leaving striations on the fracture surface, until it reaches a critical size and the structure fractures rapidly. Fatigue damage occurs at stresses far below a material's yield strength, usually starting at [[Stress (mechanics)|stress]] concentrations such as holes, persistent slip bands or grain boundaries in metals. The term metal fatigue reflects its traditional association with metal parts, and a 19th-century belief that railway axles failed because the metal had crystallized has since been disproved. Most materials, including composites, [[Plastic|plastics]] and [[Ceramic|ceramics]], also fail through fatigue. To predict fatigue life, engineers test coupons under constant-amplitude cyclic loading and average the crack growth over thousands of cycles.
+
+=== KEY: Fatima_2c68c7
+HEADWORD: Fatima = 파티마
+LEVEL: 4
+GLOSSARY:
+  Ali = 알리 이븐 아비 탈리브
+  Fatima = 파티마
+  Hasan = 하산
+  Husayn = 후세인
+  Islam = 이슬람교
+  Jesus = 예수
+  Khadija = 하디자
+  Mary, mother of Jesus = 성모 마리아
+  Muhammad = 무함마드
+  Sayyidat Nisa' al-Janna = 사이이다트 니사 알잔나
+  Shia = 시아파
+  Shia Islam = 시아파
+  Sunni = 수니파
+  al-Zahra = 알자흐라
+  hadith = 하디스
+  imam = 이맘
+ENTRY:
+Daughter of the Islamic prophet [[Muhammad]] and his wife Khadija, revered as a central figure in Islam. Her husband was [[Ali]], who is regarded as the first Shia imam, and her sons Hasan and Husayn were the second and third Shia imams. Her most common epithet, al-Zahra ("the radiant"), is central to Shia belief, and in both Shia and Sunni collections of hadith she is called Sayyidat Nisa' al-Janna ("mistress of the women of paradise"). Muhammad is said to have regarded her as the best of women and the dearest person to him. She is often viewed as an archetype for Muslim women, an example of compassion, generosity and endurance of suffering, and has been compared to [[Mary, mother of Jesus]], especially in [[Shia Islam]]. Through Fatima, Muhammad's family line has survived to the present, and her name remains a popular choice for Muslim girls.
+
+=== KEY: Fatimid_Caliphate_cea0e0
+HEADWORD: Fatimid Caliphate = 파티마 왕조
+LEVEL: 4
+GLOSSARY:
+  Abdallah al-Mahdi Billah = 압달라 알마흐디 빌라
+  Abu Abdallah = 아부 압달라
+  Aghlabids = 아글라브 왕조
+  Ali = 알리 이븐 아비 탈리브
+  Asia = 아시아
+  Ayyubid = 아이유브 왕조
+  Ayyubid dynasty = 아이유브 왕조
+  Cairo = 카이로
+  Christians = 기독교인
+  Crusaders = 십자군
+  Egypt = 이집트
+  Fatima = 파티마
+  Fatimids = 파티마 왕조
+  Hejaz = 히자즈
+  Ifriqiya = 이프리키야
+  Isma'ili = 이스마일파
+  Jews = 유대인
+  Kutama = 쿠타마족
+  Levant = 레반트
+  Maghreb = 마그레브
+  Muhammad = 무함마드
+  Muslims = 무슬림
+  North Africa = 북아프리카
+  Saladin = 살라딘
+  Seljuk = 셀주크
+  Seljuk Turks = 셀주크 튀르크
+  Shi'a = 시아파
+  Sicily = 시칠리아
+  Turks = 튀르크인
+  West Asia = 서아시아
+  al-Mahdiyya = 알마흐디야
+  al-Mansuriyya = 알만수리야
+  religious tolerance = 종교적 관용
+ENTRY:
+Isma'ili Shi'a caliphate that ruled North Africa, Egypt and parts of West Asia from 909 to 1171. Its rulers claimed descent from the prophet Muhammad through his daughter [[Fatima]] and her husband [[Ali]]. The state was founded after Abu Abdallah led Kutama tribal forces against the Aghlabids in Ifriqiya, and Abdallah al-Mahdi Billah became the first caliph in 909. The capital moved to al-Mahdiyya in 921 and to al-Mansuriyya in 948. After conquering Egypt in 969, the Fatimids made [[Cairo]] their capital in 973. At its height the caliphate included Egypt, parts of the Maghreb, [[Sicily]], the Levant and the Hejaz, and it allowed a degree of religious tolerance towards non-Shi'a Muslims, Jews and Christians. After a civil war in the 1060s and encroachment by Seljuk Turks and Crusaders, the caliphate declined rapidly. In 1171 [[Saladin]] abolished the dynasty and founded the Ayyubid dynasty.
+
+=== KEY: Fatty_acid_156f2f
+HEADWORD: Fatty acid = 지방산
+LEVEL: 4
+GLOSSARY:
+  Carboxylic acid = 카르복실산
+  Lipid = 지질
+  Michel Eugène Chevreul = 미셸 외젠 슈브뢸
+  Soap = 비누
+  aliphatic = 지방족
+  cholesteryl esters = 콜레스테릴 에스테르
+  hydrogenation = 수소화
+  phospholipids = 인지질
+  ruminants = 반추동물
+  sodium hydroxide = 수산화 나트륨
+  stearic acid = 스테아르산
+  trans fats = 트랜스 지방
+  triglycerides = 트리글리세리드
+ENTRY:
+[[Carboxylic acid]] with an aliphatic chain, either saturated or unsaturated. Most naturally occurring fatty acids have an unbranched chain of an even number of carbon atoms, from 4 to 28. They make up up to 70% by weight of the [[Lipid|lipids]] in some microalgae, and in most organisms occur as esters in triglycerides, phospholipids and cholesteryl esters. Short-chain fatty acids have tails of five or fewer carbons, while very long-chain ones have 22 or more. Saturated fatty acids have no C=C double bonds, and stearic acid, when neutralized with sodium hydroxide, is the most common form of [[Soap|soap]]. Unsaturated fatty acids have one or more double bonds; cis bonds bend the chain and increase membrane fluidity, whereas trans fats are mostly the product of human processing such as hydrogenation, though some occur naturally in the milk and meat of ruminants. The concept was introduced by Michel Eugène Chevreul in 1813.
+
+=== KEY: Fault_geology_9ad2bf
+HEADWORD: Fault = 단층
+LEVEL: 4
+GLOSSARY:
+  Crust (geology) = 지각
+  Earth's crust = 지각
+  Earthquake = 지진
+  Friction = 마찰
+  Plate tectonics = 판 구조론
+  aseismic creep = 비지진성 크리프
+  fault zone = 단층대
+  footwall = 하반
+  hanging wall = 상반
+  megathrust faults = 메가스러스트 단층
+  normal faults = 정단층
+  reverse faults = 역단층
+  seismic waves = 지진파
+  subduction zones = 섭입대
+  transform faults = 변환 단층
+ENTRY:
+Planar fracture or discontinuity in a volume of rock across which significant displacement has occurred. Large faults in Earth's [[Crust (geology)|crust]] result from plate tectonic forces, with the largest forming the boundaries between [[Plate tectonics|plates]], such as the megathrust faults of subduction zones and transform faults. Rapid movement on active faults releases the energy that causes most [[Earthquake|earthquakes]], although some faults slip slowly by aseismic creep. Friction locks a fault until stress builds beyond its strength, and the fault then ruptures, releasing strain energy partly as seismic waves. On a non-vertical fault, the hanging wall lies above the fault plane and the footwall below; in reverse faults the hanging wall moves up, and in normal faults it moves down. A fault zone is a cluster of parallel faults or the zone of crushed rock along a single fault.
+
+=== KEY: Faust_a46067
+HEADWORD: Faust = 파우스트
+LEVEL: 4
+GLOSSARY:
+  Christopher Marlowe = 크리스토퍼 말로
+  Devil = 악마
+  England = 잉글랜드
+  Faustian = 파우스트적
+  German = 독일어
+  Hell = 지옥
+  History = 역사학
+  Johann Georg Faust = 요한 게오르크 파우스트
+  Johann Wolfgang von Goethe = 요한 볼프강 폰 괴테
+  Mephistopheles = 메피스토펠레스
+  The Tragical History of Doctor Faustus = 『포스터스 박사의 비극』
+ENTRY:
+Protagonist of a classic German legend based on Johann Georg Faust, a magician and alchemist. The learned Faust, dissatisfied with the limits of science, theology and the humanities, makes a bargain with the [[Devil]] at a crossroads, exchanging his soul for knowledge and worldly pleasures. The devil's representative, Mephistopheles, serves him for 24 years, after which the early versions have Faust damned and carried off to Hell. The story was popularized in England by [[Christopher Marlowe]], whose *The Tragical History of Doctor Faustus* (c. 1592) gave it a classic treatment. In [[Johann Wolfgang von Goethe|Goethe]]'s reworking, Faust is saved through his constant striving and the virtue of pure-hearted women. "Faust" and the adjective "Faustian" imply sacrificing spiritual values for power, knowledge or material gain.
+
+=== KEY: Fawlty_Towers_bca2a1
+HEADWORD: Fawlty Towers = 폴티 타워스
+LEVEL: 5
+GLOSSARY:
+  100 Greatest British Television Programmes = 가장 위대한 영국 텔레비전 프로그램 100선
+  BBC = BBC
+  BBC Two = BBC 투
+  Basil = 바질
+  Basil Fawlty = 배질 폴티
+  British Film Institute = 영국 영화 협회
+  Connie Booth = 코니 부스
+  Devon = 데번주
+  Film = 영화
+  John = 존
+  John Cleese = 존 클리스
+  Monty Python = 몬티 파이선
+  Radio Times = 『라디오 타임스』
+  Sitcom = 시트콤
+  Sybil = 시빌
+  Television = 텔레비전
+  Torquay = 토키
+ENTRY:
+British television [[Sitcom|sitcom]] by [[John Cleese]] and Connie Booth, broadcast on [[BBC]] Two in 1975 and 1979. Set in a dysfunctional hotel in Torquay, [[Devon]], it was inspired by the owner of a hotel where the [[Monty Python]] group stayed in 1970. Its farcical plots center on the tense owner Basil Fawlty and his bossy wife Sybil. The British Film Institute ranked it first among the 100 Greatest British Television Programmes in 2000, and a 2019 Radio Times panel of comedy experts named it the greatest British TV sitcom.
+
+=== KEY: Fax_9810aa
+HEADWORD: Fax = 팩스
+LEVEL: 5
+GLOSSARY:
+  Email = 이메일
+  World Wide Web = 월드 와이드 웹
+  bitmap = 비트맵
+  facsimile = 팩시밀리
+ENTRY:
+Method of transmitting scanned printed material, such as text or images, over a telephone line (short for facsimile). The document is scanned into a bitmap, sent as audio tones, and printed by the receiving machine. From the 1980s most machines compressed the data so that all-white or all-black areas were sent more quickly. Fax machines became ubiquitous in offices in the 1980s and 1990s, but have largely been replaced by [[Email|email]] and the [[World Wide Web|web]], though they remain in some medical administration and law enforcement settings.
+
+=== KEY: Faye_Dunaway_b49374
+HEADWORD: Dunaway, Faye = 더너웨이, 페이
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  BAFTA = 영국 아카데미 영화상
+  BAFTA Award = 영국 아카데미상
+  Bonnie Parker = 보니 파커
+  Bonnie and Clyde = 「우리에게 내일은 없다」
+  Chinatown = 「차이나타운」
+  Emmy = 에미상
+  Emmy Award = 에미상
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Golden Globe Awards = 골든 글로브상
+  Joan Crawford = 조앤 크로퍼드
+  Mommie Dearest = 「친애하는 어머니」
+  Network = 「네트워크」
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Award = 프라임타임 에미상
+  Warren Beatty = 워런 비티
+ENTRY:
+American actress, winner of an Academy Award for *Network* (1976). Her breakthrough came as the outlaw Bonnie Parker beside [[Warren Beatty]] in *Bonnie and Clyde* (1967), which earned her first Academy Award nomination. Other films include *Chinatown* (1974), for which she received a second nomination, and *Mommie Dearest* (1981), in which she portrayed [[Joan Crawford]]. She has also won a Primetime Emmy Award, three Golden Globe Awards and a BAFTA Award.
+
+=== KEY: Faye_Wong_c9af5a
+HEADWORD: Wong, Faye = 왕페이
+LEVEL: 5
+GLOSSARY:
+  2046 = 「2046」
+  Cantonese = 광둥어
+  Cantopop = 칸토팝
+  Chungking Express = 「중경삼림」
+  Fragile Woman = 「容易受傷的女人」
+  Guinness = 기네스
+  Guinness World Records = 기네스 세계 기록
+  Hong Kong = 홍콩
+  Mandarin = 표준 중국어
+  Shirley Wong = 「Shirley Wong」
+  Woman = 여성
+  Wong Kar-wai = 왕자웨이
+  World = 세계
+ENTRY:
+Hong Kong singer-songwriter and actress. Her debut album, *Shirley Wong* (1989), was in Cantonese, and her breakthrough came with the Cantopop song "Fragile Woman" in 1992. Since the late 1990s she has recorded mainly in Mandarin. In 2000 [[Guinness World Records]] recognized her as the best-selling Cantopop female artist. She is best known in the West for her roles in [[Wong Kar-wai]]'s *Chungking Express* (1994) and *2046* (2004). After her second marriage in 2005 she withdrew from the limelight, making only occasional stage appearances.
+
+=== KEY: Fear_85caab
+HEADWORD: Fear = 공포
+LEVEL: 3
+GLOSSARY:
+  Adrenaline = 아드레날린
+  Albert = 앨버트
+  Anxiety = 불안
+  Brainstem = 뇌줄기
+  Cortisol = 코르티솔
+  Emotion = 감정
+  Evolutionary psychology = 진화 심리학
+  Fear = 공포
+  Fear conditioning = 공포 조건화
+  John = 존
+  Little Albert = 꼬마 앨버트
+  Little Albert experiment = 어린 앨버트 실험
+  Natural selection = 자연 선택
+  Phobia = 공포증
+  Santa Claus = 산타클로스
+  amygdala = 편도체
+  electrodermal activity = 피부 전기 활동
+  evolutionary psychology = 진화심리학
+  fight-or-flight = 투쟁-도피 반응
+  hypothalamus = 시상하부
+  natural selection = 자연 선택
+  preparedness = 대비
+  simians = 진원류
+  specific phobias = 특정 공포증
+  startle = 놀람 반응
+ENTRY:
+[[Emotion|Emotional]] state aroused by threatening situations, usually regarded as negative and unpleasant. Fear can result directly from sensory stimulation, such as sounds resembling screaming, from anticipating that undesirable events may occur, or from imagining threats that may not be real.
+
+In humans, fear is correlated with more rapid breathing and heart rate, dilation of the pupils, spikes in [[Cortisol|cortisol]] levels, and elevated electrodermal activity, changes that overlap considerably with other negative, arousing emotions. Behavioral reactions include the startle, fight-or-flight, and freeze responses. The amygdala serves as a central hub for threat detection, interfacing with the hypothalamus and [[Brainstem|brainstem]] to trigger release of [[Adrenaline|adrenaline]]. Fear is distinguished from [[Anxiety|anxiety]], a diffuse, future-oriented apprehension, by its focus on specific, proximate stimuli. Its subjective experience is shaped by individual differences, situational factors, and culture, and it may be pleasurable and deliberately sought in thrilling activities and horror films. Maladaptive levels are associated with specific [[Phobia|phobias]] and with depression, anxiety, and suicidality.
+
+Although many fears are learned, the capacity to fear is part of human nature, and certain fears, such as of animals and heights, are far more common and easier to induce than others, such as of flowers or clouds. This phenomenon, called preparedness, is theorized to be a genetic effect of [[Natural selection|natural selection]]. From an [[Evolutionary psychology|evolutionary psychology]] perspective, fear of heights may be common to all mammals and fear of snakes to all simians.
+
+Fear conditioning was first studied in John B. Watson's Little Albert experiment in 1920, in which an 11-month-old boy was conditioned to fear a white rat; the fear generalized to other white, furry objects, including a rabbit, a dog, and a Santa Claus mask.
+
+=== KEY: Feather_5000a6
+HEADWORD: Feather = 깃털
+LEVEL: 4
+GLOSSARY:
+  Bird = 조류
+  Dinosaur = 공룡
+  Goose = 기러기
+  Hunting = 사냥
+  Vaned feathers = 깃가지 깃털
+  down feathers = 솜털깃
+  eider = 솜털오리
+  follicles = 모낭
+  integumentary = 외피
+  non-avian dinosaurs = 비조류 공룡
+  plumage = 깃털
+  quill pens = 깃펜
+  rectrices = 꽁지깃
+  remiges = 날개깃
+  β-keratin = β-케라틴
+ENTRY:
+Epidermal growth forming the outer covering, or plumage, of [[Bird|birds]] and some non-avian [[Dinosaur|dinosaurs]]. Feathers are among the most complex integumentary structures in vertebrates. They aid flight, thermal insulation and waterproofing, while coloration helps with communication and protection. Vaned feathers cover the body, down feathers lie beneath them, and the remiges and rectrices of the wings and tail are the most important for flight. Feathers form in follicles in the epidermis and are made of tough β-keratin proteins. Goose and eider down have great loft, trapping insulating air, and quill pens were once made from large bird feathers. Hunting birds for ornamental feathers endangered some species, and feathers used in fashion today are a waste product of poultry farming.
+
+=== KEY: Feces_f7b25c
+HEADWORD: Feces = 대변
+LEVEL: 5
+GLOSSARY:
+  Dung beetle = 쇠똥구리
+  Feces = 대변
+  Large intestine = 대장
+  Solid = 고체
+  cloaca = 총배설강
+  defecation = 배변
+  fecal transplants = 분변 이식
+  large intestine = 큰창자
+  skatole = 스카톨
+  small intestine = 소장
+  thiols = 티올
+ENTRY:
+Solid or semisolid remains of food that was not digested in the small intestine and was broken down by bacteria in the [[Large intestine|large intestine]]. Feces are discharged through the anus or cloaca during defecation. Their odor comes from skatole and sulfur-containing thiols, among other compounds. Although lower in energy than the original food, feces may retain about 50% of that energy, and many organisms feed on them, from bacteria to [[Dung beetle|dung beetles]]. Feces can be used as fertilizer, burned as fuel or dried for construction, and fecal transplants are used in medicine.
+
+=== KEY: Federal_Bureau_of_Investigation_ea7528
+HEADWORD: Federal Bureau of Investigation = 연방수사국
+LEVEL: 5
+GLOSSARY:
+  Bureau of Investigation = 수사국
+  COINTELPRO = 코인텔프로
+  Department of Justice = 법무부
+  Justice = 정의
+  United States = 미국
+  United States Department of Justice = 미국 법무부
+  Washington = 워싱턴주
+  Washington, D.C. = 워싱턴 D.C.
+  counterintelligence = 방첩
+ENTRY:
+U.S. federal law enforcement agency and the domestic intelligence and security service of the United States, part of the [[United States Department of Justice|Department of Justice]]. It has jurisdiction over more than 200 categories of federal crimes and leads counterterrorism, counterintelligence and cybercrime investigations. Founded in 1908 as the Bureau of Investigation and renamed in 1935, it maintains 56 field offices and is headquartered in [[Washington, D.C.]] Its history includes the [[COINTELPRO]] program (1956–1971), which used covert actions against perceived domestic subversives and drew criticism.
+
+=== KEY: Federal_Reserve_b23d8b
+HEADWORD: Federal Reserve = 연방준비제도
+LEVEL: 5
+GLOSSARY:
+  Congress = 의회
+  Federal Open Market Committee = 연방공개시장위원회
+  Federal Reserve = 연방준비제도
+  Federal Reserve Act = 연방준비법
+  Federal Reserve Banks = 연방준비은행
+  Inflation = 인플레이션
+  United States = 미국
+  federal funds rate = 연방 기금 금리
+  lender-of-last-resort = 최종 대부자
+ENTRY:
+Central banking system of the United States, created by the Federal Reserve Act on December 23, 1913, after a series of financial panics. Congress set three monetary objectives: maximum employment, stable prices and moderate long-term interest rates. The Federal Open Market Committee sets policy by adjusting the federal funds rate target, and twelve regional Federal Reserve Banks supervise privately owned commercial banks. Supporters credit its lender-of-last-resort actions with stabilizing the financial system in 2008, while critics point to more than 9,000 bank failures from 1930 to 1933 and to its approach to [[Inflation|inflation]].
+
+=== KEY: Federal_government_of_the_United_States_3b36e5
+HEADWORD: Federal government of the United States = 미국 연방 정부
+LEVEL: 5
+GLOSSARY:
+  Congress = 의회
+  Constitution = 헌법
+  Constitution of the United States = 미국 헌법
+  Court = 법원
+  Indigenous = 원주민
+  Supreme Court of the United States = 미국 연방 대법원
+  United States = 미국
+  Washington = 워싱턴주
+  White = 흰색
+  White House = 백악관
+ENTRY:
+National government of the United States, with legislative, executive and judicial branches defined by the [[Constitution of the United States|Constitution]], in effect since 1789. It shares sovereignty with each of the 50 states in a federal division of power. Its branches are Congress, the presidency and federal agencies, and the [[Supreme Court of the United States|Supreme Court]] and subordinate federal courts. Indigenous tribes are recognized as having sovereign powers while remaining subject to federal jurisdiction. "Washington" and "White House" are sometimes used as metonyms for the government.
+
+=== KEY: Federalism_71ab98
+HEADWORD: Federalism = 연방주의
+LEVEL: 4
+GLOSSARY:
+  Argentina = 아르헨티나
+  Australia = 오스트레일리아
+  Brazil = 브라질
+  Canada = 캐나다
+  Confederacy = 남부 연합
+  Constitution = 헌법
+  Federalism = 연방주의
+  Germany = 독일
+  India = 인도
+  James = 야고보
+  James Madison = 제임스 매디슨
+  Johannes Althusius = 요하네스 알투지우스
+  Madison = 매디슨
+  Mexico = 멕시코
+  Montesquieu = 몽테스키외
+  Nigeria = 나이지리아
+  Old Swiss Confederacy = 구스위스 연방
+  Russia = 러시아
+  Swiss Confederacy = 스위스 연방
+  Switzerland = 스위스
+  U.S. Constitution = 미국 헌법
+  United States = 미국
+  confederalism = 국가 연합주의
+  devolution = 권한 이양
+  unitary state = 단일 국가
+ENTRY:
+Mode of government that combines a central government with regional sub-unit governments, such as states, provinces or cantons, and divides powers between the two levels. Federalism differs from confederalism, in which the central government is subordinate to the regional states, and from the unitary state, in which the regions are subordinate to the central government even after a devolution of powers. Johannes Althusius and Montesquieu are considered the fathers of modern federalism. The first modern federal union was formed by states of the Old Swiss Confederacy in the mid-14th century. Federal systems today include Argentina, Australia, Brazil, Canada, [[Germany]], India, Mexico, Nigeria, Russia, [[Switzerland]] and the [[United States]]. James Madison described the new U.S. Constitution as "neither a national nor a federal Constitution, but a composition of both."
+
+=== KEY: Federalist_Party_9bfbc6
+HEADWORD: Federalist Party = 연방당
+LEVEL: 5
+GLOSSARY:
+  Alexander Hamilton = 알렉산더 해밀턴
+  Conservative = 보수당
+  Democratic-Republican Party = 민주공화당
+  England = 잉글랜드
+  Great Britain = 그레이트브리튼
+  Jay Treaty = 제이 조약
+  John = 존
+  John Adams = 존 애덤스
+  New England = 뉴잉글랜드
+  Party = 파티
+  Treaty = 조약
+  United States = 미국
+  War of 1812 = 1812년 전쟁
+  national bank = 국립 은행
+ENTRY:
+Conservative and nationalist American political party, the first known political party in the United States. It dominated the national government from 1789 to 1801 under the leadership of [[Alexander Hamilton]], whose policies included a national bank, tariffs and good relations with [[Great Britain]], expressed in the Jay Treaty of 1794. Its only president was [[John Adams]]. The party was defeated in 1800 by the [[Democratic-Republican Party]] and kept its stronghold in New England. It opposed the [[War of 1812]], briefly revived, and collapsed after its last presidential candidate in 1816.
+
+=== KEY: Federated_States_of_Micronesia_001f2e
+HEADWORD: Federated States of Micronesia = 미크로네시아 연방
+LEVEL: 4
+GLOSSARY:
+  Chuuk = 추크
+  Compact of Free Association = 자유 연합 협정
+  Equator = 적도
+  Kosrae = 코스라에
+  Oceania = 오세아니아
+  Pacific = 태평양
+  Pacific Islands = 태평양 제도
+  Palikir = 팔리키르
+  Pohnpei = 폰페이
+  Trust Territory of the Pacific Islands = 태평양 제도 신탁 통치령
+  United Nations = 국제 연합
+  United States = 미국
+  Yap = 야프섬
+  exclusive economic zone = 배타적 경제 수역
+ENTRY:
+Island country in [[Oceania]], consisting of four states, Yap, Chuuk, Pohnpei and Kosrae, that span the western Pacific just north of the [[Equator|equator]]. The states comprise around 607 islands with a combined land area of approximately 702 sq km (271 sq mi), but its waters occupy nearly 3 million sq km, giving it the 14th-largest exclusive economic zone in the world. The capital is Palikir, on Pohnpei Island. The islands were part of the former United Nations Trust Territory of the Pacific Islands, administered by the United States from 1947 to 1994. The country became independent on November 3, 1986, under a Compact of Free Association with the United States, and has a seat in the [[United Nations]].
+
+=== KEY: Federation_43db2a
+HEADWORD: Federation = 연방
+LEVEL: 4
+GLOSSARY:
+  Federated States of Micronesia = 미크로네시아 연방
+  France = 프랑스
+  Germany = 독일
+  India = 인도
+  Japan = 일본
+  Micronesia = 미크로네시아
+  Nevis = 네비스섬
+  Nigeria = 나이지리아
+  Russia = 러시아
+  Saint = 성인
+  Saint Kitts = 세인트키츠섬
+  Saint Kitts and Nevis = 세인트키츠 네비스
+  Unitary state = 단일 국가
+  United States = 미국
+  federal capital territory = 연방 수도 구역
+ENTRY:
+Political union of partially self-governing provinces, states or other regions under a federal government. The self-governing status of the component units and the division of power between them and the central government are constitutionally entrenched and cannot be altered unilaterally. Federations are often multi-ethnic and cover large territories, such as [[Russia]], the [[United States]] and [[India]], but size is not required, as in Saint Kitts and Nevis and the [[Federated States of Micronesia]]. France and Japan are [[Unitary state|unitary states]]. Germany, with 16 states, and Nigeria, with 36 states and a federal capital territory, are federations. Roughly 40 per cent of the world's population lives in countries described as federal.
+
+=== KEY: Federico_Fellini_248416
+HEADWORD: Fellini, Federico = 펠리니, 페데리코
+LEVEL: 4
+GLOSSARY:
+  8½ = 「8½」
+  Academy Awards = 아카데미상
+  Amarcord = 「아마코드」
+  Best Foreign Language Film = 외국어 영화상
+  Fellini Satyricon = 「사티리콘」
+  Fellini's Casanova = 「카사노바」
+  Film = 영화
+  I Vitelloni = 「비텔로니」
+  Juliet of the Spirits = 「영혼의 줄리에타」
+  La Dolce Vita = 「달콤한 인생」
+  La Strada = 「길」
+  Language = 언어
+  Nights of Cabiria = 「카비리아의 밤」
+  Palme d'Or = 황금종려상
+  Roma = 「로마」
+  Satyricon = 『사티리콘』
+  Sound = 소리
+ENTRY:
+Italian film director and screenwriter known for a style that blends fantasy and baroque images with earthiness. Sight & Sound ranks his *8½* (1963) as the 10th-greatest film of all time. His best-known films include *I Vitelloni* (1953), *La Strada* (1954), *Nights of Cabiria* (1957), *La Dolce Vita* (1960), which won the Palme d'Or, and *Amarcord* (1973). He was nominated for 17 [[Academy Awards]], winning four, all in the Best Foreign Language Film category, a record. He also received an honorary statuette for lifetime achievement at the 65th Academy Awards. Later films include *Juliet of the Spirits* (1965), *Fellini Satyricon* (1969), *Roma* (1972) and *Fellini's Casanova* (1976). In Sight & Sound's 2002 poll of directors he was ranked second.
+
+=== KEY: Federico_Garc_a_Lorca_e45d80
+HEADWORD: García Lorca, Federico = 가르시아 로르카, 페데리코
+LEVEL: 4
+GLOSSARY:
+  Andalusia = 안달루시아
+  Blood = 혈액
+  Blood Wedding = 『피의 결혼』
+  City = 도시
+  Civil War = 남북 전쟁
+  Generation of '27 = 27세대
+  Gypsy = 「집시」
+  Gypsy Ballads = 『집시 민요집』
+  Nationalist = 국민파
+  Nationalist forces = 국민혁명군
+  New York City = 뉴욕
+  Romancero gitano = 『집시 민요집』
+  Spanish Civil War = 스페인 내전
+  The House = 하원
+  The House of Bernarda Alba = 『베르나르다 알바의 집』
+  Wedding = 결혼식
+  Yerma = 『예르마』
+  York = 요크
+  futurism = 미래주의
+  surrealism = 초현실주의
+  symbolism = 상징주의
+ENTRY:
+Spanish poet, playwright and theater director, a leading member of the Generation of '27 that introduced European movements such as symbolism, futurism and surrealism into Spanish literature. He rose to fame with *Romancero gitano* (*Gypsy Ballads*, 1928), a book of poems depicting life in his native [[Andalusia]] that combined traditional motifs with avant-garde styles. After a stay in [[New York City]] from 1929 to 1930, he wrote the plays *Blood Wedding* (1932), *Yerma* (1934) and *The House of Bernarda Alba* (1936). He was assassinated by Nationalist forces at the start of the [[Spanish Civil War]], and his remains have never been found. The motive remains in dispute.
+
+=== KEY: Feeling_76fbab
+HEADWORD: Feeling = 느낌
+LEVEL: 4
+GLOSSARY:
+  Antonio Damasio = 안토니오 다마지오
+  Carl Jung = 카를 융
+  Emotion = 감정
+  James = 야고보
+  Phenomenology (philosophy) = 현상학
+  William = 윌리엄
+  William James = 윌리엄 제임스
+  mood = 기분
+ENTRY:
+Conscious subjective experience of [[Emotion|emotion]] or sensation. The term is closely related to, but not the same as, emotion. Neuroscientist Antonio Damasio distinguishes emotions, which are mental images and the bodily changes accompanying them, from feelings, which are the perception of those bodily changes. [[William James]] similarly proposed that feelings result from the perception of bodily changes in response to external stimuli. In the work of [[Carl Jung]], feeling is one of the four primary functions of consciousness, alongside thinking, sensation and intuition. Feeling differs from sensation, which is raw sensory input, and from mood, which is more diffuse and long-lasting. The study of subjective experience is called [[Phenomenology (philosophy)|phenomenology]].
+
+=== KEY: Fela_Kuti_606330
+HEADWORD: Kuti, Fela = 쿠티, 펠라
+LEVEL: 4
+GLOSSARY:
+  Africa '70 = 아프리카 70
+  Afrobeat = 아프로비트
+  Femi Kuti = 페미 쿠티
+  Funk = 펑크
+  Funmilayo Ransome-Kuti = 푼밀라요 랜섬쿠티
+  Jazz = 재즈
+  Kalakuta Republic = 칼라쿠타 공화국
+  Muhammadu Buhari = 무하마두 부하리
+  Nigeria = 나이지리아
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  West African = 서아프리카
+  Women's rights = 여성의 권리
+  military juntas = 군사 정권
+ENTRY:
+Nigerian musician and political activist. He is regarded as the principal innovator of Afrobeat, a genre combining West African music with American [[Funk|funk]] and [[Jazz|jazz]]. In the 1970s his band Africa '70 became popular in Nigeria, and Kuti was an outspoken critic of the country's military juntas. In 1970 he founded the Kalakuta Republic commune, which declared itself independent from military rule. A 1977 army raid destroyed the commune and killed his mother, Funmilayo Ransome-Kuti, a [[Women's rights|women's rights]] activist. Kuti was jailed by the government of Muhammadu Buhari in 1984 and released after 20 months. He continued to record and perform through the 1980s and 1990s, and since his death his music has been reissued under the supervision of his son, Femi Kuti. He was posthumously inducted into the [[Rock and Roll Hall of Fame]] after two previous nominations.
+
+=== KEY: Feldspar_96cb45
+HEADWORD: Feldspar = 장석
+LEVEL: 4
+GLOSSARY:
+  Earth's crust = 지각
+  Igneous rock = 화성암
+  Magma = 마그마
+  Metamorphic rock = 변성암
+  QAPF classification = QAPF 분류
+  Quartz = 석영
+  Sedimentary rock = 퇴적암
+  alkali = 알칼리 장석
+  alkali feldspar = 알칼리 장석
+  anorthosite = 회장암
+  continental crust = 대륙 지각
+  extrusive = 분출암
+  igneous rock = 화성암
+  igneous rocks = 화성암
+  intrusive = 관입암
+  plagioclase = 사장석
+  tectosilicate = 망상 규산염
+ENTRY:
+Group of rock-forming aluminum tectosilicate minerals. Feldspars make up about 60% of the [[Earth's crust|Earth's crust]] and 41% of the Earth's continental crust by weight. They also contain other cations such as sodium, calcium, potassium or barium. The most common members are the plagioclase (sodium-calcium) feldspars and the alkali (potassium-sodium) feldspars. Feldspars crystallize from [[Magma|magma]] as intrusive and extrusive [[Igneous rock|igneous rocks]] and are also present in many [[Metamorphic rock|metamorphic]] and [[Sedimentary rock|sedimentary rocks]]. Rock formed almost entirely of calcic plagioclase is known as anorthosite. The ratio of alkali feldspar to plagioclase feldspar, together with the proportion of [[Quartz|quartz]], is the basis for the QAPF classification of igneous rock.
+
+=== KEY: Felidae_7263e6
+HEADWORD: Felidae = 고양잇과
+LEVEL: 4
+GLOSSARY:
+  Carnivora = 식육목
+  Cats = 「캣츠」
+  Family = 가족
+  Felinae = 고양이아과
+  Felis catus = Felis catus
+  Mammal = 포유류
+  Neofelis = 구름표범속
+  Oligocene = 올리고세
+  Panthera = 표범속
+  Pantherinae = 표범아과
+  obligate carnivores = 절대 육식 동물
+ENTRY:
+Family of [[Mammal|mammals]] in the order [[Carnivora]], the cats. The 41 officially recognized extant species show the greatest diversity in fur patterns of all terrestrial carnivores. Cats have retractile claws, slender muscular bodies, strong flexible forelimbs and a powerful bite, and all are obligate carnivores. Most are solitary predators that ambush or stalk their prey. The living family is divided into two subfamilies. The Pantherinae include five *Panthera* and two *Neofelis* species, while the Felinae include the other 34 species in 12 genera. The first cats emerged during the Oligocene, about 25 million years ago. The domestic cat (*Felis catus*) is the only fully domesticated member of the family.
+
+=== KEY: Felix_Baumgartner_61a306
+HEADWORD: Baumgartner, Felix = 바움가르트너, 펠릭스
+LEVEL: 5
+GLOSSARY:
+  BASE jumper = 베이스 점퍼
+  English Channel = 영국 해협
+  Italy = 이탈리아
+  Mexico = 멕시코
+  New Mexico = 뉴멕시코주
+  Red Bull = 레드불
+  Red Bull Stratos = 레드불 스트라토스
+  Stratosphere = 성층권
+  carbon fiber = 탄소 섬유
+  sound barrier = 음속 장벽
+ENTRY:
+Austrian skydiver and BASE jumper. He was known for jumping from a helium balloon in the [[Stratosphere|stratosphere]] and landing in New Mexico on October 14, 2012, as part of the [[Red Bull]] Stratos project. The jump set world records, including one for an estimated 39 km (24 mi) skydive, and he became the first person to break the sound barrier relative to the surface without vehicular power on his descent. On July 20, 2003, he became the first person to skydive across the [[English Channel]] with a carbon fiber wing. He died in a paragliding accident in Italy.
+
+=== KEY: Felix_Mendelssohn_b27138
+HEADWORD: Mendelssohn, Felix = 멘델스존, 펠릭스
+LEVEL: 4
+GLOSSARY:
+  A Midsummer Night's Dream = 「한여름 밤의 꿈」
+  Angels = 사도
+  Antisemitism = 반유대주의
+  Bach = 바흐
+  Christmas = 크리스마스
+  Dream = 꿈
+  Elijah = 「엘리야」
+  Franz Liszt = 프란츠 리스트
+  German = 독일어
+  Johann Sebastian Bach = 요한 제바스티안 바흐
+  Leipzig = 라이프치히
+  Leipzig Conservatory = 라이프치히 음악원
+  Liszt = 리스트
+  Moses = 모세
+  Moses Mendelssohn = 모제스 멘델스존
+  Passion = 수난
+  Reformed = 개혁파
+  Reformed Christian church = 개혁교회
+  Richard = 리처드
+  Richard Wagner = 리하르트 바그너
+  Romantic = 낭만주의
+  Romantic era = 낭만주의 시대
+  St. Matthew Passion = 「마태 수난곡」
+  Wagner = 바그너
+  Wedding = 결혼식
+  Wedding March = 「결혼 행진곡」
+ENTRY:
+German composer, pianist, organist and conductor of the early Romantic era. His best-known works include the overture and incidental music for *A Midsummer Night's Dream*, including the "Wedding March," the oratorio *Elijah*, and the melody used in the Christmas carol "Hark! The Herald Angels Sing." His performance of the *St. Matthew Passion* in 1829 revived interest in the music of [[Johann Sebastian Bach]]. Although his grandfather was the Jewish philosopher Moses Mendelssohn, he was baptized into the Reformed Christian church at age seven. His essentially conservative tastes set him apart from [[Franz Liszt]] and [[Richard Wagner]], and the [[Leipzig]] Conservatory he founded became a bastion of this outlook. After a long decline in his reputation, partly due to [[Antisemitism|antisemitism]] in the late 19th and early 20th centuries, his creative originality has been re-evaluated.
+
+=== KEY: Fellatio_42f8ad
+HEADWORD: Fellatio = 펠라티오
+LEVEL: 5
+GLOSSARY:
+  Fellatio = 펠라티오
+  Foreplay = 전희
+  HIV = HIV
+  Oral sex = 구강성교
+  Sexually transmitted infection = 성매개 감염병
+  Taboo = 금기
+  Virginity = 처녀성
+  sexually transmitted infections = 성매개 감염
+ENTRY:
+Oral sex act involving stimulation of the penis with the mouth. It may be performed as [[Foreplay|foreplay]] before intercourse or as an intimate sexual act in its own right. Fellatio creates a risk of [[Sexually transmitted infection|sexually transmitted infections]], although the risk is significantly lower than that of vaginal or anal sex, especially for [[HIV]] transmission. Most countries do not ban the practice, though some cultures may consider it [[Taboo|taboo]]. Commonly, people do not view oral sex as affecting the [[Virginity|virginity]] of either partner, though opinions vary.
+
+=== KEY: Felt_512227
+HEADWORD: Felt = 펠트
+LEVEL: 4
+GLOSSARY:
+  Anatolia = 아나톨리아
+  Asia = 아시아
+  Central Asia = 중앙아시아
+  Contemporary art = 현대 미술
+  East Asia = 동아시아
+  Felt = 펠트
+  Rayon = 레이온
+  Tent = 텐트
+  Textile = 직물
+  Turkic-Mongolian = 튀르크-몽골계
+  Western world = 서양
+  acrylic = 아크릴
+  synthetic fibers = 합성 섬유
+  Çatal Hüyük = 차탈회위크
+ENTRY:
+Textile produced by matting, condensing and pressing fibers together. Felt is made from natural fibers such as wool or animal fur, or from synthetic fibers such as petroleum-based acrylic or [[Rayon|rayon]]. Natural fiber felt is fire-retardant and self-extinguishing, dampens vibration and absorbs sound, and can hold large amounts of fluid without feeling wet. Felt from wool is one of the oldest known textiles; possible evidence of felting at Çatal Hüyük in Anatolia dates to about 6000 BCE. Feltmaking most likely originated in East Asia and spread across lands held by Turkic-Mongolian tribes, for whom sheep and camel herds were central to life. For nomads on treeless plains, felt provided [[Tent|tent]] housing, insulation, floor coverings and bedding. Feltmaking is still practiced in [[Central Asia|Central Asia]], and in the Western world felt is used in [[Contemporary art|contemporary art]] and as an ecologically responsible textile and building material.
+
+=== KEY: Female_b719ce
+HEADWORD: Female = 암컷
+LEVEL: 4
+GLOSSARY:
+  Chromosome = 염색체
+  Parthenogenesis = 단위 생식
+  X chromosomes = X 염색체
+  gametes = 생식세포
+  oogamous = 난생식
+  ova = 난자
+ENTRY:
+Sex of an organism that produces ova (♀), the egg cells that fuse with sperm during sexual reproduction. A female's gametes are larger than a male's. In the oogamous pattern found in humans, the female gamete is much larger than the male and cannot move. In species with two sexes, sex may be determined by [[Chromosome|sex chromosomes]] or by environmental conditions, and most female mammals, including human females, have two X chromosomes. In some species females can reproduce without males, for example through [[Parthenogenesis]]. In humans the word can also refer to gender in the social sense.
+
+=== KEY: Female_ejaculation_b95d6e
+HEADWORD: Female ejaculation = 여성 사정
+LEVEL: 5
+GLOSSARY:
+  Bladder = 방광
+  Orgasm = 오르가슴
+  Research = 연구
+  Skene's gland = 스킨샘
+  squirting = 스쿼팅
+ENTRY:
+Expulsion of fluid from the Skene's gland during or before [[Orgasm|orgasm]]. It is also called squirting, although the two are distinct: squirting is a sudden expulsion of liquid that partly comes from the [[Bladder|bladder]] and contains urine. Research has been limited by highly selected participants, small samples and the lack of common definitions. In questionnaire surveys, 35–50% of women report having experienced the gushing of fluid during orgasm. There is substantial evidence that the Skene's gland is the source, although the exact nature of the fluid remains controversial. Its function is unclear.
+
+=== KEY: Female_genital_mutilation_7a59c2
+HEADWORD: Female genital mutilation = 여성 할례
+LEVEL: 4
+GLOSSARY:
+  Anesthesia = 마취
+  Asia = 아시아
+  Progress = 『프로그레스』
+  UNICEF = 유니세프
+  Vulva = 외음부
+  infibulation = 음부 봉쇄
+ENTRY:
+Cutting or removal of some or all of the [[Vulva|vulva]] for non-medical reasons. As of 2024, [[UNICEF]] estimated that more than 230 million girls and women worldwide had been subjected to one or more types of the practice, including over 144 million in Africa and over 80 million in Asia. Progress is too slow and is outpaced by population growth. The practice is typically performed by a traditional cutter with a blade, often without [[Anesthesia|anesthesia]]. In infibulation, the vulva is closed and a small hole is left for urine and menstrual fluid. The practice is rooted in gender inequality, attempts to control female sexuality, and ideas about purity and beauty. It has no known health benefits and can cause recurrent infections, chronic pain and complications in childbirth. It has been outlawed or restricted in most countries where it occurs, although the laws are often poorly enforced.
+
+=== KEY: Female_reproductive_system_177e86
+HEADWORD: Female reproductive system = 여성 생식계
+LEVEL: 4
+GLOSSARY:
+  Clitoris = 음핵
+  Menopause = 폐경
+  Menstruation = 월경
+  Ovary = 난소
+  Uterus = 자궁
+  Vagina = 질
+  blastocyst = 배반포
+  cervix = 자궁경부
+  fallopian tube = 나팔관
+  fallopian tubes = 나팔관
+  labia = 음순
+  menstrual cycle = 월경 주기
+ENTRY:
+Internal and external sex organs of the human female. The internal tract consists of the [[Vagina|vagina]], [[Uterus|uterus]] and fallopian tubes, and it is prone to infections. During the [[Menstruation|menstrual]] cycle an [[Ovary|ovary]] releases an ovum that travels through a fallopian tube toward the uterus. Fertilization usually occurs in a fallopian tube, and the resulting blastocyst implants in the uterine wall to begin gestation. If no fertilization occurs, the uterine lining is shed in menstruation. The external organs, known as the vulva, include the labia and the [[Clitoris|clitoris]]. The cervix connects the uterus to the vagina and dilates during childbirth. Later in life, [[Menopause|menopause]] halts menstruation as the ovaries stop releasing eggs.
+
+=== KEY: Feminine_hygiene_10c7cc
+HEADWORD: Feminine hygiene = 여성 위생용품
+LEVEL: 4
+GLOSSARY:
+  Bacteria = 세균
+  Soap = 비누
+  Vagina = 질
+  Vulva = 외음부
+  bacteriocin = 박테리오신
+  douches = 질 세정제
+  menstrual cups = 생리컵
+  menstrual pads = 생리대
+  pantyliners = 팬티라이너
+  period underwear = 생리 팬티
+  tampons = 탐폰
+  vaginal flora = 질 세균총
+ENTRY:
+Personal care products for menstruation, vaginal discharge and other functions of the [[Vulva|vulva]] and [[Vagina|vagina]]. Disposable products include menstrual pads, pantyliners and tampons. Reusable products include menstrual cups, cloth pads, period underwear and menstrual sponges. Products meant to cleanse the vulva or vagina include douches, feminine wipes and [[Soap|soap]]. Many health professionals advise against douching, which can change the balance of vaginal flora and acidity. The vagina defends itself largely through resident [[Bacteria|bacteria]], which keep the pH acidic, outcompete pathogens and generate antimicrobial compounds such as bacteriocin. Cleansing products may also cause allergic reactions and irritation.
+
+=== KEY: Feminism_3f64a6
+HEADWORD: Feminism = 페미니즘
+LEVEL: 3
+GLOSSARY:
+  A Vindication of the Rights of Woman = 『여성의 권리 옹호』
+  Abortion = 임신 중절
+  Dictionary = 사전
+  Europe = 유럽
+  Feminism = 페미니즘
+  France = 프랑스
+  Liberal = 자유당
+  Mary Wollstonecraft = 메리 울스턴크래프트
+  Oxford = 옥스퍼드
+  Oxford English Dictionary = 『옥스퍼드 영어 사전』
+  Rights = 인권
+  Woman = 여성
+  Women's suffrage = 여성 참정권
+  féminisme = 페미니슴
+  intersectional feminism = 교차 페미니즘
+  patriarchal = 가부장제
+  point of view = 시점
+  radical feminism = 급진적 페미니즘
+  reproductive rights = 재생산권
+ENTRY:
+Range of socio-political movements and ideologies that aim to establish the political, economic, personal, and social equality of the sexes. Feminism holds that modern societies are patriarchal, prioritizing the male point of view, and that women are treated unjustly in them. Originating in late 18th-century Europe, feminist movements have campaigned for the right to vote, run for office, work, earn equal pay, own property, receive education, and enter into contracts, as well as for access to contraception and legal [[Abortion|abortion]] and protection from sexual assault, sexual harassment, and domestic violence.
+
+[[Mary Wollstonecraft]] is seen by many as a founder of feminism because of her 1792 book [[A Vindication of the Rights of Woman|*A Vindication of the Rights of Woman*]], which argued that women as much as men needed equal rights. The word *féminisme* first appeared in France in 1871, and the *Oxford English Dictionary* dates the English use in this sense to 1895; early uses were negative.
+
+Many scholars consider feminist campaigns a main force behind historical changes in women's rights, particularly in the West, where they are widely credited with achieving [[Women's suffrage|women's suffrage]], reproductive rights, and the right to own property. The movement is commonly described in "waves": the first focused on suffrage and property rights, the second on employment discrimination and reproductive autonomy from the mid-20th century, the third on identity and representation from the 1990s, and the fourth on digital activism since the 2010s. Liberal, socialist, and radical feminism are sometimes called the "Big Three" schools. Some newer forms have been criticized for reflecting only white, middle-class, or heterosexual perspectives, prompting black and intersectional feminism. Critics argue that feminism underappreciates biological sex differences, a claim supporters dispute.
+
+=== KEY: Fence_fa1124
+HEADWORD: Fence = 울타리
+LEVEL: 4
+GLOSSARY:
+  Fences = 「펜스」
+  Livestock = 가축
+  Mesopotamia = 메소포타미아
+  Moat = 해자
+  Wall = 벽
+  chain-link fencing = 철망 울타리
+  noise pollution = 소음 공해
+  picket fences = 말뚝 울타리
+  split-rail fences = 가로대 울타리
+ENTRY:
+Freestanding structure that encloses an area, usually built from posts joined by boards, wire, rails or netting. A fence differs from a [[Wall|wall]] in not having a solid foundation along its whole length. A ditch, sometimes filled with water to form a [[Moat|moat]], is an alternative. Fences serve many purposes: agricultural fencing keeps [[Livestock|livestock]] in and predators out, sound barriers reduce noise pollution, and privacy fencing provides security. Common constructions include chain-link fencing, made of wires woven together; picket fences, generally waist-high and decorative; and split-rail fences. Fences are believed to date to about 3500 BCE in Mesopotamia, where they protected livestock.
+
+=== KEY: Fencing_ad0b8f
+HEADWORD: Fencing = 펜싱
+LEVEL: 4
+GLOSSARY:
+  Combat = 『콩바』
+  French = 프랑스어
+  Fédération Internationale d'Escrime = 국제 펜싱 연맹
+  Lausanne = 로잔
+  Olympic Games = 올림픽
+  Switzerland = 스위스
+  foil = 플뢰레
+  sabre = 사브르
+  épée = 에페
+ENTRY:
+Combat sport of sword fighting in three disciplines: foil, épée and sabre. Each discipline has its own blade and rules, and points are scored by making contact with the opponent with one's sword. Modern fencing developed from historical European swordsmanship; the Italian school altered classical fencing, and the French school later refined that system. Competitive fencing has been featured in every modern [[Olympic Games|Olympics]]. The sport is governed by the Fédération Internationale d'Escrime (FIE), headquartered in Lausanne, Switzerland, which has 155 national federations. In pool rounds, bouts are fenced to five hits or a single period of three minutes. Knockout bouts continue until one fencer scores 15 hits or the nine-minute fencing time expires.
+
+=== KEY: Fennec_fox_d30091
+HEADWORD: Fennec fox = 사막여우
+LEVEL: 5
+GLOSSARY:
+  Desert = 사막
+  Extinction = 멸종
+  Insect = 곤충
+  North Africa = 북아프리카
+  Vulpes = 여우속
+  Vulpes zerda = Vulpes zerda
+ENTRY:
+Smallest fox species (*Vulpes zerda*), native to the [[Desert|deserts]] of North Africa. Its unusually large ears dissipate heat and help it listen for underground prey. The fennec mainly eats [[Insect|insects]], small mammals and birds. Families dig sand burrows as large as 120 sq m (1,300 sq ft). Population figures are not precisely known, but sightings suggest the species is not threatened with [[Extinction|extinction]]. It is commonly trapped for exhibition or sale in North Africa and is considered an exotic pet in some parts of the world.
+
+=== KEY: Fennel_28214c
+HEADWORD: Fennel = 회향
+LEVEL: 4
+GLOSSARY:
+  Absinthe = 압생트
+  Anise = 아니스
+  Apiaceae = 미나리과
+  Cultivar = 재배 품종
+  Fennel = 회향
+  Florence = 피렌체
+  Florence fennel = 플로렌스 회향
+  Foeniculum vulgare = Foeniculum vulgare
+  Mediterranean = 지중해
+  anethole = 아네톨
+ENTRY:
+Flowering perennial herb (*Foeniculum vulgare*) in the [[Apiaceae|carrot family]]. It is native to the shores of the Mediterranean and has become widely naturalized elsewhere, especially on dry soils near the sea coast and on riverbanks. The stem can grow to 2.1 meters (7 feet) tall and bears yellow flowers and feathery leaves. Its licorice-like flavor comes from anethole, also found in [[Anise|anise]], and fennel and anise are primary ingredients of [[Absinthe|absinthe]]. Fennel is widely cultivated for its edible leaves and fruits. Florence fennel, a [[Cultivar|cultivar]] with a swollen, bulb-like stem base, is eaten as a vegetable.

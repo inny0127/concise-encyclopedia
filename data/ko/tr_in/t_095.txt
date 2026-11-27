@@ -1,0 +1,849 @@
+=== KEY: Dot_product_4f1c38
+HEADWORD: Dot product = 내적
+LEVEL: 4
+GLOSSARY:
+  Cartesian = 직교 좌표
+  Cartesian coordinate system = 데카르트 좌표계
+  Cartesian coordinates = 데카르트 좌표계
+  Cross product = 벡터곱
+  Euclidean = 유클리드
+  Euclidean geometry = 유클리드 기하학
+  Three-dimensional space = 3차원 공간
+  dot operator = 점 연산자
+  dot product = 스칼라곱
+  scalar product = 스칼라곱
+ENTRY:
+Algebraic operation on two equal-length sequences of numbers, usually coordinate vectors. The dot product is the sum of the products of corresponding entries; for the vectors [1, 3, −5] and [4, −2, −1] it equals 3. Geometrically, it is the product of the two vectors' lengths and the cosine of the angle between them, and the two definitions agree in [[Cartesian coordinate system|Cartesian coordinates]]. In modern [[Euclidean geometry]], lengths and angles are defined through it: a vector's length is the square root of its dot product with itself. The name derives from the dot operator (⋅) used to write it. The alternative name scalar product stresses that the result is a scalar rather than a vector, as with the [[Cross product|vector product]] in [[Three-dimensional space]].
+
+=== KEY: Douala_dfe1fe
+HEADWORD: Douala = 두알라
+LEVEL: 4
+GLOSSARY:
+  Atlantic Ocean = 대서양
+  Atlantic slave trade = 대서양 노예 무역
+  Cameroon = 카메룬
+  Douala = 두알라
+  German = 독일어
+  Port = 항구
+  River = 강
+  Wouri River = 우리강
+  Yaoundé = 야운데
+  civil disobedience = 시민 불복종
+  ghost town operation = 유령 도시 작전
+  slave trade = 노예 무역
+  transatlantic slave trade = 대서양 노예 무역
+  ville morte = 빌 모르트
+ENTRY:
+Port city, largest city and economic capital of Cameroon (pop., 2025: 3,816,500), on the estuary of the Wouri River on the [[Atlantic Ocean|Atlantic]] coast. It handles most of Cameroon's major exports, including oil, cocoa, coffee, timber, metals and fruits, and was home to Central Africa's largest port. The city was a center of the [[Atlantic slave trade|transatlantic slave trade]] in the 18th century and a German protectorate from 1884 to 1895. When Cameroon became independent in 1960, its capital was [[Yaoundé]] and Douala became the major economic city. In 1991 a civil disobedience campaign, the ghost town operation (*ville morte*), shut down economic activity to press for multi-party democracy.
+
+=== KEY: Double_bass_1f54e4
+HEADWORD: Double bass = 더블베이스
+LEVEL: 4
+GLOSSARY:
+  Chamber music = 실내악
+  Classical music = 클래식 음악
+  Concerto = 협주곡
+  Folk music = 민속 음악
+  Orchestra = 관현악단
+  String instrument = 현악기
+  Violin = 바이올린
+  bass fiddle = 베이스 피들
+  bluegrass = 블루그래스
+  blues rock = 블루스 록
+  chamber music = 실내악
+  funk = 펑크
+  pizzicato = 피치카토
+  reggae = 레게
+  rock and roll = 로큰롤
+  symphony orchestra = 교향악단
+ENTRY:
+Largest and lowest-pitched [[String instrument|string instrument]] in the modern [[Orchestra|symphony orchestra]]. It has four or five strings, tuned in fourths (usually E1, A1, D2 and G2) rather than in the fifths of the [[Violin]] family, making it the only modern bowed string instrument so tuned. It is a standard member of the orchestra's string section and is featured in [[Concerto|concertos]] and [[Chamber music|chamber music]] in Western [[Classical music|classical music]]. It is also used in jazz, blues, rock and roll and country music, where pizzicato plucking is the norm, and in [[Folk music|folk]] and bluegrass music it is called the bass fiddle. In funk, blues and reggae it is often amplified.
+
+=== KEY: Double_slit_experiment_794ecf
+HEADWORD: Double-slit experiment = 이중 슬릿 실험
+LEVEL: 5
+GLOSSARY:
+  Light = 빛
+  Photon = 광자
+  Physics = 물리학
+  Richard = 리처드
+  Richard Feynman = 리처드 파인먼
+  Thomas = 토머스
+  Thomas Young = 토머스 영
+  Thomas Young (scientist) = 토머스 영
+  Wave–particle duality = 파동-입자 이중성
+  interference pattern = 간섭무늬
+  quantum mechanics = 양자역학
+  wave theory = 파동설
+  wave theory of light = 빛의 파동설
+ENTRY:
+Physics experiment demonstrating [[Wave–particle duality|wave–particle duality]] in light and matter. First described by [[Thomas Young (scientist)|Thomas Young]] in 1801 to support the wave theory of light, it sends light through two parallel slits, forming an interference pattern of bright and dark bands. Light still arrives at the screen as discrete particle hits, and the pattern no longer forms if detectors show which slit each [[Photon|photon]] passes through. Electrons, atoms and molecules show the same behavior. [[Richard Feynman]] said it contains "the only mystery" of quantum mechanics.
+
+=== KEY: Doubt_818a63
+HEADWORD: Doubt = 의심
+LEVEL: 4
+GLOSSARY:
+  Agnosticism = 불가지론
+  Descartes = 데카르트
+  Doubt = 「다우트」
+  Heresy = 이단
+  Ludwig = 루트비히
+  Ludwig Wittgenstein = 루트비히 비트겐슈타인
+  On Certainty = 『확실성에 관하여』
+  Pascal's wager = 파스칼의 내기
+  Proposition = 명제
+  Sect = 분파
+  Skepticism = 회의주의
+  Søren Kierkegaard = 쇠렌 키르케고르
+  Wittgenstein = 비트겐슈타인
+  methodical doubt = 방법적 회의
+ENTRY:
+Mental state of indecision between two or more contradictory [[Proposition|propositions]], lying between belief and disbelief. It may involve uncertainty, distrust or lack of conviction about facts, actions, motives or decisions, and can delay or reject action out of concern for mistakes. In philosophy, Descartes used methodical doubt as a basic tool. In *On Certainty*, [[Ludwig Wittgenstein]] described how everyday use of the words doubt and certainty works. [[Søren Kierkegaard]] argued that to have belief is at the same time to have doubt. Doubt about the existence of God may lead to [[Agnosticism]] or [[Skepticism|skepticism]], or to acceptance of a religion, as in [[Pascal's wager]]. Doubt about some doctrines can produce [[Heresy|heresy]] and the splitting off of [[Sect|sects]].
+
+=== KEY: Douglas_DC_3_214f6b
+HEADWORD: Douglas DC-3 = 더글러스 DC-3
+LEVEL: 5
+GLOSSARY:
+  Airline = 항공사
+  C-47 Skytrain = C-47 스카이트레인
+  World = 세계
+  World War II = 제2차 세계 대전
+  mail subsidies = 우편 보조금
+ENTRY:
+Propeller-driven airliner and its military transport derivatives. One of the first airliners to profit from carrying only passengers, without mail subsidies, it carried around 90% of the world's [[Airline|airline]] flights in 1939. Civilian production ended in 1943 at 607 aircraft, but military versions, including the C-47 Skytrain, brought total production to over 16,000. It had a lasting effect on the airline industry from the 1930s through [[World War II]].
+
+=== KEY: Douglas_Engelbart_649a25
+HEADWORD: Engelbart, Douglas = 엥겔바트, 더글러스
+LEVEL: 4
+GLOSSARY:
+  ACM Turing Award = ACM 튜링상
+  Augmentation Research Center = 증강 연구 센터
+  Bill Clinton = 빌 클린턴
+  California = 캘리포니아주
+  Computer mouse = 마우스
+  Computer science = 컴퓨터 과학
+  Doctor of Philosophy = 박사 학위
+  National Medal of Technology = 국가 기술 메달
+  Navy = 해군
+  Philippines = 필리핀
+  Research = 연구
+  SRI International = SRI 인터내셔널
+  Technology = 기술
+  The Mother of All Demos = 「모든 데모의 어머니」
+  Turing = 튜링
+  Turing Award = 튜링상
+  U.S. Navy = 미국 해군
+  University = 대학
+  electrical engineering = 전기공학
+  hypertext = 하이퍼텍스트
+  oN-Line System = NLS
+  the Philippines = 필리핀
+ENTRY:
+American engineer and inventor, a pioneer of [[Computer science|computer science]] and human–computer interaction. At the Augmentation Research Center at SRI International, he led development of the oN-Line System, which included the [[Computer mouse|computer mouse]], hypertext and bitmapped screens. These were demonstrated at "The Mother of All Demos" in 1968. He served as a radio and radar technician in the U.S. Navy in the [[Philippines]], then studied electrical engineering at the University of California, Berkeley, earning a [[Doctor of Philosophy|Ph.D.]] in 1955. He won the 1997 ACM Turing Award, and in December 2000 [[Bill Clinton|President Bill Clinton]] awarded him the National Medal of Technology.
+
+=== KEY: Douglas_MacArthur_81bc86
+HEADWORD: MacArthur, Douglas = 맥아더, 더글러스
+LEVEL: 4
+GLOSSARY:
+  Allied forces = 연합군
+  Australia = 오스트레일리아
+  Bonus Army = 보너스 군대
+  China = 중국
+  Commander = 사령관
+  Harry = 해리
+  Harry S. Truman = 해리 S. 트루먼
+  Japan = 일본
+  Korean War = 한국 전쟁
+  Military = 군대
+  Pacific = 태평양
+  Philippines = 필리핀
+  Surrender of Japan = 일본의 항복
+  U.S. Army = 미국 육군
+  U.S. Military Academy = 미국 육군 사관학교
+  United Nations = 국제 연합
+  United Nations Command = 국제연합군 사령부
+  Washington = 워싱턴주
+  Washington, D.C. = 워싱턴 D.C.
+  Western Front = 서부 전선
+  Western Front (World War I) = 서부 전선
+  World = 세계
+  World War I = 제1차 세계 대전
+  World War II = 제2차 세계 대전
+  chief of staff = 수석 장관
+  the Philippines = 필리핀
+ENTRY:
+American general, Supreme Commander of Allied forces in the Southwest Pacific and of the occupation of Japan. He graduated first in his class at the U.S. Military Academy in 1903 and served with distinction in [[World War I]] on the [[Western Front (World War I)|Western Front]]. As chief of staff of the U.S. Army from 1930 to 1935, he was involved in the expulsion of Bonus Army protesters from [[Washington, D.C.]] in 1932. In World War II he escaped to Australia in March 1942 and in October 1944 led the campaign that liberated the Philippines. He accepted the [[Surrender of Japan|surrender of Japan]] in 1945 and oversaw the occupation until 1951. As head of the United Nations Command in the [[Korean War]], he suffered major defeats after China entered the war, and President [[Harry S. Truman]] removed him in April 1951.
+
+=== KEY: Douglas_fir_6b0238
+HEADWORD: Douglas fir = 미송
+LEVEL: 4
+GLOSSARY:
+  Conifer = 구과식물
+  Fir = 전나무
+  North America = 북아메리카
+  Pacific = 태평양
+  Pacific Northwest = 태평양 연안 북서부
+  Pseudotsuga = 미송속
+  Spruce = 가문비나무
+  hemlock = 솔송나무
+  pine family = 소나무과
+ENTRY:
+[[Conifer]] species of the pine family, native to western [[North America]]. Despite its name, it is not a true [[Fir|fir]], [[Spruce|spruce]] or pine; its genus name, Pseudotsuga, means "false hemlock". It is the tallest tree in its family, reaching 20–100 meters (70–330 feet), and the largest coastal trees regularly live over 500 years, with the oldest over 1,300 years. Its thick, corky bark, up to 36 cm (14 in) on mature trees, makes it one of the most fire-resistant trees native to the [[Pacific Northwest]].
+
+=== KEY: Down_syndrome_7a2dfd
+HEADWORD: Down syndrome = 다운 증후군
+LEVEL: 4
+GLOSSARY:
+  Epilepsy = 뇌전증
+  Intellectual disability = 지적 장애
+  Leukemia = 백혈병
+  Pregnancy = 임신
+  congenital heart disease = 선천성 심장병
+  gestational age = 임신 주수
+  intellectual disability = 지적 장애
+  trisomy 21 = 21번 삼염색체증
+ENTRY:
+Genetic disorder, also called trisomy 21, caused by all or part of a third copy of chromosome 21. It is usually associated with developmental delays, mild to moderate [[Intellectual disability|intellectual disability]] and characteristic physical features, and it is the most common chromosomal abnormality, occurring in about 1 in 1,000 babies born worldwide. Incidence rises with maternal age, from less than 0.1% for 20-year-old mothers to 3% for those aged 45. Affected people have an increased risk of congenital heart disease, [[Epilepsy]], [[Leukemia]] and thyroid disease. There is no cure, but education and proper care improve quality of life, and life expectancy is around 50 to 60 years in the developed world. Rates of termination among [[Pregnancy|pregnancies]] diagnosed prenatally range from 50 to 85%, depending on maternal age, gestational age and race or ethnicity.
+
+=== KEY: Download_801ab2
+HEADWORD: Download = 다운로드
+LEVEL: 5
+GLOSSARY:
+  BitTorrent = 비트토렌트
+  Computer network = 컴퓨터 네트워크
+  Napster = 냅스터
+  Streaming media = 스트리밍 미디어
+  YouTube = 유튜브
+ENTRY:
+Receipt of data from a remote system over a [[Computer network|computer network]], such as a web, FTP or email server, as opposed to uploading. A download is also a file offered for, or obtained by, this transfer. Unlike [[Streaming media|streaming]], which uses data while transmission continues, downloading generally transfers entire files for local storage. Sites such as [[YouTube]] increasingly restrict users from saving streamed material. Legal action succeeded against the centralized network [[Napster]] but proved untenable against decentralized networks such as [[BitTorrent]].
+
+=== KEY: Downton_Abbey_dfd87c
+HEADWORD: Downton Abbey = 다운튼 애비
+LEVEL: 5
+GLOSSARY:
+  Crawley = 크롤리
+  Crawley family = 크롤리 가문
+  Dome = 돔
+  Guinness = 기네스
+  Guinness World Records = 기네스 세계 기록
+  ITV = ITV
+  Julian = 율리우스력
+  Julian Fellowes = 줄리언 펠로스
+  PBS = PBS
+  Sinking of the Titanic = 타이태닉호 침몰
+  Spanish flu = 스페인 독감
+  Teapot Dome = 티포트 돔
+  Teapot Dome scandal = 티포트 돔 사건
+  Titanic = 「타이타닉」
+  United States = 미국
+  World = 세계
+  Yorkshire = 요크셔
+ENTRY:
+British historical drama series created by Julian Fellowes, set on a fictional Yorkshire estate from 1912 to 1925. It follows the aristocratic Crawley family and their servants through events including the [[Sinking of the Titanic|sinking of the Titanic]], the [[Spanish flu]] pandemic and the [[Teapot Dome scandal]]. It first aired on ITV in 2010 and on [[PBS]] in the United States. Critics praised it, and [[Guinness World Records]] named it the most critically acclaimed English-language television series of 2011.
+
+=== KEY: Doxycycline_e923ca
+HEADWORD: Doxycycline = 독시사이클린
+LEVEL: 5
+GLOSSARY:
+  Antibiotic = 항생제
+  Chlamydia = 클라미디아 감염증
+  Doryx = 도릭스
+  List of Essential Medicines = 필수 의약품 목록
+  Lyme disease = 라임병
+  Malaria = 말라리아
+  Pneumonia = 폐렴
+  Syphilis = 매독
+  Typhus = 발진티푸스
+  Vibramycin = 바이브라마이신
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  cholera = 콜레라
+  side effects = 부작용
+ENTRY:
+Broad-spectrum tetracycline-class [[Antibiotic|antibiotic]], sold under the brand names Vibramycin and Doryx. It treats infections caused by bacteria and some parasites, including [[Pneumonia|pneumonia]], acne, [[Chlamydia]] infections, [[Lyme disease]], cholera, [[Typhus]] and [[Syphilis]], and is sometimes used to prevent [[Malaria]]. It slows or kills bacteria by inhibiting protein production. Common side effects include diarrhea, nausea and increased sunburn risk. Patented in 1957, it came into commercial use in 1967 and is on the [[World Health Organization]]'s List of Essential Medicines.
+
+=== KEY: Dr_Dre_d5fd1f
+HEADWORD: Dr. Dre = 닥터 드레
+LEVEL: 5
+GLOSSARY:
+  50 Cent = 피프티 센트
+  Aftermath Entertainment = 애프터매스 엔터테인먼트
+  Coast = 해안
+  Dee Barnes = 디 반스
+  Eminem = 에미넴
+  Entertainment = 오락
+  Following = 「미행」
+  G-funk = 지펑크
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Hip-hop = 힙합
+  N.W.A = N.W.A
+  Synthesizer = 신시사이저
+  The Chronic = 『더 크로닉』
+  West Coast = 웨스트코스트
+  no contest = 불항쟁 답변
+ENTRY:
+American rapper, record producer and executive, co-founder of [[N.W.A]]. He founded Aftermath Entertainment, and his solo debut, *The Chronic* (1992), helped establish West Coast G-funk, a [[Hip-hop|hip-hop]] subgenre built on [[Synthesizer|synthesizer]] sounds. He has won seven [[Grammy Awards]] and signed [[Eminem]] and [[50 Cent]]. In 1991 he pleaded no contest to assaulting television host Dee Barnes. Following widely publicized accusations of violence toward women, he issued a public apology in 2015.
+
+=== KEY: Dr_Rajkumar_2d61d1
+HEADWORD: Dr. Rajkumar = 닥터 라지쿠마르
+LEVEL: 5
+GLOSSARY:
+  Annavru = 안나브루
+  Bond = 본드
+  Dadasaheb Phalke = 다다사헤브 팔케
+  Dadasaheb Phalke Award = 다다사헤브 팔케상
+  James = 야고보
+  James Bond = 제임스 본드
+  Kannada = 칸나다어
+  Padma Bhushan = 파드마 부샨 훈장
+  Veerappan = 비라판
+ENTRY:
+Indian actor and singer in [[Kannada]] cinema, known as Annavru (elder brother). He appeared in over 205 films, including mythological and historical roles, and was the first Indian actor to play a role based on [[James Bond]] in a full-fledged manner. He received the Padma Bhushan in 1983 and the Dadasaheb Phalke Award in 1995. In 2000 he was kidnapped by the bandit Veerappan and held for 108 days.
+
+=== KEY: Dr_Seuss_185742
+HEADWORD: Dr. Seuss = 닥터 수스
+LEVEL: 4
+GLOSSARY:
+  Cartoon = 만화
+  Cat = 고양이
+  Dartmouth College = 다트머스 칼리지
+  Emmy = 에미상
+  Emmy Awards = 에미상
+  Flit = 플릿
+  Green = 초록색
+  Green Eggs and Ham = 『초록 달걀과 햄』
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Awards = 프라임타임 에미상
+  Pulitzer Prize = 퓰리처상
+  Standard = 스탠더드
+  Standard Oil = 스탠더드 오일
+  The Cat in the Hat = 『모자 속의 고양이』
+  Theodor Seuss Geisel = 시어도어 수스 가이젤
+  U.S. Army = 미국 육군
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+American children's author, illustrator, animator and [[Cartoon|cartoonist]], whose full name was Theodor Seuss Geisel. He adopted the pen name at [[Dartmouth College]]. He began as an illustrator and cartoonist for magazines and advertisers, including a campaign for Flit and work for [[Standard Oil]]. During [[World War II]] he drew political cartoons and worked in the U.S. Army animation department. His more than 60 books, including *The Cat in the Hat* (1957) and *Green Eggs and Ham* (1960), have sold over 600 million copies. He received two Primetime Emmy Awards and a 1984 Pulitzer Prize special citation.
+
+=== KEY: Dr_Strangelove_3b116b
+HEADWORD: Dr. Strangelove = 닥터 스트레인지러브
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Alert = 얼러트
+  Cold War = 냉전
+  Columbia = 컬럼비아
+  Columbia Pictures = 컬럼비아 픽처스
+  Film = 영화
+  Library = 도서관
+  Library of Congress = 미국 의회 도서관
+  National Film Registry = 국립 영화 등기부
+  Peter = 베드로
+  Peter Sellers = 피터 셀러스
+  Red Alert = 『레드 얼럿』
+  Soviet Union = 소련
+  Stanley = 스탠리
+  Stanley Kubrick = 스탠리 큐브릭
+  United States = 미국
+  black comedy = 블랙 코미디
+  political satire = 정치 풍자
+ENTRY:
+1964 political satire and black comedy film directed and co-written by [[Stanley Kubrick]]. Loosely based on Peter George's novel *Red Alert*, it parodies [[Cold War]] fears of nuclear war between the United States and the [[Soviet Union]]. [[Peter Sellers]] plays three characters. It was financed by [[Columbia Pictures]], and in 1989 the [[Library of Congress]] selected it for the National Film Registry. It received four Academy Award nominations.
+
+=== KEY: Dracaena_trifasciata_f2093f
+HEADWORD: Dracaena trifasciata = 산세비에리아
+LEVEL: 5
+GLOSSARY:
+  Clean Air Study = 청정 공기 연구
+  Dracaena = 드라세나속
+  Evaporation = 증발
+  Flowering plant = 속씨식물
+  NASA = 미국 항공 우주국
+  Saint = 성인
+  Saint George's sword = 성 게오르기우스의 검
+  Species = 종
+  Stoma = 기공
+  West Africa = 서아프리카
+  bowstring hemp = 활시위삼
+  snake plant = 스네이크 플랜트
+ENTRY:
+Species of [[Flowering plant|flowering plant]] native to tropical West Africa, also called snake plant and Saint George's sword. Its stiff leaves tolerate low light and little water, which makes it a popular houseplant. Its [[Stoma|stomata]] open only at night, limiting water loss through [[Evaporation|evaporation]]. A [[NASA]] Clean Air Study found it has potential to filter indoor air, but its rate is too slow for practical use. Like other members of the genus *Dracaena*, it yields bowstring hemp, a fiber once used to make bowstrings.
+
+=== KEY: Draco_constellation_ca9ba9
+HEADWORD: Draco = 용자리
+LEVEL: 5
+GLOSSARY:
+  88 modern constellations = 88개 현대 별자리
+  Constellation = 별자리
+  Eltanin = 엘타닌
+  Etamin = 에타민
+  Gamma Draconis = 용자리 감마
+  Latin = 라틴어
+  Ptolemy = 프톨레마이오스
+  Thuban = 투반
+  orange giant = 주황색 거성
+  pole star = 북극성
+  α Draconis = 용자리 알파
+ENTRY:
+[[Constellation]] in the far northern sky, named for the [[Latin]] word for dragon. One of the 48 constellations listed by the 2nd-century Greek astronomer [[Ptolemy]], it remains one of the 88 modern constellations and is circumpolar from northern latitudes. Thuban (α Draconis) was the northern pole star from 3942 BC to 1793 BC. The brightest star is Gamma Draconis, an orange giant of magnitude 2.2 known as Etamin or Eltanin.
+
+=== KEY: Draco_legislator_72e3a4
+HEADWORD: Draco = 드라콘
+LEVEL: 4
+GLOSSARY:
+  Ancient Greece = 고대 그리스
+  Athens = 아테네
+  Draconian constitution = 드라콘법
+  Greece = 그리스
+  Homicide = 살인
+  Plutarch = 플루타르코스
+  Solon = 솔론
+  draconian = 드라코니언
+  oral law = 구전법
+ENTRY:
+Traditional first legislator of [[Athens]] in [[Ancient Greece]]. He replaced oral law and blood feud with the [[Draconian constitution]], a written code enforced by a court, and set death as the penalty for most offenses. [[Solon]] repealed all of his laws except those on [[Homicide]]; an inscription from 409/8 BC refers to "the law of Draco about homicide". Some scholars consider him wholly or partly fictional. [[Plutarch]] reports that Draco said the lesser crimes deserved death and he had no greater penalty for the greater ones. The adjective draconian, meaning unusually harsh, derives from his name.
+
+=== KEY: Draconian_constitution_2f2af6
+HEADWORD: Draconian constitution = 드라콘법
+LEVEL: 5
+GLOSSARY:
+  Athenian = 아테네의
+  Athenian democracy = 아테네 민주정
+  Athens = 아테네
+  Draco (legislator) = 드라콘
+  Homicide = 살인
+  Rule of law = 법치주의
+  Solon = 솔론
+  draconian = 드라코니언
+  rule of law = 법치
+ENTRY:
+Written law code of [[Athens]] created by [[Draco (legislator)|Draco]] around 620 BC. Its laws were inscribed where literate citizens could read them, an early precursor to [[Rule of law|rule of law]] and Athenian democracy. It distinguished intentional from unintentional [[Homicide]] and made death the penalty for most offenses. The severity gave rise to the English word draconian, meaning excessively harsh. Only the homicide laws survived the reforms of Solon in the early 6th century BC.
+
+=== KEY: Dracula_7acf41
+HEADWORD: Dracula = 드라큘라
+LEVEL: 4
+GLOSSARY:
+  Abraham = 아브라함
+  Abraham Van Helsing = 에이브러햄 반 헬싱
+  Book = 책
+  Bram Stoker = 브램 스토커
+  Count Dracula = 드라큘라 백작
+  Elizabeth Báthory = 바토리 에르제베트
+  England = 잉글랜드
+  Gothic = 고딕
+  Gothic fiction = 고딕 소설
+  Gothic horror = 고딕 호러
+  Guinness = 기네스
+  Guinness Book of World Records = 기네스북
+  Irish = 아일랜드어
+  Jonathan Harker = 조너선 하커
+  Moldavia = 몰다비아
+  Public domain = 퍼블릭 도메인
+  Transylvania = 트란실바니아
+  United States = 미국
+  Vampire = 흡혈귀
+  Vlad the Impaler = 블라드 3세
+  Wallachia = 왈라키아
+  World = 세계
+  public domain = 퍼블릭 도메인
+ENTRY:
+[[Gothic fiction|Gothic horror]] novel by Irish author [[Bram Stoker]], first published in 1897. Told through letters, diary entries and newspaper articles, it follows English solicitor Jonathan Harker, who visits a [[Transylvania|Transylvanian]] nobleman, Count Dracula. The count, a [[Vampire|vampire]], moves to England, where a group led by Abraham Van Helsing hunts him. Stoker found the name in a history of [[Wallachia]] and Moldavia; scholars have proposed [[Vlad the Impaler]] and [[Elizabeth Báthory]] as inspirations, but recent scholarship disputes this. Because Stoker incorrectly filed the United States copyright, the novel is in the [[Public domain|public domain]] there. With over 700 appearances across media, Dracula was named the most portrayed literary character by the Guinness Book of World Records.
+
+=== KEY: Drag_physics_70a15a
+HEADWORD: Drag = 항력
+LEVEL: 4
+GLOSSARY:
+  Concorde = 콩코드
+  Force = 힘
+  Form drag = 형상 항력
+  Lift (force) = 양력
+  Mach = 마하
+  Mach 2 = 마하 2
+  Reynolds number = 레이놀즈 수
+  Velocity = 속도
+  Viscosity = 점성
+  Wing = 날개
+  area rule = 면적 법칙
+  skin friction drag = 표면 마찰 항력
+  wave drag = 조파 항력
+ENTRY:
+Retarding [[Force|force]] exerted by a fluid on an object moving through it, opposite to its direction of motion. Drag is proportional to [[Velocity|velocity]] at low speeds and to velocity squared at high speeds, a distinction measured by the [[Reynolds number]]. Form drag comes from pressure around a body and depends on its cross-sectional shape, while skin friction drag comes from [[Viscosity|viscous]] friction along the surface. [[Lift (force)|Lift]]-induced drag arises from [[Wing|wings]], and wave drag from shockwaves at high speeds; the wave drag of the [[Concorde]] prototype was reduced by 1.8% at Mach 2 by applying the area rule. For a top sprinter, overcoming drag can require 5% of their energy output.
+
+=== KEY: Dragon_583f4b
+HEADWORD: Dragon = 용
+LEVEL: 4
+GLOSSARY:
+  Ancient Greek = 고대 그리스어
+  Asia = 아시아
+  East Asia = 동아시아
+  Folklore = 민속
+  French = 프랑스어
+  George R. R. Martin = 조지 R. R. 마틴
+  Greek mythology = 그리스 신화
+  Han dynasty = 한나라
+  J. R. R. Tolkien = J. R. R. 톨킨
+  Latin = 라틴어
+  Mesopotamia = 메소포타미아
+  Old French = 고대 프랑스어
+  Tolkien = 톨킨
+  Ursula K. Le Guin = 어슐러 K. 르 귄
+  drakontes = 드라콘
+ENTRY:
+Mythical, roughly serpentine creature found in the [[Folklore|folklore]] of cultures worldwide, often with wings and claws. Dragon-like creatures appear in ancient [[Mesopotamia]], and in [[Greek mythology]] drakontes were large serpents defeated by heroes or gods. In [[East Asia]], dragons were usually benevolent; Chinese dragons governed rain and water and became emblems of imperial power from the [[Han dynasty]] onward. In the Western tradition they became fire-breathing embodiments of evil. The English word comes from Old French, from Latin *draco*, meaning huge serpent, and from Ancient Greek *drákōn*. Modern fiction by [[J. R. R. Tolkien]], [[Ursula K. Le Guin]] and [[George R. R. Martin]] draws on these traditions.
+
+=== KEY: Dragon_Ball_46c72e
+HEADWORD: Dragon Ball = 드래곤볼
+LEVEL: 4
+GLOSSARY:
+  Action figure = 액션 피규어
+  Akira Toriyama = 도리야마 아키라
+  Anime = 애니메이션
+  Dragon = 용
+  Dragon Ball = 『드래곤볼』
+  Dragon Ball Z = 「드래곤볼 Z」
+  Dragon Balls = 드래곤볼
+  Hong Kong = 홍콩
+  Journey to the West = 『서유기』
+  Jump = 「Jump」
+  Manga = 만화
+  Saiyan = 사이어인
+  Son Goku = 손오공
+  Weekly Shōnen Jump = 『주간 소년 점프』
+  Western world = 서양
+ENTRY:
+Japanese media franchise created by [[Akira Toriyama]], based on a [[Manga|manga]] serialized in [[Weekly Shōnen Jump]] from 1984 to 1995. It follows the martial arts training and adventures of the Saiyan Son Goku, who seeks the seven Dragon Balls, orbs that summon a wish-granting dragon. The series draws on the 16th-century Chinese novel [[Journey to the West]] and Hong Kong martial arts films. Its 519 chapters were collected in 42 volumes, with 260 million copies sold worldwide. The [[Anime|anime]] series [[Dragon Ball Z]] was especially influential in popularizing Japanese animation in the [[Western world]]. The franchise also includes films, [[Action figure|action figures]], video games and trading card games.
+
+=== KEY: Dragon_Ball_Z_3af9de
+HEADWORD: Dragon Ball Z = 드래곤볼 Z
+LEVEL: 5
+GLOSSARY:
+  Akira Toriyama = 도리야마 아키라
+  Animation = 애니메이션
+  Dragon = 용
+  Dragon Ball = 『드래곤볼』
+  Fuji Television = 후지 TV
+  Television = 텔레비전
+  Toei Animation = 도에이 애니메이션
+ENTRY:
+Japanese anime television series produced by Toei Animation. It is a direct sequel to the 1986 [[Dragon Ball]] series and adapts the remaining 325 chapters of the manga by [[Akira Toriyama]]. It aired on Fuji Television from April 1989 to January 1996 and was dubbed in at least 81 countries. Its success spawned films, video games and merchandise, and the series remains a cultural icon.
+
+=== KEY: Dragon_Quest_a7f896
+HEADWORD: Dragon Quest = 드래곤 퀘스트
+LEVEL: 5
+GLOSSARY:
+  Akira Toriyama = 도리야마 아키라
+  Anime = 애니메이션
+  Dragon = 용
+  Dragon Warrior = 드래곤 워리어
+  Koichi Sugiyama = 스기야마 고이치
+  Manga = 만화
+  North America = 북아메리카
+  Slime = 슬라임
+  Warrior = 『워리어』
+  Yuji Horii = 호리이 유지
+ENTRY:
+Japanese role-playing video game franchise. Created by Yuji Horii, with character designer [[Akira Toriyama]] and composer Koichi Sugiyama, its first game was published in 1986, and it has eleven main-series games. It was published as Dragon Warrior in North America until 2005 to avoid a trademark conflict. Its games feature turn-based combat and recurring monsters, including the Slime, which became the series' mascot, and the franchise has spawned [[Manga|manga]], [[Anime|anime]] and novels.
+
+=== KEY: Dragon_fruit_600674
+HEADWORD: Dragon fruit = 용과
+LEVEL: 5
+GLOSSARY:
+  Asia = 아시아
+  Cactus = 선인장
+  China = 중국
+  Colombia = 콜롬비아
+  Costa Rica = 코스타리카
+  El Salvador = 엘살바도르
+  Guatemala = 과테말라
+  Mexico = 멕시코
+  Pacific = 태평양
+  Salvador = 사우바도르
+  Selenicereus = 셀레니세레우스속
+  Selenicereus undatus = 셀레니세레우스 운다투스
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  pitahaya = 피타야
+  pitaya = 피타야
+ENTRY:
+Fruit of several [[Cactus|cactus]] species in the genus Selenicereus, also called pitahaya or pitaya. The most common species, *Selenicereus undatus*, is native to southern Mexico and the Pacific coast of Guatemala, Costa Rica and El Salvador. By the turn of the 21st century its cultivation had expanded to China, [[Colombia]] and most of [[Southeast Asia]]. Its flowers open only at night, and bats are a natural pollinator.
+
+=== KEY: Dragonfly_48f63c
+HEADWORD: Dragonfly = 잠자리
+LEVEL: 4
+GLOSSARY:
+  Anisoptera = 잠자리아목
+  Carboniferous = 석탄기
+  Compound eye = 겹눈
+  Damselfly = 실잠자리
+  Early Jurassic = 전기 쥐라기
+  Jurassic = 쥐라기
+  Meganisoptera = 메가니소프테라목
+  Nymphs = 약충
+  Odonata = 잠자리목
+  Predation = 포식
+  True = 『True』
+  Wetland = 습지
+  compound eyes = 겹눈
+  nymphs = 약충
+ENTRY:
+Flying insect of the suborder Anisoptera in the order [[Odonata]]. About 3,000 living species are known, most of them tropical. Adults have a pair of large, multifaceted [[Compound eye|compound eyes]], two pairs of strong transparent wings and an elongated body, and many have iridescent or metallic colors. Dragonflies are [[Predation|predatory]] both as aquatic nymphs and as adults, and they are fast, agile fliers capable of accurate aerial ambush. Nymphs can live up to five years, while most adults survive about five weeks or less. Unlike [[Damselfly|damselflies]], which fold their wings at rest, dragonflies hold their wings flat and away from the body. True dragonflies first appeared in the Early Jurassic, while their larger relatives, the Meganisoptera, lived in the [[Carboniferous]]. Loss of [[Wetland|wetland]] habitat threatens dragonfly populations worldwide.
+
+=== KEY: Drainage_19f08c
+HEADWORD: Drainage = 배수
+LEVEL: 4
+GLOSSARY:
+  Civilization = 문명
+  Indus = 인더스강
+  Indus Valley = 인더스강 유역
+  Indus Valley Civilization = 인더스 문명
+  Mohenjo-daro = 모헨조다로
+  Seattle = 시애틀
+  Soil = 토양
+  geotextile = 지오텍스타일
+  sustainable urban drainage systems = 지속 가능한 도시 배수 시스템
+ENTRY:
+Natural or artificial removal of surface and subsurface water from land with excess water. Internal drainage can prevent severe waterlogging in most agricultural [[Soil|soils]], but many soils need artificial drainage to improve production or manage water supplies. The Indus Valley Civilization had sewerage and drainage systems, and houses in [[Mohenjo-daro]] had drainage facilities. New storm water systems incorporate geotextile filters that keep fine soil from clogging the drain. Monitoring by [[Seattle]] Public Utilities reported a 99 percent reduction in storm water leaving a pilot street project designed to mimic natural drainage. In the UK, local planning has been required by law since 2010 to factor sustainable urban drainage systems (SUDS) into development.
+
+=== KEY: Drainage_basin_c10fed
+HEADWORD: Drainage basin = 유역
+LEVEL: 4
+GLOSSARY:
+  Amazon = 아마존강
+  Atlantic Ocean = 대서양
+  Congo = 콩고강
+  Mississippi = 미시시피강
+  Nile = 나일강
+  North America = 북아메리카
+  Ocean = 대양
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  Río de la Plata = 라플라타강
+  drainage basin = 유역
+  drainage divide = 분수계
+  endorheic basin = 내륙 유역
+  watershed = 분수계
+ENTRY:
+Land area in which all flowing surface water converges to a single point or body of water. It is bounded by the drainage divide, a perimeter of ridges and hills that separates adjacent basins. Smaller basins may merge at river confluences, forming a hierarchical pattern. In North America a drainage basin is commonly called a watershed. In an endorheic basin, water converges on an interior sink, such as a permanent lake, a dry lake or a point where surface water is lost underground. About 48.71% of the world's land drains into the [[Atlantic Ocean]], and just over 13% into the [[Pacific Ocean]]. The five largest river basins by area are those of the Amazon (7 million sq km), the Congo (4 million sq km), the Nile (3.4 million sq km), the Mississippi (3.22 million sq km) and the [[Río de la Plata]] (3.17 million sq km).
+
+=== KEY: Drake_Passage_1cad6d
+HEADWORD: Drake Passage = 드레이크 해협
+LEVEL: 4
+GLOSSARY:
+  Antarctic Circumpolar Current = 남극 순환 해류
+  Antarctica = 남극 대륙
+  Body of water = 수역
+  Cape = 케이프
+  Cape Horn = 혼곶
+  Chile = 칠레
+  Dutch = 네덜란드어
+  Francis = 프랑수아
+  Francis Drake = 프랜시스 드레이크
+  Pacific = 태평양
+  Plate tectonics = 판 구조론
+  Scotia Sea = 스코샤해
+  Shetland = 셰틀랜드 제도
+  South America = 남아메리카
+  South Shetland = 사우스셰틀랜드 제도
+  South Shetland Islands = 사우스셰틀랜드 제도
+  Willem Schouten = 빌럼 스하우턴
+  ocean circulation = 해양 순환
+  plate tectonics = 판 구조론
+ENTRY:
+Body of water between [[Cape Horn]] in [[Chile]] and the South Shetland Islands of [[Antarctica]]. It connects the southwestern Atlantic (Scotia Sea) with the southeastern Pacific and is the narrowest passage around Antarctica, so it strongly influences Antarctic and global ocean circulation and climate. Named after the 16th-century English explorer and privateer [[Francis Drake|Sir Francis Drake]], it is considered one of the most treacherous crossings for ships, since the Antarctic Circumpolar Current meets no resistance from any landmass and waves top 40 feet (12 m). The Dutch navigator Willem Schouten was the first to sail through it, in 1616. In 2019 a crew of six became the first to row across it. The passage opened as Antarctica separated from [[South America]] through [[Plate tectonics|plate tectonics]], though estimates of when range from 49 to 17 million years ago.
+
+=== KEY: Drake_equation_9c360d
+HEADWORD: Drake equation = 드레이크 방정식
+LEVEL: 5
+GLOSSARY:
+  Frank = 프랭크
+  Frank Drake = 프랭크 드레이크
+  Milky Way = 우리은하
+  SETI = SETI
+  Search for extraterrestrial intelligence = 외계 지적 생명체 탐사
+ENTRY:
+Probabilistic formula estimating the number of active, communicative extraterrestrial civilizations in the [[Milky Way]]. Frank Drake formulated it in 1961 as a way to stimulate scientific dialogue at the first meeting on the [[Search for extraterrestrial intelligence|search for extraterrestrial intelligence]] (SETI). It is more an approximation than a precise count, and its factors, such as the fraction of stars with planets and the average number of life-supporting planets per star, are highly conjectural. The resulting uncertainty is so large that the equation cannot draw firm conclusions.
+
+=== KEY: Drake_musician_7968b9
+HEADWORD: Drake, Aubrey = 드레이크, 오브리
+LEVEL: 5
+GLOSSARY:
+  Billboard 200 = 빌보드 200
+  Canadian = 캐나다
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Jimmy Brooks = 지미 브룩스
+  Kanye West = 카녜이 웨스트
+  Kendrick Lamar = 켄드릭 라마
+  OVO Sound = OVO 사운드
+  Sound = 소리
+  Thank Me Later = 『생큐 미 레이터』
+  Views = 『뷰스』
+ENTRY:
+Canadian rapper, singer and actor. He first gained recognition as Jimmy Brooks in the television series *Degrassi: The Next Generation*. His debut album, *Thank Me Later* (2010), topped the Billboard 200, and *Views* (2016) led the Billboard 200 for 13 weeks. He founded the record label OVO Sound and has won 5 [[Grammy Awards]]. With over 170 million units sold, he is among the world's best-selling music artists. He has publicly feuded with [[Kanye West]] and [[Kendrick Lamar]].
+
+=== KEY: Drakensberg_524b05
+HEADWORD: Drakensberg = 드라켄즈버그산맥
+LEVEL: 4
+GLOSSARY:
+  Afrikaans = 아프리칸스어
+  Cape = 케이프
+  Drakensberge = 드라켄스베르허
+  Eastern Cape = 이스턴케이프주
+  Eastern Cape Province = 이스턴케이프주
+  Gondwana = 곤드와나
+  Great Escarpment = 대단애
+  KwaZulu-Natal = 콰줄루나탈주
+  Lesotho = 레소토
+  Maloti = 말로티
+  Maloti-Drakensberg Park = 말로티-드라켄즈버그 공원
+  Mountain = 산
+  Mountain range = 산맥
+  Rock art = 암각화
+  Sahara = 사하라 사막
+  Sotho = 소토어
+  South Africa = 남아프리카 공화국
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  Zulu = 줄루어
+  southern Africa = 남아프리카
+  uKhahlamba = 우카람바
+  uKhahlamba-Drakensberg = 우카람바-드라켄즈버그 공원
+ENTRY:
+Mountain range forming the eastern part of the Great Escarpment in southern Africa. The escarpment stretches more than 1,000 kilometers (600 miles) from the Eastern Cape Province northward, forming much of the border between [[Lesotho]] and [[KwaZulu-Natal]]. The Great Escarpment's greatest elevation, 2,000 to 3,482 m (6,562 to 11,424 ft), lies in the border region of [[South Africa]] and Lesotho. Its steep rift walls formed during the breakup of southern [[Gondwana]]. The Zulu name uKhahlamba and the Sotho name Maloti both mean barrier of up-pointed spears, while the Afrikaans name Drakensberge means Dragons' Mountains. The transboundary Maloti-Drakensberg Park is a [[World Heritage Site|UNESCO World Heritage Site]], and the uKhahlamba-Drakensberg contains the largest concentration of [[Rock art|rock art]] in Africa south of the Sahara.
+
+=== KEY: Drama_205b8c
+HEADWORD: Drama = 극
+LEVEL: 4
+GLOSSARY:
+  Aeschylus = 아이스킬로스
+  Aristotle = 아리스토텔레스
+  Athens = 아테네
+  Dionysus = 디오니소스
+  Persians = 페르시아인
+  Poetics = 『시학』
+  The Persians = 『페르시아인들』
+  classical Athens = 고전기 아테네
+  mime = 마임
+  satyr play = 사티로스극
+ENTRY:
+Specific mode of fiction represented in performance, such as a play, opera, mime or ballet. Considered as a genre of poetry, the dramatic mode has been contrasted with the epic and lyric modes since [[Aristotle]]'s *Poetics* (c. 335 BC), the earliest work of dramatic theory. The word comes from a Greek term meaning deed or act, and its two masks represent the traditional division between comedy and tragedy. Western drama originated in classical Athens, which produced tragedy, comedy and the satyr play for competitions held in honor of [[Dionysus]] from the 5th century BC. The oldest surviving drama is [[Aeschylus]]' *The Persians*. In the modern era, drama came to mean a play that is neither comedy nor tragedy, and the term became a genre in film and television. Mime, in which the story is told through movement alone, and musicals, which combine speech and song, are also forms of drama.
+
+=== KEY: Dravidian_languages_002369
+HEADWORD: Dravidian languages = 드라비다어족
+LEVEL: 4
+GLOSSARY:
+  Francis = 프랑수아
+  Francis Whyte Ellis = 프랜시스 화이트 엘리스
+  India = 인도
+  Indo-European languages = 인도유럽어족
+  Kannada = 칸나다어
+  Kodava = 코다바어
+  Language = 언어
+  Language family = 어족
+  Madurai = 마두라이
+  Malayalam = 말라얄람어
+  Robert Caldwell = 로버트 콜드웰
+  South India = 남인도
+  Tamil = 타밀어
+  Tamil Nadu = 타밀나두주
+  Tamil-Brahmi = 타밀 브라흐미 문자
+  Telugu = 텔루구어
+  Tirunelveli = 티루넬벨리
+  Tulu = 툴루어
+ENTRY:
+Language family spoken by 250 million people, primarily in South India. The most widely spoken are Telugu, Tamil, [[Kannada]] and [[Malayalam]], all with long literary traditions. Smaller literary languages include Tulu and Kodava. Dravidian is first attested in the 2nd century BCE in Tamil-Brahmi inscriptions on cave walls in the [[Madurai]] and Tirunelveli districts of [[Tamil Nadu]]. In 1816 Francis Whyte Ellis argued that these languages descended from a common non-[[Indo-European languages|Indo-European]] ancestor. In 1856 Robert Caldwell coined the term Dravidian for the family. The family has not been shown to be related to any other.
+
+=== KEY: Drawing_681d72
+HEADWORD: Drawing = 소묘
+LEVEL: 3
+GLOSSARY:
+  Alfred = 앨프레드 대왕
+  Alfred Wegener = 알프레트 베게너
+  Cartoon = 만화
+  Cave painting = 동굴 벽화
+  Color = 색
+  Conté crayons = 콩테
+  Drawing = 인발
+  Europe = 유럽
+  France = 프랑스
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Leonardo = 레오나르도
+  Leonardo da Vinci = 레오나르도 다빈치
+  Painting = 회화
+  Paper = 종이
+  Quarrel of Color = 색채 논쟁
+  Renaissance = 르네상스
+  Spain = 스페인
+  Technical drawing = 기술 도면
+  Venus = 금성
+  Vinci = 빈치
+  caricature = 캐리커처
+  contour lines = 등고선
+  illuminated manuscripts = 채식 필사본
+  phases of Venus = 금성의 위상
+  stippling = 점묘
+  vellum = 송아지 피지
+ENTRY:
+Visual art using an instrument to mark [[Paper|paper]] or another two-dimensional surface, or a digital representation of one. Traditional instruments include pencils, crayons, Conté crayons, and ink pens, sometimes combined; modern tools include styluses, mice, and graphics tablets. Cardboard, vellum, wood, plastic, leather, canvas, and board have also served as supports. Drawing concerns chiefly lines and areas of tone, and in Western terminology it is distinct from [[Painting|painting]], although similar media are used in both. A quick freehand drawing not intended as a finished work is called a sketch; other categories include figure drawing, [[Cartoon|cartoon]], caricature, and doodle, and methods include line drawing, stippling, shading, and tracing. Outside art, plans of buildings, machinery, and circuitry are also called drawings, and drafters work in [[Technical drawing|technical drawing]].
+
+Drawing is one of the oldest forms of human expression and is believed to have preceded written communication; [[Cave painting|cave paintings]] of quadrupeds in southern France and Spain date to around 30,000 years ago. Before paper was widely available in Europe, monks used drawings as underdrawings for illuminated manuscripts on vellum or parchment, or as final images. In 1609 [[Galileo Galilei]] explained the phases of Venus and sunspots through his telescopic drawings, and in 1924 [[Alfred Wegener]] used illustrations to show the origin of the continents. After paper became widely available in the 14th century, drawing increased in the arts as a tool for study and preparation. The [[Renaissance]] brought greater sophistication and more realistic representation. In the 17th century the "Quarrel of Color" pitted proponents of color against those of drawing, a distinction between contour lines and colored surface that Leonardo da Vinci had made.
+
+=== KEY: Dreadnought_84deb3
+HEADWORD: Dreadnought = 드레드노트
+LEVEL: 5
+GLOSSARY:
+  Battle of Jutland = 유틀란트 해전
+  Battleship = 전함
+  Dreadnought = 드레드노트
+  Germany = 독일
+  HMS Dreadnought = 드레드노트함
+  Jutland = 윌란반도
+  Navy = 해군
+  Royal Navy = 영국 해군
+  Steam turbine = 증기 터빈
+  Treaty = 조약
+  United Kingdom = 영국
+  Washington = 워싱턴주
+  Washington Naval Treaty = 워싱턴 해군 군축 조약
+  World = 세계
+  World War I = 제1차 세계 대전
+  arms race = 군비 경쟁
+  pre-dreadnoughts = 전노급 전함
+ENTRY:
+Early 20th-century [[Battleship|battleship]] type. It takes its name from HMS Dreadnought, launched by the [[Royal Navy]] in 1906 with an all-big-gun armament and [[Steam turbine|steam turbine]] propulsion. Its launch renewed the naval arms race between the United Kingdom and Germany, and older battleships became known as pre-dreadnoughts. Most original dreadnoughts were scrapped after [[World War I]] under the Washington Naval Treaty. The only battle between large dreadnought fleets, at [[Battle of Jutland|Jutland]] in 1916, ended without a decisive result.
+
+=== KEY: Dream_2a2542
+HEADWORD: Dream = 꿈
+LEVEL: 3
+GLOSSARY:
+  Ancient Egypt = 고대 이집트
+  Anxiety = 불안
+  Babylonia = 바빌로니아
+  Babylonians = 바빌로니아인
+  COVID-19 = 코로나19
+  COVID-19 pandemic = 코로나19 범유행
+  Calvin = 칼뱅
+  Calvin S. Hall = 캘빈 S. 홀
+  Dream = 꿈
+  Egypt = 이집트
+  Gudea of Lagash = 라가시의 구데아
+  Lagash = 라가시
+  Mesopotamia = 메소포타미아
+  Old English = 고대 영어
+  People = 『피플』
+  Psychotherapy = 심리 치료
+  REM = 렘수면
+  Sleep = 수면
+  Sumer = 수메르
+  Sumerians = 수메르인
+  oneirology = 꿈 연구
+  rapid-eye movement = 급속 안구 운동
+ENTRY:
+Succession of images, scenes, ideas, emotions, and sensations that usually occur involuntarily in the mind during certain stages of [[Sleep|sleep]]. Humans generally spend more than two hours dreaming per night, and each dream lasts around 5–20 minutes. Dreams occur mainly in the rapid-eye movement (REM) stage, when brain activity is high and resembles that of waking, but humans also dream during non-REM sleep, and not all REM awakenings produce dream reports. Because a dream must be reduced to a verbal report to be studied, dreaming by non-humans, human fetuses, and pre-verbal infants is currently unprovable. It is not known where in the brain dreams originate or what their purpose is. The scientific study of dreams is called oneirology; most modern study focuses on neurophysiology and on testing hypotheses about function.
+
+Dream interpretation was practiced by the [[Babylonia|Babylonians]] in the third millennium BC and earlier by the [[Sumer|Sumerians]], and it figures in religious texts of several traditions and in [[Psychotherapy|psychotherapy]]. Writings from [[Mesopotamia]] and [[Ancient Egypt]] stress visitation dreams in which a deity or forebear commands the dreamer to act; Gudea of Lagash rebuilt a temple as the result of such a dream. Between the 1940s and 1985, Calvin S. Hall collected more than 50,000 dream reports; the most common emotion was [[Anxiety|anxiety]], negative emotions were much more common than positive ones, and sexual content appeared in no more than 10% of dreams. A study of more than 15,000 dream reports found fear, illness, and death themes two to four times more prevalent after the onset of the [[COVID-19 pandemic]]. People blind from birth do not have visual dreams. In Old English, *drēam* meant "noise", "joy", or "music"; the sense of a sleep experience dates from the 13th century.

@@ -1,0 +1,904 @@
+=== KEY: Bertrand_Russell_8021dd
+HEADWORD: Russell, Bertrand = 러셀, 버트런드
+LEVEL: 4
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Alfred = 앨프레드 대왕
+  Alfred North Whitehead = 앨프리드 노스 화이트헤드
+  Analytic philosophy = 분석 철학
+  G. E. Moore = G. E. 무어
+  Germany = 독일
+  Gottlob Frege = 고틀로프 프레게
+  Literature = 문학
+  Ludwig = 루트비히
+  Ludwig Wittgenstein = 루트비히 비트겐슈타인
+  Nazi = 나치
+  Nazi Germany = 나치 독일
+  Nobel Prize = 노벨상
+  Nobel Prize in Literature = 노벨 문학상
+  Pacifism = 평화주의
+  Principia = 『프린키피아』
+  Principia Mathematica = 『수학 원리』
+  Stalinist = 스탈린주의
+  Vietnam = 베트남
+  Vietnam War = 베트남 전쟁
+  Wittgenstein = 비트겐슈타인
+  World = 세계
+  World War I = 제1차 세계 대전
+  World War II = 제2차 세계 대전
+  analytic philosophy = 분석 철학
+  appeasing = 유화 정책
+  nuclear disarmament = 핵군축
+ENTRY:
+English mathematician, philosopher and social critic. Russell was a founder of [[Analytic philosophy|analytic philosophy]] with Gottlob Frege, G. E. Moore and [[Ludwig Wittgenstein]]. With [[Alfred North Whitehead]] he wrote *Principia Mathematica*, a major attempt to reduce mathematics to logic. A [[Pacifism|pacifist]], he went to prison during [[World War I]]. He initially supported appeasing [[Adolf Hitler]]'s [[Nazi Germany]], but in 1943 he described war as a necessary "lesser of two evils". After World War II he criticized Stalinist totalitarianism, condemned U.S. involvement in the [[Vietnam War]] and became an advocate of nuclear disarmament. He received the Nobel Prize in Literature in 1950 "in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought".
+
+=== KEY: Beryl_af9921
+HEADWORD: Beryl = 녹주석
+LEVEL: 5
+GLOSSARY:
+  Beryl = 녹주석
+  Beryllium = 베릴륨
+  Emerald = 에메랄드
+  Mineral = 광물
+  Pure = 「퓨어」
+  aquamarine = 아콰마린
+ENTRY:
+Mineral composed of [[Beryllium|beryllium]] aluminum silicate, Be₃Al₂(SiO₃)₆. Well-known varieties include [[Emerald|emerald]] and aquamarine. Pure beryl is colorless, but impurities tint it green, blue, yellow, pink or red, with red the rarest. Its hexagonal crystals can reach several m in size. Beryl is an ore source of beryllium.
+
+=== KEY: Beryllium_8c867d
+HEADWORD: Beryllium = 베릴륨
+LEVEL: 4
+GLOSSARY:
+  Aircraft = 항공기
+  Alkaline earth metal = 알칼리 토금속
+  Beryl = 녹주석
+  Beryllium = 베릴륨
+  Chemical element = 화학 원소
+  Copper = 구리
+  Missile = 미사일
+  Satellite = 인공위성
+  Spacecraft = 우주선
+  X-ray = 엑스선
+  X-rays = 엑스선
+  alkaline earth = 알칼리 토금속
+  berylliosis = 베릴륨증
+  chrysoberyl = 금록석
+ENTRY:
+Chemical element with symbol Be and atomic number 4. Beryllium is a steel-gray, hard, strong, lightweight and brittle [[Alkaline earth metal|alkaline earth metal]]. It occurs naturally only in combination with other elements, mainly in [[Beryl|beryl]] and chrysoberyl. Its low density, 1.85 times that of water, and high stiffness make it useful for [[Aircraft|aircraft]] components, [[Missile|missiles]], [[Spacecraft|spacecraft]] and [[Satellite|satellites]]. Because it is relatively transparent to [[X-ray|X-rays]], it is the most common window material for X-ray equipment. Alloyed with [[Copper|copper]], it produces tools that are strong and do not create sparks. Inhaled dust is toxic and can cause berylliosis, a chronic allergic disease that in severe cases leads to heart failure and death. The world produces 220 tons a year, usually extracted from beryl.
+
+=== KEY: Beslan_school_siege_907325
+HEADWORD: Beslan school siege = 베슬란 학교 인질 사건
+LEVEL: 5
+GLOSSARY:
+  Beslan = 베슬란
+  Chechen = 체첸
+  Islamist = 이슬람주의
+  North Ossetia = 북오세티야
+  Number = 수
+  Russia = 러시아
+  Russian = 러시아어
+  School = 학교
+  School Number One = 제1학교
+  Shamil Basayev = 샤밀 바사예프
+ENTRY:
+Hostage siege at School Number One in Beslan, North Ossetia, [[Russia]], September 1–3, 2004. Militants sent by Chechen warlord Shamil Basayev held more than 1,100 hostages, including 777 children, for three days. Russian security forces stormed the building, and the siege ended with the deaths of 334 people, 186 of them children, and 31 attackers. It is considered the deadliest school shooting in history. Official accounts describe the attack as Islamist in nature. Criticism of the government's handling of the crisis has persisted, including allegations of disinformation and censorship in the news media.
+
+=== KEY: Bessel_function_01b467
+HEADWORD: Bessel function = 베셀 함수
+LEVEL: 5
+GLOSSARY:
+  Family = 가족
+  Friedrich Bessel = 프리드리히 베셀
+  German = 독일어
+  Laplace's equation = 라플라스 방정식
+  Wave = 파동
+  cylinder functions = 원기둥 함수
+  cylindrical coordinates = 원기둥 좌표계
+  ordinary differential equation = 상미분 방정식
+  special functions = 특수 함수
+  spherical Bessel functions = 구면 베셀 함수
+ENTRY:
+Family of special functions that are solutions to a particular ordinary differential equation. Bessel functions commonly appear in problems of [[Wave|wave]] motion, heat conduction and other phenomena with circular or cylindrical symmetry. They are named after German astronomer and mathematician Friedrich Bessel, who studied them systematically in 1824. When the order is an integer they are called cylinder functions and arise in solving [[Laplace's equation|Laplace's equation]] in cylindrical coordinates; half-integer orders give spherical Bessel functions.
+
+=== KEY: Beta_decay_e62df9
+HEADWORD: Beta decay = 베타 붕괴
+LEVEL: 5
+GLOSSARY:
+  Beta particle = 베타 입자
+  Weak interaction = 약한 상호작용
+  antineutrino = 반중성미자
+  isobar = 동중핵
+  neutrino = 중성미자
+  nuclide = 핵종
+  positron = 양전자
+  radioactive decay = 방사성 붕괴
+  weak force = 약한 상호 작용
+ENTRY:
+Type of radioactive decay in which a nucleus emits a [[Beta particle|beta particle]] and becomes an isobar of the original nuclide. In beta-minus decay a neutron becomes a proton, emitting an electron and an antineutrino. In beta-plus decay a proton becomes a neutron, emitting a positron and a neutrino. The process results from the [[Weak interaction|weak force]] and moves unstable nuclei toward a more stable ratio of protons to neutrons. It occurs in about 97% of known unstable isotopes.
+
+=== KEY: Beta_distribution_5165c1
+HEADWORD: Beta distribution = 베타 분포
+LEVEL: 5
+GLOSSARY:
+  Bayesian inference = 베이즈 추론
+  Bernoulli distribution = 베르누이 분포
+  Binomial distribution = 이항 분포
+  Dirichlet distribution = 디리클레 분포
+  Family = 가족
+  Geometric distribution = 기하 분포
+  conjugate prior = 켤레 사전 분포
+  negative binomial = 음이항
+  shape parameters = 형상 모수
+ENTRY:
+Family of continuous probability distributions on the interval [0, 1], controlled by two positive shape parameters, α and β. The beta distribution is suitable for modeling percentages and proportions. In [[Bayesian inference]] it is the conjugate prior for the [[Bernoulli distribution|Bernoulli]], [[Binomial distribution|binomial]], negative binomial and [[Geometric distribution|geometric]] distributions. Its generalization to multiple variables is the Dirichlet distribution.
+
+=== KEY: Beta_particle_269982
+HEADWORD: Beta particle = 베타 입자
+LEVEL: 4
+GLOSSARY:
+  Alpha particle = 알파 입자
+  Beta decay = 베타 붕괴
+  Gamma ray = 감마선
+  Ionizing radiation = 전리 방사선
+  PET scans = PET 검사
+  Positron = 양전자
+  alpha particles = 알파 입자
+  beta decay = 베타 붕괴
+  gamma rays = 감마선
+  ion pairs = 이온쌍
+  ionizing radiation = 전리 방사선
+  positron = 양전자
+  positron emission tomography = 양전자 방출 단층 촬영
+  radiation protection = 방사선 방호
+  radiotherapy = 방사선 치료
+ENTRY:
+High-energy, high-speed electron or positron emitted by a radioactive nucleus during [[Beta decay|beta decay]]. Beta particles are a form of [[Ionizing radiation|ionizing radiation]]. For radiation protection they are considered more ionizing than [[Gamma ray|gamma rays]] but less ionizing than [[Alpha particle|alpha particles]], producing roughly 100 ion pairs per cm in air. Beta particles with an energy of 0.5 MeV have a range of about 1 m in air, and they cannot pass through clothing or thin metal sheets. Beta emitters are used in radiotherapy, and [[Positron|positron]] emission tomography (PET) scans rely on beta-plus decay.
+
+=== KEY: Betel_nut_chewing_9fb6e4
+HEADWORD: Betel nut chewing = 빈랑 씹기
+LEVEL: 5
+GLOSSARY:
+  Asia = 아시아
+  Austronesian peoples = 오스트로네시아인
+  Madagascar = 마다가스카르
+  Micronesia = 미크로네시아
+  South Asia = 남아시아
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  Stimulant = 각성제
+  areca nut = 빈랑
+  arecoline = 아레콜린
+  betel leaves = 구장 잎
+  betel quid = 빈랑 씹을거리
+  cardamom = 카다멈
+  cardiovascular disease = 심혈관 질환
+  menthol = 멘톨
+  slaked lime = 소석회
+ENTRY:
+Practice of chewing areca nut with slaked lime and betel leaves, usually as a betel quid. The nut contains arecoline, a [[Stimulant|stimulant]] alkaloid, and the mixture may include flavorings such as cardamom or menthol. The preparation is spat out and causes permanent red stains on the teeth. The practice originated in [[Southeast Asia]], and its spread is closely tied to the expansion of the [[Austronesian peoples|Austronesian peoples]], reaching [[Micronesia]], [[South Asia]] and [[Madagascar]] in prehistoric times. It is addictive and is linked to oral and esophageal cancers and cardiovascular disease.
+
+=== KEY: Betelgeuse_b4df15
+HEADWORD: Betelgeuse = 베텔게우스
+LEVEL: 4
+GLOSSARY:
+  Asteroid belt = 소행성대
+  Betelgeuse = 베텔게우스
+  Betelgeuse B = 베텔게우스 B
+  Earth = 지구
+  Infrared = 적외선
+  Mars = 화성
+  Orion = 오리온
+  Orion (constellation) = 오리온자리
+  Red supergiant = 적색 초거성
+  Siwarha = 시와르하
+  Solar System = 태양계
+  Supernova = 초신성
+  Venus = 금성
+  apparent magnitude = 겉보기 등급
+  asteroid belt = 소행성대
+  first-magnitude star = 1등성
+  luminosity = 광도
+ENTRY:
+Red supergiant star in the constellation [[Orion (constellation)|Orion]], usually the tenth-brightest star in the night sky. Its radius is 640 to 764 times that of the Sun. If it were at the center of the [[Solar System]], its surface would lie beyond the [[Asteroid belt|asteroid belt]] and engulf the orbits of Mercury, Venus, Earth and Mars. Its apparent magnitude varies between +0.0 and +1.6 over a main period near 400 days, the widest range of any first-magnitude star. It dimmed noticeably from October 2019 and by February 2020 had dropped in brightness by a factor of about 3. Infrared observations found no significant change in its luminosity, suggesting dust around the star caused the dimming. It is expected to end its life in a [[Supernova|supernova]] most likely within the next 100,000 years. It may have a companion star, Betelgeuse B or Siwarha, though this is not fully confirmed.
+
+=== KEY: Bethlehem_f3acb7
+HEADWORD: Bethlehem = 베들레헴
+LEVEL: 5
+GLOSSARY:
+  Accords = 협약
+  Area = 넓이
+  Area A = A 지구
+  Bank = 은행
+  Bethlehem = 베들레헴
+  Bible = 성경
+  Christmas = 크리스마스
+  Church = 처치
+  Church of the Nativity = 예수 탄생 교회
+  City = 도시
+  David = 다윗
+  Hebrew = 히브리어
+  Hebrew Bible = 히브리어 성경
+  Israel = 이스라엘
+  Jerusalem = 예루살렘
+  Jesus = 예수
+  Mandatory Palestine = 영국령 팔레스타인
+  Nativity = 예수 탄생
+  Oslo = 오슬로
+  Oslo Accords = 오슬로 협정
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Palestine = 팔레스타인
+  Six-Day War = 6일 전쟁
+  West Bank = 요르단강 서안 지구
+  World = 세계
+  World War I = 제1차 세계 대전
+ENTRY:
+City in the [[West Bank]], Palestine, about 10 km south of Jerusalem (pop., 2017: 28,591). Its economy is strongly linked to tourism, especially at [[Christmas]], when pilgrims visit the Church of the Nativity, revered as the site of the birth of [[Jesus]]. The Hebrew Bible identifies Bethlehem as the birthplace of [[David]]. After the Ottoman Empire ended in World War I, the city was part of [[Mandatory Palestine]]. Israel occupied the West Bank in the [[Six-Day War]] of 1967. Under the [[Oslo Accords]] Bethlehem was designated Area A, nominally under Palestinian control.
+
+=== KEY: Bette_Davis_61266e
+HEADWORD: Davis, Bette = 데이비스, 베티
+LEVEL: 4
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Actress = 아카데미 여우주연상
+  Academy Awards = 아카데미상
+  All About Eve = 「이브의 모든 것」
+  Best Actress = 여우주연상
+  Dangerous = 「데인저러스」
+  Emmy = 에미상
+  Emmy Award = 에미상
+  Jane = 제인
+  Jezebel = 「제저벨」
+  Joan Crawford = 조앤 크로퍼드
+  Motion = 운동
+  Oscar = 오스카상
+  Story = 『스토리』
+ENTRY:
+American actress of film, television and stage. Davis was known for playing unsympathetic, sardonic characters, and her romantic dramas were among her greatest successes. She won the [[Academy Awards|Academy Award]] for Best Actress twice, for *Dangerous* (1935) and *Jezebel* (1938), and she was the first person to accrue 10 Academy Award nominations for acting. Her career was revived by *All About Eve* (1950), often cited as her best performance. Her last Oscar nomination came for *What Ever Happened to Baby Jane?* (1962), co-starring [[Joan Crawford]]. She won an Emmy Award for *Strangers: The Story of a Mother and Daughter* (1979) and was the first female president of the Academy of Motion Picture Arts and Sciences.
+
+=== KEY: Bette_Midler_a81a2e
+HEADWORD: Midler, Bette = 미들러, 베트
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Best New Artist = 최우수 신인상
+  Broadway = 브로드웨이
+  City = 도시
+  Continental Baths = 콘티넨털 배스
+  Dolly = 『돌리』
+  Globe = 지구본
+  Golden Globe = 골든글로브상
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  New York City = 뉴욕
+  Record of the Year = 올해의 레코드
+  Rose = 장미
+  The Rose = 「더 로즈」
+  Tony = 토니상
+  Tony Award = 토니상
+  Wind = 바람
+  Wind Beneath My Wings = 「Wind Beneath My Wings」
+  Wings = 윙스
+  Year = 해
+  York = 요크
+ENTRY:
+American actress, singer and comedian. Midler came to prominence in 1970 singing at the Continental Baths, a gay bathhouse in [[New York City]]. Her recordings include the hits "The Rose" and "Wind Beneath My Wings", and she has sold over 30 million records worldwide. She won [[Grammy Awards|Grammy Awards]] for Best New Artist and for Record of the Year with "Wind Beneath My Wings". Her starring role in *The Rose* (1979) earned her a Golden Globe and an Academy Award nomination. She received a Tony Award for the 2017 Broadway revival of *Hello, Dolly!*.
+
+=== KEY: Betty_Boop_c1d5a0
+HEADWORD: Betty Boop = 베티 붑
+LEVEL: 5
+GLOSSARY:
+  Cartoon = 만화 영화
+  Dizzy Dishes = 「디지 디시스」
+  Fleischer Studios = 플라이셔 스튜디오
+  Grim Natwick = 그림 내트윅
+  Hays Code = 헤이스 코드
+  Jazz = 재즈
+  Jazz Age = 재즈 시대
+  Max Fleischer = 맥스 플라이셔
+  Paramount = 파라마운트
+  Paramount Pictures = 파라마운트 픽처스
+  flapper = 플래퍼
+ENTRY:
+Animated [[Cartoon|cartoon]] character created by Max Fleischer for Fleischer Studios. A canine-inspired singer drawn by Grim Natwick appeared in *Dizzy Dishes* (1930), and over time the character evolved into Betty Boop. She was featured in 90 theatrical cartoons between 1930 and 1939, released by [[Paramount Pictures]]. A caricature of a Jazz Age flapper, she was made more modest in the mid-1930s under the [[Hays Code|Hays Code]], and she was overshadowed by other Fleischer series. She remains one of the world's best-known cartoon characters.
+
+=== KEY: Betty_Friedan_4209a3
+HEADWORD: Friedan, Betty = 프리댄, 베티
+LEVEL: 4
+GLOSSARY:
+  City = 도시
+  Equal Rights Amendment = 남녀 평등 헌법 수정안
+  Feminism = 페미니즘
+  Mystique = 미스틱
+  National Organization for Women = 전미 여성 기구
+  National Women's Political Caucus = 전미 여성 정치 회의
+  New York City = 뉴욕
+  Rights = 인권
+  Second = 초
+  Strike = 「파업」
+  The Feminine Mystique = 『여성성의 신화』
+  The Second Stage = 『제2단계』
+  Women's Strike for Equality = 평등을 위한 여성 파업
+  York = 요크
+  second wave = 제2물결
+ENTRY:
+American [[Feminism|feminist]] writer and activist. Her 1963 book *The Feminine Mystique* is often credited with sparking the second wave of American feminism. In 1966 she co-founded the National Organization for Women (NOW) and was elected its first president. She organized the 1970 Women's Strike for Equality, and the march she led in New York City alone attracted over 50,000 people. In 1971 she helped establish the National Women's Political Caucus, and she supported the proposed Equal Rights Amendment. Her later book *The Second Stage* (1981) criticized what she saw as the extremist excesses of some feminists. She remained active in politics and advocacy until the late 1990s.
+
+=== KEY: Betty_White_d9b878
+HEADWORD: White, Betty = 화이트, 베티
+LEVEL: 5
+GLOSSARY:
+  Daytime Emmy = 데이타임 에미상
+  Daytime Emmy Award = 데이타임 에미상
+  Emmy = 에미상
+  Emmy Award = 에미상
+  Emmy Awards = 에미상
+  Game = 게임
+  Game show = 게임 쇼
+  Golden Girls = 골든 걸스
+  Guinness = 기네스
+  Guinness World Record = 기네스 세계 기록
+  Life = 『라이프』
+  Life with Elizabeth = 「라이프 위드 엘리자베스」
+  Rose = 장미
+  Rose Nylund = 로즈 닐런드
+  Sitcom = 시트콤
+  Sue Ann Nivens = 수 앤 니븐스
+  The Golden Girls = 「골든 걸스」
+  The Mary Tyler Moore Show = 「메리 타일러 무어 쇼」
+  World = 세계
+  sketch comedy = 촌극 코미디
+ENTRY:
+American actress and comedian. A pioneer of early television, she was known for appearances in [[Sitcom|sitcoms]], sketch comedy and [[Game show|game shows]]. She produced the sitcom *Life with Elizabeth* (1953–1955), becoming the first woman to do so. She was the first woman to win the Daytime Emmy Award for Outstanding Game Show Host. Her best-known roles were Sue Ann Nivens on *The Mary Tyler Moore Show* and Rose Nylund on *The Golden Girls*. She won seven Emmy Awards and twice earned a Guinness World Record for the longest TV career by a female entertainer.
+
+=== KEY: Beverly_Hills_90210_9375b0
+HEADWORD: Beverly Hills, 90210 = 「베벌리힐스 90210」
+LEVEL: 5
+GLOSSARY:
+  Aaron = 아론
+  Aaron Spelling = 에런 스펠링
+  Alcoholism = 알코올 의존증
+  Beverly Hills = 베벌리힐스
+  Brandon = 브랜던
+  Brenda Walsh = 브렌다 월시
+  Darren Star = 대런 스타
+  Domestic violence = 가정 폭력
+  Fox = 폭스
+  Homophobia = 동성애 혐오
+  Jason Priestley = 제이슨 프리스틀리
+  Luke Perry = 루크 페리
+  Minneapolis = 미니애폴리스
+  Racism = 인종주의
+  Star = 항성
+  date rape = 데이트 강간
+  teen idols = 하이틴 스타
+  teen soap = 하이틴 연속극
+ENTRY:
+American teen drama television series. Created by Darren Star and produced by Aaron Spelling, *Beverly Hills, 90210* ran for 10 seasons on Fox, from 1990 to 2000. It follows twins Brandon and Brenda Walsh, who move from Minneapolis to Beverly Hills as they make the transition from high school to college and adult life. The show addressed topics including date rape, [[Homophobia|homophobia]], [[Alcoholism|alcoholism]], [[Domestic violence]] and [[Racism|racism]]. It is credited with creating or popularizing the teen soap genre. Its stars Jason Priestley and [[Luke Perry]] became teen idols.
+
+=== KEY: Bewitched_85671e
+HEADWORD: Bewitched = 「아내는 요술쟁이」
+LEVEL: 5
+GLOSSARY:
+  ABC = ABC
+  Darrin = 대린
+  Elizabeth Montgomery = 엘리자베스 몽고메리
+  Hanna-Barbera = 해나-바베라
+  Montgomery = 몽고메리
+  Samantha Stephens = 서맨사 스티븐스
+  Sitcom = 시트콤
+  Sol Saks = 솔 색스
+  TV Guide = 『TV 가이드』
+  Time = 『타임』
+ENTRY:
+American fantasy [[Sitcom|sitcom]] (1964–1972). It follows a witch, Samantha Stephens, who marries an ordinary mortal, Darrin, and vows to lead the life of a typical suburban housewife. Created by Sol Saks, it starred [[Elizabeth Montgomery]] as Samantha and ran for eight seasons on ABC. It was the second-highest-rated show in America during its debut season. [[Hanna-Barbera]] produced its opening and closing animation credits, and in 2002 TV Guide ranked it No. 50 among its 50 Greatest TV Shows of All Time.
+
+=== KEY: Beyonc_dc7d3c
+HEADWORD: Beyoncé = 비욘세
+LEVEL: 5
+GLOSSARY:
+  Child = 어린이
+  Dangerously in Love = 「Dangerously in Love」
+  Destiny's Child = 데스티니스 차일드
+  Grammy = 그래미상
+  Grammy Awards = 그래미상
+  Lemonade = 「Lemonade」
+  Love = 사랑
+ENTRY:
+American singer, songwriter, actress and businesswoman. She rose to fame as lead singer of [[Destiny's Child]] in the late 1990s. Her solo debut album, *Dangerously in Love* (2003), became one of the best-selling albums of the 21st century, and *Lemonade* (2016) was the best-selling album of 2016. She has received a record 35 [[Grammy Awards]], and she is one of the best-selling music artists of all time, with estimated sales of over 200 million records.
+
+=== KEY: Bh_skara_II_e0c2fe
+HEADWORD: Bhāskara II = 바스카라 2세
+LEVEL: 4
+GLOSSARY:
+  Algebra = 대수학
+  Arithmetic = 산술
+  Astronomy = 천문학
+  Bhāskarāchārya = 바스카라차리아
+  Brahmagupta = 브라마굽타
+  Bījagaṇita = 『비자가니타』
+  Caṅgadeva = 창가데바
+  Crown = 영국 왕실
+  Crown of Treatises = 논서의 왕관
+  Golādhyāya = 『골라디야야』
+  Grahagaṇita = 『그라하가니타』
+  India = 인도
+  Līlāvatī = 『릴라바티』
+  Siddhānta Śiromaṇi = 『시단타 시로마니』
+  Ujjain = 우자인
+ENTRY:
+Indian mathematician and [[Astronomy|astronomer]], also known as Bhāskarāchārya. He is said to have headed the astronomical observatory at Ujjain, then the leading mathematical center of medieval India. His main work, *Siddhānta Śiromaṇi* ("Crown of Treatises"), was written in 1150 and is divided into four parts: *Līlāvatī* on [[Arithmetic]], *Bījagaṇita* on [[Algebra]], *Grahagaṇita* on planetary mathematics, and *Golādhyāya* on spheres. His works are noted for careful organization, clear exposition and worked examples. He has been called the greatest mathematician of medieval India, and he built on the work of [[Brahmagupta]]. His grandson Caṅgadeva founded a school in 1207 to study his works.
+
+=== KEY: Bhagavad_Gita_a719b3
+HEADWORD: Bhagavad Gita = 『바가바드 기타』
+LEVEL: 4
+GLOSSARY:
+  Arjuna = 아르주나
+  Krishna = 크리슈나
+  Kurukshetra = 쿠루크셰트라
+  Kurukshetra War = 쿠루크셰트라 전쟁
+  Mahabharata = 『마하바라타』
+  Pandava = 판다바
+  Ramanuja = 라마누자
+  Shankara = 샹카라
+  Upanishads = 『우파니샤드』
+  Vaishnava = 비슈누파
+  Veda = 베다
+  Veda Vyasa = 베다 비야사
+  Vedanta = 베단타
+  Vishnu = 비슈누
+  Vyasa = 비야사
+  Yoga = 요가
+  avatar = 화신
+  bhakti = 박티
+  dharma = 다르마
+  jnana = 즈냐나
+ENTRY:
+Hindu scripture forming part of the epic *Mahabharata*. Likely composed in the 2nd or 1st century BCE, it is regarded as a composite work by several authors, though it is traditionally attributed to the sage Veda Vyasa. It is set as a dialogue between the Pandava prince Arjuna and his charioteer [[Krishna]], an avatar of [[Vishnu]], on the battlefield at the start of the Kurukshetra War. Arjuna hesitates to fight, and Krishna urges him to perform his duty (dharma) as a warrior while attributing his actions to God. The text combines [[Yoga]] with knowledge (*jnana*) and devotion (*bhakti*), and it draws on the [[Upanishads]]. It is a central text of the [[Vedanta]] and Vaishnava traditions, and commentators including Shankara and [[Ramanuja]] have offered differing interpretations.
+
+=== KEY: Bharatanatyam_a1b02b
+HEADWORD: Bharatanatyam = 바라타나티얌
+LEVEL: 4
+GLOSSARY:
+  Bharatanatyam = 바라타나티얌
+  India = 인도
+  Nataraja = 나타라자
+  Natya Shastra = 『나티야샤스트라』
+  Quartet = 「콰르텟」
+  Sadiraattam = 사디라타무
+  Shaivism = 시바파
+  Tamil = 타밀어
+  Tamil Nadu = 타밀나두주
+  Thanjavur = 탄자부르
+  Thanjavur Quartet = 탄자부르 4인방
+  aramandi = 아라만디
+  natya = 나티야
+  nritta = 느리타
+  nritya = 느리티야
+ENTRY:
+Classical [[India|Indian]] dance form from [[Tamil Nadu]]. It expresses South Indian religious themes, particularly of [[Shaivism]], and is performed for Nataraja, the god of dance. Its precursors are described in the *Natya Shastra*. The dance was formerly known as Sadiraattam until it was renamed Bharatanatyam in 1932. The colonial British government banned Sadiraattam in 1910, but the Indian community protested and expanded performance beyond temples in the 20th century. The style is noted for a fixed upper torso, bent knees (*aramandi*) and a gestural vocabulary of hands, eyes and face. A performance usually lasts two hours and combines *nritta* (pure dance), *nritya* (expression through gesture) and *natya* (drama). The Thanjavur Quartet formalized its modern structure.
+
+=== KEY: Bharatiya_Janata_Party_a1f6c6
+HEADWORD: Bharatiya Janata Party = 인도 인민당
+LEVEL: 5
+GLOSSARY:
+  Democratic = 민주당
+  Democratic Alliance = 민주 동맹
+  Hindu nationalist = 힌두 민족주의
+  India = 인도
+  Indian National Congress = 인도 국민회의
+  Narendra Modi = 나렌드라 모디
+  National Democratic Alliance = 국민 민주 연합
+  Rashtriya Swayamsevak Sangh = 민족 봉사단
+  democratic backsliding = 민주주의 후퇴
+ENTRY:
+Hindu nationalist political party in [[India]], one of the two major Indian parties alongside the [[Indian National Congress]]. It has organizational and ideological links to the [[Rashtriya Swayamsevak Sangh]] (RSS). Under [[Narendra Modi]], it has led the National Democratic Alliance government since 2014. It claims more than 140 million members as of 2025. Critics argue that India has experienced democratic backsliding under its rule, while supporters credit its policies with sustained economic growth and expanded welfare.
+
+=== KEY: Bhopal_9bdd58
+HEADWORD: Bhopal = 보팔
+LEVEL: 4
+GLOSSARY:
+  Bhopal = 보팔
+  Bhopal State = 보팔 번왕국
+  Bhopal disaster = 보팔 참사
+  Capital city = 수도
+  City = 도시
+  City of Lakes = 호수의 도시
+  Dost Mohammad Khan = 도스트 모하마드 칸
+  India = 인도
+  Indore = 인도르
+  Madhya Pradesh = 마디아프라데시주
+  Mughal = 무굴
+  Nawabs of Bhopal = 보팔의 나와브
+  Pashtun = 파슈툰인
+  methyl isocyanate = 아이소사이안화 메틸
+ENTRY:
+Capital city of the Indian state of [[Madhya Pradesh]]. Known as the City of Lakes for its many natural and artificial lakes, Bhopal was established by Dost Mohammad Khan, a Pashtun soldier in the Mughal army. It was the capital of the princely Bhopal State, ruled by the Nawabs of Bhopal, until India's independence in 1947, and became the capital of Madhya Pradesh in 1956. Along with [[Indore]], it is a major financial and economic center of the state. In December 1984 a pesticide plant leaked methyl isocyanate gas, causing the [[Bhopal disaster]], widely described as the worst industrial disaster in history. Bhopal was rated the cleanest state capital in India for three consecutive years, 2017 to 2019.
+
+=== KEY: Bhopal_disaster_937e15
+HEADWORD: Bhopal disaster = 보팔 참사
+LEVEL: 5
+GLOSSARY:
+  Bhopal = 보팔
+  India = 인도
+  Union Carbide Corporation = 유니언 카바이드
+  Union Carbide India Limited = 유니언 카바이드 인디아
+  methyl isocyanate = 아이소사이안화 메틸
+  the Union = 연방
+ENTRY:
+Gas-leak accident on December 3, 1984, at the Union Carbide India Limited pesticide plant in [[Bhopal]], India. The highly toxic gas methyl isocyanate was released, and over 500,000 people in the vicinity were exposed. The official count of immediate deaths is 2,259, while others estimate that 8,000 or more died from gas-related diseases. The plant's owner, Union Carbide Corporation, paid $470 million in 1989 to settle litigation. Civil and criminal cases were later pursued in Indian courts, and in 2010 seven former employees of the Indian subsidiary were convicted of causing death by negligence.
+
+=== KEY: Bhubaneswar_4b2aee
+HEADWORD: Bhubaneswar = 부바네스와르
+LEVEL: 4
+GLOSSARY:
+  Ashoka = 아소카
+  Bhubaneswar = 부바네스와르
+  Chandigarh = 찬디가르
+  City = 도시
+  Cuttack = 커탁
+  Dhauli = 다울리
+  German = 독일어
+  Jamshedpur = 잠셰드푸르
+  Kalinga = 칼링가
+  Kalinga War = 칼링가 전쟁
+  Kalingan = 칼링가
+  Khordha district = 코르다 지구
+  Mauryan = 마우리아 왕조
+  Odisha = 오디샤주
+  Otto Königsberger = 오토 쾨니히스베르거
+  Temple City = 사원의 도시
+ENTRY:
+Capital and largest city of the Indian state of [[Odisha]], in Khordha district. Nicknamed the "Temple City", it has many temples, including Kalingan temples from the 6th to 13th centuries CE. It replaced Cuttack as capital on April 13, 1948. The modern city was designed in 1946 by German architect Otto Königsberger and, along with Jamshedpur and [[Chandigarh]], was one of India's first planned cities. Dhauli, near Bhubaneswar, was the site of the Kalinga War (c. 262–261 BCE), in which the Mauryan emperor [[Ashoka]] annexed Kalinga. The twin cities of Bhubaneswar and Cuttack had a population of 1.7 million in 2011.
+
+=== KEY: Bhumibol_Adulyadej_4b6c6b
+HEADWORD: Bhumibol Adulyadej = 푸미폰 아둔야뎃
+LEVEL: 4
+GLOSSARY:
+  1997 Asian financial crisis = 1997년 아시아 금융 위기
+  Ananda Mahidol = 아난타 마히돈
+  Asia = 아시아
+  Bank = 은행
+  Rama = 라마
+  Rama IX = 라마 9세
+  Rama VIII = 라마 8세
+  Southeast = 남동부
+  Southeast Asia = 동남아시아
+  Switzerland = 스위스
+  Thai = 태국어
+  Thailand = 태국
+  United States = 미국
+  Vajiralongkorn = 와치랄롱꼰
+  World = 세계
+  World Bank = 세계은행
+ENTRY:
+King of Thailand (r. 1946–2016), titled Rama IX. Born in the United States, he spent his early life in Switzerland and succeeded his brother, King Ananda Mahidol (Rama VIII), who had died under mysterious circumstances. His reign of 70 years and 126 days was the longest of any Thai monarch. Thailand became a major US ally and regional power in Southeast Asia during his reign, and between 1985 and 1994 it was the world's fastest-growing economy according to the World Bank. The 1997 Asian financial crisis brought political instability, and periods of gradual democratization were punctuated by military coups. Activists and citizens who criticized the king or the monarchy were often forced into exile or imprisoned. He was succeeded by his son [[Vajiralongkorn]].
+
+=== KEY: Bhutan_e65a0e
+HEADWORD: Bhutan = 부탄
+LEVEL: 4
+GLOSSARY:
+  Asia = 아시아
+  Bhutan = 부탄
+  British protectorate = 영국 보호령
+  Buddhism = 불교
+  Eastern Himalayas = 동히말라야
+  Himalayas = 히말라야산맥
+  Hydropower = 수력 발전
+  India = 인도
+  Kingdom of Bhutan = 부탄 왕국
+  South Asia = 남아시아
+  Tibet = 티베트
+  Tibet Autonomous Region = 티베트 자치구
+  Treaty = 조약
+  Treaty of Punakha = 푸나카 조약
+  United Nations = 국제 연합
+  Vajrayana = 금강승
+  Vajrayana Buddhism = 금강승 불교
+  Zhabdrung Ngawang Namgyal = 샵드룽 응아왕 남걀
+  head of government = 정부 수반
+  protectorate = 보호령
+  state religion = 국교
+ENTRY:
+Landlocked kingdom in the Eastern Himalayas of [[South Asia]]. Officially the Kingdom of Bhutan, it borders China's [[Tibet Autonomous Region]] to the north and India to the south and east. Its area is 38,394 sq km and its population is over 800,000. It is a democratic constitutional monarchy, with a king as head of state and a prime minister as head of government, and [[Buddhism|Vajrayana Buddhism]] is the state religion. In the 16th century Zhabdrung Ngawang Namgyal unified its valleys into a single state. Bhutan was effectively a British protectorate after the Treaty of Punakha in 1910 but was never formally colonized. A 1949 treaty with India recognized each country's sovereignty, and Bhutan joined the [[United Nations]] in 1971. It has one of the world's largest water reserves for [[Hydropower|hydropower]].
+
+=== KEY: Bias_4ad6b9
+HEADWORD: Bias = 편향
+LEVEL: 4
+GLOSSARY:
+  Cognition = 인지
+  Heuristic = 휴리스틱
+  Sampling (statistics) = 표본 추출
+  Statistics = 통계학
+  WEIRD = WEIRD
+  cognitive biases = 인지 편향
+  confirmation bias = 확증 편향
+  systematic error = 계통 오차
+ENTRY:
+Disproportionate weight in favor of or against an idea or thing, usually in a way that is inaccurate, closed-minded, prejudicial or unfair. Biases may be innate or learned, and people may hold them toward an individual, a group or a belief. In science and engineering, bias is a systematic error. [[Statistics|Statistical]] bias results from unfair [[Sampling (statistics)|sampling]] of a population or from an estimation process that does not give accurate results on average. In psychology, [[Cognition|cognitive]] biases such as confirmation bias, the tendency to favor information that fits existing beliefs, are often interpreted as [[Heuristic|heuristics]] that are adaptive for quick decisions but can systematically distort judgment. Most such studies have used Western, educated, industrialized, rich and democratic (WEIRD) populations, though cross-cultural research is emerging.
+
+=== KEY: Biathlon_e9ef7d
+HEADWORD: Biathlon = 바이애슬론
+LEVEL: 4
+GLOSSARY:
+  Albertville = 알베르빌
+  Biathlon = 바이애슬론
+  Chamonix = 샤모니
+  International Biathlon Union = 국제 바이애슬론 연맹
+  Military = 군대
+  Norway = 노르웨이
+  Rifle = 소총
+  Scandinavia = 스칸디나비아
+  Winter = 겨울
+  Winter Olympics = 동계 올림픽
+  cross-country skiing = 크로스컨트리 스키
+  military patrol = 밀리터리 패트롤
+  ski warfare = 스키전
+ENTRY:
+Winter sport combining cross-country skiing and [[Rifle|rifle]] shooting. It developed from military patrol exercises that began in 19th-century [[Scandinavia]] and originated in ski warfare; in the Nordic languages it is called "ski-shooting". Races cover a cross-country trail divided into shooting rounds, or bouts, which have no time limit. Missed shots add extra distance or time to a competitor's total, depending on the competition. Military patrol appeared as a demonstration event at the 1924 Chamonix Winter Olympics, and women's events were added to the Olympic program in 1992 at Albertville. The International Biathlon Union, founded in 1993, governs the sport, and [[Norway]] has won the most Olympic medals in it.
+
+=== KEY: Bible_5788fb
+HEADWORD: Bible = 성경
+LEVEL: 3
+GLOSSARY:
+  Abrahamic = 아브라함계
+  Abrahamic religions = 아브라함계 종교
+  Aramaic = 아람어
+  Bible = 성경
+  Biblical archaeology = 성서 고고학
+  Catholic = 가톨릭
+  Christianity = 기독교
+  Hebrew = 히브리어
+  Hebrew Bible = 히브리어 성경
+  Islam = 이슬람교
+  Jesus = 예수
+  Judaism = 유대교
+  Ketuvim = 케투빔
+  Koine = 코이네
+  Koine Greek = 코이네 그리스어
+  Nevi'im = 느비임
+  New Testament = 신약 성경
+  Old Testament = 구약 성경
+  Orthodox = 정교회
+  Protestant = 개신교
+  Tanakh = 타나크
+  Teaching = 교수
+  Torah = 토라
+  biblical canons = 성경 정경
+  biblion = 비블리온
+  deuterocanonical books = 제2경전
+  gospels = 복음서
+  papyrus = 파피루스
+  ta biblia = 타 비블리아
+ENTRY:
+Anthology of religious texts central to [[Judaism]] and [[Christianity]] and important in other Abrahamic religions such as [[Islam]]. The texts include instructions, stories, poetry, letters, prophecies, and other genres, and were compiled by different religious communities into official collections called biblical canons. Canonical scope differs among Jewish, Protestant, Catholic, and Orthodox communities.
+
+The [[Hebrew Bible]], written in Hebrew with some parts in Aramaic, has three sections: the Torah ("Teaching"), Nevi'im ("Prophets"), and Ketuvim ("Writings"), together called the Tanakh. The oldest parts may be as early as c. 1200 BC. The Christian Bible comprises the Old Testament, a reorganization of the Hebrew Bible books and the deuterocanonical books, and the [[New Testament]], written in Koine Greek mostly in the 1st century AD, including the gospels on the life and teachings of [[Jesus]].
+
+The English word derives from Greek *ta biblia*, "the books," plural of *biblion*, "scroll". The books were originally copied by hand on papyrus scrolls, and no originals survive. The oldest began as orally transmitted songs and stories.
+
+With estimated sales of over five billion copies, the Christian Bible is the best-selling publication of all time and has deeply influenced Western culture and cultures worldwide. It has been translated, or is being translated, into about half of the world's languages. Some view the texts as morally problematic or historically inaccurate; others value them as a historical source or ethical teaching. Biblical archaeology finds evidence supporting some events and conclusively refuting others.
+
+=== KEY: Bible_Belt_a1240a
+HEADWORD: Bible Belt = 바이블 벨트
+LEVEL: 5
+GLOSSARY:
+  Arkansas = 아칸소주
+  H. L. Mencken = H. L. 멩컨
+  Mid-Atlantic = 중부 대서양 연안
+  Midwestern = 중서부
+  Missouri = 미주리주
+  Protestantism = 개신교
+  Protestants = 개신교도
+  Southern United States = 미국 남부
+  United States = 미국
+  Virginia = 버지니아주
+  West Virginia = 웨스트버지니아주
+  evangelical = 복음주의
+ENTRY:
+Cultural region of the [[Southern United States]], together with the Midwestern state of Missouri and the Mid-Atlantic states of Virginia and West Virginia, where evangelical [[Protestantism]] has a strong social and cultural influence. Residents show higher church attendance and greater emphasis on traditional religious values than elsewhere in the country. Arkansas has the highest proportion of evangelical Protestants, at 50%. The term was used by journalist H. L. Mencken in 1924, and in 1927 Mencken claimed it as his invention.
+
+=== KEY: Bichir_a82c0b
+HEADWORD: Bichir = 폴립테루스과
+LEVEL: 4
+GLOSSARY:
+  Actinopterygii = 조기어강
+  Africa = 아프리카
+  Aquarium = 수족관
+  Cretaceous = 백악기
+  Erpetoichthys = 에르페토익티스속
+  Family = 가족
+  Late Cretaceous = 후기 백악기
+  Nile = 나일강
+  Polypteridae = 폴립테루스과
+  Polypteriformes = 폴립테루스목
+  Polypterus = 폴립테루스속
+  River = 강
+  South America = 남아메리카
+  ray-finned fishes = 조기어류
+  reedfish = 리드피시
+  sister group = 자매군
+  swim bladder = 부레
+ENTRY:
+Family of archaic-looking [[Actinopterygii|ray-finned fishes]], the only family in the order Polypteriformes. Bichirs and the reedfish make up Polypteridae, which includes two genera, *Polypterus* and *Erpetoichthys*, with 14 species. All occur in freshwater habitats in tropical [[Africa]] and the Nile River system, mostly in swampy, shallow floodplains and estuaries. Bichirs and their fossil relatives are considered the sister group to all other living ray-finned fishes, and they likely diverged at least 330 million years ago. Their swim bladder serves as an accessory organ for air breathing. The oldest polypterids are around 100 million years old, from the early Late [[Cretaceous]] of South America and Africa. Bichirs are popular in the [[Aquarium|aquarium]] trade.
+
+=== KEY: Bicycle_78efca
+HEADWORD: Bicycle = 자전거
+LEVEL: 3
+GLOSSARY:
+  BMX = BMX
+  Ball bearings = 볼 베어링
+  Car = 자동차
+  Cycle sport = 사이클 경기
+  Europe = 유럽
+  John = 존
+  Rover safety bicycle = 로버 안전 자전거
+  Transport = 교통
+  center of mass = 질량 중심
+  computer-aided design = 컴퓨터 지원 설계
+  countersteering = 역조향
+  diamond frame = 다이아몬드 프레임
+  hour record = 아워 레코드
+  pneumatic tire = 공기 타이어
+  safety bicycle = 안전 자전거
+  sprockets = 스프로킷
+  tension-spoked wheels = 장력 스포크 바퀴
+  velocipede = 벨로시페드
+ENTRY:
+Human-powered or motor-assisted, pedal-driven, single-track vehicle with two wheels attached to a frame, one behind the other. Its rider is called a cyclist or bicyclist.
+
+The bicycle was invented in Europe in the 19th century. It developed from the velocipede, itself an advance on Karl Drais's steerable, pedal-less two-wheeler of 1817. The first chain-driven model appeared around 1885, with John Kemp Starley's Rover safety bicycle, which had two similar-sized wheels and a diamond frame; John Boyd Dunlop's pneumatic tire followed in 1888. The basic form of the upright "safety" bicycle has changed little since, though modern materials and computer-aided design have produced many specialized types.
+
+By the early 21st century there were more than 1 billion bicycles. They are the principal means of [[Transport|transport]] in many regions and are used for commuting, shopping, fitness, military and police work, courier services, recreation, and [[Cycle sport|racing]]. Types include utility, mountain, racing, touring, BMX, and electric bicycles.
+
+A bicycle stays upright by being steered to keep its center of mass over the wheels. Turns are initiated by countersteering, either by turning the handlebars directly or by leaning the bicycle. Mechanically the bicycle is highly efficient: up to 99% of the energy a rider delivers to the pedals reaches the wheels. At 16–24 km/h a rider uses only the power required to walk. A seated upright rider creates about 75% of total drag; a 2016 hour record with a highly streamlined bicycle exceeded 92 km/h.
+
+Ball bearings, pneumatic tires, chain-driven sprockets, and tension-spoked wheels were first developed for bicycles and later played key roles in the development of the [[Car|car]].
+
+=== KEY: Bicycle_Thieves_a368e6
+HEADWORD: Bicycle Thieves = 「자전거 도둑」
+LEVEL: 4
+GLOSSARY:
+  Academy Honorary Award = 아카데미 명예상
+  Antonio Ricci = 안토니오 리치
+  Bruno = 브루노
+  Cesare Zavattini = 체사레 차바티니
+  Enzo Staiola = 엔초 스타이올라
+  Italian neorealist = 이탈리아 네오리얼리즘
+  Lamberto Maggiorani = 람베르토 마조라니
+  Luigi = 루이지
+  Rome = 로마
+  Sound = 소리
+  Vittorio De Sica = 비토리오 데 시카
+  neorealist = 네오리얼리즘
+ENTRY:
+Italian neorealist drama film (1948) directed by [[Vittorio De Sica]]. Adapted by Cesare Zavattini from Luigi Bartolini's 1946 novel, it follows a poor father, Antonio Ricci, who searches postwar [[Rome]] for his stolen bicycle, which he needs for a job that is to be the salvation of his young family. His son Bruno accompanies him on the search. The film was shot on location with largely nonprofessional actors, including Lamberto Maggiorani as the father and Enzo Staiola as the son. It received an Academy Honorary Award, and in 1952 the *Sight & Sound* poll of filmmakers and critics named it the greatest film of all time. In a later poll by the same magazine, it ranked sixth.
+
+=== KEY: BigBang_South_Korean_band_4f7304
+HEADWORD: BigBang = 빅뱅
+LEVEL: 5
+GLOSSARY:
+  Best Worldwide Act = 베스트 월드와이드 액트
+  Daesung = 대성
+  Entertainment = 오락
+  Europe = 유럽
+  G-Dragon = 지드래곤
+  Japan = 일본
+  K-pop = 케이팝
+  Kings = 킹스
+  Korean Wave = 한류
+  MTV Europe Music Awards = MTV 유럽 뮤직 어워드
+  Music = 음악
+  Recording Industry Association of Japan = 일본 레코드 협회
+  Taeyang = 태양
+  Tonight = 「Tonight」
+  Wave = 파동
+  YG Entertainment = YG엔터테인먼트
+  boy band = 보이 밴드
+ENTRY:
+South Korean boy band formed by YG Entertainment. Its current members are G-Dragon, Taeyang and Daesung, and it was originally a five-piece group. Dubbed the "Kings of [[K-pop]]", the group helped spread the Korean Wave internationally. Its fourth EP, *Tonight* (2011), won the inaugural Best Worldwide Act Award at the 2011 MTV Europe Music Awards. Its four Japanese studio albums were all certified gold by the Recording Industry Association of Japan.
+
+=== KEY: Big_Bang_01dc58
+HEADWORD: Big Bang = 빅뱅
+LEVEL: 3
+GLOSSARY:
+  Alexander Friedmann = 알렉산드르 프리드만
+  Big Bang = 빅뱅
+  Dark energy = 암흑 에너지
+  Dark matter = 암흑 물질
+  Earth = 지구
+  Edwin Hubble = 에드윈 허블
+  Friedmann equations = 프리드만 방정식
+  Georges Lemaître = 조르주 르메트르
+  Hubble = 허블
+  Hubble's law = 허블 법칙
+  Hydrogen = 수소
+  Physical = 「Physical」
+  Primordial elements = 원시 원소
+  Redshift = 적색 편이
+  accelerated expansion = 가속 팽창
+  cosmic inflation = 우주 급팽창
+  cosmic microwave background = 우주 마이크로파 배경
+  dark energy = 암흑 에너지
+  dark matter = 암흑 물질
+  large-scale structure = 거대 구조
+  matter-antimatter imbalance = 물질-반물질 비대칭
+  microwave background = 우주 마이크로파 배경
+  plasma = 플라스마
+  primeval atom = 원시 원자
+  reheating = 재가열
+  steady-state model = 정상 우주론
+ENTRY:
+Physical theory describing how the universe expanded from an early state of high density and temperature. Cosmological models based on it explain the abundance of light elements, the cosmic microwave background (CMB) radiation, the [[Redshift|redshift]] of galaxies, and large-scale structure. The uniformity of the universe is explained by cosmic inflation, a phase of accelerated expansion in the earliest stages. Measurements of the expansion rate place the age of the universe at an estimated 13.787±0.02 billion years.
+
+Extrapolating the expansion backward, the models describe an extraordinarily hot, dense primordial universe. The modern view incorporates inflation, followed by a reheating event that produced a hot, dense plasma. As the universe expanded and cooled, subatomic particles and then atoms formed. Primordial elements, mostly [[Hydrogen|hydrogen]] with some helium and lithium, coalesced under gravity, aided by [[Dark matter|dark matter]], into the first stars and galaxies. The theory describes the expansion of space itself, not an explosion in preexisting space.
+
+Alexander Friedmann introduced the concept of an expanding universe in 1922 through the Friedmann equations. [[Edwin Hubble]] published the earliest empirical observation of expansion, now called Hubble's law, in 1929, showing that galaxies recede from Earth at rates proportional to their distance. In 1931 [[Georges Lemaître]] proposed that the universe emerged from a "primeval atom." The CMB was discovered accidentally in 1964, and its uniformity and spectrum fit the Big Bang models; by the late 1960s most cosmologists had rejected the competing steady-state model.
+
+In the current universe, luminous matter makes up less than 5% of the density, dark matter 27%, and [[Dark energy|dark energy]], to which accelerating expansion is attributed, 68%. Unexplained aspects include the matter-antimatter imbalance and the nature of dark matter.
+
+=== KEY: Big_Ben_984a5a
+HEADWORD: Big Ben = 빅 벤
+LEVEL: 5
+GLOSSARY:
+  Augustus = 아우구스투스
+  Augustus Pugin = 오거스터스 퓨진
+  Barry = 배리
+  Bell = 종
+  Charles Barry = 찰스 배리
+  Clock = 시계
+  Clock Tower = 시계탑
+  Diamond = 다이아몬드
+  Diamond Jubilee = 즉위 60주년 기념식
+  Elizabeth II = 엘리자베스 2세
+  Elizabeth Tower = 엘리자베스 타워
+  Gothic = 고딕
+  Great Bell = 그레이트 벨
+  London = 런던
+  Palace = 궁전
+  Palace of Westminster = 웨스트민스터 궁전
+  Perpendicular Gothic = 수직 고딕 양식
+  Queen = 퀸
+  Queen Elizabeth II = 엘리자베스 2세 여왕
+  Tower = 탑
+  UNESCO = 유네스코
+  Westminster = 웨스트민스터
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+ENTRY:
+Nickname of the Great Bell of the clock at the [[Palace of Westminster]] in London, and by extension of the clock tower housing it. The tower, originally named the Clock Tower, was renamed the Elizabeth Tower in 2012 for the Diamond Jubilee of Queen [[Elizabeth II]]. Designed by Augustus Pugin and Charles Barry in Perpendicular Gothic style, it was completed in 1859 and stands 316 feet (96 m) tall. The clock is known for its reliability. It is a British cultural icon and a symbol of parliamentary democracy, designated a [[World Heritage Site]] by [[UNESCO]] in 1987.
+
+=== KEY: Big_Crunch_76cba5
+HEADWORD: Big Crunch = 빅 크런치
+LEVEL: 5
+GLOSSARY:
+  Alexander Friedmann = 알렉산드르 프리드만
+  Big Bang = 빅뱅
+  Big Chill = 빅 칠
+  Gravity = 중력
+  Russian = 러시아어
+ENTRY:
+Hypothetical scenario for the ultimate fate of the universe, in which expansion reverses and the universe recollapses. The idea dates to 1922, when Russian physicist Alexander Friedmann showed in his equations that the universe could either expand or contract, depending on its density. Gravity would reverse the expansion, and the universe would end in a fireball of near-infinite temperature, possibly followed by a new [[Big Bang]]. Most available evidence, however, indicates that the hypothesis is incorrect. Observations show that the expansion of the universe is accelerating, which makes a Big Chill more likely.
+
+=== KEY: Big_Dipper_1076c5
+HEADWORD: Big Dipper = 북두칠성
+LEVEL: 5
+GLOSSARY:
+  Asterism = 성군
+  Callisto = 칼리스토
+  Celestial navigation = 천측 항법
+  Dubhe = 두베
+  Greco-Roman = 그리스·로마
+  Hera = 헤라
+  Ireland = 아일랜드
+  Merak = 메라크
+  North Star = 북극성
+  Plough = 쟁기
+  Polaris = 북극성
+  Star = 항성
+  United Kingdom = 영국
+  Ursa Major = 큰곰자리
+  celestial navigation = 천측 항법
+ENTRY:
+Asterism of seven bright stars in the constellation Ursa Major, known as the Plough in the United Kingdom and Ireland. Four stars form a "bowl" and three form a "handle". Its two front stars, Merak and Dubhe, point to Polaris, the North Star, which makes the asterism useful in [[Celestial navigation|celestial navigation]]. In Greco-Roman tradition it is linked to the story of Callisto, transformed into a bear by [[Hera]].

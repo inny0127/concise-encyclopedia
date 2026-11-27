@@ -1,0 +1,1038 @@
+=== KEY: Microsoft_Bing_f3fc29
+HEADWORD: Microsoft Bing = 마이크로소프트 빙
+LEVEL: 5
+GLOSSARY:
+  Bing Chat = 빙 챗
+  Live Search = 라이브 서치
+  MSN Search = MSN 서치
+  Microsoft = 마이크로소프트
+  Microsoft AI = 마이크로소프트 AI
+  Microsoft Copilot = 마이크로소프트 코파일럿
+  Steve Ballmer = 스티브 발머
+  Windows = 윈도우
+  Windows Live Search = 윈도우 라이브 서치
+  Yahoo = 야후
+  Yahoo Search = 야후 검색
+  search engine = 검색 엔진
+ENTRY:
+Web search engine owned and operated by [[Microsoft]]. Developed by Microsoft AI, Bing traces its roots to MSN Search, Windows Live Search and Live Search. Microsoft CEO [[Steve Ballmer]] announced the transition from Live Search to Bing on May 28, 2009, and the official release followed on June 3, 2009. Under a deal with [[Yahoo|Yahoo!]], Bing powered Yahoo! Search. In February 2023 Microsoft launched Bing Chat, an AI chatbot based on GPT-4, later renamed Microsoft Copilot. As of April 2024, Bing held a 3.64% share of the global search market, second to Google's 90.91%.
+
+=== KEY: Microsoft_Excel_28392d
+HEADWORD: Microsoft Excel = 마이크로소프트 엑셀
+LEVEL: 5
+GLOSSARY:
+  Android = 안드로이드
+  Data analysis = 데이터 분석
+  Excel = 엑셀
+  Microsoft = 마이크로소프트
+  Microsoft 365 = 마이크로소프트 365
+  Microsoft Office = 마이크로소프트 오피스
+  Office = 성무일도
+  Spreadsheet = 스프레드시트
+  Spreadsheet editor = 스프레드시트 편집기
+  Turing = 튜링
+  Turing complete = 튜링 완전
+  Visual Basic for Applications = 비주얼 베이식 포 애플리케이션
+  Windows = 윈도우
+  pivot tables = 피벗 테이블
+ENTRY:
+[[Spreadsheet|Spreadsheet editor]] developed by [[Microsoft]] for Windows, macOS, Android, iOS and iPadOS. Excel offers calculation, graphing tools, pivot tables and a macro programming language, Visual Basic for Applications (VBA). It is used for [[Data analysis|data analysis]], and has been developed since 1985. It forms part of Microsoft 365 and [[Microsoft Office]]. Excel 2016 had 484 functions, classified into 14 categories. With the introduction of LAMBDA on December 3, 2020, Excel became Turing complete.
+
+=== KEY: Microsoft_Office_248294
+HEADWORD: Microsoft Office = 마이크로소프트 오피스
+LEVEL: 5
+GLOSSARY:
+  Access = 액세스
+  Bill Gates = 빌 게이츠
+  Excel = 엑셀
+  Microsoft = 마이크로소프트
+  Microsoft 365 = 마이크로소프트 365
+  Microsoft Excel = 마이크로소프트 엑셀
+  Microsoft PowerPoint = 마이크로소프트 파워포인트
+  Microsoft Word = 마이크로소프트 워드
+  Office = 성무일도
+  Office 365 = 오피스 365
+  Office suite = 오피스 제품군
+  OneNote = 원노트
+  Outlook = 아웃룩
+  Windows = 윈도우
+  Word = 단어
+ENTRY:
+Office suite of productivity software developed by [[Microsoft]]. The first version, announced by [[Bill Gates]] on August 1, 1988, contained [[Microsoft Word]], [[Microsoft Excel]] and [[Microsoft PowerPoint]]. The suite now includes OneNote and Outlook, and the Windows version also includes the Access database program. Since Office 2013 Microsoft has promoted subscription-based Microsoft 365, formerly Office 365, as the primary means of obtaining the suite. Revenue from Office 365 overtook conventional license sales in 2017. Microsoft still sells the perpetually licensed suite, the latest version of which is Office 2024.
+
+=== KEY: Microsoft_Outlook_ea33dc
+HEADWORD: Microsoft Outlook = 마이크로소프트 아웃룩
+LEVEL: 5
+GLOSSARY:
+  Email = 이메일
+  Entourage = 「안투라지」
+  Exchange Client = 익스체인지 클라이언트
+  Mac OS X = Mac OS X
+  Macintosh = 매킨토시
+  Microsoft = 마이크로소프트
+  Microsoft 365 = 마이크로소프트 365
+  Microsoft Entourage = 마이크로소프트 앙투라지
+  Microsoft Exchange Server = 마이크로소프트 익스체인지 서버
+  OS X = OS X
+  Outlook = 아웃룩
+  Personal information manager = 개인 정보 관리자
+  Privacy = 사생활
+  SharePoint = 셰어포인트
+ENTRY:
+Personal information manager and [[Email|email]] client from [[Microsoft]], available as part of the Microsoft 365 suite. Primarily popular with businesses, Outlook also provides calendaring, task and contact management, note-taking, journal logging and RSS news aggregation. Organizations can deploy it as multi-user software through Microsoft Exchange Server or SharePoint, for shared mailboxes, calendars and folders. Outlook replaced Microsoft's earlier Schedule+ and Exchange Client. Microsoft Entourage served Macintosh users until Outlook for Mac 2011, the first native version of Outlook for Mac OS X. Privacy concerns have been raised about the new Outlook, which sends passwords, mail and other data to Microsoft.
+
+=== KEY: Microsoft_PowerPoint_121333
+HEADWORD: Microsoft PowerPoint = 마이크로소프트 파워포인트
+LEVEL: 5
+GLOSSARY:
+  Austin = 오스틴
+  Dennis = 데니스
+  Dennis Austin = 데니스 오스틴
+  Macintosh = 매킨토시
+  Microsoft = 마이크로소프트
+  Microsoft Office = 마이크로소프트 오피스
+  Office = 성무일도
+  Presentation program = 프레젠테이션 프로그램
+  Robert Gaskins = 로버트 개스킨스
+  Windows = 윈도우
+ENTRY:
+Presentation program developed by [[Microsoft]] and part of [[Microsoft Office]]. It was created by Robert Gaskins and Dennis Austin at Forethought, Inc., and released on April 20, 1987, initially for Macintosh computers. Microsoft acquired it for about $14 million three months later, its first significant acquisition. PowerPoint became part of Microsoft Office in 1989 for Macintosh and in 1990 for Windows. Since the late 1990s its share of presentation software has been estimated at 95 percent. Its wide use in business has drawn strong reactions, including advice that presentations should be used less, differently or better.
+
+=== KEY: Microsoft_Windows_bb79f9
+HEADWORD: Microsoft Windows = 마이크로소프트 윈도우
+LEVEL: 4
+GLOSSARY:
+  Android = 안드로이드
+  Android (operating system) = 안드로이드
+  Family = 가족
+  MS-DOS = MS-DOS
+  Microsoft = 마이크로소프트
+  Windows = 윈도우
+  Windows 1.0 = 윈도우 1.0
+  Windows 11 = 윈도우 11
+  Windows 3.0 = 윈도우 3.0
+  Windows NT = 윈도우 NT
+  Windows NT 3.1 = 윈도우 NT 3.1
+  graphical shell = 그래픽 셸
+  graphical user interfaces = 그래픽 사용자 인터페이스
+  windowing system = 윈도 시스템
+ENTRY:
+Family of proprietary operating systems developed by [[Microsoft]]. The first version, Windows 1.0, was released on November 20, 1985, as a graphical shell for [[MS-DOS]]. The name refers to the windowing system of graphical user interfaces. The 1990 release of Windows 3.0 brought market success. All members of the family are based on the [[Windows NT]] line, whose first version, Windows NT 3.1, was intended for servers and corporate workstations. Windows is the most popular desktop operating system, with a 77% market share as of October 2026, and the second-most popular operating system overall, behind [[Android (operating system)|Android]]. Windows 11 is the most used desktop version, with a 74% share.
+
+=== KEY: Microsoft_Word_d241ed
+HEADWORD: Microsoft Word = 마이크로소프트 워드
+LEVEL: 5
+GLOSSARY:
+  Android = 안드로이드
+  Classic Mac OS = 클래식 맥 OS
+  MS-DOS = MS-DOS
+  Microsoft = 마이크로소프트
+  Microsoft 365 = 마이크로소프트 365
+  Microsoft Office = 마이크로소프트 오피스
+  Multi-Tool Word = 멀티툴 워드
+  Office = 성무일도
+  WYSIWYG = 위지윅
+  Windows = 윈도우
+  Word = 단어
+  Word processing program = 워드 프로세서 프로그램
+  Word processor = 워드 프로세서
+  WordPerfect = 워드퍼펙트
+  Xenix = 제닉스
+  de facto = 사실상
+ENTRY:
+[[Word processor|Word processing program]] developed by [[Microsoft]]. It was first released on October 25, 1983, as Multi-Tool Word for Xenix systems, and later ran on DOS, the Classic Mac OS, Windows (1989), macOS, iOS and Android. Unlike most MS-DOS programs of its time, it was designed for use with a mouse and offered WYSIWYG display. Word for Mac, released in 1985, was the first graphical version. It became the de facto standard word processor from the 1990s, when it eclipsed WordPerfect. Word is sold as a standalone product or as part of [[Microsoft Office]], under a perpetual license or Microsoft 365 subscription.
+
+=== KEY: Microwave_3660ca
+HEADWORD: Microwave = 마이크로파
+LEVEL: 4
+GLOSSARY:
+  Cosmic microwave background = 우주 마이크로파 배경
+  Electromagnetic radiation = 전자기 복사
+  IEEE = IEEE
+  IEEE radar band designations = IEEE 레이더 주파수 대역 명칭
+  Microwave oven = 전자레인지
+  Radar = 레이더
+  Radio astronomy = 전파 천문학
+  Spectroscopy = 분광학
+  Telecommunications = 전기 통신
+  diathermy = 투열 요법
+  electromagnetic radiation = 전자기 복사
+  infrared light = 적외선
+  line-of-sight = 가시선
+  microwave background = 우주 마이크로파 배경
+  particle accelerators = 입자 가속기
+  radio waves = 전파
+  remote sensing = 원격 탐사
+ENTRY:
+Form of [[Electromagnetic radiation|electromagnetic radiation]] with wavelengths of about 1 m to 1 mm, between radio waves and infrared light. Microwaves correspond to frequencies between 300 MHz and 300 GHz, though definitions vary. Frequencies in the microwave range are often referred to by IEEE radar band designations such as S, C, X, Ku, K and Ka. Microwaves travel by line-of-sight, so terrestrial microwave links are limited by the visual horizon to about 40 miles (64 km). They are used in [[Radar|radar]], satellite and spacecraft communication, [[Telecommunications|telecommunications]] and wireless networks, remote sensing, [[Spectroscopy|spectroscopy]], particle accelerators, medical diathermy and cancer treatment, and in [[Microwave oven|microwave ovens]]. Radio astronomy uses microwaves to detect the [[Cosmic microwave background]].
+
+=== KEY: Microwave_oven_beeb61
+HEADWORD: Microwave oven = 전자레인지
+LEVEL: 4
+GLOSSARY:
+  Amana = 아마나
+  Cavity magnetron = 공동 마그네트론
+  Maillard reaction = 마이야르 반응
+  Microwave = 마이크로파
+  Percy Spencer = 퍼시 스펜서
+  Radar = 레이더
+  Raytheon Radarange = 레이시온 레이더레인지
+  Sharp = 샤프
+  Spencer = 「스펜서」
+  United Kingdom = 영국
+  World = 세계
+  World War II = 제2차 세계 대전
+  dielectric heating = 유전 가열
+  polar molecules = 극성 분자
+ENTRY:
+Electric kitchen appliance for heating and cooking food with [[Microwave|microwave]] radiation. Microwaves cause polar molecules in food to rotate and generate heat, a process known as dielectric heating. Heating is fairly uniform in the outer 25–38 mm (1–1.5 inches) of a homogeneous, high-water-content food. The development of the [[Cavity magnetron|cavity magnetron]] in the United Kingdom made it practical to heat water molecules efficiently. American engineer Percy Spencer is generally credited with the first commercial model, the Raytheon Radarange, sold in 1947, which was based on British [[Radar]] technology developed before and during [[World War II]]. Sharp introduced the first model with a turntable between 1964 and 1966, and Amana introduced a countertop model in 1967. Microwave ovens usually do not brown food, because they rarely reach the temperatures needed for [[Maillard reaction|Maillard reactions]].
+
+=== KEY: Mid_Atlantic_Ridge_643af2
+HEADWORD: Mid-Atlantic Ridge = 대서양 중앙 해령
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Alfred = 앨프레드 대왕
+  Alfred Wegener = 알프레트 베게너
+  Atlantic Ocean = 대서양
+  Azores = 아조레스 제도
+  Bouvet Island = 부베섬
+  Eurasia = 유라시아
+  Greenland = 그린란드
+  Iceland = 아이슬란드
+  Matthew Fontaine Maury = 매슈 폰테인 모리
+  Mid-ocean ridge = 중앙 해령
+  North America = 북아메리카
+  Ocean = 대양
+  Plate tectonics = 판 구조론
+  Research = 연구
+  Romanche Trench = 로망슈 해구
+  South America = 남아메리카
+  South Atlantic = 남부 대서양 연안
+  continental drift = 대륙 이동설
+  divergent tectonic plate boundary = 발산형 판 경계
+  plate tectonics = 판 구조론
+  rift valley = 열곡
+  seafloor spreading = 해저 확장
+  tectonic plate = 지각판
+ENTRY:
+[[Mid-ocean ridge]] along the floor of the [[Atlantic Ocean]], a divergent tectonic plate boundary. The ridge is part of the longest mountain range in the world. It separates North America from Eurasia and Africa north of the [[Azores]], and separates Africa from South America to the south. It runs from near Greenland to [[Bouvet Island]]. Mostly underwater, it rises above sea level in [[Iceland]]. The ridge spreads at an average rate of about 2.5 cm (1 in) per year. Matthew Fontaine Maury first inferred it in 1853. Research on the global ridge system supported [[Alfred Wegener]]'s theory of continental drift, which led to seafloor spreading and [[Plate tectonics|plate tectonics]]. A deep rift valley runs along its axis, where magma erupts as lava to form new crust. Near the equator the Romanche Trench divides the ridge into North and South Atlantic ridges.
+
+=== KEY: Mid_ocean_ridge_4ef824
+HEADWORD: Mid-ocean ridge = 중앙 해령
+LEVEL: 4
+GLOSSARY:
+  Hydrothermal vent = 열수 분출공
+  Lava = 용암
+  Lithosphere = 암석권
+  Magma = 마그마
+  Mantle = 맨틀
+  Mid-Atlantic = 중부 대서양 연안
+  Mid-Atlantic Ridge = 대서양 중앙 해령
+  Plate tectonics = 판 구조론
+  mid-ocean ridge = 중앙 해령
+  mid-ocean ridges = 중앙 해령
+  oceanic crust = 해양 지각
+  seafloor spreading = 해저 확장
+ENTRY:
+Underwater mountain system formed by [[Plate tectonics|plate tectonic]] spreading. A mid-ocean ridge is where seafloor spreading occurs at a divergent plate boundary. Mantle material rises as [[Magma|magma]] at the linear weakness between separating plates and emerges as [[Lava|lava]], creating new oceanic crust and [[Lithosphere|lithosphere]] on cooling. A ridge typically lies at a depth of about 2,600 meters (8,500 ft) and rises about 2,000 meters (6,600 ft) above the deepest part of an ocean basin. The first one discovered, the [[Mid-Atlantic Ridge]], gave the name. Linked together, mid-ocean ridges form a global system that is the longest mountain range in the world, 65,000 km (40,400 mi) long. Spreading rates range from approximately 10–200 mm/yr. [[Hydrothermal vent|Hydrothermal vents]] along the ridges support ecosystems that do not depend on sunlight.
+
+=== KEY: Midazolam_ad8f59
+HEADWORD: Midazolam = 미다졸람
+LEVEL: 5
+GLOSSARY:
+  Anesthesia = 마취
+  Benzodiazepine = 벤조디아제핀
+  List of Essential Medicines = 필수 의약품 목록
+  Versed = 버세드
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  anterograde amnesia = 전향성 기억상실증
+  procedural sedation = 시술 진정
+ENTRY:
+[[Benzodiazepine]] medication, sold as Versed among others, for [[Anesthesia|anesthesia]] and procedural sedation. It induces sleepiness, reduces anxiety and causes anterograde amnesia, but does not render a person unconscious. It is also used to treat prolonged seizures and severe agitation. It can be given by mouth, intravenously, into a muscle, into the nose or through the cheek. Side effects can include slowed breathing, low blood pressure and sleepiness. It was patented in 1974 and came into medical use in 1982. It is on the [[World Health Organization]]'s List of Essential Medicines.
+
+=== KEY: Middle_Ages_c7d665
+HEADWORD: Middle Ages = 중세
+LEVEL: 3
+GLOSSARY:
+  Africa = 아프리카
+  Aquinas = 아퀴나스
+  Black = 검은색
+  Black Death = 흑사병
+  Byzantine = 비잔티움
+  Caliphate = 칼리파국
+  Carolingians = 카롤링거 왕조
+  Chartres = 샤르트르 대성당
+  Chaucer = 초서
+  Christians = 기독교인
+  Christoph Cellarius = 크리스토프 켈라리우스
+  Classical antiquity = 고전 고대
+  Crusades = 십자군
+  Dante = 단테
+  Death = 죽음
+  Fall of the Western Roman Empire = 서로마 제국의 멸망
+  Feudalism = 봉건제
+  Franks = 프랑크족
+  Germanic peoples = 게르만족
+  Giotto = 조토
+  Gothic = 고딕
+  High Middle Ages = 중세 성기
+  Holy Land = 성지
+  Late Middle Ages = 중세 후기
+  Latin = 라틴어
+  Magyars = 마자르족
+  Middle Ages = 중세
+  Middle East = 중동
+  Muslims = 무슬림
+  North Africa = 북아프리카
+  Petrarch = 페트라르카
+  Roman Empire = 로마 제국
+  Saracens = 사라센
+  Society = 사회
+  Thomas = 토머스
+  Thomas Aquinas = 토마스 아퀴나스
+  Umayyad = 우마이야 왕조
+  Umayyad Caliphate = 우마이야 칼리파국
+  Vikings = 바이킹
+  Western Roman Empire = 서로마 제국
+  classical antiquity = 고전 고대
+  manorialism = 장원제
+  media tempestas = 메디아 템페스타스
+ENTRY:
+Period of European history lasting approximately from the 5th to the late 15th centuries, also called the medieval period. It is the middle of the three traditional divisions of Western history, between [[Classical antiquity]] and the modern period, and is itself subdivided into the Early, High, and Late Middle Ages.
+
+The era began with the [[Fall of the Western Roman Empire]] and migrations of Germanic peoples, who formed new kingdoms. In the 7th century North Africa and the Middle East, once Byzantine, came under the [[Umayyad Caliphate]]. The Franks under the Carolingians briefly built an empire that succumbed to civil wars and invasions by Vikings, Magyars, and Saracens.
+
+During the High Middle Ages, beginning after 1000, population grew as technological and agricultural innovations allowed trade to flourish. Society was organized through manorialism and [[Feudalism]]. The East–West Schism of 1054 divided the Christian church, and the [[Crusades]], first preached in 1095, were attempts by Western Christians to regain the Holy Land from Muslims. Achievements near the period's end include the theology of [[Thomas Aquinas]], the paintings of Giotto, the poetry of Dante and Chaucer, and Gothic cathedrals such as Chartres.
+
+The Late Middle Ages brought famine, plague, and war; between 1347 and 1350 the [[Black Death]] killed about a third of Europeans.
+
+The term first appears in Latin in 1469 as *media tempestas*. [[Petrarch]] regarded the post-Roman centuries as "dark" compared with classical antiquity, a view some historians challenge, citing continuity in legal traditions, technology, and monastic preservation of classical texts. Christoph Cellarius made the ancient–medieval–modern division standard in the 17th century.
+
+=== KEY: Middle_East_158b06
+HEADWORD: Middle East = 중동
+LEVEL: 3
+GLOSSARY:
+  Abrahamic = 아브라함계
+  Abrahamic religions = 아브라함계 종교
+  Africa = 아프리카
+  Anatolia = 아나톨리아
+  Arab world = 아랍 세계
+  Arabia = 아라비아
+  Arabian Peninsula = 아라비아반도
+  Arabs = 아랍인
+  Asia = 아시아
+  Assyrians = 아시리아인
+  Caucasus = 캅카스
+  Christianity = 기독교
+  East Thrace = 동트라키아
+  Egypt = 이집트
+  Euphrates = 유프라테스강
+  Europe = 유럽
+  Fertile Crescent = 비옥한 초승달 지대
+  Greater Middle East = 대중동
+  Gulf Arab states = 걸프 아랍 국가
+  Iran = 이란
+  Iranian plateau = 이란고원
+  Islam = 이슬람교
+  Jews = 유대인
+  Jordan = 요르단
+  Judaism = 유대교
+  Kurds = 쿠르드족
+  Levant = 레반트
+  Levantine = 레반트
+  Mediterranean = 지중해
+  Mediterranean climate = 지중해성 기후
+  Mesopotamia = 메소포타미아
+  Middle East = 중동
+  Middle East and North Africa = 중동·북아프리카
+  Near East = 근동
+  Nile = 나일강
+  North Africa = 북아프리카
+  Peninsula = 반도
+  Persian = 페르시아어
+  Persian Gulf = 페르시아만
+  Persians = 페르시아인
+  Saudi Arabia = 사우디아라비아
+  Thrace = 트라키아
+  Tigris = 티그리스강
+  Turkey = 튀르키예
+  Turks = 튀르크인
+  West Asia = 서아시아
+  Western Europe = 서유럽
+  ethnic group = 민족 집단
+  fossil fuel = 화석 연료
+ENTRY:
+Geopolitical region generally defined as all of Egypt and all of West Asia except the Caucasus. It roughly corresponds to what Western Europe historically called the Near East. It follows political borders rather than continental ones, so it includes East Thrace as part of Turkey. The term has grown prominent since the early 20th century, but its definition is vague and changing; related concepts such as "Middle East and North Africa" and "Greater Middle East" extend it to include most Muslim-majority countries.
+
+Thirteen of its 18 countries belong to the [[Arab world]]. The most populous are Egypt, Iran, and Turkey, and Saudi Arabia is the largest by area. [[Arabs]] are the most widespread ethnic group, followed by Turks, Persians, Kurds, Jews, and Assyrians. Major geographical features include the Arabian Peninsula, [[Anatolia]], the Levant and [[Mesopotamia]] (which together form the [[Fertile Crescent]]), and the Iranian plateau.
+
+Located at the intersection of Africa, Europe, and Asia, the region was the first outside Africa settled by modern humans and the first in which writing systems were developed. All of the core [[Abrahamic religions]], Judaism, Christianity, and Islam, originated there and have their holiest sites there.
+
+Most of the region is hot and arid, especially the Arabian and Egyptian areas. Major rivers, including the Nile, Tigris, Euphrates, and Jordan, support agriculture. The Levantine coast and most of Turkey have a temperate Mediterranean climate. The Gulf Arab states along the [[Persian Gulf]] hold vast reserves of petroleum, which has influenced regional politics. Because of its aridity and dependence on the fossil fuel industry, the region is among the most vulnerable to climate change and water scarcity.
+
+=== KEY: Middle_Eastern_theatre_of_World_War_I_36826a
+HEADWORD: Middle Eastern theater of World War I = 제1차 세계 대전 중동 전역
+LEVEL: 4
+GLOSSARY:
+  Allied powers = 연합국
+  Allies = 연합국
+  Arab Revolt = 아랍 반란
+  Arabia = 아라비아
+  Arabs = 아랍인
+  Armistice of Erzincan = 에르진잔 휴전 협정
+  Armistice of Mudros = 무드로스 휴전 협정
+  Caucasus = 캅카스
+  Central Powers = 동맹국
+  Circassians = 체르케스인
+  Dominion = 자치령
+  French = 프랑스어
+  Gallipoli campaign = 갈리폴리 전역
+  Iran = 이란
+  Lausanne = 로잔
+  Libya = 리비아
+  Mecca = 메카
+  Mesopotamian = 메소포타미아
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Ottomans = 오스만 제국
+  Palestine = 팔레스타인
+  Revolt = 리볼트
+  Russian = 러시아어
+  Sharif Hussein = 샤리프 후세인
+  Sinai = 시나이반도
+  Sinai and Palestine = 시나이·팔레스타인
+  South Arabia = 남아라비아
+  Sèvres = 세브르 조약
+  Treaty = 조약
+  Treaty of Lausanne = 로잔 조약
+  Treaty of Sèvres = 세브르 조약
+  World = 세계
+  World War I = 제1차 세계 대전
+ENTRY:
+Theater of [[World War I]], 1914–18, between the [[Ottoman Empire]] and Allied powers. Ottoman forces, aided by many Kurdish tribes, Circassians and [[Arabs]], fought with some help from the [[Central Powers]]. British, Dominion, Russian, French and Indian troops fought for the Allies. The four main campaigns were the Sinai and Palestine, Mesopotamian, [[Caucasus]] and [[Gallipoli campaign|Gallipoli]] campaigns. Four minor campaigns were fought in Iran, South Arabia, the Arabian interior and Libya. Arab forces joined the Allies in the Arab Revolt, proclaimed by Sharif Hussein of [[Mecca]] in June 1916. Russian participation ended with the Armistice of Erzincan on December 5, 1917. The Ottomans accepted the Armistice of Mudros on October 30, 1918, and later signed the Treaty of Sèvres (August 10, 1920) and the Treaty of Lausanne (July 24, 1923).
+
+=== KEY: Middle_English_8d4931
+HEADWORD: Middle English = 중세 영어
+LEVEL: 4
+GLOSSARY:
+  Anglo-Norman = 앵글로노르만어
+  Anglo-Norman French = 앵글로노르만 프랑스어
+  Canterbury = 캔터베리
+  Canterbury Tales = 『캔터베리 이야기』
+  Chancery Standard = 챈서리 표준어
+  Chaucer = 초서
+  Conquest = 정복
+  Early Modern English = 초기 근대 영어
+  East Midland = 동중부 방언
+  England = 잉글랜드
+  English language = 영어
+  French = 프랑스어
+  Geoffrey Chaucer = 제프리 초서
+  Gutenberg = 구텐베르크
+  Johannes Gutenberg = 요하네스 구텐베르크
+  Middle English = 중세 영어
+  Modern English = 현대 영어
+  Norman = 노르만
+  Norman Conquest = 노르만 정복
+  Norse = 노르드인
+  Old English = 고대 영어
+  Old Norse = 고대 노르드어
+  Standard = 스탠더드
+  The Canterbury Tales = 『캔터베리 이야기』
+  West Midland = 서중부 방언
+  printing press = 인쇄기
+ENTRY:
+Stage of the English language spoken in England from the [[Norman Conquest]] of 1066 until the late 15th century. Middle English evolved from [[Old English]] under the influence of Anglo-Norman French and Old Norse. Most grammatical case distinctions were reduced and eventually lost, and the language came to depend more on word order. Its vocabulary absorbed many Anglo-Norman words, especially in politics, law, the arts and religion. Regional dialects differed widely; the four main dialects in England were Northern, East Midland, West Midland and Southern. By about 1470 a standard based on London dialects, the Chancery Standard, had become established. Aided by the printing press, invented by [[Johannes Gutenberg]] in 1439, it formed the basis for [[Modern English]] spelling. The period's most studied work is *The Canterbury Tales* by [[Geoffrey Chaucer]]. In England, Middle English was succeeded by Early Modern English, which lasted until about 1650.
+
+=== KEY: Middle_Kingdom_of_Egypt_86b95c
+HEADWORD: Middle Kingdom of Egypt = 이집트 중왕국
+LEVEL: 4
+GLOSSARY:
+  Amun = 아문
+  Ancient Egypt = 고대 이집트
+  Asia = 아시아
+  Baron von Bunsen = 폰 분젠 남작
+  Egypt = 이집트
+  First and Second Intermediate Periods = 제1중간기와 제2중간기
+  German = 독일어
+  Hyksos = 힉소스
+  Intermediate Periods = 중간기
+  Lower Egypt = 하이집트
+  Mentuhotep II = 멘투호테프 2세
+  Mentuhotep III = 멘투호테프 3세
+  Middle Kingdom = 중왕국
+  Min = 민어
+  Nubia = 누비아
+  Osiris = 오시리스
+  Punt = 푼트
+  Red Sea = 홍해
+  Second = 초
+  Second Cataract = 제2폭포
+  Second Intermediate Period = 제2중간기
+  Sinai = 시나이반도
+  Thebes = 테베
+  Wadi Hammamat = 와디 함마마트
+  West Asia = 서아시아
+ENTRY:
+Period of [[Ancient Egypt|ancient Egyptian]] history, approximately 2040 to 1782 or 1700 BC, depending on the definition, between the First and Second Intermediate Periods. Mentuhotep II, who ruled from Thebes, reunified Egypt after a long period of division and is regarded as the founder of the Middle Kingdom. He campaigned as far south as the Second Cataract in [[Nubia]], restored Egyptian control over the Sinai, and depicted himself as a god wearing the headdresses of [[Amun]] and Min. Mentuhotep III sent the first expedition to Punt, using ships built at the end of Wadi Hammamat on the [[Red Sea]]. Osiris became the most important deity in popular religion. The idea of the Middle Kingdom as one of three golden ages was coined in 1845 by the German Egyptologist Baron von Bunsen. It was followed by the Second Intermediate Period, when the Hyksos of West Asia ruled Lower Egypt.
+
+=== KEY: Middle_Paleolithic_1eeee5
+HEADWORD: Middle Paleolithic = 중기 구석기 시대
+LEVEL: 4
+GLOSSARY:
+  Africa = 아프리카
+  Asia = 아시아
+  Behavioral modernity = 행동적 현대성
+  Blombos Cave = 블롬보스 동굴
+  Cave = 동굴
+  Croatia = 크로아티아
+  Es Skhul = 에스스쿨
+  Europe = 유럽
+  Homo = 사람속
+  Israel = 이스라엘
+  Krapina = 크라피나
+  Neanderthal = 네안데르탈인
+  Neanderthals = 네안데르탈인
+  Ochre = 황토
+  Old Stone Age = 구석기 시대
+  Paleolithic = 구석기 시대
+  Qafzeh = 카프제
+  Second = 초
+  Stone Age = 석기 시대
+  Upper Paleolithic = 후기 구석기 시대
+  anatomically modern humans = 해부학적 현생 인류
+  behavioral modernity = 행동적 현대성
+  raw materials = 원자재
+  recent African origin theory = 아프리카 기원설
+ENTRY:
+Second subdivision of the [[Paleolithic]], or Old [[Stone Age]], as understood in Europe, Africa and Asia. It broadly spanned 300,000 to 50,000 years ago and was succeeded by the [[Upper Paleolithic]]. The earliest evidence of [[Behavioral modernity|behavioral modernity]] first appears in this period, although undisputed evidence becomes common only in the Upper Paleolithic. The earliest undisputed artistic expression includes bracelets, beads and [[Ochre|ochre]] used as body paint, at sites such as Blombos Cave. Burials at Krapina in Croatia and at the Qafzeh and Es Skhul caves in Israel have led some scholars to suggest religious beliefs, including an afterlife, though others attribute them to secular reasons. Long-distance trade in raw materials began as early as 120,000 years ago. According to the recent African origin theory, anatomically modern humans began migrating out of [[Africa]] around 125,000 years ago and replaced other Homo species, including [[Neanderthal|Neanderthals]].
+
+=== KEY: Middle_age_e1b9d4
+HEADWORD: Middle age = 중년
+LEVEL: 4
+GLOSSARY:
+  Cancer = 암
+  Diabetes = 당뇨병
+  Erik Erikson = 에릭 에릭슨
+  Hypertension = 고혈압
+  Menopause = 폐경
+  Physical = 「Physical」
+  generativity versus stagnation = 생산성 대 침체
+  midlife crisis = 중년의 위기
+  psychosocial development = 심리사회적 발달
+ENTRY:
+Phase of adulthood between young adulthood and old age, commonly defined as ages 40 to 64. Definitions vary, and many people now place its start near age 55. Physical changes include graying hair and a decline in fertility, and women typically experience [[Menopause|menopause]] between ages 45 and 55. Mortality rates begin to rise, mainly because of heart problems, [[Cancer|cancer]], [[Hypertension|hypertension]] and [[Diabetes|diabetes]], although most middle-aged people in industrialized nations live into old age. [[Erik Erikson]] called this stage generativity versus stagnation, the seventh of eight stages of psychosocial development. Career satisfaction shifts toward inner contentment, and career changes remain common. The perception of a typical midlife crisis is described as largely false, though a subset of people may experience one.
+
+=== KEY: Middle_class_8cc440
+HEADWORD: Middle class = 중산층
+LEVEL: 4
+GLOSSARY:
+  French = 프랑스어
+  French Revolution = 프랑스 혁명
+  Friedrich Engels = 프리드리히 엥겔스
+  James = 야고보
+  James Bradshaw = 제임스 브래드쇼
+  The Economist = 『이코노미스트』
+  United States = 미국
+  Working class = 노동 계급
+ENTRY:
+Class of people in the middle of a societal hierarchy, often defined by occupation, income, education or social status. Common definitions range from the middle fifth of people on a nation's income ladder to everyone except the poorest and wealthiest 20%. In the United States the term describes people who in other countries would be called [[Working class|working class]]. The term was first attested in a 1745 pamphlet by James Bradshaw. [[Friedrich Engels]] saw the category as lying between the nobility and the peasantry in late feudal society, and the middle classes helped drive the [[French Revolution]]. The modern usage dates to the 1913 U.K. Registrar-General's report, which placed the middle class between the upper and working classes. In 2009, *The Economist* asserted that over half the world's population belonged to the middle class.
+
+=== KEY: Middlemarch_87d039
+HEADWORD: Middlemarch = 미들마치
+LEVEL: 4
+GLOSSARY:
+  A Study of Provincial Life = 「지방 생활 연구」
+  Dorothea Brooke = 도러시아 브룩
+  George Eliot = 조지 엘리엇
+  Les Misérables = 『레 미제라블』
+  Life = 『라이프』
+  Mary Ann Evans = 메리 앤 에번스
+  Middlemarch = 『미들마치』
+  Midlands = 미들랜즈
+  Novel = 소설
+  Reform Act 1832 = 1832년 선거법 개정
+  Tertius Lydgate = 터셔스 리드게이트
+ENTRY:
+Novel by [[George Eliot]], the pen name of Mary Ann Evans, published in eight installments from December 1871 to December 1872. Subtitled *A Study of Provincial Life*, it is set in the fictional Midlands town of Middlemarch from 1829 to 1832 and follows many intersecting characters, including Dorothea Brooke, who searches for purpose, and the physician Tertius Lydgate. Its themes include the status of women, the nature of marriage, religion, hypocrisy, political reform and education. It approaches events such as the Reform Act 1832 and the early railways in a realist mode, leavened with comic elements. Its serial form borrowed a method used for Victor Hugo's *Les Misérables*. Initial reviews were mixed, but 70 years later it was considered Eliot's best work and one of the great English novels.
+
+=== KEY: Midge_c9e88c
+HEADWORD: Midge = 깔따구
+LEVEL: 5
+GLOSSARY:
+  Biting midges = 등에모기
+  Black fly = 먹파리
+  Diptera = 파리목
+  Fly = 파리
+  Hemoglobin = 헤모글로빈
+  Others = 아더
+  Swallow = 제비
+  bloodworms = 붉은 장구벌레
+  bluetongue = 블루텅
+  gall midges = 혹파리
+  nematoceran Diptera = 파리목 장각아목
+  no-see-ums = 등에모기
+  sand flies = 모래파리
+ENTRY:
+Small [[Fly|fly]] of any of several families of non-mosquito nematoceran Diptera. Midges are found on nearly every land area outside permanently arid deserts and the frigid zones. Some, such as sand flies and [[Black fly|black flies]], are vectors of disease. Others are prey for insectivores, including frogs and [[Swallow|swallows]]. Most midges, except the gall midges, are aquatic as larvae. Biting midges, known as no-see-ums, deliver painful bites and spread diseases such as bluetongue in livestock. The larvae of some non-biting midges contain [[Hemoglobin|hemoglobin]] and are called bloodworms.
+
+=== KEY: Midnight_s_Children_1a646f
+HEADWORD: Midnight's Children = 한밤의 아이들
+LEVEL: 4
+GLOSSARY:
+  Big Read = 빅 리드
+  Booker Prize = 부커상
+  Emergency = 비상사태
+  India = 인도
+  Indira Gandhi = 인디라 간디
+  Midnight Children's Conference = 한밤의 아이들 회의
+  Novel = 소설
+  Partition of India = 인도 분할
+  Saleem Sinai = 살림 시나이
+  Salman = 살만
+  Salman Rushdie = 살만 루슈디
+  Sinai = 시나이반도
+  The Big Read = 「빅 리드」
+  The Emergency (India) = 인도 비상사태
+  magical realist = 마술적 사실주의
+  postcolonial = 탈식민주의
+  the Emergency = 비상사태
+ENTRY:
+Novel by Indian-British writer [[Salman Rushdie]], published in 1981. Its narrator, Saleem Sinai, is born at the moment of [[India]]'s independence and discovers that children born in India in the same hour have special powers. The novel is a postcolonial, magical realist story in three books, interweaving Saleem's personal history with the nation's history of colonial rule and [[Partition of India|partition]]. Saleem leads a Midnight Children's Conference that links hundreds of gifted children telepathically. Its political passages criticize [[Indira Gandhi]]'s rule during the [[The Emergency (India)|Emergency]], when Saleem is held as a political prisoner. The novel won the [[Booker Prize]] in 1981 and sold over one million copies in the UK alone. It reached number 100 in the BBC's *The Big Read* poll of the UK's best-loved novels in 2003.
+
+=== KEY: Midnight_sun_4d9bbd
+HEADWORD: Midnight sun = 백야
+LEVEL: 5
+GLOSSARY:
+  Antarctic Circle = 남극권
+  Arctic = 북극
+  Arctic Circle = 북극권
+  Circle = 원
+  Murmansk = 무르만스크
+  North Pole = 북극점
+  Polar night = 극야
+  Refraction = 굴절
+  Russia = 러시아
+  midnight sun = 백야
+  polar circles = 극권
+  polar day = 극주
+ENTRY:
+Phenomenon in which the Sun remains visible at local midnight during summer, also called polar day. It occurs north of the [[Arctic Circle]] and south of the [[Antarctic Circle]], at latitudes from approximately 65°44' to the poles, and [[Refraction|refraction]] extends it slightly beyond the polar circles. At the [[North Pole]] it lasts about six months, from approximately 18 March to 24 September. [[Murmansk]], Russia, the world's largest city north of the Arctic Circle, has midnight sun from 22 May to 22 July, or 62 days. The opposite, [[Polar night]], occurs in winter when the Sun stays below the horizon all day.
+
+=== KEY: Midway_Atoll_79a3f6
+HEADWORD: Midway Atoll = 미드웨이 환초
+LEVEL: 5
+GLOSSARY:
+  Battle of Midway = 미드웨이 해전
+  Eastern Island = 이스턴섬
+  Hawaii = 하와이주
+  Hawaiian = 하와이어
+  Hawaiian Islands = 하와이 제도
+  Honolulu = 호놀룰루
+  Lagoon = 석호
+  Midway = 미드웨이
+  Midway Lagoon = 미드웨이 석호
+  North Pacific = 북태평양
+  North Pacific Ocean = 북태평양
+  Ocean = 대양
+  Pacific = 태평양
+  Pacific Ocean = 태평양
+  Sand = 모래
+  Sand Island = 샌드섬
+  Spit Island = 스핏섬
+  Today = 「투데이」
+  War = 전쟁
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+U.S. atoll in the North Pacific Ocean. Its three islands are Sand Island, the only inhabited one, Eastern Island and Spit Island, which together enclose Midway Lagoon. Midway lies about 1,310 miles northwest of [[Honolulu]] and is part of the [[Hawaiian Islands]] but not the state of [[Hawaii]]. From 1941 to 1993 it hosted a naval air facility that played a role in the [[Battle of Midway]] (June 4–6, 1942), a critical Allied victory and a turning point of the Pacific campaign of [[World War II]]. Today it is a wildlife refuge, and about 50 people live on Sand Island.
+
+=== KEY: Midwestern_United_States_5e0a2d
+HEADWORD: Midwestern United States = 미국 중서부
+LEVEL: 4
+GLOSSARY:
+  Agriculture = 농업
+  Appalachian = 애팔래치아산맥
+  Chicago = 시카고
+  Corn Belt = 콘벨트
+  Dakota = 다코타족
+  Heartland = 하틀랜드
+  Illinois = 일리노이주
+  Indiana = 인디애나주
+  Interior Plain = 내륙 평원
+  Iowa = 아이오와주
+  Kansas = 캔자스주
+  Michigan = 미시간주
+  Midwest = 중서부
+  Minnesota = 미네소타주
+  Mississippi River = 미시시피강
+  Missouri = 미주리주
+  Missouri River = 미주리강
+  Nebraska = 네브래스카주
+  North Dakota = 노스다코타주
+  Ohio = 오하이오주
+  Ohio River = 오하이오강
+  Plain = 평야
+  River = 강
+  Rocky Mountains = 로키산맥
+  South Dakota = 사우스다코타주
+  United States = 미국
+  Wisconsin = 위스콘신주
+  census regions = 인구 조사 지역
+  swing states = 경합주
+ENTRY:
+One of four census regions of the United States, occupying the northern central part of the country. Also called the Midwest or the Heartland, it comprises 12 states: Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin. The 2020 U.S. census put its population at 68,995,685. The region lies on the broad Interior Plain between the Appalachian and Rocky Mountains, and its major rivers include the [[Ohio River]], the upper [[Mississippi River]] and the [[Missouri River]]. [[Chicago]] is its most populous city, and its metropolitan area has an estimated 9.4 million residents. The economy mixes heavy industry and [[Agriculture|agriculture]], with extensive areas in the Corn Belt. Politically, the region includes multiple swing states and is often decisive in elections.
+
+=== KEY: Mieszko_I_1b007f
+HEADWORD: Mieszko I = 미에슈코 1세
+LEVEL: 4
+GLOSSARY:
+  Bohemia = 보헤미아
+  Bolesław I the Brave = 볼레스와프 1세
+  Brave = 『브레이브』
+  Denmark = 덴마크
+  Dobrawa = 도브라바
+  Europe = 유럽
+  Holy Roman Empire = 신성 로마 제국
+  Kuyavia = 쿠야비아
+  Lesser Poland = 말로폴스카
+  Piast = 피아스트 왕조
+  Piast dynasty = 피아스트 왕조
+  Poland = 폴란드
+  Přemyslid = 프르셰미슬 왕조
+  Roman Empire = 로마 제국
+  Silesia = 슐레지엔
+  Sweden = 스웨덴
+  Western Pomerania = 서포메라니아
+  queen consort = 왕비
+ENTRY:
+Duke of Poland from 960 to 992 and founder of the first unified Polish state. A member of the Piast dynasty, he was baptized in 966 and became the first Christian ruler of Poland; his 965 marriage to the Přemyslid princess Dobrawa is said to have brought the Christian faith to Poland. He extended Polish control through alliance and force, subjugating Kuyavia, waging war for Western Pomerania, and capturing Silesia and Lesser Poland late in his reign. He made alliances with [[Bohemia]], [[Sweden]] and the [[Holy Roman Empire]], and his daughter became queen consort of [[Denmark]]. He left his son [[Bolesław I the Brave]] a country with greatly expanded territories and a well-established position in Europe.
+
+=== KEY: Migraine_a4964a
+HEADWORD: Migraine = 편두통
+LEVEL: 4
+GLOSSARY:
+  Ibuprofen = 이부프로펜
+  Menopause = 폐경
+  Paracetamol = 파라세타몰
+  Puberty = 사춘기
+  anticonvulsants = 항경련제
+  aura = 전조
+  beta blockers = 베타 차단제
+  opioids = 오피오이드
+  triptans = 트립탄
+ENTRY:
+Neurological disorder that causes recurrent moderate-to-severe headaches, often on one side of the head. Attacks are generally associated with nausea, light sensitivity and sound sensitivity, and some begin with an aura, a sensory disturbance. Triggers include lack of sleep, skipped meals and hormonal fluctuations. It is believed to result from a combination of genetic, environmental and neurological factors. Mild to moderate attacks are first treated with over-the-counter pain relievers such as [[Ibuprofen|ibuprofen]] and [[Paracetamol|paracetamol]], and triptans are recommended for moderate to severe attacks. Preventive medications include beta blockers, anticonvulsants and certain antidepressants, while opioids should generally not be used. Approximately 14% (1.16 billion) of people have a migraine in a given year. Women experience more and longer migraines than men, beginning in [[Puberty|puberty]], and migraines tend to decrease after [[Menopause|menopause]].
+
+=== KEY: Migration_Period_0cb7aa
+HEADWORD: Migration Period = 민족 대이동
+LEVEL: 4
+GLOSSARY:
+  Alemanni = 알레만니족
+  Barbarian Invasions = 야만족의 침입
+  Burgundians = 부르군트족
+  Constantinople = 콘스탄티노폴리스
+  Danube = 도나우강
+  Eastern Roman Empire = 동로마 제국
+  Europe = 유럽
+  Fall of Constantinople = 콘스탄티노폴리스 함락
+  Gothic = 고딕
+  Goths = 고트족
+  Huns = 훈족
+  Italy = 이탈리아
+  Lombard = 랑고바르드
+  Lombards = 랑고바르드족
+  Roman Empire = 로마 제국
+  Vandals = 반달족
+  Western Roman Empire = 서로마 제국
+  fall of Constantinople = 콘스탄티노폴리스 함락
+ENTRY:
+European period of large-scale migrations, c. AD 300–600, also called the Barbarian Invasions. Tribes including the [[Vandals]], [[Goths]], Burgundians, Alemanni and [[Lombards]] migrated into and settled former Roman territories, establishing post-Roman kingdoms. Historians traditionally date the period from the invasion of Europe by the [[Huns]] in about AD 375 to the Lombard conquest of Italy in 568. Estimates for the Gothic crossing of the [[Danube]] in 376 range from 90,000–200,000 people, and total migration into Roman territory may have reached 500,000 to over 1,000,000 people. The fall of the [[Western Roman Empire]] led to competing barbarian kingdoms, while the Eastern Roman Empire survived until the [[Fall of Constantinople|fall of Constantinople]] in 1453. Scholars continue to debate whether migration or internal decline caused Rome's collapse.
+
+=== KEY: Miguel_Hidalgo_y_Costilla_e3c2e9
+HEADWORD: Hidalgo y Costilla, Miguel = 이달고 이 코스티야, 미겔
+LEVEL: 4
+GLOSSARY:
+  Bajío = 바히오
+  Battle of Calderón Bridge = 칼데론 다리 전투
+  Bridge = 다리
+  Calderón = 칼데론
+  Catholic = 가톨릭
+  Chihuahua = 치와와
+  Colegio de San Nicolás = 산니콜라스 학교
+  Enlightenment = 계몽주의
+  Execution by firing squad = 총살형
+  Grito de Dolores = 「돌로레스의 외침」
+  Guadalajara = 과달라하라
+  Independence = 인디펜던스
+  José María Morelos = 호세 마리아 모렐로스
+  Mexican War of Independence = 멕시코 독립 전쟁
+  Morelos = 모렐로스주
+  Valladolid = 바야돌리드
+  War = 전쟁
+  War of Independence = 독립 전쟁
+ENTRY:
+Mexican Catholic priest and leader of the early phase of the [[Mexican War of Independence]]. A professor at the Colegio de San Nicolás in Valladolid, he was influenced by Enlightenment ideas, which contributed to his ouster in 1792. On the night of 15–16 September 1810, he called the population to arms. He is widely recognized as the father of the Mexican nation for issuing the *Grito de Dolores*, which initiated the armed struggle against Spanish colonial rule. He assembled a large, poorly disciplined popular army that scored early successes in the Bajío and headed a provincial government in [[Guadalajara]]. After a decisive defeat at the Battle of Calderón Bridge in January 1811, he was captured while fleeing north, defrocked and executed by [[Execution by firing squad|firing squad]] in Chihuahua on 30 July 1811. His short leadership radicalized the independence movement and paved the way for José María Morelos.
+
+=== KEY: Miguel_de_Cervantes_244718
+HEADWORD: Cervantes, Miguel de = 세르반테스, 미겔 데
+LEVEL: 3
+GLOSSARY:
+  Alcalá de Henares = 알칼라데에나레스
+  Algiers = 알제
+  Barbary pirates = 바르바리 해적
+  Battle of Lepanto = 레판토 해전
+  Cervantes = 세르반테스
+  Convento de las Trinitarias Descalzas = 맨발의 삼위일체 수녀원
+  Don Quixote = 『돈키호테』
+  Eight = 「에잇」
+  Eight Plays and Eight Interludes = 『8편의 희곡과 8편의 막간극』
+  Exemplary Novels = 『모범 소설집』
+  Journey to Parnassus = 『파르나소스 여행』
+  La Galatea = 『라 갈라테아』
+  Lepanto = 레판토
+  Los trabajos de Persiles y Sigismunda = 『페르실레스와 시히스문다의 고난』
+  Madrid = 마드리드
+  Navy = 해군
+  Novel = 소설
+  Novelas ejemplares = 『모범 소설집』
+  Ocho comedias y ocho entremeses = 『8편의 희곡과 8편의 막간극』
+  Rome = 로마
+  Spain = 스페인
+  Spanish language = 에스파냐어
+  The Travails of Persiles and Sigismunda = 『페르실레스와 시히스문다의 고난』
+  Viaje del Parnaso = 『파르나소스 여행』
+  chivalric romances = 기사 로맨스
+  relative poverty = 상대적 빈곤
+ENTRY:
+Spanish novelist, poet, playwright, and soldier. He is best known for the two-part [[Novel]] *[[Don Quixote]]*, widely regarded as the first modern novel and often labeled the "best book of all time" by many authors. His reputation as the greatest writer in the Spanish language is reflected in the common description of Spanish as "the language of Cervantes."
+
+Born in Alcalá de Henares to a surgeon father, he spent much of his life in relative poverty and obscurity, and many of his early works were lost. In 1569 he was forced to leave Spain for [[Rome]], where he worked in a cardinal's household. In 1570 he enlisted in a Spanish Navy infantry regiment and was badly wounded at the Battle of Lepanto in October 1571, losing the use of his left arm and hand. He served as a soldier until 1575, when Barbary pirates captured him. After five years in captivity in [[Algiers]], he was ransomed in 1580 and returned to [[Madrid]].
+
+His first significant novel, *La Galatea*, appeared in 1585, while he worked as a purchasing agent and later as a government tax collector; he was imprisoned in 1597 over fiscal irregularities. Part One of *Don Quixote*, a parody of chivalric romances, was published in 1605 and Part Two in 1615. His other works include the 12 *Novelas ejemplares* (*Exemplary Novels*), the long poem *Viaje del Parnaso* (*Journey to Parnassus*), and *Ocho comedias y ocho entremeses* (*Eight Plays and Eight Interludes*). His final novel, *Los trabajos de Persiles y Sigismunda* (*The Travails of Persiles and Sigismunda*), was published posthumously in 1617. He was buried in the Convento de las Trinitarias Descalzas in Madrid.
+
+=== KEY: Miguel_ngel_F_lix_Gallardo_808616
+HEADWORD: Félix Gallardo, Miguel Ángel = 펠릭스 가야르도, 미겔 앙헬
+LEVEL: 5
+GLOSSARY:
+  Drug Enforcement Administration = 마약단속국
+  El Chapo = 엘 차포
+  Guadalajara = 과달라하라
+  Guadalajara Cartel = 과달라하라 카르텔
+  Joaquín Guzmán = 호아킨 구스만
+  Medellín = 메데인
+  Medellín Cartel = 메데인 카르텔
+  Pablo Escobar = 파블로 에스코바르
+  United States = 미국
+  house arrest = 가택 연금
+ENTRY:
+Mexican drug lord and founder of the Guadalajara Cartel, which controlled much of Mexico's drug trafficking and the border corridors in the 1980s. He formed alliances with Colombian cartels, especially the [[Medellín Cartel]] of [[Pablo Escobar]], to smuggle drugs into the United States. Sometime in the 1980s he put Joaquín Guzmán, known as [[El Chapo]], in charge of logistics. Arrested in 1989 on charges of ordering the murder of Drug Enforcement Administration agent Enrique "Kiki" Camarena, he served a 40-year sentence and was granted house arrest in 2022.
+
+=== KEY: Mike_Judge_1c4c80
+HEADWORD: Judge, Mike = 저지, 마이크
+LEVEL: 5
+GLOSSARY:
+  Albuquerque = 앨버커키
+  Albuquerque, New Mexico = 앨버커키
+  Annie = 「애니」
+  Annie Awards = 애니상
+  Baseball = 야구
+  Beavis and Butt-Head = 「비비스와 벗헤드」
+  Ecuador = 에콰도르
+  Emmy = 에미상
+  Emmy Award = 에미상
+  Fox = 폭스
+  Frog = 개구리
+  Frog Baseball = 「프로그 베이스볼」
+  Greg Daniels = 그레그 대니얼스
+  Guayaquil = 과야킬
+  HBO = HBO
+  Idiocracy = 「이디오크러시」
+  Judge = 판사
+  King of the Hill = 「킹 오브 더 힐」
+  MTV = MTV
+  Office = 성무일도
+  Office Space = 「뛰는 백수 나는 건달」
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Award = 프라임타임 에미상
+  Silicon = 규소
+  Silicon Valley = 「실리콘밸리」
+  Space = 공간
+ENTRY:
+American animator, actor and filmmaker, creator of the animated series *Beavis and Butt-Head*. Born in Guayaquil, Ecuador, and raised in [[Albuquerque, New Mexico|Albuquerque]], he worked briefly in physics and engineering before turning to animation. His short *Frog Baseball* became the [[MTV]] series *Beavis and Butt-Head*, and with Greg Daniels he created *King of the Hill*, which ran for 13 seasons on Fox. He wrote and directed *Office Space* (1999) and *Idiocracy* (2006), and he co-created the HBO series *Silicon Valley*. Judge has won a Primetime Emmy Award and two Annie Awards for *King of the Hill*.
+
+=== KEY: Mike_Myers_96e42c
+HEADWORD: Myers, Mike = 마이어스, 마이크
+LEVEL: 5
+GLOSSARY:
+  Austin = 오스틴
+  Austin Powers = 「오스틴 파워」
+  Canada = 캐나다
+  Dr. Seuss = 닥터 수스
+  Emmy = 에미상
+  Emmy Award = 에미상
+  Hollywood = 할리우드
+  Hollywood Walk of Fame = 할리우드 명예의 거리
+  Night = 『밤』
+  Order of Canada = 캐나다 훈장
+  Primetime Emmy = 프라임타임 에미상
+  Primetime Emmy Award = 프라임타임 에미상
+  Saturday Night = 「새터데이 나이트」
+  Saturday Night Live = 「새터데이 나이트 라이브」
+  Shrek = 「슈렉」
+  The Cat in the Hat = 「더 캣」
+  Walk of Fame = 명예의 거리
+  Wayne's World = 「웨인즈 월드」
+  World = 세계
+ENTRY:
+Canadian-American actor, comedian and filmmaker, known for the title roles in the *Wayne's World*, *Austin Powers* and *Shrek* franchises. He was a cast member on [[Saturday Night Live]] from 1989 to 1995, and his work there won him a Primetime Emmy Award for writing. He played the title role in *The Cat in the Hat* (2003), a live-action adaptation of a [[Dr. Seuss]] book. He made his directorial debut with the documentary *Supermensch: The Legend of Shep Gordon* (2013).In 2002 he received a star on the [[Hollywood Walk of Fame]], and in 2017 he was named an Officer of the Order of Canada.
+
+=== KEY: Mike_Nichols_835309
+HEADWORD: Nichols, Mike = 니컬스, 마이크
+LEVEL: 5
+GLOSSARY:
+  Academy Award = 아카데미상
+  Academy Award for Best Director = 아카데미 감독상
+  Arthur Miller = 아서 밀러
+  Best Director = 감독상
+  Chicago = 시카고
+  Closer = 「클로저」
+  Death = 죽음
+  Death of a Salesman = 「세일즈맨의 죽음」
+  Elaine = 일레인
+  Elaine May = 일레인 메이
+  Emmy = 에미상
+  Grammy = 그래미상
+  Luv = 「러브」
+  Nichols and May = 니컬스 앤드 메이
+  Oscar = 오스카상
+  Silkwood = 「실크우드」
+  The Graduate = 「졸업」
+  The Odd Couple = 「별난 커플」
+  Tony = 토니상
+  Tony Awards = 토니상
+  Virginia Woolf = 버지니아 울프
+ENTRY:
+American film and theater director and comedian, one of 28 people to have won all four major American entertainment awards: Emmy, Grammy, Oscar and Tony. He began in the 1950s with an improvisational troupe in Chicago and formed the comedy duo Nichols and May with Elaine May. He won Tony Awards for directing *Luv* and *The Odd Couple*, and a sixth in 2012 for a revival of [[Arthur Miller]]'s *Death of a Salesman*. He directed *Who's Afraid of Virginia Woolf?* (1966) and won the Academy Award for Best Director for *The Graduate* (1967). His films also include *Silkwood* (1983) and *Closer* (2004).
+
+=== KEY: Mike_Tyson_90fe3c
+HEADWORD: Tyson, Mike = 타이슨, 마이크
+LEVEL: 5
+GLOSSARY:
+  Buster Douglas = 버스터 더글러스
+  Douglas = 더글러스
+  Evander Holyfield = 에반더 홀리필드
+  IBF = IBF
+  Iron = 철
+  Iron Mike = 아이언 마이크
+  WBA = WBA
+  WBC = WBC
+ENTRY:
+American former professional heavyweight boxer, widely regarded as one of the greatest heavyweights of all time. Nicknamed "Iron Mike" early in his career, he was the youngest boxer to win a heavyweight title, at age 20. He was the first heavyweight to hold the WBA, WBC and IBF titles simultaneously and held the undisputed title from 1987 to 1990, when he lost to Buster Douglas. In 1992 he was convicted of rape and sentenced to six years in prison, and he was released on parole after three years. In a 1997 rematch with [[Evander Holyfield]], he was disqualified for biting Holyfield's ears.
+
+=== KEY: Mikhail_Bakunin_a5c552
+HEADWORD: Bakunin, Mikhail = 바쿠닌, 미하일
+LEVEL: 4
+GLOSSARY:
+  Anarchism = 아나키즘
+  Anti-Authoritarian International = 반권위주의 인터내셔널
+  Berlin = 베를린
+  Dresden = 드레스덴
+  France = 프랑스
+  God = 신
+  God and the State = 『신과 국가』
+  International Workingmen's Association = 국제노동자협회
+  Karl Marx = 카를 마르크스
+  London = 런던
+  Marx = 마르크스
+  Marxist = 마르크스주의
+  Moscow = 모스크바
+  Paris = 파리
+  Peter = 베드로
+  Peter Kropotkin = 표트르 크로포트킨
+  Pierre-Joseph Proudhon = 피에르조제프 프루동
+  Poland = 폴란드
+  Prague = 프라하
+  Russian = 러시아어
+  Russian Empire = 러시아 제국
+  Siberia = 시베리아
+  Tver Governorate = 트베리현
+ENTRY:
+Russian revolutionary anarchist and political philosopher, among the most influential figures of [[Anarchism|anarchism]]. Born into a noble family in the Tver Governorate, he studied in Moscow and Berlin before meeting [[Karl Marx]] and [[Pierre-Joseph Proudhon]] in Paris, who deeply influenced him. He was expelled from France for opposing the [[Russian Empire]]'s occupation of Poland and took part in uprisings in Prague and [[Dresden]] in 1848 and 1849. Sentenced to death and extradited several times, he was exiled to Siberia, escaped and reached [[London]]. In 1868 he joined the International Workingmen's Association, where he clashed with Marx over the role of the state, and he was expelled in 1872. He founded the Anti-Authoritarian International that year. He argued that Marxist states would become one-party dictatorships, and his book *God and the State* remains in print. He influenced thinkers including [[Peter Kropotkin]].
+
+=== KEY: Mikhail_Baryshnikov_f6abf0
+HEADWORD: Baryshnikov, Mikhail = 바리시니코프, 미하일
+LEVEL: 4
+GLOSSARY:
+  Academy Award = 아카데미상
+  American Ballet Theatre = 아메리칸 발레 시어터
+  Ballet = 발레
+  Bolshoi = 볼쇼이 발레단
+  Canada = 캐나다
+  City = 도시
+  George Balanchine = 조지 발란신
+  Kirov Ballet = 키로프 발레단
+  Latvia = 라트비아
+  Modern dance = 현대 무용
+  New York City = 뉴욕
+  New York City Ballet = 뉴욕 시티 발레단
+  Riga = 리가
+  Soviet Union = 소련
+  The Turning Point = 「위험한 기회」
+  Theatre = 연극
+  Toronto = 토론토
+  White = 흰색
+  White Nights = 「백야」
+  York = 요크
+  neoclassical style = 신고전주의 양식
+ENTRY:
+Latvian and American dancer, choreographer and actor. Born in [[Riga]], he joined the Kirov Ballet in 1967 and became the preeminent male classical ballet dancer of the 1970s and 1980s. In 1974, while touring Toronto with the Bolshoi, he defected and requested political asylum in Canada. He joined the New York City Ballet to learn [[George Balanchine|George Balanchine]]'s neoclassical style, then danced with the American Ballet Theatre, later becoming its artistic director, and promoted [[Modern dance|modern dance]]. He starred in *The Turning Point* (1977), receiving an Academy Award nomination, and in *White Nights* (1985). He became a U.S. citizen in 1986 and never returned to the [[Soviet Union]]. Latvia granted him citizenship for extraordinary merit in 2017.
+
+=== KEY: Mikhail_Bulgakov_1b5645
+HEADWORD: Bulgakov, Mikhail = 불가코프, 미하일
+LEVEL: 4
+GLOSSARY:
+  Civil War = 남북 전쟁
+  Flight = 「질주」
+  Joseph Stalin = 이오시프 스탈린
+  Margarita = 마르가리타섬
+  Master = 조폐국장
+  Moscow = 모스크바
+  Russian = 러시아어
+  Russian Civil War = 러시아 내전
+  Stalin = 스탈린
+  The Days of the Turbins = 「투르빈가의 나날」
+  The Master and Margarita = 『거장과 마르가리타』
+  The White Guard = 『백위군』
+  Ukraine = 우크라이나
+  War = 전쟁
+  White = 흰색
+  White forces = 백군
+ENTRY:
+Russian and Soviet novelist and playwright. Trained as a physician, he served in rural Ukraine and during the [[Russian Civil War]] before moving to [[Moscow]] in 1921 and turning to literature. His play *The Days of the Turbins*, adapted from his novel *The White Guard*, drew official criticism for its sympathetic portrayal of White forces. The Soviet government banned many of his works, including *Flight*, which it judged to have glorified emigration and White generals. [[Joseph Stalin]] reportedly attended *The Days of the Turbins* at least 15 times and intervened on Bulgakov's behalf, yet he was only briefly successful during his lifetime. His novel *The Master and Margarita*, published posthumously in 1966–67, has been called one of the masterpieces of the 20th century.
+
+=== KEY: Mikhail_Gorbachev_78b492
+HEADWORD: Gorbachev, Mikhail = 고르바초프, 미하일
+LEVEL: 4
+GLOSSARY:
+  Cold War = 냉전
+  Communist Party = 공산당
+  Communist Party of the Soviet Union = 소련 공산당
+  Leninism = 레닌주의
+  Marxism = 마르크스주의
+  Marxism–Leninism = 마르크스-레닌주의
+  Marxist = 마르크스주의
+  Party = 파티
+  Ronald Reagan = 로널드 레이건
+  Russian = 러시아어
+  Soviet Union = 소련
+  Soviet–Afghan War = 소련-아프가니스탄 전쟁
+  War = 전쟁
+  Warsaw = 바르샤바
+  Warsaw Pact = 바르샤바 조약 기구
+  glasnost = 글라스노스트
+  perestroika = 페레스트로이카
+ENTRY:
+Soviet and Russian politician, the last leader of the Soviet Union from 1985 until its dissolution in 1991. He served as general secretary of the [[Communist Party of the Soviet Union]] from 1985 and as head of state from 1988. Initially committed to [[Marxism–Leninism]], he judged reform necessary for the Soviet state's survival. He withdrew troops from the [[Soviet–Afghan War]] and held summits with U.S. president [[Ronald Reagan]] to limit nuclear weapons and end the [[Cold War]]. His policies of glasnost ("openness") and perestroika ("restructuring") allowed greater freedom of speech and the press and decentralized economic decision-making. When [[Warsaw Pact]] countries abandoned Marxist–Leninist governance in 1989, he declined to intervene militarily. A coup against him in August 1991 failed, and the Soviet Union dissolved against his wishes. Critics argue that his reforms weakened Russia's global influence and precipitated economic collapse, while he is praised for ending the Cold War.

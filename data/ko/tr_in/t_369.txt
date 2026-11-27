@@ -1,0 +1,1005 @@
+=== KEY: Word_07a094
+HEADWORD: Word = 단어
+LEVEL: 3
+GLOSSARY:
+  Australian = 오스트레일리아
+  Finnish = 핀란드어
+  Morpheme = 형태소
+  Syntax = 통사론
+  Walmatjari = 왈마자리어
+  affixes = 접사
+  compound words = 합성어
+  inflection = 굴절
+  lemmas = 표제어
+  lexicon = 어휘부
+  morphemes = 형태소
+  pääkaupunki = pääkaupunki
+  root = 어근
+  vowel harmony = 모음 조화
+  word accent = 단어 강세
+ENTRY:
+Basic element of language that carries meaning, can be used on its own, and is uninterruptible. Speakers usually have an intuitive grasp of what a word is, but linguists have no consensus on a definition, and attempts to find specific criteria remain controversial. Some linguists propose avoiding the term in favor of better-defined ones such as morphemes.
+
+A word is distinguished from a [[Morpheme|morpheme]], the smallest unit of language with meaning, even if it cannot stand alone. Words consist of at least one morpheme. In English they generally include at least one root (*rock*, *god*, *write*) and possibly affixes (*-s*, *un-*, *-ly*, *-ness*). Words with more than one root, such as *typewriter*, are compound words.
+
+Definitions can be consistent at particular levels. Phonologically, a word is the smallest segment of sound that can be isolated by word accent and boundary markers. Orthographically, it is a segment set off by blank spaces. Morphologically, it is the basic element of grammatical paradigms such as inflection. Semantically, it is the smallest relatively independent carrier of meaning in a lexicon, and in [[Syntax|syntax]], the smallest permutable and substitutable unit of a sentence. In some languages these types coincide; in others they correspond to elements of different size.
+
+Phonological words can differ from intuition. In Walmatjari, an Australian language, a phonological word must have at least two syllables. The Finnish compound *pääkaupunki* "capital" counts as two phonological words because it does not conform to Finnish vowel harmony within words.
+
+Dictionaries list a language's lexicon as lemmas, indicating what its writers regard as words.
+
+=== KEY: Word_processor_c8de3e
+HEADWORD: Word processor = 워드 프로세서
+LEVEL: 4
+GLOSSARY:
+  Christopher Latham Sholes = 크리스토퍼 레이섬 숄스
+  Data Secretary = 데이터 세크러터리
+  Google = 구글
+  Google Docs = 구글 문서
+  Henry Mill = 헨리 밀
+  Microsoft = 마이크로소프트
+  Microsoft Word = 마이크로소프트 워드
+  Personal computer = 개인용 컴퓨터
+  Smartphone = 스마트폰
+  Software = 소프트웨어
+  Word = 단어
+  web browser = 웹 브라우저
+ENTRY:
+Device or computer program for the input, editing, formatting, and output of text. Early word processors were standalone machines, but most are now software running on [[Personal computer|personal computers]] and [[Smartphone|smartphones]]. Mechanical forerunners include a machine for transcribing letters patented in 1714 by Henry Mill, and the first recognizable typewriter, created by Christopher Latham Sholes in the late 19th century. The term "word processing" entered American offices in the early 1970s. The Data Secretary, introduced in 1971, was an early standalone computerized word processor. Software programs proliferated in the late 1970s, and [[Microsoft Word]] was launched in 1983. Google Docs, launched in 2006, added real-time collaboration in a web browser.
+
+=== KEY: Work_human_activity_6b70d4
+HEADWORD: Work = 노동
+LEVEL: 3
+GLOSSARY:
+  Black = 검은색
+  Bob Black = 밥 블랙
+  David Graeber = 데이비드 그레이버
+  First aid = 응급 처치
+  Goods = 재화
+  Hobby = 취미
+  Hunter-gatherer = 수렵채집인
+  Mark Twain = 마크 트웨인
+  Paul = 바울로
+  Paul Lafargue = 폴 라파르그
+  Protestantism = 개신교
+  Retirement = 은퇴
+  Sport = 스포츠
+  The Adventures of Tom Sawyer = 『톰 소여의 모험』
+  basic income = 기본 소득
+  cooperatives = 협동조합
+  early modern = 근세
+  factors of production = 생산 요소
+  occupation = 직업
+  paramedic = 구급대원
+  primary = 1차
+  proto-capitalism = 원시 자본주의
+  secondary = 2차
+  tertiary = 3차
+  universal basic income = 보편적 기본소득
+ENTRY:
+Intentional human activity undertaken to meet one's own needs and wants, or those of others or of organizations. In economics, work is human labor that, alongside other factors of production, contributes to the creation of [[Goods|goods]] and services. It exists in all human societies, paid or unpaid, from gathering resources by hand in [[Hunter-gatherer|hunter-gatherer]] groups to operating complex technologies in industrial and post-industrial societies. A person's regular role in work is an occupation, or job. Societies coordinate work through institutions such as government programs, nonprofit organizations, cooperatives, and corporations.
+
+What counts as work depends on context. Sport is a job for a professional athlete but a [[Hobby|hobby]] for someone playing for fun, and a paramedic on duty is working while a bystander giving [[First aid|first aid]] is not. [[Mark Twain]]'s whitewashed-fence scene in *The Adventures of Tom Sawyer* expresses the view that the label is somewhat subjective.
+
+Hunter-gatherers varied their effort with the seasons; agriculture brought more sustained effort, peaking at harvest. In the early modern era, Protestantism and proto-capitalism emphasized the moral advantages of hard work, and industrialization intensified demands on workers to keep pace with machines. Restrictions on working hours and the ages of workers followed. According to a 2024 study, most current U.S. employment is in occupations introduced since 1940. Economists commonly divide economies into primary (extraction), secondary (manufacturing), and tertiary (services) sectors.
+
+Work has been tied to power, class, tradition, and rights, and dirty, dangerous, or demeaning occupations can threaten survival. Paul Lafargue, David Graeber, and Bob Black are among those who have urged reducing or abolishing it. Retirement and, more recently, experiments with universal basic income aim to end the economic necessity of lifelong work.
+
+=== KEY: Work_physics_ad09ce
+HEADWORD: Work = 일
+LEVEL: 4
+GLOSSARY:
+  Angle = 각
+  Energy = 에너지
+  Force = 힘
+  French = 프랑스어
+  Galileo = 갈릴레오
+  Galileo Galilei = 갈릴레오 갈릴레이
+  Gaspard-Gustave Coriolis = 가스파르귀스타브 코리올리
+  International System of Units = 국제단위계
+  Jean-Victor Poncelet = 장빅토르 퐁슬레
+  Joule = 줄
+  Simple machine = 단순 기계
+  displacement = 변위
+  scalar = 스칼라
+  simple machines = 단순 기계
+ENTRY:
+Energy transferred to or from an object by a [[Force|force]] acting along a displacement. For a constant force aligned with the motion, work equals the force multiplied by the distance traveled; in general it depends on the [[Angle|angle]] between the two vectors. Work is positive when the force has a component in the direction of displacement and negative when it opposes the displacement. A dropped ball gains positive work from gravity, while a thrown ball has negative work. Work is a scalar measured in [[Joule|joules]] in the [[International System of Units]]. The term was introduced in the late 1820s by French scientists Gaspard-Gustave Coriolis and Jean-Victor Poncelet. Earlier, [[Galileo Galilei|Galileo]] had shown that [[Simple machine|simple machines]] transform energy rather than create it.
+
+=== KEY: Workers_Party_of_Korea_fc8466
+HEADWORD: Workers' Party of Korea = 조선노동당
+LEVEL: 5
+GLOSSARY:
+  Australia = 오스트레일리아
+  European Union = 유럽 연합
+  Juche = 주체사상
+  Kim Il Sung = 김일성
+  Kim Jong Il = 김정일
+  Kim Jong Un = 김정은
+  Korea = 한국
+  Korean People's Army = 조선인민군
+  Korean War = 한국 전쟁
+  Korean reunification = 한반도 통일
+  North Korea = 북한
+  South Korea = 대한민국
+  United Nations = 국제 연합
+  United States = 미국
+ENTRY:
+Ruling party of [[North Korea]]. Founded in 1949 by a merger of the North and South Korean workers' parties, it is the oldest active party in Korea and controls the [[Korean People's Army]]. Kim Il Sung led it when he launched the [[Korean War]] in 1950. Kim Jong Il succeeded him in 1994 and Kim Jong Un in 2011. Officially a communist party, it is guided by Kimilsungism–Kimjongilism and the ideology of [[Juche]]. In 2023 it abandoned its goal of Korean reunification. The party is banned in South Korea and sanctioned by the [[United Nations]], the [[European Union]], Australia, and the [[United States]].
+
+=== KEY: Working_class_2dbc8b
+HEADWORD: Working class = 노동자 계급
+LEVEL: 4
+GLOSSARY:
+  Communist Manifesto = 『공산당 선언』
+  Enclosure = 인클로저
+  Friedrich Engels = 프리드리히 엥겔스
+  Industrial Revolution = 산업 혁명
+  Karl Marx = 카를 마르크스
+  Marx = 마르크스
+  Social class = 사회 계급
+  The Communist Manifesto = 『공산당 선언』
+  United States = 미국
+  blue-collar = 블루칼라
+  pink-collar = 핑크칼라
+  proletariat = 프롤레타리아트
+  smallholders = 소농
+ENTRY:
+Social class of people who depend on wages or salaries for their livelihood. In the United States the term usually covers blue-collar and pink-collar workers, or those whose income falls below the middle class. Socialists define it more broadly, to include all who must sell their labor to live. [[Karl Marx]] called this group the proletariat and, with [[Friedrich Engels]], argued in *The Communist Manifesto* that the working class would displace capitalism. Other definitions rely on income, education, or self-identification. The class emerged during the Industrial Revolution, as [[Enclosure|enclosure]] displaced smallholders and artisans. Debates continue over whether the class is shrinking through educational expansion and growth in service jobs.
+
+=== KEY: World_Chess_Championship_ca4eeb
+HEADWORD: World Chess Championship = 세계 체스 선수권 대회
+LEVEL: 5
+GLOSSARY:
+  Chess = 체스
+  Ding Liren = 딩리런
+  Emanuel Lasker = 에마누엘 라스커
+  FIDE = 국제 체스 연맹
+  Gukesh Dommaraju = 구케시 돔마라주
+  International Chess Federation = 국제 체스 연맹
+  Johannes Zukertort = 요하네스 주커토르트
+  Wilhelm = 빌헬름
+  Wilhelm Steinitz = 빌헬름 슈타이니츠
+ENTRY:
+Competition to determine the world champion in [[Chess|chess]]. The first event recognized as a world championship was the 1886 match won by Wilhelm Steinitz over Johannes Zukertort. Until 1946 the champion set the terms, and challengers had to defeat him in a match. After Alexander Alekhine's death, the International Chess Federation (FIDE) took over, and a rival title existed from 1993 until the titles were unified in 2006. Matches have been held every two years since 2014. Emanuel Lasker held the title for 27 years, the longest reign. Gukesh Dommaraju defeated Ding Liren in 2024.
+
+=== KEY: World_Health_Organization_5d292a
+HEADWORD: World Health Organization = 세계 보건 기구
+LEVEL: 4
+GLOSSARY:
+  AIDS = 에이즈
+  Assembly = 민회
+  Ebola = 에볼라
+  Geneva = 제네바
+  HIV/AIDS = HIV/AIDS
+  League of Nations' Health Organization = 국제 연맹 보건 기구
+  Polio = 소아마비
+  Public health = 공중 보건
+  Smallpox = 천연두
+  Switzerland = 스위스
+  United Nations = 국제 연합
+  World = 세계
+  World Health Assembly = 세계 보건 총회
+  biological products = 생물학적 제제
+  endemic = 풍토병
+  malaria = 말라리아
+  tuberculosis = 결핵
+ENTRY:
+Specialized agency of the [[United Nations]] that coordinates responses to international [[Public health|public health]] issues and emergencies. Headquartered in [[Geneva]], Switzerland, it was established on April 7, 1948, and incorporated the assets and duties of the League of Nations' Health Organization. Its stated purpose is to achieve the highest possible level of health for all people, defined as complete physical, mental and social well-being. It promotes the control of epidemic and endemic diseases and sets international standards for biological products. It played a leading role in the eradication of [[Smallpox|smallpox]] and the near-eradication of [[Polio|polio]], and helped develop an [[Ebola]] vaccine. Its current priorities include [[HIV/AIDS]], Ebola, malaria and tuberculosis, as well as heart disease and cancer. It is governed by the World Health Assembly, whose member states elect an executive board. It is funded mainly by member states' contributions.
+
+=== KEY: World_Heritage_Site_46be29
+HEADWORD: World Heritage Site = 세계유산
+LEVEL: 4
+GLOSSARY:
+  Assembly = 민회
+  City = 도시
+  Convention = 비상 의회
+  Desert = 사막
+  Forest = 숲
+  Island = 섬
+  Lake = 호수
+  Mountain = 산
+  Treaty = 조약
+  UNESCO = 유네스코
+  UNESCO World Heritage Committee = 유네스코 세계유산 위원회
+  United Nations = 국제 연합
+  United Nations General Assembly = 국제 연합 총회
+  World = 세계
+  World Heritage = 세계 유산
+ENTRY:
+Landmark or area of outstanding value to humanity, protected under an international [[Treaty|treaty]] administered by [[UNESCO]]. Sites may be ancient ruins, historical structures, [[City|cities]], [[Desert|deserts]], [[Forest|forests]], [[Island|islands]], [[Lake|lakes]], monuments, [[Mountain|mountains]] or wilderness areas, and may represent either a remarkable human accomplishment or a place of great natural beauty. A host country nominates each site, and the UNESCO World Heritage Committee selects those that are unique, identifiable and under sufficient legal protection. The program rests on the Convention Concerning the Protection of the World Cultural and Natural Heritage, adopted by UNESCO on November 16, 1972. The committee has 21 states parties elected by the United Nations General Assembly. Since then 196 states have ratified the convention. As of July 2026 the list included 1,273 sites in 173 countries.
+
+=== KEY: World_Series_fdae85
+HEADWORD: World Series = 월드 시리즈
+LEVEL: 5
+GLOSSARY:
+  American League = 아메리칸 리그
+  Baseball = 야구
+  Brewers = 브루어스
+  Commissioner's Trophy = 커미셔너 트로피
+  Fall Classic = 폴 클래식
+  Major League Baseball = 메이저 리그 베이스볼
+  Milwaukee = 밀워키
+  Milwaukee Brewers = 밀워키 브루어스
+  National League = 내셔널 리그
+  Tampa = 탬파
+  Tampa Bay Rays = 탬파베이 레이스
+ENTRY:
+Annual best-of-seven championship series between the American League (AL) and National League (NL) champions of [[Major League Baseball]]. Teams qualify through a postseason tournament. First played in 1903, it is traditionally held in October and is often called the Fall Classic. The winner receives the Commissioner's Trophy. The series has been contested 122 times through 2026, with the AL winning 68 and the NL 54. The most recent series was won by the [[Milwaukee]] Brewers, who defeated the Tampa Bay Rays in five games.
+
+=== KEY: World_Trade_Center_1973_2001_c1128b
+HEADWORD: World Trade Center = 세계 무역 센터
+LEVEL: 5
+GLOSSARY:
+  Al-Qaeda = 알카에다
+  City = 도시
+  Financial District = 금융가
+  Lower Manhattan = 로어맨해튼
+  Manhattan = 맨해튼
+  Minoru Yamasaki = 미노루 야마사키
+  New York City = 뉴욕
+  September 11 attacks = 9·11 테러
+  Twin = 쌍둥이
+  Twin Towers = 쌍둥이 빌딩
+  York = 요크
+  urban renewal = 도시 재개발
+ENTRY:
+Complex of seven office buildings in the Financial District of [[Manhattan|Lower Manhattan]], [[New York City]], dedicated in 1973. Its Twin Towers, designed by Minoru Yamasaki, were the tallest buildings in the world when completed. The complex was built to stimulate urban renewal. On [[September 11 attacks|September 11, 2001]], hijackers affiliated with [[Al-Qaeda|al-Qaeda]] flew two jets into the towers, and both collapsed. The attacks killed 2,606 people in and around the towers and all 157 people aboard the two aircraft. A memorial and museum now stand on the site.
+
+=== KEY: World_Trade_Organization_ec45d2
+HEADWORD: World Trade Organization = 세계 무역 기구
+LEVEL: 4
+GLOSSARY:
+  Director-General = 사무총장
+  Doha = 도하
+  Doha Development Round = 도하 개발 의제
+  GATT = GATT
+  General Agreement on Tariffs and Trade = 관세 및 무역에 관한 일반 협정
+  Geneva = 제네바
+  Intellectual property = 지식 재산
+  International trade = 국제 무역
+  Marrakesh = 마라케시
+  Marrakesh Agreement = 마라케시 협정
+  Ngozi Okonjo-Iweala = 응고지 오콘조이웨알라
+  Nigeria = 나이지리아
+  Secretariat = 사무국
+  Switzerland = 스위스
+  Trade = 교역
+  intellectual property = 지식 재산
+ENTRY:
+Intergovernmental organization regulating and facilitating [[International trade|international trade]]. Established on January 1, 1995, under the 1994 [[Marrakesh|Marrakesh Agreement]], it succeeded the General Agreement on Tariffs and Trade (GATT) and has 166 members, representing over 98 percent of world trade. Headquartered in [[Geneva]], [[Switzerland]], it provides a framework for negotiating trade agreements and resolves disputes among members. Its agreements cover goods, services and [[Intellectual property|intellectual property]]. The organization operates on the principle of non-discrimination, with exceptions for environmental protection and national security. Economic studies generally find that it has boosted trade. Critics argue that its benefits are not shared equally, that its agreements may disadvantage developing countries, and that commercial interests have been prioritized over environmental and labor concerns. The Doha Development Round has stalled. Its Secretariat has been led since 2021 by Director-General Ngozi Okonjo-Iweala of [[Nigeria]].
+
+=== KEY: World_War_II_casualties_3bfe97
+HEADWORD: World War II casualties = 제2차 세계 대전의 인명 피해
+LEVEL: 5
+GLOSSARY:
+  China = 중국
+  Human = 인간
+  People's Republic = 중화인민공화국
+  People's Republic of China = 중화인민공화국
+  Republic of China = 중화민국
+  Russian = 러시아어
+  Soviet Union = 소련
+  World = 세계
+  World War II = 제2차 세계 대전
+ENTRY:
+Human losses in [[World War II]], the deadliest military conflict in history. Total deaths are estimated at 60–75 million, including those from famine and disease, or about 3 percent of the 2.3 billion world population in 1940. Deaths directly caused by the war were 50–56 million, with 50–55 million civilians and 21–25 million military personnel. More than half of all deaths occurred in the Republic of China and the [[Soviet Union]]. Russian government figures put Soviet losses within postwar borders at 26.6 million. The People's Republic of China puts its war dead at 20 million, and Japan's government gives 3.1 million. Estimates are disputed.
+
+=== KEY: World_War_II_fbb78b
+HEADWORD: World War II = 제2차 세계 대전
+LEVEL: 3
+GLOSSARY:
+  Adolf Hitler = 아돌프 히틀러
+  Allies = 연합국
+  Asia = 아시아
+  Axis = 추축국
+  Axis forces = 추축국 군대
+  Axis powers = 추축국
+  Cold War = 냉전
+  Eastern Front = 동부 전선
+  Europe = 유럽
+  France = 프랑스
+  Germany = 독일
+  Harbor = 항구
+  Hiroshima = 히로시마
+  Hiroshima and Nagasaki = 히로시마와 나가사키
+  Hitler = 히틀러
+  Japan = 일본
+  Japanese militarism = 일본 군국주의
+  Midway = 미드웨이
+  Molotov–Ribbentrop Pact = 독소 불가침 조약
+  Nagasaki = 나가사키
+  Nazi = 나치
+  Nazi Germany = 나치 독일
+  North Africa = 북아프리카
+  Pearl = 진주
+  Pearl Harbor = 진주만
+  Poland = 폴란드
+  Soviet Union = 소련
+  Stalingrad = 스탈린그라드
+  United Kingdom = 영국
+  United Nations = 국제 연합
+  United States = 미국
+  World = 세계
+  World War I = 제1차 세계 대전
+  decolonization = 탈식민지화
+  fascism = 파시즘
+  great powers = 열강
+  superpowers = 초강대국
+  total war = 총력전
+ENTRY:
+Global conflict (September 1, 1939–September 2, 1945) between two coalitions, the Allies and the [[Axis powers]]. Nearly all the world's countries took part, many in total war on an unprecedented scale. It was the deadliest conflict in history; estimates of deaths range from 60 million to 85 million, a majority civilians.
+
+Causes included unresolved tensions after [[World War I]], the rise of fascism in Europe, and Japanese militarism. Most historians date the war's start to September 1, 1939, when Nazi Germany under [[Adolf Hitler]] invaded Poland and the United Kingdom and France declared war. The Soviet Union invaded Poland in mid-September, and the two states partitioned it under the [[Molotov–Ribbentrop Pact]]. France fell in June 1940. Germany invaded the Soviet Union in June 1941, opening the Eastern Front. In December 1941 Japan attacked American and British territories, including Pearl Harbor, bringing in the United States.
+
+Japan's advance was halted at Midway in June 1942, and Axis forces were defeated in North Africa and at Stalingrad in early 1943. Germany surrendered unconditionally on May 8, 1945. On August 6 and 9 the United States dropped atomic bombs on [[Hiroshima]] and [[Nagasaki]]; Japan announced its surrender on August 15 and signed on September 2.
+
+The war reshaped the world. The [[United Nations]] was created. The Soviet Union and the United States emerged as rival superpowers, setting the stage for the [[Cold War]], and the decline of Europe's great powers triggered decolonization in Africa and Asia.
+
+=== KEY: World_War_I_f32658
+HEADWORD: World War I = 제1차 세계 대전
+LEVEL: 3
+GLOSSARY:
+  Allies = 연합국
+  Austria-Hungary = 오스트리아-헝가리
+  Austro-Hungarian = 오스트리아-헝가리
+  Belgium = 벨기에
+  Bolsheviks = 볼셰비키
+  Bosnian = 보스니아어
+  Bosnian Serb = 보스니아 세르비아계
+  Central Powers = 동맹국
+  Czechoslovakia = 체코슬로바키아
+  Entente = 협상국
+  Europe = 유럽
+  Ferdinand = 페르디난트
+  Finland = 핀란드
+  France = 프랑스
+  Franz Ferdinand = 프란츠 페르디난트 대공
+  Gavrilo Princip = 가브릴로 프린치프
+  German = 독일어
+  German Empire = 독일 제국
+  Germany = 독일
+  Great War = 대전쟁
+  Hundred Days = 백일천하
+  Hundred Days Offensive = 백일 공세
+  Kaiser = 카이저
+  League of Nations = 국제 연맹
+  October Revolution = 10월 혁명
+  Ottoman = 오스만
+  Ottoman Empire = 오스만 제국
+  Passchendaele = 파스샹달
+  Poland = 폴란드
+  Russia = 러시아
+  Serbia = 세르비아
+  Somme = 솜
+  Soviet Russia = 소비에트 러시아
+  Spanish flu = 스페인 독감
+  Treaty = 조약
+  Treaty of Versailles = 베르사유 조약
+  United Kingdom = 영국
+  United States = 미국
+  Verdun = 베르됭
+  Versailles = 베르사유
+  Western Front = 서부 전선
+  Western Front (World War I) = 서부 전선
+  Wilhelm = 빌헬름
+  Wilhelm II = 빌헬름 2세
+  World = 세계
+  World War II = 제2차 세계 대전
+  Yugoslavia = 유고슬라비아
+  armistice = 휴전 협정
+  arms race = 군비 경쟁
+  balance of power = 세력 균형
+  chemical weapons = 화학 무기
+  machine guns = 기관총
+  reparations = 배상금
+  tanks = 전차
+  unrestricted submarine warfare = 무제한 잠수함 작전
+  war crimes = 전쟁 범죄
+ENTRY:
+Global conflict (July 28, 1914–November 11, 1918), also called the Great War, between the Allies (or Entente) and the [[Central Powers]]. It caused 15 to 22 million deaths, including those from war crimes and genocides, and contributed to the spread of the Spanish flu pandemic. It saw new weaponry, including machine guns, chemical weapons, and tanks.
+
+Causes included the rise of the German Empire, which disturbed the balance of power in Europe, and imperial rivalries reflected in new alliances and an arms race. On June 28, 1914, [[Gavrilo Princip]], a Bosnian Serb, assassinated Franz Ferdinand, heir to the Austro-Hungarian throne. Austria-Hungary blamed Serbia and declared war on July 28, and Russia mobilized in Serbia's defense. In early August Germany declared war on Russia and France, and the United Kingdom entered after Germany invaded Belgium. The [[Western Front (World War I)|Western Front]] settled into fortified trenches. The Ottoman Empire joined the Central Powers in November.
+
+Battles at Verdun, the Somme, and Passchendaele failed to break the stalemate. In April 1917 the United States joined the Allies after Germany resumed unrestricted submarine warfare. The Bolsheviks seized power in the [[October Revolution]], and Soviet Russia made a separate peace in March 1918. The Allied Hundred Days Offensive, beginning in August 1918, collapsed the German front line. Facing revolution at home, Kaiser [[Wilhelm II]] abdicated on November 9, and the armistice followed on November 11.
+
+Under the [[Treaty of Versailles]], Germany lost territory, was disarmed, and had to pay reparations. The collapse of four empires created new states including Poland, Finland, Czechoslovakia, and Yugoslavia. The [[League of Nations]] was founded to keep peace, but its failure to manage interwar instability contributed to [[World War II]].
+
+=== KEY: World_Wide_Web_47324b
+HEADWORD: World Wide Web = 월드 와이드 웹
+LEVEL: 4
+GLOSSARY:
+  CERN = 유럽 입자 물리 연구소
+  HTML = HTML
+  HTTP = HTTP
+  Internet = 인터넷
+  Tim Berners-Lee = 팀 버너스리
+  URL = URL
+  Web browser = 웹 브라우저
+  Website = 웹사이트
+  domain name = 도메인 이름
+  hyperlinks = 하이퍼링크
+  hypertext = 하이퍼텍스트
+  uniform resource locators = URL
+  universal linked information system = 보편적 연결 정보 시스템
+  web page = 웹 페이지
+ENTRY:
+Global system of linked hypertext documents and other resources accessed over the [[Internet]]. Invented by English computer scientist [[Tim Berners-Lee]] at [[CERN]] in 1989, it was opened to the public in 1993 and conceived as a "universal linked information system." Resources are identified by [[URL|uniform resource locators]] and transferred using [[HTTP]]. The original document type is the web page, written in [[HTML]], which supports text, images, video, audio and scripts. Users follow hyperlinks with [[Web browser|web browsers]] to move among resources, and a [[Website|website]] is a group of resources under a common domain name. Berners-Lee had a working browser and server by the end of 1990. The Web has become the dominant information system, used by billions of people.
+
+=== KEY: World_economy_b7d9cf
+HEADWORD: World economy = 세계 경제
+LEVEL: 4
+GLOSSARY:
+  African Union = 아프리카 연합
+  COVID-19 = 코로나19
+  COVID-19 pandemic = 코로나19 범유행
+  China = 중국
+  Europe = 유럽
+  European Union = 유럽 연합
+  Gross domestic product = 국내 총생산
+  India = 인도
+  Industrial Revolution = 산업 혁명
+  North America = 북아메리카
+  Purchasing power parity = 구매력 평가
+  United Nations = 국제 연합
+  United Nations University = 국제 연합 대학교
+  University = 대학
+  Western Europe = 서유럽
+  Western Hemisphere = 서반구
+  gross domestic product = 국내 총생산
+  purchasing power parity = 구매력 평가
+ENTRY:
+Global system of production, consumption, trade and financial transactions across all nations. Until the middle of the 19th century, global output was dominated by [[China]] and [[India]], but the [[Industrial Revolution]] in Western Europe and North America shifted the balance toward the Western Hemisphere. As of 2026, 12 countries and two collectives, including the [[African Union]] and the [[European Union]], each account for at least 2.0 percent of world output measured by [[Gross domestic product|gross domestic product]] in nominal or [[Purchasing power parity|purchasing power parity]] terms. Between 1820 and 2000 global income inequality rose by almost 50 percent, mostly before 1950, and has declined since peaking in the 1970s. A study by United Nations University found that the richest 1 percent of adults owned 40 percent of global assets in the 2000s. The global economy shrank 3.4 percent in 2020 during the [[COVID-19 pandemic]] and rebounded by an estimated 5.5 percent in 2021.
+
+=== KEY: World_f5a792
+HEADWORD: World = 세계
+LEVEL: 5
+GLOSSARY:
+  Cosmogony = 우주 기원론
+  Earth = 지구
+  Existence = 존재
+  Old English = 고대 영어
+  Philosophy = 철학
+  Reality = 실재
+  Theology = 신학
+  Theories of modality = 양상 이론
+  eschatology = 종말론
+  possible worlds = 가능 세계
+  weorold = weorold
+ENTRY:
+Totality of existing entities, customarily viewed in [[Philosophy|philosophy]] as all of [[Existence|existence]] or the whole of [[Reality|reality]]. The term is also used more narrowly for the [[Earth]] and all life on it, or for the whole of human existence. Theories of modality treat possible worlds as complete and consistent ways that things could have been. Theology conceptualizes the world in relation to God, as God's creation or as identical to God. The English word comes from [[Old English]] *weorold*, meaning roughly "age of man." Cosmogony studies the world's origin, and eschatology studies its end.
+
+=== KEY: World_map_1d9752
+HEADWORD: World map = 세계 지도
+LEVEL: 5
+GLOSSARY:
+  Earth = 지구
+  Maps = 지도
+  Mercator projection = 메르카토르 도법
+  Middle Ages = 중세
+  Political maps = 정치 지도
+  Prehistory = 선사 시대
+  geological maps = 지질도
+  nautical chart = 해도
+  physical maps = 지형도
+ENTRY:
+Map of most or all of the surface of [[Earth]]. Maps of a globe necessarily distort it, and world maps reach the extremes of this distortion. From [[Prehistory|prehistory]] through the [[Middle Ages]], an accurate world map was impossible because less than half of Earth's coastlines were known to any culture. Most coastlines were mapped by the mid-1700s and continental interiors by the twentieth century. Political maps emphasize boundaries, physical maps show terrain, and geological maps show underlying rock and faults. The best-known projection is the [[Mercator projection]], originally designed as a nautical chart.
+
+=== KEY: World_of_Warcraft_63860f
+HEADWORD: World of Warcraft = 월드 오브 워크래프트
+LEVEL: 5
+GLOSSARY:
+  Azeroth = 아제로스
+  Blizzard Entertainment = 블리자드 엔터테인먼트
+  Entertainment = 오락
+  MMORPG = MMORPG
+  MacOS = macOS
+  Massively multiplayer online role-playing = 대규모 다중 사용자 온라인 롤플레잉
+  Microsoft Windows = 마이크로소프트 윈도우
+  Video game = 비디오 게임
+  Warcraft = 워크래프트
+  Windows = 윈도우
+  World = 세계
+  World of Warcraft = 「월드 오브 워크래프트」
+  expansion packs = 확장팩
+  player versus player = 플레이어 대 플레이어
+ENTRY:
+Massively multiplayer online role-playing [[Video game|video game]] released in 2004 for [[Microsoft Windows|Windows]] and [[MacOS|macOS]]. Developed and published by Blizzard Entertainment, it is set in the Warcraft universe on the fictional planet Azeroth. Players create characters, complete quests and engage in player versus player combat. It peaked at 12 million subscribers in 2010 and had over 100 million registered accounts by 2014. By 2017 it had grossed over $9.23 billion. It has had eleven major expansion packs. A vanilla version, World of Warcraft: Classic, launched in 2019. Gaming journalists have cited it as the greatest MMORPG of all time.
+
+=== KEY: World_peace_39a158
+HEADWORD: World peace = 세계 평화
+LEVEL: 4
+GLOSSARY:
+  Ayn Rand = 에인 랜드
+  Capitalism = 자본주의
+  Democratic = 민주당
+  Democratic peace theory = 민주적 평화론
+  Diplomacy = 외교
+  Earth = 지구
+  Economic norms theory = 경제 규범 이론
+  Human rights = 인권
+  Kargil = 카르길
+  Kargil War = 카르길 전쟁
+  Medicine = 의학
+  Michael Mousseau = 마이클 무소
+  Religion = 종교
+  Security = 보안
+  Security Council = 안전 보장 이사회
+  United Nations = 국제 연합
+  capitalist peace = 자본주의 평화론
+  market economies = 시장 경제
+ENTRY:
+Ideal of lasting peace within and among all peoples and nations on Earth. Various [[Religion|religions]] and secular organizations have sought world peace through [[Human rights|human rights]], education, technology, [[Medicine|medicine]] and [[Diplomacy|diplomacy]]. Since 1945 the [[United Nations]] and the five permanent members of its Security Council have aimed to resolve conflicts without war, though numerous conflicts have occurred since. [[Ayn Rand|Ayn Rand]] argued that [[Capitalism|capitalism]] gave humanity its longest period of peace, from 1815 to 1914, although the evidence for capitalist peace is inconclusive. Democratic peace theory holds that democracies rarely or never wage war against each other, although wars between democracies have occurred, such as the Kargil War. Economic norms theory, developed by Michael Mousseau, links impersonal market economies with permanent peace.
+
+=== KEY: World_population_5a0bfb
+HEADWORD: World population = 세계 인구
+LEVEL: 5
+GLOSSARY:
+  Black = 검은색
+  Black Death = 흑사병
+  Death = 죽음
+  Earth = 지구
+  Fertility = 출산율
+  United Nations = 국제 연합
+  demographers = 인구학자
+ENTRY:
+Total number of living humans on Earth. The [[United Nations]] estimated that the population exceeded 8 billion on November 15, 2022, and it is about 8.3 billion as of 2026. Growth has been continuous since the end of the [[Black Death]] in 1350, when the population was nearly 370 million. Annual growth peaked at 2.1 percent between 1965 and 1970 and fell to 1.1 percent between 2015 and 2020. The UN projects 9 to 10 billion people by 2050, but other demographers expect decline in the second half of the 21st century if [[Fertility|fertility]] keeps falling.
+
+=== KEY: World_s_fair_0cd0da
+HEADWORD: World's fair = 세계 박람회
+LEVEL: 4
+GLOSSARY:
+  BIE = BIE
+  Bohemia = 보헤미아
+  Bureau International des Expositions = 국제 박람회 기구
+  Crystal = 결정
+  Crystal Palace = 수정궁
+  Great Exhibition = 런던 만국 박람회
+  Japan = 일본
+  Milan = 밀라노
+  Milan Triennial = 밀라노 트리엔날레
+  Osaka = 오사카
+  Palace = 궁전
+  Prague = 프라하
+  Specialized Expos = 전문 엑스포
+  Telephone = 전화
+  World = 세계
+  World Expo = 세계 엑스포
+  World Expos = 세계 엑스포
+  horticultural expos = 원예 엑스포
+  nation branding = 국가 브랜딩
+  universal exhibition = 만국 박람회
+ENTRY:
+Large global exhibition showcasing the achievements of nations, also called a universal exhibition. Such fairs typically run for three to six months at one site. The first, in 1791, was held in [[Prague]], in [[Bohemia]]. The 1851 Great Exhibition in London's Crystal Palace is a landmark event. Since the 1928 convention, the Paris-based Bureau International des Expositions (BIE) has sanctioned four types of international exhibition: World Expos, Specialized Expos, horticultural expos and the [[Milan]] Triennial. Fairs have passed through three eras: industrialization, roughly 1850 to 1938; cultural exchange, 1939 to 1987; and nation branding, from 1988. Early fairs first presented inventions such as the [[Telephone|telephone]]. [[Osaka]], Japan, held the most recent World Expo in 2025.
+
+=== KEY: Worldview_d067c1
+HEADWORD: Worldview = 세계관
+LEVEL: 4
+GLOSSARY:
+  Culture = 문화
+  Ethics = 윤리학
+  German = 독일어
+  Hegel = 헤겔
+  Immanuel Kant = 이마누엘 칸트
+  Kant = 칸트
+  Knowledge = 지식
+  Weltanschauung = 벨탄샤우웅
+  Wilhelm = 빌헬름
+  Wilhelm Dilthey = 빌헬름 딜타이
+  World = 세계
+  calque = 번역 차용어
+  idealism of freedom = 자유의 관념론
+  natural philosophy = 자연 철학
+  naturalism = 자연주의
+  objective idealism = 객관적 관념론
+  point of view = 시점
+ENTRY:
+Fundamental cognitive orientation of an individual or society toward the [[World|world]] and its workings. It encompasses an essential part of an individual's or society's [[Knowledge|knowledge]], [[Culture|culture]] and point of view, and may include natural philosophy, fundamental existential and normative postulates, and themes, values, emotions and [[Ethics|ethics]]. When two parties observe the same phenomenon, differing worldviews can lead them to perceive different elements and reach different conclusions. The term is a calque of the German *Weltanschauung*, a concept first used by [[Immanuel Kant]] and later popularized by Hegel. In 1911 the philosopher Wilhelm Dilthey distinguished three recurring types of worldview: naturalism, the idealism of freedom and objective idealism.
+
+=== KEY: Wormhole_dc21e8
+HEADWORD: Wormhole = 웜홀
+LEVEL: 5
+GLOSSARY:
+  Charles W. Misner = 찰스 W. 마이스너
+  Einstein = 아인슈타인
+  Einstein field equations = 아인슈타인 장 방정식
+  General relativity = 일반 상대성 이론
+  Hermann Weyl = 헤르만 바일
+  John = 존
+  John Archibald Wheeler = 존 아치볼드 휠러
+  Kip Thorne = 킵 손
+  Matt Visser = 맷 비서
+  Spacetime = 시공간
+  Traversable wormholes = 통과 가능한 웜홀
+  cosmic strings = 우주 끈
+  exotic matter = 이색 물질
+  field equations = 장 방정식
+  general relativity = 일반 상대성 이론
+ENTRY:
+Hypothetical structure that connects disparate points in [[Spacetime|spacetime]], visualized as a tunnel. Wormholes are based on a special solution of the [[Einstein field equations]] and are consistent with [[General relativity|general relativity]]. The term was used by American physicist John Archibald Wheeler in a 1957 paper with Charles W. Misner, though Hermann Weyl had proposed a related idea in 1928. In 1995 Matt Visser suggested that negative-mass cosmic strings from the early universe might indicate many wormholes. Physicists such as Kip Thorne have suggested that wormholes can be created artificially. Traversable wormholes would require exotic matter, and they have no direct observational evidence.
+
+=== KEY: Worship_323077
+HEADWORD: Worship = 숭배
+LEVEL: 4
+GLOSSARY:
+  Buddhism = 불교
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Christianity = 기독교
+  Church = 처치
+  Deity = 신
+  Forms = 이데아
+  Mass = 미사
+  New Testament = 신약 성경
+  Old English = 고대 영어
+  Worship = 예배
+  ancestor worship = 조상 숭배
+  animal worship = 동물 숭배
+  imperial cults = 황제 숭배
+  nature worship = 자연 숭배
+  pole worship = 기둥 숭배
+  proskuneo = 프로스퀴네오
+  weorþscipe = weorþscipe
+ENTRY:
+Act of religious devotion usually directed toward a [[Deity|deity]], spirit or other supernatural entity. Worship may be performed individually, in a group or by a designated leader, and for many people it is less an emotion than the recognition of its object. The English word derives from [[Old English]] *weorþscipe*, meaning worth-ship, or giving worth to something. Forms include ancestor worship, animal worship, nature worship and pole worship, as well as imperial cults. In [[Buddhism]], devotion takes many forms, including offerings, bowing and chanting, while meditation is a central form of worship. In [[Christianity]], worship is reverent honor paid to God; the [[New Testament]] word *proskuneo* means to bow down. The Mass is the central act of divine worship in the [[Catholic Church]].
+
+=== KEY: Wound_551808
+HEADWORD: Wound = 상처
+LEVEL: 4
+GLOSSARY:
+  Blunt trauma = 둔상
+  Diabetes = 당뇨병
+  Gunshot wound = 총상
+  Inflammation = 염증
+  Skin = 피부
+  abrasions = 찰과상
+  epidermis = 표피
+  hemostasis = 지혈
+  incisions = 절창
+  lacerations = 열상
+  mucous membranes = 점막
+  proliferation = 증식
+  tissue remodeling = 조직 재형성
+ENTRY:
+Disruption of or damage to living tissue, such as [[Skin|skin]], mucous membranes or organs. Wounds may result from sudden trauma, whether mechanical, thermal or chemical, or develop slowly from disease processes such as [[Diabetes|diabetes]]. Acute wounds result from direct trauma and heal along an expected timeline, while chronic wounds can persist for months. Open wounds break the skin and expose underlying tissue. They include incisions from clean, sharp objects, lacerations caused by [[Blunt trauma|blunt trauma]], abrasions that scrape away the epidermis, and [[Gunshot wound|gunshot wounds]]. Healing normally passes through hemostasis, [[Inflammation|inflammation]], proliferation and tissue remodeling, which typically lasts 12 months but can continue for up to two years. Age, tissue oxygenation, stress, underlying conditions and some medications affect healing, so wounds should be evaluated by a healthcare professional.
+
+=== KEY: Wounded_Knee_Massacre_436f39
+HEADWORD: Wounded Knee Massacre = 운디드니 학살
+LEVEL: 5
+GLOSSARY:
+  American Indians = 아메리카 원주민
+  Congress = 의회
+  Creek = 크리크족
+  Dakota = 다코타족
+  Dance = 춤
+  Ghost Dance = 유령춤
+  Lakota = 라코타족
+  Medal of Honor = 명예 훈장
+  National Congress of American Indians = 전미 인디언 의회
+  Sioux = 수족
+  South Dakota = 사우스다코타주
+  U.S. Army = 미국 육군
+  Wounded Knee Creek = 운디드니 크리크
+ENTRY:
+1890 massacre of Lakota people by U.S. Army troops at Wounded Knee Creek in [[South Dakota]]. Settlers feared the Ghost Dance signified a dangerous [[Sioux]] resurgence, and troops moved to disarm the camp on December 29, 1890. During the disarmament a rifle discharged, and the firing became indiscriminate. Between 250 and 300 Lakota were killed and 51 wounded, while 25 soldiers died. Nineteen soldiers received the Medal of Honor for the action, which the National Congress of American Indians condemned in 2001. In 1990 both houses of Congress expressed "deep regret" for the massacre.
+
+=== KEY: Wrasse_f1cf57
+HEADWORD: Wrasse = 놀래기
+LEVEL: 4
+GLOSSARY:
+  Biomechanics = 생체역학
+  Coral reef = 산호초
+  Endangered = 위기
+  Family = 가족
+  Invertebrate = 무척추동물
+  Labridae = 놀래기과
+  Pacific = 태평양
+  Pacific Oceans = 태평양
+  humphead wrasse = 나폴레옹피시
+  primary = 1차
+  ray-finned fishes = 조기어류
+ENTRY:
+Family of mostly small marine ray-finned fishes, many of them brightly colored. The family Labridae includes hundreds of species, most of them in tropical and subtropical waters of the Atlantic, Indian and Pacific Oceans, often near [[Coral reef|coral reefs]]. Most species are less than 20 cm long, although the humphead wrasse can reach 2.5 m. Efficient carnivores, wrasses feed on small [[Invertebrate|invertebrates]], and many follow larger fish to catch the prey they disturb. Many species change sex, and the largest adults become territory-holding males. Their jaw structure has made wrasses a primary study species in fish-feeding [[Biomechanics|biomechanics]]: a loop of four rigid bones allows different arrangements to produce the same result. The humphead wrasse is listed as Endangered because of its slow growth and high market value.
+
+=== KEY: Wren_2b89b6
+HEADWORD: Wren = 굴뚝새
+LEVEL: 4
+GLOSSARY:
+  Aristotle = 아리스토텔레스
+  Campylorhynchus = 캄필로링쿠스속
+  Eurasian = 유라시아판
+  Eurasian wren = 굴뚝새
+  Fable = 우화
+  Family = 가족
+  Invertebrate = 무척추동물
+  New World = 신대륙
+  Old World = 구세계
+  Sexual dimorphism = 성적 이형성
+  Troglodytidae = 굴뚝새과
+  World = 세계
+  genus = 속
+  passerine birds = 참새목 조류
+  sexual dimorphism = 성적 이형성
+ENTRY:
+Family of small brown passerine birds, nearly all restricted to the [[New World]]. The family has 19 genera, and the Eurasian wren is the only Old World species. Most wrens are visually inconspicuous but have loud, complex songs, although the larger members of the genus Campylorhynchus can be bold. They have short, usually barred wings and often hold their tails upright. Wrens eat mainly insects, spiders and other small [[Invertebrate|invertebrates]], and some also eat plant matter or small frogs and lizards. A [[Fable|fable]] known since Aristotle names the wren king of birds, because it hid in an eagle's plumage and rode it to the highest altitude. The family name Troglodytidae means "cave-dweller," reflecting the foraging habits of some species in dark crevices. Plumage shows no [[Sexual dimorphism|sexual dimorphism]], and young birds differ little from adults.
+
+=== KEY: Wrestling_d41d8c
+HEADWORD: Wrestling = 레슬링
+LEVEL: 4
+GLOSSARY:
+  Ancient Greece = 고대 그리스
+  Ancient Olympic Games = 고대 올림픽
+  City = 도시
+  France = 프랑스
+  Greco-Roman = 그레코로만형
+  Greece = 그리스
+  Martial = 마르티알리스
+  Martial arts = 무술
+  New York City = 뉴욕
+  Olympic Games = 올림픽
+  Plato = 플라톤
+  Professional wrestling = 프로레슬링
+  Socrates = 소크라테스
+  United States = 미국
+  Wrestling = 레슬링
+  York = 요크
+  ancient Greece = 고대 그리스
+  ancient Olympic Games = 고대 올림픽
+  freestyle = 자유형
+  freestyle wrestling = 자유형 레슬링
+  joint locks = 관절기
+  modern Olympic Games = 근대 올림픽
+  pins = 폴
+  submission wrestling = 서브미션 레슬링
+  takedowns = 테이크다운
+  throws = 메치기
+ENTRY:
+[[Martial arts|Martial art]] and combat sport in which competitors grapple to gain advantage through throws, takedowns, joint locks and pins. The best-known form is [[Professional wrestling|professional wrestling]], a type of athletic theater. Other competitive forms include Olympic Greco-Roman and freestyle wrestling, as well as folk and submission wrestling. Wrestling first appeared at the [[Ancient Olympic Games|ancient Olympic Games]] in 708 BC and has been an event at every modern Olympic Games since 1904. Its origins go back around 15,000 to 17,000 years, to cave drawings in [[France]]. In [[Ancient Greece|ancient Greece]], philosophers including [[Plato]] and [[Socrates]] practiced wrestling, and many of Plato's dialogues are set in wrestling schools. The first organized national tournament in the United States was held in [[New York City]] in 1888.
+
+=== KEY: Wright_Flyer_c5d9a0
+HEADWORD: Wright Flyer = 라이트 플라이어
+LEVEL: 5
+GLOSSARY:
+  Airplane = 비행기
+  Institution = 제도
+  Kitty Hawk = 키티호크
+  Museum = 박물관
+  National Air and Space Museum = 국립 항공 우주 박물관
+  North Carolina = 노스캐롤라이나주
+  Orville = 오빌
+  Smithsonian Institution = 스미스소니언 협회
+  Space = 공간
+  Washington = 워싱턴주
+  Wright brothers = 라이트 형제
+  biplane = 복엽기
+  wing warping = 날개 비틀기
+ENTRY:
+Single-place biplane that made the first sustained, controlled, powered flight of a heavier-than-air [[Airplane|airplane]]. Built by the [[Wright brothers]], it flew on December 17, 1903, near Kitty Hawk, [[North Carolina]]. It was powered by a 12-horsepower (9 kW) gasoline engine that drove two propellers. Its wing warping made it relatively unstable. The brothers flew it four times, and the last flight covered 852 ft (260 m) before gusts wrecked it. Orville later restored it. The Flyer joined the [[Smithsonian Institution]] in 1948 and is now displayed at the National Air and Space Museum in Washington, D.C.
+
+=== KEY: Wright_brothers_5811dc
+HEADWORD: Wright brothers = 라이트 형제
+LEVEL: 4
+GLOSSARY:
+  Airplane = 비행기
+  Aviation = 항공
+  Dayton, Ohio = 오하이오주 데이턴
+  Devil = 악마
+  Fixed-wing aircraft = 고정익 항공기
+  Flyer II = 플라이어 2호
+  Flyer III = 플라이어 3호
+  Glider (aircraft) = 글라이더
+  Kill Devil Hills = 킬데블힐스
+  North Carolina = 노스캐롤라이나주
+  Ohio = 오하이오주
+  Wright Flyer = 라이트 플라이어
+  three-axis control system = 3축 조종 체계
+  wind tunnel = 풍동
+ENTRY:
+American [[Aviation|aviation]] pioneers who built and flew the first successful powered [[Airplane|airplane]]. Their 1903 [[Wright Flyer]] made the first controlled, sustained flight of an engine-powered, heavier-than-air aircraft, near Kill Devil Hills, [[North Carolina]]. Their key invention was a three-axis control system that let the pilot steer and balance the aircraft, and it remains standard on airplanes. Unlike other experimenters who emphasized engine power, they focused on pilot control and used a small home-built wind tunnel to collect more accurate data. Their 1904 Flyer II made longer flights, including the first circle, and the 1905 Flyer III was the first truly practical [[Fixed-wing aircraft|fixed-wing aircraft]]. They learned mechanics in a [[Dayton, Ohio|Dayton, Ohio]] shop that worked on printing presses and bicycles, and they conducted [[Glider (aircraft)|glider]] tests from 1900 until 1903.
+
+=== KEY: Writer_bbad3d
+HEADWORD: Writer = 작가
+LEVEL: 4
+GLOSSARY:
+  Essay = 수필
+  Novel = 소설
+  Song = 노래
+  author = 저자
+  oral tradition = 구전
+  screenplays = 시나리오
+ENTRY:
+Person who uses written words to communicate ideas, inspire feelings and emotions, or entertain. Writers produce [[Novel|novels]], short stories, plays, screenplays, [[Song|songs]], [[Essay|essays]], reports, educational material and news articles, and their works are published in a wide range of media. Some combine text with drawings, graphics or multimedia, and some work from an oral tradition. Many write about their own writing process and motivation, or comment on other writers' work as criticism. Payment is only one motivation, and many writers are not paid for their work. The term is also used as a synonym of author, although author more often refers to legal responsibility for a piece of writing and to the writer of a book.
+
+=== KEY: Writing_af96ab
+HEADWORD: Writing = 글쓰기
+LEVEL: 2
+GLOSSARY:
+  China = 중국
+  Commerce = 상업
+  Cuneiform = 쐐기 문자
+  Egypt = 이집트
+  Email = 이메일
+  Language = 언어
+  Literacy = 문해력
+  Mesoamerica = 메소아메리카
+  Mesopotamia = 메소포타미아
+  Natural language generation = 자연어 생성
+  Near East = 근동
+  Papyrus = 파피루스
+  Reading = 읽기
+  Typewriter = 타자기
+  Writing = 문자
+  Writing system = 문자 체계
+  alphabetic = 음소 문자
+  ancient Near East = 고대 근동
+  bamboo slips = 죽간
+  clay tablets = 점토판
+  clay tokens = 점토 토큰
+  copperplate = 동판
+  generative pre-trained transformers = 생성형 사전 학습 트랜스포머
+  hieroglyphs = 상형 문자
+  logographic = 표어 문자
+  parchment = 양피지
+  proto-cuneiform = 원시 쐐기 문자
+  script = 문자
+  slate = 석판
+  social media = 소셜 미디어
+  social networks = 사회 연결망
+  styluses = 철필
+  syllabic = 음절 문자
+  tactile = 촉각
+  vellum = 송아지 피지
+  wax tablets = 밀랍 서판
+  written language = 문어
+ENTRY:
+Act of creating a persistent, usually visual representation of language on a surface. As a structured system of communication, it is also known as written language. A set of symbols, called a script, together with the rules by which it encodes a spoken language, is a [[Writing system|writing system]]. In rare cases writing is tactile rather than visual. Its physical output, whether inscribed, mechanically transferred, or digitally represented, is called a text; construing a text is [[Reading|reading]], and the ability to read and write is [[Literacy|literacy]].
+
+Writing systems are not languages in themselves but durable means of representing language so that it can be understood later. Language is universal across human societies, but most spoken languages are not written. Writing extends speech across space, as in correspondence, and stores it for future reading, as in libraries. It also lets people externalize their thinking in forms that are easier to reflect on, elaborate, and revise.
+
+Writing arose independently in the ancient Near East, Egypt, China, and Mesoamerica. The earliest attested systems appeared around 3200 BC in [[Mesopotamia]] with proto-[[Cuneiform|cuneiform]], first used for accounting on clay tokens and tablets, and nearly simultaneously in Egypt with hieroglyphs. Systems later diversified into logographic, syllabic, and alphabetic forms. Writing emerged to meet the needs of societies growing in economic and social complexity: tracking produce and wealth, recording history, and administering through legal codes, census records, contracts, deeds, taxation, and treaties.
+
+Implements have included fingers, styluses, ink brushes, pencils, and pens; surfaces have included stone and clay tablets, bamboo slips, [[Papyrus|papyrus]], wax tablets, vellum, parchment, paper, copperplate, and slate. The [[Typewriter|typewriter]] and the digital word processor let writers produce visually consistent text mechanically. Natural language generation software first produced formulaic texts such as weather forecasts and sports summaries; generative pre-trained transformers can now produce longer texts from a prompt.
+
+Individual motivations include going beyond the limits of memory (lists, recipes, maps), spreading ideas (essays, petitions, manifestos), storytelling, maintaining social networks, business correspondence, and diaries. Digital communication such as [[Email|email]] and social media has made writing an increasingly important part of daily life. In many occupations, including law, accounting, and software design, written documentation is both the main product and the mode of work. Commerce, banking, and government rest on written documents, from contracts and tax records to national constitutions.
+
+=== KEY: Writing_system_f38234
+HEADWORD: Writing system = 문자 체계
+LEVEL: 3
+GLOSSARY:
+  Alphabet = 알파벳
+  Chinese characters = 한자
+  Hindustani = 힌두스타니어
+  Latin = 라틴어
+  Latin alphabet = 라틴 문자
+  Logographic systems = 표어 문자 체계
+  Morpheme = 형태소
+  Orthography = 정서법
+  Phoneme = 음소
+  Vietnamese alphabet = 베트남어 알파벳
+  Vietnamese language = 베트남어
+  abjads = 아브자드
+  abugidas = 아부기다
+  allographs = 이서체
+  grapheme = 자소
+  graphemes = 문자소
+  ideographs = 표의 문자
+  moras = 모라
+  morphemes = 형태소
+  proto-writing = 원시 문자
+  script = 문자
+  syllabaries = 음절 문자
+  syllabograms = 음절 기호
+  tactile = 촉각
+ENTRY:
+Conventional system for representing a particular language using a set of symbols, called a script, and the rules those symbols encode. The earliest writing systems appeared in the late 4th millennium BC. Each independently invented system emerged from proto-writing, in which a few ideographs were used in a way that could not fully encode language.
+
+Systems are classified by how their symbols, called graphemes, relate to units of language. Phonetic systems, which include alphabets and syllabaries, use graphemes that correspond to sounds. [[Alphabet|Alphabets]] use letters that generally correspond to spoken [[Phoneme|phonemes]]: pure alphabets represent consonants and vowels, abjads generally only consonants, and abugidas consonant–vowel pairs. Syllabaries use syllabograms representing whole syllables or moras. Logographic systems use graphemes that represent units of meaning such as words or [[Morpheme|morphemes]]. Alphabets typically use fewer than 100 symbols, syllabaries and logographies hundreds or thousands.
+
+Under most contemporary definitions, writing is a visual and tactile notation whose symbols correspond systematically to functional units of a spoken or signed language, which excludes drawings and maps. Most spoken languages have not been written, and all written languages rest on a spoken one. One language, such as Hindustani, can be written in several systems, and one system can represent several languages. [[Chinese characters]] were used to write [[Vietnamese language|Vietnamese]] from at least the 13th century until the Latin-based Vietnamese alphabet replaced them in the 20th century.
+
+The grapheme is the basic functional unit of a writing system, comparable to the phoneme in speech; visually distinct variants of one grapheme are called allographs. [[Orthography]] is the set of rules and conventions for writing shared by a community, including spelling. English orthography, for example, uses uppercase and lowercase forms of 26 letters of the [[Latin alphabet]].
+
+=== KEY: Wroc_aw_fecc28
+HEADWORD: Wrocław = 브로츠와프
+LEVEL: 4
+GLOSSARY:
+  Austrian = 오스트리아
+  Bohemian Crown = 보헤미아 왕관령
+  Breslau = 브레슬라우
+  Cathedral Island = 오스트루프 툼스키
+  Centennial Hall = 백주년 기념관
+  City = 도시
+  Crown = 영국 왕실
+  German = 독일어
+  German Empire = 독일 제국
+  Island = 섬
+  Lower Silesian Voivodeship = 돌니실롱스크주
+  Oder = 오데르강
+  Poland = 폴란드
+  Prussian = 프로이센
+  River = 강
+  Silesia = 슐레지엔
+  Silesian = 슐레지엔
+  UNESCO = 유네스코
+  UNESCO World Heritage Site = 유네스코 세계유산
+  World = 세계
+  World Heritage = 세계 유산
+  World Heritage Site = 세계유산
+  World War II = 제2차 세계 대전
+  Wrocław = 브로츠와프
+ENTRY:
+City, capital of Lower Silesian Voivodeship in southwestern [[Poland]] (pop., 2025: 672,545). Historically the largest city and capital of [[Silesia]], Wrocław lies on the Oder (Odra) River, and its metropolitan area has about 1.25 million people. It emerged as an early medieval settlement and became part of the Piast-ruled Polish state in the late 10th century. In the 14th century it passed to the Bohemian Crown, later coming under Austrian and Prussian rule before joining the [[German Empire]] in 1871 under the German name Breslau. After [[World War II]] it became part of Poland, most German residents fled or were expelled, and Polish settlers arrived. The city has a student population of over 130,000. Landmarks include Cathedral Island and the Centennial Hall, a [[UNESCO]] [[World Heritage Site]].
+
+=== KEY: Wrought_iron_be76ec
+HEADWORD: Wrought iron = 연철
+LEVEL: 4
+GLOSSARY:
+  Alloy = 합금
+  Cast iron = 주철
+  Chain = 사슬
+  Charcoal = 숯
+  Iron = 철
+  Nail (fastener) = 못
+  Rivet = 리벳
+  Steel = 강철
+  coke = 코크스
+  ductile = 연성
+  forge welded = 단접
+  horseshoes = 편자
+  malleable = 전성
+  mild steel = 연강
+  puddling = 퍼들링
+  slag inclusions = 슬래그 개재물
+  wrought iron = 연철
+ENTRY:
+[[Alloy|Iron alloy]] with a very low carbon content, in contrast to [[Cast iron|cast iron]]. It is made by puddling, melting high-carbon cast iron in a [[Charcoal|charcoal]] or coke hearth so that the excess carbon oxidizes. The iron is never fully molten, so impurities remain, and its fibrous slag inclusions give it a wood-like grain. It is tough, malleable, ductile and easily forge welded. Before effective steelmaking, wrought iron was the most common malleable iron, used for [[Rivet|rivets]], [[Nail (fastener)|nails]], wire, [[Chain|chains]], rails, pipes and horseshoes. Its use peaked in the 1860s, then declined as cheaper [[Steel|steel]] became available. Commercial production has ceased, and products sold as wrought iron are usually mild steel.
+
+=== KEY: Wu_Chinese_f9c221
+HEADWORD: Wu Chinese = 오어
+LEVEL: 4
+GLOSSARY:
+  Chinese language = 중국어
+  Jiangsu = 장쑤성
+  Shanghai = 상하이
+  Shanghainese = 상하이어
+  Suzhou = 쑤저우
+  Suzhounese = 쑤저우어
+  Yangtze = 양쯔강
+  Zhejiang = 저장성
+  checked tone = 입성
+  glottal stop = 성문 파열음
+  medieval Chinese = 중고 중국어
+  prestige dialect = 표준 방언
+  the tender speech of Wu = 오농연어
+  voiced initials = 유성 성모
+ENTRY:
+Group of [[Chinese language|Chinese]] varieties spoken at and south of the [[Yangtze]] delta. Wu is spoken primarily in [[Shanghai]], [[Zhejiang]] province and parts of [[Jiangsu]] province, and it is at times simply called Shanghainese. The Suzhounese variety was the prestige dialect of Wu in the 19th century, but Shanghainese had replaced it by the turn of the 20th century. Northern Wu varieties form a mutually intelligible language family, while Southern Wu varieties are not mutually intelligible. Linguists value Wu for preserving all voiced initials of medieval Chinese and the checked tone as a glottal stop. Wu, especially the Suzhou variety, is traditionally perceived as soft, leading to the idiom "the tender speech of Wu." Most speakers refer only to their local variety rather than to the group as a whole.
+
+=== KEY: Wu_Tang_Clan_7f1f25
+HEADWORD: Wu-Tang Clan = 우탱 클랜
+LEVEL: 5
+GLOSSARY:
+  Billboard 200 = 빌보드 200
+  City = 도시
+  GZA = GZA
+  Ghostface Killah = 고스트페이스 킬라
+  Inspectah Deck = 인스펙타 덱
+  Island = 섬
+  Martin Shkreli = 마틴 슈크렐리
+  Masta Killa = 마스타 킬라
+  Method Man = 메소드 맨
+  New York City = 뉴욕
+  Ol' Dirty Bastard = 올 더티 배스터드
+  Once = 『Once』
+  Once Upon a Time in Shaolin = 「Once Upon a Time in Shaolin」
+  RZA = RZA
+  Raekwon = 레이퀀
+  Rock and Roll Hall of Fame = 로큰롤 명예의 전당
+  Shaolin = 소림
+  Staten Island = 스태튼아일랜드
+  Time = 『타임』
+  U-God = U-갓
+  Wu-Tang Forever = 「Wu-Tang Forever」
+  York = 요크
+ENTRY:
+American hip-hop group formed in Staten Island, [[New York City]], in 1992. Members include RZA, GZA, Method Man, Raekwon, Ghostface Killah, Inspectah Deck, U-God and Masta Killa, plus Ol' Dirty Bastard until his death in 2004. Its debut album, *Enter the Wu-Tang (36 Chambers)* (1993), is widely considered one of the greatest hip-hop albums. *Wu-Tang Forever* (1997) debuted atop the *Billboard* 200. The only copy of *Once Upon a Time in Shaolin* was bought for $2 million by [[Martin Shkreli]]. The group was inducted into the [[Rock and Roll Hall of Fame]] in 2026.

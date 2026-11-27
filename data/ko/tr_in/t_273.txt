@@ -1,0 +1,808 @@
+=== KEY: Priyanka_Chopra_51ae3a
+HEADWORD: Chopra, Priyanka = 초프라, 프리양카
+LEVEL: 5
+GLOSSARY:
+  ABC = ABC
+  Best Actress = 여우주연상
+  Fashion = 「패션」
+  Feminism = 페미니즘
+  Film = 영화
+  Filmfare Award = 필름페어상
+  Filmfare Award for Best Actress = 필름페어 여우주연상
+  Gender equality = 성평등
+  Miss World = 미스 월드
+  National Film Award = 인도 국립 영화상
+  New York Times = 『뉴욕 타임스』
+  Quantico = 「콴티코」
+  The New York Times = 『뉴욕 타임스』
+  UNICEF = 유니세프
+  Unfinished = 『언피니시드』
+  World = 세계
+  York = 요크
+ENTRY:
+Indian actress, film producer and singer. She won the Miss World 2000 pageant, became India's highest-paid actress, and won a National Film Award and a Filmfare Award for Best Actress for *Fashion* (2008). From 2015 to 2018 she starred in the ABC thriller series *Quantico*, becoming the first South Asian to headline an American network drama. She has worked with [[UNICEF]] since 2006 and is vocal about [[Gender equality|gender equality]] and [[Feminism|feminism]]. Her memoir *Unfinished* (2021) reached the best-seller list of *The New York Times*.
+
+=== KEY: Probability_0d2765
+HEADWORD: Probability = 확률
+LEVEL: 3
+GLOSSARY:
+  Abraham = 아브라함
+  Andrey = 안드레이 보골륩스키
+  Andrey Kolmogorov = 안드레이 콜모고로프
+  Ars Conjectandi = 『추측술』
+  Bayesian probability = 베이즈 확률
+  Blaise Pascal = 블레즈 파스칼
+  Christiaan Huygens = 크리스티안 하위헌스
+  Doctrine of Chances = 『우연의 원리』
+  Gerolamo Cardano = 지롤라모 카르다노
+  Latin = 라틴어
+  Objectivists = 객관주의자
+  Pierre de Fermat = 피에르 드 페르마
+  Probability = 확률
+  Probability theory = 확률론
+  Statistics = 통계학
+  Subjectivists = 주관주의자
+  frequentist probability = 빈도주의 확률
+  game theory = 게임 이론
+  machine learning = 기계 학습
+  measure theory = 측도론
+  posterior distribution = 사후 분포
+  prior probability distribution = 사전 확률 분포
+  probabilitas = 프로바빌리타스
+  relative frequency = 상대도수
+  state of affairs = 사태
+ENTRY:
+Numerical description of how likely an event is to occur, expressed as a number between 0 and 1.
+
+The larger the probability, the more likely the event. It is often given as a percentage from 0% to 100%. For a fair coin, "heads" and "tails" are equally probable, so each has probability 1/2, or 0.5, or 50%. These ideas are formalized axiomatically in [[Probability theory]], used in [[Statistics|statistics]], mathematics, science, finance, gambling, artificial intelligence, machine learning, and game theory to draw inferences about the expected frequency of events and to describe regularities of complex systems.
+
+Two main categories of interpretation compete. Objectivists describe an objective or physical state of affairs. The most popular version is frequentist probability, the relative frequency of an outcome when an experiment is repeated indefinitely. Subjectivists treat probability as a degree of belief. The most popular version is Bayesian probability, which combines expert knowledge, represented by a prior probability distribution, with experimental data to produce a posterior distribution.
+
+The word derives from Latin *probabilitas*, which could also mean the authority of a witness in a legal case. In the 16th century the Italian polymath [[Gerolamo Cardano]] defined odds as the ratio of favorable to unfavorable outcomes. The doctrine of probabilities dates to the 1654 correspondence of [[Pierre de Fermat]] and [[Blaise Pascal]]. [[Christiaan Huygens]] (1657) gave the earliest known scientific treatment. Jakob Bernoulli's *Ars Conjectandi* (1713) and Abraham de Moivre's *Doctrine of Chances* (1718) treated the subject as a branch of mathematics. In 1933 [[Andrey Kolmogorov]] established its rigorous foundation, axiomatizing it using measure theory.
+
+=== KEY: Probability_density_function_60281b
+HEADWORD: Probability density function = 확률 밀도 함수
+LEVEL: 4
+GLOSSARY:
+  Integral = 적분
+  Probability = 확률
+  Random variable = 확률 변수
+  probability mass function = 확률 질량 함수
+  random variable = 확률 변수
+ENTRY:
+Function describing the relative likelihood that a continuous [[Random variable|random variable]] takes a given value. Probability density is the probability per unit length. Because any single exact value of a continuous variable has probability zero, the density shows how much more likely one value is than another. The probability of falling within a range is the [[Integral|integral]] of the density over that range, and the density is nonnegative with total area equal to one. In one example, the probability that a bacterium dies between 5 and 5.01 hours is 0.02, giving a density of 2 hour⁻¹ at 5 hours. The term density function is also used for the probability mass function of discrete variables, which causes confusion.
+
+=== KEY: Probability_distribution_78a226
+HEADWORD: Probability distribution = 확률 분포
+LEVEL: 4
+GLOSSARY:
+  Binomial distribution = 이항 분포
+  Normal distribution = 정규 분포
+  Poisson = 푸아송
+  Poisson distribution = 푸아송 분포
+  Probability density function = 확률 밀도 함수
+  Random variable = 확률 변수
+  probability density function = 확률 밀도 함수
+  probability mass function = 확률 질량 함수
+  probability measure = 확률 측도
+ENTRY:
+Mathematical function assigning probabilities to the possible outcomes of a random phenomenon. Formally, it is a probability measure on events, which are sets of possible outcomes, satisfying the axioms of probability. Distributions are linked to [[Random variable|random variables]], which assign a value to each outcome. For a fair coin, a variable equal to 1 for heads and 0 for tails gives each value a probability of 1/2. Discrete distributions are described by a probability mass function, while many continuous distributions are described by a [[Probability density function|probability density function]]. Distributions of special importance have names, such as the [[Normal distribution|normal]], [[Binomial distribution|binomial]] and [[Poisson distribution|Poisson]] distributions.
+
+=== KEY: Probability_theory_01ba09
+HEADWORD: Probability theory = 확률론
+LEVEL: 4
+GLOSSARY:
+  Andrey = 안드레이 보골륩스키
+  Andrey Kolmogorov = 안드레이 콜모고로프
+  Blaise Pascal = 블레즈 파스칼
+  Branch = 브랜치
+  Central limit theorem = 중심 극한 정리
+  Gerolamo Cardano = 지롤라모 카르다노
+  Law of large numbers = 큰 수의 법칙
+  Pierre de Fermat = 피에르 드 페르마
+  Random variable = 확률 변수
+  probability space = 확률 공간
+  probability theory = 확률론
+  sample space = 표본 공간
+  statistical mechanics = 통계 역학
+  stochastic processes = 확률 과정
+ENTRY:
+Branch of mathematics concerned with probability. It treats probability rigorously through axioms that define a probability space, in which a measure between 0 and 1 is assigned to events, which are subsets of the sample space of outcomes. Its central subjects include [[Random variable|random variables]], probability distributions and stochastic processes. Although random events cannot be predicted perfectly, the [[Law of large numbers|law of large numbers]] and the [[Central limit theorem|central limit theorem]] describe their behavior. It is the mathematical foundation of statistics and is used in statistical mechanics. The roots of the theory lie in analyses of games of chance by [[Gerolamo Cardano]] in the sixteenth century and by [[Pierre de Fermat]] and [[Blaise Pascal]] in the seventeenth century. [[Andrey Kolmogorov]] presented the axiom system that became the basis of modern probability theory in 1933.
+
+=== KEY: Proboscidea_b07482
+HEADWORD: Proboscidea = 장비목
+LEVEL: 4
+GLOSSARY:
+  African bush elephant = 아프리카코끼리
+  African forest elephant = 둥근귀코끼리
+  Afrotheria = 아프로테리아
+  Asian elephant = 아시아코끼리
+  Elephantidae = 코끼리과
+  Eritherium = 에리테리움
+  J. Illiger = J. 일리거
+  Mammoth = 매머드
+  deinotheres = 디노테리움류
+  gomphotheres = 곰포테리움류
+  mastodons = 마스토돈
+  paenungulate = 근유제류
+  short tons = 쇼트톤
+  stegodonts = 스테고돈류
+ENTRY:
+Taxonomic order of paenungulate mammals within Afrotheria, comprising the elephants and their extinct relatives. The order was described by J. Illiger in 1811. Three living elephant species are recognized: the [[African bush elephant]], the African forest elephant and the [[Asian elephant]]. Extinct members include deinotheres, mastodons, gomphotheres and stegodonts, and the family Elephantidae includes [[Mammoth|mammoths]]. The largest living proboscidean, the African bush elephant, has a recorded maximum of 4 meters (13.1 feet) at the shoulder and 10.4 tonnes (11.5 short tons). Proboscideans are distinguished by tusks and long, muscular trunks, which earlier forms lacked or had less developed. The earliest members, such as Eritherium, appeared in Africa around 60 million years ago and were much smaller than living elephants.
+
+=== KEY: Procellariiformes_9ebc45
+HEADWORD: Procellariiformes = 슴새목
+LEVEL: 4
+GLOSSARY:
+  Albatross = 앨버트로스
+  New Zealand = 뉴질랜드
+  Procellariiformes = 슴새목
+  Wisdom = 위즈덤
+  Zealand = 셸란섬
+  bycatch = 혼획
+  pair bonds = 짝 결합
+  pelagic = 원양성
+  petrels = 슴새류
+  shearwaters = 슴새
+  storm petrels = 바다제비
+ENTRY:
+Order of seabirds comprising the [[Albatross|albatrosses]], petrels, shearwaters and storm petrels. Procellariiformes are almost exclusively pelagic and have a cosmopolitan distribution, with the greatest diversity in the seas around [[New Zealand]]. They are colonial and mostly nest on remote, predator-free islands, returning to the same colony and nesting site over many years. They are monogamous, form long-term pair bonds, and usually lay a single egg per nesting attempt, with both parents incubating and rearing the chick. Some species live for decades; the world's oldest known bird, Wisdom, is around 75 years old. Many species are threatened by introduced predators, marine pollution and fisheries bycatch. A legally binding treaty, the Agreement on the Conservation of Albatrosses and Petrels, was signed in 2001.
+
+=== KEY: Procter_Gamble_e7f043
+HEADWORD: Procter & Gamble = 프록터 앤드 갬블
+LEVEL: 5
+GLOSSARY:
+  American Civil War = 남북 전쟁
+  Cincinnati = 신시내티
+  Civil War = 남북 전쟁
+  Crisco = 크리스코
+  Gillette = 질레트
+  James = 야고보
+  James Gamble = 제임스 갬블
+  Ohio = 오하이오주
+  Pampers = 팸퍼스
+  Tide = 조석
+  Union Army = 북군
+  United States = 미국
+  Vegetable oil = 식물성 기름
+  William = 윌리엄
+  William Procter = 윌리엄 프록터
+  consumer goods = 소비재
+  shortening = 쇼트닝
+  the Union = 연방
+ENTRY:
+American multinational consumer goods corporation, headquartered in [[Cincinnati]], Ohio. Founded in 1837 by William Procter and James Gamble, the company sells brands such as Tide, Pampers and Gillette, organized in five divisions including beauty, grooming and health care. It generates 51% of its sales in the United States and 49% in other countries. During the [[American Civil War]] it supplied soap and candles to the Union Army, and in 1911 it began producing Crisco, a shortening made of [[Vegetable oil|vegetable oils]].
+
+=== KEY: Procyon_d67cfd
+HEADWORD: Procyon = 프로키온
+LEVEL: 4
+GLOSSARY:
+  Betelgeuse = 베텔게우스
+  Binary star = 쌍성
+  Canis = 개속
+  Canis Minor = 작은개자리
+  European Space Agency = 유럽 우주국
+  Hipparcos = 히파르코스 위성
+  Main sequence = 주계열
+  Procyon = 프로키온
+  Sirius = 시리우스
+  Space = 공간
+  Triangle = 삼각형
+  White dwarf = 백색 왜성
+  Winter = 겨울
+  Winter Triangle = 겨울철 대삼각형
+  apparent magnitude = 겉보기 등급
+  main-sequence star = 주계열성
+  spectral type = 분광형
+  subgiant = 준거성
+  white dwarf = 백색 왜성
+ENTRY:
+Brightest star in the constellation Canis Minor, and one of Earth's nearest stellar neighbors. It is usually the eighth-brightest star in the night sky, with an apparent magnitude of 0.34. Measured by the [[European Space Agency]] Hipparcos satellite, the system lies 11.46 light-years away. The system is a [[Binary star|binary]] consisting of Procyon A, a white [[Main sequence|main-sequence]] star of spectral type F5 IV–V, and Procyon B, a faint [[White dwarf|white dwarf]] companion. The pair orbit each other every 40.84 years in an eccentric orbit. Procyon forms one of the three vertices of the Winter Triangle, with [[Sirius]] and [[Betelgeuse]]. Procyon A is bright for its class, suggesting that it is evolving into a subgiant that has nearly fused its hydrogen core.
+
+=== KEY: Procyonidae_40bc1e
+HEADWORD: Procyonidae = 아메리카너구리과
+LEVEL: 4
+GLOSSARY:
+  Bear = 곰
+  Carnivora = 식육목
+  Miocene = 마이오세
+  New World = 신대륙
+  Raccoon = 미국너구리
+  World = 세계
+  cacomistles = 카코미슬
+  coatis = 코아티
+  kinkajous = 킨카주
+  mustelids = 족제비과
+  olingos = 올링고
+  ringtails = 링테일
+  sister group = 자매군
+ENTRY:
+New World family of the order [[Carnivora]], including raccoons, ringtails, cacomistles, coatis, kinkajous and olingos. Procyonids inhabit a wide range of environments and are generally omnivorous. They are relatively small, with slender bodies and long tails, although the common [[Raccoon|raccoon]] is bulky. Because of their build they were once viewed as smaller cousins of the [[Bear|bear]] family, but they are more closely related to mustelids. Most species are solitary, although coati females form bands of 4 to 24 individuals that forage together. Procyonid fossils from around 20 million years ago have been identified from the [[Miocene]]. Kinkajous are the sister group to all other living procyonids, having split off about 22.6 million years ago.
+
+=== KEY: Productivity_73015e
+HEADWORD: Productivity = 생산성
+LEVEL: 4
+GLOSSARY:
+  GDP = GDP
+  Gross domestic product = 국내 총생산
+  Leisure = 여가
+  Productivity = 생산성
+  labor productivity = 노동 생산성
+ENTRY:
+Efficiency of production of goods or services, usually measured as output per unit of input over a period of time. Measures are often ratios of aggregate output to a single input or to an aggregate of inputs, and the choice among them depends on the purpose and on data availability. The most common is labor productivity, such as [[Gross domestic product|GDP]] per worker, which relates output volume to hours worked or total employment. Partial productivity measures use one class of inputs, such as worker hours or materials per unit of production. Productivity is crucial for firms and nations: raising national productivity can raise living standards, because wage growth lets people buy goods and services, enjoy [[Leisure|leisure]], and improve housing and education. It can also make businesses more profitable.
+
+=== KEY: Profanity_cba95a
+HEADWORD: Profanity = 욕설
+LEVEL: 4
+GLOSSARY:
+  Latin = 라틴어
+  Profanity = 비속어
+  Sin = 죄
+  profanus = 프로파누스
+  slurs = 비하 표현
+ENTRY:
+Use of notionally offensive words, also called swearing or cursing. Speakers use profanity to show disrespect, relieve pain, express strong emotion such as anger or surprise, intensify a statement or signal informality. In many formal situations it is considered impolite, and some religious groups consider it a [[Sin|sin]]. Profanity includes slurs, but most profanities are not slurs, and many insults use no swear words. The word derives from classical [[Latin]] profanus, meaning outside the temple. Profanity was long understudied because of its taboo nature, and modern study of it as a subject began by 1901. Controlled experiments have found that swearing can increase pain tolerance.
+
+=== KEY: Professional_wrestling_cee431
+HEADWORD: Professional wrestling = 프로레슬링
+LEVEL: 4
+GLOSSARY:
+  Cable television = 케이블 텔레비전
+  Europe = 유럽
+  Hulk Hogan = 헐크 호건
+  Japan = 일본
+  Mexico = 멕시코
+  United States = 미국
+  Vince McMahon = 빈스 맥마흔
+  WWE = WWE
+  faces = 페이스
+  heels = 힐
+  kayfabe = 케이페이브
+  promotions = 프로레슬링 단체
+ENTRY:
+Form of athletic theater centered on mock combat, in which performers are presented as competitive wrestlers. In the late 19th century, wrestlers began fixing matches so that they could display more spectacular action, and promoters scripted victories for charismatic performers. As promotions grew more sophisticated, they wrote dramatic stories pitting heroic faces against villainous heels. Performers were required to stay in character in public, a practice known as kayfabe, which was relaxed in the 1990s after fans had become fully aware of the fakery. Promotions range from local independent shows to internationally broadcast events, with the largest in the United States, Mexico, Japan and Europe. In the 1980s, [[Vince McMahon]] of [[WWE]] nationalized the business, using [[Cable television|cable television]] and stars such as [[Hulk Hogan]].
+
+=== KEY: Profit_economics_1ee1b3
+HEADWORD: Profit = 이윤
+LEVEL: 4
+GLOSSARY:
+  Competition = 경쟁
+  Economic profit = 경제적 이윤
+  Monopoly = 독점
+  Normal profit = 정상 이윤
+  accounting profit = 회계적 이윤
+  barriers to entry = 진입 장벽
+  long-run average costs = 장기 평균 비용
+  oligopolies = 과점
+  surplus value = 잉여 가치
+ENTRY:
+Difference between revenue from outputs and the total costs of inputs, also called surplus value. Economic profit is smaller than accounting profit, which counts only the explicit costs that appear on financial statements. Normal profit is the level at which revenue equals total costs, so that economic profit is zero and resources are used most efficiently. Economic profits arise in non-competitive markets with significant barriers to entry, such as [[Monopoly|monopolies]] and oligopolies. In a perfectly [[Competition|competitive]] market in long-run equilibrium, economic profit disappears, because new firms enter the industry, increase supply and force prices down to the minimum of long-run average costs.
+
+=== KEY: Programmed_cell_death_ffab24
+HEADWORD: Programmed cell death = 세포 예정사
+LEVEL: 4
+GLOSSARY:
+  Animal = 동물
+  Cell (biology) = 세포
+  DNA = DNA
+  Death = 죽음
+  Insect = 곤충
+  Lockshin = 록신
+  Necroptosis = 네크롭토시스
+  Necrosis = 괴사
+  Plant = 식물
+  Williams = 윌리엄스
+  apoptosis = 세포 자멸사
+  autophagy = 자가 포식
+ENTRY:
+Death of a [[Cell (biology)|cell]] as a result of events inside the cell, such as apoptosis or autophagy, sometimes called cell suicide. It is a biological process that usually confers an advantage during an organism's life cycle. For example, cells between the fingers of a developing human embryo undergo apoptosis, which separates the digits. Programmed cell death serves basic functions in both [[Plant|plant]] and [[Animal|animal]] tissue development. Apoptosis involves cell shrinkage, nuclear fragmentation and DNA fragmentation. Necrosis is death caused by external factors such as trauma or infection. Necroptosis, a form of programmed necrosis recognized in the 2000s, can act as a backup when apoptosis is blocked by viruses or mutations. The concept was used by Lockshin and Williams in 1964 in relation to [[Insect|insect]] tissue development.
+
+=== KEY: Programming_language_46f5fd
+HEADWORD: Programming language = 프로그래밍 언어
+LEVEL: 4
+GLOSSARY:
+  Algorithm = 알고리즘
+  Assembly language = 어셈블리어
+  Formal language = 형식 언어
+  Fortran = 포트란
+  High-level languages = 고급 언어
+  Language = 언어
+  Machine = 기계
+  Machine language = 기계어
+  just-in-time compilation = JIT 컴파일
+  machine code = 기계어
+  von Neumann architecture = 폰 노이만 구조
+ENTRY:
+Formal language designed to express computations, typically supporting the specification of software for both humans and computers. A program is implemented through compilation to machine code ahead of time, through interpretation, or through hybrid approaches such as just-in-time compilation. Language design has been strongly influenced by computer architecture, particularly the von Neumann architecture. Machine language was difficult to debug and not portable, and [[Assembly language|assembly languages]] made programs easier to read without increasing portability. High-level languages abstract hardware details so that [[Algorithm|algorithms]] are easier to express. [[Fortran]], invented in 1957, is often considered the first compiled high-level language, and it remained in use into the twenty-first century.
+
+=== KEY: Programming_paradigm_1ab19c
+HEADWORD: Programming paradigm = 프로그래밍 패러다임
+LEVEL: 4
+GLOSSARY:
+  Declarative paradigms = 선언형 패러다임
+  Function (mathematics) = 함수
+  Functional programming = 함수형 프로그래밍
+  Imperative programming = 명령형 프로그래밍
+  Object-oriented programming = 객체 지향 프로그래밍
+  Programming language = 프로그래밍 언어
+  logic programming = 논리 프로그래밍
+  metaprogramming = 메타프로그래밍
+  side effects = 부작용
+ENTRY:
+High-level way to conceptualize and structure the implementation of a computer program. A [[Programming language|programming language]] can support one or many paradigms. Paradigms differ in their implications for the execution model, such as whether side effects are allowed, in how code is organized, and in syntax. Imperative programming directly controls execution flow and state change, while [[Object-oriented programming|object-oriented programming]] organizes code into objects that contain both data and behavior. Declarative paradigms state the properties of the desired result without specifying how to compute it. Functional programming declares results as the values of [[Function (mathematics)|function evaluations]] and avoids mutable data, while logic programming declares results as answers to questions about facts and rules. Other paradigms include concurrent, generic, metaprogramming and visual programming.
+
+=== KEY: Progressive_Era_e2c422
+HEADWORD: Progressive Era = 진보 시대
+LEVEL: 5
+GLOSSARY:
+  Progressives = 진보주의자
+  Referendum = 국민 투표
+  United States = 미국
+  Women's suffrage = 여성 참정권
+  antitrust laws = 반독점법
+  direct election of senators = 상원 의원 직선제
+  direct primary elections = 직접 예비 선거
+  initiatives and referendums = 주민 발의와 주민 투표
+  prohibition = 금주
+  trustbusting = 트러스트 해체
+  trusts = 트러스트
+ENTRY:
+Period of reform in the [[United States]] from the 1890s to the 1920s. Reformers known as Progressives responded to rapid industrialization, urbanization, immigration, political corruption and the concentration of wealth in trusts and monopolies. They pursued direct primary elections, direct election of senators, [[Referendum|initiatives and referendums]], [[Women's suffrage|women's suffrage]], trustbusting, antitrust laws and new regulation of business. Many Progressives saw prohibition of alcohol as key to eliminating political corruption. The movement drew support from the educated middle class, lawyers, teachers, physicians and the working class.
+
+=== KEY: Progressivism_def9dd
+HEADWORD: Progressivism = 진보주의
+LEVEL: 5
+GLOSSARY:
+  Age of Enlightenment = 계몽주의 시대
+  Enlightenment = 계몽주의
+  Immanuel Kant = 이마누엘 칸트
+  Kant = 칸트
+  Political philosophy = 정치 철학
+  Social democracy = 사회 민주주의
+  Techno-progressivism = 기술 진보주의
+  populist = 포퓰리즘
+  positive liberty = 적극적 자유
+  umbrella term = 포괄적 용어
+ENTRY:
+Political philosophy aimed at progress in the human condition through reforms that increase positive liberty. It arose during the [[Age of Enlightenment]], when [[Immanuel Kant]] described progress as movement from barbarism toward civilization. As an umbrella term, it is associated with [[Social democracy|social democracy]] and with reformist forms of conservatism, liberalism, socialism and communism. Its eras share an economic populist critique of unregulated capitalism and a call for active democratic government to safeguard human rights and check corporate monopolies. Techno-progressivism is another type.
+
+=== KEY: Prohibition_in_the_United_States_9f116f
+HEADWORD: Prohibition in the United States = 미국의 금주법
+LEVEL: 5
+GLOSSARY:
+  Alcoholic beverage = 주류
+  Black market = 암시장
+  Cirrhosis = 간경변증
+  Eighteenth Amendment = 수정 헌법 제18조
+  Great Depression = 대공황
+  Organized crime = 조직범죄
+  Protestant = 개신교
+  Research = 연구
+  Twenty-first Amendment = 수정 헌법 제21조
+  drys = 금주파
+  infant mortality = 영아 사망률
+ENTRY:
+Nationwide ban on the production, importation, transportation and sale of [[Alcoholic beverage|alcoholic beverages]] from 1920 to 1933. It was introduced by the Eighteenth Amendment, ratified January 16, 1919, and repealed by the Twenty-first on December 5, 1933. Supporters, called drys, were mostly Protestant. Research on its effects is disputed, but [[Black market|black markets]] and [[Organized crime|organized crime]] emerged, and rates of liver [[Cirrhosis|cirrhosis]] and infant mortality declined. Support diminished during the [[Great Depression]], when critics claimed it had lowered tax revenues. The Twenty-first Amendment is the only amendment passed to repeal another.
+
+=== KEY: Prokaryote_736775
+HEADWORD: Prokaryote = 원핵생물
+LEVEL: 4
+GLOSSARY:
+  Archaea = 고균
+  Bacteria = 세균
+  Cyanobacteria = 남세균
+  Earth = 지구
+  Fission (biology) = 분열
+  Mitochondria = 미토콘드리아
+  Prokaryotes = 원핵생물
+  binary fission = 이분법
+  domains of life = 생물의 역
+  endosymbionts = 내공생체
+  fossil record = 화석 기록
+  horizontal gene transfer = 수평적 유전자 이동
+  last universal common ancestor = 마지막 보편 공통 조상
+  primary producers = 1차 생산자
+  stromatolites = 스트로마톨라이트
+  universal common ancestor = 보편 공통 조상
+ENTRY:
+Single-celled organism without a membrane-bound nucleus or other organelles. Prokaryotes are the most abundant and diverse organisms on Earth, with an estimated 4–6 × 10³⁰ cells in total. They form two of the three domains of life, [[Bacteria]] and [[Archaea]]. All reproduce asexually, usually by [[Fission (biology)|binary fission]], although horizontal gene transfer is also common. Some, such as [[Cyanobacteria]], form colonies, and microbial communities can form mats preserved in the fossil record as stromatolites. Prokaryotes are primary producers and important biodegraders in aquatic and terrestrial ecosystems, and they play a part in the carbon, nitrogen, phosphorus and oxygen cycles. [[Mitochondria]], absent from prokaryotes, evolved from prokaryotic endosymbionts. The last universal common ancestor, considered "prokaryote-grade," evolved around 4.09–4.33 Ga.
+
+=== KEY: Prometheus_e1723a
+HEADWORD: Prometheus = 프로메테우스
+LEVEL: 5
+GLOSSARY:
+  Frankenstein = 『프랑켄슈타인』
+  Greek mythology = 그리스 신화
+  Heracles = 헤라클레스
+  Hesiod = 헤시오도스
+  Mary Shelley = 메리 셸리
+  Olympian = 올림포스
+  Olympian gods = 올림포스 신
+  Prometheus = 프로메테우스
+  Romantic = 낭만주의
+  Romantic era = 낭만주의 시대
+  The Modern Prometheus = 『현대의 프로메테우스』
+  Titan = 티탄
+  Zeus = 제우스
+ENTRY:
+Titan in Greek mythology and champion of humankind. In several versions of the myth, Prometheus molded humanity from clay and defied the Olympian gods by stealing fire for mortals. Zeus condemned him to eternal torture: he was bound to a rock while an eagle ate his liver each day, and the liver regrew overnight. According to [[Hesiod]], the hero [[Heracles]] freed him. He is regarded as the father of the human arts and sciences. In the Romantic era he came to embody the risks of overreaching, and [[Mary Shelley]] gave *The Modern Prometheus* as an alternate title for *Frankenstein* (1818).
+
+=== KEY: Promethium_f950f9
+HEADWORD: Promethium = 프로메튬
+LEVEL: 4
+GLOSSARY:
+  Earth's crust = 지각
+  Europium = 유로퓸
+  Henry Moseley = 헨리 모즐리
+  Laboratory = 실험실
+  Lanthanide = 란타넘족
+  Oak Ridge = 오크리지
+  Oak Ridge National Laboratory = 오크리지 국립 연구소
+  Periodic table = 주기율표
+  Prometheus = 프로메테우스
+  Technetium = 테크네튬
+  Titan = 티탄
+  Uranium = 우라늄
+  atomic batteries = 원자력 전지
+  chemical element = 화학 원소
+  oxidation state = 산화수
+  promethium-147 = 프로메튬-147
+  spontaneous fission = 자발 핵분열
+  uranium-235 = 우라늄-235
+ENTRY:
+Synthetic, radioactive chemical element with atomic number 61 (symbol Pm). All of its isotopes are radioactive. It is extremely rare in nature, with only about 500–600 grams in the Earth's crust at any given time. It is one of only two radioactive elements that are both preceded and succeeded in the [[Periodic table]] by elements with stable forms, the other being [[Technetium]]. Chemically it is a [[Lanthanide]] with only one stable oxidation state, +3. In 1914 Henry Moseley found that element 61 was missing from the series of known elements. It was first produced and characterized at Oak Ridge National Laboratory in 1945, from fission products of [[Uranium]] fuel. The discoverers named it after the Titan [[Prometheus]], to symbolize both the daring and the possible misuse of human intellect. Its only isotope with practical applications is promethium-147, used in luminous paint, atomic batteries and thickness gauges. Natural promethium arises from rare decays of [[Europium]] and spontaneous fission of uranium, so most supplies are made by bombarding uranium-235 with neutrons.
+
+=== KEY: Promiscuity_03f0e2
+HEADWORD: Promiscuity = 성적 문란
+LEVEL: 4
+GLOSSARY:
+  Promiscuity = 난혼
+  Sexually transmitted infection = 성매개 감염병
+  double standard = 이중 잣대
+  extra-pair copulation = 쌍외 교미
+  one-night stand = 원나이트 스탠드
+  pair bonds = 짝 결합
+  sexually transmitted infections = 성매개 감염
+ENTRY:
+Practice of frequent sexual activity with different partners, or indiscriminate choice of partners. The term can carry a moral judgment. A common example is the one-night stand, whose frequency researchers use as a marker. What counts as promiscuous varies between cultures, and different standards are often applied to men and women. Feminists have argued that a significant double standard exists; historically, stereotypes of promiscuous women have been pejorative, while male stereotypes have been more varied. A 2005 study found that promiscuous men and women are both prone to derogatory judgment. Promiscuity is common in many animal species, and in species that form pair bonds, mating outside the pair is called extra-pair copulation. A 2006 review of 59 countries found no association between regional sexual behavior and sexual-health status, while poverty and mobility were more predictive. Some studies suggest that people with multiple casual partners are more likely to be diagnosed with [[Sexually transmitted infection|sexually transmitted infections]].
+
+=== KEY: Pronghorn_10af91
+HEADWORD: Pronghorn = 가지뿔영양
+LEVEL: 4
+GLOSSARY:
+  American antelope = 아메리카영양
+  Americas = 아메리카
+  Antelope = 영양
+  Antilocapridae = 가지뿔영양과
+  Bovidae = 소과
+  Giraffe = 기린
+  IUCN = 국제 자연 보전 연맹
+  Least Concern = 최소 관심
+  Meriwether Lewis = 메리웨더 루이스
+  North America = 북아메리카
+  Okapi = 오카피
+  Old World = 구세계
+  Once = 『Once』
+  William = 윌리엄
+  William Clark = 윌리엄 클라크
+  World = 세계
+  parallel evolution = 평행 진화
+ENTRY:
+Even-toed, hoofed mammal native to interior western and central North America. Though not an [[Antelope|antelope]], it is called the American antelope because it resembles Old World antelopes through parallel evolution. It is the only surviving member of the family Antilocapridae, and its closest living relatives are the [[Giraffe]] and the [[Okapi]]. Its name comes from horn sheaths that branch and have a forward-pointing tine, unlike the horns of the [[Bovidae]]. It is the fastest land mammal in the Americas, with running speeds up to 55 mph (88.5 km/h). Males have horn sheaths averaging 9.8 in (25 cm), which are shed and regrown annually. Meriwether Lewis and William Clark first formally recorded the species during their expedition of 1804–1806. Once numbering around 35 million in the early 1800s, pronghorn populations fell because of overhunting and habitat loss, then rebounded to about 1 million by 2025. The species is rated Least Concern by the IUCN.
+
+=== KEY: Pronoun_610bf4
+HEADWORD: Pronoun = 대명사
+LEVEL: 4
+GLOSSARY:
+  Dionysius Thrax = 디오니시오스 트락스
+  French = 프랑스어
+  Latin = 라틴어
+  Linguistics = 언어학
+  Middle French = 중세 프랑스어
+  Noun = 명사
+  Word = 단어
+  antecedent = 선행사
+  noun phrase = 명사구
+  parts of speech = 품사
+  pronomen = 프로노멘
+ENTRY:
+Word or word group used in place of a noun or noun phrase. Pronouns have traditionally been regarded as one of the parts of speech, but modern theorists doubt that they form a single class, given the variety of functions they perform across languages. Subtypes include personal, possessive, reflexive and reciprocal, demonstrative, relative, interrogative and indefinite pronouns. Many pronouns depend on an antecedent for their meaning: in *That poor man looks as if he needs a new coat*, the pronoun *he* refers back to *that poor man*. Some pronouns, such as interrogative *who*, stand for nothing at all. A treatise attributed to Dionysius Thrax, dating from the 2nd century BC, listed the pronoun as one of eight parts of speech. The English name derives, through Middle French, from [[Latin]] pronomen. Some [[Linguistics|linguists]] do not agree that pronouns substitute for [[Noun|nouns]] at all.
+
+=== KEY: Propaganda_76f28c
+HEADWORD: Propaganda = 선전
+LEVEL: 4
+GLOSSARY:
+  Catholic = 가톨릭
+  Catholic Church = 가톨릭교회
+  Church = 처치
+  Congregatio de Propaganda Fide = 포교성성
+  Counter-Reformation = 반종교 개혁
+  Germany = 독일
+  Latin = 라틴어
+  Nazi = 나치
+  Nazi Germany = 나치 독일
+  Propaganda = 선전
+  Social media = 소셜 미디어
+  Soviet Union = 소련
+  World = 세계
+  World War I = 제1차 세계 대전
+  personality cults = 개인 숭배
+  propagare = 프로파가레
+ENTRY:
+Mass communication aimed at persuading an audience to further an agenda. Propaganda often selectively presents facts or uses loaded language to produce an emotional rather than a rational response. Historically it was a neutral term for material promoting opinions or ideologies, but in the twentieth century it became associated with manipulation. The word derives from the [[Latin]] *propagare*, meaning to spread, and from the Congregatio de Propaganda Fide, a body of the [[Catholic Church]] created in 1622 during the [[Counter-Reformation]] to propagate the faith in non-Catholic countries. Propaganda has used paintings, posters, films, radio and television, and today bots and algorithms spread fake or biased news on [[Social media]]. [[World War I]] saw mass-media campaigns that shaped public opinion and demonized enemies. In [[Nazi Germany]] and the [[Soviet Union]], propaganda enforced conformity through censorship, repetitive messaging and personality cults.
+
+=== KEY: Propane_fbbad0
+HEADWORD: Propane = 프로판
+LEVEL: 4
+GLOSSARY:
+  Alkane = 알칸
+  French = 프랑스어
+  Heat pump = 열펌프
+  Marcellin Berthelot = 마르슬랭 베르틀로
+  Natural gas = 천연가스
+  Petroleum = 석유
+  Propane = 프로판
+  gravimetric energy density = 질량 에너지 밀도
+  liquefied petroleum gas = 액화 석유 가스
+  refrigerant = 냉매
+  standard temperature and pressure = 표준 온도와 압력
+  volumetric energy density = 부피 에너지 밀도
+ENTRY:
+Three-carbon [[Alkane|alkane]] with the formula C₃H₈. Propane is a gas at standard temperature and pressure, but it liquefies under compression for transport and storage. It is a by-product of [[Natural gas]] processing and [[Petroleum]] refining, and a common component of liquefied petroleum gas (LPG), which fuels domestic and industrial uses and low-emissions public transportation. Discovered in 1857 by the French chemist Marcellin Berthelot, it became commercially available in the U.S. by 1911. Its low boiling point of −42 °C lets it vaporize even in cold weather, which suits barbecues, portable stoves and outdoor use. Propane has lower volumetric energy density than gasoline or coal but higher gravimetric energy density, and it burns cleaner. It is also being adopted as a replacement refrigerant (R290) for [[Heat pump|heat pumps]], offering greater efficiency than R-410A and R32, at the expense of high flammability.
+
+=== KEY: Properties_of_water_2154c8
+HEADWORD: Properties of water = 물의 성질
+LEVEL: 4
+GLOSSARY:
+  Ammonia = 암모니아
+  Critical point (thermodynamics) = 임계점
+  Hydrogen bond = 수소 결합
+  Physical = 「Physical」
+  Water = 물
+  amphoteric = 양쪽성
+  critical point = 임계점
+  heat capacity = 열용량
+  hydrogen bonds = 수소 결합
+  hydrothermal vents = 열수 분출공
+  specific heat = 비열
+  specific heat capacity = 비열 용량
+  supercritical = 초임계
+ENTRY:
+Physical and chemical characteristics of pure water. Water is a polar inorganic compound, and its [[Hydrogen bond|hydrogen bonds]] underlie many unusual properties. At room temperature it is a tasteless, odorless liquid, nearly colorless with an inherent hint of blue. It is the only common substance found as a solid, liquid and gas on Earth's surface. Its specific heat capacity of 4184 J/(kg·K) at 20 °C is the second highest among heteroatomic species, after [[Ammonia]]. Water reaches its maximum density at 3.98 °C and expands on freezing, so ice floats. It is amphoteric, producing both H⁺ and OH⁻ ions, and the product of their concentrations is approximately constant. Its [[Critical point (thermodynamics)|critical point]] is at 647 K and 22.064 MPa, a supercritical state that occurs rarely in nature, such as in deep hydrothermal vents.
+
+=== KEY: Property_5ad234
+HEADWORD: Property = 재산
+LEVEL: 3
+GLOSSARY:
+  Adam = 아담
+  Adam Smith = 애덤 스미스
+  Capitalism = 자본주의
+  Conservatism = 보수주의
+  Economics = 경제학
+  Intellectual property = 지식 재산
+  John = 존
+  John Locke = 존 로크
+  Judiciary = 사법부
+  Locke = 로크
+  Property = 재산
+  bundle of rights = 권리의 다발
+  classical liberalism = 고전적 자유주의
+  intellectual property = 지식 재산
+  justification = 칭의
+  legal rights = 법적 권리
+  natural law = 자연법
+  personal property = 동산
+  political economy = 정치경제학
+  real property = 부동산
+ENTRY:
+System of legal rights giving people control over valuable things, and the things themselves. Depending on its nature, an owner may have the right to consume, alter, share, rent, sell, transfer, or destroy it, or to exclude others from doing so. Property is usually defined by the code of the local sovereignty, and the [[Judiciary|judiciary]] can adjudicate and enforce property rights. Economics and political economy distinguish four broad forms: private, public, collective, and common property. Types include real property (land and improvements to it), personal property (physical possessions), and [[Intellectual property|intellectual property]], which covers exclusive rights over artistic creations and inventions but is not always widely recognized or enforced. In sociology and anthropology, property is often defined as a relationship between individuals and an object in which at least one holds a bundle of rights over it.
+
+Philosophers disagree about its basis: some hold that property rights arise from social convention, others find justification in morality or natural law. [[John Locke]] wrote that every man has a property in his person, and classical liberalism holds that individuals own their lives and therefore the products of them. [[Adam Smith]] tied the expectation of profit from improving one's stock of capital to private-property rights, yet also wrote that civil government, so far as it is instituted for the security of property, is in reality instituted for the defense of the rich against the poor. [[Capitalism]] assumes that property rights encourage owners to develop property, generate wealth, and allocate resources efficiently through markets. [[Conservatism]] holds that the more widespread private possession is, the more stable and productive a state becomes.
+
+=== KEY: Property_law_5ad508
+HEADWORD: Property law = 재산법
+LEVEL: 4
+GLOSSARY:
+  Civil law (legal system) = 대륙법
+  English law = 잉글랜드법
+  Intellectual property = 지식 재산
+  Property = 재산
+  Property law = 재산법
+  Roman law = 로마법
+  Trust (law) = 신탁
+  common law = 보통법
+  compulsory land acquisition = 토지 수용
+  courts of equity = 형평법 법원
+  dominium = 도미니움
+  personal property = 동산
+  real property = 부동산
+ENTRY:
+Body of law governing ownership and tenure in property. Property law regulates the acquisition, transfer and enforcement of proprietary rights, which usually involve relationships between private individuals. Its public-law aspects include compulsory land acquisition, environmental effects, antitrust, indigenous rights, and the human rights to property and housing. Legal systems generally distinguish real property, meaning land, from personal property, which may be tangible or intangible, such as [[Intellectual property]]. Common-law property rules originated in medieval English law, developed under separate courts of equity and common law, while [[Civil law (legal system)|civil-law]] systems trace their origins to Roman law. Roman jurists conceived ownership as dominium, a near-absolute right to use, enjoy and dispose of a thing. The most significant doctrinal influence between the two traditions is the reception of the [[Trust (law)|trust]] into civilian jurisdictions.
+
+=== KEY: Property_tax_bb1e56
+HEADWORD: Property tax = 재산세
+LEVEL: 4
+GLOSSARY:
+  Ad valorem tax = 종가세
+  Apartment = 아파트
+  County (United States) = 카운티
+  Israel = 이스라엘
+  mills = 밀
+  per mille = 천분율
+  special assessment = 특별 부과금
+ENTRY:
+Ad valorem tax levied on the value of property, most often real estate. A property tax is levied by the governing authority of the jurisdiction where the property lies, which may be a national government, a state, a [[County (United States)|county]] or a municipality. Multiple jurisdictions may tax the same property. Governments typically appraise each property's value and assess tax in proportion to it. Rates are expressed as a percentage or in mills (per mille). For example, a property assessed at $50,000 in a municipality with a rate of 20 mills pays $1,000 a year. Real property is often taxed by class, such as residential, commercial, industrial or vacant, and rates differ. In [[Israel]], the rate on vacant [[Apartment|apartments]] is double the rate on occupied ones. A special assessment is a different levy, relying on a "benefit" rather than market value. Before monetary systems, taxes were often paid as a percentage of crops.
+
+=== KEY: Prophecy_5d3eb1
+HEADWORD: Prophecy = 예언
+LEVEL: 4
+GLOSSARY:
+  Active Intellect = 능동 지성
+  Aeschylus = 아이스킬로스
+  Bahá'u'lláh = 바하올라
+  Baháʼí Faith = 바하이교
+  French = 프랑스어
+  Latin = 라틴어
+  Maimonides = 마이모니데스
+  Manifestation of God = 신의 현현
+  Old French = 고대 프랑스어
+  Old Testament = 구약 성경
+  Prometheus = 프로메테우스
+  Titan = 티탄
+  Torah = 토라
+ENTRY:
+Message communicated to a person, typically a prophet, by a supernatural entity. Prophecies usually contain divine will or law, or knowledge of future events, and may be revealed in visions or direct interaction with divine beings. The English noun appeared around 1225 and derives from Old French and Greek words meaning the gift of interpreting the will of God. Much of the activity of Old Testament prophets involved conditional warnings rather than fixed futures, and the [[Torah]] already addresses false prophets. Maimonides described prophecy as an emanation from God through the Active Intellect. According to the playwright [[Aeschylus]], the Titan [[Prometheus]] gave prophecy to humankind in ancient Greek tradition. In 1863, Bahá'u'lláh, founder of the [[Baháʼí Faith]], claimed to be a Manifestation of God. Skeptics cite the Latin maxim "prophecy written after the fact."
+
+=== KEY: Propofol_c5bed4
+HEADWORD: Propofol = 프로포폴
+LEVEL: 5
+GLOSSARY:
+  Diprivan = 디프리반
+  FDA = 미국 식품의약국
+  John = 존
+  John B. Glen = 존 B. 글렌
+  List of Essential Medicines = 필수 의약품 목록
+  New Zealand = 뉴질랜드
+  Propofol = 프로포폴
+  United Kingdom = 영국
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  Zealand = 셸란섬
+  general anesthesia = 전신 마취
+  lorazepam = 로라제팜
+  sodium thiopental = 티오펜탈 나트륨
+ENTRY:
+Intravenous anesthetic used to induce and maintain general anesthesia. Propofol, first marketed as Diprivan, has largely replaced sodium thiopental for inducing anesthesia. Recovery is generally quick, with less drowsiness, nausea and vomiting than with other anesthetics. It is also used to sedate intensive care patients, where it proved superior to lorazepam in effectiveness and overall cost. First synthesized in 1973 by the British veterinary anesthesiologist John B. Glen, it was introduced in the United Kingdom and New Zealand in 1986, and the FDA approved it in October 1989. It is on the [[World Health Organization]]'s List of Essential Medicines.
+
+=== KEY: Proportional_representation_65c5ff
+HEADWORD: Proportional representation = 비례 대표제
+LEVEL: 5
+GLOSSARY:
+  Australian = 오스트레일리아
+  Australian Senate = 오스트레일리아 상원
+  Gerrymandering = 게리맨더링
+  Ireland = 아일랜드
+  Malta = 몰타
+  Proportional representation = 비례 대표제
+  Rajya Sabha = 라지야 사바
+  block voting = 블록 투표
+  closed-list = 폐쇄형 명부식
+  open-list = 개방형 명부식
+  single transferable vote = 단기 이양식 투표
+  single-member plurality voting = 소선거구 단순 다수제
+ENTRY:
+Electoral principle giving groups of voters seats in proportion to their votes. Proportional representation systems ensure that the party make-up of elected representatives reflects the votes cast. They approximate proportionality far better than single-member plurality voting or block voting, although exact proportionality is never achieved except by chance. In closed-list systems, seats go to parties by vote share. In open-list and candidate-based systems such as the single transferable vote, candidates are elected on personal appeal and party label. The single transferable vote is used in Ireland, [[Malta]], the Australian Senate and the Indian Rajya Sabha. These systems are also more resistant to [[Gerrymandering]].
+
+=== KEY: Proposition_704ff5
+HEADWORD: Proposition = 명제
+LEVEL: 4
+GLOSSARY:
+  Aristotle = 아리스토텔레스
+  Bertrand = 버트런드호
+  Bertrand Russell = 버트런드 러셀
+  German = 독일어
+  Gottlob Frege = 고틀로프 프레게
+  Ockham = 오컴
+  Realists = 실재론자
+  Stoics = 스토아학파
+  True = 『True』
+  William = 윌리엄
+  William of Ockham = 오컴의 윌리엄
+  anti-realists = 반실재론자
+  possible worlds = 가능 세계
+  truth value = 진릿값
+ENTRY:
+Meaning of a declarative sentence, and bearer of truth value. Propositions are the meanings shared by sentences such as *Snow is white* and its German equivalent, and they are the objects of beliefs. True propositions describe the world as it is, while false ones do not. Researchers distinguish affirmative and negative, universal and existential, and categorical and conditional propositions. Realists hold that propositions form part of reality, a view rejected by anti-realists. Some theories define propositions as sets of possible worlds, others as structured entities built from individuals and concepts. The study of propositions began in ancient philosophy with [[Aristotle]] and the Stoics, and later involved [[William of Ockham]], [[Gottlob Frege]] and [[Bertrand Russell]]. Logicians examine their inferential patterns, while psychologists study attitudes such as belief and desire.
+
+=== KEY: Propositional_logic_0080ea
+HEADWORD: Propositional logic = 명제 논리
+LEVEL: 4
+GLOSSARY:
+  Branch = 브랜치
+  Chrysippus = 크리시포스
+  First-order logic = 1차 논리
+  Gerhard Gentzen = 게르하르트 겐첸
+  Gottlob Frege = 고틀로프 프레게
+  Stanisław Jaśkowski = 스타니스와프 야시코프스키
+  classical logic = 고전 논리
+  deductive system = 연역 체계
+  higher-order logics = 고차 논리
+  law of excluded middle = 배중률
+  natural deduction = 자연 연역
+  predicate logic = 술어 논리
+  principle of bivalence = 이치 원리
+  propositional logic = 명제 논리
+  propositional variables = 명제 변수
+  quantifiers = 양화사
+  sentential calculus = 문장 계산
+  truth value = 진릿값
+ENTRY:
+Branch of classical logic dealing with propositions and their relations. Also called sentential calculus or statement logic, it studies compound propositions formed with connectives for conjunction, disjunction, implication, biconditional and negation. Propositions are represented by letters called propositional variables, and the subject deals with neither quantifiers nor non-logical objects. All of its machinery is included in [[First-order logic]] and higher-order logics, which makes it their foundation. In its classical truth-functional form, each formula has exactly one truth value, and the principle of bivalence and the law of excluded middle are upheld. Chrysippus is often credited with developing a deductive system for propositional logic in the 3rd century BC. [[Gottlob Frege]]'s predicate logic built upon it, and natural deduction was invented by Gerhard Gentzen and Stanisław Jaśkowski.
+
+=== KEY: Propranolol_26d2fb
+HEADWORD: Propranolol = 프로프라놀롤
+LEVEL: 5
+GLOSSARY:
+  Asthma = 천식
+  List of Essential Medicines = 필수 의약품 목록
+  United States = 미국
+  World = 세계
+  World Health Organization = 세계 보건 기구
+  angina = 협심증
+  beta blocker = 베타 차단제
+  essential tremor = 본태성 떨림
+  infantile hemangiomas = 영아 혈관종
+  side effects = 부작용
+  thyrotoxicosis = 갑상샘 중독증
+  β-adrenergic receptors = β-아드레날린 수용체
+ENTRY:
+Nonselective beta blocker medication. Propranolol is used to treat high blood pressure, some irregular heart rhythms, angina, essential tremor, thyrotoxicosis and infantile hemangiomas, and to prevent migraine headaches. It works by blocking β-adrenergic receptors. Common side effects include nausea, abdominal pain and constipation, and it may worsen [[Asthma]]. Patented in 1962 and approved for medical use in 1964, it is on the [[World Health Organization]]'s List of Essential Medicines. In 2023 it was the 69th most commonly prescribed medication in the United States, with more than 9 million prescriptions.
+
+=== KEY: Propylene_57bca6
+HEADWORD: Propylene = 프로필렌
+LEVEL: 4
+GLOSSARY:
+  A. W. von Hofmann = A. W. 폰 호프만
+  Acetone = 아세톤
+  Alkene = 알켄
+  John = 존
+  John Williams = 존 윌리엄스
+  John Williams Reynolds = 존 윌리엄스 레이놀즈
+  Naphtha = 나프타
+  North America = 북아메리카
+  Phenol = 페놀
+  Polypropylene = 폴리프로필렌
+  Propane = 프로판
+  Propylene = 프로필렌
+  Williams = 윌리엄스
+  acrylonitrile = 아크릴로나이트릴
+  amyl alcohol = 아밀 알코올
+  cumene = 큐멘
+  dehydrogenation = 탈수소화
+  metric tons = 미터톤
+  propene = 프로펜
+  propylene oxide = 산화 프로필렌
+  steam cracking = 스팀 크래킹
+ENTRY:
+Also called propene, the second-simplest [[Alkene|alkene]] (CH₃CH=CH₂). Propylene is a colorless gas with a faint petroleum-like odor. It was discovered in 1850 by John Williams Reynolds, a student of A. W. von Hofmann, as the only gaseous product of the thermal decomposition of amyl alcohol to react with chlorine and bromine. Global production reached about 130 million metric tons in 2024, and most of it is used to make [[Polypropylene]]. The dominant production route is steam cracking of [[Naphtha]], although [[Propane]] is a common feedstock in North America. Propylene is also made by dehydrogenation of propane. Its derivatives include propylene oxide, acrylonitrile, and cumene, which is used to make [[Phenol]] and [[Acetone]].
+
+=== KEY: Prose_3e2ad7
+HEADWORD: Prose = 산문
+LEVEL: 4
+GLOSSARY:
+  Bacon = 베이컨
+  Baruch Spinoza = 바뤼흐 스피노자
+  Dante = 단테
+  Europe = 유럽
+  Francis = 프랑수아
+  Francis Bacon = 프랜시스 베이컨
+  French = 프랑스어
+  Latin = 라틴어
+  Old French = 고대 프랑스어
+  Prose = 산문
+  Spinoza = 스피노자
+  T. S. Eliot = T. S. 엘리엇
+  Vita Nuova = 『신생』
+  prosa oratio = 프로사 오라티오
+ENTRY:
+Ordinary form of language, following conversational speech without regular rhythm. Prose differs from poetry, which is organized by rhythmic meter, rhyme or other artistic structure. Prose can range from informal everyday speech to formal academic writing, and in writing it follows typical conventions and formatting. The word entered English in the 14th century, from Old French and the Latin *prosa oratio*, meaning straightforward speech. Latin was the dominant medium for learned prose in Europe until recent times, and works by [[Francis Bacon]] and [[Baruch Spinoza]] were first published in Latin. Dante created vernacular prose in the non-metrical parts of *Vita Nuova*, written about 1293. Academic writing, journalism and fiction are usually written in prose. The critic [[T. S. Eliot]] observed that the distinction between verse and prose is clear, but that between poetry and prose is obscure.
