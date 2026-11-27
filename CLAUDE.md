@@ -73,14 +73,12 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 - Pilot cost was about 9,600 subagent tokens per entry (most of it fixed overhead per group).
 - `style_guide.md` gained the Unicode sub/superscript rule (H₂O) **after** the pilot ran, so pilot
   entries still have flat "H2O".
-- Waves 1–54 condensed (all Sonnet groups `sonnet_000`–`099` are done, so Level 1–3 is complete; `haiku_000`–`439`; 11,999 of 15,000 entries). All pass
-  `validate.py`. Every `fact_check.py` flag so far has been reviewed (see Notes). Next wave: `haiku_440`+ only (10 Haiku groups per wave, no Sonnet groups left).
-  Cost is ~13k subagent tokens per Sonnet entry and ~8k per Haiku entry, about 120M for the book.
-  Old pilot output is in `data/condensed_pilot_v1/`. Pilot titles are re-condensed in their normal groups.
-  Per wave: launch 3 Sonnet + 7 Haiku agents in parallel. When they finish, run both checks. Hand flags to ONE
-  Sonnet fix agent with explicit headwords, telling it to report rather than mangle checker false positives.
-  Then launch the next wave. Agents sometimes shorten keys (`ABC_1141e2`). `validate.py` now reports
-  UNKNOWN KEY; fix those mechanically.
+- **Condensing is complete: all 15,000 entries** (`sonnet_000`–`099`, `haiku_000`–`560`) are in `data/condensed/` and pass
+  `validate.py` (its 39 remaining "not written" items are extra condense inputs that are not in `data/selection.json`).
+  `haiku_440`–`560` were run without waves on 2026-11-27: up to 20 Haiku agents at once (the session limit), each new one
+  launched as another finished, with one shared prompt in `data/groups/PROMPT.md` (gitignored; same text as the wave prompt).
+  Checks ran once at the end. Cost was ~8k subagent tokens per Haiku entry and ~13k per Sonnet entry.
+  Old pilot output is in `data/condensed_pilot_v1/`. Pilot titles were re-condensed in their normal groups.
 - `data/selection.json` done: 10,012 Level 1–4 + 4,988 Level 5 = 15,000.
 - Sources fetched for all 15,000 (248 have no Grokipedia page). Condenser inputs built.
   Groups: 100 Sonnet (`sonnet_000`–`099`) and 561 Haiku (`haiku_000`–`560`), 15,000 entries. Waves run
@@ -89,8 +87,7 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 
 ## Next steps
 
-1. Condense in waves across sessions. After each wave run `validate.py`, re-run failures with Sonnet,
-   and run `fact_check.py`.
+1. (Done) Condensing. Before the build, do the British vs American spelling consistency pass for waves 1–34.
 2. Apply the image cap (~2,000) in `show_image`, then run `fetch_images.py`. The current policy alone
    would pick ~5,000. `data/images/` is gitignored, so a fresh clone must rerun it (pilot images too).
 3. In `build_book.py`, number homographs (same headword, e.g. Bar¹/Bar²) in a stable order such as by level
