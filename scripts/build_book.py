@@ -12,6 +12,7 @@ Usage: python build_book.py [--volumes 3] [--light] [--only 2]
 """
 import json
 import re
+import subprocess
 import sys
 import unicodedata
 from pathlib import Path
@@ -196,18 +197,29 @@ def split_volumes(entries, n):
     return [entries[a:b] for a, b in zip(bounds, bounds[1:])]
 
 
-def compile_volume(name, data, out_pdf):
+def compile_volume(name, data, out_pdf, pdf=True):
+    """Compile to PDF (pdf=True) and/or return the (headword, page) list for the index."""
     (BOOK / f"{name}.json").write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
     inputs = {"data": f"{name}.json"}
-    typst.compile(str(BOOK / "main.typ"), output=str(out_pdf), root=str(ROOT), sys_inputs=inputs)
+    if pdf:
+        typst.compile(str(BOOK / "main.typ"), output=str(out_pdf), root=str(ROOT), sys_inputs=inputs)
+        if data["index"]:
+            return None
     found = json.loads(typst.query(str(BOOK / "main.typ"), "<idx>", field="value", root=str(ROOT), sys_inputs=inputs))
-    print("wrote", out_pdf.relative_to(ROOT), flush=True)
+    (BOOK / f"{name}_pages.json").write_text(json.dumps(found, ensure_ascii=False), encoding="utf-8")
+    if pdf:
+        print("wrote", out_pdf.relative_to(ROOT), flush=True)
     return found
 
 
 def main():
     n_vol = int(arg("--volumes", 3))
     only = int(arg("--only", 0))
+    if n_vol > 1 and not only:
+        # One process per volume: Typst keeps memory between calls, and three volumes in one process ran out of RAM.
+        for i in range(1, n_vol + 1):
+            subprocess.run([sys.executable, __file__, *sys.argv[1:], "--only", str(i)], check=True)
+        return
     IMG_OUT.mkdir(parents=True, exist_ok=True)
     entries = collect()
     entries.sort(key=lambda x: (x["sort"], x["head"], x["level"], x["key"]))
@@ -233,17 +245,19 @@ def main():
         last_vol = i == n_vol
         if only and i != only and not (only == n_vol and not last_vol):
             continue
-        if only and i != only:  # rebuilding the last volume: earlier volumes are only queried for page numbers
-            (BOOK / f"{name}.json").write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
-            found = json.loads(typst.query(str(BOOK / "main.typ"), "<idx>", field="value", root=str(ROOT),
-                                           sys_inputs={"data": f"{name}.json"}))
-        else:
-            found = compile_volume(name, data, BOOK / f"{name}.pdf")
+        if only and i != only:  # building the last volume: earlier volumes' page numbers come from their build
+            saved = BOOK / f"{name}_pages.json"
+            if not saved.exists():
+                sys.exit(f"{saved.name} missing: build volume {i} first")
+            found = json.loads(saved.read_text(encoding="utf-8"))
+        else:  # the last volume is only queried here; it is compiled once below, with the index
+            found = compile_volume(name, data, BOOK / f"{name}.pdf", pdf=not last_vol)
         pages += [(f["h"], f["n"], f["s"], ROMAN[i] if n_vol > 1 else "", f["p"]) for f in found]
         if last_vol:
             data["index"] = [{"h": h, "n": hn, "v": v, "p": p}
                              for h, hn, srt, v, p in sorted(pages, key=lambda x: (x[2], x[0], x[1]))]
             compile_volume(name, data, BOOK / f"{name}.pdf")
+            print("wrote", f"book/{name}.pdf (with index)", flush=True)
 
 
 if __name__ == "__main__":

@@ -10,3 +10,4 @@ data/pageviews/
 data/redirects.json
 book/vol*.json
 book/book*.json
+book/*_pages.json
