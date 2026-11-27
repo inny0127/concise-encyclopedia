@@ -87,12 +87,22 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
 
 ## Next steps
 
-1. (Done) Condensing. Before the build, do the British vs American spelling consistency pass for waves 1–34.
-2. Apply the image cap (~2,000) in `show_image`, then run `fetch_images.py`. The current policy alone
-   would pick ~5,000. `data/images/` is gitignored, so a fresh clone must rerun it (pilot images too).
-3. In `build_book.py`, number homographs (same headword, e.g. Bar¹/Bar²) in a stable order such as by level
-   and then key, per `style_guide.md`.
-4. Split into volumes (A–F / G–P / Q–Z or by page count), add an index, and build print PDFs.
+All four original steps are done (2026-11-27):
+1. Spelling: `scripts/americanize.py` changed 684 lowercase British forms to American (center, theater, gray, aluminum,
+   -ization ...) plus 15 headwords (Theater, Jewelry, Gray, Check, 100 meters ...). Capitalized proper names keep their
+   spelling (Labour Party, Globe Theatre, Sydney Harbour Bridge, Tyre in Lebanon, *Rumours*, *Neighbours*). Rerun it after
+   any new condensing; it is idempotent.
+2. Images: `show_image` now takes all eligible Level 1-3 images, then Level 4 people/visual categories by pageviews
+   (`data/pageviews_core/`, from `pageviews_core.py`), up to `IMAGE_CAP = 2000`. 1,969 images are in the book; about 30
+   were never fetched (Wikimedia rate limits). Rerun `fetch_images.py` to retry them.
+3. Homographs are numbered by level, then key (Alcohol¹, Alcohol²): 263 entries.
+4. `build_book.py` builds 3 volumes split at letter boundaries by text+image weight (I A–F 720 pp., II G–O 739 pp.,
+   III P–Z 747 pp.), each in its own process (one process ran out of memory at 13.8 GB). Volume III ends with an index of
+   all headwords with volume and page, taken from a Typst query of `<idx>` metadata. `--light` writes `vol*_light.pdf`
+   with small images. The PDFs (~120 MB each) are gitignored.
+
+Possible follow-ups: proofread a sample of pages; decide whether the headword index is worth its ~45 pages;
+cover/title design; rotate the Wikimedia OAuth token (no longer needed).
 
 ## Notes
 
