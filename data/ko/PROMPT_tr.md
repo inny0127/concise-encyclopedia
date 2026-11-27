@@ -11,4 +11,4 @@ are fine (6 million = 600만). Keep every [[Target|text]] link: the English Targ
 natural Korean translation of the English display text (bare [[Target]] becomes [[Target|Korean]]). Remove *italics*
 marks; put work titles in 『 』 (books, long works) or 「 」 (short works, films, paintings, songs) unless the glossary
 form already has them. Plain 사전체 (~이다, ~했다). The opening stays a definitional fragment ending in a noun.
-Write the file once, when complete. Do not call session tools or touch other files. Reply only with the count written.
+Any scratch or helper files must have GROUP in their name (e.g. scratchpad/GROUP_work.json); never reuse generic names like p1.json, other agents run at the same time. Write the file once, when complete. Do not call session tools or touch other files. Reply only with the count written.

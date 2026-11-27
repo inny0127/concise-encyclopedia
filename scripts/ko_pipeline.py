@@ -71,6 +71,22 @@ def split(group, parts):
     print(f"{group}: {len(blocks)} entries -> {parts} parts")
 
 
+def verify():
+    """Each glossary file must have heads for exactly its own group's keys, and its terms must come from its own text
+    (agents share a scratchpad, so a collision would show up here)."""
+    bad = 0
+    for f in sorted((KO / "gloss").glob("g_*.json")):
+        txt = (KO / "gloss_in" / f"{f.stem}.txt").read_text(encoding="utf-8")
+        want = set(re.findall(r"^=== KEY: (\S+)", txt, re.M))
+        g = json.loads(f.read_text(encoding="utf-8"))
+        terms = list(g.get("terms", {}))
+        foreign = sum(1 for t in terms if t not in txt)
+        if set(g.get("heads", {})) != want or foreign > 0.1 * len(terms):
+            bad += 1
+            print(f"{f.stem}: heads {len(g.get('heads', {}))}/{len(want)}, {foreign}/{len(terms)} terms not in its text")
+    print(f"verify: {bad} bad files")
+
+
 def load_gloss():
     heads, local = {}, {}  # local: key -> {term: rec} from that entry's glossary group
     votes = defaultdict(Counter)
@@ -192,5 +208,5 @@ if __name__ == "__main__":
     if sys.argv[1] == "split":
         split(sys.argv[2], int(sys.argv[3]) if len(sys.argv) > 3 else 4)
     else:
-        {"gloss-prep": gloss_prep, "merge": merge, "tr-prep": tr_prep, "status": status,
+        {"gloss-prep": gloss_prep, "merge": merge, "verify": verify, "tr-prep": tr_prep, "status": status,
          "assemble": assemble}[sys.argv[1]]()

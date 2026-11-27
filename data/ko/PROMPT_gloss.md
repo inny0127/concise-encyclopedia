@@ -17,5 +17,5 @@ You build part of the Korean glossary for a Korean edition of an English encyclo
    - Choose the sense that fits the entry (Monopoly in economics = 독점, the board game = 모노폴리).
    - Use standard forms: 국립국어원 외래어 표기법, 표준국어대사전, 두산백과, established Korean scholarly terms
      (Milky Way = 우리은하 for the galaxy, 은하수 for the band of light in the sky; Suprematism = 절대주의).
-Write the JSON with one key per line. Write the file once, when complete. Do not call session tools
+Write the JSON with one key per line. Any scratch or helper files must have GROUP in their name (e.g. scratchpad/GROUP_work.json); never reuse generic names like p1.json, other agents run at the same time. Write the file once, when complete. Do not call session tools
 (create_session, send_message, etc.) and do not touch other files. Reply only with the number of heads and terms.
