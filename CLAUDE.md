@@ -150,5 +150,9 @@ Groups: Haiku 25 entries per group, Sonnet 10 per group, about 10 agents in para
   like 1904–08 into a new date" (wave 47 had real misses: North Pole 13,000 ft vs source 13,100 feet, Olmecs "650 BC" not in source; fixed by
   hand). Mwene we Mutapa was added to `NAMES_WITH_PRONOUNS`. Reviewed flags, all fine: Namibia 1908 ("1904–08"), Pagan Kingdom 846/1297
   (input `description` field), Pandanus 6.5 ("6+1⁄2 ft"), Odrysian 479 ("480–79"), Nuclide 10 (flattened 10¹⁷), Numerical digit 100 (4/100).
+- Final run (haiku_440–560): 12 new `fact_check.py` flags. Fixed: Toyota (Corolla "1966" not in source), University of Chicago
+  ("more than 100" → 102 Nobel laureates), Volkswagen (Beetle "2003" end not in source). Fine: Salsa ("late 80s"), Sexual and
+  reproductive health ("4·3"), System ("mid-50s"), Tarantula ("a thousand"), Incoherence of the Philosophers (description 1095),
+  Tokyo Story/Weimar Republic/Faulkner ("the following year"), West Siberian Plain ("70s and 80s").
 - Subagents occasionally make stray calls to session tools (create_session, send_message, interrupt_session);
   they are denied and harmless.
