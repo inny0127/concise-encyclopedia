@@ -104,7 +104,7 @@ All four original steps are done (2026-11-27):
 Possible follow-ups: proofread a sample of pages; decide whether the headword index is worth its ~45 pages;
 cover/title design; rotate the Wikimedia OAuth token (no longer needed).
 
-## Korean edition (pilot, 2026-11-27)
+## Korean edition (pilot 2026-11-27, full run done 2026-11-28)
 
 - `style_guide_ko.md` (rules), `data/ko/glossary.json` (845 pilot terms from one Sonnet agent), `data/ko/PROMPT_ko.md`
   (translator prompt), `scripts/check_ko.py` (numbers incl. 만/억 and ranges, links, italics, polite endings),
@@ -117,12 +117,25 @@ cover/title design; rotate the Wikimedia OAuth token (no longer needed).
   the text (e.g. "palace examination" = 전시, not 궁정 시험) and senses (Monopoly economics vs game, Chalk stick vs rock);
   link display text should translate the English display text, the glossary fixes only name spellings.
 
-- **Full run (started 2026-11-27):** `scripts/ko_pipeline.py` (gloss-prep, merge, tr-prep, status, assemble).
-  150 Opus glossary groups of 100 entries (`data/ko/gloss_in` -> `data/ko/gloss`, prompt `data/ko/PROMPT_gloss.md`), merge with
-  conflict resolution by one Opus agent (`gloss_conflicts.txt` -> `gloss_resolved.json`), then ~375 Sonnet translation groups
-  of 40 (`data/ko/tr_in` -> `data/ko/tr_out`, prompt `data/ko/PROMPT_tr.md`; each group carries only its own glossary lines;
-  headword fields are filled by `assemble`, not by translators). An hourly scheduled task ("Encyclopedia: Korean edition
-  auto-resume") resumes after usage limits and disables itself when the book is built.
+- **Full run: done (2026-11-28).** All 15,000 entries are in `data/ko/translated/` and pass `scripts/check_ko.py`
+  except reviewed false alarms (numbers spelled out, ranges like 1950~60년대, quotations with ~습니다, "A*" asterisks).
+  Pipeline (`scripts/ko_pipeline.py`; `status` names the next step):
+  1. `gloss-prep`: 150 groups of 100 -> Opus agents (`data/ko/PROMPT_gloss.md`) -> `data/ko/gloss/`. Groups blocked by the
+     content filter were split 10 ways (`split g_NNN 10`); that always worked. `verify` checks heads/terms per file.
+  2. `merge`: votes per term; spacing-only and strong-majority (>=75%, >=4 votes) conflicts take the majority, title-bracket
+     variants become "context" (each entry keeps its own group's form); the rest (2,856) went to 6 Opus agents
+     (`data/ko/PROMPT_resolve.md`, `resolve_in` -> `resolve`). `gloss_resolved.json` holds manual overrides (포름산 etc.).
+  3. `tr-prep`: 375 groups of 40 with per-entry glossary lines. Global terms match only as link targets, own-group terms,
+     multiword terms or names of 4+ letters used mid-sentence (single common words like "It", "value" were noise).
+     Sonnet agents (`data/ko/PROMPT_tr.md`), up to 20 at once; ~115k subagent tokens per group (~2.9k per entry).
+  4. `scripts/ko_fix_links.py` (unwrap links the English lacks, restore dropped links from the glossary form), strip
+     italics on Korean text, `assemble`, `check_ko.py`; remaining flags went to 3 Sonnet fix agents (`PROMPT_fix.md`,
+     `fix_in/`, split by tr_out file so no two agents edit one file). 70 real fixes, ~150 false alarms.
+  5. `build_book_ko.py --volumes 3 [--light]`: 제1권 ㄱ–ㅁ, 제2권 ㅂ–ㅇ, 제3권 ㅈ–ㅎ (about 650/820/700 pages); index
+     (찾아보기) at the end of vol. 3, photo credits (사진 출처) in each volume. Light build takes ~2 minutes.
+  - Translators found English-source bugs fixed during the run: Armor ("British spelling is armour", americanize now skips
+    it) and four sonnet_023/haiku_043 entries with broken link fragments (Dementia, Democracy, Desert, Avant-garde).
+  - Chemical-name convention: organic names 표준국어대사전 (메탄, 포름산), elements as in textbooks (플루오린), compounds spaced.
 
 ## Notes
 
