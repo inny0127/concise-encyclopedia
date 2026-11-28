@@ -13,3 +13,4 @@ book/book*.json
 book/*_pages.json
 fonts/*.otf
 book/ko.json
+book/ko_*.json
