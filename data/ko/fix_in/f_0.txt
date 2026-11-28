@@ -1,0 +1,850 @@
+=== KEY: Is_ought_problem_34ce1c
+FILE: data/ko/tr_out/t_169.json
+FLAGS: numbers missing ['40']
+ENGLISH:
+Philosophical problem articulated by [[David Hume]] concerning whether [[Morality|moral]] statements about what ought to be can be inferred from objective statements about what is. Hume distinguished descriptive from prescriptive statements and argued that the transition between them is not obvious. In *A Treatise of Human Nature* (1739–40), he insisted the step needs explanation. Hume's law, or Hume's guillotine, is the thesis that an ethical conclusion cannot be inferred from purely descriptive factual premises. G. E. Moore's open-question argument reaches a similar view and was aimed at ethical naturalists, who identify moral properties with natural ones. The problem is closely related to the fact–value distinction in [[Epistemology]], although that discussion may also encompass [[Aesthetics|aesthetics]]. Responses include non-cognitivist views such as emotivism, which treat "ought" statements as expressions of attitude, and John Searle's 1964 argument that institutional facts such as promises carry normative force. Consensus on a resolution remains elusive.
+KOREAN:
+[[Morality|도덕]]적 진술, 곧 마땅히 그래야 하는 것에 관한 진술을 있는 그대로에 관한 객관적 진술로부터 추론할 수 있는지를 다루는, [[David Hume|데이비드 흄]]이 제기한 철학적 문제. 흄은 기술적 진술과 규범적 진술을 구분하고, 둘 사이의 이행이 자명하지 않다고 주장했다. 『인간 본성론』(1739~1740년)에서 그는 이 단계에 설명이 필요하다고 강조했다. 흄의 법칙, 곧 흄의 단두대는 순전히 기술적인 사실 전제로부터 윤리적 결론을 추론할 수 없다는 명제이다. G. E. 무어의 열린 질문 논증은 비슷한 견해에 이르며, 도덕적 속성을 자연적 속성과 동일시하는 윤리적 자연주의자를 겨냥한 것이었다. 이 문제는 [[Epistemology|인식론]]의 사실-가치 구분과 밀접하게 관련되지만, 그 논의는 [[Aesthetics|미학]]까지 아우르기도 한다. 이에 대한 응답으로는 “마땅히 ~해야 한다”는 진술을 태도의 표현으로 보는 정서주의 같은 비인지주의 견해와, 약속 같은 제도적 사실이 규범적 힘을 지닌다는 존 설의 1964년 논증이 있다. 해결에 대한 합의는 여전히 이루어지지 않고 있다.
+
+
+=== KEY: Ishmael_f6d292
+FILE: data/ko/tr_out/t_169.json
+FLAGS: links differ, dropped ['Mecca'], added []
+ENGLISH:
+Figure in the Abrahamic religions, the first son of [[Abraham]] and Hagar, the handmaiden of Abraham's wife Sarah. In the [[Book of Genesis]], Sarah, who had been barren, offered Hagar to Abraham, and Ishmael was born when Abraham was 86. After [[Isaac]] was born, Sarah asked that Hagar and Ishmael be sent away, and Abraham agreed only after God promised that Ishmael would become a great nation. According to the Genesis narrative, Ishmael died at the age of 137. In [[Islam]], he is regarded as a prophet and the ancestor of the Ishmaelites and patriarch of Qaydār. Islamic tradition credits him, alongside Abraham, with building the [[Kaaba]] in [[Mecca]].
+KOREAN:
+아브라함계 종교의 인물로, [[Abraham|아브라함]]과 아브라함의 아내 사라의 몸종 하갈 사이에서 태어난 첫아들. [[Book of Genesis|「창세기」]]에서 아이를 낳지 못하던 사라가 하갈을 아브라함에게 바쳤고, 이스마엘은 아브라함이 86세일 때 태어났다. [[Isaac|이삭]]이 태어난 뒤 사라는 하갈과 이스마엘을 내보내 달라고 청했고, 아브라함은 하느님이 이스마엘을 큰 민족이 되게 하겠다고 약속한 뒤에야 동의했다. 「창세기」의 이야기에 따르면 이스마엘은 137세에 죽었다. [[Islam|이슬람교]]에서는 예언자이자 이스마엘 사람의 조상이며 게달의 족장으로 여긴다. 이슬람 전통은 그가 아브라함과 함께 [[Kaaba|카바]]를 세웠다고 전한다.
+
+
+=== KEY: Isaac_Newton_d28b9a
+FILE: data/ko/tr_out/t_169.json
+FLAGS: numbers missing ['27']
+ENGLISH:
+English polymath: mathematician, physicist, astronomer, alchemist, theologian, historian, and inventor, a key figure in the Scientific Revolution.
+
+His book [[Philosophiæ Naturalis Principia Mathematica|*Principia*]] (1687) formulated the laws of motion and universal gravitation and established [[Classical mechanics|classical mechanics]], the dominant scientific viewpoint for centuries until it was superseded by the theory of relativity. With it he derived Kepler's laws of planetary motion and accounted for tides, the trajectories of comets, and the precession of the equinoxes. His work on [[Optics|optics]], collected in *Opticks* (1704), rested on the observation that a prism separates white light into the colors of the visible spectrum; he also built the first reflecting telescope. He shares credit with the German mathematician [[Gottfried Wilhelm Leibniz]] for formulating infinitesimal [[Calculus|calculus]], though he developed it years earlier. His priority disputes, notably with Robert Hooke over gravitation and with Leibniz over calculus, were bitter.
+
+Newton was a fellow of Trinity College and the second Lucasian Professor of Mathematics at the [[University of Cambridge]], appointed at the age of 26. A devout but heterodox Christian, he privately rejected the doctrine of the Trinity and refused to take holy orders in the Church of England. He devoted much time to [[Alchemy|alchemy]] and biblical chronology, but most of that work remained unpublished until long after his death.
+
+He served as Member of Parliament for the University of Cambridge in 1689–1690 and 1701–1702 and was knighted by Queen Anne in 1705. He was Warden (1696–1699) and Master (1699–1727) of the Royal Mint, where he increased the accuracy and security of British coinage, and president of the Royal Society (1703–27). He was the first scientist buried in [[Westminster Abbey]].
+KOREAN:
+잉글랜드의 박식가로, 수학자, 물리학자, 천문학자, 연금술사, 신학자, 역사가, 발명가였으며 과학 혁명의 핵심 인물이다.
+
+저서 [[Philosophiæ Naturalis Principia Mathematica|『프린키피아』]](1687년)에서 운동 법칙과 만유인력을 정식화하고 [[Classical mechanics|고전 역학]]을 확립했는데, 고전 역학은 상대성 이론에 의해 대체되기 전까지 수 세기 동안 지배적인 과학적 관점이었다. 이로써 케플러의 행성 운동 법칙을 유도했으며 조수, 혜성의 궤도, 세차 운동을 설명했다. 『광학』(1704년)에 모은 [[Optics|광학]] 연구는 프리즘이 백색광을 가시 스펙트럼의 색으로 분리한다는 관찰에 기반했으며, 최초의 반사 망원경도 제작했다. 독일 수학자 [[Gottfried Wilhelm Leibniz|고트프리트 빌헬름 라이프니츠]]와 함께 무한소 [[Calculus|미적분학]]을 정립한 공을 나누어 가지지만, 그는 이를 몇 년 앞서 발전시켰다. 특히 중력을 둘러싼 로버트 훅과의 우선권 분쟁과 미적분학을 둘러싼 라이프니츠와의 분쟁은 격렬했다.
+
+뉴턴은 트리니티 칼리지의 펠로였고 [[University of Cambridge|케임브리지 대학교]]의 제2대 루커스 수학 석좌 교수로, 26세에 임용되었다. 독실하지만 이단적인 그리스도교인이었던 그는 삼위일체 교리를 사적으로 거부했고 잉글랜드 국교회의 성직을 받기를 거부했다. [[Alchemy|연금술]]과 성서 연대기에 많은 시간을 쏟았으나, 그 연구의 대부분은 그가 죽고 한참 뒤까지 출판되지 않았다.
+
+1689~1690년과 1701~1702년에 케임브리지 대학교 선출 하원 의원을 지냈으며 1705년 앤 여왕에게서 기사 작위를 받았다. 왕립 조폐국의 감사관(1696~1699년)과 조폐국장(1699~1727년)으로서 영국 주화의 정확성과 안전성을 높였고, 왕립 학회 회장(1703~1727년)을 지냈다. 과학자로는 처음으로 [[Westminster Abbey|웨스트민스터 사원]]에 묻혔다.
+
+
+=== KEY: Iskandar_Muda_edca2c
+FILE: data/ko/tr_out/t_169.json
+FLAGS: numbers missing ['36']
+ENGLISH:
+Twelfth sultan of [[Aceh]] (r. 1607–36), under whom the sultanate reached its greatest territorial extent and became the strongest power and wealthiest state in the western [[Indonesia|Indonesian]] archipelago and the [[Strait of Malacca]]. The name means "young Alexander," and his conquests were often compared to those of [[Alexander the Great]]. Aceh became an international center of [[Islam|Islamic]] learning and trade. His navy of heavy [[Galley|galleys]] took Deli in 1612, Aru and Johor in 1613, and Pahang in 1617, and his strength threatened the Portuguese holding of Malacca. In 1629 he sent several hundred ships against Malacca; according to Portuguese sources, all of them were destroyed along with 19,000 men. His rule was also marked by the execution of family members and officials suspected of disloyalty. His death in 1636 ended the founding House of Meukuta Alam, and the sultanate entered a period of decline.
+KOREAN:
+[[Aceh|아체]]의 제12대 술탄(재위 1607~1636년)으로, 그의 치하에서 술탄국은 영토가 최대에 이르렀고 [[Indonesia|인도네시아]] 서부 제도와 [[Strait of Malacca|믈라카 해협]]에서 가장 강하고 부유한 국가가 되었다. 이름은 “젊은 알렉산드로스”를 뜻하며, 그의 정복은 흔히 [[Alexander the Great|알렉산드로스 대왕]]의 정복에 비견되었다. 아체는 [[Islam|이슬람]] 학문과 교역의 국제적 중심지가 되었다. 중형 [[Galley|갤리선]]으로 이루어진 그의 해군은 1612년 델리, 1613년 아루와 조호르, 1617년 파항을 점령했고, 그의 세력은 포르투갈이 차지한 믈라카를 위협했다. 1629년 그는 믈라카를 향해 수백 척의 배를 보냈는데, 포르투갈 측 자료에 따르면 그 전부가 1만 9,000명과 함께 파괴되었다. 그의 통치는 불충을 의심받은 가족과 관리를 처형한 것으로도 특징지어진다. 1636년 그의 죽음으로 창건 왕가인 므쿠타 알람 왕가가 끝났고, 술탄국은 쇠퇴기에 접어들었다.
+
+
+=== KEY: Isaiah_76c269
+FILE: data/ko/tr_out/t_169.json
+FLAGS: numbers missing ['2']
+ENGLISH:
+Israelite prophet of the 8th century BC, after whom the Book of Isaiah in the [[Hebrew Bible]] is named. The name means "[[Yahweh]] is salvation." He prophesied in Judah during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah. When Hezekiah rebelled against Assyria and allied with the king of [[Egypt]], Sennacherib invaded Judah, and a detachment threatened [[Jerusalem]]; Isaiah urged Hezekiah to resist. According to 2 Kings 19, an angel of God slew 185,000 Assyrian men in one night. The traditional view holds that one man wrote all 66 chapters of the book, possibly in two periods between 740 BC and c. 686 BC. A widely held alternative attributes parts of chapters 1–39 to the prophet and dates the rest to the exile in Babylon in the 6th century BC, when the later chapters may be the work of a school of prophets.
+KOREAN:
+기원전 8세기의 이스라엘 예언자로, [[Hebrew Bible|히브리어 성경]]의 「이사야서」가 그의 이름을 따서 불린다. 이름은 “[[Yahweh|야훼]]는 구원이시다”라는 뜻이다. 웃시야, 요담, 아하스, 히스기야의 치세에 유다에서 예언했다. 히스기야가 아시리아에 반기를 들고 [[Egypt|이집트]] 왕과 동맹을 맺자 산헤립이 유다를 침공했고, 분견대 하나가 [[Jerusalem|예루살렘]]을 위협했다. 이사야는 히스기야에게 맞서라고 촉구했다. 「열왕기하」 19장에 따르면 하느님의 천사가 하룻밤에 아시리아 사람 18만 5,000명을 죽였다. 전통적 견해는 한 사람이 66장 전체를 썼다고 보며, 기원전 740년에서 기원전 686년경 사이의 두 시기에 걸쳐 썼을 가능성도 있다. 널리 받아들여지는 다른 견해는 1~39장의 일부를 예언자의 것으로 보고 나머지는 기원전 6세기 바빌론 유수 시기로 추정하며, 이때 뒤쪽 장들은 예언자 학파의 작품일 수 있다고 본다.
+
+
+=== KEY: Deep_South_995c37
+FILE: data/ko/tr_out/t_087.json
+FLAGS: numbers missing ['1960']
+ENGLISH:
+Cultural and geographic subregion of the Southern United States. The term generally denotes Louisiana, Mississippi, Alabama, Georgia and South Carolina, the states most economically dependent on plantation agriculture and slavery. During Reconstruction, emancipated people asserted their rights, which incited the growth of the Ku Klux Klan. After the federal government withdrew following the Compromise of 1877, Jim Crow laws suppressed African Americans' civil rights for almost a century, until the civil rights movement of the 1950s and 1960s. The region is part of the [[Bible Belt]] and a stronghold of the [[Republican Party (United States)|Republican Party]].
+KOREAN:
+미국 남부의 문화적·지리적 하위 지역. 이 용어는 보통 플랜테이션 농업과 노예제에 경제적으로 가장 크게 의존했던 주인 루이지애나, 미시시피, 앨라배마, 조지아, 사우스캐롤라이나를 가리킨다. 재건 시대에 해방된 사람들이 권리를 주장하자 쿠 클럭스 클랜이 성장했다. 1877년 타협 뒤 연방 정부가 물러난 후 짐 크로 법이 거의 한 세기 동안 아프리카계 미국인의 민권을 억눌렀으며, 1950~60년대 민권 운동에 이르러서야 바뀌었다. 이 지역은 [[Bible Belt|바이블 벨트]]의 일부이며 [[Republican Party (United States)|공화당]]의 아성이다.
+
+
+=== KEY: Deep_sea_fish_288cab
+FILE: data/ko/tr_out/t_087.json
+FLAGS: numbers missing ['130']
+ENGLISH:
+Fish inhabiting the dark ocean below the sunlit surface waters. The lanternfish is by far the most common, and others include the flashlight fish, cookiecutter shark, bristlemouths, [[Anglerfish|anglerfish]] and viperfish. The deep sea makes up about 90% of ocean volume and is in darkness, with temperatures that rarely exceed 3 °C and pressures between 20 and 1,000 atm. Adaptations include bioluminescent organs for predation, counter-illumination [[Camouflage|camouflage]], enlarged hinged jaws and stomachs that allow prolonged fasting. The earliest known records of deep-sea fish are trace fossils of feeding and swimming behavior from the 130-million-year-old Early Cretaceous Palombini Shale of [[Italy]].
+KOREAN:
+햇빛이 드는 표층수 아래 어두운 바다에 사는 물고기. 샛비늘치가 단연 가장 흔하며, 그 밖에 플래시라이트피시, 검목상어, 앨퉁이, [[Anglerfish|아귀]], 바이퍼피시 등이 있다. 심해는 바다 부피의 약 90%를 차지하며 어둠에 잠겨 있고, 온도는 3 °C를 넘는 일이 드물며 압력은 20기압에서 1,000기압 사이이다. 적응으로는 포식을 위한 생물 발광 기관, 역조명 [[Camouflage|위장]], 경첩처럼 움직이는 커다란 턱, 오래 굶을 수 있는 위가 있다. 심해어에 관한 가장 오래된 기록은 [[Italy|이탈리아]]의 1억 3천만 년 된 전기 백악기 팔롬비니 셰일에서 나온, 먹이 활동과 유영 행동의 생흔 화석이다.
+
+
+=== KEY: Dementia_488369
+FILE: data/ko/tr_out/t_087.json
+FLAGS: source fixed: Dementia_488369 (t_087): English source fixed after translation; add the sentence 'Modifiable risk factors include smoking, obesity, hypertension, and diabetes.'
+ENGLISH:
+Syndrome of general decline in cognitive processes that impairs the ability to perform everyday activities, often associated with neurodegenerative diseases. It typically involves problems with memory, thinking, behavior, and motor control. Common symptoms also include emotional problems, difficulties with language, and decreased motivation. Dementia is incurable and progressive, ranging from mild to major severity, and is distinct from age-related decline in cognition and memory.
+
+[[Alzheimer's disease]] is the most common cause, contributing to an estimated 60–70% of cases, followed by vascular dementia from impaired blood flow to the brain. Dementia can also be caused by brain injuries and [[Stroke|stroke]]. Subtypes are named for the underlying disorder, including [[Parkinson's disease]] dementia, [[Huntington's disease]] dementia, HIV dementia, frontotemporal dementia, dementia with Lewy bodies, and [[Prion|prion]] diseases.
+
+Symptoms fall into cognitive, neuropsychiatric, and motor groups. Cognitive symptoms typically involve memory plus another region such as language, attention, problem solving, or perception. Neuropsychiatric symptoms affect more than 90% of cases at different stages and include agitation, disinhibition, depression, [[Hallucination|hallucinations]], delusions, apathy, and personality change.
+
+Diagnosis is usually based on the history of the illness and cognitive testing with imaging. [[Blood test|Blood tests]] rule out reversible causes such as [[Hypothyroidism|hypothyroidism]], and fluid biomarkers and PET scans can identify Alzheimer's disease. Aging is the greatest risk factor, but dementia is not a normal part of aging. Modifiable risk factors include smoking, obesity, hypertension, and diabetes.
+
+In 2021 approximately 57 million people worldwide were affected, and 10 million new cases are reported every year as of 2025. There is no known cure. Acetylcholinesterase inhibitors such as donepezil are used in some subtypes and may help in mild to moderate stages, though the overall benefit may be minor.
+KOREAN:
+일상 활동을 수행하는 능력을 해치는 전반적인 인지 과정 저하의 증후군으로, 흔히 신경 퇴행성 질환과 관련된다. 보통 기억, 사고, 행동, 운동 조절의 문제를 수반한다. 정서 문제, 언어 곤란, 의욕 감퇴도 흔한 증상이다. 치매는 불치이고 진행성이며 경증에서 중증까지 다양하고, 나이에 따른 인지와 기억의 저하와는 구별된다.
+
+[[Alzheimer's disease|알츠하이머병]]이 가장 흔한 원인으로 추정 60~70%의 사례에 기여하며, 그다음은 뇌의 혈류 장애로 인한 혈관성 치매이다. 치매는 뇌 손상과 [[Stroke|뇌졸중]]으로도 생길 수 있다. 하위 유형은 바탕이 되는 질환의 이름을 따서 부르며, [[Parkinson's disease|파킨슨병]] 치매, [[Huntington's disease|헌팅턴병]] 치매, HIV 치매, 전두측두엽 치매, 루이소체 치매, [[Prion|프라이온]] 질환 등이 있다.
+
+증상은 인지, 신경 정신, 운동 증상의 세 무리로 나뉜다. 인지 증상은 보통 기억에 더해 언어, 주의, 문제 해결, 지각 같은 다른 영역이 관련된다. 신경 정신 증상은 사례의 90% 넘게에서 여러 단계에 걸쳐 나타나며 초조, 탈억제, 우울, [[Hallucination|환각]], 망상, 무감동, 성격 변화가 포함된다.
+
+진단은 보통 병력과 영상 검사를 곁들인 인지 검사를 바탕으로 한다. [[Blood test|혈액 검사]]로 [[Hypothyroidism|갑상샘 기능 저하증]] 같은 되돌릴 수 있는 원인을 배제하며, 체액 생체 지표와 PET 검사로 알츠하이머병을 확인할 수 있다. 나이 듦이 가장 큰 위험 요인이지만 치매는 노화의 정상적인 일부가 아니다.
+
+2021년에 전 세계에서 약 5,700만 명이 영향을 받았으며, 2025년 현재 해마다 1,000만 건의 새 사례가 보고된다. 알려진 치료법은 없다. 도네페질 같은 아세틸콜린에스테라아제 억제제는 일부 하위 유형에 쓰이며 경증에서 중등도 단계에서 도움이 될 수 있으나, 전반적인 이점은 미미할 수 있다.
+
+
+=== KEY: Fa_ade_b82ca6
+FILE: data/ko/tr_out/t_112.json
+FLAGS: links differ, dropped ['Oxford English Dictionary'], added []
+ENGLISH:
+Front or exterior of a [[Building|building]], often its most important aspect in [[Architecture|architectural]] design. The word, a loanword from French meaning "frontage" or "face", has its earliest recorded usage in English in 1656, according to the [[Oxford English Dictionary]]. Façades affect energy efficiency, and historic façades are often restricted by local [[Zoning|zoning]] regulations. High-rise façades are commonly made of aluminum or [[Stainless steel|stainless steel]], and [[Titanium|titanium]] has been used in recent years despite its cost. Outside architecture, "façade" describes a deceptive outward appearance.
+KOREAN:
+[[Building|건물]]의 전면 또는 외관으로, 흔히 [[Architecture|건축]] 설계에서 가장 중요한 측면이다. 프랑스어에서 들어온 이 말은 “정면” 또는 “얼굴”을 뜻하며, 『옥스퍼드 영어 사전』에 따르면 영어에서 가장 이른 사용 기록은 1656년이다. 파사드는 에너지 효율에 영향을 미치며, 역사적 파사드는 흔히 지방의 [[Zoning|용도 지역제]] 규정에 따라 제한을 받는다. 고층 건물의 파사드는 대개 알루미늄이나 [[Stainless steel|스테인리스강]]으로 만들며, 비용이 많이 듦에도 최근에는 [[Titanium|티타늄]]도 사용되어 왔다. 건축 밖에서 “파사드”는 기만적인 겉모습을 가리킨다.
+
+
+=== KEY: Fairuz_2a7e70
+FILE: data/ko/tr_out/t_112.json
+FLAGS: numbers missing ['1960']
+ENGLISH:
+Lebanese singer and symbol of modern Lebanon, widely considered one of the most celebrated vocalists in the [[Arab world]]. Born Nouhad Wadie Haddad, she began as a chorus singer at Lebanese national radio in the late 1940s, and her stage name is the Arabic word for [[Turquoise|turquoise]]. Her first major hit, "Itab", appeared in 1952. After her 1957 performance at the Baalbeck International Festival, Lebanese president Camille Chamoun awarded her the Cavalier medal, the highest honor for artistic achievement. Her fame spread through the 1950s and 1960s, bringing performances in [[Damascus]], [[Amman]] and [[Cairo]]. Over six decades she recorded nearly 1,500 songs, released more than 80 [[Album|albums]], performed in 20 musicals and sold over 150 million records.
+KOREAN:
+레바논의 가수이자 현대 레바논의 상징으로, [[Arab world|아랍 세계]]에서 가장 사랑받는 성악가의 한 사람으로 널리 평가된다. 본명은 누하드 와디 하다드이며, 1940년대 말 레바논 국영 라디오의 합창단원으로 시작했고, 예명은 [[Turquoise|터키석]]을 뜻하는 아랍어이다. 첫 대형 히트곡 「이타브」는 1952년에 나왔다. 1957년 바알베크 국제 페스티벌 공연 후 레바논 대통령 카밀 샤문이 예술 분야 최고 영예인 기사 훈장을 수여했다. 그의 명성은 1950~60년대에 퍼져 [[Damascus|다마스쿠스]], [[Amman|암만]], [[Cairo|카이로]]에서 공연하게 되었다. 60년에 걸쳐 약 1,500곡을 녹음하고 [[Album|앨범]] 80장 넘게 발표했으며 뮤지컬 20편에 출연하고 음반 1억 5000만 장 넘게 판매했다.
+
+
+=== KEY: Fall_Out_Boy_ba7790
+FILE: data/ko/tr_out/t_112.json
+FLAGS: links differ, dropped ['Chicago'], added []
+ENGLISH:
+American rock band formed in 2001 in Wilmette, Illinois, a suburb of [[Chicago]]. Its 2005 album *From Under the Cork Tree* went double platinum and produced the hit singles "Sugar, We're Goin Down" and "Dance, Dance". *Infinity on High* (2007), *Save Rock and Roll* (2013), *American Beauty/American Psycho* (2015) and *Mania* (2018) each reached number one on the Billboard 200. The band received a Best New Artist nomination at the 2006 [[Grammy Awards]] and a Best Rock Album nomination for *Mania*.
+KOREAN:
+2001년 일리노이주 시카고 교외 윌멧에서 결성된 미국의 록 밴드. 2005년 앨범 「From Under the Cork Tree」는 더블 플래티넘을 기록했으며 히트 싱글 “Sugar, We're Goin Down”과 “Dance, Dance”를 냈다. 「Infinity on High」(2007), 「Save Rock and Roll」(2013), 「아메리칸 뷰티/아메리칸 사이코」(2015), 「Mania」(2018)는 각각 빌보드 200에서 1위에 올랐다. 이 밴드는 2006년 [[Grammy Awards|그래미상]]에서 최우수 신인상 후보에, 「Mania」로 최우수 록 앨범상 후보에 올랐다.
+
+
+=== KEY: One_Hundred_Years_of_Solitude_6ea57b
+FILE: data/ko/tr_out/t_248.json
+FLAGS: numbers missing ['1970']
+ENGLISH:
+1967 [[Novel|novel]] by Colombian author [[Gabriel García Márquez]]. It traces seven generations of the Buendía family in the fictional town of Macondo, and its magical realist style made it a representative work of the [[Latin America|Latin American]] Boom of the 1960s and 1970s. Often cited as one of the supreme achievements in world literature, it was recognized at the 4th International Conference of the Spanish Language in 2007 as one of the most important works in the [[Spanish language]]. First published in May 1967 by Editorial Sudamericana in [[Buenos Aires]], it has been translated into 46 languages and sold more than 50 million copies. An authorized 16-episode TV series, executive produced by García Márquez's sons, ran on [[Netflix]].
+KOREAN:
+콜롬비아 작가 [[Gabriel García Márquez|가브리엘 가르시아 마르케스]]의 1967년 [[Novel|소설]]. 가상의 마을 마콘도에서 부엔디아 가문 일곱 세대를 따라가며, 마술적 사실주의 문체로 1960~70년대 [[Latin America|라틴아메리카]] 붐을 대표하는 작품이 되었다. 세계 문학의 최고 성취 가운데 하나로 자주 꼽히며, 2007년 제4회 국제 에스파냐어 대회에서 [[Spanish language|에스파냐어]]로 쓰인 가장 중요한 작품 중 하나로 인정받았다. 1967년 5월 [[Buenos Aires|부에노스아이레스]]의 에디토리알 수다메리카나에서 처음 출간되었고, 46개 언어로 번역되어 5,000만 부 넘게 팔렸다. 가르시아 마르케스의 아들들이 총괄 제작한 16부작 공인 TV 시리즈가 [[Netflix|넷플릭스]]에서 방영되었다.
+
+
+=== KEY: Opiliones_3ea84d
+FILE: data/ko/tr_out/t_248.json
+FLAGS: numbers missing ['400']
+ENGLISH:
+Order of [[Arachnid|arachnids]] commonly called harvestmen or daddy longlegs, with over 6,650 species discovered worldwide. Many have exceptionally long legs, and the connection between the cephalothorax and abdomen is broad, so the body appears to be a single oval. Unlike [[Spider|spiders]], harvestmen have no venom glands or silk glands and do not build webs. Representatives of each suborder are found on all continents except [[Antarctica]]. Well-preserved fossils from the 400-million-year-old Rhynie cherts of [[Scotland]] look surprisingly modern, indicating that the basic body shape developed early.
+KOREAN:
+흔히 통거미 또는 장님거미라 불리며 전 세계에서 6,650종 넘게 발견된 [[Arachnid|거미강]]의 한 목. 많은 종이 유난히 다리가 길며, 두흉부와 배가 넓게 이어져 있어 몸이 하나의 타원처럼 보인다. [[Spider|거미]]와 달리 통거미는 독샘과 명주샘이 없고 거미줄을 치지 않는다. 각 아목의 대표종은 [[Antarctica|남극 대륙]]을 제외한 모든 대륙에서 발견된다. [[Scotland|스코틀랜드]]의 4억 년 된 라이니 처트에서 나온 보존 상태가 좋은 화석은 놀랄 만큼 현대적으로 보이며, 이는 기본적인 몸 형태가 일찍 발달했음을 시사한다.
+
+
+=== KEY: One_Flew_Over_the_Cuckoo_s_Nest_film_7aabc3
+FILE: data/ko/tr_out/t_248.json
+FLAGS: links differ, dropped ['Oregon'], added []
+ENGLISH:
+1975 American psychological comedy-drama film directed by Miloš Forman, based on the 1962 novel by [[Ken Kesey]]. [[Jack Nicholson]] plays Randle McMurphy, who feigns mental illness to avoid hard labor and is placed on a ward ruled by Nurse Ratched, played by Louise Fletcher. Filmed at the Oregon State Hospital, an actual [[Psychiatric hospital|psychiatric hospital]] in [[Oregon]], it won all five major [[Academy Awards]], becoming the second of three films to do so, after *It Happened One Night* (1934) and before *The Silence of the Lambs* (1991). In 1993 the [[Library of Congress]] selected it for the National Film Registry.
+KOREAN:
+1962년 [[Ken Kesey|켄 키지]]의 소설을 바탕으로 밀로시 포르만이 감독한 1975년 미국의 심리 코미디 드라마 영화. [[Jack Nicholson|잭 니컬슨]]은 강제 노동을 피하려고 정신병을 가장해 병동에 수용되는 랜들 맥머피를, 루이즈 플레처는 병동을 지배하는 간호사 래치드를 연기한다. 오리건의 실제 [[Psychiatric hospital|정신 병원]]인 오리건 주립 병원에서 촬영되었으며, 「어느 날 밤에 생긴 일」(1934)에 이어, 그리고 「양들의 침묵」(1991)에 앞서 세 편뿐인 주요 [[Academy Awards|아카데미상]] 5개 부문 석권 영화 가운데 두 번째가 되었다. 1993년 [[Library of Congress|미국 의회 도서관]]은 이 영화를 국립 영화 등기부에 선정했다.
+
+
+=== KEY: Sea_of_Japan_db44b9
+FILE: data/ko/tr_out/t_301.json
+FLAGS: links differ, dropped ['Korea'], added []
+ENGLISH:
+Marginal sea between the Japanese archipelago, [[Sakhalin]], the [[Korea|Korean]] Peninsula and the mainland of the Russian Far East. Its waters are almost enclosed from the [[Pacific Ocean]] and, like the [[Mediterranean Sea]], it has almost no [[Tide|tides]]. Dissolved oxygen is elevated, giving high biological productivity and making fishing the dominant economic activity. Japan calls it the Sea of Japan, a name it says has been used internationally since the early 19th century. [[South Korea]] seeks to use East Sea alongside it, and [[North Korea]] prefers East Sea of Korea. In April 2026 the International Hydrographic Organization adopted a standard that replaces sea names with numerical identifiers.
+KOREAN:
+일본 열도, [[Sakhalin|사할린섬]], 한반도, 러시아 극동 본토 사이에 있는 연해. 물이 [[Pacific Ocean|태평양]]에서 거의 차단되어 있어, [[Mediterranean Sea|지중해]]처럼 [[Tide|조석]]이 거의 없다. 용존 산소가 많아 생물 생산성이 높고 어업이 주된 경제 활동이다. 일본은 이를 일본해라고 부르며, 19세기 초부터 국제적으로 쓰여 온 명칭이라고 주장한다. [[South Korea|대한민국]]은 동해를 병기하려 하고, [[North Korea|북한]]은 조선동해를 선호한다. 2026년 4월 국제수로기구는 바다 이름을 숫자 식별자로 대체하는 표준을 채택했다.
+
+
+=== KEY: Season_6c7a44
+FILE: data/ko/tr_out/t_301.json
+FLAGS: links differ, dropped ['Axial tilt'], added []
+ENGLISH:
+Division of the year based on changes in weather, ecology, and hours of daylight in a given region. On Earth, seasons result from the [[Axial tilt|tilt]] of the planet's rotational axis, about 23.4° from its orbital plane, together with the axis's approximately constant direction toward Polaris through the year. From around March 20 to around September 22 the Northern Hemisphere tips toward the Sun, with the maximum on about June 21; the Southern Hemisphere's maximum is around December 21. The two instants when the Sun is directly overhead at the Equator are the [[Equinox|equinoxes]]. The low angle of the Sun in winter spreads radiation over a larger area, and with shorter days this accounts for most seasonal climate variation. Because of seasonal lag, June, July, and August are the warmest months in the [[Northern Hemisphere]].
+
+Distance from the Sun is not the cause: Earth reaches perihelion in January and aphelion in July, and eccentricity produces a 7% variation in sunlight received.
+
+Definitions vary by culture and region. In temperate and sub-polar regions four seasons based on the [[Gregorian calendar]], spring, summer, autumn, and winter, are generally recognized. Ecologists often use a six-season model not tied to fixed dates: prevernal, vernal, estival, serotinal, autumnal, and hibernal. Many tropical regions have two seasons, a rainy or [[Monsoon|monsoon]] season and a [[Dry season|dry season]]. The ancient Egyptians recognized flood, growth, and low-water seasons, based on the annual flooding of the [[Nile]]; in India, six seasons, or *Ritu*, have been recognized from ancient times for agriculture and trade.
+
+Seasons hold special significance for agrarian societies, and their change is often attended by ritual.
+KOREAN:
+한 지역의 날씨, 생태, 낮 시간의 변화에 따른 한 해의 구분. 지구에서 계절은 행성 자전축이 궤도면에 대해 약 23.4° 기울어 있는 데다 자전축이 일 년 내내 북극성을 향하는 방향이 거의 일정하기 때문에 생긴다. 3월 20일경부터 9월 22일경까지 북반구가 태양 쪽으로 기울며 6월 21일경에 최대가 되고, 남반구의 최대는 12월 21일경이다. 태양이 적도 바로 위에 오는 두 순간이 [[Equinox|분점]]이다. 겨울에는 태양의 고도가 낮아 복사가 더 넓은 면적에 퍼지며, 낮이 짧은 것과 맞물려 이것이 계절별 기후 변화의 대부분을 설명한다. 계절 지연 때문에 6월, 7월, 8월이 [[Northern Hemisphere|북반구]]에서 가장 따뜻한 달이다.
+
+태양과의 거리는 원인이 아니다. 지구는 1월에 근일점, 7월에 원일점에 이르며, 이심률은 받는 햇빛에 7%의 차이를 만든다.
+
+정의는 문화와 지역에 따라 다르다. 온대와 아한대 지역에서는 [[Gregorian calendar|그레고리력]]에 따른 봄, 여름, 가을, 겨울의 네 계절을 대체로 인정한다. 생태학자들은 고정된 날짜에 얽매이지 않는 여섯 계절 모형, 곧 초봄, 봄, 여름, 늦여름, 가을, 겨울을 쓰는 경우가 많다. 많은 열대 지역에는 우기, 곧 [[Monsoon|계절풍]]기와 [[Dry season|건기]]의 두 계절이 있다. 고대 이집트인은 [[Nile|나일강]]의 연례 범람에 기초해 범람기, 성장기, 저수기의 계절을 구분했고, 인도에서는 농업과 무역을 위해 고대부터 여섯 계절, 곧 *Ritu*를 인정해 왔다.
+
+계절은 농경 사회에서 특별한 의미를 지니며, 계절의 변화에는 의례가 따르는 경우가 많다.
+
+
+=== KEY: Sea_Monkeys_bf09bb
+FILE: data/ko/tr_out/t_301.json
+FLAGS: numbers missing ['1970']
+ENGLISH:
+Marketing name for brine shrimp (*Artemia*) sold as novelty aquarium pets. Harold von Braunhut developed the product in the United States in 1957 and sold it under the Sea-Monkeys name from 1962. The eggs are most often sold in a kit of three pouches, and the product was heavily advertised in [[Comic book|comic books]] in the 1960s and 1970s. Under ideal home conditions the animals may live up to five years, although they usually live two to three months. Because they are easy to breed, brine shrimp are also widely used as a [[Model organism|model organism]] in research on developmental biology, [[Genetics|genetics]] and [[Toxicology|toxicology]].
+KOREAN:
+새로운 수족관 애완동물로 판매되는 브라인슈림프(*Artemia*)의 상품명. 해럴드 폰 브라운허트가 1957년 미국에서 이 제품을 개발했고 1962년부터 시멍키라는 이름으로 판매했다. 알은 대개 세 봉지가 든 키트로 팔리며, 이 제품은 1960~70년대에 [[Comic book|만화책]]에 크게 광고되었다. 이상적인 가정 환경에서는 최대 5년까지 살 수 있지만 보통은 두세 달을 산다. 번식시키기 쉬워서 브라인슈림프는 발생생물학, [[Genetics|유전학]], [[Toxicology|독성학]] 연구의 [[Model organism|모델 생물]]로도 널리 쓰인다.
+
+
+=== KEY: BBC_a61d00
+FILE: data/ko/tr_out/t_030.json
+FLAGS: links differ, dropped ['London'], added []
+ENGLISH:
+British public service broadcaster headquartered at Broadcasting House in [[London]]. Founded as the British Broadcasting Company on October 18, 1922, it became a public corporation under royal charter on January 1, 1927. It is funded mainly by an annual television license fee set by the government and agreed by Parliament. Since April 1, 2014, it has also funded the BBC World Service, which broadcasts in 43 languages. Its commercial subsidiary, BBC Studios, sells programs internationally. In 1923 it launched *Radio Times*, the first broadcast listings magazine. The BBC has faced criticism over its impartiality, funding and coverage of the [[Iraq War]], and accusations of political bias have come from both the left and the right.
+KOREAN:
+런던의 브로드캐스팅 하우스에 본부를 둔 영국의 공영 방송사. 1922년 10월 18일 영국 방송 회사로 설립되었으며, 1927년 1월 1일 칙허장에 따라 공공 법인이 되었다. 주로 정부가 정하고 의회가 승인하는 연간 텔레비전 수신료로 운영된다. 2014년 4월 1일부터는 43개 언어로 방송하는 BBC 월드 서비스도 재정 지원하고 있다. 상업 자회사인 BBC 스튜디오는 프로그램을 해외에 판매한다. 1923년에는 최초의 방송 편성표 잡지인 『라디오 타임스』를 창간했다. BBC는 공정성, 재원, [[Iraq War|이라크 전쟁]] 보도를 둘러싼 비판을 받아 왔으며, 정치적 편향이라는 비난은 좌파와 우파 양쪽에서 나왔다.
+
+
+=== KEY: B_la_IV_of_Hungary_adf8b9
+FILE: data/ko/tr_out/t_030.json
+FLAGS: numbers missing ['70']
+ENGLISH:
+King of Hungary and Croatia (r. 1235–70). The eldest son of King Andrew II, Béla was crowned in his father's lifetime, in 1214, and governed [[Transylvania]] as duke from 1226. He supported Christian missions among the pagan [[Cumans]], and some Cuman chieftains acknowledged his suzerainty; he adopted the title King of Cumania in 1233. After the [[Mongols]] annihilated his army at the Battle of Mohi on April 11, 1241, and devastated the country until their withdrawal in March 1242, he introduced reforms to prepare for a second invasion. He allowed barons and prelates to build stone fortresses, promoted fortified towns, and welcomed colonists from the [[Holy Roman Empire]] and neighboring regions to resettle depopulated lands. These efforts earned him the epithet "second founder of the state." He was duke of Styria from 1254 to 1258. A dispute with his son Stephen led to civil war until 1266.
+KOREAN:
+헝가리와 크로아티아의 왕(재위 1235~1270). 언드라시 2세의 맏아들인 벨러는 부왕이 살아 있던 1214년에 왕으로 대관했고 1226년부터 공작으로서 [[Transylvania|트란실바니아]]를 다스렸다. 이교도인 [[Cumans|쿠만족]] 사이의 기독교 선교를 지원했으며 일부 쿠만 족장은 그의 종주권을 인정했다. 1233년에는 쿠마니아 왕이라는 칭호를 받아들였다. 1241년 4월 11일 모히 전투에서 [[Mongols|몽골족]]이 그의 군대를 전멸시키고 1242년 3월 철수할 때까지 나라를 유린한 뒤, 그는 두 번째 침공에 대비해 개혁을 도입했다. 귀족과 고위 성직자가 돌 요새를 쌓도록 허락했고, 요새화된 도시를 장려했으며, [[Holy Roman Empire|신성 로마 제국]]과 이웃 지역의 식민자를 맞아들여 황폐해진 땅에 다시 정착시켰다. 이러한 노력으로 그는 “제2의 건국자”라는 별칭을 얻었다. 1254년부터 1258년까지는 슈타이어마르크 공작이었다. 아들 이슈트반과의 분쟁은 1266년까지 이어진 내전으로 번졌다.
+
+
+=== KEY: Film_bae902
+FILE: data/ko/tr_out/t_116.json
+FLAGS: links differ, dropped ['Special effect'], added []
+ENGLISH:
+Work of visual art that simulates experiences and communicates ideas, stories, perceptions, emotions, or atmosphere through moving images, generally synchronized with sound since the 1930s; also called a movie or motion picture. Films are produced by recording people and objects with cameras or by creating them using [[Animation|animation]] techniques and [[Special effect|special effects]]. They comprise a series of individual frames which, shown rapidly in succession, create the illusion of motion; flickering between frames is not noticeable because of an effect now called flicker fusion.
+
+Films are widely considered an important art form: they entertain, educate, enlighten, and inspire audiences. Their visual elements need no translation, and with dubbing or subtitles any film can become a worldwide attraction. Films are also artifacts of specific cultures, which they reflect and in turn affect.
+
+Film drew on earlier traditions including oral storytelling, literature, theater, and the visual arts, and on forms featuring projected images, such as shadow puppetry, the [[Camera obscura|camera obscura]], and the magic lantern. The stroboscopic animation principle was introduced in 1833 with the phénakisticope and later applied in the zoetrope (1866), the flip book (1868), and the praxinoscope (1877). [[Photography]] was introduced in 1839, but early emulsions needed exposures too long to record moving subjects. In 1878, [[Eadweard Muybridge]] photographed a running horse with a battery of cameras along a track and published the results as *The Horse in Motion*. In 1886, Ottomar Anschütz developed the Electrotachyscope, which displayed short loops of 24 glass plate photographs; some 152 coin-operated examples were manufactured in [[Berlin]] from 1891. Émile Reynaud's Théâtre Optique, patented in 1888, could project longer sequences with separate backgrounds.
+KOREAN:
+움직이는 영상을 통해 경험을 모의하고 생각, 이야기, 인식, 감정, 분위기를 전달하는 시각 예술 작품으로, 1930년대 이후에는 대체로 소리와 동기화된다. 무비 또는 모션 픽처라고도 한다. 영화는 카메라로 사람과 사물을 촬영하거나 [[Animation|애니메이션]] 기법으로 만들어 내어 제작한다. 영화는 일련의 개별 프레임으로 구성되며, 이를 빠르게 연속해서 보여 주면 움직임의 착각이 생긴다. 프레임 사이의 깜박임은 지금은 점멸 융합이라 불리는 효과 때문에 눈에 띄지 않는다.
+
+영화는 널리 중요한 예술 형식으로 여겨진다. 관객을 즐겁게 하고, 가르치고, 깨우치고, 영감을 준다. 영화의 시각 요소는 번역이 필요 없으며, 더빙이나 자막이 있으면 어떤 영화든 세계적인 볼거리가 될 수 있다. 영화는 또한 특정 문화의 산물로서 그 문화를 반영하고 다시 영향을 미친다.
+
+영화는 구전 이야기, 문학, 연극, 시각 예술을 비롯한 앞선 전통과, 그림자 인형극, [[Camera obscura|카메라 옵스큐라]], 환등기 같은 투사 영상 형식에서 영향을 받았다. 스트로보스코프 애니메이션의 원리는 1833년 페나키스티스코프로 도입되었고, 이후 조이트로프(1866), 플립북(1868), 프락시노스코프(1877)에 응용되었다. [[Photography|사진]]은 1839년에 도입되었으나 초기의 감광 유제는 노출 시간이 너무 길어 움직이는 피사체를 기록할 수 없었다. 1878년 [[Eadweard Muybridge|이드위어드 마이브리지]]는 트랙을 따라 늘어놓은 카메라 여러 대로 달리는 말을 촬영하여 그 결과를 「달리는 말」로 출간했다. 1886년 오토마어 안쉬츠는 유리판 사진 24장의 짧은 반복 영상을 보여 주는 일렉트로타키스코프를 개발했으며, 1891년부터 동전 투입식 제품 약 152대가 [[Berlin|베를린]]에서 제작되었다. 1888년 특허를 받은 에밀 레이노의 테아트르 옵티크는 각기 다른 배경을 갖춘 더 긴 영상을 투사할 수 있었다.
+
+
+=== KEY: Fig_09fa85
+FILE: data/ko/tr_out/t_116.json
+FLAGS: links differ, dropped ['Tree'], added []
+ENGLISH:
+Edible [[Fruit|fruit]] of *Ficus carica*, a deciduous [[Tree|tree]] or large shrub in the flowering plant family [[Moraceae]], native to the Mediterranean region and to western and southern Asia.
+
+The fruit develops as a teardrop-shaped syconium, 3–5 cm long, that ripens from green toward purple or brown and contains numerous small seeds. Its milky sap irritates human skin, but the figs can be eaten fresh or dried or processed into jam and other desserts. Because ripe figs are easily damaged in transport, most commercial production is dried or processed.
+
+In 2020 world production of raw figs was 1.26 million tonnes. [[Turkey]] led with 25% of the world total, followed by [[Egypt]], [[Morocco]] and [[Algeria]], which together accounted for 62%. Raw figs contain roughly 80% water and 20% [[Carbohydrate|carbohydrates]], with negligible protein or fat.
+KOREAN:
+속씨식물 [[Moraceae|뽕나뭇과]]의 낙엽 교목 또는 큰 관목으로, 지중해 지역과 서아시아, 남아시아가 원산인 *Ficus carica*의 먹을 수 있는 [[Fruit|열매]].
+
+열매는 눈물방울 모양의 은두화서로 자라며 길이는 3~5cm이고, 녹색에서 자주색이나 갈색으로 익으며 작은 씨가 많이 들어 있다. 유백색 수액은 사람의 피부를 자극하지만, 무화과는 생으로 먹거나 말리거나 잼과 다른 디저트로 가공해 먹을 수 있다. 익은 무화과는 운송 중에 쉽게 상하기 때문에 상업적 생산량의 대부분은 건조하거나 가공한 것이다.
+
+2020년 세계의 생무화과 생산량은 126만 톤이었다. [[Turkey|튀르키예]]가 세계 총생산량의 25%로 1위였고, [[Egypt|이집트]], [[Morocco|모로코]], [[Algeria|알제리]]가 뒤를 이어 함께 62%를 차지했다. 생무화과는 약 80%가 물이고 20%가 [[Carbohydrate|탄수화물]]이며, 단백질과 지방은 거의 없다.
+
+
+=== KEY: George_Washington_Carver_281ce9
+FILE: data/ko/tr_out/t_130.json
+FLAGS: links differ, dropped ['Cotton'], added []
+ENGLISH:
+American agricultural scientist and inventor, one of the most prominent Black scientists of the early 20th century. While a professor at Tuskegee Institute, he developed techniques to improve soils depleted by repeated plantings of [[Cotton|cotton]]. He promoted [[Peanut|peanuts]], [[Sweet potato|sweet potatoes]] and other crops as alternatives that could feed poor farmers and restore the soil. Under his leadership the Tuskegee experiment station published over forty practical bulletins for farmers, many written by him, including recipes and advice on preserving food. He was also a leader in [[Environmentalism|environmentalism]] and received numerous honors, including the Spingarn Medal of the NAACP. In 1941 [[Time (magazine)|Time]] magazine called him a "Black Leonardo." Popular accounts sometimes credit him with inventing peanut butter, which predated his work.
+KOREAN:
+미국의 농업 과학자이자 발명가로, 20세기 초 가장 저명한 흑인 과학자 중 한 명. 터스키기 학교의 교수로 있으면서 거듭된 재배로 땅심이 다한 토양을 개선하는 기술을 개발했다. 가난한 농민을 먹여 살리고 토양을 되살릴 대안 작물로 [[Peanut|땅콩]], [[Sweet potato|고구마]] 등을 장려했다. 그의 지도 아래 터스키기 농업 시험장은 농민을 위한 실용적인 소식지를 40건 넘게 발간했으며, 그중 상당수를 그가 직접 썼고 요리법과 식품 보존 조언도 실었다. 또한 [[Environmentalism|환경주의]]의 선구자였으며 전미 유색인 지위 향상 협회의 스핑간 메달을 비롯한 수많은 영예를 받았다. 1941년 [[Time (magazine)|『타임』]]지는 그를 “흑인 레오나르도”라고 불렀다. 대중적인 이야기에서는 그가 땅콩버터를 발명했다고 하기도 하나, 땅콩버터는 그의 연구보다 앞선다.
+
+
+=== KEY: George_Washington_6c7a49
+FILE: data/ko/tr_out/t_130.json
+FLAGS: numbers missing ['63', '97']
+ENGLISH:
+American Founding Father and first president of the United States (1789–97). As commander of the Continental Army, he led Patriot forces to victory in the [[American Revolutionary War]], and he is commonly known as the Father of His Country.
+
+Born in the Colony of Virginia, he learned land surveying and later commanded the Virginia Regiment during the [[French and Indian War]] (1754–63). Appointed commander-in-chief in 1775, he directed a poorly organized and equipped force against disciplined British troops. He won at Trenton in late 1776 and Princeton in early 1777, but lost at Brandywine and Germantown. In 1781 he led a combined French and American force to a decisive victory at [[Siege of Yorktown|Yorktown]], and in the [[Treaty of Paris (1783)|Treaty of Paris]] of 1783 Britain acknowledged American independence. He presided over the Constitutional Convention in 1787, which drafted the [[Constitution of the United States]].
+
+Washington was unanimously elected president by the Electoral College in 1789 and 1792. He established a strong, well-financed national government and remained impartial in the cabinet rivalry between [[Thomas Jefferson]] and [[Alexander Hamilton]]. During the [[French Revolution]] he adopted a policy of neutrality. He set precedents for the presidency, including a peaceful transfer of power, the title "Mr. President", and the two-term tradition, and his 1796 farewell address warned of the dangers that regionalism, partisanship, and foreign influence pose to national unity.
+
+A planter of tobacco and wheat at Mount Vernon, he owned slaves. He began opposing slavery near the end of his life, and his will provided for the eventual manumission of his slaves. His namesakes include the national capital and the State of Washington, and in popular and scholarly polls he is consistently ranked among the greatest American presidents.
+KOREAN:
+미국의 건국의 아버지이자 초대 미국 대통령(1789~1797년). 대륙군 총사령관으로서 애국파 군대를 이끌어 [[American Revolutionary War|미국 독립 전쟁]]을 승리로 이끌었으며, 흔히 국부로 불린다.
+
+버지니아 식민지에서 태어나 측량을 배웠고, 훗날 [[French and Indian War|프렌치 인디언 전쟁]](1754~1763년) 중 버지니아 연대를 지휘했다. 1775년 총사령관에 임명된 그는 조직과 장비가 부실한 군대로 훈련된 영국군에 맞섰다. 1776년 말 트렌턴과 1777년 초 프린스턴에서 승리했으나 브랜디와인과 저먼타운에서는 패했다. 1781년에는 프랑스·미국 연합군을 이끌고 [[Siege of Yorktown|요크타운]]에서 결정적 승리를 거두었고, 1783년 [[Treaty of Paris (1783)|파리 조약]]에서 영국은 미국의 독립을 인정했다. 1787년 제헌 회의의 의장을 맡았고, 이 회의에서 [[Constitution of the United States|미국 헌법]]이 기초되었다.
+
+워싱턴은 1789년과 1792년 선거인단에 의해 만장일치로 대통령에 선출되었다. 강력하고 재정이 탄탄한 중앙 정부를 세웠고, [[Thomas Jefferson|토머스 제퍼슨]]과 [[Alexander Hamilton|알렉산더 해밀턴]] 사이의 내각 내 대립에서 중립을 지켰다. [[French Revolution|프랑스 혁명]] 중에는 중립 정책을 택했다. 평화적인 권력 이양, “미스터 프레지던트”라는 호칭, 2선 전통 등 대통령직의 선례를 세웠으며, 1796년 고별 연설에서는 지역주의, 당파주의, 외세의 영향이 국가 통합에 미치는 위험을 경고했다.
+
+마운트버넌에서 담배와 밀을 재배한 농장주로서 노예를 소유했다. 말년에 이르러 노예제에 반대하기 시작했고, 그의 유언장은 노예들을 결국 해방하도록 규정했다. 그의 이름을 딴 것으로는 미국의 수도와 워싱턴주가 있으며, 대중적·학술적 평가에서 그는 꾸준히 미국의 가장 위대한 대통령 중 한 명으로 꼽힌다.
+
+
+=== KEY: Jennifer_Lopez_e41c2d
+FILE: data/ko/tr_out/t_175.json
+FLAGS: numbers missing ['6']
+ENGLISH:
+American singer, songwriter and actress. After dancing on the sketch comedy series *In Living Color*, she starred in the biopic *Selena* (1997). Her debut album, *On the 6* (1999), included the number-one single "If You Had My Love". She became one of Hollywood's highest-paid actresses through romantic comedies, and her films have cumulatively grossed over US$1.9 billion. Lopez has sold over 80 million records worldwide. She was a judge on *American Idol* from 2011 to 2016.
+KOREAN:
+미국의 가수, 작곡가이자 배우. 촌극 코미디 시리즈 「인 리빙 컬러」에서 춤을 춘 뒤 전기 영화 「셀레나」(1997)에 출연했다. 데뷔 앨범 『온 더 식스』(1999)에는 1위 싱글 「이프 유 해드 마이 러브」가 실렸다. 로맨틱 코미디를 통해 할리우드에서 출연료를 가장 많이 받는 배우 중 한 명이 되었으며, 출연작의 수입은 누적 미화 19억 달러가 넘는다. 로페즈는 전 세계에서 음반을 8000만 장 넘게 팔았다. 2011년부터 2016년까지 「아메리칸 아이돌」의 심사위원이었다.
+
+
+=== KEY: Jerry_Rice_b639b6
+FILE: data/ko/tr_out/t_175.json
+FLAGS: numbers missing ['49']
+ENGLISH:
+American former football wide receiver. Rice played 20 seasons in the [[National Football League|NFL]], winning three [[Super Bowl]] titles with the San Francisco 49ers. He is the career leader among wide receivers in receptions, receiving yards and receiving touchdowns, and he is widely regarded as the greatest wide receiver of all time. He was selected to the Pro Bowl 13 times and inducted into the Pro Football Hall of Fame in 2010.
+KOREAN:
+미국의 전직 풋볼 와이드 리시버. 라이스는 [[National Football League|NFL]]에서 20시즌을 뛰며 샌프란시스코 포티나이너스에서 [[Super Bowl|슈퍼볼]] 우승을 세 번 차지했다. 와이드 리시버 가운데 통산 리셉션, 리시빙 야드, 리시빙 터치다운 부문의 최다 기록 보유자이며, 역대 최고의 와이드 리시버로 널리 평가받는다. 프로볼에 13회 선정되었고 2010년 프로 풋볼 명예의 전당에 헌액되었다.
+
+
+=== KEY: Martin_Luther_King_Jr_57b851
+FILE: data/ko/tr_out/t_213.json
+FLAGS: polite ending
+ENGLISH:
+American Baptist minister and civil rights leader. King led the [[Civil rights movement|civil rights movement]] from 1955 until his assassination in 1968, using nonviolence and sometimes civil disobedience against Jim Crow laws. He oversaw the 1955 Montgomery bus boycott and was the first president of the Southern Christian Leadership Conference. In 1963 he delivered his "[[I Have a Dream]]" speech at the March on Washington. The movement achieved legislative gains in the [[Civil Rights Act of 1964]], the Voting Rights Act of 1965 and the Fair Housing Act of 1968. King won the 1964 Nobel Peace Prize. In his final years he also opposed poverty and the Vietnam War. The FBI under J. Edgar Hoover treated him as a target of [[COINTELPRO]]. King was assassinated in [[Memphis, Tennessee]] on April 4, 1968; [[James Earl Ray]] was convicted of the killing, though conspiracy theories persist.
+KOREAN:
+미국의 침례교 목사이자 민권 운동 지도자. 킹은 1955년부터 1968년 암살될 때까지 [[Civil rights movement|민권 운동]]을 이끌었으며, 짐 크로 법에 맞서 비폭력과 때로는 시민 불복종을 사용했다. 1955년 몽고메리 버스 보이콧을 이끌었고 남부 기독교 지도자 회의의 초대 의장이었다. 1963년 워싱턴 행진에서 “[[I Have a Dream|나에게는 꿈이 있습니다]]” 연설을 했다. 이 운동은 [[Civil Rights Act of 1964|1964년 민권법]], 1965년 투표권법, 1968년 공정 주택법에서 입법적 성과를 거두었다. 킹은 1964년 노벨 평화상을 받았다. 말년에는 빈곤과 베트남 전쟁에도 반대했다. J. 에드거 후버 휘하의 연방 수사국은 그를 [[COINTELPRO|코인텔프로]]의 표적으로 삼았다. 킹은 1968년 4월 4일 [[Memphis, Tennessee|멤피스]]에서 암살되었으며, [[James Earl Ray|제임스 얼 레이]]가 살해 혐의로 유죄 판결을 받았으나 음모론은 계속되고 있다.
+
+
+=== KEY: Marta_footballer_5f4f92
+FILE: data/ko/tr_out/t_213.json
+FLAGS: links differ, dropped ["FIFA Women's World Cup"], added []
+ENGLISH:
+Brazilian women's football forward and national team captain. Regarded by many as the greatest female footballer of all time, she has been named [[FIFA]] World Player of the Year six times. As of 2025 she was Brazil's all-time top scorer, with 122 goals, and she holds the record for most goals in the [[FIFA Women's World Cup|Women's World Cup]], with 17. She was the first footballer of any gender to score at five World Cups. She won the Golden Ball and Golden Boot at the 2007 Women's World Cup after leading Brazil to the final. She was part of the Brazilian teams that won silver medals at the 2004, 2008 and 2024 Summer Olympics. At club level she won the [[UEFA]] Women's Cup with Umeå IK in 2004 and won seven Swedish league championships. In Brazil she is nicknamed *Rainha* ("Queen").
+KOREAN:
+브라질의 여자 축구 공격수이자 국가대표팀 주장. 많은 이들이 역대 최고의 여자 축구 선수로 꼽으며, [[FIFA|국제 축구 연맹]] 올해의 선수에 여섯 차례 선정되었다. 2025년 기준 브라질 역대 최다 득점자로 122골을 기록했고, 여자 월드컵 최다 득점 기록인 17골도 보유하고 있다. 성별을 불문하고 월드컵 다섯 개 대회에서 득점한 최초의 축구 선수였다. 2007년 여자 월드컵에서 브라질을 결승으로 이끌며 골든볼과 골든 부트를 받았다. 2004년, 2008년, 2024년 하계 올림픽에서 은메달을 딴 브라질 대표팀의 일원이었다. 클럽 수준에서는 2004년 우메오 IK와 함께 [[UEFA|유럽 축구 연맹]] 여자컵을 차지했고 스웨덴 리그 우승을 일곱 차례 했다. 브라질에서는 *Rainha*(“여왕”)라는 별명으로 불린다.
+
+
+=== KEY: Park_Chung_Hee_5e503a
+FILE: data/ko/tr_out/t_255.json
+FLAGS: numbers missing ['79']
+ENGLISH:
+South Korean army officer and president (r. 1963–79). Park seized power in the May 16 coup of 1961 and, after two years as junta chairman, was elected president in 1963.A firm anti-communist, he kept close ties with the [[United States]] and sent South Korean troops to fight in Vietnam. His government introduced economic reforms that led to rapid industrialization, known as the Miracle on the Han River, and supported family companies such as [[Samsung]]. In 1972 he declared martial law after a self-coup and introduced the authoritarian Yushin Constitution, after which he repressed political opposition and dissent and exerted much control over the media. He was assassinated in 1979 by Kim Jae-gyu, director of the KCIA, following the Busan–Masan Uprising. Assessments of his legacy are divided: some credit him with sustained [[Economic growth|economic growth]], while critics point to authoritarian rule and its cost to [[Civil liberties|civil liberties]] and [[Human rights|human rights]].
+KOREAN:
+대한민국의 군인이자 대통령(재임 1963~1979년). 박정희는 1961년 5·16 군사 정변으로 권력을 잡았고, 2년간 국가재건최고회의 의장을 지낸 뒤 1963년 대통령에 당선되었다. 확고한 반공주의자로서 [[United States|미국]]과 긴밀한 관계를 유지했고 베트남에 한국군을 파병했다. 그의 정부는 급속한 산업화로 이어진 경제 개혁을 도입했는데, 이를 한강의 기적이라 하며, [[Samsung|삼성]] 같은 가족 기업을 지원했다. 1972년 친위 쿠데타로 계엄령을 선포하고 권위주의적인 유신 헌법을 도입했으며, 이후 정치적 반대와 이견을 억압하고 언론을 강하게 통제했다. 1979년 부마 항쟁 이후 중앙정보부장 김재규에게 암살되었다. 그의 유산에 대한 평가는 엇갈린다. 지속적인 [[Economic growth|경제 성장]]을 높이 평가하는 이들이 있는가 하면, 비판자들은 권위주의 통치와 그것이 [[Civil liberties|시민적 자유]]와 [[Human rights|인권]]에 치른 대가를 지적한다.
+
+
+=== KEY: Paranthropus_204541
+FILE: data/ko/tr_out/t_255.json
+FLAGS: numbers missing ['2.9']
+ENGLISH:
+Contested genus of extinct hominins, sometimes treated as synonymous with [[Australopithecus]]. Three species are widely accepted: *P. aethiopicus*, *P. robustus* and *P. boisei*. They lived from about 2.9 to at least 1.2 million years ago, from the end of the [[Pliocene]] into the Middle Pleistocene. Their robust skulls had prominent sagittal crests, which suggest strong chewing muscles, and broad teeth for grinding. Their bodies were small: males of *P. robustus* were estimated at 40 kg and 132 cm, and males of *P. boisei* at 50 kg and 137 cm. *P. robustus* was probably an omnivore, while *P. boisei* was likely herbivorous. They are associated with bone tools and lived alongside early human species such as *Homo habilis* and *H. erectus*. Large carnivores of the time, including crocodiles, leopards and hyenas, preyed on them.
+KOREAN:
+멸종한 호미닌의 속으로, 학계에서 논란이 있으며 때로는 [[Australopithecus|오스트랄로피테쿠스]]와 동의어로 취급된다. *P. aethiopicus*, *P. robustus*, *P. boisei*의 세 종이 널리 인정된다. 이들은 [[Pliocene|플라이오세]] 말에서 중기 플라이스토세에 이르는 약 290만 년 전부터 적어도 120만 년 전까지 살았다. 튼튼한 두개골에는 뚜렷한 시상 능선이 있어 강한 씹기 근육을 시사하며, 넓은 어금니는 곡물을 갈기에 알맞았다. 몸집은 작았다. *P. robustus*의 수컷은 40 kg, 132 cm로, *P. boisei*의 수컷은 50 kg, 137 cm로 추정되었다. *P. robustus*는 아마 잡식성이었고 *P. boisei*는 초식성이었을 가능성이 크다. 이들은 뼈 도구와 관련이 있으며 *Homo habilis*와 *H. erectus* 같은 초기 인류 종과 함께 살았다. 악어, 표범, 하이에나를 비롯한 당시의 대형 육식동물이 이들을 잡아먹었다.
+
+
+=== KEY: Sponge_3f4027
+FILE: data/ko/tr_out/t_318.json
+FLAGS: numbers missing ['800']
+ENGLISH:
+Aquatic invertebrate of the [[Phylum|phylum]] Porifera, most of them marine. Sponges are multicellular filter feeders that lack true tissues and organs, drawing water through pores and expelling it through an opening called the osculum. Flagellated choanocyte cells drive the water flow and capture most food. Sponges have no complex nervous, digestive or circulatory systems. Adult sponges are sessile, attached to a surface. Many have a mesh-like skeleton of spicules made of calcium carbonate or silicon dioxide, embedded in spongin, a modified collagen. Demosponges, the most numerous group, include all freshwater sponges. Fossil sponges such as Otavia date to as early as the Tonian period, around 800 Mya. Sponges may be the sister group to all other animals, though the evidence remains inconclusive.
+KOREAN:
+대부분 바다에 사는 [[Phylum|문]] 해면동물에 속하는 수생 무척추동물. 해면은 진짜 조직과 기관이 없는 다세포 여과 섭식 동물로, 구멍을 통해 물을 빨아들이고 배출공이라는 열린 곳으로 내보낸다. 편모가 있는 깃세포가 물의 흐름을 일으키고 먹이 대부분을 포획한다. 해면은 복잡한 신경계, 소화계, 순환계가 없다. 성체 해면은 고착성으로 표면에 붙어 산다. 많은 해면은 탄산 칼슘이나 이산화 규소로 이루어진 골편의 그물 모양 뼈대를 가지며, 이는 변형된 콜라겐인 해면질에 박혀 있다. 가장 수가 많은 무리인 보통해면류에는 모든 민물 해면이 포함된다. 오타비아 같은 화석 해면은 약 8억 년 전 토니아기까지 거슬러 올라간다. 해면은 다른 모든 동물의 자매군일 수 있으나 증거는 아직 확정적이지 않다.
+
+
+=== KEY: Sport_96faa3
+FILE: data/ko/tr_out/t_318.json
+FLAGS: numbers missing ['1']
+ENGLISH:
+Physical activity or game, often competitive and organized, that maintains or improves physical ability and skills. Sport gives enjoyment to participants and entertainment to spectators, and the number of participants ranges from a single individual to hundreds of people. It is usually governed by rules or customs that ensure fair competition. Winners may be decided by physical events, such as scoring goals or crossing a line first, or by judges who score technical performance or artistic impression. Competitions may use team or single-person formats, may be open or restricted, and may allow ties or provide tie-breaking methods. Tournaments produce a champion, and many leagues name an annual champion through a regular season, sometimes followed by playoffs.
+
+The English word comes from the Old French *desport*, meaning "leisure". Definitions vary. The Global Association of International Sports Federations (GAISF) holds that a sport should involve competition, harm no living creature, not depend on equipment from a single supplier, and not rely on designed-in luck. It recognizes sports that are primarily physical, mind-based (chess, Go), motorised (Formula 1), coordination-based (snooker and other [[Cue sports|cue sports]]), or animal-supported (equestrian). The Council of Europe excludes activities with no physical element, while SportAccord recognizes five non-physical sports but limits further admissions. [[Esports]] are not widely recognized by mainstream sports organizations.
+
+[[Running]] is the most accessible and widely practiced sport, and [[Association football|association football]] the most popular spectator sport. Physical activity is associated with lower risk of all-cause mortality and with fewer symptoms of depression and anxiety. A.T. Kearney estimated the global sporting industry at up to $620 billion in 2013. Doping remains a persistent controversy.
+KOREAN:
+신체 능력과 기술을 유지하거나 향상시키는, 흔히 경쟁적이고 조직적인 신체 활동 또는 놀이. 스포츠는 참가자에게 즐거움을, 관중에게 오락을 주며 참가자 수는 한 명에서 수백 명에 이른다. 보통 공정한 경쟁을 보장하는 규칙이나 관습의 지배를 받는다. 승자는 골을 넣거나 먼저 결승선을 통과하는 것 같은 신체 경기로 가려지기도 하고, 기술적 수행이나 예술적 인상에 점수를 매기는 심판이 정하기도 한다. 경기는 팀 또는 개인 방식으로 치러질 수 있고, 개방적이거나 제한적일 수 있으며, 무승부를 허용하거나 승부를 가르는 방법을 두기도 한다. 토너먼트는 챔피언을 가리고, 많은 리그는 정규 시즌과 때로는 이어지는 플레이오프를 통해 해마다 챔피언을 정한다.
+
+영어 낱말은 “여가”를 뜻하는 고대 프랑스어 *desport*에서 왔다. 정의는 다양하다. 국제경기연맹총연합회(GAISF)는 스포츠가 경쟁을 포함하고, 살아 있는 어떤 생명체도 해치지 않으며, 한 공급자의 장비에 의존하지 않고, 설계된 운에 의존하지 않아야 한다고 본다. 이 단체는 주로 신체적인 스포츠, 두뇌 기반 스포츠(체스, 바둑), 동력 기반 스포츠(포뮬러 원), 협응 기반 스포츠(스누커와 그 밖의 [[Cue sports|큐 스포츠]]), 동물의 도움을 받는 스포츠(기사 계급의 마술)를 인정한다. 유럽 평의회는 신체적 요소가 없는 활동을 제외하며, 스포츠어코드는 비신체 스포츠 다섯 가지를 인정하되 추가 승인은 제한한다. [[Esports|e스포츠]]는 주류 스포츠 단체에서 널리 인정받지 못한다.
+
+[[Running|달리기]]는 가장 접근하기 쉽고 널리 행해지는 스포츠이며, [[Association football|축구]]는 가장 인기 있는 관람 스포츠이다. 신체 활동은 전체 원인 사망률의 위험을 낮추고 우울과 불안 증상을 줄이는 것과 관련이 있다. A.T. 커니는 2013년 세계 스포츠 산업이 최대 6,200억 달러에 이른다고 추정했다. 도핑은 끊이지 않는 논란으로 남아 있다.
+
+
+=== KEY: Typha_6e5af1
+FILE: data/ko/tr_out/t_350.json
+FLAGS: links differ, dropped ['Monocotyledon'], added []
+ENGLISH:
+[[Genus]] of about 30 species of [[Monocotyledon|monocotyledonous]] flowering plants in the family Typhaceae. Known as bulrushes, reedmaces or cattails depending on region, these aquatic or semiaquatic perennials grow to 0.8–2.4 m tall, with long, narrow leaves. They are largely distributed across the Northern Hemisphere, in [[Wetland|wetland]] habitats. They colonize newly exposed mud from wind-dispersed seeds and spread by rhizomes into dense stands that often exclude other plants. In North America they have displaced native sedges and wet meadows. Many parts are edible, including the [[Starch|starchy]] rhizomes, though plants can accumulate toxins in polluted areas. When ripe, the heads disintegrate into cottony fluff that carries the seeds on the wind.
+KOREAN:
+부들과에 속하는 약 30종의 외떡잎 속씨식물 [[Genus|속]]. 지역에 따라 부들 또는 다른 이름으로 불리는 이 수생 또는 반수생 여러해살이풀은 키가 0.8–2.4 m까지 자라며 잎이 길고 좁다. 주로 북반구에 분포하며 [[Wetland|습지]]에 서식한다. 바람에 날리는 씨앗으로 새로 드러난 진흙에 정착하고 뿌리줄기로 퍼져 다른 식물을 몰아내는 빽빽한 군락을 이루는 경우가 많다. 북아메리카에서는 토착 사초와 습한 초원을 대체했다. 오염된 지역에서는 독소를 축적할 수 있으나, [[Starch|녹말]]이 풍부한 뿌리줄기를 비롯해 많은 부분을 먹을 수 있다. 다 익으면 이삭이 솜털 같은 섬유로 흩어져 씨앗을 바람에 실어 나른다.
+
+
+=== KEY: U_S_Route_66_ab27b8
+FILE: data/ko/tr_out/t_350.json
+FLAGS: links differ, dropped ['Chicago'], added []
+ENGLISH:
+Former U.S. Highway running from [[Chicago]] to Santa Monica, California. Established on November 11, 1926, it was one of the original U.S. Highways and covered 2,448 miles (3,940 km) through eight states. It became a major route for westward migration, especially during the [[Dust Bowl]] of the 1930s. Traffic declined as the [[Interstate Highway System]] bypassed towns, and the highway was removed from the U.S. Highway System in 1985. Nicknamed the "Mother Road" by [[John Steinbeck]] in *The Grapes of Wrath* (1939), it is preserved in part as Historic Route 66, a National Scenic Byway. It also featured in the 2006 animated film *Cars*.
+KOREAN:
+시카고에서 캘리포니아주 샌타모니카까지 이어지던 옛 미국 국도. 1926년 11월 11일에 지정되었으며 최초의 미국 국도 중 하나로 여덟 개 주를 거쳐 2,448마일(3,940 km)에 이르렀다. 특히 1930년대 [[Dust Bowl|더스트 볼]] 시기에 서부로 이주하는 주요 경로가 되었다. [[Interstate Highway System|주간 고속도로망]]이 마을을 우회하면서 통행량이 줄었고, 1985년 미국 국도망에서 제외되었다. [[John Steinbeck|존 스타인벡]]이 『분노의 포도』(1939)에서 「마더 로드」라고 이름 붙였으며, 일부는 국립 경관 도로인 역사적 66번 국도로 보존되어 있다. 2006년 애니메이션 영화 「카」에도 등장했다.
+
+
+=== KEY: Aamir_Khan_a0bc3c
+FILE: data/ko/tr_out/t_002.json
+FLAGS: numbers missing ['3']
+ENGLISH:
+[[India|Indian]] actor, filmmaker and television host who works in Hindi films, referred to in the media as "Mr. Perfectionist". He produced *Lagaan* (2001), nominated for the Academy Award for Best Foreign Language Film, and directed *Taare Zameen Par* (2007). His films *3 Idiots* (2009) and *Dangal* (2016) were among the highest-grossing Indian films. He founded Aamir Khan Productions in 1999 and hosted the television talk show *Satyamev Jayate*. The [[Government of India]] awarded him the Padma Shri in 2003 and the Padma Bhushan in 2010.
+KOREAN:
+힌디어 영화에서 활동하는 [[India|인도]]의 배우, 영화 제작자, 텔레비전 진행자로, 언론에서 '미스터 퍼펙셔니스트'로 불린다. 아카데미상 외국어 영화상 후보에 오른 「라가안」(2001)을 제작했고 「지상의 별처럼」(2007)을 연출했다. 출연작 「세 얼간이」(2009)와 「당갈」(2016)은 인도 영화 중 흥행 수익이 가장 높은 작품에 속했다. 1999년 아미르 칸 프로덕션을 설립했으며 텔레비전 토크쇼 「사티야메브 자야테」를 진행했다. [[Government of India|인도 정부]]는 2003년 그에게 파드마 슈리 훈장을, 2010년 파드마 부샨 훈장을 수여했다.
+
+
+=== KEY: Age_of_Earth_1fd3d5
+FILE: data/ko/tr_out/t_006.json
+FLAGS: numbers missing ['4.54', '4.5673']
+ENGLISH:
+Estimated age of the Earth, 4.54 ± 0.05 billion years. The estimate rests on radiometric dating of [[Meteorite|meteorites]], whose ages are approached by those of the oldest terrestrial material and lunar samples. The oldest dated [[Zircon|zircon]] crystals, from the Jack Hills of Western Australia, are at least 4.404 billion years old. Calcium–aluminum-rich inclusions, the oldest known solid matter in the Solar System, are 4.5673 ± 0.00016 billion years old.
+KOREAN:
+지구의 추정 나이로, 45.4억 ± 0.5억 년. 이 추정치는 [[Meteorite|운석]]의 방사성 연대 측정에 바탕을 두며, 운석의 나이에는 지구에서 가장 오래된 물질과 월석의 나이가 근접해 있다. 연대가 측정된 가장 오래된 [[Zircon|지르콘]] 결정은 웨스턴오스트레일리아주의 잭힐스에서 나온 것으로 적어도 44.04억 년 되었다. 태양계에서 가장 오래된 것으로 알려진 고체 물질인 칼슘-알루미늄 풍부 포유물은 45.673억 ± 0.0016억 년 되었다.
+
+
+=== KEY: Avant_garde_d50fbc
+FILE: data/ko/tr_out/t_029.json
+FLAGS: source fixed: Avant_garde_d50fbc: English link [[Literature|literature]] was missing a bracket; make sure the Korean has a well-formed [[Literature|...]] link.
+ENGLISH:
+Term for experimental or innovative [[Art|art]] and [[Literature|literature]], and for the artists who create them. The word comes from the French for “advance guard” or “vanguard.” In 19th-century France the term also described reformists who sought radical political change. By the mid-19th century, avant-garde art used aesthetic innovation as a means of political and social change. Such works typically challenge established forms and are initially rejected by the artistic establishment, as with [[Dada]] (1915–1920s) and [[Surrealism]]. In 1974 Peter Bürger argued that institutions neutralize the political content of avant-garde works, while Renato Poggioli’s 1962 analysis linked avant-garde artists to bohemians. [[Marcel Duchamp]]’s readymades questioned the essence of art itself.
+KOREAN:
+실험적이거나 혁신적인 [[Art|미술]]과 [[Literature|문학]], 그리고 이를 창작하는 예술가를 가리키는 용어. 이 말은 “선발대” 또는 “전위”를 뜻하는 프랑스어에서 왔다. 19세기 프랑스에서는 급진적 정치 변화를 추구한 개혁가들을 가리키는 말로도 쓰였다. 19세기 중반에 이르러 아방가르드 미술은 미학적 혁신을 정치·사회 변화의 수단으로 삼았다. 이런 작품은 대개 기성 형식에 도전하며 처음에는 예술계 기득권에게 외면받는데, [[Dada|다다이즘]](1915~1920년대)과 [[Surrealism|초현실주의]]가 그러했다. 1974년 페터 뷔르거는 제도가 아방가르드 작품의 정치적 내용을 무력화한다고 주장했고, 레나토 포지올리의 1962년 분석은 아방가르드 예술가를 보헤미안과 연결했다. [[Marcel Duchamp|마르셀 뒤샹]]의 레디메이드는 미술 자체의 본질에 의문을 제기했다.
+
+
+=== KEY: Battle_of_the_Little_Bighorn_31b2eb
+FILE: data/ko/tr_out/t_035.json
+FLAGS: links differ, dropped ['Montana'], added []
+ENGLISH:
+Armed engagement of the Great Sioux War, June 25–26, 1876, along the Little Bighorn River in southeastern [[Montana]] Territory. Known to the Lakota as the Battle of the Greasy Grass, and in popular memory as Custer's Last Stand, it pitted Lakota, Northern Cheyenne and Arapaho forces against the 7th Cavalry Regiment of the United States Army under Lieutenant Colonel [[George Armstrong Custer]]. Custer was killed, and five of the regiment's twelve troops were wiped out. U.S. casualties totaled 268 dead and 55 severely wounded.
+KOREAN:
+1876년 6월 25~26일 몬태나 준주 남동부의 리틀빅혼강 유역에서 벌어진 대수족 전쟁의 무력 충돌. 라코타족에게는 그리시그래스 전투로, 대중의 기억 속에서는 커스터의 최후의 저항으로 알려져 있으며, 라코타족, 북부 샤이엔족, 아라파호족 병력이 [[George Armstrong Custer|조지 암스트롱 커스터]] 중령이 지휘하는 미국 육군 제7기병연대와 맞섰다. 커스터가 전사했고 연대의 12개 중대 가운데 5개 중대가 전멸했다. 미군 사상자는 사망 268명과 중상 55명이었다.
+
+
+=== KEY: Big_Bang_01dc58
+FILE: data/ko/tr_out/t_039.json
+FLAGS: numbers missing ['13.787']
+ENGLISH:
+Physical theory describing how the universe expanded from an early state of high density and temperature. Cosmological models based on it explain the abundance of light elements, the cosmic microwave background (CMB) radiation, the [[Redshift|redshift]] of galaxies, and large-scale structure. The uniformity of the universe is explained by cosmic inflation, a phase of accelerated expansion in the earliest stages. Measurements of the expansion rate place the age of the universe at an estimated 13.787±0.02 billion years.
+
+Extrapolating the expansion backward, the models describe an extraordinarily hot, dense primordial universe. The modern view incorporates inflation, followed by a reheating event that produced a hot, dense plasma. As the universe expanded and cooled, subatomic particles and then atoms formed. Primordial elements, mostly [[Hydrogen|hydrogen]] with some helium and lithium, coalesced under gravity, aided by [[Dark matter|dark matter]], into the first stars and galaxies. The theory describes the expansion of space itself, not an explosion in preexisting space.
+
+Alexander Friedmann introduced the concept of an expanding universe in 1922 through the Friedmann equations. [[Edwin Hubble]] published the earliest empirical observation of expansion, now called Hubble's law, in 1929, showing that galaxies recede from Earth at rates proportional to their distance. In 1931 [[Georges Lemaître]] proposed that the universe emerged from a "primeval atom." The CMB was discovered accidentally in 1964, and its uniformity and spectrum fit the Big Bang models; by the late 1960s most cosmologists had rejected the competing steady-state model.
+
+In the current universe, luminous matter makes up less than 5% of the density, dark matter 27%, and [[Dark energy|dark energy]], to which accelerating expansion is attributed, 68%. Unexplained aspects include the matter-antimatter imbalance and the nature of dark matter.
+KOREAN:
+우주가 밀도와 온도가 높은 초기 상태에서 어떻게 팽창했는지를 설명하는 물리 이론. 이에 기초한 우주론 모형은 가벼운 원소의 존재비, 우주 마이크로파 배경(CMB) 복사, 은하의 [[Redshift|적색 편이]], 거대 구조를 설명한다. 우주의 균일성은 초기 단계의 가속 팽창 시기인 우주 급팽창으로 설명된다. 팽창률 측정으로 추정한 우주의 나이는 137억 8,700만±2,000만 년이다.
+
+팽창을 거꾸로 외삽하면, 모형은 극도로 뜨겁고 밀도가 높은 원시 우주를 기술한다. 현대의 관점은 급팽창에 이어 뜨겁고 밀도 높은 플라스마를 만든 재가열 사건이 있었다고 본다. 우주가 팽창하고 식으면서 아원자 입자가, 이어서 원자가 형성되었다. 대부분 [[Hydrogen|수소]]이고 헬륨과 리튬이 조금 섞인 원시 원소는 [[Dark matter|암흑 물질]]의 도움을 받아 중력으로 뭉쳐 최초의 별과 은하가 되었다. 이 이론은 이미 존재하던 공간 속의 폭발이 아니라 공간 자체의 팽창을 설명한다.
+
+알렉산드르 프리드만은 1922년 프리드만 방정식을 통해 팽창하는 우주라는 개념을 도입했다. [[Edwin Hubble|에드윈 허블]]은 1929년 팽창에 대한 최초의 경험적 관측을 발표했으며, 이는 오늘날 허블 법칙으로 불리고 은하가 지구로부터 멀어지는 속도가 거리에 비례함을 보여 주었다. 1931년 [[Georges Lemaître|조르주 르메트르]]는 우주가 “원시 원자”에서 나왔다고 제안했다. CMB는 1964년 우연히 발견되었고, 그 균일성과 스펙트럼은 빅뱅 모형에 들어맞았으며, 1960년대 말에는 대부분의 우주론자가 경쟁 이론인 정상 우주론을 거부했다.
+
+현재 우주에서 빛을 내는 물질은 밀도의 5% 미만, 암흑 물질은 27%, 가속 팽창의 원인으로 여겨지는 [[Dark energy|암흑 에너지]]는 68%를 차지한다. 설명되지 않은 측면으로는 물질-반물질 비대칭과 암흑 물질의 본성이 있다.
+
+
+=== KEY: Boise_Idaho_9e252b
+FILE: data/ko/tr_out/t_044.json
+FLAGS: links differ, dropped ['Sea level'], added []
+ENGLISH:
+Capital and most populous city of the U.S. state of [[Idaho]] (pop., 2020: 235,685). Located on the Boise River in southwestern Idaho, it is the county seat of Ada County at an elevation of 2,704 ft (824 m) above [[Sea level|sea level]]. The metropolitan area in the Treasure Valley has an estimated 846,000 residents. Major employers in technology and manufacturing include Micron Technology and [[Hewlett-Packard]]. The city is home to the Idaho State Capitol, the annual Treefort Music Fest, and the Basque Block.
+KOREAN:
+미국의 주인 [[Idaho|아이다호주]]의 주도이자 인구가 가장 많은 도시(인구, 2020년: 235,685명). 아이다호주 남서부의 보이시강 연안에 있으며, 해발 2,704피트(824 m)에 자리 잡은 에이다 카운티의 군청 소재지이다. 트레저밸리의 대도시권에는 추정 84만 6천 명의 주민이 있다. 기술 및 제조업의 주요 고용주로는 마이크론 테크놀로지와 [[Hewlett-Packard|휴렛팩커드]]가 있다. 도시에는 아이다호주 의사당, 매년 열리는 트리포트 뮤직 페스트, 바스크 블록이 있다.
+
+
+=== KEY: Cerrado_4e2af9
+FILE: data/ko/tr_out/t_060.json
+FLAGS: numbers missing ['2']
+ENGLISH:
+Vast tropical savanna ecoregion in central [[Brazil|Brazil]], centered on the Brazilian Highlands. The name means closed or dense. It accounts for 21 percent of Brazil's land area, the second-largest habitat type after the [[Amazon rainforest|Amazonian rainforest]], and extends marginally into Paraguay and Bolivia. Its habitats include forest savanna, wooded savanna, park savanna, gallery forests and savanna wetlands. The World Wide Fund for Nature has named it the biologically richest savanna in the world, with about 10,000 plant species and 10 endemic bird species. Nearly 200 mammal species occur there, 14 of them endemic. About 75% of its 2 million km² is privately owned, which makes protection difficult. More than 50% of its original vegetation has been cleared for [[Soybean|soybean]] cultivation, cattle ranching and other agriculture.
+KOREAN:
+[[Brazil|브라질]] 중부에 있는 광대한 열대 사바나 생태 지역으로, 브라질 고원을 중심으로 한다. 이름은 닫힌 또는 빽빽한을 뜻한다. 브라질 국토의 21퍼센트를 차지하며 [[Amazon rainforest|아마존 열대 우림]]에 이어 두 번째로 큰 서식지 유형이고, 파라과이와 볼리비아로 조금 뻗어 있다. 서식지로는 삼림 사바나, 수목 사바나, 공원 사바나, 하변림, 사바나 습지가 있다. 세계자연기금은 이곳을 생물학적으로 세계에서 가장 풍부한 사바나로 지정했으며, 식물 약 10,000종과 고유 조류 10종이 있다. 포유류는 200종 가까이 살고 그중 14종이 고유종이다. 면적 200만 ㎢의 약 75%는 사유지여서 보호가 어렵다. 원래 식생의 50% 이상이 [[Soybean|콩]] 재배, 목축, 그 밖의 농업을 위해 제거되었다.
+
+
+=== KEY: Cinema_of_Japan_8a9b26
+FILE: data/ko/tr_out/t_067.json
+FLAGS: links differ, dropped ['Academy Awards'], added []
+ENGLISH:
+Film industry of Japan, one of the world's oldest, which began in the late 1890s. In 2022 Japan was the fourth-largest producer of feature films (634) and the third-largest by box office revenue ($1.5 billion). In the 1950s, a period known as the "Golden Age" of Japanese cinema, the jidaigeki films of [[Akira Kurosawa]] and the science-fiction films of Ishirō Honda and Eiji Tsuburaya gained international praise. Kurosawa's *Seven Samurai* (1954) topped the BBC's 2018 survey of the 100 greatest foreign-language films. Japan has won five [[Academy Awards|Academy Awards]] for Best International Feature Film, more than any other Asian country. [[Anime|Anime]] rose in popularity in the 1980s, and Studio Ghibli's *Princess Mononoke* (1997) and *Spirited Away* (2001) are among its highest-grossing films. As of 2025, the top 16 highest-grossing Japanese films worldwide are all anime.
+KOREAN:
+1890년대 말에 시작된 세계에서 가장 오래된 영화 산업 중 하나인 일본의 영화 산업. 2022년 일본은 장편 영화 제작 편수 4위(634편), 박스오피스 수입 3위(15억 달러)였다. 일본 영화의 “황금기”로 불리는 1950년대에는 [[Akira Kurosawa|구로사와 아키라]]의 지다이게키 영화와 혼다 이시로, 쓰부라야 에이지의 공상 과학 영화가 국제적인 찬사를 받았다. 구로사와의 「7인의 사무라이」(1954)는 2018년 BBC가 선정한 역대 최고의 외국어 영화 100편 조사에서 1위를 차지했다. 일본은 아카데미 국제장편영화상을 다섯 번 받아 다른 어떤 아시아 국가보다 많다. [[Anime|애니메이션]]은 1980년대에 인기를 얻었으며, 스튜디오 지브리의 「모노노케 히메」(1997)와 「센과 치히로의 행방불명」(2001)은 가장 높은 흥행 수입을 올린 작품에 속한다. 2025년 기준으로 전 세계에서 흥행 수입이 가장 높은 일본 영화 상위 16편은 모두 애니메이션이다.
+
+
+=== KEY: Computer_simulation_5aabed
+FILE: data/ko/tr_out/t_074.json
+FLAGS: numbers missing ['2.64']
+ENGLISH:
+Running of a mathematical model on a computer to represent the behavior or outcome of a real-world or physical system. A model consists of the equations that capture a system's behavior, while the simulation is the running of a program that solves them, often approximately. Computer simulations are used in [[Physics|physics]], astrophysics, climatology, chemistry and biology, and in economics, psychology, social science, health care and engineering. Large-scale simulation first appeared in the [[Manhattan Project|Manhattan Project]] during World War II, when a [[Monte Carlo method|Monte Carlo algorithm]] modeled nuclear detonation. In 1997 a simulated desert battle modeled 66,239 tanks, trucks and other vehicles around Kuwait, using multiple supercomputers. Other examples include a 2.64-million-atom model of the ribosome in 2005 and a complete simulation of the life cycle of *Mycoplasma genitalium* in 2012.
+KOREAN:
+실제 또는 물리적 체계의 거동이나 결과를 나타내기 위해 수학적 모형을 컴퓨터에서 실행하는 일. 모형은 체계의 거동을 포착한 방정식으로 이루어지고, 시뮬레이션은 그 방정식을 흔히 근사적으로 푸는 프로그램을 실행하는 것이다. 컴퓨터 시뮬레이션은 [[Physics|물리학]], 천체 물리학, 기후학, 화학, 생물학은 물론 경제학, 심리학, 사회 과학, 보건 의료, 공학에도 쓰인다. 대규모 시뮬레이션은 제2차 세계 대전 중 [[Manhattan Project|맨해튼 계획]]에서 처음 등장했는데, 이때 [[Monte Carlo method|몬테카를로 알고리즘]]으로 핵폭발을 모형화했다. 1997년에는 여러 대의 슈퍼컴퓨터를 사용하여 쿠웨이트 주변의 전차, 트럭 등 66,239대의 차량을 모형화한 사막 전투 시뮬레이션이 이루어졌다. 그 밖의 예로는 2005년의 264만 개 원자로 이루어진 리보솜 모형과 2012년의 *Mycoplasma genitalium*의 생활사를 완전하게 재현한 시뮬레이션이 있다.
+
+
+=== KEY: Crucifixion_of_Jesus_ade241
+FILE: data/ko/tr_out/t_080.json
+FLAGS: numbers missing ['00']
+ENGLISH:
+Execution of [[Jesus]] by [[Crucifixion|crucifixion]] in 1st-century Judea, most likely in AD 30 or AD 33. According to the four canonical gospels, Jesus was tried before the Sanhedrin and then by [[Pontius Pilate]], who sentenced him to be scourged and crucified to satisfy a crowd or the high priests. He was crucified at Calvary (Golgotha) between two convicted thieves and, according to the Gospel of Mark, died around 3:00 p.m. Other ancient sources, including [[Josephus]] and [[Tacitus]], attest to the event. Near universal scholarly consensus holds that it occurred, though there is no consensus on its details. Jesus' suffering and death are central to [[Christianity|Christian]] doctrines of salvation and atonement.
+KOREAN:
+1세기 유대에서 [[Crucifixion|십자가형]]으로 이루어진 [[Jesus|예수]]의 처형으로, 서기 30년 또는 33년일 가능성이 가장 크다. 네 정경 복음서에 따르면 예수는 산헤드린에서, 그다음에는 [[Pontius Pilate|본디오 빌라도]] 앞에서 재판을 받았고, 빌라도는 군중이나 대제사장들을 만족시키려고 그에게 채찍질과 십자가형을 선고했다. 예수는 유죄 판결을 받은 두 도둑 사이에서 갈보리(골고다)에서 십자가에 못 박혔고, 마르코 복음서에 따르면 오후 3시경에 숨을 거두었다. [[Josephus|요세푸스]]와 [[Tacitus|타키투스]]를 비롯한 다른 고대 기록도 이 사건을 증언한다. 학계에서는 거의 만장일치로 이 일이 일어났다고 보지만, 세부 사항에는 합의가 없다. 예수의 고난과 죽음은 구원과 속죄에 관한 [[Christianity|기독교]] 교리의 중심이다.
+
+
+=== KEY: Desert_000c01
+FILE: data/ko/tr_out/t_089.json
+FLAGS: source fixed: Desert_000c01: English source fixed: stray fragment "solar energy]]" removed after "taken north." Remove it from the Korean if present.
+ENGLISH:
+Landscape receiving little precipitation, and therefore supporting distinctive biomes and ecosystems. About one-third of Earth's land surface is arid or semi-arid. Deserts generally receive less than 250 mm (10 in) of precipitation a year. The category includes polar regions, sometimes called "cold deserts"; [[Antarctica]], about 98% thick continental ice sheet and 2% barren rock, is the world's largest.
+
+[[Weathering]] forms deserts as large day–night temperature swings strain rocks until they break. Occasional downpours cause [[Flash flood|flash floods]], and wind carries sand and dust, sometimes forming sand or dust storms, and abrades surfaces. Sand ends up as level sheets or high [[Dune|dunes]]; other deserts are stony plains whose surfaces form a mosaic of smooth stones known as desert pavement. Temporary lakes and salt pans form where waters evaporate, and oases occur where springs or [[Aquifer|aquifers]] supply water. Deserts reflect more incoming light than forests or the sea, which moderates Earth's temperature.
+
+Plants are tough and wiry, with small or no leaves, water-resistant cuticles, and often spines; some annuals germinate, bloom, and die within weeks of rain, while long-lived plants have deep roots. Many animals are nocturnal, shelter in shade or underground, conserve water, and may lie dormant for long periods before breeding rapidly after rain.
+
+Nomads move flocks to available grazing, and oases support settled life. Cultivating semi-arid regions encourages erosion and desertification, but [[Irrigation|irrigation]] allows farming, as in California's Imperial Valley. Camel caravans carried salt, gold, ivory, and other goods along trade routes across the [[Sahara]], and large numbers of slaves were also taken north.
+
+The word comes from ecclesiastical Latin *dēsertum*, "an abandoned place."
+KOREAN:
+강수량이 적어 독특한 생물군계와 생태계를 이루는 지형. 지구 육지 표면의 약 3분의 1이 건조 또는 반건조 지역이다. 사막은 대체로 연간 강수량이 250 mm(10 in) 미만이다. 극지방도 이에 포함되며 이를 “차가운 사막”이라 부르기도 한다. 약 98%가 두꺼운 대륙 빙상이고 2%가 불모의 암석인 [[Antarctica|남극 대륙]]이 세계에서 가장 크다.
+
+[[Weathering|풍화]]가 사막을 만드는데, 낮과 밤의 큰 기온 차가 암석에 변형을 주어 결국 깨뜨리기 때문이다. 이따금 쏟아지는 호우는 [[Flash flood|돌발 홍수]]를 일으키고, 바람은 모래와 먼지를 실어 날라 때로 모래 폭풍이나 먼지 폭풍을 이루며 표면을 깎는다. 모래는 평평한 판이나 높은 [[Dune|사구]]를 이루고, 어떤 사막은 매끄러운 돌이 모자이크처럼 표면을 이루는 자갈 평원으로, 이를 사막 포도라 한다. 물이 증발하는 곳에는 임시 호수와 염전이 생기고, 샘이나 [[Aquifer|대수층]]이 물을 공급하는 곳에는 오아시스가 생긴다. 사막은 숲이나 바다보다 들어오는 빛을 더 많이 반사해 지구의 기온을 누그러뜨린다.
+
+식물은 억세고 질기며 잎이 작거나 없고, 물을 막는 큐티클을 지니고, 흔히 가시가 있다. 일부 한해살이 식물은 비가 온 뒤 몇 주 안에 싹을 틔우고 꽃을 피우고 죽으며, 오래 사는 식물은 뿌리가 깊다. 많은 동물이 야행성이며, 그늘이나 땅속에서 피하고, 물을 아끼며, 오랫동안 휴면하다가 비가 온 뒤 빠르게 번식하기도 한다.
+
+유목민은 가축 떼를 풀이 있는 곳으로 몰고 다니며, 오아시스는 정착 생활을 뒷받침한다. 반건조 지역을 경작하면 침식과 사막화가 촉진되지만, [[Irrigation|관개]]를 하면 캘리포니아의 임피리얼밸리처럼 농사가 가능하다. 낙타 대상은 [[Sahara|사하라 사막]]을 가로지르는 교역로를 따라 소금, 금, 상아 등을 날랐고, 많은 노예도 북쪽으로 끌려갔다.solar energy]].|solar energy]].
+
+이 말은 “버려진 곳”을 뜻하는 교회 라틴어 *dēsertum*에서 왔다.
+
+
+=== KEY: Dorothy_Hodgkin_101109
+FILE: data/ko/tr_out/t_094.json
+FLAGS: numbers missing ['12,']
+ENGLISH:
+English chemist and pioneer of X-ray crystallography. Hodgkin used the technique to determine the structure of biomolecules, work that became essential to structural biology. She confirmed the structure of [[Penicillin|penicillin]] and mapped that of [[Vitamin B12|vitamin B12]], and in 1964 she received the [[Nobel Prize]] in Chemistry, becoming the third woman to win it. She is the only British woman scientist to have won a Nobel Prize. She was born in Cairo, Egypt, the oldest of four daughters, and her interest in crystals was first displayed at the age of 10. She also elucidated the structure of [[Insulin|insulin]] in 1969, after 35 years of work.
+KOREAN:
+영국의 화학자이자 X선 결정학의 선구자. 호지킨은 이 기법으로 생체 분자의 구조를 밝혔고, 그 작업은 구조생물학에 필수적인 것이 되었다. [[Penicillin|페니실린]]의 구조를 확인하고 [[Vitamin B12|비타민 B₁₂]]의 구조를 규명했으며, 1964년 [[Nobel Prize|노벨상]] 화학상을 받아 이를 받은 세 번째 여성이 되었다. 노벨상을 받은 영국 여성 과학자는 그가 유일하다. 그는 이집트 카이로에서 네 딸 중 맏이로 태어났으며 결정에 대한 관심은 열 살 때 처음 드러났다. 1969년에는 35년의 연구 끝에 [[Insulin|인슐린]]의 구조도 밝혀냈다.
+
+
+=== KEY: Elijah_01c301
+FILE: data/ko/tr_out/t_103.json
+FLAGS: numbers missing ['1']
+ENGLISH:
+Prophet and miracle worker of the northern Kingdom of Israel. According to the Books of Kings in the [[Hebrew Bible|Hebrew Bible]], Elijah lived during the reign of King Ahab in the 9th century BC. In 1 Kings 18 he defended the worship of [[Yahweh|Yahweh]] against that of the Canaanite deity [[Baal|Baal]]. He is credited with miracles including resurrection and an ascent to heaven, and his disciple Elisha succeeded him. Scholars generally agree that a historical figure named Elijah existed, although the biblical accounts are considered more legendary than historically accurate. In [[Judaism|Judaism]], his name is invoked at the weekly Havdalah rite that ends Shabbat, and some Jewish interpretations expect him to return at the end of times. The New Testament identifies John the Baptist as the Elijah promised in Malachi. The [[Quran|Quran]] presents him as a prophet, and he is venerated as the patron saint of [[Bosnia and Herzegovina|Bosnia and Herzegovina]].
+KOREAN:
+북쪽 이스라엘 왕국의 예언자이자 기적을 행한 인물. [[Hebrew Bible|히브리어 성경]]의 열왕기에 따르면 엘리야는 기원전 9세기 아합 왕의 치세에 살았다. 열왕기 상권 18장에서 그는 가나안의 신 [[Baal|바알]] 숭배에 맞서 [[Yahweh|야훼]] 숭배를 지켰다. 부활과 승천을 포함한 기적을 행했다고 전해지며, 그의 제자 엘리사가 뒤를 이었다. 학자들은 대체로 엘리야라는 이름의 역사적 인물이 존재했다는 데 동의하지만, 성경의 기록은 역사적 정확성보다는 전설에 가깝다고 본다. [[Judaism|유대교]]에서는 안식일을 끝내는 주간 하브달라 의식에서 그의 이름을 부르며, 일부 유대교 해석은 그가 종말에 돌아오리라고 기대한다. 신약 성경은 세례자 요한을 말라기에서 약속된 엘리야로 본다. [[Quran|쿠란]]은 그를 예언자로 소개하며, 그는 [[Bosnia and Herzegovina|보스니아 헤르체고비나]]의 수호성인으로 공경받는다.
+
+
+=== KEY: Fertilizer_cd2488
+FILE: data/ko/tr_out/t_115.json
+FLAGS: numbers missing ['1920']
+ENGLISH:
+Natural or synthetic material applied to soil or plant tissues to supply plant nutrients. Modern practice centers on three macronutrients: [[Nitrogen|nitrogen]] (N), [[Phosphorus|phosphorus]] (P), and [[Potassium|potassium]] (K). Historically, fertilization relied on compost, animal and human manure, harvested minerals, crop rotation, and byproducts such as fish waste and bloodmeal.
+
+In the 19th century, following discoveries by [[Justus von Liebig]], an industry developed around synthetic fertilizers. John Bennet Lawes began experimenting with manures in 1837 and in 1842 patented a manure made by treating phosphates with sulfuric acid, founding the artificial manure industry. The Birkeland–Eyde process, which fixed atmospheric nitrogen into nitric acid, was an early competitor, with factories built in Norway. In the 1910s and 1920s the [[Haber process]], which makes ammonia from natural gas and nitrogen in air, came to dominate. Wartime plants were redirected to agriculture after World War II, and nitrogen fertilizer use rose by 800% between 1961 and 2019, a crucial component of the [[Green Revolution]]. Phosphate use rose from 9 million tonnes per year in 1960 to 40 million in 2000. In 2021, agricultural use of inorganic fertilizers was 195 million tonnes of nutrients, of which 56% was nitrogen; Asia accounted for 53%.
+
+It is estimated that a third of annual global food production uses ammonia from the Haber–Bosch process and that synthetic nitrogen feeds almost half the world's population. Excessive application can cause [[Water pollution|water pollution]] and eutrophication through nutrient runoff, and production emits carbon and other byproducts. Some mined fertilizers accumulate heavy metals in soil. Reduced tillage and planting buffer strips can limit these effects.
+KOREAN:
+식물 영양분을 공급하기 위해 토양이나 식물 조직에 시용하는 천연 또는 합성 물질. 현대의 관행은 세 가지 다량 영양소, 곧 [[Nitrogen|질소]](N), [[Phosphorus|인]](P), [[Potassium|칼륨]](K)을 중심으로 한다. 역사적으로 시비는 퇴비, 동물과 인간의 분뇨, 채굴한 광물, 윤작, 그리고 생선 찌꺼기와 혈분 같은 부산물에 의존했다.
+
+19세기에 [[Justus von Liebig|유스투스 폰 리비히]]의 발견 이후 합성 비료 산업이 발달했다. 존 베넷 로스는 1837년 분뇨 실험을 시작했고 1842년에 인산염을 황산으로 처리해 만든 비료의 특허를 얻어 인공 비료 산업을 열었다. 대기 중 질소를 질산으로 고정하는 버켈란-아이데법은 초기의 경쟁자였으며 노르웨이에 공장이 세워졌다. 1910~20년대에는 천연가스와 공기 중 질소로 암모니아를 만드는 [[Haber process|하버법]]이 지배적이 되었다. 전시 공장은 제2차 세계 대전 후 농업용으로 전환되었고, 질소 비료 사용량은 1961년부터 2019년 사이에 800% 증가해 [[Green Revolution|녹색 혁명]]의 핵심 요소가 되었다. 인산염 사용량은 1960년 연간 900만 톤에서 2000년 4,000만 톤으로 늘었다. 2021년 무기질 비료의 농업용 사용량은 영양분 기준 1억 9,500만 톤이었고, 이 가운데 56%가 질소였으며 아시아가 53%를 차지했다.
+
+연간 세계 식량 생산의 3분의 1이 하버-보쉬법의 암모니아를 사용하며 합성 질소가 세계 인구의 거의 절반을 먹여 살리는 것으로 추정된다. 과도한 시비는 양분 유출을 통해 [[Water pollution|수질 오염]]과 부영양화를 일으킬 수 있고, 생산 과정에서는 탄소와 기타 부산물이 배출된다. 채굴된 일부 비료는 토양에 중금속을 축적시킨다. 감경운과 완충대 조성은 이러한 영향을 제한할 수 있다.
+
+
+=== KEY: Funk_028b28
+FILE: data/ko/tr_out/t_124.json
+FLAGS: numbers missing ['1980']
+ENGLISH:
+Music genre that originated in African-American communities in the mid-1960s. It deemphasizes melody and chord progressions in favor of a strong rhythmic groove built on a bassline and a drum part, often at slower tempos than other popular music. Early funk, mainly through [[James Brown]], fused [[Jazz|jazz]] and [[Blues|blues]] and added a syncopated drum groove, emphasizing the first beat of each measure. In the late 1960s, Sly and the Family Stone and Parliament-Funkadelic broadened the genre, and groups such as Kool and the Gang and Earth, Wind & Fire developed it in the 1970s and 1980s. Funk derivatives include boogie, funk metal and G-funk, and Washington go-go is a funk subgenre. Funk samples and breakbeats have been used extensively in [[Hip-hop]] and [[Electronic dance music|electronic dance music]].
+KOREAN:
+1960년대 중반 아프리카계 미국인 공동체에서 시작된 음악 장르. 멜로디와 화성 진행을 덜 강조하는 대신 베이스 라인과 드럼 파트를 바탕으로 한 강한 리듬 그루브를 중시하며, 다른 대중음악보다 느린 템포인 경우가 많다. 초기 펑크는 주로 [[James Brown|제임스 브라운]]을 통해 [[Jazz|재즈]]와 [[Blues|블루스]]를 융합하고 당김음이 들어간 드럼 그루브를 더했으며, 각 마디의 첫 박을 강조했다. 1960년대 말에는 슬라이 앤드 더 패밀리 스톤과 팔리아먼트-펑카델릭이 이 장르의 폭을 넓혔고, 쿨 앤드 더 갱, 어스 윈드 앤드 파이어 같은 그룹이 1970~80년대에 이를 발전시켰다. 펑크에서 파생된 장르로는 부기, 펑크 메탈, 지펑크가 있으며, 워싱턴주의 고고는 펑크의 하위 장르이다. 펑크의 샘플과 브레이크비트는 [[Hip-hop|힙합]]과 [[Electronic dance music|일렉트로닉 댄스 뮤직]]에 널리 쓰여 왔다.
+
+
+=== KEY: Geologic_time_scale_21225a
+FILE: data/ko/tr_out/t_129.json
+FLAGS: numbers missing ['4.54']
+ENGLISH:
+Standardized system relating rock strata to geologic time. It arranges the rock record in chronological order using chronostratigraphy, and uses [[Geochronology|geochronology]], such as radiometric dating, to date the boundaries between units. The scale covers about 4.54 ± 0.05 billion years of Earth history. International units are defined by the International Commission on Stratigraphy (ICS), a constituent body of the International Union of Geological Sciences. The [[Phanerozoic]] eon is split into the [[Paleozoic]], [[Mesozoic]] and [[Cenozoic]] eras, each subdivided into periods such as the [[Cretaceous]] and [[Quaternary]]. Boundaries are ratified through Global Boundary Stratotype Sections and Points (GSSPs), which are reference rock layers. The base of the Quaternary was adjusted to 2.58 million years in 2009 on climatic and glacial evidence.
+KOREAN:
+암석 지층을 지질 시대와 연관 짓는 표준화된 체계. 연대층서학을 이용해 암석 기록을 시간순으로 배열하고, 방사성 연대 측정 같은 [[Geochronology|지질연대학]]을 이용해 단위 사이의 경계 연대를 정한다. 이 시간표는 약 45억 4000만 ± 5000만 년에 이르는 지구의 역사를 아우른다. 국제 단위는 국제지질과학연맹의 구성 기구인 국제층서위원회(ICS)가 정의한다. [[Phanerozoic|현생누대]]는 [[Paleozoic|고생대]], [[Mesozoic|중생대]], [[Cenozoic|신생대]]의 대로 나뉘고, 각 대는 [[Cretaceous|백악기]]와 [[Quaternary|제4기]] 같은 기로 세분된다. 경계는 기준 암석층인 국제 경계 모식층 단면 및 지점(GSSP)을 통해 승인된다. 제4기의 기저는 기후 및 빙하 증거에 따라 2009년에 258만 년으로 조정되었다.
+
+
+=== KEY: Granary_230b36
+FILE: data/ko/tr_out/t_136.json
+FLAGS: links differ, dropped ['Great Britain'], added []
+ENGLISH:
+Post-harvest storage building for grain or seeds, usually raised above the ground. Granaries protect stored grain from [[Rodent|rodents]], pests, [[Flood|floods]] and bad weather, and they help dry grain to prevent mold. The oldest known granaries date to 9500 BC in the Jordan Valley. In [[Ancient Egypt]], grain was stored against years of scarcity. In the South Hams of southwest [[Great Britain]], small granaries were built on mushroom-shaped stumps called staddle stones. Historically a [[Silo|silo]] was a pit for grain, distinct from the above-ground granary. Modern granaries may use ventilation and temperature control to preserve grain quality, and modern grain farms often use steel granaries.
+KOREAN:
+곡식이나 씨앗을 수확 후 보관하는 건물로, 보통 지면에서 띄워 짓는다. 곡물 창고는 저장된 곡식을 [[Rodent|설치류]], 해충, [[Flood|홍수]], 악천후로부터 보호하며 곡식을 말려 곰팡이를 막는 데 도움이 된다. 알려진 가장 오래된 곡물 창고는 기원전 9500년 요르단 계곡의 것이다. [[Ancient Egypt|고대 이집트]]에서는 흉년에 대비해 곡식을 저장했다. 그레이트브리튼섬 남서부의 사우스햄스에서는 스태들 스톤이라 불리는 버섯 모양의 그루터기 위에 작은 곡물 창고를 지었다. 역사적으로 [[Silo|사일로]]는 곡식을 저장하던 구덩이로, 지상의 곡물 창고와는 구별되었다. 현대의 곡물 창고는 환기와 온도 조절 장치를 사용해 곡물의 품질을 보존하기도 하며, 현대의 곡물 농장은 흔히 강철 곡물 창고를 쓴다.
+
+
+=== KEY: Hermann_von_Helmholtz_43bda3
+FILE: data/ko/tr_out/t_149.json
+FLAGS: links differ, dropped ['Conservation of energy'], added []
+ENGLISH:
+German physicist and physician. He is remembered for linking theory with practical research. His work on the eye included theories of vision, the visual perception of space, and [[Color vision|color vision]], and he invented the ophthalmoscope in 1851. He is credited with the first formulation of the [[Conservation of energy|conservation of energy]] principle in its maximally general form, although credit is shared with Julius von Mayer, James Joule, and [[Daniel Bernoulli]]. In physics he also worked on electrodynamics, chemical thermodynamics, and hydrodynamic stability. As a philosopher he examined the relation between the laws of perception and the laws of nature, drawing on [[Immanuel Kant|Kant]]. He held chairs at Königsberg, Bonn, and Heidelberg before becoming professor of physics at the University of [[Berlin]] in 1871. The Helmholtz Association, the largest German association of research institutions, is named after him.
+KOREAN:
+독일의 물리학자이자 의사. 이론을 실용적 연구와 연결한 인물로 기억된다. 눈에 관한 연구에는 시각 이론, 공간의 시지각, [[Color vision|색각]]이 포함되며, 1851년 검안경을 발명했다. 그는 에너지 보존 원리를 가장 일반적인 형태로 처음 정식화한 것으로 인정받지만, 그 공은 율리우스 폰 마이어, 제임스 줄, [[Daniel Bernoulli|다니엘 베르누이]]와 나누어 갖는다. 물리학에서는 전기역학, 화학 열역학, 유체역학적 안정성도 연구했다. 철학자로서는 [[Immanuel Kant|칸트]]에 의지하여 지각의 법칙과 자연의 법칙 사이의 관계를 탐구했다. 쾨니히스베르크, 본, 하이델베르크에서 교수직을 맡은 뒤 1871년 [[Berlin|베를린]] 대학교의 물리학 교수가 되었다. 독일 최대의 연구 기관 연합인 헬름홀츠 협회는 그의 이름을 따서 지어졌다.
+
+
+=== KEY: I_Have_a_Dream_f3bee3
+FILE: data/ko/tr_out/t_161.json
+FLAGS: polite ending
+ENGLISH:
+Speech by [[Martin Luther King Jr.]] delivered on August 28, 1963, at the March on Washington for Jobs and Freedom. Delivered to over 250,000 civil rights supporters from the steps of the Lincoln Memorial in [[Washington, D.C.]], it called for civil and economic rights and an end to legalized racism in the United States. King departed from his prepared text to improvise the peroration on the theme "I have a dream." Ranked the top American speech of the 20th century in a 1999 poll of public-address scholars, it is among the most iconic speeches in American history.
+KOREAN:
+1963년 8월 28일 일자리와 자유를 위한 워싱턴 행진에서 [[Martin Luther King Jr.|마틴 루서 킹 주니어]]가 한 연설. [[Washington, D.C.|워싱턴 D.C.]] 링컨 기념관 계단에서 25만 명이 넘는 민권 지지자들에게 행해졌으며, 시민권과 경제적 권리, 그리고 미국 내 합법화된 인종 차별의 종식을 촉구했다. 킹은 준비한 원고에서 벗어나 “나에게는 꿈이 있습니다”라는 주제로 결론부를 즉흥적으로 이어 갔다. 1999년 공개 연설 학자들을 대상으로 한 조사에서 20세기 미국 최고의 연설로 꼽혔으며, 미국 역사에서 가장 상징적인 연설의 하나로 평가된다.
+
+
+=== KEY: Insurance_eaff1b
+FILE: data/ko/tr_out/t_166.json
+FLAGS: numbers missing ['533']
+ENGLISH:
+Means of protection from financial loss in which, for a fee, one party agrees to compensate another for a certain loss, damage, or injury.
+
+A form of risk management, it protects against contingent or uncertain loss. The insurer issues a policy detailing when it will compensate the insured or a designated beneficiary. The policyholder pays a premium, accepting a small known loss for the promise of compensation, usually for something in which the insured has an insurable interest. After a loss, the insured submits a claim, processed by a claims adjuster. Insurers rely on the [[Law of large numbers|law of large numbers]] to forecast aggregate losses.
+
+The Lex Rhodia, the general average principle of marine insurance, was established on [[Rhodes]] in approximately 1000 to 800 BC and preserved in the *Digesta* ordered by [[Justinian I]] in 533. Direct insurance of sea risks for a premium began in [[Belgium]] about 1300 AD, and separate insurance contracts were invented in [[Genoa]] in the 14th century; the first known dates from 1347. The earliest known life insurance policy was made at the Royal Exchange, [[London]], on June 18, 1583, for £383, 6s. 8d. on the life of William Gibbons.
+
+Property insurance can be traced to the [[Great Fire of London]] in 1666, which destroyed more than 13,000 houses. In 1681 Nicholas Barbon and eleven associates established the first fire insurance company, the "Insurance Office for Houses". Insurance faces moral hazard, in which insured parties may take more risks, and insurer insolvency during correlated losses; regulation enforces solvency, transparency, and fair practices.
+KOREAN:
+일정한 비용을 받고 한쪽이 다른 쪽의 특정한 손실, 손해 또는 상해를 보상하기로 약속하는, 금전적 손실로부터의 보호 수단.
+
+위험 관리의 한 형태로, 우발적이거나 불확실한 손실에 대비한다. 보험자는 언제 피보험자나 지정 수익자에게 보상할지를 상세히 밝힌 보험 증권을 발행한다. 보험 계약자는 보험료를 내어 작고 확실한 손실을 감수하는 대신 보상의 약속을 얻으며, 대개 피보험자가 피보험 이익을 가진 대상에 대해 그렇게 한다. 손실이 발생하면 피보험자가 청구를 제출하고, 손해 사정인이 이를 처리한다. 보험자는 [[Law of large numbers|큰 수의 법칙]]에 의존하여 전체 손실을 예측한다.
+
+해상 보험의 공동 해손 원칙인 로도스 해법은 기원전 약 1000~800년에 [[Rhodes|로도스섬]]에서 확립되었고, [[Justinian I|유스티니아누스 1세]]가 편찬을 명한 『학설휘찬』(*Digesta*)에 보존되었다. 보험료를 받고 바다의 위험을 직접 보장하는 보험은 서기 1300년경 [[Belgium|벨기에]]에서 시작되었고, 독립된 보험 계약은 14세기 [[Genoa|제노바]]에서 고안되었으며 알려진 가장 오래된 것은 1347년의 것이다. 알려진 가장 오래된 생명 보험 증권은 1583년 6월 18일 [[London|런던]]의 왕립 거래소에서 윌리엄 기번스의 생명에 대해 383파운드 6실링 8펜스로 작성되었다.
+
+재산 보험은 1666년 1만 3천 채가 넘는 집을 파괴한 [[Great Fire of London|런던 대화재]]에서 기원을 찾을 수 있다. 1681년 니컬러스 바번과 동료 11명은 최초의 화재 보험 회사인 “주택 보험 사무소”를 설립했다. 보험은 피보험자가 더 큰 위험을 감수할 수 있는 도덕적 해이와, 손실이 연쇄적으로 발생할 때 보험자가 지급 불능에 빠지는 문제에 직면하며, 규제는 지급 능력, 투명성, 공정한 관행을 강제한다.
+
+
+=== KEY: Java_d52387
+FILE: data/ko/tr_out/t_174.json
+FLAGS: numbers missing ['1940']
+ENGLISH:
+Island of Indonesia, one of the Greater Sunda Islands, bordered by the Indian Ocean to the south and the Java Sea to the north. It is the world's most populous island, with about 56% of the Indonesian population on only 7% of its land area. It is the world's 13th largest island. [[Jakarta]], Indonesia's capital, lies on its northwestern coast. Java dominates Indonesia politically, economically, and culturally.
+
+The island was formed by volcanic eruptions caused by the subduction of the Australian Plate under the Sunda Plate. A chain of volcanic mountains forms its east–west spine, and the highest, Mount Semeru, reaches 3,676 m. Mount Merapi is the most active volcano in Java and in Indonesia. The mountains split the interior into relatively isolated regions suited to wet-rice cultivation, and its rice lands are among the richest in the world. Indonesian coffee was first grown on Java, beginning in 1699. Java is divided into four provinces, Banten, West Java, Central Java, and East Java, and two special regions, Jakarta and Yogyakarta.
+
+Four main languages are spoken: Javanese, Sundanese, Madurese, and Betawi. Javanese and Sundanese are the most widely spoken; the Javanese live in the central and eastern parts and the Sundanese in the west. The majority are Muslim, but the population includes diverse religious beliefs.
+
+Java was the center of powerful Hindu-Buddhist empires and Islamic sultanates, and the core of the colonial [[Dutch East Indies]]. It was also the center of the Indonesian struggle for independence in the 1930s and 1940s. Five of Indonesia's ten UNESCO World Heritage Sites are on Java, among them Borobudur, Prambanan, Ujung Kulon National Park, and Yogyakarta.
+KOREAN:
+인도네시아의 섬으로 대순다 열도의 하나이며, 남쪽은 인도양, 북쪽은 자와해와 접한다. 세계에서 인구가 가장 많은 섬으로, 인도네시아 인구의 약 56%가 국토 면적의 7%에 불과한 이곳에 산다. 세계에서 13번째로 큰 섬이다. 인도네시아의 수도 [[Jakarta|자카르타]]는 섬의 북서쪽 해안에 있다. 자와섬은 인도네시아의 정치, 경제, 문화를 지배한다.
+
+이 섬은 오스트레일리아판이 순다판 아래로 섭입하면서 일어난 화산 분출로 형성되었다. 화산으로 이루어진 산맥이 동서로 등뼈를 이루며, 가장 높은 스메루산은 3,676 m에 이른다. 므라피산은 자와섬과 인도네시아에서 가장 활동적인 화산이다. 산들이 내륙을 비교적 고립된 지역들로 나누며 이곳은 논벼 재배에 적합하고, 쌀 생산지는 세계에서 가장 비옥한 축에 속한다. 인도네시아 커피는 1699년부터 자와섬에서 처음 재배되었다. 섬은 반텐, 서자와주, 중부자와주, 동자와주의 네 개 주와 자카르타, 욕야카르타의 두 개 특별구로 나뉜다.
+
+자와어, 순다어, 마두라어, 브타위어의 네 가지 주요 언어가 쓰인다. 자와어와 순다어가 가장 널리 쓰이며, 자와인은 중부와 동부에, 순다인은 서부에 산다. 다수는 무슬림이지만 주민 중에는 다양한 종교를 믿는 사람들도 있다.
+
+자와섬은 강력한 힌두교·불교 제국과 이슬람 술탄국의 중심지였고, 식민지 [[Dutch East Indies|네덜란드령 동인도]]의 핵심이었다. 1930~40년대 인도네시아 독립 투쟁의 중심지이기도 했다. 인도네시아의 유네스코 세계유산 열 곳 중 다섯 곳이 자와섬에 있으며, 보로부두르, 프람바난, 우중쿨론 국립공원, 욕야카르타가 그에 속한다.
+
+
+=== KEY: Kim_Basinger_6a29a5
+FILE: data/ko/tr_out/t_187.json
+FLAGS: numbers missing ['9'] | links differ, dropped ['James Bond'], added []
+ENGLISH:
+American actress. After working as a model, she switched to acting in 1976 and first gained widespread attention as Domino Petachi in the [[James Bond|James Bond]] film *Never Say Never Again* (1983). Her highest-grossing film was *Batman* (1989), in which she played Vicki Vale. She won the Academy Award for Best Supporting Actress for her femme fatale role in *L.A. Confidential* (1997). Her other films include *The Natural* (1984), for which she received a Golden Globe nomination, and *9½ Weeks* (1986). She has a star on the [[Hollywood Walk of Fame]].
+KOREAN:
+미국 배우. 모델로 일하다 1976년 연기로 전향했으며, 영화 「네버 세이 네버 어게인」(1983)에서 도미노 페타치를 연기해 처음으로 폭넓은 주목을 받았다. 흥행 수입이 가장 높은 출연작은 「배트맨」(1989)으로, 비키 베일을 연기했다. 「L.A. 컨피덴셜」(1997)의 팜 파탈 역으로 아카데미 여우조연상을 받았다. 그 밖의 출연작으로는 골든글로브상 후보에 오른 「내추럴」(1984)과 「나인 하프 위크」(1986)가 있다. [[Hollywood Walk of Fame|할리우드 명예의 거리]]에 별이 있다.
+
+
+=== KEY: LeBron_James_2cb41f
+FILE: data/ko/tr_out/t_195.json
+FLAGS: numbers missing ['76']
+ENGLISH:
+American [[Basketball|basketball]] forward, nicknamed King James. He plays for the Philadelphia 76ers of the [[National Basketball Association|NBA]], having joined them in 2026, and he is the league's all-time leading scorer. The [[Cleveland]] Cavaliers made him the first overall pick in the 2003 draft, straight out of high school. He won four NBA championships with the Cavaliers, the [[Miami]] Heat and the [[Los Angeles Lakers]], and became the first player named Finals MVP with three different teams. James has won four NBA MVP awards and has been selected for the All-Star roster a record 22 times. He also won three Olympic gold medals with the U.S. national team. [[Forbes]] listed him among the world's ten highest-paid athletes 15 times.
+KOREAN:
+미국의 [[Basketball|농구]] 포워드로, 별명은 킹 제임스. [[National Basketball Association|NBA]]의 필라델피아 세븐티식서스에서 뛰고 있으며 2026년에 이 팀에 합류했고, 리그 역대 최다 득점자이다. 2003년 드래프트에서 [[Cleveland|클리블랜드]] 캐벌리어스가 고등학교를 갓 졸업한 그를 전체 1순위로 지명했다. 캐벌리어스, [[Miami|마이애미]] 히트, [[Los Angeles Lakers|로스앤젤레스 레이커스]]에서 NBA 우승을 네 차례 차지했으며, 세 팀에서 파이널 MVP로 뽑힌 최초의 선수가 되었다. 제임스는 NBA 최우수 선수상을 네 차례 받았고 올스타 명단에는 최다 기록인 22회 선정되었다. 또한 미국 대표팀과 함께 올림픽 금메달을 세 번 땄다. [[Forbes|『포브스』]]는 그를 세계에서 가장 많은 돈을 버는 운동선수 열 명 가운데 한 명으로 15차례 꼽았다.
+
+
+=== KEY: Lily_Tomlin_17f44f
+FILE: data/ko/tr_out/t_199.json
+FLAGS: numbers missing ['5', '9']
+ENGLISH:
+American actress and comedian. Tomlin began in [[Stand-up comedy|stand-up comedy]] and became known on the variety show *Rowan & Martin's Laugh-In* (1969–1973). Her one-woman Broadway show *The Search for Signs of Intelligent Life in the Universe*, written by Jane Wagner, won a Tony Award for Best Actress in a Play. Her film debut was *Nashville* (1975), for which she received an Academy Award nomination. She starred with [[Jane Fonda]] in *9 to 5* (1980) and in the [[Netflix]] series *Grace and Frankie* (2015–2022). Tomlin has won seven Emmy Awards and a Grammy Award and received the Kennedy Center Honor in 2014.
+KOREAN:
+미국의 여배우이자 코미디언. 톰린은 [[Stand-up comedy|스탠드업 코미디]]로 시작해 버라이어티 쇼 *Rowan & Martin's Laugh-In*(1969~1973)으로 이름을 알렸다. 제인 와그너가 쓴 1인 브로드웨이 쇼 『The Search for Signs of Intelligent Life in the Universe』로 토니상 연극 부문 여우주연상을 받았다. 영화 데뷔작 「내슈빌」(1975)로 아카데미상 후보에 올랐다. [[Jane Fonda|제인 폰다]]와 함께 「나인 투 파이브」(1980)에, [[Netflix|넷플릭스]] 시리즈 「그레이스 앤 프랭키」(2015~2022)에 출연했다. 톰린은 에미상을 일곱 차례, 그래미상을 한 차례 받았고 2014년 케네디 센터 공로상을 받았다.
+
+
+=== KEY: Lost_Cause_of_the_Confederacy_1e57df
+FILE: data/ko/tr_out/t_203.json
+FLAGS: numbers missing ['1960']
+ENGLISH:
+Pseudohistorical myth of the [[American Civil War|American Civil War]] holding that the Confederate cause was morally just and not centered on slavery. First articulated in 1866 by journalist Edward A. Pollard in *The Lost Cause: A New Southern History of the War of the Confederates*, it blamed states' rights and Northern aggression for the war. Its proponents built Confederate monuments and wrote history textbooks. The myth peaked at the turn of the 20th century and again during the [[Civil rights movement]] of the 1950s and 1960s. Critics argue that it sustained [[White supremacy|white supremacist]] policies such as Jim Crow laws.
+KOREAN:
+남부 연합의 대의는 도덕적으로 정당했으며 노예제를 중심으로 한 것이 아니었다고 주장하는 [[American Civil War|남북 전쟁]]에 관한 유사 역사적 신화. 1866년 언론인 에드워드 A. 폴러드가 『잃어버린 대의: 남부 연합 전쟁의 새로운 남부 역사』에서 처음 체계화했으며, 전쟁의 책임을 주의 권리와 북부의 침략에 돌렸다. 이 신화의 지지자들은 남부 연합 기념물을 세우고 역사 교과서를 썼다. 이 신화는 20세기 전환기와 1950~60년대 [[Civil rights movement|민권 운동]] 시기에 다시 정점에 이르렀다. 비평가들은 이 신화가 짐 크로 법 같은 [[White supremacy|백인 우월주의]] 정책을 떠받쳤다고 주장한다.
+
+
+=== KEY: Mammoth_f0ecad
+FILE: data/ko/tr_out/t_209.json
+FLAGS: numbers missing ['700']
+ENGLISH:
+Extinct elephantid genus, *Mammuthus*, related to modern [[Elephant|elephants]]. Mammoths lived from the late [[Miocene]] (around 6.2 million years ago) into the [[Holocene]] and inhabited Africa, Asia, Europe, and North America at various times. They are distinguished from living elephants by spirally twisted tusks and, in some later species, a thick coat of fur. The oldest species, *Mammuthus subplanifrons*, appeared in southern and eastern Africa around 6 million years ago. The [[Woolly mammoth]] (*M. primigenius*) evolved 700–400,000 years ago in [[Siberia]], and survived on Wrangel Island in the [[Arctic Ocean]] until about 4,000 years ago. Mammoths and [[Asian elephant|Asian elephants]] are more closely related to each other than either is to African elephants. In 1796 the French biologist [[Georges Cuvier]] first identified woolly mammoth remains as an extinct species.
+KOREAN:
+멸종한 코끼리과의 속인 *Mammuthus*로, 현생 [[Elephant|코끼리]]와 가까운 관계에 있다. 매머드는 후기 [[Miocene|마이오세]](약 620만 년 전)부터 [[Holocene|홀로세]]까지 살았으며 시기에 따라 아프리카, 아시아, 유럽, 북아메리카에 서식했다. 나선형으로 꼬인 엄니와, 일부 후대 종에서는 두꺼운 털가죽으로 현생 코끼리와 구별된다. 가장 오래된 종인 *Mammuthus subplanifrons*는 약 600만 년 전 아프리카 남부와 동부에 나타났다. [[Woolly mammoth|털매머드]](*M. primigenius*)는 [[Siberia|시베리아]]에서 70만~40만 년 전에 진화했고, [[Arctic Ocean|북극해]]의 브랑겔섬에서 약 4,000년 전까지 살아남았다. 매머드와 [[Asian elephant|아시아코끼리]]는 둘 중 어느 쪽도 아프리카코끼리와보다 서로 더 가까운 관계에 있다. 1796년 프랑스 생물학자 [[Georges Cuvier|조르주 퀴비에]]가 털매머드 유해를 멸종한 종의 것으로 처음 밝혔다.
+
+
+=== KEY: Milky_Way_84d9f6
+FILE: data/ko/tr_out/t_223.json
+FLAGS: numbers missing ['0.034', '4.100'] | links differ, dropped ['Sagittarius A*'], added ['Sagittarius A']
+ENGLISH:
+[[Barred spiral galaxy]] that includes the [[Solar System]]; also called the Milky Way Galaxy or simply the Galaxy. The name describes its appearance from Earth: a hazy band of light in the night sky formed by stars in other arms of the galaxy, too distant to be distinguished individually by the naked eye.
+
+[[Galileo Galilei]] first resolved the band into individual stars with his telescope in 1610. Until the early 1920s most astronomers thought it contained all the stars in the universe. After the 1920 Great Debate between Harlow Shapley and Heber Doust Curtis, observations by [[Edwin Hubble]] in 1923 showed it to be only one of many galaxies.
+
+The galaxy has a D25 isophotal diameter estimated at 26.8 ± 1.1 kiloparsecs (87,400 ± 3,600 light-years), and is surrounded by a dark matter area whose total diameter may approach 613 kpc (2 million light-years). The stars in the innermost 10,000 light-years form a bulge, from which the bar radiates. At the center is the intense radio source [[Sagittarius A*]], a supermassive black hole with a mass of 4.100 (±0.034) million solar masses. It is estimated to contain 100–400 billion stars. Its total mass, including [[Dark matter]], is estimated at 1.5 trillion solar masses.
+
+The galaxy is estimated to have formed around 13.6 billion years ago and has grown through mergers with smaller galaxies. The Solar System lies on the inner edge of the Orion Arm, about 27,000 light-years (8.3 kpc) from the Galactic Center, and takes about 240 million years to orbit it. The Milky Way has several satellite galaxies and belongs to the [[Local Group]], part of the Virgo Supercluster, itself a component of the [[Laniakea Supercluster]].
+KOREAN:
+[[Solar System|태양계]]를 포함하는 [[Barred spiral galaxy|막대나선은하]]로, 우리은하 또는 간단히 은하라고도 한다. 이름은 지구에서 보이는 모습을 가리키는데, 은하의 다른 팔에 있는 별들이 너무 멀어 맨눈으로는 하나하나 구별되지 않아 밤하늘에 희뿌연 빛의 띠로 보이는 것이다.
+
+[[Galileo Galilei|갈릴레오 갈릴레이]]는 1610년 망원경으로 이 띠를 처음으로 개별 별들로 분해했다. 1920년대 초까지 대부분의 천문학자는 이것이 우주의 모든 별을 포함한다고 생각했다. 할로 섀플리와 히버 다우스트 커티스 사이의 1920년 대논쟁 이후, [[Edwin Hubble|에드윈 허블]]의 1923년 관측은 이것이 수많은 은하 가운데 하나일 뿐임을 보여 주었다.
+
+이 은하의 D25 등광도 지름은 26.8 ± 1.1 킬로파섹(87,400 ± 3,600광년)으로 추정되며, 전체 지름이 613 kpc(200만 광년)에 이를 수 있는 암흑 물질 영역에 둘러싸여 있다. 가장 안쪽 10,000광년의 별들은 팽대부를 이루며, 여기서 막대가 뻗어 나온다. 중심에는 강력한 전파원인 [[Sagittarius A|궁수자리 A]]가 있는데, 이는 질량이 410만(±3.4만) 태양 질량인 초대질량 블랙홀이다. 별은 1,000억~4,000억 개를 포함하는 것으로 추정된다. [[Dark matter|암흑 물질]]을 포함한 총질량은 1.5조 태양 질량으로 추정된다.
+
+이 은하는 약 136억 년 전에 형성된 것으로 추정되며 더 작은 은하들과의 병합을 통해 성장해 왔다. 태양계는 오리온자리 나선팔의 안쪽 가장자리에 있으며 은하 중심에서 약 27,000광년(8.3 kpc) 떨어져 있고, 은하 중심을 한 바퀴 도는 데 약 2억 4천만 년이 걸린다. 우리은하에는 여러 위성 은하가 있으며 [[Local Group|국부 은하군]]에 속하는데, 국부 은하군은 처녀자리 초은하단의 일부이고 처녀자리 초은하단은 다시 [[Laniakea Supercluster|라니아케아 초은하단]]의 구성 요소이다.
+
+
+=== KEY: New_York_City_d97e02
+FILE: data/ko/tr_out/t_238.json
+FLAGS: numbers missing ['7']
+ENGLISH:
+City (pop., 2026 est.: 8,586,038), largest in the United States, at the southern tip of New York State on New York Harbor. It comprises five boroughs, Manhattan, Brooklyn, Queens, the Bronx, and Staten Island, each coextensive with its county. Covering 778.2 sq km, it is the most densely populated major city in the country, with more than double the population of Los Angeles. Its metropolitan area has more than 20.1 million residents, the largest in the U.S.
+
+The area was home to Munsee-speaking Lenape. Henry Hudson visited the harbor in 1609 while searching for the Northwest Passage for the [[Dutch East India Company]]. Dutch colonists established Fort Amsterdam on [[Manhattan]] around 1624; the settlement was named New Amsterdam in 1626 and chartered as a city in 1653. England took control in 1664 and renamed it for the Duke of York, later [[James II of England|James II]]; the name was made permanent in 1674. New York was the national capital from 1785 until 1790, and the modern city was formed by the 1898 consolidation of its boroughs. Between 1892 and 1954 more than 12 million immigrants entered the United States through [[Ellis Island]].
+
+Anchored by [[Wall Street]] in the Financial District, the city is a global center of finance, commerce, technology, media, culture, and fashion. The metropolitan area had a gross metropolitan product of over US$2.44 trillion in 2024. The [[New York Stock Exchange]] and [[Nasdaq]] are the world's two largest stock exchanges by market capitalization of listed companies. The city is the headquarters of the [[United Nations]]. It leads the world in urban automobile traffic congestion despite its 24/7 rapid transit system.
+KOREAN:
+미국 최대의 도시(인구, 2026년 추정: 8,586,038명)로, 뉴욕주 남쪽 끝 뉴욕항에 있다. 맨해튼, 브루클린, 퀸스, 브롱크스, 스태튼아일랜드의 다섯 자치구로 이루어지며, 각 자치구는 하나의 카운티와 경계가 일치한다. 면적은 778.2 km²로 나라에서 인구 밀도가 가장 높은 주요 도시이며, 인구는 로스앤젤레스의 두 배가 넘는다. 대도시권의 거주자는 2,010만 명이 넘어 미국에서 가장 많다.
+
+이 지역에는 먼시어를 쓰는 레나페족이 살았다. 헨리 허드슨은 1609년 [[Dutch East India Company|네덜란드 동인도 회사]]를 위해 북서 항로를 찾다가 이 항구를 방문했다. 네덜란드 식민자들은 1624년경 [[Manhattan|맨해튼]]에 암스테르담 요새를 세웠고, 정착지는 1626년 뉴암스테르담으로 이름 붙여졌으며 1653년 시로 특허를 받았다. 잉글랜드는 1664년 이곳을 장악하고 요크 공작, 훗날의 [[James II of England|제임스 2세]]를 따라 이름을 바꾸었으며, 이 이름은 1674년 영구히 확정되었다. 뉴욕은 1785년부터 1790년까지 미국의 수도였고, 현대의 도시는 1898년 자치구들의 통합으로 형성되었다. 1892년부터 1954년까지 1200만 명이 넘는 이민자가 [[Ellis Island|엘리스섬]]을 통해 미국에 들어왔다.
+
+[[Wall Street|월스트리트]]가 있는 금융가를 중심으로 하는 이 도시는 금융, 상업, 기술, 미디어, 문화, 패션의 세계적 중심지이다. 대도시권의 총생산은 2024년에 2조 4400억 달러를 넘었다. [[New York Stock Exchange|뉴욕 증권 거래소]]와 [[Nasdaq|나스닥]]은 상장 기업의 시가 총액 기준으로 세계 최대의 두 증권 거래소이다. 이 도시에는 [[United Nations|국제 연합]] 본부가 있다. 연중무휴 24시간 운행하는 도시 철도 체계가 있음에도 도시 자동차 교통 정체에서 세계 최고이다.
+
+
+=== KEY: Northrop_Grumman_994c84
+FILE: data/ko/tr_out/t_243.json
+FLAGS: links differ, dropped ['Virginia'], added []
+ENGLISH:
+American aerospace and defense company, headquartered in West Falls Church, [[Virginia]]. Formed in 1994 by the merger of Northrop Corporation and Grumman Aerospace, it is the fifth-largest U.S. federal contractor. In 2024, 87% of its revenues came from the U.S. federal government. Its products include the B-21 Raider bomber, the MQ-4C Triton [[Unmanned aerial vehicle|unmanned aerial vehicle]], and radar for the [[Lockheed Martin F-35 Lightning II]]. Its defense systems division works on the modernization of the [[Intercontinental ballistic missile|intercontinental ballistic missile]] system, including the LGM-35 Sentinel. The company and its partners have won the Collier Trophy nine times, including for the [[James Webb Space Telescope]].
+KOREAN:
+버지니아주 웨스트폴스처치에 본사를 둔 미국의 항공 우주 및 방위 산업 기업. 1994년 노스럽사와 그러먼 에어로스페이스의 합병으로 설립되었으며, 미국 연방 정부 계약 업체 가운데 다섯 번째로 크다. 2024년 매출의 87%가 미국 연방 정부에서 나왔다. 제품으로는 B-21 레이더 폭격기, MQ-4C 트라이턴 [[Unmanned aerial vehicle|무인 항공기]], [[Lockheed Martin F-35 Lightning II|록히드 마틴 F-35 라이트닝 II]]용 레이더 등이 있다. 방위 시스템 부문은 LGM-35 센티넬을 포함한 [[Intercontinental ballistic missile|대륙간 탄도 미사일]] 체계의 현대화 사업을 맡고 있다. 이 회사와 협력사들은 [[James Webb Space Telescope|제임스 웹 우주 망원경]]을 비롯해 콜리어 트로피를 아홉 차례 수상했다.
+
+
+=== KEY: Peat_44f4fa
+FILE: data/ko/tr_out/t_258.json
+FLAGS: numbers missing ['550']
+ENGLISH:
+Accumulation of partially decayed vegetation or organic matter, formed in waterlogged wetlands. Peat forms when plant material does not fully decay in acidic, oxygen-poor conditions, and [[Sphagnum]] moss is among its most common components. It accumulates at about a millimeter a year, and its deposits preserve pollen and plant remains that record past vegetation and climate. Peatlands cover 3.7 million square kilometers and store up to 550 gigatonnes of carbon, about 42% of soil carbon, although they cover just 3% of the land's surface. Peat is often the first step in the formation of [[Coal|coal]]. Burning and draining peat have released large amounts of [[Carbon dioxide|carbon dioxide]] into the atmosphere.
+KOREAN:
+물에 잠긴 습지에서 형성되는, 부분적으로 분해된 식물 또는 유기물의 퇴적물. 이탄은 산성에 산소가 부족한 조건에서 식물 물질이 완전히 분해되지 않을 때 만들어지며, [[Sphagnum|물이끼속]] 이끼가 가장 흔한 구성 성분 가운데 하나이다. 이탄은 1년에 약 1밀리미터씩 쌓이며, 그 퇴적층에는 꽃가루와 식물 잔해가 보존되어 과거의 식생과 기후를 기록한다. 이탄지는 370만 제곱킬로미터를 덮고 있으며 최대 5,500억 톤의 탄소를 저장하는데, 이는 토양 탄소의 약 42%이지만 육지 표면의 3%만 차지한다. 이탄은 흔히 [[Coal|석탄]] 형성의 첫 단계이다. 이탄을 태우고 배수하면서 막대한 양의 [[Carbon dioxide|이산화 탄소]]가 대기 중으로 방출되었다.
+
+
+=== KEY: Precambrian_9aec51
+FILE: data/ko/tr_out/t_271.json
+FLAGS: numbers missing ['4,404']
+ENGLISH:
+Informal unit of geologic time, the earliest part of Earth's history, before the [[Phanerozoic]] Eon. It spans from the formation of Earth about 4.6 billion years ago to the start of the [[Cambrian]] Period about 538.8 million years ago, when hard-shelled creatures appeared in abundance. The name refers to its preceding the Cambrian, named after Cambria, the Latinized name for [[Wales]]. The Precambrian accounts for 88% of Earth's geologic time and is divided into the [[Hadean]], [[Archean]], and [[Proterozoic]] eons. Its fossil record is poor, because many rocks have been heavily metamorphosed, eroded, or buried beneath younger strata. Zircon crystals from Western Australia have been dated to 4,404 ± 8 million years old, and a stable crust was apparently in place by 4,433 million years ago. Bacterial fossils older than 3.46 billion years have been found in Western Australia.
+KOREAN:
+지질 시대의 비공식 단위로, 지구 역사의 가장 이른 부분이며 [[Phanerozoic|현생누대]] 이전에 해당한다. 약 46억 년 전 지구의 형성부터 단단한 껍데기를 가진 생물이 대거 나타난 약 5억 3,880만 년 전 [[Cambrian|캄브리아기]]의 시작까지에 걸쳐 있다. 이름은 캄브리아기에 앞선다는 뜻이며, 캄브리아기는 [[Wales|웨일스]]의 라틴어식 이름인 캄브리아에서 따왔다. 선캄브리아대는 지구 지질 시대의 88%를 차지하며 [[Hadean|명왕누대]], [[Archean|시생누대]], [[Proterozoic|원생누대]]로 나뉜다. 많은 암석이 심하게 변성되거나 침식되거나 더 젊은 지층 아래에 묻혔기 때문에 화석 기록이 빈약하다. 웨스턴오스트레일리아주의 지르콘 결정은 44억 400만 ± 800만 년 전의 것으로 연대가 측정되었고, 안정된 지각이 44억 3,300만 년 전에는 이미 자리 잡았던 듯하다. 웨스턴오스트레일리아주에서는 34억 6,000만 년보다 오래된 세균 화석이 발견되었다.
+
+
+=== KEY: Quentin_Tarantino_8f16c8
+FILE: data/ko/tr_out/t_278.json
+FLAGS: links differ, dropped ['Academy Awards'], added []
+ENGLISH:
+American filmmaker, actor and author. His works are characterized by graphic violence, extended dialogue, [[Profanity|profanity]] and references to [[Popular culture|popular culture]]. His debut feature, the independent crime film *Reservoir Dogs* (1992), was an immediate hit. *Pulp Fiction* (1994) won the Palme d'Or at the [[Cannes Film Festival]] and his first [[Academy Awards|Academy Award]], for Best Original Screenplay, and it was inducted into the National Film Registry of the [[Library of Congress]]. *Kill Bill: Volume 1* (2003) and *Kill Bill: Volume 2* (2004) are regarded as a single film. *Django Unchained* (2012) won him a second Academy Award for Best Original Screenplay, and his later films include *Inglourious Basterds* (2009) and *The Hateful Eight* (2015). His films have grossed more than $1.9 billion worldwide.
+KOREAN:
+미국의 영화감독, 배우, 작가. 작품은 노골적인 폭력, 긴 대사, [[Profanity|비속어]], [[Popular culture|대중문화]]에 대한 언급으로 특징지어진다. 독립 범죄 영화인 데뷔 장편 「저수지의 개들」(1992)은 곧바로 흥행에 성공했다. 「펄프 픽션」(1994)은 [[Cannes Film Festival|칸 영화제]]에서 황금종려상을, 그에게 첫 아카데미 각본상을 안겼으며, [[Library of Congress|미국 의회 도서관]]의 국립 영화 등기부에 등재되었다. 「킬 빌」 1부(2003)와 2부(2004)는 하나의 영화로 간주된다. 「장고: 분노의 추적자」(2012)로 두 번째 아카데미 각본상을 받았고, 이후 작품으로 「바스터즈: 거친 녀석들」(2009)과 「헤이트풀 8」(2015)이 있다. 그의 영화는 전 세계에서 19억 달러가 넘는 수익을 올렸다.
+
+
+=== KEY: Robert_Burns_Woodward_ebd926
+FILE: data/ko/tr_out/t_288.json
+FLAGS: numbers missing ['12']
+ENGLISH:
+American [[Organic chemistry|organic chemist]], considered by many the preeminent synthetic organic chemist of the 20th century. He received the [[Nobel Prize]] in Chemistry in 1965 for his achievements in the art of organic synthesis. Woodward used ultraviolet spectroscopy to devise rules for determining molecular structures, and he determined the structures of penicillin and terramycin. In 1944, during [[World War II]], he reported the synthesis of the alkaloid [[Quinine|quinine]], a treatment for [[Malaria]]. His later total syntheses included strychnine (1954), reserpine (1956) and, with Albert Eschenmoser, [[Vitamin B12|vitamin B12]] (1973), then the most complex non-protein biomolecule known at the time. With Roald Hoffmann he formulated the Woodward-Hoffmann rules (1965), which explain pericyclic reactions through orbital [[Symmetry|symmetry]]. He remained at [[Harvard University]] for the rest of his life.
+KOREAN:
+미국의 [[Organic chemistry|유기 화학자]]로, 많은 이에게 20세기 최고의 유기 합성 화학자로 여겨진다. 유기 합성 기술의 업적으로 1965년 [[Nobel Prize|노벨]] 화학상을 받았다. 우드워드는 자외선 분광법을 이용해 분자 구조를 결정하는 규칙을 고안했고, 페니실린과 테라마이신의 구조를 밝혀냈다. 1944년 [[World War II|제2차 세계 대전]] 중에 [[Malaria|말라리아]] 치료제인 알칼로이드 [[Quinine|퀴닌]]의 합성을 보고했다. 이후의 전합성으로는 스트리크닌(1954), 레세르핀(1956), 그리고 앨버트 에셴모저와 함께한 [[Vitamin B12|비타민 B₁₂]](1973)가 있으며, 비타민 B₁₂는 당시 알려진 가장 복잡한 비단백질 생체 분자였다. 로알드 호프만과 함께 오비탈 [[Symmetry|대칭]]으로 고리 협동 반응을 설명하는 우드워드-호프만 규칙(1965)을 정립했다. 그는 평생 [[Harvard University|하버드 대학교]]에 남았다.
+
+
+=== KEY: Rust_Belt_838617
+FILE: data/ko/tr_out/t_293.json
+FLAGS: numbers missing ['1960']
+ENGLISH:
+Region of the northern United States affected by industrial decline. Common definitions include Illinois, Indiana, Iowa, Michigan, Minnesota, New Jersey, New York, [[Ohio]], Pennsylvania, and Wisconsin. It was the industrial heartland from the late 19th century through the late 20th, built on iron and steel, automobiles, and coal. Decline began in the 1950s and 1960s as coal demand fell and steel faced competition from [[Germany]] and [[Japan]]. Factories relocated to the Sun Belt or overseas, and families left, leaving cities with falling tax revenues and abandoned buildings. The name, derived from [[Rust|rust]], refers to the corrosive effects of decline.
+KOREAN:
+산업 쇠퇴의 영향을 받은 미국 북부 지역. 흔한 정의에는 일리노이주, 인디애나주, 아이오와주, 미시간주, 미네소타주, 뉴저지주, 뉴욕주, [[Ohio|오하이오주]], 펜실베이니아주, 위스콘신주가 포함된다. 19세기 후반부터 20세기 후반까지 철강, 자동차, 석탄을 기반으로 한 산업의 심장부였다. 쇠퇴는 1950~60년대 석탄 수요가 줄고 철강이 [[Germany|독일]]과 [[Japan|일본]]의 경쟁에 직면하면서 시작되었다. 공장은 선 벨트나 해외로 이전했고 가족들도 떠나, 도시에는 세수 감소와 버려진 건물이 남았다. 이 이름은 [[Rust|녹]]에서 유래했으며, 쇠퇴가 가져온 부식 효과를 가리킨다.
+
+
+=== KEY: Scientific_method_fb3b59
+FILE: data/ko/tr_out/t_300.json
+FLAGS: numbers missing ['1970']
+ENGLISH:
+Empirical method of acquiring knowledge through careful observation, skepticism, hypothesis testing, and experimental validation. Developed from ancient and medieval practices, it acknowledges that cognitive assumptions can distort the interpretation of observations. It has characterized science since at least the 17th century.
+
+Inquiry typically involves forming a testable [[Hypothesis|hypothesis]] through inductive reasoning, predicting its consequences, testing it through [[Experiment|experiments]] and statistical analysis, and adjusting or discarding it according to the results. A hypothesis must be falsifiable: some possible outcome must conflict with its predictions. Although often presented as a fixed sequence of steps, the method is better described as a set of general principles; not all steps occur in every inquiry or in the same order, and chance has played a role in some discoveries.
+
+Early expressions of [[Empiricism|empiricism]] appear with the ancient Stoics, Aristotle, Epicurus, [[Ibn al-Haytham|Alhazen]], Avicenna, Al-Biruni, Roger Bacon, and William of Ockham. During the [[Scientific Revolution]], [[Francis Bacon]] and Robert Hooke furthered empiricism, [[René Descartes]] described a rationalist approach, and inductivism rose to prominence through Isaac Newton and his followers. The term "scientific method" emerged in the 19th century, as institutional development of science and words such as "scientist" and "pseudoscience" drew boundaries between science and non-science.
+
+By the 1960s and 1970s, philosophers of science such as Thomas Kuhn and Paul Feyerabend had questioned its universality, favoring a view of science as a heterogeneous and local practice. In *Against Method* (1975), Feyerabend argued against any universal rules of science; Karl Popper and others disagreed. Lee Smolin's 2013 essay "There Is No Scientific Method" and Daniel Thurs's 2015 chapter, which called it a myth or at best an idealization, show that the debate continues.
+KOREAN:
+주의 깊은 관찰, 회의, 가설 검정, 실험적 검증을 통해 지식을 얻는 경험적 방법. 고대와 중세의 관행에서 발전했으며, 인지적 가정이 관찰의 해석을 왜곡할 수 있음을 인정한다. 적어도 17세기부터 과학의 특징이 되어 왔다.
+
+탐구는 보통 귀납적 추론으로 검증 가능한 [[Hypothesis|가설]]을 세우고, 그 결과를 예측하고, [[Experiment|실험]]과 통계 분석으로 검증하고, 결과에 따라 가설을 수정하거나 폐기하는 과정으로 이루어진다. 가설은 반증 가능해야 한다. 즉 어떤 가능한 결과는 그 예측과 충돌해야 한다. 흔히 고정된 단계의 순서로 제시되지만, 이 방법은 일반 원칙의 집합으로 설명하는 편이 낫다. 모든 탐구에서 모든 단계가 일어나는 것도, 같은 순서로 일어나는 것도 아니며, 일부 발견에서는 우연이 역할을 했다.
+
+[[Empiricism|경험론]]의 초기 표현은 고대 스토아학파, 아리스토텔레스, 에피쿠로스, [[Ibn al-Haytham|알하젠]], 이븐 시나, 알비루니, 로저 베이컨, 오컴의 윌리엄에게서 나타난다. [[Scientific Revolution|과학 혁명]] 동안 [[Francis Bacon|프랜시스 베이컨]]과 로버트 훅은 경험론을 발전시켰고, [[René Descartes|르네 데카르트]]는 합리주의적 접근을 서술했으며, 귀납주의는 아이작 뉴턴과 그 추종자들을 통해 두각을 나타냈다. “과학적 방법”이라는 용어는 19세기에 등장했는데, 과학의 제도적 발전과 “과학자”, “유사 과학” 같은 말들이 과학과 비과학 사이의 경계를 긋던 때였다.
+
+1960~70년대에 이르러 토머스 쿤과 파울 파이어아벤트 같은 과학철학자들은 그 보편성에 의문을 제기하며, 과학을 이질적이고 지역적인 실천으로 보는 견해를 선호했다. 파이어아벤트는 『방법에 반대한다』(1975)에서 과학의 어떤 보편적 규칙에도 반대했으나, 카를 포퍼 등은 이에 동의하지 않았다. 리 스몰린의 2013년 에세이 「과학적 방법은 없다」와 이를 신화 또는 기껏해야 이상화라고 부른 대니얼 서스의 2015년 장은 논쟁이 계속되고 있음을 보여 준다.
+
+
+=== KEY: Stephen_Curry_487526
+FILE: data/ko/tr_out/t_321.json
+FLAGS: links differ, dropped ['National Basketball Association'], added []
+ENGLISH:
+American basketball player for the Golden State Warriors. Widely regarded as the greatest shooter in [[Basketball|basketball]] history, he is credited with popularizing the three-point shot. He won four [[National Basketball Association|NBA]] championships and two league MVP awards, and in 2022 became the NBA's all-time leader in three-pointers made. He set the NCAA single-season record for three-pointers made (162) as a sophomore at Davidson College. He also won two FIBA World Cup gold medals and a gold medal at the 2024 Summer Olympics with the United States national team.
+KOREAN:
+골든스테이트 워리어스에서 뛰는 미국의 농구 선수. [[Basketball|농구]] 역사상 가장 위대한 슈터로 널리 평가받으며 3점슛을 대중화한 공로를 인정받는다. NBA 우승 4회와 리그 최우수 선수상 2회를 차지했고, 2022년에는 NBA 역대 3점슛 성공 1위가 되었다. 데이비드슨 칼리지 2학년 때 NCAA 단일 시즌 3점슛 성공 기록(162개)을 세웠다. 또한 미국 국가대표팀으로 FIBA 농구 월드컵 금메달 2회와 2024년 하계 올림픽 금메달을 땄다.
+
+
+=== KEY: Tabanidae_f85fab
+FILE: data/ko/tr_out/t_329.json
+FLAGS: links differ, dropped ['Protein'], added []
+ENGLISH:
+Family of true flies in the [[Insect|insect]] order Diptera, including horse flies and deer flies. Adults are often large and agile in flight, and the family occurs all over the world except for some islands and the polar regions. Females require a high [[Protein|protein]] diet and bite land vertebrates, including humans, to obtain the blood that enables them to produce eggs. Their mouthparts form a stout stabbing organ with two pairs of sharp cutting blades. Females can transfer blood-borne diseases, including anthrax among cattle and sheep, and can reduce growth rates in cattle if suitable shelters are not provided. The larvae are predaceous and grow in semiaquatic habitats. The insects appear in literature: [[Aeschylus]] depicts a gadfly driving Io to madness in *Prometheus Bound*, and [[Socrates]] later adopted the gadfly as an ironic mascot for his persistent questioning.
+KOREAN:
+[[Insect|곤충]]강 파리목에 속하는 진정파리 과로, 등에와 사슴등에를 포함한다. 성충은 대체로 크고 비행이 민첩하며, 일부 섬과 극지방을 제외한 전 세계에 분포한다. 암컷은 고단백 먹이가 필요하여 알을 만드는 데 필요한 피를 얻으려고 인간을 포함한 육상 척추동물을 문다. 입틀은 날카로운 절단용 칼날 두 쌍을 가진 굵은 찌르는 기관을 이룬다. 암컷은 소와 양의 탄저병을 비롯해 혈액으로 전염되는 질병을 옮길 수 있고, 적절한 은신처가 제공되지 않으면 소의 성장률을 떨어뜨릴 수 있다. 유충은 육식성이며 반수생 서식지에서 자란다. 이 곤충은 문학에도 등장하는데, [[Aeschylus|아이스킬로스]]는 『결박된 프로메테우스』에서 등에가 이오를 광기로 몰아넣는 모습을 그렸고, 이후 [[Socrates|소크라테스]]는 끈질긴 질문 방식의 반어적 상징으로 등에를 택했다.
+
+
+=== KEY: The_Empire_Strikes_Back_910ac9
+FILE: data/ko/tr_out/t_335.json
+FLAGS: numbers missing ['549']
+ENGLISH:
+1980 epic space opera film directed by Irvin Kershner. It is the second film in the [[Star Wars]] series, in which the Rebel Alliance battles the Galactic Empire. Luke Skywalker trains to master the Force, and the climax, in which [[Darth Vader]] reveals he is Luke's father, is often ranked among cinema's greatest plot twists. Released on May 21, 1980, it was the year's highest-grossing film, with a worldwide gross of $549–$550 million. It is now often regarded as the best film in the series.
+KOREAN:
+어빈 커슈너가 감독한 1980년 대서사 스페이스 오페라 영화. [[Star Wars|스타워즈]] 시리즈의 두 번째 영화로, 반란 연합이 은하 제국과 싸운다. 루크 스카이워커는 포스를 익히기 위해 수련하며, [[Darth Vader|다스 베이더]]가 자신이 루크의 아버지임을 밝히는 클라이맥스는 영화사에서 가장 위대한 반전 가운데 하나로 자주 꼽힌다. 1980년 5월 21일 개봉했으며 그해 흥행 수입 1위 영화로, 전 세계 수익은 5억 4,900만~5억 5,000만 달러였다. 지금은 시리즈 최고의 영화로 평가되는 경우가 많다.
+
+
+=== KEY: Three_Gorges_Dam_5c1513
+FILE: data/ko/tr_out/t_341.json
+FLAGS: links differ, dropped [], added []
+ENGLISH:
+Hydroelectric gravity dam spanning the Yangtze River in Hubei province, China. Completed in 2006, the dam is 185 meters high and 2,309 meters wide. Its power plant became fully operational in 2012, and its 32 main turbines give it an installed capacity of 22,500 MW, the largest of any [[Power station]] in the world. It generates an average of 95±20 TWh of [[Electricity]] per year, depending on precipitation in the basin. The dam improves shipping on the [[Yangtze]] and provides flood control for millions of people. Estimates of the number of people displaced by its construction range from 1.13 million to around 1.4 million, and construction inundated culturally significant sites. Its ecological effects include an increased risk of landslides.
+KOREAN:
+중국 후베이성의 [[Yangtze|양쯔강]]에 걸쳐 있는 수력 발전용 중력식 댐. 2006년에 완공된 이 댐은 높이 185미터, 폭 2,309미터이다. 발전소는 2012년에 완전 가동되었으며, 주 터빈 32기로 설비 용량 22,500 MW를 갖춰 세계 최대의 [[Power station|발전소]]이다. 유역의 강수량에 따라 연평균 95±20 TWh의 [[Electricity|전기]]를 생산한다. 이 댐은 [[Yangtze|양쯔강]]의 선박 운항을 개선하고 수백만 명에게 홍수 조절 효과를 제공한다. 건설로 이주한 사람의 수는 113만 명에서 약 140만 명으로 추정되며, 건설로 문화적으로 중요한 유적이 수몰되었다. 생태적 영향으로는 산사태 위험 증가가 있다.
+
+
+=== KEY: Uma_Thurman_2b70f3
+FILE: data/ko/tr_out/t_351.json
+FLAGS: numbers missing ['1']
+ENGLISH:
+American actress known for her collaborations with [[Quentin Tarantino]]. She gained international attention as Mia Wallace in *Pulp Fiction* (1994), earning an Academy Award nomination for Best Supporting Actress. As the Bride in *Kill Bill: Volume 1* and *Volume 2*, she received a BAFTA Award nomination. Thurman won a Golden Globe for the [[HBO]] film *Hysterical Blindness* and has also appeared in *Gattaca* and *Les Misérables*. She made her Broadway debut in *The Parisian Woman*. Thurman has [[Dyslexia|dyslexia]] and has spoken openly about it.
+KOREAN:
+[[Quentin Tarantino|쿠엔틴 타란티노]]와의 협업으로 알려진 미국의 여배우. 「펄프 픽션」(1994)의 미아 월리스 역으로 국제적 주목을 받았고 아카데미상 여우조연상 후보에 올랐다. 「킬 빌」 「2부」를 포함한 시리즈에서 신부 역을 맡아 영국 아카데미상 후보에 올랐다. 서먼은 [[HBO]] 영화 「히스테리컬 블라인드니스」로 골든글로브상을 받았고 「가타카」와 「레 미제라블」에도 출연했다. 「파리지앵 우먼」으로 브로드웨이에 데뷔했다. 서먼은 [[Dyslexia|난독증]]이 있으며 이에 대해 공개적으로 이야기해 왔다.
+
+
+=== KEY: West_Bank_1b36d4
+FILE: data/ko/tr_out/t_364.json
+FLAGS: numbers missing ['1948']
+ENGLISH:
+Landlocked Palestinian territory west of the [[Jordan River]], occupied by [[Israel]] since the [[Six-Day War]] of 1967. It is the larger of the two Palestinian territories, the other being the [[Gaza Strip]]. Jordan had annexed the area after the [[1948 Arab–Israeli War]]. The mid-1990s [[Oslo Accords]] divided it into three areas, with Israel controlling Area C, about 60% of the territory. In 2024 the [[International Court of Justice]] ruled again that Israel's occupation is unlawful. Palestinians regard the West Bank as the heart of their envisaged state, while many right-wing and religious Israelis regard it as their ancestral homeland.
+KOREAN:
+[[Jordan River|요르단강]] 서쪽에 있으며 1967년 [[Six-Day War|6일 전쟁]] 이래 [[Israel|이스라엘]]이 점령 중인 내륙의 팔레스타인 영토. 두 팔레스타인 영토 가운데 더 큰 쪽이며, 다른 하나는 [[Gaza Strip|가자 지구]]이다. 요르단은 [[1948 Arab–Israeli War|제1차 중동 전쟁]] 뒤 이 지역을 병합했다. 1990년대 중반의 [[Oslo Accords|오슬로 협정]]으로 세 구역으로 나뉘었고, 이스라엘이 영토의 약 60%인 C 구역을 통제한다. 2024년 [[International Court of Justice|국제 사법 재판소]]는 이스라엘의 점령이 불법이라고 다시 판결했다. 팔레스타인인은 서안 지구를 자신들이 구상하는 국가의 심장부로 여기고, 많은 이스라엘 우파와 종교인은 이곳을 조상의 땅으로 여긴다.
+
+
+=== KEY: Wright_brothers_5811dc
+FILE: data/ko/tr_out/t_369.json
+FLAGS: links differ, dropped ['North Carolina'], added []
+ENGLISH:
+American [[Aviation|aviation]] pioneers who built and flew the first successful powered [[Airplane|airplane]]. Their 1903 [[Wright Flyer]] made the first controlled, sustained flight of an engine-powered, heavier-than-air aircraft, near Kill Devil Hills, [[North Carolina]]. Their key invention was a three-axis control system that let the pilot steer and balance the aircraft, and it remains standard on airplanes. Unlike other experimenters who emphasized engine power, they focused on pilot control and used a small home-built wind tunnel to collect more accurate data. Their 1904 Flyer II made longer flights, including the first circle, and the 1905 Flyer III was the first truly practical [[Fixed-wing aircraft|fixed-wing aircraft]]. They learned mechanics in a [[Dayton, Ohio|Dayton, Ohio]] shop that worked on printing presses and bicycles, and they conducted [[Glider (aircraft)|glider]] tests from 1900 until 1903.
+KOREAN:
+최초로 성공한 동력 [[Airplane|비행기]]를 제작하여 비행한 미국의 [[Aviation|항공]] 개척자들. 이들의 1903년 [[Wright Flyer|라이트 플라이어]]는 노스캐롤라이나 킬데블힐스 근처에서 엔진으로 움직이는 중항공기로는 처음으로 조종 가능한 지속 비행에 성공했다. 핵심 발명은 조종사가 항공기를 조종하고 균형을 잡게 한 3축 조종 체계로, 이는 지금도 비행기의 표준이다. 엔진 출력을 강조한 다른 실험가들과 달리 이들은 조종사의 조종에 집중했으며 직접 만든 작은 풍동을 사용하여 더 정확한 자료를 모았다. 1904년의 플라이어 2호는 최초의 선회 비행을 포함해 더 긴 비행을 했고, 1905년의 플라이어 3호는 진정으로 실용적인 최초의 [[Fixed-wing aircraft|고정익 항공기]]였다. 이들은 인쇄기와 자전거를 다루던 [[Dayton, Ohio|오하이오주 데이턴]]의 가게에서 기계 기술을 익혔으며, 1900년부터 1903년까지 [[Glider (aircraft)|글라이더]] 실험을 했다.
+
+
+=== KEY: Zhu_Xi_5e9596
+FILE: data/ko/tr_out/t_373.json
+FLAGS: links differ, dropped ['Song dynasty'], added []
+ENGLISH:
+Chinese philosopher, historian, politician and poet of the Southern [[Song dynasty|Song dynasty]], and a leading figure in the development of Neo-Confucianism. His commentaries and editions of the Four Books, including the [[Analects|Analects]] and [[Mencius|Mencius]], became the core texts of the imperial civil service examinations from 1313 until their abolition in 1905. He emphasized the "investigation of things" and meditation as essential to moral and intellectual self-cultivation, and he criticized Buddhist approaches that claimed insight detached from ritual and learning. His thought became the official state ideology of China from the [[Yuan dynasty|Yuan dynasty]] onward and was later adopted in Japan, Korea and Vietnam. He wrote, compiled or edited almost a hundred books, and his followers recorded thousands of his conversations.
+KOREAN:
+남송의 중국 철학자, 역사가, 정치가, 시인으로 성리학 발전을 이끈 인물. 『[[Analects|논어]]』와 『[[Mencius|맹자]]』를 포함한 사서에 대한 그의 주석과 판본은 1313년부터 폐지된 1905년까지 과거 시험의 핵심 교재가 되었다. 그는 “격물”과 명상이 도덕적, 지적 수양에 필수라고 강조했고, 의례와 학문에서 떨어진 통찰을 내세우는 불교의 접근 방식을 비판했다. 그의 사상은 [[Yuan dynasty|원나라]] 이래 중국의 공식 국가 이념이 되었고 훗날 일본, 한국, 베트남에서도 채택되었다. 그는 거의 100권에 이르는 책을 쓰거나 편찬하거나 편집했으며, 제자들은 수천 건의 대화를 기록했다.
